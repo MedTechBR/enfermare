@@ -1,0 +1,502 @@
+[
+ {
+  "q": "Mulher de 58 anos, internada na clínica cirúrgica, tem ferida aberta na coxa após drenagem de abscesso, deixada para fechar sozinha. No 12º dia, o leito está vermelho vivo, úmido, de aspecto granuloso e sangra fácil ao toque; na margem aparece uma faixa rosada e brilhante. Em que fase da cicatrização a ferida está e o que a faixa representa?",
+  "alts": [
+   "Inflamatória; a faixa é o eritema esperado dos primeiros dias",
+   "Maturação; a faixa é o colágeno já reorganizado da cicatriz",
+   "Proliferativa; a faixa é a epitelização que avança das bordas",
+   "Proliferativa; a faixa é maceração da borda por excesso de umidade",
+   "Hemostasia; a faixa é a matriz provisória de fibrina do coágulo"
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Fisiologia da cicatrização",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Leitura Feridas e lesão por pressão do Enfermare (out/2026), seção Pele e cicatrização; Res. COFEN 787/2025 (avaliação da ferida)",
+  "coment": "Tecido vermelho vivo, úmido, granuloso e friável é tecido de granulação, produto da fase proliferativa, em que fibroblastos depositam colágeno e novos capilares crescem (angiogênese). Na mesma fase, queratinócitos migram das bordas e dos anexos sobre o leito granulado: é a epitelização, que aparece como faixa rosada e brilhante na margem. A fase inflamatória vem antes, com calor, rubor e edema nos primeiros dias; a maturação começa depois do fechamento e dura meses. Maceração deixa a borda esbranquiçada e amolecida. A ferida deixada aberta com perda de tecido fecha por segunda intenção.",
+  "porAlt": [
+   "O eritema inflamatório é dos primeiros dias e não forma faixa brilhante na margem de leito granulado.",
+   "A maturação ocorre depois que a ferida fecha; aqui o leito ainda está aberto e granulando.",
+   "Correta: granulação no leito e epitelização na margem são marcas da fase proliferativa.",
+   "Borda macerada fica esbranquiçada e amolecida pelo excesso de umidade, e não rosada e brilhante.",
+   "A hemostasia é a fase imediata após a lesão, com coágulo de fibrina, e não o 12º dia."
+  ]
+ },
+ {
+  "q": "Homem de 34 anos é operado por apendicite perfurada com peritonite purulenta. Pelo grau de contaminação, o cirurgião fecha a aponeurose, mas deixa pele e subcutâneo abertos sob curativo, com plano de suturá-los depois que a infecção local estiver controlada. A enfermeira registra no prontuário o tipo de cicatrização pretendido. Qual é o registro correto?",
+  "alts": [
+   "Primeira intenção, porque as bordas serão aproximadas por sutura",
+   "Segunda intenção, porque a ferida fica aberta e granula sozinha",
+   "Primeira intenção tardia, porque a sutura ocorre na mesma internação",
+   "Segunda intenção, porque toda ferida contaminada fecha por contração",
+   "Terceira intenção, isto é, fechamento primário retardado da pele"
+  ],
+  "gab": 4,
+  "tema": "feridas",
+  "sub": "Fisiologia da cicatrização",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Leitura Feridas e lesão por pressão do Enfermare (out/2026), seção Primeira, segunda e terceira intenção; Res. COFEN 787/2025 (terapia por pressão negativa)",
+  "coment": "Terceira intenção é a ferida deixada aberta de propósito por um período, para controlar contaminação, edema ou infecção, e fechada depois por sutura ou enxerto; também se chama fechamento primário retardado. É o caso da pele e do subcutâneo deixados abertos após peritonite purulenta. Na primeira intenção, as bordas são aproximadas logo após a lesão, com pouca contaminação. Na segunda, a ferida não é fechada e se preenche de granulação, contrai e epiteliza. Na fase de espera, o enfermeiro prepara o leito até o fechamento, às vezes com terapia por pressão negativa, que a Res. COFEN 787/2025 permite ao enfermeiro habilitado indicar e prescrever.",
+  "porAlt": [
+   "Na primeira intenção a sutura é feita logo após a lesão, o que o cirurgião evitou pela contaminação.",
+   "Na segunda intenção a ferida não é suturada; aqui há plano de fechamento posterior.",
+   "Primeira intenção tardia não é categoria da classificação; o fechamento adiado é a terceira intenção.",
+   "Ferida contaminada pode ser fechada depois de controlada a infecção, como neste caso.",
+   "Correta: ferida aberta de propósito e suturada depois é fechamento primário retardado."
+  ]
+ },
+ {
+  "q": "No 2º dia de pós-operatório de herniorrafia inguinal, um homem de 49 anos apresenta calor discreto, leve rubor e edema ao redor da incisão, sem secreção, sem febre e com dor controlada. Ele pergunta à enfermeira se a ferida infeccionou. Sobre a fase da cicatrização em curso, qual explicação da enfermeira está correta?",
+  "alts": [
+   "Os sinais são esperados na inflamação, que o macrófago faz progredir",
+   "Os sinais indicam infecção de sítio cirúrgico e pedem cultura imediata",
+   "Os sinais vêm da proliferação, em que o neutrófilo produz o colágeno",
+   "Os sinais vêm da maturação, quando os miofibroblastos contraem a ferida",
+   "Os sinais são esperados, e o fibroblasto é a primeira célula a chegar"
+  ],
+  "gab": 0,
+  "tema": "feridas",
+  "sub": "Fisiologia da cicatrização",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Leitura Feridas e lesão por pressão do Enfermare (out/2026), seção Fases da cicatrização",
+  "coment": "Nos primeiros dias a ferida está na fase de hemostasia e inflamação: plaquetas formam o coágulo e liberam fatores de crescimento que atraem neutrófilos e depois macrófagos. O neutrófilo limpa bactérias e detritos; o macrófago comanda a passagem para a fase proliferativa. Calor, rubor, edema e dor discretos nos primeiros dias são esperados e não significam infecção. Sinais de alerta seriam secreção purulenta, eritema que se expande, dor crescente ou febre. O colágeno é produzido pelo fibroblasto na proliferação, e a contração pelos miofibroblastos também ocorre nessa fase, não na maturação.",
+  "porAlt": [
+   "Correta: inflamação discreta no 2º dia é esperada, e o macrófago conduz a passagem à proliferação.",
+   "Sem secreção, febre ou eritema progressivo, os sinais discretos do 2º dia não definem infecção.",
+   "Quem produz colágeno é o fibroblasto; o neutrófilo atua na limpeza durante a inflamação.",
+   "A contração por miofibroblastos é da proliferação, e a maturação ocorre meses depois.",
+   "As primeiras células a chegar são plaquetas e neutrófilos; o fibroblasto domina a proliferação."
+  ]
+ },
+ {
+  "q": "Mulher de 71 anos, com diabetes, tem ferida de deiscência abdominal há seis semanas, com leito limpo, granulado e pouco exsudato, mas sem redução de tamanho nas últimas medidas. Exames recentes: hemoglobina glicada de 10,8% e albumina de 2,6 g/dL. Ela fuma 20 cigarros por dia. Qual conduta do enfermeiro ataca a causa de a ferida estar parada?",
+  "alts": [
+   "Trocar a cobertura por prata e mantê-la até a ferida fechar",
+   "Aumentar a frequência de troca do curativo para três vezes ao dia",
+   "Usar ácidos graxos essenciais como tratamento único do leito",
+   "Tratar fatores sistêmicos com a equipe: glicemia, nutrição e fumo",
+   "Aguardar sem mudanças, pois idosos cicatrizam mais devagar"
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Fisiologia da cicatrização",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Leitura Feridas e lesão por pressão do Enfermare (out/2026), seção O que atrasa a cicatrização; Res. COFEN 787/2025, art. 3º (avaliação clínica abrangente)",
+  "coment": "Ferida crônica é a que ficou parada, e o cuidado é achar o que a mantém assim, não apenas trocar a cobertura. Diabetes descompensado, desnutrição e tabagismo estão entre os fatores sistêmicos que atrasam a cicatrização, e o caso traz os três (HbA1c alta, albumina baixa, 20 cigarros por dia). Pela Res. COFEN 787/2025, o cuidado começa por avaliação clínica abrangente da pessoa, e não só do leito. O plano nutricional é do nutricionista e o controle glicêmico envolve o médico, com o enfermeiro articulando. Prata sem sinal de infecção, mais trocas sem motivo ou AGE isolado não tratam a causa.",
+  "porAlt": [
+   "Prata é para infecção local e por tempo limitado; o leito está limpo e a causa é sistêmica.",
+   "Trocas excessivas traumatizam o leito e não corrigem glicemia, nutrição ou tabagismo.",
+   "AGE tem evidência limitada e não serve como tratamento único de ferida parada.",
+   "Correta: hiperglicemia, desnutrição e fumo mantêm a ferida parada e precisam ser corrigidos.",
+   "A idade não explica sozinha a estagnação quando há fatores corrigíveis evidentes."
+  ]
+ },
+ {
+  "q": "Homem de 66 anos tem úlcera de perna há quatro meses, já em uso de compressão adequada. O leito está todo granulado, sem sinais de infecção, e a cobertura atual controla bem o exsudato. A borda, porém, está enrolada sobre si mesma, espessa, e não avança há semanas. Pelo acrônimo TIME, qual problema domina e pede intervenção?",
+  "alts": [
+   "T, tecido inviável no leito que pede desbridamento",
+   "I, infecção ou inflamação persistente no leito",
+   "M, desequilíbrio de umidade entre leito e borda",
+   "E, borda que não avança e precisa ser tratada",
+   "R, falha de reparo que exige enxerto imediato"
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Fisiologia da cicatrização",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Atkin L et al. Implementing TIMERS: the race against hard-to-heal wounds. J Wound Care 2019;28(Sup3a)",
+  "coment": "No TIME, cada letra é um problema a corrigir no preparo do leito: T, tecido inviável; I, infecção ou inflamação; M, umidade; E, borda. Aqui o leito está granulado (T resolvido), sem infecção (I), com exsudato controlado (M), e a borda enrolada (epíbole) não avança: o problema é E. Borda enrolada não epiteliza; a conduta é reavaliar a causa, proteger a pele perilesional, tratar a borda e considerar terapias adjuvantes. O R pertence ao TIMERS (consenso de 2019), para a ferida que não responde ao tratamento padrão, e não indica enxerto imediato.",
+  "porAlt": [
+   "O leito está todo granulado, sem tecido inviável a desbridar.",
+   "Não há sinais de infecção nem de inflamação persistente descritos no leito.",
+   "O exsudato está controlado pela cobertura, sem desequilíbrio de umidade.",
+   "Correta: borda enrolada que não avança é o problema E do TIME.",
+   "O R é do TIMERS e indica terapia avançada após falha do padrão, não enxerto imediato."
+  ]
+ },
+ {
+  "q": "Homem de 79 anos, que mora sozinho, tem LP estágio 3 no trocânter em tratamento domiciliar. A enfermeira prescreveu troca da espuma a cada três dias pela família, mas o filho só o visita aos domingos e o paciente não consegue alcançar a lesão. Após um mês, a ferida piorou. Pelo TIMERS, que dimensão o plano deixou de considerar?",
+  "alts": [
+   "R, reparo e regeneração com terapia avançada",
+   "S, fatores sociais e relacionados ao paciente",
+   "E, borda descolada que não avança sobre o leito",
+   "M, umidade desequilibrada pela troca espaçada",
+   "I, infecção local por permanência da cobertura"
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Fisiologia da cicatrização",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Atkin L et al. Implementing TIMERS: the race against hard-to-heal wounds. J Wound Care 2019;28(Sup3a)",
+  "coment": "O TIMERS, consenso internacional de 2019, acrescenta ao TIME duas letras: R, de reparo e regeneração tecidual, para a ferida que não responde ao tratamento padrão; e S, de fatores sociais e relacionados ao paciente, como adesão, compreensão, condição socioeconômica, rede de apoio, dor e qualidade de vida. O plano falhou porque ninguém executava a troca prescrita: o paciente não alcança a lesão e o cuidador vem uma vez por semana. Um plano que ignora o que o paciente consegue fazer em casa falha, e a correção passa por rede de apoio, visita domiciliar ou cobertura compatível com a frequência possível.",
+  "porAlt": [
+   "Terapia avançada só se discute depois que o padrão é executado e falha, o que não ocorreu.",
+   "Correta: o plano ignorou a rede de apoio e a capacidade de autocuidado do paciente.",
+   "Nada no caso descreve borda descolada; a falha está na execução do cuidado.",
+   "A troca a cada três dias é adequada à espuma; o problema é que ela não acontecia.",
+   "Infecção pode surgir, mas a causa da piora é a falta de quem execute o plano."
+  ]
+ },
+ {
+  "q": "Ao avaliar uma lesão por pressão sacral estágio 4 em paciente posicionado em decúbito lateral, a enfermeira introduz um aplicador estéril e encontra um túnel de 3 cm de extensão. Para que outro profissional consiga comparar a medida na próxima avaliação, de que forma a posição do túnel deve ser registrada?",
+  "alts": [
+   "Pelos pontos cardeais, com norte apontado para o teto",
+   "Pelo relógio, com as 12 horas voltadas para os pés",
+   "Por quadrantes, a critério de quem faz o curativo",
+   "Pelo relógio, com as 12 horas voltadas para o profissional",
+   "Pelo relógio, com as 12 horas voltadas para a cabeça"
+  ],
+  "gab": 4,
+  "tema": "feridas",
+  "sub": "Fisiologia da cicatrização",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Res. COFEN 787/2025, art. 7º (registro); Res. COFEN 736/2024 (Processo de Enfermagem); leitura Feridas do Enfermare (out/2026), seção Avaliação da ferida",
+  "coment": "A avaliação da ferida segue sempre a mesma ordem para que a evolução seja comparável entre profissionais. Nas dimensões, mede-se comprimento e largura (maior eixo e perpendicular), profundidade, descolamento e túnel, cuja posição se descreve pelo ponteiro do relógio com as 12 horas voltadas para a cabeça do paciente. É uma referência anatômica fixa: não muda com quem examina nem com o decúbito. A Res. COFEN 787/2025 exige registro com as características da ferida, procedimentos e materiais, em prontuário que respeite a LGPD.",
+  "porAlt": [
+   "Pontos cardeais não são referência padronizada na avaliação de feridas.",
+   "A convenção põe as 12 horas na cabeça do paciente, não nos pés.",
+   "Referência a critério de cada profissional impede comparar medidas entre avaliações.",
+   "A referência é anatômica e fixa, não a posição de quem examina.",
+   "Correta: ponteiro do relógio com 12 horas na cabeça do paciente."
+  ]
+ },
+ {
+  "q": "Homem de 68 anos, tabagista, com anemia (hemoglobina de 8,1 g/dL) e claudicação ao caminhar, tem ferida traumática na perna há cinco semanas. O leito apresenta tecido de granulação pálido, opaco e pouco friável, sem esfacelo e com pouco exsudato. O que esse aspecto do leito sugere e qual é o passo seguinte do enfermeiro?",
+  "alts": [
+   "Hipergranulação; trocar para cobertura mais oclusiva",
+   "Má perfusão do leito; avaliar a circulação do membro",
+   "Epitelização inicial; manter a mesma conduta atual",
+   "Esfacelo aderido; iniciar desbridamento com papaína",
+   "Biofilme maduro; aplicar prata por tempo indefinido"
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Fisiologia da cicatrização",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Leitura Feridas e lesão por pressão do Enfermare (out/2026), seção Tipos de tecido no leito; ESVS 2022 (índice tornozelo-braquial)",
+  "coment": "Granulação saudável é vermelho vivo, úmida, granulosa e sangra fácil ao toque. Granulação pálida sugere má perfusão, e o caso traz os motivos: anemia, tabagismo e claudicação, que aponta doença arterial periférica. A causa decide o tratamento de base, e nenhuma cobertura compensa a falta de fluxo; o passo seguinte é avaliar a circulação do membro, com pulsos e índice tornozelo-braquial, e encaminhar para avaliação vascular se alterado. Hipergranulação é tecido acima do nível da pele; epitelização é rosada e brilhante na borda; esfacelo é amarelado e inviável.",
+  "porAlt": [
+   "Hipergranulação é tecido exuberante acima da pele, não leito pálido e opaco.",
+   "Correta: granulação pálida sugere má perfusão, coerente com anemia, fumo e claudicação.",
+   "Epitelização é rosada e brilhante na borda; o leito descrito está pálido e parado.",
+   "O caso afirma que não há esfacelo, então não há tecido inviável a desbridar.",
+   "Prata é para infecção e por tempo limitado; o achado aponta perfusão, não biofilme."
+  ]
+ },
+ {
+  "q": "Mulher de 83 anos, internada há cinco dias por fratura de fêmur, apresenta na região sacral uma bolha intacta de conteúdo seroso claro, com pele rosada ao redor, sem área púrpura ou castanha, sem tecido necrótico e sem gordura visível. Pela classificação NPIAP 2016, como a enfermeira deve registrar a lesão?",
+  "alts": [
+   "Estágio 2, perda parcial com bolha serosa",
+   "Estágio 1, pois a pele ainda está íntegra",
+   "Tissular profunda, pela bolha sobre o sacro",
+   "Não classificável, pois a bolha oculta o leito",
+   "Estágio 3, por perda de espessura total"
+  ],
+  "gab": 0,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Classificação NPIAP 2016 (Edsberg et al., JWOCN 2016), versão SOBEST/SOBENDE 2016; Nota Técnica GVIMS/GGTES/Anvisa 05/2023",
+  "coment": "Pelo NPIAP 2016, estágio 2 é a perda de espessura parcial com derme exposta: leito viável, rosa ou vermelho, úmido, ou bolha de conteúdo seroso, intacta ou rompida, sem gordura visível, granulação, esfacelo ou escara. Bolha serosa sobre proeminência óssea, numa idosa restrita ao leito, é a apresentação típica. A bolha de conteúdo sanguinolento, ou a área púrpura ou castanha, indicaria lesão tissular profunda. Estágio 1 é pele íntegra com eritema que não embranquece. A regra geral é classificar pelo tecido mais profundo visível ou palpável.",
+  "porAlt": [
+   "Correta: bolha de conteúdo seroso é uma das apresentações do estágio 2.",
+   "A bolha já indica perda da integridade da epiderme; estágio 1 é eritema em pele íntegra.",
+   "Tissular profunda tem bolha sanguinolenta ou área púrpura, ausentes aqui.",
+   "Bolha serosa intacta não esconde perda total; ela define o estágio 2.",
+   "Estágio 3 exige perda total com gordura visível, o que não há."
+  ]
+ },
+ {
+  "q": "Na UTI, homem de 72 anos em uso de noradrenalina, há seis dias em ventilação mecânica, apresenta no calcâneo esquerdo área púrpura persistente que não embranquece à pressão, com bolha de conteúdo sanguinolento. No dia anterior, o local já estava doloroso e mais frio. Pela NPIAP 2016, qual é a classificação e a preocupação principal?",
+  "alts": [
+   "Estágio 2, por ser bolha; tende a fechar sem perda tecidual",
+   "Estágio 1 em pele escura; basta aliviar a pressão por um dia",
+   "Tissular profunda; o dano está junto ao osso e pode abrir",
+   "Não classificável; a bolha deve ser rompida para estadiar",
+   "Estágio 3, pela cor púrpura que indica perda total da pele"
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Classificação NPIAP 2016 (Edsberg et al., JWOCN 2016), versão SOBEST/SOBENDE 2016; Nota Técnica GVIMS/GGTES/Anvisa 05/2023",
+  "coment": "Lesão por pressão tissular profunda é a área persistente de descoloração vermelho-escura, marrom ou púrpura que não embranquece, ou o descolamento epidérmico com leito escuro ou bolha de conteúdo sanguinolento, com pele intacta ou não. Dor e mudança de temperatura costumam preceder a cor, como no caso. O dano começa junto ao osso, por pressão e cisalhamento na interface osso-músculo, e a lesão pode evoluir rápido para estágio 3 ou 4. Não é estágio 1 escuro nem estágio 2, que tem bolha serosa. Vasopressor e ventilação elevam o risco além do escore de Braden.",
+  "porAlt": [
+   "Estágio 2 tem bolha serosa; a sanguinolenta sobre área púrpura indica dano profundo.",
+   "Lesão tissular profunda não é estágio 1 escuro e pode abrir em poucos dias.",
+   "Correta: área púrpura com bolha sanguinolenta é lesão tissular profunda, que pode abrir.",
+   "Não classificável é perda total coberta por esfacelo ou escara, e bolha não se rompe para estadiar.",
+   "Cor púrpura não define perda total; estágio 3 exige gordura visível."
+  ]
+ },
+ {
+  "q": "Homem de 77 anos tem lesão por pressão sacral coberta inteiramente por escara amolecida, sem que se veja o fundo; o membro e a região têm boa perfusão. Após desbridamento autolítico e instrumental conservador, o leito passa a mostrar gordura visível, sem fáscia, músculo, tendão ou osso. Como fica o registro da lesão antes e depois do desbridamento?",
+  "alts": [
+   "Era estágio 4 e regrediu para estágio 3",
+   "Era não classificável e passou a estágio 3",
+   "Era estágio 3 desde o início, pela escara",
+   "Era tissular profunda e virou estágio 3",
+   "Era não classificável e segue assim até fechar"
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Classificação NPIAP 2016 (Edsberg et al., JWOCN 2016), versão SOBEST/SOBENDE 2016",
+  "coment": "Lesão por pressão não classificável é a perda de espessura total cuja extensão não pode ser confirmada porque está coberta por esfacelo ou escara. Removido o tecido inviável, aparece o estágio real, 3 ou 4, conforme o tecido mais profundo visível ou palpável. Gordura visível sem fáscia, músculo, tendão, ligamento, cartilagem ou osso define o estágio 3. Antes do desbridamento não era possível afirmar estágio algum, porque o fundo estava oculto. A exceção à remoção é a escara estável (seca, aderida, íntegra) em calcâneo ou membro isquêmico, que não é o caso de uma escara amolecida em região bem perfundida.",
+  "porAlt": [
+   "Não se podia afirmar estágio 4 com o fundo oculto, e o NPIAP não usa regressão de estágio.",
+   "Correta: fundo coberto por escara é não classificável; após a remoção, gordura visível é estágio 3.",
+   "Com escara cobrindo o fundo, a profundidade não podia ser confirmada como estágio 3.",
+   "Tissular profunda é descoloração púrpura ou bolha sanguinolenta, não escara cobrindo o leito.",
+   "Removido o tecido que ocultava o fundo, a lesão passa a ser estadiada pelo que se vê."
+  ]
+ },
+ {
+  "q": "Uma lesão por pressão estágio 4 no ísquio, com osso exposto na admissão, está há dois meses em tratamento. Hoje o leito está coberto por granulação, sem osso visível, e a profundidade caiu pela metade. Um técnico de enfermagem pergunta se já pode registrar a lesão como estágio 3 na evolução. Qual é a orientação correta da enfermeira?",
+  "alts": [
+   "Sim, pois o estágio acompanha o tecido visível hoje",
+   "Sim, mas só após confirmação da cicatrização pelo médico",
+   "Não, deve ser registrada agora como estágio 2 em fechamento",
+   "Não, ela continua sendo estágio 4, agora em cicatrização",
+   "Não, passa a ser não classificável até epitelizar"
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Classificação NPIAP 2016 (Edsberg et al., JWOCN 2016), versão SOBEST/SOBENDE 2016",
+  "coment": "Não existe regressão de estágio na classificação NPIAP. O estágio descreve a profundidade máxima de dano que a lesão atingiu, e uma LP estágio 4 que granula continua sendo estágio 4, registrada como em cicatrização. O tecido de granulação que preenche a cavidade não reconstitui músculo, fáscia ou osso, e a cicatriz nunca recupera toda a resistência da pele original. A evolução se acompanha pelas medidas (comprimento, largura, profundidade) e pelo tipo de tecido no leito, e não pela troca do número do estágio.",
+  "porAlt": [
+   "O estágio não acompanha o tecido de hoje; ele registra o dano máximo atingido.",
+   "Não há regressão de estágio, com ou sem confirmação de outro profissional.",
+   "Estágio 2 é perda parcial com derme exposta, o que nunca descreveu esta lesão.",
+   "Correta: LP estágio 4 que granula é estágio 4 em cicatrização, sem regressão.",
+   "Não classificável é fundo oculto por esfacelo ou escara, não leito granulado."
+  ]
+ },
+ {
+  "q": "Mulher de 80 anos, internada após AVC isquêmico, recebe na admissão as seguintes notas na escala de Braden: percepção sensorial 2, umidade 2, atividade 1, mobilidade 2, nutrição 2 e fricção e cisalhamento 1. Pelas faixas de risco adotadas no protocolo da rede Ebserh, qual é o escore total e a classificação de risco dessa paciente?",
+  "alts": [
+   "Total de 10 pontos, correspondente a risco muito alto",
+   "Total de 12 pontos, correspondente a risco moderado",
+   "Total de 10 pontos, correspondente a risco alto",
+   "Total de 10 pontos, correspondente a risco moderado",
+   "Total de 14 pontos, correspondente a risco leve"
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Escala de Braden validada por Paranhos e Santos (1999); faixas do POP de avaliação de risco da Ebserh HU-UFGD (2025); Nota Técnica GVIMS/GGTES/Anvisa 05/2023",
+  "coment": "A Braden tem seis subescalas: percepção sensorial, umidade, atividade, mobilidade e nutrição pontuam de 1 a 4, e fricção e cisalhamento de 1 a 3. O total vai de 6 a 23, e quanto menor, maior o risco. Aqui: 2 + 2 + 1 + 2 + 2 + 1 = 10. Pelas faixas do POP da Ebserh (HU-UFGD, 2025), que segue a validação de Paranhos e Santos: acima de 18 sem risco, 15 a 18 leve, 13 a 14 moderado, 10 a 12 alto e 9 ou menos muito alto. Escore 10 é risco alto. Protocolos podem variar um pouco; na prova vale a faixa do enunciado. A escala não substitui o julgamento clínico.",
+  "porAlt": [
+   "O total está certo, mas risco muito alto é 9 pontos ou menos.",
+   "A soma das seis subescalas dá 10, e não 12 pontos.",
+   "Correta: a soma dá 10 pontos, na faixa de 10 a 12, que é risco alto.",
+   "Risco moderado corresponde a 13 ou 14 pontos, e não a 10.",
+   "A soma correta é 10, e 14 pontos seria risco moderado, não leve."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos, com fratura de pelve estável, está restrito ao leito por prescrição médica, mas é lúcido e muda de posição sozinho, com frequência e amplitude, usando o trapézio da cama. A residente preenche a escala de Braden na admissão. Como devem ser pontuadas as subescalas atividade e mobilidade desse paciente?",
+  "alts": [
+   "Atividade 4 e mobilidade 1, pois se move no leito",
+   "Atividade 1 e mobilidade 1, pois está restrito ao leito",
+   "Atividade 2 e mobilidade 4, pois está confinado à cadeira",
+   "Atividade 3 e mobilidade 3, pois anda ocasionalmente",
+   "Atividade 1 e mobilidade 4, pois muda de posição sozinho"
+  ],
+  "gab": 4,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Escala de Braden validada por Paranhos e Santos (1999); Nota Técnica GVIMS/GGTES/Anvisa 05/2023",
+  "coment": "Atividade e mobilidade são subescalas distintas, e confundi-las é o erro de preenchimento mais comum. Atividade mede o quanto o paciente sai da cama e anda: quem está restrito ao leito recebe 1 (acamado). Mobilidade mede a capacidade de mudar e controlar a posição do corpo: quem faz mudanças frequentes e importantes de posição sem auxílio recebe 4 (sem limitação). O paciente do caso está acamado por prescrição, mas se reposiciona sozinho. Ambas pontuam de 1 a 4, e o escore total orienta o plano junto com o julgamento clínico.",
+  "porAlt": [
+   "Inverte as subescalas: quem está restrito ao leito tem atividade 1, e quem se move tem mobilidade alta.",
+   "Estar no leito não reduz a mobilidade de quem muda de posição sozinho e com frequência.",
+   "Confinado à cadeira não descreve quem está restrito ao leito por prescrição.",
+   "Andar ocasionalmente não se aplica a quem não sai do leito.",
+   "Correta: acamado pontua atividade 1, e quem se reposiciona sozinho pontua mobilidade 4."
+  ]
+ },
+ {
+  "q": "O Núcleo de Segurança do Paciente de um hospital geral revisa as lesões por pressão adquiridas durante a internação no último mês para decidir quais devem ser notificadas como never events ao Sistema Nacional de Vigilância Sanitária. Pela Nota Técnica GVIMS/GGTES/Anvisa 05/2023, quais categorias da classificação NPIAP entram nesse grupo?",
+  "alts": [
+   "Estágio 3, estágio 4 e lesão não classificável",
+   "Estágio 4 e lesão não classificável, somente",
+   "Estágios 2, 3 e 4, quando adquiridos no hospital",
+   "Estágio 3, estágio 4 e lesão tissular profunda",
+   "Qualquer estágio surgido após 48 horas da admissão"
+  ],
+  "gab": 0,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Nota Técnica GVIMS/GGTES/Anvisa 05/2023 (prevenção de lesão por pressão); RDC ANVISA 36/2013",
+  "coment": "Pela Nota Técnica GVIMS/GGTES/Anvisa 05/2023, são never events relacionados à lesão por pressão, passíveis de notificação ao Sistema Nacional de Vigilância Sanitária pelo Núcleo de Segurança do Paciente, o estágio 3, o estágio 4 e a lesão não classificável. A mesma nota registra que, de 2014 a 2022, 72,21% dos never events notificados foram LP estágio 3. Como os óbitos por evento adverso, são notificados no Notivisa em até 72 horas, com investigação e plano de ação em até 60 dias. As demais LP também são incidentes notificáveis, mas não compõem esse grupo.",
+  "porAlt": [
+   "Correta: estágio 3, estágio 4 e não classificável são os never events da nota técnica.",
+   "Omite o estágio 3, que responde pela maioria dos never events notificados.",
+   "O estágio 2 não está entre os never events definidos pela nota técnica.",
+   "A lesão tissular profunda não integra a lista de never events da nota técnica.",
+   "O critério é a categoria NPIAP, e não um prazo após a admissão."
+  ]
+ },
+ {
+  "q": "Mulher de 76 anos, acamada após AVC, com Braden 11 e sem lesões, está em colchão de ar com pressão alternada. A enfermeira elabora a prescrição de reposicionamento para a equipe de enfermagem da unidade. Pela Nota Técnica Anvisa 05/2023, qual orientação de posicionamento em decúbito lateral está correta?",
+  "alts": [
+   "Decúbito lateral a 90 graus, apoiado sobre o trocânter",
+   "Dispensar mudança de decúbito enquanto estiver no colchão",
+   "Decúbito lateral inclinado a 30 graus, com horário individual",
+   "Decúbito lateral a 45 graus, a cada 4 horas fixas para todos",
+   "Decúbito lateral a 60 graus, com cabeceira elevada a 45 graus"
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Nota Técnica GVIMS/GGTES/Anvisa 05/2023 (prevenção de lesão por pressão)",
+  "coment": "A Nota Técnica Anvisa 05/2023 pede reposicionamento de todos os pacientes em risco, a menos que contraindicado, com frequência individualizada pela tolerância da pele, condição clínica, objetivos do cuidado, conforto e dor, e com estratégias de lembrete. Em decúbito lateral, a inclinação recomendada é de 30 graus, que tira o peso do trocânter e do sacro. A mudança de decúbito é prescrição de enfermagem. A superfície de redistribuição, como o colchão de ar, não substitui o reposicionamento nem a inspeção da pele.",
+  "porAlt": [
+   "O lateral a 90 graus concentra a pressão sobre o trocânter.",
+   "Superfície de suporte não substitui o reposicionamento pela nota técnica.",
+   "Correta: lateral a 30 graus, com frequência definida para cada paciente.",
+   "A frequência é individualizada, não um intervalo fixo igual para todos.",
+   "A inclinação recomendada é de 30 graus, e cabeceira alta aumenta o cisalhamento."
+  ]
+ },
+ {
+  "q": "Homem de 70 anos, diabético, em pós-operatório de revascularização do miocárdio, está restrito ao leito e tem Braden 12. A técnica de enfermagem coloca um rolo de compressas apenas sob o tendão de Aquiles para elevar os calcanhares do colchão. Qual orientação da enfermeira segue a Nota Técnica Anvisa 05/2023?",
+  "alts": [
+   "Manter o rolo, pois o tendão de Aquiles tolera a carga",
+   "Massagear os calcâneos a cada mudança de decúbito",
+   "Apoiar os calcâneos sobre luvas de procedimento com água",
+   "Usar travesseiro sob a panturrilha, com calcâneos livres",
+   "Proteger o calcâneo apenas com filme transparente"
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Nota Técnica GVIMS/GGTES/Anvisa 05/2023 (prevenção de lesão por pressão)",
+  "coment": "Pela Nota Técnica Anvisa 05/2023, os calcâneos devem ficar livres, com dispositivo próprio de suspensão ou travesseiro sob a panturrilha, de modo que o calcanhar não toque o colchão e o peso da perna se distribua ao longo da panturrilha. Apoiar só o tendão de Aquiles concentra a pressão em área pequena. A nota também orienta não massagear proeminências ósseas nem áreas hiperemiadas. Luvas com água não redistribuem a pressão de forma adequada, e filme transparente não alivia carga.",
+  "porAlt": [
+   "Apoiar só o tendão concentra a pressão; o peso deve se distribuir pela panturrilha.",
+   "Massagear proeminências ósseas é contraindicado pela nota técnica.",
+   "Luvas com água não são dispositivo de suspensão e não aliviam a pressão.",
+   "Correta: travesseiro sob a panturrilha distribui o peso e deixa o calcanhar sem contato.",
+   "Filme transparente não redistribui a pressão sobre o calcâneo."
+  ]
+ },
+ {
+  "q": "Na UTI, uma paciente de 60 anos usa cateter nasoenteral, tubo orotraqueal, oxímetro de dedo, cateter vesical de demora e colar cervical. A enfermeira revisa a prescrição de cuidados para prevenir lesão por pressão relacionada a dispositivo médico. Pela Nota Técnica Anvisa 05/2023, qual é a frequência mínima de inspeção da pele sob os dispositivos?",
+  "alts": [
+   "Uma vez por plantão noturno, na troca dos fixadores",
+   "Uma vez ao dia, durante o banho no leito da manhã",
+   "A cada 72 horas, junto à troca dos curativos",
+   "Somente quando houver queixa de dor no local",
+   "Pelo menos duas vezes ao dia, sob cada dispositivo"
+  ],
+  "gab": 4,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Nota Técnica GVIMS/GGTES/Anvisa 05/2023 (prevenção de lesão por pressão)",
+  "coment": "A Nota Técnica Anvisa 05/2023 pede inspeção da pele sob dispositivos médicos (cateteres, tubos, sondas, drenos, imobilizadores) pelo menos duas vezes ao dia, além do exame diário das proeminências ósseas. Os dispositivos devem ter indicação definida, tamanho certo e material macio, e ser reposicionados e acolchoados quando possível. A LP relacionada a dispositivo costuma reproduzir o formato dele e se classifica pelo mesmo sistema de estágios. Paciente sedado ou intubado não refere dor, por isso a inspeção não pode depender de queixa.",
+  "porAlt": [
+   "Uma inspeção por plantão noturno fica abaixo do mínimo de duas vezes ao dia.",
+   "Uma vez ao dia é a frequência das proeminências ósseas, não a mínima sob dispositivos.",
+   "Intervalo de 72 horas deixa a pele sem avaliação por tempo excessivo.",
+   "Paciente intubado não refere dor; esperar queixa atrasa o diagnóstico.",
+   "Correta: a nota técnica pede inspeção sob dispositivos pelo menos duas vezes ao dia."
+  ]
+ },
+ {
+  "q": "Um hospital geral vai padronizar escalas de risco de lesão por pressão por setor. A comissão de pele propõe Braden para os adultos internados e pede uma escala específica para a pediatria, outra para o centro cirúrgico, voltada a lesões do posicionamento, e outra para a terapia intensiva. Quais escalas a Nota Técnica Anvisa 05/2023 cita para esses três setores?",
+  "alts": [
+   "Braden Q, ELPO e Evaruci, respectivamente",
+   "Braden Q, Evaruci e ELPO, respectivamente",
+   "Norton, ELPO e Braden Q, respectivamente",
+   "ELPO, Braden Q e Waterlow, respectivamente",
+   "Evaruci, Norton e a ELPO, respectivamente"
+  ],
+  "gab": 0,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "Nota Técnica GVIMS/GGTES/Anvisa 05/2023 (prevenção de lesão por pressão)",
+  "coment": "A Nota Técnica Anvisa 05/2023 pede avaliação de risco com escala validada para todos os pacientes admitidos, com acompanhamento diário e reavaliação quando a condição clínica muda. A Braden, validada no Brasil por Paranhos e Santos em 1999, é a mais usada no adulto. Para populações especiais, a nota indica a Braden Q na pediatria, a ELPO (Escala de Avaliação de Risco para o Desenvolvimento de Lesões Decorrentes do Posicionamento Cirúrgico) no centro cirúrgico e a Evaruci na terapia intensiva. Nenhuma escala substitui o julgamento clínico.",
+  "porAlt": [
+   "Correta: Braden Q na pediatria, ELPO no centro cirúrgico e Evaruci na UTI.",
+   "Troca as duas últimas: ELPO é do centro cirúrgico e Evaruci da UTI.",
+   "Norton não é a escala pediátrica citada, e Braden Q não é para a UTI.",
+   "ELPO é do centro cirúrgico, não da pediatria, e Waterlow não é a citada para a UTI.",
+   "Evaruci é da UTI, e Norton não é a escala citada para o centro cirúrgico."
+  ]
+ },
+ {
+  "q": "Homem negro de 64 anos, acamado por sequela de AVC, tem Braden 13. Na inspeção do sacro, a enfermeira não identifica eritema, mas a área está mais quente, endurecida e dolorosa que a pele vizinha. A técnica de enfermagem sugere massagear o local com hidratante. Qual conduta está de acordo com a Nota Técnica Anvisa 05/2023?",
+  "alts": [
+   "Massagear a área para ativar a circulação local",
+   "Valorizar calor e endurecimento, sem massagear o local",
+   "Registrar pele normal, pois não há eritema visível",
+   "Aplicar compressa fria para reduzir o endurecimento",
+   "Classificar como estágio 2 pela dor e pelo calor"
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Nota Técnica GVIMS/GGTES/Anvisa 05/2023 (prevenção de lesão por pressão); Classificação NPIAP 2016",
+  "coment": "Em pele negra, o eritema do estágio 1 pode não ser visível, e a avaliação deve incluir sensibilidade, temperatura e consistência; pelo NPIAP 2016, essas alterações podem até preceder a mudança de cor. Calor, endurecimento e dor sobre o sacro de paciente em risco pedem alívio de pressão, reposicionamento e reavaliação próxima. A Nota Técnica Anvisa 05/2023 orienta hidratar a pele diariamente sem massagear proeminências ósseas ou áreas hiperemiadas, porque a massagem lesa tecidos já comprometidos. Estágio 2 exige perda de espessura parcial, o que não há.",
+  "porAlt": [
+   "A nota técnica contraindica massagem de proeminências ósseas e áreas comprometidas.",
+   "Correta: em pele negra, calor e endurecimento sinalizam dano, e a massagem é contraindicada.",
+   "Ausência de eritema visível não exclui lesão em pele escura.",
+   "Compressa fria não é medida de prevenção prevista e não alivia a pressão.",
+   "Estágio 2 exige perda parcial de pele, ausente nesta pele íntegra."
+  ]
+ }
+]

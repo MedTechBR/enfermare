@@ -1,0 +1,482 @@
+[
+ {
+  "q": "Homem de 58 anos, em ventilação mecânica no modo pressão controlada (PCV) por pneumonia, mantinha volume corrente expirado de 450 mL. Às 4 h, o volume cai para 280 mL e a SpO2 de 95% para 89%; há roncos à ausculta e curva de fluxo serrilhada, sem alarme de pressão alta. Qual a interpretação correta da enfermeira?",
+  "alts": [
+   "Desconexão do circuito, porque em PCV a pressão cairia junto com o volume",
+   "Piora da mecânica, que no modo pressórico aparece como queda do volume",
+   "Falha do sensor de fluxo, pois a falta de alarme de pressão exclui obstrução",
+   "Excesso de sedação, que reduz o esforço e o volume ofertado no modo PCV"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT)",
+  "coment": "No modo pressão controlada, programam-se a pressão inspiratória, o tempo inspiratório e a frequência; o volume corrente é consequência da complacência, da resistência e do esforço do paciente. Por isso a piora mecânica, como secreção acumulada (roncos, curva de fluxo serrilhada) ou broncoespasmo, não dispara alarme de pressão alta: aparece como queda do volume expirado e dessaturação. Em PCV o alarme que importa é o de volume baixo, ajustado de forma individualizada (AMIB/SBPT 2013). A conduta é avaliar o paciente, aspirar por necessidade e reavaliar volume e saturação. Em volume controlado, a mesma secreção elevaria o pico de pressão.",
+  "porAlt": [
+   "Desconexão zera o volume expirado e dispara alarme de vazamento ou de pressão baixa, não deixa 280 mL.",
+   "Correta: em PCV o volume varia com a mecânica, e secreção ou broncoespasmo reduzem o volume corrente.",
+   "Em PCV a pressão é fixada pelo ventilador; a ausência de alarme de pressão não exclui obstrução.",
+   "Sedação excessiva não explica roncos e curva serrilhada, que apontam para secreção na via aérea."
+  ]
+ },
+ {
+  "q": "Mulher de 66 anos, intubada há 3 dias por SDRA, em volume controlado, tem queda súbita da SpO2 de 94% para 78%, alarme de pressão alta e taquicardia. O técnico sugere subir a FiO2 e silenciar o alarme. A enfermeira chega ao leito e confirma a instabilidade. Qual é a primeira conduta?",
+  "alts": [
+   "Subir a FiO2 para 100% no ventilador e aguardar a resposta da saturação",
+   "Aspirar a cânula pelo sistema fechado e reavaliar após dez minutos",
+   "Pedir radiografia de tórax no leito antes de manipular o tubo",
+   "Pedir ajuda, desconectar e ventilar com bolsa e oxigênio a 100%",
+   "Aprofundar a sedação, pois a pressão alta indica assincronia"
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT)",
+  "coment": "Dessaturação súbita com alarme de pressão alta no intubado é tratada como emergência pelo mnemônico DOPE: deslocamento do tubo, obstrução (secreção, tubo dobrado ou mordido, broncoespasmo), pneumotórax e falha do equipamento. A primeira manobra separa máquina e paciente: pedir ajuda, desconectar e ventilar com bolsa-válvula e oxigênio a 100%. Se melhora, o problema é o ventilador ou o circuito; se a bolsa está dura ou a saturação não sobe, é o tubo ou o tórax, e a sonda de aspiração passada pelo tubo ajuda a distinguir obstrução de pneumotórax. Silenciar o alarme ou só subir a FiO2 atrasa o diagnóstico.",
+  "porAlt": [
+   "Subir a FiO2 sem separar máquina e paciente mantém a causa (tubo, tórax ou equipamento) sem diagnóstico.",
+   "Aspirar pode ser parte da investigação, mas esperar dez minutos com SpO2 de 78% é inaceitável.",
+   "A radiografia vem depois da estabilização; não se espera imagem com o paciente dessaturando.",
+   "Correta: desconectar e ventilar com bolsa a 100% separa falha do ventilador de problema no paciente.",
+   "Sedar mais sem excluir deslocamento, obstrução e pneumotórax mascara uma causa potencialmente fatal."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos, 1,70 m de altura medida na admissão e 95 kg, é intubado por SDRA moderada. A prescrição pede volume corrente de 6 mL/kg. Ao conferir o ventilador, a enfermeira calcula o peso predito pela fórmula da ARDS Network. Qual volume corrente corresponde à prescrição?",
+  "alts": [
+   "Cerca de 570 mL, calculados sobre o peso real de 95 kg",
+   "Cerca de 530 mL, calculados a 8 mL/kg do peso predito",
+   "Cerca de 400 mL, calculados sobre o peso predito de 66 kg",
+   "Cerca de 480 mL, pela média entre o peso real e o predito"
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "tit",
+  "base": "Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT); fórmula de peso predito da ARDS Network",
+  "coment": "O volume corrente protetor é calculado pelo peso predito, que depende da altura e do sexo, e não pelo peso real, porque o tamanho do pulmão não cresce com a obesidade. No homem, peso predito = 50 + 0,91 × (altura em cm menos 152,4). Para 170 cm: 50 + 0,91 × 17,6 = 66 kg. A 6 mL/kg, o volume fica em cerca de 396 mL, ou seja, perto de 400 mL. A AMIB/SBPT (2013) recomenda 6 mL/kg de peso predito como ajuste inicial, e na SDRA a SSC 2026 limita o platô a 30 cmH2O. Usar o peso real de 95 kg daria 570 mL, volume lesivo. A enfermagem mede a altura na admissão e confere o volume programado contra a prescrição.",
+  "porAlt": [
+   "O peso real superestima o pulmão do obeso; 6 mL/kg de 95 kg gera volume lesivo na SDRA.",
+   "A prescrição é de 6 mL/kg; 8 mL/kg do peso predito daria cerca de 530 mL, acima do pedido.",
+   "Correta: peso predito de 66 kg vezes 6 mL/kg resulta em cerca de 396 mL.",
+   "Não existe regra de média entre pesos; o cálculo usa só o peso predito pela altura e sexo."
+  ]
+ },
+ {
+  "q": "Na UTI, a enfermeira vai realizar a higiene bucal de um paciente intubado há 2 dias, com tubo dotado de lúmen para aspiração subglótica. Segundo o caderno da ANVISA de prevenção de infecções relacionadas à assistência, como deve ser organizada a verificação da pressão do cuff nesse cuidado?",
+  "alts": [
+   "Medir com cuffômetro antes da higiene e aspirar a região subglótica ao final",
+   "Medir pela palpação do balão piloto após a higiene, deixando-o firme ao toque",
+   "Medir com cuffômetro só no fim do plantão, ajustando o valor para 40 cmH2O",
+   "Desinsuflar o cuff durante a higiene para drenar secreção e reinsuflar depois",
+   "Medir com cuffômetro após a higiene e manter a pressão entre 15 e 20 cmH2O"
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2ª ed., 2017",
+  "coment": "O caderno da ANVISA (2017) recomenda manter a pressão do cuff entre 18 e 22 mmHg, ou 25 a 30 cmH2O com medidor de cuff, evitando valores acima de 22 mmHg ou 30 cmH2O. Pressão alta causa isquemia da mucosa traqueal; pressão baixa permite microaspiração da secreção acumulada acima do balonete, principal via da pneumonia associada à ventilação. A medida é feita com cuffômetro, nunca pela palpação do balão piloto, e o mesmo caderno recomenda verificá-la antes da higiene bucal, com aspiração da secreção subglótica ao término. Desinsuflar o cuff durante a higiene leva a secreção direto para a via aérea inferior.",
+  "porAlt": [
+   "Correta: a ANVISA orienta medir com cuffômetro antes da higiene bucal e aspirar a subglote ao final.",
+   "A palpação do balão piloto não estima a pressão com segurança; a medida exige cuffômetro.",
+   "40 cmH2O ultrapassa o limite de 30 cmH2O e causa isquemia da mucosa traqueal.",
+   "Desinsuflar o cuff faz a secreção subglótica descer para a via aérea inferior.",
+   "Pressão de 15 a 20 cmH2O fica abaixo da faixa de 25 a 30 cmH2O e favorece microaspiração."
+  ]
+ },
+ {
+  "q": "Em unidade semi-intensiva, um técnico de enfermagem pergunta se pode aspirar o tubo orotraqueal de um paciente grave em ventilação mecânica, porque a enfermeira está em outra admissão. Há prescrição de enfermagem de aspiração por necessidade e protocolo institucional. Pela Resolução COFEN 557/2017, qual é a resposta correta?",
+  "alts": [
+   "Pode, desde que haja prescrição de enfermagem e protocolo institucional",
+   "Pode, porque a restrição da resolução vale apenas para a UTI e a emergência",
+   "Pode, se for supervisionado a distância pelo enfermeiro do mesmo setor",
+   "Não pode, e a aspiração deve esperar o fisioterapeuta de plantão",
+   "Não pode: aspirar o paciente grave intubado é privativo do enfermeiro"
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 557/2017, arts. 2º a 6º",
+  "coment": "A Resolução COFEN 557/2017, art. 2º, determina que a aspiração de vias aéreas do paciente grave, submetido a intubação orotraqueal ou traqueostomia, em unidades de emergência, internação intensiva, semi-intensiva, intermediária ou demais unidades, é privativa do enfermeiro dentro da equipe de enfermagem. O técnico só pode aspirar o paciente não grave e o crônico com traqueostomia definitiva ou de longa permanência, avaliado e prescrito pelo enfermeiro no Processo de Enfermagem, com protocolo institucional (arts. 4º a 6º). Prescrição e protocolo não transferem ao técnico o procedimento no paciente grave intubado. A enfermeira deve ser chamada.",
+  "porAlt": [
+   "Prescrição e protocolo autorizam o técnico só no paciente não grave ou crônico traqueostomizado.",
+   "O art. 2º inclui expressamente a semi-intensiva e qualquer unidade em que esteja o paciente grave.",
+   "Supervisão a distância não está prevista; o procedimento no paciente grave é do enfermeiro.",
+   "A resolução atribui o procedimento ao enfermeiro, que deve ser chamado, e não manda esperar outro profissional.",
+   "Correta: no paciente grave intubado, a aspiração é privativa do enfermeiro (art. 2º)."
+  ]
+ },
+ {
+  "q": "Paciente de 62 anos em volume controlado, com volume corrente de 420 mL e pausa inspiratória programada, apresenta na última hora aumento do pico de pressão de 28 para 42 cmH2O, enquanto a pressão de platô permanece em 20 cmH2O. A ausculta revela roncos difusos. Qual causa a enfermeira deve investigar primeiro?",
+  "alts": [
+   "Aumento de resistência, como secreção ou tubo dobrado e mordido",
+   "Queda de complacência, como pneumotórax ou intubação seletiva",
+   "Vazamento no cuff, que eleva o pico ao reduzir o volume ofertado",
+   "Hiperinsuflação por PEEP alta, que eleva somente o pico inspiratório"
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT)",
+  "coment": "Em volume controlado, o pico de pressão reflete a resistência das vias aéreas somada à complacência; o platô, medido na pausa inspiratória sem fluxo, reflete só a complacência do sistema respiratório. Pico que sobe com platô estável indica aumento de resistência: secreção (aqui sugerida pelos roncos), tubo dobrado ou mordido, broncoespasmo. A conduta é aspirar por necessidade, checar o tubo e o circuito e, se preciso, comunicar para broncodilatador. Pico e platô subindo juntos apontariam para queda de complacência, como pneumotórax, intubação seletiva ou atelectasia. Vazamento reduz pressões, não as eleva.",
+  "porAlt": [
+   "Correta: pico alto com platô estável é resistência aumentada, compatível com secreção e roncos.",
+   "Queda de complacência eleva pico e platô juntos; aqui o platô ficou estável em 20 cmH2O.",
+   "Vazamento no cuff reduz o volume e as pressões, em vez de elevar o pico inspiratório.",
+   "PEEP alta e hiperinsuflação elevam também o platô, que neste caso não se alterou."
+  ]
+ },
+ {
+  "q": "Homem de 70 anos, recuperado de pneumonia, inicia teste de respiração espontânea em pressão de suporte de 7 cmH2O. Aos 40 minutos, tem frequência respiratória de 38 irpm, SpO2 de 92%, frequência cardíaca de 118 bpm e pressão de 150/80 mmHg, sem sudorese. Qual a conduta, segundo as recomendações da AMIB?",
+  "alts": [
+   "Manter o teste até 120 minutos, pois SpO2 e frequência cardíaca estão boas",
+   "Extubar, porque completou mais de 30 minutos de teste com estabilidade",
+   "Interromper o teste e voltar ao suporte pela frequência acima de 35 irpm",
+   "Reduzir a pressão de suporte para 5 cmH2O, para o teste ficar mais fiel",
+   "Interromper o teste só se a SpO2 cair abaixo de 85% nas próximas horas"
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT)",
+  "coment": "O teste de respiração espontânea (tubo T ou pressão de suporte de 5 a 7 cmH2O por 30 a 120 minutos) é interrompido, com retorno ao suporte anterior, quando surge qualquer sinal de intolerância. Pela AMIB/SBPT (2013): frequência respiratória acima de 35 por minuto, SpO2 abaixo de 90%, frequência cardíaca acima de 140 bpm, sistólica acima de 180 ou abaixo de 90 mmHg, agitação, sudorese ou rebaixamento de consciência. Basta um critério: com 38 irpm o paciente falhou, ainda que a saturação e a frequência cardíaca estejam aceitáveis. A enfermeira registra o motivo da falha e o teste é repetido no dia seguinte, depois de corrigir a causa.",
+  "porAlt": [
+   "Um único critério de intolerância encerra o teste; a frequência acima de 35 irpm já basta.",
+   "Completar 30 minutos não basta; o paciente precisa tolerar o teste sem critério de falha.",
+   "Correta: frequência respiratória acima de 35 irpm é critério de interrupção da AMIB.",
+   "Reduzir o suporte em quem já mostra intolerância agrava a fadiga e não torna o teste válido.",
+   "O corte de SpO2 para interromper é abaixo de 90%, e a frequência acima de 35 irpm já indica falha."
+  ]
+ },
+ {
+  "q": "Paciente de 48 anos com SDRA grave, após 24 horas de ventilação protetora, mantém relação PaO2/FiO2 de 110 com FiO2 de 0,7 e PEEP de 14 cmH2O. A equipe da UTI decide pela posição prona e a enfermeira organiza a escala do procedimento. Qual duração das sessões é sustentada pelas evidências que fundamentam a recomendação?",
+  "alts": [
+   "Sessões de 2 horas a cada turno, alternadas com decúbito lateral",
+   "Sessões de 6 horas ao dia, até a PaO2/FiO2 superar 150",
+   "Sessões noturnas de 8 horas, para não interromper a dieta enteral",
+   "Mais de 12 horas ao dia, com sessões de 16 horas no PROSEVA"
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "ATS 2024, Clinical Practice Guideline on ARDS (Qadir et al.); ensaio PROSEVA",
+  "coment": "A American Thoracic Society (2024) recomenda posição prona por mais de 12 horas por dia na SDRA grave, com recomendação forte e certeza moderada. O ensaio PROSEVA, que sustenta a conduta, incluiu pacientes com PaO2/FiO2 abaixo de 150 com FiO2 de pelo menos 0,6 e usou sessões de pelo menos 16 horas, com redução de mortalidade mesmo em quem pouco melhora a oxigenação. Sessões curtas não reproduzem o benefício. A dieta enteral continua em prona (ESPEN), e a enfermagem prepara o giro com fixação e numeração do tubo, proteção ocular e reposicionamento de eletrodos, cateteres e drenos.",
+  "porAlt": [
+   "Sessões de 2 horas não têm o benefício de mortalidade demonstrado com sessões prolongadas.",
+   "Seis horas ficam abaixo das 12 horas recomendadas pela ATS 2024.",
+   "A dieta enteral pode continuar em prona; o horário noturno de 8 horas não tem base.",
+   "Correta: a ATS 2024 recomenda mais de 12 horas por dia, e o PROSEVA usou sessões de 16 horas."
+  ]
+ },
+ {
+  "q": "Prematuro de 31 semanas é levado à mesa de reanimação. Após os passos iniciais, respira espontaneamente com frequência cardíaca de 130 bpm, mas tem gemência, tiragem e SpO2 pré-ductal de 72% aos 5 minutos. A equipe neonatal discute o suporte. Pelas diretrizes da SBP de 2026, qual é a conduta indicada?",
+  "alts": [
+   "VPP com balão autoinflável e oxigênio a 100% por 30 segundos",
+   "CPAP de 5 a 6 cmH2O com peça T e máscara, titulando o oxigênio",
+   "CPAP com balão autoinflável e máscara, mantendo o ar ambiente",
+   "Intubação traqueal imediata para surfactante na sala de parto"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "Diretrizes 2026 do Programa de Reanimação Neonatal da SBP, prematuro abaixo de 34 semanas",
+  "coment": "Pelas diretrizes da SBP de 2026, o prematuro abaixo de 34 semanas com frequência cardíaca de 100 bpm ou mais, mas com desconforto respiratório ou SpO2 abaixo do alvo, recebe CPAP de 5 a 6 cmH2O com ventilador manual em peça T e máscara, titulando o oxigênio pela saturação-alvo do minuto (80 a 85% aos 5 minutos). O balão autoinflável não fornece PEEP nem CPAP de forma consistente e não deve ser usado para esse fim. A VPP fica para apneia, respiração irregular ou frequência abaixo de 100 bpm, e surfactante não é rotina na sala de parto. O CPAP precoce reduziu morte ou displasia em prematuros de 24 a 30 semanas.",
+  "porAlt": [
+   "Com FC de 130 bpm e respiração espontânea não há indicação de VPP, e 100% de oxigênio não é o início.",
+   "Correta: FC acima de 100 com desconforto e SpO2 abaixo do alvo indica CPAP com peça T.",
+   "O balão autoinflável não fornece CPAP de forma consistente, e a SpO2 de 72% pede oxigênio titulado.",
+   "Surfactante não é rotina na sala de parto, e o CPAP precoce é preferido à intubação."
+  ]
+ },
+ {
+  "q": "Durante o banho no leito, a cabeceira de um paciente com pressão arterial invasiva foi abaixada e o transdutor ficou preso ao suporte, cerca de 10 cm abaixo do tórax. O monitor passou a mostrar PAM de 82 mmHg, antes de 70 mmHg, sem mudança clínica. Qual é a interpretação e a conduta corretas?",
+  "alts": [
+   "A pressão subiu de fato, e a noradrenalina deve ser reduzida na faixa",
+   "Transdutor abaixo do eixo superestima a pressão; nivelar e zerar de novo",
+   "Transdutor abaixo do eixo subestima a pressão; manter e registrar o valor",
+   "A curva está superamortecida; lavar o cateter antes de qualquer ajuste",
+   "A mudança de decúbito altera a PAM real; aguardar 30 minutos e medir"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Monitorização hemodinâmica",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ESICM 2025, guidelines on circulatory shock and hemodynamic monitoring; ANVISA, Caderno 4, 2017",
+  "coment": "A pressão invasiva só vale com o transdutor nivelado no eixo flebostático (quarto espaço intercostal, linha axilar média) e zerado ao ar atmosférico a cada mudança de posição. Com o transdutor abaixo do eixo, a coluna de líquido soma pressão hidrostática e o monitor superestima o valor; acima do eixo, subestima. Um aumento de 12 mmHg sem mudança clínica, logo depois de mexer no leito, é artefato até prova em contrário. Titular vasopressor por esse número reduziria a dose num paciente que talvez continue com PAM de 70 mmHg. A conduta é reposicionar o transdutor no eixo, zerar e reavaliar a curva antes de decidir.",
+  "porAlt": [
+   "Ajustar a noradrenalina por um valor gerado por desnivelamento expõe o paciente a hipotensão real.",
+   "Correta: abaixo do eixo flebostático a coluna líquida soma pressão e o valor fica superestimado.",
+   "O erro é o inverso: abaixo do eixo o monitor superestima, e o valor não deve ser registrado.",
+   "Superamortecimento achata a curva e subestima a sistólica; o caso descreve desnivelamento.",
+   "O artefato se corrige na hora com nivelamento e zero; esperar 30 minutos não resolve."
+  ]
+ },
+ {
+  "q": "Paciente em choque séptico com noradrenalina tem pressão arterial invasiva radial de 86/62 mmHg, com curva achatada e sem incisura dicrótica. No teste de lavagem rápida, o traçado sobe devagar e volta à linha de base sem oscilações. A bolsa pressurizadora está em 150 mmHg. Qual a conduta da enfermeira?",
+  "alts": [
+   "Aumentar a noradrenalina, pois a curva confirma hipotensão sistólica",
+   "Encurtar as extensões, pois o sistema subamortecido distorce a curva",
+   "Repressurizar a bolsa e retirar bolhas antes de titular pelo valor",
+   "Zerar o transdutor a cada hora, pois o teste mostrou boa fidelidade"
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Monitorização hemodinâmica",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "tit",
+  "base": "ANVISA, Caderno 4, 2017 (monitorização hemodinâmica); ESICM 2025",
+  "coment": "O teste da onda quadrada (lavagem rápida) mostra a fidelidade do sistema. Retorno lento, sem oscilações, com curva achatada e perda da incisura dicrótica, é superamortecimento: bolha, coágulo, cateter dobrado ou encostado na parede, bolsa pressurizadora murcha. Nessa curva a sistólica fica subestimada, e titular vasopressor por ela expõe o paciente a dose desnecessária. A conduta é repressurizar a bolsa (o habitual é cerca de 300 mmHg), retirar bolhas, lavar o cateter, conferir nível e zero e repetir o teste. O subamortecimento, com muitas oscilações, superestima a sistólica e se corrige encurtando a linha.",
+  "porAlt": [
+   "A curva superamortecida subestima a sistólica; subir a droga por ela pode gerar dose excessiva.",
+   "Muitas oscilações caracterizam o subamortecimento; aqui não houve nenhuma, o que indica superamortecimento.",
+   "Correta: bolsa murcha e bolhas causam superamortecimento, corrigido antes de qualquer titulação.",
+   "O teste mostrou perda de fidelidade, e zerar não corrige bolha nem bolsa despressurizada."
+  ]
+ },
+ {
+  "q": "Paciente de 59 anos em choque séptico, com cateter venoso central, recebeu 30 mL/kg de cristaloide e tem PVC de 6 mmHg medida no eixo flebostático, no fim da expiração. O residente propõe novo bólus de 1.000 mL porque a PVC está baixa. Qual leitura é coerente com as diretrizes vigentes?",
+  "alts": [
+   "A PVC baixa prediz resposta a volume, e o bólus está indicado",
+   "A PVC deve ser lida na inspiração para refletir a pré-carga",
+   "A PVC só vale medida com manômetro de água, não por transdutor",
+   "A PVC não prediz resposta a volume; preferir medidas dinâmicas",
+   "A PVC acima de 12 mmHg é a meta da ressuscitação do choque"
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Monitorização hemodinâmica",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Surviving Sepsis Campaign 2026; ESICM 2025, guidelines on circulatory shock and hemodynamic monitoring",
+  "coment": "A PVC é lida no fim da expiração, com o transdutor no eixo flebostático. A ESICM (2025) manda medi-la em quem já tem cateter central, mas como marcador de risco de congestão, não como preditor de resposta a volume: valores baixos ou altos não dizem se o débito vai subir com fluido. A Surviving Sepsis Campaign 2026 orienta guiar a reposição após o volume inicial por medidas dinâmicas (elevação passiva das pernas, variação de volume sistólico ou de pressão de pulso) e pela perfusão, como tempo de enchimento capilar e lactato seriado, e não por medidas estáticas. Metas fixas de PVC foram abandonadas.",
+  "porAlt": [
+   "Medidas estáticas como a PVC não preveem se o débito cardíaco vai subir com o bólus.",
+   "A leitura padronizada é no fim da expiração, quando a pressão intratorácica interfere menos.",
+   "O transdutor eletrônico nivelado e zerado é método válido para medir a PVC.",
+   "Correta: a PVC não prediz resposta a volume; a reposição se guia por medidas dinâmicas e perfusão.",
+   "Meta fixa de PVC não é recomendada pela SSC 2026 e favorece sobrecarga hídrica."
+  ]
+ },
+ {
+  "q": "Durante a mudança de decúbito de um paciente intubado e monitorizado com capnografia, a curva de CO2 expirado, antes com platô estável em 38 mmHg, desaparece de repente. O monitor cardíaco mostra ritmo sinusal e o pulso carotídeo é palpável. Qual hipótese a enfermeira deve investigar de imediato?",
+  "alts": [
+   "Extubação acidental, desconexão ou obstrução total do tubo",
+   "Broncoespasmo, que produz traçado em rampa e sem platô",
+   "Baixo débito cardíaco, que reduz o CO2 de forma progressiva",
+   "Hiperventilação, que leva o CO2 expirado para perto de zero"
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Monitorização hemodinâmica",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT); Diretrizes AHA 2025 de RCP e ACE",
+  "coment": "A capnografia confirma e vigia a posição do tubo: sem ventilação alveolar chegando ao sensor, não há curva sustentada. Curva que some de repente indica extubação acidental, desconexão do circuito, obstrução total do tubo ou parada circulatória; com pulso palpável e ritmo sinusal, a parada fica menos provável e a mudança de decúbito sugere deslocamento ou desconexão. A conduta é olhar o paciente, checar conexões e numeração do tubo e, se instável, ventilar com bolsa e oxigênio a 100%. Queda progressiva do CO2 sugere baixo débito ou embolia; traçado em rampa sem platô, broncoespasmo.",
+  "porAlt": [
+   "Correta: desaparecimento súbito da curva com pulso presente sugere tubo deslocado, desconectado ou obstruído.",
+   "O broncoespasmo altera o formato da curva (rampa), mas não a faz desaparecer.",
+   "Baixo débito reduz o CO2 de modo progressivo, não com perda súbita da curva.",
+   "A hiperventilação reduz o CO2 aos poucos e mantém a curva visível, sem sumir de repente."
+  ]
+ },
+ {
+  "q": "A comissão de controle de infecção revisa o protocolo de pressão arterial invasiva da UTI após aumento de infecções de corrente sanguínea. Segundo o caderno da ANVISA de 2017, qual conjunto de cuidados com o sistema de monitorização está correto?",
+  "alts": [
+   "Trocar o cateter arterial a cada 96 horas e o transdutor a cada 7 dias",
+   "Trocar transdutor e solução de flush a cada 24 horas, com sistema aberto",
+   "Preparar a pele com PVPI aquoso e trocar o cateter arterial a cada 7 dias",
+   "Usar flush intermitente com heparina e trocar o transdutor a cada 48 horas",
+   "Trocar transdutor e flush a cada 96 horas, sem troca rotineira do cateter"
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "Monitorização hemodinâmica",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2ª ed., 2017",
+  "coment": "Pelo caderno da ANVISA (2017), a pressão arterial invasiva usa sistema fechado com flush contínuo; transdutor, acessórios e solução de flush são trocados a cada 96 horas, e o cateter arterial não tem troca de rotina, com a necessidade revista todos os dias. A pele é preparada com clorexidina alcoólica acima de 0,5%, aplicada por 30 segundos em vai e vem, com secagem espontânea; na radial, máscara, gorro, luvas estéreis e campo fenestrado, e barreira máxima na femoral ou axilar. Trocas mais frequentes e sistemas abertos aumentam a manipulação e o risco de contaminação, sem benefício.",
+  "porAlt": [
+   "O cateter arterial não tem troca programada, e o transdutor se troca a cada 96 horas.",
+   "Sistema aberto e troca diária aumentam a manipulação; o padrão é fechado, com troca a cada 96 horas.",
+   "O antisséptico indicado é a clorexidina alcoólica acima de 0,5%, e o cateter não tem troca programada.",
+   "O caderno prevê flush contínuo em sistema fechado e troca do transdutor a cada 96 horas.",
+   "Correta: transdutor e flush a cada 96 horas, e o cateter sem troca rotineira (ANVISA 2017)."
+  ]
+ },
+ {
+  "q": "Mulher de 60 kg em choque séptico tem prescrição de noradrenalina a 0,2 mcg/kg/min. A farmácia envia a solução com 16 mg de noradrenalina em 250 mL de soro glicosado a 5%. Antes de instalar, a enfermeira faz a dupla checagem do cálculo. Qual vazão deve ser programada na bomba de infusão?",
+  "alts": [
+   "22,5 mL/h, pela concentração de 32 mcg/mL",
+   "11,25 mL/h, pela concentração de 64 mcg/mL",
+   "45 mL/h, pela concentração de 16 mcg/mL",
+   "7,5 mL/h, pela concentração de 96 mcg/mL"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "tit",
+  "base": "Surviving Sepsis Campaign 2026 (noradrenalina em primeira linha); cálculo de infusão em mcg/kg/min",
+  "coment": "Dose: 0,2 mcg/kg/min × 60 kg = 12 mcg/min, ou 720 mcg/h. Concentração: 16 mg = 16.000 mcg em 250 mL, ou 64 mcg/mL. Vazão = 720 ÷ 64 = 11,25 mL/h. O erro mais comum é usar a concentração de outra apresentação (8 mg ou 4 mg em 250 mL), o que dobraria ou quadruplicaria a dose. Noradrenalina é medicamento de alta vigilância: a enfermagem confere prescrição, concentração e cálculo em dupla checagem, programa a bomba em mL/h, mantém via exclusiva e reavalia PAM, perfusão e diurese após o início. A SSC 2026 mantém a noradrenalina como vasopressor de primeira linha no choque séptico.",
+  "porAlt": [
+   "32 mcg/mL corresponderia a 8 mg em 250 mL, e não à bolsa de 16 mg enviada.",
+   "Correta: 12 mcg/min viram 720 mcg/h, divididos por 64 mcg/mL, dão 11,25 mL/h.",
+   "16 mcg/mL é a bolsa de 4 mg; programar 45 mL/h quadruplicaria a dose prescrita.",
+   "96 mcg/mL não corresponde à diluição enviada e subdosaria o vasopressor."
+  ]
+ },
+ {
+  "q": "Paciente de 72 kg recebe noradrenalina a 20 mL/h, preparada com 4 mg em 250 mL. Por restrição hídrica, a nova bolsa chega com 8 mg em 250 mL, e a prescrição em mcg/kg/min não mudou. Após a dupla checagem, qual vazão a enfermeira deve programar ao conectar a nova bolsa?",
+  "alts": [
+   "10 mL/h, para manter a mesma dose em mcg/min",
+   "20 mL/h, pois a prescrição em mcg/kg/min não mudou",
+   "40 mL/h, pois a concentração dobrou na bolsa",
+   "15 mL/h, reduzindo devagar para evitar hipotensão",
+   "5 mL/h, pela concentração quatro vezes maior"
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Surviving Sepsis Campaign 2026; ISMP Brasil, medicamentos potencialmente perigosos de uso hospitalar (lista 2019)",
+  "coment": "A bolsa antiga tinha 4.000 mcg em 250 mL, ou 16 mcg/mL; a 20 mL/h, o paciente recebia 320 mcg/h. A nova tem 8.000 mcg em 250 mL, ou 32 mcg/mL. Para manter os mesmos 320 mcg/h, a vazão passa a 320 ÷ 32 = 10 mL/h. Manter 20 mL/h dobraria a dose, com risco de crise hipertensiva, arritmia e isquemia. A troca se faz com a nova bolsa já preparada e a vazão recalculada antes de conectar, sem deixar a infusão parar, em via exclusiva, com vigilância da PAM nos minutos seguintes. A prescrição em mcg/kg/min continua igual; o que muda é a conversão para mL/h.",
+  "porAlt": [
+   "Correta: com o dobro da concentração, metade da vazão mantém a mesma dose em mcg/min.",
+   "Manter 20 mL/h com a bolsa duas vezes mais concentrada dobra a dose de noradrenalina.",
+   "Aumentar a vazão com bolsa mais concentrada multiplicaria a dose por quatro.",
+   "A vazão é definida pelo cálculo, não por redução empírica, que deixaria a dose acima da prescrita.",
+   "A concentração apenas dobrou (16 para 32 mcg/mL); 5 mL/h daria metade da dose."
+  ]
+ },
+ {
+  "q": "Homem de 80 kg está com noradrenalina a 15 mL/h, em solução de 16 mg em 250 mL. O médico pergunta à enfermeira a dose atual para decidir se associa vasopressina, já que a PAM segue em 62 mmHg. Qual é a dose que a enfermeira deve informar?",
+  "alts": [
+   "0,05 mcg/kg/min",
+   "0,1 mcg/kg/min",
+   "0,2 mcg/kg/min",
+   "0,4 mcg/kg/min",
+   "16 mcg/kg/min"
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Surviving Sepsis Campaign 2026 (vasopressina associada à noradrenalina em escalada)",
+  "coment": "Concentração: 16.000 mcg em 250 mL = 64 mcg/mL. A 15 mL/h, correm 64 × 15 = 960 mcg/h, ou 16 mcg/min. Dividindo pelo peso: 16 ÷ 80 = 0,2 mcg/kg/min. Informar a dose em mcg/kg/min, e não só a vazão em mL/h, é o que permite à equipe comparar com o protocolo e decidir pela vasopressina, que a Surviving Sepsis Campaign 2026 sugere acrescentar quando a noradrenalina está em escalada. O erro de confundir mcg/min com mcg/kg/min (16) leva a decisões desastrosas. A enfermagem registra a dose, a PAM, a perfusão e a diurese a cada titulação.",
+  "porAlt": [
+   "0,05 mcg/kg/min seria a dose com uma solução quatro vezes mais diluída.",
+   "0,1 mcg/kg/min seria o resultado com a bolsa de 8 mg em 250 mL.",
+   "Correta: 960 mcg/h = 16 mcg/min; divididos por 80 kg, dão 0,2 mcg/kg/min.",
+   "0,4 mcg/kg/min é o dobro da dose real, erro de concentração ou de peso.",
+   "16 é a dose em mcg/min; esqueceu-se de dividir pelo peso de 80 kg."
+  ]
+ },
+ {
+  "q": "Mulher de 69 anos em choque séptico recebe noradrenalina por veia periférica do antebraço enquanto aguarda o cateter central. Na inspeção, a enfermeira nota palidez, frio e edema em torno do sítio, com a infusão correndo. Qual sequência de condutas é correta?",
+  "alts": [
+   "Retirar o cateter, aplicar compressa fria e reinstalar no mesmo membro",
+   "Manter a infusão, elevar o membro e reavaliar o sítio em uma hora",
+   "Lavar o cateter com soro para diluir a droga e manter a infusão",
+   "Parar, aspirar pelo cateter, retirar, elevar, compressa morna e comunicar",
+   "Parar a infusão, retirar o cateter e aplicar gelo para limitar a absorção"
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Surviving Sepsis Campaign 2026 (vasopressor por veia periférica com protocolo de segurança)",
+  "coment": "A SSC 2026 sugere iniciar a noradrenalina por veia periférica para não atrasar o vasopressor, com protocolo de segurança: cateter calibroso em veia proximal, refluxo confirmado, inspeção frequente e prazo para o acesso central. No extravasamento, a sequência é parar a infusão, aspirar pelo cateter antes de retirá-lo, retirar, marcar a área, elevar o membro, aplicar compressa morna (o frio piora a isquemia causada pela vasoconstrição), comunicar o médico para o antídoto do protocolo (fentolamina, quando disponível) e instalar o vasopressor em outro acesso, sem deixar a paciente sem a droga. Registrar o evento e acompanhar a área.",
+  "porAlt": [
+   "Compressa fria agrava a isquemia por vasoconstrição, e o mesmo membro lesado não deve ser reusado.",
+   "Manter a infusão no tecido infiltrado amplia a necrose; a primeira medida é parar.",
+   "Lavar o cateter empurra mais droga para o tecido e mantém a infusão extravasando.",
+   "Correta: parar, aspirar, retirar, elevar, compressa morna e comunicar para o antídoto.",
+   "O gelo causa vasoconstrição adicional e piora a isquemia da noradrenalina extravasada."
+  ]
+ },
+ {
+  "q": "Paciente com noradrenalina a 0,3 mcg/kg/min por uma via do cateter central. Para economizar acesso, o técnico prepara o bicarbonato de sódio prescrito para correr em Y na mesma via e, em seguida, um antibiótico em bólus. Qual orientação da enfermeira é correta?",
+  "alts": [
+   "Correr em Y é seguro, desde que a bomba da noradrenalina não seja pausada",
+   "Pode fazer o bólus lento, porque o volume do antibiótico é pequeno",
+   "Não usar essa via: bólus causa pico e o bicarbonato inativa a droga",
+   "Pausar a noradrenalina durante o bólus e retomar depois na mesma vazão"
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "Surviving Sepsis Campaign 2026; ISMP Brasil, medicamentos potencialmente perigosos de uso hospitalar (lista 2019)",
+  "coment": "A noradrenalina corre em via exclusiva. Um bólus de outro fármaco na mesma via empurra de uma vez a solução parada no lúmen e no equipo, gerando pico hipertensivo e arritmia; pausar a bomba para injetar provoca o oposto, queda abrupta da pressão. Soluções alcalinas, como o bicarbonato de sódio, inativam as catecolaminas, de modo que a dose que chega ao paciente cai sem que a vazão mude. A conduta é usar outra via do cateter ou outro acesso para o bicarbonato e o antibiótico, manter a infusão contínua e conferir a PAM. Trocas de bolsa também se fazem sem interromper o fluxo.",
+  "porAlt": [
+   "O bicarbonato inativa a catecolamina mesmo com a bomba ligada; a via deve ser exclusiva.",
+   "Mesmo lento, o bólus desloca a noradrenalina parada no lúmen e causa pico pressórico.",
+   "Correta: via exclusiva evita pico por bólus e inativação da catecolamina pelo bicarbonato.",
+   "Pausar a noradrenalina provoca hipotensão abrupta no paciente dependente da droga."
+  ]
+ },
+ {
+  "q": "Homem de 63 anos, em emergência hipertensiva com edema agudo de pulmão, recebe nitroprussiato de sódio em bomba há 3 dias, com insuficiência renal. A pressão invasiva está no alvo, mas a gasometria mostra acidose lática nova, sem outra causa aparente, e ele está confuso. Qual conduta a enfermeira deve adotar?",
+  "alts": [
+   "Trocar o equipo por um transparente para inspecionar melhor a solução",
+   "Aumentar a vazão, pois a acidose sugere baixo débito por pressão alta",
+   "Manter a infusão e corrigir a acidose com bicarbonato correndo em Y",
+   "Suspeitar de toxicidade por cianeto e comunicar o médico de imediato"
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (emergências hipertensivas)",
+  "coment": "O nitroprussiato é vasodilatador de ação imediata, usado na emergência hipertensiva com pressão invasiva contínua. O frasco e o equipo ficam protegidos da luz, e solução azulada ou escura é descartada. Seu metabolismo libera cianeto, e a acidose lática inexplicada com pressão controlada é o sinal clássico de toxicidade; confusão e convulsões após dias de infusão, sobretudo na insuficiência renal, sugerem acúmulo de tiocianato. A enfermeira comunica imediatamente, para que o médico reavalie a suspensão, a troca do anti-hipertensivo e o antídoto. Equipo transparente expõe o fármaco à luz, e bicarbonato não se infunde em Y com outros fármacos sem conferência.",
+  "porAlt": [
+   "O nitroprussiato exige equipo e frasco protegidos da luz; o transparente o degrada.",
+   "A pressão está no alvo; acidose inexplicada sob nitroprussiato aponta para cianeto, não baixo débito.",
+   "Tratar só a acidose mantém a exposição ao cianeto e ignora a causa provável.",
+   "Correta: acidose lática inexplicada e confusão sob nitroprussiato sugerem cianeto e tiocianato."
+  ]
+ }
+]

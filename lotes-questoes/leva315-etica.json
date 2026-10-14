@@ -1,0 +1,752 @@
+[
+ {
+  "q": "Em hospital privado de médio porte, a diretoria decide nomear uma técnica de enfermagem com 20 anos de casa e pós-graduação em gestão para chefiar a unidade de internação cirúrgica, com três enfermeiros subordinados a ela. Diante da Lei 7.498/1986, como se classifica essa nomeação?",
+  "alts": [
+   "Permitida, pois a pós-graduação em gestão supre a exigência de formação",
+   "Permitida, desde que o enfermeiro responsável técnico supervisione a chefia",
+   "Vedada apenas em hospitais públicos, sendo livre a escolha na rede privada",
+   "Vedada, pois a chefia de unidade de enfermagem é privativa do enfermeiro",
+   "Permitida por até 90 dias, enquanto a instituição contrata um enfermeiro"
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 7.498/1986, art. 11, I, a; Decreto 94.406/1987, art. 8º, I, a",
+  "coment": "O art. 11, I, da Lei 7.498/1986 lista as atividades privativas do enfermeiro, e a alínea a abre a lista: direção do órgão de enfermagem da instituição de saúde, pública ou privada, e chefia de serviço e de unidade de enfermagem. O Decreto 94.406/1987 repete a regra no art. 8º, I, a. Atividade privativa não se transfere por tempo de casa, curso de gestão, supervisão ou prazo provisório, e a lei não distingue rede pública de privada. O técnico exerce atividade de nível médio e participa do planejamento em grau auxiliar (art. 12), sem assumir a chefia de enfermeiros.",
+  "porAlt": [
+   "Curso de gestão não transforma técnico em enfermeiro nem afasta a reserva legal da chefia.",
+   "A supervisão do responsável técnico não autoriza delegar uma atividade privativa do enfermeiro.",
+   "A alínea a vale para instituição de saúde pública ou privada, sem distinção.",
+   "Correta: chefia de serviço e de unidade de enfermagem é privativa do enfermeiro (art. 11, I, a).",
+   "A lei não prevê exercício provisório de atividade privativa por outra categoria."
+  ]
+ },
+ {
+  "q": "Um edital de residência cita a consulta de enfermagem como atividade privativa prevista no art. 11, I, alínea i, da Lei 7.498/1986. Ao estudar o Decreto 94.406/1987, que regulamenta a lei, a candidata percebe que a numeração muda porque quatro alíneas do art. 11 foram vetadas. Em qual dispositivo do Decreto está a consulta de enfermagem?",
+  "alts": [
+   "Art. 8º, inciso I, alínea e",
+   "Art. 8º, inciso I, alínea i",
+   "Art. 8º, inciso II, alínea c",
+   "Art. 10, inciso I, alínea e",
+   "Art. 4º, inciso I, alínea i"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 7.498/1986, art. 11, I, i; Decreto 94.406/1987, art. 8º, I, e",
+  "coment": "Quatro alíneas do art. 11, I, da Lei 7.498/1986 foram vetadas, o que explica o salto da alínea c para a h no texto da lei. O Decreto 94.406/1987 renumerou a lista sem lacunas, e as privativas do enfermeiro ficaram no art. 8º, I, de a a h. Assim, a consulta de enfermagem é a alínea i na lei e a alínea e no Decreto; a prescrição da assistência de enfermagem é j na lei e f no Decreto. O art. 8º, II, c, do Decreto trata da prescrição de medicamentos em programas e rotinas, o art. 10 é do técnico e o art. 4º define quem é enfermeiro. A resposta certa usa a numeração da norma citada no enunciado.",
+  "porAlt": [
+   "Correta: no Decreto, a consulta de enfermagem é o art. 8º, I, alínea e.",
+   "A alínea i é a numeração da lei; o Decreto renumerou a lista depois dos vetos.",
+   "O art. 8º, II, c, do Decreto trata da prescrição de medicamentos em programas.",
+   "O art. 10 do Decreto lista as atividades do técnico de enfermagem.",
+   "O art. 4º do Decreto define quem é enfermeiro, sem listar as atribuições."
+  ]
+ },
+ {
+  "q": "Na sala vermelha de uma UPA, um homem de 70 anos em choque séptico recebe noradrenalina. A enfermeira precisa atender outra admissão e propõe que o técnico de enfermagem assuma sozinho o cuidado direto do paciente, por ele ter dez anos de experiência em emergência. Pelo Decreto 94.406/1987, qual é o papel do técnico diante desse paciente?",
+  "alts": [
+   "Assume o cuidado direto ao grave, desde que registre tudo no prontuário",
+   "Assume o cuidado direto ao grave se houver médico presente na sala vermelha",
+   "Assiste o enfermeiro no cuidado ao grave, atividade que segue privativa dele",
+   "Não permanece ao lado do paciente grave, cabendo-lhe apenas o transporte",
+   "Assume o cuidado direto ao grave pelo tempo de experiência comprovada"
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Decreto 94.406/1987, art. 10; Lei 7.498/1986, art. 11, I, l",
+  "coment": "Cuidados diretos de enfermagem a pacientes graves com risco de vida são privativos do enfermeiro (Lei 7.498/1986, art. 11, I, l; Decreto 94.406/1987, art. 8º, I, g). O Decreto, no art. 10, diz que o técnico assiste o enfermeiro na prestação de cuidados diretos ao paciente em estado grave e executa a assistência, excetuadas as atividades privativas. O técnico fica ao lado do paciente, monitora e executa o prescrito, mas o cuidado direto privativo não lhe é transferido por experiência, registro ou presença médica. A enfermeira deve reorganizar a escala ou pedir apoio de outro enfermeiro.",
+  "porAlt": [
+   "Registrar em prontuário não torna delegável uma atividade privativa do enfermeiro.",
+   "A presença do médico não transfere ao técnico o cuidado direto privativo do enfermeiro.",
+   "Correta: o técnico assiste o enfermeiro no cuidado ao paciente grave (Decreto, art. 10).",
+   "O Decreto põe o técnico ao lado do paciente grave, assistindo o enfermeiro.",
+   "Tempo de experiência não altera a reserva legal do art. 11, I, l, da lei."
+  ]
+ },
+ {
+  "q": "O COREN de um estado prepara a eleição do próximo plenário e definiu que ele terá 15 membros, número compatível com a faixa de 5 a 21 prevista em lei. Na montagem das chapas, surge dúvida sobre a proporção entre as categorias profissionais. Pela Lei 5.905/1973, como deve ser composto esse plenário?",
+  "alts": [
+   "Metade de enfermeiros e metade de técnicos e auxiliares de enfermagem",
+   "Dois terços de enfermeiros e um terço das demais categorias da equipe",
+   "Somente enfermeiros, por ser o plenário que julga as infrações éticas",
+   "Em proporção livre, fixada pelo COFEN conforme o número de inscritos",
+   "Três quintos de enfermeiros e dois quintos das demais categorias"
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 5.905/1973, arts. 11 e 12",
+  "coment": "O art. 11 da Lei 5.905/1973 fixa que os Conselhos Regionais têm de 5 a 21 membros, em número ímpar, sendo três quintos de enfermeiros e dois quintos das demais categorias de enfermagem. Num plenário de 15, isso dá 9 enfermeiros e 6 das demais categorias. A eleição é por voto pessoal, secreto e obrigatório, em chapas separadas (art. 12), e o mandato é honorífico, de 3 anos, com uma reeleição (art. 14). Só enfermeiros compõem o COFEN, com 9 efetivos e 9 suplentes (art. 5º); no regional, as demais categorias têm assento garantido.",
+  "porAlt": [
+   "A lei não prevê paridade: os enfermeiros ocupam três quintos dos assentos.",
+   "Dois terços não é a fração da lei, que fixa três quintos de enfermeiros.",
+   "Composição só de enfermeiros é a do COFEN; o regional inclui as demais categorias.",
+   "A proporção está fixada no art. 11 da lei, sem margem para o COFEN alterá-la.",
+   "Correta: três quintos de enfermeiros e dois quintos das demais categorias (art. 11)."
+  ]
+ },
+ {
+  "q": "Uma técnica de enfermagem inscrita e em dia com o COREN não votou na eleição do conselho regional porque estava viajando a passeio e não apresentou justificativa. Meses depois, recebe uma cobrança do conselho. Pela Lei 5.905/1973, qual é a consequência prevista para essa ausência?",
+  "alts": [
+   "Nenhuma, pois o voto nas eleições do COREN é facultativo para técnicos",
+   "Multa no valor de uma anuidade, por faltar à eleição sem justa causa",
+   "Advertência verbal reservada, registrada no prontuário da profissional",
+   "Suspensão da inscrição até que a ausência seja justificada ao COFEN",
+   "Multa de dez anuidades, valor máximo previsto para a categoria dela"
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 5.905/1973, art. 12",
+  "coment": "Pelo art. 12 da Lei 5.905/1973, a eleição dos membros do COREN se faz por voto pessoal, secreto e obrigatório, em chapas separadas para enfermeiros e para as demais categorias. Quem deixa de votar sem causa justificada paga multa no valor de uma anuidade. Advertência verbal e suspensão são penas éticas do art. 108 do Código de Ética (Res. COFEN 564/2017), aplicadas em processo ético, e o teto de dez anuidades é o da multa ética, não o da falta ao voto.",
+  "porAlt": [
+   "O art. 12 da Lei 5.905/1973 torna o voto obrigatório para todas as categorias.",
+   "Correta: a falta sem justa causa gera multa de uma anuidade (art. 12).",
+   "Advertência verbal é pena ética do art. 108, não a sanção prevista para a falta ao voto.",
+   "A lei não prevê suspensão da inscrição pela ausência na eleição do regional.",
+   "Dez anuidades é o teto da multa ética do Código, não a sanção da falta ao voto."
+  ]
+ },
+ {
+  "q": "Na aula sobre o Sistema COFEN/COREN, a preceptora pergunta aos residentes como a Lei 5.905/1973 organiza o Conselho Federal: quantos são os conselheiros, quem pode ocupar o cargo, quanto dura o mandato e se ele é remunerado. Qual alternativa descreve corretamente o COFEN?",
+  "alts": [
+   "Nove efetivos e nove suplentes, enfermeiros, mandato honorífico de três anos",
+   "Nove efetivos e nove suplentes, de todas as categorias, mandato de três anos",
+   "Vinte e um efetivos, enfermeiros, com mandato remunerado de quatro anos",
+   "Cinco efetivos e cinco suplentes, enfermeiros, mandato honorífico de dois anos",
+   "Nove efetivos e nove suplentes, enfermeiros, mandato remunerado de três anos"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 5.905/1973, arts. 5º, 6º e 9º",
+  "coment": "O art. 5º da Lei 5.905/1973 compõe o COFEN com 9 membros efetivos e igual número de suplentes, brasileiros e enfermeiros de nível superior. Eles são eleitos pela Assembleia dos Delegados Regionais, em voto secreto (art. 6º), e o mandato é honorífico, de 3 anos, admitida uma reeleição (art. 9º). O COFEN tem jurisdição nacional e a ele se subordinam os regionais (art. 3º). A faixa de 5 a 21 membros e a presença de outras categorias são regras do COREN (art. 11), fonte frequente de confusão nas provas.",
+  "porAlt": [
+   "Correta: 9 efetivos e 9 suplentes, enfermeiros, com mandato honorífico de 3 anos (arts. 5º e 9º).",
+   "Técnicos e auxiliares têm assento no COREN, não no COFEN, composto só de enfermeiros.",
+   "O número de 21 é o teto do COREN, e o mandato no COFEN não é remunerado.",
+   "A lei fixa 9 efetivos e 9 suplentes, com mandato de três anos, não de dois.",
+   "O mandato de conselheiro é honorífico, sem remuneração, pelo art. 9º."
+  ]
+ },
+ {
+  "q": "Numa unidade básica de saúde, a enfermeira escala uma auxiliar de enfermagem para a sala de vacina, onde ela fará a conservação dos imunobiológicos e a aplicação das doses do calendário, sob supervisão da enfermeira. A gerente da unidade questiona a escala. O que diz o Decreto 94.406/1987 sobre essa atividade?",
+  "alts": [
+   "É vedada, pois vacinar é atividade privativa do enfermeiro pela lei",
+   "É permitida, desde que haja médico responsável presente no turno",
+   "É permitida, pois conservar e aplicar vacinas está no rol do auxiliar",
+   "É vedada, pois o auxiliar só executa higiene, conforto e controle hídrico",
+   "É permitida só para vacinas orais, cabendo as injetáveis ao técnico"
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 94.406/1987, art. 11; Lei 7.498/1986, arts. 13 e 15",
+  "coment": "O art. 11 do Decreto 94.406/1987 traz um rol exemplificativo das atividades do auxiliar de enfermagem, que inclui ministrar medicamentos por via oral e parenteral, curativos, coleta de material, testes e sua leitura e a conservação e aplicação de vacinas. O auxiliar exerce atividade de nível médio, de natureza repetitiva, sob supervisão (Lei 7.498/1986, art. 13), e o art. 15 da lei condiciona a atuação de técnicos e auxiliares em instituições de saúde à orientação e supervisão do enfermeiro, como na escala descrita. Vacinar não consta entre as privativas do art. 11, I, e a presença médica não é requisito.",
+  "porAlt": [
+   "A aplicação de vacinas não está entre as privativas do enfermeiro no art. 11, I, da lei.",
+   "O Decreto exige supervisão do enfermeiro, não presença de médico na sala de vacina.",
+   "Correta: conservação e aplicação de vacinas constam do art. 11 do Decreto.",
+   "O rol do auxiliar inclui medicação parenteral, curativos, coleta e vacinas.",
+   "O Decreto inclui a via parenteral entre as atividades do auxiliar, sem essa restrição."
+  ]
+ },
+ {
+  "q": "Uma maternidade do interior mantém em seu quadro uma parteira, que atua na sala de pré-parto e parto ao lado da equipe de enfermagem. A nova coordenadora quer definir por escrito o que ela pode fazer na instituição. Segundo o Decreto 94.406/1987, qual atuação é compatível com a parteira nesse serviço?",
+  "alts": [
+   "Realizar episiotomia e episiorrafia com anestesia local, se necessárias",
+   "Atuar só em domicílio, pois a parteira não pode trabalhar em instituição",
+   "Identificar distocias e conduzir o parto distócico até a chegada do médico",
+   "Assistir o parto normal sem supervisão, por ser categoria autônoma da lei",
+   "Assistir o parto normal na instituição sob supervisão de enfermeiro obstetra"
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Decreto 94.406/1987, arts. 9º e 12; Lei 7.498/1986, art. 11, parágrafo único",
+  "coment": "O art. 12 do Decreto 94.406/1987 atribui à parteira o cuidado da gestante e da parturiente, a assistência ao parto normal, inclusive em domicílio, e o cuidado da puérpera e do recém-nascido. Quando atua em instituição de saúde, faz isso sob supervisão de enfermeiro obstetra. A episiotomia e a episiorrafia com anestesia local e a identificação das distocias, com providências até a chegada do médico, são próprias da enfermeira obstétrica e da obstetriz (Lei 7.498/1986, art. 11, parágrafo único; Decreto, art. 9º).",
+  "porAlt": [
+   "Episiotomia e episiorrafia são próprias da enfermeira obstétrica e da obstetriz (art. 9º).",
+   "O art. 12 admite atuação em instituição, sob supervisão de enfermeiro obstetra.",
+   "Identificar distocia é da enfermeira obstétrica, que toma providências até a chegada do médico.",
+   "Em instituição, a parteira atua sob supervisão de enfermeiro obstetra, sem autonomia.",
+   "Correta: em instituição, a parteira assiste o parto normal sob supervisão de enfermeiro obstetra."
+  ]
+ },
+ {
+  "q": "Um ambulatório privado de curativos e administração de medicamentos funciona com três técnicos de enfermagem e nenhum enfermeiro no quadro. O proprietário, médico, afirma que a situação é regular porque os técnicos apenas cumprem prescrições médicas escritas e ele passa no serviço uma vez por dia. À luz da Lei 7.498/1986, qual é a situação?",
+  "alts": [
+   "Regular, pois os técnicos executam só prescrições médicas por escrito",
+   "Regular, porque o médico proprietário assume a supervisão da equipe",
+   "Irregular apenas no turno noturno, quando não há médico no serviço",
+   "Irregular, pois o técnico atua sob orientação e supervisão de enfermeiro",
+   "Regular, desde que um dos técnicos tenha especialização em feridas"
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 7.498/1986, arts. 11 e 15; Decreto 94.406/1987, art. 13",
+  "coment": "O art. 15 da Lei 7.498/1986 condiciona as atividades de técnicos e auxiliares de enfermagem, quando exercidas em instituições e programas de saúde, à orientação e supervisão de enfermeiro. O Decreto 94.406/1987, art. 13, fala em supervisão, orientação e direção do enfermeiro. Essa supervisão não é suprida pelo médico, pela existência de prescrição escrita ou por especialização do técnico. Além disso, planejar, organizar, coordenar, executar e avaliar os serviços da assistência de enfermagem é privativo do enfermeiro (art. 11, I, c), o que um serviço sem enfermeiro não tem como cumprir.",
+  "porAlt": [
+   "Cumprir prescrição médica não dispensa a supervisão do enfermeiro exigida pelo art. 15.",
+   "A supervisão de técnicos de enfermagem cabe ao enfermeiro, não ao médico.",
+   "O art. 15 não distingue turnos, e o ambulatório não tem enfermeiro em horário algum.",
+   "Correta: técnico atua em instituição de saúde sob orientação e supervisão de enfermeiro.",
+   "Especialização do técnico não substitui a supervisão do enfermeiro prevista em lei."
+  ]
+ },
+ {
+  "q": "Ao organizar a escala de um hospital de ensino, a gerente de enfermagem lista as atividades que só enfermeiros podem assumir, por serem privativas segundo o art. 11, I, da Lei 7.498/1986. Uma das atividades abaixo, porém, a lei põe no inciso II, entre as que o enfermeiro exerce como integrante da equipe de saúde. Qual atividade NÃO é privativa?",
+  "alts": [
+   "Consulta de enfermagem na atenção primária à saúde",
+   "Prescrição da assistência de enfermagem ao paciente",
+   "Execução de parto sem distocia na maternidade",
+   "Cuidado direto a paciente grave com risco de vida",
+   "Auditoria e parecer sobre matéria de enfermagem"
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 7.498/1986, art. 11, I e II",
+  "coment": "O art. 11 da Lei 7.498/1986 separa as atividades privativas do enfermeiro (inciso I) das que ele exerce como integrante da equipe de saúde (inciso II). Entre as privativas estão consulta de enfermagem (alínea i), prescrição da assistência de enfermagem (j), cuidados diretos a pacientes graves com risco de vida (l) e consultoria, auditoria e emissão de parecer (h). A execução do parto sem distocia está no inciso II, ao lado da assistência à gestante, parturiente e puérpera e do acompanhamento do trabalho de parto, e vale para qualquer enfermeiro. Próprio da enfermeira obstétrica e da obstetriz é o que consta do parágrafo único do art. 11.",
+  "porAlt": [
+   "A consulta de enfermagem é privativa do enfermeiro (art. 11, I, i).",
+   "A prescrição da assistência de enfermagem é privativa (art. 11, I, j).",
+   "Correta: o parto sem distocia está no inciso II, como integrante da equipe.",
+   "O cuidado direto a paciente grave com risco de vida é privativo (art. 11, I, l).",
+   "Consultoria, auditoria e parecer são privativos do enfermeiro (art. 11, I, h)."
+  ]
+ },
+ {
+  "q": "Numa enfermaria de clínica médica, a equipe de enfermagem registra há semanas a falta de luvas e máscaras e duas agressões físicas de acompanhantes, sem resposta da direção. Os profissionais discutem suspender as atividades até que as condições de segurança sejam corrigidas. Segundo o Código de Ética, o que lhes é assegurado?",
+  "alts": [
+   "Suspender as atividades, salvo urgência e emergência, comunicando por escrito à instituição e ao COREN",
+   "Suspender todas as atividades, inclusive as urgências, avisando verbalmente a chefia imediata do setor",
+   "Manter todas as atividades, pois a suspensão só é admitida mediante ordem judicial expressa e prévia",
+   "Suspender as atividades somente após autorização prévia do COFEN, ouvida a Comissão de Ética local",
+   "Manter as atividades e apenas denunciar o caso ao Ministério Público do Trabalho no prazo de 30 dias"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Res. COFEN 564/2017 (Código de Ética), arts. 2º e 13",
+  "coment": "O Código de Ética dos Profissionais de Enfermagem assegura como direito exercer a profissão em local de trabalho livre de riscos e violência (art. 2º) e suspender as atividades quando o local não oferecer condições seguras, ressalvadas as situações de urgência e emergência (art. 13). A suspensão deve ser comunicada por escrito à instituição e ao Conselho Regional de Enfermagem. O direito não depende de autorização do COFEN nem de ordem judicial, e as urgências e emergências não podem ficar desassistidas.",
+  "porAlt": [
+   "Correta: suspensão permitida, salvo urgência e emergência, com comunicação escrita à instituição e ao COREN (art. 13).",
+   "As urgências e emergências ficam fora da suspensão, e a comunicação deve ser escrita, à instituição e ao COREN.",
+   "O art. 13 assegura a suspensão como direito do profissional, sem exigir ordem judicial.",
+   "O Código não exige autorização prévia do COFEN para o exercício do direito do art. 13.",
+   "O Código prevê o direito de suspender as atividades, e não apenas o de denunciar a situação."
+  ]
+ },
+ {
+  "q": "Durante reunião com as chefias, transmitida pela internet, o diretor administrativo de um hospital afirma que a enfermeira coordenadora da UTI é incompetente e que a enfermagem do setor só atrapalha. A enfermeira se sente ofendida no exercício profissional. Entre os direitos previstos no Código de Ética, qual medida ela pode adotar?",
+  "alts": [
+   "Exigir do COFEN a cassação imediata do registro profissional do diretor",
+   "Requerer ao COREN as medidas cabíveis para obter desagravo público",
+   "Suspender suas atividades na UTI até que o diretor seja afastado do cargo",
+   "Solicitar à Comissão de Ética de Enfermagem o julgamento do diretor",
+   "Aplicar ao diretor advertência verbal reservada, diante de testemunhas"
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Res. COFEN 564/2017 (Código de Ética), art. 8º; Res. COFEN 792/2025",
+  "coment": "Entre os direitos do Código de Ética dos Profissionais de Enfermagem está requerer ao Conselho Regional de Enfermagem medidas cabíveis para obtenção de desagravo público em decorrência de ofensa sofrida no exercício profissional (art. 8º). O sistema COFEN/COREN disciplina os profissionais de enfermagem nele inscritos, e cassação só resulta de processo ético. A Comissão de Ética de Enfermagem não julga: averigua e envia relatório ao COREN (Res. COFEN 792/2025). Penas como a advertência são aplicadas pelo conselho, nunca pela ofendida, e suspender a assistência na UTI deixaria pacientes graves sem cuidado.",
+  "porAlt": [
+   "O sistema COFEN/COREN pune só profissionais de enfermagem, e cassação exige processo ético.",
+   "Correta: é direito requerer ao COREN medidas para obter desagravo público (art. 8º).",
+   "A ofensa não torna inseguro o local de trabalho nem autoriza deixar pacientes graves.",
+   "A Comissão de Ética não julga; averigua e envia relatório ao COREN (Res. 792/2025).",
+   "Pena ética é aplicada pelo conselho em processo, nunca pela própria ofendida."
+  ]
+ },
+ {
+  "q": "Às 14 h, uma técnica de enfermagem da clínica cirúrgica recebe a prescrição impressa de um paciente estável, com analgésico e antibiótico, sem assinatura e sem número de registro do médico, que já deixou a unidade. Não há situação de urgência. Segundo o Código de Ética, qual é a conduta correta?",
+  "alts": [
+   "Administrar e pedir ao médico que assine a prescrição até o fim do plantão",
+   "Recusar o cumprimento e solicitar a regularização da prescrição ao médico",
+   "Administrar, pois a prescrição impressa pelo sistema dispensa assinatura",
+   "Pedir à enfermeira que assine a prescrição para que ela possa ser cumprida",
+   "Administrar só o analgésico e aguardar a assinatura para o antibiótico"
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Res. COFEN 564/2017 (Código de Ética), arts. 46 e 88",
+  "coment": "O art. 46 do Código de Ética dos Profissionais de Enfermagem impõe o dever de recusar o cumprimento de prescrição em que não constem a assinatura e o número de registro do profissional prescritor, ressalvadas as situações de urgência e emergência. Sem urgência, a conduta é não executar, comunicar o enfermeiro, buscar a regularização com o prescritor e registrar a ocorrência. Executar e regularizar depois, ou executar parte da prescrição, também descumpre o dever. A enfermeira não pode assinar a prescrição médica, pois estaria assinando ato que não praticou (art. 88).",
+  "porAlt": [
+   "Administrar antes de regularizar descumpre o dever de recusa do art. 46.",
+   "Correta: sem urgência, a prescrição sem assinatura e registro deve ser recusada (art. 46).",
+   "Prescrição impressa também exige assinatura e número de registro do prescritor.",
+   "A enfermeira não assina prescrição médica: seria assinar ato que não praticou (art. 88).",
+   "Executar parte da prescrição irregular também descumpre o dever do art. 46."
+  ]
+ },
+ {
+  "q": "Após processo ético, o plenário do COREN conclui que um enfermeiro cometeu infração leve, sem antecedentes, e decide aplicar multa em vez de advertência verbal. O advogado do profissional questiona o valor fixado e pede que se respeitem os limites do Código de Ética. Qual é a faixa da multa ética?",
+  "alts": [
+   "De 1 a 10 salários mínimos vigentes na data do julgamento",
+   "De 1 a 5 vezes o valor da anuidade da categoria do infrator",
+   "De 10 a 100 vezes o valor da anuidade da categoria do infrator",
+   "De 1 a 10 vezes o valor da anuidade da categoria do infrator",
+   "De 1 a 20 salários mínimos, conforme a gravidade da infração"
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Res. COFEN 564/2017 (Código de Ética), arts. 108, § 2º, e 109",
+  "coment": "O art. 108 do Código de Ética lista cinco penas: advertência verbal, multa, censura, suspensão do exercício profissional e cassação do direito ao exercício profissional. Pelo § 2º, a multa consiste na obrigação de pagar de 1 a 10 vezes o valor da anuidade da categoria profissional à qual pertence o infrator. A referência é a anuidade, não o salário mínimo. Advertência, multa, censura e suspensão são aplicadas pelo COREN; a cassação, pelo COFEN (art. 109; Lei 5.905/1973, art. 18, § 1º).",
+  "porAlt": [
+   "A multa ética usa como referência a anuidade da categoria, não o salário mínimo.",
+   "O teto da multa é de 10 anuidades, e não de 5 (art. 108, § 2º).",
+   "A multa começa em 1 anuidade e tem teto de 10 (art. 108, § 2º).",
+   "Correta: a multa vai de 1 a 10 vezes o valor da anuidade da categoria (art. 108, § 2º).",
+   "A referência é a anuidade da categoria, e o teto é de 10 vezes esse valor."
+  ]
+ },
+ {
+  "q": "Uma profissional é inscrita no COREN como técnica de enfermagem e também como enfermeira, pois trabalha nas duas funções em hospitais diferentes. Ela é condenada à pena de suspensão por infração cometida no emprego de técnica. Segundo o Código de Ética, como se cumpre essa pena?",
+  "alts": [
+   "Exercício proibido por até 90 dias, com carteira retida nas duas categorias",
+   "Exercício proibido por até 90 dias, só na categoria de técnica de enfermagem",
+   "Exercício proibido por até 30 anos, com carteira retida nas duas categorias",
+   "Exercício proibido por até 180 dias, sem divulgação, para preservar a imagem",
+   "Exercício proibido por até 90 dias, sem comunicação aos empregadores atuais"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Res. COFEN 564/2017 (Código de Ética), art. 108, §§ 4º a 7º",
+  "coment": "A suspensão é a proibição do exercício profissional por até 90 dias, com divulgação e comunicação aos órgãos empregadores (art. 108, § 4º). Toda pena é anotada no prontuário do profissional (§ 6º), e nas penas de suspensão e de cassação a carteira profissional fica retida em todas as categorias em que ele é inscrito (§ 7º). Por isso a infração cometida como técnica alcança também o exercício como enfermeira. O prazo de até 30 anos é o da cassação (§ 5º), aplicada pelo COFEN.",
+  "porAlt": [
+   "Correta: suspensão de até 90 dias, com carteira retida em todas as categorias inscritas (§ 7º).",
+   "Na suspensão, a carteira fica retida em todas as categorias em que a profissional é inscrita.",
+   "Até 30 anos é o prazo da cassação, e não da suspensão (art. 108, § 5º).",
+   "A suspensão vai até 90 dias e é divulgada, não sigilosa (art. 108, § 4º).",
+   "A suspensão é comunicada aos empregadores, conforme o art. 108, § 4º."
+  ]
+ },
+ {
+  "q": "Na clínica médica, um enfermeiro administra 50 unidades de insulina regular em vez das 5 prescritas. O paciente evolui com hipoglicemia grave e convulsão, é transferido para a UTI com risco de morte e recebe alta dias depois, sem sequelas. Pelo art. 111 do Código de Ética, como se classifica a infração?",
+  "alts": [
+   "Leve, pois o paciente se recuperou sem nenhuma sequela",
+   "Leve, pois não houve debilidade de membro ou de função",
+   "Gravíssima, pois exigiu internação em terapia intensiva",
+   "Moderada, pois o dano foi revertido com o tratamento",
+   "Grave, pois o paciente foi exposto a perigo de morte"
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Res. COFEN 564/2017 (Código de Ética), arts. 110 e 111",
+  "coment": "O art. 111 do Código de Ética classifica as infrações pelo resultado na pessoa. É leve a que ofende a integridade sem causar debilidade; moderada, a que causa debilidade temporária de membro, sentido ou função; grave, a que provoca perigo de morte, debilidade permanente ou dano moral irremediável; gravíssima, a que causa morte, debilidade permanente ou dano moral irremediável. A hipoglicemia com convulsão e transferência para a UTI expôs o paciente a perigo de morte, o que define a classe grave, ainda que ele tenha se recuperado. A ida para a UTI, por si, não é critério de gravíssima.",
+  "porAlt": [
+   "A recuperação sem sequela não apaga o perigo de morte, critério da classe grave.",
+   "Houve perigo de morte, critério que leva a infração à classe grave (art. 111).",
+   "Gravíssima exige morte, debilidade permanente ou dano moral irremediável.",
+   "Reverter o dano não rebaixa a classe quando houve perigo de morte (art. 111).",
+   "Correta: o perigo de morte define a infração grave (art. 111)."
+  ]
+ },
+ {
+  "q": "No processo ético contra uma técnica de enfermagem que trocou a medicação de dois pacientes, o relator anota que ela confessou espontaneamente, colaborou com a apuração e tentou logo reduzir as consequências do erro. Ela alega ter sido coagida pela chefia e, dois anos antes, foi punida com multa em outro processo já encerrado. Qual desses fatos é agravante?",
+  "alts": [
+   "Ter confessado a infração de forma espontânea",
+   "Ser reincidente, já punida em processo anterior",
+   "Ter colaborado com a apuração do processo ético",
+   "Ter tentado logo reduzir as consequências do erro",
+   "Ter sofrido coação da chefia no momento do erro"
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Res. COFEN 564/2017 (Código de Ética), arts. 110 a 113; Res. COFEN 706/2022, art. 102",
+  "coment": "A gradação da pena considera a gravidade, as circunstâncias agravantes e atenuantes, o dano e os antecedentes (art. 110). O art. 112 lista como atenuantes ter procurado logo, por vontade própria, evitar ou reduzir as consequências, ter bons antecedentes, ter agido sob coação, intimidação ou grave ameaça, confessar espontaneamente e colaborar com a apuração. O art. 113 traz as agravantes, e a primeira é a reincidência, ao lado de dolo, motivo fútil ou torpe e abuso de autoridade. A punição anterior conta, pois a reincidência é considerada por cinco anos (Res. COFEN 706/2022, art. 102, § 2º).",
+  "porAlt": [
+   "A confissão espontânea é atenuante (art. 112).",
+   "Correta: a reincidência é circunstância agravante (art. 113).",
+   "Colaborar com a apuração do fato é atenuante (art. 112).",
+   "Procurar logo reduzir as consequências é atenuante (art. 112).",
+   "Agir sob coação, intimidação ou grave ameaça é atenuante (art. 112)."
+  ]
+ },
+ {
+  "q": "Os profissionais de enfermagem de um hospital público estadual aprovam greve por atraso salarial. Na assembleia, parte da categoria propõe interromper toda a assistência, inclusive na UTI e no pronto-socorro, para pressionar o governo. Segundo o Código de Ética, qual deve ser a postura da equipe durante o movimento?",
+  "alts": [
+   "Interromper toda a assistência, pois o direito de greve não tem limites",
+   "Manter só os atendimentos de urgência, sem assistência aos internados",
+   "Pedir autorização prévia do COREN antes de aderir ao movimento grevista",
+   "Garantir os cuidados mínimos que assegurem assistência segura aos pacientes",
+   "Manter toda a assistência, pois a greve é proibida para a enfermagem"
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Res. COFEN 564/2017 (Código de Ética), art. 44",
+  "coment": "O art. 44 do Código de Ética trata da assistência durante movimentos reivindicatórios da categoria. O direito de greve é respeitado, mas a equipe tem o dever de garantir os cuidados mínimos que assegurem uma assistência segura aos pacientes. Interromper toda a assistência expõe pacientes graves a dano, e manter só as urgências deixa os internados sem cuidado. O Código não exige autorização do COREN para aderir ao movimento nem proíbe a greve na enfermagem; ele limita o modo de fazê-la.",
+  "porAlt": [
+   "O art. 44 limita o movimento: os cuidados mínimos aos pacientes devem ser garantidos.",
+   "Os internados também precisam dos cuidados mínimos previstos no art. 44.",
+   "O Código não condiciona a adesão à greve a autorização prévia do COREN.",
+   "Correta: na greve, a equipe garante os cuidados mínimos de assistência segura (art. 44).",
+   "O Código reconhece o movimento reivindicatório e exige apenas os cuidados mínimos."
+  ]
+ },
+ {
+  "q": "Uma enfermeira recém-contratada para a clínica médica, sem treinamento em diálise, é escalada pela gerência para conduzir sozinha uma sessão de hemodiálise à beira do leito na UTI, porque a enfermeira da nefrologia faltou. Ela nunca operou a máquina. Segundo o Código de Ética, qual é o direito dela nessa situação?",
+  "alts": [
+   "Aceitar, pois recusar ordem da gerência configura infração ética",
+   "Aceitar e registrar que agiu sob coação, para afastar a responsabilidade",
+   "Recusar só se a ordem for verbal, cumprindo-a se vier por escrito",
+   "Aceitar, desde que um técnico experiente acompanhe o procedimento",
+   "Recusar a atividade, por não ter competência técnica nem segurança"
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Res. COFEN 564/2017 (Código de Ética), arts. 22 e 62",
+  "coment": "O Código de Ética assegura ao profissional o direito de recusar atividade que não seja de sua competência ou que não ofereça segurança ao profissional e à pessoa assistida (art. 22). Em paralelo, é proibido executar atividade fora da própria competência (art. 62). Uma enfermeira sem treinamento que conduzisse a hemodiálise exporia o paciente a dano, e a ordem escrita, a coação alegada ou a presença de um técnico não suprem a falta de capacitação. Cabe comunicar a recusa à chefia, por escrito, para que se busque um profissional habilitado.",
+  "porAlt": [
+   "Recusar atividade sem competência ou sem segurança é direito, não infração (art. 22).",
+   "Registrar coação não afasta o risco ao paciente nem a proibição do art. 62.",
+   "A forma da ordem não muda a falta de competência técnica para o procedimento.",
+   "A presença de um técnico não supre a falta de capacitação da enfermeira.",
+   "Correta: é direito recusar atividade fora da competência ou sem segurança (art. 22)."
+  ]
+ },
+ {
+  "q": "Uma enfermeira é processada por registrar na evolução sinais vitais que não aferiu. A comissão de instrução e o relator enquadram a conduta somente no art. 87 do Código de Ética, que proíbe registrar informações incompletas, imprecisas ou inverídicas, e o relator propõe a pena de censura. Considerando os arts. 114 a 119, o que se conclui sobre a proposta?",
+  "alts": [
+   "Correta, pois toda infração admite qualquer das cinco penas do art. 108",
+   "Incorreta, pois o art. 87 admite somente advertência verbal reservada",
+   "Incorreta, pois o art. 87 admite advertência, multa e suspensão, não censura",
+   "Incorreta, pois registro inverídico só admite a cassação do exercício",
+   "Correta, desde que a censura seja cumulada com multa pelo mesmo artigo"
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "Res. COFEN 564/2017 (Código de Ética), arts. 87 e 114 a 119",
+  "coment": "Os arts. 115 a 119 do Código de Ética ligam cada pena a uma lista própria de artigos, e as listas não são simétricas. O art. 87, que proíbe registrar informações incompletas, imprecisas ou inverídicas, consta das listas de advertência verbal, multa e suspensão, mas não da lista da censura. Com o enquadramento apenas no art. 87, a censura não cabe. As penas só se acumulam quando há infração a mais de um artigo (art. 114), e a cassação é restrita aos artigos enumerados no art. 119 (45, 64, 70, 72, 73, 74, 80, 82, 83, 94, 96 e 97), entre os quais o 87 não está.",
+  "porAlt": [
+   "As penas não são livres: os arts. 115 a 119 vinculam cada pena a artigos específicos.",
+   "O art. 87 consta também das listas de multa e de suspensão, além da advertência.",
+   "Correta: o art. 87 admite advertência, multa e suspensão, e não consta da lista da censura.",
+   "O art. 87 não está entre os artigos que admitem cassação (art. 119).",
+   "As penas só se acumulam com infração a mais de um artigo (art. 114)."
+  ]
+ },
+ {
+  "q": "O COREN condenou um técnico de enfermagem à pena de advertência verbal. Ele mora a 400 km da sede do conselho, e a secretaria propõe aplicar a pena em sala virtual. Pelo Código de Processo Ético, com as alterações da Res. COFEN 758/2024, como pode ser feita a advertência nesse formato?",
+  "alts": [
+   "Não pode, pois a advertência verbal exige sempre a presença física do advertido",
+   "Pode, por mensagem escrita ao advertido, dispensando a sessão e as testemunhas",
+   "Pode, com a autoridade, o advertido e no mínimo uma testemunha na sala virtual",
+   "Pode, desde que transmitida em sessão pública aberta, com divulgação oficial",
+   "Não pode, pois a advertência a distância só cabe a enfermeiros, não a técnicos"
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Resoluções do COFEN",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Res. COFEN 706/2022 (Código de Processo Ético), art. 95, § 5º, incluído pela Res. COFEN 758/2024; Res. COFEN 564/2017, art. 108, § 1º",
+  "coment": "A advertência verbal é admoestação reservada, registrada no prontuário do infrator, aplicada diante de duas testemunhas (Res. COFEN 564/2017, art. 108, § 1º). A Res. COFEN 758/2024 não criou um novo código: alterou quatro artigos do Código de Processo Ético anexo à Res. 706/2022. Uma das mudanças incluiu o § 5º no art. 95, que permite aplicar a advertência verbal em sala virtual, com a presença da autoridade, do advertido e de no mínimo uma testemunha. A pena continua reservada: divulgação em publicações oficiais é característica da censura.",
+  "porAlt": [
+   "Desde a Res. 758/2024, a advertência verbal pode ser aplicada em sala virtual.",
+   "A advertência continua verbal e exige testemunha, mesmo no formato virtual.",
+   "Correta: sala virtual com a autoridade, o advertido e ao menos uma testemunha (art. 95, § 5º).",
+   "A advertência é reservada; a divulgação oficial é característica da censura.",
+   "A regra da sala virtual vale para qualquer categoria de enfermagem."
+  ]
+ },
+ {
+  "q": "Em março de 2019, uma técnica de enfermagem deixou de anotar no prontuário a recusa de um paciente a uma medicação, sem dano a ele. Em maio de 2025, o paciente descobre o fato e protocola denúncia no COREN. Pelo Código de Processo Ético, qual deve ser o destino dessa denúncia?",
+  "alts": [
+   "Processamento normal, pois a prescrição de 5 anos conta do conhecimento pelo conselho",
+   "Processamento normal, pois as infrações éticas de enfermagem são imprescritíveis",
+   "Conciliação obrigatória, pois a infração é leve e restrita às duas partes envolvidas",
+   "Arquivamento liminar, pois passaram mais de 5 anos entre o fato e a denúncia",
+   "Arquivamento só após instrução completa, pois a decadência depende de julgamento"
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Resoluções do COFEN",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Res. COFEN 706/2022 (Código de Processo Ético), arts. 71 a 74",
+  "coment": "O Código de Processo Ético distingue dois prazos de 5 anos. A decadência (art. 74) é o prazo para apresentar a denúncia, contado da ocorrência do fato; vencido, a denúncia é arquivada liminarmente. A prescrição (art. 71) corre do conhecimento do fato pelo conselho e é interrompida pela notificação do denunciado (art. 72). Entre março de 2019 e maio de 2025 passaram mais de 5 anos desde o fato, e a denúncia chegou tarde, independentemente de quando o paciente soube. O caso não chega à conciliação nem à instrução.",
+  "porAlt": [
+   "A prescrição corre do conhecimento pelo conselho, mas aqui já houve decadência, contada do fato.",
+   "O Código de Processo Ético prevê prescrição e decadência, ambas de 5 anos.",
+   "A conciliação pressupõe denúncia admissível, o que a decadência impede.",
+   "Correta: mais de 5 anos entre o fato e a denúncia levam ao arquivamento liminar (art. 74).",
+   "A decadência leva ao arquivamento liminar, sem necessidade de instrução."
+  ]
+ },
+ {
+  "q": "Uma técnica de enfermagem denuncia ao COREN a enfermeira supervisora, que a teria ofendido verbalmente diante de colegas durante o plantão. Não houve dano a pacientes, e a câmara de ética classifica o fato como infração leve, restrita às duas profissionais. Pelo Código de Processo Ético, qual é o próximo passo após a admissão da denúncia?",
+  "alts": [
+   "Conciliação obrigatória entre as partes antes de instaurar o processo",
+   "Instauração direta do processo, pois a conciliação é sempre facultativa",
+   "Arquivamento sumário, pois ofensa verbal não constitui infração ética",
+   "Remessa dos autos ao COFEN, competente para conflitos entre categorias",
+   "Suspensão cautelar da enfermeira até o julgamento pelo plenário regional"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Resoluções do COFEN",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Res. COFEN 706/2022 (Código de Processo Ético), arts. 15 e 25",
+  "coment": "Admitida a denúncia, o Código de Processo Ético prevê conciliação obrigatória quando a infração é leve ou moderada e envolve apenas as partes, como numa ofensa entre colegas sem dano a terceiros (Res. COFEN 706/2022, art. 25). Havendo acordo, o termo é homologado e o caso arquivado; sem acordo, instaura-se o processo. A conciliação é vedada nas infrações gravíssimas. A suspensão cautelar exige indício de autoria e materialidade e receio de dano irreparável (art. 15), e o COFEN atua como instância recursal e na cassação, não como primeira instância desse conflito.",
+  "porAlt": [
+   "Correta: infração leve restrita às partes impõe conciliação antes do processo (art. 25).",
+   "Nas infrações leves ou moderadas entre as partes, a conciliação é obrigatória.",
+   "Ofender colega no plantão pode configurar infração; a câmara já a admitiu como leve.",
+   "O conflito é apurado no COREN; o COFEN julga recursos e casos de cassação.",
+   "A suspensão cautelar exige receio de dano irreparável, ausente numa infração leve."
+  ]
+ },
+ {
+  "q": "No processo ético contra um técnico de enfermagem, a comissão de instrução ouve as testemunhas, recebe a defesa e encerra o relatório sugerindo suspensão de 30 dias. O advogado do técnico aponta irregularidade no relatório. Pelo Código de Processo Ético, qual é o problema apontado?",
+  "alts": [
+   "A comissão deveria ter ouvido no mínimo cinco testemunhas antes do relatório",
+   "A comissão deveria ser composta apenas por técnicos, mesma categoria do réu",
+   "A comissão deveria ter indicado a cassação, pena própria da fase de instrução",
+   "A comissão deveria ter concluído o relatório em 30 dias, sem prorrogação",
+   "A comissão não indica pena nem absolvição: isso cabe ao relator e ao plenário"
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Resoluções do COFEN",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Res. COFEN 706/2022 (Código de Processo Ético), arts. 8º a 10",
+  "coment": "A Comissão de Instrução do Processo Ético (CIPE) tem 3 profissionais de categoria igual ou superior à do denunciado (art. 8º), conduz a instrução em 120 dias prorrogáveis por igual período (art. 10) e encerra com um relatório que não indica pena nem absolvição (art. 9º). Quem propõe os artigos infringidos e a pena é o conselheiro relator, em parecer submetido ao plenário do COREN. A defesa pode arrolar até 3 testemunhas. Um técnico pode, portanto, ser instruído por enfermeiros, e o relatório que sugere pena extrapola a função da comissão.",
+  "porAlt": [
+   "A defesa arrola até 3 testemunhas; não há exigência de cinco antes do relatório.",
+   "A comissão tem profissionais de categoria igual ou superior à do denunciado.",
+   "A comissão não indica pena alguma, e a cassação é julgada pelo COFEN.",
+   "O prazo da instrução é de 120 dias, prorrogáveis por igual período (art. 10).",
+   "Correta: a CIPE não indica pena nem absolvição no relatório (art. 9º)."
+  ]
+ },
+ {
+  "q": "Uma enfermeira é condenada pelo plenário do COREN à pena de multa e recorre ao COFEN. O denunciante não recorre. No julgamento do recurso, um conselheiro federal entende que a conduta, pela gravidade, mereceria suspensão. Pelo Código de Processo Ético, qual é o limite da decisão do COFEN nesse recurso?",
+  "alts": [
+   "Pode aplicar a suspensão, pois o recurso devolve toda a matéria ao COFEN",
+   "Pode manter ou abrandar a multa, mas não agravar a pena da recorrente",
+   "Deve anular o processo e devolvê-lo ao COREN para aplicar a pena maior",
+   "Pode aplicar a suspensão, desde que por unanimidade do plenário federal",
+   "Deve converter a multa em censura, pena intermediária entre as duas"
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Resoluções do COFEN",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "Res. COFEN 706/2022 (Código de Processo Ético), arts. 92 e 94",
+  "coment": "O recurso contra a decisão do plenário do COREN vai ao COFEN no prazo de 15 dias, com efeito suspensivo. Quando somente o denunciado recorre, a pena não pode ser agravada (art. 92), regra que protege o direito de recorrer. O COFEN pode manter a multa, reduzi-la ou absolver a profissional, mas não substituí-la por censura ou suspensão, nem anular o processo para obter pena maior. Censura e suspensão, além de mais graves, são publicadas (art. 94), o que mostra o prejuízo que a regra impede.",
+  "porAlt": [
+   "Com recurso só da defesa, a pena não pode piorar (art. 92).",
+   "Correta: recurso exclusivo da denunciada não admite agravamento da pena (art. 92).",
+   "Anular para agravar burlaria a proibição de piorar a pena em recurso da defesa.",
+   "A unanimidade não afasta a vedação de agravar a pena em recurso só da defesa.",
+   "A censura é mais grave que a multa e também é vedada nesse recurso."
+  ]
+ },
+ {
+  "q": "Um hospital com 180 profissionais de enfermagem tem Comissão de Ética de Enfermagem. Ela recebe denúncia de que um técnico atendeu pacientes de forma desrespeitosa. Após ouvir os envolvidos, um membro propõe que a comissão aplique advertência ao técnico. Pela Res. COFEN 792/2025, como deve agir a comissão?",
+  "alts": [
+   "Aplicar a advertência, com cópia ao enfermeiro responsável técnico",
+   "Arquivar o caso, pois denúncia de usuário deve ir direto ao COFEN",
+   "Fazer averiguação prévia e enviar relatório narrativo ao COREN",
+   "Julgar o caso em plenário da comissão, garantida a defesa do técnico",
+   "Aplicar a advertência só se o técnico confessar a conduta denunciada"
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Resoluções do COFEN",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Res. COFEN 792/2025 (Comissões de Ética de Enfermagem), anexo, arts. 1º, 3º e 6º",
+  "coment": "A Res. COFEN 792/2025 revogou a 593/2018 e regula as Comissões de Ética de Enfermagem. A comissão representa o COREN na instituição, com funções educativa, consultiva, de escuta qualificada, de orientação e de vigilância (art. 1º do anexo), e não julga nem pune. Diante de denúncia, faz averiguação prévia, sem juízo de valor, e envia relatório narrativo ao COREN, com cópia ao enfermeiro responsável técnico apenas para ciência, salvo se ele for parte (art. 3º). Ela é obrigatória a partir de 50 profissionais de enfermagem (art. 6º), o que inclui esse hospital.",
+  "porAlt": [
+   "A comissão não aplica pena; a cópia ao responsável técnico é só para ciência.",
+   "A comissão recebe denúncias e as encaminha ao COREN, não ao COFEN.",
+   "Correta: a comissão averigua sem juízo de valor e relata ao COREN (art. 3º).",
+   "Julgar é atribuição do plenário do COREN, não da Comissão de Ética.",
+   "Mesmo com confissão, a comissão não aplica pena: apenas relata ao COREN."
+  ]
+ },
+ {
+  "q": "Na consulta de enfermagem de planejamento reprodutivo, a enfermeira de uma unidade básica prescreve um contraceptivo oral previsto no protocolo municipal aprovado, para a indicação prevista nele. Ao revisar as receitas do mês, a coordenação verifica se os itens mínimos exigidos pela Res. COFEN 801/2026 estão presentes. Quais dados devem constar?",
+  "alts": [
+   "Nome comercial do medicamento, carimbo do enfermeiro e visto de um médico",
+   "CID do diagnóstico médico, número do protocolo e assinatura do gestor local",
+   "Identificação do protocolo, CRM do médico de referência e nome comercial",
+   "Protocolo e ano, CNPJ da instituição e medicamento pela denominação genérica",
+   "Nome do paciente, endereço completo e assinatura de dois enfermeiros da unidade"
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Resoluções do COFEN",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Res. COFEN 801/2026, arts. 2º e 3º; Lei 7.498/1986, art. 11, II, c",
+  "coment": "A prescrição de medicamentos pelo enfermeiro é feita como integrante da equipe de saúde, limitada aos medicamentos estabelecidos em programas de saúde pública e em rotina aprovada pela instituição (Lei 7.498/1986, art. 11, II, c). A Res. COFEN 801/2026 situa a prescrição na consulta de enfermagem, fundamentada em protocolos (art. 2º), e no art. 3º lista os itens mínimos: protocolo e ano; instituição e CNPJ; nome, número e categoria do prescritor no COREN, com assinatura; data; nome do paciente e outro identificador; e o medicamento pela denominação genérica, com via e posologia. A receita não depende de visto médico.",
+  "porAlt": [
+   "A Res. 801/2026 exige a denominação genérica e não prevê visto médico.",
+   "A receita identifica o protocolo e a instituição, sem exigir CID nem gestor.",
+   "O prescritor se identifica pelo COREN, e o medicamento vai pelo nome genérico.",
+   "Correta: protocolo e ano, CNPJ e denominação genérica estão no art. 3º da Res. 801/2026.",
+   "O segundo identificador é CPF ou data de nascimento, e só o prescritor assina."
+  ]
+ },
+ {
+  "q": "Na clínica médica, um homem de 68 anos em delirium após cirurgia arranca o acesso venoso e tenta retirar a sonda vesical, sem responder às medidas verbais nem à presença do acompanhante. A equipe discute a contenção mecânica. Segundo a Res. COFEN 746/2024, em que condições ela pode ser feita?",
+  "alts": [
+   "Como único meio de evitar dano imediato, sob supervisão direta do enfermeiro",
+   "Por decisão do técnico, sempre que o paciente estiver agitado ou confuso",
+   "Como rotina noturna para todo paciente idoso com risco de queda no leito",
+   "Por pedido do acompanhante, dispensando registro do motivo e da duração",
+   "Como medida disciplinar, pelo tempo que a equipe julgar necessário"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Resoluções do COFEN",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Res. COFEN 746/2024 (contenção mecânica)",
+  "coment": "A Res. COFEN 746/2024, que revogou a 427/2012, admite a contenção mecânica apenas quando ela é o único meio de prevenir dano imediato, sob supervisão direta do enfermeiro, com registro do motivo, da duração e do monitoramento. No caso, as medidas verbais e a presença do acompanhante falharam e há risco de dano imediato pela retirada de dispositivos, o que pode justificar a medida, mantida a vigilância. Agitação isolada, rotina, pedido de familiar ou finalidade disciplinar não a autorizam.",
+  "porAlt": [
+   "Correta: contenção só como único meio de evitar dano imediato, sob supervisão direta do enfermeiro.",
+   "A contenção exige supervisão direta do enfermeiro e risco de dano imediato.",
+   "Contenção de rotina contraria a exigência de ser o único meio de evitar dano.",
+   "O registro do motivo, da duração e do monitoramento é obrigatório na Res. 746/2024.",
+   "A contenção não tem finalidade disciplinar e exige registro da duração."
+  ]
+ },
+ {
+  "q": "Em outubro de 2026, uma enfermeira perioperatória estuda para um concurso e encontra numa apostila a afirmação de que o profissional de enfermagem é proibido de atuar como auxiliar em procedimentos cirúrgicos, com base na Res. COFEN 280/2003. Como ela deve avaliar essa afirmação?",
+  "alts": [
+   "Correta, pois a Res. 280/2003 segue vigente e foi reforçada em 2024",
+   "Correta, pois a proibição consta do próprio texto da Lei 7.498/1986",
+   "Correta apenas para técnicos, sendo livre a atuação de enfermeiros",
+   "Correta, pois a Res. 779/2025 reafirmou a proibição criada em 2003",
+   "Desatualizada, pois a Res. 280/2003 foi revogada pela Res. 779/2025"
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Resoluções do COFEN",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Res. COFEN 779/2025",
+  "coment": "A Res. COFEN 280/2003 proibia o profissional de enfermagem de auxiliar procedimentos cirúrgicos. Ela foi revogada pela Res. COFEN 779/2025, e uma apostila que ainda a cita como vigente está desatualizada. A proibição vinha de resolução do conselho, não da Lei 7.498/1986. Em provas recentes, a FGV cobra normas novas e revogações, como a da Res. 543/2017 pela 743/2024; vale conferir a data e a situação de cada resolução antes de aceitar a afirmação de um material de estudo.",
+  "porAlt": [
+   "A Res. 280/2003 não está vigente: foi revogada em 2025.",
+   "A proibição vinha de resolução do COFEN, revogada em 2025, e não da lei.",
+   "A Res. 280/2003 alcançava os profissionais de enfermagem e foi revogada.",
+   "A Res. 779/2025 revogou a proibição, em vez de reafirmá-la.",
+   "Correta: a Res. COFEN 779/2025 revogou a Res. 280/2003."
+  ]
+ },
+ {
+  "q": "Numa clínica privada de vacinação, uma enfermeira atende um adulto de 40 anos que deseja um imunobiológico não incluído no Programa Nacional de Imunizações, registrado na ANVISA. Após a consulta de enfermagem, ela avalia a indicação e quer prescrevê-lo. Segundo a Res. COFEN 795/2025, como se enquadra essa prescrição?",
+  "alts": [
+   "Vedada, pois o enfermeiro só prescreve vacinas do calendário do PNI",
+   "Permitida, se fundamentada no Processo de Enfermagem e com registro ANVISA",
+   "Permitida só com receita médica prévia anexada ao prontuário do cliente",
+   "Vedada, pois imunobiológico fora do PNI exige prescrição do farmacêutico",
+   "Permitida apenas em serviço público, seguindo o protocolo do município"
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Resoluções do COFEN",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Res. COFEN 795/2025, arts. 1º e 4º; Res. COFEN 801/2026",
+  "coment": "A Res. COFEN 795/2025 reconhece a prescrição de imunobiológicos como competência do enfermeiro. No SUS, ele segue os protocolos do programa, e a prescrição não é obrigatória quando o fluxo já está definido. No serviço privado, a resolução permite prescrever imunobiológico fora do PNI, desde que registrado na ANVISA e fundamentado no Processo de Enfermagem (arts. 1º e 4º). É a mesma lógica da Res. COFEN 801/2026 para medicamentos: prescrição apoiada em protocolo e na consulta de enfermagem, sem receita médica prévia.",
+  "porAlt": [
+   "No serviço privado, a Res. 795/2025 admite prescrever imunobiológico fora do PNI.",
+   "Correta: fora do PNI, no privado, exige registro na ANVISA e Processo de Enfermagem (art. 4º).",
+   "A resolução reconhece a prescrição como competência do enfermeiro, sem receita médica.",
+   "A Res. 795/2025 trata da prescrição pelo enfermeiro, sem exigir o farmacêutico.",
+   "A prescrição fora do PNI é justamente a hipótese prevista para o serviço privado."
+  ]
+ }
+]

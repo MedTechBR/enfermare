@@ -1,0 +1,502 @@
+[
+ {
+  "q": "Uma enfermeira assume a gestão da qualidade de uma rede que inclui um hospital filantrópico, um laboratório clínico, um serviço de atenção domiciliar e um ambulatório de ensino ligado a uma universidade federal. Ela precisa definir em quais serviços a RDC ANVISA 36/2013 obriga a constituição de Núcleo de Segurança do Paciente. Qual é a resposta correta?",
+  "alts": [
+   "No hospital filantrópico e no ambulatório de ensino da universidade.",
+   "Nos quatro serviços, pois a norma alcança todo estabelecimento de saúde.",
+   "No hospital e no laboratório clínico, excluídos o domiciliar e o ensino.",
+   "Somente no hospital, pois serviços de ensino estão fora do escopo.",
+   "No hospital, no ambulatório e na atenção domiciliar, sem o laboratório."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 2º e parágrafo único",
+  "coment": "A RDC 36/2013 alcança os serviços de saúde públicos, privados, filantrópicos, civis ou militares, incluindo os que exercem ações de ensino e pesquisa (art. 2º). O parágrafo único do mesmo artigo exclui do escopo os consultórios individualizados, os laboratórios clínicos e os serviços móveis e de atenção domiciliar. Na rede descrita, o hospital filantrópico e o ambulatório universitário devem constituir NSP, nomeado pela direção; o laboratório clínico e o serviço domiciliar ficam fora da obrigação da resolução. O descumprimento da RDC é infração sanitária, nos termos da Lei 6.437/1977.",
+  "porAlt": [
+   "Correta: filantrópicos e serviços de ensino e pesquisa estão no escopo do art. 2º da RDC 36/2013.",
+   "Errada: o parágrafo único do art. 2º exclui o laboratório clínico e a atenção domiciliar.",
+   "Errada: o laboratório clínico está excluído, e o serviço de ensino está incluído na norma.",
+   "Errada: a norma inclui expressamente os serviços que exercem ações de ensino e pesquisa.",
+   "Errada: a atenção domiciliar está fora do escopo, ao lado do laboratório clínico."
+  ]
+ },
+ {
+  "q": "Na reunião de planejamento de um hospital geral, a diretoria propõe premiar, ao fim do semestre, as unidades de internação que registrarem o menor número de notificações de incidentes ao Núcleo de Segurança do Paciente. A enfermeira coordenadora do núcleo se opõe com base na Portaria MS 529/2013. Qual característica da cultura de segurança, definida no art. 4º da portaria, a proposta contraria?",
+  "alts": [
+   "Identificação do profissional responsável para fins de sanção disciplinar.",
+   "Prioridade das metas operacionais pactuadas pela direção com cada unidade.",
+   "Confidencialidade das notificações, restritas à direção e ao setor jurídico.",
+   "Encorajamento e recompensa da identificação, notificação e resolução de problemas.",
+   "Notificação interna restrita aos incidentes que resultaram em dano grave."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria MS 529/2013 (PNSP), art. 4º",
+  "coment": "O art. 4º da Portaria MS 529/2013 define cultura de segurança por cinco características: todos os trabalhadores, inclusive gestores, assumem responsabilidade pela própria segurança e pela de colegas, pacientes e familiares; a segurança é priorizada acima de metas financeiras e operacionais; a identificação, a notificação e a resolução dos problemas de segurança são encorajadas e recompensadas; há aprendizado organizacional a partir dos incidentes; e há recursos, estrutura e responsabilização para manter a segurança. Premiar quem notifica menos desestimula o relato e esconde os riscos. Queda no número de notificações não significa menos incidentes.",
+  "porAlt": [
+   "Errada: a portaria não prevê sanção a quem notifica; a cultura de segurança busca aprendizado.",
+   "Errada: a portaria coloca a segurança acima das metas financeiras e operacionais, não o contrário.",
+   "Errada: restringir as notificações à direção e ao jurídico não é característica do art. 4º.",
+   "Correta: o art. 4º manda encorajar e recompensar a identificação, a notificação e a resolução de problemas.",
+   "Errada: a notificação interna inclui near miss e incidente sem lesão, fontes de aprendizado."
+  ]
+ },
+ {
+  "q": "Após inspeção da vigilância sanitária, um hospital de 60 leitos sem Núcleo de Segurança do Paciente recebe prazo para se adequar à RDC 36/2013. A enfermeira responsável técnica pergunta quem deve constituir o núcleo e quem deve elaborar o Plano de Segurança do Paciente. Qual é a resposta conforme a resolução?",
+  "alts": [
+   "A CCIH constitui o núcleo, e a direção elabora o Plano de Segurança.",
+   "A direção constitui e nomeia o núcleo, que elabora o Plano de Segurança.",
+   "A vigilância sanitária nomeia o núcleo, que elabora o Plano de Segurança.",
+   "A direção constitui o núcleo, e a CCIH elabora o Plano de Segurança.",
+   "A responsável técnica de enfermagem nomeia o núcleo e redige o Plano."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, arts. 4º, 7º e 8º",
+  "coment": "Pela RDC 36/2013, a direção do serviço de saúde deve constituir o NSP e nomear seus componentes, conferindo-lhes autoridade para executar as ações do Plano de Segurança do Paciente (art. 4º); a norma permite aproveitar comissões e estruturas já existentes, como a CCIH, para compor o núcleo. Cabe ao próprio NSP elaborar o PSP, que estabelece a gestão de risco da admissão à alta, transferência ou óbito, incluindo identificação, higiene das mãos, cirurgia segura, medicamentos, quedas, úlceras por pressão e IRAS (art. 8º). Ao NSP compete ainda notificar os eventos adversos ao Sistema Nacional de Vigilância Sanitária (art. 7º).",
+  "porAlt": [
+   "Errada: quem constitui o NSP é a direção; a CCIH pode compor o núcleo, mas não o institui.",
+   "Correta: a direção constitui e nomeia o NSP (art. 4º), e o NSP elabora o PSP (art. 8º).",
+   "Errada: a vigilância sanitária fiscaliza e recebe notificações, mas não nomeia o núcleo do serviço.",
+   "Errada: o PSP é elaborado pelo próprio NSP, não pela comissão de controle de infecção.",
+   "Errada: a constituição do núcleo é ato da direção do serviço, não da responsável técnica."
+  ]
+ },
+ {
+  "q": "Na sala de parto de uma maternidade, nasce o filho de Joana Pereira da Silva, internada no leito 12 do alojamento conjunto. A enfermeira obstétrica vai identificar o recém-nascido antes de ele sair da sala. Segundo o Protocolo de Identificação do Paciente do Ministério da Saúde, qual conduta é a correta?",
+  "alts": [
+   "Pulseira branca no punho, com nome da mãe e número do leito materno.",
+   "Pulseira azul no tornozelo, com nome da mãe e data do nascimento.",
+   "Pulseira branca no tornozelo, com nome da mãe e número do leito.",
+   "Pulseira no punho, com data de nascimento e sexo do recém-nascido.",
+   "Pulseira branca, de preferência no tornozelo, com nome da mãe e prontuário."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Protocolo de Identificação do Paciente (Portaria MS 2.095/2013; MS/ANVISA/Fiocruz, 2013)",
+  "coment": "O protocolo exige no mínimo dois identificadores em pulseira branca padronizada, escolhidos entre nome completo, nome completo da mãe, data de nascimento e número do prontuário. No adulto, a pulseira vai no punho; no recém-nascido, preferencialmente no tornozelo, contendo no mínimo o nome da mãe e o número do prontuário. Número do leito ou do quarto não é identificador, porque muda com a transferência e é ocupado por vários pacientes ao longo do tempo. A identidade é confirmada antes de medicamento, sangue e hemoderivados, coleta de exame, dieta e procedimento invasivo, conferindo a pulseira com a prescrição.",
+  "porAlt": [
+   "Errada: número de leito não é identificador, e no recém-nascido prefere-se o tornozelo.",
+   "Errada: a pulseira padronizada é branca e, no recém-nascido, inclui o número do prontuário.",
+   "Errada: o número do leito não é identificador; o segundo dado deve ser o prontuário.",
+   "Errada: no recém-nascido a pulseira leva no mínimo o nome da mãe e o número do prontuário.",
+   "Correta: pulseira branca, preferencialmente no tornozelo, com nome da mãe e número do prontuário."
+  ]
+ },
+ {
+  "q": "Paciente de 58 anos está em colecistectomia videolaparoscópica eletiva. A enfermeira circulante conduz a Lista de Verificação de Segurança Cirúrgica da OMS. O paciente já foi anestesiado, e a equipe se prepara para a incisão da pele. Qual item é verificado nesta fase da lista?",
+  "alts": [
+   "Confirmação do consentimento assinado e da demarcação do sítio.",
+   "Contagem de compressas, agulhas e instrumentais pela enfermagem.",
+   "Antimicrobiano profilático administrado nos últimos 60 minutos.",
+   "Oxímetro funcionando e risco de perda sanguínea acima de 500 mL.",
+   "Identificação das amostras e revisão do plano pós-operatório."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Protocolo para Cirurgia Segura (Portaria MS 1.377/2013; MS/ANVISA/Fiocruz, 2013)",
+  "coment": "A lista da OMS tem três fases, checadas por um único condutor. Antes da indução anestésica, confirmam-se identidade, procedimento, local e consentimento, sítio demarcado, monitor funcionando, via aérea difícil, alergia e risco de perda sanguínea acima de 500 mL (7 mL/kg em crianças). Antes da incisão, na pausa cirúrgica, todos se apresentam por nome e função, confirmam paciente, cirurgia e sítio, revisam pontos críticos e conferem o antimicrobiano profilático nos últimos 60 minutos e as imagens. Antes de o paciente sair da sala, fazem-se a contagem de compressas e instrumentais, a identificação das amostras, o registro de problemas com equipamentos e o plano pós-operatório.",
+  "porAlt": [
+   "Errada: consentimento e demarcação do sítio são conferidos antes da indução anestésica.",
+   "Errada: a contagem de compressas e instrumentais pertence à fase antes de sair da sala.",
+   "Correta: a profilaxia nos últimos 60 minutos é conferida na pausa, antes da incisão.",
+   "Errada: oxímetro e risco de sangramento são verificados antes da indução anestésica.",
+   "Errada: amostras e plano pós-operatório são revistos antes de o paciente sair da sala."
+  ]
+ },
+ {
+  "q": "Uma enfermeira do Núcleo de Segurança do Paciente monta um treinamento comparando as seis Metas Internacionais de Segurança do Paciente da Joint Commission International com os seis protocolos básicos aprovados pelas Portarias MS 1.377/2013 e 2.095/2013. Qual tema é meta internacional, mas não tem protocolo básico próprio do Ministério da Saúde?",
+  "alts": [
+   "Comunicação efetiva na equipe",
+   "Prevenção de úlcera por pressão",
+   "Identificação correta do paciente",
+   "Higiene das mãos na assistência",
+   "Prevenção de quedas do paciente"
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portarias MS 1.377/2013 e 2.095/2013; International Patient Safety Goals (JCI); RDC ANVISA 36/2013, art. 8º",
+  "coment": "As metas da JCI são: identificar corretamente os pacientes, melhorar a comunicação efetiva, melhorar a segurança dos medicamentos de alta vigilância, assegurar a cirurgia segura, reduzir o risco de IRAS pela higiene das mãos e reduzir o risco de dano por quedas. Os seis protocolos básicos do MS são cirurgia segura, higiene das mãos e úlcera por pressão (Portaria 1.377/2013) e identificação, quedas e prescrição, uso e administração de medicamentos (Portaria 2.095/2013). A comunicação efetiva não ganhou protocolo básico, mas é item obrigatório do Plano de Segurança do Paciente (RDC 36/2013, art. 8º). A úlcera por pressão faz o caminho inverso: tem protocolo do MS, mas não é meta da JCI.",
+  "porAlt": [
+   "Correta: comunicação efetiva é a meta 2 da JCI e, no Brasil, item do PSP, sem protocolo básico.",
+   "Errada: úlcera por pressão tem protocolo do MS (Portaria 1.377/2013), mas não é meta da JCI.",
+   "Errada: identificação é a meta 1 da JCI e tem protocolo básico pela Portaria 2.095/2013.",
+   "Errada: higiene das mãos é a meta 5 da JCI e protocolo básico pela Portaria 1.377/2013.",
+   "Errada: quedas é a meta 6 da JCI e protocolo básico pela Portaria 2.095/2013."
+  ]
+ },
+ {
+  "q": "Às 23 horas, o médico plantonista telefona para a enfermaria e pede à enfermeira que aumente de 2 mg para 4 mg a dose de morfina intravenosa de um paciente oncológico com dor moderada, estável e sem sinais de gravidade. Ele diz que fará a prescrição no sistema pela manhã. Segundo o protocolo de segurança na prescrição, uso e administração de medicamentos, qual é a conduta adequada?",
+  "alts": [
+   "Aceitar a ordem, registrar o nome do médico e administrar a nova dose.",
+   "Aceitar após dupla checagem da dose com outro profissional da equipe.",
+   "Aceitar a ordem, repetindo-a em voz alta, por se tratar de opioide.",
+   "Solicitar a prescrição escrita, pois a ordem verbal se restringe às urgências.",
+   "Recusar, pois a ordem verbal é vedada mesmo em situação de urgência."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (Portaria MS 2.095/2013; MS/ANVISA/Fiocruz, 2013)",
+  "coment": "O protocolo de medicamentos do MS restringe a prescrição verbal às situações de urgência; nelas, quem recebe a ordem a repete em voz alta e o prescritor a confirma antes da administração. Fora da urgência, como no ajuste de analgesia de um paciente estável, a enfermeira solicita que a prescrição seja feita por escrito ou no sistema antes de administrar. A morfina é opiáceo, grupo de medicamentos de alta vigilância destacado pelo protocolo, que exige dupla checagem na prescrição, na farmácia e pela enfermagem antes da administração. A dupla checagem reforça a segurança, mas não substitui a prescrição formal.",
+  "porAlt": [
+   "Errada: fora da urgência, a ordem verbal não é aceita, mesmo com registro do nome do médico.",
+   "Errada: a dupla checagem é exigida para opioide, mas não substitui a prescrição escrita.",
+   "Errada: a repetição em voz alta é a técnica da ordem verbal na urgência, situação ausente aqui.",
+   "Correta: o protocolo restringe a ordem verbal às urgências; no paciente estável, exige-se prescrição.",
+   "Errada: na urgência a ordem verbal é admitida, com repetição em voz alta e confirmação do prescritor."
+  ]
+ },
+ {
+  "q": "Uma paciente de 79 anos sofre queda do leito durante a madrugada, com traumatismo cranioencefálico grave, e evolui para óbito na mesma manhã, em hospital que possui Núcleo de Segurança do Paciente. Segundo a RDC ANVISA 36/2013, em que prazo o núcleo deve notificar esse evento ao Sistema Nacional de Vigilância Sanitária?",
+  "alts": [
+   "Até o 15º dia útil do mês subsequente.",
+   "Em até 72 horas a partir do ocorrido.",
+   "Em até 24 horas a partir do ocorrido.",
+   "Em até 7 dias, com notificação semanal.",
+   "Em até 30 dias, após a investigação."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 10 e parágrafo único",
+  "coment": "A RDC 36/2013, art. 10, determina que o NSP notifique mensalmente os eventos adversos, até o 15º dia útil do mês subsequente ao mês de vigilância, pelas ferramentas eletrônicas da ANVISA (Notivisa). O parágrafo único abre exceção: os eventos adversos que evoluírem para óbito devem ser notificados em até 72 horas a partir do ocorrido. A queda com traumatismo e óbito é evento adverso, porque o incidente atingiu a paciente e resultou em dano. A investigação e o plano de ação vêm depois e não adiam a notificação. Não confundir com a notificação semanal no Sinan, própria dos agravos da lista nacional de notificação compulsória.",
+  "porAlt": [
+   "Errada: o 15º dia útil do mês seguinte é o prazo dos eventos adversos sem óbito.",
+   "Correta: evento adverso que evolui para óbito tem prazo de 72 horas (art. 10, parágrafo único).",
+   "Errada: a RDC 36/2013 não fixa prazo de 24 horas para notificação de evento adverso.",
+   "Errada: notificação semanal é regra do Sinan para agravos compulsórios, não do Notivisa.",
+   "Errada: a investigação não adia a notificação, e o prazo no óbito é de 72 horas."
+  ]
+ },
+ {
+  "q": "Na checagem do carro de emergência no início do plantão, a enfermeira de uma unidade de clínica médica constata que o desfibrilador não liga por bateria descarregada. Nenhum paciente precisou do equipamento até então, e ele é substituído de imediato. Segundo a classificação adotada pelo Documento de Referência do PNSP, como se classifica a situação?",
+  "alts": [
+   "Circunstância notificável, por haver potencial de dano.",
+   "Near miss, pois o incidente não atingiu nenhum paciente.",
+   "Incidente sem lesão, pois nenhum paciente sofreu dano.",
+   "Evento adverso, a ser notificado pelo NSP no Notivisa.",
+   "Erro ativo, atribuído ao profissional do plantão anterior."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Documento de Referência para o Programa Nacional de Segurança do Paciente (MS/Fiocruz/ANVISA, 2014)",
+  "coment": "A Classificação Internacional para a Segurança do Paciente da OMS, traduzida pelo Documento de Referência do PNSP (2014), distingue: circunstância notificável, incidente com potencial de dano ou lesão; near miss, incidente que não atingiu o paciente; incidente sem lesão, que atingiu o paciente sem causar dano; e evento adverso, incidente que resultou em dano. Equipamento crítico inoperante descoberto na checagem, sem paciente concreto envolvido, é situação com potencial de dano: circunstância notificável. Deve ser notificada internamente ao NSP, porque revela falha de processo, como manutenção e carga da bateria. O near miss pressupõe um incidente dirigido a um paciente e interceptado antes de alcançá-lo.",
+  "porAlt": [
+   "Correta: equipamento crítico inoperante achado na checagem é incidente com potencial de dano.",
+   "Errada: near miss pressupõe um incidente dirigido a um paciente e interceptado antes de atingi-lo.",
+   "Errada: incidente sem lesão é aquele que atingiu o paciente, o que não ocorreu aqui.",
+   "Errada: não houve dano a paciente, condição para classificar o caso como evento adverso.",
+   "Errada: a classificação pergunta se o incidente atingiu e se causou dano, sem buscar culpados."
+  ]
+ },
+ {
+  "q": "Na enfermaria de clínica médica, um técnico de enfermagem administra omeprazol 40 mg intravenoso ao paciente do leito 7, prescrito para o paciente do leito 8. O erro é percebido minutos depois; o paciente é avaliado pelo médico e não apresenta repercussão clínica nas horas seguintes. Como se classifica o incidente e qual é o encaminhamento da notificação?",
+  "alts": [
+   "Near miss, com notificação interna ao NSP para análise do processo.",
+   "Incidente sem lesão, com notificação interna ao NSP para análise.",
+   "Evento adverso, notificado pelo NSP à ANVISA até o 15º dia útil.",
+   "Evento adverso, notificado pelo NSP à ANVISA em até 72 horas.",
+   "Near miss, dispensando notificação porque não houve dano ao paciente."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "RDC ANVISA 36/2013, arts. 7º e 10; Documento de Referência do PNSP (2014); Portaria MS 529/2013, art. 5º",
+  "coment": "A classificação da OMS se decide em duas perguntas: o incidente chegou ao paciente? Se chegou, houve dano? Aqui o medicamento foi administrado, portanto atingiu o paciente, e não houve dano: é incidente sem lesão. Near miss seria a troca percebida antes da administração. A RDC 36/2013 obriga o NSP a notificar à ANVISA os eventos adversos; near miss e incidente sem lesão são notificados internamente ao NSP, que analisa as falhas, como a falta de conferência da pulseira com a prescrição, e dá retorno à unidade notificante, estratégia prevista na Portaria 529/2013 (art. 5º). O registro objetivo no prontuário acompanha a notificação.",
+  "porAlt": [
+   "Errada: o medicamento chegou ao paciente; near miss é o incidente interceptado antes de atingi-lo.",
+   "Correta: atingiu o paciente sem causar dano, e a notificação é interna, ao NSP, para aprendizado.",
+   "Errada: sem dano não há evento adverso, e o prazo mensal vale para eventos adversos.",
+   "Errada: o prazo de 72 horas é do evento adverso com óbito, situação distante deste caso.",
+   "Errada: além da classificação errada, incidentes sem dano também são notificados internamente."
+  ]
+ },
+ {
+  "q": "No Núcleo de Segurança do Paciente, a enfermeira analisa um evento adverso: um técnico administrou heparina no lugar de insulina; os frascos têm rótulos semelhantes e eram guardados lado a lado na mesma gaveta, sem destaque visual, por decisão da farmácia. A direção sugere demitir o técnico. Segundo o modelo de James Reason, adotado pelo Documento de Referência do PNSP, qual análise é correta?",
+  "alts": [
+   "A guarda lado a lado é erro latente; a troca na administração, erro ativo.",
+   "A troca na administração é erro latente; a guarda lado a lado, erro ativo.",
+   "Ambos são erros ativos, de responsabilidade exclusiva do técnico envolvido.",
+   "A demissão do técnico fecha o furo que permitiu o alinhamento das falhas.",
+   "A falha é da farmácia, e o caso deve ser reclassificado como near miss."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Documento de Referência para o Programa Nacional de Segurança do Paciente (MS/Fiocruz/ANVISA, 2014)",
+  "coment": "O Documento de Referência do PNSP adota o modelo de Reason. Erros ativos são atos inseguros de quem está em contato direto com o sistema, como a troca do medicamento na administração. Erros latentes são condições evitáveis criadas pela gestão, como guardar juntos frascos de rótulos parecidos sem destaque. No modelo do queijo suíço, o evento adverso ocorre quando os furos de várias barreiras se alinham; punir o último elo deixa o furo latente aberto para o próximo profissional. A cultura justa diferencia o profissional cuidadoso que erra daquele com comportamento de risco consciente e injustificado. A resposta do núcleo é corrigir armazenagem e rotulagem e reforçar a dupla checagem dos medicamentos de alta vigilância.",
+  "porAlt": [
+   "Correta: a armazenagem decidida pela gestão é condição latente; o ato de quem administra é erro ativo.",
+   "Errada: os conceitos estão invertidos; erro ativo é o ato de quem está na ponta do cuidado.",
+   "Errada: a armazenagem é decisão organizacional, condição latente que antecede o ato do técnico.",
+   "Errada: punir o último elo não fecha o furo latente; a gaveta continua induzindo o erro.",
+   "Errada: o medicamento atingiu o paciente com dano; near miss é o incidente que não o atinge."
+  ]
+ },
+ {
+  "q": "Na passagem de plantão, a enfermeira descobre que um paciente de 66 anos, com enoxaparina 40 mg prescrita uma vez ao dia, recebeu a dose às 10 horas e outra às 18 horas, e agora apresenta hematoma extenso na parede abdominal. Pela ordem de condutas recomendada após um incidente, qual sequência ela deve seguir?",
+  "alts": [
+   "Notificar o NSP, avaliar o paciente e registrar o fato no prontuário.",
+   "Registrar no prontuário, notificar o NSP e então avaliar o paciente.",
+   "Avaliar o paciente, notificar a ANVISA e registrar no livro de ocorrências.",
+   "Avaliar e atender o paciente, registrar no prontuário e notificar o NSP.",
+   "Avaliar o paciente e registrar no prontuário o nome do culpado pelo erro."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "RDC ANVISA 36/2013, arts. 7º e 10; Documento de Referência do PNSP (2014)",
+  "coment": "A ordem que a segurança do paciente consagra começa pelo paciente: avaliar, atender e mitigar o dano, comunicando o médico e a equipe. Em seguida vem o registro objetivo no prontuário, com fato, horário, conduta adotada e quem foi comunicado, sem juízo de culpa. Depois, a notificação interna ao Núcleo de Segurança do Paciente. Pela RDC 36/2013, art. 7º, é o NSP que notifica os eventos adversos ao Sistema Nacional de Vigilância Sanitária, pelo Notivisa; o profissional da ponta notifica ao núcleo. O hematoma caracteriza dano, portanto evento adverso, que o núcleo notificará até o 15º dia útil do mês seguinte, salvo evolução para óbito.",
+  "porAlt": [
+   "Errada: o paciente vem primeiro; notificar antes de avaliar retarda a mitigação do dano.",
+   "Errada: registrar e notificar antes de avaliar o paciente inverte a prioridade do cuidado.",
+   "Errada: a notificação à ANVISA é atribuição do NSP, e o registro vai para o prontuário.",
+   "Correta: primeiro o paciente, depois o registro objetivo e, por fim, a notificação interna ao NSP.",
+   "Errada: o registro é objetivo e sem juízo de culpa, e falta a notificação ao NSP."
+  ]
+ },
+ {
+  "q": "Em um box de UTI, a enfermeira silencia o alarme da bomba de infusão, ajusta a vazão do soro e levanta a grade da cama, sem tocar no paciente. Em seguida, vai ao posto de enfermagem registrar a alteração. Segundo os cinco momentos para a higiene das mãos, qual indicação se aplica ao sair do box?",
+  "alts": [
+   "Após tocar superfícies próximas ao paciente, mesmo sem tocá-lo.",
+   "Após risco de exposição a fluidos corporais ou a excreções.",
+   "Nenhuma, pois não houve contato direto com o próprio paciente.",
+   "Antes de procedimento limpo, pelo manuseio da bomba de infusão.",
+   "Após tocar o paciente, por contato indireto através do leito."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Higiene das mãos",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Protocolo para a Prática de Higiene das Mãos em Serviços de Saúde (Portaria MS 1.377/2013; MS/ANVISA/Fiocruz, 2013)",
+  "coment": "Os cinco momentos são: antes de tocar o paciente; antes de procedimento limpo ou asséptico, inclusive manuseio de dispositivo invasivo; após risco de exposição a fluidos corporais ou excreções e após remover luvas; após tocar o paciente; e após tocar superfícies próximas ao paciente. Bomba, grade e mesa de cabeceira fazem parte da zona do paciente. Ao deixar o box depois de tocá-las, mesmo sem contato com o paciente, a enfermeira deve higienizar as mãos, preferencialmente com preparação alcoólica, se não estiverem visivelmente sujas. O quinto momento evita que as mãos levem a microbiota da zona do paciente ao ambiente e a outros pacientes.",
+  "porAlt": [
+   "Correta: tocar a bomba e a grade da cama é contato com superfícies próximas, o quinto momento.",
+   "Errada: não houve contato com sangue, secreções ou excreções na cena descrita.",
+   "Errada: o quinto momento existe justamente para o contato com o entorno, sem tocar o paciente.",
+   "Errada: ajustar a bomba não é procedimento asséptico, e a indicação pedida é a da saída.",
+   "Errada: não houve toque no paciente; o contato foi com superfícies da zona do paciente."
+  ]
+ },
+ {
+  "q": "Uma unidade de clínica médica enfrenta surto de diarreia por Clostridioides difficile. A enfermeira da CCIH orienta a equipe sobre a higiene das mãos após o cuidado dos pacientes do surto, mesmo quando as mãos parecem limpas depois da retirada das luvas. Segundo o Protocolo de Higiene das Mãos, qual é a orientação correta?",
+  "alts": [
+   "Preparação alcoólica, recomendação IA para mãos sem sujidade visível.",
+   "Água e sabonete, pela exposição suspeita ou comprovada a esporos.",
+   "Preparação alcoólica seguida de água e sabonete, somando os efeitos.",
+   "Água e sabonete seguidos de preparação alcoólica, somando os efeitos.",
+   "Dispensar a higiene após tirar as luvas, pois elas barram os esporos."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Higiene das mãos",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Protocolo para a Prática de Higiene das Mãos em Serviços de Saúde (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "O Protocolo de Higiene das Mãos (MS/ANVISA/Fiocruz, 2013) recomenda água e sabonete quando as mãos estiverem visivelmente sujas ou manchadas de sangue ou outros fluidos e quando houver exposição, suspeita ou comprovada, a microrganismos formadores de esporos, inclusive em surtos de C. difficile (categoria IB). A preparação alcoólica é a preferida (IA) nas mãos não visivelmente sujas, mas não é a escolha diante de esporos. O protocolo também desaconselha usar sabonete e preparação alcoólica concomitantemente (categoria II). A luva não substitui a higiene das mãos, que deve ser feita após a sua retirada.",
+  "porAlt": [
+   "Errada: a recomendação IA da preparação alcoólica não se aplica à exposição a formadores de esporos.",
+   "Correta: exposição a formador de esporos, como no surto de C. difficile, pede água e sabonete (IB).",
+   "Errada: o protocolo desaconselha usar sabonete e preparação alcoólica concomitantemente (II).",
+   "Errada: a associação dos dois produtos é desaconselhada pelo protocolo, em qualquer ordem.",
+   "Errada: luva não substitui a higiene das mãos, indicada também após a retirada das luvas."
+  ]
+ },
+ {
+  "q": "Durante a integração de novos técnicos de enfermagem, a enfermeira da educação permanente demonstra as duas técnicas de higiene das mãos usadas na assistência: a higienização simples com água e sabonete líquido e a fricção antisséptica com preparação alcoólica. Segundo o Protocolo de Higiene das Mãos, qual é a duração recomendada de cada técnica?",
+  "alts": [
+   "20 a 30 segundos com água e sabonete; 40 a 60 com preparação alcoólica.",
+   "15 segundos com água e sabonete; 30 a 60 com preparação alcoólica.",
+   "3 a 5 minutos com água e sabonete; 20 a 30 segundos com preparação alcoólica.",
+   "40 a 60 segundos com água e sabonete; 60 a 90 com preparação alcoólica.",
+   "40 a 60 segundos com água e sabonete; 20 a 30 com preparação alcoólica."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Higiene das mãos",
+  "cenario": "ger",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Protocolo para a Prática de Higiene das Mãos em Serviços de Saúde (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "Pelo Protocolo de Higiene das Mãos (2013), a higienização simples com água e sabonete líquido dura de 40 a 60 segundos, sem anéis, pulseiras e relógio, e percorre palmas, dorsos, espaços interdigitais, dorso dos dedos, polegares, polpas digitais e unhas e punhos, terminando com secagem com papel toalha e fechamento da torneira manual com o papel. A fricção antisséptica com preparação alcoólica dura de 20 a 30 segundos, segue a mesma sequência de movimentos e termina quando o produto seca nas mãos; ela não remove sujidade. Os 3 a 5 minutos pertencem à antissepsia cirúrgica com degermante, na primeira cirurgia.",
+  "porAlt": [
+   "Errada: os tempos estão invertidos; a fricção alcoólica é a técnica mais curta.",
+   "Errada: 15 segundos é insuficiente para cobrir todas as etapas da higienização simples.",
+   "Errada: 3 a 5 minutos é o tempo da antissepsia cirúrgica com degermante, não da simples.",
+   "Errada: a fricção alcoólica dura de 20 a 30 segundos, até a secagem completa do produto.",
+   "Correta: higienização simples de 40 a 60 segundos e fricção alcoólica de 20 a 30 segundos."
+  ]
+ },
+ {
+  "q": "Um hospital de médio porte revisa a compra de produtos para as mãos. O setor de compras propõe substituir o gel alcoólico das enfermarias por álcool 70% líquido de uso saneante, mais barato, deixando um frasco no posto de enfermagem de cada unidade. A enfermeira da CCIH responde com base na RDC ANVISA 42/2010. Qual configuração atende à norma?",
+  "alts": [
+   "Gel com 60% de álcool, disponível no posto de enfermagem de cada unidade.",
+   "Álcool saneante a 70%, em frasco único no posto de enfermagem da unidade.",
+   "Gel com no mínimo 70%, disponível somente na porta de cada enfermaria.",
+   "Gel com no mínimo 70%, à beira do leito, nos pontos de assistência.",
+   "Álcool líquido a 90%, à beira do leito, por ter ação antisséptica maior."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Higiene das mãos",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 42/2010, arts. 4º e 5º",
+  "coment": "A RDC 42/2010 torna obrigatória a disponibilização de preparação alcoólica para fricção antisséptica das mãos nos pontos de assistência e tratamento de todos os serviços de saúde, à beira do leito e em local visível, com localização definida junto ao controle de infecção; permite frascos individuais de bolso. A preparação deve ter concentração final entre 60% e 80% na forma líquida e mínima de 70% nas formas gel, espuma e outras (art. 4º). A norma proíbe usar álcool saneante, produto para superfícies, na higiene das mãos. A CCIH monitora o consumo de preparação alcoólica por 1.000 pacientes-dia.",
+  "porAlt": [
+   "Errada: o gel exige concentração mínima de 70%, e o produto deve estar no ponto de assistência.",
+   "Errada: a RDC 42/2010 proíbe álcool saneante nas mãos e exige o produto à beira do leito.",
+   "Errada: a norma exige o produto nos pontos de assistência, à beira do leito, não só na porta.",
+   "Correta: gel com no mínimo 70%, disponível à beira do leito, como exige a RDC 42/2010.",
+   "Errada: a forma líquida deve ter concentração entre 60% e 80%; 90% está fora da faixa."
+  ]
+ },
+ {
+  "q": "Em um centro cirúrgico, um cirurgião termina uma herniorrafia e entra, 40 minutos depois, para uma segunda cirurgia na mesma sala. Ele fará a antissepsia cirúrgica das mãos com clorexidina degermante 2%, e a enfermeira questiona a duração do procedimento. Segundo o Caderno 4 da ANVISA, qual tempo é recomendado nesta segunda cirurgia?",
+  "alts": [
+   "De 3 a 5 minutos, porque o tempo não muda entre cirurgias.",
+   "De 40 a 60 segundos, como na higienização simples das mãos.",
+   "De 2 a 3 minutos, por ser cirurgia subsequente dentro de 1 hora.",
+   "De 5 a 7 minutos, pela troca do campo operatório entre as cirurgias.",
+   "De 20 a 30 segundos, com fricção até a secagem completa do produto."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Higiene das mãos",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "tit",
+  "base": "ANVISA. Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2ª ed., 2017",
+  "coment": "O Caderno 4 da ANVISA (Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, 2017) orienta a antissepsia cirúrgica das mãos com degermante, clorexidina 2% ou PVPI, por 3 a 5 minutos na primeira cirurgia e por 2 a 3 minutos nas cirurgias subsequentes realizadas dentro de 1 hora. Com produto alcoólico próprio para antissepsia cirúrgica, segue-se o tempo indicado pelo fabricante. A RDC 42/2010 inclui a antissepsia cirúrgica entre as formas de higiene das mãos, ao lado da higienização simples, da antisséptica e da fricção alcoólica. Os tempos de 40 a 60 segundos e de 20 a 30 segundos pertencem à higienização simples e à fricção alcoólica da assistência.",
+  "porAlt": [
+   "Errada: 3 a 5 minutos é o tempo da primeira cirurgia; nas seguintes, dentro de 1 hora, cai para 2 a 3.",
+   "Errada: 40 a 60 segundos é o tempo da higienização simples, não da antissepsia cirúrgica.",
+   "Correta: com degermante, as cirurgias subsequentes dentro de 1 hora pedem de 2 a 3 minutos.",
+   "Errada: o Caderno 4 não prevê 5 a 7 minutos; com degermante, o teto é de 5 minutos.",
+   "Errada: 20 a 30 segundos é a fricção alcoólica da assistência, não a antissepsia com degermante."
+  ]
+ },
+ {
+  "q": "Criança de 6 anos é admitida na enfermaria pediátrica com febre alta, vômitos, rigidez de nuca e petéquias em membros inferiores, com suspeita clínica de doença meningocócica. A punção lombar ainda não foi colhida. Qual precaução a enfermeira deve instituir neste momento?",
+  "alts": [
+   "Pressão negativa e respirador PFF2 para todos que entrarem no quarto.",
+   "Quarto individual, avental e luvas ao entrar, dispensando a máscara.",
+   "Quarto individual ou coorte e máscara cirúrgica ao entrar no quarto.",
+   "Enfermaria comum, com máscara cirúrgica só durante a aspiração.",
+   "Precaução padrão até a confirmação laboratorial do agente no líquor."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "CDC/HICPAC. Guideline for Isolation Precautions, 2007 (Transmission-Based Precautions, atualização 2024)",
+  "coment": "Doença meningocócica se transmite por gotículas, partículas maiores que a tosse e a fala projetam a curta distância. A precaução por gotículas, somada à padrão, pede quarto individual ou coorte de pacientes com o mesmo agente e máscara cirúrgica para quem entrar no espaço do paciente; no transporte, a máscara vai no paciente. Não exige pressão negativa nem respirador N95 ou PFF2, reservados aos aerossóis, como tuberculose, sarampo e varicela. As precauções por transmissão começam na suspeita clínica, sem aguardar o resultado do líquor, e a decisão de instituí-las cabe à enfermagem, com comunicação à equipe e à CCIH.",
+  "porAlt": [
+   "Errada: pressão negativa e respirador são medidas de aerossóis, não exigidas para meningococo.",
+   "Errada: avental e luvas sem máscara caracterizam contato e não bloqueiam gotículas.",
+   "Correta: meningococo pede precaução por gotículas, com quarto individual ou coorte e máscara cirúrgica.",
+   "Errada: o paciente em gotículas não fica em enfermaria comum, e a máscara é usada ao entrar.",
+   "Errada: a precaução por transmissão começa na suspeita clínica, sem esperar a confirmação."
+  ]
+ },
+ {
+  "q": "Homem de 34 anos é internado com varicela e pneumonite, em quarto privativo com pressão negativa. Na escala do plantão, a técnica designada para o quarto é gestante e não tem história de varicela nem registro de vacinação; há na equipe outra técnica com varicela prévia. Qual conduta a enfermeira deve adotar?",
+  "alts": [
+   "Aerossóis e contato, com a técnica imune escalada no lugar da suscetível.",
+   "Gotículas e contato, com a gestante entrando de máscara cirúrgica e avental.",
+   "Aerossóis, com a gestante entrando de respirador N95 bem ajustado à face.",
+   "Contato, com a gestante entrando de avental e luvas de procedimento.",
+   "Aerossóis e contato, com a gestante de N95, avental e luvas ao entrar."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "CDC/HICPAC. Guideline for Isolation Precautions, 2007 (Transmission-Based Precautions, atualização 2024)",
+  "coment": "A varicela soma precaução por aerossóis e por contato. Aerossóis: quarto com pressão negativa ou, na falta, privativo de porta fechada; respirador N95 ou PFF2 testado, colocado antes de entrar; e paciente com máscara cirúrgica no transporte. Contato: avental e luvas para qualquer interação com o paciente ou o ambiente. O guia de precauções do CDC/HICPAC (2007), reproduzido nos manuais da ANVISA, orienta que profissionais suscetíveis não entrem no quarto de sarampo ou varicela quando houver profissionais imunes disponíveis. Aqui há uma técnica imune na equipe, e a troca na escala protege a gestante suscetível, sem depender só do EPI.",
+  "porAlt": [
+   "Correta: varicela soma aerossóis e contato, e suscetíveis não entram se houver profissional imune.",
+   "Errada: varicela é transmitida por aerossóis, e a máscara cirúrgica não protege o profissional.",
+   "Errada: falta a precaução de contato, e a suscetível não deve entrar havendo profissional imune.",
+   "Errada: a varicela exige também aerossóis, com respirador colocado antes de entrar no quarto.",
+   "Errada: os EPIs estão certos, mas a suscetível não deve entrar se há profissional imune."
+  ]
+ },
+ {
+  "q": "Paciente de 71 anos, internado na clínica médica, tem cultura de vigilância positiva para Klebsiella pneumoniae produtora de carbapenemase e está em quarto individual. Um técnico entra apenas para trocar o frasco de soro e conferir a bomba de infusão, sem previsão de tocar o paciente. Segundo a precaução de contato, como ele deve proceder com o EPI?",
+  "alts": [
+   "Calçar luvas somente se houver contato com sangue ou secreções.",
+   "Vestir avental e luvas ao entrar, mesmo sem previsão de tocar o paciente.",
+   "Vestir avental e luvas, retirando-os no corredor após sair do quarto.",
+   "Vestir avental, luvas e máscara cirúrgica, obrigatórios na multirresistência.",
+   "Reutilizar o avental no plantão, trocando só as luvas a cada entrada."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "CDC/HICPAC. Guideline for Isolation Precautions, 2007; NR 32, item 32.2.4.6.2",
+  "coment": "A precaução de contato, indicada para multirresistentes, C. difficile, diarreia em paciente incontinente e escabiose, pede quarto individual ou coorte e avental e luvas para qualquer interação com o paciente ou com o ambiente dele. O EPI é vestido ao entrar no quarto e descartado antes de sair, porque bomba, suporte de soro e grades são superfícies contaminadas pelo paciente. Os equipamentos, como estetoscópio e esfigmomanômetro, são de uso exclusivo, e o transporte se limita ao necessário. A NR 32 proíbe deixar o local de trabalho com EPI usado. A máscara cirúrgica entra pela precaução padrão quando há risco de respingo, não pela multirresistência.",
+  "porAlt": [
+   "Errada: na precaução de contato, luvas e avental servem a qualquer interação com paciente ou ambiente.",
+   "Correta: avental e luvas são vestidos ao entrar, pois o ambiente do paciente também está contaminado.",
+   "Errada: o EPI é descartado antes de sair do quarto, e não levado ao corredor.",
+   "Errada: a máscara cirúrgica não é exigida pela precaução de contato, só por risco de respingo.",
+   "Errada: o avental é descartado antes de sair, a cada entrada, e não reutilizado no plantão."
+  ]
+ }
+]

@@ -13,7 +13,12 @@ RAIZ = os.path.dirname(os.path.abspath(__file__))
 
 def main():
     banco = []
+    # lotes ainda em escrita por redatores ficam de fora: um nome por linha em lotes-questoes/EM_ANDAMENTO.txt
+    pend = os.path.join(RAIZ, "lotes-questoes", "EM_ANDAMENTO.txt")
+    fora = set(open(pend, encoding="utf-8").read().split()) if os.path.exists(pend) else set()
     for arq in sorted(glob.glob(os.path.join(RAIZ, "lotes-questoes", "leva*.json"))):
+        if os.path.basename(arq) in fora:
+            print(f"  {os.path.basename(arq)}: em andamento, fora do banco"); continue
         leva = json.load(open(arq, encoding="utf-8"))
         print(f"  {os.path.basename(arq)}: {len(leva)} questões")
         banco.extend(leva)

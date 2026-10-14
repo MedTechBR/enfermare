@@ -1,0 +1,1002 @@
+[
+ {
+  "q": "Lactente de 4 meses, nascido a termo, comparece à UBS com a mãe. A caderneta registra BCG e hepatite B ao nascer, penta, VIP, rotavírus e VPC 20 aos 2 meses e meningocócica C aos 3 meses. Segundo o Calendário Nacional de Vacinação de 2026, quais vacinas devem ser aplicadas nesta visita?",
+  "alts": [
+   "Penta, VIP, rotavírus e VPC 20, todas como 2ª dose",
+   "Penta, VIP oral, rotavírus e VPC 10 como 2ª dose",
+   "Penta, VIP, rotavírus e VPC 10, todas como 2ª dose",
+   "Penta, VIP, meningocócica C e VPC 10 como 2ª dose",
+   "Hexavalente, VIP, rotavírus e VPC 10 como 2ª dose"
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "Aos 4 meses a agenda oportuna da IN 2026 prevê a 2ª dose de penta, VIP e rotavírus. Na pneumocócica, a IN está em fase de transição: a 1ª dose é feita com VPC 20 aos 2 meses, a 2ª dose com VPC 10 aos 4 meses e o reforço com VPC 20 aos 12 meses. Só na indisponibilidade da VPC 10 o serviço inicia ou completa o esquema com VPC 20. A poliomielite é toda com vacina inativada (3 doses e 2 reforços), a meningocócica C tem a 2ª dose aos 5 meses e a hexavalente não faz parte das 21 vacinas do calendário.",
+  "porAlt": [
+   "A 2ª dose pneumocócica, na fase de transição, é feita com VPC 10, e não com VPC 20.",
+   "A vacina oral contra poliomielite saiu do calendário de 2026; todas as doses são de VIP.",
+   "Correta: penta, VIP e rotavírus seguem na 2ª dose, e a pneumocócica usa VPC 10 na transição.",
+   "A 2ª dose de meningocócica C é aos 5 meses, não aos 4 meses de idade.",
+   "A hexavalente não integra as 21 vacinas do calendário; a rotina usa a penta."
+  ]
+ },
+ {
+  "q": "Menina de 15 meses chega à sala de vacina com a caderneta em dia até os 12 meses: recebeu VPC 20, meningocócica ACWY e tríplice viral nessa idade. A mãe pergunta quais vacinas a filha deve tomar agora. De acordo com a agenda oportuna do calendário de 2026, quais imunobiológicos estão indicados?",
+  "alts": [
+   "DTP, VIP, tríplice viral, varicela e hepatite A",
+   "Penta, VIP, tríplice viral, varicela e hepatite A",
+   "DTP, VOP, tríplice viral, varicela e hepatite A",
+   "DTP, VIP, tríplice viral, febre amarela e hepatite B",
+   "DTP, VIP, tríplice viral, varicela e meningo ACWY"
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "Aos 15 meses a IN 2026 reúne o 1º reforço contra difteria, tétano e coqueluche com DTP (não com penta), o 1º reforço de VIP, a 2ª dose de tríplice viral, a 1ª dose de varicela e a dose única de hepatite A. A IN recomenda que a 2ª dose de tríplice viral seja aplicada no mesmo dia da 1ª de varicela, em sítios distintos; sem varicela monovalente, usa-se a tetraviral. O reforço de febre amarela é aos 4 anos, a meningocócica ACWY já foi aplicada aos 12 meses e a hepatite B da criança foi completada com a penta.",
+  "porAlt": [
+   "Correta: DTP, VIP, segunda dose de tríplice viral, varicela e hepatite A compõem os 15 meses.",
+   "Os reforços dos 15 meses e dos 4 anos são feitos com DTP; a penta fica no esquema básico.",
+   "A VOP não está entre as vacinas do calendário de 2026; o reforço de poliomielite é com VIP.",
+   "Febre amarela tem reforço aos 4 anos, e a hepatite B já foi completada com a penta.",
+   "A meningocócica ACWY da criança é dose única aos 12 meses, já recebida por ela."
+  ]
+ },
+ {
+  "q": "Recém-nascido teve alta da maternidade sem a vacina hepatite B, por falta do imunobiológico. Aos 40 dias de vida, a mãe, com HBsAg negativo no pré-natal, leva a criança à UBS para a primeira consulta de puericultura. A BCG foi aplicada. Pela Instrução Normativa de 2026, qual é a conduta quanto à hepatite B?",
+  "alts": [
+   "Aplicar hoje a monovalente e seguir com a penta aos 2, 4 e 6 meses",
+   "Aplicar hoje a monovalente e repetir a dose com 6 meses de vida completos",
+   "Solicitar anti-HBs antes de decidir sobre a dose monovalente do nascimento",
+   "Aplicar a monovalente junto com a BCG, pois ambas valem até 30 dias",
+   "Não aplicar a dose monovalente; iniciar hepatite B com a penta aos 2 meses"
+  ],
+  "gab": 4,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A IN 2026 recomenda a dose de hepatite B logo após o nascimento, na sala de parto ou nas primeiras 12 horas, e diz que essa dose somente será administrada até 1 mês de vida. A criança que perdeu esse prazo não recebe mais a dose do nascimento: o esquema contra hepatite B começa com a penta (DTP+HB+Hib) aos 2, 4 e 6 meses. Com 40 dias, o prazo passou. Sorologia não é rotina nesse caso; ela é indicada para filhos de mãe HBsAg positiva, entre 30 e 60 dias após a última dose do esquema.",
+  "porAlt": [
+   "A dose monovalente do nascimento vale só até 1 mês de vida; aos 40 dias não se aplica mais.",
+   "Além de fora do prazo, não existe dose monovalente de repetição aos 6 meses na rotina.",
+   "Anti-HBs não é conduta de rotina para filho de mãe HBsAg negativa antes de vacinar.",
+   "A hepatite B do nascimento tem prazo de 1 mês; a BCG é que pode ser feita até os 4 anos.",
+   "Correta: passado 1 mês de vida, a proteção começa com a penta aos 2, 4 e 6 meses."
+  ]
+ },
+ {
+  "q": "Criança de 7 meses chega à UBS para atualizar a caderneta. Recebeu a 1ª dose de penta aos 4 meses e a 2ª aos 6 meses de idade, por atraso da família. Não há outras doses de penta. Segundo a Instrução Normativa de 2026, quando deve ser aplicada a 3ª dose da vacina penta?",
+  "alts": [
+   "Hoje, pois a criança já passou dos 6 meses de idade",
+   "Aos 8 meses, 60 dias após a 2ª dose e 4 meses após a 1ª",
+   "Aos 12 meses, junto com a VPC 20 e a meningocócica ACWY",
+   "Aos 15 meses, trocando a 3ª dose pelo reforço com a DTP",
+   "Reiniciar o esquema, pois os intervalos foram irregulares"
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "Na atualização da penta em atraso, a IN 2026 pede intervalo de 60 dias entre as doses (mínimo de 30 dias só em situação excepcional), exige pelo menos 4 meses entre a 1ª e a 3ª dose, por causa do componente hepatite B, e proíbe a 3ª dose antes dos 6 meses de idade. A 1ª dose foi aos 4 meses e a 2ª aos 6: a 3ª fica para os 8 meses, data que cumpre os 60 dias após a 2ª e os 4 meses após a 1ª. Hoje, aos 7 meses, só se passaram 3 meses desde a 1ª dose. Dose comprovada não é repetida, e o esquema nunca é reiniciado por atraso.",
+  "porAlt": [
+   "Aos 7 meses só se passaram 3 meses da 1ª dose; a IN exige 4 meses entre a 1ª e a 3ª.",
+   "Correta: aos 8 meses ficam cumpridos os 60 dias da 2ª dose e os 4 meses desde a 1ª.",
+   "Não há motivo para adiar até 12 meses; isso deixaria a criança desprotegida sem necessidade.",
+   "O reforço com DTP só começa depois do esquema básico completo de 3 doses de penta.",
+   "Esquema atrasado não se reinicia; contam-se as doses comprovadas e completa-se a partir delas."
+  ]
+ },
+ {
+  "q": "Menino de 7 anos e 2 meses, recém-chegado de outro país com a família, comparece à UBS sem nenhum comprovante de vacinação. A mãe relata que ele \"tomou todas as vacinas\", mas não tem cartão. Para proteção contra difteria, tétano, coqueluche e hepatite B, qual é a conduta pela IN do calendário de 2026?",
+  "alts": [
+   "Iniciar penta em 3 doses com 60 dias, seguida de 2 reforços com DTP",
+   "Aplicar DTP em 3 doses e hepatite B monovalente no esquema 0, 1 e 6",
+   "Aplicar dTpa em dose única e solicitar anti-HBs antes de vacinar",
+   "Iniciar dT em 3 doses e hepatite B monovalente em esquema 0, 1 e 6 meses",
+   "Iniciar dT em 3 doses e hepatite B em 2 doses com 6 meses de intervalo"
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "Dose relatada sem registro não é dose comprovada, e a criança deve ser tratada como não vacinada. A partir de 7 anos, penta e DTP são contraindicadas; a IN 2026 manda atualizar com dupla adulto (dT) e hepatite B monovalente. A dT é feita em 3 doses com 60 dias de intervalo (mínimo de 30 em exceção), seguida de reforço a cada 10 anos. A hepatite B monovalente a partir de 7 anos segue o esquema 0, 1 e 6 meses, sem reiniciar se houver doses anteriores comprovadas. A dTpa é reservada a gestantes, puérperas e trabalhadores de saúde.",
+  "porAlt": [
+   "A penta é contraindicada a partir de 7 anos de idade, conforme a IN de 2026.",
+   "A DTP também é contraindicada a partir de 7 anos; nessa idade usa-se a dT.",
+   "A dTpa da rotina é para gestante, puérpera e trabalhador de saúde, não para esta criança.",
+   "Correta: sem comprovação, a partir de 7 anos aplica-se dT em 3 doses e hepatite B 0, 1 e 6.",
+   "O esquema de hepatite B monovalente tem 3 doses (0, 1 e 6 meses), e não duas."
+  ]
+ },
+ {
+  "q": "Criança de 6 anos e 8 meses tem na caderneta as 3 doses de penta, aplicadas no primeiro ano de vida, e nenhum reforço contra difteria, tétano e coqueluche. A enfermeira avalia o cartão na UBS. Conforme a Instrução Normativa de 2026, qual é a conduta correta?",
+  "alts": [
+   "Aplicar hoje o 1º reforço com DTP e agendar dT para 10 anos depois",
+   "Aplicar hoje o 1º reforço com DTP e o 2º reforço aos 7 anos com DTP",
+   "Aplicar hoje a dT, já que a DTP não é mais indicada acima de 6 anos",
+   "Aplicar hoje o 1º reforço com penta e o 2º com DTP em 6 meses",
+   "Aplicar os 2 reforços com DTP hoje, em sítios anatômicos diferentes"
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A DTP pode ser usada nos reforços até 6 anos, 11 meses e 29 dias, com 6 meses após a 3ª penta e 6 meses entre os dois reforços. A IN 2026 orienta que a criança de 6 anos sem reforços receba o 1º reforço o mais breve possível, antes dos 7 anos. Se não houver tempo de fazer o 2º reforço antes dos 7 anos, respeitando os 6 meses, agenda-se 1 dose de dT para 10 anos após esse 1º reforço, e a criança fica liberada do 2º reforço com DTP. Com 6 anos e 8 meses, o 2º reforço cairia depois dos 7 anos, quando a DTP já é contraindicada.",
+  "porAlt": [
+   "Correta: faz-se o 1º reforço com DTP antes dos 7 anos e a dT fica para 10 anos depois.",
+   "A DTP é contraindicada a partir de 7 anos; o 2º reforço não pode ser feito com ela.",
+   "Aos 6 anos e 8 meses a DTP ainda é indicada; a dT só entra a partir dos 7 anos.",
+   "Os reforços contra difteria, tétano e coqueluche usam DTP, e não a vacina penta.",
+   "Os reforços exigem 6 meses de intervalo entre si; não se aplicam os dois no mesmo dia."
+  ]
+ },
+ {
+  "q": "Lactente de 11 meses e 10 dias, saudável, chega à UBS para atualização vacinal. A caderneta mostra todas as doses do calendário, exceto a vacina rotavírus humano, que nunca foi aplicada por falta de vacina no município. Segundo o Quadro 1 da IN de 2026, qual é a conduta?",
+  "alts": [
+   "Não aplicar, pois a 1ª dose só é aceita até 7 meses e 29 dias",
+   "Aplicar dose única hoje, já que não haverá tempo para a 2ª dose",
+   "Não aplicar, pois a 2ª dose não pode ser dada após 11 meses e 29 dias",
+   "Aplicar a 1ª dose hoje e a 2ª após 60 dias, antes dos 24 meses",
+   "Aplicar a 1ª dose hoje e a 2ª após 30 dias, como intervalo padrão"
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "O Quadro 1 da IN 2026 fixa os limites da vacina rotavírus humano G1P[8]: 1ª dose de 1 mês e 15 dias até 11 meses e 29 dias; 2ª dose de 3 meses e 15 dias até 23 meses e 29 dias, com 60 dias entre elas (mínimo de 30 em situação excepcional). Com 11 meses e 10 dias, a criança ainda está na janela da 1ª dose, e a 2ª, 60 dias depois, cai bem antes de 23 meses e 29 dias. Se a 1ª dose não for feita dentro da janela, a criança perde as duas doses. Limites antigos, como 7 meses e 29 dias, não valem mais.",
+  "porAlt": [
+   "O limite de 7 meses e 29 dias é antigo; a IN de 2026 aceita a 1ª dose até 11 meses e 29 dias.",
+   "O esquema é de 2 doses, e há tempo para a 2ª até 23 meses e 29 dias de idade.",
+   "O limite de 11 meses e 29 dias vale para a 1ª dose; a 2ª vai até 23 meses e 29 dias.",
+   "Correta: a 1ª dose está na janela e a 2ª, com 60 dias, fica antes de 23 meses e 29 dias.",
+   "O intervalo padrão é de 60 dias; 30 dias é o mínimo reservado a situações excepcionais."
+  ]
+ },
+ {
+  "q": "Durante a campanha anual, a mãe de um menino de 3 anos procura a UBS para vaciná-lo contra a gripe. Ele nunca recebeu vacina influenza, é saudável e está com as demais vacinas em dia. Segundo a Instrução Normativa do calendário de 2026, qual é o esquema indicado nesta temporada?",
+  "alts": [
+   "Dose única de 0,5 mL, repetida apenas na próxima temporada",
+   "2 doses de 0,25 mL com intervalo de 30 dias entre elas",
+   "2 doses de 0,5 mL com intervalo de 60 dias entre elas",
+   "Dose única de 0,25 mL, pois ele ainda tem menos de 9 anos",
+   "2 doses de 0,5 mL com intervalo de 30 dias entre elas"
+  ],
+  "gab": 4,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A influenza trivalente é rotina de 6 meses até 5 anos, 11 meses e 29 dias. Na primovacinação da criança, a IN 2026 recomenda 2 doses com 30 dias de intervalo; quem já recebeu ao menos 1 dose em anos anteriores faz dose única nos anos seguintes. O volume depende da idade: 0,25 mL de 6 meses a 2 anos e 0,5 mL a partir de 3 anos. Assim, o menino de 3 anos, nunca vacinado, recebe 2 doses de 0,5 mL com 30 dias entre elas, por via IM ou SC.",
+  "porAlt": [
+   "Na primeira vez que a criança recebe influenza, o esquema tem 2 doses, e não dose única.",
+   "O volume de 0,25 mL é de 6 meses a 2 anos; aos 3 anos a dose é de 0,5 mL.",
+   "O intervalo da primovacinação contra influenza é de 30 dias, não de 60 dias.",
+   "Primovacinação exige 2 doses, e o volume de 0,25 mL não vale para 3 anos.",
+   "Correta: criança de 3 anos nunca vacinada recebe 2 doses de 0,5 mL com 30 dias de intervalo."
+  ]
+ },
+ {
+  "q": "Menina de 2 anos, saudável, tem registro de apenas 1 dose de vacina covid-19 (Comirnaty) aplicada aos 6 meses. A família deixou de comparecer às doses seguintes. Na UBS, a enfermeira avalia o cartão. De acordo com a IN do calendário de 2026, qual é a conduta?",
+  "alts": [
+   "Aplicar a 2ª dose hoje e a 3ª dose pelo menos 8 semanas depois",
+   "Reiniciar o esquema de 3 doses, pois o intervalo foi ultrapassado",
+   "Aplicar a 2ª dose hoje e a 3ª dose pelo menos 4 semanas depois",
+   "Não aplicar, pois o esquema infantil só vale até os 9 meses de idade",
+   "Aplicar dose única anual, por ser criança saudável acima de 1 ano"
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "O esquema básico da covid-19 com Comirnaty é de 3 doses, aos 6, 7 e 9 meses. A IN 2026 diz que a criança que não iniciou ou não completou o esquema até 9 meses pode recebê-lo até 4 anos, 11 meses e 29 dias, conforme o histórico, respeitando o intervalo mínimo de 4 semanas entre a 1ª e a 2ª dose e de 8 semanas entre a 2ª e a 3ª. Doses comprovadas não se repetem. Doses periódicas não são recomendadas para a criança saudável completamente vacinada; elas ficam para imunocomprometidos, comorbidade, indígenas, quilombolas e ribeirinhos.",
+  "porAlt": [
+   "Correta: completa-se o esquema com a 2ª dose hoje e a 3ª após no mínimo 8 semanas.",
+   "Atraso não reinicia o esquema; a dose comprovada aos 6 meses continua válida.",
+   "Entre a 2ª e a 3ª dose o intervalo mínimo é de 8 semanas; 4 semanas vale entre a 1ª e a 2ª.",
+   "O esquema pode ser completado até 4 anos, 11 meses e 29 dias, e não só até 9 meses.",
+   "Dose anual não é rotina para criança saudável; ela é para grupos como comorbidade e indígenas."
+  ]
+ },
+ {
+  "q": "Criança de 3 anos e 2 meses completou há 2 meses, em atualização tardia, a 3ª dose de vacina poliomielite inativada (VIP). Não recebeu nenhum reforço. A mãe pergunta quando voltar. Segundo a IN do calendário de 2026, como devem ser programados os reforços?",
+  "alts": [
+   "1º reforço hoje, pois já passou da idade dos 15 meses, e 2º aos 4 anos",
+   "Nenhum reforço, pois as 3 doses tardias já completam o esquema",
+   "1º reforço 6 meses após a 3ª dose e 2º reforço 6 meses após o 1º",
+   "1º reforço com VOP aos 4 anos e nenhum outro reforço depois",
+   "1º reforço 30 dias após a 3ª dose e 2º reforço 30 dias após o 1º"
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A VIP tem 3 doses (2, 4 e 6 meses) e 2 reforços (15 meses e 4 anos), todos com vacina inativada. Para a criança em atraso, a IN 2026 manda completar o esquema básico com 60 dias entre doses e, em seguida, aplicar o 1º reforço com intervalo mínimo de 6 meses após a 3ª dose e o 2º reforço com intervalo mínimo de 6 meses após o 1º (Nota Técnica 64/2026). A vacina pode ser feita até 4 anos, 11 meses e 29 dias. Aqui, o 1º reforço cai aos 3 anos e 6 meses e o 2º aos 4 anos, dentro do limite.",
+  "porAlt": [
+   "O 1º reforço exige 6 meses após a 3ª dose; só se passaram 2 meses desde ela.",
+   "Os 2 reforços continuam indicados mesmo quando o esquema básico foi feito com atraso.",
+   "Correta: a IN pede 6 meses entre a 3ª dose e o 1º reforço e 6 meses entre os reforços.",
+   "A VOP não faz parte do calendário de 2026; todos os reforços são feitos com VIP.",
+   "O intervalo de 30 dias é mínimo do esquema básico; os reforços exigem 6 meses."
+  ]
+ },
+ {
+  "q": "Menina de 13 anos vem à UBS com a mãe para atualizar a caderneta. Há registro de 1 dose de vacina HPV4 aplicada aos 10 anos, na escola. A mãe ouviu de uma vizinha que \"a vacina do HPV tem duas doses\" e pede a segunda. Pela IN do calendário de 2026, qual é a conduta?",
+  "alts": [
+   "Aplicar a 2ª dose hoje, pois já passaram 6 meses da 1ª",
+   "Nenhuma dose adicional, pois o esquema da rotina é dose única",
+   "Aplicar mais 2 doses, com intervalo de 2 e 6 meses da 1ª dose",
+   "Aplicar a 2ª dose somente aos 15 anos, na estratégia de resgate",
+   "Reiniciar com 2 doses, já que a 1ª foi antes dos 11 anos"
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "Na IN 2026 o esquema básico da HPV4 é de 1 dose para meninas e meninos, aos 9 anos, com janela de 9 a 14 anos, 11 meses e 29 dias. A menina recebeu essa dose aos 10 anos e está vacinada. O esquema de 2 doses que muitas provas antigas cobram não é mais rotina; ele aparece apenas na estratégia especial, como em vítimas de abuso sexual de 9 a 14 anos (0 e 6 meses). Três doses (0, 2 e 6 meses) ficam para imunodeprimidos, usuários de PrEP e outros grupos prioritários com prescrição. O resgate de 15 a 19 anos é para quem não tem nenhuma dose.",
+  "porAlt": [
+   "O esquema de 2 doses deixou de ser rotina; a HPV4 do calendário é dose única.",
+   "Correta: a dose única aplicada aos 10 anos, dentro da janela de 9 a 14 anos, completa o esquema.",
+   "Três doses são da estratégia especial, como imunodeprimidos, e exigem prescrição.",
+   "O resgate de 15 a 19 anos é dose única para quem não tem nenhuma dose de HPV.",
+   "Dose aplicada entre 9 e 14 anos é válida; não há reinício por idade na aplicação."
+  ]
+ },
+ {
+  "q": "Adolescente de 12 anos, sem comorbidades, teve dengue confirmada laboratorialmente há 2 meses e já está recuperada. A mãe a leva à UBS para receber a vacina dengue ofertada na rotina. Não há outra contraindicação. Pela Instrução Normativa do calendário de 2026, qual é a conduta?",
+  "alts": [
+   "Aplicar a 1ª dose hoje e a 2ª após 3 meses, pois a fase aguda passou",
+   "Aguardar 30 dias da recuperação e aplicar 2 doses com 30 dias de intervalo",
+   "Não vacinar, pois quem já teve dengue fica fora da estratégia vacinal",
+   "Aguardar 6 meses da infecção e então aplicar 2 doses com 3 meses de intervalo",
+   "Aguardar 6 meses da infecção e aplicar dose única por via intramuscular"
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A vacina dengue (atenuada) é rotina de 10 anos a 14 anos, 11 meses e 29 dias, em 2 doses com 3 meses de intervalo, exclusivamente por via subcutânea. A IN 2026 recomenda aguardar 6 meses após a infecção pelo vírus da dengue para iniciar o esquema. Se a dengue ocorrer depois da 1ª dose, o intervalo entre as doses não muda, desde que a 2ª não seja feita antes de 30 dias do início da doença, e o esquema não é reiniciado. O prazo de 30 dias após a fase aguda vale para quem teve febre amarela, chikungunya ou zika, e não para a própria dengue.",
+  "porAlt": [
+   "Após dengue, a IN pede 6 meses de espera para iniciar o esquema, e não apenas o fim da fase aguda.",
+   "Os 30 dias após recuperação valem para febre amarela, chikungunya ou zika, e o intervalo é de 3 meses.",
+   "Dengue prévia não exclui a adolescente; apenas adia o início do esquema por 6 meses.",
+   "Correta: espera-se 6 meses da infecção e aplicam-se 2 doses com 3 meses de intervalo.",
+   "O esquema é de 2 doses, e a vacina é exclusivamente subcutânea, nunca intramuscular."
+  ]
+ },
+ {
+  "q": "Adolescente de 14 anos comparece à UBS para atualização. A caderneta mostra esquema infantil completo, com o 2º reforço de DTP aos 4 anos e a meningocócica ACWY aos 12 meses, além de HPV4 aos 9 anos e 2 doses de dengue aos 11 anos. Não há meningocócica na adolescência. Quais vacinas aplicar hoje?",
+  "alts": [
+   "dT como reforço e meningocócica ACWY como dose da adolescência",
+   "dTpa como reforço e meningocócica C como dose da adolescência",
+   "dT como reforço e nova dose de HPV4 para completar 2 doses",
+   "Apenas a dT, pois a meningocócica ACWY dos 12 meses já basta",
+   "Meningocócica ACWY agora e dT somente aos 19 anos de idade"
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A IN 2026 prevê reforço com dT aos 14 anos, 10 anos após o 2º reforço de DTP feito aos 4 anos, e depois a cada 10 anos. A meningocócica ACWY do adolescente é 1 dose aos 11 anos, como dose ou reforço conforme o histórico, com janela até 14 anos, 11 meses e 29 dias. Como ele tem 14 anos e não recebeu a dose da adolescência, ainda está na janela e deve ser vacinado hoje. A dose de ACWY dos 12 meses não substitui a do adolescente. A HPV4 é dose única e a dTpa é reservada a gestantes, puérperas e trabalhadores de saúde.",
+  "porAlt": [
+   "Correta: aos 14 anos cabem a dT, 10 anos após a DTP dos 4 anos, e a ACWY da adolescência.",
+   "O reforço da rotina é com dT, e a vacina do adolescente é a ACWY, não a meningocócica C.",
+   "A HPV4 da rotina é dose única; a dose dos 9 anos já completou o esquema.",
+   "A dose de ACWY dos 12 meses não dispensa a dose prevista dos 11 aos 14 anos.",
+   "O reforço de dT é aos 14 anos, 10 anos após o 2º reforço de DTP aos 4 anos."
+  ]
+ },
+ {
+  "q": "Mulher de 34 anos, não gestante, procura a UBS porque planeja engravidar no próximo ano. Não possui comprovante de vacina tríplice viral e não se lembra de ter tido sarampo ou rubéola. Não tem imunodepressão nem alergias. Pela IN do calendário de 2026, qual é a orientação correta?",
+  "alts": [
+   "Aplicar 2 doses de tríplice viral com 30 dias de intervalo",
+   "Solicitar sorologia para rubéola antes de qualquer dose da vacina",
+   "Aplicar 1 dose de tríplice viral e evitar gravidez por 1 mês",
+   "Não vacinar, pois a tríplice viral é rotina só até os 29 anos",
+   "Aplicar 1 dose e evitar gravidez por 3 meses após a vacinação"
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A tríplice viral está disponível no SUS de 12 meses a 59 anos. Pela IN 2026, de 12 meses a 29 anos sem comprovação, o esquema é de 2 doses com 30 dias de intervalo; de 30 a 59 anos sem comprovação, aplica-se 1 dose, e considera-se vacinada quem comprova 1 dose. Por ser vacina atenuada, a IN orienta mulheres em idade fértil a evitar gravidez por pelo menos 1 mês após a vacinação. A avaliação pré-concepcional é o momento ideal, porque a tríplice viral é contraindicada na gestação. Sorologia prévia não é exigida pela IN.",
+  "porAlt": [
+   "Duas doses são para quem tem de 12 meses a 29 anos; aos 34 anos o esquema é de 1 dose.",
+   "A IN não condiciona a vacinação a sorologia prévia; sem comprovante, vacina-se.",
+   "Correta: de 30 a 59 anos sem comprovação faz-se 1 dose, evitando gravidez por 1 mês.",
+   "A tríplice viral é ofertada até 59 anos; de 30 a 59 anos o esquema é de 1 dose.",
+   "O prazo para evitar gravidez após tríplice viral na IN é de pelo menos 1 mês."
+  ]
+ },
+ {
+  "q": "Homem de 28 anos vai trabalhar em área rural com circulação confirmada do vírus da febre amarela. O cartão mostra 1 dose da vacina febre amarela aos 3 anos de idade e nenhuma outra. Ele não tem contraindicações. Segundo o Quadro 2 da IN do calendário de 2026, qual é a conduta?",
+  "alts": [
+   "Considerar vacinado, pois 1 dose na vida protege por toda a vida",
+   "Aplicar 2 doses com 30 dias de intervalo, reiniciando o esquema",
+   "Aplicar dose fracionada, suficiente para quem já tem 1 dose antiga",
+   "Não vacinar, pois a vacina só é indicada até os 4 anos de idade",
+   "Aplicar 1 dose de reforço, com intervalo mínimo de 30 dias da anterior"
+  ],
+  "gab": 4,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "O Quadro 2 da IN 2026 separa as pessoas de 5 a 59 anos pelo momento da dose anterior: 2 doses antes dos 5 anos ou 1 dose recebida a partir dos 5 anos completam o esquema; quem recebeu apenas 1 dose antes dos 5 anos precisa de 1 dose de reforço, com intervalo mínimo de 30 dias. A dose dele foi aos 3 anos, então falta o reforço. Para quem vai a área com circulação confirmada, a vacina deve ser feita pelo menos 10 dias antes da viagem, tempo da soroconversão. Quem recebeu só dose fracionada em 2018 também recebe 1 dose padrão.",
+  "porAlt": [
+   "Dose única só completa o esquema se recebida a partir dos 5 anos; a dele foi aos 3 anos.",
+   "Dose anterior comprovada não se repete; falta apenas 1 dose de reforço.",
+   "Dose fracionada foi estratégia de 2018; hoje a recomendação é dose padrão de 0,5 mL.",
+   "A vacina febre amarela é ofertada de 9 meses até 59 anos, e não só até os 4 anos.",
+   "Correta: com 1 dose antes dos 5 anos, aplica-se 1 reforço, com 30 dias de intervalo mínimo."
+  ]
+ },
+ {
+  "q": "Senhora de 72 anos, moradora de instituição de longa permanência, tem registro de 1 dose de vacina pneumocócica polissacarídica 23-valente (VPP 23) aplicada há 8 meses. A enfermeira da instituição organiza a vacinação dos residentes com VPC 20. Pela IN de 2026, qual é a conduta para essa idosa?",
+  "alts": [
+   "Aplicar 1 dose de VPC 20 após completar 1 ano da VPP 23",
+   "Aplicar hoje a VPC 20, sem intervalo mínimo com a VPP 23",
+   "Aplicar 1 dose de VPC 20 após completar 2 meses da VPP 23",
+   "Considerar vacinada, pois 1 dose de VPP 23 basta para a idade",
+   "Aplicar 2 doses de VPC 20 com 60 dias de intervalo entre elas"
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "ger",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A VPC 20 é ofertada a idosos de 60 a 84 anos acamados ou institucionalizados e a todos a partir de 85 anos. Para quem já tem vacina pneumocócica, a IN 2026 traz a regra de transição: 2 doses de VPP 23, ou 1 de VPC 13 ou VPC 15 mais 1 de VPP 23, ou 1 de VPC 20 significam vacinado; 1 dose de VPP 23 pede 1 dose de VPC 20 com intervalo mínimo de 1 ano; 1 dose de VPC 13 ou VPC 15 pede VPC 20 com intervalo mínimo de 2 meses; sem histórico, dose única de VPC 20. Com VPP 23 há 8 meses, ela recebe a VPC 20 dentro de 4 meses.",
+  "porAlt": [
+   "Correta: com 1 dose de VPP 23, a VPC 20 exige intervalo mínimo de 1 ano entre as doses.",
+   "A IN fixa intervalo mínimo de 1 ano entre a VPP 23 e a VPC 20 nesse histórico.",
+   "O intervalo de 2 meses vale para quem recebeu VPC 13 ou VPC 15, não VPP 23.",
+   "Uma dose de VPP 23 não completa o esquema; só 2 doses de VPP 23 dispensam a VPC 20.",
+   "No idoso a VPC 20 é dose única; não há esquema de 2 doses para esse grupo."
+  ]
+ },
+ {
+  "q": "Gestante de 24 semanas, na primeira consulta de pré-natal, apresenta cartão com uma única dose de dT aplicada há 5 anos. Não recebeu outras vacinas com toxoide diftérico e tetânico. Segundo a IN do calendário de 2026, como atualizar o esquema contra difteria, tétano e coqueluche?",
+  "alts": [
+   "dTpa hoje e mais 2 doses de dT, com 60 dias entre as doses",
+   "dTpa hoje e 1 dose de dT 60 dias depois, ainda na gestação",
+   "Apenas 1 dose de dTpa, pois o esquema anterior já está completo",
+   "dT hoje e reforço com dT após o parto, sem uso de dTpa",
+   "dTpa hoje e 1 dose de dT no puerpério, até 6 meses após o parto"
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "Com histórico de 1 dose de vacina com toxoides, a IN 2026 completa o esquema com mais 2 doses, 1 de dT e 1 de dTpa a partir da 20ª semana, com 60 dias entre elas (30 em exceção). Quando a gestante chega com 20 semanas ou mais, a IN recomenda dar a dTpa primeiro e completar com dT ainda na gestação; não sendo possível, agenda-se para o puerpério até 45 dias. Assim, com 24 semanas, ela recebe dTpa hoje e dT 60 dias depois, por volta de 32 a 33 semanas. Três doses são para quem não tem nenhuma dose anterior.",
+  "porAlt": [
+   "Duas doses de dT mais dTpa são para gestante sem nenhuma dose anterior; ela já tem 1.",
+   "Correta: com 1 dose prévia, aplica-se dTpa agora e completa-se com dT 60 dias depois.",
+   "Uma dose de dT não completa o esquema básico, que exige 3 doses com toxoides.",
+   "A gestante a partir de 20 semanas deve receber dTpa, que protege o bebê contra coqueluche.",
+   "O puerpério só é usado se não der tempo, e o prazo é de até 45 dias após o parto."
+  ]
+ },
+ {
+  "q": "Gestante de 16 semanas, técnica de enfermagem, recebeu dose da vacina covid-19 há 4 meses, antes de saber da gravidez, na estratégia para trabalhadores da saúde. Ela pergunta se deve receber a dose prevista para a gestação. Pela IN do calendário de 2026, qual é a orientação?",
+  "alts": [
+   "Aplicar hoje, pois a dose da gestação não exige intervalo mínimo",
+   "Não aplicar, pois a dose dos 4 meses já cobre esta gestação",
+   "Aplicar somente a partir da 28ª semana, junto com a vacina VSR",
+   "Aplicar 1 dose quando completar 6 meses da última, ainda na gestação",
+   "Adiar para o puerpério, até 45 dias, pois covid não se faz na gestação"
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A IN 2026 recomenda à gestante 1 dose de vacina covid-19 durante cada gestação, em qualquer idade gestacional, desde que tenham transcorrido no mínimo 6 meses desde a última dose. A dose recebida há 4 meses, antes da gravidez, não substitui a dose da gestação, mas impõe o intervalo: ela deve ser vacinada quando completar 6 meses da dose anterior, por volta de 24 semanas. A vacina pode ser aplicada no mesmo dia que dTpa, influenza e VSR, em sítios diferentes. A 28ª semana é marco da VSR, e não da covid-19.",
+  "porAlt": [
+   "A IN exige intervalo mínimo de 6 meses desde a última dose de covid-19.",
+   "A dose anterior foi antes da gravidez; a IN prevê 1 dose em cada gestação.",
+   "A covid-19 pode ser feita em qualquer idade gestacional; a 28ª semana é marco da VSR.",
+   "Correta: respeitam-se 6 meses da última dose e vacina-se ainda durante a gestação.",
+   "A covid-19 é indicada na gestação; o puerpério não é a regra para essa vacina."
+  ]
+ },
+ {
+  "q": "Puérpera de 30 dias, parto vaginal a termo, comparece à UBS com o recém-nascido. Não recebeu dTpa nem influenza durante a gestação, por ter faltado às consultas. Tem 3 doses de dT no passado, a última há 6 anos. Pela IN do calendário de 2026, o que está indicado para ela hoje?",
+  "alts": [
+   "Somente influenza, pois a dTpa só tem efeito se feita na gestação",
+   "dT e influenza hoje, pois a dTpa é exclusiva para gestantes",
+   "dTpa e influenza hoje, pois ainda está nos 45 dias do puerpério",
+   "Nenhuma vacina, pois o prazo do puerpério para ambas é de 30 dias",
+   "dTpa hoje e influenza apenas numa próxima gestação, se ocorrer"
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A IN 2026 inclui a puérpera até 45 dias pós-parto no grupo da dTpa quando a vacina não foi administrada na gestação: a vacinação protege a mãe e reduz o risco de coqueluche no recém-nascido. A influenza segue a mesma lógica: a cada gestação 1 dose por temporada e, se não foi possível vacinar na gravidez, aplica-se no pós-parto até 45 dias. Com 30 dias de puerpério, ela está dentro do prazo para as duas vacinas, que podem ser aplicadas no mesmo dia, em sítios diferentes.",
+  "porAlt": [
+   "A dTpa é indicada à puérpera até 45 dias se não foi aplicada durante a gestação.",
+   "A dTpa está prevista para a puérpera não vacinada na gestação; a dT não protege contra coqueluche.",
+   "Correta: dTpa e influenza são indicadas à puérpera não vacinada, até 45 dias após o parto.",
+   "O prazo do puerpério para dTpa e influenza na IN é de 45 dias, não de 30 dias.",
+   "A influenza também é indicada à puérpera até 45 dias, se não foi vacinada na gestação."
+  ]
+ },
+ {
+  "q": "Técnica de enfermagem de 40 anos é admitida em UTI neonatal. O cartão mostra 3 doses de dT na juventude e um reforço com dT há 3 anos. Ela nunca teve varicela nem recebeu essa vacina. Quanto à proteção contra coqueluche e varicela, qual é a conduta pela IN do calendário de 2026?",
+  "alts": [
+   "Nenhuma dTpa até completar 10 anos da dT; varicela em 2 doses",
+   "1 dose de dTpa agora e varicela em dose única, pela idade adulta",
+   "1 dose de dTpa agora e 2 doses de varicela com 3 meses de intervalo",
+   "Apenas dT de reforço em 7 anos; varicela é contraindicada após 13 anos",
+   "1 dose de dTpa agora e 2 doses de varicela com 8 semanas de intervalo"
+  ],
+  "gab": 4,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "Profissionais de saúde de qualquer área recebem dTpa. Pela IN 2026, com esquema básico completo, aplica-se 1 dose de dTpa mesmo que a última dose com toxoides tenha sido há menos de 10 anos, respeitando o intervalo entre doses, e os reforços seguintes são com dTpa a cada 10 anos (5 em exposição). Para varicela, o trabalhador de saúde sem história da doença ou na dúvida recebe 2 doses, independentemente da idade, com intervalo de 8 semanas (mínimo de 4 em exceção). O intervalo de 3 meses entre as doses de varicela é o das crianças de 1 a 12 anos.",
+  "porAlt": [
+   "A IN manda aplicar a dTpa ao profissional de saúde mesmo com dT há menos de 10 anos.",
+   "A varicela no adulto suscetível é feita em 2 doses, pois 1 dose dá soroconversão menor.",
+   "O intervalo de 3 meses é para crianças de 1 a 12 anos; acima de 13 anos são 8 semanas.",
+   "Varicela é indicada ao trabalhador de saúde suscetível em qualquer idade, com 2 doses.",
+   "Correta: dTpa agora, apesar da dT recente, e 2 doses de varicela com 8 semanas de intervalo."
+  ]
+ },
+ {
+  "q": "Criança de 12 meses chega à UBS para as vacinas da idade. Não recebeu a febre amarela aos 9 meses porque estava com doença febril. Hoje está bem, e o município não vive emergência epidemiológica. A enfermeira planeja VPC 20, meningocócica ACWY, tríplice viral e febre amarela. Pela IN de 2026, qual é a conduta?",
+  "alts": [
+   "Aplicar as quatro vacinas hoje, em sítios anatômicos diferentes",
+   "Aplicar tríplice viral hoje e febre amarela 30 dias depois, ou vice-versa",
+   "Aplicar febre amarela hoje e tríplice viral só aos 15 meses de idade",
+   "Aplicar tríplice viral hoje e febre amarela somente aos 4 anos de idade",
+   "Aplicar tríplice viral hoje e febre amarela 15 dias depois, como rotina"
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "O Quadro 5 da IN 2026 não recomenda aplicar febre amarela no mesmo dia que tríplice viral ou tetraviral em menores de 2 anos: observa-se intervalo de 30 dias entre elas, com mínimo de 15 dias só em situação excepcional. Em emergência epidemiológica com circulação dos dois vírus, as vacinas podem ser feitas juntas. A partir de 2 anos, podem ser simultâneas ou com 30 dias. VPC 20 e meningocócica ACWY são inativadas e entram no mesmo dia. A febre amarela em atraso continua indicada, com reforço aos 4 anos.",
+  "porAlt": [
+   "Em menor de 2 anos, fora de emergência, febre amarela e tríplice viral não são aplicadas juntas.",
+   "Correta: em menor de 2 anos, separa-se febre amarela da tríplice viral por 30 dias.",
+   "A tríplice viral não precisa esperar os 15 meses; a 1ª dose é aos 12 meses.",
+   "A dose dos 9 meses perdida é recuperada; o reforço dos 4 anos não substitui a dose básica.",
+   "O intervalo de 15 dias é mínimo de exceção; a rotina pede 30 dias entre as duas vacinas."
+  ]
+ },
+ {
+  "q": "Homem de 22 anos recebeu 2 unidades de concentrado de hemácias há 2 meses, após acidente de trânsito. Na UBS, sem comprovante de vacina tríplice viral, pede para atualizar o cartão. Segundo o Quadro 10 da IN do calendário de 2026, qual intervalo é sugerido entre o concentrado de hemácias e a tríplice viral?",
+  "alts": [
+   "Nenhum, pois hemácias não interferem em vacinas atenuadas",
+   "7 meses, o mesmo prazo indicado para plasma ou plaquetas",
+   "11 meses, como após imunoglobulina venosa em alta dose",
+   "5 meses após a transfusão de concentrado de hemácias",
+   "2 semanas, tempo suficiente para eliminar os anticorpos"
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "Anticorpos recebidos de forma passiva podem neutralizar os vírus vacinais vivos e causar falha vacinal. Por isso, o Quadro 10 da IN 2026 sugere intervalos entre hemoderivados e vacinas virais vivas atenuadas injetáveis, proporcionais ao conteúdo de IgG: hemácias lavadas, 0; concentrado de hemácias, 5 meses; sangue total, 6; plasma ou plaquetas, 7; imunoglobulina intravenosa terapêutica em alta dose, 10 a 11 meses. Vacinas inativadas, como dT e hepatite B, podem ser aplicadas hoje. As 2 semanas são o prazo entre a tríplice viral e uma imunoglobulina posterior.",
+  "porAlt": [
+   "O concentrado de hemácias contém IgG; o intervalo zero vale apenas para hemácias lavadas.",
+   "Sete meses é o intervalo sugerido para plasma ou plaquetas, não para hemácias.",
+   "Dez a onze meses são sugeridos após imunoglobulina intravenosa terapêutica em dose alta.",
+   "Correta: o Quadro 10 sugere 5 meses entre concentrado de hemácias e vacina viral atenuada.",
+   "Duas semanas é o prazo entre a tríplice viral e uma imunoglobulina aplicada depois."
+  ]
+ },
+ {
+  "q": "Lactente de 8 meses mora em município com surto de sarampo, e a secretaria indicou a vacinação de crianças de 6 a 11 meses. Ela recebe a tríplice viral hoje. A mãe pergunta se ainda precisará da vacina aos 12 meses. Pela IN do calendário de 2026, qual é a resposta correta?",
+  "alts": [
+   "Não; a dose de hoje substitui a dose prevista para os 12 meses",
+   "Sim; é dose zero, e mantêm-se as doses dos 12 e 15 meses",
+   "Não; a dose de hoje substitui a dose prevista para os 15 meses",
+   "Sim, mas só a dose dos 15 meses, pois a de hoje vale como 1ª",
+   "Sim; repetir aos 9 meses e depois seguir aos 12 e aos 15 meses"
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "Em situação epidemiológica de risco para sarampo ou rubéola, a IN 2026 permite vacinar temporariamente crianças de 6 a 11 meses com tríplice viral. Essa aplicação é chamada dose zero: não é válida para a rotina nem para a cobertura vacinal. Depois dela, mantém-se a agenda do calendário, com a 1ª dose aos 12 meses e a 2ª aos 15 meses. A mesma lógica vale para a febre amarela de 6 a 8 meses em área com circulação confirmada e para a varicela de 9 a 11 meses no bloqueio de surto.",
+  "porAlt": [
+   "A dose aplicada de 6 a 11 meses é dose zero e não substitui a dose dos 12 meses.",
+   "Correta: a dose zero não conta para o esquema, que segue aos 12 e aos 15 meses.",
+   "A dose zero não substitui nenhuma dose do esquema básico, nem a dos 15 meses.",
+   "A dose de hoje não é válida como 1ª dose; as duas doses de rotina continuam.",
+   "Não há dose de tríplice viral aos 9 meses; o esquema segue aos 12 e aos 15 meses."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos, motorista, apresenta cartão com 1 dose de vacina hepatite B aplicada há 3 anos, sem outras doses. Não pertence a grupo com indicação especial e não tem sorologias. Na UBS, pede para completar a vacinação. Pela Instrução Normativa do calendário de 2026, qual é a conduta?",
+  "alts": [
+   "Reiniciar o esquema de 3 doses, pois passou muito tempo da 1ª",
+   "Solicitar anti-HBs e vacinar apenas se o resultado for negativo",
+   "Considerar vacinado, pois 1 dose de hepatite B basta no adulto",
+   "Aplicar a 2ª dose hoje e a 3ª dose 7 dias depois da 2ª dose",
+   "Aplicar a 2ª dose hoje e agendar a 3ª, sem reiniciar o esquema"
+  ],
+  "gab": 4,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A partir de 7 anos, a hepatite B é feita com a vacina monovalente em 3 doses (0, 1 e 6 meses). A IN 2026 escreve \"não reiniciar o esquema\": dose comprovada conta, mesmo anos depois, e completa-se a partir da última. Assim, aplica-se a 2ª dose hoje e agenda-se a 3ª. Em situação excepcional, os intervalos mínimos são de 1 mês entre a 1ª e a 2ª dose, 2 meses entre a 2ª e a 3ª e 4 meses entre a 1ª e a 3ª. Sorologia pré-vacinal não é rotina para adulto sem indicação especial; a revacinação por anti-HBs abaixo de 10 mUI/mL é para grupos como profissionais de saúde e hemodialisados.",
+  "porAlt": [
+   "A IN diz para não reiniciar o esquema; a dose comprovada continua válida.",
+   "Sorologia prévia não é exigida para adulto sem indicação especial; completa-se o esquema.",
+   "O esquema básico exige 3 doses; uma única dose não completa a proteção.",
+   "O intervalo mínimo entre a 2ª e a 3ª dose é de 2 meses, nunca de 7 dias.",
+   "Correta: completa-se o esquema a partir da última dose, aplicando a 2ª hoje."
+  ]
+ },
+ {
+  "q": "Na capacitação de novos técnicos de uma UBS, a enfermeira explica a conservação dos imunobiológicos na sala de vacina. Um técnico pergunta qual é a faixa de temperatura da câmara refrigerada e por que o congelamento preocupa. Qual resposta está de acordo com o Manual de Rede de Frio do PNI?",
+  "alts": [
+   "+2 °C a +8 °C; o congelamento pode inutilizar vacinas adsorvidas em alumínio",
+   "+2 °C a +8 °C; o congelamento só reduz o tempo de validade do frasco",
+   "0 °C a +10 °C; o congelamento não altera as vacinas inativadas adsorvidas",
+   "−20 °C para todas as vacinas, o que prolonga a potência de cada produto",
+   "+8 °C a +15 °C; o frio abaixo de +8 °C reduz a potência das vacinas"
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Rede de frio e conservação",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Manual de Rede de Frio do Programa Nacional de Imunizações, 5ª edição, 2017 (MS)",
+  "coment": "Rede de frio é o sistema de armazenamento, transporte e conservação dos imunobiológicos desde a produção até a aplicação, descrito no Manual de Rede de Frio do PNI. Na sala de vacina, os imunobiológicos ficam em câmara refrigerada na faixa de +2 °C a +8 °C. O calor reduz a potência, e temperatura abaixo de +2 °C pode inutilizar de forma permanente as vacinas adsorvidas em alumínio, como penta, DTP, dT e hepatite B. Por isso a leitura é registrada no mapa de controle e qualquer valor fora da faixa é tratado como excursão de temperatura.",
+  "porAlt": [
+   "Correta: a faixa é de +2 °C a +8 °C, e o congelamento pode inutilizar vacinas adsorvidas.",
+   "O dano do congelamento às vacinas adsorvidas pode ser permanente, não só encurtar a validade.",
+   "A faixa vai de +2 °C a +8 °C, e as vacinas adsorvidas são justamente as sensíveis ao frio.",
+   "Congelar inutiliza vacinas adsorvidas; a sala de vacina trabalha de +2 °C a +8 °C.",
+   "Acima de +8 °C já há excursão; a faixa correta de conservação é de +2 °C a +8 °C."
+  ]
+ },
+ {
+  "q": "Na abertura da sala de vacina, às 7h, a técnica de enfermagem encontra a câmara refrigerada marcando −1 °C, após falha do termostato durante a noite. Há frascos de penta, VIP e hepatite B armazenados. Segundo o Manual de Rede de Frio do PNI, qual é a primeira providência?",
+  "alts": [
+   "Descartar todos os frascos, pois vacinas congeladas são sempre perdidas",
+   "Aguardar a câmara voltar a +2 °C a +8 °C e retomar a vacinação normalmente",
+   "Suspender o uso e manter os frascos a +2 °C a +8 °C, separados como sob suspeita",
+   "Transferir os frascos para o freezer até a avaliação da coordenação municipal",
+   "Usar esses frascos primeiro, para evitar perdas, e registrar no fim do dia"
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Rede de frio e conservação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Manual de Rede de Frio do Programa Nacional de Imunizações, 5ª edição, 2017 (MS)",
+  "coment": "Excursão de temperatura é qualquer registro fora de +2 °C a +8 °C. A conduta segue uma ordem: suspender o uso imediatamente; manter os frascos refrigerados na faixa correta, separados e identificados como imunobiológicos sob suspeita; registrar as temperaturas e o tempo estimado de exposição; e enviar o formulário de avaliação de imunobiológicos sob suspeita à coordenação de imunização, que emite o parecer de liberar ou inutilizar. O serviço não descarta por conta própria e não volta a usar os frascos antes do parecer.",
+  "porAlt": [
+   "O descarte depende do parecer técnico da coordenação; não se descarta por conta própria.",
+   "Os frascos expostos não voltam ao uso antes do parecer da coordenação de imunização.",
+   "Correta: suspende-se o uso e mantêm-se os frascos refrigerados, isolados como sob suspeita.",
+   "Freezer agravaria o dano às vacinas adsorvidas; elas devem ficar de +2 °C a +8 °C.",
+   "Usar frasco exposto antes do parecer gera erro de imunização, que precisa ser notificado."
+  ]
+ },
+ {
+  "q": "Às 10h, a enfermeira percebe que o termômetro da câmara refrigerada registra +13 °C desde o início do turno, por porta mal fechada. Seis crianças já foram vacinadas com frascos daquela câmara. Ela suspende o uso e isola os frascos como sob suspeita. Quanto às doses já aplicadas, qual é a conduta?",
+  "alts": [
+   "Revacinar as seis crianças imediatamente com frascos de outra câmara",
+   "Notificar como erro de imunização no e-SUS Notifica e seguir a orientação",
+   "Não notificar nada, pois a exposição ao calor durou menos de 24 horas",
+   "Notificar somente se alguma criança apresentar evento adverso grave",
+   "Considerar as doses inválidas e reiniciar o esquema das seis crianças"
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Rede de frio e conservação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Manual de Rede de Frio do PNI, 5ª edição, 2017, e IN do Calendário Nacional de Vacinação 2026 (MS)",
+  "coment": "Doses aplicadas com imunobiológico exposto a temperatura fora de +2 °C a +8 °C configuram erro de imunização, uma das categorias de ESAVI ligada a falha no processo de vacinação. O caso é notificado no e-SUS Notifica, sistema usado por qualquer profissional de saúde para ESAVI, e a conduta para as crianças segue a orientação da coordenação de imunização, depois do parecer sobre os frascos. Revacinar por conta própria ou reiniciar esquemas antes desse parecer não tem respaldo. O erro de imunização é notificado mesmo sem sintoma.",
+  "porAlt": [
+   "A revacinação depende do parecer técnico sobre os frascos; não se decide por conta própria.",
+   "Correta: dose aplicada com produto exposto é erro de imunização e vai ao e-SUS Notifica.",
+   "Não há tempo de tolerância para deixar de notificar; erro de imunização sempre é notificado.",
+   "O erro de imunização é notificado mesmo sem evento clínico na criança vacinada.",
+   "Esquema não é reiniciado por conta própria; aguarda-se a orientação da coordenação."
+  ]
+ },
+ {
+  "q": "Em ação extramuros numa escola, o técnico de enfermagem retira bobinas reutilizáveis do freezer e as coloca imediatamente na caixa térmica, encostadas nos frascos de vacina, sem termômetro. A enfermeira supervisora intervém. Qual é o principal risco dessa conduta e como corrigi-la?",
+  "alts": [
+   "Risco de aquecer os frascos; usar gelo comum no lugar das bobinas reutilizáveis",
+   "Nenhum risco, pois bobina recém-saída do freezer garante a faixa ideal",
+   "Risco de congelar os frascos; manter a caixa aberta para equilibrar a temperatura",
+   "Risco de congelar os frascos; ambientar as bobinas e monitorar com termômetro",
+   "Risco apenas para vacinas atenuadas, pois as inativadas toleram o frio intenso"
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Rede de frio e conservação",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Manual de Rede de Frio do Programa Nacional de Imunizações, 5ª edição, 2017 (MS)",
+  "coment": "No uso diário e no trabalho extramuros, as vacinas são levadas em caixa térmica com bobinas reutilizáveis ambientadas e termômetro, mantendo a mesma faixa de +2 °C a +8 °C da câmara, longe do sol e de fontes de calor. Bobina que sai do freezer sem ambientação está abaixo de 0 °C e pode congelar os frascos, dano que é permanente nas vacinas adsorvidas em alumínio, que são inativadas. O termômetro na caixa permite verificar a faixa antes e durante a atividade. Abrir a caixa ou usar gelo comum compromete o controle da temperatura.",
+  "porAlt": [
+   "O risco da bobina não ambientada é o congelamento, e gelo comum não substitui a bobina.",
+   "Bobina sem ambientação está abaixo de 0 °C e pode congelar os frascos na caixa.",
+   "Deixar a caixa aberta expõe as vacinas ao calor e impede o controle da faixa.",
+   "Correta: a bobina não ambientada pode congelar os frascos; ambienta-se e monitora-se a caixa.",
+   "As vacinas inativadas adsorvidas em alumínio são as mais prejudicadas pelo congelamento."
+  ]
+ },
+ {
+  "q": "Em uma UBS, a coordenação discute as atribuições na sala de vacina. A técnica de enfermagem lê e registra a temperatura da câmara e, numa queda de energia, executa o plano de contingência. Pela Resolução COFEN 795/2025, a quem cabe supervisionar a cadeia de frio da sala de vacinação?",
+  "alts": [
+   "Ao técnico de enfermagem, que responde sozinho pela temperatura da sala",
+   "Ao farmacêutico da unidade, responsável legal por todo o estoque de vacinas",
+   "Ao enfermeiro, de forma privativa, com técnicos e auxiliares sob supervisão",
+   "A qualquer membro da equipe de enfermagem, sem distinção de categoria",
+   "Ao auxiliar de enfermagem, desde que tenha curso de imunização de 40 horas"
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Rede de frio e conservação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 795/2025 (vacinação e imunização), itens 1.1 e 1.3",
+  "coment": "A Resolução COFEN 795/2025 regulamenta a atuação da enfermagem na vacinação. Entre as atividades privativas do enfermeiro estão organizar, planejar e supervisionar a sala de vacina, supervisionar técnicos e auxiliares e supervisionar a cadeia de frio (item 1.1, VIII). O técnico e o auxiliar atuam sempre sob orientação e supervisão do enfermeiro e, nessa condição, monitoram a temperatura e executam o plano de contingência (item 1.3, VI e XI). O curso de 40 horas é qualificação recomendada, e não transfere atribuição privativa.",
+  "porAlt": [
+   "O técnico monitora a temperatura, mas sempre sob supervisão do enfermeiro.",
+   "A resolução atribui a supervisão da cadeia de frio da sala de vacina ao enfermeiro.",
+   "Correta: supervisionar a cadeia de frio é privativo do enfermeiro, que supervisiona a equipe.",
+   "Há divisão de atribuições na resolução; a supervisão é privativa do enfermeiro.",
+   "O curso de 40 horas é qualificação recomendada e não transfere a supervisão ao auxiliar."
+  ]
+ },
+ {
+  "q": "No fim da tarde, uma mãe chega à sala de vacina com o filho de 2 meses para as vacinas da idade. A técnica sugere voltar no dia seguinte, para não abrir um frasco multidose apenas para uma criança e evitar perda de doses. Pela IN do calendário de 2026, qual é a orientação adequada?",
+  "alts": [
+   "Agendar para o dia seguinte, pois evitar perdas tem prioridade sobre o atraso",
+   "Vacinar hoje apenas as vacinas de frasco unidose e adiar as multidose",
+   "Agendar para o dia de rotina, já que a criança não está em atraso",
+   "Adiar até reunir cinco crianças, número mínimo para abrir um frasco",
+   "Vacinar hoje, pois a organização do serviço deve preservar a oportunidade"
+  ],
+  "gab": 4,
+  "tema": "imuniza",
+  "sub": "Rede de frio e conservação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "Nas Informações Gerais, a IN 2026 afirma que a vacinação de rotina é o mais alto nível de prioridade em saúde pública e que a organização operacional dos serviços, inclusive quando relacionada ao uso de frascos multidose, deve preservar a oportunidade de vacinação. A redução de perdas cabe à gestão de estoques: monitorar validade e movimentação e direcionar estratégias a grupos e territórios com baixa cobertura. Mandar a criança embora para poupar doses cria oportunidade perdida e risco de abandono do esquema.",
+  "porAlt": [
+   "A IN dá prioridade à oportunidade de vacinar; perda de doses se controla na gestão do estoque.",
+   "Adiar parte das vacinas também perde a oportunidade que a IN manda preservar.",
+   "A criança está na agenda oportuna hoje; adiar cria oportunidade perdida.",
+   "A IN não fixa número mínimo de pessoas para abrir frasco multidose.",
+   "Correta: a organização do serviço, inclusive com frasco multidose, deve preservar a oportunidade."
+  ]
+ },
+ {
+  "q": "A coordenadora de imunização de um município verifica que um lote de vacina meningocócica ACWY vence em 60 dias e que a procura de adolescentes de 11 a 14 anos está baixa, com cobertura abaixo da meta em dois bairros. Segundo as Informações Gerais da IN do calendário de 2026, qual é a estratégia esperada da gestão?",
+  "alts": [
+   "Direcionar vacinação aos bairros e grupos de baixa cobertura antes do vencimento",
+   "Devolver o lote ao estado e suspender a oferta até chegar lote mais novo",
+   "Ampliar a oferta para adultos de qualquer idade, para evitar perder o lote",
+   "Aguardar o vencimento e registrar a perda, pois a procura é espontânea",
+   "Aplicar uma segunda dose nos adolescentes já vacinados para consumir o estoque"
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Rede de frio e conservação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A IN 2026 trata da gestão estratégica de estoques: os gestores locais devem monitorar continuamente os estoques e implementar, de forma oportuna, estratégias de vacinação voltadas aos grupos e territórios com baixas coberturas sempre que houver risco de perda por vencimento ou baixa utilização. O acompanhamento da validade, a identificação de pessoas não vacinadas e o planejamento integrado reduzem perdas evitáveis e ampliam a cobertura. Mudar a indicação da vacina ou aplicar doses fora do esquema não é estratégia prevista; a ACWY do adolescente segue a janela de 11 a 14 anos, 11 meses e 29 dias.",
+  "porAlt": [
+   "Correta: a IN pede estratégias para grupos e territórios de baixa cobertura quando há risco de perda.",
+   "Suspender a oferta aumenta a lacuna de cobertura e não está entre as estratégias da IN.",
+   "A indicação da vacina não muda para evitar perdas; a ACWY tem público definido na IN.",
+   "A IN pede gestão proativa; aguardar o vencimento contraria a orientação de reduzir perdas.",
+   "Dose fora do esquema não é estratégia de estoque; a ACWY do adolescente é dose única."
+  ]
+ },
+ {
+  "q": "Após excursão de temperatura de +10 °C por cerca de 3 horas, a enfermeira da sala de vacina suspendeu o uso, manteve os frascos a +2 °C a +8 °C identificados como sob suspeita e registrou as leituras e o tempo de exposição. Uma técnica pergunta quem decide se os frascos serão usados ou descartados. Qual é a resposta correta?",
+  "alts": [
+   "A própria enfermeira, conforme o tempo de exposição registrado no mapa",
+   "O laboratório produtor, consultado por telefone pela própria equipe da sala",
+   "A coordenação de imunização, por parecer emitido após o formulário de suspeita",
+   "A vigilância sanitária municipal, depois de uma inspeção presencial da câmara fria",
+   "Ninguém precisa decidir, pois toda excursão acima de +8 °C exige descarte"
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Rede de frio e conservação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "Manual de Rede de Frio do Programa Nacional de Imunizações, 5ª edição, 2017 (MS)",
+  "coment": "Diante de excursão de temperatura, o serviço suspende o uso, mantém os frascos refrigerados e identificados como imunobiológicos sob suspeita, registra o ocorrido e preenche o formulário de avaliação de imunobiológicos sob suspeita, encaminhado à coordenação de imunização. É essa instância que emite o parecer técnico de liberar o produto, que retorna ao estoque e ao uso, ou de inutilizá-lo, com descarte conforme a norma e registro da perda. A equipe local não descarta por conta própria nem retoma o uso antes do parecer, qualquer que tenha sido o tempo de exposição.",
+  "porAlt": [
+   "A equipe local registra e comunica, mas não decide sozinha o destino dos frascos.",
+   "A avaliação é feita pela coordenação de imunização, a partir do formulário do serviço.",
+   "Correta: o formulário vai à coordenação de imunização, que emite o parecer de liberar ou inutilizar.",
+   "O fluxo de imunobiológicos sob suspeita é do programa de imunização, não da vigilância sanitária.",
+   "Não há descarte automático; a decisão depende do parecer técnico da coordenação."
+  ]
+ },
+ {
+  "q": "Menina de 2 anos, saudável, chega à UBS sem cicatriz vacinal e sem registro de BCG no cartão; nasceu em casa e nunca foi vacinada. Está assintomática e sem sinais de imunodepressão. A enfermeira decide vacinar. Pela Instrução Normativa do calendário de 2026, como deve ser aplicada a BCG?",
+  "alts": [
+   "0,05 mL por via intradérmica, na inserção inferior do deltoide direito",
+   "0,1 mL por via subcutânea, na região posterior do braço direito",
+   "Não aplicar, pois a BCG de rotina só é feita até os 12 meses de vida",
+   "0,1 mL por via intradérmica, na inserção inferior do deltoide direito",
+   "0,1 mL por via intradérmica, na inserção do deltoide do braço esquerdo"
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Técnica de aplicação",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A IN 2026 permite vacinar com BCG a criança ainda não vacinada até 4 anos, 11 meses e 29 dias, se assintomática, sem sinais de imunodepressão e com avaliação pelo serviço. O volume depende da idade: 0,05 mL em menores de 1 ano e 0,1 mL a partir de 1 ano. A via é intradérmica, no braço direito, ao nível da inserção inferior do deltoide, padrão que facilita identificar a cicatriz nas avaliações. Se esse local não puder ser usado, aplica-se em local alternativo e ele é registrado no cartão e no sistema de informação.",
+  "porAlt": [
+   "O volume de 0,05 mL é para menores de 1 ano; aos 2 anos a dose é de 0,1 mL.",
+   "A BCG é estritamente intradérmica; a via subcutânea não é usada para essa vacina.",
+   "Na rotina, a BCG pode ser feita até 4 anos, 11 meses e 29 dias na criança não vacinada.",
+   "Correta: a partir de 1 ano, 0,1 mL intradérmico na inserção inferior do deltoide direito.",
+   "O local padronizado é o braço direito; o esquerdo só se usa como alternativa registrada."
+  ]
+ },
+ {
+  "q": "Adolescente de 17 anos, sem comprovação de vacina hepatite B, vai iniciar o esquema na UBS. O técnico de enfermagem prepara a dose pediátrica de 0,5 mL para aplicar na região glútea, por considerá-la \"músculo maior\". A enfermeira corrige a técnica. Pela IN de 2026, qual é a forma correta?",
+  "alts": [
+   "0,5 mL intramuscular no deltoide, por ter menos de 18 anos",
+   "1,0 mL por via subcutânea no tríceps, para reduzir dor local",
+   "0,5 mL por via intramuscular na região glútea, como foi preparado",
+   "1,0 mL por via intradérmica no antebraço, para melhor resposta",
+   "1,0 mL por via intramuscular no deltoide, nunca na região glútea"
+  ],
+  "gab": 4,
+  "tema": "imuniza",
+  "sub": "Técnica de aplicação",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A IN 2026 fixa o volume da vacina hepatite B pela idade: 0,5 mL em recém-nascidos, lactentes e crianças até 15 anos e 1,0 mL a partir de 16 anos. A via é intramuscular; a partir de 2 anos a aplicação pode ser feita no deltoide, conforme a massa muscular. A IN diz que a vacina não deve ser aplicada na região glútea, nem por via subcutânea ou intradérmica, pela possibilidade de menor resposta imunológica. A única exceção à via intramuscular é a subcutânea em pessoas com doença hemorrágica grave, como hemofílicos.",
+  "porAlt": [
+   "A partir de 16 anos o volume da hepatite B é 1,0 mL, e não a dose pediátrica.",
+   "A via subcutânea só é aceita em doença hemorrágica grave; a rotina é intramuscular.",
+   "A região glútea reduz a resposta imune à hepatite B, e o volume aos 17 anos é 1,0 mL.",
+   "A via intradérmica dá menor resposta e não é prevista para a hepatite B.",
+   "Correta: a partir de 16 anos, 1,0 mL intramuscular no deltoide, evitando a região glútea."
+  ]
+ },
+ {
+  "q": "Lactente de 2 meses recebe a vacina rotavírus humano na UBS, junto com as injetáveis da idade. Cerca de um minuto depois, regurgita parte do conteúdo. A mãe, preocupada, pede que a dose seja repetida. Pela Instrução Normativa do calendário de 2026, qual é a conduta da equipe?",
+  "alts": [
+   "Não repetir a dose e manter a 2ª dose agendada para os 4 meses",
+   "Repetir a dose inteira no mesmo dia, pois houve perda do conteúdo",
+   "Repetir meia bisnaga, já que parte da vacina foi aproveitada",
+   "Repetir na próxima semana e atrasar a 2ª dose em 7 dias",
+   "Considerar a dose inválida e fazer 3 doses no total do esquema"
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Técnica de aplicação",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A vacina rotavírus humano é oral, com volume de 1,5 mL, e deve ser administrada com todo o conteúdo da bisnaga na cavidade oral. A IN 2026 orienta que, se a criança regurgitar, cuspir ou vomitar após a vacinação, a dose não deve ser repetida. A dose é registrada normalmente e o esquema segue com a 2ª dose aos 4 meses, com 60 dias de intervalo. Para criança com sonda de alimentação, a IN orienta oferecer pequenas quantidades e aguardar a deglutição; não sendo possível a via oral, pode-se usar a sonda.",
+  "porAlt": [
+   "Correta: regurgitação após a vacina oral não indica repetir; o esquema segue aos 4 meses.",
+   "A IN orienta não repetir a dose quando a criança regurgita, cospe ou vomita.",
+   "Não existe repetição parcial; a dose regurgitada é considerada aplicada.",
+   "Não se repete a dose nem se altera o intervalo padrão de 60 dias até a 2ª.",
+   "O esquema da rotavírus tem 2 doses; a dose regurgitada é válida."
+  ]
+ },
+ {
+  "q": "Adolescente de 12 anos com hemofilia A grave, acompanhado no hemocentro, chega à UBS sem nenhuma dose de vacina hepatite B. A família teme sangramento pela injeção intramuscular e pergunta se ele pode ser vacinado. Segundo a IN do calendário de 2026, qual é a orientação sobre a via de administração?",
+  "alts": [
+   "Contraindicar a vacina, pois a hemofilia grave impede qualquer aplicação injetável",
+   "Usar excepcionalmente a via subcutânea, prevista para doença hemorrágica grave",
+   "Aplicar por via intradérmica, que tem a mesma resposta da intramuscular",
+   "Aplicar na região glútea, onde o hematoma tem menor repercussão clínica",
+   "Adiar até os 18 anos, idade em que o risco de sangramento muscular diminui"
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Técnica de aplicação",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A IN 2026 prevê que a vacina hepatite B pode ser administrada excepcionalmente por via subcutânea em pessoas com doenças hemorrágicas com tendência a sangramento grave, como hemofílicos. A mesma exceção aparece na penta, na DTP e na hepatite A, e a VIP admite a via subcutânea nas discrasias sanguíneas. Fora dessa situação, a hepatite B não deve ser aplicada na região glútea, nem por via subcutânea ou intradérmica, pela menor resposta imunológica. Hemofilia não é contraindicação, e adiar deixa o adolescente desprotegido.",
+  "porAlt": [
+   "Hemofilia não contraindica a vacina; a IN prevê via alternativa para esses casos.",
+   "Correta: na doença hemorrágica grave, a IN admite a via subcutânea para a hepatite B.",
+   "A via intradérmica não é prevista e dá menor resposta imunológica à hepatite B.",
+   "A região glútea dá menor resposta e não resolve o risco de sangramento muscular.",
+   "Não há motivo para adiar; a via subcutânea permite vacinar com segurança agora."
+  ]
+ },
+ {
+  "q": "Adolescente de 10 anos comparece à UBS para a 1ª dose da vacina dengue. O técnico de enfermagem aspira 0,5 mL e se prepara para aplicar no deltoide por via intramuscular, como fez com a meningocócica ACWY de outro adolescente pouco antes. Pela IN do calendário de 2026, qual é a técnica correta?",
+  "alts": [
+   "Via intramuscular no deltoide, como em todas as vacinas do adolescente",
+   "Via subcutânea ou intramuscular, a critério do profissional que aplica",
+   "Via subcutânea exclusiva, na parte superior externa e posterior do braço",
+   "Via intradérmica no braço direito, como a BCG, para menor reação local",
+   "Via subcutânea no abdômen, preferida para vacinas atenuadas no adolescente"
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Técnica de aplicação",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A vacina dengue (atenuada) é aplicada exclusivamente por via subcutânea, 0,5 mL, preferencialmente na parte superior externa e posterior do braço, na região do tríceps. A febre amarela também é exclusivamente subcutânea, e tríplice viral e varicela usam a mesma via e o mesmo local. A IN 2026 lembra que a via é definida pelo laboratório produtor e deve ser seguida rigorosamente; o desvio pode reduzir a eficácia ou aumentar reações locais. O abdômen, a 3 cm do umbigo, aparece só como local alternativo no Quadro 6.",
+  "porAlt": [
+   "A dengue não é intramuscular; a IN define via subcutânea exclusiva para ela.",
+   "A via é fixada pelo fabricante e não fica a critério de quem aplica.",
+   "Correta: a vacina dengue é exclusivamente subcutânea, na região do tríceps.",
+   "A via intradérmica é da BCG; a dengue é subcutânea.",
+   "O abdômen é local alternativo no Quadro 6; o preferencial é a região do tríceps."
+  ]
+ },
+ {
+  "q": "Mulher de 26 anos, sem comprovação de tríplice viral, precisa ser vacinada antes de uma viagem, mas está com queimaduras extensas nos dois braços, em tratamento ambulatorial. A enfermeira da sala de vacina avalia onde aplicar. Segundo o Quadro 6 da IN do calendário de 2026, qual é a conduta adequada?",
+  "alts": [
+   "Via intramuscular no vasto lateral, pois a via pode ser adaptada ao caso",
+   "Aplicar no braço queimado, já que a via subcutânea é superficial",
+   "Via subcutânea no abdômen, junto ao umbigo, sem necessidade de registro",
+   "Via subcutânea na face anterior e externa da coxa, registrando o local",
+   "Via intradérmica na região escapular, alternativa para vacinas atenuadas"
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Técnica de aplicação",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A tríplice viral é subcutânea, com local preferencial na parte superior externa e posterior do braço. Quando o local preferencial não serve, por lesão, imobilização ou ausência de membro, o Quadro 6 da IN 2026 lista alternativas para a via subcutânea: face anterior e externa da coxa, face anterior do antebraço, abdômen guardando 3 cm do umbigo e região escapular. A via nunca é adaptada, porque é definida pelo fabricante, e o local alternativo deve ser registrado no cartão e no sistema. Área com lesão cutânea não é usada.",
+  "porAlt": [
+   "A via é definida pelo fabricante e não se adapta; o que muda é o local.",
+   "A IN pede área livre de lesões cutâneas; não se aplica sobre a queimadura.",
+   "No abdômen guarda-se 3 cm do umbigo, e todo local alternativo deve ser registrado.",
+   "Correta: a coxa é local alternativo para via subcutânea, e o local é registrado no cartão.",
+   "A tríplice viral é subcutânea; a via intradérmica não se aplica a ela."
+  ]
+ },
+ {
+  "q": "Menino de 18 meses vai receber a vacina influenza pela primeira vez, na campanha anual. Está saudável e com as demais vacinas em dia. A técnica de enfermagem prepara a aplicação intramuscular. Pela Instrução Normativa do calendário de 2026, qual é o volume da dose e o local preferencial?",
+  "alts": [
+   "0,5 mL, preferencialmente no músculo vasto lateral da coxa",
+   "0,25 mL, preferencialmente no músculo deltoide do braço",
+   "0,5 mL, preferencialmente no músculo deltoide do braço",
+   "0,25 mL, preferencialmente na região dorsoglútea do quadril",
+   "0,25 mL, preferencialmente no músculo vasto lateral da coxa"
+  ],
+  "gab": 4,
+  "tema": "imuniza",
+  "sub": "Técnica de aplicação",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A IN 2026 define o volume da influenza trivalente pela idade: 0,25 mL de 6 meses a 2 anos e 0,5 mL a partir de 3 anos. A via pode ser intramuscular ou subcutânea. Em menores de 2 anos, a aplicação intramuscular é feita preferencialmente no músculo vasto lateral da coxa; a partir de 2 anos, também pode ser usado o deltoide, conforme a massa muscular. A região dorsoglútea fica como última opção, porque pode dar resposta imune abaixo do ideal. Por ser primovacinação, ele precisará de 2 doses com 30 dias de intervalo.",
+  "porAlt": [
+   "O volume de 0,5 mL é para quem tem 3 anos ou mais; aos 18 meses são 0,25 mL.",
+   "Abaixo de 2 anos o local preferencial é o vasto lateral, não o deltoide.",
+   "Aos 18 meses o volume é 0,25 mL, e o local preferencial é o vasto lateral.",
+   "A dorsoglútea é a última opção, pois pode dar resposta imune abaixo do ideal.",
+   "Correta: de 6 meses a 2 anos são 0,25 mL, no vasto lateral da coxa."
+  ]
+ },
+ {
+  "q": "Criança de 3 anos com doença renal crônica vai iniciar o esquema da vacina covid-19, em atraso. A sala de vacina dispõe apenas da Comirnaty em frasco de tampa amarela, produto indicado pela IN do calendário de 2026 para a faixa a partir de 6 meses. Qual é o preparo e a dose corretos?",
+  "alts": [
+   "Diluir o frasco e aplicar 0,3 mL por via intramuscular",
+   "Não diluir o frasco e aplicar 0,3 mL por via intramuscular",
+   "Diluir o frasco e aplicar 0,2 mL por via intramuscular",
+   "Não diluir o frasco e aplicar 0,5 mL por via intramuscular",
+   "Diluir o frasco e aplicar 0,3 mL por via subcutânea"
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Técnica de aplicação",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "Para a criança de 6 meses a 4 anos, 11 meses e 29 dias, a IN 2026 descreve duas apresentações da Comirnaty que exigem diluição: tampa vinho, com dose de 0,2 mL, e tampa amarela, com dose de 0,3 mL. A tampa azul (5 a 11 anos) e a cinza (a partir de 12 anos) não são diluídas e têm dose de 0,3 mL. A via é sempre intramuscular, no vasto lateral abaixo de 2 anos e também no deltoide a partir dessa idade. O esquema básico é de 3 doses, com 4 semanas entre a 1ª e a 2ª e 8 semanas entre a 2ª e a 3ª.",
+  "porAlt": [
+   "Correta: a tampa amarela é diluída, e a dose para a criança é de 0,3 mL intramuscular.",
+   "A tampa amarela precisa de diluição; as que não são diluídas são a azul e a cinza.",
+   "O volume de 0,2 mL corresponde ao frasco de tampa vinho, não ao de tampa amarela.",
+   "Não há dose de 0,5 mL na Comirnaty, e a tampa amarela exige diluição.",
+   "A vacina covid-19 é aplicada por via intramuscular, e não subcutânea."
+  ]
+ }
+]
