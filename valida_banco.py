@@ -16,11 +16,13 @@ ALVO_POR_PESO = 3          # 3 questões por ponto de peso → banco "cheio" = 3
 
 def carrega_js(nome, var):
     txt = open(os.path.join(RAIZ, nome), encoding="utf-8").read()
-    m = re.search(r"window\." + var + r"\s*=\s*(\[.*?\])\s*;", txt, re.S)
+    # decodifica a partir do "[" com raw_decode: o regex não guloso de antes parava no primeiro "];"
+    # que aparecesse DENTRO de uma string (ex.: "G1P[8];" num comentário) e acusava JSON quebrado
+    m = re.search(r"window\." + var + r"\s*=\s*", txt)
     if not m:
         print(f"ERRO DURO: não achei window.{var} em {nome}"); sys.exit(1)
     try:
-        return json.loads(m.group(1))
+        return json.JSONDecoder().raw_decode(txt, m.end())[0]
     except json.JSONDecodeError as e:
         print(f"ERRO DURO: {nome} não é JSON estrito: {e}"); sys.exit(1)
 

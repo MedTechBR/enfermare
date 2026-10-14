@@ -22,6 +22,22 @@ def main():
         leva = json.load(open(arq, encoding="utf-8"))
         print(f"  {os.path.basename(arq)}: {len(leva)} questões")
         banco.extend(leva)
+    # mesma questão em dois cadernos (enunciado igual = mesma chave de progresso): fica a primeira e a
+    # outra prova entra em fonte.tb, para a prova na íntegra continuar completa
+    sys.path.insert(0, RAIZ)
+    from valida_banco import chave_q
+    vistas, unico, dup = {}, [], 0
+    for q in banco:
+        k = chave_q(q)
+        if k in vistas:
+            dup += 1; prim = vistas[k]
+            if q.get("fonte") and prim.get("fonte"):
+                tb = prim["fonte"].setdefault("tb", [])
+                tb.append({"prova": q["fonte"]["prova"], "n": q["fonte"].get("n")})
+            continue
+        vistas[k] = q; unico.append(q)
+    if dup: print(f"  {dup} questões repetidas entre cadernos: ficam uma vez, com fonte.tb")
+    banco = unico
     with open(os.path.join(RAIZ, "banco.js"), "w", encoding="utf-8") as f:
         f.write("window.BANCO=")
         json.dump(banco, f, ensure_ascii=False, indent=0)

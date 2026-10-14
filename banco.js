@@ -15236,7 +15236,13 @@ window.BANCO=[
 "ano": 2024,
 "prova": "SES-MT 2024, Enfermeiro",
 "n": 44,
-"parte": "politicas"
+"parte": "politicas",
+"tb": [
+{
+"prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+"n": 39
+}
+]
 }
 },
 {
@@ -19910,38 +19916,6 @@ window.BANCO=[
 "ano": 2023,
 "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
 "n": 38,
-"parte": "politicas"
-}
-},
-{
-"q": "De acordo com as disposições normativas acerca da segurança do paciente, os eventos adversos que evoluírem para óbito devem ser notificados em até",
-"alts": [
-"24 horas a partir do ocorrido.",
-"36 horas a partir do ocorrido.",
-"48 horas a partir do ocorrido.",
-"72 horas a partir do ocorrido.",
-"96 horas a partir do ocorrido."
-],
-"gab": 3,
-"tema": "seguranca",
-"sub": "Notificação de incidentes",
-"cenario": "ger",
-"comp": "norma",
-"nivel": "r1",
-"base": "RDC ANVISA 36/2013, art. 10, parágrafo único",
-"coment": "A RDC ANVISA 36/2013 manda o Núcleo de Segurança do Paciente notificar os eventos adversos ao Sistema Nacional de Vigilância Sanitária pelo Notivisa. A notificação dos eventos em geral é mensal, até o 15º dia útil do mês seguinte (art. 10). Os eventos adversos que evoluem para óbito devem ser notificados em até 72 horas a partir do ocorrido (art. 10, parágrafo único). Não confundir com o limite de 72 horas da profilaxia pós-exposição ao HIV, que vem de outra norma.",
-"porAlt": [
-"Errada: 24 horas é o prazo da notificação imediata de doenças da lista compulsória, não do óbito por evento adverso.",
-"Errada: 36 horas não é prazo previsto na RDC 36/2013.",
-"Errada: 48 horas não é o prazo da norma para o evento adverso com óbito.",
-"Correta: o evento adverso que evolui para óbito é notificado em até 72 horas (RDC 36/2013, art. 10, parágrafo único).",
-"Errada: 96 horas ultrapassa o prazo de 72 horas fixado pela RDC 36/2013."
-],
-"fonte": {
-"banca": "FGV",
-"ano": 2023,
-"prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
-"n": 39,
 "parte": "politicas"
 }
 },
@@ -39696,7 +39670,13 @@ window.BANCO=[
 "ano": 2026,
 "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
 "n": 40,
-"parte": "especificas"
+"parte": "especificas",
+"tb": [
+{
+"prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+"n": 40
+}
+]
 }
 },
 {
@@ -40785,38 +40765,6 @@ window.BANCO=[
 "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
 "n": 29,
 "parte": "gerais"
-}
-},
-{
-"q": "Sobre o cuidado de enfermagem ao idoso com lesões de pele, assinale a alternativa CORRETA.",
-"alts": [
-"O cuidado da pele com xerose envolve a substituição de soluções emolientes, por substâncias que mantêm a pele e o ambientes secos.",
-"Pessoas idosas com pele seca devem buscar alívio sempre com o uso de substâncias sensibilizadoras.",
-"Na dermatite de contado, um dos principais cuidados é romper as vesículas quando elas surgem.",
-"Contatos que causem atrito ou cisalhamento na pele do idoso devem ser evitados ou feitos com proteção da pele por roupas de algodão.",
-"Na prevenção de lesões por pressão, é importante manter o idoso em decúbito dorsal, mudando a posição duas vezes ao dia."
-],
-"gab": 3,
-"tema": "idoso",
-"sub": "Envelhecimento e avaliação multidimensional",
-"cenario": "aps",
-"comp": "cuid",
-"nivel": "r1",
-"base": "Ministério da Saúde, Caderno de Atenção Básica 19, Envelhecimento e saúde da pessoa idosa (2006); Nota Técnica GVIMS/GGTES/Anvisa 05/2023",
-"coment": "A pele do idoso tem derme mais fina, menos colágeno, gordura subcutânea e glândulas sebáceas, por isso resseca e lesa com facilidade. O cuidado inclui hidratar com emolientes, evitar substâncias irritantes ou sensibilizantes e proteger contra atrito e cisalhamento, com roupas e roupas de cama macias, como algodão, e técnica correta de mobilização. Na prevenção de lesão por pressão, a mudança de decúbito é programada e individualizada, em geral muito mais frequente que duas vezes ao dia, com alternância de posições.",
-"porAlt": [
-"Na xerose o cuidado é justamente usar emolientes e hidratar; manter a pele seca piora o quadro.",
-"Substâncias sensibilizadoras causam dermatite; a pele seca do idoso pede emolientes suaves.",
-"Na dermatite de contato não se rompem vesículas, o que abriria porta para infecção.",
-"Correta: atrito e cisalhamento devem ser evitados ou feitos com proteção da pele, como roupas de algodão.",
-"Prevenir lesão por pressão exige alternar decúbitos com frequência individualizada, não manter dorsal e mudar só duas vezes ao dia."
-],
-"fonte": {
-"banca": "SES-PE (IAUPE)",
-"ano": 2026,
-"prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
-"n": 40,
-"parte": "especificas"
 }
 },
 {
@@ -44080,7 +44028,13 @@ window.BANCO=[
 "ano": 2023,
 "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
 "n": 30,
-"parte": "especificas"
+"parte": "especificas",
+"tb": [
+{
+"prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+"n": 35
+}
+]
 }
 },
 {
@@ -49140,38 +49094,6 @@ window.BANCO=[
 }
 },
 {
-"q": "A saúde do adolescente envolve o reconhecimento da influência de uma multiplicidade de fatores no processo de adolescer, que podem se relacionar, por exemplo, ao exercício dos direitos, às vivências familiares, às amizades, à inserção no contexto escolar, às aspirações e construções de projetos futuros. Acerca do cuidado de enfermagem com o adolescente, assinale a alternativa CORRETA.",
-"alts": [
-"Considerando a estreita ligação entre o profissional de saúde e a atenção à saúde do adolescente, destaca-se aqui a importância do não estabelecimento de um processo comunicativo efetivo com o adolescente.",
-"Na atenção ao adolescente, é importante o enfermeiro estimular a contextualização e problematização da realidade vivenciada pelos adolescentes. Por meio de uma escuta sensível, o enfermeiro poderá identificar vulnerabilidades e adversidades e desenvolver ações voltadas para o fortalecimento do protagonismo e da resiliência do adolescente, buscando aprofundar a promoção da saúde.",
-"As ações e políticas voltadas para o segmento adolescente não devem considerar as diferentes características individuais, sociais e culturais dessa população.",
-"A partir do entendimento de que o desenvolvimento saudável na adolescência se encontra atrelado a uma multiplicidade de fatores físicos, psicológicos, sociais e ambientais, e que, além de garantir a sobrevivência do adolescente, é preciso ofertar um cuidado voltado somente para as demandas orgânicas, desconsiderando a amplitude do processo de adolescer.",
-"O estabelecimento de relações entre enfermeiros e adolescentes não deve ser encorajado por dificultar a formação de um vínculo de confiança e a construção de um cuidado integral."
-],
-"gab": 1,
-"tema": "crianca",
-"sub": "Adolescente",
-"cenario": "aps",
-"comp": "cuid",
-"nivel": "r1",
-"base": "Ministério da Saúde, Proteger e cuidar da saúde de adolescentes na atenção básica, 2ª ed., 2018",
-"coment": "O cuidado ao adolescente se apoia em escuta qualificada, vínculo, sigilo e reconhecimento do adolescente como sujeito de direitos. Ao problematizar a realidade vivida, o enfermeiro identifica vulnerabilidades e trabalha protagonismo e resiliência, o que caracteriza promoção da saúde. As outras alternativas foram construídas com negações absurdas: não comunicar, desconsiderar diferenças individuais e culturais, cuidar só do orgânico e desencorajar o vínculo contrariam a integralidade.",
-"porAlt": [
-"Erra ao defender o não estabelecimento de comunicação efetiva, que é a base do vínculo com o adolescente.",
-"Correta: escuta sensível, problematização da realidade e fortalecimento do protagonismo e da resiliência promovem saúde.",
-"Erra porque as políticas devem considerar as diferenças individuais, sociais e culturais dos adolescentes.",
-"Erra ao restringir o cuidado às demandas orgânicas, contrariando a integralidade do processo de adolescer.",
-"Erra porque a relação enfermeiro e adolescente deve ser estimulada; é ela que constrói confiança e cuidado integral."
-],
-"fonte": {
-"banca": "SES-PE (IAUPE)",
-"ano": 2022,
-"prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
-"n": 35,
-"parte": "especificas"
-}
-},
-{
 "q": "De acordo com o atual Protocolo Clínico e Diretrizes Terapêuticas para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais (PCDT-TV), lançado em 2022 pelo Ministério da Saúde do Brasil, orienta ações para vigilância, prevenção e controle dessas patologias e recomenda estratégias de prevenção e de intervenção terapêutica imediata. Dentre as afirmativas descritas abaixo, assinale a alternativa que apresenta orientações e intervenções CORRETAS, de acordo com o PCDT-TV 2022.\nI. Entre as gestantes vivendo com HIV, a atividade sexual durante o terceiro trimestre de gestação não está relacionada à intercorrências como a prematuridade perinatal. Entretanto, independentemente da Carga Viral de HIV, recomenda-se que essas gestantes mantenham o uso de preservativo masculino ou feminino.\nII. Considerando a epidemia de Sífilis no Brasil, recomenda-se iniciar a investigação dessa infecção, realizando-se teste treponêmico, exemplo: teste rápido ou FTA-ABS, os quais são os primeiros testes a ficarem reagentes. Uma vez realizado o tratamento, será considerado sucesso de tratamento quando ocorre a diminuição da titulação do teste não treponêmico em duas diluições em até três meses e quatro diluições em até seis meses.\nIII. A transmissão sexual do vírus Zika não foi cientificamente comprovada, e, por esse motivo, as estratégias de controle do vetor mantêm-se como principal medida de combate à infecção.\nIV. Gestantes expostas ao vírus da Hepatite B (HBV), especialmente no primeiro trimestre de gravidez, por relação sexual ou acidente com material biológico, deverão ser encaminhadas, a fim de que possam receber a imunoglobulina para Hepatite B. Nestes casos, não se recomenda vacinar.\nEstão CORRETAS apenas",
 "alts": [
 "II e IV.",
@@ -51732,6 +51654,2826 @@ window.BANCO=[
 }
 },
 {
+"q": "A habilitação da Iniciativa Hospital Amigo da Criança (IHAC) é considerada uma estratégia de promoção, proteção e apoio ao aleitamento materno e à saúde integral da criança e da mulher, no âmbito do SUS. Para ser certificada, a instituição deve atender ao critério global Cuidado Amigo da Mulher (CAM). Uma prática do CAM é:",
+"alts": [
+"ofertar à mulher, durante o trabalho de parto, líquidos e alimentos leves",
+"estimular o vínculo paterno, agendando horários de visita para o pai do bebê",
+"incentivar os procedimentos invasivos que propiciem um trabalho de parto rápido",
+"garantir à mulher, durante o trabalho de parto, o parto e o pós-parto, um acompanhante do sexo feminino de sua livre escolha"
+],
+"gab": 0,
+"tema": "mulher",
+"sub": "Parto e nascimento",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Portaria GM/MS 1.153/2014 (critérios da IHAC, Cuidado Amigo da Mulher); Diretrizes Nacionais de Assistência ao Parto Normal (MS/CONITEC, 2017)",
+"coment": "A Portaria GM/MS 1.153/2014 redefiniu a habilitação da IHAC e incluiu o critério global Cuidado Amigo da Mulher. Entre as práticas exigidas estão ofertar líquidos e alimentos leves durante o trabalho de parto, garantir acompanhante de livre escolha da mulher, incentivar a movimentação, oferecer métodos não farmacológicos de alívio da dor e evitar procedimentos invasivos sem indicação. A Diretriz de Parto Normal de 2017 também admite dieta leve no trabalho de parto de baixo risco. O erro da alternativa do acompanhante é restringir o sexo: a escolha é livre.",
+"porAlt": [
+"Correta: ofertar líquidos e alimentos leves no trabalho de parto é uma das práticas do Cuidado Amigo da Mulher.",
+"O critério não trata de agendar horários de visita do pai; a presença do acompanhante é garantida, não restrita a horários.",
+"O CAM pede o oposto: reduzir procedimentos invasivos, como amniotomia, episiotomia e aceleração do parto, quando não indicados.",
+"O acompanhante é de livre escolha da mulher, sem exigência de sexo; restringir ao sexo feminino contraria a norma e a Lei 11.108/2005."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 16,
+"parte": "politicas"
+}
+},
+{
+"q": "A Rede Cegonha, instituída no âmbito do SUS, consiste em uma rede de cuidados que visa assegurar à mulher o direito ao planejamento reprodutivo e a atenção humanizada à gravidez, ao parto e ao puerpério, bem como à criança, o direito ao nascimento seguro e ao crescimento e ao desenvolvimento saudáveis. Sabendo que essa rede se organiza a partir de quatro componentes, no componente Parto e Nascimento, é uma ação de atenção à saúde a:",
+"alts": [
+"promoção do aleitamento materno",
+"prevenção e tratamento de doenças sexualmente transmissíveis, AIDS e hepatites",
+"garantia de acompanhante durante o acolhimento e o trabalho de parto, parto e pós-parto imediato",
+"implantação do modelo Vaga Sempre, com a vinculação da gestante ao local de ocorrência do parto"
+],
+"gab": 2,
+"tema": "sus",
+"sub": "Redes de Atenção à Saúde",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Portaria GM/MS 1.459/2011 (Rede Cegonha), art. 7º; Portaria GM/MS 5.350/2024 (Rede Alyne)",
+"coment": "Na Portaria 1.459/2011, o componente Parto e Nascimento reunia suficiência de leitos, ambiência, práticas baseadas em evidência, acolhimento com classificação de risco e garantia de acompanhante no acolhimento, trabalho de parto, parto e pós-parto imediato. Aleitamento era do componente Puerpério e Atenção Integral à Saúde da Criança; prevenção de IST, do Pré-natal; o Vaga Sempre, do Sistema Logístico. Em 2024 a Portaria GM/MS 5.350 transformou a Rede Cegonha na Rede Alyne, com seis componentes, e manteve o acompanhante de livre escolha como diretriz.",
+"porAlt": [
+"A promoção do aleitamento materno pertencia ao componente Puerpério e Atenção Integral à Saúde da Criança.",
+"Prevenção e tratamento de IST, aids e hepatites eram ações do componente Pré-natal.",
+"Correta: a garantia de acompanhante do acolhimento ao pós-parto imediato era ação do componente Parto e Nascimento.",
+"O modelo Vaga Sempre, com vinculação da gestante ao local do parto, estava no componente Sistema Logístico."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 18,
+"parte": "politicas"
+}
+},
+{
+"q": "A Política Nacional de Atenção Integral à Saúde da Mulher (PNAISM) foi elaborada pela área técnica de saúde da mulher do Ministério da Saúde, em 2004, a partir da necessidade de contar com diretrizes técnico-políticas, para a atenção à saúde das mulheres no país. A PNAISM incorpora várias ações, em um enfoque de gênero, assim como a integralidade e a promoção da saúde como princípios norteadores, com o objetivo de:",
+"alts": [
+"promover a atenção obstétrica e neonatal, qualificada e humanizada, incluindo a assistência ao abortamento em condições inseguras, para mulheres adultas e adolescentes",
+"estimular que municípios implementem ações em planejamento familiar para mulheres, adultas e adolescentes, no âmbito da atenção integral à saúde",
+"diminuir a participação e o controle sociais, na definição e implementação das políticas de atenção integral à saúde das mulheres",
+"implantar um modelo de atenção à saúde mental das mulheres, com ênfase nas internações manicomiais"
+],
+"gab": 0,
+"tema": "sus",
+"sub": "Políticas de equidade e populações vulneráveis",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Política Nacional de Atenção Integral à Saúde da Mulher: princípios e diretrizes (MS, 2004), objetivos específicos",
+"coment": "Entre os objetivos específicos da PNAISM (2004) está, com essas palavras, promover a atenção obstétrica e neonatal qualificada e humanizada, incluindo a assistência ao abortamento em condições inseguras, para mulheres e adolescentes. A política tem enfoque de gênero, integralidade e promoção da saúde, e prevê ampliar o controle social. Na alternativa do planejamento familiar, o texto oficial fala em assistência para homens e mulheres, adultos e adolescentes; restringir às mulheres desvirtua o objetivo.",
+"porAlt": [
+"Correta: é objetivo específico literal da PNAISM, incluindo a assistência ao abortamento em condições inseguras.",
+"O objetivo oficial estimula o planejamento familiar para homens e mulheres, adultos e adolescentes, não só para mulheres.",
+"A PNAISM busca ampliar, e não diminuir, a participação e o controle social nas políticas para as mulheres.",
+"O modelo de saúde mental da PNAISM é sob enfoque de gênero e alinhado à reforma psiquiátrica, sem ênfase em internação manicomial."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 19,
+"parte": "politicas"
+}
+},
+{
+"q": "Considerando que todo e qualquer ato de violência contra a mulher configura-se como violação de seus direitos, a Política Nacional de Enfrentamento à Violência Contra as Mulheres (2011) estabelece que, quando a conduta do outro causa dano emocional e diminuição da autoestima da mulher, ou prejuízo e perturbação do pleno desenvolvimento, ou visa degradar ou controlar suas ações, comportamentos, crenças e decisões, tal conduta é definida como violência:",
+"alts": [
+"psicológica",
+"patrimonial",
+"sexual",
+"física"
+],
+"gab": 0,
+"tema": "mulher",
+"sub": "Violência contra a mulher",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Lei 11.340/2006 (Maria da Penha), art. 7º, II; Política Nacional de Enfrentamento à Violência contra as Mulheres (SPM, 2011)",
+"coment": "A Política Nacional de Enfrentamento à Violência contra as Mulheres (2011) adota as formas de violência da Lei Maria da Penha. O art. 7º, II, da Lei 11.340/2006 define violência psicológica como a conduta que cause dano emocional e diminuição da autoestima, prejudique e perturbe o pleno desenvolvimento ou vise degradar ou controlar ações, comportamentos, crenças e decisões, por ameaça, humilhação, manipulação, isolamento ou vigilância. A descrição do enunciado é a definição legal, termo a termo.",
+"porAlt": [
+"Correta: dano emocional, diminuição da autoestima e controle de comportamentos e decisões definem a violência psicológica (art. 7º, II).",
+"Violência patrimonial é retenção, subtração ou destruição de objetos, documentos, bens e recursos econômicos (art. 7º, IV).",
+"Violência sexual é constranger a presenciar, manter ou participar de relação sexual não desejada, ou impedir o uso de contracepção (art. 7º, III).",
+"Violência física é a conduta que ofende a integridade ou a saúde corporal da mulher (art. 7º, I)."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 20,
+"parte": "politicas"
+}
+},
+{
+"q": "A visita domiciliar é um instrumento importante para a troca de informações vinculadas às necessidades particulares de cada família. No caso de nascimento de uma criança, elas são realizadas:",
+"alts": [
+"após a primeira consulta da criança e da administração das vacinas na UBS",
+"sempre no 30º dia de vida, devendo ser combinada após as consultas na UBS",
+"na segunda semana pós-parto. Posteriormente a esse período, a periodicidade deve ser semanal",
+"na primeira semana pós-parto. Posteriormente a esse período, a periodicidade deve ser pactuada com a família"
+],
+"gab": 3,
+"tema": "mulher",
+"sub": "Puerpério e aleitamento",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Cadernos de Atenção Básica nº 33, Saúde da criança: crescimento e desenvolvimento (MS, 2012); Portaria GM/MS 5.350/2024 (Rede Alyne)",
+"coment": "O Caderno de Atenção Básica 33 (2012) orienta a visita domiciliar à puérpera e ao recém-nascido na primeira semana após o parto, momento de maior risco de intercorrências e de dificuldades com a amamentação; depois, a periodicidade é pactuada com a família conforme necessidade e vulnerabilidade. A Rede Alyne (Portaria 5.350/2024) reforçou a regra ao prever visita domiciliar regular até o 7º dia após o parto. Esperar a primeira consulta, o 30º dia ou a segunda semana perde essa janela.",
+"porAlt": [
+"A visita não espera a primeira consulta nem as vacinas: deve ocorrer já na primeira semana após o parto.",
+"O 30º dia é tardio e não há regra de visita fixa nessa data; a primeira semana é a janela de maior risco.",
+"A segunda semana atrasa a visita, e não existe periodicidade semanal obrigatória depois dela.",
+"Correta: a visita ocorre na primeira semana pós-parto, e a periodicidade seguinte é pactuada com a família."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 21,
+"parte": "saude_familia"
+}
+},
+{
+"q": "As estratégias de busca ativa de sintomáticos respiratórios e de rastreamento da tuberculose pulmonar devem ser realizadas em todos os serviços de saúde. Entre as principais etapas para o diagnóstico, na utilização da baciloscopia, está a coleta de:",
+"alts": [
+"duas amostras de escarro, uma no momento da identificação e outra na semana seguinte",
+"três amostras de escarro, uma no momento da identificação e duas na semana seguinte",
+"duas amostras de escarro, uma no momento da identificação e outra no dia seguinte",
+"três amostras de escarro, uma no momento da identificação e duas no dia seguinte"
+],
+"gab": 2,
+"tema": "transmissiveis",
+"sub": "Tuberculose",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r1",
+"base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada (MS, 2019)",
+"coment": "Pelo Manual de Recomendações de 2019, quando a baciloscopia é o exame diagnóstico colhem-se duas amostras de escarro: a primeira no momento da identificação do sintomático respiratório, aproveitando a presença dele na unidade, e a segunda na manhã do dia seguinte, ao despertar. O enfermeiro orienta escarro de profundidade, não saliva, em local ventilado. Onde há teste rápido molecular (TRM-TB), ele é o exame preferencial, e populações vulneráveis fazem também cultura com teste de sensibilidade.",
+"porAlt": [
+"A segunda amostra não espera uma semana: é colhida na manhã do dia seguinte.",
+"São duas amostras, não três, e o intervalo é de um dia, não de uma semana.",
+"Correta: duas amostras, uma no momento da identificação e outra na manhã do dia seguinte.",
+"O esquema de três amostras não é o recomendado; o manual pede duas, com a segunda no dia seguinte."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 22,
+"parte": "saude_familia"
+}
+},
+{
+"q": "Na avaliação inicial de uma pessoa para hipertensão arterial sistêmica (HAS), na Unidade de Atenção Primária, o profissional de saúde deve identificar fatores de risco cardiovascular e lesões de órgão-alvo (LOA). Com relação aos fatores de risco e às LOAs, o profissional dever estar atento, respectivamente, ao(à):",
+"alts": [
+"idade em mulher superior a 55 anos / hipertrofia ventricular esquerda",
+"tabagismo / retinopatia hipertensiva moderada",
+"consumo de álcool / hepatomegalia leve",
+"diabetes mellitus / câncer de mama"
+],
+"gab": 1,
+"tema": "adulto",
+"sub": "Hipertensão e doenças cardiovasculares",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Cadernos de Atenção Básica nº 37, Estratégias para o cuidado da pessoa com doença crônica: hipertensão arterial sistêmica (MS, 2013)",
+"coment": "Na avaliação inicial do hipertenso, o Caderno de Atenção Básica 37 (2013) separa fatores de risco cardiovascular (tabagismo, dislipidemia, diabetes, obesidade, sedentarismo, história familiar, idade acima de 55 anos no homem e de 65 na mulher) de lesões de órgão-alvo e doenças associadas (hipertrofia ventricular esquerda, doença coronariana, AVE, nefropatia, doença arterial periférica e retinopatia hipertensiva). Tabagismo e retinopatia ocupam cada um a sua coluna. A idade de risco na mulher é acima de 65 anos, não de 55.",
+"porAlt": [
+"A HVE é lesão de órgão-alvo, mas a idade de risco na mulher é acima de 65 anos; 55 anos vale para o homem.",
+"Correta: tabagismo é fator de risco cardiovascular e retinopatia hipertensiva é lesão de órgão-alvo.",
+"Hepatomegalia leve não é lesão de órgão-alvo da hipertensão; os órgãos-alvo são coração, cérebro, rins, artérias e retina.",
+"Diabetes é fator de risco, mas câncer de mama não é lesão de órgão-alvo da hipertensão."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 23,
+"parte": "saude_familia"
+}
+},
+{
+"q": "Mulher chega à UBS, com bebê de 30 dias, queixando-se de não visualização da cicatriz vacinal da BCG, que foi realizada há 20 dias na própria unidade. Sobre esse caso, deve-se:",
+"alts": [
+"revacinar imediatamente e marcar retorno em 30 dias para reavaliação",
+"esperar pelo menos 30 dias e, caso a cicatriz não apareça, revacinar",
+"assegurar que a proteção está garantida e não revacinar",
+"encaminhar para Centro de Imunobiológicos Especiais"
+],
+"gab": 2,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), vacina BCG, recomendações sobre revacinação",
+"coment": "A Instrução Normativa do Calendário 2026 diz que crianças vacinadas com BCG na faixa preconizada que não desenvolvem cicatriz não têm recomendação de revacinação. A exceção é a dose inválida identificada no ato da vacinação, como vacina vencida ou dose subterapêutica por extravasamento: aí se monitora a criança por três meses e, sem cicatriz, revacina-se. Além disso, aos 20 dias a cicatriz ainda está em formação, pois a lesão evolui ao longo de semanas. A mãe deve ser tranquilizada e orientada.",
+"porAlt": [
+"Revacinar pela ausência de cicatriz não é recomendado desde que a dose foi válida, e aos 20 dias a lesão ainda evolui.",
+"Esperar e revacinar sem cicatriz também contraria a norma: a ausência de cicatriz não indica revacinação.",
+"Correta: dose válida não se repete pela falta de cicatriz; a proteção é considerada garantida.",
+"Não há indicação de CRIE para ausência de cicatriz vacinal da BCG em criança saudável."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 24,
+"parte": "saude_familia"
+}
+},
+{
+"q": "Pessoa com quadro de sofrimento psíquico, chorosa, procura a UBS. O enfermeiro que a atende deve:",
+"alts": [
+"marcar consulta médica para que este profissional acompanhe o caso e determine a conduta",
+"solicitar que a pessoa volte para casa e aguarde o cadastro do agente comunitário de saúde",
+"criar um ambiente de escuta, já no acolhimento, sendo um dispositivo de vínculo",
+"encaminhar imediatamente para o Centro de Atenção Psicossocial"
+],
+"gab": 2,
+"tema": "mental",
+"sub": "Rede de Atenção Psicossocial",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Cadernos de Atenção Básica nº 34, Saúde mental (MS, 2013); Portaria GM/MS 3.088/2011 (RAPS)",
+"coment": "O Caderno de Atenção Básica 34 (2013) coloca a escuta qualificada no acolhimento como a primeira e principal ferramenta de cuidado em saúde mental na UBS: ela cria vínculo, permite avaliar o risco e define o plano de cuidado da equipe. Sofrimento psíquico comum é acompanhado na própria Atenção Básica, ponto da RAPS (Portaria 3.088/2011). Encaminhar de imediato, mandar embora ou repassar ao médico sem acolher fragmenta o cuidado; o CAPS é para casos graves e persistentes.",
+"porAlt": [
+"O enfermeiro não precisa transferir o caso ao médico: o acolhimento e a escuta são atribuição de toda a equipe.",
+"Mandar a pessoa embora para aguardar cadastro nega acesso e contraria o acolhimento da Atenção Básica.",
+"Correta: criar ambiente de escuta já no acolhimento é dispositivo de vínculo e de cuidado.",
+"Sofrimento psíquico sem gravidade é cuidado na Atenção Básica; o CAPS atende transtornos graves e persistentes."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 25,
+"parte": "saude_familia"
+}
+},
+{
+"q": "O diabete mellitus do tipo 1 (DM1) caracteriza-se pela destruição das células beta pancreáticas, determinando deficiência na secreção de insulina, o que torna essencial o uso desse hormônio como tratamento, para prevenir cetoacidose, coma, eventos micro e macrovasculares e morte. Segundo o “Protocolo Clínico e Diretrizes Terapêuticas do Diabete Mellitus tipo 1” (BRASIL, 2020), é um componente do tratamento do paciente com DM1 a:",
+"alts": [
+"dieta hipossódica",
+"automonitorização glicêmica",
+"participação em grupos de promoção da saúde",
+"consulta médica e de enfermagem realizada regularmente"
+],
+"gab": 1,
+"tema": "adulto",
+"sub": "Diabetes mellitus",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Protocolo Clínico e Diretrizes Terapêuticas do Diabete Melito Tipo 1 (Portaria Conjunta SAES/SCTIE nº 17/2019, publicado em 2020)",
+"coment": "O PCDT do Diabete Melito Tipo 1 lista cinco componentes do tratamento: educação em diabetes, insulinoterapia, automonitorização glicêmica, orientação nutricional e prática monitorada de exercício físico. A automonitorização permite ajustar a dose de insulina às refeições e à atividade e reconhecer hipoglicemia. Consulta regular e grupos são parte da organização do cuidado, mas não estão entre os componentes nomeados; dieta hipossódica é medida da hipertensão, não do DM1.",
+"porAlt": [
+"Dieta hipossódica é medida para hipertensão; no DM1 o componente é a orientação nutricional, com contagem de carboidratos.",
+"Correta: a automonitorização glicêmica é um dos cinco componentes do tratamento do DM1 no PCDT.",
+"Grupos de promoção da saúde ajudam, mas não estão entre os componentes do tratamento listados no PCDT.",
+"O seguimento regular é necessário, mas o PCDT nomeia como componentes educação, insulina, automonitorização, nutrição e exercício."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 26,
+"parte": "saude_familia"
+}
+},
+{
+"q": "Na Atenção Básica, o território representa elemento fundamental para a compreensão do processo saúde e doença e atuação das equipes. Considerando a necessidade de reconhecimento dos riscos à saúde da população de determinado território na Atenção Básica, entende-se que o geoprocessamento é o(a):",
+"alts": [
+"fotografia aérea ou aerofotografia, gerada por imagens do território, que são obtidas remotamente por meio de sensores colocados em aeronaves ou satélites de observação da terra, e apresentam variadas características a depender de sua localização e função",
+"técnica de coleta e processamento de dados espaciais, envolvendo informações coletadas por sensoriamento remoto e sistema de posicionamento global (GPS), entre outras técnicas, e se efetiva nos processos de cadastramento e territorialização, viabilizando o planejamento e organização do trabalho das equipes",
+"processo de vinculação da população à UBS, a partir do registro de dados individuais, sociais, demográficos e de saúde dos indivíduos de determinado território, permitindo conhecer perfil de saúde-doença, composição familiar, condições de habitação, vulnerabilidades sociais, fatores de risco e outros elementos importantes ao cuidado",
+"demarcação geográfica do território de atuação das equipes de saúde através do reconhecimento da área, das características populacionais, da dinâmica social, cultural e econômica e das relações de acesso aos cuidados e serviços de saúde, que permite práticas sanitárias baseadas na compreensão das relações entre ambiente, condições de vida e saúde"
+],
+"gab": 1,
+"tema": "sus",
+"sub": "Política Nacional de Atenção Básica",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Portaria GM/MS 2.436/2017 (PNAB), territorialização e adscrição",
+"coment": "Geoprocessamento é a técnica de coletar e processar dados espaciais, com sensoriamento remoto, GPS e sistemas de informação geográfica, a serviço do cadastramento e da territorialização, para planejar e organizar o trabalho das equipes. As outras alternativas descrevem conceitos vizinhos: a aerofotografia é só uma fonte de imagem; a vinculação da população por cadastro individual é a adscrição; e a demarcação do território com suas dinâmicas sociais e de acesso é a territorialização, diretriz da PNAB (Portaria 2.436/2017).",
+"porAlt": [
+"Descreve a aerofotografia, que é apenas uma das fontes de dados espaciais, não o geoprocessamento.",
+"Correta: geoprocessamento é a coleta e o processamento de dados espaciais (sensoriamento remoto, GPS) aplicados ao cadastramento e à territorialização.",
+"Descreve o cadastramento e a adscrição da população à UBS, não o geoprocessamento.",
+"Descreve a territorialização, diretriz da PNAB que delimita a área e suas dinâmicas sociais e de acesso."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 28,
+"parte": "saude_familia"
+}
+},
+{
+"q": "Na era da desinformação e das notícias falsas, é importante orientar que a vacinação é segura e eficaz no combate de muitas doenças causadas por vírus e bactérias. De acordo com o calendário do Plano Nacional de Imunizações do Ministério da Saúde para as pessoas acima de 60 anos, a vacina contra difteria e tétano (dupla adulto - dT) é realizada em três doses, no esquema:",
+"alts": [
+"0-1-6 meses para idosos que nunca receberam doses ou sem comprovação, e aplicação de reforço, caso haja acidentes com risco elevado para a doença, em intervalo de cinco anos",
+"0-2-4 meses para idosos que nunca receberam doses ou sem comprovação, sendo necessária aplicação de dose única de revacinação, cinco anos após as doses iniciais",
+"0-2-4 meses para idosos que nunca receberam doses ou sem comprovação, e aplicação de reforço a cada dez anos, caso não haja acidentes com risco elevado para a doença",
+"0-1-6 meses para idosos que nunca receberam doses ou sem comprovação, e aplicação de reforço anualmente, considerando o risco elevado para a doença nesse grupo"
+],
+"gab": 2,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), vacina dT",
+"coment": "Pela Instrução Normativa do Calendário 2026, quem tem 7 anos ou mais sem esquema básico completo contra difteria e tétano inicia ou completa 3 doses de dT com intervalo de 60 dias (mínimo de 30 em situações especiais), o que dá o esquema 0, 2 e 4 meses. Depois, um reforço a cada 10 anos, antecipado para 5 anos em caso de exposição a risco de difteria ou tétano, como ferimento de alto risco. A regra vale igualmente para o idoso.",
+"porAlt": [
+"O esquema 0, 1 e 6 meses é o da hepatite B; a dT usa intervalo de 60 dias entre as doses.",
+"Não existe dose única de revacinação cinco anos após o esquema; o reforço de rotina é a cada 10 anos.",
+"Correta: três doses com 60 dias de intervalo e reforço a cada 10 anos, antecipado para 5 anos se houver exposição de risco.",
+"O intervalo está errado e não há reforço anual de dT em idosos; o reforço é decenal."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 29,
+"parte": "saude_familia"
+}
+},
+{
+"q": "Um dos atributos da Atenção Primária em Saúde é a coordenação do cuidado. O artigo de Araújo et al. (2023) destaca três categorias: plano de cuidados, padronização de condutas e comunicação entre pontos de atenção. Sobre a comunicação entre pontos de atenção, os autores afirmam que:",
+"alts": [
+"a articulação da estratégia de Saúde da Família com outros pontos de atenção é fundamental para a coordenação do cuidado",
+"os sistemas informatizados encarecem o processo e não ajudam na comunicação entre os pontos de atenção",
+"a utilização de sistemas informatizados dispensa a necessidade de realizar reuniões de equipe",
+"uma assistência fragmentada facilita a comunicação entre os pontos de atenção"
+],
+"gab": 0,
+"tema": "sus",
+"sub": "Redes de Atenção à Saúde",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Araújo et al., 2023 (coordenação do cuidado na APS); Portaria GM/MS 2.436/2017 (PNAB), diretriz coordenação do cuidado",
+"coment": "A coordenação do cuidado é atributo da APS e diretriz da PNAB (Portaria 2.436/2017): a equipe de Saúde da Família ordena o percurso do usuário e articula os demais pontos da Rede de Atenção à Saúde. Na categoria comunicação entre pontos de atenção, o artigo de Araújo et al. (2023) conclui que essa articulação é fundamental. Sistemas informatizados, como o prontuário eletrônico, facilitam a comunicação e não substituem as reuniões de equipe; fragmentação é justamente o que a coordenação combate.",
+"porAlt": [
+"Correta: a articulação da Saúde da Família com os outros pontos de atenção é o núcleo da coordenação do cuidado.",
+"Sistemas informatizados, como prontuário eletrônico e regulação, facilitam a comunicação entre os pontos de atenção.",
+"A informatização complementa, mas não dispensa as reuniões de equipe e a discussão de casos.",
+"A fragmentação da assistência dificulta a comunicação; superá-la é o objetivo das redes de atenção."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 30,
+"parte": "saude_familia"
+}
+},
+{
+"q": "Apesar de ser amplamente utilizado na rotina das maternidades, o toque vaginal nunca foi adequadamente avaliado em estudos. Nas “Diretrizes Nacionais de Assistência ao Parto Normal” (2017), a recomendação sobre o intervalo, em horas, entre as avaliações da progressão do trabalho de parto por meio do toque vaginal é de:",
+"alts": [
+"1",
+"2",
+"3",
+"4"
+],
+"gab": 3,
+"tema": "mulher",
+"sub": "Parto e nascimento",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Diretrizes Nacionais de Assistência ao Parto Normal (MS/CONITEC, 2017)",
+"coment": "As Diretrizes Nacionais de Assistência ao Parto Normal (2017) recomendam o toque vaginal a cada 4 horas no primeiro período do trabalho de parto, ou antes se houver preocupação com a progressão ou se a mulher desejar, sempre com consentimento e explicação. Toques frequentes aumentam desconforto e risco de infecção sem benefício comprovado. No mesmo período, a ausculta intermitente do BCF é feita a cada 30 minutos no baixo risco, e o partograma marca a linha de ação 4 horas à direita da linha de alerta.",
+"porAlt": [
+"Toque a cada hora é excessivo, desconfortável e aumenta o risco de infecção sem benefício.",
+"Intervalo de 2 horas também é mais frequente que o recomendado pela diretriz de 2017.",
+"Intervalo de 3 horas não é o da diretriz; a recomendação é a cada 4 horas.",
+"Correta: a diretriz de 2017 recomenda o toque vaginal a cada 4 horas no primeiro período."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 31,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "Os exames complementares solicitados durante o acompanhamento pré-natal são muito importantes para a identificação e manejo oportuno das alterações que possam impactar na saúde materna ou fetal. No “Caderno 32: Atenção ao pré-natal de baixo risco” (2012), é recomendado que sejam solicitados exames no primeiro, segundo e terceiro trimestres da gestação. Além de hemograma e glicemia em jejum, os exames que devem ser solicitados no terceiro trimestre de gestação são:",
+"alts": [
+"tipagem sanguínea e fator Rh, Coombs indireto (se for Rh negativo), teste rápido de triagem para sífilis e/ou VDRL/RPR e teste rápido diagnóstico anti-HIV",
+"Coombs indireto (se for Rh negativo), VDRL, Anti-HIV, sorologia para hepatite B (HbsAg) e urocultura + urina tipo I (sumário de urina - SU)",
+"Coombs indireto (se for Rh negativo), anti-HIV, sorologia para hepatite B (HbsAg) e sorologia para hepatite C",
+"VDRL, anti-HIV, sorologia para hepatite B (HbsAg) e teste de tolerância para glicose com 75g"
+],
+"gab": 1,
+"tema": "mulher",
+"sub": "Pré-natal",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Cadernos de Atenção Básica nº 32, Atenção ao pré-natal de baixo risco (MS, 2012); Manual de Gestação de Alto Risco (MS, 2022)",
+"coment": "Pelo Caderno de Atenção Básica 32 (2012), o terceiro trimestre repete hemograma e glicemia de jejum e inclui Coombs indireto se Rh negativo, VDRL, anti-HIV, HBsAg e urocultura com urina tipo I. Tipagem ABO e Rh é exame da primeira consulta, e o TOTG 75 g é feito entre 24 e 28 semanas. Atualizações posteriores, como o Manual de 2022, acrescentaram anti-HCV na primeira consulta e cultura para estreptococo do grupo B entre 36 e 37 semanas, mas a lista do Caderno 32 continua coerente.",
+"porAlt": [
+"Tipagem ABO e fator Rh é exame da primeira consulta, não do terceiro trimestre.",
+"Correta: Coombs indireto se Rh negativo, VDRL, anti-HIV, HBsAg e urocultura com urina tipo I fecham o terceiro trimestre no Caderno 32.",
+"A lista omite a urocultura e a urina tipo I, e o anti-HCV não estava entre os exames de terceiro trimestre do Caderno 32.",
+"O TOTG 75 g é exame de 24 a 28 semanas, e a alternativa omite urocultura e Coombs."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 32,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "Em situações de abortamento, a conduta expectante consiste em aguardar a eliminação espontânea do produto conceptual. As mulheres são orientadas a aguardar que o abortamento se complete pelo período de duas semanas, mas esse período poderá ser ampliado caso não existam sinais de:",
+"alts": [
+"alteração no nível de consciência",
+"edema de membros inferiores",
+"infecção",
+"icterícia"
+],
+"gab": 2,
+"tema": "mulher",
+"sub": "Emergências obstétricas",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Atenção Humanizada ao Abortamento: norma técnica, 2ª ed. (MS, 2011)",
+"coment": "Na conduta expectante do abortamento, a norma técnica Atenção Humanizada ao Abortamento (MS, 2011) orienta aguardar a eliminação espontânea por cerca de duas semanas, prazo que pode ser estendido enquanto a mulher estiver estável e sem sinais de infecção. Febre, dor pélvica, secreção com odor ou sangramento importante indicam esvaziamento uterino, por AMIU, curetagem ou misoprostol. A mulher deve ser orientada sobre esses sinais de alerta e ter acesso ao serviço a qualquer momento.",
+"porAlt": [
+"Alteração do nível de consciência não é o critério que a norma usa para limitar a conduta expectante.",
+"Edema de membros inferiores não está entre os sinais que interrompem a conduta expectante.",
+"Correta: a espera pode ser ampliada desde que não haja sinais de infecção.",
+"Icterícia não é o critério de segurança da conduta expectante no abortamento."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 33,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "Adulta jovem buscou atendimento na UBS devido a corrimento vaginal. Durante a consulta, a usuária relatou uso irregular de preservativo. Ao exame ginecológico, apresentou mucopus, friabilidade e queixou-se de dor à mobilização do colo. Segundo as diretrizes dos “Protocolos da Atenção Básica: Saúde das Mulheres” (2016), a conduta adequada ao caso apresentado é:",
+"alts": [
+"tratar gonorreia e clamídia",
+"realizar teste de Ph ou KOH",
+"avaliar causas fisiológicas não infecciosas",
+"tratar as vaginoses/vulvovaginites mais comuns"
+],
+"gab": 0,
+"tema": "transmissiveis",
+"sub": "Sífilis e outras IST",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Protocolos da Atenção Básica: Saúde das Mulheres (MS, 2016); PCDT para Atenção Integral às Pessoas com IST (MS, 2022)",
+"coment": "Mucopus endocervical, friabilidade do colo e dor à mobilização, em mulher com uso irregular de preservativo, configuram cervicite. A abordagem sindrômica dos Protocolos da Atenção Básica: Saúde das Mulheres (2016) e do PCDT de IST manda tratar gonorreia e clamídia já na consulta, sem esperar exame, convocar e tratar as parcerias e oferecer testagem para HIV, sífilis e hepatites. Dor à mobilização do colo também pede afastar doença inflamatória pélvica. Teste de pH e KOH serve para vaginites.",
+"porAlt": [
+"Correta: cervicite com mucopus e friabilidade se trata para gonorreia e clamídia na abordagem sindrômica.",
+"Teste de pH e KOH orienta vaginose e candidíase, não a conduta na cervicite.",
+"Mucopus, friabilidade e dor à mobilização são achados patológicos, não causa fisiológica.",
+"Tratar vaginoses e vulvovaginites não cobre gonococo e clamídia, agentes da cervicite."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 34,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "O câncer de mama representa a maior causa de morte por câncer nos países em desenvolvimento e, no Brasil, é o segundo tipo de neoplasia mais incidente na população feminina. A recomendação do Ministério da Saúde para o rastreio do câncer de mama é realizar a mamografia:",
+"alts": [
+"anualmente, em mulheres de 40 a 69 anos",
+"anualmente, em mulheres de 50 a 69 anos",
+"a cada dois anos, em mulheres de 40 a 69 anos",
+"a cada dois anos, em mulheres de 50 a 69 anos"
+],
+"gab": 3,
+"tema": "mulher",
+"sub": "Rastreamento do câncer de colo e de mama",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Diretrizes para a Detecção Precoce do Câncer de Mama no Brasil (INCA, 2015); Nota Técnica MS nº 626/2025",
+"coment": "Na data da prova, a recomendação do Ministério da Saúde e do INCA (Diretrizes de 2015) era mamografia de rastreamento a cada dois anos dos 50 aos 69 anos, o que dá a resposta. Atualização: a Nota Técnica nº 626/2025 ampliou o rastreamento bienal para 50 a 74 anos e passou a permitir mamografia sob demanda, com decisão compartilhada, dos 40 aos 49 anos. A periodicidade bienal se manteve; rastreamento anual não é recomendado no SUS. O autoexame não é método de rastreio.",
+"porAlt": [
+"Rastreamento anual a partir dos 40 anos não é a recomendação do SUS; de 40 a 49 anos o exame é sob demanda e decisão compartilhada.",
+"A periodicidade recomendada é bienal, não anual.",
+"A faixa organizada começa aos 50 anos; dos 40 aos 49 o acesso é sob demanda, não rastreamento de rotina.",
+"Correta: mamografia bienal a partir dos 50 anos; hoje a faixa foi estendida até 74 anos (NT 626/2025)."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 35,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "O pós-parto é um momento muito delicado para a mulher, pois envolve o cuidado do bebê e as mudanças físicas e emocionais, no cotidiano e nas relações sociais. Deve-se dar especial atenção às condições psíquicas e sociais da mulher nesse momento, pois é comum surgir ansiedade com a chegada do bebê, o que pode ocasionar sintomas depressivos. O estado depressivo brando, transitório e não incapacitante, associado às mudanças cotidianas, que pode acometer as puérperas é o(a):",
+"alts": [
+"síndrome do ninho vazio",
+"depressão puerperal",
+"psicose puerperal",
+"blues puerperal"
+],
+"gab": 3,
+"tema": "mulher",
+"sub": "Puerpério e aleitamento",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Cadernos de Atenção Básica nº 32, Atenção ao pré-natal de baixo risco (MS, 2012), puerpério",
+"coment": "O blues puerperal (tristeza materna) é um estado depressivo brando e transitório, que surge nos primeiros dias após o parto, com choro fácil, labilidade e ansiedade, e regride espontaneamente em cerca de duas semanas, sem incapacitar a mulher. O cuidado é apoio, escuta e orientação da família. Quando os sintomas persistem, se intensificam ou prejudicam o cuidado do bebê, pensa-se em depressão pós-parto; delírios e desorganização indicam psicose puerperal, emergência psiquiátrica.",
+"porAlt": [
+"Síndrome do ninho vazio é a vivência dos pais quando os filhos saem de casa, sem relação com o puerpério.",
+"Depressão puerperal é mais intensa e duradoura e pode ser incapacitante, o oposto do quadro descrito.",
+"Psicose puerperal é grave, com delírios e alucinações, e exige atendimento de urgência.",
+"Correta: o blues puerperal é brando, transitório e não incapacitante."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 36,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "Existem condições clínicas maternas que necessitam de avaliação quanto à manutenção ou contraindicação do aleitamento materno. A amamentação é contraindicada caso a mãe apresente:",
+"alts": [
+"doença de chagas na fase aguda",
+"infecção pelo vírus da hepatite B",
+"tuberculose pulmonar",
+"hanseníase"
+],
+"gab": 0,
+"tema": "mulher",
+"sub": "Puerpério e aleitamento",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Cadernos de Atenção Básica nº 23, Saúde da criança: aleitamento materno e alimentação complementar (MS, 2015)",
+"coment": "O Caderno de Atenção Básica 23 (2015) lista como contraindicações definitivas a mãe vivendo com HIV ou HTLV, e como situações de interrupção temporária, entre outras, a doença de Chagas na fase aguda ou com sangramento mamilar evidente. Hepatite B não contraindica, porque o recém-nascido recebe vacina e imunoglobulina; tuberculose pulmonar permite amamentar com máscara e tratamento; hanseníase também permite, com higiene e tratamento da mãe. Por isso a fase aguda da doença de Chagas é a resposta.",
+"porAlt": [
+"Correta: a doença de Chagas na fase aguda é situação em que a amamentação deve ser suspensa.",
+"Hepatite B não contraindica: o recém-nascido recebe vacina e imunoglobulina e pode mamar.",
+"Tuberculose pulmonar não contraindica; a mãe amamenta com máscara cirúrgica e em tratamento.",
+"Hanseníase não contraindica a amamentação; a mãe em tratamento mantém cuidados de higiene."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 37,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "O climatério corresponde à transição da mulher do ciclo reprodutivo para o não reprodutivo, que gera mudanças psicossociais, de ordem afetiva, sexual, familiar e ocupacional, que podem afetar a forma como ela vive esse climatério e responde a essas mudanças em sua vida. Entre os planos de cuidados descritos no “Protocolo de Atenção Básica: Saúde da Mulher” (2016), estão as práticas integrativas e complementares, em especial a fitoterapia. O fitoterápico associado ao tratamento dos sintomas do climatério é o(a):",
+"alts": [
+"Plantago",
+"unha-de-gato",
+"cáscara sagrada",
+"isoflavona de soja"
+],
+"gab": 3,
+"tema": "mulher",
+"sub": "Rastreamento do câncer de colo e de mama",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Protocolos da Atenção Básica: Saúde das Mulheres (MS, 2016), climatério; Res. COFEN 739/2024 (PICS)",
+"coment": "Os Protocolos da Atenção Básica: Saúde das Mulheres (2016) trazem, no plano de cuidados do climatério, as práticas integrativas e complementares, e entre os fitoterápicos da RENAME indicados para os sintomas do climatério está a isoflavona de soja (Glycine max), para fogachos. Plantago é laxativo, unha-de-gato é anti-inflamatório e cáscara-sagrada é laxativo. A atuação da enfermagem em PICS está regulamentada pela Res. COFEN 739/2024.",
+"porAlt": [
+"Plantago (psílio) é fitoterápico laxativo, usado na constipação, não nos sintomas do climatério.",
+"Unha-de-gato é fitoterápico anti-inflamatório, sem indicação para os sintomas do climatério.",
+"Cáscara-sagrada é laxativo estimulante, sem indicação no climatério.",
+"Correta: a isoflavona de soja é o fitoterápico indicado para os sintomas vasomotores do climatério."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 39,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "Durante a realização de exame ginecológico para coleta de citopatológico, o enfermeiro detectou um problema que o fez suspender a coleta e prescrever creme de estriol 0,1%, duas vezes por semana por 30 dias. Ao realizar o exame, o profissional detectou:",
+"alts": [
+"cistos de Naboth",
+"pólipos cervicais",
+"colpite atrófica",
+"ectopia"
+],
+"gab": 2,
+"tema": "mulher",
+"sub": "Rastreamento do câncer de colo e de mama",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r2",
+"base": "Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (INCA, 2016); Protocolos da Atenção Básica: Saúde das Mulheres (MS, 2016)",
+"coment": "Colpite atrófica, comum na pós-menopausa por hipoestrogenismo, deixa a mucosa pálida, fina e friável e pode prejudicar a leitura do citopatológico. As Diretrizes do INCA (2016) e os Protocolos da Atenção Básica (2016) admitem estrogenização prévia com creme de estriol 0,1% e nova coleta depois. Cistos de Naboth e ectopia são achados benignos que não exigem tratamento nem impedem a coleta; pólipo cervical pede avaliação e retirada, não estrogênio.",
+"porAlt": [
+"Cistos de Naboth são achado benigno do colo, sem tratamento e sem impedimento à coleta.",
+"Pólipo cervical é encaminhado para exérese e estudo, não tratado com estriol.",
+"Correta: na colpite atrófica, o estriol tópico melhora o trofismo antes da nova coleta.",
+"Ectopia é achado fisiológico frequente, que não impede a coleta e não pede estrogênio."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2024,
+"prova": "Residência Uniprofissional 2025, Enfermagem Obstétrica",
+"n": 40,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "O processo de enfermagem organiza-se em cinco etapas inter-relacionadas, interdependentes e recorrentes. A etapa que determina os resultados que se esperam alcançar e as ações ou intervenções da enfermagem que serão realizadas em virtude das respostas da pessoa, família ou coletividade humana em um dado momento do processo saúde e doença é o(a):",
+"alts": [
+"histórico de Enfermagem",
+"diagnóstico de Enfermagem",
+"planejamento de Enfermagem",
+"implementação dos cuidados de Enfermagem"
+],
+"gab": 2,
+"tema": "sae",
+"sub": "Etapas do Processo de Enfermagem",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução COFEN 736/2024 (revogou a Res. 358/2009), art. 4º",
+"coment": "A definição do enunciado é a do Planejamento de Enfermagem: determinar resultados esperados e as ações ou intervenções a realizar diante das respostas da pessoa, família ou coletividade. Ela vinha da Res. 358/2009 e foi mantida pela Res. COFEN 736/2024, que a revogou. A 736 manteve cinco etapas, mas trocou Histórico por Avaliação de Enfermagem: Avaliação, Diagnóstico, Planejamento (priorização, resultados e prescrição), Implementação e Evolução. Diagnóstico e prescrição seguem privativos do enfermeiro.",
+"porAlt": [
+"O histórico, hoje chamado Avaliação de Enfermagem pela Res. 736/2024, é a coleta de dados, não a definição de resultados e intervenções.",
+"O diagnóstico interpreta os dados e nomeia as respostas humanas, sem ainda definir resultados e intervenções.",
+"Correta: o planejamento define os resultados esperados e as intervenções de enfermagem.",
+"A implementação é a execução das ações já planejadas, não a sua definição."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 1,
+"parte": "etica"
+}
+},
+{
+"q": "Segundo a Resolução COFEN nº 706/2022, para a instrução de um processo ético, é necessária a constituição de uma Câmara de Instrução de Processo Ético (CIPE) que tem como objetivo adotar os procedimentos relativos à instrução do processo e à elaboração do relatório final, descrevendo, na hipótese de infração ética, a conduta do denunciado, com a indicação dos artigos infringidos e pertencentes ao Código de Ética dos Profissionais de Enfermagem. O prazo para conclusão dos trabalhos pela CIPE, em dias, é de:",
+"alts": [
+"30",
+"60",
+"90",
+"120"
+],
+"gab": 3,
+"tema": "etica",
+"sub": "Responsabilidade civil, penal e ética",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Resolução COFEN 706/2022 (Código de Processo Ético), arts. 8º a 10, com alterações da Res. COFEN 758/2024",
+"coment": "Pelo Código de Processo Ético dos Conselhos de Enfermagem (Res. COFEN 706/2022, alterada pela 758/2024), a Câmara de Instrução de Processo Ético (CIPE) é formada por 3 profissionais de categoria igual ou superior à do denunciado e tem 120 dias para concluir os trabalhos, prorrogáveis por igual período (art. 10). Ela instrui e elabora o relatório final com a conduta e os artigos infringidos, mas não indica pena nem absolvição (art. 9º); quem julga é o plenário do Conselho.",
+"porAlt": [
+"30 dias não é o prazo da CIPE; o art. 10 fixa 120 dias, prorrogáveis.",
+"60 dias está abaixo do prazo legal da CIPE, que é de 120 dias.",
+"90 dias também não corresponde ao art. 10 do Código de Processo Ético.",
+"Correta: a CIPE tem 120 dias, prorrogáveis por igual período, para concluir a instrução."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 2,
+"parte": "etica"
+}
+},
+{
+"q": "A Resolução COFEN nº 554/2017 estabelece os critérios norteadores das práticas de uso e de comportamento dos profissionais de enfermagem, em meio de comunicação de massa: mídia impressa, peças publicitárias, mobiliário urbano e mídias sociais. Para efeito dessa resolução, a apresentação em público, de técnicas e métodos científicos que devem limitar-se ao ambiente da enfermagem, é considerada como:",
+"alts": [
+"sensacionalismo",
+"autopromoção",
+"propaganda",
+"anúncio"
+],
+"gab": 0,
+"tema": "etica",
+"sub": "Resoluções do COFEN",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Resolução COFEN 554/2017 (uso de mídias e meios de comunicação pelos profissionais de enfermagem)",
+"coment": "A Res. COFEN 554/2017 define os termos que usa para disciplinar a presença do profissional de enfermagem na mídia. Sensacionalismo inclui a divulgação publicitária exagerada e a apresentação em público de técnicas e métodos científicos que devem se limitar ao ambiente da enfermagem. Autopromoção é usar entrevistas, informações e publicações para angariar clientela ou obter vantagem; propaganda e anúncio dizem respeito à divulgação de serviços. O enunciado reproduz a definição de sensacionalismo.",
+"porAlt": [
+"Correta: expor ao público técnicas que devem ficar no ambiente da enfermagem é sensacionalismo pela Res. 554/2017.",
+"Autopromoção é usar a mídia para angariar clientela ou vantagem pessoal, não a exibição de técnicas.",
+"Propaganda é a divulgação de serviços ou produtos, conceito diferente do descrito.",
+"Anúncio é a comunicação pública de serviços do profissional, não a exibição de técnicas restritas."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 3,
+"parte": "etica"
+}
+},
+{
+"q": "A Resolução COFEN nº 690/2022 normatiza a atuação do enfermeiro no Planejamento Familiar e Reprodutivo e define como competência desse profissional:",
+"alts": [
+"registrar os achados do exame físico, as decisões pactuadas e a identificação do profissional da Central de Regulação das Urgências com o qual tais decisões foram pactuadas",
+"participar no processo de avaliação, escolha, indicação e implementação de novos métodos e tecnologias para a concepção e contracepção",
+"emitir receitas e solicitação de exames a distância, conforme protocolo institucional, observando a Lei do Exercício Profissional da Enfermagem",
+"realizar somente as consultas de Planejamento Familiar para garantir acesso igualitário a informações"
+],
+"gab": 1,
+"tema": "etica",
+"sub": "Resoluções do COFEN",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Resolução COFEN 690/2022 (planejamento familiar e reprodutivo), anexo atualizado pela Res. COFEN 802/2026",
+"coment": "A Res. COFEN 690/2022 normatiza a atuação do enfermeiro no planejamento familiar e reprodutivo e inclui, entre as competências, participar da avaliação, escolha, indicação e implementação de novos métodos e tecnologias de concepção e contracepção, além da consulta de enfermagem, solicitação de exames e prescrição de métodos conforme protocolo. A Res. COFEN 802/2026 substituiu o anexo da 690, mantendo o enfermeiro como responsável pela consulta sobre concepção e contracepção.",
+"porAlt": [
+"Pactuar decisões com a Central de Regulação das Urgências pertence a outra norma, não à de planejamento familiar.",
+"Correta: participar da avaliação, escolha e implementação de novos métodos de concepção e contracepção é competência prevista na Res. 690/2022.",
+"Emissão de receitas a distância é tema da telenfermagem, não a competência descrita na Res. 690/2022.",
+"O enfermeiro não faz somente consultas: também solicita exames, prescreve e administra métodos, e participa da gestão das tecnologias."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 4,
+"parte": "etica"
+}
+},
+{
+"q": "Segundo a Resolução COFEN nº 588/2018, na atuação da equipe de enfermagem no processo de transporte seguro de pacientes em ambiente interno aos serviços de saúde, incumbe ao enfermeiro da unidade de origem:",
+"alts": [
+"comunicar à equipe médica toda e qualquer intercorrência ou complicação ocorrida, assim como proceder com o registro no prontuário",
+"prestar assistência de enfermagem durante o transporte do paciente, considerando a legislação em vigor",
+"prever necessidade de vigilância e intervenção terapêutica durante o transporte",
+"auxiliar a equipe de enfermagem no transporte de clientes de baixo risco"
+],
+"gab": 2,
+"tema": "etica",
+"sub": "Resoluções do COFEN",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r2",
+"base": "Resolução COFEN 588/2018 (transporte de pacientes em ambiente interno), anexo",
+"coment": "A Res. COFEN 588/2018 divide as tarefas do transporte intra-hospitalar. Ao enfermeiro da unidade de origem cabe o planejamento: avaliar o estado geral, antecipar instabilidades, conferir equipamentos, prever a necessidade de vigilância e de intervenção terapêutica durante o transporte, avaliar trajeto e tempo, escolher o meio e definir quem acompanha. Prestar assistência durante o trajeto e comunicar intercorrências ficam com o profissional que acompanha o paciente, conforme o risco.",
+"porAlt": [
+"Comunicar intercorrências do trajeto e registrar cabe ao profissional que acompanhou o transporte, não é a incumbência de planejamento da origem.",
+"Prestar assistência durante o transporte é tarefa de quem acompanha o paciente, definida conforme o risco.",
+"Correta: prever a necessidade de vigilância e intervenção terapêutica durante o transporte é incumbência do enfermeiro da unidade de origem.",
+"Auxiliar no transporte de baixo risco não é atribuição do enfermeiro de origem; esse transporte pode ser feito pela equipe técnica."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 5,
+"parte": "etica"
+}
+},
+{
+"q": "A Atenção Básica é o contato preferencial dos usuários na rede de atenção à saúde e orienta-se pelos princípios e diretrizes do SUS, a partir dos quais assume funções e características específicas no processo de trabalho das equipes. Em relação ao território no processo de trabalho na Política Nacional da Atenção Básica, é correto afirmar que a:",
+"alts": [
+"territorialização deve ser refeita ou complementada sempre que necessário, já que o território é vivo, mas o usuário não pode ser atendido fora de sua área de cobertura. Portanto, ele deve ser encaminhado de acordo com a necessidade e conformação de cada território, mantendo o diálogo e a informação com a equipe de referência",
+"integração entre as ações de Atenção Básica e Vigilância em Saúde deve ocorrer em um território no qual o agente de combate às endemias trabalhe com o agente comunitário de saúde (ACS) e demais membros da equipe, na identificação das necessidades de saúde e no planejamento das ações clínicas e sanitárias",
+"gestão deve definir o território de responsabilidade de cada equipe e programar as ações de acordo com o perfil e as necessidades da comunidade, considerando, para a cartografia, elementos ambientais, históricos, demográficos, geográficos, econômicos, sanitários, sociais, culturais, entre outros",
+"Promoção da Saúde e a Epidemiologia Clínica na territorialização são os referenciais essenciais para a identificação da rede de causalidades e dos elementos que determinam o processo saúde-doença e o planejamento das estratégias de intervenção"
+],
+"gab": 1,
+"tema": "sus",
+"sub": "Política Nacional de Atenção Básica",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo, territorialização e integração com a Vigilância em Saúde",
+"coment": "A PNAB (Portaria 2.436/2017) recomenda território único para Atenção Básica e Vigilância em Saúde, com o agente de combate às endemias trabalhando junto ao ACS e à equipe na identificação de necessidades e no planejamento das ações. O texto também diz que o usuário pode ser atendido fora da sua área de cobertura. Na alternativa da gestão, a PNAB atribui à gestão definir o território de cada equipe, mas é a equipe que conhece o território e programa as ações; a troca de sujeito torna a frase incorreta.",
+"porAlt": [
+"A PNAB permite atender o usuário fora da área de cobertura; não há vedação.",
+"Correta: a PNAB recomenda território único e trabalho conjunto do ACE com o ACS e a equipe.",
+"Cabe à gestão definir o território, mas a programação das ações pelo perfil da comunidade é da equipe, não da gestão.",
+"Os referenciais citados pela PNAB para a territorialização não se resumem a Promoção da Saúde e Epidemiologia Clínica."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 6,
+"parte": "sus"
+}
+},
+{
+"q": "As ações e serviços de saúde são executados pelo SUS, seja diretamente ou mediante participação complementar da iniciativa privada. Com relação à participação da iniciativa privada no SUS, a lei nº 8.080/1990 afirma que:",
+"alts": [
+"ela ocorre quando a gestão pública da rede de serviços não garante a qualidade assistencial à população de uma determinada área",
+"a participação complementar dos serviços privados é formalizada mediante contrato ou convênio, observadas as normas de direito privado",
+"ela ocorre quando as disponibilidades de serviços do SUS são insuficientes para garantir cobertura assistencial à população de uma determinada área",
+"os critérios e valores para remuneração de serviços e os parâmetros de cobertura são estabelecidos pelos secretários municipais e estaduais de saúde"
+],
+"gab": 2,
+"tema": "sus",
+"sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Lei 8.080/1990, arts. 24 a 26",
+"coment": "O art. 24 da Lei 8.080/1990 autoriza o SUS a recorrer aos serviços privados quando suas disponibilidades forem insuficientes para garantir a cobertura assistencial à população de uma área. O parágrafo único exige contrato ou convênio, observadas as normas de direito público, e não privado. Pelo art. 26, critérios e valores de remuneração e parâmetros de cobertura são estabelecidos pela direção nacional do SUS e aprovados no Conselho Nacional de Saúde. Entidades filantrópicas e sem fins lucrativos têm preferência (art. 25).",
+"porAlt": [
+"O critério legal é a insuficiência de serviços do SUS, não uma avaliação da qualidade da gestão pública.",
+"O contrato ou convênio observa normas de direito público, não de direito privado (art. 24, parágrafo único).",
+"Correta: a participação complementar ocorre quando as disponibilidades do SUS são insuficientes (art. 24).",
+"Critérios e valores de remuneração são da direção nacional do SUS, aprovados no Conselho Nacional de Saúde (art. 26)."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 7,
+"parte": "sus"
+}
+},
+{
+"q": "O SUS se constitui de ações e serviços de promoção, proteção e recuperação da saúde e é organizado de forma regionalizada e hierarquizada. Sobre a organização do SUS, as Regiões de Saúde são:",
+"alts": [
+"compostas por territórios com características semelhantes no âmbito de um Município, articulados em um Distrito Sanitário pelo ente federativo municipal",
+"instituídas pelo Estado, em articulação com os Municípios, respeitadas as diretrizes gerais pactuadas na Comissão Intergestores Tripartite (CIT)",
+"compreendidas no âmbito de um Município, em consonância com diretrizes pactuadas nos Conselhos Municipais de Saúde",
+"compreendidas no âmbito de um Estado, em consonância com diretrizes pactuadas nos Conselhos Estaduais de Saúde"
+],
+"gab": 1,
+"tema": "sus",
+"sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Decreto 7.508/2011, arts. 2º, I, e 4º",
+"coment": "O Decreto 7.508/2011 define a Região de Saúde como espaço geográfico contínuo de municípios limítrofes, delimitado por identidades culturais, econômicas e sociais e por redes de comunicação e transporte compartilhadas (art. 2º, I). O art. 4º diz que ela é instituída pelo Estado, em articulação com os Municípios, respeitadas as diretrizes gerais pactuadas na Comissão Intergestores Tripartite. Região de Saúde não cabe dentro de um único município, e a pactuação é entre gestores, não nos conselhos.",
+"porAlt": [
+"Região de Saúde reúne municípios limítrofes; território dentro de um só município é distrito sanitário.",
+"Correta: é instituída pelo Estado, em articulação com os Municípios, respeitadas as diretrizes da CIT (art. 4º).",
+"A região não se restringe a um município, e as diretrizes são pactuadas na CIT, não no Conselho Municipal.",
+"As diretrizes vêm da CIT, instância de gestores; conselhos estaduais não pactuam a regionalização."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 8,
+"parte": "sus"
+}
+},
+{
+"q": "Considerando as conferências e os conselhos de saúde como a concretização da participação da comunidade no SUS, cabe aos Conselhos Municipais de Saúde:",
+"alts": [
+"gerir e executar os serviços públicos de saúde",
+"planejar, organizar, controlar e avaliar as ações e os serviços de saúde",
+"administrar os recursos orçamentários e financeiros destinados, em cada ano, à saúde",
+"definir e deliberar sobre as diretrizes para elaboração e revisão de conteúdo dos planos de saúde"
+],
+"gab": 3,
+"tema": "sus",
+"sub": "Lei 8.142/1990 e controle social",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução CNS 453/2012, quinta diretriz; Lei 8.142/1990, art. 1º, § 2º",
+"coment": "O conselho de saúde é órgão colegiado permanente e deliberativo que atua na formulação de estratégias e no controle da execução da política de saúde (Lei 8.142/1990, art. 1º, § 2º). A Resolução CNS 453/2012, na quinta diretriz, dá aos conselhos a competência de definir diretrizes para a elaboração dos planos de saúde e deliberar sobre o seu conteúdo. Gerir, executar, planejar, organizar e administrar recursos são funções do gestor, por meio da secretaria e do fundo de saúde; o conselho fiscaliza.",
+"porAlt": [
+"Gerir e executar serviços é função do gestor municipal; o conselho formula e controla, não executa.",
+"Planejar, organizar, controlar e avaliar ações e serviços é atribuição da direção municipal do SUS (Lei 8.080, art. 18).",
+"A administração dos recursos é do gestor, via fundo de saúde; o conselho acompanha e fiscaliza.",
+"Correta: compete ao conselho definir diretrizes para os planos de saúde e deliberar sobre o seu conteúdo (Res. CNS 453/2012)."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 9,
+"parte": "sus"
+}
+},
+{
+"q": "O atendimento aos usuários com quadros agudos deve ser prestado por todas as portas de entrada dos serviços de saúde do SUS, dentro de um sistema hierarquizado e regulado, organizado em redes regionais de atenção às urgências. Entre outros componentes, a Rede de Atenção às Urgências é constituída por:",
+"alts": [
+"Atenção Básica em Saúde; Promoção, Prevenção e Vigilância à Saúde; e Atenção Domiciliar",
+"Ambulatório Especializado; Atenção Básica em Saúde; Unidades de Pronto Atendimento (UPA); e serviços de urgência 24 horas",
+"Serviço de Atendimento Móvel de Urgência (SAMU); Centrais de Regulação Médica das Urgências; Sala de Estabilização; e Atenção Especializada",
+"Serviço de Atendimento Móvel de Urgência (SAMU); Serviço de Regulação Estadual de Saúde; Reabilitação; e Força Nacional de Saúde do SUS"
+],
+"gab": 0,
+"tema": "sus",
+"sub": "Redes de Atenção à Saúde",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Portaria GM/MS 1.600/2011 (Rede de Atenção às Urgências), art. 4º, consolidada na Portaria de Consolidação nº 3/2017",
+"coment": "A Portaria 1.600/2011, hoje na Portaria de Consolidação nº 3/2017, lista os componentes da Rede de Atenção às Urgências: Promoção, Prevenção e Vigilância à Saúde; Atenção Básica em Saúde; SAMU 192 e suas Centrais de Regulação Médica das Urgências; Sala de Estabilização; Força Nacional de Saúde do SUS; UPA 24h e o conjunto de serviços de urgência 24 horas; Hospitalar; e Atenção Domiciliar. Só a primeira alternativa traz apenas componentes da lista.",
+"porAlt": [
+"Correta: Atenção Básica, Promoção, Prevenção e Vigilância e Atenção Domiciliar são componentes da Rede de Atenção às Urgências.",
+"Ambulatório Especializado não é componente da rede de urgências.",
+"Atenção Especializada não figura entre os componentes; o componente é o Hospitalar.",
+"Serviço de Regulação Estadual e Reabilitação não são componentes; a regulação que integra a rede é a Central de Regulação Médica das Urgências."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 11,
+"parte": "politicas"
+}
+},
+{
+"q": "A população negra é sujeita a maiores processos de vulnerabilização social e econômica, com efeitos demonstrados em menor expectativa de vida e maior suscetibilidade a agravos. Com relação à Política Nacional de Saúde Integral da População Negra, NÃO é uma estratégia de gestão o(a):",
+"alts": [
+"garantia da implementação das diretrizes para atenção à saúde dos adolescentes em conflito com a lei, em regime de internação e internação provisória, a respeito da promoção da equidade",
+"elaboração de materiais educativos sobre a saúde da população negra, considerando os diversos saberes e valores culturais de matriz africana, exceto aqueles relacionados a aspectos religiosos",
+"implantação e implementação dos Núcleos de Prevenção à Violência e Promoção da Saúde, para reduzir a vulnerabilidade de jovens negros à morte, traumas ou incapacitação por causas externas",
+"fortalecimento da atenção à saúde mental da população negra, para qualificação da assistência no acompanhamento ao longo dos ciclos de vida e na prevenção dos agravos relacionados à discriminação racial e exclusão social"
+],
+"gab": 1,
+"tema": "sus",
+"sub": "Políticas de equidade e populações vulneráveis",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Portaria GM/MS 992/2009 (Política Nacional de Saúde Integral da População Negra), estratégias de gestão",
+"coment": "A Política Nacional de Saúde Integral da População Negra (Portaria 992/2009) reconhece o racismo, inclusive o institucional, como determinante social da saúde e valoriza os saberes e práticas populares, inclusive os preservados pelas religiões de matriz africana. Por isso a alternativa que exclui os aspectos religiosos dos materiais educativos contraria a política e não é estratégia de gestão. Saúde dos adolescentes em conflito com a lei, núcleos de prevenção à violência e saúde mental constam entre as estratégias.",
+"porAlt": [
+"É estratégia da política garantir as diretrizes de atenção aos adolescentes em conflito com a lei, com foco na equidade.",
+"Correta: a política valoriza os saberes das religiões de matriz africana, e excluí-los dos materiais educativos não é estratégia dela.",
+"Os Núcleos de Prevenção à Violência para reduzir a vulnerabilidade de jovens negros estão entre as estratégias.",
+"Fortalecer a saúde mental da população negra, prevenindo agravos ligados ao racismo, é estratégia da política."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 12,
+"parte": "politicas"
+}
+},
+{
+"q": "Centrar o cuidado na pessoa envolve respeito e responsividade às preferências, às necessidades e aos valores individuais dos pacientes para tomada de decisões clínicas. Com o desenvolvimento técnico-científico, a prestação dos cuidados em saúde passa a ser mais complexa e efetiva, mas com risco aumentado de dano. Entre os objetivos da segurança do paciente está a redução do near miss, que é um incidente que:",
+"alts": [
+"não atinge o paciente",
+"resulta em dano ao paciente",
+"atinge o paciente, mas não causa dano",
+"apresenta potencial dano ou lesão ao paciente"
+],
+"gab": 0,
+"tema": "seguranca",
+"sub": "Notificação de incidentes",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r1",
+"base": "Documento de referência para o Programa Nacional de Segurança do Paciente (MS, 2014); Portaria GM/MS 529/2013",
+"coment": "A classificação internacional da OMS, adotada no Documento de Referência do PNSP (2014), separa os incidentes pelo desfecho. Near miss é o incidente que não atingiu o paciente, como a medicação errada interceptada antes da administração. Incidente sem dano atingiu o paciente sem causar dano; evento adverso resultou em dano; circunstância notificável é a situação com potencial de dano sem que tenha havido incidente. Reduzir near miss e aprender com eles é objetivo do PNSP (Portaria 529/2013).",
+"porAlt": [
+"Correta: near miss é o incidente que não atingiu o paciente.",
+"Incidente que resulta em dano ao paciente é evento adverso.",
+"Incidente que atinge o paciente sem causar dano é o incidente sem dano.",
+"Situação com potencial de dano, sem incidente, é a circunstância notificável."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 14,
+"parte": "politicas"
+}
+},
+{
+"q": "A avaliação neurológica simplificada (ANS) é um exame obrigatório para monitorar a função neural da pessoa acometida pela hanseníase. Durante a realização de uma ANS, a enfermeira verificou lagoftalmo, ectrópio e triquíase. No caso do paciente examinado, a classificação do grau de incapacidade física é:",
+"alts": [
+"0",
+"1",
+"2",
+"3"
+],
+"gab": 2,
+"tema": "transmissiveis",
+"sub": "Hanseníase",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Protocolo Clínico e Diretrizes Terapêuticas da Hanseníase (MS, 2022), grau de incapacidade física",
+"coment": "Pelo PCDT da Hanseníase (2022), o grau de incapacidade física vai de 0 a 2. Grau 0 é ausência de problema nos olhos, mãos e pés; grau 1 é perda da sensibilidade protetora ou da força sem deformidade visível; grau 2 é deformidade visível ou cegueira. Nos olhos, lagoftalmo, ectrópio, triquíase, opacidade corneana central ou acuidade visual menor que 0,1 classificam como grau 2. Grau 3 não existe na escala.",
+"porAlt": [
+"Grau 0 exige ausência de problema nos olhos, mãos e pés, o que não é o caso.",
+"Grau 1 é perda de sensibilidade ou força sem deformidade visível; lagoftalmo e triquíase são visíveis.",
+"Correta: lagoftalmo, ectrópio e triquíase são deformidades visíveis e classificam o grau 2.",
+"A escala de incapacidade física da hanseníase vai de 0 a 2; não existe grau 3."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 15,
+"parte": "politicas"
+}
+},
+{
+"q": "A garantia ao atendimento à saúde é uma prerrogativa de todos os brasileiros, respeitando especificidades de gênero, raça/etnia, geração, orientação e práticas afetivas e sexuais. A Política Nacional de Saúde Integral LGBT é uma iniciativa para a construção de mais equidade no SUS e foi constituída a partir da(o):",
+"alts": [
+"16ª Conferência Nacional de Saúde, de 2019, acerca da inclusão da orientação sexual e da identidade de gênero na análise da determinação social da saúde",
+"Programa Mais Saúde – Direito de Todos, lançado em 2008, com o objetivo de ampliar o acesso a ações e serviços de qualidade",
+"Programa Mais Médicos, lançado em 2013, com o objetivo de ampliar o acesso a ações médicas e serviços de qualidade",
+"Política Nacional de Atenção Básica à Saúde, de 2017, a fim de garantir serviços de saúde específicos e de qualidade"
+],
+"gab": 1,
+"tema": "sus",
+"sub": "Políticas de equidade e populações vulneráveis",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Portaria GM/MS 2.836/2011 (Política Nacional de Saúde Integral LGBT)",
+"coment": "O texto da Política Nacional de Saúde Integral de Lésbicas, Gays, Bissexuais, Travestis e Transexuais, instituída pela Portaria 2.836/2011, informa que ela foi constituída a partir do Programa Mais Saúde: Direito de Todos, lançado em 2008, que previa ações para a população LGBT. A 13ª Conferência Nacional de Saúde (2007) também incluiu orientação sexual e identidade de gênero na determinação social da saúde. As alternativas com 2013, 2017 e 2019 são posteriores à própria política.",
+"porAlt": [
+"A 16ª Conferência é de 2019, oito anos depois da política, que é de 2011.",
+"Correta: a política foi constituída a partir do Programa Mais Saúde: Direito de Todos, de 2008.",
+"O Programa Mais Médicos, de 2013, é posterior à política e trata de provimento médico.",
+"A PNAB de 2017 é posterior à política LGBT e não a originou."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 16,
+"parte": "politicas"
+}
+},
+{
+"q": "Sobre a tuberculose (TB) na população em situação de rua, estima-se que se trate de um grave problema de saúde, sempre com elevada taxa de incidência e de abandono do tratamento, apresentando vários fatores que dificultam o tratamento continuado. Com relação à TB, as equipes de Consultório na Rua têm como uma ação específica:",
+"alts": [
+"envolver o maior número possível de atores sociais e de instituições governamentais e não governamentais, em todas as fases da detecção ao tratamento, buscando parcerias",
+"atender exclusivamente todas as pessoas em situação de rua, devido à elevada taxa de incidência da doença, podendo prestar apoio às demais equipes de saúde",
+"definir as unidades de saúde que serão referência para o atendimento, estabelecendo um fluxo com fixação de horários e dias de atendimento específicos",
+"realizar o tratamento diretamente observado (TDO) de toda pessoa com diagnóstico localizada nos abrigos, albergues ou casas de acolhida"
+],
+"gab": 0,
+"tema": "transmissiveis",
+"sub": "Tuberculose",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada (MS, 2019), população em situação de rua",
+"coment": "O Manual de Recomendações de 2019 trata a população em situação de rua como grupo vulnerável, com alta incidência e abandono. Para as equipes de Consultório na Rua, a ação específica é articular o maior número de atores sociais e instituições, governamentais e não governamentais, em todas as fases da detecção ao tratamento, pois moradia, alimentação e assistência social pesam na adesão. Definir unidades de referência e fluxos é tarefa da gestão; o TDO é para todos, onde a pessoa estiver.",
+"porAlt": [
+"Correta: envolver atores sociais e instituições em parceria, da detecção ao tratamento, é a ação específica do Consultório na Rua.",
+"O Consultório na Rua não atua de forma exclusiva; o cuidado é compartilhado com as demais equipes da Atenção Básica.",
+"Definir unidades de referência e fixar fluxos é atribuição da gestão, não ação específica da equipe.",
+"O TDO é ofertado a toda pessoa em tratamento, onde ela estiver, e não só a quem está em abrigos e albergues."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 17,
+"parte": "politicas"
+}
+},
+{
+"q": "Segundo o Programa de Controle da Tuberculose, a prova tuberculínica (PT) é indicada para identificar casos de:",
+"alts": [
+"TB ativa em adultos HIV positivo e auxiliar no diagnóstico de TB ativa em crianças",
+"infecção latente pelo M. tuberculosis em adultos e crianças e auxiliar no diagnóstico de TB ativa em crianças",
+"TB ativa em todos os trabalhadores no momento da admissão e do retorno ao trabalho ou de mudança de riscos ocupacionais",
+"infecção latente pelo M. tuberculosis em pessoas que vivem em locais de longa permanência e na população privada de liberdade"
+],
+"gab": 1,
+"tema": "transmissiveis",
+"sub": "Tuberculose",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada (MS, 2019)",
+"coment": "O Manual de Recomendações de 2019 indica a prova tuberculínica (PT) para diagnosticar infecção latente pelo M. tuberculosis (ILTB) em adultos e crianças e para auxiliar o diagnóstico de tuberculose ativa em crianças, no sistema de pontuação. No adulto, PT reagente não confirma doença ativa, cujo diagnóstico é bacteriológico (TRM-TB, baciloscopia, cultura). O IGRA é alternativa à PT para ILTB. Antes de tratar ILTB, sempre se exclui doença ativa.",
+"porAlt": [
+"No adulto com HIV, a doença ativa se diagnostica por exame bacteriológico; a PT investiga infecção latente.",
+"Correta: a PT identifica ILTB em adultos e crianças e auxilia o diagnóstico de TB ativa em crianças.",
+"A PT não diagnostica TB ativa em trabalhadores; nesse contexto ela rastreia infecção latente.",
+"A PT para ILTB não se limita a instituições de longa permanência e prisões, e a alternativa omite seu uso em crianças."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 18,
+"parte": "politicas"
+}
+},
+{
+"q": "A Política Nacional de Enfrentamento à Violência contra as Mulheres possui quatro eixos estruturantes. O eixo que garante o cumprimento da legislação nacional/internacional e das iniciativas para o empoderamento das mulheres é:",
+"alts": [
+"combate",
+"prevenção",
+"assistência",
+"garantia de direitos"
+],
+"gab": 3,
+"tema": "mulher",
+"sub": "Violência contra a mulher",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Política Nacional de Enfrentamento à Violência contra as Mulheres (SPM/PR, 2011), eixos estruturantes",
+"coment": "A Política Nacional de Enfrentamento à Violência contra as Mulheres (2011) tem quatro eixos: prevenção, que busca desconstruir estereótipos e mudar padrões culturais; combate, que responsabiliza o agressor e aplica a Lei Maria da Penha; assistência, que estrutura a rede de atendimento; e garantia de direitos, que assegura o cumprimento da legislação nacional e internacional e as iniciativas de empoderamento das mulheres. O enunciado descreve este último.",
+"porAlt": [
+"O eixo de combate trata da punição e responsabilização dos agressores e da aplicação da Lei Maria da Penha.",
+"O eixo de prevenção atua sobre os padrões culturais e estereótipos que sustentam a violência.",
+"O eixo de assistência estrutura a rede de atendimento e capacita os profissionais.",
+"Correta: garantia de direitos assegura o cumprimento da legislação e as iniciativas de empoderamento das mulheres."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 19,
+"parte": "politicas"
+}
+},
+{
+"q": "O profissional de saúde das Unidades Básicas de Saúde (UBS) deve identificar sinais de perigo à saúde da criança durante as visitas domiciliares. O encaminhamento com urgência de criança menor de dois meses, para serviço de referência, deve ser realizado no caso de:",
+"alts": [
+"secreção purulenta do ouvido, umbigo hiperemiado, pústulas na pele e/ou atraso vacinal",
+"sinais de depressão materna pós-parto, gemidos, fontanela abaulada e/ou vômitos importantes",
+"recusa alimentar, vômitos importantes, convulsões e/ou frequência cardíaca abaixo de 100bpm",
+"tiragem subcostal, tosse, batimentos de asas do nariz e/ou frequência cardíaca abaixo de 100bpm"
+],
+"gab": 2,
+"tema": "crianca",
+"sub": "AIDPI e doenças prevalentes",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Cadernos de Atenção Básica nº 33, Saúde da criança: crescimento e desenvolvimento (MS, 2012), sinais de perigo na criança menor de 2 meses",
+"coment": "O Caderno de Atenção Básica 33 (2012) lista os sinais de perigo que exigem encaminhamento urgente da criança menor de 2 meses: recusa alimentar, vômitos importantes, convulsões ou apneia, FC abaixo de 100 bpm, letargia, respiração acima de 60 por minuto, tiragem subcostal, batimento de asas do nariz, febre ou hipotermia, gemidos, fontanela abaulada, secreção purulenta do ouvido, onfalite e pústulas extensas. Só a alternativa correta traz apenas sinais da lista.",
+"porAlt": [
+"Atraso vacinal não é sinal de perigo que exija urgência; deve ser corrigido, mas não justifica encaminhamento urgente.",
+"Depressão materna pede cuidado da mãe, mas não é sinal de perigo da criança para encaminhamento urgente.",
+"Correta: recusa alimentar, vômitos importantes, convulsões e FC abaixo de 100 bpm são sinais de perigo no menor de 2 meses.",
+"Tosse isolada não é sinal de perigo; tiragem subcostal, batimento de asas e bradicardia, sim."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 21,
+"parte": "saude_familia"
+}
+},
+{
+"q": "A vacina adsorvida difteria, tétano, pertussis, hepatite B (recombinante) e Haemophilus influenza b (conjugada), também conhecida como Pentavalente (Penta), é indicada como dose do esquema básico para a vacinação de crianças. Sobre a administração da Penta, recomenda-se que:",
+"alts": [
+"o esquema correspondente a três doses seja aplicado aos dois, quatro e seis meses, sendo necessárias doses de reforço com a vacina adsorvida difteria, tétano e pertussis (DTP), aos 12 meses e quatro anos",
+"antes de aspirar cada dose, devem-se fazer movimentos rotatórios em sentido único com o frasco da vacina, para homogeneização, evitando eventos adversos locais e mais intensos",
+"após a retirada da seringa e agulha do local de aplicação, deve-se fazer suave compressão com algodão embebido a álcool 70%, no local da administração da vacina, por 30 segundos",
+"caso utilize frasco multidose da vacina, após aberto, o conteúdo pode ser usado por um prazo estabelecido de até 6 horas, devendo ser descartada a sobra da vacina"
+],
+"gab": 1,
+"tema": "imuniza",
+"sub": "Técnica de aplicação",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r1",
+"base": "Manual de Normas e Procedimentos para Vacinação (MS, 2014); Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), vacina penta",
+"coment": "A penta é suspensão adsorvida em alumínio, e o Manual de Normas e Procedimentos para Vacinação (2014) orienta homogeneizar o frasco com movimentos rotatórios em sentido único antes de aspirar cada dose, para distribuir o adjuvante e evitar reações locais mais intensas. Pela IN do Calendário 2026, o esquema é aos 2, 4 e 6 meses, com reforços de DTP aos 15 meses e aos 4 anos, não aos 12 meses. Após a injeção intramuscular, comprime-se o local com algodão seco, sem álcool.",
+"porAlt": [
+"Os reforços com DTP são aos 15 meses e aos 4 anos, não aos 12 meses (IN do Calendário 2026).",
+"Correta: homogeneizar com movimentos rotatórios em sentido único antes de aspirar cada dose evita reação local mais intensa.",
+"A compressão após a aplicação é feita com algodão seco; o álcool não é usado após a injeção.",
+"Não é a conduta cobrada: o prazo de uso após a abertura é próprio de cada vacina e fabricante, não uma regra geral de 6 horas para a penta."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 22,
+"parte": "saude_familia"
+}
+},
+{
+"q": "Para realizar vacinação extramuros, atividades de rotina nas salas de imunização e distribuição de imunobiológicos, nas diversas instâncias, são utilizadas caixas térmicas e bobinas reutilizáveis. Para organizar a vacinação extramuros objetivando as Boas Práticas de Armazenamento de Vacinas, é recomendado:",
+"alts": [
+"utilizar duas caixas térmicas, no mínimo, sendo uma para o estoque de vacinas e para bobinas e outra para as vacinas em uso",
+"caracterizar a população para definir a quantidade de vacinas a serem transportadas e o número de caixas térmicas e de bobinas",
+"posicionar o sensor do termômetro na parede da caixa térmica, garantindo a medição precisa de temperatura dos imunobiológicos",
+"dispor as bobinas nas paredes internas e nunca no fundo da caixa, a fim de formar barreira para reduzir a troca de calor com o meio externo"
+],
+"gab": 1,
+"tema": "imuniza",
+"sub": "Rede de frio e conservação",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r1",
+"base": "Manual de Normas e Procedimentos para Vacinação (MS, 2024); Manual de Rede de Frio do Programa Nacional de Imunizações, 5ª ed. (MS, 2017)",
+"coment": "Pelas normas do PNI para vacinação extramuros, o planejamento começa pela caracterização da população-alvo, que define a quantidade de vacinas transportadas, o número de caixas térmicas e o de bobinas reutilizáveis. Recomendam-se no mínimo três caixas: uma para o estoque de vacinas, uma para bobinas e outra para as vacinas em uso. As bobinas ambientadas vão nas laterais internas, cobrindo as quatro paredes; as vacinas ficam no centro, sem encostar nas bobinas, e o sensor do termômetro também fica no centro da caixa.",
+"porAlt": [
+"São no mínimo três caixas: uma para o estoque de vacinas, outra para bobinas e outra para as vacinas em uso.",
+"Correta: caracterizar a população define a quantidade de vacinas, de caixas térmicas e de bobinas.",
+"O sensor do termômetro fica no centro da caixa, junto às vacinas, e não na parede.",
+"As bobinas ficam nas laterais internas, mas a proibição absoluta do fundo não é a redação da norma; a banca deu como correta a caracterização da população."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 23,
+"parte": "saude_familia"
+}
+},
+{
+"q": "Paciente com diabetes mellitus insulinodependente, em uso de insulina NPH e regular há 17 anos, compareceu à consulta de enfermagem. Relatou formigamento e sensação de dormência nos pés. Ao exame físico, apresentou perda da sensibilidade protetora no pé direito, com sinais de doença arterial periférica, mas sem alterações no pé esquerdo. A classificação do risco, as recomendações e o agendamento do retorno para nova avaliação dos pés dessa paciente, respectivamente, são:",
+"alts": [
+"0 / orientações sobre calçados apropriados e estímulo ao autocuidado / anual",
+"1 / uso de calçados adaptados e correção cirúrgica / seis meses",
+"2 / uso de calçados adaptados e avaliação médica / três meses",
+"3 / avaliação médica e correção cirúrgica / dois meses"
+],
+"gab": 2,
+"tema": "feridas",
+"sub": "Pé diabético e úlceras vasculares",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r2",
+"base": "IWGDF Guidelines on the prevention of foot ulcers in persons with diabetes (2019), sistema de estratificação de risco; Manual do Pé Diabético (MS, 2016)",
+"coment": "A estratificação de risco do pé diabético usada pelo Ministério da Saúde e pelo IWGDF combina perda da sensibilidade protetora (PSP), doença arterial periférica (DAP), deformidade e história de úlcera ou amputação. PSP associada a DAP classifica o risco 2: indicam-se calçados adaptados, avaliação médica e vascular e reavaliação a cada 3 a 6 meses pelo IWGDF 2019, o que torna correto o retorno em três meses. Risco 0 é sem PSP e sem DAP; risco 3, úlcera ou amputação prévia. O pé mais grave define o risco.",
+"porAlt": [
+"Risco 0 exige ausência de PSP e de DAP; a paciente tem as duas alterações no pé direito.",
+"Risco 1 é PSP ou DAP isolada; a combinação de PSP com DAP sobe para risco 2, e correção cirúrgica não é a recomendação.",
+"Correta: PSP com DAP é risco 2, com calçados adaptados, avaliação médica e retorno em cerca de três meses.",
+"Risco 3 pressupõe úlcera ou amputação prévia, que a paciente não tem."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 24,
+"parte": "saude_familia"
+}
+},
+{
+"q": "Homem transgênero, de 42 anos, solteiro e sem filhos, profissional de enfermagem, trabalha como plantonista em dois hospitais do Rio de Janeiro, com escala de 12/36h. É tabagista (1/2 maço/dia), não pratica atividade física e tem IMC = 24. O paciente informa que o pai faleceu de infarto agudo do miocárdio aos 50 anos e que sua mãe teve câncer do colo uterino há dez anos. Os exames laboratoriais mostram colesterol total < 160mg/dL, HDL = 51mg/dL e glicemia de jejum = 90mg/dL. A pressão arterial no momento da consulta é de 130x90mmhg. Ele relata uso de medicamento anti-hipertensivo pela manhã. A partir do histórico de enfermagem do paciente, o risco para doença arterial coronariana, pelo escore de Framingham, é:",
+"alts": [
+"alto",
+"baixo",
+"sem risco",
+"intermediário"
+],
+"gab": 1,
+"tema": "adulto",
+"sub": "Hipertensão e doenças cardiovasculares",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r2",
+"base": "Cadernos de Atenção Básica nº 14, Prevenção clínica de doença cardiovascular, cerebrovascular e renal crônica (MS, 2006), escore de Framingham; Cadernos de Atenção Básica nº 37 (MS, 2013)",
+"coment": "O escore de Framingham, adotado pelos Cadernos de Atenção Básica 14 (2006) e 37 (2013), estima o risco de evento coronariano em 10 anos: baixo abaixo de 10%, intermediário de 10% a 20% e alto acima de 20%. Entram idade, sexo, tabagismo, colesterol total, HDL e pressão sistólica tratada ou não; com 42 anos, colesterol abaixo de 160, HDL 51 e sistólica de 130 tratada, mesmo fumando, o risco fica abaixo de 10%. A morte do pai por infarto aos 50 anos não entra no escore, embora seja agravante que pode reclassificar o risco.",
+"porAlt": [
+"Risco alto exige estimativa acima de 20% em 10 anos, muito acima do calculado para este perfil.",
+"Correta: com colesterol baixo, HDL bom e pressão tratada em 130, o escore fica abaixo de 10%, apesar do tabagismo.",
+"Todo adulto tabagista e hipertenso tem algum risco; \"sem risco\" não é categoria do escore.",
+"Intermediário exige 10% a 20%; a história familiar pode reclassificar, mas não entra no cálculo do escore."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 25,
+"parte": "saude_familia"
+}
+},
+{
+"q": "Homem cisgênero, 68 anos, heterossexual, viúvo há dois anos, aposentado, tem quatro filhos e dez netos. É hipertenso e diabético, em tratamento com anti-hipertensivo e hipoglicemiante oral. Nega tabagismo. Ingere uma a duas taças de vinho ao jantar, diariamente. Há dois meses se relaciona com uma nova parceira, de 58 anos. Na consulta de enfermagem, refere dificuldades para ereção. A partir do histórico de enfermagem e considerando a queixa, o paciente deve ser orientado quanto aos efeitos do(a):",
+"alts": [
+"bebida alcoólica e do diabetes",
+"medicamento anti-hipertensivo e da demência",
+"faixa etária e do uso de preservativo masculino",
+"medicamento hipoglicemiante e incontinência urinária"
+],
+"gab": 0,
+"tema": "adulto",
+"sub": "Saúde do homem",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Cadernos de Atenção Básica nº 26, Saúde sexual e saúde reprodutiva (MS, 2010); Portaria GM/MS 1.944/2009 (PNAISH)",
+"coment": "Diabetes é uma das principais causas orgânicas de disfunção erétil, por lesão neuropática e vascular, e o consumo diário de álcool também prejudica a ereção. O Caderno de Atenção Básica 26 (2010) orienta investigar doenças crônicas, medicamentos e hábitos na queixa sexual do homem, e a PNAISH (Portaria 1.944/2009) inclui a saúde sexual no cuidado. O histórico não traz demência nem incontinência, e idade e preservativo não explicam a queixa; por isso a orientação recai sobre álcool e diabetes.",
+"porAlt": [
+"Correta: o consumo diário de álcool e o diabetes são causas reconhecidas de disfunção erétil presentes no histórico.",
+"Alguns anti-hipertensivos interferem na ereção, mas o paciente não tem demência, o que invalida a alternativa.",
+"A idade isolada não explica a queixa, e o preservativo deve ser estimulado, não apontado como causa.",
+"Hipoglicemiantes orais não são causa típica, e o paciente não tem incontinência urinária."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 26,
+"parte": "saude_familia"
+}
+},
+{
+"q": "No cotidiano das equipes de saúde da família, as ferramentas de abordagem familiar são utilizadas para apoiar a construção de projetos terapêuticos singulares. A enfermeira precisa identificar os papéis (sabotador, crítico e motivador) e as relações familiares para prestar cuidados primários a indivíduos e famílias com problemas alimentares. Sendo assim, é recomendado usar, além do genograma e do ecomapa, a ferramenta denominada:",
+"alts": [
+"FIRO",
+"S.O.A.P",
+"P.R.A.T.I.C.E",
+"Apgar familiar"
+],
+"gab": 2,
+"tema": "sus",
+"sub": "Política Nacional de Atenção Básica",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r2",
+"base": "Caderno de Atenção Básica nº 38, Obesidade (MS, 2014), abordagem familiar; Portaria GM/MS 2.436/2017 (PNAB)",
+"coment": "As ferramentas de abordagem familiar da APS somam ao genograma e ao ecomapa instrumentos que olham a dinâmica da família diante de um problema concreto. O P.R.A.T.I.C.E. é a ferramenta focada no problema: cada letra é um eixo (Problema, Papéis e estrutura, Afeto, Comunicação, Tempo no ciclo de vida, Doença na família, Enfrentamento do estresse, Ecologia). O eixo dos papéis é o que identifica quem sabota, quem critica e quem motiva o tratamento, por isso serve ao cuidado de problemas alimentares. O FIRO avalia inclusão, controle e intimidade; o Apgar familiar mede a satisfação com o funcionamento da família.",
+"porAlt": [
+"O FIRO avalia inclusão, controle e intimidade nas relações, não o mapeamento de papéis diante de um problema específico.",
+"SOAP é o modelo de registro clínico orientado por problemas (subjetivo, objetivo, avaliação, plano), não ferramenta de abordagem familiar.",
+"Correta: o P.R.A.T.I.C.E. é centrado no problema e tem um eixo próprio para papéis e estrutura familiar.",
+"O Apgar familiar é um questionário de satisfação com o funcionamento familiar e não identifica papéis como sabotador ou motivador."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 27,
+"parte": "saude_familia"
+}
+},
+{
+"q": "Os efeitos danosos da crescente mercantilização da vida e das relações entre os sujeitos se corporificam no cotidiano dos serviços de saúde, reproduzindo práticas de alienação e violência institucional às pessoas em sofrimento psíquico. Em relação ao cuidado em saúde mental, é importante:",
+"alts": [
+"focar no diagnóstico resultante das disfunções de interações neurobioquímicas, para estabelecer práticas que limitem o exercício do ir e vir, incidindo no poder de contratualidade do sujeito",
+"estabelecer práticas que submetam todas as ações cotidianas dos sujeitos em sofrimento psíquico a um regime de controle e vigilância, para restringir os riscos à integridade física, no convívio social",
+"incentivar novas ações no tratamento terapêutico das disfunções neurobioquímicas, para reduzir a experiência do sofrimento psíquico e adaptar as pessoas às atividades produtivas e de trabalho cotidianas",
+"deslocar a atenção para o território, plano do cotidiano no qual o sofrimento psíquico implica a vida em suas múltiplas dimensões, atuando na transformação da subjetividade e dos modos de viver, através de encontros que coproduzem sujeitos e projetos de vida"
+],
+"gab": 3,
+"tema": "mental",
+"sub": "Lei 10.216/2001 e reforma psiquiátrica",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Lei 10.216/2001; Portaria GM/MS 3.088/2011 (RAPS), consolidada na Portaria de Consolidação 3/2017",
+"coment": "A reforma psiquiátrica brasileira, fixada na Lei 10.216/2001 e organizada na Rede de Atenção Psicossocial (Portaria 3.088/2011), troca o foco na doença e no controle pelo cuidado em liberdade e de base territorial. O território é o plano do cotidiano onde o sofrimento afeta trabalho, vínculos e moradia; ali o cuidado busca ampliar a contratualidade e a autonomia do sujeito e coproduzir projetos de vida. Alternativas que restringem o ir e vir, impõem vigilância ou reduzem o cuidado a corrigir neuroquímica para adaptar ao trabalho repetem a lógica manicomial que a lei superou.",
+"porAlt": [
+"Limitar o ir e vir e o poder de contratualidade contraria o cuidado em liberdade garantido pela Lei 10.216/2001.",
+"Submeter o cotidiano a controle e vigilância é lógica manicomial, oposta à reinserção social prevista na RAPS.",
+"Reduzir o cuidado ao ajuste neurobioquímico para adaptar ao trabalho ignora a dimensão psicossocial e territorial do sofrimento.",
+"Correta: desloca a atenção para o território e para a produção de autonomia e de projetos de vida, base da atenção psicossocial."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 28,
+"parte": "saude_familia"
+}
+},
+{
+"q": "O método mais indicado para avaliação do controle glicêmico na gestante é a automonitorização da glicemia capilar, utilizando fitas reagentes com leitura em medidor digital de glicose (glicosímetro). Todos os sistemas de avaliação de glicemia dependem do instrumento e também do usuário. O fator que pode interferir nos resultados da monitorização glicêmica é:",
+"alts": [
+"alergia",
+"infecção",
+"ingesta hídrica",
+"alteração do hematócrito"
+],
+"gab": 3,
+"tema": "mulher",
+"sub": "Pré-natal",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r2",
+"base": "Diretrizes da Sociedade Brasileira de Diabetes 2019-2020 (monitorização glicêmica); Manual de Gestação de Alto Risco (MS, 2022)",
+"coment": "O glicosímetro mede a glicose no sangue total capilar, e o resultado depende da proporção entre hemácias e plasma. Hematócrito baixo, como na anemia comum da gestação, tende a superestimar a glicemia; hematócrito alto tende a subestimá-la. Por isso as diretrizes de monitorização listam o hematócrito entre os interferentes, ao lado de técnica de punção, fita vencida ou mal armazenada, temperatura, altitude e calibração. Alergia, infecção e ingesta hídrica podem mudar a glicemia real da gestante, mas não distorcem a leitura do aparelho.",
+"porAlt": [
+"Alergia não interfere na reação da fita nem na leitura do glicosímetro.",
+"Infecção pode elevar a glicemia verdadeira, mas não é erro de medida do sistema de monitorização.",
+"A ingesta hídrica habitual não distorce a leitura do glicosímetro; só desidratação grave altera o hematócrito.",
+"Correta: a variação do hematócrito muda a relação entre hemácias e plasma e altera a leitura da glicemia capilar."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 29,
+"parte": "saude_familia"
+}
+},
+{
+"q": "Para a prática clínica, o diagnóstico diferencial entre as infecções sexualmente transmissíveis (IST), bem como o reconhecimento de outros diagnósticos e agentes etiológicos são ferramentas essenciais. A Donovanose, que se apresenta clinicamente como uma lesão ulcerada indolor de crescimento progressivo e lento, é causada por uma bactéria Gram-negativa. Nesse caso, o agente etiológico é o(a):",
+"alts": [
+"Klebisiela granulomatis",
+"Clamydia Trachomatis",
+"Haemophilus ducreyi",
+"Shigella sp."
+],
+"gab": 0,
+"tema": "transmissiveis",
+"sub": "Sífilis e outras IST",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis (MS, 2022)",
+"coment": "A donovanose (granuloma inguinal) é causada pela Klebsiella granulomatis, bacilo Gram-negativo intracelular, antes chamado Calymmatobacterium granulomatis. Dá úlcera indolor, de crescimento lento, com fundo granuloso vermelho vivo que sangra fácil, sem adenopatia verdadeira. O PCDT de IST de 2022 a coloca no diagnóstico diferencial das úlceras genitais, ao lado de sífilis, cancro mole (Haemophilus ducreyi), herpes e linfogranuloma venéreo (Chlamydia trachomatis L1 a L3). A grafia \"Klebisiela\" é erro da banca.",
+"porAlt": [
+"Correta: a Klebsiella granulomatis, Gram-negativa, é o agente da donovanose.",
+"A Chlamydia trachomatis sorotipos L1 a L3 causa o linfogranuloma venéreo, não a donovanose.",
+"O Haemophilus ducreyi causa o cancro mole, úlcera dolorosa e com bubão.",
+"Shigella causa disenteria bacilar e não é agente de úlcera genital crônica."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 30,
+"parte": "saude_familia"
+}
+},
+{
+"q": "Na passagem pelo canal do parto, impulsionada pelas contrações uterinas e pelos músculos da parede abdominal, o feto executa movimentos passivos que compõem o mecanismo do parto. A passagem da maior circunferência da apresentação através do anel do estreito superior é denominada:",
+"alts": [
+"insinuação",
+"insinuação das espáduas",
+"rotação interna da cabeça",
+"rotação interna das espáduas"
+],
+"gab": 0,
+"tema": "mulher",
+"sub": "Parto e nascimento",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r1",
+"base": "Montenegro e Rezende Filho, Rezende Obstetrícia Fundamental, 14ª ed. (2018), mecanismo do parto",
+"coment": "O mecanismo do parto em apresentação cefálica tem seis tempos: insinuação, descida, rotação interna, desprendimento da cabeça, rotação externa e desprendimento das espáduas. Insinuação (encaixamento) é a passagem da maior circunferência da apresentação, o diâmetro biparietal na cefálica fletida, pelo anel do estreito superior da bacia. Na prática, a cabeça está insinuada quando o ponto mais baixo chega ao plano das espinhas isquiáticas (plano zero de De Lee). A rotação interna leva a sutura sagital ao diâmetro anteroposterior do estreito inferior.",
+"porAlt": [
+"Correta: insinuação é a passagem da maior circunferência da apresentação pelo estreito superior.",
+"A insinuação das espáduas ocorre depois, quando o diâmetro biacromial atravessa o estreito superior.",
+"A rotação interna da cabeça orienta a sutura sagital no diâmetro anteroposterior do estreito inferior; não é a passagem pelo estreito superior.",
+"A rotação interna das espáduas acompanha a rotação externa da cabeça, no fim do mecanismo."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 32,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "Durante o trabalho de parto e o parto, estimula-se o uso das tecnologias não invasivas de cuidado de enfermagem obstétrica (TNICEO). As TNICEO que se baseiam em processos interativos, dinâmicos e singulares com a mulher são as:",
+"alts": [
+"potencializadoras",
+"relacionais",
+"abertas",
+"vivas"
+],
+"gab": 3,
+"tema": "mulher",
+"sub": "Parto e nascimento",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r3",
+"base": "Merhy, Saúde: a cartografia do trabalho vivo (2002); conceito de TNICEO da Faculdade de Enfermagem da UERJ; Diretriz Nacional de Assistência ao Parto Normal (MS, 2017)",
+"coment": "As tecnologias não invasivas de cuidado de enfermagem obstétrica (TNICEO) são um conceito da enfermagem obstétrica da UERJ: banho, massagem, bola, deambulação, respiração, presença e escuta usados para apoiar a fisiologia do parto sem procedimento invasivo. A classificação se apoia em Merhy, para quem as tecnologias leves, relacionais, só existem em ato, no encontro entre trabalhador e usuário; por isso são chamadas tecnologias vivas. A banca chama de vivas as TNICEO que dependem desse processo interativo, dinâmico e singular com cada mulher. O termo vem da literatura acadêmica, não de norma do Ministério.",
+"porAlt": [
+"\"Potencializadoras\" não é a categoria usada para as tecnologias que dependem do encontro singular com a mulher.",
+"\"Relacionais\" descreve a natureza do vínculo, mas não é o nome da categoria adotada pela fonte da banca.",
+"\"Abertas\" não designa classe de tecnologia de cuidado nessa classificação.",
+"Correta: são as tecnologias vivas, que só existem em ato, no processo interativo e singular com cada mulher."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 33,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "As lesões intraepiteliais de alto grau em gestantes apresentam risco muito pequeno de progredir para uma doença invasora, ao mesmo tempo que têm potencial para regressão. Os procedimentos excisionais para tratamento aumentam o risco de abortamento, parto prematuro e sangramento excessivo. Sendo assim, o tratamento de lesões de alto grau deve ser postergado para após o parto por:",
+"alts": [
+"40 dias",
+"60 dias",
+"90 dias",
+"120 dias"
+],
+"gab": 2,
+"tema": "mulher",
+"sub": "Rastreamento do câncer de colo e de mama",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r3",
+"base": "Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (INCA, 2016), situações especiais: gestantes",
+"coment": "Na gestante com lesão intraepitelial de alto grau, o objetivo da colposcopia é afastar invasão; biópsia só se houver suspeita dela. Como o risco de progressão na gravidez é mínimo e há chance de regressão, as diretrizes do INCA de 2016 adiam o tratamento excisional, que aumenta o risco de abortamento, parto prematuro e hemorragia. A mulher é reavaliada com citologia e colposcopia 90 dias após o parto, e só então se decide o tratamento. A Parte I das diretrizes de 2025 (DNA-HPV) mudou o rastreamento, não esse manejo da gestante.",
+"porAlt": [
+"40 dias corresponde ao fim do puerpério, não ao prazo de reavaliação definido pelo INCA.",
+"60 dias é prazo curto demais e não é o previsto nas diretrizes de 2016.",
+"Correta: o INCA (2016) prevê reavaliação citológica e colposcópica 90 dias após o parto.",
+"120 dias excede o prazo recomendado e adia sem motivo a reavaliação."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 34,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "A Sociedade Norte-Americana de Menopausa (NAMS) e os institutos Norte-Americano de Saúde (NIH) e Norte-Americano de Envelhecimento (NIA) definiram cinco estágios para a vida reprodutiva feminina, por conta das variações qualitativas do ciclo menstrual e as alterações hormonais, denominados stages of reproductive aging workshop (STRAW +10). A perimenopausa inicia-se junto com a transição menopausal (idade estimada entre 44-48 anos), tendo como marco inicial as alterações do ciclo menstrual e flutuações hormonais. De acordo com o STRAW +10, o início da perimenopausa é o estágio:",
+"alts": [
+"-1",
+"-2",
+"-3",
+"-4"
+],
+"gab": 1,
+"tema": "mulher",
+"sub": "Planejamento reprodutivo",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r3",
+"base": "Harlow et al., STRAW+10 (Menopause, 2012)",
+"coment": "O STRAW+10 (2012) divide a vida reprodutiva em estágios numerados em torno da menopausa (estágio 0, a última menstruação). A transição menopausal precoce é o estágio -2, marcado por variação persistente de 7 dias ou mais na duração de ciclos consecutivos; a tardia é o -1, com intervalos de amenorreia de 60 dias ou mais. A perimenopausa começa no estágio -2 e vai até 12 meses após a última menstruação. O -3 corresponde ao fim da fase reprodutiva, e o +1, à pós-menopausa inicial.",
+"porAlt": [
+"O estágio -1 é a transição menopausal tardia, com amenorreia de 60 dias ou mais, e não o início da perimenopausa.",
+"Correta: o estágio -2, transição menopausal precoce, marca o início da perimenopausa no STRAW+10.",
+"O estágio -3 pertence ao fim da fase reprodutiva, antes da transição menopausal.",
+"O estágio -4 é o pico da fase reprodutiva, sem as alterações de ciclo que definem a perimenopausa."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 35,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "Os critérios médicos de elegibilidade para uso de métodos anticoncepcionais foram desenvolvidos pela Organização Mundial da Saúde (OMS), com o objetivo de auxiliar os profissionais da saúde na orientação sobre o uso desses métodos. Eles consistem em uma lista de condições de uso dividida em quatro categorias. A categoria que indica que o método pode ser usado com restrições é a:",
+"alts": [
+"1",
+"2",
+"3",
+"4"
+],
+"gab": 1,
+"tema": "mulher",
+"sub": "Planejamento reprodutivo",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "OMS, Critérios Médicos de Elegibilidade para Uso de Métodos Anticoncepcionais, 5ª ed. (2015); Caderno de Atenção Básica nº 26 (MS, 2010)",
+"coment": "Os critérios de elegibilidade da OMS classificam cada condição em quatro categorias. Categoria 1: o método pode ser usado sem restrição. Categoria 2: pode ser usado com restrições, porque as vantagens geralmente superam os riscos. Categoria 3: os riscos geralmente superam os benefícios, e o método só entra como última escolha, com acompanhamento. Categoria 4: risco inaceitável, o método não deve ser usado. O Caderno de Atenção Básica 26 traz a mesma leitura. Na prática da APS, 1 e 2 liberam o método; 3 e 4 pedem outra opção.",
+"porAlt": [
+"A categoria 1 indica uso sem qualquer restrição.",
+"Correta: a categoria 2 indica que o método pode ser usado com restrições, pois as vantagens superam os riscos.",
+"Na categoria 3 os riscos superam os benefícios, e o método só é usado como última escolha.",
+"Na categoria 4 o método não deve ser usado, por risco inaceitável."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 36,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "No período do pós-parto, o uso dos anticoncepcionais combinados eleva o risco de doença tromboembólica venosa. Por isso, a OMS normatiza que esses contraceptivos NÃO sejam utilizados durante a fase do puerpério, considerando o período de até:",
+"alts": [
+"21 dias",
+"29 dias",
+"35 dias",
+"42 dias"
+],
+"gab": 0,
+"tema": "mulher",
+"sub": "Puerpério e aleitamento",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "OMS, Critérios Médicos de Elegibilidade para Uso de Métodos Anticoncepcionais, 5ª ed. (2015)",
+"coment": "O puerpério é hipercoagulável, e o estrogênio soma risco de tromboembolismo venoso. Nos critérios da OMS (2015), na mulher que não amamenta o contraceptivo combinado é categoria 4 antes de 21 dias pós-parto; de 21 a 42 dias é categoria 3 se houver outro fator de risco para trombose e 2 sem ele. Na lactante, a restrição é mais longa: categoria 4 antes de 6 semanas e 3 de 6 semanas a 6 meses, porque soma o efeito sobre a lactação. A questão foca o risco trombótico, que define o corte de 21 dias.",
+"porAlt": [
+"Correta: o combinado é categoria 4 antes de 21 dias pós-parto, pelo risco de tromboembolismo venoso.",
+"29 dias não é ponto de corte dos critérios da OMS.",
+"35 dias não corresponde a nenhuma faixa dos critérios de elegibilidade.",
+"42 dias (6 semanas) é o corte para a lactante, que soma o efeito sobre a amamentação, e não o limite definido pelo risco trombótico."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 37,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "A infecção que pode ser transmitida durante a amamentação pelo leite materno é o(a):",
+"alts": [
+"sífilis",
+"rubéola",
+"tuberculose",
+"citomegalovírus"
+],
+"gab": 3,
+"tema": "mulher",
+"sub": "Puerpério e aleitamento",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r2",
+"base": "Caderno de Atenção Básica nº 23, Saúde da criança: aleitamento materno e alimentação complementar (MS, 2015)",
+"coment": "O citomegalovírus é excretado no leite materno, e a transmissão por essa via está bem documentada; o risco de doença importa sobretudo no prematuro extremo, e no recém-nascido a termo a amamentação é mantida. As outras alternativas não passam pelo leite: a tuberculose se transmite por via aérea (a mãe bacilífera amamenta de máscara), a sífilis só por contato com lesão na mama, e a rubéola materna não contraindica amamentar. Entre as infecções transmitidas pelo leite que o Ministério lista, HIV e HTLV contraindicam a amamentação.",
+"porAlt": [
+"A sífilis não passa pelo leite; o risco é o contato com lesão ativa na mama.",
+"A rubéola materna não é transmitida de forma relevante pelo leite nem contraindica a amamentação.",
+"A tuberculose é transmitida por via aérea; a mãe bacilífera amamenta usando máscara.",
+"Correta: o citomegalovírus é excretado no leite e pode ser transmitido por ele, com risco maior no prematuro."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 38,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "O método Canguru é um modelo de atenção perinatal voltado para a atenção qualificada e humanizada que reúne estratégias de intervenção biopsicossocial com ambiência que favoreça o cuidado ao recém-nascido e à sua família. Para a segunda etapa do método, é critério de elegibilidade o(a):",
+"alts": [
+"sucção exclusiva ao peito, ou mãe e família habilitados a realizar a complementação, em situações especiais",
+"mãe segura, motivada, bem orientada e familiares conscientes quanto ao cuidado domiciliar do recém-nascido",
+"reconhecimento materno dos sinais de comunicação do filho, relativos a conforto, estresse e respiração",
+"recém-nascido com peso mínimo de 1,6kg"
+],
+"gab": 2,
+"tema": "crianca",
+"sub": "Recém-nascido e reanimação neonatal",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r2",
+"base": "Atenção humanizada ao recém-nascido: Método Canguru, manual técnico, 3ª ed. (MS, 2017)",
+"coment": "O Método Canguru tem três etapas. A segunda, na unidade de cuidado intermediário canguru, exige do bebê estabilidade clínica, nutrição enteral plena e peso mínimo de 1.250 g; da mãe, desejo de participar, disponibilidade, capacidade de reconhecer os sinais de comunicação do filho (conforto, estresse, pausas respiratórias) e de manejar o posicionamento canguru. Mãe segura e motivada com família consciente do cuidado domiciliar, sucção exclusiva ao peito e peso mínimo de 1.600 g são critérios de alta para a terceira etapa, ambulatorial.",
+"porAlt": [
+"Sucção exclusiva ao peito ou família habilitada a complementar é critério de alta para a terceira etapa.",
+"Mãe segura e família consciente do cuidado domiciliar é requisito de alta hospitalar, que inicia a terceira etapa.",
+"Correta: reconhecer os sinais de conforto, estresse e respiração do filho é critério materno para a segunda etapa.",
+"O peso mínimo de 1,6 kg é critério de alta para a terceira etapa; na segunda, o mínimo é 1.250 g."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 39,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "A idade gestacional influencia as respostas do recém-nascido. O reflexo de busca tem como objetivo ajudar a criança a abocanhar a mama e efetuar a pega adequada. A idade gestacional, em semanas, em que esse reflexo se encontra rápido, completo e duradouro é a de:",
+"alts": [
+"34",
+"36",
+"37",
+"40"
+],
+"gab": 0,
+"tema": "crianca",
+"sub": "Recém-nascido e reanimação neonatal",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r3",
+"base": "Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, vol. 1 (MS, 2011), avaliação da idade gestacional e reflexos",
+"coment": "Os reflexos primitivos amadurecem com a idade gestacional, e os quadros de maturação neurológica usados na avaliação do recém-nascido descrevem essa progressão. O reflexo de busca (procura, voracidade) aparece por volta de 28 semanas, ainda lento e incompleto; por volta de 32 semanas fica completo, porém com latência; e com 34 semanas já é rápido, completo e duradouro, o que coincide com a maturação da coordenação entre sucção, deglutição e respiração que permite a alimentação por via oral. O gabarito segue esse quadro de maturidade.",
+"porAlt": [
+"Correta: com 34 semanas o reflexo de busca já é rápido, completo e duradouro.",
+"Com 36 semanas o reflexo está presente, mas a maturidade descrita já foi atingida com 34 semanas.",
+"Com 37 semanas o RN é a termo e o reflexo está pleno, mas não é a idade em que ele passa a ser completo.",
+"Com 40 semanas o reflexo está maduro há semanas; não é o marco de aquisição perguntado."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2023,
+"prova": "Residência Uniprofissional 2024, Enfermagem Obstétrica",
+"n": 40,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "O PE, uma das etapas da Sistematização da Assistência de Enfermagem (SAE), deve ter como alicerce a definição de uma teoria de enfermagem para fundamentar a prática assistencial do enfermeiro. Considerando a teoria de Imogene King (SANTOS et al, 2016), para atender à demanda da clientela assistida, considera-se que o(a):",
+"alts": [
+"enfermagem assiste o ser humano no atendimento de suas necessidades humanas básicas, a fim de torná-lo independente dessa assistência o mais breve possível",
+"enfermagem estabelece um relacionamento interpessoal terapêutico eficaz, visando ao reconhecimento e a resposta às necessidades do cliente",
+"enfermeiro encontra-se em posição de avaliar o que as pessoas conhecem sobre sua saúde e a forma como elas agem para mantê-la",
+"enfermeiro deve orientar os indivíduos e as famílias sobre a escolha das possibilidades de mudança no processo de saúde"
+],
+"gab": 2,
+"tema": "sae",
+"sub": "Teorias de enfermagem",
+"cenario": "ger",
+"comp": "aval",
+"nivel": "r2",
+"base": "King, A Theory for Nursing: systems, concepts, process (1981); Resolução COFEN 736/2024, art. 2º",
+"coment": "Imogene King propôs a teoria do alcance de metas, apoiada em três sistemas que interagem (pessoal, interpessoal e social). Enfermeiro e cliente percebem, julgam, agem e chegam a metas negociadas por transação. Entre os pressupostos de King está que o enfermeiro está em posição de avaliar o que as pessoas sabem sobre sua saúde e como agem para mantê-la, o que fundamenta a definição conjunta de metas. A Resolução COFEN 736/2024 manteve a exigência de base teórica para o Processo de Enfermagem.",
+"porAlt": [
+"Assistir nas necessidades humanas básicas para tornar o ser humano independente é a ideia de Wanda Horta.",
+"Relação interpessoal terapêutica voltada às necessidades do cliente é o núcleo da teoria de Hildegard Peplau.",
+"Correta: é pressuposto de King que o enfermeiro avalia o que as pessoas sabem sobre a saúde e como agem para mantê-la.",
+"Orientar indivíduos e famílias sobre escolhas de mudança não resume a teoria do alcance de metas de King."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 2,
+"parte": "etica"
+}
+},
+{
+"q": "A respeito do PE, cabe privativamente ao enfermeiro o(a):",
+"alts": [
+"sua execução",
+"diagnóstico de enfermagem",
+"participação na equipe de saúde",
+"registro das ações de enfermagem"
+],
+"gab": 1,
+"tema": "sae",
+"sub": "Etapas do Processo de Enfermagem",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução COFEN 736/2024, arts. 6º e 7º; Lei 7.498/1986, art. 11",
+"coment": "A Resolução COFEN 736/2024, que revogou a 358/2009, mantém a mesma regra: o Diagnóstico de Enfermagem e a Prescrição de Enfermagem são privativos do enfermeiro (art. 6º). Técnicos e auxiliares participam do Processo de Enfermagem com anotação, execução do que foi prescrito e checagem, sob supervisão (art. 7º). Execução, registro e participação na equipe de saúde são, portanto, ações compartilhadas por toda a equipe de enfermagem.",
+"porAlt": [
+"A execução do PE é feita por toda a equipe de enfermagem, cada categoria no seu grau de habilitação.",
+"Correta: o diagnóstico de enfermagem é privativo do enfermeiro (Res. COFEN 736/2024, art. 6º).",
+"Participar da equipe de saúde é atribuição de todos os profissionais de enfermagem.",
+"O registro é feito por toda a equipe: o enfermeiro registra as etapas do PE, e técnicos e auxiliares fazem a anotação de enfermagem."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 3,
+"parte": "etica"
+}
+},
+{
+"q": "O registro completo e adequado das informações referentes à assistência prestada pelo enfermeiro, a princípio, é um dever:",
+"alts": [
+"ético",
+"cívico",
+"político",
+"jurídico"
+],
+"gab": 0,
+"tema": "etica",
+"sub": "Registro e documentação de enfermagem",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução COFEN 564/2017 (Código de Ética), art. 36; Resolução COFEN 736/2024, art. 8º",
+"coment": "O Código de Ética dos Profissionais de Enfermagem (Res. COFEN 564/2017) inclui entre os deveres, no art. 36, registrar no prontuário as informações inerentes e indispensáveis ao processo de cuidar, de forma clara, objetiva, cronológica, legível, completa e sem rasuras. Por isso a banca responde que o registro é, em primeiro lugar, dever ético. O registro também tem valor jurídico, como prova em processo, e a Res. 736/2024 (art. 8º) exige documentar o Processo de Enfermagem; o \"a princípio\" do enunciado aponta para a origem ética do dever.",
+"porAlt": [
+"Correta: registrar a assistência é dever previsto no Código de Ética de Enfermagem (Res. COFEN 564/2017, art. 36).",
+"Dever cívico diz respeito à cidadania em geral, não à documentação da assistência.",
+"Não há dever político de registro; a obrigação nasce da ética profissional.",
+"O registro tem valor jurídico como prova, mas a banca pergunta a natureza primária do dever, que é ética."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 4,
+"parte": "etica"
+}
+},
+{
+"q": "Uma das competências do Conselho Federal de Enfermagem é homologar atos dos Conselhos Regionais (CORENs), o que significa que o COFEN pode:",
+"alts": [
+"fiscalizar as plenárias dos CORENs",
+"retificar os atos dos CORENs, para estabelecer discriminações positivas",
+"anular os atos dos CORENs, para estabelecer força jurídica aos Conselhos",
+"ratificar os atos dos CORENs, para estabelecer força executória aos Conselhos"
+],
+"gab": 3,
+"tema": "etica",
+"sub": "Lei do exercício profissional e decreto regulamentador",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Lei 5.905/1973, art. 8º",
+"coment": "A Lei 5.905/1973 cria o COFEN e os CORENs e lista, no art. 8º, as competências do Conselho Federal, entre elas homologar, suprir ou anular atos dos Conselhos Regionais. Homologar é ratificar, confirmar o ato do COREN, o que lhe dá validade e força executória. Anular é desfazer o ato ilegal, competência distinta; fiscalizar plenárias e retificar atos para estabelecer discriminações positivas não correspondem ao sentido de homologação.",
+"porAlt": [
+"Fiscalizar plenárias não é o significado de homologar atos.",
+"Retificar é corrigir, não homologar; \"discriminações positivas\" não tem relação com a competência.",
+"Anular é competência distinta de homologar e desfaz o ato, em vez de lhe dar força jurídica.",
+"Correta: homologar é ratificar o ato do COREN, conferindo-lhe força executória."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 5,
+"parte": "etica"
+}
+},
+{
+"q": "A Portaria nº 2.436/2017 aprova a Política Nacional de Atenção Básica e determina as atribuições dos profissionais de saúde. Em relação às estratégias do agente comunitário de saúde (ACS), é correto afirmar que o(a):",
+"alts": [
+"atividade do ACS deve se dar pela lógica do planejamento do processo de trabalho a partir das necessidades do território, priorizando a população",
+"ACS desenvolve ações que buscam a fragmentação entre a equipe de saúde e a população adscrita à unidade básica de saúde, considerando as finalidades do trabalho médico",
+"ACS deve realizar as ações previstas nas regulamentações vigentes conforme essa Portaria e ter uma microárea sob sua responsabilidade, cuja população não ultrapasse 4.000 pessoas",
+"número de ACSs por equipe deverá ser definido de acordo com a base populacional e critérios demográficos, epidemiológicos e socioeconômicos, em conformidade com a definição do nível federal"
+],
+"gab": 0,
+"tema": "sus",
+"sub": "Política Nacional de Atenção Básica",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo, atribuições do ACS; consolidada na Portaria de Consolidação 2/2017",
+"coment": "A PNAB (Portaria 2.436/2017, ainda vigente em out/2026, com revisão em curso) diz que a atividade do ACS se dá pela lógica do planejamento do processo de trabalho a partir das necessidades do território, priorizando a população com maior vulnerabilidade e risco epidemiológico. O número de ACS por equipe é definido pela gestão local, com base em critérios demográficos, epidemiológicos e socioeconômicos; em áreas de risco e vulnerabilidade, a cobertura deve ser de 100% com no máximo 750 pessoas por ACS.",
+"porAlt": [
+"Correta: a PNAB orienta o trabalho do ACS pelo planejamento a partir das necessidades do território, priorizando os mais vulneráveis.",
+"O ACS existe para integrar equipe e comunidade, não para fragmentar; nem se orienta pela finalidade do trabalho médico.",
+"A microárea do ACS tem no máximo 750 pessoas em área de risco; 4.000 não é parâmetro da PNAB.",
+"O número de ACS por equipe é definido no nível local, não pelo nível federal."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 6,
+"parte": "sus"
+}
+},
+{
+"q": "Durante a pandemia de COVID-19, desigualdades sociais e problemas estruturais tornaram-se mais evidentes nos territórios vulnerabilizados pela pobreza. As equipes de saúde da família adaptaram o processo de trabalho para viabilizar o acesso da população ao serviço de saúde, ofertar cuidado de acordo com as necessidades e diversidades e apoiar a articulação da coletividade em prol do problema sanitário instalado. Essas ações correspondem, respectivamente, a:",
+"alts": [
+"regionalização, cuidado centrado na pessoa e intersetorialidade",
+"territorialização, população adscrita e coordenação do cuidado",
+"hierarquização, longitudinalidade e ordenação das redes",
+"universalidade, equidade e participação da comunidade"
+],
+"gab": 3,
+"tema": "sus",
+"sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Lei 8.080/1990, art. 7º; Constituição Federal de 1988, arts. 196 e 198",
+"coment": "O enunciado traz três ações na ordem: viabilizar o acesso da população, ofertar cuidado conforme necessidades e diversidades, e apoiar a articulação da coletividade. Acesso para todos é universalidade (art. 7º, I, da Lei 8.080/1990). Tratar segundo as necessidades, dando mais a quem precisa mais, é equidade. Articular a coletividade em prol do problema sanitário é participação da comunidade (art. 7º, VIII; CF, art. 198, III). As outras alternativas misturam diretrizes organizativas e atributos da APS que não correspondem à ordem descrita.",
+"porAlt": [
+"Regionalização é diretriz organizativa e não traduz \"viabilizar o acesso da população\".",
+"Territorialização e população adscrita são ferramentas da APS e não correspondem a ofertar cuidado conforme diversidades.",
+"Hierarquização, longitudinalidade e ordenação das redes não descrevem acesso, equidade e mobilização social.",
+"Correta: acesso é universalidade, cuidado segundo necessidades é equidade, e articulação coletiva é participação da comunidade."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 7,
+"parte": "sus"
+}
+},
+{
+"q": "A Lei nº 8.080, de 19 de setembro de 1990, dispõe sobre a(s):",
+"alts": [
+"extinção do Instituto Nacional de Assistência Médica da Previdência Social e dá outras providências",
+"regulamentação do Sistema Nacional de Auditoria no âmbito do Sistema Único de Saúde e dá outras providências",
+"aprovação de normas e diretrizes do Programa de Agentes Comunitários de Saúde e do Programa Saúde da Família e dá outras providências",
+"condições para promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências"
+],
+"gab": 3,
+"tema": "sus",
+"sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Lei 8.080/1990, ementa",
+"coment": "A ementa da Lei 8.080, de 19 de setembro de 1990, a Lei Orgânica da Saúde, é: dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências. Os outros assuntos são de normas diferentes: o INAMPS foi extinto pela Lei 8.689/1993, o Sistema Nacional de Auditoria foi regulamentado pelo Decreto 1.651/1995, e as diretrizes do PACS e do PSF vieram em portarias do Ministério.",
+"porAlt": [
+"O INAMPS foi extinto pela Lei 8.689/1993, não pela Lei 8.080/1990.",
+"O Sistema Nacional de Auditoria foi regulamentado pelo Decreto 1.651/1995.",
+"As normas do PACS e do PSF foram aprovadas por portaria ministerial, não pela Lei 8.080.",
+"Correta: é a ementa literal da Lei 8.080/1990, a Lei Orgânica da Saúde."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 8,
+"parte": "sus"
+}
+},
+{
+"q": "Em 21 julho de 2022, o Conselho Nacional de Saúde aprovou uma recomendação à Presidência da República com vistas à adoção e à promoção urgente de medidas corretivas à execução orçamentária e financeira do Ministério da Saúde. O Conselho de Saúde é uma instância colegiada, deliberativa e permanente do SUS nas diferentes esferas de governo. Além de elaborar e aprovar recomendações, compete aos conselhos:",
+"alts": [
+"acompanhar a execução dos planos privados de saúde",
+"aprovar a incorporação tecnológica e científica para o sistema de saúde",
+"promover estudos e pesquisas sobre temas da saúde pertinentes ao SUS",
+"implementar a programação e execução financeira e orçamentária dos fundos de saúde"
+],
+"gab": 2,
+"tema": "sus",
+"sub": "Lei 8.142/1990 e controle social",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Lei 8.142/1990, art. 1º, § 2º; Resolução CNS 453/2012, quinta diretriz",
+"coment": "Pela Lei 8.142/1990, o conselho de saúde é órgão colegiado, permanente e deliberativo, que atua na formulação de estratégias e no controle da execução da política de saúde. A Resolução CNS 453/2012 detalha as competências e inclui estimular, apoiar e promover estudos e pesquisas sobre temas de saúde pertinentes ao desenvolvimento do SUS. Fiscalizar a execução financeira é papel do conselho; implementá-la é do gestor. Planos privados são regulados pela ANS, e a incorporação de tecnologias no SUS é decidida pelo Ministério com assessoria da CONITEC (Lei 12.401/2011).",
+"porAlt": [
+"O acompanhamento dos planos privados de saúde cabe à ANS, não aos conselhos de saúde.",
+"A incorporação de tecnologias no SUS é decisão do Ministério da Saúde assessorado pela CONITEC (Lei 12.401/2011).",
+"Correta: promover estudos e pesquisas sobre temas de saúde pertinentes ao SUS está entre as competências da Resolução CNS 453/2012.",
+"Implementar a execução orçamentária dos fundos é atribuição do gestor; o conselho fiscaliza e acompanha."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 9,
+"parte": "sus"
+}
+},
+{
+"q": "A Região de Saúde é o espaço geográfico contínuo constituído por agrupamentos de municípios limítrofes, delimitado a partir de identidades culturais, econômicas e sociais e de redes de comunicação e infraestrutura de transportes compartilhados, com a finalidade de integrar a organização, o planejamento e a execução de ações e serviços de saúde. Para ser instituída, a Região de Saúde deve conter, no mínimo, ações e serviços de:",
+"alts": [
+"acesso aberto",
+"vigilância em saúde",
+"acolhimento à demanda espontânea",
+"distribuição de medicamentos do Rename"
+],
+"gab": 1,
+"tema": "sus",
+"sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Decreto 7.508/2011, art. 5º",
+"coment": "O Decreto 7.508/2011, que regulamenta a Lei 8.080/1990, exige no art. 5º que a Região de Saúde contenha, no mínimo, ações e serviços de: atenção primária; urgência e emergência; atenção psicossocial; atenção ambulatorial especializada e hospitalar; e vigilância em saúde. Basta lembrar dos cinco itens para eliminar as alternativas: acesso aberto, acolhimento à demanda espontânea e distribuição de medicamentos da RENAME são ações ou diretrizes, não componentes mínimos da região.",
+"porAlt": [
+"Acesso aberto é forma de organizar a agenda na APS, não componente mínimo da Região de Saúde.",
+"Correta: vigilância em saúde é um dos cinco componentes mínimos exigidos pelo art. 5º do Decreto 7.508/2011.",
+"Acolhimento à demanda espontânea é diretriz da APS e da PNH, não item do art. 5º do Decreto 7.508/2011.",
+"A RENAME é tratada em outros artigos do decreto e não figura entre os componentes mínimos da região."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 10,
+"parte": "sus"
+}
+},
+{
+"q": "A humanização vista não como programa, mas como política pública que transversaliza as diferentes ações e instâncias gestoras do SUS, está implicada em traduzir os princípios desse sistema em modos de operar os diferentes equipamentos e sujeitos da rede de saúde. O documento Humaniza SUS (2010), base para gestores e trabalhadores do SUS, apresenta, como parâmetro para a implementação de ações de humanização na atenção básica, a:",
+"alts": [
+"implementação de sistemas formais de escuta para trabalhadores da saúde, garantindo a análise de queixas relacionadas ao processo de trabalho e encaminhamentos oportunos",
+"definição de responsabilidades da equipe do Núcleo Ampliado de Saúde da Família (NASF-AB), visando à garantia da integralidade do cuidado",
+"organização do acolhimento de modo a promover a ampliação efetiva do acesso à atenção básica e aos demais níveis do sistema",
+"restrição de atividades que mobilizem a participação social dos trabalhadores da saúde em eventos específicos"
+],
+"gab": 2,
+"tema": "sus",
+"sub": "Política Nacional de Humanização",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "HumanizaSUS: documento base para gestores e trabalhadores do SUS (MS, 2010), parâmetros para a atenção básica",
+"coment": "O documento base da Política Nacional de Humanização traz parâmetros de implementação por nível de atenção. Na atenção básica, o primeiro é organizar o acolhimento de modo a ampliar efetivamente o acesso à atenção básica e aos demais níveis do sistema, eliminando filas, organizando o atendimento com base em riscos priorizados e buscando resolutividade. Os mecanismos formais de escuta aparecem entre os parâmetros de outros níveis, e o NASF só foi criado em 2008, depois da formulação da PNH. Restringir participação social contraria a política.",
+"porAlt": [
+"Sistemas formais de escuta e ouvidoria constam dos parâmetros de outros níveis de atenção, não do parâmetro central da atenção básica.",
+"O NASF foi criado em 2008 e não integra os parâmetros da PNH para a atenção básica; a política é anterior a ele.",
+"Correta: organizar o acolhimento para ampliar o acesso à atenção básica e aos demais níveis é parâmetro da PNH.",
+"Restringir a participação social dos trabalhadores contraria a cogestão e o protagonismo que a PNH defende."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 11,
+"parte": "politicas"
+}
+},
+{
+"q": "Para ser operacionalizada, a Rede de Atenção às Urgências e Emergências (RUE) percorre fases de implantação em todo território nacional. Na fase de Desenho Regional da Rede, entre outras medidas, deve ocorrer a:",
+"alts": [
+"elaboração dos planos de ação dos municípios integrantes da Comissão Intergestores Regional (CIR), em consonância com o plano de ação regional para a RUE",
+"aprovação do plano municipal de saúde na Comissão Intergestores Regional (CIR), Colegiado de Gestão da Secretaria de Estado da Saúde do Distrito Federal (CGSES/DF) e Comissão Intergestora Bipartite (CIB) para a RUE",
+"análise da situação de saúde nas unidades básicas pela Comissão Intergestores Regional (CIR) e pelo Colegiado de Gestão da Secretaria de Estado da Saúde do Distrito Federal (CGSES/DF), com o apoio da Secretaria de Saúde",
+"construção da proposta de plano de ação estadual da rede, contemplando o desenho da RUE, as metas a serem cumpridas, o cronograma de implantação, os mecanismos de regulação, o monitoramento, a avaliação, o estabelecimento de responsabilidades e o aporte de recursos pelos Estados"
+],
+"gab": 0,
+"tema": "sus",
+"sub": "Redes de Atenção à Saúde",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r3",
+"base": "Portaria GM/MS 1.600/2011 (Rede de Atenção às Urgências), consolidada na Portaria de Consolidação 3/2017, Anexo III",
+"coment": "A RUE é implantada em fases: adesão e diagnóstico; desenho regional da rede; contratualização dos pontos de atenção; qualificação dos componentes; e certificação. Na fase de desenho regional, a norma prevê analisar a situação dos serviços de urgência no colegiado regional, elaborar e aprovar o plano de ação regional (colegiado regional, CGSES/DF e CIB) e elaborar os planos de ação municipais dos municípios do colegiado, em consonância com o plano regional. O antigo Colegiado de Gestão Regional corresponde hoje à Comissão Intergestores Regional (CIR).",
+"porAlt": [
+"Correta: elaborar os planos de ação municipais em consonância com o plano de ação regional da RUE é etapa do desenho regional.",
+"O que se aprova na fase de desenho é o plano de ação regional da RUE, não o plano municipal de saúde.",
+"A análise prevista é da situação dos serviços de atendimento às urgências, não das unidades básicas.",
+"O plano elaborado é regional, não um plano de ação estadual com aporte de recursos pelos estados."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 12,
+"parte": "politicas"
+}
+},
+{
+"q": "A implementação do Processo Transexualizador no SUS insere-se no contexto da Política Nacional de Saúde Integral de Lésbicas, Gays, Bissexuais, Travestis e Transexuais (LGBT), e o desafio subsequente é a garantia de:",
+"alts": [
+"promoção das mudanças para a feminização do corpo das pessoas",
+"acesso aos procedimentos de mastectomia e de histerectomia",
+"promoção do uso do nome social de travestis e transexuais",
+"acesso a todas as pessoas que necessitam desse cuidado"
+],
+"gab": 3,
+"tema": "sus",
+"sub": "Políticas de equidade e populações vulneráveis",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Portaria GM/MS 2.836/2011 (Política Nacional de Saúde Integral LGBT); Portaria GM/MS 2.803/2013 (Processo Transexualizador)",
+"coment": "A Política Nacional de Saúde Integral LGBT (Portaria 2.836/2011) tem como objetivo garantir o acesso ao processo transexualizador no SUS, redefinido pela Portaria 2.803/2013, que ampliou a linha de cuidado a homens trans e travestis e incluiu a atenção ambulatorial. O desafio, coerente com a universalidade e a equidade, é garantir que todas as pessoas que precisam desse cuidado tenham acesso, e não apenas oferecer procedimentos específicos. Nome social e cirurgias são componentes; feminização é só uma das demandas.",
+"porAlt": [
+"Feminização do corpo é só uma das demandas; o processo inclui homens trans e não se resume a isso.",
+"Mastectomia e histerectomia são procedimentos do processo, não o desafio de garantia que a política coloca.",
+"O uso do nome social já é direito assegurado (Carta dos Direitos dos Usuários) e não é o desafio subsequente ao processo transexualizador.",
+"Correta: o desafio é garantir acesso a todas as pessoas que necessitam do cuidado, conforme universalidade e equidade."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 13,
+"parte": "politicas"
+}
+},
+{
+"q": "A Política Nacional de Saúde Integral da População Negra é um compromisso firmado pelo Ministério da Saúde no combate às desigualdades no SUS, considerando que as iniquidades em saúde são resultados de injustos processos socioeconômicos e culturais, com destaque para o racismo. Entre as diretrizes gerais dessa política, encontra-se:",
+"alts": [
+"garantir e ampliar o acesso da população negra do campo e da floresta, em particular as populações quilombolas, às ações e aos serviços de saúde",
+"promover o reconhecimento dos saberes e das práticas populares de saúde, incluindo aqueles preservados pelas religiões de matrizes africanas",
+"melhorar a qualidade dos sistemas de informação do SUS no que tange à coleta, ao processamento e à análise dos dados desagregados por raça, cor e etnia",
+"fortalecer a atenção à saúde integral da população negra em todas as fases do ciclo de vida, considerando as necessidades específicas de jovens, adolescentes e adultos em conflito com a lei"
+],
+"gab": 1,
+"tema": "sus",
+"sub": "Políticas de equidade e populações vulneráveis",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Portaria GM/MS 992/2009 (Política Nacional de Saúde Integral da População Negra), diretrizes gerais",
+"coment": "A PNSIPN (Portaria 992/2009) reconhece o racismo, inclusive o institucional, como determinante social. Suas diretrizes gerais incluem a promoção do reconhecimento dos saberes e práticas populares de saúde, incluindo os preservados pelas religiões de matrizes africanas, ao lado da formação em racismo e saúde, do fortalecimento da participação do movimento negro e da produção de conhecimento. Ampliar o acesso das populações do campo e da floresta, qualificar os dados por raça e cor e atender jovens em conflito com a lei são objetivos específicos da política, não diretrizes gerais.",
+"porAlt": [
+"Ampliar o acesso das populações negras do campo, da floresta e quilombolas é objetivo específico da PNSIPN, não diretriz geral.",
+"Correta: o reconhecimento dos saberes e práticas populares, inclusive das religiões de matrizes africanas, é diretriz geral da PNSIPN.",
+"Melhorar a coleta de dados desagregados por raça, cor e etnia é objetivo específico da política.",
+"A atenção integral nas fases da vida, incluindo jovens em conflito com a lei, aparece entre os objetivos específicos."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 14,
+"parte": "politicas"
+}
+},
+{
+"q": "Proposto pelo Ministério da Saúde, o instrumento que organiza e qualifica o cuidado a pessoas em situação de rua em convergência com as diretrizes da atenção básica e da lógica da atenção psicossocial, assumindo legitimamente a responsabilidade da equidade e garantindo o acesso ao SUS, é denominado:",
+"alts": [
+"Consultório na Rua",
+"Consultório de Rua",
+"Equipe de Saúde da Família tradicional",
+"Equipe de Saúde da Família sem domicílio"
+],
+"gab": 0,
+"tema": "sus",
+"sub": "Políticas de equidade e populações vulneráveis",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Portaria GM/MS 122/2011 (equipes de Consultório na Rua); Portaria GM/MS 2.436/2017 (PNAB)",
+"coment": "O Consultório na Rua foi instituído pela PNAB de 2011 e regulamentado pela Portaria 122/2011: equipes multiprofissionais itinerantes da atenção básica que cuidam da população em situação de rua, articuladas com a atenção psicossocial e a rede intersetorial, garantindo acesso e equidade. A PNAB de 2017 mantém essas equipes. O nome Consultório de Rua designava a experiência anterior, ligada à saúde mental e ao uso de álcool e drogas, que foi incorporada e substituída pelo modelo da atenção básica.",
+"porAlt": [
+"Correta: o Consultório na Rua é a equipe da atenção básica para a população em situação de rua (Portaria 122/2011).",
+"Consultório de Rua era a experiência anterior, ligada à saúde mental, substituída pelo Consultório na Rua da atenção básica.",
+"A equipe de Saúde da Família tradicional cuida da população adscrita com domicílio, sem o modelo itinerante específico.",
+"\"Equipe de Saúde da Família sem domicílio\" não existe como modalidade normativa."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 15,
+"parte": "politicas"
+}
+},
+{
+"q": "Em 2004, o Ministério da Saúde lançou um documento considerando a diversidade dos municípios e estados que apresentam diferentes níveis de desenvolvimento, de organização dos seus sistemas locais de saúde e tipos de gestão. Ele amplia as ações para grupos historicamente alijados das políticas públicas nas suas especificidades e necessidades. Ele ainda incorpora, em um enfoque de gênero, a integralidade e a promoção da saúde como princípios norteadores, buscando consolidar os avanços no campo dos direitos sexuais e reprodutivos. O documento descrito corresponde ao(à):",
+"alts": [
+"Programa de Saúde Materno Infantil",
+"Política Nacional de Atenção Materno Infantil",
+"Programa de Assistência Integral à Saúde da Mulher",
+"Política Nacional de Assistência Integral à Saúde da Mulher"
+],
+"gab": 3,
+"tema": "mulher",
+"sub": "Planejamento reprodutivo",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Política Nacional de Atenção Integral à Saúde da Mulher: princípios e diretrizes (MS, 2004)",
+"coment": "A Política Nacional de Atenção Integral à Saúde da Mulher (PNAISM), lançada pelo Ministério em 2004, foi construída considerando a diversidade dos municípios e estados, amplia as ações para grupos historicamente excluídos (negras, indígenas, lésbicas, rurais, presidiárias, com deficiência) e incorpora o enfoque de gênero, a integralidade e a promoção da saúde, consolidando os direitos sexuais e reprodutivos. Ela substituiu o caráter de programa do PAISM, de 1983/1984, por uma política, e superou o modelo materno-infantil restrito ao ciclo gravídico.",
+"porAlt": [
+"O Programa de Saúde Materno Infantil, dos anos 1970, tinha foco restrito na gestação e na criança.",
+"Não existe política com esse nome; o enfoque materno-infantil é justamente o que a política de 2004 supera.",
+"O PAISM é o programa de 1983/1984, não o documento de 2004.",
+"Correta: a PNAISM, de 2004, incorpora enfoque de gênero, integralidade e direitos sexuais e reprodutivos."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 16,
+"parte": "politicas"
+}
+},
+{
+"q": "A Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) estrutura-se em sete eixos estratégicos. O eixo “I - Atenção Humanizada e Qualificada à Gestação, ao Parto, ao Nascimento e ao Recém-Nascido” possui as triagens neonatais universais como ação estratégica. A modalidade de triagem neonatal utilizada para detecção precoce da anquiloglossia em recém-nascidos é denominada:",
+"alts": [
+"cardiopatia congênita crítica",
+"frênulo lingual",
+"biológica",
+"ocular"
+],
+"gab": 1,
+"tema": "crianca",
+"sub": "Recém-nascido e reanimação neonatal",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r1",
+"base": "Lei 13.002/2014 (protocolo de avaliação do frênulo lingual); Portaria GM/MS 1.130/2015 (PNAISC)",
+"coment": "A PNAISC (Portaria 1.130/2015) inclui no eixo I as triagens neonatais universais: biológica (teste do pezinho), auditiva, ocular (reflexo vermelho), da cardiopatia congênita crítica (oximetria) e do frênulo lingual. A triagem do frênulo lingual, conhecida como teste da linguinha, tornou-se obrigatória nas maternidades pela Lei 13.002/2014 e detecta a anquiloglossia, que pode prejudicar a pega e a amamentação.",
+"porAlt": [
+"A triagem da cardiopatia congênita crítica usa oximetria de pulso e não avalia a língua.",
+"Correta: a triagem do frênulo lingual (teste da linguinha, Lei 13.002/2014) detecta a anquiloglossia.",
+"A triagem biológica é o teste do pezinho, para doenças metabólicas, genéticas e infecciosas.",
+"A triagem ocular é o teste do reflexo vermelho, para catarata, glaucoma e retinoblastoma."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 17,
+"parte": "politicas"
+}
+},
+{
+"q": "Durante o atendimento de revisão puerperal, uma mulher relata que não teve boa experiência no parto, pois ouviu frases humilhantes ao solicitar a presença do acompanhante (que foi impedido de permanecer ao seu lado), tais como: “quem mandou você engravidar?”. De acordo com a Política Nacional de Enfrentamento à Violência contra a Mulher, a situação citada expressa um tipo de violência classificado como:",
+"alts": [
+"institucional",
+"patrimonial",
+"sexual",
+"física"
+],
+"gab": 0,
+"tema": "mulher",
+"sub": "Violência contra a mulher",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r1",
+"base": "Política Nacional de Enfrentamento à Violência contra as Mulheres (SPM, 2011); Lei 11.108/2005 (acompanhante)",
+"coment": "A Política Nacional de Enfrentamento à Violência contra as Mulheres define violência institucional como a praticada, por ação ou omissão, nas instituições prestadoras de serviço, incluindo maus-tratos, humilhação e negação de direitos por profissionais. Frases humilhantes durante o parto e o impedimento do acompanhante, direito garantido pela Lei 11.108/2005, são violência institucional, que no contexto do parto também é chamada de violência obstétrica. Não há dano a bens (patrimonial), ato sexual (sexual) nem agressão corporal (física).",
+"porAlt": [
+"Correta: humilhar e negar o acompanhante dentro do serviço de saúde é violência institucional.",
+"Violência patrimonial envolve retenção, subtração ou destruição de bens e documentos, o que não ocorreu.",
+"Violência sexual envolve ato ou constrangimento de natureza sexual, ausente no relato.",
+"Violência física envolve agressão ao corpo; o relato descreve humilhação verbal e negação de direito."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 18,
+"parte": "politicas"
+}
+},
+{
+"q": "Sobre o planejamento reprodutivo, é correto afirmar que:",
+"alts": [
+"é um importante recurso para a garantia dos direitos sexuais e dos direitos reprodutivos por meio do controle da natalidade",
+"contribui para a superação da situação de pobreza existente no país pela implementação de ações de controle demográfico",
+"pode ser realizado pelo homem e pela mulher, isoladamente, mesmo quando estes não querem instituir uma família",
+"deve ser desenvolvido sob a forma de trabalho em equipe e ser dirigido a populações de territórios bem delimitados"
+],
+"gab": 2,
+"tema": "mulher",
+"sub": "Planejamento reprodutivo",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Lei 9.263/1996, art. 2º; Caderno de Atenção Básica nº 26, Saúde sexual e saúde reprodutiva (MS, 2010)",
+"coment": "A Lei 9.263/1996 define o planejamento familiar como o conjunto de ações de regulação da fecundidade que garanta direitos iguais de constituição, limitação ou aumento da prole pela mulher, pelo homem ou pelo casal, e proíbe usá-lo para qualquer tipo de controle demográfico (art. 2º, parágrafo único). Por isso o Ministério fala em planejamento reprodutivo, direito de homens e mulheres, juntos ou isoladamente, queiram ou não formar família. Não é controle de natalidade nem ferramenta de combate à pobreza, e não se restringe a territórios delimitados.",
+"porAlt": [
+"Planejamento reprodutivo é exercício de direito, não controle da natalidade.",
+"A Lei 9.263/1996 proíbe expressamente usar o planejamento familiar para controle demográfico.",
+"Correta: homem e mulher podem exercer o planejamento reprodutivo isoladamente, mesmo sem querer constituir família.",
+"O planejamento reprodutivo é direito de todos, não ação dirigida apenas a populações de territórios delimitados."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 19,
+"parte": "politicas"
+}
+},
+{
+"q": "A avaliação do início efetivo do trabalho de parto é muito importante para definir o momento adequado para a admissão das parturientes nas unidades obstétricas. Alguns critérios devem ser levados em consideração nessa determinação, tais como a atividade uterina com metrossístoles regulares com, pelo menos:",
+"alts": [
+"2 contrações em 10 minutos e dilatação cervical progressiva a partir dos 5cm",
+"2 contrações em 10 minutos e dilatação cervical progressiva a partir dos 4cm",
+"3 contrações em 10 minutos e dilatação cervical progressiva a partir dos 5cm",
+"3 contrações em 10 minutos e dilatação cervical progressiva a partir dos 4cm"
+],
+"gab": 1,
+"tema": "mulher",
+"sub": "Parto e nascimento",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r2",
+"base": "Diretriz Nacional de Assistência ao Parto Normal (MS/CONITEC, 2017); Parto, aborto e puerpério: assistência humanizada à mulher (MS, 2001)",
+"coment": "Admitir a parturiente na fase latente aumenta intervenções sem benefício, por isso é preciso reconhecer o início da fase ativa. A Diretriz Nacional de Assistência ao Parto Normal (2017) define a fase ativa por contrações dolorosas regulares e dilatação cervical progressiva a partir de 4 cm; o manual do Ministério de 2001 descreve a atividade uterina regular com pelo menos 2 contrações em 10 minutos. A OMS (2018) passou a situar o início da fase ativa em 5 cm, mas a diretriz brasileira vigente mantém 4 cm, que é o que a banca cobra.",
+"porAlt": [
+"A diretriz brasileira situa o início da fase ativa em 4 cm, não em 5 cm; 5 cm é o corte da OMS 2018.",
+"Correta: pelo menos 2 contrações em 10 minutos com dilatação progressiva a partir de 4 cm marcam o trabalho de parto efetivo.",
+"A combinação de 3 contrações com 5 cm não é o critério da diretriz brasileira.",
+"O critério mínimo de atividade uterina adotado é de 2 contrações em 10 minutos, não 3."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 21,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "As intervenções de enfermagem nos estágios clínicos do parto devem levar em consideração as necessidades básicas da mulher para favorecer o desenvolvimento saudável e fisiológico do processo de parto e nascimento. Nesse período, as intervenções mais adequadas, além de baixa luminosidade, são:",
+"alts": [
+"privacidade e uso de linguagem não verbal",
+"privacidade e manutenção do ambiente frio e refrigerado",
+"garantia do acompanhante de livre escolha da mulher e manutenção do ambiente frio e refrigerado",
+"garantia do acompanhante de livre escolha da mulher e distração da mulher com perguntas sobre a gestação e o pré-natal"
+],
+"gab": 0,
+"tema": "mulher",
+"sub": "Parto e nascimento",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Diretriz Nacional de Assistência ao Parto Normal (MS/CONITEC, 2017); OMS, recomendações para uma experiência positiva de parto (2018)",
+"coment": "O trabalho de parto fisiológico depende de ocitocina e endorfinas, cuja liberação é favorecida quando a mulher se sente segura e pouco estimulada no neocórtex. Por isso as intervenções recomendadas são ambiente com baixa luminosidade, privacidade, silêncio e comunicação não verbal, evitando perguntas e conversas que a tirem do estado de concentração. O acompanhante de livre escolha é direito garantido pela Lei 11.108/2005, mas as alternativas que o trazem associam medidas inadequadas: ambiente frio, que causa desconforto e liberação de adrenalina, ou distração com perguntas.",
+"porAlt": [
+"Correta: privacidade e linguagem não verbal, com baixa luminosidade, protegem a fisiologia do parto.",
+"Ambiente frio e refrigerado aumenta o desconforto e a adrenalina, o que atrapalha o trabalho de parto.",
+"O acompanhante é direito, mas o ambiente frio e refrigerado torna a alternativa incorreta.",
+"O acompanhante é direito, mas distrair a mulher com perguntas estimula o neocórtex e interfere na fisiologia do parto."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 22,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "A ação de rastreamento de infecção sexualmente transmissível na gestação é:",
+"alts": [
+"imunizar para hepatite B e HPV",
+"realizar o exame colpocitológico",
+"orientar quanto à promoção do sexo seguro",
+"testar para HIV e sífilis na primeira consulta de pré-natal"
+],
+"gab": 3,
+"tema": "mulher",
+"sub": "Pré-natal",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r1",
+"base": "PCDT para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais (MS, 2022)",
+"coment": "Rastreamento é testar pessoas sem sintomas para detectar a infecção cedo. No pré-natal, o PCDT de Transmissão Vertical (2022) prevê teste para HIV e sífilis na primeira consulta, de preferência teste rápido, repetido no terceiro trimestre, no parto e em exposição de risco; hepatites B e C também são testadas na primeira consulta. Vacinar para hepatite B é prevenção primária; a HPV não é feita na gestação. A colpocitologia rastreia câncer do colo, e orientar sexo seguro é educação em saúde, não rastreamento.",
+"porAlt": [
+"Imunizar é prevenção primária, não rastreamento; e a vacina HPV não é aplicada durante a gestação.",
+"O exame colpocitológico rastreia lesões precursoras do câncer do colo, não infecções sexualmente transmissíveis.",
+"Orientar sexo seguro é educação em saúde, não ação de rastreamento.",
+"Correta: testar HIV e sífilis na primeira consulta de pré-natal é o rastreamento de IST previsto no PCDT."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 23,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "Segundo a Organização Mundial de Saúde, acerca dos cuidados maternos e neonatais para uma experiência pós-natal positiva, é recomendada a realização de, no mínimo, quatro contatos de cuidados pós-natais. Sobre esses encontros, é correto afirmar que o primeiro contato deve ocorrer dentro das:",
+"alts": [
+"48 horas após o nascimento, e o terceiro em 14 dias",
+"48 horas após o nascimento, e o terceiro na sexta semana",
+"24 horas após o nascimento, e o segundo entre 7 e 14 dias",
+"24 horas após o nascimento, e o segundo entre 48 e 72 horas"
+],
+"gab": 3,
+"tema": "mulher",
+"sub": "Puerpério e aleitamento",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "WHO recommendations on maternal and newborn care for a positive postnatal experience (OMS, 2022)",
+"coment": "A diretriz da OMS de 2022 para uma experiência pós-natal positiva recomenda no mínimo quatro contatos pós-natais. Após parto em serviço de saúde, mãe e bebê ficam pelo menos 24 horas em observação, e o primeiro contato ocorre nas primeiras 24 horas. Os demais: o segundo entre 48 e 72 horas, o terceiro entre 7 e 14 dias e o quarto durante a sexta semana após o nascimento. No Brasil, a Rede Alyne prevê visita na primeira semana e consulta puerperal até 42 dias.",
+"porAlt": [
+"O primeiro contato é dentro de 24 horas, não de 48 horas; o terceiro é entre 7 e 14 dias.",
+"O primeiro contato é dentro de 24 horas; a sexta semana corresponde ao quarto contato.",
+"O primeiro contato está certo, mas o intervalo de 7 a 14 dias é do terceiro contato, não do segundo.",
+"Correta: primeiro contato nas primeiras 24 horas e segundo entre 48 e 72 horas (OMS, 2022)."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 25,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "No período do pós-parto, várias adaptações ocorrem no corpo da puérpera, destacando-se a involução uterina e a regeneração do leito placentário, com a eliminação dos lóquios. Acerca da coloração, sabe-se que, ao longo do 3º/4º dia pós-parto, há lóquios sanguíneos. A partir de então, a diminuição do conteúdo sanguíneo leva a lóquios serossanguíneos e, posteriormente, serosos. A coloração dos lóquios serossanguíneos é denominada:",
+"alts": [
+"Lochia fusca",
+"Lochia rubra",
+"Lochia flava",
+"Lochia alba"
+],
+"gab": 0,
+"tema": "mulher",
+"sub": "Puerpério e aleitamento",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r2",
+"base": "Montenegro e Rezende Filho, Rezende Obstetrícia Fundamental, 14ª ed. (2018), puerpério",
+"coment": "Os lóquios mudam de cor conforme diminui o sangue e aumentam leucócitos e exsudato. Na nomenclatura clássica da obstetrícia: lochia rubra (cruenta, sanguínea) nos primeiros 3 a 4 dias; lochia fusca (serossanguínea, acastanhada) a seguir; lochia flava (serosa, amarelada) por volta do 10º dia; e lochia alba (esbranquiçada) depois. Lóquios fétidos, com febre e útero doloroso, sugerem endometrite.",
+"porAlt": [
+"Correta: lochia fusca é o nome dos lóquios serossanguíneos, acastanhados.",
+"Lochia rubra são os lóquios sanguíneos dos primeiros 3 a 4 dias.",
+"Lochia flava são os lóquios serosos, amarelados, posteriores aos serossanguíneos.",
+"Lochia alba são os lóquios esbranquiçados da fase final do puerpério."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 26,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "Todos os recém-nascidos devem ser amamentados exclusivamente desde o nascimento até os 6 meses de idade, porém há casos de contraindicações temporárias ou definitivas para a mulher. É considerada uma contraindicação temporária à amamentação:",
+"alts": [
+"AIDS",
+"HTLV 1",
+"varicela",
+"galactosemia"
+],
+"gab": 2,
+"tema": "crianca",
+"sub": "Aleitamento e alimentação",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Caderno de Atenção Básica nº 23, Saúde da criança: aleitamento materno e alimentação complementar (MS, 2015)",
+"coment": "O Ministério separa contraindicações definitivas e temporárias. Definitivas na mãe: HIV e HTLV 1 e 2; no bebê: galactosemia e doença da urina do xarope de bordo. Temporárias: varicela materna que surge de 5 dias antes a 2 dias depois do parto (isolar até as lesões virarem crosta, com imunoglobulina para o RN), herpes com lesão na mama, doença de Chagas na fase aguda ou com sangramento mamilar, abscesso mamário e uso de alguns medicamentos ou drogas.",
+"porAlt": [
+"HIV é contraindicação definitiva à amamentação no Brasil.",
+"HTLV 1 e 2 são contraindicação definitiva, pelo risco de transmissão pelo leite.",
+"Correta: a varicela materna perinatal é contraindicação temporária, até as lesões estarem em crosta.",
+"A galactosemia é contraindicação definitiva, por condição do bebê."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 27,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "Uma mulher de 42 anos, residente do interior com acesso limitado ao serviço de saúde, relata nunca ter realizado exame citopatológico do colo do útero e informa não procurar unidades de saúde por conta dos seus afazeres e da distância, sendo essa uma oportunidade ímpar para coleta deste exame. Ela informa que começou a menstruar há cinco dias e que “ainda está descendo um pouco de sangue”. Quanto à possibilidade de coletar o exame citopatológico do colo do útero dessa mulher, a conduta adequada é:",
+"alts": [
+"não coletar, pois a presença de sangue na amostra é uma contraindicação absoluta para coleta",
+"não coletar, pois a coleta da amostra deve ser feita, pelo menos, cinco dias após o término da menstruação",
+"realizar a coleta do citopatológico do colo do útero e adicionar gotas de ácido acético (CH3COOH) a 2% à solução fixadora, buscando melhorar a qualidade da amostra",
+"realizar a coleta do citopatológico do colo do útero e adicionar gotas de hidróxido de potássio (KOH) a 10% à solução fixadora, buscando melhorar a qualidade da amostra"
+],
+"gab": 2,
+"tema": "mulher",
+"sub": "Rastreamento do câncer de colo e de mama",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r2",
+"base": "Caderno de Atenção Básica nº 13, Controle dos cânceres do colo do útero e da mama (MS, 2013); Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (INCA, 2016)",
+"coment": "O ideal é coletar o citopatológico fora do período menstrual, mas sangue não é contraindicação absoluta: o Ministério orienta não perder a oportunidade quando a mulher tem dificuldade de acesso e nunca fez o exame. Para melhorar a qualidade da amostra com sangue, pode-se adicionar ácido acético a 2% à solução fixadora, porque ele lisa as hemácias e preserva as células epiteliais. Hidróxido de potássio a 10% destrói as células e é usado no exame a fresco de fungos, não na citologia. Esperar 5 dias após a menstruação é recomendação, não regra absoluta.",
+"porAlt": [
+"Sangue na amostra não é contraindicação absoluta; a oportunidade de coleta não deve ser perdida.",
+"Esperar após a menstruação é o ideal, mas não impede a coleta em mulher com acesso limitado que nunca fez o exame.",
+"Correta: coleta-se e adiciona-se ácido acético a 2% ao fixador, que lisa as hemácias e melhora a amostra.",
+"O KOH a 10% destrói as células e serve ao exame a fresco de fungos, não à fixação do citopatológico."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 29,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "Uma mulher com 54 anos vai à consulta ginecológica de retorno tensa, ansiosa e com muitas dúvidas, pois, ao pesquisar o resultado de sua mamografia, verificou que o risco para ela desenvolver câncer variava de 2% a 95%, a depender do grau de suspeição. Nesse caso, a categoria BI-RADS encontrada no resultado do exame e a conduta recomendada pelo Ministério da Saúde para o seguimento dessa mulher, respectivamente, são:",
+"alts": [
+"BI-RADS 4 / realizar o controle radiológico por três anos, com repetição do exame a cada seis meses no primeiro ano e anualmente nos dois anos seguintes",
+"BI-RADS 5 / realizar o controle radiológico por três anos, com repetição do exame a cada seis meses no primeiro ano e anualmente nos dois anos seguintes",
+"BI-RADS 4 / encaminhá-la à unidade de referência secundária para investigação histopatológica e, caso confirme o diagnóstico de câncer, encaminhá-la à unidade de referência terciária para tratamento",
+"BI-RADS 5 / encaminhá-la à unidade de referência secundária para investigação histopatológica e, caso confirme o diagnóstico de câncer, encaminhá-la à unidade de referência terciária para tratamento"
+],
+"gab": 2,
+"tema": "mulher",
+"sub": "Rastreamento do câncer de colo e de mama",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r2",
+"base": "Diretrizes para a Detecção Precoce do Câncer de Mama no Brasil (INCA, 2015); Caderno de Atenção Básica nº 13 (MS, 2013)",
+"coment": "No BI-RADS, a categoria 4 (achado suspeito) reúne valores preditivos de malignidade de mais de 2% a menos de 95%; a categoria 5 (altamente sugestiva) corresponde a 95% ou mais; a 3 (provavelmente benigna) fica em até 2% e é a que recebe controle radiológico de três anos (semestral no primeiro ano e anual nos dois seguintes). Para BI-RADS 4 e 5, o Ministério manda encaminhar à unidade de referência secundária para investigação histopatológica e, confirmado o câncer, à referência terciária para tratamento.",
+"porAlt": [
+"A categoria está certa, mas o controle radiológico por três anos é a conduta do BI-RADS 3, não do 4.",
+"Risco de 2% a 95% é BI-RADS 4, e controle radiológico não é conduta para achado suspeito.",
+"Correta: risco de 2% a 95% é BI-RADS 4, que exige investigação histopatológica na referência secundária.",
+"A conduta está certa para BI-RADS 5, mas essa categoria corresponde a risco de 95% ou mais, não à faixa citada."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 30,
+"parte": "saude_mulher"
+}
+},
+{
+"q": "A hanseníase é uma doença transmissível negligenciada, além de estigmatizada, pois as pessoas atingidas por ela sofrem discriminação. Esses constituem alguns dos desafios para a eliminação dessa doença como um problema de saúde pública. Para a vigilância de novos casos entre a população vivendo nas antigas ex-colônias de isolamento, recomenda-se:",
+"alts": [
+"uso de máscaras",
+"passaporte vacinal",
+"uso de preservativo",
+"exame de coletividade"
+],
+"gab": 3,
+"tema": "transmissiveis",
+"sub": "Hanseníase",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Diretrizes para Vigilância, Atenção e Eliminação da Hanseníase como Problema de Saúde Pública: manual técnico-operacional (MS, 2016)",
+"coment": "A hanseníase se transmite pelas vias aéreas superiores, no convívio prolongado com doente multibacilar sem tratamento. Por isso a vigilância de casos novos se apoia na busca ativa: exame dos contatos e exame de coletividade, que é a avaliação dermatoneurológica sistemática de grupos com maior risco ou maior prevalência, como a população que vive nas antigas colônias de isolamento. Máscara, preservativo e passaporte vacinal não têm papel na detecção de casos novos.",
+"porAlt": [
+"Uso de máscara não detecta casos novos, e o paciente em tratamento deixa de transmitir.",
+"Passaporte vacinal não é instrumento de vigilância da hanseníase.",
+"A hanseníase não é infecção sexualmente transmissível; preservativo não tem papel na vigilância.",
+"Correta: o exame de coletividade é a busca ativa recomendada para populações das antigas colônias."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 31,
+"parte": "saude_familia"
+}
+},
+{
+"q": "Em alguns municípios brasileiros, o teste rápido molecular para tuberculose (TRM-TB) encontra-se disponível na rede pública de saúde. Esse teste tem como uma de suas características:",
+"alts": [
+"detectar a doença por meio de duas amostras de escarro",
+"detectar a resistência à rifampicina, com uma sensibilidade de 95%",
+"apresentar o resultado em aproximadamente 30 minutos em ambiente laboratorial",
+"apresentar a mesma sensibilidade tanto nas amostras de escarro quanto na baciloscopia"
+],
+"gab": 1,
+"tema": "transmissiveis",
+"sub": "Tuberculose",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r2",
+"base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada (MS, 2019)",
+"coment": "O teste rápido molecular para tuberculose (TRM-TB) amplifica DNA do Mycobacterium tuberculosis e detecta ao mesmo tempo o bacilo e a resistência à rifampicina; o Manual de Recomendações (2019) cita sensibilidade em torno de 90% para o diagnóstico em adultos e de 95% para detectar a resistência à rifampicina. Usa uma amostra de escarro, o resultado sai em cerca de duas horas no laboratório, e a sensibilidade é maior que a da baciloscopia. Não serve para controle de tratamento, porque detecta DNA de bacilo morto.",
+"porAlt": [
+"O TRM-TB precisa de uma única amostra de escarro; duas amostras é o esquema da baciloscopia diagnóstica.",
+"Correta: o TRM-TB detecta a resistência à rifampicina com sensibilidade de cerca de 95%.",
+"O resultado sai em cerca de duas horas, não em 30 minutos.",
+"O TRM-TB é mais sensível que a baciloscopia, sobretudo nos casos paucibacilares."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 32,
+"parte": "saude_familia"
+}
+},
+{
+"q": "A Caderneta de Saúde da Criança utiliza como parâmetros para avaliação do crescimento de crianças (menores de 10 anos) os seguintes gráficos para idade:",
+"alts": [
+"peso, estatura, perímetro cefálico e perímetro braquial",
+"IMC, peso, perímetro cefálico e perímetro braquial",
+"IMC, peso, estatura e perímetro braquial",
+"IMC, peso, estatura e perímetro cefálico"
+],
+"gab": 3,
+"tema": "crianca",
+"sub": "Crescimento e desenvolvimento",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Caderno de Atenção Básica nº 33, Saúde da criança: crescimento e desenvolvimento (MS, 2012); Caderneta da Criança (MS)",
+"coment": "A Caderneta da Criança usa as curvas da OMS, separadas por sexo, para acompanhar o crescimento. Para menores de 10 anos, traz gráficos de peso para idade, comprimento ou estatura para idade, IMC para idade e perímetro cefálico para idade, este nos primeiros anos. O perímetro braquial não tem gráfico na caderneta; é medida usada em triagem de desnutrição em outros contextos.",
+"porAlt": [
+"Falta o IMC para idade, e o perímetro braquial não tem gráfico na caderneta.",
+"Faltam a estatura para idade e um gráfico de perímetro braquial que a caderneta não traz.",
+"O perímetro braquial não tem gráfico; falta o perímetro cefálico.",
+"Correta: a caderneta traz IMC, peso, estatura e perímetro cefálico para idade."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 33,
+"parte": "saude_familia"
+}
+},
+{
+"q": "Ao utilizar vacinas, soros e imunoglobulinas, o vacinador deve levar em conta aspectos específicos relacionados à vacinação, pois os cuidados e procedimentos que envolvem cada um desses aspectos são fundamentais para que não haja comprometimento do processo de imunização induzido pela vacinação. Sobre a vacina da Hepatite B, a via de administração opcional para usuários com discrasia sanguínea é a:",
+"alts": [
+"subcutânea",
+"intravenosa",
+"intradérmica",
+"intramuscular"
+],
+"gab": 0,
+"tema": "imuniza",
+"sub": "Técnica de aplicação",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS); Manual de Normas e Procedimentos para Vacinação (MS, 2014)",
+"coment": "A vacina hepatite B é intramuscular, no vasto lateral da coxa em menores de 2 anos e no deltoide nos maiores. Não deve ser aplicada no glúteo nem por via subcutânea ou intradérmica de rotina, pela resposta imune menor. A exceção prevista nas normas do PNI é a pessoa com doença hemorrágica grave ou discrasia sanguínea, como o hemofílico, em que a via subcutânea pode ser usada para evitar hematoma muscular; a mesma exceção vale para outras vacinas IM, como penta, DTP, VIP e hepatite A.",
+"porAlt": [
+"Correta: na discrasia sanguínea a vacina hepatite B pode ser feita por via subcutânea.",
+"Nenhuma vacina do calendário é aplicada por via intravenosa.",
+"A via intradérmica dá resposta menor e não é a alternativa prevista para a hepatite B.",
+"A intramuscular é a via de rotina; a questão pede a via opcional para quem tem discrasia sanguínea."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 34,
+"parte": "saude_familia"
+}
+},
+{
+"q": "A rede de frio ou cadeia de frio é o processo de armazenamento, conservação, manipulação, distribuição e transporte dos imunobiológicos do Programa Nacional de Imunizações. Os imunobiológicos são produtos termolábeis, que necessitam de equipamentos de refrigeração para manter a temperatura adequada e constante. Em relação aos principais equipamentos e instrumentos previstos na cadeia de frio de imunobiológicos, é correto afirmar que:",
+"alts": [
+"as caixas de papelão devem ser utilizadas para o transporte de imunobiológicos em atividades de rotina e campanhas realizadas nas Unidades Básicas de Saúde",
+"as câmaras frigoríficas positivas e negativas são equipamentos de infraestrutura utilizados nas instâncias que armazenam maiores quantidades de imunobiológicos por longos períodos",
+"na instância local, em salas de vacinação, os imunobiológicos são conservados em temperatura negativa (-2 a -8ºC), portanto os freezers são utilizados no armazenamento de bobinas reutilizáveis",
+"o instrumento normalizado de medição de temperatura é o barômetro, que, assim como as câmaras térmicas, é calibrado a partir da relação entre os valores indicados por um instrumento de medição padrão"
+],
+"gab": 1,
+"tema": "imuniza",
+"sub": "Rede de frio e conservação",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Manual de Rede de Frio do Programa Nacional de Imunizações, 5ª ed. (MS, 2017)",
+"coment": "O Manual de Rede de Frio (2017) descreve as câmaras frigoríficas, ou câmaras frias, positivas e negativas, como equipamentos de infraestrutura das instâncias que armazenam grandes volumes por longos períodos (nacional, estaduais e algumas regionais). Na sala de vacinação os imunobiológicos ficam entre +2 °C e +8 °C em câmara refrigerada, e o freezer serve para congelar bobinas reutilizáveis. O transporte usa caixas térmicas, nunca caixa de papelão, e a temperatura é medida por termômetro calibrado, não por barômetro.",
+"porAlt": [
+"O transporte de imunobiológicos usa caixas térmicas de material isolante, não caixas de papelão.",
+"Correta: câmaras frigoríficas positivas e negativas servem às instâncias que armazenam grandes volumes por longos períodos.",
+"Na sala de vacinação a conservação é entre +2 °C e +8 °C, não em temperatura negativa.",
+"O instrumento de medição de temperatura é o termômetro; barômetro mede pressão atmosférica."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 35,
+"parte": "saude_familia"
+}
+},
+{
+"q": "Pessoas com hiperglicemia intermediária, ou pré-diabetes, por terem maior risco de desenvolver a doença, deverão ser orientadas sobre prevenção, o que inclui informações sobre alimentação saudável e hábitos ativos de vida, bem como reavaliação anual com glicemia de jejum. Para identificar a hiperglicemia intermediária, os valores preconizados para a avaliação de glicemia de jejum, glicemia de duas horas pós-carga e HbA1c, respectivamente, estão entre:",
+"alts": [
+"99 e 126mg/dL; 110 a 200mg/dL; 5,9 e 6,5%",
+"110 e 140mg/dL; 140 a 199mg/dL; 5,7 e 6,4%",
+"110 e 125mg/dL; 140 a 199mg/dL; 5,7 e 6,4%",
+"126 e 140mg/dL; 110 a 200mg/dL; 5,9 e 6,5%"
+],
+"gab": 2,
+"tema": "adulto",
+"sub": "Diabetes mellitus",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r2",
+"base": "Caderno de Atenção Básica nº 36, Diabetes mellitus (MS, 2013); Standards of Care in Diabetes 2026 (ADA)",
+"coment": "O Caderno de Atenção Básica 36 (2013), fonte da questão, adota para a glicemia de jejum alterada o critério da OMS, de 110 a 125 mg/dL, com tolerância diminuída à glicose de 140 a 199 mg/dL duas horas após 75 g e hemoglobina glicada de 5,7 a 6,4%. A ADA e a SBD usam hoje 100 a 125 mg/dL para a glicemia de jejum no pré-diabetes, mantendo os outros dois cortes. Mesmo pelo critério atual, a alternativa C é a única com os cortes corretos de TOTG e glicada; na prática, considere pré-diabetes a partir de 100 mg/dL.",
+"porAlt": [
+"99 mg/dL ainda é normal e 126 mg/dL já é diabetes; os demais cortes também estão errados.",
+"O jejum vai até 125 mg/dL; 140 mg/dL em jejum já é diabetes.",
+"Correta: jejum de 110 a 125 mg/dL (OMS, CAB 36), TOTG de 140 a 199 mg/dL e glicada de 5,7 a 6,4%.",
+"126 mg/dL em jejum já é diagnóstico de diabetes, e os outros cortes estão errados."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 36,
+"parte": "saude_familia"
+}
+},
+{
+"q": "A hipertensão arterial sistêmica apresenta alta morbimortalidade, com perda importante da qualidade de vida, o que reforça a importância do diagnóstico precoce. O diagnóstico não requer tecnologia sofisticada, e a doença pode ser tratada e controlada com mudanças no estilo de vida, com medicamentos de baixo custo e de poucos efeitos colaterais, comprovadamente eficazes e de fácil aplicabilidade na Atenção Básica. É uma recomendação que tem por objetivo melhorar a aderência à terapêutica anti-hipertensiva:",
+"alts": [
+"não informar ao paciente os efeitos adversos das drogas para evitar a suspensão do tratamento",
+"adicionar drogas efetivas no primeiro contato com o paciente",
+"solicitar monitoramento residencial da pressão arterial",
+"tentar nova abordagem em terapias sem sucesso"
+],
+"gab": 3,
+"tema": "adulto",
+"sub": "Hipertensão e doenças cardiovasculares",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Caderno de Atenção Básica nº 37, Hipertensão arterial sistêmica (MS, 2013), adesão ao tratamento",
+"coment": "Até metade dos hipertensos abandona ou usa mal o tratamento no primeiro ano. As recomendações de adesão que a banca reproduz incluem informar o paciente sobre a doença e os efeitos adversos dos fármacos, envolver a família, simplificar o esquema e, diante de terapias sem sucesso, tentar nova abordagem em vez de insistir no mesmo plano. Esconder efeitos adversos quebra a confiança e aumenta o abandono, e acumular fármacos no primeiro contato piora tolerância e adesão. A monitorização residencial (MRPA) é exame para diagnóstico e controle, não medida de adesão em si.",
+"porAlt": [
+"Omitir efeitos adversos quebra a confiança e aumenta o abandono quando eles surgem.",
+"Adicionar vários fármacos já no primeiro contato aumenta efeitos adversos e reduz a adesão.",
+"A MRPA é exame complementar de diagnóstico e controle, não recomendação voltada à adesão.",
+"Correta: diante de terapias sem sucesso, tentar nova abordagem é recomendação para melhorar a adesão."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 37,
+"parte": "saude_familia"
+}
+},
+{
+"q": "No programa de saúde do idoso, o instrumento utilizado para avaliar o nível intelectual ou de demência é denominado:",
+"alts": [
+"miniexame do estado mental",
+"avaliação de Zarit",
+"escala de Katz",
+"exame físico"
+],
+"gab": 0,
+"tema": "idoso",
+"sub": "Envelhecimento e avaliação multidimensional",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Caderno de Atenção Básica nº 19, Envelhecimento e saúde da pessoa idosa (MS, 2006)",
+"coment": "Na avaliação multidimensional da pessoa idosa, o Caderno de Atenção Básica 19 usa o miniexame do estado mental (MEEM) para rastrear o declínio cognitivo: avalia orientação, memória imediata e de evocação, atenção e cálculo, linguagem e praxia, com pontuação de 0 a 30 e corte ajustado à escolaridade. É rastreio, não diagnóstico de demência. A escala de Zarit mede a sobrecarga do cuidador, e a de Katz avalia as atividades básicas de vida diária.",
+"porAlt": [
+"Correta: o miniexame do estado mental rastreia o declínio cognitivo na pessoa idosa.",
+"A escala de Zarit avalia a sobrecarga do cuidador, não a cognição do idoso.",
+"A escala de Katz avalia a independência nas atividades básicas de vida diária.",
+"O exame físico não é instrumento padronizado de avaliação cognitiva."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 38,
+"parte": "saude_familia"
+}
+},
+{
+"q": "O apoio matricial (AM) é considerado um dispositivo de reinvenção das organizações de saúde e uma ferramenta fundamental para atenção à saúde mental pelas equipes de Saúde da Família. Sobre o AM, é correto afirmar que:",
+"alts": [
+"apoiar equipes é intervir em seus processos de trabalho, transmitindo saberes em uma relação hierárquica dos agentes de prática, de forma a permitir que as equipes respondam a situações problemáticas e complexas de saúde mental",
+"para ter potência, ele tem que ser capaz de proporcionar trocas de saberes/afetos, de promover abertura institucional e novos agenciamentos, isto é, conexões entre as mais variadas matérias de expressão nos encontros de matriciamento",
+"é uma metodologia de trabalho inserida hierarquicamente no nível secundário da atenção, articulado a mecanismos de referência e contrarreferência, protocolos e centros de regulação, de forma a permitir atendimento especializado",
+"busca-se, por meio dos encontros de matriciamento, viabilizar para os profissionais envolvidos a manutenção de práticas que facilitem o encaminhamento dos usuários aos níveis especializados de atenção à saúde mental"
+],
+"gab": 1,
+"tema": "mental",
+"sub": "Rede de Atenção Psicossocial",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Guia prático de matriciamento em saúde mental (Chiaverini, org., MS, 2011)",
+"coment": "O apoio matricial, formulado por Gastão Wagner de Sousa Campos, é um arranjo em que uma equipe especializada compartilha casos e saberes com a equipe de referência da atenção básica, de forma horizontal e corresponsável. O Guia prático de matriciamento (2011) o diferencia do modelo de referência e contrarreferência: o objetivo é ampliar a capacidade de cuidado da equipe de Saúde da Família e reduzir encaminhamentos desnecessários. Sua potência está nas trocas de saberes e afetos e na abertura de novos arranjos nos encontros.",
+"porAlt": [
+"O matriciamento é relação horizontal de troca, não transmissão hierárquica de saberes.",
+"Correta: a potência do matriciamento está na troca de saberes e afetos e nos novos agenciamentos produzidos nos encontros.",
+"O apoio matricial não é nível secundário hierárquico nem se confunde com referência e contrarreferência.",
+"O matriciamento busca reduzir encaminhamentos e ampliar a resolutividade da APS, não facilitá-los."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 39,
+"parte": "saude_familia"
+}
+},
+{
+"q": "De acordo com o Caderno de Atenção Básica nº 38, “Estratégias para o cuidado da pessoa com doença crônica: obesidade”, para a atenção ao indivíduo com sobrepeso e obesidade, é necessária ação contínua de Vigilância Alimentar e Nutricional (VAN) para a identificação dos casos, estratificação de risco e organização da oferta de cuidado. Sobre as ações da VAN, é correto afirmar que:",
+"alts": [
+"a VAN, na rotina da Atenção Básica, faz parte somente do cuidado à demanda programada",
+"a VAN pode ser realizada em diversos pontos de atenção da Rede de Atenção à Saúde, principalmente na Atenção Básica, exceto na Atenção Hospitalar",
+"na Atenção Básica, além das Unidades Básicas de Saúde, destacam-se outros equipamentos e programas que são locais privilegiados para a ação, como o Programa Saúde na Escola e as Academias da Saúde",
+"os atendimentos de puericultura, pré-natal e acompanhamento de hipertensos e diabéticos são momentos inoportunos para a mensuração do peso e da altura e para a classificação do estado nutricional dos indivíduos"
+],
+"gab": 2,
+"tema": "sus",
+"sub": "Redes de Atenção à Saúde",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r2",
+"base": "Caderno de Atenção Básica nº 38, Estratégias para o cuidado da pessoa com doença crônica: obesidade (MS, 2014)",
+"coment": "O Caderno de Atenção Básica 38 coloca a Vigilância Alimentar e Nutricional (VAN) como ação contínua em todos os pontos da Rede de Atenção à Saúde, inclusive na atenção hospitalar. Na atenção básica, além da UBS, o Programa Saúde na Escola e o Programa Academia da Saúde são locais privilegiados para medir peso e altura e classificar o estado nutricional. A VAN entra tanto na demanda programada quanto na espontânea, e puericultura, pré-natal e acompanhamento de hipertensos e diabéticos são momentos oportunos para ela.",
+"porAlt": [
+"A VAN cabe na demanda programada e na espontânea, aproveitando todo contato com o usuário.",
+"A VAN pode e deve ocorrer em todos os pontos da RAS, inclusive na atenção hospitalar.",
+"Correta: o Programa Saúde na Escola e a Academia da Saúde são locais privilegiados para a VAN na atenção básica.",
+"Puericultura, pré-natal e acompanhamento de crônicos são momentos oportunos para medir e classificar o estado nutricional."
+],
+"fonte": {
+"banca": "UERJ (CEPUERJ)",
+"ano": 2022,
+"prova": "Residência Uniprofissional 2023, Enfermagem Obstétrica e Enfermagem em Saúde da Família",
+"n": 40,
+"parte": "saude_familia"
+}
+},
+{
 "q": "As drogas vasoativas, frequentemente utilizadas na terapia intensiva, são substâncias que apresentam efeitos vasculares periféricos, pulmonares ou cardíacos, por isso, os enfermeiros devem conhecer as propriedades farmacológicas, a indicação e os cuidados de enfermagem. São exemplos de drogas vasoativas:",
 "alts": [
 "Fentanil, Noradrenalina e Vasopressina",
@@ -53048,6 +55790,4206 @@ window.BANCO=[
 "ano": 2025,
 "prova": "Hemominas 2025, Enfermeiro",
 "n": 42,
+"parte": "especificas"
+}
+},
+{
+"q": "A vacina intitulada SCRV (tetra viral), aplicada aos 15 meses (dose única), tem como objetivo evitar as seguintes doenças:",
+"alts": [
+"difteria, tétano, coqueluche, hepatite B, meningite e outras infecções causadas pelo Haemophilus influenzae tipo b",
+"doenças invasivas causadas por Neisseria meningitidis do sorogrupo C",
+"sarampo, caxumba, rubéola e varicela",
+"difteria, tuberculose, sarampo e coqueluche"
+],
+"gab": 2,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+"coment": "SCRV é a sigla da tetraviral: S de sarampo, C de caxumba, R de rubéola e V de varicela, todas vírus vivos atenuados. Atualização importante: a Instrução Normativa do calendário de 2026 recomenda, aos 15 meses, a 2ª dose de tríplice viral (SCR) no mesmo dia da 1ª dose de varicela monovalente, em sítios distintos; a tetraviral fica para a falta da varicela monovalente. A varicela tem 2 doses, aos 15 meses e aos 4 anos. O que a vacina previne não mudou.",
+"porAlt": [
+"Errada: essas doenças são as da vacina penta (DTP, hepatite B e Haemophilus influenzae tipo b), aplicada aos 2, 4 e 6 meses.",
+"Errada: a doença meningocócica pelo sorogrupo C é alvo da meningocócica C conjugada, não da tetraviral.",
+"Correta: a tetraviral (SCRV) protege contra sarampo, caxumba, rubéola e varicela, como diz a própria sigla.",
+"Errada: tuberculose é prevenida pela BCG, e difteria e coqueluche pelas vacinas com componente DTP."
+],
+"fonte": {
+"banca": "Selecon",
+"ano": 2023,
+"prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+"n": 39,
+"parte": "especificas"
+}
+},
+{
+"q": "Uma cobertura amplamente utilizada em feridas cavitárias e que permite a hemostasia, mantendo o meio úmido, entretanto, absorvendo o exsudato e preenchendo as cavidades, recebe o nome de:",
+"alts": [
+"AGE - Ácidos Graxos Essenciais",
+"Alginato de cálcio",
+"Hidrocoloide",
+"Papaína"
+],
+"gab": 1,
+"tema": "feridas",
+"sub": "Coberturas e curativos",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Resolução COFEN 787/2025 (atuação da enfermagem em lesões cutâneas)",
+"coment": "O alginato de cálcio é uma fibra de alga que troca o cálcio pelo sódio do exsudato e vira gel. Por isso absorve muito exsudato, mantém o leito úmido, preenche cavidades e tem ação hemostática pelo cálcio liberado, o que o torna a escolha nas feridas cavitárias, exsudativas e com sangramento leve. Não serve para ferida seca, porque resseca e adere ao leito. A escolha da cobertura é do enfermeiro, conforme a Res. COFEN 787/2025.",
+"porAlt": [
+"Errada: o AGE hidrata e protege a pele e a lesão superficial; não preenche cavidade nem tem efeito hemostático.",
+"Correta: o alginato de cálcio absorve exsudato, mantém o meio úmido, preenche cavidades e é hemostático.",
+"Errada: o hidrocoloide é placa oclusiva para feridas superficiais com pouco exsudato e não se usa em cavidade nem em ferida infectada.",
+"Errada: a papaína é enzima proteolítica usada para desbridamento químico de tecido desvitalizado, não para hemostasia."
+],
+"fonte": {
+"banca": "Selecon",
+"ano": 2023,
+"prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+"n": 40,
+"parte": "especificas"
+}
+},
+{
+"q": "A infecção do trato urinário associada ao cateter vesical demora (ITU – A) está relacionada à assistência à saúde (IRAS). Faz parte do pacote de medidas de prevenção de ITU – AC:",
+"alts": [
+"trocar o cateter vesical de demora rotineiramente para evitar acúmulo de biofilme",
+"realizar ultrassom de bexiga em todos os pacientes com cateter vesical de demora diariamente",
+"instalar o dispositivo condom, quando possível, ou dar preferência ao cateterismo intermitente",
+"direcionar o uso de cateter vesical de demora para todos casos de pacientes internados em unidade hospitalar devido ao risco de lesão por pressão"
+],
+"gab": 2,
+"tema": "seguranca",
+"sub": "Infecções relacionadas à assistência",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (ANVISA, 2017), Caderno 4",
+"coment": "O pacote de prevenção de ITU associada a cateter do Caderno 4 da ANVISA pode ser lembrado pelo ABCDE: adesão às medidas, bexiga avaliada por ultrassom quando há dúvida de retenção, condom e cateterismo intermitente como alternativas, direcionar a sonda de demora só para indicação clara e evitar mantê-la sem necessidade. A sonda de demora só se justifica em retenção, controle rigoroso de débito, pós-operatório pelo menor tempo e lesão por pressão estágio 4 contaminada por urina. O enunciado traz o erro do caderno na sigla da ITU associada a cateter, mantido como está.",
+"porAlt": [
+"Errada: a troca rotineira, em intervalo fixo, não é recomendada; troca-se por obstrução, mau funcionamento ou quebra do sistema fechado.",
+"Errada: o ultrassom de bexiga serve para avaliar retenção e evitar sondagens desnecessárias, não para todo paciente sondado todo dia.",
+"Correta: dispositivo externo (condom) e cateterismo intermitente são as alternativas preferidas à sonda de demora no pacote da ANVISA.",
+"Errada: sonda de demora não previne lesão por pressão e só deve ser usada nas indicações aceitas, nunca de rotina na internação."
+],
+"fonte": {
+"banca": "Selecon",
+"ano": 2023,
+"prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+"n": 41,
+"parte": "especificas"
+}
+},
+{
+"q": "As infecções do sítio cirúrgico (ISC), que ocorrem no pós-operatório em cerca de 3 a 20%, são as complicações mais comuns decorrentes do ato cirúrgico e dos procedimentos realizados, gerando um impacto desfavorável nos desfechos dos pacientes. Uma das recomendações para a prevenção dessa infecção é a administração de antibióticos com dose efetiva em até:",
+"alts": [
+"20 minutos após a incisão cirúrgica",
+"40 minutos após a incisão cirúrgica",
+"60 minutos após a incisão cirúrgica",
+"60 minutos antes da incisão cirúrgica"
+],
+"gab": 3,
+"tema": "seguranca",
+"sub": "Infecções relacionadas à assistência",
+"cenario": "cc",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (ANVISA, 2017), Caderno 4",
+"coment": "A antibioticoprofilaxia cirúrgica precisa de concentração tecidual adequada no momento da incisão. Por isso o Caderno 4 da ANVISA recomenda administrá-la até 60 minutos antes da incisão, com exceção de vancomicina e ciprofloxacino, iniciados 1 a 2 horas antes pelo tempo de infusão, e suspendê-la em até 24 horas. A lista de verificação da OMS confere na pausa antes da incisão se o antimicrobiano foi dado nos últimos 60 minutos. Dose feita depois da incisão chega tarde e perde o efeito preventivo.",
+"porAlt": [
+"Errada: depois da incisão a ferida já foi exposta sem nível tecidual de antibiótico; a dose é anterior à incisão.",
+"Errada: 40 minutos após a incisão também é tarde demais; a profilaxia deve estar circulando no momento do corte.",
+"Errada: 60 minutos após a incisão deixa a primeira hora da cirurgia sem proteção, o contrário do recomendado.",
+"Correta: a dose profilática é feita nos 60 minutos que antecedem a incisão cirúrgica."
+],
+"fonte": {
+"banca": "Selecon",
+"ano": 2023,
+"prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+"n": 42,
+"parte": "especificas"
+}
+},
+{
+"q": "De acordo com protocolo PE36, que descreve a limpeza e a desinfecção de equipamentos da ambulância, o laringoscópio e as lâminas para intubação devem seguir a seguinte rotina:",
+"alts": [
+"retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano umedecido em água e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido em álcool 70%",
+"manter as pilhas do cabo; manter as lâmpadas das lâminas; friccionar com pano umedecido em água e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido em álcool 70%",
+"retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano umedecido em água morna e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido em óxido de etileno",
+"retirar as pilhas do cabo; manter as lâmpadas das lâminas; friccionar com pano umedecido em água e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido com clorexidina aquosa 0,12%"
+],
+"gab": 0,
+"tema": "cirurgica",
+"sub": "Central de material e esterilização",
+"cenario": "emg",
+"comp": "tec",
+"nivel": "r2",
+"base": "Protocolos de Suporte Avançado de Vida, SAMU 192 (MS, 2ª ed., 2016); RDC ANVISA 15/2012",
+"coment": "A rotina do protocolo do SAMU para o laringoscópio começa por retirar as pilhas do cabo e as lâmpadas das lâminas, para proteger a parte elétrica e expor todas as superfícies. Depois vem a limpeza com pano úmido em água e sabão, retirada do excesso, secagem e fricção com álcool 70%. Fora da ambulância, lembre que a lâmina toca mucosa e é semicrítica pela classificação de Spaulding: na CME ela vai, no mínimo, à desinfecção de alto nível (RDC 15/2012), e muitos serviços já usam lâmina descartável.",
+"porAlt": [
+"Correta: retirar pilhas e lâmpadas, limpar com água e sabão, secar e friccionar com álcool 70% é a sequência do protocolo.",
+"Errada: manter pilhas e lâmpadas impede a limpeza completa e expõe o circuito elétrico à umidade.",
+"Errada: óxido de etileno é gás esterilizante usado em autoclave própria, nunca aplicado com pano umedecido.",
+"Errada: clorexidina aquosa 0,12% é antisséptico bucal e não é desinfetante de equipamento; além disso, as lâmpadas devem ser retiradas."
+],
+"fonte": {
+"banca": "Selecon",
+"ano": 2023,
+"prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+"n": 43,
+"parte": "especificas"
+}
+},
+{
+"q": "A escarlatina é uma doença bacteriana, infecciosa e contagiosa, que costuma ocorrer em crianças em idade escolar, sobretudo, durante a primavera. O período de incubação pode variar de:",
+"alts": [
+"14 a 28 dias",
+"12 a 20 dias",
+"11 a 14 dias",
+"1 a 10 dias"
+],
+"gab": 3,
+"tema": "crianca",
+"sub": "AIDPI e doenças prevalentes",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r2",
+"base": "Informe Técnico Escarlatina (CVE/SES-SP, 2024)",
+"coment": "A escarlatina é causada pelo estreptococo beta-hemolítico do grupo A produtor de toxina eritrogênica, com febre, faringite, língua em framboesa e exantema áspero em lixa. A incubação é curta, como a da faringite estreptocócica: o informe técnico do CVE de São Paulo de 2024 fala em cerca de 2 a 5 dias, podendo chegar a 7, e materiais de divulgação em saúde citam faixa de 1 a 10 dias. A única alternativa compatível é 1 a 10 dias; as demais começam em 11 dias ou mais, o que não ocorre.",
+"porAlt": [
+"Errada: 14 a 28 dias é incubação de infecções mais lentas e não de uma doença estreptocócica aguda.",
+"Errada: 12 a 20 dias está muito acima da incubação curta da escarlatina, que é de poucos dias.",
+"Errada: 11 a 14 dias lembra a incubação de exantemas virais como o sarampo, não a da escarlatina.",
+"Correta: a incubação da escarlatina é curta, de poucos dias, e cabe na faixa de 1 a 10 dias."
+],
+"fonte": {
+"banca": "Selecon",
+"ano": 2023,
+"prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+"n": 44,
+"parte": "especificas"
+}
+},
+{
+"q": "Segundo a RDC 222/18, os agentes biológicos que provocam infecções no homem ou nos animais, cujo potencial de propagação na comunidade e de disseminação no meio ambiente é limitado, e para os quais existem medidas terapêuticas e profiláticas eficazes, são classificados como de risco:",
+"alts": [
+"1",
+"2",
+"3",
+"4"
+],
+"gab": 1,
+"tema": "seguranca",
+"sub": "Biossegurança e NR-32",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "RDC ANVISA 222/2018 (classificação de risco dos agentes biológicos)",
+"coment": "A RDC 222/2018 adota a mesma escala de quatro classes da NR 32. A classe 2 é de risco individual moderado e risco limitado para a comunidade: o agente causa infecção, mas se propaga pouco e há tratamento e profilaxia eficazes, como no caso dos estafilococos e da maioria das bactérias de rotina. A classe 1 tem baixo risco de causar doença; a 3, risco elevado e possibilidade de disseminação, nem sempre com tratamento; a 4, alta transmissibilidade e sem tratamento eficaz.",
+"porAlt": [
+"Errada: a classe 1 reúne agentes com baixa probabilidade de causar doença, o que não combina com 'provocam infecções'.",
+"Correta: a classe 2 é a de agentes que causam infecção, com propagação limitada e com terapia e profilaxia eficazes.",
+"Errada: a classe 3 tem risco individual elevado e probabilidade de disseminação, e nem sempre há tratamento eficaz.",
+"Errada: a classe 4 tem alta transmissibilidade na comunidade e não dispõe de medidas terapêuticas e profiláticas eficazes."
+],
+"fonte": {
+"banca": "Selecon",
+"ano": 2023,
+"prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+"n": 45,
+"parte": "especificas"
+}
+},
+{
+"q": "O protocolo AGO3 de assistência ao parto consumado, descrito no manual de Suporte Avançado de Vida (SAMU), descreve, como critério de inclusão ou suspeita, a expulsão completa do recém-nascido (RN), com a seguinte idade gestacional:",
+"alts": [
+"≤ 18 semanas",
+"≤ 21 semanas",
+"≥ 22 semanas",
+"≥ 30 semanas"
+],
+"gab": 2,
+"tema": "mulher",
+"sub": "Parto e nascimento",
+"cenario": "emg",
+"comp": "aval",
+"nivel": "r2",
+"base": "Protocolos de Suporte Avançado de Vida, SAMU 192 (MS, 2ª ed., 2016)",
+"coment": "O protocolo de parto consumado do SAMU vale para a expulsão completa de um recém-nascido com 22 semanas ou mais de gestação. O corte acompanha a definição de abortamento usada pelo Ministério da Saúde, que é a interrupção antes de 22 semanas (ou feto abaixo de 500 g). Por isso a equipe abre o atendimento como parto, com cuidados ao recém-nascido e à puérpera, a partir de 22 semanas; abaixo disso, o caso segue o protocolo de abortamento.",
+"porAlt": [
+"Errada: até 18 semanas a expulsão é abortamento e não entra no protocolo de parto consumado.",
+"Errada: até 21 semanas ainda se trata de abortamento pela definição do Ministério da Saúde.",
+"Correta: a partir de 22 semanas a expulsão completa do concepto é tratada como parto consumado.",
+"Errada: 30 semanas deixaria de fora os partos prematuros entre 22 e 29 semanas, que também são parto."
+],
+"fonte": {
+"banca": "Selecon",
+"ano": 2023,
+"prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+"n": 46,
+"parte": "especificas"
+}
+},
+{
+"q": "No atendimento às síndromes hipertensivas da gestação: pré-eclâmpsia e pré-eclâmpsia sobreposta à hipertensão arterial crônica, a dose de ataque de sulfato de magnésio (endovenoso) deve ser a seguinte:",
+"alts": [
+"4 gramas, via intravenosa diluída em água bi-destilada ou solução salina 0,9% 100 mL com tempo de infusão rigoroso de 15 minutos",
+"6 gramas, via intramuscular diluída em água bi-destilada ou solução salina 0,9% 100 mL com tempo de infusão rigoroso de 15 minutos",
+"8 gramas, via intravenosa diluída em água bi-destilada ou solução salina 0,9% 100 mL com tempo de infusão rigoroso de 15 minutos",
+"10 gramas, via intravenosa diluída em água bi-destilada ou solução salina 0,9% 150 mL com tempo de infusão rigoroso de 20 minutos"
+],
+"gab": 0,
+"tema": "mulher",
+"sub": "Emergências obstétricas",
+"cenario": "emg",
+"comp": "calc",
+"nivel": "r1",
+"base": "Manual de Gestação de Alto Risco (MS, 2022)",
+"coment": "Pelo esquema de Zuspan, o ataque de sulfato de magnésio é de 4 g por via intravenosa, infundidos lentamente (em torno de 15 a 20 minutos), seguido de manutenção de 1 g/h em bomba de infusão. No Pritchard, o mesmo ataque de 4 g IV soma 10 g IM (5 g em cada glúteo). A diluição em 100 mL facilita o controle do tempo de infusão. Antes e durante, o enfermeiro confere reflexo patelar, frequência respiratória e diurese, e deixa gluconato de cálcio 10% à beira do leito.",
+"porAlt": [
+"Correta: o ataque é de 4 g IV diluídos e infundidos em cerca de 15 minutos, como no esquema de Zuspan.",
+"Errada: 6 g não é a dose do protocolo, e a via intramuscular não combina com diluição em 100 mL e tempo de infusão.",
+"Errada: 8 g IV em bolus dobra o ataque recomendado e aumenta o risco de intoxicação por magnésio.",
+"Errada: 10 g é a dose IM do Pritchard (dividida nos glúteos), não um ataque intravenoso em 20 minutos."
+],
+"fonte": {
+"banca": "Selecon",
+"ano": 2023,
+"prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+"n": 47,
+"parte": "especificas"
+}
+},
+{
+"q": "Enfermeira Joana participou de uma palestra sobre o Código de Ética dos Profissionais de Enfermagem. Durante a aula foram abordadas as infrações que podem ser consideradas leves, moderadas, graves ou gravíssimas, segundo a natureza do ato e a circunstância de cada caso. Aquela infração que provoca debilidade temporária de membro, sentido ou função na pessoa, ou quando causarem danos mentais, morais, patrimoniais ou financeiros é classificada como infração:",
+"alts": [
+"gravíssima",
+"moderada",
+"grave",
+"leve"
+],
+"gab": 1,
+"tema": "etica",
+"sub": "Código de Ética dos Profissionais de Enfermagem",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução COFEN 564/2017, art. 111, § 2º",
+"coment": "O Código de Ética (Res. COFEN 564/2017, vigente) gradua a infração pelo dano. Leve: ofende a integridade física, mental ou moral sem causar debilidade. Moderada: provoca debilidade temporária de membro, sentido ou função, ou causa danos mentais, morais, patrimoniais ou financeiros. Grave: perigo de morte, debilidade permanente ou dano moral irremediável. Gravíssima: morte, debilidade permanente ou dano moral irremediável. A palavra 'temporária' é o que define a moderada.",
+"porAlt": [
+"Errada: gravíssima é a infração que provoca morte, debilidade permanente ou dano moral irremediável.",
+"Correta: debilidade temporária ou danos mentais, morais, patrimoniais ou financeiros caracterizam infração moderada.",
+"Errada: grave é a que gera perigo de morte, debilidade permanente ou dano moral irremediável.",
+"Errada: leve é a que ofende a integridade física, mental ou moral sem causar debilidade."
+],
+"fonte": {
+"banca": "Selecon",
+"ano": 2023,
+"prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+"n": 48,
+"parte": "especificas"
+}
+},
+{
+"q": "Segundo o protocolo AP12 (operação básica de ventilador mecânico para transporte), descrito no manual de suporte avançado SAMU, a PEEP (pressão positiva ao final da expiração) deve ter a seguinte programação inicial:",
+"alts": [
+"4 a 8 cmH2O em caso de redução da complacência pulmonar (síndrome do desconforto respiratório agudo), mas pode-se utilizar valores até 25cmH2O caso o paciente possua condições de monitoramento de curvas de pressão",
+"3 a 5 cmH2O em caso de redução da complacência pulmonar (síndrome do desconforto respiratório agudo), mas pode-se utilizar valores até 20cmH2O caso o paciente possua condições de monitoramento de curvas de pressão",
+"8 a 10 cmH2O em caso de redução da complacência pulmonar (síndrome do desconforto respiratório agudo), mas pode-se utilizar valores até 28 cmH2O caso o paciente possua condições de monitoramento de curvas de pressão",
+"5 a 8 cmH2O em caso de redução da complacência pulmonar (síndrome do desconforto respiratório agudo), mas pode-se utilizar valores até 30cmH2O caso o paciente possua condições de monitoramento de curvas de fluxo"
+],
+"gab": 1,
+"tema": "uti",
+"sub": "Ventilação mecânica",
+"cenario": "emg",
+"comp": "tec",
+"nivel": "r2",
+"base": "Protocolos de Suporte Avançado de Vida, SAMU 192 (MS, 2ª ed., 2016), AP12; Diretrizes Brasileiras de Ventilação Mecânica (AMIB/SBPT, 2013)",
+"coment": "No ventilador de transporte, o protocolo do SAMU programa PEEP inicial de 3 a 5 cmH2O, o mesmo ajuste fisiológico que a AMIB recomenda para a maioria dos pacientes. Na complacência reduzida da síndrome do desconforto respiratório agudo, a PEEP pode subir até 20 cmH2O, desde que haja monitorização das curvas de pressão para evitar barotrauma e instabilidade hemodinâmica. A redação da alternativa junta as duas frases do protocolo, mas os números são os dele.",
+"porAlt": [
+"Errada: o protocolo não parte de 4 a 8 cmH2O nem libera PEEP de até 25 cmH2O no transporte.",
+"Correta: PEEP inicial de 3 a 5 cmH2O, com até 20 cmH2O na SDRA quando há monitorização das curvas de pressão.",
+"Errada: 8 a 10 cmH2O como ponto de partida e teto de 28 cmH2O não correspondem ao protocolo.",
+"Errada: 5 a 8 cmH2O e até 30 cmH2O não são os valores do protocolo, e a referência é a curva de pressão, não a de fluxo."
+],
+"fonte": {
+"banca": "Selecon",
+"ano": 2023,
+"prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+"n": 49,
+"parte": "especificas"
+}
+},
+{
+"q": "Os linfomas estão entre os três grupos de neoplasias mais frequentes na faixa etária pediátrica. Apresentam-se, normalmente, por aumento ganglionar denominado adenomegalia. Além disso, o paciente apresenta os sintomas B que são:",
+"alts": [
+"alterações em duas ou mais séries do hemograma, hepatoesplenomegalia e febre sem causa determinada",
+"sorologias negativas, ganho de peso repentino e sudorese noturna",
+"plaquetopenia, sorologias negativas, febre e perda de peso abrupta",
+"febre sem causa determinada, perda de peso e sudorese noturna"
+],
+"gab": 3,
+"tema": "adulto",
+"sub": "Oncologia e quimioterapia",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r2",
+"base": "Classificação de Lugano para linfomas (Cheson et al., J Clin Oncol, 2014)",
+"coment": "Os sintomas B dos linfomas são três: febre sem causa aparente (acima de 38 °C), sudorese noturna profusa e perda de peso de mais de 10% em 6 meses. Eles entram no estadiamento de Ann Arbor, mantido na classificação de Lugano de 2014, e indicam doença mais agressiva, valendo para crianças e adultos. Alterações do hemograma, hepatoesplenomegalia e sorologias fazem parte da investigação, mas não são sintomas B.",
+"porAlt": [
+"Errada: alterações de séries do hemograma e hepatoesplenomegalia são achados de investigação; só a febre pertence aos sintomas B.",
+"Errada: o sintoma B é perda, e não ganho, de peso, e sorologia negativa não é sintoma.",
+"Errada: plaquetopenia e sorologias negativas não entram na tríade, apesar de febre e perda de peso estarem certas.",
+"Correta: febre sem causa, perda de peso e sudorese noturna são os três sintomas B do linfoma."
+],
+"fonte": {
+"banca": "Selecon",
+"ano": 2023,
+"prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+"n": 50,
+"parte": "especificas"
+}
+},
+{
+"q": "A Resolução nº 453/12 trata do controle social do SUS por meio das conferências e conselhos de saúde. Sobre o assunto, é correto afirmar que:",
+"alts": [
+"a Conferência de Saúde se reúne a cada 4 anos, com a representação dos vários segmentos sociais, para avaliar o quadro de saúde e propor diretrizes para a formulação da política de saúde nos níveis correspondentes convocada pelo Poder Legislativo.",
+"o Conselho de Saúde é uma instância colegiada, deliberativa e permanente do Sistema Único de Saúde (SUS) em única esfera de Governo.",
+"conforme a Resolução nº 453/12, o Conselho possui autonomia para definir seu orçamento.",
+"as reuniões plenárias dos Conselhos de Saúde são fechadas ao público e deverão acontecer em recintos exclusivos do poder público.",
+"a participação dos membros eleitos do Poder Legislativo, representação do Poder Judiciário e do Ministério Público, como conselheiros, obedecendo às normativas da lei, é permitida nos Conselhos de Saúde."
+],
+"gab": 2,
+"tema": "sus",
+"sub": "Lei 8.142/1990 e controle social",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Resolução CNS 453/2012, Quarta Diretriz, III; Lei 8.142/1990, art. 1º",
+"coment": "A Resolução CNS 453/2012 garante ao conselho autonomia administrativa e financeira, com dotação orçamentária, e diz textualmente, na Quarta Diretriz, item III, que o Conselho de Saúde decide sobre o seu orçamento. A mesma resolução define o conselho como instância colegiada, deliberativa e permanente em cada esfera de governo, manda as reuniões plenárias serem abertas ao público e proíbe como conselheiros membros eleitos do Legislativo, do Judiciário e do Ministério Público. A conferência é convocada pelo Executivo (Lei 8.142).",
+"porAlt": [
+"Errada: pela Lei 8.142/1990, a conferência é convocada pelo Poder Executivo ou, extraordinariamente, por ela mesma ou pelo conselho, nunca pelo Legislativo.",
+"Errada: há conselho de saúde em cada esfera de governo (municipal, estadual e nacional), não em uma única esfera.",
+"Correta: a Res. CNS 453/2012 afirma que o Conselho de Saúde decide sobre o seu orçamento.",
+"Errada: as reuniões plenárias dos conselhos são abertas ao público, pela Quarta Diretriz da Res. 453/2012.",
+"Errada: a Res. 453/2012 diz que a participação de membros eleitos do Legislativo, do Judiciário e do Ministério Público como conselheiros não é permitida."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 31,
+"parte": "politicas"
+}
+},
+{
+"q": "Conforme a composição dos conselhos e conferências de saúde, é incorreto afirmar que:",
+"alts": [
+"As conferências de saúde deverão de reunir a cada 4 anos, sendo a mesma convocada pelo poder executivo.",
+"A cada eleição, os segmentos de representações de usuários, trabalhadores e prestadores de serviços, ao seu critério, devem promover a renovação de, no mínimo, 30% de suas entidades representativas.",
+"As funções como membro do Conselho de Saúde serão remuneradas.",
+"O Conselho de Saúde terá a seguinte representação social: 50% de entidades e movimentos representativos de usuários; 25% de entidades representativas dos trabalhadores da área de saúde; 25% de representação de governo e prestadores de serviços privados conveniados, ou sem fins lucrativos.",
+"O Conselho de Saúde atua na formulação e proposição de estratégias e no controle da execução das Políticas de Saúde, bem como em seus aspectos financeiros."
+],
+"gab": 2,
+"tema": "sus",
+"sub": "Lei 8.142/1990 e controle social",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução CNS 453/2012, Terceira Diretriz, X; Lei 8.142/1990, art. 1º",
+"coment": "A função de conselheiro não é remunerada: a Terceira Diretriz da Res. CNS 453/2012 diz que essas funções não serão remuneradas, e o exercício é considerado de relevância pública. As demais estão corretas: a conferência se reúne a cada 4 anos, convocada pelo Executivo (Lei 8.142, art. 1º, § 1º); a composição é 50% de usuários, 25% de trabalhadores e 25% de governo e prestadores; e a renovação de no mínimo 30% das entidades a cada eleição consta da resolução, como recomendação.",
+"porAlt": [
+"Errada como resposta: a afirmativa está correta, pois a Lei 8.142/1990 prevê conferência a cada 4 anos convocada pelo Poder Executivo.",
+"Errada como resposta: a renovação de no mínimo 30% das entidades representativas a cada eleição consta da Res. 453/2012.",
+"Correta: a afirmativa é a incorreta, porque as funções de membro do Conselho de Saúde não são remuneradas.",
+"Errada como resposta: 50% de usuários, 25% de trabalhadores e 25% de governo e prestadores é a composição da Res. 453/2012.",
+"Errada como resposta: atuar na formulação de estratégias e no controle da execução, inclusive financeira, é atribuição do conselho pela Lei 8.142/1990."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 32,
+"parte": "politicas"
+}
+},
+{
+"q": "Os conselhos e conferências de saúde são entidades que validam o controle social do SUS. Acerca da Resolução nº 543 de 2012 que trata dos Conselhos de Saúde, pode-se afirmar que:",
+"alts": [
+"o Conselho de Saúde é uma instância colegiada, deliberativa e permanente do Sistema Único de Saúde (SUS) em uma única esfera de Governo.",
+"o conselho de saúde se reunirá, no mínimo, a cada mês e, extraordinariamente, quando necessário, e terá como base o seu Regimento Interno. A pauta e o material de apoio às reuniões devem ser encaminhados aos conselheiros com antecedência mínima de 15 (quinze) dias.",
+"a legislação estabelece a composição paritária de usuários em relação ao conjunto dos demais segmentos sociais.",
+"com relação aos conselhos de saúde, entende-se por maioria qualificada 1/3 (um terço) do total de membros do Conselho.",
+"o segmento dos trabalhadores da área de saúde será de 20% na composição dos conselhos de saúde."
+],
+"gab": 2,
+"tema": "sus",
+"sub": "Lei 8.142/1990 e controle social",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Lei 8.142/1990, art. 1º, § 4º; Resolução CNS 453/2012",
+"coment": "A Lei 8.142/1990 (art. 1º, § 4º) manda que a representação dos usuários nos conselhos e conferências seja paritária em relação ao conjunto dos demais segmentos: metade das vagas para usuários e metade para trabalhadores, governo e prestadores. O enunciado traz o erro da banca 'Resolução nº 543 de 2012'; a resolução dos conselhos é a CNS 453/2012. Por ela, a pauta vai aos conselheiros com 10 dias de antecedência, a maioria qualificada é 2/3 do total de membros e os trabalhadores somam 25%.",
+"porAlt": [
+"Errada: o conselho existe em cada esfera de governo, e não em uma única esfera.",
+"Errada: a reunião mínima é mensal, mas a pauta e o material de apoio seguem com antecedência mínima de 10 dias, não de 15.",
+"Correta: a Lei 8.142/1990 estabelece a paridade dos usuários em relação ao conjunto dos demais segmentos.",
+"Errada: pela Res. 453/2012, maioria qualificada é 2/3 do total de membros do conselho, não 1/3.",
+"Errada: o segmento dos trabalhadores da saúde ocupa 25% das vagas do conselho, e não 20%."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 36,
+"parte": "politicas"
+}
+},
+{
+"q": "O modelo de Leavell e Clark (1976) acerca da história natural da doença é entendido como todas as interrelações do agente, do hospedeiro e do meio ambiente. Correlacionando o tema com os níveis de prevenção, a alternativa correta acerca da prevenção primária, é:",
+"alts": [
+"mamografia de rotina.",
+"exame citopatológico de colo uterino.",
+"prevenção para evitar complicações do diabetes.",
+"rastreamento e diagnóstico precoce.",
+"imunização."
+],
+"gab": 4,
+"tema": "coletiva",
+"sub": "Estudos epidemiológicos",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Leavell HR, Clark EG. Medicina Preventiva (1976), níveis de prevenção",
+"coment": "No modelo de Leavell e Clark, a prevenção primária atua no período pré-patogênico, antes de a doença existir, por promoção da saúde e proteção específica; a imunização é o exemplo clássico de proteção específica. A prevenção secundária atua na doença já instalada, ainda que sem sintomas, com diagnóstico precoce e tratamento imediato: mamografia, citopatológico e rastreamentos em geral. A terciária limita incapacidade e reabilita, como ao evitar as complicações do diabetes já diagnosticado.",
+"porAlt": [
+"Errada: a mamografia de rotina é rastreamento, ou seja, diagnóstico precoce na prevenção secundária.",
+"Errada: o exame citopatológico do colo detecta lesão já existente, o que é prevenção secundária.",
+"Errada: evitar complicações de uma doença já instalada é limitação de dano, prevenção secundária ou terciária.",
+"Errada: rastreamento e diagnóstico precoce são, por definição, prevenção secundária.",
+"Correta: a imunização é proteção específica no período pré-patogênico, o exemplo típico de prevenção primária."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 38,
+"parte": "politicas"
+}
+},
+{
+"q": "A vigilância epidemiológica tem por objetivo promover a identificação e prevenção de doenças e agravos transmissíveis à saúde. Uma das ferramentas usadas é a notificação compulsória. Acerca do assunto, pode-se afirmar que:",
+"alts": [
+"a notificação compulsória imediata é aquela realizada dentro do período de 24 horas.",
+"acidente por animal peçonhento é uma ocorrência de notificação compulsória semanal.",
+"infecção pelo Vírus da Imunodeficiência Humana (HIV) é uma doença de notificação compulsória imediata.",
+"a tuberculose é uma doença de notificação compulsória imediata.",
+"A notificação compulsória negativa é uma comunicação mensal com o objetivo de informar que não foi identificada nenhuma ocorrência."
+],
+"gab": 0,
+"tema": "coletiva",
+"sub": "Vigilância epidemiológica e notificação compulsória",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Portaria de Consolidação GM/MS 4/2017, Anexo V (lista atualizada pela Portaria GM/MS 11.211/2026)",
+"coment": "A notificação compulsória imediata é a feita em até 24 horas a partir do conhecimento da ocorrência, pelo meio mais rápido; a semanal, em até 7 dias. Na lista vigente, alterada pela Portaria GM/MS 11.211/2026, acidente por animal peçonhento é de notificação imediata para a secretaria municipal, enquanto HIV, aids e tuberculose são semanais. A notificação negativa é semanal: o estabelecimento informa que, na semana epidemiológica, não identificou nenhum agravo da lista.",
+"porAlt": [
+"Correta: a notificação compulsória imediata deve ser feita em até 24 horas a partir do conhecimento da ocorrência.",
+"Errada: acidente por animal peçonhento é de notificação imediata à secretaria municipal de saúde.",
+"Errada: a infecção pelo HIV é de notificação semanal, e não imediata.",
+"Errada: a tuberculose é de notificação semanal, e não imediata.",
+"Errada: a notificação negativa é semanal, referente à semana epidemiológica, e não mensal."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 39,
+"parte": "politicas"
+}
+},
+{
+"q": "Conforme cita a Norma Regulamentadora 32, os agentes biológicos são classificados em classes de risco. A classe de risco que apresenta baixo risco individual para o trabalhador e para a coletividade, com baixa probabilidade de causar doença ao ser humano é:",
+"alts": [
+"Classe de risco 1.",
+"Classe de risco 2.",
+"Classe de risco 3.",
+"Classe de risco 4.",
+"Classe de risco 5."
+],
+"gab": 0,
+"tema": "seguranca",
+"sub": "Biossegurança e NR-32",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "NR-32 (Portaria MTE 485/2005), Anexo I",
+"coment": "O Anexo I da NR 32 classifica os agentes biológicos em quatro classes. A classe 1 é a de baixo risco individual para o trabalhador e para a coletividade, com baixa probabilidade de causar doença no ser humano, como microrganismos usados na indústria de alimentos. A partir daí o risco cresce: a classe 2 tem risco individual moderado, a 3 risco elevado com chance de disseminação e a 4 risco elevado com alta transmissibilidade e sem tratamento eficaz. Não existe classe 5.",
+"porAlt": [
+"Correta: a classe de risco 1 é definida pela NR 32 como baixo risco individual e coletivo e baixa probabilidade de doença.",
+"Errada: a classe 2 já tem risco individual moderado, embora com baixa disseminação para a coletividade.",
+"Errada: a classe 3 tem risco individual elevado e probabilidade de disseminação para a coletividade.",
+"Errada: a classe 4 tem risco individual elevado e probabilidade elevada de disseminação, sem tratamento eficaz.",
+"Errada: a NR 32 tem apenas quatro classes de risco; não há classe 5."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 41,
+"parte": "especificas"
+}
+},
+{
+"q": "A alternativa que apresenta a classe de agentes biológicos que corresponde à classe de risco 4 é:",
+"alts": [
+"baixo risco individual para o trabalhador e para a coletividade, com baixa probabilidade de causar doença ao ser humano.",
+"risco individual moderado para o trabalhador e com baixa probabilidade de disseminação para a coletividade. Podem causar doenças ao ser humano, para as quais existem meios eficazes de profilaxia ou tratamento.",
+"risco individual elevado para o trabalhador e com probabilidade de disseminação para a coletividade. Podem causar doenças e infecções graves ao ser humano, para as quais nem sempre existem meios eficazes de profilaxia ou tratamento.",
+"risco individual elevado para o trabalhador e com probabilidade elevada de disseminação para a coletividade. Apresenta grande poder de transmissibilidade de um indivíduo a outro. Podem causar doenças graves ao ser humano, para as quais não existem meios eficazes de profilaxia ou tratamento.",
+"alto risco individual para o trabalhador e para a coletividade, com baixa probabilidade de causar doença ao ser humano."
+],
+"gab": 3,
+"tema": "seguranca",
+"sub": "Biossegurança e NR-32",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "NR-32 (Portaria MTE 485/2005), Anexo I",
+"coment": "A classe de risco 4 da NR 32 reúne o maior risco: risco individual elevado para o trabalhador, probabilidade elevada de disseminação para a coletividade, grande poder de transmissão de pessoa a pessoa e doenças graves sem meios eficazes de profilaxia ou tratamento, como os vírus de febres hemorrágicas do tipo Ebola. Para diferenciar da classe 3, observe dois detalhes: na 3 a disseminação é apenas provável e o tratamento 'nem sempre' existe; na 4 a disseminação é elevada e o tratamento 'não existe'.",
+"porAlt": [
+"Errada: baixo risco individual e coletivo, com baixa probabilidade de doença, é a classe de risco 1.",
+"Errada: risco individual moderado, baixa disseminação e tratamento eficaz descrevem a classe de risco 2.",
+"Errada: risco elevado com probabilidade de disseminação e tratamento que nem sempre existe é a classe de risco 3.",
+"Correta: risco elevado, disseminação elevada, alta transmissibilidade e ausência de tratamento eficaz definem a classe 4.",
+"Errada: a combinação de alto risco com baixa probabilidade de causar doença é contraditória e não existe na NR 32."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 42,
+"parte": "especificas"
+}
+},
+{
+"q": "Ainda conforme a classificação de risco da NR32, a alternativa que apresenta características da classe de risco 3 é:",
+"alts": [
+"baixo risco individual para o trabalhador e para a coletividade, com baixa probabilidade de causar doença ao ser humano.",
+"risco individual moderado para o trabalhador e com baixa probabilidade de disseminação para a coletividade. Podem causar doenças ao ser humano, para as quais existem meios eficazes de profilaxia ou tratamento.",
+"risco individual elevado para o trabalhador e com probabilidade de disseminação para a coletividade. Podem causar doenças e infecções graves ao ser humano, para as quais nem sempre existem meios eficazes de profilaxia ou tratamento.",
+"risco individual elevado para o trabalhador e com probabilidade elevada de disseminação para a coletividade. Apresenta grande poder de transmissibilidade de um indivíduo a outro. Podem causar doenças graves ao ser humano, para as quais não existem meios eficazes de profilaxia ou tratamento.",
+"risco individual moderado e com probabilidade de disseminação para a coletividade. Podem causar doenças graves, cujo tratamento nem sempre é conhecido."
+],
+"gab": 2,
+"tema": "seguranca",
+"sub": "Biossegurança e NR-32",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "NR-32 (Portaria MTE 485/2005), Anexo I",
+"coment": "Pela NR 32, a classe de risco 3 tem risco individual elevado para o trabalhador e probabilidade de disseminação para a coletividade, com agentes que causam doenças e infecções graves para as quais nem sempre existem meios eficazes de profilaxia ou tratamento; o Mycobacterium tuberculosis é o exemplo mais lembrado. A diferença para a classe 4 está na intensidade: na 4 a disseminação é elevada, a transmissão de pessoa a pessoa é grande e não há tratamento eficaz.",
+"porAlt": [
+"Errada: baixo risco individual e coletivo com baixa probabilidade de doença é a classe de risco 1.",
+"Errada: risco individual moderado com baixa disseminação e tratamento eficaz é a classe de risco 2.",
+"Correta: risco individual elevado, probabilidade de disseminação e tratamento que nem sempre existe definem a classe 3.",
+"Errada: disseminação elevada, grande transmissibilidade e ausência de tratamento eficaz são a classe de risco 4.",
+"Errada: a frase mistura risco moderado com doença grave e não reproduz nenhuma classe da NR 32."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 43,
+"parte": "especificas"
+}
+},
+{
+"q": "A Norma Regulamentadora 07 tem por objetivo principal proteger e preservar a saúde de seus empregados em relação aos riscos ocupacionais. A alternativa que não corresponde às atualizações desta norma é:",
+"alts": [
+"No exame demissional, o exame clínico deve ser realizado em até 10 (dez) dias contados do término do contrato.",
+"Estabelece diretrizes e requisitos para o desenvolvimento do Programa de Controle Médico de Saúde Ocupacional - PCMSO nas organizações.",
+"O Anexo III trata do Controle Médico Ocupacional de Exposição a Condições Hiperbáricas.",
+"Para cada exame clínico ocupacional realizado, o médico emitirá Atestado de Saúde Ocupacional - ASO, que deve ser comprovadamente disponibilizado ao empregado, devendo ser fornecido em meio físico quando solicitado.",
+"O Anexo II desta norma estabelece diretrizes para avaliação e controle médico ocupacional de exames audiométricos de empregados expostos a níveis de pressão sonora elevados."
+],
+"gab": 2,
+"tema": "coletiva",
+"sub": "Saúde do trabalhador",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "NR-07 (Portaria SEPRT 6.734/2020), itens 7.5.11 e 7.5.19 e sumário dos Anexos",
+"coment": "Na NR-07 com redação da Portaria SEPRT 6.734/2020, o Anexo III trata do controle radiológico e espirométrico da exposição a agentes químicos (poeiras minerais); as condições hiperbáricas estão no Anexo IV. Os Anexos são: I agentes químicos, II pressão sonora elevada, III radiografia e espirometria, IV condições hiperbáricas, V cancerígenos e radiações ionizantes. As outras afirmativas copiam a norma, como o demissional em até 10 dias do término do contrato (7.5.11) e o ASO em meio físico quando solicitado (7.5.19).",
+"porAlt": [
+"Errada como resposta: o item 7.5.11 prevê o exame clínico demissional em até 10 dias contados do término do contrato.",
+"Errada como resposta: estabelecer diretrizes e requisitos para o PCMSO é o objetivo declarado da NR-07.",
+"Correta: a afirmativa não corresponde à norma, porque as condições hiperbáricas estão no Anexo IV, e não no III.",
+"Errada como resposta: o item 7.5.19 manda disponibilizar o ASO ao empregado e fornecê-lo em meio físico quando solicitado.",
+"Errada como resposta: o Anexo II trata do controle médico da exposição a níveis de pressão sonora elevados, com a audiometria."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 44,
+"parte": "especificas"
+}
+},
+{
+"q": "Com relação às Normas Regulamentadoras (NR), está correto o que se afirma em:",
+"alts": [
+"A NR-09 visa estabelecer as diretrizes e os requisitos que permitam a adaptação das condições de trabalho às características psicofisiológicas dos trabalhadores, de modo a proporcionar conforto, segurança, saúde e desempenho eficiente no trabalho.",
+"A NR-32 trata da Segurança e Saúde no Trabalho em Espaços Confinados.",
+"A NR-07 estabelece a obrigação de contratação de profissionais da área de segurança e saúde do trabalho de acordo com o número de empregados e a natureza do risco ocupacional da atividade na empresa.",
+"a NR-05 estabelece as condições sanitárias e de conforto nos locais de trabalho.",
+"A NR-07 estabelece diretrizes e requisitos para o desenvolvimento do Programa de Controle Médico de Saúde Ocupacional - PCMSO em organizações, com o objetivo de proteger e preservar a saúde de seus empregados em relação aos riscos ocupacionais, conforme avaliação de riscos do Programa de Gerenciamento de Risco - PGR da organização."
+],
+"gab": 4,
+"tema": "coletiva",
+"sub": "Saúde do trabalhador",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "NR-07 (Portaria SEPRT 6.734/2020), item 7.1.1",
+"coment": "A NR-07 estabelece diretrizes e requisitos para o Programa de Controle Médico de Saúde Ocupacional (PCMSO), com o objetivo de proteger e preservar a saúde dos empregados em relação aos riscos ocupacionais, conforme a avaliação de riscos do Programa de Gerenciamento de Riscos (PGR) da NR-01. As demais trocam as normas: adaptação do trabalho às características psicofisiológicas é a NR-17 (ergonomia); espaços confinados, a NR-33; contratação de profissionais de segurança conforme o grau de risco, a NR-04 (SESMT); condições sanitárias e de conforto, a NR-24.",
+"porAlt": [
+"Errada: adaptar as condições de trabalho às características psicofisiológicas é objeto da NR-17 (ergonomia); a NR-09 avalia exposições a agentes físicos, químicos e biológicos.",
+"Errada: segurança em espaços confinados é a NR-33; a NR-32 trata da segurança e saúde no trabalho em serviços de saúde.",
+"Errada: a obrigação de manter profissionais de segurança conforme número de empregados e grau de risco é a NR-04 (SESMT).",
+"Errada: condições sanitárias e de conforto são a NR-24; a NR-05 trata da CIPA.",
+"Correta: a NR-07 rege o PCMSO para proteger a saúde dos empregados conforme a avaliação de riscos do PGR."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 45,
+"parte": "especificas"
+}
+},
+{
+"q": "Quanto à norma regulamentadora NR-07, é incorreto dizer que:",
+"alts": [
+"o anexo III desta Norma estabelece as condições técnicas e parâmetros mínimos para a realização de Radiografias de Tórax - RXTP em programas de controle médico em saúde ocupacional de empregados expostos a poeiras minerais, bem como exames de Espirometrias para avaliação da função respiratória em empregados expostos a poeiras minerais.",
+"o anexo IV desta norma se refere ao Controle Médico Ocupacional de Exposição a Condições Hiperbáricas.",
+"o anexo V faz referências às normas e diretrizes para avaliação e controle médico ocupacional da audição de empregados expostos a níveis de pressão sonora elevados.",
+"o exame audiométrico será realizado em cabina audiométrica, cujos níveis de pressão sonora não ultrapassem os níveis máximos permitidos, de acordo com a norma técnica ISO 8253-1.",
+"o PCMSO deve incluir ações de: vigilância passiva da saúde ocupacional, a partir de informações sobre a demanda espontânea de empregados que procurem serviços médicos; vigilância ativa da saúde ocupacional, por meio de exames médicos dirigidos que incluam, além dos exames previstos nesta NR, a coleta de dados sobre sinais e sintomas de agravos à saúde relacionados aos riscos ocupacionais."
+],
+"gab": 2,
+"tema": "coletiva",
+"sub": "Saúde do trabalhador",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "NR-07 (Portaria SEPRT 6.734/2020), item 7.3.2.1 e Anexos II, III e IV",
+"coment": "O controle da audição dos expostos a pressão sonora elevada está no Anexo II da NR-07, e não no V; o Anexo V trata de substâncias químicas cancerígenas e radiações ionizantes. As outras afirmativas reproduzem a norma: Anexo III com radiografia de tórax e espirometria para expostos a poeiras minerais; Anexo IV com condições hiperbáricas; audiometria em cabina dentro dos níveis da ISO 8253-1 (Anexo II); e vigilância passiva e ativa da saúde ocupacional no item 7.3.2.1.",
+"porAlt": [
+"Errada como resposta: o Anexo III trata de radiografia de tórax e espirometria em expostos a poeiras minerais, como afirmado.",
+"Errada como resposta: o Anexo IV é de fato o controle médico da exposição a condições hiperbáricas.",
+"Correta: a afirmativa é incorreta, porque a audição dos expostos a ruído está no Anexo II, e o V trata de cancerígenos e radiações ionizantes.",
+"Errada como resposta: o Anexo II exige cabina audiométrica com níveis de pressão sonora dentro da norma ISO 8253-1.",
+"Errada como resposta: o item 7.3.2.1 prevê vigilância passiva pela demanda espontânea e vigilância ativa por exames dirigidos."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 46,
+"parte": "especificas"
+}
+},
+{
+"q": "O exame clínico deve ser realizado antes que o empregado reassuma suas funções, depois de se ausentar por motivo de doença ou acidente por período igual ou superior a:",
+"alts": [
+"10 (dez) dias.",
+"20 (vinte) dias.",
+"30 (trinta) dias.",
+"40 (quarenta) dias.",
+"60 (sessenta) dias."
+],
+"gab": 2,
+"tema": "coletiva",
+"sub": "Saúde do trabalhador",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "NR-07 (Portaria SEPRT 6.734/2020), item 7.5.9",
+"coment": "Pelo item 7.5.9 da NR-07, o exame de retorno ao trabalho é feito antes que o empregado reassuma as funções quando ele ficou ausente por 30 dias ou mais por doença ou acidente, de natureza ocupacional ou não. O item seguinte acrescenta que a avaliação médica deve definir a necessidade de retorno gradativo. Não confunda com o demissional, feito em até 10 dias após o término do contrato, nem com os 90 dias de validade dos exames complementares aceitos no admissional.",
+"porAlt": [
+"Errada: 10 dias é o prazo do exame clínico demissional após o término do contrato, não o do retorno.",
+"Errada: 20 dias não aparece na NR-07 para o exame de retorno.",
+"Correta: ausência igual ou superior a 30 dias por doença ou acidente exige exame de retorno antes de reassumir.",
+"Errada: 40 dias ultrapassa o limite da norma; com 30 dias o exame já é obrigatório.",
+"Errada: 60 dias não é o critério; o exame de retorno é exigido a partir de 30 dias de afastamento."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 47,
+"parte": "especificas"
+}
+},
+{
+"q": "Com relação ao Planejamento citado na NR07, quando citado o exame admissional, a critério médico responsável, poderão ser aceitos exames complementares realizados nos:",
+"alts": [
+"30 (trinta) dias anteriores, exceto quando definidos prazos diferentes nos Anexos desta NR.",
+"45 (quarenta e cinco) dias anteriores, exceto quando definidos prazos diferentes nos Anexos desta NR.",
+"60 (sessenta) dias anteriores, exceto quando definidos prazos diferentes nos Anexos desta NR.",
+"90 (noventa) dias anteriores, exceto quando definidos prazos diferentes nos Anexos desta NR.",
+"120 (cento e vinte) dias anteriores, exceto quando definidos prazos diferentes nos Anexos desta NR."
+],
+"gab": 3,
+"tema": "coletiva",
+"sub": "Saúde do trabalhador",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "NR-07 (Portaria SEPRT 6.734/2020), item 7.5.17",
+"coment": "O item 7.5.17 da NR-07 permite que, no exame admissional e a critério do médico responsável, sejam aceitos exames complementares realizados nos 90 dias anteriores, exceto quando os Anexos definirem prazos diferentes. A regra evita repetir exames recentes. Guarde os prazos vizinhos da mesma norma: retorno ao trabalho a partir de 30 dias de afastamento e demissional em até 10 dias do término do contrato, dispensável se o último exame clínico tiver menos de 135 dias (graus de risco 1 e 2) ou 90 dias (graus 3 e 4).",
+"porAlt": [
+"Errada: 30 dias é o afastamento que exige exame de retorno, não a validade dos exames do admissional.",
+"Errada: 45 dias não é prazo da NR-07 para aceitar exames complementares.",
+"Errada: 60 dias é menor que o prazo previsto pelo item 7.5.17.",
+"Correta: podem ser aceitos exames complementares feitos nos 90 dias anteriores, salvo prazo diferente nos Anexos.",
+"Errada: 120 dias excede o limite da norma para o admissional."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 48,
+"parte": "especificas"
+}
+},
+{
+"q": "Com relação aos processos de desinfecção e esterilização, é correto afirmar que:",
+"alts": [
+"os semicríticos devem ser submetidos à desinfecção de baixo nível.",
+"os artigos críticos devem ser submetidos à limpeza.",
+"os artigos críticos devem ser submetidos ao processo de esterilização.",
+"são exemplos de artigos críticos os equipamentos de anestesia gasosa, terapia respiratória, inaloterapia.",
+"os artigos críticos são produtos para a saúde utilizados em procedimentos invasivos sem penetração de pele e mucosas adjacentes."
+],
+"gab": 2,
+"tema": "cirurgica",
+"sub": "Central de material e esterilização",
+"cenario": "cc",
+"comp": "tec",
+"nivel": "r1",
+"base": "RDC ANVISA 15/2012 (classificação de Spaulding)",
+"coment": "Pela classificação de Spaulding adotada na RDC 15/2012, o risco do produto decide o processo. Crítico é o usado em procedimento invasivo com penetração de pele e mucosas, tecidos subepiteliais e sistema vascular, e vai à esterilização após a limpeza. Semicrítico entra em contato com mucosa íntegra ou pele não íntegra e exige no mínimo desinfecção de alto nível; os de assistência ventilatória, anestesia e inaloterapia, no mínimo desinfecção de nível intermediário. Não crítico exige no mínimo limpeza.",
+"porAlt": [
+"Errada: semicrítico exige no mínimo desinfecção de alto nível, e não de baixo nível.",
+"Errada: limpeza é etapa obrigatória, mas não basta para artigo crítico, que precisa de esterilização.",
+"Correta: artigos críticos devem ser esterilizados após a limpeza.",
+"Errada: equipamentos de anestesia gasosa, terapia respiratória e inaloterapia são semicríticos.",
+"Errada: crítico é justamente o usado em procedimento invasivo com penetração de pele e mucosas."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 49,
+"parte": "especificas"
+}
+},
+{
+"q": "O estresse ocupacional pode ocasionar no indivíduo um esgotamento que leva o mesmo a ter baixo desempenho nas suas funções laborais. Pessoas com alto nível de estresse estão vulneráveis a desenvolver a síndrome de Burnout. Este termo é a junção de Burn(queima) e out(exterior). São sintomas de Burnout, exceto:",
+"alts": [
+"boa sociabilidade apesar de baixa produção no trabalho.",
+"procrastinação, culpa, problemas de ansiedade.",
+"dificuldade para relaxar e se concentrar nas atividades laborais.",
+"dor de barriga e tonturas.",
+"sentimento de impotência e baixa interação com a equipe."
+],
+"gab": 0,
+"tema": "coletiva",
+"sub": "Saúde do trabalhador",
+"cenario": "ger",
+"comp": "aval",
+"nivel": "r1",
+"base": "Classificação Internacional de Doenças, CID-11 (OMS, em vigor desde 2022), QD85",
+"coment": "A CID-11 descreve a síndrome de burnout como fenômeno ocupacional resultante de estresse crônico no trabalho não gerenciado, com três dimensões: exaustão, distanciamento mental ou cinismo em relação ao trabalho e redução da eficácia profissional. Na prática aparecem isolamento e baixa interação com a equipe, sentimento de impotência, ansiedade, culpa, procrastinação, dificuldade de concentração e queixas físicas como dor de cabeça, tontura e sintomas gastrointestinais. Boa sociabilidade contraria o distanciamento típico.",
+"porAlt": [
+"Correta: boa sociabilidade não é sintoma de burnout, que se caracteriza por distanciamento e isolamento.",
+"Errada: procrastinação, culpa e ansiedade são manifestações frequentes do burnout.",
+"Errada: dificuldade para relaxar e se concentrar acompanha a exaustão do burnout.",
+"Errada: queixas somáticas como dor abdominal e tontura são comuns no estresse ocupacional crônico.",
+"Errada: impotência e baixa interação com a equipe refletem o distanciamento e a perda de eficácia do burnout."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 50,
+"parte": "especificas"
+}
+},
+{
+"q": "No caso de exposição ocupacional acidental a níveis elevados de radiação ionizante deve ser realizada nova avaliação médica, com coleta de hemograma completo, imediatamente:",
+"alts": [
+"após a exposição.",
+"e 24 horas após a exposição.",
+"e 12 horas após a exposição.",
+"e 72 horas após a exposição.",
+"e 96 horas após a exposição."
+],
+"gab": 1,
+"tema": "coletiva",
+"sub": "Saúde do trabalhador",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "NR-07 (Portaria SEPRT 6.734/2020), Anexo V, item 5.3",
+"coment": "O Anexo V da NR-07 trata do controle médico dos expostos a substâncias cancerígenas e radiações ionizantes. O item 5.3 manda que, na exposição ocupacional acidental a níveis elevados de radiação ionizante, se faça nova avaliação médica com hemograma completo imediatamente e 24 horas após a exposição. A comparação entre as duas coletas, sobretudo da contagem de linfócitos, ajuda a estimar a gravidade da exposição. Acima do limite de dose anual, nova avaliação define a continuidade (item 5.2).",
+"porAlt": [
+"Errada: a coleta imediata sozinha não basta; a norma exige também a segunda coleta em 24 horas.",
+"Correta: o hemograma completo é colhido imediatamente e 24 horas após a exposição acidental.",
+"Errada: 12 horas não é o intervalo previsto pela NR-07 para a segunda coleta.",
+"Errada: 72 horas atrasa a segunda coleta além do previsto no item 5.3.",
+"Errada: 96 horas não aparece na norma; a segunda coleta é feita em 24 horas."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 51,
+"parte": "especificas"
+}
+},
+{
+"q": "Sobre a NR-09, é correto afirmar que esta Norma Regulamentadora estabelece os requisitos para a avaliação das exposições ocupacionais a agentes físicos, químicos e biológicos quando identificados no:",
+"alts": [
+"Programa de Gerenciamento de Riscos - PGR, previsto na NR-01.",
+"Programa de Gerenciamento de Riscos - PGR, previsto na NR-03.",
+"Programa de Gerenciamento de Riscos - PGR, previsto na NR-05.",
+"Programa de Gerenciamento de Riscos - PGR, previsto na NR-07.",
+"Programa de Gerenciamento de Riscos - PGR, previsto na NR-09."
+],
+"gab": 0,
+"tema": "coletiva",
+"sub": "Saúde do trabalhador",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "NR-09 (Portaria SEPRT 6.735/2020); NR-01 (Portaria SEPRT 6.730/2020)",
+"coment": "Desde a reforma de 2020, o Programa de Gerenciamento de Riscos (PGR) está na NR-01, que trata das disposições gerais e do gerenciamento de riscos ocupacionais. A NR-09 deixou de ser o antigo PPRA e passou a estabelecer os requisitos para avaliar as exposições ocupacionais a agentes físicos, químicos e biológicos quando identificados no PGR da NR-01, subsidiando as medidas de prevenção. A NR-07 (PCMSO) também se orienta pelo PGR, mas não o prevê.",
+"porAlt": [
+"Correta: o PGR é previsto na NR-01, e a NR-09 avalia as exposições aos agentes identificados nele.",
+"Errada: a NR-03 trata de embargo e interdição, não do PGR.",
+"Errada: a NR-05 trata da CIPA, não do PGR.",
+"Errada: a NR-07 rege o PCMSO, que se baseia no PGR, mas não é a norma que o prevê.",
+"Errada: a NR-09 usa o PGR como ponto de partida, mas o programa é previsto na NR-01."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 52,
+"parte": "especificas"
+}
+},
+{
+"q": "Todos os ambientes de trabalho oferecem riscos aos trabalhadores. Por isso a importância da biossegurança em todo contexto laboral, com a finalidade de prevenir danos à saúde dos funcionários. A alternativa que melhor define o conceito de biossegurança é:",
+"alts": [
+"Dá ênfase às tecnologias voltadas ao conforto do trabalhador dentro da empresa.",
+"É um conjunto de medidas voltadas para prevenção, minimização ou eliminação de riscos inerentes às atividades de ensino e pesquisa, desenvolvimento tecnológico e prestação de serviços que podem causar prejuízo à saúde geral do homem, animais e meio ambiente.",
+"O gerenciamento de resíduos em saúde não é uma ação diretamente relacionada à biossegurança.",
+"As medidas de biossegurança envolvem um conjunto de normas de rotina, indo desde o uso correto de EPIs ao transporte e descarte de lixo hospitalar, controle e gerenciamento de resíduos, tendo sempre como objetivo disseminar a contaminação de pessoas e do meio ambiente.",
+"É facultativo para cada instituição o gerenciamento de resíduos em saúde, conforme a legislação da ANVISA."
+],
+"gab": 1,
+"tema": "seguranca",
+"sub": "Biossegurança e NR-32",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "NR-32 (Portaria MTE 485/2005); RDC ANVISA 222/2018",
+"coment": "Biossegurança é o conjunto de medidas voltadas para prevenir, minimizar ou eliminar riscos inerentes às atividades de ensino, pesquisa, desenvolvimento tecnológico e prestação de serviços que possam comprometer a saúde do homem, dos animais e do meio ambiente. No serviço de saúde ela se materializa na NR 32 (proteção do trabalhador) e na RDC 222/2018, que torna obrigatório a todo gerador elaborar e cumprir o Plano de Gerenciamento de Resíduos de Serviços de Saúde (PGRSS).",
+"porAlt": [
+"Errada: conforto do trabalhador é tema de ergonomia; biossegurança trata de prevenção de riscos à saúde e ao ambiente.",
+"Correta: é a definição clássica de biossegurança, com prevenção, minimização ou eliminação de riscos ao homem, aos animais e ao ambiente.",
+"Errada: o gerenciamento de resíduos é parte direta da biossegurança, porque evita exposição de pessoas e contaminação ambiental.",
+"Errada: o objetivo das medidas é evitar, e não disseminar, a contaminação de pessoas e do ambiente.",
+"Errada: a RDC 222/2018 obriga todo serviço gerador a elaborar e implantar o PGRSS; não é facultativo."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 53,
+"parte": "especificas"
+}
+},
+{
+"q": "O trabalho em equipe gera maiores resultados principalmente quando os profissionais atuam focado nos objetivos comuns. Para isso acontecer, é preciso que o líder consiga trabalhar com os diferentes modos de pensar a fim de evitar ou minimizar conflitos dentro do ambiente de trabalho. Sobre o trabalho em grupo:",
+"alts": [
+"a comunicação horizontal facilita a interação da equipe de trabalho com o líder e ajuda na concretização dos objetivos comuns.",
+"o líder deve ser priorizar uma relação vertical com os liderados.",
+"a comunicação vertical, dentro da temática do trabalho grupal, se traduz numa comunicação clara onde a tomada de decisões é feita pela própria equipe sob a supervisão do líder.",
+"A tomada de decisão pelo líder sem a participação direta dos liderados é um exemplo de comunicação horizontal.",
+"a comunicação 360°, como o nome diz, representa uma visão geral de todas as ferramentas possíveis de comunicação empresarial utilizada e suas possíveis interações com o ambiente de trabalho. Nesse modelo a propagação de informações tende a ser em baixa escala."
+],
+"gab": 0,
+"tema": "gestao",
+"sub": "Liderança e trabalho em equipe",
+"cenario": "ger",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Kurcgant P (coord.). Gerenciamento em Enfermagem, 3ª ed. (2016)",
+"coment": "Comunicação horizontal é a que circula entre pessoas do mesmo nível, com troca direta e colaborativa; num grupo que trabalha assim o líder participa como mediador, o que aproxima a equipe dele e facilita alcançar objetivos comuns. Comunicação vertical segue a hierarquia, de cima para baixo (ordens, normas) ou de baixo para cima (relatórios). Decisão tomada pelo líder sem ouvir os liderados é típica do fluxo vertical descendente e do estilo autocrático, o oposto do trabalho em equipe participativo.",
+"porAlt": [
+"Correta: a comunicação horizontal favorece a interação da equipe com o líder e a construção dos objetivos comuns.",
+"Errada: priorizar a relação vertical reforça a hierarquia e dificulta a participação que o trabalho em equipe exige.",
+"Errada: a comunicação vertical segue a hierarquia; decisão tomada pela própria equipe é característica de modelo participativo.",
+"Errada: decisão do líder sem participação dos liderados é exemplo de comunicação vertical descendente.",
+"Errada: a comunicação 360 graus integra todos os fluxos e tende a ampliar, e não reduzir, a propagação das informações."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 54,
+"parte": "especificas"
+}
+},
+{
+"q": "A ANVISA (Agência Nacional de Vigilância Sanitária) é quem define as Boas Práticas de Gerenciamento dos Resíduos de Serviços de Saúde. Resíduos perfurocortantes como agulhas, ampolas de vidro, lâminas de vidro, bisturis e lamínulas estão inclusos no:",
+"alts": [
+"grupo A",
+"grupo B",
+"grupo C",
+"grupo D",
+"grupo E"
+],
+"gab": 4,
+"tema": "seguranca",
+"sub": "Biossegurança e NR-32",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r1",
+"base": "RDC ANVISA 222/2018, Anexo I (grupo E)",
+"coment": "Pela RDC 222/2018, o grupo E reúne os materiais perfurocortantes ou escarificantes: agulhas, ampolas de vidro, lâminas de bisturi e de barbear, lancetas, lâminas e lamínulas, utensílios de vidro quebrados no laboratório e similares. Vão para coletor rígido, resistente a punctura e vazamento, trocado ao atingir três quartos da capacidade (RDC 222), sem ultrapassar o limite de 5 cm abaixo do bocal (NR 32). O grupo A é o infectante, o B o químico, o C o radioativo e o D o comum.",
+"porAlt": [
+"Errada: o grupo A é o dos resíduos com possível presença de agentes biológicos (infectantes).",
+"Errada: o grupo B reúne os resíduos químicos, como medicamentos e saneantes.",
+"Errada: o grupo C é o dos rejeitos radioativos.",
+"Errada: o grupo D é o do resíduo comum, equiparado ao domiciliar.",
+"Correta: perfurocortantes e escarificantes, como agulhas, ampolas, bisturis e lamínulas, formam o grupo E."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 55,
+"parte": "especificas"
+}
+},
+{
+"q": "O dimensionamento do quadro de profissionais de enfermagem deve basear-se principalmente pelo grau de complexidade do paciente. Com base nesse dimensionamento e no SCP (Sistema de Classificação do Paciente), a distribuição percentual do total de profissionais de enfermagem para cuidados intensivos deve ser de no mínimo:",
+"alts": [
+"33% são enfermeiros e os demais, técnicos de enfermagem.",
+"36% de enfermeiros e os demais, técnicos de enfermagem.",
+"42% de enfermeiros e os demais, técnicos de enfermagem.",
+"52% de enfermeiros e os demais, técnicos de enfermagem.",
+"62% de enfermeiros e os demais, técnicos de enfermagem."
+],
+"gab": 3,
+"tema": "gestao",
+"sub": "Dimensionamento de pessoal",
+"cenario": "uti",
+"comp": "norma",
+"nivel": "r1",
+"base": "Parecer Normativo COFEN 01/2024 (Resolução COFEN 743/2024 revogou a 543/2017)",
+"coment": "No cuidado intensivo, o percentual mínimo é de 52% de enfermeiros, e os demais técnicos de enfermagem, com 18 horas de enfermagem por paciente em 24 horas. Esses números vinham da Res. COFEN 543/2017, revogada pela Res. 743/2024; os parâmetros passaram ao Parecer Normativo COFEN 01/2024, que os manteve. A escala completa de enfermeiros: 33% no cuidado mínimo e intermediário, 36% na alta dependência, 42% no semi-intensivo e 52% no intensivo.",
+"porAlt": [
+"Errada: 33% de enfermeiros é o mínimo para cuidados mínimo e intermediário.",
+"Errada: 36% é o percentual da alta dependência.",
+"Errada: 42% é o percentual do cuidado semi-intensivo.",
+"Correta: no cuidado intensivo, no mínimo 52% da equipe são enfermeiros e os demais técnicos (Parecer Normativo COFEN 01/2024).",
+"Errada: 62% não é parâmetro do dimensionamento do COFEN."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 56,
+"parte": "especificas"
+}
+},
+{
+"q": "A curva ABC é um método de gestão financeira com o objetivo de controlar e gerir os materiais nos serviços de saúde. Os itens de maior custo pertencem à classe:",
+"alts": [
+"Classe A.",
+"Classe B.",
+"Classe C.",
+"Classe D.",
+"Classe E."
+],
+"gab": 0,
+"tema": "gestao",
+"sub": "Auditoria, custos e recursos materiais",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Kurcgant P (coord.). Gerenciamento em Enfermagem, 3ª ed. (2016)",
+"coment": "A curva ABC ordena os itens do estoque pelo valor de consumo, que é a quantidade consumida multiplicada pelo custo unitário. Poucos itens da classe A, em geral cerca de 20% dos itens, concentram a maior parte do gasto e merecem controle rigoroso, compras frequentes e estoque enxuto. A classe B é intermediária, e a classe C reúne muitos itens de baixo valor, com controle mais simples. Não existem classes D e E; a criticidade do item é avaliada por outra curva, a XYZ.",
+"porAlt": [
+"Correta: a classe A reúne os poucos itens que concentram o maior valor de consumo.",
+"Errada: a classe B tem importância financeira intermediária.",
+"Errada: a classe C agrupa muitos itens de baixo valor de consumo.",
+"Errada: a curva ABC tem apenas três classes; não existe classe D.",
+"Errada: não há classe E na curva ABC."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 57,
+"parte": "especificas"
+}
+},
+{
+"q": "Paciente com suspeita de hemoperitônio é examinado pelo enfermeiro, que identifica queixas de dor nos ombros durante a inspiração. Esse quadro clínico é sugestivo do sinal de:",
+"alts": [
+"Blumberg.",
+"(Rovsing.",
+"(Murphy.",
+"Godet.",
+"(Danforth."
+],
+"gab": 4,
+"tema": "fundamentos",
+"sub": "Sinais vitais e exame físico",
+"cenario": "emg",
+"comp": "aval",
+"nivel": "r2",
+"base": "Porto CC. Semiologia Médica, 8ª ed. (2019)",
+"coment": "O sinal de Danforth é a dor no ombro durante a inspiração em paciente com hemoperitônio, como na gravidez ectópica rota. O sangue livre irrita o diafragma, e a dor é referida no ombro pelo nervo frênico (raízes C3 a C5); é o mesmo mecanismo do sinal de Kehr, descrito no ombro esquerdo na ruptura do baço. Os parênteses antes de três alternativas são erro do caderno.",
+"porAlt": [
+"Errada: Blumberg é a dor à descompressão brusca no ponto de McBurney, sinal de irritação peritoneal na apendicite.",
+"Errada: Rovsing é a dor na fossa ilíaca direita ao comprimir a fossa ilíaca esquerda, sugestiva de apendicite.",
+"Errada: Murphy é a parada da inspiração à palpação do ponto cístico, típica da colecistite aguda.",
+"Errada: Godet é a depressão que persiste após comprimir a pele, indicando edema depressível.",
+"Correta: dor no ombro à inspiração por irritação diafragmática do hemoperitônio é o sinal de Danforth."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 58,
+"parte": "especificas"
+}
+},
+{
+"q": "Durante a avaliação do enfermeiro de um paciente com quadro de bronquite crônica, o mesmo apresentava sintomas de broncoespasmo. Na ausculta, o profissional ouviu um som musical estridente na inspiração e constatou que se tratava de ruídos adventícios chamados de:",
+"alts": [
+"sibilos.",
+"estertores.",
+"roncos.",
+"tosse paroxística.",
+"crepitações."
+],
+"gab": 0,
+"tema": "fundamentos",
+"sub": "Sinais vitais e exame físico",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r1",
+"base": "Porto CC. Semiologia Médica, 8ª ed. (2019)",
+"coment": "Sibilos são ruídos contínuos, agudos e musicais, produzidos pela passagem do ar por brônquios estreitados, como no broncoespasmo da asma e da bronquite crônica. Predominam na expiração, mas podem ocorrer também na inspiração, como diz o enunciado. Roncos também são contínuos, porém graves, e vêm de secreção em vias maiores, mudando com a tosse. Estertores (crepitações) são descontínuos. O som estridente e exclusivamente inspiratório de obstrução alta é o estridor, que não está entre as opções.",
+"porAlt": [
+"Correta: som contínuo, agudo e musical em paciente com broncoespasmo caracteriza sibilos.",
+"Errada: estertores são ruídos descontínuos, sem caráter musical, ligados a líquido ou abertura de alvéolos.",
+"Errada: roncos são contínuos, mas graves, causados por secreção em brônquios maiores.",
+"Errada: tosse paroxística é um sintoma, não um ruído adventício da ausculta.",
+"Errada: crepitações são estertores finos e descontínuos, sem timbre musical."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 60,
+"parte": "especificas"
+}
+},
+{
+"q": "De acordo com o COFEN 453 de 2014, só ao enfermeiro compete estabelecer o acesso enteral por via oro gástrica ou transpilórica para administrar a nutrição enteral (NE). Há vários tipos de sonda, a diferença está no material utilizado, calibre e finalidade para cada tipo de paciente. Acerca dos tipos de sonda, pode-se afirmar que:",
+"alts": [
+"a sonda de Dobbhoff apresenta um tubo de silicone ou poliuretano com lúmen único e 2 portas, extremidade com tungstênio, radiopaco e com fio guia. Usada na alimentação enteral.",
+"a sonda de Levin é muito usada para lavagem e descompressão gástrica e apresenta duplo lúmen feito em borracha.",
+"a sonda de Salem é uma sonda que possui um único lúmen e já possui um lúmen maior e é conectado à sucção para drenagem gástrica. É um tubo NG radiopaco.",
+"a sonda de Blackmore é indicada para varizes esofágicas; possui 2 lúmens e 2 balonetes.",
+"a sonda de Minnesota é uma sonda que não é indicada no caso de hemorragias esofágicas e gástricas agudas."
+],
+"gab": 0,
+"tema": "fundamentos",
+"sub": "Sondagens gástrica, enteral e vesical",
+"cenario": "enf",
+"comp": "tec",
+"nivel": "r2",
+"base": "Resolução COFEN 619/2019 (sondagem oro/nasogástrica e nasoentérica)",
+"coment": "A sonda de Dobbhoff é a nasoentérica clássica: fina, de silicone ou poliuretano, lúmen único, ponta com peso de tungstênio, radiopaca e com fio-guia, usada para dieta enteral. Levin tem lúmen único; Salem tem duplo lúmen, um deles respiro. Sengstaken-Blakemore tem três vias e dois balões para tamponar varizes esofágicas; Minnesota tem quatro vias e é indicada no sangramento varicoso agudo. A inserção e a definição do acesso enteral são privativas do enfermeiro (Res. 619/2019; o enunciado cita a 453/2014).",
+"porAlt": [
+"Correta: a Dobbhoff tem silicone ou poliuretano, lúmen único, ponta de tungstênio, é radiopaca e tem fio-guia, para dieta enteral.",
+"Errada: a Levin é usada para drenagem e lavagem gástrica, mas tem lúmen único, e não duplo.",
+"Errada: a Salem tem duplo lúmen, com um canal de respiro que protege a mucosa durante a sucção.",
+"Errada: a Sengstaken-Blakemore tem dois balões, mas três vias, e não dois lúmens.",
+"Errada: a Minnesota é indicada justamente para tamponar a hemorragia aguda de varizes esofágicas e gástricas."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 61,
+"parte": "especificas"
+}
+},
+{
+"q": "Com relação às precauções de contato, gotículas e aerossóis, assinale a alternativa INCORRETA.",
+"alts": [
+"A difteria exige precaução de contato e padrão.",
+"Tuberculose, sarampo e varicela exigem precaução para aerossóis.",
+"A varicela exige precaução tanto para contato como para aerossóis.",
+"O impetigo exige precaução de contato.",
+"Meningite meningocócica exige precaução para gotículas."
+],
+"gab": 0,
+"tema": "seguranca",
+"sub": "Precauções padrão e específicas",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Guideline for Isolation Precautions (CDC/HICPAC, 2007)",
+"coment": "Pelo guia de isolamento do CDC de 2007, adotado nos manuais da ANVISA, a difteria faríngea exige precaução por gotículas, e só a difteria cutânea pede precaução de contato, sempre somadas à padrão. Por isso a afirmativa que associa a difteria apenas a contato é a incorreta. As demais estão certas: tuberculose, sarampo e varicela vão para aerossóis; a varicela soma aerossóis e contato; o impetigo pede contato; e a doença meningocócica pede gotículas nas primeiras 24 horas de antibiótico eficaz.",
+"porAlt": [
+"Correta: a afirmativa é incorreta, porque a difteria faríngea exige gotículas; contato só vale para a forma cutânea.",
+"Errada como resposta: tuberculose, sarampo e varicela exigem precaução para aerossóis, como afirmado.",
+"Errada como resposta: a varicela soma precaução para aerossóis e de contato até as lesões virarem crostas.",
+"Errada como resposta: o impetigo, infecção cutânea transmitida pelo contato, exige precaução de contato.",
+"Errada como resposta: a meningite meningocócica exige precaução para gotículas nas primeiras 24 horas de tratamento."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 63,
+"parte": "especificas"
+}
+},
+{
+"q": "Sobre o Processo de Enfermagem, a determinação dos resultados desejados e das ações ou intervenções de enfermagem que serão realizadas a favor do paciente se refere à etapa de:",
+"alts": [
+"implementação.",
+"coleta de dados.",
+"diagnóstico de enfermagem.",
+"avaliação de enfermagem.",
+"planejamento de enfermagem."
+],
+"gab": 4,
+"tema": "sae",
+"sub": "Etapas do Processo de Enfermagem",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução COFEN 736/2024 (etapas do Processo de Enfermagem)",
+"coment": "Na Res. COFEN 736/2024, que revogou a 358/2009, o Processo de Enfermagem tem cinco etapas: Avaliação de Enfermagem, Diagnóstico, Planejamento, Implementação e Evolução. O Planejamento é a etapa em que o enfermeiro prioriza os diagnósticos, determina os resultados esperados e prescreve as intervenções. Atenção à nomenclatura: na resolução atual, 'Avaliação de Enfermagem' é a primeira etapa (antigo histórico ou coleta de dados), e a última se chama Evolução.",
+"porAlt": [
+"Errada: a implementação é a execução das intervenções já planejadas e prescritas.",
+"Errada: a coleta de dados levanta informações sobre a pessoa; pela 736/2024 é a etapa chamada Avaliação de Enfermagem, anterior ao planejamento.",
+"Errada: o diagnóstico interpreta os dados e nomeia as respostas da pessoa; ainda não define resultados e intervenções.",
+"Errada: a Avaliação de Enfermagem é a etapa inicial de levantamento de dados pela Res. 736/2024, não a definição de resultados e intervenções.",
+"Correta: determinar os resultados esperados e as intervenções de enfermagem é a etapa de Planejamento."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 64,
+"parte": "especificas"
+}
+},
+{
+"q": "Sobre o eletrocardiograma (ECG), afirma-se que:",
+"alts": [
+"a onda P corresponde à despolarização ventricular.",
+"o complexo QRS representa a despolarização ventricular.",
+"a onda T é identificada em pacientes que apresentam bradicardia fisiológica ou naqueles com hipopotassemia, hipertensão ou cardiopatia.",
+"o intervalo QT é medido desde o início da onda P até o início do complexo QRS.",
+"o segmento ST é medido desde o início do complexo QRS até o término da onda T."
+],
+"gab": 1,
+"tema": "adulto",
+"sub": "Hipertensão e doenças cardiovasculares",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r1",
+"base": "Diretrizes da SBC sobre Análise e Emissão de Laudos Eletrocardiográficos (2022)",
+"coment": "No eletrocardiograma, a onda P é a despolarização dos átrios, o complexo QRS a despolarização dos ventrículos e a onda T a repolarização ventricular, presente em todo traçado normal. O intervalo PR vai do início da onda P ao início do QRS; o intervalo QT vai do início do QRS ao fim da onda T e representa a sístole elétrica ventricular. O segmento ST vai do fim do QRS (ponto J) ao início da onda T e é onde se procuram supra e infradesnivelamentos.",
+"porAlt": [
+"Errada: a onda P corresponde à despolarização atrial, e não ventricular.",
+"Correta: o complexo QRS representa a despolarização dos ventrículos.",
+"Errada: a onda T é a repolarização ventricular e existe em todo ECG normal; a hipopotassemia tende a achatá-la e a fazer surgir onda U.",
+"Errada: do início da onda P ao início do QRS é o intervalo PR; o QT vai do início do QRS ao fim da onda T.",
+"Errada: do início do QRS ao fim da onda T é o intervalo QT; o segmento ST vai do fim do QRS ao início da onda T."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 65,
+"parte": "especificas"
+}
+},
+{
+"q": "A fórmula de Parkland é muito usada para ressuscitação volêmica em pacientes com queimaduras. A metade da infusão deve ser administrada:",
+"alts": [
+"nas primeiras 4 horas e a segunda metade nas 12 horas posteriores.",
+"nas primeiras 8 horas e a segunda metade nas 16 horas posteriores.",
+"nas primeiras 12 horas e a segunda metade nas 16 horas posteriores.",
+"nas primeiras 16 horas e a segunda metade nas 24 horas posteriores.",
+"nas primeiras 24 horas e a segunda metade nas 36 horas posteriores."
+],
+"gab": 1,
+"tema": "feridas",
+"sub": "Queimaduras",
+"cenario": "emg",
+"comp": "calc",
+"nivel": "r1",
+"base": "Advanced Trauma Life Support, ATLS 11ª ed. (ACS, 2025)",
+"coment": "Na reposição volêmica do grande queimado, metade do volume calculado para as primeiras 24 horas corre nas primeiras 8 horas, contadas a partir do momento da queimadura e não da chegada ao hospital, e a outra metade nas 16 horas seguintes. A fórmula clássica de Parkland usa 4 mL/kg por % de superfície corporal queimada; o ATLS atual parte de 2 mL/kg no adulto. O ajuste fino é feito pela diurese horária, com alvo de 0,5 mL/kg/h no adulto e 1 mL/kg/h na criança.",
+"porAlt": [
+"Errada: 4 horas e depois 12 horas somam 16 horas, menos que as 24 horas do cálculo.",
+"Correta: metade do volume nas primeiras 8 horas após a queimadura e a outra metade nas 16 horas seguintes.",
+"Errada: 12 mais 16 horas ultrapassam o período de 24 horas da fórmula.",
+"Errada: 16 horas na primeira metade atrasam a reposição na fase de maior perda capilar.",
+"Errada: a fórmula cobre as primeiras 24 horas no total, e não 60 horas."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 66,
+"parte": "especificas"
+}
+},
+{
+"q": "Paciente após avaliação da enfermagem na triagem apresenta alterações que indicam uma doença cardiovascular. Dos escores de enfermagem, o método que pode ser utilizado para a estratificação do risco de doença cardiovascular é o de:",
+"alts": [
+"Framingham.",
+"Braden.",
+"Romberg.",
+"Hofmann.",
+"Glasgow."
+],
+"gab": 0,
+"tema": "adulto",
+"sub": "Hipertensão e doenças cardiovasculares",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Cadernos de Atenção Básica nº 37, Estratégias para o cuidado da pessoa com doença crônica: hipertensão arterial sistêmica (MS, 2013)",
+"coment": "O escore de Framingham estima o risco de evento cardiovascular em 10 anos a partir de idade, sexo, colesterol total e HDL, pressão arterial, tabagismo e diabetes, e é o instrumento indicado pelo Caderno de Atenção Básica nº 37 para estratificar o risco cardiovascular na consulta. Não é um escore exclusivo da enfermagem, mas o enfermeiro o aplica na atenção primária para definir a periodicidade do acompanhamento e as metas de cuidado.",
+"porAlt": [
+"Correta: o escore de Framingham estratifica o risco de doença cardiovascular em 10 anos.",
+"Errada: a escala de Braden avalia o risco de lesão por pressão.",
+"Errada: Romberg é teste de equilíbrio que avalia a propriocepção, não um escore de risco cardiovascular.",
+"Errada: Hofmann não é escore de risco cardiovascular; o nome lembra o reflexo de Hoffmann, sinal neurológico.",
+"Errada: a escala de Glasgow avalia o nível de consciência."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 67,
+"parte": "especificas"
+}
+},
+{
+"q": "As drogas vasoativas são muito usadas em situações críticas de saúde. Entre os vasopressores, ganham destaque as catecolaminas. A única droga das alternativas abaixo que não corresponde ao grupo das catecolaminas é a:",
+"alts": [
+"adrenalina.",
+"dobutamina.",
+"noradrenalina.",
+"hidralazina.",
+"dopamina."
+],
+"gab": 3,
+"tema": "uti",
+"sub": "Drogas vasoativas e sedação",
+"cenario": "uti",
+"comp": "calc",
+"nivel": "r1",
+"base": "Surviving Sepsis Campaign 2026 (vasopressores e inotrópicos)",
+"coment": "Catecolaminas são aminas simpaticomiméticas com núcleo catecol que agem em receptores adrenérgicos: adrenalina, noradrenalina e dopamina são naturais, e a dobutamina é sintética, usada como inotrópico. Todas exigem bomba de infusão, de preferência acesso central e monitorização contínua da pressão. A hidralazina não pertence ao grupo: é vasodilatador arterial direto, usado como anti-hipertensivo, por exemplo na crise hipertensiva da gestante. O efeito dela é baixar a pressão, o oposto do vasopressor.",
+"porAlt": [
+"Errada: a adrenalina é catecolamina natural, vasopressora e inotrópica.",
+"Errada: a dobutamina é catecolamina sintética de ação inotrópica.",
+"Errada: a noradrenalina é catecolamina e o vasopressor de primeira escolha no choque séptico.",
+"Correta: a hidralazina é vasodilatador direto e não é catecolamina.",
+"Errada: a dopamina é catecolamina natural, precursora da noradrenalina."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 68,
+"parte": "especificas"
+}
+},
+{
+"q": "Com relação aos cuidados com pacientes vítimas de queimaduras, está incorreto:",
+"alts": [
+"observar o padrão respiratório e em caso de dispneia, tiragem intercostal, principalmente quadro de tosse carbonácea proceder a intubação.",
+"paciente vítima de queimadura elétrica ou química deve-se ter monitorização cardíaca (ECG) contínua devido ao risco aumentado de arritmias.",
+"realizar profilaxia tetânica.",
+"avaliar pela escala de Glasgow o estado neurológico.",
+"em caso de sondagem vesical - a diurese desejável no adulto é de 1,5ml/Kg/hora e nas crianças de 2ml/kg/h, se queimadura elétrica 1,5 ml/kg/h."
+],
+"gab": 4,
+"tema": "feridas",
+"sub": "Queimaduras",
+"cenario": "emg",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Advanced Trauma Life Support, ATLS 11ª ed. (ACS, 2025)",
+"coment": "A diurese horária é o principal guia da reposição no queimado, e o alvo do ATLS é de 0,5 mL/kg/h no adulto e 1 mL/kg/h na criança; na queimadura elétrica com urina escura (mioglobinúria) o alvo sobe até a urina clarear. Por isso a afirmativa com 1,5 mL/kg/h no adulto e 2 mL/kg/h na criança é a incorreta, porque induz excesso de volume e edema. As demais são cuidados corretos: vigiar lesão inalatória, monitorar ritmo no trauma elétrico, profilaxia antitetânica e Glasgow.",
+"porAlt": [
+"Errada como resposta: dispneia, tiragem e escarro carbonáceo indicam lesão inalatória e justificam a intubação precoce.",
+"Errada como resposta: a queimadura elétrica exige monitorização cardíaca contínua pelo risco de arritmias.",
+"Errada como resposta: a profilaxia antitetânica faz parte do atendimento inicial do queimado.",
+"Errada como resposta: o Glasgow avalia o nível de consciência, que pode cair por trauma associado ou intoxicação por monóxido.",
+"Correta: a afirmativa é incorreta, porque o alvo é 0,5 mL/kg/h no adulto e 1 mL/kg/h na criança, e não 1,5 e 2."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 69,
+"parte": "especificas"
+}
+},
+{
+"q": "Ao exame físico, paciente apresenta empastamento da panturrilha devido ao edema de massa e menor mobilidade da panturrilha quando comparada com o outro membro. Tais aspectos são sugestivos do sinal de:",
+"alts": [
+"Rovsing.",
+"Jobert.",
+"Giordano.",
+"Bandeira.",
+"Blumberg."
+],
+"gab": 3,
+"tema": "fundamentos",
+"sub": "Sinais vitais e exame físico",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r2",
+"base": "Porto CC. Semiologia Médica, 8ª ed. (2019)",
+"coment": "O sinal da bandeira é a menor mobilidade, à balotagem, da panturrilha empastada pelo edema muscular quando comparada com a do outro membro, achado de trombose venosa profunda. Ele se soma ao sinal de Homans (dor na panturrilha à dorsiflexão do pé) e ao de Bancroft (dor à compressão da panturrilha contra a tíbia). Nenhum desses sinais confirma o diagnóstico, que exige ultrassonografia com Doppler; a enfermagem mede a circunferência das pernas e comunica a suspeita.",
+"porAlt": [
+"Errada: Rovsing é a dor na fossa ilíaca direita à compressão da esquerda, sugestiva de apendicite.",
+"Errada: o sinal de Jobert é o timpanismo na área hepática por ar livre no peritônio.",
+"Errada: Giordano é a dor à punho-percussão lombar, sugestiva de pielonefrite ou litíase.",
+"Correta: panturrilha empastada e com menor mobilidade que a do outro lado é o sinal da bandeira, de trombose venosa profunda.",
+"Errada: Blumberg é a dor à descompressão brusca da fossa ilíaca direita, sinal de peritonite."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 70,
+"parte": "especificas"
+}
+},
+{
+"q": "O choque é uma condição com risco à vida, em que o fluxo sanguíneo é baixo, pouco fornecimento de oxigênio, causando danos a órgãos-alvo e, às vezes, morte. O único tipo de choque que causa bradicardia chama-se:",
+"alts": [
+"anafilático.",
+"cardiogênico.",
+"neurogênico.",
+"hipovolêmico.",
+"séptico."
+],
+"gab": 2,
+"tema": "uti",
+"sub": "Sepse e choque",
+"cenario": "emg",
+"comp": "aval",
+"nivel": "r1",
+"base": "Surviving Sepsis Campaign 2026; ATLS, American College of Surgeons, 11ª ed., 2025 (choque neurogênico)",
+"coment": "No choque neurogênico, a lesão medular alta (em geral acima de T6) interrompe o tônus simpático: há vasodilatação com hipotensão e, sem a resposta simpática ao coração, predomina o vago e surge bradicardia, com pele quente e seca. Nos demais choques a resposta adrenérgica compensatória produz taquicardia: hipovolêmico e cardiogênico com pele fria; séptico e anafilático com vasodilatação e frequência alta. Hipotensão com bradicardia após trauma raquimedular é a pista clássica de prova.",
+"porAlt": [
+"O choque anafilático cursa com vasodilatação e taquicardia compensatória, não com bradicardia.",
+"O choque cardiogênico costuma ter taquicardia reflexa à queda do débito, com pele fria e congestão.",
+"Correta: a perda do tônus simpático na lesão medular alta deixa o vago sem oposição e produz bradicardia com hipotensão.",
+"No choque hipovolêmico a perda de volume dispara resposta adrenérgica e taquicardia progressiva.",
+"O choque séptico é distributivo com taquicardia; a bradicardia não faz parte do quadro típico."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 71,
+"parte": "especificas"
+}
+},
+{
+"q": "A levotiroxina sódica – T4 é muito usada para o tratamento de hipotireoidismo. O enfermeiro deve orientar o paciente sobre o uso:",
+"alts": [
+"após o café da manhã.",
+"antes de dormir.",
+"nunca em jejum.",
+"em jejum de pelo menos 1 hora.",
+"a ação do medicamento independe do jejum."
+],
+"gab": 3,
+"tema": "farmaco",
+"sub": "Interações e reações adversas",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Jonklaas J, et al. Guidelines for the Treatment of Hypothyroidism (American Thyroid Association). Thyroid. 2014;24(12):1670-1751",
+"coment": "A levotiroxina tem absorção reduzida por alimentos, café, cálcio, ferro e antiácidos. A orientação padrão é tomar o comprimido com água, em jejum, cerca de 60 minutos antes do café da manhã, sempre no mesmo horário (diretriz da American Thyroid Association, 2014). A mesma diretriz aceita a tomada ao deitar desde que 3 horas ou mais depois da última refeição, o que também é um jejum; por isso 'antes de dormir', sem essa condição, não é a orientação de escolha. Tomar após o café ou dizer que o jejum é indiferente reduz a absorção e desestabiliza o TSH.",
+"porAlt": [
+"Após o café da manhã o alimento reduz a absorção da levotiroxina e torna o controle do TSH irregular.",
+"Ao deitar só é aceito com 3 horas ou mais de jejum após o jantar; sem essa condição não é a orientação padrão.",
+"Nunca em jejum é o oposto do recomendado, pois o jejum é justamente o que garante a absorção.",
+"Correta: em jejum, cerca de 1 hora antes do café da manhã, com água, é a orientação padrão para a absorção.",
+"A absorção depende do jejum; alimentos, café, cálcio e ferro diminuem a quantidade absorvida."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 72,
+"parte": "especificas"
+}
+},
+{
+"q": "As ações de Biossegurança têm como objetivo capacitar e orientar os profissionais acerca dos meios e instrumentos para uma cultura de segurança do paciente. Com relação aos resíduos de saúde, analise os itens a seguir. I. os resíduos do grupo A apresentam agentes biológicos sem risco de infecção e conforme orienta a RDC 222, sacos vermelhos são designados para os resíduos que serão autoclavados. II. bolsas de sangue contaminado são exemplos de resíduos do grupo A. III. os resíduos do grupo D podem ser descartados sem tratamento prévio. Podem ser reciclados, exceto quando houver disposições contrárias de outros órgãos competentes e são semelhantes aos resíduos domiciliares. IV. o PGRSS é uma ferramenta facultativa em algumas instituições que geram resíduos de serviços de saúde. As únicas instituições obrigadas a cumprir esse plano são as hospitalares. Estão corretos, apenas:",
+"alts": [
+"I e II.",
+"I e III.",
+"I e IV.",
+"II e III.",
+"III e IV."
+],
+"gab": 3,
+"tema": "seguranca",
+"sub": "Biossegurança e NR-32",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "RDC ANVISA 222/2018 (art. 5º e Anexo I, grupos de resíduos)",
+"coment": "Pela RDC ANVISA 222/2018, o grupo A reúne resíduos com possível presença de agente biológico que pode trazer risco de infecção, e não 'sem risco', o que derruba o item I (o saco vermelho para resíduo A que exige tratamento está certo, mas a definição não). Bolsas de sangue rejeitadas por contaminação são A1 (item II certo). O grupo D equivale ao resíduo domiciliar, não exige tratamento prévio e pode ser reciclado (item III certo). Todo gerador de resíduo de serviço de saúde deve ter PGRSS, não só hospitais; quem gera apenas grupo D pode substituí-lo por notificação à vigilância sanitária (art. 5º), o que torna o item IV errado.",
+"porAlt": [
+"O item I está errado: o grupo A tem possível agente biológico com risco de infecção, não ausência de risco.",
+"O item I erra a definição do grupo A, e por isso a combinação I e III não serve.",
+"Os itens I e IV estão errados: o grupo A tem risco de infecção e o PGRSS é obrigatório para todo gerador.",
+"Correta: bolsas de sangue contaminadas são A1 e o grupo D dispensa tratamento prévio e pode ser reciclado.",
+"O item IV está errado, pois a RDC 222/2018 exige PGRSS de todo gerador, não só dos hospitais."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 73,
+"parte": "especificas"
+}
+},
+{
+"q": "Para descartar corretamente os resíduos de saúde, é preciso uma gestão organizada e sistemática (PGRSS), bem como a participação da equipe para esse fim. Sendo assim:",
+"alts": [
+"somente hospitais são obrigados pela ANVISA ao gerenciamento de resíduos de serviços de saúde e ao descarte adequado de cada um deles.",
+"os resíduos do grupo B e C podem ser reciclados.",
+"os resíduos de saúde do grupo D tem risco moderado de infecção e devem ser tratados previamente antes do descarte.",
+"esse plano tem o objetivo de maximizar a produção de resíduos e garantir a segurança do trabalhador, do paciente, da coletividade e do meio ambiente.",
+"o gerenciamento de resíduos de serviços de saúde tem como objetivo o manuseio, acondicionamento, transporte e destinação final dos resíduos gerados na assistência à saúde."
+],
+"gab": 4,
+"tema": "seguranca",
+"sub": "Biossegurança e NR-32",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "RDC ANVISA 222/2018 (gerenciamento de resíduos de serviços de saúde, art. 5º)",
+"coment": "O gerenciamento de resíduos de serviços de saúde, pela RDC ANVISA 222/2018, é o conjunto de procedimentos que cobre todas as etapas do manejo: segregação, acondicionamento, identificação, transporte, armazenamento, tratamento e destinação final, com o fim de reduzir a geração e encaminhar com segurança. A alternativa correta resume isso. A obrigação de ter PGRSS vale para todo gerador (art. 5º), o grupo D não tem risco biológico, químico ou radiológico, e o grupo C é rejeito radioativo, que segue normas da CNEN e não vai para reciclagem. O plano quer minimizar, nunca maximizar, a produção de resíduos.",
+"porAlt": [
+"A RDC 222/2018 obriga todo gerador de resíduo de serviço de saúde, não só hospitais, a ter PGRSS.",
+"O grupo C é rejeito radioativo, com manejo pelas normas da CNEN, e não pode ser destinado à reciclagem.",
+"O grupo D não tem risco biológico, químico ou radiológico e não precisa de tratamento prévio.",
+"O objetivo do plano é minimizar a geração de resíduos, e não maximizá-la como afirma a alternativa.",
+"Correta: o gerenciamento abrange manuseio, acondicionamento, transporte e destinação final dos resíduos gerados."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 74,
+"parte": "especificas"
+}
+},
+{
+"q": "Sobre o Diabetes Mellitus (DM), é correto afirmar:",
+"alts": [
+"no DM tipo 2, o corpo começa a atacar as células do pâncreas que produzem insulina.",
+"mudanças no estilo de vida, como alimentação balanceada e prática de atividade física, diminuem a incidência do diabetes tipo 2.",
+"no MD tipo 1 acontece a perda progressiva de secreção insulínica bem como a resistência à insulina.",
+"ao contrário do diabetes tipo 1, o diabetes tipo 2 não ocorre devido ao estilo de vida, mas devido a um defeito no sistema imunológico.",
+"a hemoglobina glicada é um importante exame para rastreamento do diabético pois revela os níveis glicêmicos dos últimos 15 dias."
+],
+"gab": 1,
+"tema": "adulto",
+"sub": "Diabetes mellitus",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "American Diabetes Association. Standards of Care in Diabetes 2026. Diabetes Care. 2026",
+"coment": "O diabetes tipo 2 está ligado a excesso de peso, sedentarismo e alimentação inadequada, e intervenções de estilo de vida (perda de peso, dieta equilibrada, atividade física) reduzem sua incidência em pessoas com pré-diabetes, como mostram os Standards of Care da ADA de 2026. A destruição autoimune das células beta é a marca do tipo 1; resistência à insulina com perda progressiva de secreção é a do tipo 2. A hemoglobina glicada reflete a glicemia média dos últimos 2 a 3 meses, e não de 15 dias.",
+"porAlt": [
+"O ataque autoimune às células beta do pâncreas define o diabetes tipo 1, não o tipo 2.",
+"Correta: alimentação equilibrada e atividade física reduzem a incidência do diabetes tipo 2.",
+"Perda progressiva de secreção com resistência à insulina descreve o tipo 2, não o tipo 1.",
+"Inverte os tipos: o defeito imunológico é do tipo 1, e o tipo 2 se associa ao estilo de vida.",
+"A hemoglobina glicada reflete a glicemia média de cerca de 2 a 3 meses, não de 15 dias."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 76,
+"parte": "especificas"
+}
+},
+{
+"q": "O enfermeiro durante o exame físico avalia um paciente cardiopata e verifica presença de estase jugular. A posição correta para realizar este exame é:",
+"alts": [
+"decúbito lateral.",
+"decúbito de 90°.",
+"decúbito de 45°.",
+"posição supina.",
+"posição de Sims."
+],
+"gab": 2,
+"tema": "fundamentos",
+"sub": "Sinais vitais e exame físico",
+"cenario": "enf",
+"comp": "tec",
+"nivel": "r1",
+"base": "Porto CC. Semiologia Médica. 8ª ed. Rio de Janeiro: Guanabara Koogan, 2019 (exame das veias jugulares)",
+"coment": "A turgência jugular se pesquisa com o paciente em decúbito dorsal e a cabeceira elevada a cerca de 45 graus, cabeça levemente voltada para o lado oposto. Nessa posição, em pessoa normal, a coluna de sangue na jugular interna fica pouco acima da clavícula; se a veia permanece túrgida e visível bem acima dela, há aumento da pressão venosa central, como na insuficiência cardíaca direita. Deitado plano, toda pessoa tem jugulares cheias; sentado a 90 graus, a coluna pode ficar escondida atrás da clavícula.",
+"porAlt": [
+"O decúbito lateral distorce a coluna venosa e não é a posição padronizada para medir a turgência jugular.",
+"A 90 graus a coluna de sangue pode ficar oculta atrás da clavícula e subestimar a pressão venosa.",
+"Correta: com a cabeceira a 45 graus, a jugular túrgida acima da clavícula indica pressão venosa aumentada.",
+"Em posição supina qualquer pessoa tem as jugulares cheias, o que gera falso positivo.",
+"A posição de Sims é lateral semiprona, usada para exames retais e enemas, não para avaliar jugulares."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 77,
+"parte": "especificas"
+}
+},
+{
+"q": "O exame que é considerado padrão ouro para diagnóstico não invasivo das arritmias cardíacas é o:",
+"alts": [
+"cateterismo cardíaco.",
+"tomografia computadorizada.",
+"angioplastia transcutânea.",
+"ressonância magnética.",
+"eletrocardiograma."
+],
+"gab": 4,
+"tema": "adulto",
+"sub": "Hipertensão e doenças cardiovasculares",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r1",
+"base": "Diretrizes da Sociedade Brasileira de Cardiologia sobre Análise e Emissão de Laudos Eletrocardiográficos, 2022",
+"coment": "O eletrocardiograma registra a atividade elétrica do coração na superfície da pele e é o exame não invasivo de referência para diagnosticar arritmias, pois mostra frequência, ritmo, origem do estímulo e condução (diretrizes da SBC sobre laudos eletrocardiográficos, 2022). Holter e monitor de eventos são variações do mesmo princípio para arritmias intermitentes. Cateterismo e angioplastia são invasivos e voltados à doença coronariana; tomografia e ressonância avaliam estrutura, não o ritmo.",
+"porAlt": [
+"O cateterismo cardíaco é invasivo e avalia anatomia coronariana e pressões, não o ritmo.",
+"A tomografia computadorizada mostra estrutura e coronárias, mas não registra a atividade elétrica.",
+"A angioplastia é procedimento terapêutico invasivo para desobstruir artérias, não exame diagnóstico.",
+"A ressonância avalia estrutura e função miocárdica, sem papel diagnóstico primário nas arritmias.",
+"Correta: o eletrocardiograma registra a atividade elétrica e é o exame não invasivo de referência para arritmias."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 78,
+"parte": "especificas"
+}
+},
+{
+"q": "O sangue é formado por quatro principais componentes:",
+"alts": [
+"plasma, glóbulos brancos, glóbulos vermelhos, plaquetas.",
+"plasma, glóbulos brancos, glóbulos vermelhos, proteínas.",
+"plasma, linfócitos, neutrófilos e eosinófilos.",
+"plasma, glóbulos vermelhos, plaquetas.",
+"plasma, glóbulos brancos, glóbulos vermelhos, hemácias."
+],
+"gab": 0,
+"tema": "adulto",
+"sub": "Hemoterapia e transfusão",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r1",
+"base": "Ministério da Saúde. Guia para o Uso de Hemocomponentes. 2ª ed. Brasília, 2015",
+"coment": "O sangue total tem uma parte líquida, o plasma, e três elementos figurados: glóbulos vermelhos (hemácias), glóbulos brancos (leucócitos) e plaquetas. É essa divisão que fundamenta os hemocomponentes do Guia para o Uso de Hemocomponentes do Ministério da Saúde (2015): concentrado de hemácias, concentrado de plaquetas, plasma fresco congelado e crioprecipitado. Linfócitos, neutrófilos e eosinófilos são subtipos de leucócitos, e proteínas são constituintes do plasma, não componentes à parte.",
+"porAlt": [
+"Correta: plasma, glóbulos brancos, glóbulos vermelhos e plaquetas são os quatro componentes do sangue.",
+"Proteínas fazem parte do plasma; a lista omite as plaquetas, que são elemento figurado próprio.",
+"Linfócitos, neutrófilos e eosinófilos são todos glóbulos brancos; faltam hemácias e plaquetas.",
+"A lista tem só três componentes e omite os glóbulos brancos.",
+"Glóbulos vermelhos e hemácias são a mesma célula; a lista repete um item e omite as plaquetas."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 79,
+"parte": "especificas"
+}
+},
+{
+"q": "O enfermeiro no desempenho de atividades gerenciais, além de favorecer a gestão de recursos humanos, precisa também gerenciar os recursos materiais. Sobre os conceitos relacionados ao gerenciamento dos recursos materiais, assinale a alternativa incorreta:",
+"alts": [
+"número de leitos, com ou sem acompanhante, características da clientela (grau de dependência de cuidado, tipo de patologia), frequência no uso dos materiais, local de guarda (disponibilidade de locais), durabilidade do material são situações relacionadas à provisão de materiais.",
+"a reposição imediata de materiais por quantidade é a mais utilizada nos serviços de atenção às urgências.",
+"A provisão diz respeito à reposição de materiais na unidade de enfermagem. Para desempenhar essa função o enfermeiro deve realizar a requisição de materiais em impresso próprio.",
+"as funções do enfermeiro no gerenciamento de recursos materiais são: previsão, provisão, organização e controle.",
+"a previsão de materiais nas unidades de enfermagem consiste em: fazer levantamento das necessidades da unidade de enfermagem, identificando a quantidade e a especificidade deles para suprir essas necessidades."
+],
+"gab": 0,
+"tema": "gestao",
+"sub": "Auditoria, custos e recursos materiais",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Kurcgant P (coord.). Gerenciamento em Enfermagem. 3ª ed. Rio de Janeiro: Guanabara Koogan, 2016 (recursos materiais)",
+"coment": "Na administração de recursos materiais (Kurcgant, 2016), o enfermeiro atua em previsão, provisão, organização e controle. Previsão é estimar o que a unidade precisa, em tipo e quantidade, e considera número de leitos, acompanhantes, perfil e grau de dependência da clientela, frequência de uso, espaço de guarda e durabilidade. Provisão é a reposição propriamente dita, feita por requisição. A alternativa incorreta atribui à provisão os fatores que pertencem à previsão.",
+"porAlt": [
+"Correta: é a afirmativa incorreta, porque esses fatores orientam a previsão das necessidades, não a provisão, que é a reposição.",
+"A reposição imediata por quantidade é de fato a mais usada onde o consumo é imprevisível, como nas urgências.",
+"Provisão é a reposição dos materiais na unidade, feita por requisição em impresso ou sistema próprio.",
+"Previsão, provisão, organização e controle são as funções do enfermeiro na gestão de materiais.",
+"A previsão levanta as necessidades da unidade, identificando quantidade e especificidade dos materiais."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 80,
+"parte": "especificas"
+}
+},
+{
+"q": "A pericardite tem, dentro outros sintomas, a dor no peito que irradia para o lado esquerdo do pescoço ou ombro. Na assistência de enfermagem, a posição que promove conforto ao paciente com essa patologia é a de:",
+"alts": [
+"Prona.",
+"Fowler.",
+"Sims.",
+"Kraske.",
+"Trendelenburg."
+],
+"gab": 1,
+"tema": "adulto",
+"sub": "Hipertensão e doenças cardiovasculares",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r1",
+"base": "2025 ESC Guidelines for the management of myocarditis and pericarditis (European Society of Cardiology, 2025)",
+"coment": "A dor da pericardite aguda é pleurítica, piora em decúbito dorsal e na inspiração profunda e alivia quando o paciente se senta e inclina o tronco para frente, o que afasta o pericárdio inflamado das estruturas vizinhas (diretriz ESC de miocardite e pericardite, 2025). Entre as opções, a Fowler, com a cabeceira elevada e o paciente sentado, é a que permite essa postura de conforto. Prona, Trendelenburg e Sims deixam o paciente deitado e tendem a piorar a dor; Kraske é posição cirúrgica.",
+"porAlt": [
+"Em prona o paciente fica deitado sobre o tórax, sem a inclinação sentada que alivia a dor pericárdica.",
+"Correta: sentado em Fowler, com o tronco inclinado para frente, a dor da pericardite diminui.",
+"A posição de Sims é lateral semiprona, deitada, e não alivia a dor pericárdica.",
+"Kraske, em canivete, é posição cirúrgica para acesso proctológico, sem papel no conforto do cardiopata.",
+"Trendelenburg abaixa a cabeça, aumenta o retorno venoso e mantém o decúbito que piora a dor."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 82,
+"parte": "especificas"
+}
+},
+{
+"q": "Durante o exame físico o enfermeiro identificou na ausculta cardíaca presença de terceira bulha e turgência de jugular. Esses achados são sugestivos de:",
+"alts": [
+"tamponamento cardíaco.",
+"insuficiência cardíaca.",
+"estenose aórtica.",
+"insuficiência cardíaca auscultada no foco tricúspide.",
+"estenose pulmonar."
+],
+"gab": 1,
+"tema": "adulto",
+"sub": "Hipertensão e doenças cardiovasculares",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r1",
+"base": "Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda, Sociedade Brasileira de Cardiologia, 2018",
+"coment": "A terceira bulha (B3) é um som protodiastólico de enchimento ventricular rápido num ventrículo com pressão elevada; com turgência jugular, que traduz congestão venosa sistêmica, compõe o quadro de insuficiência cardíaca descompensada. A Diretriz Brasileira de Insuficiência Cardíaca da SBC (2018) lista B3 e turgência jugular entre os sinais mais específicos de congestão. Tamponamento cursa com bulhas abafadas, e as estenoses valvares dão sopros, não B3. A alternativa do foco tricúspide restringe o achado sem base: a B3 da IC esquerda se ouve melhor no ápice.",
+"porAlt": [
+"O tamponamento cardíaco dá bulhas abafadas, hipotensão e turgência jugular, sem terceira bulha.",
+"Correta: B3 com turgência jugular indica congestão por insuficiência cardíaca.",
+"A estenose aórtica se manifesta por sopro sistólico ejetivo no foco aórtico, não por B3.",
+"A B3 da insuficiência cardíaca esquerda se ausculta melhor no ápice, e o enunciado não localiza o achado.",
+"A estenose pulmonar produz sopro sistólico no foco pulmonar, não terceira bulha com congestão."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 83,
+"parte": "especificas"
+}
+},
+{
+"q": "Paciente apresenta na UTI, após resultado de gasometria arterial, pH alto, baixo PaCO₂, HCO3 em valor normal. O enfermeiro ao interpretar o exame detecta que se trata de uma:",
+"alts": [
+"acidose mista.",
+"acidose respiratória.",
+"alcalose respiratória.",
+"alcalose metabólica.",
+"acidose metabólica."
+],
+"gab": 2,
+"tema": "adulto",
+"sub": "Distúrbios hidroeletrolíticos",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "r2",
+"base": "Berend K, de Vries APJ, Gans ROB. Physiological approach to assessment of acid-base disturbances. N Engl J Med. 2014;371:1434-1445",
+"coment": "A leitura da gasometria começa pelo pH: acima de 7,45 é alcalemia. Depois se procura o componente que explica o desvio. PaCO2 baixa (abaixo de 35 mmHg) remove ácido carbônico e eleva o pH, logo o distúrbio primário é respiratório. Bicarbonato normal (22 a 26 mEq/L) mostra que ainda não houve compensação renal, que leva dias: é uma alcalose respiratória aguda, típica de hiperventilação por dor, ansiedade, hipoxemia ou ventilação mecânica com volume minuto alto. Se o bicarbonato estivesse alto com PaCO2 normal ou alta, seria alcalose metabólica.",
+"porAlt": [
+"Na acidose mista o pH é baixo, com PaCO2 alta e bicarbonato baixo ao mesmo tempo.",
+"A acidose respiratória tem pH baixo e PaCO2 alta, o oposto do quadro descrito.",
+"Correta: pH alto com PaCO2 baixa e bicarbonato normal é alcalose respiratória sem compensação.",
+"A alcalose metabólica tem pH alto por bicarbonato elevado, e aqui o bicarbonato está normal.",
+"A acidose metabólica tem pH baixo e bicarbonato baixo, incompatível com pH alto."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 84,
+"parte": "especificas"
+}
+},
+{
+"q": "Paciente com quadro de aneurisma tem sinais característicos da tríade de Cushing que são:",
+"alts": [
+"hipertensão, hipertermia e taquipneia.",
+"bradicardia, hipotensão e taquipneia.",
+"hipertensão, hipotermia e taquipneia.",
+"oligúria, hipertensão e taquipneia.",
+"bradicardia, bradipneia e hipertensão."
+],
+"gab": 4,
+"tema": "uti",
+"sub": "Paciente neurocrítico",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "r1",
+"base": "Porto CC. Semiologia Médica. 8ª ed. Rio de Janeiro: Guanabara Koogan, 2019; Brain Trauma Foundation, Guidelines for the Management of Severe TBI, 4ª ed., 2016",
+"coment": "A tríade de Cushing é a resposta do tronco encefálico à hipertensão intracraniana grave: hipertensão arterial sistólica com aumento da pressão de pulso, bradicardia e alteração do ritmo respiratório, com respiração lenta e irregular (bradipneia). No aneurisma cerebral roto, a hemorragia subaracnóidea e o edema podem elevar a pressão intracraniana até esse ponto. É sinal tardio de herniação iminente e exige comunicação imediata. Hipotensão e taquicardia sugerem choque, não hipertensão intracraniana.",
+"porAlt": [
+"Hipertermia e taquipneia não compõem a tríade; falta a bradicardia, que é o sinal central.",
+"Hipotensão com taquipneia sugere choque; na tríade de Cushing a pressão sobe.",
+"Hipotermia e taquipneia não fazem parte da tríade, que tem bradicardia e bradipneia.",
+"Oligúria não integra a tríade, e a respiração na hipertensão intracraniana grave fica lenta e irregular.",
+"Correta: bradicardia, bradipneia e hipertensão formam a tríade de Cushing da hipertensão intracraniana grave."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 85,
+"parte": "especificas"
+}
+},
+{
+"q": "Com relação ao edema agudo de pulmão (EAP), o enfermeiro deve estar atento aos sinais e sintomas dessa patologia. Dos sintomas abaixo, aquele que não é característico do quadro clínico dessa síndrome chama-se:",
+"alts": [
+"ortopneia.",
+"taquipneia.",
+"apneia.",
+"ansiedade e inquietação.",
+"expectoração espumosa de cor rosa."
+],
+"gab": 2,
+"tema": "urgencia",
+"sub": "Emergências clínicas",
+"cenario": "emg",
+"comp": "aval",
+"nivel": "r1",
+"base": "Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda, Sociedade Brasileira de Cardiologia, 2018 (edema agudo de pulmão)",
+"coment": "No edema agudo de pulmão cardiogênico o líquido inunda o interstício e os alvéolos, a complacência cai e o trabalho respiratório aumenta. O quadro típico é dispneia intensa com taquipneia, ortopneia, ansiedade e inquietação pela fome de ar, sudorese, estertores crepitantes e expectoração espumosa e rósea. O paciente respira rápido e com esforço; a apneia não faz parte da síndrome e, se ocorrer, indica exaustão e parada respiratória iminente.",
+"porAlt": [
+"A ortopneia é típica: deitado, o retorno venoso aumenta e piora a congestão pulmonar.",
+"A taquipneia faz parte do quadro, como resposta à hipoxemia e à perda de complacência pulmonar.",
+"Correta: é o sinal não característico, porque no edema agudo o paciente respira rápido; apneia não integra a síndrome.",
+"Ansiedade e inquietação acompanham a fome de ar e a hipoxemia do edema agudo.",
+"A expectoração espumosa e rósea é sinal clássico da transudação alveolar com hemácias."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 86,
+"parte": "especificas"
+}
+},
+{
+"q": "Os tipos de choque podem ser classificados em quatro diferentes tipos de classes, sendo elas: choque hipovolêmico, choque cardiogênico, choque obstrutivo e choque distributivo. O choque hipovolêmico é aquele que resulta de baixo débito cardíaco por perda de volume sanguíneo ou plasmático, sendo classificado em quatro tipos de classes (a diferença está na perda sanguínea). Em um paciente com choque hipovolêmico de classe III, a perda sanguínea é em torno de:",
+"alts": [
+"< 750 ml.",
+"750 a 1.500 ml.",
+"1.500 a 2.000ml.",
+"2.000 a 2.500ml.",
+"> 2.500 ml."
+],
+"gab": 2,
+"tema": "urgencia",
+"sub": "Atendimento ao trauma",
+"cenario": "emg",
+"comp": "aval",
+"nivel": "r2",
+"base": "Advanced Trauma Life Support (ATLS), American College of Surgeons, 10ª ed., 2018 (classes do choque hemorrágico); 11ª ed., 2025",
+"coment": "A tabela de classes do choque hemorrágico do ATLS (10ª ed., 2018) estima a perda num adulto de 70 kg: classe I até 750 mL (até 15%), classe II 750 a 1.500 mL (15 a 30%), classe III 1.500 a 2.000 mL (30 a 40%), com queda da pressão arterial, taquicardia acima de 120 e confusão, e classe IV acima de 2.000 mL (mais de 40%). A 11ª edição (2025) trocou o ABCDE pelo xABCDE e reforça o controle da hemorragia e a transfusão precoce; a faixa da classe III é a que as provas cobram.",
+"porAlt": [
+"Perda menor que 750 mL corresponde à classe I, com sinais vitais praticamente normais.",
+"De 750 a 1.500 mL é classe II, com taquicardia e pressão de pulso reduzida, mas pressão sistólica mantida.",
+"Correta: a classe III corresponde a perda de 1.500 a 2.000 mL, ou 30 a 40% da volemia.",
+"A faixa de 2.000 a 2.500 mL já ultrapassa 40% da volemia e se enquadra na classe IV.",
+"Perda acima de 2.500 mL está na classe IV, com risco imediato de morte."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 87,
+"parte": "especificas"
+}
+},
+{
+"q": "Sobre o Gerenciamento dos Resíduos de Saúde, regulamentado pela RDC 222 de 2018, assinale a alternativa correta sobre os grupos de resíduos (A, B, C, D ,E):",
+"alts": [
+"resíduos do grupo A são aqueles que contêm produtos químicos com características de inflamação, corrosividade, reatividade e toxicidade.",
+"resíduos do grupo B são aqueles que contêm produtos químicos com características de inflamação, corrosividade, reatividade e toxicidade.",
+"resíduos do grupo C são os que não apresentam risco biológico, químico ou radiológico ao homem e ao meio ambiente.",
+"resíduos do grupo D são aqueles que podem possuir agentes biológicos que, devido às suas características, podem gerar infecção ao homem.",
+"resíduos do grupo E são os rejeitos radioativos."
+],
+"gab": 1,
+"tema": "seguranca",
+"sub": "Biossegurança e NR-32",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "RDC ANVISA 222/2018 (Anexo I, classificação dos resíduos de serviços de saúde)",
+"coment": "A RDC ANVISA 222/2018 classifica os resíduos em cinco grupos: A, biológico, com possível presença de agente infeccioso; B, químico, com características de inflamabilidade, corrosividade, reatividade e toxicidade, como medicamentos, saneantes e reagentes; C, rejeito radioativo; D, comum, sem risco biológico, químico ou radiológico, equiparado ao domiciliar; E, perfurocortante, como agulhas, lâminas, ampolas e escalpes. A alternativa correta descreve o grupo B; as demais trocam as definições entre os grupos.",
+"porAlt": [
+"Produto químico inflamável, corrosivo, reativo ou tóxico é do grupo B; o grupo A é o biológico.",
+"Correta: o grupo B reúne os resíduos químicos inflamáveis, corrosivos, reativos e tóxicos.",
+"Resíduo sem risco biológico, químico ou radiológico é do grupo D; o grupo C é o radioativo.",
+"Resíduo com agente biológico capaz de causar infecção é do grupo A; o grupo D é o comum.",
+"Rejeito radioativo é do grupo C; o grupo E é o dos perfurocortantes."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 88,
+"parte": "especificas"
+}
+},
+{
+"q": "Alguns órgãos do corpo são muito sensíveis à ação dos quimioterápicos. São efeitos colaterais dos quimioterápicos, exceto:",
+"alts": [
+"náuseas.",
+"aumento de apetite.",
+"diarreia.",
+"constipação.",
+"alopecia."
+],
+"gab": 1,
+"tema": "adulto",
+"sub": "Oncologia e quimioterapia",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r1",
+"base": "INCA. ABC do Câncer: abordagens básicas para o controle do câncer. 6ª ed. Rio de Janeiro: INCA, 2020; Resolução COFEN 569/2018",
+"coment": "Os quimioterápicos agem sobre células de divisão rápida, malignas e normais. Por isso atingem a mucosa do trato gastrointestinal, o folículo piloso e a medula óssea: náuseas e vômitos, mucosite, diarreia, alopecia e mielossupressão são esperados. A constipação também é frequente, por alcaloides da vinca como a vincristina, por opioides e por antieméticos antagonistas 5-HT3. O efeito típico sobre o apetite é a anorexia, com perda de peso; aumento do apetite não é efeito colateral da quimioterapia.",
+"porAlt": [
+"Náuseas e vômitos estão entre os efeitos mais comuns, por ação central e sobre a mucosa intestinal.",
+"Correta: é a exceção, porque a quimioterapia costuma causar anorexia, não aumento do apetite.",
+"A diarreia decorre da lesão da mucosa intestinal, que se renova rapidamente.",
+"A constipação ocorre com vincristina, opioides e antieméticos antagonistas 5-HT3.",
+"A alopecia resulta da ação sobre o folículo piloso, de divisão rápida."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 89,
+"parte": "especificas"
+}
+},
+{
+"q": "Quanto às feridas, de acordo com o comprometimento tecidual, são classificadas em quatro estágios. Assinale o item correto:",
+"alts": [
+"o estágio I caracteriza-se por abrasão ou úlcera, ocorre perda tecidual e comprometimento da epiderme ou derme.",
+"o estágio II caracteriza-se por abrasão ou úlcera, ocorre perda tecidual e comprometimento da epiderme, derme ou ambas.",
+"o estágio III caracteriza-se por extensa destruição de tecido, chegando a ocorrer lesão óssea ou muscular ou necrose tissular.",
+"O estágio IV caracteriza-se por presença de úlcera profunda, com comprometimento total da pele e necrose de tecido subcutâneo.",
+"O estágio IV caracteriza-se por formação de tecido de granulação."
+],
+"gab": 1,
+"tema": "feridas",
+"sub": "Lesão por pressão",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r1",
+"base": "Edsberg LE, et al. Revised NPUAP pressure injury staging system. J Wound Ostomy Continence Nurs. 2016;43(6):585-597; Resolução COFEN 787/2025",
+"coment": "Na classificação das feridas pelo comprometimento tecidual em quatro estágios, o estágio I tem pele íntegra com eritema; o II, perda parcial que atinge epiderme, derme ou ambas, como abrasão, bolha ou úlcera rasa; o III, perda total da pele com necrose do subcutâneo; o IV, destruição extensa com necrose e lesão de músculo, osso ou estruturas de suporte. A alternativa correta descreve o estágio II. Na lesão por pressão, o sistema NPIAP de 2016 define o estágio 2 como perda parcial com exposição da derme e não inclui abrasões traumáticas.",
+"porAlt": [
+"O estágio I tem pele íntegra com eritema, sem perda tecidual.",
+"Correta: o estágio II é a perda parcial que compromete epiderme, derme ou ambas.",
+"Destruição extensa com lesão de músculo ou osso descreve o estágio IV, não o III.",
+"Úlcera profunda com necrose do subcutâneo sem atingir músculo ou osso é o estágio III.",
+"O tecido de granulação aparece na cicatrização e não define nenhum estágio."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 91,
+"parte": "especificas"
+}
+},
+{
+"q": "Conforme o Manual de Normas e Procedimentos do Ministério da Saúde para Vacinação, são contraindicações comuns a todos os imunológicos:",
+"alts": [
+"desnutrição.",
+"reação anafilática confirmada a qualquer componente dos imunológicos.",
+"dor intensa, vermelhidão ou edema no local da injeção.",
+"febre acima de 38, 5 °.",
+"tratamento com antibióticos."
+],
+"gab": 1,
+"tema": "imuniza",
+"sub": "Eventos supostamente atribuíveis à vacinação",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS); Manual de Normas e Procedimentos para Vacinação (MS, 2014)",
+"coment": "A contraindicação que vale para todos os imunobiológicos é a reação anafilática confirmada a dose anterior ou a algum componente da vacina, como a Instrução Normativa do Calendário Nacional de Vacinação de 2026 lista. As atenuadas somam contraindicações próprias, como gestação e imunodepressão grave. Febre alta e doença aguda moderada ou grave são precauções que adiam, não contraindicam. Desnutrição, uso de antibiótico e reação local de dor, vermelhidão ou edema numa dose anterior são falsas contraindicações e não justificam deixar de vacinar.",
+"porAlt": [
+"A desnutrição é falsa contraindicação; a criança desnutrida deve ser vacinada.",
+"Correta: anafilaxia confirmada a dose anterior ou a componente da vacina contraindica todos os imunobiológicos.",
+"Dor, vermelhidão ou edema local numa dose anterior são eventos leves e não contraindicam a vacina.",
+"Febre acima de 38,5 °C com doença aguda é precaução que adia a vacina, não contraindicação.",
+"O uso de antibiótico não interfere na resposta vacinal e não contraindica a vacinação."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 93,
+"parte": "especificas"
+}
+},
+{
+"q": "Com relação à vacina da Febre Amarela, é correto afirmar que deve ser administrada:",
+"alts": [
+"1 dose aos 9 meses e uma dose de reforço aos 4 anos.",
+"aos 6 meses.",
+"1 dose aos 6 meses e uma dose de reforço aos 4 anos.",
+"aos 9 meses, 1 dose, com uma dose de reforço aos 14 anos.",
+"somente uma dose aos 9 meses."
+],
+"gab": 0,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), Quadro 2",
+"coment": "Pela Instrução Normativa do Calendário Nacional de Vacinação de 2026 (Quadro 2), a criança de 9 meses a 4 anos, 11 meses e 29 dias recebe 1 dose da vacina febre amarela aos 9 meses e 1 dose de reforço aos 4 anos, com intervalo mínimo de 30 dias. Quem recebeu só 1 dose antes dos 5 anos faz 1 reforço; quem recebeu a primeira dose a partir dos 5 anos tem esquema completo com dose única. A dose aos 6 a 8 meses só existe como dose zero, em área com circulação confirmada, e não vale para o esquema.",
+"porAlt": [
+"Correta: 1 dose aos 9 meses e reforço aos 4 anos é o esquema da IN do calendário 2026.",
+"Aos 6 meses a vacina só é aplicada como dose zero em situação epidemiológica de risco, fora da rotina.",
+"O esquema de rotina começa aos 9 meses; a dose aos 6 meses não conta e não substitui a de 9 meses.",
+"O reforço é aos 4 anos, não aos 14; não existe reforço de febre amarela na adolescência no calendário.",
+"Dose única aos 9 meses ficou incompleta: a criança vacinada antes dos 5 anos precisa do reforço aos 4 anos."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 94,
+"parte": "especificas"
+}
+},
+{
+"q": "A tuberculose é uma doença de transmissão aérea e se instala a partir da inalação de aerossóis oriundos das vias aéreas, durante a fala, espirro ou tosse das pessoas com tuberculose ativa. Com relação à tuberculose, é de suma importância a pesquisa bacteriológica. Com relação a isso, é correto afirmar que o método mais usado é denominado:",
+"alts": [
+"imunofluorescência.",
+"baciloscopia de escarro.",
+"ressonância magnética.",
+"raio X de tórax.",
+"prova tuberculínica."
+],
+"gab": 1,
+"tema": "transmissiveis",
+"sub": "Tuberculose",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Ministério da Saúde. Manual de Recomendações para o Controle da Tuberculose no Brasil. 2ª ed. atualizada. Brasília, 2019",
+"coment": "A pesquisa bacteriológica é o eixo do diagnóstico da tuberculose pulmonar. A baciloscopia direta do escarro, que busca o bacilo álcool-ácido resistente pelo método de Ziehl-Neelsen, é barata, rápida e a mais difundida, e é o exame do controle mensal do tratamento. Pelo Manual de Recomendações do MS (2019), onde há teste rápido molecular (TRM-TB) ele é o exame inicial de diagnóstico, pois detecta o bacilo e a resistência à rifampicina em cerca de duas horas, mas não serve para controle de tratamento. Raio X e prova tuberculínica não são exames bacteriológicos.",
+"porAlt": [
+"A imunofluorescência não é método de rotina na pesquisa do bacilo da tuberculose.",
+"Correta: a baciloscopia de escarro é o método bacteriológico mais difundido e o do controle do tratamento.",
+"A ressonância magnética não pesquisa bacilo e não tem papel no diagnóstico de rotina da tuberculose.",
+"O raio X de tórax é exame de imagem, útil como apoio, mas não é pesquisa bacteriológica.",
+"A prova tuberculínica indica infecção pelo bacilo, latente ou ativa, e não é pesquisa bacteriológica."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 95,
+"parte": "especificas"
+}
+},
+{
+"q": "A hanseníase é uma doença infectocontagiosa que infecta os nervos periféricos. No tratamento da hanseníase, os medicamentos utilizados são:",
+"alts": [
+"rifampicina, dapsona e azitromicina.",
+"dapsona e doxiciclina.",
+"rifampicina, dapsona e clofazimina.",
+"azitromicina e dapsona.",
+"dapsona e famotidina."
+],
+"gab": 2,
+"tema": "transmissiveis",
+"sub": "Hanseníase",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Protocolo Clínico e Diretrizes Terapêuticas da Hanseníase, Portaria SCTIE/MS 67/2022",
+"coment": "O tratamento da hanseníase no SUS é a poliquimioterapia única (PQT-U), com rifampicina, dapsona e clofazimina para paucibacilares e multibacilares, pelo PCDT de 2022 (Portaria SCTIE/MS 67/2022). Muda só a duração: 6 doses no PB e 12 no MB. No adulto acima de 50 kg, a dose mensal supervisionada é rifampicina 600 mg, clofazimina 300 mg e dapsona 100 mg, e a diária autoadministrada é clofazimina 50 mg e dapsona 100 mg. Azitromicina, doxiciclina e famotidina não fazem parte do esquema padrão.",
+"porAlt": [
+"A azitromicina não integra a PQT-U; o terceiro fármaco do esquema é a clofazimina.",
+"Dapsona com doxiciclina não é esquema padrão; falta a rifampicina, principal bactericida.",
+"Correta: rifampicina, dapsona e clofazimina compõem a PQT-U do PCDT de 2022.",
+"Azitromicina com dapsona não é esquema do PCDT e deixa de fora a rifampicina e a clofazimina.",
+"A famotidina é antiulceroso, sem ação contra o Mycobacterium leprae."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 96,
+"parte": "especificas"
+}
+},
+{
+"q": "O enfermeiro vai avaliar o ritmo respiratório de um paciente. O mesmo apresenta respiração ataxica, irregular, com incursões respiratórias que podem ser lentas e rápidas, algumas vezes superficiais ou profundas. No exame físico, o enfermeiro conclui que se trata de:",
+"alts": [
+"respiração de kussmaul.",
+"taquipneia.",
+"respiração de Biot.",
+"apneia.",
+"respiração de Cheyne-Stokes."
+],
+"gab": 2,
+"tema": "fundamentos",
+"sub": "Sinais vitais e exame físico",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r1",
+"base": "Porto CC. Semiologia Médica. 8ª ed. Rio de Janeiro: Guanabara Koogan, 2019 (ritmos respiratórios)",
+"coment": "A respiração de Biot, também chamada atáxica, é totalmente irregular quanto ao ritmo e à amplitude: incursões ora superficiais, ora profundas, rápidas ou lentas, intercaladas com períodos de apneia, sem padrão previsível. Indica lesão do centro respiratório bulbar, como na hipertensão intracraniana e nas lesões do tronco. Cheyne-Stokes tem ciclos regulares de amplitude crescente e decrescente com apneia; Kussmaul é ampla, profunda e regular, típica da acidose metabólica.",
+"porAlt": [
+"A respiração de Kussmaul é profunda, ampla e regular, típica da cetoacidose, não irregular.",
+"Taquipneia é só o aumento da frequência respiratória, sem a irregularidade descrita.",
+"Correta: a respiração de Biot, ou atáxica, é irregular em ritmo e amplitude, com pausas imprevisíveis.",
+"Apneia é a ausência de respiração, e o paciente descrito respira com incursões variáveis.",
+"Cheyne-Stokes tem ciclos regulares de amplitude crescente e decrescente alternados com apneia."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 98,
+"parte": "especificas"
+}
+},
+{
+"q": "Assinale a alternativa correta sobre as novas diretrizes da AHA (American Heart Association) de 2020:",
+"alts": [
+"É recomendada o uso rotineiro de dupla desfibrilação sequencial.",
+"o acesso intravenoso (IV) é a via preferida de administração de medicação durante a ressuscitação, sendo assim, o acesso intraósseo (IO) é aceitável se o acesso IV não estiver disponível.",
+"na ressuscitação pediátrica, a ventilação deve ocorrer a cada 6 segundos (10 respirações por minuto) para todos os casos.",
+"Para uma RCP de boa qualidade deve -se comprimir o abdômen com força pelo menos 5 polegadas.",
+"entre os bebês e as crianças com choque hemorrágico depois de trauma, não é aconselhável administrar derivados do sangue, quando disponíveis, e sim cristaloides, para ressuscitação de volume contínuo."
+],
+"gab": 1,
+"tema": "urgencia",
+"sub": "Parada cardiorrespiratória",
+"cenario": "emg",
+"comp": "tec",
+"nivel": "r2",
+"base": "Diretrizes da American Heart Association de 2020 para RCP e ACE; Diretrizes AHA 2025 para RCP e ACE (Part 9, Adult ALS)",
+"coment": "Nas diretrizes AHA 2020, o acesso intravenoso é a via preferida para fármacos na parada, e o intraósseo é aceitável se o IV não estiver disponível ou falhar. As Diretrizes AHA 2025 mantêm a ordem: tentar primeiro o IV e usar o IO se as tentativas iniciais falharem ou não forem viáveis (classe 2a). A dupla desfibrilação sequencial nunca foi recomendada como rotina. Na criança com via aérea avançada, ventila-se 1 vez a cada 2 a 3 segundos. As compressões são no tórax, com pelo menos 5 cm (2 polegadas).",
+"porAlt": [
+"A AHA não recomenda o uso rotineiro da dupla desfibrilação sequencial.",
+"Correta: o acesso IV é a via preferida e o IO é aceitável quando o IV não está disponível.",
+"Na RCP pediátrica com via aérea avançada a AHA 2020 indica 1 ventilação a cada 2 a 3 segundos.",
+"As compressões são torácicas, com pelo menos 5 cm (2 polegadas), e nunca no abdome.",
+"A AHA 2020 considera razoável dar hemoderivados, quando disponíveis, em vez de cristaloide no choque hemorrágico pediátrico."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 99,
+"parte": "especificas"
+}
+},
+{
+"q": "Assinale a alternativa incorreta acerca das novas atualizações da American Heart Association (AHA) 2020:",
+"alts": [
+"na RCP, em ritmo não chocável, deve ser administrada imediatamente epinefrina de 2mg a cada 3 a 5 min.",
+"os socorristas devem buscar uma ETCO2 pelo menos ≥ 10 mmHg, preferencialmente ≥ 20 mmHg, que foram comprovadamente associados a maior probabilidade de retorno da circulação espontânea.",
+"o acesso intraósseo pode ser considerado se as tentativas de acesso venoso não forem bem-sucedidas ou forem inviáveis.",
+"recomenda-se administrar epinefrina o mais precocemente possível na PCR com ritmos não chocáveis.",
+"a AHA acrescentou um sexto elo na cadeia de sobrevivência do atendimento à possível parada cardiorrespiratória (PCR), tanto em ambiente pré-hospitalar quanto intra-hospitalar."
+],
+"gab": 0,
+"tema": "urgencia",
+"sub": "Parada cardiorrespiratória",
+"cenario": "emg",
+"comp": "tec",
+"nivel": "r2",
+"base": "Diretrizes da American Heart Association de 2020 para RCP e ACE; Diretrizes AHA 2025 para RCP e ACE (Part 9, Adult ALS)",
+"coment": "A dose de epinefrina (adrenalina) na parada do adulto é 1 mg IV ou IO a cada 3 a 5 minutos, em qualquer ritmo, e não 2 mg. No ritmo não chocável, ela deve ser dada o quanto antes. Essas regras valem na AHA 2020 e foram mantidas na AHA 2025. A ETCO2 de pelo menos 10 mmHg, idealmente 20 mmHg ou mais, e o IO quando o IV falha também constam da AHA 2020. O sexto elo, a recuperação, foi acréscimo de 2020; em 2025 a AHA passou a uma cadeia de sobrevivência única para todas as idades e locais.",
+"porAlt": [
+"Correta: é a afirmativa incorreta, porque a dose de epinefrina na parada do adulto é 1 mg a cada 3 a 5 minutos, não 2 mg.",
+"A AHA 2020 associou ETCO2 de 10 mmHg ou mais, idealmente 20 ou mais, a maior chance de retorno da circulação.",
+"O acesso intraósseo é aceito quando as tentativas de acesso venoso falham ou são inviáveis.",
+"No ritmo não chocável a epinefrina deve ser administrada o mais cedo possível, desde a AHA 2020.",
+"Em 2020 a AHA acrescentou o elo de recuperação às cadeias intra e extra-hospitalar."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "SEA/SC 2022, Enfermeiro",
+"n": 100,
+"parte": "especificas"
+}
+},
+{
+"q": "O documento básico e essencial à coleta de dados da mortalidade no Brasil para alimentação do Sistema de Informações Sobre Mortalidade (SIM) é:",
+"alts": [
+"prontuário Eletrônico do Paciente.",
+"declaração de óbito.",
+"notificação de Agravos.",
+"notificação de Evento Adverso.",
+"certidão de óbito."
+],
+"gab": 1,
+"tema": "coletiva",
+"sub": "Sistemas de informação em saúde",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Portaria SVS/MS 116/2009 (coleta de dados do SIM e do SINASC)",
+"coment": "O Sistema de Informações sobre Mortalidade (SIM) é alimentado pela Declaração de Óbito (DO), documento padrão de uso obrigatório em todo o território nacional, emitido pelo médico, como regulamenta a Portaria SVS/MS 116/2009. A DO tem numeração única e é a base para estatísticas de mortalidade por causa, idade, sexo e local. A certidão de óbito é emitida pelo cartório a partir da DO e tem função civil. O SINAN recebe as notificações de agravos e o Notivisa, os eventos adversos.",
+"porAlt": [
+"O prontuário eletrônico registra a assistência e não é o documento que alimenta o SIM.",
+"Correta: a Declaração de Óbito é o documento padrão que alimenta o SIM.",
+"A notificação de agravos alimenta o SINAN, não o sistema de mortalidade.",
+"A notificação de evento adverso vai para o Notivisa, ligado à segurança do paciente.",
+"A certidão de óbito é lavrada pelo cartório a partir da DO e tem função civil, não estatística."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 26,
+"parte": "politicas"
+}
+},
+{
+"q": "Gerir laboratórios públicos de saúde e hemocentros é uma competência:",
+"alts": [
+"da direção estadual do Sistema Único de Saúde (SUS).",
+"da direção nacional do Sistema Único da Saúde (SUS).",
+"da direção microrregional do Sistema Único da Saúde (SUS).",
+"da direção macrorregional do Sistema Único da Saúde (SUS).",
+"da direção municipal do Sistema de Saúde (SUS)."
+],
+"gab": 4,
+"tema": "sus",
+"sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Lei 8.080/1990, art. 18, VIII, e art. 17",
+"coment": "A Lei 8.080/1990 dá à direção municipal do SUS a competência de gerir laboratórios públicos de saúde e hemocentros (art. 18, VIII), coerente com a diretriz de descentralização, em que o município executa. À direção estadual cabe coordenar a rede estadual de laboratórios de saúde pública e hemocentros e gerir as unidades que permaneçam em sua organização (art. 17); à nacional, definir e coordenar os sistemas de rede de laboratórios (art. 16). A lei não prevê direção micro ou macrorregional. O enunciado da banca escreve 'Sistema de Saúde (SUS)'.",
+"porAlt": [
+"A direção estadual coordena a rede de laboratórios e hemocentros; gerir é atribuição literal do município.",
+"A direção nacional define e coordena os sistemas de redes de laboratórios, sem geri-los.",
+"A Lei 8.080/1990 não cria direção microrregional do SUS; a direção é única em cada esfera de governo.",
+"Não há direção macrorregional na lei; regiões de saúde são espaços de organização, não esferas de direção.",
+"Correta: gerir laboratórios públicos de saúde e hemocentros é competência municipal (art. 18, VIII)."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 27,
+"parte": "politicas"
+}
+},
+{
+"q": "A incorporação, a exclusão ou a alteração pelo SUS de novos medicamentos, produtos e procedimentos, bem como a constituição ou a alteração de protocolo clínico ou de diretriz terapêutica, são atribuições:",
+"alts": [
+"da Federação das Santas Casas.",
+"dos Estados.",
+"do Ministério da Saúde.",
+"dos Conselhos Municipais de Saúde.",
+"dos Conselhos de Secretarias Municipais de Saúde."
+],
+"gab": 2,
+"tema": "sus",
+"sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Lei 8.080/1990, art. 19-Q (incluído pela Lei 12.401/2011)",
+"coment": "O art. 19-Q da Lei 8.080/1990, incluído pela Lei 12.401/2011, atribui ao Ministério da Saúde a incorporação, exclusão ou alteração de medicamentos, produtos e procedimentos no SUS e a constituição ou alteração de protocolos clínicos e diretrizes terapêuticas. O ministério é assessorado pela Comissão Nacional de Incorporação de Tecnologias no SUS (Conitec), cujo relatório considera evidência de eficácia, segurança e custo-efetividade. Estados, conselhos e entidades não decidem incorporação nacional.",
+"porAlt": [
+"A Federação das Santas Casas é entidade filantrópica privada, sem competência de incorporar tecnologias.",
+"Os estados não incorporam tecnologias ao SUS; a atribuição é federal, pelo art. 19-Q.",
+"Correta: o art. 19-Q atribui ao Ministério da Saúde, assessorado pela Conitec, a incorporação de tecnologias.",
+"Os Conselhos Municipais de Saúde fazem controle social local e não decidem incorporação nacional.",
+"Os Cosems representam os municípios no estado e não têm competência de incorporar tecnologias."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 28,
+"parte": "politicas"
+}
+},
+{
+"q": "Uma das exigências aos Municípios, Estados e Distrito Federal para receberem os recursos do Fundo Nacional de Saúde (FNS) é que estes contem com:",
+"alts": [
+"Secretarias de Saúde.",
+"Conselho de Saúde, com composição paritária.",
+"Aprovação do Poder Legislativo.",
+"Lei Orgânica.",
+"Diretório de Saúde."
+],
+"gab": 1,
+"tema": "sus",
+"sub": "Lei 8.142/1990 e controle social",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Lei 8.142/1990, art. 4º",
+"coment": "Para receber os recursos do Fundo Nacional de Saúde, o art. 4º da Lei 8.142/1990 exige que municípios, estados e Distrito Federal tenham: Fundo de Saúde; Conselho de Saúde com composição paritária; plano de saúde; relatórios de gestão; contrapartida de recursos no orçamento; e comissão para elaborar o plano de carreira, cargos e salários. Sem esses requisitos, os recursos passam a ser administrados pelo estado ou pela União. A paridade é a dos usuários em relação ao conjunto dos demais segmentos (art. 1º, § 4º).",
+"porAlt": [
+"Ter secretaria de saúde não está entre os requisitos do art. 4º para receber os repasses do FNS.",
+"Correta: o Conselho de Saúde paritário é um dos requisitos do art. 4º da Lei 8.142/1990.",
+"Aprovação do Poder Legislativo não é exigência do art. 4º para o repasse fundo a fundo.",
+"Lei Orgânica não está entre as condições listadas no art. 4º da Lei 8.142/1990.",
+"Diretório de Saúde não existe na lei; o requisito é o Fundo de Saúde, entre outros."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 29,
+"parte": "politicas"
+}
+},
+{
+"q": "É entidade representativa dos entes estaduais e/ou municipais para tratar de matérias referentes à saúde e declarados de utilidade pública e de relevante função social, na forma do regulamento:",
+"alts": [
+"Conselho Nacional de Secretarias Municipais de Saúde.",
+"Comissões Inter gestores Bipartite.",
+"Congresso Nacional.",
+"Comissões Inter gestores Tripartite.",
+"Conselhos de Secretarias Municipais de Saúde."
+],
+"gab": 0,
+"tema": "sus",
+"sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Lei 8.080/1990, art. 14-B (incluído pela Lei 12.466/2011)",
+"coment": "O art. 14-B da Lei 8.080/1990, incluído pela Lei 12.466/2011, reconhece o Conselho Nacional de Secretários de Saúde (Conass) e o Conselho Nacional de Secretarias Municipais de Saúde (Conasems) como entidades representativas dos entes estaduais e municipais para tratar de matérias de saúde, declarados de utilidade pública e de relevante função social, na forma do regulamento. O texto do enunciado é o desse caput. Os Cosems representam os municípios no âmbito estadual, vinculados ao Conasems. CIB e CIT são foros de pactuação entre gestores (art. 14-A), não entidades representativas.",
+"porAlt": [
+"Correta: o Conasems é reconhecido pelo art. 14-B como entidade representativa, de utilidade pública.",
+"A CIB é foro de negociação e pactuação entre estado e municípios (art. 14-A), não entidade representativa.",
+"O Congresso Nacional é o Poder Legislativo federal, sem relação com a representação dos gestores do SUS.",
+"A CIT é foro de pactuação tripartite (art. 14-A), e não a entidade descrita no caput do art. 14-B.",
+"Os Cosems representam os municípios no âmbito estadual; o caput do art. 14-B trata do Conass e do Conasems."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 30,
+"parte": "politicas"
+}
+},
+{
+"q": "Segundo a Lei nº 1241/2011 a assistência terapêutica integral consiste em dispensação de medicamentos e produtos de interesse para a saúde, cuja prescrição esteja em conformidade com as diretrizes terapêuticas definidas em protocolo clínico para a doença ou o agravo à saúde a ser tratado ou, na falta do protocolo, em conformidade com o disposto no art. 19-P da mesma lei. É produto de interesse para a saúde no que tange a lei em pauta, EXCETO:",
+"alts": [
+"órteses.",
+"próteses.",
+"bolsas coletoras.",
+"equipamentos médicos.",
+"medicação de alto custo."
+],
+"gab": 4,
+"tema": "sus",
+"sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Lei 8.080/1990, arts. 19-M e 19-N, I (incluídos pela Lei 12.401/2011)",
+"coment": "O enunciado cita 'Lei nº 1241/2011', erro da banca: a norma é a Lei 12.401/2011, que incluiu na Lei 8.080/1990 os arts. 19-M a 19-U sobre assistência terapêutica e incorporação de tecnologias. O art. 19-N, I, define produtos de interesse para a saúde como órteses, próteses, bolsas coletoras e equipamentos médicos. Medicamento, de alto custo ou não, não é 'produto de interesse para a saúde' nessa definição: a dispensação de medicamentos aparece à parte, no art. 19-M, I, ao lado desses produtos.",
+"porAlt": [
+"Órteses estão expressamente listadas como produto de interesse para a saúde no art. 19-N, I.",
+"Próteses constam do rol de produtos de interesse para a saúde do art. 19-N, I.",
+"Bolsas coletoras são produto de interesse para a saúde pelo art. 19-N, I.",
+"Equipamentos médicos integram a definição de produtos de interesse para a saúde do art. 19-N, I.",
+"Correta: é a exceção, porque medicamento não está entre os produtos de interesse para a saúde do art. 19-N, I."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 31,
+"parte": "politicas"
+}
+},
+{
+"q": "A Região de Saúde é espaço geográfico contínuo constituído por agrupamentos de Municípios limítrofes, delimitado a partir de identidades culturais, econômicas e sociais e de redes de comunicação e infraestrutura de transportes compartilhados, com a finalidade de integrar a organização, o planejamento e a execução de ações e serviços de saúde. A instituição de Regiões de Saúde situadas em áreas de fronteira com outros países deverá respeitar as normas que regem as relações:",
+"alts": [
+"nacionais.",
+"municipais.",
+"internacionais.",
+"estaduais.",
+"entre fronteiras."
+],
+"gab": 2,
+"tema": "sus",
+"sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Decreto 7.508/2011, art. 2º, I, e art. 4º, § 2º",
+"coment": "O conceito de Região de Saúde transcrito no enunciado é o do art. 2º, I, do Decreto 7.508/2011. As regiões são instituídas pelo estado em articulação com os municípios (art. 4º); podem ser interestaduais, por ato conjunto dos estados (§ 1º); e, quando situadas em área de fronteira com outros países, devem respeitar as normas que regem as relações internacionais (§ 2º). A palavra exata da norma é 'internacionais', o que elimina 'entre fronteiras' e as demais.",
+"porAlt": [
+"Normas nacionais não bastam: a fronteira com outro país envolve relações regidas pelo direito internacional.",
+"Normas municipais não regem relações com outros países; o decreto exige respeito às normas internacionais.",
+"Correta: o art. 4º, § 2º, manda respeitar as normas que regem as relações internacionais.",
+"Normas estaduais tratam das regiões interestaduais (§ 1º), não das áreas de fronteira com outros países.",
+"'Entre fronteiras' não é a expressão da norma; o decreto fala em relações internacionais."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 32,
+"parte": "politicas"
+}
+},
+{
+"q": "Para assegurar resolutividade na rede de atenção à saúde, alguns fundamentos precisam ser considerados. O fundamento onde os custos médios de longo prazo diminuem, à medida que aumenta o volume das atividades e os custos fixos se distribuem por um maior número dessas atividades, sendo o longo prazo, um período de tempo suficiente para que todos os insumos sejam variáveis, é denominado:",
+"alts": [
+"qualidade.",
+"economia de escala.",
+"suficiência.",
+"disponibilidade de recursos.",
+"acesso."
+],
+"gab": 1,
+"tema": "sus",
+"sub": "Redes de Atenção à Saúde",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Portaria GM/MS 4.279/2010, consolidada na Portaria de Consolidação 3/2017, Anexo I (Redes de Atenção à Saúde)",
+"coment": "Entre os fundamentos das Redes de Atenção à Saúde (Portaria 4.279/2010, hoje no Anexo I da Portaria de Consolidação 3/2017) estão economia de escala, disponibilidade de recursos, qualidade e acesso. Economia de escala ocorre quando os custos médios de longo prazo caem à medida que o volume de atividades aumenta e os custos fixos se distribuem por mais atividades, longo prazo sendo o tempo em que todos os insumos se tornam variáveis. Por isso serviços de alta complexidade se concentram em poucos pontos, e os de atenção primária se dispersam.",
+"porAlt": [
+"Qualidade é o fundamento ligado a segurança, efetividade e adequação, não à redução de custo médio por volume.",
+"Correta: custos médios que caem com o aumento do volume definem a economia de escala.",
+"Suficiência é ter recursos em quantidade e qualidade bastantes para a necessidade, não a queda de custos com o volume.",
+"Disponibilidade de recursos trata da escassez de insumos, que também orienta a concentração de serviços.",
+"Acesso diz respeito à ausência de barreiras geográficas, financeiras e organizacionais ao uso dos serviços."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 33,
+"parte": "politicas"
+}
+},
+{
+"q": "Leia: “As equipes deverão ser compostas minimamente por médicos preferencialmente da especialidade medicina de família e comunidade, enfermeiro preferencialmente especialista em saúde da família, auxiliares de enfermagem e ou técnicos de enfermagem. Poderão agregar outros profissionais como dentistas, auxiliares de saúde bucal e ou técnicos de saúde bucal, agentes comunitários de saúde e agentes de combate à endemias.” O texto acima se refere a(o):",
+"alts": [
+"Equipes de Saúde da Família.",
+"Equipes de Saúde Bucal.",
+"Núcleo Ampliado de Saúde da Família e Atenção Básica.",
+"Estratégia de Agentes Comunitários de Saúde.",
+"Equipes da Atenção Básica."
+],
+"gab": 4,
+"tema": "sus",
+"sub": "Política Nacional de Atenção Básica",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Portaria GM/MS 2.436/2017 (PNAB); Portaria GM/MS 635/2023 (eMulti)",
+"coment": "O texto transcrito é a definição da Equipe da Atenção Básica (eAB) na PNAB de 2017 (Portaria GM/MS 2.436/2017): médico preferencialmente de família e comunidade, enfermeiro preferencialmente especialista em saúde da família e auxiliar ou técnico de enfermagem, podendo agregar saúde bucal, ACS e ACE. A Equipe de Saúde da Família tem composição mínima obrigatória que inclui ACS. A Portaria 2.539/2019 criou a equipe de Atenção Primária (eAP), e o NASF-AB foi substituído pelas eMulti (Portaria GM/MS 635/2023).",
+"porAlt": [
+"A Equipe de Saúde da Família tem ACS na composição mínima, e não como profissional opcional.",
+"A Equipe de Saúde Bucal é formada por cirurgião-dentista e auxiliar ou técnico em saúde bucal.",
+"O NASF-AB era equipe multiprofissional de apoio às equipes, hoje substituído pelas eMulti.",
+"A Estratégia de Agentes Comunitários de Saúde se organiza em torno do ACS, supervisionado por enfermeiro.",
+"Correta: a composição descrita é a da Equipe da Atenção Básica (eAB) da PNAB de 2017."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 34,
+"parte": "politicas"
+}
+},
+{
+"q": "Conceituada como uma tecnologia que normatiza o uso de serviços em determinados pontos de atenção à saúde, estabelecendo critérios de ordenamento por necessidades e riscos, promovendo a transparência, ou seja, constituem uma tecnologia de gestão da clínica orientada a racionalizar o acesso a serviços em que exista um desequilíbrio entre a oferta e a demanda dentro da Gestão da Clínica:",
+"alts": [
+"auditoria clínica.",
+"lista de espera",
+"gestão de caso.",
+"gestão da condição da saúde.",
+"linhas de cuidado."
+],
+"gab": 1,
+"tema": "sus",
+"sub": "Redes de Atenção à Saúde",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Mendes EV. As Redes de Atenção à Saúde. Brasília: Organização Pan-Americana da Saúde, 2011 (tecnologias de gestão da clínica)",
+"coment": "Eugênio Vilaça Mendes (As Redes de Atenção à Saúde, OPAS, 2011) descreve as tecnologias de gestão da clínica: diretrizes clínicas, gestão da condição de saúde, gestão de caso, auditoria clínica e listas de espera. A lista de espera normatiza o uso de serviços em pontos de atenção onde a oferta é menor que a demanda, ordena o acesso por necessidade e risco e dá transparência à fila. Auditoria clínica avalia a prática; gestão de caso acompanha pessoas de alta complexidade; gestão da condição cuida de uma condição na população.",
+"porAlt": [
+"A auditoria clínica analisa a prática contra padrões para melhorar a qualidade, sem ordenar filas.",
+"Correta: a lista de espera racionaliza o acesso por necessidade e risco onde a demanda supera a oferta.",
+"A gestão de caso acompanha individualmente pessoas com condições de alta complexidade e risco.",
+"A gestão da condição de saúde organiza o cuidado de uma condição crônica estratificada por risco na população.",
+"Linhas de cuidado descrevem o percurso assistencial, sem ser a tecnologia de ordenamento de filas."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 35,
+"parte": "politicas"
+}
+},
+{
+"q": "Posicionar-se contra, e denunciar aos órgãos competentes, ações e procedimentos de membros da equipe de saúde, quando houver risco de danos decorrentes de imperícia, negligência e imprudência ao paciente, visando a proteção da pessoa, família e coletividade é:",
+"alts": [
+"direito do profissional de enfermagem.",
+"dever do profissional de enfermagem.",
+"facultado ao profissional de enfermagem.",
+"princípio fundamental do profissional de enfermagem.",
+"vedado ao profissional de enfermagem."
+],
+"gab": 1,
+"tema": "etica",
+"sub": "Código de Ética dos Profissionais de Enfermagem",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução COFEN 564/2017 (Código de Ética dos Profissionais de Enfermagem), art. 47",
+"coment": "O Código de Ética dos Profissionais de Enfermagem, anexo da Resolução COFEN 564/2017 e vigente em 2026, coloca entre os deveres (art. 47) posicionar-se contra e denunciar aos órgãos competentes ações e procedimentos de membros da equipe de saúde quando houver risco de danos ao paciente por imperícia, negligência ou imprudência. O Código separa princípios fundamentais, direitos, deveres e proibições; o que é dever não é faculdade e o descumprimento é infração ética. Proibição seria omitir-se ou acobertar o fato.",
+"porAlt": [
+"Não é direito, porque o Código o impõe como obrigação e seu descumprimento configura infração.",
+"Correta: o art. 47 da Res. COFEN 564/2017 o lista entre os deveres do profissional.",
+"Não é facultativo: o profissional não pode escolher omitir-se diante do risco ao paciente.",
+"Os princípios fundamentais estão no preâmbulo do Código; essa conduta está no capítulo dos deveres.",
+"É o contrário de vedado: proibido seria acobertar ou se omitir diante da conduta danosa."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 36,
+"parte": "especificas"
+}
+},
+{
+"q": "De acordo com o Código de Processo Ético do Sistema Cofen/Conselhos Regionais de Enfermagem, a citação para apresentação de defesa prévia será remetida com cópia integral do processo físico ou digital e conterá obrigatoriamente as seguintes informações, EXCETO:",
+"alts": [
+"identificação do denunciante e do Conselho, nos processos éticos iniciados de ofício.",
+"identificação do denunciante e do denunciado, nos processos éticos iniciados por denúncia.",
+"endereço residencial do denunciado, quando conhecido.",
+"endereço do local de trabalho do denunciado, quando não conhecido o residencial.",
+"finalidade da citação, bem como a menção do prazo e local para apresentação da defesa prévia, sob pena de revelia."
+],
+"gab": 0,
+"tema": "etica",
+"sub": "Responsabilidade civil, penal e ética",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r3",
+"base": "Resolução COFEN 706/2022 (Código de Processo Ético), art. 30, alterada pela Resolução COFEN 758/2024",
+"coment": "O Código de Processo Ético do Sistema Cofen/Conselhos Regionais, anexo da Resolução COFEN 706/2022 (alterado em outros pontos pela 758/2024), manda que a citação para defesa prévia siga com cópia integral do processo e contenha (art. 30): identificação do denunciante e do denunciado, se houve denúncia; identificação do denunciado e do Conselho, se o processo foi iniciado de ofício; endereço residencial ou, se desconhecido, o do trabalho; finalidade, prazo e local da defesa, sob pena de revelia; e assinatura do coordenador. No processo de ofício não há denunciante: quem é identificado é o denunciado.",
+"porAlt": [
+"Correta: é a exceção, porque no processo iniciado de ofício identificam-se o denunciado e o Conselho, não um denunciante.",
+"Nos processos iniciados por denúncia, a citação identifica denunciante e denunciado (art. 30, I).",
+"O endereço residencial do denunciado, quando conhecido, consta obrigatoriamente da citação.",
+"Sem endereço residencial conhecido, a citação traz o endereço do local de trabalho do denunciado.",
+"A citação informa a finalidade, o prazo e o local da defesa prévia, sob pena de revelia."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 37,
+"parte": "especificas"
+}
+},
+{
+"q": "No Brasil, de acordo com a legislação vigente, uma Unidade de Terapia Intensiva (UTI) deverá, EXCETO:",
+"alts": [
+"executar e registrar assistência médica e de enfermagem intensiva.",
+"prestar apoio diagnóstico de imagem e laboratoriais, além de hemoterápico, cirúrgico e terapêutico 24 horas.",
+"manter condições para assistência respiratória e monitoramento 24 horas.",
+"prestar assistência nutricional e distribuir alimentação aos pacientes e visitantes.",
+"manter pacientes com morte cerebral em condições que permitam a retirada de órgãos para transplantes, quando consentida."
+],
+"gab": 3,
+"tema": "gestao",
+"sub": "Qualidade, acreditação e indicadores",
+"cenario": "uti",
+"comp": "norma",
+"nivel": "r2",
+"base": "RDC ANVISA 50/2002 (atribuições da internação intensiva); RDC ANVISA 7/2010 (requisitos mínimos de UTI)",
+"coment": "A RDC ANVISA 50/2002, ao listar as atribuições da internação intensiva, inclui executar e registrar a assistência médica e de enfermagem intensiva, prestar apoio diagnóstico laboratorial, de imagem, hemoterápico, cirúrgico e terapêutico 24 horas, manter monitorização e assistência respiratória 24 horas, prestar assistência nutricional e distribuir alimentação aos pacientes e manter o potencial doador em morte encefálica para retirada de órgãos, quando consentida. A pegadinha está em 'e visitantes': alimentar visitantes não é atribuição da UTI. A RDC 7/2010 também garante assistência nutricional ao paciente.",
+"porAlt": [
+"Executar e registrar a assistência médica e de enfermagem intensiva é atribuição da UTI.",
+"Apoio diagnóstico, hemoterápico, cirúrgico e terapêutico 24 horas consta das atribuições da internação intensiva.",
+"Manter assistência respiratória e monitorização 24 horas é atribuição básica da UTI.",
+"Correta: é a exceção, porque a UTI alimenta os pacientes, mas distribuir alimentação a visitantes não é sua atribuição.",
+"Manter o potencial doador em morte encefálica para retirada de órgãos, quando consentida, é atribuição da UTI."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 38,
+"parte": "especificas"
+}
+},
+{
+"q": "A técnica do banho no leito exige inúmeras habilidades dos profissionais de enfermagem. Neste contexto, marque a alternativa INCORRETA:",
+"alts": [
+"a temperatura, no ambiente da Unidade de Terapia Intensiva, deve ser mantida entre 18 e 20°C para evitar a redução da temperatura corporal e consequentes riscos para o equilíbrio orgânico do paciente.",
+"o procedimento deve obedecer ao sentido cefalocaudal, com o objetivo de prevenir a contaminação do paciente e reduzir o risco de infecção relacionado ao banho no leito.",
+"a realização da higiene corporal é indicada uma vez ao dia, principalmente nos pacientes críticos, em razão da necessidade de mobilização intensa para higiene adequada do dorso e troca de roupa de cama.",
+"a higiene da genitália é um cuidado essencial para a prevenção de infecções do trato urinário, principalmente quando há presença de cateter vesical de demora.",
+"as condutas preventivas de enfermagem, da retirada não planejada da cânula de intubação no momento da higiene, incluem utilizar fixadores próprios para aumento da eficácia."
+],
+"gab": 0,
+"tema": "fundamentos",
+"sub": "Higiene, conforto e mobilização",
+"cenario": "uti",
+"comp": "tec",
+"nivel": "r1",
+"base": "Potter PA, Perry AG. Fundamentos de Enfermagem. 9ª ed. Rio de Janeiro: Elsevier, 2018 (higiene corporal)",
+"coment": "Durante o banho no leito o paciente fica exposto e molhado e perde calor por evaporação e convecção; no doente crítico, a hipotermia aumenta consumo de oxigênio e instabilidade. Por isso se mantém o ambiente aquecido, portas e janelas fechadas, sem correntes de ar, e se expõe só a parte que está sendo lavada (Potter e Perry, 2018). Manter a UTI entre 18 e 20 °C no banho faz o contrário do que a alternativa afirma, pois esfria o paciente. Sentido cefalocaudal, higiene genital no cateter vesical e fixação segura do tubo são condutas corretas.",
+"porAlt": [
+"Correta: é a afirmativa incorreta, porque ambiente a 18 a 20 °C esfria o paciente exposto; o banho exige ambiente aquecido.",
+"Lavar no sentido cefalocaudal, do mais limpo para o mais sujo, reduz a contaminação.",
+"A higiene corporal diária, com mobilização para o dorso e troca de roupa de cama, é rotina no paciente crítico.",
+"A higiene da genitália previne infecção urinária, sobretudo com cateter vesical de demora.",
+"Fixadores próprios para o tubo reduzem a extubação acidental durante a mobilização do banho."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 39,
+"parte": "especificas"
+}
+},
+{
+"q": "O objetivo do registro do balanço hídrico é:",
+"alts": [
+"medir a ureia e a creatinina plasmáticas.",
+"estimar as perdas insensíveis em pacientes críticos.",
+"restabelecer o volume circulante efetivo e otimizar a disponibilidade sistêmica e tecidual de oxigênio.",
+"estabelecer a medida apropriada do peso corporal no paciente crítico.",
+"manter uma anotação exata das entradas e saídas dos líquidos e identificar qualquer déficit."
+],
+"gab": 4,
+"tema": "fundamentos",
+"sub": "Eliminações e balanço hídrico",
+"cenario": "uti",
+"comp": "tec",
+"nivel": "r1",
+"base": "Potter PA, Perry AG. Fundamentos de Enfermagem. 9ª ed. Rio de Janeiro: Elsevier, 2018 (equilíbrio hídrico)",
+"coment": "O balanço hídrico é o registro exato de tudo que entra (soros, diluentes, dieta, hemocomponentes, ingestão oral) e de tudo que sai (diurese, drenos, sondas, vômitos, fezes, ultrafiltração), com parciais por turno e fechamento em 24 horas. O objetivo é identificar déficit ou excesso de líquidos a tempo de corrigir. As perdas insensíveis entram no cálculo como estimativa, mas estimá-las não é o objetivo do registro. Ureia e creatinina são exames laboratoriais, e restabelecer volume circulante é meta terapêutica.",
+"porAlt": [
+"Ureia e creatinina se medem no laboratório; o balanço hídrico não as mede.",
+"As perdas insensíveis são estimadas e somadas ao balanço, mas não são a finalidade do registro.",
+"Restabelecer volume e oferta de oxigênio é meta da ressuscitação, não objetivo do registro do balanço.",
+"O peso corporal se obtém por pesagem; o balanço só complementa a avaliação do estado hídrico.",
+"Correta: o balanço hídrico registra com exatidão entradas e saídas para identificar déficit ou excesso."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 40,
+"parte": "especificas"
+}
+},
+{
+"q": "A pressão intracraniana (PIC) é constituída pela relação de pressão/volume entre o crânio e o conteúdo da calota craniana. São cuidados essenciais para a manutenção do cateter de PIC, EXCETO:",
+"alts": [
+"checagem de todo o sistema nos diferentes turnos.",
+"registro com calibrações a cada 24 horas.",
+"realização de inspeção do sítio de inserção do cateter.",
+"cuidados com a mobilização no leito.",
+"controle de temperatura corporal."
+],
+"gab": 1,
+"tema": "uti",
+"sub": "Paciente neurocrítico",
+"cenario": "uti",
+"comp": "tec",
+"nivel": "r2",
+"base": "Brain Trauma Foundation. Guidelines for the Management of Severe Traumatic Brain Injury, 4ª ed., 2016 (monitorização da PIC)",
+"coment": "Os cuidados essenciais com o cateter de pressão intracraniana são checar todo o sistema a cada turno, inspecionar o sítio de inserção em busca de infecção ou fístula liquórica, mobilizar com cuidado para não tracionar o cateter e controlar a temperatura, já que a febre eleva a PIC. A calibração não segue um intervalo fixo de 24 horas: cateteres de fibra óptica ou microssensor são zerados uma única vez, antes da inserção, e os sistemas acoplados a coluna líquida são nivelados e zerados conforme o protocolo e a cada mudança de posição. Por isso o 'a cada 24 horas' é a exceção.",
+"porAlt": [
+"Checar o sistema em todos os turnos detecta desconexões, dobras e leituras falsas, sendo cuidado essencial.",
+"Correta: é a exceção, porque a calibração não tem intervalo fixo de 24 horas; depende do tipo de cateter e do protocolo.",
+"Inspecionar o sítio de inserção permite detectar infecção e fístula liquórica precocemente.",
+"Mobilizar com cuidado evita tracionar ou deslocar o cateter e alterar a leitura.",
+"Controlar a temperatura é essencial, pois a febre aumenta o metabolismo cerebral e a PIC."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 41,
+"parte": "especificas"
+}
+},
+{
+"q": "Sobre a evolução de enfermagem podemos afirmar que:",
+"alts": [
+"é composta por dados brutos.",
+"é elaborada por toda equipe de enfermagem.",
+"é referente a um período de 48 horas.",
+"registra uma observação.",
+"é referente a um período de 24 horas."
+],
+"gab": 4,
+"tema": "etica",
+"sub": "Registro e documentação de enfermagem",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução COFEN 736/2024, art. 8º; Resolução COFEN 514/2016 (Guia de Recomendações para registros de enfermagem)",
+"coment": "A evolução de enfermagem é privativa do enfermeiro e registra a etapa final do Processo de Enfermagem; a anotação é feita por toda a equipe (Res. COFEN 736/2024, art. 8º). O Guia de Recomendações para registros da Res. COFEN 514/2016 resume a diferença: a anotação traz dados brutos, é feita por toda a equipe e se refere a um momento; a evolução traz dados analisados, é do enfermeiro e se refere às últimas 24 horas, comparando a resposta do paciente com o período anterior e embasando o planejamento.",
+"porAlt": [
+"Dados brutos caracterizam a anotação de enfermagem; a evolução traz dados analisados.",
+"A evolução é privativa do enfermeiro; a anotação é que é feita por toda a equipe.",
+"A evolução se refere às últimas 24 horas, não a 48 horas.",
+"Registrar uma observação pontual é próprio da anotação, referente a um momento.",
+"Correta: a evolução de enfermagem se refere ao período de 24 horas e é elaborada pelo enfermeiro."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 44,
+"parte": "especificas"
+}
+},
+{
+"q": "A estimulação da atividade das enzimas microssomais hepáticas por medicamentos e outras substâncias representa importante problema clínico. Centenas de drogas, inclusive analgésicos, anticonvulsivantes, hipoglicemiantes orais, sedativos e tranquilizantes, estimulam a sua própria biotransformação e a de outras drogas. A indução enzimática eleva os níveis de enzima e resulta em metabolismo acelerado dos fármacos. A indução enzimática:",
+"alts": [
+"diminui a velocidade de produção dos metabólitos.",
+"aumenta a meia-vida sérica da droga.",
+"diminui a depuração hepática da droga.",
+"aumenta a velocidade de biotransformação hepática da droga.",
+"aumenta as concentrações séricas da droga livre e total"
+],
+"gab": 3,
+"tema": "farmaco",
+"sub": "Interações e reações adversas",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r2",
+"base": "Brunton LL, Knollmann BC (eds.). Goodman & Gilman's The Pharmacological Basis of Therapeutics. 14ª ed. New York: McGraw Hill, 2023 (metabolismo de fármacos)",
+"coment": "Indutores enzimáticos, como rifampicina, carbamazepina, fenitoína e fenobarbital, aumentam a síntese das enzimas microssomais hepáticas, sobretudo do citocromo P450. Com mais enzima, a biotransformação fica mais rápida, a depuração hepática sobe, a meia-vida encurta e as concentrações séricas do fármaco ativo caem, podendo levar a falha terapêutica (por exemplo, anticoncepcional oral com rifampicina). A inibição enzimática produz o efeito inverso, com acúmulo e toxicidade.",
+"porAlt": [
+"A indução acelera, e não diminui, a produção de metabólitos.",
+"Com metabolismo acelerado a meia-vida sérica do fármaco diminui, não aumenta.",
+"A indução aumenta a depuração hepática; diminuí-la é efeito da inibição enzimática.",
+"Correta: a indução enzimática aumenta a velocidade de biotransformação hepática do fármaco.",
+"Com metabolismo mais rápido as concentrações séricas caem; aumentar é efeito da inibição enzimática."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 45,
+"parte": "especificas"
+}
+},
+{
+"q": "Estabelecer procedimentos para a condução de todas as tarefas, de tal maneira que se reduzam ao mínimo possível os riscos e, consequentemente, os acidentes de qualquer tipo ou contaminação biológica. Para atingir esse objetivo, é necessário o apoio e cooperação de todos os colaboradores, sem distinção de nível hierárquico, na observância e cumprimento das Normas e Recomendações de Segurança. A manipulação, acondicionamento temporário e descarte de resíduos tóxicos e contaminados dos setores devem ser realizados segundo recomendação técnica da instituição e/ou órgão responsável no município, cidade ou estado. Em relação ao sistema de gerenciamento dos resíduos é INCORRETO afirmar:",
+"alts": [
+"as políticas públicas relacionadas aos resíduos são controladas pelo poder público, através de legislação específica da ANVISA.",
+"a coleta dos resíduos comuns deve ser feita diariamente; a dos Resíduos de Serviços de Saúde, duas vezes por semana.",
+"o processo de separação, assim como o processo de armazenamento dos resíduos, é feito através de quatro grupos: infectantes, químicos, comuns recicláveis, e os perfuro cortantes.",
+"os sacos plásticos são identificados por cores e simbologia de riscos, e neles os resíduos são acondicionados de forma segura e transportados para o armazenamento para coleta externa e descarte final.",
+"é preciso haver uma equipe responsável pela identificação e separação dos resíduos produzidos em cada setor por classes, de forma que os resíduos são separados por grau de contaminação conforme os grupos de classificação em lixeiras identificadas por etiquetas e produtos específicos."
+],
+"gab": 2,
+"tema": "seguranca",
+"sub": "Biossegurança e NR-32",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r1",
+"base": "RDC ANVISA 222/2018 (gerenciamento de resíduos de serviços de saúde), Anexo I",
+"coment": "A RDC ANVISA 222/2018 classifica os resíduos de serviços de saúde em cinco grupos, não quatro: A (infectante), B (químico), C (radioativo), D (comum, equiparado ao domiciliar, incluindo o reciclável) e E (perfurocortante). A alternativa esqueceu o grupo C, e é essa a falsa pedida. O acondicionamento em saco identificado por cor e símbolo de risco, a separação na origem por grupo e a equipe responsável fazem parte do Plano de Gerenciamento (PGRSS). A frequência de coleta não é fixada em número pela RDC: o PGRSS e o serviço de limpeza urbana local a definem.",
+"porAlt": [
+"Errada como resposta: a gestão de RSS é regulada pelo poder público, com a RDC ANVISA 222/2018 como norma sanitária específica, ao lado da Resolução CONAMA 358/2005.",
+"Errada como resposta: a banca a tratou como rotina institucional verdadeira; a RDC não fixa frequência, que é definida no PGRSS e pela coleta municipal.",
+"Correta: a classificação tem cinco grupos (A, B, C, D e E); faltou o grupo C, dos rejeitos radioativos.",
+"Errada como resposta: os sacos e recipientes são identificados por cor e simbologia de risco e seguem ao abrigo para coleta externa e destinação final.",
+"Errada como resposta: a segregação na origem por grupo, em recipientes identificados e com equipe treinada, é exigência do PGRSS."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 46,
+"parte": "especificas"
+}
+},
+{
+"q": "Para a abertura de material estéril na S.O, o circulante de cirúrgica deve dar especial atenção às condições de esterilização dos pacotes com instrumentais, das caixas de instrumentais e outros suprimentos estéreis, observando especificamente a data de validade da esterilização e os indicadores de esterilização nos invólucros. Sobre a abertura de material estéril marque a alternativa INCORRETA.",
+"alts": [
+"Com as mãos na parte externa da embalagem, sempre levantar as abas do invólucro em sua direção para evitar contaminar o conteúdo do pacote.",
+"A mão e o braço não devem passar por cima de qualquer parte do interior do invólucro que foi exposto, evitando cruzar o campo.",
+"Ao desembrulhar o item, verifique os indicadores de esterilização para garantir que artigo passou pelo processo de esterilização.",
+"A presença de recipientes para o descarte do lixo é obrigatória para evitar a contaminação do ambiente dentro e fora do serviço de saúde hospitalar.",
+"Todos os itens devem ser abertos segurando o pacote longe do corpo e desembrulhando o item começando com a aba mais próxima ao corpo do profissional."
+],
+"gab": 4,
+"tema": "cirurgica",
+"sub": "Sistematização da assistência perioperatória",
+"cenario": "cc",
+"comp": "tec",
+"nivel": "r1",
+"base": "SOBECC, Diretrizes de práticas em enfermagem perioperatória e processamento de produtos para a saúde, 8ª ed. (2021)",
+"coment": "Na abertura de pacote estéril, o circulante segura o pacote afastado do corpo e abre primeiro a aba mais distante, depois as laterais e por último a aba mais próxima de si. Começar pela aba próxima obriga a passar a mão e o braço por cima do conteúdo já exposto, o que contamina o campo. Por isso a alternativa que manda começar pela aba mais próxima é a incorreta. As demais descrevem a técnica asséptica: tocar só a face externa, não cruzar o campo, conferir o indicador químico e a integridade e validade do invólucro.",
+"porAlt": [
+"Errada como resposta: o circulante manuseia só a face externa e traz as abas em sua direção ao desdobrá-las, sem tocar o conteúdo.",
+"Errada como resposta: não passar mão nem braço sobre o interior exposto é a regra que preserva a esterilidade do campo.",
+"Errada como resposta: conferir o indicador químico ao abrir é parte da checagem de que o item passou pelo processo de esterilização.",
+"Errada como resposta: a banca tratou como verdadeira a exigência de recipientes de descarte na sala, que integra o controle do ambiente.",
+"Correta: a abertura começa pela aba mais distante do corpo; começar pela mais próxima faz o braço cruzar sobre o conteúdo estéril."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 47,
+"parte": "especificas"
+}
+},
+{
+"q": "O profissional de enfermagem tem o dever de manter sigilo sobre fato de que tenha conhecimento em razão da atividade profissional, exceto nos casos previstos na legislação ou:",
+"alts": [
+"em situações de ameaça à vida e à dignidade, mediante autorização, na defesa própria.",
+"para os órgãos de responsabilização criminal, mediante autorização, de casos de violência contra crianças e adolescentes.",
+"por determinação judicial, ou quando for intimado como testemunha.",
+"por determinação judicial, ou quando o fato for de conhecimento público, ou em caso de falecimento da pessoa envolvida.",
+"por determinação judicial, ou com o consentimento escrito da pessoa envolvida ou de seu representante ou responsável legal."
+],
+"gab": 4,
+"tema": "etica",
+"sub": "Código de Ética dos Profissionais de Enfermagem",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução COFEN 564/2017 (Código de Ética), art. 52",
+"coment": "O caput do art. 52 do Código de Ética (Res. COFEN 564/2017) é literal: manter sigilo sobre fato conhecido em razão da atividade profissional, exceto nos casos previstos na legislação ou por determinação judicial, ou com o consentimento escrito da pessoa envolvida ou de seu representante ou responsável legal. Os parágrafos cobram o resto: o dever permanece se o fato é público e após a morte (§ 1º); o fato deve ser revelado em ameaça à vida e à dignidade, na defesa própria ou na equipe multiprofissional (§ 2º), sem exigir autorização; intimado como testemunha, comparece e declara o impedimento (§ 3º); violência contra criança e adolescente se comunica independentemente de autorização (§ 4º).",
+"porAlt": [
+"Errada: pelo § 2º, a revelação em ameaça à vida e à dignidade ou na defesa própria não depende de autorização.",
+"Errada: o § 4º torna obrigatória a comunicação da violência contra criança e adolescente independentemente de autorização.",
+"Errada: intimado como testemunha, o profissional comparece e declara seu impedimento de revelar o segredo (§ 3º).",
+"Errada: o § 1º diz o oposto, o sigilo permanece quando o fato é de conhecimento público e após a morte da pessoa.",
+"Correta: é o texto do caput do art. 52, com determinação judicial ou consentimento escrito da pessoa ou do representante legal."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 48,
+"parte": "especificas"
+}
+},
+{
+"q": "Em caso de suspeita de acidente vascular cerebral a conduta durante o transporte do paciente até a unidade hospitalar que NÃO deve ser tomada é:",
+"alts": [
+"manter posição Trendelemburg.",
+"manter a permeabilidade das vias aéreas.",
+"avaliar estado neurológico.",
+"monitorar PA e oximetria de pulso.",
+"ventilação adequada."
+],
+"gab": 0,
+"tema": "urgencia",
+"sub": "Atendimento pré-hospitalar",
+"cenario": "emg",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Protocolos de Intervenção para o SAMU 192, Suporte Básico de Vida (Ministério da Saúde, 2016)",
+"coment": "No transporte do paciente com suspeita de AVC, as prioridades são as do ABC: via aérea pérvia, ventilação e oxigênio se a saturação estiver baixa, monitorização de pressão e oximetria, glicemia capilar e avaliação neurológica seriada com hora do início dos sintomas, para não perder a janela de trombólise. A cabeça fica alinhada, em posição neutra. A posição de Trendelenburg é contraindicada: aumenta a pressão intracraniana pelo prejuízo ao retorno venoso cerebral e eleva o risco de broncoaspiração em paciente que pode ter disfagia e rebaixamento.",
+"porAlt": [
+"Correta: Trendelenburg eleva a pressão intracraniana e favorece a broncoaspiração; a cabeça deve ficar em posição neutra.",
+"Errada: manter a via aérea pérvia é a primeira medida, sobretudo no paciente com rebaixamento ou disfagia.",
+"Errada: a avaliação neurológica seriada, com escala de AVC e hora do início, é obrigatória no transporte.",
+"Errada: monitorar pressão arterial e oximetria guia a oxigenoterapia e o manejo pressórico até o hospital.",
+"Errada: garantir ventilação adequada evita hipóxia, que agrava a lesão cerebral isquêmica."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 49,
+"parte": "especificas"
+}
+},
+{
+"q": "A gravidade dos traumatismos abdominais baseia-se especialmente na possível existência de uma lesão visceral, capaz de produzir alterações gerais graves como são as peritonites ou as hemorragias. São medidas a serem tomadas para minimizar os danos do estado de choque em decorrência do trauma abdominal, EXCETO:",
+"alts": [
+"ministrar oxigênio a 12 ou 15 litros por minuto.",
+"em caso de evisceração tentar reintroduzir as vísceras no abdômen.",
+"desobstruir as vias aéreas permitindo boa ventilação.",
+"aquecer a vítima evitando a hipotermia, que agrava o estado de choque.",
+"elevar os membros inferiores (posição de choque)."
+],
+"gab": 1,
+"tema": "urgencia",
+"sub": "Atendimento ao trauma",
+"cenario": "emg",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Protocolos de Intervenção para o SAMU 192, Suporte Básico de Vida (Ministério da Saúde, 2016)",
+"coment": "Na evisceração, as vísceras nunca são reintroduzidas na cavidade: a manobra contamina o peritônio e pode lesar alças e vasos. A conduta é cobri-las com compressa estéril umedecida em soro fisiológico, sem pressão, e transportar com rapidez. As demais medidas atacam o choque: via aérea livre, oxigênio em alto fluxo por máscara com reservatório (10 a 15 L/min) e prevenção da hipotermia, que piora a coagulopatia. A elevação dos membros inferiores aparece como medida aceita pela banca, embora no trauma ela não substitua o controle da hemorragia e seja evitada se houver suspeita de fratura de pelve ou de membros.",
+"porAlt": [
+"Errada: oxigênio em alto fluxo por máscara com reservatório faz parte do manejo inicial do choque no trauma.",
+"Correta: vísceras expostas não se reintroduzem; cobrem-se com compressa estéril úmida com soro fisiológico.",
+"Errada: desobstruir a via aérea e garantir ventilação é a primeira etapa do atendimento ao traumatizado.",
+"Errada: aquecer a vítima evita a hipotermia, que agrava a coagulopatia e o choque hemorrágico.",
+"Errada como resposta: a banca aceitou a posição de choque, que no trauma se usa com cautela e nunca com suspeita de fratura pélvica."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+"n": 50,
+"parte": "especificas"
+}
+},
+{
+"q": "A saúde é um direito garantido dos artigos 196 a 200 da nossa Constituição Federal Brasileira. Sobre essa garantia constitucional está INCORRETO o que se afirma em:",
+"alts": [
+"As instituições públicas poderão participar de forma complementar do sistema único de saúde, segundo diretrizes deste, mediante contrato de direito público ou convênio, tendo preferência as entidades filantrópicas e as sem fins lucrativos.",
+"Os gestores locais do sistema único de saúde poderão admitir agentes comunitários de saúde e agentes de combate às endemias por meio de processo seletivo público, de acordo com a natureza e complexidade de suas atribuições e requisitos específicos para sua atuação.",
+"A lei disporá sobre as condições e os requisitos que facilitem a remoção de órgãos, tecidos e substâncias humanas para fins de transplante, pesquisa e tratamento, bem como a coleta, processamento e transfusão de sangue e seus derivados, sendo vedado todo tipo de comercialização.",
+"Ao sistema único de saúde compete fiscalizar e inspecionar alimentos, compreendido o controle de seu teor nutricional, bem como bebidas e águas para consumo humano.",
+"O atendimento integral, com prioridade para as atividades preventivas, sem prejuízo dos serviços assistenciais é uma diretriz das ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema único."
+],
+"gab": 0,
+"tema": "sus",
+"sub": "Constituição Federal e o direito à saúde",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Constituição Federal de 1988, arts. 198 a 200",
+"coment": "O art. 199, § 1º, da Constituição diz que as instituições PRIVADAS poderão participar de forma complementar do SUS, segundo suas diretrizes, mediante contrato de direito público ou convênio, com preferência às entidades filantrópicas e às sem fins lucrativos. Trocar privadas por públicas torna a frase falsa: as públicas são o próprio SUS. As outras alternativas reproduzem o art. 198, § 4º (ACS e ACE por processo seletivo público, EC 51/2006), o art. 199, § 4º (vedação da comercialização de órgãos e sangue), o art. 200, VI (fiscalizar alimentos, bebidas e águas) e o art. 198, II (atendimento integral).",
+"porAlt": [
+"Correta: o art. 199, § 1º, fala em instituições privadas, não públicas, participando de forma complementar.",
+"Errada como resposta: é o art. 198, § 4º, incluído pela EC 51/2006, sobre ACS e ACE por processo seletivo público.",
+"Errada como resposta: reproduz o art. 199, § 4º, que veda todo tipo de comercialização de órgãos, tecidos e sangue.",
+"Errada como resposta: é competência do SUS prevista no art. 200, VI, incluindo o controle do teor nutricional.",
+"Errada como resposta: o atendimento integral com prioridade preventiva é a diretriz do art. 198, II."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 26,
+"parte": "politicas"
+}
+},
+{
+"q": "O conjunto de ações que proporcionam o conhecimento, a detecção ou prevenção de qualquer mudança nos fatores determinantes e condicionantes de saúde individual ou coletiva, com a finalidade de recomendar e adotar as medidas de prevenção e controle das doenças ou agravos é o conceito aplicado a:",
+"alts": [
+"Vigilância sanitária.",
+"Vigilância em saúde do trabalhador.",
+"Vigilância epidemiológica.",
+"Vigilância alimentar.",
+"Vigilância de epizootias."
+],
+"gab": 2,
+"tema": "coletiva",
+"sub": "Vigilância epidemiológica e notificação compulsória",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Lei 8.080/1990, art. 6º, § 2º",
+"coment": "O conceito é o do art. 6º, § 2º, da Lei 8.080/1990: vigilância epidemiológica é o conjunto de ações que proporcionam o conhecimento, a detecção ou prevenção de qualquer mudança nos fatores determinantes e condicionantes da saúde individual ou coletiva, para recomendar e adotar medidas de prevenção e controle das doenças ou agravos. A vigilância sanitária (§ 1º) elimina, diminui ou previne riscos decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços. A saúde do trabalhador está no § 3º.",
+"porAlt": [
+"Errada: a vigilância sanitária, no § 1º, atua sobre riscos de bens, serviços e meio ambiente, não sobre determinantes de doenças.",
+"Errada: a saúde do trabalhador (§ 3º) trata da promoção, proteção e recuperação de quem está exposto a riscos do trabalho.",
+"Correta: é a definição literal do art. 6º, § 2º, da Lei 8.080/1990 para vigilância epidemiológica.",
+"Errada: vigilância alimentar e nutricional é ação do SUS (art. 6º, IV), mas não corresponde a esse conceito.",
+"Errada: a vigilância de epizootias monitora adoecimento e morte de animais como alerta, não esse conjunto amplo de ações."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 27,
+"parte": "politicas"
+}
+},
+{
+"q": "Ter Comissão de elaboração do Plano de Carreira, Cargos e Salários (PCCS) é uma recomendação aos Municípios, os Estados e o Distrito Federal para:",
+"alts": [
+"Participarem do Conselho Nacional de Secretários de Saúde.",
+"Se tornarem municípios plenos.",
+"Integrarem o Conselho Nacional de Secretários Municipais de Saúde.",
+"Receberem os recursos do Fundo Nacional de Saúde.",
+"Se tornarem Região de Saúde."
+],
+"gab": 3,
+"tema": "sus",
+"sub": "Lei 8.142/1990 e controle social",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Lei 8.142/1990, art. 4º, VI",
+"coment": "O art. 4º da Lei 8.142/1990 lista o que municípios, estados e Distrito Federal devem ter para receber os recursos do Fundo Nacional de Saúde: fundo de saúde, conselho de saúde com composição paritária, plano de saúde, relatório de gestão, contrapartida de recursos no orçamento e comissão de elaboração do Plano de Carreira, Cargos e Salários (PCCS), com prazo de dois anos para implantação. O parágrafo único diz que, sem esses requisitos, os recursos são administrados pelo estado ou pela União. A banca chamou de recomendação o que a lei trata como condição.",
+"porAlt": [
+"Errada: o CONASS representa os secretários estaduais e não exige comissão de PCCS para participação.",
+"Errada: a gestão plena era habilitação das Normas Operacionais, não o objeto do art. 4º da Lei 8.142.",
+"Errada: o CONASEMS é entidade representativa dos secretários municipais, sem esse requisito legal.",
+"Correta: a comissão de PCCS é um dos requisitos do art. 4º para receber os recursos do Fundo Nacional de Saúde.",
+"Errada: a Região de Saúde é instituída pelo estado com os municípios (Decreto 7.508/2011), sem relação com o PCCS."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 28,
+"parte": "politicas"
+}
+},
+{
+"q": "A instituição das Regiões de Saúde observará cronograma pactuado:",
+"alts": [
+"nas Comissões Intergestores.",
+"no Conselho Estadual de Saúde.",
+"no Conselho Municipal de Saúde.",
+"no Ministério da Saúde.",
+"na Assembleia Legislativa."
+],
+"gab": 0,
+"tema": "sus",
+"sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Decreto 7.508/2011, art. 5º, parágrafo único",
+"coment": "O Decreto 7.508/2011 define que as Regiões de Saúde são instituídas pelo estado em articulação com os municípios, respeitadas as diretrizes pactuadas na Comissão Intergestores Tripartite (art. 4º). Para existir, a região precisa conter, no mínimo, atenção primária, urgência e emergência, atenção psicossocial, atenção ambulatorial especializada e hospitalar e vigilância em saúde (art. 5º). O parágrafo único do art. 5º é o cobrado: a instituição das Regiões de Saúde observará cronograma pactuado nas Comissões Intergestores, instâncias de pactuação entre gestores.",
+"porAlt": [
+"Correta: o art. 5º, parágrafo único, do Decreto 7.508/2011 manda observar cronograma pactuado nas Comissões Intergestores.",
+"Errada: o Conselho Estadual de Saúde é instância de controle social, não de pactuação entre gestores.",
+"Errada: o Conselho Municipal de Saúde formula e fiscaliza a política local, mas não pactua o cronograma das regiões.",
+"Errada: o Ministério da Saúde participa da CIT, mas o cronograma não é decisão unilateral dele.",
+"Errada: a Assembleia Legislativa não tem papel na pactuação interfederativa das Regiões de Saúde."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 29,
+"parte": "politicas"
+}
+},
+{
+"q": "Os Conselhos de Secretarias Municipais de Saúde (Cosems) deverão estar vinculados institucionalmente ao:",
+"alts": [
+"Conass.",
+"Fundo Nacional de Saúde.",
+"Ministério da Saúde.",
+"Conasems.",
+"Fundo Estadual de Saúde."
+],
+"gab": 3,
+"tema": "sus",
+"sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Lei 8.080/1990, art. 14-B, § 2º (incluído pela Lei 12.466/2011)",
+"coment": "A Lei 12.466/2011 incluiu o art. 14-B na Lei 8.080/1990, reconhecendo o CONASS e o CONASEMS como entidades representativas dos entes estaduais e municipais. O § 2º desse artigo reconhece os Conselhos de Secretarias Municipais de Saúde (COSEMS) como representantes dos municípios no âmbito estadual, desde que vinculados institucionalmente ao CONASEMS, na forma de seus estatutos. Os COSEMS indicam os representantes municipais na Comissão Intergestores Bipartite.",
+"porAlt": [
+"Errada: o CONASS reúne os secretários estaduais; os COSEMS representam municípios e se vinculam ao CONASEMS.",
+"Errada: o Fundo Nacional de Saúde é instrumento de financiamento, não entidade de representação.",
+"Errada: os COSEMS não são órgãos do Ministério da Saúde, são entidades de representação dos municípios.",
+"Correta: o art. 14-B, § 2º, exige vínculo institucional dos COSEMS ao CONASEMS, na forma dos estatutos.",
+"Errada: o Fundo Estadual de Saúde é conta de gestão financeira, sem relação com a representação municipal."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 30,
+"parte": "politicas"
+}
+},
+{
+"q": "O processo natural da doença, assim instalado no corpo humano, evolui em dois períodos consecutivos, sendo eles:",
+"alts": [
+"Virótico e pandêmico.",
+"Clínico e Subclínico.",
+"Pré-patogênico e patogênico.",
+"Agente e hospedeiro.",
+"Incubação e transmissibilidade."
+],
+"gab": 2,
+"tema": "coletiva",
+"sub": "Estudos epidemiológicos",
+"cenario": "ger",
+"comp": "aval",
+"nivel": "r1",
+"base": "Leavell e Clark, Medicina Preventiva (1976), modelo da história natural da doença",
+"coment": "No modelo de Leavell e Clark, a história natural da doença tem dois períodos consecutivos. O pré-patogênico ocorre antes de o agente agir no organismo, na interação entre agente, hospedeiro e ambiente; ali cabem a promoção da saúde e a proteção específica, como a vacina. O patogênico começa com a ação do agente no hospedeiro e evolui por fases subclínica e clínica até cura, cronificação, invalidez ou morte; ali cabem diagnóstico precoce, tratamento, limitação do dano e reabilitação. Esses cinco níveis formam a prevenção primária, secundária e terciária.",
+"porAlt": [
+"Errada: virótico descreve um tipo de agente e pandêmico descreve a distribuição de casos, não períodos da doença.",
+"Errada: subclínico e clínico são fases dentro do período patogênico, não os dois períodos do modelo.",
+"Correta: Leavell e Clark dividem a história natural em período pré-patogênico e período patogênico.",
+"Errada: agente e hospedeiro são componentes da tríade epidemiológica, ao lado do ambiente.",
+"Errada: incubação e transmissibilidade são intervalos de tempo da doença infecciosa, não os períodos do modelo."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 31,
+"parte": "politicas"
+}
+},
+{
+"q": "O Sistema de Informações sobre Nascidos Vivos (SINASC) foi implantado oficialmente a partir de 1990, o Ministério da Saúde incentiva os gestores municipais e estaduais a fazerem uso do potencial de dados contido no SINASC, para a formulação de indicadores epidemiológicos como instrumentos estratégicos de suporte ao planejamento das ações, atividades e programas voltados à gestão em saúde. O Sinasc dispõe de um ambiente de compartilhamento de informações on-line com diversas utilidades e aplicações, sendo elas, EXCETO:",
+"alts": [
+"Geração de arquivos de dados em várias extensões para análises em outros aplicativos.",
+"Retroalimentação das informações ocorridas em municípios diferentes da residência do indivíduo.",
+"Controle de distribuição das declarações de nascido vivo.",
+"Transmissão de dados automatizada utilizando a ferramenta Sisnet gerando a tramitação dos dados de forma ágil e segura entre os níveis municipal > estadual > federal.",
+"Declaração de óbito informatizada."
+],
+"gab": 4,
+"tema": "coletiva",
+"sub": "Sistemas de informação em saúde",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Portaria SVS/MS 116/2009 (fluxo e periodicidade do SIM e do SINASC)",
+"coment": "O SINASC tem como documento-base a Declaração de Nascido Vivo (DNV). Seu ambiente on-line permite gerar arquivos de dados para outros programas, devolver ao município de residência os nascimentos ocorridos em outro município (retroalimentação), controlar a distribuição dos formulários de DNV e transmitir os dados pelo Sisnet entre os níveis municipal, estadual e federal. A Declaração de Óbito é o documento-base do outro sistema, o SIM (Sistema de Informações sobre Mortalidade), e não uma utilidade do SINASC.",
+"porAlt": [
+"Errada: a geração de arquivos em várias extensões para análise em outros aplicativos é recurso do SINASC.",
+"Errada: a retroalimentação devolve ao município de residência os nascimentos registrados em outro município.",
+"Errada: o controle da distribuição das DNV, numeradas pelo Ministério, é feito no próprio sistema.",
+"Errada: a transmissão pelo Sisnet entre município, estado e União é o fluxo de dados do SINASC.",
+"Correta: a Declaração de Óbito pertence ao SIM; o documento do SINASC é a Declaração de Nascido Vivo."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 32,
+"parte": "politicas"
+}
+},
+{
+"q": "O Sistema de Informações Sobre Mortalidade (SIM) possui variáveis que permitem, a partir da causa mortis atestada pelo médico, construir indicadores e processar análises epidemiológicas que contribuam para a eficiência da gestão em saúde. É indicador em relação à mortalidade Infantil realizado através de análises de dados do SIM, EXCETO:",
+"alts": [
+"Taxa de mortalidade neonatal precoce.",
+"Taxa de mortalidade materna.",
+"Taxa de mortalidade pós-neonatal.",
+"Taxa de mortalidade perinatal.",
+"Taxa de mortalidade neonatal tardia."
+],
+"gab": 1,
+"tema": "coletiva",
+"sub": "Indicadores de saúde",
+"cenario": "ger",
+"comp": "aval",
+"nivel": "r1",
+"base": "RIPSA, Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed. (2008)",
+"coment": "Mortalidade infantil é o óbito antes de 1 ano de idade e se divide pela idade da criança: neonatal precoce (0 a 6 dias), neonatal tardia (7 a 27 dias) e pós-neonatal (28 dias a menos de 1 ano). A perinatal soma os óbitos fetais (a partir de 22 semanas) aos neonatais precoces e também é usada para avaliar a atenção ao parto e ao recém-nascido. A razão de mortalidade materna mede a morte da mulher na gestação ou até 42 dias após o término, por causa ligada à gravidez; usa o SIM, mas não é indicador de mortalidade infantil.",
+"porAlt": [
+"Errada: a neonatal precoce (0 a 6 dias) é componente da mortalidade infantil calculado com dados do SIM.",
+"Correta: a mortalidade materna mede óbitos de mulheres ligados à gestação, não de crianças menores de 1 ano.",
+"Errada: a pós-neonatal (28 dias a menos de 1 ano) é componente da mortalidade infantil.",
+"Errada: a perinatal reúne óbitos fetais e neonatais precoces e é analisada junto da mortalidade infantil.",
+"Errada: a neonatal tardia (7 a 27 dias) é componente da mortalidade infantil."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 33,
+"parte": "politicas"
+}
+},
+{
+"q": "A população que está presente no território da UBS, de forma a estimular o desenvolvimento de relações de vínculo e responsabilização entre as equipes e a população, garantindo a continuidade das ações de saúde e a longitudinalidade do cuidado e com o objetivo de ser referência para o seu cuidado é denominada População Adscrita. A população adscrita por equipe de Atenção Básica (eAB) e de Saúde da Família (eSF) é de:",
+"alts": [
+"1.500 a 2.000 pessoas.",
+"1.800 a 2.500 pessoas.",
+"2.000 a 3.500 pessoas.",
+"2.500 a 4.000 pessoas.",
+"3.500 a 4.200 pessoas."
+],
+"gab": 2,
+"tema": "sus",
+"sub": "Política Nacional de Atenção Básica",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Portaria GM/MS 2.436/2017 (PNAB), item 3.3, consolidada na PRC 2/2017",
+"coment": "A PNAB de 2017 recomenda população adscrita por equipe de Atenção Básica (eAB) e de Saúde da Família (eSF) de 2.000 a 3.500 pessoas, localizada dentro do seu território. Admite outros arranjos conforme vulnerabilidade, riscos e dinâmica comunitária, cabendo ao gestor local avaliar. A Portaria GM/MS 3.493/2024, que criou o novo cofinanciamento do Piso da APS, passou a usar parâmetros de vinculação de pessoas por equipe que variam com o porte do município; para a pergunta sobre a PNAB, vale o texto de 2.000 a 3.500. A PNAB está em revisão pelo Ministério da Saúde.",
+"porAlt": [
+"Errada: 1.500 a 2.000 pessoas fica abaixo do parâmetro da PNAB 2017.",
+"Errada: 1.800 a 2.500 pessoas não corresponde a nenhum parâmetro da PNAB.",
+"Correta: a PNAB 2017 recomenda de 2.000 a 3.500 pessoas por eAB ou eSF.",
+"Errada: 2.500 a 4.000 pessoas não é o intervalo da PNAB 2017.",
+"Errada: 3.500 a 4.200 pessoas ultrapassa o máximo recomendado pela PNAB."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 34,
+"parte": "politicas"
+}
+},
+{
+"q": "A implantação da Estratégia de Agentes Comunitários de Saúde nas UBS é prevista como uma possibilidade para:",
+"alts": [
+"Reorganização inicial da Atenção Básica com vistas à implantação gradual da Estratégia de Saúde da Família.",
+"Mapeamento de zonas de riscos em territórios descobertos por Estratégia de Saúde da Família.",
+"Atendimento à população ribeirinha.",
+"Início da implantação de serviços de saúde em populações indígenas ou quilombolas.",
+"Apoiar as unidades de Estratégia de Saúde da Família em municípios que não comportem mais implantação de ESFS."
+],
+"gab": 0,
+"tema": "sus",
+"sub": "Política Nacional de Atenção Básica",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo, item da Estratégia de Agentes Comunitários de Saúde",
+"coment": "A PNAB de 2017 prevê a Estratégia de Agentes Comunitários de Saúde (EACS) nas UBS como possibilidade para a reorganização inicial da Atenção Básica, com vistas à implantação gradual da Estratégia Saúde da Família, ou como forma de agregar os agentes a outras maneiras de organização da Atenção Básica. É, portanto, etapa de transição: a ESF segue como estratégia prioritária de expansão e consolidação. A equipe da EACS tem enfermeiro supervisor e ACS, cada agente responsável por uma microárea.",
+"porAlt": [
+"Correta: a PNAB prevê a EACS como reorganização inicial da Atenção Básica rumo à implantação gradual da ESF.",
+"Errada: o mapeamento de risco é atribuição do ACS em qualquer modelo, não a finalidade da EACS.",
+"Errada: a população ribeirinha tem equipes próprias, as eSF Ribeirinhas e as Unidades Básicas de Saúde Fluviais.",
+"Errada: a saúde indígena é organizada pelo Subsistema de Atenção à Saúde Indígena e pelos DSEI.",
+"Errada: a PNAB não condiciona a EACS a municípios que não comportam mais equipes de Saúde da Família."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 35,
+"parte": "politicas"
+}
+},
+{
+"q": "Os medicamentos de alta vigilância (MAV), ou potencialmente perigosos, são aqueles que têm risco aumentado de provocar danos significativos aos pacientes em decorrência de falha no processo de utilização. São recomendações para a segurança no preparo e administração destes medicamentos, EXCETO:",
+"alts": [
+"é necessário verificar os certos no preparo e na administração do MAV.",
+"preferencialmente, o preparo de misturas intravenosas contendo MAV deve ser centralizado no posto de enfermagem.",
+"deve-se realizar a dupla checagem (por dois profissionais) dos certos, no preparo e na administração.",
+"apenas os MAV que sejam absolutamente necessários à assistência do paciente devem permanecer nas unidades de internação.",
+"os MAV devem ser identificados de forma diferenciada, por meio de etiquetas ou invólucros exclusivos."
+],
+"gab": 1,
+"tema": "farmaco",
+"sub": "Medicamentos de alta vigilância",
+"cenario": "enf",
+"comp": "calc",
+"nivel": "r1",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+"coment": "Para medicamentos de alta vigilância (potencialmente perigosos), o protocolo do Ministério da Saúde recomenda que o preparo de misturas intravenosas seja centralizado na FARMÁCIA, com ambiente e técnica controlados, e não no posto de enfermagem, onde há interrupções e falta de padronização. As demais medidas são as do protocolo: conferir os certos no preparo e na administração, dupla checagem independente por dois profissionais, manter na unidade só o estoque indispensável e identificar esses medicamentos com etiqueta ou embalagem diferenciada.",
+"porAlt": [
+"Errada como resposta: verificar os certos no preparo e na administração é recomendação básica para esses medicamentos.",
+"Correta: a centralização do preparo de misturas intravenosas com esses fármacos deve ser na farmácia, não no posto de enfermagem.",
+"Errada como resposta: a dupla checagem independente por dois profissionais é barreira recomendada para eles.",
+"Errada como resposta: restringir o estoque na unidade ao indispensável reduz troca e erro de diluição.",
+"Errada como resposta: a identificação diferenciada com etiqueta ou invólucro próprio alerta quem manipula."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 36,
+"parte": "especificas"
+}
+},
+{
+"q": "É fundamental no atendimento de urgência à lombalgia avaliar a gravidade e descartar doenças potencialmente graves. Marque a alternativa que NÃO corresponde a um sinal de alerta neste atendimento:",
+"alts": [
+"emagrecimento.",
+"febre.",
+"depressão.",
+"história de neoplasia.",
+"fraqueza muscular."
+],
+"gab": 2,
+"tema": "urgencia",
+"sub": "Emergências clínicas",
+"cenario": "emg",
+"comp": "aval",
+"nivel": "r1",
+"base": "Caderno de Atenção Básica nº 28, vol. II, Acolhimento à demanda espontânea: queixas mais comuns na Atenção Básica (MS, 2012)",
+"coment": "Na lombalgia, a avaliação inicial procura as bandeiras vermelhas, que sugerem causa grave: emagrecimento inexplicado e história de câncer (metástase), febre (infecção, como espondilodiscite), déficit neurológico com fraqueza muscular, perda de controle esfincteriano ou anestesia em sela (compressão de cauda equina), trauma importante e idade extrema. A depressão entra nas bandeiras amarelas, fatores psicossociais que aumentam o risco de cronificação e incapacidade, mas não indicam doença grave subjacente.",
+"porAlt": [
+"Errada: emagrecimento sem causa aparente é bandeira vermelha, pela suspeita de neoplasia.",
+"Errada: febre associada à dor lombar sugere infecção, como espondilodiscite ou abscesso.",
+"Correta: a depressão é bandeira amarela, fator psicossocial de cronificação, e não sinal de alerta para doença grave.",
+"Errada: história de neoplasia é bandeira vermelha, pela possibilidade de metástase vertebral.",
+"Errada: fraqueza muscular indica déficit neurológico, possível compressão radicular ou de cauda equina."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 37,
+"parte": "especificas"
+}
+},
+{
+"q": "Quando o paciente já apresenta alguns sinais de desidratação moderada, deve permanecer na unidade de atendimento para realizar a Terapia de Reidratação Oral (TRO). Considerando a afirmativa, marque a alternativa que NÃO apresenta uma contraindicação para TRO:",
+"alts": [
+"evolução para choque hipovolêmico.",
+"vômitos persistentes.",
+"recusa persistente da solução.",
+"alteração do nível de consciência.",
+"perda de 3% a 5% do peso corporal."
+],
+"gab": 4,
+"tema": "crianca",
+"sub": "AIDPI e doenças prevalentes",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Sociedade Brasileira de Pediatria, Guia Prático de Atualização: Diarreia aguda, diagnóstico e tratamento (2017)",
+"coment": "A terapia de reidratação oral é a primeira escolha na desidratação, inclusive moderada, feita na unidade sob observação (Plano B do Ministério da Saúde). Ela é contraindicada quando a via oral não funciona ou não é segura: choque hipovolêmico, alteração do nível de consciência, vômitos persistentes apesar da técnica correta, recusa persistente da solução e íleo paralítico ou distensão abdominal importante. Nesses casos passa-se à reidratação venosa. Perda de 3% a 5% do peso corresponde a desidratação leve, situação justamente indicada para a TRO.",
+"porAlt": [
+"Errada: o choque hipovolêmico exige reidratação venosa imediata, contraindicando a TRO.",
+"Errada: vômitos persistentes impedem a absorção da solução e indicam reidratação venosa.",
+"Errada: a recusa persistente da solução torna a TRO ineficaz e é contraindicação.",
+"Errada: o rebaixamento de consciência traz risco de aspiração e contraindica a via oral.",
+"Correta: perda de 3% a 5% do peso é desidratação leve, que se trata com TRO; não é contraindicação."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 38,
+"parte": "especificas"
+}
+},
+{
+"q": "As pseudocrises hipertensivas são situações nas quais, o aumento acentuado da pressão arterial (PA) é desencadeado pelos seguintes fatores, EXCETO:",
+"alts": [
+"dor.",
+"desconforto.",
+"ansiedade.",
+"lesão aguda de órgãos-alvo.",
+"fibromialgia."
+],
+"gab": 3,
+"tema": "adulto",
+"sub": "Hipertensão e doenças cardiovasculares",
+"cenario": "emg",
+"comp": "aval",
+"nivel": "r1",
+"base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH e SBN), crises hipertensivas",
+"coment": "Pseudocrise hipertensiva é a elevação acentuada da pressão desencadeada por dor, desconforto, ansiedade ou pânico, em paciente oligossintomático e sem lesão aguda de órgão-alvo. Trata-se a causa (analgesia, ambiente calmo, ansiolítico se preciso), não a pressão com anti-hipertensivo de ação rápida. A lesão aguda e progressiva de órgão-alvo define a emergência hipertensiva, que exige UTI e droga endovenosa. A Diretriz Brasileira de Hipertensão Arterial 2025 manteve o conceito de pseudocrise e propôs aposentar o termo urgência hipertensiva.",
+"porAlt": [
+"Errada: a dor é o gatilho clássico da pseudocrise, tratada com analgesia.",
+"Errada: desconforto, como bexiga cheia ou posição ruim, eleva a pressão sem lesão de órgão.",
+"Errada: ansiedade e pânico estão entre os desencadeantes típicos da pseudocrise.",
+"Correta: lesão aguda de órgão-alvo caracteriza emergência hipertensiva, não pseudocrise.",
+"Errada como resposta: a fibromialgia é condição dolorosa e, pela dor, pode desencadear a elevação reacional."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 39,
+"parte": "especificas"
+}
+},
+{
+"q": "De acordo com o esquema para introdução dos alimentos complementares em lactentes, em aleitamento materno ou em uso de fórmula infantil, a segunda papa principal (almoço ou jantar) deverá ser introduzida na seguinte faixa etária:",
+"alts": [
+"6º mês.",
+"9º-12º mês.",
+"7º-8º mês.",
+"1-2 anos.",
+"até 2 anos."
+],
+"gab": 2,
+"tema": "crianca",
+"sub": "Aleitamento e alimentação",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Guia Alimentar para Crianças Brasileiras Menores de 2 Anos (Ministério da Saúde, 2019)",
+"coment": "Pelo esquema do Ministério da Saúde, a alimentação complementar começa aos 6 meses com fruta nos lanches e uma refeição principal (almoço ou jantar), mantendo o leite materno ou a fórmula. Aos 7 a 8 meses entra a segunda refeição principal, completando almoço e jantar. Dos 9 aos 11 meses a consistência evolui gradualmente até a da família, e aos 12 meses a criança passa a comer a comida da casa, com cuidado para não oferecer açúcar nem ultraprocessados antes dos 2 anos.",
+"porAlt": [
+"Errada: no 6º mês entra a primeira refeição principal, não a segunda.",
+"Errada: dos 9 aos 12 meses a consistência evolui para a da família; a segunda refeição já foi introduzida.",
+"Correta: a segunda refeição principal (almoço ou jantar) é introduzida aos 7 a 8 meses.",
+"Errada: entre 1 e 2 anos a criança já faz as refeições da família.",
+"Errada: até 2 anos é o período de manter o aleitamento, não o marco da segunda refeição."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 40,
+"parte": "especificas"
+}
+},
+{
+"q": "A realização periódica do exame citopatológico continua sendo a estratégia mais amplamente adotada para o rastreamento do câncer do colo do útero. No Brasil, o exame deve ser realizado em mulheres de _____________________, uma vez por ano e, após ____ exames anuais consecutivos negativos, a cada ____ anos.",
+"alts": [
+"25 a 64 anos de idade; dois; três.",
+"25 a 60 anos de idade; três; dois.",
+"18 a 59 anos de idade; dois; três.",
+"20 a 60 anos de idade; três; três.",
+"25 a 65 anos de idade; dois; três."
+],
+"gab": 0,
+"tema": "mulher",
+"sub": "Rastreamento do câncer de colo e de mama",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (INCA, 2016) e Portaria Conjunta SAES/SECTICS 13/2025",
+"coment": "Pela diretriz do INCA de 2016, o citopatológico se faz em mulheres de 25 a 64 anos que já tiveram atividade sexual: os dois primeiros exames com intervalo anual e, se ambos negativos, a cada 3 anos. A resposta segue certa para o rastreamento citológico. Desde a Portaria Conjunta SAES/SECTICS 13/2025, o Brasil adota o rastreamento organizado com teste de DNA-HPV oncogênico, na mesma faixa de 25 a 64 anos, repetido a cada 5 anos se negativo; onde o teste ainda não foi implantado, vale o esquema citológico de 2016.",
+"porAlt": [
+"Correta: 25 a 64 anos, dois exames anuais negativos e depois a cada três anos, como na diretriz do INCA de 2016.",
+"Errada: a faixa termina aos 64 anos, e o intervalo após os negativos é de três anos, não dois.",
+"Errada: o rastreamento começa aos 25 anos; começar aos 18 leva a sobrediagnóstico de lesões que regridem.",
+"Errada: a faixa é de 25 a 64 anos, e bastam dois exames anuais negativos, não três.",
+"Errada: o limite superior é 64 anos, não 65."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 41,
+"parte": "especificas"
+}
+},
+{
+"q": "O termo, incontinência urinária (IU) refere-se à queixa de qualquer perda de urina, que pode ser involuntária, provocada pelo indivíduo ou descrita por um cuidador. Considerando a afirmativa, marque a alternativa INCORRETA.",
+"alts": [
+"As mulheres têm maior predisposição de apresentar essa condição.",
+"A presença de IU pode ser dividida de acordo com a etiologia em: neurogênica e não neurogênica.",
+"A IU de Urgência (IUU) ocorre quando o músculo detrusor apresenta contração involuntária.",
+"Os diuréticos têm efeito direto sobre a função do detrusor e ainda causam um aumento do volume urinário, elevando a frequência e urgência.",
+"Em homens sem doença neurológica, a IU está, na maioria das vezes, associada com história de cirurgia prostática."
+],
+"gab": 3,
+"tema": "idoso",
+"sub": "Envelhecimento e avaliação multidimensional",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r2",
+"base": "Caderno de Atenção Básica nº 19, Envelhecimento e saúde da pessoa idosa (Ministério da Saúde, 2006)",
+"coment": "Os diuréticos não agem diretamente sobre o detrusor: eles aumentam o volume urinário, e é essa sobrecarga que eleva frequência e urgência e pode precipitar perda em quem já tem bexiga hiperativa. Por isso a frase que lhes atribui efeito direto sobre o detrusor é a incorreta. As demais estão certas: a incontinência é mais frequente em mulheres; divide-se em neurogênica e não neurogênica; a de urgência decorre de contração involuntária do detrusor; e, no homem sem doença neurológica, liga-se sobretudo à cirurgia prostática.",
+"porAlt": [
+"Errada como resposta: a incontinência é mais prevalente em mulheres, por parto, menopausa e anatomia do assoalho pélvico.",
+"Errada como resposta: a divisão etiológica em neurogênica e não neurogênica é aceita.",
+"Errada como resposta: a incontinência de urgência resulta de contração involuntária do detrusor (hiperatividade).",
+"Correta: diuréticos não têm efeito direto sobre o detrusor; agem aumentando o volume urinário.",
+"Errada como resposta: no homem sem doença neurológica, a causa mais comum é a prostatectomia."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 43,
+"parte": "especificas"
+}
+},
+{
+"q": "A instância do serviço de saúde criada para promover e apoiar a implementação de ações voltadas à segurança do paciente é identificada como:",
+"alts": [
+"núcleo de segurança do paciente.",
+"garantia da qualidade.",
+"gestão de risco.",
+"segurança do paciente.",
+"tecnologia de segurança em saúde."
+],
+"gab": 0,
+"tema": "seguranca",
+"sub": "Metas internacionais e PNSP",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "RDC ANVISA 36/2013, art. 3º",
+"coment": "A RDC ANVISA 36/2013 define Núcleo de Segurança do Paciente (NSP) como a instância do serviço de saúde criada para promover e apoiar a implementação de ações voltadas à segurança do paciente. A mesma resolução obriga o serviço a constituir o NSP, com direção que lhe dê autoridade e recursos, a elaborar o Plano de Segurança do Paciente e a notificar os eventos adversos ao Sistema Nacional de Vigilância Sanitária, com óbito em até 72 horas. Garantia da qualidade, gestão de risco, segurança do paciente e tecnologia em saúde são outros conceitos definidos no mesmo artigo.",
+"porAlt": [
+"Correta: é a definição literal de Núcleo de Segurança do Paciente no art. 3º da RDC 36/2013.",
+"Errada: garantia da qualidade é a totalidade das ações para assegurar que os serviços estejam nos padrões exigidos.",
+"Errada: gestão de risco é a aplicação sistêmica de políticas e práticas para identificar, avaliar e controlar riscos.",
+"Errada: segurança do paciente é a redução a um mínimo aceitável do risco de dano desnecessário, não uma instância.",
+"Errada: tecnologia em saúde abrange equipamentos, medicamentos e procedimentos, não uma instância do serviço."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 44,
+"parte": "especificas"
+}
+},
+{
+"q": "Sobre a avaliação do risco cardiovascular no paciente com diabetes, marque a alternativa que corresponde a um estratificador de risco alto:",
+"alts": [
+"amputação.",
+"doença renal de muito alto risco.",
+"angina estável.",
+"idade >46 anos.",
+"síndrome metabólica."
+],
+"gab": 4,
+"tema": "adulto",
+"sub": "Diabetes mellitus",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r2",
+"base": "Diretriz da Sociedade Brasileira de Diabetes 2022, Manejo do risco cardiovascular: dislipidemia",
+"coment": "A Sociedade Brasileira de Diabetes classifica o risco cardiovascular no diabetes em baixo, intermediário, alto e muito alto. Basta um estratificador de risco alto para passar à categoria alta; entre eles estão síndrome metabólica, diabetes há mais de 10 anos, hipertensão, tabagismo ativo, história familiar de doença coronariana precoce, retinopatia, albuminúria e taxa de filtração abaixo de 60. Pela idade isolada, o alto risco começa a partir dos 50 anos no homem e acima de 56 na mulher. Doença aterosclerótica clínica, como amputação e angina, coloca o paciente no risco muito alto.",
+"porAlt": [
+"Errada: amputação por doença arterial é doença aterosclerótica clínica, critério de risco muito alto.",
+"Errada: doença renal de muito alto risco, como o nome diz, não figura entre os estratificadores de risco alto.",
+"Errada: angina estável é doença coronariana estabelecida, que classifica o paciente como de risco muito alto.",
+"Errada: o corte etário da SBD é a partir de 50 anos no homem e acima de 56 na mulher, não 46.",
+"Correta: a síndrome metabólica é um dos estratificadores que, isoladamente, definem risco alto no diabetes."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 45,
+"parte": "especificas"
+}
+},
+{
+"q": "São medidas específicas, que devem ser gerenciadas para a prevenção das pneumonias associadas à ventilação mecânica (PAV) relacionada à assistência à saúde, EXCETO:",
+"alts": [
+"manter decúbito elevado (30- 45°).",
+"adequar diariamente o nível de sedação e o teste de respiração espontânea.",
+"higienização das mãos.",
+"aspirar a secreção subglótica rotineiramente.",
+"fazer a higiene oral com antissépticos."
+],
+"gab": 2,
+"tema": "uti",
+"sub": "Prevenção de pneumonia e infecção de cateter",
+"cenario": "uti",
+"comp": "cuid",
+"nivel": "r1",
+"base": "ANVISA, Caderno 4: Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, 2ª ed. (2017)",
+"coment": "O Caderno 4 da ANVISA (2017) separa medidas gerais, que valem para toda IRAS, das medidas específicas para pneumonia associada à ventilação. As específicas fortemente recomendadas são: cabeceira elevada entre 30 e 45 graus, adequação diária da sedação com teste de respiração espontânea, aspiração da secreção subglótica e higiene oral com antisséptico, as quatro do pacote do IHI. A higienização das mãos é essencial, mas é medida geral de prevenção de qualquer infecção relacionada à assistência, e não uma das medidas específicas de PAV.",
+"porAlt": [
+"Errada: o decúbito elevado de 30 a 45 graus é medida específica de PAV do Caderno 4.",
+"Errada: a interrupção diária da sedação com teste de respiração espontânea é medida específica do pacote.",
+"Correta: a higienização das mãos é medida geral contra todas as IRAS, não medida específica de PAV.",
+"Errada: a aspiração da secreção subglótica está entre as medidas específicas para quem fica ventilado mais de 48 a 72 horas.",
+"Errada: a higiene oral com antisséptico, como a clorexidina 0,12%, é medida específica de PAV."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 46,
+"parte": "especificas"
+}
+},
+{
+"q": "São recomendações básicas, para todos os serviços de saúde, na prevenção de Infecções do Sítio Cirúrgico (ISC), EXCETO:",
+"alts": [
+"escolher a droga adequada levando em consideração o sítio a ser operado (antibioticoprofilaxia).",
+"não utilizar preparações que contenham álcool no preparo da pele.",
+"manter o controle de glicemia no pré-operatório e no pós-operatório imediato.",
+"manter o controle da temperatura em todo perioperatório ( ≥ 35,5°C).",
+"educar pacientes e familiares sobre medidas de prevenção de ISC."
+],
+"gab": 1,
+"tema": "seguranca",
+"sub": "Infecções relacionadas à assistência",
+"cenario": "cc",
+"comp": "cuid",
+"nivel": "r1",
+"base": "ANVISA, Caderno 4: Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, 2ª ed. (2017)",
+"coment": "Entre as recomendações básicas da ANVISA para prevenir infecção de sítio cirúrgico está o preparo da pele com antisséptico em solução ALCOÓLICA, de preferência clorexidina alcoólica, que age rápido e tem efeito residual; por isso a frase que proíbe preparações com álcool é a exceção. As demais estão no Caderno 4: antibioticoprofilaxia escolhida conforme o sítio, controle glicêmico no pré e no pós-operatório imediato, normotermia com temperatura de 35,5 °C ou mais em todo o perioperatório e orientação de paciente e família.",
+"porAlt": [
+"Errada como resposta: a escolha do antimicrobiano profilático conforme o sítio operado é recomendação básica.",
+"Correta: o preparo da pele deve usar solução alcoólica, como a clorexidina alcoólica; proibir o álcool contraria a ANVISA.",
+"Errada como resposta: o controle da glicemia no pré e no pós-operatório imediato reduz a infecção de sítio cirúrgico.",
+"Errada como resposta: manter a normotermia, com 35,5 °C ou mais, é recomendação básica do Caderno 4.",
+"Errada como resposta: educar paciente e familiares sobre prevenção da infecção é medida recomendada."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 47,
+"parte": "especificas"
+}
+},
+{
+"q": "São fatores de risco para a ocorrência de acidente de trabalho com exposição a material biológico, EXCETO:",
+"alts": [
+"manuseio e descarte inadequado de material perfurocortante.",
+"reencape de agulhas.",
+"descumprimento de normas de biossegurança durante a lavagem e o manuseio de material contaminado.",
+"condição sorológica do indivíduo fonte (homem ou animal) e do acidentado.",
+"falta de capacitação e treinamento para desenvolvimento de algumas atividades."
+],
+"gab": 3,
+"tema": "seguranca",
+"sub": "Biossegurança e NR-32",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r1",
+"base": "Ministério da Saúde, Exposição a materiais biológicos, Protocolos de Complexidade Diferenciada (2006), e NR 32",
+"coment": "Fatores de risco para a ocorrência do acidente são os que aumentam a chance de o profissional se ferir ou se expor: manuseio e descarte inadequado de perfurocortante, reencape de agulha (proibido pela NR 32), descumprimento de normas de biossegurança na limpeza de material e falta de capacitação. A condição sorológica da fonte e do acidentado não muda a chance de o acidente acontecer; ela pesa depois, no risco de transmissão e na decisão sobre profilaxia pós-exposição, junto com o tipo de exposição e o material envolvido.",
+"porAlt": [
+"Errada: o manuseio e o descarte inadequados de perfurocortante são a principal causa de acidente.",
+"Errada: o reencape de agulhas é fator de risco clássico e é vedado pela NR 32.",
+"Errada: descumprir normas de biossegurança na lavagem de material contaminado expõe o trabalhador.",
+"Correta: a sorologia da fonte e do acidentado define o risco de transmissão após o acidente, não a chance de ele ocorrer.",
+"Errada: a falta de capacitação para a atividade aumenta a ocorrência de acidentes."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 48,
+"parte": "especificas"
+}
+},
+{
+"q": "O dimensionamento do quadro de profissionais de enfermagem deve basear-se em características relativas ao serviço de saúde, ao serviço de enfermagem e ao paciente. Considerando a afirmativa, marque a alternativa correspondente ao serviço de enfermagem.",
+"alts": [
+"Tipos de serviços e/ou programas.",
+"Recursos materiais e financeiros.",
+"Realidade sociocultural.",
+"Política de pessoal.",
+"Índice de segurança técnica."
+],
+"gab": 4,
+"tema": "gestao",
+"sub": "Dimensionamento de pessoal",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Parecer Normativo COFEN 01/2024, item 1 (Res. COFEN 743/2024)",
+"coment": "A questão vem da Res. COFEN 543/2017, revogada pela Res. 743/2024; os parâmetros passaram ao Parecer Normativo COFEN 01/2024, que manteve a mesma divisão. Características do serviço de saúde: missão, porte, política de gestão de pessoas, recursos materiais e financeiros, tipos de serviços e programas. Do serviço de enfermagem: dinâmica das unidades, modelos gerencial e assistencial, jornada, padrões de desempenho, índice de segurança técnica (IST, no mínimo 15%) e proporção de nível superior e médio. Do paciente: grau de dependência pelo SCP e realidade sociocultural, econômica e financeira.",
+"porAlt": [
+"Errada: tipos de serviços e programas são característica do serviço de saúde.",
+"Errada: recursos materiais e financeiros são característica do serviço de saúde.",
+"Errada: a realidade sociocultural é característica relativa ao paciente.",
+"Errada: a política de pessoal, hoje política de gestão de pessoas, é característica do serviço de saúde.",
+"Correta: o índice de segurança técnica integra as características do serviço de enfermagem no Parecer Normativo 01/2024."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2022,
+"prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+"n": 50,
+"parte": "especificas"
+}
+},
+{
+"q": "Estão incluídas no campo de atuação do Sistema Único de Saúde (SUS), a execução das ações de:",
+"alts": [
+"acesso e permanência na escola especial;",
+"reabilitação das crianças e adolescentes carentes;",
+"níveis elevados do ensino, da pesquisa de cada da comunidade;",
+"atendimento especializado nas instituições privadas;",
+"assistência terapêutica integral, inclusive farmacêutica."
+],
+"gab": 4,
+"tema": "sus",
+"sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Lei 8.080/1990, art. 6º, I, d",
+"coment": "O art. 6º da Lei 8.080/1990 lista o campo de atuação do SUS. No inciso I estão a execução de ações de vigilância sanitária, vigilância epidemiológica, saúde do trabalhador e assistência terapêutica integral, inclusive farmacêutica (alínea d) e, desde a Lei 14.572/2023, saúde bucal (alínea e). Os outros incisos trazem saneamento básico, recursos humanos, vigilância nutricional, meio ambiente, medicamentos e insumos, sangue e derivados, fiscalização de produtos e desenvolvimento científico. Educação especial e assistência social são campos de outras políticas.",
+"porAlt": [
+"Errada: acesso e permanência na escola especial são da política de educação, não do campo do SUS.",
+"Errada: a reabilitação é ação de saúde, mas o texto limitado a crianças carentes não corresponde à lei.",
+"Errada: a alternativa não corresponde a nenhum inciso do art. 6º e mistura ensino com atuação do SUS.",
+"Errada: o SUS pode contratar o setor privado de forma complementar, mas atendimento em instituição privada não é campo de atuação.",
+"Correta: a assistência terapêutica integral, inclusive farmacêutica, está no art. 6º, I, d, da Lei 8.080/1990."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2024,
+"prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+"n": 11,
+"parte": "politicas"
+}
+},
+{
+"q": "O conjunto de ações e serviços de saúde, prestadas por órgãos e instituições públicas federais, estaduais e municipais, da Administração direta e indireta e das fundações mantidas pelo poder público, constitui o Sistema Único de Saúde (SUS). A iniciativa privada poderá participar do Sistema Único de Saúde (SUS) em caráter:",
+"alts": [
+"complementar;",
+"universal;",
+"fiscalizador;",
+"assistencial;",
+"Regulador."
+],
+"gab": 0,
+"tema": "sus",
+"sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Lei 8.080/1990, art. 4º, § 2º, e Constituição Federal de 1988, art. 199, § 1º",
+"coment": "O enunciado reproduz o art. 4º da Lei 8.080/1990, que define o SUS como o conjunto de ações e serviços prestados por órgãos e instituições públicas das três esferas, da administração direta e indireta e das fundações mantidas pelo poder público. O § 2º completa: a iniciativa privada poderá participar do SUS em caráter complementar. A Constituição (art. 199, § 1º) e os arts. 24 a 26 da lei detalham: contrato de direito público ou convênio, preferência às filantrópicas e sem fins lucrativos, e só quando a rede pública for insuficiente.",
+"porAlt": [
+"Correta: o art. 4º, § 2º, da Lei 8.080/1990 prevê participação da iniciativa privada em caráter complementar.",
+"Errada: universalidade é princípio do acesso ao SUS, não a forma de participação do setor privado.",
+"Errada: fiscalizar é papel do poder público sobre os serviços, inclusive os privados contratados.",
+"Errada: a participação privada é assistencial no conteúdo, mas a lei a qualifica como complementar.",
+"Errada: a regulação é competência dos gestores públicos, não da iniciativa privada."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2024,
+"prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+"n": 12,
+"parte": "politicas"
+}
+},
+{
+"q": "A organização básica das ações e serviços de saúde, quanto à direção, gestão, competências e atribuições de cada esfera de governo no Sistema Único de Saúde (SUS) foram detalhadas pelas leis:",
+"alts": [
+"8080/90 e 6360/76;",
+"8080/90 e 8142/90;",
+"8142/90 e 8213/91;",
+"8896/94 e 8142/90;",
+"6369/76 e 8080/90;"
+],
+"gab": 1,
+"tema": "sus",
+"sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Lei 8.080/1990 e Lei 8.142/1990",
+"coment": "As Leis Orgânicas da Saúde são duas, ambas de 1990. A Lei 8.080 dispõe sobre as condições para promoção, proteção e recuperação da saúde e sobre a organização e o funcionamento dos serviços: direção única em cada esfera, competências da União, estados e municípios, princípios e diretrizes. A Lei 8.142 trata da participação da comunidade na gestão do SUS (conferências e conselhos de saúde) e das transferências intergovernamentais de recursos, com os requisitos para recebê-los. A Lei 6.360/1976 é da vigilância sanitária de medicamentos, e a 8.213/1991 é da Previdência.",
+"porAlt": [
+"Errada: a Lei 6.360/1976 trata da vigilância sanitária de medicamentos e produtos, não da organização do SUS.",
+"Correta: as Leis 8.080/1990 e 8.142/1990 são as Leis Orgânicas da Saúde que organizam o SUS.",
+"Errada: a Lei 8.213/1991 dispõe sobre os planos de benefícios da Previdência Social.",
+"Errada: a Lei 8.896/1994 não é lei orgânica da saúde; só a 8.142/1990 está correta no par.",
+"Errada: a Lei 6.369/1976 não organiza o SUS, criado em 1988; só a 8.080/1990 está correta no par."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2024,
+"prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+"n": 13,
+"parte": "politicas"
+}
+},
+{
+"q": "O Decreto Presidencial nº 7.508/2011 define o processo de planejamento da saúde no Sistema Único de Saúde (SUS), definindo que deve ser:",
+"alts": [
+"ascendente e integrado, do nível local até o federal, ouvindo os respectivos Conselhos de Saúde;",
+"é obrigatório para a iniciativa privada e será indutor de políticas para os entes públicos;",
+"é competência da Comissão Intergestores Tripartite pactuar as etapas do processo e os prazos do planejamento municipal;",
+"ascendente, do nível local até o federal, ouvindo os respectivos Conselhos de Saúde;",
+"no planejamento são considerados os serviços e ações desenvolvidas pelo setor público sem levar em consideração a iniciativa privada."
+],
+"gab": 0,
+"tema": "sus",
+"sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Decreto 7.508/2011, arts. 15, 16 e 19",
+"coment": "O art. 15 do Decreto 7.508/2011 diz que o planejamento da saúde é ascendente e integrado, do nível local até o federal, ouvidos os respectivos Conselhos de Saúde, compatibilizando necessidades e recursos. O § 1º diz que ele é obrigatório para os entes públicos e indutor de políticas para a iniciativa privada. O art. 16 manda considerar os serviços privados, complementares ou não ao SUS. O art. 19 dá à Comissão Intergestores Bipartite, e não à Tripartite, a pactuação das etapas e prazos do planejamento municipal. A alternativa que omite integrado é cópia incompleta do caput.",
+"porAlt": [
+"Correta: é o texto do art. 15, planejamento ascendente e integrado, do nível local ao federal, ouvidos os Conselhos de Saúde.",
+"Errada: inverte o § 1º, que torna o planejamento obrigatório para os entes públicos e indutor para a iniciativa privada.",
+"Errada: pelo art. 19, quem pactua etapas e prazos do planejamento municipal é a CIB, não a CIT.",
+"Errada como resposta: omite o termo integrado do art. 15; a banca exigiu a definição completa.",
+"Errada: o art. 16 manda considerar no planejamento os serviços prestados pela iniciativa privada."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2024,
+"prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+"n": 14,
+"parte": "politicas"
+}
+},
+{
+"q": "São Portas de Entrada às ações e aos serviços de saúde nas Redes de Atenção à Saúde os serviços definidos no Decreto Presidencial nº 7.508/2011:",
+"alts": [
+"atenção hospitalar;",
+"ambulatórios especializados;",
+"atenção primária;",
+"distritos sanitários indígenas;",
+"conselhos de saúde;"
+],
+"gab": 2,
+"tema": "sus",
+"sub": "Redes de Atenção à Saúde",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Decreto 7.508/2011, art. 9º",
+"coment": "O art. 9º do Decreto 7.508/2011 define as Portas de Entrada às ações e serviços de saúde nas Redes de Atenção: atenção primária, atenção de urgência e emergência, atenção psicossocial e serviços especiais de acesso aberto. A partir delas o usuário é referenciado à atenção ambulatorial especializada e hospitalar (art. 10). A atenção primária, além de porta de entrada, ordena o acesso universal e igualitário (art. 11). Conselho de saúde é instância de controle social, não serviço assistencial.",
+"porAlt": [
+"Errada: a atenção hospitalar é referenciada a partir das portas de entrada (art. 10), não é porta de entrada.",
+"Errada: os ambulatórios especializados também recebem o usuário por referência das portas de entrada.",
+"Correta: a atenção primária é a primeira das portas de entrada listadas no art. 9º do Decreto 7.508/2011.",
+"Errada: os DSEI organizam a saúde indígena, mas não constam como porta de entrada no art. 9º.",
+"Errada: conselhos de saúde são instâncias de controle social, não serviços de atendimento."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2024,
+"prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+"n": 15,
+"parte": "politicas"
+}
+},
+{
+"q": "“O processo contínuo e sistemático de coleta, consolidação, análise de dados e disseminação de informações sobre eventos relacionados à saúde, visando o planejamento e a implementação de medidas de saúde pública, incluindo a regulação, intervenção e atuação em condicionantes e determinantes da saúde, para a proteção e promoção da saúde da população, prevenção e controle de riscos, agravos e doenças”. O conceito apresentado refere-se a:",
+"alts": [
+"evento sentinela;",
+"vigilância ambiental;",
+"vigilância em saúde;",
+"vigilância epidemiológica;",
+"vigilância nacional de agravos sanitários."
+],
+"gab": 2,
+"tema": "coletiva",
+"sub": "Vigilância epidemiológica e notificação compulsória",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde), art. 2º",
+"coment": "A definição é a de vigilância em saúde da Política Nacional de Vigilância em Saúde (Resolução CNS 588/2018, art. 2º), que repete a da Portaria GM/MS 1.378/2013: processo contínuo e sistemático de coleta, consolidação, análise e disseminação de dados sobre eventos de saúde, para planejar e implementar medidas de saúde pública, atuando inclusive sobre condicionantes e determinantes. A vigilância em saúde é o conceito amplo que abrange as vigilâncias epidemiológica, sanitária, ambiental e em saúde do trabalhador e a promoção da saúde.",
+"porAlt": [
+"Errada: evento sentinela é a ocorrência evitável que sinaliza falha no sistema, não um processo de vigilância.",
+"Errada: a vigilância ambiental é um dos componentes da vigilância em saúde, voltada aos fatores do meio ambiente.",
+"Correta: é a definição de vigilância em saúde do art. 2º da Política Nacional de Vigilância em Saúde.",
+"Errada: a vigilância epidemiológica é componente mais restrito, definido no art. 6º, § 2º, da Lei 8.080/1990.",
+"Errada: não existe na legislação uma vigilância nacional de agravos sanitários com esse conceito."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2024,
+"prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+"n": 16,
+"parte": "politicas"
+}
+},
+{
+"q": "Sistemas de Informação em Saúde (SIS) são instrumentos que, por meio do processamento de dados coletados em serviços de saúde e outros locais, dão suporte à produção de informações para a melhor compreensão dos problemas e tomada de decisão no âmbito das políticas e do cuidado em saúde. Sobre o tema, a alternativa correta é:",
+"alts": [
+"o sistema de informações sobre mortalidade coleta, transmite e dissemina dados gerados rotineiramente pelo sistema de vigilância epidemiológica, nas três esferas de governo;",
+"o sistema de informações em saúde da atenção básica e o e-SUS é uma estratégia que faz referência ao processo de informatização qualificada do SUS em busca de um SUS eletrônico;",
+"o sistema de pactuação dos indicadores traz informações sobre os indicadores de mortalidade, permitindo o registro de metas pactuadas pelos municípios;",
+"o sistema de informações sobre orçamentos públicos em saúde coleta, armazena e analisa as informações de gestão do trabalho para formulação de políticas de gestão;",
+"o sistema do cadastro nacional de estabelecimentos de saúde registra apenas as equipes de saúde da família e de agentes comunitários de saúde."
+],
+"gab": 1,
+"tema": "coletiva",
+"sub": "Sistemas de informação em saúde",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Portaria GM/MS 1.412/2013 (institui o SISAB e a estratégia e-SUS AB)",
+"coment": "A Portaria GM/MS 1.412/2013 instituiu o Sistema de Informação em Saúde para a Atenção Básica (SISAB), operado pela estratégia e-SUS AB, que faz referência ao processo de informatização qualificada do SUS em busca de um SUS eletrônico, com registro individualizado pelo CDS e pelo prontuário eletrônico (PEC). As outras trocam as funções dos sistemas: quem coleta e dissemina dados da vigilância epidemiológica é o SINAN; o SISPACTO registra metas de todos os indicadores pactuados; o SIOPS trata de orçamento público em saúde; e o CNES cadastra todos os estabelecimentos e profissionais.",
+"porAlt": [
+"Errada: essa é a descrição do SINAN; o SIM registra os óbitos a partir da Declaração de Óbito.",
+"Correta: o SISAB com a estratégia e-SUS AB é o processo de informatização qualificada do SUS em busca de um SUS eletrônico.",
+"Errada: o sistema de pactuação registra metas de indicadores de várias áreas, não só de mortalidade.",
+"Errada: o SIOPS acompanha receitas e despesas públicas em saúde, não a gestão do trabalho.",
+"Errada: o CNES cadastra todos os estabelecimentos de saúde, públicos e privados, e suas equipes."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2024,
+"prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+"n": 17,
+"parte": "politicas"
+}
+},
+{
+"q": "As redes de atenção à saúde são mecanismos que qualificam as demandas em níveis de atenção, otimizam e organizam o sistema frente às necessidades de saúde da população. São fundamentos utilizados para sua efetivação de forma eficiente e com qualidade:",
+"alts": [
+"economia de escala e serviços especializados;",
+"mecanismos de coordenação e níveis de atenção;",
+"processos de substituição e integração horizontal;",
+"integração vertical e participação social;",
+"sistema de governança único e região de saúde."
+],
+"gab": 2,
+"tema": "sus",
+"sub": "Redes de Atenção à Saúde",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Portaria GM/MS 4.279/2010 (diretrizes da RAS), consolidada na PRC 3/2017, Anexo I",
+"coment": "A Portaria GM/MS 4.279/2010 lista os fundamentos da Rede de Atenção à Saúde: economia de escala, disponibilidade de recursos, qualidade e acesso; integração horizontal e vertical; processos de substituição; região de saúde ou abrangência; e níveis de atenção. Processos de substituição (reagrupar recursos para fazer o cuidado no lugar e com o custo mais adequados) e integração horizontal (articular unidades da mesma natureza) são os dois fundamentos pedidos. Sistema de governança único é atributo da rede, não fundamento.",
+"porAlt": [
+"Errada: economia de escala é fundamento, mas serviços especializados não estão entre eles.",
+"Errada: níveis de atenção é fundamento, mas mecanismos de coordenação não constam da lista de fundamentos.",
+"Correta: processos de substituição e integração horizontal são fundamentos da RAS na Portaria 4.279/2010.",
+"Errada: integração vertical é fundamento, mas participação social é atributo ligado à governança, não fundamento.",
+"Errada: região de saúde é fundamento, mas sistema de governança único é atributo da RAS."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2024,
+"prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+"n": 18,
+"parte": "politicas"
+}
+},
+{
+"q": "A governança das Redes de Atenção à Saúde no Sistema Único de Saúde deve ser feita:",
+"alts": [
+"comissões locais de saúde;",
+"conselho dos secretários estaduais de saúde;",
+"comissões intersetoriais e de planejamento;",
+"comissões intergestores tripartite, bipartite e regionais;",
+"conselho nacional de saúde."
+],
+"gab": 3,
+"tema": "sus",
+"sub": "Redes de Atenção à Saúde",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Portaria GM/MS 4.279/2010, consolidada na PRC 3/2017, e Decreto 7.508/2011, arts. 30 a 32",
+"coment": "A governança da Rede de Atenção à Saúde é a capacidade de intervenção que envolve os atores e as estruturas de gestão das três esferas. No SUS ela se exerce nas comissões intergestores: Tripartite (CIT, nacional), Bipartite (CIB, estadual) e Regional (CIR, criada pelo Decreto 7.508/2011 no lugar dos antigos Colegiados de Gestão Regional). Essas comissões pactuam a organização e o funcionamento das ações e serviços integrados em rede. Conselhos de saúde fazem controle social, e o CONASS só representa os estados.",
+"porAlt": [
+"Errada: comissões locais de saúde são instâncias de participação, não de governança interfederativa da rede.",
+"Errada: o CONASS representa os secretários estaduais, mas sozinho não exerce a governança da RAS.",
+"Errada: comissões intersetoriais assessoram os conselhos de saúde, sem papel de pactuação entre gestores.",
+"Correta: a governança das RAS se exerce nas comissões intergestores tripartite, bipartite e regionais.",
+"Errada: o Conselho Nacional de Saúde é instância de controle social, não de governança da rede."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2024,
+"prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+"n": 19,
+"parte": "politicas"
+}
+},
+{
+"q": "São impactos identificados quando da implementação de Redes de Atenção à Saúde:",
+"alts": [
+"diminuição de produtividade;",
+"produção de uma oferta fixa de atenção geral e especializada;",
+"descontentamento dos usuários;",
+"aumento no tempo de permanência hospitalar;",
+"continuidade da atenção, gerando uma maior efetividade clínica."
+],
+"gab": 4,
+"tema": "sus",
+"sub": "Redes de Atenção à Saúde",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Portaria GM/MS 4.279/2010 (diretrizes da RAS), consolidada na PRC 3/2017, Anexo I",
+"coment": "A Portaria GM/MS 4.279/2010 justifica a organização em redes pela fragmentação da atenção e cita evidências de que as RAS melhoram a qualidade clínica, os resultados sanitários e a satisfação dos usuários e reduzem custos. Entre os efeitos esperados estão a continuidade da atenção, com maior efetividade clínica, a redução do tempo de permanência hospitalar, o uso racional dos recursos e o aumento da produtividade. As alternativas erradas listam o contrário desses impactos, e a oferta deixa de ser fixa para se ajustar às necessidades da população.",
+"porAlt": [
+"Errada: a rede tende a aumentar a produtividade, por economia de escala e melhor uso dos recursos.",
+"Errada: a oferta na RAS se organiza pela necessidade da população, não de forma fixa.",
+"Errada: as evidências citadas na portaria mostram maior satisfação dos usuários.",
+"Errada: a coordenação do cuidado reduz o tempo de permanência hospitalar, não o aumenta.",
+"Correta: a continuidade da atenção, com maior efetividade clínica, é impacto esperado das RAS."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2024,
+"prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+"n": 20,
+"parte": "politicas"
+}
+},
+{
+"q": "Sobre o tema modelos assistenciais em saúde é correto afirmar que:",
+"alts": [
+"o modelo médico-assistencial privatista é aquele que privilegia o atendimento individual e curativo prestado pelo médico e outros profissionais da saúde;",
+"o modelo de vigilância em saúde é constituído pelas campanhas e programas de saúde pública voltados ao controle de doenças;",
+"o modelo denominado médico-assistencial privatista é considerado o mais resolutivo frente às demandas de saúde da população devido ao seu caráter tecnicista;",
+"o modelo de vigilância em saúde não leva em consideração os determinantes sociais que afetam as pessoas;",
+"o modelo sanitarista privilegia o atendimento individual e curativo, prestado pelo médico e outros profissionais da saúde."
+],
+"gab": 0,
+"tema": "sus",
+"sub": "Financiamento e gestão do SUS",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Paim JS, Modelos de atenção à saúde no Brasil, em Políticas e Sistema de Saúde no Brasil (Fiocruz, 2008)",
+"coment": "Na classificação de Jairnilson Paim, o modelo médico-assistencial privatista é centrado na demanda espontânea, no atendimento individual e curativo e no hospital, e não alcança os problemas que não geram procura. O modelo sanitarista atua por campanhas e programas especiais de controle de doenças. A vigilância da saúde é proposta alternativa, que trabalha sobre o território e os determinantes sociais, integrando promoção, prevenção e assistência. Nenhum dos modelos hegemônicos é considerado o mais resolutivo.",
+"porAlt": [
+"Correta: o modelo médico-assistencial privatista privilegia o atendimento individual e curativo.",
+"Errada: campanhas e programas de controle de doenças caracterizam o modelo sanitarista, não a vigilância da saúde.",
+"Errada: o modelo privatista não é o mais resolutivo; ignora necessidades que não chegam como demanda.",
+"Errada: a vigilância da saúde atua justamente sobre os determinantes sociais no território.",
+"Errada: o modelo sanitarista age por campanhas e programas coletivos, não pelo atendimento individual curativo."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2024,
+"prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+"n": 21,
+"parte": "politicas"
+}
+},
+{
+"q": "A Portaria nº 2.436/2017 aprova a Política Nacional de Atenção Básica, estabelecendo a revisão de diretrizes para a organização da Atenção Básica, no âmbito do Sistema Único de Saúde (SUS). Sobre o tema é correto afirmar que:",
+"alts": [
+"a Política Nacional de Atenção Básica considera os termos Atenção Básica (AB) e Atenção Primária à Saúde (APS), nas atuais concepções, como termos diferentes, de forma a diferenciar ambas conforme os princípios e as diretrizes definidas;",
+"a Atenção Básica é o conjunto de ações de saúde individuais, familiares e coletivas que envolvem promoção, prevenção, proteção, diagnóstico, tratamento, realizada com equipe multiprofissional e dirigida à população em território definido, sobre as quais as equipes assumem responsabilidade sanitária.",
+"a Atenção Básica será a principal porta de entrada e centro de comunicação da Rede de Atenção à Saúde, coordenadora do cuidado e ordenadora das ações e serviços disponibilizados na rede;",
+"a Atenção Básica será ofertada integralmente e gratuitamente a todas as pessoas, de acordo com suas necessidades e demandas do território, considerando sua condição financeira;",
+"a Atenção Básica considera as famílias em sua singularidade e inserção financeira, buscando produzir a atenção integral, incorporar as ações de vigilância em saúde para a proteção, a prevenção e o controle de riscos, agravos e doenças, bem como para a promoção da saúde."
+],
+"gab": 2,
+"tema": "sus",
+"sub": "Política Nacional de Atenção Básica",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo, art. 2º",
+"coment": "O art. 2º, § 1º, da PNAB (Portaria 2.436/2017) diz que a Atenção Básica será a principal porta de entrada e centro de comunicação da Rede de Atenção à Saúde, coordenadora do cuidado e ordenadora das ações e serviços disponibilizados na rede. A mesma política considera Atenção Básica e Atenção Primária termos equivalentes e manda ofertar a AB integral e gratuitamente a todos, considerando os determinantes e condicionantes de saúde, não a condição financeira. A definição do caput inclui ainda reabilitação, redução de danos, cuidados paliativos e vigilância em saúde, omitidos em uma das alternativas.",
+"porAlt": [
+"Errada: a PNAB considera Atenção Básica e Atenção Primária à Saúde termos equivalentes.",
+"Errada como resposta: a definição foi cortada, sem reabilitação, redução de danos, cuidados paliativos e vigilância em saúde.",
+"Correta: reproduz o art. 2º, § 1º, da PNAB, porta de entrada preferencial, coordenadora do cuidado e ordenadora da rede.",
+"Errada: a oferta considera os determinantes e condicionantes de saúde, nunca a condição financeira do usuário.",
+"Errada: a PNAB considera a inserção sociocultural das famílias, não a inserção financeira."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2024,
+"prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+"n": 23,
+"parte": "politicas"
+}
+},
+{
+"q": "A Rede de Atenção às Urgências e Emergências tem como objetivo reordenar a atenção à saúde em situações de urgência e emergência de forma coordenada entre os diferentes pontos de atenção que a compõe, de forma a melhor organizar a assistência, definindo fluxos e as referências adequadas. São seus componentes:",
+"alts": [
+"atenção domiciliar, SAMU 192, Sala de Estabilização, Força Nacional do SUS, UPA 24h;",
+"pronto Socorro, Unidade Básica Ampliada, Central de Regulação de Vagas, SAMU 192;",
+"atendimento Pré-Hospitalar, Triagem, Unidade Coronariana, Unidade de Traumatologia;",
+"triagem, Urgência Pediátrica, UTI, Unidade de Radiologia;",
+"sala de Classificação de Risco, Pronto Atendimento, Regulação de Leitos, Unidade Coronariana."
+],
+"gab": 0,
+"tema": "urgencia",
+"sub": "Atendimento pré-hospitalar",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Portaria GM/MS 1.600/2011 (Rede de Atenção às Urgências), consolidada na PRC 3/2017, Anexo III",
+"coment": "A Rede de Atenção às Urgências e Emergências, instituída pela Portaria GM/MS 1.600/2011 e hoje no Anexo III da PRC 3/2017, tem como componentes: promoção, prevenção e vigilância à saúde; atenção básica; SAMU 192 e suas centrais de regulação médica; sala de estabilização; Força Nacional de Saúde do SUS; UPA 24h e o conjunto de serviços de urgência 24 horas; componente hospitalar; e atenção domiciliar. A alternativa correta traz cinco componentes oficiais. Triagem, unidade coronariana ou radiologia isoladas não são componentes da rede.",
+"porAlt": [
+"Correta: atenção domiciliar, SAMU 192, sala de estabilização, Força Nacional do SUS e UPA 24h são componentes da RUE.",
+"Errada: unidade básica ampliada e central de regulação de vagas não aparecem com esses nomes entre os componentes.",
+"Errada: triagem, unidade coronariana e de traumatologia não são componentes listados na portaria.",
+"Errada: triagem, UTI e radiologia são serviços internos, não componentes da rede.",
+"Errada: classificação de risco é processo de acolhimento, e unidade coronariana não é componente da RUE."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2024,
+"prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+"n": 24,
+"parte": "politicas"
+}
+},
+{
+"q": "A Educação Permanente em Saúde (EPS) é definida como prática de ensino-aprendizagem no trabalho, pelo trabalho e para o trabalho e apresenta como característica:",
+"alts": [
+"pedagogia centrada na transmissão;",
+"prática institucionalizada;",
+"atualização de conhecimento;",
+"prática autônoma;",
+"ação esporádica."
+],
+"gab": 1,
+"tema": "sus",
+"sub": "Educação permanente em saúde",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Portaria GM/MS 1.996/2007 (Política Nacional de Educação Permanente em Saúde)",
+"coment": "A Educação Permanente em Saúde, base da política instituída pela Portaria GM/MS 1.996/2007, é aprendizagem no trabalho, a partir dos problemas reais do serviço, e por isso é prática institucionalizada, articulada à gestão e ao controle social. Na comparação clássica com a educação continuada, esta é que tem prática autônoma (iniciativa individual), pedagogia centrada na transmissão de conteúdo, objetivo de atualização técnico-científica e ações esporádicas. A EPS é contínua, problematizadora e voltada à transformação das práticas.",
+"porAlt": [
+"Errada: pedagogia centrada na transmissão é marca da educação continuada; a EPS é problematizadora.",
+"Correta: a EPS é prática institucionalizada, ligada à gestão do serviço e ao processo de trabalho.",
+"Errada: a atualização de conhecimento é o objetivo da educação continuada; a EPS visa transformar as práticas.",
+"Errada: a prática autônoma, por iniciativa individual, caracteriza a educação continuada.",
+"Errada: ação esporádica é traço da educação continuada; a EPS é contínua."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2024,
+"prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+"n": 25,
+"parte": "politicas"
+}
+},
+{
+"q": "Em relação às equipes multiprofissionais (eMulti) são tipos criadas pela Portaria nº 635/2023:",
+"alts": [
+"equipe Multiprofissional Ampliada - eMulti Ampliada – tendo a possibilidade de ser interestadual;",
+"equipe Multiprofissional Suplementar - eMulti Suplementar;",
+"equipe Multiprofissional Estratégica - eMulti Estratégica;",
+"equipe Multiprofissional Ampliada - eMulti Ampliada – tendo a possibilidade de ser internacional;",
+"equipe Multiprofissional Saúde da Família - eMulti Saúde da Família."
+],
+"gab": 2,
+"tema": "sus",
+"sub": "Política Nacional de Atenção Básica",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Portaria GM/MS 635/2023 (equipes Multiprofissionais na APS, eMulti)",
+"coment": "A Portaria GM/MS 635/2023 criou as equipes Multiprofissionais na Atenção Primária à Saúde (eMulti), que substituem o antigo NASF, em três modalidades definidas pela carga horária e pelo número de equipes vinculadas: eMulti Ampliada, eMulti Complementar e eMulti Estratégica. Elas atuam junto às equipes de Saúde da Família e de Atenção Primária do município e admitem atendimento remoto. Não existe eMulti Suplementar nem eMulti Saúde da Família, e a Ampliada não tem modalidade interestadual nem internacional.",
+"porAlt": [
+"Errada: a eMulti Ampliada existe, mas a portaria não prevê atuação interestadual.",
+"Errada: a modalidade é Complementar, não Suplementar.",
+"Correta: a eMulti Estratégica é uma das três modalidades criadas pela Portaria 635/2023.",
+"Errada: a eMulti Ampliada existe, mas não há previsão de atuação internacional.",
+"Errada: eMulti Saúde da Família não é modalidade; as três são Ampliada, Complementar e Estratégica."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2024,
+"prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+"n": 26,
+"parte": "especificas"
+}
+},
+{
+"q": "De acordo com a Portaria nº 635/2023, são responsabilidades das equipes chamadas de eMulti:",
+"alts": [
+"o desenvolvimento da integralidade das ações de apoio comunitário;",
+"o desenvolvimento da integralidade das ações de comunicação e investigação de óbitos;",
+"o desenvolvimento da integralidade das ações de investigação epidemiológica;",
+"o desenvolvimento da integralidade das ações de atendimento compartilhados entre profissionais e equipes;",
+"o desenvolvimento da integralidade das ações de práticas multifatoriais."
+],
+"gab": 3,
+"tema": "sus",
+"sub": "Política Nacional de Atenção Básica",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Portaria GM/MS 635/2023 (equipes Multiprofissionais na APS, eMulti)",
+"coment": "A Portaria GM/MS 635/2023 atribui às eMulti ações que ampliam a integralidade do cuidado na APS, de forma complementar e integrada às equipes de Saúde da Família: atendimento individual, em grupo e domiciliar, atividades coletivas, apoio matricial, discussão de casos, atendimento compartilhado entre profissionais e equipes, ações de saúde a distância, construção conjunta de projetos terapêuticos e intervenções no território. Investigação epidemiológica e de óbitos é atribuição da vigilância em saúde, não o núcleo de trabalho das eMulti.",
+"porAlt": [
+"Errada: apoio comunitário não é a formulação da portaria para as ações das eMulti.",
+"Errada: comunicação e investigação de óbitos são atribuições da vigilância do óbito, não das eMulti.",
+"Errada: investigação epidemiológica cabe à vigilância em saúde, não às eMulti.",
+"Correta: o atendimento compartilhado entre profissionais e equipes está entre as ações das eMulti na Portaria 635/2023.",
+"Errada: práticas multifatoriais não é termo usado pela portaria para definir as ações das eMulti."
+],
+"fonte": {
+"banca": "IBADE",
+"ano": 2024,
+"prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+"n": 27,
 "parte": "especificas"
 }
 },

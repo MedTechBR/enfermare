@@ -1,0 +1,1410 @@
+[
+ {
+  "q": "Estabelecer procedimentos para a condução de todas as tarefas, de tal maneira que se reduzam ao mínimo possível os riscos e, consequentemente, os acidentes de qualquer tipo ou contaminação biológica. Para atingir esse objetivo, é necessário o apoio e cooperação de todos os colaboradores, sem distinção de nível hierárquico, na observância e cumprimento das Normas e Recomendações de Segurança. A manipulação, acondicionamento temporário e descarte de resíduos tóxicos e contaminados dos setores devem ser realizados segundo recomendação técnica da instituição e/ou órgão responsável no município, cidade ou estado. Em relação ao sistema de gerenciamento dos resíduos é INCORRETO afirmar:",
+  "alts": [
+   "as políticas públicas relacionadas aos resíduos são controladas pelo poder público, através de legislação específica da ANVISA.",
+   "a coleta dos resíduos comuns deve ser feita diariamente; a dos Resíduos de Serviços de Saúde, duas vezes por semana.",
+   "o processo de separação, assim como o processo de armazenamento dos resíduos, é feito através de quatro grupos: infectantes, químicos, comuns recicláveis, e os perfuro cortantes.",
+   "os sacos plásticos são identificados por cores e simbologia de riscos, e neles os resíduos são acondicionados de forma segura e transportados para o armazenamento para coleta externa e descarte final.",
+   "é preciso haver uma equipe responsável pela identificação e separação dos resíduos produzidos em cada setor por classes, de forma que os resíduos são separados por grau de contaminação conforme os grupos de classificação em lixeiras identificadas por etiquetas e produtos específicos."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 222/2018 (gerenciamento de resíduos de serviços de saúde), Anexo I",
+  "coment": "A RDC ANVISA 222/2018 classifica os resíduos de serviços de saúde em cinco grupos, não quatro: A (infectante), B (químico), C (radioativo), D (comum, equiparado ao domiciliar, incluindo o reciclável) e E (perfurocortante). A alternativa esqueceu o grupo C, e é essa a falsa pedida. O acondicionamento em saco identificado por cor e símbolo de risco, a separação na origem por grupo e a equipe responsável fazem parte do Plano de Gerenciamento (PGRSS). A frequência de coleta não é fixada em número pela RDC: o PGRSS e o serviço de limpeza urbana local a definem.",
+  "porAlt": [
+   "Errada como resposta: a gestão de RSS é regulada pelo poder público, com a RDC ANVISA 222/2018 como norma sanitária específica, ao lado da Resolução CONAMA 358/2005.",
+   "Errada como resposta: a banca a tratou como rotina institucional verdadeira; a RDC não fixa frequência, que é definida no PGRSS e pela coleta municipal.",
+   "Correta: a classificação tem cinco grupos (A, B, C, D e E); faltou o grupo C, dos rejeitos radioativos.",
+   "Errada como resposta: os sacos e recipientes são identificados por cor e simbologia de risco e seguem ao abrigo para coleta externa e destinação final.",
+   "Errada como resposta: a segregação na origem por grupo, em recipientes identificados e com equipe treinada, é exigência do PGRSS."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para a abertura de material estéril na S.O, o circulante de cirúrgica deve dar especial atenção às condições de esterilização dos pacotes com instrumentais, das caixas de instrumentais e outros suprimentos estéreis, observando especificamente a data de validade da esterilização e os indicadores de esterilização nos invólucros. Sobre a abertura de material estéril marque a alternativa INCORRETA.",
+  "alts": [
+   "Com as mãos na parte externa da embalagem, sempre levantar as abas do invólucro em sua direção para evitar contaminar o conteúdo do pacote.",
+   "A mão e o braço não devem passar por cima de qualquer parte do interior do invólucro que foi exposto, evitando cruzar o campo.",
+   "Ao desembrulhar o item, verifique os indicadores de esterilização para garantir que artigo passou pelo processo de esterilização.",
+   "A presença de recipientes para o descarte do lixo é obrigatória para evitar a contaminação do ambiente dentro e fora do serviço de saúde hospitalar.",
+   "Todos os itens devem ser abertos segurando o pacote longe do corpo e desembrulhando o item começando com a aba mais próxima ao corpo do profissional."
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "SOBECC, Diretrizes de práticas em enfermagem perioperatória e processamento de produtos para a saúde, 8ª ed. (2021)",
+  "coment": "Na abertura de pacote estéril, o circulante segura o pacote afastado do corpo e abre primeiro a aba mais distante, depois as laterais e por último a aba mais próxima de si. Começar pela aba próxima obriga a passar a mão e o braço por cima do conteúdo já exposto, o que contamina o campo. Por isso a alternativa que manda começar pela aba mais próxima é a incorreta. As demais descrevem a técnica asséptica: tocar só a face externa, não cruzar o campo, conferir o indicador químico e a integridade e validade do invólucro.",
+  "porAlt": [
+   "Errada como resposta: o circulante manuseia só a face externa e traz as abas em sua direção ao desdobrá-las, sem tocar o conteúdo.",
+   "Errada como resposta: não passar mão nem braço sobre o interior exposto é a regra que preserva a esterilidade do campo.",
+   "Errada como resposta: conferir o indicador químico ao abrir é parte da checagem de que o item passou pelo processo de esterilização.",
+   "Errada como resposta: a banca tratou como verdadeira a exigência de recipientes de descarte na sala, que integra o controle do ambiente.",
+   "Correta: a abertura começa pela aba mais distante do corpo; começar pela mais próxima faz o braço cruzar sobre o conteúdo estéril."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O profissional de enfermagem tem o dever de manter sigilo sobre fato de que tenha conhecimento em razão da atividade profissional, exceto nos casos previstos na legislação ou:",
+  "alts": [
+   "em situações de ameaça à vida e à dignidade, mediante autorização, na defesa própria.",
+   "para os órgãos de responsabilização criminal, mediante autorização, de casos de violência contra crianças e adolescentes.",
+   "por determinação judicial, ou quando for intimado como testemunha.",
+   "por determinação judicial, ou quando o fato for de conhecimento público, ou em caso de falecimento da pessoa envolvida.",
+   "por determinação judicial, ou com o consentimento escrito da pessoa envolvida ou de seu representante ou responsável legal."
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), art. 52",
+  "coment": "O caput do art. 52 do Código de Ética (Res. COFEN 564/2017) é literal: manter sigilo sobre fato conhecido em razão da atividade profissional, exceto nos casos previstos na legislação ou por determinação judicial, ou com o consentimento escrito da pessoa envolvida ou de seu representante ou responsável legal. Os parágrafos cobram o resto: o dever permanece se o fato é público e após a morte (§ 1º); o fato deve ser revelado em ameaça à vida e à dignidade, na defesa própria ou na equipe multiprofissional (§ 2º), sem exigir autorização; intimado como testemunha, comparece e declara o impedimento (§ 3º); violência contra criança e adolescente se comunica independentemente de autorização (§ 4º).",
+  "porAlt": [
+   "Errada: pelo § 2º, a revelação em ameaça à vida e à dignidade ou na defesa própria não depende de autorização.",
+   "Errada: o § 4º torna obrigatória a comunicação da violência contra criança e adolescente independentemente de autorização.",
+   "Errada: intimado como testemunha, o profissional comparece e declara seu impedimento de revelar o segredo (§ 3º).",
+   "Errada: o § 1º diz o oposto, o sigilo permanece quando o fato é de conhecimento público e após a morte da pessoa.",
+   "Correta: é o texto do caput do art. 52, com determinação judicial ou consentimento escrito da pessoa ou do representante legal."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em caso de suspeita de acidente vascular cerebral a conduta durante o transporte do paciente até a unidade hospitalar que NÃO deve ser tomada é:",
+  "alts": [
+   "manter posição Trendelemburg.",
+   "manter a permeabilidade das vias aéreas.",
+   "avaliar estado neurológico.",
+   "monitorar PA e oximetria de pulso.",
+   "ventilação adequada."
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Atendimento pré-hospitalar",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Protocolos de Intervenção para o SAMU 192, Suporte Básico de Vida (Ministério da Saúde, 2016)",
+  "coment": "No transporte do paciente com suspeita de AVC, as prioridades são as do ABC: via aérea pérvia, ventilação e oxigênio se a saturação estiver baixa, monitorização de pressão e oximetria, glicemia capilar e avaliação neurológica seriada com hora do início dos sintomas, para não perder a janela de trombólise. A cabeça fica alinhada, em posição neutra. A posição de Trendelenburg é contraindicada: aumenta a pressão intracraniana pelo prejuízo ao retorno venoso cerebral e eleva o risco de broncoaspiração em paciente que pode ter disfagia e rebaixamento.",
+  "porAlt": [
+   "Correta: Trendelenburg eleva a pressão intracraniana e favorece a broncoaspiração; a cabeça deve ficar em posição neutra.",
+   "Errada: manter a via aérea pérvia é a primeira medida, sobretudo no paciente com rebaixamento ou disfagia.",
+   "Errada: a avaliação neurológica seriada, com escala de AVC e hora do início, é obrigatória no transporte.",
+   "Errada: monitorar pressão arterial e oximetria guia a oxigenoterapia e o manejo pressórico até o hospital.",
+   "Errada: garantir ventilação adequada evita hipóxia, que agrava a lesão cerebral isquêmica."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A gravidade dos traumatismos abdominais baseia-se especialmente na possível existência de uma lesão visceral, capaz de produzir alterações gerais graves como são as peritonites ou as hemorragias. São medidas a serem tomadas para minimizar os danos do estado de choque em decorrência do trauma abdominal, EXCETO:",
+  "alts": [
+   "ministrar oxigênio a 12 ou 15 litros por minuto.",
+   "em caso de evisceração tentar reintroduzir as vísceras no abdômen.",
+   "desobstruir as vias aéreas permitindo boa ventilação.",
+   "aquecer a vítima evitando a hipotermia, que agrava o estado de choque.",
+   "elevar os membros inferiores (posição de choque)."
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Protocolos de Intervenção para o SAMU 192, Suporte Básico de Vida (Ministério da Saúde, 2016)",
+  "coment": "Na evisceração, as vísceras nunca são reintroduzidas na cavidade: a manobra contamina o peritônio e pode lesar alças e vasos. A conduta é cobri-las com compressa estéril umedecida em soro fisiológico, sem pressão, e transportar com rapidez. As demais medidas atacam o choque: via aérea livre, oxigênio em alto fluxo por máscara com reservatório (10 a 15 L/min) e prevenção da hipotermia, que piora a coagulopatia. A elevação dos membros inferiores aparece como medida aceita pela banca, embora no trauma ela não substitua o controle da hemorragia e seja evitada se houver suspeita de fratura de pelve ou de membros.",
+  "porAlt": [
+   "Errada: oxigênio em alto fluxo por máscara com reservatório faz parte do manejo inicial do choque no trauma.",
+   "Correta: vísceras expostas não se reintroduzem; cobrem-se com compressa estéril úmida com soro fisiológico.",
+   "Errada: desobstruir a via aérea e garantir ventilação é a primeira etapa do atendimento ao traumatizado.",
+   "Errada: aquecer a vítima evita a hipotermia, que agrava a coagulopatia e o choque hemorrágico.",
+   "Errada como resposta: a banca aceitou a posição de choque, que no trauma se usa com cautela e nunca com suspeita de fratura pélvica."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A saúde é um direito garantido dos artigos 196 a 200 da nossa Constituição Federal Brasileira. Sobre essa garantia constitucional está INCORRETO o que se afirma em:",
+  "alts": [
+   "As instituições públicas poderão participar de forma complementar do sistema único de saúde, segundo diretrizes deste, mediante contrato de direito público ou convênio, tendo preferência as entidades filantrópicas e as sem fins lucrativos.",
+   "Os gestores locais do sistema único de saúde poderão admitir agentes comunitários de saúde e agentes de combate às endemias por meio de processo seletivo público, de acordo com a natureza e complexidade de suas atribuições e requisitos específicos para sua atuação.",
+   "A lei disporá sobre as condições e os requisitos que facilitem a remoção de órgãos, tecidos e substâncias humanas para fins de transplante, pesquisa e tratamento, bem como a coleta, processamento e transfusão de sangue e seus derivados, sendo vedado todo tipo de comercialização.",
+   "Ao sistema único de saúde compete fiscalizar e inspecionar alimentos, compreendido o controle de seu teor nutricional, bem como bebidas e águas para consumo humano.",
+   "O atendimento integral, com prioridade para as atividades preventivas, sem prejuízo dos serviços assistenciais é uma diretriz das ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema único."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, arts. 198 a 200",
+  "coment": "O art. 199, § 1º, da Constituição diz que as instituições PRIVADAS poderão participar de forma complementar do SUS, segundo suas diretrizes, mediante contrato de direito público ou convênio, com preferência às entidades filantrópicas e às sem fins lucrativos. Trocar privadas por públicas torna a frase falsa: as públicas são o próprio SUS. As outras alternativas reproduzem o art. 198, § 4º (ACS e ACE por processo seletivo público, EC 51/2006), o art. 199, § 4º (vedação da comercialização de órgãos e sangue), o art. 200, VI (fiscalizar alimentos, bebidas e águas) e o art. 198, II (atendimento integral).",
+  "porAlt": [
+   "Correta: o art. 199, § 1º, fala em instituições privadas, não públicas, participando de forma complementar.",
+   "Errada como resposta: é o art. 198, § 4º, incluído pela EC 51/2006, sobre ACS e ACE por processo seletivo público.",
+   "Errada como resposta: reproduz o art. 199, § 4º, que veda todo tipo de comercialização de órgãos, tecidos e sangue.",
+   "Errada como resposta: é competência do SUS prevista no art. 200, VI, incluindo o controle do teor nutricional.",
+   "Errada como resposta: o atendimento integral com prioridade preventiva é a diretriz do art. 198, II."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 26,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O conjunto de ações que proporcionam o conhecimento, a detecção ou prevenção de qualquer mudança nos fatores determinantes e condicionantes de saúde individual ou coletiva, com a finalidade de recomendar e adotar as medidas de prevenção e controle das doenças ou agravos é o conceito aplicado a:",
+  "alts": [
+   "Vigilância sanitária.",
+   "Vigilância em saúde do trabalhador.",
+   "Vigilância epidemiológica.",
+   "Vigilância alimentar.",
+   "Vigilância de epizootias."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 6º, § 2º",
+  "coment": "O conceito é o do art. 6º, § 2º, da Lei 8.080/1990: vigilância epidemiológica é o conjunto de ações que proporcionam o conhecimento, a detecção ou prevenção de qualquer mudança nos fatores determinantes e condicionantes da saúde individual ou coletiva, para recomendar e adotar medidas de prevenção e controle das doenças ou agravos. A vigilância sanitária (§ 1º) elimina, diminui ou previne riscos decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços. A saúde do trabalhador está no § 3º.",
+  "porAlt": [
+   "Errada: a vigilância sanitária, no § 1º, atua sobre riscos de bens, serviços e meio ambiente, não sobre determinantes de doenças.",
+   "Errada: a saúde do trabalhador (§ 3º) trata da promoção, proteção e recuperação de quem está exposto a riscos do trabalho.",
+   "Correta: é a definição literal do art. 6º, § 2º, da Lei 8.080/1990 para vigilância epidemiológica.",
+   "Errada: vigilância alimentar e nutricional é ação do SUS (art. 6º, IV), mas não corresponde a esse conceito.",
+   "Errada: a vigilância de epizootias monitora adoecimento e morte de animais como alerta, não esse conjunto amplo de ações."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 27,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Ter Comissão de elaboração do Plano de Carreira, Cargos e Salários (PCCS) é uma recomendação aos Municípios, os Estados e o Distrito Federal para:",
+  "alts": [
+   "Participarem do Conselho Nacional de Secretários de Saúde.",
+   "Se tornarem municípios plenos.",
+   "Integrarem o Conselho Nacional de Secretários Municipais de Saúde.",
+   "Receberem os recursos do Fundo Nacional de Saúde.",
+   "Se tornarem Região de Saúde."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 4º, VI",
+  "coment": "O art. 4º da Lei 8.142/1990 lista o que municípios, estados e Distrito Federal devem ter para receber os recursos do Fundo Nacional de Saúde: fundo de saúde, conselho de saúde com composição paritária, plano de saúde, relatório de gestão, contrapartida de recursos no orçamento e comissão de elaboração do Plano de Carreira, Cargos e Salários (PCCS), com prazo de dois anos para implantação. O parágrafo único diz que, sem esses requisitos, os recursos são administrados pelo estado ou pela União. A banca chamou de recomendação o que a lei trata como condição.",
+  "porAlt": [
+   "Errada: o CONASS representa os secretários estaduais e não exige comissão de PCCS para participação.",
+   "Errada: a gestão plena era habilitação das Normas Operacionais, não o objeto do art. 4º da Lei 8.142.",
+   "Errada: o CONASEMS é entidade representativa dos secretários municipais, sem esse requisito legal.",
+   "Correta: a comissão de PCCS é um dos requisitos do art. 4º para receber os recursos do Fundo Nacional de Saúde.",
+   "Errada: a Região de Saúde é instituída pelo estado com os municípios (Decreto 7.508/2011), sem relação com o PCCS."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 28,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A instituição das Regiões de Saúde observará cronograma pactuado:",
+  "alts": [
+   "nas Comissões Intergestores.",
+   "no Conselho Estadual de Saúde.",
+   "no Conselho Municipal de Saúde.",
+   "no Ministério da Saúde.",
+   "na Assembleia Legislativa."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, art. 5º, parágrafo único",
+  "coment": "O Decreto 7.508/2011 define que as Regiões de Saúde são instituídas pelo estado em articulação com os municípios, respeitadas as diretrizes pactuadas na Comissão Intergestores Tripartite (art. 4º). Para existir, a região precisa conter, no mínimo, atenção primária, urgência e emergência, atenção psicossocial, atenção ambulatorial especializada e hospitalar e vigilância em saúde (art. 5º). O parágrafo único do art. 5º é o cobrado: a instituição das Regiões de Saúde observará cronograma pactuado nas Comissões Intergestores, instâncias de pactuação entre gestores.",
+  "porAlt": [
+   "Correta: o art. 5º, parágrafo único, do Decreto 7.508/2011 manda observar cronograma pactuado nas Comissões Intergestores.",
+   "Errada: o Conselho Estadual de Saúde é instância de controle social, não de pactuação entre gestores.",
+   "Errada: o Conselho Municipal de Saúde formula e fiscaliza a política local, mas não pactua o cronograma das regiões.",
+   "Errada: o Ministério da Saúde participa da CIT, mas o cronograma não é decisão unilateral dele.",
+   "Errada: a Assembleia Legislativa não tem papel na pactuação interfederativa das Regiões de Saúde."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 29,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Os Conselhos de Secretarias Municipais de Saúde (Cosems) deverão estar vinculados institucionalmente ao:",
+  "alts": [
+   "Conass.",
+   "Fundo Nacional de Saúde.",
+   "Ministério da Saúde.",
+   "Conasems.",
+   "Fundo Estadual de Saúde."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 14-B, § 2º (incluído pela Lei 12.466/2011)",
+  "coment": "A Lei 12.466/2011 incluiu o art. 14-B na Lei 8.080/1990, reconhecendo o CONASS e o CONASEMS como entidades representativas dos entes estaduais e municipais. O § 2º desse artigo reconhece os Conselhos de Secretarias Municipais de Saúde (COSEMS) como representantes dos municípios no âmbito estadual, desde que vinculados institucionalmente ao CONASEMS, na forma de seus estatutos. Os COSEMS indicam os representantes municipais na Comissão Intergestores Bipartite.",
+  "porAlt": [
+   "Errada: o CONASS reúne os secretários estaduais; os COSEMS representam municípios e se vinculam ao CONASEMS.",
+   "Errada: o Fundo Nacional de Saúde é instrumento de financiamento, não entidade de representação.",
+   "Errada: os COSEMS não são órgãos do Ministério da Saúde, são entidades de representação dos municípios.",
+   "Correta: o art. 14-B, § 2º, exige vínculo institucional dos COSEMS ao CONASEMS, na forma dos estatutos.",
+   "Errada: o Fundo Estadual de Saúde é conta de gestão financeira, sem relação com a representação municipal."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 30,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O processo natural da doença, assim instalado no corpo humano, evolui em dois períodos consecutivos, sendo eles:",
+  "alts": [
+   "Virótico e pandêmico.",
+   "Clínico e Subclínico.",
+   "Pré-patogênico e patogênico.",
+   "Agente e hospedeiro.",
+   "Incubação e transmissibilidade."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Leavell e Clark, Medicina Preventiva (1976), modelo da história natural da doença",
+  "coment": "No modelo de Leavell e Clark, a história natural da doença tem dois períodos consecutivos. O pré-patogênico ocorre antes de o agente agir no organismo, na interação entre agente, hospedeiro e ambiente; ali cabem a promoção da saúde e a proteção específica, como a vacina. O patogênico começa com a ação do agente no hospedeiro e evolui por fases subclínica e clínica até cura, cronificação, invalidez ou morte; ali cabem diagnóstico precoce, tratamento, limitação do dano e reabilitação. Esses cinco níveis formam a prevenção primária, secundária e terciária.",
+  "porAlt": [
+   "Errada: virótico descreve um tipo de agente e pandêmico descreve a distribuição de casos, não períodos da doença.",
+   "Errada: subclínico e clínico são fases dentro do período patogênico, não os dois períodos do modelo.",
+   "Correta: Leavell e Clark dividem a história natural em período pré-patogênico e período patogênico.",
+   "Errada: agente e hospedeiro são componentes da tríade epidemiológica, ao lado do ambiente.",
+   "Errada: incubação e transmissibilidade são intervalos de tempo da doença infecciosa, não os períodos do modelo."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 31,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O Sistema de Informações sobre Nascidos Vivos (SINASC) foi implantado oficialmente a partir de 1990, o Ministério da Saúde incentiva os gestores municipais e estaduais a fazerem uso do potencial de dados contido no SINASC, para a formulação de indicadores epidemiológicos como instrumentos estratégicos de suporte ao planejamento das ações, atividades e programas voltados à gestão em saúde. O Sinasc dispõe de um ambiente de compartilhamento de informações on-line com diversas utilidades e aplicações, sendo elas, EXCETO:",
+  "alts": [
+   "Geração de arquivos de dados em várias extensões para análises em outros aplicativos.",
+   "Retroalimentação das informações ocorridas em municípios diferentes da residência do indivíduo.",
+   "Controle de distribuição das declarações de nascido vivo.",
+   "Transmissão de dados automatizada utilizando a ferramenta Sisnet gerando a tramitação dos dados de forma ágil e segura entre os níveis municipal > estadual > federal.",
+   "Declaração de óbito informatizada."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria SVS/MS 116/2009 (fluxo e periodicidade do SIM e do SINASC)",
+  "coment": "O SINASC tem como documento-base a Declaração de Nascido Vivo (DNV). Seu ambiente on-line permite gerar arquivos de dados para outros programas, devolver ao município de residência os nascimentos ocorridos em outro município (retroalimentação), controlar a distribuição dos formulários de DNV e transmitir os dados pelo Sisnet entre os níveis municipal, estadual e federal. A Declaração de Óbito é o documento-base do outro sistema, o SIM (Sistema de Informações sobre Mortalidade), e não uma utilidade do SINASC.",
+  "porAlt": [
+   "Errada: a geração de arquivos em várias extensões para análise em outros aplicativos é recurso do SINASC.",
+   "Errada: a retroalimentação devolve ao município de residência os nascimentos registrados em outro município.",
+   "Errada: o controle da distribuição das DNV, numeradas pelo Ministério, é feito no próprio sistema.",
+   "Errada: a transmissão pelo Sisnet entre município, estado e União é o fluxo de dados do SINASC.",
+   "Correta: a Declaração de Óbito pertence ao SIM; o documento do SINASC é a Declaração de Nascido Vivo."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 32,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O Sistema de Informações Sobre Mortalidade (SIM) possui variáveis que permitem, a partir da causa mortis atestada pelo médico, construir indicadores e processar análises epidemiológicas que contribuam para a eficiência da gestão em saúde. É indicador em relação à mortalidade Infantil realizado através de análises de dados do SIM, EXCETO:",
+  "alts": [
+   "Taxa de mortalidade neonatal precoce.",
+   "Taxa de mortalidade materna.",
+   "Taxa de mortalidade pós-neonatal.",
+   "Taxa de mortalidade perinatal.",
+   "Taxa de mortalidade neonatal tardia."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "RIPSA, Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed. (2008)",
+  "coment": "Mortalidade infantil é o óbito antes de 1 ano de idade e se divide pela idade da criança: neonatal precoce (0 a 6 dias), neonatal tardia (7 a 27 dias) e pós-neonatal (28 dias a menos de 1 ano). A perinatal soma os óbitos fetais (a partir de 22 semanas) aos neonatais precoces e também é usada para avaliar a atenção ao parto e ao recém-nascido. A razão de mortalidade materna mede a morte da mulher na gestação ou até 42 dias após o término, por causa ligada à gravidez; usa o SIM, mas não é indicador de mortalidade infantil.",
+  "porAlt": [
+   "Errada: a neonatal precoce (0 a 6 dias) é componente da mortalidade infantil calculado com dados do SIM.",
+   "Correta: a mortalidade materna mede óbitos de mulheres ligados à gestação, não de crianças menores de 1 ano.",
+   "Errada: a pós-neonatal (28 dias a menos de 1 ano) é componente da mortalidade infantil.",
+   "Errada: a perinatal reúne óbitos fetais e neonatais precoces e é analisada junto da mortalidade infantil.",
+   "Errada: a neonatal tardia (7 a 27 dias) é componente da mortalidade infantil."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 33,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A população que está presente no território da UBS, de forma a estimular o desenvolvimento de relações de vínculo e responsabilização entre as equipes e a população, garantindo a continuidade das ações de saúde e a longitudinalidade do cuidado e com o objetivo de ser referência para o seu cuidado é denominada População Adscrita. A população adscrita por equipe de Atenção Básica (eAB) e de Saúde da Família (eSF) é de:",
+  "alts": [
+   "1.500 a 2.000 pessoas.",
+   "1.800 a 2.500 pessoas.",
+   "2.000 a 3.500 pessoas.",
+   "2.500 a 4.000 pessoas.",
+   "3.500 a 4.200 pessoas."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), item 3.3, consolidada na PRC 2/2017",
+  "coment": "A PNAB de 2017 recomenda população adscrita por equipe de Atenção Básica (eAB) e de Saúde da Família (eSF) de 2.000 a 3.500 pessoas, localizada dentro do seu território. Admite outros arranjos conforme vulnerabilidade, riscos e dinâmica comunitária, cabendo ao gestor local avaliar. A Portaria GM/MS 3.493/2024, que criou o novo cofinanciamento do Piso da APS, passou a usar parâmetros de vinculação de pessoas por equipe que variam com o porte do município; para a pergunta sobre a PNAB, vale o texto de 2.000 a 3.500. A PNAB está em revisão pelo Ministério da Saúde.",
+  "porAlt": [
+   "Errada: 1.500 a 2.000 pessoas fica abaixo do parâmetro da PNAB 2017.",
+   "Errada: 1.800 a 2.500 pessoas não corresponde a nenhum parâmetro da PNAB.",
+   "Correta: a PNAB 2017 recomenda de 2.000 a 3.500 pessoas por eAB ou eSF.",
+   "Errada: 2.500 a 4.000 pessoas não é o intervalo da PNAB 2017.",
+   "Errada: 3.500 a 4.200 pessoas ultrapassa o máximo recomendado pela PNAB."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 34,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A implantação da Estratégia de Agentes Comunitários de Saúde nas UBS é prevista como uma possibilidade para:",
+  "alts": [
+   "Reorganização inicial da Atenção Básica com vistas à implantação gradual da Estratégia de Saúde da Família.",
+   "Mapeamento de zonas de riscos em territórios descobertos por Estratégia de Saúde da Família.",
+   "Atendimento à população ribeirinha.",
+   "Início da implantação de serviços de saúde em populações indígenas ou quilombolas.",
+   "Apoiar as unidades de Estratégia de Saúde da Família em municípios que não comportem mais implantação de ESFS."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo, item da Estratégia de Agentes Comunitários de Saúde",
+  "coment": "A PNAB de 2017 prevê a Estratégia de Agentes Comunitários de Saúde (EACS) nas UBS como possibilidade para a reorganização inicial da Atenção Básica, com vistas à implantação gradual da Estratégia Saúde da Família, ou como forma de agregar os agentes a outras maneiras de organização da Atenção Básica. É, portanto, etapa de transição: a ESF segue como estratégia prioritária de expansão e consolidação. A equipe da EACS tem enfermeiro supervisor e ACS, cada agente responsável por uma microárea.",
+  "porAlt": [
+   "Correta: a PNAB prevê a EACS como reorganização inicial da Atenção Básica rumo à implantação gradual da ESF.",
+   "Errada: o mapeamento de risco é atribuição do ACS em qualquer modelo, não a finalidade da EACS.",
+   "Errada: a população ribeirinha tem equipes próprias, as eSF Ribeirinhas e as Unidades Básicas de Saúde Fluviais.",
+   "Errada: a saúde indígena é organizada pelo Subsistema de Atenção à Saúde Indígena e pelos DSEI.",
+   "Errada: a PNAB não condiciona a EACS a municípios que não comportam mais equipes de Saúde da Família."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 35,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Os medicamentos de alta vigilância (MAV), ou potencialmente perigosos, são aqueles que têm risco aumentado de provocar danos significativos aos pacientes em decorrência de falha no processo de utilização. São recomendações para a segurança no preparo e administração destes medicamentos, EXCETO:",
+  "alts": [
+   "é necessário verificar os certos no preparo e na administração do MAV.",
+   "preferencialmente, o preparo de misturas intravenosas contendo MAV deve ser centralizado no posto de enfermagem.",
+   "deve-se realizar a dupla checagem (por dois profissionais) dos certos, no preparo e na administração.",
+   "apenas os MAV que sejam absolutamente necessários à assistência do paciente devem permanecer nas unidades de internação.",
+   "os MAV devem ser identificados de forma diferenciada, por meio de etiquetas ou invólucros exclusivos."
+  ],
+  "gab": 1,
+  "tema": "farmaco",
+  "sub": "Medicamentos de alta vigilância",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "Para medicamentos de alta vigilância (potencialmente perigosos), o protocolo do Ministério da Saúde recomenda que o preparo de misturas intravenosas seja centralizado na FARMÁCIA, com ambiente e técnica controlados, e não no posto de enfermagem, onde há interrupções e falta de padronização. As demais medidas são as do protocolo: conferir os certos no preparo e na administração, dupla checagem independente por dois profissionais, manter na unidade só o estoque indispensável e identificar esses medicamentos com etiqueta ou embalagem diferenciada.",
+  "porAlt": [
+   "Errada como resposta: verificar os certos no preparo e na administração é recomendação básica para esses medicamentos.",
+   "Correta: a centralização do preparo de misturas intravenosas com esses fármacos deve ser na farmácia, não no posto de enfermagem.",
+   "Errada como resposta: a dupla checagem independente por dois profissionais é barreira recomendada para eles.",
+   "Errada como resposta: restringir o estoque na unidade ao indispensável reduz troca e erro de diluição.",
+   "Errada como resposta: a identificação diferenciada com etiqueta ou invólucro próprio alerta quem manipula."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "É fundamental no atendimento de urgência à lombalgia avaliar a gravidade e descartar doenças potencialmente graves. Marque a alternativa que NÃO corresponde a um sinal de alerta neste atendimento:",
+  "alts": [
+   "emagrecimento.",
+   "febre.",
+   "depressão.",
+   "história de neoplasia.",
+   "fraqueza muscular."
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 28, vol. II, Acolhimento à demanda espontânea: queixas mais comuns na Atenção Básica (MS, 2012)",
+  "coment": "Na lombalgia, a avaliação inicial procura as bandeiras vermelhas, que sugerem causa grave: emagrecimento inexplicado e história de câncer (metástase), febre (infecção, como espondilodiscite), déficit neurológico com fraqueza muscular, perda de controle esfincteriano ou anestesia em sela (compressão de cauda equina), trauma importante e idade extrema. A depressão entra nas bandeiras amarelas, fatores psicossociais que aumentam o risco de cronificação e incapacidade, mas não indicam doença grave subjacente.",
+  "porAlt": [
+   "Errada: emagrecimento sem causa aparente é bandeira vermelha, pela suspeita de neoplasia.",
+   "Errada: febre associada à dor lombar sugere infecção, como espondilodiscite ou abscesso.",
+   "Correta: a depressão é bandeira amarela, fator psicossocial de cronificação, e não sinal de alerta para doença grave.",
+   "Errada: história de neoplasia é bandeira vermelha, pela possibilidade de metástase vertebral.",
+   "Errada: fraqueza muscular indica déficit neurológico, possível compressão radicular ou de cauda equina."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Quando o paciente já apresenta alguns sinais de desidratação moderada, deve permanecer na unidade de atendimento para realizar a Terapia de Reidratação Oral (TRO). Considerando a afirmativa, marque a alternativa que NÃO apresenta uma contraindicação para TRO:",
+  "alts": [
+   "evolução para choque hipovolêmico.",
+   "vômitos persistentes.",
+   "recusa persistente da solução.",
+   "alteração do nível de consciência.",
+   "perda de 3% a 5% do peso corporal."
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria, Guia Prático de Atualização: Diarreia aguda, diagnóstico e tratamento (2017)",
+  "coment": "A terapia de reidratação oral é a primeira escolha na desidratação, inclusive moderada, feita na unidade sob observação (Plano B do Ministério da Saúde). Ela é contraindicada quando a via oral não funciona ou não é segura: choque hipovolêmico, alteração do nível de consciência, vômitos persistentes apesar da técnica correta, recusa persistente da solução e íleo paralítico ou distensão abdominal importante. Nesses casos passa-se à reidratação venosa. Perda de 3% a 5% do peso corresponde a desidratação leve, situação justamente indicada para a TRO.",
+  "porAlt": [
+   "Errada: o choque hipovolêmico exige reidratação venosa imediata, contraindicando a TRO.",
+   "Errada: vômitos persistentes impedem a absorção da solução e indicam reidratação venosa.",
+   "Errada: a recusa persistente da solução torna a TRO ineficaz e é contraindicação.",
+   "Errada: o rebaixamento de consciência traz risco de aspiração e contraindica a via oral.",
+   "Correta: perda de 3% a 5% do peso é desidratação leve, que se trata com TRO; não é contraindicação."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As pseudocrises hipertensivas são situações nas quais, o aumento acentuado da pressão arterial (PA) é desencadeado pelos seguintes fatores, EXCETO:",
+  "alts": [
+   "dor.",
+   "desconforto.",
+   "ansiedade.",
+   "lesão aguda de órgãos-alvo.",
+   "fibromialgia."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH e SBN), crises hipertensivas",
+  "coment": "Pseudocrise hipertensiva é a elevação acentuada da pressão desencadeada por dor, desconforto, ansiedade ou pânico, em paciente oligossintomático e sem lesão aguda de órgão-alvo. Trata-se a causa (analgesia, ambiente calmo, ansiolítico se preciso), não a pressão com anti-hipertensivo de ação rápida. A lesão aguda e progressiva de órgão-alvo define a emergência hipertensiva, que exige UTI e droga endovenosa. A Diretriz Brasileira de Hipertensão Arterial 2025 manteve o conceito de pseudocrise e propôs aposentar o termo urgência hipertensiva.",
+  "porAlt": [
+   "Errada: a dor é o gatilho clássico da pseudocrise, tratada com analgesia.",
+   "Errada: desconforto, como bexiga cheia ou posição ruim, eleva a pressão sem lesão de órgão.",
+   "Errada: ansiedade e pânico estão entre os desencadeantes típicos da pseudocrise.",
+   "Correta: lesão aguda de órgão-alvo caracteriza emergência hipertensiva, não pseudocrise.",
+   "Errada como resposta: a fibromialgia é condição dolorosa e, pela dor, pode desencadear a elevação reacional."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o esquema para introdução dos alimentos complementares em lactentes, em aleitamento materno ou em uso de fórmula infantil, a segunda papa principal (almoço ou jantar) deverá ser introduzida na seguinte faixa etária:",
+  "alts": [
+   "6º mês.",
+   "9º-12º mês.",
+   "7º-8º mês.",
+   "1-2 anos.",
+   "até 2 anos."
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Aleitamento e alimentação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Guia Alimentar para Crianças Brasileiras Menores de 2 Anos (Ministério da Saúde, 2019)",
+  "coment": "Pelo esquema do Ministério da Saúde, a alimentação complementar começa aos 6 meses com fruta nos lanches e uma refeição principal (almoço ou jantar), mantendo o leite materno ou a fórmula. Aos 7 a 8 meses entra a segunda refeição principal, completando almoço e jantar. Dos 9 aos 11 meses a consistência evolui gradualmente até a da família, e aos 12 meses a criança passa a comer a comida da casa, com cuidado para não oferecer açúcar nem ultraprocessados antes dos 2 anos.",
+  "porAlt": [
+   "Errada: no 6º mês entra a primeira refeição principal, não a segunda.",
+   "Errada: dos 9 aos 12 meses a consistência evolui para a da família; a segunda refeição já foi introduzida.",
+   "Correta: a segunda refeição principal (almoço ou jantar) é introduzida aos 7 a 8 meses.",
+   "Errada: entre 1 e 2 anos a criança já faz as refeições da família.",
+   "Errada: até 2 anos é o período de manter o aleitamento, não o marco da segunda refeição."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A realização periódica do exame citopatológico continua sendo a estratégia mais amplamente adotada para o rastreamento do câncer do colo do útero. No Brasil, o exame deve ser realizado em mulheres de _____________________, uma vez por ano e, após ____ exames anuais consecutivos negativos, a cada ____ anos.",
+  "alts": [
+   "25 a 64 anos de idade; dois; três.",
+   "25 a 60 anos de idade; três; dois.",
+   "18 a 59 anos de idade; dois; três.",
+   "20 a 60 anos de idade; três; três.",
+   "25 a 65 anos de idade; dois; três."
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (INCA, 2016) e Portaria Conjunta SAES/SECTICS 13/2025",
+  "coment": "Pela diretriz do INCA de 2016, o citopatológico se faz em mulheres de 25 a 64 anos que já tiveram atividade sexual: os dois primeiros exames com intervalo anual e, se ambos negativos, a cada 3 anos. A resposta segue certa para o rastreamento citológico. Desde a Portaria Conjunta SAES/SECTICS 13/2025, o Brasil adota o rastreamento organizado com teste de DNA-HPV oncogênico, na mesma faixa de 25 a 64 anos, repetido a cada 5 anos se negativo; onde o teste ainda não foi implantado, vale o esquema citológico de 2016.",
+  "porAlt": [
+   "Correta: 25 a 64 anos, dois exames anuais negativos e depois a cada três anos, como na diretriz do INCA de 2016.",
+   "Errada: a faixa termina aos 64 anos, e o intervalo após os negativos é de três anos, não dois.",
+   "Errada: o rastreamento começa aos 25 anos; começar aos 18 leva a sobrediagnóstico de lesões que regridem.",
+   "Errada: a faixa é de 25 a 64 anos, e bastam dois exames anuais negativos, não três.",
+   "Errada: o limite superior é 64 anos, não 65."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O termo, incontinência urinária (IU) refere-se à queixa de qualquer perda de urina, que pode ser involuntária, provocada pelo indivíduo ou descrita por um cuidador. Considerando a afirmativa, marque a alternativa INCORRETA.",
+  "alts": [
+   "As mulheres têm maior predisposição de apresentar essa condição.",
+   "A presença de IU pode ser dividida de acordo com a etiologia em: neurogênica e não neurogênica.",
+   "A IU de Urgência (IUU) ocorre quando o músculo detrusor apresenta contração involuntária.",
+   "Os diuréticos têm efeito direto sobre a função do detrusor e ainda causam um aumento do volume urinário, elevando a frequência e urgência.",
+   "Em homens sem doença neurológica, a IU está, na maioria das vezes, associada com história de cirurgia prostática."
+  ],
+  "gab": 3,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Caderno de Atenção Básica nº 19, Envelhecimento e saúde da pessoa idosa (Ministério da Saúde, 2006)",
+  "coment": "Os diuréticos não agem diretamente sobre o detrusor: eles aumentam o volume urinário, e é essa sobrecarga que eleva frequência e urgência e pode precipitar perda em quem já tem bexiga hiperativa. Por isso a frase que lhes atribui efeito direto sobre o detrusor é a incorreta. As demais estão certas: a incontinência é mais frequente em mulheres; divide-se em neurogênica e não neurogênica; a de urgência decorre de contração involuntária do detrusor; e, no homem sem doença neurológica, liga-se sobretudo à cirurgia prostática.",
+  "porAlt": [
+   "Errada como resposta: a incontinência é mais prevalente em mulheres, por parto, menopausa e anatomia do assoalho pélvico.",
+   "Errada como resposta: a divisão etiológica em neurogênica e não neurogênica é aceita.",
+   "Errada como resposta: a incontinência de urgência resulta de contração involuntária do detrusor (hiperatividade).",
+   "Correta: diuréticos não têm efeito direto sobre o detrusor; agem aumentando o volume urinário.",
+   "Errada como resposta: no homem sem doença neurológica, a causa mais comum é a prostatectomia."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A instância do serviço de saúde criada para promover e apoiar a implementação de ações voltadas à segurança do paciente é identificada como:",
+  "alts": [
+   "núcleo de segurança do paciente.",
+   "garantia da qualidade.",
+   "gestão de risco.",
+   "segurança do paciente.",
+   "tecnologia de segurança em saúde."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 3º",
+  "coment": "A RDC ANVISA 36/2013 define Núcleo de Segurança do Paciente (NSP) como a instância do serviço de saúde criada para promover e apoiar a implementação de ações voltadas à segurança do paciente. A mesma resolução obriga o serviço a constituir o NSP, com direção que lhe dê autoridade e recursos, a elaborar o Plano de Segurança do Paciente e a notificar os eventos adversos ao Sistema Nacional de Vigilância Sanitária, com óbito em até 72 horas. Garantia da qualidade, gestão de risco, segurança do paciente e tecnologia em saúde são outros conceitos definidos no mesmo artigo.",
+  "porAlt": [
+   "Correta: é a definição literal de Núcleo de Segurança do Paciente no art. 3º da RDC 36/2013.",
+   "Errada: garantia da qualidade é a totalidade das ações para assegurar que os serviços estejam nos padrões exigidos.",
+   "Errada: gestão de risco é a aplicação sistêmica de políticas e práticas para identificar, avaliar e controlar riscos.",
+   "Errada: segurança do paciente é a redução a um mínimo aceitável do risco de dano desnecessário, não uma instância.",
+   "Errada: tecnologia em saúde abrange equipamentos, medicamentos e procedimentos, não uma instância do serviço."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a avaliação do risco cardiovascular no paciente com diabetes, marque a alternativa que corresponde a um estratificador de risco alto:",
+  "alts": [
+   "amputação.",
+   "doença renal de muito alto risco.",
+   "angina estável.",
+   "idade >46 anos.",
+   "síndrome metabólica."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretriz da Sociedade Brasileira de Diabetes 2022, Manejo do risco cardiovascular: dislipidemia",
+  "coment": "A Sociedade Brasileira de Diabetes classifica o risco cardiovascular no diabetes em baixo, intermediário, alto e muito alto. Basta um estratificador de risco alto para passar à categoria alta; entre eles estão síndrome metabólica, diabetes há mais de 10 anos, hipertensão, tabagismo ativo, história familiar de doença coronariana precoce, retinopatia, albuminúria e taxa de filtração abaixo de 60. Pela idade isolada, o alto risco começa a partir dos 50 anos no homem e acima de 56 na mulher. Doença aterosclerótica clínica, como amputação e angina, coloca o paciente no risco muito alto.",
+  "porAlt": [
+   "Errada: amputação por doença arterial é doença aterosclerótica clínica, critério de risco muito alto.",
+   "Errada: doença renal de muito alto risco, como o nome diz, não figura entre os estratificadores de risco alto.",
+   "Errada: angina estável é doença coronariana estabelecida, que classifica o paciente como de risco muito alto.",
+   "Errada: o corte etário da SBD é a partir de 50 anos no homem e acima de 56 na mulher, não 46.",
+   "Correta: a síndrome metabólica é um dos estratificadores que, isoladamente, definem risco alto no diabetes."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São medidas específicas, que devem ser gerenciadas para a prevenção das pneumonias associadas à ventilação mecânica (PAV) relacionada à assistência à saúde, EXCETO:",
+  "alts": [
+   "manter decúbito elevado (30- 45°).",
+   "adequar diariamente o nível de sedação e o teste de respiração espontânea.",
+   "higienização das mãos.",
+   "aspirar a secreção subglótica rotineiramente.",
+   "fazer a higiene oral com antissépticos."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Prevenção de pneumonia e infecção de cateter",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "ANVISA, Caderno 4: Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, 2ª ed. (2017)",
+  "coment": "O Caderno 4 da ANVISA (2017) separa medidas gerais, que valem para toda IRAS, das medidas específicas para pneumonia associada à ventilação. As específicas fortemente recomendadas são: cabeceira elevada entre 30 e 45 graus, adequação diária da sedação com teste de respiração espontânea, aspiração da secreção subglótica e higiene oral com antisséptico, as quatro do pacote do IHI. A higienização das mãos é essencial, mas é medida geral de prevenção de qualquer infecção relacionada à assistência, e não uma das medidas específicas de PAV.",
+  "porAlt": [
+   "Errada: o decúbito elevado de 30 a 45 graus é medida específica de PAV do Caderno 4.",
+   "Errada: a interrupção diária da sedação com teste de respiração espontânea é medida específica do pacote.",
+   "Correta: a higienização das mãos é medida geral contra todas as IRAS, não medida específica de PAV.",
+   "Errada: a aspiração da secreção subglótica está entre as medidas específicas para quem fica ventilado mais de 48 a 72 horas.",
+   "Errada: a higiene oral com antisséptico, como a clorexidina 0,12%, é medida específica de PAV."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São recomendações básicas, para todos os serviços de saúde, na prevenção de Infecções do Sítio Cirúrgico (ISC), EXCETO:",
+  "alts": [
+   "escolher a droga adequada levando em consideração o sítio a ser operado (antibioticoprofilaxia).",
+   "não utilizar preparações que contenham álcool no preparo da pele.",
+   "manter o controle de glicemia no pré-operatório e no pós-operatório imediato.",
+   "manter o controle da temperatura em todo perioperatório ( ≥ 35,5°C).",
+   "educar pacientes e familiares sobre medidas de prevenção de ISC."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "ANVISA, Caderno 4: Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, 2ª ed. (2017)",
+  "coment": "Entre as recomendações básicas da ANVISA para prevenir infecção de sítio cirúrgico está o preparo da pele com antisséptico em solução ALCOÓLICA, de preferência clorexidina alcoólica, que age rápido e tem efeito residual; por isso a frase que proíbe preparações com álcool é a exceção. As demais estão no Caderno 4: antibioticoprofilaxia escolhida conforme o sítio, controle glicêmico no pré e no pós-operatório imediato, normotermia com temperatura de 35,5 °C ou mais em todo o perioperatório e orientação de paciente e família.",
+  "porAlt": [
+   "Errada como resposta: a escolha do antimicrobiano profilático conforme o sítio operado é recomendação básica.",
+   "Correta: o preparo da pele deve usar solução alcoólica, como a clorexidina alcoólica; proibir o álcool contraria a ANVISA.",
+   "Errada como resposta: o controle da glicemia no pré e no pós-operatório imediato reduz a infecção de sítio cirúrgico.",
+   "Errada como resposta: manter a normotermia, com 35,5 °C ou mais, é recomendação básica do Caderno 4.",
+   "Errada como resposta: educar paciente e familiares sobre prevenção da infecção é medida recomendada."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São fatores de risco para a ocorrência de acidente de trabalho com exposição a material biológico, EXCETO:",
+  "alts": [
+   "manuseio e descarte inadequado de material perfurocortante.",
+   "reencape de agulhas.",
+   "descumprimento de normas de biossegurança durante a lavagem e o manuseio de material contaminado.",
+   "condição sorológica do indivíduo fonte (homem ou animal) e do acidentado.",
+   "falta de capacitação e treinamento para desenvolvimento de algumas atividades."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Exposição a materiais biológicos, Protocolos de Complexidade Diferenciada (2006), e NR 32",
+  "coment": "Fatores de risco para a ocorrência do acidente são os que aumentam a chance de o profissional se ferir ou se expor: manuseio e descarte inadequado de perfurocortante, reencape de agulha (proibido pela NR 32), descumprimento de normas de biossegurança na limpeza de material e falta de capacitação. A condição sorológica da fonte e do acidentado não muda a chance de o acidente acontecer; ela pesa depois, no risco de transmissão e na decisão sobre profilaxia pós-exposição, junto com o tipo de exposição e o material envolvido.",
+  "porAlt": [
+   "Errada: o manuseio e o descarte inadequados de perfurocortante são a principal causa de acidente.",
+   "Errada: o reencape de agulhas é fator de risco clássico e é vedado pela NR 32.",
+   "Errada: descumprir normas de biossegurança na lavagem de material contaminado expõe o trabalhador.",
+   "Correta: a sorologia da fonte e do acidentado define o risco de transmissão após o acidente, não a chance de ele ocorrer.",
+   "Errada: a falta de capacitação para a atividade aumenta a ocorrência de acidentes."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O dimensionamento do quadro de profissionais de enfermagem deve basear-se em características relativas ao serviço de saúde, ao serviço de enfermagem e ao paciente. Considerando a afirmativa, marque a alternativa correspondente ao serviço de enfermagem.",
+  "alts": [
+   "Tipos de serviços e/ou programas.",
+   "Recursos materiais e financeiros.",
+   "Realidade sociocultural.",
+   "Política de pessoal.",
+   "Índice de segurança técnica."
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Parecer Normativo COFEN 01/2024, item 1 (Res. COFEN 743/2024)",
+  "coment": "A questão vem da Res. COFEN 543/2017, revogada pela Res. 743/2024; os parâmetros passaram ao Parecer Normativo COFEN 01/2024, que manteve a mesma divisão. Características do serviço de saúde: missão, porte, política de gestão de pessoas, recursos materiais e financeiros, tipos de serviços e programas. Do serviço de enfermagem: dinâmica das unidades, modelos gerencial e assistencial, jornada, padrões de desempenho, índice de segurança técnica (IST, no mínimo 15%) e proporção de nível superior e médio. Do paciente: grau de dependência pelo SCP e realidade sociocultural, econômica e financeira.",
+  "porAlt": [
+   "Errada: tipos de serviços e programas são característica do serviço de saúde.",
+   "Errada: recursos materiais e financeiros são característica do serviço de saúde.",
+   "Errada: a realidade sociocultural é característica relativa ao paciente.",
+   "Errada: a política de pessoal, hoje política de gestão de pessoas, é característica do serviço de saúde.",
+   "Correta: o índice de segurança técnica integra as características do serviço de enfermagem no Parecer Normativo 01/2024."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (44 h)",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Estão incluídas no campo de atuação do Sistema Único de Saúde (SUS), a execução das ações de:",
+  "alts": [
+   "acesso e permanência na escola especial;",
+   "reabilitação das crianças e adolescentes carentes;",
+   "níveis elevados do ensino, da pesquisa de cada da comunidade;",
+   "atendimento especializado nas instituições privadas;",
+   "assistência terapêutica integral, inclusive farmacêutica."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 6º, I, d",
+  "coment": "O art. 6º da Lei 8.080/1990 lista o campo de atuação do SUS. No inciso I estão a execução de ações de vigilância sanitária, vigilância epidemiológica, saúde do trabalhador e assistência terapêutica integral, inclusive farmacêutica (alínea d) e, desde a Lei 14.572/2023, saúde bucal (alínea e). Os outros incisos trazem saneamento básico, recursos humanos, vigilância nutricional, meio ambiente, medicamentos e insumos, sangue e derivados, fiscalização de produtos e desenvolvimento científico. Educação especial e assistência social são campos de outras políticas.",
+  "porAlt": [
+   "Errada: acesso e permanência na escola especial são da política de educação, não do campo do SUS.",
+   "Errada: a reabilitação é ação de saúde, mas o texto limitado a crianças carentes não corresponde à lei.",
+   "Errada: a alternativa não corresponde a nenhum inciso do art. 6º e mistura ensino com atuação do SUS.",
+   "Errada: o SUS pode contratar o setor privado de forma complementar, mas atendimento em instituição privada não é campo de atuação.",
+   "Correta: a assistência terapêutica integral, inclusive farmacêutica, está no art. 6º, I, d, da Lei 8.080/1990."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 11,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O conjunto de ações e serviços de saúde, prestadas por órgãos e instituições públicas federais, estaduais e municipais, da Administração direta e indireta e das fundações mantidas pelo poder público, constitui o Sistema Único de Saúde (SUS). A iniciativa privada poderá participar do Sistema Único de Saúde (SUS) em caráter:",
+  "alts": [
+   "complementar;",
+   "universal;",
+   "fiscalizador;",
+   "assistencial;",
+   "Regulador."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 4º, § 2º, e Constituição Federal de 1988, art. 199, § 1º",
+  "coment": "O enunciado reproduz o art. 4º da Lei 8.080/1990, que define o SUS como o conjunto de ações e serviços prestados por órgãos e instituições públicas das três esferas, da administração direta e indireta e das fundações mantidas pelo poder público. O § 2º completa: a iniciativa privada poderá participar do SUS em caráter complementar. A Constituição (art. 199, § 1º) e os arts. 24 a 26 da lei detalham: contrato de direito público ou convênio, preferência às filantrópicas e sem fins lucrativos, e só quando a rede pública for insuficiente.",
+  "porAlt": [
+   "Correta: o art. 4º, § 2º, da Lei 8.080/1990 prevê participação da iniciativa privada em caráter complementar.",
+   "Errada: universalidade é princípio do acesso ao SUS, não a forma de participação do setor privado.",
+   "Errada: fiscalizar é papel do poder público sobre os serviços, inclusive os privados contratados.",
+   "Errada: a participação privada é assistencial no conteúdo, mas a lei a qualifica como complementar.",
+   "Errada: a regulação é competência dos gestores públicos, não da iniciativa privada."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 12,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A organização básica das ações e serviços de saúde, quanto à direção, gestão, competências e atribuições de cada esfera de governo no Sistema Único de Saúde (SUS) foram detalhadas pelas leis:",
+  "alts": [
+   "8080/90 e 6360/76;",
+   "8080/90 e 8142/90;",
+   "8142/90 e 8213/91;",
+   "8896/94 e 8142/90;",
+   "6369/76 e 8080/90;"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990 e Lei 8.142/1990",
+  "coment": "As Leis Orgânicas da Saúde são duas, ambas de 1990. A Lei 8.080 dispõe sobre as condições para promoção, proteção e recuperação da saúde e sobre a organização e o funcionamento dos serviços: direção única em cada esfera, competências da União, estados e municípios, princípios e diretrizes. A Lei 8.142 trata da participação da comunidade na gestão do SUS (conferências e conselhos de saúde) e das transferências intergovernamentais de recursos, com os requisitos para recebê-los. A Lei 6.360/1976 é da vigilância sanitária de medicamentos, e a 8.213/1991 é da Previdência.",
+  "porAlt": [
+   "Errada: a Lei 6.360/1976 trata da vigilância sanitária de medicamentos e produtos, não da organização do SUS.",
+   "Correta: as Leis 8.080/1990 e 8.142/1990 são as Leis Orgânicas da Saúde que organizam o SUS.",
+   "Errada: a Lei 8.213/1991 dispõe sobre os planos de benefícios da Previdência Social.",
+   "Errada: a Lei 8.896/1994 não é lei orgânica da saúde; só a 8.142/1990 está correta no par.",
+   "Errada: a Lei 6.369/1976 não organiza o SUS, criado em 1988; só a 8.080/1990 está correta no par."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 13,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O Decreto Presidencial nº 7.508/2011 define o processo de planejamento da saúde no Sistema Único de Saúde (SUS), definindo que deve ser:",
+  "alts": [
+   "ascendente e integrado, do nível local até o federal, ouvindo os respectivos Conselhos de Saúde;",
+   "é obrigatório para a iniciativa privada e será indutor de políticas para os entes públicos;",
+   "é competência da Comissão Intergestores Tripartite pactuar as etapas do processo e os prazos do planejamento municipal;",
+   "ascendente, do nível local até o federal, ouvindo os respectivos Conselhos de Saúde;",
+   "no planejamento são considerados os serviços e ações desenvolvidas pelo setor público sem levar em consideração a iniciativa privada."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Decreto 7.508/2011, arts. 15, 16 e 19",
+  "coment": "O art. 15 do Decreto 7.508/2011 diz que o planejamento da saúde é ascendente e integrado, do nível local até o federal, ouvidos os respectivos Conselhos de Saúde, compatibilizando necessidades e recursos. O § 1º diz que ele é obrigatório para os entes públicos e indutor de políticas para a iniciativa privada. O art. 16 manda considerar os serviços privados, complementares ou não ao SUS. O art. 19 dá à Comissão Intergestores Bipartite, e não à Tripartite, a pactuação das etapas e prazos do planejamento municipal. A alternativa que omite integrado é cópia incompleta do caput.",
+  "porAlt": [
+   "Correta: é o texto do art. 15, planejamento ascendente e integrado, do nível local ao federal, ouvidos os Conselhos de Saúde.",
+   "Errada: inverte o § 1º, que torna o planejamento obrigatório para os entes públicos e indutor para a iniciativa privada.",
+   "Errada: pelo art. 19, quem pactua etapas e prazos do planejamento municipal é a CIB, não a CIT.",
+   "Errada como resposta: omite o termo integrado do art. 15; a banca exigiu a definição completa.",
+   "Errada: o art. 16 manda considerar no planejamento os serviços prestados pela iniciativa privada."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 14,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "São Portas de Entrada às ações e aos serviços de saúde nas Redes de Atenção à Saúde os serviços definidos no Decreto Presidencial nº 7.508/2011:",
+  "alts": [
+   "atenção hospitalar;",
+   "ambulatórios especializados;",
+   "atenção primária;",
+   "distritos sanitários indígenas;",
+   "conselhos de saúde;"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, art. 9º",
+  "coment": "O art. 9º do Decreto 7.508/2011 define as Portas de Entrada às ações e serviços de saúde nas Redes de Atenção: atenção primária, atenção de urgência e emergência, atenção psicossocial e serviços especiais de acesso aberto. A partir delas o usuário é referenciado à atenção ambulatorial especializada e hospitalar (art. 10). A atenção primária, além de porta de entrada, ordena o acesso universal e igualitário (art. 11). Conselho de saúde é instância de controle social, não serviço assistencial.",
+  "porAlt": [
+   "Errada: a atenção hospitalar é referenciada a partir das portas de entrada (art. 10), não é porta de entrada.",
+   "Errada: os ambulatórios especializados também recebem o usuário por referência das portas de entrada.",
+   "Correta: a atenção primária é a primeira das portas de entrada listadas no art. 9º do Decreto 7.508/2011.",
+   "Errada: os DSEI organizam a saúde indígena, mas não constam como porta de entrada no art. 9º.",
+   "Errada: conselhos de saúde são instâncias de controle social, não serviços de atendimento."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 15,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "“O processo contínuo e sistemático de coleta, consolidação, análise de dados e disseminação de informações sobre eventos relacionados à saúde, visando o planejamento e a implementação de medidas de saúde pública, incluindo a regulação, intervenção e atuação em condicionantes e determinantes da saúde, para a proteção e promoção da saúde da população, prevenção e controle de riscos, agravos e doenças”. O conceito apresentado refere-se a:",
+  "alts": [
+   "evento sentinela;",
+   "vigilância ambiental;",
+   "vigilância em saúde;",
+   "vigilância epidemiológica;",
+   "vigilância nacional de agravos sanitários."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde), art. 2º",
+  "coment": "A definição é a de vigilância em saúde da Política Nacional de Vigilância em Saúde (Resolução CNS 588/2018, art. 2º), que repete a da Portaria GM/MS 1.378/2013: processo contínuo e sistemático de coleta, consolidação, análise e disseminação de dados sobre eventos de saúde, para planejar e implementar medidas de saúde pública, atuando inclusive sobre condicionantes e determinantes. A vigilância em saúde é o conceito amplo que abrange as vigilâncias epidemiológica, sanitária, ambiental e em saúde do trabalhador e a promoção da saúde.",
+  "porAlt": [
+   "Errada: evento sentinela é a ocorrência evitável que sinaliza falha no sistema, não um processo de vigilância.",
+   "Errada: a vigilância ambiental é um dos componentes da vigilância em saúde, voltada aos fatores do meio ambiente.",
+   "Correta: é a definição de vigilância em saúde do art. 2º da Política Nacional de Vigilância em Saúde.",
+   "Errada: a vigilância epidemiológica é componente mais restrito, definido no art. 6º, § 2º, da Lei 8.080/1990.",
+   "Errada: não existe na legislação uma vigilância nacional de agravos sanitários com esse conceito."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 16,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sistemas de Informação em Saúde (SIS) são instrumentos que, por meio do processamento de dados coletados em serviços de saúde e outros locais, dão suporte à produção de informações para a melhor compreensão dos problemas e tomada de decisão no âmbito das políticas e do cuidado em saúde. Sobre o tema, a alternativa correta é:",
+  "alts": [
+   "o sistema de informações sobre mortalidade coleta, transmite e dissemina dados gerados rotineiramente pelo sistema de vigilância epidemiológica, nas três esferas de governo;",
+   "o sistema de informações em saúde da atenção básica e o e-SUS é uma estratégia que faz referência ao processo de informatização qualificada do SUS em busca de um SUS eletrônico;",
+   "o sistema de pactuação dos indicadores traz informações sobre os indicadores de mortalidade, permitindo o registro de metas pactuadas pelos municípios;",
+   "o sistema de informações sobre orçamentos públicos em saúde coleta, armazena e analisa as informações de gestão do trabalho para formulação de políticas de gestão;",
+   "o sistema do cadastro nacional de estabelecimentos de saúde registra apenas as equipes de saúde da família e de agentes comunitários de saúde."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.412/2013 (institui o SISAB e a estratégia e-SUS AB)",
+  "coment": "A Portaria GM/MS 1.412/2013 instituiu o Sistema de Informação em Saúde para a Atenção Básica (SISAB), operado pela estratégia e-SUS AB, que faz referência ao processo de informatização qualificada do SUS em busca de um SUS eletrônico, com registro individualizado pelo CDS e pelo prontuário eletrônico (PEC). As outras trocam as funções dos sistemas: quem coleta e dissemina dados da vigilância epidemiológica é o SINAN; o SISPACTO registra metas de todos os indicadores pactuados; o SIOPS trata de orçamento público em saúde; e o CNES cadastra todos os estabelecimentos e profissionais.",
+  "porAlt": [
+   "Errada: essa é a descrição do SINAN; o SIM registra os óbitos a partir da Declaração de Óbito.",
+   "Correta: o SISAB com a estratégia e-SUS AB é o processo de informatização qualificada do SUS em busca de um SUS eletrônico.",
+   "Errada: o sistema de pactuação registra metas de indicadores de várias áreas, não só de mortalidade.",
+   "Errada: o SIOPS acompanha receitas e despesas públicas em saúde, não a gestão do trabalho.",
+   "Errada: o CNES cadastra todos os estabelecimentos de saúde, públicos e privados, e suas equipes."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 17,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "As redes de atenção à saúde são mecanismos que qualificam as demandas em níveis de atenção, otimizam e organizam o sistema frente às necessidades de saúde da população. São fundamentos utilizados para sua efetivação de forma eficiente e com qualidade:",
+  "alts": [
+   "economia de escala e serviços especializados;",
+   "mecanismos de coordenação e níveis de atenção;",
+   "processos de substituição e integração horizontal;",
+   "integração vertical e participação social;",
+   "sistema de governança único e região de saúde."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 4.279/2010 (diretrizes da RAS), consolidada na PRC 3/2017, Anexo I",
+  "coment": "A Portaria GM/MS 4.279/2010 lista os fundamentos da Rede de Atenção à Saúde: economia de escala, disponibilidade de recursos, qualidade e acesso; integração horizontal e vertical; processos de substituição; região de saúde ou abrangência; e níveis de atenção. Processos de substituição (reagrupar recursos para fazer o cuidado no lugar e com o custo mais adequados) e integração horizontal (articular unidades da mesma natureza) são os dois fundamentos pedidos. Sistema de governança único é atributo da rede, não fundamento.",
+  "porAlt": [
+   "Errada: economia de escala é fundamento, mas serviços especializados não estão entre eles.",
+   "Errada: níveis de atenção é fundamento, mas mecanismos de coordenação não constam da lista de fundamentos.",
+   "Correta: processos de substituição e integração horizontal são fundamentos da RAS na Portaria 4.279/2010.",
+   "Errada: integração vertical é fundamento, mas participação social é atributo ligado à governança, não fundamento.",
+   "Errada: região de saúde é fundamento, mas sistema de governança único é atributo da RAS."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 18,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A governança das Redes de Atenção à Saúde no Sistema Único de Saúde deve ser feita:",
+  "alts": [
+   "comissões locais de saúde;",
+   "conselho dos secretários estaduais de saúde;",
+   "comissões intersetoriais e de planejamento;",
+   "comissões intergestores tripartite, bipartite e regionais;",
+   "conselho nacional de saúde."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 4.279/2010, consolidada na PRC 3/2017, e Decreto 7.508/2011, arts. 30 a 32",
+  "coment": "A governança da Rede de Atenção à Saúde é a capacidade de intervenção que envolve os atores e as estruturas de gestão das três esferas. No SUS ela se exerce nas comissões intergestores: Tripartite (CIT, nacional), Bipartite (CIB, estadual) e Regional (CIR, criada pelo Decreto 7.508/2011 no lugar dos antigos Colegiados de Gestão Regional). Essas comissões pactuam a organização e o funcionamento das ações e serviços integrados em rede. Conselhos de saúde fazem controle social, e o CONASS só representa os estados.",
+  "porAlt": [
+   "Errada: comissões locais de saúde são instâncias de participação, não de governança interfederativa da rede.",
+   "Errada: o CONASS representa os secretários estaduais, mas sozinho não exerce a governança da RAS.",
+   "Errada: comissões intersetoriais assessoram os conselhos de saúde, sem papel de pactuação entre gestores.",
+   "Correta: a governança das RAS se exerce nas comissões intergestores tripartite, bipartite e regionais.",
+   "Errada: o Conselho Nacional de Saúde é instância de controle social, não de governança da rede."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 19,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "São impactos identificados quando da implementação de Redes de Atenção à Saúde:",
+  "alts": [
+   "diminuição de produtividade;",
+   "produção de uma oferta fixa de atenção geral e especializada;",
+   "descontentamento dos usuários;",
+   "aumento no tempo de permanência hospitalar;",
+   "continuidade da atenção, gerando uma maior efetividade clínica."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 4.279/2010 (diretrizes da RAS), consolidada na PRC 3/2017, Anexo I",
+  "coment": "A Portaria GM/MS 4.279/2010 justifica a organização em redes pela fragmentação da atenção e cita evidências de que as RAS melhoram a qualidade clínica, os resultados sanitários e a satisfação dos usuários e reduzem custos. Entre os efeitos esperados estão a continuidade da atenção, com maior efetividade clínica, a redução do tempo de permanência hospitalar, o uso racional dos recursos e o aumento da produtividade. As alternativas erradas listam o contrário desses impactos, e a oferta deixa de ser fixa para se ajustar às necessidades da população.",
+  "porAlt": [
+   "Errada: a rede tende a aumentar a produtividade, por economia de escala e melhor uso dos recursos.",
+   "Errada: a oferta na RAS se organiza pela necessidade da população, não de forma fixa.",
+   "Errada: as evidências citadas na portaria mostram maior satisfação dos usuários.",
+   "Errada: a coordenação do cuidado reduz o tempo de permanência hospitalar, não o aumenta.",
+   "Correta: a continuidade da atenção, com maior efetividade clínica, é impacto esperado das RAS."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 20,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre o tema modelos assistenciais em saúde é correto afirmar que:",
+  "alts": [
+   "o modelo médico-assistencial privatista é aquele que privilegia o atendimento individual e curativo prestado pelo médico e outros profissionais da saúde;",
+   "o modelo de vigilância em saúde é constituído pelas campanhas e programas de saúde pública voltados ao controle de doenças;",
+   "o modelo denominado médico-assistencial privatista é considerado o mais resolutivo frente às demandas de saúde da população devido ao seu caráter tecnicista;",
+   "o modelo de vigilância em saúde não leva em consideração os determinantes sociais que afetam as pessoas;",
+   "o modelo sanitarista privilegia o atendimento individual e curativo, prestado pelo médico e outros profissionais da saúde."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Paim JS, Modelos de atenção à saúde no Brasil, em Políticas e Sistema de Saúde no Brasil (Fiocruz, 2008)",
+  "coment": "Na classificação de Jairnilson Paim, o modelo médico-assistencial privatista é centrado na demanda espontânea, no atendimento individual e curativo e no hospital, e não alcança os problemas que não geram procura. O modelo sanitarista atua por campanhas e programas especiais de controle de doenças. A vigilância da saúde é proposta alternativa, que trabalha sobre o território e os determinantes sociais, integrando promoção, prevenção e assistência. Nenhum dos modelos hegemônicos é considerado o mais resolutivo.",
+  "porAlt": [
+   "Correta: o modelo médico-assistencial privatista privilegia o atendimento individual e curativo.",
+   "Errada: campanhas e programas de controle de doenças caracterizam o modelo sanitarista, não a vigilância da saúde.",
+   "Errada: o modelo privatista não é o mais resolutivo; ignora necessidades que não chegam como demanda.",
+   "Errada: a vigilância da saúde atua justamente sobre os determinantes sociais no território.",
+   "Errada: o modelo sanitarista age por campanhas e programas coletivos, não pelo atendimento individual curativo."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 21,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Portaria nº 2.436/2017 aprova a Política Nacional de Atenção Básica, estabelecendo a revisão de diretrizes para a organização da Atenção Básica, no âmbito do Sistema Único de Saúde (SUS). Sobre o tema é correto afirmar que:",
+  "alts": [
+   "a Política Nacional de Atenção Básica considera os termos Atenção Básica (AB) e Atenção Primária à Saúde (APS), nas atuais concepções, como termos diferentes, de forma a diferenciar ambas conforme os princípios e as diretrizes definidas;",
+   "a Atenção Básica é o conjunto de ações de saúde individuais, familiares e coletivas que envolvem promoção, prevenção, proteção, diagnóstico, tratamento, realizada com equipe multiprofissional e dirigida à população em território definido, sobre as quais as equipes assumem responsabilidade sanitária.",
+   "a Atenção Básica será a principal porta de entrada e centro de comunicação da Rede de Atenção à Saúde, coordenadora do cuidado e ordenadora das ações e serviços disponibilizados na rede;",
+   "a Atenção Básica será ofertada integralmente e gratuitamente a todas as pessoas, de acordo com suas necessidades e demandas do território, considerando sua condição financeira;",
+   "a Atenção Básica considera as famílias em sua singularidade e inserção financeira, buscando produzir a atenção integral, incorporar as ações de vigilância em saúde para a proteção, a prevenção e o controle de riscos, agravos e doenças, bem como para a promoção da saúde."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo, art. 2º",
+  "coment": "O art. 2º, § 1º, da PNAB (Portaria 2.436/2017) diz que a Atenção Básica será a principal porta de entrada e centro de comunicação da Rede de Atenção à Saúde, coordenadora do cuidado e ordenadora das ações e serviços disponibilizados na rede. A mesma política considera Atenção Básica e Atenção Primária termos equivalentes e manda ofertar a AB integral e gratuitamente a todos, considerando os determinantes e condicionantes de saúde, não a condição financeira. A definição do caput inclui ainda reabilitação, redução de danos, cuidados paliativos e vigilância em saúde, omitidos em uma das alternativas.",
+  "porAlt": [
+   "Errada: a PNAB considera Atenção Básica e Atenção Primária à Saúde termos equivalentes.",
+   "Errada como resposta: a definição foi cortada, sem reabilitação, redução de danos, cuidados paliativos e vigilância em saúde.",
+   "Correta: reproduz o art. 2º, § 1º, da PNAB, porta de entrada preferencial, coordenadora do cuidado e ordenadora da rede.",
+   "Errada: a oferta considera os determinantes e condicionantes de saúde, nunca a condição financeira do usuário.",
+   "Errada: a PNAB considera a inserção sociocultural das famílias, não a inserção financeira."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 23,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Rede de Atenção às Urgências e Emergências tem como objetivo reordenar a atenção à saúde em situações de urgência e emergência de forma coordenada entre os diferentes pontos de atenção que a compõe, de forma a melhor organizar a assistência, definindo fluxos e as referências adequadas. São seus componentes:",
+  "alts": [
+   "atenção domiciliar, SAMU 192, Sala de Estabilização, Força Nacional do SUS, UPA 24h;",
+   "pronto Socorro, Unidade Básica Ampliada, Central de Regulação de Vagas, SAMU 192;",
+   "atendimento Pré-Hospitalar, Triagem, Unidade Coronariana, Unidade de Traumatologia;",
+   "triagem, Urgência Pediátrica, UTI, Unidade de Radiologia;",
+   "sala de Classificação de Risco, Pronto Atendimento, Regulação de Leitos, Unidade Coronariana."
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Atendimento pré-hospitalar",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 1.600/2011 (Rede de Atenção às Urgências), consolidada na PRC 3/2017, Anexo III",
+  "coment": "A Rede de Atenção às Urgências e Emergências, instituída pela Portaria GM/MS 1.600/2011 e hoje no Anexo III da PRC 3/2017, tem como componentes: promoção, prevenção e vigilância à saúde; atenção básica; SAMU 192 e suas centrais de regulação médica; sala de estabilização; Força Nacional de Saúde do SUS; UPA 24h e o conjunto de serviços de urgência 24 horas; componente hospitalar; e atenção domiciliar. A alternativa correta traz cinco componentes oficiais. Triagem, unidade coronariana ou radiologia isoladas não são componentes da rede.",
+  "porAlt": [
+   "Correta: atenção domiciliar, SAMU 192, sala de estabilização, Força Nacional do SUS e UPA 24h são componentes da RUE.",
+   "Errada: unidade básica ampliada e central de regulação de vagas não aparecem com esses nomes entre os componentes.",
+   "Errada: triagem, unidade coronariana e de traumatologia não são componentes listados na portaria.",
+   "Errada: triagem, UTI e radiologia são serviços internos, não componentes da rede.",
+   "Errada: classificação de risco é processo de acolhimento, e unidade coronariana não é componente da RUE."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 24,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Educação Permanente em Saúde (EPS) é definida como prática de ensino-aprendizagem no trabalho, pelo trabalho e para o trabalho e apresenta como característica:",
+  "alts": [
+   "pedagogia centrada na transmissão;",
+   "prática institucionalizada;",
+   "atualização de conhecimento;",
+   "prática autônoma;",
+   "ação esporádica."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.996/2007 (Política Nacional de Educação Permanente em Saúde)",
+  "coment": "A Educação Permanente em Saúde, base da política instituída pela Portaria GM/MS 1.996/2007, é aprendizagem no trabalho, a partir dos problemas reais do serviço, e por isso é prática institucionalizada, articulada à gestão e ao controle social. Na comparação clássica com a educação continuada, esta é que tem prática autônoma (iniciativa individual), pedagogia centrada na transmissão de conteúdo, objetivo de atualização técnico-científica e ações esporádicas. A EPS é contínua, problematizadora e voltada à transformação das práticas.",
+  "porAlt": [
+   "Errada: pedagogia centrada na transmissão é marca da educação continuada; a EPS é problematizadora.",
+   "Correta: a EPS é prática institucionalizada, ligada à gestão do serviço e ao processo de trabalho.",
+   "Errada: a atualização de conhecimento é o objetivo da educação continuada; a EPS visa transformar as práticas.",
+   "Errada: a prática autônoma, por iniciativa individual, caracteriza a educação continuada.",
+   "Errada: ação esporádica é traço da educação continuada; a EPS é contínua."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 25,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Em relação às equipes multiprofissionais (eMulti) são tipos criadas pela Portaria nº 635/2023:",
+  "alts": [
+   "equipe Multiprofissional Ampliada - eMulti Ampliada – tendo a possibilidade de ser interestadual;",
+   "equipe Multiprofissional Suplementar - eMulti Suplementar;",
+   "equipe Multiprofissional Estratégica - eMulti Estratégica;",
+   "equipe Multiprofissional Ampliada - eMulti Ampliada – tendo a possibilidade de ser internacional;",
+   "equipe Multiprofissional Saúde da Família - eMulti Saúde da Família."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 635/2023 (equipes Multiprofissionais na APS, eMulti)",
+  "coment": "A Portaria GM/MS 635/2023 criou as equipes Multiprofissionais na Atenção Primária à Saúde (eMulti), que substituem o antigo NASF, em três modalidades definidas pela carga horária e pelo número de equipes vinculadas: eMulti Ampliada, eMulti Complementar e eMulti Estratégica. Elas atuam junto às equipes de Saúde da Família e de Atenção Primária do município e admitem atendimento remoto. Não existe eMulti Suplementar nem eMulti Saúde da Família, e a Ampliada não tem modalidade interestadual nem internacional.",
+  "porAlt": [
+   "Errada: a eMulti Ampliada existe, mas a portaria não prevê atuação interestadual.",
+   "Errada: a modalidade é Complementar, não Suplementar.",
+   "Correta: a eMulti Estratégica é uma das três modalidades criadas pela Portaria 635/2023.",
+   "Errada: a eMulti Ampliada existe, mas não há previsão de atuação internacional.",
+   "Errada: eMulti Saúde da Família não é modalidade; as três são Ampliada, Complementar e Estratégica."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 26,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Portaria nº 635/2023, são responsabilidades das equipes chamadas de eMulti:",
+  "alts": [
+   "o desenvolvimento da integralidade das ações de apoio comunitário;",
+   "o desenvolvimento da integralidade das ações de comunicação e investigação de óbitos;",
+   "o desenvolvimento da integralidade das ações de investigação epidemiológica;",
+   "o desenvolvimento da integralidade das ações de atendimento compartilhados entre profissionais e equipes;",
+   "o desenvolvimento da integralidade das ações de práticas multifatoriais."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 635/2023 (equipes Multiprofissionais na APS, eMulti)",
+  "coment": "A Portaria GM/MS 635/2023 atribui às eMulti ações que ampliam a integralidade do cuidado na APS, de forma complementar e integrada às equipes de Saúde da Família: atendimento individual, em grupo e domiciliar, atividades coletivas, apoio matricial, discussão de casos, atendimento compartilhado entre profissionais e equipes, ações de saúde a distância, construção conjunta de projetos terapêuticos e intervenções no território. Investigação epidemiológica e de óbitos é atribuição da vigilância em saúde, não o núcleo de trabalho das eMulti.",
+  "porAlt": [
+   "Errada: apoio comunitário não é a formulação da portaria para as ações das eMulti.",
+   "Errada: comunicação e investigação de óbitos são atribuições da vigilância do óbito, não das eMulti.",
+   "Errada: investigação epidemiológica cabe à vigilância em saúde, não às eMulti.",
+   "Correta: o atendimento compartilhado entre profissionais e equipes está entre as ações das eMulti na Portaria 635/2023.",
+   "Errada: práticas multifatoriais não é termo usado pela portaria para definir as ações das eMulti."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 27,
+   "parte": "especificas"
+  }
+ }
+]

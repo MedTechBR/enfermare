@@ -1,0 +1,1378 @@
+[
+ {
+  "q": "O choque é uma condição com risco à vida, em que o fluxo sanguíneo é baixo, pouco fornecimento de oxigênio, causando danos a órgãos-alvo e, às vezes, morte. O único tipo de choque que causa bradicardia chama-se:",
+  "alts": [
+   "anafilático.",
+   "cardiogênico.",
+   "neurogênico.",
+   "hipovolêmico.",
+   "séptico."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Surviving Sepsis Campaign 2026; ATLS, American College of Surgeons, 11ª ed., 2025 (choque neurogênico)",
+  "coment": "No choque neurogênico, a lesão medular alta (em geral acima de T6) interrompe o tônus simpático: há vasodilatação com hipotensão e, sem a resposta simpática ao coração, predomina o vago e surge bradicardia, com pele quente e seca. Nos demais choques a resposta adrenérgica compensatória produz taquicardia: hipovolêmico e cardiogênico com pele fria; séptico e anafilático com vasodilatação e frequência alta. Hipotensão com bradicardia após trauma raquimedular é a pista clássica de prova.",
+  "porAlt": [
+   "O choque anafilático cursa com vasodilatação e taquicardia compensatória, não com bradicardia.",
+   "O choque cardiogênico costuma ter taquicardia reflexa à queda do débito, com pele fria e congestão.",
+   "Correta: a perda do tônus simpático na lesão medular alta deixa o vago sem oposição e produz bradicardia com hipotensão.",
+   "No choque hipovolêmico a perda de volume dispara resposta adrenérgica e taquicardia progressiva.",
+   "O choque séptico é distributivo com taquicardia; a bradicardia não faz parte do quadro típico."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 71,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A levotiroxina sódica – T4 é muito usada para o tratamento de hipotireoidismo. O enfermeiro deve orientar o paciente sobre o uso:",
+  "alts": [
+   "após o café da manhã.",
+   "antes de dormir.",
+   "nunca em jejum.",
+   "em jejum de pelo menos 1 hora.",
+   "a ação do medicamento independe do jejum."
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Interações e reações adversas",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Jonklaas J, et al. Guidelines for the Treatment of Hypothyroidism (American Thyroid Association). Thyroid. 2014;24(12):1670-1751",
+  "coment": "A levotiroxina tem absorção reduzida por alimentos, café, cálcio, ferro e antiácidos. A orientação padrão é tomar o comprimido com água, em jejum, cerca de 60 minutos antes do café da manhã, sempre no mesmo horário (diretriz da American Thyroid Association, 2014). A mesma diretriz aceita a tomada ao deitar desde que 3 horas ou mais depois da última refeição, o que também é um jejum; por isso 'antes de dormir', sem essa condição, não é a orientação de escolha. Tomar após o café ou dizer que o jejum é indiferente reduz a absorção e desestabiliza o TSH.",
+  "porAlt": [
+   "Após o café da manhã o alimento reduz a absorção da levotiroxina e torna o controle do TSH irregular.",
+   "Ao deitar só é aceito com 3 horas ou mais de jejum após o jantar; sem essa condição não é a orientação padrão.",
+   "Nunca em jejum é o oposto do recomendado, pois o jejum é justamente o que garante a absorção.",
+   "Correta: em jejum, cerca de 1 hora antes do café da manhã, com água, é a orientação padrão para a absorção.",
+   "A absorção depende do jejum; alimentos, café, cálcio e ferro diminuem a quantidade absorvida."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 72,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As ações de Biossegurança têm como objetivo capacitar e orientar os profissionais acerca dos meios e instrumentos para uma cultura de segurança do paciente. Com relação aos resíduos de saúde, analise os itens a seguir. I. os resíduos do grupo A apresentam agentes biológicos sem risco de infecção e conforme orienta a RDC 222, sacos vermelhos são designados para os resíduos que serão autoclavados. II. bolsas de sangue contaminado são exemplos de resíduos do grupo A. III. os resíduos do grupo D podem ser descartados sem tratamento prévio. Podem ser reciclados, exceto quando houver disposições contrárias de outros órgãos competentes e são semelhantes aos resíduos domiciliares. IV. o PGRSS é uma ferramenta facultativa em algumas instituições que geram resíduos de serviços de saúde. As únicas instituições obrigadas a cumprir esse plano são as hospitalares. Estão corretos, apenas:",
+  "alts": [
+   "I e II.",
+   "I e III.",
+   "I e IV.",
+   "II e III.",
+   "III e IV."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 222/2018 (art. 5º e Anexo I, grupos de resíduos)",
+  "coment": "Pela RDC ANVISA 222/2018, o grupo A reúne resíduos com possível presença de agente biológico que pode trazer risco de infecção, e não 'sem risco', o que derruba o item I (o saco vermelho para resíduo A que exige tratamento está certo, mas a definição não). Bolsas de sangue rejeitadas por contaminação são A1 (item II certo). O grupo D equivale ao resíduo domiciliar, não exige tratamento prévio e pode ser reciclado (item III certo). Todo gerador de resíduo de serviço de saúde deve ter PGRSS, não só hospitais; quem gera apenas grupo D pode substituí-lo por notificação à vigilância sanitária (art. 5º), o que torna o item IV errado.",
+  "porAlt": [
+   "O item I está errado: o grupo A tem possível agente biológico com risco de infecção, não ausência de risco.",
+   "O item I erra a definição do grupo A, e por isso a combinação I e III não serve.",
+   "Os itens I e IV estão errados: o grupo A tem risco de infecção e o PGRSS é obrigatório para todo gerador.",
+   "Correta: bolsas de sangue contaminadas são A1 e o grupo D dispensa tratamento prévio e pode ser reciclado.",
+   "O item IV está errado, pois a RDC 222/2018 exige PGRSS de todo gerador, não só dos hospitais."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 73,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para descartar corretamente os resíduos de saúde, é preciso uma gestão organizada e sistemática (PGRSS), bem como a participação da equipe para esse fim. Sendo assim:",
+  "alts": [
+   "somente hospitais são obrigados pela ANVISA ao gerenciamento de resíduos de serviços de saúde e ao descarte adequado de cada um deles.",
+   "os resíduos do grupo B e C podem ser reciclados.",
+   "os resíduos de saúde do grupo D tem risco moderado de infecção e devem ser tratados previamente antes do descarte.",
+   "esse plano tem o objetivo de maximizar a produção de resíduos e garantir a segurança do trabalhador, do paciente, da coletividade e do meio ambiente.",
+   "o gerenciamento de resíduos de serviços de saúde tem como objetivo o manuseio, acondicionamento, transporte e destinação final dos resíduos gerados na assistência à saúde."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 222/2018 (gerenciamento de resíduos de serviços de saúde, art. 5º)",
+  "coment": "O gerenciamento de resíduos de serviços de saúde, pela RDC ANVISA 222/2018, é o conjunto de procedimentos que cobre todas as etapas do manejo: segregação, acondicionamento, identificação, transporte, armazenamento, tratamento e destinação final, com o fim de reduzir a geração e encaminhar com segurança. A alternativa correta resume isso. A obrigação de ter PGRSS vale para todo gerador (art. 5º), o grupo D não tem risco biológico, químico ou radiológico, e o grupo C é rejeito radioativo, que segue normas da CNEN e não vai para reciclagem. O plano quer minimizar, nunca maximizar, a produção de resíduos.",
+  "porAlt": [
+   "A RDC 222/2018 obriga todo gerador de resíduo de serviço de saúde, não só hospitais, a ter PGRSS.",
+   "O grupo C é rejeito radioativo, com manejo pelas normas da CNEN, e não pode ser destinado à reciclagem.",
+   "O grupo D não tem risco biológico, químico ou radiológico e não precisa de tratamento prévio.",
+   "O objetivo do plano é minimizar a geração de resíduos, e não maximizá-la como afirma a alternativa.",
+   "Correta: o gerenciamento abrange manuseio, acondicionamento, transporte e destinação final dos resíduos gerados."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 74,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o Diabetes Mellitus (DM), é correto afirmar:",
+  "alts": [
+   "no DM tipo 2, o corpo começa a atacar as células do pâncreas que produzem insulina.",
+   "mudanças no estilo de vida, como alimentação balanceada e prática de atividade física, diminuem a incidência do diabetes tipo 2.",
+   "no MD tipo 1 acontece a perda progressiva de secreção insulínica bem como a resistência à insulina.",
+   "ao contrário do diabetes tipo 1, o diabetes tipo 2 não ocorre devido ao estilo de vida, mas devido a um defeito no sistema imunológico.",
+   "a hemoglobina glicada é um importante exame para rastreamento do diabético pois revela os níveis glicêmicos dos últimos 15 dias."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "American Diabetes Association. Standards of Care in Diabetes 2026. Diabetes Care. 2026",
+  "coment": "O diabetes tipo 2 está ligado a excesso de peso, sedentarismo e alimentação inadequada, e intervenções de estilo de vida (perda de peso, dieta equilibrada, atividade física) reduzem sua incidência em pessoas com pré-diabetes, como mostram os Standards of Care da ADA de 2026. A destruição autoimune das células beta é a marca do tipo 1; resistência à insulina com perda progressiva de secreção é a do tipo 2. A hemoglobina glicada reflete a glicemia média dos últimos 2 a 3 meses, e não de 15 dias.",
+  "porAlt": [
+   "O ataque autoimune às células beta do pâncreas define o diabetes tipo 1, não o tipo 2.",
+   "Correta: alimentação equilibrada e atividade física reduzem a incidência do diabetes tipo 2.",
+   "Perda progressiva de secreção com resistência à insulina descreve o tipo 2, não o tipo 1.",
+   "Inverte os tipos: o defeito imunológico é do tipo 1, e o tipo 2 se associa ao estilo de vida.",
+   "A hemoglobina glicada reflete a glicemia média de cerca de 2 a 3 meses, não de 15 dias."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 76,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O enfermeiro durante o exame físico avalia um paciente cardiopata e verifica presença de estase jugular. A posição correta para realizar este exame é:",
+  "alts": [
+   "decúbito lateral.",
+   "decúbito de 90°.",
+   "decúbito de 45°.",
+   "posição supina.",
+   "posição de Sims."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Porto CC. Semiologia Médica. 8ª ed. Rio de Janeiro: Guanabara Koogan, 2019 (exame das veias jugulares)",
+  "coment": "A turgência jugular se pesquisa com o paciente em decúbito dorsal e a cabeceira elevada a cerca de 45 graus, cabeça levemente voltada para o lado oposto. Nessa posição, em pessoa normal, a coluna de sangue na jugular interna fica pouco acima da clavícula; se a veia permanece túrgida e visível bem acima dela, há aumento da pressão venosa central, como na insuficiência cardíaca direita. Deitado plano, toda pessoa tem jugulares cheias; sentado a 90 graus, a coluna pode ficar escondida atrás da clavícula.",
+  "porAlt": [
+   "O decúbito lateral distorce a coluna venosa e não é a posição padronizada para medir a turgência jugular.",
+   "A 90 graus a coluna de sangue pode ficar oculta atrás da clavícula e subestimar a pressão venosa.",
+   "Correta: com a cabeceira a 45 graus, a jugular túrgida acima da clavícula indica pressão venosa aumentada.",
+   "Em posição supina qualquer pessoa tem as jugulares cheias, o que gera falso positivo.",
+   "A posição de Sims é lateral semiprona, usada para exames retais e enemas, não para avaliar jugulares."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 77,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O exame que é considerado padrão ouro para diagnóstico não invasivo das arritmias cardíacas é o:",
+  "alts": [
+   "cateterismo cardíaco.",
+   "tomografia computadorizada.",
+   "angioplastia transcutânea.",
+   "ressonância magnética.",
+   "eletrocardiograma."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretrizes da Sociedade Brasileira de Cardiologia sobre Análise e Emissão de Laudos Eletrocardiográficos, 2022",
+  "coment": "O eletrocardiograma registra a atividade elétrica do coração na superfície da pele e é o exame não invasivo de referência para diagnosticar arritmias, pois mostra frequência, ritmo, origem do estímulo e condução (diretrizes da SBC sobre laudos eletrocardiográficos, 2022). Holter e monitor de eventos são variações do mesmo princípio para arritmias intermitentes. Cateterismo e angioplastia são invasivos e voltados à doença coronariana; tomografia e ressonância avaliam estrutura, não o ritmo.",
+  "porAlt": [
+   "O cateterismo cardíaco é invasivo e avalia anatomia coronariana e pressões, não o ritmo.",
+   "A tomografia computadorizada mostra estrutura e coronárias, mas não registra a atividade elétrica.",
+   "A angioplastia é procedimento terapêutico invasivo para desobstruir artérias, não exame diagnóstico.",
+   "A ressonância avalia estrutura e função miocárdica, sem papel diagnóstico primário nas arritmias.",
+   "Correta: o eletrocardiograma registra a atividade elétrica e é o exame não invasivo de referência para arritmias."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 78,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O sangue é formado por quatro principais componentes:",
+  "alts": [
+   "plasma, glóbulos brancos, glóbulos vermelhos, plaquetas.",
+   "plasma, glóbulos brancos, glóbulos vermelhos, proteínas.",
+   "plasma, linfócitos, neutrófilos e eosinófilos.",
+   "plasma, glóbulos vermelhos, plaquetas.",
+   "plasma, glóbulos brancos, glóbulos vermelhos, hemácias."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia para o Uso de Hemocomponentes. 2ª ed. Brasília, 2015",
+  "coment": "O sangue total tem uma parte líquida, o plasma, e três elementos figurados: glóbulos vermelhos (hemácias), glóbulos brancos (leucócitos) e plaquetas. É essa divisão que fundamenta os hemocomponentes do Guia para o Uso de Hemocomponentes do Ministério da Saúde (2015): concentrado de hemácias, concentrado de plaquetas, plasma fresco congelado e crioprecipitado. Linfócitos, neutrófilos e eosinófilos são subtipos de leucócitos, e proteínas são constituintes do plasma, não componentes à parte.",
+  "porAlt": [
+   "Correta: plasma, glóbulos brancos, glóbulos vermelhos e plaquetas são os quatro componentes do sangue.",
+   "Proteínas fazem parte do plasma; a lista omite as plaquetas, que são elemento figurado próprio.",
+   "Linfócitos, neutrófilos e eosinófilos são todos glóbulos brancos; faltam hemácias e plaquetas.",
+   "A lista tem só três componentes e omite os glóbulos brancos.",
+   "Glóbulos vermelhos e hemácias são a mesma célula; a lista repete um item e omite as plaquetas."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 79,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O enfermeiro no desempenho de atividades gerenciais, além de favorecer a gestão de recursos humanos, precisa também gerenciar os recursos materiais. Sobre os conceitos relacionados ao gerenciamento dos recursos materiais, assinale a alternativa incorreta:",
+  "alts": [
+   "número de leitos, com ou sem acompanhante, características da clientela (grau de dependência de cuidado, tipo de patologia), frequência no uso dos materiais, local de guarda (disponibilidade de locais), durabilidade do material são situações relacionadas à provisão de materiais.",
+   "a reposição imediata de materiais por quantidade é a mais utilizada nos serviços de atenção às urgências.",
+   "A provisão diz respeito à reposição de materiais na unidade de enfermagem. Para desempenhar essa função o enfermeiro deve realizar a requisição de materiais em impresso próprio.",
+   "as funções do enfermeiro no gerenciamento de recursos materiais são: previsão, provisão, organização e controle.",
+   "a previsão de materiais nas unidades de enfermagem consiste em: fazer levantamento das necessidades da unidade de enfermagem, identificando a quantidade e a especificidade deles para suprir essas necessidades."
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Kurcgant P (coord.). Gerenciamento em Enfermagem. 3ª ed. Rio de Janeiro: Guanabara Koogan, 2016 (recursos materiais)",
+  "coment": "Na administração de recursos materiais (Kurcgant, 2016), o enfermeiro atua em previsão, provisão, organização e controle. Previsão é estimar o que a unidade precisa, em tipo e quantidade, e considera número de leitos, acompanhantes, perfil e grau de dependência da clientela, frequência de uso, espaço de guarda e durabilidade. Provisão é a reposição propriamente dita, feita por requisição. A alternativa incorreta atribui à provisão os fatores que pertencem à previsão.",
+  "porAlt": [
+   "Correta: é a afirmativa incorreta, porque esses fatores orientam a previsão das necessidades, não a provisão, que é a reposição.",
+   "A reposição imediata por quantidade é de fato a mais usada onde o consumo é imprevisível, como nas urgências.",
+   "Provisão é a reposição dos materiais na unidade, feita por requisição em impresso ou sistema próprio.",
+   "Previsão, provisão, organização e controle são as funções do enfermeiro na gestão de materiais.",
+   "A previsão levanta as necessidades da unidade, identificando quantidade e especificidade dos materiais."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 80,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A pericardite tem, dentro outros sintomas, a dor no peito que irradia para o lado esquerdo do pescoço ou ombro. Na assistência de enfermagem, a posição que promove conforto ao paciente com essa patologia é a de:",
+  "alts": [
+   "Prona.",
+   "Fowler.",
+   "Sims.",
+   "Kraske.",
+   "Trendelenburg."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "2025 ESC Guidelines for the management of myocarditis and pericarditis (European Society of Cardiology, 2025)",
+  "coment": "A dor da pericardite aguda é pleurítica, piora em decúbito dorsal e na inspiração profunda e alivia quando o paciente se senta e inclina o tronco para frente, o que afasta o pericárdio inflamado das estruturas vizinhas (diretriz ESC de miocardite e pericardite, 2025). Entre as opções, a Fowler, com a cabeceira elevada e o paciente sentado, é a que permite essa postura de conforto. Prona, Trendelenburg e Sims deixam o paciente deitado e tendem a piorar a dor; Kraske é posição cirúrgica.",
+  "porAlt": [
+   "Em prona o paciente fica deitado sobre o tórax, sem a inclinação sentada que alivia a dor pericárdica.",
+   "Correta: sentado em Fowler, com o tronco inclinado para frente, a dor da pericardite diminui.",
+   "A posição de Sims é lateral semiprona, deitada, e não alivia a dor pericárdica.",
+   "Kraske, em canivete, é posição cirúrgica para acesso proctológico, sem papel no conforto do cardiopata.",
+   "Trendelenburg abaixa a cabeça, aumenta o retorno venoso e mantém o decúbito que piora a dor."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 82,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante o exame físico o enfermeiro identificou na ausculta cardíaca presença de terceira bulha e turgência de jugular. Esses achados são sugestivos de:",
+  "alts": [
+   "tamponamento cardíaco.",
+   "insuficiência cardíaca.",
+   "estenose aórtica.",
+   "insuficiência cardíaca auscultada no foco tricúspide.",
+   "estenose pulmonar."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda, Sociedade Brasileira de Cardiologia, 2018",
+  "coment": "A terceira bulha (B3) é um som protodiastólico de enchimento ventricular rápido num ventrículo com pressão elevada; com turgência jugular, que traduz congestão venosa sistêmica, compõe o quadro de insuficiência cardíaca descompensada. A Diretriz Brasileira de Insuficiência Cardíaca da SBC (2018) lista B3 e turgência jugular entre os sinais mais específicos de congestão. Tamponamento cursa com bulhas abafadas, e as estenoses valvares dão sopros, não B3. A alternativa do foco tricúspide restringe o achado sem base: a B3 da IC esquerda se ouve melhor no ápice.",
+  "porAlt": [
+   "O tamponamento cardíaco dá bulhas abafadas, hipotensão e turgência jugular, sem terceira bulha.",
+   "Correta: B3 com turgência jugular indica congestão por insuficiência cardíaca.",
+   "A estenose aórtica se manifesta por sopro sistólico ejetivo no foco aórtico, não por B3.",
+   "A B3 da insuficiência cardíaca esquerda se ausculta melhor no ápice, e o enunciado não localiza o achado.",
+   "A estenose pulmonar produz sopro sistólico no foco pulmonar, não terceira bulha com congestão."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 83,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente apresenta na UTI, após resultado de gasometria arterial, pH alto, baixo PaCO₂, HCO3 em valor normal. O enfermeiro ao interpretar o exame detecta que se trata de uma:",
+  "alts": [
+   "acidose mista.",
+   "acidose respiratória.",
+   "alcalose respiratória.",
+   "alcalose metabólica.",
+   "acidose metabólica."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Berend K, de Vries APJ, Gans ROB. Physiological approach to assessment of acid-base disturbances. N Engl J Med. 2014;371:1434-1445",
+  "coment": "A leitura da gasometria começa pelo pH: acima de 7,45 é alcalemia. Depois se procura o componente que explica o desvio. PaCO2 baixa (abaixo de 35 mmHg) remove ácido carbônico e eleva o pH, logo o distúrbio primário é respiratório. Bicarbonato normal (22 a 26 mEq/L) mostra que ainda não houve compensação renal, que leva dias: é uma alcalose respiratória aguda, típica de hiperventilação por dor, ansiedade, hipoxemia ou ventilação mecânica com volume minuto alto. Se o bicarbonato estivesse alto com PaCO2 normal ou alta, seria alcalose metabólica.",
+  "porAlt": [
+   "Na acidose mista o pH é baixo, com PaCO2 alta e bicarbonato baixo ao mesmo tempo.",
+   "A acidose respiratória tem pH baixo e PaCO2 alta, o oposto do quadro descrito.",
+   "Correta: pH alto com PaCO2 baixa e bicarbonato normal é alcalose respiratória sem compensação.",
+   "A alcalose metabólica tem pH alto por bicarbonato elevado, e aqui o bicarbonato está normal.",
+   "A acidose metabólica tem pH baixo e bicarbonato baixo, incompatível com pH alto."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 84,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente com quadro de aneurisma tem sinais característicos da tríade de Cushing que são:",
+  "alts": [
+   "hipertensão, hipertermia e taquipneia.",
+   "bradicardia, hipotensão e taquipneia.",
+   "hipertensão, hipotermia e taquipneia.",
+   "oligúria, hipertensão e taquipneia.",
+   "bradicardia, bradipneia e hipertensão."
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto CC. Semiologia Médica. 8ª ed. Rio de Janeiro: Guanabara Koogan, 2019; Brain Trauma Foundation, Guidelines for the Management of Severe TBI, 4ª ed., 2016",
+  "coment": "A tríade de Cushing é a resposta do tronco encefálico à hipertensão intracraniana grave: hipertensão arterial sistólica com aumento da pressão de pulso, bradicardia e alteração do ritmo respiratório, com respiração lenta e irregular (bradipneia). No aneurisma cerebral roto, a hemorragia subaracnóidea e o edema podem elevar a pressão intracraniana até esse ponto. É sinal tardio de herniação iminente e exige comunicação imediata. Hipotensão e taquicardia sugerem choque, não hipertensão intracraniana.",
+  "porAlt": [
+   "Hipertermia e taquipneia não compõem a tríade; falta a bradicardia, que é o sinal central.",
+   "Hipotensão com taquipneia sugere choque; na tríade de Cushing a pressão sobe.",
+   "Hipotermia e taquipneia não fazem parte da tríade, que tem bradicardia e bradipneia.",
+   "Oligúria não integra a tríade, e a respiração na hipertensão intracraniana grave fica lenta e irregular.",
+   "Correta: bradicardia, bradipneia e hipertensão formam a tríade de Cushing da hipertensão intracraniana grave."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 85,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com relação ao edema agudo de pulmão (EAP), o enfermeiro deve estar atento aos sinais e sintomas dessa patologia. Dos sintomas abaixo, aquele que não é característico do quadro clínico dessa síndrome chama-se:",
+  "alts": [
+   "ortopneia.",
+   "taquipneia.",
+   "apneia.",
+   "ansiedade e inquietação.",
+   "expectoração espumosa de cor rosa."
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda, Sociedade Brasileira de Cardiologia, 2018 (edema agudo de pulmão)",
+  "coment": "No edema agudo de pulmão cardiogênico o líquido inunda o interstício e os alvéolos, a complacência cai e o trabalho respiratório aumenta. O quadro típico é dispneia intensa com taquipneia, ortopneia, ansiedade e inquietação pela fome de ar, sudorese, estertores crepitantes e expectoração espumosa e rósea. O paciente respira rápido e com esforço; a apneia não faz parte da síndrome e, se ocorrer, indica exaustão e parada respiratória iminente.",
+  "porAlt": [
+   "A ortopneia é típica: deitado, o retorno venoso aumenta e piora a congestão pulmonar.",
+   "A taquipneia faz parte do quadro, como resposta à hipoxemia e à perda de complacência pulmonar.",
+   "Correta: é o sinal não característico, porque no edema agudo o paciente respira rápido; apneia não integra a síndrome.",
+   "Ansiedade e inquietação acompanham a fome de ar e a hipoxemia do edema agudo.",
+   "A expectoração espumosa e rósea é sinal clássico da transudação alveolar com hemácias."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 86,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os tipos de choque podem ser classificados em quatro diferentes tipos de classes, sendo elas: choque hipovolêmico, choque cardiogênico, choque obstrutivo e choque distributivo. O choque hipovolêmico é aquele que resulta de baixo débito cardíaco por perda de volume sanguíneo ou plasmático, sendo classificado em quatro tipos de classes (a diferença está na perda sanguínea). Em um paciente com choque hipovolêmico de classe III, a perda sanguínea é em torno de:",
+  "alts": [
+   "< 750 ml.",
+   "750 a 1.500 ml.",
+   "1.500 a 2.000ml.",
+   "2.000 a 2.500ml.",
+   "> 2.500 ml."
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Advanced Trauma Life Support (ATLS), American College of Surgeons, 10ª ed., 2018 (classes do choque hemorrágico); 11ª ed., 2025",
+  "coment": "A tabela de classes do choque hemorrágico do ATLS (10ª ed., 2018) estima a perda num adulto de 70 kg: classe I até 750 mL (até 15%), classe II 750 a 1.500 mL (15 a 30%), classe III 1.500 a 2.000 mL (30 a 40%), com queda da pressão arterial, taquicardia acima de 120 e confusão, e classe IV acima de 2.000 mL (mais de 40%). A 11ª edição (2025) trocou o ABCDE pelo xABCDE e reforça o controle da hemorragia e a transfusão precoce; a faixa da classe III é a que as provas cobram.",
+  "porAlt": [
+   "Perda menor que 750 mL corresponde à classe I, com sinais vitais praticamente normais.",
+   "De 750 a 1.500 mL é classe II, com taquicardia e pressão de pulso reduzida, mas pressão sistólica mantida.",
+   "Correta: a classe III corresponde a perda de 1.500 a 2.000 mL, ou 30 a 40% da volemia.",
+   "A faixa de 2.000 a 2.500 mL já ultrapassa 40% da volemia e se enquadra na classe IV.",
+   "Perda acima de 2.500 mL está na classe IV, com risco imediato de morte."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 87,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o Gerenciamento dos Resíduos de Saúde, regulamentado pela RDC 222 de 2018, assinale a alternativa correta sobre os grupos de resíduos (A, B, C, D ,E):",
+  "alts": [
+   "resíduos do grupo A são aqueles que contêm produtos químicos com características de inflamação, corrosividade, reatividade e toxicidade.",
+   "resíduos do grupo B são aqueles que contêm produtos químicos com características de inflamação, corrosividade, reatividade e toxicidade.",
+   "resíduos do grupo C são os que não apresentam risco biológico, químico ou radiológico ao homem e ao meio ambiente.",
+   "resíduos do grupo D são aqueles que podem possuir agentes biológicos que, devido às suas características, podem gerar infecção ao homem.",
+   "resíduos do grupo E são os rejeitos radioativos."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 222/2018 (Anexo I, classificação dos resíduos de serviços de saúde)",
+  "coment": "A RDC ANVISA 222/2018 classifica os resíduos em cinco grupos: A, biológico, com possível presença de agente infeccioso; B, químico, com características de inflamabilidade, corrosividade, reatividade e toxicidade, como medicamentos, saneantes e reagentes; C, rejeito radioativo; D, comum, sem risco biológico, químico ou radiológico, equiparado ao domiciliar; E, perfurocortante, como agulhas, lâminas, ampolas e escalpes. A alternativa correta descreve o grupo B; as demais trocam as definições entre os grupos.",
+  "porAlt": [
+   "Produto químico inflamável, corrosivo, reativo ou tóxico é do grupo B; o grupo A é o biológico.",
+   "Correta: o grupo B reúne os resíduos químicos inflamáveis, corrosivos, reativos e tóxicos.",
+   "Resíduo sem risco biológico, químico ou radiológico é do grupo D; o grupo C é o radioativo.",
+   "Resíduo com agente biológico capaz de causar infecção é do grupo A; o grupo D é o comum.",
+   "Rejeito radioativo é do grupo C; o grupo E é o dos perfurocortantes."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 88,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Alguns órgãos do corpo são muito sensíveis à ação dos quimioterápicos. São efeitos colaterais dos quimioterápicos, exceto:",
+  "alts": [
+   "náuseas.",
+   "aumento de apetite.",
+   "diarreia.",
+   "constipação.",
+   "alopecia."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "INCA. ABC do Câncer: abordagens básicas para o controle do câncer. 6ª ed. Rio de Janeiro: INCA, 2020; Resolução COFEN 569/2018",
+  "coment": "Os quimioterápicos agem sobre células de divisão rápida, malignas e normais. Por isso atingem a mucosa do trato gastrointestinal, o folículo piloso e a medula óssea: náuseas e vômitos, mucosite, diarreia, alopecia e mielossupressão são esperados. A constipação também é frequente, por alcaloides da vinca como a vincristina, por opioides e por antieméticos antagonistas 5-HT3. O efeito típico sobre o apetite é a anorexia, com perda de peso; aumento do apetite não é efeito colateral da quimioterapia.",
+  "porAlt": [
+   "Náuseas e vômitos estão entre os efeitos mais comuns, por ação central e sobre a mucosa intestinal.",
+   "Correta: é a exceção, porque a quimioterapia costuma causar anorexia, não aumento do apetite.",
+   "A diarreia decorre da lesão da mucosa intestinal, que se renova rapidamente.",
+   "A constipação ocorre com vincristina, opioides e antieméticos antagonistas 5-HT3.",
+   "A alopecia resulta da ação sobre o folículo piloso, de divisão rápida."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 89,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Quanto às feridas, de acordo com o comprometimento tecidual, são classificadas em quatro estágios. Assinale o item correto:",
+  "alts": [
+   "o estágio I caracteriza-se por abrasão ou úlcera, ocorre perda tecidual e comprometimento da epiderme ou derme.",
+   "o estágio II caracteriza-se por abrasão ou úlcera, ocorre perda tecidual e comprometimento da epiderme, derme ou ambas.",
+   "o estágio III caracteriza-se por extensa destruição de tecido, chegando a ocorrer lesão óssea ou muscular ou necrose tissular.",
+   "O estágio IV caracteriza-se por presença de úlcera profunda, com comprometimento total da pele e necrose de tecido subcutâneo.",
+   "O estágio IV caracteriza-se por formação de tecido de granulação."
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Edsberg LE, et al. Revised NPUAP pressure injury staging system. J Wound Ostomy Continence Nurs. 2016;43(6):585-597; Resolução COFEN 787/2025",
+  "coment": "Na classificação das feridas pelo comprometimento tecidual em quatro estágios, o estágio I tem pele íntegra com eritema; o II, perda parcial que atinge epiderme, derme ou ambas, como abrasão, bolha ou úlcera rasa; o III, perda total da pele com necrose do subcutâneo; o IV, destruição extensa com necrose e lesão de músculo, osso ou estruturas de suporte. A alternativa correta descreve o estágio II. Na lesão por pressão, o sistema NPIAP de 2016 define o estágio 2 como perda parcial com exposição da derme e não inclui abrasões traumáticas.",
+  "porAlt": [
+   "O estágio I tem pele íntegra com eritema, sem perda tecidual.",
+   "Correta: o estágio II é a perda parcial que compromete epiderme, derme ou ambas.",
+   "Destruição extensa com lesão de músculo ou osso descreve o estágio IV, não o III.",
+   "Úlcera profunda com necrose do subcutâneo sem atingir músculo ou osso é o estágio III.",
+   "O tecido de granulação aparece na cicatrização e não define nenhum estágio."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 91,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Conforme o Manual de Normas e Procedimentos do Ministério da Saúde para Vacinação, são contraindicações comuns a todos os imunológicos:",
+  "alts": [
+   "desnutrição.",
+   "reação anafilática confirmada a qualquer componente dos imunológicos.",
+   "dor intensa, vermelhidão ou edema no local da injeção.",
+   "febre acima de 38, 5 °.",
+   "tratamento com antibióticos."
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Eventos supostamente atribuíveis à vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS); Manual de Normas e Procedimentos para Vacinação (MS, 2014)",
+  "coment": "A contraindicação que vale para todos os imunobiológicos é a reação anafilática confirmada a dose anterior ou a algum componente da vacina, como a Instrução Normativa do Calendário Nacional de Vacinação de 2026 lista. As atenuadas somam contraindicações próprias, como gestação e imunodepressão grave. Febre alta e doença aguda moderada ou grave são precauções que adiam, não contraindicam. Desnutrição, uso de antibiótico e reação local de dor, vermelhidão ou edema numa dose anterior são falsas contraindicações e não justificam deixar de vacinar.",
+  "porAlt": [
+   "A desnutrição é falsa contraindicação; a criança desnutrida deve ser vacinada.",
+   "Correta: anafilaxia confirmada a dose anterior ou a componente da vacina contraindica todos os imunobiológicos.",
+   "Dor, vermelhidão ou edema local numa dose anterior são eventos leves e não contraindicam a vacina.",
+   "Febre acima de 38,5 °C com doença aguda é precaução que adia a vacina, não contraindicação.",
+   "O uso de antibiótico não interfere na resposta vacinal e não contraindica a vacinação."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 93,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com relação à vacina da Febre Amarela, é correto afirmar que deve ser administrada:",
+  "alts": [
+   "1 dose aos 9 meses e uma dose de reforço aos 4 anos.",
+   "aos 6 meses.",
+   "1 dose aos 6 meses e uma dose de reforço aos 4 anos.",
+   "aos 9 meses, 1 dose, com uma dose de reforço aos 14 anos.",
+   "somente uma dose aos 9 meses."
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), Quadro 2",
+  "coment": "Pela Instrução Normativa do Calendário Nacional de Vacinação de 2026 (Quadro 2), a criança de 9 meses a 4 anos, 11 meses e 29 dias recebe 1 dose da vacina febre amarela aos 9 meses e 1 dose de reforço aos 4 anos, com intervalo mínimo de 30 dias. Quem recebeu só 1 dose antes dos 5 anos faz 1 reforço; quem recebeu a primeira dose a partir dos 5 anos tem esquema completo com dose única. A dose aos 6 a 8 meses só existe como dose zero, em área com circulação confirmada, e não vale para o esquema.",
+  "porAlt": [
+   "Correta: 1 dose aos 9 meses e reforço aos 4 anos é o esquema da IN do calendário 2026.",
+   "Aos 6 meses a vacina só é aplicada como dose zero em situação epidemiológica de risco, fora da rotina.",
+   "O esquema de rotina começa aos 9 meses; a dose aos 6 meses não conta e não substitui a de 9 meses.",
+   "O reforço é aos 4 anos, não aos 14; não existe reforço de febre amarela na adolescência no calendário.",
+   "Dose única aos 9 meses ficou incompleta: a criança vacinada antes dos 5 anos precisa do reforço aos 4 anos."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 94,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A tuberculose é uma doença de transmissão aérea e se instala a partir da inalação de aerossóis oriundos das vias aéreas, durante a fala, espirro ou tosse das pessoas com tuberculose ativa. Com relação à tuberculose, é de suma importância a pesquisa bacteriológica. Com relação a isso, é correto afirmar que o método mais usado é denominado:",
+  "alts": [
+   "imunofluorescência.",
+   "baciloscopia de escarro.",
+   "ressonância magnética.",
+   "raio X de tórax.",
+   "prova tuberculínica."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Manual de Recomendações para o Controle da Tuberculose no Brasil. 2ª ed. atualizada. Brasília, 2019",
+  "coment": "A pesquisa bacteriológica é o eixo do diagnóstico da tuberculose pulmonar. A baciloscopia direta do escarro, que busca o bacilo álcool-ácido resistente pelo método de Ziehl-Neelsen, é barata, rápida e a mais difundida, e é o exame do controle mensal do tratamento. Pelo Manual de Recomendações do MS (2019), onde há teste rápido molecular (TRM-TB) ele é o exame inicial de diagnóstico, pois detecta o bacilo e a resistência à rifampicina em cerca de duas horas, mas não serve para controle de tratamento. Raio X e prova tuberculínica não são exames bacteriológicos.",
+  "porAlt": [
+   "A imunofluorescência não é método de rotina na pesquisa do bacilo da tuberculose.",
+   "Correta: a baciloscopia de escarro é o método bacteriológico mais difundido e o do controle do tratamento.",
+   "A ressonância magnética não pesquisa bacilo e não tem papel no diagnóstico de rotina da tuberculose.",
+   "O raio X de tórax é exame de imagem, útil como apoio, mas não é pesquisa bacteriológica.",
+   "A prova tuberculínica indica infecção pelo bacilo, latente ou ativa, e não é pesquisa bacteriológica."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 95,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A hanseníase é uma doença infectocontagiosa que infecta os nervos periféricos. No tratamento da hanseníase, os medicamentos utilizados são:",
+  "alts": [
+   "rifampicina, dapsona e azitromicina.",
+   "dapsona e doxiciclina.",
+   "rifampicina, dapsona e clofazimina.",
+   "azitromicina e dapsona.",
+   "dapsona e famotidina."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Protocolo Clínico e Diretrizes Terapêuticas da Hanseníase, Portaria SCTIE/MS 67/2022",
+  "coment": "O tratamento da hanseníase no SUS é a poliquimioterapia única (PQT-U), com rifampicina, dapsona e clofazimina para paucibacilares e multibacilares, pelo PCDT de 2022 (Portaria SCTIE/MS 67/2022). Muda só a duração: 6 doses no PB e 12 no MB. No adulto acima de 50 kg, a dose mensal supervisionada é rifampicina 600 mg, clofazimina 300 mg e dapsona 100 mg, e a diária autoadministrada é clofazimina 50 mg e dapsona 100 mg. Azitromicina, doxiciclina e famotidina não fazem parte do esquema padrão.",
+  "porAlt": [
+   "A azitromicina não integra a PQT-U; o terceiro fármaco do esquema é a clofazimina.",
+   "Dapsona com doxiciclina não é esquema padrão; falta a rifampicina, principal bactericida.",
+   "Correta: rifampicina, dapsona e clofazimina compõem a PQT-U do PCDT de 2022.",
+   "Azitromicina com dapsona não é esquema do PCDT e deixa de fora a rifampicina e a clofazimina.",
+   "A famotidina é antiulceroso, sem ação contra o Mycobacterium leprae."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 96,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O enfermeiro vai avaliar o ritmo respiratório de um paciente. O mesmo apresenta respiração ataxica, irregular, com incursões respiratórias que podem ser lentas e rápidas, algumas vezes superficiais ou profundas. No exame físico, o enfermeiro conclui que se trata de:",
+  "alts": [
+   "respiração de kussmaul.",
+   "taquipneia.",
+   "respiração de Biot.",
+   "apneia.",
+   "respiração de Cheyne-Stokes."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto CC. Semiologia Médica. 8ª ed. Rio de Janeiro: Guanabara Koogan, 2019 (ritmos respiratórios)",
+  "coment": "A respiração de Biot, também chamada atáxica, é totalmente irregular quanto ao ritmo e à amplitude: incursões ora superficiais, ora profundas, rápidas ou lentas, intercaladas com períodos de apneia, sem padrão previsível. Indica lesão do centro respiratório bulbar, como na hipertensão intracraniana e nas lesões do tronco. Cheyne-Stokes tem ciclos regulares de amplitude crescente e decrescente com apneia; Kussmaul é ampla, profunda e regular, típica da acidose metabólica.",
+  "porAlt": [
+   "A respiração de Kussmaul é profunda, ampla e regular, típica da cetoacidose, não irregular.",
+   "Taquipneia é só o aumento da frequência respiratória, sem a irregularidade descrita.",
+   "Correta: a respiração de Biot, ou atáxica, é irregular em ritmo e amplitude, com pausas imprevisíveis.",
+   "Apneia é a ausência de respiração, e o paciente descrito respira com incursões variáveis.",
+   "Cheyne-Stokes tem ciclos regulares de amplitude crescente e decrescente alternados com apneia."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 98,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa correta sobre as novas diretrizes da AHA (American Heart Association) de 2020:",
+  "alts": [
+   "É recomendada o uso rotineiro de dupla desfibrilação sequencial.",
+   "o acesso intravenoso (IV) é a via preferida de administração de medicação durante a ressuscitação, sendo assim, o acesso intraósseo (IO) é aceitável se o acesso IV não estiver disponível.",
+   "na ressuscitação pediátrica, a ventilação deve ocorrer a cada 6 segundos (10 respirações por minuto) para todos os casos.",
+   "Para uma RCP de boa qualidade deve -se comprimir o abdômen com força pelo menos 5 polegadas.",
+   "entre os bebês e as crianças com choque hemorrágico depois de trauma, não é aconselhável administrar derivados do sangue, quando disponíveis, e sim cristaloides, para ressuscitação de volume contínuo."
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Diretrizes da American Heart Association de 2020 para RCP e ACE; Diretrizes AHA 2025 para RCP e ACE (Part 9, Adult ALS)",
+  "coment": "Nas diretrizes AHA 2020, o acesso intravenoso é a via preferida para fármacos na parada, e o intraósseo é aceitável se o IV não estiver disponível ou falhar. As Diretrizes AHA 2025 mantêm a ordem: tentar primeiro o IV e usar o IO se as tentativas iniciais falharem ou não forem viáveis (classe 2a). A dupla desfibrilação sequencial nunca foi recomendada como rotina. Na criança com via aérea avançada, ventila-se 1 vez a cada 2 a 3 segundos. As compressões são no tórax, com pelo menos 5 cm (2 polegadas).",
+  "porAlt": [
+   "A AHA não recomenda o uso rotineiro da dupla desfibrilação sequencial.",
+   "Correta: o acesso IV é a via preferida e o IO é aceitável quando o IV não está disponível.",
+   "Na RCP pediátrica com via aérea avançada a AHA 2020 indica 1 ventilação a cada 2 a 3 segundos.",
+   "As compressões são torácicas, com pelo menos 5 cm (2 polegadas), e nunca no abdome.",
+   "A AHA 2020 considera razoável dar hemoderivados, quando disponíveis, em vez de cristaloide no choque hemorrágico pediátrico."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 99,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa incorreta acerca das novas atualizações da American Heart Association (AHA) 2020:",
+  "alts": [
+   "na RCP, em ritmo não chocável, deve ser administrada imediatamente epinefrina de 2mg a cada 3 a 5 min.",
+   "os socorristas devem buscar uma ETCO2 pelo menos ≥ 10 mmHg, preferencialmente ≥ 20 mmHg, que foram comprovadamente associados a maior probabilidade de retorno da circulação espontânea.",
+   "o acesso intraósseo pode ser considerado se as tentativas de acesso venoso não forem bem-sucedidas ou forem inviáveis.",
+   "recomenda-se administrar epinefrina o mais precocemente possível na PCR com ritmos não chocáveis.",
+   "a AHA acrescentou um sexto elo na cadeia de sobrevivência do atendimento à possível parada cardiorrespiratória (PCR), tanto em ambiente pré-hospitalar quanto intra-hospitalar."
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Diretrizes da American Heart Association de 2020 para RCP e ACE; Diretrizes AHA 2025 para RCP e ACE (Part 9, Adult ALS)",
+  "coment": "A dose de epinefrina (adrenalina) na parada do adulto é 1 mg IV ou IO a cada 3 a 5 minutos, em qualquer ritmo, e não 2 mg. No ritmo não chocável, ela deve ser dada o quanto antes. Essas regras valem na AHA 2020 e foram mantidas na AHA 2025. A ETCO2 de pelo menos 10 mmHg, idealmente 20 mmHg ou mais, e o IO quando o IV falha também constam da AHA 2020. O sexto elo, a recuperação, foi acréscimo de 2020; em 2025 a AHA passou a uma cadeia de sobrevivência única para todas as idades e locais.",
+  "porAlt": [
+   "Correta: é a afirmativa incorreta, porque a dose de epinefrina na parada do adulto é 1 mg a cada 3 a 5 minutos, não 2 mg.",
+   "A AHA 2020 associou ETCO2 de 10 mmHg ou mais, idealmente 20 ou mais, a maior chance de retorno da circulação.",
+   "O acesso intraósseo é aceito quando as tentativas de acesso venoso falham ou são inviáveis.",
+   "No ritmo não chocável a epinefrina deve ser administrada o mais cedo possível, desde a AHA 2020.",
+   "Em 2020 a AHA acrescentou o elo de recuperação às cadeias intra e extra-hospitalar."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 100,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O documento básico e essencial à coleta de dados da mortalidade no Brasil para alimentação do Sistema de Informações Sobre Mortalidade (SIM) é:",
+  "alts": [
+   "prontuário Eletrônico do Paciente.",
+   "declaração de óbito.",
+   "notificação de Agravos.",
+   "notificação de Evento Adverso.",
+   "certidão de óbito."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria SVS/MS 116/2009 (coleta de dados do SIM e do SINASC)",
+  "coment": "O Sistema de Informações sobre Mortalidade (SIM) é alimentado pela Declaração de Óbito (DO), documento padrão de uso obrigatório em todo o território nacional, emitido pelo médico, como regulamenta a Portaria SVS/MS 116/2009. A DO tem numeração única e é a base para estatísticas de mortalidade por causa, idade, sexo e local. A certidão de óbito é emitida pelo cartório a partir da DO e tem função civil. O SINAN recebe as notificações de agravos e o Notivisa, os eventos adversos.",
+  "porAlt": [
+   "O prontuário eletrônico registra a assistência e não é o documento que alimenta o SIM.",
+   "Correta: a Declaração de Óbito é o documento padrão que alimenta o SIM.",
+   "A notificação de agravos alimenta o SINAN, não o sistema de mortalidade.",
+   "A notificação de evento adverso vai para o Notivisa, ligado à segurança do paciente.",
+   "A certidão de óbito é lavrada pelo cartório a partir da DO e tem função civil, não estatística."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 26,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Gerir laboratórios públicos de saúde e hemocentros é uma competência:",
+  "alts": [
+   "da direção estadual do Sistema Único de Saúde (SUS).",
+   "da direção nacional do Sistema Único da Saúde (SUS).",
+   "da direção microrregional do Sistema Único da Saúde (SUS).",
+   "da direção macrorregional do Sistema Único da Saúde (SUS).",
+   "da direção municipal do Sistema de Saúde (SUS)."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 18, VIII, e art. 17",
+  "coment": "A Lei 8.080/1990 dá à direção municipal do SUS a competência de gerir laboratórios públicos de saúde e hemocentros (art. 18, VIII), coerente com a diretriz de descentralização, em que o município executa. À direção estadual cabe coordenar a rede estadual de laboratórios de saúde pública e hemocentros e gerir as unidades que permaneçam em sua organização (art. 17); à nacional, definir e coordenar os sistemas de rede de laboratórios (art. 16). A lei não prevê direção micro ou macrorregional. O enunciado da banca escreve 'Sistema de Saúde (SUS)'.",
+  "porAlt": [
+   "A direção estadual coordena a rede de laboratórios e hemocentros; gerir é atribuição literal do município.",
+   "A direção nacional define e coordena os sistemas de redes de laboratórios, sem geri-los.",
+   "A Lei 8.080/1990 não cria direção microrregional do SUS; a direção é única em cada esfera de governo.",
+   "Não há direção macrorregional na lei; regiões de saúde são espaços de organização, não esferas de direção.",
+   "Correta: gerir laboratórios públicos de saúde e hemocentros é competência municipal (art. 18, VIII)."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 27,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A incorporação, a exclusão ou a alteração pelo SUS de novos medicamentos, produtos e procedimentos, bem como a constituição ou a alteração de protocolo clínico ou de diretriz terapêutica, são atribuições:",
+  "alts": [
+   "da Federação das Santas Casas.",
+   "dos Estados.",
+   "do Ministério da Saúde.",
+   "dos Conselhos Municipais de Saúde.",
+   "dos Conselhos de Secretarias Municipais de Saúde."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 19-Q (incluído pela Lei 12.401/2011)",
+  "coment": "O art. 19-Q da Lei 8.080/1990, incluído pela Lei 12.401/2011, atribui ao Ministério da Saúde a incorporação, exclusão ou alteração de medicamentos, produtos e procedimentos no SUS e a constituição ou alteração de protocolos clínicos e diretrizes terapêuticas. O ministério é assessorado pela Comissão Nacional de Incorporação de Tecnologias no SUS (Conitec), cujo relatório considera evidência de eficácia, segurança e custo-efetividade. Estados, conselhos e entidades não decidem incorporação nacional.",
+  "porAlt": [
+   "A Federação das Santas Casas é entidade filantrópica privada, sem competência de incorporar tecnologias.",
+   "Os estados não incorporam tecnologias ao SUS; a atribuição é federal, pelo art. 19-Q.",
+   "Correta: o art. 19-Q atribui ao Ministério da Saúde, assessorado pela Conitec, a incorporação de tecnologias.",
+   "Os Conselhos Municipais de Saúde fazem controle social local e não decidem incorporação nacional.",
+   "Os Cosems representam os municípios no estado e não têm competência de incorporar tecnologias."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 28,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Uma das exigências aos Municípios, Estados e Distrito Federal para receberem os recursos do Fundo Nacional de Saúde (FNS) é que estes contem com:",
+  "alts": [
+   "Secretarias de Saúde.",
+   "Conselho de Saúde, com composição paritária.",
+   "Aprovação do Poder Legislativo.",
+   "Lei Orgânica.",
+   "Diretório de Saúde."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 4º",
+  "coment": "Para receber os recursos do Fundo Nacional de Saúde, o art. 4º da Lei 8.142/1990 exige que municípios, estados e Distrito Federal tenham: Fundo de Saúde; Conselho de Saúde com composição paritária; plano de saúde; relatórios de gestão; contrapartida de recursos no orçamento; e comissão para elaborar o plano de carreira, cargos e salários. Sem esses requisitos, os recursos passam a ser administrados pelo estado ou pela União. A paridade é a dos usuários em relação ao conjunto dos demais segmentos (art. 1º, § 4º).",
+  "porAlt": [
+   "Ter secretaria de saúde não está entre os requisitos do art. 4º para receber os repasses do FNS.",
+   "Correta: o Conselho de Saúde paritário é um dos requisitos do art. 4º da Lei 8.142/1990.",
+   "Aprovação do Poder Legislativo não é exigência do art. 4º para o repasse fundo a fundo.",
+   "Lei Orgânica não está entre as condições listadas no art. 4º da Lei 8.142/1990.",
+   "Diretório de Saúde não existe na lei; o requisito é o Fundo de Saúde, entre outros."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 29,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "É entidade representativa dos entes estaduais e/ou municipais para tratar de matérias referentes à saúde e declarados de utilidade pública e de relevante função social, na forma do regulamento:",
+  "alts": [
+   "Conselho Nacional de Secretarias Municipais de Saúde.",
+   "Comissões Inter gestores Bipartite.",
+   "Congresso Nacional.",
+   "Comissões Inter gestores Tripartite.",
+   "Conselhos de Secretarias Municipais de Saúde."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 14-B (incluído pela Lei 12.466/2011)",
+  "coment": "O art. 14-B da Lei 8.080/1990, incluído pela Lei 12.466/2011, reconhece o Conselho Nacional de Secretários de Saúde (Conass) e o Conselho Nacional de Secretarias Municipais de Saúde (Conasems) como entidades representativas dos entes estaduais e municipais para tratar de matérias de saúde, declarados de utilidade pública e de relevante função social, na forma do regulamento. O texto do enunciado é o desse caput. Os Cosems representam os municípios no âmbito estadual, vinculados ao Conasems. CIB e CIT são foros de pactuação entre gestores (art. 14-A), não entidades representativas.",
+  "porAlt": [
+   "Correta: o Conasems é reconhecido pelo art. 14-B como entidade representativa, de utilidade pública.",
+   "A CIB é foro de negociação e pactuação entre estado e municípios (art. 14-A), não entidade representativa.",
+   "O Congresso Nacional é o Poder Legislativo federal, sem relação com a representação dos gestores do SUS.",
+   "A CIT é foro de pactuação tripartite (art. 14-A), e não a entidade descrita no caput do art. 14-B.",
+   "Os Cosems representam os municípios no âmbito estadual; o caput do art. 14-B trata do Conass e do Conasems."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 30,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Segundo a Lei nº 1241/2011 a assistência terapêutica integral consiste em dispensação de medicamentos e produtos de interesse para a saúde, cuja prescrição esteja em conformidade com as diretrizes terapêuticas definidas em protocolo clínico para a doença ou o agravo à saúde a ser tratado ou, na falta do protocolo, em conformidade com o disposto no art. 19-P da mesma lei. É produto de interesse para a saúde no que tange a lei em pauta, EXCETO:",
+  "alts": [
+   "órteses.",
+   "próteses.",
+   "bolsas coletoras.",
+   "equipamentos médicos.",
+   "medicação de alto custo."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, arts. 19-M e 19-N, I (incluídos pela Lei 12.401/2011)",
+  "coment": "O enunciado cita 'Lei nº 1241/2011', erro da banca: a norma é a Lei 12.401/2011, que incluiu na Lei 8.080/1990 os arts. 19-M a 19-U sobre assistência terapêutica e incorporação de tecnologias. O art. 19-N, I, define produtos de interesse para a saúde como órteses, próteses, bolsas coletoras e equipamentos médicos. Medicamento, de alto custo ou não, não é 'produto de interesse para a saúde' nessa definição: a dispensação de medicamentos aparece à parte, no art. 19-M, I, ao lado desses produtos.",
+  "porAlt": [
+   "Órteses estão expressamente listadas como produto de interesse para a saúde no art. 19-N, I.",
+   "Próteses constam do rol de produtos de interesse para a saúde do art. 19-N, I.",
+   "Bolsas coletoras são produto de interesse para a saúde pelo art. 19-N, I.",
+   "Equipamentos médicos integram a definição de produtos de interesse para a saúde do art. 19-N, I.",
+   "Correta: é a exceção, porque medicamento não está entre os produtos de interesse para a saúde do art. 19-N, I."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 31,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Região de Saúde é espaço geográfico contínuo constituído por agrupamentos de Municípios limítrofes, delimitado a partir de identidades culturais, econômicas e sociais e de redes de comunicação e infraestrutura de transportes compartilhados, com a finalidade de integrar a organização, o planejamento e a execução de ações e serviços de saúde. A instituição de Regiões de Saúde situadas em áreas de fronteira com outros países deverá respeitar as normas que regem as relações:",
+  "alts": [
+   "nacionais.",
+   "municipais.",
+   "internacionais.",
+   "estaduais.",
+   "entre fronteiras."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, art. 2º, I, e art. 4º, § 2º",
+  "coment": "O conceito de Região de Saúde transcrito no enunciado é o do art. 2º, I, do Decreto 7.508/2011. As regiões são instituídas pelo estado em articulação com os municípios (art. 4º); podem ser interestaduais, por ato conjunto dos estados (§ 1º); e, quando situadas em área de fronteira com outros países, devem respeitar as normas que regem as relações internacionais (§ 2º). A palavra exata da norma é 'internacionais', o que elimina 'entre fronteiras' e as demais.",
+  "porAlt": [
+   "Normas nacionais não bastam: a fronteira com outro país envolve relações regidas pelo direito internacional.",
+   "Normas municipais não regem relações com outros países; o decreto exige respeito às normas internacionais.",
+   "Correta: o art. 4º, § 2º, manda respeitar as normas que regem as relações internacionais.",
+   "Normas estaduais tratam das regiões interestaduais (§ 1º), não das áreas de fronteira com outros países.",
+   "'Entre fronteiras' não é a expressão da norma; o decreto fala em relações internacionais."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 32,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Para assegurar resolutividade na rede de atenção à saúde, alguns fundamentos precisam ser considerados. O fundamento onde os custos médios de longo prazo diminuem, à medida que aumenta o volume das atividades e os custos fixos se distribuem por um maior número dessas atividades, sendo o longo prazo, um período de tempo suficiente para que todos os insumos sejam variáveis, é denominado:",
+  "alts": [
+   "qualidade.",
+   "economia de escala.",
+   "suficiência.",
+   "disponibilidade de recursos.",
+   "acesso."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 4.279/2010, consolidada na Portaria de Consolidação 3/2017, Anexo I (Redes de Atenção à Saúde)",
+  "coment": "Entre os fundamentos das Redes de Atenção à Saúde (Portaria 4.279/2010, hoje no Anexo I da Portaria de Consolidação 3/2017) estão economia de escala, disponibilidade de recursos, qualidade e acesso. Economia de escala ocorre quando os custos médios de longo prazo caem à medida que o volume de atividades aumenta e os custos fixos se distribuem por mais atividades, longo prazo sendo o tempo em que todos os insumos se tornam variáveis. Por isso serviços de alta complexidade se concentram em poucos pontos, e os de atenção primária se dispersam.",
+  "porAlt": [
+   "Qualidade é o fundamento ligado a segurança, efetividade e adequação, não à redução de custo médio por volume.",
+   "Correta: custos médios que caem com o aumento do volume definem a economia de escala.",
+   "Suficiência é ter recursos em quantidade e qualidade bastantes para a necessidade, não a queda de custos com o volume.",
+   "Disponibilidade de recursos trata da escassez de insumos, que também orienta a concentração de serviços.",
+   "Acesso diz respeito à ausência de barreiras geográficas, financeiras e organizacionais ao uso dos serviços."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 33,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Leia: “As equipes deverão ser compostas minimamente por médicos preferencialmente da especialidade medicina de família e comunidade, enfermeiro preferencialmente especialista em saúde da família, auxiliares de enfermagem e ou técnicos de enfermagem. Poderão agregar outros profissionais como dentistas, auxiliares de saúde bucal e ou técnicos de saúde bucal, agentes comunitários de saúde e agentes de combate à endemias.” O texto acima se refere a(o):",
+  "alts": [
+   "Equipes de Saúde da Família.",
+   "Equipes de Saúde Bucal.",
+   "Núcleo Ampliado de Saúde da Família e Atenção Básica.",
+   "Estratégia de Agentes Comunitários de Saúde.",
+   "Equipes da Atenção Básica."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB); Portaria GM/MS 635/2023 (eMulti)",
+  "coment": "O texto transcrito é a definição da Equipe da Atenção Básica (eAB) na PNAB de 2017 (Portaria GM/MS 2.436/2017): médico preferencialmente de família e comunidade, enfermeiro preferencialmente especialista em saúde da família e auxiliar ou técnico de enfermagem, podendo agregar saúde bucal, ACS e ACE. A Equipe de Saúde da Família tem composição mínima obrigatória que inclui ACS. A Portaria 2.539/2019 criou a equipe de Atenção Primária (eAP), e o NASF-AB foi substituído pelas eMulti (Portaria GM/MS 635/2023).",
+  "porAlt": [
+   "A Equipe de Saúde da Família tem ACS na composição mínima, e não como profissional opcional.",
+   "A Equipe de Saúde Bucal é formada por cirurgião-dentista e auxiliar ou técnico em saúde bucal.",
+   "O NASF-AB era equipe multiprofissional de apoio às equipes, hoje substituído pelas eMulti.",
+   "A Estratégia de Agentes Comunitários de Saúde se organiza em torno do ACS, supervisionado por enfermeiro.",
+   "Correta: a composição descrita é a da Equipe da Atenção Básica (eAB) da PNAB de 2017."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 34,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Conceituada como uma tecnologia que normatiza o uso de serviços em determinados pontos de atenção à saúde, estabelecendo critérios de ordenamento por necessidades e riscos, promovendo a transparência, ou seja, constituem uma tecnologia de gestão da clínica orientada a racionalizar o acesso a serviços em que exista um desequilíbrio entre a oferta e a demanda dentro da Gestão da Clínica:",
+  "alts": [
+   "auditoria clínica.",
+   "lista de espera",
+   "gestão de caso.",
+   "gestão da condição da saúde.",
+   "linhas de cuidado."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Mendes EV. As Redes de Atenção à Saúde. Brasília: Organização Pan-Americana da Saúde, 2011 (tecnologias de gestão da clínica)",
+  "coment": "Eugênio Vilaça Mendes (As Redes de Atenção à Saúde, OPAS, 2011) descreve as tecnologias de gestão da clínica: diretrizes clínicas, gestão da condição de saúde, gestão de caso, auditoria clínica e listas de espera. A lista de espera normatiza o uso de serviços em pontos de atenção onde a oferta é menor que a demanda, ordena o acesso por necessidade e risco e dá transparência à fila. Auditoria clínica avalia a prática; gestão de caso acompanha pessoas de alta complexidade; gestão da condição cuida de uma condição na população.",
+  "porAlt": [
+   "A auditoria clínica analisa a prática contra padrões para melhorar a qualidade, sem ordenar filas.",
+   "Correta: a lista de espera racionaliza o acesso por necessidade e risco onde a demanda supera a oferta.",
+   "A gestão de caso acompanha individualmente pessoas com condições de alta complexidade e risco.",
+   "A gestão da condição de saúde organiza o cuidado de uma condição crônica estratificada por risco na população.",
+   "Linhas de cuidado descrevem o percurso assistencial, sem ser a tecnologia de ordenamento de filas."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 35,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Posicionar-se contra, e denunciar aos órgãos competentes, ações e procedimentos de membros da equipe de saúde, quando houver risco de danos decorrentes de imperícia, negligência e imprudência ao paciente, visando a proteção da pessoa, família e coletividade é:",
+  "alts": [
+   "direito do profissional de enfermagem.",
+   "dever do profissional de enfermagem.",
+   "facultado ao profissional de enfermagem.",
+   "princípio fundamental do profissional de enfermagem.",
+   "vedado ao profissional de enfermagem."
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética dos Profissionais de Enfermagem), art. 47",
+  "coment": "O Código de Ética dos Profissionais de Enfermagem, anexo da Resolução COFEN 564/2017 e vigente em 2026, coloca entre os deveres (art. 47) posicionar-se contra e denunciar aos órgãos competentes ações e procedimentos de membros da equipe de saúde quando houver risco de danos ao paciente por imperícia, negligência ou imprudência. O Código separa princípios fundamentais, direitos, deveres e proibições; o que é dever não é faculdade e o descumprimento é infração ética. Proibição seria omitir-se ou acobertar o fato.",
+  "porAlt": [
+   "Não é direito, porque o Código o impõe como obrigação e seu descumprimento configura infração.",
+   "Correta: o art. 47 da Res. COFEN 564/2017 o lista entre os deveres do profissional.",
+   "Não é facultativo: o profissional não pode escolher omitir-se diante do risco ao paciente.",
+   "Os princípios fundamentais estão no preâmbulo do Código; essa conduta está no capítulo dos deveres.",
+   "É o contrário de vedado: proibido seria acobertar ou se omitir diante da conduta danosa."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Código de Processo Ético do Sistema Cofen/Conselhos Regionais de Enfermagem, a citação para apresentação de defesa prévia será remetida com cópia integral do processo físico ou digital e conterá obrigatoriamente as seguintes informações, EXCETO:",
+  "alts": [
+   "identificação do denunciante e do Conselho, nos processos éticos iniciados de ofício.",
+   "identificação do denunciante e do denunciado, nos processos éticos iniciados por denúncia.",
+   "endereço residencial do denunciado, quando conhecido.",
+   "endereço do local de trabalho do denunciado, quando não conhecido o residencial.",
+   "finalidade da citação, bem como a menção do prazo e local para apresentação da defesa prévia, sob pena de revelia."
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Responsabilidade civil, penal e ética",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Resolução COFEN 706/2022 (Código de Processo Ético), art. 30, alterada pela Resolução COFEN 758/2024",
+  "coment": "O Código de Processo Ético do Sistema Cofen/Conselhos Regionais, anexo da Resolução COFEN 706/2022 (alterado em outros pontos pela 758/2024), manda que a citação para defesa prévia siga com cópia integral do processo e contenha (art. 30): identificação do denunciante e do denunciado, se houve denúncia; identificação do denunciado e do Conselho, se o processo foi iniciado de ofício; endereço residencial ou, se desconhecido, o do trabalho; finalidade, prazo e local da defesa, sob pena de revelia; e assinatura do coordenador. No processo de ofício não há denunciante: quem é identificado é o denunciado.",
+  "porAlt": [
+   "Correta: é a exceção, porque no processo iniciado de ofício identificam-se o denunciado e o Conselho, não um denunciante.",
+   "Nos processos iniciados por denúncia, a citação identifica denunciante e denunciado (art. 30, I).",
+   "O endereço residencial do denunciado, quando conhecido, consta obrigatoriamente da citação.",
+   "Sem endereço residencial conhecido, a citação traz o endereço do local de trabalho do denunciado.",
+   "A citação informa a finalidade, o prazo e o local da defesa prévia, sob pena de revelia."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No Brasil, de acordo com a legislação vigente, uma Unidade de Terapia Intensiva (UTI) deverá, EXCETO:",
+  "alts": [
+   "executar e registrar assistência médica e de enfermagem intensiva.",
+   "prestar apoio diagnóstico de imagem e laboratoriais, além de hemoterápico, cirúrgico e terapêutico 24 horas.",
+   "manter condições para assistência respiratória e monitoramento 24 horas.",
+   "prestar assistência nutricional e distribuir alimentação aos pacientes e visitantes.",
+   "manter pacientes com morte cerebral em condições que permitam a retirada de órgãos para transplantes, quando consentida."
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 50/2002 (atribuições da internação intensiva); RDC ANVISA 7/2010 (requisitos mínimos de UTI)",
+  "coment": "A RDC ANVISA 50/2002, ao listar as atribuições da internação intensiva, inclui executar e registrar a assistência médica e de enfermagem intensiva, prestar apoio diagnóstico laboratorial, de imagem, hemoterápico, cirúrgico e terapêutico 24 horas, manter monitorização e assistência respiratória 24 horas, prestar assistência nutricional e distribuir alimentação aos pacientes e manter o potencial doador em morte encefálica para retirada de órgãos, quando consentida. A pegadinha está em 'e visitantes': alimentar visitantes não é atribuição da UTI. A RDC 7/2010 também garante assistência nutricional ao paciente.",
+  "porAlt": [
+   "Executar e registrar a assistência médica e de enfermagem intensiva é atribuição da UTI.",
+   "Apoio diagnóstico, hemoterápico, cirúrgico e terapêutico 24 horas consta das atribuições da internação intensiva.",
+   "Manter assistência respiratória e monitorização 24 horas é atribuição básica da UTI.",
+   "Correta: é a exceção, porque a UTI alimenta os pacientes, mas distribuir alimentação a visitantes não é sua atribuição.",
+   "Manter o potencial doador em morte encefálica para retirada de órgãos, quando consentida, é atribuição da UTI."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A técnica do banho no leito exige inúmeras habilidades dos profissionais de enfermagem. Neste contexto, marque a alternativa INCORRETA:",
+  "alts": [
+   "a temperatura, no ambiente da Unidade de Terapia Intensiva, deve ser mantida entre 18 e 20°C para evitar a redução da temperatura corporal e consequentes riscos para o equilíbrio orgânico do paciente.",
+   "o procedimento deve obedecer ao sentido cefalocaudal, com o objetivo de prevenir a contaminação do paciente e reduzir o risco de infecção relacionado ao banho no leito.",
+   "a realização da higiene corporal é indicada uma vez ao dia, principalmente nos pacientes críticos, em razão da necessidade de mobilização intensa para higiene adequada do dorso e troca de roupa de cama.",
+   "a higiene da genitália é um cuidado essencial para a prevenção de infecções do trato urinário, principalmente quando há presença de cateter vesical de demora.",
+   "as condutas preventivas de enfermagem, da retirada não planejada da cânula de intubação no momento da higiene, incluem utilizar fixadores próprios para aumento da eficácia."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Higiene, conforto e mobilização",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Potter PA, Perry AG. Fundamentos de Enfermagem. 9ª ed. Rio de Janeiro: Elsevier, 2018 (higiene corporal)",
+  "coment": "Durante o banho no leito o paciente fica exposto e molhado e perde calor por evaporação e convecção; no doente crítico, a hipotermia aumenta consumo de oxigênio e instabilidade. Por isso se mantém o ambiente aquecido, portas e janelas fechadas, sem correntes de ar, e se expõe só a parte que está sendo lavada (Potter e Perry, 2018). Manter a UTI entre 18 e 20 °C no banho faz o contrário do que a alternativa afirma, pois esfria o paciente. Sentido cefalocaudal, higiene genital no cateter vesical e fixação segura do tubo são condutas corretas.",
+  "porAlt": [
+   "Correta: é a afirmativa incorreta, porque ambiente a 18 a 20 °C esfria o paciente exposto; o banho exige ambiente aquecido.",
+   "Lavar no sentido cefalocaudal, do mais limpo para o mais sujo, reduz a contaminação.",
+   "A higiene corporal diária, com mobilização para o dorso e troca de roupa de cama, é rotina no paciente crítico.",
+   "A higiene da genitália previne infecção urinária, sobretudo com cateter vesical de demora.",
+   "Fixadores próprios para o tubo reduzem a extubação acidental durante a mobilização do banho."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O objetivo do registro do balanço hídrico é:",
+  "alts": [
+   "medir a ureia e a creatinina plasmáticas.",
+   "estimar as perdas insensíveis em pacientes críticos.",
+   "restabelecer o volume circulante efetivo e otimizar a disponibilidade sistêmica e tecidual de oxigênio.",
+   "estabelecer a medida apropriada do peso corporal no paciente crítico.",
+   "manter uma anotação exata das entradas e saídas dos líquidos e identificar qualquer déficit."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Eliminações e balanço hídrico",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Potter PA, Perry AG. Fundamentos de Enfermagem. 9ª ed. Rio de Janeiro: Elsevier, 2018 (equilíbrio hídrico)",
+  "coment": "O balanço hídrico é o registro exato de tudo que entra (soros, diluentes, dieta, hemocomponentes, ingestão oral) e de tudo que sai (diurese, drenos, sondas, vômitos, fezes, ultrafiltração), com parciais por turno e fechamento em 24 horas. O objetivo é identificar déficit ou excesso de líquidos a tempo de corrigir. As perdas insensíveis entram no cálculo como estimativa, mas estimá-las não é o objetivo do registro. Ureia e creatinina são exames laboratoriais, e restabelecer volume circulante é meta terapêutica.",
+  "porAlt": [
+   "Ureia e creatinina se medem no laboratório; o balanço hídrico não as mede.",
+   "As perdas insensíveis são estimadas e somadas ao balanço, mas não são a finalidade do registro.",
+   "Restabelecer volume e oferta de oxigênio é meta da ressuscitação, não objetivo do registro do balanço.",
+   "O peso corporal se obtém por pesagem; o balanço só complementa a avaliação do estado hídrico.",
+   "Correta: o balanço hídrico registra com exatidão entradas e saídas para identificar déficit ou excesso."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A pressão intracraniana (PIC) é constituída pela relação de pressão/volume entre o crânio e o conteúdo da calota craniana. São cuidados essenciais para a manutenção do cateter de PIC, EXCETO:",
+  "alts": [
+   "checagem de todo o sistema nos diferentes turnos.",
+   "registro com calibrações a cada 24 horas.",
+   "realização de inspeção do sítio de inserção do cateter.",
+   "cuidados com a mobilização no leito.",
+   "controle de temperatura corporal."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Brain Trauma Foundation. Guidelines for the Management of Severe Traumatic Brain Injury, 4ª ed., 2016 (monitorização da PIC)",
+  "coment": "Os cuidados essenciais com o cateter de pressão intracraniana são checar todo o sistema a cada turno, inspecionar o sítio de inserção em busca de infecção ou fístula liquórica, mobilizar com cuidado para não tracionar o cateter e controlar a temperatura, já que a febre eleva a PIC. A calibração não segue um intervalo fixo de 24 horas: cateteres de fibra óptica ou microssensor são zerados uma única vez, antes da inserção, e os sistemas acoplados a coluna líquida são nivelados e zerados conforme o protocolo e a cada mudança de posição. Por isso o 'a cada 24 horas' é a exceção.",
+  "porAlt": [
+   "Checar o sistema em todos os turnos detecta desconexões, dobras e leituras falsas, sendo cuidado essencial.",
+   "Correta: é a exceção, porque a calibração não tem intervalo fixo de 24 horas; depende do tipo de cateter e do protocolo.",
+   "Inspecionar o sítio de inserção permite detectar infecção e fístula liquórica precocemente.",
+   "Mobilizar com cuidado evita tracionar ou deslocar o cateter e alterar a leitura.",
+   "Controlar a temperatura é essencial, pois a febre aumenta o metabolismo cerebral e a PIC."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a evolução de enfermagem podemos afirmar que:",
+  "alts": [
+   "é composta por dados brutos.",
+   "é elaborada por toda equipe de enfermagem.",
+   "é referente a um período de 48 horas.",
+   "registra uma observação.",
+   "é referente a um período de 24 horas."
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Registro e documentação de enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, art. 8º; Resolução COFEN 514/2016 (Guia de Recomendações para registros de enfermagem)",
+  "coment": "A evolução de enfermagem é privativa do enfermeiro e registra a etapa final do Processo de Enfermagem; a anotação é feita por toda a equipe (Res. COFEN 736/2024, art. 8º). O Guia de Recomendações para registros da Res. COFEN 514/2016 resume a diferença: a anotação traz dados brutos, é feita por toda a equipe e se refere a um momento; a evolução traz dados analisados, é do enfermeiro e se refere às últimas 24 horas, comparando a resposta do paciente com o período anterior e embasando o planejamento.",
+  "porAlt": [
+   "Dados brutos caracterizam a anotação de enfermagem; a evolução traz dados analisados.",
+   "A evolução é privativa do enfermeiro; a anotação é que é feita por toda a equipe.",
+   "A evolução se refere às últimas 24 horas, não a 48 horas.",
+   "Registrar uma observação pontual é próprio da anotação, referente a um momento.",
+   "Correta: a evolução de enfermagem se refere ao período de 24 horas e é elaborada pelo enfermeiro."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A estimulação da atividade das enzimas microssomais hepáticas por medicamentos e outras substâncias representa importante problema clínico. Centenas de drogas, inclusive analgésicos, anticonvulsivantes, hipoglicemiantes orais, sedativos e tranquilizantes, estimulam a sua própria biotransformação e a de outras drogas. A indução enzimática eleva os níveis de enzima e resulta em metabolismo acelerado dos fármacos. A indução enzimática:",
+  "alts": [
+   "diminui a velocidade de produção dos metabólitos.",
+   "aumenta a meia-vida sérica da droga.",
+   "diminui a depuração hepática da droga.",
+   "aumenta a velocidade de biotransformação hepática da droga.",
+   "aumenta as concentrações séricas da droga livre e total"
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Interações e reações adversas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Brunton LL, Knollmann BC (eds.). Goodman & Gilman's The Pharmacological Basis of Therapeutics. 14ª ed. New York: McGraw Hill, 2023 (metabolismo de fármacos)",
+  "coment": "Indutores enzimáticos, como rifampicina, carbamazepina, fenitoína e fenobarbital, aumentam a síntese das enzimas microssomais hepáticas, sobretudo do citocromo P450. Com mais enzima, a biotransformação fica mais rápida, a depuração hepática sobe, a meia-vida encurta e as concentrações séricas do fármaco ativo caem, podendo levar a falha terapêutica (por exemplo, anticoncepcional oral com rifampicina). A inibição enzimática produz o efeito inverso, com acúmulo e toxicidade.",
+  "porAlt": [
+   "A indução acelera, e não diminui, a produção de metabólitos.",
+   "Com metabolismo acelerado a meia-vida sérica do fármaco diminui, não aumenta.",
+   "A indução aumenta a depuração hepática; diminuí-la é efeito da inibição enzimática.",
+   "Correta: a indução enzimática aumenta a velocidade de biotransformação hepática do fármaco.",
+   "Com metabolismo mais rápido as concentrações séricas caem; aumentar é efeito da inibição enzimática."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (44 h)",
+   "n": 45,
+   "parte": "especificas"
+  }
+ }
+]

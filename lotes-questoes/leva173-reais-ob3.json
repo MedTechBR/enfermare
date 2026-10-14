@@ -1,0 +1,1418 @@
+[
+ {
+  "q": "A vacina intitulada SCRV (tetra viral), aplicada aos 15 meses (dose única), tem como objetivo evitar as seguintes doenças:",
+  "alts": [
+   "difteria, tétano, coqueluche, hepatite B, meningite e outras infecções causadas pelo Haemophilus influenzae tipo b",
+   "doenças invasivas causadas por Neisseria meningitidis do sorogrupo C",
+   "sarampo, caxumba, rubéola e varicela",
+   "difteria, tuberculose, sarampo e coqueluche"
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "SCRV é a sigla da tetraviral: S de sarampo, C de caxumba, R de rubéola e V de varicela, todas vírus vivos atenuados. Atualização importante: a Instrução Normativa do calendário de 2026 recomenda, aos 15 meses, a 2ª dose de tríplice viral (SCR) no mesmo dia da 1ª dose de varicela monovalente, em sítios distintos; a tetraviral fica para a falta da varicela monovalente. A varicela tem 2 doses, aos 15 meses e aos 4 anos. O que a vacina previne não mudou.",
+  "porAlt": [
+   "Errada: essas doenças são as da vacina penta (DTP, hepatite B e Haemophilus influenzae tipo b), aplicada aos 2, 4 e 6 meses.",
+   "Errada: a doença meningocócica pelo sorogrupo C é alvo da meningocócica C conjugada, não da tetraviral.",
+   "Correta: a tetraviral (SCRV) protege contra sarampo, caxumba, rubéola e varicela, como diz a própria sigla.",
+   "Errada: tuberculose é prevenida pela BCG, e difteria e coqueluche pelas vacinas com componente DTP."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma cobertura amplamente utilizada em feridas cavitárias e que permite a hemostasia, mantendo o meio úmido, entretanto, absorvendo o exsudato e preenchendo as cavidades, recebe o nome de:",
+  "alts": [
+   "AGE - Ácidos Graxos Essenciais",
+   "Alginato de cálcio",
+   "Hidrocoloide",
+   "Papaína"
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Resolução COFEN 787/2025 (atuação da enfermagem em lesões cutâneas)",
+  "coment": "O alginato de cálcio é uma fibra de alga que troca o cálcio pelo sódio do exsudato e vira gel. Por isso absorve muito exsudato, mantém o leito úmido, preenche cavidades e tem ação hemostática pelo cálcio liberado, o que o torna a escolha nas feridas cavitárias, exsudativas e com sangramento leve. Não serve para ferida seca, porque resseca e adere ao leito. A escolha da cobertura é do enfermeiro, conforme a Res. COFEN 787/2025.",
+  "porAlt": [
+   "Errada: o AGE hidrata e protege a pele e a lesão superficial; não preenche cavidade nem tem efeito hemostático.",
+   "Correta: o alginato de cálcio absorve exsudato, mantém o meio úmido, preenche cavidades e é hemostático.",
+   "Errada: o hidrocoloide é placa oclusiva para feridas superficiais com pouco exsudato e não se usa em cavidade nem em ferida infectada.",
+   "Errada: a papaína é enzima proteolítica usada para desbridamento químico de tecido desvitalizado, não para hemostasia."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A infecção do trato urinário associada ao cateter vesical demora (ITU – A) está relacionada à assistência à saúde (IRAS). Faz parte do pacote de medidas de prevenção de ITU – AC:",
+  "alts": [
+   "trocar o cateter vesical de demora rotineiramente para evitar acúmulo de biofilme",
+   "realizar ultrassom de bexiga em todos os pacientes com cateter vesical de demora diariamente",
+   "instalar o dispositivo condom, quando possível, ou dar preferência ao cateterismo intermitente",
+   "direcionar o uso de cateter vesical de demora para todos casos de pacientes internados em unidade hospitalar devido ao risco de lesão por pressão"
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (ANVISA, 2017), Caderno 4",
+  "coment": "O pacote de prevenção de ITU associada a cateter do Caderno 4 da ANVISA pode ser lembrado pelo ABCDE: adesão às medidas, bexiga avaliada por ultrassom quando há dúvida de retenção, condom e cateterismo intermitente como alternativas, direcionar a sonda de demora só para indicação clara e evitar mantê-la sem necessidade. A sonda de demora só se justifica em retenção, controle rigoroso de débito, pós-operatório pelo menor tempo e lesão por pressão estágio 4 contaminada por urina. O enunciado traz o erro do caderno na sigla da ITU associada a cateter, mantido como está.",
+  "porAlt": [
+   "Errada: a troca rotineira, em intervalo fixo, não é recomendada; troca-se por obstrução, mau funcionamento ou quebra do sistema fechado.",
+   "Errada: o ultrassom de bexiga serve para avaliar retenção e evitar sondagens desnecessárias, não para todo paciente sondado todo dia.",
+   "Correta: dispositivo externo (condom) e cateterismo intermitente são as alternativas preferidas à sonda de demora no pacote da ANVISA.",
+   "Errada: sonda de demora não previne lesão por pressão e só deve ser usada nas indicações aceitas, nunca de rotina na internação."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As infecções do sítio cirúrgico (ISC), que ocorrem no pós-operatório em cerca de 3 a 20%, são as complicações mais comuns decorrentes do ato cirúrgico e dos procedimentos realizados, gerando um impacto desfavorável nos desfechos dos pacientes. Uma das recomendações para a prevenção dessa infecção é a administração de antibióticos com dose efetiva em até:",
+  "alts": [
+   "20 minutos após a incisão cirúrgica",
+   "40 minutos após a incisão cirúrgica",
+   "60 minutos após a incisão cirúrgica",
+   "60 minutos antes da incisão cirúrgica"
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (ANVISA, 2017), Caderno 4",
+  "coment": "A antibioticoprofilaxia cirúrgica precisa de concentração tecidual adequada no momento da incisão. Por isso o Caderno 4 da ANVISA recomenda administrá-la até 60 minutos antes da incisão, com exceção de vancomicina e ciprofloxacino, iniciados 1 a 2 horas antes pelo tempo de infusão, e suspendê-la em até 24 horas. A lista de verificação da OMS confere na pausa antes da incisão se o antimicrobiano foi dado nos últimos 60 minutos. Dose feita depois da incisão chega tarde e perde o efeito preventivo.",
+  "porAlt": [
+   "Errada: depois da incisão a ferida já foi exposta sem nível tecidual de antibiótico; a dose é anterior à incisão.",
+   "Errada: 40 minutos após a incisão também é tarde demais; a profilaxia deve estar circulando no momento do corte.",
+   "Errada: 60 minutos após a incisão deixa a primeira hora da cirurgia sem proteção, o contrário do recomendado.",
+   "Correta: a dose profilática é feita nos 60 minutos que antecedem a incisão cirúrgica."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com protocolo PE36, que descreve a limpeza e a desinfecção de equipamentos da ambulância, o laringoscópio e as lâminas para intubação devem seguir a seguinte rotina:",
+  "alts": [
+   "retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano umedecido em água e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido em álcool 70%",
+   "manter as pilhas do cabo; manter as lâmpadas das lâminas; friccionar com pano umedecido em água e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido em álcool 70%",
+   "retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano umedecido em água morna e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido em óxido de etileno",
+   "retirar as pilhas do cabo; manter as lâmpadas das lâminas; friccionar com pano umedecido em água e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido com clorexidina aquosa 0,12%"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Protocolos de Suporte Avançado de Vida, SAMU 192 (MS, 2ª ed., 2016); RDC ANVISA 15/2012",
+  "coment": "A rotina do protocolo do SAMU para o laringoscópio começa por retirar as pilhas do cabo e as lâmpadas das lâminas, para proteger a parte elétrica e expor todas as superfícies. Depois vem a limpeza com pano úmido em água e sabão, retirada do excesso, secagem e fricção com álcool 70%. Fora da ambulância, lembre que a lâmina toca mucosa e é semicrítica pela classificação de Spaulding: na CME ela vai, no mínimo, à desinfecção de alto nível (RDC 15/2012), e muitos serviços já usam lâmina descartável.",
+  "porAlt": [
+   "Correta: retirar pilhas e lâmpadas, limpar com água e sabão, secar e friccionar com álcool 70% é a sequência do protocolo.",
+   "Errada: manter pilhas e lâmpadas impede a limpeza completa e expõe o circuito elétrico à umidade.",
+   "Errada: óxido de etileno é gás esterilizante usado em autoclave própria, nunca aplicado com pano umedecido.",
+   "Errada: clorexidina aquosa 0,12% é antisséptico bucal e não é desinfetante de equipamento; além disso, as lâmpadas devem ser retiradas."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A escarlatina é uma doença bacteriana, infecciosa e contagiosa, que costuma ocorrer em crianças em idade escolar, sobretudo, durante a primavera. O período de incubação pode variar de:",
+  "alts": [
+   "14 a 28 dias",
+   "12 a 20 dias",
+   "11 a 14 dias",
+   "1 a 10 dias"
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Informe Técnico Escarlatina (CVE/SES-SP, 2024)",
+  "coment": "A escarlatina é causada pelo estreptococo beta-hemolítico do grupo A produtor de toxina eritrogênica, com febre, faringite, língua em framboesa e exantema áspero em lixa. A incubação é curta, como a da faringite estreptocócica: o informe técnico do CVE de São Paulo de 2024 fala em cerca de 2 a 5 dias, podendo chegar a 7, e materiais de divulgação em saúde citam faixa de 1 a 10 dias. A única alternativa compatível é 1 a 10 dias; as demais começam em 11 dias ou mais, o que não ocorre.",
+  "porAlt": [
+   "Errada: 14 a 28 dias é incubação de infecções mais lentas e não de uma doença estreptocócica aguda.",
+   "Errada: 12 a 20 dias está muito acima da incubação curta da escarlatina, que é de poucos dias.",
+   "Errada: 11 a 14 dias lembra a incubação de exantemas virais como o sarampo, não a da escarlatina.",
+   "Correta: a incubação da escarlatina é curta, de poucos dias, e cabe na faixa de 1 a 10 dias."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo a RDC 222/18, os agentes biológicos que provocam infecções no homem ou nos animais, cujo potencial de propagação na comunidade e de disseminação no meio ambiente é limitado, e para os quais existem medidas terapêuticas e profiláticas eficazes, são classificados como de risco:",
+  "alts": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 222/2018 (classificação de risco dos agentes biológicos)",
+  "coment": "A RDC 222/2018 adota a mesma escala de quatro classes da NR 32. A classe 2 é de risco individual moderado e risco limitado para a comunidade: o agente causa infecção, mas se propaga pouco e há tratamento e profilaxia eficazes, como no caso dos estafilococos e da maioria das bactérias de rotina. A classe 1 tem baixo risco de causar doença; a 3, risco elevado e possibilidade de disseminação, nem sempre com tratamento; a 4, alta transmissibilidade e sem tratamento eficaz.",
+  "porAlt": [
+   "Errada: a classe 1 reúne agentes com baixa probabilidade de causar doença, o que não combina com 'provocam infecções'.",
+   "Correta: a classe 2 é a de agentes que causam infecção, com propagação limitada e com terapia e profilaxia eficazes.",
+   "Errada: a classe 3 tem risco individual elevado e probabilidade de disseminação, e nem sempre há tratamento eficaz.",
+   "Errada: a classe 4 tem alta transmissibilidade na comunidade e não dispõe de medidas terapêuticas e profiláticas eficazes."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O protocolo AGO3 de assistência ao parto consumado, descrito no manual de Suporte Avançado de Vida (SAMU), descreve, como critério de inclusão ou suspeita, a expulsão completa do recém-nascido (RN), com a seguinte idade gestacional:",
+  "alts": [
+   "≤ 18 semanas",
+   "≤ 21 semanas",
+   "≥ 22 semanas",
+   "≥ 30 semanas"
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Protocolos de Suporte Avançado de Vida, SAMU 192 (MS, 2ª ed., 2016)",
+  "coment": "O protocolo de parto consumado do SAMU vale para a expulsão completa de um recém-nascido com 22 semanas ou mais de gestação. O corte acompanha a definição de abortamento usada pelo Ministério da Saúde, que é a interrupção antes de 22 semanas (ou feto abaixo de 500 g). Por isso a equipe abre o atendimento como parto, com cuidados ao recém-nascido e à puérpera, a partir de 22 semanas; abaixo disso, o caso segue o protocolo de abortamento.",
+  "porAlt": [
+   "Errada: até 18 semanas a expulsão é abortamento e não entra no protocolo de parto consumado.",
+   "Errada: até 21 semanas ainda se trata de abortamento pela definição do Ministério da Saúde.",
+   "Correta: a partir de 22 semanas a expulsão completa do concepto é tratada como parto consumado.",
+   "Errada: 30 semanas deixaria de fora os partos prematuros entre 22 e 29 semanas, que também são parto."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No atendimento às síndromes hipertensivas da gestação: pré-eclâmpsia e pré-eclâmpsia sobreposta à hipertensão arterial crônica, a dose de ataque de sulfato de magnésio (endovenoso) deve ser a seguinte:",
+  "alts": [
+   "4 gramas, via intravenosa diluída em água bi-destilada ou solução salina 0,9% 100 mL com tempo de infusão rigoroso de 15 minutos",
+   "6 gramas, via intramuscular diluída em água bi-destilada ou solução salina 0,9% 100 mL com tempo de infusão rigoroso de 15 minutos",
+   "8 gramas, via intravenosa diluída em água bi-destilada ou solução salina 0,9% 100 mL com tempo de infusão rigoroso de 15 minutos",
+   "10 gramas, via intravenosa diluída em água bi-destilada ou solução salina 0,9% 150 mL com tempo de infusão rigoroso de 20 minutos"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Manual de Gestação de Alto Risco (MS, 2022)",
+  "coment": "Pelo esquema de Zuspan, o ataque de sulfato de magnésio é de 4 g por via intravenosa, infundidos lentamente (em torno de 15 a 20 minutos), seguido de manutenção de 1 g/h em bomba de infusão. No Pritchard, o mesmo ataque de 4 g IV soma 10 g IM (5 g em cada glúteo). A diluição em 100 mL facilita o controle do tempo de infusão. Antes e durante, o enfermeiro confere reflexo patelar, frequência respiratória e diurese, e deixa gluconato de cálcio 10% à beira do leito.",
+  "porAlt": [
+   "Correta: o ataque é de 4 g IV diluídos e infundidos em cerca de 15 minutos, como no esquema de Zuspan.",
+   "Errada: 6 g não é a dose do protocolo, e a via intramuscular não combina com diluição em 100 mL e tempo de infusão.",
+   "Errada: 8 g IV em bolus dobra o ataque recomendado e aumenta o risco de intoxicação por magnésio.",
+   "Errada: 10 g é a dose IM do Pritchard (dividida nos glúteos), não um ataque intravenoso em 20 minutos."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Enfermeira Joana participou de uma palestra sobre o Código de Ética dos Profissionais de Enfermagem. Durante a aula foram abordadas as infrações que podem ser consideradas leves, moderadas, graves ou gravíssimas, segundo a natureza do ato e a circunstância de cada caso. Aquela infração que provoca debilidade temporária de membro, sentido ou função na pessoa, ou quando causarem danos mentais, morais, patrimoniais ou financeiros é classificada como infração:",
+  "alts": [
+   "gravíssima",
+   "moderada",
+   "grave",
+   "leve"
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017, art. 111, § 2º",
+  "coment": "O Código de Ética (Res. COFEN 564/2017, vigente) gradua a infração pelo dano. Leve: ofende a integridade física, mental ou moral sem causar debilidade. Moderada: provoca debilidade temporária de membro, sentido ou função, ou causa danos mentais, morais, patrimoniais ou financeiros. Grave: perigo de morte, debilidade permanente ou dano moral irremediável. Gravíssima: morte, debilidade permanente ou dano moral irremediável. A palavra 'temporária' é o que define a moderada.",
+  "porAlt": [
+   "Errada: gravíssima é a infração que provoca morte, debilidade permanente ou dano moral irremediável.",
+   "Correta: debilidade temporária ou danos mentais, morais, patrimoniais ou financeiros caracterizam infração moderada.",
+   "Errada: grave é a que gera perigo de morte, debilidade permanente ou dano moral irremediável.",
+   "Errada: leve é a que ofende a integridade física, mental ou moral sem causar debilidade."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo o protocolo AP12 (operação básica de ventilador mecânico para transporte), descrito no manual de suporte avançado SAMU, a PEEP (pressão positiva ao final da expiração) deve ter a seguinte programação inicial:",
+  "alts": [
+   "4 a 8 cmH2O em caso de redução da complacência pulmonar (síndrome do desconforto respiratório agudo), mas pode-se utilizar valores até 25cmH2O caso o paciente possua condições de monitoramento de curvas de pressão",
+   "3 a 5 cmH2O em caso de redução da complacência pulmonar (síndrome do desconforto respiratório agudo), mas pode-se utilizar valores até 20cmH2O caso o paciente possua condições de monitoramento de curvas de pressão",
+   "8 a 10 cmH2O em caso de redução da complacência pulmonar (síndrome do desconforto respiratório agudo), mas pode-se utilizar valores até 28 cmH2O caso o paciente possua condições de monitoramento de curvas de pressão",
+   "5 a 8 cmH2O em caso de redução da complacência pulmonar (síndrome do desconforto respiratório agudo), mas pode-se utilizar valores até 30cmH2O caso o paciente possua condições de monitoramento de curvas de fluxo"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Protocolos de Suporte Avançado de Vida, SAMU 192 (MS, 2ª ed., 2016), AP12; Diretrizes Brasileiras de Ventilação Mecânica (AMIB/SBPT, 2013)",
+  "coment": "No ventilador de transporte, o protocolo do SAMU programa PEEP inicial de 3 a 5 cmH2O, o mesmo ajuste fisiológico que a AMIB recomenda para a maioria dos pacientes. Na complacência reduzida da síndrome do desconforto respiratório agudo, a PEEP pode subir até 20 cmH2O, desde que haja monitorização das curvas de pressão para evitar barotrauma e instabilidade hemodinâmica. A redação da alternativa junta as duas frases do protocolo, mas os números são os dele.",
+  "porAlt": [
+   "Errada: o protocolo não parte de 4 a 8 cmH2O nem libera PEEP de até 25 cmH2O no transporte.",
+   "Correta: PEEP inicial de 3 a 5 cmH2O, com até 20 cmH2O na SDRA quando há monitorização das curvas de pressão.",
+   "Errada: 8 a 10 cmH2O como ponto de partida e teto de 28 cmH2O não correspondem ao protocolo.",
+   "Errada: 5 a 8 cmH2O e até 30 cmH2O não são os valores do protocolo, e a referência é a curva de pressão, não a de fluxo."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os linfomas estão entre os três grupos de neoplasias mais frequentes na faixa etária pediátrica. Apresentam-se, normalmente, por aumento ganglionar denominado adenomegalia. Além disso, o paciente apresenta os sintomas B que são:",
+  "alts": [
+   "alterações em duas ou mais séries do hemograma, hepatoesplenomegalia e febre sem causa determinada",
+   "sorologias negativas, ganho de peso repentino e sudorese noturna",
+   "plaquetopenia, sorologias negativas, febre e perda de peso abrupta",
+   "febre sem causa determinada, perda de peso e sudorese noturna"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Classificação de Lugano para linfomas (Cheson et al., J Clin Oncol, 2014)",
+  "coment": "Os sintomas B dos linfomas são três: febre sem causa aparente (acima de 38 °C), sudorese noturna profusa e perda de peso de mais de 10% em 6 meses. Eles entram no estadiamento de Ann Arbor, mantido na classificação de Lugano de 2014, e indicam doença mais agressiva, valendo para crianças e adultos. Alterações do hemograma, hepatoesplenomegalia e sorologias fazem parte da investigação, mas não são sintomas B.",
+  "porAlt": [
+   "Errada: alterações de séries do hemograma e hepatoesplenomegalia são achados de investigação; só a febre pertence aos sintomas B.",
+   "Errada: o sintoma B é perda, e não ganho, de peso, e sorologia negativa não é sintoma.",
+   "Errada: plaquetopenia e sorologias negativas não entram na tríade, apesar de febre e perda de peso estarem certas.",
+   "Correta: febre sem causa, perda de peso e sudorese noturna são os três sintomas B do linfoma."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Resolução nº 453/12 trata do controle social do SUS por meio das conferências e conselhos de saúde. Sobre o assunto, é correto afirmar que:",
+  "alts": [
+   "a Conferência de Saúde se reúne a cada 4 anos, com a representação dos vários segmentos sociais, para avaliar o quadro de saúde e propor diretrizes para a formulação da política de saúde nos níveis correspondentes convocada pelo Poder Legislativo.",
+   "o Conselho de Saúde é uma instância colegiada, deliberativa e permanente do Sistema Único de Saúde (SUS) em única esfera de Governo.",
+   "conforme a Resolução nº 453/12, o Conselho possui autonomia para definir seu orçamento.",
+   "as reuniões plenárias dos Conselhos de Saúde são fechadas ao público e deverão acontecer em recintos exclusivos do poder público.",
+   "a participação dos membros eleitos do Poder Legislativo, representação do Poder Judiciário e do Ministério Público, como conselheiros, obedecendo às normativas da lei, é permitida nos Conselhos de Saúde."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução CNS 453/2012, Quarta Diretriz, III; Lei 8.142/1990, art. 1º",
+  "coment": "A Resolução CNS 453/2012 garante ao conselho autonomia administrativa e financeira, com dotação orçamentária, e diz textualmente, na Quarta Diretriz, item III, que o Conselho de Saúde decide sobre o seu orçamento. A mesma resolução define o conselho como instância colegiada, deliberativa e permanente em cada esfera de governo, manda as reuniões plenárias serem abertas ao público e proíbe como conselheiros membros eleitos do Legislativo, do Judiciário e do Ministério Público. A conferência é convocada pelo Executivo (Lei 8.142).",
+  "porAlt": [
+   "Errada: pela Lei 8.142/1990, a conferência é convocada pelo Poder Executivo ou, extraordinariamente, por ela mesma ou pelo conselho, nunca pelo Legislativo.",
+   "Errada: há conselho de saúde em cada esfera de governo (municipal, estadual e nacional), não em uma única esfera.",
+   "Correta: a Res. CNS 453/2012 afirma que o Conselho de Saúde decide sobre o seu orçamento.",
+   "Errada: as reuniões plenárias dos conselhos são abertas ao público, pela Quarta Diretriz da Res. 453/2012.",
+   "Errada: a Res. 453/2012 diz que a participação de membros eleitos do Legislativo, do Judiciário e do Ministério Público como conselheiros não é permitida."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 31,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Conforme a composição dos conselhos e conferências de saúde, é incorreto afirmar que:",
+  "alts": [
+   "As conferências de saúde deverão de reunir a cada 4 anos, sendo a mesma convocada pelo poder executivo.",
+   "A cada eleição, os segmentos de representações de usuários, trabalhadores e prestadores de serviços, ao seu critério, devem promover a renovação de, no mínimo, 30% de suas entidades representativas.",
+   "As funções como membro do Conselho de Saúde serão remuneradas.",
+   "O Conselho de Saúde terá a seguinte representação social: 50% de entidades e movimentos representativos de usuários; 25% de entidades representativas dos trabalhadores da área de saúde; 25% de representação de governo e prestadores de serviços privados conveniados, ou sem fins lucrativos.",
+   "O Conselho de Saúde atua na formulação e proposição de estratégias e no controle da execução das Políticas de Saúde, bem como em seus aspectos financeiros."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CNS 453/2012, Terceira Diretriz, X; Lei 8.142/1990, art. 1º",
+  "coment": "A função de conselheiro não é remunerada: a Terceira Diretriz da Res. CNS 453/2012 diz que essas funções não serão remuneradas, e o exercício é considerado de relevância pública. As demais estão corretas: a conferência se reúne a cada 4 anos, convocada pelo Executivo (Lei 8.142, art. 1º, § 1º); a composição é 50% de usuários, 25% de trabalhadores e 25% de governo e prestadores; e a renovação de no mínimo 30% das entidades a cada eleição consta da resolução, como recomendação.",
+  "porAlt": [
+   "Errada como resposta: a afirmativa está correta, pois a Lei 8.142/1990 prevê conferência a cada 4 anos convocada pelo Poder Executivo.",
+   "Errada como resposta: a renovação de no mínimo 30% das entidades representativas a cada eleição consta da Res. 453/2012.",
+   "Correta: a afirmativa é a incorreta, porque as funções de membro do Conselho de Saúde não são remuneradas.",
+   "Errada como resposta: 50% de usuários, 25% de trabalhadores e 25% de governo e prestadores é a composição da Res. 453/2012.",
+   "Errada como resposta: atuar na formulação de estratégias e no controle da execução, inclusive financeira, é atribuição do conselho pela Lei 8.142/1990."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 32,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Os conselhos e conferências de saúde são entidades que validam o controle social do SUS. Acerca da Resolução nº 543 de 2012 que trata dos Conselhos de Saúde, pode-se afirmar que:",
+  "alts": [
+   "o Conselho de Saúde é uma instância colegiada, deliberativa e permanente do Sistema Único de Saúde (SUS) em uma única esfera de Governo.",
+   "o conselho de saúde se reunirá, no mínimo, a cada mês e, extraordinariamente, quando necessário, e terá como base o seu Regimento Interno. A pauta e o material de apoio às reuniões devem ser encaminhados aos conselheiros com antecedência mínima de 15 (quinze) dias.",
+   "a legislação estabelece a composição paritária de usuários em relação ao conjunto dos demais segmentos sociais.",
+   "com relação aos conselhos de saúde, entende-se por maioria qualificada 1/3 (um terço) do total de membros do Conselho.",
+   "o segmento dos trabalhadores da área de saúde será de 20% na composição dos conselhos de saúde."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.142/1990, art. 1º, § 4º; Resolução CNS 453/2012",
+  "coment": "A Lei 8.142/1990 (art. 1º, § 4º) manda que a representação dos usuários nos conselhos e conferências seja paritária em relação ao conjunto dos demais segmentos: metade das vagas para usuários e metade para trabalhadores, governo e prestadores. O enunciado traz o erro da banca 'Resolução nº 543 de 2012'; a resolução dos conselhos é a CNS 453/2012. Por ela, a pauta vai aos conselheiros com 10 dias de antecedência, a maioria qualificada é 2/3 do total de membros e os trabalhadores somam 25%.",
+  "porAlt": [
+   "Errada: o conselho existe em cada esfera de governo, e não em uma única esfera.",
+   "Errada: a reunião mínima é mensal, mas a pauta e o material de apoio seguem com antecedência mínima de 10 dias, não de 15.",
+   "Correta: a Lei 8.142/1990 estabelece a paridade dos usuários em relação ao conjunto dos demais segmentos.",
+   "Errada: pela Res. 453/2012, maioria qualificada é 2/3 do total de membros do conselho, não 1/3.",
+   "Errada: o segmento dos trabalhadores da saúde ocupa 25% das vagas do conselho, e não 20%."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 36,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O modelo de Leavell e Clark (1976) acerca da história natural da doença é entendido como todas as interrelações do agente, do hospedeiro e do meio ambiente. Correlacionando o tema com os níveis de prevenção, a alternativa correta acerca da prevenção primária, é:",
+  "alts": [
+   "mamografia de rotina.",
+   "exame citopatológico de colo uterino.",
+   "prevenção para evitar complicações do diabetes.",
+   "rastreamento e diagnóstico precoce.",
+   "imunização."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Leavell HR, Clark EG. Medicina Preventiva (1976), níveis de prevenção",
+  "coment": "No modelo de Leavell e Clark, a prevenção primária atua no período pré-patogênico, antes de a doença existir, por promoção da saúde e proteção específica; a imunização é o exemplo clássico de proteção específica. A prevenção secundária atua na doença já instalada, ainda que sem sintomas, com diagnóstico precoce e tratamento imediato: mamografia, citopatológico e rastreamentos em geral. A terciária limita incapacidade e reabilita, como ao evitar as complicações do diabetes já diagnosticado.",
+  "porAlt": [
+   "Errada: a mamografia de rotina é rastreamento, ou seja, diagnóstico precoce na prevenção secundária.",
+   "Errada: o exame citopatológico do colo detecta lesão já existente, o que é prevenção secundária.",
+   "Errada: evitar complicações de uma doença já instalada é limitação de dano, prevenção secundária ou terciária.",
+   "Errada: rastreamento e diagnóstico precoce são, por definição, prevenção secundária.",
+   "Correta: a imunização é proteção específica no período pré-patogênico, o exemplo típico de prevenção primária."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 38,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A vigilância epidemiológica tem por objetivo promover a identificação e prevenção de doenças e agravos transmissíveis à saúde. Uma das ferramentas usadas é a notificação compulsória. Acerca do assunto, pode-se afirmar que:",
+  "alts": [
+   "a notificação compulsória imediata é aquela realizada dentro do período de 24 horas.",
+   "acidente por animal peçonhento é uma ocorrência de notificação compulsória semanal.",
+   "infecção pelo Vírus da Imunodeficiência Humana (HIV) é uma doença de notificação compulsória imediata.",
+   "a tuberculose é uma doença de notificação compulsória imediata.",
+   "A notificação compulsória negativa é uma comunicação mensal com o objetivo de informar que não foi identificada nenhuma ocorrência."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria de Consolidação GM/MS 4/2017, Anexo V (lista atualizada pela Portaria GM/MS 11.211/2026)",
+  "coment": "A notificação compulsória imediata é a feita em até 24 horas a partir do conhecimento da ocorrência, pelo meio mais rápido; a semanal, em até 7 dias. Na lista vigente, alterada pela Portaria GM/MS 11.211/2026, acidente por animal peçonhento é de notificação imediata para a secretaria municipal, enquanto HIV, aids e tuberculose são semanais. A notificação negativa é semanal: o estabelecimento informa que, na semana epidemiológica, não identificou nenhum agravo da lista.",
+  "porAlt": [
+   "Correta: a notificação compulsória imediata deve ser feita em até 24 horas a partir do conhecimento da ocorrência.",
+   "Errada: acidente por animal peçonhento é de notificação imediata à secretaria municipal de saúde.",
+   "Errada: a infecção pelo HIV é de notificação semanal, e não imediata.",
+   "Errada: a tuberculose é de notificação semanal, e não imediata.",
+   "Errada: a notificação negativa é semanal, referente à semana epidemiológica, e não mensal."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 39,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Conforme cita a Norma Regulamentadora 32, os agentes biológicos são classificados em classes de risco. A classe de risco que apresenta baixo risco individual para o trabalhador e para a coletividade, com baixa probabilidade de causar doença ao ser humano é:",
+  "alts": [
+   "Classe de risco 1.",
+   "Classe de risco 2.",
+   "Classe de risco 3.",
+   "Classe de risco 4.",
+   "Classe de risco 5."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "NR-32 (Portaria MTE 485/2005), Anexo I",
+  "coment": "O Anexo I da NR 32 classifica os agentes biológicos em quatro classes. A classe 1 é a de baixo risco individual para o trabalhador e para a coletividade, com baixa probabilidade de causar doença no ser humano, como microrganismos usados na indústria de alimentos. A partir daí o risco cresce: a classe 2 tem risco individual moderado, a 3 risco elevado com chance de disseminação e a 4 risco elevado com alta transmissibilidade e sem tratamento eficaz. Não existe classe 5.",
+  "porAlt": [
+   "Correta: a classe de risco 1 é definida pela NR 32 como baixo risco individual e coletivo e baixa probabilidade de doença.",
+   "Errada: a classe 2 já tem risco individual moderado, embora com baixa disseminação para a coletividade.",
+   "Errada: a classe 3 tem risco individual elevado e probabilidade de disseminação para a coletividade.",
+   "Errada: a classe 4 tem risco individual elevado e probabilidade elevada de disseminação, sem tratamento eficaz.",
+   "Errada: a NR 32 tem apenas quatro classes de risco; não há classe 5."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A alternativa que apresenta a classe de agentes biológicos que corresponde à classe de risco 4 é:",
+  "alts": [
+   "baixo risco individual para o trabalhador e para a coletividade, com baixa probabilidade de causar doença ao ser humano.",
+   "risco individual moderado para o trabalhador e com baixa probabilidade de disseminação para a coletividade. Podem causar doenças ao ser humano, para as quais existem meios eficazes de profilaxia ou tratamento.",
+   "risco individual elevado para o trabalhador e com probabilidade de disseminação para a coletividade. Podem causar doenças e infecções graves ao ser humano, para as quais nem sempre existem meios eficazes de profilaxia ou tratamento.",
+   "risco individual elevado para o trabalhador e com probabilidade elevada de disseminação para a coletividade. Apresenta grande poder de transmissibilidade de um indivíduo a outro. Podem causar doenças graves ao ser humano, para as quais não existem meios eficazes de profilaxia ou tratamento.",
+   "alto risco individual para o trabalhador e para a coletividade, com baixa probabilidade de causar doença ao ser humano."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "NR-32 (Portaria MTE 485/2005), Anexo I",
+  "coment": "A classe de risco 4 da NR 32 reúne o maior risco: risco individual elevado para o trabalhador, probabilidade elevada de disseminação para a coletividade, grande poder de transmissão de pessoa a pessoa e doenças graves sem meios eficazes de profilaxia ou tratamento, como os vírus de febres hemorrágicas do tipo Ebola. Para diferenciar da classe 3, observe dois detalhes: na 3 a disseminação é apenas provável e o tratamento 'nem sempre' existe; na 4 a disseminação é elevada e o tratamento 'não existe'.",
+  "porAlt": [
+   "Errada: baixo risco individual e coletivo, com baixa probabilidade de doença, é a classe de risco 1.",
+   "Errada: risco individual moderado, baixa disseminação e tratamento eficaz descrevem a classe de risco 2.",
+   "Errada: risco elevado com probabilidade de disseminação e tratamento que nem sempre existe é a classe de risco 3.",
+   "Correta: risco elevado, disseminação elevada, alta transmissibilidade e ausência de tratamento eficaz definem a classe 4.",
+   "Errada: a combinação de alto risco com baixa probabilidade de causar doença é contraditória e não existe na NR 32."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Ainda conforme a classificação de risco da NR32, a alternativa que apresenta características da classe de risco 3 é:",
+  "alts": [
+   "baixo risco individual para o trabalhador e para a coletividade, com baixa probabilidade de causar doença ao ser humano.",
+   "risco individual moderado para o trabalhador e com baixa probabilidade de disseminação para a coletividade. Podem causar doenças ao ser humano, para as quais existem meios eficazes de profilaxia ou tratamento.",
+   "risco individual elevado para o trabalhador e com probabilidade de disseminação para a coletividade. Podem causar doenças e infecções graves ao ser humano, para as quais nem sempre existem meios eficazes de profilaxia ou tratamento.",
+   "risco individual elevado para o trabalhador e com probabilidade elevada de disseminação para a coletividade. Apresenta grande poder de transmissibilidade de um indivíduo a outro. Podem causar doenças graves ao ser humano, para as quais não existem meios eficazes de profilaxia ou tratamento.",
+   "risco individual moderado e com probabilidade de disseminação para a coletividade. Podem causar doenças graves, cujo tratamento nem sempre é conhecido."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "NR-32 (Portaria MTE 485/2005), Anexo I",
+  "coment": "Pela NR 32, a classe de risco 3 tem risco individual elevado para o trabalhador e probabilidade de disseminação para a coletividade, com agentes que causam doenças e infecções graves para as quais nem sempre existem meios eficazes de profilaxia ou tratamento; o Mycobacterium tuberculosis é o exemplo mais lembrado. A diferença para a classe 4 está na intensidade: na 4 a disseminação é elevada, a transmissão de pessoa a pessoa é grande e não há tratamento eficaz.",
+  "porAlt": [
+   "Errada: baixo risco individual e coletivo com baixa probabilidade de doença é a classe de risco 1.",
+   "Errada: risco individual moderado com baixa disseminação e tratamento eficaz é a classe de risco 2.",
+   "Correta: risco individual elevado, probabilidade de disseminação e tratamento que nem sempre existe definem a classe 3.",
+   "Errada: disseminação elevada, grande transmissibilidade e ausência de tratamento eficaz são a classe de risco 4.",
+   "Errada: a frase mistura risco moderado com doença grave e não reproduz nenhuma classe da NR 32."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Norma Regulamentadora 07 tem por objetivo principal proteger e preservar a saúde de seus empregados em relação aos riscos ocupacionais. A alternativa que não corresponde às atualizações desta norma é:",
+  "alts": [
+   "No exame demissional, o exame clínico deve ser realizado em até 10 (dez) dias contados do término do contrato.",
+   "Estabelece diretrizes e requisitos para o desenvolvimento do Programa de Controle Médico de Saúde Ocupacional - PCMSO nas organizações.",
+   "O Anexo III trata do Controle Médico Ocupacional de Exposição a Condições Hiperbáricas.",
+   "Para cada exame clínico ocupacional realizado, o médico emitirá Atestado de Saúde Ocupacional - ASO, que deve ser comprovadamente disponibilizado ao empregado, devendo ser fornecido em meio físico quando solicitado.",
+   "O Anexo II desta norma estabelece diretrizes para avaliação e controle médico ocupacional de exames audiométricos de empregados expostos a níveis de pressão sonora elevados."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-07 (Portaria SEPRT 6.734/2020), itens 7.5.11 e 7.5.19 e sumário dos Anexos",
+  "coment": "Na NR-07 com redação da Portaria SEPRT 6.734/2020, o Anexo III trata do controle radiológico e espirométrico da exposição a agentes químicos (poeiras minerais); as condições hiperbáricas estão no Anexo IV. Os Anexos são: I agentes químicos, II pressão sonora elevada, III radiografia e espirometria, IV condições hiperbáricas, V cancerígenos e radiações ionizantes. As outras afirmativas copiam a norma, como o demissional em até 10 dias do término do contrato (7.5.11) e o ASO em meio físico quando solicitado (7.5.19).",
+  "porAlt": [
+   "Errada como resposta: o item 7.5.11 prevê o exame clínico demissional em até 10 dias contados do término do contrato.",
+   "Errada como resposta: estabelecer diretrizes e requisitos para o PCMSO é o objetivo declarado da NR-07.",
+   "Correta: a afirmativa não corresponde à norma, porque as condições hiperbáricas estão no Anexo IV, e não no III.",
+   "Errada como resposta: o item 7.5.19 manda disponibilizar o ASO ao empregado e fornecê-lo em meio físico quando solicitado.",
+   "Errada como resposta: o Anexo II trata do controle médico da exposição a níveis de pressão sonora elevados, com a audiometria."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com relação às Normas Regulamentadoras (NR), está correto o que se afirma em:",
+  "alts": [
+   "A NR-09 visa estabelecer as diretrizes e os requisitos que permitam a adaptação das condições de trabalho às características psicofisiológicas dos trabalhadores, de modo a proporcionar conforto, segurança, saúde e desempenho eficiente no trabalho.",
+   "A NR-32 trata da Segurança e Saúde no Trabalho em Espaços Confinados.",
+   "A NR-07 estabelece a obrigação de contratação de profissionais da área de segurança e saúde do trabalho de acordo com o número de empregados e a natureza do risco ocupacional da atividade na empresa.",
+   "a NR-05 estabelece as condições sanitárias e de conforto nos locais de trabalho.",
+   "A NR-07 estabelece diretrizes e requisitos para o desenvolvimento do Programa de Controle Médico de Saúde Ocupacional - PCMSO em organizações, com o objetivo de proteger e preservar a saúde de seus empregados em relação aos riscos ocupacionais, conforme avaliação de riscos do Programa de Gerenciamento de Risco - PGR da organização."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-07 (Portaria SEPRT 6.734/2020), item 7.1.1",
+  "coment": "A NR-07 estabelece diretrizes e requisitos para o Programa de Controle Médico de Saúde Ocupacional (PCMSO), com o objetivo de proteger e preservar a saúde dos empregados em relação aos riscos ocupacionais, conforme a avaliação de riscos do Programa de Gerenciamento de Riscos (PGR) da NR-01. As demais trocam as normas: adaptação do trabalho às características psicofisiológicas é a NR-17 (ergonomia); espaços confinados, a NR-33; contratação de profissionais de segurança conforme o grau de risco, a NR-04 (SESMT); condições sanitárias e de conforto, a NR-24.",
+  "porAlt": [
+   "Errada: adaptar as condições de trabalho às características psicofisiológicas é objeto da NR-17 (ergonomia); a NR-09 avalia exposições a agentes físicos, químicos e biológicos.",
+   "Errada: segurança em espaços confinados é a NR-33; a NR-32 trata da segurança e saúde no trabalho em serviços de saúde.",
+   "Errada: a obrigação de manter profissionais de segurança conforme número de empregados e grau de risco é a NR-04 (SESMT).",
+   "Errada: condições sanitárias e de conforto são a NR-24; a NR-05 trata da CIPA.",
+   "Correta: a NR-07 rege o PCMSO para proteger a saúde dos empregados conforme a avaliação de riscos do PGR."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Quanto à norma regulamentadora NR-07, é incorreto dizer que:",
+  "alts": [
+   "o anexo III desta Norma estabelece as condições técnicas e parâmetros mínimos para a realização de Radiografias de Tórax - RXTP em programas de controle médico em saúde ocupacional de empregados expostos a poeiras minerais, bem como exames de Espirometrias para avaliação da função respiratória em empregados expostos a poeiras minerais.",
+   "o anexo IV desta norma se refere ao Controle Médico Ocupacional de Exposição a Condições Hiperbáricas.",
+   "o anexo V faz referências às normas e diretrizes para avaliação e controle médico ocupacional da audição de empregados expostos a níveis de pressão sonora elevados.",
+   "o exame audiométrico será realizado em cabina audiométrica, cujos níveis de pressão sonora não ultrapassem os níveis máximos permitidos, de acordo com a norma técnica ISO 8253-1.",
+   "o PCMSO deve incluir ações de: vigilância passiva da saúde ocupacional, a partir de informações sobre a demanda espontânea de empregados que procurem serviços médicos; vigilância ativa da saúde ocupacional, por meio de exames médicos dirigidos que incluam, além dos exames previstos nesta NR, a coleta de dados sobre sinais e sintomas de agravos à saúde relacionados aos riscos ocupacionais."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-07 (Portaria SEPRT 6.734/2020), item 7.3.2.1 e Anexos II, III e IV",
+  "coment": "O controle da audição dos expostos a pressão sonora elevada está no Anexo II da NR-07, e não no V; o Anexo V trata de substâncias químicas cancerígenas e radiações ionizantes. As outras afirmativas reproduzem a norma: Anexo III com radiografia de tórax e espirometria para expostos a poeiras minerais; Anexo IV com condições hiperbáricas; audiometria em cabina dentro dos níveis da ISO 8253-1 (Anexo II); e vigilância passiva e ativa da saúde ocupacional no item 7.3.2.1.",
+  "porAlt": [
+   "Errada como resposta: o Anexo III trata de radiografia de tórax e espirometria em expostos a poeiras minerais, como afirmado.",
+   "Errada como resposta: o Anexo IV é de fato o controle médico da exposição a condições hiperbáricas.",
+   "Correta: a afirmativa é incorreta, porque a audição dos expostos a ruído está no Anexo II, e o V trata de cancerígenos e radiações ionizantes.",
+   "Errada como resposta: o Anexo II exige cabina audiométrica com níveis de pressão sonora dentro da norma ISO 8253-1.",
+   "Errada como resposta: o item 7.3.2.1 prevê vigilância passiva pela demanda espontânea e vigilância ativa por exames dirigidos."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O exame clínico deve ser realizado antes que o empregado reassuma suas funções, depois de se ausentar por motivo de doença ou acidente por período igual ou superior a:",
+  "alts": [
+   "10 (dez) dias.",
+   "20 (vinte) dias.",
+   "30 (trinta) dias.",
+   "40 (quarenta) dias.",
+   "60 (sessenta) dias."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-07 (Portaria SEPRT 6.734/2020), item 7.5.9",
+  "coment": "Pelo item 7.5.9 da NR-07, o exame de retorno ao trabalho é feito antes que o empregado reassuma as funções quando ele ficou ausente por 30 dias ou mais por doença ou acidente, de natureza ocupacional ou não. O item seguinte acrescenta que a avaliação médica deve definir a necessidade de retorno gradativo. Não confunda com o demissional, feito em até 10 dias após o término do contrato, nem com os 90 dias de validade dos exames complementares aceitos no admissional.",
+  "porAlt": [
+   "Errada: 10 dias é o prazo do exame clínico demissional após o término do contrato, não o do retorno.",
+   "Errada: 20 dias não aparece na NR-07 para o exame de retorno.",
+   "Correta: ausência igual ou superior a 30 dias por doença ou acidente exige exame de retorno antes de reassumir.",
+   "Errada: 40 dias ultrapassa o limite da norma; com 30 dias o exame já é obrigatório.",
+   "Errada: 60 dias não é o critério; o exame de retorno é exigido a partir de 30 dias de afastamento."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com relação ao Planejamento citado na NR07, quando citado o exame admissional, a critério médico responsável, poderão ser aceitos exames complementares realizados nos:",
+  "alts": [
+   "30 (trinta) dias anteriores, exceto quando definidos prazos diferentes nos Anexos desta NR.",
+   "45 (quarenta e cinco) dias anteriores, exceto quando definidos prazos diferentes nos Anexos desta NR.",
+   "60 (sessenta) dias anteriores, exceto quando definidos prazos diferentes nos Anexos desta NR.",
+   "90 (noventa) dias anteriores, exceto quando definidos prazos diferentes nos Anexos desta NR.",
+   "120 (cento e vinte) dias anteriores, exceto quando definidos prazos diferentes nos Anexos desta NR."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-07 (Portaria SEPRT 6.734/2020), item 7.5.17",
+  "coment": "O item 7.5.17 da NR-07 permite que, no exame admissional e a critério do médico responsável, sejam aceitos exames complementares realizados nos 90 dias anteriores, exceto quando os Anexos definirem prazos diferentes. A regra evita repetir exames recentes. Guarde os prazos vizinhos da mesma norma: retorno ao trabalho a partir de 30 dias de afastamento e demissional em até 10 dias do término do contrato, dispensável se o último exame clínico tiver menos de 135 dias (graus de risco 1 e 2) ou 90 dias (graus 3 e 4).",
+  "porAlt": [
+   "Errada: 30 dias é o afastamento que exige exame de retorno, não a validade dos exames do admissional.",
+   "Errada: 45 dias não é prazo da NR-07 para aceitar exames complementares.",
+   "Errada: 60 dias é menor que o prazo previsto pelo item 7.5.17.",
+   "Correta: podem ser aceitos exames complementares feitos nos 90 dias anteriores, salvo prazo diferente nos Anexos.",
+   "Errada: 120 dias excede o limite da norma para o admissional."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com relação aos processos de desinfecção e esterilização, é correto afirmar que:",
+  "alts": [
+   "os semicríticos devem ser submetidos à desinfecção de baixo nível.",
+   "os artigos críticos devem ser submetidos à limpeza.",
+   "os artigos críticos devem ser submetidos ao processo de esterilização.",
+   "são exemplos de artigos críticos os equipamentos de anestesia gasosa, terapia respiratória, inaloterapia.",
+   "os artigos críticos são produtos para a saúde utilizados em procedimentos invasivos sem penetração de pele e mucosas adjacentes."
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "RDC ANVISA 15/2012 (classificação de Spaulding)",
+  "coment": "Pela classificação de Spaulding adotada na RDC 15/2012, o risco do produto decide o processo. Crítico é o usado em procedimento invasivo com penetração de pele e mucosas, tecidos subepiteliais e sistema vascular, e vai à esterilização após a limpeza. Semicrítico entra em contato com mucosa íntegra ou pele não íntegra e exige no mínimo desinfecção de alto nível; os de assistência ventilatória, anestesia e inaloterapia, no mínimo desinfecção de nível intermediário. Não crítico exige no mínimo limpeza.",
+  "porAlt": [
+   "Errada: semicrítico exige no mínimo desinfecção de alto nível, e não de baixo nível.",
+   "Errada: limpeza é etapa obrigatória, mas não basta para artigo crítico, que precisa de esterilização.",
+   "Correta: artigos críticos devem ser esterilizados após a limpeza.",
+   "Errada: equipamentos de anestesia gasosa, terapia respiratória e inaloterapia são semicríticos.",
+   "Errada: crítico é justamente o usado em procedimento invasivo com penetração de pele e mucosas."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O estresse ocupacional pode ocasionar no indivíduo um esgotamento que leva o mesmo a ter baixo desempenho nas suas funções laborais. Pessoas com alto nível de estresse estão vulneráveis a desenvolver a síndrome de Burnout. Este termo é a junção de Burn(queima) e out(exterior). São sintomas de Burnout, exceto:",
+  "alts": [
+   "boa sociabilidade apesar de baixa produção no trabalho.",
+   "procrastinação, culpa, problemas de ansiedade.",
+   "dificuldade para relaxar e se concentrar nas atividades laborais.",
+   "dor de barriga e tonturas.",
+   "sentimento de impotência e baixa interação com a equipe."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Classificação Internacional de Doenças, CID-11 (OMS, em vigor desde 2022), QD85",
+  "coment": "A CID-11 descreve a síndrome de burnout como fenômeno ocupacional resultante de estresse crônico no trabalho não gerenciado, com três dimensões: exaustão, distanciamento mental ou cinismo em relação ao trabalho e redução da eficácia profissional. Na prática aparecem isolamento e baixa interação com a equipe, sentimento de impotência, ansiedade, culpa, procrastinação, dificuldade de concentração e queixas físicas como dor de cabeça, tontura e sintomas gastrointestinais. Boa sociabilidade contraria o distanciamento típico.",
+  "porAlt": [
+   "Correta: boa sociabilidade não é sintoma de burnout, que se caracteriza por distanciamento e isolamento.",
+   "Errada: procrastinação, culpa e ansiedade são manifestações frequentes do burnout.",
+   "Errada: dificuldade para relaxar e se concentrar acompanha a exaustão do burnout.",
+   "Errada: queixas somáticas como dor abdominal e tontura são comuns no estresse ocupacional crônico.",
+   "Errada: impotência e baixa interação com a equipe refletem o distanciamento e a perda de eficácia do burnout."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No caso de exposição ocupacional acidental a níveis elevados de radiação ionizante deve ser realizada nova avaliação médica, com coleta de hemograma completo, imediatamente:",
+  "alts": [
+   "após a exposição.",
+   "e 24 horas após a exposição.",
+   "e 12 horas após a exposição.",
+   "e 72 horas após a exposição.",
+   "e 96 horas após a exposição."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-07 (Portaria SEPRT 6.734/2020), Anexo V, item 5.3",
+  "coment": "O Anexo V da NR-07 trata do controle médico dos expostos a substâncias cancerígenas e radiações ionizantes. O item 5.3 manda que, na exposição ocupacional acidental a níveis elevados de radiação ionizante, se faça nova avaliação médica com hemograma completo imediatamente e 24 horas após a exposição. A comparação entre as duas coletas, sobretudo da contagem de linfócitos, ajuda a estimar a gravidade da exposição. Acima do limite de dose anual, nova avaliação define a continuidade (item 5.2).",
+  "porAlt": [
+   "Errada: a coleta imediata sozinha não basta; a norma exige também a segunda coleta em 24 horas.",
+   "Correta: o hemograma completo é colhido imediatamente e 24 horas após a exposição acidental.",
+   "Errada: 12 horas não é o intervalo previsto pela NR-07 para a segunda coleta.",
+   "Errada: 72 horas atrasa a segunda coleta além do previsto no item 5.3.",
+   "Errada: 96 horas não aparece na norma; a segunda coleta é feita em 24 horas."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a NR-09, é correto afirmar que esta Norma Regulamentadora estabelece os requisitos para a avaliação das exposições ocupacionais a agentes físicos, químicos e biológicos quando identificados no:",
+  "alts": [
+   "Programa de Gerenciamento de Riscos - PGR, previsto na NR-01.",
+   "Programa de Gerenciamento de Riscos - PGR, previsto na NR-03.",
+   "Programa de Gerenciamento de Riscos - PGR, previsto na NR-05.",
+   "Programa de Gerenciamento de Riscos - PGR, previsto na NR-07.",
+   "Programa de Gerenciamento de Riscos - PGR, previsto na NR-09."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-09 (Portaria SEPRT 6.735/2020); NR-01 (Portaria SEPRT 6.730/2020)",
+  "coment": "Desde a reforma de 2020, o Programa de Gerenciamento de Riscos (PGR) está na NR-01, que trata das disposições gerais e do gerenciamento de riscos ocupacionais. A NR-09 deixou de ser o antigo PPRA e passou a estabelecer os requisitos para avaliar as exposições ocupacionais a agentes físicos, químicos e biológicos quando identificados no PGR da NR-01, subsidiando as medidas de prevenção. A NR-07 (PCMSO) também se orienta pelo PGR, mas não o prevê.",
+  "porAlt": [
+   "Correta: o PGR é previsto na NR-01, e a NR-09 avalia as exposições aos agentes identificados nele.",
+   "Errada: a NR-03 trata de embargo e interdição, não do PGR.",
+   "Errada: a NR-05 trata da CIPA, não do PGR.",
+   "Errada: a NR-07 rege o PCMSO, que se baseia no PGR, mas não é a norma que o prevê.",
+   "Errada: a NR-09 usa o PGR como ponto de partida, mas o programa é previsto na NR-01."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Todos os ambientes de trabalho oferecem riscos aos trabalhadores. Por isso a importância da biossegurança em todo contexto laboral, com a finalidade de prevenir danos à saúde dos funcionários. A alternativa que melhor define o conceito de biossegurança é:",
+  "alts": [
+   "Dá ênfase às tecnologias voltadas ao conforto do trabalhador dentro da empresa.",
+   "É um conjunto de medidas voltadas para prevenção, minimização ou eliminação de riscos inerentes às atividades de ensino e pesquisa, desenvolvimento tecnológico e prestação de serviços que podem causar prejuízo à saúde geral do homem, animais e meio ambiente.",
+   "O gerenciamento de resíduos em saúde não é uma ação diretamente relacionada à biossegurança.",
+   "As medidas de biossegurança envolvem um conjunto de normas de rotina, indo desde o uso correto de EPIs ao transporte e descarte de lixo hospitalar, controle e gerenciamento de resíduos, tendo sempre como objetivo disseminar a contaminação de pessoas e do meio ambiente.",
+   "É facultativo para cada instituição o gerenciamento de resíduos em saúde, conforme a legislação da ANVISA."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "NR-32 (Portaria MTE 485/2005); RDC ANVISA 222/2018",
+  "coment": "Biossegurança é o conjunto de medidas voltadas para prevenir, minimizar ou eliminar riscos inerentes às atividades de ensino, pesquisa, desenvolvimento tecnológico e prestação de serviços que possam comprometer a saúde do homem, dos animais e do meio ambiente. No serviço de saúde ela se materializa na NR 32 (proteção do trabalhador) e na RDC 222/2018, que torna obrigatório a todo gerador elaborar e cumprir o Plano de Gerenciamento de Resíduos de Serviços de Saúde (PGRSS).",
+  "porAlt": [
+   "Errada: conforto do trabalhador é tema de ergonomia; biossegurança trata de prevenção de riscos à saúde e ao ambiente.",
+   "Correta: é a definição clássica de biossegurança, com prevenção, minimização ou eliminação de riscos ao homem, aos animais e ao ambiente.",
+   "Errada: o gerenciamento de resíduos é parte direta da biossegurança, porque evita exposição de pessoas e contaminação ambiental.",
+   "Errada: o objetivo das medidas é evitar, e não disseminar, a contaminação de pessoas e do ambiente.",
+   "Errada: a RDC 222/2018 obriga todo serviço gerador a elaborar e implantar o PGRSS; não é facultativo."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O trabalho em equipe gera maiores resultados principalmente quando os profissionais atuam focado nos objetivos comuns. Para isso acontecer, é preciso que o líder consiga trabalhar com os diferentes modos de pensar a fim de evitar ou minimizar conflitos dentro do ambiente de trabalho. Sobre o trabalho em grupo:",
+  "alts": [
+   "a comunicação horizontal facilita a interação da equipe de trabalho com o líder e ajuda na concretização dos objetivos comuns.",
+   "o líder deve ser priorizar uma relação vertical com os liderados.",
+   "a comunicação vertical, dentro da temática do trabalho grupal, se traduz numa comunicação clara onde a tomada de decisões é feita pela própria equipe sob a supervisão do líder.",
+   "A tomada de decisão pelo líder sem a participação direta dos liderados é um exemplo de comunicação horizontal.",
+   "a comunicação 360°, como o nome diz, representa uma visão geral de todas as ferramentas possíveis de comunicação empresarial utilizada e suas possíveis interações com o ambiente de trabalho. Nesse modelo a propagação de informações tende a ser em baixa escala."
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Kurcgant P (coord.). Gerenciamento em Enfermagem, 3ª ed. (2016)",
+  "coment": "Comunicação horizontal é a que circula entre pessoas do mesmo nível, com troca direta e colaborativa; num grupo que trabalha assim o líder participa como mediador, o que aproxima a equipe dele e facilita alcançar objetivos comuns. Comunicação vertical segue a hierarquia, de cima para baixo (ordens, normas) ou de baixo para cima (relatórios). Decisão tomada pelo líder sem ouvir os liderados é típica do fluxo vertical descendente e do estilo autocrático, o oposto do trabalho em equipe participativo.",
+  "porAlt": [
+   "Correta: a comunicação horizontal favorece a interação da equipe com o líder e a construção dos objetivos comuns.",
+   "Errada: priorizar a relação vertical reforça a hierarquia e dificulta a participação que o trabalho em equipe exige.",
+   "Errada: a comunicação vertical segue a hierarquia; decisão tomada pela própria equipe é característica de modelo participativo.",
+   "Errada: decisão do líder sem participação dos liderados é exemplo de comunicação vertical descendente.",
+   "Errada: a comunicação 360 graus integra todos os fluxos e tende a ampliar, e não reduzir, a propagação das informações."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A ANVISA (Agência Nacional de Vigilância Sanitária) é quem define as Boas Práticas de Gerenciamento dos Resíduos de Serviços de Saúde. Resíduos perfurocortantes como agulhas, ampolas de vidro, lâminas de vidro, bisturis e lamínulas estão inclusos no:",
+  "alts": [
+   "grupo A",
+   "grupo B",
+   "grupo C",
+   "grupo D",
+   "grupo E"
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 222/2018, Anexo I (grupo E)",
+  "coment": "Pela RDC 222/2018, o grupo E reúne os materiais perfurocortantes ou escarificantes: agulhas, ampolas de vidro, lâminas de bisturi e de barbear, lancetas, lâminas e lamínulas, utensílios de vidro quebrados no laboratório e similares. Vão para coletor rígido, resistente a punctura e vazamento, trocado ao atingir três quartos da capacidade (RDC 222), sem ultrapassar o limite de 5 cm abaixo do bocal (NR 32). O grupo A é o infectante, o B o químico, o C o radioativo e o D o comum.",
+  "porAlt": [
+   "Errada: o grupo A é o dos resíduos com possível presença de agentes biológicos (infectantes).",
+   "Errada: o grupo B reúne os resíduos químicos, como medicamentos e saneantes.",
+   "Errada: o grupo C é o dos rejeitos radioativos.",
+   "Errada: o grupo D é o do resíduo comum, equiparado ao domiciliar.",
+   "Correta: perfurocortantes e escarificantes, como agulhas, ampolas, bisturis e lamínulas, formam o grupo E."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O dimensionamento do quadro de profissionais de enfermagem deve basear-se principalmente pelo grau de complexidade do paciente. Com base nesse dimensionamento e no SCP (Sistema de Classificação do Paciente), a distribuição percentual do total de profissionais de enfermagem para cuidados intensivos deve ser de no mínimo:",
+  "alts": [
+   "33% são enfermeiros e os demais, técnicos de enfermagem.",
+   "36% de enfermeiros e os demais, técnicos de enfermagem.",
+   "42% de enfermeiros e os demais, técnicos de enfermagem.",
+   "52% de enfermeiros e os demais, técnicos de enfermagem.",
+   "62% de enfermeiros e os demais, técnicos de enfermagem."
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Parecer Normativo COFEN 01/2024 (Resolução COFEN 743/2024 revogou a 543/2017)",
+  "coment": "No cuidado intensivo, o percentual mínimo é de 52% de enfermeiros, e os demais técnicos de enfermagem, com 18 horas de enfermagem por paciente em 24 horas. Esses números vinham da Res. COFEN 543/2017, revogada pela Res. 743/2024; os parâmetros passaram ao Parecer Normativo COFEN 01/2024, que os manteve. A escala completa de enfermeiros: 33% no cuidado mínimo e intermediário, 36% na alta dependência, 42% no semi-intensivo e 52% no intensivo.",
+  "porAlt": [
+   "Errada: 33% de enfermeiros é o mínimo para cuidados mínimo e intermediário.",
+   "Errada: 36% é o percentual da alta dependência.",
+   "Errada: 42% é o percentual do cuidado semi-intensivo.",
+   "Correta: no cuidado intensivo, no mínimo 52% da equipe são enfermeiros e os demais técnicos (Parecer Normativo COFEN 01/2024).",
+   "Errada: 62% não é parâmetro do dimensionamento do COFEN."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A curva ABC é um método de gestão financeira com o objetivo de controlar e gerir os materiais nos serviços de saúde. Os itens de maior custo pertencem à classe:",
+  "alts": [
+   "Classe A.",
+   "Classe B.",
+   "Classe C.",
+   "Classe D.",
+   "Classe E."
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Kurcgant P (coord.). Gerenciamento em Enfermagem, 3ª ed. (2016)",
+  "coment": "A curva ABC ordena os itens do estoque pelo valor de consumo, que é a quantidade consumida multiplicada pelo custo unitário. Poucos itens da classe A, em geral cerca de 20% dos itens, concentram a maior parte do gasto e merecem controle rigoroso, compras frequentes e estoque enxuto. A classe B é intermediária, e a classe C reúne muitos itens de baixo valor, com controle mais simples. Não existem classes D e E; a criticidade do item é avaliada por outra curva, a XYZ.",
+  "porAlt": [
+   "Correta: a classe A reúne os poucos itens que concentram o maior valor de consumo.",
+   "Errada: a classe B tem importância financeira intermediária.",
+   "Errada: a classe C agrupa muitos itens de baixo valor de consumo.",
+   "Errada: a curva ABC tem apenas três classes; não existe classe D.",
+   "Errada: não há classe E na curva ABC."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente com suspeita de hemoperitônio é examinado pelo enfermeiro, que identifica queixas de dor nos ombros durante a inspiração. Esse quadro clínico é sugestivo do sinal de:",
+  "alts": [
+   "Blumberg.",
+   "(Rovsing.",
+   "(Murphy.",
+   "Godet.",
+   "(Danforth."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Porto CC. Semiologia Médica, 8ª ed. (2019)",
+  "coment": "O sinal de Danforth é a dor no ombro durante a inspiração em paciente com hemoperitônio, como na gravidez ectópica rota. O sangue livre irrita o diafragma, e a dor é referida no ombro pelo nervo frênico (raízes C3 a C5); é o mesmo mecanismo do sinal de Kehr, descrito no ombro esquerdo na ruptura do baço. Os parênteses antes de três alternativas são erro do caderno.",
+  "porAlt": [
+   "Errada: Blumberg é a dor à descompressão brusca no ponto de McBurney, sinal de irritação peritoneal na apendicite.",
+   "Errada: Rovsing é a dor na fossa ilíaca direita ao comprimir a fossa ilíaca esquerda, sugestiva de apendicite.",
+   "Errada: Murphy é a parada da inspiração à palpação do ponto cístico, típica da colecistite aguda.",
+   "Errada: Godet é a depressão que persiste após comprimir a pele, indicando edema depressível.",
+   "Correta: dor no ombro à inspiração por irritação diafragmática do hemoperitônio é o sinal de Danforth."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a avaliação do enfermeiro de um paciente com quadro de bronquite crônica, o mesmo apresentava sintomas de broncoespasmo. Na ausculta, o profissional ouviu um som musical estridente na inspiração e constatou que se tratava de ruídos adventícios chamados de:",
+  "alts": [
+   "sibilos.",
+   "estertores.",
+   "roncos.",
+   "tosse paroxística.",
+   "crepitações."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto CC. Semiologia Médica, 8ª ed. (2019)",
+  "coment": "Sibilos são ruídos contínuos, agudos e musicais, produzidos pela passagem do ar por brônquios estreitados, como no broncoespasmo da asma e da bronquite crônica. Predominam na expiração, mas podem ocorrer também na inspiração, como diz o enunciado. Roncos também são contínuos, porém graves, e vêm de secreção em vias maiores, mudando com a tosse. Estertores (crepitações) são descontínuos. O som estridente e exclusivamente inspiratório de obstrução alta é o estridor, que não está entre as opções.",
+  "porAlt": [
+   "Correta: som contínuo, agudo e musical em paciente com broncoespasmo caracteriza sibilos.",
+   "Errada: estertores são ruídos descontínuos, sem caráter musical, ligados a líquido ou abertura de alvéolos.",
+   "Errada: roncos são contínuos, mas graves, causados por secreção em brônquios maiores.",
+   "Errada: tosse paroxística é um sintoma, não um ruído adventício da ausculta.",
+   "Errada: crepitações são estertores finos e descontínuos, sem timbre musical."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o COFEN 453 de 2014, só ao enfermeiro compete estabelecer o acesso enteral por via oro gástrica ou transpilórica para administrar a nutrição enteral (NE). Há vários tipos de sonda, a diferença está no material utilizado, calibre e finalidade para cada tipo de paciente. Acerca dos tipos de sonda, pode-se afirmar que:",
+  "alts": [
+   "a sonda de Dobbhoff apresenta um tubo de silicone ou poliuretano com lúmen único e 2 portas, extremidade com tungstênio, radiopaco e com fio guia. Usada na alimentação enteral.",
+   "a sonda de Levin é muito usada para lavagem e descompressão gástrica e apresenta duplo lúmen feito em borracha.",
+   "a sonda de Salem é uma sonda que possui um único lúmen e já possui um lúmen maior e é conectado à sucção para drenagem gástrica. É um tubo NG radiopaco.",
+   "a sonda de Blackmore é indicada para varizes esofágicas; possui 2 lúmens e 2 balonetes.",
+   "a sonda de Minnesota é uma sonda que não é indicada no caso de hemorragias esofágicas e gástricas agudas."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Resolução COFEN 619/2019 (sondagem oro/nasogástrica e nasoentérica)",
+  "coment": "A sonda de Dobbhoff é a nasoentérica clássica: fina, de silicone ou poliuretano, lúmen único, ponta com peso de tungstênio, radiopaca e com fio-guia, usada para dieta enteral. Levin tem lúmen único; Salem tem duplo lúmen, um deles respiro. Sengstaken-Blakemore tem três vias e dois balões para tamponar varizes esofágicas; Minnesota tem quatro vias e é indicada no sangramento varicoso agudo. A inserção e a definição do acesso enteral são privativas do enfermeiro (Res. 619/2019; o enunciado cita a 453/2014).",
+  "porAlt": [
+   "Correta: a Dobbhoff tem silicone ou poliuretano, lúmen único, ponta de tungstênio, é radiopaca e tem fio-guia, para dieta enteral.",
+   "Errada: a Levin é usada para drenagem e lavagem gástrica, mas tem lúmen único, e não duplo.",
+   "Errada: a Salem tem duplo lúmen, com um canal de respiro que protege a mucosa durante a sucção.",
+   "Errada: a Sengstaken-Blakemore tem dois balões, mas três vias, e não dois lúmens.",
+   "Errada: a Minnesota é indicada justamente para tamponar a hemorragia aguda de varizes esofágicas e gástricas."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 61,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com relação às precauções de contato, gotículas e aerossóis, assinale a alternativa INCORRETA.",
+  "alts": [
+   "A difteria exige precaução de contato e padrão.",
+   "Tuberculose, sarampo e varicela exigem precaução para aerossóis.",
+   "A varicela exige precaução tanto para contato como para aerossóis.",
+   "O impetigo exige precaução de contato.",
+   "Meningite meningocócica exige precaução para gotículas."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Guideline for Isolation Precautions (CDC/HICPAC, 2007)",
+  "coment": "Pelo guia de isolamento do CDC de 2007, adotado nos manuais da ANVISA, a difteria faríngea exige precaução por gotículas, e só a difteria cutânea pede precaução de contato, sempre somadas à padrão. Por isso a afirmativa que associa a difteria apenas a contato é a incorreta. As demais estão certas: tuberculose, sarampo e varicela vão para aerossóis; a varicela soma aerossóis e contato; o impetigo pede contato; e a doença meningocócica pede gotículas nas primeiras 24 horas de antibiótico eficaz.",
+  "porAlt": [
+   "Correta: a afirmativa é incorreta, porque a difteria faríngea exige gotículas; contato só vale para a forma cutânea.",
+   "Errada como resposta: tuberculose, sarampo e varicela exigem precaução para aerossóis, como afirmado.",
+   "Errada como resposta: a varicela soma precaução para aerossóis e de contato até as lesões virarem crostas.",
+   "Errada como resposta: o impetigo, infecção cutânea transmitida pelo contato, exige precaução de contato.",
+   "Errada como resposta: a meningite meningocócica exige precaução para gotículas nas primeiras 24 horas de tratamento."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 63,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o Processo de Enfermagem, a determinação dos resultados desejados e das ações ou intervenções de enfermagem que serão realizadas a favor do paciente se refere à etapa de:",
+  "alts": [
+   "implementação.",
+   "coleta de dados.",
+   "diagnóstico de enfermagem.",
+   "avaliação de enfermagem.",
+   "planejamento de enfermagem."
+  ],
+  "gab": 4,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024 (etapas do Processo de Enfermagem)",
+  "coment": "Na Res. COFEN 736/2024, que revogou a 358/2009, o Processo de Enfermagem tem cinco etapas: Avaliação de Enfermagem, Diagnóstico, Planejamento, Implementação e Evolução. O Planejamento é a etapa em que o enfermeiro prioriza os diagnósticos, determina os resultados esperados e prescreve as intervenções. Atenção à nomenclatura: na resolução atual, 'Avaliação de Enfermagem' é a primeira etapa (antigo histórico ou coleta de dados), e a última se chama Evolução.",
+  "porAlt": [
+   "Errada: a implementação é a execução das intervenções já planejadas e prescritas.",
+   "Errada: a coleta de dados levanta informações sobre a pessoa; pela 736/2024 é a etapa chamada Avaliação de Enfermagem, anterior ao planejamento.",
+   "Errada: o diagnóstico interpreta os dados e nomeia as respostas da pessoa; ainda não define resultados e intervenções.",
+   "Errada: a Avaliação de Enfermagem é a etapa inicial de levantamento de dados pela Res. 736/2024, não a definição de resultados e intervenções.",
+   "Correta: determinar os resultados esperados e as intervenções de enfermagem é a etapa de Planejamento."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 64,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o eletrocardiograma (ECG), afirma-se que:",
+  "alts": [
+   "a onda P corresponde à despolarização ventricular.",
+   "o complexo QRS representa a despolarização ventricular.",
+   "a onda T é identificada em pacientes que apresentam bradicardia fisiológica ou naqueles com hipopotassemia, hipertensão ou cardiopatia.",
+   "o intervalo QT é medido desde o início da onda P até o início do complexo QRS.",
+   "o segmento ST é medido desde o início do complexo QRS até o término da onda T."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretrizes da SBC sobre Análise e Emissão de Laudos Eletrocardiográficos (2022)",
+  "coment": "No eletrocardiograma, a onda P é a despolarização dos átrios, o complexo QRS a despolarização dos ventrículos e a onda T a repolarização ventricular, presente em todo traçado normal. O intervalo PR vai do início da onda P ao início do QRS; o intervalo QT vai do início do QRS ao fim da onda T e representa a sístole elétrica ventricular. O segmento ST vai do fim do QRS (ponto J) ao início da onda T e é onde se procuram supra e infradesnivelamentos.",
+  "porAlt": [
+   "Errada: a onda P corresponde à despolarização atrial, e não ventricular.",
+   "Correta: o complexo QRS representa a despolarização dos ventrículos.",
+   "Errada: a onda T é a repolarização ventricular e existe em todo ECG normal; a hipopotassemia tende a achatá-la e a fazer surgir onda U.",
+   "Errada: do início da onda P ao início do QRS é o intervalo PR; o QT vai do início do QRS ao fim da onda T.",
+   "Errada: do início do QRS ao fim da onda T é o intervalo QT; o segmento ST vai do fim do QRS ao início da onda T."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 65,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A fórmula de Parkland é muito usada para ressuscitação volêmica em pacientes com queimaduras. A metade da infusão deve ser administrada:",
+  "alts": [
+   "nas primeiras 4 horas e a segunda metade nas 12 horas posteriores.",
+   "nas primeiras 8 horas e a segunda metade nas 16 horas posteriores.",
+   "nas primeiras 12 horas e a segunda metade nas 16 horas posteriores.",
+   "nas primeiras 16 horas e a segunda metade nas 24 horas posteriores.",
+   "nas primeiras 24 horas e a segunda metade nas 36 horas posteriores."
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Queimaduras",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Advanced Trauma Life Support, ATLS 11ª ed. (ACS, 2025)",
+  "coment": "Na reposição volêmica do grande queimado, metade do volume calculado para as primeiras 24 horas corre nas primeiras 8 horas, contadas a partir do momento da queimadura e não da chegada ao hospital, e a outra metade nas 16 horas seguintes. A fórmula clássica de Parkland usa 4 mL/kg por % de superfície corporal queimada; o ATLS atual parte de 2 mL/kg no adulto. O ajuste fino é feito pela diurese horária, com alvo de 0,5 mL/kg/h no adulto e 1 mL/kg/h na criança.",
+  "porAlt": [
+   "Errada: 4 horas e depois 12 horas somam 16 horas, menos que as 24 horas do cálculo.",
+   "Correta: metade do volume nas primeiras 8 horas após a queimadura e a outra metade nas 16 horas seguintes.",
+   "Errada: 12 mais 16 horas ultrapassam o período de 24 horas da fórmula.",
+   "Errada: 16 horas na primeira metade atrasam a reposição na fase de maior perda capilar.",
+   "Errada: a fórmula cobre as primeiras 24 horas no total, e não 60 horas."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 66,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente após avaliação da enfermagem na triagem apresenta alterações que indicam uma doença cardiovascular. Dos escores de enfermagem, o método que pode ser utilizado para a estratificação do risco de doença cardiovascular é o de:",
+  "alts": [
+   "Framingham.",
+   "Braden.",
+   "Romberg.",
+   "Hofmann.",
+   "Glasgow."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Cadernos de Atenção Básica nº 37, Estratégias para o cuidado da pessoa com doença crônica: hipertensão arterial sistêmica (MS, 2013)",
+  "coment": "O escore de Framingham estima o risco de evento cardiovascular em 10 anos a partir de idade, sexo, colesterol total e HDL, pressão arterial, tabagismo e diabetes, e é o instrumento indicado pelo Caderno de Atenção Básica nº 37 para estratificar o risco cardiovascular na consulta. Não é um escore exclusivo da enfermagem, mas o enfermeiro o aplica na atenção primária para definir a periodicidade do acompanhamento e as metas de cuidado.",
+  "porAlt": [
+   "Correta: o escore de Framingham estratifica o risco de doença cardiovascular em 10 anos.",
+   "Errada: a escala de Braden avalia o risco de lesão por pressão.",
+   "Errada: Romberg é teste de equilíbrio que avalia a propriocepção, não um escore de risco cardiovascular.",
+   "Errada: Hofmann não é escore de risco cardiovascular; o nome lembra o reflexo de Hoffmann, sinal neurológico.",
+   "Errada: a escala de Glasgow avalia o nível de consciência."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 67,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As drogas vasoativas são muito usadas em situações críticas de saúde. Entre os vasopressores, ganham destaque as catecolaminas. A única droga das alternativas abaixo que não corresponde ao grupo das catecolaminas é a:",
+  "alts": [
+   "adrenalina.",
+   "dobutamina.",
+   "noradrenalina.",
+   "hidralazina.",
+   "dopamina."
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Surviving Sepsis Campaign 2026 (vasopressores e inotrópicos)",
+  "coment": "Catecolaminas são aminas simpaticomiméticas com núcleo catecol que agem em receptores adrenérgicos: adrenalina, noradrenalina e dopamina são naturais, e a dobutamina é sintética, usada como inotrópico. Todas exigem bomba de infusão, de preferência acesso central e monitorização contínua da pressão. A hidralazina não pertence ao grupo: é vasodilatador arterial direto, usado como anti-hipertensivo, por exemplo na crise hipertensiva da gestante. O efeito dela é baixar a pressão, o oposto do vasopressor.",
+  "porAlt": [
+   "Errada: a adrenalina é catecolamina natural, vasopressora e inotrópica.",
+   "Errada: a dobutamina é catecolamina sintética de ação inotrópica.",
+   "Errada: a noradrenalina é catecolamina e o vasopressor de primeira escolha no choque séptico.",
+   "Correta: a hidralazina é vasodilatador direto e não é catecolamina.",
+   "Errada: a dopamina é catecolamina natural, precursora da noradrenalina."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 68,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com relação aos cuidados com pacientes vítimas de queimaduras, está incorreto:",
+  "alts": [
+   "observar o padrão respiratório e em caso de dispneia, tiragem intercostal, principalmente quadro de tosse carbonácea proceder a intubação.",
+   "paciente vítima de queimadura elétrica ou química deve-se ter monitorização cardíaca (ECG) contínua devido ao risco aumentado de arritmias.",
+   "realizar profilaxia tetânica.",
+   "avaliar pela escala de Glasgow o estado neurológico.",
+   "em caso de sondagem vesical - a diurese desejável no adulto é de 1,5ml/Kg/hora e nas crianças de 2ml/kg/h, se queimadura elétrica 1,5 ml/kg/h."
+  ],
+  "gab": 4,
+  "tema": "feridas",
+  "sub": "Queimaduras",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Advanced Trauma Life Support, ATLS 11ª ed. (ACS, 2025)",
+  "coment": "A diurese horária é o principal guia da reposição no queimado, e o alvo do ATLS é de 0,5 mL/kg/h no adulto e 1 mL/kg/h na criança; na queimadura elétrica com urina escura (mioglobinúria) o alvo sobe até a urina clarear. Por isso a afirmativa com 1,5 mL/kg/h no adulto e 2 mL/kg/h na criança é a incorreta, porque induz excesso de volume e edema. As demais são cuidados corretos: vigiar lesão inalatória, monitorar ritmo no trauma elétrico, profilaxia antitetânica e Glasgow.",
+  "porAlt": [
+   "Errada como resposta: dispneia, tiragem e escarro carbonáceo indicam lesão inalatória e justificam a intubação precoce.",
+   "Errada como resposta: a queimadura elétrica exige monitorização cardíaca contínua pelo risco de arritmias.",
+   "Errada como resposta: a profilaxia antitetânica faz parte do atendimento inicial do queimado.",
+   "Errada como resposta: o Glasgow avalia o nível de consciência, que pode cair por trauma associado ou intoxicação por monóxido.",
+   "Correta: a afirmativa é incorreta, porque o alvo é 0,5 mL/kg/h no adulto e 1 mL/kg/h na criança, e não 1,5 e 2."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 69,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Ao exame físico, paciente apresenta empastamento da panturrilha devido ao edema de massa e menor mobilidade da panturrilha quando comparada com o outro membro. Tais aspectos são sugestivos do sinal de:",
+  "alts": [
+   "Rovsing.",
+   "Jobert.",
+   "Giordano.",
+   "Bandeira.",
+   "Blumberg."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Porto CC. Semiologia Médica, 8ª ed. (2019)",
+  "coment": "O sinal da bandeira é a menor mobilidade, à balotagem, da panturrilha empastada pelo edema muscular quando comparada com a do outro membro, achado de trombose venosa profunda. Ele se soma ao sinal de Homans (dor na panturrilha à dorsiflexão do pé) e ao de Bancroft (dor à compressão da panturrilha contra a tíbia). Nenhum desses sinais confirma o diagnóstico, que exige ultrassonografia com Doppler; a enfermagem mede a circunferência das pernas e comunica a suspeita.",
+  "porAlt": [
+   "Errada: Rovsing é a dor na fossa ilíaca direita à compressão da esquerda, sugestiva de apendicite.",
+   "Errada: o sinal de Jobert é o timpanismo na área hepática por ar livre no peritônio.",
+   "Errada: Giordano é a dor à punho-percussão lombar, sugestiva de pielonefrite ou litíase.",
+   "Correta: panturrilha empastada e com menor mobilidade que a do outro lado é o sinal da bandeira, de trombose venosa profunda.",
+   "Errada: Blumberg é a dor à descompressão brusca da fossa ilíaca direita, sinal de peritonite."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "SEA/SC 2022, Enfermeiro",
+   "n": 70,
+   "parte": "especificas"
+  }
+ }
+]

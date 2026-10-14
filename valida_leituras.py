@@ -12,7 +12,10 @@ import re, sys, pathlib, html
 TAX = dict(re.findall(r'"id":"(\w+)","nome":"([^"]+)"',
                       pathlib.Path('taxonomia.js').read_text()))
 erros = []
+import sys as _s
+_so = set(_s.argv[1:])   # nomes de arquivo: valida só estes (as leituras ainda em escrita ficam de fora)
 for f in sorted(pathlib.Path('leituras').glob('*.html')):
+    if _so and f.name not in _so: continue
     if f.name.startswith('_'): continue
     s = f.read_text(); e = lambda m: erros.append(f"{f.name}: {m}")
     # regras de 10/09 ("cara de IA"): sem fonte externa, sem seção numerada, sem travessão na prosa
