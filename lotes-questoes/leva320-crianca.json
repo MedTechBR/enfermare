@@ -1,0 +1,502 @@
+[
+ {
+  "q": "Enfermeira da Estratégia Saúde da Família recebe, na Primeira Semana Saúde Integral, um recém-nascido a termo, saudável e sem fatores de risco. Ao montar na Caderneta da Criança a agenda de puericultura do primeiro ano, ela segue o calendário mínimo do Ministério da Saúde. Quantas consultas e em quais idades estão previstas no primeiro ano de vida?",
+  "alts": [
+   "Seis: aos 1, 2, 4, 6, 9 e 12 meses de vida",
+   "Sete: 1ª semana e 2, 4, 6, 8, 10 e 12 meses",
+   "Sete: 1ª semana e 1, 2, 4, 6, 9 e 12 meses",
+   "Doze: uma consulta por mês, do 1º ao 12º mês",
+   "Cinco: 1ª semana e 2, 4, 6 e 12 meses de vida"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Cadernos de Atenção Básica nº 33, Saúde da criança: crescimento e desenvolvimento (2012)",
+  "coment": "O Caderno de Atenção Básica nº 33 (2012) propõe um calendário mínimo de sete consultas no primeiro ano: na 1ª semana, dentro da Primeira Semana Saúde Integral, e aos 1, 2, 4, 6, 9 e 12 meses; duas no segundo ano, aos 18 e 24 meses; e, a partir dos 2 anos, consultas anuais perto do aniversário. As idades coincidem com vacinas, com a introdução alimentar aos 6 meses e com marcos do desenvolvimento que precisam ser checados. Criança com risco, como a prematura ou de baixo peso ao nascer, tem agenda mais próxima, e as consultas podem ser intercaladas entre médico e enfermeiro.",
+  "porAlt": [
+   "Omite a consulta da 1ª semana, que integra a Primeira Semana Saúde Integral após a alta.",
+   "As idades estão trocadas: o calendário inclui 1 e 9 meses, e não 8 e 10 meses.",
+   "Correta: sete consultas, na 1ª semana e aos 1, 2, 4, 6, 9 e 12 meses (CAB 33).",
+   "Consulta mensal não é o calendário mínimo, que prevê sete consultas no primeiro ano.",
+   "Faltam as consultas de 1 e 9 meses; o calendário mínimo tem sete, e não cinco."
+  ]
+ },
+ {
+  "q": "Lactente de 9 meses, nascido a termo, sem intercorrências e sem fatores de risco, vem à puericultura. Rola, senta com apoio, transfere objetos de uma mão para a outra e balbucia, mas não senta sem apoio, não faz pinça e não estranha desconhecidos. Perímetro cefálico e exame físico normais. Pela vigilância do desenvolvimento da Caderneta, qual a classificação e a conduta?",
+  "alts": [
+   "Alerta para o desenvolvimento; orientar estimulação e reavaliar em 30 dias",
+   "Provável atraso; referir para avaliação neuropsicomotora ainda nesta semana",
+   "Desenvolvimento adequado; elogiar a mãe e manter o calendário habitual",
+   "Adequado com fatores de risco; retorno mais próximo, sem estimulação",
+   "Provável atraso; pedir tomografia de crânio antes de referir a criança"
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Cadernos de Atenção Básica nº 33 (2012) e Caderneta da Criança, vigilância do desenvolvimento",
+  "coment": "A vigilância do desenvolvimento da Caderneta, herdada do AIDPI, compara os marcos com a faixa etária. Os marcos esperados aos 6 meses (rolar, sentar com apoio, transferir objetos, balbuciar) estão presentes; faltam os da própria faixa de 9 meses (sentar sem apoio, pinça, estranhar desconhecidos). Falta de marco da própria faixa, com perímetro cefálico normal e sem alterações fenotípicas, classifica a criança como alerta para o desenvolvimento: orientar a mãe sobre estimulação e reavaliar em 30 dias. Provável atraso exige falta de marco da faixa anterior, perímetro cefálico fora de ±2 escores z ou três ou mais alterações fenotípicas.",
+  "porAlt": [
+   "Correta: falta marco da própria faixa, com os da faixa anterior presentes; é alerta, com retorno em 30 dias.",
+   "Provável atraso exige falta de marco da faixa anterior, e os marcos de 6 meses estão presentes.",
+   "Faltam marcos da faixa de 9 meses, o que impede a classificação como desenvolvimento adequado.",
+   "Não há fator de risco no caso, e a criança não tem todos os marcos da própria faixa.",
+   "Não há indicação de exame de imagem, e a classificação não é de provável atraso."
+  ]
+ },
+ {
+  "q": "Lactente nascido com 32 semanas, hoje com 6 meses de idade cronológica, comparece à puericultura. Sustenta a cabeça, leva as mãos à linha média e ri alto, mas ainda não rola, não senta com apoio e não transfere objetos. Perímetro cefálico adequado e nenhuma alteração fenotípica. Como a enfermeira deve classificar o desenvolvimento desse lactente?",
+  "alts": [
+   "Alerta, pois faltam os marcos dos 6 meses de idade cronológica",
+   "Provável atraso, pois não rola nem senta com apoio aos 6 meses",
+   "Idade corrigida só se usa em nascidos abaixo de 28 semanas",
+   "Adequado com fator de risco, pela idade corrigida de 4 meses",
+   "Adequado sem risco, pois prematuridade não muda a vigilância"
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Ministério da Saúde, Cadernos de Atenção Básica nº 33 (2012) e Caderneta da Criança, vigilância do desenvolvimento",
+  "coment": "No prematuro, os marcos do desenvolvimento são avaliados pela idade corrigida até os 2 anos. Nascido com 32 semanas, faltaram 8 semanas para o termo; aos 6 meses cronológicos, a idade corrigida é de cerca de 4 meses. Os marcos dos 4 meses (sustentar a cabeça, mãos na linha média, rir alto) estão presentes, e os dos 6 meses ainda não são esperados. Com marcos adequados e um fator de risco, a prematuridade, a classificação da Caderneta é desenvolvimento adequado com fatores de risco: orientar estimulação e marcar retorno mais próximo. Usar a idade cronológica rotularia como atraso uma criança que se desenvolve no ritmo esperado.",
+  "porAlt": [
+   "Pela idade corrigida de 4 meses, os marcos dos 6 meses ainda não são esperados.",
+   "Rolar e sentar com apoio não são cobrados na idade corrigida de 4 meses.",
+   "A correção vale para todo prematuro até os 2 anos, não só abaixo de 28 semanas.",
+   "Correta: corrigida a idade, os marcos de 4 meses estão presentes, e a prematuridade é fator de risco.",
+   "A prematuridade é fator de risco e exige corrigir a idade na avaliação dos marcos."
+  ]
+ },
+ {
+  "q": "Na UBS, o técnico de enfermagem posiciona um menino de 20 meses em pé, encostado no estadiômetro de parede, pesa-o de fralda na balança pediátrica e comenta que o perímetro cefálico não é mais medido nessa idade. A enfermeira corrige a técnica antes do registro na Caderneta. Qual orientação está de acordo com o Caderno de Atenção Básica nº 33?",
+  "alts": [
+   "Medir a estatura em pé, mas pesar sem fralda e sem roupa",
+   "Medir o comprimento deitado e manter o perímetro cefálico",
+   "Medir em pé e registrar o perímetro cefálico só aos 24 meses",
+   "Medir deitado só até 12 meses e descontar o peso da fralda",
+   "Medir em pé e incluir a pressão arterial em toda consulta"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Cadernos de Atenção Básica nº 33, Saúde da criança: crescimento e desenvolvimento (2012)",
+  "coment": "Até os 2 anos, mede-se o comprimento com a criança deitada, em antropômetro horizontal; a estatura em pé começa depois dessa idade. A criança pequena é pesada sem roupa e sem fralda, em balança pediátrica tarada. O perímetro cefálico é medido em toda consulta até os 2 anos, com fita inextensível passando pela glabela e pela proeminência occipital. A pressão arterial entra na rotina a partir dos 3 anos. No caso, o menino de 20 meses deveria ser medido deitado, pesado sem fralda e ter o perímetro cefálico registrado na curva da Caderneta.",
+  "porAlt": [
+   "Aos 20 meses a medida é o comprimento deitado; a estatura em pé vem depois dos 2 anos.",
+   "Correta: até os 2 anos mede-se deitado, e o perímetro cefálico entra em toda consulta.",
+   "A criança de 20 meses é medida deitada, e o perímetro cefálico é medido em toda consulta.",
+   "O comprimento deitado vai até os 2 anos, e a pesagem é feita sem fralda, não descontada.",
+   "A pressão arterial entra a partir dos 3 anos, e a criança de 20 meses é medida deitada."
+  ]
+ },
+ {
+  "q": "Menina de 4 anos, ativa e sem queixas, é avaliada na puericultura pelas curvas da OMS da Caderneta. Peso para idade em escore z +2,4; estatura para idade em +2,6; IMC para idade em +0,8. A mãe teme que a filha esteja obesa. Pelos pontos de corte da Norma Técnica do SISVAN, qual é a leitura correta desses índices?",
+  "alts": [
+   "Obesidade, porque o peso para idade está acima do escore +2",
+   "Sobrepeso, porque o peso para idade está acima do escore +2",
+   "Risco de sobrepeso, pelo IMC para idade acima do escore z 0",
+   "Baixa estatura relativa, pela relação entre peso e estatura",
+   "Peso elevado para idade, estatura adequada e IMC em eutrofia"
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Norma Técnica do SISVAN (2011), com as curvas OMS 2006 da Caderneta da Criança",
+  "coment": "Na Norma Técnica do SISVAN (2011), peso para idade acima de +2 escores z é peso elevado para a idade, e não diagnóstico de obesidade. Estatura para idade acima de +2 é estatura adequada. O que define excesso de peso é o IMC para idade: de −2 a +1, eutrofia; acima de +1 até +2, risco de sobrepeso abaixo dos 5 anos. A menina é alta e por isso pesa mais que a mediana, com IMC normal. A conduta é tranquilizar a mãe, registrar os pontos e acompanhar a inclinação das curvas nas próximas consultas.",
+  "porAlt": [
+   "Peso para idade elevado não define obesidade; o excesso de peso é lido pelo IMC para idade.",
+   "Sobrepeso também é classificado pelo IMC para idade, que está em eutrofia.",
+   "Risco de sobrepeso começa acima de +1 no IMC para idade; +0,8 é eutrofia.",
+   "Estatura acima de +2 escores z é classificada como estatura adequada, não baixa.",
+   "Correta: peso para idade acima de +2 é peso elevado; estatura adequada e IMC em eutrofia."
+  ]
+ },
+ {
+  "q": "Na consulta de 18 meses, a enfermeira aplica o M-CHAT-R/F com a mãe de um menino nascido a termo. A triagem resulta positiva: ele não aponta para mostrar objetos e responde pouco quando chamado pelo nome. Anda bem e fala algumas palavras. A mãe pergunta se não seria melhor esperar até os 3 anos. Qual conduta está correta?",
+  "alts": [
+   "Aguardar os 24 meses e repetir a triagem antes de encaminhar",
+   "Encaminhar só se houver atraso motor associado na avaliação",
+   "Encaminhar para avaliação e estimulação precoce, com audiometria",
+   "Orientar estimulação em casa e reavaliar o marco aos 3 anos",
+   "Pedir diagnóstico médico de autismo antes de qualquer intervenção"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Lei 13.438/2017 (alteração do ECA) e Caderneta da Criança; SBP, M-CHAT-R/F aos 18 e 24 meses",
+  "coment": "A Lei 13.438/2017 alterou o ECA e tornou obrigatória a aplicação de instrumento de avaliação de risco para o desenvolvimento psíquico nas consultas dos primeiros 18 meses de vida. A SBP recomenda o M-CHAT-R/F aos 18 e aos 24 meses para triagem do transtorno do espectro autista. Triagem positiva não é diagnóstico, mas já justifica encaminhar para avaliação e iniciar estimulação precoce, sem esperar a confirmação, além de pedir avaliação auditiva, porque a perda de audição também reduz a resposta ao nome. Esperar até os 3 anos atrasa a intervenção na fase de maior plasticidade.",
+  "porAlt": [
+   "Triagem positiva já justifica encaminhar; repetir aos 24 meses atrasa a intervenção.",
+   "O encaminhamento não depende de atraso motor; a triagem positiva já basta.",
+   "Correta: triagem positiva leva a avaliação, estimulação precoce e audiometria.",
+   "Esperar até os 3 anos atrasa a intervenção precoce que a triagem indica.",
+   "A estimulação precoce começa com a triagem positiva, sem esperar o diagnóstico."
+  ]
+ },
+ {
+  "q": "Parto vaginal a termo, com 40 semanas e líquido amniótico meconial espesso. Ao nascer, o recém-nascido chora forte e mantém tônus em flexão. O pediatra ainda não chegou, e a técnica de enfermagem prepara o laringoscópio para aspirar a traqueia. Pelas diretrizes de reanimação neonatal da SBP de 2026, qual conduta a enfermeira deve adotar?",
+  "alts": [
+   "Levar à mesa de reanimação para aspirar a boca e o nariz",
+   "Pele a pele com a mãe e clampear o cordão com 60 segundos ou mais",
+   "Clampear de imediato e aspirar a traqueia sob laringoscopia",
+   "Aguardar o pediatra na mesa, com calor radiante e oxigênio",
+   "Clampear de imediato pelo mecônio e secar sob calor radiante"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes de reanimação do recém-nascido com 34 semanas ou mais em sala de parto, SBP 2026",
+  "coment": "Pela SBP 2026, o recém-nascido que respira ou chora e tem tônus em flexão tem boa vitalidade, qualquer que seja o aspecto do líquido amniótico. Ele fica em contato pele a pele com a mãe, o cordão é clampeado com 60 segundos ou mais e a amamentação começa idealmente na primeira hora. O mecônio não muda essa conduta: quem decide é a vitalidade, não a viscosidade do líquido. Laringoscopia e aspiração traqueal de rotina não são recomendadas, e a aspiração de boca e nariz só se faz com excesso de secreção, porque atrasa a saturação-alvo e pode provocar bradicardia reflexa.",
+  "porAlt": [
+   "Com boa vitalidade o bebê não vai para a mesa, e aspirar sem excesso de secreção não é rotina.",
+   "Correta: chora e tem tônus em flexão; pele a pele e clampeamento com 60 segundos ou mais.",
+   "Aspiração traqueal de rotina não é recomendada, mesmo com líquido meconial espesso.",
+   "Recém-nascido com boa vitalidade não precisa de mesa de reanimação nem de oxigênio.",
+   "O mecônio não indica clampeamento imediato, reservado à circulação placentária interrompida."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 31 semanas, sem boa vitalidade, recebe os passos iniciais sob calor radiante, mas permanece em apneia, com frequência cardíaca de 80 bpm. A enfermeira vai iniciar a ventilação com pressão positiva com peça T. Pelas diretrizes da SBP de 2026 para o prematuro abaixo de 34 semanas, como deve ser iniciada essa ventilação?",
+  "alts": [
+   "Ar ambiente a 21%, pressão de 20 a 25 cmH2O, 30 a 60/min",
+   "Oxigênio a 100%, pressão de 30 a 40 cmH2O, 40 a 60/min",
+   "Oxigênio a 40%, pressão de 25 a 30 cmH2O, 60 a 80/min",
+   "Oxigênio a 60%, pressão de 20 a 25 cmH2O, 30 a 60/min",
+   "Oxigênio a 60%, pressão de 30 a 40 cmH2O, 60 a 80/min"
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Diretrizes de reanimação do prematuro abaixo de 34 semanas em sala de parto, SBP 2026",
+  "coment": "A SBP publicou em junho de 2026 duas diretrizes de reanimação, uma para 34 semanas ou mais e outra para o prematuro abaixo de 34 semanas. Apneia, respiração irregular ou frequência cardíaca abaixo de 100 bpm indicam ventilação com pressão positiva no primeiro minuto. No prematuro abaixo de 34 semanas, ela começa com oxigênio a 60%, pressão inspiratória inicial de 20 a 25 cmH2O e frequência de 30 a 60 movimentos por minuto; a peça T é preferida quando há estrutura. Com 34 semanas ou mais, começa em ar ambiente, com 20 a 30 cmH2O. A concentração de oxigênio é ajustada depois pela saturação pré-ductal.",
+  "porAlt": [
+   "Ar ambiente é o início da ventilação com 34 semanas ou mais; abaixo disso começa com 60%.",
+   "Oxigênio a 100% e pressão de 30 a 40 cmH2O não são o ponto de partida do prematuro.",
+   "A concentração inicial é 60%, e a frequência fica entre 30 e 60 movimentos por minuto.",
+   "Correta: abaixo de 34 semanas, oxigênio a 60%, 20 a 25 cmH2O e 30 a 60 movimentos por minuto.",
+   "A concentração está certa, mas a pressão inicial é 20 a 25 cmH2O e a frequência, 30 a 60."
+  ]
+ },
+ {
+  "q": "Nasce prematuro de 28 semanas, em cesárea de urgência. A sala está a 24 °C e o berço de calor radiante foi ligado antes do nascimento. A técnica de enfermagem se prepara para secar o corpo do bebê com compressas aquecidas, como faz com os nascidos a termo. Pelas diretrizes da SBP de 2026, qual conduta previne a hipotermia nesse recém-nascido?",
+  "alts": [
+   "Envolver em saco plástico sem secar, rosto de fora, touca dupla",
+   "Secar o corpo, trocar campos úmidos e cobrir com manta aquecida",
+   "Secar só a cabeça, envolver em plástico e baixar a sala a 20 °C",
+   "Envolver em plástico depois de secar o corpo com as compressas",
+   "Secar e colocar em pele a pele com a mãe, sem uso de plástico"
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes de reanimação do prematuro abaixo de 34 semanas em sala de parto, SBP 2026",
+  "coment": "No prematuro abaixo de 32 semanas, a SBP 2026 manda colocar o corpo em saco plástico de polietileno sem secar, com o rosto de fora, e usar touca dupla, sob calor radiante. Secar o corpo, como se faz no nascido a termo, aumenta a perda de calor por evaporação no bebê de pele imatura. A sala de parto fica entre 23 e 25 °C, e a meta de temperatura axilar é de 36,5 a 37,5 °C; a hipotermia abaixo de 36 °C se associa a mais mortalidade no prematuro. O saco plástico não dispensa o calor radiante nem a monitorização da temperatura.",
+  "porAlt": [
+   "Correta: abaixo de 32 semanas, plástico de polietileno sem secar, com o rosto de fora, e touca dupla.",
+   "Secar o corpo é conduta do nascido a termo; no muito prematuro aumenta a perda de calor.",
+   "A sala de parto deve ficar entre 23 e 25 °C; 20 °C favorece a hipotermia.",
+   "O corpo vai para o plástico sem secar; secar antes aumenta a perda por evaporação.",
+   "O muito prematuro vai para o plástico sob calor radiante, sem secar o corpo."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 39 semanas recebeu ventilação com máscara em ar ambiente por apneia e agora respira de forma regular, com frequência cardíaca de 140 bpm. Aos 5 minutos de vida, o oxímetro no pulso radial direito marca 83%. Um colega sugere aumentar o oxigênio para 100%. Pelas diretrizes da SBP de 2026, qual é a conduta adequada?",
+  "alts": [
+   "Subir o oxigênio para 40%, pois o alvo aos 5 minutos é 90%",
+   "Subir o oxigênio para 100%, pois o alvo aos 5 minutos é 95%",
+   "Manter sem oxigênio, pois 83% está no alvo de 80 a 85%",
+   "Levar o sensor ao pé, pois o pulso direito é pós-ductal",
+   "Subir o oxigênio em 20%, pois o alvo aos 5 minutos é 85 a 95%"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Diretrizes de reanimação do recém-nascido com 34 semanas ou mais em sala de parto, SBP 2026",
+  "coment": "A SBP 2026 fixa saturação pré-ductal alvo por minuto de vida, igual para as duas faixas de idade gestacional: 65 a 70% aos 2 minutos, 70 a 75% aos 3, 75 a 80% aos 4, 80 a 85% aos 5 e 85 a 95% aos 10 minutos. O oxímetro vai no pulso radial direito, que é pré-ductal. Com 83% aos 5 minutos, respiração regular e frequência cardíaca de 140 bpm, a saturação está dentro do alvo e não há indicação de oxigênio suplementar. Saturação abaixo do alvo pede primeiro corrigir a ventilação e depois ajustar o oxigênio em 20% a cada 30 segundos, com blender.",
+  "porAlt": [
+   "Aos 5 minutos o alvo é 80 a 85%; 90% não é a meta nesse minuto de vida.",
+   "O alvo aos 5 minutos é 80 a 85%, e 83% não justifica oxigênio suplementar.",
+   "Correta: aos 5 minutos o alvo pré-ductal é 80 a 85%, e 83% está dentro dele.",
+   "O pulso radial direito é pré-ductal e é o local indicado pela diretriz.",
+   "A faixa de 85 a 95% é a meta aos 10 minutos, não aos 5 minutos de vida."
+  ]
+ },
+ {
+  "q": "Recém-nascido a termo, peso estimado de 3.000 g, segue com frequência cardíaca de 50 bpm após 60 segundos de massagem cardíaca coordenada com ventilação pela cânula traqueal. O cateter venoso umbilical está pronto. A enfermeira prepara a adrenalina conforme a SBP de 2026, a partir da ampola de 1 mg/mL. Qual preparo e dose estão corretos?",
+  "alts": [
+   "Ampola pura, sem diluir, 0,2 mL/kg (0,6 mL) e flush de 3 mL",
+   "Diluída a 0,1 mg/mL, 1 mL/kg (3 mL) e flush de 3 mL",
+   "Diluída a 0,1 mg/mL, 0,1 mL/kg (0,3 mL) e sem flush",
+   "Diluída a 0,05 mg/mL, 0,2 mL/kg (0,6 mL) e flush de 1 mL",
+   "Diluída a 0,1 mg/mL, 0,2 mL/kg (0,6 mL) e flush de 3 mL"
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "cc",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Diretrizes de reanimação do recém-nascido com 34 semanas ou mais em sala de parto, SBP 2026",
+  "coment": "Pela SBP 2026, a adrenalina entra quando a frequência cardíaca segue abaixo de 60 bpm apesar de ventilação pela cânula e massagem por 60 segundos. Dilui-se 1 mL da ampola de 1 mg/mL em 9 mL de soro fisiológico, obtendo 0,1 mg/mL. Pela veia umbilical, a dose é 0,2 mL/kg (0,02 mg/kg), em seringa de 1 mL, seguida de flush de 3 mL de SF, repetível a cada 3 a 5 minutos. Para 3 kg: 0,6 mL da solução diluída, ou 0,06 mg. O volume de 1 mL/kg é o da via traqueal, usada uma única vez enquanto se obtém o acesso. A ampola pura daria dose dez vezes maior.",
+  "porAlt": [
+   "A ampola de 1 mg/mL precisa ser diluída a 0,1 mg/mL; sem diluir, a dose fica dez vezes maior.",
+   "O volume de 1 mL/kg é o da via traqueal, não o da via venosa umbilical.",
+   "A dose venosa é 0,2 mL/kg da solução diluída, seguida de flush de 3 mL de SF.",
+   "A diluição correta é 0,1 mg/mL (1 mL em 9 mL), e o flush após a dose é de 3 mL.",
+   "Correta: 0,1 mg/mL, 0,2 mL/kg pela veia umbilical (0,6 mL para 3 kg) e flush de 3 mL."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 38 semanas, assintomático, está no alojamento conjunto com 30 horas de vida. Na triagem neonatal por oximetria de pulso, a técnica registra SpO2 de 97% no membro superior direito e de 93% no membro inferior. A mãe quer alta ainda hoje e pergunta se o teste pode ser feito depois. Qual conduta a enfermeira deve adotar?",
+  "alts": [
+   "Liberar a alta, pois a saturação no braço direito está normal",
+   "Repetir a oximetria em 1 hora, pois o resultado está alterado",
+   "Repetir o teste só na consulta da 1ª semana, na UBS de origem",
+   "Pedir ecocardiograma de urgência sem repetir a medida",
+   "Repetir só após 48 horas de vida, pois 30 horas é cedo demais"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Portaria SCTIE/MS 20/2014 (oximetria de pulso, teste do coraçãozinho, na triagem neonatal do SUS)",
+  "coment": "O teste do coraçãozinho é feito acima de 34 semanas, entre 24 e 48 horas de vida, medindo a SpO2 no membro superior direito e em um membro inferior. É alterado se a saturação for menor que 95% ou se a diferença entre os dois membros for de 3% ou mais. No caso há as duas alterações: 93% no membro inferior e diferença de 4%. A conduta é repetir a medida em 1 hora; se a alteração persistir, faz-se ecocardiograma antes da alta. Uma saturação normal no membro superior não anula o teste, que busca justamente a diferença entre os dois territórios.",
+  "porAlt": [
+   "O membro inferior está abaixo de 95% e a diferença é de 4%; o teste está alterado.",
+   "Correta: SpO2 abaixo de 95% e diferença de 3% ou mais pedem nova medida em 1 hora.",
+   "O teste alterado é repetido em 1 hora, ainda na maternidade, antes da alta.",
+   "O ecocardiograma vem se a alteração persistir na repetição feita em 1 hora.",
+   "Com 30 horas o bebê está dentro da janela de 24 a 48 horas de vida."
+  ]
+ },
+ {
+  "q": "Na sala de parto de uma maternidade, a enfermeira recém-contratada encontra no protocolo antigo do setor a instilação de nitrato de prata 1% como rotina para todos os recém-nascidos. Ao revisar o protocolo pela Nota Técnica nº 11/2024 do Ministério da Saúde, qual orientação ela deve propor para a profilaxia da oftalmia neonatal?",
+  "alts": [
+   "Manter o nitrato de prata 1% como primeira escolha para todos",
+   "Suspender a profilaxia e tratar só a conjuntivite que surgir",
+   "Usar colírio antibiótico só em filhos de mãe com gonorreia",
+   "Iodopovidona 2,5%, eritromicina 0,5% ou tetraciclina 1%",
+   "Usar soro fisiológico em gotas na limpeza ocular de rotina"
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Nota Técnica nº 11/2024-CACRIAD/CGACI/DGCI/SAPS/MS (profilaxia da oftalmia neonatal)",
+  "coment": "A Nota Técnica nº 11/2024 do Ministério da Saúde indica, para a profilaxia da oftalmia neonatal, iodopovidona 2,5%, eritromicina 0,5% ou tetraciclina 1%. O nitrato de prata 1%, o antigo método de Credé, fica reservado para a falta dos outros agentes. A profilaxia é universal, porque a conjuntivite gonocócica pode perfurar a córnea em poucos dias e a infecção materna nem sempre é conhecida; a clamídia é o outro agente visado. Limpeza com soro fisiológico não previne a infecção. A revisão do protocolo deve trocar o agente de primeira escolha, e não abandonar a profilaxia.",
+  "porAlt": [
+   "Pela Nota Técnica 11/2024, o nitrato de prata 1% fica só para a falta dos outros agentes.",
+   "A profilaxia é universal, porque a conjuntivite gonocócica perfura a córnea em poucos dias.",
+   "A profilaxia vale para todo recém-nascido, porque a infecção materna nem sempre é conhecida.",
+   "Correta: iodopovidona 2,5%, eritromicina 0,5% ou tetraciclina 1%; nitrato só na falta deles.",
+   "Soro fisiológico apenas limpa; não tem ação contra gonococo nem clamídia."
+  ]
+ },
+ {
+  "q": "Lactente de 3 meses, nascido a termo, vem à puericultura com ganho de peso adequado. A mãe conta que ele mama no peito em livre demanda e que, nas tardes quentes, ela oferece também água e chá de erva-doce na mamadeira. Não recebe outro leite nem alimentos. Pelas definições do Ministério da Saúde, como se classifica esse aleitamento?",
+  "alts": [
+   "Aleitamento materno predominante",
+   "Aleitamento materno exclusivo",
+   "Aleitamento materno misto ou parcial",
+   "Aleitamento materno complementado",
+   "Aleitamento materno continuado"
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Aleitamento e alimentação",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Cadernos de Atenção Básica nº 23, Saúde da criança: aleitamento materno e alimentação complementar (2015)",
+  "coment": "O Ministério da Saúde, seguindo a OMS, distingue as categorias de aleitamento. Exclusivo admite só leite materno, da mama, ordenhado ou humano de outra fonte, mais gotas de vitaminas, minerais, medicamentos e sais de reidratação. Quando a criança recebe também água ou chá, o aleitamento passa a ser predominante; com outro leite, misto ou parcial; com alimentos sólidos, complementado. A recomendação é aleitamento exclusivo até 6 meses e continuado até 2 anos ou mais. A conduta de enfermagem é explicar que o leite materno já hidrata o bebê e desestimular a mamadeira, porque bicos artificiais atrapalham a pega.",
+  "porAlt": [
+   "Correta: leite materno mais água ou chá caracteriza aleitamento materno predominante.",
+   "Exclusivo não admite água nem chá; só gotas de vitaminas, minerais, medicamentos e SRO.",
+   "Misto ou parcial é quando a criança recebe outro tipo de leite, o que não ocorre.",
+   "Complementado é quando há alimentos sólidos, ausentes neste lactente de 3 meses.",
+   "Continuado descreve a amamentação mantida junto com outros alimentos, não este caso."
+  ]
+ },
+ {
+  "q": "Puérpera de 22 dias procura a UBS com dor, calor e vermelhidão no quadrante superior da mama direita, febre de 38,3 °C e mal-estar. Amamenta exclusivamente e conta que deixou de oferecer a mama direita porque dói. Na observação da mamada, o bebê abocanha só o mamilo. Além de acionar o médico, qual orientação de enfermagem está correta?",
+  "alts": [
+   "Suspender a amamentação até terminar o antibiótico prescrito",
+   "Amamentar só na mama esquerda e desprezar o leite da direita",
+   "Oferecer fórmula até a febre ceder e retomar o peito depois",
+   "Manter só a ordenha da mama direita, sem oferecê-la ao bebê",
+   "Manter a amamentação nas duas mamas e corrigir a pega"
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Aleitamento e alimentação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Cadernos de Atenção Básica nº 23, Saúde da criança: aleitamento materno e alimentação complementar (2015)",
+  "coment": "Nos problemas da mama, a lógica é uma só: manter a amamentação, esvaziar a mama e corrigir a técnica. Na mastite, a amamentação continua inclusive na mama afetada, porque interromper favorece o abscesso. Mastite e febre não contraindicam o aleitamento. A pega só no mamilo é a causa provável e precisa ser corrigida: boca bem aberta, lábio inferior virado para fora, queixo tocando a mama e mais aréola visível acima da boca do que abaixo. A avaliação de antibiótico e analgésico é médica, mas a orientação de manter o esvaziamento e corrigir a pega é da enfermagem.",
+  "porAlt": [
+   "Mastite não contraindica amamentar; suspender as mamadas favorece o abscesso.",
+   "A mama afetada precisa continuar sendo esvaziada pela própria mamada.",
+   "Febre e mastite não justificam fórmula; o aleitamento exclusivo deve continuar.",
+   "A amamentação continua inclusive na mama afetada; só ordenhar não é a orientação.",
+   "Correta: manter as mamadas inclusive na mama afetada, esvaziar a mama e corrigir a pega."
+  ]
+ },
+ {
+  "q": "No alojamento conjunto, a enfermeira revisa os prontuários de cinco puérperas antes de orientar a amamentação. Os registros mostram, em cada uma: HTLV-1 reagente; hepatite C; tuberculose pulmonar em tratamento há 3 semanas; dengue sem sinais de alarme; HBsAg reagente, com o bebê já vacinado e com imunoglobulina. Qual delas deve ser orientada a não amamentar?",
+  "alts": [
+   "A puérpera com hepatite C, pelo risco de transmissão pelo leite",
+   "A puérpera com HTLV-1, com inibição da lactação e oferta de fórmula",
+   "A puérpera com tuberculose, até completar todo o tratamento",
+   "A puérpera com dengue, até a resolução completa do quadro febril",
+   "A puérpera HBsAg reagente, mesmo com vacina e imunoglobulina"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Aleitamento e alimentação",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Cadernos de Atenção Básica nº 23, Saúde da criança: aleitamento materno e alimentação complementar (2015)",
+  "coment": "No Brasil, contraindicam a amamentação a infecção materna por HIV e por HTLV-1 ou 2, a galactosemia clássica da criança e o uso de antineoplásicos; nesses casos inibe-se a lactação, oferece-se fórmula, e o aleitamento cruzado é proibido. Não contraindicam a hepatite B, porque o bebê recebe vacina e imunoglobulina, a hepatite C, a tuberculose em tratamento, com a mãe amamentando de máscara, a dengue, a febre, a mastite e o tabagismo. Das cinco puérperas, só a com HTLV-1 deve ser orientada a não amamentar.",
+  "porAlt": [
+   "Hepatite C materna não contraindica o aleitamento materno.",
+   "Correta: HTLV-1 contraindica a amamentação no Brasil; inibe-se a lactação e oferece-se fórmula.",
+   "Tuberculose em tratamento não contraindica; a mãe amamenta usando máscara.",
+   "Dengue e febre não contraindicam o aleitamento materno.",
+   "Com vacina e imunoglobulina no bebê, a hepatite B materna não impede amamentar."
+  ]
+ },
+ {
+  "q": "Mãe de lactente de 5 meses vai voltar ao trabalho e quer manter o aleitamento exclusivo com leite ordenhado em casa. Na consulta, ela pergunta à enfermeira por quanto tempo pode guardar o leite e como oferecê-lo enquanto estiver fora. Qual orientação está de acordo com o Ministério da Saúde para o leite ordenhado cru, conservado no domicílio?",
+  "alts": [
+   "Até 24 horas na geladeira; aquecer no micro-ondas e dar na mamadeira",
+   "Até 12 horas na geladeira; ferver o leite antes de dar ao bebê",
+   "Até 30 dias no freezer; descongelar em temperatura ambiente",
+   "Até 12 horas na geladeira e 15 dias no freezer; dar em copinho",
+   "Até 48 horas na geladeira; descongelar em fogo baixo e dar em copo"
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Aleitamento e alimentação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Cadernos de Atenção Básica nº 23, Saúde da criança: aleitamento materno e alimentação complementar (2015)",
+  "coment": "O leite ordenhado cru, conservado em casa, dura até 12 horas na geladeira e até 15 dias no congelador ou freezer. O descongelamento é feito em banho-maria com o fogo desligado, nunca no micro-ondas. O leite é oferecido em copinho, porque bicos artificiais atrapalham a pega e se associam ao desmame. Manter as mamadas no peito quando a mãe estiver em casa ajuda a sustentar o aleitamento exclusivo até os 6 meses e o aleitamento continuado até 2 anos ou mais. A enfermeira pode ensinar a ordenha manual e a rotulagem dos frascos com data e hora.",
+  "porAlt": [
+   "Na geladeira o prazo é de 12 horas, e o micro-ondas não deve ser usado.",
+   "O prazo de 12 horas está certo, mas o leite não é fervido; aquece-se em banho-maria.",
+   "O prazo no freezer é de 15 dias, e o descongelamento é em banho-maria com fogo desligado.",
+   "Correta: 12 horas na geladeira, 15 dias no freezer, banho-maria com fogo desligado e copinho.",
+   "Na geladeira são 12 horas, e o banho-maria é feito com o fogo desligado."
+  ]
+ },
+ {
+  "q": "Lactente de 7 meses, em aleitamento materno, começou a introdução alimentar há um mês. A mãe conta que oferece suco de laranja coado no lanche, sopa batida no liquidificador no almoço e um pouco de açúcar no mingau para ele aceitar melhor. Pelo Guia Alimentar para Crianças Brasileiras Menores de 2 Anos, qual orientação a enfermeira deve dar?",
+  "alts": [
+   "Fruta inteira ou amassada, comida amassada com garfo e nenhum açúcar",
+   "Manter o suco natural, liquidificar a comida e só tirar o açúcar",
+   "Trocar o açúcar por mel e manter a sopa batida até os 12 meses",
+   "Manter o suco, passar a comida na peneira e reduzir o açúcar",
+   "Oferecer comida amassada, suco sem açúcar e mel no mingau da tarde"
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Aleitamento e alimentação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Guia Alimentar para Crianças Brasileiras Menores de 2 Anos (2019)",
+  "coment": "O Guia Alimentar para Crianças Brasileiras Menores de 2 Anos (2019), que substituiu os Dez Passos de 2002, orienta em 12 passos uma alimentação baseada em alimentos in natura e minimamente processados. A introdução começa aos 6 meses, com a comida amassada com garfo, nunca liquidificada ou peneirada, para a criança aprender a mastigar. Fruta vai inteira ou amassada, não como suco. Nenhum açúcar até os 2 anos e nenhum ultraprocessado. Mel fica fora do primeiro ano pelo risco de botulismo. A mesma comida da família entra aos poucos, com atenção aos sinais de fome e saciedade.",
+  "porAlt": [
+   "Correta: fruta inteira ou amassada, comida amassada com garfo e nenhum açúcar até os 2 anos.",
+   "Fruta não é dada como suco, e a comida não deve ser liquidificada.",
+   "Mel fica fora do primeiro ano pelo risco de botulismo, e a comida é amassada com garfo.",
+   "A comida não deve ser peneirada, e o açúcar deve ser retirado, não só reduzido.",
+   "Fruta vai inteira ou amassada, não em suco, e mel é proibido antes de 1 ano."
+  ]
+ },
+ {
+  "q": "Menino de 18 meses, de município incluído no Programa Nacional de Suplementação de Vitamina A, recebeu aos 12 meses a cápsula de 200.000 UI. Hoje, ao receber nova cápsula na UBS, cospe parte do conteúdo. A mãe pede que a técnica de enfermagem dê outra cápsula para garantir a dose. Qual conduta está correta?",
+  "alts": [
+   "Repetir a cápsula inteira de 200.000 UI no mesmo dia",
+   "Oferecer metade de outra cápsula, para completar a dose",
+   "Não repetir; registrar e agendar a próxima dose em 6 meses",
+   "Repetir com a cápsula de 100.000 UI, dose própria da idade",
+   "Não repetir; antecipar a próxima dose para daqui a 1 mês"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Aleitamento e alimentação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Caderno dos Programas Nacionais de Suplementação de Micronutrientes (MS, 2022) e Nota Técnica Conjunta 134/2025",
+  "coment": "Pelo Programa Nacional de Suplementação de Vitamina A (Caderno dos Programas de Micronutrientes de 2022 e Nota Técnica Conjunta 134/2025), a criança de 6 a 11 meses recebe uma dose de 100.000 UI e a de 12 a 59 meses recebe 200.000 UI a cada 6 meses, nas áreas e públicos do programa. A cápsula não é fracionada e, se a criança cuspir, a dose não é repetida, porque a quantidade ingerida é desconhecida e o excesso de vitamina A é tóxico. Registra-se a administração e agenda-se a próxima dose para 6 meses depois.",
+  "porAlt": [
+   "Se a criança cospe, a dose não é repetida, pelo risco de excesso de vitamina A.",
+   "A cápsula não se fraciona, e a dose cuspida não é completada.",
+   "Correta: dose cuspida não se repete; a próxima de 200.000 UI vem em 6 meses.",
+   "A dose de 100.000 UI é da faixa de 6 a 11 meses, e a dose cuspida não se repete.",
+   "O intervalo entre as doses de 200.000 UI é de 6 meses, sem antecipação."
+  ]
+ },
+ {
+  "q": "Menina de 2 anos é levada à UBS com tosse e febre há 2 dias. A mãe relata que desde a manhã ela vomita tudo o que ingere, inclusive água. Está acordada e chorosa, sem convulsões, com frequência respiratória de 36 irpm e sem tiragem subcostal. Pela AIDPI, como a enfermeira deve classificar e conduzir o caso?",
+  "alts": [
+   "Não é pneumonia; medidas caseiras e retorno se piorar",
+   "Pneumonia; amoxicilina oral por 7 dias e retorno em 2 dias",
+   "Sem sinal de perigo, pois está acordada e não convulsionou",
+   "Gastroenterite; plano A em casa e retorno em 2 dias",
+   "Doença grave; tratamento pré-referência e referência urgente"
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, OPAS e Unicef, Manual de Quadros de Procedimentos AIDPI Criança: 2 meses a 5 anos (2017)",
+  "coment": "A AIDPI começa toda consulta da criança de 2 meses a 5 anos pelos sinais gerais de perigo: não consegue beber nem mamar, vomita tudo o que ingere, teve convulsões, está letárgica ou inconsciente. Basta um deles para classificar a criança como grave, com tratamento pré-referência e referência urgente. A frequência de 36 irpm não é rápida aos 2 anos, cujo corte é 40 ou mais, e não há tiragem, mas isso não muda a gravidade: vomitar tudo já é sinal geral de perigo. Na tabela de tosse, qualquer sinal geral de perigo classifica como pneumonia grave ou doença muito grave.",
+  "porAlt": [
+   "Vomitar tudo é sinal geral de perigo, o que impede manejar a criança em casa.",
+   "Não há respiração rápida, e o sinal geral de perigo exige referência urgente.",
+   "Sinal geral de perigo não depende de convulsão ou letargia; vomitar tudo basta.",
+   "Não há diarreia, e vomitar tudo é sinal geral de perigo, não indicação de plano A.",
+   "Correta: vomitar tudo é sinal geral de perigo; trata-se antes e refere-se com urgência."
+  ]
+ }
+]

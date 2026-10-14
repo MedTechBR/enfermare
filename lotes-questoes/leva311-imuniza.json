@@ -1248,5 +1248,255 @@
    "Todo ESAVI suspeito é notificado, e este exigiu internação, o que o torna grave.",
    "A gravidade não depende de causalidade confirmada; ESAVI dispensa essa prova."
   ]
+ },
+ {
+  "q": "Menino de 4 anos vai receber a vacina influenza na campanha anual. A mãe informa que, ao comer ovo pela primeira vez, ele apresentou apenas urticária, sem dificuldade respiratória, vômitos ou edema de face. Não há outras alergias. Pela IN do calendário de 2026, qual é a conduta da sala de vacina?",
+  "alts": [
+   "Vacinar sem cuidados especiais, pois houve apenas urticária",
+   "Vacinar apenas em ambiente hospitalar, sob supervisão médica direta",
+   "Contraindicar a vacina, pois ela é produzida em ovos",
+   "Aplicar metade da dose e observar a criança por 2 horas",
+   "Solicitar teste alérgico ao ovo antes de qualquer dose"
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Eventos supostamente atribuíveis à vacinação",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "Nas precauções da influenza, a IN 2026 informa que pessoas com alergia à proteína do ovo toleram bem a vacina. Quem apresentou apenas urticária após ingerir ovo recebe a vacina sem necessidade de cuidados especiais. Quem teve sinais mais graves de anafilaxia, como angioedema, desconforto respiratório ou vômitos repetidos, é vacinado em ambiente adequado para tratar reações alérgicas graves, sob supervisão médica. A contraindicação real é anafilaxia grave após dose anterior da própria vacina, e menores de 6 meses não recebem influenza.",
+  "porAlt": [
+   "Correta: alergia ao ovo só com urticária não exige cuidado especial para a influenza.",
+   "Ambiente de urgência com supervisão médica é para quem teve anafilaxia grave ao ovo.",
+   "Alergia ao ovo não contraindica a influenza; a IN relata boa tolerância à vacina.",
+   "Não existe meia dose como precaução; o volume aos 4 anos é 0,5 mL.",
+   "A IN não exige teste alérgico antes da vacina influenza em quem teve urticária."
+  ]
+ },
+ {
+  "q": "Recém-nascido a termo, 3.200 g, nasce de parto vaginal; a mãe tem HBsAg positivo confirmado no pré-natal. O bebê está estável no alojamento conjunto, com 2 horas de vida. Pela IN do calendário de 2026, qual é a imunoprofilaxia contra hepatite B indicada para ele?",
+  "alts": [
+   "Apenas a vacina monovalente, pois a imunoglobulina é reservada a prematuros",
+   "Vacina e imunoglobulina anti-hepatite B, em sítios distintos, nas primeiras 12 h",
+   "Vacina e imunoglobulina misturadas na mesma seringa, no vasto lateral",
+   "Apenas a imunoglobulina ao nascer, com a vacina adiada para a penta aos 2 meses",
+   "Vacina ao nascer e imunoglobulina somente se o anti-HBs vier negativo"
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Imunobiológicos especiais (CRIE)",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 e Manual dos CRIE, 6ª edição, 2023 (MS)",
+  "coment": "A IN 2026 recomenda que, logo após o nascimento, o filho de mãe HBsAg positiva receba 1 dose de imunoglobulina humana anti-hepatite B e a 1ª dose da vacina hepatite B monovalente, em sítios musculares distintos. A vacina deve ser feita na sala de parto ou nas primeiras 12 horas; não sendo possível, em até 24 horas. A vacina isolada nas primeiras 12 horas já é altamente eficaz contra a transmissão vertical, e a imunoglobulina dá proteção adicional, podendo ser aplicada no máximo até 7 dias após o parto. O esquema segue com a penta aos 2, 4 e 6 meses.",
+  "porAlt": [
+   "A imunoglobulina é indicada a todo filho de mãe HBsAg positiva, não só a prematuros.",
+   "Correta: vacina e imunoglobulina em sítios distintos, preferencialmente nas primeiras 12 horas.",
+   "Vacina e imunoglobulina não se misturam; são aplicadas em sítios musculares distintos.",
+   "A vacina é a medida principal e não pode ser adiada para a penta aos 2 meses.",
+   "Anti-HBs não orienta a imunoprofilaxia ao nascer; ele é feito após o esquema completo."
+  ]
+ },
+ {
+  "q": "Recém-nascido com 4 dias de vida recebeu a vacina hepatite B na sala de parto. Só hoje chega o resultado do HBsAg materno, que veio positivo. O bebê não recebeu imunoglobulina e está bem, em aleitamento materno. Pela IN do calendário de 2026, qual é a conduta?",
+  "alts": [
+   "Não aplicar imunoglobulina, pois o prazo dela é de até 24 horas de vida",
+   "Repetir a vacina hoje junto com a imunoglobulina e reiniciar todo o esquema",
+   "Aplicar a imunoglobulina anti-hepatite B hoje, pois o prazo é de até 7 dias",
+   "Aplicar a imunoglobulina apenas se o bebê tiver anti-HBs negativo",
+   "Não aplicar, pois a vacina sozinha já garante proteção completa ao bebê"
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Imunobiológicos especiais (CRIE)",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 e Manual dos CRIE, 6ª edição, 2023 (MS)",
+  "coment": "Na imunoprofilaxia do filho de mãe HBsAg positiva, a IN 2026 diz que a imunoglobulina anti-hepatite B deve ser aplicada no máximo até 7 dias após o parto. As 24 horas são o limite para a vacina quando não foi possível aplicá-la nas primeiras 12 horas. Como o bebê já recebeu a vacina na sala de parto, a dose é válida e não se repete; falta a imunoglobulina, que ainda pode ser feita no 4º dia. Depois, o esquema segue com a penta aos 2, 4 e 6 meses e anti-HBs entre 30 e 60 dias após a última dose.",
+  "porAlt": [
+   "As 24 horas são o prazo da vacina; a imunoglobulina pode ser feita até 7 dias.",
+   "A vacina do nascimento é válida; não se repete a dose nem se reinicia o esquema.",
+   "Correta: a imunoglobulina ainda está no prazo de até 7 dias após o parto.",
+   "Não se espera sorologia para aplicar a imunoglobulina; o anti-HBs é feito após o esquema.",
+   "A imunoglobulina dá proteção adicional à vacina e segue indicada até 7 dias de vida."
+  ]
+ },
+ {
+  "q": "Lactente de 7 meses, filho de mãe HBsAg positiva, recebeu imunoglobulina e vacina hepatite B ao nascer e as 3 doses de penta aos 2, 4 e 6 meses. A enfermeira da UBS organiza o seguimento. Pela IN do calendário de 2026, quando deve ser solicitada a dosagem de anti-HBs?",
+  "alts": [
+   "Logo após a dose do nascimento, antes de iniciar a penta",
+   "Somente aos 5 anos, antes da entrada da criança na escola",
+   "Seis meses após a última dose, junto com o HBsAg da criança",
+   "Entre 30 e 60 dias após a última dose do esquema básico",
+   "Não há indicação de sorologia para criança vacinada no prazo"
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Imunobiológicos especiais (CRIE)",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 e Manual dos CRIE, 6ª edição, 2023 (MS)",
+  "coment": "A IN 2026 orienta avaliar a soroconversão do filho de mãe HBsAg positiva pela dosagem de anticorpos contra o HBsAg (anti-HBs) entre 30 e 60 dias após a última dose do esquema básico. A mesma avaliação é indicada para crianças nascidas de mãe com HIV. Lactentes de mãe HBsAg positiva estão entre os grupos que devem ser revacinados se o anti-HBs ficar abaixo de 10 mUI/mL após esquema completo, conforme o Manual dos CRIE de 2023. Como a 3ª penta foi aos 6 meses, a coleta fica entre 7 e 8 meses de idade.",
+  "porAlt": [
+   "A sorologia avalia a resposta ao esquema completo, e não à dose do nascimento.",
+   "Esperar até 5 anos atrasaria a revacinação de quem não respondeu à vacina.",
+   "O prazo da IN é de 30 a 60 dias após a última dose, e não de 6 meses.",
+   "Correta: o anti-HBs é dosado entre 30 e 60 dias após a última dose do esquema básico.",
+   "Filho de mãe HBsAg positiva tem indicação de sorologia pós-vacinal pela IN."
+  ]
+ },
+ {
+  "q": "Enfermeira de 32 anos, de um hospital geral, completou 3 doses de vacina hepatite B há 2 meses. O anti-HBs solicitado pelo serviço de saúde ocupacional veio 4 mUI/mL. Ela não tem doenças crônicas nem imunodepressão. Pela IN do calendário de 2026, qual é a conduta?",
+  "alts": [
+   "Considerar imune, pois 3 doses completas garantem proteção definitiva",
+   "Aplicar 1 dose de reforço só se houver acidente com material biológico",
+   "Repetir o anti-HBs em 5 anos e revacinar apenas se continuar baixo",
+   "Contraindicar novas doses, por ausência de resposta à vacina",
+   "Revacinar, por anti-HBs abaixo de 10 mUI/mL após esquema completo"
+  ],
+  "gab": 4,
+  "tema": "imuniza",
+  "sub": "Imunobiológicos especiais (CRIE)",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 e Manual dos CRIE, 6ª edição, 2023 (MS)",
+  "coment": "A revacinação contra hepatite B não é rotina para imunocompetentes vacinados. A IN 2026, porém, manda revacinar quando o anti-HBs for menor que 10 mUI/mL após esquema básico completo de pelo menos 3 doses em grupos definidos: lactentes de mãe HBsAg positiva, pacientes em hemodiálise, profissionais de saúde e pessoas com imunossupressão, como transplantados de medula, pessoas com HIV e em quimioterapia. Os detalhes do esquema de revacinação estão no Manual dos CRIE de 2023. Ausência de resposta não contraindica novas doses.",
+  "porAlt": [
+   "Profissional de saúde com anti-HBs abaixo de 10 mUI/mL após 3 doses deve ser revacinado.",
+   "A revacinação não espera acidente; ela é indicada pelo anti-HBs baixo no profissional.",
+   "Adiar a conduta por 5 anos deixa a profissional desprotegida diante da exposição.",
+   "Não responder ao esquema não contraindica a vacina; indica a revacinação.",
+   "Correta: anti-HBs abaixo de 10 mUI/mL em profissional de saúde vacinado indica revacinação."
+  ]
+ },
+ {
+  "q": "Gestante de 22 semanas, sem história de varicela e sem vacina, conta que há 3 dias passou a tarde com o sobrinho, que apresentou as lesões de varicela no dia seguinte à visita. Está assintomática. Pela IN do calendário de 2026, qual é a conduta indicada para ela?",
+  "alts": [
+   "Imunoglobulina antivaricela-zóster, ainda dentro do prazo de 96 horas",
+   "Vacina varicela de bloqueio, ainda dentro do prazo de 120 horas",
+   "Nenhuma conduta, pois a gestação já está além de 16 semanas",
+   "Vacina varicela agora e imunoglobulina após o parto, se necessário",
+   "Imunoglobulina antivaricela-zóster só se surgirem lesões vesiculares"
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Imunobiológicos especiais (CRIE)",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 e Manual dos CRIE, 6ª edição, 2023 (MS)",
+  "coment": "A vacina varicela é atenuada e contraindicada na gestação. Para gestante suscetível exposta, em qualquer fase da gestação, a IN 2026 recomenda a imunoglobulina humana antivaricela-zóster (IGHVZ) o mais precocemente possível, de preferência nas primeiras 24 a 48 horas, com prazo de até 96 horas após o contato. A indicação é preventiva, não terapêutica, e reduz a gravidade da doença. A vacina de bloqueio, em até 120 horas, é para contatos elegíveis à vacina. O risco de varicela congênita é maior nas primeiras 16 semanas, mas a gestante segue com indicação de IGHVZ.",
+  "porAlt": [
+   "Correta: gestante suscetível exposta recebe IGHVZ, com prazo de até 96 horas do contato.",
+   "A vacina varicela é contraindicada na gestação; o bloqueio vacinal não serve para ela.",
+   "A IGHVZ é indicada em qualquer fase da gestação; a varicela grave materna segue possível.",
+   "A vacina é contraindicada na gestante; a imunoglobulina é que está indicada agora.",
+   "A IGHVZ é preventiva e perde o prazo de 96 horas se esperar as lesões."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 27 semanas, internado em UTI neonatal, foi exposto a outro bebê da unidade que desenvolveu varicela. A mãe teve varicela na infância, registrada em prontuário. A equipe discute a indicação de imunoglobulina antivaricela-zóster (IGHVZ). Pela IN do calendário de 2026, qual é a conduta?",
+  "alts": [
+   "Não indicar, pois a história materna positiva garante anticorpos ao recém-nascido",
+   "Indicar a IGHVZ, pois abaixo de 28 semanas a indicação independe da história materna",
+   "Vacinar com varicela de bloqueio até 120 horas, em vez da imunoglobulina",
+   "Indicar a imunoglobulina apenas se o recém-nascido pesar menos de 1.000 gramas",
+   "Isolar o bebê e aguardar sinais clínicos para decidir pela imunoglobulina"
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Imunobiológicos especiais (CRIE)",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 e Manual dos CRIE, 6ª edição, 2023 (MS)",
+  "coment": "Pela IN 2026, com base no Manual dos CRIE de 2023, a IGHVZ é recomendada para o recém-nascido cuja mãe teve varicela nos 5 últimos dias de gestação ou até 48 horas após o parto; para o prematuro de 28 a 36 semanas exposto à varicela quando a mãe tem história negativa; e para o prematuro com menos de 28 semanas ou menos de 1.000 g exposto, independentemente da história materna. O prematuro extremo recebe pouca IgG transplacentária, que passa sobretudo no fim da gestação. A vacina varicela é contraindicada abaixo de 9 meses.",
+  "porAlt": [
+   "Abaixo de 28 semanas a passagem de anticorpos é insuficiente; a história materna não basta.",
+   "Correta: prematuro com menos de 28 semanas exposto recebe IGHVZ, qualquer que seja a história materna.",
+   "A vacina varicela é contraindicada em menores de 9 meses; o recém-nascido recebe IGHVZ.",
+   "Menos de 1.000 g é critério alternativo; com 27 semanas a idade gestacional já indica a IGHVZ.",
+   "A IGHVZ é preventiva e tem prazo de até 96 horas; esperar sinais perde a indicação."
+  ]
+ },
+ {
+  "q": "Lactente de 4 meses apresentou, cerca de 6 horas após a 1ª dose de penta, palidez, hipotonia e diminuição da resposta a estímulos, com recuperação espontânea, quadro avaliado como episódio hipotônico-hiporresponsivo. Pela IN do calendário de 2026, qual é a conduta para as próximas doses contra coqueluche?",
+  "alts": [
+   "Manter a penta com antitérmico nas 24 a 48 horas seguintes",
+   "Substituir a penta pela DTP, que tem menos componentes associados",
+   "Contraindicar penta e DTP e encaminhar ao CRIE para vacina especial",
+   "Suspender toda vacinação contra coqueluche até os 7 anos de idade",
+   "Manter a penta, pois o episódio teve recuperação espontânea e rápida"
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Imunobiológicos especiais (CRIE)",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 e Manual dos CRIE, 6ª edição, 2023 (MS)",
+  "coment": "A IN 2026 contraindica a penta e a DTP quando, após dose anterior, a criança apresenta convulsão nas primeiras 72 horas, episódio hipotônico-hiporresponsivo nas primeiras 48 horas ou encefalopatia aguda grave em até 7 dias, além de quadro neurológico em atividade. Crianças que tiveram evento adverso grave com vacina de pertussis de células inteiras podem receber vacinas especiais, com componente pertussis acelular, na Rede de Imunobiológicos Especiais (Portaria GM/MS 6.623/2025) e pelo Manual dos CRIE de 2023. O antitérmico profilático é conduta para febre alta, não para esse episódio.",
+  "porAlt": [
+   "Antitérmico é a precaução para febre alta; episódio hipotônico em 48 horas contraindica a penta.",
+   "A DTP tem pertussis de células inteiras e também fica contraindicada nesse caso.",
+   "Correta: o episódio em 48 horas contraindica penta e DTP, e a criança vai ao CRIE.",
+   "A proteção contra coqueluche continua com vacina especial do CRIE, sem suspender.",
+   "A recuperação espontânea não retira a contraindicação prevista na IN."
+  ]
+ },
+ {
+  "q": "Rapaz de 20 anos vivendo com HIV, em uso regular de antirretrovirais, comparece à UBS com prescrição médica de vacina HPV. Nunca recebeu nenhuma dose. Pela estratégia especial para grupos prioritários descrita na IN do calendário de 2026, qual é o esquema indicado?",
+  "alts": [
+   "Dose única, como no resgate até 19 anos",
+   "2 doses, no esquema 0 e 6 meses",
+   "Não vacinar, pois o limite é 19 anos",
+   "3 doses, no esquema 0, 2 e 6 meses",
+   "3 doses, com 30 dias entre cada uma"
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Imunobiológicos especiais (CRIE)",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A IN 2026 prevê a vacinação de grupos prioritários para HPV em estratégia especial, mediante prescrição, em qualquer sala de vacina do SUS. Imunodeprimidos de 9 a 45 anos, incluindo pessoas vivendo com HIV/aids, transplantados e pacientes oncológicos, recebem 3 doses, com 2 meses entre a 1ª e a 2ª e 6 meses entre a 1ª e a 3ª (0, 2 e 6 meses). O mesmo esquema vale para usuários de PrEP de 15 a 45 anos e mulheres tratadas de NIC 2, NIC 3 ou adenocarcinoma in situ. A dose única é da rotina de 9 a 14 anos e do resgate até 19 anos.",
+  "porAlt": [
+   "A dose única é da rotina e do resgate; imunodeprimidos recebem 3 doses.",
+   "Duas doses (0 e 6 meses) são para vítimas de abuso sexual de 9 a 14 anos.",
+   "A estratégia especial para imunodeprimidos vai de 9 a 45 anos de idade.",
+   "Correta: imunodeprimido de 9 a 45 anos recebe 3 doses, no esquema 0, 2 e 6 meses.",
+   "O intervalo do esquema é 0, 2 e 6 meses, e não 30 dias entre as doses."
+  ]
+ },
+ {
+  "q": "Adolescente de 15 anos vivendo com HIV vai se mudar para área com circulação confirmada de febre amarela e nunca recebeu a vacina. Está assintomático, e o último exame mostra 280 linfócitos T CD4+ por mm³. Segundo o Quadro 3 da IN do calendário de 2026, como se classifica e qual é a conduta?",
+  "alts": [
+   "Alteração ausente; vacinar sem necessidade de avaliação adicional",
+   "Alteração grave; vacina contraindicada até haver reconstrução imune",
+   "Alteração moderada; vacina contraindicada em qualquer situação clínica",
+   "Não se classifica, pois o HIV sempre contraindica a febre amarela",
+   "Alteração moderada; avaliar o risco-benefício antes de vacinar o adolescente"
+  ],
+  "gab": 4,
+  "tema": "imuniza",
+  "sub": "Imunobiológicos especiais (CRIE)",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 e Manual dos CRIE, 6ª edição, 2023 (MS)",
+  "coment": "A IN 2026 usa a contagem de linfócitos T CD4+ como parâmetro para a vacina febre amarela em pessoas vivendo com HIV, pelo Quadro 3, extraído do Manual dos CRIE de 2023. A partir de 13 anos: 350 ou mais, alteração ausente; entre 200 e 350, moderada; abaixo de 200, grave. Sem alteração, vacina-se; com alteração moderada, considera-se o risco-benefício; com alteração grave, a vacina está contraindicada, e se possível adia-se até reconstrução imune com antirretrovirais. Com 280 células/mm³ e mudança para área de circulação, a decisão é individual.",
+  "porAlt": [
+   "A partir de 13 anos, ausência de alteração exige 350 células/mm³ ou mais.",
+   "Alteração grave, a partir de 13 anos, é abaixo de 200 células/mm³.",
+   "Na alteração moderada a IN manda considerar o risco-benefício, sem proibir.",
+   "HIV não contraindica por si só; a decisão depende do CD4 e da clínica.",
+   "Correta: 280 células/mm³ aos 15 anos é alteração moderada, com avaliação de risco-benefício."
+  ]
  }
 ]

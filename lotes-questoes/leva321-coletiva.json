@@ -1,0 +1,502 @@
+[
+ {
+  "q": "Em 2025, um município de 200.000 habitantes registrou 25 casos confirmados de doença meningocócica, com 5 óbitos pela doença. A enfermeira da vigilância epidemiológica precisa informar, no boletim anual, a gravidade da doença entre as pessoas acometidas. Qual indicador e valor respondem a essa pergunta?",
+  "alts": [
+   "Mortalidade específica de 2,5 por 100 mil",
+   "Letalidade de 2,5 por 100 mil habitantes",
+   "Letalidade de 20%, calculada sobre os casos",
+   "Incidência de 12,5 por 100 mil habitantes",
+   "Mortalidade proporcional de 20% dos óbitos"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "Gravidade da doença entre os doentes se mede pela letalidade: óbitos pela doença divididos pelos casos da mesma doença, em percentual. Aqui, 5 ÷ 25 = 0,20, ou 20%. A mortalidade específica usa a população total no denominador (5 ÷ 200.000 × 100.000 = 2,5 por 100 mil) e mede o impacto da doença na população, não a gravidade. A incidência (25 ÷ 200.000 × 100.000 = 12,5 por 100 mil) mede o risco de adoecer. A mortalidade proporcional exigiria o total de óbitos do município, que o enunciado não traz. Erro clássico de prova: letalidade com denominador populacional.",
+  "porAlt": [
+   "Errada: 2,5 por 100 mil é a mortalidade específica, que mede impacto populacional e não gravidade.",
+   "Errada: letalidade usa os casos no denominador, e não a população do município.",
+   "Correta: letalidade = 5 óbitos ÷ 25 casos = 20%, medida de gravidade da doença.",
+   "Errada: 12,5 por 100 mil é a incidência, que mede o risco de adoecer, não a gravidade.",
+   "Errada: mortalidade proporcional exigiria o total de óbitos do município, ausente no caso."
+  ]
+ },
+ {
+  "q": "Uma equipe de Saúde da Família acompanha 5.000 adultos. Em janeiro de 2025, 600 deles já tinham diagnóstico de hipertensão arterial. Ao longo do ano, 80 adultos receberam diagnóstico novo, sem óbitos nem mudanças de endereço. A enfermeira quer estimar o risco de adoecer no período. Qual é a incidência anual de hipertensão?",
+  "alts": [
+   "18,2 por mil adultos em risco",
+   "16 por mil adultos cadastrados",
+   "136 por mil adultos cadastrados",
+   "120 por mil adultos cadastrados",
+   "13,3% dos hipertensos conhecidos"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "Incidência é o número de casos novos no período dividido pela população em risco no início do período. Quem já era hipertenso em janeiro não pode adoecer de novo, então sai do denominador: 5.000 − 600 = 4.400 adultos em risco. Incidência = 80 ÷ 4.400 × 1.000 ≈ 18,2 por mil. Dividir por 5.000 (16 por mil) subestima o risco. Os valores 120 e 136 por mil são as prevalências no início (600 ÷ 5.000) e no fim do ano (680 ÷ 5.000), que medem carga de doença e servem para planejar serviços. Dividir os casos novos pelos casos antigos não gera indicador epidemiológico.",
+  "porAlt": [
+   "Correta: 80 casos novos ÷ 4.400 adultos em risco × 1.000 ≈ 18,2 por mil.",
+   "Errada: usa 5.000 no denominador e inclui quem já era hipertenso e não estava em risco.",
+   "Errada: 680 ÷ 5.000 é a prevalência no fim do ano, que mede carga de doença.",
+   "Errada: 600 ÷ 5.000 é a prevalência no início do ano, não o risco de adoecer.",
+   "Errada: casos novos divididos por casos antigos não correspondem a nenhum indicador de risco."
+  ]
+ },
+ {
+  "q": "Em 2025, uma regional de saúde registrou 30.000 nascidos vivos. Morreram 18 mulheres por causas obstétricas durante a gestação ou até 42 dias após o parto, 3 por causas obstétricas entre 43 dias e 1 ano após o parto e 2 gestantes em acidente de trânsito. Qual é a razão de mortalidade materna da regional?",
+  "alts": [
+   "70 por 100 mil nascidos vivos",
+   "76,7 por 100 mil nascidos vivos",
+   "60 por 100 mil mulheres férteis",
+   "23 óbitos maternos no ano",
+   "60 por 100 mil nascidos vivos"
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008; CID-10 (definição de morte materna)",
+  "coment": "Pela CID-10, morte materna é a que ocorre durante a gestação ou até 42 dias após o seu término, por causa relacionada com ou agravada pela gravidez, excluídas as causas acidentais ou incidentais. As 3 mortes obstétricas entre 43 dias e 1 ano são maternas tardias e não entram no cálculo da razão; as 2 por acidente de trânsito são incidentais. A RIPSA calcula a razão de mortalidade materna com nascidos vivos no denominador, por 100 mil: 18 ÷ 30.000 × 100.000 = 60. Incluir as tardias daria 70 (21 óbitos) e incluir tudo daria 76,7 (23 óbitos). Recebe o nome de razão porque os óbitos maternos não estão contidos nos nascidos vivos.",
+  "porAlt": [
+   "Errada: 70 inclui as 3 mortes maternas tardias, que ocorreram depois dos 42 dias.",
+   "Errada: 76,7 soma as tardias e as mortes por acidente, que são excluídas da definição.",
+   "Errada: o denominador da RIPSA é o número de nascidos vivos, e não o de mulheres férteis.",
+   "Errada: número absoluto não é indicador e ainda inclui óbitos fora da definição.",
+   "Correta: 18 mortes maternas ÷ 30.000 nascidos vivos × 100.000 = 60 por 100 mil."
+  ]
+ },
+ {
+  "q": "Um hospital regional consolidou os dados de 2025: 5.000 nascidos vivos, 40 óbitos fetais com 22 semanas ou mais de gestação, 30 óbitos de recém-nascidos entre 0 e 6 dias e 10 óbitos entre 7 e 27 dias de vida. A comissão de óbitos pede o coeficiente de mortalidade perinatal. Qual é o valor correto?",
+  "alts": [
+   "14,0 por mil nascidos vivos",
+   "13,9 por mil nascimentos totais",
+   "15,9 por mil nascimentos totais",
+   "6,0 por mil, só neonatal precoce",
+   "16,0 por mil nascidos vivos"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "Pela RIPSA, a mortalidade perinatal soma os óbitos fetais a partir de 22 semanas completas e os óbitos de 0 a 6 dias de vida, e divide pelo total de nascimentos (nascidos vivos mais óbitos fetais), por mil. Numerador: 40 + 30 = 70. Denominador: 5.000 + 40 = 5.040. Resultado: 70 ÷ 5.040 × 1.000 ≈ 13,9 por mil nascimentos totais. Os óbitos de 7 a 27 dias pertencem ao componente neonatal tardio e ficam fora. Usar só nascidos vivos no denominador (14,0) esquece que os óbitos fetais também são nascimentos. O indicador reflete a assistência ao pré-natal, ao parto e ao recém-nascido.",
+  "porAlt": [
+   "Errada: o denominador deve incluir os óbitos fetais, isto é, os nascimentos totais.",
+   "Correta: (40 fetais + 30 de 0 a 6 dias) ÷ 5.040 nascimentos × 1.000 ≈ 13,9 por mil.",
+   "Errada: soma os 10 óbitos de 7 a 27 dias, que são neonatais tardios e não perinatais.",
+   "Errada: 6,0 por mil é só a mortalidade neonatal precoce, sem os óbitos fetais.",
+   "Errada: soma os neonatais tardios e usa só nascidos vivos no denominador."
+  ]
+ },
+ {
+  "q": "Num município do semiárido, a taxa de mortalidade infantil de 2025 foi de 18 por mil nascidos vivos: 6 por mil no período neonatal e 12 por mil no pós-neonatal, com predomínio de diarreia e pneumonia entre as causas. Ao apresentar os dados ao conselho municipal, que leitura a enfermeira deve fazer, segundo a RIPSA?",
+  "alts": [
+   "Predomina o neonatal, ligado ao pré-natal e ao parto",
+   "Predomina o pós-neonatal, ligado à assistência ao parto",
+   "Predomina o neonatal tardio, de 7 a 27 dias de vida",
+   "Predomina o pós-neonatal, ligado a renda e saneamento",
+   "Predomina o neonatal precoce, de 28 a 364 dias"
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "A mortalidade infantil se divide em componente neonatal (0 a 27 dias; precoce de 0 a 6 e tardio de 7 a 27) e pós-neonatal (28 a 364 dias). No caso, o pós-neonatal responde por 12 dos 18 por mil, dois terços do total. A RIPSA associa o componente neonatal à saúde da mãe e à assistência ao pré-natal, ao parto e ao recém-nascido, e o pós-neonatal ao desenvolvimento socioeconômico e à infraestrutura ambiental. Diarreia e pneumonia entre as causas reforçam essa leitura: as prioridades são saneamento, água segura, aleitamento materno, vacinação e acesso à atenção primária, além do cuidado perinatal.",
+  "porAlt": [
+   "Errada: o componente neonatal é de 6 por mil, menor que o pós-neonatal de 12 por mil.",
+   "Errada: o pós-neonatal é associado a condições socioeconômicas e ambientais, não ao parto.",
+   "Errada: o neonatal tardio (7 a 27 dias) está contido nos 6 por mil neonatais, abaixo do pós-neonatal.",
+   "Correta: o pós-neonatal (12 por mil) predomina e reflete condições socioeconômicas e ambientais.",
+   "Errada: neonatal precoce vai de 0 a 6 dias; de 28 a 364 dias é o pós-neonatal."
+  ]
+ },
+ {
+  "q": "Numa capital, a incidência anual de infecção pelo HIV permaneceu estável entre 2015 e 2025. No mesmo período, a ampliação do tratamento antirretroviral reduziu muito os óbitos, sem levar à cura. A enfermeira da vigilância analisa o efeito dessa mudança sobre os indicadores da doença. O que se espera da prevalência nesse período?",
+  "alts": [
+   "Aumento, porque a duração da doença na população cresceu",
+   "Redução, porque o tratamento diminui o número de casos novos",
+   "Estabilidade, porque ela acompanha a incidência, que não mudou",
+   "Redução, porque a menor letalidade retira casos da população",
+   "Aumento, porque o tratamento eleva o número de casos novos"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "Prevalência é o total de casos existentes, novos e antigos, num momento. Ela aumenta com a entrada de casos novos e com a maior duração da doença, e diminui com a cura e com o óbito. A relação aproximada é prevalência ≈ incidência × duração. Com incidência estável e tratamento que prolonga a sobrevida sem curar, as pessoas vivem mais tempo com a infecção e se acumulam na população: a prevalência sobe. Menos óbitos significa menos saídas, e não mais saídas. O dado é útil para planejar serviços, pois cresce a demanda por acompanhamento contínuo e dispensação de antirretrovirais.",
+  "porAlt": [
+   "Correta: com incidência estável e menos óbitos, a duração aumenta e os casos se acumulam.",
+   "Errada: o enunciado informa incidência estável, e prevalência não cai se ninguém sai.",
+   "Errada: prevalência depende também da duração, que aumentou com o tratamento.",
+   "Errada: letalidade menor significa menos saídas por óbito, o que eleva a prevalência.",
+   "Errada: o enunciado informa incidência estável; o aumento vem da maior duração."
+  ]
+ },
+ {
+  "q": "Um município tem 12.000 pessoas com 60 anos ou mais, 15.000 menores de 15 anos e 45.000 pessoas de 15 a 59 anos. A coordenação da atenção primária quer acompanhar a transição demográfica pelo índice de envelhecimento, como recomenda a RIPSA. Qual é o valor desse índice?",
+  "alts": [
+   "60 dependentes para cada 100 pessoas de 15 a 59",
+   "26,7 idosos para cada 100 pessoas de 15 a 59",
+   "80 idosos para cada 100 menores de 15 anos",
+   "125 menores de 15 para cada 100 idosos",
+   "16,7 idosos para cada 100 habitantes"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "O índice de envelhecimento da RIPSA é o número de pessoas de 60 anos ou mais para cada 100 menores de 15 anos: 12.000 ÷ 15.000 × 100 = 80. Valores crescentes indicam avanço da transição demográfica, que começa com a queda da mortalidade, segue com a queda da fecundidade e termina com o envelhecimento. A razão de dependência é outro indicador: menores de 15 mais pessoas de 60 ou mais sobre a população de 15 a 59 anos, (15.000 + 12.000) ÷ 45.000 × 100 = 60. A proporção de idosos na população total é 12.000 ÷ 72.000 ≈ 16,7%. Inverter o índice dá 125, sem sentido para o indicador.",
+  "porAlt": [
+   "Errada: 60 por 100 é a razão de dependência, que soma jovens e idosos no numerador.",
+   "Errada: dividir idosos pela população de 15 a 59 anos não é o índice de envelhecimento.",
+   "Correta: 12.000 idosos ÷ 15.000 menores de 15 anos × 100 = 80.",
+   "Errada: inverte numerador e denominador do índice, que tem os idosos no numerador.",
+   "Errada: 16,7% é a proporção de idosos na população total, outro indicador."
+  ]
+ },
+ {
+  "q": "Em 2025, um município de 150.000 habitantes registrou 1.500 óbitos, dos quais 420 por doenças do aparelho circulatório. Na reunião da equipe, um residente afirma que o risco de morrer por essas doenças no município foi de 28% no ano. Como a enfermeira deve corrigir essa leitura?",
+  "alts": [
+   "28% é a letalidade das doenças do aparelho circulatório",
+   "28% é a mortalidade específica por essas causas no ano",
+   "O risco correto é de 2,8 por 100 mil habitantes no ano",
+   "28% é a incidência anual de doença do aparelho circulatório",
+   "28% é proporção dos óbitos; o risco é 280 por 100 mil"
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "420 ÷ 1.500 = 28% é a mortalidade proporcional: entre os mortos, que parte morreu por doenças do aparelho circulatório. É uma proporção, parte do todo, e não estima risco, porque o denominador são os óbitos, não a população exposta. O risco de morrer por essas causas é a mortalidade específica, com a população no denominador: 420 ÷ 150.000 × 100.000 = 280 por 100 mil habitantes. Letalidade exigiria o número de doentes, e incidência exigiria casos novos, dados que o enunciado não fornece. Taxa estima risco; proporção descreve composição.",
+  "porAlt": [
+   "Errada: letalidade tem os doentes no denominador, dado que o enunciado não fornece.",
+   "Errada: mortalidade específica usa a população no denominador e resulta em 280 por 100 mil.",
+   "Errada: 420 ÷ 150.000 × 100.000 dá 280, e não 2,8 por 100 mil habitantes.",
+   "Errada: incidência conta casos novos de doença, e o dado do enunciado é de óbitos.",
+   "Correta: 420 ÷ 1.500 é mortalidade proporcional; o risco é 420 ÷ 150.000 × 100.000 = 280."
+  ]
+ },
+ {
+  "q": "Após o almoço de um congresso, 100 participantes foram entrevistados. Dos 60 que comeram frango ao molho, 36 tiveram diarreia nas 24 horas seguintes; dos 40 que não comeram, 6 adoeceram. A enfermeira da vigilância calcula as taxas de ataque para testar a hipótese da fonte. Qual é o risco relativo associado ao frango?",
+  "alts": [
+   "RR de 6, pela razão entre 36 e 6 doentes",
+   "RR de 4, pela razão entre 60% e 15%",
+   "RR de 0,45, pela diferença das taxas",
+   "RR de 1,43, pela razão entre 60% e 42%",
+   "RR de 8,5, por produtos cruzados"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Investigação de surtos",
+  "cenario": "ger",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023 (investigação de surtos)",
+  "coment": "Taxa de ataque é a incidência num surto. Nos expostos ao frango: 36 ÷ 60 = 60%. Nos não expostos: 6 ÷ 40 = 15%. O risco relativo divide a taxa dos expostos pela dos não expostos: 0,60 ÷ 0,15 = 4. Quem comeu o frango teve quatro vezes o risco de adoecer. A diferença entre as taxas (45 pontos percentuais) é o risco atribuível, não o RR. Dividir números absolutos de doentes ignora o tamanho dos grupos. A taxa de ataque geral (42 ÷ 100 = 42%) não serve de comparação. A razão de produtos cruzados (36 × 34) ÷ (24 × 6) = 8,5 é a odds ratio, medida típica do caso-controle.",
+  "porAlt": [
+   "Errada: compara números absolutos de doentes sem considerar o tamanho de cada grupo.",
+   "Correta: taxa de ataque nos expostos 60% ÷ nos não expostos 15% = RR de 4.",
+   "Errada: 0,45 é a diferença de risco (risco atribuível), e não o risco relativo.",
+   "Errada: o comparador é a taxa dos não expostos, e não a taxa de ataque geral.",
+   "Errada: (36 × 34) ÷ (24 × 6) = 8,5 é a odds ratio, típica do caso-controle."
+  ]
+ },
+ {
+  "q": "Uma creche comunica à unidade básica que nove crianças de 1 a 3 anos tiveram diarreia na mesma semana. A enfermeira inicia a investigação junto com a vigilância epidemiológica municipal. Segundo a sequência clássica de investigação de surtos, qual deve ser o primeiro passo?",
+  "alts": [
+   "Formular hipóteses sobre a fonte e o modo de transmissão",
+   "Calcular o risco relativo de cada alimento servido",
+   "Redigir o relatório e comunicar os resultados à creche",
+   "Confirmar o diagnóstico e a existência real do surto",
+   "Descrever os casos por tempo, lugar e pessoa na curva"
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Investigação de surtos",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023 (investigação de surtos)",
+  "coment": "A investigação começa confirmando o diagnóstico e a existência do surto: verificar se os casos têm de fato a mesma doença e se o número supera o esperado para aquele lugar e período. Só então se define caso (suspeito, provável, confirmado), faz-se a busca ativa com coleta de amostras, descrevem-se os casos por tempo, lugar e pessoa com a curva epidêmica, formulam-se e testam-se hipóteses (taxa de ataque, estudo analítico), aplicam-se as medidas de controle e se redige o relatório. Medidas imediatas, como orientar higiene das mãos e afastar crianças doentes, podem começar antes, se houver risco.",
+  "porAlt": [
+   "Errada: hipóteses sobre a fonte vêm depois da confirmação, da definição de caso e da descrição.",
+   "Errada: o risco relativo testa hipóteses, etapa posterior à confirmação do surto.",
+   "Errada: relatório e comunicação encerram a investigação e não a iniciam.",
+   "Correta: confirmar diagnóstico e excesso de casos é a primeira etapa da investigação.",
+   "Errada: a descrição por tempo, lugar e pessoa vem depois da definição de caso."
+  ]
+ },
+ {
+  "q": "Num casamento, 140 convidados jantaram às 21 horas. Entre 2 e 8 horas depois, 58 deles apresentaram vômitos e cólicas abdominais; o número de casos subiu e caiu rapidamente, e nenhum caso novo surgiu nos dias seguintes. Ao desenhar a curva epidêmica, que padrão de transmissão a enfermeira da vigilância identifica?",
+  "alts": [
+   "Propagada, com ondas separadas por um período de incubação",
+   "Fonte comum contínua, com platô enquanto a fonte persiste",
+   "Fonte comum pontual, com um pico único e queda rápida",
+   "Endêmica, com casos dentro da faixa esperada para o local",
+   "Mista, com fonte comum seguida de transmissão entre pessoas"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Investigação de surtos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023",
+  "coment": "A curva epidêmica distribui os casos pela data e hora de início dos sintomas e sugere o modo de transmissão. Na fonte comum pontual, todos se expõem ao mesmo tempo (um jantar contaminado): os casos sobem e caem rapidamente, concentrados num intervalo próximo ao período de incubação, sem casos secundários. Na fonte comum contínua, a curva forma um platô enquanto a fonte persiste, como água contaminada por dias. Na transmissão propagada, de pessoa a pessoa, aparecem ondas sucessivas separadas por um período de incubação. Um surto, por definição, excede o esperado, o que afasta endemia.",
+  "porAlt": [
+   "Errada: a transmissão propagada gera ondas sucessivas, e não houve casos nos dias seguintes.",
+   "Errada: a fonte contínua produz platô prolongado, e aqui os casos cessaram em horas.",
+   "Correta: exposição única, pico concentrado em horas e queda rápida definem fonte comum pontual.",
+   "Errada: 58 casos após um jantar excedem o esperado e caracterizam surto, não endemia.",
+   "Errada: não houve casos secundários nos dias seguintes, o que afasta transmissão entre pessoas."
+  ]
+ },
+ {
+  "q": "Numa escola municipal, o primeiro caso de hepatite A surgiu em março. Depois de um intervalo semelhante ao período de incubação da doença, apareceram seis casos entre colegas de sala e, após novo intervalo igual, outros catorze, em familiares e alunos de outras turmas. Que tipo de curva epidêmica esse padrão descreve?",
+  "alts": [
+   "Propagada, de pessoa a pessoa, em ondas sucessivas",
+   "Fonte comum pontual, com exposição única no início",
+   "Fonte comum contínua, com platô de casos estável",
+   "Endêmica, sem excesso de casos sobre o esperado",
+   "Sazonal, com elevação anual e previsível de casos"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Investigação de surtos",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023",
+  "coment": "Ondas de casos cada vez maiores, separadas por intervalos próximos ao período de incubação, indicam transmissão propagada, de pessoa a pessoa: cada geração de casos infecta a seguinte. A hepatite A, de transmissão fecal-oral, se espalha assim em escolas e creches quando falham a higiene das mãos e o saneamento. Na fonte comum pontual, haveria um só pico; na contínua, um platô enquanto a fonte persistisse. A leitura da curva orienta as medidas: na propagada, a prioridade é interromper a cadeia de transmissão (higiene, afastamento dos doentes, vacinação conforme indicação), e não apenas retirar um alimento ou fonte.",
+  "porAlt": [
+   "Correta: gerações de casos separadas por um período de incubação indicam transmissão propagada.",
+   "Errada: exposição única produziria um só pico, e não ondas crescentes de casos.",
+   "Errada: fonte contínua forma platô, e não ondas separadas por intervalos regulares.",
+   "Errada: o aumento progressivo de casos numa escola excede o esperado e configura surto.",
+   "Errada: sazonalidade é padrão anual, e o caso descreve gerações de casos em semanas."
+  ]
+ },
+ {
+  "q": "Um município sem registro de cólera há mais de 20 anos confirma um caso autóctone num homem de 40 anos. Na reunião de vigilância, um gestor argumenta que um caso isolado não caracteriza epidemia e que a comunicação pode seguir a rotina semanal. Como a enfermeira da vigilância deve se posicionar?",
+  "alts": [
+   "Concordar, pois epidemia exige casos acima do limite do diagrama",
+   "Concordar, pois a cólera é de notificação semanal ao município",
+   "Notificar só ao município em 24 horas e aguardar novos casos",
+   "Esperar a investigação dos contatos antes de comunicar o estado",
+   "Notificar em 24 horas às três esferas, como evento de saúde pública"
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Investigação de surtos",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 11.211/2026, Anexo I (lista nacional, item 7); Portaria de Consolidação GM/MS 4/2017, Anexo V",
+  "coment": "Epidemia é a elevação de casos acima do esperado para o lugar e o período, medida pelo diagrama de controle. Para doença ausente ou eliminada, o esperado é zero, e um único caso já representa excesso e configura evento de saúde pública. Além disso, a cólera consta da lista nacional (Anexo I da Portaria GM/MS 11.211/2026, item 7) com notificação imediata, em até 24 horas, para Ministério da Saúde, secretaria estadual e secretaria municipal, pelo meio mais rápido disponível. Esperar novos casos ou concluir a investigação atrasa o bloqueio e descumpre a norma. A investigação dos contatos corre em paralelo à notificação.",
+  "porAlt": [
+   "Errada: para doença ausente, o esperado é zero, e um caso único já excede o diagrama.",
+   "Errada: a cólera é de notificação imediata para Ministério, estado e município, não semanal.",
+   "Errada: a notificação imediata da cólera vai às três esferas, e não só ao município.",
+   "Errada: a notificação não espera a investigação; as duas correm em paralelo.",
+   "Correta: caso de doença ausente é evento de saúde pública, e cólera é imediata às três esferas."
+  ]
+ },
+ {
+  "q": "Em um hospital geral, 12 pacientes de duas enfermarias apresentam diarreia nas horas seguintes ao jantar. A comissão de controle de infecção, junto com a vigilância, levanta a hipótese de que um pudim preparado na copa central seja a fonte; as culturas dos alimentos ainda não ficaram prontas. Qual conduta é adequada neste momento?",
+  "alts": [
+   "Manter o cardápio até a cultura confirmar a fonte suspeita",
+   "Suspender o pudim suspeito e guardar amostras para análise",
+   "Encerrar a apuração, pois surto hospitalar cabe só à CCIH",
+   "Descartar todas as sobras para evitar novos casos no setor",
+   "Esperar o estudo analítico terminar antes de qualquer medida"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Investigação de surtos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed., 2023",
+  "coment": "Na investigação de surto, as medidas de controle começam assim que surge uma hipótese plausível, sem esperar a confirmação laboratorial ou o fim do estudo analítico, porque cada hora de exposição gera casos novos. Suspender o alimento suspeito protege os pacientes, e guardar as sobras sob refrigeração preserva a amostra para a análise que confirmará a fonte. Descartar tudo elimina a prova. O surto hospitalar segue a mesma lógica da investigação comunitária, conduzida pela comissão de controle de infecção em conjunto com a vigilância epidemiológica, com notificação e relatório ao final.",
+  "porAlt": [
+   "Errada: as medidas de controle não esperam a confirmação laboratorial da fonte.",
+   "Correta: retirar a fonte suspeita e preservar amostras protege os pacientes e garante a análise.",
+   "Errada: o surto hospitalar envolve a vigilância epidemiológica além da comissão de infecção.",
+   "Errada: descartar as sobras elimina as amostras necessárias para confirmar a fonte.",
+   "Errada: medidas de controle começam com a hipótese plausível, antes do estudo analítico."
+  ]
+ },
+ {
+  "q": "Na sala de procedimentos de uma UBS, uma mulher de 30 anos chega duas horas após mordedura na perna por um cão desconhecido, que fugiu. A enfermeira inicia o atendimento conforme o protocolo de profilaxia antirrábica. Pela lista nacional vigente, como deve ser feita a notificação desse atendimento?",
+  "alts": [
+   "Semanal, à secretaria do município de residência",
+   "Imediata, ao Ministério, ao estado e ao município",
+   "Dispensada, se o animal puder ser localizado e observado",
+   "Imediata, em até 24 horas, à secretaria municipal",
+   "Semanal, apenas se houver indicação de soro antirrábico"
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 11.211/2026, Anexo I (lista nacional, item 3)",
+  "coment": "O acidente por animal potencialmente transmissor da raiva é o item 3 da lista nacional republicada pela Portaria GM/MS 11.211/2026, com notificação imediata, em até 24 horas, apenas para a secretaria municipal de saúde. A lógica é a resposta local rápida: o município decide sobre observação do animal, vacina e soro. A notificação vale para todo atendimento antirrábico, independentemente da conduta adotada. Já a raiva humana, item 53, é imediata para Ministério, estado e município. Quando a notificação é semanal, ela vai ao município do local de atendimento, e não ao de residência.",
+  "porAlt": [
+   "Errada: a periodicidade é imediata e, na semanal, o destino seria o local de atendimento.",
+   "Errada: as três esferas recebem a raiva humana; o acidente vai só ao município.",
+   "Errada: o atendimento é notificado mesmo quando o animal pode ser observado.",
+   "Correta: acidente por animal potencialmente transmissor da raiva é imediato só à SMS.",
+   "Errada: todo atendimento é notificado, com ou sem soro, e a periodicidade é imediata."
+  ]
+ },
+ {
+  "q": "Em outubro de 2026, a enfermeira de uma UBS atende um menino de 4 anos com quadro típico de varicela, sem complicações, em acompanhamento domiciliar. A mãe pergunta se o caso precisa ser comunicado, já que a criança não foi internada. Pela lista nacional de notificação compulsória vigente, qual é a orientação correta?",
+  "alts": [
+   "Não notificar, pois só a varicela grave internada entra na lista",
+   "Notificar de forma imediata ao estado e ao município de saúde",
+   "Notificar na rotina semanal à secretaria municipal de saúde",
+   "Notificar de forma imediata ao Ministério, ao estado e ao município",
+   "Notificar apenas se houver surto na escola ou na creche da criança"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 11.211/2026, art. 4º, IV, e Anexo I (item 65)",
+  "coment": "Até maio de 2026, o item da lista era \"Varicela, caso grave internado ou óbito\". O art. 4º, IV, da Portaria GM/MS 11.211/2026 mudou a nomenclatura para apenas \"Varicela\", o que deixou de restringir a notificação aos casos graves. No Anexo I, item 65, a varicela tem notificação imediata, em até 24 horas, para a secretaria estadual e a secretaria municipal, sem o Ministério da Saúde. Assim, o caso leve em domicílio também é notificado. Responder pela regra antiga, que exigia internação ou óbito, é o erro que a banca tende a explorar depois da mudança.",
+  "porAlt": [
+   "Errada: desde a Portaria 11.211/2026 o item é só \"Varicela\", sem exigir gravidade.",
+   "Correta: varicela é de notificação imediata à SES e à SMS, mesmo sem internação.",
+   "Errada: a periodicidade da varicela na lista vigente é imediata, e não semanal.",
+   "Errada: o Ministério da Saúde não está marcado para a varicela no Anexo I.",
+   "Errada: o caso isolado já é de notificação compulsória, sem depender de surto."
+  ]
+ },
+ {
+  "q": "Um homem de 45 anos, residente no município A, é atendido no hospital de referência do município B, onde recebe diagnóstico de tuberculose pulmonar com baciloscopia positiva. A enfermeira do núcleo hospitalar de vigilância epidemiológica vai notificar o caso. Para qual secretaria e em que prazo a notificação deve ser feita?",
+  "alts": [
+   "À secretaria do município A, em até 24 horas",
+   "À secretaria do município A, em até 7 dias",
+   "À secretaria estadual de saúde, em até 24 horas",
+   "À secretaria do município B, em até 24 horas",
+   "À secretaria do município B, em até 7 dias"
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 204/2016, arts. 2º e 5º (Anexo V da PRC 4/2017); Portaria GM/MS 11.211/2026, Anexo I (item 64)",
+  "coment": "A tuberculose é de notificação semanal na lista nacional (item 64 do Anexo I da Portaria GM/MS 11.211/2026). Notificação semanal é a feita em até 7 dias a partir do conhecimento da ocorrência, e o art. 5º das normas de notificação a dirige à secretaria municipal do local de atendimento do paciente, e não à do local de residência. O registro no SINAN depois permite que o caso seja transferido ao município de residência para o acompanhamento do tratamento e a investigação dos contatos. O prazo de 24 horas vale para a notificação imediata, reservada a agravos raros, graves ou de alto potencial epidêmico.",
+  "porAlt": [
+   "Errada: o destino é o município do atendimento, e o prazo da tuberculose é semanal.",
+   "Errada: o prazo de 7 dias está certo, mas a notificação vai ao município do atendimento.",
+   "Errada: a tuberculose não é de notificação imediata ao estado na lista nacional.",
+   "Errada: o município está certo, mas 24 horas é o prazo da notificação imediata.",
+   "Correta: notificação semanal, em até 7 dias, à secretaria do município do atendimento."
+  ]
+ },
+ {
+  "q": "Em junho de 2026, um homem de 52 anos procura a UBS com febre, tosse e dor de garganta há dois dias, e o teste rápido de antígeno confirma covid-19. Ele não tem sinais de gravidade e será acompanhado em casa. Pela Portaria GM/MS 11.211/2026, como a enfermeira deve proceder com a notificação?",
+  "alts": [
+   "Notificar como síndrome gripal por covid-19 confirmada, em até 24 horas",
+   "Notificar como covid-19, item isolado da lista, na rotina semanal",
+   "Não notificar, pois só a SRAG hospitalizada ou o óbito são notificados",
+   "Notificar ainda na suspeita, como síndrome gripal suspeita de covid-19",
+   "Não notificar, pois a covid-19 foi retirada de toda a lista nacional"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 11.211/2026, arts. 3º e 4º, VII, e Anexo I (item 60)",
+  "coment": "O art. 3º da Portaria GM/MS 11.211/2026 removeu a covid-19 como item isolado da lista nacional, mas a doença continua contemplada no item \"Síndrome Gripal por covid-19 confirmada\". O art. 4º, VII, trocou o antigo \"Síndrome Gripal suspeita de covid-19\" por \"confirmada\". No Anexo I, item 60, esse agravo tem notificação imediata, em até 24 horas, para Ministério da Saúde, secretaria estadual e secretaria municipal. O paciente tem síndrome gripal com confirmação por teste de antígeno, então deve ser notificado, mesmo sem internação. A SRAG hospitalizada ou o óbito por SRAG formam outro item (59).",
+  "porAlt": [
+   "Correta: síndrome gripal por covid-19 confirmada é de notificação imediata às três esferas.",
+   "Errada: a covid-19 deixou de ser item isolado (art. 3º) e o item vigente é imediato.",
+   "Errada: a síndrome gripal por covid-19 confirmada também é notificável, além da SRAG.",
+   "Errada: o item vigente exige confirmação; o termo \"suspeita\" foi substituído em 2026.",
+   "Errada: a covid-19 saiu como item isolado, mas segue na lista como síndrome gripal confirmada."
+  ]
+ },
+ {
+  "q": "Um agricultor aposentado de 70 anos, sem comprovação vacinal, é internado com trismo, riso sardônico e rigidez muscular dez dias após ferir o pé com um prego no quintal. A equipe suspeita de tétano acidental. A enfermeira do núcleo de vigilância do hospital vai notificar. Pela lista alterada em 2026, para quem e em que prazo?",
+  "alts": [
+   "Ao município, na rotina semanal, após confirmação",
+   "Ao Ministério, ao estado e ao município, em 24 horas",
+   "Ao estado e ao município, em até 24 horas da suspeita",
+   "Somente ao município, em até 24 horas da suspeita",
+   "Ao estado e ao município, em até 7 dias da internação"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 11.211/2026, art. 5º, II, e Anexo I (item 61)",
+  "coment": "O art. 5º, II, da Portaria GM/MS 11.211/2026 alterou a periodicidade do tétano: no acidental, incluiu a notificação imediata às secretarias estaduais; no neonatal, às secretarias estaduais e ao Ministério da Saúde. No Anexo I, item 61, o tétano acidental ficou com notificação imediata para SES e SMS, e o neonatal para MS, SES e SMS. A notificação parte da suspeita clínica, sem esperar confirmação, porque o tétano é diagnóstico clínico e a investigação orienta a vacinação de outras pessoas expostas. O prazo de 7 dias é o da notificação semanal, que não se aplica aqui.",
+  "porAlt": [
+   "Errada: o tétano acidental é imediato e se notifica na suspeita, sem esperar confirmação.",
+   "Errada: o Ministério da Saúde recebe de imediato o tétano neonatal, não o acidental.",
+   "Correta: tétano acidental é imediato à SES e à SMS desde a Portaria 11.211/2026.",
+   "Errada: a portaria de 2026 incluiu a secretaria estadual na notificação do tétano acidental.",
+   "Errada: 7 dias é o prazo da notificação semanal; o tétano acidental é imediato."
+  ]
+ },
+ {
+  "q": "Uma enfermeira assume, em outubro de 2026, a coordenação de uma unidade sentinela e revisa quais agravos seguem monitorados por essa estratégia, depois que a Portaria GM/MS 11.211/2026 alterou a lista nacional da vigilância sentinela. Qual mudança ela deve incorporar à rotina da unidade?",
+  "alts": [
+   "Inclusão da SRAG e exclusão da síndrome gripal da lista",
+   "Exclusão da doença pneumocócica invasiva da estratégia",
+   "Inclusão da febre do Oropouche na vigilância sentinela",
+   "Inclusão da doença invasiva por H. influenzae e saída da SRAG",
+   "Fim da vigilância sentinela de doença diarreica aguda"
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 11.211/2026, arts. 6º e 7º, e Anexo II (altera o Anexo XLIII da PRC 5/2017)",
+  "coment": "A Portaria GM/MS 11.211/2026 alterou o Anexo XLIII da PRC 5/2017. O art. 6º incluiu a doença invasiva por Haemophilus influenzae junto com a doença pneumocócica invasiva, e o art. 7º excluiu a síndrome respiratória aguda grave da estratégia sentinela. No Anexo II, a lista ficou com doenças bacterianas de transmissão respiratória (DIH e DPI), síndrome gripal, rotavírus, doença diarreica aguda, síndrome hemolítico-urêmica, corrimento uretral masculino e síndrome neurológica pós-infecção febril exantemática. A febre do Oropouche entrou na lista de notificação compulsória, não na sentinela. A unidade sentinela não substitui a notificação universal.",
+  "porAlt": [
+   "Errada: a SRAG saiu da estratégia sentinela, e a síndrome gripal permaneceu.",
+   "Errada: a doença pneumocócica invasiva continua, agora ao lado da doença por H. influenzae.",
+   "Errada: o Oropouche entrou na lista de notificação compulsória, não na sentinela.",
+   "Correta: o art. 6º incluiu a doença invasiva por H. influenzae e o art. 7º retirou a SRAG.",
+   "Errada: a doença diarreica aguda segue no Anexo II, na vigilância de transmissão hídrica."
+  ]
+ }
+]

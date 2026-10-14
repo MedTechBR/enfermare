@@ -15978,6 +15978,7831 @@ window.BANCO=[
 ]
 },
 {
+"q": "Lactente de 4 meses, nascido a termo, comparece à UBS com a mãe. A caderneta registra BCG e hepatite B ao nascer, penta, VIP, rotavírus e VPC 20 aos 2 meses e meningocócica C aos 3 meses. Segundo o Calendário Nacional de Vacinação de 2026, quais vacinas devem ser aplicadas nesta visita?",
+"alts": [
+"Penta, VIP, rotavírus e VPC 20, todas como 2ª dose",
+"Penta, VIP oral, rotavírus e VPC 10 como 2ª dose",
+"Penta, VIP, rotavírus e VPC 10, todas como 2ª dose",
+"Penta, VIP, meningocócica C e VPC 10 como 2ª dose",
+"Hexavalente, VIP, rotavírus e VPC 10 como 2ª dose"
+],
+"gab": 2,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "Aos 4 meses a agenda oportuna da IN 2026 prevê a 2ª dose de penta, VIP e rotavírus. Na pneumocócica, a IN está em fase de transição: a 1ª dose é feita com VPC 20 aos 2 meses, a 2ª dose com VPC 10 aos 4 meses e o reforço com VPC 20 aos 12 meses. Só na indisponibilidade da VPC 10 o serviço inicia ou completa o esquema com VPC 20. A poliomielite é toda com vacina inativada (3 doses e 2 reforços), a meningocócica C tem a 2ª dose aos 5 meses e a hexavalente não faz parte das 21 vacinas do calendário.",
+"porAlt": [
+"A 2ª dose pneumocócica, na fase de transição, é feita com VPC 10, e não com VPC 20.",
+"A vacina oral contra poliomielite saiu do calendário de 2026; todas as doses são de VIP.",
+"Correta: penta, VIP e rotavírus seguem na 2ª dose, e a pneumocócica usa VPC 10 na transição.",
+"A 2ª dose de meningocócica C é aos 5 meses, não aos 4 meses de idade.",
+"A hexavalente não integra as 21 vacinas do calendário; a rotina usa a penta."
+]
+},
+{
+"q": "Menina de 15 meses chega à sala de vacina com a caderneta em dia até os 12 meses: recebeu VPC 20, meningocócica ACWY e tríplice viral nessa idade. A mãe pergunta quais vacinas a filha deve tomar agora. De acordo com a agenda oportuna do calendário de 2026, quais imunobiológicos estão indicados?",
+"alts": [
+"DTP, VIP, tríplice viral, varicela e hepatite A",
+"Penta, VIP, tríplice viral, varicela e hepatite A",
+"DTP, VOP, tríplice viral, varicela e hepatite A",
+"DTP, VIP, tríplice viral, febre amarela e hepatite B",
+"DTP, VIP, tríplice viral, varicela e meningo ACWY"
+],
+"gab": 0,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "Aos 15 meses a IN 2026 reúne o 1º reforço contra difteria, tétano e coqueluche com DTP (não com penta), o 1º reforço de VIP, a 2ª dose de tríplice viral, a 1ª dose de varicela e a dose única de hepatite A. A IN recomenda que a 2ª dose de tríplice viral seja aplicada no mesmo dia da 1ª de varicela, em sítios distintos; sem varicela monovalente, usa-se a tetraviral. O reforço de febre amarela é aos 4 anos, a meningocócica ACWY já foi aplicada aos 12 meses e a hepatite B da criança foi completada com a penta.",
+"porAlt": [
+"Correta: DTP, VIP, segunda dose de tríplice viral, varicela e hepatite A compõem os 15 meses.",
+"Os reforços dos 15 meses e dos 4 anos são feitos com DTP; a penta fica no esquema básico.",
+"A VOP não está entre as vacinas do calendário de 2026; o reforço de poliomielite é com VIP.",
+"Febre amarela tem reforço aos 4 anos, e a hepatite B já foi completada com a penta.",
+"A meningocócica ACWY da criança é dose única aos 12 meses, já recebida por ela."
+]
+},
+{
+"q": "Recém-nascido teve alta da maternidade sem a vacina hepatite B, por falta do imunobiológico. Aos 40 dias de vida, a mãe, com HBsAg negativo no pré-natal, leva a criança à UBS para a primeira consulta de puericultura. A BCG foi aplicada. Pela Instrução Normativa de 2026, qual é a conduta quanto à hepatite B?",
+"alts": [
+"Aplicar hoje a monovalente e seguir com a penta aos 2, 4 e 6 meses",
+"Aplicar hoje a monovalente e repetir a dose com 6 meses de vida completos",
+"Solicitar anti-HBs antes de decidir sobre a dose monovalente do nascimento",
+"Aplicar a monovalente junto com a BCG, pois ambas valem até 30 dias",
+"Não aplicar a dose monovalente; iniciar hepatite B com a penta aos 2 meses"
+],
+"gab": 4,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A IN 2026 recomenda a dose de hepatite B logo após o nascimento, na sala de parto ou nas primeiras 12 horas, e diz que essa dose somente será administrada até 1 mês de vida. A criança que perdeu esse prazo não recebe mais a dose do nascimento: o esquema contra hepatite B começa com a penta (DTP+HB+Hib) aos 2, 4 e 6 meses. Com 40 dias, o prazo passou. Sorologia não é rotina nesse caso; ela é indicada para filhos de mãe HBsAg positiva, entre 30 e 60 dias após a última dose do esquema.",
+"porAlt": [
+"A dose monovalente do nascimento vale só até 1 mês de vida; aos 40 dias não se aplica mais.",
+"Além de fora do prazo, não existe dose monovalente de repetição aos 6 meses na rotina.",
+"Anti-HBs não é conduta de rotina para filho de mãe HBsAg negativa antes de vacinar.",
+"A hepatite B do nascimento tem prazo de 1 mês; a BCG é que pode ser feita até os 4 anos.",
+"Correta: passado 1 mês de vida, a proteção começa com a penta aos 2, 4 e 6 meses."
+]
+},
+{
+"q": "Criança de 7 meses chega à UBS para atualizar a caderneta. Recebeu a 1ª dose de penta aos 4 meses e a 2ª aos 6 meses de idade, por atraso da família. Não há outras doses de penta. Segundo a Instrução Normativa de 2026, quando deve ser aplicada a 3ª dose da vacina penta?",
+"alts": [
+"Hoje, pois a criança já passou dos 6 meses de idade",
+"Aos 8 meses, 60 dias após a 2ª dose e 4 meses após a 1ª",
+"Aos 12 meses, junto com a VPC 20 e a meningocócica ACWY",
+"Aos 15 meses, trocando a 3ª dose pelo reforço com a DTP",
+"Reiniciar o esquema, pois os intervalos foram irregulares"
+],
+"gab": 1,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "calc",
+"nivel": "r3",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "Na atualização da penta em atraso, a IN 2026 pede intervalo de 60 dias entre as doses (mínimo de 30 dias só em situação excepcional), exige pelo menos 4 meses entre a 1ª e a 3ª dose, por causa do componente hepatite B, e proíbe a 3ª dose antes dos 6 meses de idade. A 1ª dose foi aos 4 meses e a 2ª aos 6: a 3ª fica para os 8 meses, data que cumpre os 60 dias após a 2ª e os 4 meses após a 1ª. Hoje, aos 7 meses, só se passaram 3 meses desde a 1ª dose. Dose comprovada não é repetida, e o esquema nunca é reiniciado por atraso.",
+"porAlt": [
+"Aos 7 meses só se passaram 3 meses da 1ª dose; a IN exige 4 meses entre a 1ª e a 3ª.",
+"Correta: aos 8 meses ficam cumpridos os 60 dias da 2ª dose e os 4 meses desde a 1ª.",
+"Não há motivo para adiar até 12 meses; isso deixaria a criança desprotegida sem necessidade.",
+"O reforço com DTP só começa depois do esquema básico completo de 3 doses de penta.",
+"Esquema atrasado não se reinicia; contam-se as doses comprovadas e completa-se a partir delas."
+]
+},
+{
+"q": "Menino de 7 anos e 2 meses, recém-chegado de outro país com a família, comparece à UBS sem nenhum comprovante de vacinação. A mãe relata que ele \"tomou todas as vacinas\", mas não tem cartão. Para proteção contra difteria, tétano, coqueluche e hepatite B, qual é a conduta pela IN do calendário de 2026?",
+"alts": [
+"Iniciar penta em 3 doses com 60 dias, seguida de 2 reforços com DTP",
+"Aplicar DTP em 3 doses e hepatite B monovalente no esquema 0, 1 e 6",
+"Aplicar dTpa em dose única e solicitar anti-HBs antes de vacinar",
+"Iniciar dT em 3 doses e hepatite B monovalente em esquema 0, 1 e 6 meses",
+"Iniciar dT em 3 doses e hepatite B em 2 doses com 6 meses de intervalo"
+],
+"gab": 3,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "Dose relatada sem registro não é dose comprovada, e a criança deve ser tratada como não vacinada. A partir de 7 anos, penta e DTP são contraindicadas; a IN 2026 manda atualizar com dupla adulto (dT) e hepatite B monovalente. A dT é feita em 3 doses com 60 dias de intervalo (mínimo de 30 em exceção), seguida de reforço a cada 10 anos. A hepatite B monovalente a partir de 7 anos segue o esquema 0, 1 e 6 meses, sem reiniciar se houver doses anteriores comprovadas. A dTpa é reservada a gestantes, puérperas e trabalhadores de saúde.",
+"porAlt": [
+"A penta é contraindicada a partir de 7 anos de idade, conforme a IN de 2026.",
+"A DTP também é contraindicada a partir de 7 anos; nessa idade usa-se a dT.",
+"A dTpa da rotina é para gestante, puérpera e trabalhador de saúde, não para esta criança.",
+"Correta: sem comprovação, a partir de 7 anos aplica-se dT em 3 doses e hepatite B 0, 1 e 6.",
+"O esquema de hepatite B monovalente tem 3 doses (0, 1 e 6 meses), e não duas."
+]
+},
+{
+"q": "Criança de 6 anos e 8 meses tem na caderneta as 3 doses de penta, aplicadas no primeiro ano de vida, e nenhum reforço contra difteria, tétano e coqueluche. A enfermeira avalia o cartão na UBS. Conforme a Instrução Normativa de 2026, qual é a conduta correta?",
+"alts": [
+"Aplicar hoje o 1º reforço com DTP e agendar dT para 10 anos depois",
+"Aplicar hoje o 1º reforço com DTP e o 2º reforço aos 7 anos com DTP",
+"Aplicar hoje a dT, já que a DTP não é mais indicada acima de 6 anos",
+"Aplicar hoje o 1º reforço com penta e o 2º com DTP em 6 meses",
+"Aplicar os 2 reforços com DTP hoje, em sítios anatômicos diferentes"
+],
+"gab": 0,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r3",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A DTP pode ser usada nos reforços até 6 anos, 11 meses e 29 dias, com 6 meses após a 3ª penta e 6 meses entre os dois reforços. A IN 2026 orienta que a criança de 6 anos sem reforços receba o 1º reforço o mais breve possível, antes dos 7 anos. Se não houver tempo de fazer o 2º reforço antes dos 7 anos, respeitando os 6 meses, agenda-se 1 dose de dT para 10 anos após esse 1º reforço, e a criança fica liberada do 2º reforço com DTP. Com 6 anos e 8 meses, o 2º reforço cairia depois dos 7 anos, quando a DTP já é contraindicada.",
+"porAlt": [
+"Correta: faz-se o 1º reforço com DTP antes dos 7 anos e a dT fica para 10 anos depois.",
+"A DTP é contraindicada a partir de 7 anos; o 2º reforço não pode ser feito com ela.",
+"Aos 6 anos e 8 meses a DTP ainda é indicada; a dT só entra a partir dos 7 anos.",
+"Os reforços contra difteria, tétano e coqueluche usam DTP, e não a vacina penta.",
+"Os reforços exigem 6 meses de intervalo entre si; não se aplicam os dois no mesmo dia."
+]
+},
+{
+"q": "Lactente de 11 meses e 10 dias, saudável, chega à UBS para atualização vacinal. A caderneta mostra todas as doses do calendário, exceto a vacina rotavírus humano, que nunca foi aplicada por falta de vacina no município. Segundo o Quadro 1 da IN de 2026, qual é a conduta?",
+"alts": [
+"Não aplicar, pois a 1ª dose só é aceita até 7 meses e 29 dias",
+"Aplicar dose única hoje, já que não haverá tempo para a 2ª dose",
+"Não aplicar, pois a 2ª dose não pode ser dada após 11 meses e 29 dias",
+"Aplicar a 1ª dose hoje e a 2ª após 60 dias, antes dos 24 meses",
+"Aplicar a 1ª dose hoje e a 2ª após 30 dias, como intervalo padrão"
+],
+"gab": 3,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "O Quadro 1 da IN 2026 fixa os limites da vacina rotavírus humano G1P[8]: 1ª dose de 1 mês e 15 dias até 11 meses e 29 dias; 2ª dose de 3 meses e 15 dias até 23 meses e 29 dias, com 60 dias entre elas (mínimo de 30 em situação excepcional). Com 11 meses e 10 dias, a criança ainda está na janela da 1ª dose, e a 2ª, 60 dias depois, cai bem antes de 23 meses e 29 dias. Se a 1ª dose não for feita dentro da janela, a criança perde as duas doses. Limites antigos, como 7 meses e 29 dias, não valem mais.",
+"porAlt": [
+"O limite de 7 meses e 29 dias é antigo; a IN de 2026 aceita a 1ª dose até 11 meses e 29 dias.",
+"O esquema é de 2 doses, e há tempo para a 2ª até 23 meses e 29 dias de idade.",
+"O limite de 11 meses e 29 dias vale para a 1ª dose; a 2ª vai até 23 meses e 29 dias.",
+"Correta: a 1ª dose está na janela e a 2ª, com 60 dias, fica antes de 23 meses e 29 dias.",
+"O intervalo padrão é de 60 dias; 30 dias é o mínimo reservado a situações excepcionais."
+]
+},
+{
+"q": "Durante a campanha anual, a mãe de um menino de 3 anos procura a UBS para vaciná-lo contra a gripe. Ele nunca recebeu vacina influenza, é saudável e está com as demais vacinas em dia. Segundo a Instrução Normativa do calendário de 2026, qual é o esquema indicado nesta temporada?",
+"alts": [
+"Dose única de 0,5 mL, repetida apenas na próxima temporada",
+"2 doses de 0,25 mL com intervalo de 30 dias entre elas",
+"2 doses de 0,5 mL com intervalo de 60 dias entre elas",
+"Dose única de 0,25 mL, pois ele ainda tem menos de 9 anos",
+"2 doses de 0,5 mL com intervalo de 30 dias entre elas"
+],
+"gab": 4,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "calc",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A influenza trivalente é rotina de 6 meses até 5 anos, 11 meses e 29 dias. Na primovacinação da criança, a IN 2026 recomenda 2 doses com 30 dias de intervalo; quem já recebeu ao menos 1 dose em anos anteriores faz dose única nos anos seguintes. O volume depende da idade: 0,25 mL de 6 meses a 2 anos e 0,5 mL a partir de 3 anos. Assim, o menino de 3 anos, nunca vacinado, recebe 2 doses de 0,5 mL com 30 dias entre elas, por via IM ou SC.",
+"porAlt": [
+"Na primeira vez que a criança recebe influenza, o esquema tem 2 doses, e não dose única.",
+"O volume de 0,25 mL é de 6 meses a 2 anos; aos 3 anos a dose é de 0,5 mL.",
+"O intervalo da primovacinação contra influenza é de 30 dias, não de 60 dias.",
+"Primovacinação exige 2 doses, e o volume de 0,25 mL não vale para 3 anos.",
+"Correta: criança de 3 anos nunca vacinada recebe 2 doses de 0,5 mL com 30 dias de intervalo."
+]
+},
+{
+"q": "Menina de 2 anos, saudável, tem registro de apenas 1 dose de vacina covid-19 (Comirnaty) aplicada aos 6 meses. A família deixou de comparecer às doses seguintes. Na UBS, a enfermeira avalia o cartão. De acordo com a IN do calendário de 2026, qual é a conduta?",
+"alts": [
+"Aplicar a 2ª dose hoje e a 3ª dose pelo menos 8 semanas depois",
+"Reiniciar o esquema de 3 doses, pois o intervalo foi ultrapassado",
+"Aplicar a 2ª dose hoje e a 3ª dose pelo menos 4 semanas depois",
+"Não aplicar, pois o esquema infantil só vale até os 9 meses de idade",
+"Aplicar dose única anual, por ser criança saudável acima de 1 ano"
+],
+"gab": 0,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "calc",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "O esquema básico da covid-19 com Comirnaty é de 3 doses, aos 6, 7 e 9 meses. A IN 2026 diz que a criança que não iniciou ou não completou o esquema até 9 meses pode recebê-lo até 4 anos, 11 meses e 29 dias, conforme o histórico, respeitando o intervalo mínimo de 4 semanas entre a 1ª e a 2ª dose e de 8 semanas entre a 2ª e a 3ª. Doses comprovadas não se repetem. Doses periódicas não são recomendadas para a criança saudável completamente vacinada; elas ficam para imunocomprometidos, comorbidade, indígenas, quilombolas e ribeirinhos.",
+"porAlt": [
+"Correta: completa-se o esquema com a 2ª dose hoje e a 3ª após no mínimo 8 semanas.",
+"Atraso não reinicia o esquema; a dose comprovada aos 6 meses continua válida.",
+"Entre a 2ª e a 3ª dose o intervalo mínimo é de 8 semanas; 4 semanas vale entre a 1ª e a 2ª.",
+"O esquema pode ser completado até 4 anos, 11 meses e 29 dias, e não só até 9 meses.",
+"Dose anual não é rotina para criança saudável; ela é para grupos como comorbidade e indígenas."
+]
+},
+{
+"q": "Criança de 3 anos e 2 meses completou há 2 meses, em atualização tardia, a 3ª dose de vacina poliomielite inativada (VIP). Não recebeu nenhum reforço. A mãe pergunta quando voltar. Segundo a IN do calendário de 2026, como devem ser programados os reforços?",
+"alts": [
+"1º reforço hoje, pois já passou da idade dos 15 meses, e 2º aos 4 anos",
+"Nenhum reforço, pois as 3 doses tardias já completam o esquema",
+"1º reforço 6 meses após a 3ª dose e 2º reforço 6 meses após o 1º",
+"1º reforço com VOP aos 4 anos e nenhum outro reforço depois",
+"1º reforço 30 dias após a 3ª dose e 2º reforço 30 dias após o 1º"
+],
+"gab": 2,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "calc",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A VIP tem 3 doses (2, 4 e 6 meses) e 2 reforços (15 meses e 4 anos), todos com vacina inativada. Para a criança em atraso, a IN 2026 manda completar o esquema básico com 60 dias entre doses e, em seguida, aplicar o 1º reforço com intervalo mínimo de 6 meses após a 3ª dose e o 2º reforço com intervalo mínimo de 6 meses após o 1º (Nota Técnica 64/2026). A vacina pode ser feita até 4 anos, 11 meses e 29 dias. Aqui, o 1º reforço cai aos 3 anos e 6 meses e o 2º aos 4 anos, dentro do limite.",
+"porAlt": [
+"O 1º reforço exige 6 meses após a 3ª dose; só se passaram 2 meses desde ela.",
+"Os 2 reforços continuam indicados mesmo quando o esquema básico foi feito com atraso.",
+"Correta: a IN pede 6 meses entre a 3ª dose e o 1º reforço e 6 meses entre os reforços.",
+"A VOP não faz parte do calendário de 2026; todos os reforços são feitos com VIP.",
+"O intervalo de 30 dias é mínimo do esquema básico; os reforços exigem 6 meses."
+]
+},
+{
+"q": "Menina de 13 anos vem à UBS com a mãe para atualizar a caderneta. Há registro de 1 dose de vacina HPV4 aplicada aos 10 anos, na escola. A mãe ouviu de uma vizinha que \"a vacina do HPV tem duas doses\" e pede a segunda. Pela IN do calendário de 2026, qual é a conduta?",
+"alts": [
+"Aplicar a 2ª dose hoje, pois já passaram 6 meses da 1ª",
+"Nenhuma dose adicional, pois o esquema da rotina é dose única",
+"Aplicar mais 2 doses, com intervalo de 2 e 6 meses da 1ª dose",
+"Aplicar a 2ª dose somente aos 15 anos, na estratégia de resgate",
+"Reiniciar com 2 doses, já que a 1ª foi antes dos 11 anos"
+],
+"gab": 1,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "Na IN 2026 o esquema básico da HPV4 é de 1 dose para meninas e meninos, aos 9 anos, com janela de 9 a 14 anos, 11 meses e 29 dias. A menina recebeu essa dose aos 10 anos e está vacinada. O esquema de 2 doses que muitas provas antigas cobram não é mais rotina; ele aparece apenas na estratégia especial, como em vítimas de abuso sexual de 9 a 14 anos (0 e 6 meses). Três doses (0, 2 e 6 meses) ficam para imunodeprimidos, usuários de PrEP e outros grupos prioritários com prescrição. O resgate de 15 a 19 anos é para quem não tem nenhuma dose.",
+"porAlt": [
+"O esquema de 2 doses deixou de ser rotina; a HPV4 do calendário é dose única.",
+"Correta: a dose única aplicada aos 10 anos, dentro da janela de 9 a 14 anos, completa o esquema.",
+"Três doses são da estratégia especial, como imunodeprimidos, e exigem prescrição.",
+"O resgate de 15 a 19 anos é dose única para quem não tem nenhuma dose de HPV.",
+"Dose aplicada entre 9 e 14 anos é válida; não há reinício por idade na aplicação."
+]
+},
+{
+"q": "Adolescente de 12 anos, sem comorbidades, teve dengue confirmada laboratorialmente há 2 meses e já está recuperada. A mãe a leva à UBS para receber a vacina dengue ofertada na rotina. Não há outra contraindicação. Pela Instrução Normativa do calendário de 2026, qual é a conduta?",
+"alts": [
+"Aplicar a 1ª dose hoje e a 2ª após 3 meses, pois a fase aguda passou",
+"Aguardar 30 dias da recuperação e aplicar 2 doses com 30 dias de intervalo",
+"Não vacinar, pois quem já teve dengue fica fora da estratégia vacinal",
+"Aguardar 6 meses da infecção e então aplicar 2 doses com 3 meses de intervalo",
+"Aguardar 6 meses da infecção e aplicar dose única por via intramuscular"
+],
+"gab": 3,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A vacina dengue (atenuada) é rotina de 10 anos a 14 anos, 11 meses e 29 dias, em 2 doses com 3 meses de intervalo, exclusivamente por via subcutânea. A IN 2026 recomenda aguardar 6 meses após a infecção pelo vírus da dengue para iniciar o esquema. Se a dengue ocorrer depois da 1ª dose, o intervalo entre as doses não muda, desde que a 2ª não seja feita antes de 30 dias do início da doença, e o esquema não é reiniciado. O prazo de 30 dias após a fase aguda vale para quem teve febre amarela, chikungunya ou zika, e não para a própria dengue.",
+"porAlt": [
+"Após dengue, a IN pede 6 meses de espera para iniciar o esquema, e não apenas o fim da fase aguda.",
+"Os 30 dias após recuperação valem para febre amarela, chikungunya ou zika, e o intervalo é de 3 meses.",
+"Dengue prévia não exclui a adolescente; apenas adia o início do esquema por 6 meses.",
+"Correta: espera-se 6 meses da infecção e aplicam-se 2 doses com 3 meses de intervalo.",
+"O esquema é de 2 doses, e a vacina é exclusivamente subcutânea, nunca intramuscular."
+]
+},
+{
+"q": "Adolescente de 14 anos comparece à UBS para atualização. A caderneta mostra esquema infantil completo, com o 2º reforço de DTP aos 4 anos e a meningocócica ACWY aos 12 meses, além de HPV4 aos 9 anos e 2 doses de dengue aos 11 anos. Não há meningocócica na adolescência. Quais vacinas aplicar hoje?",
+"alts": [
+"dT como reforço e meningocócica ACWY como dose da adolescência",
+"dTpa como reforço e meningocócica C como dose da adolescência",
+"dT como reforço e nova dose de HPV4 para completar 2 doses",
+"Apenas a dT, pois a meningocócica ACWY dos 12 meses já basta",
+"Meningocócica ACWY agora e dT somente aos 19 anos de idade"
+],
+"gab": 0,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A IN 2026 prevê reforço com dT aos 14 anos, 10 anos após o 2º reforço de DTP feito aos 4 anos, e depois a cada 10 anos. A meningocócica ACWY do adolescente é 1 dose aos 11 anos, como dose ou reforço conforme o histórico, com janela até 14 anos, 11 meses e 29 dias. Como ele tem 14 anos e não recebeu a dose da adolescência, ainda está na janela e deve ser vacinado hoje. A dose de ACWY dos 12 meses não substitui a do adolescente. A HPV4 é dose única e a dTpa é reservada a gestantes, puérperas e trabalhadores de saúde.",
+"porAlt": [
+"Correta: aos 14 anos cabem a dT, 10 anos após a DTP dos 4 anos, e a ACWY da adolescência.",
+"O reforço da rotina é com dT, e a vacina do adolescente é a ACWY, não a meningocócica C.",
+"A HPV4 da rotina é dose única; a dose dos 9 anos já completou o esquema.",
+"A dose de ACWY dos 12 meses não dispensa a dose prevista dos 11 aos 14 anos.",
+"O reforço de dT é aos 14 anos, 10 anos após o 2º reforço de DTP aos 4 anos."
+]
+},
+{
+"q": "Mulher de 34 anos, não gestante, procura a UBS porque planeja engravidar no próximo ano. Não possui comprovante de vacina tríplice viral e não se lembra de ter tido sarampo ou rubéola. Não tem imunodepressão nem alergias. Pela IN do calendário de 2026, qual é a orientação correta?",
+"alts": [
+"Aplicar 2 doses de tríplice viral com 30 dias de intervalo",
+"Solicitar sorologia para rubéola antes de qualquer dose da vacina",
+"Aplicar 1 dose de tríplice viral e evitar gravidez por 1 mês",
+"Não vacinar, pois a tríplice viral é rotina só até os 29 anos",
+"Aplicar 1 dose e evitar gravidez por 3 meses após a vacinação"
+],
+"gab": 2,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A tríplice viral está disponível no SUS de 12 meses a 59 anos. Pela IN 2026, de 12 meses a 29 anos sem comprovação, o esquema é de 2 doses com 30 dias de intervalo; de 30 a 59 anos sem comprovação, aplica-se 1 dose, e considera-se vacinada quem comprova 1 dose. Por ser vacina atenuada, a IN orienta mulheres em idade fértil a evitar gravidez por pelo menos 1 mês após a vacinação. A avaliação pré-concepcional é o momento ideal, porque a tríplice viral é contraindicada na gestação. Sorologia prévia não é exigida pela IN.",
+"porAlt": [
+"Duas doses são para quem tem de 12 meses a 29 anos; aos 34 anos o esquema é de 1 dose.",
+"A IN não condiciona a vacinação a sorologia prévia; sem comprovante, vacina-se.",
+"Correta: de 30 a 59 anos sem comprovação faz-se 1 dose, evitando gravidez por 1 mês.",
+"A tríplice viral é ofertada até 59 anos; de 30 a 59 anos o esquema é de 1 dose.",
+"O prazo para evitar gravidez após tríplice viral na IN é de pelo menos 1 mês."
+]
+},
+{
+"q": "Homem de 28 anos vai trabalhar em área rural com circulação confirmada do vírus da febre amarela. O cartão mostra 1 dose da vacina febre amarela aos 3 anos de idade e nenhuma outra. Ele não tem contraindicações. Segundo o Quadro 2 da IN do calendário de 2026, qual é a conduta?",
+"alts": [
+"Considerar vacinado, pois 1 dose na vida protege por toda a vida",
+"Aplicar 2 doses com 30 dias de intervalo, reiniciando o esquema",
+"Aplicar dose fracionada, suficiente para quem já tem 1 dose antiga",
+"Não vacinar, pois a vacina só é indicada até os 4 anos de idade",
+"Aplicar 1 dose de reforço, com intervalo mínimo de 30 dias da anterior"
+],
+"gab": 4,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "O Quadro 2 da IN 2026 separa as pessoas de 5 a 59 anos pelo momento da dose anterior: 2 doses antes dos 5 anos ou 1 dose recebida a partir dos 5 anos completam o esquema; quem recebeu apenas 1 dose antes dos 5 anos precisa de 1 dose de reforço, com intervalo mínimo de 30 dias. A dose dele foi aos 3 anos, então falta o reforço. Para quem vai a área com circulação confirmada, a vacina deve ser feita pelo menos 10 dias antes da viagem, tempo da soroconversão. Quem recebeu só dose fracionada em 2018 também recebe 1 dose padrão.",
+"porAlt": [
+"Dose única só completa o esquema se recebida a partir dos 5 anos; a dele foi aos 3 anos.",
+"Dose anterior comprovada não se repete; falta apenas 1 dose de reforço.",
+"Dose fracionada foi estratégia de 2018; hoje a recomendação é dose padrão de 0,5 mL.",
+"A vacina febre amarela é ofertada de 9 meses até 59 anos, e não só até os 4 anos.",
+"Correta: com 1 dose antes dos 5 anos, aplica-se 1 reforço, com 30 dias de intervalo mínimo."
+]
+},
+{
+"q": "Senhora de 72 anos, moradora de instituição de longa permanência, tem registro de 1 dose de vacina pneumocócica polissacarídica 23-valente (VPP 23) aplicada há 8 meses. A enfermeira da instituição organiza a vacinação dos residentes com VPC 20. Pela IN de 2026, qual é a conduta para essa idosa?",
+"alts": [
+"Aplicar 1 dose de VPC 20 após completar 1 ano da VPP 23",
+"Aplicar hoje a VPC 20, sem intervalo mínimo com a VPP 23",
+"Aplicar 1 dose de VPC 20 após completar 2 meses da VPP 23",
+"Considerar vacinada, pois 1 dose de VPP 23 basta para a idade",
+"Aplicar 2 doses de VPC 20 com 60 dias de intervalo entre elas"
+],
+"gab": 0,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "ger",
+"comp": "calc",
+"nivel": "r3",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A VPC 20 é ofertada a idosos de 60 a 84 anos acamados ou institucionalizados e a todos a partir de 85 anos. Para quem já tem vacina pneumocócica, a IN 2026 traz a regra de transição: 2 doses de VPP 23, ou 1 de VPC 13 ou VPC 15 mais 1 de VPP 23, ou 1 de VPC 20 significam vacinado; 1 dose de VPP 23 pede 1 dose de VPC 20 com intervalo mínimo de 1 ano; 1 dose de VPC 13 ou VPC 15 pede VPC 20 com intervalo mínimo de 2 meses; sem histórico, dose única de VPC 20. Com VPP 23 há 8 meses, ela recebe a VPC 20 dentro de 4 meses.",
+"porAlt": [
+"Correta: com 1 dose de VPP 23, a VPC 20 exige intervalo mínimo de 1 ano entre as doses.",
+"A IN fixa intervalo mínimo de 1 ano entre a VPP 23 e a VPC 20 nesse histórico.",
+"O intervalo de 2 meses vale para quem recebeu VPC 13 ou VPC 15, não VPP 23.",
+"Uma dose de VPP 23 não completa o esquema; só 2 doses de VPP 23 dispensam a VPC 20.",
+"No idoso a VPC 20 é dose única; não há esquema de 2 doses para esse grupo."
+]
+},
+{
+"q": "Gestante de 24 semanas, na primeira consulta de pré-natal, apresenta cartão com uma única dose de dT aplicada há 5 anos. Não recebeu outras vacinas com toxoide diftérico e tetânico. Segundo a IN do calendário de 2026, como atualizar o esquema contra difteria, tétano e coqueluche?",
+"alts": [
+"dTpa hoje e mais 2 doses de dT, com 60 dias entre as doses",
+"dTpa hoje e 1 dose de dT 60 dias depois, ainda na gestação",
+"Apenas 1 dose de dTpa, pois o esquema anterior já está completo",
+"dT hoje e reforço com dT após o parto, sem uso de dTpa",
+"dTpa hoje e 1 dose de dT no puerpério, até 6 meses após o parto"
+],
+"gab": 1,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "Com histórico de 1 dose de vacina com toxoides, a IN 2026 completa o esquema com mais 2 doses, 1 de dT e 1 de dTpa a partir da 20ª semana, com 60 dias entre elas (30 em exceção). Quando a gestante chega com 20 semanas ou mais, a IN recomenda dar a dTpa primeiro e completar com dT ainda na gestação; não sendo possível, agenda-se para o puerpério até 45 dias. Assim, com 24 semanas, ela recebe dTpa hoje e dT 60 dias depois, por volta de 32 a 33 semanas. Três doses são para quem não tem nenhuma dose anterior.",
+"porAlt": [
+"Duas doses de dT mais dTpa são para gestante sem nenhuma dose anterior; ela já tem 1.",
+"Correta: com 1 dose prévia, aplica-se dTpa agora e completa-se com dT 60 dias depois.",
+"Uma dose de dT não completa o esquema básico, que exige 3 doses com toxoides.",
+"A gestante a partir de 20 semanas deve receber dTpa, que protege o bebê contra coqueluche.",
+"O puerpério só é usado se não der tempo, e o prazo é de até 45 dias após o parto."
+]
+},
+{
+"q": "Gestante de 16 semanas, técnica de enfermagem, recebeu dose da vacina covid-19 há 4 meses, antes de saber da gravidez, na estratégia para trabalhadores da saúde. Ela pergunta se deve receber a dose prevista para a gestação. Pela IN do calendário de 2026, qual é a orientação?",
+"alts": [
+"Aplicar hoje, pois a dose da gestação não exige intervalo mínimo",
+"Não aplicar, pois a dose dos 4 meses já cobre esta gestação",
+"Aplicar somente a partir da 28ª semana, junto com a vacina VSR",
+"Aplicar 1 dose quando completar 6 meses da última, ainda na gestação",
+"Adiar para o puerpério, até 45 dias, pois covid não se faz na gestação"
+],
+"gab": 3,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "calc",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A IN 2026 recomenda à gestante 1 dose de vacina covid-19 durante cada gestação, em qualquer idade gestacional, desde que tenham transcorrido no mínimo 6 meses desde a última dose. A dose recebida há 4 meses, antes da gravidez, não substitui a dose da gestação, mas impõe o intervalo: ela deve ser vacinada quando completar 6 meses da dose anterior, por volta de 24 semanas. A vacina pode ser aplicada no mesmo dia que dTpa, influenza e VSR, em sítios diferentes. A 28ª semana é marco da VSR, e não da covid-19.",
+"porAlt": [
+"A IN exige intervalo mínimo de 6 meses desde a última dose de covid-19.",
+"A dose anterior foi antes da gravidez; a IN prevê 1 dose em cada gestação.",
+"A covid-19 pode ser feita em qualquer idade gestacional; a 28ª semana é marco da VSR.",
+"Correta: respeitam-se 6 meses da última dose e vacina-se ainda durante a gestação.",
+"A covid-19 é indicada na gestação; o puerpério não é a regra para essa vacina."
+]
+},
+{
+"q": "Puérpera de 30 dias, parto vaginal a termo, comparece à UBS com o recém-nascido. Não recebeu dTpa nem influenza durante a gestação, por ter faltado às consultas. Tem 3 doses de dT no passado, a última há 6 anos. Pela IN do calendário de 2026, o que está indicado para ela hoje?",
+"alts": [
+"Somente influenza, pois a dTpa só tem efeito se feita na gestação",
+"dT e influenza hoje, pois a dTpa é exclusiva para gestantes",
+"dTpa e influenza hoje, pois ainda está nos 45 dias do puerpério",
+"Nenhuma vacina, pois o prazo do puerpério para ambas é de 30 dias",
+"dTpa hoje e influenza apenas numa próxima gestação, se ocorrer"
+],
+"gab": 2,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A IN 2026 inclui a puérpera até 45 dias pós-parto no grupo da dTpa quando a vacina não foi administrada na gestação: a vacinação protege a mãe e reduz o risco de coqueluche no recém-nascido. A influenza segue a mesma lógica: a cada gestação 1 dose por temporada e, se não foi possível vacinar na gravidez, aplica-se no pós-parto até 45 dias. Com 30 dias de puerpério, ela está dentro do prazo para as duas vacinas, que podem ser aplicadas no mesmo dia, em sítios diferentes.",
+"porAlt": [
+"A dTpa é indicada à puérpera até 45 dias se não foi aplicada durante a gestação.",
+"A dTpa está prevista para a puérpera não vacinada na gestação; a dT não protege contra coqueluche.",
+"Correta: dTpa e influenza são indicadas à puérpera não vacinada, até 45 dias após o parto.",
+"O prazo do puerpério para dTpa e influenza na IN é de 45 dias, não de 30 dias.",
+"A influenza também é indicada à puérpera até 45 dias, se não foi vacinada na gestação."
+]
+},
+{
+"q": "Técnica de enfermagem de 40 anos é admitida em UTI neonatal. O cartão mostra 3 doses de dT na juventude e um reforço com dT há 3 anos. Ela nunca teve varicela nem recebeu essa vacina. Quanto à proteção contra coqueluche e varicela, qual é a conduta pela IN do calendário de 2026?",
+"alts": [
+"Nenhuma dTpa até completar 10 anos da dT; varicela em 2 doses",
+"1 dose de dTpa agora e varicela em dose única, pela idade adulta",
+"1 dose de dTpa agora e 2 doses de varicela com 3 meses de intervalo",
+"Apenas dT de reforço em 7 anos; varicela é contraindicada após 13 anos",
+"1 dose de dTpa agora e 2 doses de varicela com 8 semanas de intervalo"
+],
+"gab": 4,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "uti",
+"comp": "norma",
+"nivel": "r3",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "Profissionais de saúde de qualquer área recebem dTpa. Pela IN 2026, com esquema básico completo, aplica-se 1 dose de dTpa mesmo que a última dose com toxoides tenha sido há menos de 10 anos, respeitando o intervalo entre doses, e os reforços seguintes são com dTpa a cada 10 anos (5 em exposição). Para varicela, o trabalhador de saúde sem história da doença ou na dúvida recebe 2 doses, independentemente da idade, com intervalo de 8 semanas (mínimo de 4 em exceção). O intervalo de 3 meses entre as doses de varicela é o das crianças de 1 a 12 anos.",
+"porAlt": [
+"A IN manda aplicar a dTpa ao profissional de saúde mesmo com dT há menos de 10 anos.",
+"A varicela no adulto suscetível é feita em 2 doses, pois 1 dose dá soroconversão menor.",
+"O intervalo de 3 meses é para crianças de 1 a 12 anos; acima de 13 anos são 8 semanas.",
+"Varicela é indicada ao trabalhador de saúde suscetível em qualquer idade, com 2 doses.",
+"Correta: dTpa agora, apesar da dT recente, e 2 doses de varicela com 8 semanas de intervalo."
+]
+},
+{
+"q": "Criança de 12 meses chega à UBS para as vacinas da idade. Não recebeu a febre amarela aos 9 meses porque estava com doença febril. Hoje está bem, e o município não vive emergência epidemiológica. A enfermeira planeja VPC 20, meningocócica ACWY, tríplice viral e febre amarela. Pela IN de 2026, qual é a conduta?",
+"alts": [
+"Aplicar as quatro vacinas hoje, em sítios anatômicos diferentes",
+"Aplicar tríplice viral hoje e febre amarela 30 dias depois, ou vice-versa",
+"Aplicar febre amarela hoje e tríplice viral só aos 15 meses de idade",
+"Aplicar tríplice viral hoje e febre amarela somente aos 4 anos de idade",
+"Aplicar tríplice viral hoje e febre amarela 15 dias depois, como rotina"
+],
+"gab": 1,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "O Quadro 5 da IN 2026 não recomenda aplicar febre amarela no mesmo dia que tríplice viral ou tetraviral em menores de 2 anos: observa-se intervalo de 30 dias entre elas, com mínimo de 15 dias só em situação excepcional. Em emergência epidemiológica com circulação dos dois vírus, as vacinas podem ser feitas juntas. A partir de 2 anos, podem ser simultâneas ou com 30 dias. VPC 20 e meningocócica ACWY são inativadas e entram no mesmo dia. A febre amarela em atraso continua indicada, com reforço aos 4 anos.",
+"porAlt": [
+"Em menor de 2 anos, fora de emergência, febre amarela e tríplice viral não são aplicadas juntas.",
+"Correta: em menor de 2 anos, separa-se febre amarela da tríplice viral por 30 dias.",
+"A tríplice viral não precisa esperar os 15 meses; a 1ª dose é aos 12 meses.",
+"A dose dos 9 meses perdida é recuperada; o reforço dos 4 anos não substitui a dose básica.",
+"O intervalo de 15 dias é mínimo de exceção; a rotina pede 30 dias entre as duas vacinas."
+]
+},
+{
+"q": "Homem de 22 anos recebeu 2 unidades de concentrado de hemácias há 2 meses, após acidente de trânsito. Na UBS, sem comprovante de vacina tríplice viral, pede para atualizar o cartão. Segundo o Quadro 10 da IN do calendário de 2026, qual intervalo é sugerido entre o concentrado de hemácias e a tríplice viral?",
+"alts": [
+"Nenhum, pois hemácias não interferem em vacinas atenuadas",
+"7 meses, o mesmo prazo indicado para plasma ou plaquetas",
+"11 meses, como após imunoglobulina venosa em alta dose",
+"5 meses após a transfusão de concentrado de hemácias",
+"2 semanas, tempo suficiente para eliminar os anticorpos"
+],
+"gab": 3,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "calc",
+"nivel": "r3",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "Anticorpos recebidos de forma passiva podem neutralizar os vírus vacinais vivos e causar falha vacinal. Por isso, o Quadro 10 da IN 2026 sugere intervalos entre hemoderivados e vacinas virais vivas atenuadas injetáveis, proporcionais ao conteúdo de IgG: hemácias lavadas, 0; concentrado de hemácias, 5 meses; sangue total, 6; plasma ou plaquetas, 7; imunoglobulina intravenosa terapêutica em alta dose, 10 a 11 meses. Vacinas inativadas, como dT e hepatite B, podem ser aplicadas hoje. As 2 semanas são o prazo entre a tríplice viral e uma imunoglobulina posterior.",
+"porAlt": [
+"O concentrado de hemácias contém IgG; o intervalo zero vale apenas para hemácias lavadas.",
+"Sete meses é o intervalo sugerido para plasma ou plaquetas, não para hemácias.",
+"Dez a onze meses são sugeridos após imunoglobulina intravenosa terapêutica em dose alta.",
+"Correta: o Quadro 10 sugere 5 meses entre concentrado de hemácias e vacina viral atenuada.",
+"Duas semanas é o prazo entre a tríplice viral e uma imunoglobulina aplicada depois."
+]
+},
+{
+"q": "Lactente de 8 meses mora em município com surto de sarampo, e a secretaria indicou a vacinação de crianças de 6 a 11 meses. Ela recebe a tríplice viral hoje. A mãe pergunta se ainda precisará da vacina aos 12 meses. Pela IN do calendário de 2026, qual é a resposta correta?",
+"alts": [
+"Não; a dose de hoje substitui a dose prevista para os 12 meses",
+"Sim; é dose zero, e mantêm-se as doses dos 12 e 15 meses",
+"Não; a dose de hoje substitui a dose prevista para os 15 meses",
+"Sim, mas só a dose dos 15 meses, pois a de hoje vale como 1ª",
+"Sim; repetir aos 9 meses e depois seguir aos 12 e aos 15 meses"
+],
+"gab": 1,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "Em situação epidemiológica de risco para sarampo ou rubéola, a IN 2026 permite vacinar temporariamente crianças de 6 a 11 meses com tríplice viral. Essa aplicação é chamada dose zero: não é válida para a rotina nem para a cobertura vacinal. Depois dela, mantém-se a agenda do calendário, com a 1ª dose aos 12 meses e a 2ª aos 15 meses. A mesma lógica vale para a febre amarela de 6 a 8 meses em área com circulação confirmada e para a varicela de 9 a 11 meses no bloqueio de surto.",
+"porAlt": [
+"A dose aplicada de 6 a 11 meses é dose zero e não substitui a dose dos 12 meses.",
+"Correta: a dose zero não conta para o esquema, que segue aos 12 e aos 15 meses.",
+"A dose zero não substitui nenhuma dose do esquema básico, nem a dos 15 meses.",
+"A dose de hoje não é válida como 1ª dose; as duas doses de rotina continuam.",
+"Não há dose de tríplice viral aos 9 meses; o esquema segue aos 12 e aos 15 meses."
+]
+},
+{
+"q": "Homem de 45 anos, motorista, apresenta cartão com 1 dose de vacina hepatite B aplicada há 3 anos, sem outras doses. Não pertence a grupo com indicação especial e não tem sorologias. Na UBS, pede para completar a vacinação. Pela Instrução Normativa do calendário de 2026, qual é a conduta?",
+"alts": [
+"Reiniciar o esquema de 3 doses, pois passou muito tempo da 1ª",
+"Solicitar anti-HBs e vacinar apenas se o resultado for negativo",
+"Considerar vacinado, pois 1 dose de hepatite B basta no adulto",
+"Aplicar a 2ª dose hoje e a 3ª dose 7 dias depois da 2ª dose",
+"Aplicar a 2ª dose hoje e agendar a 3ª, sem reiniciar o esquema"
+],
+"gab": 4,
+"tema": "imuniza",
+"sub": "Calendário nacional de vacinação",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A partir de 7 anos, a hepatite B é feita com a vacina monovalente em 3 doses (0, 1 e 6 meses). A IN 2026 escreve \"não reiniciar o esquema\": dose comprovada conta, mesmo anos depois, e completa-se a partir da última. Assim, aplica-se a 2ª dose hoje e agenda-se a 3ª. Em situação excepcional, os intervalos mínimos são de 1 mês entre a 1ª e a 2ª dose, 2 meses entre a 2ª e a 3ª e 4 meses entre a 1ª e a 3ª. Sorologia pré-vacinal não é rotina para adulto sem indicação especial; a revacinação por anti-HBs abaixo de 10 mUI/mL é para grupos como profissionais de saúde e hemodialisados.",
+"porAlt": [
+"A IN diz para não reiniciar o esquema; a dose comprovada continua válida.",
+"Sorologia prévia não é exigida para adulto sem indicação especial; completa-se o esquema.",
+"O esquema básico exige 3 doses; uma única dose não completa a proteção.",
+"O intervalo mínimo entre a 2ª e a 3ª dose é de 2 meses, nunca de 7 dias.",
+"Correta: completa-se o esquema a partir da última dose, aplicando a 2ª hoje."
+]
+},
+{
+"q": "Na capacitação de novos técnicos de uma UBS, a enfermeira explica a conservação dos imunobiológicos na sala de vacina. Um técnico pergunta qual é a faixa de temperatura da câmara refrigerada e por que o congelamento preocupa. Qual resposta está de acordo com o Manual de Rede de Frio do PNI?",
+"alts": [
+"+2 °C a +8 °C; o congelamento pode inutilizar vacinas adsorvidas em alumínio",
+"+2 °C a +8 °C; o congelamento só reduz o tempo de validade do frasco",
+"0 °C a +10 °C; o congelamento não altera as vacinas inativadas adsorvidas",
+"−20 °C para todas as vacinas, o que prolonga a potência de cada produto",
+"+8 °C a +15 °C; o frio abaixo de +8 °C reduz a potência das vacinas"
+],
+"gab": 0,
+"tema": "imuniza",
+"sub": "Rede de frio e conservação",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r1",
+"base": "Manual de Rede de Frio do Programa Nacional de Imunizações, 5ª edição, 2017 (MS)",
+"coment": "Rede de frio é o sistema de armazenamento, transporte e conservação dos imunobiológicos desde a produção até a aplicação, descrito no Manual de Rede de Frio do PNI. Na sala de vacina, os imunobiológicos ficam em câmara refrigerada na faixa de +2 °C a +8 °C. O calor reduz a potência, e temperatura abaixo de +2 °C pode inutilizar de forma permanente as vacinas adsorvidas em alumínio, como penta, DTP, dT e hepatite B. Por isso a leitura é registrada no mapa de controle e qualquer valor fora da faixa é tratado como excursão de temperatura.",
+"porAlt": [
+"Correta: a faixa é de +2 °C a +8 °C, e o congelamento pode inutilizar vacinas adsorvidas.",
+"O dano do congelamento às vacinas adsorvidas pode ser permanente, não só encurtar a validade.",
+"A faixa vai de +2 °C a +8 °C, e as vacinas adsorvidas são justamente as sensíveis ao frio.",
+"Congelar inutiliza vacinas adsorvidas; a sala de vacina trabalha de +2 °C a +8 °C.",
+"Acima de +8 °C já há excursão; a faixa correta de conservação é de +2 °C a +8 °C."
+]
+},
+{
+"q": "Na abertura da sala de vacina, às 7h, a técnica de enfermagem encontra a câmara refrigerada marcando −1 °C, após falha do termostato durante a noite. Há frascos de penta, VIP e hepatite B armazenados. Segundo o Manual de Rede de Frio do PNI, qual é a primeira providência?",
+"alts": [
+"Descartar todos os frascos, pois vacinas congeladas são sempre perdidas",
+"Aguardar a câmara voltar a +2 °C a +8 °C e retomar a vacinação normalmente",
+"Suspender o uso e manter os frascos a +2 °C a +8 °C, separados como sob suspeita",
+"Transferir os frascos para o freezer até a avaliação da coordenação municipal",
+"Usar esses frascos primeiro, para evitar perdas, e registrar no fim do dia"
+],
+"gab": 2,
+"tema": "imuniza",
+"sub": "Rede de frio e conservação",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Manual de Rede de Frio do Programa Nacional de Imunizações, 5ª edição, 2017 (MS)",
+"coment": "Excursão de temperatura é qualquer registro fora de +2 °C a +8 °C. A conduta segue uma ordem: suspender o uso imediatamente; manter os frascos refrigerados na faixa correta, separados e identificados como imunobiológicos sob suspeita; registrar as temperaturas e o tempo estimado de exposição; e enviar o formulário de avaliação de imunobiológicos sob suspeita à coordenação de imunização, que emite o parecer de liberar ou inutilizar. O serviço não descarta por conta própria e não volta a usar os frascos antes do parecer.",
+"porAlt": [
+"O descarte depende do parecer técnico da coordenação; não se descarta por conta própria.",
+"Os frascos expostos não voltam ao uso antes do parecer da coordenação de imunização.",
+"Correta: suspende-se o uso e mantêm-se os frascos refrigerados, isolados como sob suspeita.",
+"Freezer agravaria o dano às vacinas adsorvidas; elas devem ficar de +2 °C a +8 °C.",
+"Usar frasco exposto antes do parecer gera erro de imunização, que precisa ser notificado."
+]
+},
+{
+"q": "Às 10h, a enfermeira percebe que o termômetro da câmara refrigerada registra +13 °C desde o início do turno, por porta mal fechada. Seis crianças já foram vacinadas com frascos daquela câmara. Ela suspende o uso e isola os frascos como sob suspeita. Quanto às doses já aplicadas, qual é a conduta?",
+"alts": [
+"Revacinar as seis crianças imediatamente com frascos de outra câmara",
+"Notificar como erro de imunização no e-SUS Notifica e seguir a orientação",
+"Não notificar nada, pois a exposição ao calor durou menos de 24 horas",
+"Notificar somente se alguma criança apresentar evento adverso grave",
+"Considerar as doses inválidas e reiniciar o esquema das seis crianças"
+],
+"gab": 1,
+"tema": "imuniza",
+"sub": "Rede de frio e conservação",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r3",
+"base": "Manual de Rede de Frio do PNI, 5ª edição, 2017, e IN do Calendário Nacional de Vacinação 2026 (MS)",
+"coment": "Doses aplicadas com imunobiológico exposto a temperatura fora de +2 °C a +8 °C configuram erro de imunização, uma das categorias de ESAVI ligada a falha no processo de vacinação. O caso é notificado no e-SUS Notifica, sistema usado por qualquer profissional de saúde para ESAVI, e a conduta para as crianças segue a orientação da coordenação de imunização, depois do parecer sobre os frascos. Revacinar por conta própria ou reiniciar esquemas antes desse parecer não tem respaldo. O erro de imunização é notificado mesmo sem sintoma.",
+"porAlt": [
+"A revacinação depende do parecer técnico sobre os frascos; não se decide por conta própria.",
+"Correta: dose aplicada com produto exposto é erro de imunização e vai ao e-SUS Notifica.",
+"Não há tempo de tolerância para deixar de notificar; erro de imunização sempre é notificado.",
+"O erro de imunização é notificado mesmo sem evento clínico na criança vacinada.",
+"Esquema não é reiniciado por conta própria; aguarda-se a orientação da coordenação."
+]
+},
+{
+"q": "Em ação extramuros numa escola, o técnico de enfermagem retira bobinas reutilizáveis do freezer e as coloca imediatamente na caixa térmica, encostadas nos frascos de vacina, sem termômetro. A enfermeira supervisora intervém. Qual é o principal risco dessa conduta e como corrigi-la?",
+"alts": [
+"Risco de aquecer os frascos; usar gelo comum no lugar das bobinas reutilizáveis",
+"Nenhum risco, pois bobina recém-saída do freezer garante a faixa ideal",
+"Risco de congelar os frascos; manter a caixa aberta para equilibrar a temperatura",
+"Risco de congelar os frascos; ambientar as bobinas e monitorar com termômetro",
+"Risco apenas para vacinas atenuadas, pois as inativadas toleram o frio intenso"
+],
+"gab": 3,
+"tema": "imuniza",
+"sub": "Rede de frio e conservação",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r1",
+"base": "Manual de Rede de Frio do Programa Nacional de Imunizações, 5ª edição, 2017 (MS)",
+"coment": "No uso diário e no trabalho extramuros, as vacinas são levadas em caixa térmica com bobinas reutilizáveis ambientadas e termômetro, mantendo a mesma faixa de +2 °C a +8 °C da câmara, longe do sol e de fontes de calor. Bobina que sai do freezer sem ambientação está abaixo de 0 °C e pode congelar os frascos, dano que é permanente nas vacinas adsorvidas em alumínio, que são inativadas. O termômetro na caixa permite verificar a faixa antes e durante a atividade. Abrir a caixa ou usar gelo comum compromete o controle da temperatura.",
+"porAlt": [
+"O risco da bobina não ambientada é o congelamento, e gelo comum não substitui a bobina.",
+"Bobina sem ambientação está abaixo de 0 °C e pode congelar os frascos na caixa.",
+"Deixar a caixa aberta expõe as vacinas ao calor e impede o controle da faixa.",
+"Correta: a bobina não ambientada pode congelar os frascos; ambienta-se e monitora-se a caixa.",
+"As vacinas inativadas adsorvidas em alumínio são as mais prejudicadas pelo congelamento."
+]
+},
+{
+"q": "Em uma UBS, a coordenação discute as atribuições na sala de vacina. A técnica de enfermagem lê e registra a temperatura da câmara e, numa queda de energia, executa o plano de contingência. Pela Resolução COFEN 795/2025, a quem cabe supervisionar a cadeia de frio da sala de vacinação?",
+"alts": [
+"Ao técnico de enfermagem, que responde sozinho pela temperatura da sala",
+"Ao farmacêutico da unidade, responsável legal por todo o estoque de vacinas",
+"Ao enfermeiro, de forma privativa, com técnicos e auxiliares sob supervisão",
+"A qualquer membro da equipe de enfermagem, sem distinção de categoria",
+"Ao auxiliar de enfermagem, desde que tenha curso de imunização de 40 horas"
+],
+"gab": 2,
+"tema": "imuniza",
+"sub": "Rede de frio e conservação",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Resolução COFEN 795/2025 (vacinação e imunização), itens 1.1 e 1.3",
+"coment": "A Resolução COFEN 795/2025 regulamenta a atuação da enfermagem na vacinação. Entre as atividades privativas do enfermeiro estão organizar, planejar e supervisionar a sala de vacina, supervisionar técnicos e auxiliares e supervisionar a cadeia de frio (item 1.1, VIII). O técnico e o auxiliar atuam sempre sob orientação e supervisão do enfermeiro e, nessa condição, monitoram a temperatura e executam o plano de contingência (item 1.3, VI e XI). O curso de 40 horas é qualificação recomendada, e não transfere atribuição privativa.",
+"porAlt": [
+"O técnico monitora a temperatura, mas sempre sob supervisão do enfermeiro.",
+"A resolução atribui a supervisão da cadeia de frio da sala de vacina ao enfermeiro.",
+"Correta: supervisionar a cadeia de frio é privativo do enfermeiro, que supervisiona a equipe.",
+"Há divisão de atribuições na resolução; a supervisão é privativa do enfermeiro.",
+"O curso de 40 horas é qualificação recomendada e não transfere a supervisão ao auxiliar."
+]
+},
+{
+"q": "No fim da tarde, uma mãe chega à sala de vacina com o filho de 2 meses para as vacinas da idade. A técnica sugere voltar no dia seguinte, para não abrir um frasco multidose apenas para uma criança e evitar perda de doses. Pela IN do calendário de 2026, qual é a orientação adequada?",
+"alts": [
+"Agendar para o dia seguinte, pois evitar perdas tem prioridade sobre o atraso",
+"Vacinar hoje apenas as vacinas de frasco unidose e adiar as multidose",
+"Agendar para o dia de rotina, já que a criança não está em atraso",
+"Adiar até reunir cinco crianças, número mínimo para abrir um frasco",
+"Vacinar hoje, pois a organização do serviço deve preservar a oportunidade"
+],
+"gab": 4,
+"tema": "imuniza",
+"sub": "Rede de frio e conservação",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "Nas Informações Gerais, a IN 2026 afirma que a vacinação de rotina é o mais alto nível de prioridade em saúde pública e que a organização operacional dos serviços, inclusive quando relacionada ao uso de frascos multidose, deve preservar a oportunidade de vacinação. A redução de perdas cabe à gestão de estoques: monitorar validade e movimentação e direcionar estratégias a grupos e territórios com baixa cobertura. Mandar a criança embora para poupar doses cria oportunidade perdida e risco de abandono do esquema.",
+"porAlt": [
+"A IN dá prioridade à oportunidade de vacinar; perda de doses se controla na gestão do estoque.",
+"Adiar parte das vacinas também perde a oportunidade que a IN manda preservar.",
+"A criança está na agenda oportuna hoje; adiar cria oportunidade perdida.",
+"A IN não fixa número mínimo de pessoas para abrir frasco multidose.",
+"Correta: a organização do serviço, inclusive com frasco multidose, deve preservar a oportunidade."
+]
+},
+{
+"q": "A coordenadora de imunização de um município verifica que um lote de vacina meningocócica ACWY vence em 60 dias e que a procura de adolescentes de 11 a 14 anos está baixa, com cobertura abaixo da meta em dois bairros. Segundo as Informações Gerais da IN do calendário de 2026, qual é a estratégia esperada da gestão?",
+"alts": [
+"Direcionar vacinação aos bairros e grupos de baixa cobertura antes do vencimento",
+"Devolver o lote ao estado e suspender a oferta até chegar lote mais novo",
+"Ampliar a oferta para adultos de qualquer idade, para evitar perder o lote",
+"Aguardar o vencimento e registrar a perda, pois a procura é espontânea",
+"Aplicar uma segunda dose nos adolescentes já vacinados para consumir o estoque"
+],
+"gab": 0,
+"tema": "imuniza",
+"sub": "Rede de frio e conservação",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A IN 2026 trata da gestão estratégica de estoques: os gestores locais devem monitorar continuamente os estoques e implementar, de forma oportuna, estratégias de vacinação voltadas aos grupos e territórios com baixas coberturas sempre que houver risco de perda por vencimento ou baixa utilização. O acompanhamento da validade, a identificação de pessoas não vacinadas e o planejamento integrado reduzem perdas evitáveis e ampliam a cobertura. Mudar a indicação da vacina ou aplicar doses fora do esquema não é estratégia prevista; a ACWY do adolescente segue a janela de 11 a 14 anos, 11 meses e 29 dias.",
+"porAlt": [
+"Correta: a IN pede estratégias para grupos e territórios de baixa cobertura quando há risco de perda.",
+"Suspender a oferta aumenta a lacuna de cobertura e não está entre as estratégias da IN.",
+"A indicação da vacina não muda para evitar perdas; a ACWY tem público definido na IN.",
+"A IN pede gestão proativa; aguardar o vencimento contraria a orientação de reduzir perdas.",
+"Dose fora do esquema não é estratégia de estoque; a ACWY do adolescente é dose única."
+]
+},
+{
+"q": "Após excursão de temperatura de +10 °C por cerca de 3 horas, a enfermeira da sala de vacina suspendeu o uso, manteve os frascos a +2 °C a +8 °C identificados como sob suspeita e registrou as leituras e o tempo de exposição. Uma técnica pergunta quem decide se os frascos serão usados ou descartados. Qual é a resposta correta?",
+"alts": [
+"A própria enfermeira, conforme o tempo de exposição registrado no mapa",
+"O laboratório produtor, consultado por telefone pela própria equipe da sala",
+"A coordenação de imunização, por parecer emitido após o formulário de suspeita",
+"A vigilância sanitária municipal, depois de uma inspeção presencial da câmara fria",
+"Ninguém precisa decidir, pois toda excursão acima de +8 °C exige descarte"
+],
+"gab": 2,
+"tema": "imuniza",
+"sub": "Rede de frio e conservação",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "tit",
+"base": "Manual de Rede de Frio do Programa Nacional de Imunizações, 5ª edição, 2017 (MS)",
+"coment": "Diante de excursão de temperatura, o serviço suspende o uso, mantém os frascos refrigerados e identificados como imunobiológicos sob suspeita, registra o ocorrido e preenche o formulário de avaliação de imunobiológicos sob suspeita, encaminhado à coordenação de imunização. É essa instância que emite o parecer técnico de liberar o produto, que retorna ao estoque e ao uso, ou de inutilizá-lo, com descarte conforme a norma e registro da perda. A equipe local não descarta por conta própria nem retoma o uso antes do parecer, qualquer que tenha sido o tempo de exposição.",
+"porAlt": [
+"A equipe local registra e comunica, mas não decide sozinha o destino dos frascos.",
+"A avaliação é feita pela coordenação de imunização, a partir do formulário do serviço.",
+"Correta: o formulário vai à coordenação de imunização, que emite o parecer de liberar ou inutilizar.",
+"O fluxo de imunobiológicos sob suspeita é do programa de imunização, não da vigilância sanitária.",
+"Não há descarte automático; a decisão depende do parecer técnico da coordenação."
+]
+},
+{
+"q": "Menina de 2 anos, saudável, chega à UBS sem cicatriz vacinal e sem registro de BCG no cartão; nasceu em casa e nunca foi vacinada. Está assintomática e sem sinais de imunodepressão. A enfermeira decide vacinar. Pela Instrução Normativa do calendário de 2026, como deve ser aplicada a BCG?",
+"alts": [
+"0,05 mL por via intradérmica, na inserção inferior do deltoide direito",
+"0,1 mL por via subcutânea, na região posterior do braço direito",
+"Não aplicar, pois a BCG de rotina só é feita até os 12 meses de vida",
+"0,1 mL por via intradérmica, na inserção inferior do deltoide direito",
+"0,1 mL por via intradérmica, na inserção do deltoide do braço esquerdo"
+],
+"gab": 3,
+"tema": "imuniza",
+"sub": "Técnica de aplicação",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A IN 2026 permite vacinar com BCG a criança ainda não vacinada até 4 anos, 11 meses e 29 dias, se assintomática, sem sinais de imunodepressão e com avaliação pelo serviço. O volume depende da idade: 0,05 mL em menores de 1 ano e 0,1 mL a partir de 1 ano. A via é intradérmica, no braço direito, ao nível da inserção inferior do deltoide, padrão que facilita identificar a cicatriz nas avaliações. Se esse local não puder ser usado, aplica-se em local alternativo e ele é registrado no cartão e no sistema de informação.",
+"porAlt": [
+"O volume de 0,05 mL é para menores de 1 ano; aos 2 anos a dose é de 0,1 mL.",
+"A BCG é estritamente intradérmica; a via subcutânea não é usada para essa vacina.",
+"Na rotina, a BCG pode ser feita até 4 anos, 11 meses e 29 dias na criança não vacinada.",
+"Correta: a partir de 1 ano, 0,1 mL intradérmico na inserção inferior do deltoide direito.",
+"O local padronizado é o braço direito; o esquerdo só se usa como alternativa registrada."
+]
+},
+{
+"q": "Adolescente de 17 anos, sem comprovação de vacina hepatite B, vai iniciar o esquema na UBS. O técnico de enfermagem prepara a dose pediátrica de 0,5 mL para aplicar na região glútea, por considerá-la \"músculo maior\". A enfermeira corrige a técnica. Pela IN de 2026, qual é a forma correta?",
+"alts": [
+"0,5 mL intramuscular no deltoide, por ter menos de 18 anos",
+"1,0 mL por via subcutânea no tríceps, para reduzir dor local",
+"0,5 mL por via intramuscular na região glútea, como foi preparado",
+"1,0 mL por via intradérmica no antebraço, para melhor resposta",
+"1,0 mL por via intramuscular no deltoide, nunca na região glútea"
+],
+"gab": 4,
+"tema": "imuniza",
+"sub": "Técnica de aplicação",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A IN 2026 fixa o volume da vacina hepatite B pela idade: 0,5 mL em recém-nascidos, lactentes e crianças até 15 anos e 1,0 mL a partir de 16 anos. A via é intramuscular; a partir de 2 anos a aplicação pode ser feita no deltoide, conforme a massa muscular. A IN diz que a vacina não deve ser aplicada na região glútea, nem por via subcutânea ou intradérmica, pela possibilidade de menor resposta imunológica. A única exceção à via intramuscular é a subcutânea em pessoas com doença hemorrágica grave, como hemofílicos.",
+"porAlt": [
+"A partir de 16 anos o volume da hepatite B é 1,0 mL, e não a dose pediátrica.",
+"A via subcutânea só é aceita em doença hemorrágica grave; a rotina é intramuscular.",
+"A região glútea reduz a resposta imune à hepatite B, e o volume aos 17 anos é 1,0 mL.",
+"A via intradérmica dá menor resposta e não é prevista para a hepatite B.",
+"Correta: a partir de 16 anos, 1,0 mL intramuscular no deltoide, evitando a região glútea."
+]
+},
+{
+"q": "Lactente de 2 meses recebe a vacina rotavírus humano na UBS, junto com as injetáveis da idade. Cerca de um minuto depois, regurgita parte do conteúdo. A mãe, preocupada, pede que a dose seja repetida. Pela Instrução Normativa do calendário de 2026, qual é a conduta da equipe?",
+"alts": [
+"Não repetir a dose e manter a 2ª dose agendada para os 4 meses",
+"Repetir a dose inteira no mesmo dia, pois houve perda do conteúdo",
+"Repetir meia bisnaga, já que parte da vacina foi aproveitada",
+"Repetir na próxima semana e atrasar a 2ª dose em 7 dias",
+"Considerar a dose inválida e fazer 3 doses no total do esquema"
+],
+"gab": 0,
+"tema": "imuniza",
+"sub": "Técnica de aplicação",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A vacina rotavírus humano é oral, com volume de 1,5 mL, e deve ser administrada com todo o conteúdo da bisnaga na cavidade oral. A IN 2026 orienta que, se a criança regurgitar, cuspir ou vomitar após a vacinação, a dose não deve ser repetida. A dose é registrada normalmente e o esquema segue com a 2ª dose aos 4 meses, com 60 dias de intervalo. Para criança com sonda de alimentação, a IN orienta oferecer pequenas quantidades e aguardar a deglutição; não sendo possível a via oral, pode-se usar a sonda.",
+"porAlt": [
+"Correta: regurgitação após a vacina oral não indica repetir; o esquema segue aos 4 meses.",
+"A IN orienta não repetir a dose quando a criança regurgita, cospe ou vomita.",
+"Não existe repetição parcial; a dose regurgitada é considerada aplicada.",
+"Não se repete a dose nem se altera o intervalo padrão de 60 dias até a 2ª.",
+"O esquema da rotavírus tem 2 doses; a dose regurgitada é válida."
+]
+},
+{
+"q": "Adolescente de 12 anos com hemofilia A grave, acompanhado no hemocentro, chega à UBS sem nenhuma dose de vacina hepatite B. A família teme sangramento pela injeção intramuscular e pergunta se ele pode ser vacinado. Segundo a IN do calendário de 2026, qual é a orientação sobre a via de administração?",
+"alts": [
+"Contraindicar a vacina, pois a hemofilia grave impede qualquer aplicação injetável",
+"Usar excepcionalmente a via subcutânea, prevista para doença hemorrágica grave",
+"Aplicar por via intradérmica, que tem a mesma resposta da intramuscular",
+"Aplicar na região glútea, onde o hematoma tem menor repercussão clínica",
+"Adiar até os 18 anos, idade em que o risco de sangramento muscular diminui"
+],
+"gab": 1,
+"tema": "imuniza",
+"sub": "Técnica de aplicação",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r3",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A IN 2026 prevê que a vacina hepatite B pode ser administrada excepcionalmente por via subcutânea em pessoas com doenças hemorrágicas com tendência a sangramento grave, como hemofílicos. A mesma exceção aparece na penta, na DTP e na hepatite A, e a VIP admite a via subcutânea nas discrasias sanguíneas. Fora dessa situação, a hepatite B não deve ser aplicada na região glútea, nem por via subcutânea ou intradérmica, pela menor resposta imunológica. Hemofilia não é contraindicação, e adiar deixa o adolescente desprotegido.",
+"porAlt": [
+"Hemofilia não contraindica a vacina; a IN prevê via alternativa para esses casos.",
+"Correta: na doença hemorrágica grave, a IN admite a via subcutânea para a hepatite B.",
+"A via intradérmica não é prevista e dá menor resposta imunológica à hepatite B.",
+"A região glútea dá menor resposta e não resolve o risco de sangramento muscular.",
+"Não há motivo para adiar; a via subcutânea permite vacinar com segurança agora."
+]
+},
+{
+"q": "Adolescente de 10 anos comparece à UBS para a 1ª dose da vacina dengue. O técnico de enfermagem aspira 0,5 mL e se prepara para aplicar no deltoide por via intramuscular, como fez com a meningocócica ACWY de outro adolescente pouco antes. Pela IN do calendário de 2026, qual é a técnica correta?",
+"alts": [
+"Via intramuscular no deltoide, como em todas as vacinas do adolescente",
+"Via subcutânea ou intramuscular, a critério do profissional que aplica",
+"Via subcutânea exclusiva, na parte superior externa e posterior do braço",
+"Via intradérmica no braço direito, como a BCG, para menor reação local",
+"Via subcutânea no abdômen, preferida para vacinas atenuadas no adolescente"
+],
+"gab": 2,
+"tema": "imuniza",
+"sub": "Técnica de aplicação",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A vacina dengue (atenuada) é aplicada exclusivamente por via subcutânea, 0,5 mL, preferencialmente na parte superior externa e posterior do braço, na região do tríceps. A febre amarela também é exclusivamente subcutânea, e tríplice viral e varicela usam a mesma via e o mesmo local. A IN 2026 lembra que a via é definida pelo laboratório produtor e deve ser seguida rigorosamente; o desvio pode reduzir a eficácia ou aumentar reações locais. O abdômen, a 3 cm do umbigo, aparece só como local alternativo no Quadro 6.",
+"porAlt": [
+"A dengue não é intramuscular; a IN define via subcutânea exclusiva para ela.",
+"A via é fixada pelo fabricante e não fica a critério de quem aplica.",
+"Correta: a vacina dengue é exclusivamente subcutânea, na região do tríceps.",
+"A via intradérmica é da BCG; a dengue é subcutânea.",
+"O abdômen é local alternativo no Quadro 6; o preferencial é a região do tríceps."
+]
+},
+{
+"q": "Mulher de 26 anos, sem comprovação de tríplice viral, precisa ser vacinada antes de uma viagem, mas está com queimaduras extensas nos dois braços, em tratamento ambulatorial. A enfermeira da sala de vacina avalia onde aplicar. Segundo o Quadro 6 da IN do calendário de 2026, qual é a conduta adequada?",
+"alts": [
+"Via intramuscular no vasto lateral, pois a via pode ser adaptada ao caso",
+"Aplicar no braço queimado, já que a via subcutânea é superficial",
+"Via subcutânea no abdômen, junto ao umbigo, sem necessidade de registro",
+"Via subcutânea na face anterior e externa da coxa, registrando o local",
+"Via intradérmica na região escapular, alternativa para vacinas atenuadas"
+],
+"gab": 3,
+"tema": "imuniza",
+"sub": "Técnica de aplicação",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r3",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A tríplice viral é subcutânea, com local preferencial na parte superior externa e posterior do braço. Quando o local preferencial não serve, por lesão, imobilização ou ausência de membro, o Quadro 6 da IN 2026 lista alternativas para a via subcutânea: face anterior e externa da coxa, face anterior do antebraço, abdômen guardando 3 cm do umbigo e região escapular. A via nunca é adaptada, porque é definida pelo fabricante, e o local alternativo deve ser registrado no cartão e no sistema. Área com lesão cutânea não é usada.",
+"porAlt": [
+"A via é definida pelo fabricante e não se adapta; o que muda é o local.",
+"A IN pede área livre de lesões cutâneas; não se aplica sobre a queimadura.",
+"No abdômen guarda-se 3 cm do umbigo, e todo local alternativo deve ser registrado.",
+"Correta: a coxa é local alternativo para via subcutânea, e o local é registrado no cartão.",
+"A tríplice viral é subcutânea; a via intradérmica não se aplica a ela."
+]
+},
+{
+"q": "Menino de 18 meses vai receber a vacina influenza pela primeira vez, na campanha anual. Está saudável e com as demais vacinas em dia. A técnica de enfermagem prepara a aplicação intramuscular. Pela Instrução Normativa do calendário de 2026, qual é o volume da dose e o local preferencial?",
+"alts": [
+"0,5 mL, preferencialmente no músculo vasto lateral da coxa",
+"0,25 mL, preferencialmente no músculo deltoide do braço",
+"0,5 mL, preferencialmente no músculo deltoide do braço",
+"0,25 mL, preferencialmente na região dorsoglútea do quadril",
+"0,25 mL, preferencialmente no músculo vasto lateral da coxa"
+],
+"gab": 4,
+"tema": "imuniza",
+"sub": "Técnica de aplicação",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A IN 2026 define o volume da influenza trivalente pela idade: 0,25 mL de 6 meses a 2 anos e 0,5 mL a partir de 3 anos. A via pode ser intramuscular ou subcutânea. Em menores de 2 anos, a aplicação intramuscular é feita preferencialmente no músculo vasto lateral da coxa; a partir de 2 anos, também pode ser usado o deltoide, conforme a massa muscular. A região dorsoglútea fica como última opção, porque pode dar resposta imune abaixo do ideal. Por ser primovacinação, ele precisará de 2 doses com 30 dias de intervalo.",
+"porAlt": [
+"O volume de 0,5 mL é para quem tem 3 anos ou mais; aos 18 meses são 0,25 mL.",
+"Abaixo de 2 anos o local preferencial é o vasto lateral, não o deltoide.",
+"Aos 18 meses o volume é 0,25 mL, e o local preferencial é o vasto lateral.",
+"A dorsoglútea é a última opção, pois pode dar resposta imune abaixo do ideal.",
+"Correta: de 6 meses a 2 anos são 0,25 mL, no vasto lateral da coxa."
+]
+},
+{
+"q": "Criança de 3 anos com doença renal crônica vai iniciar o esquema da vacina covid-19, em atraso. A sala de vacina dispõe apenas da Comirnaty em frasco de tampa amarela, produto indicado pela IN do calendário de 2026 para a faixa a partir de 6 meses. Qual é o preparo e a dose corretos?",
+"alts": [
+"Diluir o frasco e aplicar 0,3 mL por via intramuscular",
+"Não diluir o frasco e aplicar 0,3 mL por via intramuscular",
+"Diluir o frasco e aplicar 0,2 mL por via intramuscular",
+"Não diluir o frasco e aplicar 0,5 mL por via intramuscular",
+"Diluir o frasco e aplicar 0,3 mL por via subcutânea"
+],
+"gab": 0,
+"tema": "imuniza",
+"sub": "Técnica de aplicação",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r3",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "Para a criança de 6 meses a 4 anos, 11 meses e 29 dias, a IN 2026 descreve duas apresentações da Comirnaty que exigem diluição: tampa vinho, com dose de 0,2 mL, e tampa amarela, com dose de 0,3 mL. A tampa azul (5 a 11 anos) e a cinza (a partir de 12 anos) não são diluídas e têm dose de 0,3 mL. A via é sempre intramuscular, no vasto lateral abaixo de 2 anos e também no deltoide a partir dessa idade. O esquema básico é de 3 doses, com 4 semanas entre a 1ª e a 2ª e 8 semanas entre a 2ª e a 3ª.",
+"porAlt": [
+"Correta: a tampa amarela é diluída, e a dose para a criança é de 0,3 mL intramuscular.",
+"A tampa amarela precisa de diluição; as que não são diluídas são a azul e a cinza.",
+"O volume de 0,2 mL corresponde ao frasco de tampa vinho, não ao de tampa amarela.",
+"Não há dose de 0,5 mL na Comirnaty, e a tampa amarela exige diluição.",
+"A vacina covid-19 é aplicada por via intramuscular, e não subcutânea."
+]
+},
+{
+"q": "Durante uma campanha, uma técnica de enfermagem recém-contratada aplica vacinas intramusculares em adultos na região dorsoglútea, alegando que dói menos. A enfermeira supervisora revisa a técnica com base no Quadro 6 da IN do calendário de 2026. Qual é a justificativa para evitar esse local?",
+"alts": [
+"É proibido por norma para qualquer injeção intramuscular em adultos",
+"Pode induzir resposta imune abaixo do ideal, ficando como última opção",
+"Só é permitido para vacinas atenuadas, que exigem músculo volumoso",
+"Causa mais febre que o deltoide, por absorção sistêmica mais rápida",
+"Exige agulha intradérmica, que não está disponível na maioria das salas"
+],
+"gab": 1,
+"tema": "imuniza",
+"sub": "Técnica de aplicação",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "O Quadro 6 da IN 2026 lista como primeira opção para a via intramuscular a região ventroglútea, o vasto lateral da coxa ou o deltoide, e deixa a dorsoglútea como outra opção. A observação do quadro explica que o dorsoglúteo, ou quadrante superior externo do glúteo, pode induzir resposta imune abaixo do ideal. O deltoide é recomendado para vacinação intramuscular a partir de 12 meses; adultos também podem receber vacinas na anterolateral da coxa, de preferência as menos reatogênicas. Não há proibição absoluta, mas o local é a última escolha.",
+"porAlt": [
+"O quadro admite a dorsoglútea como opção, embora seja a última escolha.",
+"Correta: o dorsoglúteo pode dar resposta imune abaixo do ideal e fica como última opção.",
+"Não há regra que reserve a dorsoglútea a vacinas atenuadas, em geral subcutâneas.",
+"O problema descrito na IN é a resposta imune menor, não mais febre.",
+"A via intramuscular usa agulha própria; a questão do local é a resposta imune."
+]
+},
+{
+"q": "Lactente de 9 meses está com gesso pelvipodálico, que imobiliza os dois membros inferiores, após tratamento de displasia do quadril. Hoje deve receber a 3ª dose da vacina covid-19, intramuscular, e a febre amarela. Segundo as orientações da IN do calendário de 2026, qual é a conduta para a vacina intramuscular?",
+"alts": [
+"Aplicar na região dorsoglútea, primeira opção para criança engessada",
+"Aplicar por via subcutânea no braço, já que a coxa está imobilizada",
+"Adiar todas as vacinas até a retirada definitiva do gesso pelvipodálico",
+"Usar o deltoide, atento ao nervo radial, ou vacinar na troca do gesso",
+"Aplicar a covid-19 no abdômen, a 3 cm do umbigo, por via intramuscular"
+],
+"gab": 3,
+"tema": "imuniza",
+"sub": "Técnica de aplicação",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "tit",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "Para crianças com membros imobilizados por gesso, a IN 2026 sugere programar a vacinação para o momento da troca do gesso ou usar o músculo deltoide como alternativa, com atenção ao nervo radial, que é superficial e fica próximo ao deltoide em menores de 12 meses. A via da vacina não muda: a covid-19 é intramuscular, e a via definida pelo fabricante deve ser seguida. A febre amarela é subcutânea, no tríceps, e pode ser aplicada no braço. O abdômen é local alternativo apenas para a via subcutânea, e a dorsoglútea pode dar resposta imune abaixo do ideal.",
+"porAlt": [
+"A dorsoglútea é a última opção intramuscular, pela resposta imune abaixo do ideal.",
+"A via é fixada pelo fabricante e não se troca; a covid-19 continua intramuscular.",
+"Adiar todas as vacinas não é necessário; a IN dá alternativa de local para a criança engessada.",
+"Correta: usa-se o deltoide com cuidado com o nervo radial ou vacina-se na troca do gesso.",
+"O abdômen a 3 cm do umbigo é alternativa para a via subcutânea, não para a intramuscular."
+]
+},
+{
+"q": "Mãe retorna à UBS dois dias após a vacinação do filho de 15 meses e relata febre de 38,5 °C e irritabilidade, já em melhora. A técnica de enfermagem diz que não há o que registrar, pois não está provado que a febre foi causada pela vacina. Qual conceito de ESAVI corrige o raciocínio da técnica?",
+"alts": [
+"Evento com relação causal confirmada por exame laboratorial específico e laudo",
+"Somente reação grave que exija internação em até 24 horas da vacina",
+"Ocorrência indesejada após vacinar, sem exigir relação causal comprovada",
+"Apenas reação local no sítio de aplicação, como dor e vermelhidão",
+"Evento ocorrido somente com vacinas atenuadas, nos primeiros 30 dias"
+],
+"gab": 2,
+"tema": "imuniza",
+"sub": "Eventos supostamente atribuíveis à vacinação",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Manual de Vigilância de ESAVI (MS, 2021), citado pela IN do Calendário Nacional de Vacinação 2026",
+"coment": "ESAVI, evento supostamente atribuível à vacinação ou imunização, é qualquer ocorrência médica indesejada após a vacinação, sem que a relação causal com a vacina precise estar provada. Pode ser sinal, sintoma, doença ou alteração de exame. Os casos são classificados em evento adverso grave, não grave e erro de imunização, e há eventos esperados, como dor, vermelhidão e febre, e inesperados. A notificação é feita no e-SUS Notifica por qualquer profissional de saúde; a investigação é que vai avaliar a causalidade, e não o contrário.",
+"porAlt": [
+"A definição de ESAVI não exige causalidade comprovada; ela é avaliada depois.",
+"ESAVI inclui eventos não graves; internação define gravidade, não o conceito.",
+"Correta: ESAVI é qualquer ocorrência indesejada pós-vacinação, sem causalidade provada.",
+"Reações locais são um tipo de ESAVI, mas o conceito inclui sinais sistêmicos como febre.",
+"ESAVI vale para qualquer vacina, atenuada ou não, sem prazo fixo de 30 dias."
+]
+},
+{
+"q": "Adolescente de 11 anos recebe a vacina dengue em clínica privada de vacinação e, dez minutos depois, apresenta urticária generalizada, edema de lábios e dispneia. É tratada com adrenalina e encaminhada ao hospital, onde evolui bem. Pela IN do calendário de 2026, qual é a conduta quanto à notificação e à 2ª dose?",
+"alts": [
+"Notificar só se a vacina tiver sido aplicada pelo SUS, mantendo a 2ª dose",
+"Notificar em até 7 dias e aplicar a 2ª dose em ambiente hospitalar",
+"Dispensar notificação, pois a anafilaxia foi tratada com sucesso",
+"Notificar em até 24 horas e aplicar a 2ª dose com observação de 60 minutos",
+"Notificar em até 24 horas no e-SUS Notifica e contraindicar a 2ª dose"
+],
+"gab": 4,
+"tema": "imuniza",
+"sub": "Eventos supostamente atribuíveis à vacinação",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A IN 2026, ao tratar da vacina dengue, determina que qualquer suspeita de anafilaxia pós-vacinação seja notificada imediatamente, em até 24 horas, às autoridades locais e registrada no e-SUS Notifica, módulo ESAVI, por qualquer profissional de saúde, independentemente de a vacina ter sido aplicada em serviço público ou privado. Em reação grave de hipersensibilidade ou anafilaxia à vacina ou a seus componentes, contraindica-se a dose subsequente da mesma vacina. A vacinação supervisionada por no mínimo 60 minutos é medida para reações não graves anteriores.",
+"porAlt": [
+"A notificação vale para serviço público ou privado, e anafilaxia contraindica a 2ª dose.",
+"O prazo é de até 24 horas, e a anafilaxia contraindica nova dose da mesma vacina.",
+"A anafilaxia é notificada mesmo quando tratada com sucesso; a notificação não é opcional.",
+"A supervisão de 60 minutos é para reação não grave; após anafilaxia, não se dá nova dose.",
+"Correta: notifica-se em até 24 horas no e-SUS Notifica, e a 2ª dose fica contraindicada."
+]
+},
+{
+"q": "Adolescente de 13 anos vai receber a 1ª dose da vacina dengue na UBS. Na triagem, relata anafilaxia após comer amendoim aos 8 anos, sem reação a vacinas anteriores. Não há outra contraindicação. Pela IN do calendário de 2026, qual é o tempo mínimo de observação após a aplicação?",
+"alts": [
+"Pelo menos 30 minutos, por história de reação alérgica grave",
+"Pelo menos 15 minutos, pois a alergia não foi a vacina",
+"Pelo menos 60 minutos, por vacinação supervisionada obrigatória",
+"Não vacinar, pois alergia alimentar grave contraindica a vacina",
+"Dispensar observação, pois a reação prévia foi a alimento"
+],
+"gab": 0,
+"tema": "imuniza",
+"sub": "Eventos supostamente atribuíveis à vacinação",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "Por causa de um sinal de alerta de anafilaxia identificado no monitoramento da vacina dengue (Nota Técnica 14/2025), a IN 2026 recomenda observar o vacinado: pelo menos 30 minutos para quem tem histórico de reação alérgica grave a medicamentos, alimentos ou outras vacinas, e pelo menos 15 minutos para quem não tem. A vacinação supervisionada por no mínimo 60 minutos é considerada após reação não grave a dose anterior. Alergia alimentar grave não contraindica a vacina; contraindica a hipersensibilidade a componente da vacina ou a dose anterior.",
+"porAlt": [
+"Correta: história de reação alérgica grave, inclusive a alimento, pede 30 minutos de observação.",
+"Quinze minutos é para quem não tem história de alergia grave a qualquer agente.",
+"Os 60 minutos supervisionados são para reação não grave a dose anterior da vacina.",
+"A contraindicação é a hipersensibilidade à vacina ou a seus componentes, não ao amendoim.",
+"A IN recomenda observação para todos os vacinados contra dengue, por tempo mínimo definido."
+]
+},
+{
+"q": "Lactente de 4 meses volta à UBS para a 2ª dose de penta. Após a 1ª dose, teve febre de 39,8 °C nas primeiras 24 horas, sem convulsão, sem choro prolongado e sem outros sinais, com melhora espontânea. Pela Instrução Normativa do calendário de 2026, qual é a conduta para a 2ª dose?",
+"alts": [
+"Contraindicar a penta e encaminhar ao CRIE para vacina acelular",
+"Aplicar a penta, com antitérmico no momento e em intervalos por 24 a 48 h",
+"Aplicar a penta sem nenhum cuidado adicional, pois a febre alta é esperada",
+"Adiar a 2ª dose por 6 meses, até desaparecer o risco de nova febre alta",
+"Substituir a penta pela DTP, que tem menos componentes e menos febre"
+],
+"gab": 1,
+"tema": "imuniza",
+"sub": "Eventos supostamente atribuíveis à vacinação",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "Nas precauções da penta, a IN 2026 orienta que crianças com história pessoal ou familiar de convulsão, ou com choro intenso incontrolável ou febre maior que 39,5 °C após dose anterior de penta, DTP ou DTPa, recebam antitérmico ou analgésico no momento da vacinação, com intervalos regulares nas 24 a 48 horas seguintes. Febre alta isolada não está entre as contraindicações, que são quadro neurológico em atividade, convulsão em 72 horas, episódio hipotônico-hiporresponsivo em 48 horas ou encefalopatia em 7 dias após dose anterior. A DTP é usada só nos reforços.",
+"porAlt": [
+"Febre acima de 39,5 °C isolada não contraindica a penta nem indica vacina do CRIE.",
+"Correta: mantém-se a penta, com antitérmico no momento e em intervalos por 24 a 48 horas.",
+"A IN pede antitérmico nas doses seguintes de quem teve febre acima de 39,5 °C.",
+"Adiar não reduz o risco e deixa a criança desprotegida; a IN não prevê esse adiamento.",
+"A DTP é vacina de reforço e não substitui a penta no esquema básico."
+]
+},
+{
+"q": "Mulher de 30 anos recebeu reforço de dT há 2 anos e, cerca de 8 horas depois, apresentou edema extenso, doloroso e endurado em todo o braço, avaliado como reação tipo Arthus. Agora ela pergunta à enfermeira quando poderá receber o próximo reforço. Pela IN do calendário de 2026, qual é a orientação?",
+"alts": [
+"Contraindicar definitivamente qualquer vacina com toxoide tetânico",
+"Antecipar o reforço para 5 anos, pela resposta exagerada à dose",
+"Repetir a dose agora no outro braço, sob uso de anti-histamínico",
+"Respeitar 10 anos após a última dose para fazer o próximo reforço",
+"Trocar a dT pela dTpa no próximo ano, por ser menos reatogênica"
+],
+"gab": 3,
+"tema": "imuniza",
+"sub": "Eventos supostamente atribuíveis à vacinação",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A reação tipo Arthus é uma hipersensibilidade do tipo III, mediada por imunocomplexos, que surge horas após a dose em quem tem muitos anticorpos antitoxina. Nas precauções da dT, a IN 2026 orienta que, na ocorrência de reação local grave compatível com Arthus, deve-se observar o intervalo de 10 anos após a última dose para fazer o reforço. Não é contraindicação permanente: o texto pede aguardar os 10 anos, em vez de antecipar o reforço. A dTpa da rotina é para gestantes, puérperas e trabalhadores de saúde.",
+"porAlt": [
+"Arthus não contraindica para sempre; pede apenas respeitar 10 anos até o reforço.",
+"Antecipar aumentaria o risco; após Arthus, aguarda-se o intervalo de 10 anos.",
+"Não há indicação de repetir a dose; o reforço fica para 10 anos após a última.",
+"Correta: após reação tipo Arthus, o próximo reforço respeita 10 anos da última dose.",
+"A dTpa não é alternativa para Arthus; ela é indicada a grupos específicos."
+]
+},
+{
+"q": "Em reunião de vigilância epidemiológica, a enfermeira apresenta a Portaria GM/MS 11.211/2026, que atualizou a Lista Nacional de Notificação Compulsória. Um residente pergunta como os eventos relacionados à vacinação aparecem hoje na lista e com que periodicidade devem ser notificados. Qual é a resposta correta?",
+"alts": [
+"Foi removido da lista e passou a ser monitorado só por unidades sentinela",
+"Manteve o nome de eventos adversos graves pós-vacinação, com notificação semanal",
+"Passou a se chamar ESAVI, com notificação imediata a município, estado e MS",
+"Passou a se chamar ESAVI, com notificação semanal apenas ao município",
+"Passou a incluir só óbitos pós-vacinação, notificados em até 7 dias"
+],
+"gab": 2,
+"tema": "imuniza",
+"sub": "Eventos supostamente atribuíveis à vacinação",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r3",
+"base": "Portaria GM/MS 11.211/2026 (Lista Nacional de Notificação Compulsória), art. 4º, V, e Anexo I",
+"coment": "A Portaria GM/MS 11.211, de 13 de maio de 2026, alterou nomenclaturas da Lista Nacional de Notificação Compulsória. Pelo art. 4º, inciso V, o item \"eventos adversos graves ou óbitos pós vacinação\" passou a ser \"evento supostamente atribuível à vacinação ou imunização (ESAVI)\". No Anexo I, o ESAVI aparece com notificação imediata para Ministério da Saúde, Secretaria Estadual e Secretaria Municipal. A mesma portaria removeu a covid-19 da lista e incluiu caxumba e febre do Oropouche; a SRAG é que saiu da estratégia sentinela.",
+"porAlt": [
+"A SRAG é que saiu da estratégia sentinela; o ESAVI segue na lista compulsória.",
+"O nome antigo foi substituído por ESAVI, e a notificação é imediata.",
+"Correta: a portaria renomeou o item para ESAVI, com notificação imediata às três esferas.",
+"A notificação do ESAVI é imediata e vai ao MS, ao estado e ao município.",
+"O ESAVI abrange eventos em geral, não só óbitos, com notificação imediata."
+]
+},
+{
+"q": "Homem de 67 anos procura a UBS para a vacina influenza da temporada. Relata que, no ano anterior, desenvolveu síndrome de Guillain-Barré 20 dias após a vacina influenza, com recuperação completa após internação. Pela Instrução Normativa do calendário de 2026, qual é a conduta?",
+"alts": [
+"Vacinar normalmente, pois a síndrome não tem relação com a vacina",
+"Contraindicar a vacina por toda a vida, sem necessidade de avaliação",
+"Vacinar com meia dose, para reduzir o estímulo imunológico",
+"Vacinar apenas se o intervalo desde a síndrome for maior que 42 dias",
+"Vacinar só após avaliação médica criteriosa do risco e do benefício"
+],
+"gab": 4,
+"tema": "imuniza",
+"sub": "Eventos supostamente atribuíveis à vacinação",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "Nas precauções da influenza trivalente, a IN 2026 orienta que pessoas que desenvolveram síndrome de Guillain-Barré até 42 dias após uma dose anterior da vacina só recebam nova dose após avaliação médica criteriosa da relação risco-benefício. O caso dele se enquadra: SGB 20 dias após a vacina. Não é contraindicação automática, nem vacinação de rotina sem avaliação. O prazo de 42 dias define a janela entre a vacina e o início da SGB que exige essa avaliação, e não um tempo de espera. Fracionar a dose não é prática prevista.",
+"porAlt": [
+"SGB até 42 dias após a dose pede avaliação médica antes de vacinar de novo.",
+"A IN não contraindica automaticamente; exige avaliação de risco e benefício.",
+"Não existe meia dose para adulto; o volume a partir de 9 anos é 0,5 mL.",
+"Os 42 dias são a janela entre vacina e SGB que exige avaliação, não um prazo de espera.",
+"Correta: SGB até 42 dias após influenza exige avaliação médica criteriosa antes de nova dose."
+]
+},
+{
+"q": "Criança de 15 meses é levada ao pronto-socorro 9 dias após receber tríplice viral e varicela no mesmo dia, com febre e crise convulsiva, e fica internada por 48 horas para observação. A equipe da UBS notifica o caso como ESAVI no e-SUS Notifica. Como esse evento deve ser classificado?",
+"alts": [
+"Evento adverso grave, porque exigiu hospitalização",
+"Evento adverso não grave, pois a criança se recuperou",
+"Erro de imunização, por coadministração de duas atenuadas",
+"Evento esperado e não notificável, pois febre é comum",
+"Evento grave apenas se for confirmada a causa vacinal"
+],
+"gab": 0,
+"tema": "imuniza",
+"sub": "Eventos supostamente atribuíveis à vacinação",
+"cenario": "emg",
+"comp": "aval",
+"nivel": "r1",
+"base": "Manual de Vigilância de ESAVI (MS, 2021), citado pela IN do Calendário Nacional de Vacinação 2026",
+"coment": "O Ministério da Saúde classifica como evento adverso grave aquele que requer hospitalização, ameaça a vida ou exige intervenção imediata para evitar o óbito, causa incapacidade significativa ou permanente, anomalia congênita ou óbito. A internação por 48 horas basta para a classificação, independentemente da evolução favorável e da confirmação de causalidade, que é avaliada na investigação. Não houve erro de imunização: a IN 2026 recomenda aplicar a 2ª dose de tríplice viral no mesmo dia da 1ª de varicela, em sítios distintos.",
+"porAlt": [
+"Correta: hospitalização é critério de evento adverso grave, independentemente da evolução.",
+"A boa evolução não muda a classificação; a internação já define o evento como grave.",
+"A IN recomenda tríplice viral e varicela no mesmo dia aos 15 meses; não houve erro.",
+"Todo ESAVI suspeito é notificado, e este exigiu internação, o que o torna grave.",
+"A gravidade não depende de causalidade confirmada; ESAVI dispensa essa prova."
+]
+},
+{
+"q": "Menino de 4 anos vai receber a vacina influenza na campanha anual. A mãe informa que, ao comer ovo pela primeira vez, ele apresentou apenas urticária, sem dificuldade respiratória, vômitos ou edema de face. Não há outras alergias. Pela IN do calendário de 2026, qual é a conduta da sala de vacina?",
+"alts": [
+"Vacinar sem cuidados especiais, pois houve apenas urticária",
+"Vacinar apenas em ambiente hospitalar, sob supervisão médica direta",
+"Contraindicar a vacina, pois ela é produzida em ovos",
+"Aplicar metade da dose e observar a criança por 2 horas",
+"Solicitar teste alérgico ao ovo antes de qualquer dose"
+],
+"gab": 0,
+"tema": "imuniza",
+"sub": "Eventos supostamente atribuíveis à vacinação",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "Nas precauções da influenza, a IN 2026 informa que pessoas com alergia à proteína do ovo toleram bem a vacina. Quem apresentou apenas urticária após ingerir ovo recebe a vacina sem necessidade de cuidados especiais. Quem teve sinais mais graves de anafilaxia, como angioedema, desconforto respiratório ou vômitos repetidos, é vacinado em ambiente adequado para tratar reações alérgicas graves, sob supervisão médica. A contraindicação real é anafilaxia grave após dose anterior da própria vacina, e menores de 6 meses não recebem influenza.",
+"porAlt": [
+"Correta: alergia ao ovo só com urticária não exige cuidado especial para a influenza.",
+"Ambiente de urgência com supervisão médica é para quem teve anafilaxia grave ao ovo.",
+"Alergia ao ovo não contraindica a influenza; a IN relata boa tolerância à vacina.",
+"Não existe meia dose como precaução; o volume aos 4 anos é 0,5 mL.",
+"A IN não exige teste alérgico antes da vacina influenza em quem teve urticária."
+]
+},
+{
+"q": "Recém-nascido a termo, 3.200 g, nasce de parto vaginal; a mãe tem HBsAg positivo confirmado no pré-natal. O bebê está estável no alojamento conjunto, com 2 horas de vida. Pela IN do calendário de 2026, qual é a imunoprofilaxia contra hepatite B indicada para ele?",
+"alts": [
+"Apenas a vacina monovalente, pois a imunoglobulina é reservada a prematuros",
+"Vacina e imunoglobulina anti-hepatite B, em sítios distintos, nas primeiras 12 h",
+"Vacina e imunoglobulina misturadas na mesma seringa, no vasto lateral",
+"Apenas a imunoglobulina ao nascer, com a vacina adiada para a penta aos 2 meses",
+"Vacina ao nascer e imunoglobulina somente se o anti-HBs vier negativo"
+],
+"gab": 1,
+"tema": "imuniza",
+"sub": "Imunobiológicos especiais (CRIE)",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 e Manual dos CRIE, 6ª edição, 2023 (MS)",
+"coment": "A IN 2026 recomenda que, logo após o nascimento, o filho de mãe HBsAg positiva receba 1 dose de imunoglobulina humana anti-hepatite B e a 1ª dose da vacina hepatite B monovalente, em sítios musculares distintos. A vacina deve ser feita na sala de parto ou nas primeiras 12 horas; não sendo possível, em até 24 horas. A vacina isolada nas primeiras 12 horas já é altamente eficaz contra a transmissão vertical, e a imunoglobulina dá proteção adicional, podendo ser aplicada no máximo até 7 dias após o parto. O esquema segue com a penta aos 2, 4 e 6 meses.",
+"porAlt": [
+"A imunoglobulina é indicada a todo filho de mãe HBsAg positiva, não só a prematuros.",
+"Correta: vacina e imunoglobulina em sítios distintos, preferencialmente nas primeiras 12 horas.",
+"Vacina e imunoglobulina não se misturam; são aplicadas em sítios musculares distintos.",
+"A vacina é a medida principal e não pode ser adiada para a penta aos 2 meses.",
+"Anti-HBs não orienta a imunoprofilaxia ao nascer; ele é feito após o esquema completo."
+]
+},
+{
+"q": "Recém-nascido com 4 dias de vida recebeu a vacina hepatite B na sala de parto. Só hoje chega o resultado do HBsAg materno, que veio positivo. O bebê não recebeu imunoglobulina e está bem, em aleitamento materno. Pela IN do calendário de 2026, qual é a conduta?",
+"alts": [
+"Não aplicar imunoglobulina, pois o prazo dela é de até 24 horas de vida",
+"Repetir a vacina hoje junto com a imunoglobulina e reiniciar todo o esquema",
+"Aplicar a imunoglobulina anti-hepatite B hoje, pois o prazo é de até 7 dias",
+"Aplicar a imunoglobulina apenas se o bebê tiver anti-HBs negativo",
+"Não aplicar, pois a vacina sozinha já garante proteção completa ao bebê"
+],
+"gab": 2,
+"tema": "imuniza",
+"sub": "Imunobiológicos especiais (CRIE)",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 e Manual dos CRIE, 6ª edição, 2023 (MS)",
+"coment": "Na imunoprofilaxia do filho de mãe HBsAg positiva, a IN 2026 diz que a imunoglobulina anti-hepatite B deve ser aplicada no máximo até 7 dias após o parto. As 24 horas são o limite para a vacina quando não foi possível aplicá-la nas primeiras 12 horas. Como o bebê já recebeu a vacina na sala de parto, a dose é válida e não se repete; falta a imunoglobulina, que ainda pode ser feita no 4º dia. Depois, o esquema segue com a penta aos 2, 4 e 6 meses e anti-HBs entre 30 e 60 dias após a última dose.",
+"porAlt": [
+"As 24 horas são o prazo da vacina; a imunoglobulina pode ser feita até 7 dias.",
+"A vacina do nascimento é válida; não se repete a dose nem se reinicia o esquema.",
+"Correta: a imunoglobulina ainda está no prazo de até 7 dias após o parto.",
+"Não se espera sorologia para aplicar a imunoglobulina; o anti-HBs é feito após o esquema.",
+"A imunoglobulina dá proteção adicional à vacina e segue indicada até 7 dias de vida."
+]
+},
+{
+"q": "Lactente de 7 meses, filho de mãe HBsAg positiva, recebeu imunoglobulina e vacina hepatite B ao nascer e as 3 doses de penta aos 2, 4 e 6 meses. A enfermeira da UBS organiza o seguimento. Pela IN do calendário de 2026, quando deve ser solicitada a dosagem de anti-HBs?",
+"alts": [
+"Logo após a dose do nascimento, antes de iniciar a penta",
+"Somente aos 5 anos, antes da entrada da criança na escola",
+"Seis meses após a última dose, junto com o HBsAg da criança",
+"Entre 30 e 60 dias após a última dose do esquema básico",
+"Não há indicação de sorologia para criança vacinada no prazo"
+],
+"gab": 3,
+"tema": "imuniza",
+"sub": "Imunobiológicos especiais (CRIE)",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 e Manual dos CRIE, 6ª edição, 2023 (MS)",
+"coment": "A IN 2026 orienta avaliar a soroconversão do filho de mãe HBsAg positiva pela dosagem de anticorpos contra o HBsAg (anti-HBs) entre 30 e 60 dias após a última dose do esquema básico. A mesma avaliação é indicada para crianças nascidas de mãe com HIV. Lactentes de mãe HBsAg positiva estão entre os grupos que devem ser revacinados se o anti-HBs ficar abaixo de 10 mUI/mL após esquema completo, conforme o Manual dos CRIE de 2023. Como a 3ª penta foi aos 6 meses, a coleta fica entre 7 e 8 meses de idade.",
+"porAlt": [
+"A sorologia avalia a resposta ao esquema completo, e não à dose do nascimento.",
+"Esperar até 5 anos atrasaria a revacinação de quem não respondeu à vacina.",
+"O prazo da IN é de 30 a 60 dias após a última dose, e não de 6 meses.",
+"Correta: o anti-HBs é dosado entre 30 e 60 dias após a última dose do esquema básico.",
+"Filho de mãe HBsAg positiva tem indicação de sorologia pós-vacinal pela IN."
+]
+},
+{
+"q": "Enfermeira de 32 anos, de um hospital geral, completou 3 doses de vacina hepatite B há 2 meses. O anti-HBs solicitado pelo serviço de saúde ocupacional veio 4 mUI/mL. Ela não tem doenças crônicas nem imunodepressão. Pela IN do calendário de 2026, qual é a conduta?",
+"alts": [
+"Considerar imune, pois 3 doses completas garantem proteção definitiva",
+"Aplicar 1 dose de reforço só se houver acidente com material biológico",
+"Repetir o anti-HBs em 5 anos e revacinar apenas se continuar baixo",
+"Contraindicar novas doses, por ausência de resposta à vacina",
+"Revacinar, por anti-HBs abaixo de 10 mUI/mL após esquema completo"
+],
+"gab": 4,
+"tema": "imuniza",
+"sub": "Imunobiológicos especiais (CRIE)",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 e Manual dos CRIE, 6ª edição, 2023 (MS)",
+"coment": "A revacinação contra hepatite B não é rotina para imunocompetentes vacinados. A IN 2026, porém, manda revacinar quando o anti-HBs for menor que 10 mUI/mL após esquema básico completo de pelo menos 3 doses em grupos definidos: lactentes de mãe HBsAg positiva, pacientes em hemodiálise, profissionais de saúde e pessoas com imunossupressão, como transplantados de medula, pessoas com HIV e em quimioterapia. Os detalhes do esquema de revacinação estão no Manual dos CRIE de 2023. Ausência de resposta não contraindica novas doses.",
+"porAlt": [
+"Profissional de saúde com anti-HBs abaixo de 10 mUI/mL após 3 doses deve ser revacinado.",
+"A revacinação não espera acidente; ela é indicada pelo anti-HBs baixo no profissional.",
+"Adiar a conduta por 5 anos deixa a profissional desprotegida diante da exposição.",
+"Não responder ao esquema não contraindica a vacina; indica a revacinação.",
+"Correta: anti-HBs abaixo de 10 mUI/mL em profissional de saúde vacinado indica revacinação."
+]
+},
+{
+"q": "Gestante de 22 semanas, sem história de varicela e sem vacina, conta que há 3 dias passou a tarde com o sobrinho, que apresentou as lesões de varicela no dia seguinte à visita. Está assintomática. Pela IN do calendário de 2026, qual é a conduta indicada para ela?",
+"alts": [
+"Imunoglobulina antivaricela-zóster, ainda dentro do prazo de 96 horas",
+"Vacina varicela de bloqueio, ainda dentro do prazo de 120 horas",
+"Nenhuma conduta, pois a gestação já está além de 16 semanas",
+"Vacina varicela agora e imunoglobulina após o parto, se necessário",
+"Imunoglobulina antivaricela-zóster só se surgirem lesões vesiculares"
+],
+"gab": 0,
+"tema": "imuniza",
+"sub": "Imunobiológicos especiais (CRIE)",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 e Manual dos CRIE, 6ª edição, 2023 (MS)",
+"coment": "A vacina varicela é atenuada e contraindicada na gestação. Para gestante suscetível exposta, em qualquer fase da gestação, a IN 2026 recomenda a imunoglobulina humana antivaricela-zóster (IGHVZ) o mais precocemente possível, de preferência nas primeiras 24 a 48 horas, com prazo de até 96 horas após o contato. A indicação é preventiva, não terapêutica, e reduz a gravidade da doença. A vacina de bloqueio, em até 120 horas, é para contatos elegíveis à vacina. O risco de varicela congênita é maior nas primeiras 16 semanas, mas a gestante segue com indicação de IGHVZ.",
+"porAlt": [
+"Correta: gestante suscetível exposta recebe IGHVZ, com prazo de até 96 horas do contato.",
+"A vacina varicela é contraindicada na gestação; o bloqueio vacinal não serve para ela.",
+"A IGHVZ é indicada em qualquer fase da gestação; a varicela grave materna segue possível.",
+"A vacina é contraindicada na gestante; a imunoglobulina é que está indicada agora.",
+"A IGHVZ é preventiva e perde o prazo de 96 horas se esperar as lesões."
+]
+},
+{
+"q": "Recém-nascido de 27 semanas, internado em UTI neonatal, foi exposto a outro bebê da unidade que desenvolveu varicela. A mãe teve varicela na infância, registrada em prontuário. A equipe discute a indicação de imunoglobulina antivaricela-zóster (IGHVZ). Pela IN do calendário de 2026, qual é a conduta?",
+"alts": [
+"Não indicar, pois a história materna positiva garante anticorpos ao recém-nascido",
+"Indicar a IGHVZ, pois abaixo de 28 semanas a indicação independe da história materna",
+"Vacinar com varicela de bloqueio até 120 horas, em vez da imunoglobulina",
+"Indicar a imunoglobulina apenas se o recém-nascido pesar menos de 1.000 gramas",
+"Isolar o bebê e aguardar sinais clínicos para decidir pela imunoglobulina"
+],
+"gab": 1,
+"tema": "imuniza",
+"sub": "Imunobiológicos especiais (CRIE)",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "tit",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 e Manual dos CRIE, 6ª edição, 2023 (MS)",
+"coment": "Pela IN 2026, com base no Manual dos CRIE de 2023, a IGHVZ é recomendada para o recém-nascido cuja mãe teve varicela nos 5 últimos dias de gestação ou até 48 horas após o parto; para o prematuro de 28 a 36 semanas exposto à varicela quando a mãe tem história negativa; e para o prematuro com menos de 28 semanas ou menos de 1.000 g exposto, independentemente da história materna. O prematuro extremo recebe pouca IgG transplacentária, que passa sobretudo no fim da gestação. A vacina varicela é contraindicada abaixo de 9 meses.",
+"porAlt": [
+"Abaixo de 28 semanas a passagem de anticorpos é insuficiente; a história materna não basta.",
+"Correta: prematuro com menos de 28 semanas exposto recebe IGHVZ, qualquer que seja a história materna.",
+"A vacina varicela é contraindicada em menores de 9 meses; o recém-nascido recebe IGHVZ.",
+"Menos de 1.000 g é critério alternativo; com 27 semanas a idade gestacional já indica a IGHVZ.",
+"A IGHVZ é preventiva e tem prazo de até 96 horas; esperar sinais perde a indicação."
+]
+},
+{
+"q": "Lactente de 4 meses apresentou, cerca de 6 horas após a 1ª dose de penta, palidez, hipotonia e diminuição da resposta a estímulos, com recuperação espontânea, quadro avaliado como episódio hipotônico-hiporresponsivo. Pela IN do calendário de 2026, qual é a conduta para as próximas doses contra coqueluche?",
+"alts": [
+"Manter a penta com antitérmico nas 24 a 48 horas seguintes",
+"Substituir a penta pela DTP, que tem menos componentes associados",
+"Contraindicar penta e DTP e encaminhar ao CRIE para vacina especial",
+"Suspender toda vacinação contra coqueluche até os 7 anos de idade",
+"Manter a penta, pois o episódio teve recuperação espontânea e rápida"
+],
+"gab": 2,
+"tema": "imuniza",
+"sub": "Imunobiológicos especiais (CRIE)",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 e Manual dos CRIE, 6ª edição, 2023 (MS)",
+"coment": "A IN 2026 contraindica a penta e a DTP quando, após dose anterior, a criança apresenta convulsão nas primeiras 72 horas, episódio hipotônico-hiporresponsivo nas primeiras 48 horas ou encefalopatia aguda grave em até 7 dias, além de quadro neurológico em atividade. Crianças que tiveram evento adverso grave com vacina de pertussis de células inteiras podem receber vacinas especiais, com componente pertussis acelular, na Rede de Imunobiológicos Especiais (Portaria GM/MS 6.623/2025) e pelo Manual dos CRIE de 2023. O antitérmico profilático é conduta para febre alta, não para esse episódio.",
+"porAlt": [
+"Antitérmico é a precaução para febre alta; episódio hipotônico em 48 horas contraindica a penta.",
+"A DTP tem pertussis de células inteiras e também fica contraindicada nesse caso.",
+"Correta: o episódio em 48 horas contraindica penta e DTP, e a criança vai ao CRIE.",
+"A proteção contra coqueluche continua com vacina especial do CRIE, sem suspender.",
+"A recuperação espontânea não retira a contraindicação prevista na IN."
+]
+},
+{
+"q": "Rapaz de 20 anos vivendo com HIV, em uso regular de antirretrovirais, comparece à UBS com prescrição médica de vacina HPV. Nunca recebeu nenhuma dose. Pela estratégia especial para grupos prioritários descrita na IN do calendário de 2026, qual é o esquema indicado?",
+"alts": [
+"Dose única, como no resgate até 19 anos",
+"2 doses, no esquema 0 e 6 meses",
+"Não vacinar, pois o limite é 19 anos",
+"3 doses, no esquema 0, 2 e 6 meses",
+"3 doses, com 30 dias entre cada uma"
+],
+"gab": 3,
+"tema": "imuniza",
+"sub": "Imunobiológicos especiais (CRIE)",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r3",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+"coment": "A IN 2026 prevê a vacinação de grupos prioritários para HPV em estratégia especial, mediante prescrição, em qualquer sala de vacina do SUS. Imunodeprimidos de 9 a 45 anos, incluindo pessoas vivendo com HIV/aids, transplantados e pacientes oncológicos, recebem 3 doses, com 2 meses entre a 1ª e a 2ª e 6 meses entre a 1ª e a 3ª (0, 2 e 6 meses). O mesmo esquema vale para usuários de PrEP de 15 a 45 anos e mulheres tratadas de NIC 2, NIC 3 ou adenocarcinoma in situ. A dose única é da rotina de 9 a 14 anos e do resgate até 19 anos.",
+"porAlt": [
+"A dose única é da rotina e do resgate; imunodeprimidos recebem 3 doses.",
+"Duas doses (0 e 6 meses) são para vítimas de abuso sexual de 9 a 14 anos.",
+"A estratégia especial para imunodeprimidos vai de 9 a 45 anos de idade.",
+"Correta: imunodeprimido de 9 a 45 anos recebe 3 doses, no esquema 0, 2 e 6 meses.",
+"O intervalo do esquema é 0, 2 e 6 meses, e não 30 dias entre as doses."
+]
+},
+{
+"q": "Adolescente de 15 anos vivendo com HIV vai se mudar para área com circulação confirmada de febre amarela e nunca recebeu a vacina. Está assintomático, e o último exame mostra 280 linfócitos T CD4+ por mm³. Segundo o Quadro 3 da IN do calendário de 2026, como se classifica e qual é a conduta?",
+"alts": [
+"Alteração ausente; vacinar sem necessidade de avaliação adicional",
+"Alteração grave; vacina contraindicada até haver reconstrução imune",
+"Alteração moderada; vacina contraindicada em qualquer situação clínica",
+"Não se classifica, pois o HIV sempre contraindica a febre amarela",
+"Alteração moderada; avaliar o risco-benefício antes de vacinar o adolescente"
+],
+"gab": 4,
+"tema": "imuniza",
+"sub": "Imunobiológicos especiais (CRIE)",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r3",
+"base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 e Manual dos CRIE, 6ª edição, 2023 (MS)",
+"coment": "A IN 2026 usa a contagem de linfócitos T CD4+ como parâmetro para a vacina febre amarela em pessoas vivendo com HIV, pelo Quadro 3, extraído do Manual dos CRIE de 2023. A partir de 13 anos: 350 ou mais, alteração ausente; entre 200 e 350, moderada; abaixo de 200, grave. Sem alteração, vacina-se; com alteração moderada, considera-se o risco-benefício; com alteração grave, a vacina está contraindicada, e se possível adia-se até reconstrução imune com antirretrovirais. Com 280 células/mm³ e mudança para área de circulação, a decisão é individual.",
+"porAlt": [
+"A partir de 13 anos, ausência de alteração exige 350 células/mm³ ou mais.",
+"Alteração grave, a partir de 13 anos, é abaixo de 200 células/mm³.",
+"Na alteração moderada a IN manda considerar o risco-benefício, sem proibir.",
+"HIV não contraindica por si só; a decisão depende do CD4 e da clínica.",
+"Correta: 280 células/mm³ aos 15 anos é alteração moderada, com avaliação de risco-benefício."
+]
+},
+{
+"q": "Paciente de 58 anos, internado na clínica médica por pielonefrite, tem prescrição de 1.000 mL de soro glicosado a 5% para correr em 6 horas. Não há bomba de infusão livre, e a enfermeira instala equipo de macrogotas cujo fator, impresso na embalagem, é de 20 gotas/mL. Qual gotejamento deve regular?",
+"alts": [
+"1 gota por minuto.",
+"3.333 gotas por minuto.",
+"56 gotas por minuto.",
+"167 gotas por minuto.",
+"500 gotas por minuto."
+],
+"gab": 2,
+"tema": "farmaco",
+"sub": "Gotejamento e bomba de infusão",
+"cenario": "enf",
+"comp": "calc",
+"nivel": "r1",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (conferência do gotejamento)",
+"coment": "Com o tempo em horas, macrogotas por minuto = volume ÷ (horas × 3): 1.000 ÷ 18 = 55,6, arredondado para 56 gotas/min, porque gotas se contam inteiras. Conferência por outro caminho: 1.000 mL × 20 gotas ÷ 360 minutos = 55,6. O valor 167 é o de microgotas (1.000 ÷ 6, numericamente igual aos mL/h); 500 vem de multiplicar por 3 em vez de dividir; 1 gota resulta de pôr o tempo em minutos na fórmula curta, feita para horas; 3.333 sai de multiplicar por 20 e dividir pelas horas. O fator vem da embalagem do equipo e é ele que vale; o protocolo de 2013 inclui a conferência do gotejamento no certo da dose.",
+"porAlt": [
+"Errada: usou o tempo em minutos (360) na fórmula curta, que foi feita para o tempo em horas.",
+"Errada: multiplicou por 20 e dividiu pelas 6 horas sem converter o tempo em minutos.",
+"Correta: 1.000 ÷ (6 × 3) = 55,6, arredondado para 56 gotas/min; 1.000 × 20 ÷ 360 min confirma.",
+"Errada: 167 é o número de microgotas (1.000 ÷ 6), e o equipo instalado é de macrogotas.",
+"Errada: multiplicou por 3 o valor em microgotas, quando a passagem para macrogotas pede dividir por 3."
+]
+},
+{
+"q": "Idosa de 81 anos com insuficiência cardíaca, internada na enfermaria, tem restrição hídrica e prescrição de 720 mL de soro fisiológico a 0,9% em 24 horas. Para maior precisão sem bomba de infusão, a enfermeira escolhe equipo de microgotas, de 60 microgotas por mL. Quantas microgotas por minuto devem correr?",
+"alts": [
+"30 microgotas por minuto.",
+"1.800 microgotas por minuto.",
+"0,5 microgota por minuto.",
+"10 microgotas por minuto.",
+"90 microgotas por minuto."
+],
+"gab": 0,
+"tema": "farmaco",
+"sub": "Gotejamento e bomba de infusão",
+"cenario": "enf",
+"comp": "calc",
+"nivel": "r1",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa; bula de Tridil (Cristália), equipo de microgotas de cerca de 60 microgotas/mL",
+"coment": "No equipo de microgotas, 60 microgotas formam 1 mL, e a fórmula com o tempo em minutos é volume × 60 ÷ minutos: 720 × 60 ÷ 1.440 = 30 microgotas/min. Conferência pelo atalho: microgotas por minuto são numericamente iguais aos mL/h, e 720 ÷ 24 = 30 mL/h. Em macrogotas seriam 720 ÷ (24 × 3) = 10 gotas/min; 90 resulta de multiplicar por 3 o que já está em microgotas; 0,5 esquece o fator do equipo; 1.800 divide pelas horas sem converter em minutos. Na paciente com restrição hídrica, o erro para mais significa sobrecarga de volume, e o gotejamento é cronometrado por um minuto inteiro e reconferido a cada ronda.",
+"porAlt": [
+"Correta: no equipo de microgotas, microgotas/min = volume ÷ horas = 720 ÷ 24 = 30.",
+"Errada: multiplicou por 60 e dividiu pelas horas, sem converter o tempo em minutos.",
+"Errada: dividiu o volume pelos minutos sem multiplicar pelo fator de 60 microgotas por mL.",
+"Errada: 10 é o gotejamento em macrogotas (720 ÷ 72), não em microgotas.",
+"Errada: multiplicou por 3 um valor que já estava em microgotas."
+]
+},
+{
+"q": "Às 14h, a enfermeira assume um paciente de 47 anos com frasco de 500 mL de soro fisiológico a 0,9% recém-instalado, correndo a 25 gotas por minuto em equipo de macrogotas de 20 gotas/mL. Para programar a troca do frasco, ela calcula a duração da infusão nesse ritmo. Quando o frasco deve terminar?",
+"alts": [
+"Termina por volta das 21h07.",
+"Termina por volta das 16h13.",
+"Termina por volta das 14h20.",
+"Termina por volta das 20h40.",
+"Termina às 10h do dia seguinte."
+],
+"gab": 3,
+"tema": "farmaco",
+"sub": "Gotejamento e bomba de infusão",
+"cenario": "enf",
+"comp": "calc",
+"nivel": "r2",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (gotejamento conferido)",
+"coment": "No equipo de 20 gotas/mL, 25 gotas por minuto são 25 ÷ 20 = 1,25 mL/min, ou 75 mL/h. O frasco de 500 mL dura 500 ÷ 75 = 6,67 horas; 0,67 hora × 60 = 40 minutos, logo 6 h 40 min, e a troca fica para cerca de 20h40. Conferência pela fórmula invertida: horas = volume ÷ (gotas/min × 3) = 500 ÷ 75 = 6,67. Os erros típicos: ler 6,67 h como 6 h 67 min (21h07), usar o fator de microgotas (25 mL/h, 20 horas), esquecer o fator do equipo (500 ÷ 25 = 20 minutos) ou dividir por 3 uma segunda vez (2 h 13 min).",
+"porAlt": [
+"Errada: leu 6,67 horas como 6 horas e 67 minutos, quando 0,67 hora são 40 minutos.",
+"Errada: dividiu por 3 uma segunda vez (6,67 ÷ 3 = 2,22 h), aplicando a conversão em dobro.",
+"Errada: tratou cada gota como 1 mL e dividiu 500 por 25, esquecendo o fator do equipo.",
+"Correta: 25 ÷ 20 = 1,25 mL/min, 75 mL/h; 500 ÷ 75 = 6,67 h, ou 6 h 40 min.",
+"Errada: usou o fator de microgotas (60 por mL), o que dá 25 mL/h e 20 horas."
+]
+},
+{
+"q": "Paciente de 66 anos, internado por celulite em membro inferior, tem prescrição de vancomicina diluída em 250 mL de soro fisiológico a 0,9%, para infundir em 2 horas por bomba de infusão volumétrica programada em mL/h. Qual vazão a enfermeira deve programar na bomba?",
+"alts": [
+"125 mL/h.",
+"500 mL/h.",
+"2,1 mL/h.",
+"250 mL/h.",
+"42 mL/h."
+],
+"gab": 0,
+"tema": "farmaco",
+"sub": "Gotejamento e bomba de infusão",
+"cenario": "enf",
+"comp": "calc",
+"nivel": "r1",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), via certa (velocidade de infusão prescrita)",
+"coment": "A bomba volumétrica é programada em mL/h: volume ÷ tempo em horas = 250 ÷ 2 = 125 mL/h. Conferência: 125 mL/h × 2 h = 250 mL, exatamente o volume prescrito. O valor 42 corresponde ao gotejamento em macrogotas (250 ÷ 6) e não se digita na bomba; 2,1 é a vazão em mL por minuto (250 ÷ 120); 500 vem de multiplicar o volume pelo tempo; 250 mL/h terminaria a infusão em 1 hora, com o dobro da velocidade prescrita. O protocolo de 2013 manda conferir diluente, volume e velocidade antes de toda administração endovenosa, e a programação da bomba é parte dessa conferência.",
+"porAlt": [
+"Correta: 250 mL ÷ 2 h = 125 mL/h; 125 × 2 devolve os 250 mL prescritos.",
+"Errada: multiplicou o volume pelo tempo em vez de dividir.",
+"Errada: 2,1 é a vazão em mL por minuto (250 ÷ 120), não por hora.",
+"Errada: ignora o tempo prescrito e encerraria a infusão em 1 hora, o dobro da velocidade.",
+"Errada: 42 é o gotejamento em macrogotas (250 ÷ 6), que não serve para programar bomba."
+]
+},
+{
+"q": "Criança de 9 anos, 30 kg, internada por pneumonia, tem prescrição de ceftriaxona 750 mg por via endovenosa. Na unidade há frasco-ampola de 1 g, que a enfermeira reconstitui com 10 mL de água para injetáveis; o enunciado considera o volume final igual ao do diluente. Quantos mililitros deve aspirar?",
+"alts": [
+"2,5 mL.",
+"0,75 mL.",
+"7,5 mL.",
+"75 mL.",
+"13,3 mL."
+],
+"gab": 2,
+"tema": "farmaco",
+"sub": "Cálculo de dose e diluição",
+"cenario": "enf",
+"comp": "calc",
+"nivel": "r1",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (reconstituição e volume final)",
+"coment": "Após a reconstituição, o frasco tem 1.000 mg em 10 mL, ou 100 mg/mL. A regra de três põe grandeza igual sob grandeza igual: 1.000 mg estão para 10 mL assim como 750 mg estão para x; x = 750 × 10 ÷ 1.000 = 7,5 mL. Conferência: 750 mg são três quartos de 1 g, e três quartos de 10 mL são 7,5 mL. 13,3 mL vem da regra invertida e ultrapassa o volume do frasco; 0,75 e 75 mL são erros de vírgula; 2,5 mL é o que sobra, correspondente aos 250 mg não prescritos. Quando a bula informa volume final diferente do diluente, a concentração se calcula pelo volume final.",
+"porAlt": [
+"Errada: é o volume que sobra no frasco, com os 250 mg não prescritos.",
+"Errada: erro de vírgula, dez vezes menos que a dose prescrita.",
+"Correta: 1.000 mg em 10 mL dão 100 mg/mL; 750 ÷ 100 = 7,5 mL.",
+"Errada: erro de vírgula, dez vezes mais, impossível num frasco de 10 mL.",
+"Errada: regra de três invertida (1.000 × 10 ÷ 750), volume maior que o do próprio frasco."
+]
+},
+{
+"q": "Adolescente de 14 anos com erisipela tem prescrição de penicilina G potássica cristalina 1.500.000 unidades EV de 4/4 horas. O frasco-ampola contém 5.000.000 unidades; a enfermeira o reconstitui com 6 mL de água para injetáveis, e o enunciado informa que o pó acrescenta 2 mL ao volume. Quanto deve aspirar?",
+"alts": [
+"0,3 mL.",
+"2,4 mL.",
+"1,8 mL.",
+"3,3 mL.",
+"24 mL."
+],
+"gab": 1,
+"tema": "farmaco",
+"sub": "Cálculo de dose e diluição",
+"cenario": "enf",
+"comp": "calc",
+"nivel": "r2",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (reconstituição pelo volume final)",
+"coment": "Na reconstituição, a concentração real é a quantidade de fármaco dividida pelo volume final, não pelo volume do diluente: 6 mL de água mais 2 mL do pó dão 8 mL, e 5.000.000 ÷ 8 = 625.000 unidades/mL. Volume: 1.500.000 ÷ 625.000 = 2,4 mL. Conferência: 1,5 milhão é 0,3 de 5 milhões, e 0,3 de 8 mL são 2,4 mL. Dividir pelos 6 mL do diluente dá 1,8 mL, que contêm 1.125.000 unidades, subdose de 25%. 3,3 mL vem da razão invertida; 0,3 mL é a fração sem o volume; 24 mL é erro de vírgula. Se o enunciado não fala em volume do pó, a banca considera o volume final igual ao do diluente.",
+"porAlt": [
+"Errada: 0,3 é a fração da dose no frasco, sem multiplicar pelos 8 mL.",
+"Correta: volume final de 8 mL, 625.000 unidades/mL; 1.500.000 ÷ 625.000 = 2,4 mL.",
+"Errada: dividiu pelo volume do diluente (6 mL); os 1,8 mL contêm só 1.125.000 unidades.",
+"Errada: inverteu a razão (5.000.000 ÷ 1.500.000) e não usou o volume do frasco.",
+"Errada: erro de vírgula, três vezes o volume do frasco inteiro."
+]
+},
+{
+"q": "No pós-operatório de colecistectomia, paciente de 52 anos tem prescrição de morfina 2 mg EV lenta se dor acima de 6 em 10. A ampola disponível é de 10 mg/mL, com 1 mL. Para medir com segurança, a enfermeira dilui a ampola em água para injetáveis até completar 10 mL na seringa. Quanto deve aspirar dessa solução?",
+"alts": [
+"5 mL da solução diluída.",
+"0,2 mL da solução diluída.",
+"2 mL da solução diluída.",
+"20 mL da solução diluída.",
+"1,8 mL da solução diluída."
+],
+"gab": 2,
+"tema": "farmaco",
+"sub": "Cálculo de dose e diluição",
+"cenario": "cc",
+"comp": "calc",
+"nivel": "r1",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa; Boletim ISMP Brasil 2019 (opioides na lista de medicamentos potencialmente perigosos)",
+"coment": "Completar a ampola de 10 mg até 10 mL produz 10 mg ÷ 10 mL = 1 mg/mL. Para 2 mg: 2 ÷ 1 = 2 mL. Conferência: 2 mg são um quinto da ampola, e um quinto de 10 mL são 2 mL. 0,2 mL é o volume da ampola pura, difícil de medir com precisão; 5 mL inverte a regra; 1,8 mL toma os 9 mL de diluente pelo volume final; 20 mL é erro de dez vezes. A morfina é opioide, classe da lista de medicamentos potencialmente perigosos do ISMP Brasil (2019): a seringa diluída recebe etiqueta com a concentração final, como pede o protocolo de 2013, e o cálculo passa por dupla checagem.",
+"porAlt": [
+"Errada: dividiu 10 por 2, invertendo a regra de três.",
+"Errada: 0,2 mL seria o volume da ampola sem diluir, a 10 mg/mL.",
+"Correta: 10 mg em 10 mL dão 1 mg/mL; 2 mg ÷ 1 mg/mL = 2 mL.",
+"Errada: erro de dez vezes, maior que todo o conteúdo da seringa.",
+"Errada: tomou 9 mL de diluente como volume final, que na seringa é de 10 mL."
+]
+},
+{
+"q": "Na sala de sutura do pronto atendimento, o médico pede à enfermeira que informe quantos miligramas de lidocaína há nos 5 mL de lidocaína a 2% sem vasoconstritor já aspirados na seringa, para registrar a dose usada em um paciente de 70 kg. Quantos miligramas a seringa contém?",
+"alts": [
+"0,1 mg de lidocaína.",
+"1.000 mg de lidocaína.",
+"100 mg de lidocaína.",
+"4 mg de lidocaína.",
+"10 mg de lidocaína."
+],
+"gab": 2,
+"tema": "farmaco",
+"sub": "Cálculo de dose e diluição",
+"cenario": "emg",
+"comp": "calc",
+"nivel": "r1",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa e registro da administração",
+"coment": "Em solução de uso clínico, X% significa X gramas de soluto em 100 mL. A 2%, são 2 g, ou 2.000 mg, em 100 mL: 20 mg/mL, pela regra prática de multiplicar a porcentagem por 10. Em 5 mL: 5 × 20 = 100 mg. Conferência: 2 g em 100 mL equivalem a 0,02 g/mL; 0,02 × 5 = 0,1 g, ou 100 mg. 10 mg vem de ler 2% como 2 mg/mL; 1.000 mg, de multiplicar a porcentagem por 100; 0,1 mg é o valor em gramas registrado como miligramas; 4 mg divide em vez de multiplicar. A dose efetivamente administrada entra no registro, um dos nove certos do protocolo de 2013.",
+"porAlt": [
+"Errada: o resultado de 0,1 está em gramas; registrá-lo em miligramas erra mil vezes.",
+"Errada: multiplicou a porcentagem por 100, chegando a 200 mg/mL.",
+"Correta: 2% são 2 g em 100 mL, 20 mg/mL; 5 mL × 20 mg/mL = 100 mg.",
+"Errada: dividiu a concentração de 20 mg/mL pelo volume, em vez de multiplicar.",
+"Errada: leu 2% como 2 mg/mL, sem multiplicar a porcentagem por 10."
+]
+},
+{
+"q": "Paciente de 60 anos com dermatite exsudativa nos pés tem prescrição de imersão em solução de permanganato de potássio a 1:20.000. A filha recebeu comprimidos de 100 mg e pergunta à enfermeira da unidade básica em quanta água deve dissolver um comprimido inteiro. Qual volume deve ser orientado?",
+"alts": [
+"1 litro de água.",
+"4 litros de água.",
+"200 mL de água.",
+"2 litros de água.",
+"20 litros de água."
+],
+"gab": 3,
+"tema": "farmaco",
+"sub": "Cálculo de dose e diluição",
+"cenario": "aps",
+"comp": "calc",
+"nivel": "r2",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013) (permanganato de potássio como modelo de prescrição tópica)",
+"coment": "Proporção 1:20.000 significa 1 g de soluto em 20.000 mL de solução, isto é, 1.000 mg em 20.000 mL, ou 0,05 mg/mL. Para 100 mg: 100 × 20.000 ÷ 1.000 = 2.000 mL, 2 litros. Conferência: 100 mg são um décimo de grama, e um décimo de 20.000 mL são 2.000 mL. 20 litros e 200 mL são erros de dez vezes; 1 litro daria 1:10.000 e 4 litros, 1:40.000. Quanto maior o segundo número da proporção, mais diluída a solução. O protocolo de 2013 usa o permanganato como modelo de prescrição tópica e pede o nome por extenso, sem a fórmula química, e a conta vem antes do preparo.",
+"porAlt": [
+"Errada: daria 1:10.000, solução duas vezes mais concentrada que a prescrita.",
+"Errada: daria 1:40.000, solução duas vezes mais diluída que a prescrita.",
+"Errada: erro de dez vezes para menos; a solução ficaria a 1:2.000, muito concentrada.",
+"Correta: 1:20.000 é 1.000 mg em 20.000 mL; 100 mg pedem 100 × 20.000 ÷ 1.000 = 2.000 mL.",
+"Errada: erro de dez vezes para mais; a solução ficaria a 1:200.000."
+]
+},
+{
+"q": "Paciente de 34 anos em jejum prolongado, com episódios de hipoglicemia, tem prescrição de soro glicosado a 10%, mas a unidade só dispõe de frasco de 250 mL de glicose a 5% e ampolas de glicose a 50%. A enfermeira decide acrescentar glicose a 50% ao frasco, sem retirar volume. Quantos mililitros deve acrescentar?",
+"alts": [
+"27,8 mL de glicose a 50%.",
+"2,5 mL de glicose a 50%.",
+"50 mL de glicose a 50%.",
+"31,25 mL de glicose a 50%.",
+"25 mL de glicose a 50%."
+],
+"gab": 3,
+"tema": "farmaco",
+"sub": "Cálculo de dose e diluição",
+"cenario": "enf",
+"comp": "calc",
+"nivel": "r2",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (transformação de soro glicosado)",
+"coment": "Os 250 mL de glicose a 5% contêm 12,5 g. Acrescentando V mL de glicose a 50% (0,5V gramas), quer-se 10% no volume final: (12,5 + 0,5V) ÷ (250 + V) = 0,10, logo 12,5 + 0,5V = 25 + 0,1V, 0,4V = 12,5 e V = 31,25 mL, com volume final de 281,25 mL. Conferência pela regra das misturas: 40 partes de glicose a 5% para 5 partes de glicose a 50%, proporção de 8 para 1; 250 ÷ 8 = 31,25 mL. 27,8 mL é a resposta do método com retirada; 25 mL ignora o aumento do volume; 50 mL ignora a glicose já presente; 2,5 mL é erro de vírgula.",
+"porAlt": [
+"Errada: é a resposta do método em que se retira volume do frasco antes de repor.",
+"Errada: erro de vírgula sobre os 25 mL, que já estavam errados.",
+"Errada: calculou os 25 g de um soro a 10% como se o frasco não tivesse glicose.",
+"Correta: (12,5 + 0,5V) ÷ (250 + V) = 0,10 dá V = 31,25 mL; a regra das misturas confirma.",
+"Errada: calculou os 12,5 g que faltam sem considerar que o volume final aumenta."
+]
+},
+{
+"q": "Paciente de 72 anos, com restrição de volume, tem prescrição de 1.000 mL de soro glicosado a 10% em 24 horas. A farmácia enviou frasco de 1.000 mL de glicose a 5% e ampolas de glicose a 50%. Para manter o volume prescrito, a enfermeira vai desprezar parte do frasco e repor o mesmo volume com glicose a 50%. Qual volume troca?",
+"alts": [
+"Desprezar e repor 222,2 mL.",
+"Desprezar e repor 125 mL.",
+"Desprezar e repor 11,1 mL.",
+"Desprezar e repor 100 mL.",
+"Desprezar e repor 111,1 mL."
+],
+"gab": 4,
+"tema": "farmaco",
+"sub": "Cálculo de dose e diluição",
+"cenario": "enf",
+"comp": "calc",
+"nivel": "r3",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (transformação de soro glicosado)",
+"coment": "1.000 mL de glicose a 5% têm 50 g; a 10%, precisam ter 100 g. Retirando V mL a 5% (perde 0,05V g) e repondo V mL a 50% (ganha 0,5V g), o saldo é 0,45V = 50 g, logo V = 111,1 mL: desprezar 111,1 mL do soro e acrescentar 111,1 mL de glicose a 50%. Conferência pela regra das misturas: 40 partes a 5% para 5 partes a 50%, em 45 partes; 1.000 × 5 ÷ 45 = 111,1 mL de glicose a 50%. 125 mL é a resposta do método sem retirada, que deixaria 1.125 mL; 100 mL ignora a glicose perdida no volume desprezado; 222,2 mL ignora os 50 g já presentes; 11,1 mL é erro de vírgula.",
+"porAlt": [
+"Errada: calculou os 100 g do soro a 10% ignorando os 50 g já presentes no frasco.",
+"Errada: é a resposta do método sem retirada, que deixaria 1.125 mL no frasco.",
+"Errada: erro de vírgula; a concentração final ficaria perto de 5,5%.",
+"Errada: ignora a glicose perdida junto com o volume desprezado do frasco a 5%.",
+"Correta: 50 g faltam; cada mL trocado ganha 0,45 g; 50 ÷ 0,45 = 111,1 mL."
+]
+},
+{
+"q": "Paciente de 63 anos com potássio sérico de 3,0 mEq/L tem prescrição de 15 mEq de cloreto de potássio em 250 mL de soro fisiológico a 0,9%, em 2 horas. A ampola disponível é de cloreto de potássio a 19,1%, que, pela bula, contém 2,56 mEq/mL. Quantos mililitros da ampola a enfermeira deve acrescentar ao soro?",
+"alts": [
+"5,9 mL.",
+"1,1 mL.",
+"38,4 mL.",
+"0,8 mL.",
+"11,2 mL."
+],
+"gab": 0,
+"tema": "farmaco",
+"sub": "Cálculo de dose e diluição",
+"cenario": "enf",
+"comp": "calc",
+"nivel": "r2",
+"base": "Bula do cloreto de potássio 10%, 15% e 19,1% (Halex Istar, reg. MS 1.0311.0092); Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+"coment": "Volume = dose ÷ concentração: 15 mEq ÷ 2,56 mEq/mL = 5,86 mL, cerca de 5,9 mL. Conferência por outro caminho, com o dado da bula de que 1 g de cloreto de potássio fornece 13,41 mEq: 15 ÷ 13,41 = 1,12 g de sal; a 19,1% há 0,191 g por mL, e 1,12 ÷ 0,191 = 5,86 mL. 11,2 mL seria o volume do cloreto de potássio a 10% (1,34 mEq/mL); 38,4 mL multiplica em vez de dividir; 1,1 mL confunde gramas com mililitros; 0,8 mL divide pela porcentagem. A solução final fica em torno de 59 mEq/L e a velocidade em 7,5 mEq/h, e o cloreto de potássio concentrado exige dupla checagem.",
+"porAlt": [
+"Correta: 15 ÷ 2,56 = 5,86 mL; pelo sal, 15 ÷ 13,41 = 1,12 g e 1,12 ÷ 0,191 = 5,86 mL.",
+"Errada: parou nos 1,12 g de sal e confundiu gramas com mililitros.",
+"Errada: multiplicou a dose pela concentração em vez de dividir.",
+"Errada: dividiu 15 pela porcentagem (19,1), como se ela fosse mEq/mL.",
+"Errada: usou a concentração do cloreto de potássio a 10% (1,34 mEq/mL), que não é a ampola disponível."
+]
+},
+{
+"q": "Na enfermaria, paciente de 55 anos com hipocalemia sem sinais de gravidade, apenas com acesso venoso periférico, tem prescrição de 40 mEq de cloreto de potássio diluídos em 500 mL de soro fisiológico a 0,9%, para correr em 2 horas. Ao conferir a prescrição pelo protocolo institucional, qual conclusão a enfermeira deve tirar?",
+"alts": [
+"A concentração de 80 mEq/L excede o teto periférico; contatar o prescritor.",
+"A concentração de 80 mEq/L é o teto periférico; pode-se instalar.",
+"Trocar o diluente por soro glicosado a 5% torna a solução segura.",
+"A velocidade de 20 mEq/h excede o limite; a concentração está adequada.",
+"A concentração de 40 mEq/L está adequada; pode-se instalar como prescrito."
+],
+"gab": 0,
+"tema": "farmaco",
+"sub": "Medicamentos de alta vigilância",
+"cenario": "enf",
+"comp": "calc",
+"nivel": "r3",
+"base": "Protocolo 295 do HC-UFMG/Ebserh, Abordagem do paciente adulto com hipocalemia (2021); bula do cloreto de potássio (Halex Istar)",
+"coment": "O protocolo 295 do HC-UFMG/Ebserh (2021) recomenda solução de 20 a 40 mmol/L, sem exceder 60 mmol/L em veia periférica, e velocidade de até 20 mmol/h fora da emergência, habitualmente 10; para o potássio, 1 mEq equivale a 1 mmol. Aqui, 40 mEq em 500 mL são 80 mEq/L, acima do teto periférico, enquanto a velocidade, 40 ÷ 2 = 20 mEq/h, está no limite aceito. A conduta é não instalar e discutir com o prescritor maior volume ou outro acesso. O mesmo protocolo prefere diluir em solução salina, não glicosada. Concentração e velocidade são perguntas diferentes; 40 mEq/L é o erro de dividir por 1 litro.",
+"porAlt": [
+"Correta: 40 mEq em 0,5 L são 80 mEq/L, acima de 60 mmol/L em veia periférica.",
+"Errada: o teto em veia periférica é de 60 mmol/L, e 80 o ultrapassa.",
+"Errada: o protocolo prefere solução salina, e trocar o diluente não reduz a concentração.",
+"Errada: 20 mEq/h é o limite aceito fora da emergência; o problema é a concentração.",
+"Errada: dividiu 40 mEq por 1 litro, quando o volume da solução é de 500 mL."
+]
+},
+{
+"q": "Na UTI, paciente de 45 anos com hiperglicemia persistente inicia insulina regular contínua. A solução foi preparada com 50 unidades de insulina regular em soro fisiológico a 0,9%, completando 100 mL. A prescrição atual é de 4 unidades por hora. Em quantos mL/h a bomba deve ser programada?",
+"alts": [
+"12,5 mL/h na bomba de infusão.",
+"8 mL/h na bomba de infusão.",
+"0,08 mL/h na bomba de infusão.",
+"2 mL/h na bomba de infusão.",
+"4 mL/h na bomba de infusão."
+],
+"gab": 1,
+"tema": "farmaco",
+"sub": "Insulinas e anticoagulantes",
+"cenario": "uti",
+"comp": "calc",
+"nivel": "r2",
+"base": "Bula da insulina regular Novolin R (Novo Nordisk), estabilidade de 0,05 a 1,0 UI/mL; Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+"coment": "Concentração: 50 unidades ÷ 100 mL = 0,5 unidade/mL, dentro da faixa de estabilidade da bula da Novolin R para infusão (0,05 a 1,0 UI/mL em cloreto de sódio 0,9%). Vazão = dose por hora ÷ concentração = 4 ÷ 0,5 = 8 mL/h. Conferência: 8 mL/h × 0,5 unidade/mL = 4 unidades/h. 2 mL/h multiplica a dose pela concentração; 4 mL/h supõe a solução de 1 unidade/mL; 12,5 mL/h inverte a razão; 0,08 mL/h divide a dose pelas 50 unidades. A insulina é medicamento potencialmente perigoso, e a programação da bomba passa por dupla checagem independente.",
+"porAlt": [
+"Errada: inverteu a razão (50 ÷ 4) sem usar o volume da solução.",
+"Correta: 50 ÷ 100 = 0,5 unidade/mL; 4 ÷ 0,5 = 8 mL/h.",
+"Errada: dividiu a dose horária pelas 50 unidades da bolsa.",
+"Errada: multiplicou a dose pela concentração; entregaria só 1 unidade por hora.",
+"Errada: supõe solução de 1 unidade/mL, que não é a preparada."
+]
+},
+{
+"q": "Às 7h, paciente de 60 anos com diabetes tipo 2 tem prescrição de 22 unidades de insulina NPH e 8 unidades de insulina regular, por via subcutânea, na mesma aplicação. A enfermeira vai preparar a mistura em uma única seringa de insulina U-100. Qual a sequência de aspiração e a dose final na seringa?",
+"alts": [
+"Aspirar a regular, depois a NPH; seringa com 30 unidades.",
+"Aspirar a NPH, depois a regular; seringa com 14 unidades.",
+"Aspirar a regular, depois a NPH; seringa com 22 unidades.",
+"Aspirar a NPH, depois a regular; seringa com 30 unidades.",
+"Misturar as duas no frasco de NPH; aspirar 30 unidades."
+],
+"gab": 0,
+"tema": "farmaco",
+"sub": "Insulinas e anticoagulantes",
+"cenario": "enf",
+"comp": "calc",
+"nivel": "r1",
+"base": "Bulas de Novolin N (Novo Nordisk) e Humulin N (Eli Lilly), mistura com insulina de ação rápida; Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+"coment": "Na mistura de NPH com insulina de ação rápida, a sequência vai da insulina transparente para a turva: injetar ar no frasco de NPH sem aspirar, injetar ar no frasco de regular e aspirar a regular, voltar ao frasco de NPH e aspirar a NPH. A ordem impede que a NPH contamine o frasco de regular. A dose na seringa é a soma: 22 + 8 = 30 unidades; conferência pelo traço: a regular ocupa até a marca de 8, e a NPH completa até 30. A bula da Novolin N permite a mistura com insulina rápida, e a da Humulin N manda pôr primeiro o análogo rápido na seringa e aplicar logo após misturar.",
+"porAlt": [
+"Correta: transparente antes da turva, para não contaminar o frasco de regular; 22 + 8 = 30.",
+"Errada: ordem invertida, e 14 é a diferença entre as doses, não a soma.",
+"Errada: a ordem está certa, mas 22 unidades seria só a NPH, sem somar a regular.",
+"Errada: a dose está certa, mas a ordem leva NPH para dentro do frasco de regular.",
+"Errada: misturar nos frascos contamina a insulina e altera as doses seguintes."
+]
+},
+{
+"q": "Criança de 7 anos, 22 kg, tem prescrição de vancomicina 15 mg/kg EV, com concentração final de 5 mg/mL. O frasco-ampola de 500 mg foi reconstituído com 10 mL, e o enunciado considera o volume final igual ao do diluente. A enfermeira vai aspirar a dose e rediluir em soro fisiológico a 0,9%. Como preparar?",
+"alts": [
+"Aspirar 6,6 mL e completar até 33 mL de volume final.",
+"Aspirar 6,6 mL e acrescentar 66 mL de soro fisiológico.",
+"Aspirar 3,3 mL e completar até 66 mL de volume final.",
+"Aspirar 15,2 mL e completar até 66 mL de volume final.",
+"Aspirar 6,6 mL e completar até 66 mL de volume final."
+],
+"gab": 4,
+"tema": "farmaco",
+"sub": "Cálculo de dose e diluição",
+"cenario": "enf",
+"comp": "calc",
+"nivel": "r3",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (diluição, rediluição e volume final)",
+"coment": "Dose: 15 mg × 22 kg = 330 mg. O frasco reconstituído tem 500 mg em 10 mL, 50 mg/mL; 330 ÷ 50 = 6,6 mL. Para a concentração final prescrita de 5 mg/mL, os 330 mg precisam de 330 ÷ 5 = 66 mL de volume final, isto é, os 6,6 mL do fármaco mais 59,4 mL de diluente. Conferência: 66 mL × 5 mg/mL = 330 mg. Acrescentar 66 mL ao fármaco dá 72,6 mL e 4,5 mg/mL, o erro de tomar o diluente pelo volume final; 33 mL dobra a concentração; 3,3 mL entrega metade da dose; 15,2 mL vem da regra invertida. O protocolo exige na prescrição endovenosa o diluente, o volume e a velocidade.",
+"porAlt": [
+"Errada: 330 mg em 33 mL dão 10 mg/mL, o dobro da concentração prescrita.",
+"Errada: o volume final seria 72,6 mL e a concentração, 4,5 mg/mL; confundiu diluente com volume final.",
+"Errada: 3,3 mL contêm 165 mg, metade da dose de 330 mg.",
+"Errada: regra de três invertida (10 × 500 ÷ 330), volume maior que o do frasco.",
+"Correta: 330 mg ÷ 50 mg/mL = 6,6 mL; 330 mg ÷ 5 mg/mL = 66 mL de volume final."
+]
+},
+{
+"q": "Paciente de 70 kg com trombose venosa profunda inicia heparina não fracionada em bomba. A solução foi preparada com 25.000 unidades de heparina sódica em soro fisiológico a 0,9%, completando 500 mL. Após o bólus, a prescrição é de 1.000 unidades por hora, ajustada por nomograma. Qual vazão deve ser programada?",
+"alts": [
+"10 mL/h.",
+"2 mL/h.",
+"0,2 mL/h.",
+"20 mL/h.",
+"40 mL/h."
+],
+"gab": 3,
+"tema": "farmaco",
+"sub": "Insulinas e anticoagulantes",
+"cenario": "uti",
+"comp": "calc",
+"nivel": "r2",
+"base": "Bula do Hemofol, heparina sódica (Cristália); Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+"coment": "Concentração: 25.000 unidades ÷ 500 mL = 50 unidades/mL. Vazão = dose por hora ÷ concentração = 1.000 ÷ 50 = 20 mL/h. Conferência: 20 mL/h × 24 h = 480 mL e 24.000 unidades por dia, dentro do esquema de infusão contínua que a bula do Hemofol descreve (24.000 a 32.000 UI em 24 horas). 10 mL/h supõe 100 unidades/mL; 40 mL/h supõe a bolsa de 1.000 mL; 0,2 mL/h usa a concentração do frasco puro; 2 mL/h é erro de vírgula. A bula manda inverter a bolsa ao menos seis vezes após acrescentar a heparina, e o ajuste pelo nomograma depende de TTPa colhido por via que não seja a da infusão.",
+"porAlt": [
+"Errada: supõe 100 unidades/mL, concentração de uma solução preparada em 250 mL.",
+"Errada: erro de vírgula; entregaria um décimo da dose prescrita.",
+"Errada: usou a concentração do frasco puro, de 5.000 unidades/mL.",
+"Correta: 25.000 ÷ 500 = 50 unidades/mL; 1.000 ÷ 50 = 20 mL/h.",
+"Errada: supõe o frasco diluído em 1.000 mL, a 25 unidades/mL."
+]
+},
+{
+"q": "Paciente de 77 anos, acamado, tem prescrição de heparina 5.000 unidades por via subcutânea de 12/12 horas. O técnico de enfermagem aspirou 1 mL da ampola de 5.000 UI/0,25 mL, acreditando ser a apresentação de 5.000 UI/mL. Antes da aplicação, a enfermeira confere a seringa. Quantas unidades ela contém?",
+"alts": [
+"1.250 unidades.",
+"20.000 unidades.",
+"5.000 unidades.",
+"4.000 unidades.",
+"25.000 unidades."
+],
+"gab": 1,
+"tema": "farmaco",
+"sub": "Insulinas e anticoagulantes",
+"cenario": "enf",
+"comp": "calc",
+"nivel": "r2",
+"base": "Bula do Hemofol, heparina sódica (Cristália), apresentações de 5.000 UI/mL e 5.000 UI/0,25 mL; Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+"coment": "A ampola de uso subcutâneo do Hemofol tem 5.000 UI em 0,25 mL, ou 20.000 UI/mL; o frasco-ampola intravenoso tem 5.000 UI/mL, em 5 mL. Em 1 mL da ampola subcutânea: 1 ÷ 0,25 = 4 vezes a dose, 20.000 unidades. Conferência: 20.000 UI/mL × 1 mL = 20.000. A dose prescrita ocuparia 0,25 mL. 5.000 seria o conteúdo se a apresentação fosse a intravenosa; 1.250 inverte a razão; 25.000 é o frasco intravenoso inteiro; 4.000 confunde o fator com a dose. Confundir as duas apresentações é erro de quatro vezes no volume, e o protocolo de 2013 manda limitar apresentações e concentrações de anticoagulantes.",
+"porAlt": [
+"Errada: inverteu a razão, multiplicando 5.000 por 0,25.",
+"Correta: 5.000 ÷ 0,25 = 20.000 unidades/mL; 1 mL tem quatro vezes a dose prescrita.",
+"Errada: seria o conteúdo de 1 mL da apresentação intravenosa, não da ampola subcutânea.",
+"Errada: confundiu o fator de quatro vezes no volume com a própria dose.",
+"Errada: é o conteúdo do frasco-ampola intravenoso inteiro, de 5 mL."
+]
+},
+{
+"q": "Paciente de 65 kg em choque séptico na UTI tem prescrição de noradrenalina 0,1 mcg/kg/min. A solução padrão da unidade tem 4 mg de noradrenalina, expressos como base, em 250 mL de soro glicosado a 5%. A bomba é programada em mL/h. Qual vazão corresponde à dose prescrita?",
+"alts": [
+"0,4 mL/h.",
+"243,8 mL/h.",
+"390 mL/h.",
+"2,4 mL/h.",
+"24,4 mL/h."
+],
+"gab": 4,
+"tema": "farmaco",
+"sub": "Gotejamento e bomba de infusão",
+"cenario": "uti",
+"comp": "calc",
+"nivel": "r2",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013); Boletim ISMP Brasil 2019 (agonistas adrenérgicos endovenosos)",
+"coment": "Concentração: 4 mg = 4.000 mcg; 4.000 ÷ 250 mL = 16 mcg/mL. Dose por minuto: 0,1 × 65 = 6,5 mcg/min; por hora, 6,5 × 60 = 390 mcg/h. Vazão: 390 ÷ 16 = 24,4 mL/h. Conferência pela fórmula em uma linha, mL/h = mcg/kg/min × kg × 60 ÷ mcg/mL: 0,1 × 65 × 60 ÷ 16 = 24,375. 0,4 mL/h esquece o fator 60; 390 mL/h esquece a concentração; 243,8 mL/h converte 4 mg em 400 mcg; 2,4 mL/h é erro de vírgula. A noradrenalina é agonista adrenérgico endovenoso, da lista de medicamentos potencialmente perigosos: via exclusiva e dupla checagem da programação.",
+"porAlt": [
+"Errada: faltou multiplicar por 60 para passar de minuto para hora.",
+"Errada: converteu 4 mg em 400 mcg, com fator de conversão errado.",
+"Errada: 390 é a dose em mcg/h; faltou dividir pela concentração.",
+"Errada: erro de vírgula; entregaria um décimo da dose prescrita.",
+"Correta: 0,1 × 65 × 60 = 390 mcg/h; 390 ÷ 16 mcg/mL = 24,4 mL/h."
+]
+},
+{
+"q": "Paciente de 70 kg com choque cardiogênico recebe dobutamina em bomba a 21 mL/h. A solução foi preparada com 250 mg de dobutamina em volume final de 250 mL. Na passagem de plantão, a enfermeira confere se a dose infundida corresponde à prescrita. Qual a dose atual, em mcg/kg/min?",
+"alts": [
+"5,0 mcg/kg/min.",
+"350 mcg/kg/min.",
+"0,005 mcg/kg/min.",
+"300 mcg/kg/min.",
+"0,5 mcg/kg/min."
+],
+"gab": 0,
+"tema": "farmaco",
+"sub": "Gotejamento e bomba de infusão",
+"cenario": "uti",
+"comp": "calc",
+"nivel": "r2",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (conferência de bomba e droga vasoativa)",
+"coment": "Concentração: 250 mg em 250 mL = 1 mg/mL = 1.000 mcg/mL. Dose por hora: 21 mL/h × 1.000 = 21.000 mcg/h; por minuto, 21.000 ÷ 60 = 350 mcg/min; por quilo, 350 ÷ 70 = 5,0 mcg/kg/min. Conferência pela fórmula direta: 5 × 70 × 60 ÷ 1.000 = 21 mL/h, exatamente a vazão da bomba. 300 é a dose por quilo por hora; 350 é a dose por minuto sem o peso; 0,005 mantém a concentração em miligramas; 0,5 usa fator 100 na conversão. Na troca de plantão, conferir a programação contra a prescrição faz parte do certo da dose.",
+"porAlt": [
+"Correta: 21 mL/h × 1.000 mcg/mL ÷ 60 ÷ 70 = 5,0 mcg/kg/min.",
+"Errada: 350 é a dose em mcg por minuto; faltou dividir pelo peso.",
+"Errada: manteve a concentração em miligramas, sem converter para microgramas.",
+"Errada: 300 é a dose por quilo por hora; faltou dividir por 60.",
+"Errada: converteu miligrama em micrograma multiplicando por 100, e não por 1.000."
+]
+},
+{
+"q": "Paciente de 80 kg em choque séptico tem prescrição de noradrenalina 0,1 mcg/kg/min, expressa como base. A bula da ampola de hemitartarato de norepinefrina 2 mg/mL, com 4 mL, informa que cada mL equivale a 1 mg de base. A bolsa tem 2 ampolas em soro glicosado a 5%, com volume final de 250 mL. Qual vazão deve ser programada?",
+"alts": [
+"0,25 mL/h, calculando pela base.",
+"30 mL/h, calculando pela base.",
+"7,5 mL/h, calculando pelo sal.",
+"15 mL/h, calculando pela base.",
+"60 mL/h, calculando pela base."
+],
+"gab": 3,
+"tema": "farmaco",
+"sub": "Medicamentos de alta vigilância",
+"cenario": "uti",
+"comp": "calc",
+"nivel": "tit",
+"base": "Bula do hemitartarato de norepinefrina 2 mg/mL (Hipolabor, reg. MS 1.1343.0126); Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+"coment": "Cada ampola tem 4 mL × 2 mg/mL = 8 mg do sal, equivalentes a 4 mg de base, pela bula da Hipolabor. Duas ampolas: 8 mg de base em 250 mL, ou 32 mcg/mL. Dose: 0,1 × 80 = 8 mcg/min, ou 480 mcg/h. Vazão: 480 ÷ 32 = 15 mL/h. Conferência: 15 mL/h × 32 mcg/mL ÷ 60 ÷ 80 = 0,1 mcg/kg/min. Pelo sal, a concentração seria 64 mcg/mL e a vazão 7,5 mL/h, metade da dose prescrita em base. 30 mL/h usa a concentração de uma ampola só; 60 mL/h supõe 2 mg por ampola; 0,25 mL/h esquece o fator 60. Prescrição, rótulo e cálculo precisam usar a mesma referência, e a bula orienta veia calibrosa e vigilância do local pelo risco de necrose.",
+"porAlt": [
+"Errada: faltou multiplicar por 60 para passar de minuto para hora.",
+"Errada: usou a concentração de uma ampola só (16 mcg/mL), dobrando a dose.",
+"Errada: com 64 mcg/mL do sal, a bomba entregaria metade da dose prescrita em base.",
+"Correta: 8 mg de base em 250 mL dão 32 mcg/mL; 0,1 × 80 × 60 ÷ 32 = 15 mL/h.",
+"Errada: supôs 2 mg por ampola, ignorando que cada uma tem 4 mL."
+]
+},
+{
+"q": "Criança de 4 anos, 15 kg, atendida na unidade básica com otite média aguda, tem prescrição de amoxicilina 50 mg/kg/dia por via oral, dividida de 8/8 horas. A suspensão disponível tem 250 mg em 5 mL. Quantos mililitros a enfermeira deve orientar a mãe a dar em cada tomada?",
+"alts": [
+"2,5 mL por tomada.",
+"5 mL por tomada.",
+"1 mL por tomada.",
+"15 mL por tomada.",
+"7,5 mL por tomada."
+],
+"gab": 1,
+"tema": "farmaco",
+"sub": "Cálculo de dose e diluição",
+"cenario": "aps",
+"comp": "calc",
+"nivel": "r1",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (peso anotado na prescrição pediátrica)",
+"coment": "Dose diária: 50 mg × 15 kg = 750 mg; de 8/8 horas são 3 tomadas, 750 ÷ 3 = 250 mg por tomada. Volume: 250 mg está para 5 mL assim como 250 mg está para x, logo x = 5 mL. Conferência: a suspensão tem 50 mg/mL, e 250 ÷ 50 = 5 mL; três tomadas de 5 mL somam 15 mL, que contêm os 750 mg do dia. 15 mL é a dose diária inteira numa tomada; 7,5 mL divide o dia em duas tomadas; 2,5 mL divide em seis; 1 mL lê a suspensão como 250 mg/mL. Em pediatria, o protocolo de 2013 pede o peso anotado quando a dose depende dele, e a mãe recebe a dose em mL com a seringa dosadora.",
+"porAlt": [
+"Errada: dividiu a dose diária em seis tomadas, como se fosse de 4/4 horas.",
+"Correta: 50 × 15 = 750 mg/dia; ÷ 3 = 250 mg por tomada, que estão em 5 mL.",
+"Errada: leu a suspensão como 250 mg/mL, esquecendo os 5 mL do rótulo.",
+"Errada: 15 mL contêm os 750 mg do dia inteiro numa só tomada.",
+"Errada: dividiu a dose diária em duas tomadas, como se fosse de 12/12 horas."
+]
+},
+{
+"q": "Criança de 6 anos, 20 kg, internada com febre, tem prescrição de paracetamol 15 mg/kg/dose por via oral de 4/4 horas, em horário fixo. A suspensão disponível tem 32 mg/mL. Ao conferir a prescrição pela bula, que limita a dose em menores de 12 anos, qual análise a enfermeira deve fazer?",
+"alts": [
+"Seis doses somam 1.800 mg, abaixo de 4.000 mg; administrar 9,4 mL.",
+"Seis doses somam 90 mg/kg/dia, acima de 75; devolver ao prescritor.",
+"Seis doses somam 90 mg/kg/dia, dentro do teto de 100 mg/kg/dia.",
+"A dose está correta; espaçar para 6/6 horas por decisão da enfermagem.",
+"Cada dose de 300 mg excede o limite; reduzir por conta própria a 10 mg/kg."
+],
+"gab": 1,
+"tema": "farmaco",
+"sub": "Cálculo de dose e diluição",
+"cenario": "enf",
+"comp": "calc",
+"nivel": "r3",
+"base": "Bula do Tylenol Criança, paracetamol 32 mg/mL (Janssen-Cilag); Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+"coment": "A bula do Tylenol Criança, para menores de 12 anos, indica 10 a 15 mg/kg por dose, com intervalo de 4 a 6 horas, até 5 administrações em 24 horas, sem exceder 75 mg/kg/dia nem 4.000 mg. Cada dose (15 × 20 = 300 mg, 9,4 mL a 32 mg/mL) está na faixa, mas de 4/4 horas em horário fixo são 6 tomadas: 1.800 mg, ou 90 mg/kg/dia, acima do teto de 75 mg/kg/dia (1.500 mg para 20 kg). Conferência: 75 × 20 = 1.500 mg, exatamente 5 doses de 300 mg. Dose fora da faixa da bula não se corrige na enfermagem: volta ao prescritor com o cálculo feito.",
+"porAlt": [
+"Errada: o teto de 4.000 mg é absoluto; para a criança vale 75 mg/kg/dia, que foi ultrapassado.",
+"Correta: 6 × 300 mg = 1.800 mg, ou 90 mg/kg/dia, acima do teto de 75 mg/kg/dia.",
+"Errada: a bula fixa o teto em 75 mg/kg/dia, não em 100.",
+"Errada: a soma diária excede o teto, e mudar o intervalo é decisão do prescritor.",
+"Errada: 15 mg/kg por dose está na faixa, e a enfermagem não altera a dose sozinha."
+]
+},
+{
+"q": "Na sala de emergência, paciente de 68 anos com edema agudo de pulmão hipertensivo tem prescrição de nitroglicerina 10 mcg/min por via endovenosa. A solução tem 50 mg de nitroglicerina em volume final de 250 mL de soro glicosado a 5%. Qual vazão, em mL/h, a enfermeira deve programar na bomba de infusão?",
+"alts": [
+"0,05 mL/h na bomba de infusão.",
+"600 mL/h na bomba de infusão.",
+"3 mL/h na bomba de infusão.",
+"0,3 mL/h na bomba de infusão.",
+"30 mL/h na bomba de infusão."
+],
+"gab": 2,
+"tema": "farmaco",
+"sub": "Gotejamento e bomba de infusão",
+"cenario": "emg",
+"comp": "calc",
+"nivel": "r2",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013); bula de Tridil, nitroglicerina injetável (Cristália)",
+"coment": "Concentração: 50 mg = 50.000 mcg; 50.000 ÷ 250 mL = 200 mcg/mL. Dose por hora: 10 mcg/min × 60 = 600 mcg/h. Vazão: 600 ÷ 200 = 3 mL/h. Conferência: 3 mL/h × 200 mcg/mL = 600 mcg/h, que divididos por 60 dão 10 mcg/min. Como a dose da nitroglicerina não é por peso, a conta pula a etapa do quilo. 0,05 mL/h esquece a conversão de minuto para hora; 600 mL/h esquece a concentração; 30 mL/h usa uma concentração dez vezes menor; 0,3 mL/h, dez vezes maior. Em equipo de microgotas, 3 mL/h corresponderiam a 3 microgotas por minuto.",
+"porAlt": [
+"Errada: dividiu 10 mcg/min pela concentração sem converter minuto em hora.",
+"Errada: 600 é a dose em mcg/h; faltou dividir pela concentração.",
+"Correta: 50.000 ÷ 250 = 200 mcg/mL; 10 × 60 = 600 mcg/h; 600 ÷ 200 = 3 mL/h.",
+"Errada: concentração calculada dez vezes maior, entregando um décimo da dose.",
+"Errada: usou 5.000 mcg em vez de 50.000, uma concentração dez vezes menor."
+]
+},
+{
+"q": "Lactente de 10 meses, internado por pneumonia, tem prescrição de antibiótico diluído em 30 mL de soro fisiológico a 0,9%, para correr em 30 minutos em bureta com equipo de microgotas, de 60 microgotas por mL. Não há bomba de seringa disponível. Qual gotejamento a enfermeira deve regular?",
+"alts": [
+"20 microgotas por minuto.",
+"60 microgotas por minuto.",
+"1.800 microgotas por minuto.",
+"1 microgota por minuto.",
+"180 microgotas por minuto."
+],
+"gab": 1,
+"tema": "farmaco",
+"sub": "Gotejamento e bomba de infusão",
+"cenario": "enf",
+"comp": "calc",
+"nivel": "r1",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (gotejamento conferido)",
+"coment": "Com o tempo em minutos, microgotas por minuto = volume × 60 ÷ tempo = 30 × 60 ÷ 30 = 60 microgotas/min. Conferência: 30 mL em meia hora equivalem a 60 mL/h, e no equipo de microgotas o número de microgotas por minuto é igual aos mL/h. 20 é o resultado com o fator de macrogotas; 1 resulta da fórmula curta com o tempo em minutos; 1.800 é o total de microgotas do volume, sem dividir pelo tempo; 180 multiplica por 3 o que já está em microgotas. Em pediatria o volume é pequeno, e qualquer erro de fator pesa proporcionalmente mais no paciente.",
+"porAlt": [
+"Errada: usou o fator de macrogotas (20 por mL), e o equipo é de microgotas.",
+"Correta: 30 × 60 ÷ 30 = 60 microgotas/min; 30 mL em meia hora são 60 mL/h.",
+"Errada: 1.800 é o total de microgotas do volume; faltou dividir pelo tempo.",
+"Errada: usou a fórmula curta, volume ÷ horas, com o tempo ainda em minutos.",
+"Errada: multiplicou por 3 um valor que já estava em microgotas."
+]
+},
+{
+"q": "Na sala de vacinação da unidade básica, a enfermeira supervisiona uma técnica recém-contratada que vai aplicar, pela primeira vez, uma vacina de via intradérmica em um adulto. Segundo o Manual de Normas e Procedimentos para Vacinação do Ministério da Saúde, qual técnica está correta para essa via?",
+"alts": [
+"Agulha a 15º com bisel para cima, sem comprimir após a aplicação.",
+"Agulha a 90º após pinçar a pele, aspirando antes de injetar.",
+"Agulha a 15º com bisel para baixo, comprimindo o local por um minuto.",
+"Agulha a 15º com bisel para cima, volume de até 1,5 mL por aplicação.",
+"Agulha a 45º com bisel para baixo, massageando o local após aplicar."
+],
+"gab": 0,
+"tema": "farmaco",
+"sub": "Vias de administração",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r1",
+"base": "Manual de Normas e Procedimentos para Vacinação (MS, 2014), Parte III, item 6.3.2",
+"coment": "Pelo Manual de Normas e Procedimentos para Vacinação (MS, 2014), a via intradérmica deposita o produto na derme: agulha de 10 a 13 mm, seringa de 1 mL graduada em 0,1 mL, ângulo de 15º com o bisel para cima, introduzida paralela à pele até o bisel desaparecer, volume máximo de 0,5 mL e sem comprimir o local. Pinçar a pele e introduzir a 90º é a técnica da subcutânea, em que o manual também não manda aspirar; 1,5 mL é o volume máximo da subcutânea; massagear ou comprimir espalha o produto e desfaz a pápula. O bisel para baixo é o descrito para a subcutânea.",
+"porAlt": [
+"Correta: na intradérmica, 15º, bisel para cima até desaparecer, sem comprimir o local.",
+"Errada: 90º com pinçamento descreve a subcutânea, em que também não se aspira.",
+"Errada: o bisel fica para cima, e a intradérmica não se comprime.",
+"Errada: 1,5 mL é o máximo da subcutânea; na intradérmica o teto é 0,5 mL.",
+"Errada: ângulo e bisel não são os da intradérmica, e massagear desfaz a pápula."
+]
+},
+{
+"q": "Durante a campanha de vacinação, um técnico de enfermagem pergunta à enfermeira como aplicar uma vacina de via subcutânea em uma mulher de 30 anos. Ele costuma aspirar antes de injetar e quer saber o volume máximo da via. Pelo Manual de Normas e Procedimentos para Vacinação, qual a orientação correta?",
+"alts": [
+"Pinçar a pele, agulha a 15º, aspirar antes; até 0,5 mL.",
+"Pinçar a pele, agulha a 90º, não aspirar; até 1,5 mL.",
+"Esticar a pele, agulha a 90º, aspirar antes; até 5 mL.",
+"Pinçar a pele, agulha a 90º, não aspirar; até 0,5 mL.",
+"Pinçar a pele, agulha a 45º, aspirar antes; até 3 mL."
+],
+"gab": 1,
+"tema": "farmaco",
+"sub": "Vias de administração",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r1",
+"base": "Manual de Normas e Procedimentos para Vacinação (MS, 2014), Parte III, item 6.3.2",
+"coment": "Pelo Manual de Normas e Procedimentos para Vacinação (MS, 2014), a via subcutânea deposita o produto na hipoderme: pinçar o local, introduzir a agulha de 13 a 20 mm, de bisel curto, a 90º, e injetar sem aspirar, com volume máximo de 1,5 mL. A aspiração não faz parte da técnica subcutânea do manual. 0,5 mL e 15º pertencem à intradérmica; até 5 mL é o teto da intramuscular; 3 mL excede o limite da via. Entre a subcutânea e a intramuscular a 90º, o que muda é o comprimento da agulha e a camada alcançada, e por isso a agulha curta é parte da técnica.",
+"porAlt": [
+"Errada: 15º e 0,5 mL são da intradérmica, e o manual não manda aspirar na subcutânea.",
+"Correta: subcutânea na hipoderme, local pinçado, 90º, sem aspirar, volume máximo de 1,5 mL.",
+"Errada: até 5 mL é o teto da intramuscular, não da subcutânea.",
+"Errada: a técnica está certa, mas 0,5 mL é o teto da intradérmica.",
+"Errada: 3 mL excede o limite da via, e a aspiração não faz parte da técnica."
+]
+},
+{
+"q": "Lactente de 2 meses comparece à unidade básica para receber três vacinas de via intramuscular no mesmo dia. A enfermeira aplicará duas delas na mesma coxa, porque a outra coxa receberá a terceira. Segundo o Manual de Normas e Procedimentos para Vacinação, como as duas devem ser aplicadas na mesma coxa?",
+"alts": [
+"No vasto lateral, terço superior, lado a lado, a 1 cm uma da outra.",
+"No vasto lateral, terço inferior, perto do joelho, a 2,5 cm uma da outra.",
+"No reto femoral, terço médio, no mesmo ponto, com intervalo de 15 minutos.",
+"No vasto lateral, terço médio, no eixo da coxa, a 2,5 cm uma da outra.",
+"Na região dorsoglútea, quadrante superior externo, a 2,5 cm uma da outra."
+],
+"gab": 3,
+"tema": "farmaco",
+"sub": "Vias de administração",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r2",
+"base": "Manual de Normas e Procedimentos para Vacinação (MS, 2014), Parte III, item 6.3.2",
+"coment": "O Manual de Normas e Procedimentos para Vacinação (MS, 2014) aponta o vasto lateral e o deltoide como as regiões intramusculares mais usadas. No vasto lateral, a injeção vai no terço médio da face externa da coxa, e duas vacinas no mesmo músculo ficam no eixo da coxa a pelo menos 2,5 cm uma da outra. No deltoide do adulto, o manual orienta evitar duas vacinas no mesmo músculo, salvo por vias diferentes. A dorsoglútea, localizada por uma cruz imaginária no quadrante superior externo, serve a alguns soros e imunoglobulinas; o terço inferior aproxima a agulha do joelho; 1 cm é distância insuficiente.",
+"porAlt": [
+"Errada: o local é o terço médio, e 1 cm é menos que a distância mínima de 2,5 cm.",
+"Errada: a distância está certa, mas o local é o terço médio, longe da articulação.",
+"Errada: o músculo indicado é o vasto lateral, e as vacinas não se aplicam no mesmo ponto.",
+"Correta: terço médio da face externa da coxa, no eixo, a pelo menos 2,5 cm uma da outra.",
+"Errada: a dorsoglútea serve, pelo manual, a alguns soros e imunoglobulinas, não a esse esquema."
+]
+},
+{
+"q": "Paciente de 64 anos, internado na clínica médica, tem prescrição de dinitrato de isossorbida 5 mg por via sublingual se dor torácica. Ele refere dor, a PA é de 138/84 mmHg, não usa inibidor de fosfodiesterase, e o médico, comunicado, mantém a prescrição. Qual orientação a enfermeira deve dar ao administrar o comprimido?",
+"alts": [
+"Dissolver o comprimido em meio copo de água e tomar em goles.",
+"Colocar o comprimido entre a bochecha e a gengiva até amolecer e engolir.",
+"Engolir o comprimido inteiro com água, pois o efeito é o mesmo.",
+"Mastigar o comprimido e engolir com água, para acelerar o efeito.",
+"Deixar o comprimido dissolver sob a língua, sem engolir nem mastigar."
+],
+"gab": 4,
+"tema": "farmaco",
+"sub": "Vias de administração",
+"cenario": "enf",
+"comp": "tec",
+"nivel": "r1",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), via certa e orientação ao paciente",
+"coment": "Na via sublingual, o comprimido se dissolve sob a língua e é absorvido pela mucosa, com início rápido e sem passar primeiro pelo fígado; o paciente não engole nem mastiga. Engolir, mastigar ou dissolver em água transforma a administração em oral, sujeita ao primeiro passo hepático e a absorção mais lenta, o que contraria a via prescrita. O certo da via, no protocolo de 2013, é a via prescrita e tecnicamente recomendada, e o certo da orientação manda explicar ao paciente como e por que o medicamento é administrado. A dor e a pressão arterial reavaliadas depois da dose entram no registro, como pede o certo da resposta.",
+"porAlt": [
+"Errada: dissolver em água e beber muda a via para oral, contra a prescrição.",
+"Errada: a via prescrita é sob a língua, e engolir o comprimido anula a via.",
+"Errada: a via oral passa pelo primeiro passo hepático e tem início mais lento.",
+"Errada: mastigar e engolir transforma a administração em oral, mais lenta.",
+"Correta: na sublingual, o comprimido se dissolve sob a língua e é absorvido pela mucosa."
+]
+},
+{
+"q": "Paciente de 74 anos com sonda nasoenteral após acidente vascular cerebral tem prescrição de nifedipino de liberação prolongada 20 mg via sonda, de 12/12 horas. A técnica de enfermagem pretende triturar o comprimido e diluir em água para administrar. Pelo Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, qual a conduta?",
+"alts": [
+"Triturar e diluir em água morna, lavando a sonda antes e depois.",
+"Suspender a dose e registrar como recusa, pois a via oral está impedida.",
+"Triturar junto com os demais comprimidos do horário para poupar volume.",
+"Não triturar e discutir com farmácia e prescritor outra forma farmacêutica.",
+"Administrar o comprimido inteiro pela sonda, empurrado com a seringa."
+],
+"gab": 3,
+"tema": "farmaco",
+"sub": "Vias de administração",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), forma farmacêutica certa",
+"coment": "O certo da forma farmacêutica, no protocolo de 2013, exige forma compatível com a via e com a condição clínica do paciente, e a trituração para administração por sonda só se faz com orientação da farmácia. Comprimido de liberação prolongada ou revestido não se tritura sem essa orientação: a trituração destrói o mecanismo que libera o fármaco aos poucos e pode entregar a dose de uma vez. A conduta é não triturar e discutir com a farmácia e o prescritor uma alternativa adequada à sonda. Triturar vários comprimidos juntos soma incompatibilidades; empurrar o comprimido inteiro obstrui a sonda; registrar como recusa falseia o prontuário.",
+"porAlt": [
+"Errada: lavar a sonda é correto, mas a trituração destrói a liberação prolongada.",
+"Errada: não houve recusa do paciente, e suspender por conta própria o deixa sem tratamento.",
+"Errada: além de destruir a liberação prolongada, misturar fármacos soma incompatibilidades.",
+"Correta: liberação prolongada não se tritura; a trituração para sonda depende da farmácia.",
+"Errada: o comprimido inteiro obstrui a sonda e não chega ao intestino como previsto."
+]
+},
+{
+"q": "Às 19h, um técnico de enfermagem da clínica médica propõe adiantar para as 20h a dose de ceftriaxona aprazada para as 22h, porque o paciente de 50 anos costuma dormir cedo. A prescrição é de uma dose diária, e não há intercorrência clínica. Pelo Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, qual a orientação da enfermeira?",
+"alts": [
+"Antecipar, desde que o técnico registre o novo horário na checagem.",
+"Antecipar só com o consentimento do enfermeiro e do prescritor.",
+"Antecipar com o consentimento da farmácia, que libera a nova dose.",
+"Antecipar com autorização do próprio paciente, registrada em prontuário.",
+"Antecipar livremente, pois a tolerância de duas horas é permitida."
+],
+"gab": 1,
+"tema": "farmaco",
+"sub": "Vias de administração",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r1",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), certo da hora",
+"coment": "O certo da hora, no Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA, 2013), manda administrar no horário prescrito e só antecipar ou atrasar a dose com o consentimento do enfermeiro e do prescritor. A conveniência de rotina não basta, e o protocolo não prevê tolerância livre para a equipe decidir sozinha. O registro do novo horário é obrigatório, mas vem depois da decisão. A farmácia não autoriza aprazamento, e o consentimento do paciente não substitui o do prescritor. Mudar o horário altera o intervalo até a dose seguinte, o que pesa nos antimicrobianos.",
+"porAlt": [
+"Errada: o registro é necessário, mas vem depois da decisão e não a substitui.",
+"Correta: o certo da hora admite antecipar ou atrasar a dose só com enfermeiro e prescritor de acordo.",
+"Errada: a farmácia dispensa o medicamento, mas não autoriza mudança de aprazamento.",
+"Errada: a concordância do paciente não substitui o consentimento do prescritor.",
+"Errada: o protocolo não prevê tolerância livre para a equipe mudar o horário sozinha."
+]
+},
+{
+"q": "Ao receber a prescrição manuscrita de um paciente de 58 anos, a enfermeira lê “insulina regular 10U SC se glicemia acima de 250 mg/dL” e, logo abaixo, “metoclopramida 10 mg IV”. Segundo o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, que problema de escrita ela deve apontar ao prescritor?",
+"alts": [
+"“U” se confunde com zero; escrever “unidades” por extenso e usar “EV”.",
+"Falta só o horário da metoclopramida; a insulina está bem escrita.",
+"A condição da glicemia torna a prescrição vaga e deve ser recusada.",
+"“IV” é preferível a “EV”, e a insulina deveria vir em mililitros.",
+"A dose de 10 mg deveria ser escrita como 0,01 g, por padronização."
+],
+"gab": 0,
+"tema": "farmaco",
+"sub": "Medicamentos de alta vigilância",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r2",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), prescrição segura (abreviaturas)",
+"coment": "O protocolo de 2013 aponta “U” e “UI” como as abreviaturas mais perigosas, porque podem levar a doses 10 ou 100 vezes maiores: “10U” pode virar 100. Escreve-se “unidade” ou “unidade internacional” por extenso. O mesmo protocolo prefere “EV” a “IV”, que pode ser lido como “IM”, e manda escrever “500 mg” em vez de “0,5 g”, que pode ser lido como “5 g”. Insulina se prescreve em unidades, não em mililitros. A condição “se glicemia acima de 250 mg/dL” é o que torna aceitável a ordem “se necessário”: vaga é a prescrição sem condição de uso.",
+"porAlt": [
+"Correta: “U” e “UI” são as abreviaturas mais perigosas, e “IV” pode ser lido como “IM”.",
+"Errada: “10U” pode ser lido como 100, erro de dez vezes na dose da insulina.",
+"Errada: a condição de uso é justamente o que torna aceitável a ordem “se necessário”.",
+"Errada: prefere-se “EV”, e insulina se prescreve em unidades, não em mililitros.",
+"Errada: o protocolo prefere miligramas inteiros, e frações de grama induzem erro."
+]
+},
+{
+"q": "Durante uma parada cardiorrespiratória na enfermaria, o médico que conduz o atendimento diz em voz alta: “adrenalina 1 mg agora”. A enfermeira responsável pela medicação está preparando a seringa. Segundo o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, como proceder com essa ordem verbal?",
+"alts": [
+"Aceitar a ordem apenas depois que outro médico confirmar a dose ao lado.",
+"Administrar sem repetir, para não atrasar, e registrar no fim do plantão.",
+"Repetir em voz alta, aguardar a confirmação e registrar por escrito logo depois.",
+"Repetir em voz alta e administrar, sem necessidade de registro posterior.",
+"Recusar a ordem até que o médico a registre por escrito no prontuário."
+],
+"gab": 2,
+"tema": "farmaco",
+"sub": "Medicamentos de alta vigilância",
+"cenario": "emg",
+"comp": "norma",
+"nivel": "r2",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), prescrição verbal",
+"coment": "O protocolo de 2013 admite a prescrição verbal só em situação de urgência. Quem recebe repete a ordem em voz alta, o prescritor confirma, e a prescrição é escrita logo depois, assim que a situação permitir. Na parada, recusar a ordem até o registro escrito atrasaria uma droga com hora crítica; administrar sem repetir elimina a barreira contra o erro de escuta; deixar o registro para o fim do plantão ou dispensá-lo quebra o certo do registro. A confirmação é do próprio prescritor. A adrenalina é agonista adrenérgico endovenoso, classe da lista de medicamentos potencialmente perigosos do ISMP Brasil.",
+"porAlt": [
+"Errada: a confirmação é do próprio prescritor, não de um segundo médico.",
+"Errada: sem repetir em voz alta, some a barreira contra o erro de escuta.",
+"Correta: em urgência, a ordem verbal é repetida, confirmada pelo prescritor e escrita logo depois.",
+"Errada: a prescrição verbal precisa ser escrita logo depois, assim que possível.",
+"Errada: na urgência o protocolo admite a ordem verbal; recusar atrasaria a droga."
+]
+},
+{
+"q": "Paciente de 39 anos, no primeiro dia de pós-operatório de herniorrafia, tem prescritos “dipirona 1 g EV se necessário” e “tramadol 50 mg EV a critério médico”. Às 3h, refere dor 6 em 10. Segundo o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, como a enfermeira deve tratar essas prescrições?",
+"alts": [
+"Aguardar a visita da manhã, pois prescrição vaga não vale no plantão noturno.",
+"Administrar o tramadol, pois a dor moderada caracteriza o critério médico.",
+"Administrar a dipirona, pois “se necessário” delega o julgamento à enfermagem.",
+"Ambas são vagas; contatar o prescritor para definir condição e limite de uso.",
+"Administrar as duas juntas e registrar a dor antes e depois de cada dose."
+],
+"gab": 3,
+"tema": "farmaco",
+"sub": "Vias de administração",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r2",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), prescrição segura (expressões vagas)",
+"coment": "O protocolo de 2013 recomenda não aceitar prescrição vaga: “se necessário” sem condição de uso, “a critério médico” e “conforme ordem médica”. Para ser aceita, a ordem “se necessário” precisa dizer em que condição o medicamento será dado, com dose e frequência máxima. Diante das duas ordens vagas e de um paciente com dor, a conduta é contatar o prescritor agora para definir o critério, e não decidir pela equipe nem deixar a dor para a manhã. Depois de administrar o analgésico definido, a dor é reavaliada e registrada, como manda o certo da resposta.",
+"porAlt": [
+"Errada: deixar a dor sem resposta não é a saída; o prescritor deve ser contatado agora.",
+"Errada: “a critério médico” não define condição; a enfermagem não pode presumi-la.",
+"Errada: sem condição de uso, a ordem é vaga e não transfere a decisão à equipe.",
+"Correta: “se necessário” sem condição e “a critério médico” são prescrições vagas.",
+"Errada: o registro da dor é correto, mas as duas ordens continuam vagas."
+]
+},
+{
+"q": "Na emergência, paciente de 28 anos com diabetes tipo 1 e cetoacidose aguarda o início da insulinoterapia. Na prescrição, consta por engano “insulina NPH 10 unidades EV em bólus”, e a técnica de enfermagem já separou o frasco de NPH. A glicemia é de 460 mg/dL e o potássio, de 4,6 mEq/L. Qual a conduta correta da enfermeira?",
+"alts": [
+"Não administrar e contatar o prescritor: a NPH é de uso só subcutâneo.",
+"Administrar após agitar vigorosamente o frasco até a suspensão clarear.",
+"Administrar em bólus lento, diluída em 10 mL de soro fisiológico.",
+"Administrar por via intramuscular, que substitui a endovenosa na urgência.",
+"Administrar em bomba, diluída em soro glicosado, que estabiliza a suspensão."
+],
+"gab": 0,
+"tema": "farmaco",
+"sub": "Insulinas e anticoagulantes",
+"cenario": "emg",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Bulas de Novolin N e Novolin R (Novo Nordisk); Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), via certa",
+"coment": "Pela bula da Novolin N, a insulina NPH é suspensão leitosa de uso exclusivamente subcutâneo: suspensão de insulina nunca vai à veia nem a fluido de infusão. A insulina que pode ser dada por via endovenosa, por profissional de saúde, é a regular, solução límpida, como descreve a bula da Novolin R. Diante de prescrição de NPH por via endovenosa, a enfermeira não administra e esclarece com o prescritor antes de qualquer preparo; o erro provável é de tipo de insulina. Diluir, usar bomba ou agitar não muda a natureza da suspensão, e a intramuscular não é via da NPH. O protocolo de 2013 define a via certa como a prescrita e tecnicamente recomendada.",
+"porAlt": [
+"Correta: suspensão de insulina nunca vai à veia; a insulina endovenosa é a regular.",
+"Errada: a NPH é suspensão leitosa por natureza e continua imprópria para a veia.",
+"Errada: diluir não muda a natureza da suspensão, que não pode ir à veia.",
+"Errada: a bula restringe a NPH à via subcutânea, e a troca de via exige o prescritor.",
+"Errada: a bula proíbe pôr suspensão de insulina em fluido de infusão."
+]
+},
+{
+"q": "Na clínica médica de um hospital da Bahia, a escala noturna tem uma enfermeira e quatro técnicos de enfermagem. Um paciente de 70 anos tem prescrição de amiodarona endovenosa em infusão contínua e de enoxaparina subcutânea. Segundo o Parecer Técnico 09/2025 do COREN-BA, quem pode preparar e administrar cada medicamento?",
+"alts": [
+"Ambos, o técnico, pois a prescrição médica dispensa a supervisão da enfermeira.",
+"Amiodarona, técnico capacitado; enoxaparina, exclusivamente a enfermeira.",
+"Amiodarona, o médico plantonista; enoxaparina, técnico sem supervisão direta.",
+"Ambos, exclusivamente a enfermeira, pois todo anticoagulante é ato privativo.",
+"Amiodarona, a enfermeira; enoxaparina, técnico capacitado sob supervisão direta."
+],
+"gab": 4,
+"tema": "farmaco",
+"sub": "Medicamentos de alta vigilância",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r3",
+"base": "Parecer Técnico COREN-BA 09/2025 (medicamentos de alta vigilância); Lei 7.498/1986, art. 11",
+"coment": "O Parecer Técnico 09/2025 do COREN-BA, sobre medicamentos de alta vigilância, concluiu que o preparo, a reconstituição e a administração desses medicamentos em solução endovenosa são atos privativos do enfermeiro. Insulinas, anticoagulantes orais ou subcutâneos, benzodiazepínicos e soluções de reposição por outras vias podem ser administrados pelo técnico capacitado e sob supervisão direta do enfermeiro, com dupla checagem. A amiodarona endovenosa é antiarrítmico endovenoso, classe da lista de alta vigilância; a enoxaparina é antitrombótico subcutâneo. O parecer orienta a jurisdição da Bahia, dentro do protocolo institucional, e aplica a Lei 7.498/1986, que reserva ao enfermeiro os cuidados de maior complexidade técnica.",
+"porAlt": [
+"Errada: o parecer reserva a solução endovenosa ao enfermeiro e exige supervisão direta.",
+"Errada: o parecer inverte essa divisão: a endovenosa é que fica com o enfermeiro.",
+"Errada: a infusão é cuidado de enfermagem, e o técnico atua sob supervisão direta.",
+"Errada: anticoagulante subcutâneo pode ser dado por técnico capacitado sob supervisão.",
+"Correta: alta vigilância endovenosa é privativa do enfermeiro; anticoagulante subcutâneo admite o técnico."
+]
+},
+{
+"q": "Na UTI, a enfermeira calcula e programa uma infusão de insulina regular e chama um colega para a dupla checagem. O colega olha a seringa, a tela da bomba e a conta já escrita na folha, concorda com o resultado e assina. Pelo protocolo de 2013 e pelas recomendações do ISMP Brasil, qual o problema dessa checagem?",
+"alts": [
+"Faltou a assinatura do médico, exigida em toda dupla checagem de insulina.",
+"Não foi independente: o colega devia refazer o cálculo sem ver o resultado.",
+"Nenhum: conferir seringa, bomba e conta escrita já caracteriza a checagem.",
+"A dupla checagem de insulina é atribuição exclusiva do farmacêutico clínico.",
+"A checagem devia ocorrer só depois de iniciada a infusão, à beira do leito."
+],
+"gab": 1,
+"tema": "farmaco",
+"sub": "Medicamentos de alta vigilância",
+"cenario": "uti",
+"comp": "norma",
+"nivel": "r2",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dupla checagem; Boletim ISMP Brasil 2019 (medicamentos potencialmente perigosos)",
+"coment": "Na dupla checagem independente, o segundo profissional recebe só a prescrição, o frasco e a bomba e refaz o cálculo sem ver a conta do primeiro; se os resultados divergem, os dois param e refazem, chamando farmacêutico ou prescritor se a dúvida persistir. Quem apenas olha a seringa e a conta pronta e concorda tende a repetir o erro. O protocolo de 2013 manda dupla checagem dos cálculos de medicamentos potencialmente perigosos, como a insulina, na farmácia, no recebimento e antes da administração, com ênfase em terapia intensiva. A conferência à beira do leito vem antes de iniciar a infusão.",
+"porAlt": [
+"Errada: a dupla checagem é entre profissionais que preparam e conferem, sem exigir o médico.",
+"Correta: o segundo profissional calcula sem ver a conta do primeiro, ou repete o erro.",
+"Errada: concordar com a conta pronta não é checagem independente.",
+"Errada: o protocolo prevê checagem na farmácia, no recebimento e antes da administração.",
+"Errada: a conferência à beira do leito vem antes de iniciar a infusão, não depois."
+]
+},
+{
+"q": "A enfermeira do Núcleo de Segurança do Paciente revisa o estoque das unidades de internação e encontra ampolas de cloreto de potássio a 19,1% e de rocurônio no carrinho de medicação da enfermaria. Segundo o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, qual a medida recomendada?",
+"alts": [
+"Retirar só o rocurônio, pois o cloreto de potássio é eletrólito de reposição.",
+"Retirar só o cloreto de potássio e manter o rocurônio para intubação de urgência.",
+"Manter os dois no carrinho, desde que o técnico confira a validade a cada plantão.",
+"Manter os dois no carrinho, em gavetas separadas por cor e com etiqueta de alerta.",
+"Retirar das unidades o cloreto de potássio concentrado e o bloqueador neuromuscular."
+],
+"gab": 4,
+"tema": "farmaco",
+"sub": "Medicamentos de alta vigilância",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), estratégias para medicamentos potencialmente perigosos",
+"coment": "Entre as barreiras que o protocolo de 2013 soma aos nove certos está a retirada do estoque das unidades dos eletrólitos concentrados, sobretudo o cloreto de potássio injetável, e dos bloqueadores neuromusculares, como o rocurônio. Rotular, separar por cor e conferir validade são estratégias complementares, mas não substituem a retirada no caso desses dois grupos. O cloreto de potássio concentrado é o exemplo que o protocolo escolheu para a medida mais dura, e sua bula adverte que doses elevadas podem causar depressão cardíaca e parada. As estratégias seguem os princípios do ISMP: reduzir a possibilidade de erro, torná-lo visível e minimizar suas consequências.",
+"porAlt": [
+"Errada: o cloreto de potássio injetável é o exemplo principal da retirada no protocolo.",
+"Errada: os bloqueadores neuromusculares também saem do estoque das unidades.",
+"Errada: conferir validade não reduz o risco de troca ou de administração indevida.",
+"Errada: rotular e separar ajuda, mas não substitui a retirada desses dois grupos.",
+"Correta: o protocolo retira do estoque das unidades eletrólitos concentrados e bloqueadores neuromusculares."
+]
+},
+{
+"q": "Na clínica médica, a enfermeira organiza a dupla checagem dos medicamentos das 18h de um paciente de 69 anos: omeprazol oral, dipirona endovenosa, enoxaparina subcutânea, ondansetrona endovenosa e cefazolina endovenosa. Pela lista de medicamentos potencialmente perigosos de uso hospitalar do ISMP Brasil, qual deles exige essa barreira?",
+"alts": [
+"Cefazolina, da classe dos antimicrobianos.",
+"Omeprazol, da classe dos antiulcerosos.",
+"Enoxaparina, da classe dos antitrombóticos.",
+"Dipirona, da classe dos analgésicos não opioides.",
+"Ondansetrona, da classe dos antieméticos."
+],
+"gab": 2,
+"tema": "farmaco",
+"sub": "Medicamentos de alta vigilância",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r1",
+"base": "Boletim ISMP Brasil, Medicamentos potencialmente perigosos de uso hospitalar: lista atualizada 2019; Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+"coment": "O protocolo de 2013 remete a lista de medicamentos potencialmente perigosos ao ISMP Brasil, cuja edição hospitalar de 2019 organiza os itens por classe terapêutica, quando toda a classe é perigosa, ou por medicamento específico. Os antitrombóticos, em que entram as heparinas como a enoxaparina, estão entre as classes listadas, ao lado de agonistas adrenérgicos endovenosos, opioides, antiarrítmicos endovenosos, insulinas, bloqueadores neuromusculares, sedativos, antineoplásicos e nutrição parenteral. Analgésico não opioide, antiulceroso, antiemético e cefalosporina não estão entre elas. O que define o medicamento potencialmente perigoso é o dano grave quando há erro, não a frequência do erro.",
+"porAlt": [
+"Errada: a cefalosporina não pertence às classes listadas pelo ISMP Brasil.",
+"Errada: antiulceroso oral não pertence às classes da lista hospitalar.",
+"Correta: os antitrombóticos, como a enoxaparina, estão entre as classes da lista do ISMP Brasil.",
+"Errada: entre os analgésicos, a lista inclui os opioides, não a dipirona.",
+"Errada: antiemético não está entre as classes de medicamentos potencialmente perigosos."
+]
+},
+{
+"q": "No pronto-socorro, paciente de 66 anos com choque séptico mantém PAM de 58 mmHg após a reposição volêmica inicial. O médico prescreve noradrenalina, mas o cateter venoso central só poderá ser passado em cerca de duas horas. O paciente tem acesso periférico calibroso no antebraço. Qual conduta está alinhada à Surviving Sepsis Campaign 2026?",
+"alts": [
+"Iniciar por via intramuscular até a passagem do cateter venoso central.",
+"Aguardar o cateter central, pois a noradrenalina periférica é contraindicada.",
+"Iniciar por via periférica em equipo compartilhado com o soro de manutenção.",
+"Iniciar pelo acesso periférico, com vigilância contínua de extravasamento.",
+"Repetir bólus de cristaloide a cada 30 minutos até a chegada do cateter."
+],
+"gab": 3,
+"tema": "farmaco",
+"sub": "Medicamentos de alta vigilância",
+"cenario": "emg",
+"comp": "cuid",
+"nivel": "tit",
+"base": "Surviving Sepsis Campaign 2026 (vasopressor por veia periférica); bula do hemitartarato de norepinefrina (Hipolabor)",
+"coment": "A Surviving Sepsis Campaign 2026 sugere iniciar o vasopressor por veia periférica em vez de esperar o acesso central quando a hipotensão persiste após o bólus inicial, com alvo de PAM de 65 mmHg. Nos estudos com protocolo de segurança, a taxa combinada de complicações foi de 5,97%, o que pressupõe acesso de boa qualidade, vigilância de extravasamento e tratamento imediato. A bula do hemitartarato de norepinefrina orienta veia calibrosa e vigilância contínua do local pelo risco de necrose por extravasamento. A infusão corre em via exclusiva. Adiar o vasopressor esperando o cateter é o que a diretriz rejeita.",
+"porAlt": [
+"Errada: vasopressor em infusão contínua não tem via intramuscular.",
+"Errada: adiar o vasopressor esperando o cateter é justamente o que a diretriz rejeita.",
+"Errada: a noradrenalina corre em via exclusiva, sem dividir equipo com outra solução.",
+"Correta: a diretriz sugere começar o vasopressor por veia periférica, sem esperar o cateter central.",
+"Errada: com hipotensão persistente após o bólus inicial, a indicação é o vasopressor."
+]
+},
+{
+"q": "Na UTI, paciente de 50 anos em ventilação mecânica recebe propofol a 1% em infusão contínua, a 20 mL/h, há 10 horas, pelo mesmo frasco e equipo. Ao planejar os cuidados, a enfermeira considera as recomendações da ANVISA para prevenção de infecção e o aporte calórico do fármaco. Qual conduta é correta?",
+"alts": [
+"Trocar só o frasco e manter o equipo até completar 24 horas de uso.",
+"Diluir o propofol em soro glicosado, o que dispensa a troca do equipo.",
+"Manter o equipo por 96 horas, como nas demais infusões contínuas.",
+"Trocar o equipo a cada 72 horas e desconsiderar o propofol no balanço.",
+"Trocar frasco e equipo juntos e somar as calorias do propofol à nutrição."
+],
+"gab": 4,
+"tema": "farmaco",
+"sub": "Medicamentos de alta vigilância",
+"cenario": "uti",
+"comp": "cuid",
+"nivel": "r2",
+"base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, 2ª ed. (2017); Boletim ISMP Brasil 2019 (sedativos)",
+"coment": "Pelas Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde da ANVISA (2017), equipo de infusão contínua não precisa ser trocado antes de 96 horas, mas há exceções: lipídio a cada 12 horas e propofol, com o frasco, a cada 6 a 12 horas, porque a emulsão lipídica favorece a proliferação microbiana. Com 10 horas de uso, a troca está indicada. O propofol fornece cerca de 1,1 kcal por mL, que entra na conta da nutrição, e a 20 mL/h soma quase meio litro por dia ao balanço hídrico. Os sedativos estão entre as classes de medicamentos potencialmente perigosos do ISMP Brasil.",
+"porAlt": [
+"Errada: frasco e equipo do propofol são trocados juntos, no mesmo prazo.",
+"Errada: nenhuma diluição dispensa a troca de frasco e equipo no prazo recomendado.",
+"Errada: o propofol é exceção à regra das 96 horas, com troca a cada 6 a 12 horas.",
+"Errada: o prazo é de 6 a 12 horas, e o volume do propofol entra no balanço hídrico.",
+"Correta: propofol tem frasco e equipo trocados juntos a cada 6 a 12 horas e fornece cerca de 1,1 kcal/mL."
+]
+},
+{
+"q": "Paciente de 71 anos, em uso crônico de varfarina por fibrilação atrial, com INR estável na faixa-alvo, é internado por infecção urinária e inicia sulfametoxazol-trimetoprima. No quinto dia, a enfermeira percebe gengivorragia e equimoses nos antebraços, sem outra mudança na prescrição. Qual a interpretação e a conduta de enfermagem?",
+"alts": [
+"Plaquetopenia pela varfarina; solicitar transfusão de plaquetas.",
+"Efeito esperado da infecção urinária; manter os dois e observar.",
+"Interação que eleva o INR; comunicar o prescritor e vigiar sangramento.",
+"Interação que reduz o efeito da varfarina; aumentar a dose noturna.",
+"Alergia à sulfa; suspender a varfarina e administrar anti-histamínico."
+],
+"gab": 2,
+"tema": "farmaco",
+"sub": "Interações e reações adversas",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r3",
+"base": "Boletim ISMP Brasil 2019 (antitrombóticos); Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), certo da resposta",
+"coment": "Sulfametoxazol-trimetoprima e metronidazol inibem o metabolismo da varfarina pelo CYP2C9, elevam o INR e aumentam o risco de sangramento. Gengivorragia e equimoses depois do início do antimicrobiano, num paciente antes estável, apontam para essa interação. A conduta de enfermagem é comunicar o prescritor, que decide sobre INR, ajuste de dose ou troca de antimicrobiano, e intensificar a vigilância de sangramento em urina, fezes, mucosas e nível de consciência. A varfarina reduz a síntese dos fatores II, VII, IX e X, sem causar plaquetopenia. Os antitrombóticos são classe da lista do ISMP Brasil, e monitorar a resposta é o certo da resposta do protocolo de 2013.",
+"porAlt": [
+"Errada: a varfarina age nos fatores de coagulação, não nas plaquetas.",
+"Errada: sangramento novo após o antimicrobiano aponta interação, não a infecção.",
+"Correta: o sulfametoxazol-trimetoprima inibe o metabolismo da varfarina e eleva o INR.",
+"Errada: a interação potencializa a varfarina, e ajustar dose não é conduta da enfermagem.",
+"Errada: gengivorragia e equimoses não são quadro alérgico, e suspender é do prescritor."
+]
+},
+{
+"q": "Na unidade básica, mulher de 26 anos inicia tratamento de tuberculose pulmonar com o esquema básico, que inclui rifampicina. Ela usa anticoncepcional oral combinado e não deseja engravidar. Na consulta de enfermagem, ela pergunta se o remédio da tuberculose interfere na pílula. Qual orientação é correta?",
+"alts": [
+"A pílula reduz o efeito da rifampicina; dobrar a dose do tuberculostático.",
+"Suspender a rifampicina enquanto durar o uso da pílula anticoncepcional.",
+"A rifampicina potencializa a pílula; reduzir a dose do hormônio.",
+"Não há interação relevante; manter a pílula como única proteção.",
+"A rifampicina reduz a eficácia da pílula; associar método não hormonal."
+],
+"gab": 4,
+"tema": "farmaco",
+"sub": "Interações e reações adversas",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Bula de isoniazida + rifampicina (Farmanguinhos/Fiocruz, 2022), interação com anticoncepcionais orais",
+"coment": "A rifampicina é indutora potente do CYP3A4 e da glicoproteína P e reduz o nível de vários fármacos: anticoagulantes orais, tacrolimo, ciclosporina, antirretrovirais, azólicos e contraceptivos hormonais. A bula da associação isoniazida e rifampicina da Farmanguinhos (2022) adverte que a rifampicina pode causar falha do anticoncepcional oral e orienta acrescentar método não hormonal durante todo o tratamento. O esquema básico não se suspende nem se altera por causa do contraceptivo, e não há indicação de mudar a dose de nenhum dos dois. A orientação entra no registro da consulta de enfermagem e é retomada nas consultas de acompanhamento.",
+"porAlt": [
+"Errada: o sentido da interação é o contrário, e a dose do esquema não muda.",
+"Errada: o esquema da tuberculose não se suspende por causa do contraceptivo.",
+"Errada: a rifampicina é indutora e reduz, não aumenta, o nível do hormônio.",
+"Errada: a interação é relevante e dura todo o tratamento.",
+"Correta: a rifampicina induz o metabolismo hepático e pode causar falha do contraceptivo oral."
+]
+},
+{
+"q": "Paciente de 68 anos, no oitavo dia pós-operatório de cirurgia de quadril na UTI, recebe enoxaparina profilática, e o cateter central é mantido com solução heparinizada. As plaquetas caíram de 280.000 para 110.000/mm³, e a panturrilha esquerda está edemaciada. A equipe médica calcula escore 4T de 7 pontos. Qual cuidado de enfermagem está alinhado à ASH 2018?",
+"alts": [
+"Suspender toda heparina, inclusive a do cateter, e iniciar o anticoagulante não heparínico prescrito.",
+"Manter a enoxaparina até o resultado do anticorpo anti-PF4, para não trocar a heparina à toa.",
+"Manter a enoxaparina e solicitar transfusão de plaquetas antes de qualquer manipulação do cateter.",
+"Suspender a enoxaparina e iniciar varfarina isolada, mantendo a solução heparinizada do cateter.",
+"Trocar a enoxaparina por heparina não fracionada e manter a solução heparinizada do cateter."
+],
+"gab": 0,
+"tema": "farmaco",
+"sub": "Insulinas e anticoagulantes",
+"cenario": "uti",
+"comp": "cuid",
+"nivel": "tit",
+"base": "American Society of Hematology 2018, diretriz de trombocitopenia induzida por heparina",
+"coment": "Queda de 61% das plaquetas, com nadir acima de 20.000/mm³, entre o 5º e o 10º dia de heparina, com trombose suspeita e sem outra causa, dá escore 4T alto, e a ASH 2018 manda suspender toda heparina e iniciar anticoagulante não heparínico em dose terapêutica sem esperar o exame. Toda heparina inclui a usada para manter o cateter. A transfusão de plaquetas de rotina é desaconselhada, porque a doença é trombótica e o sangramento é raro; a varfarina só entra com plaquetas de 150.000/mm³ ou mais, pelo risco de gangrena venosa de membro. Trocar a enoxaparina pela heparina não fracionada mantém a exposição ao antígeno.",
+"porAlt": [
+"Correta: com 4T alto, sai toda heparina e entra anticoagulante não heparínico sem esperar o exame.",
+"Errada: com escore intermediário ou alto, a ASH manda suspender sem esperar o exame.",
+"Errada: a doença é trombótica, o sangramento é raro, e a transfusão de rotina é desaconselhada.",
+"Errada: varfarina só com plaquetas de 150.000/mm³, e a heparina do cateter também sai.",
+"Errada: a heparina não fracionada mantém o estímulo imunológico e piora a trombose."
+]
+},
+{
+"q": "Paciente de 59 anos em uso de gentamicina há oito dias por infecção grave, com creatinina estável, refere zumbido, sensação de ouvido tampado e desequilíbrio ao caminhar até o banheiro. A técnica de enfermagem atribui os sintomas ao tempo de internação. Qual a interpretação correta da enfermeira?",
+"alts": [
+"Hipotensão postural pelo antibiótico; orientar levantar devagar e manter.",
+"Reação alérgica tardia; suspender a gentamicina por conta própria.",
+"Sintoma esperado do uso prolongado, que regride ao fim do tratamento.",
+"Provável ototoxicidade, de dano irreversível; comunicar e registrar.",
+"Ototoxicidade descartada, pois a creatinina estável exclui toxicidade."
+],
+"gab": 3,
+"tema": "farmaco",
+"sub": "Interações e reações adversas",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r3",
+"base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), certo da resposta (efeito diferente do esperado registrado e comunicado)",
+"coment": "O aminoglicosídeo se acumula no córtex renal e causa lesão renal após alguns dias de uso, mas a ototoxicidade, coclear (zumbido, plenitude, perda auditiva) ou vestibular (desequilíbrio), é irreversível e não avisa pela creatinina: função renal estável não a exclui. O risco cresce com o tempo de exposição, razão da dose única diária e da dosagem de nível sérico nos esquemas de doses múltiplas. Zumbido e desequilíbrio no oitavo dia de gentamicina pedem comunicação imediata ao prescritor, registro e medidas contra queda; suspender o fármaco é decisão do prescritor. O certo da resposta, no protocolo de 2013, manda registrar e comunicar efeito diferente do esperado.",
+"porAlt": [
+"Errada: zumbido e plenitude auricular apontam a orelha interna, não a pressão.",
+"Errada: não há sinal alérgico, e a suspensão do fármaco é decisão do prescritor.",
+"Errada: a ototoxicidade do aminoglicosídeo é irreversível e não é efeito tolerável.",
+"Correta: aminoglicosídeo causa ototoxicidade irreversível que a creatinina não denuncia.",
+"Errada: a ototoxicidade não avisa pela creatinina; função renal estável não a exclui."
+]
+},
+{
+"q": "No pós-operatório de artroplastia de joelho, paciente de 73 anos recebe morfina em bomba de analgesia controlada pelo paciente. A enfermeira o encontra sonolento, difícil de despertar, com frequência respiratória de 7 irpm, pupilas mióticas e SpO2 de 86%. Qual deve ser a primeira conduta?",
+"alts": [
+"Administrar flumazenil, que reverte a sedação causada pelo opioide.",
+"Deixar o paciente dormir, pois a sonolência indica analgesia adequada.",
+"Interromper a morfina, ventilar com bolsa-válvula-máscara e pedir naloxona.",
+"Reduzir a taxa da bomba pela metade e reavaliar o paciente em uma hora.",
+"Oferecer oxigênio por cateter nasal e aguardar a próxima dose da bomba."
+],
+"gab": 2,
+"tema": "farmaco",
+"sub": "Interações e reações adversas",
+"cenario": "cc",
+"comp": "cuid",
+"nivel": "r1",
+"base": "American Heart Association 2023, atualização focada em toxicologia (naloxona); SBTox 2025",
+"coment": "Sonolência com dificuldade de despertar, bradipneia, miose e dessaturação num paciente em opioide configuram depressão respiratória por opioide. A prioridade é interromper a fonte e garantir a ventilação: bolsa-válvula-máscara com oxigênio antes e durante a titulação do antídoto, enquanto se aciona o médico. A naloxona na parada respiratória com pulso é classe 2a na AHA 2023, e o objetivo é restaurar a ventilação, não acordar o paciente; no usuário crônico, a SBTox começa com 0,1 a 0,2 mg, porque a dose cheia precipita abstinência. A meia-vida da naloxona, de 30 a 90 minutos, é menor que a de vários opioides, e a vigilância continua.",
+"porAlt": [
+"Errada: o flumazenil antagoniza benzodiazepínico, não opioide.",
+"Errada: sonolência com bradipneia e dessaturação é depressão respiratória.",
+"Correta: depressão respiratória por opioide pede parar a fonte, ventilar e titular naloxona.",
+"Errada: com frequência de 7 irpm e SpO2 de 86%, a infusão para e a ventilação vem já.",
+"Errada: oxigênio sem ventilação não corrige a hipoventilação, e a bomba segue ligada."
+]
+},
+{
+"q": "Paciente de 24 anos com diabetes tipo 1 chega à emergência em cetoacidose: glicemia de 480 mg/dL, pH de 7,10 e potássio sérico de 3,2 mEq/L, com diurese presente. Após a primeira etapa de hidratação, a técnica de enfermagem já montou a bomba de insulina regular. Pelo consenso internacional de 2024, qual a conduta?",
+"alts": [
+"Iniciar a insulina já, pois o adiamento só se aplica com potássio abaixo de 3,3.",
+"Iniciar a insulina e o bicarbonato juntos, pois o pH está abaixo de 7,2.",
+"Iniciar a insulina e repor potássio só se aparecerem alterações no monitor.",
+"Adiar a insulina até o pH normalizar, mantendo só a hidratação venosa.",
+"Adiar a insulina, repor potássio e iniciá-la quando o potássio passar de 3,5."
+],
+"gab": 4,
+"tema": "farmaco",
+"sub": "Insulinas e anticoagulantes",
+"cenario": "emg",
+"comp": "cuid",
+"nivel": "r3",
+"base": "Consenso ADA/EASD/JBDS/AACE/DTS 2024 de crises hiperglicêmicas no adulto",
+"coment": "O consenso ADA/EASD/JBDS/AACE/DTS de 2024 subiu o corte: potássio abaixo de 3,5 mmol/L adia a insulina (antes era 3,3), com reposição de 10 a 20 mmol/h até ultrapassar 3,5 e alvo de 4 a 5. O potássio corporal total está sempre depletado na cetoacidose, e a insulina devolve o íon à célula em minutos; começar com 3,2 derruba o potássio, com risco de arritmia e fraqueza respiratória. O bicarbonato só se considera com pH abaixo de 7,0. O potássio no soro entra com diurese estabelecida, em torno de 0,5 mL/kg/h. A enfermagem não liga a bomba montada sem rever a prescrição contra o potássio.",
+"porAlt": [
+"Errada: 3,3 era o corte antigo; o consenso de 2024 subiu o limite para 3,5.",
+"Errada: bicarbonato só se considera com pH abaixo de 7,0, e o potássio impede a insulina.",
+"Errada: a insulina derruba o potássio em minutos; esperar a arritmia é tarde.",
+"Errada: o critério para iniciar a insulina é o potássio, não o pH.",
+"Correta: o consenso de 2024 adia a insulina com potássio abaixo de 3,5 mmol/L."
+]
+},
+{
+"q": "Dez minutos após iniciar ceftriaxona endovenosa, mulher de 35 anos, 60 kg, apresenta urticária difusa, rouquidão, sibilos e PA de 78/46 mmHg. A enfermeira interrompe a infusão e chama a equipe. Pela World Allergy Organization 2020, qual medicamento, dose e via de primeira escolha devem estar prontos?",
+"alts": [
+"Prometazina 50 mg por via intramuscular, seguida de hidrocortisona venosa.",
+"Hidrocortisona 500 mg endovenosa, antes de qualquer outra medicação.",
+"Adrenalina 1 mg/mL, 0,5 mL por via intramuscular na face lateral da coxa.",
+"Adrenalina 1 mg/mL, 1 mL em bólus endovenoso rápido, sem diluição.",
+"Adrenalina 1 mg/mL, 0,5 mL por via subcutânea na face posterior do braço."
+],
+"gab": 2,
+"tema": "farmaco",
+"sub": "Interações e reações adversas",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r1",
+"base": "World Allergy Organization 2020, diretriz de anafilaxia",
+"coment": "Urticária com acometimento respiratório e hipotensão logo após o fármaco configuram anafilaxia. A adrenalina intramuscular é a primeira droga: 0,01 mg/kg, no máximo 0,5 mg no adulto, o que corresponde a 0,5 mL da ampola de 1 mg/mL, na face lateral da coxa, repetida a cada 5 a 15 minutos se necessário (WAO 2020). Para 60 kg, 0,01 × 60 = 0,6 mg, limitado ao teto de 0,5 mg. A via subcutânea não é a recomendada, e o bólus endovenoso de 1 mg sem diluição é a dose da parada cardíaca. Anti-histamínico e corticoide não substituem nem precedem a adrenalina. A reação é registrada e notificada como evento adverso.",
+"porAlt": [
+"Errada: anti-histamínico e corticoide não substituem nem precedem a adrenalina.",
+"Errada: o corticoide não é a primeira droga; a adrenalina IM vem antes.",
+"Correta: adrenalina IM, 0,01 mg/kg com teto de 0,5 mg no adulto, na coxa.",
+"Errada: 1 mg endovenoso em bólus é dose de parada cardíaca, não de anafilaxia com pulso.",
+"Errada: a via de primeira escolha da WAO é a intramuscular, na coxa."
+]
+},
+{
+"q": "Homem de 55 anos iniciou alopurinol há 18 dias. Na internação, apresenta febre, erosões dolorosas nos lábios e na mucosa oral, conjuntivite e bolhas no tronco que se descolam à leve fricção, em cerca de 8% da superfície corporal. Qual a hipótese e a conduta de enfermagem prioritária?",
+"alts": [
+"Necrólise epidérmica tóxica; manter o alopurinol, que não causa essa reação.",
+"Exantema viral benigno; manter o alopurinol e aplicar hidratante na pele.",
+"Síndrome de Stevens-Johnson; manter o alopurinol e iniciar antibiótico profilático.",
+"Urticária aguda; administrar anti-histamínico e manter o esquema prescrito.",
+"Síndrome de Stevens-Johnson; comunicar para suspender o alopurinol e notificar."
+],
+"gab": 4,
+"tema": "farmaco",
+"sub": "Interações e reações adversas",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r3",
+"base": "British Association of Dermatologists 2016, diretriz de Stevens-Johnson e necrólise epidérmica tóxica",
+"coment": "Febre, erosões de mucosa oral, conjuntivite e descolamento com Nikolsky positivo abaixo de 10% da superfície corporal definem a síndrome de Stevens-Johnson pela diretriz britânica (BAD 2016); de 10% a 30% é sobreposição, e acima de 30%, necrólise epidérmica tóxica. O alopurinol foi o fármaco mais implicado no caso-controle europeu, e nos fármacos de uso contínuo o risco se concentra nas primeiras 8 semanas. A prioridade é a suspensão imediata do culpado, decidida com o prescritor, a avaliação oftalmológica no mesmo dia e o cuidado conservador da pele, sem antibiótico profilático. A reação grave é notificada à farmacovigilância.",
+"porAlt": [
+"Errada: abaixo de 10% é Stevens-Johnson, e o alopurinol é o fármaco mais implicado.",
+"Errada: mucosas erodidas e Nikolsky positivo não são exantema benigno.",
+"Errada: o culpado deve ser suspenso, e antibiótico profilático não é recomendado.",
+"Errada: urticária não descola a pele nem erode mucosas; manter o fármaco agrava.",
+"Correta: descolamento abaixo de 10% com mucosas afetadas é Stevens-Johnson; o culpado sai já."
+]
+},
+{
+"q": "Na visita domiciliar, a enfermeira da equipe de Saúde da Família revisa os medicamentos de uma mulher de 79 anos. Há três meses ela iniciou anlodipino; um mês depois surgiu edema de tornozelos, e outro serviço acrescentou furosemida. Desde então, ela refere tontura ao levantar e teve uma queda. Qual a interpretação correta?",
+"alts": [
+"Insuficiência cardíaca nova; reforçar a adesão à furosemida e à restrição de sal.",
+"Cascata de prescrição: o edema era efeito do anlodipino; levar à revisão médica.",
+"Queda por fraqueza muscular senil; orientar fisioterapia sem mexer nos remédios.",
+"Edema por excesso de sal; acrescentar outro diurético para potencializar.",
+"Hipotensão pelo anlodipino; orientar suspender os dois por conta própria."
+],
+"gab": 1,
+"tema": "farmaco",
+"sub": "Interações e reações adversas",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r3",
+"base": "ThinkCascades 2022 (consenso Delphi de cascatas de prescrição); Critérios de Beers da AGS 2023",
+"coment": "A cascata de prescrição acontece quando o efeito adverso de um fármaco é lido como doença nova e tratado com outro fármaco, que traz efeitos próprios. O bloqueador de canal de cálcio di-hidropiridínico causa edema periférico, e acrescentar diurético para esse edema está entre as nove cascatas de maior importância clínica do consenso ThinkCascades (2022); o diurético traz hipovolemia, tontura postural, queda e lesão renal. A pergunta que interrompe a cascata é quando o sintoma começou em relação à última mudança de prescrição. A saída é trocar ou reduzir o anlodipino, decisão do prescritor, e não acrescentar outro fármaco.",
+"porAlt": [
+"Errada: o edema começou depois do anlodipino, efeito adverso conhecido dele.",
+"Correta: edema do bloqueador de canal de cálcio tratado com diurético é cascata clássica.",
+"Errada: queda em idosa polimedicada é evento adverso a medicamento até prova em contrário.",
+"Errada: acrescentar fármaco alonga a cascata, quando a saída é rever o anlodipino.",
+"Errada: a revisão é decisão do prescritor; suspender sem orientação traz outros riscos."
+]
+},
+{
+"q": "Mulher de 58 anos, internada na clínica cirúrgica, tem ferida aberta na coxa após drenagem de abscesso, deixada para fechar sozinha. No 12º dia, o leito está vermelho vivo, úmido, de aspecto granuloso e sangra fácil ao toque; na margem aparece uma faixa rosada e brilhante. Em que fase da cicatrização a ferida está e o que a faixa representa?",
+"alts": [
+"Inflamatória; a faixa é o eritema esperado dos primeiros dias",
+"Maturação; a faixa é o colágeno já reorganizado da cicatriz",
+"Proliferativa; a faixa é a epitelização que avança das bordas",
+"Proliferativa; a faixa é maceração da borda por excesso de umidade",
+"Hemostasia; a faixa é a matriz provisória de fibrina do coágulo"
+],
+"gab": 2,
+"tema": "feridas",
+"sub": "Fisiologia da cicatrização",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r1",
+"base": "Leitura Feridas e lesão por pressão do Enfermare (out/2026), seção Pele e cicatrização; Res. COFEN 787/2025 (avaliação da ferida)",
+"coment": "Tecido vermelho vivo, úmido, granuloso e friável é tecido de granulação, produto da fase proliferativa, em que fibroblastos depositam colágeno e novos capilares crescem (angiogênese). Na mesma fase, queratinócitos migram das bordas e dos anexos sobre o leito granulado: é a epitelização, que aparece como faixa rosada e brilhante na margem. A fase inflamatória vem antes, com calor, rubor e edema nos primeiros dias; a maturação começa depois do fechamento e dura meses. Maceração deixa a borda esbranquiçada e amolecida. A ferida deixada aberta com perda de tecido fecha por segunda intenção.",
+"porAlt": [
+"O eritema inflamatório é dos primeiros dias e não forma faixa brilhante na margem de leito granulado.",
+"A maturação ocorre depois que a ferida fecha; aqui o leito ainda está aberto e granulando.",
+"Correta: granulação no leito e epitelização na margem são marcas da fase proliferativa.",
+"Borda macerada fica esbranquiçada e amolecida pelo excesso de umidade, e não rosada e brilhante.",
+"A hemostasia é a fase imediata após a lesão, com coágulo de fibrina, e não o 12º dia."
+]
+},
+{
+"q": "Homem de 34 anos é operado por apendicite perfurada com peritonite purulenta. Pelo grau de contaminação, o cirurgião fecha a aponeurose, mas deixa pele e subcutâneo abertos sob curativo, com plano de suturá-los depois que a infecção local estiver controlada. A enfermeira registra no prontuário o tipo de cicatrização pretendido. Qual é o registro correto?",
+"alts": [
+"Primeira intenção, porque as bordas serão aproximadas por sutura",
+"Segunda intenção, porque a ferida fica aberta e granula sozinha",
+"Primeira intenção tardia, porque a sutura ocorre na mesma internação",
+"Segunda intenção, porque toda ferida contaminada fecha por contração",
+"Terceira intenção, isto é, fechamento primário retardado da pele"
+],
+"gab": 4,
+"tema": "feridas",
+"sub": "Fisiologia da cicatrização",
+"cenario": "cc",
+"comp": "aval",
+"nivel": "r1",
+"base": "Leitura Feridas e lesão por pressão do Enfermare (out/2026), seção Primeira, segunda e terceira intenção; Res. COFEN 787/2025 (terapia por pressão negativa)",
+"coment": "Terceira intenção é a ferida deixada aberta de propósito por um período, para controlar contaminação, edema ou infecção, e fechada depois por sutura ou enxerto; também se chama fechamento primário retardado. É o caso da pele e do subcutâneo deixados abertos após peritonite purulenta. Na primeira intenção, as bordas são aproximadas logo após a lesão, com pouca contaminação. Na segunda, a ferida não é fechada e se preenche de granulação, contrai e epiteliza. Na fase de espera, o enfermeiro prepara o leito até o fechamento, às vezes com terapia por pressão negativa, que a Res. COFEN 787/2025 permite ao enfermeiro habilitado indicar e prescrever.",
+"porAlt": [
+"Na primeira intenção a sutura é feita logo após a lesão, o que o cirurgião evitou pela contaminação.",
+"Na segunda intenção a ferida não é suturada; aqui há plano de fechamento posterior.",
+"Primeira intenção tardia não é categoria da classificação; o fechamento adiado é a terceira intenção.",
+"Ferida contaminada pode ser fechada depois de controlada a infecção, como neste caso.",
+"Correta: ferida aberta de propósito e suturada depois é fechamento primário retardado."
+]
+},
+{
+"q": "No 2º dia de pós-operatório de herniorrafia inguinal, um homem de 49 anos apresenta calor discreto, leve rubor e edema ao redor da incisão, sem secreção, sem febre e com dor controlada. Ele pergunta à enfermeira se a ferida infeccionou. Sobre a fase da cicatrização em curso, qual explicação da enfermeira está correta?",
+"alts": [
+"Os sinais são esperados na inflamação, que o macrófago faz progredir",
+"Os sinais indicam infecção de sítio cirúrgico e pedem cultura imediata",
+"Os sinais vêm da proliferação, em que o neutrófilo produz o colágeno",
+"Os sinais vêm da maturação, quando os miofibroblastos contraem a ferida",
+"Os sinais são esperados, e o fibroblasto é a primeira célula a chegar"
+],
+"gab": 0,
+"tema": "feridas",
+"sub": "Fisiologia da cicatrização",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r2",
+"base": "Leitura Feridas e lesão por pressão do Enfermare (out/2026), seção Fases da cicatrização",
+"coment": "Nos primeiros dias a ferida está na fase de hemostasia e inflamação: plaquetas formam o coágulo e liberam fatores de crescimento que atraem neutrófilos e depois macrófagos. O neutrófilo limpa bactérias e detritos; o macrófago comanda a passagem para a fase proliferativa. Calor, rubor, edema e dor discretos nos primeiros dias são esperados e não significam infecção. Sinais de alerta seriam secreção purulenta, eritema que se expande, dor crescente ou febre. O colágeno é produzido pelo fibroblasto na proliferação, e a contração pelos miofibroblastos também ocorre nessa fase, não na maturação.",
+"porAlt": [
+"Correta: inflamação discreta no 2º dia é esperada, e o macrófago conduz a passagem à proliferação.",
+"Sem secreção, febre ou eritema progressivo, os sinais discretos do 2º dia não definem infecção.",
+"Quem produz colágeno é o fibroblasto; o neutrófilo atua na limpeza durante a inflamação.",
+"A contração por miofibroblastos é da proliferação, e a maturação ocorre meses depois.",
+"As primeiras células a chegar são plaquetas e neutrófilos; o fibroblasto domina a proliferação."
+]
+},
+{
+"q": "Mulher de 71 anos, com diabetes, tem ferida de deiscência abdominal há seis semanas, com leito limpo, granulado e pouco exsudato, mas sem redução de tamanho nas últimas medidas. Exames recentes: hemoglobina glicada de 10,8% e albumina de 2,6 g/dL. Ela fuma 20 cigarros por dia. Qual conduta do enfermeiro ataca a causa de a ferida estar parada?",
+"alts": [
+"Trocar a cobertura por prata e mantê-la até a ferida fechar",
+"Aumentar a frequência de troca do curativo para três vezes ao dia",
+"Usar ácidos graxos essenciais como tratamento único do leito",
+"Tratar fatores sistêmicos com a equipe: glicemia, nutrição e fumo",
+"Aguardar sem mudanças, pois idosos cicatrizam mais devagar"
+],
+"gab": 3,
+"tema": "feridas",
+"sub": "Fisiologia da cicatrização",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Leitura Feridas e lesão por pressão do Enfermare (out/2026), seção O que atrasa a cicatrização; Res. COFEN 787/2025, art. 3º (avaliação clínica abrangente)",
+"coment": "Ferida crônica é a que ficou parada, e o cuidado é achar o que a mantém assim, não apenas trocar a cobertura. Diabetes descompensado, desnutrição e tabagismo estão entre os fatores sistêmicos que atrasam a cicatrização, e o caso traz os três (HbA1c alta, albumina baixa, 20 cigarros por dia). Pela Res. COFEN 787/2025, o cuidado começa por avaliação clínica abrangente da pessoa, e não só do leito. O plano nutricional é do nutricionista e o controle glicêmico envolve o médico, com o enfermeiro articulando. Prata sem sinal de infecção, mais trocas sem motivo ou AGE isolado não tratam a causa.",
+"porAlt": [
+"Prata é para infecção local e por tempo limitado; o leito está limpo e a causa é sistêmica.",
+"Trocas excessivas traumatizam o leito e não corrigem glicemia, nutrição ou tabagismo.",
+"AGE tem evidência limitada e não serve como tratamento único de ferida parada.",
+"Correta: hiperglicemia, desnutrição e fumo mantêm a ferida parada e precisam ser corrigidos.",
+"A idade não explica sozinha a estagnação quando há fatores corrigíveis evidentes."
+]
+},
+{
+"q": "Homem de 66 anos tem úlcera de perna há quatro meses, já em uso de compressão adequada. O leito está todo granulado, sem sinais de infecção, e a cobertura atual controla bem o exsudato. A borda, porém, está enrolada sobre si mesma, espessa, e não avança há semanas. Pelo acrônimo TIME, qual problema domina e pede intervenção?",
+"alts": [
+"T, tecido inviável no leito que pede desbridamento",
+"I, infecção ou inflamação persistente no leito",
+"M, desequilíbrio de umidade entre leito e borda",
+"E, borda que não avança e precisa ser tratada",
+"R, falha de reparo que exige enxerto imediato"
+],
+"gab": 3,
+"tema": "feridas",
+"sub": "Fisiologia da cicatrização",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Atkin L et al. Implementing TIMERS: the race against hard-to-heal wounds. J Wound Care 2019;28(Sup3a)",
+"coment": "No TIME, cada letra é um problema a corrigir no preparo do leito: T, tecido inviável; I, infecção ou inflamação; M, umidade; E, borda. Aqui o leito está granulado (T resolvido), sem infecção (I), com exsudato controlado (M), e a borda enrolada (epíbole) não avança: o problema é E. Borda enrolada não epiteliza; a conduta é reavaliar a causa, proteger a pele perilesional, tratar a borda e considerar terapias adjuvantes. O R pertence ao TIMERS (consenso de 2019), para a ferida que não responde ao tratamento padrão, e não indica enxerto imediato.",
+"porAlt": [
+"O leito está todo granulado, sem tecido inviável a desbridar.",
+"Não há sinais de infecção nem de inflamação persistente descritos no leito.",
+"O exsudato está controlado pela cobertura, sem desequilíbrio de umidade.",
+"Correta: borda enrolada que não avança é o problema E do TIME.",
+"O R é do TIMERS e indica terapia avançada após falha do padrão, não enxerto imediato."
+]
+},
+{
+"q": "Homem de 79 anos, que mora sozinho, tem LP estágio 3 no trocânter em tratamento domiciliar. A enfermeira prescreveu troca da espuma a cada três dias pela família, mas o filho só o visita aos domingos e o paciente não consegue alcançar a lesão. Após um mês, a ferida piorou. Pelo TIMERS, que dimensão o plano deixou de considerar?",
+"alts": [
+"R, reparo e regeneração com terapia avançada",
+"S, fatores sociais e relacionados ao paciente",
+"E, borda descolada que não avança sobre o leito",
+"M, umidade desequilibrada pela troca espaçada",
+"I, infecção local por permanência da cobertura"
+],
+"gab": 1,
+"tema": "feridas",
+"sub": "Fisiologia da cicatrização",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r3",
+"base": "Atkin L et al. Implementing TIMERS: the race against hard-to-heal wounds. J Wound Care 2019;28(Sup3a)",
+"coment": "O TIMERS, consenso internacional de 2019, acrescenta ao TIME duas letras: R, de reparo e regeneração tecidual, para a ferida que não responde ao tratamento padrão; e S, de fatores sociais e relacionados ao paciente, como adesão, compreensão, condição socioeconômica, rede de apoio, dor e qualidade de vida. O plano falhou porque ninguém executava a troca prescrita: o paciente não alcança a lesão e o cuidador vem uma vez por semana. Um plano que ignora o que o paciente consegue fazer em casa falha, e a correção passa por rede de apoio, visita domiciliar ou cobertura compatível com a frequência possível.",
+"porAlt": [
+"Terapia avançada só se discute depois que o padrão é executado e falha, o que não ocorreu.",
+"Correta: o plano ignorou a rede de apoio e a capacidade de autocuidado do paciente.",
+"Nada no caso descreve borda descolada; a falha está na execução do cuidado.",
+"A troca a cada três dias é adequada à espuma; o problema é que ela não acontecia.",
+"Infecção pode surgir, mas a causa da piora é a falta de quem execute o plano."
+]
+},
+{
+"q": "Ao avaliar uma lesão por pressão sacral estágio 4 em paciente posicionado em decúbito lateral, a enfermeira introduz um aplicador estéril e encontra um túnel de 3 cm de extensão. Para que outro profissional consiga comparar a medida na próxima avaliação, de que forma a posição do túnel deve ser registrada?",
+"alts": [
+"Pelos pontos cardeais, com norte apontado para o teto",
+"Pelo relógio, com as 12 horas voltadas para os pés",
+"Por quadrantes, a critério de quem faz o curativo",
+"Pelo relógio, com as 12 horas voltadas para o profissional",
+"Pelo relógio, com as 12 horas voltadas para a cabeça"
+],
+"gab": 4,
+"tema": "feridas",
+"sub": "Fisiologia da cicatrização",
+"cenario": "enf",
+"comp": "tec",
+"nivel": "r1",
+"base": "Res. COFEN 787/2025, art. 7º (registro); Res. COFEN 736/2024 (Processo de Enfermagem); leitura Feridas do Enfermare (out/2026), seção Avaliação da ferida",
+"coment": "A avaliação da ferida segue sempre a mesma ordem para que a evolução seja comparável entre profissionais. Nas dimensões, mede-se comprimento e largura (maior eixo e perpendicular), profundidade, descolamento e túnel, cuja posição se descreve pelo ponteiro do relógio com as 12 horas voltadas para a cabeça do paciente. É uma referência anatômica fixa: não muda com quem examina nem com o decúbito. A Res. COFEN 787/2025 exige registro com as características da ferida, procedimentos e materiais, em prontuário que respeite a LGPD.",
+"porAlt": [
+"Pontos cardeais não são referência padronizada na avaliação de feridas.",
+"A convenção põe as 12 horas na cabeça do paciente, não nos pés.",
+"Referência a critério de cada profissional impede comparar medidas entre avaliações.",
+"A referência é anatômica e fixa, não a posição de quem examina.",
+"Correta: ponteiro do relógio com 12 horas na cabeça do paciente."
+]
+},
+{
+"q": "Homem de 68 anos, tabagista, com anemia (hemoglobina de 8,1 g/dL) e claudicação ao caminhar, tem ferida traumática na perna há cinco semanas. O leito apresenta tecido de granulação pálido, opaco e pouco friável, sem esfacelo e com pouco exsudato. O que esse aspecto do leito sugere e qual é o passo seguinte do enfermeiro?",
+"alts": [
+"Hipergranulação; trocar para cobertura mais oclusiva",
+"Má perfusão do leito; avaliar a circulação do membro",
+"Epitelização inicial; manter a mesma conduta atual",
+"Esfacelo aderido; iniciar desbridamento com papaína",
+"Biofilme maduro; aplicar prata por tempo indefinido"
+],
+"gab": 1,
+"tema": "feridas",
+"sub": "Fisiologia da cicatrização",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r3",
+"base": "Leitura Feridas e lesão por pressão do Enfermare (out/2026), seção Tipos de tecido no leito; ESVS 2022 (índice tornozelo-braquial)",
+"coment": "Granulação saudável é vermelho vivo, úmida, granulosa e sangra fácil ao toque. Granulação pálida sugere má perfusão, e o caso traz os motivos: anemia, tabagismo e claudicação, que aponta doença arterial periférica. A causa decide o tratamento de base, e nenhuma cobertura compensa a falta de fluxo; o passo seguinte é avaliar a circulação do membro, com pulsos e índice tornozelo-braquial, e encaminhar para avaliação vascular se alterado. Hipergranulação é tecido acima do nível da pele; epitelização é rosada e brilhante na borda; esfacelo é amarelado e inviável.",
+"porAlt": [
+"Hipergranulação é tecido exuberante acima da pele, não leito pálido e opaco.",
+"Correta: granulação pálida sugere má perfusão, coerente com anemia, fumo e claudicação.",
+"Epitelização é rosada e brilhante na borda; o leito descrito está pálido e parado.",
+"O caso afirma que não há esfacelo, então não há tecido inviável a desbridar.",
+"Prata é para infecção e por tempo limitado; o achado aponta perfusão, não biofilme."
+]
+},
+{
+"q": "Mulher de 83 anos, internada há cinco dias por fratura de fêmur, apresenta na região sacral uma bolha intacta de conteúdo seroso claro, com pele rosada ao redor, sem área púrpura ou castanha, sem tecido necrótico e sem gordura visível. Pela classificação NPIAP 2016, como a enfermeira deve registrar a lesão?",
+"alts": [
+"Estágio 2, perda parcial com bolha serosa",
+"Estágio 1, pois a pele ainda está íntegra",
+"Tissular profunda, pela bolha sobre o sacro",
+"Não classificável, pois a bolha oculta o leito",
+"Estágio 3, por perda de espessura total"
+],
+"gab": 0,
+"tema": "feridas",
+"sub": "Lesão por pressão",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r1",
+"base": "Classificação NPIAP 2016 (Edsberg et al., JWOCN 2016), versão SOBEST/SOBENDE 2016; Nota Técnica GVIMS/GGTES/Anvisa 05/2023",
+"coment": "Pelo NPIAP 2016, estágio 2 é a perda de espessura parcial com derme exposta: leito viável, rosa ou vermelho, úmido, ou bolha de conteúdo seroso, intacta ou rompida, sem gordura visível, granulação, esfacelo ou escara. Bolha serosa sobre proeminência óssea, numa idosa restrita ao leito, é a apresentação típica. A bolha de conteúdo sanguinolento, ou a área púrpura ou castanha, indicaria lesão tissular profunda. Estágio 1 é pele íntegra com eritema que não embranquece. A regra geral é classificar pelo tecido mais profundo visível ou palpável.",
+"porAlt": [
+"Correta: bolha de conteúdo seroso é uma das apresentações do estágio 2.",
+"A bolha já indica perda da integridade da epiderme; estágio 1 é eritema em pele íntegra.",
+"Tissular profunda tem bolha sanguinolenta ou área púrpura, ausentes aqui.",
+"Bolha serosa intacta não esconde perda total; ela define o estágio 2.",
+"Estágio 3 exige perda total com gordura visível, o que não há."
+]
+},
+{
+"q": "Na UTI, homem de 72 anos em uso de noradrenalina, há seis dias em ventilação mecânica, apresenta no calcâneo esquerdo área púrpura persistente que não embranquece à pressão, com bolha de conteúdo sanguinolento. No dia anterior, o local já estava doloroso e mais frio. Pela NPIAP 2016, qual é a classificação e a preocupação principal?",
+"alts": [
+"Estágio 2, por ser bolha; tende a fechar sem perda tecidual",
+"Estágio 1 em pele escura; basta aliviar a pressão por um dia",
+"Tissular profunda; o dano está junto ao osso e pode abrir",
+"Não classificável; a bolha deve ser rompida para estadiar",
+"Estágio 3, pela cor púrpura que indica perda total da pele"
+],
+"gab": 2,
+"tema": "feridas",
+"sub": "Lesão por pressão",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "r2",
+"base": "Classificação NPIAP 2016 (Edsberg et al., JWOCN 2016), versão SOBEST/SOBENDE 2016; Nota Técnica GVIMS/GGTES/Anvisa 05/2023",
+"coment": "Lesão por pressão tissular profunda é a área persistente de descoloração vermelho-escura, marrom ou púrpura que não embranquece, ou o descolamento epidérmico com leito escuro ou bolha de conteúdo sanguinolento, com pele intacta ou não. Dor e mudança de temperatura costumam preceder a cor, como no caso. O dano começa junto ao osso, por pressão e cisalhamento na interface osso-músculo, e a lesão pode evoluir rápido para estágio 3 ou 4. Não é estágio 1 escuro nem estágio 2, que tem bolha serosa. Vasopressor e ventilação elevam o risco além do escore de Braden.",
+"porAlt": [
+"Estágio 2 tem bolha serosa; a sanguinolenta sobre área púrpura indica dano profundo.",
+"Lesão tissular profunda não é estágio 1 escuro e pode abrir em poucos dias.",
+"Correta: área púrpura com bolha sanguinolenta é lesão tissular profunda, que pode abrir.",
+"Não classificável é perda total coberta por esfacelo ou escara, e bolha não se rompe para estadiar.",
+"Cor púrpura não define perda total; estágio 3 exige gordura visível."
+]
+},
+{
+"q": "Homem de 77 anos tem lesão por pressão sacral coberta inteiramente por escara amolecida, sem que se veja o fundo; o membro e a região têm boa perfusão. Após desbridamento autolítico e instrumental conservador, o leito passa a mostrar gordura visível, sem fáscia, músculo, tendão ou osso. Como fica o registro da lesão antes e depois do desbridamento?",
+"alts": [
+"Era estágio 4 e regrediu para estágio 3",
+"Era não classificável e passou a estágio 3",
+"Era estágio 3 desde o início, pela escara",
+"Era tissular profunda e virou estágio 3",
+"Era não classificável e segue assim até fechar"
+],
+"gab": 1,
+"tema": "feridas",
+"sub": "Lesão por pressão",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r2",
+"base": "Classificação NPIAP 2016 (Edsberg et al., JWOCN 2016), versão SOBEST/SOBENDE 2016",
+"coment": "Lesão por pressão não classificável é a perda de espessura total cuja extensão não pode ser confirmada porque está coberta por esfacelo ou escara. Removido o tecido inviável, aparece o estágio real, 3 ou 4, conforme o tecido mais profundo visível ou palpável. Gordura visível sem fáscia, músculo, tendão, ligamento, cartilagem ou osso define o estágio 3. Antes do desbridamento não era possível afirmar estágio algum, porque o fundo estava oculto. A exceção à remoção é a escara estável (seca, aderida, íntegra) em calcâneo ou membro isquêmico, que não é o caso de uma escara amolecida em região bem perfundida.",
+"porAlt": [
+"Não se podia afirmar estágio 4 com o fundo oculto, e o NPIAP não usa regressão de estágio.",
+"Correta: fundo coberto por escara é não classificável; após a remoção, gordura visível é estágio 3.",
+"Com escara cobrindo o fundo, a profundidade não podia ser confirmada como estágio 3.",
+"Tissular profunda é descoloração púrpura ou bolha sanguinolenta, não escara cobrindo o leito.",
+"Removido o tecido que ocultava o fundo, a lesão passa a ser estadiada pelo que se vê."
+]
+},
+{
+"q": "Uma lesão por pressão estágio 4 no ísquio, com osso exposto na admissão, está há dois meses em tratamento. Hoje o leito está coberto por granulação, sem osso visível, e a profundidade caiu pela metade. Um técnico de enfermagem pergunta se já pode registrar a lesão como estágio 3 na evolução. Qual é a orientação correta da enfermeira?",
+"alts": [
+"Sim, pois o estágio acompanha o tecido visível hoje",
+"Sim, mas só após confirmação da cicatrização pelo médico",
+"Não, deve ser registrada agora como estágio 2 em fechamento",
+"Não, ela continua sendo estágio 4, agora em cicatrização",
+"Não, passa a ser não classificável até epitelizar"
+],
+"gab": 3,
+"tema": "feridas",
+"sub": "Lesão por pressão",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r2",
+"base": "Classificação NPIAP 2016 (Edsberg et al., JWOCN 2016), versão SOBEST/SOBENDE 2016",
+"coment": "Não existe regressão de estágio na classificação NPIAP. O estágio descreve a profundidade máxima de dano que a lesão atingiu, e uma LP estágio 4 que granula continua sendo estágio 4, registrada como em cicatrização. O tecido de granulação que preenche a cavidade não reconstitui músculo, fáscia ou osso, e a cicatriz nunca recupera toda a resistência da pele original. A evolução se acompanha pelas medidas (comprimento, largura, profundidade) e pelo tipo de tecido no leito, e não pela troca do número do estágio.",
+"porAlt": [
+"O estágio não acompanha o tecido de hoje; ele registra o dano máximo atingido.",
+"Não há regressão de estágio, com ou sem confirmação de outro profissional.",
+"Estágio 2 é perda parcial com derme exposta, o que nunca descreveu esta lesão.",
+"Correta: LP estágio 4 que granula é estágio 4 em cicatrização, sem regressão.",
+"Não classificável é fundo oculto por esfacelo ou escara, não leito granulado."
+]
+},
+{
+"q": "Mulher de 80 anos, internada após AVC isquêmico, recebe na admissão as seguintes notas na escala de Braden: percepção sensorial 2, umidade 2, atividade 1, mobilidade 2, nutrição 2 e fricção e cisalhamento 1. Pelas faixas de risco adotadas no protocolo da rede Ebserh, qual é o escore total e a classificação de risco dessa paciente?",
+"alts": [
+"Total de 10 pontos, correspondente a risco muito alto",
+"Total de 12 pontos, correspondente a risco moderado",
+"Total de 10 pontos, correspondente a risco alto",
+"Total de 10 pontos, correspondente a risco moderado",
+"Total de 14 pontos, correspondente a risco leve"
+],
+"gab": 2,
+"tema": "feridas",
+"sub": "Lesão por pressão",
+"cenario": "enf",
+"comp": "calc",
+"nivel": "r2",
+"base": "Escala de Braden validada por Paranhos e Santos (1999); faixas do POP de avaliação de risco da Ebserh HU-UFGD (2025); Nota Técnica GVIMS/GGTES/Anvisa 05/2023",
+"coment": "A Braden tem seis subescalas: percepção sensorial, umidade, atividade, mobilidade e nutrição pontuam de 1 a 4, e fricção e cisalhamento de 1 a 3. O total vai de 6 a 23, e quanto menor, maior o risco. Aqui: 2 + 2 + 1 + 2 + 2 + 1 = 10. Pelas faixas do POP da Ebserh (HU-UFGD, 2025), que segue a validação de Paranhos e Santos: acima de 18 sem risco, 15 a 18 leve, 13 a 14 moderado, 10 a 12 alto e 9 ou menos muito alto. Escore 10 é risco alto. Protocolos podem variar um pouco; na prova vale a faixa do enunciado. A escala não substitui o julgamento clínico.",
+"porAlt": [
+"O total está certo, mas risco muito alto é 9 pontos ou menos.",
+"A soma das seis subescalas dá 10, e não 12 pontos.",
+"Correta: a soma dá 10 pontos, na faixa de 10 a 12, que é risco alto.",
+"Risco moderado corresponde a 13 ou 14 pontos, e não a 10.",
+"A soma correta é 10, e 14 pontos seria risco moderado, não leve."
+]
+},
+{
+"q": "Homem de 45 anos, com fratura de pelve estável, está restrito ao leito por prescrição médica, mas é lúcido e muda de posição sozinho, com frequência e amplitude, usando o trapézio da cama. A residente preenche a escala de Braden na admissão. Como devem ser pontuadas as subescalas atividade e mobilidade desse paciente?",
+"alts": [
+"Atividade 4 e mobilidade 1, pois se move no leito",
+"Atividade 1 e mobilidade 1, pois está restrito ao leito",
+"Atividade 2 e mobilidade 4, pois está confinado à cadeira",
+"Atividade 3 e mobilidade 3, pois anda ocasionalmente",
+"Atividade 1 e mobilidade 4, pois muda de posição sozinho"
+],
+"gab": 4,
+"tema": "feridas",
+"sub": "Lesão por pressão",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r3",
+"base": "Escala de Braden validada por Paranhos e Santos (1999); Nota Técnica GVIMS/GGTES/Anvisa 05/2023",
+"coment": "Atividade e mobilidade são subescalas distintas, e confundi-las é o erro de preenchimento mais comum. Atividade mede o quanto o paciente sai da cama e anda: quem está restrito ao leito recebe 1 (acamado). Mobilidade mede a capacidade de mudar e controlar a posição do corpo: quem faz mudanças frequentes e importantes de posição sem auxílio recebe 4 (sem limitação). O paciente do caso está acamado por prescrição, mas se reposiciona sozinho. Ambas pontuam de 1 a 4, e o escore total orienta o plano junto com o julgamento clínico.",
+"porAlt": [
+"Inverte as subescalas: quem está restrito ao leito tem atividade 1, e quem se move tem mobilidade alta.",
+"Estar no leito não reduz a mobilidade de quem muda de posição sozinho e com frequência.",
+"Confinado à cadeira não descreve quem está restrito ao leito por prescrição.",
+"Andar ocasionalmente não se aplica a quem não sai do leito.",
+"Correta: acamado pontua atividade 1, e quem se reposiciona sozinho pontua mobilidade 4."
+]
+},
+{
+"q": "O Núcleo de Segurança do Paciente de um hospital geral revisa as lesões por pressão adquiridas durante a internação no último mês para decidir quais devem ser notificadas como never events ao Sistema Nacional de Vigilância Sanitária. Pela Nota Técnica GVIMS/GGTES/Anvisa 05/2023, quais categorias da classificação NPIAP entram nesse grupo?",
+"alts": [
+"Estágio 3, estágio 4 e lesão não classificável",
+"Estágio 4 e lesão não classificável, somente",
+"Estágios 2, 3 e 4, quando adquiridos no hospital",
+"Estágio 3, estágio 4 e lesão tissular profunda",
+"Qualquer estágio surgido após 48 horas da admissão"
+],
+"gab": 0,
+"tema": "feridas",
+"sub": "Lesão por pressão",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Nota Técnica GVIMS/GGTES/Anvisa 05/2023 (prevenção de lesão por pressão); RDC ANVISA 36/2013",
+"coment": "Pela Nota Técnica GVIMS/GGTES/Anvisa 05/2023, são never events relacionados à lesão por pressão, passíveis de notificação ao Sistema Nacional de Vigilância Sanitária pelo Núcleo de Segurança do Paciente, o estágio 3, o estágio 4 e a lesão não classificável. A mesma nota registra que, de 2014 a 2022, 72,21% dos never events notificados foram LP estágio 3. Como os óbitos por evento adverso, são notificados no Notivisa em até 72 horas, com investigação e plano de ação em até 60 dias. As demais LP também são incidentes notificáveis, mas não compõem esse grupo.",
+"porAlt": [
+"Correta: estágio 3, estágio 4 e não classificável são os never events da nota técnica.",
+"Omite o estágio 3, que responde pela maioria dos never events notificados.",
+"O estágio 2 não está entre os never events definidos pela nota técnica.",
+"A lesão tissular profunda não integra a lista de never events da nota técnica.",
+"O critério é a categoria NPIAP, e não um prazo após a admissão."
+]
+},
+{
+"q": "Mulher de 76 anos, acamada após AVC, com Braden 11 e sem lesões, está em colchão de ar com pressão alternada. A enfermeira elabora a prescrição de reposicionamento para a equipe de enfermagem da unidade. Pela Nota Técnica Anvisa 05/2023, qual orientação de posicionamento em decúbito lateral está correta?",
+"alts": [
+"Decúbito lateral a 90 graus, apoiado sobre o trocânter",
+"Dispensar mudança de decúbito enquanto estiver no colchão",
+"Decúbito lateral inclinado a 30 graus, com horário individual",
+"Decúbito lateral a 45 graus, a cada 4 horas fixas para todos",
+"Decúbito lateral a 60 graus, com cabeceira elevada a 45 graus"
+],
+"gab": 2,
+"tema": "feridas",
+"sub": "Lesão por pressão",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Nota Técnica GVIMS/GGTES/Anvisa 05/2023 (prevenção de lesão por pressão)",
+"coment": "A Nota Técnica Anvisa 05/2023 pede reposicionamento de todos os pacientes em risco, a menos que contraindicado, com frequência individualizada pela tolerância da pele, condição clínica, objetivos do cuidado, conforto e dor, e com estratégias de lembrete. Em decúbito lateral, a inclinação recomendada é de 30 graus, que tira o peso do trocânter e do sacro. A mudança de decúbito é prescrição de enfermagem. A superfície de redistribuição, como o colchão de ar, não substitui o reposicionamento nem a inspeção da pele.",
+"porAlt": [
+"O lateral a 90 graus concentra a pressão sobre o trocânter.",
+"Superfície de suporte não substitui o reposicionamento pela nota técnica.",
+"Correta: lateral a 30 graus, com frequência definida para cada paciente.",
+"A frequência é individualizada, não um intervalo fixo igual para todos.",
+"A inclinação recomendada é de 30 graus, e cabeceira alta aumenta o cisalhamento."
+]
+},
+{
+"q": "Homem de 70 anos, diabético, em pós-operatório de revascularização do miocárdio, está restrito ao leito e tem Braden 12. A técnica de enfermagem coloca um rolo de compressas apenas sob o tendão de Aquiles para elevar os calcanhares do colchão. Qual orientação da enfermeira segue a Nota Técnica Anvisa 05/2023?",
+"alts": [
+"Manter o rolo, pois o tendão de Aquiles tolera a carga",
+"Massagear os calcâneos a cada mudança de decúbito",
+"Apoiar os calcâneos sobre luvas de procedimento com água",
+"Usar travesseiro sob a panturrilha, com calcâneos livres",
+"Cobrir o calcâneo com filme transparente de poliuretano"
+],
+"gab": 3,
+"tema": "feridas",
+"sub": "Lesão por pressão",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Nota Técnica GVIMS/GGTES/Anvisa 05/2023 (prevenção de lesão por pressão)",
+"coment": "Pela Nota Técnica Anvisa 05/2023, os calcâneos devem ficar livres, com dispositivo próprio de suspensão ou travesseiro sob a panturrilha, de modo que o calcanhar não toque o colchão e o peso da perna se distribua ao longo da panturrilha. Apoiar só o tendão de Aquiles concentra a pressão em área pequena. A nota também orienta não massagear proeminências ósseas nem áreas hiperemiadas. Luvas com água não redistribuem a pressão de forma adequada, e filme transparente não alivia carga.",
+"porAlt": [
+"Apoiar só o tendão concentra a pressão; o peso deve se distribuir pela panturrilha.",
+"Massagear proeminências ósseas é contraindicado pela nota técnica.",
+"Luvas com água não são dispositivo de suspensão e não aliviam a pressão.",
+"Correta: travesseiro sob a panturrilha distribui o peso e deixa o calcanhar sem contato.",
+"Filme transparente não redistribui a pressão sobre o calcâneo."
+]
+},
+{
+"q": "Na UTI, uma paciente de 60 anos usa cateter nasoenteral, tubo orotraqueal, oxímetro de dedo, cateter vesical de demora e colar cervical. A enfermeira revisa a prescrição de cuidados para prevenir lesão por pressão relacionada a dispositivo médico. Pela Nota Técnica Anvisa 05/2023, qual é a frequência mínima de inspeção da pele sob os dispositivos?",
+"alts": [
+"Uma vez por plantão noturno, na troca dos fixadores",
+"Uma vez ao dia, durante o banho no leito da manhã",
+"A cada 72 horas, junto à troca dos curativos",
+"Quando o paciente referir dor no local do dispositivo",
+"Pelo menos duas vezes ao dia, sob cada dispositivo"
+],
+"gab": 4,
+"tema": "feridas",
+"sub": "Lesão por pressão",
+"cenario": "uti",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Nota Técnica GVIMS/GGTES/Anvisa 05/2023 (prevenção de lesão por pressão)",
+"coment": "A Nota Técnica Anvisa 05/2023 pede inspeção da pele sob dispositivos médicos (cateteres, tubos, sondas, drenos, imobilizadores) pelo menos duas vezes ao dia, além do exame diário das proeminências ósseas. Os dispositivos devem ter indicação definida, tamanho certo e material macio, e ser reposicionados e acolchoados quando possível. A LP relacionada a dispositivo costuma reproduzir o formato dele e se classifica pelo mesmo sistema de estágios. Paciente sedado ou intubado não refere dor, por isso a inspeção não pode depender de queixa.",
+"porAlt": [
+"Uma inspeção por plantão noturno fica abaixo do mínimo de duas vezes ao dia.",
+"Uma vez ao dia é a frequência das proeminências ósseas, não a mínima sob dispositivos.",
+"Intervalo de 72 horas deixa a pele sem avaliação por tempo excessivo.",
+"Paciente intubado não refere dor; esperar queixa atrasa o diagnóstico.",
+"Correta: a nota técnica pede inspeção sob dispositivos pelo menos duas vezes ao dia."
+]
+},
+{
+"q": "Um hospital geral vai padronizar escalas de risco de lesão por pressão por setor. A comissão de pele propõe Braden para os adultos internados e pede uma escala específica para a pediatria, outra para o centro cirúrgico, voltada a lesões do posicionamento, e outra para a terapia intensiva. Quais escalas a Nota Técnica Anvisa 05/2023 cita para esses três setores?",
+"alts": [
+"Braden Q, ELPO e Evaruci, respectivamente",
+"Braden Q, Evaruci e ELPO, respectivamente",
+"Norton, ELPO e Braden Q, respectivamente",
+"ELPO, Braden Q e Waterlow, respectivamente",
+"Evaruci, Norton e a ELPO, respectivamente"
+],
+"gab": 0,
+"tema": "feridas",
+"sub": "Lesão por pressão",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "tit",
+"base": "Nota Técnica GVIMS/GGTES/Anvisa 05/2023 (prevenção de lesão por pressão)",
+"coment": "A Nota Técnica Anvisa 05/2023 pede avaliação de risco com escala validada para todos os pacientes admitidos, com acompanhamento diário e reavaliação quando a condição clínica muda. A Braden, validada no Brasil por Paranhos e Santos em 1999, é a mais usada no adulto. Para populações especiais, a nota indica a Braden Q na pediatria, a ELPO (Escala de Avaliação de Risco para o Desenvolvimento de Lesões Decorrentes do Posicionamento Cirúrgico) no centro cirúrgico e a Evaruci na terapia intensiva. Nenhuma escala substitui o julgamento clínico.",
+"porAlt": [
+"Correta: Braden Q na pediatria, ELPO no centro cirúrgico e Evaruci na UTI.",
+"Troca as duas últimas: ELPO é do centro cirúrgico e Evaruci da UTI.",
+"Norton não é a escala pediátrica citada, e Braden Q não é para a UTI.",
+"ELPO é do centro cirúrgico, não da pediatria, e Waterlow não é a citada para a UTI.",
+"Evaruci é da UTI, e Norton não é a escala citada para o centro cirúrgico."
+]
+},
+{
+"q": "Homem negro de 64 anos, acamado por sequela de AVC, tem Braden 13. Na inspeção do sacro, a enfermeira não identifica eritema, mas a área está mais quente, endurecida e dolorosa que a pele vizinha. A técnica de enfermagem sugere massagear o local com hidratante. Qual conduta está de acordo com a Nota Técnica Anvisa 05/2023?",
+"alts": [
+"Massagear a área para ativar a circulação local",
+"Valorizar calor e endurecimento, sem massagear o local",
+"Registrar pele normal, pois não há eritema visível",
+"Aplicar compressa fria para reduzir o endurecimento",
+"Classificar como estágio 2 pela dor e pelo calor"
+],
+"gab": 1,
+"tema": "feridas",
+"sub": "Lesão por pressão",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Nota Técnica GVIMS/GGTES/Anvisa 05/2023 (prevenção de lesão por pressão); Classificação NPIAP 2016",
+"coment": "Em pele negra, o eritema do estágio 1 pode não ser visível, e a avaliação deve incluir sensibilidade, temperatura e consistência; pelo NPIAP 2016, essas alterações podem até preceder a mudança de cor. Calor, endurecimento e dor sobre o sacro de paciente em risco pedem alívio de pressão, reposicionamento e reavaliação próxima. A Nota Técnica Anvisa 05/2023 orienta hidratar a pele diariamente sem massagear proeminências ósseas ou áreas hiperemiadas, porque a massagem lesa tecidos já comprometidos. Estágio 2 exige perda de espessura parcial, o que não há.",
+"porAlt": [
+"A nota técnica contraindica massagem de proeminências ósseas e áreas comprometidas.",
+"Correta: em pele negra, calor e endurecimento sinalizam dano, e a massagem é contraindicada.",
+"Ausência de eritema visível não exclui lesão em pele escura.",
+"Compressa fria não é medida de prevenção prevista e não alivia a pressão.",
+"Estágio 2 exige perda parcial de pele, ausente nesta pele íntegra."
+]
+},
+{
+"q": "Mulher de 69 anos tem lesão por pressão sacral estágio 4 cavitária, com exsudato seroso abundante, leito de granulação que sangra levemente ao toque e sem sinais de infecção. A cobertura atual satura em poucas horas e macera a borda. Qual cobertura primária a enfermeira deve indicar para preencher a cavidade?",
+"alts": [
+"Hidrocoloide em placa, para manter o leito úmido",
+"Hidrogel amorfo, para hidratar o leito da cavidade",
+"Alginato de cálcio, que absorve e ajuda na hemostasia",
+"Filme transparente, para observar o leito sem trocar",
+"Ácidos graxos essenciais, para proteger o tecido novo"
+],
+"gab": 2,
+"tema": "feridas",
+"sub": "Coberturas e curativos",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Res. COFEN 787/2025, art. 4º (seleção e prescrição de coberturas); leitura Feridas do Enfermare (out/2026), seção Coberturas",
+"coment": "O alginato de cálcio é fibra de alga que troca cálcio por sódio do exsudato e vira gel; é indicado em feridas muito exsudativas e cavitárias, preenche a cavidade e tem ação hemostática, útil no sangramento leve. Pede cobertura secundária. Hidrocoloide é evitado em ferida cavitária ou muito exsudativa; hidrogel doa umidade e macera a borda quando o exsudato é abundante; filme transparente não absorve. Pela Res. COFEN 787/2025, selecionar, indicar e prescrever a cobertura é atribuição do enfermeiro.",
+"porAlt": [
+"Hidrocoloide é evitado em ferida cavitária e muito exsudativa.",
+"Hidrogel doa umidade e pioraria a maceração de uma ferida muito exsudativa.",
+"Correta: alginato absorve exsudato abundante, preenche cavidade e é hemostático.",
+"Filme transparente não absorve exsudato e não preenche cavidade.",
+"AGE tem evidência limitada e não serve para ferida profunda muito exsudativa."
+]
+},
+{
+"q": "Homem de 55 anos tem ferida na perna com exsudato purulento, odor que persiste após a limpeza, eritema que se expande e dor crescente. Um técnico de enfermagem sugere aplicar placa de hidrocoloide, para trocar só a cada cinco dias e reduzir a manipulação da ferida. Qual avaliação da enfermeira sobre essa sugestão está correta?",
+"alts": [
+"Adequada, pois o hidrocoloide trata a infecção local",
+"Adequada, desde que troque a placa a cada 24 horas",
+"Inadequada, pois o hidrocoloide resseca a ferida",
+"Inadequada, pois a placa oclusiva é evitada na infecção",
+"Inadequada, pois o hidrocoloide é só para queimaduras"
+],
+"gab": 3,
+"tema": "feridas",
+"sub": "Coberturas e curativos",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Res. COFEN 787/2025, art. 4º (prescrição de coberturas pelo enfermeiro); leitura Feridas do Enfermare (out/2026), seção Coberturas",
+"coment": "O hidrocoloide é placa oclusiva que forma gel em contato com o exsudato, mantém umidade e favorece o desbridamento autolítico. É indicado em feridas superficiais, limpas, pouco a moderadamente exsudativas, e é evitado em ferida infectada, muito exsudativa ou cavitária, além de pele frágil. O caso traz sinais de infecção local: exsudato purulento, odor após limpeza, eritema que se expande e dor crescente. A conduta é limpeza, antisséptico ou cobertura antimicrobiana (prata, PHMB) com reavaliação e, se houver sinais sistêmicos, avaliação médica. A prescrição da cobertura é do enfermeiro.",
+"porAlt": [
+"Hidrocoloide não tem ação antimicrobiana e é evitado na infecção.",
+"Trocar a cada 24 horas não muda a contraindicação na ferida infectada.",
+"O hidrocoloide mantém umidade, não resseca; o erro é o uso na infecção.",
+"Correta: placa oclusiva como o hidrocoloide é evitada em ferida infectada.",
+"O hidrocoloide tem várias indicações; a restrição aqui é a infecção."
+]
+},
+{
+"q": "Uma lesão por pressão no trocânter tem 60% de esfacelo e sinais de infecção local. A prescrição do plantão anterior associa, na mesma troca, pomada de colagenase no leito e cobertura com prata por cima, para desbridar e tratar a infecção ao mesmo tempo. O que a enfermeira deve considerar ao revisar essa prescrição?",
+"alts": [
+"A prata potencializa a colagenase e acelera o desbridamento",
+"A prata e outros metais inativam a colagenase; não associar",
+"A associação é segura se a prata ficar por menos de 7 dias",
+"A colagenase deve ficar sobre a prata, e não o contrário",
+"A colagenase neutraliza a prata, mas mantém a ação enzimática"
+],
+"gab": 1,
+"tema": "feridas",
+"sub": "Coberturas e curativos",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r3",
+"base": "Res. COFEN 787/2025, art. 4º (prescrição de coberturas); bula da colagenase; leitura Feridas do Enfermare (out/2026), seção Coberturas",
+"coment": "A colagenase é enzima que degrada o colágeno desnaturado do tecido necrótico e serve ao desbridamento enzimático de necrose e esfacelo. Prata, iodo e outros metais, além de alguns antissépticos, inativam a enzima, como consta em bula, e por isso a associação na mesma troca anula o desbridamento. A ordem das camadas não resolve. A enfermeira precisa escolher a prioridade do momento: tratar a infecção local com antimicrobiano tópico e desbridar por outro método compatível, ou desbridar com a enzima sem metal associado, reavaliando o leito a cada troca.",
+"porAlt": [
+"Ocorre o oposto: metais como a prata inativam a colagenase.",
+"Correta: prata e outros metais inativam a colagenase, e a associação deve ser evitada.",
+"A inativação da enzima independe do tempo de uso da prata.",
+"Inverter as camadas mantém o contato e a inativação da enzima.",
+"É a prata que inativa a colagenase, que perde a ação enzimática."
+]
+},
+{
+"q": "Mulher de 74 anos, com boa perfusão nos membros e sem sinais de infecção, tem lesão por pressão sacral com esfacelo amarelado e seco aderido ao leito, pouco exsudato e pele perilesional íntegra. A enfermeira opta por um método seletivo e indolor de desbridamento. Qual cobertura é mais adequada a esse objetivo?",
+"alts": [
+"Alginato de cálcio, para absorver o esfacelo seco",
+"Espuma de poliuretano, para isolar e amortecer",
+"Carvão ativado com prata, para controlar o odor",
+"Gaze úmida que seca e é arrancada na troca",
+"Hidrogel, que hidrata e amolece o tecido inviável"
+],
+"gab": 4,
+"tema": "feridas",
+"sub": "Coberturas e curativos",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Res. COFEN 787/2025 (desbridamento autolítico pelo enfermeiro); leitura Feridas do Enfermare (out/2026), seções Coberturas e Desbridamento",
+"coment": "O desbridamento autolítico usa as enzimas do próprio leito para digerir o tecido inviável sob cobertura que mantém umidade; é seletivo e indolor, porém lento. O hidrogel, gel com alto teor de água, hidrata o leito e amolece necrose e esfacelo, e é indicado em feridas secas. Alginato e espuma são para exsudato moderado a alto e ressecam ou não atuam no leito seco. A gaze úmida que seca e é arrancada é desbridamento mecânico, pouco seletivo e doloroso. A Res. COFEN 787/2025 lista o desbridamento autolítico entre as competências do enfermeiro capacitado.",
+"porAlt": [
+"Alginato é para ferida exsudativa e resseca e adere no leito seco.",
+"Espuma é para exsudato moderado a alto e é evitada na ferida seca.",
+"Carvão com prata é para ferida infectada e fétida, o que não é o caso.",
+"Gaze úmida que seca é desbridamento mecânico, doloroso e pouco seletivo.",
+"Correta: hidrogel promove desbridamento autolítico, seletivo e indolor, no leito seco."
+]
+},
+{
+"q": "Homem de 61 anos tem úlcera na perna infectada, com exsudato abundante e odor fétido que o constrange no convívio familiar. Não há osso nem tendão expostos, e a perfusão do membro está preservada. A enfermeira escolhe a cobertura primária. Qual opção reúne a indicação adequada e a restrição correta dessa cobertura?",
+"alts": [
+"Carvão ativado com prata; evitar sobre osso ou tendão",
+"Hidrogel; evitar em ferida com qualquer quantidade de odor",
+"Hidrocoloide; evitar em pele perilesional íntegra e seca",
+"Alginato de cálcio; evitar quando houver exsudato abundante",
+"Ácidos graxos essenciais; evitar só em feridas superficiais"
+],
+"gab": 0,
+"tema": "feridas",
+"sub": "Coberturas e curativos",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Res. COFEN 787/2025, art. 4º (prescrição de coberturas); leitura Feridas do Enfermare (out/2026), seção Coberturas",
+"coment": "O carvão ativado adsorve odor e bactérias, e a prata associada é antimicrobiana de amplo espectro; a indicação típica é a ferida infectada, fétida e muito exsudativa, exatamente o caso. As restrições são ferida seca e exposição óssea ou tendínea. A prata é usada por tempo limitado, com reavaliação, e não indefinidamente. Hidrogel doa umidade e não controla exsudato abundante; hidrocoloide é evitado na infecção; alginato é justamente para exsudato abundante; AGE tem evidência limitada e não trata ferida infectada.",
+"porAlt": [
+"Correta: carvão com prata serve à ferida infectada e fétida e é evitado sobre osso ou tendão.",
+"O hidrogel não é restrito pelo odor, e sim por exsudato abundante.",
+"O hidrocoloide é evitado na ferida infectada, não por pele perilesional íntegra.",
+"O alginato é indicado justamente quando o exsudato é abundante.",
+"AGE não trata ferida infectada, e sua indicação é a ferida superficial limpa."
+]
+},
+{
+"q": "Homem de 58 anos será admitido na UTI após cirurgia cardíaca longa, com previsão de sedação e uso de vasopressor. Tem pele sacral íntegra e Braden 10. Além de reposicionamento programado e superfície de suporte de redistribuição, qual cobertura profilática a Nota Técnica Anvisa 05/2023 cita para áreas de risco?",
+"alts": [
+"Hidrocoloide extrafino sobre o sacro diariamente",
+"Filme transparente de poliuretano sobre o sacro",
+"Espuma de poliuretano multicamadas com silicone",
+"Alginato de cálcio fixado com fita sobre o sacro",
+"Gaze com ácidos graxos essenciais sob a fralda"
+],
+"gab": 2,
+"tema": "feridas",
+"sub": "Coberturas e curativos",
+"cenario": "uti",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Nota Técnica GVIMS/GGTES/Anvisa 05/2023 (prevenção de lesão por pressão)",
+"coment": "Entre as medidas de prevenção, a Nota Técnica Anvisa 05/2023 cita coberturas profiláticas de espuma de poliuretano multicamadas com silicone sobre áreas de risco, escolhidas por avaliação clínica e custo-benefício. A espuma redistribui pressão e reduz fricção e cisalhamento, e a borda de silicone permite levantar e inspecionar a pele sem trauma. Não substitui reposicionamento, superfície de suporte nem inspeção diária. Vasopressor e cirurgia longa elevam o risco além do escore. Alginato é cobertura de tratamento de ferida exsudativa, não de prevenção sobre pele íntegra.",
+"porAlt": [
+"Hidrocoloide não é a cobertura profilática citada e tem adesivo que agride pele frágil.",
+"Filme transparente não amortece nem redistribui pressão sobre o sacro.",
+"Correta: a nota técnica cita espuma multicamadas com silicone como profilaxia.",
+"Alginato é cobertura de tratamento para ferida exsudativa, não de prevenção.",
+"Gaze com AGE sob a fralda não redistribui pressão nem é a cobertura citada."
+]
+},
+{
+"q": "Um técnico de enfermagem com 10 anos de experiência concluiu curso livre de tratamento de feridas e pede à enfermeira para assumir o desbridamento instrumental conservador de esfacelo nas lesões por pressão da unidade, já que tem prática com bisturi. Pela Resolução COFEN 787/2025, qual é a resposta correta da enfermeira?",
+"alts": [
+"Pode, desde que o curso tenha carga mínima de 360 horas",
+"Pode, sob supervisão direta da enfermeira à beira do leito",
+"Pode fazer o desbridamento, mas não prescrever a cobertura",
+"Não pode; desbridar é competência do enfermeiro capacitado",
+"Não pode; o desbridamento instrumental é privativo do médico"
+],
+"gab": 3,
+"tema": "feridas",
+"sub": "Coberturas e curativos",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r2",
+"base": "Resolução COFEN 787/2025 (atuação da enfermagem em lesões cutâneas; revoga a Res. COFEN 567/2018), anexo de competências",
+"coment": "A Resolução COFEN 787/2025 lista como competência do enfermeiro capacitado o desbridamento autolítico, instrumental conservador, mecânico, enzimático ou biológico. Ao técnico de enfermagem o anexo atribui executar os cuidados prescritos pelo enfermeiro, sob supervisão, auxiliar o enfermeiro, registrar, orientar e comunicar intercorrências; não lhe atribui desbridamento nem prescrição, com ou sem curso e com ou sem supervisão. A carga de 360 horas aparece no art. 9º como recomendação de pós-graduação para o enfermeiro que trata lesões complexas. A resolução revogou a 567/2018.",
+"porAlt": [
+"As 360 horas são recomendação ao enfermeiro e não habilitam o técnico a desbridar.",
+"Supervisão não transfere ao técnico uma competência que o anexo reserva ao enfermeiro.",
+"O anexo não atribui ao técnico nem o desbridamento nem a prescrição.",
+"Correta: o desbridamento é competência do enfermeiro capacitado pela Res. 787/2025.",
+"O instrumental conservador é competência do enfermeiro, não privativo do médico."
+]
+},
+{
+"q": "Uma enfermeira recém-formada é contratada para o ambulatório de feridas de um hospital e pergunta à coordenação se precisa de especialização para tratar lesões complexas, como úlceras de difícil cicatrização. Segundo o art. 9º da Resolução COFEN 787/2025, o que a norma estabelece quanto à formação desse profissional?",
+"alts": [
+"Exige especialização de 360 horas antes de qualquer curativo",
+"Recomenda pós-graduação de 360 horas e mais 20% de prática",
+"Exige o título TiSOBEST para atuar em lesões complexas",
+"Recomenda residência de dois anos em estomaterapia",
+"Exige pós-graduação de 180 horas, com 10% de prática"
+],
+"gab": 1,
+"tema": "feridas",
+"sub": "Coberturas e curativos",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "tit",
+"base": "Resolução COFEN 787/2025, art. 9º",
+"coment": "Para quem trata lesões complexas, o art. 9º da Resolução COFEN 787/2025 recomenda, sem exigir, pós-graduação lato sensu de no mínimo 360 horas, acrescidas de 20% de prática supervisionada. A resolução exige que o cuidado seja feito por profissionais capacitados, nas competências do anexo, e que comece por consulta de enfermagem pelo Processo de Enfermagem. O título TiSOBEST, conferido pela SOBEST ao enfermeiro estomaterapeuta, é certificação de especialista e não requisito legal para atuar. Afirmar que a resolução exige especialização é a pegadinha mais comum.",
+"porAlt": [
+"A norma recomenda, e não exige, a pós-graduação, e nada condiciona curativos simples a ela.",
+"Correta: o art. 9º recomenda pós-graduação de 360 horas acrescidas de 20% de prática.",
+"O TiSOBEST é título de especialista, não exigência da resolução.",
+"A recomendação é de pós-graduação lato sensu, não de residência.",
+"A carga citada é de 360 horas com 20% de prática, e como recomendação."
+]
+},
+{
+"q": "Em ambulatório, uma enfermeira capacitada remove com bisturi e tesoura, à beira da maca, o esfacelo aderido de uma úlcera venosa, sem atingir tecido viável e sem sangramento relevante. Uma colega afirma que esse procedimento só poderia ser feito em centro cirúrgico. Como classificar o desbridamento realizado e sua legalidade?",
+"alts": [
+"Instrumental conservador, competência do enfermeiro capacitado",
+"Cirúrgico, permitido ao enfermeiro com pós-graduação lato sensu",
+"Instrumental conservador, privativo do médico em centro cirúrgico",
+"Mecânico, permitido a todos os profissionais de enfermagem",
+"Cirúrgico, vedado à enfermagem em qualquer ambiente de cuidado"
+],
+"gab": 0,
+"tema": "feridas",
+"sub": "Coberturas e curativos",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Resolução COFEN 787/2025, anexo (competências do enfermeiro em lesões cutâneas)",
+"coment": "Desbridamento instrumental conservador é o feito com bisturi, tesoura ou cureta à beira do leito, removendo só tecido inviável, sem atingir tecido viável e sem sangramento relevante. A Res. COFEN 787/2025 o lista entre as competências do enfermeiro capacitado, ao lado do autolítico, mecânico, enzimático e biológico. O desbridamento cirúrgico é a excisão ampla até tecido viável, em centro cirúrgico e com anestesia, e não consta entre as competências de enfermagem. O mecânico usa força física, como irrigação com pressão ou gaze que seca e é retirada.",
+"porAlt": [
+"Correta: remoção só de tecido inviável à beira do leito é instrumental conservador, do enfermeiro.",
+"O procedimento descrito não é cirúrgico, e o cirúrgico não consta entre as competências de enfermagem.",
+"O instrumental conservador é competência do enfermeiro capacitado e dispensa centro cirúrgico.",
+"Bisturi e tesoura caracterizam o instrumental; mecânico é força física, como irrigação.",
+"Não houve excisão ampla com anestesia, então o procedimento não foi cirúrgico."
+]
+},
+{
+"q": "Idosa de 88 anos sofre lesão no antebraço ao ser transferida da cadeira para a cama pela equipe. Há um retalho de pele viável que, quando reposicionado, não cobre todo o leito. Pela classificação e pelas recomendações do International Skin Tear Advisory Panel de 2025, qual é o tipo da lesão e a conduta local adequada?",
+"alts": [
+"Tipo 1; aproximar o retalho com fita adesiva de fechamento",
+"Tipo 3; suturar o retalho e cobrir com filme transparente",
+"Tipo 2; reaproximar o retalho e usar cobertura de silicone",
+"Tipo 2; remover o retalho e aplicar hidrocoloide acrílico",
+"Tipo 1; cobrir com gaze seca e trocar a cada seis horas"
+],
+"gab": 2,
+"tema": "feridas",
+"sub": "Coberturas e curativos",
+"cenario": "enf",
+"comp": "tec",
+"nivel": "r3",
+"base": "International Skin Tear Advisory Panel (ISTAP). Best practice recommendations for skin tears, 2ª ed., 2025",
+"coment": "Pelo ISTAP 2025, lesão por fricção tipo 1 não tem perda de pele (o retalho cobre o leito), tipo 2 tem perda parcial do retalho (não cobre todo o leito) e tipo 3 perda total. A conduta: controlar sangramento, limpar sem esfregar, remover hematoma e reaproximar o retalho viável sem esticar a pele. Não se recomendam sutura, grampo, fita adesiva de fechamento, gaze simples, iodo, filme transparente nem hidrocoloide de adesivo acrílico ou de borracha. Preferem-se coberturas de silicone ou de baixa aderência, com seta indicando o sentido de retirada, que segue a direção do retalho.",
+"porAlt": [
+"O retalho não cobre todo o leito, o que é tipo 2, e fita de fechamento não é recomendada.",
+"Ainda há retalho, então não é tipo 3, e sutura e filme não são recomendados.",
+"Correta: retalho parcial é tipo 2, reaproximado e coberto com silicone.",
+"O retalho viável deve ser preservado, e hidrocoloide acrílico é contraindicado.",
+"Não é tipo 1, e gaze simples adere ao leito e não é recomendada."
+]
+},
+{
+"q": "Na reorganização de uma clínica médica com muitos pacientes acamados, a enfermeira responsável distribui as atividades relacionadas a lesões cutâneas entre técnicos e auxiliares de enfermagem da escala. Pelo anexo da Resolução COFEN 787/2025, qual atividade pode ser atribuída ao auxiliar de enfermagem?",
+"alts": [
+"Desbridamento enzimático com papaína, sob supervisão direta",
+"Prescrição de cobertura para lesões superficiais e limpas",
+"Medida do índice tornozelo-braquial para indicar compressão",
+"Coleta de material da lesão para cultura, se capacitado",
+"Curativo simples, sob prescrição e supervisão do enfermeiro"
+],
+"gab": 4,
+"tema": "feridas",
+"sub": "Coberturas e curativos",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r2",
+"base": "Resolução COFEN 787/2025, anexo (atribuições do enfermeiro, do técnico e do auxiliar de enfermagem)",
+"coment": "Pelo anexo da Resolução COFEN 787/2025, ao auxiliar de enfermagem cabem promoção da saúde, prevenção de lesões e curativos simples, sob prescrição e supervisão do enfermeiro, além de registrar, orientar e comunicar alterações. Desbridamento, em qualquer modalidade, prescrição de coberturas, coleta de material para cultura ou biópsia e medida do índice tornozelo-braquial para indicar e instalar terapia compressiva estão entre as competências do enfermeiro. O técnico executa os cuidados prescritos, sob supervisão, e também não desbrida nem prescreve.",
+"porAlt": [
+"Desbridamento enzimático é competência do enfermeiro capacitado.",
+"Prescrever cobertura é atribuição do enfermeiro, mesmo em lesão simples.",
+"Medir o ITB para indicar compressão é competência do enfermeiro.",
+"A coleta de material da lesão infectada é atribuída ao enfermeiro capacitado.",
+"Correta: o auxiliar faz curativo simples sob prescrição e supervisão do enfermeiro."
+]
+},
+{
+"q": "Homem de 72 anos, tabagista de longa data, tem úlcera no dorso do hálux, bem delimitada, de fundo pálido. O pé é frio, sem pelos, com pulsos pediosos muito reduzidos. Refere dor intensa que piora ao deitar com as pernas elevadas e alivia quando deixa a perna pendente para fora da cama. Qual é a provável etiologia e o tratamento de base?",
+"alts": [
+"Venosa; compressão elástica graduada e elevação do membro",
+"Arterial; avaliação vascular visando a revascularização",
+"Neuropática; alívio de carga com calçado especial",
+"Venosa; repouso com membro elevado e hidrocoloide",
+"Arterial; compressão inelástica para reduzir a dor"
+],
+"gab": 1,
+"tema": "feridas",
+"sub": "Pé diabético e úlceras vasculares",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "ESVS 2022 Clinical Practice Guidelines on Chronic Venous Disease; leitura Feridas do Enfermare (out/2026), seção Pé diabético e úlceras venosa e arterial",
+"coment": "Úlcera em dedos ou pontos de atrito, bem delimitada e de fundo pálido, com pele fria, sem pelos e pulsos reduzidos, e dor intensa que piora ao elevar e alivia com a perna pendente, é úlcera arterial. O tratamento de base é avaliação vascular e revascularização; nenhuma cobertura fecha a ferida sem fluxo. A compressão é contraindicada na isquemia importante, e a decisão passa pelo índice tornozelo-braquial. A úlcera venosa fica acima do maléolo medial, é rasa e exsudativa e melhora ao elevar; a neuropática é plantar, cercada de calo e indolor.",
+"porAlt": [
+"Dor que piora ao elevar e pé frio sem pulsos não são de úlcera venosa.",
+"Correta: úlcera isquêmica pede avaliação vascular e revascularização como base.",
+"Úlcera neuropática é plantar, cercada de calo e indolor, ao contrário desta.",
+"Elevar o membro piora a dor isquêmica, e a etiologia não é venosa.",
+"Compressão pode agravar a isquemia e é contraindicada sem avaliação vascular."
+]
+},
+{
+"q": "Mulher de 68 anos tem úlcera no terço distal da perna direita e será avaliada para terapia compressiva. Com Doppler, a enfermeira mede pressão sistólica de 70 mmHg no tornozelo direito e 140 mmHg no braço, a maior das pressões braquiais. Qual é o índice tornozelo-braquial e a conduta quanto à compressão?",
+"alts": [
+"ITB de 2,0; compressão plena, pois o fluxo está aumentado",
+"ITB de 0,5; compressão reduzida com pressão no tornozelo",
+"ITB de 0,7; compressão reduzida com monitoramento clínico",
+"ITB de 0,5; sem compressão e avaliação para revascularizar",
+"ITB de 0,5; compressão plena, pois o valor é limítrofe"
+],
+"gab": 3,
+"tema": "feridas",
+"sub": "Pé diabético e úlceras vasculares",
+"cenario": "aps",
+"comp": "calc",
+"nivel": "r2",
+"base": "De Maeseneer MG et al. ESVS 2022 Clinical Practice Guidelines on Chronic Venous Disease; Resolução COFEN 787/2025 (ITB e terapia compressiva)",
+"coment": "O índice tornozelo-braquial divide a pressão sistólica do tornozelo pela braquial, ambas medidas com Doppler: 70 ÷ 140 = 0,5. Pela diretriz de doença venosa crônica da ESVS (2022), ITB abaixo de 0,6 contraindica a compressão e pede avaliação para revascularização; de 0,6 a 0,8 admite compressão reduzida se a pressão no tornozelo passar de 60 mmHg; acima disso, compressão plena. Comprimir perna isquêmica pode causar necrose. Medir e interpretar o ITB para indicar e instalar terapia compressiva é competência do enfermeiro pela Res. COFEN 787/2025.",
+"porAlt": [
+"A divisão é do tornozelo pelo braço, 70 por 140, e não o inverso.",
+"O cálculo está certo, mas abaixo de 0,6 não se comprime.",
+"A divisão de 70 por 140 resulta em 0,5, e não em 0,7.",
+"Correta: ITB de 0,5 contraindica compressão e pede avaliação vascular.",
+"ITB de 0,5 não é limítrofe; indica doença arterial importante."
+]
+},
+{
+"q": "Homem de 70 anos com úlcera venosa e sinais de doença arterial associada tem, na perna afetada, pressão sistólica no tornozelo de 98 mmHg, e a maior pressão braquial é de 140 mmHg. Pela diretriz de doença venosa crônica da ESVS de 2022, qual é o índice tornozelo-braquial e a conduta de compressão adequada?",
+"alts": [
+"ITB de 0,7; compressão reduzida, tornozelo acima de 60 mmHg",
+"ITB de 0,7; contraindicar qualquer compressão do membro",
+"ITB de 1,4; compressão plena, sem restrição de pressão",
+"ITB de 0,7; compressão plena, pois o índice é normal",
+"ITB de 0,5; encaminhar para revascularização imediata"
+],
+"gab": 0,
+"tema": "feridas",
+"sub": "Pé diabético e úlceras vasculares",
+"cenario": "aps",
+"comp": "calc",
+"nivel": "r3",
+"base": "De Maeseneer MG et al. ESVS 2022 Clinical Practice Guidelines on Chronic Venous Disease",
+"coment": "O ITB é 98 ÷ 140 = 0,7. Pela ESVS 2022, ITB entre 0,6 e 0,8 indica doença arterial associada e permite compressão reduzida desde que a pressão no tornozelo seja maior que 60 mmHg, como aqui (98 mmHg), com acompanhamento. Abaixo de 0,6 não se comprime e se avalia revascularização; acima de 0,8, compressão plena. ITB acima de 1,3 sugere artéria incompressível e não serve para decidir. A úlcera venosa não fecha sem compressão, por isso negar toda compressão também prejudica o paciente quando ela é segura.",
+"porAlt": [
+"Correta: ITB de 0,7 com tornozelo acima de 60 mmHg admite compressão reduzida.",
+"Entre 0,6 e 0,8, com tornozelo acima de 60 mmHg, a compressão reduzida é possível.",
+"A divisão de 98 por 140 dá 0,7, e não 1,4.",
+"ITB de 0,7 não é normal; indica doença arterial associada.",
+"A divisão de 98 por 140 dá 0,7, e não 0,5."
+]
+},
+{
+"q": "Mulher de 66 anos, diabética há 20 anos e em hemodiálise, tem úlcera de perna e será avaliada para compressão. O índice tornozelo-braquial calculado pela enfermeira com Doppler é de 1,45, embora os pulsos pediosos estejam difíceis de palpar. Como interpretar esse resultado antes de decidir pela terapia compressiva?",
+"alts": [
+"Normal, liberando compressão plena sem outra avaliação",
+"Indica insuficiência venosa grave e pede compressão alta",
+"Sugere artéria incompressível; o índice não é confiável",
+"Indica isquemia crítica e contraindica curativo úmido",
+"Indica erro de técnica e deve ser repetido no outro braço"
+],
+"gab": 2,
+"tema": "feridas",
+"sub": "Pé diabético e úlceras vasculares",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r3",
+"base": "De Maeseneer MG et al. ESVS 2022 Clinical Practice Guidelines on Chronic Venous Disease",
+"coment": "ITB acima de 1,3 indica artéria incompressível, achado comum no diabético e no paciente com doença renal crônica pela calcificação da parede arterial. O manguito não consegue ocluir a artéria, a pressão no tornozelo sai falsamente alta e o índice não vale para decidir a compressão. Pulsos difíceis de palpar reforçam que pode haver doença arterial escondida. A paciente precisa de avaliação vascular complementar antes de comprimir. Tomar o valor como normal e aplicar compressão plena pode causar lesão isquêmica.",
+"porAlt": [
+"Acima de 1,3 o índice não é normal; a artéria não se comprime e o valor engana.",
+"O ITB avalia o fluxo arterial e não mede a gravidade da insuficiência venosa.",
+"Correta: ITB acima de 1,3 sugere artéria incompressível e não é confiável.",
+"Isquemia se expressa por ITB baixo, e o curativo úmido não depende desse valor.",
+"O valor alto se explica pela calcificação arterial, e não por erro no braço."
+]
+},
+{
+"q": "Homem de 59 anos, diabético, tem úlcera indolor na planta do pé, sob a cabeça do primeiro metatarso, circundada por calo espesso. O pé é quente e seco, com pulsos palpáveis, e ele não sente o monofilamento. Continua trabalhando em pé o dia inteiro. Segundo as diretrizes do IWGDF de 2023, qual é o centro do tratamento?",
+"alts": [
+"Compressão inelástica para controlar o edema do pé",
+"Revascularização antes de qualquer cuidado local",
+"Cobertura de prata contínua até a cicatrização",
+"Elevação do membro e repouso, com placa de hidrocoloide",
+"Alívio de carga sobre a área ulcerada da planta do pé"
+],
+"gab": 4,
+"tema": "feridas",
+"sub": "Pé diabético e úlceras vasculares",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r2",
+"base": "IWGDF Guidelines on the prevention and management of diabetes-related foot disease, 2023",
+"coment": "Úlcera plantar, sob proeminência óssea, indolor, cercada de calo, em pé quente com pulsos palpáveis e perda da sensibilidade protetora é úlcera neuropática do pé diabético. Pelas diretrizes do IWGDF de 2023, o alívio de carga está no centro do tratamento: sem tirar a pressão de quem anda sobre a úlcera, nenhuma cobertura a fecha. Ao enfermeiro cabem o exame do pé, a orientação de calçado e autocuidado e o reconhecimento precoce de infecção e isquemia. Revascularização é para o pé isquêmico, e compressão é o tratamento de base da úlcera venosa.",
+"porAlt": [
+"Compressão é base da úlcera venosa, não da neuropática plantar.",
+"Os pulsos são palpáveis e o pé é quente, sem indicação de revascularização.",
+"Prata é para infecção e por tempo limitado, e não trata a causa mecânica.",
+"Elevação e hidrocoloide não retiram a carga sobre a úlcera plantar.",
+"Correta: na úlcera neuropática plantar, o alívio de carga é o centro do tratamento."
+]
+},
+{
+"q": "Em uma unidade básica, a enfermeira atende pessoa com úlcera venosa, mede o índice tornozelo-braquial com Doppler, obtém valor de 1,0 e instala bandagem compressiva conforme protocolo local. O coordenador médico questiona se ela poderia fazer isso sem encaminhar antes ao angiologista. Pela Resolução COFEN 787/2025, qual é a resposta correta?",
+"alts": [
+"Não, pois o ITB é exame privativo do médico angiologista",
+"Sim, medir o ITB e instalar a compressão cabe ao enfermeiro",
+"Sim, mas só se tiver título de estomaterapeuta registrado",
+"Não, pois a compressão exige prescrição médica prévia",
+"Sim, e o técnico também pode instalá-la sem a medida"
+],
+"gab": 1,
+"tema": "feridas",
+"sub": "Pé diabético e úlceras vasculares",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Resolução COFEN 787/2025, anexo (competências do enfermeiro: ITB e terapia compressiva)",
+"coment": "O anexo da Resolução COFEN 787/2025 inclui entre as competências do enfermeiro a medida do índice tornozelo-braquial para indicar e instalar terapia compressiva, além da prescrição de coberturas e terapias adjuvantes. Com ITB de 1,0, a compressão plena é segura pela diretriz da ESVS de 2022. A resolução recomenda, sem exigir, pós-graduação para quem trata lesões complexas, e não condiciona a competência a título de especialista. O técnico executa cuidados prescritos sob supervisão, e nenhuma compressão deve ser aplicada sem avaliação vascular prévia.",
+"porAlt": [
+"A Res. 787/2025 atribui ao enfermeiro a medida do ITB para indicar compressão.",
+"Correta: medir o ITB e instalar terapia compressiva é competência do enfermeiro.",
+"A resolução não exige título de especialista para essa competência.",
+"A indicação da compressão pelo ITB está entre as competências do enfermeiro.",
+"Compressão sem medida do ITB é insegura, e o técnico não a indica."
+]
+},
+{
+"q": "Na consulta de enfermagem de um ambulatório de feridas, a residente precisa diferenciar a etiologia das úlceras de perna antes de propor o tratamento de base de cada paciente. Pela comparação clássica entre úlcera venosa, arterial e neuropática, qual conjunto de achados é típico da úlcera venosa?",
+"alts": [
+"Úlcera plantar, cercada de calo, indolor e com pulsos palpáveis",
+"Úlcera no hálux, de fundo pálido, com pé frio e sem pelos",
+"Úlcera no calcanhar, bem delimitada, com dor ao elevar a perna",
+"Úlcera rasa acima do maléolo medial, com edema e dermatite ocre",
+"Úlcera profunda nos dedos, com dor intensa e pulsos ausentes"
+],
+"gab": 3,
+"tema": "feridas",
+"sub": "Pé diabético e úlceras vasculares",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "ESVS 2022 Clinical Practice Guidelines on Chronic Venous Disease; leitura Feridas do Enfermare (out/2026), seção Pé diabético e úlceras venosa e arterial",
+"coment": "A úlcera venosa fica no terço distal da perna, acima do maléolo medial; é rasa, exsudativa, de borda irregular, com dor moderada que melhora ao elevar o membro. A pele ao redor mostra edema, dermatite ocre (hiperpigmentação) e lipodermatosclerose. O tratamento de base é a compressão, depois de medir o índice tornozelo-braquial. A arterial aparece em dedos, calcanhar e pontos de atrito, bem delimitada, de fundo pálido, com pele fria e sem pelos e dor que piora ao elevar. A neuropática é plantar, cercada de calo e indolor.",
+"porAlt": [
+"Planta, calo e ausência de dor descrevem a úlcera neuropática.",
+"Hálux, fundo pálido e pé frio sem pelos descrevem a úlcera arterial.",
+"Calcanhar e dor que piora ao elevar são achados da úlcera arterial.",
+"Correta: úlcera rasa acima do maléolo medial com edema e dermatite ocre é venosa.",
+"Dedos, dor intensa e pulsos ausentes indicam isquemia, não doença venosa."
+]
+},
+{
+"q": "Na unidade básica, homem de 52 anos com diabetes tipo 2 há três anos faz a primeira consulta de enfermagem voltada aos pés. A sensibilidade ao monofilamento está preservada, os pulsos pediosos são palpáveis e não há deformidades nem úlcera ou amputação prévias. Com que periodicidade o exame dos pés deve ser repetido?",
+"alts": [
+"Pelo menos uma vez ao ano, com orientação de autocuidado",
+"A cada um a três meses, com consulta na atenção especializada",
+"A cada três a seis meses, por já ter diagnóstico de diabetes",
+"Quando surgirem queixas de dor ou de formigamento nos pés",
+"A cada semana, pela enfermeira, até completar o primeiro ano"
+],
+"gab": 0,
+"tema": "feridas",
+"sub": "Pé diabético e úlceras vasculares",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r1",
+"base": "IWGDF Guidelines on the prevention and management of diabetes-related foot disease, 2023",
+"coment": "Pelas diretrizes do IWGDF de 2023, a pessoa com diabetes sem perda da sensibilidade protetora, sem doença arterial periférica e sem história de úlcera ou amputação tem risco muito baixo de ulceração e deve ter os pés examinados pelo menos uma vez ao ano. Os intervalos encurtam conforme o risco aumenta, até a cada um a três meses no risco alto. Ao enfermeiro cabem o exame anual do pé, a orientação sobre calçado e autocuidado (inspeção diária, higiene, não andar descalço) e o reconhecimento precoce de infecção e isquemia. Esperar queixa atrasa o diagnóstico da neuropatia, que é silenciosa.",
+"porAlt": [
+"Correta: sem neuropatia, sem DAP e sem úlcera prévia, o exame é ao menos anual.",
+"Intervalo de um a três meses é para risco alto, não para este paciente.",
+"O diagnóstico de diabetes sozinho não encurta o intervalo sem fatores de risco.",
+"A neuropatia é silenciosa, e esperar queixa atrasa a prevenção.",
+"Exame semanal não tem indicação para pessoa sem fatores de risco."
+]
+},
+{
+"q": "Mulher de 30 anos derramou água fervente no antebraço há uma hora, enquanto cozinhava. Na avaliação, a área tem bolhas, leito rosado e úmido sob as bolhas rompidas, enchimento capilar presente e dor intensa ao toque leve. Como a enfermeira deve classificar a profundidade dessa queimadura?",
+"alts": [
+"Primeiro grau, por atingir só a epiderme",
+"Terceiro grau, por ser de espessura total",
+"Segundo grau superficial, de espessura parcial",
+"Segundo grau profundo, por haver dor intensa",
+"Quarto grau, por haver bolhas e exsudato"
+],
+"gab": 2,
+"tema": "feridas",
+"sub": "Queimaduras",
+"cenario": "emg",
+"comp": "aval",
+"nivel": "r1",
+"base": "Advanced Trauma Life Support (ATLS), 11ª ed., 2025, capítulo de queimaduras",
+"coment": "Queimadura de primeiro grau atinge só a epiderme: eritema e dor, sem bolha. A de segundo grau, ou espessura parcial, pode ser superficial, com bolha, leito rosado e úmido e muita dor, ou profunda, mais pálida e menos dolorosa. A de terceiro grau, ou espessura total, é branca ou marrom, endurecida e indolor, porque destruiu as terminações nervosas. Bolha com leito rosado, enchimento capilar presente e dor intensa definem segundo grau superficial. Só segundo e terceiro graus entram no cálculo da superfície corporal queimada.",
+"porAlt": [
+"Primeiro grau não forma bolha; há só eritema e dor.",
+"Terceiro grau é branco ou marrom, endurecido e indolor.",
+"Correta: bolha, leito rosado úmido e dor intensa definem segundo grau superficial.",
+"O segundo grau profundo é mais pálido e menos doloroso que o superficial.",
+"Bolhas e exsudato caracterizam espessura parcial, não lesão de tecidos profundos."
+]
+},
+{
+"q": "Homem de 40 anos sofre queimadura por chama em acidente doméstico. Todo o membro superior direito e todo o tronco anterior têm bolhas e áreas brancas endurecidas; a face apresenta apenas eritema doloroso, sem bolhas. Pela regra dos nove do ATLS 11ª edição, qual é a superfície corporal queimada a considerar no cálculo?",
+"alts": [
+"36%, incluindo os 9% da face com eritema",
+"27%, excluindo a face, que tem só eritema",
+"18%, valor que corresponde ao tronco anterior",
+"45%, contando tronco anterior e posterior",
+"31,5%, somando metade da cabeça ao total"
+],
+"gab": 1,
+"tema": "feridas",
+"sub": "Queimaduras",
+"cenario": "emg",
+"comp": "calc",
+"nivel": "r1",
+"base": "Advanced Trauma Life Support (ATLS), 11ª ed., 2025, capítulo de queimaduras (regra dos nove)",
+"coment": "Pela regra dos nove do ATLS 11ª edição, no adulto: cabeça 9%, cada membro superior 9%, tronco anterior 18%, tronco posterior 18%, cada membro inferior 18% e períneo 1%; a palma com os dedos do próprio paciente vale cerca de 1%. Só entram na conta as queimaduras de segundo e terceiro graus; o eritema do primeiro grau fica fora. Membro superior direito (9%) mais tronco anterior (18%) somam 27%. A face, só com eritema, não é contada. Na criança, a cabeça é proporcionalmente maior e os membros inferiores menores.",
+"porAlt": [
+"O eritema de primeiro grau da face não entra no cálculo da superfície queimada.",
+"Correta: 9% do membro superior mais 18% do tronco anterior somam 27%.",
+"Omite os 9% do membro superior direito, que tem segundo e terceiro graus.",
+"O tronco posterior não foi atingido e não pode ser somado.",
+"Cabeça com eritema não conta, nem pela metade."
+]
+},
+{
+"q": "Homem de 70 kg chega ao pronto-socorro 2 horas após queimadura por chama de segundo e terceiro graus em 30% da superfície corporal. Ainda não recebeu nenhum volume. Pelo ATLS 11ª edição, com Ringer lactato, qual vazão inicial cumpre a meta de volume das primeiras 8 horas, contadas a partir da queimadura?",
+"alts": [
+"175 mL/h nas próximas 6 horas",
+"262,5 mL/h nas próximas 8 horas",
+"525 mL/h nas próximas 8 horas",
+"350 mL/h nas próximas 6 horas",
+"700 mL/h nas próximas 6 horas"
+],
+"gab": 3,
+"tema": "feridas",
+"sub": "Queimaduras",
+"cenario": "emg",
+"comp": "calc",
+"nivel": "r3",
+"base": "Advanced Trauma Life Support (ATLS), 11ª ed., 2025, capítulo de queimaduras (reposição volêmica)",
+"coment": "Pelo ATLS 11ª edição, no adulto com 20% ou mais de superfície queimada, o volume inicial é 2 mL × peso × % queimada em 24 horas: 2 × 70 × 30 = 4.200 mL. Metade, 2.100 mL, deve correr nas primeiras 8 horas contadas da hora da queimadura, e não da chegada. Como já se passaram 2 horas, restam 6 horas para os 2.100 mL: 350 mL/h. O ritmo depois se ajusta pela diurese. A Parkland clássica usava 4 mL/kg/%, e o excesso de volume causa edema e síndrome compartimental, por isso o ATLS parte de 2 mL.",
+"porAlt": [
+"Divide os 2.100 mL por 12 horas, metade da vazão necessária.",
+"Divide os 2.100 mL por 8 horas, ignorando as 2 horas já passadas.",
+"Infunde o volume de 24 horas inteiro em 8 horas.",
+"Correta: 2.100 mL nas 6 horas restantes da janela de 8 horas dão 350 mL/h.",
+"Usa 4 mL/kg/%, da Parkland clássica, e não os 2 mL do ATLS 11."
+]
+},
+{
+"q": "Menino de 6 anos, com 20 kg, está internado na unidade de queimados com 25% de superfície corporal queimada por escaldadura e recebe reposição volêmica por bomba de infusão. A enfermeira controla a diurese horária pela sonda vesical e ajusta o registro do balanço. Pelo ATLS 11ª edição, qual é a meta de diurese para essa criança?",
+"alts": [
+"Cerca de 20 mL/h, isto é, 1 mL/kg/h",
+"Cerca de 10 mL/h, isto é, 0,5 mL/kg/h",
+"Cerca de 40 mL/h, isto é, 2 mL/kg/h",
+"Cerca de 100 mL/h, até a urina clarear",
+"Entre 30 e 50 mL/h, como no adulto"
+],
+"gab": 0,
+"tema": "feridas",
+"sub": "Queimaduras",
+"cenario": "uti",
+"comp": "calc",
+"nivel": "r2",
+"base": "Advanced Trauma Life Support (ATLS), 11ª ed., 2025, capítulo de queimaduras (débito urinário)",
+"coment": "A diurese horária é o principal guia da reposição volêmica no queimado. Pelo ATLS 11ª edição, a meta é de 0,5 mL/kg/h no adulto e de 1 mL/kg/h na criança: para 20 kg, cerca de 20 mL/h. Abaixo da meta, a vazão deve ser aumentada conforme prescrição; muito acima, reduzida, porque o excesso de volume causa edema e síndrome compartimental. A meta de cerca de 100 mL/h vale para o adulto com queimadura elétrica e urina pigmentada, até clarear. Por isso a sonda vesical e o registro rigoroso fazem parte do cuidado de enfermagem.",
+"porAlt": [
+"Correta: na criança a meta é 1 mL/kg/h, cerca de 20 mL/h para 20 kg.",
+"0,5 mL/kg/h é a meta do adulto, não da criança.",
+"2 mL/kg/h excede a meta e sugere reposição excessiva.",
+"100 mL/h é meta do adulto com queimadura elétrica e urina pigmentada.",
+"30 a 50 mL/h é faixa do adulto e excede a meta para 20 kg."
+]
+},
+{
+"q": "Na unidade básica, uma mulher de 35 anos chega 10 minutos após derramar óleo quente na mão e no punho direitos, ainda usando anel e relógio. A queimadura tem bolhas em cerca de 1% da superfície corporal, sem lesão de face ou via aérea. Qual é a primeira conduta de enfermagem adequada?",
+"alts": [
+"Aplicar gelo diretamente para reduzir dor e edema",
+"Romper as bolhas e aplicar pasta de dente na área",
+"Manter os adornos para não lesar a pele queimada",
+"Cobrir com pomada e só então retirar anel e relógio",
+"Retirar anel e relógio e resfriar com água corrente"
+],
+"gab": 4,
+"tema": "feridas",
+"sub": "Queimaduras",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Advanced Trauma Life Support (ATLS), 11ª ed., 2025, capítulo de queimaduras; leitura Feridas do Enfermare (out/2026), seção Queimaduras",
+"coment": "O primeiro passo é interromper a queimadura: retirar roupas e adornos, antes que o edema transforme anel e relógio em garrote, e irrigar o agente químico quando for o caso. Em seguida, resfriar com água corrente, e não com gelo, que agrava a lesão e favorece hipotermia. Depois, cobrir com material limpo e avaliar extensão, profundidade e local. Pasta de dente, manteiga e pomadas caseiras não são cuidado adequado e atrapalham a avaliação. Queimadura de segundo grau em mão é critério de encaminhamento a centro de queimados pela American Burn Association.",
+"porAlt": [
+"Gelo agrava a lesão tecidual e não é o resfriamento recomendado.",
+"Pasta de dente não trata queimadura e atrapalha a avaliação da lesão.",
+"Adornos devem sair logo, antes que o edema os torne garrote.",
+"A retirada dos adornos vem primeiro, antes do edema; pomada não é a conduta inicial.",
+"Correta: interromper a queimadura, tirar adornos e resfriar com água corrente."
+]
+},
+{
+"q": "Homem de 50 anos é retirado de um apartamento em chamas após 20 minutos em ambiente fechado. Está confuso, com cefaleia, fuligem nas narinas e voz rouca. O oxímetro de pulso mostra SpO2 de 99% em ar ambiente. Qual interpretação a enfermeira deve fazer ao planejar o cuidado inicial desse paciente?",
+"alts": [
+"A SpO2 normal exclui intoxicação e lesão de via aérea",
+"A rouquidão é esperada e dispensa vigilância da via aérea",
+"A SpO2 pode superestimar a oxigenação por monóxido de carbono",
+"A confusão indica só ansiedade, pois a saturação está normal",
+"A fuligem nasal indica queimadura superficial de primeiro grau"
+],
+"gab": 2,
+"tema": "feridas",
+"sub": "Queimaduras",
+"cenario": "emg",
+"comp": "aval",
+"nivel": "r2",
+"base": "Advanced Trauma Life Support (ATLS), 11ª ed., 2025, capítulo de queimaduras (lesão inalatória e monóxido de carbono)",
+"coment": "O oxímetro de pulso comum não distingue carboxi-hemoglobina de oxi-hemoglobina e superestima a saturação na intoxicação por monóxido de carbono; carboxi-hemoglobina acima de 10% indica exposição importante. Exposição em ambiente fechado, cefaleia e confusão sugerem intoxicação. Rouquidão, estridor e fuligem na via aérea sinalizam lesão inalatória: o edema das primeiras 12 a 24 horas pode fechar a via aérea, e o ATLS 11 indica intubação imediata diante de rouquidão ou estridor. A enfermagem mantém oxigênio a 100%, monitora a via aérea e comunica a equipe.",
+"porAlt": [
+"SpO2 normal não exclui intoxicação por CO nem lesão inalatória.",
+"Rouquidão após inalação de fumaça é sinal de risco da via aérea.",
+"Correta: o oxímetro comum superestima a saturação na intoxicação por CO.",
+"Confusão após exposição à fumaça sugere hipóxia ou CO, não ansiedade.",
+"Fuligem nasal é sinal de lesão inalatória, não marcador de profundidade cutânea."
+]
+},
+{
+"q": "Eletricista de 38 anos, com 80 kg, sofre queimadura elétrica de alta tensão, com lesão de entrada na mão e de saída no pé. Na unidade de internação, a sonda vesical drena urina escura, cor de refrigerante de cola, e há dor muscular no antebraço. Pelo ATLS 11ª edição, qual é a meta de diurese a perseguir nesse caso?",
+"alts": [
+"0,5 mL/kg/h, ou 40 mL/h, como em todo queimado",
+"Cerca de 100 mL/h no adulto, até a urina clarear",
+"1 mL/kg/h, cerca de 80 mL/h, só nas primeiras 8 horas",
+"Cerca de 30 mL/h, para evitar sobrecarga de volume",
+"Cerca de 200 mL/h, até a creatinina normalizar"
+],
+"gab": 1,
+"tema": "feridas",
+"sub": "Queimaduras",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "r3",
+"base": "Advanced Trauma Life Support (ATLS), 11ª ed., 2025, capítulo de queimaduras (queimadura elétrica)",
+"coment": "A queimadura elétrica de alta tensão lesa músculo ao longo do trajeto da corrente, com pele às vezes pouco atingida, e libera mioglobina, que escurece a urina e lesa os rins. Pelo ATLS 11ª edição, a reposição na queimadura elétrica parte de 4 mL × peso × % queimada, e com urina pigmentada a meta de diurese no adulto é de cerca de 100 mL/h até a urina clarear. A meta de 0,5 mL/kg/h vale para a queimadura térmica do adulto. Dor muscular no membro pede vigilância de síndrome compartimental.",
+"porAlt": [
+"0,5 mL/kg/h é meta da queimadura térmica, insuficiente com mioglobinúria.",
+"Correta: com urina pigmentada, a meta do adulto é cerca de 100 mL/h até clarear.",
+"A meta não é por peso nem limitada às primeiras 8 horas nesse caso.",
+"30 mL/h é insuficiente para proteger os rins da mioglobina.",
+"A meta citada pelo ATLS é cerca de 100 mL/h, não o dobro."
+]
+},
+{
+"q": "Um hospital de pequeno porte atende vários queimados no mesmo dia, e a enfermeira revisa quem precisa de transferência para centro de queimados pelos critérios da American Burn Association citados no ATLS 11ª edição. Todos estão estáveis e sem lesão inalatória. Qual destes pacientes tem indicação de transferência?",
+"alts": [
+"Adulto com 4% de segundo grau superficial no antebraço",
+"Adulto com 8% de primeiro grau no dorso por exposição solar",
+"Adulto com 3% de segundo grau superficial na coxa",
+"Adulto com 2% de segundo grau na palma das duas mãos",
+"Adulto com 6% de segundo grau superficial no abdome"
+],
+"gab": 3,
+"tema": "feridas",
+"sub": "Queimaduras",
+"cenario": "ger",
+"comp": "aval",
+"nivel": "r3",
+"base": "Advanced Trauma Life Support (ATLS), 11ª ed., 2025, capítulo de queimaduras (critérios de transferência da American Burn Association)",
+"coment": "Pelos critérios da American Burn Association citados no ATLS, têm indicação de transferência a centro de queimados: queimadura de espessura total; espessura parcial de 10% ou mais da superfície corporal; queimaduras em face, mãos, pés, genitais, períneo ou grandes articulações; lesão inalatória; queimadura química; e elétrica de alta tensão. A queimadura de segundo grau nas mãos, mesmo pequena, entra pelo local, pelo risco funcional. As demais alternativas têm espessura parcial abaixo de 10% em áreas não especiais, e o primeiro grau nem entra no cálculo da superfície queimada.",
+"porAlt": [
+"Espessura parcial de 4% em antebraço não atinge 10% nem área especial.",
+"Primeiro grau não entra no cálculo e não indica transferência.",
+"Espessura parcial de 3% na coxa não preenche critério de transferência.",
+"Correta: queimadura de segundo grau nas mãos indica transferência pelo local.",
+"Espessura parcial de 6% no abdome fica abaixo de 10% e fora de área especial."
+]
+},
+{
+"q": "Mulher de 64 anos teve colostomia em cólon descendente por câncer de reto. No preparo para a alta hospitalar, ela pergunta à enfermeira como serão as eliminações pelo estoma no dia a dia. Segundo o Guia de Atenção à Saúde da Pessoa com Estomia do Ministério da Saúde, de 2021, qual orientação está correta?",
+"alts": [
+"Efluente líquido contínuo, como na ileostomia, por toda a vida",
+"Fezes pastosas, com eliminação voluntária após o treino intestinal",
+"Fezes pastosas a sólidas, de início irregular e sempre involuntário",
+"Fezes líquidas a semilíquidas, que só ficam pastosas na transversa",
+"Fezes sólidas e com controle voluntário semelhante ao do ânus"
+],
+"gab": 2,
+"tema": "feridas",
+"sub": "Estomias e cuidados",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Guia de Atenção à Saúde da Pessoa com Estomia, Ministério da Saúde/SAES, 2021 (Quadro 3)",
+"coment": "Pelo Guia do Ministério da Saúde de 2021, a colostomia descendente é feita no lado esquerdo do intestino grosso e elimina fezes de pastosas a sólidas. No início, o funcionamento é irregular, com eliminações várias vezes ao dia, em momentos diferentes; com o tempo pode se regularizar, mas será sempre involuntário, porque o estoma não tem esfíncter. A ileostomia elimina efluente mais líquido; a colostomia ascendente tem fezes líquidas ou semilíquidas no início e pastosas depois; a transversa, semilíquidas a pastosas; a sigmoide, firmes a sólidas, com possibilidade de regularidade.",
+"porAlt": [
+"Efluente líquido é da ileostomia; a colostomia descendente elimina fezes pastosas a sólidas.",
+"O estoma não tem esfíncter, e a eliminação é sempre involuntária.",
+"Correta: na descendente, fezes pastosas a sólidas, funcionamento irregular no início e involuntário.",
+"Fezes líquidas a semilíquidas são da colostomia ascendente nos primeiros dias.",
+"Mesmo com fezes firmes, não há controle voluntário pelo estoma."
+]
+},
+{
+"q": "Homem de 58 anos, no 1º dia de pós-operatório de colostomia de urgência por obstrução intestinal, apresenta estoma de cor violácea que escurece ao longo do plantão, com mucosa seca e fria ao toque e sem sangramento. Qual complicação a enfermeira deve suspeitar e qual é a conduta imediata?",
+"alts": [
+"Prolapso; reduzir manualmente a alça no próprio leito",
+"Retração; trocar para bolsa de base convexa no plantão",
+"Hérnia periestomal; aplicar cinto elástico e aguardar",
+"Estenose; dilatar o estoma com o dedo enluvado e lubrificado",
+"Necrose por isquemia; comunicar o cirurgião de imediato"
+],
+"gab": 4,
+"tema": "feridas",
+"sub": "Estomias e cuidados",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r2",
+"base": "Guia de Atenção à Saúde da Pessoa com Estomia, Ministério da Saúde/SAES, 2021 (complicações da estomia intestinal)",
+"coment": "O estoma saudável é vermelho e úmido. Cor violácea que escurece, com mucosa seca e fria nas primeiras horas, indica necrose, que pelo Guia do Ministério da Saúde de 2021 pode ocorrer por isquemia arterial (falta de chegada de sangue) ou venosa (falha da drenagem do segmento exteriorizado). O edema intenso do pós-operatório também pode levar à necrose por reduzir a irrigação. É complicação precoce que exige avaliação cirúrgica imediata, porque a necrose pode se estender para dentro da cavidade abdominal. A enfermeira registra a cor e a extensão e usa bolsa transparente para acompanhar o estoma.",
+"porAlt": [
+"Prolapso é alongamento da alça exteriorizada, não mudança de cor para violáceo.",
+"Retração é deslocamento do estoma para dentro da cavidade, não escurecimento.",
+"Hérnia periestomal é saliência na base do estoma e costuma ser tardia.",
+"Estenose surge em geral no terceiro mês e não muda a cor da mucosa.",
+"Correta: estoma violáceo que escurece é necrose isquêmica e pede avaliação cirúrgica imediata."
+]
+},
+{
+"q": "Homem de 70 anos, com colostomia transversa em alça há oito meses, procura a unidade básica porque o estoma ficou muito mais comprido depois de uma crise de tosse, com a alça exteriorizada cerca de 10 cm, mucosa vermelha e úmida e sem dor intensa. Qual complicação ele apresenta, segundo o Guia do Ministério da Saúde de 2021?",
+"alts": [
+"Prolapso, exteriorização parcial ou total da alça pelo estoma",
+"Retração, deslocamento do estoma para a cavidade abdominal",
+"Hérnia periestomal, saliência na base sem alongar a alça",
+"Estenose, estreitamento da luz que dificulta a eliminação",
+"Necrose, isquemia da alça por falha da drenagem venosa"
+],
+"gab": 0,
+"tema": "feridas",
+"sub": "Estomias e cuidados",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r1",
+"base": "Guia de Atenção à Saúde da Pessoa com Estomia, Ministério da Saúde/SAES, 2021 (complicações da estomia intestinal)",
+"coment": "Pelo Guia do Ministério da Saúde de 2021, prolapso é a exteriorização inesperada, total ou parcial, do segmento da alça intestinal pelo estoma, de forma gradativa ou súbita. Não é letal, mas causa problemas de pele e grande dificuldade no cuidado, porque a base adesiva e a bolsa precisam acomodar a alça. Aumento de pressão abdominal, como na tosse, favorece. Retração é o deslocamento do estoma para a cavidade por má fixação; hérnia periestomal é saliência na base por defeito da parede; estenose é o estreitamento da luz. Mucosa vermelha e úmida afasta necrose.",
+"porAlt": [
+"Correta: alça que se exterioriza e alonga o estoma caracteriza prolapso.",
+"Na retração o estoma afunda para a cavidade, o oposto do caso.",
+"A hérnia abaula a base do estoma, sem alongar a alça exteriorizada.",
+"Estenose estreita a luz e dificulta eliminar, sem alongar o estoma.",
+"Mucosa vermelha e úmida afasta necrose, que escurece o estoma."
+]
+},
+{
+"q": "Mulher de 55 anos tem cirurgia eletiva marcada para amputação abdominoperineal do reto, com colostomia definitiva. Na consulta de enfermagem pré-operatória, a equipe discute quem deve participar da demarcação do local do estoma. Pelo Guia do Ministério da Saúde de 2021, como essa demarcação deve ser feita?",
+"alts": [
+"Pelo cirurgião, no intraoperatório, sem a participação da paciente",
+"Pelo estomaterapeuta ou enfermeiro capacitado e cirurgião, com a paciente",
+"Pelo técnico de enfermagem, no pós-operatório imediato, à beira do leito",
+"Pelo enfermeiro, só após a alta, quando a paciente já usa a bolsa",
+"Pela própria paciente, que escolhe sozinha o local, sem a equipe"
+],
+"gab": 1,
+"tema": "feridas",
+"sub": "Estomias e cuidados",
+"cenario": "cc",
+"comp": "norma",
+"nivel": "r2",
+"base": "Guia de Atenção à Saúde da Pessoa com Estomia, Ministério da Saúde/SAES, 2021 (item 4.2.3, estomia de eliminação)",
+"coment": "Pelo Guia do Ministério da Saúde de 2021, no pré-operatório das estomias de eliminação deve ser feita a demarcação do local onde o estoma será exteriorizado. É responsabilidade do enfermeiro especialista em estomaterapia ou do enfermeiro capacitado e do cirurgião, com a participação da pessoa e do responsável ou cuidador no processo de decisão; a equipe precisa conhecer a técnica e a incisão planejadas. Estoma bem localizado é direito da pessoa: facilita higiene, troca e manutenção do dispositivo, previne complicações e ajuda na reintegração social. Demarcar depois da cirurgia não tem sentido.",
+"porAlt": [
+"A demarcação é pré-operatória e inclui a pessoa na decisão.",
+"Correta: enfermeiro estomaterapeuta ou capacitado e cirurgião, com participação da paciente.",
+"No pós-operatório o estoma já foi construído, e o técnico não faz a demarcação.",
+"Após a alta não há mais o que demarcar; o momento é o pré-operatório.",
+"A pessoa participa, mas a demarcação exige avaliação técnica da equipe."
+]
+},
+{
+"q": "Homem de 47 anos, com colostomia definitiva após câncer de reto, pergunta na unidade básica se tem direito às proteções legais da pessoa com deficiência, como atendimento prioritário e reserva de vagas. Segundo o Guia do Ministério da Saúde de 2021, qual norma enquadra a pessoa com estomia como pessoa com deficiência física?",
+"alts": [
+"A Lei 8.080/1990, ao definir princípios e diretrizes do SUS",
+"A Portaria 400/2009, ao criar diretrizes para os ostomizados",
+"A Resolução COFEN 787/2025, que trata das lesões cutâneas",
+"O Decreto 5.296/2004, que regulamenta a acessibilidade, no art. 5º",
+"A Lei 8.142/1990, que dispõe sobre a participação da comunidade"
+],
+"gab": 3,
+"tema": "feridas",
+"sub": "Estomias e cuidados",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Decreto 5.296/2004, art. 5º; Guia de Atenção à Saúde da Pessoa com Estomia, Ministério da Saúde/SAES, 2021",
+"coment": "Pelo Guia do Ministério da Saúde de 2021, a partir do art. 5º do Decreto 5.296, de 2 de dezembro de 2004, que regulamenta as Leis 10.048 e 10.098 sobre atendimento prioritário e acessibilidade, as pessoas com estomia passaram a ser identificadas como pessoas com deficiência física, com toda a proteção social conferida a elas nas esferas federal, estadual e municipal. A Portaria SAS/MS 400/2009 estabelece as Diretrizes Nacionais para a Atenção à Saúde das Pessoas Ostomizadas no SUS, mas não é a norma que faz o enquadramento. Em 2012, a estomia foi incluída na Rede de Cuidados à Saúde da Pessoa com Deficiência.",
+"porAlt": [
+"A Lei 8.080/1990 organiza o SUS e não trata desse enquadramento.",
+"A Portaria 400/2009 traz diretrizes de atenção, mas não faz o enquadramento como deficiência.",
+"A Res. COFEN 787/2025 regula a atuação da enfermagem em lesões cutâneas.",
+"Correta: o art. 5º do Decreto 5.296/2004 identifica a pessoa com estomia como deficiente física.",
+"A Lei 8.142/1990 trata de controle social e financiamento do SUS."
+]
+},
+{
+"q": "No ambulatório de estomaterapia, três pacientes perguntam sobre irrigação intestinal para reduzir o uso contínuo de bolsa: um com ileostomia, outro com colostomia transversa de fezes semilíquidas e o terceiro com colostomia sigmoide de fezes firmes. Pelo Guia do Ministério da Saúde de 2021, qual afirmação sobre essa técnica está correta?",
+"alts": [
+"Serve a qualquer estomia intestinal e é feita a cada 7 dias",
+"É indicada na ileostomia, pelo efluente líquido e contínuo",
+"Visa evacuação programada a cada 24 a 72 horas, após avaliação",
+"Pode ser iniciada pelo paciente sem prescrição ou avaliação",
+"Aumenta gases e odores, mas reduz o custo com as bolsas"
+],
+"gab": 2,
+"tema": "feridas",
+"sub": "Estomias e cuidados",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "tit",
+"base": "Guia de Atenção à Saúde da Pessoa com Estomia, Ministério da Saúde/SAES, 2021 (item 4.2.3, irrigação da colostomia)",
+"coment": "Pelo Guia do Ministério da Saúde de 2021, a irrigação é uma forma de manter a continência da colostomia: um tipo de lavagem intestinal que permite o controle programado da eliminação, feita a cada 24, 48 ou 72 horas. Com isso diminuem gases e odores e o uso de coletores, permitindo dispositivos mais discretos, como protetores de estoma. A técnica não se aplica a todas as pessoas e deve ser prescrita após avaliação de equipe capacitada. Por isso a resposta depende da avaliação individual: o efluente líquido e contínuo da ileostomia não permite essa programação.",
+"porAlt": [
+"Não serve a toda estomia, e a periodicidade citada é de 24 a 72 horas.",
+"O efluente líquido e contínuo da ileostomia não permite evacuação programada.",
+"Correta: a irrigação programa a evacuação a cada 24 a 72 horas, após avaliação capacitada.",
+"O guia exige prescrição após avaliação de equipe capacitada.",
+"A irrigação diminui gases e odores, e não os aumenta."
+]
+},
+{
+"q": "Homem de 60 anos com ileostomia recebeu na alta hospitalar bolsas fechadas, sem abertura inferior, porque eram as disponíveis no setor. Na primeira consulta na unidade básica, relata trocar a bolsa várias vezes ao dia e irritação na pele ao redor do estoma. Segundo o Guia do Ministério da Saúde de 2021, qual é a avaliação correta?",
+"alts": [
+"Bolsa fechada é a ideal para ileostomia, por evitar vazamentos",
+"Bolsa fechada serve a qualquer estomia, se trocada a cada 6 horas",
+"A troca frequente é benéfica, pois mantém a pele limpa e seca",
+"A irritação se deve à ileostomia, independentemente da bolsa",
+"Bolsa fechada é para colostomia com uma ou duas eliminações ao dia"
+],
+"gab": 4,
+"tema": "feridas",
+"sub": "Estomias e cuidados",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Guia de Atenção à Saúde da Pessoa com Estomia, Ministério da Saúde/SAES, 2021 (Quadro 7 e complicações de pele)",
+"coment": "Pelo Guia do Ministério da Saúde de 2021, a bolsa fechada não permite drenar o efluente e é indicada apenas para colostomia com uma ou duas eliminações por dia, sendo descartada após cada eliminação. A ileostomia elimina efluente líquido e frequente, e precisa de bolsa drenável, com abertura na extremidade inferior para esvaziamento. O guia lista a troca frequente da bolsa coletora entre as causas de dermatite periestomal por trauma mecânico, junto com limpeza ou retirada traumática e dispositivos mal adaptados. A enfermeira deve prescrever bolsa drenável e avaliar a pele.",
+"porAlt": [
+"A ileostomia precisa de bolsa drenável pelo efluente líquido e frequente.",
+"A bolsa fechada é só para colostomia com poucas eliminações diárias.",
+"O guia cita a troca frequente da bolsa como causa de dermatite por trauma.",
+"A irritação decorre das trocas repetidas impostas pela bolsa inadequada.",
+"Correta: bolsa fechada é indicada só para colostomia com uma ou duas eliminações ao dia."
+]
+},
+{
+"q": "Homem de 67 anos, traqueostomizado há seis meses por câncer de laringe, está em atenção domiciliar. Durante a troca do cadarço, a cânula sai acidentalmente, e não há cânula nova disponível na casa. Ele respira com esforço. Segundo o Guia do Ministério da Saúde de 2021, qual medida ajuda a manter o traqueostoma pérvio até a chegada do socorro?",
+"alts": [
+"Inserir tubo orotraqueal cerca de 5 cm no orifício do estoma",
+"Ocluir o orifício com gaze e ventilar com máscara facial",
+"Aguardar o serviço de emergência sem manipular o estoma",
+"Introduzir sonda de aspiração e mantê-la em aspiração contínua",
+"Reinserir a cânula antiga após fervê-la por dez minutos"
+],
+"gab": 0,
+"tema": "feridas",
+"sub": "Estomias e cuidados",
+"cenario": "aps",
+"comp": "tec",
+"nivel": "r3",
+"base": "Guia de Atenção à Saúde da Pessoa com Estomia, Ministério da Saúde/SAES, 2021 (item 4.2.1, estomia respiratória)",
+"coment": "Pelo Guia do Ministério da Saúde de 2021, diante de decanulação acidental, a inserção de tubo orotraqueal, cerca de 5 cm, no orifício da traqueostomia pode manter o traqueostoma pérvio e garantir o acesso à via aérea até a chegada do serviço de emergência ou a recolocação de nova cânula. O traqueostoma maduro tende a se estreitar rapidamente sem dispositivo. Ocluir o orifício e ventilar pela face falha quando a via aérea superior não está pérvia, como pode ocorrer no câncer de laringe. O guia orienta também higienizar a pele do pescoço e trocar o cadarço ao menos uma vez ao dia, com cuidado para evitar a decanulação.",
+"porAlt": [
+"Correta: tubo orotraqueal de cerca de 5 cm no orifício mantém o traqueostoma pérvio.",
+"Ocluir o estoma pode bloquear a única via aérea do paciente com câncer de laringe.",
+"Esperar sem dispositivo deixa o estoma estreitar e o paciente sem via aérea segura.",
+"Aspiração contínua não mantém o estoma aberto e agrava a hipóxia.",
+"Ferver a cânula atrasa o socorro e não é a medida recomendada pelo guia."
+]
+},
+{
+"q": "Homem de 58 anos, em ventilação mecânica no modo pressão controlada (PCV) por pneumonia, mantinha volume corrente expirado de 450 mL. Às 4 h, o volume cai para 280 mL e a SpO2 de 95% para 89%; há roncos à ausculta e curva de fluxo serrilhada, sem alarme de pressão alta. Qual a interpretação correta da enfermeira?",
+"alts": [
+"Desconexão do circuito, porque em PCV a pressão cairia junto com o volume",
+"Piora da mecânica, que no modo pressórico aparece como queda do volume",
+"Falha do sensor de fluxo, pois a falta de alarme de pressão exclui obstrução",
+"Excesso de sedação, que reduz o esforço e o volume ofertado no modo PCV"
+],
+"gab": 1,
+"tema": "uti",
+"sub": "Ventilação mecânica",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "tit",
+"base": "Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT)",
+"coment": "No modo pressão controlada, programam-se a pressão inspiratória, o tempo inspiratório e a frequência; o volume corrente é consequência da complacência, da resistência e do esforço do paciente. Por isso a piora mecânica, como secreção acumulada (roncos, curva de fluxo serrilhada) ou broncoespasmo, não dispara alarme de pressão alta: aparece como queda do volume expirado e dessaturação. Em PCV o alarme que importa é o de volume baixo, ajustado de forma individualizada (AMIB/SBPT 2013). A conduta é avaliar o paciente, aspirar por necessidade e reavaliar volume e saturação. Em volume controlado, a mesma secreção elevaria o pico de pressão.",
+"porAlt": [
+"Desconexão zera o volume expirado e dispara alarme de vazamento ou de pressão baixa, não deixa 280 mL.",
+"Correta: em PCV o volume varia com a mecânica, e secreção ou broncoespasmo reduzem o volume corrente.",
+"Em PCV a pressão é fixada pelo ventilador; a ausência de alarme de pressão não exclui obstrução.",
+"Sedação excessiva não explica roncos e curva serrilhada, que apontam para secreção na via aérea."
+]
+},
+{
+"q": "Mulher de 66 anos, intubada há 3 dias por SDRA, em volume controlado, tem queda súbita da SpO2 de 94% para 78%, alarme de pressão alta e taquicardia. O técnico sugere subir a FiO2 e silenciar o alarme. A enfermeira chega ao leito e confirma a instabilidade. Qual é a primeira conduta?",
+"alts": [
+"Subir a FiO2 para 100% no ventilador e aguardar a resposta da saturação",
+"Aspirar a cânula pelo sistema fechado e reavaliar após dez minutos",
+"Pedir radiografia de tórax no leito antes de manipular o tubo",
+"Pedir ajuda, desconectar e ventilar com bolsa e oxigênio a 100%",
+"Aprofundar a sedação, pois a pressão alta indica assincronia"
+],
+"gab": 3,
+"tema": "uti",
+"sub": "Ventilação mecânica",
+"cenario": "uti",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT)",
+"coment": "Dessaturação súbita com alarme de pressão alta no intubado é tratada como emergência pelo mnemônico DOPE: deslocamento do tubo, obstrução (secreção, tubo dobrado ou mordido, broncoespasmo), pneumotórax e falha do equipamento. A primeira manobra separa máquina e paciente: pedir ajuda, desconectar e ventilar com bolsa-válvula e oxigênio a 100%. Se melhora, o problema é o ventilador ou o circuito; se a bolsa está dura ou a saturação não sobe, é o tubo ou o tórax, e a sonda de aspiração passada pelo tubo ajuda a distinguir obstrução de pneumotórax. Silenciar o alarme ou só subir a FiO2 atrasa o diagnóstico.",
+"porAlt": [
+"Subir a FiO2 sem separar máquina e paciente mantém a causa (tubo, tórax ou equipamento) sem diagnóstico.",
+"Aspirar pode ser parte da investigação, mas esperar dez minutos com SpO2 de 78% é inaceitável.",
+"A radiografia vem depois da estabilização; não se espera imagem com o paciente dessaturando.",
+"Correta: desconectar e ventilar com bolsa a 100% separa falha do ventilador de problema no paciente.",
+"Sedar mais sem excluir deslocamento, obstrução e pneumotórax mascara uma causa potencialmente fatal."
+]
+},
+{
+"q": "Homem de 45 anos, 1,70 m de altura medida na admissão e 95 kg, é intubado por SDRA moderada. A prescrição pede volume corrente de 6 mL/kg. Ao conferir o ventilador, a enfermeira calcula o peso predito pela fórmula da ARDS Network. Qual volume corrente corresponde à prescrição?",
+"alts": [
+"Cerca de 570 mL, calculados sobre o peso real de 95 kg",
+"Cerca de 530 mL, calculados a 8 mL/kg do peso predito",
+"Cerca de 400 mL, calculados sobre o peso predito de 66 kg",
+"Cerca de 480 mL, pela média entre o peso real e o predito"
+],
+"gab": 2,
+"tema": "uti",
+"sub": "Ventilação mecânica",
+"cenario": "uti",
+"comp": "calc",
+"nivel": "tit",
+"base": "Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT); fórmula de peso predito da ARDS Network",
+"coment": "O volume corrente protetor é calculado pelo peso predito, que depende da altura e do sexo, e não pelo peso real, porque o tamanho do pulmão não cresce com a obesidade. No homem, peso predito = 50 + 0,91 × (altura em cm menos 152,4). Para 170 cm: 50 + 0,91 × 17,6 = 66 kg. A 6 mL/kg, o volume fica em cerca de 396 mL, ou seja, perto de 400 mL. A AMIB/SBPT (2013) recomenda 6 mL/kg de peso predito como ajuste inicial, e na SDRA a SSC 2026 limita o platô a 30 cmH2O. Usar o peso real de 95 kg daria 570 mL, volume lesivo. A enfermagem mede a altura na admissão e confere o volume programado contra a prescrição.",
+"porAlt": [
+"O peso real superestima o pulmão do obeso; 6 mL/kg de 95 kg gera volume lesivo na SDRA.",
+"A prescrição é de 6 mL/kg; 8 mL/kg do peso predito daria cerca de 530 mL, acima do pedido.",
+"Correta: peso predito de 66 kg vezes 6 mL/kg resulta em cerca de 396 mL.",
+"Não existe regra de média entre pesos; o cálculo usa só o peso predito pela altura e sexo."
+]
+},
+{
+"q": "Na UTI, a enfermeira vai realizar a higiene bucal de um paciente intubado há 2 dias, com tubo dotado de lúmen para aspiração subglótica. Segundo o caderno da ANVISA de prevenção de infecções relacionadas à assistência, como deve ser organizada a verificação da pressão do cuff nesse cuidado?",
+"alts": [
+"Medir com cuffômetro antes da higiene e aspirar a região subglótica ao final",
+"Medir pela palpação do balão piloto após a higiene, deixando-o firme ao toque",
+"Medir com cuffômetro só no fim do plantão, ajustando o valor para 40 cmH2O",
+"Desinsuflar o cuff durante a higiene para drenar secreção e reinsuflar depois",
+"Medir com cuffômetro após a higiene e manter a pressão entre 15 e 20 cmH2O"
+],
+"gab": 0,
+"tema": "uti",
+"sub": "Ventilação mecânica",
+"cenario": "uti",
+"comp": "tec",
+"nivel": "r1",
+"base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2ª ed., 2017",
+"coment": "O caderno da ANVISA (2017) recomenda manter a pressão do cuff entre 18 e 22 mmHg, ou 25 a 30 cmH2O com medidor de cuff, evitando valores acima de 22 mmHg ou 30 cmH2O. Pressão alta causa isquemia da mucosa traqueal; pressão baixa permite microaspiração da secreção acumulada acima do balonete, principal via da pneumonia associada à ventilação. A medida é feita com cuffômetro, nunca pela palpação do balão piloto, e o mesmo caderno recomenda verificá-la antes da higiene bucal, com aspiração da secreção subglótica ao término. Desinsuflar o cuff durante a higiene leva a secreção direto para a via aérea inferior.",
+"porAlt": [
+"Correta: a ANVISA orienta medir com cuffômetro antes da higiene bucal e aspirar a subglote ao final.",
+"A palpação do balão piloto não estima a pressão com segurança; a medida exige cuffômetro.",
+"40 cmH2O ultrapassa o limite de 30 cmH2O e causa isquemia da mucosa traqueal.",
+"Desinsuflar o cuff faz a secreção subglótica descer para a via aérea inferior.",
+"Pressão de 15 a 20 cmH2O fica abaixo da faixa de 25 a 30 cmH2O e favorece microaspiração."
+]
+},
+{
+"q": "Em unidade semi-intensiva, um técnico de enfermagem pergunta se pode aspirar o tubo orotraqueal de um paciente grave em ventilação mecânica, porque a enfermeira está em outra admissão. Há prescrição de enfermagem de aspiração por necessidade e protocolo institucional. Pela Resolução COFEN 557/2017, qual é a resposta correta?",
+"alts": [
+"Pode, desde que haja prescrição de enfermagem e protocolo institucional",
+"Pode, porque a restrição da resolução vale apenas para a UTI e a emergência",
+"Pode, se for supervisionado a distância pelo enfermeiro do mesmo setor",
+"Não pode, e a aspiração deve esperar o fisioterapeuta de plantão",
+"Não pode: aspirar o paciente grave intubado é privativo do enfermeiro"
+],
+"gab": 4,
+"tema": "uti",
+"sub": "Ventilação mecânica",
+"cenario": "uti",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução COFEN 557/2017, arts. 2º a 6º",
+"coment": "A Resolução COFEN 557/2017, art. 2º, determina que a aspiração de vias aéreas do paciente grave, submetido a intubação orotraqueal ou traqueostomia, em unidades de emergência, internação intensiva, semi-intensiva, intermediária ou demais unidades, é privativa do enfermeiro dentro da equipe de enfermagem. O técnico só pode aspirar o paciente não grave e o crônico com traqueostomia definitiva ou de longa permanência, avaliado e prescrito pelo enfermeiro no Processo de Enfermagem, com protocolo institucional (arts. 4º a 6º). Prescrição e protocolo não transferem ao técnico o procedimento no paciente grave intubado. A enfermeira deve ser chamada.",
+"porAlt": [
+"Prescrição e protocolo autorizam o técnico só no paciente não grave ou crônico traqueostomizado.",
+"O art. 2º inclui expressamente a semi-intensiva e qualquer unidade em que esteja o paciente grave.",
+"Supervisão a distância não está prevista; o procedimento no paciente grave é do enfermeiro.",
+"A resolução atribui o procedimento ao enfermeiro, que deve ser chamado, e não manda esperar outro profissional.",
+"Correta: no paciente grave intubado, a aspiração é privativa do enfermeiro (art. 2º)."
+]
+},
+{
+"q": "Paciente de 62 anos em volume controlado, com volume corrente de 420 mL e pausa inspiratória programada, apresenta na última hora aumento do pico de pressão de 28 para 42 cmH2O, enquanto a pressão de platô permanece em 20 cmH2O. A ausculta revela roncos difusos. Qual causa a enfermeira deve investigar primeiro?",
+"alts": [
+"Aumento de resistência, como secreção ou tubo dobrado e mordido",
+"Queda de complacência, como pneumotórax ou intubação seletiva",
+"Vazamento no cuff, que eleva o pico ao reduzir o volume ofertado",
+"Hiperinsuflação por PEEP alta, que eleva somente o pico inspiratório"
+],
+"gab": 0,
+"tema": "uti",
+"sub": "Ventilação mecânica",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "tit",
+"base": "Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT)",
+"coment": "Em volume controlado, o pico de pressão reflete a resistência das vias aéreas somada à complacência; o platô, medido na pausa inspiratória sem fluxo, reflete só a complacência do sistema respiratório. Pico que sobe com platô estável indica aumento de resistência: secreção (aqui sugerida pelos roncos), tubo dobrado ou mordido, broncoespasmo. A conduta é aspirar por necessidade, checar o tubo e o circuito e, se preciso, comunicar para broncodilatador. Pico e platô subindo juntos apontariam para queda de complacência, como pneumotórax, intubação seletiva ou atelectasia. Vazamento reduz pressões, não as eleva.",
+"porAlt": [
+"Correta: pico alto com platô estável é resistência aumentada, compatível com secreção e roncos.",
+"Queda de complacência eleva pico e platô juntos; aqui o platô ficou estável em 20 cmH2O.",
+"Vazamento no cuff reduz o volume e as pressões, em vez de elevar o pico inspiratório.",
+"PEEP alta e hiperinsuflação elevam também o platô, que neste caso não se alterou."
+]
+},
+{
+"q": "Homem de 70 anos, recuperado de pneumonia, inicia teste de respiração espontânea em pressão de suporte de 7 cmH2O. Aos 40 minutos, tem frequência respiratória de 38 irpm, SpO2 de 92%, frequência cardíaca de 118 bpm e pressão de 150/80 mmHg, sem sudorese. Qual a conduta, segundo as recomendações da AMIB?",
+"alts": [
+"Manter o teste até 120 minutos, pois SpO2 e frequência cardíaca estão boas",
+"Extubar, porque completou mais de 30 minutos de teste com estabilidade",
+"Interromper o teste e voltar ao suporte pela frequência acima de 35 irpm",
+"Reduzir a pressão de suporte para 5 cmH2O, para o teste ficar mais fiel",
+"Interromper o teste só se a SpO2 cair abaixo de 85% nas próximas horas"
+],
+"gab": 2,
+"tema": "uti",
+"sub": "Ventilação mecânica",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "r2",
+"base": "Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT)",
+"coment": "O teste de respiração espontânea (tubo T ou pressão de suporte de 5 a 7 cmH2O por 30 a 120 minutos) é interrompido, com retorno ao suporte anterior, quando surge qualquer sinal de intolerância. Pela AMIB/SBPT (2013): frequência respiratória acima de 35 por minuto, SpO2 abaixo de 90%, frequência cardíaca acima de 140 bpm, sistólica acima de 180 ou abaixo de 90 mmHg, agitação, sudorese ou rebaixamento de consciência. Basta um critério: com 38 irpm o paciente falhou, ainda que a saturação e a frequência cardíaca estejam aceitáveis. A enfermeira registra o motivo da falha e o teste é repetido no dia seguinte, depois de corrigir a causa.",
+"porAlt": [
+"Um único critério de intolerância encerra o teste; a frequência acima de 35 irpm já basta.",
+"Completar 30 minutos não basta; o paciente precisa tolerar o teste sem critério de falha.",
+"Correta: frequência respiratória acima de 35 irpm é critério de interrupção da AMIB.",
+"Reduzir o suporte em quem já mostra intolerância agrava a fadiga e não torna o teste válido.",
+"O corte de SpO2 para interromper é abaixo de 90%, e a frequência acima de 35 irpm já indica falha."
+]
+},
+{
+"q": "Paciente de 48 anos com SDRA grave, após 24 horas de ventilação protetora, mantém relação PaO2/FiO2 de 110 com FiO2 de 0,7 e PEEP de 14 cmH2O. A equipe da UTI decide pela posição prona e a enfermeira organiza a escala do procedimento. Qual duração das sessões é sustentada pelas evidências que fundamentam a recomendação?",
+"alts": [
+"Sessões de 2 horas a cada turno, alternadas com decúbito lateral",
+"Sessões de 6 horas ao dia, até a PaO2/FiO2 superar 150",
+"Sessões noturnas de 8 horas, para não interromper a dieta enteral",
+"Mais de 12 horas ao dia, com sessões de 16 horas no PROSEVA"
+],
+"gab": 3,
+"tema": "uti",
+"sub": "Ventilação mecânica",
+"cenario": "uti",
+"comp": "cuid",
+"nivel": "tit",
+"base": "ATS 2024, Clinical Practice Guideline on ARDS (Qadir et al.); ensaio PROSEVA",
+"coment": "A American Thoracic Society (2024) recomenda posição prona por mais de 12 horas por dia na SDRA grave, com recomendação forte e certeza moderada. O ensaio PROSEVA, que sustenta a conduta, incluiu pacientes com PaO2/FiO2 abaixo de 150 com FiO2 de pelo menos 0,6 e usou sessões de pelo menos 16 horas, com redução de mortalidade mesmo em quem pouco melhora a oxigenação. Sessões curtas não reproduzem o benefício. A dieta enteral continua em prona (ESPEN), e a enfermagem prepara o giro com fixação e numeração do tubo, proteção ocular e reposicionamento de eletrodos, cateteres e drenos.",
+"porAlt": [
+"Sessões de 2 horas não têm o benefício de mortalidade demonstrado com sessões prolongadas.",
+"Seis horas ficam abaixo das 12 horas recomendadas pela ATS 2024.",
+"A dieta enteral pode continuar em prona; o horário noturno de 8 horas não tem base.",
+"Correta: a ATS 2024 recomenda mais de 12 horas por dia, e o PROSEVA usou sessões de 16 horas."
+]
+},
+{
+"q": "Prematuro de 31 semanas é levado à mesa de reanimação. Após os passos iniciais, respira espontaneamente com frequência cardíaca de 130 bpm, mas tem gemência, tiragem e SpO2 pré-ductal de 72% aos 5 minutos. A equipe neonatal discute o suporte. Pelas diretrizes da SBP de 2026, qual é a conduta indicada?",
+"alts": [
+"VPP com balão autoinflável e oxigênio a 100% por 30 segundos",
+"CPAP de 5 a 6 cmH2O com peça T e máscara, titulando o oxigênio",
+"CPAP com balão autoinflável e máscara, mantendo o ar ambiente",
+"Intubação traqueal imediata para surfactante na sala de parto"
+],
+"gab": 1,
+"tema": "uti",
+"sub": "Ventilação mecânica",
+"cenario": "cc",
+"comp": "cuid",
+"nivel": "tit",
+"base": "Diretrizes 2026 do Programa de Reanimação Neonatal da SBP, prematuro abaixo de 34 semanas",
+"coment": "Pelas diretrizes da SBP de 2026, o prematuro abaixo de 34 semanas com frequência cardíaca de 100 bpm ou mais, mas com desconforto respiratório ou SpO2 abaixo do alvo, recebe CPAP de 5 a 6 cmH2O com ventilador manual em peça T e máscara, titulando o oxigênio pela saturação-alvo do minuto (80 a 85% aos 5 minutos). O balão autoinflável não fornece PEEP nem CPAP de forma consistente e não deve ser usado para esse fim. A VPP fica para apneia, respiração irregular ou frequência abaixo de 100 bpm, e surfactante não é rotina na sala de parto. O CPAP precoce reduziu morte ou displasia em prematuros de 24 a 30 semanas.",
+"porAlt": [
+"Com FC de 130 bpm e respiração espontânea não há indicação de VPP, e 100% de oxigênio não é o início.",
+"Correta: FC acima de 100 com desconforto e SpO2 abaixo do alvo indica CPAP com peça T.",
+"O balão autoinflável não fornece CPAP de forma consistente, e a SpO2 de 72% pede oxigênio titulado.",
+"Surfactante não é rotina na sala de parto, e o CPAP precoce é preferido à intubação."
+]
+},
+{
+"q": "Durante o banho no leito, a cabeceira de um paciente com pressão arterial invasiva foi abaixada e o transdutor ficou preso ao suporte, cerca de 10 cm abaixo do tórax. O monitor passou a mostrar PAM de 82 mmHg, antes de 70 mmHg, sem mudança clínica. Qual é a interpretação e a conduta corretas?",
+"alts": [
+"A pressão subiu de fato, e a noradrenalina deve ser reduzida na faixa",
+"Transdutor abaixo do eixo superestima a pressão; nivelar e zerar de novo",
+"Transdutor abaixo do eixo subestima a pressão; manter e registrar o valor",
+"A curva está superamortecida; lavar o cateter antes de qualquer ajuste",
+"A mudança de decúbito altera a PAM real; aguardar 30 minutos e medir"
+],
+"gab": 1,
+"tema": "uti",
+"sub": "Monitorização hemodinâmica",
+"cenario": "uti",
+"comp": "tec",
+"nivel": "r1",
+"base": "ESICM 2025, guidelines on circulatory shock and hemodynamic monitoring; ANVISA, Caderno 4, 2017",
+"coment": "A pressão invasiva só vale com o transdutor nivelado no eixo flebostático (quarto espaço intercostal, linha axilar média) e zerado ao ar atmosférico a cada mudança de posição. Com o transdutor abaixo do eixo, a coluna de líquido soma pressão hidrostática e o monitor superestima o valor; acima do eixo, subestima. Um aumento de 12 mmHg sem mudança clínica, logo depois de mexer no leito, é artefato até prova em contrário. Titular vasopressor por esse número reduziria a dose num paciente que talvez continue com PAM de 70 mmHg. A conduta é reposicionar o transdutor no eixo, zerar e reavaliar a curva antes de decidir.",
+"porAlt": [
+"Ajustar a noradrenalina por um valor gerado por desnivelamento expõe o paciente a hipotensão real.",
+"Correta: abaixo do eixo flebostático a coluna líquida soma pressão e o valor fica superestimado.",
+"O erro é o inverso: abaixo do eixo o monitor superestima, e o valor não deve ser registrado.",
+"Superamortecimento achata a curva e subestima a sistólica; o caso descreve desnivelamento.",
+"O artefato se corrige na hora com nivelamento e zero; esperar 30 minutos não resolve."
+]
+},
+{
+"q": "Paciente em choque séptico com noradrenalina tem pressão arterial invasiva radial de 86/62 mmHg, com curva achatada e sem incisura dicrótica. No teste de lavagem rápida, o traçado sobe devagar e volta à linha de base sem oscilações. A bolsa pressurizadora está em 150 mmHg. Qual a conduta da enfermeira?",
+"alts": [
+"Aumentar a noradrenalina, pois a curva confirma hipotensão sistólica",
+"Encurtar as extensões, pois o sistema subamortecido distorce a curva",
+"Repressurizar a bolsa e retirar bolhas antes de titular pelo valor",
+"Zerar o transdutor a cada hora, pois o teste mostrou boa fidelidade"
+],
+"gab": 2,
+"tema": "uti",
+"sub": "Monitorização hemodinâmica",
+"cenario": "uti",
+"comp": "tec",
+"nivel": "tit",
+"base": "ANVISA, Caderno 4, 2017 (monitorização hemodinâmica); ESICM 2025",
+"coment": "O teste da onda quadrada (lavagem rápida) mostra a fidelidade do sistema. Retorno lento, sem oscilações, com curva achatada e perda da incisura dicrótica, é superamortecimento: bolha, coágulo, cateter dobrado ou encostado na parede, bolsa pressurizadora murcha. Nessa curva a sistólica fica subestimada, e titular vasopressor por ela expõe o paciente a dose desnecessária. A conduta é repressurizar a bolsa (o habitual é cerca de 300 mmHg), retirar bolhas, lavar o cateter, conferir nível e zero e repetir o teste. O subamortecimento, com muitas oscilações, superestima a sistólica e se corrige encurtando a linha.",
+"porAlt": [
+"A curva superamortecida subestima a sistólica; subir a droga por ela pode gerar dose excessiva.",
+"Muitas oscilações caracterizam o subamortecimento; aqui não houve nenhuma, o que indica superamortecimento.",
+"Correta: bolsa murcha e bolhas causam superamortecimento, corrigido antes de qualquer titulação.",
+"O teste mostrou perda de fidelidade, e zerar não corrige bolha nem bolsa despressurizada."
+]
+},
+{
+"q": "Paciente de 59 anos em choque séptico, com cateter venoso central, recebeu 30 mL/kg de cristaloide e tem PVC de 6 mmHg medida no eixo flebostático, no fim da expiração. O residente propõe novo bólus de 1.000 mL porque a PVC está baixa. Qual leitura é coerente com as diretrizes vigentes?",
+"alts": [
+"A PVC baixa prediz resposta a volume, e o bólus está indicado",
+"A PVC deve ser lida na inspiração para refletir a pré-carga",
+"A PVC só vale medida com manômetro de água, não por transdutor",
+"A PVC não prediz resposta a volume; preferir medidas dinâmicas",
+"A PVC acima de 12 mmHg é a meta da ressuscitação do choque"
+],
+"gab": 3,
+"tema": "uti",
+"sub": "Monitorização hemodinâmica",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "r3",
+"base": "Surviving Sepsis Campaign 2026; ESICM 2025, guidelines on circulatory shock and hemodynamic monitoring",
+"coment": "A PVC é lida no fim da expiração, com o transdutor no eixo flebostático. A ESICM (2025) manda medi-la em quem já tem cateter central, mas como marcador de risco de congestão, não como preditor de resposta a volume: valores baixos ou altos não dizem se o débito vai subir com fluido. A Surviving Sepsis Campaign 2026 orienta guiar a reposição após o volume inicial por medidas dinâmicas (elevação passiva das pernas, variação de volume sistólico ou de pressão de pulso) e pela perfusão, como tempo de enchimento capilar e lactato seriado, e não por medidas estáticas. Metas fixas de PVC foram abandonadas.",
+"porAlt": [
+"Medidas estáticas como a PVC não preveem se o débito cardíaco vai subir com o bólus.",
+"A leitura padronizada é no fim da expiração, quando a pressão intratorácica interfere menos.",
+"O transdutor eletrônico nivelado e zerado é método válido para medir a PVC.",
+"Correta: a PVC não prediz resposta a volume; a reposição se guia por medidas dinâmicas e perfusão.",
+"Meta fixa de PVC não é recomendada pela SSC 2026 e favorece sobrecarga hídrica."
+]
+},
+{
+"q": "Durante a mudança de decúbito de um paciente intubado e monitorizado com capnografia, a curva de CO2 expirado, antes com platô estável em 38 mmHg, desaparece de repente. O monitor cardíaco mostra ritmo sinusal e o pulso carotídeo é palpável. Qual hipótese a enfermeira deve investigar de imediato?",
+"alts": [
+"Extubação acidental, desconexão ou obstrução total do tubo",
+"Broncoespasmo, que produz traçado em rampa e sem platô",
+"Baixo débito cardíaco, que reduz o CO2 de forma progressiva",
+"Hiperventilação, que leva o CO2 expirado para perto de zero"
+],
+"gab": 0,
+"tema": "uti",
+"sub": "Monitorização hemodinâmica",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "tit",
+"base": "Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT); Diretrizes AHA 2025 de RCP e ACE",
+"coment": "A capnografia confirma e vigia a posição do tubo: sem ventilação alveolar chegando ao sensor, não há curva sustentada. Curva que some de repente indica extubação acidental, desconexão do circuito, obstrução total do tubo ou parada circulatória; com pulso palpável e ritmo sinusal, a parada fica menos provável e a mudança de decúbito sugere deslocamento ou desconexão. A conduta é olhar o paciente, checar conexões e numeração do tubo e, se instável, ventilar com bolsa e oxigênio a 100%. Queda progressiva do CO2 sugere baixo débito ou embolia; traçado em rampa sem platô, broncoespasmo.",
+"porAlt": [
+"Correta: desaparecimento súbito da curva com pulso presente sugere tubo deslocado, desconectado ou obstruído.",
+"O broncoespasmo altera o formato da curva (rampa), mas não a faz desaparecer.",
+"Baixo débito reduz o CO2 de modo progressivo, não com perda súbita da curva.",
+"A hiperventilação reduz o CO2 aos poucos e mantém a curva visível, sem sumir de repente."
+]
+},
+{
+"q": "A comissão de controle de infecção revisa o protocolo de pressão arterial invasiva da UTI após aumento de infecções de corrente sanguínea. Segundo o caderno da ANVISA de 2017, qual conjunto de cuidados com o sistema de monitorização está correto?",
+"alts": [
+"Trocar o cateter arterial a cada 96 horas e o transdutor a cada 7 dias",
+"Trocar transdutor e solução de flush a cada 24 horas, com sistema aberto",
+"Preparar a pele com PVPI aquoso e trocar o cateter arterial a cada 7 dias",
+"Usar flush intermitente com heparina e trocar o transdutor a cada 48 horas",
+"Trocar transdutor e flush a cada 96 horas, sem troca rotineira do cateter"
+],
+"gab": 4,
+"tema": "uti",
+"sub": "Monitorização hemodinâmica",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2ª ed., 2017",
+"coment": "Pelo caderno da ANVISA (2017), a pressão arterial invasiva usa sistema fechado com flush contínuo; transdutor, acessórios e solução de flush são trocados a cada 96 horas, e o cateter arterial não tem troca de rotina, com a necessidade revista todos os dias. A pele é preparada com clorexidina alcoólica acima de 0,5%, aplicada por 30 segundos em vai e vem, com secagem espontânea; na radial, máscara, gorro, luvas estéreis e campo fenestrado, e barreira máxima na femoral ou axilar. Trocas mais frequentes e sistemas abertos aumentam a manipulação e o risco de contaminação, sem benefício.",
+"porAlt": [
+"O cateter arterial não tem troca programada, e o transdutor se troca a cada 96 horas.",
+"Sistema aberto e troca diária aumentam a manipulação; o padrão é fechado, com troca a cada 96 horas.",
+"O antisséptico indicado é a clorexidina alcoólica acima de 0,5%, e o cateter não tem troca programada.",
+"O caderno prevê flush contínuo em sistema fechado e troca do transdutor a cada 96 horas.",
+"Correta: transdutor e flush a cada 96 horas, e o cateter sem troca rotineira (ANVISA 2017)."
+]
+},
+{
+"q": "Mulher de 60 kg em choque séptico tem prescrição de noradrenalina a 0,2 mcg/kg/min. A farmácia envia a solução com 16 mg de noradrenalina em 250 mL de soro glicosado a 5%. Antes de instalar, a enfermeira faz a dupla checagem do cálculo. Qual vazão deve ser programada na bomba de infusão?",
+"alts": [
+"22,5 mL/h, pela concentração de 32 mcg/mL",
+"11,25 mL/h, pela concentração de 64 mcg/mL",
+"45 mL/h, pela concentração de 16 mcg/mL",
+"7,5 mL/h, pela concentração de 96 mcg/mL"
+],
+"gab": 1,
+"tema": "uti",
+"sub": "Drogas vasoativas e sedação",
+"cenario": "uti",
+"comp": "calc",
+"nivel": "tit",
+"base": "Surviving Sepsis Campaign 2026 (noradrenalina em primeira linha); cálculo de infusão em mcg/kg/min",
+"coment": "Dose: 0,2 mcg/kg/min × 60 kg = 12 mcg/min, ou 720 mcg/h. Concentração: 16 mg = 16.000 mcg em 250 mL, ou 64 mcg/mL. Vazão = 720 ÷ 64 = 11,25 mL/h. O erro mais comum é usar a concentração de outra apresentação (8 mg ou 4 mg em 250 mL), o que dobraria ou quadruplicaria a dose. Noradrenalina é medicamento de alta vigilância: a enfermagem confere prescrição, concentração e cálculo em dupla checagem, programa a bomba em mL/h, mantém via exclusiva e reavalia PAM, perfusão e diurese após o início. A SSC 2026 mantém a noradrenalina como vasopressor de primeira linha no choque séptico.",
+"porAlt": [
+"32 mcg/mL corresponderia a 8 mg em 250 mL, e não à bolsa de 16 mg enviada.",
+"Correta: 12 mcg/min viram 720 mcg/h, divididos por 64 mcg/mL, dão 11,25 mL/h.",
+"16 mcg/mL é a bolsa de 4 mg; programar 45 mL/h quadruplicaria a dose prescrita.",
+"96 mcg/mL não corresponde à diluição enviada e subdosaria o vasopressor."
+]
+},
+{
+"q": "Paciente de 72 kg recebe noradrenalina a 20 mL/h, preparada com 4 mg em 250 mL. Por restrição hídrica, a nova bolsa chega com 8 mg em 250 mL, e a prescrição em mcg/kg/min não mudou. Após a dupla checagem, qual vazão a enfermeira deve programar ao conectar a nova bolsa?",
+"alts": [
+"10 mL/h, para manter a mesma dose em mcg/min",
+"20 mL/h, pois a prescrição em mcg/kg/min não mudou",
+"40 mL/h, pois a concentração dobrou na bolsa",
+"15 mL/h, reduzindo devagar para evitar hipotensão",
+"5 mL/h, pela concentração quatro vezes maior"
+],
+"gab": 0,
+"tema": "uti",
+"sub": "Drogas vasoativas e sedação",
+"cenario": "uti",
+"comp": "calc",
+"nivel": "r2",
+"base": "Surviving Sepsis Campaign 2026; ISMP Brasil, medicamentos potencialmente perigosos de uso hospitalar (lista 2019)",
+"coment": "A bolsa antiga tinha 4.000 mcg em 250 mL, ou 16 mcg/mL; a 20 mL/h, o paciente recebia 320 mcg/h. A nova tem 8.000 mcg em 250 mL, ou 32 mcg/mL. Para manter os mesmos 320 mcg/h, a vazão passa a 320 ÷ 32 = 10 mL/h. Manter 20 mL/h dobraria a dose, com risco de crise hipertensiva, arritmia e isquemia. A troca se faz com a nova bolsa já preparada e a vazão recalculada antes de conectar, sem deixar a infusão parar, em via exclusiva, com vigilância da PAM nos minutos seguintes. A prescrição em mcg/kg/min continua igual; o que muda é a conversão para mL/h.",
+"porAlt": [
+"Correta: com o dobro da concentração, metade da vazão mantém a mesma dose em mcg/min.",
+"Manter 20 mL/h com a bolsa duas vezes mais concentrada dobra a dose de noradrenalina.",
+"Aumentar a vazão com bolsa mais concentrada multiplicaria a dose por quatro.",
+"A vazão é definida pelo cálculo, não por redução empírica, que deixaria a dose acima da prescrita.",
+"A concentração apenas dobrou (16 para 32 mcg/mL); 5 mL/h daria metade da dose."
+]
+},
+{
+"q": "Homem de 80 kg está com noradrenalina a 15 mL/h, em solução de 16 mg em 250 mL. O médico pergunta à enfermeira a dose atual para decidir se associa vasopressina, já que a PAM segue em 62 mmHg. Qual é a dose que a enfermeira deve informar?",
+"alts": [
+"0,05 mcg/kg/min",
+"0,1 mcg/kg/min",
+"0,2 mcg/kg/min",
+"0,4 mcg/kg/min",
+"16 mcg/kg/min"
+],
+"gab": 2,
+"tema": "uti",
+"sub": "Drogas vasoativas e sedação",
+"cenario": "uti",
+"comp": "calc",
+"nivel": "r3",
+"base": "Surviving Sepsis Campaign 2026 (vasopressina associada à noradrenalina em escalada)",
+"coment": "Concentração: 16.000 mcg em 250 mL = 64 mcg/mL. A 15 mL/h, correm 64 × 15 = 960 mcg/h, ou 16 mcg/min. Dividindo pelo peso: 16 ÷ 80 = 0,2 mcg/kg/min. Informar a dose em mcg/kg/min, e não só a vazão em mL/h, é o que permite à equipe comparar com o protocolo e decidir pela vasopressina, que a Surviving Sepsis Campaign 2026 sugere acrescentar quando a noradrenalina está em escalada. O erro de confundir mcg/min com mcg/kg/min (16) leva a decisões desastrosas. A enfermagem registra a dose, a PAM, a perfusão e a diurese a cada titulação.",
+"porAlt": [
+"0,05 mcg/kg/min seria a dose com uma solução quatro vezes mais diluída.",
+"0,1 mcg/kg/min seria o resultado com a bolsa de 8 mg em 250 mL.",
+"Correta: 960 mcg/h = 16 mcg/min; divididos por 80 kg, dão 0,2 mcg/kg/min.",
+"0,4 mcg/kg/min é o dobro da dose real, erro de concentração ou de peso.",
+"16 é a dose em mcg/min; esqueceu-se de dividir pelo peso de 80 kg."
+]
+},
+{
+"q": "Mulher de 69 anos em choque séptico recebe noradrenalina por veia periférica do antebraço enquanto aguarda o cateter central. Na inspeção, a enfermeira nota palidez, frio e edema em torno do sítio, com a infusão correndo. Qual sequência de condutas é correta?",
+"alts": [
+"Retirar o cateter, aplicar compressa fria e reinstalar no mesmo membro",
+"Manter a infusão, elevar o membro e reavaliar o sítio em uma hora",
+"Lavar o cateter com soro para diluir a droga e manter a infusão",
+"Parar, aspirar pelo cateter, retirar, elevar, compressa morna e comunicar",
+"Parar a infusão, retirar o cateter e aplicar gelo para limitar a absorção"
+],
+"gab": 3,
+"tema": "uti",
+"sub": "Drogas vasoativas e sedação",
+"cenario": "uti",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Surviving Sepsis Campaign 2026 (vasopressor por veia periférica com protocolo de segurança)",
+"coment": "A SSC 2026 sugere iniciar a noradrenalina por veia periférica para não atrasar o vasopressor, com protocolo de segurança: cateter calibroso em veia proximal, refluxo confirmado, inspeção frequente e prazo para o acesso central. No extravasamento, a sequência é parar a infusão, aspirar pelo cateter antes de retirá-lo, retirar, marcar a área, elevar o membro, aplicar compressa morna (o frio piora a isquemia causada pela vasoconstrição), comunicar o médico para o antídoto do protocolo (fentolamina, quando disponível) e instalar o vasopressor em outro acesso, sem deixar a paciente sem a droga. Registrar o evento e acompanhar a área.",
+"porAlt": [
+"Compressa fria agrava a isquemia por vasoconstrição, e o mesmo membro lesado não deve ser reusado.",
+"Manter a infusão no tecido infiltrado amplia a necrose; a primeira medida é parar.",
+"Lavar o cateter empurra mais droga para o tecido e mantém a infusão extravasando.",
+"Correta: parar, aspirar, retirar, elevar, compressa morna e comunicar para o antídoto.",
+"O gelo causa vasoconstrição adicional e piora a isquemia da noradrenalina extravasada."
+]
+},
+{
+"q": "Paciente com noradrenalina a 0,3 mcg/kg/min por uma via do cateter central. Para economizar acesso, o técnico prepara o bicarbonato de sódio prescrito para correr em Y na mesma via e, em seguida, um antibiótico em bólus. Qual orientação da enfermeira é correta?",
+"alts": [
+"Correr em Y é seguro, desde que a bomba da noradrenalina não seja pausada",
+"Pode fazer o bólus lento, porque o volume do antibiótico é pequeno",
+"Não usar essa via: bólus causa pico e o bicarbonato inativa a droga",
+"Pausar a noradrenalina durante o bólus e retomar depois na mesma vazão"
+],
+"gab": 2,
+"tema": "uti",
+"sub": "Drogas vasoativas e sedação",
+"cenario": "uti",
+"comp": "cuid",
+"nivel": "tit",
+"base": "Surviving Sepsis Campaign 2026; ISMP Brasil, medicamentos potencialmente perigosos de uso hospitalar (lista 2019)",
+"coment": "A noradrenalina corre em via exclusiva. Um bólus de outro fármaco na mesma via empurra de uma vez a solução parada no lúmen e no equipo, gerando pico hipertensivo e arritmia; pausar a bomba para injetar provoca o oposto, queda abrupta da pressão. Soluções alcalinas, como o bicarbonato de sódio, inativam as catecolaminas, de modo que a dose que chega ao paciente cai sem que a vazão mude. A conduta é usar outra via do cateter ou outro acesso para o bicarbonato e o antibiótico, manter a infusão contínua e conferir a PAM. Trocas de bolsa também se fazem sem interromper o fluxo.",
+"porAlt": [
+"O bicarbonato inativa a catecolamina mesmo com a bomba ligada; a via deve ser exclusiva.",
+"Mesmo lento, o bólus desloca a noradrenalina parada no lúmen e causa pico pressórico.",
+"Correta: via exclusiva evita pico por bólus e inativação da catecolamina pelo bicarbonato.",
+"Pausar a noradrenalina provoca hipotensão abrupta no paciente dependente da droga."
+]
+},
+{
+"q": "Homem de 63 anos, em emergência hipertensiva com edema agudo de pulmão, recebe nitroprussiato de sódio em bomba há 3 dias, com insuficiência renal. A pressão invasiva está no alvo, mas a gasometria mostra acidose lática nova, sem outra causa aparente, e ele está confuso. Qual conduta a enfermeira deve adotar?",
+"alts": [
+"Trocar o equipo por um transparente para inspecionar melhor a solução",
+"Aumentar a vazão, pois a acidose sugere baixo débito por pressão alta",
+"Manter a infusão e corrigir a acidose com bicarbonato correndo em Y",
+"Suspeitar de toxicidade por cianeto e comunicar o médico de imediato"
+],
+"gab": 3,
+"tema": "uti",
+"sub": "Drogas vasoativas e sedação",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "tit",
+"base": "Diretriz Brasileira de Hipertensão Arterial 2025 (emergências hipertensivas)",
+"coment": "O nitroprussiato é vasodilatador de ação imediata, usado na emergência hipertensiva com pressão invasiva contínua. O frasco e o equipo ficam protegidos da luz, e solução azulada ou escura é descartada. Seu metabolismo libera cianeto, e a acidose lática inexplicada com pressão controlada é o sinal clássico de toxicidade; confusão e convulsões após dias de infusão, sobretudo na insuficiência renal, sugerem acúmulo de tiocianato. A enfermeira comunica imediatamente, para que o médico reavalie a suspensão, a troca do anti-hipertensivo e o antídoto. Equipo transparente expõe o fármaco à luz, e bicarbonato não se infunde em Y com outros fármacos sem conferência.",
+"porAlt": [
+"O nitroprussiato exige equipo e frasco protegidos da luz; o transparente o degrada.",
+"A pressão está no alvo; acidose inexplicada sob nitroprussiato aponta para cianeto, não baixo débito.",
+"Tratar só a acidose mantém a exposição ao cianeto e ignora a causa provável.",
+"Correta: acidose lática inexplicada e confusão sob nitroprussiato sugerem cianeto e tiocianato."
+]
+},
+{
+"q": "Paciente em choque séptico teve a noradrenalina aumentada de 0,25 para 0,5 mcg/kg/min nas últimas horas e mantém PAM de 62 mmHg. O médico prescreve vasopressina em infusão contínua. Ao instalar o novo fármaco, qual cuidado de enfermagem é coerente com a forma de uso da vasopressina?",
+"alts": [
+"Infundir em dose fixa, em UI/min, vigiando isquemia digital e mesentérica e o sódio",
+"Titular a vasopressina a cada 5 minutos pela PAM, como se faz com a noradrenalina",
+"Suspender a noradrenalina ao iniciar a vasopressina, que passa a substituí-la",
+"Fazer bólus repetidos, pois a meia-vida curta impede a infusão contínua da droga"
+],
+"gab": 0,
+"tema": "uti",
+"sub": "Drogas vasoativas e sedação",
+"cenario": "uti",
+"comp": "cuid",
+"nivel": "tit",
+"base": "Surviving Sepsis Campaign 2026 (vasopressina associada à noradrenalina)",
+"coment": "A Surviving Sepsis Campaign 2026 sugere acrescentar vasopressina quando a dose de noradrenalina está em escalada, em vez de continuar subindo só a catecolamina. Diferente da noradrenalina, a vasopressina é infundida em dose fixa, expressa em UI/min, e não é titulada minuto a minuto pela PAM; quem continua sendo titulada é a noradrenalina. A enfermagem vigia isquemia digital e mesentérica (extremidades, dor e distensão abdominal, lactato) e o sódio sérico. Na retirada, muitos serviços reduzem primeiro a noradrenalina e só depois a vasopressina. A associação não substitui a noradrenalina: soma-se a ela.",
+"porAlt": [
+"Correta: a vasopressina corre em dose fixa em UI/min, com vigilância de isquemia e de sódio.",
+"A titulação contínua pela PAM continua sendo feita com a noradrenalina, não com a vasopressina.",
+"A vasopressina é acrescentada à noradrenalina, e não colocada no lugar dela.",
+"A vasopressina é usada em infusão contínua; bólus repetidos não fazem parte do esquema."
+]
+},
+{
+"q": "Mulher de 55 anos, no primeiro dia de pós-operatório de laparotomia na UTI, extubada há 6 horas, está sonolenta e não consegue responder à escala numérica. Na mudança de decúbito, faz careta, enrijece os braços e geme; a pontuação na CPOT é 5. Qual a interpretação e a conduta?",
+"alts": [
+"CPOT não se aplica ao extubado; usar a BPS para confirmar a dor",
+"CPOT acima de 2 indica dor; dar a analgesia prescrita e reavaliar",
+"CPOT de 5 indica agitação; aplicar a RASS e iniciar sedação leve",
+"CPOT de 5 indica delirium; aplicar o CAM-ICU antes de medicar",
+"CPOT abaixo de 6 indica dor leve; adiar a analgesia para depois"
+],
+"gab": 1,
+"tema": "uti",
+"sub": "Drogas vasoativas e sedação",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "r2",
+"base": "Diretriz PADIS da Society of Critical Care Medicine 2018, atualização focada 2025",
+"coment": "O autorrelato é o padrão quando o paciente consegue informar. Quando não consegue e tem movimentos preservados, o PADIS indica escalas comportamentais: a BPS e a CPOT. A CPOT avalia expressão facial, movimentos corporais, tensão muscular e, no intubado, adaptação ao ventilador ou, no extubado, vocalização; vai de 0 a 8, e escore acima de 2 indica dor. Com CPOT 5 na mobilização, a conduta é aplicar a analgesia prescrita, de preferência antes dos próximos procedimentos, e reavaliar. Tratar como agitação ou delirium sem controlar a dor inverte a prioridade: dor primeiro, sedação depois.",
+"porAlt": [
+"A CPOT serve ao intubado e ao extubado, pelo item vocalização; a BPS é a usada no intubado.",
+"Correta: na CPOT, escore acima de 2 indica dor, que deve ser tratada e reavaliada.",
+"CPOT mede dor, não agitação; sedar sem analgesia deixa a paciente imóvel e com dor.",
+"O CAM-ICU vem depois do controle da dor; o escore 5 na CPOT indica dor.",
+"O corte da CPOT é acima de 2; com 5 há dor que precisa de analgesia agora."
+]
+},
+{
+"q": "Na UTI, a enfermeira avalia a dor de um paciente intubado, sob sedação leve, que não consegue autorrelatar. Ela decide aplicar a Behavioral Pain Scale (BPS), padronizada pelo protocolo da unidade. Quais domínios compõem essa escala e a partir de qual escore se considera que há dor?",
+"alts": [
+"Face, movimentos, tensão muscular e vocalização; dor acima de 2",
+"Face, membros superiores e ventilador; dor a partir de 2 pontos",
+"Face, membros superiores e adaptação ao ventilador; dor acima de 5",
+"Olhos, resposta motora e adaptação ao ventilador; dor acima de 8"
+],
+"gab": 2,
+"tema": "uti",
+"sub": "Drogas vasoativas e sedação",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "tit",
+"base": "Diretriz PADIS da Society of Critical Care Medicine 2018, atualização focada 2025",
+"coment": "A Behavioral Pain Scale tem três domínios: expressão facial, movimentos dos membros superiores e adaptação ao ventilador. Cada um vale de 1 a 4, e o total vai de 3 a 12; escore acima de 5 indica dor. É uma das duas escalas comportamentais de maior validade no PADIS, ao lado da CPOT, que tem quatro itens de 0 a 2 (face, movimentos, tensão muscular e ventilador ou vocalização), total de 0 a 8 e dor acima de 2. As duas perdem validade no paciente paralisado ou em sedação profunda. A escala é aplicada no mínimo a cada turno e sempre após ajuste de analgesia.",
+"porAlt": [
+"Esses quatro itens e o corte acima de 2 são da CPOT, não da BPS.",
+"Os domínios estão certos, mas a BPS mínima é 3 e o corte de dor é acima de 5.",
+"Correta: a BPS soma face, membros superiores e ventilador, de 3 a 12, com dor acima de 5.",
+"Abertura ocular e resposta motora pertencem ao Glasgow, e a BPS não chega a 8 como corte."
+]
+},
+{
+"q": "Na avaliação das 8 h, um paciente sob propofol abre os olhos quando chamado pelo nome, mantém contato visual por cerca de 5 segundos e volta a fechá-los. Não se movimenta sem estímulo e não há agitação. Pela escala de agitação e sedação de Richmond (RASS), qual é o escore?",
+"alts": [
+"RASS 0, alerta e calmo",
+"RASS −1, sonolento à voz",
+"RASS +1, inquieto e ansioso",
+"RASS −2, em sedação leve",
+"RASS −4, sedação profunda"
+],
+"gab": 3,
+"tema": "uti",
+"sub": "Drogas vasoativas e sedação",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "r1",
+"base": "Diretriz PADIS da Society of Critical Care Medicine 2018, atualização focada 2025 (RASS)",
+"coment": "A RASS vai de +4 (combativo) a −5 (não despertável). Os níveis negativos se diferenciam pela resposta à voz: −1 desperta à voz e mantém olhos abertos e contato visual por mais de 10 segundos; −2 desperta brevemente à voz, com contato visual por menos de 10 segundos; −3 tem movimento ou abertura ocular à voz, sem contato visual; −4 não responde à voz, só ao estímulo físico. Contato visual de cerca de 5 segundos com abertura ocular ao chamado é −2, sedação leve. O PADIS considera sedação leve a faixa de −2 a +1, e o alvo deve estar escrito na prescrição para guiar a titulação.",
+"porAlt": [
+"RASS 0 é o paciente alerta e calmo, de olhos abertos sem precisar ser chamado.",
+"RASS −1 exige contato visual por mais de 10 segundos ao chamado.",
+"RASS +1 é o paciente ansioso e inquieto, sem movimentos agressivos.",
+"Correta: desperta à voz com contato visual por menos de 10 segundos, RASS −2.",
+"RASS −4 não responde à voz e só reage ao estímulo físico."
+]
+},
+{
+"q": "Paciente de 74 anos, no quinto dia de ventilação mecânica, recebe fentanil e midazolam contínuos e está com RASS −4. A família relata que ele parecia confuso antes de ser intubado. A enfermeira pretende rastrear delirium nesse plantão. Qual a conduta correta quanto ao CAM-ICU?",
+"alts": [
+"Aplicar o CAM-ICU agora, pois a sedação profunda não interfere no teste",
+"Registrar como não avaliável e reaplicar quando a RASS for −3 ou mais leve",
+"Considerar o CAM-ICU positivo, já que a RASS diferente de zero basta",
+"Trocar o CAM-ICU pelo relato da família, aceito em sedação profunda"
+],
+"gab": 1,
+"tema": "uti",
+"sub": "Drogas vasoativas e sedação",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "tit",
+"base": "Diretriz PADIS da Society of Critical Care Medicine 2018, atualização focada 2025 (CAM-ICU)",
+"coment": "O CAM-ICU exige que o paciente responda à voz. Por isso só se aplica com RASS de −3 ou mais leve; com RASS −4 ou −5 o paciente está em coma, e o delirium não pode ser avaliado. O registro correto é não avaliável, com nova tentativa quando a sedação permitir. Neste caso, a RASS −4 com benzodiazepínico contínuo também sinaliza o problema: o PADIS recomenda sedação leve, alvo escrito, despertar diário e propofol ou dexmedetomidina em vez de benzodiazepínico. Para o positivo é preciso início agudo ou flutuação e desatenção, mais pensamento desorganizado ou consciência alterada: a RASS alterada sozinha não fecha o diagnóstico.",
+"porAlt": [
+"Com RASS −4 o paciente não responde à voz, e o teste de atenção não pode ser feito.",
+"Correta: o CAM-ICU só se aplica com RASS −3 ou mais leve; em −4 é registrado como não avaliável.",
+"A consciência alterada é só um dos itens; exige-se também início agudo e desatenção.",
+"O relato da família ajuda a contextualizar, mas não substitui o instrumento validado."
+]
+},
+{
+"q": "Homem de 68 anos, no terceiro dia de pós-operatório na UTI, extubado, tem RASS −1. Desde a véspera alterna períodos de calma e sonolência. No teste das letras, erra 4 de 10. Responde corretamente às perguntas de sim ou não e cumpre um comando de duas etapas. Qual o resultado do CAM-ICU?",
+"alts": [
+"Negativo, porque o pensamento está organizado",
+"Negativo, porque a RASS −1 equivale a alerta",
+"Não avaliável, porque a RASS precisa ser zero",
+"Positivo só se houver também agitação motora",
+"Positivo, pelos itens 1 e 2 somados ao item 4"
+],
+"gab": 4,
+"tema": "uti",
+"sub": "Drogas vasoativas e sedação",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "r3",
+"base": "Diretriz PADIS da Society of Critical Care Medicine 2018, atualização focada 2025 (CAM-ICU)",
+"coment": "O CAM-ICU tem quatro itens: 1, início agudo ou curso flutuante; 2, desatenção (no teste das 10 letras, mais de 2 erros é positivo); 3, pensamento desorganizado; 4, nível de consciência alterado, isto é, RASS diferente de zero no momento da avaliação. O delirium está presente com os itens 1 e 2, mais o 3 ou o 4. Aqui há flutuação desde a véspera (item 1), 4 erros nas letras (item 2) e RASS −1 (item 4). O pensamento organizado não exclui o diagnóstico, porque o item 4 completa a regra. Delirium hipoativo é frequente e passa despercebido justamente por não ter agitação.",
+"porAlt": [
+"O item 3 é só uma das alternativas; com o item 4 presente, o CAM-ICU fecha positivo.",
+"RASS −1 é diferente de zero e conta como consciência alterada no item 4.",
+"O CAM-ICU se aplica com RASS de −3 ou mais leve, não apenas com RASS zero.",
+"Agitação não é exigida; o delirium hipoativo também é positivo no CAM-ICU.",
+"Correta: flutuação, desatenção e RASS diferente de zero fecham o CAM-ICU positivo."
+]
+},
+{
+"q": "Paciente de 80 anos na UTI, extubado há 2 dias, tem CAM-ICU positivo à noite. Usa óculos e aparelho auditivo, guardados desde a admissão, e a sonda vesical drenou 50 mL em 6 horas, com bexiga palpável e dor à palpação suprapúbica. Qual é a conduta inicial de enfermagem?",
+"alts": [
+"Investigar a retenção urinária e devolver os óculos e o aparelho auditivo",
+"Pedir antipsicótico de horário para encurtar e prevenir o delirium",
+"Aplicar contenção mecânica preventiva até o CAM-ICU ficar negativo",
+"Pedir benzodiazepínico à noite para regularizar o sono do paciente",
+"Manter o quarto escuro e silencioso nas 24 horas, sem visita da família"
+],
+"gab": 0,
+"tema": "uti",
+"sub": "Drogas vasoativas e sedação",
+"cenario": "uti",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Diretriz PADIS da Society of Critical Care Medicine 2018, atualização focada 2025; Res. COFEN 746/2024 (contenção)",
+"coment": "Diante do CAM-ICU positivo, o primeiro passo é procurar a causa: fármacos, infecção, hipóxia, distúrbio metabólico, dor, abstinência e retenção urinária, que aqui é provável (sonda com pouca drenagem, bexiga palpável e dor), pedindo verificação da sonda. Somam-se as medidas não farmacológicas do pacote ABCDEF: óculos e aparelho auditivo, orientação, sono protegido à noite e luz durante o dia, mobilização e presença da família. Antipsicótico não previne nem encurta o delirium, benzodiazepínico o piora, e contenção mecânica, regida pela Res. COFEN 746/2024, não é medida preventiva nem substitui o tratamento da causa.",
+"porAlt": [
+"Correta: investigar a causa provável e devolver óculos e aparelho auditivo são as primeiras medidas.",
+"Antipsicótico não previne nem encurta o delirium e não é rotina pelo PADIS.",
+"Contenção não trata delirium, aumenta a agitação e não é medida preventiva.",
+"Benzodiazepínico se associa a mais delirium, salvo na abstinência de álcool.",
+"Escuro contínuo e ausência da família desorientam; o ritmo dia e noite e a família ajudam."
+]
+},
+{
+"q": "Homem de 61 anos com pneumonia chega à UTI com PAM de 60 mmHg após o volume inicial, lactato de 4 mmol/L e noradrenalina em início. As hemoculturas ainda não foram colhidas: a punção está difícil e as tentativas já duram 30 minutos. Pela Surviving Sepsis Campaign 2026, como a enfermeira deve proceder com o antimicrobiano?",
+"alts": [
+"Aguardar as hemoculturas para não reduzir a positividade",
+"Administrar sem mais atraso, idealmente na primeira hora",
+"Iniciar em até 3 horas, como na sepse apenas possível",
+"Esperar o lactato de controle para confirmar o choque",
+"Administrar só após a passagem do cateter venoso central"
+],
+"gab": 1,
+"tema": "uti",
+"sub": "Sepse e choque",
+"cenario": "uti",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Surviving Sepsis Campaign 2026 (Prescott et al., Intensive Care Med 2026)",
+"coment": "No choque séptico e na sepse provável ou definitiva, a Surviving Sepsis Campaign 2026 recomenda antimicrobiano imediato, idealmente na primeira hora a partir do reconhecimento. As hemoculturas devem ser colhidas o quanto antes e, idealmente, antes do antimicrobiano, mas sem atrasá-lo no choque. Colher depois reduz a positividade (em estudo citado pela diretriz, de 31,4% para 19,4% após mediana de 70 minutos de antibiótico), e por isso se tenta colher em paralelo; o que não se aceita é segurar a dose. O prazo de até 3 horas vale para a sepse apenas possível, sem choque. A enfermeira organiza acesso, lactato, culturas, antimicrobiano e cristaloide em paralelo.",
+"porAlt": [
+"No choque, a coleta de culturas não pode atrasar o antimicrobiano.",
+"Correta: no choque séptico o antimicrobiano é imediato, idealmente na primeira hora.",
+"O prazo de 3 horas é da sepse apenas possível sem choque; este paciente está em choque.",
+"O choque já está caracterizado; esperar novo lactato atrasa a dose.",
+"O antimicrobiano pode correr em acesso periférico; esperar o cateter central atrasa o tratamento."
+]
+},
+{
+"q": "Um hospital revisa o protocolo de sepse das enfermarias para que o enfermeiro faça o rastreio sistemático dos pacientes agudamente doentes e acione o time de resposta rápida. A comissão quer seguir a recomendação forte da Surviving Sepsis Campaign 2026. Qual ferramenta de rastreio deve ser adotada?",
+"alts": [
+"O qSOFA isolado, por ser o mais específico para mortalidade",
+"O lactato sérico de todos os internados a cada 12 horas",
+"O escore SOFA completo calculado na admissão de cada paciente",
+"NEWS, NEWS2, MEWS ou SIRS, em vez do qSOFA usado isoladamente"
+],
+"gab": 3,
+"tema": "uti",
+"sub": "Sepse e choque",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "tit",
+"base": "Surviving Sepsis Campaign 2026 (Prescott et al., Intensive Care Med 2026)",
+"coment": "Para rastrear sepse em pacientes agudamente doentes, a Surviving Sepsis Campaign 2026 faz recomendação forte de usar NEWS, NEWS2, MEWS ou critérios de SIRS em vez do qSOFA isolado, cuja sensibilidade é baixa e deixa passar casos. A diretriz também recomenda, com força, que o hospital tenha programa de sepse com rastreio dos agudamente doentes e procedimentos padronizados. Na prática, o enfermeiro que aplica o escore de alerta precoce é quem abre o protocolo. O SOFA serve para caracterizar disfunção orgânica pela definição Sepsis-3, não para triagem de beira de leito, e lactato universal não é ferramenta de rastreio.",
+"porAlt": [
+"A SSC 2026 recomenda não usar o qSOFA isolado para rastreio, pela baixa sensibilidade.",
+"Dosar lactato de todos os internados não é rastreio recomendado e não substitui o escore clínico.",
+"O SOFA caracteriza disfunção orgânica, mas não é a ferramenta de triagem recomendada.",
+"Correta: NEWS, NEWS2, MEWS ou SIRS em vez do qSOFA isolado (recomendação forte)."
+]
+},
+{
+"q": "Mulher de 78 anos em choque séptico de foco urinário, com noradrenalina titulada pela enfermagem dentro da faixa prescrita, tem PAM de 63 mmHg, enchimento capilar de 3 segundos, diurese de 0,6 mL/kg/h e lactato em queda. A equipe revisa a meta pressórica. Qual alvo de PAM a SSC 2026 sugere para ela?",
+"alts": [
+"60 a 65 mmHg, por ter 65 anos ou mais",
+"70 a 75 mmHg, pela idade e risco renal",
+"Acima de 75 mmHg, para proteger o rim",
+"80 a 85 mmHg, pela hipertensão prévia"
+],
+"gab": 0,
+"tema": "uti",
+"sub": "Sepse e choque",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "tit",
+"base": "Surviving Sepsis Campaign 2026 (Prescott et al., Intensive Care Med 2026)",
+"coment": "A Surviving Sepsis Campaign 2026 recomenda PAM inicial de 65 mmHg no choque séptico (recomendação forte) e sugere faixa de 60 a 65 mmHg a partir dos 65 anos (recomendação fraca). Metas mais altas não melhoraram desfechos e expõem o paciente a mais vasopressor, arritmia e isquemia. Com PAM de 63 mmHg, perfusão melhorando (enchimento capilar de 3 segundos, diurese acima de 0,5 mL/kg/h, lactato em queda), a paciente está dentro do alvo sugerido, e subir a noradrenalina não traz benefício. A enfermagem titula pela faixa prescrita, avalia a perfusão junto com o número e confirma a confiabilidade da medida.",
+"porAlt": [
+"Correta: a SSC 2026 sugere PAM de 60 a 65 mmHg a partir dos 65 anos.",
+"Metas de 70 a 75 mmHg exigem mais vasopressor sem benefício demonstrado.",
+"PAM acima de 75 mmHg não protege o rim e aumenta a exposição ao vasopressor.",
+"A SSC 2026 não indica 80 a 85 mmHg; metas altas aumentam a exposição ao vasopressor."
+]
+},
+{
+"q": "Homem de 52 anos e 70 kg, com peritonite, chega à UTI com PA de 82/46 mmHg, tempo de enchimento capilar de 5 segundos e lactato de 4,2 mmol/L. A equipe inicia a ressuscitação e a enfermeira prepara os fluidos. Pela SSC 2026, qual volume e tipo de fluido correspondem à recomendação para as primeiras 3 horas?",
+"alts": [
+"1.000 mL de albumina a 20%, em bólus sucessivos de 250 mL",
+"1.400 mL de soro fisiológico, calculados a 20 mL/kg de peso",
+"Pelo menos 2.100 mL de cristaloide, de preferência balanceado",
+"3.500 mL de soro glicosado a 5%, calculados a 50 mL/kg",
+"Pelo menos 2.100 mL de salina 0,9%, preferida ao balanceado"
+],
+"gab": 2,
+"tema": "uti",
+"sub": "Sepse e choque",
+"cenario": "uti",
+"comp": "calc",
+"nivel": "r2",
+"base": "Surviving Sepsis Campaign 2026 (Prescott et al., Intensive Care Med 2026)",
+"coment": "Na sepse com hipoperfusão, a Surviving Sepsis Campaign 2026 sugere pelo menos 30 mL/kg de cristaloide nas primeiras 3 horas, preferindo a solução balanceada (como Ringer lactato) à salina 0,9%; as duas sugestões são de força fraca. Para 70 kg, são pelo menos 2.100 mL. Depois do volume inicial, a reposição passa a ser guiada por lactato seriado, tempo de enchimento capilar e medidas dinâmicas, e, após a estabilização, a diretriz sugere retirar o excesso de fluido. Albumina não é o fluido inicial, e soro glicosado não expande o intravascular. A enfermagem registra cada bólus no balanço hídrico e reavalia a perfusão.",
+"porAlt": [
+"Albumina a 20% não é o fluido de ressuscitação inicial recomendado pela SSC 2026.",
+"20 mL/kg fica abaixo dos 30 mL/kg sugeridos, e a salina não é a preferida.",
+"Correta: 30 mL/kg de 70 kg dão 2.100 mL, com preferência pelo cristaloide balanceado.",
+"Soro glicosado não expande o intravascular e não é fluido de ressuscitação.",
+"O volume está certo, mas a SSC 2026 prefere o balanceado à salina 0,9%."
+]
+},
+{
+"q": "Paciente de 66 anos com choque séptico mantém PAM de 55 mmHg após o volume inicial. O cateter venoso central só poderá ser passado em 2 horas, e há um acesso periférico calibroso no antebraço proximal, com bom refluxo. Pela Surviving Sepsis Campaign 2026, qual a conduta em relação ao vasopressor?",
+"alts": [
+"Aguardar o cateter central, pois noradrenalina periférica é contraindicada",
+"Iniciar dopamina periférica até a passagem do cateter venoso central",
+"Repetir bólus de cristaloide a cada 30 minutos até o cateter central",
+"Iniciar vasopressina periférica, que não causa lesão por extravasamento",
+"Iniciar a noradrenalina na veia periférica, com vigilância frequente do sítio"
+],
+"gab": 4,
+"tema": "uti",
+"sub": "Sepse e choque",
+"cenario": "uti",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Surviving Sepsis Campaign 2026 (Prescott et al., Intensive Care Med 2026)",
+"coment": "A Surviving Sepsis Campaign 2026 mantém a noradrenalina como vasopressor de primeira linha (recomendação forte) e sugere iniciá-la por veia periférica em vez de esperar o acesso central (recomendação fraca, certeza muito baixa), porque o atraso do vasopressor prolonga a hipotensão. Com protocolo de segurança, as complicações somaram 5,97%. O protocolo inclui cateter calibroso em veia proximal, longe de articulação, refluxo confirmado, inspeção frequente do sítio e prazo definido para o acesso central. Dopamina não é a primeira escolha, e repetir volume indefinidamente favorece sobrecarga sem corrigir a vasoplegia.",
+"porAlt": [
+"A SSC 2026 sugere justamente iniciar por veia periférica em vez de esperar o acesso central.",
+"Dopamina não é o vasopressor de primeira linha; a escolha é a noradrenalina.",
+"Volume repetido sem critério leva à sobrecarga e não corrige a vasoplegia.",
+"A vasopressina é associada à noradrenalina em escalada e também pode lesar tecido.",
+"Correta: noradrenalina periférica com protocolo de segurança evita atrasar o vasopressor."
+]
+},
+{
+"q": "Na UTI pediátrica, lactente de 10 meses com pneumonia lobar está em oxigênio, com taquicardia e enchimento capilar de 3 segundos. A equipe aplica os critérios de Phoenix, publicados em 2024, para definir se há sepse. Qual definição de sepse esses critérios adotam para a criança?",
+"alts": [
+"Infecção suspeita com dois ou mais critérios de SIRS pediátrica",
+"Infecção suspeita ou confirmada com escore de Phoenix de 2 ou mais",
+"Infecção confirmada em cultura com qualquer disfunção cardiovascular",
+"Infecção suspeita com lactato acima de 4 mmol/L e febre persistente"
+],
+"gab": 1,
+"tema": "uti",
+"sub": "Sepse e choque",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "tit",
+"base": "Critérios de Phoenix para sepse pediátrica (Schlapbach et al., JAMA 2024)",
+"coment": "Em janeiro de 2024, a Society of Critical Care Medicine publicou os critérios de Phoenix, que substituíram, para a criança, os critérios de SIRS da conferência de 2005. Sepse passa a ser infecção suspeita ou confirmada com escore de Phoenix de 2 pontos ou mais, somando disfunções respiratória, cardiovascular, de coagulação e neurológica. Choque séptico é sepse com pelo menos 1 ponto cardiovascular: hipotensão grave para a idade, lactato elevado ou necessidade de droga vasoativa. A cultura positiva não é exigida, e SIRS mais infecção virou distrator de prova.",
+"porAlt": [
+"SIRS mais infecção era a definição de 2005, substituída pelos critérios de Phoenix.",
+"Correta: sepse pediátrica é infecção suspeita ou confirmada com Phoenix de 2 pontos ou mais.",
+"A infecção não precisa estar confirmada, e um ponto cardiovascular define choque, não sepse.",
+"Lactato e febre não definem sepse em Phoenix, que soma disfunções de quatro sistemas."
+]
+},
+{
+"q": "Criança de 3 anos e 14 kg em choque séptico na UTI pediátrica recebeu três bólus de 20 mL/kg de cristaloide na primeira hora, com reavaliação após cada um, sem estertores nem hepatomegalia. Persiste com enchimento capilar de 4 segundos e extremidades frias. Ainda não há acesso central. Qual é o próximo passo?",
+"alts": [
+"Iniciar dopamina, a droga de primeira escolha no choque pediátrico",
+"Repetir bólus de 20 mL/kg até completar 100 mL/kg na primeira hora",
+"Administrar albumina a 5% como fluido de resgate antes da droga",
+"Iniciar adrenalina ou noradrenalina, inclusive por via periférica"
+],
+"gab": 3,
+"tema": "uti",
+"sub": "Sepse e choque",
+"cenario": "uti",
+"comp": "cuid",
+"nivel": "tit",
+"base": "Surviving Sepsis Campaign pediátrica 2020 (choque séptico na criança)",
+"coment": "Onde há terapia intensiva disponível, a Surviving Sepsis Campaign pediátrica de 2020 orienta até 40 a 60 mL/kg de cristaloide na primeira hora, em bólus de 10 a 20 mL/kg, reavaliando após cada um e parando ao primeiro sinal de sobrecarga. Se o choque persiste após 40 a 60 mL/kg, inicia-se droga vasoativa: adrenalina ou noradrenalina, preferidas à dopamina. Sem acesso central, a infusão pode começar por veia periférica ou intraóssea, sem esperar o cateter. Cristaloide balanceado é preferido, e albumina não é fluido inicial. A enfermagem prepara a droga em bomba, monitoriza perfusão e diurese e vigia o sítio periférico.",
+"porAlt": [
+"Dopamina como primeira escolha está superada desde 2020; preferem-se adrenalina ou noradrenalina.",
+"O teto é de 40 a 60 mL/kg na primeira hora; insistir em volume leva à sobrecarga.",
+"Albumina não é recomendada como fluido inicial nem substitui a droga vasoativa.",
+"Correta: choque persistente após 60 mL/kg pede adrenalina ou noradrenalina, mesmo por via periférica."
+]
+},
+{
+"q": "Na UTI pediátrica, menino de 4 anos com sepse de foco abdominal tem frequência cardíaca de 160 bpm, enchimento capilar de 4 segundos, sonolência e pressão sistólica de 74 mmHg. A enfermeira avalia a gravidade pelos limites de hipotensão do suporte avançado de vida pediátrico. Como o quadro deve ser classificado?",
+"alts": [
+"Choque compensado, pois a sistólica está acima de 70 mmHg",
+"Criança estável, pois a sistólica normal exclui o choque",
+"Choque descompensado, com sistólica abaixo de 78 mmHg",
+"Insuficiência respiratória, pela taquicardia e sonolência"
+],
+"gab": 2,
+"tema": "uti",
+"sub": "Sepse e choque",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "tit",
+"base": "Diretrizes AHA 2025 de RCP e ACE, suporte avançado de vida pediátrico (PALS)",
+"coment": "Pelos limites usados no PALS, hipotensão é sistólica abaixo de 60 mmHg no recém-nascido a termo, abaixo de 70 mmHg no lactente, abaixo de 70 + (2 × idade em anos) de 1 a 10 anos e abaixo de 90 mmHg acima de 10 anos. Aos 4 anos, o limite é 70 + 8 = 78 mmHg; com 74 mmHg, a criança está hipotensa. Taquicardia, enchimento capilar lento e sonolência (circulação e aparência alteradas) com hipotensão configuram choque descompensado. A pressão é o último sinal a cair na criança, que a sustenta com taquicardia e vasoconstrição, e por isso hipotensão já indica gravidade. A conduta inclui comunicação imediata e preparo para volume e droga vasoativa.",
+"porAlt": [
+"O limite de 70 mmHg é do lactente; aos 4 anos é 78 mmHg, e 74 mmHg já é hipotensão.",
+"A sistólica de 74 mmHg está abaixo do limite para a idade, e há sinais de má perfusão.",
+"Correta: aos 4 anos o limite é 78 mmHg; hipotensão com má perfusão é choque descompensado.",
+"Não há descrição de trabalho respiratório aumentado; os achados são de circulação e aparência."
+]
+},
+{
+"q": "Mulher de 57 anos, no segundo dia de choque séptico, com noradrenalina em dose baixa e estável, intubada, recebe dieta enteral gástrica a 30 mL/h. O residente suspende a dieta porque os ruídos hidroaéreos estão ausentes e o resíduo gástrico foi de 200 mL em 6 horas. Qual conduta é coerente com as diretrizes?",
+"alts": [
+"Suspender a dieta até o retorno dos ruídos hidroaéreos à ausculta",
+"Trocar para nutrição parenteral, pois o intestino não responde",
+"Manter o jejum até a retirada completa da noradrenalina em curso",
+"Reduzir a dieta a 10 mL/h e suspender se o resíduo passar de 100 mL",
+"Manter a dieta, pois ruídos ausentes e esse resíduo não justificam jejum"
+],
+"gab": 4,
+"tema": "uti",
+"sub": "Sepse e choque",
+"cenario": "uti",
+"comp": "cuid",
+"nivel": "r3",
+"base": "ESPEN 2023, guideline on clinical nutrition in the ICU; Surviving Sepsis Campaign 2026",
+"coment": "A ESPEN (2023) recomenda nutrição enteral precoce, em até 48 horas, preferida à parenteral, e adia a dieta só em situações como choque não controlado, hipoxemia ou acidose graves não controladas, sangramento digestivo alto ativo, isquemia intestinal e resíduo gástrico acima de 500 mL em 6 horas. Na sepse, a Surviving Sepsis Campaign 2026 sugere iniciar a enteral em até 72 horas. Ausência de ruídos hidroaéreos não justifica jejum, assim como prona e bloqueio neuromuscular. Choque controlado com noradrenalina em dose baixa e estável não impede a dieta. A enfermagem mantém cabeceira elevada, confere a posição da sonda e registra cada pausa.",
+"porAlt": [
+"A ESPEN não condiciona a dieta à presença de ruídos hidroaéreos.",
+"Parenteral precoce não é preferida; o trato digestivo funcionante deve ser usado.",
+"Choque controlado com dose baixa e estável de vasopressor não exige jejum.",
+"O corte de resíduo para adiar a dieta na ESPEN é acima de 500 mL em 6 horas.",
+"Correta: ruídos ausentes e resíduo de 200 mL não estão entre os motivos para suspender."
+]
+},
+{
+"q": "Na UTI, paciente com cateter venoso central na jugular interna tem cobertura transparente semipermeável trocada há 4 dias. A cobertura está limpa, seca e aderida, e o sítio não mostra hiperemia nem secreção à inspeção e palpação. Segundo a ANVISA, qual é a conduta em relação à cobertura?",
+"alts": [
+"Trocar hoje, pois a transparente deve ser trocada a cada 72 horas",
+"Trocar por gaze e fita, de troca diária, para inspecionar o sítio",
+"Manter e trocar no 7º dia, ou antes se ficar suja, solta ou úmida",
+"Trocar a cobertura e o cateter, que completam 4 dias de uso",
+"Manter até a retirada do cateter enquanto continuar limpa e aderida"
+],
+"gab": 2,
+"tema": "uti",
+"sub": "Prevenção de pneumonia e infecção de cateter",
+"cenario": "uti",
+"comp": "tec",
+"nivel": "r1",
+"base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2ª ed., 2017",
+"coment": "Pelo caderno da ANVISA (2017), a cobertura do cateter venoso central com gaze e fita adesiva estéril é trocada a cada 48 horas, e a cobertura transparente semipermeável, a cada 7 dias; qualquer uma é trocada imediatamente se estiver suja, solta ou úmida. O sítio é avaliado no mínimo uma vez ao dia, por inspeção e palpação sobre o curativo. Trocas antes do prazo sem motivo aumentam a manipulação e o risco de contaminação. O cateter central não é trocado por tempo de permanência: é removido quando deixa de ser necessário, o que a equipe revisa todos os dias.",
+"porAlt": [
+"O prazo da transparente é de 7 dias, e não de 72 horas, se ela estiver íntegra.",
+"A gaze com fita é trocada a cada 48 horas, e trocar sem motivo aumenta a manipulação.",
+"Correta: transparente íntegra se troca a cada 7 dias, ou antes se suja, solta ou úmida.",
+"O cateter central não é trocado por tempo de permanência, só quando deixa de ser necessário.",
+"A transparente tem prazo máximo de 7 dias, mesmo íntegra; não se mantém até a retirada."
+]
+},
+{
+"q": "Antes de administrar um antibiótico intermitente por cateter venoso central, a técnica de enfermagem pergunta à enfermeira como preparar o conector sem agulha da via. O paciente está no quinto dia de cateter, sem sinais de infecção. Segundo a ANVISA (2017), qual é a orientação correta?",
+"alts": [
+"Friccionar o conector com álcool por 5 a 15 segundos antes de cada acesso",
+"Passar algodão com álcool no conector uma vez a cada turno de trabalho",
+"Trocar o conector antes de cada administração intermitente de medicamento",
+"Lavar o conector com água estéril e conectar sem outra desinfecção",
+"Aplicar PVPI tópico no conector e esperar secar por 2 minutos antes"
+],
+"gab": 0,
+"tema": "uti",
+"sub": "Prevenção de pneumonia e infecção de cateter",
+"cenario": "uti",
+"comp": "tec",
+"nivel": "r1",
+"base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2ª ed., 2017",
+"coment": "O caderno da ANVISA (2017) recomenda desinfetar conexões, conectores sem agulha e portas de acesso com álcool, por fricção de 5 a 15 segundos, antes de cada acesso ao sistema. A fricção é mecânica: remove o biofilme da superfície, e por isso o simples contato do algodão não basta. A desinfecção por turno deixa os acessos intermediários sem preparo, e trocar o conector a cada dose aumenta a manipulação. O flush e o lock usam cloreto de sódio 0,9% sem conservante, nunca água estéril, e não se força a injeção contra resistência. Essas medidas de manutenção são quase todas de execução da enfermagem.",
+"porAlt": [
+"Correta: fricção com álcool por 5 a 15 segundos antes de cada acesso ao conector.",
+"A desinfecção é exigida a cada acesso, não uma vez por turno.",
+"Trocar o conector a cada dose aumenta a manipulação sem benefício.",
+"Água estéril não é usada no cateter, e lavar não substitui a desinfecção com fricção.",
+"O caderno indica fricção com álcool, e não PVPI tópico, para a desinfecção dos conectores."
+]
+},
+{
+"q": "Homem de 50 anos teve cateter venoso central femoral inserido na sala de emergência, durante reanimação, sem barreira máxima de precaução. Chega à UTI estável, com noradrenalina em dose baixa, e o cateter funciona bem. Pela ANVISA (2017), qual conduta a enfermeira deve propor à equipe quanto a esse cateter?",
+"alts": [
+"Manter o cateter até completar 7 dias, prazo de troca programada",
+"Trocar o cateter de sítio assim que possível, em até 48 horas",
+"Trocar o cateter no mesmo sítio femoral por fio-guia em 24 horas",
+"Manter o cateter, porque a inserção na emergência dispensa troca"
+],
+"gab": 1,
+"tema": "uti",
+"sub": "Prevenção de pneumonia e infecção de cateter",
+"cenario": "uti",
+"comp": "norma",
+"nivel": "tit",
+"base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2ª ed., 2017",
+"coment": "O caderno da ANVISA (2017) orienta que o cateter inserido em situação de emergência ou sem garantia de barreira máxima seja trocado, em outro sítio, assim que possível, em até 48 horas. Além disso, a veia femoral não deve ser puncionada de rotina, pelo maior risco de infecção. Fora dessas situações, o cateter central não tem troca programada por tempo: é removido quando deixa de ser necessário. A troca por fio-guia mantém o mesmo trajeto e não resolve o problema de uma inserção sem técnica asséptica completa. A enfermeira, que participa do checklist de inserção, leva a pendência à equipe e registra.",
+"porAlt": [
+"Cateter central não tem troca programada por tempo, e este exige troca precoce por outro motivo.",
+"Correta: inserção sem barreira máxima pede troca de sítio assim que possível, em até 48 horas.",
+"O fio-guia mantém o trajeto da inserção sem técnica asséptica completa e o sítio femoral.",
+"A inserção na emergência é justamente o motivo para trocar o cateter, e não para mantê-lo."
+]
+},
+{
+"q": "A enfermeira organiza as trocas de equipos dos pacientes da UTI conforme o caderno da ANVISA de 2017. Um paciente recebe soro em infusão contínua, antibiótico intermitente, nutrição parenteral e emulsão lipídica isolada. Qual conjunto de prazos está correto para esses equipos?",
+"alts": [
+"Contínua a cada 24 h; intermitente a cada 96 h; parenteral a cada 72 h",
+"Contínua a cada 72 h; intermitente a cada 12 h; lipídio a cada 24 h",
+"Todos os equipos a cada 96 h, inclusive os de parenteral e de lipídio",
+"Contínua até 96 h; intermitente a cada 24 h; parenteral a cada bolsa",
+"Contínua a cada 48 h; intermitente a cada 24 h; lipídio a cada 72 h"
+],
+"gab": 3,
+"tema": "uti",
+"sub": "Prevenção de pneumonia e infecção de cateter",
+"cenario": "uti",
+"comp": "norma",
+"nivel": "r2",
+"base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2ª ed., 2017",
+"coment": "Pelo caderno da ANVISA (2017), o equipo de infusão contínua não deve ser trocado antes de 96 horas (evidência I); o de infusão intermitente, a cada 24 horas; o de nutrição parenteral e o de hemocomponente, a cada bolsa; o de emulsão lipídica isolada, a cada 12 horas; o do propofol, junto com o frasco, a cada 6 a 12 horas; e os de monitorização hemodinâmica e pressão invasiva, a cada 96 horas. Soluções com lipídio favorecem crescimento bacteriano, o que explica os prazos curtos. A enfermeira identifica cada equipo com data e hora de instalação para cumprir os prazos.",
+"porAlt": [
+"Os prazos estão invertidos: a contínua vai até 96 h e a intermitente é trocada a cada 24 h.",
+"A intermitente é trocada a cada 24 h e o lipídio a cada 12 h, não a cada 24 h.",
+"Parenteral e lipídio têm prazos curtos (a cada bolsa e 12 h), não 96 h.",
+"Correta: contínua até 96 h, intermitente a cada 24 h e parenteral a cada bolsa.",
+"A contínua não é trocada antes de 96 h, e o lipídio isolado vence em 12 h."
+]
+},
+{
+"q": "Uma UTI quer implantar o PICC inserido por enfermeiros e, ao mesmo tempo, reduzir as infecções de corrente sanguínea trocando os cateteres centrais de curta permanência por PICC em todos os internados. Pela Resolução COFEN 258/2001 e pelo caderno da ANVISA de 2017, qual avaliação do projeto é correta?",
+"alts": [
+"A inserção é privativa do médico, e o enfermeiro só faz a manutenção",
+"O enfermeiro pode inserir, e o PICC é a escolha para reduzir infecção",
+"A inserção exige radiologista, e a ponta dispensa confirmação antes do uso",
+"O enfermeiro pode inserir sem capacitação, desde que haja ultrassom",
+"O enfermeiro capacitado pode inserir, mas o PICC não reduz infecção"
+],
+"gab": 4,
+"tema": "uti",
+"sub": "Prevenção de pneumonia e infecção de cateter",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r3",
+"base": "Resolução COFEN 258/2001; ANVISA, Caderno 4, 2ª ed., 2017",
+"coment": "A Resolução COFEN 258/2001 declara lícita ao enfermeiro a inserção do cateter central de inserção periférica, desde que ele tenha se submetido a qualificação ou capacitação profissional. Pelo caderno da ANVISA (2017), a inserção ideal é por microintrodução guiada por ultrassom, nas veias basílica, cefálica ou braquial, e os cuidados são os mesmos do cateter central de curta permanência. O mesmo caderno recomenda não usar o PICC como estratégia para reduzir infecção no paciente internado (evidência I). A ponta é confirmada antes do primeiro uso, e o registro traz veia, calibre e comprimentos inserido e externo, conferidos a cada curativo.",
+"porAlt": [
+"A Res. COFEN 258/2001 permite ao enfermeiro qualificado inserir o PICC.",
+"A ANVISA recomenda não usar o PICC como estratégia para reduzir infecção no internado.",
+"A inserção não exige radiologista, e a posição da ponta é confirmada antes do uso.",
+"A resolução condiciona a inserção à qualificação ou capacitação do enfermeiro.",
+"Correta: o enfermeiro capacitado pode inserir, mas o PICC não reduz infecção no internado."
+]
+},
+{
+"q": "A comissão de controle de infecção de uma UTI montou o pacote de prevenção de pneumonia associada à ventilação mecânica citando o caderno da ANVISA de 2017. A enfermeira é encarregada da auditoria diária do pacote. Quais são as quatro medidas que, nesse caderno, compõem o pacote derivado do Institute for Healthcare Improvement?",
+"alts": [
+"Cabeceira a 30 a 45°, sedação revista com teste diário, aspiração subglótica e antisséptico oral",
+"Cabeceira a 30 a 45°, troca semanal do circuito, sistema fechado e profilaxia gástrica",
+"Cabeceira a 15°, sedação contínua, aspiração traqueal a cada 2 horas e clorexidina oral",
+"Cabeceira a 30 a 45°, profilaxia de trombose, sonda pós-pilórica e escovação sem clorexidina"
+],
+"gab": 0,
+"tema": "uti",
+"sub": "Prevenção de pneumonia e infecção de cateter",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "tit",
+"base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2ª ed., 2017",
+"coment": "No caderno da ANVISA (2017), as quatro primeiras medidas de prevenção da pneumonia associada à ventilação formam o pacote do Institute for Healthcare Improvement: decúbito elevado a 30 a 45°, adequação diária da sedação com avaliação do teste de respiração espontânea, aspiração da secreção subglótica em quem vai ficar mais de 48 a 72 horas ventilado e higiene oral com antisséptico (clorexidina 0,12%). O circuito é trocado só se sujo ou com mau funcionamento, e o sistema fechado não muda a incidência de pneumonia. Profilaxia de úlcera de estresse e de trombose não previne a pneumonia. O compêndio SHEA 2022 trocou a clorexidina oral por escovação dentária.",
+"porAlt": [
+"Correta: cabeceira elevada, sedação revista com teste diário, aspiração subglótica e higiene oral com antisséptico.",
+"O circuito não tem troca programada, o sistema fechado não reduz pneumonia e a profilaxia gástrica não previne.",
+"Cabeceira a 15°, sedação sem pausa e aspiração por horário contrariam o caderno.",
+"Profilaxia de trombose e sonda pós-pilórica não integram o pacote, e a escovação sem clorexidina é da SHEA 2022."
+]
+},
+{
+"q": "Homem de 33 anos com traumatismo cranioencefálico, em ventilação espontânea na UTI, abre os olhos só à pressão, fala palavras inapropriadas e localiza o estímulo doloroso. A pupila esquerda tem 6 mm e não reage à luz; a direita é reativa. Qual é a pontuação do Glasgow com resposta pupilar (GCS-P)?",
+"alts": [
+"11, somando 1 ponto pela pupila reativa",
+"10, pois as pupilas não alteram o escore",
+"8, subtraindo 2 pontos pela anisocoria franca",
+"9, subtraindo 1 ponto pela pupila arreativa"
+],
+"gab": 3,
+"tema": "uti",
+"sub": "Paciente neurocrítico",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "tit",
+"base": "Brennan, Murray e Teasdale, GCS-Pupils score, J Neurosurg 2018",
+"coment": "O Glasgow do paciente é: abertura ocular à pressão, 2; resposta verbal com palavras inapropriadas, 3; resposta motora localizando o estímulo, 5; total 10. O Glasgow com resposta pupilar (GCS-P), de Brennan, Murray e Teasdale (2018), subtrai do Glasgow o número de pupilas que não reagem à luz: 0, 1 ou 2. Com uma pupila arreativa, o GCS-P é 10 menos 1 = 9. A escala vai de 1 a 15 e separa melhor os pacientes graves no fundo da escala. Anisocoria nova com midríase arreativa é piora neurológica crítica, comunicada de imediato, e o exame pupilar seriado entra na prescrição de enfermagem.",
+"porAlt": [
+"A pupila reativa não soma pontos; o GCS-P só subtrai pupilas arreativas.",
+"O GCS-P existe justamente para incorporar a reatividade pupilar ao escore.",
+"Subtraem-se 2 pontos só quando as duas pupilas não reagem; aqui é uma.",
+"Correta: Glasgow 10 menos 1 pupila arreativa resulta em GCS-P de 9."
+]
+},
+{
+"q": "Mulher de 41 anos com traumatismo cranioencefálico grave e cateter de pressão intracraniana, na UTI, apresenta PAM de 78 mmHg, PIC de 24 mmHg, temperatura de 38,4 °C e SpO2 de 93%, com cabeceira a 30° e cabeça alinhada. Pelo consenso SIBICC e pela Brain Trauma Foundation, qual leitura está correta?",
+"alts": [
+"PPC de 102 mmHg, adequada; manter os cuidados de enfermagem atuais",
+"PPC de 54 mmHg, abaixo de 60; comunicar e tratar febre e hipoxemia",
+"PPC de 54 mmHg, adequada, pois a meta do consenso é acima de 50 mmHg",
+"PIC de 24 mmHg está no alvo, que é ficar abaixo de 25 mmHg",
+"PPC de 78 mmHg, pois a PIC não entra no cálculo da perfusão"
+],
+"gab": 1,
+"tema": "uti",
+"sub": "Paciente neurocrítico",
+"cenario": "uti",
+"comp": "calc",
+"nivel": "r3",
+"base": "Consenso SIBICC 2019 (Hawryluk et al.); Brain Trauma Foundation, 4ª edição, 2017",
+"coment": "A pressão de perfusão cerebral é a PAM menos a PIC: 78 menos 24 = 54 mmHg. O consenso SIBICC (2019) define a base do cuidado de todo traumatismo craniano grave monitorizado: cabeceira a 30 a 45°, cabeça alinhada sem compressão das jugulares, temperatura abaixo de 38 °C, SpO2 de pelo menos 94% e perfusão cerebral de pelo menos 60 mmHg, evitando hiponatremia. A Brain Trauma Foundation (4ª edição) manda tratar PIC acima de 22 mmHg. Aqui há perfusão baixa, PIC acima do limiar, febre e saturação abaixo da meta: a enfermeira comunica de imediato e aplica as medidas prescritas.",
+"porAlt": [
+"A PPC é PAM menos PIC, e não a soma; o valor correto é 54 mmHg.",
+"Correta: 78 menos 24 dá PPC de 54 mmHg, abaixo dos 60 mmHg do SIBICC.",
+"A meta do SIBICC é perfusão cerebral de pelo menos 60 mmHg, e não 50.",
+"A Brain Trauma Foundation manda tratar PIC acima de 22 mmHg.",
+"A perfusão cerebral depende da PIC: PPC é PAM menos PIC."
+]
+},
+{
+"q": "Homem de 58 anos com hematoma intraparenquimatoso, sem sedação, tinha Glasgow 12 (O3V4M5) às 14 h. Às 16 h, a enfermeira encontra O3V4M4, pupila direita maior que a esquerda (achado novo), PA de 186/98 mmHg, FC de 54 bpm e respiração irregular. Qual é a conduta?",
+"alts": [
+"Registrar a queda de um ponto e reavaliar no horário de 2 horas",
+"Dar o anti-hipertensivo prescrito se necessário, antes de avisar",
+"Comunicar o médico de imediato: piora neurológica crítica com Cushing",
+"Abaixar a cabeceira a 0° para melhorar a perfusão cerebral e reavaliar",
+"Aguardar a tomografia do dia seguinte, pois o Glasgow segue acima de 8"
+],
+"gab": 2,
+"tema": "uti",
+"sub": "Paciente neurocrítico",
+"cenario": "uti",
+"comp": "aval",
+"nivel": "r2",
+"base": "Consenso SIBICC 2019 (piora neurológica crítica)",
+"coment": "O SIBICC (2019) chama de piora neurológica crítica a queda espontânea de 1 ponto ou mais no componente motor do Glasgow, a redução nova da reatividade pupilar, a anisocoria nova ou midríase bilateral, o déficit focal novo e a tríade de Cushing (hipertensão, bradicardia, respiração irregular). Aqui há queda do motor de 5 para 4, anisocoria nova e Cushing, sinais de hipertensão intracraniana com risco de herniação. A conduta é comunicar o médico imediatamente, manter cabeceira elevada e via aérea, e preparar para imagem de urgência e medidas prescritas. Baixar a pressão por conta própria pode reduzir a perfusão cerebral.",
+"porAlt": [
+"Queda de 1 ponto no motor com anisocoria nova exige comunicação imediata, não reavaliação programada.",
+"A hipertensão aqui é resposta de Cushing; baixá-la sem avaliação reduz a perfusão cerebral.",
+"Correta: queda motora, anisocoria nova e Cushing são piora crítica a comunicar de imediato.",
+"Cabeceira a 0° piora a drenagem venosa e eleva a PIC; o padrão é 30 a 45°.",
+"Glasgow acima de 8 não afasta herniação; a piora pede avaliação e imagem de urgência."
+]
+},
+{
+"q": "Homem de 40 anos com AVC hemorrágico extenso está em coma não perceptivo, sem reflexos de tronco e em apneia. A equipe vai abrir o protocolo de morte encefálica. No momento, a temperatura é de 34,8 °C, a SpO2 de 96% e a PAM de 70 mmHg, sem sedativos há 48 horas e internado há 30 horas. Qual a conduta de enfermagem?",
+"alts": [
+"Aquecer o paciente acima de 35 °C antes de iniciar os exames clínicos",
+"Iniciar os exames, pois a temperatura acima de 32 °C já é suficiente",
+"Elevar a PAM acima de 90 mmHg, que é requisito do adulto no protocolo",
+"Aguardar 24 horas de observação, exigidas em toda lesão hemorrágica"
+],
+"gab": 0,
+"tema": "uti",
+"sub": "Doação de órgãos e transplante",
+"cenario": "uti",
+"comp": "cuid",
+"nivel": "tit",
+"base": "Resolução CFM 2.173/2017 (critérios de morte encefálica)",
+"coment": "A Resolução CFM 2.173/2017 exige, antes dos exames, lesão encefálica de causa conhecida e irreversível; ausência de fatores tratáveis que confundam o quadro, como sedativos, bloqueador neuromuscular e distúrbio metabólico grave; observação hospitalar de no mínimo 6 horas, ou 24 horas na encefalopatia hipóxico-isquêmica; e, no adulto, temperatura corporal acima de 35 °C, SpO2 acima de 94% e sistólica de pelo menos 100 mmHg ou PAM de pelo menos 65 mmHg. Com 34,8 °C, o pré-requisito térmico não está cumprido. Cabe à enfermagem aquecer o paciente com os meios disponíveis, registrar o horário de cada etapa e manter oxigenação e pressão.",
+"porAlt": [
+"Correta: a temperatura precisa estar acima de 35 °C antes dos exames clínicos.",
+"O limite da resolução é temperatura acima de 35 °C; 32 °C não é aceito.",
+"O requisito do adulto é PAM de pelo menos 65 mmHg ou sistólica de 100 mmHg.",
+"As 24 horas valem para a encefalopatia hipóxico-isquêmica; aqui bastam 6 horas, já cumpridas."
+]
+},
+{
+"q": "Na UTI pediátrica, lactente de 18 meses com traumatismo cranioencefálico grave por queda está em coma não perceptivo e apneia, com todos os pré-requisitos do protocolo de morte encefálica cumpridos. O primeiro exame clínico foi concluído às 8 h. Pela Resolução CFM 2.173/2017, a partir de quando pode ser feito o segundo exame clínico?",
+"alts": [
+"A partir das 9 h, intervalo de 1 hora",
+"A partir das 14 h, com intervalo de 6 horas",
+"A partir das 20 h, intervalo de 12 horas",
+"No dia seguinte às 8 h, após 24 horas"
+],
+"gab": 2,
+"tema": "uti",
+"sub": "Doação de órgãos e transplante",
+"cenario": "uti",
+"comp": "norma",
+"nivel": "tit",
+"base": "Resolução CFM 2.173/2017 (intervalo entre exames clínicos por faixa etária)",
+"coment": "A Resolução CFM 2.173/2017 exige dois exames clínicos por médicos diferentes e capacitados, com intervalo mínimo que depende da idade: 24 horas de 7 dias completos a 2 meses incompletos, 12 horas de 2 a 24 meses incompletos e 1 hora a partir de 2 anos. Aos 18 meses, o intervalo é de 12 horas: concluído o primeiro às 8 h, o segundo pode começar às 20 h. Somam-se o teste de apneia e um exame complementar. A enfermagem mantém os pré-requisitos fisiológicos, registra o horário de cada etapa e informa a família, e a notificação à central de transplantes é obrigatória.",
+"porAlt": [
+"O intervalo de 1 hora vale a partir dos 2 anos de idade.",
+"A resolução não prevê intervalo de 6 horas; 6 horas é a observação hospitalar mínima.",
+"Correta: de 2 a 24 meses incompletos, o intervalo mínimo é de 12 horas.",
+"Vinte e quatro horas é o intervalo de 7 dias a 2 meses incompletos."
+]
+},
+{
+"q": "Mulher de 35 anos teve morte encefálica confirmada com o exame complementar concluído às 15h40, depois do segundo exame clínico, feito às 13 h. A família ainda não decidiu sobre a doação de órgãos. Qual conduta de enfermagem está de acordo com as normas vigentes?",
+"alts": [
+"Registrar o óbito às 13 h e aguardar a decisão da família para notificar",
+"Registrar o óbito às 15h40 e notificar a central só se houver doação",
+"Registrar o óbito na hora do desligamento do ventilador, como manda a lei",
+"Pedir a autorização de um amigo próximo presente, com uma testemunha",
+"Registrar o óbito às 15h40 e garantir a notificação à central de transplantes"
+],
+"gab": 4,
+"tema": "uti",
+"sub": "Doação de órgãos e transplante",
+"cenario": "uti",
+"comp": "norma",
+"nivel": "r2",
+"base": "Resolução CFM 2.173/2017; Lei 9.434/1997, arts. 4º e 13",
+"coment": "Pela Resolução CFM 2.173/2017, a hora do óbito é a da conclusão do último procedimento do protocolo, aqui o exame complementar às 15h40. A Lei 9.434/1997, art. 13, torna obrigatória a notificação do diagnóstico de morte encefálica à central de transplantes, haja ou não doação; a decisão da família vem depois. A doação post mortem depende da autorização do cônjuge ou de parente maior de idade, em linha reta ou colateral até o segundo grau, firmada em documento com duas testemunhas (art. 4º). A enfermagem registra os horários de cada etapa, acolhe a família e mantém o suporte do potencial doador.",
+"porAlt": [
+"A hora do óbito é a do último procedimento, e a notificação não depende da família.",
+"A notificação à central é obrigatória em toda morte encefálica, com ou sem doação.",
+"O óbito ocorre na conclusão do protocolo, não no desligamento do ventilador.",
+"A lei exige cônjuge ou parente até o 2º grau, com duas testemunhas; amigo não autoriza.",
+"Correta: óbito na conclusão do último procedimento e notificação obrigatória à central."
+]
+},
+{
+"q": "Homem de 62 anos teve morte encefálica confirmada e notificada à central de transplantes, e a família recusou a doação após ser informada em cada etapa. O técnico de enfermagem pergunta se o ventilador será mantido até o coração parar. Qual é a orientação correta da enfermeira?",
+"alts": [
+"O suporte deve ser mantido até a parada cardíaca, por exigência legal",
+"Suspender o suporte é legal e ético, após esclarecer a família",
+"A suspensão do suporte exige autorização judicial no não doador",
+"O suporte só pode ser retirado se a família assinar a doação",
+"A suspensão depende de novo protocolo completo após 24 horas"
+],
+"gab": 1,
+"tema": "uti",
+"sub": "Cuidados de fim de vida",
+"cenario": "uti",
+"comp": "norma",
+"nivel": "r2",
+"base": "Resolução CFM 1.826/2007; Resolução CFM 2.173/2017",
+"coment": "Morte encefálica é morte. A Resolução CFM 1.826/2007 dispõe que, no paciente com morte encefálica que não será doador, é legal e ético suspender os procedimentos de suporte terapêutico, após comunicação e esclarecimento à família. Não há exigência de autorização judicial nem de novo protocolo, e manter o ventilador até a assistolia não tem amparo. A notificação à central de transplantes continua obrigatória pela Lei 9.434/1997, mesmo sem doação. Cabe à enfermagem acolher a família, oferecer tempo e privacidade para a despedida e registrar os horários.",
+"porAlt": [
+"Nenhuma lei exige manter suporte após a morte encefálica no não doador.",
+"Correta: a Res. CFM 1.826/2007 permite suspender o suporte no não doador, com a família esclarecida.",
+"A resolução não exige autorização judicial para suspender o suporte.",
+"A retirada do suporte não depende de a família autorizar a doação.",
+"O protocolo já confirmou a morte; não se repete o diagnóstico para suspender o suporte."
+]
+},
+{
+"q": "Mulher de 76 anos com esclerose lateral amiotrófica avançada é internada na UTI por insuficiência respiratória. Ela havia registrado em prontuário, com seu médico, diretiva antecipada recusando intubação. Agora inconsciente, a filha exige que ela seja intubada. Qual conduta a equipe de enfermagem deve apoiar?",
+"alts": [
+"Intubar, pois a vontade da família prevalece no paciente inconsciente",
+"Intubar e acionar o comitê de bioética para decidir a extubação depois",
+"Exigir o registro em cartório para que a diretiva passe a valer",
+"Respeitar a diretiva, que prevalece sobre o desejo dos familiares",
+"Pedir autorização judicial antes de decidir sobre a via aérea"
+],
+"gab": 3,
+"tema": "uti",
+"sub": "Cuidados de fim de vida",
+"cenario": "uti",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução CFM 1.995/2012; Resolução COFEN 564/2017, art. 42",
+"coment": "A Resolução CFM 1.995/2012 define as diretivas antecipadas como desejos prévia e expressamente manifestados sobre cuidados que o paciente quer ou não receber quando estiver incapaz de se expressar. Elas prevalecem sobre qualquer parecer não médico, inclusive o desejo dos familiares, e o registro em prontuário basta, sem exigência de cartório. O Código de Ética dos Profissionais de Enfermagem (Res. COFEN 564/2017, art. 42) manda respeitar as diretivas antecipadas. A equipe mantém os cuidados de conforto, como opioide para a dispneia, e acolhe a filha. O comitê de bioética é acionado quando não há diretiva, representante ou consenso.",
+"porAlt": [
+"A diretiva válida prevalece sobre o desejo dos familiares, mesmo com a paciente inconsciente.",
+"Intubar contra a diretiva viola a vontade registrada; o comitê é para quando não há diretiva.",
+"O registro em prontuário basta; a resolução não exige cartório.",
+"Correta: a diretiva antecipada prevalece sobre o desejo dos familiares (Res. CFM 1.995/2012).",
+"Não há exigência de autorização judicial para cumprir diretiva antecipada válida."
+]
+},
+{
+"q": "Paciente de 70 anos com câncer de pulmão metastático, nos últimos dias de vida na UTI, tem dispneia e delirium agitado refratários às medidas habituais. A equipe decide, com a família, pela sedação paliativa com midazolam titulado. Um técnico de enfermagem diz que isso é eutanásia. Qual é a distinção correta?",
+"alts": [
+"A sedação paliativa busca aliviar, em dose proporcional ao sintoma",
+"A sedação paliativa é eutanásia passiva, permitida por resolução",
+"A diferença é a via: midazolam subcutâneo não configura eutanásia",
+"A sedação só é lícita se a morte for esperada nas 24 horas seguintes",
+"A distinção depende de a família assinar um termo em cartório"
+],
+"gab": 0,
+"tema": "uti",
+"sub": "Cuidados de fim de vida",
+"cenario": "uti",
+"comp": "norma",
+"nivel": "r2",
+"base": "EAPC 2024, framework on palliative sedation; Resolução COFEN 564/2017, arts. 48 e 74",
+"coment": "A Associação Europeia de Cuidados Paliativos (EAPC, 2024) define sedação paliativa como redução intencional e proporcional da consciência para aliviar sofrimento refratário e intolerável, com confirmação da refratariedade, decisão compartilhada e registro. Ela difere da eutanásia pela intenção (aliviar o sintoma), pela proporcionalidade (dose titulada ao sintoma) e pelo resultado esperado (alívio). O Código de Ética dos Profissionais de Enfermagem (Res. COFEN 564/2017) manda prestar cuidados paliativos ao paciente com doença grave incurável (art. 48) e proíbe promover a antecipação da morte (art. 74). A enfermagem titula pela resposta, mantém o opioide para dispneia e registra.",
+"porAlt": [
+"Correta: a sedação paliativa difere pela intenção de aliviar e pela dose proporcional ao sintoma.",
+"Sedação paliativa não é eutanásia de nenhum tipo; a intenção é aliviar, não abreviar a vida.",
+"A via de administração não define o ato; o que distingue é intenção e proporcionalidade.",
+"A EAPC não fixa prazo de vida para a sedação ser lícita.",
+"Não há exigência de termo em cartório; a decisão é compartilhada e registrada em prontuário."
+]
+},
+{
+"q": "Paciente de 84 anos em processo ativo de morte na UTI, em cuidados de conforto, tem a boca seca. A filha pede soro intravenoso para que ela não sinta sede. A paciente tem edema generalizado e secreção respiratória ruidosa. Qual é a orientação de enfermagem mais adequada?",
+"alts": [
+"Instalar 1 litro de soro por dia, que alivia a sede no fim de vida",
+"Passar sonda nasoenteral para hidratação e dieta de conforto",
+"Suspender os cuidados orais para evitar a aspiração de líquido pela paciente",
+"Instalar hidratação subcutânea contínua de 2 litros nas 24 horas",
+"Cuidar da boca com gaze úmida e saliva artificial, sem soro de rotina"
+],
+"gab": 4,
+"tema": "uti",
+"sub": "Cuidados de fim de vida",
+"cenario": "uti",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Bruera et al., hidratação parenteral em cuidados paliativos, J Clin Oncol 2013; Resolução COFEN 564/2017, art. 48",
+"coment": "No processo ativo de morte, a hidratação artificial não prolonga a vida nem alivia a sede, e piora edema, secreção respiratória e desconforto. No ensaio de Bruera (2013), 1 litro de soro por dia não melhorou sintomas nem sobrevida em comparação com 100 mL por dia. A sensação de boca seca se trata com cuidados da boca: gaze úmida, pequenos pedaços de gelo quando possível, saliva artificial e hidratação dos lábios. A enfermagem explica à filha o porquê da conduta, a convida a participar dos cuidados orais e registra. O Código de Ética (Res. COFEN 564/2017, art. 48) manda prestar cuidados paliativos ao paciente com doença grave incurável.",
+"porAlt": [
+"No ensaio de Bruera, 1 litro por dia não aliviou sintomas e aqui pioraria edema e secreção.",
+"Sonda para hidratação no processo ativo de morte acrescenta desconforto sem benefício.",
+"Os cuidados orais são justamente o tratamento da boca seca e devem continuar.",
+"Dois litros por dia agravariam edema e secreção respiratória sem aliviar a sede.",
+"Correta: a boca seca se trata com cuidados orais; o soro não alivia a sede no fim de vida."
+]
+},
+{
+"q": "Uma UTI adulto tem 10 leitos, ocupação de 100% e todos os pacientes classificados como de cuidados intensivos pelo sistema de classificação de pacientes. A carga horária semanal da equipe de enfermagem é de 36 horas. Pelo Parecer Normativo COFEN 01/2024, com índice de segurança técnica de 15%, qual é o quadro necessário?",
+"alts": [
+"35 profissionais, dos quais 12 enfermeiros",
+"40 profissionais, dos quais 21 enfermeiros",
+"40 profissionais, dos quais 13 enfermeiros",
+"35 profissionais, dos quais 18 enfermeiros",
+"48 profissionais, dos quais 25 enfermeiros"
+],
+"gab": 1,
+"tema": "gestao",
+"sub": "Dimensionamento de pessoal",
+"cenario": "uti",
+"comp": "calc",
+"nivel": "r3",
+"base": "Parecer Normativo COFEN 01/2024 (dimensionamento); Resolução COFEN 743/2024",
+"coment": "O Parecer Normativo COFEN 01/2024, que recebeu os parâmetros da Res. 543/2017 (revogada pela 743/2024), atribui 18 horas de enfermagem por paciente em cuidado intensivo nas 24 horas. Total de horas: 10 × 18 = 180. Quadro = 180 × 7 dias × 1,15 (segurança técnica de 15%) ÷ 36 horas semanais = 40,25, ou 40 profissionais. No cuidado intensivo, 52% são enfermeiros: 40 × 0,52 = 20,8, ou 21 enfermeiros, e os demais 19 técnicos de enfermagem. Sem o índice de segurança, o resultado cairia para 35; com 33% de enfermeiros, proporção do cuidado mínimo e intermediário, faltariam enfermeiros. O enfermeiro registra a classificação diária dos pacientes.",
+"porAlt": [
+"Esqueceu o índice de 15% e usou 33% de enfermeiros, proporção dos cuidados mínimos.",
+"Correta: 180 h × 7 × 1,15 ÷ 36 = 40, e 52% de 40 resulta em 21 enfermeiros.",
+"O total está certo, mas 33% de enfermeiros vale para cuidados mínimos e intermediários.",
+"Os 52% estão certos, mas o total omitiu o índice de segurança técnica de 15%.",
+"Esse total corresponde à carga semanal de 30 horas, e não às 36 horas do enunciado."
+]
+},
+{
+"q": "RN de 37 semanas foi reanimado na sala de parto, intubado, e será levado à UTI neonatal. Aos 12 minutos de vida, está com frequência cardíaca de 88 bpm sob ventilação pela cânula e SpO2 de 86%. A incubadora de transporte está pronta e aquecida. Pelas diretrizes da SBP de 2026, qual é a conduta?",
+"alts": [
+"Transportar já, pois a UTI neonatal tem mais recursos para estabilizar",
+"Transportar já, com oxigênio a 100% e incubadora ajustada para 38 °C",
+"Extubar antes do transporte, pois a FC já está acima de 60 bpm",
+"Não transportar com FC abaixo de 100; corrigir antes a ventilação"
+],
+"gab": 3,
+"tema": "uti",
+"sub": "Ventilação mecânica",
+"cenario": "uti",
+"comp": "cuid",
+"nivel": "tit",
+"base": "Diretrizes 2026 do Programa de Reanimação Neonatal da SBP (transporte e cuidados após a reanimação)",
+"coment": "Pelas diretrizes da SBP de 2026, o RN não é transportado com frequência cardíaca abaixo de 100 bpm. Com FC de 88 sob ventilação pela cânula, a equipe revisa posição e permeabilidade da cânula, pressão e oxigênio da VPP e a possibilidade de pneumotórax antes de sair da sala. O transporte do RN de 34 semanas ou mais é feito em incubadora de dupla parede a 34 a 35 °C, com oximetria, cânula fixada no terço médio da traqueia e balão autoinflável junto. A temperatura não deve passar de 38 °C, que agrava a lesão do asfixiado, e o oxigênio é titulado pela saturação-alvo.",
+"porAlt": [
+"A diretriz proíbe transportar com FC abaixo de 100 bpm, mesmo para uma unidade mais equipada.",
+"Incubadora a 38 °C expõe à hipertermia, e o oxigênio se titula pela saturação-alvo.",
+"FC de 88 bpm ainda exige ventilação; extubar agravaria a bradicardia.",
+"Correta: não se transporta com FC abaixo de 100 bpm, e a ventilação deve ser corrigida antes."
+]
+},
+{
+"q": "RN de 40 semanas, nascido após descolamento de placenta, foi reanimado com VPP e massagem cardíaca e agora tem FC acima de 100 bpm. A equipe da sala de parto quer desligar o berço de calor radiante para começar a hipotermia antes do transporte à UTI neonatal. Pelas diretrizes da SBP de 2026, qual a orientação?",
+"alts": [
+"Desligar o calor radiante, pois resfriar cedo protege o cérebro",
+"Manter a normotermia sem passar de 38 °C; hipotermia, na unidade",
+"Aquecer até 38,5 °C, para repor o calor perdido na reanimação",
+"Começar a hipotermia só após 24 horas, se houver convulsões"
+],
+"gab": 1,
+"tema": "uti",
+"sub": "Paciente neurocrítico",
+"cenario": "cc",
+"comp": "cuid",
+"nivel": "tit",
+"base": "Diretrizes 2026 do Programa de Reanimação Neonatal da SBP (cuidados após a reanimação)",
+"coment": "Pelas diretrizes da SBP de 2026, a hipotermia terapêutica não começa na sala de parto: a indicação é avaliada na unidade neonatal, nas primeiras 6 horas de vida. Até lá, o RN é mantido em normotermia, com temperatura axilar de 36,5 a 37,5 °C e sem passar de 38 °C, porque a hipertermia agrava a lesão do encéfalo asfixiado. Desligar o calor sem protocolo e monitorização expõe a hipotermia não controlada. A enfermagem registra a temperatura, organiza o transporte em incubadora aquecida e informa à UTI neonatal o horário do nascimento, para que a janela de 6 horas seja respeitada.",
+"porAlt": [
+"Resfriamento sem protocolo na sala de parto não é recomendado; a indicação é feita na unidade.",
+"Correta: normotermia até a avaliação na unidade, sem passar de 38 °C, dentro das primeiras 6 horas.",
+"Temperatura acima de 38 °C agrava a lesão do RN asfixiado.",
+"A janela da hipotermia terapêutica são as primeiras 6 horas, não 24 horas."
+]
+},
+{
+"q": "Em hospital privado de médio porte, a diretoria decide nomear uma técnica de enfermagem com 20 anos de casa e pós-graduação em gestão para chefiar a unidade de internação cirúrgica, com três enfermeiros subordinados a ela. Diante da Lei 7.498/1986, como se classifica essa nomeação?",
+"alts": [
+"Permitida, pois a pós-graduação em gestão supre a exigência de formação",
+"Permitida, desde que o enfermeiro responsável técnico supervisione a chefia",
+"Vedada em hospitais públicos, sendo livre a escolha na rede privada de saúde",
+"Vedada, pois a chefia de unidade de enfermagem é privativa do enfermeiro",
+"Permitida por até 90 dias, enquanto a instituição contrata um enfermeiro"
+],
+"gab": 3,
+"tema": "etica",
+"sub": "Lei do exercício profissional e decreto regulamentador",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r1",
+"base": "Lei 7.498/1986, art. 11, I, a; Decreto 94.406/1987, art. 8º, I, a",
+"coment": "O art. 11, I, da Lei 7.498/1986 lista as atividades privativas do enfermeiro, e a alínea a abre a lista: direção do órgão de enfermagem da instituição de saúde, pública ou privada, e chefia de serviço e de unidade de enfermagem. O Decreto 94.406/1987 repete a regra no art. 8º, I, a. Atividade privativa não se transfere por tempo de casa, curso de gestão, supervisão ou prazo provisório, e a lei não distingue rede pública de privada. O técnico exerce atividade de nível médio e participa do planejamento em grau auxiliar (art. 12), sem assumir a chefia de enfermeiros.",
+"porAlt": [
+"Curso de gestão não transforma técnico em enfermeiro nem afasta a reserva legal da chefia.",
+"A supervisão do responsável técnico não autoriza delegar uma atividade privativa do enfermeiro.",
+"A alínea a vale para instituição de saúde pública ou privada, sem distinção.",
+"Correta: chefia de serviço e de unidade de enfermagem é privativa do enfermeiro (art. 11, I, a).",
+"A lei não prevê exercício provisório de atividade privativa por outra categoria."
+]
+},
+{
+"q": "Um edital de residência cita a consulta de enfermagem como atividade privativa prevista no art. 11, I, alínea i, da Lei 7.498/1986. Ao estudar o Decreto 94.406/1987, que regulamenta a lei, a candidata percebe que a numeração muda porque quatro alíneas do art. 11 foram vetadas. Em qual dispositivo do Decreto está a consulta de enfermagem?",
+"alts": [
+"Art. 8º, inciso I, alínea e",
+"Art. 8º, inciso I, alínea i",
+"Art. 8º, inciso II, alínea c",
+"Art. 10, inciso I, alínea e",
+"Art. 4º, inciso I, alínea i"
+],
+"gab": 0,
+"tema": "etica",
+"sub": "Lei do exercício profissional e decreto regulamentador",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Lei 7.498/1986, art. 11, I, i; Decreto 94.406/1987, art. 8º, I, e",
+"coment": "Quatro alíneas do art. 11, I, da Lei 7.498/1986 foram vetadas, o que explica o salto da alínea c para a h no texto da lei. O Decreto 94.406/1987 renumerou a lista sem lacunas, e as privativas do enfermeiro ficaram no art. 8º, I, de a a h. Assim, a consulta de enfermagem é a alínea i na lei e a alínea e no Decreto; a prescrição da assistência de enfermagem é j na lei e f no Decreto. O art. 8º, II, c, do Decreto trata da prescrição de medicamentos em programas e rotinas, o art. 10 é do técnico e o art. 4º define quem é enfermeiro. A resposta certa usa a numeração da norma citada no enunciado.",
+"porAlt": [
+"Correta: no Decreto, a consulta de enfermagem é o art. 8º, I, alínea e.",
+"A alínea i é a numeração da lei; o Decreto renumerou a lista depois dos vetos.",
+"O art. 8º, II, c, do Decreto trata da prescrição de medicamentos em programas.",
+"O art. 10 do Decreto lista as atividades do técnico de enfermagem.",
+"O art. 4º do Decreto define quem é enfermeiro, sem listar as atribuições."
+]
+},
+{
+"q": "Na sala vermelha de uma UPA, um homem de 70 anos em choque séptico recebe noradrenalina. A enfermeira precisa atender outra admissão e propõe que o técnico de enfermagem assuma sozinho o cuidado direto do paciente, por ele ter dez anos de experiência em emergência. Pelo Decreto 94.406/1987, qual é o papel do técnico diante desse paciente?",
+"alts": [
+"Assume o cuidado direto ao grave, desde que registre tudo no prontuário",
+"Assume o cuidado direto ao grave se houver médico presente na sala vermelha",
+"Assiste o enfermeiro no cuidado ao grave, atividade que permanece privativa dele",
+"Não permanece ao lado do paciente grave, cabendo-lhe o transporte e a coleta",
+"Assume o cuidado direto ao grave pelo tempo de experiência comprovada"
+],
+"gab": 2,
+"tema": "etica",
+"sub": "Lei do exercício profissional e decreto regulamentador",
+"cenario": "emg",
+"comp": "norma",
+"nivel": "r2",
+"base": "Decreto 94.406/1987, art. 10; Lei 7.498/1986, art. 11, I, l",
+"coment": "Cuidados diretos de enfermagem a pacientes graves com risco de vida são privativos do enfermeiro (Lei 7.498/1986, art. 11, I, l; Decreto 94.406/1987, art. 8º, I, g). O Decreto, no art. 10, diz que o técnico assiste o enfermeiro na prestação de cuidados diretos ao paciente em estado grave e executa a assistência, excetuadas as atividades privativas. O técnico fica ao lado do paciente, monitora e executa o prescrito, mas o cuidado direto privativo não lhe é transferido por experiência, registro ou presença médica. A enfermeira deve reorganizar a escala ou pedir apoio de outro enfermeiro.",
+"porAlt": [
+"Registrar em prontuário não torna delegável uma atividade privativa do enfermeiro.",
+"A presença do médico não transfere ao técnico o cuidado direto privativo do enfermeiro.",
+"Correta: o técnico assiste o enfermeiro no cuidado ao paciente grave (Decreto, art. 10).",
+"O Decreto põe o técnico ao lado do paciente grave, assistindo o enfermeiro.",
+"Tempo de experiência não altera a reserva legal do art. 11, I, l, da lei."
+]
+},
+{
+"q": "O COREN de um estado prepara a eleição do próximo plenário e definiu que ele terá 15 membros, número compatível com a faixa de 5 a 21 prevista em lei. Na montagem das chapas, surge dúvida sobre a proporção entre as categorias profissionais. Pela Lei 5.905/1973, como deve ser composto esse plenário?",
+"alts": [
+"Metade de enfermeiros e metade de técnicos e auxiliares de enfermagem",
+"Dois terços de enfermeiros e um terço das demais categorias da equipe",
+"Integralmente por enfermeiros, pois o plenário julga as infrações éticas",
+"Em proporção livre, fixada pelo COFEN conforme o número de inscritos",
+"Três quintos de enfermeiros e dois quintos das demais categorias"
+],
+"gab": 4,
+"tema": "etica",
+"sub": "Lei do exercício profissional e decreto regulamentador",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Lei 5.905/1973, arts. 11 e 12",
+"coment": "O art. 11 da Lei 5.905/1973 fixa que os Conselhos Regionais têm de 5 a 21 membros, em número ímpar, sendo três quintos de enfermeiros e dois quintos das demais categorias de enfermagem. Num plenário de 15, isso dá 9 enfermeiros e 6 das demais categorias. A eleição é por voto pessoal, secreto e obrigatório, em chapas separadas (art. 12), e o mandato é honorífico, de 3 anos, com uma reeleição (art. 14). Só enfermeiros compõem o COFEN, com 9 efetivos e 9 suplentes (art. 5º); no regional, as demais categorias têm assento garantido.",
+"porAlt": [
+"A lei não prevê paridade: os enfermeiros ocupam três quintos dos assentos.",
+"Dois terços não é a fração da lei, que fixa três quintos de enfermeiros.",
+"Composição só de enfermeiros é a do COFEN; o regional inclui as demais categorias.",
+"A proporção está fixada no art. 11 da lei, sem margem para o COFEN alterá-la.",
+"Correta: três quintos de enfermeiros e dois quintos das demais categorias (art. 11)."
+]
+},
+{
+"q": "Uma técnica de enfermagem inscrita e em dia com o COREN não votou na eleição do conselho regional porque estava viajando a passeio e não apresentou justificativa. Meses depois, recebe uma cobrança do conselho. Pela Lei 5.905/1973, qual é a consequência prevista para essa ausência?",
+"alts": [
+"Nenhuma, pois o voto nas eleições do COREN é facultativo para técnicos",
+"Multa no valor de uma anuidade, por faltar à eleição sem justa causa",
+"Advertência verbal reservada, registrada no prontuário da profissional",
+"Suspensão da inscrição até que a ausência seja justificada ao COFEN",
+"Multa de dez anuidades, valor máximo previsto para a categoria dela"
+],
+"gab": 1,
+"tema": "etica",
+"sub": "Lei do exercício profissional e decreto regulamentador",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Lei 5.905/1973, art. 12",
+"coment": "Pelo art. 12 da Lei 5.905/1973, a eleição dos membros do COREN se faz por voto pessoal, secreto e obrigatório, em chapas separadas para enfermeiros e para as demais categorias. Quem deixa de votar sem causa justificada paga multa no valor de uma anuidade. Advertência verbal e suspensão são penas éticas do art. 108 do Código de Ética (Res. COFEN 564/2017), aplicadas em processo ético, e o teto de dez anuidades é o da multa ética, não o da falta ao voto.",
+"porAlt": [
+"O art. 12 da Lei 5.905/1973 torna o voto obrigatório para todas as categorias.",
+"Correta: a falta sem justa causa gera multa de uma anuidade (art. 12).",
+"Advertência verbal é pena ética do art. 108, não a sanção prevista para a falta ao voto.",
+"A lei não prevê suspensão da inscrição pela ausência na eleição do regional.",
+"Dez anuidades é o teto da multa ética do Código, não a sanção da falta ao voto."
+]
+},
+{
+"q": "Na aula sobre o Sistema COFEN/COREN, a preceptora pergunta aos residentes como a Lei 5.905/1973 organiza o Conselho Federal: quantos são os conselheiros, quem pode ocupar o cargo, quanto dura o mandato e se ele é remunerado. Qual alternativa descreve corretamente o COFEN?",
+"alts": [
+"Nove efetivos e nove suplentes, enfermeiros, mandato honorífico de três anos",
+"Nove efetivos e nove suplentes, de todas as categorias, mandato de três anos",
+"Vinte e um efetivos, enfermeiros, com mandato remunerado de quatro anos",
+"Cinco efetivos e cinco suplentes, enfermeiros, mandato honorífico de dois anos",
+"Nove efetivos e nove suplentes, enfermeiros, mandato remunerado de três anos"
+],
+"gab": 0,
+"tema": "etica",
+"sub": "Lei do exercício profissional e decreto regulamentador",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Lei 5.905/1973, arts. 5º, 6º e 9º",
+"coment": "O art. 5º da Lei 5.905/1973 compõe o COFEN com 9 membros efetivos e igual número de suplentes, brasileiros e enfermeiros de nível superior. Eles são eleitos pela Assembleia dos Delegados Regionais, em voto secreto (art. 6º), e o mandato é honorífico, de 3 anos, admitida uma reeleição (art. 9º). O COFEN tem jurisdição nacional e a ele se subordinam os regionais (art. 3º). A faixa de 5 a 21 membros e a presença de outras categorias são regras do COREN (art. 11), fonte frequente de confusão nas provas.",
+"porAlt": [
+"Correta: 9 efetivos e 9 suplentes, enfermeiros, com mandato honorífico de 3 anos (arts. 5º e 9º).",
+"Técnicos e auxiliares têm assento no COREN, não no COFEN, composto só de enfermeiros.",
+"O número de 21 é o teto do COREN, e o mandato no COFEN não é remunerado.",
+"A lei fixa 9 efetivos e 9 suplentes, com mandato de três anos, não de dois.",
+"O mandato de conselheiro é honorífico, sem remuneração, pelo art. 9º."
+]
+},
+{
+"q": "Numa unidade básica de saúde, a enfermeira escala uma auxiliar de enfermagem para a sala de vacina, onde ela fará a conservação dos imunobiológicos e a aplicação das doses do calendário, sob supervisão da enfermeira. A gerente da unidade questiona a escala. O que diz o Decreto 94.406/1987 sobre essa atividade?",
+"alts": [
+"É vedada, pois vacinar é atividade privativa do enfermeiro pela lei",
+"É permitida, desde que haja médico responsável presente no turno",
+"É permitida, pois conservar e aplicar vacinas consta do rol do auxiliar",
+"É vedada, pois ao auxiliar cabem higiene, conforto e controle hídrico",
+"É permitida só para vacinas orais, cabendo as injetáveis ao técnico"
+],
+"gab": 2,
+"tema": "etica",
+"sub": "Lei do exercício profissional e decreto regulamentador",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Decreto 94.406/1987, art. 11; Lei 7.498/1986, arts. 13 e 15",
+"coment": "O art. 11 do Decreto 94.406/1987 traz um rol exemplificativo das atividades do auxiliar de enfermagem, que inclui ministrar medicamentos por via oral e parenteral, curativos, coleta de material, testes e sua leitura e a conservação e aplicação de vacinas. O auxiliar exerce atividade de nível médio, de natureza repetitiva, sob supervisão (Lei 7.498/1986, art. 13), e o art. 15 da lei condiciona a atuação de técnicos e auxiliares em instituições de saúde à orientação e supervisão do enfermeiro, como na escala descrita. Vacinar não consta entre as privativas do art. 11, I, e a presença médica não é requisito.",
+"porAlt": [
+"A aplicação de vacinas não está entre as privativas do enfermeiro no art. 11, I, da lei.",
+"O Decreto exige supervisão do enfermeiro, não presença de médico na sala de vacina.",
+"Correta: conservação e aplicação de vacinas constam do art. 11 do Decreto.",
+"O rol do auxiliar inclui medicação parenteral, curativos, coleta e vacinas.",
+"O Decreto inclui a via parenteral entre as atividades do auxiliar, sem essa restrição."
+]
+},
+{
+"q": "Uma maternidade do interior mantém em seu quadro uma parteira, que atua na sala de pré-parto e parto ao lado da equipe de enfermagem. A nova coordenadora quer definir por escrito o que ela pode fazer na instituição. Segundo o Decreto 94.406/1987, qual atuação é compatível com a parteira nesse serviço?",
+"alts": [
+"Realizar episiotomia e episiorrafia com anestesia local, se necessárias",
+"Atuar em domicílio, pois a parteira não pode trabalhar em instituição",
+"Identificar distocias e conduzir o parto distócico até a chegada do médico",
+"Assistir o parto normal sem supervisão, por ser categoria autônoma da lei",
+"Assistir o parto normal na instituição sob supervisão de enfermeiro obstetra"
+],
+"gab": 4,
+"tema": "etica",
+"sub": "Lei do exercício profissional e decreto regulamentador",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r2",
+"base": "Decreto 94.406/1987, arts. 9º e 12; Lei 7.498/1986, art. 11, parágrafo único",
+"coment": "O art. 12 do Decreto 94.406/1987 atribui à parteira o cuidado da gestante e da parturiente, a assistência ao parto normal, inclusive em domicílio, e o cuidado da puérpera e do recém-nascido. Quando atua em instituição de saúde, faz isso sob supervisão de enfermeiro obstetra. A episiotomia e a episiorrafia com anestesia local e a identificação das distocias, com providências até a chegada do médico, são próprias da enfermeira obstétrica e da obstetriz (Lei 7.498/1986, art. 11, parágrafo único; Decreto, art. 9º).",
+"porAlt": [
+"Episiotomia e episiorrafia são próprias da enfermeira obstétrica e da obstetriz (art. 9º).",
+"O art. 12 admite atuação em instituição, sob supervisão de enfermeiro obstetra.",
+"Identificar distocia é da enfermeira obstétrica, que toma providências até a chegada do médico.",
+"Em instituição, a parteira atua sob supervisão de enfermeiro obstetra, sem autonomia.",
+"Correta: em instituição, a parteira assiste o parto normal sob supervisão de enfermeiro obstetra."
+]
+},
+{
+"q": "Um ambulatório privado de curativos e administração de medicamentos funciona com três técnicos de enfermagem e nenhum enfermeiro no quadro. O proprietário, médico, afirma que a situação é regular porque os técnicos apenas cumprem prescrições médicas escritas e ele passa no serviço uma vez por dia. À luz da Lei 7.498/1986, qual é a situação?",
+"alts": [
+"Regular, pois os técnicos executam prescrições médicas por escrito",
+"Regular, porque o médico proprietário assume a supervisão da equipe",
+"Irregular no turno noturno, quando não há médico presente no serviço",
+"Irregular, pois o técnico atua sob orientação e supervisão de enfermeiro",
+"Regular, desde que um dos técnicos tenha especialização em feridas"
+],
+"gab": 3,
+"tema": "etica",
+"sub": "Lei do exercício profissional e decreto regulamentador",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Lei 7.498/1986, arts. 11 e 15; Decreto 94.406/1987, art. 13",
+"coment": "O art. 15 da Lei 7.498/1986 condiciona as atividades de técnicos e auxiliares de enfermagem, quando exercidas em instituições e programas de saúde, à orientação e supervisão de enfermeiro. O Decreto 94.406/1987, art. 13, fala em supervisão, orientação e direção do enfermeiro. Essa supervisão não é suprida pelo médico, pela existência de prescrição escrita ou por especialização do técnico. Além disso, planejar, organizar, coordenar, executar e avaliar os serviços da assistência de enfermagem é privativo do enfermeiro (art. 11, I, c), o que um serviço sem enfermeiro não tem como cumprir.",
+"porAlt": [
+"Cumprir prescrição médica não dispensa a supervisão do enfermeiro exigida pelo art. 15.",
+"A supervisão de técnicos de enfermagem cabe ao enfermeiro, não ao médico.",
+"O art. 15 não distingue turnos, e o ambulatório não tem enfermeiro em horário algum.",
+"Correta: técnico atua em instituição de saúde sob orientação e supervisão de enfermeiro.",
+"Especialização do técnico não substitui a supervisão do enfermeiro prevista em lei."
+]
+},
+{
+"q": "Ao organizar a escala de um hospital de ensino, a gerente de enfermagem lista as atividades que só enfermeiros podem assumir, por serem privativas segundo o art. 11, I, da Lei 7.498/1986. Uma das atividades abaixo, porém, a lei põe no inciso II, entre as que o enfermeiro exerce como integrante da equipe de saúde. Qual atividade NÃO é privativa?",
+"alts": [
+"Consulta de enfermagem na atenção primária à saúde",
+"Prescrição da assistência de enfermagem ao paciente",
+"Execução de parto sem distocia na maternidade",
+"Cuidado direto a paciente grave com risco de vida",
+"Auditoria e parecer sobre matéria de enfermagem"
+],
+"gab": 2,
+"tema": "etica",
+"sub": "Lei do exercício profissional e decreto regulamentador",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r2",
+"base": "Lei 7.498/1986, art. 11, I e II",
+"coment": "O art. 11 da Lei 7.498/1986 separa as atividades privativas do enfermeiro (inciso I) das que ele exerce como integrante da equipe de saúde (inciso II). Entre as privativas estão consulta de enfermagem (alínea i), prescrição da assistência de enfermagem (j), cuidados diretos a pacientes graves com risco de vida (l) e consultoria, auditoria e emissão de parecer (h). A execução do parto sem distocia está no inciso II, ao lado da assistência à gestante, parturiente e puérpera e do acompanhamento do trabalho de parto, e vale para qualquer enfermeiro. Próprio da enfermeira obstétrica e da obstetriz é o que consta do parágrafo único do art. 11.",
+"porAlt": [
+"A consulta de enfermagem é privativa do enfermeiro (art. 11, I, i).",
+"A prescrição da assistência de enfermagem é privativa (art. 11, I, j).",
+"Correta: o parto sem distocia está no inciso II, como integrante da equipe.",
+"O cuidado direto a paciente grave com risco de vida é privativo (art. 11, I, l).",
+"Consultoria, auditoria e parecer são privativos do enfermeiro (art. 11, I, h)."
+]
+},
+{
+"q": "Numa enfermaria de clínica médica, a equipe de enfermagem registra há semanas a falta de luvas e máscaras e duas agressões físicas de acompanhantes, sem resposta da direção. Os profissionais discutem suspender as atividades até que as condições de segurança sejam corrigidas. Segundo o Código de Ética, o que lhes é assegurado?",
+"alts": [
+"Suspender as atividades, ressalvadas urgência e emergência, comunicando por escrito à instituição e ao COREN",
+"Suspender todas as atividades, inclusive as urgências, avisando verbalmente a chefia imediata do setor",
+"Manter todas as atividades, pois a suspensão depende de ordem judicial expressa da Justiça do Trabalho",
+"Suspender as atividades após autorização prévia do COFEN, ouvida a Comissão de Ética da instituição",
+"Manter as atividades e denunciar o caso ao Ministério Público do Trabalho no prazo de 30 dias úteis"
+],
+"gab": 0,
+"tema": "etica",
+"sub": "Código de Ética dos Profissionais de Enfermagem",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r2",
+"base": "Res. COFEN 564/2017 (Código de Ética), arts. 2º e 13",
+"coment": "O Código de Ética dos Profissionais de Enfermagem assegura como direito exercer a profissão em local de trabalho livre de riscos e violência (art. 2º) e suspender as atividades quando o local não oferecer condições seguras, ressalvadas as situações de urgência e emergência (art. 13). A suspensão deve ser comunicada por escrito à instituição e ao Conselho Regional de Enfermagem. O direito não depende de autorização do COFEN nem de ordem judicial, e as urgências e emergências não podem ficar desassistidas.",
+"porAlt": [
+"Correta: suspensão permitida, salvo urgência e emergência, com comunicação escrita à instituição e ao COREN (art. 13).",
+"As urgências e emergências ficam fora da suspensão, e a comunicação deve ser escrita, à instituição e ao COREN.",
+"O art. 13 assegura a suspensão como direito do profissional, sem exigir ordem judicial.",
+"O Código não exige autorização prévia do COFEN para o exercício do direito do art. 13.",
+"O Código prevê o direito de suspender as atividades, e não apenas o de denunciar a situação."
+]
+},
+{
+"q": "Durante reunião com as chefias, transmitida pela internet, o diretor administrativo de um hospital afirma que a enfermeira coordenadora da UTI é incompetente e que a enfermagem do setor só atrapalha. A enfermeira se sente ofendida no exercício profissional. Entre os direitos previstos no Código de Ética, qual medida ela pode adotar?",
+"alts": [
+"Exigir do COFEN a cassação imediata do registro profissional do diretor",
+"Requerer ao COREN as medidas cabíveis para obter desagravo público",
+"Suspender suas atividades na UTI até que o diretor seja afastado do cargo",
+"Solicitar à Comissão de Ética de Enfermagem o julgamento do diretor",
+"Aplicar ao diretor advertência verbal reservada, diante de testemunhas"
+],
+"gab": 1,
+"tema": "etica",
+"sub": "Código de Ética dos Profissionais de Enfermagem",
+"cenario": "uti",
+"comp": "norma",
+"nivel": "r2",
+"base": "Res. COFEN 564/2017 (Código de Ética), art. 8º; Res. COFEN 792/2025",
+"coment": "Entre os direitos do Código de Ética dos Profissionais de Enfermagem está requerer ao Conselho Regional de Enfermagem medidas cabíveis para obtenção de desagravo público em decorrência de ofensa sofrida no exercício profissional (art. 8º). O sistema COFEN/COREN disciplina os profissionais de enfermagem nele inscritos, e cassação só resulta de processo ético. A Comissão de Ética de Enfermagem não julga: averigua e envia relatório ao COREN (Res. COFEN 792/2025). Penas como a advertência são aplicadas pelo conselho, nunca pela ofendida, e suspender a assistência na UTI deixaria pacientes graves sem cuidado.",
+"porAlt": [
+"O sistema COFEN/COREN pune só profissionais de enfermagem, e cassação exige processo ético.",
+"Correta: é direito requerer ao COREN medidas para obter desagravo público (art. 8º).",
+"A ofensa não torna inseguro o local de trabalho nem autoriza deixar pacientes graves.",
+"A Comissão de Ética não julga; averigua e envia relatório ao COREN (Res. 792/2025).",
+"Pena ética é aplicada pelo conselho em processo, nunca pela própria ofendida."
+]
+},
+{
+"q": "Às 14 h, uma técnica de enfermagem da clínica cirúrgica recebe a prescrição impressa de um paciente estável, com analgésico e antibiótico, sem assinatura e sem número de registro do médico, que já deixou a unidade. Não há situação de urgência. Segundo o Código de Ética, qual é a conduta correta?",
+"alts": [
+"Administrar e pedir ao médico que assine a prescrição até o fim do plantão",
+"Recusar o cumprimento e solicitar a regularização da prescrição ao médico",
+"Administrar, pois a prescrição impressa pelo sistema dispensa assinatura",
+"Pedir à enfermeira que assine a prescrição para que ela possa ser cumprida",
+"Administrar só o analgésico e aguardar a assinatura para o antibiótico"
+],
+"gab": 1,
+"tema": "etica",
+"sub": "Código de Ética dos Profissionais de Enfermagem",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r1",
+"base": "Res. COFEN 564/2017 (Código de Ética), arts. 46 e 88",
+"coment": "O art. 46 do Código de Ética dos Profissionais de Enfermagem impõe o dever de recusar o cumprimento de prescrição em que não constem a assinatura e o número de registro do profissional prescritor, ressalvadas as situações de urgência e emergência. Sem urgência, a conduta é não executar, comunicar o enfermeiro, buscar a regularização com o prescritor e registrar a ocorrência. Executar e regularizar depois, ou executar parte da prescrição, também descumpre o dever. A enfermeira não pode assinar a prescrição médica, pois estaria assinando ato que não praticou (art. 88).",
+"porAlt": [
+"Administrar antes de regularizar descumpre o dever de recusa do art. 46.",
+"Correta: sem urgência, a prescrição sem assinatura e registro deve ser recusada (art. 46).",
+"Prescrição impressa também exige assinatura e número de registro do prescritor.",
+"A enfermeira não assina prescrição médica: seria assinar ato que não praticou (art. 88).",
+"Executar parte da prescrição irregular também descumpre o dever do art. 46."
+]
+},
+{
+"q": "Após processo ético, o plenário do COREN conclui que um enfermeiro cometeu infração leve, sem antecedentes, e decide aplicar multa em vez de advertência verbal. O advogado do profissional questiona o valor fixado e pede que se respeitem os limites do Código de Ética. Qual é a faixa da multa ética?",
+"alts": [
+"De 1 a 10 salários mínimos vigentes na data do julgamento",
+"De 1 a 5 vezes o valor da anuidade da categoria do infrator",
+"De 10 a 100 vezes o valor da anuidade da categoria do infrator",
+"De 1 a 10 vezes o valor da anuidade da categoria do infrator",
+"De 1 a 20 salários mínimos, conforme a gravidade da infração"
+],
+"gab": 3,
+"tema": "etica",
+"sub": "Código de Ética dos Profissionais de Enfermagem",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Res. COFEN 564/2017 (Código de Ética), arts. 108, § 2º, e 109",
+"coment": "O art. 108 do Código de Ética lista cinco penas: advertência verbal, multa, censura, suspensão do exercício profissional e cassação do direito ao exercício profissional. Pelo § 2º, a multa consiste na obrigação de pagar de 1 a 10 vezes o valor da anuidade da categoria profissional à qual pertence o infrator. A referência é a anuidade, não o salário mínimo. Advertência, multa, censura e suspensão são aplicadas pelo COREN; a cassação, pelo COFEN (art. 109; Lei 5.905/1973, art. 18, § 1º).",
+"porAlt": [
+"A multa ética usa como referência a anuidade da categoria, não o salário mínimo.",
+"O teto da multa é de 10 anuidades, e não de 5 (art. 108, § 2º).",
+"A multa começa em 1 anuidade e tem teto de 10 (art. 108, § 2º).",
+"Correta: a multa vai de 1 a 10 vezes o valor da anuidade da categoria (art. 108, § 2º).",
+"A referência é a anuidade da categoria, e o teto é de 10 vezes esse valor."
+]
+},
+{
+"q": "Uma profissional é inscrita no COREN como técnica de enfermagem e também como enfermeira, pois trabalha nas duas funções em hospitais diferentes. Ela é condenada à pena de suspensão por infração cometida no emprego de técnica. Segundo o Código de Ética, como se cumpre essa pena?",
+"alts": [
+"Exercício proibido por até 90 dias, com carteira retida nas duas categorias",
+"Exercício proibido por até 90 dias, restrito à categoria de técnica de enfermagem",
+"Exercício proibido por até 30 anos, com carteira retida nas duas categorias",
+"Exercício proibido por até 180 dias, sem divulgação, para preservar a imagem",
+"Exercício proibido por até 90 dias, sem comunicação aos empregadores atuais"
+],
+"gab": 0,
+"tema": "etica",
+"sub": "Código de Ética dos Profissionais de Enfermagem",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Res. COFEN 564/2017 (Código de Ética), art. 108, §§ 4º a 7º",
+"coment": "A suspensão é a proibição do exercício profissional por até 90 dias, com divulgação e comunicação aos órgãos empregadores (art. 108, § 4º). Toda pena é anotada no prontuário do profissional (§ 6º), e nas penas de suspensão e de cassação a carteira profissional fica retida em todas as categorias em que ele é inscrito (§ 7º). Por isso a infração cometida como técnica alcança também o exercício como enfermeira. O prazo de até 30 anos é o da cassação (§ 5º), aplicada pelo COFEN.",
+"porAlt": [
+"Correta: suspensão de até 90 dias, com carteira retida em todas as categorias inscritas (§ 7º).",
+"Na suspensão, a carteira fica retida em todas as categorias em que a profissional é inscrita.",
+"Até 30 anos é o prazo da cassação, e não da suspensão (art. 108, § 5º).",
+"A suspensão vai até 90 dias e é divulgada, não sigilosa (art. 108, § 4º).",
+"A suspensão é comunicada aos empregadores, conforme o art. 108, § 4º."
+]
+},
+{
+"q": "Na clínica médica, um enfermeiro administra 50 unidades de insulina regular em vez das 5 prescritas. O paciente evolui com hipoglicemia grave e convulsão, é transferido para a UTI com risco de morte e recebe alta dias depois, sem sequelas. Pelo art. 111 do Código de Ética, como se classifica a infração?",
+"alts": [
+"Leve, pois o paciente se recuperou sem nenhuma sequela",
+"Leve, pois não houve debilidade de membro ou de função",
+"Gravíssima, pois exigiu internação em terapia intensiva",
+"Moderada, pois o dano foi revertido com o tratamento",
+"Grave, pois o paciente foi exposto a perigo de morte"
+],
+"gab": 4,
+"tema": "etica",
+"sub": "Código de Ética dos Profissionais de Enfermagem",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r2",
+"base": "Res. COFEN 564/2017 (Código de Ética), arts. 110 e 111",
+"coment": "O art. 111 do Código de Ética classifica as infrações pelo resultado na pessoa. É leve a que ofende a integridade sem causar debilidade; moderada, a que causa debilidade temporária de membro, sentido ou função; grave, a que provoca perigo de morte, debilidade permanente ou dano moral irremediável; gravíssima, a que causa morte, debilidade permanente ou dano moral irremediável. A hipoglicemia com convulsão e transferência para a UTI expôs o paciente a perigo de morte, o que define a classe grave, ainda que ele tenha se recuperado. A ida para a UTI, por si, não é critério de gravíssima.",
+"porAlt": [
+"A recuperação sem sequela não apaga o perigo de morte, critério da classe grave.",
+"Houve perigo de morte, critério que leva a infração à classe grave (art. 111).",
+"Gravíssima exige morte, debilidade permanente ou dano moral irremediável.",
+"Reverter o dano não rebaixa a classe quando houve perigo de morte (art. 111).",
+"Correta: o perigo de morte define a infração grave (art. 111)."
+]
+},
+{
+"q": "No processo ético contra uma técnica de enfermagem que trocou a medicação de dois pacientes, o relator anota que ela confessou espontaneamente, colaborou com a apuração e tentou logo reduzir as consequências do erro. Ela alega ter sido coagida pela chefia e, dois anos antes, foi punida com multa em outro processo já encerrado. Qual desses fatos é agravante?",
+"alts": [
+"Ter confessado a infração de forma espontânea",
+"Ser reincidente, já punida em processo anterior",
+"Ter colaborado com a apuração do processo ético",
+"Ter tentado logo reduzir as consequências do erro",
+"Ter sofrido coação da chefia no momento do erro"
+],
+"gab": 1,
+"tema": "etica",
+"sub": "Código de Ética dos Profissionais de Enfermagem",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r2",
+"base": "Res. COFEN 564/2017 (Código de Ética), arts. 110 a 113; Res. COFEN 706/2022, art. 102",
+"coment": "A gradação da pena considera a gravidade, as circunstâncias agravantes e atenuantes, o dano e os antecedentes (art. 110). O art. 112 lista como atenuantes ter procurado logo, por vontade própria, evitar ou reduzir as consequências, ter bons antecedentes, ter agido sob coação, intimidação ou grave ameaça, confessar espontaneamente e colaborar com a apuração. O art. 113 traz as agravantes, e a primeira é a reincidência, ao lado de dolo, motivo fútil ou torpe e abuso de autoridade. A punição anterior conta, pois a reincidência é considerada por cinco anos (Res. COFEN 706/2022, art. 102, § 2º).",
+"porAlt": [
+"A confissão espontânea é atenuante (art. 112).",
+"Correta: a reincidência é circunstância agravante (art. 113).",
+"Colaborar com a apuração do fato é atenuante (art. 112).",
+"Procurar logo reduzir as consequências é atenuante (art. 112).",
+"Agir sob coação, intimidação ou grave ameaça é atenuante (art. 112)."
+]
+},
+{
+"q": "Os profissionais de enfermagem de um hospital público estadual aprovam greve por atraso salarial. Na assembleia, parte da categoria propõe interromper toda a assistência, inclusive na UTI e no pronto-socorro, para pressionar o governo. Segundo o Código de Ética, qual deve ser a postura da equipe durante o movimento?",
+"alts": [
+"Interromper toda a assistência, pois o direito de greve não tem limites",
+"Manter os atendimentos de urgência e suspender a assistência aos internados",
+"Pedir autorização prévia do COREN antes de aderir ao movimento grevista",
+"Garantir os cuidados mínimos que assegurem uma assistência segura aos pacientes",
+"Manter toda a assistência, pois a greve é proibida para a enfermagem"
+],
+"gab": 3,
+"tema": "etica",
+"sub": "Código de Ética dos Profissionais de Enfermagem",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Res. COFEN 564/2017 (Código de Ética), art. 44",
+"coment": "O art. 44 do Código de Ética trata da assistência durante movimentos reivindicatórios da categoria. O direito de greve é respeitado, mas a equipe tem o dever de garantir os cuidados mínimos que assegurem uma assistência segura aos pacientes. Interromper toda a assistência expõe pacientes graves a dano, e manter só as urgências deixa os internados sem cuidado. O Código não exige autorização do COREN para aderir ao movimento nem proíbe a greve na enfermagem; ele limita o modo de fazê-la.",
+"porAlt": [
+"O art. 44 limita o movimento: os cuidados mínimos aos pacientes devem ser garantidos.",
+"Os internados também precisam dos cuidados mínimos previstos no art. 44.",
+"O Código não condiciona a adesão à greve a autorização prévia do COREN.",
+"Correta: na greve, a equipe garante os cuidados mínimos de assistência segura (art. 44).",
+"O Código reconhece o movimento reivindicatório e exige apenas os cuidados mínimos."
+]
+},
+{
+"q": "Uma enfermeira recém-contratada para a clínica médica, sem treinamento em diálise, é escalada pela gerência para conduzir sozinha uma sessão de hemodiálise à beira do leito na UTI, porque a enfermeira da nefrologia faltou. Ela nunca operou a máquina. Segundo o Código de Ética, qual é o direito dela nessa situação?",
+"alts": [
+"Aceitar, pois recusar ordem da gerência configura infração ética",
+"Aceitar e registrar que agiu sob coação, para afastar a responsabilidade",
+"Recusar só se a ordem for verbal, cumprindo-a se vier por escrito",
+"Aceitar, desde que um técnico experiente acompanhe o procedimento",
+"Recusar a atividade, por não ter competência técnica nem segurança"
+],
+"gab": 4,
+"tema": "etica",
+"sub": "Código de Ética dos Profissionais de Enfermagem",
+"cenario": "uti",
+"comp": "norma",
+"nivel": "r1",
+"base": "Res. COFEN 564/2017 (Código de Ética), arts. 22 e 62",
+"coment": "O Código de Ética assegura ao profissional o direito de recusar atividade que não seja de sua competência ou que não ofereça segurança ao profissional e à pessoa assistida (art. 22). Em paralelo, é proibido executar atividade fora da própria competência (art. 62). Uma enfermeira sem treinamento que conduzisse a hemodiálise exporia o paciente a dano, e a ordem escrita, a coação alegada ou a presença de um técnico não suprem a falta de capacitação. Cabe comunicar a recusa à chefia, por escrito, para que se busque um profissional habilitado.",
+"porAlt": [
+"Recusar atividade sem competência ou sem segurança é direito, não infração (art. 22).",
+"Registrar coação não afasta o risco ao paciente nem a proibição do art. 62.",
+"A forma da ordem não muda a falta de competência técnica para o procedimento.",
+"A presença de um técnico não supre a falta de capacitação da enfermeira.",
+"Correta: é direito recusar atividade fora da competência ou sem segurança (art. 22)."
+]
+},
+{
+"q": "Uma enfermeira é processada por registrar na evolução sinais vitais que não aferiu. A comissão de instrução e o relator enquadram a conduta somente no art. 87 do Código de Ética, que proíbe registrar informações incompletas, imprecisas ou inverídicas, e o relator propõe a pena de censura. Considerando os arts. 114 a 119, o que se conclui sobre a proposta?",
+"alts": [
+"Correta, pois toda infração admite qualquer das cinco penas do art. 108",
+"Incorreta, pois o art. 87 admite somente advertência verbal reservada",
+"Incorreta, pois o art. 87 admite só advertência, multa e suspensão",
+"Incorreta, pois registro inverídico leva à cassação do exercício",
+"Correta, desde que a censura seja cumulada com multa pelo mesmo artigo"
+],
+"gab": 2,
+"tema": "etica",
+"sub": "Código de Ética dos Profissionais de Enfermagem",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "tit",
+"base": "Res. COFEN 564/2017 (Código de Ética), arts. 87 e 114 a 119",
+"coment": "Os arts. 115 a 119 do Código de Ética ligam cada pena a uma lista própria de artigos, e as listas não são simétricas. O art. 87, que proíbe registrar informações incompletas, imprecisas ou inverídicas, consta das listas de advertência verbal, multa e suspensão, mas não da lista da censura. Com o enquadramento apenas no art. 87, a censura não cabe. As penas só se acumulam quando há infração a mais de um artigo (art. 114), e a cassação é restrita aos artigos enumerados no art. 119 (45, 64, 70, 72, 73, 74, 80, 82, 83, 94, 96 e 97), entre os quais o 87 não está.",
+"porAlt": [
+"As penas não são livres: os arts. 115 a 119 vinculam cada pena a artigos específicos.",
+"O art. 87 consta também das listas de multa e de suspensão, além da advertência.",
+"Correta: o art. 87 admite advertência, multa e suspensão, e não consta da lista da censura.",
+"O art. 87 não está entre os artigos que admitem cassação (art. 119).",
+"As penas só se acumulam com infração a mais de um artigo (art. 114)."
+]
+},
+{
+"q": "O COREN condenou um técnico de enfermagem à pena de advertência verbal. Ele mora a 400 km da sede do conselho, e a secretaria propõe aplicar a pena em sala virtual. Pelo Código de Processo Ético, com as alterações da Res. COFEN 758/2024, como pode ser feita a advertência nesse formato?",
+"alts": [
+"Não pode, pois a advertência verbal exige a presença física do advertido na sede",
+"Pode, por mensagem escrita ao advertido, dispensando a sessão e as testemunhas",
+"Pode, com a autoridade, o advertido e no mínimo uma testemunha na sala virtual",
+"Pode, desde que transmitida em sessão pública aberta, com divulgação oficial",
+"Não pode, pois a advertência a distância é reservada a enfermeiros, não a técnicos"
+],
+"gab": 2,
+"tema": "etica",
+"sub": "Resoluções do COFEN",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Res. COFEN 706/2022 (Código de Processo Ético), art. 95, § 5º, incluído pela Res. COFEN 758/2024; Res. COFEN 564/2017, art. 108, § 1º",
+"coment": "A advertência verbal é admoestação reservada, registrada no prontuário do infrator, aplicada diante de duas testemunhas (Res. COFEN 564/2017, art. 108, § 1º). A Res. COFEN 758/2024 não criou um novo código: alterou quatro artigos do Código de Processo Ético anexo à Res. 706/2022. Uma das mudanças incluiu o § 5º no art. 95, que permite aplicar a advertência verbal em sala virtual, com a presença da autoridade, do advertido e de no mínimo uma testemunha. A pena continua reservada: divulgação em publicações oficiais é característica da censura.",
+"porAlt": [
+"Desde a Res. 758/2024, a advertência verbal pode ser aplicada em sala virtual.",
+"A advertência continua verbal e exige testemunha, mesmo no formato virtual.",
+"Correta: sala virtual com a autoridade, o advertido e ao menos uma testemunha (art. 95, § 5º).",
+"A advertência é reservada; a divulgação oficial é característica da censura.",
+"A regra da sala virtual vale para qualquer categoria de enfermagem."
+]
+},
+{
+"q": "Em março de 2019, uma técnica de enfermagem deixou de anotar no prontuário a recusa de um paciente a uma medicação, sem dano a ele. Em maio de 2025, o paciente descobre o fato e protocola denúncia no COREN. Pelo Código de Processo Ético, qual deve ser o destino dessa denúncia?",
+"alts": [
+"Processamento normal, pois a prescrição de 5 anos conta do conhecimento pelo conselho",
+"Processamento normal, pois as infrações éticas de enfermagem são imprescritíveis",
+"Conciliação obrigatória, pois a infração é leve e restrita às duas partes envolvidas",
+"Arquivamento liminar, pois passaram mais de 5 anos entre o fato e a denúncia",
+"Arquivamento depois da instrução completa, pois a decadência depende de julgamento"
+],
+"gab": 3,
+"tema": "etica",
+"sub": "Resoluções do COFEN",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r3",
+"base": "Res. COFEN 706/2022 (Código de Processo Ético), arts. 71 a 74",
+"coment": "O Código de Processo Ético distingue dois prazos de 5 anos. A decadência (art. 74) é o prazo para apresentar a denúncia, contado da ocorrência do fato; vencido, a denúncia é arquivada liminarmente. A prescrição (art. 71) corre do conhecimento do fato pelo conselho e é interrompida pela notificação do denunciado (art. 72). Entre março de 2019 e maio de 2025 passaram mais de 5 anos desde o fato, e a denúncia chegou tarde, independentemente de quando o paciente soube. O caso não chega à conciliação nem à instrução.",
+"porAlt": [
+"A prescrição corre do conhecimento pelo conselho, mas aqui já houve decadência, contada do fato.",
+"O Código de Processo Ético prevê prescrição e decadência, ambas de 5 anos.",
+"A conciliação pressupõe denúncia admissível, o que a decadência impede.",
+"Correta: mais de 5 anos entre o fato e a denúncia levam ao arquivamento liminar (art. 74).",
+"A decadência leva ao arquivamento liminar, sem necessidade de instrução."
+]
+},
+{
+"q": "Uma técnica de enfermagem denuncia ao COREN a enfermeira supervisora, que a teria ofendido verbalmente diante de colegas durante o plantão. Não houve dano a pacientes, e a câmara de ética classifica o fato como infração leve, restrita às duas profissionais. Pelo Código de Processo Ético, qual é o próximo passo após a admissão da denúncia?",
+"alts": [
+"Conciliação obrigatória entre as partes antes de instaurar o processo",
+"Instauração direta do processo, pois a conciliação é facultativa às partes",
+"Arquivamento sumário, pois ofensa verbal não constitui infração ética",
+"Remessa dos autos ao COFEN, competente para conflitos entre categorias",
+"Suspensão cautelar da enfermeira até o julgamento pelo plenário regional"
+],
+"gab": 0,
+"tema": "etica",
+"sub": "Resoluções do COFEN",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r2",
+"base": "Res. COFEN 706/2022 (Código de Processo Ético), arts. 15 e 25",
+"coment": "Admitida a denúncia, o Código de Processo Ético prevê conciliação obrigatória quando a infração é leve ou moderada e envolve apenas as partes, como numa ofensa entre colegas sem dano a terceiros (Res. COFEN 706/2022, art. 25). Havendo acordo, o termo é homologado e o caso arquivado; sem acordo, instaura-se o processo. A conciliação é vedada nas infrações gravíssimas. A suspensão cautelar exige indício de autoria e materialidade e receio de dano irreparável (art. 15), e o COFEN atua como instância recursal e na cassação, não como primeira instância desse conflito.",
+"porAlt": [
+"Correta: infração leve restrita às partes impõe conciliação antes do processo (art. 25).",
+"Nas infrações leves ou moderadas entre as partes, a conciliação é obrigatória.",
+"Ofender colega no plantão pode configurar infração; a câmara já a admitiu como leve.",
+"O conflito é apurado no COREN; o COFEN julga recursos e casos de cassação.",
+"A suspensão cautelar exige receio de dano irreparável, ausente numa infração leve."
+]
+},
+{
+"q": "No processo ético contra um técnico de enfermagem, a comissão de instrução ouve as testemunhas, recebe a defesa e encerra o relatório sugerindo suspensão de 30 dias. O advogado do técnico aponta irregularidade no relatório. Pelo Código de Processo Ético, qual é o problema apontado?",
+"alts": [
+"A comissão deveria ter ouvido no mínimo cinco testemunhas antes do relatório",
+"A comissão deveria ser composta por técnicos, da mesma categoria do réu",
+"A comissão deveria ter indicado a cassação, pena própria da fase de instrução",
+"A comissão deveria ter concluído o relatório em 30 dias, sem prorrogação",
+"A comissão não indica pena nem absolvição: isso cabe ao relator e ao plenário"
+],
+"gab": 4,
+"tema": "etica",
+"sub": "Resoluções do COFEN",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r3",
+"base": "Res. COFEN 706/2022 (Código de Processo Ético), arts. 8º a 10",
+"coment": "A Comissão de Instrução do Processo Ético (CIPE) tem 3 profissionais de categoria igual ou superior à do denunciado (art. 8º), conduz a instrução em 120 dias prorrogáveis por igual período (art. 10) e encerra com um relatório que não indica pena nem absolvição (art. 9º). Quem propõe os artigos infringidos e a pena é o conselheiro relator, em parecer submetido ao plenário do COREN. A defesa pode arrolar até 3 testemunhas. Um técnico pode, portanto, ser instruído por enfermeiros, e o relatório que sugere pena extrapola a função da comissão.",
+"porAlt": [
+"A defesa arrola até 3 testemunhas; não há exigência de cinco antes do relatório.",
+"A comissão tem profissionais de categoria igual ou superior à do denunciado.",
+"A comissão não indica pena alguma, e a cassação é julgada pelo COFEN.",
+"O prazo da instrução é de 120 dias, prorrogáveis por igual período (art. 10).",
+"Correta: a CIPE não indica pena nem absolvição no relatório (art. 9º)."
+]
+},
+{
+"q": "Uma enfermeira é condenada pelo plenário do COREN à pena de multa e recorre ao COFEN. O denunciante não recorre. No julgamento do recurso, um conselheiro federal entende que a conduta, pela gravidade, mereceria suspensão. Pelo Código de Processo Ético, qual é o limite da decisão do COFEN nesse recurso?",
+"alts": [
+"Pode aplicar a suspensão, pois o recurso devolve toda a matéria ao COFEN",
+"Pode manter ou abrandar a multa, mas não agravar a pena da recorrente",
+"Deve anular o processo e devolvê-lo ao COREN para aplicar a pena maior",
+"Pode aplicar a suspensão, desde que por unanimidade do plenário federal",
+"Deve converter a multa em censura, pena intermediária entre as duas"
+],
+"gab": 1,
+"tema": "etica",
+"sub": "Resoluções do COFEN",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "tit",
+"base": "Res. COFEN 706/2022 (Código de Processo Ético), arts. 92 e 94",
+"coment": "O recurso contra a decisão do plenário do COREN vai ao COFEN no prazo de 15 dias, com efeito suspensivo. Quando somente o denunciado recorre, a pena não pode ser agravada (art. 92), regra que protege o direito de recorrer. O COFEN pode manter a multa, reduzi-la ou absolver a profissional, mas não substituí-la por censura ou suspensão, nem anular o processo para obter pena maior. Censura e suspensão, além de mais graves, são publicadas (art. 94), o que mostra o prejuízo que a regra impede.",
+"porAlt": [
+"Com recurso só da defesa, a pena não pode piorar (art. 92).",
+"Correta: recurso exclusivo da denunciada não admite agravamento da pena (art. 92).",
+"Anular para agravar burlaria a proibição de piorar a pena em recurso da defesa.",
+"A unanimidade não afasta a vedação de agravar a pena em recurso só da defesa.",
+"A censura é mais grave que a multa e também é vedada nesse recurso."
+]
+},
+{
+"q": "Um hospital com 180 profissionais de enfermagem tem Comissão de Ética de Enfermagem. Ela recebe denúncia de que um técnico atendeu pacientes de forma desrespeitosa. Após ouvir os envolvidos, um membro propõe que a comissão aplique advertência ao técnico. Pela Res. COFEN 792/2025, como deve agir a comissão?",
+"alts": [
+"Aplicar a advertência, com cópia ao enfermeiro responsável técnico",
+"Arquivar o caso, pois denúncia de usuário deve ir direto ao COFEN",
+"Só fazer averiguação prévia e enviar relatório narrativo ao COREN",
+"Julgar o caso em plenário da comissão, garantida a defesa do técnico",
+"Aplicar a advertência caso o técnico confesse a conduta denunciada"
+],
+"gab": 2,
+"tema": "etica",
+"sub": "Resoluções do COFEN",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r2",
+"base": "Res. COFEN 792/2025 (Comissões de Ética de Enfermagem), anexo, arts. 1º, 3º e 6º",
+"coment": "A Res. COFEN 792/2025 revogou a 593/2018 e regula as Comissões de Ética de Enfermagem. A comissão representa o COREN na instituição, com funções educativa, consultiva, de escuta qualificada, de orientação e de vigilância (art. 1º do anexo), e não julga nem pune. Diante de denúncia, faz averiguação prévia, sem juízo de valor, e envia relatório narrativo ao COREN, com cópia ao enfermeiro responsável técnico apenas para ciência, salvo se ele for parte (art. 3º). Ela é obrigatória a partir de 50 profissionais de enfermagem (art. 6º), o que inclui esse hospital.",
+"porAlt": [
+"A comissão não aplica pena; a cópia ao responsável técnico é só para ciência.",
+"A comissão recebe denúncias e as encaminha ao COREN, não ao COFEN.",
+"Correta: a comissão averigua sem juízo de valor e relata ao COREN (art. 3º).",
+"Julgar é atribuição do plenário do COREN, não da Comissão de Ética.",
+"Mesmo com confissão, a comissão não aplica pena: apenas relata ao COREN."
+]
+},
+{
+"q": "Na consulta de enfermagem de planejamento reprodutivo, a enfermeira de uma unidade básica prescreve um contraceptivo oral previsto no protocolo municipal aprovado, para a indicação prevista nele. Ao revisar as receitas do mês, a coordenação verifica se os itens mínimos exigidos pela Res. COFEN 801/2026 estão presentes. Quais dados devem constar?",
+"alts": [
+"Nome comercial do medicamento, carimbo do enfermeiro e visto de um médico",
+"CID do diagnóstico médico, número do protocolo e assinatura do gestor local",
+"Identificação do protocolo, CRM do médico de referência e nome comercial",
+"Protocolo e ano, CNPJ da instituição e medicamento pela denominação genérica",
+"Nome do paciente, endereço completo e assinatura de dois enfermeiros da unidade"
+],
+"gab": 3,
+"tema": "etica",
+"sub": "Resoluções do COFEN",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Res. COFEN 801/2026, arts. 2º e 3º; Lei 7.498/1986, art. 11, II, c",
+"coment": "A prescrição de medicamentos pelo enfermeiro é feita como integrante da equipe de saúde, limitada aos medicamentos estabelecidos em programas de saúde pública e em rotina aprovada pela instituição (Lei 7.498/1986, art. 11, II, c). A Res. COFEN 801/2026 situa a prescrição na consulta de enfermagem, fundamentada em protocolos (art. 2º), e no art. 3º lista os itens mínimos: protocolo e ano; instituição e CNPJ; nome, número e categoria do prescritor no COREN, com assinatura; data; nome do paciente e outro identificador; e o medicamento pela denominação genérica, com via e posologia. A receita não depende de visto médico.",
+"porAlt": [
+"A Res. 801/2026 exige a denominação genérica e não prevê visto médico.",
+"A receita identifica o protocolo e a instituição, sem exigir CID nem gestor.",
+"O prescritor se identifica pelo COREN, e o medicamento vai pelo nome genérico.",
+"Correta: protocolo e ano, CNPJ e denominação genérica estão no art. 3º da Res. 801/2026.",
+"O segundo identificador é CPF ou data de nascimento, e só o prescritor assina."
+]
+},
+{
+"q": "Na clínica médica, um homem de 68 anos em delirium após cirurgia arranca o acesso venoso e tenta retirar a sonda vesical, sem responder às medidas verbais nem à presença do acompanhante. A equipe discute a contenção mecânica. Segundo a Res. COFEN 746/2024, em que condições ela pode ser feita?",
+"alts": [
+"Como único meio de evitar dano imediato, sob supervisão direta do enfermeiro",
+"Por decisão do técnico, quando o paciente estiver agitado ou confuso",
+"Como rotina noturna para todo paciente idoso com risco de queda no leito",
+"Por pedido do acompanhante, dispensando registro do motivo e da duração",
+"Como medida disciplinar, pelo tempo que a equipe julgar necessário"
+],
+"gab": 0,
+"tema": "etica",
+"sub": "Resoluções do COFEN",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Res. COFEN 746/2024 (contenção mecânica)",
+"coment": "A Res. COFEN 746/2024, que revogou a 427/2012, admite a contenção mecânica apenas quando ela é o único meio de prevenir dano imediato, sob supervisão direta do enfermeiro, com registro do motivo, da duração e do monitoramento. No caso, as medidas verbais e a presença do acompanhante falharam e há risco de dano imediato pela retirada de dispositivos, o que pode justificar a medida, mantida a vigilância. Agitação isolada, rotina, pedido de familiar ou finalidade disciplinar não a autorizam.",
+"porAlt": [
+"Correta: contenção só como único meio de evitar dano imediato, sob supervisão direta do enfermeiro.",
+"A contenção exige supervisão direta do enfermeiro e risco de dano imediato.",
+"Contenção de rotina contraria a exigência de ser o único meio de evitar dano.",
+"O registro do motivo, da duração e do monitoramento é obrigatório na Res. 746/2024.",
+"A contenção não tem finalidade disciplinar e exige registro da duração."
+]
+},
+{
+"q": "Em outubro de 2026, uma enfermeira perioperatória estuda para um concurso e encontra numa apostila a afirmação de que o profissional de enfermagem é proibido de atuar como auxiliar em procedimentos cirúrgicos, com base na Res. COFEN 280/2003. Como ela deve avaliar essa afirmação?",
+"alts": [
+"Correta, pois a Res. 280/2003 segue vigente e foi reforçada em 2024",
+"Correta, pois a proibição consta do próprio texto da Lei 7.498/1986",
+"Correta para técnicos, mas não para enfermeiros, cuja atuação é livre",
+"Correta, pois a Res. 779/2025 reafirmou a proibição criada em 2003",
+"Desatualizada, pois a Res. 280/2003 foi revogada pela Res. 779/2025"
+],
+"gab": 4,
+"tema": "etica",
+"sub": "Resoluções do COFEN",
+"cenario": "cc",
+"comp": "norma",
+"nivel": "r1",
+"base": "Res. COFEN 779/2025",
+"coment": "A Res. COFEN 280/2003 proibia o profissional de enfermagem de auxiliar procedimentos cirúrgicos. Ela foi revogada pela Res. COFEN 779/2025, e uma apostila que ainda a cita como vigente está desatualizada. A proibição vinha de resolução do conselho, não da Lei 7.498/1986. Em provas recentes, a FGV cobra normas novas e revogações, como a da Res. 543/2017 pela 743/2024; vale conferir a data e a situação de cada resolução antes de aceitar a afirmação de um material de estudo.",
+"porAlt": [
+"A Res. 280/2003 não está vigente: foi revogada em 2025.",
+"A proibição vinha de resolução do COFEN, revogada em 2025, e não da lei.",
+"A Res. 280/2003 alcançava os profissionais de enfermagem e foi revogada.",
+"A Res. 779/2025 revogou a proibição, em vez de reafirmá-la.",
+"Correta: a Res. COFEN 779/2025 revogou a Res. 280/2003."
+]
+},
+{
+"q": "Numa clínica privada de vacinação, uma enfermeira atende um adulto de 40 anos que deseja um imunobiológico não incluído no Programa Nacional de Imunizações, registrado na ANVISA. Após a consulta de enfermagem, ela avalia a indicação e quer prescrevê-lo. Segundo a Res. COFEN 795/2025, como se enquadra essa prescrição?",
+"alts": [
+"Vedada, pois o enfermeiro só prescreve vacinas do calendário do PNI",
+"Permitida só se fundamentada no Processo de Enfermagem e com registro ANVISA",
+"Permitida mediante receita médica prévia anexada ao prontuário do cliente",
+"Vedada, pois imunobiológico fora do PNI exige prescrição do farmacêutico",
+"Permitida em serviço público, seguindo o protocolo do município, e não no privado"
+],
+"gab": 1,
+"tema": "etica",
+"sub": "Resoluções do COFEN",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r3",
+"base": "Res. COFEN 795/2025, arts. 1º e 4º; Res. COFEN 801/2026",
+"coment": "A Res. COFEN 795/2025 reconhece a prescrição de imunobiológicos como competência do enfermeiro. No SUS, ele segue os protocolos do programa, e a prescrição não é obrigatória quando o fluxo já está definido. No serviço privado, a resolução permite prescrever imunobiológico fora do PNI, desde que registrado na ANVISA e fundamentado no Processo de Enfermagem (arts. 1º e 4º). É a mesma lógica da Res. COFEN 801/2026 para medicamentos: prescrição apoiada em protocolo e na consulta de enfermagem, sem receita médica prévia.",
+"porAlt": [
+"No serviço privado, a Res. 795/2025 admite prescrever imunobiológico fora do PNI.",
+"Correta: fora do PNI, no privado, exige registro na ANVISA e Processo de Enfermagem (art. 4º).",
+"A resolução reconhece a prescrição como competência do enfermeiro, sem receita médica.",
+"A Res. 795/2025 trata da prescrição pelo enfermeiro, sem exigir o farmacêutico.",
+"A prescrição fora do PNI é justamente a hipótese prevista para o serviço privado."
+]
+},
+{
+"q": "Na enfermaria de clínica médica, uma técnica de enfermagem prepara o antibiótico do leito 12 e o administra no paciente do leito 11, deixando de conferir a pulseira de identificação e de chamar o paciente pelo nome. O paciente apresenta reação alérgica leve e se recupera. Qual modalidade de culpa caracteriza a conduta da técnica?",
+"alts": [
+"Imperícia, por não dominar a técnica de administração do antibiótico",
+"Imprudência, por executar procedimento para o qual não está habilitada",
+"Dolo eventual, por assumir conscientemente o resultado lesivo ao paciente",
+"Caso fortuito, pois a reação alérgica não era previsível para a equipe",
+"Negligência, por deixar de conferir a identificação antes de administrar"
+],
+"gab": 4,
+"tema": "etica",
+"sub": "Responsabilidade civil, penal e ética",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r1",
+"base": "Código Penal (Decreto-Lei 2.848/1940), art. 18, II; Res. COFEN 564/2017, art. 45",
+"coment": "O Código Penal define o crime culposo como aquele em que o agente deu causa ao resultado por imprudência, negligência ou imperícia (art. 18, II), e as mesmas palavras estão no Código Civil (art. 951) e no Código de Ética (art. 45). Negligência é deixar de fazer o que se devia, uma omissão: não conferir a identificação do paciente antes de administrar é o exemplo clássico. Imprudência é agir com afobação ou assumindo risco, como pular etapas do protocolo para ganhar tempo; imperícia é não saber fazer. Não houve intenção nem aceitação do resultado, o que afasta o dolo.",
+"porAlt": [
+"A técnica sabia administrar; a falha foi omitir a conferência, o que não é imperícia.",
+"Administrar antibiótico está entre as atividades da técnica; o erro foi uma omissão.",
+"Não houve vontade nem aceitação do resultado, o que afasta o dolo eventual.",
+"A troca de paciente era evitável com a conferência, o que afasta o caso fortuito.",
+"Correta: deixar de conferir a identificação é omissão, ou seja, negligência."
+]
+},
+{
+"q": "Uma enfermeira transferida do ambulatório para a UTI, sem treinamento nas bombas de seringa do setor, aceita assumir a infusão contínua de um sedativo e, por não saber operar o equipamento, programa a vazão errada. O paciente recebe dose excessiva e fica com rebaixamento de consciência prolongado. Qual modalidade de culpa caracteriza a conduta?",
+"alts": [
+"Imperícia, por executar procedimento sem o preparo técnico necessário",
+"Negligência, por deixar de checar a prescrição médica do sedativo",
+"Imprudência, por pular etapas do protocolo mesmo sabendo executá-las",
+"Dolo direto, por aceitar a tarefa sabendo que não tinha treinamento",
+"Caso fortuito, pois a falha decorreu de defeito do equipamento"
+],
+"gab": 0,
+"tema": "etica",
+"sub": "Responsabilidade civil, penal e ética",
+"cenario": "uti",
+"comp": "norma",
+"nivel": "r1",
+"base": "Código Penal (Decreto-Lei 2.848/1940), art. 18, II; Res. COFEN 564/2017, arts. 22, 45 e 62",
+"coment": "Imperícia é a falta de preparo técnico para o ato: o profissional faz o que não sabe fazer. A enfermeira não dominava a bomba de seringa e programou a vazão errada por isso, o que caracteriza imperícia (Código Penal, art. 18, II). Imprudência seria saber os passos e pulá-los para ganhar tempo; negligência seria omitir um cuidado devido. Pelo Código de Ética, ela poderia ter recusado a atividade sem segurança (art. 22), é proibida de executar atividade fora de sua competência (art. 62) e responde pelo art. 45, que exige assistência livre de danos por imperícia.",
+"porAlt": [
+"Correta: executar sem preparo técnico para operar o equipamento é imperícia.",
+"A falha não foi omitir a checagem da prescrição, e sim não saber operar a bomba.",
+"Imprudência supõe domínio da técnica, que a enfermeira não tinha.",
+"Ela não quis o resultado nem o aceitou, o que afasta o dolo.",
+"O erro nasceu da falta de preparo da operadora, não de defeito do equipamento."
+]
+},
+{
+"q": "Num hospital privado, uma técnica de enfermagem empregada aplica bolsa de água quente na perna de um paciente diabético, que sofre queimadura de segundo grau. O paciente ajuíza ação de indenização apenas contra o hospital. Pela legislação civil e de defesa do consumidor, como responde a instituição?",
+"alts": [
+"Responde se o paciente provar a culpa pessoal do diretor do hospital",
+"Não responde, pois o dano foi causado pessoalmente pela técnica",
+"Responde independentemente de culpa, como fornecedora do serviço",
+"Responde apenas se a técnica for antes condenada no processo penal",
+"Não responde, pois a falha da enfermagem se resolve no plano ético"
+],
+"gab": 2,
+"tema": "etica",
+"sub": "Responsabilidade civil, penal e ética",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r3",
+"base": "Lei 8.078/1990 (CDC), art. 14; Código Civil (Lei 10.406/2002), arts. 186, 927, 932, III, e 951",
+"coment": "O mesmo fato pode gerar processo ético, ação civil e ação penal, em esferas independentes. Na esfera civil, quem causa dano por ato ilícito, por ação ou omissão, negligência ou imprudência, deve repará-lo (Código Civil, arts. 186 e 927), e o art. 951 aplica isso a quem, no exercício profissional, causa lesão por negligência, imprudência ou imperícia. O empregador responde pelos atos dos empregados (art. 932, III), e o hospital, como fornecedor, responde independentemente de culpa pelo serviço defeituoso (CDC, art. 14). Já a responsabilidade do profissional liberal depende de culpa (art. 14, § 4º).",
+"porAlt": [
+"O hospital responde sem culpa pelo serviço defeituoso, sem prova de culpa do diretor.",
+"O empregador responde pelos atos dos empregados (Código Civil, art. 932, III).",
+"Correta: o hospital responde sem culpa pelo serviço defeituoso (CDC, art. 14).",
+"As esferas são independentes, e a ação civil não espera a condenação penal.",
+"A enfermagem responde nas esferas ética, civil e penal, de forma independente."
+]
+},
+{
+"q": "O protocolo do hospital exige dupla checagem independente antes de iniciar heparina em bomba de infusão. No plantão noturno, um enfermeiro inicia a infusão sozinho, sem a checagem, com concentração dez vezes maior que a prescrita. O paciente sangra e morre. Na esfera penal, em que tipo ele pode ser enquadrado?",
+"alts": [
+"Homicídio doloso simples, pela gravidade do resultado morte do paciente",
+"Homicídio culposo, com aumento por inobservância de regra técnica",
+"Lesão corporal culposa, pois não houve intenção de matar o paciente",
+"Omissão de socorro, por não ter chamado o médico durante o sangramento",
+"Exercício ilegal da enfermagem, por agir sem a checagem do protocolo"
+],
+"gab": 1,
+"tema": "etica",
+"sub": "Responsabilidade civil, penal e ética",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r2",
+"base": "Código Penal (Decreto-Lei 2.848/1940), art. 121, §§ 3º e 4º",
+"coment": "Na esfera penal, matar alguém sem intenção, por imprudência, negligência ou imperícia, é homicídio culposo (Código Penal, art. 121, § 3º). O § 4º aumenta a pena em um terço quando o crime resulta de inobservância de regra técnica de profissão, como deixar de fazer a dupla checagem exigida para medicamento de alta vigilância. Não há dolo, porque o enfermeiro não quis nem aceitou a morte. Lesão culposa (art. 129, § 6º) caberia se houvesse lesão sem morte. Exercício ilegal pressupõe falta de habilitação ou de inscrição. O mesmo fato gera também processo ético e ação de indenização.",
+"porAlt": [
+"Não houve vontade nem aceitação da morte, o que afasta o homicídio doloso.",
+"Correta: homicídio culposo com aumento de um terço por inobservância de regra técnica (art. 121, § 4º).",
+"Com o resultado morte, o tipo é homicídio culposo, não lesão corporal culposa.",
+"A conduta que causou a morte foi a infusão sem checagem, não a falta de socorro.",
+"O enfermeiro é habilitado e inscrito, o que afasta o exercício ilegal da profissão."
+]
+},
+{
+"q": "Uma mulher sem formação nem inscrição no COREN se apresenta no bairro como técnica de enfermagem e, mediante pagamento, aplica injeções e faz curativos em domicílio. A vigilância sanitária identifica a situação e a encaminha à polícia. Como a legislação brasileira enquadra essa conduta?",
+"alts": [
+"Crime de exercício ilegal da medicina, previsto no art. 282 do Código Penal",
+"Infração ética, a ser julgada pelo COREN com aplicação da pena de cassação",
+"Conduta atípica, pois a enfermagem não tem nenhuma proteção penal própria",
+"Contravenção de exercício ilegal de profissão, prevista no art. 47 da LCP",
+"Crime de falsidade ideológica, pelo uso de diploma de técnica falsificado"
+],
+"gab": 3,
+"tema": "etica",
+"sub": "Responsabilidade civil, penal e ética",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r3",
+"base": "Decreto-Lei 3.688/1941 (Lei das Contravenções Penais), art. 47; Código Penal, art. 282; Lei 7.498/1986, art. 2º",
+"coment": "O art. 282 do Código Penal tipifica o exercício ilegal de medicina, medicina veterinária, odontologia e farmácia; a enfermagem não está na lista. Exercer enfermagem sem habilitação ou sem inscrição no COREN, exigências do art. 2º da Lei 7.498/1986, é a contravenção penal do art. 47 da Lei das Contravenções Penais, exercício ilegal de profissão. O COREN não aplica pena ética a quem não é inscrito, porque o Código de Ética alcança os profissionais do sistema, e o caso não descreve uso de documento falso.",
+"porAlt": [
+"O art. 282 do Código Penal não inclui a enfermagem entre as profissões que tipifica.",
+"Quem não é inscrito não responde ao Código de Ética, que alcança os profissionais do sistema.",
+"A conduta é típica: configura a contravenção do art. 47 da LCP.",
+"Correta: exercer enfermagem sem habilitação é contravenção (LCP, art. 47).",
+"O caso não descreve uso de documento falso, só exercício sem habilitação."
+]
+},
+{
+"q": "Uma estudante do último ano de graduação, em estágio supervisionado na clínica cirúrgica, administra por via intravenosa uma suspensão prescrita por via oral, enquanto a enfermeira supervisora estava no posto. O paciente apresenta reação grave e é transferido. A supervisora alega que a responsabilidade é só da estudante. Pelo Código de Ética, como fica a enfermeira?",
+"alts": [
+"Não pode eximir-se da responsabilidade pelo ato da estagiária que supervisiona",
+"Fica isenta, pois a estudante responde sozinha pelos próprios atos no estágio",
+"Fica isenta, desde que a instituição de ensino assuma o erro da estudante",
+"Responde se tiver assinado o prontuário junto com a estudante no plantão",
+"Responde com cassação automática, por se tratar de erro de via de administração"
+],
+"gab": 0,
+"tema": "etica",
+"sub": "Responsabilidade civil, penal e ética",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r2",
+"base": "Res. COFEN 564/2017 (Código de Ética), arts. 51, 93, 110 e 111",
+"coment": "O Código de Ética proíbe ao profissional eximir-se da responsabilidade por atividades executadas por alunos ou estagiários sob sua supervisão (art. 93). O art. 51 completa a regra: o profissional responde por falta cometida individualmente ou em equipe, na medida do próprio ato, quando teve participação ou conhecimento prévio. A supervisora respondia pela estudante e não pode transferir a culpa a ela ou à faculdade. A pena depende do enquadramento e da gradação dos arts. 110 e 111, e não há cassação automática.",
+"porAlt": [
+"Correta: o profissional não se exime pelo que fazem os estagiários que supervisiona (art. 93).",
+"O art. 93 proíbe ao supervisor eximir-se da responsabilidade pelo estagiário.",
+"A responsabilidade ética da supervisora não se transfere à instituição de ensino.",
+"A responsabilidade decorre da supervisão, não da assinatura conjunta no prontuário.",
+"Não há pena automática: ela depende do enquadramento e da gradação (arts. 110 e 111)."
+]
+},
+{
+"q": "Um técnico de enfermagem foi denunciado criminalmente e ao COREN pela morte de um paciente após erro de medicação. No processo penal, foi absolvido por insuficiência de provas. Com a sentença, pede ao COREN o arquivamento do processo ético, que estava em instrução. Pelo Código de Processo Ético, qual é a consequência dessa absolvição?",
+"alts": [
+"Arquivamento obrigatório, pois a absolvição penal sempre vincula o COREN",
+"Suspensão do processo ético até o trânsito em julgado da sentença penal",
+"Arquivamento, pois o técnico não pode ser julgado duas vezes pelo fato",
+"Conversão automática da pena ética em advertência verbal reservada",
+"Nenhuma: só vincularia se negasse o fato ou a participação dele"
+],
+"gab": 4,
+"tema": "etica",
+"sub": "Responsabilidade civil, penal e ética",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "tit",
+"base": "Res. COFEN 706/2022 (Código de Processo Ético), art. 5º; Código de Processo Penal, art. 386, I e IV",
+"coment": "O processo ético é independente do processo judicial. Pelo art. 5º do Código de Processo Ético, a absolvição penal só repercute no processo ético quando reconhece que o fato não existiu ou que o acusado não concorreu para ele, hipóteses do art. 386, I e IV, do Código de Processo Penal. Absolvição por insuficiência de provas não afirma nenhuma das duas coisas, e o COREN pode apurar a infração ética com suas próprias provas. Responder nas esferas ética, civil e penal pelo mesmo fato não é dupla punição, porque as instâncias são independentes.",
+"porAlt": [
+"A absolvição só vincula se reconhecer inexistência do fato ou ausência de autoria.",
+"O processo ético não depende da sentença penal e segue com instrução própria.",
+"As instâncias ética, civil e penal são independentes, sem dupla punição.",
+"A absolvição penal não altera nem converte a pena ética por si só.",
+"Correta: só a prova de inexistência do fato ou de não autoria vincula o COREN (art. 5º)."
+]
+},
+{
+"q": "Na consulta de enfermagem de puericultura, uma criança de 4 anos apresenta equimoses em diferentes estágios no dorso e uma queimadura circular no antebraço, sem explicação coerente da mãe, que pede que nada seja comunicado a ninguém. Segundo o Código de Ética, como deve agir a enfermeira quanto ao sigilo?",
+"alts": [
+"Manter o sigilo, pois a mãe é a representante legal e não autorizou",
+"Comunicar se a mãe assinar um termo de consentimento por escrito",
+"Comunicar aos órgãos competentes, mesmo sem autorização da família",
+"Manter o sigilo até que haja ordem judicial determinando a revelação",
+"Comunicar ao médico da unidade, a quem cabe decidir sobre o caso"
+],
+"gab": 2,
+"tema": "etica",
+"sub": "Código de Ética dos Profissionais de Enfermagem",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Res. COFEN 564/2017 (Código de Ética), art. 52, § 4º",
+"coment": "O sigilo profissional é dever (art. 52), mas o próprio artigo traz exceções. O § 4º torna obrigatória a comunicação aos órgãos de responsabilização criminal, independentemente de autorização, nos casos de violência contra criança, adolescente, idoso e pessoa incapaz. Lesões em estágios diferentes e queimadura sem explicação coerente numa criança de 4 anos exigem essa comunicação, além do registro detalhado no prontuário. O pedido da mãe não prevalece, e não é preciso esperar ordem judicial. A obrigação é da própria enfermeira, que não a transfere a outro profissional.",
+"porAlt": [
+"Na violência contra criança, a comunicação independe da autorização do responsável.",
+"O § 4º dispensa autorização: a comunicação é obrigatória mesmo sem termo.",
+"Correta: violência contra criança deve ser comunicada sem autorização (art. 52, § 4º).",
+"Nesse caso a comunicação é obrigatória e não depende de ordem judicial.",
+"A obrigação de comunicar é da própria enfermeira, não transferida ao médico."
+]
+},
+{
+"q": "Uma mulher de 32 anos, lúcida e capaz, procura a UBS com hematomas e relata agressões do companheiro. Pede à enfermeira que não chame a polícia. Ela mora sozinha com o agressor, que a ameaçou de morte na véspera. Considerando o art. 52 do Código de Ética, como deve agir a enfermeira quanto à comunicação aos órgãos de responsabilização criminal?",
+"alts": [
+"Comunicar de imediato, sem informá-la, por toda violência contra mulher",
+"Manter o sigilo, pois falta a autorização escrita da própria vítima",
+"Comunicar depois de obter autorização do companheiro ou de um familiar",
+"Comunicar, havendo risco à vítima, só com conhecimento prévio dela",
+"Encaminhar o caso ao Conselho Tutelar, que decide se aciona a polícia"
+],
+"gab": 3,
+"tema": "etica",
+"sub": "Código de Ética dos Profissionais de Enfermagem",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r3",
+"base": "Res. COFEN 564/2017 (Código de Ética), art. 52, §§ 4º e 5º; Lei 10.778/2003",
+"coment": "Na violência doméstica contra mulher adulta e capaz, o art. 52, § 5º, do Código de Ética prevê a comunicação aos órgãos de responsabilização criminal quando há risco à comunidade ou à vítima, a juízo do profissional e com conhecimento prévio da vítima. A ameaça de morte na véspera, com convivência diária com o agressor, configura esse risco. Diferente do § 4º, que vale para criança, adolescente, idoso e incapaz, aqui a mulher deve saber da comunicação antes. Isso não se confunde com a notificação compulsória da violência contra a mulher, prevista na Lei 10.778/2003, que é outro dever.",
+"porAlt": [
+"Para mulher adulta e capaz, a comunicação exige conhecimento prévio dela (§ 5º).",
+"O § 5º prevê a comunicação diante de risco, sem exigir autorização escrita.",
+"Familiares e agressor não autorizam nem impedem a comunicação do profissional.",
+"Correta: com risco à vítima, comunica-se com conhecimento prévio dela (art. 52, § 5º).",
+"Conselho Tutelar cuida de criança e adolescente, não de mulher adulta."
+]
+},
+{
+"q": "Na classificação de risco de um pronto-socorro, dois pacientes recebem a mesma cor e a mesma prioridade. A técnica de enfermagem chama primeiro o paciente que tem plano de saúde e deixa por último um homem em situação de rua, que chegou antes. Qual princípio da bioética principialista é violado, na forma como o Código de Ética o traduz?",
+"alts": [
+"Autonomia, expressa no respeito à recusa do paciente",
+"Justiça, expressa na assistência sem discriminação",
+"Beneficência, expressa no dever de fazer o bem",
+"Não maleficência, expressa na assistência livre de danos",
+"Autonomia, expressa no consentimento prévio do paciente"
+],
+"gab": 1,
+"tema": "etica",
+"sub": "Bioética e direitos do paciente",
+"cenario": "emg",
+"comp": "norma",
+"nivel": "r1",
+"base": "Res. COFEN 564/2017 (Código de Ética), arts. 40, 41, 42, 45 e 50",
+"coment": "A bioética principialista de Beauchamp e Childress trabalha com quatro princípios: autonomia, beneficência, não maleficência e justiça. O Código de Ética os traduz em artigos: autonomia no respeito à recusa, às diretivas antecipadas e ao consentimento (arts. 40, 42 e 50); beneficência e não maleficência na assistência livre de danos (arts. 45, 78 e 80); justiça na assistência sem discriminação (art. 41). Inverter a ordem entre pacientes de mesma prioridade por causa do plano de saúde ou da condição social viola a justiça, que pede distribuição equitativa do cuidado.",
+"porAlt": [
+"Nenhum paciente recusou cuidado; a autonomia não está em jogo no caso.",
+"Correta: preterir pela condição social viola a justiça, assistência sem discriminação (art. 41).",
+"O problema é a ordem desigual entre pacientes iguais, matéria de justiça.",
+"Não houve dano técnico direto; a falha é a discriminação no acesso ao cuidado.",
+"O consentimento não foi negado; a falha foi tratar iguais de forma desigual."
+]
+},
+{
+"q": "Numa unidade de internação, uma técnica de enfermagem passa a escrever no prontuário uma evolução de enfermagem diária, com análise dos diagnósticos e julgamento da resposta do paciente ao plano de cuidados, porque a enfermeira está sobrecarregada. Pela Res. COFEN 736/2024, como se distribuem esses registros entre as categorias?",
+"alts": [
+"A evolução pode ser feita pelo técnico, desde que a enfermeira a revise e assine",
+"Todos os registros do Processo de Enfermagem cabem a qualquer membro da equipe",
+"A evolução é do técnico, e ao enfermeiro cabem só o diagnóstico e a prescrição",
+"A evolução é do enfermeiro; à equipe cabem a anotação, a checagem e outros registros",
+"A evolução é dispensável quando a anotação de enfermagem está completa no turno"
+],
+"gab": 3,
+"tema": "etica",
+"sub": "Registro e documentação de enfermagem",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r1",
+"base": "Res. COFEN 736/2024 (Processo de Enfermagem), arts. 6º a 8º; Res. COFEN 564/2017, art. 88",
+"coment": "A Res. COFEN 736/2024, que revogou a 358/2009, organiza o Processo de Enfermagem em cinco etapas e distribui os registros. Ao enfermeiro cabe o registro de todas as etapas do processo, incluída a evolução, e o Diagnóstico e a Prescrição de Enfermagem são privativos dele (art. 6º). Técnicos e auxiliares participam com a Anotação de Enfermagem, a implementação e a checagem, sob supervisão (arts. 7º e 8º). A sobrecarga não autoriza transferir a evolução, e assinar depois o texto escrito pela técnica seria assinar o que não executou (Res. COFEN 564/2017, art. 88).",
+"porAlt": [
+"Revisar e assinar o texto da técnica seria assinar o que a enfermeira não executou (art. 88).",
+"O registro das etapas do Processo de Enfermagem cabe ao enfermeiro (art. 8º).",
+"A evolução é etapa do Processo de Enfermagem, registrada pelo enfermeiro.",
+"Correta: o enfermeiro registra as etapas do processo; a equipe faz anotação e checagem (art. 8º).",
+"A anotação da equipe não substitui a evolução, que é etapa do processo."
+]
+},
+{
+"q": "Às 7 h, para adiantar a passagem de plantão, um técnico de enfermagem checa na prescrição as medicações das 8 h e das 10 h de seus pacientes, que ainda pretende administrar no horário. A enfermeira percebe a prática durante a ronda. Segundo o Código de Ética, como se classifica essa conduta?",
+"alts": [
+"Permitida, desde que as medicações sejam de fato administradas depois",
+"Infração, pois checar antes de fazer é registrar o que não executou",
+"Permitida, se o técnico anotar a hora real na passagem de plantão",
+"Permitida, salvo se algum paciente deixar de receber a medicação",
+"Permitida para medicações orais, vedada para as intravenosas"
+],
+"gab": 1,
+"tema": "etica",
+"sub": "Registro e documentação de enfermagem",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r1",
+"base": "Res. COFEN 564/2017 (Código de Ética), arts. 36, 87 e 88",
+"coment": "Checar é registrar que a medicação foi administrada. O Código de Ética proíbe registrar informações incompletas, imprecisas ou inverídicas (art. 87) e assinar as ações de enfermagem que não executou (art. 88), e exige registro claro, cronológico e completo (art. 36). Checar às 7 h medicações das 8 h e das 10 h é registrar o que ainda não foi feito, mesmo que depois seja. A infração existe independentemente de dano, e a via de administração não muda a regra. O correto é checar logo após administrar, no horário real.",
+"porAlt": [
+"Administrar depois não corrige o registro feito antes do ato (art. 88).",
+"Correta: checar antes de administrar é registrar ação que não executou (art. 88).",
+"A passagem de plantão não corrige a checagem antecipada no prontuário.",
+"A infração de registro existe mesmo sem dano ao paciente.",
+"A regra vale para qualquer via: só se checa o que já foi administrado."
+]
+},
+{
+"q": "Numa auditoria de prontuários da clínica médica, a comissão encontra anotações de enfermagem com abreviações criadas pela própria equipe, horários fora de ordem, letra ilegível e trechos riscados. Para orientar a equipe, a enfermeira auditora cita o art. 36 do Código de Ética. Quais atributos esse artigo exige do registro?",
+"alts": [
+"Claro, objetivo, cronológico, legível, completo e sem rasuras",
+"Resumido, subjetivo, cronológico, legível e com abreviações livres",
+"Claro, objetivo, legível e completo, admitindo rasura rubricada",
+"Detalhado, interpretativo, organizado por turno e em letra de forma",
+"Objetivo, legível e sem rasuras, em qualquer ordem de horário"
+],
+"gab": 0,
+"tema": "etica",
+"sub": "Registro e documentação de enfermagem",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r1",
+"base": "Res. COFEN 564/2017 (Código de Ética), arts. 35 a 37 e 87",
+"coment": "O art. 36 do Código de Ética impõe registrar no prontuário as informações da assistência de forma clara, objetiva, cronológica, legível, completa e sem rasuras. Abreviações próprias da equipe comprometem a clareza, horários fora de ordem quebram a cronologia, e trechos riscados são rasuras. O art. 35 exige a identificação do profissional nos documentos, o art. 37 manda documentar o Processo de Enfermagem e o art. 87 proíbe registro incompleto, impreciso ou inverídico. A auditoria aponta, portanto, falhas em quatro dos atributos do art. 36.",
+"porAlt": [
+"Correta: o art. 36 exige registro claro, objetivo, cronológico, legível, completo e sem rasuras.",
+"Abreviações livres e subjetividade contrariam a clareza e a objetividade do art. 36.",
+"O art. 36 exige registro sem rasuras, e a rubrica ao lado não as autoriza.",
+"O art. 36 pede objetividade e cronologia, não registro interpretativo por turno.",
+"A ordem cronológica é atributo exigido pelo art. 36, assim como a completude."
+]
+},
+{
+"q": "Na passagem de plantão de uma enfermaria, uma auxiliar de enfermagem diz que não anota no prontuário os curativos e as medicações que faz, porque considera o registro tarefa exclusiva do enfermeiro. Ela apenas informa verbalmente à enfermeira. Segundo o Decreto 94.406/1987, qual é a regra sobre esse registro?",
+"alts": [
+"O registro é exclusivo do enfermeiro, que anota o que a auxiliar informar",
+"A auxiliar fica dispensada de anotar em prontuário de papel, sem certificado",
+"A auxiliar anota apenas intercorrências, dispensado o registro de rotina",
+"A informação verbal basta, desde que repetida na passagem de plantão",
+"Todos os profissionais anotam no prontuário as atividades que executam"
+],
+"gab": 4,
+"tema": "etica",
+"sub": "Registro e documentação de enfermagem",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r1",
+"base": "Decreto 94.406/1987, art. 14, II; Res. COFEN 736/2024, art. 8º; Res. COFEN 564/2017, art. 88",
+"coment": "O art. 14 do Decreto 94.406/1987 vale para todas as categorias de enfermagem: cumprir e fazer cumprir o Código de Deontologia e anotar no prontuário do paciente as atividades da assistência. A Res. COFEN 736/2024 (art. 8º) confirma que a Anotação de Enfermagem, a checagem e os demais registros cabem à equipe. Se a enfermeira registrasse o que a auxiliar fez, estaria assinando ação que não executou (Res. COFEN 564/2017, art. 88). A informação verbal na passagem de plantão é útil, mas não substitui o registro.",
+"porAlt": [
+"Quem executa anota; o enfermeiro não registra por ela o que não fez (art. 88).",
+"O dever de anotar independe do tipo de prontuário, papel ou eletrônico.",
+"As atividades de rotina também são anotadas, não só as intercorrências.",
+"Informação verbal não substitui o registro no prontuário.",
+"Correta: todas as categorias anotam no prontuário as atividades da assistência (art. 14)."
+]
+},
+{
+"q": "Um hospital implanta prontuário eletrônico em que a equipe de enfermagem assina os registros com login e senha individuais, sem certificado digital ICP-Brasil, e anuncia que vai abolir o papel por completo. A gerente de enfermagem consulta a Res. COFEN 754/2024 antes de aprovar o plano. O que a resolução determina?",
+"alts": [
+"Proíbe o prontuário eletrônico, mantendo o papel como único meio válido",
+"Admite abolir o papel com login e senha, sem qualquer outra exigência",
+"Sem assinatura qualificada ICP-Brasil, os registros são impressos e assinados",
+"Exige certificado ICP-Brasil comprado por cada profissional da instituição",
+"Libera o meio digital para técnicos, mantendo o papel para o enfermeiro"
+],
+"gab": 2,
+"tema": "etica",
+"sub": "Registro e documentação de enfermagem",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Res. COFEN 754/2024 (registro e prontuário eletrônico), arts. 1º, 2º e 4º",
+"coment": "A Res. COFEN 754/2024, que revogou a 429/2012, mantém o registro como dever, em papel ou meio eletrônico (art. 1º). O prontuário totalmente digital é permitido com assinatura qualificada no padrão ICP-Brasil; sem cumprir as exigências de assinatura, os registros devem ser impressos e assinados (art. 2º). Login e senha individuais e intransferíveis são admitidos quando o sistema não cumpre as regras do prontuário eletrônico, mas não autorizam eliminar o papel. Com prontuário eletrônico institucional, o certificado não é comprado pelo profissional (art. 4º).",
+"porAlt": [
+"A resolução admite o prontuário eletrônico e até o totalmente digital (art. 2º).",
+"Abolir o papel exige assinatura qualificada ICP-Brasil, não só login e senha.",
+"Correta: sem assinatura ICP-Brasil, os registros são impressos e assinados (art. 2º).",
+"No prontuário institucional, o certificado não é custeado pelo profissional (art. 4º).",
+"As regras de assinatura valem igualmente para todas as categorias."
+]
+},
+{
+"q": "Uma enfermeira da atenção primária passa a fazer teleconsultas de acompanhamento de pessoas com diabetes, por plataforma contratada pelo município. Ela pergunta à coordenação como devem ser a plataforma e o registro desses atendimentos. Pela Res. COFEN 754/2024, qual é a orientação correta?",
+"alts": [
+"Plataforma com sigilo e níveis de acesso, e registro segundo a Res. 736/2024",
+"Plataforma livre e registro dispensado, pois a teleconsulta fica gravada",
+"Registro no aplicativo de mensagens, dispensando o prontuário do paciente",
+"Registro só da prescrição, dispensadas as demais etapas do processo",
+"Plataforma aberta a toda a equipe, sem níveis de acesso, para agilizar"
+],
+"gab": 0,
+"tema": "etica",
+"sub": "Registro e documentação de enfermagem",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Res. COFEN 754/2024, arts. 1º e 5º a 7º; Res. COFEN 736/2024",
+"coment": "A Res. COFEN 754/2024 dedica os arts. 5º a 7º à telenfermagem: as plataformas devem garantir o sigilo das informações e níveis de acesso, e os registros dos atendimentos seguem a Res. COFEN 736/2024, que organiza o Processo de Enfermagem em avaliação, diagnóstico, planejamento, implementação e evolução. A teleconsulta é consulta de enfermagem e exige registro completo, como a presencial. Gravação ou conversa em aplicativo não substituem o prontuário, e o sigilo compartilhado segue a LGPD (art. 1º).",
+"porAlt": [
+"Correta: plataforma com sigilo e níveis de acesso, e registro conforme a Res. 736/2024.",
+"A teleconsulta exige registro no prontuário, e a gravação não o substitui.",
+"Conversa em aplicativo não substitui o registro do Processo de Enfermagem.",
+"O registro segue a Res. 736/2024, com todas as etapas do processo.",
+"A resolução exige que a plataforma garanta níveis de acesso e sigilo."
+]
+},
+{
+"q": "Uma enfermeira estomaterapeuta abre consultório próprio e passa a atender de forma autônoma, com prontuário totalmente digital. Ao mesmo tempo, mantém vínculo com um hospital que adota prontuário eletrônico institucional. Pela Res. COFEN 754/2024, quem deve custear o certificado digital de assinatura em cada serviço?",
+"alts": [
+"O COREN, nos dois serviços, por ser o responsável pela fiscalização",
+"A enfermeira, nos dois serviços, por ser pessoal o certificado digital",
+"O hospital, nos dois serviços, por ser o vínculo empregatício principal",
+"A enfermeira no consultório; no hospital, não cabe a ela comprar",
+"O hospital no consultório e a enfermeira no hospital, por reciprocidade"
+],
+"gab": 3,
+"tema": "etica",
+"sub": "Registro e documentação de enfermagem",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r3",
+"base": "Res. COFEN 754/2024, arts. 2º e 4º",
+"coment": "Pelo art. 2º da Res. COFEN 754/2024, o prontuário totalmente digital exige assinatura qualificada no padrão ICP-Brasil. O art. 4º define quem arca com o certificado: quando a instituição adota prontuário eletrônico, não cabe ao profissional comprar o certificado; na atuação autônoma, cabe ao próprio enfermeiro. Assim, no consultório a estomaterapeuta adquire seu certificado, e no hospital a responsabilidade não é dela. A resolução não atribui esse custo ao conselho.",
+"porAlt": [
+"A resolução não atribui ao COREN o custeio do certificado.",
+"No prontuário institucional, não cabe ao profissional comprar o certificado (art. 4º).",
+"Na atuação autônoma, o certificado é responsabilidade do próprio enfermeiro.",
+"Correta: autônoma, a enfermeira compra; no hospital, não cabe a ela (art. 4º).",
+"A regra é a inversa: o autônomo compra, e na instituição o profissional não compra."
+]
+},
+{
+"q": "Um homem de 30 anos chega ao pronto-socorro inconsciente após colisão de moto, sem documentos, acompanhante ou diretiva antecipada conhecida. Está com hemorragia ativa e precisa de acesso venoso calibroso e de procedimentos imediatos. Segundo o Código de Ética, como a equipe de enfermagem deve proceder quanto ao consentimento?",
+"alts": [
+"Aguardar a chegada de um familiar para obter o consentimento formal e escrito",
+"Agir para preservar a vida, pois o iminente risco de morte é exceção legal",
+"Pedir autorização judicial antes de qualquer procedimento invasivo",
+"Fazer só o acesso venoso e aguardar consentimento para o restante",
+"Aguardar o paciente recuperar a consciência e consentir por escrito"
+],
+"gab": 1,
+"tema": "etica",
+"sub": "Bioética e direitos do paciente",
+"cenario": "emg",
+"comp": "norma",
+"nivel": "r1",
+"base": "Res. COFEN 564/2017 (Código de Ética), arts. 50 e 77",
+"coment": "O Código de Ética exige consentimento prévio do paciente, de seu representante ou decisão judicial (art. 50), ressalvada a pessoa sem capacidade e sem representante, e proíbe executar procedimento sem consentimento formal, exceto em iminente risco de morte (art. 77). O paciente inconsciente, sem acompanhante nem diretiva e com hemorragia ativa, está nessa exceção: a equipe age para preservar a vida e registra a situação e as condutas no prontuário. Esperar família, juiz ou recuperação da consciência poderia custar a vida dele.",
+"porAlt": [
+"Esperar familiar atrasa conduta vital; o risco iminente excepciona o consentimento.",
+"Correta: no iminente risco de morte, o procedimento é feito sem consentimento (art. 77).",
+"A exceção do art. 77 dispensa autorização judicial no risco iminente de morte.",
+"Todos os procedimentos imediatos estão cobertos pela exceção do risco de morte.",
+"Esperar a consciência voltar poderia custar a vida do paciente."
+]
+},
+{
+"q": "Uma mulher de 45 anos, Testemunha de Jeová, lúcida e capaz, internada para histerectomia eletiva com anemia, recusa por escrito qualquer transfusão de sangue, depois de informada dos riscos e das alternativas disponíveis. A técnica de enfermagem pergunta à enfermeira se devem insistir até ela aceitar. À luz do Código de Ética e do STF, qual é a conduta?",
+"alts": [
+"Insistir na transfusão, pois a vida prevalece sobre a crença religiosa",
+"Transfundir após sedação, se a hemoglobina cair abaixo do limite seguro",
+"Pedir autorização judicial para transfundir, mesmo sem risco iminente",
+"Suspender toda a assistência, pois a paciente recusou o tratamento indicado",
+"Respeitar a recusa, registrá-la e manter os demais cuidados e alternativas"
+],
+"gab": 4,
+"tema": "etica",
+"sub": "Bioética e direitos do paciente",
+"cenario": "cc",
+"comp": "cuid",
+"nivel": "r3",
+"base": "Res. COFEN 564/2017 (Código de Ética), arts. 40, 42, 50 e 77; STF, Tema 952 (RE 979.742) e Tema 1069 (RE 1.212.272), julgados em 25/09/2024",
+"coment": "O Código de Ética manda respeitar a recusa do paciente (art. 40) e as diretivas antecipadas (art. 42) e exige consentimento prévio (art. 50). Em 25/09/2024, o STF fixou no Tema 952 que Testemunhas de Jeová maiores e capazes podem recusar procedimento com transfusão, com direito aos procedimentos alternativos do SUS, e no Tema 1069 que a recusa deve ser inequívoca, livre, informada e esclarecida. A equipe registra a recusa e a orientação dada e mantém os demais cuidados. Transfundir sob sedação seria procedimento sem consentimento (art. 77).",
+"porAlt": [
+"Adulta capaz e informada pode recusar transfusão (STF, Tema 952).",
+"Transfundir sob sedação seria procedimento sem consentimento (art. 77).",
+"Sem risco iminente e com recusa válida, não cabe buscar autorização judicial.",
+"A recusa de um procedimento não autoriza abandonar os demais cuidados.",
+"Correta: recusa válida é respeitada e registrada, mantendo os demais cuidados."
+]
+},
+{
+"q": "Uma mulher de 82 anos com demência avançada é internada na UTI por pneumonia. No prontuário há diretiva antecipada registrada quando ela era capaz, recusando intubação e reanimação e pedindo cuidados de conforto. O filho, recém-chegado, exige que a equipe faça tudo para mantê-la viva. Segundo o Código de Ética, como deve se posicionar a enfermagem?",
+"alts": [
+"Seguir o pedido do filho, pois o representante legal sempre prevalece",
+"Iniciar todas as medidas e acionar a justiça para decidir o conflito",
+"Respeitar a diretiva antecipada e garantir os cuidados paliativos",
+"Suspender todos os cuidados, inclusive conforto, conforme a diretiva",
+"Ignorar a diretiva, pois documento antigo perde a validade na demência"
+],
+"gab": 2,
+"tema": "etica",
+"sub": "Bioética e direitos do paciente",
+"cenario": "uti",
+"comp": "cuid",
+"nivel": "r3",
+"base": "Res. COFEN 564/2017 (Código de Ética), arts. 42, 48 e 74",
+"coment": "O Código de Ética manda respeitar as diretivas antecipadas da pessoa (art. 42, parágrafo único). Quando a paciente não pode mais decidir e há diretiva registrada enquanto era capaz, segue-se a diretiva. Em doença grave incurável, o art. 48 impõe oferecer cuidados paliativos, e o art. 74 proíbe antecipar a morte. Respeitar a recusa de intubação e reanimação não é abandonar: conforto, controle de sintomas e acolhimento da família continuam, e a equipe dialoga com o filho, envolve a equipe médica e registra as condutas.",
+"porAlt": [
+"A diretiva expressa a vontade da paciente e deve ser respeitada (art. 42).",
+"Havendo diretiva válida, a equipe a segue, sem iniciar medidas recusadas.",
+"Correta: respeita-se a diretiva antecipada e se garantem cuidados paliativos (arts. 42 e 48).",
+"Recusar intubação não é recusar conforto; os cuidados paliativos continuam.",
+"A diretiva foi feita quando ela era capaz e vale justamente para este momento."
+]
+},
+{
+"q": "Em 2026, a comissão de Processo de Enfermagem de um hospital geral revisa o impresso de admissão, elaborado em 2015, que organiza o cuidado em cinco campos: Histórico, Diagnóstico, Planejamento, Implementação e Avaliação de Enfermagem. A coordenação pede que o impresso siga a norma vigente. Qual ajuste é necessário?",
+"alts": [
+"Manter os cinco nomes, pois a norma vigente preservou os termos de 2009.",
+"Acrescentar o Prognóstico de Enfermagem como sexta etapa, após a Avaliação.",
+"Renomear Histórico para Avaliação e a Avaliação final para Evolução.",
+"Fundir Diagnóstico e Planejamento numa única etapa chamada Prescrição.",
+"Excluir a Implementação, que passou a ser registrada pela equipe técnica."
+],
+"gab": 2,
+"tema": "sae",
+"sub": "Etapas do Processo de Enfermagem",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução COFEN 736/2024, arts. 4º e 14 (revoga a Resolução COFEN 358/2009)",
+"coment": "A Resolução COFEN 736/2024 revogou a 358/2009 (art. 14) e manteve cinco etapas, com duas trocas de nome. A primeira etapa, antes chamada Coleta de dados ou Histórico de Enfermagem, passou a se chamar Avaliação de Enfermagem: entrevista e exame físico, inicial e contínua. A última, que na 358 se chamava Avaliação, passou a se chamar Evolução de Enfermagem: análise dos resultados alcançados e revisão de todo o processo. Diagnóstico, Planejamento e Implementação mantiveram o nome. O impresso de 2015 precisa trocar Histórico por Avaliação e Avaliação por Evolução, sem acrescentar nem fundir etapas.",
+"porAlt": [
+"Errada: a 736/2024 mudou o nome da primeira e da última etapa; os termos de 2009 não foram preservados.",
+"Errada: prognóstico era fase do processo de Horta; a resolução vigente tem cinco etapas, não seis.",
+"Correta: a primeira etapa virou Avaliação de Enfermagem e a última, Evolução de Enfermagem.",
+"Errada: Diagnóstico e Planejamento continuam etapas distintas; a prescrição é elemento do Planejamento.",
+"Errada: a Implementação segue como quarta etapa, executada pela equipe e registrada no prontuário."
+]
+},
+{
+"q": "Na clínica médica, um técnico de enfermagem cuida de um homem de 77 anos acamado após AVC. A prescrição de enfermagem do dia inclui mudança de decúbito a cada duas horas e hidratação da pele. Durante o plantão, o técnico nota hiperemia que desaparece à digitopressão na região sacral. Qual conduta do técnico está de acordo com a Resolução COFEN 736/2024?",
+"alts": [
+"Executar o cuidado prescrito, checar, anotar o achado e comunicar ao enfermeiro.",
+"Reduzir por conta própria o intervalo de mudança de decúbito para uma hora.",
+"Registrar o diagnóstico Risco de lesão por pressão no adulto no prontuário.",
+"Redigir a evolução de enfermagem do dia, pois foi quem acompanhou o paciente.",
+"Suspender a hidratação da pele até a avaliação do enfermeiro pela manhã."
+],
+"gab": 0,
+"tema": "sae",
+"sub": "Etapas do Processo de Enfermagem",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução COFEN 736/2024, arts. 6º, 7º e 8º; Lei 7.498/1986, art. 15",
+"coment": "Pelo art. 7º da Resolução COFEN 736/2024, técnicos e auxiliares participam do Processo de Enfermagem com a Anotação de Enfermagem, a implementação dos cuidados prescritos e a checagem, sob supervisão e orientação do enfermeiro (Lei 7.498/1986, art. 15). Diagnóstico e Prescrição de Enfermagem são privativos do enfermeiro (art. 6º), e o art. 8º atribui ao enfermeiro o registro de todas as etapas, inclusive a evolução. O técnico executa o que foi prescrito, checa, descreve o achado na anotação e comunica ao enfermeiro, que reavalia a pele e decide se o diagnóstico ou a prescrição devem mudar.",
+"porAlt": [
+"Correta: execução, checagem e anotação são a participação do técnico no PE, com comunicação ao enfermeiro.",
+"Errada: alterar a frequência de um cuidado é modificar a prescrição de enfermagem, ato privativo do enfermeiro.",
+"Errada: formular diagnóstico de enfermagem é privativo do enfermeiro pelo art. 6º da Resolução 736/2024.",
+"Errada: a evolução de enfermagem é registro do enfermeiro; ao técnico cabe a anotação de enfermagem.",
+"Errada: suspender cuidado prescrito sem decisão do enfermeiro interrompe a prescrição e atrasa a reavaliação."
+]
+},
+{
+"q": "Uma enfermeira de clínica cirúrgica identifica, num homem de 50 anos no primeiro dia após laparotomia, os diagnósticos Dor aguda e Mobilidade física prejudicada. No plano, registra resultados mensuráveis com prazo e prescreve intervenções com horário, mas não indica qual diagnóstico será abordado primeiro. Pela Resolução COFEN 736/2024, que elemento do Planejamento ficou incompleto?",
+"alts": [
+"Coleta de dados subjetivos e objetivos.",
+"Checagem da execução da prescrição pela equipe.",
+"Análise dos resultados alcançados no plantão.",
+"Priorização dos diagnósticos de enfermagem.",
+"Inclusão da prescrição médica no plano."
+],
+"gab": 3,
+"tema": "sae",
+"sub": "Etapas do Processo de Enfermagem",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução COFEN 736/2024, art. 4º, § 3º",
+"coment": "O § 3º do art. 4º da Resolução COFEN 736/2024 estabelece que o Planejamento de Enfermagem envolve três elementos: priorização de Diagnósticos de Enfermagem; determinação de resultados quantitativos e/ou qualitativos esperados e exequíveis; e tomada de decisão terapêutica, declarada pela prescrição de enfermagem. A enfermeira cumpriu os dois últimos e omitiu a priorização. No caso, a dor que limita a deambulação tende a ser prioridade, porque o controle dela permite progredir a mobilidade. Coleta de dados é Avaliação, checagem é Implementação, análise de resultados é Evolução, e a prescrição médica não integra o planejamento de enfermagem.",
+"porAlt": [
+"Errada: coleta de dados subjetivos e objetivos é a etapa de Avaliação de Enfermagem, não elemento do Planejamento.",
+"Errada: a checagem da execução pertence à Implementação, conforme o § 4º do art. 4º.",
+"Errada: a análise dos resultados alcançados é a Evolução de Enfermagem, quinta etapa.",
+"Correta: priorizar os diagnósticos é o primeiro elemento do Planejamento no § 3º do art. 4º.",
+"Errada: a prescrição médica não é elemento do planejamento de enfermagem; foi distrator na EBSERH 2024."
+]
+},
+{
+"q": "Na UTI, a enfermeira prescreve higiene oral com horário para um paciente intubado, conduz com a fisioterapia o protocolo de desmame ventilatório e, por rotina aprovada pela instituição, solicita exames de controle. Segundo os padrões da Implementação na Resolução COFEN 736/2024, o cuidado no desmame, feito em conjunto com a fisioterapia, corresponde a qual padrão?",
+"alts": [
+"Padrão de cuidados autônomos do enfermeiro.",
+"Padrão de cuidados interprofissionais.",
+"Padrão de cuidados em programas de saúde.",
+"Cuidado delegado pela prescrição médica.",
+"Atividade da fisioterapia, alheia ao PE."
+],
+"gab": 1,
+"tema": "sae",
+"sub": "Etapas do Processo de Enfermagem",
+"cenario": "uti",
+"comp": "norma",
+"nivel": "r2",
+"base": "Resolução COFEN 736/2024, art. 4º, § 4º, incisos I a III",
+"coment": "O § 4º do art. 4º da Resolução COFEN 736/2024 apoia a Implementação em três padrões. O inciso I trata dos cuidados autônomos, prescritos pelo enfermeiro de forma independente e executados por enfermeiro, técnico ou auxiliar conforme a competência: a higiene oral do caso. O inciso II trata dos cuidados interprofissionais, colaborativos com as demais profissões de saúde: o desmame conduzido com a fisioterapia. O inciso III trata dos cuidados advindos de protocolos, como prescrição de medicamentos padronizados em programas e rotinas aprovadas e solicitação de exames de rotina e complementares: os exames do caso. A implementação não se restringe às ações autônomas.",
+"porAlt": [
+"Errada: autônomo é o cuidado prescrito pelo enfermeiro de forma independente, como a higiene oral do caso.",
+"Correta: cuidados colaborativos com outras profissões, como o desmame com a fisioterapia, são o padrão do inciso II.",
+"Errada: o padrão de programas de saúde abrange protocolos, como a solicitação de exames por rotina aprovada.",
+"Errada: a norma não classifica o cuidado colaborativo como mera delegação; ele integra a Implementação de Enfermagem.",
+"Errada: a resolução inclui expressamente os cuidados colaborativos com outras profissões na Implementação."
+]
+},
+{
+"q": "Durante auditoria de prontuários eletrônicos, a comissão de ética de enfermagem de um hospital encontra pacientes sem anotação de enfermagem dos técnicos, justificada pela chefia com o argumento de que 'o Processo de Enfermagem é documentado pelo enfermeiro'. Segundo o art. 8º da Resolução COFEN 736/2024, como se distribui a documentação?",
+"alts": [
+"O enfermeiro registra; técnicos e auxiliares comunicam o executado verbalmente.",
+"O técnico registra a evolução; o enfermeiro registra o diagnóstico e a prescrição.",
+"Cada categoria registra no prontuário físico, pois o eletrônico não tem validade.",
+"O enfermeiro registra o diagnóstico; a equipe registra as demais etapas do processo.",
+"O enfermeiro registra todas as etapas; a equipe faz anotação, checagem e registros próprios."
+],
+"gab": 4,
+"tema": "sae",
+"sub": "Etapas do Processo de Enfermagem",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução COFEN 736/2024, art. 8º; Decreto 94.406/1987, art. 14",
+"coment": "O art. 8º da Resolução COFEN 736/2024 determina que a documentação do Processo de Enfermagem seja feita formalmente no prontuário do paciente, físico ou eletrônico, cabendo ao enfermeiro o registro de todas as suas etapas e aos membros da equipe de enfermagem a Anotação de Enfermagem, a checagem da prescrição e a documentação de outros registros próprios da enfermagem. O Decreto 94.406/1987, art. 14, já incumbia a todo o pessoal de enfermagem anotar no prontuário as atividades da assistência. A justificativa da chefia contraria a norma: a ausência de anotação dos técnicos é falha de registro.",
+"porAlt": [
+"Errada: a resolução atribui à equipe a anotação e a checagem; comunicação verbal não substitui o registro.",
+"Errada: a evolução de enfermagem cabe ao enfermeiro, que registra todas as etapas do processo.",
+"Errada: o art. 8º admite expressamente o prontuário físico ou eletrônico.",
+"Errada: o enfermeiro registra todas as etapas, e não apenas o diagnóstico.",
+"Correta: é a divisão do art. 8º, que mantém a anotação e a checagem como deveres da equipe."
+]
+},
+{
+"q": "Uma mulher de 69 anos está internada na unidade de AVC. A cada turno, a equipe reaplica a Escala de Coma de Glasgow e a Escala de Braden, e o enfermeiro entrevista a acompanhante sobre aceitação da dieta e eliminações. Pela Resolução COFEN 736/2024, essa coleta repetida de dados pertence a qual etapa do Processo de Enfermagem?",
+"alts": [
+"Implementação, pois as escalas são aplicadas pela equipe.",
+"Diagnóstico, pois o escore da escala já define o rótulo.",
+"Avaliação de Enfermagem, que é inicial e contínua.",
+"Planejamento, pois o escore define a prioridade do plano.",
+"Histórico de Enfermagem, restrito à admissão."
+],
+"gab": 2,
+"tema": "sae",
+"sub": "Etapas do Processo de Enfermagem",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r1",
+"base": "Resolução COFEN 736/2024, art. 4º, § 1º",
+"coment": "O § 1º do art. 4º da Resolução COFEN 736/2024 define a Avaliação de Enfermagem como a coleta de dados subjetivos (entrevista) e objetivos (exame físico), inicial e contínua, com auxílio de técnicas como exames, testes clínicos, escalas de avaliação validadas e protocolos institucionais. Reaplicar Glasgow e Braden a cada turno e entrevistar a acompanhante são, portanto, Avaliação, e não apenas a coleta da admissão. O escore de uma escala é dado que o enfermeiro interpreta para formular o diagnóstico; ele não substitui o julgamento clínico. Histórico era o nome da primeira etapa na Resolução 358/2009, revogada.",
+"porAlt": [
+"Errada: quem aplica a escala não muda a natureza da ação; coletar dados com escalas é Avaliação de Enfermagem.",
+"Errada: o escore é dado para o julgamento clínico; o diagnóstico é formulado pelo enfermeiro a partir dele.",
+"Correta: o § 1º do art. 4º define a Avaliação como inicial e contínua, com escalas validadas.",
+"Errada: o planejamento usa os dados da avaliação, mas coletá-los não é elemento do Planejamento.",
+"Errada: Histórico era o nome usado pela Resolução 358/2009, e a coleta não se restringe à admissão."
+]
+},
+{
+"q": "Após artroplastia de quadril, um homem de 71 anos tem como resultado esperado deambular 20 metros com andador até o terceiro dia. No terceiro dia, caminha 5 metros, refere dor 6 em 10 e recusou duas sessões de deambulação, registradas como não realizadas na checagem. Na Evolução de Enfermagem, qual conduta é adequada?",
+"alts": [
+"Encerrar o diagnóstico, pois houve alguma melhora da marcha.",
+"Registrar o resultado parcial e rever diagnóstico, meta e prescrição.",
+"Manter o plano sem mudanças até a alta hospitalar do paciente.",
+"Delegar ao técnico a redefinição da meta de deambulação diária.",
+"Transferir o problema para a prescrição médica do dia seguinte."
+],
+"gab": 1,
+"tema": "sae",
+"sub": "Etapas do Processo de Enfermagem",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r3",
+"base": "Resolução COFEN 736/2024, art. 4º, §§ 4º e 5º",
+"coment": "A Evolução de Enfermagem compreende a avaliação dos resultados alcançados e permite a análise e a revisão de todo o Processo de Enfermagem (art. 4º, § 5º, da Resolução COFEN 736/2024). O resultado foi alcançado só em parte. A checagem, parte da Implementação (§ 4º), mostra que duas sessões não foram feitas, e a dor moderada aparece como fator que limita a mobilidade. O enfermeiro registra o resultado parcial e revisa o plano: pode incluir controle da dor antes da deambulação, reavaliar o prazo da meta e ajustar a prescrição. Encerrar, manter sem mudança ou transferir a decisão contraria a lógica cíclica do processo.",
+"porAlt": [
+"Errada: o diagnóstico só se encerra quando o resultado esperado é alcançado, o que não ocorreu.",
+"Correta: a evolução compara o obtido com o esperado e revisa diagnóstico, meta e prescrição.",
+"Errada: resultado parcial com fator limitante identificado exige revisão do plano, e não manutenção.",
+"Errada: definir resultados esperados é elemento do Planejamento, de competência do enfermeiro.",
+"Errada: a dor e a mobilidade são respostas humanas que a prescrição de enfermagem deve abordar."
+]
+},
+{
+"q": "A comissão de Processo de Enfermagem de um hospital universitário propõe usar, ao mesmo tempo, a teoria de Horta para o instrumento de admissão, a NANDA-I, a NOC e a NIC para diagnósticos, resultados e intervenções, a Escala de Braden e o protocolo institucional de sepse. Pela Resolução COFEN 736/2024, a proposta está de acordo com a norma?",
+"alts": [
+"Inadequada, pois a norma exige um único referencial teórico.",
+"Inadequada, pois escalas de risco não servem de suporte ao processo.",
+"Adequada se o COREN aprovar antes o referencial adotado.",
+"Adequada, pois os suportes teóricos podem se associar entre si.",
+"Adequada na atenção primária, onde o PE é chamado consulta."
+],
+"gab": 3,
+"tema": "sae",
+"sub": "Etapas do Processo de Enfermagem",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Resolução COFEN 736/2024, arts. 2º e 3º",
+"coment": "O art. 2º da Resolução COFEN 736/2024 determina que o Processo de Enfermagem seja fundamentado em suporte teórico e admite que esses suportes estejam associados entre si: teorias e modelos de cuidado, sistemas de linguagens padronizadas, instrumentos validados de predição de risco e protocolos baseados em evidências. O art. 3º acrescenta que diagnósticos, resultados e intervenções podem se apoiar em linguagens padronizadas e protocolos. A Resolução 358/2009 falava em um suporte teórico; a norma vigente permite a combinação. A proposta da comissão, que une Horta, NNN, Braden e protocolo de sepse, é compatível com a resolução.",
+"porAlt": [
+"Errada: a exigência de um único suporte teórico era a leitura da 358/2009; a 736 admite associação.",
+"Errada: o art. 2º cita expressamente instrumentos validados de predição de risco como suporte.",
+"Errada: a resolução não condiciona a escolha do referencial à aprovação prévia do COREN.",
+"Correta: o art. 2º admite suportes teóricos associados, como teoria, linguagem padronizada, escalas e protocolos.",
+"Errada: o PE é obrigatório em todo contexto de cuidado, e a consulta segue suas etapas em qualquer serviço."
+]
+},
+{
+"q": "O edital de uma residência pede 'etapas da SAE'. Uma candidata que estudou pela Resolução COFEN 358/2009 pergunta à preceptora qual a diferença entre Sistematização da Assistência de Enfermagem (SAE) e Processo de Enfermagem (PE) e como responder à prova. Qual orientação está correta?",
+"alts": [
+"SAE e PE são sinônimos, e as etapas seguem a Resolução COFEN 358/2009.",
+"A 736/2024 criou a SAE como sexta etapa, depois da Evolução.",
+"SAE é o PE da atenção primária; no hospital, chama-se consulta.",
+"O PE é o conjunto de impressos; a SAE é o julgamento clínico.",
+"SAE organizava método, pessoal e instrumentos; etapas seguem a 736."
+],
+"gab": 4,
+"tema": "sae",
+"sub": "Etapas do Processo de Enfermagem",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Resolução COFEN 736/2024, arts. 1º, 4º e 14; Resolução COFEN 358/2009 (revogada)",
+"coment": "Na Resolução COFEN 358/2009, a SAE organizava o trabalho profissional quanto a método, pessoal e instrumentos, tornando possível aplicar o Processo de Enfermagem. A Resolução COFEN 736/2024, que revogou a 358 no art. 14, trata apenas do Processo de Enfermagem: método que orienta o pensamento crítico e o julgamento clínico, com cinco etapas (Avaliação, Diagnóstico, Planejamento, Implementação e Evolução). Os editais, como o Anexo III do ENARE, ainda usam a sigla SAE; na prova, as etapas pedidas são as do PE, respondidas pela norma vigente, e não pela resolução revogada.",
+"porAlt": [
+"Errada: os conceitos eram distintos, e a 358/2009 foi revogada; as etapas vigentes são as da 736/2024.",
+"Errada: a 736/2024 não criou etapa nova; deixou a sigla SAE de lado e tem cinco etapas.",
+"Errada: consulta de enfermagem não é sinônimo de SAE; ela segue as etapas do PE onde ocorrer.",
+"Errada: o PE é o método clínico que orienta o julgamento, e não um conjunto de impressos.",
+"Correta: SAE era a organização do trabalho; as etapas cobradas são as do PE da 736/2024."
+]
+},
+{
+"q": "Ao revisar as anotações do plantão, a enfermeira encontra o registro 'paciente poliqueixoso e difícil' sobre uma mulher de 45 anos internada por pielonefrite. Ela orienta a técnica a reescrever a anotação segundo as recomendações para registro de enfermagem. Qual redação atende a essas recomendações?",
+"alts": [
+"12h: recusou o almoço, referiu náusea; enfermeira comunicada.",
+"12h: paciente difícil, recusando os cuidados durante o turno.",
+"12h: paciente poliqueixosa, sem intercorrências relevantes.",
+"12h: paciente evoluindo bem, mantidos os cuidados prescritos.",
+"12h: paciente não colaborativa, orientada quanto à dieta."
+],
+"gab": 0,
+"tema": "sae",
+"sub": "Etapas do Processo de Enfermagem",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução COFEN 514/2016 (Guia de Recomendações para Registro de Enfermagem); Resolução COFEN 736/2024, art. 8º",
+"coment": "A Anotação de Enfermagem, atribuída à equipe pelo art. 8º da Resolução COFEN 736/2024, é registro descritivo: o que foi observado e feito, quando, com que resposta e a quem foi comunicado. O Guia de Recomendações da Resolução COFEN 514/2016 orienta registros legíveis, cronológicos, com hora e identificação, descrevendo fatos em vez de rótulos de julgamento. Termos como difícil, poliqueixosa ou não colaborativa não informam o que aconteceu e não servem de prova em auditoria ou processo ético. A redação correta traz horário, comportamento observado, queixa referida e comunicação ao enfermeiro.",
+"porAlt": [
+"Correta: descreve fato observado, queixa e comunicação, com horário, como recomenda o guia de registro.",
+"Errada: 'difícil' é rótulo de julgamento e não diz qual cuidado foi recusado nem por quê.",
+"Errada: 'poliqueixosa' rotula a paciente e omite as queixas, que precisam ser descritas.",
+"Errada: 'evoluindo bem' é avaliação genérica sem dado observado e se confunde com a evolução do enfermeiro.",
+"Errada: 'não colaborativa' é rótulo, e a orientação dada não está descrita nem associada a um fato."
+]
+},
+{
+"q": "Em consulta de enfermagem numa unidade básica, a enfermeira acompanha um homem de 34 anos com tuberculose pulmonar em tratamento. Ela prescreve o medicamento do esquema padronizado, conforme o protocolo do programa adotado pelo município, e solicita a baciloscopia de controle. Com que fundamento legal o enfermeiro prescreve esse medicamento?",
+"alts": [
+"Como ato privativo, igual à prescrição da assistência de enfermagem.",
+"Por delegação verbal do médico da equipe, registrada no prontuário.",
+"Como integrante da equipe, em programa de saúde pública ou rotina aprovada.",
+"Pela autonomia plena, dispensando protocolo do programa ou da própria instituição.",
+"Em situação de urgência, quando não houver médico presente na unidade."
+],
+"gab": 2,
+"tema": "sae",
+"sub": "Consulta de enfermagem",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Lei 7.498/1986, art. 11, II, c; Resolução COFEN 736/2024, art. 4º, § 4º, III; Resolução COFEN 801/2026",
+"coment": "A Lei 7.498/1986 separa duas prescrições. A prescrição da assistência de enfermagem é privativa do enfermeiro (art. 11, I) e corresponde à Prescrição de Enfermagem do Processo de Enfermagem. A prescrição de medicamentos está no art. 11, II, alínea c: o enfermeiro a exerce como integrante da equipe de saúde, quando os medicamentos estão estabelecidos em programas de saúde pública e em rotina aprovada pela instituição. A Resolução COFEN 736/2024 repete essa previsão no padrão de cuidados em programas de saúde (art. 4º, § 4º, III), e as diretrizes atuais estão na Resolução COFEN 801/2026, apoiada no mesmo dispositivo legal.",
+"porAlt": [
+"Errada: a prescrição de medicamentos está no inciso II do art. 11, como integrante da equipe, e não entre as privativas.",
+"Errada: o fundamento é a lei e o protocolo do programa, e não uma delegação verbal do médico.",
+"Correta: é a hipótese do art. 11, II, c, da Lei 7.498/1986, retomada no padrão de programas de saúde da 736/2024.",
+"Errada: a prescrição de medicamentos pelo enfermeiro depende de programa de saúde pública ou rotina institucional aprovada.",
+"Errada: a lei não condiciona essa prescrição à urgência nem à ausência do médico; exige programa ou rotina aprovada."
+]
+},
+{
+"q": "Numa reunião de equipe da Estratégia Saúde da Família, um enfermeiro recém-formado afirma que 'consulta de enfermagem é só o nome que o Processo de Enfermagem recebe fora do hospital, então não precisa seguir etapas'. A enfermeira supervisora corrige a afirmação com base na Resolução COFEN 736/2024. O que diz a norma vigente?",
+"alts": [
+"A consulta substitui o PE na atenção primária e dispensa diagnóstico.",
+"A consulta segue as etapas do PE quando houver prescrição de medicamento.",
+"A consulta pode ser feita pelo técnico, desde que validada pelo enfermeiro.",
+"A consulta deve ser organizada e registrada conforme as etapas do PE.",
+"A consulta é registrada só no formato SOAP, que substitui as etapas do PE."
+],
+"gab": 3,
+"tema": "sae",
+"sub": "Consulta de enfermagem",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução COFEN 736/2024, art. 5º; Lei 7.498/1986, art. 11, I, i",
+"coment": "Na Resolução COFEN 358/2009, a consulta de enfermagem era tratada como o nome do Processo de Enfermagem realizado fora do ambiente hospitalar. A Resolução COFEN 736/2024 inverteu a lógica: o art. 5º determina que a consulta de enfermagem seja organizada e registrada conforme as etapas do Processo de Enfermagem, onde quer que ocorra. A consulta continua privativa do enfermeiro (Lei 7.498/1986, art. 11, I, alínea i). O formato SOAP pode ser usado no registro, mas como forma de documentar as etapas, e não como substituto delas.",
+"porAlt": [
+"Errada: a consulta não substitui o PE; ela é organizada pelas etapas dele, incluindo o diagnóstico.",
+"Errada: o art. 5º vale para toda consulta, com ou sem prescrição de medicamento.",
+"Errada: a consulta de enfermagem é privativa do enfermeiro pelo art. 11, I, i, da Lei 7.498/1986.",
+"Correta: é o texto do art. 5º da Resolução COFEN 736/2024.",
+"Errada: o SOAP é formato compatível de registro, mas não substitui as etapas do Processo de Enfermagem."
+]
+},
+{
+"q": "Na consulta de um homem de 58 anos com hipertensão, a enfermeira registra em formato SOAP: S, relato de cefaleia e uso irregular do anti-hipertensivo; O, PA 168/100 mmHg e IMC 31 kg/m²; A, julgamento sobre adesão ao tratamento; P, orientações e retorno em 15 dias. Na correspondência com o Processo de Enfermagem, o campo A equivale a qual etapa?",
+"alts": [
+"Avaliação de Enfermagem, a primeira etapa do processo.",
+"Diagnóstico de Enfermagem, o julgamento clínico dos dados.",
+"Implementação, pois registra as condutas já realizadas.",
+"Planejamento, pois define as metas de controle da pressão.",
+"Coleta de dados objetivos do exame físico da consulta."
+],
+"gab": 1,
+"tema": "sae",
+"sub": "Consulta de enfermagem",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r2",
+"base": "Parecer Conjunto de Câmaras Técnicas COFEN 004/2022 (SOAP na Atenção Primária); Resolução COFEN 736/2024, arts. 4º e 5º",
+"coment": "O Parecer Conjunto de Câmaras Técnicas 004/2022, citado nos considerandos da Resolução COFEN 736/2024, considera o SOAP compatível com o Processo de Enfermagem na Atenção Primária. Na correspondência, S e O são a Avaliação de Enfermagem (dados subjetivos e objetivos), A é a análise que gera o Diagnóstico de Enfermagem, e P reúne Planejamento e Implementação; a Evolução aparece no retorno. A armadilha é o nome: no SOAP, avaliação significa análise e julgamento clínico, enquanto na 736/2024 Avaliação de Enfermagem é a primeira etapa, de coleta de dados.",
+"porAlt": [
+"Errada: a Avaliação de Enfermagem da 736/2024 é a coleta de dados, que no SOAP corresponde a S e O.",
+"Correta: o A do SOAP é a análise dos dados, o julgamento clínico que formula o Diagnóstico de Enfermagem.",
+"Errada: condutas e orientações ficam no P, que corresponde a Planejamento e Implementação.",
+"Errada: metas e plano de cuidado são registrados no P, e não no campo de análise.",
+"Errada: dados objetivos do exame físico, como a pressão arterial, são registrados no campo O."
+]
+},
+{
+"q": "Para reduzir a fila da puericultura, a gerente de uma unidade básica propõe que as técnicas de enfermagem realizem sozinhas as consultas de enfermagem de crianças de baixo risco, com a enfermeira assinando os registros ao fim do dia. A proposta é compatível com a legislação do exercício profissional?",
+"alts": [
+"Não, pois a consulta de enfermagem é privativa do enfermeiro.",
+"Sim, se a criança estiver classificada como de baixo risco.",
+"Sim, desde que a enfermeira assine as consultas depois.",
+"Sim, pois a lei permite a consulta ao técnico supervisionado.",
+"Não, pois a puericultura é atribuição exclusiva do médico."
+],
+"gab": 0,
+"tema": "sae",
+"sub": "Consulta de enfermagem",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "Lei 7.498/1986, art. 11, I, i; Decreto 94.406/1987, art. 8º, I, e; Resolução COFEN 736/2024, art. 5º",
+"coment": "A consulta de enfermagem é atividade privativa do enfermeiro: Lei 7.498/1986, art. 11, inciso I, alínea i, repetida no Decreto 94.406/1987, art. 8º, I, e. O técnico de enfermagem executa ações assistenciais, exceto as privativas do enfermeiro (Lei, art. 12), sempre sob orientação e supervisão (art. 15). A assinatura posterior não transforma em ato do enfermeiro uma consulta que ele não realizou. A puericultura de risco habitual é cuidado que o enfermeiro conduz na Atenção Primária, com a consulta organizada pelas etapas do Processo de Enfermagem (Resolução COFEN 736/2024, art. 5º). A falta de profissional é problema de dimensionamento.",
+"porAlt": [
+"Correta: a consulta de enfermagem é privativa do enfermeiro pelo art. 11, I, i, da Lei 7.498/1986.",
+"Errada: a classificação de risco da criança não altera a competência legal para realizar a consulta.",
+"Errada: assinar depois não convalida ato privativo realizado por profissional sem competência legal.",
+"Errada: o técnico executa ações assistenciais, exceto as privativas do enfermeiro, como a consulta.",
+"Errada: a consulta de puericultura de risco habitual é realizada também pelo enfermeiro na Atenção Primária."
+]
+},
+{
+"q": "Na primeira consulta de pré-natal de risco habitual de uma gestante de 24 anos, com 10 semanas, a enfermeira realiza várias ações. Considerando os três padrões da Implementação da Resolução COFEN 736/2024, qual ação corresponde ao padrão de cuidados em programas de saúde?",
+"alts": [
+"Orientar sinais de alarme e preparo para a amamentação.",
+"Discutir com a nutricionista o plano alimentar da gestante.",
+"Aferir a pressão arterial e registrar o peso na caderneta.",
+"Encaminhar ao médico a queixa nova de sangramento vaginal.",
+"Solicitar exames de rotina previstos no protocolo do pré-natal."
+],
+"gab": 4,
+"tema": "sae",
+"sub": "Consulta de enfermagem",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Resolução COFEN 736/2024, art. 4º, § 4º, incisos I a III",
+"coment": "O inciso III do § 4º do art. 4º da Resolução COFEN 736/2024 define os padrões de cuidados em programas de saúde como os advindos de protocolos assistenciais, tais como a prescrição de medicamentos padronizados nos programas de saúde pública e em rotina aprovada pela instituição e a solicitação de exames de rotina e complementares. Solicitar os exames previstos no protocolo do pré-natal é exemplo direto. Orientar é cuidado autônomo (inciso I); discutir o plano com a nutricionista e encaminhar ao médico são cuidados interprofissionais (inciso II); aferir pressão e peso é coleta de dados da Avaliação.",
+"porAlt": [
+"Errada: orientação de sinais de alarme é cuidado autônomo do enfermeiro, do inciso I.",
+"Errada: o plano construído com a nutricionista é cuidado interprofissional, do inciso II.",
+"Errada: aferir pressão e peso é coleta de dados objetivos, própria da Avaliação de Enfermagem.",
+"Errada: encaminhar a queixa nova ao médico é cuidado colaborativo, do padrão interprofissional.",
+"Correta: solicitar exames de rotina por protocolo é o padrão de programas de saúde do inciso III."
+]
+},
+{
+"q": "Uma enfermeira atende, em consulta de enfermagem, uma mulher de 61 anos com diabetes tipo 2 e registra apenas: 'orientada sobre dieta e atividade física; retorno em três meses'. Na supervisão, o registro é considerado incompleto à luz da Resolução COFEN 736/2024. Qual é a principal falha?",
+"alts": [
+"Faltou a assinatura do médico, exigida em toda consulta de enfermagem.",
+"Faltou o formato SOAP, único modelo aceito para consultas na atenção básica.",
+"Faltaram dados da avaliação, diagnóstico, resultados esperados e plano.",
+"Faltou a prescrição de medicamento, obrigatória em consultas de diabetes.",
+"Faltou a anotação da técnica, que valida a consulta da enfermeira."
+],
+"gab": 2,
+"tema": "sae",
+"sub": "Consulta de enfermagem",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "Resolução COFEN 736/2024, arts. 5º e 8º",
+"coment": "O art. 5º da Resolução COFEN 736/2024 determina que a consulta de enfermagem seja organizada e registrada conforme as etapas do Processo de Enfermagem, e o art. 8º atribui ao enfermeiro o registro de todas as etapas no prontuário. O registro do caso traz só uma intervenção e o retorno. Faltam os dados da Avaliação (queixas, adesão, glicemias, exame dos pés), o Diagnóstico de Enfermagem, os resultados esperados e a prescrição do Planejamento; no retorno, a Evolução comparará o obtido com o esperado. O SOAP é um formato aceito, mas não o único, e a consulta não depende de assinatura médica.",
+"porAlt": [
+"Errada: a consulta de enfermagem é privativa do enfermeiro e não depende de assinatura médica.",
+"Errada: o SOAP é compatível com o PE, mas a norma não o impõe como modelo único de registro.",
+"Correta: o art. 5º exige que a consulta siga e registre as etapas do Processo de Enfermagem.",
+"Errada: prescrever medicamento não é obrigatório em toda consulta; depende do caso e de protocolo.",
+"Errada: a anotação da técnica não valida nem substitui o registro das etapas pelo enfermeiro."
+]
+},
+{
+"q": "A Resolução COFEN 736/2024 descreve o Diagnóstico de Enfermagem como a identificação de problemas existentes, condições de vulnerabilidade ou disposições para melhorar comportamentos de saúde. Uma residente quer relacionar essa redação aos tipos de diagnóstico da NANDA-I 2024-2026. A expressão 'condições de vulnerabilidade' corresponde a qual tipo?",
+"alts": [
+"Diagnóstico com foco no problema.",
+"Diagnóstico de promoção da saúde.",
+"Diagnóstico de síndrome de enfermagem.",
+"Diagnóstico de enfermagem de risco.",
+"Condição associada ao diagnóstico."
+],
+"gab": 3,
+"tema": "sae",
+"sub": "Diagnósticos de enfermagem (NANDA-I)",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução COFEN 736/2024, art. 4º, § 2º; NANDA-I 2024-2026, 13ª ed.",
+"coment": "O § 2º do art. 4º da Resolução COFEN 736/2024 descreve três objetos do diagnóstico, que correspondem aos tipos da NANDA-I 2024-2026. Problemas existentes são os diagnósticos com foco no problema, com características definidoras e fatores relacionados. Condições de vulnerabilidade são os diagnósticos de risco, que expressam suscetibilidade e se apoiam em fatores de risco, sem características definidoras. Disposições para melhorar são os diagnósticos de promoção da saúde, com rótulo iniciado por 'Disposição para melhorar'. A síndrome é um conjunto de diagnósticos que ocorrem juntos, e condição associada é componente complementar, não tipo de diagnóstico.",
+"porAlt": [
+"Errada: o diagnóstico com foco no problema corresponde aos problemas existentes, já presentes.",
+"Errada: o diagnóstico de promoção da saúde corresponde às disposições para melhorar comportamentos.",
+"Errada: síndrome é um agrupamento de diagnósticos que ocorrem juntos, não a vulnerabilidade.",
+"Correta: vulnerabilidade é suscetibilidade, a essência do diagnóstico de risco da NANDA-I.",
+"Errada: condição associada é componente complementar, como diagnóstico médico ou dispositivo, e não um tipo."
+]
+},
+{
+"q": "Em consulta de enfermagem, um homem de 36 anos, IMC 23 kg/m², exames recentes normais, sem queixas, conta que passou a cozinhar em casa e pede ajuda para montar refeições mais variadas e equilibradas para a semana. Considerando os dados e a NANDA-I 2024-2026, qual diagnóstico de enfermagem é mais apropriado?",
+"alts": [
+"Risco de ingestão nutricional inadequada.",
+"Disposição para ingestão nutricional melhorada.",
+"Comportamentos ineficazes de manutenção da saúde.",
+"Ingestão nutricional proteico-calórica inadequada.",
+"Disposição para envelhecimento saudável melhorado."
+],
+"gab": 1,
+"tema": "sae",
+"sub": "Diagnósticos de enfermagem (NANDA-I)",
+"cenario": "aps",
+"comp": "aval",
+"nivel": "r2",
+"base": "NANDA-I 2024-2026, 13ª ed. (diagnósticos de promoção da saúde); Resolução COFEN 736/2024, art. 4º, § 2º",
+"coment": "O caso não traz problema presente nem fator de suscetibilidade: IMC adequado, exames normais, sem queixas. O dado decisivo é o desejo expresso de melhorar um comportamento de saúde que já é adequado, o que define o diagnóstico de promoção da saúde da NANDA-I 2024-2026. Nesse tipo, a característica definidora é o próprio desejo manifestado pela pessoa, e o rótulo expressa disposição para melhorar, aqui no domínio Nutrição. Diagnóstico de risco exigiria fatores de risco identificados, e os diagnósticos com foco no problema exigiriam sinais de ingestão insuficiente ou de manejo ineficaz da saúde.",
+"porAlt": [
+"Errada: não há fator de risco descrito; o dado central é o desejo de melhorar a alimentação.",
+"Correta: desejo expresso de melhorar um comportamento adequado caracteriza diagnóstico de promoção da saúde.",
+"Errada: o paciente mantém exames normais e busca melhorar; não há manejo ineficaz da saúde.",
+"Errada: IMC adequado e exames normais não sustentam ingestão proteico-calórica inadequada.",
+"Errada: é promoção da saúde, mas o foco descrito é a alimentação, e não o envelhecimento."
+]
+},
+{
+"q": "No quinto dia após colectomia, uma mulher de 63 anos apresenta temperatura de 38,4 °C, hiperemia e secreção purulenta na incisão. A residente registra: 'Risco de infecção evidenciado por febre, hiperemia e secreção purulenta na ferida operatória'. A preceptora aponta erro de raciocínio diagnóstico. Qual é o erro?",
+"alts": [
+"Faltou citar a colectomia como fator relacionado do diagnóstico.",
+"O rótulo correto seria Risco de sangramento da ferida operatória.",
+"Diagnóstico de risco exige pelo menos três sinais clínicos presentes.",
+"O conectivo 'evidenciado por' cabe apenas no diagnóstico de promoção da saúde.",
+"Sinais presentes excluem o risco, que não tem características definidoras."
+],
+"gab": 4,
+"tema": "sae",
+"sub": "Diagnósticos de enfermagem (NANDA-I)",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r3",
+"base": "NANDA-I 2024-2026, 13ª ed. (componentes dos diagnósticos de risco)",
+"coment": "Na NANDA-I 2024-2026, o diagnóstico de risco expressa suscetibilidade a uma resposta indesejável e se compõe de rótulo, definição e fatores de risco; não tem características definidoras. Sustentar um diagnóstico de risco com sinais e sintomas é contradição em termos: se febre, hiperemia e secreção purulenta já estão presentes, o problema existe, e o raciocínio deve seguir para um diagnóstico com foco no problema e para a comunicação à equipe médica. Usar a cirurgia como fator relacionado também seria erro, porque procedimento é condição associada e não orienta a prescrição de enfermagem.",
+"porAlt": [
+"Errada: a colectomia é condição associada, e usá-la como fator relacionado seria outro erro de raciocínio.",
+"Errada: o caso não descreve sangramento, e o problema do enunciado é usar sinais num diagnóstico de risco.",
+"Errada: o diagnóstico de risco não se apoia em sinais clínicos; seus componentes são fatores de risco.",
+"Errada: o conectivo evidenciado por também introduz as características dos diagnósticos com foco no problema.",
+"Correta: com sinais presentes, o problema já existe; diagnóstico de risco tem só fatores de risco."
+]
+},
+{
+"q": "Uma mulher de 74 anos, em uso de varfarina por fibrilação atrial, é internada por pneumonia. O controle laboratorial mostra INR acima da faixa terapêutica. Ela não tem sangramento visível, hematomas, melena nem queda da hemoglobina, e os sinais vitais estão estáveis. Considerando a NANDA-I 2024-2026, qual diagnóstico orienta a vigilância desse achado?",
+"alts": [
+"Risco de sangramento, com vigilância de sinais hemorrágicos.",
+"Risco de choque, com monitorização para hipotensão grave.",
+"Perfusão tissular periférica ineficaz, com aquecimento dos membros.",
+"Débito cardíaco diminuído, com controle rigoroso da frequência.",
+"Risco de infecção, com isolamento de contato no leito."
+],
+"gab": 0,
+"tema": "sae",
+"sub": "Diagnósticos de enfermagem (NANDA-I)",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r1",
+"base": "NANDA-I 2024-2026, 13ª ed.; Resolução COFEN 736/2024, art. 4º, § 2º",
+"coment": "A anticoagulação acima da faixa terapêutica aumenta a suscetibilidade a sangramento, mas a paciente não tem nenhum sinal hemorrágico presente: sem sangramento visível, hematomas, melena ou queda da hemoglobina. Pela NANDA-I 2024-2026, vulnerabilidade sem característica definidora corresponde a diagnóstico de risco, e Risco de sangramento direciona a prescrição: inspeção de pele, mucosas, urina e fezes, cuidado com punções e comunicação à equipe médica. Sinais vitais estáveis afastam choque iminente, e não há dados de má perfusão periférica nem de débito cardíaco diminuído que justifiquem diagnóstico com foco no problema.",
+"porAlt": [
+"Correta: há suscetibilidade a sangramento sem sinais presentes, o que define o diagnóstico de risco.",
+"Errada: os sinais vitais estão estáveis, e o fator de suscetibilidade descrito é a anticoagulação excessiva.",
+"Errada: não há sinais de má perfusão periférica, que seriam necessários num diagnóstico com foco no problema.",
+"Errada: não há hipotensão, baixo débito nem outros sinais de débito cardíaco diminuído no caso.",
+"Errada: a pneumonia já está presente, e o achado que pede vigilância é o INR acima do alvo."
+]
+},
+{
+"q": "Ao estudar a NANDA-I 2024-2026, um residente encontra um diagnóstico cujas características definidoras são outros diagnósticos de enfermagem, como Mobilidade física prejudicada e Habilidade de banhar-se diminuída, que ocorrem juntos e se tratam melhor por intervenções comuns. A que tipo de diagnóstico ele se refere?",
+"alts": [
+"Diagnóstico de risco, por fatores de suscetibilidade.",
+"Diagnóstico com foco no problema, por sinais isolados.",
+"Diagnóstico de síndrome, por agrupamento de diagnósticos.",
+"Diagnóstico de promoção da saúde, por desejo expresso.",
+"Condição associada, por diagnóstico médico subjacente."
+],
+"gab": 2,
+"tema": "sae",
+"sub": "Diagnósticos de enfermagem (NANDA-I)",
+"cenario": "ger",
+"comp": "aval",
+"nivel": "r2",
+"base": "NANDA-I 2024-2026, 13ª ed. (tipos de diagnóstico e componentes)",
+"coment": "A NANDA-I 2024-2026 reconhece quatro tipos de diagnóstico. O de síndrome é um julgamento clínico sobre um conjunto de diagnósticos de enfermagem que ocorrem juntos e são mais bem abordados em conjunto, por intervenções semelhantes; por isso suas características definidoras são outros diagnósticos de enfermagem. Exemplo presente nos cadernos do ENARE 2026/27 é a Síndrome da habilidade de autocuidado diminuída. O diagnóstico com foco no problema tem características definidoras e fatores relacionados; o de risco, fatores de risco; o de promoção da saúde, o desejo expresso. Condição associada é componente complementar, e não tipo de diagnóstico.",
+"porAlt": [
+"Errada: o diagnóstico de risco se apoia em fatores de risco e não tem outros diagnósticos como características.",
+"Errada: o diagnóstico com foco no problema tem sinais e sintomas como características, não outros diagnósticos.",
+"Correta: síndrome é o diagnóstico cujas características definidoras são outros diagnósticos que ocorrem juntos.",
+"Errada: a promoção da saúde se caracteriza pelo desejo expresso de melhorar, e não por agrupamento.",
+"Errada: condição associada, como diagnóstico médico ou procedimento, é componente complementar, não tipo."
+]
+},
+{
+"q": "Um homem de 52 anos, no primeiro dia após colecistectomia aberta com incisão subcostal, respira de forma superficial, com FR 26 irpm, e evita inspirar fundo por dor intensa na incisão. SpO2 95% em ar ambiente, murmúrio vesicular presente bilateralmente. Qual enunciado diagnóstico segue o raciocínio da NANDA-I 2024-2026?",
+"alts": [
+"Padrão respiratório ineficaz relacionado à colecistectomia, evidenciado por dor.",
+"Padrão respiratório ineficaz relacionado à dor, evidenciado por respiração superficial.",
+"Padrão respiratório ineficaz relacionado à taquipneia, evidenciado por dor incisional.",
+"Troca de gases prejudicada relacionada à anestesia geral, evidenciada por dor.",
+"Padrão respiratório ineficaz relacionado ao pós-operatório imediato, evidenciado por taquipneia."
+],
+"gab": 1,
+"tema": "sae",
+"sub": "Diagnósticos de enfermagem (NANDA-I)",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r3",
+"base": "NANDA-I 2024-2026, 13ª ed. (formato rótulo, fatores relacionados e características definidoras)",
+"coment": "O enunciado clássico, herdado do formato PES, é rótulo, relacionado a fatores relacionados, evidenciado por características definidoras. O fator relacionado é a causa sobre a qual a enfermagem age, e dele sai a prescrição: aqui, a dor que impede a inspiração profunda, tratável com analgesia no horário, apoio da incisão e exercícios respiratórios. Respiração superficial e taquipneia são as características definidoras. Cirurgia, anestesia e pós-operatório são condições associadas e não orientam a prescrição; trocar sinal por causa inverte os componentes. SpO2 de 95% com murmúrio preservado não sustenta Troca de gases prejudicada.",
+"porAlt": [
+"Errada: a cirurgia é condição associada, e a dor, que é causa, aparece no lugar de característica definidora.",
+"Correta: a dor é o fator relacionado tratável, e a respiração superficial é a característica definidora.",
+"Errada: inverte os componentes; taquipneia é sinal do problema, e a dor é a causa sobre a qual se age.",
+"Errada: SpO2 de 95% e murmúrio preservado não indicam troca gasosa prejudicada, e a anestesia é condição associada.",
+"Errada: pós-operatório imediato é contexto, e não fator relacionado que oriente a prescrição de enfermagem."
+]
+},
+{
+"q": "Uma mulher de 29 anos chega à emergência com crise de asma após suspender a medicação inalatória por conta própria. Está ansiosa, fala frases curtas, tem sibilos difusos, uso de musculatura acessória e SpO2 88% em ar ambiente. Mora sozinha e diz não conseguir tomar banho sem ajuda durante as crises. Pela NANDA-I 2024-2026, qual diagnóstico é prioritário?",
+"alts": [
+"Ansiedade, pela fala em frases curtas e agitação na chegada.",
+"Habilidade de banhar-se diminuída, pela dependência nas crises.",
+"Comportamentos ineficazes de manutenção da saúde, pela suspensão do inalador.",
+"Troca de gases prejudicada, pela hipoxemia com esforço respiratório.",
+"Conexão social inadequada, por morar sozinha sem rede de apoio."
+],
+"gab": 3,
+"tema": "sae",
+"sub": "Diagnósticos de enfermagem (NANDA-I)",
+"cenario": "emg",
+"comp": "aval",
+"nivel": "r2",
+"base": "Resolução COFEN 736/2024, art. 4º, § 3º, I (priorização); NANDA-I 2024-2026, 13ª ed.",
+"coment": "O primeiro elemento do Planejamento é a priorização dos diagnósticos (Resolução COFEN 736/2024, art. 4º, § 3º). O critério clínico é ameaça à vida e à função: via aérea, respiração e circulação vêm antes. A paciente tem SpO2 de 88% em ar ambiente, uso de musculatura acessória e fala em frases curtas, sinais de hipoxemia com esforço respiratório, o que torna Troca de gases prejudicada a prioridade. A suspensão da medicação, a dependência para o banho e a falta de rede de apoio são problemas reais, que entram no plano depois da estabilização, inclusive para prevenir novas crises.",
+"porAlt": [
+"Errada: a ansiedade existe, mas fala entrecortada é sinal de dispneia, e a hipoxemia ameaça a vida.",
+"Errada: a dependência para o banho é real, mas não ameaça a vida no atendimento da crise.",
+"Errada: a suspensão da medicação explica a crise e entra no plano, mas depois de corrigir a hipoxemia.",
+"Correta: hipoxemia com esforço respiratório ameaça a vida e tem prioridade na emergência.",
+"Errada: morar sozinha é dado social importante para a alta, mas não é a prioridade na emergência."
+]
+},
+{
+"q": "Um homem de 81 anos, independente e orientado antes da internação segundo a filha, está no segundo dia após fixação de fratura de fêmur. Desde a noite anterior, alterna períodos de sonolência e agitação, não sustenta a atenção durante a conversa e não reconhece onde está. Considerando a NANDA-I 2024-2026, qual diagnóstico de enfermagem é mais apropriado?",
+"alts": [
+"Confusão aguda, pelo início súbito com flutuação da atenção.",
+"Confusão crônica, pela idade avançada e desorientação.",
+"Memória prejudicada, pelo não reconhecimento do local.",
+"Processos de pensamento conturbados, pela agitação noturna intensa.",
+"Ansiedade excessiva, pela internação e pela dor da fratura."
+],
+"gab": 0,
+"tema": "sae",
+"sub": "Diagnósticos de enfermagem (NANDA-I)",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r2",
+"base": "NANDA-I 2024-2026, 13ª ed. (Domínio 5, Percepção/cognição)",
+"coment": "O raciocínio parte do agrupamento dos dados: cognição normal antes da internação, início súbito no pós-operatório, flutuação entre sonolência e agitação, déficit de atenção e desorientação. Esse conjunto descreve alteração aguda e reversível da cognição e da atenção, o que corresponde a Confusão aguda no Domínio 5 (Percepção/cognição) da NANDA-I 2024-2026. Confusão crônica pressupõe deterioração progressiva e de longa duração, que a filha nega. A desorientação faz parte do quadro confusional e não autoriza escolher um rótulo mais restrito. O diagnóstico orienta reorientação, sono preservado, controle da dor e comunicação para investigar causas.",
+"porAlt": [
+"Correta: início súbito, flutuação e déficit de atenção num idoso antes orientado indicam Confusão aguda.",
+"Errada: confusão crônica é progressiva e duradoura, e o paciente era orientado antes da internação.",
+"Errada: não reconhecer o local é desorientação dentro do quadro confusional, e não déficit isolado de memória.",
+"Errada: a agitação faz parte da flutuação; o conjunto de início súbito aponta para confusão aguda.",
+"Errada: o quadro é de alteração da atenção e da consciência, e não de ansiedade com cognição preservada."
+]
+},
+{
+"q": "Uma mulher de 66 anos, no quarto dia após AVC isquêmico, compreende ordens simples e acena corretamente com a cabeça, mas não consegue formar palavras e se irrita ao tentar responder. Está orientada, com atenção preservada, e não há alteração de memória relatada pela família. Pela NANDA-I 2024-2026, qual diagnóstico de enfermagem descreve o problema?",
+"alts": [
+"Confusão aguda, pelo início recente do quadro após o AVC.",
+"Memória prejudicada, pela dificuldade em responder perguntas.",
+"Processos de pensamento conturbados, pela irritação ao falar.",
+"Autoestima situacional comprometida, pela frustração ao falar.",
+"Comunicação verbal prejudicada, pela dificuldade de expressão."
+],
+"gab": 4,
+"tema": "sae",
+"sub": "Diagnósticos de enfermagem (NANDA-I)",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r1",
+"base": "NANDA-I 2024-2026, 13ª ed. (Domínio 5, Percepção/cognição, classe Comunicação)",
+"coment": "Os dados se agrupam em torno da expressão verbal: a paciente compreende ordens e responde com gestos adequados, mas não consegue formar palavras. Orientação, atenção e memória estão preservadas. Esse agrupamento corresponde a Comunicação verbal prejudicada, na classe Comunicação do Domínio 5 da NANDA-I 2024-2026, rótulo que aparece no caderno do ENARE 2025/26. O diagnóstico orienta intervenções como perguntas fechadas, tempo para resposta, pranchas de comunicação e articulação com a fonoaudiologia. A irritação é reação compreensível à dificuldade e não sustenta, sozinha, outro diagnóstico prioritário.",
+"porAlt": [
+"Errada: a paciente está orientada e com atenção preservada, o que afasta quadro confusional.",
+"Errada: a família não relata alteração de memória; a dificuldade está em formar palavras.",
+"Errada: ela compreende e responde com gestos coerentes, o que indica pensamento organizado.",
+"Errada: a frustração é reação ao problema central, que é a dificuldade de expressão verbal.",
+"Correta: compreensão preservada com incapacidade de formar palavras configura Comunicação verbal prejudicada."
+]
+},
+{
+"q": "Um adolescente de 15 anos recebeu, há duas horas, aparelho gessado circular no antebraço após redução de fratura. Os dedos estão corados, aquecidos, com enchimento capilar rápido, sensibilidade e movimentação preservadas, e a dor está controlada. A enfermeira planeja checagens periódicas de cor, temperatura, pulso, sensibilidade e movimentação distais. Qual diagnóstico da NANDA-I 2024-2026 fundamenta esse plano?",
+"alts": [
+"Perfusão tissular periférica ineficaz, com sinais de má perfusão.",
+"Risco de sangramento, pela manipulação recente da fratura fechada.",
+"Risco de função neurovascular periférica prejudicada, sem sinais atuais.",
+"Integridade tissular prejudicada, pela lesão óssea no antebraço.",
+"Mobilidade física prejudicada, pela imobilização do membro superior."
+],
+"gab": 2,
+"tema": "sae",
+"sub": "Diagnósticos de enfermagem (NANDA-I)",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r1",
+"base": "NANDA-I 2024-2026, 13ª ed. (diagnósticos de risco)",
+"coment": "O exame distal está normal: dedos corados e aquecidos, enchimento capilar rápido, sensibilidade e movimentação preservadas, dor controlada. Não há característica definidora de problema presente. O que existe é suscetibilidade: fratura recente reduzida e gesso circular, que podem comprimir o membro com o edema das primeiras horas. Pela NANDA-I 2024-2026, essa situação corresponde a diagnóstico de risco, e Risco de função neurovascular periférica prejudicada, rótulo presente no caderno do ENARE 2026/27, sustenta a checagem seriada dos cinco parâmetros, a elevação do membro e a orientação para comunicar dor desproporcional ou parestesia.",
+"porAlt": [
+"Errada: o exame mostra boa perfusão distal, sem característica definidora de perfusão ineficaz.",
+"Errada: a fratura é fechada, sem sangramento descrito, e o plano descrito vigia a função neurovascular.",
+"Correta: há suscetibilidade sem sinais presentes, e o plano de checagem distal decorre desse risco.",
+"Errada: o problema ósseo é diagnóstico médico; o plano descrito é de vigilância neurovascular.",
+"Errada: a limitação do membro é esperada pela imobilização e não é o foco das checagens descritas."
+]
+},
+{
+"q": "Para um paciente com dor pós-operatória, a enfermeira escolheu um resultado da NOC e pontuou um de seus indicadores em 2 na admissão, definindo 4 como pontuação-alvo para a alta. No terceiro dia, o mesmo indicador recebeu 3. Considerando a escala da NOC, como interpretar a evolução?",
+"alts": [
+"Piora, pois a pontuação se afastou do valor ideal 1.",
+"Resultado alcançado, pois superou a pontuação inicial.",
+"Condição ideal, pois 3 é o ponto máximo da escala.",
+"Melhora parcial; a meta 4 ainda não foi alcançada.",
+"Sem interpretação, pois a NOC não usa escores numéricos."
+],
+"gab": 3,
+"tema": "sae",
+"sub": "Resultados (NOC) e intervenções (NIC)",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r2",
+"base": "Classificação dos Resultados de Enfermagem (NOC); Resolução COFEN 736/2024, art. 4º, §§ 3º e 5º",
+"coment": "Cada resultado da NOC tem indicadores medidos em escala do tipo Likert de cinco pontos, em que 5 é a melhor condição. O enfermeiro pontua na avaliação inicial, define a pontuação-alvo no Planejamento, onde a Resolução COFEN 736/2024 exige resultados esperados e exequíveis (art. 4º, § 3º), e repontua na Evolução (§ 5º). A diferença entre as medidas mostra o efeito do cuidado. Passar de 2 para 3 é melhora, mas a meta era 4: o resultado foi alcançado em parte, e o enfermeiro decide se mantém, ajusta a prescrição ou revê o prazo.",
+"porAlt": [
+"Errada: na escala da NOC, 5 é a melhor condição; subir de 2 para 3 é melhora.",
+"Errada: superar o escore inicial não basta; o resultado é avaliado em relação à pontuação-alvo 4.",
+"Errada: a escala tem cinco pontos, e 3 é ponto intermediário, não o máximo.",
+"Correta: houve melhora de 2 para 3, mas a pontuação-alvo 4 ainda não foi atingida.",
+"Errada: a NOC mede indicadores em escala tipo Likert de cinco pontos, que permite comparar medidas."
+]
+},
+{
+"q": "Uma residente vai escrever a prescrição de enfermagem para um paciente com Dor aguda. Ela localiza na NIC uma intervenção adequada ao diagnóstico, lê a definição e precisa transformá-la em ações com frequência e horário para a equipe. Qual componente da intervenção NIC ela seleciona e adapta para compor a prescrição?",
+"alts": [
+"As atividades listadas na intervenção.",
+"Os indicadores pontuados em escala Likert.",
+"As características definidoras do rótulo.",
+"Os fatores relacionados ao diagnóstico.",
+"Os eixos Foco e Julgamento da CIPE."
+],
+"gab": 0,
+"tema": "sae",
+"sub": "Resultados (NOC) e intervenções (NIC)",
+"cenario": "ger",
+"comp": "cuid",
+"nivel": "r1",
+"base": "Classificação das Intervenções de Enfermagem (NIC); Resolução COFEN 736/2024, art. 4º, § 3º, III",
+"coment": "A NIC padroniza intervenções, isto é, tratamentos baseados em julgamento e conhecimento clínico que o enfermeiro realiza para melhorar resultados. Cada intervenção tem título, definição e uma lista de atividades. O enfermeiro escolhe as atividades pertinentes ao paciente e as adapta, com frequência, horário e responsável, para redigir a prescrição de enfermagem, que a Resolução COFEN 736/2024 descreve como a tomada de decisão terapêutica do Planejamento (art. 4º, § 3º, III). Indicadores em escala Likert pertencem à NOC; características definidoras e fatores relacionados pertencem ao diagnóstico NANDA-I.",
+"porAlt": [
+"Correta: as atividades da intervenção NIC são selecionadas e adaptadas para redigir a prescrição.",
+"Errada: indicadores pontuados em escala tipo Likert são componentes dos resultados da NOC.",
+"Errada: características definidoras são sinais e sintomas que compõem o diagnóstico NANDA-I.",
+"Errada: fatores relacionados são a etiologia do diagnóstico; orientam a escolha, mas não são a prescrição.",
+"Errada: Foco e Julgamento são eixos da CIPE para compor diagnósticos e resultados, não intervenções NIC."
+]
+},
+{
+"q": "Um hospital está configurando o prontuário eletrônico para que cada etapa do Processo de Enfermagem use uma linguagem padronizada: NANDA-I, NOC e NIC. A equipe de informática pede à comissão que indique a correspondência correta entre classificação e etapa. Qual correspondência está correta?",
+"alts": [
+"NIC na formulação do Diagnóstico de Enfermagem.",
+"NANDA-I na prescrição das atividades da equipe.",
+"NOC na definição de resultados e na Evolução.",
+"NOC na escolha das intervenções a prescrever.",
+"NIC na pontuação dos indicadores de resultado."
+],
+"gab": 2,
+"tema": "sae",
+"sub": "Resultados (NOC) e intervenções (NIC)",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "Resolução COFEN 736/2024, arts. 3º e 4º; classificações NANDA-I 2024-2026, NOC e NIC",
+"coment": "Nas ligações NNN, cada classificação serve a uma parte do Processo de Enfermagem. A NANDA-I padroniza os diagnósticos e serve à etapa de Diagnóstico. A NOC padroniza os resultados, estados ou comportamentos mensuráveis da pessoa: entra no Planejamento, na determinação dos resultados esperados (Resolução COFEN 736/2024, art. 4º, § 3º, II), e volta na Evolução, quando os indicadores são repontuados. A NIC padroniza as intervenções e serve à prescrição e à Implementação. O art. 3º admite linguagens padronizadas como apoio para diagnósticos, resultados e intervenções.",
+"porAlt": [
+"Errada: a NIC padroniza intervenções; diagnósticos são padronizados pela NANDA-I.",
+"Errada: a NANDA-I nomeia diagnósticos; as atividades da prescrição vêm da NIC.",
+"Correta: a NOC define resultados esperados no Planejamento e é repontuada na Evolução.",
+"Errada: a NOC trata de resultados; a escolha das intervenções é apoiada pela NIC.",
+"Errada: os indicadores pontuados em escala pertencem à NOC, e não à NIC."
+]
+},
+{
+"q": "O sistema eletrônico de um hospital sugere automaticamente resultados NOC e intervenções NIC sempre que o enfermeiro escolhe um diagnóstico NANDA-I. O gestor propõe bloquear qualquer alteração nessas sugestões, para padronizar os planos de cuidado. Qual posicionamento é tecnicamente adequado?",
+"alts": [
+"Bloquear, pois as ligações NNN são obrigatórias e não admitem ajuste.",
+"Bloquear, pois a NIC é que confirma o diagnóstico NANDA-I escolhido.",
+"Não bloquear nos diagnósticos de risco, que não têm ligações NNN.",
+"Bloquear, pois a Resolução COFEN 736/2024 exige as ligações em todo serviço.",
+"Não bloquear: as ligações sugerem, e o enfermeiro decide pelo julgamento."
+],
+"gab": 4,
+"tema": "sae",
+"sub": "Resultados (NOC) e intervenções (NIC)",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r2",
+"base": "Resolução COFEN 736/2024, arts. 1º a 3º; ligações NANDA-I, NOC e NIC",
+"coment": "As ligações NNN conectam cada diagnóstico NANDA-I a resultados NOC e intervenções NIC sugeridos. São sugestões que apoiam o julgamento clínico e não o substituem: o enfermeiro escolhe os resultados e as atividades que fazem sentido para aquela pessoa. A Resolução COFEN 736/2024 define o Processo de Enfermagem como método que orienta o pensamento crítico e o julgamento clínico e, no art. 3º, admite linguagens padronizadas como apoio, sem impor uma classificação específica. Bloquear o ajuste transformaria a sugestão em plano padronizado e afastaria o cuidado individualizado.",
+"porAlt": [
+"Errada: as ligações NNN são sugestões que apoiam o julgamento, não um plano obrigatório e fechado.",
+"Errada: a NIC não confirma diagnósticos; padroniza intervenções, e o diagnóstico é julgamento do enfermeiro.",
+"Errada: diagnósticos de risco também têm resultados e intervenções sugeridos, e o ajuste vale para todos.",
+"Errada: a 736/2024 admite linguagens padronizadas como apoio, sem exigir uma classificação específica.",
+"Correta: as ligações sugerem opções, e a escolha final é do enfermeiro, pelo julgamento clínico."
+]
+},
+{
+"q": "Para uma idosa acamada com o diagnóstico Risco de lesão por pressão no adulto, uma residente registra como resultado NOC esperado: 'realizar mudança de decúbito a cada duas horas'. Na supervisão, a preceptora pede que ela reescreva o item, porque a redação não corresponde ao conceito de resultado da NOC. Qual é o problema?",
+"alts": [
+"Resultado da NOC deve citar o nome da escala de Braden e o escore de corte.",
+"Descreve ação da equipe; resultado é estado ou comportamento da paciente.",
+"Diagnóstico de risco não admite resultados esperados ligados na NOC.",
+"Faltou definir a pontuação 1 como meta, que é a melhor condição da escala.",
+"O intervalo de duas horas deveria constar como característica definidora."
+],
+"gab": 1,
+"tema": "sae",
+"sub": "Resultados (NOC) e intervenções (NIC)",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Classificação dos Resultados de Enfermagem (NOC); Resolução COFEN 736/2024, art. 4º, § 3º, II",
+"coment": "A NOC padroniza resultados: estados, comportamentos ou percepções da pessoa, mensuráveis e sensíveis à intervenção de enfermagem, avaliados por indicadores em escala tipo Likert de cinco pontos, em que 5 é a melhor condição. Mudança de decúbito a cada duas horas é atividade da equipe, que pertence à prescrição de enfermagem e encontra correspondência na NIC. O resultado deve descrever o que se espera observar na paciente, como a pele íntegra nas proeminências ósseas, com pontuação-alvo e prazo. A Resolução COFEN 736/2024 pede resultados esperados e exequíveis no Planejamento (art. 4º, § 3º, II).",
+"porAlt": [
+"Errada: a escala de Braden é instrumento da avaliação; o resultado NOC descreve o estado esperado da paciente.",
+"Correta: mudar o decúbito é atividade prescrita; resultado NOC descreve estado ou comportamento da pessoa.",
+"Errada: diagnósticos de risco também têm resultados esperados, como a manutenção da integridade da pele.",
+"Errada: na escala da NOC, 5 é a melhor condição, e o erro da redação é descrever uma ação.",
+"Errada: diagnóstico de risco não tem características definidoras, e o intervalo é dado da prescrição."
+]
+},
+{
+"q": "Numa unidade que adota a CIPE, a enfermeira compõe o enunciado diagnóstico 'dor aguda' combinando termos do Modelo de Sete Eixos. Uma estagiária pergunta quais eixos são obrigatórios para formar um diagnóstico de enfermagem quando não se usa um conceito pré-coordenado. Qual é a resposta?",
+"alts": [
+"Eixo Ação e eixo Cliente.",
+"Eixo Foco e eixo Localização.",
+"Eixo Ação e eixo Julgamento.",
+"Eixo Cliente e eixo Tempo.",
+"Eixo Foco e eixo Julgamento."
+],
+"gab": 4,
+"tema": "sae",
+"sub": "CIPE",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r1",
+"base": "CIPE (Classificação Internacional para a Prática de Enfermagem), Modelo de Sete Eixos; Resolução COFEN 736/2024, art. 3º",
+"coment": "A CIPE, terminologia do Conselho Internacional de Enfermeiros, organiza os termos no Modelo de Sete Eixos: Foco, Julgamento, Cliente, Ação, Meios, Localização e Tempo. Para compor um diagnóstico ou um resultado de enfermagem, a regra exige obrigatoriamente um termo do eixo Foco e um do eixo Julgamento, ou o uso de um conceito pré-coordenado já existente; os demais eixos são acrescentados quando necessários. No exemplo, dor é o foco e aguda é o julgamento. O eixo Ação é obrigatório nas intervenções, e não nos diagnósticos. A Resolução COFEN 736/2024 admite linguagens padronizadas como apoio (art. 3º).",
+"porAlt": [
+"Errada: o eixo Ação é o núcleo das intervenções, e Cliente é eixo opcional no diagnóstico.",
+"Errada: Localização é acrescentada quando necessária; o segundo eixo obrigatório é o Julgamento.",
+"Errada: Ação não entra no diagnóstico, e a intervenção não usa termo do eixo Julgamento.",
+"Errada: Cliente e Tempo são eixos complementares, acrescentados só quando necessários.",
+"Correta: diagnóstico e resultado CIPE exigem um termo do eixo Foco e um do eixo Julgamento."
+]
+},
+{
+"q": "Uma enfermeira da Atenção Primária usa a CIPE para registrar a prescrição de enfermagem de um homem de 60 anos com diabetes que aplica insulina com técnica inadequada. Ela quer compor a intervenção a partir dos termos do Modelo de Sete Eixos. Pela regra da CIPE, como se compõe uma intervenção de enfermagem?",
+"alts": [
+"Um termo do eixo Ação e um termo-alvo, exceto do Julgamento.",
+"Um termo do eixo Foco e outro termo do eixo Julgamento.",
+"Um termo do eixo Ação e outro termo do eixo Julgamento.",
+"Apenas um termo do eixo Ação, dispensando qualquer termo-alvo.",
+"Um termo do eixo Cliente e outro termo do eixo Tempo."
+],
+"gab": 0,
+"tema": "sae",
+"sub": "CIPE",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r3",
+"base": "CIPE (Classificação Internacional para a Prática de Enfermagem), Modelo de Sete Eixos; Resolução COFEN 736/2024, art. 3º",
+"coment": "Na CIPE, diagnósticos e resultados se compõem com um termo do eixo Foco e um do eixo Julgamento. As intervenções seguem outra regra: um termo do eixo Ação e ao menos um termo-alvo, que pode vir de qualquer eixo exceto o Julgamento. No caso, a enfermeira pode combinar a ação 'ensinar' com o alvo 'técnica de administração de insulina', acrescentando o meio ou o tempo se necessário. O Julgamento qualifica um foco (por exemplo, aguda, prejudicado) e por isso não serve de alvo de ação. A CIPE é combinatória, diferente da NANDA-I, que oferece rótulos prontos.",
+"porAlt": [
+"Correta: intervenção CIPE exige um termo do eixo Ação e ao menos um termo-alvo de outro eixo, exceto Julgamento.",
+"Errada: Foco com Julgamento é a regra de composição de diagnósticos e resultados, não de intervenções.",
+"Errada: o eixo Julgamento é justamente o excluído como termo-alvo das intervenções.",
+"Errada: a ação precisa de ao menos um termo-alvo para indicar sobre o que se intervém.",
+"Errada: Cliente e Tempo são eixos complementares; a intervenção precisa de um termo do eixo Ação."
+]
+},
+{
+"q": "Um grupo de enfermeiras discute qual linguagem padronizada adotar no prontuário de um serviço de saúde da família. Uma delas defende a CIPE, argumentando que ela funciona de modo diferente da NANDA-I na construção dos enunciados. Qual característica distingue a CIPE da NANDA-I?",
+"alts": [
+"A CIPE oferece rótulos diagnósticos fechados, como faz a NANDA-I.",
+"A CIPE classifica intervenções, mas não diagnósticos de enfermagem.",
+"A CIPE é a classificação de resultados usada junto com a NIC.",
+"A CIPE combina termos de sete eixos para compor os enunciados.",
+"A CIPE passou a ser obrigatória no Brasil pela Resolução 736/2024."
+],
+"gab": 3,
+"tema": "sae",
+"sub": "CIPE",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r1",
+"base": "CIPE (Classificação Internacional para a Prática de Enfermagem); Resolução COFEN 736/2024, arts. 2º e 3º",
+"coment": "A CIPE, mantida pelo Conselho Internacional de Enfermeiros, é uma terminologia combinatória: o enfermeiro constrói diagnósticos, resultados e intervenções juntando termos organizados no Modelo de Sete Eixos (Foco, Julgamento, Cliente, Ação, Meios, Localização e Tempo). A NANDA-I, ao contrário, oferece rótulos diagnósticos prontos, com definição e componentes. A CIPE abrange diagnósticos, resultados e intervenções, e dá origem a subconjuntos por clientela. A Resolução COFEN 736/2024 não escolhe classificação: admite qualquer sistema de linguagem padronizada como suporte do Processo de Enfermagem (arts. 2º e 3º).",
+"porAlt": [
+"Errada: rótulos prontos são a marca da NANDA-I; a CIPE é combinatória.",
+"Errada: a CIPE permite compor diagnósticos, resultados e intervenções de enfermagem.",
+"Errada: a classificação de resultados ligada à NIC nas ligações NNN é a NOC.",
+"Correta: a CIPE compõe enunciados combinando termos dos sete eixos do seu modelo.",
+"Errada: a 736/2024 admite linguagens padronizadas como suporte, sem tornar nenhuma obrigatória."
+]
+},
+{
+"q": "A coordenação de Atenção Primária de um município quer adotar, nas consultas de enfermagem das equipes de saúde da família, uma terminologia brasileira derivada da CIPE e voltada às práticas de saúde coletiva. Considerando as terminologias de enfermagem usadas no Brasil, qual opção corresponde a essa terminologia?",
+"alts": [
+"NOC, desenvolvida pelo COFEN para a atenção básica.",
+"NANDA-I, adaptada pelo Ministério da Saúde ao SUS.",
+"CIPESC, desenvolvida pela ABEn para a saúde coletiva.",
+"NIC, criada pelo Conselho Internacional de Enfermeiros.",
+"Taxonomia II, elaborada pela ABEn para hospitais."
+],
+"gab": 2,
+"tema": "sae",
+"sub": "CIPE",
+"cenario": "aps",
+"comp": "norma",
+"nivel": "r2",
+"base": "CIPESC (ABEn); CIPE (Conselho Internacional de Enfermeiros); Resolução COFEN 736/2024, art. 3º",
+"coment": "A CIPE dá origem a catálogos e subconjuntos terminológicos por clientela ou especialidade. No Brasil, a Associação Brasileira de Enfermagem (ABEn) desenvolveu a CIPESC, Classificação Internacional das Práticas de Enfermagem em Saúde Coletiva, voltada à Atenção Primária e à saúde coletiva. NOC e NIC são classificações de resultados e intervenções desenvolvidas fora do Brasil e não derivam da CIPE; a Taxonomia II é a estrutura de domínios e classes da NANDA-I. A Resolução COFEN 736/2024 admite qualquer linguagem padronizada como apoio a diagnósticos, resultados e intervenções (art. 3º).",
+"porAlt": [
+"Errada: a NOC é classificação de resultados de origem estrangeira, não derivada da CIPE nem do COFEN.",
+"Errada: a NANDA-I é classificação de diagnósticos própria, sem relação de origem com a CIPE.",
+"Correta: a CIPESC foi desenvolvida pela ABEn, a partir da CIPE, para a saúde coletiva.",
+"Errada: a NIC é classificação de intervenções; o Conselho Internacional de Enfermeiros mantém a CIPE.",
+"Errada: Taxonomia II é a estrutura de domínios e classes da NANDA-I, e não terminologia da ABEn."
+]
+},
+{
+"q": "Num hospital oncológico, as enfermeiras organizam, a partir da CIPE, uma lista de diagnósticos, resultados e intervenções de enfermagem já elaborados para pacientes em quimioterapia, para uso rápido no prontuário eletrônico. Como se denomina esse tipo de produto derivado da CIPE?",
+"alts": [
+"Ligação NNN entre a NANDA-I, a NOC e a NIC.",
+"Subconjunto terminológico ou catálogo da CIPE.",
+"Domínio e classe da Taxonomia II da NANDA-I.",
+"Classe de resultados da NOC para oncologia.",
+"Modelo de Sete Eixos aplicado ao serviço."
+],
+"gab": 1,
+"tema": "sae",
+"sub": "CIPE",
+"cenario": "enf",
+"comp": "norma",
+"nivel": "r2",
+"base": "CIPE (Classificação Internacional para a Prática de Enfermagem), subconjuntos terminológicos; Resolução COFEN 736/2024, art. 3º",
+"coment": "A CIPE dá origem a catálogos ou subconjuntos terminológicos por clientela ou especialidade, que reúnem diagnósticos, resultados e intervenções já elaborados com os termos da classificação. Há subconjuntos brasileiros publicados para várias áreas. Eles facilitam o uso no prontuário sem dispensar o julgamento clínico: o enfermeiro escolhe o que se aplica ao paciente. O Modelo de Sete Eixos é a estrutura com que os enunciados são compostos, e não o produto final. Ligações NNN, Taxonomia II e classes da NOC pertencem a outras classificações. A Resolução COFEN 736/2024 admite linguagens padronizadas como apoio (art. 3º).",
+"porAlt": [
+"Errada: ligações NNN conectam diagnósticos NANDA-I a resultados NOC e intervenções NIC, não à CIPE.",
+"Correta: catálogos ou subconjuntos terminológicos reúnem enunciados CIPE prontos para uma clientela.",
+"Errada: domínios e classes organizam a Taxonomia II da NANDA-I, outra classificação.",
+"Errada: classes de resultados pertencem à estrutura da NOC, e não a produtos derivados da CIPE.",
+"Errada: o Modelo de Sete Eixos é a estrutura de composição, e não a lista de enunciados prontos."
+]
+},
+{
+"q": "O instrumento de admissão de um hospital organiza a entrevista e o exame físico em necessidades psicobiológicas, psicossociais e psicoespirituais, e o enfermeiro registra quais necessidades estão afetadas para planejar a assistência e tornar o paciente independente quando possível. Esse instrumento se apoia em qual teoria de enfermagem?",
+"alts": [
+"Déficit de autocuidado, de Dorothea Orem.",
+"Modelo de adaptação, de Sister Callista Roy.",
+"Relações interpessoais, de Hildegard Peplau.",
+"Necessidades Humanas Básicas, de Wanda Horta.",
+"Teoria ambientalista, de Florence Nightingale."
+],
+"gab": 3,
+"tema": "sae",
+"sub": "Teorias de enfermagem",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r2",
+"base": "Resolução COFEN 736/2024, art. 2º (suporte teórico); teoria das Necessidades Humanas Básicas de Wanda de Aguiar Horta",
+"coment": "Wanda de Aguiar Horta formulou a teoria das Necessidades Humanas Básicas apoiada na hierarquia de Maslow e na classificação de João Mohana, que agrupa as necessidades em psicobiológicas, psicossociais e psicoespirituais. Para Horta, a enfermagem assiste o ser humano no atendimento de suas necessidades e busca torná-lo independente dessa assistência quando possível. Foi ela quem introduziu o processo de enfermagem no Brasil, e muitos instrumentos de admissão ainda seguem essa organização. A Resolução COFEN 736/2024 pede suporte teórico para o Processo de Enfermagem (art. 2º), e a teoria orienta o que se pergunta na avaliação.",
+"porAlt": [
+"Errada: Orem trabalha com requisitos de autocuidado e sistemas de enfermagem, não com essa tríade.",
+"Errada: Roy organiza a avaliação em estímulos e quatro modos adaptativos.",
+"Errada: Peplau descreve fases da relação interpessoal enfermeira-paciente, não grupos de necessidades.",
+"Correta: a divisão em psicobiológicas, psicossociais e psicoespirituais é a de Horta, apoiada em Mohana.",
+"Errada: Nightingale enfatiza o ambiente, como ar, luz, limpeza e silêncio, e não grupos de necessidades."
+]
+},
+{
+"q": "Numa aula para residentes de primeiro ano, um professor apresenta como etapas vigentes do Processo de Enfermagem: histórico, diagnóstico, plano assistencial, plano de cuidados ou prescrição, evolução e prognóstico. Uma residente questiona a lista com base na legislação atual. Qual análise está correta?",
+"alts": [
+"São as seis fases de Horta; a norma vigente prevê cinco etapas.",
+"Está correta, pois a Resolução 736/2024 incorporou o prognóstico.",
+"São as etapas da Resolução 358/2009, ainda válidas em hospitais.",
+"Está correta, mas a evolução passou a ser a primeira etapa.",
+"São as fases de Orem; Horta propôs quatro etapas lineares."
+],
+"gab": 0,
+"tema": "sae",
+"sub": "Teorias de enfermagem",
+"cenario": "ger",
+"comp": "norma",
+"nivel": "r3",
+"base": "Resolução COFEN 736/2024, art. 4º; processo de enfermagem de Wanda de Aguiar Horta",
+"coment": "O processo de enfermagem proposto por Wanda Horta tinha seis fases: histórico, diagnóstico, plano assistencial, plano de cuidados ou prescrição, evolução e prognóstico. A lista do professor reproduz essas fases. A norma vigente é a Resolução COFEN 736/2024, que organiza o Processo de Enfermagem em cinco etapas inter-relacionadas, interdependentes, recorrentes e cíclicas: Avaliação, Diagnóstico, Planejamento, Implementação e Evolução de Enfermagem. A resolução não inclui o prognóstico. A Resolução 358/2009, revogada, também tinha cinco etapas, com Coleta de dados (ou Histórico) no início e Avaliação no fim.",
+"porAlt": [
+"Correta: a lista reproduz as seis fases de Horta, e a Resolução 736/2024 tem cinco etapas.",
+"Errada: a 736/2024 não inclui prognóstico; suas etapas são Avaliação, Diagnóstico, Planejamento, Implementação e Evolução.",
+"Errada: a 358/2009 foi revogada e tinha cinco etapas, sem plano assistencial nem prognóstico separados.",
+"Errada: a Evolução é a quinta etapa; a primeira é a Avaliação de Enfermagem.",
+"Errada: essas são as fases de Horta; Orem propôs a teoria do déficit de autocuidado."
+]
+},
+{
+"q": "Um homem de 70 anos, no décimo dia após AVC, consegue levar a colher à boca e lavar o rosto, mas precisa que a equipe corte os alimentos, faça a higiene íntima e o ajude a vestir-se. A enfermeira usa a teoria de Orem para planejar o cuidado. Qual sistema de enfermagem se aplica?",
+"alts": [
+"Sistema totalmente compensatório.",
+"Sistema de apoio-educação do paciente.",
+"Requisito universal de autocuidado.",
+"Modo adaptativo fisiológico de Roy.",
+"Sistema parcialmente compensatório."
+],
+"gab": 4,
+"tema": "sae",
+"sub": "Teorias de enfermagem",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r2",
+"base": "Resolução COFEN 736/2024, art. 2º (suporte teórico); teoria do déficit de autocuidado de Dorothea Orem",
+"coment": "A teoria de Dorothea Orem articula três teorias: autocuidado, déficit de autocuidado e sistemas de enfermagem. Os sistemas descrevem quem realiza o autocuidado. No totalmente compensatório, a enfermagem realiza todo o autocuidado que a pessoa não consegue executar; no parcialmente compensatório, enfermagem e paciente dividem as ações; no de apoio-educação, a pessoa executa o autocuidado e precisa de orientação e apoio para decidir e aprender. O paciente do caso faz parte das ações e depende da equipe para outras, o que caracteriza o sistema parcialmente compensatório. Requisitos de autocuidado são outro conceito da teoria.",
+"porAlt": [
+"Errada: o paciente realiza parte do autocuidado, o que afasta a compensação total pela enfermagem.",
+"Errada: no apoio-educação, a pessoa executa o autocuidado e precisa só de orientação e apoio.",
+"Errada: requisitos universais são necessidades de autocuidado, e não sistema de enfermagem.",
+"Errada: modos adaptativos pertencem ao modelo de Roy, e não à teoria de Orem.",
+"Correta: paciente e enfermagem dividem as ações de autocuidado no sistema parcialmente compensatório."
+]
+},
+{
+"q": "Um pedreiro de 45 anos, com amputação transtibial recente, diz que não se reconhece no espelho e evita olhar o coto. Ele também se preocupa por não poder voltar ao trabalho e sustentar a família, e a ferida operatória cicatriza bem. Usando o modelo de Roy, a reação de não se reconhecer e evitar o coto expressa qual modo adaptativo?",
+"alts": [
+"Modo adaptativo fisiológico.",
+"Modo adaptativo do autoconceito.",
+"Modo adaptativo da função de papel.",
+"Modo adaptativo da interdependência.",
+"Estímulo residual do ambiente."
+],
+"gab": 1,
+"tema": "sae",
+"sub": "Teorias de enfermagem",
+"cenario": "enf",
+"comp": "aval",
+"nivel": "r3",
+"base": "Resolução COFEN 736/2024, art. 2º (suporte teórico); modelo de adaptação de Callista Roy",
+"coment": "No modelo de adaptação de Callista Roy, a pessoa é um sistema adaptativo que responde a estímulos focal, contextual e residual por meio dos mecanismos regulador e cognato, e as respostas aparecem em quatro modos adaptativos: fisiológico, autoconceito, função de papel e interdependência. Não se reconhecer no espelho e evitar o coto são respostas ligadas à imagem corporal, dentro do modo do autoconceito. A preocupação com o trabalho e o sustento da família se relaciona à função de papel, e a cicatrização da ferida, ao modo fisiológico. A pergunta pede a reação específica de imagem corporal.",
+"porAlt": [
+"Errada: o modo fisiológico abrange a ferida, que cicatriza bem, e não a reação à própria imagem.",
+"Correta: imagem corporal alterada, com rejeição do coto, é resposta do modo do autoconceito.",
+"Errada: a função de papel se refere à preocupação com o trabalho, e não à reação diante do espelho.",
+"Errada: interdependência trata das relações de dar e receber apoio, e não da imagem corporal.",
+"Errada: estímulo residual é fator de influência incerta, e a pergunta pede um modo adaptativo."
+]
+},
+{
+"q": "Na internação psiquiátrica de um hospital geral, uma enfermeira inicia o acompanhamento de uma mulher de 32 anos com depressão grave. No primeiro encontro, as duas ainda não se conhecem; a paciente busca ajuda, e a enfermeira a ajuda a reconhecer o problema e a compreender o uso do serviço. Pela teoria de Peplau, qual sequência de fases a relação deve percorrer?",
+"alts": [
+"Identificação, orientação, exploração e resolução.",
+"Orientação, exploração, identificação e resolução.",
+"Orientação, identificação, exploração e resolução.",
+"Orientação, identificação, resolução e exploração.",
+"Acolhimento, identificação, exploração e alta."
+],
+"gab": 2,
+"tema": "sae",
+"sub": "Teorias de enfermagem",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r3",
+"base": "Resolução COFEN 736/2024, art. 2º (suporte teórico); teoria das relações interpessoais de Hildegard Peplau",
+"coment": "Hildegard Peplau descreve a enfermagem como processo interpessoal terapêutico, muito cobrado em saúde mental. A relação enfermeira-paciente percorre quatro fases: orientação, identificação, exploração e resolução. O primeiro encontro do caso, em que as duas são estranhas, a paciente busca ajuda e a enfermeira a ajuda a reconhecer o problema e a usar o serviço, corresponde à orientação. Ao longo da relação, a enfermeira assume papéis como estranho, pessoa-recurso, professor, líder, substituto e conselheiro. A resolução encerra o processo, quando as necessidades foram atendidas e a paciente se torna mais independente.",
+"porAlt": [
+"Errada: a relação começa pela orientação, quando enfermeira e paciente ainda são estranhas.",
+"Errada: a identificação vem antes da exploração na sequência descrita por Peplau.",
+"Correta: são as quatro fases de Peplau, na ordem orientação, identificação, exploração e resolução.",
+"Errada: a resolução é a fase final, que encerra a relação depois da exploração.",
+"Errada: acolhimento e alta não são fases da teoria; a primeira é orientação e a última, resolução."
+]
+},
+{
+"q": "Em visita domiciliar a uma puérpera de comunidade quilombola, a enfermeira da Estratégia Saúde da Família observa três práticas: a mãe toma chá morno preparado pela avó, a família mantém o resguardo e o recém-nascido tem pó de café aplicado sobre o coto umbilical. Pelo modelo de Leininger, qual modo de ação do cuidado cultural se aplica à prática com o coto umbilical?",
+"alts": [
+"Preservação ou manutenção do cuidado cultural trazido pela família.",
+"Acomodação ou negociação, mantendo a prática com pequenos ajustes.",
+"Estímulo contextual a ser compensado pelo sistema de apoio-educação.",
+"Repadronização ou reestruturação, substituindo a prática insegura.",
+"Fase de resolução da relação interpessoal, encerrando o vínculo."
+],
+"gab": 3,
+"tema": "sae",
+"sub": "Teorias de enfermagem",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "tit",
+"base": "Resolução COFEN 736/2024, art. 2º (suporte teórico); teoria da diversidade e universalidade do cuidado cultural de Madeleine Leininger",
+"coment": "A teoria de Madeleine Leininger, da diversidade e universalidade do cuidado cultural, representada no Modelo Sunrise, propõe três modos de ação. Preservação ou manutenção apoia práticas culturais benéficas ou inofensivas. Acomodação ou negociação ajusta a prática com a família quando ela pode ser adaptada. Repadronização ou reestruturação ajuda a família a modificar uma prática que traz risco, substituindo-a por cuidado seguro, sempre com respeito e diálogo. Substância não estéril sobre o coto umbilical expõe o recém-nascido a infecção, o que pede repadronização. O chá e o resguardo podem ser preservados ou negociados conforme a avaliação.",
+"porAlt": [
+"Errada: preservar cabe a práticas benéficas ou inofensivas, e o pó de café no coto traz risco ao bebê.",
+"Errada: manter a aplicação com ajustes não elimina o risco de infecção do coto umbilical.",
+"Errada: estímulo contextual é conceito de Roy, e apoio-educação é sistema de Orem, não de Leininger.",
+"Correta: prática que expõe o bebê a risco pede repadronização ou reestruturação, com diálogo.",
+"Errada: resolução é fase da relação interpessoal de Peplau, e não modo de ação do cuidado cultural."
+]
+},
+{
+"q": "Numa enfermaria de clínica médica, a enfermeira reorganiza o cuidado: abre as janelas durante o dia para renovar o ar, reduz ruídos e luzes à noite, mantém leito e ambiente limpos, ajusta o aquecimento e registra observações sistemáticas de cada paciente. Para Florence Nightingale, qual função da enfermagem fundamenta essas medidas?",
+"alts": [
+"Colocar o paciente nas melhores condições para a natureza agir.",
+"Estabelecer metas mútuas com o paciente por meio da transação.",
+"Compensar o déficit de autocuidado com sistemas de enfermagem.",
+"Promover adaptação aos estímulos focal, contextual e residual.",
+"Fortalecer as linhas de defesa contra estressores ambientais."
+],
+"gab": 0,
+"tema": "sae",
+"sub": "Teorias de enfermagem",
+"cenario": "enf",
+"comp": "cuid",
+"nivel": "r3",
+"base": "Resolução COFEN 736/2024, art. 2º (suporte teórico); teoria ambientalista de Florence Nightingale (Notes on Nursing)",
+"coment": "Florence Nightingale, base da enfermagem moderna, formulou a teoria ambientalista em Notes on Nursing. Para ela, a função da enfermagem é colocar o paciente nas melhores condições para que a natureza aja sobre ele, o que se faz pelo controle do ambiente: ar puro, luz, calor, limpeza, silêncio, dieta adequada e observação do doente. As medidas do caso (ventilação, redução de ruído, limpeza, aquecimento e observação sistemática) aplicam esses elementos. As demais alternativas descrevem conceitos centrais de King, Orem, Roy e Neuman, que distinguem cada teórica na prova.",
+"porAlt": [
+"Correta: é a função da enfermagem na teoria ambientalista, aplicada pelo controle do ambiente.",
+"Errada: metas estabelecidas mutuamente por transação são o núcleo da teoria de Imogene King.",
+"Errada: déficit de autocuidado e sistemas de enfermagem pertencem à teoria de Dorothea Orem.",
+"Errada: estímulos focal, contextual e residual são conceitos do modelo de adaptação de Roy.",
+"Errada: linhas de defesa e estressores são conceitos do modelo de sistemas de Betty Neuman."
+]
+},
+{
+"q": "Um homem de 72 anos com DPOC é acompanhado por uma enfermeira que usa o modelo de sistemas de Neuman. Ela identifica a chegada do período de maior circulação de vírus respiratórios como estressor extrapessoal e, antes de qualquer reação, orienta higiene das mãos, evitar aglomerações e reconhecer sinais de piora. Pelo modelo, como se classifica essa intervenção?",
+"alts": [
+"Prevenção secundária, após o estressor romper a linha normal.",
+"Prevenção terciária, para readaptação após o tratamento.",
+"Transação entre enfermeira e cliente, com metas mútuas.",
+"Acomodação ou negociação do cuidado cultural da família.",
+"Prevenção primária, fortalecendo a linha flexível de defesa."
+],
+"gab": 4,
+"tema": "sae",
+"sub": "Teorias de enfermagem",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "tit",
+"base": "Resolução COFEN 736/2024, art. 2º (suporte teórico); modelo de sistemas de Betty Neuman",
+"coment": "No modelo de sistemas de Betty Neuman, o cliente é um sistema exposto a estressores intrapessoais, interpessoais e extrapessoais, protegido pela linha flexível de defesa, pela linha normal de defesa e pelas linhas de resistência em torno da estrutura básica. A intervenção é classificada pelo momento: prevenção primária, quando o estressor é identificado antes da reação, para fortalecer a linha flexível de defesa; secundária, quando já há reação e sintomas; terciária, na readaptação após o tratamento. No caso, a enfermeira age antes de qualquer reação ao estressor externo, o que caracteriza prevenção primária.",
+"porAlt": [
+"Errada: a prevenção secundária ocorre depois da reação ao estressor, e o caso descreve ação anterior.",
+"Errada: a prevenção terciária visa à readaptação após tratamento, o que não é o momento do caso.",
+"Errada: transação com metas mútuas é conceito de Imogene King, e não do modelo de Neuman.",
+"Errada: acomodação ou negociação é modo de ação do cuidado cultural de Leininger.",
+"Correta: agir antes da reação ao estressor é prevenção primária, que fortalece a linha flexível de defesa."
+]
+},
+{
+"q": "Em consulta de enfermagem, uma mulher de 55 anos com diabetes e a enfermeira discutem suas percepções sobre a doença, negociam e concordam numa meta de caminhada semanal, definindo juntas os meios para alcançá-la e o prazo de reavaliação. Na teoria de Imogene King, como se denomina o processo em que enfermeira e cliente chegam a esse acordo?",
+"alts": [
+"Identificação, fase da relação interpessoal.",
+"Sistema de apoio-educação do autocuidado.",
+"Transação, com metas estabelecidas mutuamente.",
+"Modo adaptativo da interdependência de Roy.",
+"Prevenção primária do modelo de sistemas."
+],
+"gab": 2,
+"tema": "sae",
+"sub": "Teorias de enfermagem",
+"cenario": "aps",
+"comp": "cuid",
+"nivel": "r3",
+"base": "Resolução COFEN 736/2024, art. 2º (suporte teórico); teoria de alcance de metas de Imogene King",
+"coment": "Imogene King propôs uma estrutura de sistemas abertos, com sistemas pessoal, interpessoal e social, e a teoria de alcance de metas. Na interação, enfermeira e cliente trocam percepções, fazem julgamentos e agem; quando chegam a acordo sobre metas estabelecidas mutuamente e concordam nos meios para alcançá-las, ocorre a transação. Percepção, interação e transação são os conceitos-chave cobrados. No caso, a meta de caminhada e os meios definidos em conjunto, com prazo de reavaliação, descrevem a transação. Identificação é fase de Peplau, apoio-educação é sistema de Orem e interdependência é modo adaptativo de Roy.",
+"porAlt": [
+"Errada: identificação é fase da relação interpessoal de Peplau, e não conceito da teoria de King.",
+"Errada: o sistema de apoio-educação pertence à teoria do déficit de autocuidado de Orem.",
+"Correta: na teoria de King, o acordo sobre metas mútuas e meios para alcançá-las é a transação.",
+"Errada: interdependência é modo adaptativo do modelo de Roy, ligado às relações de apoio.",
+"Errada: prevenção primária classifica intervenções no modelo de sistemas de Neuman."
+]
+},
+{
 "q": "Uma enfermeira assume a gestão da qualidade de uma rede que inclui um hospital filantrópico, um laboratório clínico, um serviço de atenção domiciliar e um ambulatório de ensino ligado a uma universidade federal. Ela precisa definir em quais serviços a RDC ANVISA 36/2013 obriga a constituição de Núcleo de Segurança do Paciente. Qual é a resposta correta?",
 "alts": [
 "No hospital filantrópico e no ambulatório de ensino da universidade.",

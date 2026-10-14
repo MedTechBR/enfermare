@@ -1,0 +1,502 @@
+[
+ {
+  "q": "Gestante de 24 anos, primigesta, tem a gravidez confirmada por teste rápido na UBS com 9 semanas. É classificada como de risco habitual, e a enfermeira organiza com a equipe da Estratégia Saúde da Família o calendário de consultas. Segundo a Portaria GM/MS 5.350/2024, que instituiu a Rede Alyne, qual é o mínimo de consultas de pré-natal previsto na atenção primária?",
+  "alts": [
+   "Seis consultas, a primeira até o fim do primeiro trimestre",
+   "Sete consultas, intercaladas entre enfermeiros e médicos",
+   "Doze consultas, com equipe especialista e multiprofissional",
+   "Sete consultas, todas realizadas pelo médico da equipe",
+   "Seis consultas, intercaladas entre enfermeiros e médicos"
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 5.350/2024 (Rede Alyne)",
+  "coment": "A Rede Alyne (Portaria GM/MS 5.350/2024, que transformou a Rede Cegonha) elevou o mínimo de consultas de pré-natal na APS de 6 para 7, intercaladas entre enfermeiros e médicos, com captação oportuna até 12 semanas. O número 6 vem do Caderno de Atenção Básica nº 32 e da Rede Cegonha e é a armadilha clássica da banca. O mínimo de 12 consultas pertence ao Ambulatório de Gestação e Puerpério de Alto Risco (AGPAR), com equipe especialista e multiprofissional, e não se aplica à gestante de risco habitual, cujo pré-natal pode ser conduzido pelo enfermeiro.",
+  "porAlt": [
+   "Seis consultas era o mínimo do Caderno 32 e da Rede Cegonha, superado pela Rede Alyne.",
+   "Correta: a Rede Alyne fixou o mínimo de sete consultas na APS, intercaladas entre enfermeiros e médicos.",
+   "O mínimo de doze consultas vale para o AGPAR, no alto risco, e não para o risco habitual.",
+   "A portaria prevê consultas intercaladas; o enfermeiro conduz o pré-natal de risco habitual.",
+   "O intercalamento está certo, mas o mínimo vigente passou a ser de sete consultas."
+  ]
+ },
+ {
+  "q": "Gestante de 30 anos comparece à primeira consulta de enfermagem na UBS em 05/03/2026. Informa ciclos regulares e data da última menstruação (DUM) segura em 20/11/2025. Ainda não fez ultrassonografia. Pela contagem de dias desde a DUM e pela regra de Nägele, qual é a idade gestacional nesta data e a data provável do parto (DPP)?",
+  "alts": [
+   "15 semanas; DPP em 27/07/2026",
+   "14 semanas; DPP em 27/08/2026",
+   "16 semanas; DPP em 13/08/2026",
+   "15 semanas; DPP em 27/08/2026",
+   "15 semanas; DPP em 17/08/2026"
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 32 (Atenção ao pré-natal de baixo risco, MS 2012)",
+  "coment": "A idade gestacional é o número de dias desde o primeiro dia da DUM dividido por 7. De 20/11/2025 a 05/03/2026 há 105 dias (10 restantes de novembro, 31 de dezembro, 31 de janeiro, 28 de fevereiro e 5 de março), ou seja, 15 semanas exatas. A regra de Nägele soma 7 ao dia e subtrai 3 do mês (nos meses de janeiro a março, soma 9): 20 mais 7 dá 27, e 11 menos 3 dá 8, com DPP em 27/08/2026. O Caderno de Atenção Básica nº 32 lembra que, se a DUM for incerta, a ultrassonografia entre 10 e 13 semanas é o melhor datador.",
+  "porAlt": [
+   "O dia está certo, mas o mês foi obtido subtraindo 4 em vez de 3 do mês da DUM.",
+   "A DPP está certa, mas 105 dias desde a DUM correspondem a 15 semanas, não a 14.",
+   "Há dois erros: 105 dias são 15 semanas, e na regra se somam 7 dias ao dia da DUM.",
+   "Correta: 105 dias desde a DUM dão 15 semanas, e 20 mais 7 com 11 menos 3 dão 27/08/2026.",
+   "A idade gestacional está certa, mas o dia da DPP é 27, resultado de 20 somado a 7."
+  ]
+ },
+ {
+  "q": "Gestante de 26 anos, 11 semanas, sem diabetes conhecido, traz à consulta de enfermagem os exames do primeiro trimestre. A glicemia de jejum é de 98 mg/dL; os demais resultados estão normais. Ela pergunta se ainda precisará fazer a curva glicêmica no segundo trimestre. Pelos critérios vigentes do Ministério da Saúde, como se interpreta esse resultado?",
+  "alts": [
+   "Diabetes gestacional, sem necessidade do TOTG entre 24 e 28 semanas",
+   "Normal, com TOTG de 75 g obrigatório entre 24 e 28 semanas",
+   "Diabetes diagnosticado na gestação, por ultrapassar 92 mg/dL",
+   "Glicemia limítrofe, a repetir após 20 semanas antes de concluir",
+   "Normal, porque o corte de diabetes gestacional é de 110 mg/dL"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Manual de Gestação de Alto Risco (MS, 2022), rastreamento universal do diabetes gestacional",
+  "coment": "No rastreamento universal adotado pelo Ministério da Saúde, a glicemia de jejum inicial de 92 a 125 mg/dL já define diabetes gestacional, e o tratamento começa sem esperar outro exame; 126 mg/dL ou mais é diabetes diagnosticado na gestação. O TOTG de 75 g entre 24 e 28 semanas fica para a gestante com glicemia inicial abaixo de 92 mg/dL, e nele um único valor alterado basta (jejum 92, 1 hora 180 ou 2 horas 153 mg/dL). Os cortes de 85 e 110 mg/dL do Caderno de Atenção Básica nº 32 estão superados e aparecem como distrator.",
+  "porAlt": [
+   "Correta: jejum inicial entre 92 e 125 mg/dL define diabetes gestacional, e o TOTG fica dispensado.",
+   "O TOTG é para quem tem jejum inicial abaixo de 92 mg/dL; 98 mg/dL já é diagnóstico.",
+   "Diabetes diagnosticado na gestação exige jejum de 126 mg/dL ou mais, não apenas acima de 92.",
+   "Um único valor entre 92 e 125 mg/dL fecha o diagnóstico, sem repetição após 20 semanas.",
+   "O corte de 110 mg/dL vem do Caderno 32 e foi substituído pelo valor de 92 mg/dL."
+  ]
+ },
+ {
+  "q": "Gestante de 22 anos, 14 semanas, risco habitual, já usa sulfato ferroso diariamente pela manhã. Na consulta de enfermagem, pergunta se precisa de outro suplemento, pois ouviu falar de cálcio na gravidez. Não tem hipertensão nem outros fatores de risco para pré-eclâmpsia. Segundo a orientação vigente do Ministério da Saúde, qual é a conduta?",
+  "alts": [
+   "Cálcio elementar 1.000 mg/dia a partir de 20 semanas, com o ferro",
+   "Cálcio só com fator de alto risco para pré-eclâmpsia, junto do AAS",
+   "Cálcio elementar 1.000 mg/dia até o parto, a 2 horas do ferro",
+   "Cálcio elementar 500 mg/dia até 36 semanas, tomado com o ferro",
+   "Cálcio elementar 1.000 mg/dia até o parto, tomado com o ferro"
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Nota Técnica Conjunta nº 251/2024 (MS), suplementação de cálcio na gestação",
+  "coment": "A Nota Técnica Conjunta nº 251/2024 do Ministério da Saúde tornou universal a suplementação de cálcio na gestação: 1.000 mg/dia de cálcio elementar, como dois comprimidos de carbonato de cálcio de 1.250 mg, da 12ª semana até o parto, para todas as gestantes. O cálcio e o ferro são tomados com pelo menos 2 horas de intervalo. O ácido acetilsalicílico, ao contrário, não é universal: 100 mg à noite, de 12 a 36 semanas, só para quem tem um fator de alto risco ou dois moderados para pré-eclâmpsia. A prescrição de suplementos de programa é atribuição do enfermeiro.",
+  "porAlt": [
+   "O início é com 12 semanas, e o cálcio não deve ser tomado junto com o ferro.",
+   "O cálcio passou a ser universal; o AAS é que depende dos fatores de risco.",
+   "Correta: 1.000 mg/dia de cálcio elementar da 12ª semana até o parto, separado do ferro.",
+   "A dose é de 1.000 mg/dia até o parto, com pelo menos 2 horas de intervalo do ferro.",
+   "Dose e duração estão certas, mas cálcio e ferro exigem 2 horas de intervalo."
+  ]
+ },
+ {
+  "q": "Gestante de 19 anos chega à UBS para iniciar o pré-natal com 22 semanas. Não tem caderneta de vacinação e não se lembra de ter recebido vacina contra tétano em nenhum momento da vida. Pela Instrução Normativa do Calendário Nacional de Vacinação de 2026, como a enfermeira deve iniciar a atualização contra difteria, tétano e coqueluche?",
+  "alts": [
+   "dT hoje, outra dT em 60 dias e dTpa no puerpério até 45 dias",
+   "dTpa em dose única hoje, sem outras doses durante a gestação",
+   "dT hoje e dTpa só a partir de 28 semanas, junto com a VSR",
+   "Três doses de dT a cada 30 dias e a dTpa somente após o parto",
+   "dTpa hoje como 1ª dose e dT em sequência, a cada 60 dias"
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "Sem histórico vacinal, a IN 2026 indica 3 doses de vacinas com toxoides diftérico e tetânico, com intervalo recomendado de 60 dias (mínimo de 30 dias em situação excepcional): 2 doses de dT e 1 de dTpa a partir da 20ª semana. Quando a gestante chega ao serviço já com 20 semanas ou mais, a dTpa é aplicada como 1ª dose, e o esquema é completado em sequência com dT ainda na gestação; o que não couber vai para o puerpério até 45 dias. Antecipar a dTpa garante a passagem de anticorpos contra coqueluche ao bebê. Dose isolada não completa o esquema de quem nunca foi vacinada.",
+  "porAlt": [
+   "A dTpa não deve ir para o puerpério; com 22 semanas ela já é a 1ª dose do esquema.",
+   "Sem histórico são necessárias 3 doses; a dTpa isolada não completa o esquema.",
+   "A dTpa é indicada a partir de 20 semanas; não se espera a 28ª semana da VSR.",
+   "O intervalo recomendado é de 60 dias, e a dTpa deve ser feita ainda na gestação.",
+   "Correta: a partir de 20 semanas a dTpa é a 1ª dose, e o esquema se completa com dT."
+  ]
+ },
+ {
+  "q": "Gestante de 37 anos, preta, G3P2, 18 semanas, sem comorbidades, com PA de 110/70 mmHg. O hemograma mostra hemoglobina de 10,2 g/dL. Na consulta de enfermagem, relata que o companheiro a agride verbalmente e já a empurrou contra a parede. Pelo Manual de Gestação de Alto Risco de 2022, como se classifica o risco e onde ela segue o pré-natal?",
+  "alts": [
+   "Alto risco, com transferência para o AGPAR e alta da UBS",
+   "Risco intermediário, na APS com matriciamento especializado",
+   "Risco habitual, pois nenhum achado isolado muda a classificação",
+   "Alto risco pela anemia, com envio imediato à maternidade",
+   "Risco intermediário, com transferência para a maternidade"
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Manual de Gestação de Alto Risco (MS, 2022)",
+  "coment": "O Manual de Gestação de Alto Risco (MS, 2022) estratifica a gestação em risco habitual, intermediário e alto. São critérios de risco intermediário, entre outros, idade acima de 35 anos, gestante negra ou indígena, violência doméstica e hemoglobina de 9 a 11 g/dL, todos presentes no caso. O risco intermediário segue na APS com matriciamento ou apoio especializado. Alto risco exigiria, por exemplo, hemoglobina abaixo de 9 g/dL, hipertensão crônica ou diabetes prévio, com cuidado compartilhado com o AGPAR, sem alta da UBS. Hemoglobina de 7 g/dL ou menos é que pede avaliação hospitalar imediata.",
+  "porAlt": [
+   "Os achados são de risco intermediário, e no alto risco o cuidado é compartilhado, sem alta.",
+   "Correta: idade, raça, violência e hemoglobina de 9 a 11 g/dL indicam risco intermediário.",
+   "Idade acima de 35 anos, raça negra, violência e anemia leve configuram risco intermediário.",
+   "Alto risco é hemoglobina abaixo de 9 g/dL; a maternidade fica para valores de 7 ou menos.",
+   "O risco intermediário é acompanhado na APS, e não transferido para a maternidade."
+  ]
+ },
+ {
+  "q": "Primigesta de 23 anos, 39 semanas, risco habitual, chega à triagem da maternidade com contrações irregulares há 6 horas. Ao exame, colo com 3 cm de dilatação, bolsa íntegra, BCF sem alteração e PA de 110/70 mmHg. Pela Diretriz Nacional de Assistência ao Parto Normal de 2017, qual é a interpretação e a conduta da enfermeira obstétrica?",
+  "alts": [
+   "Fase ativa; internar e abrir o partograma já na admissão",
+   "Fase latente; internar para ocitocina e acelerar a dilatação",
+   "Fase latente; orientar, apoiar e reavaliar, sem internar",
+   "Fase ativa; internar, pois a diretriz brasileira usa 3 cm",
+   "Fase latente; internar e iniciar cardiotocografia contínua"
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz Nacional de Assistência ao Parto Normal (MS/CONITEC, 2017)",
+  "coment": "Na Diretriz Nacional de Assistência ao Parto Normal (MS/CONITEC, 2017), a fase ativa começa com 4 cm de dilatação e contrações regulares; a OMS (2018) usa 5 cm. Com 3 cm e contrações irregulares, a mulher está na fase latente. Internar nessa fase aumenta as intervenções sem trazer benefício, por isso a conduta é orientar sobre os sinais do trabalho de parto ativo, oferecer apoio e métodos não farmacológicos e reavaliar. O partograma só é aberto na fase ativa, e no risco habitual a ausculta fetal recomendada é a intermitente.",
+  "porAlt": [
+   "A fase ativa começa com 4 cm e contrações regulares; 3 cm ainda é fase latente.",
+   "Na fase latente de risco habitual não se indica ocitocina para acelerar o parto.",
+   "Correta: com 3 cm e contrações irregulares, orienta-se e reavalia-se sem internar.",
+   "A diretriz brasileira define a fase ativa a partir de 4 cm, e não de 3 cm.",
+   "No risco habitual a ausculta é intermitente, e internar na fase latente não traz benefício."
+  ]
+ },
+ {
+  "q": "Parturiente de 27 anos, segunda gestação, risco habitual, está no Centro de Parto Normal em fase ativa, com 6 cm de dilatação e bolsa íntegra. A enfermeira obstétrica planeja a vigilância materno-fetal até o período expulsivo. Pela Diretriz Nacional de Assistência ao Parto Normal de 2017, com que frequência devem ser feitos a ausculta do BCF e o toque vaginal?",
+  "alts": [
+   "BCF a cada 30 minutos; toque a cada 4 horas",
+   "BCF a cada 60 minutos; toque a cada 2 horas",
+   "BCF por cardiotocografia; toque a cada hora",
+   "BCF a cada 2 horas; toque a cada 4 horas",
+   "BCF a cada 30 minutos; toque a cada hora"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Diretriz Nacional de Assistência ao Parto Normal (MS/CONITEC, 2017)",
+  "coment": "No primeiro período do trabalho de parto de risco habitual, a Diretriz Nacional de Assistência ao Parto Normal (2017) recomenda ausculta fetal intermitente, a cada 30 minutos, com sonar ou Pinard, palpando o pulso materno para não confundir as frequências. O toque vaginal é feito a cada 4 horas, ou antes se houver indicação clínica, porque toques repetidos não melhoram o desfecho e aumentam desconforto e risco de infecção. A cardiotocografia contínua não é rotina no risco habitual. Os achados são registrados no partograma, aberto na fase ativa.",
+  "porAlt": [
+   "Correta: ausculta intermitente a cada 30 minutos e toque vaginal a cada 4 horas.",
+   "A ausculta é a cada 30 minutos, e o toque de rotina é a cada 4 horas.",
+   "A cardiotocografia contínua não é rotina no risco habitual, nem o toque a cada hora.",
+   "A ausculta a cada 2 horas é insuficiente; no primeiro período ela é a cada 30 minutos.",
+   "A ausculta está certa, mas o toque a cada hora excede a recomendação de 4 horas."
+  ]
+ },
+ {
+  "q": "Primigesta de 25 anos é admitida às 8h em fase ativa, com 5 cm, e o ponto é marcado sobre a linha de alerta do partograma. Às 12h, com contrações regulares, bolsa íntegra e BCF sem alteração, o toque mostra 6 cm. A linha de ação está traçada 4 horas à direita da linha de alerta. Como a enfermeira obstétrica interpreta esse registro?",
+  "alts": [
+   "Ultrapassou a linha de ação; indicar intervenção imediata",
+   "Está à esquerda da linha de alerta; progressão adequada",
+   "Cruzou a linha de alerta sem atingir a de ação; reavaliar",
+   "Está sobre a linha de alerta; manter a mesma vigilância",
+   "Atingiu a linha de ação; indicar cesárea de imediato"
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Diretriz Nacional de Assistência ao Parto Normal (MS/CONITEC, 2017)",
+  "coment": "No partograma, a dilatação da admissão em fase ativa é marcada sobre a linha de alerta, que representa a progressão de 1 cm por hora; a linha de ação corre 4 horas à direita. Admitida com 5 cm às 8h, a parturiente estaria com 9 cm às 12h se acompanhasse a linha de alerta. Com 6 cm às 12h, o ponto fica 3 horas à direita da alerta, que passou por 6 cm às 9h, e 1 hora antes da ação, que passará por 6 cm às 13h. Cruzar a linha de alerta pede reavaliação da causa da lentidão; atingir a linha de ação é que pede intervenção.",
+  "porAlt": [
+   "A linha de ação só passará por 6 cm às 13h; o ponto ainda não a atingiu.",
+   "Às 12h a linha de alerta já marca 9 cm; com 6 cm o ponto está à direita dela.",
+   "Correta: o ponto está 3 horas à direita da alerta e 1 hora antes da linha de ação.",
+   "O ponto saiu da linha de alerta, que passou por 6 cm às 9h, e pede reavaliação.",
+   "A linha de ação não foi atingida, e a cesárea não decorre só do partograma."
+  ]
+ },
+ {
+  "q": "Em uma maternidade, um enfermeiro generalista, sem título de enfermeiro obstetra, acompanha uma parturiente de risco habitual com evolução normal até o período expulsivo. A coordenação discute quais atos ele pode realizar. Pela Lei 7.498/1986, qual atividade é permitida a esse enfermeiro como integrante da equipe de saúde?",
+  "alts": [
+   "Executar o parto sem distocia e acompanhar o trabalho de parto",
+   "Realizar episiotomia e episiorrafia, com anestesia local",
+   "Identificar distocias e conduzi-las até o fim, sem o médico",
+   "Realizar episiorrafia sob supervisão de técnico experiente",
+   "Aplicar fórceps de alívio no período expulsivo prolongado"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 7.498/1986, art. 11, inciso II e parágrafo único",
+  "coment": "A Lei 7.498/1986, art. 11, inciso II, permite a qualquer enfermeiro, como integrante da equipe de saúde, prestar assistência de enfermagem à gestante, à parturiente e à puérpera, acompanhar a evolução e o trabalho de parto e executar o parto sem distocia. O parágrafo único do art. 11 reserva à enfermeira obstétrica e à obstetriz a assistência ao parto normal, a identificação das distocias obstétricas com as providências até a chegada do médico e a realização de episiotomia e episiorrafia, com anestesia local quando necessária. Nenhuma categoria de enfermagem conduz a distocia sem o médico.",
+  "porAlt": [
+   "Correta: o art. 11, II, permite a todo enfermeiro executar o parto sem distocia.",
+   "Episiotomia e episiorrafia são da enfermeira obstétrica e da obstetriz, não do generalista.",
+   "A obstétrica identifica distocias e age só até a chegada do médico, sem conduzi-las.",
+   "A episiorrafia é da obstétrica e da obstetriz, e o técnico não supervisiona enfermeiro.",
+   "O fórceps é ato médico e não está entre as atribuições da enfermagem obstétrica."
+  ]
+ },
+ {
+  "q": "Puérpera de 28 anos acaba de ter parto vaginal de risco habitual no Centro de Parto Normal; o recém-nascido chorou ao nascer e está em contato pele a pele. Não há fator de risco para hemorragia na estratificação da admissão. A enfermeira obstétrica conduz o terceiro período. Qual é a conduta preconizada para prevenir a hemorragia pós-parto?",
+  "alts": [
+   "Ocitocina 10 UI IV em bolus rápido e clampeamento imediato",
+   "Ocitocina só se houver fator de risco, e clampeamento após 1 minuto",
+   "Misoprostol 800 mcg retal de rotina e tração antes da separação",
+   "Ocitocina 10 UI IM após o nascimento e clampeamento após 1 minuto",
+   "Metilergometrina 0,2 mg IM de rotina e clampeamento imediato"
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "OPAS 2018, Recomendações assistenciais para prevenção, diagnóstico e tratamento da hemorragia obstétrica",
+  "coment": "Pela estratégia Zero Morte Materna por Hemorragia (OPAS com o Ministério da Saúde) e pelas recomendações da OPAS de 2018, a maioria das hemorragias ocorre em mulheres sem fator de risco, por isso a profilaxia é universal: ocitocina 10 UI intramuscular logo após o nascimento, dentro do manejo ativo do terceiro período. O cordão é clampeado não antes de 1 minuto (entre 1 e 5 minutos ou quando parar de pulsar), e a tração controlada só é feita após os sinais de separação placentária. Misoprostol e metilergometrina ficam para a hemorragia que não responde à ocitocina.",
+  "porAlt": [
+   "A profilaxia é IM, e o clampeamento não deve ocorrer antes de 1 minuto.",
+   "A maioria das hemorragias ocorre sem fator de risco; a ocitocina é universal.",
+   "O misoprostol é de segunda linha, e a tração exige sinais de separação placentária.",
+   "Correta: ocitocina 10 UI IM logo após o nascimento e clampeamento não antes de 1 minuto.",
+   "A metilergometrina é segunda linha no tratamento, e o clampeamento imediato é evitado."
+  ]
+ },
+ {
+  "q": "Parturiente de 31 anos, risco habitual, em fase ativa avançada no pré-parto, acompanhada pela irmã, pede para ficar de cócoras e caminhar entre as contrações. O plantonista sugere mantê-la em decúbito dorsal com monitorização fetal contínua e, no expulsivo, empurrar o fundo uterino. Pela Diretriz Nacional de Assistência ao Parto Normal de 2017, qual conduta de enfermagem é adequada?",
+  "alts": [
+   "Manter o decúbito dorsal e a cardiotocografia contínua de rotina",
+   "Liberar a deambulação e fazer a manobra de Kristeller no expulsivo",
+   "Liberar a posição, mas retirar a acompanhante no período expulsivo",
+   "Restringir ao leito e indicar episiotomia de rotina no expulsivo",
+   "Manter a liberdade de posição e a ausculta fetal intermitente"
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretriz Nacional de Assistência ao Parto Normal (MS/CONITEC, 2017)",
+  "coment": "A Diretriz Nacional de Assistência ao Parto Normal (MS/CONITEC, 2017), reforçada pela Rede Alyne, pede cuidado baseado em evidência, com a mulher como protagonista: liberdade de movimento e de posição, métodos não farmacológicos de alívio da dor, acompanhante de livre escolha durante todo o trabalho de parto, parto e pós-parto, e ausculta fetal intermitente no risco habitual. A manobra de Kristeller, que empurra o fundo uterino no expulsivo, não é recomendada, e a episiotomia não é rotina. Decúbito dorsal obrigatório e cardiotocografia contínua não têm indicação de rotina nesse cenário.",
+  "porAlt": [
+   "No risco habitual a ausculta é intermitente, e a mulher escolhe a posição.",
+   "A deambulação é adequada, mas a manobra de Kristeller não é recomendada.",
+   "A acompanhante de livre escolha é garantida durante todo o parto e o pós-parto.",
+   "A episiotomia não é rotina, e restringir ao leito contraria a liberdade de posição.",
+   "Correta: liberdade de posição e ausculta intermitente são o padrão no risco habitual."
+  ]
+ },
+ {
+  "q": "Na visita domiciliar do 6º dia após parto vaginal, a enfermeira avalia puérpera de 20 anos que amamenta exclusivamente. Ela refere calafrios; a temperatura axilar é de 38,4 °C, o útero está doloroso à palpação e os lóquios, ainda vermelhos, têm odor fétido. As mamas estão macias, sem dor ou hiperemia. Qual é a hipótese e a conduta?",
+  "alts": [
+   "Lóquios fisiológicos; orientar higiene e manter a consulta puerperal",
+   "Ingurgitamento mamário; suspender a amamentação até a febre ceder",
+   "Tristeza puerperal com febre; acolher e reavaliar em uma semana",
+   "Suspeita de endometrite; encaminhar no mesmo dia à avaliação médica",
+   "Involução normal; massagem uterina e repouso por 48 horas"
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Puerpério e aleitamento",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 5.350/2024 (Rede Alyne) e Caderno de Atenção Básica nº 32 (MS, 2012)",
+  "coment": "Na visita domiciliar até o 7º dia, prevista pela Rede Alyne, a enfermeira avalia sangramento, involução uterina, lóquios, períneo, mamas, pressão, humor e método contraceptivo. Os lóquios são rubros nos primeiros 3 a 4 dias, depois serosos e, por fim, brancos, sem odor fétido. Febre, útero doloroso e lóquios fétidos formam o quadro sugestivo de endometrite, infecção puerperal que exige avaliação médica no mesmo dia. Com mamas macias e sem hiperemia, não há ingurgitamento nem mastite, e a amamentação, que nem a mastite suspende, deve continuar.",
+  "porAlt": [
+   "Lóquios fétidos com febre e útero doloroso não são fisiológicos no 6º dia.",
+   "As mamas estão normais, e nem a mastite justificaria suspender a amamentação.",
+   "A tristeza puerperal não causa febre nem útero doloroso com lóquios fétidos.",
+   "Correta: febre, útero doloroso e lóquios fétidos sugerem endometrite, a avaliar no mesmo dia.",
+   "Útero doloroso com febre não é involução normal, e o caso exige avaliação médica."
+  ]
+ },
+ {
+  "q": "No alojamento conjunto, a enfermeira observa a mamada de um recém-nascido de 2 dias. A mãe, primípara, refere dor ao amamentar. O bebê está de frente para a mama, com cabeça e tronco alinhados e o corpo próximo ao da mãe, bem apoiado. Pelo Caderno de Atenção Básica nº 23, qual achado indica pega adequada?",
+  "alts": [
+   "Mais aréola visível abaixo da boca do que acima dela",
+   "Lábio inferior virado para fora e queixo tocando a mama",
+   "Boca pouco aberta, abocanhando apenas o mamilo da mãe",
+   "Lábio inferior voltado para dentro e queixo afastado",
+   "Bochechas encovadas e ruído de estalo a cada sucção"
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Puerpério e aleitamento",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 23 (Saúde da criança: aleitamento materno e alimentação complementar, MS 2015)",
+  "coment": "O Caderno de Atenção Básica nº 23 (MS, 2015) separa posição e pega. A posição do caso já está adequada: bebê de frente para a mama, corpo próximo ao da mãe, cabeça e tronco alinhados e bem apoiado. A pega adequada tem boca bem aberta, lábio inferior virado para fora, queixo tocando a mama e mais aréola visível acima da boca do que abaixo. Boca pouco aberta, abocanhando só o mamilo, é causa frequente de dor e fissura. Corrigir a pega é a primeira intervenção diante da dor, e a amamentação continua em livre demanda.",
+  "porAlt": [
+   "Na pega adequada aparece mais aréola acima da boca do bebê, e não abaixo.",
+   "Correta: lábio inferior evertido e queixo tocando a mama são sinais de boa pega.",
+   "Na boa pega a boca está bem aberta e abocanha também parte da aréola.",
+   "O lábio inferior deve estar virado para fora, com o queixo tocando a mama.",
+   "Bochechas encovadas e estalos sugerem sucção ineficaz, e não pega adequada."
+  ]
+ },
+ {
+  "q": "Puérpera de 29 anos, no alojamento conjunto após parto vaginal, tem infecção pelo HTLV-1 confirmada no pré-natal. O recém-nascido está bem. A cunhada, que também amamenta, oferece-se para amamentar o bebê nos primeiros dias. A mãe pergunta à enfermeira como deve alimentar o filho. Qual é a orientação correta?",
+  "alts": [
+   "Amamentar normalmente, pois o HTLV não é transmitido pelo leite",
+   "Aceitar a amamentação pela cunhada, que é saudável e já amamenta",
+   "Amamentar enquanto recebe antirretroviral prescrito pelo médico",
+   "Amamentar com protetor de mamilo, que reduz a transmissão viral",
+   "Não amamentar, inibir a lactação e garantir a fórmula infantil"
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Puerpério e aleitamento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Caderno de Atenção Básica nº 23 (MS, 2015) e Portaria GM/MS 11.211/2026",
+  "coment": "A mãe vivendo com HTLV-1 ou 2 está entre as contraindicações verdadeiras ao aleitamento, assim como a mãe vivendo com HIV: a lactação é inibida com cabergolina, prescrita pelo médico, e a fórmula infantil é garantida. O aleitamento cruzado, por outra mulher, é proibido. A Portaria GM/MS 11.211/2026 mantém na lista nacional a infecção pelo HTLV em gestante, parturiente ou puérpera e na criança exposta ao risco de transmissão vertical, com notificação semanal. Já hepatite B ou C, tuberculose em tratamento e mastite não contraindicam a amamentação.",
+  "porAlt": [
+   "O HTLV é transmitido pelo leite, e por isso a amamentação é contraindicada.",
+   "O aleitamento cruzado é proibido, mesmo por mulher saudável que amamenta.",
+   "Não há antirretroviral que libere a amamentação; a contraindicação se mantém.",
+   "Protetor de mamilo não impede a transmissão, e a amamentação segue contraindicada.",
+   "Correta: no HTLV a amamentação é contraindicada, com inibição da lactação e fórmula."
+  ]
+ },
+ {
+  "q": "Mulher de 32 anos, com bebê de 5 meses em aleitamento exclusivo, voltará ao trabalho na próxima semana e procura a UBS para aprender a guardar o leite que vai ordenhar em casa. A avó cuidará do bebê durante o dia. Pelo Caderno de Atenção Básica nº 23, qual orientação sobre conservação e oferta do leite cru está correta?",
+  "alts": [
+   "Geladeira por até 48 horas e oferta em mamadeira de bico ortodôntico",
+   "Congelador por até 6 meses e descongelamento rápido em micro-ondas",
+   "Temperatura ambiente por até 12 horas e aquecimento em fogo direto",
+   "Geladeira por até 12 horas, congelador por até 15 dias e copinho",
+   "Congelador por até 15 dias e descongelamento em água fervendo"
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Puerpério e aleitamento",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 23 (MS, 2015)",
+  "coment": "Pelo Caderno de Atenção Básica nº 23 (MS, 2015), o leite materno cru ordenhado em casa dura até 12 horas na geladeira e até 15 dias no congelador. Para o uso, é descongelado em banho-maria com o fogo desligado, sem fervura nem micro-ondas, e oferecido em copinho, o que evita a interferência dos bicos artificiais na amamentação. A ordenha é feita com mãos lavadas, massagem circular e compressão com o polegar acima e o indicador abaixo da aréola, em direção ao tórax. O retorno ao trabalho não é motivo para interromper o aleitamento.",
+  "porAlt": [
+   "Na geladeira o leite cru dura até 12 horas, e a oferta é feita em copinho.",
+   "No congelador o prazo é de 15 dias, e o micro-ondas não é usado para descongelar.",
+   "O leite cru vai para geladeira ou congelador e não é aquecido em fogo direto.",
+   "Correta: até 12 horas na geladeira, até 15 dias no congelador e oferta em copinho.",
+   "O prazo no congelador está certo, mas o descongelamento é em banho-maria com fogo desligado."
+  ]
+ },
+ {
+  "q": "Puérpera de 27 anos, 5 semanas após cesárea, vem à consulta de enfermagem com o bebê, que ganha peso bem. Desde a segunda semana pós-parto, relata choro diário, falta de prazer nas atividades, insônia mesmo quando o bebê dorme e culpa por não se sentir boa mãe. Nega alucinações, ideias delirantes e ideação suicida. Qual é a hipótese mais provável?",
+  "alts": [
+   "Depressão pós-parto, a ser avaliada e acompanhada pela equipe",
+   "Tristeza puerperal, que se acolhe sem necessidade de seguimento",
+   "Psicose puerperal, que exige internação psiquiátrica imediata",
+   "Adaptação normal ao puerpério, esperada até o fim do 2º mês",
+   "Tristeza puerperal tardia, com resolução espontânea em dias"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Puerpério e aleitamento",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Caderno de Atenção Básica nº 32 (MS, 2012), atenção ao puerpério",
+  "coment": "A tristeza puerperal surge por volta do 3º ao 4º dia, é transitória e se acolhe sem medicação. Quando os sintomas depressivos duram mais de 2 semanas, como no caso, com cerca de 3 semanas de humor deprimido, anedonia, insônia e culpa, a hipótese é depressão pós-parto, que pede avaliação, acompanhamento pela equipe e discussão com o médico ou a saúde mental. A psicose puerperal se reconhece pelo delírio, em geral centrado no bebê, e é emergência. A consulta puerperal, que ocorre até 42 dias, inclui sempre a avaliação do humor.",
+  "porAlt": [
+   "Correta: sintomas depressivos por mais de 2 semanas no pós-parto sugerem depressão pós-parto.",
+   "A tristeza puerperal começa no 3º ou 4º dia e é transitória, não dura semanas.",
+   "Sem delírio nem alucinação, não há critério para psicose puerperal.",
+   "Anedonia, culpa e insônia persistentes não são adaptação normal ao puerpério.",
+   "Não existe tristeza puerperal de semanas; o quadro prolongado sugere depressão."
+  ]
+ },
+ {
+  "q": "Mulher de 26 anos, com bebê de 2 meses em aleitamento exclusivo, mora em área rural onde a vigilância confirmou circulação do vírus da febre amarela. Não tem registro da vacina. Na sala de vacina da UBS, a enfermeira confirma o alto risco de exposição. Pela Instrução Normativa de 2026, que reproduz o Manual dos CRIE, qual é a conduta?",
+  "alts": [
+   "Adiar a vacina até o bebê ter 6 meses, mantendo o aleitamento",
+   "Contraindicar a vacina enquanto durar o aleitamento materno",
+   "Vacinar e manter a amamentação, pois a vacina é inativada",
+   "Vacinar e suspender a amamentação por 30 dias após a dose",
+   "Vacinar e suspender o aleitamento por 10 dias após a dose"
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Puerpério e aleitamento",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS) e Manual dos CRIE, 6ª ed., 2023",
+  "coment": "A Instrução Normativa do Calendário Nacional de Vacinação 2026 reproduz o quadro do Manual dos CRIE (6ª edição, 2023): a lactante que amamenta criança com menos de 6 meses é vacinada contra febre amarela se houver alto risco de exposição ao vírus, e o aleitamento materno é suspenso por 10 dias após a vacinação. A vacina é de vírus vivo atenuado, aplicada por via subcutânea, e por isso exige o cuidado com o lactente pequeno. Com alto risco de exposição, adiar ou contraindicar a vacina deixaria a mãe desprotegida. A equipe orienta como manter a produção de leite e alimentar o bebê nesse intervalo.",
+  "porAlt": [
+   "Com alto risco de exposição a lactante é vacinada, sem esperar os 6 meses do bebê.",
+   "O aleitamento não contraindica a vacina; exige apenas a suspensão temporária.",
+   "A vacina febre amarela é de vírus vivo atenuado, e não inativada.",
+   "A suspensão do aleitamento recomendada é de 10 dias, e não de 30 dias.",
+   "Correta: com alto risco, vacina-se e suspende-se o aleitamento por 10 dias."
+  ]
+ },
+ {
+  "q": "Gestante de 31 anos, 34 semanas, chega à UBS para consulta de rotina queixando-se de cefaleia occipital e escotomas desde a manhã. A PA, medida com ela sentada, após repouso e com manguito adequado, é de 164/112 mmHg. Não há convulsão nem sangramento, e os movimentos fetais estão presentes. Qual é a conduta da enfermeira?",
+  "alts": [
+   "Repetir a PA em 15 minutos e só então decidir o encaminhamento",
+   "Encaminhar à maternidade com transporte e contato prévio",
+   "Solicitar proteinúria e agendar retorno em 7 dias na UBS",
+   "Oferecer nifedipino sublingual e observar por uma hora",
+   "Orientar repouso em decúbito lateral e retorno em 48 horas"
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Manual de Gestação de Alto Risco (MS, 2022) e Protocolo de Pré-eclâmpsia da RBEHG 2023",
+  "coment": "Pelo Manual de Gestação de Alto Risco (MS, 2022), PA de 160/110 mmHg ou mais e sinais premonitórios de eclâmpsia, como cefaleia occipital, escotomas e epigastralgia, exigem avaliação hospitalar imediata. Na emergência hipertensiva com sintomas, não se esperam 15 minutos para confirmar a medida. A gestante é encaminhada à maternidade com transporte e contato prévio, e a proteinúria não é exigida para o diagnóstico de pré-eclâmpsia. O nifedipino, quando prescrito, é de liberação rápida por via oral, nunca sublingual, e o sulfato de magnésio é iniciado na maternidade.",
+  "porAlt": [
+   "Com sintomas de iminência de eclâmpsia não se esperam 15 minutos para agir.",
+   "Correta: PA de 160/110 ou mais com sintomas exige maternidade com transporte e contato.",
+   "A gestante sintomática com PA grave não aguarda exames ambulatoriais por 7 dias.",
+   "O nifedipino é oral de liberação rápida, nunca sublingual, e é prescrição médica.",
+   "Repouso e retorno em 48 horas atrasam o atendimento de uma emergência hipertensiva."
+  ]
+ },
+ {
+  "q": "Gestante de 30 anos, 35 semanas, com pré-eclâmpsia com sinais de gravidade, recebeu a dose de ataque do esquema de Zuspan na maternidade. Para a manutenção de 1 g/h, a enfermeira dilui 10 mL de sulfato de magnésio a 50% em 490 mL de soro fisiológico 0,9% e instala a solução em bomba de infusão. Qual vazão deve ser programada?",
+  "alts": [
+   "25 mL/h",
+   "50 mL/h",
+   "200 mL/h",
+   "100 mL/h",
+   "10 mL/h"
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Manual de Gestação de Alto Risco (MS, 2022) e Protocolo de Pré-eclâmpsia da RBEHG 2023",
+  "coment": "A ampola de sulfato de magnésio a 50% tem 5 g em 10 mL. Diluídos em 490 mL de SF 0,9%, os 5 g ficam em 500 mL, ou seja, 1 g a cada 100 mL. Para infundir 1 g/h, a bomba é programada a 100 mL/h. É o preparo descrito no Manual de Gestação de Alto Risco (MS, 2022) e no protocolo da RBEHG (2023) para a manutenção do esquema de Zuspan, cujo ataque é de 4 g IV lentamente. A manutenção dura 24 horas após o parto ou após a última convulsão, com vigilância de reflexo patelar, frequência respiratória e diurese.",
+  "porAlt": [
+   "A 25 mL/h a gestante receberia só 0,25 g/h, um quarto da dose prescrita.",
+   "A 50 mL/h a infusão seria de 0,5 g/h, metade da manutenção de 1 g/h.",
+   "A 200 mL/h a infusão seria de 2 g/h, o dobro da dose de manutenção.",
+   "Correta: 5 g em 500 mL dão 1 g a cada 100 mL, logo 100 mL/h para 1 g/h.",
+   "A 10 mL/h a gestante receberia apenas 0,1 g/h, dose sem efeito protetor."
+  ]
+ }
+]

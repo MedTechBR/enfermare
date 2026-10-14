@@ -4,7 +4,7 @@
   "alts": [
    "Permitida, pois a pós-graduação em gestão supre a exigência de formação",
    "Permitida, desde que o enfermeiro responsável técnico supervisione a chefia",
-   "Vedada apenas em hospitais públicos, sendo livre a escolha na rede privada",
+   "Vedada em hospitais públicos, sendo livre a escolha na rede privada de saúde",
    "Vedada, pois a chefia de unidade de enfermagem é privativa do enfermeiro",
    "Permitida por até 90 dias, enquanto a instituição contrata um enfermeiro"
   ],
@@ -54,8 +54,8 @@
   "alts": [
    "Assume o cuidado direto ao grave, desde que registre tudo no prontuário",
    "Assume o cuidado direto ao grave se houver médico presente na sala vermelha",
-   "Assiste o enfermeiro no cuidado ao grave, atividade que segue privativa dele",
-   "Não permanece ao lado do paciente grave, cabendo-lhe apenas o transporte",
+   "Assiste o enfermeiro no cuidado ao grave, atividade que permanece privativa dele",
+   "Não permanece ao lado do paciente grave, cabendo-lhe o transporte e a coleta",
    "Assume o cuidado direto ao grave pelo tempo de experiência comprovada"
   ],
   "gab": 2,
@@ -79,7 +79,7 @@
   "alts": [
    "Metade de enfermeiros e metade de técnicos e auxiliares de enfermagem",
    "Dois terços de enfermeiros e um terço das demais categorias da equipe",
-   "Somente enfermeiros, por ser o plenário que julga as infrações éticas",
+   "Integralmente por enfermeiros, pois o plenário julga as infrações éticas",
    "Em proporção livre, fixada pelo COFEN conforme o número de inscritos",
    "Três quintos de enfermeiros e dois quintos das demais categorias"
   ],
@@ -154,8 +154,8 @@
   "alts": [
    "É vedada, pois vacinar é atividade privativa do enfermeiro pela lei",
    "É permitida, desde que haja médico responsável presente no turno",
-   "É permitida, pois conservar e aplicar vacinas está no rol do auxiliar",
-   "É vedada, pois o auxiliar só executa higiene, conforto e controle hídrico",
+   "É permitida, pois conservar e aplicar vacinas consta do rol do auxiliar",
+   "É vedada, pois ao auxiliar cabem higiene, conforto e controle hídrico",
    "É permitida só para vacinas orais, cabendo as injetáveis ao técnico"
   ],
   "gab": 2,
@@ -178,7 +178,7 @@
   "q": "Uma maternidade do interior mantém em seu quadro uma parteira, que atua na sala de pré-parto e parto ao lado da equipe de enfermagem. A nova coordenadora quer definir por escrito o que ela pode fazer na instituição. Segundo o Decreto 94.406/1987, qual atuação é compatível com a parteira nesse serviço?",
   "alts": [
    "Realizar episiotomia e episiorrafia com anestesia local, se necessárias",
-   "Atuar só em domicílio, pois a parteira não pode trabalhar em instituição",
+   "Atuar em domicílio, pois a parteira não pode trabalhar em instituição",
    "Identificar distocias e conduzir o parto distócico até a chegada do médico",
    "Assistir o parto normal sem supervisão, por ser categoria autônoma da lei",
    "Assistir o parto normal na instituição sob supervisão de enfermeiro obstetra"
@@ -202,9 +202,9 @@
  {
   "q": "Um ambulatório privado de curativos e administração de medicamentos funciona com três técnicos de enfermagem e nenhum enfermeiro no quadro. O proprietário, médico, afirma que a situação é regular porque os técnicos apenas cumprem prescrições médicas escritas e ele passa no serviço uma vez por dia. À luz da Lei 7.498/1986, qual é a situação?",
   "alts": [
-   "Regular, pois os técnicos executam só prescrições médicas por escrito",
+   "Regular, pois os técnicos executam prescrições médicas por escrito",
    "Regular, porque o médico proprietário assume a supervisão da equipe",
-   "Irregular apenas no turno noturno, quando não há médico no serviço",
+   "Irregular no turno noturno, quando não há médico presente no serviço",
    "Irregular, pois o técnico atua sob orientação e supervisão de enfermeiro",
    "Regular, desde que um dos técnicos tenha especialização em feridas"
   ],
@@ -252,11 +252,11 @@
  {
   "q": "Numa enfermaria de clínica médica, a equipe de enfermagem registra há semanas a falta de luvas e máscaras e duas agressões físicas de acompanhantes, sem resposta da direção. Os profissionais discutem suspender as atividades até que as condições de segurança sejam corrigidas. Segundo o Código de Ética, o que lhes é assegurado?",
   "alts": [
-   "Suspender as atividades, salvo urgência e emergência, comunicando por escrito à instituição e ao COREN",
+   "Suspender as atividades, ressalvadas urgência e emergência, comunicando por escrito à instituição e ao COREN",
    "Suspender todas as atividades, inclusive as urgências, avisando verbalmente a chefia imediata do setor",
-   "Manter todas as atividades, pois a suspensão só é admitida mediante ordem judicial expressa e prévia",
-   "Suspender as atividades somente após autorização prévia do COFEN, ouvida a Comissão de Ética local",
-   "Manter as atividades e apenas denunciar o caso ao Ministério Público do Trabalho no prazo de 30 dias"
+   "Manter todas as atividades, pois a suspensão depende de ordem judicial expressa da Justiça do Trabalho",
+   "Suspender as atividades após autorização prévia do COFEN, ouvida a Comissão de Ética da instituição",
+   "Manter as atividades e denunciar o caso ao Ministério Público do Trabalho no prazo de 30 dias úteis"
   ],
   "gab": 0,
   "tema": "etica",
@@ -353,7 +353,7 @@
   "q": "Uma profissional é inscrita no COREN como técnica de enfermagem e também como enfermeira, pois trabalha nas duas funções em hospitais diferentes. Ela é condenada à pena de suspensão por infração cometida no emprego de técnica. Segundo o Código de Ética, como se cumpre essa pena?",
   "alts": [
    "Exercício proibido por até 90 dias, com carteira retida nas duas categorias",
-   "Exercício proibido por até 90 dias, só na categoria de técnica de enfermagem",
+   "Exercício proibido por até 90 dias, restrito à categoria de técnica de enfermagem",
    "Exercício proibido por até 30 anos, com carteira retida nas duas categorias",
    "Exercício proibido por até 180 dias, sem divulgação, para preservar a imagem",
    "Exercício proibido por até 90 dias, sem comunicação aos empregadores atuais"
@@ -428,9 +428,9 @@
   "q": "Os profissionais de enfermagem de um hospital público estadual aprovam greve por atraso salarial. Na assembleia, parte da categoria propõe interromper toda a assistência, inclusive na UTI e no pronto-socorro, para pressionar o governo. Segundo o Código de Ética, qual deve ser a postura da equipe durante o movimento?",
   "alts": [
    "Interromper toda a assistência, pois o direito de greve não tem limites",
-   "Manter só os atendimentos de urgência, sem assistência aos internados",
+   "Manter os atendimentos de urgência e suspender a assistência aos internados",
    "Pedir autorização prévia do COREN antes de aderir ao movimento grevista",
-   "Garantir os cuidados mínimos que assegurem assistência segura aos pacientes",
+   "Garantir os cuidados mínimos que assegurem uma assistência segura aos pacientes",
    "Manter toda a assistência, pois a greve é proibida para a enfermagem"
   ],
   "gab": 3,
@@ -479,8 +479,8 @@
   "alts": [
    "Correta, pois toda infração admite qualquer das cinco penas do art. 108",
    "Incorreta, pois o art. 87 admite somente advertência verbal reservada",
-   "Incorreta, pois o art. 87 admite advertência, multa e suspensão, não censura",
-   "Incorreta, pois registro inverídico só admite a cassação do exercício",
+   "Incorreta, pois o art. 87 admite só advertência, multa e suspensão",
+   "Incorreta, pois registro inverídico leva à cassação do exercício",
    "Correta, desde que a censura seja cumulada com multa pelo mesmo artigo"
   ],
   "gab": 2,
@@ -502,11 +502,11 @@
  {
   "q": "O COREN condenou um técnico de enfermagem à pena de advertência verbal. Ele mora a 400 km da sede do conselho, e a secretaria propõe aplicar a pena em sala virtual. Pelo Código de Processo Ético, com as alterações da Res. COFEN 758/2024, como pode ser feita a advertência nesse formato?",
   "alts": [
-   "Não pode, pois a advertência verbal exige sempre a presença física do advertido",
+   "Não pode, pois a advertência verbal exige a presença física do advertido na sede",
    "Pode, por mensagem escrita ao advertido, dispensando a sessão e as testemunhas",
    "Pode, com a autoridade, o advertido e no mínimo uma testemunha na sala virtual",
    "Pode, desde que transmitida em sessão pública aberta, com divulgação oficial",
-   "Não pode, pois a advertência a distância só cabe a enfermeiros, não a técnicos"
+   "Não pode, pois a advertência a distância é reservada a enfermeiros, não a técnicos"
   ],
   "gab": 2,
   "tema": "etica",
@@ -531,7 +531,7 @@
    "Processamento normal, pois as infrações éticas de enfermagem são imprescritíveis",
    "Conciliação obrigatória, pois a infração é leve e restrita às duas partes envolvidas",
    "Arquivamento liminar, pois passaram mais de 5 anos entre o fato e a denúncia",
-   "Arquivamento só após instrução completa, pois a decadência depende de julgamento"
+   "Arquivamento depois da instrução completa, pois a decadência depende de julgamento"
   ],
   "gab": 3,
   "tema": "etica",
@@ -553,7 +553,7 @@
   "q": "Uma técnica de enfermagem denuncia ao COREN a enfermeira supervisora, que a teria ofendido verbalmente diante de colegas durante o plantão. Não houve dano a pacientes, e a câmara de ética classifica o fato como infração leve, restrita às duas profissionais. Pelo Código de Processo Ético, qual é o próximo passo após a admissão da denúncia?",
   "alts": [
    "Conciliação obrigatória entre as partes antes de instaurar o processo",
-   "Instauração direta do processo, pois a conciliação é sempre facultativa",
+   "Instauração direta do processo, pois a conciliação é facultativa às partes",
    "Arquivamento sumário, pois ofensa verbal não constitui infração ética",
    "Remessa dos autos ao COFEN, competente para conflitos entre categorias",
    "Suspensão cautelar da enfermeira até o julgamento pelo plenário regional"
@@ -578,7 +578,7 @@
   "q": "No processo ético contra um técnico de enfermagem, a comissão de instrução ouve as testemunhas, recebe a defesa e encerra o relatório sugerindo suspensão de 30 dias. O advogado do técnico aponta irregularidade no relatório. Pelo Código de Processo Ético, qual é o problema apontado?",
   "alts": [
    "A comissão deveria ter ouvido no mínimo cinco testemunhas antes do relatório",
-   "A comissão deveria ser composta apenas por técnicos, mesma categoria do réu",
+   "A comissão deveria ser composta por técnicos, da mesma categoria do réu",
    "A comissão deveria ter indicado a cassação, pena própria da fase de instrução",
    "A comissão deveria ter concluído o relatório em 30 dias, sem prorrogação",
    "A comissão não indica pena nem absolvição: isso cabe ao relator e ao plenário"
@@ -629,9 +629,9 @@
   "alts": [
    "Aplicar a advertência, com cópia ao enfermeiro responsável técnico",
    "Arquivar o caso, pois denúncia de usuário deve ir direto ao COFEN",
-   "Fazer averiguação prévia e enviar relatório narrativo ao COREN",
+   "Só fazer averiguação prévia e enviar relatório narrativo ao COREN",
    "Julgar o caso em plenário da comissão, garantida a defesa do técnico",
-   "Aplicar a advertência só se o técnico confessar a conduta denunciada"
+   "Aplicar a advertência caso o técnico confesse a conduta denunciada"
   ],
   "gab": 2,
   "tema": "etica",
@@ -678,7 +678,7 @@
   "q": "Na clínica médica, um homem de 68 anos em delirium após cirurgia arranca o acesso venoso e tenta retirar a sonda vesical, sem responder às medidas verbais nem à presença do acompanhante. A equipe discute a contenção mecânica. Segundo a Res. COFEN 746/2024, em que condições ela pode ser feita?",
   "alts": [
    "Como único meio de evitar dano imediato, sob supervisão direta do enfermeiro",
-   "Por decisão do técnico, sempre que o paciente estiver agitado ou confuso",
+   "Por decisão do técnico, quando o paciente estiver agitado ou confuso",
    "Como rotina noturna para todo paciente idoso com risco de queda no leito",
    "Por pedido do acompanhante, dispensando registro do motivo e da duração",
    "Como medida disciplinar, pelo tempo que a equipe julgar necessário"
@@ -704,7 +704,7 @@
   "alts": [
    "Correta, pois a Res. 280/2003 segue vigente e foi reforçada em 2024",
    "Correta, pois a proibição consta do próprio texto da Lei 7.498/1986",
-   "Correta apenas para técnicos, sendo livre a atuação de enfermeiros",
+   "Correta para técnicos, mas não para enfermeiros, cuja atuação é livre",
    "Correta, pois a Res. 779/2025 reafirmou a proibição criada em 2003",
    "Desatualizada, pois a Res. 280/2003 foi revogada pela Res. 779/2025"
   ],
@@ -728,10 +728,10 @@
   "q": "Numa clínica privada de vacinação, uma enfermeira atende um adulto de 40 anos que deseja um imunobiológico não incluído no Programa Nacional de Imunizações, registrado na ANVISA. Após a consulta de enfermagem, ela avalia a indicação e quer prescrevê-lo. Segundo a Res. COFEN 795/2025, como se enquadra essa prescrição?",
   "alts": [
    "Vedada, pois o enfermeiro só prescreve vacinas do calendário do PNI",
-   "Permitida, se fundamentada no Processo de Enfermagem e com registro ANVISA",
-   "Permitida só com receita médica prévia anexada ao prontuário do cliente",
+   "Permitida só se fundamentada no Processo de Enfermagem e com registro ANVISA",
+   "Permitida mediante receita médica prévia anexada ao prontuário do cliente",
    "Vedada, pois imunobiológico fora do PNI exige prescrição do farmacêutico",
-   "Permitida apenas em serviço público, seguindo o protocolo do município"
+   "Permitida em serviço público, seguindo o protocolo do município, e não no privado"
   ],
   "gab": 1,
   "tema": "etica",
@@ -781,7 +781,7 @@
    "Negligência, por deixar de checar a prescrição médica do sedativo",
    "Imprudência, por pular etapas do protocolo mesmo sabendo executá-las",
    "Dolo direto, por aceitar a tarefa sabendo que não tinha treinamento",
-   "Caso fortuito, pois a falha decorreu exclusivamente do equipamento"
+   "Caso fortuito, pois a falha decorreu de defeito do equipamento"
   ],
   "gab": 0,
   "tema": "etica",
@@ -802,11 +802,11 @@
  {
   "q": "Num hospital privado, uma técnica de enfermagem empregada aplica bolsa de água quente na perna de um paciente diabético, que sofre queimadura de segundo grau. O paciente ajuíza ação de indenização apenas contra o hospital. Pela legislação civil e de defesa do consumidor, como responde a instituição?",
   "alts": [
-   "Só responde se o paciente provar culpa pessoal do diretor do hospital",
+   "Responde se o paciente provar a culpa pessoal do diretor do hospital",
    "Não responde, pois o dano foi causado pessoalmente pela técnica",
    "Responde independentemente de culpa, como fornecedora do serviço",
    "Responde apenas se a técnica for antes condenada no processo penal",
-   "Não responde, pois a enfermagem tem responsabilidade só no plano ético"
+   "Não responde, pois a falha da enfermagem se resolve no plano ético"
   ],
   "gab": 2,
   "tema": "etica",
@@ -880,7 +880,7 @@
    "Não pode eximir-se da responsabilidade pelo ato da estagiária que supervisiona",
    "Fica isenta, pois a estudante responde sozinha pelos próprios atos no estágio",
    "Fica isenta, desde que a instituição de ensino assuma o erro da estudante",
-   "Responde só se tiver assinado o prontuário junto com a estudante no plantão",
+   "Responde se tiver assinado o prontuário junto com a estudante no plantão",
    "Responde com cassação automática, por se tratar de erro de via de administração"
   ],
   "gab": 0,
@@ -928,10 +928,10 @@
   "q": "Na consulta de enfermagem de puericultura, uma criança de 4 anos apresenta equimoses em diferentes estágios no dorso e uma queimadura circular no antebraço, sem explicação coerente da mãe, que pede que nada seja comunicado a ninguém. Segundo o Código de Ética, como deve agir a enfermeira quanto ao sigilo?",
   "alts": [
    "Manter o sigilo, pois a mãe é a representante legal e não autorizou",
-   "Comunicar apenas se a mãe assinar um termo de consentimento escrito",
+   "Comunicar se a mãe assinar um termo de consentimento por escrito",
    "Comunicar aos órgãos competentes, mesmo sem autorização da família",
    "Manter o sigilo até que haja ordem judicial determinando a revelação",
-   "Comunicar só ao médico da unidade, a quem cabe decidir sobre o caso"
+   "Comunicar ao médico da unidade, a quem cabe decidir sobre o caso"
   ],
   "gab": 2,
   "tema": "etica",
@@ -953,9 +953,9 @@
   "q": "Uma mulher de 32 anos, lúcida e capaz, procura a UBS com hematomas e relata agressões do companheiro. Pede à enfermeira que não chame a polícia. Ela mora sozinha com o agressor, que a ameaçou de morte na véspera. Considerando o art. 52 do Código de Ética, como deve agir a enfermeira quanto à comunicação aos órgãos de responsabilização criminal?",
   "alts": [
    "Comunicar de imediato, sem informá-la, por toda violência contra mulher",
-   "Nunca comunicar, pois o sigilo só cede com autorização escrita dela",
-   "Comunicar apenas com autorização do companheiro ou de outro familiar",
-   "Comunicar diante do risco à vítima, com conhecimento prévio dela",
+   "Manter o sigilo, pois falta a autorização escrita da própria vítima",
+   "Comunicar depois de obter autorização do companheiro ou de um familiar",
+   "Comunicar, havendo risco à vítima, só com conhecimento prévio dela",
    "Encaminhar o caso ao Conselho Tutelar, que decide se aciona a polícia"
   ],
   "gab": 3,
@@ -997,6 +997,256 @@
    "O problema é a ordem desigual entre pacientes iguais, matéria de justiça.",
    "Não houve dano técnico direto; a falha é a discriminação no acesso ao cuidado.",
    "O consentimento não foi negado; a falha foi tratar iguais de forma desigual."
+  ]
+ },
+ {
+  "q": "Numa unidade de internação, uma técnica de enfermagem passa a escrever no prontuário uma evolução de enfermagem diária, com análise dos diagnósticos e julgamento da resposta do paciente ao plano de cuidados, porque a enfermeira está sobrecarregada. Pela Res. COFEN 736/2024, como se distribuem esses registros entre as categorias?",
+  "alts": [
+   "A evolução pode ser feita pelo técnico, desde que a enfermeira a revise e assine",
+   "Todos os registros do Processo de Enfermagem cabem a qualquer membro da equipe",
+   "A evolução é do técnico, e ao enfermeiro cabem só o diagnóstico e a prescrição",
+   "A evolução é do enfermeiro; à equipe cabem a anotação, a checagem e outros registros",
+   "A evolução é dispensável quando a anotação de enfermagem está completa no turno"
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Registro e documentação de enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Res. COFEN 736/2024 (Processo de Enfermagem), arts. 6º a 8º; Res. COFEN 564/2017, art. 88",
+  "coment": "A Res. COFEN 736/2024, que revogou a 358/2009, organiza o Processo de Enfermagem em cinco etapas e distribui os registros. Ao enfermeiro cabe o registro de todas as etapas do processo, incluída a evolução, e o Diagnóstico e a Prescrição de Enfermagem são privativos dele (art. 6º). Técnicos e auxiliares participam com a Anotação de Enfermagem, a implementação e a checagem, sob supervisão (arts. 7º e 8º). A sobrecarga não autoriza transferir a evolução, e assinar depois o texto escrito pela técnica seria assinar o que não executou (Res. COFEN 564/2017, art. 88).",
+  "porAlt": [
+   "Revisar e assinar o texto da técnica seria assinar o que a enfermeira não executou (art. 88).",
+   "O registro das etapas do Processo de Enfermagem cabe ao enfermeiro (art. 8º).",
+   "A evolução é etapa do Processo de Enfermagem, registrada pelo enfermeiro.",
+   "Correta: o enfermeiro registra as etapas do processo; a equipe faz anotação e checagem (art. 8º).",
+   "A anotação da equipe não substitui a evolução, que é etapa do processo."
+  ]
+ },
+ {
+  "q": "Às 7 h, para adiantar a passagem de plantão, um técnico de enfermagem checa na prescrição as medicações das 8 h e das 10 h de seus pacientes, que ainda pretende administrar no horário. A enfermeira percebe a prática durante a ronda. Segundo o Código de Ética, como se classifica essa conduta?",
+  "alts": [
+   "Permitida, desde que as medicações sejam de fato administradas depois",
+   "Infração, pois checar antes de fazer é registrar o que não executou",
+   "Permitida, se o técnico anotar a hora real na passagem de plantão",
+   "Permitida, salvo se algum paciente deixar de receber a medicação",
+   "Permitida para medicações orais, vedada para as intravenosas"
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Registro e documentação de enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Res. COFEN 564/2017 (Código de Ética), arts. 36, 87 e 88",
+  "coment": "Checar é registrar que a medicação foi administrada. O Código de Ética proíbe registrar informações incompletas, imprecisas ou inverídicas (art. 87) e assinar as ações de enfermagem que não executou (art. 88), e exige registro claro, cronológico e completo (art. 36). Checar às 7 h medicações das 8 h e das 10 h é registrar o que ainda não foi feito, mesmo que depois seja. A infração existe independentemente de dano, e a via de administração não muda a regra. O correto é checar logo após administrar, no horário real.",
+  "porAlt": [
+   "Administrar depois não corrige o registro feito antes do ato (art. 88).",
+   "Correta: checar antes de administrar é registrar ação que não executou (art. 88).",
+   "A passagem de plantão não corrige a checagem antecipada no prontuário.",
+   "A infração de registro existe mesmo sem dano ao paciente.",
+   "A regra vale para qualquer via: só se checa o que já foi administrado."
+  ]
+ },
+ {
+  "q": "Numa auditoria de prontuários da clínica médica, a comissão encontra anotações de enfermagem com abreviações criadas pela própria equipe, horários fora de ordem, letra ilegível e trechos riscados. Para orientar a equipe, a enfermeira auditora cita o art. 36 do Código de Ética. Quais atributos esse artigo exige do registro?",
+  "alts": [
+   "Claro, objetivo, cronológico, legível, completo e sem rasuras",
+   "Resumido, subjetivo, cronológico, legível e com abreviações livres",
+   "Claro, objetivo, legível e completo, admitindo rasura rubricada",
+   "Detalhado, interpretativo, organizado por turno e em letra de forma",
+   "Objetivo, legível e sem rasuras, em qualquer ordem de horário"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Registro e documentação de enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Res. COFEN 564/2017 (Código de Ética), arts. 35 a 37 e 87",
+  "coment": "O art. 36 do Código de Ética impõe registrar no prontuário as informações da assistência de forma clara, objetiva, cronológica, legível, completa e sem rasuras. Abreviações próprias da equipe comprometem a clareza, horários fora de ordem quebram a cronologia, e trechos riscados são rasuras. O art. 35 exige a identificação do profissional nos documentos, o art. 37 manda documentar o Processo de Enfermagem e o art. 87 proíbe registro incompleto, impreciso ou inverídico. A auditoria aponta, portanto, falhas em quatro dos atributos do art. 36.",
+  "porAlt": [
+   "Correta: o art. 36 exige registro claro, objetivo, cronológico, legível, completo e sem rasuras.",
+   "Abreviações livres e subjetividade contrariam a clareza e a objetividade do art. 36.",
+   "O art. 36 exige registro sem rasuras, e a rubrica ao lado não as autoriza.",
+   "O art. 36 pede objetividade e cronologia, não registro interpretativo por turno.",
+   "A ordem cronológica é atributo exigido pelo art. 36, assim como a completude."
+  ]
+ },
+ {
+  "q": "Na passagem de plantão de uma enfermaria, uma auxiliar de enfermagem diz que não anota no prontuário os curativos e as medicações que faz, porque considera o registro tarefa exclusiva do enfermeiro. Ela apenas informa verbalmente à enfermeira. Segundo o Decreto 94.406/1987, qual é a regra sobre esse registro?",
+  "alts": [
+   "O registro é exclusivo do enfermeiro, que anota o que a auxiliar informar",
+   "A auxiliar fica dispensada de anotar em prontuário de papel, sem certificado",
+   "A auxiliar anota apenas intercorrências, dispensado o registro de rotina",
+   "A informação verbal basta, desde que repetida na passagem de plantão",
+   "Todos os profissionais anotam no prontuário as atividades que executam"
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Registro e documentação de enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 94.406/1987, art. 14, II; Res. COFEN 736/2024, art. 8º; Res. COFEN 564/2017, art. 88",
+  "coment": "O art. 14 do Decreto 94.406/1987 vale para todas as categorias de enfermagem: cumprir e fazer cumprir o Código de Deontologia e anotar no prontuário do paciente as atividades da assistência. A Res. COFEN 736/2024 (art. 8º) confirma que a Anotação de Enfermagem, a checagem e os demais registros cabem à equipe. Se a enfermeira registrasse o que a auxiliar fez, estaria assinando ação que não executou (Res. COFEN 564/2017, art. 88). A informação verbal na passagem de plantão é útil, mas não substitui o registro.",
+  "porAlt": [
+   "Quem executa anota; o enfermeiro não registra por ela o que não fez (art. 88).",
+   "O dever de anotar independe do tipo de prontuário, papel ou eletrônico.",
+   "As atividades de rotina também são anotadas, não só as intercorrências.",
+   "Informação verbal não substitui o registro no prontuário.",
+   "Correta: todas as categorias anotam no prontuário as atividades da assistência (art. 14)."
+  ]
+ },
+ {
+  "q": "Um hospital implanta prontuário eletrônico em que a equipe de enfermagem assina os registros com login e senha individuais, sem certificado digital ICP-Brasil, e anuncia que vai abolir o papel por completo. A gerente de enfermagem consulta a Res. COFEN 754/2024 antes de aprovar o plano. O que a resolução determina?",
+  "alts": [
+   "Proíbe o prontuário eletrônico, mantendo o papel como único meio válido",
+   "Admite abolir o papel com login e senha, sem qualquer outra exigência",
+   "Sem assinatura qualificada ICP-Brasil, os registros são impressos e assinados",
+   "Exige certificado ICP-Brasil comprado por cada profissional da instituição",
+   "Libera o meio digital para técnicos, mantendo o papel para o enfermeiro"
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Registro e documentação de enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Res. COFEN 754/2024 (registro e prontuário eletrônico), arts. 1º, 2º e 4º",
+  "coment": "A Res. COFEN 754/2024, que revogou a 429/2012, mantém o registro como dever, em papel ou meio eletrônico (art. 1º). O prontuário totalmente digital é permitido com assinatura qualificada no padrão ICP-Brasil; sem cumprir as exigências de assinatura, os registros devem ser impressos e assinados (art. 2º). Login e senha individuais e intransferíveis são admitidos quando o sistema não cumpre as regras do prontuário eletrônico, mas não autorizam eliminar o papel. Com prontuário eletrônico institucional, o certificado não é comprado pelo profissional (art. 4º).",
+  "porAlt": [
+   "A resolução admite o prontuário eletrônico e até o totalmente digital (art. 2º).",
+   "Abolir o papel exige assinatura qualificada ICP-Brasil, não só login e senha.",
+   "Correta: sem assinatura ICP-Brasil, os registros são impressos e assinados (art. 2º).",
+   "No prontuário institucional, o certificado não é custeado pelo profissional (art. 4º).",
+   "As regras de assinatura valem igualmente para todas as categorias."
+  ]
+ },
+ {
+  "q": "Uma enfermeira da atenção primária passa a fazer teleconsultas de acompanhamento de pessoas com diabetes, por plataforma contratada pelo município. Ela pergunta à coordenação como devem ser a plataforma e o registro desses atendimentos. Pela Res. COFEN 754/2024, qual é a orientação correta?",
+  "alts": [
+   "Plataforma com sigilo e níveis de acesso, e registro segundo a Res. 736/2024",
+   "Plataforma livre e registro dispensado, pois a teleconsulta fica gravada",
+   "Registro no aplicativo de mensagens, dispensando o prontuário do paciente",
+   "Registro só da prescrição, dispensadas as demais etapas do processo",
+   "Plataforma aberta a toda a equipe, sem níveis de acesso, para agilizar"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Registro e documentação de enfermagem",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Res. COFEN 754/2024, arts. 1º e 5º a 7º; Res. COFEN 736/2024",
+  "coment": "A Res. COFEN 754/2024 dedica os arts. 5º a 7º à telenfermagem: as plataformas devem garantir o sigilo das informações e níveis de acesso, e os registros dos atendimentos seguem a Res. COFEN 736/2024, que organiza o Processo de Enfermagem em avaliação, diagnóstico, planejamento, implementação e evolução. A teleconsulta é consulta de enfermagem e exige registro completo, como a presencial. Gravação ou conversa em aplicativo não substituem o prontuário, e o sigilo compartilhado segue a LGPD (art. 1º).",
+  "porAlt": [
+   "Correta: plataforma com sigilo e níveis de acesso, e registro conforme a Res. 736/2024.",
+   "A teleconsulta exige registro no prontuário, e a gravação não o substitui.",
+   "Conversa em aplicativo não substitui o registro do Processo de Enfermagem.",
+   "O registro segue a Res. 736/2024, com todas as etapas do processo.",
+   "A resolução exige que a plataforma garanta níveis de acesso e sigilo."
+  ]
+ },
+ {
+  "q": "Uma enfermeira estomaterapeuta abre consultório próprio e passa a atender de forma autônoma, com prontuário totalmente digital. Ao mesmo tempo, mantém vínculo com um hospital que adota prontuário eletrônico institucional. Pela Res. COFEN 754/2024, quem deve custear o certificado digital de assinatura em cada serviço?",
+  "alts": [
+   "O COREN, nos dois serviços, por ser o responsável pela fiscalização",
+   "A enfermeira, nos dois serviços, por ser pessoal o certificado digital",
+   "O hospital, nos dois serviços, por ser o vínculo empregatício principal",
+   "A enfermeira no consultório; no hospital, não cabe a ela comprar",
+   "O hospital no consultório e a enfermeira no hospital, por reciprocidade"
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Registro e documentação de enfermagem",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Res. COFEN 754/2024, arts. 2º e 4º",
+  "coment": "Pelo art. 2º da Res. COFEN 754/2024, o prontuário totalmente digital exige assinatura qualificada no padrão ICP-Brasil. O art. 4º define quem arca com o certificado: quando a instituição adota prontuário eletrônico, não cabe ao profissional comprar o certificado; na atuação autônoma, cabe ao próprio enfermeiro. Assim, no consultório a estomaterapeuta adquire seu certificado, e no hospital a responsabilidade não é dela. A resolução não atribui esse custo ao conselho.",
+  "porAlt": [
+   "A resolução não atribui ao COREN o custeio do certificado.",
+   "No prontuário institucional, não cabe ao profissional comprar o certificado (art. 4º).",
+   "Na atuação autônoma, o certificado é responsabilidade do próprio enfermeiro.",
+   "Correta: autônoma, a enfermeira compra; no hospital, não cabe a ela (art. 4º).",
+   "A regra é a inversa: o autônomo compra, e na instituição o profissional não compra."
+  ]
+ },
+ {
+  "q": "Um homem de 30 anos chega ao pronto-socorro inconsciente após colisão de moto, sem documentos, acompanhante ou diretiva antecipada conhecida. Está com hemorragia ativa e precisa de acesso venoso calibroso e de procedimentos imediatos. Segundo o Código de Ética, como a equipe de enfermagem deve proceder quanto ao consentimento?",
+  "alts": [
+   "Aguardar a chegada de um familiar para obter o consentimento formal e escrito",
+   "Agir para preservar a vida, pois o iminente risco de morte é exceção legal",
+   "Pedir autorização judicial antes de qualquer procedimento invasivo",
+   "Fazer só o acesso venoso e aguardar consentimento para o restante",
+   "Aguardar o paciente recuperar a consciência e consentir por escrito"
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Res. COFEN 564/2017 (Código de Ética), arts. 50 e 77",
+  "coment": "O Código de Ética exige consentimento prévio do paciente, de seu representante ou decisão judicial (art. 50), ressalvada a pessoa sem capacidade e sem representante, e proíbe executar procedimento sem consentimento formal, exceto em iminente risco de morte (art. 77). O paciente inconsciente, sem acompanhante nem diretiva e com hemorragia ativa, está nessa exceção: a equipe age para preservar a vida e registra a situação e as condutas no prontuário. Esperar família, juiz ou recuperação da consciência poderia custar a vida dele.",
+  "porAlt": [
+   "Esperar familiar atrasa conduta vital; o risco iminente excepciona o consentimento.",
+   "Correta: no iminente risco de morte, o procedimento é feito sem consentimento (art. 77).",
+   "A exceção do art. 77 dispensa autorização judicial no risco iminente de morte.",
+   "Todos os procedimentos imediatos estão cobertos pela exceção do risco de morte.",
+   "Esperar a consciência voltar poderia custar a vida do paciente."
+  ]
+ },
+ {
+  "q": "Uma mulher de 45 anos, Testemunha de Jeová, lúcida e capaz, internada para histerectomia eletiva com anemia, recusa por escrito qualquer transfusão de sangue, depois de informada dos riscos e das alternativas disponíveis. A técnica de enfermagem pergunta à enfermeira se devem insistir até ela aceitar. À luz do Código de Ética e do STF, qual é a conduta?",
+  "alts": [
+   "Insistir na transfusão, pois a vida prevalece sobre a crença religiosa",
+   "Transfundir após sedação, se a hemoglobina cair abaixo do limite seguro",
+   "Pedir autorização judicial para transfundir, mesmo sem risco iminente",
+   "Suspender toda a assistência, pois a paciente recusou o tratamento indicado",
+   "Respeitar a recusa, registrá-la e manter os demais cuidados e alternativas"
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Res. COFEN 564/2017 (Código de Ética), arts. 40, 42, 50 e 77; STF, Tema 952 (RE 979.742) e Tema 1069 (RE 1.212.272), julgados em 25/09/2024",
+  "coment": "O Código de Ética manda respeitar a recusa do paciente (art. 40) e as diretivas antecipadas (art. 42) e exige consentimento prévio (art. 50). Em 25/09/2024, o STF fixou no Tema 952 que Testemunhas de Jeová maiores e capazes podem recusar procedimento com transfusão, com direito aos procedimentos alternativos do SUS, e no Tema 1069 que a recusa deve ser inequívoca, livre, informada e esclarecida. A equipe registra a recusa e a orientação dada e mantém os demais cuidados. Transfundir sob sedação seria procedimento sem consentimento (art. 77).",
+  "porAlt": [
+   "Adulta capaz e informada pode recusar transfusão (STF, Tema 952).",
+   "Transfundir sob sedação seria procedimento sem consentimento (art. 77).",
+   "Sem risco iminente e com recusa válida, não cabe buscar autorização judicial.",
+   "A recusa de um procedimento não autoriza abandonar os demais cuidados.",
+   "Correta: recusa válida é respeitada e registrada, mantendo os demais cuidados."
+  ]
+ },
+ {
+  "q": "Uma mulher de 82 anos com demência avançada é internada na UTI por pneumonia. No prontuário há diretiva antecipada registrada quando ela era capaz, recusando intubação e reanimação e pedindo cuidados de conforto. O filho, recém-chegado, exige que a equipe faça tudo para mantê-la viva. Segundo o Código de Ética, como deve se posicionar a enfermagem?",
+  "alts": [
+   "Seguir o pedido do filho, pois o representante legal sempre prevalece",
+   "Iniciar todas as medidas e acionar a justiça para decidir o conflito",
+   "Respeitar a diretiva antecipada e garantir os cuidados paliativos",
+   "Suspender todos os cuidados, inclusive conforto, conforme a diretiva",
+   "Ignorar a diretiva, pois documento antigo perde a validade na demência"
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Res. COFEN 564/2017 (Código de Ética), arts. 42, 48 e 74",
+  "coment": "O Código de Ética manda respeitar as diretivas antecipadas da pessoa (art. 42, parágrafo único). Quando a paciente não pode mais decidir e há diretiva registrada enquanto era capaz, segue-se a diretiva. Em doença grave incurável, o art. 48 impõe oferecer cuidados paliativos, e o art. 74 proíbe antecipar a morte. Respeitar a recusa de intubação e reanimação não é abandonar: conforto, controle de sintomas e acolhimento da família continuam, e a equipe dialoga com o filho, envolve a equipe médica e registra as condutas.",
+  "porAlt": [
+   "A diretiva expressa a vontade da paciente e deve ser respeitada (art. 42).",
+   "Havendo diretiva válida, a equipe a segue, sem iniciar medidas recusadas.",
+   "Correta: respeita-se a diretiva antecipada e se garantem cuidados paliativos (arts. 42 e 48).",
+   "Recusar intubação não é recusar conforto; os cuidados paliativos continuam.",
+   "A diretiva foi feita quando ela era capaz e vale justamente para este momento."
   ]
  }
 ]

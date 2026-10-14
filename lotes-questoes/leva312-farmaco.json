@@ -1,0 +1,1252 @@
+[
+ {
+  "q": "Paciente de 58 anos, internado na clínica médica por pielonefrite, tem prescrição de 1.000 mL de soro glicosado a 5% para correr em 6 horas. Não há bomba de infusão livre, e a enfermeira instala equipo de macrogotas cujo fator, impresso na embalagem, é de 20 gotas/mL. Qual gotejamento deve regular?",
+  "alts": [
+   "1 gota por minuto.",
+   "3.333 gotas por minuto.",
+   "56 gotas por minuto.",
+   "167 gotas por minuto.",
+   "500 gotas por minuto."
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Gotejamento e bomba de infusão",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (conferência do gotejamento)",
+  "coment": "Com o tempo em horas, macrogotas por minuto = volume ÷ (horas × 3): 1.000 ÷ 18 = 55,6, arredondado para 56 gotas/min, porque gotas se contam inteiras. Conferência por outro caminho: 1.000 mL × 20 gotas ÷ 360 minutos = 55,6. O valor 167 é o de microgotas (1.000 ÷ 6, numericamente igual aos mL/h); 500 vem de multiplicar por 3 em vez de dividir; 1 gota resulta de pôr o tempo em minutos na fórmula curta, feita para horas; 3.333 sai de multiplicar por 20 e dividir pelas horas. O fator vem da embalagem do equipo e é ele que vale; o protocolo de 2013 inclui a conferência do gotejamento no certo da dose.",
+  "porAlt": [
+   "Errada: usou o tempo em minutos (360) na fórmula curta, que foi feita para o tempo em horas.",
+   "Errada: multiplicou por 20 e dividiu pelas 6 horas sem converter o tempo em minutos.",
+   "Correta: 1.000 ÷ (6 × 3) = 55,6, arredondado para 56 gotas/min; 1.000 × 20 ÷ 360 min confirma.",
+   "Errada: 167 é o número de microgotas (1.000 ÷ 6), e o equipo instalado é de macrogotas.",
+   "Errada: multiplicou por 3 o valor em microgotas, quando a passagem para macrogotas pede dividir por 3."
+  ]
+ },
+ {
+  "q": "Idosa de 81 anos com insuficiência cardíaca, internada na enfermaria, tem restrição hídrica e prescrição de 720 mL de soro fisiológico a 0,9% em 24 horas. Para maior precisão sem bomba de infusão, a enfermeira escolhe equipo de microgotas, de 60 microgotas por mL. Quantas microgotas por minuto devem correr?",
+  "alts": [
+   "30 microgotas por minuto.",
+   "1.800 microgotas por minuto.",
+   "0,5 microgota por minuto.",
+   "10 microgotas por minuto.",
+   "90 microgotas por minuto."
+  ],
+  "gab": 0,
+  "tema": "farmaco",
+  "sub": "Gotejamento e bomba de infusão",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa; bula de Tridil (Cristália), equipo de microgotas de cerca de 60 microgotas/mL",
+  "coment": "No equipo de microgotas, 60 microgotas formam 1 mL, e a fórmula com o tempo em minutos é volume × 60 ÷ minutos: 720 × 60 ÷ 1.440 = 30 microgotas/min. Conferência pelo atalho: microgotas por minuto são numericamente iguais aos mL/h, e 720 ÷ 24 = 30 mL/h. Em macrogotas seriam 720 ÷ (24 × 3) = 10 gotas/min; 90 resulta de multiplicar por 3 o que já está em microgotas; 0,5 esquece o fator do equipo; 1.800 divide pelas horas sem converter em minutos. Na paciente com restrição hídrica, o erro para mais significa sobrecarga de volume, e o gotejamento é cronometrado por um minuto inteiro e reconferido a cada ronda.",
+  "porAlt": [
+   "Correta: no equipo de microgotas, microgotas/min = volume ÷ horas = 720 ÷ 24 = 30.",
+   "Errada: multiplicou por 60 e dividiu pelas horas, sem converter o tempo em minutos.",
+   "Errada: dividiu o volume pelos minutos sem multiplicar pelo fator de 60 microgotas por mL.",
+   "Errada: 10 é o gotejamento em macrogotas (720 ÷ 72), não em microgotas.",
+   "Errada: multiplicou por 3 um valor que já estava em microgotas."
+  ]
+ },
+ {
+  "q": "Às 14h, a enfermeira assume um paciente de 47 anos com frasco de 500 mL de soro fisiológico a 0,9% recém-instalado, correndo a 25 gotas por minuto em equipo de macrogotas de 20 gotas/mL. Para programar a troca do frasco, ela calcula a duração da infusão nesse ritmo. Quando o frasco deve terminar?",
+  "alts": [
+   "Termina por volta das 21h07.",
+   "Termina por volta das 16h13.",
+   "Termina por volta das 14h20.",
+   "Termina por volta das 20h40.",
+   "Termina às 10h do dia seguinte."
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Gotejamento e bomba de infusão",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (gotejamento conferido)",
+  "coment": "No equipo de 20 gotas/mL, 25 gotas por minuto são 25 ÷ 20 = 1,25 mL/min, ou 75 mL/h. O frasco de 500 mL dura 500 ÷ 75 = 6,67 horas; 0,67 hora × 60 = 40 minutos, logo 6 h 40 min, e a troca fica para cerca de 20h40. Conferência pela fórmula invertida: horas = volume ÷ (gotas/min × 3) = 500 ÷ 75 = 6,67. Os erros típicos: ler 6,67 h como 6 h 67 min (21h07), usar o fator de microgotas (25 mL/h, 20 horas), esquecer o fator do equipo (500 ÷ 25 = 20 minutos) ou dividir por 3 uma segunda vez (2 h 13 min).",
+  "porAlt": [
+   "Errada: leu 6,67 horas como 6 horas e 67 minutos, quando 0,67 hora são 40 minutos.",
+   "Errada: dividiu por 3 uma segunda vez (6,67 ÷ 3 = 2,22 h), aplicando a conversão em dobro.",
+   "Errada: tratou cada gota como 1 mL e dividiu 500 por 25, esquecendo o fator do equipo.",
+   "Correta: 25 ÷ 20 = 1,25 mL/min, 75 mL/h; 500 ÷ 75 = 6,67 h, ou 6 h 40 min.",
+   "Errada: usou o fator de microgotas (60 por mL), o que dá 25 mL/h e 20 horas."
+  ]
+ },
+ {
+  "q": "Paciente de 66 anos, internado por celulite em membro inferior, tem prescrição de vancomicina diluída em 250 mL de soro fisiológico a 0,9%, para infundir em 2 horas por bomba de infusão volumétrica programada em mL/h. Qual vazão a enfermeira deve programar na bomba?",
+  "alts": [
+   "125 mL/h.",
+   "500 mL/h.",
+   "2,1 mL/h.",
+   "250 mL/h.",
+   "42 mL/h."
+  ],
+  "gab": 0,
+  "tema": "farmaco",
+  "sub": "Gotejamento e bomba de infusão",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), via certa (velocidade de infusão prescrita)",
+  "coment": "A bomba volumétrica é programada em mL/h: volume ÷ tempo em horas = 250 ÷ 2 = 125 mL/h. Conferência: 125 mL/h × 2 h = 250 mL, exatamente o volume prescrito. O valor 42 corresponde ao gotejamento em macrogotas (250 ÷ 6) e não se digita na bomba; 2,1 é a vazão em mL por minuto (250 ÷ 120); 500 vem de multiplicar o volume pelo tempo; 250 mL/h terminaria a infusão em 1 hora, com o dobro da velocidade prescrita. O protocolo de 2013 manda conferir diluente, volume e velocidade antes de toda administração endovenosa, e a programação da bomba é parte dessa conferência.",
+  "porAlt": [
+   "Correta: 250 mL ÷ 2 h = 125 mL/h; 125 × 2 devolve os 250 mL prescritos.",
+   "Errada: multiplicou o volume pelo tempo em vez de dividir.",
+   "Errada: 2,1 é a vazão em mL por minuto (250 ÷ 120), não por hora.",
+   "Errada: ignora o tempo prescrito e encerraria a infusão em 1 hora, o dobro da velocidade.",
+   "Errada: 42 é o gotejamento em macrogotas (250 ÷ 6), que não serve para programar bomba."
+  ]
+ },
+ {
+  "q": "Criança de 9 anos, 30 kg, internada por pneumonia, tem prescrição de ceftriaxona 750 mg por via endovenosa. Na unidade há frasco-ampola de 1 g, que a enfermeira reconstitui com 10 mL de água para injetáveis; o enunciado considera o volume final igual ao do diluente. Quantos mililitros deve aspirar?",
+  "alts": [
+   "2,5 mL.",
+   "0,75 mL.",
+   "7,5 mL.",
+   "75 mL.",
+   "13,3 mL."
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Cálculo de dose e diluição",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (reconstituição e volume final)",
+  "coment": "Após a reconstituição, o frasco tem 1.000 mg em 10 mL, ou 100 mg/mL. A regra de três põe grandeza igual sob grandeza igual: 1.000 mg estão para 10 mL assim como 750 mg estão para x; x = 750 × 10 ÷ 1.000 = 7,5 mL. Conferência: 750 mg são três quartos de 1 g, e três quartos de 10 mL são 7,5 mL. 13,3 mL vem da regra invertida e ultrapassa o volume do frasco; 0,75 e 75 mL são erros de vírgula; 2,5 mL é o que sobra, correspondente aos 250 mg não prescritos. Quando a bula informa volume final diferente do diluente, a concentração se calcula pelo volume final.",
+  "porAlt": [
+   "Errada: é o volume que sobra no frasco, com os 250 mg não prescritos.",
+   "Errada: erro de vírgula, dez vezes menos que a dose prescrita.",
+   "Correta: 1.000 mg em 10 mL dão 100 mg/mL; 750 ÷ 100 = 7,5 mL.",
+   "Errada: erro de vírgula, dez vezes mais, impossível num frasco de 10 mL.",
+   "Errada: regra de três invertida (1.000 × 10 ÷ 750), volume maior que o do próprio frasco."
+  ]
+ },
+ {
+  "q": "Adolescente de 14 anos com erisipela tem prescrição de penicilina G potássica cristalina 1.500.000 unidades EV de 4/4 horas. O frasco-ampola contém 5.000.000 unidades; a enfermeira o reconstitui com 6 mL de água para injetáveis, e o enunciado informa que o pó acrescenta 2 mL ao volume. Quanto deve aspirar?",
+  "alts": [
+   "0,3 mL.",
+   "2,4 mL.",
+   "1,8 mL.",
+   "3,3 mL.",
+   "24 mL."
+  ],
+  "gab": 1,
+  "tema": "farmaco",
+  "sub": "Cálculo de dose e diluição",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (reconstituição pelo volume final)",
+  "coment": "Na reconstituição, a concentração real é a quantidade de fármaco dividida pelo volume final, não pelo volume do diluente: 6 mL de água mais 2 mL do pó dão 8 mL, e 5.000.000 ÷ 8 = 625.000 unidades/mL. Volume: 1.500.000 ÷ 625.000 = 2,4 mL. Conferência: 1,5 milhão é 0,3 de 5 milhões, e 0,3 de 8 mL são 2,4 mL. Dividir pelos 6 mL do diluente dá 1,8 mL, que contêm 1.125.000 unidades, subdose de 25%. 3,3 mL vem da razão invertida; 0,3 mL é a fração sem o volume; 24 mL é erro de vírgula. Se o enunciado não fala em volume do pó, a banca considera o volume final igual ao do diluente.",
+  "porAlt": [
+   "Errada: 0,3 é a fração da dose no frasco, sem multiplicar pelos 8 mL.",
+   "Correta: volume final de 8 mL, 625.000 unidades/mL; 1.500.000 ÷ 625.000 = 2,4 mL.",
+   "Errada: dividiu pelo volume do diluente (6 mL); os 1,8 mL contêm só 1.125.000 unidades.",
+   "Errada: inverteu a razão (5.000.000 ÷ 1.500.000) e não usou o volume do frasco.",
+   "Errada: erro de vírgula, três vezes o volume do frasco inteiro."
+  ]
+ },
+ {
+  "q": "No pós-operatório de colecistectomia, paciente de 52 anos tem prescrição de morfina 2 mg EV lenta se dor acima de 6 em 10. A ampola disponível é de 10 mg/mL, com 1 mL. Para medir com segurança, a enfermeira dilui a ampola em água para injetáveis até completar 10 mL na seringa. Quanto deve aspirar dessa solução?",
+  "alts": [
+   "5 mL da solução diluída.",
+   "0,2 mL da solução diluída.",
+   "2 mL da solução diluída.",
+   "20 mL da solução diluída.",
+   "1,8 mL da solução diluída."
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Cálculo de dose e diluição",
+  "cenario": "cc",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa; Boletim ISMP Brasil 2019 (opioides na lista de medicamentos potencialmente perigosos)",
+  "coment": "Completar a ampola de 10 mg até 10 mL produz 10 mg ÷ 10 mL = 1 mg/mL. Para 2 mg: 2 ÷ 1 = 2 mL. Conferência: 2 mg são um quinto da ampola, e um quinto de 10 mL são 2 mL. 0,2 mL é o volume da ampola pura, difícil de medir com precisão; 5 mL inverte a regra; 1,8 mL toma os 9 mL de diluente pelo volume final; 20 mL é erro de dez vezes. A morfina é opioide, classe da lista de medicamentos potencialmente perigosos do ISMP Brasil (2019): a seringa diluída recebe etiqueta com a concentração final, como pede o protocolo de 2013, e o cálculo passa por dupla checagem.",
+  "porAlt": [
+   "Errada: dividiu 10 por 2, invertendo a regra de três.",
+   "Errada: 0,2 mL seria o volume da ampola sem diluir, a 10 mg/mL.",
+   "Correta: 10 mg em 10 mL dão 1 mg/mL; 2 mg ÷ 1 mg/mL = 2 mL.",
+   "Errada: erro de dez vezes, maior que todo o conteúdo da seringa.",
+   "Errada: tomou 9 mL de diluente como volume final, que na seringa é de 10 mL."
+  ]
+ },
+ {
+  "q": "Na sala de sutura do pronto atendimento, o médico pede à enfermeira que informe quantos miligramas de lidocaína há nos 5 mL de lidocaína a 2% sem vasoconstritor já aspirados na seringa, para registrar a dose usada em um paciente de 70 kg. Quantos miligramas a seringa contém?",
+  "alts": [
+   "0,1 mg de lidocaína.",
+   "1.000 mg de lidocaína.",
+   "100 mg de lidocaína.",
+   "4 mg de lidocaína.",
+   "10 mg de lidocaína."
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Cálculo de dose e diluição",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa e registro da administração",
+  "coment": "Em solução de uso clínico, X% significa X gramas de soluto em 100 mL. A 2%, são 2 g, ou 2.000 mg, em 100 mL: 20 mg/mL, pela regra prática de multiplicar a porcentagem por 10. Em 5 mL: 5 × 20 = 100 mg. Conferência: 2 g em 100 mL equivalem a 0,02 g/mL; 0,02 × 5 = 0,1 g, ou 100 mg. 10 mg vem de ler 2% como 2 mg/mL; 1.000 mg, de multiplicar a porcentagem por 100; 0,1 mg é o valor em gramas registrado como miligramas; 4 mg divide em vez de multiplicar. A dose efetivamente administrada entra no registro, um dos nove certos do protocolo de 2013.",
+  "porAlt": [
+   "Errada: o resultado de 0,1 está em gramas; registrá-lo em miligramas erra mil vezes.",
+   "Errada: multiplicou a porcentagem por 100, chegando a 200 mg/mL.",
+   "Correta: 2% são 2 g em 100 mL, 20 mg/mL; 5 mL × 20 mg/mL = 100 mg.",
+   "Errada: dividiu a concentração de 20 mg/mL pelo volume, em vez de multiplicar.",
+   "Errada: leu 2% como 2 mg/mL, sem multiplicar a porcentagem por 10."
+  ]
+ },
+ {
+  "q": "Paciente de 60 anos com dermatite exsudativa nos pés tem prescrição de imersão em solução de permanganato de potássio a 1:20.000. A filha recebeu comprimidos de 100 mg e pergunta à enfermeira da unidade básica em quanta água deve dissolver um comprimido inteiro. Qual volume deve ser orientado?",
+  "alts": [
+   "1 litro de água.",
+   "4 litros de água.",
+   "200 mL de água.",
+   "2 litros de água.",
+   "20 litros de água."
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Cálculo de dose e diluição",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013) (permanganato de potássio como modelo de prescrição tópica)",
+  "coment": "Proporção 1:20.000 significa 1 g de soluto em 20.000 mL de solução, isto é, 1.000 mg em 20.000 mL, ou 0,05 mg/mL. Para 100 mg: 100 × 20.000 ÷ 1.000 = 2.000 mL, 2 litros. Conferência: 100 mg são um décimo de grama, e um décimo de 20.000 mL são 2.000 mL. 20 litros e 200 mL são erros de dez vezes; 1 litro daria 1:10.000 e 4 litros, 1:40.000. Quanto maior o segundo número da proporção, mais diluída a solução. O protocolo de 2013 usa o permanganato como modelo de prescrição tópica e pede o nome por extenso, sem a fórmula química, e a conta vem antes do preparo.",
+  "porAlt": [
+   "Errada: daria 1:10.000, solução duas vezes mais concentrada que a prescrita.",
+   "Errada: daria 1:40.000, solução duas vezes mais diluída que a prescrita.",
+   "Errada: erro de dez vezes para menos; a solução ficaria a 1:2.000, muito concentrada.",
+   "Correta: 1:20.000 é 1.000 mg em 20.000 mL; 100 mg pedem 100 × 20.000 ÷ 1.000 = 2.000 mL.",
+   "Errada: erro de dez vezes para mais; a solução ficaria a 1:200.000."
+  ]
+ },
+ {
+  "q": "Paciente de 34 anos em jejum prolongado, com episódios de hipoglicemia, tem prescrição de soro glicosado a 10%, mas a unidade só dispõe de frasco de 250 mL de glicose a 5% e ampolas de glicose a 50%. A enfermeira decide acrescentar glicose a 50% ao frasco, sem retirar volume. Quantos mililitros deve acrescentar?",
+  "alts": [
+   "27,8 mL de glicose a 50%.",
+   "2,5 mL de glicose a 50%.",
+   "50 mL de glicose a 50%.",
+   "31,25 mL de glicose a 50%.",
+   "25 mL de glicose a 50%."
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Cálculo de dose e diluição",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (transformação de soro glicosado)",
+  "coment": "Os 250 mL de glicose a 5% contêm 12,5 g. Acrescentando V mL de glicose a 50% (0,5V gramas), quer-se 10% no volume final: (12,5 + 0,5V) ÷ (250 + V) = 0,10, logo 12,5 + 0,5V = 25 + 0,1V, 0,4V = 12,5 e V = 31,25 mL, com volume final de 281,25 mL. Conferência pela regra das misturas: 40 partes de glicose a 5% para 5 partes de glicose a 50%, proporção de 8 para 1; 250 ÷ 8 = 31,25 mL. 27,8 mL é a resposta do método com retirada; 25 mL ignora o aumento do volume; 50 mL ignora a glicose já presente; 2,5 mL é erro de vírgula.",
+  "porAlt": [
+   "Errada: é a resposta do método em que se retira volume do frasco antes de repor.",
+   "Errada: erro de vírgula sobre os 25 mL, que já estavam errados.",
+   "Errada: calculou os 25 g de um soro a 10% como se o frasco não tivesse glicose.",
+   "Correta: (12,5 + 0,5V) ÷ (250 + V) = 0,10 dá V = 31,25 mL; a regra das misturas confirma.",
+   "Errada: calculou os 12,5 g que faltam sem considerar que o volume final aumenta."
+  ]
+ },
+ {
+  "q": "Paciente de 72 anos, com restrição de volume, tem prescrição de 1.000 mL de soro glicosado a 10% em 24 horas. A farmácia enviou frasco de 1.000 mL de glicose a 5% e ampolas de glicose a 50%. Para manter o volume prescrito, a enfermeira vai desprezar parte do frasco e repor o mesmo volume com glicose a 50%. Qual volume troca?",
+  "alts": [
+   "Desprezar e repor 222,2 mL.",
+   "Desprezar e repor 125 mL.",
+   "Desprezar e repor 11,1 mL.",
+   "Desprezar e repor 100 mL.",
+   "Desprezar e repor 111,1 mL."
+  ],
+  "gab": 4,
+  "tema": "farmaco",
+  "sub": "Cálculo de dose e diluição",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (transformação de soro glicosado)",
+  "coment": "1.000 mL de glicose a 5% têm 50 g; a 10%, precisam ter 100 g. Retirando V mL a 5% (perde 0,05V g) e repondo V mL a 50% (ganha 0,5V g), o saldo é 0,45V = 50 g, logo V = 111,1 mL: desprezar 111,1 mL do soro e acrescentar 111,1 mL de glicose a 50%. Conferência pela regra das misturas: 40 partes a 5% para 5 partes a 50%, em 45 partes; 1.000 × 5 ÷ 45 = 111,1 mL de glicose a 50%. 125 mL é a resposta do método sem retirada, que deixaria 1.125 mL; 100 mL ignora a glicose perdida no volume desprezado; 222,2 mL ignora os 50 g já presentes; 11,1 mL é erro de vírgula.",
+  "porAlt": [
+   "Errada: calculou os 100 g do soro a 10% ignorando os 50 g já presentes no frasco.",
+   "Errada: é a resposta do método sem retirada, que deixaria 1.125 mL no frasco.",
+   "Errada: erro de vírgula; a concentração final ficaria perto de 5,5%.",
+   "Errada: ignora a glicose perdida junto com o volume desprezado do frasco a 5%.",
+   "Correta: 50 g faltam; cada mL trocado ganha 0,45 g; 50 ÷ 0,45 = 111,1 mL."
+  ]
+ },
+ {
+  "q": "Paciente de 63 anos com potássio sérico de 3,0 mEq/L tem prescrição de 15 mEq de cloreto de potássio em 250 mL de soro fisiológico a 0,9%, em 2 horas. A ampola disponível é de cloreto de potássio a 19,1%, que, pela bula, contém 2,56 mEq/mL. Quantos mililitros da ampola a enfermeira deve acrescentar ao soro?",
+  "alts": [
+   "5,9 mL.",
+   "1,1 mL.",
+   "38,4 mL.",
+   "0,8 mL.",
+   "11,2 mL."
+  ],
+  "gab": 0,
+  "tema": "farmaco",
+  "sub": "Cálculo de dose e diluição",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Bula do cloreto de potássio 10%, 15% e 19,1% (Halex Istar, reg. MS 1.0311.0092); Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "Volume = dose ÷ concentração: 15 mEq ÷ 2,56 mEq/mL = 5,86 mL, cerca de 5,9 mL. Conferência por outro caminho, com o dado da bula de que 1 g de cloreto de potássio fornece 13,41 mEq: 15 ÷ 13,41 = 1,12 g de sal; a 19,1% há 0,191 g por mL, e 1,12 ÷ 0,191 = 5,86 mL. 11,2 mL seria o volume do cloreto de potássio a 10% (1,34 mEq/mL); 38,4 mL multiplica em vez de dividir; 1,1 mL confunde gramas com mililitros; 0,8 mL divide pela porcentagem. A solução final fica em torno de 59 mEq/L e a velocidade em 7,5 mEq/h, e o cloreto de potássio concentrado exige dupla checagem.",
+  "porAlt": [
+   "Correta: 15 ÷ 2,56 = 5,86 mL; pelo sal, 15 ÷ 13,41 = 1,12 g e 1,12 ÷ 0,191 = 5,86 mL.",
+   "Errada: parou nos 1,12 g de sal e confundiu gramas com mililitros.",
+   "Errada: multiplicou a dose pela concentração em vez de dividir.",
+   "Errada: dividiu 15 pela porcentagem (19,1), como se ela fosse mEq/mL.",
+   "Errada: usou a concentração do cloreto de potássio a 10% (1,34 mEq/mL), que não é a ampola disponível."
+  ]
+ },
+ {
+  "q": "Na enfermaria, paciente de 55 anos com hipocalemia sem sinais de gravidade, apenas com acesso venoso periférico, tem prescrição de 40 mEq de cloreto de potássio diluídos em 500 mL de soro fisiológico a 0,9%, para correr em 2 horas. Ao conferir a prescrição pelo protocolo institucional, qual conclusão a enfermeira deve tirar?",
+  "alts": [
+   "A concentração de 80 mEq/L excede o teto periférico; contatar o prescritor.",
+   "A concentração de 80 mEq/L é o teto periférico; pode-se instalar.",
+   "Trocar o diluente por soro glicosado a 5% torna a solução segura.",
+   "A velocidade de 20 mEq/h excede o limite; a concentração está adequada.",
+   "A concentração de 40 mEq/L está adequada; pode-se instalar como prescrito."
+  ],
+  "gab": 0,
+  "tema": "farmaco",
+  "sub": "Medicamentos de alta vigilância",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Protocolo 295 do HC-UFMG/Ebserh, Abordagem do paciente adulto com hipocalemia (2021); bula do cloreto de potássio (Halex Istar)",
+  "coment": "O protocolo 295 do HC-UFMG/Ebserh (2021) recomenda solução de 20 a 40 mmol/L, sem exceder 60 mmol/L em veia periférica, e velocidade de até 20 mmol/h fora da emergência, habitualmente 10; para o potássio, 1 mEq equivale a 1 mmol. Aqui, 40 mEq em 500 mL são 80 mEq/L, acima do teto periférico, enquanto a velocidade, 40 ÷ 2 = 20 mEq/h, está no limite aceito. A conduta é não instalar e discutir com o prescritor maior volume ou outro acesso. O mesmo protocolo prefere diluir em solução salina, não glicosada. Concentração e velocidade são perguntas diferentes; 40 mEq/L é o erro de dividir por 1 litro.",
+  "porAlt": [
+   "Correta: 40 mEq em 0,5 L são 80 mEq/L, acima de 60 mmol/L em veia periférica.",
+   "Errada: o teto em veia periférica é de 60 mmol/L, e 80 o ultrapassa.",
+   "Errada: o protocolo prefere solução salina, e trocar o diluente não reduz a concentração.",
+   "Errada: 20 mEq/h é o limite aceito fora da emergência; o problema é a concentração.",
+   "Errada: dividiu 40 mEq por 1 litro, quando o volume da solução é de 500 mL."
+  ]
+ },
+ {
+  "q": "Na UTI, paciente de 45 anos com hiperglicemia persistente inicia insulina regular contínua. A solução foi preparada com 50 unidades de insulina regular em soro fisiológico a 0,9%, completando 100 mL. A prescrição atual é de 4 unidades por hora. Em quantos mL/h a bomba deve ser programada?",
+  "alts": [
+   "12,5 mL/h na bomba de infusão.",
+   "8 mL/h na bomba de infusão.",
+   "0,08 mL/h na bomba de infusão.",
+   "2 mL/h na bomba de infusão.",
+   "4 mL/h na bomba de infusão."
+  ],
+  "gab": 1,
+  "tema": "farmaco",
+  "sub": "Insulinas e anticoagulantes",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Bula da insulina regular Novolin R (Novo Nordisk), estabilidade de 0,05 a 1,0 UI/mL; Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "Concentração: 50 unidades ÷ 100 mL = 0,5 unidade/mL, dentro da faixa de estabilidade da bula da Novolin R para infusão (0,05 a 1,0 UI/mL em cloreto de sódio 0,9%). Vazão = dose por hora ÷ concentração = 4 ÷ 0,5 = 8 mL/h. Conferência: 8 mL/h × 0,5 unidade/mL = 4 unidades/h. 2 mL/h multiplica a dose pela concentração; 4 mL/h supõe a solução de 1 unidade/mL; 12,5 mL/h inverte a razão; 0,08 mL/h divide a dose pelas 50 unidades. A insulina é medicamento potencialmente perigoso, e a programação da bomba passa por dupla checagem independente.",
+  "porAlt": [
+   "Errada: inverteu a razão (50 ÷ 4) sem usar o volume da solução.",
+   "Correta: 50 ÷ 100 = 0,5 unidade/mL; 4 ÷ 0,5 = 8 mL/h.",
+   "Errada: dividiu a dose horária pelas 50 unidades da bolsa.",
+   "Errada: multiplicou a dose pela concentração; entregaria só 1 unidade por hora.",
+   "Errada: supõe solução de 1 unidade/mL, que não é a preparada."
+  ]
+ },
+ {
+  "q": "Às 7h, paciente de 60 anos com diabetes tipo 2 tem prescrição de 22 unidades de insulina NPH e 8 unidades de insulina regular, por via subcutânea, na mesma aplicação. A enfermeira vai preparar a mistura em uma única seringa de insulina U-100. Qual a sequência de aspiração e a dose final na seringa?",
+  "alts": [
+   "Aspirar a regular, depois a NPH; seringa com 30 unidades.",
+   "Aspirar a NPH, depois a regular; seringa com 14 unidades.",
+   "Aspirar a regular, depois a NPH; seringa com 22 unidades.",
+   "Aspirar a NPH, depois a regular; seringa com 30 unidades.",
+   "Misturar as duas no frasco de NPH; aspirar 30 unidades."
+  ],
+  "gab": 0,
+  "tema": "farmaco",
+  "sub": "Insulinas e anticoagulantes",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Bulas de Novolin N (Novo Nordisk) e Humulin N (Eli Lilly), mistura com insulina de ação rápida; Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "Na mistura de NPH com insulina de ação rápida, a sequência vai da insulina transparente para a turva: injetar ar no frasco de NPH sem aspirar, injetar ar no frasco de regular e aspirar a regular, voltar ao frasco de NPH e aspirar a NPH. A ordem impede que a NPH contamine o frasco de regular. A dose na seringa é a soma: 22 + 8 = 30 unidades; conferência pelo traço: a regular ocupa até a marca de 8, e a NPH completa até 30. A bula da Novolin N permite a mistura com insulina rápida, e a da Humulin N manda pôr primeiro o análogo rápido na seringa e aplicar logo após misturar.",
+  "porAlt": [
+   "Correta: transparente antes da turva, para não contaminar o frasco de regular; 22 + 8 = 30.",
+   "Errada: ordem invertida, e 14 é a diferença entre as doses, não a soma.",
+   "Errada: a ordem está certa, mas 22 unidades seria só a NPH, sem somar a regular.",
+   "Errada: a dose está certa, mas a ordem leva NPH para dentro do frasco de regular.",
+   "Errada: misturar nos frascos contamina a insulina e altera as doses seguintes."
+  ]
+ },
+ {
+  "q": "Criança de 7 anos, 22 kg, tem prescrição de vancomicina 15 mg/kg EV, com concentração final de 5 mg/mL. O frasco-ampola de 500 mg foi reconstituído com 10 mL, e o enunciado considera o volume final igual ao do diluente. A enfermeira vai aspirar a dose e rediluir em soro fisiológico a 0,9%. Como preparar?",
+  "alts": [
+   "Aspirar 6,6 mL e completar até 33 mL de volume final.",
+   "Aspirar 6,6 mL e acrescentar 66 mL de soro fisiológico.",
+   "Aspirar 3,3 mL e completar até 66 mL de volume final.",
+   "Aspirar 15,2 mL e completar até 66 mL de volume final.",
+   "Aspirar 6,6 mL e completar até 66 mL de volume final."
+  ],
+  "gab": 4,
+  "tema": "farmaco",
+  "sub": "Cálculo de dose e diluição",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (diluição, rediluição e volume final)",
+  "coment": "Dose: 15 mg × 22 kg = 330 mg. O frasco reconstituído tem 500 mg em 10 mL, 50 mg/mL; 330 ÷ 50 = 6,6 mL. Para a concentração final prescrita de 5 mg/mL, os 330 mg precisam de 330 ÷ 5 = 66 mL de volume final, isto é, os 6,6 mL do fármaco mais 59,4 mL de diluente. Conferência: 66 mL × 5 mg/mL = 330 mg. Acrescentar 66 mL ao fármaco dá 72,6 mL e 4,5 mg/mL, o erro de tomar o diluente pelo volume final; 33 mL dobra a concentração; 3,3 mL entrega metade da dose; 15,2 mL vem da regra invertida. O protocolo exige na prescrição endovenosa o diluente, o volume e a velocidade.",
+  "porAlt": [
+   "Errada: 330 mg em 33 mL dão 10 mg/mL, o dobro da concentração prescrita.",
+   "Errada: o volume final seria 72,6 mL e a concentração, 4,5 mg/mL; confundiu diluente com volume final.",
+   "Errada: 3,3 mL contêm 165 mg, metade da dose de 330 mg.",
+   "Errada: regra de três invertida (10 × 500 ÷ 330), volume maior que o do frasco.",
+   "Correta: 330 mg ÷ 50 mg/mL = 6,6 mL; 330 mg ÷ 5 mg/mL = 66 mL de volume final."
+  ]
+ },
+ {
+  "q": "Paciente de 70 kg com trombose venosa profunda inicia heparina não fracionada em bomba. A solução foi preparada com 25.000 unidades de heparina sódica em soro fisiológico a 0,9%, completando 500 mL. Após o bólus, a prescrição é de 1.000 unidades por hora, ajustada por nomograma. Qual vazão deve ser programada?",
+  "alts": [
+   "10 mL/h.",
+   "2 mL/h.",
+   "0,2 mL/h.",
+   "20 mL/h.",
+   "40 mL/h."
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Insulinas e anticoagulantes",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Bula do Hemofol, heparina sódica (Cristália); Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "Concentração: 25.000 unidades ÷ 500 mL = 50 unidades/mL. Vazão = dose por hora ÷ concentração = 1.000 ÷ 50 = 20 mL/h. Conferência: 20 mL/h × 24 h = 480 mL e 24.000 unidades por dia, dentro do esquema de infusão contínua que a bula do Hemofol descreve (24.000 a 32.000 UI em 24 horas). 10 mL/h supõe 100 unidades/mL; 40 mL/h supõe a bolsa de 1.000 mL; 0,2 mL/h usa a concentração do frasco puro; 2 mL/h é erro de vírgula. A bula manda inverter a bolsa ao menos seis vezes após acrescentar a heparina, e o ajuste pelo nomograma depende de TTPa colhido por via que não seja a da infusão.",
+  "porAlt": [
+   "Errada: supõe 100 unidades/mL, concentração de uma solução preparada em 250 mL.",
+   "Errada: erro de vírgula; entregaria um décimo da dose prescrita.",
+   "Errada: usou a concentração do frasco puro, de 5.000 unidades/mL.",
+   "Correta: 25.000 ÷ 500 = 50 unidades/mL; 1.000 ÷ 50 = 20 mL/h.",
+   "Errada: supõe o frasco diluído em 1.000 mL, a 25 unidades/mL."
+  ]
+ },
+ {
+  "q": "Paciente de 77 anos, acamado, tem prescrição de heparina 5.000 unidades por via subcutânea de 12/12 horas. O técnico de enfermagem aspirou 1 mL da ampola de 5.000 UI/0,25 mL, acreditando ser a apresentação de 5.000 UI/mL. Antes da aplicação, a enfermeira confere a seringa. Quantas unidades ela contém?",
+  "alts": [
+   "1.250 unidades.",
+   "20.000 unidades.",
+   "5.000 unidades.",
+   "4.000 unidades.",
+   "25.000 unidades."
+  ],
+  "gab": 1,
+  "tema": "farmaco",
+  "sub": "Insulinas e anticoagulantes",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Bula do Hemofol, heparina sódica (Cristália), apresentações de 5.000 UI/mL e 5.000 UI/0,25 mL; Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "A ampola de uso subcutâneo do Hemofol tem 5.000 UI em 0,25 mL, ou 20.000 UI/mL; o frasco-ampola intravenoso tem 5.000 UI/mL, em 5 mL. Em 1 mL da ampola subcutânea: 1 ÷ 0,25 = 4 vezes a dose, 20.000 unidades. Conferência: 20.000 UI/mL × 1 mL = 20.000. A dose prescrita ocuparia 0,25 mL. 5.000 seria o conteúdo se a apresentação fosse a intravenosa; 1.250 inverte a razão; 25.000 é o frasco intravenoso inteiro; 4.000 confunde o fator com a dose. Confundir as duas apresentações é erro de quatro vezes no volume, e o protocolo de 2013 manda limitar apresentações e concentrações de anticoagulantes.",
+  "porAlt": [
+   "Errada: inverteu a razão, multiplicando 5.000 por 0,25.",
+   "Correta: 5.000 ÷ 0,25 = 20.000 unidades/mL; 1 mL tem quatro vezes a dose prescrita.",
+   "Errada: seria o conteúdo de 1 mL da apresentação intravenosa, não da ampola subcutânea.",
+   "Errada: confundiu o fator de quatro vezes no volume com a própria dose.",
+   "Errada: é o conteúdo do frasco-ampola intravenoso inteiro, de 5 mL."
+  ]
+ },
+ {
+  "q": "Paciente de 65 kg em choque séptico na UTI tem prescrição de noradrenalina 0,1 mcg/kg/min. A solução padrão da unidade tem 4 mg de noradrenalina, expressos como base, em 250 mL de soro glicosado a 5%. A bomba é programada em mL/h. Qual vazão corresponde à dose prescrita?",
+  "alts": [
+   "0,4 mL/h.",
+   "243,8 mL/h.",
+   "390 mL/h.",
+   "2,4 mL/h.",
+   "24,4 mL/h."
+  ],
+  "gab": 4,
+  "tema": "farmaco",
+  "sub": "Gotejamento e bomba de infusão",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013); Boletim ISMP Brasil 2019 (agonistas adrenérgicos endovenosos)",
+  "coment": "Concentração: 4 mg = 4.000 mcg; 4.000 ÷ 250 mL = 16 mcg/mL. Dose por minuto: 0,1 × 65 = 6,5 mcg/min; por hora, 6,5 × 60 = 390 mcg/h. Vazão: 390 ÷ 16 = 24,4 mL/h. Conferência pela fórmula em uma linha, mL/h = mcg/kg/min × kg × 60 ÷ mcg/mL: 0,1 × 65 × 60 ÷ 16 = 24,375. 0,4 mL/h esquece o fator 60; 390 mL/h esquece a concentração; 243,8 mL/h converte 4 mg em 400 mcg; 2,4 mL/h é erro de vírgula. A noradrenalina é agonista adrenérgico endovenoso, da lista de medicamentos potencialmente perigosos: via exclusiva e dupla checagem da programação.",
+  "porAlt": [
+   "Errada: faltou multiplicar por 60 para passar de minuto para hora.",
+   "Errada: converteu 4 mg em 400 mcg, com fator de conversão errado.",
+   "Errada: 390 é a dose em mcg/h; faltou dividir pela concentração.",
+   "Errada: erro de vírgula; entregaria um décimo da dose prescrita.",
+   "Correta: 0,1 × 65 × 60 = 390 mcg/h; 390 ÷ 16 mcg/mL = 24,4 mL/h."
+  ]
+ },
+ {
+  "q": "Paciente de 70 kg com choque cardiogênico recebe dobutamina em bomba a 21 mL/h. A solução foi preparada com 250 mg de dobutamina em volume final de 250 mL. Na passagem de plantão, a enfermeira confere se a dose infundida corresponde à prescrita. Qual a dose atual, em mcg/kg/min?",
+  "alts": [
+   "5,0 mcg/kg/min.",
+   "350 mcg/kg/min.",
+   "0,005 mcg/kg/min.",
+   "300 mcg/kg/min.",
+   "0,5 mcg/kg/min."
+  ],
+  "gab": 0,
+  "tema": "farmaco",
+  "sub": "Gotejamento e bomba de infusão",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (conferência de bomba e droga vasoativa)",
+  "coment": "Concentração: 250 mg em 250 mL = 1 mg/mL = 1.000 mcg/mL. Dose por hora: 21 mL/h × 1.000 = 21.000 mcg/h; por minuto, 21.000 ÷ 60 = 350 mcg/min; por quilo, 350 ÷ 70 = 5,0 mcg/kg/min. Conferência pela fórmula direta: 5 × 70 × 60 ÷ 1.000 = 21 mL/h, exatamente a vazão da bomba. 300 é a dose por quilo por hora; 350 é a dose por minuto sem o peso; 0,005 mantém a concentração em miligramas; 0,5 usa fator 100 na conversão. Na troca de plantão, conferir a programação contra a prescrição faz parte do certo da dose.",
+  "porAlt": [
+   "Correta: 21 mL/h × 1.000 mcg/mL ÷ 60 ÷ 70 = 5,0 mcg/kg/min.",
+   "Errada: 350 é a dose em mcg por minuto; faltou dividir pelo peso.",
+   "Errada: manteve a concentração em miligramas, sem converter para microgramas.",
+   "Errada: 300 é a dose por quilo por hora; faltou dividir por 60.",
+   "Errada: converteu miligrama em micrograma multiplicando por 100, e não por 1.000."
+  ]
+ },
+ {
+  "q": "Paciente de 80 kg em choque séptico tem prescrição de noradrenalina 0,1 mcg/kg/min, expressa como base. A bula da ampola de hemitartarato de norepinefrina 2 mg/mL, com 4 mL, informa que cada mL equivale a 1 mg de base. A bolsa tem 2 ampolas em soro glicosado a 5%, com volume final de 250 mL. Qual vazão deve ser programada?",
+  "alts": [
+   "0,25 mL/h, calculando pela base.",
+   "30 mL/h, calculando pela base.",
+   "7,5 mL/h, calculando pelo sal.",
+   "15 mL/h, calculando pela base.",
+   "60 mL/h, calculando pela base."
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Medicamentos de alta vigilância",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "tit",
+  "base": "Bula do hemitartarato de norepinefrina 2 mg/mL (Hipolabor, reg. MS 1.1343.0126); Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "Cada ampola tem 4 mL × 2 mg/mL = 8 mg do sal, equivalentes a 4 mg de base, pela bula da Hipolabor. Duas ampolas: 8 mg de base em 250 mL, ou 32 mcg/mL. Dose: 0,1 × 80 = 8 mcg/min, ou 480 mcg/h. Vazão: 480 ÷ 32 = 15 mL/h. Conferência: 15 mL/h × 32 mcg/mL ÷ 60 ÷ 80 = 0,1 mcg/kg/min. Pelo sal, a concentração seria 64 mcg/mL e a vazão 7,5 mL/h, metade da dose prescrita em base. 30 mL/h usa a concentração de uma ampola só; 60 mL/h supõe 2 mg por ampola; 0,25 mL/h esquece o fator 60. Prescrição, rótulo e cálculo precisam usar a mesma referência, e a bula orienta veia calibrosa e vigilância do local pelo risco de necrose.",
+  "porAlt": [
+   "Errada: faltou multiplicar por 60 para passar de minuto para hora.",
+   "Errada: usou a concentração de uma ampola só (16 mcg/mL), dobrando a dose.",
+   "Errada: com 64 mcg/mL do sal, a bomba entregaria metade da dose prescrita em base.",
+   "Correta: 8 mg de base em 250 mL dão 32 mcg/mL; 0,1 × 80 × 60 ÷ 32 = 15 mL/h.",
+   "Errada: supôs 2 mg por ampola, ignorando que cada uma tem 4 mL."
+  ]
+ },
+ {
+  "q": "Criança de 4 anos, 15 kg, atendida na unidade básica com otite média aguda, tem prescrição de amoxicilina 50 mg/kg/dia por via oral, dividida de 8/8 horas. A suspensão disponível tem 250 mg em 5 mL. Quantos mililitros a enfermeira deve orientar a mãe a dar em cada tomada?",
+  "alts": [
+   "2,5 mL por tomada.",
+   "5 mL por tomada.",
+   "1 mL por tomada.",
+   "15 mL por tomada.",
+   "7,5 mL por tomada."
+  ],
+  "gab": 1,
+  "tema": "farmaco",
+  "sub": "Cálculo de dose e diluição",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (peso anotado na prescrição pediátrica)",
+  "coment": "Dose diária: 50 mg × 15 kg = 750 mg; de 8/8 horas são 3 tomadas, 750 ÷ 3 = 250 mg por tomada. Volume: 250 mg está para 5 mL assim como 250 mg está para x, logo x = 5 mL. Conferência: a suspensão tem 50 mg/mL, e 250 ÷ 50 = 5 mL; três tomadas de 5 mL somam 15 mL, que contêm os 750 mg do dia. 15 mL é a dose diária inteira numa tomada; 7,5 mL divide o dia em duas tomadas; 2,5 mL divide em seis; 1 mL lê a suspensão como 250 mg/mL. Em pediatria, o protocolo de 2013 pede o peso anotado quando a dose depende dele, e a mãe recebe a dose em mL com a seringa dosadora.",
+  "porAlt": [
+   "Errada: dividiu a dose diária em seis tomadas, como se fosse de 4/4 horas.",
+   "Correta: 50 × 15 = 750 mg/dia; ÷ 3 = 250 mg por tomada, que estão em 5 mL.",
+   "Errada: leu a suspensão como 250 mg/mL, esquecendo os 5 mL do rótulo.",
+   "Errada: 15 mL contêm os 750 mg do dia inteiro numa só tomada.",
+   "Errada: dividiu a dose diária em duas tomadas, como se fosse de 12/12 horas."
+  ]
+ },
+ {
+  "q": "Criança de 6 anos, 20 kg, internada com febre, tem prescrição de paracetamol 15 mg/kg/dose por via oral de 4/4 horas, em horário fixo. A suspensão disponível tem 32 mg/mL. Ao conferir a prescrição pela bula, que limita a dose em menores de 12 anos, qual análise a enfermeira deve fazer?",
+  "alts": [
+   "Seis doses somam 1.800 mg, abaixo de 4.000 mg; administrar 9,4 mL.",
+   "Seis doses somam 90 mg/kg/dia, acima de 75; devolver ao prescritor.",
+   "Seis doses somam 90 mg/kg/dia, dentro do teto de 100 mg/kg/dia.",
+   "A dose está correta; espaçar para 6/6 horas por decisão da enfermagem.",
+   "Cada dose de 300 mg excede o limite; reduzir por conta própria a 10 mg/kg."
+  ],
+  "gab": 1,
+  "tema": "farmaco",
+  "sub": "Cálculo de dose e diluição",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Bula do Tylenol Criança, paracetamol 32 mg/mL (Janssen-Cilag); Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "A bula do Tylenol Criança, para menores de 12 anos, indica 10 a 15 mg/kg por dose, com intervalo de 4 a 6 horas, até 5 administrações em 24 horas, sem exceder 75 mg/kg/dia nem 4.000 mg. Cada dose (15 × 20 = 300 mg, 9,4 mL a 32 mg/mL) está na faixa, mas de 4/4 horas em horário fixo são 6 tomadas: 1.800 mg, ou 90 mg/kg/dia, acima do teto de 75 mg/kg/dia (1.500 mg para 20 kg). Conferência: 75 × 20 = 1.500 mg, exatamente 5 doses de 300 mg. Dose fora da faixa da bula não se corrige na enfermagem: volta ao prescritor com o cálculo feito.",
+  "porAlt": [
+   "Errada: o teto de 4.000 mg é absoluto; para a criança vale 75 mg/kg/dia, que foi ultrapassado.",
+   "Correta: 6 × 300 mg = 1.800 mg, ou 90 mg/kg/dia, acima do teto de 75 mg/kg/dia.",
+   "Errada: a bula fixa o teto em 75 mg/kg/dia, não em 100.",
+   "Errada: a soma diária excede o teto, e mudar o intervalo é decisão do prescritor.",
+   "Errada: 15 mg/kg por dose está na faixa, e a enfermagem não altera a dose sozinha."
+  ]
+ },
+ {
+  "q": "Na sala de emergência, paciente de 68 anos com edema agudo de pulmão hipertensivo tem prescrição de nitroglicerina 10 mcg/min por via endovenosa. A solução tem 50 mg de nitroglicerina em volume final de 250 mL de soro glicosado a 5%. Qual vazão, em mL/h, a enfermeira deve programar na bomba de infusão?",
+  "alts": [
+   "0,05 mL/h na bomba de infusão.",
+   "600 mL/h na bomba de infusão.",
+   "3 mL/h na bomba de infusão.",
+   "0,3 mL/h na bomba de infusão.",
+   "30 mL/h na bomba de infusão."
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Gotejamento e bomba de infusão",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013); bula de Tridil, nitroglicerina injetável (Cristália)",
+  "coment": "Concentração: 50 mg = 50.000 mcg; 50.000 ÷ 250 mL = 200 mcg/mL. Dose por hora: 10 mcg/min × 60 = 600 mcg/h. Vazão: 600 ÷ 200 = 3 mL/h. Conferência: 3 mL/h × 200 mcg/mL = 600 mcg/h, que divididos por 60 dão 10 mcg/min. Como a dose da nitroglicerina não é por peso, a conta pula a etapa do quilo. 0,05 mL/h esquece a conversão de minuto para hora; 600 mL/h esquece a concentração; 30 mL/h usa uma concentração dez vezes menor; 0,3 mL/h, dez vezes maior. Em equipo de microgotas, 3 mL/h corresponderiam a 3 microgotas por minuto.",
+  "porAlt": [
+   "Errada: dividiu 10 mcg/min pela concentração sem converter minuto em hora.",
+   "Errada: 600 é a dose em mcg/h; faltou dividir pela concentração.",
+   "Correta: 50.000 ÷ 250 = 200 mcg/mL; 10 × 60 = 600 mcg/h; 600 ÷ 200 = 3 mL/h.",
+   "Errada: concentração calculada dez vezes maior, entregando um décimo da dose.",
+   "Errada: usou 5.000 mcg em vez de 50.000, uma concentração dez vezes menor."
+  ]
+ },
+ {
+  "q": "Lactente de 10 meses, internado por pneumonia, tem prescrição de antibiótico diluído em 30 mL de soro fisiológico a 0,9%, para correr em 30 minutos em bureta com equipo de microgotas, de 60 microgotas por mL. Não há bomba de seringa disponível. Qual gotejamento a enfermeira deve regular?",
+  "alts": [
+   "20 microgotas por minuto.",
+   "60 microgotas por minuto.",
+   "1.800 microgotas por minuto.",
+   "1 microgota por minuto.",
+   "180 microgotas por minuto."
+  ],
+  "gab": 1,
+  "tema": "farmaco",
+  "sub": "Gotejamento e bomba de infusão",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dose certa (gotejamento conferido)",
+  "coment": "Com o tempo em minutos, microgotas por minuto = volume × 60 ÷ tempo = 30 × 60 ÷ 30 = 60 microgotas/min. Conferência: 30 mL em meia hora equivalem a 60 mL/h, e no equipo de microgotas o número de microgotas por minuto é igual aos mL/h. 20 é o resultado com o fator de macrogotas; 1 resulta da fórmula curta com o tempo em minutos; 1.800 é o total de microgotas do volume, sem dividir pelo tempo; 180 multiplica por 3 o que já está em microgotas. Em pediatria o volume é pequeno, e qualquer erro de fator pesa proporcionalmente mais no paciente.",
+  "porAlt": [
+   "Errada: usou o fator de macrogotas (20 por mL), e o equipo é de microgotas.",
+   "Correta: 30 × 60 ÷ 30 = 60 microgotas/min; 30 mL em meia hora são 60 mL/h.",
+   "Errada: 1.800 é o total de microgotas do volume; faltou dividir pelo tempo.",
+   "Errada: usou a fórmula curta, volume ÷ horas, com o tempo ainda em minutos.",
+   "Errada: multiplicou por 3 um valor que já estava em microgotas."
+  ]
+ },
+ {
+  "q": "Na sala de vacinação da unidade básica, a enfermeira supervisiona uma técnica recém-contratada que vai aplicar, pela primeira vez, uma vacina de via intradérmica em um adulto. Segundo o Manual de Normas e Procedimentos para Vacinação do Ministério da Saúde, qual técnica está correta para essa via?",
+  "alts": [
+   "Agulha a 15º com bisel para cima, sem comprimir após a aplicação.",
+   "Agulha a 90º após pinçar a pele, aspirando antes de injetar.",
+   "Agulha a 15º com bisel para baixo, comprimindo o local por um minuto.",
+   "Agulha a 15º com bisel para cima, volume de até 1,5 mL por aplicação.",
+   "Agulha a 45º com bisel para baixo, massageando o local após aplicar."
+  ],
+  "gab": 0,
+  "tema": "farmaco",
+  "sub": "Vias de administração",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Manual de Normas e Procedimentos para Vacinação (MS, 2014), Parte III, item 6.3.2",
+  "coment": "Pelo Manual de Normas e Procedimentos para Vacinação (MS, 2014), a via intradérmica deposita o produto na derme: agulha de 10 a 13 mm, seringa de 1 mL graduada em 0,1 mL, ângulo de 15º com o bisel para cima, introduzida paralela à pele até o bisel desaparecer, volume máximo de 0,5 mL e sem comprimir o local. Pinçar a pele e introduzir a 90º é a técnica da subcutânea, em que o manual também não manda aspirar; 1,5 mL é o volume máximo da subcutânea; massagear ou comprimir espalha o produto e desfaz a pápula. O bisel para baixo é o descrito para a subcutânea.",
+  "porAlt": [
+   "Correta: na intradérmica, 15º, bisel para cima até desaparecer, sem comprimir o local.",
+   "Errada: 90º com pinçamento descreve a subcutânea, em que também não se aspira.",
+   "Errada: o bisel fica para cima, e a intradérmica não se comprime.",
+   "Errada: 1,5 mL é o máximo da subcutânea; na intradérmica o teto é 0,5 mL.",
+   "Errada: ângulo e bisel não são os da intradérmica, e massagear desfaz a pápula."
+  ]
+ },
+ {
+  "q": "Durante a campanha de vacinação, um técnico de enfermagem pergunta à enfermeira como aplicar uma vacina de via subcutânea em uma mulher de 30 anos. Ele costuma aspirar antes de injetar e quer saber o volume máximo da via. Pelo Manual de Normas e Procedimentos para Vacinação, qual a orientação correta?",
+  "alts": [
+   "Pinçar a pele, agulha a 15º, aspirar antes; até 0,5 mL.",
+   "Pinçar a pele, agulha a 90º, não aspirar; até 1,5 mL.",
+   "Esticar a pele, agulha a 90º, aspirar antes; até 5 mL.",
+   "Pinçar a pele, agulha a 90º, não aspirar; até 0,5 mL.",
+   "Pinçar a pele, agulha a 45º, aspirar antes; até 3 mL."
+  ],
+  "gab": 1,
+  "tema": "farmaco",
+  "sub": "Vias de administração",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Manual de Normas e Procedimentos para Vacinação (MS, 2014), Parte III, item 6.3.2",
+  "coment": "Pelo Manual de Normas e Procedimentos para Vacinação (MS, 2014), a via subcutânea deposita o produto na hipoderme: pinçar o local, introduzir a agulha de 13 a 20 mm, de bisel curto, a 90º, e injetar sem aspirar, com volume máximo de 1,5 mL. A aspiração não faz parte da técnica subcutânea do manual. 0,5 mL e 15º pertencem à intradérmica; até 5 mL é o teto da intramuscular; 3 mL excede o limite da via. Entre a subcutânea e a intramuscular a 90º, o que muda é o comprimento da agulha e a camada alcançada, e por isso a agulha curta é parte da técnica.",
+  "porAlt": [
+   "Errada: 15º e 0,5 mL são da intradérmica, e o manual não manda aspirar na subcutânea.",
+   "Correta: subcutânea na hipoderme, local pinçado, 90º, sem aspirar, volume máximo de 1,5 mL.",
+   "Errada: até 5 mL é o teto da intramuscular, não da subcutânea.",
+   "Errada: a técnica está certa, mas 0,5 mL é o teto da intradérmica.",
+   "Errada: 3 mL excede o limite da via, e a aspiração não faz parte da técnica."
+  ]
+ },
+ {
+  "q": "Lactente de 2 meses comparece à unidade básica para receber três vacinas de via intramuscular no mesmo dia. A enfermeira aplicará duas delas na mesma coxa, porque a outra coxa receberá a terceira. Segundo o Manual de Normas e Procedimentos para Vacinação, como as duas devem ser aplicadas na mesma coxa?",
+  "alts": [
+   "No vasto lateral, terço superior, lado a lado, a 1 cm uma da outra.",
+   "No vasto lateral, terço inferior, perto do joelho, a 2,5 cm uma da outra.",
+   "No reto femoral, terço médio, no mesmo ponto, com intervalo de 15 minutos.",
+   "No vasto lateral, terço médio, no eixo da coxa, a 2,5 cm uma da outra.",
+   "Na região dorsoglútea, quadrante superior externo, a 2,5 cm uma da outra."
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Vias de administração",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Manual de Normas e Procedimentos para Vacinação (MS, 2014), Parte III, item 6.3.2",
+  "coment": "O Manual de Normas e Procedimentos para Vacinação (MS, 2014) aponta o vasto lateral e o deltoide como as regiões intramusculares mais usadas. No vasto lateral, a injeção vai no terço médio da face externa da coxa, e duas vacinas no mesmo músculo ficam no eixo da coxa a pelo menos 2,5 cm uma da outra. No deltoide do adulto, o manual orienta evitar duas vacinas no mesmo músculo, salvo por vias diferentes. A dorsoglútea, localizada por uma cruz imaginária no quadrante superior externo, serve a alguns soros e imunoglobulinas; o terço inferior aproxima a agulha do joelho; 1 cm é distância insuficiente.",
+  "porAlt": [
+   "Errada: o local é o terço médio, e 1 cm é menos que a distância mínima de 2,5 cm.",
+   "Errada: a distância está certa, mas o local é o terço médio, longe da articulação.",
+   "Errada: o músculo indicado é o vasto lateral, e as vacinas não se aplicam no mesmo ponto.",
+   "Correta: terço médio da face externa da coxa, no eixo, a pelo menos 2,5 cm uma da outra.",
+   "Errada: a dorsoglútea serve, pelo manual, a alguns soros e imunoglobulinas, não a esse esquema."
+  ]
+ },
+ {
+  "q": "Paciente de 64 anos, internado na clínica médica, tem prescrição de dinitrato de isossorbida 5 mg por via sublingual se dor torácica. Ele refere dor, a PA é de 138/84 mmHg, não usa inibidor de fosfodiesterase, e o médico, comunicado, mantém a prescrição. Qual orientação a enfermeira deve dar ao administrar o comprimido?",
+  "alts": [
+   "Dissolver o comprimido em meio copo de água e tomar em goles.",
+   "Colocar o comprimido entre a bochecha e a gengiva até amolecer e engolir.",
+   "Engolir o comprimido inteiro com água, pois o efeito é o mesmo.",
+   "Mastigar o comprimido e engolir com água, para acelerar o efeito.",
+   "Deixar o comprimido dissolver sob a língua, sem engolir nem mastigar."
+  ],
+  "gab": 4,
+  "tema": "farmaco",
+  "sub": "Vias de administração",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), via certa e orientação ao paciente",
+  "coment": "Na via sublingual, o comprimido se dissolve sob a língua e é absorvido pela mucosa, com início rápido e sem passar primeiro pelo fígado; o paciente não engole nem mastiga. Engolir, mastigar ou dissolver em água transforma a administração em oral, sujeita ao primeiro passo hepático e a absorção mais lenta, o que contraria a via prescrita. O certo da via, no protocolo de 2013, é a via prescrita e tecnicamente recomendada, e o certo da orientação manda explicar ao paciente como e por que o medicamento é administrado. A dor e a pressão arterial reavaliadas depois da dose entram no registro, como pede o certo da resposta.",
+  "porAlt": [
+   "Errada: dissolver em água e beber muda a via para oral, contra a prescrição.",
+   "Errada: a via prescrita é sob a língua, e engolir o comprimido anula a via.",
+   "Errada: a via oral passa pelo primeiro passo hepático e tem início mais lento.",
+   "Errada: mastigar e engolir transforma a administração em oral, mais lenta.",
+   "Correta: na sublingual, o comprimido se dissolve sob a língua e é absorvido pela mucosa."
+  ]
+ },
+ {
+  "q": "Paciente de 74 anos com sonda nasoenteral após acidente vascular cerebral tem prescrição de nifedipino de liberação prolongada 20 mg via sonda, de 12/12 horas. A técnica de enfermagem pretende triturar o comprimido e diluir em água para administrar. Pelo Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, qual a conduta?",
+  "alts": [
+   "Triturar e diluir em água morna, lavando a sonda antes e depois.",
+   "Suspender a dose e registrar como recusa, pois a via oral está impedida.",
+   "Triturar junto com os demais comprimidos do horário para poupar volume.",
+   "Não triturar e discutir com farmácia e prescritor outra forma farmacêutica.",
+   "Administrar o comprimido inteiro pela sonda, empurrado com a seringa."
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Vias de administração",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), forma farmacêutica certa",
+  "coment": "O certo da forma farmacêutica, no protocolo de 2013, exige forma compatível com a via e com a condição clínica do paciente, e a trituração para administração por sonda só se faz com orientação da farmácia. Comprimido de liberação prolongada ou revestido não se tritura sem essa orientação: a trituração destrói o mecanismo que libera o fármaco aos poucos e pode entregar a dose de uma vez. A conduta é não triturar e discutir com a farmácia e o prescritor uma alternativa adequada à sonda. Triturar vários comprimidos juntos soma incompatibilidades; empurrar o comprimido inteiro obstrui a sonda; registrar como recusa falseia o prontuário.",
+  "porAlt": [
+   "Errada: lavar a sonda é correto, mas a trituração destrói a liberação prolongada.",
+   "Errada: não houve recusa do paciente, e suspender por conta própria o deixa sem tratamento.",
+   "Errada: além de destruir a liberação prolongada, misturar fármacos soma incompatibilidades.",
+   "Correta: liberação prolongada não se tritura; a trituração para sonda depende da farmácia.",
+   "Errada: o comprimido inteiro obstrui a sonda e não chega ao intestino como previsto."
+  ]
+ },
+ {
+  "q": "Às 19h, um técnico de enfermagem da clínica médica propõe adiantar para as 20h a dose de ceftriaxona aprazada para as 22h, porque o paciente de 50 anos costuma dormir cedo. A prescrição é de uma dose diária, e não há intercorrência clínica. Pelo Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, qual a orientação da enfermeira?",
+  "alts": [
+   "Antecipar, desde que o técnico registre o novo horário na checagem.",
+   "Antecipar só com o consentimento do enfermeiro e do prescritor.",
+   "Antecipar com o consentimento da farmácia, que libera a nova dose.",
+   "Antecipar com autorização do próprio paciente, registrada em prontuário.",
+   "Antecipar livremente, pois a tolerância de duas horas é permitida."
+  ],
+  "gab": 1,
+  "tema": "farmaco",
+  "sub": "Vias de administração",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), certo da hora",
+  "coment": "O certo da hora, no Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA, 2013), manda administrar no horário prescrito e só antecipar ou atrasar a dose com o consentimento do enfermeiro e do prescritor. A conveniência de rotina não basta, e o protocolo não prevê tolerância livre para a equipe decidir sozinha. O registro do novo horário é obrigatório, mas vem depois da decisão. A farmácia não autoriza aprazamento, e o consentimento do paciente não substitui o do prescritor. Mudar o horário altera o intervalo até a dose seguinte, o que pesa nos antimicrobianos.",
+  "porAlt": [
+   "Errada: o registro é necessário, mas vem depois da decisão e não a substitui.",
+   "Correta: o certo da hora admite antecipar ou atrasar a dose só com enfermeiro e prescritor de acordo.",
+   "Errada: a farmácia dispensa o medicamento, mas não autoriza mudança de aprazamento.",
+   "Errada: a concordância do paciente não substitui o consentimento do prescritor.",
+   "Errada: o protocolo não prevê tolerância livre para a equipe mudar o horário sozinha."
+  ]
+ },
+ {
+  "q": "Ao receber a prescrição manuscrita de um paciente de 58 anos, a enfermeira lê “insulina regular 10U SC se glicemia acima de 250 mg/dL” e, logo abaixo, “metoclopramida 10 mg IV”. Segundo o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, que problema de escrita ela deve apontar ao prescritor?",
+  "alts": [
+   "“U” se confunde com zero; escrever “unidades” por extenso e usar “EV”.",
+   "Falta só o horário da metoclopramida; a insulina está bem escrita.",
+   "A condição da glicemia torna a prescrição vaga e deve ser recusada.",
+   "“IV” é preferível a “EV”, e a insulina deveria vir em mililitros.",
+   "A dose de 10 mg deveria ser escrita como 0,01 g, por padronização."
+  ],
+  "gab": 0,
+  "tema": "farmaco",
+  "sub": "Medicamentos de alta vigilância",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), prescrição segura (abreviaturas)",
+  "coment": "O protocolo de 2013 aponta “U” e “UI” como as abreviaturas mais perigosas, porque podem levar a doses 10 ou 100 vezes maiores: “10U” pode virar 100. Escreve-se “unidade” ou “unidade internacional” por extenso. O mesmo protocolo prefere “EV” a “IV”, que pode ser lido como “IM”, e manda escrever “500 mg” em vez de “0,5 g”, que pode ser lido como “5 g”. Insulina se prescreve em unidades, não em mililitros. A condição “se glicemia acima de 250 mg/dL” é o que torna aceitável a ordem “se necessário”: vaga é a prescrição sem condição de uso.",
+  "porAlt": [
+   "Correta: “U” e “UI” são as abreviaturas mais perigosas, e “IV” pode ser lido como “IM”.",
+   "Errada: “10U” pode ser lido como 100, erro de dez vezes na dose da insulina.",
+   "Errada: a condição de uso é justamente o que torna aceitável a ordem “se necessário”.",
+   "Errada: prefere-se “EV”, e insulina se prescreve em unidades, não em mililitros.",
+   "Errada: o protocolo prefere miligramas inteiros, e frações de grama induzem erro."
+  ]
+ },
+ {
+  "q": "Durante uma parada cardiorrespiratória na enfermaria, o médico que conduz o atendimento diz em voz alta: “adrenalina 1 mg agora”. A enfermeira responsável pela medicação está preparando a seringa. Segundo o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, como proceder com essa ordem verbal?",
+  "alts": [
+   "Aceitar a ordem apenas depois que outro médico confirmar a dose ao lado.",
+   "Administrar sem repetir, para não atrasar, e registrar no fim do plantão.",
+   "Repetir em voz alta, aguardar a confirmação e registrar por escrito logo depois.",
+   "Repetir em voz alta e administrar, sem necessidade de registro posterior.",
+   "Recusar a ordem até que o médico a registre por escrito no prontuário."
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Medicamentos de alta vigilância",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), prescrição verbal",
+  "coment": "O protocolo de 2013 admite a prescrição verbal só em situação de urgência. Quem recebe repete a ordem em voz alta, o prescritor confirma, e a prescrição é escrita logo depois, assim que a situação permitir. Na parada, recusar a ordem até o registro escrito atrasaria uma droga com hora crítica; administrar sem repetir elimina a barreira contra o erro de escuta; deixar o registro para o fim do plantão ou dispensá-lo quebra o certo do registro. A confirmação é do próprio prescritor. A adrenalina é agonista adrenérgico endovenoso, classe da lista de medicamentos potencialmente perigosos do ISMP Brasil.",
+  "porAlt": [
+   "Errada: a confirmação é do próprio prescritor, não de um segundo médico.",
+   "Errada: sem repetir em voz alta, some a barreira contra o erro de escuta.",
+   "Correta: em urgência, a ordem verbal é repetida, confirmada pelo prescritor e escrita logo depois.",
+   "Errada: a prescrição verbal precisa ser escrita logo depois, assim que possível.",
+   "Errada: na urgência o protocolo admite a ordem verbal; recusar atrasaria a droga."
+  ]
+ },
+ {
+  "q": "Paciente de 39 anos, no primeiro dia de pós-operatório de herniorrafia, tem prescritos “dipirona 1 g EV se necessário” e “tramadol 50 mg EV a critério médico”. Às 3h, refere dor 6 em 10. Segundo o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, como a enfermeira deve tratar essas prescrições?",
+  "alts": [
+   "Aguardar a visita da manhã, pois prescrição vaga não vale no plantão noturno.",
+   "Administrar o tramadol, pois a dor moderada caracteriza o critério médico.",
+   "Administrar a dipirona, pois “se necessário” delega o julgamento à enfermagem.",
+   "Ambas são vagas; contatar o prescritor para definir condição e limite de uso.",
+   "Administrar as duas juntas e registrar a dor antes e depois de cada dose."
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Vias de administração",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), prescrição segura (expressões vagas)",
+  "coment": "O protocolo de 2013 recomenda não aceitar prescrição vaga: “se necessário” sem condição de uso, “a critério médico” e “conforme ordem médica”. Para ser aceita, a ordem “se necessário” precisa dizer em que condição o medicamento será dado, com dose e frequência máxima. Diante das duas ordens vagas e de um paciente com dor, a conduta é contatar o prescritor agora para definir o critério, e não decidir pela equipe nem deixar a dor para a manhã. Depois de administrar o analgésico definido, a dor é reavaliada e registrada, como manda o certo da resposta.",
+  "porAlt": [
+   "Errada: deixar a dor sem resposta não é a saída; o prescritor deve ser contatado agora.",
+   "Errada: “a critério médico” não define condição; a enfermagem não pode presumi-la.",
+   "Errada: sem condição de uso, a ordem é vaga e não transfere a decisão à equipe.",
+   "Correta: “se necessário” sem condição e “a critério médico” são prescrições vagas.",
+   "Errada: o registro da dor é correto, mas as duas ordens continuam vagas."
+  ]
+ },
+ {
+  "q": "Na emergência, paciente de 28 anos com diabetes tipo 1 e cetoacidose aguarda o início da insulinoterapia. Na prescrição, consta por engano “insulina NPH 10 unidades EV em bólus”, e a técnica de enfermagem já separou o frasco de NPH. A glicemia é de 460 mg/dL e o potássio, de 4,6 mEq/L. Qual a conduta correta da enfermeira?",
+  "alts": [
+   "Não administrar e contatar o prescritor: a NPH é de uso só subcutâneo.",
+   "Administrar após agitar vigorosamente o frasco até a suspensão clarear.",
+   "Administrar em bólus lento, diluída em 10 mL de soro fisiológico.",
+   "Administrar por via intramuscular, que substitui a endovenosa na urgência.",
+   "Administrar em bomba, diluída em soro glicosado, que estabiliza a suspensão."
+  ],
+  "gab": 0,
+  "tema": "farmaco",
+  "sub": "Insulinas e anticoagulantes",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Bulas de Novolin N e Novolin R (Novo Nordisk); Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), via certa",
+  "coment": "Pela bula da Novolin N, a insulina NPH é suspensão leitosa de uso exclusivamente subcutâneo: suspensão de insulina nunca vai à veia nem a fluido de infusão. A insulina que pode ser dada por via endovenosa, por profissional de saúde, é a regular, solução límpida, como descreve a bula da Novolin R. Diante de prescrição de NPH por via endovenosa, a enfermeira não administra e esclarece com o prescritor antes de qualquer preparo; o erro provável é de tipo de insulina. Diluir, usar bomba ou agitar não muda a natureza da suspensão, e a intramuscular não é via da NPH. O protocolo de 2013 define a via certa como a prescrita e tecnicamente recomendada.",
+  "porAlt": [
+   "Correta: suspensão de insulina nunca vai à veia; a insulina endovenosa é a regular.",
+   "Errada: a NPH é suspensão leitosa por natureza e continua imprópria para a veia.",
+   "Errada: diluir não muda a natureza da suspensão, que não pode ir à veia.",
+   "Errada: a bula restringe a NPH à via subcutânea, e a troca de via exige o prescritor.",
+   "Errada: a bula proíbe pôr suspensão de insulina em fluido de infusão."
+  ]
+ },
+ {
+  "q": "Na clínica médica de um hospital da Bahia, a escala noturna tem uma enfermeira e quatro técnicos de enfermagem. Um paciente de 70 anos tem prescrição de amiodarona endovenosa em infusão contínua e de enoxaparina subcutânea. Segundo o Parecer Técnico 09/2025 do COREN-BA, quem pode preparar e administrar cada medicamento?",
+  "alts": [
+   "Ambos, o técnico, pois a prescrição médica dispensa a supervisão da enfermeira.",
+   "Amiodarona, técnico capacitado; enoxaparina, exclusivamente a enfermeira.",
+   "Amiodarona, o médico plantonista; enoxaparina, técnico sem supervisão direta.",
+   "Ambos, exclusivamente a enfermeira, pois todo anticoagulante é ato privativo.",
+   "Amiodarona, a enfermeira; enoxaparina, técnico capacitado sob supervisão direta."
+  ],
+  "gab": 4,
+  "tema": "farmaco",
+  "sub": "Medicamentos de alta vigilância",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Parecer Técnico COREN-BA 09/2025 (medicamentos de alta vigilância); Lei 7.498/1986, art. 11",
+  "coment": "O Parecer Técnico 09/2025 do COREN-BA, sobre medicamentos de alta vigilância, concluiu que o preparo, a reconstituição e a administração desses medicamentos em solução endovenosa são atos privativos do enfermeiro. Insulinas, anticoagulantes orais ou subcutâneos, benzodiazepínicos e soluções de reposição por outras vias podem ser administrados pelo técnico capacitado e sob supervisão direta do enfermeiro, com dupla checagem. A amiodarona endovenosa é antiarrítmico endovenoso, classe da lista de alta vigilância; a enoxaparina é antitrombótico subcutâneo. O parecer orienta a jurisdição da Bahia, dentro do protocolo institucional, e aplica a Lei 7.498/1986, que reserva ao enfermeiro os cuidados de maior complexidade técnica.",
+  "porAlt": [
+   "Errada: o parecer reserva a solução endovenosa ao enfermeiro e exige supervisão direta.",
+   "Errada: o parecer inverte essa divisão: a endovenosa é que fica com o enfermeiro.",
+   "Errada: a infusão é cuidado de enfermagem, e o técnico atua sob supervisão direta.",
+   "Errada: anticoagulante subcutâneo pode ser dado por técnico capacitado sob supervisão.",
+   "Correta: alta vigilância endovenosa é privativa do enfermeiro; anticoagulante subcutâneo admite o técnico."
+  ]
+ },
+ {
+  "q": "Na UTI, a enfermeira calcula e programa uma infusão de insulina regular e chama um colega para a dupla checagem. O colega olha a seringa, a tela da bomba e a conta já escrita na folha, concorda com o resultado e assina. Pelo protocolo de 2013 e pelas recomendações do ISMP Brasil, qual o problema dessa checagem?",
+  "alts": [
+   "Faltou a assinatura do médico, exigida em toda dupla checagem de insulina.",
+   "Não foi independente: o colega devia refazer o cálculo sem ver o resultado.",
+   "Nenhum: conferir seringa, bomba e conta escrita já caracteriza a checagem.",
+   "A dupla checagem de insulina é atribuição exclusiva do farmacêutico clínico.",
+   "A checagem devia ocorrer só depois de iniciada a infusão, à beira do leito."
+  ],
+  "gab": 1,
+  "tema": "farmaco",
+  "sub": "Medicamentos de alta vigilância",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), dupla checagem; Boletim ISMP Brasil 2019 (medicamentos potencialmente perigosos)",
+  "coment": "Na dupla checagem independente, o segundo profissional recebe só a prescrição, o frasco e a bomba e refaz o cálculo sem ver a conta do primeiro; se os resultados divergem, os dois param e refazem, chamando farmacêutico ou prescritor se a dúvida persistir. Quem apenas olha a seringa e a conta pronta e concorda tende a repetir o erro. O protocolo de 2013 manda dupla checagem dos cálculos de medicamentos potencialmente perigosos, como a insulina, na farmácia, no recebimento e antes da administração, com ênfase em terapia intensiva. A conferência à beira do leito vem antes de iniciar a infusão.",
+  "porAlt": [
+   "Errada: a dupla checagem é entre profissionais que preparam e conferem, sem exigir o médico.",
+   "Correta: o segundo profissional calcula sem ver a conta do primeiro, ou repete o erro.",
+   "Errada: concordar com a conta pronta não é checagem independente.",
+   "Errada: o protocolo prevê checagem na farmácia, no recebimento e antes da administração.",
+   "Errada: a conferência à beira do leito vem antes de iniciar a infusão, não depois."
+  ]
+ },
+ {
+  "q": "A enfermeira do Núcleo de Segurança do Paciente revisa o estoque das unidades de internação e encontra ampolas de cloreto de potássio a 19,1% e de rocurônio no carrinho de medicação da enfermaria. Segundo o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, qual a medida recomendada?",
+  "alts": [
+   "Retirar só o rocurônio, pois o cloreto de potássio é eletrólito de reposição.",
+   "Retirar só o cloreto de potássio e manter o rocurônio para intubação de urgência.",
+   "Manter os dois no carrinho, desde que o técnico confira a validade a cada plantão.",
+   "Manter os dois no carrinho, em gavetas separadas por cor e com etiqueta de alerta.",
+   "Retirar das unidades o cloreto de potássio concentrado e o bloqueador neuromuscular."
+  ],
+  "gab": 4,
+  "tema": "farmaco",
+  "sub": "Medicamentos de alta vigilância",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), estratégias para medicamentos potencialmente perigosos",
+  "coment": "Entre as barreiras que o protocolo de 2013 soma aos nove certos está a retirada do estoque das unidades dos eletrólitos concentrados, sobretudo o cloreto de potássio injetável, e dos bloqueadores neuromusculares, como o rocurônio. Rotular, separar por cor e conferir validade são estratégias complementares, mas não substituem a retirada no caso desses dois grupos. O cloreto de potássio concentrado é o exemplo que o protocolo escolheu para a medida mais dura, e sua bula adverte que doses elevadas podem causar depressão cardíaca e parada. As estratégias seguem os princípios do ISMP: reduzir a possibilidade de erro, torná-lo visível e minimizar suas consequências.",
+  "porAlt": [
+   "Errada: o cloreto de potássio injetável é o exemplo principal da retirada no protocolo.",
+   "Errada: os bloqueadores neuromusculares também saem do estoque das unidades.",
+   "Errada: conferir validade não reduz o risco de troca ou de administração indevida.",
+   "Errada: rotular e separar ajuda, mas não substitui a retirada desses dois grupos.",
+   "Correta: o protocolo retira do estoque das unidades eletrólitos concentrados e bloqueadores neuromusculares."
+  ]
+ },
+ {
+  "q": "Na clínica médica, a enfermeira organiza a dupla checagem dos medicamentos das 18h de um paciente de 69 anos: omeprazol oral, dipirona endovenosa, enoxaparina subcutânea, ondansetrona endovenosa e cefazolina endovenosa. Pela lista de medicamentos potencialmente perigosos de uso hospitalar do ISMP Brasil, qual deles exige essa barreira?",
+  "alts": [
+   "Cefazolina, da classe dos antimicrobianos.",
+   "Omeprazol, da classe dos antiulcerosos.",
+   "Enoxaparina, da classe dos antitrombóticos.",
+   "Dipirona, da classe dos analgésicos não opioides.",
+   "Ondansetrona, da classe dos antieméticos."
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Medicamentos de alta vigilância",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Boletim ISMP Brasil, Medicamentos potencialmente perigosos de uso hospitalar: lista atualizada 2019; Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "O protocolo de 2013 remete a lista de medicamentos potencialmente perigosos ao ISMP Brasil, cuja edição hospitalar de 2019 organiza os itens por classe terapêutica, quando toda a classe é perigosa, ou por medicamento específico. Os antitrombóticos, em que entram as heparinas como a enoxaparina, estão entre as classes listadas, ao lado de agonistas adrenérgicos endovenosos, opioides, antiarrítmicos endovenosos, insulinas, bloqueadores neuromusculares, sedativos, antineoplásicos e nutrição parenteral. Analgésico não opioide, antiulceroso, antiemético e cefalosporina não estão entre elas. O que define o medicamento potencialmente perigoso é o dano grave quando há erro, não a frequência do erro.",
+  "porAlt": [
+   "Errada: a cefalosporina não pertence às classes listadas pelo ISMP Brasil.",
+   "Errada: antiulceroso oral não pertence às classes da lista hospitalar.",
+   "Correta: os antitrombóticos, como a enoxaparina, estão entre as classes da lista do ISMP Brasil.",
+   "Errada: entre os analgésicos, a lista inclui os opioides, não a dipirona.",
+   "Errada: antiemético não está entre as classes de medicamentos potencialmente perigosos."
+  ]
+ },
+ {
+  "q": "No pronto-socorro, paciente de 66 anos com choque séptico mantém PAM de 58 mmHg após a reposição volêmica inicial. O médico prescreve noradrenalina, mas o cateter venoso central só poderá ser passado em cerca de duas horas. O paciente tem acesso periférico calibroso no antebraço. Qual conduta está alinhada à Surviving Sepsis Campaign 2026?",
+  "alts": [
+   "Iniciar por via intramuscular até a passagem do cateter venoso central.",
+   "Aguardar o cateter central, pois a noradrenalina periférica é contraindicada.",
+   "Iniciar por via periférica em equipo compartilhado com o soro de manutenção.",
+   "Iniciar pelo acesso periférico, com vigilância contínua de extravasamento.",
+   "Repetir bólus de cristaloide a cada 30 minutos até a chegada do cateter."
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Medicamentos de alta vigilância",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "Surviving Sepsis Campaign 2026 (vasopressor por veia periférica); bula do hemitartarato de norepinefrina (Hipolabor)",
+  "coment": "A Surviving Sepsis Campaign 2026 sugere iniciar o vasopressor por veia periférica em vez de esperar o acesso central quando a hipotensão persiste após o bólus inicial, com alvo de PAM de 65 mmHg. Nos estudos com protocolo de segurança, a taxa combinada de complicações foi de 5,97%, o que pressupõe acesso de boa qualidade, vigilância de extravasamento e tratamento imediato. A bula do hemitartarato de norepinefrina orienta veia calibrosa e vigilância contínua do local pelo risco de necrose por extravasamento. A infusão corre em via exclusiva. Adiar o vasopressor esperando o cateter é o que a diretriz rejeita.",
+  "porAlt": [
+   "Errada: vasopressor em infusão contínua não tem via intramuscular.",
+   "Errada: adiar o vasopressor esperando o cateter é justamente o que a diretriz rejeita.",
+   "Errada: a noradrenalina corre em via exclusiva, sem dividir equipo com outra solução.",
+   "Correta: a diretriz sugere começar o vasopressor por veia periférica, sem esperar o cateter central.",
+   "Errada: com hipotensão persistente após o bólus inicial, a indicação é o vasopressor."
+  ]
+ },
+ {
+  "q": "Na UTI, paciente de 50 anos em ventilação mecânica recebe propofol a 1% em infusão contínua, a 20 mL/h, há 10 horas, pelo mesmo frasco e equipo. Ao planejar os cuidados, a enfermeira considera as recomendações da ANVISA para prevenção de infecção e o aporte calórico do fármaco. Qual conduta é correta?",
+  "alts": [
+   "Trocar só o frasco e manter o equipo até completar 24 horas de uso.",
+   "Diluir o propofol em soro glicosado, o que dispensa a troca do equipo.",
+   "Manter o equipo por 96 horas, como nas demais infusões contínuas.",
+   "Trocar o equipo a cada 72 horas e desconsiderar o propofol no balanço.",
+   "Trocar frasco e equipo juntos e somar as calorias do propofol à nutrição."
+  ],
+  "gab": 4,
+  "tema": "farmaco",
+  "sub": "Medicamentos de alta vigilância",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, 2ª ed. (2017); Boletim ISMP Brasil 2019 (sedativos)",
+  "coment": "Pelas Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde da ANVISA (2017), equipo de infusão contínua não precisa ser trocado antes de 96 horas, mas há exceções: lipídio a cada 12 horas e propofol, com o frasco, a cada 6 a 12 horas, porque a emulsão lipídica favorece a proliferação microbiana. Com 10 horas de uso, a troca está indicada. O propofol fornece cerca de 1,1 kcal por mL, que entra na conta da nutrição, e a 20 mL/h soma quase meio litro por dia ao balanço hídrico. Os sedativos estão entre as classes de medicamentos potencialmente perigosos do ISMP Brasil.",
+  "porAlt": [
+   "Errada: frasco e equipo do propofol são trocados juntos, no mesmo prazo.",
+   "Errada: nenhuma diluição dispensa a troca de frasco e equipo no prazo recomendado.",
+   "Errada: o propofol é exceção à regra das 96 horas, com troca a cada 6 a 12 horas.",
+   "Errada: o prazo é de 6 a 12 horas, e o volume do propofol entra no balanço hídrico.",
+   "Correta: propofol tem frasco e equipo trocados juntos a cada 6 a 12 horas e fornece cerca de 1,1 kcal/mL."
+  ]
+ },
+ {
+  "q": "Paciente de 71 anos, em uso crônico de varfarina por fibrilação atrial, com INR estável na faixa-alvo, é internado por infecção urinária e inicia sulfametoxazol-trimetoprima. No quinto dia, a enfermeira percebe gengivorragia e equimoses nos antebraços, sem outra mudança na prescrição. Qual a interpretação e a conduta de enfermagem?",
+  "alts": [
+   "Plaquetopenia pela varfarina; solicitar transfusão de plaquetas.",
+   "Efeito esperado da infecção urinária; manter os dois e observar.",
+   "Interação que eleva o INR; comunicar o prescritor e vigiar sangramento.",
+   "Interação que reduz o efeito da varfarina; aumentar a dose noturna.",
+   "Alergia à sulfa; suspender a varfarina e administrar anti-histamínico."
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Interações e reações adversas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Boletim ISMP Brasil 2019 (antitrombóticos); Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), certo da resposta",
+  "coment": "Sulfametoxazol-trimetoprima e metronidazol inibem o metabolismo da varfarina pelo CYP2C9, elevam o INR e aumentam o risco de sangramento. Gengivorragia e equimoses depois do início do antimicrobiano, num paciente antes estável, apontam para essa interação. A conduta de enfermagem é comunicar o prescritor, que decide sobre INR, ajuste de dose ou troca de antimicrobiano, e intensificar a vigilância de sangramento em urina, fezes, mucosas e nível de consciência. A varfarina reduz a síntese dos fatores II, VII, IX e X, sem causar plaquetopenia. Os antitrombóticos são classe da lista do ISMP Brasil, e monitorar a resposta é o certo da resposta do protocolo de 2013.",
+  "porAlt": [
+   "Errada: a varfarina age nos fatores de coagulação, não nas plaquetas.",
+   "Errada: sangramento novo após o antimicrobiano aponta interação, não a infecção.",
+   "Correta: o sulfametoxazol-trimetoprima inibe o metabolismo da varfarina e eleva o INR.",
+   "Errada: a interação potencializa a varfarina, e ajustar dose não é conduta da enfermagem.",
+   "Errada: gengivorragia e equimoses não são quadro alérgico, e suspender é do prescritor."
+  ]
+ },
+ {
+  "q": "Na unidade básica, mulher de 26 anos inicia tratamento de tuberculose pulmonar com o esquema básico, que inclui rifampicina. Ela usa anticoncepcional oral combinado e não deseja engravidar. Na consulta de enfermagem, ela pergunta se o remédio da tuberculose interfere na pílula. Qual orientação é correta?",
+  "alts": [
+   "A pílula reduz o efeito da rifampicina; dobrar a dose do tuberculostático.",
+   "Suspender a rifampicina enquanto durar o uso da pílula anticoncepcional.",
+   "A rifampicina potencializa a pílula; reduzir a dose do hormônio.",
+   "Não há interação relevante; manter a pílula como única proteção.",
+   "A rifampicina reduz a eficácia da pílula; associar método não hormonal."
+  ],
+  "gab": 4,
+  "tema": "farmaco",
+  "sub": "Interações e reações adversas",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Bula de isoniazida + rifampicina (Farmanguinhos/Fiocruz, 2022), interação com anticoncepcionais orais",
+  "coment": "A rifampicina é indutora potente do CYP3A4 e da glicoproteína P e reduz o nível de vários fármacos: anticoagulantes orais, tacrolimo, ciclosporina, antirretrovirais, azólicos e contraceptivos hormonais. A bula da associação isoniazida e rifampicina da Farmanguinhos (2022) adverte que a rifampicina pode causar falha do anticoncepcional oral e orienta acrescentar método não hormonal durante todo o tratamento. O esquema básico não se suspende nem se altera por causa do contraceptivo, e não há indicação de mudar a dose de nenhum dos dois. A orientação entra no registro da consulta de enfermagem e é retomada nas consultas de acompanhamento.",
+  "porAlt": [
+   "Errada: o sentido da interação é o contrário, e a dose do esquema não muda.",
+   "Errada: o esquema da tuberculose não se suspende por causa do contraceptivo.",
+   "Errada: a rifampicina é indutora e reduz, não aumenta, o nível do hormônio.",
+   "Errada: a interação é relevante e dura todo o tratamento.",
+   "Correta: a rifampicina induz o metabolismo hepático e pode causar falha do contraceptivo oral."
+  ]
+ },
+ {
+  "q": "Paciente de 68 anos, no oitavo dia pós-operatório de cirurgia de quadril na UTI, recebe enoxaparina profilática, e o cateter central é mantido com solução heparinizada. As plaquetas caíram de 280.000 para 110.000/mm³, e a panturrilha esquerda está edemaciada. A equipe médica calcula escore 4T de 7 pontos. Qual cuidado de enfermagem está alinhado à ASH 2018?",
+  "alts": [
+   "Suspender toda heparina, inclusive a do cateter, e iniciar o anticoagulante não heparínico prescrito.",
+   "Manter a enoxaparina até o resultado do anticorpo anti-PF4, para não trocar a heparina à toa.",
+   "Manter a enoxaparina e solicitar transfusão de plaquetas antes de qualquer manipulação do cateter.",
+   "Suspender a enoxaparina e iniciar varfarina isolada, mantendo a solução heparinizada do cateter.",
+   "Trocar a enoxaparina por heparina não fracionada e manter a solução heparinizada do cateter."
+  ],
+  "gab": 0,
+  "tema": "farmaco",
+  "sub": "Insulinas e anticoagulantes",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "American Society of Hematology 2018, diretriz de trombocitopenia induzida por heparina",
+  "coment": "Queda de 61% das plaquetas, com nadir acima de 20.000/mm³, entre o 5º e o 10º dia de heparina, com trombose suspeita e sem outra causa, dá escore 4T alto, e a ASH 2018 manda suspender toda heparina e iniciar anticoagulante não heparínico em dose terapêutica sem esperar o exame. Toda heparina inclui a usada para manter o cateter. A transfusão de plaquetas de rotina é desaconselhada, porque a doença é trombótica e o sangramento é raro; a varfarina só entra com plaquetas de 150.000/mm³ ou mais, pelo risco de gangrena venosa de membro. Trocar a enoxaparina pela heparina não fracionada mantém a exposição ao antígeno.",
+  "porAlt": [
+   "Correta: com 4T alto, sai toda heparina e entra anticoagulante não heparínico sem esperar o exame.",
+   "Errada: com escore intermediário ou alto, a ASH manda suspender sem esperar o exame.",
+   "Errada: a doença é trombótica, o sangramento é raro, e a transfusão de rotina é desaconselhada.",
+   "Errada: varfarina só com plaquetas de 150.000/mm³, e a heparina do cateter também sai.",
+   "Errada: a heparina não fracionada mantém o estímulo imunológico e piora a trombose."
+  ]
+ },
+ {
+  "q": "Paciente de 59 anos em uso de gentamicina há oito dias por infecção grave, com creatinina estável, refere zumbido, sensação de ouvido tampado e desequilíbrio ao caminhar até o banheiro. A técnica de enfermagem atribui os sintomas ao tempo de internação. Qual a interpretação correta da enfermeira?",
+  "alts": [
+   "Hipotensão postural pelo antibiótico; orientar levantar devagar e manter.",
+   "Reação alérgica tardia; suspender a gentamicina por conta própria.",
+   "Sintoma esperado do uso prolongado, que regride ao fim do tratamento.",
+   "Provável ototoxicidade, de dano irreversível; comunicar e registrar.",
+   "Ototoxicidade descartada, pois a creatinina estável exclui toxicidade."
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Interações e reações adversas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), certo da resposta (efeito diferente do esperado registrado e comunicado)",
+  "coment": "O aminoglicosídeo se acumula no córtex renal e causa lesão renal após alguns dias de uso, mas a ototoxicidade, coclear (zumbido, plenitude, perda auditiva) ou vestibular (desequilíbrio), é irreversível e não avisa pela creatinina: função renal estável não a exclui. O risco cresce com o tempo de exposição, razão da dose única diária e da dosagem de nível sérico nos esquemas de doses múltiplas. Zumbido e desequilíbrio no oitavo dia de gentamicina pedem comunicação imediata ao prescritor, registro e medidas contra queda; suspender o fármaco é decisão do prescritor. O certo da resposta, no protocolo de 2013, manda registrar e comunicar efeito diferente do esperado.",
+  "porAlt": [
+   "Errada: zumbido e plenitude auricular apontam a orelha interna, não a pressão.",
+   "Errada: não há sinal alérgico, e a suspensão do fármaco é decisão do prescritor.",
+   "Errada: a ototoxicidade do aminoglicosídeo é irreversível e não é efeito tolerável.",
+   "Correta: aminoglicosídeo causa ototoxicidade irreversível que a creatinina não denuncia.",
+   "Errada: a ototoxicidade não avisa pela creatinina; função renal estável não a exclui."
+  ]
+ },
+ {
+  "q": "No pós-operatório de artroplastia de joelho, paciente de 73 anos recebe morfina em bomba de analgesia controlada pelo paciente. A enfermeira o encontra sonolento, difícil de despertar, com frequência respiratória de 7 irpm, pupilas mióticas e SpO2 de 86%. Qual deve ser a primeira conduta?",
+  "alts": [
+   "Administrar flumazenil, que reverte a sedação causada pelo opioide.",
+   "Deixar o paciente dormir, pois a sonolência indica analgesia adequada.",
+   "Interromper a morfina, ventilar com bolsa-válvula-máscara e pedir naloxona.",
+   "Reduzir a taxa da bomba pela metade e reavaliar o paciente em uma hora.",
+   "Oferecer oxigênio por cateter nasal e aguardar a próxima dose da bomba."
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Interações e reações adversas",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "American Heart Association 2023, atualização focada em toxicologia (naloxona); SBTox 2025",
+  "coment": "Sonolência com dificuldade de despertar, bradipneia, miose e dessaturação num paciente em opioide configuram depressão respiratória por opioide. A prioridade é interromper a fonte e garantir a ventilação: bolsa-válvula-máscara com oxigênio antes e durante a titulação do antídoto, enquanto se aciona o médico. A naloxona na parada respiratória com pulso é classe 2a na AHA 2023, e o objetivo é restaurar a ventilação, não acordar o paciente; no usuário crônico, a SBTox começa com 0,1 a 0,2 mg, porque a dose cheia precipita abstinência. A meia-vida da naloxona, de 30 a 90 minutos, é menor que a de vários opioides, e a vigilância continua.",
+  "porAlt": [
+   "Errada: o flumazenil antagoniza benzodiazepínico, não opioide.",
+   "Errada: sonolência com bradipneia e dessaturação é depressão respiratória.",
+   "Correta: depressão respiratória por opioide pede parar a fonte, ventilar e titular naloxona.",
+   "Errada: com frequência de 7 irpm e SpO2 de 86%, a infusão para e a ventilação vem já.",
+   "Errada: oxigênio sem ventilação não corrige a hipoventilação, e a bomba segue ligada."
+  ]
+ },
+ {
+  "q": "Paciente de 24 anos com diabetes tipo 1 chega à emergência em cetoacidose: glicemia de 480 mg/dL, pH de 7,10 e potássio sérico de 3,2 mEq/L, com diurese presente. Após a primeira etapa de hidratação, a técnica de enfermagem já montou a bomba de insulina regular. Pelo consenso internacional de 2024, qual a conduta?",
+  "alts": [
+   "Iniciar a insulina já, pois o adiamento só se aplica com potássio abaixo de 3,3.",
+   "Iniciar a insulina e o bicarbonato juntos, pois o pH está abaixo de 7,2.",
+   "Iniciar a insulina e repor potássio só se aparecerem alterações no monitor.",
+   "Adiar a insulina até o pH normalizar, mantendo só a hidratação venosa.",
+   "Adiar a insulina, repor potássio e iniciá-la quando o potássio passar de 3,5."
+  ],
+  "gab": 4,
+  "tema": "farmaco",
+  "sub": "Insulinas e anticoagulantes",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Consenso ADA/EASD/JBDS/AACE/DTS 2024 de crises hiperglicêmicas no adulto",
+  "coment": "O consenso ADA/EASD/JBDS/AACE/DTS de 2024 subiu o corte: potássio abaixo de 3,5 mmol/L adia a insulina (antes era 3,3), com reposição de 10 a 20 mmol/h até ultrapassar 3,5 e alvo de 4 a 5. O potássio corporal total está sempre depletado na cetoacidose, e a insulina devolve o íon à célula em minutos; começar com 3,2 derruba o potássio, com risco de arritmia e fraqueza respiratória. O bicarbonato só se considera com pH abaixo de 7,0. O potássio no soro entra com diurese estabelecida, em torno de 0,5 mL/kg/h. A enfermagem não liga a bomba montada sem rever a prescrição contra o potássio.",
+  "porAlt": [
+   "Errada: 3,3 era o corte antigo; o consenso de 2024 subiu o limite para 3,5.",
+   "Errada: bicarbonato só se considera com pH abaixo de 7,0, e o potássio impede a insulina.",
+   "Errada: a insulina derruba o potássio em minutos; esperar a arritmia é tarde.",
+   "Errada: o critério para iniciar a insulina é o potássio, não o pH.",
+   "Correta: o consenso de 2024 adia a insulina com potássio abaixo de 3,5 mmol/L."
+  ]
+ },
+ {
+  "q": "Dez minutos após iniciar ceftriaxona endovenosa, mulher de 35 anos, 60 kg, apresenta urticária difusa, rouquidão, sibilos e PA de 78/46 mmHg. A enfermeira interrompe a infusão e chama a equipe. Pela World Allergy Organization 2020, qual medicamento, dose e via de primeira escolha devem estar prontos?",
+  "alts": [
+   "Prometazina 50 mg por via intramuscular, seguida de hidrocortisona venosa.",
+   "Hidrocortisona 500 mg endovenosa, antes de qualquer outra medicação.",
+   "Adrenalina 1 mg/mL, 0,5 mL por via intramuscular na face lateral da coxa.",
+   "Adrenalina 1 mg/mL, 1 mL em bólus endovenoso rápido, sem diluição.",
+   "Adrenalina 1 mg/mL, 0,5 mL por via subcutânea na face posterior do braço."
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Interações e reações adversas",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "World Allergy Organization 2020, diretriz de anafilaxia",
+  "coment": "Urticária com acometimento respiratório e hipotensão logo após o fármaco configuram anafilaxia. A adrenalina intramuscular é a primeira droga: 0,01 mg/kg, no máximo 0,5 mg no adulto, o que corresponde a 0,5 mL da ampola de 1 mg/mL, na face lateral da coxa, repetida a cada 5 a 15 minutos se necessário (WAO 2020). Para 60 kg, 0,01 × 60 = 0,6 mg, limitado ao teto de 0,5 mg. A via subcutânea não é a recomendada, e o bólus endovenoso de 1 mg sem diluição é a dose da parada cardíaca. Anti-histamínico e corticoide não substituem nem precedem a adrenalina. A reação é registrada e notificada como evento adverso.",
+  "porAlt": [
+   "Errada: anti-histamínico e corticoide não substituem nem precedem a adrenalina.",
+   "Errada: o corticoide não é a primeira droga; a adrenalina IM vem antes.",
+   "Correta: adrenalina IM, 0,01 mg/kg com teto de 0,5 mg no adulto, na coxa.",
+   "Errada: 1 mg endovenoso em bólus é dose de parada cardíaca, não de anafilaxia com pulso.",
+   "Errada: a via de primeira escolha da WAO é a intramuscular, na coxa."
+  ]
+ },
+ {
+  "q": "Homem de 55 anos iniciou alopurinol há 18 dias. Na internação, apresenta febre, erosões dolorosas nos lábios e na mucosa oral, conjuntivite e bolhas no tronco que se descolam à leve fricção, em cerca de 8% da superfície corporal. Qual a hipótese e a conduta de enfermagem prioritária?",
+  "alts": [
+   "Necrólise epidérmica tóxica; manter o alopurinol, que não causa essa reação.",
+   "Exantema viral benigno; manter o alopurinol e aplicar hidratante na pele.",
+   "Síndrome de Stevens-Johnson; manter o alopurinol e iniciar antibiótico profilático.",
+   "Urticária aguda; administrar anti-histamínico e manter o esquema prescrito.",
+   "Síndrome de Stevens-Johnson; comunicar para suspender o alopurinol e notificar."
+  ],
+  "gab": 4,
+  "tema": "farmaco",
+  "sub": "Interações e reações adversas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "British Association of Dermatologists 2016, diretriz de Stevens-Johnson e necrólise epidérmica tóxica",
+  "coment": "Febre, erosões de mucosa oral, conjuntivite e descolamento com Nikolsky positivo abaixo de 10% da superfície corporal definem a síndrome de Stevens-Johnson pela diretriz britânica (BAD 2016); de 10% a 30% é sobreposição, e acima de 30%, necrólise epidérmica tóxica. O alopurinol foi o fármaco mais implicado no caso-controle europeu, e nos fármacos de uso contínuo o risco se concentra nas primeiras 8 semanas. A prioridade é a suspensão imediata do culpado, decidida com o prescritor, a avaliação oftalmológica no mesmo dia e o cuidado conservador da pele, sem antibiótico profilático. A reação grave é notificada à farmacovigilância.",
+  "porAlt": [
+   "Errada: abaixo de 10% é Stevens-Johnson, e o alopurinol é o fármaco mais implicado.",
+   "Errada: mucosas erodidas e Nikolsky positivo não são exantema benigno.",
+   "Errada: o culpado deve ser suspenso, e antibiótico profilático não é recomendado.",
+   "Errada: urticária não descola a pele nem erode mucosas; manter o fármaco agrava.",
+   "Correta: descolamento abaixo de 10% com mucosas afetadas é Stevens-Johnson; o culpado sai já."
+  ]
+ },
+ {
+  "q": "Na visita domiciliar, a enfermeira da equipe de Saúde da Família revisa os medicamentos de uma mulher de 79 anos. Há três meses ela iniciou anlodipino; um mês depois surgiu edema de tornozelos, e outro serviço acrescentou furosemida. Desde então, ela refere tontura ao levantar e teve uma queda. Qual a interpretação correta?",
+  "alts": [
+   "Insuficiência cardíaca nova; reforçar a adesão à furosemida e à restrição de sal.",
+   "Cascata de prescrição: o edema era efeito do anlodipino; levar à revisão médica.",
+   "Queda por fraqueza muscular senil; orientar fisioterapia sem mexer nos remédios.",
+   "Edema por excesso de sal; acrescentar outro diurético para potencializar.",
+   "Hipotensão pelo anlodipino; orientar suspender os dois por conta própria."
+  ],
+  "gab": 1,
+  "tema": "farmaco",
+  "sub": "Interações e reações adversas",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "ThinkCascades 2022 (consenso Delphi de cascatas de prescrição); Critérios de Beers da AGS 2023",
+  "coment": "A cascata de prescrição acontece quando o efeito adverso de um fármaco é lido como doença nova e tratado com outro fármaco, que traz efeitos próprios. O bloqueador de canal de cálcio di-hidropiridínico causa edema periférico, e acrescentar diurético para esse edema está entre as nove cascatas de maior importância clínica do consenso ThinkCascades (2022); o diurético traz hipovolemia, tontura postural, queda e lesão renal. A pergunta que interrompe a cascata é quando o sintoma começou em relação à última mudança de prescrição. A saída é trocar ou reduzir o anlodipino, decisão do prescritor, e não acrescentar outro fármaco.",
+  "porAlt": [
+   "Errada: o edema começou depois do anlodipino, efeito adverso conhecido dele.",
+   "Correta: edema do bloqueador de canal de cálcio tratado com diurético é cascata clássica.",
+   "Errada: queda em idosa polimedicada é evento adverso a medicamento até prova em contrário.",
+   "Errada: acrescentar fármaco alonga a cascata, quando a saída é rever o anlodipino.",
+   "Errada: a revisão é decisão do prescritor; suspender sem orientação traz outros riscos."
+  ]
+ }
+]

@@ -960,5 +960,368 @@
    "Correta: contínua até 96 h, intermitente a cada 24 h e parenteral a cada bolsa.",
    "A contínua não é trocada antes de 96 h, e o lipídio isolado vence em 12 h."
   ]
+ },
+ {
+  "q": "Uma UTI quer implantar o PICC inserido por enfermeiros e, ao mesmo tempo, reduzir as infecções de corrente sanguínea trocando os cateteres centrais de curta permanência por PICC em todos os internados. Pela Resolução COFEN 258/2001 e pelo caderno da ANVISA de 2017, qual avaliação do projeto é correta?",
+  "alts": [
+   "A inserção é privativa do médico, e o enfermeiro só faz a manutenção",
+   "O enfermeiro pode inserir, e o PICC é a escolha para reduzir infecção",
+   "A inserção exige radiologista, e a ponta dispensa confirmação antes do uso",
+   "O enfermeiro pode inserir sem capacitação, desde que haja ultrassom",
+   "O enfermeiro capacitado pode inserir, mas o PICC não reduz infecção"
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "Prevenção de pneumonia e infecção de cateter",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Resolução COFEN 258/2001; ANVISA, Caderno 4, 2ª ed., 2017",
+  "coment": "A Resolução COFEN 258/2001 declara lícita ao enfermeiro a inserção do cateter central de inserção periférica, desde que ele tenha se submetido a qualificação ou capacitação profissional. Pelo caderno da ANVISA (2017), a inserção ideal é por microintrodução guiada por ultrassom, nas veias basílica, cefálica ou braquial, e os cuidados são os mesmos do cateter central de curta permanência. O mesmo caderno recomenda não usar o PICC como estratégia para reduzir infecção no paciente internado (evidência I). A ponta é confirmada antes do primeiro uso, e o registro traz veia, calibre e comprimentos inserido e externo, conferidos a cada curativo.",
+  "porAlt": [
+   "A Res. COFEN 258/2001 permite ao enfermeiro qualificado inserir o PICC.",
+   "A ANVISA recomenda não usar o PICC como estratégia para reduzir infecção no internado.",
+   "A inserção não exige radiologista, e a posição da ponta é confirmada antes do uso.",
+   "A resolução condiciona a inserção à qualificação ou capacitação do enfermeiro.",
+   "Correta: o enfermeiro capacitado pode inserir, mas o PICC não reduz infecção no internado."
+  ]
+ },
+ {
+  "q": "A comissão de controle de infecção de uma UTI montou o pacote de prevenção de pneumonia associada à ventilação mecânica citando o caderno da ANVISA de 2017. A enfermeira é encarregada da auditoria diária do pacote. Quais são as quatro medidas que, nesse caderno, compõem o pacote derivado do Institute for Healthcare Improvement?",
+  "alts": [
+   "Cabeceira a 30 a 45°, sedação revista com teste diário, aspiração subglótica e antisséptico oral",
+   "Cabeceira a 30 a 45°, troca semanal do circuito, sistema fechado e profilaxia gástrica",
+   "Cabeceira a 15°, sedação contínua, aspiração traqueal a cada 2 horas e clorexidina oral",
+   "Cabeceira a 30 a 45°, profilaxia de trombose, sonda pós-pilórica e escovação sem clorexidina"
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Prevenção de pneumonia e infecção de cateter",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2ª ed., 2017",
+  "coment": "No caderno da ANVISA (2017), as quatro primeiras medidas de prevenção da pneumonia associada à ventilação formam o pacote do Institute for Healthcare Improvement: decúbito elevado a 30 a 45°, adequação diária da sedação com avaliação do teste de respiração espontânea, aspiração da secreção subglótica em quem vai ficar mais de 48 a 72 horas ventilado e higiene oral com antisséptico (clorexidina 0,12%). O circuito é trocado só se sujo ou com mau funcionamento, e o sistema fechado não muda a incidência de pneumonia. Profilaxia de úlcera de estresse e de trombose não previne a pneumonia. O compêndio SHEA 2022 trocou a clorexidina oral por escovação dentária.",
+  "porAlt": [
+   "Correta: cabeceira elevada, sedação revista com teste diário, aspiração subglótica e higiene oral com antisséptico.",
+   "O circuito não tem troca programada, o sistema fechado não reduz pneumonia e a profilaxia gástrica não previne.",
+   "Cabeceira a 15°, sedação sem pausa e aspiração por horário contrariam o caderno.",
+   "Profilaxia de trombose e sonda pós-pilórica não integram o pacote, e a escovação sem clorexidina é da SHEA 2022."
+  ]
+ },
+ {
+  "q": "Homem de 33 anos com traumatismo cranioencefálico, em ventilação espontânea na UTI, abre os olhos só à pressão, fala palavras inapropriadas e localiza o estímulo doloroso. A pupila esquerda tem 6 mm e não reage à luz; a direita é reativa. Qual é a pontuação do Glasgow com resposta pupilar (GCS-P)?",
+  "alts": [
+   "11, somando 1 ponto pela pupila reativa",
+   "10, pois as pupilas não alteram o escore",
+   "8, subtraindo 2 pontos pela anisocoria franca",
+   "9, subtraindo 1 ponto pela pupila arreativa"
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Brennan, Murray e Teasdale, GCS-Pupils score, J Neurosurg 2018",
+  "coment": "O Glasgow do paciente é: abertura ocular à pressão, 2; resposta verbal com palavras inapropriadas, 3; resposta motora localizando o estímulo, 5; total 10. O Glasgow com resposta pupilar (GCS-P), de Brennan, Murray e Teasdale (2018), subtrai do Glasgow o número de pupilas que não reagem à luz: 0, 1 ou 2. Com uma pupila arreativa, o GCS-P é 10 menos 1 = 9. A escala vai de 1 a 15 e separa melhor os pacientes graves no fundo da escala. Anisocoria nova com midríase arreativa é piora neurológica crítica, comunicada de imediato, e o exame pupilar seriado entra na prescrição de enfermagem.",
+  "porAlt": [
+   "A pupila reativa não soma pontos; o GCS-P só subtrai pupilas arreativas.",
+   "O GCS-P existe justamente para incorporar a reatividade pupilar ao escore.",
+   "Subtraem-se 2 pontos só quando as duas pupilas não reagem; aqui é uma.",
+   "Correta: Glasgow 10 menos 1 pupila arreativa resulta em GCS-P de 9."
+  ]
+ },
+ {
+  "q": "Mulher de 41 anos com traumatismo cranioencefálico grave e cateter de pressão intracraniana, na UTI, apresenta PAM de 78 mmHg, PIC de 24 mmHg, temperatura de 38,4 °C e SpO2 de 93%, com cabeceira a 30° e cabeça alinhada. Pelo consenso SIBICC e pela Brain Trauma Foundation, qual leitura está correta?",
+  "alts": [
+   "PPC de 102 mmHg, adequada; manter os cuidados de enfermagem atuais",
+   "PPC de 54 mmHg, abaixo de 60; comunicar e tratar febre e hipoxemia",
+   "PPC de 54 mmHg, adequada, pois a meta do consenso é acima de 50 mmHg",
+   "PIC de 24 mmHg está no alvo, que é ficar abaixo de 25 mmHg",
+   "PPC de 78 mmHg, pois a PIC não entra no cálculo da perfusão"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Consenso SIBICC 2019 (Hawryluk et al.); Brain Trauma Foundation, 4ª edição, 2017",
+  "coment": "A pressão de perfusão cerebral é a PAM menos a PIC: 78 menos 24 = 54 mmHg. O consenso SIBICC (2019) define a base do cuidado de todo traumatismo craniano grave monitorizado: cabeceira a 30 a 45°, cabeça alinhada sem compressão das jugulares, temperatura abaixo de 38 °C, SpO2 de pelo menos 94% e perfusão cerebral de pelo menos 60 mmHg, evitando hiponatremia. A Brain Trauma Foundation (4ª edição) manda tratar PIC acima de 22 mmHg. Aqui há perfusão baixa, PIC acima do limiar, febre e saturação abaixo da meta: a enfermeira comunica de imediato e aplica as medidas prescritas.",
+  "porAlt": [
+   "A PPC é PAM menos PIC, e não a soma; o valor correto é 54 mmHg.",
+   "Correta: 78 menos 24 dá PPC de 54 mmHg, abaixo dos 60 mmHg do SIBICC.",
+   "A meta do SIBICC é perfusão cerebral de pelo menos 60 mmHg, e não 50.",
+   "A Brain Trauma Foundation manda tratar PIC acima de 22 mmHg.",
+   "A perfusão cerebral depende da PIC: PPC é PAM menos PIC."
+  ]
+ },
+ {
+  "q": "Homem de 58 anos com hematoma intraparenquimatoso, sem sedação, tinha Glasgow 12 (O3V4M5) às 14 h. Às 16 h, a enfermeira encontra O3V4M4, pupila direita maior que a esquerda (achado novo), PA de 186/98 mmHg, FC de 54 bpm e respiração irregular. Qual é a conduta?",
+  "alts": [
+   "Registrar a queda de um ponto e reavaliar no horário de 2 horas",
+   "Dar o anti-hipertensivo prescrito se necessário, antes de avisar",
+   "Comunicar o médico de imediato: piora neurológica crítica com Cushing",
+   "Abaixar a cabeceira a 0° para melhorar a perfusão cerebral e reavaliar",
+   "Aguardar a tomografia do dia seguinte, pois o Glasgow segue acima de 8"
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Consenso SIBICC 2019 (piora neurológica crítica)",
+  "coment": "O SIBICC (2019) chama de piora neurológica crítica a queda espontânea de 1 ponto ou mais no componente motor do Glasgow, a redução nova da reatividade pupilar, a anisocoria nova ou midríase bilateral, o déficit focal novo e a tríade de Cushing (hipertensão, bradicardia, respiração irregular). Aqui há queda do motor de 5 para 4, anisocoria nova e Cushing, sinais de hipertensão intracraniana com risco de herniação. A conduta é comunicar o médico imediatamente, manter cabeceira elevada e via aérea, e preparar para imagem de urgência e medidas prescritas. Baixar a pressão por conta própria pode reduzir a perfusão cerebral.",
+  "porAlt": [
+   "Queda de 1 ponto no motor com anisocoria nova exige comunicação imediata, não reavaliação programada.",
+   "A hipertensão aqui é resposta de Cushing; baixá-la sem avaliação reduz a perfusão cerebral.",
+   "Correta: queda motora, anisocoria nova e Cushing são piora crítica a comunicar de imediato.",
+   "Cabeceira a 0° piora a drenagem venosa e eleva a PIC; o padrão é 30 a 45°.",
+   "Glasgow acima de 8 não afasta herniação; a piora pede avaliação e imagem de urgência."
+  ]
+ },
+ {
+  "q": "Homem de 40 anos com AVC hemorrágico extenso está em coma não perceptivo, sem reflexos de tronco e em apneia. A equipe vai abrir o protocolo de morte encefálica. No momento, a temperatura é de 34,8 °C, a SpO2 de 96% e a PAM de 70 mmHg, sem sedativos há 48 horas e internado há 30 horas. Qual a conduta de enfermagem?",
+  "alts": [
+   "Aquecer o paciente acima de 35 °C antes de iniciar os exames clínicos",
+   "Iniciar os exames, pois a temperatura acima de 32 °C já é suficiente",
+   "Elevar a PAM acima de 90 mmHg, que é requisito do adulto no protocolo",
+   "Aguardar 24 horas de observação, exigidas em toda lesão hemorrágica"
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "Resolução CFM 2.173/2017 (critérios de morte encefálica)",
+  "coment": "A Resolução CFM 2.173/2017 exige, antes dos exames, lesão encefálica de causa conhecida e irreversível; ausência de fatores tratáveis que confundam o quadro, como sedativos, bloqueador neuromuscular e distúrbio metabólico grave; observação hospitalar de no mínimo 6 horas, ou 24 horas na encefalopatia hipóxico-isquêmica; e, no adulto, temperatura corporal acima de 35 °C, SpO2 acima de 94% e sistólica de pelo menos 100 mmHg ou PAM de pelo menos 65 mmHg. Com 34,8 °C, o pré-requisito térmico não está cumprido. Cabe à enfermagem aquecer o paciente com os meios disponíveis, registrar o horário de cada etapa e manter oxigenação e pressão.",
+  "porAlt": [
+   "Correta: a temperatura precisa estar acima de 35 °C antes dos exames clínicos.",
+   "O limite da resolução é temperatura acima de 35 °C; 32 °C não é aceito.",
+   "O requisito do adulto é PAM de pelo menos 65 mmHg ou sistólica de 100 mmHg.",
+   "As 24 horas valem para a encefalopatia hipóxico-isquêmica; aqui bastam 6 horas, já cumpridas."
+  ]
+ },
+ {
+  "q": "Na UTI pediátrica, lactente de 18 meses com traumatismo cranioencefálico grave por queda está em coma não perceptivo e apneia, com todos os pré-requisitos do protocolo de morte encefálica cumpridos. O primeiro exame clínico foi concluído às 8 h. Pela Resolução CFM 2.173/2017, a partir de quando pode ser feito o segundo exame clínico?",
+  "alts": [
+   "A partir das 9 h, intervalo de 1 hora",
+   "A partir das 14 h, com intervalo de 6 horas",
+   "A partir das 20 h, intervalo de 12 horas",
+   "No dia seguinte às 8 h, após 24 horas"
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "Resolução CFM 2.173/2017 (intervalo entre exames clínicos por faixa etária)",
+  "coment": "A Resolução CFM 2.173/2017 exige dois exames clínicos por médicos diferentes e capacitados, com intervalo mínimo que depende da idade: 24 horas de 7 dias completos a 2 meses incompletos, 12 horas de 2 a 24 meses incompletos e 1 hora a partir de 2 anos. Aos 18 meses, o intervalo é de 12 horas: concluído o primeiro às 8 h, o segundo pode começar às 20 h. Somam-se o teste de apneia e um exame complementar. A enfermagem mantém os pré-requisitos fisiológicos, registra o horário de cada etapa e informa a família, e a notificação à central de transplantes é obrigatória.",
+  "porAlt": [
+   "O intervalo de 1 hora vale a partir dos 2 anos de idade.",
+   "A resolução não prevê intervalo de 6 horas; 6 horas é a observação hospitalar mínima.",
+   "Correta: de 2 a 24 meses incompletos, o intervalo mínimo é de 12 horas.",
+   "Vinte e quatro horas é o intervalo de 7 dias a 2 meses incompletos."
+  ]
+ },
+ {
+  "q": "Mulher de 35 anos teve morte encefálica confirmada com o exame complementar concluído às 15h40, depois do segundo exame clínico, feito às 13 h. A família ainda não decidiu sobre a doação de órgãos. Qual conduta de enfermagem está de acordo com as normas vigentes?",
+  "alts": [
+   "Registrar o óbito às 13 h e aguardar a decisão da família para notificar",
+   "Registrar o óbito às 15h40 e notificar a central só se houver doação",
+   "Registrar o óbito na hora do desligamento do ventilador, como manda a lei",
+   "Pedir a autorização de um amigo próximo presente, com uma testemunha",
+   "Registrar o óbito às 15h40 e garantir a notificação à central de transplantes"
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução CFM 2.173/2017; Lei 9.434/1997, arts. 4º e 13",
+  "coment": "Pela Resolução CFM 2.173/2017, a hora do óbito é a da conclusão do último procedimento do protocolo, aqui o exame complementar às 15h40. A Lei 9.434/1997, art. 13, torna obrigatória a notificação do diagnóstico de morte encefálica à central de transplantes, haja ou não doação; a decisão da família vem depois. A doação post mortem depende da autorização do cônjuge ou de parente maior de idade, em linha reta ou colateral até o segundo grau, firmada em documento com duas testemunhas (art. 4º). A enfermagem registra os horários de cada etapa, acolhe a família e mantém o suporte do potencial doador.",
+  "porAlt": [
+   "A hora do óbito é a do último procedimento, e a notificação não depende da família.",
+   "A notificação à central é obrigatória em toda morte encefálica, com ou sem doação.",
+   "O óbito ocorre na conclusão do protocolo, não no desligamento do ventilador.",
+   "A lei exige cônjuge ou parente até o 2º grau, com duas testemunhas; amigo não autoriza.",
+   "Correta: óbito na conclusão do último procedimento e notificação obrigatória à central."
+  ]
+ },
+ {
+  "q": "Homem de 62 anos teve morte encefálica confirmada e notificada à central de transplantes, e a família recusou a doação após ser informada em cada etapa. O técnico de enfermagem pergunta se o ventilador será mantido até o coração parar. Qual é a orientação correta da enfermeira?",
+  "alts": [
+   "O suporte deve ser mantido até a parada cardíaca, por exigência legal",
+   "Suspender o suporte é legal e ético, após esclarecer a família",
+   "A suspensão do suporte exige autorização judicial no não doador",
+   "O suporte só pode ser retirado se a família assinar a doação",
+   "A suspensão depende de novo protocolo completo após 24 horas"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Cuidados de fim de vida",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução CFM 1.826/2007; Resolução CFM 2.173/2017",
+  "coment": "Morte encefálica é morte. A Resolução CFM 1.826/2007 dispõe que, no paciente com morte encefálica que não será doador, é legal e ético suspender os procedimentos de suporte terapêutico, após comunicação e esclarecimento à família. Não há exigência de autorização judicial nem de novo protocolo, e manter o ventilador até a assistolia não tem amparo. A notificação à central de transplantes continua obrigatória pela Lei 9.434/1997, mesmo sem doação. Cabe à enfermagem acolher a família, oferecer tempo e privacidade para a despedida e registrar os horários.",
+  "porAlt": [
+   "Nenhuma lei exige manter suporte após a morte encefálica no não doador.",
+   "Correta: a Res. CFM 1.826/2007 permite suspender o suporte no não doador, com a família esclarecida.",
+   "A resolução não exige autorização judicial para suspender o suporte.",
+   "A retirada do suporte não depende de a família autorizar a doação.",
+   "O protocolo já confirmou a morte; não se repete o diagnóstico para suspender o suporte."
+  ]
+ },
+ {
+  "q": "Mulher de 76 anos com esclerose lateral amiotrófica avançada é internada na UTI por insuficiência respiratória. Ela havia registrado em prontuário, com seu médico, diretiva antecipada recusando intubação. Agora inconsciente, a filha exige que ela seja intubada. Qual conduta a equipe de enfermagem deve apoiar?",
+  "alts": [
+   "Intubar, pois a vontade da família prevalece no paciente inconsciente",
+   "Intubar e acionar o comitê de bioética para decidir a extubação depois",
+   "Exigir o registro em cartório para que a diretiva passe a valer",
+   "Respeitar a diretiva, que prevalece sobre o desejo dos familiares",
+   "Pedir autorização judicial antes de decidir sobre a via aérea"
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Cuidados de fim de vida",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CFM 1.995/2012; Resolução COFEN 564/2017, art. 42",
+  "coment": "A Resolução CFM 1.995/2012 define as diretivas antecipadas como desejos prévia e expressamente manifestados sobre cuidados que o paciente quer ou não receber quando estiver incapaz de se expressar. Elas prevalecem sobre qualquer parecer não médico, inclusive o desejo dos familiares, e o registro em prontuário basta, sem exigência de cartório. O Código de Ética dos Profissionais de Enfermagem (Res. COFEN 564/2017, art. 42) manda respeitar as diretivas antecipadas. A equipe mantém os cuidados de conforto, como opioide para a dispneia, e acolhe a filha. O comitê de bioética é acionado quando não há diretiva, representante ou consenso.",
+  "porAlt": [
+   "A diretiva válida prevalece sobre o desejo dos familiares, mesmo com a paciente inconsciente.",
+   "Intubar contra a diretiva viola a vontade registrada; o comitê é para quando não há diretiva.",
+   "O registro em prontuário basta; a resolução não exige cartório.",
+   "Correta: a diretiva antecipada prevalece sobre o desejo dos familiares (Res. CFM 1.995/2012).",
+   "Não há exigência de autorização judicial para cumprir diretiva antecipada válida."
+  ]
+ },
+ {
+  "q": "Paciente de 70 anos com câncer de pulmão metastático, nos últimos dias de vida na UTI, tem dispneia e delirium agitado refratários às medidas habituais. A equipe decide, com a família, pela sedação paliativa com midazolam titulado. Um técnico de enfermagem diz que isso é eutanásia. Qual é a distinção correta?",
+  "alts": [
+   "A sedação paliativa busca aliviar, em dose proporcional ao sintoma",
+   "A sedação paliativa é eutanásia passiva, permitida por resolução",
+   "A diferença é a via: midazolam subcutâneo não configura eutanásia",
+   "A sedação só é lícita se a morte for esperada nas 24 horas seguintes",
+   "A distinção depende de a família assinar um termo em cartório"
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Cuidados de fim de vida",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "EAPC 2024, framework on palliative sedation; Resolução COFEN 564/2017, arts. 48 e 74",
+  "coment": "A Associação Europeia de Cuidados Paliativos (EAPC, 2024) define sedação paliativa como redução intencional e proporcional da consciência para aliviar sofrimento refratário e intolerável, com confirmação da refratariedade, decisão compartilhada e registro. Ela difere da eutanásia pela intenção (aliviar o sintoma), pela proporcionalidade (dose titulada ao sintoma) e pelo resultado esperado (alívio). O Código de Ética dos Profissionais de Enfermagem (Res. COFEN 564/2017) manda prestar cuidados paliativos ao paciente com doença grave incurável (art. 48) e proíbe promover a antecipação da morte (art. 74). A enfermagem titula pela resposta, mantém o opioide para dispneia e registra.",
+  "porAlt": [
+   "Correta: a sedação paliativa difere pela intenção de aliviar e pela dose proporcional ao sintoma.",
+   "Sedação paliativa não é eutanásia de nenhum tipo; a intenção é aliviar, não abreviar a vida.",
+   "A via de administração não define o ato; o que distingue é intenção e proporcionalidade.",
+   "A EAPC não fixa prazo de vida para a sedação ser lícita.",
+   "Não há exigência de termo em cartório; a decisão é compartilhada e registrada em prontuário."
+  ]
+ },
+ {
+  "q": "Paciente de 84 anos em processo ativo de morte na UTI, em cuidados de conforto, tem a boca seca. A filha pede soro intravenoso para que ela não sinta sede. A paciente tem edema generalizado e secreção respiratória ruidosa. Qual é a orientação de enfermagem mais adequada?",
+  "alts": [
+   "Instalar 1 litro de soro por dia, que alivia a sede no fim de vida",
+   "Passar sonda nasoenteral para hidratação e dieta de conforto",
+   "Suspender os cuidados orais para evitar a aspiração de líquido pela paciente",
+   "Instalar hidratação subcutânea contínua de 2 litros nas 24 horas",
+   "Cuidar da boca com gaze úmida e saliva artificial, sem soro de rotina"
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "Cuidados de fim de vida",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Bruera et al., hidratação parenteral em cuidados paliativos, J Clin Oncol 2013; Resolução COFEN 564/2017, art. 48",
+  "coment": "No processo ativo de morte, a hidratação artificial não prolonga a vida nem alivia a sede, e piora edema, secreção respiratória e desconforto. No ensaio de Bruera (2013), 1 litro de soro por dia não melhorou sintomas nem sobrevida em comparação com 100 mL por dia. A sensação de boca seca se trata com cuidados da boca: gaze úmida, pequenos pedaços de gelo quando possível, saliva artificial e hidratação dos lábios. A enfermagem explica à filha o porquê da conduta, a convida a participar dos cuidados orais e registra. O Código de Ética (Res. COFEN 564/2017, art. 48) manda prestar cuidados paliativos ao paciente com doença grave incurável.",
+  "porAlt": [
+   "No ensaio de Bruera, 1 litro por dia não aliviou sintomas e aqui pioraria edema e secreção.",
+   "Sonda para hidratação no processo ativo de morte acrescenta desconforto sem benefício.",
+   "Os cuidados orais são justamente o tratamento da boca seca e devem continuar.",
+   "Dois litros por dia agravariam edema e secreção respiratória sem aliviar a sede.",
+   "Correta: a boca seca se trata com cuidados orais; o soro não alivia a sede no fim de vida."
+  ]
+ },
+ {
+  "q": "Uma UTI adulto tem 10 leitos, ocupação de 100% e todos os pacientes classificados como de cuidados intensivos pelo sistema de classificação de pacientes. A carga horária semanal da equipe de enfermagem é de 36 horas. Pelo Parecer Normativo COFEN 01/2024, com índice de segurança técnica de 15%, qual é o quadro necessário?",
+  "alts": [
+   "35 profissionais, dos quais 12 enfermeiros",
+   "40 profissionais, dos quais 21 enfermeiros",
+   "40 profissionais, dos quais 13 enfermeiros",
+   "35 profissionais, dos quais 18 enfermeiros",
+   "48 profissionais, dos quais 25 enfermeiros"
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Parecer Normativo COFEN 01/2024 (dimensionamento); Resolução COFEN 743/2024",
+  "coment": "O Parecer Normativo COFEN 01/2024, que recebeu os parâmetros da Res. 543/2017 (revogada pela 743/2024), atribui 18 horas de enfermagem por paciente em cuidado intensivo nas 24 horas. Total de horas: 10 × 18 = 180. Quadro = 180 × 7 dias × 1,15 (segurança técnica de 15%) ÷ 36 horas semanais = 40,25, ou 40 profissionais. No cuidado intensivo, 52% são enfermeiros: 40 × 0,52 = 20,8, ou 21 enfermeiros, e os demais 19 técnicos de enfermagem. Sem o índice de segurança, o resultado cairia para 35; com 33% de enfermeiros, proporção do cuidado mínimo e intermediário, faltariam enfermeiros. O enfermeiro registra a classificação diária dos pacientes.",
+  "porAlt": [
+   "Esqueceu o índice de 15% e usou 33% de enfermeiros, proporção dos cuidados mínimos.",
+   "Correta: 180 h × 7 × 1,15 ÷ 36 = 40, e 52% de 40 resulta em 21 enfermeiros.",
+   "O total está certo, mas 33% de enfermeiros vale para cuidados mínimos e intermediários.",
+   "Os 52% estão certos, mas o total omitiu o índice de segurança técnica de 15%.",
+   "Esse total corresponde à carga semanal de 30 horas, e não às 36 horas do enunciado."
+  ]
+ },
+ {
+  "q": "RN de 37 semanas foi reanimado na sala de parto, intubado, e será levado à UTI neonatal. Aos 12 minutos de vida, está com frequência cardíaca de 88 bpm sob ventilação pela cânula e SpO2 de 86%. A incubadora de transporte está pronta e aquecida. Pelas diretrizes da SBP de 2026, qual é a conduta?",
+  "alts": [
+   "Transportar já, pois a UTI neonatal tem mais recursos para estabilizar",
+   "Transportar já, com oxigênio a 100% e incubadora ajustada para 38 °C",
+   "Extubar antes do transporte, pois a FC já está acima de 60 bpm",
+   "Não transportar com FC abaixo de 100; corrigir antes a ventilação"
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "Diretrizes 2026 do Programa de Reanimação Neonatal da SBP (transporte e cuidados após a reanimação)",
+  "coment": "Pelas diretrizes da SBP de 2026, o RN não é transportado com frequência cardíaca abaixo de 100 bpm. Com FC de 88 sob ventilação pela cânula, a equipe revisa posição e permeabilidade da cânula, pressão e oxigênio da VPP e a possibilidade de pneumotórax antes de sair da sala. O transporte do RN de 34 semanas ou mais é feito em incubadora de dupla parede a 34 a 35 °C, com oximetria, cânula fixada no terço médio da traqueia e balão autoinflável junto. A temperatura não deve passar de 38 °C, que agrava a lesão do asfixiado, e o oxigênio é titulado pela saturação-alvo.",
+  "porAlt": [
+   "A diretriz proíbe transportar com FC abaixo de 100 bpm, mesmo para uma unidade mais equipada.",
+   "Incubadora a 38 °C expõe à hipertermia, e o oxigênio se titula pela saturação-alvo.",
+   "FC de 88 bpm ainda exige ventilação; extubar agravaria a bradicardia.",
+   "Correta: não se transporta com FC abaixo de 100 bpm, e a ventilação deve ser corrigida antes."
+  ]
+ },
+ {
+  "q": "RN de 40 semanas, nascido após descolamento de placenta, foi reanimado com VPP e massagem cardíaca e agora tem FC acima de 100 bpm. A equipe da sala de parto quer desligar o berço de calor radiante para começar a hipotermia antes do transporte à UTI neonatal. Pelas diretrizes da SBP de 2026, qual a orientação?",
+  "alts": [
+   "Desligar o calor radiante, pois resfriar cedo protege o cérebro",
+   "Manter a normotermia sem passar de 38 °C; hipotermia, na unidade",
+   "Aquecer até 38,5 °C, para repor o calor perdido na reanimação",
+   "Começar a hipotermia só após 24 horas, se houver convulsões"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "Diretrizes 2026 do Programa de Reanimação Neonatal da SBP (cuidados após a reanimação)",
+  "coment": "Pelas diretrizes da SBP de 2026, a hipotermia terapêutica não começa na sala de parto: a indicação é avaliada na unidade neonatal, nas primeiras 6 horas de vida. Até lá, o RN é mantido em normotermia, com temperatura axilar de 36,5 a 37,5 °C e sem passar de 38 °C, porque a hipertermia agrava a lesão do encéfalo asfixiado. Desligar o calor sem protocolo e monitorização expõe a hipotermia não controlada. A enfermagem registra a temperatura, organiza o transporte em incubadora aquecida e informa à UTI neonatal o horário do nascimento, para que a janela de 6 horas seja respeitada.",
+  "porAlt": [
+   "Resfriamento sem protocolo na sala de parto não é recomendado; a indicação é feita na unidade.",
+   "Correta: normotermia até a avaliação na unidade, sem passar de 38 °C, dentro das primeiras 6 horas.",
+   "Temperatura acima de 38 °C agrava a lesão do RN asfixiado.",
+   "A janela da hipotermia terapêutica são as primeiras 6 horas, não 24 horas."
+  ]
  }
 ]
