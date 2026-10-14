@@ -1,0 +1,1378 @@
+[
+ {
+  "q": "Uma paciente com diagnóstico de Doença de Cushing pode desenvolver distúrbios hidroeletrolíticos em decorrência do efeito do excesso de cortisol sobre os receptores mineralocorticoides. Com base nisso, assinale a opção que apresenta o distúrbio mais diretamente relacionado a esse mecanismo.",
+  "alts": [
+   "Hipocalemia.",
+   "Hipercalemia.",
+   "Hipocalcemia.",
+   "Hiponatremia.",
+   "Hipernatremia."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Guyton e Hall, Tratado de Fisiologia Médica, 14ª ed., 2021 (córtex adrenal e mineralocorticoides)",
+  "coment": "Em concentração alta, o cortisol satura a enzima que o inativa no túbulo renal e passa a ocupar o receptor mineralocorticoide, imitando a aldosterona. O túbulo coletor então reabsorve sódio e água e secreta potássio e hidrogênio na urina. O resultado mais direto é a hipocalemia, muitas vezes com alcalose metabólica e hipertensão; o sódio tende ao normal ou levemente alto porque a água acompanha sua reabsorção. Na enfermagem, isso pede vigilância de potássio, fraqueza muscular e arritmias no paciente com Cushing.",
+  "porAlt": [
+   "Correta: o efeito mineralocorticoide do cortisol aumenta a secreção tubular de potássio e causa hipocalemia.",
+   "Errada: a ação semelhante à aldosterona elimina potássio; hipercalemia lembra falta de mineralocorticoide, como na doença de Addison.",
+   "Errada: o cálcio não é o alvo do receptor mineralocorticoide; o excesso de cortisol afeta mais o osso a longo prazo.",
+   "Errada: a retenção de sódio pelo receptor mineralocorticoide afasta a hiponatremia, típica da insuficiência adrenal.",
+   "Errada: a retenção de sódio vem acompanhada de água, e o sódio sérico costuma ficar normal; o achado mais direto é a perda de potássio."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma paciente de 32 anos é admitida na Unidade com queixa de ansiedade intensa, respiração rápida e sensação de falta de ar. Ao exame, apresentou frequência respiratória de 34 irpm, parestesia em extremidades e tontura. A gasometria arterial revelou: pH = 7,50; PaCO₂ = 30 mmHg; HCO₃⁻ = 24 mEq/L.\nO quadro descrito é compatível com",
+  "alts": [
+   "Acidose respiratória, com elevação do dióxido de carbono e redução do pH associada à hipoventilação.",
+   "Alcalose metabólica, com elevação do bicarbonato sérico e aumento do pH decorrente de retenção de base.",
+   "Acidose metabólica, com redução do bicarbonato sérico e diminuição do pH decorrente de acúmulo de ácidos.",
+   "Alcalose respiratória, com redução do dióxido de carbono e elevação do pH sanguíneo associada à hiperventilação.",
+   "Distúrbio misto, com alcalose metabólica associada à acidose respiratória e alterações compensatórias simultâneas."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guyton e Hall, Tratado de Fisiologia Médica, 14ª ed., 2021 (regulação do equilíbrio ácido-base)",
+  "coment": "A leitura da gasometria segue três passos. O pH de 7,50 está acima de 7,45: alcalemia. A PaCO2 de 30 mmHg está abaixo de 35, o que explica o pH alto, e o bicarbonato de 24 mEq/L está na faixa normal (22 a 26), sem participação metabólica e ainda sem compensação renal, que leva horas a dias. Logo, alcalose respiratória aguda, causada pela hiperventilação da crise de ansiedade. A hipocapnia reduz o cálcio ionizado e explica parestesias e tontura. O cuidado de enfermagem é acalmar, orientar respiração lenta e excluir causas orgânicas.",
+  "porAlt": [
+   "Errada: a acidose respiratória tem pH baixo e PaCO2 alta por hipoventilação, o oposto desta gasometria.",
+   "Errada: a alcalose metabólica exige bicarbonato acima de 26 mEq/L, e aqui ele é normal.",
+   "Errada: a acidose metabólica tem pH baixo e bicarbonato reduzido; o pH aqui é 7,50 e o bicarbonato é normal.",
+   "Correta: pH alto com PaCO2 baixa e bicarbonato normal define alcalose respiratória pela hiperventilação.",
+   "Errada: não há distúrbio misto, pois bicarbonato normal e PaCO2 baixa apontam um único distúrbio respiratório."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente em ventilação mecânica invasiva encontra-se sob monitorização contínua.\nConsiderando os principais parâmetros da ventilação mecânica, assinale a afirmativa correta.",
+  "alts": [
+   "A frequência respiratória no ventilador define a oxigenação do paciente, sem interferência na eliminação de dióxido de carbono.",
+   "A fração inspirada de oxigênio determina o volume de ar expirado, sendo diretamente proporcional à ventilação pulmonar total.",
+   "O volume corrente corresponde à quantidade de oxigênio ofertada ao paciente, sendo ajustado conforme a fração inspirada administrada.",
+   "A pressão positiva ao final da expiração consiste na manutenção de pressão nas vias aéreas ao término da fase expiratória do ciclo respiratório.",
+   "A pressão de pico corresponde à pressão média nas vias aéreas durante todo o ciclo respiratório, refletindo exclusivamente a complacência pulmonar."
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Recomendações Brasileiras de Ventilação Mecânica, AMIB/SBPT, 2013",
+  "coment": "PEEP é a pressão positiva mantida nas vias aéreas ao fim da expiração; evita o colapso alveolar e melhora a oxigenação. Os demais parâmetros têm funções distintas: a ventilação minuto (volume corrente vezes frequência) controla a eliminação de CO2; a FiO2 e a PEEP controlam a oxigenação; o volume corrente é o volume de gás de cada ciclo, ajustado pelo peso predito (6 mL/kg no ajuste inicial da AMIB), não a quantidade de oxigênio; a pressão de pico é a maior pressão do ciclo e reflete resistência das vias aéreas e complacência, não a pressão média.",
+  "porAlt": [
+   "Errada: a frequência respiratória compõe a ventilação minuto e é o principal ajuste para eliminar CO2.",
+   "Errada: a FiO2 é a fração de oxigênio do gás inspirado e atua na oxigenação, não no volume expirado.",
+   "Errada: o volume corrente é o volume total de gás de cada ciclo, ajustado pelo peso predito, independentemente da FiO2.",
+   "Correta: PEEP é a pressão mantida nas vias aéreas ao final da expiração, que evita o colapso alveolar.",
+   "Errada: a pressão de pico é a pressão máxima do ciclo e depende da resistência e da complacência, não é a média."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma paciente de 28 anos é levada a uma Unidade de Pronto Atendimento com suspeita de intoxicação por benzodiazepínicos, após a ingestão de grande quantidade de diazepam.\nAssinale a opção que indica o antídoto mais apropriado para reverter esse quadro.",
+  "alts": [
+   "Atropina.",
+   "Naloxona.",
+   "Flumazenil.",
+   "Hidroxocobalamina.",
+   "Bicarbonato de sódio."
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Intoxicações e acidentes",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Bucaretchi F et al., Recomendações gerais de indicações, uso e estoque de antídotos, SBTox/ABRACIT, 2025",
+  "coment": "O flumazenil é antagonista competitivo do receptor benzodiazepínico no complexo GABA-A e reverte a sedação do diazepam. O uso é criterioso: pode precipitar convulsões em quem usa benzodiazepínico cronicamente ou ingeriu também pró-convulsivantes, como antidepressivos tricíclicos, e sua meia-vida curta permite ressedação, o que exige vigilância. Na maioria das intoxicações isoladas por benzodiazepínico, o suporte de via aérea e ventilação resolve. Atropina é antídoto de organofosforados, naloxona de opioides, hidroxocobalamina de cianeto e bicarbonato de tricíclicos.",
+  "porAlt": [
+   "Errada: a atropina antagoniza efeitos muscarínicos e é usada em organofosforados e carbamatos.",
+   "Errada: a naloxona reverte opioides e não age no receptor benzodiazepínico.",
+   "Correta: o flumazenil antagoniza o receptor benzodiazepínico e reverte a sedação do diazepam.",
+   "Errada: a hidroxocobalamina é o antídoto da intoxicação por cianeto, comum em vítimas de fumaça.",
+   "Errada: o bicarbonato de sódio trata a cardiotoxicidade de antidepressivos tricíclicos, não a de benzodiazepínicos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em 2024, foi acrescentado, aos princípios do Sistema Único de Saúde, os direitos e as garantias às mulheres vítimas de violência. Com base nesse princípio, os serviços de saúde devem disponibilizar, para essas mulheres,",
+  "alts": [
+   "uma cópia da notificação compulsória e de todas as condutas adotadas pela equipe.",
+   "o exame de corpo de delito pela equipe assistencial, para proporcionar maior conforto à paciente.",
+   "o atendimento em ambientes que garantam restrição de acesso para terceiros não autorizados pela paciente.",
+   "um documento padronizado para registro de ocorrência policial, que deve ser preenchido pela equipe de saúde.",
+   "a realização do boletim de ocorrência no local do atendimento, com encaminhamento posterior ao IML."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 7º, parágrafo único, incluído pela Lei 14.847/2024",
+  "coment": "A Lei 14.847/2024 incluiu parágrafo único no art. 7º da Lei 8.080/1990, vinculado ao inciso XIV (atendimento específico a mulheres e vítimas de violência doméstica). Ele garante às mulheres vítimas de qualquer tipo de violência o direito de serem acolhidas e atendidas no SUS, na rede própria ou conveniada, em local e ambiente que garantam privacidade e restrição do acesso de terceiros não autorizados pela paciente, em especial o agressor. A lei não manda o serviço fazer boletim de ocorrência nem exame de corpo de delito; a notificação compulsória segue sendo dever do serviço.",
+  "porAlt": [
+   "Errada: a lei não prevê entregar cópia da notificação; ela trata de privacidade no acolhimento e no atendimento.",
+   "Errada: o exame de corpo de delito é perícia oficial, e a lei de 2024 não o atribui à equipe assistencial.",
+   "Correta: o parágrafo único do art. 7º garante ambiente com privacidade e restrição do acesso de terceiros não autorizados.",
+   "Errada: registrar ocorrência policial não é atribuição da equipe de saúde nem consta da Lei 14.847/2024.",
+   "Errada: o boletim de ocorrência é decisão da mulher e ato da polícia; a lei não o vincula ao local de atendimento."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente de 40 anos é admitido na Unidade de Terapia Intensiva com rebaixamento do nível de consciência.\nApós a avaliação inicial, foram registrados 11 pontos na Escala de Coma de Glasgow.\nConsiderando essa pontuação, assinale a opção que apresenta os parâmetros correspondentes.",
+  "alts": [
+   "Abertura ocular ao estímulo verbal, resposta verbal confusa e resposta motora de retirada ao estímulo doloroso.",
+   "Abertura ocular espontânea, resposta verbal inapropriada e resposta motora de localização ao estímulo doloroso.",
+   "Abertura ocular espontânea, resposta verbal orientada e resposta motora de obediência a comandos simples.",
+   "Abertura ocular ao estímulo doloroso, resposta verbal confusa e resposta motora de flexão anormal ao estímulo.",
+   "Abertura ocular ao estímulo verbal, resposta verbal incompreensível e resposta motora de extensão ao estímulo doloroso."
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Escala de Coma de Glasgow (Teasdale e Jennett, 1974), com revisão de 2014 e versão com resposta pupilar de 2018",
+  "coment": "A soma correta exige pontuar cada domínio. Abertura ocular: espontânea 4, ao som (verbal) 3, à pressão (dor) 2, ausente 1. Verbal: orientada 5, confusa 4, palavras inapropriadas 3, sons incompreensíveis 2, ausente 1. Motora: obedece 6, localiza 5, retirada (flexão normal) 4, flexão anormal 3, extensão 2, ausente 1. Ocular ao estímulo verbal (3) mais verbal confusa (4) mais retirada (4) dá 11. Na revisão de 2014 os termos passaram a ser ao som e à pressão, sem mudar os pontos; a versão de 2018 subtrai pupilas não reativas.",
+  "porAlt": [
+   "Correta: abertura ao estímulo verbal (3), verbal confusa (4) e retirada (4) somam 11 pontos.",
+   "Errada: espontânea (4), inapropriada (3) e localização (5) somam 12, e não 11.",
+   "Errada: espontânea (4), orientada (5) e obedece a comandos (6) somam 15, o máximo da escala.",
+   "Errada: abertura à dor (2), confusa (4) e flexão anormal (3) somam 9 pontos.",
+   "Errada: abertura ao estímulo verbal (3), sons incompreensíveis (2) e extensão (2) somam 7 pontos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A família de um paciente com diagnóstico de morte encefálica decidiu pela doação dos órgãos, dentre os quais estavam coração e fígado.\nConsiderando os tempos máximos de isquemia fria, após serem retirados do doador esses órgãos devem ser implantados no receptor, respectivamente, em período de",
+  "alts": [
+   "2 horas e 8 horas.",
+   "4 horas e 12 horas.",
+   "8 horas e 10 horas.",
+   "10 horas e 6 horas.",
+   "12 horas e 8 horas."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Sistema Nacional de Transplantes, perguntas frequentes (tempo de isquemia), consulta em 2026; Lei 9.434/1997",
+  "coment": "Tempo de isquemia fria é o intervalo entre a retirada do órgão, já perfundido e resfriado, e seu implante no receptor. O Sistema Nacional de Transplantes informa os limites usualmente aceitos: coração 4 horas, pulmão 6 horas, fígado 12 horas, pâncreas 12 horas e rim 48 horas. O coração tolera menos porque mantém atividade metabólica mesmo resfriado. Esses tempos orientam a logística de captação, transporte e distribuição, e a enfermagem da UTI contribui ao manter o potencial doador estável e registrar cada etapa do protocolo.",
+  "porAlt": [
+   "Errada: 2 horas subestima o limite do coração e 8 horas encurta o do fígado, que é de 12 horas.",
+   "Correta: o limite usual de isquemia fria é de 4 horas para o coração e 12 horas para o fígado.",
+   "Errada: 8 horas ultrapassa com folga o limite do coração, que é de 4 horas.",
+   "Errada: inverte a lógica, pois o coração tolera menos isquemia que o fígado.",
+   "Errada: 12 horas é o limite do fígado, não do coração, e o fígado não se limita a 8 horas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas disposições legais acerca da internação psiquiátrica de pessoas portadoras de transtornos mentais, analise as afirmativas a seguir.\nI. A internação psiquiátrica, em qualquer de suas modalidades, só deve ser indicada quando os recursos extra-hospitalares se mostrarem insuficientes.\nII. A internação compulsória se dá sem o consentimento do paciente e a pedido de terceiros, devendo ser comunicada em até 72 horas ao Ministério Público Estadual.\nIII. A pessoa que solicita voluntariamente sua internação, ou que a consente, deve assinar, no momento da admissão, uma declaração de que optou por esse regime de tratamento.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Lei 10.216/2001 e reforma psiquiátrica",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 10.216/2001, arts. 4º, 6º, 7º e 8º",
+  "coment": "A afirmativa I reproduz o art. 4º: a internação, em qualquer modalidade, só é indicada quando os recursos extra-hospitalares forem insuficientes. A III reproduz o art. 7º: quem solicita ou consente a internação assina, na admissão, declaração de que optou por esse regime. A II troca as modalidades: a internação sem consentimento e a pedido de terceiro é a involuntária (art. 6º, II), comunicada ao Ministério Público Estadual em 72 horas pelo responsável técnico (art. 8º, § 1º). A compulsória é a determinada pela Justiça (art. 6º, III; art. 9º).",
+  "porAlt": [
+   "Errada: a afirmativa III também está correta, pois repete a declaração exigida pelo art. 7º.",
+   "Errada: a II descreve a internação involuntária, não a compulsória, que é determinada pela Justiça.",
+   "Correta: I (art. 4º) e III (art. 7º) estão corretas; a II confunde involuntária com compulsória.",
+   "Errada: inclui a II, que atribui à compulsória o pedido de terceiro e a comunicação em 72 horas da involuntária.",
+   "Errada: nem todas estão corretas, porque a II troca as definições do art. 6º."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente adulto, vítima de trauma raquimedular após acidente automobilístico é admitido na emergência apresentando sinais e sintomas característicos de choque neurogênico.\nEsse tipo de choque é caracterizado pela presença de",
+  "alts": [
+   "Hipotensão arterial, taquicardia e febre elevada relacionada à resposta inflamatória sistêmica.",
+   "Hipotensão arterial, taquicardia e broncoespasmo associados à liberação sistêmica de mediadores alérgicos.",
+   "Hipotensão arterial, bradicardia e pele quente e seca, decorrentes da perda de tônus simpático periférico.",
+   "Hipertensão arterial, bradicardia e pele fria resultantes de aumento da resistência vascular periférica compensatória.",
+   "Hipotensão arterial, taquicardia e extremidades frias associadas à redução do volume circulante efetivo sistêmico."
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "ATLS, 11ª ed., 2025 (choque no trauma raquimedular)",
+  "coment": "Na lesão medular alta (cervical ou torácica alta), interrompe-se a via simpática descendente. Sem tônus simpático, há vasodilatação periférica, com hipotensão e pele quente e seca, e o vago age sem oposição sobre o coração, com bradicardia. Essa combinação de hipotensão sem taquicardia distingue o choque neurogênico do hipovolêmico, que tem taquicardia e extremidades frias. No trauma, porém, a hemorragia deve ser excluída antes de atribuir a hipotensão à lesão medular. A enfermagem mantém restrição de movimento da coluna, monitoriza e previne hipotermia.",
+  "porAlt": [
+   "Errada: febre e resposta inflamatória descrevem o choque séptico, não o neurogênico.",
+   "Errada: broncoespasmo e mediadores alérgicos caracterizam o choque anafilático.",
+   "Correta: a perda do tônus simpático gera hipotensão, bradicardia e pele quente e seca.",
+   "Errada: o choque neurogênico cursa com hipotensão e queda da resistência vascular, não com hipertensão.",
+   "Errada: taquicardia e extremidades frias por volume baixo descrevem o choque hipovolêmico."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante um plantão hospitalar foram gerados vários resíduos de saúde que foram descartados de acordo com as normas de gerenciamento de resíduos do Ministério da Saúde.\nCom base nessas normas, analise as afirmativas a seguir.\nI. A segregação dos resíduos pode ser realizada em etapas posteriores ao descarte inicial, desde que ocorra antes do tratamento final.\nII. Os resíduos comuns e infectantes podem ser descartados no mesmo recipiente, desde que sejam submetidos posteriormente a tratamento específico antes da disposição final.\nIII. Os medicamentos vencidos devem ser classificados como resíduos do Grupo B, por apresentarem risco químico à saúde e ao meio ambiente.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 222/2018, art. 3º e Anexo I",
+  "coment": "Pela RDC ANVISA 222/2018, segregação é a separação dos resíduos no momento e no local de sua geração, conforme características físicas, químicas, biológicas e riscos envolvidos; por isso a afirmativa I está errada. Misturar resíduo comum com infectante faz todo o volume ser tratado como infectante e é contrário à norma, o que torna a II errada. A III está correta: o Grupo B (químico) inclui produtos farmacêuticos, o que abrange medicamentos vencidos, com risco à saúde e ao meio ambiente. A questão diz normas do Ministério da Saúde, mas a regra é da ANVISA.",
+  "porAlt": [
+   "Errada: a segregação ocorre no momento e local de geração, não em etapa posterior ao descarte.",
+   "Errada: misturar comum e infectante contraria a segregação e transforma todo o volume em resíduo infectante.",
+   "Correta: só a III está certa, pois medicamentos vencidos são produtos farmacêuticos do Grupo B.",
+   "Errada: a I está errada, porque a segregação não pode ser adiada para depois do descarte.",
+   "Errada: a II está errada, porque comum e infectante não podem ser descartados juntos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas disposições previstas no Código de Ética do Profissional de Enfermagem, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) É proibido ao profissional de Enfermagem administrar medicamentos sem conhecer a indicação, a ação da droga, a via de administração e os potenciais riscos, exceto em situações de emergência.\n( ) O profissional de Enfermagem tem o direito de recusar-se a executar atividades que não sejam de sua competência técnica, científica, ética e legal.\n( ) Realizar o ato infracional sob emprego real de força física ou ter confessado, espontaneamente, a autoria da infração são consideradas circunstâncias atenuantes.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – V.",
+   "V – F – V.",
+   "F – F – F.",
+   "V – V – V.",
+   "F – V – F."
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), arts. 22, 78 e 112",
+  "coment": "A primeira afirmativa é falsa porque acrescenta uma exceção que o Código não tem: o art. 78 proíbe administrar medicamentos sem conhecer indicação, ação da droga, via e potenciais riscos, respeitados os graus de formação, sem ressalva de emergência. A segunda é verdadeira: o art. 22 dá o direito de recusar atividades fora da competência técnica, científica, ética e legal ou sem segurança. A terceira é verdadeira: entre as atenuantes (art. 112 da Res. 564/2017) estão realizar o ato sob emprego real de força física e ter confessado espontaneamente a autoria da infração.",
+  "porAlt": [
+   "Correta: F, V, V; o art. 78 não abre exceção para emergência, e as duas últimas repetem os arts. 22 e 112.",
+   "Errada: a primeira é falsa, porque a proibição do art. 78 não admite a exceção de emergência, e a segunda é verdadeira.",
+   "Errada: o direito de recusa do art. 22 e as atenuantes do art. 112 estão corretos no enunciado.",
+   "Errada: a primeira afirmativa inventa uma exceção de emergência que o art. 78 não prevê.",
+   "Errada: força física real e confissão espontânea são atenuantes pelo Código, então a terceira é verdadeira."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na assistência a um paciente com suspeita de meningite meningocócica, a equipe de saúde deve adotar medidas de proteção de acordo com o modo de transmissão.\nNesse caso, recomenda-se manter a precaução adequada",
+  "alts": [
+   "durante todo o tratamento.",
+   "até 5 dias após o início do tratamento.",
+   "até 24 horas após o início de terapia eficaz.",
+   "até 48 horas após o início de terapia eficaz.",
+   "até 7 dias após o início de terapia específica."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. revisada, Ministério da Saúde, 2024 (doença meningocócica)",
+  "coment": "A doença meningocócica se transmite por gotículas respiratórias, e o paciente deve ficar em precaução para gotículas, com quarto individual ou coorte e máscara cirúrgica para quem entra, até completar 24 horas de antibioticoterapia eficaz. Após esse período, o meningococo deixa de ser recuperado da nasofaringe e o risco de transmissão cai. Junto com a precaução, a enfermagem notifica de imediato e ajuda a identificar os contatos próximos para quimioprofilaxia, de preferência nas primeiras 48 horas.",
+  "porAlt": [
+   "Errada: manter durante todo o tratamento excede o necessário, pois a transmissão cai após 24 horas de antibiótico eficaz.",
+   "Errada: 5 dias não é o prazo da doença meningocócica; esse tempo aparece em outras doenças, como a coqueluche.",
+   "Correta: a precaução para gotículas se mantém até 24 horas após o início da terapia eficaz.",
+   "Errada: 48 horas é a janela desejada para a quimioprofilaxia dos contatos, não a duração da precaução.",
+   "Errada: 7 dias não se aplica; o critério é 24 horas de antibioticoterapia eficaz."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante atendimento em uma Unidade de Saúde, um paciente adulto relatou aparecimento recente de úlcera genital indolor, de bordas endurecidas, com fundo limpo, sem secreção purulenta. Após a realização de exames complementares, o paciente foi diagnosticado com sífilis.\nO quadro apresentado é característico de sífilis",
+  "alts": [
+   "primária.",
+   "secundária.",
+   "terciária.",
+   "latente tardia.",
+   "latente recente."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "PCDT para Atenção Integral às Pessoas com IST, Ministério da Saúde, 2022",
+  "coment": "O cancro duro é a lesão da sífilis primária: úlcera geralmente única e indolor, de bordas endurecidas e fundo limpo, sem pus, no local de inoculação, surgindo cerca de 3 semanas após a exposição (10 a 90 dias) e regredindo espontaneamente. A secundária traz lesões cutâneo-mucosas disseminadas, como roséola e lesões palmoplantares. A terciária tem gomas, lesões cardiovasculares e neurológicas. As formas latentes não têm sinais clínicos e se dividem em recente (até 1 ano) e tardia (mais de 1 ano). A primária é tratada com benzilpenicilina benzatina em dose única.",
+  "porAlt": [
+   "Correta: úlcera genital única, indolor, endurecida e de fundo limpo é o cancro duro da sífilis primária.",
+   "Errada: a secundária se manifesta por lesões disseminadas, como roséola e lesões palmoplantares.",
+   "Errada: a terciária tem gomas e acometimento cardiovascular e neurológico, anos após a infecção.",
+   "Errada: a latente tardia não tem sinais clínicos e é definida pelo tempo de infecção acima de 1 ano.",
+   "Errada: a latente recente também é assintomática, com infecção de até 1 ano."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a rotina de uma Central de Material e Esterilização (CME), devem ser utilizados equipamentos adequados visando à padronização e à segurança das etapas de limpeza, desinfecção e esterilização.\nNesse contexto, assinale a opção que descreve, corretamente, a função de uma termodesinfectadora.",
+  "alts": [
+   "Substituir integralmente a limpeza manual, dispensando qualquer etapa prévia.",
+   "Realizar a etapa de desinfecção térmica, sem participação no processo de limpeza dos produtos para saúde.",
+   "Executar esterilização por vapor sob pressão, garantindo destruição de todas as formas de vida microbiana.",
+   "Realizar limpeza automatizada com ação térmica, mecânica e química, promovendo redução da carga microbiana.",
+   "Fazer a desinfecção por calor seco em altas temperaturas dos materiais que não podem ser submetidos à umidade."
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "RDC ANVISA 15/2012 (boas práticas para o processamento de produtos para saúde)",
+  "coment": "A lavadora termodesinfectadora faz limpeza automatizada que combina ação mecânica (jatos), química (detergente) e térmica, seguida de termodesinfecção, reduzindo a carga microbiana de forma padronizada e validável. Ela não esteriliza: a esterilização por vapor sob pressão é feita na autoclave. Também não dispensa etapas prévias, pois materiais com sujidade pesada ou lúmens podem exigir pré-limpeza manual. A RDC ANVISA 15/2012 trata a limpeza como etapa obrigatória antes de qualquer desinfecção ou esterilização e admite a termodesinfecção para materiais de assistência ventilatória.",
+  "porAlt": [
+   "Errada: a lavadora não elimina toda etapa prévia; materiais complexos podem exigir pré-limpeza manual.",
+   "Errada: a termodesinfectadora também lava, com ação mecânica e química, antes da fase térmica.",
+   "Errada: esterilização por vapor sob pressão é feita em autoclave, não em termodesinfectadora.",
+   "Correta: ela faz limpeza automatizada com ação térmica, mecânica e química e reduz a carga microbiana.",
+   "Errada: calor seco em altas temperaturas é o princípio da estufa, método em desuso, não da termodesinfectadora."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Até abril de 2026, foram confirmados 2 casos de sarampo no Brasil, o que motivou a adoção de medidas imediatas pelo Ministério da Saúde, incluindo investigação e vacinação de bloqueio, com o objetivo de conter a disseminação do vírus e evitar novos casos. Nesse contexto, acerca da vacinação de bloqueio, assinale a afirmativa correta.",
+  "alts": [
+   "Deve ser realizada em até 72 horas após a identificação do caso suspeito ou confirmado.",
+   "Deve priorizar crianças e idosos, por serem os grupos mais suscetíveis à contaminação.",
+   "Deve ser realizada em todos os contatos de casos suspeitos, independentemente do histórico vacinal.",
+   "Deve ser realizada exclusivamente em contatos sintomáticos, com objetivo de reduzir a gravidade do quadro clínico.",
+   "Deve ser realizada apenas após confirmação laboratorial dos casos, evitando intervenções precoces desnecessárias."
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. revisada, MS, 2024 (sarampo); Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "O Guia de Vigilância em Saúde orienta a vacinação de bloqueio em até 72 horas após a identificação do caso suspeito, prazo em que a vacina ainda pode impedir a doença nos contatos expostos e interromper a cadeia de transmissão. Não se espera a confirmação laboratorial. Pela Instrução Normativa do Calendário 2026, o bloqueio é seletivo: avalia-se o cartão de todos os contatos a partir de 6 meses, e quem tem esquema completo de SCR ou SCRV, ou dose há menos de 30 dias, não precisa ser vacinado. A vacina previne a infecção; não reduz a gravidade em quem já tem sintomas.",
+  "porAlt": [
+   "Correta: o bloqueio vacinal é feito em até 72 horas após a identificação do caso suspeito ou confirmado.",
+   "Errada: o bloqueio abrange os contatos suscetíveis de todas as idades a partir de 6 meses, não só crianças e idosos.",
+   "Errada: a vacinação é seletiva; contatos com esquema completo de SCR ou SCRV não são vacinados.",
+   "Errada: o bloqueio visa os contatos suscetíveis expostos, e vacinar sintomáticos não reduz a gravidade.",
+   "Errada: esperar a confirmação laboratorial atrasa o bloqueio, que parte do caso suspeito."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nos conceitos que orientam a Política Nacional da Atenção Básica, ofertar o cuidado, reconhecendo as diferenças nas condições de vida e saúde de acordo com as necessidades das pessoas, considerando que o direito à saúde passa pelas diferenciações sociais e deve atender à diversidade, diz respeito ao princípio da",
+  "alts": [
+   "igualdade.",
+   "equidade.",
+   "universalidade.",
+   "hierarquização.",
+   "regionalização."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo, princípios e diretrizes",
+  "coment": "A PNAB (Portaria 2.436/2017, hoje na PRC 2/2017) define equidade como ofertar o cuidado reconhecendo as diferenças nas condições de vida e saúde e de acordo com as necessidades das pessoas, considerando que o direito à saúde passa pelas diferenciações sociais e deve atender à diversidade. É tratar desigualmente os desiguais para reduzir iniquidades. Universalidade é o acesso de todos; igualdade é tratamento sem preconceito ou privilégio; regionalização e hierarquização são diretrizes de organização. Uma revisão da PNAB está em curso em 2026, mas a de 2017 segue vigente.",
+  "porAlt": [
+   "Errada: igualdade é tratar todos sem preconceitos ou privilégios, sem distinguir necessidades.",
+   "Correta: reconhecer diferenças e ofertar o cuidado conforme as necessidades é a definição de equidade na PNAB.",
+   "Errada: universalidade é a possibilidade de acesso de todos aos serviços, sem foco nas diferenças.",
+   "Errada: hierarquização é diretriz de organização dos serviços por níveis de complexidade.",
+   "Errada: regionalização é a organização dos serviços em regiões de saúde, não um princípio de cuidado."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando as disposições do Pacto pela Saúde, analise as afirmativas a seguir.\nI. O Pacto pela Vida é o compromisso entre os gestores do SUS em torno de prioridades que apresentam impacto sobre a situação de saúde da população brasileira.\nII. Entre as ações do Pacto em Defesa do SUS está o estabelecimento de diálogo com a sociedade, além dos limites institucionais do SUS.\nIII. Uma das diretrizes para a Gestão do SUS é a descentralização dos processos administrativos relativos à gestão para as Comissões Intergestores Bipartites.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "I, II e III."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 399/2006 (Pacto pela Saúde)",
+  "coment": "As três afirmativas reproduzem a Portaria 399/2006. O Pacto pela Vida é o compromisso entre gestores em torno de prioridades com impacto na situação de saúde da população. O Pacto em Defesa do SUS inclui estabelecer diálogo com a sociedade além dos limites institucionais do SUS. Entre as diretrizes do Pacto de Gestão, a descentralização prevê transferir os processos administrativos da gestão para as Comissões Intergestores Bipartites. O Pacto é hoje referência histórica: a organização interfederativa passou ao Decreto 7.508/2011, mas o conteúdo cobrado continua correto.",
+  "porAlt": [
+   "Errada: a II e a III também reproduzem o texto da Portaria 399/2006.",
+   "Errada: a I e a III também estão corretas pelo texto do Pacto.",
+   "Errada: a I e a II também estão corretas pelo texto do Pacto.",
+   "Errada: a III também está correta, pois a descentralização para as CIB é diretriz do Pacto de Gestão.",
+   "Correta: as três afirmativas repetem o Pacto pela Vida, o Pacto em Defesa do SUS e a diretriz de descentralização."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas disposições constitucionais acerca do Sistema Único de Saúde – SUS, avalie se as afirmativas a seguir são falsas (F) ou verdadeiras (V).\n( ) Uma das atribuições do SUS é participar da formulação da política e da execução das ações de saneamento básico.\n( ) É facultada a destinação de recursos públicos para auxílios ou subvenções às instituições privadas com fins lucrativos.\n( ) Entre as diretrizes constitucionais do SUS está a descentralização, com direção única em cada esfera de governo.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – V – F.",
+   "F – F – F.",
+   "V – F – V.",
+   "F – V – F.",
+   "V – V – V."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, arts. 198, 199 e 200",
+  "coment": "A primeira é verdadeira: o art. 200, IV, atribui ao SUS participar da formulação da política e da execução das ações de saneamento básico. A segunda é falsa: o art. 199, § 2º, veda a destinação de recursos públicos para auxílios ou subvenções às instituições privadas com fins lucrativos; a participação complementar privada se dá por contrato ou convênio, com preferência às filantrópicas e sem fins lucrativos (§ 1º). A terceira é verdadeira: o art. 198, I, fixa a descentralização, com direção única em cada esfera de governo, ao lado do atendimento integral e da participação da comunidade.",
+  "porAlt": [
+   "Errada: a segunda é falsa, pois o art. 199, § 2º, veda a subvenção a privadas com fins lucrativos, e a terceira é verdadeira.",
+   "Errada: a primeira e a terceira reproduzem os arts. 200, IV, e 198, I, e são verdadeiras.",
+   "Correta: V, F, V; saneamento é atribuição do SUS, a subvenção a lucrativas é vedada e a descentralização é diretriz.",
+   "Errada: inverte as três, pois a subvenção a lucrativas é vedada e as outras duas são verdadeiras.",
+   "Errada: a segunda é falsa, porque a Constituição veda, e não faculta, essa destinação de recursos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na assistência a um paciente com Influenza A, o profissional de saúde deve usar equipamentos de proteção compatíveis com a precaução para",
+  "alts": [
+   "contato, apenas.",
+   "gotículas, apenas.",
+   "aerossóis, apenas.",
+   "padrão + contato.",
+   "contato + aerossóis."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. revisada, MS, 2024 (influenza); ANVISA, Medidas de prevenção de IRAS, 2017",
+  "coment": "O vírus influenza se transmite principalmente por gotículas expelidas na tosse, no espirro e na fala a curta distância, além do contato com superfícies. Por isso, somam-se à precaução padrão as medidas de gotículas: quarto individual ou coorte, máscara cirúrgica para quem entra e máscara no paciente durante o transporte. A precaução para aerossóis, com respirador N95 ou PFF2, fica restrita aos procedimentos geradores de aerossol, como intubação, aspiração aberta e nebulização. Entre as opções, a precaução que define o manejo da influenza é a de gotículas.",
+  "porAlt": [
+   "Errada: a precaução de contato não cobre a via principal da influenza, que é por gotículas.",
+   "Correta: a influenza exige precaução para gotículas, além da precaução padrão.",
+   "Errada: aerossóis valem só em procedimentos geradores de aerossol; a rotina é precaução para gotículas.",
+   "Errada: padrão com contato é indicado para multirresistentes e diarreia infecciosa, não para influenza.",
+   "Errada: contato com aerossóis é a combinação da varicela e do zóster disseminado, não da influenza."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente adulto, com dores abdominais e náuseas, apresentou durante o exame físico equimose periumbilical.\nEsse achado indica hemorragia retroperitoneal e é denominado sinal de",
+  "alts": [
+   "Cullen.",
+   "Murphy.",
+   "Blumberg.",
+   "Rovsing.",
+   "Gray Turner."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto CC, Semiologia Médica, 8ª ed., 2019 (exame do abdome)",
+  "coment": "O sinal de Cullen é a equimose periumbilical, causada por sangue que se espalha pelo retroperitônio e chega ao subcutâneo da região do umbigo pelo ligamento falciforme. Aparece na pancreatite aguda necro-hemorrágica, na gravidez ectópica rota e em outros sangramentos retroperitoneais. O sinal de Grey Turner também indica hemorragia retroperitoneal, mas é a equimose nos flancos. Murphy é a parada da inspiração à palpação do ponto cístico (colecistite); Blumberg é a dor à descompressão brusca no ponto de McBurney; Rovsing é dor na fossa ilíaca direita ao comprimir a esquerda.",
+  "porAlt": [
+   "Correta: equimose periumbilical por hemorragia retroperitoneal é o sinal de Cullen.",
+   "Errada: o sinal de Murphy é a interrupção da inspiração à palpação do ponto cístico, na colecistite.",
+   "Errada: o sinal de Blumberg é a dor à descompressão brusca no ponto de McBurney, na apendicite.",
+   "Errada: o sinal de Rovsing é dor na fossa ilíaca direita ao comprimir a esquerda, também na apendicite.",
+   "Errada: Grey Turner também indica sangramento retroperitoneal, mas é a equimose em flancos, não periumbilical."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os medicamentos considerados potencialmente perigosos requerem um cuidado maior no seu preparo e administração.\nAcerca dos cuidados relacionados à administração da amiodarona, avalie se as afirmativas a seguir são falsas (F) ou verdadeiras (V):\n( ) Deve ser diluída em Soro Fisiológico 0,9%, pois há dados conflitantes quanto a compatibilidade do medicamento com Soro Glicosado 5%.\n( ) Uma reação adversa comum desse medicamento é a ocorrência de bradicardia moderada.\n( ) Estudos demonstram a incompatibilidade de Cloridrato de Amiodarona com Dopamina e Lidocaína.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – F.",
+   "F – F – F.",
+   "V – F – V.",
+   "F – V – F.",
+   "V – V – V."
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Medicamentos de alta vigilância",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "ISMP Brasil, Medicamentos potencialmente perigosos de uso hospitalar, lista atualizada 2019; bula do cloridrato de amiodarona injetável",
+  "coment": "A amiodarona intravenosa é antiarrítmico da lista de medicamentos potencialmente perigosos do ISMP Brasil (2019). A primeira afirmativa é falsa porque inverte o diluente: a bula indica soro glicosado 5%, e as dúvidas de estabilidade recaem sobre o soro fisiológico. A segunda é verdadeira: bradicardia e hipotensão estão entre as reações comuns da via venosa, o que pede monitorização. A terceira é falsa: as tabelas de compatibilidade em Y registram a amiodarona como compatível com dopamina e lidocaína. A administração exige bomba de infusão e acesso calibroso, de preferência central, por risco de flebite.",
+  "porAlt": [
+   "Errada: a primeira é falsa, porque o diluente indicado é o soro glicosado 5%, e a segunda é verdadeira.",
+   "Errada: a segunda afirmativa é verdadeira, pois bradicardia é reação adversa comum da amiodarona venosa.",
+   "Errada: a primeira inverte o diluente e a terceira afirma incompatibilidade que as tabelas não registram.",
+   "Correta: F, V, F; dilui-se em glicosado 5%, a bradicardia é comum e há compatibilidade com dopamina e lidocaína.",
+   "Errada: só a segunda é verdadeira; a primeira troca o diluente e a terceira inventa incompatibilidade."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O foco de ausculta cardíaca situado no 2º espaço intercostal esquerdo, junto ao esterno, no qual é possível avaliar os desdobramentos da 2ª bulha cardíaca, é denominado foco",
+  "alts": [
+   "mitral.",
+   "aórtico.",
+   "pulmonar.",
+   "tricúspide.",
+   "aórtico acessório."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Porto CC, Semiologia Médica, 8ª ed., 2019 (exame do coração)",
+  "coment": "O foco pulmonar fica no 2º espaço intercostal esquerdo, junto à borda esternal. É o melhor ponto para ouvir o desdobramento da 2ª bulha, que se amplia na inspiração pelo atraso do fechamento da valva pulmonar (desdobramento fisiológico). Os outros focos clássicos: aórtico no 2º espaço intercostal direito junto ao esterno; aórtico acessório no 3º espaço intercostal esquerdo junto ao esterno; tricúspide na base do apêndice xifoide, borda esternal esquerda baixa; mitral no 5º espaço intercostal esquerdo, na linha hemiclavicular, que corresponde ao ictus.",
+  "porAlt": [
+   "Errada: o foco mitral fica no 5º espaço intercostal esquerdo, na linha hemiclavicular, no ictus.",
+   "Errada: o foco aórtico fica no 2º espaço intercostal direito, junto ao esterno.",
+   "Correta: o 2º espaço intercostal esquerdo junto ao esterno é o foco pulmonar, onde se avalia o desdobramento de B2.",
+   "Errada: o foco tricúspide fica na borda esternal esquerda baixa, junto ao apêndice xifoide.",
+   "Errada: o foco aórtico acessório fica no 3º espaço intercostal esquerdo, junto ao esterno."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma característica definidora do diagnóstico de enfermagem “Débito Cardíaco Diminuído” relacionada à pré-carga alterada é",
+  "alts": [
+   "oligúria.",
+   "dispneia.",
+   "bradicardia.",
+   "pulso periférico diminuído.",
+   "distensão da veia jugular."
+  ],
+  "gab": 4,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NANDA International, Diagnósticos de enfermagem: definições e classificação 2021-2023 (Débito cardíaco diminuído)",
+  "coment": "A NANDA-I agrupa as características definidoras de Débito cardíaco diminuído pelo determinante alterado. Pré-carga alterada (volume que enche o ventrículo): distensão da veia jugular, edema, fadiga, ganho de peso, sopros, pressão venosa central e pressão de oclusão da artéria pulmonar alteradas. Pós-carga alterada: oligúria, dispneia, pulsos periféricos diminuídos, pele pegajosa e alteração da resistência vascular. Frequência ou ritmo alterado: bradicardia, taquicardia, palpitações e alterações no eletrocardiograma. A jugular distendida reflete aumento da pressão de enchimento direito.",
+  "porAlt": [
+   "Errada: a oligúria aparece no grupo de pós-carga alterada, por baixa perfusão renal.",
+   "Errada: a dispneia está listada no grupo de pós-carga alterada, não no de pré-carga.",
+   "Errada: a bradicardia pertence ao grupo de frequência ou ritmo cardíaco alterado.",
+   "Errada: o pulso periférico diminuído está no grupo de pós-carga alterada.",
+   "Correta: a distensão da veia jugular é característica definidora ligada à pré-carga alterada."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A avaliação secundária no atendimento ao politraumatizado consiste em um exame físico completo (crânio-caudal) e uma história resumida sobre o paciente (história SAMPLA), após estabilidade clínica.\nNa História SAMPLA, as letras A e L correspondem, respectivamente, a",
+  "alts": [
+   "alergias e líquidos ingeridos recentemente.",
+   "avaliação neurológica e lesões aparentes.",
+   "avaliação das vias aéreas e lesão na coluna.",
+   "ausculta cardíaca e liberação das vias aéreas.",
+   "alimentos ingeridos e lesões hemorrágicas."
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "ATLS, 11ª ed., 2025 (história AMPLE na avaliação secundária)",
+  "coment": "Na avaliação secundária, depois da primária e da estabilização, faz-se o exame da cabeça aos pés e a história dirigida pelo mnemônico AMPLE, em português SAMPLA ou AMPLA. No SAMPLA: Sinais e sintomas, Alergias, Medicamentos em uso, Passado médico e prenhez, Líquidos e alimentos ingeridos recentemente, Ambiente e eventos relacionados ao trauma. Saber o horário da última refeição importa pelo risco de broncoaspiração se houver intubação ou cirurgia. As alternativas erradas trocam as letras por passos da avaliação primária, como via aérea e avaliação neurológica.",
+  "porAlt": [
+   "Correta: no SAMPLA, A é alergias e L é líquidos e alimentos ingeridos recentemente.",
+   "Errada: avaliação neurológica é o D da avaliação primária, não letra da história SAMPLA.",
+   "Errada: via aérea com proteção da coluna é o A da avaliação primária, não do SAMPLA.",
+   "Errada: ausculta e liberação de via aérea não fazem parte da história SAMPLA.",
+   "Errada: alimentos entram no L, não no A, e lesões hemorrágicas não são letra do mnemônico."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca do atendimento a uma pessoa adulta em parada cardiorrespiratória, analise as afirmativas a seguir e assinale V para a verdadeira e F para a falsa.\n( ) A carga de choque inicial recomendada para um desfibrilador monofásico é de 120 a 200 J.\n( ) No socorro a um paciente com suspeita de intoxicação por opioide, que não respira normalmente mas apresenta pulso, uma das recomendações é a realização de ventilação de resgate ou com dispositivo bolsa-válvula-máscara.\n( ) Quando houver uma via aérea avançada, deve-se administrar uma ventilação a cada 6 segundos com compressões torácicas contínuas.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – V – V.",
+   "F – V – V.",
+   "V – F – F.",
+   "F – F – F.",
+   "V – F – V."
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Diretrizes da American Heart Association para RCP e ACE, 2025",
+  "coment": "A primeira é falsa: 120 a 200 J é a faixa do desfibrilador bifásico, conforme o fabricante; no monofásico a carga é de 360 J. A segunda é verdadeira: no suspeito de intoxicação por opioide que não respira normalmente mas tem pulso, oferece-se ventilação com bolsa-válvula-máscara e naloxona, que a AHA 2025 incorporou ao suporte básico. As diretrizes de 2025 abandonaram o termo ventilação de resgate, mas a conduta é a mesma. A terceira é verdadeira: com via aérea avançada, as compressões são contínuas e se dá 1 ventilação a cada 6 segundos (10 por minuto).",
+  "porAlt": [
+   "Errada: a primeira é falsa, porque 120 a 200 J é a carga do desfibrilador bifásico.",
+   "Correta: F, V, V; monofásico usa 360 J, opioide com pulso recebe ventilação e há 1 ventilação a cada 6 s com via avançada.",
+   "Errada: a primeira é falsa, e a segunda e a terceira estão de acordo com a AHA.",
+   "Errada: a ventilação no opioide com pulso e a frequência com via aérea avançada estão corretas.",
+   "Errada: a primeira confunde monofásico com bifásico, e a segunda é verdadeira."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente adulto chegou à unidade de pronto atendimento com queimaduras de 2º grau em toda a extensão dos membros superiores.\nNesse caso, de acordo com a extensão queimada, as lesões são consideradas de gravidade",
+  "alts": [
+   "baixa.",
+   "leve.",
+   "média.",
+   "grave.",
+   "gravíssima."
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Queimaduras",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Cartilha para tratamento de emergência das queimaduras, 2012; regra dos nove (ATLS, 11ª ed., 2025)",
+  "coment": "Pela regra dos nove, cada membro superior inteiro equivale a 9% da superfície corporal; os dois somam 18% de queimadura de 2º grau. Na classificação de gravidade usada pela cartilha do Ministério da Saúde, o adulto com 2º grau entre 10% e 20% da superfície corporal é médio queimado; abaixo de 10% é pequeno e acima de 20% é grande queimado. A extensão de 18% enquadra o caso como gravidade média. Queimadura de 2º grau em mão e grande articulação também classifica como médio queimado, o que reforça a resposta.",
+  "porAlt": [
+   "Errada: a classificação usa pequeno, médio e grande queimado, e 18% de 2º grau supera o limite do pequeno.",
+   "Errada: leve corresponderia ao pequeno queimado, com menos de 10% de 2º grau no adulto.",
+   "Correta: os dois membros superiores somam 18% de 2º grau, faixa de médio queimado no adulto.",
+   "Errada: o grande queimado adulto tem 2º grau acima de 20% ou 3º grau acima de 10%.",
+   "Errada: gravíssima não é categoria da classificação; 18% de 2º grau é gravidade média."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma paciente do sexo feminino, 30 anos, internado em uma unidade hospitalar, apresentou entre outros sinais e sintomas, respiração de Kussmaul.\nEsse tipo de respiração está associado ao seguinte distúrbio hidroeletrolítico:",
+  "alts": [
+   "hipocalemia.",
+   "acidose respiratória.",
+   "alcalose metabólica.",
+   "acidose metabólica.",
+   "alcalose respiratória."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guyton e Hall, Tratado de Fisiologia Médica, 14ª ed., 2021 (compensação respiratória da acidose)",
+  "coment": "A respiração de Kussmaul é profunda, rápida e regular. É a compensação respiratória da acidose metabólica: o excesso de íons hidrogênio estimula os quimiorreceptores, e a hiperventilação elimina CO2 para elevar o pH. Aparece sobretudo na cetoacidose diabética, na acidose da doença renal e em intoxicações. O enunciado chama de distúrbio hidroeletrolítico o que é distúrbio ácido-base, mas a resposta não muda. Para a enfermagem, Kussmaul com hálito cetônico em diabético sinaliza cetoacidose e pede glicemia, gasometria e comunicação imediata.",
+  "porAlt": [
+   "Errada: a hipocalemia causa fraqueza e arritmias, não respiração de Kussmaul.",
+   "Errada: a acidose respiratória decorre de hipoventilação, o oposto do padrão de Kussmaul.",
+   "Errada: na alcalose metabólica a resposta compensatória é hipoventilação, para reter CO2.",
+   "Correta: a respiração de Kussmaul é a hiperventilação compensatória da acidose metabólica.",
+   "Errada: a alcalose respiratória resulta da hiperventilação, mas Kussmaul é resposta a uma acidose metabólica."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Quando o poder público implementa medidas para reduzir, em um indivíduo ou na população, os prejuízos funcionais consequentes de um problema agudo ou crônico, incluindo ações de reabilitação, ele está agindo de acordo com o nível de prevenção",
+  "alts": [
+   "primária.",
+   "secundária.",
+   "terciária.",
+   "quaternária.",
+   "quinquenária."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Leavell e Clark, Preventive Medicine for the Doctor in his Community, 3ª ed., 1965 (níveis de prevenção)",
+  "coment": "No modelo de Leavell e Clark, a prevenção terciária atua quando a doença já deixou consequências: reduz prejuízos funcionais e incapacidades e promove reabilitação e reinserção social, como a fisioterapia após AVC ou a prevenção de incapacidades na hanseníase. A primária age antes da doença (promoção da saúde e proteção específica, como vacinas). A secundária busca diagnóstico precoce e tratamento imediato, como o rastreamento. A quaternária, proposta por Jamoulle, protege a pessoa do excesso de intervenção médica. Não existe nível quinquenário no modelo.",
+  "porAlt": [
+   "Errada: a prevenção primária atua antes da doença, com promoção da saúde e proteção específica.",
+   "Errada: a prevenção secundária busca diagnóstico precoce e tratamento imediato, não a reabilitação.",
+   "Correta: reduzir prejuízos funcionais e reabilitar caracteriza a prevenção terciária.",
+   "Errada: a quaternária evita a medicalização e as intervenções desnecessárias.",
+   "Errada: não existe prevenção quinquenária nos modelos de níveis de prevenção."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente adulto deu entrada na unidade de saúde referindo febre de início súbito, tosse, dor de garganta e cefaleia, evoluindo com desconforto respiratório, pressão persistente no tórax e saturação de oxigênio de 94% em ar ambiente.\nEsses sintomas são característicos de Síndrome",
+  "alts": [
+   "Gripal Grave.",
+   "Gripal Moderada.",
+   "Respiratória Aguda Leve.",
+   "Respiratória Aguda Moderada.",
+   "Respiratória Aguda Grave."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. revisada, MS, 2024 (síndrome gripal e SRAG)",
+  "coment": "Síndrome gripal é o quadro respiratório agudo com pelo menos dois sinais ou sintomas entre febre, mesmo referida, calafrios, dor de garganta, cefaleia, tosse, coriza e distúrbios olfativos ou gustativos. Torna-se Síndrome Respiratória Aguda Grave (SRAG) quando há dispneia ou desconforto respiratório, pressão ou dor persistente no tórax, saturação de oxigênio abaixo de 95% em ar ambiente ou cianose. O paciente tem febre, tosse, dor de garganta e cefaleia, com desconforto respiratório, pressão torácica persistente e SpO2 de 94%: preenche SRAG. Não existem as categorias leve, moderada ou gripal grave.",
+  "porAlt": [
+   "Errada: síndrome gripal grave não é categoria oficial; com sinais de gravidade, o caso passa a ser SRAG.",
+   "Errada: não há síndrome gripal moderada na definição de caso do Ministério da Saúde.",
+   "Errada: não existe SRA leve; desconforto respiratório e SpO2 abaixo de 95% definem gravidade.",
+   "Errada: a vigilância não usa SRA moderada; a definição é síndrome gripal ou SRAG.",
+   "Correta: síndrome gripal com desconforto respiratório, pressão torácica persistente e SpO2 abaixo de 95% é SRAG."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente do sexo masculino, adulto, com diagnóstico de Acidente Vascular Cerebral Isquêmico agudo não pôde ser submetido à trombólise, pois apresentou um dos critérios de exclusão.\nAssinale a opção que apresenta um desses critérios.",
+  "alts": [
+   "Idade superior a 60 anos.",
+   "Alergia conhecida ao iodo.",
+   "Contagem de plaquetas menor que 200.000/mm³.",
+   "PAS > 185 mmHg após tratamento anti-hipertensivo.",
+   "Realização de cirurgia nos últimos 6 meses."
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "AHA/ASA, Guideline for the Early Management of Acute Ischemic Stroke, 2026; Portaria Conjunta SAES/SECTICS 29/2023 (PCDT do AVC isquêmico agudo)",
+  "coment": "A trombólise intravenosa exige pressão abaixo de 185/110 mmHg. Se a pressão sistólica continua acima de 185 mmHg mesmo após tratamento anti-hipertensivo, o trombolítico não é feito pelo risco de transformação hemorrágica; depois da infusão, a meta é abaixo de 180/105 mmHg por 24 horas. Idade acima de 60 anos não exclui. Alergia a iodo não importa, porque o trombolítico não é contraste. O corte de plaquetas é abaixo de 100.000/mm3, não de 200.000. A restrição cirúrgica refere-se a cirurgia de grande porte recente, nos últimos 14 dias, e não a 6 meses.",
+  "porAlt": [
+   "Errada: idade acima de 60 anos não é critério de exclusão para trombólise no AVC isquêmico.",
+   "Errada: alergia a iodo não contraindica o trombolítico, que não contém contraste iodado.",
+   "Errada: o critério de exclusão é plaquetas abaixo de 100.000/mm3, não abaixo de 200.000.",
+   "Correta: PAS acima de 185 mmHg mesmo após tratamento anti-hipertensivo impede a trombólise.",
+   "Errada: a exclusão é cirurgia de grande porte nos últimos 14 dias, não qualquer cirurgia em 6 meses."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na assistência a uma criança de 1 ano (peso = 10 kg) com diarreia e sinais de desidratação, a orientação inicial é que seja administrada solução de sais de reidratação oral nos seguintes volume médio e tempo:",
+  "alts": [
+   "450mL – 4 a 6 horas.",
+   "750mL – 4 a 6 horas.",
+   "800mL – 6 a 8 horas.",
+   "900mL– 6 a 8 horas.",
+   "1200mL – 8 a 12 horas."
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, cartaz Manejo do paciente com diarreia, 2023 (Plano B)",
+  "coment": "Criança com sinais de desidratação, sem gravidade, recebe o Plano B na unidade: solução de reidratação oral de 50 a 100 mL/kg, em média 75 mL/kg, em 4 a 6 horas, em goles frequentes e guiada pela sede, com reavaliação seriada. Para 10 kg: 75 mL/kg vezes 10 kg dá 750 mL, com faixa de 500 a 1.000 mL, em 4 a 6 horas. Hidratada, a criança passa ao Plano A em casa; se não melhorar em 6 horas, gastróclise ou referência. Com desidratação grave, Plano C endovenoso.",
+  "porAlt": [
+   "Errada: 450 mL equivale a 45 mL/kg, abaixo do mínimo de 50 mL/kg do Plano B.",
+   "Correta: 75 mL/kg em média para 10 kg dá 750 mL, administrados em 4 a 6 horas.",
+   "Errada: 800 mL não é o volume médio de 75 mL/kg, e o Plano B não dura 6 a 8 horas.",
+   "Errada: 900 mL foge da média de 75 mL/kg, e o tempo do Plano B é de 4 a 6 horas.",
+   "Errada: 1.200 mL passa de 100 mL/kg, e 8 a 12 horas não é o tempo do Plano B."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca dos distúrbios hipertensivos na gestação, avalie as afirmativas a seguir e assinale V para a verdadeira e F para a falsa.\n( ) Uma grávida com hipertensão gestacional é aquela que antes da gestação apresentava pressão normal e após a 20ª semana passou a apresentar PAS ≥ 140 mmHg e/ou PAD ≥ 90mmHg acompanhada de proteinúria.\n( ) A Hipertensão crônica com pré-eclâmpsia sobreposta é caracterizada por pré-eclâmpsia em mulher com história de hipertensão arterial antes da gravidez ou antes de 20 semanas de gestação.\n( ) Além das convulsões tônico-clônicas (na ausência de outras condições causais), uma gestante com eclampsia apresenta hemólise, elevação de enzimas hepáticas e trombocitopenia.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – V – V.",
+   "F – V – F.",
+   "V – F – F.",
+   "F – F – F.",
+   "V – F – V."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Manual de Gestação de Alto Risco, 2022 (síndromes hipertensivas)",
+  "coment": "Hipertensão gestacional é a pressão de 140 por 90 mmHg ou mais surgida após a 20ª semana em mulher antes normotensa, sem proteinúria e sem lesão de órgão-alvo; com proteinúria ou disfunção de órgão, passa a ser pré-eclâmpsia, por isso a primeira afirmativa é falsa. A segunda é verdadeira: pré-eclâmpsia sobreposta é a que surge em mulher com hipertensão anterior à gravidez ou antes de 20 semanas. A terceira é falsa: eclâmpsia é a convulsão tônico-clônica em gestante com pré-eclâmpsia, sem outra causa; hemólise, enzimas hepáticas elevadas e plaquetopenia definem a síndrome HELLP.",
+  "porAlt": [
+   "Errada: a primeira é falsa, porque hipertensão gestacional não tem proteinúria, e a terceira descreve a HELLP.",
+   "Correta: F, V, F; com proteinúria é pré-eclâmpsia, a sobreposta está bem definida e a tríade da terceira é HELLP.",
+   "Errada: a primeira inclui proteinúria, o que caracteriza pré-eclâmpsia, e a segunda é verdadeira.",
+   "Errada: a segunda afirmativa reproduz a definição de pré-eclâmpsia sobreposta e é verdadeira.",
+   "Errada: a primeira confunde com pré-eclâmpsia e a terceira atribui à eclâmpsia os critérios da HELLP."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as orientações do Ministério da Saúde, um dos sinais e sintomas suspeitos de câncer de mama e que indica necessidade de referência urgente para a confirmação diagnóstica é:",
+  "alts": [
+   "qualquer nódulo mamário em mulheres com mais de 40 anos.",
+   "lesão eczematosa da pele que responda ou não a tratamentos tópicos.",
+   "qualquer mudança na coloração da pele ao redor das mamas em mulheres acima de 25 anos.",
+   "nódulo mamário que persiste por mais de um ciclo menstrual em mulheres com mais de 30 anos.",
+   "mudança na coloração do mamilo acompanhada de dormência em mulheres acima de 15 anos."
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Caderno de Atenção Básica nº 13, Controle dos cânceres do colo do útero e da mama, 2ª ed., MS, 2013; INCA, Diretrizes para a detecção precoce do câncer de mama no Brasil, 2015",
+  "coment": "O Ministério da Saúde lista sinais e sintomas suspeitos de câncer de mama que exigem referência urgente para confirmação diagnóstica. Entre eles: qualquer nódulo mamário em mulheres com mais de 50 anos; nódulo que persiste por mais de um ciclo menstrual em mulheres com mais de 30 anos; nódulo endurecido e fixo ou em crescimento em qualquer idade adulta; descarga papilar sanguinolenta unilateral; lesão eczematosa da pele que não responde a tratamento tópico; tumoração unilateral em homens com mais de 50 anos; linfadenopatia axilar; pele em casca de laranja; retração da pele e mudança no formato do mamilo.",
+  "porAlt": [
+   "Errada: o critério de qualquer nódulo vale para mulheres com mais de 50 anos, não 40.",
+   "Errada: a lesão eczematosa é suspeita quando não responde ao tratamento tópico, não quando responde.",
+   "Errada: mudança de coloração ao redor das mamas aos 25 anos não está entre os sinais de referência urgente.",
+   "Correta: nódulo que persiste por mais de um ciclo menstrual em mulher com mais de 30 anos exige referência urgente.",
+   "Errada: a lista cita mudança no formato do mamilo; coloração com dormência aos 15 anos não é critério."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Conforme as Recomendações do Ministério da Saúde e da Sociedade Brasileira de Diabetes, um dos objetivos glicêmicos para uma criança de 10 anos com Diabetes Melito tipo 1 é uma glicemia pós-prandial de",
+  "alts": [
+   "70 a 145mg/dL.",
+   "80 a 162mg/dL.",
+   "90 a 180mg/dL.",
+   "100 a 150mg/dL.",
+   "120 a 180mg/dL."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretrizes da Sociedade Brasileira de Diabetes 2019-2020 (metas glicêmicas para crianças e adolescentes com DM1, baseadas na ISPAD)",
+  "coment": "As metas para crianças e adolescentes com diabetes tipo 1 adotadas pela Sociedade Brasileira de Diabetes, com base na ISPAD, são: glicemia pré-prandial de 70 a 145 mg/dL, pós-prandial de 90 a 180 mg/dL, ao deitar de 120 a 180 mg/dL e na madrugada de 80 a 162 mg/dL. Por isso, entre as alternativas, a faixa pós-prandial é 90 a 180 mg/dL. As outras faixas oferecidas correspondem às metas de outros momentos do dia. As metas são individualizadas, para evitar hipoglicemia sem perder o controle, e o enfermeiro as usa na educação em automonitorização.",
+  "porAlt": [
+   "Errada: 70 a 145 mg/dL é a meta pré-prandial, não a pós-prandial.",
+   "Errada: 80 a 162 mg/dL corresponde à meta da madrugada.",
+   "Correta: a meta pós-prandial para criança com DM1 é de 90 a 180 mg/dL.",
+   "Errada: 100 a 150 mg/dL não corresponde a nenhuma das metas da tabela pediátrica.",
+   "Errada: 120 a 180 mg/dL é a meta para a hora de deitar."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente adulto em tratamento de DPOC, necessita receber concentrações exatas de FiO2.\nNesse caso, o dispositivo de oxigenoterapia mais indicado é",
+  "alts": [
+   "cateter nasal.",
+   "cânula nasal.",
+   "máscara simples.",
+   "máscara de Venturi.",
+   "máscara não reinalante."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Oxigenoterapia e vias aéreas",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "British Thoracic Society, Guideline for oxygen use in healthcare and emergency settings, 2017; GOLD 2026",
+  "coment": "Na DPOC com risco de hipercapnia, a meta é SpO2 de 88% a 92% (BTS, adotada pelo GOLD 2026), e o oxigênio em excesso eleva a PaCO2. A máscara de Venturi é o dispositivo de alto fluxo e baixa concentração que entrega FiO2 fixa e previsível (24%, 28%, 31%, 35%, 40% ou 60%), pelo arrasto de ar ambiente determinado pela válvula. Cateter e cânula nasal oferecem FiO2 variável conforme o padrão respiratório. A máscara simples abaixo de 5 L/min provoca reinalação de CO2. A máscara não reinalante dá FiO2 alta, inadequada para quem retém CO2.",
+  "porAlt": [
+   "Errada: o cateter nasal é de baixo fluxo e a FiO2 real varia com a respiração do paciente.",
+   "Errada: a cânula nasal também entrega FiO2 imprevisível, que depende da ventilação do paciente.",
+   "Errada: a máscara simples dá FiO2 variável e, com fluxo baixo, causa reinalação de CO2.",
+   "Correta: a máscara de Venturi entrega FiO2 fixa e exata, indicada na DPOC com risco de hipercapnia.",
+   "Errada: a máscara não reinalante oferece FiO2 alta, perigosa para quem retém CO2."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as diretrizes do Ministério da Saúde, uma criança de 4 anos com frequência respiratória de 35mrm e frequência cardíaca de 70bpm está, respectivamente,",
+  "alts": [
+   "bradipneica e taquicárdica.",
+   "taquipneica e normocárdica.",
+   "nomopneica e normocárdica.",
+   "taquipneica e taquicárdica.",
+   "normopneica e bradicárdica."
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Manual AIDPI Criança: 2 meses a 5 anos, 2017 (frequência respiratória); AHA, PALS, 2020 (frequência cardíaca por idade)",
+  "coment": "Pelo AIDPI do Ministério da Saúde, a criança de 12 meses a 5 anos tem respiração rápida a partir de 40 incursões por minuto; com 35 irpm, a criança de 4 anos é normopneica. Para a frequência cardíaca, as tabelas pediátricas de referência dão, no pré-escolar acordado, cerca de 80 a 120 bpm; 70 bpm está abaixo do esperado e caracteriza bradicardia. Na criança, bradicardia costuma ser sinal tardio de hipoxemia e merece reavaliação imediata. O enunciado traz grafias da banca, como nomopneica, mantidas como no caderno.",
+  "porAlt": [
+   "Errada: 35 irpm não é bradipneia aos 4 anos, e 70 bpm está abaixo, não acima, do esperado.",
+   "Errada: a taquipneia nessa idade começa em 40 irpm, e 70 bpm não é frequência cardíaca normal.",
+   "Errada: a frequência respiratória é normal, mas 70 bpm está abaixo da faixa do pré-escolar.",
+   "Errada: não há taquipneia nem taquicardia; a frequência cardíaca está baixa.",
+   "Correta: 35 irpm está abaixo do corte de 40 irpm, e 70 bpm está abaixo da faixa de 80 a 120 bpm."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um adolescente pesando 52 Kg, diagnosticado com tuberculose, deve iniciar a fase intensiva (de ataque) do esquema básico de tratamento.\nNesse caso, de acordo com o protocolo do Ministério da Saúde que disponibiliza comprimidos em doses fixas combinadas (RHZE - 150/75/400/275mg), a quantidade de comprimidos que esse adolescente deve tomar por dia e a duração dessa fase do tratamento é de",
+  "alts": [
+   "2 comprimidos diários durante 2 meses.",
+   "3 comprimidos diários durante 4 meses.",
+   "4 comprimidos diários durante 2 meses.",
+   "5 comprimidos diários durante 2 meses.",
+   "2 comprimidos diários durante 4 meses."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed., 2019",
+  "coment": "Adolescentes a partir de 10 anos e adultos usam o esquema básico com comprimidos em dose fixa combinada. A fase intensiva dura 2 meses, com RHZE 150/75/400/275 mg, e o número de comprimidos segue o peso: 20 a 35 kg, 2 comprimidos; 36 a 50 kg, 3; 51 a 70 kg, 4; acima de 70 kg, 5. Com 52 kg, são 4 comprimidos diários, de preferência em jejum, por 2 meses. Depois vem a manutenção com RH por 4 meses. A dose é revista a cada mudança de peso, e o tratamento diretamente observado é a estratégia recomendada.",
+  "porAlt": [
+   "Errada: 2 comprimidos é a dose da faixa de 20 a 35 kg.",
+   "Errada: 3 comprimidos é a dose de 36 a 50 kg, e a fase intensiva dura 2 meses, não 4.",
+   "Correta: na faixa de 51 a 70 kg são 4 comprimidos de RHZE ao dia por 2 meses.",
+   "Errada: 5 comprimidos é a dose para peso acima de 70 kg.",
+   "Errada: 2 comprimidos subdosa o adolescente de 52 kg, e 4 meses é o tempo da manutenção."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Conforme o calendário vacinal do Ministério da Saúde, aos 12 meses de idade uma criança deve receber a primeira dose da seguinte vacina:",
+  "alts": [
+   "Meningocócica C.",
+   "Pneumocócica 10-valente.",
+   "Difteria, Tétano e Pertussis (DTP).",
+   "Sarampo, Caxumba e Rubéola (SCR).",
+   "Sarampo, Caxumba, Rubéola e Varicela (SCRV)."
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "A tríplice viral (sarampo, caxumba e rubéola) tem esquema básico de 2 doses, aos 12 e aos 15 meses, e a primeira dose é a dos 12 meses. As demais vacinas dessa idade são reforços: a meningocócica, que pela Instrução Normativa de 2026 é a men ACWY aos 12 meses, e a pneumocócica, cujo reforço aos 12 meses passou a ser feito com a VPC20, que substitui a pneumo 10. A DTP é reforço aos 15 meses e aos 4 anos. Em 2026, a 2ª dose da SCR aos 15 meses vai junto com a 1ª dose da varicela monovalente.",
+  "porAlt": [
+   "Errada: aos 12 meses a meningocócica é dose de reforço, hoje feita com a men ACWY.",
+   "Errada: a pneumocócica aos 12 meses é reforço, e em 2026 usa a VPC20 no lugar da pneumo 10.",
+   "Errada: a DTP é aplicada como reforço aos 15 meses e aos 4 anos, não como primeira dose aos 12 meses.",
+   "Correta: a primeira dose da tríplice viral SCR é aplicada aos 12 meses.",
+   "Errada: a SCRV não é a primeira dose aos 12 meses; o esquema de 2026 dá SCR aos 15 meses com a varicela monovalente."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a assistência, o profissional de enfermagem agiu de forma negligente, causando debilidade temporária do membro superior direito do paciente.\nNesse caso, de acordo com as disposições do Código de Ética da Enfermagem, a infração cometida é considerada",
+  "alts": [
+   "leve.",
+   "baixa.",
+   "moderada.",
+   "grave.",
+   "gravíssima."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), art. 111, § 2º",
+  "coment": "O art. 111 da Resolução COFEN 564/2017 classifica as infrações pelo resultado na pessoa. Leves: ofendem a integridade física, mental ou moral sem causar debilidade. Moderadas: provocam debilidade temporária de membro, sentido ou função, ou danos mentais, morais, patrimoniais ou financeiros. Graves: provocam perigo de morte, debilidade permanente ou dano moral irremediável. Gravíssimas: provocam morte, debilidade permanente ou dano moral irremediável. A negligência que causou debilidade temporária do membro superior é, portanto, infração moderada.",
+  "porAlt": [
+   "Errada: a infração leve não causa debilidade; aqui houve debilidade temporária do membro.",
+   "Errada: baixa não é categoria do art. 111, que usa leve, moderada, grave e gravíssima.",
+   "Correta: debilidade temporária de membro caracteriza infração moderada pelo art. 111, § 2º.",
+   "Errada: a infração grave envolve perigo de morte ou debilidade permanente.",
+   "Errada: a gravíssima é reservada às infrações que provocam morte ou dano irreversível."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um profissional de enfermagem que cometeu uma infração sujeita a multa pode ser obrigado a pagar até",
+  "alts": [
+   "5 vezes o valor da anuidade da categoria profissional à qual pertence.",
+   "10 vezes o valor da anuidade da categoria profissional à qual pertence.",
+   "15 vezes o valor da anuidade da categoria profissional à qual pertence.",
+   "20 vezes o valor da anuidade da categoria profissional à qual pertence.",
+   "25 vezes o valor da anuidade da categoria profissional à qual pertence."
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), art. 108, § 2º",
+  "coment": "O art. 108 da Resolução COFEN 564/2017 lista as penas: advertência verbal, multa, censura, suspensão do exercício profissional e cassação do direito ao exercício. O § 2º define a multa como a obrigatoriedade de pagar de 1 a 10 vezes o valor da anuidade da categoria profissional à qual pertence o infrator, em favor do respectivo Conselho Regional. A multa é aplicada pelo COREN; só a cassação cabe ao COFEN. Os demais valores não constam do Código. O Código de Processo Ético mudou em 2024 (Res. 758/2024), mas o Código de Ética segue o de 2017.",
+  "porAlt": [
+   "Errada: o teto da multa é de 10 anuidades, não de 5.",
+   "Correta: a multa vai de 1 a 10 vezes o valor da anuidade da categoria do infrator.",
+   "Errada: 15 anuidades excede o teto de 10 fixado no art. 108, § 2º.",
+   "Errada: 20 anuidades não consta do Código de Ética; o máximo é 10.",
+   "Errada: 25 anuidades não tem previsão; o art. 108, § 2º, limita a multa a 10 anuidades."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente vítima de acidente automobilístico, com fratura exposta nos membros inferiores, apresentou durante o atendimento ansiedade, normotensão, FC = 98bpm, FR = 20 mrm, pressão de pulso normal e perdas sanguíneas de aproximadamente 700mL.\nEsses sinais e sintomas são característicos de choque hipovolêmico",
+  "alts": [
+   "classe I.",
+   "classe II.",
+   "classe III.",
+   "classe IV.",
+   "classe V."
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ATLS, 10ª ed., 2018 (classificação da perda sanguínea no choque hemorrágico)",
+  "coment": "A tabela do ATLS classifica a hemorragia pela perda estimada. Classe I: até 15% da volemia (até cerca de 750 mL no adulto de 70 kg), com frequência cardíaca normal ou pouco alterada, pressão arterial e pressão de pulso normais, frequência respiratória normal e paciente levemente ansioso. Classe II: 15% a 30% (750 a 1.500 mL), com taquicardia e pressão de pulso diminuída. Classe III: 30% a 40%, com hipotensão e confusão. Classe IV: acima de 40%. O caso tem 700 mL, normotensão, FC 98, FR 20 e pressão de pulso normal: classe I. Não existe classe V.",
+  "porAlt": [
+   "Correta: perda de cerca de 700 mL com sinais vitais e pressão de pulso normais e leve ansiedade é classe I.",
+   "Errada: a classe II tem perda de 750 a 1.500 mL, taquicardia e pressão de pulso diminuída.",
+   "Errada: a classe III cursa com perda de 30% a 40%, hipotensão e confusão.",
+   "Errada: a classe IV tem perda acima de 40%, com hipotensão grave e letargia.",
+   "Errada: a classificação do ATLS vai até a classe IV; não existe classe V."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente com hanseníase apresenta “lesões foveolares”, com bordos internos bem definidos, delimitando uma área central de pele aparentemente poupada, enquanto os bordos externos são espraiados, infiltrados e imprecisos.\nEsse tipo de lesão é típico da hanseníase",
+  "alts": [
+   "dimorfa.",
+   "virchowiana.",
+   "tuberculoide.",
+   "indeterminada.",
+   "neural pura."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Guia prático sobre a hanseníase, 2017; PCDT da Hanseníase, 2022",
+  "coment": "As lesões foveolares, com borda interna nítida delimitando área central de pele aparentemente poupada e borda externa espraiada, infiltrada e imprecisa, são típicas da hanseníase dimorfa. Essa forma fica entre os polos tuberculoide e virchowiano e combina características dos dois, com lesões numerosas e espessamento de nervos. A tuberculoide tem placa única ou poucas, de bordas bem definidas em toda a volta. A virchowiana tem infiltração difusa, nódulos e madarose. A indeterminada é mácula hipocrômica de bordas imprecisas. A neural pura não tem lesão de pele.",
+  "porAlt": [
+   "Correta: lesões foveolares, com borda interna nítida e externa imprecisa, são marca da hanseníase dimorfa.",
+   "Errada: a virchowiana tem infiltração difusa, nódulos e madarose, sem o aspecto foveolar.",
+   "Errada: a tuberculoide tem placas com bordas bem definidas por toda a volta e poucas lesões.",
+   "Errada: a indeterminada é mácula hipocrômica de bordas imprecisas, sem infiltração.",
+   "Errada: a forma neural pura acomete nervos sem lesões de pele."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em um serviço de saúde, bolsas de sangue utilizadas e luvas com presença de sangue e secreção devem ser descartadas como resíduos do",
+  "alts": [
+   "Grupo A.",
+   "Grupo B.",
+   "Grupo C.",
+   "Grupo D.",
+   "Grupo E."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 222/2018, Anexo I (Grupo A)",
+  "coment": "Pela RDC ANVISA 222/2018, o Grupo A reúne resíduos com possível presença de agentes biológicos. O subgrupo A1 inclui bolsas de sangue rejeitadas ou vencidas e materiais com sangue ou líquidos corpóreos na forma livre; o A4 inclui bolsas transfusionais vazias ou com volume residual e materiais da assistência sem sangue livre. Bolsas de sangue usadas e luvas com sangue e secreção vão, portanto, para o Grupo A, em saco branco leitoso com o símbolo de risco biológico. O Grupo B é químico, o C é radioativo, o D é comum e o E é perfurocortante.",
+  "porAlt": [
+   "Correta: bolsas de sangue e luvas com sangue e secreção são resíduos biológicos do Grupo A.",
+   "Errada: o Grupo B reúne resíduos químicos, como medicamentos e saneantes.",
+   "Errada: o Grupo C é o de rejeitos radioativos.",
+   "Errada: o Grupo D é o resíduo comum, sem risco biológico, químico ou radiológico.",
+   "Errada: o Grupo E reúne perfurocortantes, como agulhas e lâminas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "ALEMA 2023, Enfermeiro",
+   "n": 60,
+   "parte": "especificas"
+  }
+ }
+]

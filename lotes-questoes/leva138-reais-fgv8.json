@@ -1,0 +1,1474 @@
+[
+ {
+  "q": "Assinale a opção que indica o tipo de radioterapia na qual o paciente recebe a radiação de uma fonte externa ao corpo, localizada a mais ou menos 1 (um) metro de distância do paciente.",
+  "alts": [
+   "Teleterapia.",
+   "Afterloading.",
+   "Pré-loading.",
+   "Braquiterapia intersticial.",
+   "Braquiterapia superficial."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ABC do câncer: abordagens básicas para o controle do câncer (INCA, 6. ed., 2020), radioterapia",
+  "coment": "A radioterapia se divide pela posição da fonte. Na teleterapia (radioterapia externa), a fonte fica fora do corpo, a cerca de 80 a 100 cm do paciente, em acelerador linear ou unidade de cobalto; o paciente não fica radioativo e não precisa de isolamento. Na braquiterapia, a fonte é colocada em contato com o tumor ou dentro dele (intersticial, intracavitária, superficial). Afterloading (pós-carga) é técnica de braquiterapia: os aplicadores entram primeiro e a fonte é carregada depois, por controle remoto, o que reduz a exposição da equipe.",
+  "porAlt": [
+   "Correta: na teleterapia a fonte é externa e fica afastada do paciente, em torno de 1 metro.",
+   "Errada: afterloading é técnica de braquiterapia em que a fonte é inserida depois dos aplicadores, não fonte distante.",
+   "Errada: no pré-carregamento a fonte já vai carregada para dentro do paciente; também é braquiterapia, hoje em desuso.",
+   "Errada: na braquiterapia intersticial a fonte é implantada dentro do tecido tumoral, não a 1 metro dele.",
+   "Errada: na braquiterapia superficial a fonte é aplicada sobre a pele ou a lesão, em contato direto."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando os cuidados relacionados aos drenos usados na assistência ao paciente, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) O dreno de Penrose requer fixação com sutura em todos os casos, pois sua estrutura rígida favorece deslocamentos espontâneos durante o movimento do paciente.\n( ) O sistema de sucção/Porto-VAC é utilizado exclusivamente para drenagem de secreções pulmonares, não sendo recomendado em feridas cirúrgicas abdominais.\n( ) O dreno Jackson-Pratt deve ser esvaziado periodicamente, mantendo a compressão do reservatório em forma de bulbo para garantir a manutenção da pressão negativa.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – V.",
+   "F – F – V.",
+   "V – V – V.",
+   "F – F – F.",
+   "F – V – F."
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 15ª ed. (2023), drenos de ferida cirúrgica",
+  "coment": "O Penrose é um tubo de látex macio e flexível, de drenagem passiva por capilaridade e gravidade; pode ser fixado com ponto ou alfinete estéril, mas não é rígido e a fixação não segue regra de todos os casos (item 1 falso). O sistema de sucção fechado tipo Portovac, com reservatório em fole, é feito para feridas cirúrgicas, inclusive abdominais, e retira sangue e serosidade sob vácuo; não drena secreção pulmonar (item 2 falso). O Jackson-Pratt é esvaziado periodicamente, e o bulbo é comprimido antes de fechar para restaurar a pressão negativa, com registro do volume e do aspecto (item 3 verdadeiro).",
+  "porAlt": [
+   "Errada: considera verdadeiro o item do Penrose, que é tubo macio e não rígido, sem sutura obrigatória em todos os casos.",
+   "Correta: Penrose e Portovac estão descritos de forma errada, e o manejo do Jackson-Pratt está certo.",
+   "Errada: o Portovac é usado justamente em feridas cirúrgicas, e o Penrose não tem estrutura rígida.",
+   "Errada: o item do Jackson-Pratt é verdadeiro, pois o bulbo comprimido mantém a pressão negativa.",
+   "Errada: inverte os itens; o Portovac não drena secreção pulmonar e o manejo do Jackson-Pratt está correto."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Descolamento Prematuro de Placenta Normalmente Inserida (DPP-NI) representa uma das principais emergências obstétricas hemorrágicas.\nNesse sentido, assinale a opção que apresenta um fator de risco associado ao DPP – NI.",
+  "alts": [
+   "Diabetes.",
+   "Paridade ≥2.",
+   "Sobrepeso fetal.",
+   "Idade materna ≥30 anos.",
+   "Síndromes hipertensivas."
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Manual de Gestação de Alto Risco (MS, 2022), descolamento prematuro de placenta",
+  "coment": "As síndromes hipertensivas (pré-eclâmpsia, hipertensão crônica e gestacional) são o fator de risco mais associado ao descolamento prematuro de placenta, pela lesão vascular da decídua. Outros fatores clássicos: trauma abdominal, tabagismo, uso de cocaína, rotura prematura das membranas, sobredistensão uterina (gemelar, polidrâmnio) e DPP em gestação anterior. Idade materna avançada e multiparidade aparecem nas listas, mas os cortes da alternativa (30 anos, paridade 2) não são os usados para definir risco. Diabetes e feto grande não estão entre os fatores reconhecidos.",
+  "porAlt": [
+   "Errada: diabetes não figura entre os fatores de risco clássicos do descolamento prematuro de placenta.",
+   "Errada: a multiparidade entra nas listas, mas paridade 2 não é o corte que define risco para DPP.",
+   "Errada: macrossomia fetal não é fator de risco reconhecido; a sobredistensão que pesa é a de gemelar e polidrâmnio.",
+   "Errada: idade de 30 anos não define risco; a literatura fala em idade materna avançada, acima de 35 anos.",
+   "Correta: a hipertensão na gestação é o principal fator de risco associado ao DPP."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo a Classificação Internacional para a Prática de Enfermagem (CIPE), a orientação anatômica ou espacial de um diagnóstico ou intervenção diz respeito ao seguinte eixo:",
+  "alts": [
+   "foco.",
+   "ação.",
+   "tempo.",
+   "localização.",
+   "julgamento."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "CIPE",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "CIPE (Classificação Internacional para a Prática de Enfermagem, Conselho Internacional de Enfermeiros), Modelo de Sete Eixos; Resolução COFEN 736/2024",
+  "coment": "A CIPE organiza seus termos em sete eixos. Foco é a área de atenção relevante para a enfermagem; Julgamento, a opinião clínica sobre o foco; Meios, o modo ou recurso da intervenção; Ação, o processo intencional aplicado ao cliente; Tempo, o momento, o período ou a frequência; Localização, a orientação anatômica ou espacial; Cliente, o sujeito a quem o diagnóstico se refere. Um diagnóstico na CIPE exige termos de foco e de julgamento; uma intervenção, termo de ação e um termo-alvo. A Res. COFEN 736/2024 aceita a CIPE como sistema de linguagem padronizada no Processo de Enfermagem.",
+  "porAlt": [
+   "Errada: foco é a área de atenção da enfermagem, como dor ou mobilidade, e não a orientação anatômica.",
+   "Errada: ação é o processo intencional aplicado ao cliente, eixo central das intervenções.",
+   "Errada: tempo indica momento, período, intervalo ou frequência, não posição no corpo.",
+   "Correta: o eixo localização expressa a orientação anatômica ou espacial do diagnóstico ou da intervenção.",
+   "Errada: julgamento é a opinião clínica sobre o foco, como prejudicado ou eficaz."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na ausculta cardíaca, o foco situado no 5º espaço intercostal (EIC) esquerdo, na linha hemiclavicular, é denominado",
+  "alts": [
+   "mitral.",
+   "aórtico.",
+   "pulmonar.",
+   "tricúspide.",
+   "aórtico acessório."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto, Semiologia Médica, 8ª ed. (2019), focos de ausculta cardíaca",
+  "coment": "O foco mitral fica no 5º espaço intercostal esquerdo, na linha hemiclavicular, e corresponde ao ictus cordis; na cardiomegalia, ausculta-se onde o ictus estiver. Os demais focos: aórtico no 2º espaço intercostal direito, junto ao esterno; pulmonar no 2º espaço intercostal esquerdo, junto ao esterno; aórtico acessório no 3º espaço intercostal esquerdo, junto ao esterno; tricúspide na base do apêndice xifoide, ligeiramente à esquerda. Os focos indicam onde o som de cada valva se propaga melhor, não a posição anatômica exata da valva.",
+  "porAlt": [
+   "Correta: o foco mitral está no 5º espaço intercostal esquerdo, na linha hemiclavicular.",
+   "Errada: o foco aórtico fica no 2º espaço intercostal direito, junto à borda esternal.",
+   "Errada: o foco pulmonar fica no 2º espaço intercostal esquerdo, junto à borda esternal.",
+   "Errada: o foco tricúspide fica na base do apêndice xifoide, ligeiramente à esquerda.",
+   "Errada: o foco aórtico acessório fica no 3º espaço intercostal esquerdo, junto ao esterno."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em 2024, o Ministério da Saúde atualizou as recomendações sobre a vacinação contra o HPV no Brasil.\nAcerca dessas atualizações, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) A vacina passou de um esquema de duas doses, com intervalo de 6 meses entre elas, para um esquema de dose única.\n( ) Para os adolescentes sem histórico vacinal contra HPV, na faixa etária entre 15 a 19 anos, 11 meses e 29 dias, deve-se realizar estratégias de resgate para vacinação.\n( ) As pessoas portadoras de papilomatose respiratória recorrente (PRR) foram retiradas do grupo prioritário da vacina contra o HPV.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – V.",
+   "F – F – F.",
+   "V – V – V.",
+   "F – V – V.",
+   "V – V – F."
+  ],
+  "gab": 4,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), vacina HPV4",
+  "coment": "Em 2024 o Ministério da Saúde trocou o esquema de duas doses (intervalo de 6 meses) pela dose única de HPV4 para meninas e meninos de 9 a 14 anos, esquema mantido na Instrução Normativa de 2026 (item 1 verdadeiro). Para adolescentes de 15 a 19 anos, 11 meses e 29 dias, sem histórico vacinal, recomenda-se estratégia de resgate em dose única (item 2 verdadeiro). A papilomatose respiratória recorrente não saiu: segue na estratégia especial, com 3 doses a partir de 2 anos, ao lado de imunossuprimidos e usuários de PrEP (item 3 falso).",
+  "porAlt": [
+   "Errada: o resgate de 15 a 19 anos é recomendado, e a PRR não foi retirada do grupo prioritário.",
+   "Errada: as duas primeiras afirmativas correspondem às mudanças de 2024 mantidas na IN de 2026.",
+   "Errada: a papilomatose respiratória recorrente continua com indicação de vacina, em esquema especial.",
+   "Errada: a passagem para dose única é verdadeira, e a retirada da PRR é falsa.",
+   "Correta: dose única e resgate de 15 a 19 anos são verdadeiros; a PRR continua na estratégia especial."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as Diretrizes da Sociedade Brasileira de Diabetes, um dos critérios laboratoriais para o estabelecimento do diagnóstico de pré-diabetes é uma glicemia em jejum entre",
+  "alts": [
+   "90-115 mg/dL.",
+   "98-120 mg/dL.",
+   "100-125 mg/dL.",
+   "115-127 mg/dL.",
+   "120-129 mg/dL."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz da Sociedade Brasileira de Diabetes, edição 2024 (diagnóstico de diabetes e pré-diabetes)",
+  "coment": "Pela SBD, glicemia de jejum de 8 horas entre 100 e 125 mg/dL caracteriza pré-diabetes (glicemia de jejum alterada); 126 mg/dL ou mais indica diabetes, e abaixo de 100 mg/dL é normal. Os outros critérios de pré-diabetes são glicemia de 2 horas no teste oral com 75 g entre 140 e 199 mg/dL, glicemia de 1 hora entre 155 e 208 mg/dL (critério acrescentado pela SBD) e hemoglobina glicada de 5,7 a 6,4%. Sem hiperglicemia inequívoca, o diagnóstico se confirma com repetição ou com dois exames alterados.",
+  "porAlt": [
+   "Errada: 90 a 99 mg/dL é glicemia de jejum normal; o pré-diabetes começa em 100 mg/dL.",
+   "Errada: o limite inferior é 100 mg/dL e o superior é 125 mg/dL, não 98 e 120.",
+   "Correta: glicemia de jejum de 100 a 125 mg/dL define pré-diabetes pela SBD.",
+   "Errada: valores de 126 mg/dL ou mais já são critério de diabetes, não de pré-diabetes.",
+   "Errada: a faixa de 120 a 129 mistura pré-diabetes e diabetes, cujo corte é 126 mg/dL."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os sons de Korotkoff ocorrem durante a medição da pressão arterial por meio do método auscultatório, e indicam o momento em que a artéria é ocluída e liberada. São divididos em fases que representam sua evolução durante a aferição da pressão arterial. Nesse sentido, assinale a opção que corresponde à fase IV.",
+  "alts": [
+   "Os sons tornam-se mais crispados.",
+   "Os sons diminuem de intensidade (abafamento).",
+   "Os sons são suaves e longos como um murmúrio intermitente.",
+   "Ocorre o desaparecimento dos sons, que corresponde à PA diastólica.",
+   "Ocorre o aparecimento do primeiro som, que é fraco, seguido por batidas regulares, que corresponde à PA sistólica."
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Porto, Semiologia Médica, 8ª ed. (2019), sons de Korotkoff; Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH e SBN)",
+  "coment": "Na medida auscultatória, a fase I é o aparecimento do primeiro som, fraco, seguido de batidas regulares (pressão sistólica); a fase II traz sons suaves e prolongados, como murmúrio; a fase III, sons mais nítidos e intensos (crispados); a fase IV, abafamento súbito dos sons; a fase V, o desaparecimento, que marca a pressão diastólica. Quando os sons persistem até zero, como em gestantes e estados hipercinéticos, registra-se a diastólica no abafamento (fase IV).",
+  "porAlt": [
+   "Errada: sons mais nítidos e intensos (crispados) caracterizam a fase III.",
+   "Correta: a fase IV é o abafamento súbito dos sons.",
+   "Errada: sons suaves e prolongados, como murmúrio, são a fase II.",
+   "Errada: o desaparecimento dos sons é a fase V, que corresponde à diastólica.",
+   "Errada: o aparecimento do primeiro som, que marca a sistólica, é a fase I."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "É privativo do Enfermeiro, no âmbito da equipe de enfermagem, a utilização dos Dispositivos Extraglóticos (DEGs) para acesso à via aérea, exclusivamente, em situação de iminente risco de morte. Acerca desses dispositivos, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa\n( ) Os DEGs são dispositivos funcionalmente intermediários entre a máscara facial e o tubo traqueal, dispensando o uso de laringoscópio ou de instrumentos especiais para sua inserção.\n( ) A Máscara Laríngea é um DEG que permite a formação de um selo ao redor da laringe, oferecendo uma alternativa eficaz para o manejo das vias aéreas.\n( ) Os DEGs são indicados apenas para adultos, não sendo adequados para pacientes pediátricos devido às diferenças anatômicas.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – V – F.",
+   "F – F – F.",
+   "V – F – V.",
+   "F – V – F.",
+   "V – V – V."
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Resolução COFEN 641/2020, art. 1º (dispositivos extraglóticos); Diretrizes de reanimação do recém-nascido com 34 semanas ou mais em sala de parto, SBP 2026",
+  "coment": "A Res. COFEN 641/2020, art. 1º, torna privativo do enfermeiro, na equipe de enfermagem, o uso de dispositivos extraglóticos exclusivamente em iminente risco de morte. Os DEGs (máscara laríngea, tubo laríngeo, entre outros) ficam acima da glote, são funcionalmente intermediários entre a máscara facial e o tubo traqueal e são inseridos sem laringoscópio (item 1 verdadeiro). A máscara laríngea forma um selo ao redor da entrada da laringe (item 2 verdadeiro). Há tamanhos neonatais e pediátricos, e a SBP indica máscara laríngea na reanimação do RN com 34 semanas ou mais e 2.000 g ou mais (item 3 falso).",
+  "porAlt": [
+   "Correta: os dois primeiros itens descrevem bem os DEGs, e o terceiro erra, pois existem tamanhos pediátricos.",
+   "Errada: os DEGs são de fato intermediários entre máscara e tubo e dispensam laringoscópio.",
+   "Errada: a máscara laríngea forma selo perilaríngeo, e os DEGs não são restritos a adultos.",
+   "Errada: a inserção às cegas, sem laringoscópio, é característica verdadeira dos DEGs.",
+   "Errada: os DEGs são usados em crianças e recém-nascidos, com tamanhos próprios."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A equipe assistencial, ao atender a um paciente adulto em parada cardiorrespiratória, iniciou as manobras de ressuscitação cardiopulmonar (RCP) seguidas de desfibrilação, pois foi identificado ritmo chocável.\nDe acordo com os protocolos de RCP e ACE, assinale a opção que indica o próximo passo no manejo desse paciente.",
+  "alts": [
+   "Intubação orotraqueal.",
+   "Aspiração das vias aéreas.",
+   "Administração de adrenalina.",
+   "Administração de amiodarona.",
+   "Ressuscitação cardiopulmonar."
+  ],
+  "gab": 4,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes AHA 2025 de RCP e ACE, suporte avançado de vida no adulto",
+  "coment": "Depois de cada choque, a RCP é retomada imediatamente, começando pelas compressões, por 2 minutos, sem parar para checar pulso ou ritmo; só ao fim do ciclo o ritmo é reavaliado. Pausas pós-choque reduzem a perfusão coronariana e a chance de sucesso do próximo choque. No ritmo chocável, a adrenalina entra depois que a desfibrilação inicial falhou, e a amiodarona é para FV ou TV sem pulso refratária a choques. Via aérea avançada não deve interromper compressões, e aspiração não é etapa de rotina.",
+  "porAlt": [
+   "Errada: a via aérea avançada pode ser obtida depois, sem interromper as compressões logo após o choque.",
+   "Errada: aspiração de vias aéreas não é etapa do algoritmo e só se faz se houver secreção obstruindo.",
+   "Errada: no ritmo chocável a adrenalina entra só depois que a desfibrilação inicial falha, durante a RCP.",
+   "Errada: a amiodarona é para FV ou TV sem pulso refratária a choques, não para o passo imediato.",
+   "Correta: após o choque, retoma-se a RCP de imediato, começando pelas compressões, por 2 minutos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca dos métodos dialíticos, assinale a afirmativa correta.",
+  "alts": [
+   "O tratamento dialítico é indicado apenas quando os sintomas da insuficiência renal crônica se tornam muito graves e irreversíveis.",
+   "A hemodiálise contínua é contraindicada no tratamento da Insuficiência Renal Aguda, sendo suficiente para esses casos o tratamento medicamentoso.",
+   "A Diálise Peritoneal Ambulatorial Contínua (DPAC) é uma opção terapêutica que utiliza a membrana peritoneal como filtro e deve ser realizada diariamente de forma manual.",
+   "Na hemodiálise, o processo de filtração do sangue é realizado por um sistema que retira substâncias tóxicas do sangue, mas não é capaz de remover líquidos em excesso.",
+   "A diálise peritoneal é um método dialítico utilizado exclusivamente em pacientes com insuficiência renal aguda, sendo contraindicada para pacientes com insuficiência renal crônica."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes Clínicas para o Cuidado ao Paciente com Doença Renal Crônica no SUS (MS, 2014); Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 15ª ed. (2023)",
+  "coment": "A diálise peritoneal ambulatorial contínua usa o peritônio como membrana semipermeável: o líquido de diálise entra pelo cateter, permanece na cavidade e é drenado em trocas manuais feitas pelo próprio paciente ou cuidador, várias vezes ao dia, todos os dias. A diálise na doença renal crônica começa no estágio 5 ou antes, por sintomas e complicações, sem esperar quadro extremo. As terapias contínuas servem justamente à lesão renal aguda do paciente instável. A hemodiálise remove solutos e também líquido, por ultrafiltração. A diálise peritoneal é usada sobretudo na doença crônica.",
+  "porAlt": [
+   "Errada: a diálise é indicada no estágio 5 ou por complicações, sem esperar sintomas extremos.",
+   "Errada: as terapias dialíticas contínuas são indicadas na lesão renal aguda do paciente instável.",
+   "Correta: a DPAC usa a membrana peritoneal como filtro, com trocas manuais diárias.",
+   "Errada: a hemodiálise retira líquido em excesso por ultrafiltração, além das toxinas.",
+   "Errada: a diálise peritoneal é usada principalmente na doença renal crônica, não só na aguda."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A respeito de um paciente adulto com diarreia, assinale a opção que indica um sinal de desidratação grave.",
+  "alts": [
+   "Irritação.",
+   "Letargia.",
+   "Boca seca.",
+   "Sede intensa.",
+   "Perda de até 10% do peso corporal."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, cartaz Manejo do paciente com diarreia: avaliação do estado de hidratação (2023)",
+  "coment": "O cartaz do Ministério da Saúde classifica a hidratação em três colunas. Algum grau de desidratação: irritado ou intranquilo, olhos fundos, sede (bebe rápido e avidamente), boca seca, sinal da prega que desaparece lentamente, pulso rápido e perda de peso de até 10%. Desidratação grave: comatoso, hipotônico, letárgico ou inconsciente, olhos muito fundos, bebe mal ou não consegue beber, prega que desaparece muito lentamente, pulso fraco ou ausente e perda de peso acima de 10%. A letargia indica a coluna grave e pede o Plano C, com hidratação venosa.",
+  "porAlt": [
+   "Errada: irritação ou intranquilidade é sinal de algum grau de desidratação, não de forma grave.",
+   "Correta: letargia, coma ou hipotonia é sinal de desidratação grave, que indica o Plano C.",
+   "Errada: boca seca aparece já na desidratação de algum grau e não define gravidade.",
+   "Errada: sede intensa, bebendo com avidez, é da coluna de algum grau; na grave o paciente bebe mal.",
+   "Errada: perda de até 10% do peso corresponde a algum grau; a grave é acima de 10%."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas manifestações clínicas e no diagnóstico diferencial entre dengue, zika e chikungunya, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Pacientes com dengue e zika apresentam febre alta (> 38°C), que dura de 2 a 7 dias, enquanto que os pacientes com chikungunya apresentam febre baixa que dura, no máximo, 2 dias.\n( ) A ocorrência de exantema e de conjuntivite é comum em pacientes com dengue e rara em pacientes com zika e chikungunya.\n( ) Pacientes com chikungunya e dengue normalmente apresentam artralgia e edema articular moderado/intenso.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – V – F.",
+   "F – V – F.",
+   "V – F – V.",
+   "F – F – F.",
+   "V – V – V."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed., MS, 2024 (diagnóstico diferencial com zika e chikungunya)",
+  "coment": "No quadro de diagnóstico diferencial do Ministério da Saúde, a dengue tem febre alta por 2 a 7 dias, a chikungunya também tem febre alta, por 2 a 3 dias, e a zika tem febre baixa ou ausente, por 1 a 2 dias (item 1 falso). Exantema e conjuntivite são mais frequentes e precoces na zika; na dengue o exantema é menos frequente e a conjuntivite é rara (item 2 falso). Artralgia intensa e edema articular moderado a intenso são marcas da chikungunya; na dengue a artralgia é leve e o edema articular é raro (item 3 falso).",
+  "porAlt": [
+   "Errada: a febre da zika é baixa ou ausente, e o exantema e a conjuntivite são mais comuns na zika.",
+   "Errada: a chikungunya tem febre alta, e o exantema com conjuntivite é mais típico da zika.",
+   "Errada: dengue não costuma causar edema articular, e a febre da chikungunya é alta.",
+   "Correta: as três afirmativas erram; a febre baixa é da zika, a conjuntivite também, e o edema articular é da chikungunya.",
+   "Errada: nenhuma das afirmativas corresponde ao quadro diferencial do Ministério da Saúde."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca da assistência ao paciente com doenças cardiovasculares, analise as afirmativas a seguir.\nI. O ECG de 12 derivações é a primeira ferramenta diagnóstica no manejo de pacientes com Síndrome Coronariana Aguda - SCA suspeita, e deve ser realizado e interpretado, idealmente, em até 10min após a admissão hospitalar.\nII. A monitorização dos sinais vitais e do balanço hídrico são intervenções essenciais no cuidado ao paciente com insuficiência cardíaca, pois auxiliam no controle de retenção de líquidos e da sobrecarga cardíaca.\nIII. Em casos de infarto agudo do miocárdio, o paciente deve ser colocado em posição supina para facilitar o fluxo sanguíneo até o coração e reduzir a dor torácica.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretriz ACC/AHA 2025 de síndromes coronarianas agudas; Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 15ª ed. (2023)",
+  "coment": "Na suspeita de síndrome coronariana aguda, o ECG de 12 derivações é o primeiro exame e deve ser feito e interpretado em até 10 minutos da chegada, porque o supradesnivelamento de ST define a reperfusão (I correto). Na insuficiência cardíaca, sinais vitais, peso diário e balanço hídrico detectam retenção de líquido e guiam diurético e restrição (II correto). No infarto, o paciente fica em repouso com a cabeceira elevada (semi-Fowler), que facilita a respiração e reduz o trabalho cardíaco; a dor é tratada com analgesia, nitrato e reperfusão, não com decúbito supino (III incorreto).",
+  "porAlt": [
+   "Errada: a monitorização de sinais vitais e do balanço hídrico na insuficiência cardíaca também está correta.",
+   "Correta: ECG em até 10 minutos na SCA e controle hídrico na IC estão certos; supino no infarto não.",
+   "Errada: o decúbito supino não reduz a dor do infarto; a posição indicada é semi-Fowler.",
+   "Errada: o item III é incorreto, pois o infarto pede cabeceira elevada e tratamento da isquemia.",
+   "Errada: o item III erra a posição e a justificativa do alívio da dor."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas diretrizes clínicas para a assistência ao paciente com doença renal crônica, assinale a opção que indica, corretamente, um cuidado recomendado para qualquer estágio da doença.",
+  "alts": [
+   "A monitorização mensal dos níveis séricos de potássio e sódio.",
+   "O controle da Pressão Arterial objetivando um alvo de PA < 145/95 mmHg.",
+   "A manutenção da hemoglobina glicada em torno de 7% em pacientes diabéticos.",
+   "A redução da ingestão de proteínas para 1,3 g/Kg/dia em pacientes adultos.",
+   "O incentivo à ingestão de líquidos para promover a eliminação de toxinas."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes Clínicas para o Cuidado ao Paciente com Doença Renal Crônica no SUS (MS, 2014); KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD",
+  "coment": "A diretriz do Ministério da Saúde lista cuidados para todos os estágios da doença renal crônica: pressão arterial abaixo de 130/80 mmHg, hemoglobina glicada em torno de 7% nos diabéticos, controle da dislipidemia, abandono do tabagismo, ajuste de doses e fuga de nefrotóxicos. A frequência dos exames de potássio e sódio varia com o estágio, e não é mensal para todos. O KDIGO 2024 indica 0,8 g/kg/dia de proteína nos estágios G3 a G5 e evitar ingestão acima de 1,3 g/kg/dia; 1,3 é teto a evitar, não meta de redução. Forçar líquidos não elimina toxinas e pode causar hipervolemia.",
+  "porAlt": [
+   "Errada: a frequência de dosagem de eletrólitos depende do estágio; mensal não vale para todos.",
+   "Errada: a meta pressórica na doença renal crônica é abaixo de 130/80 mmHg, não 145/95.",
+   "Correta: hemoglobina glicada em torno de 7% nos diabéticos é recomendada em qualquer estágio.",
+   "Errada: 1,3 g/kg/dia é o teto a evitar; a ingestão indicada nos estágios avançados é 0,8 g/kg/dia.",
+   "Errada: estimular líquidos não remove toxinas e pode levar à sobrecarga de volume."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca do equilíbrio acidobásico, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) A alcalose metabólica pode ser causada por vômitos prolongados, o que aumenta o pH sérico devido à perda de ácido clorídrico do estômago.\n( ) A correção da acidose metabólica envolve a administração de bicarbonato em todos os casos, independentemente da causa subjacente ou do nível de pH.\n( ) A acidose respiratória ocorre quando há uma perda excessiva de dióxido de carbono (CO₂) devido à hiperventilação, resultando em um aumento do pH sanguíneo.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – F – F.",
+   "V – F – V.",
+   "F – V – F.",
+   "V – F – F.",
+   "F – V – V."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 15ª ed. (2023), distúrbios acidobásicos",
+  "coment": "Vômitos prolongados ou drenagem gástrica retiram ácido clorídrico e elevam o bicarbonato e o pH, causando alcalose metabólica (item 1 verdadeiro). Na acidose metabólica, trata-se primeiro a causa, como hidratação e insulina na cetoacidose ou perfusão no choque; o bicarbonato fica reservado para acidose grave ou perda de bicarbonato, e não se usa em todos os casos (item 2 falso). A acidose respiratória decorre de retenção de CO2 por hipoventilação e baixa o pH; a perda de CO2 por hiperventilação, com pH alto, é alcalose respiratória (item 3 falso).",
+  "porAlt": [
+   "Errada: o item dos vômitos é verdadeiro, pois a perda de HCl gera alcalose metabólica.",
+   "Errada: bicarbonato não se dá em toda acidose, e hiperventilação causa alcalose, não acidose respiratória.",
+   "Errada: o vômito causa alcalose metabólica, e o bicarbonato não é obrigatório em todos os casos.",
+   "Correta: só o item dos vômitos é verdadeiro; os outros erram o uso do bicarbonato e o mecanismo da acidose respiratória.",
+   "Errada: inverte a primeira afirmativa e aceita como certas as duas que estão erradas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas disposições acerca das Boas Práticas de Gerenciamento dos Resíduos de Serviços de Saúde – RSS, analise as afirmativas a seguir.\nI. O armazenamento temporário de resíduos deve ser feito em local ventilado, sinalizado e de acesso restrito, até que seja realizada a coleta.\nII. É permitida a separação do conjunto seringa/agulha com auxílio de dispositivos de segurança, sendo vedada a desconexão e o reencape manual de agulhas.\nIII. Os sacos para acondicionamento de RSS infectantes (grupo A) devem ser substituídos ao atingirem o limite de 2/3 de sua capacidade ou a cada 48 horas.\nÉ correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 222/2018 (boas práticas de gerenciamento dos resíduos de serviços de saúde), art. 14; NR 32",
+  "coment": "A RDC 222/2018 exige que o armazenamento temporário fique em local sinalizado, ventilado e de acesso restrito, até a coleta para o abrigo externo (I correto). Ela permite separar o conjunto seringa e agulha com dispositivo de segurança e veda a desconexão e o reencape manual de agulhas, regra que a NR 32 também traz (II correto). Pelo art. 14, os sacos do grupo A são substituídos ao atingir 2/3 da capacidade ou a cada 48 horas, independentemente do volume, e a cada 24 horas se o resíduo for de fácil putrefação (III correto).",
+  "porAlt": [
+   "Errada: as regras de separação com dispositivo de segurança e de troca dos sacos também estão corretas.",
+   "Errada: a troca do saco do grupo A ao atingir 2/3 ou a cada 48 horas está no art. 14 da RDC 222/2018.",
+   "Errada: a separação seringa e agulha com dispositivo de segurança é permitida, e o reencape manual é vedado.",
+   "Errada: o armazenamento temporário em local ventilado, sinalizado e de acesso restrito também está correto.",
+   "Correta: as três afirmativas reproduzem regras da RDC 222/2018."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre os princípios fundamentais da bioética e sua aplicação na prática da Enfermagem, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) O princípio da beneficência refere-se à obrigação de respeitar a autonomia do paciente, permitindo que ele tome decisões sobre seu próprio tratamento, independentemente das consequências.\n( ) O princípio da não maleficência orienta os profissionais de saúde a evitar causar dano ao paciente, buscando sempre promover o bem-estar e minimizar riscos.\n( ) O princípio da justiça está relacionado ao dever de priorizar os pacientes com maior gravidade, independentemente de recursos disponíveis ou necessidades individuais.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – V.",
+   "F – V – F.",
+   "V – V – V.",
+   "F – F – F.",
+   "V – V – F."
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Beauchamp e Childress, Princípios de Ética Biomédica (principialismo, 1979); Resolução COFEN 564/2017 (Código de Ética dos Profissionais de Enfermagem)",
+  "coment": "No principialismo de Beauchamp e Childress, respeitar a decisão informada do paciente é o princípio da autonomia, não o da beneficência, que é o dever de agir em favor do bem do paciente (item 1 falso). A não maleficência manda evitar danos e minimizar riscos (item 2 verdadeiro). A justiça trata da distribuição equitativa de recursos, riscos e benefícios, considerando necessidades, e não manda priorizar a gravidade ignorando recursos e necessidades individuais (item 3 falso). O Código de Ética de Enfermagem incorpora esses princípios ao exigir respeito à autonomia e assistência livre de danos.",
+  "porAlt": [
+   "Errada: confunde beneficência com autonomia e distorce o princípio da justiça.",
+   "Correta: só a não maleficência está bem descrita; beneficência e justiça estão erradas.",
+   "Errada: a definição de beneficência descreve a autonomia, e a de justiça ignora a equidade.",
+   "Errada: a não maleficência, evitar dano e minimizar riscos, está corretamente definida.",
+   "Errada: a justiça considera recursos e necessidades na distribuição equitativa, não só a gravidade."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação ao processamento de produtos para saúde, assinale a afirmativa correta.",
+  "alts": [
+   "A esterilização realizada com soluções químicas é ineficaz na eliminação de microrganismos resistentes, como esporos bacterianos.",
+   "A esterilização por óxido de etileno é eficaz para produtos sensíveis ao calor, mas requer cuidados e controles específicos devido à toxicidade do gás.",
+   "Os indicadores químicos são utilizados para monitorar a eficácia do processo de esterilização, garantindo a eliminação de microrganismos altamente resistentes.",
+   "Os indicadores químicos são suficientes para garantir a esterilização de artigos críticos, dispensando o uso de indicadores biológicos em procedimentos de controle de qualidade.",
+   "A esterilização por calor seco é recomendada para produtos de vidro e metal, mas não deve ser utilizada para materiais plásticos, pois esses podem derreter ou deformar devido à alta temperatura."
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "RDC ANVISA 15/2012 (boas práticas para o processamento de produtos para saúde); SOBECC, Diretrizes de Práticas em Enfermagem Perioperatória, 8ª ed. (2021)",
+  "coment": "O óxido de etileno esteriliza a baixa temperatura produtos termossensíveis, mas o gás é tóxico, carcinogênico e inflamável e exige aeração, controle ambiental e instalação própria. Esterilizantes químicos líquidos, como ácido peracético e glutaraldeído no tempo de esterilização, são esporicidas. O indicador químico mostra exposição a parâmetros do ciclo, sem provar letalidade; o biológico, com esporos, é que demonstra a eficácia, e um não substitui o outro. O calor seco (estufa) tem difícil controle e não é recomendado pela SOBECC como método de rotina.",
+  "porAlt": [
+   "Errada: esterilizantes químicos usados no tempo correto destroem esporos bacterianos.",
+   "Correta: o óxido de etileno serve a materiais termossensíveis, mas exige controles pela toxicidade do gás.",
+   "Errada: o indicador químico mostra exposição ao processo; quem demonstra morte microbiana é o biológico.",
+   "Errada: o indicador químico não dispensa o biológico no controle da esterilização.",
+   "Errada: a estufa de calor seco não é recomendada como método de rotina por difícil controle do processo."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Protocolo Clínico e as Diretrizes Terapêuticas para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis – IST, o rastreamento para HIV em pessoas com diagnóstico de tuberculose deve ser realizado",
+  "alts": [
+   "anualmente.",
+   "semestralmente.",
+   "trimestralmente.",
+   "no momento do diagnóstico.",
+   "antes de iniciar o tratamento."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "HIV e aids",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "PCDT para Atenção Integral às Pessoas com IST (Ministério da Saúde, 2022), quadro de rastreamento de HIV",
+  "coment": "O PCDT de IST traz um quadro de rastreamento do HIV por população. Para pessoas com diagnóstico de tuberculose, a testagem é feita no momento do diagnóstico da TB, sem esperar outra ocasião, porque a coinfecção é frequente, a tuberculose é grande causa de morte em pessoas vivendo com HIV e a sorologia muda o manejo dos dois agravos. As periodicidades semestral e anual valem para outras populações, como as populações-chave e as pessoas com vida sexual ativa. Testar antes de iniciar o tratamento costuma coincidir na prática, mas o marco do protocolo é o diagnóstico.",
+  "porAlt": [
+   "Errada: testagem anual é periodicidade para outros grupos, não para quem acabou de ter diagnóstico de TB.",
+   "Errada: a periodicidade semestral se aplica a populações-chave, não à pessoa com tuberculose.",
+   "Errada: o PCDT não usa intervalo trimestral para pessoas com tuberculose.",
+   "Correta: o PCDT de IST recomenda testar HIV no momento do diagnóstico da tuberculose.",
+   "Errada: o marco do protocolo é o diagnóstico da TB, e não o início do tratamento."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na assistência ao recém-nascido, o Boletim de Apgar é determinado no 1º e no 5º minuto após o nascimento.\nSe o Apgar for <7 no 5º minuto, recomenda-se realizá-lo a cada",
+  "alts": [
+   "dois minutos, até o 10º minuto de vida.",
+   "quatro minutos, até o 15º minuto de vida.",
+   "cinco minutos, até o 20º minuto de vida.",
+   "sete minutos, até o 25º minuto de vida.",
+   "dez minutos, até o 30º minuto de vida."
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretrizes de reanimação do recém-nascido com 34 semanas ou mais em sala de parto, SBP 2026",
+  "coment": "O escore de Apgar soma cinco sinais (frequência cardíaca, esforço respiratório, tônus, irritabilidade reflexa e cor), cada um de 0 a 2, no 1º e no 5º minuto. Pela SBP, se o Apgar do 5º minuto for menor que 7, ele é repetido a cada 5 minutos até 20 minutos de vida. O escore descreve a resposta do recém-nascido e não indica reanimação: a decisão de ventilar é tomada antes do primeiro minuto, pela respiração e pela frequência cardíaca.",
+  "porAlt": [
+   "Errada: o intervalo recomendado é de 5 minutos, e a repetição vai até 20 minutos, não até 10.",
+   "Errada: a SBP não usa intervalos de 4 minutos nem limite de 15 minutos.",
+   "Correta: Apgar menor que 7 no 5º minuto é repetido a cada 5 minutos até o 20º minuto.",
+   "Errada: intervalos de 7 minutos até 25 minutos não fazem parte da recomendação da SBP.",
+   "Errada: a repetição é a cada 5 minutos, e não a cada 10 até 30 minutos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a organização da atenção especializada em um Hospital Geral, a gestão optou por implantar o regime de hospital-dia para ampliar a oferta de procedimentos clínicos e terapêuticos que não demandam internação integral.\nConsiderando as diretrizes do Ministério da Saúde para o funcionamento do hospital-dia, assinale a afirmativa correta.",
+  "alts": [
+   "Destina-se exclusivamente a pacientes cirúrgicos, sendo vedada sua utilização para tratamentos clínicos ou terapias especializadas.",
+   "Caracteriza-se pela prestação de assistência contínua com permanência do paciente por período máximo de 24 horas, sendo obrigatório o pernoite.",
+   "É classificado como serviço de urgência e emergência, devendo funcionar obrigatoriamente 24 horas por dia para atendimento de demanda espontânea.",
+   "Pode funcionar com equipe assistencial reduzida, não sendo obrigatória a presença contínua de equipe multiprofissional durante todo o período de funcionamento.",
+   "É um regime de assistência intermediária entre a internação e o atendimento ambulatorial, no qual o paciente permanece por período limitado, sem necessidade de pernoite."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 44/2001 (regime de hospital-dia)",
+  "coment": "A Portaria GM/MS 44/2001 define o hospital-dia como assistência intermediária entre a internação e o atendimento ambulatorial, para procedimentos clínicos, cirúrgicos, diagnósticos e terapêuticos que exijam a permanência do paciente na unidade por até 12 horas, sem pernoite. Não é serviço de urgência nem de demanda espontânea: o atendimento é programado. Também não se restringe a cirurgias, pois abrange quimioterapia, terapias especializadas e outros procedimentos clínicos. Enquanto houver paciente em permanência, a assistência exige equipe presente.",
+  "porAlt": [
+   "Errada: o hospital-dia atende procedimentos clínicos, diagnósticos e terapêuticos, não só cirúrgicos.",
+   "Errada: a permanência é de até 12 horas e justamente sem pernoite.",
+   "Errada: o hospital-dia funciona com atendimento programado e não é serviço de urgência 24 horas.",
+   "Errada: o paciente em permanência precisa de assistência da equipe durante todo o funcionamento.",
+   "Correta: é regime intermediário entre internação e ambulatório, com permanência limitada e sem pernoite."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 21,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Ao realizar a Sistematização da Assistência de Enfermagem em uma unidade de internação clínica, o Enfermeiro definiu os resultados esperados com base na Classificação dos Resultados de Enfermagem (NOC).\nAcerca da NOC, assinale a afirmativa correta.",
+  "alts": [
+   "A NOC é usada para sistematização conceitual, sem aplicação prática na avaliação do cuidado.",
+   "A NOC é restrita a serviços hospitalares de alta complexidade, não sendo aplicada na Atenção Básica.",
+   "A NOC organiza resultados em indicadores, sendo aplicada apenas na etapa de implementação do cuidado.",
+   "Os resultados da NOC definem intervenções gerais, dispensando o planejamento individualizado do cuidado.",
+   "A NOC corresponde a resultados mensuráveis relacionados aos diagnósticos, permitindo avaliar a evolução do paciente."
+  ],
+  "gab": 4,
+  "tema": "sae",
+  "sub": "Resultados (NOC) e intervenções (NIC)",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Moorhead et al., NOC: Classificação dos Resultados de Enfermagem, 6ª ed. (2020); Resolução COFEN 736/2024",
+  "coment": "A NOC padroniza resultados sensíveis às intervenções de enfermagem. Cada resultado tem definição, indicadores e escala Likert de 5 pontos, o que permite medir o estado do paciente antes e depois do cuidado. Ela entra no Planejamento, quando o enfermeiro estabelece os resultados esperados a partir dos diagnósticos, e na Evolução, quando compara o escore atual com o esperado, etapas previstas na Res. COFEN 736/2024. Serve a qualquer cenário, inclusive atenção primária, domicílio e comunidade, e não substitui a individualização do plano.",
+  "porAlt": [
+   "Errada: a NOC tem aplicação prática direta, pois mede o resultado com indicadores e escala.",
+   "Errada: a NOC serve a todos os cenários, inclusive atenção primária e comunidade.",
+   "Errada: a NOC é usada no planejamento e na avaliação, não só na implementação.",
+   "Errada: quem descreve intervenções é a NIC; a NOC não dispensa o planejamento individualizado.",
+   "Correta: a NOC traz resultados mensuráveis ligados aos diagnósticos para avaliar a evolução."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 22,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante o exame físico de um paciente o Enfermeiro realizou ausculta no foco tricúspide para avaliação dos sons cardíacos. Esse foco está localizado no",
+  "alts": [
+   "2º espaço intercostal direito, próximo ao esterno.",
+   "3º espaço intercostal esquerdo, próximo ao esterno.",
+   "2º ou 3º espaço intercostal direito, junto à borda esternal.",
+   "4º ou 5º espaço intercostal esquerdo, na base do apêndice xifoide.",
+   "5º e 6º espaço intercostal esquerdo, próximo à linha hemiclavicular."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto, Semiologia Médica, 8ª ed. (2019), focos de ausculta cardíaca",
+  "coment": "O foco tricúspide fica na base do apêndice xifoide, ligeiramente à esquerda, região que corresponde ao 4º e 5º espaços intercostais esquerdos junto ao esterno; ali se ouvem melhor os sons da valva tricúspide, que aumentam na inspiração. Os outros focos: aórtico no 2º espaço intercostal direito junto ao esterno; pulmonar no 2º espaço intercostal esquerdo; aórtico acessório no 3º espaço intercostal esquerdo junto ao esterno; mitral no 5º espaço intercostal esquerdo, na linha hemiclavicular.",
+  "porAlt": [
+   "Errada: o 2º espaço intercostal direito junto ao esterno é o foco aórtico.",
+   "Errada: o 3º espaço intercostal esquerdo junto ao esterno é o foco aórtico acessório.",
+   "Errada: a borda esternal direita alta corresponde à área aórtica, não à tricúspide.",
+   "Correta: o foco tricúspide está na base do apêndice xifoide, no 4º ou 5º espaço intercostal esquerdo.",
+   "Errada: o 5º espaço intercostal esquerdo na linha hemiclavicular é o foco mitral."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 23,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas diretrizes acerca do rastreamento da hiperglicemia para o diagnóstico do Diabetes Mellitus (DM), analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa\n( ) Recomenda-se a investigação de diabetes gestacional para todas as gestantes entre a 24ª e 28ª semana de gestação e sem diagnostico prévio, independentemente da presença de fatores de risco.\n( ) É recomendado o rastreamento de DM2 para todos os indivíduos com idade maior ou igual a 35 anos e para adultos com sobrepeso ou obesidade, que tenham pelo menos um fator de risco adicional para DM2.\n( ) Entre os critérios de rastreamento para crianças e adolescentes está idade ≥ 7 anos, e história familiar de DM2 em parente de primeiro ou segundo grau.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – V.",
+   "V – V – F.",
+   "F – F – V.",
+   "V – V – V.",
+   "F – V – F."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretriz da Sociedade Brasileira de Diabetes, edição 2024 (rastreamento do DM2 e do diabetes gestacional); Manual de Gestação de Alto Risco (MS, 2022)",
+  "coment": "O diabetes gestacional é rastreado em todas as gestantes sem diagnóstico prévio, com teste oral de 75 g entre 24 e 28 semanas, independentemente de fatores de risco (item 1 verdadeiro). A SBD recomenda rastrear DM2 em todos com 35 anos ou mais e em adultos com sobrepeso ou obesidade e pelo menos um fator de risco adicional (item 2 verdadeiro). Em crianças e adolescentes, o rastreamento começa aos 10 anos ou no início da puberdade, se houver sobrepeso ou obesidade e fator de risco, como parente de 1º ou 2º grau com DM2; 7 anos não é o critério (item 3 falso).",
+  "porAlt": [
+   "Errada: o rastreamento universal do diabetes gestacional é verdadeiro, e o corte de 7 anos é falso.",
+   "Correta: rastreio universal na gestação e critérios do adulto estão certos; a idade pediátrica é 10 anos.",
+   "Errada: as duas primeiras afirmativas são verdadeiras, e a pediátrica erra a idade de início.",
+   "Errada: o rastreamento em crianças começa aos 10 anos ou na puberdade, não aos 7 anos.",
+   "Errada: o rastreamento do diabetes gestacional é universal entre 24 e 28 semanas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 24,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a assistência de enfermagem em uma unidade de emergência, um paciente adulto deu entrada com quadro de dor intensa em hipocôndrio direito, febre com calafrios e coloração amarelada da pele e das mucosas.\nEsses sinais e sintomas são característicos da Tríade de",
+  "alts": [
+   "Beck.",
+   "Virchow.",
+   "Charcot.",
+   "Cushing.",
+   "Reynolds."
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretrizes de Tóquio 2018 (TG18) para colangite aguda; Porto, Semiologia Médica, 8ª ed. (2019)",
+  "coment": "Dor em hipocôndrio direito, febre com calafrios e icterícia formam a tríade de Charcot, que sugere colangite aguda, infecção da via biliar geralmente por obstrução, como cálculo no colédoco. Quando se somam hipotensão e confusão mental, tem-se a pêntade de Reynolds, que indica colangite grave e exige estabilização e drenagem biliar urgentes. A enfermagem monitora sinais de choque, colhe hemoculturas e prepara para antibiótico e procedimento.",
+  "porAlt": [
+   "Errada: a tríade de Beck (hipotensão, turgência jugular e bulhas abafadas) indica tamponamento cardíaco.",
+   "Errada: a tríade de Virchow (estase, lesão endotelial e hipercoagulabilidade) explica a trombose.",
+   "Correta: dor em hipocôndrio direito, febre com calafrios e icterícia formam a tríade de Charcot.",
+   "Errada: a tríade de Cushing (hipertensão, bradicardia e respiração irregular) indica hipertensão intracraniana.",
+   "Errada: Reynolds descreve uma pêntade, com hipotensão e confusão mental além da tríade de Charcot."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 25,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Ao investigar casos de Febre Amarela em um município sem registro prévio da doença, a equipe de vigilância identificou que os primeiros pacientes haviam retornado recentemente de áreas com transmissão ativa, sem evidência inicial de transmissão local. Com base nos conceitos relacionados à vigilância epidemiológica, é correto afirmar que os casos apresentados podem ser classificados como",
+  "alts": [
+   "alóctones, pois foram adquiridos em local diferente do diagnóstico.",
+   "autóctones, pois foi possível identificar o local da contaminação.",
+   "surtos epidêmicos, pois ocorreram de forma inesperada em uma área delimitada.",
+   "secundários, pois ocorreram de forma indireta, sem relação com epidemias locais.",
+   "primários, pois correspondem aos primeiros casos identificados sem relação com transmissão local prévia."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Guia de Vigilância em Saúde, 6ª ed., 2023 (febre amarela; local provável de infecção)",
+  "coment": "A vigilância classifica o caso pelo local provável de infecção. Caso autóctone é o adquirido no próprio local onde foi detectado ou de residência; caso alóctone, ou importado, é o adquirido em outra área, como os pacientes que voltaram de região com transmissão ativa, sem evidência de transmissão local. Essa distinção orienta o bloqueio: um caso importado de febre amarela num município sem registro pede investigação, vacinação e vigilância de vetores para impedir a transmissão autóctone. Surto exige casos relacionados entre si no tempo e no espaço.",
+  "porAlt": [
+   "Correta: os casos são alóctones, pois a infecção ocorreu fora do município onde foram diagnosticados.",
+   "Errada: autóctone é o caso adquirido no próprio local, o oposto do que o enunciado descreve.",
+   "Errada: casos importados sem transmissão local não configuram surto na área de diagnóstico.",
+   "Errada: secundário descreve o caso gerado a partir de outro na cadeia de transmissão, não a origem geográfica.",
+   "Errada: primário ou caso índice se refere à cadeia de transmissão; a classificação pela origem é alóctone."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 26,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a ausculta pulmonar de um paciente internado com DPOC, o Enfermeiro identificou um som contínuo, musical, de alta tonalidade, mais evidente na expiração e audível difusamente em ambos os campos pulmonares.\nEssas características correspondem a",
+  "alts": [
+   "sibilos.",
+   "roncos.",
+   "estridores.",
+   "estertores finos.",
+   "estertores grossos."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto, Semiologia Médica, 8ª ed. (2019), ruídos adventícios; GOLD Report 2026",
+  "coment": "Sibilos são ruídos contínuos, musicais e agudos, mais evidentes na expiração, produzidos pela passagem do ar em vias aéreas estreitadas; difusos, são típicos da asma e da DPOC. Roncos também são contínuos, mas graves, e nascem de secreção em vias de maior calibre, mudando com a tosse. Estridor é som alto e inspiratório, de obstrução laríngea ou traqueal. Estertores são descontínuos: os finos ocorrem no fim da inspiração e não mudam com a tosse; os grossos ocorrem no início da inspiração e na expiração e se alteram com a tosse.",
+  "porAlt": [
+   "Correta: som contínuo, musical, agudo e expiratório difuso define sibilos.",
+   "Errada: roncos são contínuos, mas graves, e variam com a tosse por causa da secreção.",
+   "Errada: estridor é inspiratório e localizado na obstrução alta, não difuso nos campos pulmonares.",
+   "Errada: estertores finos são descontínuos e ocorrem no fim da inspiração.",
+   "Errada: estertores grossos são descontínuos e mudam com a tosse."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 27,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na terapia renal substitutiva, diferentes dispositivos vasculares podem ser usados para a realização da hemodiálise, conforme a urgência, o tempo de uso e as condições clínicas do paciente. Nesse sentido, analise as afirmativas a seguir.\nI. O Permcath é um cateter de longa permanência, semi-implantável, indicado para acesso vascular de alto fluxo por tempo prolongado.\nII. Os cateteres tunelizados apresentam maior risco de infecção quando comparados aos não tunelizados, sendo indicados para terapias de curta e média duração.\nIII. A fístula arteriovenosa é um acesso permanente, resultante da comunicação entre artéria e veia, que necessita de um período de maturação antes do uso.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "KDOQI Clinical Practice Guideline for Vascular Access: 2019 Update (National Kidney Foundation, 2020)",
+  "coment": "O Permcath é cateter de hemodiálise tunelizado e com cuff, semi-implantável, de longa permanência e alto fluxo (I correto). O trajeto subcutâneo e o cuff fazem barreira aos germes da pele, e por isso os tunelizados têm menor risco de infecção que os não tunelizados; os não tunelizados ficam para uso de curto prazo e urgência (II incorreto). A fístula arteriovenosa é anastomose cirúrgica entre artéria e veia, acesso permanente preferido, que precisa de semanas de maturação antes da primeira punção (III correto). O braço da fístula não recebe punção, coleta ou aferição de pressão.",
+  "porAlt": [
+   "Errada: a fístula arteriovenosa também está corretamente descrita, com período de maturação.",
+   "Errada: cateteres tunelizados têm menor risco de infecção e são de longa permanência.",
+   "Correta: o Permcath é tunelizado de longa permanência, e a fístula precisa maturar antes do uso.",
+   "Errada: o item II inverte o risco de infecção entre cateteres tunelizados e não tunelizados.",
+   "Errada: o item II é falso, pois o túnel e o cuff reduzem o risco de infecção."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 28,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante o atendimento em sala de parto, um recém-nascido a termo necessitou de manobras de reanimação.\nNesse caso, assinale a opção que indica o procedimento considerado mais importante e efetivo na reanimação neonatal.",
+  "alts": [
+   "Aspiração das vias aéreas.",
+   "Ventilação com pressão positiva.",
+   "Estímulo tátil vigoroso e contínuo.",
+   "Compressões torácicas ininterruptas.",
+   "Posicionamento adequado da cabeça."
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes de reanimação do recém-nascido com 34 semanas ou mais em sala de parto, SBP 2026",
+  "coment": "Pelas diretrizes da SBP de 2026, ventilar é o procedimento mais importante e efetivo da reanimação neonatal: a ventilação com pressão positiva começa ainda no primeiro minuto de vida em quem não respira ou tem frequência cardíaca abaixo de 100 bpm, e a frequência cardíaca é o melhor indicador de resposta. Os passos iniciais (prover calor, posicionar a cabeça, aspirar só se houver excesso de secreção, secar) são breves. Massagem cardíaca só entra se a frequência cardíaca ficar abaixo de 60 bpm após 30 segundos de VPP adequada, na relação 3:1.",
+  "porAlt": [
+   "Errada: aspirar só se faz com excesso de secreção; de rotina, atrasa a ventilação e pode causar bradicardia.",
+   "Correta: a ventilação com pressão positiva é o procedimento mais importante da reanimação neonatal.",
+   "Errada: o estímulo tátil é breve, ao secar o bebê; insistir nele atrasa a ventilação.",
+   "Errada: compressões só com FC abaixo de 60 bpm após VPP adequada, sincronizadas 3:1, não ininterruptas.",
+   "Errada: posicionar a cabeça é passo inicial necessário, mas o que reverte a hipóxia é a ventilação."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 29,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No monitoramento hemodinâmico, a pressão arterial média (PAM) é usada como indicador de perfusão tecidual. Considerando um paciente hemodinamicamente estável, assinale a opção que indica o intervalo que corresponde a valores normais de PAM.",
+  "alts": [
+   "50 a 60 mmHg.",
+   "60 a 70 mmHg.",
+   "70 a 100 mmHg.",
+   "80 a 120 mmHg.",
+   "90 a 130 mmHg."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Monitorização hemodinâmica",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 15ª ed. (2023), monitorização hemodinâmica; Surviving Sepsis Campaign 2026",
+  "coment": "A pressão arterial média é a pressão que perfunde os órgãos ao longo do ciclo cardíaco e se estima por (PAS + 2 x PAD) / 3. No adulto estável, o valor normal fica entre 70 e 100 mmHg. Abaixo de 60 a 65 mmHg, a autorregulação de rins, cérebro e coronárias falha e a perfusão cai; por isso a meta inicial no choque séptico é PAM de pelo menos 65 mmHg. Valores persistentes acima de 100 a 110 mmHg indicam hipertensão e aumento da pós-carga.",
+  "porAlt": [
+   "Errada: PAM de 50 a 60 mmHg indica hipoperfusão, abaixo do mínimo de 65 usado como meta.",
+   "Errada: 60 a 70 mmHg é limítrofe e fica abaixo da faixa normal do adulto estável.",
+   "Correta: a PAM normal do adulto hemodinamicamente estável fica entre 70 e 100 mmHg.",
+   "Errada: valores de 100 a 120 mmHg já estão acima da faixa normal.",
+   "Errada: PAM de 90 a 130 mmHg inclui valores de hipertensão, não a faixa normal."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 30,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas diretrizes atualizadas do suporte de vida em Pediatria, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Em crianças acima de 1 ano conscientes, com obstrução das vias aéreas por corpo estranho, deve-se alternar 5 golpes nas costas com 5 compressões abdominais até que o objeto seja expelido.\n( ) Na compressão torácica de crianças menores de 2 anos, deve-se usar sempre a técnica dos dois dedos e como segunda opção a técnica dos 2 polegares, com as mãos circundando o tórax.\n( ) A ressuscitação cardiopulmonar em crianças, deve ser iniciada com ventilações de resgate, sendo recomendada uma sequência de 10 ventilações por minuto.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – V.",
+   "F – V – F.",
+   "V – F – F.",
+   "F – V – V.",
+   "V – V – V."
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Diretrizes AHA/AAP 2025 de suporte básico de vida pediátrico",
+  "coment": "Na criança acima de 1 ano consciente com obstrução grave por corpo estranho, as diretrizes AHA/AAP de 2025 recomendam alternar 5 golpes nas costas com 5 compressões abdominais até o objeto sair ou a vítima perder a consciência (item 1 verdadeiro). No lactente, menor de 1 ano e não de 2 anos, a técnica dos dois dedos foi abandonada em 2025 por não atingir a profundidade; usam-se os dois polegares com as mãos envolvendo o tórax ou a região hipotenar de uma mão (item 2 falso). A RCP pediátrica começa pelas compressões, e 10 ventilações por minuto é a frequência do adulto com via aérea avançada (item 3 falso).",
+  "porAlt": [
+   "Errada: a RCP pediátrica não começa por ventilações de resgate, e 10 por minuto não é a regra na criança.",
+   "Errada: a técnica dos dois dedos saiu em 2025 e o golpe nas costas alternado com compressão abdominal é correto.",
+   "Correta: só o manejo do engasgo está certo; a técnica dos dois dedos e a abertura por ventilações estão erradas.",
+   "Errada: a técnica de dois dedos foi abandonada e a RCP começa pelas compressões.",
+   "Errada: o segundo e o terceiro itens contrariam as diretrizes AHA/AAP de 2025."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente de 30 anos, com suspeita de dengue, foi submetido à prova do laço durante a avaliação clínica em uma unidade de saúde, apresentando resultado positivo.\nDe acordo com as recomendações do Ministério da Saúde, assinale a opção que apresenta corretamente o critério de positividade da prova do laço em adultos.",
+  "alts": [
+   "Presença de 5 ou mais petéquias em área de 1,5 cm por 1,5 cm, após insuflar o manguito por 2 minutos.",
+   "Presença de 8 ou mais petéquias em área de 2,0 cm por 2,0 cm após insuflar o manguito por 3 minutos.",
+   "Presença de 10 ou mais petéquias em área de 2,5 cm por 2,5 cm, após insuflar o manguito por 5 minutos.",
+   "Presença de 15 ou mais petéquias em área de 1,5 cm por 1,5 cm, após insuflar o manguito por 3 minutos.",
+   "Presença de 20 ou mais petéquias em área de 2,5 cm por 2,5 cm, após insuflar o manguito por 5 minutos."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed., MS, 2024 (prova do laço)",
+  "coment": "Na prova do laço, desenha-se um quadrado de 2,5 cm de lado no antebraço e insufla-se o manguito no valor médio entre a sistólica e a diastólica, por 5 minutos no adulto e 3 minutos na criança. É positiva com 20 ou mais petéquias no adulto e 10 ou mais na criança. Prova positiva ou petéquias sem sinal de alarme colocam o paciente no grupo B, com hidratação oral na unidade e hemograma. A prova não é necessária quando já há sangramento espontâneo de pele.",
+  "porAlt": [
+   "Errada: no adulto a prova exige 20 petéquias em quadrado de 2,5 cm após 5 minutos.",
+   "Errada: o quadrado tem 2,5 cm de lado e o tempo no adulto é de 5 minutos.",
+   "Errada: 10 petéquias é o critério da criança, cujo tempo de insuflação é de 3 minutos.",
+   "Errada: a área de 1,5 cm e o tempo de 3 minutos não correspondem à técnica no adulto.",
+   "Correta: no adulto, 20 ou mais petéquias em quadrado de 2,5 cm após 5 minutos de insuflação."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as recomendações atuais sobre terapêutica hormonal no climatério, a escolha entre terapia hormonal sistêmica e terapia tópica deve considerar sintomas, eficácia e perfil de segurança.\nAcerca desse tema, assinale a afirmativa correta.",
+  "alts": [
+   "A terapia hormonal sistêmica apresenta efeito global sobre sintomas climatéricos, enquanto a terapia tópica possui ação predominantemente local com mínima absorção sistêmica.",
+   "A terapia hormonal tópica apresenta maior eficácia no controle dos sintomas vasomotores, enquanto a sistêmica tem ação restrita aos sintomas isolados.",
+   "A terapia hormonal sistêmica e a tópica possuem absorção sistêmica equivalente, sendo a escolha baseada exclusivamente na preferência individual da paciente.",
+   "A terapia hormonal tópica apresenta maior risco de eventos tromboembólicos, enquanto a sistêmica reduz significativamente esse risco independentemente da via utilizada.",
+   "A terapia hormonal sistêmica não atua sobre sintomas geniturinários, sendo a terapia tópica a opção terapêutica mais eficaz nesses casos clínicos."
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Planejamento reprodutivo",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Manual de Atenção à Mulher no Climatério/Menopausa (2008); Protocolos da Atenção Básica: Saúde das Mulheres (2016)",
+  "coment": "A terapia hormonal sistêmica, oral ou transdérmica, atua no organismo todo e é a mais eficaz contra os sintomas vasomotores, além de melhorar os sintomas geniturinários. O estrogênio vaginal em baixa dose tem ação predominantemente local, com absorção sistêmica mínima, e é a escolha quando a queixa se limita à síndrome geniturinária, como secura e dispareunia. O risco tromboembólico se liga à via oral; a via transdérmica e a vaginal têm risco menor. A decisão considera sintomas, contraindicações, idade, tempo de menopausa e preferência.",
+  "porAlt": [
+   "Correta: a terapia sistêmica tem efeito global, e a tópica age localmente com absorção mínima.",
+   "Errada: os sintomas vasomotores respondem à terapia sistêmica; a tópica tem ação local.",
+   "Errada: a absorção sistêmica da via vaginal em baixa dose é mínima, diferente da sistêmica.",
+   "Errada: o maior risco tromboembólico é da via oral sistêmica, não da tópica.",
+   "Errada: a terapia sistêmica também melhora sintomas geniturinários, embora a tópica seja preferida quando eles são isolados."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a assistência a uma parturiente de risco habitual em trabalho de parto espontâneo, foram adotadas condutas baseadas nas Diretrizes Nacionais de Assistência ao Parto Normal, buscando reduzir intervenções desnecessárias e garantir uma experiência positiva.\nConsiderando essas recomendações, assinale a afirmativa correta.",
+  "alts": [
+   "A cardiotocografia contínua é recomendada, mesmo em gestantes de risco habitual.",
+   "A episiotomia profilática em nulíparas pode ser realizada para reduzir lacerações perineais graves.",
+   "O exame vaginal, para avaliar a progressão do trabalho de parto, é recomendado a cada 4 horas na fase ativa.",
+   "A ocitocina deve ser administrada rotineiramente no primeiro período para prevenir atraso na progressão do parto.",
+   "A amniotomia pode ser realizada precocemente e de forma rotineira para reduzir a duração do trabalho de parto."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretriz Nacional de Assistência ao Parto Normal (MS/CONITEC, 2017)",
+  "coment": "Pela Diretriz Nacional de Assistência ao Parto Normal, na fase ativa do primeiro período o toque vaginal é feito a cada 4 horas, ou antes se houver preocupação com a progressão ou a pedido da mulher. Em gestante de risco habitual, a vitalidade fetal é avaliada por ausculta intermitente, a cada 30 minutos no primeiro período, e não por cardiotocografia contínua. Episiotomia de rotina, ocitocina de rotina e amniotomia precoce rotineira não são recomendadas; ocitocina e amniotomia ficam para a progressão lenta, após avaliação.",
+  "porAlt": [
+   "Errada: no risco habitual recomenda-se ausculta intermitente, não cardiotocografia contínua.",
+   "Errada: a episiotomia de rotina não é recomendada, nem em nulíparas.",
+   "Correta: o toque vaginal na fase ativa é recomendado a cada 4 horas.",
+   "Errada: ocitocina de rotina não é recomendada; fica para a progressão lenta.",
+   "Errada: a amniotomia precoce rotineira não é recomendada para encurtar o trabalho de parto."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante o pré-natal de rotina, uma gestante primigesta, com 24 semanas de gestação e fator Rh negativo, realizou o teste de Coombs indireto, cujo resultado foi negativo.\nEsse resultado indica que",
+  "alts": [
+   "o feto é Rh negativo, descartando qualquer risco de isoimunização.",
+   "os anticorpos produzidos pela gestante já estão atacando o sistema imunológico do feto.",
+   "a gestante não apresenta anticorpos anti-D circulantes, caracterizando ausência de sensibilização Rh.",
+   "há incompatibilidade do sistema ABO, com produção de anticorpos maternos contra as hemácias fetais.",
+   "a gestante já está sensibilizada com anticorpos ligados às hemácias fetais, indicando risco de doença hemolítica."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Manual de Gestação de Alto Risco (MS, 2022), isoimunização Rh; Caderno de Atenção Básica nº 32, Atenção ao Pré-Natal de Baixo Risco (2012)",
+  "coment": "O Coombs indireto pesquisa anticorpos anti-hemácias livres no soro materno. Na gestante Rh negativo, resultado negativo significa que ela não tem anticorpos anti-D circulantes, ou seja, não está sensibilizada; o exame é repetido ao longo da gestação, e ela deve receber imunoglobulina anti-D nas situações de risco de passagem de sangue fetal e no pós-parto, se o recém-nascido for Rh positivo. O exame não informa o Rh do feto. O Coombs direto, feito no recém-nascido, é que detecta anticorpos ligados às hemácias. Coombs positivo indica sensibilização e encaminhamento ao pré-natal de alto risco.",
+  "porAlt": [
+   "Errada: o Coombs indireto não determina o Rh fetal, e o risco persiste enquanto ela não for sensibilizada.",
+   "Errada: anticorpos atacando hemácias fetais corresponderiam a Coombs positivo, não negativo.",
+   "Correta: Coombs indireto negativo indica ausência de anticorpos anti-D, sem sensibilização.",
+   "Errada: o exame pesquisa anticorpos maternos e não diagnostica incompatibilidade ABO.",
+   "Errada: sensibilização com anticorpos daria Coombs positivo; anticorpos ligados às hemácias se veem no Coombs direto."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Diante o aumento de casos de tuberculose em um determinado município, as equipes de saúde fizeram um trabalho de busca ativa de sintomáticos respiratórios (SR) como estratégia para o diagnóstico e tratamento precoce.\nAcerca dessa conduta, analise as afirmativas a seguir.\nI. A busca ativa de SR consiste na identificação de indivíduos com tosse persistente, geralmente por três semanas ou mais.\nII. Durante a busca ativa, deve-se coletar duas amostras de escarro para baciloscopia, uma no momento da identificação e outra no dia seguinte.\nIII. A busca ativa deve se restringir aos contatos que morem na mesma casa ou pessoas que tenham tido contato próximo nos últimos 7 dias.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada, 2019 (MS)",
+  "coment": "Na busca ativa no território, sintomático respiratório é quem tem tosse por 3 semanas ou mais; para quem procura o serviço de saúde o corte é 2 semanas, e populações vulneráveis, como pessoas vivendo com HIV, privadas de liberdade ou em situação de rua, têm critérios próprios (I correto). Para baciloscopia, colhem-se duas amostras de escarro: uma no momento da identificação e outra na manhã seguinte, ao despertar; onde há teste rápido molecular, basta uma amostra (II correto). A busca ativa abrange a comunidade e grupos de maior risco, não só contatos domiciliares (III incorreto).",
+  "porAlt": [
+   "Errada: a coleta de duas amostras, uma na identificação e outra no dia seguinte, também está correta.",
+   "Correta: tosse por 3 semanas ou mais e duas amostras de escarro definem a busca ativa no território.",
+   "Errada: a busca ativa não se restringe a contatos domiciliares nem a 7 dias de convívio.",
+   "Errada: o item III limita indevidamente a busca ativa aos contatos próximos.",
+   "Errada: o item III é falso, pois a busca ativa alcança toda a comunidade e populações vulneráveis."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as diretrizes do Ministério da Saúde, a Rede de Atenção Psicossocial (RAPS) é composta por diferentes serviços e programas, organizados para atender pessoas com sofrimento ou transtornos mentais.\nNesse contexto, assinale a opção que apresenta corretamente um componente da RAPS e sua respectiva função.",
+  "alts": [
+   "Os leitos de saúde mental em hospital geral são destinados internações de curta duração para casos graves, crises ou intoxicações.",
+   "Os Centros de Atenção Psicossocial são serviços especializados, com foco predominante em consultas ambulatoriais programadas.",
+   "O Programa De Volta Para Casa são moradias comunitárias para a reinserção social de pessoas egressas de internações psiquiátricas prolongadas.",
+   "As Unidades de Acolhimento são serviços destinados ao manejo de crises agudas com necessidade de cuidado em regime fechado e supervisão contínua.",
+   "Os Serviços Residenciais Terapêuticos são destinados ao acolhimento transitório de pessoas com necessidades relacionadas ao uso de álcool e outras drogas."
+  ],
+  "gab": 0,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 3.088/2011 (RAPS), consolidada na Portaria de Consolidação 3/2017, Anexo V; Lei 10.708/2003 (Programa De Volta para Casa)",
+  "coment": "Os leitos de saúde mental em hospital geral compõem a atenção hospitalar da RAPS e oferecem internação de curta duração para situações graves, como crises, abstinência e intoxicação severa, até a estabilização. O CAPS é serviço comunitário, aberto e territorial, de atenção diária e também de crise, e não ambulatório de consultas programadas. O De Volta para Casa paga auxílio-reabilitação a egressos de longas internações psiquiátricas, sem ser moradia. A Unidade de Acolhimento é residência transitória para pessoas com necessidades ligadas a álcool e drogas, e as residências terapêuticas são moradias para egressos.",
+  "porAlt": [
+   "Correta: os leitos em hospital geral fazem internação breve para crises, abstinência e intoxicação graves.",
+   "Errada: o CAPS é serviço comunitário de atenção diária e de crise, não ambulatório de consultas programadas.",
+   "Errada: o De Volta para Casa é auxílio financeiro de reabilitação; moradia é a residência terapêutica.",
+   "Errada: a Unidade de Acolhimento é residencial, aberta e transitória, para álcool e outras drogas.",
+   "Errada: as residências terapêuticas são moradias de egressos de internação longa, não acolhimento para drogas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente, sem sinais de infecção prévia, evoluiu com mal-estar geral, febre e dor supra púbica, cerca de 4 dias após ser submetido à sondagem vesical de demora, sendo confirmada a ocorrência de infecção urinária.\nCom base nos conceitos relacionados ao tipo de infecção, o quadro apresentado é compatível com infecção",
+  "alts": [
+   "primária, pois corresponde ao primeiro evento infeccioso apresentado pelo paciente durante a internação hospitalar.",
+   "hospitalar, pois se manifestou após 72 horas da admissão e está associada a procedimento realizado no ambiente hospitalar.",
+   "comunitária, pois, pelo tempo decorrido, o agente etiológico pode ter sido adquirido previamente ao período de internação hospitalar.",
+   "endêmica, pois corresponde à ocorrência esperada de infecção relacionada à assistência à saúde e foi detectada durante a internação.",
+   "cruzada, pois se trata de um caso típico de contaminação que pode ter ocorrido por falha na adoção de técnicas assépticas durante o procedimento."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.616/1998, Anexo II (critérios de infecção hospitalar); ANVISA, Critérios Diagnósticos de Infecção Relacionada à Assistência à Saúde, 2017",
+  "coment": "Pela Portaria 2.616/1998, infecção hospitalar é a adquirida após a admissão e que se manifesta na internação ou após a alta, ligada à internação ou a procedimentos; sem evidência de incubação na admissão, considera-se hospitalar a que surge após 72 horas. A ANVISA hoje conta a partir do 3º dia de internação e chama de infecção do trato urinário associada a cateter a que ocorre com sonda há mais de 2 dias. Comunitária é a presente ou incubada na admissão. Primária é termo das infecções de corrente sanguínea, e endêmica descreve a taxa habitual, não o caso.",
+  "porAlt": [
+   "Errada: primária designa a infecção de corrente sanguínea sem foco, não o primeiro evento da internação.",
+   "Correta: surgiu após 72 horas da admissão e se associa à sonda vesical, logo é hospitalar.",
+   "Errada: sem sinais na admissão e com quadro após 4 dias de sonda, não é infecção comunitária.",
+   "Errada: endêmico descreve a frequência habitual de infecções no serviço, não classifica um caso.",
+   "Errada: infecção cruzada é transmissão entre pacientes, o que o caso não demonstra."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente de 58 anos, em tratamento quimioterápico, procurou atendimento em uma unidade de saúde, apresentado quadro clínico sugestivo de neutropenia febril.\nA respeito desse evento, assinale a afirmativa correta.",
+  "alts": [
+   "A neutropenia febril não requer intervenção imediata específica, apenas observação.",
+   "A neutropenia febril constitui emergência oncológica, devendo ser imediatamente tratada.",
+   "A febre em pacientes neutropênicos possui baixa relevância clínica e baixo risco de complicações graves.",
+   "A neutropenia febril é uma reação esperada e isolada à quimioterapia, geralmente de curso benigno.",
+   "A antibioticoterapia na neutropenia febril deve ser iniciada apenas após identificação do agente infeccioso."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "ASCO/IDSA, Outpatient Management of Fever and Neutropenia in Adults Treated for Malignancy (Taplitz et al., 2018); Resolução COFEN 569/2018",
+  "coment": "Neutropenia febril é febre, temperatura oral de 38,3 °C em medida única ou de 38 °C mantida por 1 hora, em paciente com neutrófilos abaixo de 500/mm³ ou com queda prevista abaixo desse valor. É emergência oncológica: sem neutrófilos, a infecção progride rápido para sepse com poucos sinais inflamatórios. A ASCO/IDSA pede avaliação imediata e antibiótico empírico de amplo espectro na primeira hora após a triagem, depois das hemoculturas e sem esperar a identificação do agente. A enfermagem prioriza o atendimento, colhe culturas, garante acesso e vigia sinais de choque.",
+  "porAlt": [
+   "Errada: a neutropenia febril exige avaliação e antibiótico imediatos, não apenas observação.",
+   "Correta: é emergência oncológica, com antibiótico empírico na primeira hora após a triagem.",
+   "Errada: a febre no neutropênico pode ser o único sinal de infecção grave e tem alto risco de sepse.",
+   "Errada: não é reação benigna esperada; é complicação potencialmente fatal da quimioterapia.",
+   "Errada: o antibiótico é empírico e não espera a identificação do agente, só a coleta das hemoculturas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma mulher de 55 anos, em tratamento radioterápico para câncer de mama, apresentou radiodermatite grau 2. Considerando a classificação das reações cutâneas induzidas pela radioterapia, assinale a opção que apresenta as características desse tipo de reação.",
+  "alts": [
+   "Eritema leve, descamação seca e ausência de exsudação na área irradiada.",
+   "Presença de ulceração, necrose ou sangramento espontâneo na pele irradiada.",
+   "Descamação úmida extensa, com comprometimento além das áreas de dobras.",
+   "Eritema moderado a intenso, com descamação úmida restrita às áreas de maior atrito.",
+   "Presença de sensibilidade local leve , sem alterações cutâneas visíveis ou significativas."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Common Terminology Criteria for Adverse Events (CTCAE) v5.0, NCI, 2017, dermatite por radiação; escala RTOG de toxicidade aguda",
+  "coment": "A radiodermatite é graduada pelo CTCAE e pela escala RTOG. Grau 1: eritema leve ou descamação seca. Grau 2: eritema moderado a intenso, descamação úmida em placas, restrita sobretudo a dobras e áreas de atrito, com edema moderado. Grau 3: descamação úmida além das dobras e sangramento por trauma leve. Grau 4: necrose, ulceração de espessura total e sangramento espontâneo. Na descamação úmida, a enfermagem orienta higiene suave, cobertura não aderente, roupas folgadas e proteção contra atrito e sol.",
+  "porAlt": [
+   "Errada: eritema leve com descamação seca corresponde ao grau 1.",
+   "Errada: ulceração, necrose ou sangramento espontâneo caracterizam o grau 4.",
+   "Errada: descamação úmida extensa, além das dobras, corresponde ao grau 3.",
+   "Correta: eritema moderado a intenso com descamação úmida nas dobras define o grau 2.",
+   "Errada: sensibilidade leve sem alteração visível não chega a configurar o grau 2."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um trabalhador de 34 anos, servidor público em atividade administrativa com uso contínuo de computador, procurou o serviço de saúde ocupacional com dor na face externa do cotovelo direito há dois meses, que piora com movimentos repetitivos do punho e ao segurar objetos, associada à diminuição da força. Ao exame, apresenta dor à mobilização resistida do punho, sem sinais inflamatórios ou edema.\nO quadro descrito é característico de",
+  "alts": [
+   "Epicondilite Lateral.",
+   "Bursite do Olécrano.",
+   "Síndrome do Túnel do Carpo.",
+   "Tenossinovite de De Quervain.",
+   "Tendinite dos Extensores do Punho."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Dor relacionada ao trabalho: LER/DORT, Protocolos de Complexidade Diferenciada (2012)",
+  "coment": "A epicondilite lateral é tendinopatia da origem dos músculos extensores do punho no epicôndilo lateral do úmero. Causa dor na face externa do cotovelo que piora com a extensão resistida do punho e ao segurar objetos, com perda de força de preensão e sem sinais inflamatórios evidentes. Está entre as LER/DORT ligadas a movimentos repetitivos do punho, como o uso contínuo de mouse e teclado. A bursite do olécrano dá edema na face posterior do cotovelo; o túnel do carpo, parestesia no território do nervo mediano; De Quervain, dor na estiloide radial.",
+  "porAlt": [
+   "Correta: dor na face lateral do cotovelo, pior com extensão resistida do punho e preensão, é epicondilite lateral.",
+   "Errada: a bursite do olécrano causa edema e dor na face posterior do cotovelo.",
+   "Errada: a síndrome do túnel do carpo dá parestesia nos dedos inervados pelo mediano, sobretudo à noite.",
+   "Errada: De Quervain causa dor na estiloide radial, na base do polegar, com teste de Finkelstein positivo.",
+   "Errada: a tendinite dos extensores dá dor no dorso do punho, não na face externa do cotovelo."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Nos últimos anos, observou-se o aumento na incidência do câncer colorretal, inclusive em faixas etárias mais jovens, o que tem reforçado a importância de estratégias de rastreamento e diagnóstico precoce.\nCom base nas recomendações da Organização Mundial da Saúde, assinale a opção que apresenta a principal estratégia de rastreamento desse tipo de câncer.",
+  "alts": [
+   "Pesquisa de sangue oculto nas fezes em pessoas com 25 anos ou mais.",
+   "Pesquisa de sangue oculto nas fezes em pessoas com 50 anos ou mais.",
+   "Endoscopia digestiva alta, a partir dos 40 anos para homens e dos 45 anos para mulheres.",
+   "Colonoscopia a partir dos 40 anos para homens e mulheres, independente de sintomas sugestivos.",
+   "Retossigmoidoscopia para homens e mulheres acima dos 25 anos que apresentem qualquer sintoma sugestivo."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "INCA, Detecção precoce do câncer (2021), câncer colorretal; IARC Handbooks of Cancer Prevention, vol. 17, Colorectal Cancer Screening (2019)",
+  "coment": "Para o câncer colorretal, a OMS, pela IARC, considera a pesquisa de sangue oculto nas fezes, de preferência pelo teste imunoquímico, a principal estratégia de rastreamento populacional em pessoas a partir de 50 anos, com colonoscopia para confirmar os resultados positivos. Endoscopia digestiva alta não examina o cólon. A colonoscopia é exame diagnóstico ou alternativa de rastreamento, não estratégia populacional a partir de 40 anos. Pessoa com sintoma sugestivo, como sangramento retal ou mudança do hábito intestinal, não está em rastreamento: precisa de investigação diagnóstica.",
+  "porAlt": [
+   "Errada: o rastreamento populacional começa aos 50 anos, não aos 25.",
+   "Correta: pesquisa de sangue oculto nas fezes a partir dos 50 anos é a principal estratégia de rastreamento.",
+   "Errada: a endoscopia digestiva alta avalia esôfago, estômago e duodeno, não o cólon.",
+   "Errada: a colonoscopia não é a estratégia populacional recomendada a partir dos 40 anos.",
+   "Errada: quem tem sintoma faz investigação diagnóstica, e 25 anos não é idade de rastreamento."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As políticas de promoção da equidade no Sistema Único de Saúde (SUS) buscam reduzir desigualdades históricas no acesso e nos resultados em saúde.\nCom base nas disposições normativas acerca da equidade e suas políticas e programas, analise as afirmativas a seguir.\nI. A equidade é um dos princípios doutrinários do Sistema Único de Saúde e tem relação direta com os conceitos de igualdade e de justiça.\nII. Entre as ações e programas com foco na promoção da equidade estão aqueles voltados para a população em situação de rua, migrantes, refugiados e povos tradicionais.\nIII. As políticas de promoção da equidade orientam a organização das ações e serviços de saúde, de modo a priorizar grupos em maior vulnerabilidade, considerando diferenças sociais, econômicas e culturais.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), princípio da equidade; Decreto 7.508/2011, art. 13; Lei 8.080/1990, art. 7º",
+  "coment": "A doutrina do SUS reúne universalidade, integralidade e equidade como princípios doutrinários; a equidade une igualdade e justiça ao tratar de modo diferente quem tem necessidades diferentes (I correto). O art. 7º da Lei 8.080/1990 fala em igualdade sem preconceitos ou privilégios, e a palavra equidade aparece na PNAB e no Decreto 7.508/2011. O Ministério mantém políticas e ações de equidade para população em situação de rua, população negra, povos indígenas e tradicionais, LGBT, campo, floresta e águas, migrantes e refugiados (II correto). Essas políticas orientam a organização dos serviços para priorizar os grupos mais vulneráveis (III correto).",
+  "porAlt": [
+   "Errada: os itens sobre os grupos atendidos e sobre a priorização dos vulneráveis também estão corretos.",
+   "Errada: a priorização de grupos vulneráveis é o núcleo das políticas de equidade, logo o item III está certo.",
+   "Errada: população em situação de rua, migrantes, refugiados e povos tradicionais são alvos das políticas de equidade.",
+   "Errada: a equidade é princípio doutrinário ligado à igualdade e à justiça, logo o item I está certo.",
+   "Correta: os três itens descrevem a equidade e as políticas que a promovem no SUS."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente de 35 anos deu entrada no pronto atendimento apresentando queimadura por líquido superaquecido, apresentando lesão cutânea com bolhas, base úmida, coloração eritematosa e dor intensa à palpação.\nConsiderando a classificação das queimaduras quanto à profundidade, o caso apresentado corresponde a uma queimadura de",
+  "alts": [
+   "1º grau.",
+   "2º grau.",
+   "3º grau.",
+   "4º grau.",
+   "5º grau."
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Queimaduras",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Cartilha para tratamento de emergência das queimaduras (2012)",
+  "coment": "A cartilha do Ministério da Saúde classifica a profundidade em três graus. Primeiro grau atinge só a epiderme: eritema e dor, sem bolhas. Segundo grau, ou espessura parcial, atinge a epiderme e parte da derme: bolhas, base rosada e úmida e dor intensa, como na escaldadura do caso. Terceiro grau, ou espessura total, destrói toda a derme: pele esbranquiçada ou escura, seca, endurecida e pouco dolorosa, porque as terminações nervosas foram destruídas. A conduta inicial é resfriar com água corrente, nunca gelo, e cobrir com material limpo.",
+  "porAlt": [
+   "Errada: a queimadura de 1º grau causa eritema e dor, sem formar bolhas.",
+   "Correta: bolhas, base úmida e eritematosa e dor intensa caracterizam o 2º grau.",
+   "Errada: a de 3º grau é seca, esbranquiçada ou escura e pouco dolorosa, sem bolhas.",
+   "Errada: o termo 4º grau, quando usado, descreve lesão de músculo ou osso, longe do caso.",
+   "Errada: não existe queimadura de 5º grau na classificação por profundidade."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente adulto procurou atendimento com quadro respiratório agudo, iniciado há 48 horas, apresentando febre e tosse.\nDurante a avaliação inicial foram identificados alguns sinais de gravidade que caracterizam um quadro de síndrome respiratória aguda grave (SRAG).\nNesse contexto, assinale a opção que indica dois desses sinais.",
+  "alts": [
+   "Cefaleia intensa e calafrios.",
+   "Palidez e saturação de O2 ≤ 96%.",
+   "Saturação de O2 ≤ 94% e dispneia.",
+   "Hiperpneia e cianose de extremidade.",
+   "Desconforto respiratório e odinofagia."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Guia de Vigilância em Saúde, 6ª ed., 2023 (influenza e outros vírus respiratórios, definição de SRAG); Portaria GM/MS 11.211/2026",
+  "coment": "Síndrome gripal é febre, mesmo referida, com tosse ou dor de garganta. Pela definição do Ministério da Saúde, é síndrome respiratória aguda grave a síndrome gripal com dispneia ou desconforto respiratório, ou pressão ou dor persistente no tórax, ou saturação de O2 abaixo de 95% em ar ambiente, ou cianose dos lábios ou do rosto. Saturação de 94% ou menos e dispneia são, portanto, dois sinais de SRAG. A Portaria 11.211/2026 mantém na lista de notificação a SRAG hospitalizada e o óbito por SRAG.",
+  "porAlt": [
+   "Errada: cefaleia e calafrios são sintomas inespecíficos de síndrome gripal, não sinais de gravidade.",
+   "Errada: palidez não é critério, e saturação de 95% ou 96% não configura SRAG.",
+   "Correta: saturação de 94% ou menos e dispneia são critérios de SRAG.",
+   "Errada: hiperpneia não é critério, e a cianose que conta é a dos lábios ou do rosto.",
+   "Errada: odinofagia é sintoma da síndrome gripal e não indica gravidade."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "MPES 2026, Enfermeiro",
+   "n": 45,
+   "parte": "especificas"
+  }
+ }
+]

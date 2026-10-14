@@ -1,0 +1,1352 @@
+[
+ {
+  "q": "Assinale a opção que apresenta, corretamente, um objetivo do Sistema Único de Saúde – SUS.",
+  "alts": [
+   "Integração em nível executivo das ações de saúde, meio ambiente e saneamento básico.",
+   "Organização dos serviços públicos de modo a evitar duplicidade de meios para fins idênticos.",
+   "Identificação e divulgação dos fatores condicionantes e determinantes da saúde.",
+   "Capacidade de resolução dos serviços em todos os níveis de assistência."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, arts. 5º e 7º",
+  "coment": "O art. 5º da Lei 8.080/1990 lista três objetivos do SUS: identificar e divulgar os fatores condicionantes e determinantes da saúde; formular a política de saúde que promova, nos campos econômico e social, a redução de riscos; e prestar assistência por meio de ações de promoção, proteção e recuperação. As outras alternativas copiam princípios do art. 7º (incisos X a XIII): integração executiva com meio ambiente e saneamento, capacidade de resolução e organização sem duplicidade de meios. A banca troca objetivo por princípio; vale decorar os três objetivos.",
+  "porAlt": [
+   "Errada: a integração em nível executivo com meio ambiente e saneamento é princípio do art. 7º, inciso X, e não objetivo.",
+   "Errada: evitar duplicidade de meios para fins idênticos é princípio do art. 7º, inciso XIII.",
+   "Correta: identificar e divulgar os fatores condicionantes e determinantes da saúde é o primeiro objetivo do art. 5º.",
+   "Errada: a capacidade de resolução dos serviços em todos os níveis é princípio do art. 7º, inciso XII."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 37,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Assinale a opção que apresenta o princípio que foi acrescentado ao Sistema Único de Saúde, em 2023.",
+  "alts": [
+   "Organizar atendimento público específico e especializado para mulheres e vítimas de violência doméstica em geral.",
+   "Divulgar informações quanto ao potencial dos serviços de saúde e da sua utilização pelo usuário.",
+   "Utilizar a epidemiologia para estabelecer prioridades, a alocação de recursos e a orientação programática.",
+   "Proteger integralmente os direitos humanos de todos os usuários e, em especial, identificar maus-tratos, negligência e violência sexual praticados contra crianças e adolescentes."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 7º, XV, incluído pela Lei 14.679/2023",
+  "coment": "A Lei 14.679/2023 incluiu no art. 7º da Lei 8.080/1990 o inciso XV: proteção integral dos direitos humanos de todos os usuários e especial atenção à identificação de maus-tratos, negligência e violência sexual contra crianças e adolescentes. O atendimento específico a mulheres e vítimas de violência doméstica é o inciso XIV, de 2017 (Lei 13.427). Divulgar informações sobre os serviços e usar a epidemiologia para definir prioridades são princípios originais de 1990. Depois da prova, a Lei 15.126/2025 acrescentou o inciso XVI, atenção humanizada.",
+  "porAlt": [
+   "Errada: o atendimento específico a mulheres e vítimas de violência doméstica é o inciso XIV, incluído pela Lei 13.427/2017.",
+   "Errada: divulgar o potencial dos serviços e sua utilização pelo usuário é princípio original de 1990 (inciso VI).",
+   "Errada: usar a epidemiologia para prioridades, recursos e orientação programática é princípio original (inciso VII).",
+   "Correta: a proteção integral dos direitos humanos com atenção a maus-tratos e violência sexual contra crianças e adolescentes é o inciso XV, de 2023."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 38,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Com base nas disposições da Lei nº 8.080/90 acerca do acompanhamento à mulher nos serviços de saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Em consultas, exames e procedimentos realizados em unidades de saúde públicas ou privadas, toda mulher tem o direito de fazer-se acompanhar por pessoa maior de idade, durante todo o período do atendimento, independentemente de notificação prévia.\n( ) Em caso de atendimento com sedação, a eventual renúncia da paciente ao direito de acompanhante deverá ser feita por escrito, após o esclarecimento dos seus direitos, com no mínimo 24 (vinte e quatro) horas de antecedência, assinada por ela e arquivada em seu prontuário.\n( ) Em casos de urgência e emergência, os profissionais de saúde ficam autorizados a agir na proteção e defesa da saúde e da vida da paciente, ainda que na ausência do acompanhante requerido.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – F.",
+   "V – V – V.",
+   "F – F – V.",
+   "V – F – V."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 19-J, com redação da Lei 14.737/2023",
+  "coment": "A Lei 14.737/2023 reescreveu o art. 19-J da Lei 8.080/1990. Toda mulher tem direito a acompanhante maior de idade em consultas, exames e procedimentos, em serviços públicos ou privados, durante todo o atendimento e sem notificação prévia. Quando há sedação ou rebaixamento de consciência, a renúncia ao acompanhante só vale por escrito, depois de esclarecidos os direitos, com pelo menos 24 horas de antecedência, assinada pela paciente e arquivada no prontuário. Na urgência e emergência, a equipe pode agir para proteger a vida mesmo sem o acompanhante. As três afirmativas reproduzem a lei: V, V, V.",
+  "porAlt": [
+   "Errada: a primeira e a terceira afirmativas são verdadeiras, porque reproduzem o caput e a regra de urgência do art. 19-J.",
+   "Correta: as três afirmativas estão no art. 19-J, incluindo a renúncia escrita com 24 horas de antecedência no atendimento com sedação.",
+   "Errada: a primeira e a segunda também são verdadeiras; o direito independe de aviso prévio e a renúncia exige forma escrita e antecedência.",
+   "Errada: a segunda afirmativa é verdadeira; a renúncia em atendimento com sedação exige documento escrito com 24 horas de antecedência."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 39,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Os Programas de Qualidade de Vida e Saúde para os Trabalhadores da Saúde e o Colegiado Gestor fazem parte do seguinte elemento da Politica Nacional de Humanização.",
+  "alts": [
+   "Valores.",
+   "Princípios.",
+   "Diretrizes.",
+   "Dispositivos."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Política Nacional de Humanização (HumanizaSUS), Ministério da Saúde, 2003",
+  "coment": "A PNH se organiza em princípios (transversalidade, indissociabilidade entre atenção e gestão, protagonismo e autonomia dos sujeitos), diretrizes (acolhimento, gestão participativa e cogestão, ambiência, clínica ampliada, valorização do trabalhador, defesa dos direitos do usuário) e dispositivos. Dispositivos são as ferramentas concretas que põem as diretrizes em prática: colegiado gestor, visita aberta e acompanhante, projeto terapêutico singular, apoio matricial e os programas de qualidade de vida e saúde para os trabalhadores. Os valores do documento-base são ideias, como autonomia, corresponsabilidade e vínculos solidários, e não arranjos de trabalho.",
+  "porAlt": [
+   "Errada: os valores da PNH são ideias norteadoras, como autonomia, corresponsabilidade e vínculos solidários, e não ferramentas de gestão.",
+   "Errada: os princípios são transversalidade, indissociabilidade entre atenção e gestão e protagonismo dos sujeitos.",
+   "Errada: as diretrizes são orientações gerais, como acolhimento, cogestão e valorização do trabalhador, e não ferramentas concretas.",
+   "Correta: colegiado gestor e programas de qualidade de vida e saúde do trabalhador são dispositivos, ferramentas que operam as diretrizes."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 41,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Com base nos Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Em serviços de saúde com mais de vinte trabalhadores é obrigatória a instituição de Comissão Interna de Prevenção de Acidentes - CIPA.\n( ) O serviço de saúde deve garantir que o prontuário contenha registros relativos à identificação e todos os procedimentos prestados ao paciente.\n( ) O serviço de saúde deve garantir que os trabalhadores sejam avaliados, no mínimo, uma vez ao ano em relação à saúde ocupacional.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – V – V.",
+   "F – V – F.",
+   "V – V – F.",
+   "V – F – F."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 63/2011, arts. 26, 44 e 49",
+  "coment": "A RDC 63/2011 traz os requisitos de Boas Práticas de Funcionamento dos serviços de saúde. O art. 49 torna obrigatória a CIPA em serviços com mais de vinte trabalhadores, e o art. 26 manda que o prontuário contenha registros da identificação e de todos os procedimentos prestados ao paciente. O art. 44 exige que os trabalhadores sejam avaliados periodicamente quanto à saúde ocupacional, com registro, mas não fixa a periodicidade mínima anual: por isso a terceira afirmativa é falsa. Sequência V, V, F.",
+  "porAlt": [
+   "Errada: a terceira afirmativa é falsa, porque o art. 44 fala em avaliação periódica e não em no mínimo uma vez ao ano.",
+   "Errada: a primeira afirmativa é verdadeira; o art. 49 exige CIPA em serviços com mais de vinte trabalhadores.",
+   "Correta: CIPA acima de vinte trabalhadores e prontuário completo estão nos arts. 49 e 26; a avaliação ocupacional é periódica, sem prazo anual.",
+   "Errada: a segunda afirmativa é verdadeira; o art. 26 exige registro da identificação e de todos os procedimentos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 42,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde, assinale a afirmativa correta.",
+  "alts": [
+   "O usuário tem direito a acompanhante, pessoa de sua livre escolha, nas consultas e exames.",
+   "O atendimento nos serviços de saúde deve ser sempre com hora marcada.",
+   "O usuário tem liberdade de procurar parecer de outro profissional, exceto em casos com impedimento legal.",
+   "Toda pessoa previamente cadastrada tem direito a participar dos conselhos e das conferências de saúde."
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CNS 553/2017 (Carta dos Direitos e Deveres da Pessoa Usuária da Saúde)",
+  "coment": "A Carta dos Direitos e Deveres da Pessoa Usuária da Saúde, publicada pela Portaria GM/MS 1.820/2009 e atualizada pela Resolução CNS 553/2017, garante acompanhante de livre escolha nas consultas e exames. A segunda opinião ou parecer de outro profissional pode ser buscada em qualquer fase do tratamento, sem a ressalva de impedimento legal. A participação em conselhos e conferências é direito de toda pessoa, sem cadastro prévio. E o atendimento agendado não significa que todo atendimento deva ser com hora marcada, o que excluiria a demanda espontânea e a urgência.",
+  "porAlt": [
+   "Correta: a Carta assegura acompanhante de livre escolha da pessoa nas consultas e exames.",
+   "Errada: a Carta prevê atendimento agendado quando possível, mas não exige hora marcada sempre, o que excluiria urgência e demanda espontânea.",
+   "Errada: a busca de segunda opinião ou parecer é livre em qualquer fase do tratamento, sem a exceção de impedimento legal.",
+   "Errada: a participação em conselhos e conferências é direito de toda pessoa e não depende de cadastro prévio."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 43,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com as disposições normativas acerca da segurança do paciente, os eventos adversos que evoluírem para óbito devem ser notificados em até",
+  "alts": [
+   "12 horas, a partir do ocorrido.",
+   "24 horas, a partir do ocorrido.",
+   "48 horas, a partir do ocorrido.",
+   "72 horas, a partir do ocorrido."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 10, parágrafo único",
+  "coment": "A RDC 36/2013 institui as ações para a segurança do paciente e define os prazos de notificação pelo Núcleo de Segurança do Paciente no Notivisa. Os eventos adversos em geral são notificados mensalmente, até o 15º dia útil do mês seguinte (art. 10). Os eventos adversos que evoluem para óbito têm prazo próprio: até 72 horas a partir do ocorrido (art. 10, parágrafo único). Não confundir com as 72 horas da profilaxia pós-exposição ao HIV, que vêm de outra norma.",
+  "porAlt": [
+   "Errada: a RDC 36/2013 não prevê prazo de 12 horas; o óbito por evento adverso se notifica em até 72 horas.",
+   "Errada: 24 horas não é o prazo da RDC 36/2013 para evento adverso com óbito.",
+   "Errada: 48 horas não é o prazo da norma; o parágrafo único do art. 10 fixa 72 horas.",
+   "Correta: o evento adverso que evolui para óbito deve ser notificado em até 72 horas a partir do ocorrido."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 44,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Com base nas disposições da Lei nº 8.142/90, analise as afirmativas a seguir.\nI. O Conselho de Saúde é um órgão colegiado responsável por avaliar a situação de saúde e propor diretrizes para formulação da política de saúde.\nII. Um dos requisitos para que Estados e Municípios recebam os recursos destinados à cobertura das ações e serviços de saúde é a elaboração do Plano de Saúde.\nIII. Os Municípios poderão estabelecer consórcio para execução de ações e serviços de saúde.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "II e III, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, arts. 1º, 3º e 4º",
+  "coment": "A afirmativa I descreve a Conferência de Saúde, que se reúne a cada quatro anos para avaliar a situação de saúde e propor diretrizes (art. 1º, § 1º). O Conselho é permanente e deliberativo e atua na formulação de estratégias e no controle da execução da política (§ 2º). A II é verdadeira: o Plano de Saúde está entre os requisitos para estados e municípios receberem os recursos (art. 4º), ao lado de fundo, conselho, relatórios de gestão, contrapartida de recursos e comissão de plano de carreira. A III também: os municípios podem formar consórcio para executar ações e serviços (art. 3º, § 3º).",
+  "porAlt": [
+   "Errada: a afirmativa I atribui ao Conselho o papel da Conferência e é falsa.",
+   "Correta: o Plano de Saúde é requisito para receber recursos (art. 4º) e os municípios podem formar consórcios (art. 3º, § 3º).",
+   "Errada: inclui a I, que descreve a Conferência de Saúde e não o Conselho.",
+   "Errada: inclui a I, falsa, e deixa de fora a II, que é requisito do art. 4º."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 45,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Conforme disposições sobre a organização do SUS, o conjunto de ações e serviços de saúde, articulados em níveis de complexidade crescente com a finalidade de garantir a integralidade da assistência à saúde, corresponde ao(à)",
+  "alts": [
+   "Mapa de Saúde.",
+   "Região de Saúde.",
+   "Rede de Atenção à Saúde.",
+   "Serviços Especiais de Acesso Aberto."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, art. 2º",
+  "coment": "O art. 2º do Decreto 7.508/2011 traz as definições da organização do SUS. Rede de Atenção à Saúde é o conjunto de ações e serviços articulados em níveis de complexidade crescente, com a finalidade de garantir a integralidade da assistência. Região de Saúde é o espaço geográfico contínuo formado por municípios limítrofes; Mapa da Saúde é a descrição geográfica da distribuição de recursos e serviços do SUS e da iniciativa privada; serviços especiais de acesso aberto atendem o usuário que, por agravo ou situação laboral, precisa de atendimento especial.",
+  "porAlt": [
+   "Errada: o Mapa da Saúde descreve a distribuição geográfica dos recursos humanos, ações e serviços, não o conjunto articulado de serviços.",
+   "Errada: a Região de Saúde é o espaço geográfico de municípios limítrofes, com identidades e infraestrutura compartilhadas.",
+   "Correta: é a definição literal de Rede de Atenção à Saúde no art. 2º do Decreto 7.508/2011.",
+   "Errada: serviços especiais de acesso aberto atendem pessoas que precisam de atendimento especial por agravo ou situação laboral."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 46,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Assinale a opção que indica a autora da teoria de enfermagem que entende a pessoa como um sistema adaptativo e holístico e inclui a noção de estímulos que interagem com as pessoas e desencadeiam respostas.",
+  "alts": [
+   "Callista Roy.",
+   "Wanda Horta.",
+   "Dorothea Orem.",
+   "Florence Nightingale."
+  ],
+  "gab": 0,
+  "tema": "sae",
+  "sub": "Teorias de enfermagem",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Roy C. The Roy Adaptation Model, 3ª ed., 2009",
+  "coment": "No Modelo de Adaptação de Callista Roy, a pessoa é um sistema adaptativo holístico que recebe estímulos do ambiente: focal, contextual e residual. Os mecanismos regulador e cognato processam esses estímulos e geram respostas em quatro modos adaptativos: fisiológico, autoconceito, função de papel e interdependência. A enfermagem promove respostas adaptativas. Wanda Horta trabalha as necessidades humanas básicas; Orem, o autocuidado e seus déficits; Nightingale, o ambiente como fator de recuperação.",
+  "porAlt": [
+   "Correta: Roy descreve a pessoa como sistema adaptativo holístico que responde a estímulos focal, contextual e residual.",
+   "Errada: Wanda Horta formulou a teoria das Necessidades Humanas Básicas, apoiada em Maslow.",
+   "Errada: Dorothea Orem formulou a teoria do autocuidado, do déficit de autocuidado e dos sistemas de enfermagem.",
+   "Errada: Florence Nightingale centrou sua teoria no ambiente (ar, luz, limpeza, ruído) como base da recuperação."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com os conceitos e definições usados na taxonomia da Nanda, o eixo 6 - tempo descreve a duração do foco do diagnóstico que pode ser agudo, crônico, intermitente ou contínuo.\nCom base nisso, um foco agudo é aquele com duração",
+  "alts": [
+   "cíclica.",
+   "< 3 meses.",
+   "≥ 3 meses.",
+   "ininterrupta."
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NANDA International. Diagnósticos de enfermagem: definições e classificação 2021-2023, sistema multiaxial (eixo 6, tempo)",
+  "coment": "No sistema multiaxial da NANDA-I, o eixo tempo descreve a duração do foco diagnóstico. Agudo é o que dura menos de 3 meses; crônico, 3 meses ou mais; intermitente, o que para e recomeça em intervalos, cíclico ou periódico; contínuo, o ininterrupto. Por isso Dor aguda e Dor crônica são diagnósticos distintos, separados pelo corte de 3 meses. A edição vigente da classificação é a 13ª (2024-2026), e o raciocínio sobre duração continua o mesmo para a prova.",
+  "porAlt": [
+   "Errada: o foco que para e recomeça de forma cíclica ou periódica é o intermitente, não o agudo.",
+   "Correta: agudo, no eixo tempo da NANDA-I, é o foco com duração inferior a 3 meses.",
+   "Errada: duração de 3 meses ou mais define o foco crônico.",
+   "Errada: o foco ininterrupto é o contínuo, outra categoria do mesmo eixo."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente apresenta sinais de infecção no pé diabético com as seguintes características: sem manifestações sistêmicas, presença de eritema que se estende > 2cm da margem da ulcera e envolvimento de tendão e músculo.\nNesse caso, a infecção é classificada como",
+  "alts": [
+   "leve.",
+   "grave.",
+   "severa.",
+   "moderada."
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Pé diabético e úlceras vasculares",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretriz IWGDF/IDSA 2023 sobre diagnóstico e tratamento da infecção do pé diabético",
+  "coment": "A classificação IWGDF/IDSA gradua a infecção do pé diabético em quatro níveis. Leve: infecção limitada à pele e ao subcutâneo, com eritema de até 2 cm da margem da úlcera. Moderada: eritema que se estende além de 2 cm ou envolvimento de estruturas mais profundas que pele e subcutâneo (tendão, músculo, articulação, osso, fáscia), sem sinais sistêmicos. Grave: qualquer infecção do pé com manifestações sistêmicas, como febre, taquicardia, taquipneia ou leucocitose. O caso tem eritema maior que 2 cm e tendão e músculo acometidos, sem repercussão sistêmica: moderada.",
+  "porAlt": [
+   "Errada: a infecção leve fica restrita à pele e ao subcutâneo, com eritema de até 2 cm.",
+   "Errada: a infecção grave exige manifestações sistêmicas, ausentes no caso.",
+   "Errada: severa é sinônimo de grave e também exige sinais sistêmicos de inflamação.",
+   "Correta: eritema além de 2 cm e acometimento de tendão e músculo, sem sinais sistêmicos, definem infecção moderada."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Se a taxa de letalidade de uma determinada doença é de 1,8%, isso significa que a cada",
+  "alts": [
+   "100 pessoas contaminadas por essa doença, aproximadamente 1,8 morrem.",
+   "100 pessoas expostas a essa doença, aproximadamente 1,8 morrem.",
+   "1.800 pessoas expostas a essa doença, aproximadamente 100 morrem.",
+   "1.800 pessoas contaminadas por essa doença, aproximadamente 100 morrem."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 2024",
+  "coment": "Letalidade é a razão entre óbitos por uma doença e o número de casos dessa doença, expressa em percentual. Mede a gravidade da doença e a qualidade da assistência. Letalidade de 1,8% significa que, de cada 100 doentes, cerca de 1,8 morrem. O denominador são os casos, as pessoas que adoeceram ou se infectaram, e não os expostos nem a população. Quando o denominador é a população total, o indicador é a mortalidade específica.",
+  "porAlt": [
+   "Correta: a letalidade divide os óbitos pelos casos da doença; 1,8% equivale a 1,8 óbitos em cada 100 doentes.",
+   "Errada: expostos não são o denominador da letalidade; nem todo exposto adoece.",
+   "Errada: inverte a proporção e usa expostos; 100 óbitos em 1.800 dariam cerca de 5,6%.",
+   "Errada: 100 óbitos em 1.800 casos correspondem a cerca de 5,6%, não a 1,8%."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante o mês de outubro, um órgão público intensificou as ações de prevenção e controle do câncer de mama. Entre as ações executadas estavam orientações acerca do rastreamento e dos sinais e sintomas suspeitos de câncer de mama (para homens e mulheres), incluindo aqueles que indicam referência urgente para a confirmação diagnóstica.\nAcerca dessas orientações, assinale a afirmativa correta.",
+  "alts": [
+   "Qualquer nódulo mamário em mulheres com mais de 40 anos de idade é um sinal importante e indica a necessidade de investigação específica.",
+   "Homens acima de 35 anos com tumoração palpável unilateral, dolorosa e móvel, devem ser encaminhados para investigação diagnóstica.",
+   "Lesão eczematosa da pele na região axilar, que respondem ao tratamento tópico mas ocorreram mais de uma vez ao ano, representam risco elevado.",
+   "Nódulo mamário em mulheres com mais de 30 anos, que persistem por mais de um ciclo menstrual, é considerado um sinal de referência urgente."
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "INCA. Diretrizes para a detecção precoce do câncer de mama no Brasil, 2015",
+  "coment": "O INCA lista sinais e sintomas que exigem referência urgente para confirmação diagnóstica. Entre eles: qualquer nódulo mamário em mulheres com mais de 50 anos; nódulo em mulheres com mais de 30 anos que persiste por mais de um ciclo menstrual; nódulo endurecido, fixo ou em crescimento em qualquer idade; descarga papilar sanguinolenta unilateral; lesão eczematosa que não responde a tratamento tópico; tumoração palpável unilateral em homens com mais de 50 anos; linfonodo axilar; pele em casca de laranja, retração da pele ou mudança no mamilo. A alternativa correta reproduz o segundo item.",
+  "porAlt": [
+   "Errada: o critério de qualquer nódulo mamário vale para mulheres com mais de 50 anos, e não 40.",
+   "Errada: o critério em homens é tumoração palpável unilateral acima de 50 anos; dor e mobilidade não são o que define.",
+   "Errada: o sinal de alerta é a lesão eczematosa que não responde ao tratamento tópico.",
+   "Correta: nódulo em mulher com mais de 30 anos que persiste por mais de um ciclo menstrual é sinal de referência urgente."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente com transtorno afetivo bipolar apresenta tipicamente episódios de mania e depressão, que podem se alternar, ou ter a predominância de um ou do outro.\nAssinale a opção que apresenta uma das características dos episódios de mania.",
+  "alts": [
+   "Pensamentos recorrentes de morte.",
+   "Insônia ou hipersonia quase diária.",
+   "Autoestima inflada ou grandiosidade.",
+   "Perda ou ganho significativo de peso sem fazer dieta."
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "American Psychiatric Association. DSM-5-TR, 2022, critérios de episódio maníaco",
+  "coment": "O episódio maníaco do DSM-5-TR é um período de humor anormal e persistentemente elevado, expansivo ou irritável, com aumento de energia, durante pelo menos uma semana. Os sintomas incluem autoestima inflada ou grandiosidade, necessidade de sono diminuída, loquacidade, fuga de ideias, distraibilidade, agitação psicomotora e envolvimento em atividades de risco. Pensamentos de morte, insônia ou hipersonia quase diária e alteração de peso sem dieta são critérios do episódio depressivo maior.",
+  "porAlt": [
+   "Errada: pensamentos recorrentes de morte são critério do episódio depressivo maior.",
+   "Errada: insônia ou hipersonia quase diária é critério depressivo; na mania há redução da necessidade de sono sem cansaço.",
+   "Correta: autoestima inflada ou grandiosidade é sintoma característico do episódio maníaco.",
+   "Errada: perda ou ganho significativo de peso sem dieta é critério do episódio depressivo."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Ministério da Saúde (MS), em fevereiro de 2024, iniciou a distribuição das vacinas contra dengue para os municípios considerados prioritários. Diante do número limitado de doses, o MS orientou que a vacinação fosse iniciada pela seguinte faixa etária:",
+  "alts": [
+   "08 a 10 anos.",
+   "10 a 11 anos.",
+   "11 a 12 anos.",
+   "12 a 14 anos."
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "Em fevereiro de 2024 o Ministério da Saúde começou a distribuir a vacina dengue atenuada (DNG4, Takeda) aos municípios prioritários. Com poucas doses, a vacinação começou pelas crianças de 10 a 11 anos e depois foi ampliada. Hoje a Instrução Normativa do Calendário 2026 indica a vacina para 10 anos a 14 anos, 11 meses e 29 dias: duas doses, a partir dos 10 anos, com intervalo de 3 meses, por via exclusivamente subcutânea.",
+  "porAlt": [
+   "Errada: crianças de 8 e 9 anos ficaram fora da estratégia; a vacina no SUS começa aos 10 anos.",
+   "Correta: a estratégia de 2024 começou pela faixa de 10 a 11 anos, por causa do número limitado de doses.",
+   "Errada: a faixa inicial foi de 10 a 11 anos; os 12 anos entraram depois, com a ampliação.",
+   "Errada: de 12 a 14 anos foi faixa de ampliação; hoje o público vai de 10 a 14 anos, 11 meses e 29 dias."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Relacione os tipos de radioterapia interna apresentados a seguir às suas respectivas definições.\n1. Radioterapia intersticial\n2. Radioterapia intracavitária\n3. Radioterapia metabólica\n( ) A fonte de radiação é administrada por meio de soluções ou cápsulas. ( ex: tratamento de tireoide por meio de isótopo 131 de iodo).\n( ) A fonte radioativa é colocada em cavidades anatômicas por meio de aplicadores. ( ex: útero e vagina).\n( ) A fonte radioativa é colocada por meio de implantes intersticiais temporários. (ex: tumores de mama, vagina, de cabeça e pescoço).\nAssinale a opção que apresenta a relação correta, segundo a ordem apresentada.",
+  "alts": [
+   "1 – 2 – 3.",
+   "2 – 3 – 1.",
+   "1 – 3 – 2.",
+   "3 – 2 – 1."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "INCA. Ações de enfermagem para o controle do câncer: uma proposta de integração ensino-serviço, 3ª ed., 2008",
+  "coment": "Na radioterapia interna, a fonte fica dentro do corpo. Na metabólica, o radioisótopo é dado por via oral ou venosa e se concentra no tecido-alvo, como o iodo-131 na tireoide. Na intracavitária, aplicadores levam a fonte a cavidades anatômicas, como útero e vagina. Na intersticial, a fonte é implantada no próprio tecido, em implantes temporários ou permanentes, como na mama e em cabeça e pescoço. A ordem dos parênteses é metabólica, intracavitária e intersticial: 3, 2, 1.",
+  "porAlt": [
+   "Errada: a fonte administrada por solução ou cápsula, como o iodo-131, é a radioterapia metabólica (3), não a intersticial.",
+   "Errada: o primeiro parêntese descreve a metabólica (3) e o segundo, a intracavitária (2).",
+   "Errada: inverte a intersticial e a metabólica; o iodo-131 em cápsula é metabólica.",
+   "Correta: iodo-131 em cápsula é metabólica (3), aplicador em útero e vagina é intracavitária (2) e implante no tecido é intersticial (1)."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o manejo clínico da dengue (Ministério da Saúde), um paciente com quadro suspeito de dengue apresentando dor abdominal intensa, vômitos persistentes e hipotensão postural deve ser classificado como",
+  "alts": [
+   "Grupo A – azul.",
+   "Grupo B - verde.",
+   "Grupo C – amarelo.",
+   "Grupo D – vermelho."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed., 2024",
+  "coment": "O manejo da dengue classifica o caso suspeito em quatro grupos. A: sem sinais de alarme, sem condição especial ou risco social. B: sem sinais de alarme, mas com sangramento de pele espontâneo ou induzido (prova do laço) ou condição especial. C: com sinais de alarme, entre eles dor abdominal intensa e contínua, vômitos persistentes, hipotensão postural ou lipotimia, sangramento de mucosa, letargia, hepatomegalia e aumento do hematócrito. D: choque ou disfunção grave de órgão. O paciente tem três sinais de alarme e nenhum sinal de choque: Grupo C, amarelo, com hidratação venosa imediata.",
+  "porAlt": [
+   "Errada: o Grupo A é o caso sem sinais de alarme, sem condição especial e sem sangramento.",
+   "Errada: o Grupo B não tem sinais de alarme; dor abdominal intensa, vômitos persistentes e hipotensão postural são alarme.",
+   "Correta: dor abdominal intensa, vômitos persistentes e hipotensão postural são sinais de alarme e definem o Grupo C.",
+   "Errada: o Grupo D exige sinais de choque ou disfunção grave de órgão, e hipotensão postural isolada é sinal de alarme."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente internado em uma unidade hospitalar apresenta sinais e sintomas de Cetoacidose Diabética (CAD).\nAssinale a opção que apresenta, corretamente, um critério diagnóstico dessa complicação.",
+  "alts": [
+   "Cetonemia ≥ 3 mmol/L.",
+   "Alcalose metabólica.",
+   "Glicemia acima de 150 mg/dL.",
+   "Cetonúria menor a 2 + nas tiras reagentes."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Consenso ADA/EASD/JBDS/AACE/DTS sobre crises hiperglicêmicas em adultos, Diabetes Care, 2024",
+  "coment": "O consenso de 2024 substituiu o de 2009 e define a cetoacidose por três critérios simultâneos: glicemia de 200 mg/dL ou mais, ou diabetes conhecido com qualquer glicemia; beta-hidroxibutirato de 3,0 mmol/L ou mais, ou cetonúria de 2+ ou mais; e pH abaixo de 7,3 e/ou bicarbonato abaixo de 18 mmol/L. A cetonemia de pelo menos 3 mmol/L é, portanto, critério. A cetoacidose é acidose metabólica, e uma glicemia de 150 mg/dL não cumpre o critério glicêmico.",
+  "porAlt": [
+   "Correta: beta-hidroxibutirato de 3,0 mmol/L ou mais é critério de cetose no consenso de 2024.",
+   "Errada: a cetoacidose é acidose metabólica com bicarbonato baixo, não alcalose.",
+   "Errada: o critério glicêmico é 200 mg/dL ou mais, ou diabetes conhecido; 150 mg/dL não define a crise.",
+   "Errada: o critério urinário é cetonúria de 2+ ou mais, e não menor que 2+."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente renal crônico, com TFG³ 45 a 59 mL/min./1,73m², é classificado com insuficiência renal crônica",
+  "alts": [
+   "estágio 1.",
+   "estágio 2.",
+   "estágio 3.",
+   "estágio 4."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD",
+  "coment": "O KDIGO classifica a doença renal crônica pela taxa de filtração glomerular em mL/min/1,73 m²: G1, 90 ou mais; G2, 60 a 89; G3a, 45 a 59; G3b, 30 a 44; G4, 15 a 29; G5, abaixo de 15. A faixa de 45 a 59 corresponde ao estágio 3, subdivisão 3a. A classificação completa acrescenta a albuminúria (A1 a A3), que também pesa no prognóstico. O sobrescrito depois de TFG está no caderno original.",
+  "porAlt": [
+   "Errada: o estágio 1 tem TFG de 90 ou mais, com marcador de lesão renal.",
+   "Errada: o estágio 2 vai de 60 a 89 mL/min/1,73 m².",
+   "Correta: TFG de 45 a 59 mL/min/1,73 m² é o estágio 3 (G3a do KDIGO).",
+   "Errada: o estágio 4 corresponde a TFG de 15 a 29 mL/min/1,73 m²."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Ministério da Saúde, em 2021, incorporou ao Sistema Único de Saúde (SUS) o implante subdérmico de etonogestrel para a prevenção da gravidez não planejada por mulheres adultas em idade reprodutiva, entre 18 e 49 anos.\nSobre as características desse método contraceptivo, analise as afirmativas a seguir.\nI. O implante contraceptivo é um pequeno tubo de plástico que contém o hormônio etonogestrel.\nII. O implante contraceptivo é colocado debaixo da pele do braço não dominante e sua ação é contínua por 3 anos.\nIII. O implante libera hormônio para o sangue da mulher impedindo a ovulação e espessando o muco do colo do útero, o que dificulta a passagem dos espermatozoides.\nEstá correto o que se afirma em",
+  "alts": [
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "I, II e III.",
+   "II e III, apenas."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Planejamento reprodutivo",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Portaria SCTIE/MS nº 13/2021 (incorporação do implante subdérmico de etonogestrel ao SUS)",
+  "coment": "O implante de etonogestrel é um bastão flexível de plástico com cerca de 4 cm, inserido no subcutâneo da face interna do braço não dominante, que libera progestagênio de forma contínua por 3 anos. Age sobretudo inibindo a ovulação e também espessa o muco cervical, o que dificulta a passagem dos espermatozoides. É método reversível de longa duração, muito eficaz e independente da usuária. As três afirmativas descrevem corretamente o método, por isso a resposta é I, II e III.",
+  "porAlt": [
+   "Errada: deixa de fora a III, que descreve corretamente a inibição da ovulação e o espessamento do muco cervical.",
+   "Errada: deixa de fora a II; o implante fica no braço não dominante e age por 3 anos.",
+   "Correta: as três afirmativas estão certas quanto à composição, ao local, à duração de 3 anos e ao mecanismo de ação.",
+   "Errada: deixa de fora a I; o implante é um pequeno bastão de plástico que contém etonogestrel."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Diretriz Nacional de Assistência ao Parto Normal, a profilaxia antibiótica para Ruptura Prematura de Membranas - RPM no termo é recomendada em mulheres com período de latência superior a",
+  "alts": [
+   "06 horas.",
+   "08 horas.",
+   "10 horas.",
+   "12 horas."
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Diretriz Nacional de Assistência ao Parto Normal, 2017",
+  "coment": "Na ruptura prematura de membranas no termo, sem trabalho de parto, a diretriz admite conduta expectante ou indução e vigilância de sinais de infecção: febre materna, taquicardia fetal, líquido com odor fétido. Pelo gabarito oficial, a profilaxia antibiótica é recomendada quando o período de latência passa de 12 horas. Essa regra não substitui a profilaxia intraparto para estreptococo do grupo B, indicada pela colonização ou pelos fatores de risco do protocolo do serviço. Cabe à enfermagem registrar a hora exata da ruptura, porque é dela que se conta a latência.",
+  "porAlt": [
+   "Errada: 6 horas de latência não é o corte que a diretriz usa para indicar a profilaxia.",
+   "Errada: 8 horas de latência não é o corte adotado pela diretriz.",
+   "Errada: 10 horas de latência fica abaixo do corte cobrado pela banca.",
+   "Correta: o gabarito oficial aponta latência superior a 12 horas como indicação de profilaxia antibiótica na RPM no termo."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a lista de Verificação de Cirurgia Segura, a confirmação que deve ser feita antes da indução anestésica é se o paciente adulto tem risco de perda sanguínea acima de",
+  "alts": [
+   "200 ml.",
+   "300 ml.",
+   "400 ml.",
+   "500 ml."
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Cirurgia segura",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Protocolo para Cirurgia Segura (Ministério da Saúde, ANVISA e Fiocruz, 2013), Lista de Verificação da OMS",
+  "coment": "A Lista de Verificação de Cirurgia Segura tem três momentos: antes da indução anestésica (sign in), antes da incisão (time out) e antes de o paciente sair da sala (sign out). No primeiro, confirmam-se identidade, procedimento, sítio e consentimento, demarcação do sítio, verificação do equipamento de anestesia, oxímetro funcionando, alergias, via aérea difícil ou risco de aspiração e risco de perda sanguínea acima de 500 mL no adulto (7 mL/kg na criança). Com esse risco, a equipe garante acesso venoso adequado e hemocomponentes disponíveis.",
+  "porAlt": [
+   "Errada: 200 mL não é o corte da lista; o risco relevante no adulto é perda acima de 500 mL.",
+   "Errada: 300 mL está abaixo do corte de 500 mL definido para o adulto.",
+   "Errada: 400 mL também está abaixo do corte da Lista de Verificação.",
+   "Correta: antes da indução confirma-se o risco de perda sanguínea acima de 500 mL no adulto (7 mL/kg na criança)."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 61,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Protocolo do Ministério da Saúde para o tratamento da deficiência de ferro em gestantes/crianças, a dose diária recomendada de ferro elementar é de",
+  "alts": [
+   "40 a 80 mg. / 2,0 a 4 mg /kg.",
+   "60 a 100 mg. / 2,5 a 5 mg /kg.",
+   "80 a 120 mg. / 3,0 a 6 mg /kg.",
+   "100 a 140 mg. / 3,5 a 8 mg /kg."
+  ],
+  "gab": 1,
+  "tema": "farmaco",
+  "sub": "Cálculo de dose e diluição",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas da Anemia por Deficiência de Ferro, 2023",
+  "coment": "A questão cobra dose de tratamento, que é maior que a de profilaxia. Na profilaxia do Programa Nacional de Suplementação de Ferro, a gestante recebe 40 mg/dia de ferro elementar da confirmação da gravidez até o 3º mês pós-parto. Confirmada a deficiência, o gabarito oficial indica a faixa de 60 a 100 mg/dia de ferro elementar para a gestante e de 2,5 a 5 mg/kg/dia para a criança. A dose é sempre expressa em ferro elementar, e não em sal: 40 mg de ferro elementar correspondem a cerca de 200 mg de sulfato ferroso.",
+  "porAlt": [
+   "Errada: a faixa de 40 a 80 mg começa na dose de profilaxia da gestante e não é a faixa de tratamento cobrada.",
+   "Correta: é a faixa diária de ferro elementar indicada pelo gabarito oficial para tratar a deficiência na gestante e na criança.",
+   "Errada: 80 a 120 mg e 3 a 6 mg/kg não correspondem à faixa do gabarito oficial.",
+   "Errada: 100 a 140 mg e 3,5 a 8 mg/kg extrapolam a faixa cobrada e aumentam os efeitos gastrointestinais."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 62,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma das metas gerais a ser obtida com o tratamento anti-hipertensivo em pacientes adultos com risco cardiovascular alto, é PA sistólica entre",
+  "alts": [
+   "120-129 mmHg.",
+   "130-135 mmHg.",
+   "136-138 mmHg.",
+   "140-142 mmHg."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH e SBN); Diretrizes Brasileiras de Hipertensão Arterial 2020",
+  "coment": "A prova seguiu a diretriz de 2020, que escalonava a meta pelo risco cardiovascular: no risco alto, PA de 120 a 129 por 70 a 79 mmHg. A Diretriz Brasileira de 2025 acabou com a régua por risco e fixou meta abaixo de 130/80 mmHg para todo hipertenso (recomendação forte, certeza alta); quem não tolera deve chegar ao menor valor tolerado. A faixa sistólica de 120 a 129 continua dentro da meta atual, e nenhuma das demais fica abaixo de 130, por isso a resposta segue válida.",
+  "porAlt": [
+   "Correta: 120 a 129 mmHg era a meta sistólica do alto risco em 2020 e está dentro da meta atual de menos de 130/80 mmHg.",
+   "Errada: 130 a 135 mmHg não atinge a meta de menos de 130 mmHg de sistólica.",
+   "Errada: 136 a 138 mmHg está acima da meta, tanto em 2020 quanto em 2025.",
+   "Errada: 140 a 142 mmHg está no limiar diagnóstico de hipertensão e longe da meta."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 63,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Protocolo Clínico e Diretrizes Terapêuticas do Acidente Vascular Cerebral Isquêmico Agudo do Ministério da Saúde, assinale a opção que indica uma das contraindicações para a realização de trombólise em pacientes com AVC isquêmico.",
+  "alts": [
+   "Hemorragia gastrointestinal ou genitourinária nos últimos 2 meses.",
+   "Histórico de infarto agudo do miocárdio nos últimos 6 meses.",
+   "Pressão arterial sistólica maior que 170 mmHg após tratamento anti-hipertensivo.",
+   "Pressão arterial diastólica maior que 110 mmHg após tratamento anti-hipertensivo."
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria Conjunta SAES/SECTICS nº 29/2023 (PCDT do Acidente Vascular Cerebral Isquêmico Agudo)",
+  "coment": "Antes da trombólise, a pressão precisa estar abaixo de 185/110 mmHg. Se a sistólica continua acima de 185 ou a diastólica acima de 110 mmHg apesar do anti-hipertensivo, não se tromboliza: PAD maior que 110 mmHg após tratamento é contraindicação. As outras alternativas deformam os prazos e cortes do protocolo: o infarto que contraindica é o recente, dos últimos 3 meses; o sangramento gastrointestinal ou geniturinário é o das últimas semanas; e a sistólica de 170 mmHg está abaixo do limite de 185. Depois da trombólise, a meta passa a ser abaixo de 180/105 mmHg por 24 horas.",
+  "porAlt": [
+   "Errada: o protocolo considera sangramento gastrointestinal ou geniturinário recente, de semanas, e não o prazo de 2 meses.",
+   "Errada: o infarto que contraindica a trombólise é o dos últimos 3 meses, e não 6.",
+   "Errada: o limite é sistólica acima de 185 mmHg refratária; 170 mmHg permite a trombólise.",
+   "Correta: diastólica acima de 110 mmHg mantida após anti-hipertensivo contraindica a trombólise."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 64,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A icterícia fisiológica é a causa mais comum de icterícia neonatal. Assinale a opção que apresenta um dos critérios que caracterizam esse quadro.",
+  "alts": [
+   "Resolução do quadro em até 30 dias.",
+   "Aparecimento tardio, após 24h de vida.",
+   "Aparecimento precoce, nas primeiras 12h de vida.",
+   "Necessidade de fototerapia ou exsanguineotransfusão."
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Atenção à saúde do recém-nascido: guia para os profissionais de saúde, vol. 2, 2ª ed., 2014",
+  "coment": "A icterícia fisiológica decorre da maior produção de bilirrubina e da imaturidade hepática do recém-nascido. Surge depois das primeiras 24 horas de vida, tem pico entre o 3º e o 5º dia no termo e desaparece em cerca de duas semanas, sem doença de base. Icterícia nas primeiras 24 horas é sempre patológica e pede investigação de hemólise. Necessidade de fototerapia ou exsanguinotransfusão também afasta o caráter fisiológico, e icterícia que persiste além de 14 dias no termo é prolongada e precisa ser investigada.",
+  "porAlt": [
+   "Errada: no termo a icterícia fisiológica some em cerca de duas semanas; persistir além de 14 dias exige investigação.",
+   "Correta: o aparecimento depois de 24 horas de vida é critério da icterícia fisiológica.",
+   "Errada: icterícia nas primeiras 24 horas é sempre patológica, sugestiva de hemólise.",
+   "Errada: necessidade de fototerapia ou exsanguinotransfusão indica hiperbilirrubinemia patológica."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 65,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a opção que apresenta a atividade preconizada pelo Programa de Humanização no Pré-Natal e Nascimento instituído pelo Ministério da Saúde.",
+  "alts": [
+   "Realização da primeira consulta de pré-natal até o 5° mês de gestação.",
+   "Realização do exame de glicemia de jejum na primeira consulta e na 20ª semana da gestação.",
+   "Realização de uma consulta no puerpério, até 50 dias após o nascimento.",
+   "Realização do exame de VDRL na primeira consulta e na 30ª semana da gestação."
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 569/2000 (PHPN); Portaria GM/MS 5.350/2024 (Rede Alyne)",
+  "coment": "O Programa de Humanização no Pré-natal e Nascimento (Portaria 569/2000) fixou atividades mínimas: primeira consulta até o 4º mês, pelo menos seis consultas, consulta puerperal até 42 dias após o parto e exames como ABO-Rh e hemoglobina na primeira consulta, e VDRL, urina tipo 1 e glicemia de jejum na primeira consulta e por volta da 30ª semana. O PHPN foi sucedido pela Rede Cegonha em 2011, transformada em Rede Alyne pela Portaria 5.350/2024; para conduta atual, vale o protocolo vigente, mas o PHPN segue cobrado em prova.",
+  "porAlt": [
+   "Errada: o PHPN fixou a primeira consulta até o 4º mês de gestação, e não até o 5º.",
+   "Errada: a glicemia de jejum era repetida por volta da 30ª semana, e não na 20ª.",
+   "Errada: a consulta puerperal do PHPN deveria ocorrer até 42 dias após o nascimento.",
+   "Correta: o PHPN previa VDRL na primeira consulta e outro por volta da 30ª semana."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 66,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca da Terapia Hormonal (TH) em mulheres no climatério, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) A endometriose e a hipertensão arterial não controlada são contraindicações absolutas para a Terapia Hormonal.\n( ) O uso de estrogênio associado à progesterona por 3 a 5 anos aumenta o risco de câncer de mama.\n( ) O início de terapia estrogênica após 10 anos da menopausa e/ou em mulheres com idade superior a 59 anos deve ser evitado, devido à associação com aumento do risco de doenças cardiovasculares.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "F – V – V.",
+   "V – F – V.",
+   "F – V – F.",
+   "V – V – F."
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Planejamento reprodutivo",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Protocolos da Atenção Básica: Saúde das Mulheres, 2016",
+  "coment": "Endometriose não é contraindicação absoluta à terapia hormonal; as absolutas incluem câncer de mama e de endométrio, sangramento genital não esclarecido, doença hepática grave e tromboembolismo. Por isso a primeira afirmativa é falsa. A segunda é verdadeira: a associação de estrogênio e progestagênio por 3 a 5 anos ou mais aumenta o risco de câncer de mama, como mostrou o WHI. A terceira também: iniciar a terapia mais de 10 anos após a menopausa ou depois dos 59 anos aumenta o risco cardiovascular, fora da chamada janela de oportunidade. Sequência F, V, V.",
+  "porAlt": [
+   "Correta: endometriose não é contraindicação absoluta, e as afirmativas sobre câncer de mama e janela de oportunidade são verdadeiras.",
+   "Errada: a primeira é falsa e a segunda é verdadeira, porque o uso combinado prolongado aumenta o risco de câncer de mama.",
+   "Errada: a terceira é verdadeira; iniciar após 10 anos de menopausa ou depois dos 59 anos eleva o risco cardiovascular.",
+   "Errada: a primeira é falsa, pois a endometriose não é contraindicação absoluta, e a terceira é verdadeira."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 67,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na consulta de puerpério de uma criança com 6 meses de idade o enfermeiro palpou a fontanela bregmática e explicou para a mãe que isso era normal, porque essa fontanela normalmente fecha entre",
+  "alts": [
+   "6 e 9 meses.",
+   "7 e 12 meses.",
+   "9 e 18 meses.",
+   "12 e 24 meses."
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Cadernos de Atenção Básica nº 33: Saúde da criança, crescimento e desenvolvimento, 2012",
+  "coment": "A fontanela bregmática, ou anterior, tem forma de losango e fecha entre os 9 e os 18 meses; a lambdoide, ou posterior, costuma fechar até os 2 meses. Aos 6 meses, portanto, é esperado palpá-la aberta, plana e normotensa. Fontanela abaulada sugere hipertensão intracraniana e deprimida sugere desidratação, e o fechamento precoce pede avaliação de craniossinostose. Apesar de o enunciado dizer consulta de puerpério, trata-se da consulta de puericultura da criança.",
+  "porAlt": [
+   "Errada: entre 6 e 9 meses o fechamento seria precoce para a fontanela bregmática.",
+   "Errada: a faixa de 7 a 12 meses não é a referência; a bregmática fecha entre 9 e 18 meses.",
+   "Correta: a fontanela bregmática fecha normalmente entre 9 e 18 meses, por isso está aberta aos 6 meses.",
+   "Errada: 12 a 24 meses estende demais o limite; fontanela aberta além dos 18 meses merece investigação."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 68,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante o atendimento a um paciente em parada cardiorrespiratória foi verificado ritmo chocável.\nAssinale a opção que indica, corretamente, um desses ritmos.",
+  "alts": [
+   "Assistolia.",
+   "Extrassístole ventricular.",
+   "Atividade elétrica sem pulso.",
+   "Taquicardia ventricular sem pulso."
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "American Heart Association. Diretrizes de RCP e Atendimento Cardiovascular de Emergência, 2025",
+  "coment": "A parada cardiorrespiratória tem quatro ritmos. Os chocáveis são a fibrilação ventricular e a taquicardia ventricular sem pulso, em que a desfibrilação precoce define o prognóstico. Os não chocáveis são a assistolia e a atividade elétrica sem pulso, tratados com RCP de alta qualidade, adrenalina e busca de causas reversíveis; desfibrilar assistolia não tem efeito. Extrassístole ventricular não é ritmo de parada: é batimento ectópico com pulso.",
+  "porAlt": [
+   "Errada: a assistolia é ritmo não chocável; trata-se com RCP, adrenalina e busca de causas reversíveis.",
+   "Errada: a extrassístole ventricular não é ritmo de parada, é um batimento precoce em paciente com pulso.",
+   "Errada: a atividade elétrica sem pulso é ritmo não chocável.",
+   "Correta: a taquicardia ventricular sem pulso, ao lado da fibrilação ventricular, é ritmo chocável."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 70,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as Diretrizes de Ressuscitação Cardiopulmonar, assinale a opção que indica uma das causas reversíveis de Parada Cardiorrespiratória (PCR).",
+  "alts": [
+   "Hipovolemia.",
+   "Hipocalcemia.",
+   "Hipertensão sustentada.",
+   "Hiperglicemia sustentada."
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "American Heart Association. Diretrizes de RCP e Atendimento Cardiovascular de Emergência, 2025",
+  "coment": "As causas reversíveis de parada se memorizam como 5 H e 5 T. Os H são hipovolemia, hipóxia, acidose (íon hidrogênio), hipo ou hipercalemia e hipotermia. Os T são pneumotórax hipertensivo, tamponamento cardíaco, toxinas, trombose pulmonar e trombose coronária. Buscar e tratar essas causas é decisivo nos ritmos não chocáveis. Hipocalcemia, hipertensão e hiperglicemia não fazem parte da lista.",
+  "porAlt": [
+   "Correta: a hipovolemia é um dos 5 H das causas reversíveis de parada.",
+   "Errada: o distúrbio eletrolítico da lista é o do potássio (hipo ou hipercalemia), não a hipocalcemia.",
+   "Errada: hipertensão sustentada não está entre os 5 H e 5 T.",
+   "Errada: hiperglicemia sustentada não está entre as causas reversíveis clássicas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 71,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente adulto, que passou por Ressuscitação Cardiopulmonar (RCP) após fibrilação ventricular, apresentou um quadro de hipocalemia.\nAssinale a opção que indica a concentração de potássio sérico que caracteriza esse quadro.",
+  "alts": [
+   "< 3,5 mEq/L.",
+   "< 4,5 mEq/L.",
+   "< 5,0 mEq/L.",
+   "< 6,5 mEq/L."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Kardalas E, et al. Hypokalemia: a clinical update. Endocrine Connections, 2018",
+  "coment": "O potássio sérico normal vai de 3,5 a 5,0 mEq/L, e hipocalemia é o valor abaixo de 3,5 mEq/L. Causa fraqueza, íleo e arritmias, com onda T achatada e onda U no eletrocardiograma, e favorece novas arritmias depois de uma fibrilação ventricular. A reposição é oral entre 3,0 e 3,4 mEq/L; abaixo de 2,5 ou com sintomas, endovenosa, diluída, em bomba e com monitor. O cloreto de potássio concentrado é medicamento de alta vigilância e nunca se injeta em bólus.",
+  "porAlt": [
+   "Correta: hipocalemia é o potássio sérico abaixo de 3,5 mEq/L.",
+   "Errada: 4,5 mEq/L está dentro da normalidade, que vai de 3,5 a 5,0 mEq/L.",
+   "Errada: 5,0 mEq/L é o limite superior do normal; valores abaixo disso não definem hipocalemia.",
+   "Errada: acima de 5,0 mEq/L já é hipercalemia; 6,5 mEq/L é hipercalemia grave."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 73,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O distúrbio ácido básico, que pode ser provocado por perdas gástricas, vômitos profusos, diarreia de cloretos e uso de diuréticos é denominado",
+  "alts": [
+   "acidose respiratória.",
+   "alcalose metabólica.",
+   "acidose metabólica.",
+   "alcalose respiratória."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Berend K, de Vries APJ, Gans ROB. Physiological approach to assessment of acid-base disturbances. N Engl J Med, 2014",
+  "coment": "A alcalose metabólica é o aumento primário do bicarbonato, com pH alto. As causas clássicas são a perda de ácido e de cloro: vômitos profusos e drenagem gástrica, diuréticos de alça e tiazídicos e as raras diarreias perdedoras de cloro. A hipovolemia e a hipocalemia mantêm o rim retendo bicarbonato. Diarreia comum, que perde bicarbonato, causa acidose metabólica; os distúrbios respiratórios dependem da ventilação e da PaCO2, e não dessas perdas.",
+  "porAlt": [
+   "Errada: a acidose respiratória decorre de hipoventilação e retenção de CO2.",
+   "Correta: vômitos, perdas gástricas, diarreia perdedora de cloro e diuréticos causam alcalose metabólica.",
+   "Errada: a acidose metabólica surge com perda de bicarbonato, como na diarreia comum, ou com ganho de ácido.",
+   "Errada: a alcalose respiratória decorre de hiperventilação, com queda da PaCO2."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 74,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a opção que apresenta o sinal de agravamento do estado clínico de uma criança com influenza.",
+  "alts": [
+   "Mialgia.",
+   "Artralgia.",
+   "Febre de início súbito.",
+   "Estridor inspiratório."
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Guia de Manejo e Tratamento de Influenza, 2023",
+  "coment": "Febre de início súbito, mialgia e artralgia fazem parte da síndrome gripal não complicada. O agravamento se reconhece por sinais de desconforto respiratório e de má perfusão: dispneia, taquipneia, saturação abaixo de 95%, cianose e, na criança, batimento de asa de nariz, tiragem, inapetência, desidratação e letargia. O estridor inspiratório revela obstrução da via aérea alta e desconforto respiratório, sinal de piora que leva à avaliação imediata, à classificação como síndrome respiratória aguda grave quando presente e ao início do antiviral.",
+  "porAlt": [
+   "Errada: a mialgia é sintoma comum da síndrome gripal, sem significado de gravidade.",
+   "Errada: a artralgia acompanha a síndrome gripal e não indica agravamento.",
+   "Errada: a febre de início súbito faz parte da definição de síndrome gripal, e não é sinal de piora.",
+   "Correta: o estridor inspiratório indica obstrução de via aérea alta e desconforto respiratório, sinal de agravamento."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 75,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um enfermeiro, a fim de melhorar o relacionamento entre a equipe, apresentou alguns temas importantes para avaliação, entre os quais estava a Comunicação Não Violenta – CNV e sua importância no ambiente de trabalho.\nAssinale a opção que apresenta os 4 pilares da Comunicação Não Violenta.",
+  "alts": [
+   "Observação, sentimento, necessidades e pedido.",
+   "Organização, atitude, compreensão e motivação.",
+   "Empatia, cooperação, consentimento e passividade.",
+   "Autocontrole, clareza, atenção e comprometimento."
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Rosenberg MB. Comunicação não violenta: técnicas para aprimorar relacionamentos pessoais e profissionais. São Paulo: Ágora, 2006",
+  "coment": "Marshall Rosenberg estruturou a Comunicação Não Violenta em quatro componentes: observação dos fatos sem julgamento nem avaliação; expressão dos sentimentos que a situação desperta; identificação das necessidades ligadas a esses sentimentos; e pedido claro, concreto e possível, sem exigência. Na equipe de enfermagem, o modelo reduz conflitos na passagem de plantão e no feedback, porque separa o fato da interpretação e transforma crítica em pedido.",
+  "porAlt": [
+   "Correta: observação, sentimentos, necessidades e pedido são os quatro componentes da CNV de Rosenberg.",
+   "Errada: organização, atitude, compreensão e motivação não compõem o modelo de Rosenberg.",
+   "Errada: passividade contraria a CNV, que pede expressão honesta de sentimentos e necessidades.",
+   "Errada: autocontrole, clareza, atenção e comprometimento são qualidades genéricas, não os componentes da CNV."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 77,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na avaliação neurológica, segundo a Escala de Coma de Glasgow, um dos escores que deve ser considerado é a resposta da reatividade pupilar.\nUm paciente que não apresenta nenhuma reatividade em ambas as pupilas, corresponde a",
+  "alts": [
+   "0 ponto.",
+   "1 ponto.",
+   "2 pontos.",
+   "3 pontos."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Brennan PM, Murray GD, Teasdale GM. The GCS-Pupils score. J Neurosurg, 2018",
+  "coment": "O Glasgow com resposta pupilar (GCS-P), de 2018, subtrai do escore de Glasgow a pontuação de reatividade pupilar. Essa pontuação vale 2 quando nenhuma das pupilas reage à luz, 1 quando uma não reage e 0 quando ambas reagem. O escore final vai de 1 a 15 e separa melhor os pacientes mais graves. Um paciente com Glasgow 6 e as duas pupilas sem reação, por exemplo, tem GCS-P 4. A avaliação pupilar não soma pontos; ela desconta.",
+  "porAlt": [
+   "Errada: zero ponto é atribuído quando as duas pupilas reagem à luz.",
+   "Errada: 1 ponto corresponde a apenas uma pupila sem reatividade.",
+   "Correta: quando nenhuma das pupilas reage, a reatividade pupilar vale 2 pontos, subtraídos do Glasgow.",
+   "Errada: a escala de reatividade pupilar vai só de 0 a 2; não existe 3 pontos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 78,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o manejo clínico da chikungunya, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para falsa.\n( ) Durante a fase subaguda da doença, a febre normalmente desaparece, podendo haver persistência ou agravamento da artralgia, incluindo poliartrite distal.\n( ) A infecção pelo chikungunya, no período gestacional, está relacionada a efeitos teratogênicos, e há frequência de abortamento espontâneo.\n( ) Entre os sinais de gravidade e critérios de internação estão dispneia, dor torácica e vômitos persistentes.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "V – V – F.",
+   "V – F – V.",
+   "F – V – V.",
+   "V – V – V."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Chikungunya: manejo clínico, 2017",
+  "coment": "Na fase subaguda da chikungunya, a febre costuma desaparecer e a artralgia pode persistir ou piorar, inclusive com poliartrite distal: primeira afirmativa verdadeira. O manual afirma que a infecção na gestação não está relacionada a efeitos teratogênicos e que há raros relatos de abortamento espontâneo; o risco maior é a transmissão vertical no parto, com doença neonatal grave. Por isso a segunda é falsa. Dispneia, dor torácica e vômitos persistentes estão entre os sinais de gravidade e critérios de internação: terceira verdadeira. Sequência V, F, V.",
+  "porAlt": [
+   "Errada: a segunda afirmativa é falsa e a terceira é verdadeira.",
+   "Correta: a fase subaguda e os sinais de gravidade estão certos, e a infecção na gestação não é teratogênica.",
+   "Errada: a primeira afirmativa é verdadeira e a segunda é falsa.",
+   "Errada: a segunda é falsa; o manual afasta efeito teratogênico e cita apenas raros abortamentos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 79,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Código de Ética da Enfermagem, assinale a opção que indica o caso em que o profissional de enfermagem pode disponibilizar o acesso às informações e aos documentos a terceiros que não estão diretamente envolvidos na prestação da assistência de saúde ao paciente.",
+  "alts": [
+   "Em situações de urgência.",
+   "Em situações de emergência.",
+   "Quando autorizado pelo paciente.",
+   "Quando autorizado pelo acompanhante."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética dos Profissionais de Enfermagem), art. 89",
+  "coment": "O art. 89 do Código de Ética proíbe disponibilizar o acesso a informações e documentos a terceiros que não estão diretamente envolvidos na assistência ao paciente, exceto quando autorizado pelo paciente, representante legal ou responsável legal, ou por determinação judicial. O sigilo é também dever (art. 52), que cede nos casos previstos em lei, por ordem judicial ou com consentimento escrito. Urgência ou emergência não abrem o prontuário a terceiros, e acompanhante não é representante legal.",
+  "porAlt": [
+   "Errada: a situação de urgência não está entre as exceções do art. 89.",
+   "Errada: a emergência também não autoriza dar acesso a documentos a terceiros não envolvidos na assistência.",
+   "Correta: a autorização do paciente é uma das exceções do art. 89, ao lado do representante legal e da ordem judicial.",
+   "Errada: o acompanhante não é representante nem responsável legal e não pode autorizar o acesso."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro",
+   "n": 80,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante o exame físico de um paciente foi evidenciado sinal de Godet (cacifo) positivo no membro inferior direito.\nIsso significa:",
+  "alts": [
+   "Depressão anormal da pele que se forma após a compressão do local.",
+   "Dormência na região da panturrilha após elevação do membro.",
+   "Diminuição do tempo de enchimento capilar após elevação do membro.",
+   "Desconforto na panturrilha ao realizar a dorso-flexão do pé."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto CC. Semiologia Médica, 8ª ed., 2019",
+  "coment": "O sinal de Godet, ou cacifo, pesquisa edema: pressiona-se a pele com o polegar sobre uma superfície óssea, como a tíbia, por alguns segundos, e a depressão que permanece depois de retirar o dedo indica sinal positivo. Gradua-se de uma a quatro cruzes pela profundidade e pelo tempo de retorno. Edema unilateral de membro inferior pede investigar trombose venosa profunda. Dor na panturrilha à dorsiflexão do pé é o sinal de Homans, e não o de Godet.",
+  "porAlt": [
+   "Correta: o cacifo positivo é a depressão que persiste na pele após a compressão digital, sinal de edema.",
+   "Errada: dormência na panturrilha após elevar o membro não é sinal de Godet.",
+   "Errada: o tempo de enchimento capilar avalia perfusão, não edema.",
+   "Errada: dor na panturrilha à dorsiflexão do pé é o sinal de Homans, pesquisado na suspeita de trombose."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro do Trabalho",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as normas de saúde e segurança, o treinamento periódico dos profissionais que trabalham em altura deve ser realizado a cada",
+  "alts": [
+   "Dois meses, com carga horária mínima de seis horas.",
+   "Seis meses, com carga horária mínima de oito horas.",
+   "Um ano, com carga horária mínima de seis horas.",
+   "Dois anos, com carga horária mínima de oito horas."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-35, Trabalho em Altura (Portaria SIT 313/2012 e alterações)",
+  "coment": "A NR-35 considera trabalho em altura toda atividade acima de 2 metros do nível inferior, com risco de queda. O empregador deve capacitar os trabalhadores com treinamento inicial teórico e prático de no mínimo oito horas e com treinamento periódico bienal, também com carga horária mínima de oito horas. Há ainda treinamento eventual quando muda o procedimento ou as condições de trabalho, quando ocorre acidente grave ou quando o trabalhador fica afastado por mais de 90 dias.",
+  "porAlt": [
+   "Errada: a NR-35 não prevê reciclagem a cada dois meses, nem carga de seis horas.",
+   "Errada: o periódico é bienal, e não semestral, com oito horas no mínimo.",
+   "Errada: o periódico não é anual, e a carga mínima é de oito horas, não seis.",
+   "Correta: o treinamento periódico da NR-35 é bienal, com carga horária mínima de oito horas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro do Trabalho",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A neurastenia faz parte da lista de doenças relacionadas ao trabalho do Ministério da Saúde.\nA característica mais marcante dessa doença é a presença de",
+  "alts": [
+   "fadiga constante.",
+   "hipertensão essencial.",
+   "transtornos somatoformes.",
+   "distúrbios do ciclo vigília-sono."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.999/2023 (Lista de Doenças Relacionadas ao Trabalho); Ministério da Saúde. Doenças relacionadas ao trabalho: manual de procedimentos para os serviços de saúde, 2001",
+  "coment": "Na lista de doenças relacionadas ao trabalho, a neurastenia (CID-10 F48.0), que inclui a síndrome de fadiga, tem como marca a queixa persistente de fadiga, seja depois de esforço mental, seja como fraqueza física após esforço mínimo, que não melhora com repouso. Associam-se dores musculares, tontura, cefaleia tensional, dificuldade de relaxar, irritabilidade e alterações do sono, mas esses são sintomas acompanhantes. Relaciona-se a ritmos de trabalho penosos e a condições difíceis de trabalho.",
+  "porAlt": [
+   "Correta: a fadiga constante e persistente é o traço mais marcante da neurastenia, que inclui a síndrome de fadiga.",
+   "Errada: hipertensão essencial é doença cardiovascular, não característica da neurastenia.",
+   "Errada: transtornos somatoformes são outro grupo diagnóstico da CID-10, distinto da neurastenia.",
+   "Errada: distúrbios do sono podem acompanhar a neurastenia, mas o sintoma central é a fadiga."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro do Trabalho",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Entre as doenças relacionadas ao trabalho estão algumas neoplasias com seus respectivos fatores de risco. No caso da neoplasia maligna do esôfago relacionada ao trabalho, um dos agentes e/ou fatores de risco físico é a exposição a radiações",
+  "alts": [
+   "ionizantes (iodo radioativo).",
+   "não ionizantes (ultravioleta).",
+   "ionizantes (Raios-X ou gama).",
+   "não ionizantes (infravermelha)."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 1.999/2023 (Lista de Doenças Relacionadas ao Trabalho); Ministério da Saúde. Doenças relacionadas ao trabalho: manual de procedimentos para os serviços de saúde, 2001",
+  "coment": "Entre os fatores de risco físicos das neoplasias relacionadas ao trabalho estão as radiações ionizantes, e a exposição ocupacional típica é aos raios X e à radiação gama, em radiologia, radioterapia, medicina nuclear e gamagrafia industrial. É essa formulação, raios X ou gama, que a banca adotou para o câncer de esôfago. Radiações não ionizantes, como ultravioleta e infravermelho, não se associam a essa neoplasia; o ultravioleta se liga ao câncer de pele. O iodo radioativo também emite radiação ionizante, mas a banca o tratou como exemplo inadequado, ligado à tireoide.",
+  "porAlt": [
+   "Errada: a banca não aceitou o iodo radioativo como exemplo, por ser agente associado sobretudo à tireoide.",
+   "Errada: o ultravioleta é radiação não ionizante e se relaciona ao câncer de pele, não ao de esôfago.",
+   "Correta: a exposição a radiações ionizantes, como raios X ou gama, é fator de risco físico listado para a neoplasia ocupacional.",
+   "Errada: o infravermelho é radiação não ionizante, associada a catarata e queimaduras, e não ao câncer de esôfago."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro do Trabalho",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca das atribuições da CIPA, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa\n( ) Verificar os ambientes e as condições de trabalho visando identificar situações que possam trazer riscos para a segurança e saúde dos trabalhadores.\n( ) Participar no desenvolvimento e implementação de programas relacionados à segurança e saúde no trabalho.\n( ) Ter acesso às informações sobre questões relacionadas à segurança e saúde dos trabalhadores, com exceção dos dados relacionados as Comunicações de Acidente de Trabalho - CAT emitidas pela organização.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – F.",
+   "V – V – V.",
+   "F – F – F.",
+   "V – V – F."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-5, CIPA (redação da Portaria SEPRT 422/2021, com alterações), item 5.3.1",
+  "coment": "As atribuições da CIPA na NR-5 incluem acompanhar a identificação de perigos e a avaliação de riscos, registrar a percepção dos riscos dos trabalhadores, verificar os ambientes e as condições de trabalho para identificar situações de risco, elaborar e acompanhar plano de trabalho, participar do desenvolvimento e da implementação de programas de segurança e saúde no trabalho e acompanhar a análise dos acidentes. A CIPA pode requisitar as informações sobre segurança e saúde dos trabalhadores, incluindo as CAT emitidas pela organização: a terceira afirmativa, que exclui as CAT, é falsa.",
+  "porAlt": [
+   "Errada: a primeira afirmativa é verdadeira; verificar ambientes e condições de trabalho é atribuição da CIPA.",
+   "Errada: a terceira é falsa, porque a CIPA tem acesso também às CAT emitidas pela organização.",
+   "Errada: as duas primeiras afirmativas reproduzem atribuições da NR-5 e são verdadeiras.",
+   "Correta: verificar ambientes e participar de programas são atribuições, e as CAT não ficam fora do acesso da CIPA."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro do Trabalho",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Norma Regulamentadora nº 5, a Comissão de Prevenção de Acidente – CIPA deve ser instituída em organizações com grau de risco 1, que tenham a partir de",
+  "alts": [
+   "20 empregados.",
+   "51 empregados.",
+   "81 empregados.",
+   "100 empregados."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-5, CIPA (redação da Portaria SEPRT 422/2021, com alterações), Quadro I",
+  "coment": "O Quadro I da NR-5 dimensiona a CIPA pelo número de empregados e pelo grau de risco da atividade principal. Quanto maior o risco, menor o número de empregados a partir do qual a comissão é obrigatória. No grau de risco 1, a CIPA passa a ser constituída a partir de 81 empregados; no grau 2, a partir de 51; nos graus 3 e 4, a partir de 20. Abaixo do mínimo, a organização nomeia um representante para cumprir os objetivos da norma.",
+  "porAlt": [
+   "Errada: 20 empregados é o ponto de partida nos graus de risco 3 e 4.",
+   "Errada: 51 empregados é o ponto de partida no grau de risco 2.",
+   "Correta: no grau de risco 1, a CIPA é obrigatória a partir de 81 empregados.",
+   "Errada: no grau de risco 1 a obrigação começa antes, aos 81 empregados."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "SES-MT 2024, Enfermeiro do Trabalho",
+   "n": 53,
+   "parte": "especificas"
+  }
+ }
+]

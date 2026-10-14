@@ -1,0 +1,1382 @@
+[
+ {
+  "q": "Um ensaio clínico randomizado foi realizado para avaliar o efeito da infusão de vitamina C (na dose de 50mg por quilograma de peso corporal) ou placebo, administrados a cada 6 horas por até 96 horas, em pacientes adultos que tiveram infecção comprovada ou suspeita como diagnóstico principal, que permaneceram por não mais de 24 horas na Unidade de Terapia Intensiva, e que estavam recebendo um vasopressor. O desfecho primário foi um composto de morte ou disfunção orgânica persistente (definida pelo uso de vasopressores, ventilação mecânica invasiva ou nova terapia de substituição renal) em 28 dias de seguimento. A infusão de vitamina C comparada a placebo esteve associada a um Risco Relativo (RR) para o desfecho combinado de 1,21 vezes, com Intervalo de Confiança de 95% (IC95%) de 1,04 a 1,40. Com base no exposto, assinalar a alternativa CORRETA:",
+  "alts": [
+   "Aqueles que receberam placebo apresentaram 21% maior risco de morte ou disfunção orgânica persistente em 28 dias do que aqueles que receberam vitamina C.",
+   "Aqueles que receberam vitamina C intravenosa apresentaram 21% maior risco de morte ou disfunção orgânica persistente em 28 dias do que aqueles que receberam placebo.",
+   "Não houve diferença significativa no risco de morte ou disfunção orgânica persistente em 28 dias entre os grupos vitamina C e placebo.",
+   "O risco de morte ou disfunção orgânica persistente em 28 dias foi reduzido em 21% pelo uso de vitamina C quando comparada a placebo."
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ensaio LOVIT (Lamontagne F et al., N Engl J Med 2022;386:2387-98)",
+  "coment": "O risco relativo compara o grupo exposto (vitamina C) com o controle (placebo). RR de 1,21 significa risco 21% maior no grupo vitamina C, pois (1,21 menos 1) vezes 100 = 21%. O IC95% de 1,04 a 1,40 não inclui o valor nulo 1, então a diferença é estatisticamente significativa. É o resultado do ensaio LOVIT (NEJM, 2022), que mostrou dano, e não benefício, da vitamina C intravenosa na sepse com vasopressor.",
+  "porAlt": [
+   "Inverte os grupos: o RR acima de 1 indica mais risco em quem recebeu vitamina C, não em quem recebeu placebo.",
+   "Correta: RR 1,21 com IC95% de 1,04 a 1,40, que não cruza 1, indica risco 21% maior no grupo vitamina C.",
+   "O IC95% não inclui 1, portanto a diferença entre os grupos é estatisticamente significativa.",
+   "RR acima de 1 indica aumento do risco; redução de 21% exigiria RR de 0,79."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 9,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Em um ensaio clínico randomizado, pacientes com diabetes tipo 2 foram designados para receber terapia intensiva (direcionamento de um nível de hemoglobina glicada abaixo de 6,0%) ou terapia padrão (direcionamento de um nível de hemoglobina glicada de 7,0 a 7,9%). O desfecho primário foi um composto de infarto do miocárdio, acidente vascular cerebral ou morte por causas cardiovasculares. Em 3,5 anos de seguimento, o risco relativo (RR) para o desfecho primário da terapia intensiva em comparação com terapia padrão foi de 0,90 vezes, com intervalo de confiança de 95% (IC95%) de 0,78 a 1,04. O RR para morte com a terapia intensiva em comparação com terapia padrão foi de 1,22 (IC95%: 1,01 a 1,46). Em comparação com a terapia padrão, o uso de terapia intensiva por 3,5 anos:\nI. Reduziu significativamente os eventos cardiovasculares (desfecho primário).\nII. Aumentou significativamente a mortalidade.",
+  "alts": [
+   "Os itens I e II estão incorretos.",
+   "Os itens I e II estão corretos.",
+   "Somente o item I está correto.",
+   "Somente o item II está correto."
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ensaio ACCORD (ACCORD Study Group, N Engl J Med 2008;358:2545-59)",
+  "coment": "Significância se lê pelo intervalo de confiança: se o IC95% do risco relativo contém 1, não há diferença significativa. No desfecho primário, RR 0,90 com IC95% de 0,78 a 1,04 cruza 1, então a redução de eventos cardiovasculares não foi significativa (item I falso). Na mortalidade, RR 1,22 com IC95% de 1,01 a 1,46 não inclui 1: a terapia intensiva aumentou a morte em 22% de forma significativa (item II verdadeiro). São os dados do ACCORD (NEJM, 2008).",
+  "porAlt": [
+   "O item II está correto: o IC95% da mortalidade (1,01 a 1,46) não inclui 1.",
+   "O item I está errado: o IC95% do desfecho primário (0,78 a 1,04) inclui 1, logo não houve redução significativa.",
+   "O item I é falso, pois a redução de 10% no desfecho primário não foi estatisticamente significativa.",
+   "Correta: só o aumento da mortalidade (RR 1,22; IC95% 1,01 a 1,46) foi significativo."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 10,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Para efeito da Resolução RDC nº 36/2013, são adotadas algumas definições. Sobre elas, assinalar a alternativa que preenche as lacunas abaixo CORRETAMENTE:\nSegurança do paciente: _______________, a um mínimo ______________, do risco de _________________ associado à atenção à saúde.",
+  "alts": [
+   "manutenção | aceitável | eventos adversos",
+   "redução | extremo | eventos adversos",
+   "redução | aceitável | dano desnecessário",
+   "manutenção | extremo | dano desnecessário"
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 3º",
+  "coment": "A RDC 36/2013, no art. 3º, define segurança do paciente como redução, a um mínimo aceitável, do risco de dano desnecessário associado à atenção à saúde. A definição é a da OMS, adotada também pela Portaria MS 529/2013. Mínimo aceitável reconhece que risco zero não existe; dano desnecessário separa o dano causado pelo cuidado daquele próprio da doença ou do efeito esperado do tratamento.",
+  "porAlt": [
+   "O texto fala em redução, não manutenção, e em dano desnecessário, não em eventos adversos.",
+   "Mínimo extremo não existe na norma; o termo é mínimo aceitável, e o objeto é o dano desnecessário.",
+   "Correta: redução, a um mínimo aceitável, do risco de dano desnecessário, como no art. 3º da RDC 36/2013.",
+   "Manutenção e extremo não constam da definição; a norma busca reduzir o risco a um mínimo aceitável."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 11,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O Plano de Segurança do Paciente em Serviços de Saúde deve estabelecer estratégias e ações de gestão de risco, conforme as atividades desenvolvidas pelo serviço de saúde para:\nI. Identificação do paciente.\nII. Segurança no uso de equipamentos e materiais.\nIII. Prevenção de úlceras por pressão.\nIV. Segurança nas terapias nutricionais enteral e parenteral.\nV. Comunicação efetiva entre profissionais do serviço de saúde e entre serviços de saúde.\nEstá(ão) CORRETO(S):",
+  "alts": [
+   "Somente os itens I e III.",
+   "Somente os itens II e IV.",
+   "Somente o item V.",
+   "Todos os itens."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 8º",
+  "coment": "O art. 8º da RDC 36/2013 lista o que o Plano de Segurança do Paciente deve contemplar, entre outros: identificação do paciente, higiene das mãos, segurança cirúrgica, medicamentos, sangue e hemocomponentes, uso de equipamentos e materiais, prevenção de quedas e de úlceras (lesões) por pressão, prevenção de IRAS, terapias nutricionais enteral e parenteral, comunicação efetiva entre profissionais e entre serviços e participação do paciente e da família. Os cinco itens estão no artigo.",
+  "porAlt": [
+   "Incompleta: equipamentos, terapia nutricional e comunicação efetiva também estão no art. 8º.",
+   "Incompleta: deixa de fora identificação, lesão por pressão e comunicação efetiva, também exigidas.",
+   "Incompleta: a comunicação efetiva é só um dos itens do plano previsto no art. 8º.",
+   "Correta: os cinco itens constam do art. 8º da RDC 36/2013 como conteúdo do Plano de Segurança do Paciente."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 12,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Considerando-se a Lei nº 8.080/1990 - SUS, numerar a 2ª coluna de acordo com a 1ª e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n(1) Compete à direção nacional do SUS.\n(2) Compete à direção estadual do SUS.\n(3) Compete à direção municipal do SUS.\n( ) Formular, avaliar e apoiar políticas de alimentação e nutrição.\n( ) Prestar apoio técnico e financeiro aos Municípios e executar supletivamente ações e serviços de saúde.\n( ) Controlar e fiscalizar os procedimentos dos serviços privados de saúde.",
+  "alts": [
+   "1 - 2 - 3.",
+   "3 - 2 - 1.",
+   "2 - 3 - 1.",
+   "2 - 1 - 3."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, arts. 16, 17 e 18",
+  "coment": "A Lei 8.080/1990 distribui competências por esfera. Formular, avaliar e apoiar políticas de alimentação e nutrição é da direção nacional (art. 16, I). Prestar apoio técnico e financeiro aos municípios e executar supletivamente ações e serviços é da direção estadual (art. 17, III). Controlar e fiscalizar os procedimentos dos serviços privados de saúde é da direção municipal (art. 18, XI). A lógica: União formula, estado apoia e supre, município executa e fiscaliza no território.",
+  "porAlt": [
+   "Correta: nacional formula a política de alimentação e nutrição, estadual apoia os municípios e municipal fiscaliza os serviços privados.",
+   "Inverte nacional e municipal: fiscalizar serviços privados é do município e formular política de nutrição é da União.",
+   "Apoio técnico e financeiro aos municípios é do estado (art. 17, III), não do município.",
+   "Formular a política de alimentação e nutrição é da direção nacional (art. 16, I), não da estadual."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 13,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Segundo a Lei nº 8.080/1990 - SUS, assinalar a alternativa que preenche as lacunas abaixo CORRETAMENTE:\nO dever do Estado de garantir a saúde consiste na formulação e execução de políticas ________________ que visem à redução de riscos de doenças e de outros agravos e no estabelecimento de condições que assegurem acesso __________________ às ações e aos serviços para a sua ____________________.",
+  "alts": [
+   "de humanização | gratuito e igualitário | recuperação",
+   "econômicas e sociais | universal e igualitário | promoção, proteção e recuperação",
+   "de humanização | igualitário e universal | proteção",
+   "econômicas e sociais | restrito e gratuito | promoção e recuperação"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 2º, § 1º",
+  "coment": "O art. 2º, § 1º, da Lei 8.080/1990 repete a lógica do art. 196 da Constituição: o dever do Estado consiste na formulação e execução de políticas econômicas e sociais que visem à redução de riscos de doenças e de outros agravos e no estabelecimento de condições que assegurem acesso universal e igualitário às ações e aos serviços para a sua promoção, proteção e recuperação. Saúde depende de políticas amplas, não só de serviços assistenciais.",
+  "porAlt": [
+   "A lei fala em políticas econômicas e sociais e em acesso universal, abrangendo promoção, proteção e recuperação.",
+   "Correta: políticas econômicas e sociais, acesso universal e igualitário, para promoção, proteção e recuperação.",
+   "Políticas de humanização não constam do art. 2º, e a finalidade inclui promoção e recuperação, não só proteção.",
+   "Acesso restrito contraria a universalidade, e a proteção foi omitida da finalidade."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 14,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Considerando-se o Decreto nº 7.508/2011, numerar a 2ª coluna de acordo com a 1ª e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n(1) Mapa da Saúde.\n(2) Rede de Atenção à Saúde.\n(3) Região de Saúde.\n( ) Descrição geográfica da distribuição de recursos humanos e de ações e serviços de saúde ofertados pelo SUS e pela iniciativa privada, considerando-se a capacidade instalada existente, os investimentos e o desempenho aferido a partir dos indicadores de saúde do sistema.\n( ) Espaço geográfico contínuo constituído por agrupamentos de Municípios limítrofes, delimitado a partir de identidades culturais, econômicas e sociais e de redes de comunicação e infraestrutura de transportes compartilhados, com a finalidade de integrar a organização, o planejamento e a execução de ações e serviços de saúde.\n( ) Conjunto de ações e serviços de saúde articulados em níveis de complexidade crescente, com a finalidade de garantir a integralidade da assistência à saúde.",
+  "alts": [
+   "1 - 2 - 3.",
+   "3 - 2 - 1.",
+   "2 - 3 - 1.",
+   "1 - 3 - 2."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, art. 2º",
+  "coment": "O art. 2º do Decreto 7.508/2011 traz as definições. Mapa da Saúde é a descrição geográfica da distribuição de recursos humanos e de ações e serviços ofertados pelo SUS e pela iniciativa privada. Região de Saúde é o espaço geográfico contínuo de municípios limítrofes, delimitado por identidades culturais, econômicas e sociais e por redes de comunicação e transporte. Rede de Atenção à Saúde é o conjunto de ações e serviços articulados em níveis de complexidade crescente para garantir a integralidade.",
+  "porAlt": [
+   "Troca Região de Saúde (espaço geográfico contínuo) com Rede de Atenção (ações em complexidade crescente).",
+   "A descrição geográfica dos recursos é o Mapa da Saúde, não a Região de Saúde.",
+   "A primeira definição é do Mapa da Saúde, não da Rede de Atenção à Saúde.",
+   "Correta: Mapa da Saúde, Região de Saúde e Rede de Atenção à Saúde, nessa ordem, como no art. 2º."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 15,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com o Código de Ética dos Profissionais de Enfermagem, analisar os itens abaixo:\nI. É um direito do profissional de enfermagem exercer a profissão com justiça, compromisso, equidade, resolutividade, dignidade, competência, responsabilidade, honestidade e lealdade.\nII. É proibido ao profissional de enfermagem negar assistência de enfermagem em situações de urgência, emergência, epidemia, desastre e catástrofe, desde que não ofereça risco à integridade física do profissional.\nIII. É um dever do profissional de enfermagem recusar-se a executar prescrição de Enfermagem e Médica na qual não constem assinatura e número de registro do profissional prescritor, exceto em situação de urgência e emergência.\nIV. Em relação ao sigilo profissional, é um dever do profissional de enfermagem abster-se de revelar informações confidenciais de que tenha conhecimento em razão de seu exercício profissional.\nEstão CORRETOS:",
+  "alts": [
+   "Somente os itens I e II.",
+   "Somente os itens I e IV.",
+   "Somente os itens II, III e IV.",
+   "Somente os itens II e III."
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), arts. 12, 24, 46 e 76",
+  "coment": "A questão cobra o capítulo de cada artigo da Res. COFEN 564/2017, vigente. I é falso: exercer a profissão com justiça, compromisso, equidade e lealdade é dever (art. 24), não direito. II é verdadeiro: negar assistência em urgência, emergência, epidemia, desastre e catástrofe é proibido, desde que não haja risco à integridade física do profissional (art. 76). III é verdadeiro: recusar prescrição sem assinatura e número de registro, salvo urgência, é dever (art. 46). IV é falso porque abster-se de revelar informações confidenciais é direito (art. 12); o dever de sigilo está no art. 52.",
+  "porAlt": [
+   "O item I descreve um dever (art. 24), não um direito, e o item III, verdadeiro, ficou de fora.",
+   "Os itens I e IV trocam o capítulo: o I é dever (art. 24) e o IV é direito (art. 12).",
+   "O item IV está no capítulo dos direitos (art. 12), não dos deveres; o dever de sigilo é o art. 52.",
+   "Correta: a negativa de assistência em urgência é proibida (art. 76) e recusar prescrição sem assinatura e registro é dever (art. 46)."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 16,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinalar a alternativa que reúne somente os recursos de monitorização invasiva mais utilizados nos dias de hoje e acessíveis ao cotidiano de terapia intensiva e de unidades que atendem pacientes em estado crítico, como centros cirúrgicos e unidades de emergência:",
+  "alts": [
+   "Pressão venosa central, pressão intra-abdominal e saturação de oxigênio.",
+   "Pressão arterial média, frequência cardíaca e pressão intracraniana.",
+   "Saturação de oxigênio, pressão venosa central e pressão intra-abdominal.",
+   "Pressão venosa central, pressão arterial média e pressão intracraniana."
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Monitorização hemodinâmica",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "Monitorização invasiva exige dispositivo inserido no vaso ou em cavidade: pressão venosa central, por cateter venoso central; pressão arterial média invasiva, por cateter arterial (radial, femoral) acoplado a transdutor; pressão intracraniana, por cateter intraventricular ou parenquimatoso. A saturação de oxigênio por oximetria de pulso é não invasiva, o que elimina as alternativas que a incluem. A frequência cardíaca é obtida pelo monitor de ECG, também não invasivo.",
+  "porAlt": [
+   "A saturação de oxigênio pela oximetria de pulso é monitorização não invasiva.",
+   "A frequência cardíaca vem do monitor cardíaco de superfície, recurso não invasivo.",
+   "Inclui a oximetria de pulso, que é não invasiva.",
+   "Correta: PVC, PAM invasiva e PIC dependem de cateter e transdutor, e são as mais usadas em UTI, centro cirúrgico e emergência."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 18,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as diretrizes da American Heart Association (2020) para ressuscitação cardiopulmonar (RCP), marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n( ) É aconselhável para os profissionais tentarem, primeiro, estabelecer o acesso IV para administração de medicamento em parada cardiorrespiratória (PCR).\n( ) Como as pacientes grávidas são mais propensas à hipóxia, a oxigenação e o manejo da via aérea devem ser priorizados durante a ressuscitação de uma PCR durante a gravidez.\n( ) É contraindicado que leigos iniciem a RCP para uma suposta PCR, pois o risco de dano ao paciente é alto se o paciente não estiver em PCR.\n( ) Com relação à marcação do tempo, para PCR com um ritmo não chocável, é aceitável administrar a epinefrina assim que for possível.",
+  "alts": [
+   "C - C - E - C.",
+   "C - E - E - E.",
+   "E - C - E - C.",
+   "C - E - C - E."
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes da AHA para RCP e ACE 2025 (Circulation, 2025)",
+  "coment": "Pela AHA 2020, citada na questão: é aceitável tentar primeiro o acesso intravenoso, com o intraósseo se o IV falhar ou não for viável (certo); na gestante, mais propensa à hipóxia, oxigenação e via aérea são prioridade (certo); leigos devem iniciar RCP diante de suspeita de PCR, pois o risco de dano a quem não está em parada é baixo (errado); no ritmo não chocável, a epinefrina é dada assim que possível (certo). As diretrizes AHA 2025, hoje vigentes, mantêm a preferência pelo acesso IV, a epinefrina precoce no ritmo não chocável e o estímulo à RCP pelo leigo.",
+  "porAlt": [
+   "Correta: C, C, E, C; só a afirmação de que leigos não devem iniciar a RCP é errada.",
+   "Erra ao marcar como errada a prioridade da oxigenação na gestante e a epinefrina precoce no ritmo não chocável.",
+   "Erra ao marcar como errada a tentativa inicial de acesso IV, que a AHA considera aceitável.",
+   "Erra ao considerar certo que leigos não iniciem a RCP; o risco de dano é baixo e a RCP deve começar."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 19,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Lei nº 13.840/2019, que dispõe sobre o Sistema Nacional de Políticas Públicas sobre Drogas e as condições de atenção aos usuários ou dependentes de drogas e trata do financiamento das políticas sobre drogas, analisar os itens abaixo:\nI. Limitar a participação social na formulação, implementação e avaliação das políticas sobre drogas é um dos deveres do Plano Nacional de Políticas sobre Drogas.\nII. Um dos objetivos dos conselhos de políticas sobre drogas, constituídos por Estados, Distrito Federal e Municípios, é auxiliar na elaboração de políticas sobre drogas.\nIII. O atendimento ao usuário ou dependente de drogas na rede de atenção à saúde não dependerá necessariamente da avaliação prévia por equipe técnica multidisciplinar e multissetorial.\nEstá(ão) CORRETO(S):",
+  "alts": [
+   "Somente o item I.",
+   "Somente o item II.",
+   "Somente o item III.",
+   "Todos os itens."
+  ],
+  "gab": 1,
+  "tema": "mental",
+  "sub": "Álcool e outras drogas",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 11.343/2006, com redação da Lei 13.840/2019, arts. 8º-E e 23-A",
+  "coment": "A Lei 13.840/2019 alterou a Lei de Drogas (Lei 11.343/2006). O item I é falso: a lei estimula a participação social nas políticas sobre drogas, não sua limitação. O item II é verdadeiro: os conselhos estaduais, distrital e municipais têm como objetivo auxiliar na elaboração de políticas sobre drogas (art. 8º-E). O item III é falso: pelo art. 23-A, o atendimento na rede de atenção à saúde depende de avaliação prévia por equipe técnica multidisciplinar e multissetorial e da elaboração do Plano Individual de Atendimento (PIA).",
+  "porAlt": [
+   "Limitar a participação social contraria a lei, que a prevê na formulação e avaliação das políticas.",
+   "Correta: auxiliar na elaboração de políticas sobre drogas é objetivo dos conselhos (art. 8º-E).",
+   "O art. 23-A exige avaliação prévia por equipe multidisciplinar e multissetorial, então o item III é falso.",
+   "Os itens I e III são falsos; só o item II reproduz a lei."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 20,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo a Nota Técnica nº 11/2019, no que se refere às mudanças realizadas nas diretrizes da Política Nacional sobre Drogas (Resolução CONAD nº 01/2018), analisar os itens abaixo:\nI. O fomento à pesquisa deve se dar de forma equânime, garantindo a participação de pesquisadores de diferentes correntes de pensamento e atuação.\nII. Tem posição favorável à legalização de determinadas drogas.\nIII. Propõe manutenção dos documentos legais de orientação sobre a Política Nacional sobre Drogas, destinados aos parceiros governamentais, aos profissionais da saúde e à população em geral.\nEstá(ão) CORRETO(S):",
+  "alts": [
+   "Somente o item I.",
+   "Somente o item II.",
+   "Somente o item III.",
+   "Todos os itens."
+  ],
+  "gab": 0,
+  "tema": "mental",
+  "sub": "Álcool e outras drogas",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Nota Técnica 11/2019-CGMAD/DAPES/SAS/MS; Portaria GM/MS 757/2023",
+  "coment": "A Nota Técnica 11/2019 resumia as mudanças da Política Nacional sobre Drogas pela Resolução CONAD 1/2018: fomento equânime à pesquisa, com pesquisadores de diferentes correntes (item I, verdadeiro); posição contrária à legalização das drogas (item II, falso); e atualização dos documentos de orientação, não sua manutenção (item III, falso). Leia como retrato de 2019: a Portaria GM/MS 757/2023 revogou a Portaria 3.588/2017, base das mudanças na RAPS que a nota defendia.",
+  "porAlt": [
+   "Correta: só o fomento equânime à pesquisa reproduz a nota; ela era contrária à legalização e propunha revisar os documentos.",
+   "A nota se posicionava contra a legalização de drogas, então o item II é falso.",
+   "A nota propunha atualizar os documentos de orientação, e não mantê-los.",
+   "Os itens II e III contrariam o texto da nota técnica."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 21,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Nota Técnica nº 11/2019, que trata dos esclarecimentos sobre as mudanças na Política Nacional de Saúde Mental e nas Diretrizes da Política Nacional sobre Drogas, a atenção integral ao usuário no CAPS AD IV inclui as seguintes atividades:\nI. Oferta de medicação assistida e dispensada.\nII. Visitas e atendimentos domiciliares.\nIII. Atividades de reabilitação educacional.\nIV. Fornecimento de refeição diária aos usuários.\nEstão CORRETOS:",
+  "alts": [
+   "Somente os itens I, II e IV.",
+   "Somente os itens I, III e IV.",
+   "Somente os itens II e III.",
+   "Todos os itens."
+  ],
+  "gab": 0,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Nota Técnica 11/2019-CGMAD/DAPES/SAS/MS; Portaria GM/MS 757/2023",
+  "coment": "Pela nota de 2019, a atenção integral no CAPS AD IV incluía, como nos demais CAPS AD, oferta de medicação assistida e dispensada, visitas e atendimentos domiciliares e refeição diária aos usuários. O item III erra o termo: a atividade prevista é de reabilitação psicossocial (autonomia, reinserção escolar, trabalho, vida cultural), não reabilitação educacional. Atenção: o CAPS AD IV foi revogado em 2023, quando a Portaria GM/MS 757/2023 revogou a Portaria 3.588/2017; os serviços já habilitados mantêm o custeio até nova regulamentação.",
+  "porAlt": [
+   "Correta: medicação assistida, visita domiciliar e refeição diária constavam das atividades; reabilitação educacional não.",
+   "Exclui as visitas e atendimentos domiciliares, previstos, e inclui a inexistente reabilitação educacional.",
+   "Deixa de fora a medicação assistida e a refeição diária, e inclui a reabilitação educacional.",
+   "O item III é falso: a atividade prevista é de reabilitação psicossocial."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 22,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com BONASSA e GATO, em relação às drogas envolvidas nas toxicidades não hematológicas, numerar a 2ª coluna de acordo com a 1ª e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n(1) Cistite.\n(2) Mucosite.\n(3) Neuropatia periférica.\n(4) Miocardite.\n( ) Ciclofosfamida.\n( ) Carboplatina.\n( ) Melfalano.\n( ) Mitoxantrona.",
+  "alts": [
+   "2 - 3 - 1 - 4.",
+   "1 - 4 - 3 - 2.",
+   "1 - 3 - 2 - 4.",
+   "3 - 4 - 1 - 2."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Bonassa EMA, Gato MIR. Terapêutica Oncológica para Enfermeiros e Farmacêuticos, 4ª ed., 2012",
+  "coment": "Cada antineoplásico tem uma toxicidade não hematológica marcante. A ciclofosfamida causa cistite hemorrágica pelo metabólito acroleína, por isso se faz hidratação e, em altas doses, mesna. A carboplatina, como os demais derivados da platina, pode causar neuropatia periférica, embora menos que a cisplatina. O melfalano, sobretudo em altas doses no transplante, causa mucosite intensa. A mitoxantrona, análoga das antraciclinas, é cardiotóxica e tem dose cumulativa limite. Sequência: 1, 3, 2, 4.",
+  "porAlt": [
+   "Ciclofosfamida não se associa principalmente a mucosite, e sim a cistite hemorrágica.",
+   "Carboplatina não é a droga típica de miocardite; a cardiotoxicidade é da mitoxantrona.",
+   "Correta: ciclofosfamida e cistite, carboplatina e neuropatia, melfalano e mucosite, mitoxantrona e miocardite.",
+   "Atribui neuropatia à ciclofosfamida e mucosite à mitoxantrona, trocando as toxicidades típicas."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 23,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com BONASSA e GATO, a mucosite consiste na resposta inflamatória das membranas mucosas à ação das drogas anablásticas. Estima-se que a mucosite oral ocorra em aproximadamente 40% dos pacientes que recebem quimioterapia em doses convencionais para tumores sólidos, e em 60% a 70% dos pacientes que recebem quimioterapia para tumores hematológicos. Em relação à mucosite, assinalar a alternativa que cita as suas quatro fases e a ordem em que elas ocorrem:",
+  "alts": [
+   "Inflamatória/vascular, epitelial, cavitária e regenerativa.",
+   "Inflamatória/vascular, epitelial, ulcerativa/bacteriana e de cicatrização.",
+   "Epitelial, inflamatória/bacteriana, ulcerativa e regenerativa.",
+   "Epitelial, ulcerativa, inflamatória/bacteriana e regenerativa."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Bonassa EMA, Gato MIR. Terapêutica Oncológica para Enfermeiros e Farmacêuticos, 4ª ed., 2012",
+  "coment": "O modelo clássico de Sonis, adotado por Bonassa e Gato, descreve a mucosite em quatro fases sequenciais: inflamatória ou vascular (liberação de citocinas logo após a quimioterapia), epitelial (redução da renovação celular, atrofia e eritema), ulcerativa ou bacteriana (perda da barreira, úlceras e colonização, fase mais dolorosa e de maior risco de infecção) e de cicatrização. Modelos biológicos mais recentes subdividem o processo em cinco etapas, mas a sequência de quatro fases é a cobrada no livro.",
+  "porAlt": [
+   "Cavitária e regenerativa não são nomes das fases; a terceira é ulcerativa ou bacteriana e a última, de cicatrização.",
+   "Correta: inflamatória ou vascular, epitelial, ulcerativa ou bacteriana e de cicatrização.",
+   "A fase inicial é a inflamatória ou vascular, não a epitelial.",
+   "A ordem está errada: a inflamação vascular vem primeiro e precede a fase epitelial."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 24,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com HOCKENBERRY e WILSON, a avaliação da dor em crianças é uma atividade complexa e desafiadora. Nesse sentido, três tipos de medidas foram desenvolvidas para medir a dor em crianças e sua aplicabilidade depende da capacidade cognitiva e linguística da criança. Essas medidas são:",
+  "alts": [
+   "Comportamental, fisiológica e autorrelato.",
+   "Comportamental, visual e descritiva.",
+   "Visual, fisiológica e autorrelato.",
+   "Fisiológica, visual e analógica."
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hockenberry MJ, Wilson D. Wong Fundamentos de Enfermagem Pediátrica, 10ª ed., 2018",
+  "coment": "Hockenberry e Wilson agrupam as medidas de dor pediátrica em três tipos: comportamentais (choro, expressão facial, movimentos, como nas escalas FLACC e NIPS), fisiológicas (frequência cardíaca, pressão arterial, saturação, sudorese) e de autorrelato (escalas de faces, numérica, visual analógica). A escolha depende da idade e da capacidade cognitiva e verbal: autorrelato quando a criança consegue informar, comportamentais e fisiológicas nos lactentes e nos que não verbalizam.",
+  "porAlt": [
+   "Correta: medidas comportamentais, fisiológicas e de autorrelato, conforme a capacidade cognitiva e linguística.",
+   "Visual e descritiva são formatos de escala de autorrelato, não tipos de medida.",
+   "Visual não é um dos três tipos; falta a medida comportamental.",
+   "Visual e analógica são formatos de autorrelato; faltam comportamental e autorrelato como categorias."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 25,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com OLIVEIRA, a bronquiolite é uma infecção virótica autolimitada, mas potencialmente grave, com inflamação e obstrução predominante em bronquíolos terminais em lactentes pequenos (pico entre 2 e 6 meses), podendo ocorrer até os 2 anos de idade. Em relação a essa doença, assinalar a alternativa que representa um fator de risco no lactente:",
+  "alts": [
+   "Dificuldades na amamentação.",
+   "Idade entre 2 e 6 meses, sexo feminino.",
+   "Mãe obesa.",
+   "Família numerosa."
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Diretrizes para o manejo da infecção causada pelo vírus sincicial respiratório (VSR), 2017",
+  "coment": "São fatores de risco para bronquiolite e para sua forma grave: prematuridade, idade abaixo de 6 meses, sexo masculino, cardiopatia congênita, doença pulmonar crônica, ausência de aleitamento materno, exposição ao tabaco, frequência a creche e aglomeração domiciliar, com irmãos em idade escolar. Família numerosa traduz a aglomeração e o contato com crianças maiores que trazem o vírus para casa. O sexo de risco é o masculino.",
+  "porAlt": [
+   "O fator de risco descrito é a ausência de aleitamento materno, não a dificuldade de amamentar em si.",
+   "A idade entre 2 e 6 meses é o pico, mas o sexo de risco é o masculino, o que torna a alternativa errada.",
+   "Obesidade materna não figura entre os fatores de risco para bronquiolite.",
+   "Correta: família numerosa significa aglomeração e contato com irmãos, fator de risco clássico."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 26,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando-se CAMPANHA, sobre a liderança na enfermagem hospitalar brasileira, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n( ) É indispensável desenvolver uma cultura que enxergue a liderança como uma marca da instituição, um poder de todos, e não como dever de alguns.\n( ) A liderança do Enfermeiro é uma competência eminentemente relacional, facilmente auditável.",
+  "alts": [
+   "C - E.",
+   "C - C.",
+   "E - E.",
+   "E - C."
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Marquis BL, Huston CJ. Administração e Liderança em Enfermagem: teoria e prática, 8ª ed., 2015",
+  "coment": "A primeira afirmativa está certa: a liderança precisa ser cultura da instituição, exercida por todos, e não tarefa de poucos cargos. A segunda erra no final. A liderança do enfermeiro é de fato uma competência relacional, construída na interação com a equipe, o paciente e a instituição, mas justamente por isso é difícil de mensurar e auditar; não se reduz a indicadores objetivos como uma tarefa técnica.",
+  "porAlt": [
+   "Correta: liderança como marca da instituição é certa; facilmente auditável é errado, pois a competência relacional é difícil de medir.",
+   "A competência relacional não é facilmente auditável, então a segunda afirmativa é errada.",
+   "A primeira afirmativa está certa: liderança como cultura compartilhada é o que o texto defende.",
+   "Inverte o julgamento: a primeira é certa e a segunda, errada."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 27,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com BRUNNER e SUDDARTH, no que diz respeito a linfonodos axilares e sentinela, numerar a 2ª coluna de acordo com a 1ª e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n(1) Biópsia de linfonodo sentinela.\n(2) Dissecção de linfonodos axilares.\n( ) Incidência de linfedema de aproximadamente 0 a 20%.\n( ) Sem necessidade de dreno cirúrgico.\n( ) Anestesia local com sedação intravenosa moderada; cirurgia ambulatorial.",
+  "alts": [
+   "1 - 2 - 1.",
+   "1 - 1 - 2.",
+   "2 - 1 - 1.",
+   "2 - 1 - 2."
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "Brunner e Suddarth comparam as duas abordagens da axila no câncer de mama. A dissecção de linfonodos axilares remove vários níveis de linfonodos, tem maior morbidade e incidência de linfedema que pode chegar a cerca de 20%, e costuma exigir dreno. A biópsia de linfonodo sentinela retira só o primeiro ou os primeiros linfonodos de drenagem, dispensa dreno, pode ser feita com anestesia local e sedação moderada e em regime ambulatorial. Sequência: 2, 1, 1.",
+  "porAlt": [
+   "O linfedema de até cerca de 20% é da dissecção axilar, não da biópsia de sentinela.",
+   "O linfedema mais frequente é da dissecção, e a cirurgia ambulatorial com sedação é da biópsia de sentinela.",
+   "Correta: linfedema até cerca de 20% na dissecção; sem dreno e ambulatorial na biópsia de linfonodo sentinela.",
+   "A cirurgia ambulatorial com anestesia local e sedação é da biópsia de sentinela, não da dissecção."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 28,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com BRUNNER e SUDDARTH, no que diz respeito à pele, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n( ) O estrato córneo é quase totalmente substituído a cada 3 ou 4 semanas.\n( ) As células de Merkel podem desempenhar o papel de receptoras que transmitem os estímulos para o axônio por meio de uma sinapse química.",
+  "alts": [
+   "C - E.",
+   "C - C.",
+   "E - E.",
+   "E - C."
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Fisiologia da cicatrização",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "As duas afirmativas reproduzem a anatomia da pele em Brunner e Suddarth. A epiderme se renova continuamente: as células da camada basal migram até o estrato córneo, que é quase totalmente substituído a cada 3 a 4 semanas. As células de Merkel, na camada basal, funcionam como mecanorreceptores do tato e transmitem o estímulo ao axônio sensitivo por sinapse química. Saber a renovação da epiderme ajuda a entender a cicatrização e a descamação.",
+  "porAlt": [
+   "A segunda também está certa: as células de Merkel atuam como receptores e se comunicam com o axônio por sinapse química.",
+   "Correta: renovação do estrato córneo em 3 a 4 semanas e células de Merkel como receptoras por sinapse química.",
+   "As duas afirmativas estão de acordo com Brunner e Suddarth.",
+   "A primeira também está certa: o estrato córneo é quase todo substituído a cada 3 a 4 semanas."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 29,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando-se BRUNNER e SUDDARTH, sobre avaliação neurológica, assinalar a alternativa que preenche as lacunas abaixo CORRETAMENTE:\nA _____________ é a perda da capacidade de reconhecer objetos por meio de determinado sistema sensorial; pode ser visual, auditiva ou tátil. A _____________ é a incapacidade de coordenar os movimentos musculares, resultando em dificuldade de caminhar, conversar e realizar as atividades de autocuidado. A _____________ é o aumento duradouro na tensão de um músculo quando este é alongado ou estendido passivamente.",
+  "alts": [
+   "agnosia | ataxia | espasticidade",
+   "ataxia |agnosia | espasticidade",
+   "agnosia | espasticidade | ataxia",
+   "espasticidade | agnosia | ataxia"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "Os três termos do exame neurológico têm definição precisa em Brunner e Suddarth. Agnosia é a perda da capacidade de reconhecer objetos por um sistema sensorial (visual, auditiva ou tátil), com o órgão sensorial íntegro. Ataxia é a incapacidade de coordenar movimentos, que prejudica marcha, fala e autocuidado, típica de lesão cerebelar. Espasticidade é o aumento duradouro do tônus quando o músculo é estirado passivamente, sinal de lesão do neurônio motor superior.",
+  "porAlt": [
+   "Correta: agnosia, ataxia e espasticidade, na ordem das definições.",
+   "Troca agnosia e ataxia: a perda de reconhecimento sensorial é agnosia, e a incoordenação é ataxia.",
+   "Troca ataxia e espasticidade: incoordenação motora é ataxia; aumento do tônus ao estiramento é espasticidade.",
+   "Nenhum termo está na posição certa."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 30,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando-se BRUNNER e SUDDARTH, sobre as camadas das meninges, assinalar a alternativa que preenche as lacunas abaixo CORRETAMENTE:\nA _________________ é resistente, espessa, não elástica, fibrosa e cinzenta.\nA ________________ é delicada e extremamente fina, que se assemelha estreitamente a uma teia de aranha; ela contém líquido cerebrospinal no espaço abaixo dela, conhecido como espaço subaracnóideo.\nA ________________ trata-se da camada transparente fina e mais interna, que envolve estreitamente o encéfalo e estende-se em cada dobra da superfície do encéfalo.",
+  "alts": [
+   "Aracnoide-máter | Dura-máter | Pia-máter",
+   "Pia-máter | Dura-máter | Aracnoide-máter",
+   "Dura-máter | Aracnoide-máter | Pia-máter",
+   "Aracnoide-máter | Pia-máter | Dura-máter"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "As meninges são três, de fora para dentro. A dura-máter é a mais externa, espessa, resistente, fibrosa e não elástica. A aracnoide-máter é a intermediária, delicada, com aspecto de teia de aranha; abaixo dela fica o espaço subaracnóideo, com líquido cerebrospinal, onde sangra a hemorragia subaracnóidea e de onde se colhe o líquor. A pia-máter é a mais interna, fina e transparente, aderida ao encéfalo e acompanhando seus giros e sulcos.",
+  "porAlt": [
+   "A camada espessa e fibrosa é a dura-máter, não a aracnoide.",
+   "A pia-máter é fina e interna; a descrição de camada espessa e fibrosa é da dura-máter.",
+   "Correta: dura-máter, aracnoide-máter e pia-máter, de fora para dentro.",
+   "Inverte a ordem: a camada mais interna e aderida ao encéfalo é a pia-máter."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com BRUNNER e SUDDARTH, no que diz respeito aos cuidados de enfermagem durante uma convulsão, analisar os itens abaixo:\nI. Tentar abrir a boca se estiver cerrada, durante um espasmo, a fim de tentar inserir algo para evitar que a língua obstrua a via aérea.\nII. Afrouxar as roupas apertadas.\nIII. Colocar o paciente em decúbito lateral com a cabeça flexionada para frente.\nEstão CORRETOS:",
+  "alts": [
+   "Somente os itens I e II.",
+   "Somente os itens I e III.",
+   "Somente os itens II e III.",
+   "Todos os itens."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "Durante a crise convulsiva, o objetivo é proteger o paciente e a via aérea sem provocar lesão. Não se tenta abrir a boca cerrada nem introduzir objetos: isso quebra dentes, lesa a boca e não evita obstrução. Afrouxam-se roupas apertadas, protege-se a cabeça, afastam-se objetos e coloca-se o paciente em decúbito lateral com a cabeça levemente flexionada para a frente, para a língua cair e a saliva escorrer, reduzindo o risco de aspiração. Registram-se início, duração e características da crise.",
+  "porAlt": [
+   "O item I é contraindicado: forçar a boca e inserir objetos causa lesão e não protege a via aérea.",
+   "O item I está errado; inserir objetos na boca durante o espasmo é conduta proscrita.",
+   "Correta: afrouxar roupas e lateralizar com a cabeça flexionada para a frente são condutas recomendadas.",
+   "O item I torna a alternativa errada, pois não se abre a boca nem se insere objeto."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com BRUNNER e SUDDARTH, no que diz respeito à enfermagem comunitária, analisar os itens abaixo:\nI. É um modelo de prestação de cuidados para pacientes e suas famílias.\nII. Nesse modelo, os pacientes e suas famílias são atendidos por vários profissionais de saúde do ambiente hospitalar.\nIII. Ocorre tipicamente após um episódio de doença aguda ou exacerbação de doença crônica.\nEstá(ão) CORRETO(S):",
+  "alts": [
+   "Somente o item I.",
+   "Somente os itens I e III.",
+   "Somente os itens II e III.",
+   "Todos os itens."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "Brunner e Suddarth descrevem a enfermagem comunitária como modelo de prestação de cuidados ao paciente e à família fora do hospital, no domicílio, em ambulatórios e serviços da comunidade. Ela ocorre tipicamente após um episódio de doença aguda ou exacerbação de doença crônica, dando continuidade ao cuidado depois da alta. O item II está errado porque o cuidado não é feito por profissionais do ambiente hospitalar, e sim por equipes que atuam na comunidade.",
+  "porAlt": [
+   "Incompleta: o item III também está correto, pois o cuidado comunitário costuma seguir a doença aguda ou a exacerbação.",
+   "Correta: modelo de cuidado ao paciente e à família, típico após doença aguda ou exacerbação de doença crônica.",
+   "O item II está errado: o cuidado comunitário não é prestado por profissionais do ambiente hospitalar.",
+   "O item II é falso, então nem todos os itens estão corretos."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinalar a alternativa que preenche as lacunas abaixo CORRETAMENTE:\nVários distúrbios hepáticos apresentam uma causa genética subjacente. No entanto, outros distúrbios genéticos associados a distúrbios metabólicos, gastrointestinais ou _____________ também comprometem a função hepática. Alguns exemplos de distúrbios hepáticos causados por anormalidades genéticas incluem _______________.",
+  "alts": [
+   "hereditários | talassemia",
+   "hemorrágicos | pancreatite",
+   "glomerulares | pancreatite",
+   "hemorrágicos | talassemia"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "O trecho vem do quadro de genética dos distúrbios hepáticos de Brunner e Suddarth. Além das doenças hepáticas de causa genética direta, como hemocromatose e doença de Wilson, distúrbios genéticos metabólicos, gastrointestinais ou do sangue comprometem o fígado. A talassemia é o exemplo: as transfusões repetidas e a hemólise causam sobrecarga de ferro, com depósito hepático e fibrose. A tradução usa hemorrágicos para esse grupo; pancreatite não é distúrbio hepático de causa genética.",
+  "porAlt": [
+   "Hereditários é redundante com distúrbios genéticos; o grupo citado no texto é o dos distúrbios do sangue, traduzidos como hemorrágicos.",
+   "Pancreatite não é exemplo de distúrbio hepático causado por anormalidade genética.",
+   "Glomerulares não é o grupo citado, e pancreatite não é distúrbio hepático genético.",
+   "Correta: o texto cita distúrbios hemorrágicos e dá a talassemia como exemplo, pela sobrecarga hepática de ferro."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com BRUNNER e SUDDARTH, no que diz respeito a fatores de risco para infecção urinária, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n( ) Gota.\n( ) Abdome volumoso.",
+  "alts": [
+   "E - E.",
+   "C - C.",
+   "C - E",
+   "E - C."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "Brunner e Suddarth listam como fatores de risco para infecção urinária o esvaziamento incompleto da bexiga, a obstrução do fluxo urinário, a imunossupressão, a instrumentação do trato urinário, a inflamação da mucosa uretral e condições associadas como diabetes, gestação, doenças neurológicas e gota, ligadas à estase urinária e a cálculos. Abdome volumoso não está na lista. Por isso a sequência é certo para gota e errado para abdome volumoso.",
+  "porAlt": [
+   "A gota consta como condição que favorece a infecção urinária, então não é errada.",
+   "Abdome volumoso não está entre os fatores de risco listados.",
+   "Correta: gota é fator de risco listado; abdome volumoso não é.",
+   "Inverte o julgamento: a gota é fator de risco e o abdome volumoso não é."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a ANVISA, no que diz respeito a medidas de prevenção de infecção do trato urinário, analisar os itens abaixo:\nI. Há evidências de que o uso de sondas impregnadas com prata ou antibiótico diminui o risco de infecção.\nII. Cateteres de silicone mostram menor tendência a apresentar incrustações.\nIII. Cateteres hidrofílicos trazem mais conforto ao paciente e há evidências de redução de infecção.\nEstá(ão) CORRETO(S):",
+  "alts": [
+   "Somente o item I.",
+   "Somente o item II.",
+   "Somente o item III.",
+   "Somente os itens I e II."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "ANVISA. Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017",
+  "coment": "No capítulo de infecção do trato urinário do Caderno 4 da ANVISA, a escolha do cateter não substitui as medidas que de fato previnem a infecção: indicação precisa, inserção asséptica, sistema fechado e retirada precoce. Não há evidência de que sondas impregnadas com prata ou antibiótico reduzam o risco. Cateteres de silicone têm menor tendência a incrustações. Cateteres hidrofílicos dão mais conforto, mas sem evidência de redução de infecção. Só o item II está correto.",
+  "porAlt": [
+   "O item I é falso: não há evidência de que sondas com prata ou antibiótico reduzam a infecção urinária.",
+   "Correta: só a menor tendência a incrustação dos cateteres de silicone está de acordo com a ANVISA.",
+   "O hidrofílico melhora o conforto, mas não há evidência de que reduza a infecção.",
+   "O item I é falso, então a combinação I e II está errada."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a ANVISA, no que diz respeito a medidas de prevenção das infecções da corrente sanguínea, analisar os itens abaixo:\nI. Recomenda-se utilizar soluções em grandes volumes (por exemplo, bags e frascos de soro) como fonte para obter soluções para flushing.\nII. Uma das indicações para o uso de cateter central de curta permanência é ter um plano infusional por um período maior que 21 dias.\nIII. Usar o volume mínimo equivalente a duas vezes o lúmen interno do cateter mais a extensão para flushing.\nEstá(ão) CORRETO(S):",
+  "alts": [
+   "Somente o item I.",
+   "Somente o item II.",
+   "Somente o item III.",
+   "Somente os itens I e II."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "ANVISA. Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017",
+  "coment": "Pelo Caderno 4 da ANVISA, o flushing usa volume mínimo de duas vezes o lúmen interno do cateter mais a extensão (item III, certo), de preferência com seringa ou flaconete de dose única; soluções de grande volume, como bags e frascos de soro, não devem servir de fonte para flushing, pelo risco de contaminação (item I, errado). O cateter central de curta permanência é para uso limitado; plano infusional acima de 21 dias pede dispositivo de longa permanência, como PICC, tunelizado ou totalmente implantável (item II, errado).",
+  "porAlt": [
+   "Usar bags e frascos de soro como fonte de flushing é contraindicado pelo risco de contaminação.",
+   "Plano infusional acima de 21 dias indica dispositivo de longa permanência, não cateter central de curta permanência.",
+   "Correta: o flushing usa no mínimo duas vezes o volume do lúmen interno mais a extensão.",
+   "Os itens I e II são falsos pelo Caderno 4 da ANVISA."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com BARROS et al., no que diz respeito ao Processo de Enfermagem (PE), analisar os itens abaixo:\nI. Para implantar o PE em nosso País, Horta realizou missões em diferentes cidades e unidades de saúde.\nII. No Brasil, somente no final da década de 1990 é que atividades ligadas ao PE começam a ser respaldadas pela legislação profissional de enfermagem, a qual regulamentava que a prescrição e a consulta de enfermagem eram atribuições privativas do Enfermeiro.\nIII. Em 2002, o Conselho Federal de Enfermagem (COFEN) publicou a Resolução nº 272/2002, introduzindo o termo Sistematização da Assistência de Enfermagem (SAE) em acréscimo ao de PE.\nEstá(ão) CORRETO(S):",
+  "alts": [
+   "Somente o item II.",
+   "Somente os itens I e II.",
+   "Somente os itens I e III.",
+   "Todos os itens."
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Barros ALBL et al. Processo de Enfermagem: guia para a prática, COREN-SP, 2015; Resolução COFEN 736/2024",
+  "coment": "Barros e colaboradores narram que Wanda Horta difundiu o PE no Brasil em missões por diferentes cidades e serviços (I, certo) e que a Res. COFEN 272/2002 introduziu o termo SAE ao lado de PE (III, certo). O item II erra a década: a Lei 7.498/1986 já tornou privativas do enfermeiro a consulta e a prescrição de enfermagem. Hoje a norma do PE é a Res. COFEN 736/2024, que revogou a 358/2009 e organiza o processo em cinco etapas: avaliação, diagnóstico, planejamento, implementação e evolução.",
+  "porAlt": [
+   "O item II está errado: a consulta e a prescrição de enfermagem foram tornadas privativas pela Lei 7.498 em 1986, não no fim dos anos 1990.",
+   "O item II é falso pela data, e o item III, verdadeiro, ficou de fora.",
+   "Correta: as missões de Horta e a introdução do termo SAE pela Res. 272/2002 estão no texto de Barros.",
+   "O item II é falso, pois o respaldo legal veio com a Lei 7.498/1986."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com BRUNNER e SUDDARTH, a comunicação terapêutica é fundamental para a relação entre Enfermeiro e paciente. Para isso, diversas técnicas de comunicação terapêutica podem ser utilizadas, como:\nI. Manutenção do foco.\nII. Silêncio.\nIII. Esclarecimento.\nEstá(ão) CORRETO(S):",
+  "alts": [
+   "Somente o item I.",
+   "Somente o item II e III.",
+   "Somente os itens I e III.",
+   "Todos os itens."
+  ],
+  "gab": 3,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "Brunner e Suddarth listam técnicas de comunicação terapêutica que ajudam o paciente a expressar sentimentos e a organizar o pensamento. Manter o foco evita dispersão e aprofunda o tema relevante. O silêncio dá tempo para o paciente pensar e mostra aceitação. O esclarecimento pede que o paciente explique o que quis dizer, evitando interpretações erradas. As três são técnicas terapêuticas; bloqueios seriam dar conselhos, julgar ou tranquilizar de forma vazia.",
+  "porAlt": [
+   "Incompleta: silêncio e esclarecimento também são técnicas terapêuticas.",
+   "Incompleta: a manutenção do foco também é técnica de comunicação terapêutica.",
+   "Incompleta: o silêncio é técnica terapêutica, que dá tempo e transmite aceitação.",
+   "Correta: manter o foco, silêncio e esclarecimento são técnicas de comunicação terapêutica."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A bioética, na sua origem e complexidade, pode ser utilizada como um amplo referencial teórico para dar suporte às discussões sobre saúde e intervenções científicas. Sobre o assunto, analise as proposições abaixo.\nI. A bioética se tornou um campo de encontro para numerosas disciplinas, discursos e organizações envolvidas com questões éticas, legais e sociais trazidas pelos avanços da medicina, ciência e biotecnologia.\nII. Os conhecimentos e discussões gerados pela bioética e pela ecologia contribuíram para ampliar a noção de responsabilidade, durante muito tempo, associada aos deveres existentes entre seres humanos contemporâneos e geograficamente próximos.\nIII. A bioética baseia-se na perspectiva usual da relação dos seres humanos com a natureza, no sentido de domínio sobre a mesma, o ambiente natural visto como um recurso para ser desfrutado e as discussões políticas centradas no âmbito nacional.\nIV. Bioética significa o reconhecimento de obrigações éticas, não apenas com relação ao ser humano, mas para com todos os seres vivos.\nV. Durante muito tempo, a relação profissional paciente, por exemplo, foi considerada como sendo um sistema fechado, onde apenas esses dois elementos contavam. Com a crescente participação da família, das empresas de seguro e de outros profissionais prestadores de serviço, o sistema teve que ser aberto para ser adequadamente entendido.\nÉ correto o que se afirma em",
+  "alts": [
+   "III, apenas.",
+   "I, II, IV e V, apenas.",
+   "I, II, III e IV, apenas.",
+   "I, II, III, IV e V."
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Goldim JR. Bioética: origens e complexidade. Revista HCPA 2006;26(2):86-92",
+  "coment": "Goldim descreve a bioética como campo de encontro de várias disciplinas diante dos avanços da medicina e da biotecnologia (I), que ampliou a noção de responsabilidade para além dos contemporâneos e próximos (II), com obrigações para com todos os seres vivos (IV), e que abriu a relação profissional e paciente a família, seguradoras e outros profissionais (V). O item III é falso: a bioética, desde Potter, rompe com a visão de domínio sobre a natureza como recurso a ser desfrutado e propõe um olhar global, não só nacional.",
+  "porAlt": [
+   "O item III é justamente o falso, pois a bioética critica a visão de domínio sobre a natureza.",
+   "Correta: I, II, IV e V descrevem a bioética; o III contraria sua proposta de responsabilidade com a natureza.",
+   "Inclui o item III, falso, e exclui o V, que descreve a abertura da relação profissional e paciente.",
+   "O item III é falso, então nem todas as afirmativas estão corretas."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 1,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Política Nacional de Educação Permanente em Saúde propõe uma configuração para que os profissionais de saúde produzam conhecimento, pensem na educação e no trabalho. Sobre esse assunto, assinale a alternativa correta.",
+  "alts": [
+   "Como política pública, baseia-se na aprendizagem verticalizada, pautando-se nas práticas em ação na rede de serviços e, por conseguinte, no conhecimento da realidade.",
+   "A Residência Multiprofissional em Saúde tem como objetivo formar profissionais para atuação no SUS, uma vez que pressupõe construção interdisciplinar dos profissionais em saúde e trabalho em equipe.",
+   "A Residência Multiprofissional em Saúde como estratégia para a disseminação da Educação Permanente em Saúde entre os profissionais propõe a imutabilidade no campo da saúde.",
+   "O projeto pedagógico da Residência Multiprofissional em Saúde espera do residente comprometimento com os princípios do SUS, especialmente com estratégias de medicalização da saúde."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 1.996/2007 (PNEPS); Lei 11.129/2005, art. 13",
+  "coment": "A Política Nacional de Educação Permanente em Saúde (Portarias 198/2004 e 1.996/2007) parte da aprendizagem no trabalho, a partir dos problemas reais do serviço, de forma horizontal e participativa. A Residência em Área Profissional da Saúde, criada pelo art. 13 da Lei 11.129/2005, é ensino em serviço voltado à formação para o SUS, com construção interdisciplinar e trabalho em equipe. Por isso B é a correta; as demais contrariam a lógica de transformação das práticas.",
+  "porAlt": [
+   "A educação permanente é horizontal e participativa, não verticalizada.",
+   "Correta: a residência multiprofissional forma para o SUS, com construção interdisciplinar e trabalho em equipe.",
+   "A educação permanente busca transformar as práticas, o oposto de imutabilidade.",
+   "O compromisso com o SUS se opõe à medicalização da saúde, não a reforça."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 2,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre a Resolução RDC n.º 36/2013, que institui ações para a segurança do paciente em serviços de saúde e dá outras providências, analise as proposições abaixo e assinale (V) para Verdadeiro ou (F) para Falso.\n( ) Cultura da segurança é o conjunto de valores, atitudes, competências e comportamentos que determinam o comprometimento com a gestão da saúde e da segurança, substituindo a culpa e a punição pela oportunidade de aprender com as falhas e melhorar a atenção à saúde.\n( ) Dano é o comprometimento da estrutura ou função do corpo e/ou qualquer efeito dele oriundo, incluindo doenças, lesão, sofrimento, morte, incapacidade ou disfunção, podendo, assim, ser físico, social ou psicológico.\n( ) Evento adverso é o incidente que não chegou a ocorrer, mas com grande probabilidade.\nAssinale a alternativa que apresenta a sequência correta.",
+  "alts": [
+   "V / V / V",
+   "V / F / V",
+   "F / V / F",
+   "V / V / F"
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 3º",
+  "coment": "As definições estão no art. 3º da RDC 36/2013. Cultura da segurança: valores, atitudes, competências e comportamentos que substituem a culpa e a punição pela oportunidade de aprender com as falhas (verdadeiro). Dano: comprometimento da estrutura ou função do corpo e qualquer efeito dele oriundo, físico, social ou psicológico (verdadeiro). Evento adverso é o incidente que resulta em dano à saúde (falso); o incidente que não chega ao paciente é o quase erro, ou near miss.",
+  "porAlt": [
+   "A terceira é falsa: evento adverso é incidente que resulta em dano, não o que deixou de ocorrer.",
+   "A definição de dano está correta, e a de evento adverso está errada.",
+   "A definição de cultura da segurança reproduz o art. 3º, logo é verdadeira.",
+   "Correta: V, V, F; evento adverso é incidente que resulta em dano à saúde."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 3,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Segundo a Comissão Nacional sobre os Determinantes Sociais da Saúde (2008), tais determinantes estariam vinculados aos comportamentos individuais e às condições de vida e trabalho, bem como à macroestrutura _____________, _____________ e _____________.\nAssinale a alternativa que preenche corretamente as lacunas.",
+  "alts": [
+   "econômica / social / cultural",
+   "renda / crença / trabalho",
+   "crença / habitação / social",
+   "econômica / produção / crença"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Comissão Nacional sobre os Determinantes Sociais da Saúde. As causas sociais das iniquidades em saúde no Brasil, 2008",
+  "coment": "A Comissão Nacional sobre os Determinantes Sociais da Saúde (CNDSS, 2008) adotou o modelo de Dahlgren e Whitehead, em camadas: características individuais e comportamentos, redes sociais e comunitárias, condições de vida e trabalho e, na camada mais externa, os macrodeterminantes econômicos, sociais e culturais. Daí a expressão macroestrutura econômica, social e cultural. Renda, crença e habitação são elementos de camadas internas, não da macroestrutura.",
+  "porAlt": [
+   "Correta: macroestrutura econômica, social e cultural é a camada externa do modelo adotado pela CNDSS.",
+   "Renda, crença e trabalho não formam a macroestrutura; trabalho e renda estão nas condições de vida.",
+   "Habitação pertence às condições de vida e trabalho, não à macroestrutura.",
+   "Produção e crença não são os termos usados; a macroestrutura é econômica, social e cultural."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 4,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre a Política Nacional de Vigilância em Saúde (PNVS), analise as proposições abaixo e assinale (V) para Verdadeiro ou (F) para Falso.\n( ) A PNVS incide sobre todos os níveis e formas de atenção à saúde, abrangendo todos os serviços de saúde públicos e privados, além de estabelecimentos relacionados à produção e circulação de bens de consumo e tecnologias que, direta ou indiretamente, se relacionem com a saúde.\n( ) A definição utilizada para emergência em saúde pública é: situação que demanda o emprego urgente de medidas de prevenção, controle e contenção de riscos, danos e agravos à saúde pública.\n( ) A Política Nacional de Vigilância em Saúde é uma política pública de Estado e função essencial do SUS, tendo caráter universal, transversal e orientador do modelo de atenção nos territórios, sendo a sua gestão de responsabilidade do poder público e poder privado.\nAssinale a alternativa que apresenta a sequência correta.",
+  "alts": [
+   "V / V / V",
+   "V / V / F",
+   "F / V / V",
+   "V / F / V"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde), art. 2º",
+  "coment": "Pela Res. CNS 588/2018, a PNVS incide sobre todos os níveis e formas de atenção, abrangendo serviços públicos e privados e estabelecimentos de produção e circulação de bens e tecnologias ligados à saúde (verdadeiro). Emergência em saúde pública é a situação que demanda emprego urgente de medidas de prevenção, controle e contenção de riscos, danos e agravos (verdadeiro). A terceira erra no fim: o art. 2º diz que a gestão da PNVS é de responsabilidade exclusiva do poder público, não do poder privado.",
+  "porAlt": [
+   "A terceira é falsa: a gestão da PNVS é exclusiva do poder público.",
+   "Correta: V, V, F; a política alcança serviços privados, mas sua gestão é exclusiva do poder público.",
+   "A primeira é verdadeira: a PNVS abrange serviços públicos e privados e a produção de bens de consumo.",
+   "A definição de emergência em saúde pública está correta, e a terceira é falsa."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 5,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre os conceitos de saúde e doença ao longo da história, correlacione as colunas da tabela abaixo.\nColuna I\n1. Antiguidade.\n2. Idade Moderna.\n3. O Olhar Epidemiológico.\n4. O Olhar Antropológico.\nColuna II\nA. Tende à redução, à objetividade e à fragmentação do conhecimento, traduzindo os acontecimentos por meio de formas abstratas, demonstráveis e calculáveis.\nB. Aspectos econômicos, políticos, socioculturais, socioepidemiológicos e históricos influenciam o processo de viver e a saúde humana e os modos de vida, de trabalho e de produção são fundamentais para se compreender os processos de saúde, adoecimento e morte da população.\nC. Acreditava-se que as doenças poderiam ser causadas por elementos naturais ou sobrenaturais.\nD. Baseadas em questionamentos que envolvem valores e significados relacionados a determinados hábitos e comportamentos considerados como de risco e de agravos à saúde.\nAssinale a alternativa que apresenta a sequência correta.",
+  "alts": [
+   "1C / 2D / 3A / 4B",
+   "1C / 2A / 3D / 4B",
+   "1D / 2A / 3B / 4C",
+   "1B / 2C / 3D / 4A"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Backes MTS et al. Conceito de saúde e doença ao longo da história sob o olhar epidemiológico e antropológico. Rev Enferm UERJ 2009;17(1):111-7",
+  "coment": "Na Antiguidade, as doenças eram atribuídas a causas naturais ou sobrenaturais (1C). A Idade Moderna, com o método científico cartesiano, tende à redução, à objetividade e à fragmentação, traduzindo os fenômenos em formas calculáveis (2A). No texto-base, o olhar epidemiológico trabalha com hábitos e comportamentos considerados de risco (3D), e o olhar antropológico considera aspectos econômicos, políticos, socioculturais e modos de vida e trabalho (4B). Só a alternativa B tem 1C e 2A juntas.",
+  "porAlt": [
+   "A Idade Moderna corresponde à visão reducionista e fragmentada (A), não aos comportamentos de risco.",
+   "Correta: 1C, 2A, 3D, 4B, como no texto de Backes e colaboradores.",
+   "A Antiguidade se associa às causas naturais ou sobrenaturais (C), não aos comportamentos de risco.",
+   "A Antiguidade não corresponde aos determinantes econômicos e políticos; essa é a descrição B."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 6,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "São considerados atributos essenciais da rede de atenção à saúde:",
+  "alts": [
+   "população; estrutura operacional e um modelo de atenção à saúde.",
+   "carta dos Direitos dos Usuários da Saúde.",
+   "reativa e episódica, acionada pela demanda das pessoas usuárias.",
+   "população e territórios definidos; extensa gama de estabelecimentos de saúde prestando diferentes serviços; Atenção Primária à Saúde como primeiro nível de atenção; Serviços especializados; mecanismos de coordenação, continuidade do cuidado e assistência integral fornecidos de forma continuada; atenção à saúde centrada no indivíduo, na família e nas comunidades, levando em consideração as particularidades de cada um."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 4.279/2010 (consolidada na PRC 3/2017, Anexo I)",
+  "coment": "A Portaria 4.279/2010 enumera os atributos essenciais da RAS: população e território definidos; extensa gama de estabelecimentos prestando diferentes serviços; atenção primária como primeiro nível e coordenadora do cuidado; serviços especializados; mecanismos de coordenação e continuidade do cuidado; atenção centrada no indivíduo, na família e na comunidade; além de governança, financiamento, ação intersetorial e gestão por resultados. A alternativa D reproduz esse rol.",
+  "porAlt": [
+   "População, estrutura operacional e modelo de atenção são os três elementos constitutivos da RAS, não seus atributos.",
+   "A Carta dos Direitos dos Usuários é outro documento e não define atributos da RAS.",
+   "Atenção reativa e episódica descreve o sistema fragmentado que a RAS quer superar.",
+   "Correta: reproduz os atributos essenciais da RAS listados na Portaria 4.279/2010."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 7,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre a Política Nacional de Vigilância em Saúde, correlacione as colunas da tabela abaixo.\nColuna I\n1. Diretrizes.\n2. Princípios.\n3. Estratégias de organização.\n4. Responsabilidade do Estado/SES.\nColuna II\nA. A inserção da vigilância em saúde na Rede de Atenção à Saúde (RAS) A gestão do trabalho, o desenvolvimento e a educação permanente; Processos de trabalho integrados com a atenção à saúde.\nB. apoiar tecnicamente e atuar de forma integrada com as Secretarias Municipais de Saúde na implementação das ações de vigilância em saúde.\nC. Conhecimento do território; Integralidade; Equidade; universalidade e Cooperação e articulação intra e intersetorial.\nD. Processos de trabalho integrados com a atenção à saúde; promover a cooperação e o intercâmbio técnico científico no âmbito nacional e internacional; avaliar o impacto de novas tecnologias e serviços relacionados à saúde de forma a prevenir riscos e eventos adversos.\nAssinale a alternativa que apresenta a sequência correta.",
+  "alts": [
+   "1D / 2B / 3A / 4C",
+   "1C / 2A / 3B / 4D",
+   "1D / 2C / 3A / 4B",
+   "1B / 2C / 3D / 4A"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde)",
+  "coment": "Na Res. CNS 588/2018, os princípios incluem conhecimento do território, integralidade, equidade, universalidade e cooperação e articulação intra e intersetorial (2C). Inserção da vigilância na RAS, gestão do trabalho com educação permanente e processos de trabalho integrados à atenção são estratégias de organização (3A). Cooperação técnico-científica e avaliação do impacto de novas tecnologias aparecem como diretrizes (1D). Apoiar tecnicamente as secretarias municipais é responsabilidade da secretaria estadual (4B).",
+  "porAlt": [
+   "Apoiar as secretarias municipais é responsabilidade do estado (B), não princípio da política.",
+   "Os princípios são os da descrição C (território, integralidade, equidade), não os da A.",
+   "Correta: 1D, 2C, 3A, 4B, conforme a Res. CNS 588/2018.",
+   "Diretrizes não correspondem ao apoio técnico às secretarias municipais, que é papel do estado."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 8,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Região de Saúde deve conter, no mínimo, ações e serviços de\nI. atenção primária.\nII. urgência e emergência.\nIII. atenção psicossocial.\nIV. atenção ambulatorial especializada e hospitalar.\nV. vigilância em saúde.\nÉ correto o que se afirma em",
+  "alts": [
+   "II e IV, apenas.",
+   "I, IV e V, apenas.",
+   "I, II, IV e V, apenas.",
+   "I, II, III, IV e V."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, art. 5º",
+  "coment": "O art. 5º do Decreto 7.508/2011 exige que a Região de Saúde contenha, no mínimo, ações e serviços de atenção primária, urgência e emergência, atenção psicossocial, atenção ambulatorial especializada e hospitalar e vigilância em saúde. São cinco componentes obrigatórios, e a região é a base para a organização das redes e para a transferência de recursos. Todos os itens estão corretos.",
+  "porAlt": [
+   "Incompleta: atenção primária, atenção psicossocial e vigilância em saúde também são exigidas.",
+   "Incompleta: urgência e emergência e atenção psicossocial também fazem parte do mínimo.",
+   "Incompleta: deixa de fora a atenção psicossocial, exigida pelo art. 5º.",
+   "Correta: os cinco componentes constam do art. 5º do Decreto 7.508/2011."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 9,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O texto da Portaria n.º 4.279, de 30 de dezembro de 2010, apresenta os fundamentos da Rede de Atenção à Saúde. Sobre este assunto, assinale a alternativa correta.",
+  "alts": [
+   "Economia de escala ocorre quando os custos médios de longo prazo diminuem, à medida que aumenta o volume das atividades e os custos fixos se distribuem por um maior número dessas atividades, sendo o longo prazo, um período de tempo suficiente para que todos os insumos sejam variáveis.",
+   "Integração Vertical consiste na articulação ou fusão de unidades e serviços de saúde de mesma natureza ou especialidade. É utilizada para otimizar a escala de atividades, ampliar a cobertura e a eficiência econômica na provisão de ações e serviços de saúde através de ganhos de escala (redução dos custos médios totais em relação ao volume produzido) e escopo (aumento do rol de ações da unidade).",
+   "As Diretrizes Clínicas e as Linhas de Cuidado devem ser utilizadas apenas no âmbito hospitalar.",
+   "Os níveis de atenção referem-se aos limites geográficos e sua população e no estabelecimento do rol de ações e serviços que serão ofertados nesta região de saúde. As competências e responsabilidades dos pontos de atenção no cuidado integral estão correlacionadas com abrangência de base populacional, acessibilidade e escala para conformação de serviços."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 4.279/2010 (consolidada na PRC 3/2017, Anexo I)",
+  "coment": "Entre os fundamentos da RAS na Portaria 4.279/2010, economia de escala ocorre quando os custos médios de longo prazo caem à medida que aumenta o volume de atividades e os custos fixos se distribuem por mais atividades, sendo longo prazo o tempo em que todos os insumos são variáveis. A alternativa B define integração horizontal, não vertical. Diretrizes e linhas de cuidado valem para toda a rede. A alternativa D descreve região de saúde, não níveis de atenção.",
+  "porAlt": [
+   "Correta: reproduz a definição de economia de escala da Portaria 4.279/2010.",
+   "A articulação de unidades de mesma natureza é integração horizontal; a vertical une serviços de naturezas diferentes.",
+   "Diretrizes clínicas e linhas de cuidado orientam toda a rede, não só o hospital.",
+   "Limites geográficos e população definem a região de saúde; níveis de atenção se referem à densidade tecnológica."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 10,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre as principais ferramentas de microgestão dos serviços, analise as proposições abaixo e assinale (V) para Verdadeiro ou (F) para Falso.\n( ) A Rede de Atenção à Saúde organiza-se a partir de um processo de gestão da clínica associado ao uso de critérios de eficiência microeconômica na aplicação de recursos.\n( ) A gestão de caso é a mudança de um modelo de atenção à saúde focada no indivíduo, por meio de procedimentos curativos e reabilitadores, para uma abordagem baseada numa população adscrita, que identifica pessoas em risco de adoecer ou adoecidas, com foco na promoção da saúde e/ou ação preventiva, ou a atenção adequada, com intervenção precoce, com vistas a alcançar melhores resultados e menores custos.\n( ) A gestão dos riscos coletivos e ambientais passa pela vigilância, prevenção e controle das doenças, agravos e fatores de risco, onde o foco é a identificação oportuna de problemas de saúde na população, a identificação das causas e fatores desencadeantes, a descrição do comportamento, a proposição de medidas para o controle ou eliminação e o desencadeamento das ações.\nAssinale a alternativa que apresenta a sequência correta.",
+  "alts": [
+   "V / V / V",
+   "V / V / F",
+   "F / V / V",
+   "V / F / V"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 4.279/2010 (consolidada na PRC 3/2017, Anexo I)",
+  "coment": "A Portaria 4.279/2010 trata das ferramentas de microgestão. A RAS se organiza pela gestão da clínica associada a critérios de eficiência microeconômica na aplicação de recursos (verdadeiro). A segunda descreve a gestão de base populacional, que muda o foco do indivíduo para a população adscrita, estratificada por risco; a gestão de caso é o acompanhamento individual de pessoas em situação de alta complexidade (falso). A gestão dos riscos coletivos e ambientais passa pela vigilância, prevenção e controle de doenças e fatores de risco (verdadeiro).",
+  "porAlt": [
+   "A segunda é falsa: a mudança do foco individual para a população adscrita define a gestão de base populacional.",
+   "A terceira também é verdadeira, e a segunda é falsa.",
+   "A primeira é verdadeira: a gestão da clínica com eficiência microeconômica organiza a RAS.",
+   "Correta: V, F, V; a segunda descreve gestão de base populacional, não gestão de caso."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 11,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "As ações e serviços de saúde que integram o Sistema Único de Saúde (SUS) devem obedecer aos seguintes princípios:\nI. integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema.\nII. preservação da autonomia das pessoas na defesa de sua integridade física e moral.\nIII. direito à informação, às pessoas assistidas, sobre sua saúde.\nIV. utilização da epidemiologia para o estabelecimento de prioridades, a alocação de recursos e a orientação programática.\nÉ correto o que se afirma em",
+  "alts": [
+   "III, apenas.",
+   "I e II, apenas.",
+   "I, II e III, apenas.",
+   "I, II, III e IV."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º",
+  "coment": "O art. 7º da Lei 8.080/1990 lista os princípios do SUS. Todos os itens estão lá: integralidade da assistência como conjunto articulado e contínuo de ações preventivas e curativas, individuais e coletivas, em todos os níveis (inciso II); preservação da autonomia das pessoas na defesa de sua integridade física e moral (III); direito à informação às pessoas assistidas sobre sua saúde (V); e utilização da epidemiologia para estabelecer prioridades, alocar recursos e orientar a programação (VII).",
+  "porAlt": [
+   "Incompleta: integralidade, autonomia e epidemiologia também são princípios do art. 7º.",
+   "Incompleta: direito à informação e uso da epidemiologia também estão no art. 7º.",
+   "Incompleta: a utilização da epidemiologia para definir prioridades é o inciso VII do art. 7º.",
+   "Correta: os quatro itens são princípios do art. 7º da Lei 8.080/1990."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 12,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre as competências no Sistema Único de Saúde (SUS), correlacione as colunas abaixo.\nColuna I\n1. Direção nacional do SUS.\n2. Direção estadual do SUS.\n3. Direção municipal do SUS.\nColuna II\nA. Executar serviços: de vigilância epidemiológica; vigilância sanitária; de alimentação e nutrição; de saneamento básico; de saúde do trabalhador; e de saúde bucal.\nB. Participar na formulação e na implementação das políticas: de controle das agressões ao meio ambiente; de saneamento básico; e relativas às condições e aos ambientes de trabalho.\nC. Identificar estabelecimentos hospitalares de referência e gerir sistemas públicos de alta complexidade, de referência estadual e regional.\nAssinale a alternativa que apresenta a sequência correta.",
+  "alts": [
+   "1C / 2A / 3B",
+   "1B / 2C / 3A",
+   "1A / 2B / 3C",
+   "1A / 2C / 3B"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, arts. 16, 17 e 18",
+  "coment": "Participar da formulação e implementação das políticas de controle das agressões ao meio ambiente, de saneamento básico e relativas às condições e ambientes de trabalho é da direção nacional (art. 16, II). Identificar estabelecimentos hospitalares de referência e gerir sistemas públicos de alta complexidade, de referência estadual e regional, é da direção estadual (art. 17, IX). Executar serviços de vigilância epidemiológica e sanitária, alimentação e nutrição, saneamento, saúde do trabalhador e saúde bucal é da direção municipal (art. 18, IV).",
+  "porAlt": [
+   "A execução de serviços cabe ao município, não ao estado, e a gestão da alta complexidade regional é estadual.",
+   "Correta: 1B, 2C, 3A; União formula políticas, estado gere a alta complexidade regional e município executa os serviços.",
+   "Executar serviços de vigilância é do município, não da direção nacional.",
+   "A direção nacional não executa serviços; a execução cabe ao município (art. 18, IV)."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 13,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Um estudo incluiu 10.318 participantes para investigar a associação de atividades de lazer com risco de demência entre idosos. O envolvimento mais frequente em atividades relacionadas às habilidades de ler e escrever (por exemplo, escrever cartas ou escrever um diário, usar um computador e ter aulas/cursos) e em atividades mentais ativas (por exemplo, jogos, cartas ou xadrez e fazer palavras cruzadas ou quebra-cabeças) estiveram associados a uma estimativa de risco relativo para demência de 0,89 (IC 95%: 0,85-0,93) e 0,91 (IC 95%: 0,87-0,95), respectivamente.\nCom base nos dados apresentados, assinale a alternativa correta.",
+  "alts": [
+   "Idosos que realizam atividades envolvendo habilidades de ler e escrever apresentam um risco de demência 11% menor, bem como aqueles que realizam atividades mentais ativas um risco 9% menor, quando comparados aos que não realizam tais atividades.",
+   "Atividades envolvendo habilidades de ler e escrever estão associadas a um risco de demência 89% menor, bem como atividades mentais ativas a um risco 91% menor, quando comparados aos que não realizam tais atividades.",
+   "A probabilidade de demência é de 0,89% naqueles que realizam atividades envolvendo habilidades de ler e escrever e de 0,91% naqueles que realizam atividades mentais ativas.",
+   "Não foi encontrada significância estatística na associação entre realizar atividades envolvendo habilidades de ler e escrever, nem realizar atividades mentais ativas, com demência."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Medronho RA et al. Epidemiologia, 2ª ed., 2009",
+  "coment": "A redução relativa do risco é (1 menos RR) vezes 100. Com RR 0,89, o risco é 11% menor; com RR 0,91, 9% menor. Os dois IC95% (0,85 a 0,93 e 0,87 a 0,95) ficam inteiros abaixo de 1, então as associações são estatisticamente significativas. O RR é uma razão entre riscos, não uma probabilidade: 0,89 não quer dizer 0,89% de chance de demência nem redução de 89%.",
+  "porAlt": [
+   "Correta: RR 0,89 e 0,91 com IC95% abaixo de 1 indicam risco 11% e 9% menor, respectivamente.",
+   "Confunde o RR com a redução: RR 0,89 significa risco 11% menor, não 89% menor.",
+   "RR é razão entre riscos, não probabilidade absoluta de doença em percentual.",
+   "Os IC95% não incluem 1, logo as associações são significativas."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 14,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "No estudo que investigou a associação de atividades de lazer com risco de demência entre idosos, foi verificado que o envolvimento em atividades artísticas criativas (artesanato, marcenaria ou metalurgia e pintura ou desenho) apresentou risco relativo estimado para demência de 0,93 (IC 95%, 0,88-0,99) e em passeios externos um risco relativo de 1,00 (IC95%: 0,95 a 1,05).\nCom base nos dados apresentados, assinale a alternativa correta.",
+  "alts": [
+   "Idosos que realizam atividades artísticas criativas apresentam um risco de demência 7% menor, enquanto aqueles que realizam passeios externos um risco 100% menor, quando comparados aos que não realizam tais atividades.",
+   "Atividades artísticas criativas estão associadas a um risco de demência 93% menor, enquanto passeios externos a um risco 1% menor, quando comparados aos que não realizam tais atividades.",
+   "Estima-se que a redução relativa do risco para demência seja de 7% naqueles que realizam atividades artísticas criativas, comparados aos que não realizam, não sendo encontrada significância estatística na associação entre realizar passeios externos e demência.",
+   "A probabilidade de demência foi de 0,93% naqueles que realizam atividades artísticas criativas e de 0% naqueles que realizam passeios externos."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Medronho RA et al. Epidemiologia, 2ª ed., 2009",
+  "coment": "Para atividades artísticas, RR 0,93 com IC95% de 0,88 a 0,99: o intervalo fica abaixo de 1, então há redução relativa significativa de 7%, pois (1 menos 0,93) vezes 100 = 7%. Para passeios externos, RR 1,00 com IC95% de 0,95 a 1,05 é exatamente o valor nulo, e o intervalo inclui 1: não há associação significativa. RR é razão entre riscos, não probabilidade em percentual.",
+  "porAlt": [
+   "RR 1,00 indica ausência de diferença, não risco 100% menor.",
+   "RR 0,93 indica risco 7% menor, não 93% menor, e RR 1,00 não significa redução de 1%.",
+   "Correta: redução relativa de 7% nas atividades artísticas e ausência de associação significativa nos passeios.",
+   "RR não é probabilidade de doença; 0,93 não significa 0,93% de chance de demência."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 15,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A história natural da insuficiência cardíaca caracteriza-se pela piora progressiva da função cardíaca e dos sintomas associados. Apesar dos avanços no tratamento, pacientes com insuficiência cardíaca podem progredir para uma condição clínica denominada insuficiência cardíaca avançada, definida por\nI. sintomas de insuficiência cardíaca persistentes e graves.\nII. disfunção ventricular grave, definida por fração de ejeção ventricular maior que 30%.\nIII. episódios de congestão pulmonar ou sistêmica que requerem altas doses de diurético endovenoso.\nIV. capacidade para o exercício levemente diminuída.\nÉ correto o que se afirma em",
+  "alts": [
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III, apenas.",
+   "I, II, III e IV."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretrizes ESC 2021 de Insuficiência Cardíaca (McDonagh TA et al., Eur Heart J 2021;42:3599-3726); Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda 2018 (SBC)",
+  "coment": "A insuficiência cardíaca avançada, pelos critérios da Heart Failure Association adotados pela ESC 2021, exige sintomas graves e persistentes (classe III a IV da NYHA), disfunção ventricular grave, com fração de ejeção de 30% ou menos, episódios de congestão que pedem diurético intravenoso em altas doses e capacidade de exercício gravemente reduzida. O item II erra o sinal (maior que 30%) e o item IV erra a intensidade (levemente diminuída). Ficam I e III.",
+  "porAlt": [
+   "Correta: sintomas graves persistentes e congestão com altas doses de diurético IV definem a IC avançada.",
+   "O item II é falso: a disfunção grave é fração de ejeção igual ou menor que 30%, não maior.",
+   "Inclui o item II, que inverte o limite da fração de ejeção.",
+   "O item IV é falso: a capacidade de exercício está gravemente, não levemente, reduzida."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 16,
+   "parte": "especificas"
+  }
+ }
+]

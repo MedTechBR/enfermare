@@ -1,0 +1,1506 @@
+[
+ {
+  "q": "Com base na fisiologia do sistema respiratório, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) A complacência pulmonar é definida como a maior ou menor capacidade de distensibilidade do pulmão, a uma dada variação de pressão.\n( ) O volume corrente é o volume de ar inspirado ou expirado, em cada respiração normal.\n( ) A capacidade vital corresponde ao volume máximo de ar movimentado nos pulmões (volume de reserva inspiratório + volume corrente + volume de reserva expiratório).\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "F – F – F.",
+   "V – F – V.",
+   "F – V – F.",
+   "V – V – V.",
+   "F – V – V."
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guyton e Hall, Tratado de Fisiologia Médica, 14ª ed., 2021; Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT)",
+  "coment": "As três afirmativas são definições clássicas de fisiologia respiratória. Complacência é a variação de volume pulmonar para cada variação de pressão, ou seja, a distensibilidade do pulmão. Volume corrente é o ar mobilizado em uma respiração normal, em torno de 500 mL no adulto. Capacidade vital é a soma de volume de reserva inspiratório, volume corrente e volume de reserva expiratório: o máximo que se expira após uma inspiração máxima. Não inclui o volume residual, que entra na capacidade pulmonar total. Por isso a sequência é V, V, V.",
+  "porAlt": [
+   "Errada: as três definições estão corretas; marcar todas falsas nega conceitos básicos de fisiologia.",
+   "Errada: o volume corrente é, sim, o ar inspirado ou expirado em cada respiração normal.",
+   "Errada: complacência e capacidade vital também estão definidas corretamente.",
+   "Correta: complacência, volume corrente e capacidade vital estão descritos como na fisiologia clássica.",
+   "Errada: a complacência é de fato a distensibilidade pulmonar para uma dada variação de pressão."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro de Terapia Intensiva",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando os mecanismos de equilíbrio ácido-básico e controle do pH do sangue, analise as afirmativas a seguir.\nI. A acidose metabólica é a acidez excessiva do sangue, caracterizada por uma concentração anormalmente baixa de bicarbonato.\nII. Em pacientes com hiperventilação instala-se a acidose respiratória, na qual há o aumento de pCO2 e a diminuição do pH.\nIII. O termo alcalose refere-se à remoção excessiva de H⁺ dos líquidos corporais.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guyton e Hall, Tratado de Fisiologia Médica, 14ª ed., 2021 (regulação ácido-base)",
+  "coment": "Acidose metabólica é a queda do pH por perda de bicarbonato ou ganho de ácido fixo, com bicarbonato baixo: item I correto. A hiperventilação elimina CO2 em excesso, a PaCO2 cai e o pH sobe; o resultado é alcalose respiratória, não acidose. A acidose respiratória vem da hipoventilação, com PaCO2 alta. Por isso o item II está errado. Alcalose é a remoção excessiva de H+ dos líquidos corporais, definição usada por Guyton: item III correto. Resposta: I e III.",
+  "porAlt": [
+   "Errada: o item III também está correto, pois alcalose é a remoção excessiva de H+.",
+   "Errada: hiperventilação baixa a PaCO2 e eleva o pH, causando alcalose respiratória.",
+   "Errada: o item I também está correto, já que a acidose metabólica cursa com bicarbonato baixo.",
+   "Errada: inclui o item II, que troca alcalose por acidose respiratória na hiperventilação.",
+   "Correta: acidose metabólica tem bicarbonato baixo e alcalose é remoção excessiva de H+."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro de Terapia Intensiva",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca do tratamento medicamentoso de um paciente com choque séptico, internado em uma Unidade de Terapia Intensiva adulta, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Recomenda-se fazer a ressuscitação volêmica com cristaloides ou coloides, antes de usar o vasopressor.\n( ) Nos adultos com choque séptico, a vasopressina ou epinefrina são as drogas de primeira escolha para aumentar a pressão arterial.\n( ) A noradrenalina deve ser diluída em soro fisiológico ou ringer lactato, pois o soro glicosado causa instabilidade do medicamento.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "V – F – F.",
+   "F – F – F.",
+   "V – F – V.",
+   "F – V – V.",
+   "V – V – F."
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Surviving Sepsis Campaign 2026 (Prescott et al., Intensive Care Med 2026)",
+  "coment": "No choque séptico, a ressuscitação começa com volume, pelo menos 30 mL/kg de cristaloide nas primeiras 3 horas na hipoperfusão, e o vasopressor entra se a PAM de 65 mmHg não é atingida; a SSC 2026 prefere cristaloide balanceado e aceita iniciar o vasopressor por veia periférica para não atrasá-lo. A droga de primeira linha é a noradrenalina (recomendação forte); vasopressina é acrescentada quando a dose sobe, e adrenalina não é primeira escolha: item II falso. O item III inverte a diluição: a noradrenalina é diluída de preferência em soro glicosado 5%, que protege a catecolamina da oxidação; em salina pura ela oxida mais. Sequência V, F, F.",
+  "porAlt": [
+   "Correta: volume antes do vasopressor, noradrenalina como primeira linha e diluição preferencial em glicosado.",
+   "Errada: o item I é verdadeiro, pois a ressuscitação volêmica precede o vasopressor.",
+   "Errada: o item III inverte a regra, já que o soro glicosado é o diluente preferido da noradrenalina.",
+   "Errada: a primeira escolha é a noradrenalina, e o item III troca o diluente correto.",
+   "Errada: vasopressina e adrenalina não são primeira escolha no choque séptico do adulto."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro de Terapia Intensiva",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma Gestante de 27 anos, 21ª semana de gestação, foi internada em uma unidade hospitalar apresentando um quadro de Hipertensão Gestacional Grave.\nAssinale a opção que indica uma característica dessa síndrome hipertensiva.",
+  "alts": [
+   "A presença de proteinúria.",
+   "A ocorrência de trombocitopenia.",
+   "Episódios de convulsões tônico-clônicas.",
+   "PAS ≥ 140mmHg e/ou PAD ≥ 90mmHg, ou ambos, medida em duas ocasiões com pelo menos 4 horas de intervalo.",
+   "PAS ≥ 160 mmHg e/ou PAD ≥ 110mmHg, ou ambos, medida em duas ocasiões com pelo menos 4 horas de intervalo."
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Manual de Gestação de Alto Risco (MS, 2022); Pré-eclâmpsia: Protocolo 2023 (RBEHG)",
+  "coment": "Hipertensão gestacional é a que surge após 20 semanas, sem proteinúria e sem disfunção de órgão-alvo. Ela é grave quando a pressão atinge 160 mmHg de sistólica e/ou 110 mmHg de diastólica, confirmada em duas medidas com intervalo de pelo menos 4 horas, como na alternativa correta (em crise com sintomas não se espera esse intervalo para tratar). Proteinúria, plaquetopenia e convulsão pertencem a pré-eclâmpsia, HELLP e eclâmpsia. O corte de 140/90 mmHg define hipertensão, não a forma grave.",
+  "porAlt": [
+   "Errada: proteinúria caracteriza pré-eclâmpsia, não hipertensão gestacional.",
+   "Errada: trombocitopenia sugere pré-eclâmpsia com gravidade ou síndrome HELLP.",
+   "Errada: convulsão tônico-clônica define eclâmpsia, não hipertensão gestacional.",
+   "Errada: 140/90 mmHg em duas medidas define hipertensão, mas não a forma grave.",
+   "Correta: PAS de 160 e/ou PAD de 110 mmHg em duas medidas com 4 horas de intervalo é hipertensão grave."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro de Terapia Intensiva",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O cateter de Swan-Ganz é um cateter de acesso venoso central, utilizado para a monitorização invasiva e que permite medir alguns parâmetros hemodinâmicos do paciente.\nCom base nas características desse cateter, relacione suas vias às respectivas funções.\n1. Via do balão\n2. Via proximal do lúmen\n3. Via distal do lúmen\n4. Via do lúmen do termistor\n( ) Permite verificar a pressão da artéria pulmonar e a coleta de sangue venoso misto.\n( ) Permite a injeção para determinação do débito cardíaco (DC) e é utilizada também para a medição da PVC.\n( ) Usada para monitorar continuamente a temperatura sanguínea na artéria pulmonar.\n( ) Permite o encunhamento do cateter e a medição da pressão capilar pulmonar.\nAssinale a opção que apresenta a relação correta, na ordem apresentada.",
+  "alts": [
+   "2 – 4 – 1 – 3.",
+   "4 – 1 – 3 – 2.",
+   "3 – 2 – 4 – 1.",
+   "1 – 4 – 2 – 3.",
+   "2 – 3 – 1 – 4."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Monitorização hemodinâmica",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "ESICM guidelines on circulatory shock and hemodynamic monitoring, 2025 (Monnet et al., Intensive Care Med 2025)",
+  "coment": "O cateter de artéria pulmonar tem a ponta na artéria pulmonar. A via distal, na ponta, mede a pressão da artéria pulmonar e permite colher sangue venoso misto. A via proximal abre no átrio direito: mede a PVC e recebe a injeção do bolus frio para o débito cardíaco por termodiluição. O termistor, perto da ponta, lê a temperatura do sangue na artéria pulmonar. A via do balão, insuflada, encunha o cateter e dá a pressão capilar pulmonar. A ordem é 3, 2, 4, 1.",
+  "porAlt": [
+   "Errada: a via proximal não mede pressão da artéria pulmonar, e o termistor não recebe a injeção.",
+   "Errada: o termistor só mede temperatura, e o balão não recebe a injeção do débito cardíaco.",
+   "Correta: distal para PAP e sangue misto, proximal para injeção e PVC, termistor para temperatura e balão para encunhar.",
+   "Errada: o balão serve para encunhar, não para medir a pressão da artéria pulmonar.",
+   "Errada: a via distal não é a da injeção do débito, e o balão não mede a temperatura."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro de Terapia Intensiva",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca dos cuidados de enfermagem a um paciente com intubação endotraqueal, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Antes da intubação deve-se garantir a pré-oxigenação do paciente, que pode ser ofertada através de cateter nasal a 5 litros por minuto por 3 minutos.\n( ) Recomenda-se verificar a pressão do balonete (cuff) a cada 6 a 8 horas e mantê-la entre 18 a 22mmHg ou 25 a 30mmH2O, para evitar a excessiva pressão na mucosa traqueal.\n( ) Deve-se avaliar continuamente o TOT para evitar torções, bloqueios e desconexão acidental que impeçam o fluxo de ar.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "F – V – V.",
+   "V – F – V.",
+   "F – V – F.",
+   "V – V – V.",
+   "F – F – F."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Oxigenoterapia e vias aéreas",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2ª ed., 2017",
+  "coment": "A pré-oxigenação busca encher a capacidade residual funcional de oxigênio antes da laringoscopia, com fração inspirada próxima de 100%: máscara com reservatório ou bolsa-válvula-máscara com O2 por cerca de 3 minutos. Cateter nasal a 5 L/min oferece fração bem menor e não pré-oxigena: item I falso. O item II traz a faixa do caderno da ANVISA, 18 a 22 mmHg (25 a 30 cmH2O), com checagem periódica pelo cuffômetro; a banca escreveu mmH2O onde o certo é cmH2O, mas o item foi considerado verdadeiro. Vigiar torção, obstrução e desconexão do tubo é cuidado contínuo: item III verdadeiro.",
+  "porAlt": [
+   "Correta: cateter nasal não pré-oxigena, e cuff e vigilância do tubo estão descritos corretamente.",
+   "Errada: cateter nasal a 5 L/min não garante a fração de oxigênio necessária à pré-oxigenação.",
+   "Errada: a vigilância contínua do tubo contra torção e desconexão é cuidado correto.",
+   "Errada: o item I é falso, pois a pré-oxigenação exige oxigênio próximo de 100%.",
+   "Errada: os itens sobre a pressão do cuff e a vigilância do tubo são verdadeiros."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro de Terapia Intensiva",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um dos cuidados de enfermagem na administração da nutrição parenteral é verificar a compatibilidade entre o acesso venoso do paciente e a osmolaridade recomendada.\nSegundo a Sociedade Americana de Nutrição Enteral e Parenteral, a osmolaridade máxima recomendada, no caso da Nutrição Parenteral Periférica, é de",
+  "alts": [
+   "200mOsm/L.",
+   "400mOsm/L.",
+   "700mOsm/L.",
+   "900mOsm/L.",
+   "1200mOsm/L."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "ASPEN Parenteral Nutrition Safety Consensus Recommendations, 2014; ANVISA, Medidas de Prevenção de IRAS, Caderno 4, 2017",
+  "coment": "Soluções muito hiperosmolares lesam o endotélio de veias de pequeno calibre e causam flebite química. A ASPEN fixa em 900 mOsm/L o limite de osmolaridade da nutrição parenteral por veia periférica; acima disso a nutrição precisa de acesso central, com a ponta na veia cava. O caderno da ANVISA usa o mesmo corte para indicar cateter central. Por isso a nutrição parenteral periférica é diluída e serve a períodos curtos, e o enfermeiro confere a osmolaridade do rótulo contra o acesso disponível.",
+  "porAlt": [
+   "Errada: 200 mOsm/L é inferior até à osmolaridade do plasma, e não é limite de nutrição periférica.",
+   "Errada: 400 mOsm/L está abaixo do teto aceito pela ASPEN para a via periférica.",
+   "Errada: 700 mOsm/L não é o limite recomendado; o teto é 900 mOsm/L.",
+   "Correta: a ASPEN limita a nutrição parenteral periférica a 900 mOsm/L.",
+   "Errada: 1.200 mOsm/L exige acesso venoso central."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro de Terapia Intensiva",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Resolução do Ministério da Saúde que dispõe sobre os requisitos mínimos para o funcionamento das Unidades de Terapia Intensiva – UTI, cada unidade deve dispor de alguns equipamentos específicos, em quantidades determinadas.\nCom base nessa normativa, as quantidades mínimas de eletrocardiógrafo portátil e desfibrilador em uma UTI, devem ser de, respectivamente,",
+  "alts": [
+   "1 para cada 5 leitos e 1 para cada 1 leito.",
+   "1 para cada 6 leitos e 1 para cada 3 leitos.",
+   "1 para cada 7 leitos e 1 para cada 1 leito.",
+   "1 para cada 8 leitos e 1 para cada 2 leitos.",
+   "1 para cada 10 leitos e 1 para cada 5 leitos."
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "Monitorização hemodinâmica",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "RDC ANVISA 7/2010 (requisitos mínimos para funcionamento de UTI), seção de equipamentos e materiais",
+  "coment": "A RDC 7/2010 da ANVISA, ligada ao Ministério da Saúde, lista os equipamentos mínimos da UTI adulto com a proporção por leitos. O eletrocardiógrafo portátil é exigido na proporção de 1 para cada 10 leitos, e o desfibrilador com cardioversor, com bateria, 1 para cada 5 leitos. Na mesma lista, o equipamento de pressão invasiva também é 1 para cada 5 leitos e o capnógrafo, 1 para cada 10. A banca troca as proporções vizinhas para testar a memória do número.",
+  "porAlt": [
+   "Errada: a RDC não exige um desfibrilador por leito nem um eletrocardiógrafo a cada 5 leitos.",
+   "Errada: as proporções 1 para 6 e 1 para 3 não constam da RDC 7/2010.",
+   "Errada: a RDC não fixa eletrocardiógrafo a cada 7 leitos nem desfibrilador por leito.",
+   "Errada: 1 para 8 e 1 para 2 não são as proporções desses equipamentos na RDC.",
+   "Correta: eletrocardiógrafo portátil 1 para cada 10 leitos e desfibrilador 1 para cada 5 leitos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro de Terapia Intensiva",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação à Comissão Hospitalar de Organização e Qualificação da Atenção ao Paciente Crítico (COHPAC), assinale a afirmativa correta.",
+  "alts": [
+   "É responsável, entre outras coisas, pela regulação e avaliação das políticas públicas voltadas ao paciente crítico.",
+   "É responsável por elaborar e implementar o Plano Hospitalar de Atenção ao Paciente Crítico.",
+   "Deve ser composta minimamente pelo diretor técnico e pelo diretor administrativo da Instituição de Saúde.",
+   "É obrigatória para os estabelecimentos de Saúde da rede pública e facultativa para as instituições privadas.",
+   "A comissão, a critério de cada instituição, poderá apresentar relatório periódico de resultados aos gestores do SUS."
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 895/2017 (cuidado progressivo ao paciente crítico ou grave), anexo",
+  "coment": "A COHPAC é comissão interna do hospital que organiza o cuidado progressivo ao paciente crítico ou grave entre UTI, unidade de cuidados intermediários e enfermarias. Sua atribuição central é elaborar e implementar o Plano Hospitalar de Atenção ao Paciente Crítico, com fluxos de admissão e alta, critérios de prioridade e indicadores. Ela não regula políticas públicas, papel do gestor do SUS; tem composição multiprofissional, não só de diretores; e presta contas aos gestores, sem que isso seja opcional. Questão de norma pouco cobrada: o caminho seguro é reconhecer o caráter institucional e executivo da comissão.",
+  "porAlt": [
+   "Errada: regular e avaliar políticas públicas é papel dos gestores do SUS, não de comissão hospitalar.",
+   "Correta: a comissão elabora e implementa o Plano Hospitalar de Atenção ao Paciente Crítico.",
+   "Errada: a comissão é multiprofissional e não se restringe aos diretores técnico e administrativo.",
+   "Errada: a comissão não é descrita como facultativa para hospitais privados que atendem paciente crítico.",
+   "Errada: a apresentação de resultados aos gestores não fica a critério da instituição."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro de Terapia Intensiva",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na monitorização de um paciente, a capnografia permite medir",
+  "alts": [
+   "a profundidade da sedação.",
+   "o nível de óxido nitroso e de agentes halogenados.",
+   "a pressão parcial de CO2 durante o ciclo respiratório.",
+   "o bloqueio e a reversão do bloqueio neuromuscular.",
+   "o volume de sangue bombeado pelo coração em um minuto."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT); Surviving Sepsis Campaign 2026",
+  "coment": "A capnografia mede o CO2 no gás exalado ao longo de cada ciclo e mostra a curva, com o valor no fim da expiração (ETCO2), que se aproxima da PaCO2. Na UTI confirma a posição do tubo (no esôfago não há curva sustentada), detecta desconexão e extubação, sugere broncoespasmo pelo traçado em rampa e queda do débito cardíaco pela redução progressiva. Profundidade da sedação é avaliada por escalas como a RASS ou pelo índice bispectral; bloqueio neuromuscular, por monitor de junção neuromuscular; débito cardíaco, por termodiluição ou métodos derivados.",
+  "porAlt": [
+   "Errada: a profundidade da sedação se avalia por escalas clínicas ou índice bispectral, não pela capnografia.",
+   "Errada: gases anestésicos são medidos por analisadores de gases do aparelho de anestesia.",
+   "Correta: a capnografia registra a pressão parcial de CO2 durante todo o ciclo respiratório.",
+   "Errada: o bloqueio neuromuscular é monitorado pela estimulação de nervo periférico.",
+   "Errada: o volume bombeado por minuto é o débito cardíaco, medido por outros métodos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro de Terapia Intensiva",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente que sofreu múltiplas fraturas devido a uma queda durante a atividade laboral, apresentou entre outros sinais e sintomas, otorreia, sinal do duplo halo e equimose na região mastoidea.\nEsses sinais são característicos de",
+  "alts": [
+   "concussão.",
+   "lesão axonal difusa.",
+   "hematoma subdural agudo.",
+   "fratura de base de crânio.",
+   "fraturas lineares não deprimidas."
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "ATLS, Advanced Trauma Life Support, 10ª ed., American College of Surgeons, 2018 (traumatismo cranioencefálico)",
+  "coment": "Otorreia (saída de líquor pelo ouvido), sinal do duplo halo (mancha de sangue com anel claro de líquor ao redor, no lençol ou na gaze) e equimose retroauricular, o sinal de Battle, são sinais clássicos de fratura da base do crânio, ao lado da rinorreia e dos olhos de guaxinim. Para a enfermagem a consequência é prática: não passar sonda nasogástrica nem aspirar pelo nariz, não tamponar o ouvido e comunicar a saída de líquor. Concussão, lesão axonal difusa e hematoma subdural não produzem esses sinais externos.",
+  "porAlt": [
+   "Errada: concussão é disfunção transitória sem fístula liquórica nem equimose mastoidea.",
+   "Errada: a lesão axonal difusa causa coma prolongado, sem otorreia ou sinal de Battle.",
+   "Errada: o hematoma subdural agudo dá rebaixamento e déficit focal, não sinais de base de crânio.",
+   "Correta: otorreia, duplo halo e equimose mastoidea indicam fratura da base do crânio.",
+   "Errada: fratura linear da calota não deprimida não costuma causar fístula liquórica pelo ouvido."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro de Terapia Intensiva",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No monitoramento do ciclo respiratório de um ventilador mecânico, o parâmetro que corresponde à pressão de acomodação dos alvéolos no final da inspiração (pressão inspiratória final), é denominado",
+  "alts": [
+   "drive pressure.",
+   "pressão de platô.",
+   "volume corrente.",
+   "fração inspirada de oxigênio.",
+   "pico de pressão inspiratório (PIP)."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT); Surviving Sepsis Campaign 2026",
+  "coment": "A pressão de platô é lida com uma pausa ao fim da inspiração: sem fluxo, a pressão nas vias aéreas se equilibra com a dos alvéolos e reflete a distensão alveolar. Na SDRA a SSC 2026 limita o platô a 30 cmH2O. O pico de pressão inclui também a resistência das vias aéreas; a driving pressure é o platô menos a PEEP. Pico que sobe com platô estável indica resistência, como secreção ou tubo dobrado; os dois subindo juntos indicam queda da complacência.",
+  "porAlt": [
+   "Errada: driving pressure é o platô menos a PEEP, não a própria pressão alveolar final.",
+   "Correta: a pressão de platô é a pressão alveolar no fim da inspiração, medida com pausa inspiratória.",
+   "Errada: volume corrente é o volume de ar de cada ciclo, não uma pressão.",
+   "Errada: a fração inspirada de oxigênio é a concentração de O2 ofertada, não uma pressão.",
+   "Errada: o pico de pressão soma resistência das vias aéreas e não representa só a pressão alveolar."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro de Terapia Intensiva",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando as recomendações da ANVISA acerca das medidas de prevenção de infecção relacionada à assistência à saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) A utilização da cânula orotraqueal, com um sistema de aspiração de secreção subglótica contínua ou intermitente, é recomendada para pacientes que irão permanecer sob Ventilação Mecânica acima de 48h ou 72h.\n( ) Nos cateteres semi-implantáveis ou tunelizados, deve-se manter o sítio de inserção coberto, mesmo após a cicatrização do óstio.\n( ) A punção do reservatório do cateter totalmente implantável deve ser realizada com agulha angulada (tipo Huber), própria para uso na membrana do reservatório.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "V – F – V.",
+   "F – F – F.",
+   "V – F – F.",
+   "F – V – F.",
+   "V – V – V."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2ª ed., 2017",
+  "coment": "O caderno da ANVISA de 2017 recomenda cânula com aspiração de secreção subglótica, contínua ou intermitente, para quem vai permanecer em ventilação mecânica por mais de 48 ou 72 horas, sem trocar o tubo só para isso: item I verdadeiro. Nos cateteres semi-implantáveis ou tunelizados, a cobertura é necessária até a cicatrização do óstio; depois dela o caderno não exige manter o sítio coberto: item II falso. O reservatório do cateter totalmente implantável é puncionado com agulha angulada tipo Huber, que não fragmenta a membrana de silicone: item III verdadeiro.",
+  "porAlt": [
+   "Correta: aspiração subglótica acima de 48 a 72 horas e agulha Huber são verdadeiras; cobrir o óstio cicatrizado não é exigido.",
+   "Errada: a aspiração subglótica e a agulha Huber são recomendações do caderno da ANVISA.",
+   "Errada: a punção do cateter implantável com agulha Huber é verdadeira.",
+   "Errada: depois de cicatrizado o óstio, a ANVISA não exige manter o cateter tunelizado coberto.",
+   "Errada: o item sobre cobertura do cateter tunelizado cicatrizado é falso."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro de Terapia Intensiva",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No atendimento a um paciente com suspeita de Infarto Agudo do Miocárdio - IAM, uma das condutas é a dosagem sérica de biomarcadores cardíacos para confirmação do diagnóstico.\nNesse caso, o biomarcador mais específico e sensível para o diagnóstico de lesão isquêmica do miocárdio é a enzima",
+  "alts": [
+   "CK-MB.",
+   "Troponina.",
+   "Mioglobina.",
+   "Transaminase.",
+   "Desidrogenase Lática."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Quarta Definição Universal de Infarto do Miocárdio (ESC/ACC/AHA/WHF), 2018",
+  "coment": "A troponina cardíaca (I ou T) é o biomarcador de escolha para lesão miocárdica, por ser específica do músculo cardíaco e sensível a lesões pequenas. A Quarta Definição Universal de Infarto (2018) define lesão como troponina acima do percentil 99 do limite superior de referência, e infarto como lesão aguda com evidência clínica de isquemia, com curva de elevação ou queda. CK-MB e mioglobina são menos específicas; transaminase e desidrogenase lática já não se usam para diagnóstico. Troponina não é enzima, mas proteína do complexo contrátil; a banca usou o termo de forma livre.",
+  "porAlt": [
+   "Errada: a CK-MB é menos sensível e menos específica que a troponina e ficou como alternativa secundária.",
+   "Correta: a troponina é o marcador mais sensível e específico de lesão miocárdica.",
+   "Errada: a mioglobina sobe cedo, mas existe também no músculo esquelético e é pouco específica.",
+   "Errada: transaminase não é marcador cardíaco atual; eleva-se em doença hepática e muscular.",
+   "Errada: a desidrogenase lática é inespecífica e foi abandonada no diagnóstico de infarto."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro de Terapia Intensiva",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre as avaliações e os cuidados iniciais dispensados ao recém-nascido logo após o parto, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) O perímetro torácico deve ser medido passando a fita métrica pela linha intermamilar e é, em média, 2cm menor do que o perímetro cefálico.\n( ) Um recém-nascido com hipotermia leve apresenta temperatura axilar entre 36 e 36,4C.\n( ) Logo após o nascimento, os recém-nascidos de mulheres com HBV devem receber imunoglobulina humana anti-hepatite B (IGHAHB) e a primeira dose do esquema vacinal da vacina hepatite B.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "F – V – F.",
+   "V – V – V.",
+   "F – F – V.",
+   "V – V – F.",
+   "F – V – V."
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, v. 1 (MS, 2014); Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "O perímetro torácico é medido com a fita na linha dos mamilos e, no recém-nascido a termo, fica em média 2 cm abaixo do perímetro cefálico. Temperatura axilar de 36,0 a 36,4 °C é hipotermia leve; a meta é 36,5 a 37,5 °C. O filho de mãe com hepatite B (HBsAg reagente) recebe, logo ao nascer, de preferência nas primeiras 12 horas, a primeira dose da vacina hepatite B e a imunoglobulina humana anti-hepatite B, aplicadas em locais diferentes. As três afirmativas são verdadeiras.",
+  "porAlt": [
+   "Errada: a medida do perímetro torácico e a imunoprofilaxia da hepatite B estão corretas.",
+   "Correta: perímetro torácico 2 cm menor, hipotermia leve entre 36 e 36,4 °C e vacina mais imunoglobulina na hepatite B materna.",
+   "Errada: o perímetro torácico é medido na linha intermamilar e a hipotermia leve vai de 36 a 36,4 °C.",
+   "Errada: o filho de mãe com hepatite B recebe, sim, vacina e imunoglobulina logo após o nascimento.",
+   "Errada: a descrição do perímetro torácico também é verdadeira."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Neonatologista",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No Brasil, a taxa de mortalidade neonatal tardia está entre os indicadores básicos para a saúde.\nEsse indicador diz respeito aos óbitos ocorridos no período de",
+  "alts": [
+   "0 aos 6 dias de vida.",
+   "8 aos 15 dias de vida.",
+   "10 aos 20 dias de vida.",
+   "7 aos 27 dias de vida.",
+   "15 aos 36 dias de vida."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RIPSA, Indicadores Básicos para a Saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "A RIPSA divide a mortalidade infantil por idade do óbito. Neonatal precoce: 0 a 6 dias de vida completos. Neonatal tardia: 7 a 27 dias. Pós-neonatal: 28 a 364 dias. Todas usam como denominador os nascidos vivos, por mil. A neonatal tardia reflete sobretudo infecções e cuidados na unidade neonatal e no domicílio após a alta; a precoce, a assistência ao pré-natal, ao parto e ao recém-nascido.",
+  "porAlt": [
+   "Errada: 0 a 6 dias define a mortalidade neonatal precoce.",
+   "Errada: o intervalo de 8 a 15 dias não corresponde a nenhum componente da RIPSA.",
+   "Errada: 10 a 20 dias não é recorte usado pela RIPSA.",
+   "Correta: a mortalidade neonatal tardia conta os óbitos de 7 a 27 dias de vida.",
+   "Errada: a partir de 28 dias o óbito já é pós-neonatal."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Neonatologista",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na assistência ao recém-nascido ≥ 34 semanas, saudável e com boa vitalidade ao nascer, recomenda-se clampear o cordão umbilical no mínimo",
+  "alts": [
+   "30 segundos após o nascimento.",
+   "40 segundos após o nascimento.",
+   "50 segundos após o nascimento.",
+   "60 segundos após o nascimento.",
+   "90 segundos após o nascimento."
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Reanimação do recém-nascido ≥34 semanas em sala de parto: diretrizes 2026 da SBP",
+  "coment": "No recém-nascido com 34 semanas ou mais que respira ou chora e tem tônus em flexão, a SBP recomenda clampear o cordão no mínimo 60 segundos após o nascimento, com o bebê em contato pele a pele com a mãe. O clampeamento oportuno aumenta as reservas de ferro dos primeiros meses, à custa de mais icterícia a vigiar. O clampeamento imediato fica para quando a circulação placentária está comprometida, como no descolamento de placenta, na placenta prévia sangrante e no nó verdadeiro de cordão.",
+  "porAlt": [
+   "Errada: 30 segundos é menos que o mínimo recomendado para o bebê com boa vitalidade.",
+   "Errada: 40 segundos não é o tempo mínimo da diretriz.",
+   "Errada: 50 segundos ainda fica abaixo do mínimo de 60 segundos.",
+   "Correta: a SBP recomenda clampear o cordão com 60 segundos ou mais no recém-nascido com boa vitalidade.",
+   "Errada: 90 segundos é aceitável, mas não é o mínimo pedido pela diretriz."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Neonatologista",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Após o nascimento, um recém-nascido apresentou edema de couro cabeludo, depressível, inicialmente restrito à área de apresentação do parto.\nEssa é uma das alterações mais frequentes encontradas após o nascimento, denominada",
+  "alts": [
+   "lanugo.",
+   "céfalo-hematoma.",
+   "bossa serossanguínea.",
+   "hematoma subgaleal.",
+   "mancha mongólica."
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, v. 1 (MS, 2014)",
+  "coment": "A bossa serossanguínea é edema do couro cabeludo na parte da cabeça que se apresentou no parto, formado pela pressão contra o colo. É mole, depressível, presente já ao nascer, ultrapassa as linhas de sutura e regride em poucos dias, sem tratamento. O céfalo-hematoma é sangue sob o periósteo: aparece horas depois, é bem delimitado, não cruza suturas e demora semanas para sumir. O hematoma subgaleal é grave, com sangramento difuso que pode causar choque.",
+  "porAlt": [
+   "Errada: lanugo é a penugem fina do corpo, mais abundante no prematuro.",
+   "Errada: o céfalo-hematoma é subperiosteal, surge horas depois e respeita as suturas.",
+   "Correta: edema depressível do couro cabeludo na área de apresentação é a bossa serossanguínea.",
+   "Errada: o hematoma subgaleal é sangramento difuso e grave, não edema localizado benigno.",
+   "Errada: a mancha mongólica é pigmentação azulada da pele, geralmente na região sacral."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Neonatologista",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca das etapas do Método Canguru, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) A primeira etapa tem início no pré-natal, com a identificação de situação de risco que indique a necessidade de cuidados especializados para a gestante, os quais podem ou não acarretar a internação do recém-nascido (RN) em uma Unidade Neonatal.\n( ) Entre os critérios de elegibilidade da criança para a segunda etapa do método, realizada na Unidade de Cuidado Intermediário Canguru – UCINCa, estão nutrição enteral plena e peso mínimo de 1.250g.\n( ) O principal critério para que a criança tenha alta da segunda etapa é a sucção exclusiva ao peito sem necessidade de complemento, mesmo que excepcionalmente.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "V – F – V.",
+   "F – V – F.",
+   "V – V – V.",
+   "F – F – F.",
+   "V – V – F."
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.683/2007 (Método Canguru); Atenção Humanizada ao Recém-Nascido: Método Canguru, manual técnico, 3ª ed. (MS, 2017)",
+  "coment": "A primeira etapa do Método Canguru começa no pré-natal de risco e segue na unidade neonatal. A segunda etapa, na UCINCa, exige da criança estabilidade clínica, nutrição enteral plena (peito, sonda gástrica ou copo) e peso mínimo de 1.250 g, além de mãe disponível e segura. Para a alta da segunda etapa pede-se sucção exclusiva ao peito, mas o manual admite, em situações especiais, mãe e família habilitadas a fazer complementação. Por isso o item III, que veda qualquer complemento, é falso: V, V, F.",
+  "porAlt": [
+   "Errada: o item II é verdadeiro, e o III é falso porque admite complemento em situações especiais.",
+   "Errada: a primeira etapa começa, sim, no pré-natal com a identificação do risco.",
+   "Errada: a alta da segunda etapa aceita complementação excepcional, então o item III é falso.",
+   "Errada: os itens sobre a primeira etapa e a elegibilidade para a UCINCa são verdadeiros.",
+   "Correta: início no pré-natal e critérios da UCINCa estão certos; o complemento excepcional é permitido na alta."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Neonatologista",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca dos procedimentos realizados em uma Unidade de Internação Neonatal, assinale a afirmativa correta.",
+  "alts": [
+   "A paracentese, quando indicada, deve ser realizada no quadrante superior direito.",
+   "O cateter epicutâneo-cava é um dispositivo específico para o cateterismo umbilical arterial ou venoso.",
+   "Quando necessária, a punção do calcanhar deve ser realizada na região central para evitar a incidência de osteomielite.",
+   "Uma das indicações do Cateter Central de Inserção Periférica é a necessidade de monitorização de pressão arterial invasiva.",
+   "O procedimento de intubação deve ser interrompido sempre que a manobra exceder 20 segundos, para que o RN seja oxigenado."
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, v. 2 (MS, 2014); Reanimação do recém-nascido ≥34 semanas: diretrizes 2026 da SBP",
+  "coment": "A intubação do recém-nascido interrompe a ventilação; por isso cada tentativa é curta e, ao exceder o tempo-limite, o procedimento é interrompido e o bebê é ventilado com máscara antes de nova tentativa. A banca usou o limite de 20 segundos do material de procedimentos neonatais; as diretrizes da SBP trabalham com tentativas de até 30 segundos. As outras são erradas: paracentese no RN é feita nos quadrantes inferiores, o epicutâneo-cava (PICC) entra por veia periférica, a punção do calcanhar é nas faces laterais para não atingir o calcâneo e o PICC não serve para pressão arterial invasiva.",
+  "porAlt": [
+   "Errada: a paracentese no recém-nascido é feita nos quadrantes inferiores, longe do fígado.",
+   "Errada: o cateter epicutâneo-cava é inserido por veia periférica, não pelo coto umbilical.",
+   "Errada: a punção do calcanhar é feita nas laterais, e a região central aumenta o risco de osteomielite.",
+   "Errada: o PICC é acesso venoso; pressão arterial invasiva exige cateter arterial.",
+   "Correta: a tentativa de intubação é curta e interrompida no tempo-limite para ventilar o bebê."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Neonatologista",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na avaliação de um recém-nascido a termo, com acúmulo de bilirrubina na esclera e na pele e com BT = 13mg/dL, o enfermeiro o classificou em Zona de Kramer 3.\nEssa classificação corresponde à progressão da icterícia",
+  "alts": [
+   "somente na face.",
+   "até os joelhos e cotovelos.",
+   "na região da cabeça e do pescoço.",
+   "da cabeça até a cicatriz umbilical.",
+   "até os tornozelos e antebraços."
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, v. 2 (MS, 2014); Kramer, Am J Dis Child, 1969",
+  "coment": "A icterícia progride no sentido cefalocaudal, e Kramer dividiu o corpo em cinco zonas. Zona 1: cabeça e pescoço. Zona 2: tronco até a cicatriz umbilical. Zona 3: abaixo do umbigo até os joelhos, incluindo coxas e, na versão usada pela banca, braços até os cotovelos. Zona 4: pernas e antebraços até tornozelos e punhos. Zona 5: mãos e pés. A zona 3 corresponde a bilirrubina em torno de 12 mg/dL, coerente com a BT de 13 do caso. A inspeção é feita com luz natural, comprimindo a pele, e não substitui a dosagem para decidir fototerapia.",
+  "porAlt": [
+   "Errada: icterícia restrita à face corresponde à zona 1.",
+   "Correta: a zona 3 de Kramer vai até os joelhos e cotovelos.",
+   "Errada: cabeça e pescoço são a zona 1.",
+   "Errada: da cabeça até a cicatriz umbilical é a zona 2.",
+   "Errada: a extensão até tornozelos e antebraços já é a zona 4."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Neonatologista",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A sepse neonatal precoce é a que ocorre nas primeiras 48 horas de vida e está relacionada diretamente a fatores gestacionais e/ou do período periparto.\nAssinale a opção que indica um fator de risco para essa síndrome clínica.",
+  "alts": [
+   "Prematuridade.",
+   "Febre materna acima de 36,8C.",
+   "Batimentos cardíacos fetais superiores a 110bpm.",
+   "Ruptura prematura de membranas amnióticas por tempo superior a 6 horas.",
+   "Infecção urinária materna ocorrida no primeiro trimestre da gestação, tratada ou não."
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ANVISA, Critérios Diagnósticos de Infecção Relacionada à Assistência à Saúde: Neonatologia, 2ª ed., 2017",
+  "coment": "A sepse precoce, nas primeiras 48 horas, vem da mãe e do periparto. A prematuridade é fator de risco independente, por imunidade imatura e pela associação com trabalho de parto prematuro e corioamnionite. Os fatores maternos que a ANVISA lista exigem limiares que as outras alternativas não atingem: bolsa rota há 18 horas ou mais, febre materna acima de 38 °C nas últimas 48 horas, corioamnionite, infecção urinária materna sem tratamento ou com tratamento iniciado há menos de 72 horas, perto do parto, e colonização por estreptococo do grupo B sem profilaxia. Taquicardia fetal, acima de 160 bpm, também alerta.",
+  "porAlt": [
+   "Correta: a prematuridade é fator de risco clássico para sepse neonatal precoce.",
+   "Errada: 36,8 °C é temperatura normal; o fator de risco é febre materna acima de 38 °C.",
+   "Errada: FC fetal acima de 110 bpm é normal; o alerta é a taquicardia fetal acima de 160 bpm.",
+   "Errada: o limite de bolsa rota que eleva o risco é de 18 horas ou mais, não 6 horas.",
+   "Errada: conta a infecção urinária perto do parto, não tratada ou tratada há menos de 72 horas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Neonatologista",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um recém-nascido apresentou, no 5º minuto de vida, respiração forte e regular, careta em resposta a estímulos, boa flexão dos membros, FC = 102bpm e corpo róseo com cianose de extremidades.\nCom base na avaliação fisiológica por meio do boletim de Apgar, essas características indicam",
+  "alts": [
+   "asfixia leve.",
+   "asfixia moderada.",
+   "asfixia grave.",
+   "asfixia severa.",
+   "boa vitalidade."
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Apgar V., Curr Res Anesth Analg, 1953; Reanimação do recém-nascido ≥34 semanas: diretrizes 2026 da SBP",
+  "coment": "Somando os cinco sinais: respiração forte e regular, 2; careta ao estímulo, 1; boa flexão dos membros, 2; FC de 102 bpm, acima de 100, 2; corpo róseo com extremidades cianóticas, 1. Total 8 no 5º minuto. Apgar de 7 a 10 indica boa vitalidade; a acrocianose é comum nos primeiros minutos. A SBP lembra que o Apgar descreve a resposta do bebê e não decide a reanimação, que começa antes do primeiro minuto pela respiração e pela frequência cardíaca. Abaixo de 7 no 5º minuto, repete-se a cada 5 minutos até 20 minutos de vida.",
+  "porAlt": [
+   "Errada: Apgar 8 no 5º minuto não indica asfixia.",
+   "Errada: asfixia moderada corresponderia a valores bem mais baixos, e o escore é 8.",
+   "Errada: asfixia grave implica Apgar muito baixo, incompatível com 8.",
+   "Errada: asfixia severa não se aplica a um bebê com escore 8.",
+   "Correta: a soma é 8, faixa de boa vitalidade."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Neonatologista",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Entre os fatores que correspondem a uma contraindicação permanente para a amamentação de um recém-nascido a termo e saudável, está a seguinte condição materna:",
+  "alts": [
+   "tabagismo.",
+   "tuberculose.",
+   "hepatite C.",
+   "infecção pelo HIV.",
+   "infecção pela Covid-19."
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Aleitamento e alimentação",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Saúde da Criança: aleitamento materno e alimentação complementar, Cadernos de Atenção Básica nº 23, 2ª ed. (MS, 2015)",
+  "coment": "No Brasil, a mãe que vive com HIV não amamenta: o vírus passa pelo leite, e o SUS garante a inibição da lactação e a fórmula infantil; o aleitamento cruzado também é proibido. HTLV-1 e 2, galactosemia clássica do bebê e antineoplásicos são as outras contraindicações. Não contraindicam tabagismo (orientar a não fumar perto do bebê), tuberculose em tratamento (amamentar com máscara), hepatite C e covid-19, com higiene das mãos e máscara.",
+  "porAlt": [
+   "Errada: tabagismo não contraindica a amamentação; orienta-se reduzir e não fumar perto do bebê.",
+   "Errada: a mãe com tuberculose amamenta com máscara enquanto se trata.",
+   "Errada: hepatite C não contraindica a amamentação.",
+   "Correta: a infecção materna pelo HIV contraindica de forma permanente a amamentação no Brasil.",
+   "Errada: covid-19 não contraindica a amamentação, que segue com máscara e higiene das mãos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Neonatologista",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas diretrizes de reanimação e cuidados emergenciais ao recém-nascido, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) A aspiração de boca e narinas é recomendada de rotina para RN ≥34 semanas, independentemente do aspecto do líquido amniótico.\n( ) Se após os cuidados para manter a temperatura e as vias aéreas pérvias, o RN apresentar FC <100 bpm, apneia ou respiração irregular, há indicação da VPP (ventilação com pressão positiva), nos primeiros 60 segundos de vida.\n( ) A adrenalina está indicada quando a ventilação adequada e a massagem cardíaca efetiva não produziram elevação da FC para valores > 60 bpm.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "F – V – F.",
+   "V – V – V.",
+   "F – V – V.",
+   "V – F – V.",
+   "F – F – F."
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Reanimação do recém-nascido ≥34 semanas em sala de parto: diretrizes 2026 da SBP",
+  "coment": "A SBP não recomenda aspirar boca e narinas de rotina, qualquer que seja o líquido amniótico; aspira-se só com excesso de secreção, porque a aspiração atrasa a saturação e provoca bradicardia reflexa: item I falso. Feitos os passos iniciais, FC abaixo de 100 bpm, apneia ou respiração irregular indicam ventilação com pressão positiva dentro do primeiro minuto de vida: item II verdadeiro. A adrenalina entra quando a FC segue abaixo de 60 bpm apesar de ventilação adequada pela cânula e massagem cardíaca por 60 segundos: item III verdadeiro. Sequência F, V, V.",
+  "porAlt": [
+   "Errada: o item III é verdadeiro, pois a adrenalina é indicada quando VPP e massagem não elevam a FC acima de 60.",
+   "Errada: a aspiração de boca e narinas não é rotina, então o item I é falso.",
+   "Correta: sem aspiração de rotina, VPP no primeiro minuto e adrenalina com FC abaixo de 60 apesar de VPP e massagem.",
+   "Errada: a aspiração de rotina não é recomendada, e a VPP no primeiro minuto está correta.",
+   "Errada: os itens sobre VPP e adrenalina são verdadeiros."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Neonatologista",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O recém-nascido, após a realização de um procedimento, apresentou inquietação, padrão respiratório normal, expressão facial relaxada, resmungos, braços fletidos e pernas relaxadas.\nCom base na escala de NIPS para avaliação da dor, a pontuação obtida indica que este RN está",
+  "alts": [
+   "sem dor.",
+   "com dor leve.",
+   "com dor moderada.",
+   "com dor forte.",
+   "com dor insuportável."
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Lawrence J. et al., The development of a tool to assess neonatal pain (NIPS), Neonatal Network, 1993",
+  "coment": "A NIPS soma seis itens: expressão facial (0 ou 1), choro (0, 1 ou 2), padrão respiratório (0 ou 1), braços (0 ou 1), pernas (0 ou 1) e estado de consciência (0 ou 1), total de 0 a 7. No caso: face relaxada 0, resmungos 1, respiração normal 0, braços fletidos 1, pernas relaxadas 0 e inquietação 1. Total 3. A escala considera dor a pontuação maior que 3, ou seja, 4 ou mais; com 3 o recém-nascido é classificado sem dor, com reavaliação após o procedimento.",
+  "porAlt": [
+   "Correta: a soma é 3, abaixo do corte de dor da NIPS, que é 4 ou mais.",
+   "Errada: a NIPS não gradua dor leve com 3 pontos; abaixo de 4 não há dor pela escala.",
+   "Errada: dor moderada exigiria pontuação acima do corte, e o total é 3.",
+   "Errada: dor forte corresponde a pontuações altas, perto do máximo de 7.",
+   "Errada: a NIPS não usa a categoria de dor insuportável."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Neonatologista",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca das normas e orientações relacionadas à transfusão de hemocomponentes em recém-nascidos – RN, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) A exsanguineotransfusão (EXT) é a substituição do sangue do RN, através da retirada de múltiplas alíquotas, pela mesma quantidade de sangue de um doador homólogo.\n( ) O tempo de administração do concentrado de hemácias em um RN não deve exceder 8 horas de infusão.\n( ) Uma das indicações de transfusão de concentrado de hemácias em RN é FC > 180bpm ou FR > 80rpm por 24 horas sem causa aparente.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "V – F – V.",
+   "F – V – F.",
+   "F – F – V.",
+   "V – V – V.",
+   "F – F – F."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Guia para Uso de Hemocomponentes, 2ª ed. (MS, 2015); Portaria de Consolidação GM/MS 5/2017, Anexo IV (regulamento técnico de procedimentos hemoterápicos)",
+  "coment": "A exsanguineotransfusão troca o sangue do recém-nascido por sangue de doador, retirando e repondo alíquotas sucessivas, como na hiperbilirrubinemia grave e na doença hemolítica: item I verdadeiro. Concentrado de hemácias, em qualquer idade, deve correr em no máximo 4 horas, pelo risco de contaminação bacteriana fora da refrigeração; 8 horas é falso. O guia do Ministério inclui, entre as indicações de hemácias no recém-nascido com hematócrito baixo, taquicardia acima de 180 bpm ou taquipneia acima de 80 rpm por 24 horas sem outra causa: item III verdadeiro. Sequência V, F, V.",
+  "porAlt": [
+   "Correta: a definição da exsanguineotransfusão e a indicação por taquicardia ou taquipneia estão certas; o limite é 4 horas.",
+   "Errada: o tempo máximo de infusão do concentrado de hemácias é 4 horas, não 8.",
+   "Errada: a definição de exsanguineotransfusão do item I está correta.",
+   "Errada: o concentrado de hemácias não pode correr por até 8 horas.",
+   "Errada: os itens I e III são verdadeiros."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Neonatologista",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em um recém-nascido a termo e com boa vitalidade, a SatO2 alvo pré-ductal entre o 5º e o 10º minuto, após o nascimento, está entre",
+  "alts": [
+   "60-70%.",
+   "70-80%.",
+   "80-90%.",
+   "85-95%.",
+   "95-98%."
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Reanimação do recém-nascido ≥34 semanas em sala de parto: diretrizes 2026 da SBP",
+  "coment": "A saturação pré-ductal, medida no pulso radial direito, sobe aos poucos depois do nascimento. A tabela da SBP usada na prova trazia 70 a 80% até o 5º minuto, 80 a 90% entre o 5º e o 10º e 85 a 95% depois do 10º. A diretriz da SBP de 2026 detalha minuto a minuto: 80 a 85% no 5º minuto e 85 a 95% no 10º. A faixa de 80 a 90% é a que cobre esse intervalo. Saturação abaixo do alvo pede primeiro corrigir a ventilação e depois ajustar o oxigênio com blender.",
+  "porAlt": [
+   "Errada: 60 a 70% é alvo dos primeiros minutos, não do intervalo entre o 5º e o 10º.",
+   "Errada: 70 a 80% corresponde aos minutos anteriores ao 5º.",
+   "Correta: entre o 5º e o 10º minuto o alvo pré-ductal fica entre 80 e 90%.",
+   "Errada: 85 a 95% é o alvo a partir do 10º minuto.",
+   "Errada: 95 a 98% excede o alvo da transição e expõe o recém-nascido a hiperóxia."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Neonatologista",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A orientação da ANVISA para prevenir infecção da corrente sanguínea é que o tempo de permanência do cateter umbilical venoso seja limitado a um período de",
+  "alts": [
+   "2 a 8 dias.",
+   "7 a 14 dias.",
+   "até 18 dias.",
+   "até 21 dias.",
+   "até 28 dias."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2ª ed., 2017",
+  "coment": "O caderno da ANVISA de 2017 limita o tempo do cateter umbilical para reduzir infecção da corrente sanguínea e trombose. O cateter umbilical arterial não deve passar de 5 dias. O venoso pode ficar até 14 dias se manipulado com técnica asséptica, faixa expressa na alternativa como 7 a 14 dias; quando a necessidade se prolonga, troca-se por PICC. O cateter umbilical não é trocado de rotina e é retirado assim que deixa de ser necessário ou ao surgir infecção, trombose ou insuficiência vascular.",
+  "porAlt": [
+   "Errada: 2 a 8 dias não é a faixa de permanência do cateter umbilical venoso.",
+   "Correta: o cateter umbilical venoso pode permanecer por até 14 dias, na faixa de 7 a 14 dias.",
+   "Errada: 18 dias ultrapassa o limite de 14 dias da ANVISA.",
+   "Errada: 21 dias excede o tempo recomendado e aumenta o risco de infecção.",
+   "Errada: 28 dias é o dobro do limite do cateter umbilical venoso."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Neonatologista",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O acolhimento em obstetrícia pressupõe um atendimento humanizado incluindo o direito a uma assistência digna e respeitosa durante toda a gravidez, parto e puerpério, assim como o direito de estar livre da violência e discriminação.\nCom base nas disposições do Ministério da Saúde acerca dos atos que caracterizam violência obstétrica, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Tratar a gestante ou parturiente de forma agressiva, não empática, grosseira, zombeteira, ou de qualquer outra forma que a faça se sentir mal pelo tratamento recebido.\n( ) Impedir que a mulher seja acompanhada por alguém de sua preferência durante todo o trabalho de parto.\n( ) Realizar a episiotomia quando esta não for realmente imprescindível.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "F – V – F.",
+   "V – V – V.",
+   "F – F – V.",
+   "V – F – V.",
+   "F – V – V."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Violência contra a mulher",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 11.108/2005 (acompanhante no parto); Diretrizes Nacionais de Assistência ao Parto Normal (MS/CONITEC, 2017); Portaria GM/MS 5.350/2024 (Rede Alyne)",
+  "coment": "Violência obstétrica é o desrespeito, o abuso ou a intervenção desnecessária na gestação, no parto e no puerpério. Tratar a mulher de forma grosseira ou zombeteira fere o direito ao cuidado respeitoso. Impedir o acompanhante viola a Lei 11.108/2005, que garante acompanhante de livre escolha durante todo o trabalho de parto, parto e pós-parto imediato, direito reafirmado na Rede Alyne. A episiotomia de rotina não é recomendada pela diretriz de 2017 e só se justifica com indicação clínica. As três condutas caracterizam violência: V, V, V.",
+  "porAlt": [
+   "Errada: o tratamento grosseiro e a episiotomia sem necessidade também são violência obstétrica.",
+   "Correta: tratamento desrespeitoso, impedir o acompanhante e episiotomia desnecessária são violência obstétrica.",
+   "Errada: maltratar a mulher e negar acompanhante também caracterizam violência.",
+   "Errada: impedir o acompanhante viola a Lei 11.108/2005 e é violência obstétrica.",
+   "Errada: o tratamento agressivo ou zombeteiro é violência obstétrica."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Obstetra",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Recomenda-se o cuidado da parturiente em maternidade baseada em hospital, com presença de médico obstetra, se este não for o profissional que assiste a mulher, na presença de qualquer uma das seguintes condições:",
+  "alts": [
+   "apresentação cefálica alta ou móvel em nulípara.",
+   "frequência cardíaca fetal (FCF) < 120 ou > 140bpm.",
+   "temperatura de 37,5C ou mais em uma única medida ou 37C em 2 ocasiões, em período de 1 hora.",
+   "PA sistólica ≥ 145mmHg ou PA diastólica ≥ 95mmHg em uma única medida.",
+   "frequência cardíaca materna >110bpm em 2 ocasiões, com 30 minutos de intervalo."
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Diretrizes Nacionais de Assistência ao Parto Normal (MS/CONITEC, 2017)",
+  "coment": "A diretriz de 2017 lista as condições que transferem a parturiente para maternidade hospitalar com obstetra. Entre elas está a apresentação cefálica alta ou móvel em nulípara, que sugere desproporção ou anomalia de apresentação. As demais alternativas trazem limiares trocados. Os da diretriz são: FCF abaixo de 110 ou acima de 160 bpm; temperatura de 38 °C ou mais em uma medida, ou 37,5 °C em duas medidas com 1 hora de intervalo; PA sistólica de 160 ou diastólica de 110 mmHg em uma única medida; pulso materno acima de 120 bpm em duas medidas com 30 minutos de intervalo.",
+  "porAlt": [
+   "Correta: apresentação cefálica alta ou móvel em nulípara indica assistência com obstetra em maternidade hospitalar.",
+   "Errada: a FCF de alerta é abaixo de 110 ou acima de 160 bpm, não 120 e 140.",
+   "Errada: o critério é 38 °C em uma medida ou 37,5 °C em duas medidas com 1 hora de intervalo.",
+   "Errada: em medida única o corte é PA sistólica de 160 ou diastólica de 110 mmHg.",
+   "Errada: o critério de pulso materno é acima de 120 bpm em duas medidas com 30 minutos de intervalo."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Obstetra",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma gestante na 26ª semana de gestação deu entrada na unidade de saúde apresentando padrão respiratório ineficaz; saturação de O² = 94% em ar ambiente; PAS = 165 e PAD = 110mmHg, dor de cabeça, de estômago, e temperatura axilar = 40C.\nDe acordo com o protocolo de acolhimento e classificação de risco em obstetrícia, essa gestante deve receber a classificação",
+  "alts": [
+   "vermelha (atendimento imediato).",
+   "laranja (atendimento em até 15 minutos).",
+   "amarela (atendimento em até 30 minutos).",
+   "verde (atendimento em até 120 minutos).",
+   "azul (atendimento não prioritário)."
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Classificação de risco",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Manual de Acolhimento e Classificação de Risco em Obstetrícia (MS, 2017)",
+  "coment": "No acolhimento com classificação de risco em obstetrícia, a cor laranja pede atendimento em até 15 minutos. O caso reúne discriminadores dessa cor: pressão de 165/110 mmHg com cefaleia e dor epigástrica, sinais de iminência de eclâmpsia; febre de 40 °C; e saturação de 94% em ar ambiente, baixa mas sem insuficiência respiratória franca. O vermelho, atendimento imediato, fica para choque, convulsão em curso, parada ou insuficiência respiratória grave com hipoxemia acentuada. A gestante é atendida em minutos, com acesso venoso, oxigênio e preparo do sulfato de magnésio prescrito.",
+  "porAlt": [
+   "Errada: pelo gabarito oficial não há choque, convulsão nem insuficiência respiratória grave que exijam vermelho.",
+   "Correta: hipertensão grave com sintomas, febre de 40 °C e saturação de 94% classificam como laranja.",
+   "Errada: hipertensão grave sintomática e febre de 40 °C não podem esperar 30 minutos.",
+   "Errada: verde é para queixa sem sinal de gravidade, o oposto deste caso.",
+   "Errada: azul é atendimento não prioritário, incompatível com risco de eclâmpsia."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Obstetra",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca do indicador razão de mortalidade materna, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) É o número de óbitos maternos por 100 mil nascidos vivos de mães residentes em determinado espaço geográfico, em um determinado período de tempo.\n( ) Estima a frequência de óbitos femininos, ocorridos até 42 dias após o término da gestação, de causas ligadas ou não à gravidez, parto e puerpério.\n( ) São considerados, no conceito de morte materna, os óbitos por tétano obstétrico e por transtornos mentais e comportamentais associados ao puerpério.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "V – V – V.",
+   "F – V – F.",
+   "V – F – V.",
+   "F – F – V.",
+   "V – F – F."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RIPSA, Indicadores Básicos para a Saúde no Brasil, 2ª ed., 2008; CID-10 (OMS), definição de morte materna",
+  "coment": "A razão de mortalidade materna é o número de óbitos maternos por 100 mil nascidos vivos de mães residentes, num espaço e período: item I verdadeiro. Ela não conta qualquer óbito feminino até 42 dias. Morte materna, pela CID-10, é a que ocorre na gestação ou até 42 dias após o término, por causa ligada à gravidez ou agravada por ela, excluídas as causas acidentais ou incidentais: item II falso. A CID-10 inclui no conceito o tétano obstétrico e os transtornos mentais e comportamentais associados ao puerpério: item III verdadeiro. Sequência V, F, V.",
+  "porAlt": [
+   "Errada: a razão não inclui causas não ligadas à gravidez, então o item II é falso.",
+   "Errada: o item I está correto, com denominador de 100 mil nascidos vivos.",
+   "Correta: denominador de 100 mil nascidos vivos, exclusão das causas incidentais e inclusão do tétano obstétrico e dos transtornos puerperais.",
+   "Errada: a definição do item I, por 100 mil nascidos vivos, é verdadeira.",
+   "Errada: tétano obstétrico e transtornos mentais do puerpério entram no conceito de morte materna."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Obstetra",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas disposições do Código de Ética dos Profissionais de Enfermagem, analise as afirmativas a seguir.\nI. A ação, omissão ou conivência que implique em desobediência ou inobservância às disposições do Código de Ética dos Profissionais de Enfermagem é considerada infração ética e disciplinar.\nII. A advertência verbal consiste na admoestação ao infrator, de forma reservada, que será registrada no prontuário do mesmo, na presença de duas testemunhas.\nIII. A penalidade de cassação do direito ao exercício profissional é de competência do Conselho Federal de Enfermagem.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), arts. 104, 108 e 109; Lei 5.905/1973, art. 18, § 1º",
+  "coment": "O art. 104 do Código de Ética define infração ética e disciplinar como ação, omissão ou conivência que implique desobediência ou inobservância às disposições do Código: item I correto. O art. 108, § 1º, descreve a advertência verbal como admoestação reservada ao infrator, registrada no prontuário, na presença de duas testemunhas: item II correto. A cassação é de competência do COFEN (art. 109 e Lei 5.905/1973, art. 18, § 1º), ouvido o regional; as demais penas cabem aos COREN: item III correto. A Res. COFEN 758/2024 passou a admitir advertência em sala virtual com no mínimo uma testemunha.",
+  "porAlt": [
+   "Errada: os itens II e III também reproduzem o Código de Ética.",
+   "Errada: o item I, definição de infração do art. 104, também está correto.",
+   "Errada: o item II, sobre a advertência verbal com duas testemunhas, também está correto.",
+   "Errada: falta o item I, que reproduz o art. 104.",
+   "Correta: definição de infração, advertência verbal e competência do COFEN para a cassação estão corretas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Obstetra",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as orientações do Ministério da Saúde, uma gestante deve passar por, no mínimo, 6 consultas de pré-natal durante a gestação.\nNesse caso, o cronograma recomendado estabelece a realização de consultas",
+  "alts": [
+   "bimestrais, até a 20ª semana.",
+   "quinzenais, da 36ª até a 41ª semana.",
+   "mensais, da 25ª até a 35ª semana.",
+   "quinzenais, da 28ª até a 36ª semana.",
+   "semanais, da a 20ª até a 28ª semana."
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Atenção ao Pré-Natal de Baixo Risco, Cadernos de Atenção Básica nº 32 (MS, 2012); Portaria GM/MS 5.350/2024 (Rede Alyne)",
+  "coment": "O Caderno de Atenção Básica nº 32 define a periodicidade das consultas: mensais até 28 semanas, quinzenais de 28 a 36 e semanais de 36 a 41 semanas, sem alta do pré-natal. A alternativa correta é a das consultas quinzenais entre a 28ª e a 36ª semana. O número mínimo mudou: o enunciado usa 6 consultas, da Rede Cegonha, mas a Rede Alyne (Portaria GM/MS 5.350/2024) passou a exigir no mínimo 7 consultas na atenção primária, intercaladas entre enfermeiro e médico, com captação até 12 semanas. O cronograma continua o mesmo.",
+  "porAlt": [
+   "Errada: até a 28ª semana as consultas são mensais, não bimestrais.",
+   "Errada: a partir da 36ª semana as consultas são semanais.",
+   "Errada: entre a 28ª e a 36ª semana as consultas já são quinzenais.",
+   "Correta: as consultas são quinzenais da 28ª à 36ª semana.",
+   "Errada: até a 28ª semana as consultas são mensais; as semanais começam na 36ª."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Obstetra",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as recomendações do Ministério da Saúde, a gestante, até o final da gestação, deve receber diariamente",
+  "alts": [
+   "40mg de ferro elementar.",
+   "200µg de ácido fólico.",
+   "50mg de ferro elementar.",
+   "300µg de ácido fólico.",
+   "30mg de ferro elementar."
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Programa Nacional de Suplementação de Ferro: manual de condutas gerais (MS, 2013); Cadernos de Atenção Básica nº 32 (MS, 2012)",
+  "coment": "O Programa Nacional de Suplementação de Ferro manda oferecer a toda gestante 40 mg de ferro elementar por dia, em geral como sulfato ferroso, da confirmação da gravidez até o parto, e seguir até o 3º mês pós-parto ou pós-aborto. O ácido fólico é de 0,4 mg (400 µg) por dia, de pelo menos 30 dias antes da concepção até a 12ª semana, e não até o fim da gestação; 5 mg só no risco aumentado de defeito do tubo neural. Hoje também se prescreve cálcio universal, 1.000 mg por dia da 12ª semana ao parto.",
+  "porAlt": [
+   "Correta: a gestante recebe 40 mg de ferro elementar por dia até o fim da gestação.",
+   "Errada: a dose de ácido fólico é 400 µg, e o uso vai até a 12ª semana.",
+   "Errada: a dose do programa é 40 mg de ferro elementar, não 50 mg.",
+   "Errada: a dose de ácido fólico é 400 µg por dia, não 300 µg.",
+   "Errada: 30 mg não é a dose de ferro elementar do programa brasileiro."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Obstetra",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a opção que indica o exame de rotina que deve ser solicitado no segundo trimestre de gestação em um pré-natal de baixo risco.",
+  "alts": [
+   "Hemograma.",
+   "Toxoplasmose IgM e IgG.",
+   "Tipagem sanguínea e fator Rh.",
+   "Exame da secreção vaginal, se houver indicação clínica.",
+   "Teste de tolerância para glicose com 75g, se houver fator de risco materno."
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Cadernos de Atenção Básica nº 32 (MS, 2012); Rastreamento e Diagnóstico de Diabetes Mellitus Gestacional no Brasil (OPAS/MS/FEBRASGO/SBD, 2017)",
+  "coment": "No Caderno 32, o exame de rotina do segundo trimestre é o teste de tolerância à glicose com 75 g, entre 24 e 28 semanas, indicado na época para quem tinha fator de risco ou glicemia de jejum acima de 85 mg/dL. Essa restrição foi superada: desde o consenso de 2017, o rastreamento é universal, com TOTG 75 g entre 24 e 28 semanas para toda gestante com glicemia de jejum inicial abaixo de 92 mg/dL (onde houver viabilidade). Hemograma, tipagem e toxoplasmose são da primeira consulta; o hemograma repete-se no terceiro trimestre; o exame da secreção vaginal se faz por indicação em qualquer momento.",
+  "porAlt": [
+   "Errada: o hemograma é pedido na primeira consulta e repetido no terceiro trimestre.",
+   "Errada: a sorologia de toxoplasmose é da primeira consulta e repete-se só na suscetível.",
+   "Errada: tipagem sanguínea e fator Rh são exames da primeira consulta.",
+   "Errada: o exame da secreção vaginal depende de indicação clínica, sem trimestre fixo.",
+   "Correta: o TOTG 75 g é o exame do segundo trimestre, hoje indicado para todas as gestantes."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Obstetra",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as recomendações do Ministério da Saúde, uma mulher de 28 anos que apresentou Lesão de Baixo Grau (LSIL) no resultado do exame citopatológico deve",
+  "alts": [
+   "repetir a citologia em 1 ano.",
+   "repetir a citologia em 3 anos.",
+   "repetir a citologia em 6 meses.",
+   "repetir a citologia em 12 meses.",
+   "ser encaminhada para colposcopia."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (INCA, 2016); Portaria Conjunta SAES/SECTICS 13/2025",
+  "coment": "Pelas diretrizes do INCA de 2016, ainda válidas onde o rastreamento é feito por citologia, a lesão intraepitelial de baixo grau em mulher de 25 anos ou mais leva à repetição da citologia em 6 meses; abaixo de 25 anos, repete-se em 3 anos. A LSIL costuma regredir sozinha, e a colposcopia imediata traria sobretratamento. Com duas citologias seguidas negativas, volta-se à rotina; LSIL persistente vai à colposcopia. Onde já chegou o teste de DNA-HPV (Portaria Conjunta 13/2025), a conduta segue o resultado do teste molecular.",
+  "porAlt": [
+   "Errada: repetir em 1 ano não é a conduta para LSIL na mulher de 28 anos.",
+   "Errada: repetir em 3 anos é a conduta para menores de 25 anos.",
+   "Correta: na mulher de 25 anos ou mais com LSIL, repete-se a citologia em 6 meses.",
+   "Errada: 12 meses não é o intervalo recomendado para LSIL.",
+   "Errada: a colposcopia fica para LSIL persistente, não para o primeiro resultado."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Obstetra",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas orientações do Ministério da Saúde para avaliação da presença de edema em uma gestante durante as consultas de pré-natal, analise as afirmativas a seguir.\nI. O resultado (+++) corresponde à presença de edema em membros inferiores + ganho de peso + hipertensão.\nII. Na presença de edema em face, membros e região sacra, independentemente de ganho de peso e hipertensão, deve-se suspeitar de pré-eclâmpsia e encaminhar a paciente para avaliação médica e pré-natal de alto risco.\nIII. O edema unilateral de MMII, com sinais flogísticos e dor, sugere a presença de tromboflebite e trombose venosa profunda.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Atenção ao Pré-Natal de Baixo Risco, Cadernos de Atenção Básica nº 32 (MS, 2012)",
+  "coment": "O Caderno 32 gradua o edema da gestante. Uma cruz: só edema de tornozelo, sem hipertensão nem ganho súbito de peso. Duas cruzes: edema limitado aos membros inferiores, mas com hipertensão ou aumento de peso; logo, o item I descreve duas cruzes, não três, e é falso. Três cruzes: edema generalizado (face, tronco e membros) ou já presente ao acordar, com ou sem hipertensão e ganho de peso, o que faz suspeitar de pré-eclâmpsia e pede avaliação médica e alto risco: item II verdadeiro. Edema unilateral com dor e sinais flogísticos sugere trombose venosa profunda: item III verdadeiro.",
+  "porAlt": [
+   "Errada: o item I descreve edema de duas cruzes, e não de três.",
+   "Errada: o item I é falso, pois edema em membros inferiores com ganho de peso e hipertensão é duas cruzes.",
+   "Errada: o item I é falso e o II, sobre edema generalizado, é verdadeiro.",
+   "Correta: edema generalizado sugere pré-eclâmpsia e edema unilateral doloroso sugere trombose.",
+   "Errada: o item I classifica errado o edema de membros inferiores com hipertensão."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Obstetra",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma gestante com úlcera genital e confirmação diagnóstica de sífilis, deve ser tratada com",
+  "alts": [
+   "doxiciclina.",
+   "ceftriaxona.",
+   "azitromicina.",
+   "ciprofloxacino.",
+   "penicilina G benzatina."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis (MS, 2022)",
+  "coment": "A úlcera genital indica sífilis primária, recente. Na gestante, o único tratamento que trata o feto e previne a sífilis congênita é a benzilpenicilina benzatina, 2,4 milhões UI IM em dose única na sífilis recente (1,2 milhão em cada glúteo), aplicada pelo enfermeiro na atenção primária. Doxiciclina é contraindicada na gestação; ceftriaxona e azitromicina não garantem o tratamento fetal e, na gestante, contam como tratamento inadequado. A parceria sexual também é tratada, e o seguimento é feito com VDRL mensal.",
+  "porAlt": [
+   "Errada: a doxiciclina é contraindicada na gestação e não previne a sífilis congênita.",
+   "Errada: a ceftriaxona não é considerada tratamento adequado da gestante para prevenir a sífilis congênita.",
+   "Errada: a azitromicina não trata o feto e tem resistência descrita do treponema.",
+   "Errada: o ciprofloxacino não trata sífilis.",
+   "Correta: a penicilina G benzatina é o tratamento da sífilis na gestante."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Obstetra",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca da assistência ao parto normal, analise as afirmativas a seguir e assinale (V) para a afirmativa e (F) para a falsa.\n( ) Recomenda-se o uso de agentes antiespasmódicos para prevenção de atraso no trabalho de parto.\n( ) Se a ocitocina for indicada, deve-se utilizar esquema de baixa dose e assegurar que os incrementos na dose não sejam mais frequentes do que a cada 30 minutos.\n( ) Se for necessário realizar uma episiotomia, recomenda-se a médio-lateral originando na fúrcula vaginal e direcionando para o lado direito, com um ângulo do eixo vertical entre 45 e 60 graus.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "V – F – V.",
+   "F – V – V.",
+   "V – V – V.",
+   "F – F – F.",
+   "V – F – F."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes Nacionais de Assistência ao Parto Normal (MS/CONITEC, 2017)",
+  "coment": "A diretriz de 2017 recomenda não usar antiespasmódicos para prevenir atraso no trabalho de parto, por falta de benefício: item I falso. Quando a ocitocina é indicada, o esquema é de baixa dose, com aumentos não mais frequentes que a cada 30 minutos, para evitar taquissistolia e sofrimento fetal: item II verdadeiro. A episiotomia não é rotina; se necessária, recomenda-se a médio-lateral, originando na fúrcula vaginal e direcionada para o lado direito, com ângulo entre 45 e 60 graus do eixo vertical: item III verdadeiro. Sequência F, V, V. O enunciado traz erro de digitação da banca ('V para a afirmativa').",
+  "porAlt": [
+   "Errada: antiespasmódicos não são recomendados para prevenir atraso no trabalho de parto.",
+   "Correta: sem antiespasmódico, ocitocina em baixa dose com aumentos a cada 30 minutos no mínimo e episiotomia médio-lateral direita a 45 a 60 graus.",
+   "Errada: o uso de antiespasmódicos para prevenir atraso não é recomendado.",
+   "Errada: os itens sobre ocitocina e técnica da episiotomia são verdadeiros.",
+   "Errada: o item I é falso, e os itens II e III são verdadeiros."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Obstetra",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um dos sinais de certeza de gravidez é a presença de batimentos cardíacos fetais (BCF), detectados pelo sonar a partir da",
+  "alts": [
+   "9ª semana de gestação.",
+   "10ª semana de gestação.",
+   "12ª semana de gestação.",
+   "15ª semana de gestação.",
+   "20ª semana de gestação."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Atenção ao Pré-Natal de Baixo Risco, Cadernos de Atenção Básica nº 32 (MS, 2012)",
+  "coment": "Os batimentos cardíacos fetais são sinal de certeza da gravidez. Pelo Caderno 32, são detectados com sonar Doppler a partir de 12 semanas e com estetoscópio de Pinard a partir de 20 semanas. Com atraso menstrual acima de 12 semanas, a ausculta do BCF confirma a gestação sem necessidade do teste imunológico. Os outros sinais de certeza são os movimentos fetais percebidos pelo examinador e a imagem do embrião ou feto na ultrassonografia. O β-hCG positivo é sinal de probabilidade.",
+  "porAlt": [
+   "Errada: com 9 semanas o sonar ainda não é o método de referência para o BCF.",
+   "Errada: o Caderno 32 fixa a detecção pelo sonar a partir de 12 semanas, não de 10.",
+   "Correta: o sonar Doppler detecta o BCF a partir da 12ª semana.",
+   "Errada: 15 semanas é tarde para o sonar, que já detecta o BCF com 12.",
+   "Errada: 20 semanas é o marco do estetoscópio de Pinard, não do sonar."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Obstetra",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma das medidas que deve ser garantida à mulher vítima de violência sexual é a Profilaxia Pós-Exposição ao HIV (PEP).\nEssa medida deve ser realizada no máximo em até",
+  "alts": [
+   "12 horas.",
+   "24 horas.",
+   "48 horas.",
+   "72 horas.",
+   "96 horas."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "HIV e aids",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "PCDT para Profilaxia Pós-Exposição de Risco à Infecção pelo HIV, IST e Hepatites Virais (MS, 2024)",
+  "coment": "A profilaxia pós-exposição ao HIV deve começar o mais cedo possível, idealmente nas primeiras 2 horas, e no máximo até 72 horas após a exposição; depois disso não é indicada. O esquema dura 28 dias. Na violência sexual, o atendimento também oferece anticoncepção de emergência até 5 dias, profilaxia das IST, imunoprofilaxia da hepatite B até 14 dias e notificação imediata pela Portaria GM/MS 11.211/2026. O boletim de ocorrência não é exigido para o atendimento.",
+  "porAlt": [
+   "Errada: 12 horas não é o limite; a PEP pode ser iniciada até 72 horas.",
+   "Errada: a PEP ainda é indicada depois de 24 horas, até 72 horas.",
+   "Errada: 48 horas não é o prazo máximo, embora quanto antes melhor.",
+   "Correta: a PEP do HIV deve ser iniciada no máximo até 72 horas após a exposição.",
+   "Errada: depois de 72 horas a PEP não é mais indicada."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Obstetra",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as orientações do Ministério da Saúde, assinale a opção que indica o critério usado para classificar uma RN como alto risco ao nascer.",
+  "alts": [
+   "Frequência respiratória > 60irpm.",
+   "Idade gestacional ≥ 42 semanas.",
+   "Temperatura axilar > 36C.",
+   "Peso ao nascer < 2.500g.",
+   "Reanimação sem VPP."
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Manual AIDPI Neonatal, quadro de procedimentos (MS/OPAS, 2014)",
+  "coment": "A AIDPI Neonatal classifica o risco ao nascer em alto, médio e baixo. Alto risco inclui dificuldade respiratória, como frequência respiratória acima de 60 irpm, além de peso abaixo de 2.000 g ou de 4.000 g ou mais, temperatura axilar abaixo de 36 °C ou acima de 37,5 °C, reanimação com VPP ou massagem e anomalias congênitas maiores. Médio risco inclui peso entre 2.000 e 2.499 g, idade gestacional de 35 a 37 semanas ou de 42 semanas ou mais e reanimação sem VPP. Peso abaixo de 2.500 g, sem outra informação, define baixo peso, não o corte de alto risco da AIDPI.",
+  "porAlt": [
+   "Correta: frequência respiratória acima de 60 irpm indica dificuldade respiratória e alto risco ao nascer.",
+   "Errada: idade gestacional de 42 semanas ou mais é critério de médio risco na AIDPI Neonatal.",
+   "Errada: temperatura acima de 36 °C é normal; alto risco é abaixo de 36 ou acima de 37,5 °C.",
+   "Errada: o corte de alto risco é peso abaixo de 2.000 g; entre 2.000 e 2.499 g é médio risco.",
+   "Errada: reanimação sem VPP classifica como médio risco."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Obstetra",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as recomendações da ANVISA para prevenção e controle de infecção de corrente sanguínea, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) O uso de pomadas antimicrobianas em sítio de inserção deve ser limitado para cateteres de hemodiálise, após cada sessão.\n( ) Deve-se trocar o equipo e o dispositivo complementar de infusões lipídicas a cada 12 horas.\n( ) A limpeza e a desinfecção da superfície e do painel das bombas de infusão devem ser realizadas a cada 24 horas e na troca de paciente.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "F – F – F.",
+   "V – F – V.",
+   "F – F – V.",
+   "V – V – V.",
+   "F – V – F."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2ª ed., 2017",
+  "coment": "O caderno da ANVISA não recomenda pomadas ou cremes antimicrobianos no sítio de inserção, porque favorecem fungos e resistência; a exceção é o cateter de hemodiálise, com aplicação após cada sessão: item I verdadeiro. Equipo e dispositivo complementar de emulsão lipídica são trocados a cada 12 horas, porque o lipídio favorece crescimento microbiano (propofol, a cada 6 a 12 horas com o frasco; nutrição parenteral, a cada bolsa): item II verdadeiro. Superfície e painel das bombas de infusão são limpos e desinfetados a cada 24 horas e na troca de paciente: item III verdadeiro. Sequência V, V, V.",
+  "porAlt": [
+   "Errada: os três itens reproduzem recomendações do caderno da ANVISA.",
+   "Errada: a troca do equipo de lipídio a cada 12 horas também é recomendação da ANVISA.",
+   "Errada: a pomada no cateter de hemodiálise e a troca do equipo de lipídio estão corretas.",
+   "Correta: pomada só no cateter de hemodiálise, equipo de lipídio a cada 12 horas e limpeza das bombas a cada 24 horas.",
+   "Errada: os itens I e III também são verdadeiros."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Oncologista",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca da interação medicamentosa entre o metotrexato e o ácido folínico, assinale a afirmativa correta.",
+  "alts": [
+   "A interação ocasiona hipoglicemia severa.",
+   "A interação aumenta o risco de mielossupressão.",
+   "O ácido folínico aumenta a citoxicidade do metotrexato.",
+   "O metotrexato anula o efeito terapêutico do acido folínico.",
+   "O ácido folínico diminui a citoxicidade do metotrexato."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "INCA, Ações de Enfermagem para o Controle do Câncer: uma proposta de integração ensino-serviço, 3ª ed., 2008",
+  "coment": "O metotrexato inibe a di-hidrofolato redutase e bloqueia a síntese de folato reduzido, necessário ao DNA. O ácido folínico (leucovorina) já é folato reduzido e contorna esse bloqueio nas células normais; por isso é usado como resgate após metotrexato em dose alta, diminuindo a citotoxicidade sobre medula e mucosas. O resgate começa no horário prescrito e é guiado pelo nível sérico do metotrexato; a enfermagem cumpre o horário com rigor e mantém hidratação e alcalinização urinária prescritas. O termo 'citoxicidade' é grafia da banca.",
+  "porAlt": [
+   "Errada: a interação não causa hipoglicemia; o efeito é sobre a síntese de DNA.",
+   "Errada: o ácido folínico reduz, e não aumenta, a mielossupressão do metotrexato.",
+   "Errada: o ácido folínico diminui a toxicidade do metotrexato, não a aumenta.",
+   "Errada: é o ácido folínico que contorna o bloqueio do metotrexato, e não o contrário.",
+   "Correta: o ácido folínico resgata as células normais e reduz a citotoxicidade do metotrexato."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Oncologista",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Após o tratamento quimioterápico, um paciente adulto com linfoma não Hodgkin (LNH) apresentou recaída precoce.\nIsso significa",
+  "alts": [
+   "doença ativa após 1 ano de tratamento.",
+   "doença ativa com menos de 1 ano de tratamento.",
+   "doença resistente aos protocolos de quimioterapia.",
+   "contagem de células neoplásicas menor ou igual a 20% na medula óssea.",
+   "contagem de células neoplásicas menor ou igual a 5% na medula óssea."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Gisselbrecht C. et al., Estudo CORAL, J Clin Oncol, 2010",
+  "coment": "Nos linfomas não Hodgkin agressivos, recaída é o retorno da doença depois de remissão. Ela é precoce quando ocorre antes de 12 meses, contados do diagnóstico ou do fim do tratamento de primeira linha conforme o estudo, e tardia depois disso. A recaída precoce tem pior prognóstico e responde menos à quimioterapia de resgate, como mostrou o estudo CORAL. Doença que não responde ou progride durante o tratamento é refratária, não recaída. Os percentuais de células na medula não definem recaída de linfoma.",
+  "porAlt": [
+   "Errada: doença que volta depois de 1 ano caracteriza recaída tardia.",
+   "Correta: a recaída precoce é a que ocorre antes de completar 1 ano.",
+   "Errada: resistência aos protocolos define doença refratária, não recaída precoce.",
+   "Errada: a porcentagem de células na medula não define recaída precoce de linfoma.",
+   "Errada: 5% de blastos na medula é parâmetro de remissão em leucemia, não definição de recaída de linfoma."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Oncologista",
+   "n": 33,
+   "parte": "especificas"
+  }
+ }
+]

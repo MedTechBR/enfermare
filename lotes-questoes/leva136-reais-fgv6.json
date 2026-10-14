@@ -1,0 +1,1506 @@
+[
+ {
+  "q": "Em agosto de 2025, a Prefeitura de Nova Iguaçu realizou mutirão com atendimentos especializados e vacinação, pelo programa federal “Agora Tem Especialistas”, aplicando a metodologia de Oferta de Cuidados Integrados (OCI), que reúne consultas, exames e diagnóstico em um único fluxo.\nFonte: Prefeitura de Nova Iguaçu (09/08/2025).\nA OCI integra procedimentos clínicos, diagnósticos e de gestão, fortalecendo a Atenção Básica e promovendo cuidado contínuo no território. Analise as afirmativas a seguir e classifique-as como verdadeiras (V) ou falsas (F):\n( ) A metodologia de Oferta de Cuidados Integrados fortalece a Atenção Primária e o atributo da longitudinalidade da PNAB.\n( ) O financiamento do SUS é tripartite, envolvendo União, estados e municípios.\n( ) A OCI expressa o princípio da integralidade e reforça a continuidade do cuidado no território.\n( ) A PNAB define a imunização e o cuidado oncológico como atribuições exclusivas da atenção especializada.\nAs afirmativas são, respectivamente",
+  "alts": [
+   "V – F – V – F.",
+   "F – V – V – F.",
+   "V – V – F – V.",
+   "V – V – V – V.",
+   "V – V – V – F."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, art. 198, § 1º; Lei 8.080/1990, art. 7º, II; Portaria GM/MS 2.436/2017 (PNAB)",
+  "coment": "A banca apresenta a Oferta de Cuidados Integrados (OCI) como apoio à continuidade do cuidado a partir da Atenção Básica, por isso a primeira e a terceira são verdadeiras: a longitudinalidade é diretriz da PNAB (Portaria 2.436/2017) e a integralidade é princípio do SUS (Lei 8.080/1990, art. 7º, II). O financiamento é tripartite, com recursos da União, dos estados, do Distrito Federal e dos municípios (CF, art. 198, § 1º; LC 141/2012). A quarta é falsa: vacinação e ações de prevenção e rastreamento do câncer são feitas na Atenção Básica, que coordena o cuidado na rede; nada disso é exclusivo da atenção especializada.",
+  "porAlt": [
+   "Errada: marca falsa a segunda afirmativa, mas o financiamento do SUS é de fato tripartite (CF, art. 198, § 1º).",
+   "Errada: considera falsa a primeira afirmativa, mas a banca trata a OCI como reforço da APS e da longitudinalidade.",
+   "Errada: inverte a terceira e a quarta; a OCI expressa a integralidade e a PNAB não reserva vacina e cuidado oncológico à atenção especializada.",
+   "Errada: a quarta afirmativa é falsa, pois vacinação e prevenção do câncer são ações da Atenção Básica.",
+   "Correta: as três primeiras são verdadeiras e a quarta é falsa, já que a PNAB não torna vacinação e cuidado oncológico exclusivos da atenção especializada."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Enfermeiro",
+   "n": 15,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Há um tipo de auditoria que ocorre enquanto o paciente recebe atendimento e envolve a obtenção e avaliação de evidências a respeito da eficiência e eficácia das atividades operacionais de uma instituição, em comparação com os objetivos estabelecidos, além de contemplar recomendações para aperfeiçoamento.\nEssa auditoria é classificada como",
+  "alts": [
+   "preventiva.",
+   "operacional.",
+   "analítica.",
+   "retrospectiva.",
+   "prospectiva."
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 720/2023 (atuação do enfermeiro em auditoria)",
+  "coment": "Quanto ao momento, a auditoria de enfermagem é prospectiva ou prévia (antes do procedimento, como na autorização), concorrente ou operacional (durante a internação, com o paciente ainda em atendimento) e retrospectiva (após a alta, pelo prontuário). O enunciado descreve a auditoria feita enquanto o paciente é atendido, que avalia a eficiência e a eficácia das atividades frente aos objetivos e propõe melhorias: é a operacional, que permite corrigir o cuidado em tempo real. No âmbito da equipe de enfermagem, a auditoria é privativa do enfermeiro (Res. COFEN 720/2023, art. 1º, parágrafo único).",
+  "porAlt": [
+   "Errada: preventiva não é a denominação clássica do momento da auditoria; a modalidade anterior ao atendimento é a prévia ou prospectiva.",
+   "Correta: a auditoria operacional, ou concorrente, ocorre durante o atendimento e avalia eficiência e eficácia frente aos objetivos, com recomendações.",
+   "Errada: analítica não é uma das classes de auditoria quanto ao momento; a análise de evidências ocorre em todas elas.",
+   "Errada: a retrospectiva é feita após a alta, pelo prontuário, e não beneficia diretamente aquele paciente.",
+   "Errada: a prospectiva é prévia, feita antes do procedimento, como na autorização de internação ou de material."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Enfermeiro",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo a Resolução COFEN Nº 736/2024, analise as afirmativas a seguir sobre o Processo de Enfermagem, classificando-as como verdadeira (V) ou falsa (F).\n( ) É um método que orienta o pensamento crítico e o julgamento clínico do enfermeiro direcionando a equipe de Enfermagem para o cuidado à pessoa, à família, à coletividade e a grupos especiais.\n( ) A documentação do Processo de Enfermagem deve ser realizada pelos membros da equipe formalmente no prontuário do paciente, físico ou eletrônico.\n( ) Organiza-se em cinco etapas inter-relacionadas, interdependentes, recorrentes e cíclicas: Avaliação de Enfermagem, Diagnóstico de Enfermagem, Planejamento de Enfermagem, Implementação de Enfermagem e Evolução de Enfermagem.\n( ) O registro de todas as suas etapas cabe a todos os membros da equipe de Enfermagem.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – F – V.",
+   "V – F – F – F.",
+   "V – V – V – F.",
+   "F – V – V – F.",
+   "V – V – V – V."
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, art. 6º",
+  "coment": "A Res. COFEN 736/2024, que revogou a 358/2009, define o Processo de Enfermagem como método que orienta o pensamento crítico e o julgamento clínico do enfermeiro e direciona a equipe para o cuidado à pessoa, à família, à coletividade e a grupos especiais, em cinco etapas inter-relacionadas, interdependentes, recorrentes e cíclicas: Avaliação, Diagnóstico, Planejamento, Implementação e Evolução. A documentação é feita formalmente no prontuário, físico ou eletrônico, por quem participa de cada etapa. A quarta é falsa porque diagnóstico e prescrição são privativos do enfermeiro (art. 6º): técnicos e auxiliares registram o que observam e executam, não todas as etapas.",
+  "porAlt": [
+   "Errada: a primeira e a terceira reproduzem a resolução, e a quarta é falsa, ao contrário do que a alternativa marca.",
+   "Errada: a documentação formal no prontuário e as cinco etapas descritas são verdadeiras.",
+   "Correta: as três primeiras seguem a Res. 736/2024, e a quarta é falsa porque diagnóstico e prescrição são privativos do enfermeiro.",
+   "Errada: a primeira é verdadeira, pois reproduz a definição de Processo de Enfermagem dada pela resolução.",
+   "Errada: técnicos e auxiliares não registram todas as etapas, já que não formulam diagnóstico nem prescrevem."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Enfermeiro",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Indicadores são medidas quantitativas utilizadas para monitorar e avaliar atividades. Na saúde, destacam-se os indicadores de risco, relacionados a incidentes e eventos adversos. Cada instituição adapta sua lista de indicadores às próprias necessidades, que podem ser classificados em assistenciais e gerenciais (CQH, 2012).\nSobre a classificação de indicadores de risco relacionados a incidentes ou eventos adversos, analise os itens a seguir.\nI. Incidência de instrumentais cirúrgicos com sujidade.\nII. Incidência de flebite.\nIII. Taxa de acidente de trabalho de profissionais de enfermagem.\nSão indicadores de risco gerencial",
+  "alts": [
+   "I, apenas.",
+   "I e III, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Manual de Indicadores de Enfermagem NAGEH, Programa CQH, 2012",
+  "coment": "O manual do Núcleo de Apoio à Gestão Hospitalar (NAGEH) do Programa CQH, de 2012, separa os indicadores de enfermagem em assistenciais, ligados ao cuidado direto do paciente, e gerenciais, ligados aos processos de apoio e à gestão de pessoas. A incidência de flebite mede dano ao paciente na terapia intravenosa, por isso é assistencial. A incidência de instrumentais cirúrgicos com sujidade avalia o processamento na CME, e a taxa de acidente de trabalho dos profissionais de enfermagem avalia a gestão de pessoas e a segurança do trabalhador: ambos são gerenciais.",
+  "porAlt": [
+   "Errada: omite a taxa de acidente de trabalho, que também é indicador gerencial por medir a segurança da equipe.",
+   "Correta: sujidade de instrumentais e acidente de trabalho da enfermagem são indicadores gerenciais; a flebite é assistencial.",
+   "Errada: a flebite é indicador assistencial, pois mede dano ao paciente no cuidado direto.",
+   "Errada: deixa de fora a sujidade de instrumentais, indicador gerencial do processamento na CME.",
+   "Errada: inclui a flebite, que o manual do CQH classifica como indicador assistencial."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Enfermeiro",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o art. 82, § 4º, do Código de Ética dos Profissionais de Enfermagem, o segredo profissional referente ao menor de idade deverá ser mantido, desde que o menor tenha capacidade de discernimento, exceto nos casos em que",
+  "alts": [
+   "a revelação seja solicitada por pais ou responsáveis.",
+   "o segredo possa acarretar danos ou riscos ao menor.",
+   "possuir consentimento escrito do representante legal do menor.",
+   "o fato seja de conhecimento público.",
+   "não possuir consentimento do menor."
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 564/2017, art. 52, §§ 1º, 2º e 4º (antigo art. 82, § 4º, da Resolução COFEN 311/2007)",
+  "coment": "O texto citado pela banca é do Código de Ética aprovado pela Res. COFEN 311/2007, art. 82, § 4º: o segredo do menor com capacidade de discernimento é mantido mesmo diante de pedido dos pais, exceto quando puder acarretar danos ou riscos a ele. Esse código foi revogado pela Res. COFEN 564/2017, vigente, que não repete o parágrafo, mas mantém a lógica: o sigilo deve ser revelado em ameaça à vida e à dignidade (art. 52, § 2º) e é obrigatória a comunicação de violência contra criança e adolescente (art. 52, § 4º), somada à comunicação ao Conselho Tutelar do ECA, art. 13.",
+  "porAlt": [
+   "Errada: o pedido dos pais não quebra o sigilo do menor com discernimento; o texto diz que o segredo se mantém mesmo nesse caso.",
+   "Correta: a exceção é o risco ou dano ao próprio menor, lógica mantida no art. 52, §§ 2º e 4º, da Res. 564/2017.",
+   "Errada: o consentimento do representante não é a exceção prevista; o dispositivo protege o segredo do menor capaz de discernir.",
+   "Errada: o fato ser público não libera o sigilo; o dever permanece (Res. 564/2017, art. 52, § 1º).",
+   "Errada: a ausência de consentimento do menor é justamente a situação em que o segredo deve ser guardado."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Enfermeiro",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A análise de contas e a produção de Enfermagem envolvem o acompanhamento de procedimentos realizados, uso de materiais e medicamentos, além do cálculo de taxas que refletem a qualidade e a eficiência da assistência prestada.\nNesse contexto, assinale a afirmativa incorreta.",
+  "alts": [
+   "A conferência de materiais e medicamentos registrados em prontuário e nas contas hospitalares permite identificar inconsistências e evitar glosas.",
+   "A taxa de produtividade da Enfermagem pode ser calculada pela relação entre horas de assistência prestadas e número de pacientes atendidos.",
+   "Indicadores como taxa de ocupação, taxa de infecção e taxa de absenteísmo são utilizados para mensurar aspectos da produção e qualidade da assistência de Enfermagem.",
+   "A taxa de infecção relacionada à assistência à saúde (IRAS) representa um indicador de resultado diretamente ligado à qualidade do cuidado.",
+   "A produção de Enfermagem deve ser analisada apenas sob a perspectiva quantitativa, desconsiderando aspectos qualitativos do cuidado prestado."
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Manual de Indicadores de Enfermagem NAGEH, Programa CQH, 2012",
+  "coment": "A pergunta pede a incorreta. A produção de enfermagem é avaliada pela quantidade (procedimentos, horas de assistência, pacientes atendidos) e também pela qualidade do cuidado, medida por indicadores de resultado como infecção, quedas e lesão por pressão. Desconsiderar o aspecto qualitativo contraria o próprio conceito de avaliação da assistência, que no modelo de Donabedian integra estrutura, processo e resultado. As demais são corretas: conferir materiais e registros evita glosas, a produtividade relaciona horas e pacientes, e taxa de infecção, ocupação e absenteísmo compõem os painéis de gestão do CQH.",
+  "porAlt": [
+   "Errada como resposta, pois é verdadeira: conferir prontuário e conta identifica inconsistências e previne glosas.",
+   "Errada como resposta, pois é verdadeira: horas de assistência por paciente atendido é forma usual de medir produtividade.",
+   "Errada como resposta, pois é verdadeira: ocupação, infecção e absenteísmo medem produção e qualidade da assistência.",
+   "Errada como resposta, pois é verdadeira: a taxa de IRAS é indicador de resultado ligado à qualidade do cuidado.",
+   "Correta: é a incorreta, porque a produção de enfermagem se avalia também pela qualidade do cuidado, e não só pela quantidade."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Enfermeiro",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com a intenção de atuar sobre a obesidade infantil, a Secretaria de Saúde do Município Beta estabeleceu um conjunto de ações e indicadores, dentre eles: taxa de crianças menores de 6 meses, em aleitamento exclusivo; prevalência de obesidade infantojuvenil em crianças menores de 2 anos, nos últimos 10 anos; e taxa de adesão ao protocolo de aconselhamento sobre aleitamento exclusivo, pela equipe de Enfermagem.\nOs indicadores de qualidade da assistência de Enfermagem avaliam a eficiência e a segurança do cuidado, sendo classificados em indicadores de impacto, de processo e de resultado.\nOs exemplos citados tratam-se, respectivamente, de indicadores de",
+  "alts": [
+   "resultado, impacto e processo.",
+   "impacto, resultado e processo.",
+   "processo, resultado e impacto.",
+   "impacto, processo e resultado.",
+   "resultado, processo e impacto."
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Donabedian A. The quality of care: how can it be assessed? JAMA, 1988",
+  "coment": "Indicador de processo mede o que a equipe faz: a adesão da enfermagem ao protocolo de aconselhamento sobre aleitamento é processo. Indicador de resultado mede o efeito próximo da ação sobre quem é atendido: a proporção de menores de 6 meses em aleitamento materno exclusivo decorre do aconselhamento. Indicador de impacto mede o efeito de longo prazo na saúde da população, que depende de vários fatores: a prevalência de obesidade infantojuvenil ao longo de 10 anos é impacto. A sequência é resultado, impacto e processo. A tríade estrutura, processo e resultado vem de Donabedian; o impacto estende o resultado no tempo e na população.",
+  "porAlt": [
+   "Correta: aleitamento exclusivo é resultado, obesidade em dez anos é impacto e adesão ao protocolo é processo.",
+   "Errada: troca resultado e impacto; o aleitamento exclusivo é efeito próximo da ação, e a obesidade em dez anos, efeito de longo prazo.",
+   "Errada: a adesão da equipe ao protocolo é que é processo, e não a taxa de aleitamento exclusivo.",
+   "Errada: o aleitamento exclusivo não é impacto, e a obesidade em dez anos não é processo.",
+   "Errada: a prevalência de obesidade em dez anos mede impacto, e a adesão ao protocolo mede processo."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Enfermeiro",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No contexto da organização do Sistema Único de Saúde (SUS), o Ministério da Saúde promoveu a transferência da gestão de dois hospitais federais para a administração de um Município.\nAssinale a opção que indica o princípio a que essa medida está diretamente relacionada.",
+  "alts": [
+   "Equidade.",
+   "Integralidade.",
+   "Universalidade.",
+   "Hierarquização.",
+   "Descentralização."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º, IX; Constituição Federal de 1988, art. 198, I",
+  "coment": "A descentralização político-administrativa, com direção única em cada esfera de governo, ênfase na descentralização dos serviços para os municípios e regionalização e hierarquização da rede, é princípio do SUS (Lei 8.080/1990, art. 7º, IX, alíneas a e b; CF, art. 198, I). Transferir a gestão de hospitais federais para um município desloca a responsabilidade pela execução dos serviços para a esfera mais próxima do usuário, que é a municipalização prevista nessa diretriz. Equidade, integralidade e universalidade dizem respeito ao acesso e ao cuidado, e a hierarquização, à organização da rede por níveis.",
+  "porAlt": [
+   "Errada: equidade é tratar desigualmente os desiguais para reduzir iniquidades, e não transferir gestão entre esferas.",
+   "Errada: integralidade é o conjunto articulado de ações preventivas e curativas, individuais e coletivas, em todos os níveis.",
+   "Errada: universalidade é o acesso aos serviços em todos os níveis de assistência para toda a população.",
+   "Errada: hierarquização organiza a rede por níveis de complexidade, sem tratar de qual esfera gere o serviço.",
+   "Correta: passar hospitais federais à gestão municipal é descentralização, com ênfase na municipalização (Lei 8.080/1990, art. 7º, IX)."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 26,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "No Sistema Único de Saúde (SUS), a Atenção Secundária corresponde ao nível intermediário de cuidado, destinado a usuários que necessitam de intervenções clínicas mais específicas e direcionadas.\nNesse sentido, assinale a opção que indica um serviço compatível com esse nível de atenção.",
+  "alts": [
+   "Transplante.",
+   "Endoscopia.",
+   "Radioterapia.",
+   "Hemodiálise.",
+   "Hemodinâmica."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "CONASS, Assistência de Média e Alta Complexidade no SUS (Coleção Para Entender a Gestão do SUS, 2011)",
+  "coment": "A atenção secundária, ou média complexidade, reúne consultas especializadas e procedimentos de apoio diagnóstico e terapêutico que exigem profissionais especializados e equipamentos de densidade tecnológica intermediária, como a endoscopia digestiva. Transplante, radioterapia, terapia renal substitutiva (hemodiálise) e procedimentos de hemodinâmica (cardiologia intervencionista) integram a alta complexidade, de alto custo e alta tecnologia, organizada em redes de referência estaduais e regionais (CONASS, 2011).",
+  "porAlt": [
+   "Errada: transplante de órgãos é procedimento de alta complexidade, organizado em sistema nacional próprio.",
+   "Correta: a endoscopia é exame especializado de média complexidade, típico da atenção secundária.",
+   "Errada: radioterapia pertence à alta complexidade, dentro da rede de atenção oncológica.",
+   "Errada: hemodiálise é terapia renal substitutiva, procedimento de alta complexidade.",
+   "Errada: hemodinâmica é cardiologia intervencionista, de alta complexidade e alto custo."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 27,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Um determinado Município elaborou um documento, com vigência de quatro anos, para a organização das ações e dos serviços de saúde. Ele definiu as diretrizes, os objetivos e as metas a serem atingidas e as articulações com o Plano Plurianual (PPA).\nO documento descrito corresponde",
+  "alts": [
+   "ao Plano de Saúde.",
+   "ao Relatório Anual de Gestão.",
+   "à Programação Anual de Saúde.",
+   "à Pactuação Integrada de Saúde.",
+   "ao Plano Diretor de Regionalização."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.135/2013, consolidada na Portaria de Consolidação GM/MS 1/2017; Lei Complementar 141/2012",
+  "coment": "O Plano de Saúde é o instrumento central de planejamento de cada esfera: define, para quatro anos, diretrizes, objetivos, metas e indicadores, a partir da análise da situação de saúde, e deve ser compatível com o Plano Plurianual (PPA). A Programação Anual de Saúde operacionaliza o plano a cada ano, e o Relatório Anual de Gestão presta contas dos resultados. Os três instrumentos estão na Portaria GM/MS 2.135/2013, hoje na Portaria de Consolidação 1/2017, e na LC 141/2012. A PPI e o PDR são instrumentos de regionalização.",
+  "porAlt": [
+   "Correta: o Plano de Saúde é quadrienal, define diretrizes, objetivos e metas e se articula ao PPA.",
+   "Errada: o Relatório Anual de Gestão apresenta os resultados alcançados no ano e orienta ajustes no plano.",
+   "Errada: a Programação Anual de Saúde detalha as ações de cada ano para cumprir as metas do plano.",
+   "Errada: a pactuação integrada (PPI) organiza as referências entre municípios, e não o planejamento quadrienal.",
+   "Errada: o Plano Diretor de Regionalização define as regiões de saúde do estado, não as metas municipais de quatro anos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 28,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Com base nas disposições sobre o acompanhamento à mulher nos serviços de saúde, previstas na Lei nº 8.080/1990, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Toda mulher tem o direito de ser acompanhada por pessoa maior de idade durante a realização de consultas, exames e procedimentos realizados em unidades de saúde públicas ou privadas.\n( ) Em caso de atendimento com sedação, a eventual renúncia da paciente ao direito de acompanhante deve ser feita por escrito, após o esclarecimento dos seus direitos, com, no mínimo, 24 horas de antecedência.\n( ) No caso de atendimento realizado em centro cirúrgico ou unidade de terapia intensiva, somente será admitido acompanhante que seja profissional de saúde.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – V – F.",
+   "F – F – F.",
+   "V – F – V.",
+   "F – V – F.",
+   "V – V – V."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 19-J, com redação da Lei 14.737/2023",
+  "coment": "A Lei 14.737/2023 reescreveu o art. 19-J da Lei 8.080/1990: toda mulher tem direito a acompanhante maior de idade em consultas, exames e procedimentos em unidades públicas ou privadas, sem necessidade de aviso prévio. Em atendimento com sedação, a renúncia ao acompanhante só vale por escrito, após esclarecimento dos direitos, com no mínimo 24 horas de antecedência, e fica arquivada no prontuário. A terceira é falsa porque generaliza: a admissão apenas de acompanhante profissional de saúde no centro cirúrgico ou na UTI só se aplica quando houver restrições ligadas à segurança ou à saúde dos pacientes, justificadas pelo corpo clínico.",
+  "porAlt": [
+   "Correta: as duas primeiras reproduzem o art. 19-J; a terceira omite a condição de restrição justificada pelo corpo clínico.",
+   "Errada: as duas primeiras afirmativas reproduzem o art. 19-J da Lei 8.080/1990 e são verdadeiras.",
+   "Errada: a renúncia escrita com 24 horas de antecedência existe, e a restrição em centro cirúrgico e UTI não é automática.",
+   "Errada: o direito a acompanhante maior de idade em consultas, exames e procedimentos é verdadeiro.",
+   "Errada: a terceira omite a condição legal; só há restrição a acompanhante profissional de saúde quando justificada pelo corpo clínico."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 29,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Acerca dos Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde, assinale a afirmativa correta.",
+  "alts": [
+   "Em situações de transferências ou remoção para realização de exames externos, deve haver pactuação formal prévia entre os estabelecimentos envolvidos.",
+   "O Serviço de Saúde deve promover a capacitação de seus profissionais antes do início das atividades e de forma permanente, de acordo com as atividades desenvolvidas.",
+   "O Cadastro Nacional de Estabelecimentos de Saúde (CNES) é obrigatório para os serviços públicos de saúde e facultativo para os serviços privados.",
+   "Em serviços de saúde com mais de 15 trabalhadores, é obrigatória a instituição de Comissão Interna de Prevenção de Acidentes (CIPA).",
+   "Os protocolos assistenciais devem ser instituídos como instrumentos orientadores de boas práticas, devendo sua aplicação estar condicionada à avaliação especifica."
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 63/2011 (Boas Práticas de Funcionamento para os Serviços de Saúde)",
+  "coment": "A RDC ANVISA 63/2011 fixa os requisitos de boas práticas de funcionamento dos serviços de saúde, fundamentados na qualificação, na humanização da atenção e gestão e na redução e controle de riscos. Ela determina que o serviço promova a capacitação de seus profissionais antes do início das atividades e de forma permanente, conforme as atividades desenvolvidas. Na remoção do paciente ou em exames externos, exige mecanismos que garantam a continuidade da atenção e relatório que acompanhe o paciente, e não pactuação formal prévia. O CNES é obrigatório para todos os estabelecimentos, públicos e privados, e a CIPA é matéria da NR-5, não da RDC.",
+  "porAlt": [
+   "Errada: a norma exige garantir a continuidade da atenção e enviar relatório com o paciente removido, sem exigir pactuação formal prévia.",
+   "Correta: a RDC 63/2011 manda capacitar os profissionais antes do início das atividades e de forma permanente, conforme o que desenvolvem.",
+   "Errada: o cadastro no CNES é obrigatório para todos os estabelecimentos de saúde, públicos e privados.",
+   "Errada: a CIPA é regida pela NR-5, cujo dimensionamento começa em 20 empregados, e não pela RDC de boas práticas.",
+   "Errada: normas, rotinas e protocolos devem estar escritos, atualizados e implantados como padrão, sem aplicação condicionada a avaliação específica."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 30,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Durante a assistência a um paciente adulto, internado na clínica médica de um hospital, o profissional de saúde cometeu um erro que ocasionou a incapacidade motora do paciente.\nDe acordo com as disposições do Ministério da Saúde, essa situação caracteriza a ocorrência de",
+  "alts": [
+   "Near miss.",
+   "Evento adverso.",
+   "Evento sentinela.",
+   "Quase incidente.",
+   "Incidente controlado."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 3º; Portaria MS 529/2013 (PNSP)",
+  "coment": "Pela classificação da OMS adotada pela Portaria MS 529/2013 e pela RDC ANVISA 36/2013, incidente é o evento ou circunstância que poderia ter resultado, ou resultou, em dano desnecessário ao paciente; evento adverso é o incidente que resulta em dano. Um erro que deixou o paciente com incapacidade motora atingiu o paciente e causou dano, logo é evento adverso. Near miss, ou quase incidente, é o que não chega ao paciente. Evento sentinela é termo da Joint Commission para ocorrência inesperada com morte ou dano grave; não é a categoria das definições do Ministério da Saúde que a questão pede.",
+  "porAlt": [
+   "Errada: near miss é o incidente que não atinge o paciente, interceptado antes de chegar a ele.",
+   "Correta: o erro atingiu o paciente e causou dano, a incapacidade motora, o que define evento adverso.",
+   "Errada: evento sentinela é termo da Joint Commission, e não a categoria da classificação adotada pelo Ministério da Saúde.",
+   "Errada: quase incidente é sinônimo de near miss e pressupõe que o paciente não foi atingido.",
+   "Errada: incidente controlado não é categoria da classificação adotada pela Portaria 529/2013."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 31,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Uma equipe de gestores de uma empresa pública de saúde criou um grupo de trabalho para discutir a implementação efetiva dos princípios e diretrizes da Política Nacional de Humanização (PNH).\nUm dos pontos discutidos foi a necessidade de integração entre gestores, trabalhadores e usuários para a tomada de decisão.\nAssinale a opção que indica o pilar da PNH relacionado a esse ponto.",
+  "alts": [
+   "Ambiência.",
+   "Transversalidade.",
+   "Clínica ampliada.",
+   "Gestão compartilhada.",
+   "Valorização do trabalhador."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Política Nacional de Humanização (PNH), 2013",
+  "coment": "A PNH (HumanizaSUS) tem três princípios, transversalidade, indissociabilidade entre atenção e gestão e protagonismo, corresponsabilidade e autonomia dos sujeitos, e diretrizes como acolhimento, gestão participativa e cogestão, ambiência, clínica ampliada e compartilhada, valorização do trabalhador e defesa dos direitos dos usuários. A integração de gestores, trabalhadores e usuários na tomada de decisão é a gestão participativa, ou cogestão, que a questão chama de gestão compartilhada: inclui novos sujeitos na análise e na decisão, por meio de colegiados, conselhos e contratos internos de gestão.",
+  "porAlt": [
+   "Errada: ambiência é o espaço físico, social e de relações, pensado para acolher com conforto e resolutividade.",
+   "Errada: transversalidade é princípio que amplia a comunicação entre saberes e serviços, e não a decisão conjunta em si.",
+   "Errada: clínica ampliada integra abordagens para tratar a pessoa e não só a doença, com projeto terapêutico singular.",
+   "Correta: a gestão compartilhada, ou cogestão, inclui gestores, trabalhadores e usuários na análise e na tomada de decisão.",
+   "Errada: valorização do trabalhador dá visibilidade à experiência de quem cuida e o inclui na gestão, sem abranger os usuários."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 32,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Com base na Lei Orgânica da Saúde, assinale a opção que corresponde a uma competência da direção municipal do Sistema Único de Saúde.",
+  "alts": [
+   "Coordenar os serviços de vigilância epidemiológica.",
+   "Definir e coordenar os sistemas de vigilância sanitária.",
+   "Gerir os laboratórios públicos de saúde e os hemocentros.",
+   "Formular e implementar as políticas de saneamento básico.",
+   "Formular, avaliar e apoiar as políticas de alimentação e de nutrição."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, arts. 16, 17 e 18, VIII",
+  "coment": "A Lei 8.080/1990 distribui as competências por esfera. À direção municipal cabe, entre outras, executar serviços de vigilância epidemiológica e sanitária, de alimentação e nutrição, de saneamento básico e de saúde do trabalhador (art. 18, IV) e gerir laboratórios públicos de saúde e hemocentros (art. 18, VIII). Formular, avaliar e apoiar políticas de alimentação e nutrição, participar da formulação das políticas de saneamento e definir e coordenar os sistemas de vigilância sanitária e epidemiológica são da direção nacional (art. 16), e coordenar a vigilância epidemiológica cabe à direção estadual (art. 17, IV).",
+  "porAlt": [
+   "Errada: coordenar a vigilância epidemiológica é competência estadual (art. 17, IV); ao município cabe executar.",
+   "Errada: definir e coordenar o sistema de vigilância sanitária é competência da direção nacional (art. 16, III).",
+   "Correta: gerir laboratórios públicos de saúde e hemocentros é competência da direção municipal (art. 18, VIII).",
+   "Errada: participar da formulação e da implementação da política de saneamento é atribuição da direção nacional (art. 16, II).",
+   "Errada: formular, avaliar e apoiar as políticas de alimentação e nutrição cabe à direção nacional (art. 16, I)."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 33,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Com base nas disposições legais acerca dos direitos e deveres dos usuários do Sistema Único de Saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) O usuário tem direito a receber informações claras, completas e compreensíveis sobre seu estado de saúde, incluindo diagnóstico, prognóstico e alternativas de tratamento disponíveis.\n( ) É dever do usuário colaborar com as equipes de saúde, fornecendo informações verdadeiras sobre seu estado de saúde e histórico, contribuindo para a qualidade do cuidado prestado.\n( ) Deve ser garantido ao usuário o sigilo de suas informações de saúde, podendo o serviço compartilhá-las com familiares ou terceiros somente em caso de vínculo afetivo ou interesse no cuidado.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – V.",
+   "V – F – V.",
+   "F – F – V.",
+   "V – V – F.",
+   "F – V – F."
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 1.820/2009 (Carta dos Direitos dos Usuários da Saúde), consolidada na Portaria de Consolidação GM/MS 1/2017",
+  "coment": "A Carta dos Direitos dos Usuários da Saúde (Portaria 1.820/2009, hoje na Portaria de Consolidação 1/2017) garante informação clara, objetiva, respeitosa e compreensível sobre o estado de saúde, incluindo diagnóstico, prognóstico, riscos e alternativas de tratamento. Também lista responsabilidades do usuário, como prestar informações verdadeiras sobre seu estado de saúde e histórico e colaborar com o tratamento. A terceira é falsa: a confidencialidade das informações só pode ser quebrada com autorização da pessoa ou nos casos previstos em lei, e não por mero vínculo afetivo ou interesse de familiares e terceiros.",
+  "porAlt": [
+   "Errada: a primeira é verdadeira, pois a informação clara sobre diagnóstico, prognóstico e alternativas é direito do usuário.",
+   "Errada: colaborar e prestar informações verdadeiras é responsabilidade do usuário, e o sigilo não cede a vínculo afetivo.",
+   "Errada: marca verdadeira só a terceira, que é justamente a falsa, já que o sigilo exige autorização ou previsão legal.",
+   "Correta: informação e colaboração são verdadeiras; compartilhar dados por vínculo afetivo ou interesse viola o sigilo.",
+   "Errada: a primeira afirmativa é verdadeira, porque reproduz o direito à informação da Carta dos Direitos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 34,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Com base nas diretrizes para instituição, reformulação, reestruturação e funcionamento dos Conselhos de Saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) O Conselho de Saúde é uma instância colegiada, deliberativa e permanente do Sistema Único de Saúde (SUS) em cada esfera de Governo.\n( ) A representação dos usuários nos Conselhos de Saúde deve ser paritária em relação ao conjunto dos demais segmentos representados.\n( ) Os Conselhos de Saúde devem ser compostos por 50% de entidades e movimentos representativos de usuários e 50% de entidades representativas dos trabalhadores da área de saúde.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – V.",
+   "F – F – F.",
+   "V – V – F.",
+   "F – V – F.",
+   "V – V – V."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CNS 453/2012; Lei 8.142/1990, art. 1º, §§ 2º e 4º",
+  "coment": "A Lei 8.142/1990 define o Conselho de Saúde como órgão colegiado, de caráter permanente e deliberativo, em cada esfera de governo (art. 1º, § 2º), e determina que a representação dos usuários seja paritária em relação ao conjunto dos demais segmentos (§ 4º). A Resolução CNS 453/2012 detalha a composição: 50% de entidades e movimentos de usuários, 25% de entidades de trabalhadores da saúde e 25% de representação de governo e prestadores de serviços. A terceira afirmativa é falsa porque entrega aos trabalhadores toda a metade que não é dos usuários.",
+  "porAlt": [
+   "Errada: a paridade dos usuários é verdadeira, e a divisão de 50% para usuários e 50% para trabalhadores é falsa.",
+   "Errada: as duas primeiras reproduzem a Lei 8.142/1990 e a Resolução CNS 453/2012.",
+   "Correta: conselho colegiado, deliberativo e permanente e usuários paritários são verdadeiros; a outra metade se divide entre trabalhadores e governo e prestadores.",
+   "Errada: o conselho é instância colegiada, deliberativa e permanente em cada esfera, e a primeira é verdadeira.",
+   "Errada: a terceira é falsa, pois os trabalhadores têm 25% das vagas e governo e prestadores, os outros 25%."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 35,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Durante a assistência a um paciente com suspeita de infecção respiratória transmitida por gotículas, a equipe precisou adotar precauções específicas para reduzir o risco de transmissão.\nAcerca dessas precauções, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) As precauções para gotículas são indicadas para evitar a transmissão de partículas menores ou iguais a 5, emitidas por meio da tosse, espirro ou fala.\n( ) Quando não houver disponibilidade de quarto privativo, o paciente pode ser internado com outros infectados pelo mesmo microrganismo, com distância mínima de um metro entre os leitos.\n( ) O transporte do paciente deve ser evitado, mas, quando necessário, ele deverá usar máscara cirúrgica durante toda sua permanência fora do quarto.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – F.",
+   "V – V – V.",
+   "F – F – F.",
+   "V – F – V.",
+   "F – V – V."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "CDC/HICPAC, Guideline for Isolation Precautions, 2007",
+  "coment": "As precauções para gotículas se aplicam a agentes transmitidos por partículas maiores que 5 µm, eliminadas pela tosse, espirro ou fala e que alcançam curta distância, como influenza, doença meningocócica e coqueluche; partículas de 5 µm ou menos caracterizam aerossóis, por isso a primeira é falsa. Recomenda-se quarto privativo ou, na falta, coorte com pacientes infectados pelo mesmo microrganismo, com distância mínima de 1 metro entre os leitos. O transporte deve ser evitado e, quando necessário, o paciente usa máscara cirúrgica durante toda a permanência fora do quarto (CDC/HICPAC, 2007, reproduzido nos manuais da ANVISA).",
+  "porAlt": [
+   "Errada: a terceira é verdadeira, pois o paciente transportado deve usar máscara cirúrgica fora do quarto.",
+   "Errada: partículas de até 5 µm são aerossóis; as gotículas são maiores que 5 µm.",
+   "Errada: a coorte com distância de 1 metro e a máscara no transporte são recomendações corretas.",
+   "Errada: inverte a primeira e a segunda; a coorte com 1 metro entre leitos é aceita na falta de quarto privativo.",
+   "Correta: a primeira descreve aerossóis e é falsa; coorte com 1 metro e máscara cirúrgica no transporte são verdadeiras."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a ausculta pulmonar de um paciente com queixa de dispneia, o Enfermeiro identificou sons descontínuos, finos e de curta duração, predominantes no final da inspiração, não modificados pela tosse e mais evidentes nas bases pulmonares.\nEsses ruídos respiratórios são típicos de",
+  "alts": [
+   "sibilos.",
+   "roncos.",
+   "atritos pleurais.",
+   "murmúrios vesiculares.",
+   "estertores creptantes."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto CC. Semiologia Médica, 8ª ed., 2019",
+  "coment": "Estertores finos, ou crepitantes, são ruídos descontínuos, de alta frequência e curta duração, que surgem no fim da inspiração pela abertura de pequenas vias aéreas e alvéolos colapsados por líquido ou exsudato. Não se modificam com a tosse e predominam nas bases, como na congestão pulmonar, na pneumonia e na fibrose. Roncos e sibilos são contínuos e dependem do estreitamento de brônquios; o atrito pleural é ruído de fricção nos dois tempos, e o murmúrio vesicular é o som respiratório normal. A banca grafou 'creptantes'; a forma usual é crepitantes.",
+  "porAlt": [
+   "Errada: sibilos são contínuos, agudos, mais expiratórios, por estreitamento de vias aéreas, como na asma.",
+   "Errada: roncos são contínuos, graves, por secreção em brônquios maiores, e costumam mudar com a tosse.",
+   "Errada: o atrito pleural é ruído de fricção nos dois tempos respiratórios, localizado e sem relação com as bases.",
+   "Errada: murmúrio vesicular é o som normal da respiração, e não um ruído adventício.",
+   "Correta: ruídos descontínuos, finos, no fim da inspiração, nas bases e sem mudar com a tosse são estertores crepitantes."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente de 50 anos, sem comorbidades conhecidas, apresentou níveis pressóricos compatíveis com Hipertensão Arterial Sistêmica, estágio 1.\nDe acordo com as novas diretrizes da Sociedade Brasileira de Hipertensão, assinale a opção que apresenta os valores que correspondem a essa classificação.",
+  "alts": [
+   "Pressão arterial sistólica entre 90 e 110 mmHg e/ou diastólica entre 60 e 70 mmHg.",
+   "Pressão arterial sistólica entre 110 e 129 mmHg e/ou diastólica entre 70 e 89 mmHg.",
+   "Pressão arterial sistólica entre 120 e 139 mmHg e/ou diastólica entre 90 e 99 mmHg.",
+   "Pressão arterial sistólica entre 140 e 159 mmHg e/ou diastólica entre 90 e 99 mmHg.",
+   "Pressão arterial sistólica entre 150 e 169 mmHg e/ou diastólica entre 100 e 109 mmHg."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH e SBN)",
+  "coment": "Pela Diretriz Brasileira de Hipertensão Arterial de 2025, na medida de consultório em maiores de 18 anos, a PA normal é abaixo de 120/80 mmHg; pré-hipertensão vai de 120 a 139 e/ou 80 a 89; hipertensão estágio 1, de 140 a 159 e/ou 90 a 99; estágio 2, de 160 a 179 e/ou 100 a 109; e estágio 3, 180 ou mais e/ou 110 ou mais. Em 2025 saiu a categoria 'PA ótima', e a faixa de 120 a 129 por 80 a 84, antes chamada normal, passou a pré-hipertensão. O estágio 1 não mudou.",
+  "porAlt": [
+   "Errada: valores entre 90 e 110 por 60 e 70 mmHg estão na faixa de PA normal, abaixo de 120/80.",
+   "Errada: a faixa mistura PA normal e pré-hipertensão e não define hipertensão.",
+   "Errada: sistólica de 120 a 139 é pré-hipertensão; a faixa sistólica do estágio 1 começa em 140 mmHg.",
+   "Correta: estágio 1 é sistólica de 140 a 159 e/ou diastólica de 90 a 99 mmHg (Diretriz 2025).",
+   "Errada: os limites não correspondem a nenhum estágio; 160 a 179 por 100 a 109 é o estágio 2."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Após um acidente vascular cerebral isquêmico, um paciente apresentou fala não fluente, com esforço para articular palavras, compreensão preservada e dificuldade na repetição de frases.\nConsiderando os tipos de afasia decorrentes de lesões neurológicas, o quadro apresentado é característico da",
+  "alts": [
+   "Afasia Global.",
+   "Afasia de Broca.",
+   "Afasia Amnésica.",
+   "Afasia de Wernicke.",
+   "Afasia de Condução."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Diretrizes de Atenção à Reabilitação da Pessoa com Acidente Vascular Cerebral, 2013",
+  "coment": "A afasia de Broca, ou de expressão, decorre de lesão da porção posterior do giro frontal inferior do hemisfério dominante, em geral no território da artéria cerebral média. A fala é não fluente, lenta, com esforço articulatório e frases curtas; a compreensão fica relativamente preservada e a repetição também é prejudicada, e o paciente costuma ter consciência do déficit. Na afasia de Wernicke a fala é fluente e sem sentido, com compreensão ruim; na de condução, fala e compreensão são boas, mas a repetição falha; na global, todas as funções da linguagem estão comprometidas.",
+  "porAlt": [
+   "Errada: na afasia global estão comprometidas a expressão e a compreensão, que aqui está preservada.",
+   "Correta: fala não fluente e com esforço, compreensão preservada e repetição prejudicada definem a afasia de Broca.",
+   "Errada: a afasia amnésica, ou anômica, tem fala fluente e dificuldade principal de nomear objetos.",
+   "Errada: na afasia de Wernicke a fala é fluente, com parafasias, e a compreensão é que está comprometida.",
+   "Errada: na afasia de condução a fala é fluente e a compreensão preservada, com falha desproporcional na repetição."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a avaliação de um paciente com queixa de dor abdominal no quadrante inferior direito, o Enfermeiro realizou a palpação profunda no quadrante inferior esquerdo, observando dor referida no lado oposto.\nEsse achado semiológico é corretamente identificado como",
+  "alts": [
+   "Sinal de Cullen.",
+   "Sinal de Rovsing.",
+   "Sinal de Murphy.",
+   "Sinal de Giordano.",
+   "Sinal de Blumberg."
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto CC. Semiologia Médica, 8ª ed., 2019",
+  "coment": "O sinal de Rovsing é a dor na fossa ilíaca direita provocada pela palpação profunda ou compressão da fossa ilíaca esquerda, que desloca gases do cólon em direção ao ceco e distende o apêndice inflamado; sugere apendicite aguda. Blumberg é a dor à descompressão brusca no ponto de McBurney, sinal de irritação peritoneal. Murphy é a interrupção da inspiração à palpação do ponto cístico, na colecistite. Giordano é a dor à punho-percussão lombar, na pielonefrite e na litíase renal. Cullen é a equimose periumbilical da pancreatite necro-hemorrágica ou da hemorragia retroperitoneal.",
+  "porAlt": [
+   "Errada: Cullen é a equimose periumbilical, achado de inspeção na pancreatite grave ou na hemorragia retroperitoneal.",
+   "Correta: dor no quadrante inferior direito à palpação do quadrante inferior esquerdo é o sinal de Rovsing, sugestivo de apendicite.",
+   "Errada: Murphy é a parada da inspiração à palpação do ponto cístico, típica da colecistite aguda.",
+   "Errada: Giordano é a dor à punho-percussão da região lombar, sugestiva de pielonefrite ou cálculo renal.",
+   "Errada: Blumberg é a dor à descompressão brusca no ponto de McBurney, sinal de irritação peritoneal."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a avaliação de um paciente, ao verificar a frequência cardíaca na artéria radial, o Enfermeiro percebeu um padrão rítmico em que um batimento normal é seguido por um batimento mais fraco, repetindo-se de forma regular em pares.\nEsse achado é característico do",
+  "alts": [
+   "pulso filiforme.",
+   "pulso dicrótico.",
+   "pulso paradoxal.",
+   "pulso alternante.",
+   "pulso bigeminado."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Porto CC. Semiologia Médica, 8ª ed., 2019",
+  "coment": "No pulso bigeminado os batimentos chegam em pares: um batimento normal seguido de outro mais fraco e precoce, em geral uma extrassístole acoplada, e depois uma pausa, padrão que se repete de forma regular. No pulso alternante a amplitude alterna entre forte e fraca a cada batimento, com ritmo regular e sem agrupamento em pares com pausa; é sinal de disfunção ventricular grave. Pulso filiforme é fraco e rápido, como no choque; dicrótico tem dupla onda palpável em cada batimento; paradoxal é a queda acentuada da amplitude na inspiração, como no tamponamento. A descrição em pares aponta o bigeminado.",
+  "porAlt": [
+   "Errada: pulso filiforme é fino, fraco e geralmente rápido, como no choque, sem padrão em pares.",
+   "Errada: no pulso dicrótico cada batimento tem duas ondas palpáveis, sem alternância entre batimentos.",
+   "Errada: pulso paradoxal é a redução acentuada da amplitude durante a inspiração, como no tamponamento cardíaco.",
+   "Errada: no pulso alternante a amplitude alterna a cada batimento com ritmo regular, sem agrupamento em pares seguido de pausa.",
+   "Correta: batimento normal seguido de um mais fraco, agrupados em pares que se repetem, caracteriza o pulso bigeminado."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre os princípios fundamentais da Farmacologia básica, assinale a afirmativa correta.",
+  "alts": [
+   "A biodisponibilidade representa a fração do fármaco que alcança a circulação sistêmica em forma ativa.",
+   "A meia-vida do fármaco corresponde ao tempo necessário para início imediato do efeito terapêutico.",
+   "O agonista bloqueia receptores impedindo a ação de outros fármacos no mesmo sítio de ligação.",
+   "A tolerância ocorre quando doses menores produzem efeitos progressivamente mais intensos ao longo do tempo.",
+   "O sinergismo ocorre quando dois fármacos administrados em conjunto reduzem mutuamente seus efeitos terapêuticos."
+  ],
+  "gab": 0,
+  "tema": "farmaco",
+  "sub": "Vias de administração",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Katzung BG, Trevor AJ. Basic and Clinical Pharmacology, 15th ed., 2021",
+  "coment": "Biodisponibilidade é a fração da dose administrada que alcança a circulação sistêmica na forma inalterada, ativa; é de 100% na via intravenosa e menor na oral, pela absorção incompleta e pelo metabolismo de primeira passagem. Meia-vida é o tempo para a concentração plasmática cair à metade e orienta o intervalo entre doses e o tempo até o estado de equilíbrio. Agonista ativa o receptor; quem o bloqueia é o antagonista. Tolerância é a redução do efeito com o uso repetido, que exige doses maiores. Sinergismo é o efeito combinado maior que a soma dos efeitos isolados; a redução mútua é antagonismo.",
+  "porAlt": [
+   "Correta: biodisponibilidade é a fração da dose que chega à circulação sistêmica na forma ativa, 100% por via intravenosa.",
+   "Errada: meia-vida é o tempo para a concentração plasmática cair à metade, e não o tempo de início do efeito.",
+   "Errada: o agonista ativa o receptor; quem o bloqueia e impede a ação de outros fármacos é o antagonista.",
+   "Errada: na tolerância o efeito diminui com o uso repetido, e são necessárias doses maiores.",
+   "Errada: no sinergismo os efeitos se potencializam; a redução mútua dos efeitos é antagonismo."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante o atendimento a um paciente com suspeita de sepse, o Enfermeiro identificou sinais clínicos compatíveis com choque séptico.\nAssinale a opção que apresenta sinais e sintomas que caracterizam esse tipo de choque.",
+  "alts": [
+   "Hipotensão associada à redução do volume intravascular, com taquicardia compensatória e pele fria e pálida.",
+   "Hipotensão associada à falência da bomba cardíaca, com congestão pulmonar e aumento da pressão venosa central.",
+   "Hipotensão associada à obstrução mecânica do fluxo sanguíneo, com redução abrupta do débito cardíaco.",
+   "Hipotensão persistente associada à hipoperfusão tecidual e elevação dos níveis séricos de lactato.",
+   "Hipotensão associada à vasodilatação periférica por perda do tônus simpático, com bradicardia relativa."
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Sepsis-3 (Singer et al., JAMA, 2016); Surviving Sepsis Campaign 2026",
+  "coment": "Pelo Sepsis-3, mantido pela Surviving Sepsis Campaign de 2026, choque séptico é o subgrupo da sepse com anormalidades circulatórias e metabólicas graves: hipotensão persistente que exige vasopressor para manter a PAM em 65 mmHg ou mais e lactato sérico acima de 2 mmol/L apesar de reposição volêmica adequada. A hipotensão vem da vasodilatação e do extravasamento capilar, com hipoperfusão tecidual. As demais alternativas descrevem outros choques: hipovolêmico (perda de volume, pele fria e pálida), cardiogênico (falência de bomba, congestão e PVC alta), obstrutivo (barreira mecânica ao fluxo) e neurogênico (perda do tônus simpático, com bradicardia).",
+  "porAlt": [
+   "Errada: hipotensão por redução do volume intravascular, com pele fria e pálida, descreve o choque hipovolêmico.",
+   "Errada: falência de bomba com congestão pulmonar e PVC elevada é o choque cardiogênico.",
+   "Errada: obstrução mecânica do fluxo com queda abrupta do débito, como no tamponamento ou na embolia, é choque obstrutivo.",
+   "Correta: hipotensão persistente com hipoperfusão e lactato elevado caracteriza o choque séptico pelo Sepsis-3.",
+   "Errada: vasodilatação por perda do tônus simpático com bradicardia relativa é o choque neurogênico, do trauma raquimedular."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas diretrizes mais recentes para o atendimento à parada cardiorrespiratória (PCR) em adultos, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) A cadeia de sobrevivência foi unificada, sendo recomendada uma única cadeia para o ambiente extra-hospitalar e intra-hospitalar.\n( ) A RCP precoce de alta qualidade e a desfibrilação imediata são consideradas as intervenções mais importantes associadas a melhores desfechos na PCR em adultos.\n( ) Os ciclos de 30 compressões seguidas de duas ventilações antes da colocação de uma via aérea avançada são recomendados apenas para socorristas leigos, não devendo ser adotados por profissionais de saúde.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – V.",
+   "F – F – F.",
+   "V – V – F.",
+   "F – V – F.",
+   "V – V – V."
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes da American Heart Association 2025 para RCP e ACE",
+  "coment": "As diretrizes da AHA de 2025 passaram a usar uma cadeia de sobrevivência única para todas as idades e locais, em vez de cadeias separadas para o ambiente intra e extra-hospitalar. RCP precoce de alta qualidade e desfibrilação imediata nos ritmos chocáveis seguem como as intervenções mais associadas à sobrevida com bom desfecho neurológico. A terceira é falsa: antes da via aérea avançada, a relação de 30 compressões para 2 ventilações é a recomendada no adulto também para profissionais de saúde; depois da via aérea avançada, as compressões passam a ser contínuas, com ventilações assíncronas.",
+  "porAlt": [
+   "Errada: a RCP de alta qualidade com desfibrilação precoce é verdadeira, e a relação 30:2 vale também para profissionais.",
+   "Errada: a cadeia de sobrevivência única e a prioridade de RCP e desfibrilação são verdadeiras pela AHA 2025.",
+   "Correta: cadeia única e prioridade de RCP e desfibrilação são verdadeiras; a relação 30:2 não é exclusiva de leigos.",
+   "Errada: a AHA 2025 unificou a cadeia de sobrevivência para todas as idades e locais, e a primeira é verdadeira.",
+   "Errada: profissionais de saúde também usam 30 compressões para 2 ventilações antes da via aérea avançada."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O profissional de Enfermagem cometeu uma infração que foi punida pelo Conselho Regional de Enfermagem com suspensão.\nEssa punição proíbe o exercício profissional por um período de até",
+  "alts": [
+   "30 dias.",
+   "45 dias.",
+   "60 dias.",
+   "90 dias.",
+   "120 dias."
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Responsabilidade civil, penal e ética",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017, art. 108, § 4º; Lei 5.905/1973, art. 18",
+  "coment": "O Código de Ética (Res. COFEN 564/2017, art. 108) prevê cinco penas, na ordem do art. 18 da Lei 5.905/1973: advertência verbal, multa, censura, suspensão do exercício profissional e cassação. A suspensão consiste na proibição do exercício da enfermagem por até 90 dias, divulgada nas publicações oficiais e comunicada aos empregadores (§ 4º). As quatro primeiras são aplicadas pelo COREN; a cassação, perda do direito ao exercício por até 30 anos, é competência do COFEN.",
+  "porAlt": [
+   "Errada: 30 dias não é o teto da suspensão, que chega a 90 dias (art. 108, § 4º).",
+   "Errada: 45 dias não corresponde ao limite previsto no Código de Ética para a suspensão.",
+   "Errada: 60 dias não é o limite; a suspensão pode chegar a 90 dias.",
+   "Correta: a suspensão proíbe o exercício profissional por até 90 dias (Res. COFEN 564/2017, art. 108, § 4º).",
+   "Errada: 120 dias excede o prazo máximo da suspensão, que é de 90 dias."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca dos conceitos relacionados a acidentes de trabalho, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) O acidente ligado ao trabalho que, embora não tenha sido a causa única, haja contribuído diretamente para a ocorrência da lesão deve ser equiparado a acidente de trabalho.\n( ) O acidente sofrido a serviço da empresa ou no trajeto entre a residência e o local de trabalho e vice-versa não são considerados acidente de trabalho.\n( ) Acidentes liquidados correspondem ao número de acidentes cujos processos foram encerrados administrativamente pelo INSS, depois de completado o tratamento e indenizadas as sequelas.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – F.",
+   "V – V – V.",
+   "F – F – F.",
+   "V – F – V.",
+   "F – F – V."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.213/1991, arts. 19 e 21",
+  "coment": "A Lei 8.213/1991 define acidente do trabalho (art. 19) e lista situações equiparadas (art. 21): o acidente ligado ao trabalho que, embora não tenha sido a causa única, haja contribuído diretamente para a lesão (inciso I), e o acidente sofrido, ainda que fora do local e do horário de trabalho, a serviço da empresa ou no percurso da residência para o trabalho e vice-versa (inciso IV). Por isso a segunda é falsa. Acidentes liquidados, no Anuário Estatístico de Acidentes do Trabalho, são aqueles cujo processo foi encerrado administrativamente pelo INSS depois de completado o tratamento e indenizadas as sequelas.",
+  "porAlt": [
+   "Errada: a concausa é equiparada a acidente de trabalho, e o acidente de trajeto também é.",
+   "Errada: o acidente a serviço da empresa e o de trajeto são equiparados a acidente do trabalho (art. 21, IV).",
+   "Errada: a concausa (art. 21, I) e o conceito de acidente liquidado são verdadeiros.",
+   "Correta: concausa e acidentes liquidados estão corretos; os acidentes a serviço da empresa e de trajeto são equiparados, o que torna a segunda falsa.",
+   "Errada: a primeira é verdadeira, pois a concausa que contribui diretamente para a lesão é equiparada (art. 21, I)."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A obrigatoriedade de constituir a Comissão Interna de Prevenção de Acidentes (CIPA) depende do número de funcionários e do grau de risco da sociedade empresária.\nDe acordo com a norma regulamentadora, são isentas dessa obrigatoriedade, as sociedades empresárias com menos de",
+  "alts": [
+   "20 funcionários.",
+   "30 funcionários.",
+   "40 funcionários.",
+   "50 funcionários.",
+   "60 funcionários."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-5 (redação da Portaria MTP 422/2021), Quadro I; Lei 14.457/2022",
+  "coment": "A NR-5, na redação da Portaria MTP 422/2021, dimensiona a CIPA pelo Quadro I, que cruza o grau de risco da atividade com o número de empregados do estabelecimento; a tabela começa na faixa de 20 empregados. Estabelecimentos com menos de 20 empregados estão desobrigados de constituir a comissão, mas a organização que não se enquadra no Quadro I deve nomear um representante para auxiliar nas ações de prevenção. Desde a Lei 14.457/2022, a sigla designa a Comissão Interna de Prevenção de Acidentes e de Assédio.",
+  "porAlt": [
+   "Correta: o Quadro I da NR-5 começa em 20 empregados; abaixo disso a CIPA não é obrigatória, cabendo nomear um representante.",
+   "Errada: 30 funcionários não é o limite; o dimensionamento do Quadro I começa em 20 empregados.",
+   "Errada: 40 funcionários não é o corte da NR-5, cuja tabela já inclui estabelecimentos a partir de 20.",
+   "Errada: com 50 funcionários o estabelecimento já pode estar obrigado, conforme o grau de risco do Quadro I.",
+   "Errada: 60 funcionários supera o ponto de partida do Quadro I, que é de 20 empregados."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Após ser demitido, um empregado foi orientado acerca da realização do exame clínico demissional.\nDe acordo com a norma regulamentadora, esse exame deve ser realizado em até",
+  "alts": [
+   "5 dias contados da dispensa formal.",
+   "10 dias contados do término do contrato.",
+   "15 dias contados da rescisão contratual.",
+   "20 dias contados do final do aviso prévio.",
+   "30 dias contados do início do aviso prévio."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-7 (redação da Portaria SEPRT 6.734/2020), exame demissional",
+  "coment": "Pela NR-7, na redação da Portaria SEPRT 6.734/2020, o exame clínico demissional deve ser realizado em até 10 dias contados do término do contrato. Ele pode ser dispensado se o exame clínico ocupacional mais recente tiver sido feito há menos de 135 dias, nas organizações de graus de risco 1 e 2, ou há menos de 90 dias, nas de graus 3 e 4. O exame integra o PCMSO, ao lado dos exames admissional, periódico, de retorno ao trabalho e de mudança de risco ocupacional.",
+  "porAlt": [
+   "Errada: o prazo é de 10 dias e se conta do término do contrato, não da dispensa formal.",
+   "Correta: a NR-7 fixa o exame demissional em até 10 dias contados do término do contrato.",
+   "Errada: 15 dias excede o prazo da NR-7, que é de 10 dias.",
+   "Errada: o prazo não é de 20 dias nem se conta do fim do aviso prévio, e sim do término do contrato.",
+   "Errada: 30 dias a partir do início do aviso prévio não corresponde à regra da NR-7."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Atestado de Saúde Ocupacional – ASO é um documento emitido pelo médico do trabalho.\nAcerca desse documento, assinale a afirmativa correta.",
+  "alts": [
+   "É obrigatório apenas em casos de afastamentos superiores a 15 dias.",
+   "Deve ser guardado na instituição por um período mínimo de 10 anos.",
+   "Deve ser emitido apenas na admissão e na demissão do trabalhador.",
+   "É um documento exclusivo para registro dos exames laboratoriais e complementares.",
+   "Deve conter os fatores de risco identificados e classificados no PGR que necessitem de controle médico."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-7 (redação da Portaria SEPRT 6.734/2020), Atestado de Saúde Ocupacional",
+  "coment": "Pela NR-7, o ASO é emitido em cada exame clínico ocupacional do PCMSO (admissional, periódico, de retorno ao trabalho, de mudança de risco e demissional) e deve conter, entre outros dados, a identificação da organização e do empregado, a descrição dos perigos ou fatores de risco identificados e classificados no PGR que necessitem de controle médico, ou a sua inexistência, os exames realizados, a definição de apto ou inapto para a função e a identificação e assinatura do médico. O exame de retorno é exigido após afastamento igual ou superior a 30 dias por doença ou acidente, e o prontuário médico é guardado por no mínimo 20 anos após o desligamento.",
+  "porAlt": [
+   "Errada: o ASO é emitido em todos os exames ocupacionais, e o de retorno vale para afastamentos de 30 dias ou mais.",
+   "Errada: 10 anos não é prazo da NR-7; os registros médicos ocupacionais são mantidos por no mínimo 20 anos após o desligamento.",
+   "Errada: o ASO acompanha também os exames periódico, de retorno ao trabalho e de mudança de risco ocupacional.",
+   "Errada: o ASO registra a conclusão de aptidão do exame clínico, e não serve só para listar exames complementares.",
+   "Correta: o ASO deve descrever os fatores de risco identificados e classificados no PGR que necessitem de controle médico (NR-7)."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas disposições normativas acerca dos Equipamentos de Proteção Individual – EPIs no ambiente de trabalho, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) É obrigação do empregador fornecer ao empregado, gratuitamente, EPI adequado ao risco, em perfeito estado de conservação e funcionamento.\n( ) O fornecimento do EPI ao empregado deve ser registrado, podendo ser adotados livros, fichas ou sistema eletrônico, inclusive por sistema biométrico.\n( ) O empregado pode se recusar a usar o EPI fornecido, desde que assine um termo de responsabilidade ou comprove que o equipamento pode prejudicar seu desempenho profissional.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – V.",
+   "F – V – F.",
+   "V – V – F.",
+   "F – F – F.",
+   "V – V – V."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "NR-6 (redação da Portaria MTP 2.175/2022); CLT, art. 158, parágrafo único (Decreto-Lei 5.452/1943)",
+  "coment": "A NR-6, na redação da Portaria MTP 2.175/2022, obriga a organização a fornecer ao empregado, gratuitamente, EPI adequado ao risco, em perfeito estado de conservação e funcionamento, a orientá-lo e treiná-lo sobre uso, guarda e conservação, a exigir o uso e a registrar o fornecimento, podendo usar livros, fichas ou sistema eletrônico, inclusive biométrico. Ao empregado cabe usar o EPI para a finalidade a que se destina e responsabilizar-se por sua guarda. A recusa injustificada ao uso do EPI fornecido é ato faltoso (CLT, art. 158, parágrafo único), e nenhum termo assinado autoriza o trabalho sem proteção.",
+  "porAlt": [
+   "Errada: o registro em livro, ficha ou sistema eletrônico é previsto, e a recusa ao EPI não é permitida.",
+   "Errada: fornecer EPI gratuito, adequado e em bom estado é obrigação do empregador, e a primeira é verdadeira.",
+   "Correta: fornecimento gratuito e registro do EPI são obrigações da organização; a recusa mediante termo não é admitida.",
+   "Errada: as duas primeiras afirmativas reproduzem obrigações da organização na NR-6.",
+   "Errada: o empregado não pode recusar o EPI mediante termo; a recusa injustificada é ato faltoso (CLT, art. 158)."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca das medidas de proteção individual e coletiva relacionadas à segurança em instalações e serviços que envolvam eletricidade, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Em todos os serviços executados em instalações elétricas devem ser previstas e adotadas, prioritariamente, medidas de proteção coletiva aplicáveis.\n( ) As vestimentas de trabalho devem ser adequadas às atividades, devendo contemplar a condutibilidade, a inflamabilidade e as influências eletromagnéticas.\n( ) É proibido o uso de adornos pessoais nos trabalhos com instalações elétricas ou em suas proximidades.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – F.",
+   "F – F – F.",
+   "V – F – V.",
+   "F – V – F.",
+   "V – V – V."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-10 (redação da Portaria MTE 598/2004), itens 10.2.8 e 10.2.9",
+  "coment": "A NR-10 estabelece que, em todos os serviços em instalações elétricas, devem ser previstas e adotadas prioritariamente medidas de proteção coletiva, como desenergização, aterramento e isolamento; quando inviáveis ou insuficientes, usam-se EPIs adequados. As vestimentas de trabalho devem ser adequadas às atividades e contemplar condutibilidade, inflamabilidade e influências eletromagnéticas. É vedado o uso de adornos pessoais nos trabalhos com instalações elétricas ou em suas proximidades, pelo risco de condução de corrente e de arco elétrico. As três afirmativas reproduzem a norma.",
+  "porAlt": [
+   "Errada: as vestimentas adequadas e a proibição de adornos também estão na NR-10 e são verdadeiras.",
+   "Errada: as três afirmativas reproduzem itens da NR-10.",
+   "Errada: a NR-10 exige vestimentas que contemplem condutibilidade, inflamabilidade e influências eletromagnéticas.",
+   "Errada: a prioridade da proteção coletiva e a proibição de adornos são verdadeiras.",
+   "Correta: proteção coletiva prioritária, vestimenta adequada e proibição de adornos são exigências da NR-10."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um profissional da área da saúde exerce suas atividades em ambiente hospitalar, estando exposto de forma habitual a agentes insalubres classificados em grau médio, conforme avaliação realizada nos termos da NR 15.\nConsiderando a legislação trabalhista aplicável ao adicional de insalubridade, assinale a opção que indica, corretamente, o percentual devido ao trabalhador e a base de cálculo.",
+  "alts": [
+   "10% incidente sobre seu salário bruto.",
+   "15% incidente sobre seu salário líquido.",
+   "20% incidente sobre o salário mínimo da região.",
+   "30% incidente sobre o salário da categoria profissional.",
+   "40% incidente sobre o salário médio dos últimos 12 meses."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "CLT, art. 192 (Decreto-Lei 5.452/1943); NR-15, item 15.2 (Portaria MTb 3.214/1978)",
+  "coment": "O art. 192 da CLT e o item 15.2 da NR-15 asseguram adicional de insalubridade de 40%, 20% ou 10% conforme o grau máximo, médio ou mínimo, calculado sobre o salário mínimo da região, expressão do texto original. A Súmula Vinculante 4 do STF, de 2008, vedou o salário mínimo como indexador, mas também proibiu sua substituição por decisão judicial; sem lei nova ou norma coletiva, a jurisprudência mantém o salário mínimo como base. Por isso o grau médio corresponde a 20% sobre o salário mínimo. O percentual de 30% sobre o salário é o da periculosidade.",
+  "porAlt": [
+   "Errada: 10% corresponde ao grau mínimo, e a base é o salário mínimo, não o salário bruto.",
+   "Errada: não há adicional de insalubridade de 15%, e a base de cálculo não é o salário líquido.",
+   "Correta: o grau médio garante 20% sobre o salário mínimo da região (CLT, art. 192; NR-15, item 15.2).",
+   "Errada: 30% sobre o salário é o adicional de periculosidade, e não o de insalubridade.",
+   "Errada: 40% corresponde ao grau máximo e incide sobre o salário mínimo, e não sobre média salarial."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um trabalhador de uma unidade de saúde foi avaliado por meio de laudo técnico e constatou-se que suas atividades o expõem a insalubridade em grau máximo.\nConsiderando essa informação, assinale a opção que apresenta uma atividade compatível com esse enquadramento.",
+  "alts": [
+   "Higienização de materiais e instrumentos usados em atendimento ambulatorial.",
+   "Assistência direta a pacientes em isolamento por doenças infectocontagiosas.",
+   "Atividade técnica de laboratórios de análise clínica e histopatologia.",
+   "Triagem de pacientes para serviços ambulatoriais e de emergência.",
+   "Aplicação de vacinas e imunobiológicos especiais e sala de vacinação ambulatorial."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-15, Anexo 14 (agentes biológicos), Portaria MTb 3.214/1978",
+  "coment": "O Anexo 14 da NR-15 classifica a insalubridade por agentes biológicos por avaliação qualitativa. É de grau máximo o trabalho ou operação em contato permanente com pacientes em isolamento por doenças infectocontagiosas, bem como com objetos de seu uso não previamente esterilizados, além de atividades com esgotos e lixo urbano. É de grau médio o contato permanente com pacientes, animais ou material infectocontagiante em hospitais, serviços de emergência, enfermarias, ambulatórios e postos de vacinação, e o trabalho em laboratórios de análise clínica e histopatologia, aplicável apenas ao pessoal técnico.",
+  "porAlt": [
+   "Errada: higienizar materiais de atendimento ambulatorial é contato com material infectocontagiante em ambulatório, grau médio.",
+   "Correta: contato permanente com pacientes em isolamento por doença infectocontagiosa é insalubridade de grau máximo (NR-15, Anexo 14).",
+   "Errada: a atividade técnica em laboratório de análise clínica e histopatologia é enquadrada no grau médio.",
+   "Errada: triagem em ambulatório e emergência é contato com pacientes em serviço de saúde, grau médio.",
+   "Errada: postos de vacinação aparecem no Anexo 14 entre as atividades de grau médio."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas disposições normativas acerca das condições sanitárias e de conforto nos locais de trabalho, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Deve ser assegurada a proporção mínima de uma instalação sanitária para cada grupo de até 20 trabalhadores ou fração, sendo obrigatória a separação por sexo.\n( ) Nas atividades que envolvam exposição ou manuseio de materiais infectantes, substâncias tóxicas ou irritantes, deve ser disponibilizado um lavatório para cada grupo de até 20 trabalhadores.\n( ) O empregador deve garantir aos trabalhadores local adequado, em condições de conforto e higiene, destinado à realização das refeições durante os intervalos da jornada de trabalho.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – V.",
+   "F – V – F.",
+   "V – V – V.",
+   "F – F – F.",
+   "V – V – F."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-24 (redação da Portaria SEPRT 1.066/2019), itens 24.2.2 e 24.2.2.1",
+  "coment": "A NR-24, na redação da Portaria SEPRT 1.066/2019, exige a proporção mínima de uma instalação sanitária para cada grupo de 20 trabalhadores ou fração, separadas por sexo (item 24.2.2). Nas atividades com exposição ou manuseio de material infectante, substâncias tóxicas, irritantes ou aerodispersoides, ou que impregnem pele e roupas, exige um lavatório para cada grupo de 10 trabalhadores, e não de 20 (item 24.2.2.1), por isso a segunda é falsa. A norma também obriga o empregador a garantir local adequado, com condições de conforto e higiene, para as refeições nos intervalos da jornada.",
+  "porAlt": [
+   "Correta: uma instalação sanitária por 20 trabalhadores, separada por sexo, e local para refeições são verdadeiros; o lavatório com material infectante é um para cada 10.",
+   "Errada: a proporção de uma instalação sanitária por 20 trabalhadores, separada por sexo, é verdadeira.",
+   "Errada: com material infectante ou tóxico a NR-24 exige um lavatório para cada 10 trabalhadores, e não 20.",
+   "Errada: a primeira e a terceira reproduzem a NR-24 e são verdadeiras.",
+   "Errada: a segunda é falsa, pois a proporção de lavatórios nessas atividades é de um para cada 10 trabalhadores."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Conforme estabelecido na NR 26, os produtos químicos usados no local de trabalho devem ser classificados quanto aos perigos para a segurança e a saúde dos trabalhadores.\nConsiderando as disposições normativas acerca da identificação de produtos químicos, assinale a afirmativa correta.",
+  "alts": [
+   "O produto químico não classificado como perigoso deve dispor de rotulagem preventiva simplificada.",
+   "Qualquer produto químico usado em serviços de saúde deve ser classificado como potencialmente perigoso.",
+   "A rotulagem preventiva do produto químico classificado como perigoso pode ser feita apenas com frases de perigo.",
+   "Os produtos registrados na ANVISA como saneantes devem ser rotulados com palavras de advertência e pictogramas.",
+   "A rotulagem preventiva é obrigatória para produtos corrosivos e inflamáveis e facultativa para os demais."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-26, item 26.4 (Portaria MTb 3.214/1978, redação vigente)",
+  "coment": "A NR-26 manda classificar os produtos químicos quanto aos perigos pelo Sistema Globalmente Harmonizado (GHS). O produto classificado como perigoso recebe rotulagem preventiva completa, com identificação do produto e do fornecedor, pictogramas, palavra de advertência, frases de perigo, frases de precaução e informações suplementares. O produto não classificado como perigoso deve ter rotulagem preventiva simplificada, com nome, indicação de que não é classificado como perigoso e recomendações de precaução. Produtos notificados ou registrados na ANVISA, como saneantes, seguem a rotulagem definida pela própria ANVISA.",
+  "porAlt": [
+   "Correta: o produto não classificado como perigoso deve ter rotulagem preventiva simplificada (NR-26, item 26.4).",
+   "Errada: a classificação depende dos perigos de cada produto pelo GHS, e não do local de uso.",
+   "Errada: o rótulo do produto perigoso exige pictogramas, palavra de advertência, frases de perigo e de precaução, e não só frases de perigo.",
+   "Errada: saneantes notificados ou registrados na ANVISA seguem a rotulagem da ANVISA, fora da exigência da NR-26.",
+   "Errada: a rotulagem preventiva é exigida para todo produto químico classificado como perigoso, e a simplificada para os demais."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a avaliação dos riscos ocupacionais em um laboratório de análises clínicas de um hospital, o profissional de segurança do trabalho analisou os agentes biológicos manipulados, com o objetivo de classificá-los conforme o risco individual e coletivo.\nCom base nessa classificação dos agentes biológicos, assinale a afirmativa correta.",
+  "alts": [
+   "Agentes da classe de risco 1 são aqueles que apresentam risco individual elevado e risco coletivo moderado, exigindo controle rigoroso de exposição ocupacional.",
+   "Agentes da classe de risco 2 são aqueles que apresentam risco individual moderado e baixo risco coletivo, com medidas de prevenção e tratamento disponíveis.",
+   "Agentes da classe de risco 3 são aqueles que não causam doenças em humanos e, portanto, dispensam medidas de controle em serviços de saúde.",
+   "Agentes da classe de risco 4 são aqueles que apresentam baixo risco individual e coletivo, com ampla disponibilidade de tratamento e controle eficaz.",
+   "Agentes biológicos das classes de risco 2 e 3 são considerados equivalentes quanto ao risco coletivo, apresentando ambos baixa capacidade de disseminação."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-32, Anexo I (Portaria MTE 485/2005)",
+  "coment": "O Anexo I da NR-32 classifica os agentes biológicos em quatro classes. Classe 1: baixo risco individual e coletivo, com baixa probabilidade de causar doença no ser humano. Classe 2: risco individual moderado e baixa probabilidade de disseminação para a coletividade; pode causar doença, mas há profilaxia ou tratamento eficaz. Classe 3: risco individual elevado e probabilidade de disseminação para a coletividade, com profilaxia ou tratamento disponíveis. Classe 4: risco individual elevado e alta probabilidade de disseminação, sem profilaxia ou tratamento eficaz conhecidos.",
+  "porAlt": [
+   "Errada: a classe 1 tem baixo risco individual e coletivo, com baixa probabilidade de causar doença.",
+   "Correta: a classe 2 tem risco individual moderado, baixa disseminação para a coletividade e profilaxia ou tratamento eficaz.",
+   "Errada: a classe 3 tem risco individual elevado e pode se disseminar; exige contenção rigorosa.",
+   "Errada: a classe 4 tem risco individual elevado e alta disseminação, sem profilaxia ou tratamento eficaz.",
+   "Errada: a classe 2 tem baixa probabilidade de disseminação, e a classe 3 pode se disseminar para a coletividade."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 61,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para empregados expostos a riscos ocupacionais identificados e classificados no Programa de Gerenciamento de Riscos (PGR), o exame clínico periódico deve ser realizado, a critério do médico responsável, a cada",
+  "alts": [
+   "seis meses ou a intervalos menores.",
+   "ano ou a intervalos menores.",
+   "dois anos ou a intervalos menores.",
+   "três anos ou a intervalos menores.",
+   "quatro anos ou a intervalos menores."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-7 (redação da Portaria SEPRT 6.734/2020), exame periódico",
+  "coment": "Pela NR-7, na redação da Portaria SEPRT 6.734/2020, o exame clínico periódico de empregados expostos a riscos ocupacionais identificados e classificados no PGR, e dos portadores de doenças crônicas que aumentem a suscetibilidade a esses riscos, deve ser feito a cada ano ou a intervalos menores, a critério do médico responsável. Para os demais empregados, a periodicidade é de dois anos. O exame periódico integra o PCMSO e gera um novo ASO.",
+  "porAlt": [
+   "Errada: seis meses não é a periodicidade geral da NR-7 para expostos a riscos classificados no PGR.",
+   "Correta: para expostos a riscos do PGR o exame periódico é anual ou em intervalos menores, a critério do médico.",
+   "Errada: o intervalo de dois anos vale para os empregados não expostos a riscos classificados no PGR.",
+   "Errada: três anos não é periodicidade prevista na NR-7 para o exame clínico.",
+   "Errada: quatro anos excede todas as periodicidades da NR-7 para o exame clínico."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 62,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca das medidas de proteção radiológica adotadas para trabalhadores expostos à radiação ionizante, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Na ocorrência ou suspeita de exposição acidental à radiação ionizante, os dosímetros devem ser enviados para leitura em até 48 horas.\n( ) A trabalhadora com gravidez confirmada deve ser afastada de atividades com radiações ionizantes, sendo garantida sua realocação para função compatível com sua condição.\n( ) A monitoração individual externa, de corpo inteiro ou de extremidades, deve ser realizada por meio de dosimetria individual, com periodicidade mensal de leitura.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – V – F.",
+   "F – F – V.",
+   "V – V – V.",
+   "F – V – V.",
+   "V – F – F."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-32, item 32.4 (Portaria MTE 485/2005)",
+  "coment": "A NR-32 trata das radiações ionizantes no item 32.4. Na ocorrência ou suspeita de exposição acidental, os dosímetros devem ser encaminhados para leitura no prazo máximo de 24 horas, e não de 48, por isso a primeira é falsa (item 32.4.5.3). Toda trabalhadora com gravidez confirmada deve ser afastada das atividades com radiações ionizantes e remanejada para atividade compatível com sua formação. A monitoração individual externa, de corpo inteiro ou de extremidades, é feita por dosimetria individual com periodicidade mensal de leitura, considerando a natureza e a intensidade das exposições.",
+  "porAlt": [
+   "Errada: o prazo de leitura do dosímetro após exposição acidental é de 24 horas, e a dosimetria mensal é verdadeira.",
+   "Errada: o afastamento da trabalhadora com gravidez confirmada das radiações ionizantes é verdadeiro.",
+   "Errada: a primeira é falsa, pois o prazo máximo para leitura do dosímetro é de 24 horas.",
+   "Correta: o dosímetro vai à leitura em até 24 horas, não 48; afastamento da gestante e dosimetria mensal são verdadeiros.",
+   "Errada: o afastamento da gestante e a dosimetria mensal estão previstos na NR-32."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 63,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Permissão de Entrada e Trabalho (PET) é um documento obrigatório pela Norma Regulamentadora que autoriza e controla o acesso a espaços confinados.\nSobre a PET, assinale a afirmativa correta.",
+  "alts": [
+   "Deve ser emitida pelo responsável técnico antes do início das atividades.",
+   "Deve ser revisada diariamente pelo vigia e pelo supervisor de entrada.",
+   "Deve ser preenchida pelo responsável técnico e assinada pelo trabalhador.",
+   "Deve ser verificada apenas no início das atividades pelo vigia de plantão.",
+   "Deve ser encerrada após o término dos serviços pelo supervisor de entrada."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-33 (criada pela Portaria MTE 202/2006, redação vigente), Permissão de Entrada e Trabalho",
+  "coment": "Na NR-33, a Permissão de Entrada e Trabalho é o documento escrito com o conjunto de medidas de controle para a entrada e o trabalho seguros em espaço confinado. Cabe ao supervisor de entrada emitir a PET antes do início das atividades, executar ou verificar os testes e procedimentos nela previstos, assegurar os serviços de emergência e encerrar a PET após o término dos serviços. O vigia permanece fora do espaço, monitora os trabalhadores autorizados e aciona a emergência, sem atribuição de emitir ou encerrar a PET. A permissão é válida somente para cada entrada.",
+  "porAlt": [
+   "Errada: quem emite a PET antes do início das atividades é o supervisor de entrada, e não um responsável técnico.",
+   "Errada: o vigia não revisa nem responde pela PET; ele monitora os trabalhadores do lado de fora e aciona a emergência.",
+   "Errada: o preenchimento e a emissão da PET cabem ao supervisor de entrada, e não ao responsável técnico.",
+   "Errada: o controle não se limita ao início das atividades, e o vigia não é quem responde pela PET.",
+   "Correta: o supervisor de entrada encerra a PET após o término dos serviços (NR-33)."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 64,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O treinamento periódico para empregados que exercem trabalho em altura deve seguir o conteúdo programático definido pelo empregador e ser realizado",
+  "alts": [
+   "a cada ano, com carga horária mínima de 6 horas.",
+   "a cada dois anos, com carga horária mínima de 8 horas.",
+   "a cada três meses, com carga horária mínima de 10 horas.",
+   "a cada seis meses, com carga horária mínima de 12 horas.",
+   "a cada nove meses, com carga horária mínima de 14 horas."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-35 (criada pela Portaria SIT 313/2012, redação vigente), treinamento periódico",
+  "coment": "A NR-35 considera trabalho em altura toda atividade executada acima de 2 metros do nível inferior com risco de queda. O empregador deve promover treinamento inicial teórico e prático, com carga mínima de 8 horas, e treinamento periódico bienal, com carga horária mínima de 8 horas, conforme conteúdo programático definido pelo empregador. Há ainda treinamento eventual quando mudam procedimentos, condições ou operações, após afastamento superior a 90 dias ou na mudança de empresa.",
+  "porAlt": [
+   "Errada: a periodicidade não é anual nem a carga de 6 horas; o periódico é bienal, com no mínimo 8 horas.",
+   "Correta: o treinamento periódico da NR-35 é bienal, com carga horária mínima de 8 horas.",
+   "Errada: a cada três meses com 10 horas não corresponde à NR-35, que exige treinamento bienal de 8 horas.",
+   "Errada: o treinamento não é semestral nem de 12 horas; a norma fixa dois anos e 8 horas.",
+   "Errada: nove meses e 14 horas não constam da NR-35, cujo periódico é bienal com 8 horas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 65,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base na norma de higiene ocupacional relacionada à exposição a ruído, assinale a afirmativa correta.",
+  "alts": [
+   "A exposição a níveis de ruído de 115 dB(A) não pode ultrapassar 2 horas diárias.",
+   "A exposição a níveis de ruído acima de 115 dB(A) não pode ultrapassar 30 minutos diários",
+   "A exposição a níveis de ruído de 115 dB(A) não pode ultrapassar 15 minutos diários.",
+   "A exposição a níveis de ruído acima de 115 dB(A) é proibida para indivíduos que não estejam adequadamente protegidos.",
+   "A exposição a níveis de ruído acima de 115 dB(A) é proibida em qualquer circunstância."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-15, Anexo 1 (Portaria MTb 3.214/1978)",
+  "coment": "O Anexo 1 da NR-15 fixa os limites de tolerância para ruído contínuo ou intermitente: 85 dB(A) para 8 horas diárias, com redução do tempo permitido à medida que o nível aumenta, até 7 minutos a 115 dB(A). O próprio anexo determina que não é permitida exposição a níveis de ruído acima de 115 dB(A) para indivíduos que não estejam adequadamente protegidos. Assim, a 115 dB(A) o limite é de 7 minutos, e acima disso a exposição só é admitida com proteção adequada, sem ser proibida em qualquer circunstância.",
+  "porAlt": [
+   "Errada: a 115 dB(A) o limite de tolerância é de 7 minutos diários, e não de 2 horas.",
+   "Errada: acima de 115 dB(A) não há tempo permitido sem proteção; 30 minutos não é limite da tabela.",
+   "Errada: o limite para 115 dB(A) é de 7 minutos, e não de 15 minutos.",
+   "Correta: o Anexo 1 da NR-15 proíbe exposição acima de 115 dB(A) a quem não esteja adequadamente protegido.",
+   "Errada: a vedação vale para quem não está adequadamente protegido, e não para qualquer circunstância."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 66,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um trabalhador recém-admitido em uma sociedade empresária foi encaminhado para realização do exame admissional.\nA esse respeito, a NR-7 permite que os exames complementares sejam aceitos, a critério do médico responsável, se tiverem sido realizados em até",
+  "alts": [
+   "90 dias antes da admissão.",
+   "95 dias antes da admissão.",
+   "100 dias antes da admissão.",
+   "120 dias antes da admissão.",
+   "150 dias antes da admissão."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-7 (redação da Portaria SEPRT 6.734/2020), exame admissional",
+  "coment": "Pela NR-7, na redação da Portaria SEPRT 6.734/2020, o exame admissional deve ser realizado antes que o empregado assuma suas atividades. Os exames complementares feitos nos 90 dias anteriores à admissão podem ser aceitos, a critério do médico responsável, o que evita repetição desnecessária. Não confundir com a dispensa do exame clínico demissional, que admite exame ocupacional feito há menos de 135 dias (graus de risco 1 e 2) ou de 90 dias (graus 3 e 4).",
+  "porAlt": [
+   "Correta: a NR-7 permite aceitar exames complementares feitos nos 90 dias anteriores à admissão, a critério do médico.",
+   "Errada: 95 dias não é prazo previsto na NR-7 para aproveitar exames no admissional.",
+   "Errada: 100 dias excede o prazo de 90 dias admitido pela NR-7.",
+   "Errada: 120 dias não corresponde à regra da NR-7, que fixa 90 dias.",
+   "Errada: 150 dias não é prazo da NR-7; o limite para aceitar exames complementares é de 90 dias."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 67,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante sua jornada de trabalho, um profissional de saúde pode estar exposto a diferentes tipos de riscos ocupacionais. Os riscos químicos correspondem à exposição a substâncias químicas que podem penetrar no organismo por inalação, contato com a pele ou ingestão.\nConsiderando os riscos químicos, assinale a opção que apresenta um exemplo desse tipo de exposição.",
+  "alts": [
+   "Pressões anormais.",
+   "Agentes infecciosos.",
+   "Vapores anestésicos.",
+   "Radiações ionizantes.",
+   "Radiações não ionizantes."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "NR-32, item 32.3 (riscos químicos), Portaria MTE 485/2005",
+  "coment": "Riscos químicos são substâncias, compostos ou produtos que podem penetrar no organismo por via respiratória, cutânea ou digestiva, como gases e vapores anestésicos, quimioterápicos antineoplásicos, desinfetantes e esterilizantes. A NR-32 trata deles no item 32.3 e, por exemplo, só permite que a gestante trabalhe em área com gases ou vapores anestésicos com autorização escrita do médico do PCMSO (32.3.9.3.4). Agentes infecciosos são risco biológico; pressões anormais e radiações ionizantes e não ionizantes são riscos físicos.",
+  "porAlt": [
+   "Errada: pressões anormais são agente físico, como nas câmaras hiperbáricas.",
+   "Errada: agentes infecciosos configuram risco biológico, tratado no item 32.2 da NR-32.",
+   "Correta: vapores anestésicos são agentes químicos, inalados no centro cirúrgico e na recuperação anestésica.",
+   "Errada: radiações ionizantes são agente físico, tratadas no item 32.4 da NR-32.",
+   "Errada: radiações não ionizantes, como ultravioleta e laser, são agente físico."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 68,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um profissional da saúde sofreu acidente de trabalho com exposição a material biológico sendo indicada a profilaxia pós-exposição (PEP).\nNesse caso, recomenda-se que a PEP seja iniciada",
+  "alts": [
+   "dentro das duas primeiras horas e, no máximo, até 24 horas após o acidente.",
+   "dentro das quatro primeiras horas e, no máximo, até 96 horas após o acidente.",
+   "dentro das quatro primeiras horas e, no máximo, até 48 horas após o acidente.",
+   "o mais precocemente possível, tendo como limite as 72 horas subsequentes à exposição de risco.",
+   "o mais precocemente possível, tendo como limite as 36 horas subsequentes à exposição de risco."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "HIV e aids",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "PCDT para Profilaxia Pós-Exposição de Risco à Infecção pelo HIV, IST e Hepatites Virais (Ministério da Saúde, 2024)",
+  "coment": "Pelo PCDT de PEP do Ministério da Saúde de 2024, a profilaxia é atendimento de urgência: deve ser iniciada o mais precocemente possível e tem como limite as 72 horas seguintes à exposição. Depois de 72 horas não se indica PEP, apenas seguimento. A indicação considera o tipo de material, o tipo de exposição, o tempo decorrido e o status sorológico da pessoa exposta; fonte reagente ou desconhecida indica PEP. O esquema preferencial é tenofovir com lamivudina e dolutegravir, uma vez ao dia, por 28 dias, com testagem para HIV repetida na 4ª e na 12ª semana.",
+  "porAlt": [
+   "Errada: o limite para iniciar a PEP é de 72 horas, e não de 24 horas.",
+   "Errada: não há janela de 96 horas; após 72 horas a PEP não é indicada.",
+   "Errada: o limite é de 72 horas, e o início deve ser o mais precoce possível, sem janela fixa de quatro horas.",
+   "Correta: a PEP começa o mais cedo possível e tem limite de 72 horas após a exposição (PCDT PEP 2024).",
+   "Errada: o limite não é de 36 horas, e sim de 72 horas após a exposição."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 69,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante um plantão em uma unidade de saúde, uma profissional de Enfermagem sofreu respingo de fluido orgânico em mucosa ocular, durante a assistência a um paciente com sorologia desconhecida.\nConsiderando os critérios de classificação de material biológico, assinale a opção que indica o material potencialmente infectante para HBV, HCV e HIV.",
+  "alts": [
+   "Suor.",
+   "Urina.",
+   "Escarro.",
+   "Secreção nasal.",
+   "Líquido amniótico."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "PCDT para Profilaxia Pós-Exposição de Risco à Infecção pelo HIV, IST e Hepatites Virais (Ministério da Saúde, 2024)",
+  "coment": "Pelo PCDT de PEP de 2024, são materiais biológicos com risco de transmissão de HIV, HBV e HCV o sangue, o sêmen, os fluidos vaginais, os líquidos de serosas (peritoneal, pleural, pericárdico), o líquido amniótico e o líquor. Suor, lágrima, fezes, urina, vômitos, saliva, escarro e secreção nasal não oferecem risco, salvo se contiverem sangue. Respingo em mucosa ocular é exposição de risco, de modo que o tipo de material envolvido define se há indicação de profilaxia.",
+  "porAlt": [
+   "Errada: suor não é material de risco para HIV e hepatites, salvo se contiver sangue.",
+   "Errada: urina sem sangue visível não é material potencialmente infectante para esses vírus.",
+   "Errada: escarro sem sangue não é considerado material de risco para HIV, HBV e HCV.",
+   "Errada: secreção nasal sem sangue não oferece risco de transmissão desses vírus.",
+   "Correta: o líquido amniótico está entre os materiais potencialmente infectantes para HBV, HCV e HIV."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 70,
+   "parte": "especificas"
+  }
+ }
+]

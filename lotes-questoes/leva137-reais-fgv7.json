@@ -1,0 +1,1410 @@
+[
+ {
+  "q": "Uma trabalhadora de um setor administrativo procurou o serviço de saúde ocupacional relatando dor progressiva na região palmar da mão direita, associada à sensação de travamento, estalidos durante o movimento e dificuldade para flexão e extensão de um dos dedos.\nAo exame clínico, foi observado o fenômeno conhecido como “dedo em gatilho”.\nEsses sintomas são característicos de",
+  "alts": [
+   "Epicondilite Medial.",
+   "Tenossinovite Estenosante.",
+   "Síndrome do Túnel do Carpo.",
+   "Tenossinovite de De Quervain.",
+   "Tendinite dos Flexores dos Dedos."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Protocolo de Complexidade Diferenciada: Dor relacionada ao trabalho, LER/DORT (Ministério da Saúde, 2012)",
+  "coment": "O dedo em gatilho é a tenossinovite estenosante dos flexores dos dedos: o tendão espessado e a polia A1 estreitada fazem o tendão travar e se soltar com estalido durante a flexão e a extensão, com dor na face palmar, na altura da cabeça do metacarpo. O protocolo de LER/DORT do Ministério da Saúde (2012) a lista entre as afecções de membros superiores relacionadas a movimentos repetitivos e preensão com força. A De Quervain também é estenosante, mas acomete o primeiro compartimento extensor do punho, com dor na tabaqueira anatômica e não trava dedo.",
+  "porAlt": [
+   "Errada: a epicondilite medial dá dor no epicôndilo medial do cotovelo, ligada à flexão do punho, sem travamento de dedo.",
+   "Correta: dedo em gatilho é a tenossinovite estenosante dos flexores, com travamento, estalido e dor palmar.",
+   "Errada: o túnel do carpo comprime o nervo mediano e dá parestesia noturna nos três primeiros dedos, não travamento.",
+   "Errada: a De Quervain acomete os tendões do polegar no punho (abdutor longo e extensor curto), com teste de Finkelstein positivo.",
+   "Errada: tendinite dos flexores causa dor à movimentação, mas o fenômeno de gatilho define a forma estenosante."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 71,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a análise de incidentes em uma unidade de saúde, a equipe de segurança do trabalho identificou falhas recorrentes no uso de equipamentos de proteção individual. Como parte da estratégia de melhoria contínua, foi adotado o ciclo PDCA para estruturar ações de controle e prevenção.\nConsiderando a aplicação do ciclo PDCA na gestão de segurança e saúde no trabalho, assinale a afirmativa correta.",
+  "alts": [
+   "A letra P corresponde à implementação imediata das ações corretivas.",
+   "A letra D corresponde ao monitoramento dos resultados obtidos.",
+   "A letra C compara criticamente os resultados alcançados ao que foi planejado.",
+   "A letra A identifica e monitora os problemas.",
+   "O ciclo PDCA é uma metodologia focada em analisar as causas-raiz de um problema."
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "ABNT NBR ISO 45001:2018 (sistema de gestão de SST estruturado no ciclo PDCA)",
+  "coment": "O PDCA é ciclo de melhoria contínua em quatro fases: P (plan) planeja, define objetivos, metas e métodos a partir do problema identificado; D (do) executa o planejado e treina; C (check) verifica, comparando os resultados obtidos com o que foi planejado; A (act) age, padronizando o que deu certo ou corrigindo desvios e reiniciando o ciclo. A ISO 45001:2018, norma de sistema de gestão de saúde e segurança no trabalho, adota essa estrutura. Análise de causa raiz usa outras ferramentas, como Ishikawa e os cinco porquês, que podem entrar na fase de planejamento.",
+  "porAlt": [
+   "Errada: P é planejar; a execução das ações é a fase D.",
+   "Errada: D é executar; o monitoramento e a comparação de resultados pertencem à fase C.",
+   "Correta: na fase C (check) os resultados alcançados são comparados criticamente ao que foi planejado.",
+   "Errada: A é agir, padronizando ou corrigindo; identificar o problema é parte do planejamento.",
+   "Errada: o PDCA é método de melhoria contínua; causa raiz se analisa com Ishikawa, cinco porquês e similares."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 72,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante uma fiscalização a uma Unidade de Saúde, foi solicitado ao empregador o Laudo Técnico das Condições Ambientais do Trabalho (LTCAT), com a finalidade de verificar a caracterização da exposição dos trabalhadores a agentes nocivos.\nAcerca desse documento, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) O LTCAT deve ser elaborado por médico do trabalho ou engenheiro de segurança do trabalho, com base em avaliação técnica das condições ambientais.\n( ) O LTCAT substitui o Programa de Gerenciamento de Riscos (PGR), sendo suficiente para comprovar a gestão dos riscos ocupacionais na empresa.\n( ) O LTCAT é um documento de caráter opcional, exigido apenas para empresas que possuam trabalhadores expostos a agentes físicos de alta intensidade.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – F – F.",
+   "V – F – F.",
+   "F – V – V.",
+   "V – V – V.",
+   "V – F – V."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.213/1991, art. 58, §§ 1º e 3º (redação da Lei 9.732/1998); NR-1 (Portaria SEPRT 6.730/2020)",
+  "coment": "O LTCAT é o laudo previdenciário que comprova a exposição a agentes nocivos para fins de aposentadoria especial e embasa o Perfil Profissiográfico Previdenciário. Pela Lei 8.213/1991, art. 58, § 1º, é expedido por médico do trabalho ou engenheiro de segurança do trabalho; o § 3º pune a empresa que não mantém o laudo atualizado. Ele não substitui o Programa de Gerenciamento de Riscos da NR-1, que é o instrumento de gestão dos riscos ocupacionais, e não é opcional nem restrito a agentes físicos: abrange agentes químicos, físicos e biológicos nocivos. Sequência V, F, F.",
+  "porAlt": [
+   "Errada: a primeira afirmativa é verdadeira, pois o laudo é atribuição do médico do trabalho ou do engenheiro de segurança.",
+   "Correta: só a primeira é verdadeira; o LTCAT não substitui o PGR nem é opcional.",
+   "Errada: a primeira é verdadeira e as duas últimas são falsas, o inverso desta sequência.",
+   "Errada: o LTCAT não substitui o PGR da NR-1 e não é facultativo.",
+   "Errada: a terceira é falsa, porque o laudo abrange agentes químicos, físicos e biológicos e é exigido por lei."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 74,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A notificação de acidentes relacionados ao trabalho é parte da vigilância da saúde do trabalhador.\nEssa notificação deve ser realizada",
+  "alts": [
+   "em até 7 dias.",
+   "em até 24 horas.",
+   "somente pelo médico do trabalho.",
+   "apenas quando houver afastamento.",
+   "somente quando causar invalidez."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 11.211/2026 (Anexo 1 do Anexo V da PRC 4/2017)",
+  "coment": "Na lista nacional de notificação compulsória alterada pela Portaria GM/MS 11.211/2026, o acidente de trabalho é de notificação imediata, em até 24 horas, à Secretaria Municipal de Saúde. A notificação no SINAN é dever de todo profissional de saúde, não só do médico do trabalho, e independe de afastamento, invalidez ou vínculo formal. Cuidado com a exceção: o acidente de trabalho com exposição a material biológico e as doenças relacionadas ao trabalho são de notificação semanal. A CAT, da Lei 8.213/1991, é outro instrumento, previdenciário, e não substitui a notificação.",
+  "porAlt": [
+   "Errada: sete dias corresponde à notificação semanal, que vale para exposição a material biológico, não para o acidente de trabalho.",
+   "Correta: o acidente de trabalho é de notificação imediata, em até 24 horas, à secretaria municipal.",
+   "Errada: notificar é dever de qualquer profissional de saúde que atende o caso, inclusive o enfermeiro.",
+   "Errada: a notificação independe de afastamento do trabalho.",
+   "Errada: não se espera invalidez; todo acidente de trabalho atendido é notificado."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 75,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um trabalhador sofreu uma crise convulsiva tônico-clônica durante o turno de trabalho, sendo prontamente socorrido pela equipe de saúde da instituição.\nAcerca da conduta adequada nesse caso, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Deve-se posicionar o trabalhador em local seguro, protegendo sua cabeça contra impactos e afastando objetos que possam causar lesões durante a crise.\n( ) Recomenda-se conter os movimentos para bloquear as contrações e utilizar cânula de Guedel para evitar queda da língua durante a crise convulsiva.\n( ) Após o término da crise, o trabalhador deve ser colocado em posição lateral de segurança e ter suas condições monitoradas até a sua recuperação.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – F.",
+   "F – V – F.",
+   "V – F – V.",
+   "V – V – V.",
+   "F – V – V."
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Protocolos de Suporte Básico de Vida do SAMU 192 (Ministério da Saúde, 2016)",
+  "coment": "Durante a crise tônico-clônica a conduta é proteger: afastar objetos, apoiar a cabeça sobre algo macio, afrouxar roupas e cronometrar a duração. Não se contêm os movimentos, que pode causar fratura ou luxação, e nada se introduz na boca durante a crise: cânula de Guedel, dedos ou objetos podem quebrar dentes, ferir e provocar vômito e aspiração. Terminada a fase motora, o paciente vai para a posição lateral de segurança, que drena secreções e mantém a via aérea, e é monitorado até recuperar a consciência; crise acima de 5 minutos ou repetida sem recuperação é estado de mal epiléptico. Sequência V, F, V.",
+  "porAlt": [
+   "Errada: a terceira afirmativa também é verdadeira, pois a posição lateral de segurança após a crise é recomendada.",
+   "Errada: conter movimentos e inserir cânula durante a crise são condutas contraindicadas, e as demais afirmativas são verdadeiras.",
+   "Correta: proteger a cabeça e afastar objetos, depois lateralizar e monitorar; conter e introduzir cânula é errado.",
+   "Errada: a segunda é falsa, porque conter movimentos e colocar cânula durante a crise causam lesão.",
+   "Errada: a primeira é verdadeira e a segunda é falsa."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 76,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Após a ocorrência de um acidente de trabalho foi necessária a emissão do Comunicado de Acidente de Trabalho (CAT).\nDe acordo com as disposições normativas, esse documento deve ser emitido",
+  "alts": [
+   "até o primeiro dia útil seguinte ao da ocorrência do acidente, ou imediatamente em caso de morte do trabalhador.",
+   "até o 5º dia útil após a confirmação do nexo causal por perícia médica oficial.",
+   "somente em acidentes típicos que resultem em invalidez permanente do trabalhador.",
+   "apenas quando houver afastamento do trabalho por período superior a quinze dias consecutivos.",
+   "em acidentes de trabalho com afastamento superior a 30 dias, sendo dispensada nos casos sem afastamento laboral."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.213/1991, art. 22",
+  "coment": "O art. 22 da Lei 8.213/1991 manda a empresa comunicar o acidente do trabalho à Previdência Social até o primeiro dia útil seguinte ao da ocorrência e, em caso de morte, de imediato à autoridade competente, sob pena de multa. A CAT é devida em todo acidente típico, de trajeto e na doença ocupacional, com ou sem afastamento; não depende de perícia prévia, de invalidez nem de afastamento superior a 15 dias. Se a empresa não emitir, podem fazê-lo o próprio acidentado, seus dependentes, o sindicato, o médico que o assistiu ou qualquer autoridade pública.",
+  "porAlt": [
+   "Correta: é o prazo do art. 22 da Lei 8.213/1991, com comunicação imediata no óbito.",
+   "Errada: a CAT não espera nexo confirmado por perícia; o prazo é o primeiro dia útil seguinte.",
+   "Errada: a CAT vale para todo acidente de trabalho, inclusive de trajeto e doença ocupacional, sem exigir invalidez.",
+   "Errada: afastamento acima de 15 dias interessa ao benefício previdenciário, não à obrigação de emitir a CAT.",
+   "Errada: não há dispensa nos casos sem afastamento; a comunicação é obrigatória em todos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 77,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um empregado, que exercia sua atividade exposto a substâncias químicas cancerígenas, foi demitido sem justa causa.\nDespois do seu desligamento, seu prontuário médico ocupacional deve ser mantido pela organização por, no mínimo,",
+  "alts": [
+   "10 anos.",
+   "20 anos.",
+   "30 anos.",
+   "40 anos.",
+   "50 anos."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-7, Anexo V (Portaria SEPRT 6.734/2020)",
+  "coment": "O Anexo V da NR-7 trata do controle médico ocupacional da exposição a substâncias químicas cancerígenas e a radiações ionizantes. Para os empregados expostos a cancerígenos, os prontuários médicos devem ser mantidos por no mínimo 40 anos após o desligamento, prazo compatível com a longa latência do câncer ocupacional. Para radiação ionizante, o mesmo anexo exige guarda até a data em que o empregado completaria 75 anos e por pelo menos 30 anos após o desligamento. O motivo da demissão não altera o prazo.",
+  "porAlt": [
+   "Errada: dez anos é insuficiente diante da latência do câncer ocupacional e não é prazo do Anexo V.",
+   "Errada: vinte anos é o prazo geral de guarda da NR-7, superado pelo Anexo V para cancerígenos.",
+   "Errada: trinta anos após o desligamento é o mínimo previsto para expostos a radiação ionizante, não a cancerígenos químicos.",
+   "Correta: o Anexo V da NR-7 exige guarda mínima de 40 anos após o desligamento do exposto a cancerígenos.",
+   "Errada: a norma fixa 40 anos, não 50."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 78,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um profissional da saúde sofreu exposição ocupacional acidental a níveis elevados de radiação ionizante por falha no uso adequado do EPI.\nNesse caso, deve ser feita uma avaliação médica com coleta de",
+  "alts": [
+   "hemograma completo imediatamente e 12 horas após a exposição.",
+   "hemograma completo imediatamente e 24 horas após a exposição.",
+   "hemograma completo imediatamente e 36 horas após a exposição.",
+   "hemograma completo imediatamente e 48 horas após a exposição.",
+   "hemograma completo imediatamente e 72 horas após a exposição."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "NR-7, Anexo V, radiações ionizantes (Portaria SEPRT 6.734/2020)",
+  "coment": "Na exposição acidental a níveis elevados de radiação ionizante, a avaliação médica inclui hemograma completo imediatamente e 24 horas após a exposição, como prevê a regulamentação do controle médico de expostos (NR-7, Anexo V). A lógica é clínica: a queda dos linfócitos nas primeiras 24 a 48 horas é o marcador laboratorial mais precoce da gravidade da irradiação, e a comparação com a amostra basal estima a dose. Os dosímetros do trabalhador envolvido também seguem para leitura imediata, e a investigação pode incluir dosimetria citogenética.",
+  "porAlt": [
+   "Errada: o intervalo previsto para a segunda coleta é de 24 horas, não 12.",
+   "Correta: hemograma imediatamente e 24 horas após a exposição, para detectar a linfopenia precoce.",
+   "Errada: 36 horas não é o intervalo da norma.",
+   "Errada: 48 horas atrasa a segunda amostra além do previsto.",
+   "Errada: 72 horas não é o intervalo previsto para a segunda coleta."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 79,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a elaboração do mapa de risco em uma unidade hospitalar, a equipe identificou exposição a agentes físicos, químicos e biológicos em diferentes setores, sendo necessária a representação gráfica por meio do Mapa de Risco.\nConsiderando os critérios de construção e interpretação do Mapa de Risco, assinale a afirmativa correta.",
+  "alts": [
+   "Os riscos biológicos devem ser representados pela cor marrom, sendo a intensidade indicada pelo tamanho dos círculos.",
+   "Os riscos químicos devem ser representados pela cor verde, podendo sua intensidade ser indicada por variações na tonalidade da cor utilizada.",
+   "Os riscos físicos devem ser representados pela cor vermelha, devendo a diferenciação de intensidade ser caracterizada por triângulos de tamanhos diferentes.",
+   "Os riscos ergonômicos devem ser representados pela cor amarela, devendo se caracterizados por símbolos específicos de tamanhos variados.",
+   "Os riscos de acidentes devem ser representados pela cor azul, sendo obrigatória a utilização de símbolos adicionais para indicar sua gravidade."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria SSST/MTb 25/1994 (mapa de riscos)",
+  "coment": "A convenção do mapa de riscos vem da Portaria SSST 25/1994: verde para riscos físicos, vermelho para químicos, marrom para biológicos, amarelo para ergonômicos e azul para acidentes. Cada risco é um círculo da cor do grupo, e a intensidade é dada pelo tamanho do círculo (pequeno, médio e grande), com o número de trabalhadores expostos anotado. Não se usam triângulos, tonalidades nem símbolos específicos. A NR-5 atual não detalha mais o mapa, mas a convenção segue usada pelas CIPA e cobrada em prova.",
+  "porAlt": [
+   "Correta: biológico é marrom, e a intensidade se expressa pelo tamanho do círculo.",
+   "Errada: químico é vermelho; verde é físico, e a intensidade não se marca por tonalidade.",
+   "Errada: físico é verde, e a representação usa círculos, não triângulos.",
+   "Errada: amarelo é ergonômico, mas a representação é por círculos de tamanhos diferentes, não por símbolos.",
+   "Errada: acidente é azul, mas não há símbolos adicionais obrigatórios; a gravidade é o tamanho do círculo."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2026,
+   "prova": "Prefeitura de Macaé 2026, Enfermeiro do Trabalho",
+   "n": 80,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Entre os princípios organizativos do Sistema Único de Saúde, aquele que tem por objetivo a redistribuição do poder e das responsabilidades entre os três níveis de governo com a concepção constitucional do mando único, onde cada esfera é autônoma e soberana nas suas decisões e atividades é o princípio da",
+  "alts": [
+   "Equidade.",
+   "Universalidade.",
+   "Integralidade.",
+   "Hierarquização.",
+   "Descentralização."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º, IX; Constituição Federal de 1988, art. 198, I",
+  "coment": "A descentralização político-administrativa, com direção única em cada esfera de governo (CF, art. 198, I; Lei 8.080/1990, art. 7º, IX), redistribui poder e responsabilidades entre União, estados e municípios, com ênfase na municipalização. É o chamado mando único: em cada esfera há um só gestor, o Ministério da Saúde e as secretarias estaduais e municipais, cada um autônomo nas suas decisões dentro das regras pactuadas. Universalidade, integralidade e equidade são princípios doutrinários; hierarquização organiza a rede em níveis de complexidade, sem tratar da partilha de poder.",
+  "porAlt": [
+   "Errada: equidade é princípio doutrinário que trata desigualmente os desiguais segundo a necessidade.",
+   "Errada: universalidade é o acesso de todos às ações e serviços, princípio doutrinário.",
+   "Errada: integralidade é o conjunto articulado de ações preventivas e curativas, individuais e coletivas.",
+   "Errada: hierarquização organiza os serviços por níveis de complexidade, não redistribui poder entre esferas.",
+   "Correta: descentralização com direção única em cada esfera redistribui poder e responsabilidades."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na Politica Nacional de Promoção da Saúde - PNPS, os temas transversais são referências para a formulação de agendas de promoção da saúde e para a adoção de estratégias e temas prioritários. Um dos temas prioritários da PNPS diz respeito a",
+  "alts": [
+   "Promoção da cultura da paz em comunidades, territórios e municípios.",
+   "Estímulo à cooperação e à articulação intrassetorial e intersetorial.",
+   "Determinantes Sociais da Saúde (DSS), equidade e respeito à diversidade.",
+   "O incentivo à gestão democrática, participativa e transparente.",
+   "A ampliação da governança no desenvolvimento de ações de promoção da saúde."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.446/2014 (Política Nacional de Promoção da Saúde), consolidada na PRC 2/2017",
+  "coment": "A PNPS revisada em 2014 organiza seus elementos em diretrizes, objetivos, temas transversais e temas prioritários. Determinantes Sociais da Saúde, equidade e respeito à diversidade abre a lista dos temas transversais, e é o único item das alternativas que é um tema da política. O enunciado mistura os termos: a rigor, os temas prioritários são outros (alimentação adequada, práticas corporais, tabaco, álcool, mobilidade segura, cultura da paz e direitos humanos, desenvolvimento sustentável, formação e educação permanente). As demais alternativas reproduzem diretrizes ou objetivos da PNPS.",
+  "porAlt": [
+   "Errada: promover a cultura da paz em comunidades, territórios e municípios aparece entre os objetivos específicos da PNPS.",
+   "Errada: o estímulo à cooperação e à articulação intra e intersetorial é uma diretriz da PNPS.",
+   "Correta: DSS, equidade e respeito à diversidade é tema da PNPS, listado entre os temas transversais.",
+   "Errada: o incentivo à gestão democrática, participativa e transparente é diretriz, não tema.",
+   "Errada: a ampliação da governança nas ações de promoção da saúde é diretriz da política."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A teoria de enfermagem que destaca as interferências e condições do ambiente que afetam a vida e o funcionamento do organismo, e que podem auxiliar na prevenção da doença ou contribuir para a morte foi desenvolvida por:",
+  "alts": [
+   "Callista Roy.",
+   "Wanda Horta.",
+   "Dorothea Orem.",
+   "Florence Nightingale.",
+   "Hildegard Peplau."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Teorias de enfermagem",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Nightingale F. Notes on Nursing, 1859; George JB. Teorias de enfermagem: os fundamentos à prática profissional, 4ª ed., 2000",
+  "coment": "Florence Nightingale formulou a teoria ambientalista em Notes on Nursing (1859): a enfermagem põe o paciente nas melhores condições para que a natureza aja, controlando ventilação, luz, calor, limpeza, ruído, dieta e observando o doente. O ambiente pode prevenir a doença ou contribuir para a morte, ideia sustentada pela queda da mortalidade que ela registrou na Guerra da Crimeia. As outras teóricas têm focos distintos: adaptação (Roy), necessidades humanas básicas (Horta), autocuidado (Orem) e relação interpessoal (Peplau).",
+  "porAlt": [
+   "Errada: Callista Roy propôs o modelo de adaptação, com modos fisiológico, autoconceito, papel e interdependência.",
+   "Errada: Wanda Horta propôs a teoria das necessidades humanas básicas, apoiada em Maslow.",
+   "Errada: Dorothea Orem formulou a teoria do déficit de autocuidado.",
+   "Correta: Nightingale é a teórica ambientalista, centrada nas condições do ambiente sobre a saúde.",
+   "Errada: Hildegard Peplau descreveu a teoria das relações interpessoais."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas disposições acerca do dimensionamento dos profissionais de enfermagem, analise as afirmativas a seguir e assinale V para a verdadeira e F para a falsa\n( ) Para berçário e unidade de internação em pediatria todo recém-nascido e criança menor de 6 anos deve ser classificado como cuidado de alta dependência, independente da presença do acompanhante.\n( ) O Serviço de Diagnóstico por Imagem deverá garantir a presença de no mínimo um enfermeiro durante todo período em que ocorra assistência de enfermagem.\n( ) A proporção recomendada profissional/paciente no cuidado intensivo é de 1 profissional de enfermagem para 3 pacientes.\nAs afirmativas são respectivamente",
+  "alts": [
+   "F – F – V.",
+   "V – V – V.",
+   "F – F – F.",
+   "V – F – V.",
+   "F – V – F."
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Parecer Normativo COFEN 01/2024 (Res. COFEN 743/2024, que revogou a 543/2017)",
+  "coment": "A prova de 2024 seguia a Res. COFEN 543/2017, revogada pela 743/2024; o texto passou ao Parecer Normativo 01/2024 sem mudar estes pontos. Em berçário e pediatria, todo recém-nascido e criança menor de 6 anos é classificado no mínimo como cuidado intermediário, independentemente do acompanhante, e não como alta dependência: primeira falsa. O Serviço de Diagnóstico por Imagem deve garantir no mínimo um enfermeiro durante todo o período de assistência de enfermagem: verdadeira. No cuidado intensivo são 18 horas de enfermagem por paciente, o que dá cerca de 1 profissional para 1,33 paciente, não 1 para 3: falsa.",
+  "porAlt": [
+   "Errada: a segunda afirmativa é verdadeira e a terceira é falsa.",
+   "Errada: a primeira e a terceira são falsas.",
+   "Errada: a segunda é verdadeira, pois o serviço de imagem precisa de enfermeiro durante toda a assistência.",
+   "Errada: o piso para criança menor de 6 anos é cuidado intermediário, e a proporção no intensivo não é 1 para 3.",
+   "Correta: F, V, F; piso intermediário na pediatria, enfermeiro no serviço de imagem, 18 h por paciente intensivo."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na taxonomia de NANDA o julgamento clínico a respeito da motivação e do desejo de aumentar o bem-estar e alcançar o potencial humano de saúde corresponde ao conceito de",
+  "alts": [
+   "Fatores relacionados.",
+   "Diagnostico de risco.",
+   "Características definidoras.",
+   "Diagnóstico de promoção da saúde.",
+   "Diagnóstico com foco no problema."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "NANDA-I. Diagnósticos de enfermagem: definições e classificação 2024-2026, 13ª ed.",
+  "coment": "A NANDA-I define o diagnóstico de promoção da saúde como julgamento clínico sobre a motivação e o desejo de aumentar o bem-estar e alcançar o potencial humano de saúde. O título costuma começar por disposição para melhorar, e ele pode ser feito mesmo sem doença. Diagnóstico com foco no problema descreve resposta indesejável já presente; diagnóstico de risco descreve suscetibilidade. Características definidoras e fatores relacionados não são tipos de diagnóstico, e sim componentes: sinais e sintomas que o evidenciam e fatores etiológicos associados.",
+  "porAlt": [
+   "Errada: fatores relacionados são componentes etiológicos do diagnóstico, não um tipo de julgamento.",
+   "Errada: diagnóstico de risco descreve a suscetibilidade a desenvolver uma resposta indesejável.",
+   "Errada: características definidoras são os sinais e sintomas observáveis que evidenciam o diagnóstico.",
+   "Correta: é a definição NANDA-I do diagnóstico de promoção da saúde, ligado à disposição para melhorar.",
+   "Errada: diagnóstico com foco no problema trata de resposta indesejável já existente, não do desejo de bem-estar."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas orientações do Ministério da Saúde acerca da realização do teste rápido para casos suspeitos de Dengue, Febre de Chikungunya e Doença aguda pelo vírus Zika, analise as afirmativas a seguir e assinale V para verdadeira e F para a falsa\n( ) Recomenda-se que o teste rápido para Febre de Chikungunya seja realizado entre o 6º e 30º dias da data de início de sintomas.\n( ) Entre os critérios para a realização do teste rápido para dengue está toda criança proveniente de (ou residente em) área com transmissão de dengue, com quadro febril agudo e sem foco de infecção aparente.\n( ) Considera-se caso suspeito de Doença aguda pelo vírus Zika, pacientes que apresentem exantema maculopapular pruriginoso, acompanhado de 2 ou mais sinais e sintomas específicos como Febre baixa, hiperemia conjuntival, oliartralgia e edema periarticular.\nAs afirmativas são respectivamente",
+  "alts": [
+   "F – V – V.",
+   "V – F – V.",
+   "V – V – V.",
+   "F – F – F.",
+   "V – V – F."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. revisada (Ministério da Saúde, 2024); Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed. (MS, 2024)",
+  "coment": "As definições de caso do Ministério da Saúde sustentam as duas verdadeiras. Também é caso suspeito de dengue, e portanto candidato ao teste rápido, toda criança proveniente de ou residente em área com transmissão, com quadro febril agudo e sem foco de infecção aparente. Caso suspeito de zika é quem tem exantema maculopapular pruriginoso com dois ou mais sinais: febre baixa, hiperemia conjuntival sem secreção, poliartralgia e edema periarticular. A primeira foi considerada falsa pela banca porque o intervalo de 6 a 30 dias não corresponde à janela que a orientação do Ministério fixou para o teste rápido de chikungunya.",
+  "porAlt": [
+   "Correta: F, V, V; a janela do teste de chikungunya está errada e as definições de caso estão certas.",
+   "Errada: a primeira afirmativa é falsa e a segunda é verdadeira.",
+   "Errada: a primeira é falsa pelo intervalo indicado para o teste de chikungunya.",
+   "Errada: as definições de caso suspeito de dengue em criança e de zika estão corretas.",
+   "Errada: a primeira é falsa e a terceira, definição de caso suspeito de zika, é verdadeira."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando as ondas, seguimentos e intervalos de um eletrocardiograma de 12 derivações, representados na figura abaixo, relacione a primeira e a segunda coluna\n1. Ondas P\n2. Intervalo PR\n3. Complexo QRS\n4. Onda T\n( ) repolarização dos ventrículos\n( ) despolarização dos átrios.\n( ) despolarização dos ventrículos.\n( ) tempo de condução através do nó AV.\nAssinale a opção que indica a relação correta, na ordem apresentada.",
+  "alts": [
+   "1 – 3 – 2 – 4.",
+   "2 – 4 – 3 – 1.",
+   "4 – 1 – 3 – 2.",
+   "3 – 1 – 4 – 2.",
+   "1 – 2 – 4 – 3."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz da SBC sobre Análise e Emissão de Laudos Eletrocardiográficos, 2022",
+  "coment": "Cada elemento do traçado corresponde a um evento elétrico. A onda P é a despolarização dos átrios. O intervalo PR, do início da P ao início do QRS, mede a condução do impulso pelos átrios e sobretudo o atraso no nó atrioventricular, normal entre 120 e 200 ms. O complexo QRS é a despolarização dos ventrículos e esconde a repolarização atrial. A onda T é a repolarização ventricular. Na ordem da segunda coluna: 4, 1, 3, 2. A figura citada no enunciado não é necessária para responder.",
+  "porAlt": [
+   "Errada: a repolarização ventricular é a onda T (4), não a onda P.",
+   "Errada: o intervalo PR não representa repolarização ventricular, e a onda T não é despolarização atrial.",
+   "Correta: T repolariza os ventrículos, P despolariza os átrios, QRS despolariza os ventrículos e PR mede a condução no nó AV.",
+   "Errada: o QRS é despolarização ventricular, não repolarização, e a onda T não despolariza ventrículos.",
+   "Errada: a onda P não é repolarização ventricular, e o PR não representa despolarização atrial."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente do sexo masculino, 65 anos, com câncer de pulmão em estágio avançado, encontra-se acamado, roupas de cama constantemente molhadas, percepção sensorial muito limitada, mobilidade bastante limitada, nutrição provavelmente inadequada e potencial para fricção e cisalhamento. De acordo com a escala de Braden, esse paciente apresenta o seguinte risco para desenvolver lesão por pressão:",
+  "alts": [
+   "Leve.",
+   "Baixo.",
+   "Alto.",
+   "Muito alto.",
+   "Moderado."
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Escala de Braden (validação brasileira de Paranhos e Santos, 1999); Nota Técnica GVIMS/GGTES/Anvisa 05/2023",
+  "coment": "Somando os itens da Braden: percepção sensorial muito limitada, 2; umidade, pele constantemente molhada, 1; atividade, acamado, 1; mobilidade bastante limitada, 2; nutrição provavelmente inadequada, 2; fricção e cisalhamento como problema potencial, 2. Total de 10 pontos. Pela faixa usada no Brasil, 15 a 18 é risco baixo, 13 a 14 moderado, 10 a 12 alto e 9 ou menos muito alto. Com 10, o risco é alto. A Nota Técnica Anvisa 05/2023 pede essa avaliação na admissão e diariamente.",
+  "porAlt": [
+   "Errada: a Braden não tem categoria leve, e 10 pontos está longe do risco baixo.",
+   "Errada: risco baixo vai de 15 a 18 pontos; o paciente soma 10.",
+   "Correta: a soma é 10, faixa de risco alto (10 a 12).",
+   "Errada: risco muito alto é 9 ou menos; com 10 pontos o risco é alto.",
+   "Errada: risco moderado vai de 13 a 14 pontos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com os requisitos de boas práticas para o processamento de produtos para saúde, o monitoramento do processo de esterilização realizado em cada carga com pacote teste desafio deve ser feito com",
+  "alts": [
+   "Indicadores físicos.",
+   "Indicadores biológicos.",
+   "integradores químicos classe 2.",
+   "integradores químicos classe 3 ou 4.",
+   "integradores químicos classe 5 ou 6."
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "RDC ANVISA 15/2012, art. 96",
+  "coment": "A RDC 15/2012 define três monitorações do processo de esterilização. O art. 96 exige, em cada carga, pacote teste desafio com integradores químicos classes 5 ou 6. O monitoramento físico (tempo, temperatura e pressão) é registrado a cada ciclo (art. 97). O indicador biológico é usado diariamente em pacote desafio e em toda carga com implantáveis, que só são liberados após a leitura (art. 99). Indicadores classe 2 (Bowie e Dick) testam a remoção de ar da autoclave; classes 3 e 4 respondem a um ou dois parâmetros e não integram o ciclo.",
+  "porAlt": [
+   "Errada: indicadores físicos são registrados a cada ciclo, mas não substituem o pacote teste desafio por carga.",
+   "Errada: o biológico é diário e em toda carga de implantáveis, não a regra para cada carga com integrador.",
+   "Errada: classe 2 é o teste de Bowie e Dick, para remoção de ar em autoclave pré-vácuo.",
+   "Errada: classes 3 e 4 respondem a um ou dois parâmetros e não são integradores.",
+   "Correta: a RDC 15/2012 exige integradores químicos classes 5 ou 6 em pacote teste desafio em cada carga."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as recomendações do Ministério da Saúde, marque a alternativa que corresponde a uma contraindicação relativa para a terapia de reposição hormonal",
+  "alts": [
+   "câncer de mama.",
+   "miomatose uterina.",
+   "doença hepática grave.",
+   "câncer de endométrio.",
+   "tromboembolismo recorrente."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Planejamento reprodutivo",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Manual de Atenção à Mulher no Climatério/Menopausa (Ministério da Saúde, 2008); Protocolos da Atenção Básica: Saúde das Mulheres (MS, 2016)",
+  "coment": "O manual do climatério do Ministério da Saúde separa contraindicações absolutas e relativas à terapia hormonal. Absolutas: câncer de mama e de endométrio, doença hepática grave, sangramento genital não esclarecido e história de tromboembolismo, entre outras. Relativas são condições que exigem avaliação individual e acompanhamento, como hipertensão e diabetes não controlados, endometriose e miomatose uterina, porque o estrogênio pode estimular o crescimento dos miomas. A decisão é compartilhada, com a menor dose eficaz pelo menor tempo necessário.",
+  "porAlt": [
+   "Errada: câncer de mama é contraindicação absoluta, tumor hormoniodependente.",
+   "Correta: miomatose uterina é contraindicação relativa, que pede avaliação individual e seguimento.",
+   "Errada: doença hepática grave é contraindicação absoluta, pelo metabolismo hepático dos hormônios.",
+   "Errada: câncer de endométrio é contraindicação absoluta.",
+   "Errada: tromboembolismo recorrente é contraindicação absoluta pelo risco trombótico do estrogênio."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Resíduos de Serviços de Saúde - RSS do Grupo B são definidos como",
+  "alts": [
+   "qualquer material que contenha radionuclídeo em quantidade superior aos níveis de dispensa especificados em norma da CNEN.",
+   "resíduos com a possível presença de agentes biológicos que, por suas características, podem apresentar risco de infecção.",
+   "materiais perfurocortantes ou escarificantes, tais como lâminas de barbear, agulhas, escalpes, ampolas de vidro, brocas, lâminas de bisturi e lancetas.",
+   "resíduos que não apresentam risco biológico, químico ou radiológico à saúde ou ao meio ambiente, podendo ser equiparados aos resíduos domiciliares",
+   "resíduos que contêm produtos químicos que podem apresentar risco à saúde pública ou ao meio ambiente, dependendo de suas características."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 222/2018 (boas práticas de gerenciamento dos resíduos de serviços de saúde)",
+  "coment": "A RDC 222/2018 classifica os resíduos de serviços de saúde em cinco grupos. Grupo A: possível presença de agentes biológicos com risco de infecção. Grupo B: produtos químicos que podem apresentar risco à saúde pública ou ao meio ambiente, conforme inflamabilidade, corrosividade, reatividade e toxicidade, como medicamentos, saneantes, reagentes e metais pesados. Grupo C: rejeitos radioativos acima dos limites da CNEN. Grupo D: resíduos comuns, equiparados aos domiciliares. Grupo E: perfurocortantes e escarificantes.",
+  "porAlt": [
+   "Errada: material com radionuclídeo acima dos níveis da CNEN é o grupo C.",
+   "Errada: resíduo com possível presença de agentes biológicos é o grupo A.",
+   "Errada: perfurocortantes e escarificantes formam o grupo E.",
+   "Errada: resíduos sem risco biológico, químico ou radiológico, equiparáveis aos domiciliares, são o grupo D.",
+   "Correta: o grupo B reúne os resíduos com produtos químicos de risco à saúde ou ao ambiente."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No atendimento a um paciente adulto com suspeita de dengue, a prova do laço é considerada positiva, quando, após a realização do procedimento recomendado, verifica-se a presença de",
+  "alts": [
+   "5 ou mais petéquais.",
+   "7 ou mais petéquias.",
+   "10 ou mais petéquais.",
+   "15 ou mais petéquais.",
+   "20 ou mais petéquais."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed. (Ministério da Saúde, 2024)",
+  "coment": "Na prova do laço, o manguito é insuflado até a média entre a pressão sistólica e a diastólica e mantido por 5 minutos no adulto e 3 minutos na criança. Desenha-se um quadrado de 2,5 cm de lado no antebraço, na área de maior concentração de petéquias. A prova é positiva com 20 ou mais petéquias no adulto e 10 ou mais na criança. Prova positiva ou sangramento de pele, sem sinal de alarme, classifica o paciente no grupo B, que faz hemograma no mesmo dia.",
+  "porAlt": [
+   "Errada: cinco petéquias não atingem o ponto de corte de nenhuma faixa etária.",
+   "Errada: sete petéquias ficam abaixo do corte do adulto e da criança.",
+   "Errada: dez ou mais é o corte da criança; no adulto são 20.",
+   "Errada: quinze petéquias ainda ficam abaixo do corte do adulto.",
+   "Correta: no adulto a prova do laço é positiva com 20 ou mais petéquias no quadrado de 2,5 cm."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante o atendimento a um paciente idoso com suspeita de pseudo-hipertensão, o enfermeiro realizou a manobra de Osler. Essa manobra é considerada positiva quando, após insuflar o manguito da forma recomendada a",
+  "alts": [
+   "artéria braquial ou radial permaneça palpável.",
+   "pressão sistólica e diastólica sejam convergentes.",
+   "artéria braquial ou radial não seja mais palpável.",
+   "diferença da PAS entre os braços seja > 15 mmHg.",
+   "pressão diastólica aumente ≥ 10 mmHg em duas medições."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Diretrizes Brasileiras de Hipertensão Arterial 2020 (SBC), medida da pressão no idoso",
+  "coment": "Pseudo-hipertensão é a leitura falsamente alta da pressão no idoso com artérias rígidas e calcificadas, que o manguito não consegue colabar. Na manobra de Osler, infla-se o manguito acima da pressão sistólica palpatória: se a artéria radial ou braquial continua palpável, como um cordão endurecido, a manobra é positiva e sugere pseudo-hipertensão. A Diretriz Brasileira de Hipertensão de 2020 descreve a manobra entre os cuidados de medida no idoso. A diretriz de 2025 substituiu a de 2020, mas a manobra continua sendo sinal semiológico clássico.",
+  "porAlt": [
+   "Correta: a artéria que segue palpável com o manguito acima da sistólica indica Osler positivo.",
+   "Errada: convergência entre sistólica e diastólica não define a manobra de Osler.",
+   "Errada: artéria não palpável após insuflar é o comportamento normal, manobra negativa.",
+   "Errada: diferença entre os braços é critério de assimetria de pressão, avaliada na primeira consulta.",
+   "Errada: variação da diastólica entre medidas não tem relação com a manobra de Osler."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na assistência de uma criança com diabetes, uma das metas é manter a glicemia pré-prandial entre",
+  "alts": [
+   "50 e 80 mg/dL.",
+   "60 e 90 mg/dL.",
+   "65 e 110 mg/dL.",
+   "70 e 130 mg/dL.",
+   "80 e140 mg/dL."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ADA Standards of Care in Diabetes 2026 (crianças e adolescentes); Diretriz da Sociedade Brasileira de Diabetes 2024",
+  "coment": "A meta glicêmica pré-prandial de 70 a 130 mg/dL é a adotada para crianças e adolescentes com diabetes tipo 1 quando pode ser alcançada sem hipoglicemia, a mesma faixa usada no adulto. O limite inferior de 70 mg/dL marca o início da hipoglicemia de nível 1, risco relevante na criança, que nem sempre reconhece os sintomas. As metas são individualizadas pela idade, pela percepção de hipoglicemia e pelo apoio familiar, e hoje se somam ao tempo no alvo da monitorização contínua. As faixas que começam em 50, 60 ou 65 mg/dL aceitam hipoglicemia.",
+  "porAlt": [
+   "Errada: 50 a 80 mg/dL inclui hipoglicemia e fica abaixo da meta.",
+   "Errada: 60 a 90 mg/dL tem limite inferior abaixo de 70, faixa de hipoglicemia.",
+   "Errada: 65 a 110 mg/dL é estreita e começa abaixo de 70 mg/dL.",
+   "Correta: 70 a 130 mg/dL é a meta pré-prandial usada para crianças e adolescentes com DM1.",
+   "Errada: 80 a 140 mg/dL não é a faixa pré-prandial de referência."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante o atendimento a um paciente verificou-se que ele apresentava dupla onda em cada pulsação, uma mais intensa e nítida e a outra mais fraca. Esse pulso é denominado",
+  "alts": [
+   "alternante.",
+   "dicrótico.",
+   "bigeminado.",
+   "paradoxal.",
+   "irregular."
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Porto CC. Semiologia Médica, 8ª ed., 2019 (tipos de pulso)",
+  "coment": "No pulso dicrótico, cada batimento é percebido como duas ondas: uma principal, mais intensa, seguida de outra menor, que corresponde à onda dicrótica exagerada. Aparece em estados de baixa resistência periférica, como febre e sepse. No pulso alternante, as ondas são de amplitude alternadamente forte e fraca em batimentos sucessivos, sinal de disfunção ventricular grave. O bigeminado é formado por batimentos aos pares, em geral por extrassístoles, e o paradoxal é a queda acentuada da amplitude na inspiração, como no tamponamento.",
+  "porAlt": [
+   "Errada: no alternante a amplitude alterna entre batimentos sucessivos, e não há dupla onda em cada pulsação.",
+   "Correta: o dicrótico mostra duas ondas em cada pulsação, a primeira mais forte e a segunda mais fraca.",
+   "Errada: o bigeminado é a sucessão de batimentos aos pares, geralmente por extrassístoles.",
+   "Errada: o paradoxal é a redução da amplitude na inspiração, típica do tamponamento cardíaco.",
+   "Errada: pulso irregular descreve ritmo desigual, como na fibrilação atrial, e não a dupla onda."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na Rede de Atenção Psicossocial, as Unidades de Acolhimento (UAs) são definidas como",
+  "alts": [
+   "unidades que prestam serviços de saúde de caráter aberto e comunitário, constituído por equipe multiprofissional que atua sobre a ótica interdisciplinar.",
+   "estratégia de desinstitucionalização e política de inclusão social destinada às pessoas com problemas de saúde mental egressas de internação de longa permanência em hospitais psiquiátricos e de custódia.",
+   "moradias inseridas na comunidade, destinadas a acolher pessoas em sofrimento psíquico graves e persistentes, egressas de internações psiquiátricas de longa permanência em hospitais psiquiátricos.",
+   "serviços do componente de Atenção Hospitalar da RAPS, que oferecem tratamento hospitalar para casos graves relacionados à problemas de saúde mental e ao uso prejudicial de álcool, outras drogas.",
+   "residências temporárias para pessoas com necessidades decorrentes do uso de álcool e outras drogas, acompanhadas nos CAPS, em situação de vulnerabilidade social e/ou familiar e que demandem acolhimento terapêutico e protetivo."
+  ],
+  "gab": 4,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 3.088/2011, art. 9º (consolidada no Anexo V da PRC 3/2017)",
+  "coment": "A Unidade de Acolhimento integra o componente de atenção residencial de caráter transitório da RAPS (Portaria 3.088/2011, art. 9º). É residência temporária, aberta e em funcionamento 24 horas, para pessoas com necessidades decorrentes do uso de álcool e outras drogas, acompanhadas pelo CAPS, em vulnerabilidade social ou familiar, que precisam de acolhimento terapêutico e protetivo. Tem modalidade adulto e infantojuvenil. Não se confunde com o Serviço Residencial Terapêutico, que é moradia para egressos de internação de longa permanência.",
+  "porAlt": [
+   "Errada: serviço aberto e comunitário com equipe multiprofissional descreve o CAPS.",
+   "Errada: estratégia de desinstitucionalização para egressos de longa permanência e de custódia é outro componente da RAPS.",
+   "Errada: moradia na comunidade para egressos de internação psiquiátrica longa é o Serviço Residencial Terapêutico.",
+   "Errada: tratamento hospitalar de casos graves é o componente de atenção hospitalar.",
+   "Correta: a UA é residência temporária para usuários de álcool e outras drogas acompanhados no CAPS."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca dos distúrbios hidroeletrolíticos e equilíbrio ácidobásico, analise as afirmativas a seguir e assinale V para a verdadeira e F para a falsa\n( ) Os pacientes com hipermagnesemia moderada podem exibir sinais e sintomas, incluindo náuseas, vômitos, reflexos tendinosos profundos abolidos, hipotensão, bradicardia e alterações do ECG.\n( ) Hipernatremia é a concentração sérica de sódio > 145 mmol/L e desenvolve-se a partir de um ganho de sódio ou pela perda de água livre, ou pela combinação desses fatores.\n( ) A alcalose respiratória ocorre pela elevação do pH plasmático em função de uma concentração anormalmente alta de bicarbonato e/ou perda excessiva de prótons pelo organismo.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – V.",
+   "V – V – V.",
+   "F – F – F.",
+   "F – V – F.",
+   "V – V – F."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "A hipermagnesemia moderada deprime a transmissão neuromuscular e a condução cardíaca: náuseas, vômitos, rubor, hipotensão, bradicardia, hiporreflexia até reflexos abolidos e alterações no ECG, como PR prolongado e QRS alargado; primeira verdadeira. Hipernatremia é sódio acima de 145 mmol/L, por ganho de sódio, perda de água livre ou ambos; segunda verdadeira. A terceira descreve alcalose metabólica: na alcalose respiratória o pH sobe pela queda da PaCO2 por hiperventilação, e o bicarbonato cai como compensação. Sequência V, V, F.",
+  "porAlt": [
+   "Errada: a primeira afirmativa é verdadeira, e a terceira, falsa.",
+   "Errada: a terceira é falsa, pois bicarbonato alto define alcalose metabólica.",
+   "Errada: as duas primeiras são verdadeiras.",
+   "Errada: a primeira é verdadeira; os sinais listados são os da hipermagnesemia moderada.",
+   "Correta: V, V, F; a alcalose respiratória decorre da queda da PaCO2, não de bicarbonato alto."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente vítima de acidente automobilístico apresenta dor ocasionada pelas escoriações e fraturas no MID.\nEsse tipo de dor é denominado",
+  "alts": [
+   "dor reflexa.",
+   "dor nociceptiva.",
+   "dor neuropática.",
+   "dor nociplástica.",
+   "dor simpaticomimética."
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Higiene, conforto e mobilização",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "IASP. Revised definition of pain and terminology (Raja et al., Pain, 2020)",
+  "coment": "Pela terminologia da IASP, dor nociceptiva é a que surge de dano real ou potencial a tecido não neural, com ativação de nociceptores, como em escoriações e fraturas. A neuropática resulta de lesão ou doença do sistema nervoso somatossensitivo e costuma vir com queimação, choque e alteração de sensibilidade. A nociplástica é dor por alteração da nocicepção sem evidência de lesão tecidual ou neural que a explique, como na fibromialgia. Dor reflexa e simpaticomimética não são categorias da classificação por mecanismo.",
+  "porAlt": [
+   "Errada: dor reflexa descreve a localização à distância da origem, não o mecanismo da lesão traumática.",
+   "Correta: escoriações e fraturas lesam tecido não neural e ativam nociceptores, o que define a dor nociceptiva.",
+   "Errada: a neuropática exige lesão ou doença do sistema nervoso somatossensitivo.",
+   "Errada: a nociplástica ocorre sem lesão tecidual ou neural evidente que a explique.",
+   "Errada: simpaticomimética descreve efeito de fármaco, não tipo de dor."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No tratamento de um paciente oncológico, a quimioterapia neoadjuvante é aquela indicada",
+  "alts": [
+   "com objetivo de se conseguir o controle completo do tumor.",
+   "após cirurgia curativa, com o objetivo de esterilizar células residuais locais ou circulantes, diminuindo a incidência de metástases",
+   "para se obter a redução parcial do tumor, visando permitir uma complementação terapêutica com a cirurgia e/ou radioterapia.",
+   "com a finalidade de melhorar a qualidade da sobrevida do paciente.",
+   "para a paliação de sinais e sintomas que comprometem a capacidade funcional do paciente."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "INCA. Ações de enfermagem para o controle do câncer: uma proposta de integração ensino-serviço, 3ª ed., 2008",
+  "coment": "O INCA classifica a quimioterapia pela finalidade. Neoadjuvante, ou prévia, é feita antes do tratamento local para reduzir parcialmente o tumor e permitir cirurgia ou radioterapia complementar, às vezes mais conservadora. Adjuvante vem depois da cirurgia curativa, para eliminar doença residual local ou circulante e diminuir metástases. Curativa busca o controle completo do tumor, como em leucemias e linfomas. Paliativa melhora a qualidade da sobrevida e alivia sinais e sintomas, sem intenção de cura.",
+  "porAlt": [
+   "Errada: buscar o controle completo do tumor define a quimioterapia curativa.",
+   "Errada: a aplicada após cirurgia curativa para esterilizar células residuais é a adjuvante.",
+   "Correta: a neoadjuvante reduz parcialmente o tumor antes da cirurgia ou da radioterapia.",
+   "Errada: melhorar a qualidade da sobrevida é objetivo da quimioterapia paliativa.",
+   "Errada: paliação de sinais e sintomas também caracteriza a quimioterapia paliativa."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca da assistência ao recém-nascido acima de 34 semanas, analise as afirmativas a seguir e assinale V apara a verdadeira e F para a falsa.\n( ) Um RN ≥34 semanas apresenta boa vitalidade se, ao nascer ele está respirando ou chorando e o tônus muscular está em flexão, independentemente do aspecto do líquido amniótico.\n( ) A aspiração de boca e narinas deve ser realizada de rotina em todos os RNs, independente do resultado do apgar no 1º minuto, para evitar broncoaspiração.\n( ) Considera-se bradicardia em recém nascido a frequência cardíaca <100 bpm.\nAs afirmativas são respectivamente",
+  "alts": [
+   "V – F – V.",
+   "F – F – F.",
+   "V – V – F.",
+   "F – V – F.",
+   "V – V – V."
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Reanimação do recém-nascido ≥34 semanas em sala de parto, diretrizes de 2026",
+  "coment": "Pelas diretrizes da SBP, o RN de 34 semanas ou mais tem boa vitalidade quando respira ou chora e tem tônus em flexão, qualquer que seja o aspecto do líquido amniótico; vai para o contato pele a pele com clampeamento tardio do cordão. A aspiração de boca e narinas não é rotina: só se aspira quando há obstrução por secreção, porque a aspiração desnecessária causa bradicardia reflexa e lesão de mucosa. Frequência cardíaca abaixo de 100 bpm é bradicardia e, após o passo inicial, indica ventilação com pressão positiva. Sequência V, F, V.",
+  "porAlt": [
+   "Correta: V, F, V; boa vitalidade independe do líquido amniótico, não se aspira de rotina e bradicardia é FC abaixo de 100.",
+   "Errada: a primeira e a terceira afirmativas são verdadeiras.",
+   "Errada: a aspiração de rotina não é recomendada, e a terceira é verdadeira.",
+   "Errada: a primeira é verdadeira e a segunda é falsa.",
+   "Errada: a segunda é falsa, porque a aspiração só se faz diante de obstrução das vias aéreas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No atendimento emergencial a pacientes com choque séptico recomenda-se administrar fluidos em alíquotas de",
+  "alts": [
+   "5mL/kg ou 10mL/kg.",
+   "10mL/kg ou 20mL/kg.",
+   "20mL/kg ou 30mL/kg.",
+   "30mL/kg ou 40mL/kg.",
+   "40mL/kg ou 50mL/kg."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Surviving Sepsis Campaign, diretriz pediátrica de 2020 (Weiss et al., Pediatr Crit Care Med 2020); Surviving Sepsis Campaign 2026",
+  "coment": "A reposição volêmica no choque séptico é feita em alíquotas, ou bólus, com reavaliação depois de cada uma. A diretriz pediátrica da Surviving Sepsis Campaign recomenda bólus de 10 a 20 mL/kg, até 40 a 60 mL/kg na primeira hora onde há suporte intensivo, parando se surgirem sinais de sobrecarga, como estertores, hepatomegalia ou piora da oxigenação. No adulto, a SSC 2026 sugere pelo menos 30 mL/kg de cristaloide nas primeiras 3 horas como volume total, também fracionado e guiado por reavaliação. O enunciado não diz a idade; a resposta segue a faixa dos bólus pediátricos.",
+  "porAlt": [
+   "Errada: alíquotas de 5 mL/kg são menores do que as recomendadas para a reanimação inicial.",
+   "Correta: bólus de 10 ou 20 mL/kg, com reavaliação a cada alíquota, é a recomendação para o choque séptico.",
+   "Errada: 30 mL/kg é o volume total sugerido nas primeiras 3 horas do adulto, não o tamanho de cada alíquota.",
+   "Errada: alíquotas de 30 a 40 mL/kg aumentam o risco de sobrecarga e não são recomendadas.",
+   "Errada: 40 a 50 mL/kg por alíquota excede o recomendado e chega ao total da primeira hora."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O esquema básico para o tratamento da tuberculose em adolescentes contempla os seguintes fármacos:",
+  "alts": [
+   "R – Rifampicina; H- Isoniazida; Z – Pirazinamina;",
+   "R – Rifampicina; H- Isoniazida; E – Etambutol.;",
+   "R – Rifampicina; H- Isoniazida; Z – Pirazinamina; E – Etambutol.",
+   "R – Rifampicina; H- T - Terizidona – Pirazinamina; E – Etambutol",
+   "L - Linezolida; H- Isoniazida; Z – Pirazinamina; E – Etambutol"
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada (Ministério da Saúde, 2019)",
+  "coment": "O esquema básico 2RHZE/4RH vale para adultos e adolescentes a partir de 10 anos, em caso novo e em retratamento. A fase intensiva, de 2 meses, usa rifampicina (R), isoniazida (H), pirazinamida (Z) e etambutol (E) em comprimido de dose fixa combinada; a manutenção, de 4 meses, usa R e H. Abaixo de 10 anos o esquema é RHZ, sem etambutol, pela dificuldade de detectar neurite óptica. Linezolida e terizidona são fármacos dos esquemas para tuberculose resistente.",
+  "porAlt": [
+   "Errada: RHZ sem etambutol é o esquema da criança menor de 10 anos.",
+   "Errada: falta a pirazinamida, essencial na fase intensiva.",
+   "Correta: adolescentes a partir de 10 anos recebem RHZE na fase intensiva.",
+   "Errada: terizidona é fármaco de esquema para tuberculose resistente, não do básico.",
+   "Errada: linezolida é usada na tuberculose resistente, não substitui a rifampicina no esquema básico."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O surto é uma ocorrência epidêmica, onde todos os casos estão relacionados entre si, atingindo uma área geográfica pequena e delimitada. No caso do surto de Síndrome Gripal em ambiente hospitalar, considera-se a ocorrência de pelo menos",
+  "alts": [
+   "dois casos de SG ocorridos no mesmo setor vinculados epidemiologicamente e que ocorreram, no mínimo, 48 horas após a data de admissão.",
+   "três casos de SG ocorridos no mesmo setor vinculados epidemiologicamente e que ocorreram, no mínimo, 72 horas após a data de admissão.",
+   "quatro casos de SG ocorridos no mesmo setor vinculados epidemiologicamente e que ocorreram, no mínimo, 36 horas após a data de admissão.",
+   "cinco casos de SG ocorridos no mesmo setor vinculados epidemiologicamente e que ocorreram, no mínimo, 48 horas após a data de admissão.",
+   "seis casos de SG ocorridos no mesmo setor vinculados epidemiologicamente e que ocorreram, no mínimo, 72 horas após a data de admissão."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Investigação de surtos",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. revisada (Ministério da Saúde, 2024), capítulo de influenza",
+  "coment": "O Guia de Vigilância em Saúde define surto de síndrome gripal em ambiente hospitalar como a ocorrência de pelo menos três casos de SG no mesmo setor, vinculados epidemiologicamente, com início dos sintomas no mínimo 72 horas após a admissão. O prazo afasta casos que já chegaram incubados e caracteriza transmissão dentro da unidade. Confirmado, segue notificação, coleta de amostras e medidas de controle com a CCIH.",
+  "porAlt": [
+   "Errada: o critério exige três casos e intervalo mínimo de 72 horas da admissão.",
+   "Correta: três casos de SG no mesmo setor, vinculados, iniciados ao menos 72 horas após a admissão.",
+   "Errada: quatro casos e 36 horas não correspondem à definição do Guia.",
+   "Errada: cinco casos com 48 horas não é o critério.",
+   "Errada: o número mínimo é três, não seis."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente faz acompanhamento em uma unidade ambulatorial para tratamento de úlcera crônica, localizada na porção distal da perna esquerda, que apresenta formato irregular, edema, dermatite ocre, pulsos distais presentes, com dor de intensidade variável que, em geral, piora no fim do dia com a posição ortostática e melhora com a elevação do membro.\nEssas características correspondem a úlceras de perna de etiologia",
+  "alts": [
+   "mista.",
+   "arterial.",
+   "venosa.",
+   "neuropática.",
+   "hipertensiva."
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Pé diabético e úlceras vasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Classificação CEAP revisada (American Venous Forum, 2020)",
+  "coment": "A úlcera venosa fica no terço distal da perna, em geral perimaleolar medial, tem bordas irregulares, é superficial e exsudativa, e vem acompanhada de edema, dermatite ocre por depósito de hemossiderina, eczema e lipodermatoesclerose, sinais de insuficiência venosa crônica (CEAP C6 quando ativa). Os pulsos estão presentes, e a dor piora com o ortostatismo no fim do dia e melhora com a elevação do membro. A úlcera arterial é o oposto: bordas regulares, leito pálido, pulsos ausentes e dor que piora com a elevação.",
+  "porAlt": [
+   "Errada: a úlcera mista combina sinais arteriais, como pulsos diminuídos, aos venosos.",
+   "Errada: na arterial os pulsos estão ausentes e a dor piora com a elevação do membro.",
+   "Correta: edema, dermatite ocre, pulsos presentes e dor que melhora com elevação indicam origem venosa.",
+   "Errada: a neuropática ocorre em áreas de pressão do pé, é indolor e tem bordas hiperqueratóticas.",
+   "Errada: a hipertensiva (de Martorell) é muito dolorosa, na face lateral da perna, e não melhora com elevação."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas orientações do Ministério da Saúde acerca do Calendário Nacional de Vacinação analise as afirmativas a seguir e assinale V para a verdadeira e F para a falsa\n( ) Contatos prolongados de portadores de Hanseníase, menores de 1 ano e sem cicatriz vacinal devem receber 2 doses da vacina BCG com intervalo de 4 meses entre as doses.\n( ) A vacina tríplice viral é contraindicada para gestantes e crianças abaixo dos 6 (seis) meses de idade, mesmo em situações de surto de sarampo, caxumba ou rubéola.\n( ) Em criança a partir de 7 anos de idade ou adolescente não vacinado ou sem comprovação vacinal para difteria e tétano, deve-se administrar 3doses com intervalo de 60 dias entre elas, sendo o mínimo de 30 dias.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – V – F.",
+   "V – V – V.",
+   "F – F – F.",
+   "V – F – V.",
+   "F – V – V."
+  ],
+  "gab": 4,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "Pela Instrução Normativa do Calendário 2026, a BCG como imunoprofilaxia é indicada aos contatos domiciliares de hanseníase a partir de 1 ano de idade; o menor de 1 ano não vacinado recebe dose única conforme o calendário, sem segunda dose: primeira falsa. A tríplice viral é contraindicada a gestantes e crianças abaixo de 6 meses, mesmo em surto de sarampo, caxumba ou rubéola, porque a dose zero só começa aos 6 meses: segunda verdadeira. A partir dos 7 anos, sem vacinação para difteria e tétano, são 3 doses de dT com intervalo de 60 dias, mínimo de 30: terceira verdadeira. Sequência F, V, V.",
+  "porAlt": [
+   "Errada: a primeira é falsa, pois o menor de 1 ano não vacinado recebe dose única de BCG.",
+   "Errada: a primeira é falsa e a terceira é verdadeira.",
+   "Errada: a segunda e a terceira são verdadeiras pela IN de 2026.",
+   "Errada: a primeira afirmativa é falsa, não há esquema de 2 doses com 4 meses de intervalo.",
+   "Correta: F, V, V; BCG em dose única no menor de 1 ano, SCR contraindicada abaixo de 6 meses e dT em 3 doses."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As apraxias constituem distúrbios neurológicos relacionados à incapacidade de atividade gestual e movimentos conscientes. Nesse sentido, a perda da capacidade de gestos organizados, como desenhar, é denominada apraxia",
+  "alts": [
+   "ideatória.",
+   "reflexiva.",
+   "conceitual.",
+   "construtiva.",
+   "ideomotora."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020 (avaliação neurológica)",
+  "coment": "Apraxia é a incapacidade de executar movimentos voluntários aprendidos, apesar de força, sensibilidade e compreensão preservadas. Na apraxia construtiva, o paciente não consegue organizar elementos no espaço para desenhar ou montar figuras, como copiar um cubo ou desenhar um relógio; associa-se a lesões parietais, frequentemente à direita. A ideomotora impede executar o gesto sob comando, embora o paciente saiba o que fazer. A ideatória compromete a sequência lógica de uma tarefa com objetos, como preparar um café.",
+  "porAlt": [
+   "Errada: a ideatória compromete o plano e a sequência de atos com objetos.",
+   "Errada: reflexiva não é tipo clássico de apraxia nesta classificação.",
+   "Errada: conceitual se refere à perda do conhecimento sobre o uso das ferramentas, não ao desenho.",
+   "Correta: a construtiva é a perda da capacidade de organizar gestos para desenhar ou montar figuras.",
+   "Errada: na ideomotora o paciente não executa o gesto sob comando, embora saiba o que fazer."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando disposições do Código de Ética de Enfermagem acerca das infrações e penalidades, analise as afirmativas a seguir e assinale V para a verdadeira e F para a falsa\n( ) Considera-se infração ética e disciplinar a ação, omissão ou conivência que implique em desobediência e/ou inobservância às disposições do Código de Ética dos Profissionais de Enfermagem, bem como a inobservância das normas do Sistema Cofen/Conselhos Regionais de Enfermagem.\n( ) Nas penalidades de censura e suspensão, o profissional terá sua carteira retida no ato da notificação, em todas as categorias em que for inscrito, sendo devolvida após o cumprimento da pena.\n( ) As penalidades referentes à advertência verbal e multa são de responsabilidade do Conselho Federal de Enfermagem, a pena de cassação do direito ao exercício profissional é de responsabilidade da Assembleia de Presidentes dos Conselhos de Enfermagem.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – F – F.",
+   "V – V – V.",
+   "F – V – V.",
+   "V – F – F.",
+   "F – V – F."
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017, arts. 104, 108 e 109; Lei 5.905/1973, art. 18",
+  "coment": "O art. 104 do Código de Ética define infração ética e disciplinar como ação, omissão ou conivência que implique desobediência ao Código ou às normas do Sistema COFEN/COREN: primeira verdadeira. A carteira é retida, em todas as categorias, só na suspensão e na cassação (art. 108, §§ 6º e 7º); a censura é repreensão publicada, sem retenção: segunda falsa. Advertência verbal, multa, censura e suspensão são aplicadas pelos Conselhos Regionais; a cassação é do Conselho Federal (art. 109; Lei 5.905/1973, art. 18, § 1º): terceira falsa. Sequência V, F, F.",
+  "porAlt": [
+   "Errada: a primeira afirmativa reproduz o art. 104 e é verdadeira.",
+   "Errada: a segunda e a terceira são falsas.",
+   "Errada: a primeira é verdadeira, e a retenção da carteira não ocorre na censura.",
+   "Correta: V, F, F; a carteira é retida na suspensão e na cassação, e advertência e multa são do COREN.",
+   "Errada: a primeira é verdadeira e a segunda é falsa."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2024,
+   "prova": "Prefeitura de Caraguatatuba 2024, Enfermeiro",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A respeito das diretrizes para a promoção, proteção e recuperação da saúde, bem como a organização e o funcionamento do Sistema Único de Saúde (SUS), considerando as disposições da Lei nº 8.080/1990, assinale a afirmativa correta.",
+  "alts": [
+   "A participação direta ou indireta, inclusive controle, de empresas ou de capital estrangeiro na assistência à saúde é vedada em qualquer caso.",
+   "A participação da comunidade na gestão do SUS é facultativa, podendo ser implementada conforme a disponibilidade de cada município.",
+   "Uma das competências da gestão municipal do SUS é participar da execução, do controle e da avaliação das ações referentes às condições e aos ambientes de trabalho.",
+   "A descentralização político-administrativa tem como objetivo a organização dos serviços públicos de modo a evitar duplicidade de meios para fins idênticos.",
+   "Entre os princípios do SUS está a identificação e a divulgação dos fatores condicionantes e determinantes da saúde."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, arts. 5º, 7º, 18 e 23 (redação da Lei 13.097/2015)",
+  "coment": "O art. 18 da Lei 8.080/1990 lista as competências da direção municipal do SUS, entre elas participar da execução, do controle e da avaliação das ações referentes às condições e aos ambientes de trabalho. O art. 23, com a redação da Lei 13.097/2015, passou a permitir a participação de capital estrangeiro na assistência à saúde em casos previstos. A participação da comunidade é diretriz constitucional e obrigatória (Lei 8.142/1990). Evitar duplicidade de meios é princípio próprio do art. 7º, e identificar e divulgar os condicionantes e determinantes da saúde é objetivo do SUS (art. 5º, I).",
+  "porAlt": [
+   "Errada: desde a Lei 13.097/2015 o art. 23 permite capital estrangeiro na assistência em casos previstos.",
+   "Errada: a participação da comunidade é diretriz obrigatória, regulada pela Lei 8.142/1990.",
+   "Correta: é competência municipal prevista no art. 18 da Lei 8.080/1990.",
+   "Errada: evitar duplicidade de meios é princípio autônomo do art. 7º, não o objetivo da descentralização.",
+   "Errada: identificar e divulgar condicionantes e determinantes é objetivo do SUS (art. 5º), não princípio."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca das estratégias, ações e programas do Sistema Único de Saúde (SUS), assinale a afirmativa correta.",
+  "alts": [
+   "O Programa Nacional de Imunizações (PNI) inclui a vacinação contra a maioria das doenças negligenciadas, com exceção de hanseníase e tuberculose.",
+   "O Programa Farmácia Popular do Brasil oferece medicamento de forma subsidiada para o tratamento de diabetes mellitus associada à doença cardiovascular, além de fraldas geriátricas para incontinência.",
+   "O Programa Saúde da Família (PSF), agora denominado Estratégia Saúde da Família (ESF), é a porta de entrada mais importante do SUS, com foco na promoção da saúde e na média complexidade.",
+   "Os Centros de Convivência são residências temporárias para pessoas com necessidades decorrentes do uso de álcool e outras drogas, acompanhadas nos CAPS, que necessitem de acolhimento terapêutico.",
+   "O Método Canguru é considerado a abordagem mais adequada para atenção ao recém-nascido (RN) pré-termo, porém é inadequado para recém-nascidos de baixo peso e muito baixo peso."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Programa Farmácia Popular do Brasil (Lei 10.858/2004); Portaria GM/MS 3.088/2011 (RAPS); Portaria GM/MS 2.436/2017 (PNAB)",
+  "coment": "O Farmácia Popular oferece, em farmácias credenciadas, medicamentos gratuitos ou subsidiados para hipertensão, diabetes, asma e outras condições, incluindo indicação de diabetes associado a doença cardiovascular, além de fraldas geriátricas para pessoas com incontinência. As demais estão erradas: o PNI vacina contra tuberculose com a BCG, que também é usada na profilaxia de contatos de hanseníase; a ESF é porta de entrada da atenção primária, não de média complexidade; residência temporária para usuários de álcool e drogas é a Unidade de Acolhimento; e o Método Canguru é voltado justamente ao RN de baixo peso.",
+  "porAlt": [
+   "Errada: o PNI inclui a BCG contra formas graves de tuberculose, também usada em contatos de hanseníase.",
+   "Correta: o Farmácia Popular cobre diabetes associado a doença cardiovascular e fraldas geriátricas para incontinência.",
+   "Errada: a ESF é a principal porta de entrada da atenção primária, e não atua na média complexidade.",
+   "Errada: residência temporária para usuários de álcool e drogas acompanhados no CAPS é a Unidade de Acolhimento.",
+   "Errada: o Método Canguru é indicado justamente ao RN pré-termo de baixo peso e muito baixo peso."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação à gestão de pessoal, à segurança do paciente e à gestão da qualidade, considerando as disposições acerca dos Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) O serviço de saúde deve estabelecer estratégias e ações voltadas para Segurança do Paciente, tais como orientações para estimular a participação do paciente na assistência prestada.\n( ) As reclamações sobre os serviços oferecidos devem ser examinadas e as causas dos desvios da qualidade investigadas e documentadas, devendo ser adotadas providências no sentido de prevenir reincidências.\n( ) O serviço de saúde deve promover a capacitação de seus profissionais antes do início das atividades e de forma permanente em conformidade com as atividades desenvolvidas.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – V – F.",
+   "F – F – F.",
+   "V – F – V.",
+   "F – V – F.",
+   "V – V –V."
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 63/2011 (Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde)",
+  "coment": "A RDC 63/2011 traz as três obrigações. Na segurança do paciente, o serviço deve estabelecer estratégias e ações, entre elas orientações para estimular a participação do paciente na assistência. Na gestão da qualidade, reclamações sobre os serviços devem ser examinadas, as causas dos desvios investigadas e documentadas e providências adotadas para evitar reincidência. Na gestão de pessoal, o serviço deve capacitar seus profissionais antes do início das atividades e de forma permanente, conforme as atividades desenvolvidas. Todas verdadeiras.",
+  "porAlt": [
+   "Errada: a terceira afirmativa também é verdadeira, pois a capacitação inicial e permanente é exigida.",
+   "Errada: as três afirmativas reproduzem requisitos da RDC 63/2011.",
+   "Errada: a segunda é verdadeira, porque reclamações devem ser investigadas e documentadas.",
+   "Errada: a primeira e a terceira também são verdadeiras.",
+   "Correta: V, V, V; segurança do paciente, tratamento de reclamações e capacitação estão na RDC 63/2011."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a RDC nº 36/2013, a redução, a um mínimo aceitável, do risco de dano desnecessário associado à atenção à saúde, corresponde à definição de",
+  "alts": [
+   "gestão de risco.",
+   "cultura de segurança.",
+   "garantia da qualidade.",
+   "segurança do paciente.",
+   "boas práticas de funcionamento."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 3º; Portaria MS 529/2013",
+  "coment": "A RDC 36/2013, art. 3º, define segurança do paciente como a redução, a um mínimo aceitável, do risco de dano desnecessário associado à atenção à saúde, conceito da OMS também adotado pela Portaria MS 529/2013, que instituiu o PNSP. Mínimo aceitável reconhece que risco zero não existe; desnecessário separa o dano da falha de processo do efeito esperado da doença ou do tratamento. Gestão de risco é a aplicação sistêmica de políticas e práticas para identificar, avaliar e controlar riscos; cultura de segurança é o compromisso coletivo com a segurança.",
+  "porAlt": [
+   "Errada: gestão de risco é a aplicação sistêmica de políticas e práticas para identificar, avaliar e controlar riscos.",
+   "Errada: cultura de segurança é o conjunto de valores e comportamentos que comprometem todos com a segurança.",
+   "Errada: garantia da qualidade é o conjunto de ações para assegurar que produtos e serviços atendam aos padrões.",
+   "Correta: é a definição literal de segurança do paciente na RDC 36/2013, art. 3º.",
+   "Errada: boas práticas de funcionamento são os requisitos da RDC 63/2011 para o serviço de saúde."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Embora todas as pessoas tenham direito aos serviços de saúde, elas não são iguais e, portanto, possuem necessidades diferentes. Nesse sentido, assinale a opção que indica o princípio do SUS que trata desigualmente os desiguais, investindo mais onde a carência é maior.",
+  "alts": [
+   "Equidade.",
+   "Igualdade.",
+   "Integralidade.",
+   "Universalidade.",
+   "Descentralização."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, art. 196; Lei 8.080/1990, art. 7º",
+  "coment": "Equidade é o princípio doutrinário que reconhece necessidades diferentes e trata desigualmente os desiguais, investindo mais onde a carência é maior, para reduzir desigualdades em saúde. Não se confunde com igualdade da assistência, sem preconceitos ou privilégios (Lei 8.080/1990, art. 7º, IV), que garante tratamento igual a todos. Universalidade é o direito de todos ao acesso (CF, art. 196); integralidade articula ações preventivas e curativas em todos os níveis; descentralização é princípio organizativo, com direção única em cada esfera.",
+  "porAlt": [
+   "Correta: equidade trata desigualmente os desiguais, priorizando quem tem maior necessidade.",
+   "Errada: igualdade assegura assistência igual a todos, sem distinção, e não diferencia por necessidade.",
+   "Errada: integralidade articula ações de promoção, prevenção, tratamento e reabilitação.",
+   "Errada: universalidade é o acesso de todos às ações e serviços de saúde.",
+   "Errada: descentralização é princípio organizativo de distribuição de poder entre as esferas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a opção que indica o nome da teórica de Enfermagem que propôs que o cuidado de enfermagem deveria ser centrado no atendimento das necessidades humanas básicas, segundo a hierarquia de necessidades de Abraham Maslow.",
+  "alts": [
+   "Wanda Horta.",
+   "Imogene King.",
+   "Dorothea Orem.",
+   "Hildegard Peplau.",
+   "Florence Nightingale."
+  ],
+  "gab": 0,
+  "tema": "sae",
+  "sub": "Teorias de enfermagem",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Horta WA. Processo de Enfermagem, 1979 (teoria das necessidades humanas básicas)",
+  "coment": "Wanda de Aguiar Horta, em Processo de Enfermagem (1979), propôs a teoria das necessidades humanas básicas, apoiada na hierarquia de Maslow e na classificação de João Mohana em necessidades psicobiológicas, psicossociais e psicoespirituais. Para ela, a enfermagem assiste o ser humano no atendimento dessas necessidades, tornando-o independente quando possível. É a base de muitos instrumentos de admissão no Brasil. Imogene King trata do alcance de metas; Orem, do autocuidado; Peplau, das relações interpessoais; Nightingale, do ambiente.",
+  "porAlt": [
+   "Correta: Wanda Horta centrou o cuidado nas necessidades humanas básicas, a partir de Maslow.",
+   "Errada: Imogene King propôs a teoria do alcance de metas, com sistemas pessoal, interpessoal e social.",
+   "Errada: Dorothea Orem formulou a teoria do déficit de autocuidado.",
+   "Errada: Hildegard Peplau descreveu as relações interpessoais na enfermagem.",
+   "Errada: Florence Nightingale formulou a teoria ambientalista."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma paciente com transtorno bipolar, que faz uso de Clorpromazina, apresentou queixas como inquietação, movimentos involuntários, espasmos musculares e lentidão dos movimentos.\nEsses sintomas são característicos de uma reação adversa comum nos neurolépticos. Assinale a opção que a indica.",
+  "alts": [
+   "Ataxia sensitiva.",
+   "Discinesia tardia.",
+   "Efeito anticolinérgico.",
+   "Polineuropatia periférica.",
+   "Síndrome extrapiramidal."
+  ],
+  "gab": 4,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "APA Practice Guideline for the Treatment of Patients With Schizophrenia, 3ª ed., 2020 (efeitos extrapiramidais)",
+  "coment": "A clorpromazina é antipsicótico típico, e o bloqueio dopaminérgico na via nigroestriatal causa a síndrome extrapiramidal. As queixas do caso cobrem suas formas agudas: inquietação (acatisia), espasmos musculares (distonia aguda), movimentos involuntários e lentidão dos movimentos (parkinsonismo medicamentoso, com bradicinesia). A conduta depende da forma, com anticolinérgico como o biperideno na distonia e no parkinsonismo e betabloqueador na acatisia. A discinesia tardia também é extrapiramidal, mas surge após uso prolongado, com movimentos orofaciais repetitivos.",
+  "porAlt": [
+   "Errada: ataxia sensitiva decorre de perda da propriocepção, não de bloqueio dopaminérgico.",
+   "Errada: a discinesia tardia aparece após uso prolongado, com movimentos orofaciais, e não reúne acatisia e bradicinesia.",
+   "Errada: efeitos anticolinérgicos são boca seca, constipação, retenção urinária e visão turva.",
+   "Errada: polineuropatia periférica causa perda sensitiva e fraqueza distal, não é efeito típico de neurolépticos.",
+   "Correta: inquietação, espasmos, movimentos involuntários e bradicinesia formam a síndrome extrapiramidal."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A prevenção da sensibilização materna pela administração de imunoglobulina anti-D, nas situações de risco para sensibilização, é de fundamental importância na assistência à gestante.\nCom base nos protocolos do Ministério da Saúde, assinale a opção que indica o momento em que se deve proceder à administração de imunoglobulina anti-D em mães não sensibilizadas (CI negativo).",
+  "alts": [
+   "Até a 15ª semana de gestação.",
+   "Até 72 horas após o parto de recém-nascido Rh+ ou de fator Rh desconhecido.",
+   "Até 96 horas após o parto de recém-nascido Rh+ ou de fator Rh desconhecido.",
+   "Até 7 dias após procedimento/evento (que leve à risco de sensibilização materna).",
+   "Até 10 dias após procedimento/evento (que leve à risco de sensibilização materna)."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Manual de Gestação de Alto Risco (Ministério da Saúde, 2022)",
+  "coment": "Na gestante Rh negativo com Coombs indireto negativo, o Manual de Gestação de Alto Risco de 2022 prevê imunoglobulina anti-D 300 µg IM com 28 semanas e até 72 horas após o parto de recém-nascido Rh positivo ou de fator Rh desconhecido. O mesmo prazo de 72 horas vale após eventos com risco de sensibilização, como abortamento, gravidez ectópica, sangramento, procedimentos invasivos e trauma abdominal. A dose evita a produção de anticorpos maternos e a doença hemolítica perinatal na gestação seguinte.",
+  "porAlt": [
+   "Errada: a profilaxia pré-natal de rotina é com 28 semanas, não até a 15ª semana.",
+   "Correta: a anti-D deve ser aplicada até 72 horas após o parto de RN Rh positivo ou com Rh desconhecido.",
+   "Errada: 96 horas ultrapassa o prazo recomendado de 72 horas.",
+   "Errada: após evento sensibilizante o prazo também é de até 72 horas, não sete dias.",
+   "Errada: dez dias excede em muito o prazo de 72 horas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025, Enfermeiro",
+   "n": 38,
+   "parte": "especificas"
+  }
+ }
+]

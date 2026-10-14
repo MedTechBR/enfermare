@@ -78,9 +78,9 @@
   "q": "Homem de 71 anos permanece na sala de observação do pronto-socorro aguardando o resultado de exames, em boas condições. A filha pede para ficar com ele, mas o coordenador lembra que a rotina do setor não admite acompanhantes na observação por falta de espaço. Pelo Estatuto da Pessoa Idosa, qual deve ser a conduta da enfermeira?",
   "alts": [
    "Garantir o acompanhante e, se inviável, o responsável justifica por escrito.",
-   "Negar o acompanhante, pois o direito vale só para pacientes internados.",
+   "Negar o acompanhante, pois o direito se restringe aos pacientes internados.",
    "Permitir o acompanhante apenas se o paciente tiver mais de 80 anos.",
-   "Liberar o acompanhante só no horário de visitas definido pela unidade.",
+   "Liberar o acompanhante no horário de visitas definido pela unidade.",
    "Exigir aval prévio do Conselho Municipal da Pessoa Idosa para a permanência."
   ],
   "gab": 0,
@@ -102,8 +102,8 @@
  {
   "q": "Mulher de 86 anos, com demência avançada e sem condições de compreender ou escolher, nunca foi interditada. Internada, tem indicação de um procedimento eletivo, sem risco iminente de vida. Os dois filhos estão presentes e acompanham o tratamento desde o início. Pelo art. 17 do Estatuto da Pessoa Idosa, a quem cabe optar pelo tratamento nessa situação?",
   "alts": [
-   "Ao médico assistente, sempre que a paciente não puder decidir.",
-   "Ao Ministério Público, comunicado antes de qualquer conduta.",
+   "Ao médico assistente, por ser o responsável técnico pela conduta.",
+   "Ao Ministério Público, que deve ser ouvido antes da conduta.",
    "À enfermeira responsável, como gestora do cuidado da paciente.",
    "Aos familiares, pois não há curador nem risco iminente de vida.",
    "Ao Conselho da Pessoa Idosa, por se tratar de pessoa vulnerável."
@@ -130,8 +130,8 @@
    "Aguardar a confirmação pelo serviço social antes de notificar o caso.",
    "Notificar em até 24 horas, como toda violência contra pessoa idosa.",
    "Notificar a suspeita no SINAN, semanal, e comunicar ao MP ou ao Conselho.",
-   "Comunicar só à polícia, pois negligência não entra na lista do SINAN.",
-   "Notificar apenas se a própria idosa autorizar a comunicação do caso."
+   "Comunicar à polícia, pois negligência não entra na lista do SINAN.",
+   "Notificar se a própria idosa autorizar, por respeito à sua autonomia."
   ],
   "gab": 2,
   "tema": "idoso",
@@ -154,9 +154,9 @@
   "alts": [
    "Imediata, em até 24 horas, à Secretaria Municipal de Saúde.",
    "Semanal, à Secretaria Municipal, como as demais violências.",
-   "Imediata, em até 24 horas, somente ao Ministério da Saúde.",
+   "Imediata, em até 24 horas, direto ao Ministério da Saúde.",
    "Mensal, ao Conselho da Pessoa Idosa, após o exame pericial.",
-   "Semanal, só depois que a perícia confirmar a violência."
+   "Semanal, depois que a perícia confirmar a violência sexual."
   ],
   "gab": 0,
   "tema": "idoso",
@@ -178,10 +178,10 @@
   "q": "A agente comunitária aplica o IVCF-20 em um homem de 78 anos durante a visita domiciliar e obtém 15 pontos, com pontuação nas dimensões de mobilidade, cognição e atividades de vida diária. Ela leva o resultado à enfermeira da equipe. Como interpretar esse escore e qual o próximo passo?",
   "alts": [
    "Risco moderado, pois o alto risco começa em 20 pontos no índice.",
-   "Baixo risco, pois o escore máximo do índice chega a 100 pontos.",
-   "Resultado inválido, pois o índice só pode ser aplicado por médico.",
+   "Baixo risco, pois o escore máximo do índice chega a 100 pontos no total.",
+   "Resultado inválido, pois o índice exige aplicação por médico.",
    "Alto risco, com indicação de avaliação multidimensional completa.",
-   "Risco moderado, com repetição do índice somente após um ano."
+   "Risco moderado, com repetição do índice dentro de um ano."
   ],
   "gab": 3,
   "tema": "idoso",
@@ -203,7 +203,7 @@
   "q": "Na consulta de enfermagem, mulher de 76 anos relata que perdeu 4 kg nos últimos oito meses sem fazer dieta; antes pesava 70 kg. A enfermeira aplica a Mini Avaliação Nutricional na forma reduzida e obtém 9 pontos. Como interpretar o escore e a perda de peso?",
   "alts": [
    "Estado nutricional normal, e a perda de peso é esperada na idade.",
-   "Desnutrição, pois todo escore abaixo de 12 confirma o diagnóstico.",
+   "Desnutrição, pois escore abaixo de 12 já confirma o diagnóstico.",
    "Estado nutricional normal, pois a perda ficou abaixo de 10% do peso.",
    "Desnutrição grave, que exige sonda enteral imediata pela enfermagem.",
    "Risco de desnutrição, e a perda de 5,7% do peso é sinal de alarme."
@@ -231,7 +231,7 @@
    "Sugere depressão; pede avaliação clínica e pergunta sobre ideação suicida.",
    "Está dentro do esperado no luto e dispensa seguimento pela equipe.",
    "Indica demência de Alzheimer e dispensa nova avaliação do humor.",
-   "Só tem validade se a escala for reaplicada por médico psiquiatra."
+   "Precisa ser reaplicada por médico psiquiatra para ter validade."
   ],
   "gab": 1,
   "tema": "idoso",
@@ -253,9 +253,9 @@
   "q": "Na consulta de rotina, a enfermeira pergunta ativamente sobre quedas a uma mulher de 76 anos. Ela conta que caiu duas vezes no último ano, sem se machucar, e diz que tem medo de cair de novo. Anda sem apoio e mora com o marido. Pela World Falls Guidelines 2022, como estratificar o risco e o que fazer?",
   "alts": [
    "Alto risco, por duas quedas no ano: avaliação multifatorial e intervenção multidomínio.",
-   "Baixo risco, pois as quedas não causaram lesão: só orientações gerais de segurança.",
+   "Baixo risco, pois as quedas não causaram lesão: orientações gerais de segurança.",
    "Risco intermediário: aplicar o TUG antes de decidir sobre qualquer intervenção.",
-   "Baixo risco, pois anda sem apoio: reavaliar somente se ocorrer uma nova queda.",
+   "Baixo risco, pois anda sem apoio: reavaliar quando ocorrer uma nova queda em casa.",
    "Alto risco: restringir a marcha fora de casa até a próxima reavaliação de enfermagem."
   ],
   "gab": 0,
@@ -277,11 +277,11 @@
  {
   "q": "Uma enfermaria de clínica médica revisa o protocolo de prevenção de quedas. A proposta é aplicar uma escala de risco na admissão e oferecer medidas preventivas apenas a quem atingir o escore de alto risco. Pela World Falls Guidelines 2022 e pelo NICE NG249, de 2025, qual orientação a enfermeira deve defender para os idosos internados?",
   "alts": [
-   "Manter o escore de corte e oferecer medidas só ao grupo de alto risco.",
+   "Manter o escore de corte e reservar as medidas ao grupo de alto risco.",
    "Usar alarme de cama e meia antiderrapante em todos os idosos internados.",
    "Restringir ao leito os de alto risco, com grades elevadas durante a noite.",
    "Tratar todo idoso internado como de risco e agir sobre cada fator achado.",
-   "Aplicar a escala só após a primeira queda, para então definir as medidas."
+   "Aplicar a escala após a primeira queda, para então definir as medidas."
   ],
   "gab": 3,
   "tema": "idoso",
@@ -355,7 +355,7 @@
    "Resposta normal, pois a diastólica caiu menos de 10 mmHg.",
    "Hipotensão ortostática, pela queda sistólica de 22 mmHg.",
    "Resposta normal, pois no 3º minuto a queda foi menor que 20.",
-   "Só seria hipotensão ortostática com queda acima de 30 mmHg.",
+   "Hipotensão ortostática exigiria queda sistólica acima de 30.",
    "Medida inválida: a posição em pé exige 10 minutos de espera."
   ],
   "gab": 1,
@@ -377,7 +377,7 @@
  {
   "q": "Mulher de 81 anos, em uso de anticoagulante oral por fibrilação atrial, é encontrada sentada no chão do quarto, de madrugada, na enfermaria. Diz que escorregou e bateu a cabeça na mesa de cabeceira, mas está lúcida e quer voltar logo para a cama. Qual é a conduta de enfermagem adequada?",
   "alts": [
-   "Levantá-la logo, por estar lúcida, e reavaliar só se surgir alguma queixa.",
+   "Levantá-la logo, por estar lúcida, e reavaliar se surgir alguma queixa.",
    "Suspender o anticoagulante por conta própria e registrar o evento no prontuário.",
    "Aplicar a escala de Morse e liberar a paciente se o escore for baixo.",
    "Examinar antes de levantar, avisar o médico e estender a vigilância neurológica.",
@@ -497,6 +497,381 @@
    "Errada: contenção não é rotina e só se aplica quando é o único meio de evitar dano iminente.",
    "Correta: só quando é o único meio de prevenir dano iminente, sob supervisão direta do enfermeiro.",
    "Errada: a contenção exige monitoramento, reavaliações e registro da duração, nunca prazo indefinido."
+  ]
+ },
+ {
+  "q": "Na visita domiciliar, a filha de um homem de 80 anos com doença de Alzheimer moderada relata que, há quatro dias, ele fica agitado à tarde, anda de um lado para o outro e leva a mão ao abdome. Ela pede à enfermeira \"um remédio para acalmar\". Pelo NICE NG97, qual deve ser o primeiro passo?",
+  "alts": [
+   "Pedir antipsicótico ao médico como primeira medida para a agitação.",
+   "Procurar causa como dor, constipação ou retenção urinária antes de tudo.",
+   "Orientar aumento do benzodiazepínico noturno que ele já usa em casa.",
+   "Restringir o paciente ao quarto nos horários de maior agitação.",
+   "Orientar a suspensão da donepezila, que costuma causar agitação."
+  ],
+  "gab": 1,
+  "tema": "idoso",
+  "sub": "Demências e delirium",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "NICE NG97 (Dementia, 2018)",
+  "coment": "Cerca de 90% das pessoas com Alzheimer terão algum sintoma comportamental. O NICE NG97 (2018) estabelece a ordem de conduta: primeiro procurar causa (dor, delirium, retenção urinária, constipação, fármaco novo); depois intervenção psicossocial e ambiental (rotina, atividades personalizadas, capacitação do cuidador); só então fármaco. A mudança é recente e o paciente leva a mão ao abdome: dor, fecaloma ou bexiga cheia precisam ser afastados. Quem não se comunica bem é avaliado pela PAINAD. Benzodiazepínico piora cognição e aumenta quedas, e restringir ao quarto agrava a agitação. Suspender fármaco é decisão do prescritor.",
+  "porAlt": [
+   "Errada: antipsicótico vem depois da busca de causa e das medidas psicossociais, não como primeiro passo.",
+   "Correta: a mudança recente com a mão no abdome pede busca de dor, constipação ou retenção antes de tudo.",
+   "Errada: benzodiazepínico piora a cognição, aumenta quedas e consta como medicamento a evitar no idoso.",
+   "Errada: restringir ao quarto não trata a causa e tende a aumentar a agitação.",
+   "Errada: a suspensão é decisão do prescritor, e a agitação nova pede antes a busca de causa orgânica."
+  ]
+ },
+ {
+  "q": "Homem de 76 anos com doença de Parkinson, internado por pneumonia, desenvolve delirium hiperativo no segundo dia. Está em jejum para um exame e a levodopa da manhã foi suspensa. Há prescrição de haloperidol se agitação e de metoclopramida se náusea. Qual análise a enfermeira deve levar ao médico?",
+  "alts": [
+   "Manter o jejum da levodopa, pois sua omissão não traz riscos ao paciente.",
+   "Dar o haloperidol, que encurta o delirium e protege do agravamento.",
+   "Retomar a levodopa e evitar haloperidol e metoclopramida no Parkinson.",
+   "Trocar o haloperidol por benzodiazepínico, primeira escolha no idoso.",
+   "Manter a metoclopramida, antiemético preferido para quem tem Parkinson."
+  ],
+  "gab": 2,
+  "tema": "idoso",
+  "sub": "Demências e delirium",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Critérios de Beers AGS 2023 (interação fármaco-doença no Parkinson) e NICE CG103 (Delirium, 2023)",
+  "coment": "Na doença de Parkinson, a levodopa deve ser dada no horário certo, sem omissão no jejum: a retirada abrupta pode causar a síndrome de hiperpirexia-parkinsonismo, com rigidez, febre, rebaixamento e CK elevada; sem via oral, discute-se sonda ou alternativa com o médico. Haloperidol e metoclopramida bloqueiam dopamina e pioram o parkinsonismo; o Beers 2023 lista essa interação fármaco-doença, e domperidona e ondansetrona são as opções antieméticas. No delirium, antipsicótico não previne nem encurta o quadro e é evitado no Parkinson. Benzodiazepínico piora o delirium, exceto na abstinência.",
+  "porAlt": [
+   "Errada: omitir levodopa pode desencadear a síndrome de hiperpirexia-parkinsonismo.",
+   "Errada: antipsicótico não encurta o delirium, e o haloperidol piora o parkinsonismo.",
+   "Correta: levodopa sem omissão; haloperidol e metoclopramida devem ser evitados no Parkinson.",
+   "Errada: benzodiazepínico piora o delirium e só tem lugar na abstinência.",
+   "Errada: a metoclopramida piora o Parkinson; as opções são domperidona e ondansetrona."
+  ]
+ },
+ {
+  "q": "Mulher de 82 anos, internada há cinco dias, teve delirium por hiponatremia, ainda em correção, com flutuação da atenção ao longo do dia. A filha pede que a equipe aplique \"logo o teste de memória\" para saber se a mãe tem Alzheimer, pois notou esquecimentos leves no último ano. Qual conduta a enfermeira deve propor?",
+  "alts": [
+   "Aplicar o miniexame agora e usar corte único para confirmar demência.",
+   "Registrar demência de Alzheimer pelo relato de esquecimento da filha.",
+   "Aplicar o miniexame à noite, quando a atenção costuma estar menor.",
+   "Descartar demência, pois o quadro atual se explica só pelo delirium.",
+   "Tratar a causa e adiar a investigação de demência até o delirium ceder."
+  ],
+  "gab": 4,
+  "tema": "idoso",
+  "sub": "Demências e delirium",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "NICE CG103 (Delirium, 2023); Brucki et al., Miniexame do estado mental no Brasil (2003)",
+  "coment": "Demência não se diagnostica no meio de um delirium: a desatenção e a flutuação do delirium derrubam qualquer teste cognitivo e levam a falso diagnóstico. Primeiro trata-se a causa, aqui a hiponatremia, e a investigação cognitiva é feita depois que o delirium resolver. Os esquecimentos do último ano merecem investigação, porque delirium é mais frequente em quem já tem declínio cognitivo, e por isso também não se pode descartar demência. O miniexame é muito dependente da escolaridade (Brucki, 2003), e corte único erra para os dois lados. Registra-se a cognição prévia relatada pelo informante.",
+  "porAlt": [
+   "Errada: teste cognitivo no auge do delirium é inválido, e corte único do miniexame erra para os dois lados.",
+   "Errada: o relato do informante orienta a investigação, mas não fecha diagnóstico de demência.",
+   "Errada: aplicar o teste no pior momento da atenção aumenta o erro, em vez de corrigi-lo.",
+   "Errada: os esquecimentos anteriores pedem investigação depois; delirium não exclui demência de base.",
+   "Correta: trata-se a causa e a avaliação de demência fica para depois que o delirium resolver."
+  ]
+ },
+ {
+  "q": "Mulher de 78 anos com doença de Alzheimer leve iniciou donepezila há três semanas. Na consulta, refere tontura e duas quase quedas. A enfermeira registra FC de 48 bpm, ritmo regular, e PA de 118/70 mmHg; ela também perdeu um pouco o apetite. Qual é a interpretação mais adequada da enfermeira?",
+  "alts": [
+   "Bradicardia é efeito adverso esperado do inibidor da colinesterase: avisar o prescritor.",
+   "Frequência de 48 bpm é esperada no idoso e dispensa a comunicação ao médico.",
+   "A tontura indica piora da demência e pede aumento da dose da donepezila em uso.",
+   "A donepezila é antagonista do receptor NMDA e não causa efeito sobre o coração.",
+   "Suspender a donepezila por conta própria e orientar repouso absoluto no leito."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Demências e delirium",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "PCDT da Doença de Alzheimer (Portaria Conjunta SAES/SECTICS/MS 27/2025)",
+  "coment": "No SUS, o PCDT da Doença de Alzheimer (2025) usa donepezila, galantamina e rivastigmina, inibidores da acetilcolinesterase, e memantina, antagonista do receptor NMDA. O ganho é sintomático e modesto. Os efeitos adversos esperados dos inibidores da acetilcolinesterase são náusea, diarreia, perda de peso e bradicardia, pelo aumento do tônus colinérgico. FC de 48 bpm com tontura e quase quedas, três semanas após o início, é efeito adverso relevante: a enfermeira registra, orienta prevenção de quedas e comunica o prescritor, que decide sobre a dose. A perda de apetite também entra na conta do fármaco.",
+  "porAlt": [
+   "Correta: bradicardia com tontura é efeito esperado dos inibidores da acetilcolinesterase e pede comunicação.",
+   "Errada: 48 bpm com tontura e quase quedas não é achado normal e precisa ser comunicado.",
+   "Errada: os sintomas surgiram após o fármaco e apontam efeito adverso, não piora da doença.",
+   "Errada: a donepezila é inibidor da acetilcolinesterase; antagonista NMDA é a memantina.",
+   "Errada: a suspensão é decisão do prescritor, e repouso absoluto aumenta a imobilidade."
+  ]
+ },
+ {
+  "q": "Mulher de 79 anos, internada por celulite em membro inferior, queixa-se de insônia na segunda noite. Há prescrição de zolpidem 10 mg se necessário. Ela já se levantou sozinha de madrugada para ir ao banheiro e está um pouco desorientada quanto ao dia. Pelos critérios de Beers 2023, qual é a conduta mais adequada da enfermeira?",
+  "alts": [
+   "Dar o zolpidem, alternativa segura aos benzodiazepínicos no idoso.",
+   "Trocar por difenidramina, anti-histamínico com menos risco de queda.",
+   "Dar e manter o zolpidem na alta para garantir o sono em casa.",
+   "Usar medidas de sono e avisar o prescritor: drogas Z são a evitar.",
+   "Dar o zolpidem, pois os critérios de Beers começam aos 80 anos."
+  ],
+  "gab": 3,
+  "tema": "idoso",
+  "sub": "Polifarmácia",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Critérios de Beers da American Geriatrics Society, atualização 2023",
+  "coment": "Os critérios de Beers da American Geriatrics Society (2023) listam medicamentos potencialmente inapropriados a partir dos 65 anos. Benzodiazepínicos e drogas Z, como zolpidem e zopiclona, estão na lista de evitar (recomendação forte, qualidade moderada), por aumentarem quedas, fraturas e delirium. Anti-histamínicos de primeira geração, como difenidramina, também estão. A paciente já levanta sozinha à noite e mostra desorientação: o risco é ainda maior. A enfermeira usa medidas não farmacológicas de sono, avalia dor e necessidade de urinar e comunica o prescritor quando um item de Beers aparece. Hipnótico da internação não segue para casa.",
+  "porAlt": [
+   "Errada: drogas Z estão no Beers 2023 junto com os benzodiazepínicos, como medicamentos a evitar.",
+   "Errada: difenidramina é anti-histamínico de primeira geração, também a evitar pelo Beers.",
+   "Errada: além de ser item a evitar, hipnótico iniciado na internação não deve seguir para casa.",
+   "Correta: zolpidem é droga Z a evitar no idoso; medidas de sono e comunicação ao prescritor.",
+   "Errada: os critérios de Beers se aplicam a partir dos 65 anos, não dos 80."
+  ]
+ },
+ {
+  "q": "Na revisão de medicamentos, a enfermeira nota que um homem de 74 anos iniciou anlodipina há três meses. Um mês depois surgiu edema de tornozelos e foi prescrita furosemida. Agora ele relata urgência para urinar e uma queda ao correr para o banheiro. Que mecanismo explica o aumento da lista e o problema novo?",
+  "alts": [
+   "Insuficiência cardíaca nova, que justifica manter e aumentar a furosemida.",
+   "Cascata de prescrição: efeito da anlodipina tratado com outro fármaco.",
+   "Interação entre anlodipina e furosemida que anula o efeito diurético.",
+   "Incontinência funcional da idade, sem relação com os medicamentos.",
+   "Polifarmácia apropriada, pois cada fármaco trata uma queixa diferente."
+  ],
+  "gab": 1,
+  "tema": "idoso",
+  "sub": "Polifarmácia",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Critérios de Beers da American Geriatrics Society, atualização 2023",
+  "coment": "Diante de sintoma novo em idoso medicado, a primeira hipótese é efeito adverso. A cascata de prescrição é o mecanismo mais comum de crescimento da lista: um efeito adverso é lido como doença nova e tratado com outro fármaco. O edema de tornozelo é efeito conhecido da anlodipina, e o exemplo clássico é justamente tratá-lo com furosemida, que por sua vez trouxe urgência urinária e uma queda. A enfermeira leva o achado ao prescritor, que pode reavaliar a anlodipina. Polifarmácia é o uso regular de cinco ou mais medicamentos, e o alvo é a polifarmácia inapropriada, não o número em si.",
+  "porAlt": [
+   "Errada: o edema surgiu logo após a anlodipina, efeito conhecido do fármaco, sem dados de insuficiência cardíaca.",
+   "Correta: o edema da anlodipina foi tratado com furosemida, que gerou urgência urinária e queda.",
+   "Errada: o problema não é perda de efeito diurético; a furosemida está causando a urgência.",
+   "Errada: a urgência surgiu depois do diurético; atribuir à idade é o erro clássico.",
+   "Errada: um fármaco tratando o efeito adverso de outro é polifarmácia inapropriada."
+  ]
+ },
+ {
+  "q": "Mulher de 72 anos traz à consulta as caixas dos remédios em uso: losartana, metformina, sinvastatina, paracetamol se dor e omeprazol 20 mg diário há três anos, iniciado numa internação, sem esofagite, sem úlcera e sem uso de anti-inflamatório. Pelos critérios de Beers 2023, qual item a enfermeira deve levar ao prescritor?",
+  "alts": [
+   "O omeprazol, programado há mais de 8 semanas sem indicação de alto risco.",
+   "A metformina, que o Beers contraindica pela idade a partir dos 65 anos.",
+   "O paracetamol, que deve ser evitado em qualquer dose depois dos 65 anos.",
+   "A sinvastatina, listada no Beers como inapropriada para o idoso.",
+   "A losartana, que o Beers manda evitar em hipertensos acima de 70 anos."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Polifarmácia",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Critérios de Beers da American Geriatrics Society, atualização 2023",
+  "coment": "Os critérios de Beers 2023 listam o inibidor de bomba de prótons programado por mais de 8 semanas, sem indicação de alto risco, como medicamento a evitar (recomendação forte, qualidade alta a moderada). O uso prolongado se associa a infecção por Clostridioides difficile, perda óssea e fraturas. O omeprazol desta paciente foi iniciado numa internação e nunca reavaliado, sem esofagite, úlcera ou anti-inflamatório: candidato à desprescrição pelo médico. A conciliação com as caixas trazidas é papel do enfermeiro, que comunica ao prescritor quando um item de Beers aparece. Os outros fármacos citados não estão na lista de evitar.",
+  "porAlt": [
+   "Correta: inibidor de bomba de prótons programado por mais de 8 semanas sem indicação de alto risco é item do Beers.",
+   "Errada: a metformina não é contraindicada pela idade e não consta da lista de evitar do Beers.",
+   "Errada: o paracetamol não está na lista de evitar do Beers e é analgésico de primeira linha no idoso.",
+   "Errada: a sinvastatina não consta da lista de medicamentos a evitar do Beers 2023.",
+   "Errada: o Beers não lista a losartana como medicamento a evitar pela idade."
+  ]
+ },
+ {
+  "q": "Homem de 80 anos com diabetes tipo 2, internado por infecção respiratória, teve a metformina suspensa. A prescrição atual contém apenas insulina regular conforme a glicemia capilar, sem insulina basal. A enfermeira revisa a prescrição à luz dos critérios de Beers 2023. Qual é a avaliação correta?",
+  "alts": [
+   "Esquema adequado, pois a escala móvel isolada evita hipoglicemia.",
+   "Esquema adequado, desde que a glicemia seja medida uma vez ao dia.",
+   "Inadequado, pois o Beers proíbe qualquer insulina após os 75 anos.",
+   "Inadequado, pois o idoso internado deve usar antidiabético oral.",
+   "Escala móvel sem basal é item a evitar: discutir com o prescritor."
+  ],
+  "gab": 4,
+  "tema": "idoso",
+  "sub": "Polifarmácia",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Critérios de Beers da American Geriatrics Society, atualização 2023",
+  "coment": "Os critérios de Beers 2023 listam a insulina em escala móvel isolada, sem insulina basal ou de ação prolongada, como medicamento a evitar no idoso (recomendação forte, qualidade moderada). O esquema só reativo trata a hiperglicemia depois que ela acontece e eleva o risco de hipoglicemia sem melhorar o controle, sobretudo em quem come de forma irregular durante a doença aguda. O Beers não proíbe insulina pela idade; o problema é usar a escala sozinha. A enfermeira mantém a monitorização da glicemia capilar, registra os valores e leva ao prescritor a discussão de um esquema com componente basal.",
+  "porAlt": [
+   "Errada: a escala móvel isolada aumenta o risco de hipoglicemia sem melhorar o controle.",
+   "Errada: o problema é o esquema sem insulina basal, e uma glicemia diária não o corrige.",
+   "Errada: o Beers não proíbe insulina pela idade; o item a evitar é a escala móvel isolada.",
+   "Errada: o Beers não exige antidiabético oral; a insulina com componente basal é opção adequada.",
+   "Correta: insulina em escala móvel sem basal é item a evitar do Beers 2023 e pede revisão."
+  ]
+ },
+ {
+  "q": "Mulher de 83 anos, no pós-operatório de artroplastia de joelho, recebe morfina por via oral e pregabalina, que já usava para dor neuropática. A prescrição inclui ainda clonazepam para dormir. No plantão noturno, está sonolenta, com FR de 11 irpm e SpO2 de 93%. Pelos critérios de Beers 2023, qual análise fundamenta a comunicação imediata ao médico?",
+  "alts": [
+   "A morfina é segura no idoso, e o problema está na dose de pregabalina.",
+   "A sonolência é esperada no pós-operatório e não pede comunicação.",
+   "Opioide com benzodiazepínico ou pregabalina é associação a evitar.",
+   "O risco vem do clonazepam, pois a pregabalina não seda o paciente.",
+   "Trocar o clonazepam por difenidramina elimina o risco de sedação."
+  ],
+  "gab": 2,
+  "tema": "idoso",
+  "sub": "Polifarmácia",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "tit",
+  "base": "Critérios de Beers da American Geriatrics Society, atualização 2023",
+  "coment": "O Beers 2023 lista como associações a evitar o opioide com benzodiazepínico e o opioide com gabapentina ou pregabalina (recomendação forte), pelo risco de depressão respiratória e sedação excessiva. A paciente recebe as três classes ao mesmo tempo e já mostra sonolência com frequência respiratória baixa e saturação em queda. A enfermeira monitoriza nível de consciência, frequência respiratória e saturação, mantém a paciente sob observação próxima e comunica o médico de imediato para revisão da prescrição. Difenidramina também é sedativa e consta do Beers. Benzodiazepínico isolado já é item a evitar no idoso.",
+  "porAlt": [
+   "Errada: o risco está na associação; opioide somado a sedativos deprime a respiração.",
+   "Errada: sonolência com FR de 11 irpm é sinal de depressão respiratória e exige comunicação.",
+   "Correta: opioide com benzodiazepínico ou com pregabalina é associação a evitar pelo Beers 2023.",
+   "Errada: a pregabalina também deprime o sistema nervoso central e potencializa o opioide.",
+   "Errada: a difenidramina é sedativa e anticolinérgica, também listada como a evitar."
+  ]
+ },
+ {
+  "q": "Homem de 81 anos recebe alta após pneumonia complicada por delirium, resolvido há quatro dias. A prescrição de alta mantém haloperidol à noite, iniciado no delirium, e zolpidem, prescrito na primeira noite de internação. Na conciliação medicamentosa com as caixas trazidas pela esposa, o que a enfermeira deve fazer?",
+  "alts": [
+   "Manter os dois na alta, pois a retirada provoca recaída do delirium.",
+   "Manter o zolpidem e suspender o haloperidol por conta própria.",
+   "Orientar a esposa a usar os dois nas noites em que ele ficar agitado.",
+   "Questionar com o prescritor a retirada do haloperidol e do zolpidem.",
+   "Manter o haloperidol e trocar o zolpidem por difenidramina em casa."
+  ],
+  "gab": 3,
+  "tema": "idoso",
+  "sub": "Polifarmácia",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Critérios de Beers da American Geriatrics Society, atualização 2023; NICE CG103 (Delirium, 2023)",
+  "coment": "Na alta, hipnótico iniciado na primeira noite e antipsicótico do delirium já resolvido não seguem para casa. O antipsicótico no delirium é usado por pouco tempo, só para sofrimento importante ou risco após falha da desescalada, e não previne recaída. Zolpidem é droga Z, a evitar no idoso pelo Beers 2023, assim como a difenidramina. A conciliação medicamentosa na alta, com todas as caixas, é papel do enfermeiro, que aponta a discrepância ao prescritor antes da saída. Suspender por conta própria ou deixar a família decidir \"se precisar\" não resolve: a decisão é do prescritor, documentada na receita.",
+  "porAlt": [
+   "Errada: antipsicótico não previne recaída do delirium, e hipnótico de internação não segue para casa.",
+   "Errada: o zolpidem também deve sair, e a suspensão é decisão do prescritor.",
+   "Errada: deixar uso \"se agitado\" mantém em casa fármacos a evitar sem critério definido.",
+   "Correta: na conciliação, a enfermeira leva ao prescritor a retirada dos dois antes da alta.",
+   "Errada: a difenidramina é anti-histamínico de primeira geração, também a evitar pelo Beers."
+  ]
+ },
+ {
+  "q": "Homem de 74 anos com insuficiência cardíaca avançada, internações repetidas e dispneia aos pequenos esforços segue em tratamento com o cardiologista. Na reunião da equipe de Saúde da Família, um profissional afirma que cuidado paliativo só cabe a pacientes com câncer que já pararam o tratamento. Pela Política Nacional de Cuidados Paliativos, o que a enfermeira deve responder?",
+  "alts": [
+   "Está correto, pois a política se restringe aos pacientes oncológicos.",
+   "Deve começar já, junto ao tratamento da doença, em qualquer condição.",
+   "Cabe depois que o cardiologista suspender o tratamento da doença.",
+   "Só cabe nos últimos dias de vida, em leito hospitalar especializado.",
+   "Depende de decisão judicial, por envolver limitação de tratamento."
+  ],
+  "gab": 1,
+  "tema": "idoso",
+  "sub": "Cuidados paliativos",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 3.681/2024 (Política Nacional de Cuidados Paliativos)",
+  "coment": "A Portaria GM/MS 3.681, de 7 de maio de 2024, instituiu a Política Nacional de Cuidados Paliativos e define cuidado paliativo como ações e serviços para alívio da dor, do sofrimento e de outros sintomas em pessoas com doenças que ameaçam ou limitam a continuidade da vida, estendidos à família e aos cuidadores. Dois pontos derrubam a fala do colega: o cuidado é oferecido a qualquer condição que ameace a vida, não só ao câncer, e começa precocemente, junto com o tratamento da doença. Insuficiência cardíaca avançada com internações repetidas é indicação clara, e a atenção primária coordena esse cuidado.",
+  "porAlt": [
+   "Errada: a política alcança qualquer doença que ameace ou limite a vida, não só o câncer.",
+   "Correta: o cuidado paliativo começa cedo, junto ao tratamento da doença, em qualquer condição.",
+   "Errada: o paliativo não espera a suspensão do tratamento; os dois caminham juntos.",
+   "Errada: não se restringe aos últimos dias nem ao hospital; a atenção primária coordena.",
+   "Errada: a política não exige decisão judicial para oferecer cuidado paliativo."
+  ]
+ },
+ {
+  "q": "Mulher de 69 anos com câncer de pulmão metastático tem a dor física controlada com morfina, mas chora com frequência, preocupa-se com as dívidas da casa e diz sentir-se abandonada por Deus. A residente de enfermagem registra que \"a dor está resolvida\". Pelo conceito de dor total da Política Nacional de Cuidados Paliativos, qual registro está correto?",
+  "alts": [
+   "Dor resolvida, pois a intensidade física está controlada com morfina.",
+   "Dor física controlada; as outras queixas fogem do cuidado paliativo.",
+   "Dor total presente quando o escore numérico da dor física passa de 7.",
+   "Sofrimento espiritual isolado, a ser tratado pelo capelão do hospital.",
+   "Dor total persistente, nas dimensões psicoemocional, social e espiritual."
+  ],
+  "gab": 4,
+  "tema": "idoso",
+  "sub": "Cuidados paliativos",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 3.681/2024 (Política Nacional de Cuidados Paliativos)",
+  "coment": "A Política Nacional de Cuidados Paliativos (Portaria GM/MS 3.681/2024) orienta o cuidado pela dor total, que tem dimensões física, psicoemocional, espiritual e social. Controlar a dor física com morfina é parte do plano, mas a paciente segue com choro frequente (psicoemocional), preocupação com dívidas (social) e sentimento de abandono por Deus (espiritual). Registrar \"dor resolvida\" apaga essas dimensões e interrompe o cuidado. O registro correto descreve cada dimensão e aciona a equipe: psicologia, serviço social e apoio espiritual conforme o desejo da paciente, com a enfermagem coordenando o plano junto à família.",
+  "porAlt": [
+   "Errada: o controle da dor física não resolve a dor total, que tem outras dimensões.",
+   "Errada: sofrimento emocional, social e espiritual faz parte do cuidado paliativo.",
+   "Errada: a dor total não depende de escore numérico da dor física.",
+   "Errada: há também sofrimento emocional e social, e o cuidado é de toda a equipe.",
+   "Correta: a dor física cedeu, mas persistem as dimensões psicoemocional, social e espiritual."
+  ]
+ },
+ {
+  "q": "Mulher de 88 anos com doença de Alzheimer em fase avançada, acamada e sem comunicação verbal, passou a recusar alimentos e engasga com frequência durante as refeições. A família pergunta à enfermeira se a sonda de alimentação vai prolongar a vida e trazer conforto. Pela American Geriatrics Society, qual é a orientação correta?",
+  "alts": [
+   "Alimentação cuidadosa à mão equivale à sonda em sobrevida e conforto.",
+   "A sonda deve ser passada já, pois prolonga a vida na demência avançada.",
+   "A gastrostomia elimina o risco de aspiração e deve ser indicada logo.",
+   "A recusa alimentar é passageira e pede suplemento por via oral.",
+   "A alimentação deve ser suspensa, pois a deglutição já não é segura."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Cuidados paliativos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "American Geriatrics Society, posicionamento sobre sonda de alimentação na demência avançada (2014)",
+  "coment": "Na demência avançada, a dificuldade para comer marca a fase final da doença. A American Geriatrics Society (2014) não recomenda sonda de alimentação nesse cenário, porque a alimentação cuidadosa à mão é equivalente em sobrevida e conforto, sem os riscos da sonda, como agitação, contenção e lesões. A sonda não elimina a aspiração, que também ocorre com secreções e refluxo. O enfermeiro orienta a família sobre consistência, posição e ritmo, oferece alimento pelo prazer e conforto, cuida da boca, da pele e do posicionamento, prepara a família e registra o plano de cuidado combinado com a equipe.",
+  "porAlt": [
+   "Correta: a AGS (2014) aponta a alimentação cuidadosa à mão como equivalente à sonda em sobrevida e conforto.",
+   "Errada: na demência avançada a sonda não prolonga a vida em relação à alimentação à mão.",
+   "Errada: gastrostomia não elimina a aspiração, que também ocorre por secreção e refluxo.",
+   "Errada: a dificuldade para comer na demência avançada marca a fase final, não é passageira.",
+   "Errada: a alimentação cuidadosa à mão segue indicada, com foco em prazer e conforto."
+  ]
+ },
+ {
+  "q": "Homem de 80 anos com DPOC avançada, em oxigenoterapia domiciliar e com duas internações no último semestre, deseja permanecer em casa. A família não sabe a que serviço recorrer para organizar o cuidado paliativo e o controle dos sintomas. Pela Política Nacional de Cuidados Paliativos, qual ponto da rede deve coordenar esse cuidado?",
+  "alts": [
+   "O hospital de referência, que assume o paciente após cada internação.",
+   "O pronto-socorro, porta de entrada nas exacerbações da doença.",
+   "A atenção primária à saúde, como coordenadora do cuidado na rede.",
+   "O serviço de oncologia, responsável por toda a política paliativa.",
+   "A própria família, que organiza sozinha o cuidado em casa."
+  ],
+  "gab": 2,
+  "tema": "idoso",
+  "sub": "Cuidados paliativos",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 3.681/2024 (Política Nacional de Cuidados Paliativos)",
+  "coment": "A Portaria GM/MS 3.681/2024, que instituiu a Política Nacional de Cuidados Paliativos, coloca a atenção primária como coordenadora do cuidado, com início precoce, oferta a qualquer condição que ameace a vida e respeito às diretivas antecipadas. Para o homem com DPOC avançada que deseja ficar em casa, a equipe de Saúde da Família organiza o plano, acompanha sintomas e articula atenção domiciliar, ambulatório e hospital quando necessário. O pronto-socorro atende exacerbações, mas não coordena. A política não é exclusiva da oncologia, e a família é parte do cuidado, sem ficar sozinha.",
+  "porAlt": [
+   "Errada: o hospital participa da rede, mas a coordenação do cuidado é da atenção primária.",
+   "Errada: o pronto-socorro atende crises, mas não coordena o cuidado continuado.",
+   "Correta: a política coloca a atenção primária como coordenadora do cuidado paliativo.",
+   "Errada: a política vale para qualquer condição que ameace a vida, não só para o câncer.",
+   "Errada: a família recebe cuidado e apoio da equipe; não organiza o cuidado sozinha."
+  ]
+ },
+ {
+  "q": "Homem de 77 anos morreu em casa, acompanhado pela equipe de Saúde da Família, após meses de cuidado paliativo por câncer de próstata. A esposa, que foi a cuidadora principal, procura a unidade duas semanas depois com insônia e choro diário. Pela Política Nacional de Cuidados Paliativos, qual deve ser a postura da equipe?",
+  "alts": [
+   "Encerrar o acompanhamento, pois o cuidado paliativo acaba com o óbito.",
+   "Acolher a esposa no luto, pois o cuidado se estende à família e ao cuidador.",
+   "Encaminhar direto ao psiquiatra, pois choro diário indica transtorno.",
+   "Prescrever hipnótico pela enfermagem para tratar a insônia do luto.",
+   "Orientar que volte a procurar apoio se os sintomas durarem mais de um ano."
+  ],
+  "gab": 1,
+  "tema": "idoso",
+  "sub": "Cuidados paliativos",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 3.681/2024 (Política Nacional de Cuidados Paliativos)",
+  "coment": "Pela Portaria GM/MS 3.681/2024, o cuidado paliativo alivia dor, sofrimento e outros sintomas da pessoa com doença que ameaça a vida e se estende à família e aos cuidadores, incluindo o acolhimento ao luto. O cuidado não termina com o óbito. A esposa, cuidadora principal, procura a unidade duas semanas depois com insônia e choro: a equipe acolhe, escuta, avalia sinais de risco e acompanha o luto, acionando outros profissionais se houver sinal de complicação. Encaminhar automaticamente ao psiquiatra medicaliza o luto, e prescrever hipnótico não é atribuição da enfermagem.",
+  "porAlt": [
+   "Errada: o cuidado paliativo inclui o acolhimento ao luto da família depois do óbito.",
+   "Correta: a política estende o cuidado à família e ao cuidador, com acolhimento ao luto.",
+   "Errada: choro duas semanas após a perda é esperado no luto e pede acolhimento antes de encaminhar.",
+   "Errada: prescrever hipnótico não é atribuição da enfermagem, e o luto pede acolhimento.",
+   "Errada: o acolhimento ao luto começa agora, sem esperar um ano de sintomas."
   ]
  }
 ]

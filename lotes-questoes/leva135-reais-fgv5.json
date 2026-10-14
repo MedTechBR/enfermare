@@ -1,0 +1,1506 @@
+[
+ {
+  "q": "Assinale a opção que corresponde a um sinal semiológico que possui várias funcionalidades, podendo ser avaliado em casos de suspeitas de irritação meníngea, radiculopatias e hemorragias subaracnóideas.",
+  "alts": [
+   "Kernig.",
+   "Murphy.",
+   "Romberg.",
+   "Blumberg.",
+   "Grey-Turner."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto, Semiologia Médica, 8ª ed., 2019 (exame neurológico: sinais de irritação meníngea e radicular)",
+  "coment": "O sinal de Kernig é pesquisado com o paciente em decúbito dorsal: flexiona-se a coxa sobre o quadril a 90 graus e tenta-se estender a perna. Dor e resistência à extensão indicam estiramento das meninges e das raízes lombossacras. Por isso o mesmo sinal serve à suspeita de meningite e de hemorragia subaracnóidea (irritação meníngea) e às radiculopatias, em especial a ciática, daí as 'várias funcionalidades' do enunciado. Os demais sinais pertencem ao exame abdominal (Murphy, Blumberg, Grey-Turner) ou ao equilíbrio (Romberg).",
+  "porAlt": [
+   "Correta: a resistência dolorosa à extensão da perna com a coxa fletida indica irritação meníngea ou radicular, útil em meningite, hemorragia subaracnóidea e radiculopatia.",
+   "Errada: Murphy é a parada da inspiração por dor à palpação do hipocôndrio direito, sinal de colecistite.",
+   "Errada: Romberg avalia o equilíbrio com pés juntos e olhos fechados, separando ataxia sensitiva de cerebelar.",
+   "Errada: Blumberg é a dor à descompressão brusca do abdome, indicando irritação peritoneal.",
+   "Errada: Grey-Turner é a equimose nos flancos por hemorragia retroperitoneal, como na pancreatite necro-hemorrágica."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 67,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Ao avaliar um paciente idoso, o enfermeiro observou que o paciente andava “como um bloco enrijecido, sem o movimento automático dos braços e com a cabeça inclinada para frente”.\nEssas são características da marcha",
+  "alts": [
+   "atáxica.",
+   "anserina.",
+   "paraparética.",
+   "helicópode.",
+   "parkinsoniana."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto, Semiologia Médica, 8ª ed., 2019 (tipos de marcha)",
+  "coment": "A marcha parkinsoniana resulta da rigidez e da bradicinesia: o paciente anda 'em bloco', com o tronco e a cabeça inclinados para frente, passos curtos e arrastados e perda do balanço automático dos braços; pode acelerar sem conseguir parar (festinação). É a descrição literal do enunciado. Na avaliação do idoso, reconhecer o padrão de marcha orienta o risco de queda e a investigação da causa, o que entra na avaliação de enfermagem e no plano de prevenção de quedas.",
+  "porAlt": [
+   "Errada: a marcha atáxica (cerebelar ou sensitiva) é de base alargada, ebriosa e instável, sem rigidez em bloco.",
+   "Errada: a anserina é a marcha 'de pato', com balanço lateral da pelve por fraqueza da musculatura proximal.",
+   "Errada: a paraparética é espástica, com as pernas rígidas e em tesoura, por lesão medular ou cerebral bilateral.",
+   "Errada: a helicópode (ceifante) é a da hemiplegia: o membro inferior rígido descreve um semicírculo ao avançar.",
+   "Correta: corpo em bloco, tronco e cabeça fletidos e ausência do balanço dos braços caracterizam a marcha parkinsoniana."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 68,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as disposições do Código de Ética de Enfermagem, é considerada uma infração moderada aquela que",
+  "alts": [
+   "causar dano moral irremediável.",
+   "difamar organizações da categoria.",
+   "provocar a debilidade permanente de sentido.",
+   "provocar a debilidade temporária de membro.",
+   "ofender a integridade física sem causar debilidade."
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017, art. 111, §§ 1º a 4º",
+  "coment": "O art. 111 do Código de Ética gradua as infrações pelo dano causado. Leves: ofendem a integridade física, mental ou moral sem causar debilidade, ou difamam organizações da categoria ou instituições. Moderadas: provocam debilidade temporária de membro, sentido ou função (§ 2º). Graves: perigo de morte, debilidade permanente de membro, sentido ou função, ou dano moral irremediável. Gravíssimas: morte, deformidade permanente, perda ou inutilização de membro, sentido ou função. A palavra que separa moderada de grave é temporária x permanente.",
+  "porAlt": [
+   "Errada: dano moral irremediável está entre as infrações graves, não moderadas.",
+   "Errada: difamar organizações da categoria ou instituições é infração leve (art. 111, § 1º).",
+   "Errada: debilidade permanente de membro, sentido ou função caracteriza infração grave.",
+   "Correta: debilidade temporária de membro, sentido ou função define a infração moderada (art. 111, § 2º).",
+   "Errada: ofender a integridade física sem causar debilidade é infração leve."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 69,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um dos deveres do profissional de enfermagem é prestar assistência livre de danos decorrentes de imperícia, negligência ou imprudência.\nNesse caso, um exemplo de ação praticada com imperícia é",
+  "alts": [
+   "omissão de socorro.",
+   "administrar medicamento na hora errada.",
+   "esquecer o garrote no braço do paciente.",
+   "deixar de usar equipamento de proteção individual.",
+   "realizar um procedimento usando técnica inadequada."
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Responsabilidade civil, penal e ética",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017, art. 45; Código Penal, art. 18, II",
+  "coment": "O art. 45 do Código de Ética impõe o dever de prestar assistência livre de danos decorrentes de imperícia, negligência ou imprudência, as três modalidades de culpa do Código Penal (art. 18, II). Imperícia é falta de habilidade ou conhecimento técnico: fazer mal o que se propôs a fazer, como executar o procedimento com técnica inadequada. Negligência é omissão, descuido ou esquecimento (deixar o garrote, não usar EPI, atrasar a medicação). Imprudência é agir com precipitação ou sem cautela. Omissão de socorro é crime próprio (CP, art. 135).",
+  "porAlt": [
+   "Errada: omissão de socorro é deixar de agir; é crime próprio do Código Penal e se aproxima da negligência, não da imperícia.",
+   "Errada: administrar na hora errada é falha de atenção e cuidado, típica de negligência.",
+   "Errada: esquecer o garrote é descuido, exemplo clássico de negligência.",
+   "Errada: deixar de usar EPI é omissão de cautela, negligência ou imprudência conforme o caso, e não falta de técnica.",
+   "Correta: executar procedimento com técnica inadequada revela falta de habilidade técnica, que é a definição de imperícia."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 70,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca da organização, da direção e da gestão do SUS, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) As ações e serviços de saúde, executados pelo Sistema Único de Saúde (SUS), seja diretamente ou mediante participação complementar da iniciativa privada, serão organizados de forma regionalizada e hierarquizada em níveis de complexidade crescente.\n( ) A direção do Sistema Único de Saúde (SUS) é única.\n( ) Os municípios poderão constituir consórcios para desenvolver em conjunto as ações e os serviços de saúde que lhes correspondam.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – V – V.",
+   "V – F – F.",
+   "F – V – V.",
+   "F – F – V.",
+   "V – F – V."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, arts. 8º, 9º e 10",
+  "coment": "As três afirmativas transcrevem a Lei 8.080/1990. O art. 8º diz que as ações e serviços do SUS, executados diretamente ou com participação complementar da iniciativa privada, são organizados de forma regionalizada e hierarquizada em níveis de complexidade crescente. O art. 9º fixa que a direção do SUS é única, exercida em cada esfera pelo Ministério da Saúde e pelas secretarias estaduais e municipais. O art. 10 permite aos municípios constituir consórcios para desenvolver em conjunto as ações e serviços que lhes correspondam.",
+  "porAlt": [
+   "Correta: as três afirmativas reproduzem os arts. 8º, 9º e 10 da Lei 8.080/1990.",
+   "Errada: a direção única (art. 9º) e os consórcios municipais (art. 10) estão previstos na lei.",
+   "Errada: a organização regionalizada e hierarquizada está no art. 8º, portanto a primeira é verdadeira.",
+   "Errada: a primeira e a segunda também são verdadeiras, conforme os arts. 8º e 9º.",
+   "Errada: a direção do SUS é única em cada esfera de governo (art. 9º), logo a segunda é verdadeira."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 31,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Acerca da gestão financeira do SUS, conforme estabelece a Lei 8.080/1990, avalie as afirmativas a seguir.\nI. Os recursos financeiros do Sistema Único de Saúde (SUS) serão depositados em conta especial, em cada esfera de sua atuação, e movimentados sob fiscalização dos respectivos Conselhos de Saúde.\nII. Na esfera federal, os recursos financeiros, originários do Orçamento da Seguridade Social, de outros Orçamentos da União, além de outras fontes, serão administrados pelo Ministério da Saúde, por meio do Fundo Nacional de Saúde.\nIII. O Ministério da Saúde acompanhará, através de seu sistema de auditoria, a conformidade à programação aprovada da aplicação dos recursos repassados a Estados e Municípios. Constatada a malversação, desvio ou não aplicação dos recursos, caberá ao Ministério da Saúde aplicar as medidas previstas em lei.\nIV. Fica vedada às autoridades responsáveis pela distribuição da receita efetivamente arrecadada a transferência automática ao Fundo Nacional de Saúde (FNS).\nEstá correto o que se afirma em",
+  "alts": [
+   "I e II, apenas.",
+   "III e IV, apenas.",
+   "I, II e III, apenas.",
+   "II, III e IV, apenas.",
+   "I, II, III e IV."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, arts. 33 e 34",
+  "coment": "O art. 33 da Lei 8.080 determina que os recursos do SUS sejam depositados em conta especial em cada esfera e movimentados sob fiscalização dos Conselhos de Saúde (I); que, na esfera federal, os recursos do Orçamento da Seguridade Social e de outras fontes sejam administrados pelo Ministério da Saúde por meio do Fundo Nacional de Saúde (II); e que o Ministério acompanhe, por seu sistema de auditoria, a aplicação dos recursos repassados, aplicando as medidas legais diante de malversação ou desvio (III). O item IV inverte o art. 34: as autoridades devem transferir automaticamente a receita ao FNS.",
+  "porAlt": [
+   "Errada: omite o item III, que reproduz a competência de auditoria do Ministério da Saúde prevista no art. 33.",
+   "Errada: o item IV é falso, e faltam I e II, que são transcrição do art. 33.",
+   "Correta: I, II e III reproduzem o art. 33; o IV contraria o art. 34, que manda transferir automaticamente ao FNS.",
+   "Errada: inclui o IV, que inverte a regra do art. 34, e exclui o I, que é verdadeiro.",
+   "Errada: o item IV é falso, porque a lei obriga a transferência automática ao FNS, não a veda."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 32,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Acerca do planejamento e do orçamento do SUS, as afirmativas a seguir estão corretas, à exceção de uma. Assinale-a.",
+  "alts": [
+   "O processo de planejamento e orçamento do Sistema Único de Saúde (SUS) será ascendente, do nível local até o federal, ouvidos seus órgãos deliberativos, compatibilizando-se as necessidades da política de saúde com a disponibilidade de recursos em planos de saúde dos Municípios, dos Estados, do Distrito Federal e da União.",
+   "Os planos de saúde serão a base das atividades e programações de cada nível de direção do Sistema Único de Saúde (SUS), e seu financiamento será previsto na respectiva proposta orçamentária.",
+   "É vedada a transferência de recursos para o financiamento de ações não previstas nos planos de saúde, exceto em situações emergenciais ou de calamidade pública, na área de saúde.",
+   "O Ministério da Saúde estabelecerá as diretrizes a serem observadas na elaboração dos planos de saúde, em função das características epidemiológicas e da organização dos serviços em cada jurisdição administrativa.",
+   "Não será permitida a destinação de subvenções e auxílios a instituições prestadoras de serviços de saúde com finalidade lucrativa."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, arts. 36, 37 e 38",
+  "coment": "A questão pede a exceção. O art. 36 traz o planejamento ascendente, do local ao federal, ouvidos os órgãos deliberativos (A); diz que os planos de saúde são a base das atividades de cada nível de direção, com financiamento previsto na proposta orçamentária (B); e veda transferir recursos para ações não previstas nos planos, salvo emergência ou calamidade pública na saúde (C). O art. 38 proíbe subvenções e auxílios a prestadores com finalidade lucrativa (E). O erro está em D: pelo art. 37, quem estabelece as diretrizes para elaborar os planos de saúde é o Conselho Nacional de Saúde, não o Ministério.",
+  "porAlt": [
+   "Errada como resposta: transcreve o caput do art. 36, planejamento ascendente do nível local até o federal.",
+   "Errada como resposta: reproduz o art. 36, § 1º, planos de saúde como base das programações de cada nível.",
+   "Errada como resposta: reproduz o art. 36, § 2º, com a ressalva das situações emergenciais ou de calamidade.",
+   "Correta: o art. 37 atribui ao Conselho Nacional de Saúde, e não ao Ministério da Saúde, estabelecer as diretrizes dos planos de saúde.",
+   "Errada como resposta: transcreve o art. 38, que proíbe subvenções e auxílios a instituições com fins lucrativos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 33,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Política Nacional de Humanização (PNH), também conhecida como HumanizaSUS, é uma política pública do Sistema Único de Saúde (SUS) que visa transformar as práticas de atenção e gestão na saúde, alicerçada nos seguintes princípios:",
+  "alts": [
+   "dissociação entre a atenção e a gestão dos processos de produção de saúde, segmentação e subordinação dos atores à direção única.",
+   "inseparabilidade entre a atenção e a gestão dos processos de produção de saúde, transversalidade e autonomia e protagonismo dos sujeitos.",
+   "dissociação entre a atenção e a gestão dos processos de produção de saúde, segmentação e autonomia e protagonismo dos sujeitos.",
+   "inseparabilidade entre a atenção e a gestão dos processos de produção de saúde, capilaridade estrutural e subordinação hierárquica.",
+   "gestão independente da atenção, ações dissociativas e subordinação estrutural."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Política Nacional de Humanização, HumanizaSUS (MS, 2003; documento base, 2013)",
+  "coment": "A PNH, lançada em 2003, tem três princípios: transversalidade (ampliar a comunicação entre grupos e saberes e transformar as relações de poder), indissociabilidade entre atenção e gestão (quem cuida também participa das decisões sobre a organização do trabalho) e protagonismo, corresponsabilidade e autonomia dos sujeitos e coletivos. A alternativa B reúne exatamente esses três. As demais trocam algum princípio por seu oposto: dissociação, segmentação, subordinação hierárquica.",
+  "porAlt": [
+   "Errada: dissociação, segmentação e subordinação são o contrário dos princípios da PNH.",
+   "Correta: inseparabilidade entre atenção e gestão, transversalidade e autonomia e protagonismo dos sujeitos são os três princípios da PNH.",
+   "Errada: acerta o protagonismo, mas a PNH defende a indissociabilidade entre atenção e gestão e a transversalidade.",
+   "Errada: acerta a inseparabilidade, mas 'subordinação hierárquica' contraria a autonomia e o protagonismo dos sujeitos.",
+   "Errada: gestão independente da atenção e subordinação estrutural negam todos os princípios da PNH."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 34,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Lei nº 8.142/1990 dispõe sobre a participação da comunidade na gestão do Sistema Único de Saúde (SUS) e sobre as transferências intergovernamentais de recursos financeiros na área da saúde e dá outras providências.\nAvalie, com base nessa lei, se os recursos do Fundo Nacional de Saúde (FNS) serão alocados como:\nI. despesas de custeio e de capital do Ministério da Saúde, seus órgãos e entidades, da administração direta e indireta.\nII. investimentos previstos em lei orçamentária, de iniciativa do Poder Legislativo e aprovados pelo Congresso Nacional.\nIII. investimentos previstos no Plano Quinquenal do Ministério da Saúde.\nIV. cobertura das ações e serviços de saúde a serem implementados pelos Municípios, Estados e Distrito Federal.\nEstão corretos os itens",
+  "alts": [
+   "I e II, apenas.",
+   "III e IV, apenas.",
+   "I, II e III, apenas.",
+   "II, III e IV, apenas.",
+   "I, II, III e IV."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.142/1990, art. 2º, incisos I a IV",
+  "coment": "O art. 2º da Lei 8.142/1990 enumera como serão alocados os recursos do Fundo Nacional de Saúde: I, despesas de custeio e de capital do Ministério da Saúde, seus órgãos e entidades da administração direta e indireta; II, investimentos previstos em lei orçamentária de iniciativa do Poder Legislativo e aprovados pelo Congresso Nacional; III, investimentos previstos no Plano Quinquenal do Ministério da Saúde; IV, cobertura das ações e serviços de saúde a serem implementados pelos Municípios, Estados e Distrito Federal. Os quatro itens são transcrição literal.",
+  "porAlt": [
+   "Errada: os itens III e IV também constam do art. 2º da Lei 8.142/1990.",
+   "Errada: os itens I e II também constam do art. 2º da Lei 8.142/1990.",
+   "Errada: falta o item IV, cobertura das ações e serviços de municípios, estados e DF, que está no inciso IV.",
+   "Errada: falta o item I, despesas de custeio e de capital do Ministério da Saúde, previsto no inciso I.",
+   "Correta: os quatro itens reproduzem os incisos I a IV do art. 2º da Lei 8.142/1990."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 35,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Resolução do Conselho Nacional de Saúde nº 553/2017 dispõe sobre a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde. Ela aprova a atualização da Carta dos Direitos e Deveres da Pessoa Usuária da Saúde que dispõe sobre as diretrizes dos Direitos e Deveres da Pessoa Usuária da Saúde.\nAvalie se tais diretrizes incluem:\nI. Toda pessoa tem direito, em tempo hábil, ao acesso a bens e serviços ordenados e organizados para garantia da promoção, prevenção, proteção, tratamento e recuperação da saúde.\nII. Toda pessoa tem direito ao atendimento integral, aos procedimentos adequados e em tempo hábil a resolver o seu problema de saúde, de forma ética e humanizada.\nIII. Toda pessoa tem direito ao atendimento inclusivo, humanizado e acolhedor, realizado por profissionais qualificados, em ambiente limpo, confortável e acessível.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CNS 553/2017 (Carta dos Direitos e Deveres da Pessoa Usuária da Saúde)",
+  "coment": "A Resolução CNS 553/2017 atualizou a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde. Suas diretrizes começam por três direitos que a questão transcreve: acesso, em tempo hábil, a bens e serviços ordenados e organizados para promoção, prevenção, proteção, tratamento e recuperação; atendimento integral, com procedimentos adequados e em tempo hábil, de forma ética e humanizada; e atendimento inclusivo, humanizado e acolhedor, por profissionais qualificados, em ambiente limpo, confortável e acessível. A carta segue com informação, consentimento, sigilo e também deveres do usuário.",
+  "porAlt": [
+   "Errada: os itens II e III também são diretrizes da Carta aprovada pela Resolução CNS 553/2017.",
+   "Errada: o item III, atendimento inclusivo, humanizado e acolhedor, também consta da Carta.",
+   "Errada: o item II, atendimento integral e em tempo hábil, também consta da Carta.",
+   "Errada: o item I, acesso em tempo hábil a bens e serviços ordenados, é a primeira diretriz da Carta.",
+   "Correta: os três itens reproduzem diretrizes da Carta dos Direitos e Deveres da Pessoa Usuária da Saúde."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 36,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com a Constituição Federal de 1988, no que se refere à Seguridade Social, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação.\n( ) São de relevância pública as ações e serviços de saúde, cabendo ao Poder Público dispor, nos termos da lei, sobre sua regulamentação, fiscalização e controle, devendo sua execução ser feita diretamente ou através de terceiros e, também, por pessoa física ou jurídica de direito privado.\n( ) As ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema único.\n( ) O sistema de saúde é organizado de acordo com as seguintes diretrizes: (i) centralização, com direção única em cada esfera de governo, (ii) atendimento parcial, com prioridade para as atividades assistenciais e (iii) participação da comunidade.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – V – V – V.",
+   "V – V – F – F.",
+   "F – F – V – V.",
+   "V – V – V – F.",
+   "V – V – F – V."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, arts. 196, 197 e 198",
+  "coment": "As três primeiras afirmativas transcrevem a Constituição: o art. 196 (saúde direito de todos e dever do Estado, com acesso universal e igualitário), o art. 197 (relevância pública, execução direta ou por terceiros, inclusive pessoa física ou jurídica de direito privado) e o caput do art. 198 (rede regionalizada e hierarquizada que constitui um sistema único). A quarta deturpa as diretrizes do art. 198: são descentralização, com direção única em cada esfera; atendimento integral, com prioridade para as atividades preventivas, sem prejuízo das assistenciais; e participação da comunidade.",
+  "porAlt": [
+   "Errada: a quarta afirmativa troca descentralização por centralização e atendimento integral por parcial.",
+   "Errada: a terceira é verdadeira, pois reproduz o caput do art. 198 (rede regionalizada e hierarquizada, sistema único).",
+   "Errada: as duas primeiras transcrevem os arts. 196 e 197 e são verdadeiras; a quarta é falsa.",
+   "Correta: as três primeiras reproduzem os arts. 196, 197 e 198, e a quarta deturpa as diretrizes do art. 198.",
+   "Errada: a terceira é verdadeira e a quarta é falsa, ao contrário do que a sequência indica."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 37,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A RDC nº 36, de 2013, institui ações para a segurança do paciente em serviços de saúde e dá outras providências.\nCom base na referida resolução, a aplicação sistêmica e contínua de políticas, procedimentos, condutas e recursos na identificação, análise, avaliação, comunicação e controle de riscos e eventos adversos que afetam a segurança, a saúde humana, a integridade profissional, o meio ambiente e a imagem institucional define:",
+  "alts": [
+   "gestão de risco.",
+   "segurança do paciente.",
+   "evento adverso.",
+   "incidente.",
+   "plano de segurança do paciente em serviços de saúde."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 3º (definições)",
+  "coment": "O art. 3º da RDC 36/2013 define gestão de risco como a aplicação sistêmica e contínua de políticas, procedimentos, condutas e recursos na identificação, análise, avaliação, comunicação e controle de riscos e eventos adversos que afetam a segurança, a saúde humana, a integridade profissional, o meio ambiente e a imagem institucional. As outras definições são diferentes: segurança do paciente é reduzir a um mínimo aceitável o risco de dano desnecessário; incidente é evento que poderia ter resultado ou resultou em dano; evento adverso é incidente que resulta em dano.",
+  "porAlt": [
+   "Correta: é a definição literal de gestão de risco no art. 3º da RDC 36/2013.",
+   "Errada: segurança do paciente é a redução, a um mínimo aceitável, do risco de dano desnecessário associado à atenção à saúde.",
+   "Errada: evento adverso é o incidente que resulta em dano à saúde.",
+   "Errada: incidente é o evento ou circunstância que poderia ter resultado, ou resultou, em dano desnecessário à saúde.",
+   "Errada: o Plano de Segurança do Paciente é o documento elaborado pelo NSP que descreve as estratégias de gestão de risco, não a definição dela."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 38,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A RDC nº 63, de 25/11/2011, dispõe sobre os Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde.\nCom base nessa resolução, acerca das Boas Práticas de Funcionamento (BPF), avalie as afirmativas a seguir.\nI. As Boas Práticas de Funcionamento (BPF) são os componentes da Garantia da Qualidade que asseguram que os serviços são ofertados com padrões de qualidade adequados.\nII. As BPF são orientadas primeiramente à redução dos riscos inerentes à prestação de serviços de saúde.\nIII. Os conceitos de Garantia da Qualidade e Boas Práticas de Funcionamento (BPF) estão inter-relacionados.\nIV. As BPF determinam que o serviço de saúde deve ser capaz de ofertar serviços dentro dos padrões de qualidade exigidos, atendendo aos requisitos das legislações e regulamentos vigentes.\nEstá correto o que se afirma em",
+  "alts": [
+   "I e II, apenas.",
+   "III e IV, apenas.",
+   "I, II e III, apenas.",
+   "II, III e IV, apenas.",
+   "I, II, III e IV."
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 63/2011 (Boas Práticas de Funcionamento para os Serviços de Saúde)",
+  "coment": "Na RDC 63/2011, as Boas Práticas de Funcionamento são definidas como os componentes da Garantia da Qualidade que asseguram que os serviços são ofertados com padrões de qualidade adequados (I). A norma acrescenta que as BPF são orientadas primeiramente à redução dos riscos inerentes à prestação de serviços de saúde (II), que os conceitos de Garantia da Qualidade e de BPF estão inter-relacionados (III) e que as BPF determinam que o serviço seja capaz de ofertar serviços dentro dos padrões de qualidade exigidos, atendendo às legislações e regulamentos vigentes (IV). Os quatro itens são transcrição.",
+  "porAlt": [
+   "Errada: os itens III e IV também transcrevem a RDC 63/2011.",
+   "Errada: os itens I e II também transcrevem a RDC 63/2011.",
+   "Errada: falta o item IV, que reproduz o que as BPF determinam ao serviço de saúde.",
+   "Errada: falta o item I, que é a própria definição de BPF na resolução.",
+   "Correta: os quatro itens reproduzem o texto da RDC 63/2011 sobre Boas Práticas de Funcionamento."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 39,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A RDC nº 63, de 25/11/2011, que dispõe sobre os Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde, estabelece, em relação ao prontuário do paciente, as seguintes disposições, à exceção de uma. Assinale-a.",
+  "alts": [
+   "A responsabilidade pelo registro em prontuário cabe aos profissionais de saúde que prestam o atendimento.",
+   "A guarda do prontuário é de responsabilidade do serviço de saúde, devendo obedecer às normas vigentes.",
+   "O serviço de saúde deve manter os prontuários em local seguro, em boas condições de conservação e organização, permitindo o seu acesso sempre que necessário.",
+   "O serviço de saúde deve garantir que o prontuário não contenha registros relativos à identificação e a procedimentos prestados ao paciente considerados sensíveis.",
+   "O serviço de saúde deve garantir que o prontuário seja preenchido de forma legível por todos os profissionais envolvidos diretamente na assistência ao paciente, com aposição de assinatura e carimbo em caso de prontuário em meio físico."
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Registro e documentação de enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 63/2011 (seção do prontuário do paciente)",
+  "coment": "A questão pede a exceção. Pela RDC 63/2011, o serviço deve garantir que o prontuário contenha registros relativos à identificação e a todos os procedimentos prestados ao paciente; a alternativa D inverte essa regra ao dizer que o prontuário 'não contenha' registros considerados sensíveis. As demais reproduzem a norma: o registro cabe aos profissionais que prestam o atendimento; a guarda é responsabilidade do serviço; o prontuário fica em local seguro e acessível; e deve ser legível, com assinatura e carimbo quando físico. Dado sensível se protege com sigilo, não com omissão.",
+  "porAlt": [
+   "Errada como resposta: a RDC atribui o registro aos profissionais de saúde que prestam o atendimento.",
+   "Errada como resposta: a guarda do prontuário é responsabilidade do serviço de saúde, conforme as normas vigentes.",
+   "Errada como resposta: a norma exige prontuário em local seguro, conservado, organizado e acessível quando necessário.",
+   "Correta: a RDC exige que o prontuário contenha a identificação e todos os procedimentos prestados; omitir registros contraria a norma.",
+   "Errada como resposta: a norma exige preenchimento legível por todos os envolvidos, com assinatura e carimbo no prontuário físico."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 40,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A estatística é uma ferramenta essencial na pesquisa em saúde, pois permite descrever dados e realizar inferências sobre populações a partir de amostras.\nCom base na aplicação da estatística em estudos epidemiológicos, é correto afirmar que",
+  "alts": [
+   "a estatística descritiva é usada apenas para testar hipóteses em pesquisas clínicas.",
+   "o valor p (p-valor) indica a magnitude do efeito observado entre duas variáveis.",
+   "a média é a única medida de tendência central recomendada em distribuições assimétricas.",
+   "o desvio-padrão mede a dispersão ou variabilidade dos valores em um conjunto de dados em relação à média.",
+   "a variância é uma medida de tendência central que expressa o valor mais frequente nos dados."
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Medronho et al., Epidemiologia, 2ª ed., 2009 (bioestatística descritiva)",
+  "coment": "O desvio-padrão é a raiz quadrada da variância e mede quanto os valores se afastam, em média, da média do conjunto: quanto maior, mais dispersos os dados. As outras alternativas confundem conceitos. A estatística descritiva resume dados (médias, proporções, gráficos); testar hipóteses é papel da inferencial. O valor p indica a probabilidade de observar um resultado tão extremo se a hipótese nula fosse verdadeira, e não o tamanho do efeito. Em distribuição assimétrica, a mediana descreve melhor o centro. O valor mais frequente é a moda; a variância é medida de dispersão.",
+  "porAlt": [
+   "Errada: a estatística descritiva resume e apresenta dados; o teste de hipóteses pertence à estatística inferencial.",
+   "Errada: o valor p expressa a compatibilidade dos dados com a hipótese nula, não a magnitude do efeito, que se mede por diferença, razão e intervalo de confiança.",
+   "Errada: em distribuição assimétrica a média é distorcida pelos extremos, e a mediana é a medida de tendência central preferida.",
+   "Correta: o desvio-padrão mede a dispersão dos valores em torno da média.",
+   "Errada: a variância é medida de dispersão; o valor mais frequente é a moda."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As medidas de frequência são fundamentais para descrever o comportamento das doenças em uma população.\nCom base na definição e aplicação dessas medidas, é correto afirmar que a incidência acumulada",
+  "alts": [
+   "mede o número total de casos, novos e antigos, em uma população, em um dado momento.",
+   "expressa a proporção de indivíduos inicialmente livres da doença que adoecem ao longo de um período definido.",
+   "é uma taxa que considera o tempo de seguimento individual de cada pessoa em risco.",
+   "representa o número de óbitos por uma determinada causa, dividido pela população total.",
+   "é uma medida transversal que não considera o fator tempo."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Medronho et al., Epidemiologia, 2ª ed., 2009 (medidas de frequência)",
+  "coment": "A incidência acumulada é uma proporção: número de casos novos no período dividido pelo número de pessoas inicialmente livres da doença e em risco no início do período. Estima o risco de adoecer em um intervalo definido, por isso exige especificar o tempo. Distingue-se da prevalência, que conta casos novos e antigos em um momento (medida transversal), e da densidade de incidência, que usa no denominador o tempo de seguimento de cada pessoa (pessoa-tempo). Óbitos por causa sobre a população é mortalidade específica.",
+  "porAlt": [
+   "Errada: casos novos e antigos em um momento definem a prevalência pontual.",
+   "Correta: a incidência acumulada é a proporção de pessoas inicialmente sem a doença que adoecem em um período definido, estimando o risco.",
+   "Errada: considerar o tempo de seguimento individual (pessoa-tempo) é a densidade de incidência, ou taxa de incidência.",
+   "Errada: óbitos por uma causa divididos pela população é o coeficiente de mortalidade específica.",
+   "Errada: a incidência é medida longitudinal e depende do período de observação; a transversal é a prevalência."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em uma unidade hospitalar foi identificado o aumento de casos de infecção do trato urinário associada ao uso de cateter vesical. Avalie se as diretrizes do Ministério da Saúde para prevenir esse tipo de infecção incluem:\nI. Estabelecer protocolos para inserção asséptica e manutenção do cateter, com capacitação da equipe de saúde.\nII. Realizar cultura urinária semanal em todos os pacientes com cateter, independentemente de sintomas.\nIII. Utilizar antibióticos profiláticos rotineiramente em todos os pacientes com cateter vesical.\nEstá correto o que se apresenta em",
+  "alts": [
+   "I, apenas.",
+   "II e III, apenas.",
+   "I e III, apenas.",
+   "II, apenas.",
+   "I, II e III."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Série Segurança do Paciente, Caderno 4), 2017",
+  "coment": "O Caderno 4 da ANVISA (2017) baseia a prevenção da infecção urinária associada a cateter em indicação criteriosa, inserção asséptica por profissional capacitado, sistema fechado, bolsa abaixo da bexiga e retirada precoce, com protocolos escritos e treinamento da equipe (item I). O mesmo manual não recomenda urocultura de rotina no paciente assintomático, porque a bacteriúria aparece em praticamente todos com o tempo e tratá-la seleciona resistência; também não recomenda antibiótico profilático rotineiro durante o uso do cateter.",
+  "porAlt": [
+   "Correta: só o item I é recomendado; protocolos de inserção asséptica e manutenção com capacitação são a base da prevenção.",
+   "Errada: cultura semanal em assintomático e antibiótico profilático de rotina não são recomendados pela ANVISA.",
+   "Errada: o item III é contraindicado; antibiótico profilático rotineiro não previne e seleciona resistência.",
+   "Errada: urocultura de rotina em paciente sem sintomas não é recomendada e induz tratamento de bacteriúria assintomática.",
+   "Errada: os itens II e III contrariam as recomendações do Caderno 4 da ANVISA."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Estatística Analítica é uma área essencial para a tomada de decisões baseada em dados, sendo amplamente utilizada na investigação científica.\nNesse sentido, uma aplicação correta da Estatística Analítica no contexto da análise de dados é",
+  "alts": [
+   "utilizar médias aritméticas para descrever tendências em dados assimétricos, sem considerar outros indicadores.",
+   "estimar parâmetros populacionais a partir de amostras por meio de intervalos de confiança e testes de hipóteses.",
+   "representar graficamente a distribuição dos dados como principal método para inferência estatística.",
+   "realizar testes estatísticos apenas quando toda a população tiver sido analisada, garantindo validade total dos resultados.",
+   "assumir que correlação entre duas variáveis implica uma relação de causa e efeito entre elas."
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Medronho et al., Epidemiologia, 2ª ed., 2009 (bioestatística inferencial)",
+  "coment": "A estatística analítica, ou inferencial, generaliza para a população o que foi observado em uma amostra. Suas ferramentas são a estimação de parâmetros por intervalo de confiança e os testes de hipóteses, que quantificam a incerteza decorrente da amostragem. Gráficos descrevem, não inferem. Se toda a população fosse estudada, não haveria o que inferir. Correlação não prova causalidade: a associação pode decorrer de confundimento, acaso ou causalidade reversa, e a inferência causal exige outros critérios.",
+  "porAlt": [
+   "Errada: em dados assimétricos a média isolada distorce a tendência central; além disso, isso é estatística descritiva.",
+   "Correta: estimar parâmetros populacionais a partir de amostras, com intervalos de confiança e testes de hipóteses, é a essência da estatística analítica.",
+   "Errada: a representação gráfica é ferramenta descritiva e não substitui os métodos de inferência.",
+   "Errada: a inferência existe justamente porque se estuda uma amostra; com toda a população, não há o que estimar.",
+   "Errada: correlação não implica causa; pode refletir confundimento, acaso ou causalidade reversa."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca das disposições do Código de Ética dos Profissionais de Enfermagem, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) É vedado ao profissional de enfermagem o cumprimento de prescrição à distância, exceto em casos de urgência e emergência.\n( ) O Código de Ética proíbe o profissional de enfermagem de executar procedimentos ou participar da assistência à saúde sem o consentimento formal da pessoa, independentemente do risco de morte.\n( ) É um dever do profissional de enfermagem comunicar formalmente ao Conselho Regional de Enfermagem fatos que infrinjam dispositivos éticos-legais e que possam prejudicar o exercício profissional e a segurança à saúde do paciente.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – F.",
+   "F – F – F.",
+   "V – F – V.",
+   "F – V – V.",
+   "V – V – V."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017, arts. 46, § 2º, e 77",
+  "coment": "A primeira é verdadeira: o art. 46, § 2º, veda o cumprimento de prescrição à distância, exceto em urgência e emergência e na regulação. A segunda é falsa: o art. 77 proíbe executar procedimentos ou participar da assistência sem o consentimento formal da pessoa ou do representante legal, exceto em iminente risco de morte; a expressão 'independentemente do risco de morte' apaga essa ressalva. A terceira é verdadeira: entre os deveres está comunicar formalmente ao Conselho Regional de Enfermagem e aos órgãos competentes fatos que infrinjam dispositivos ético-legais e possam prejudicar o exercício profissional e a segurança da pessoa.",
+  "porAlt": [
+   "Errada: a terceira afirmativa também é verdadeira, pois comunicar formalmente ao COREN é dever do Código de Ética.",
+   "Errada: a primeira e a terceira reproduzem o Código e são verdadeiras.",
+   "Correta: o art. 46, § 2º, sustenta a primeira; o art. 77 ressalva o iminente risco de morte, o que torna a segunda falsa; a terceira é dever previsto no Código.",
+   "Errada: a primeira é verdadeira (art. 46, § 2º) e a segunda é falsa (art. 77).",
+   "Errada: a segunda é falsa, porque o iminente risco de morte dispensa o consentimento formal (art. 77)."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na assistência de enfermagem, é fundamental que os profissionais apliquem corretamente as técnicas básicas para garantir segurança e eficácia nos procedimentos.\nAcerca desses procedimentos, é correto afirmar que",
+  "alts": [
+   "a administração de medicamentos por via subcutânea exige sempre a aspiração do êmbolo antes da injeção.",
+   "na realização de curativos em feridas cirúrgicas limpas, deve-se iniciar a limpeza da região de fora para o centro da incisão, para evitar infecção.",
+   "a passagem da sonda nasogástrica deve ser feita com o paciente em posição supina, para evitar náuseas e aspiração.",
+   "o cateter vesical de demora deve ser introduzido até ocorrer saída de urina, e só então o balonete deve ser insuflado.",
+   "na oxigenoterapia com máscara de Venturi, a fração inspirada de oxigênio (FiO₂) é determinada pelo fluxo de oxigênio e pela profundidade da respiração do paciente."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Potter e Perry, Fundamentos de Enfermagem, 9ª ed., 2018; ANVISA, Caderno 4, 2017 (cateterismo vesical)",
+  "coment": "No cateterismo vesical de demora, o balão só é insuflado depois do retorno de urina, que confirma a ponta do cateter dentro da bexiga; insuflar antes pode romper ou lesar a uretra. Os manuais recomendam ainda avançar alguns centímetros após o refluxo antes de insuflar, para garantir que o balão não fique na uretra prostática. Nas demais: a via subcutânea dispensa aspiração; o curativo limpo vai do centro da incisão para fora, do menos para o mais contaminado; a sonda nasogástrica é passada em Fowler alta; na Venturi, a FiO2 é fixada pela válvula, não pelo fluxo nem pela respiração.",
+  "porAlt": [
+   "Errada: a aspiração não é necessária na via subcutânea, pela baixa vascularização e pela agulha curta.",
+   "Errada: na ferida cirúrgica limpa, limpa-se do centro para fora, do menos para o mais contaminado.",
+   "Errada: a sonda nasogástrica é inserida com o paciente em Fowler alta, que reduz o risco de aspiração e facilita a deglutição.",
+   "Correta: o balão só é insuflado após a saída de urina, que confirma o cateter na bexiga, evitando lesão uretral.",
+   "Errada: na máscara de Venturi a FiO2 é determinada pela válvula escolhida; o fluxo só garante a proporção de arraste."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As medidas de prevenção e controle de infecções são fundamentais para evitar a disseminação do coronavírus (SARS-CoV-2) e outros microrganismos patogênicos.\nAcerca dessas medidas, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Atualmente as precauções para contato são suficientes para prevenir a contaminação e disseminação da COVID-19.\n( ) As precauções relativas a aerossóis são indicadas para evitar a transmissão de partículas menores ou iguais a 5, que permanecem em suspensão no ar, podendo ser transportadas por longas distâncias.\n( ) Nos casos de infecção por meningite bacteriana e rubéola o paciente pode ser internado com outros infectados pelo mesmo microrganismo, desde que respeitada a distância mínima de um metro entre os leitos.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – V.",
+   "V – F – V.",
+   "F – F – F.",
+   "V – V – V.",
+   "F – V – F."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "CDC/HICPAC, Guideline for Isolation Precautions, 2007 (reproduzido pela ANVISA); Nota Técnica GVIMS/GGTES/ANVISA 04/2020, atualizada",
+  "coment": "A primeira é falsa: para covid-19 a ANVISA orienta precaução padrão somada a contato e gotículas, e a aerossóis nos procedimentos geradores de aerossol; contato isolado não basta. A segunda é verdadeira: a precaução para aerossóis visa partículas de 5 micrômetros ou menos, que ficam suspensas e percorrem longas distâncias (o caderno omite a unidade, falha da banca). A terceira é verdadeira: meningite bacteriana (meningococo, hemófilo) e rubéola exigem precaução para gotículas, que admite coorte de pacientes com o mesmo microrganismo, mantida a distância mínima de 1 metro entre os leitos.",
+  "porAlt": [
+   "Correta: contato isolado não basta para covid-19; aerossóis são as partículas de até 5 micrômetros; gotículas admitem coorte com 1 metro entre leitos.",
+   "Errada: a primeira é falsa (covid-19 exige gotículas e contato, e aerossóis em procedimentos) e a segunda é verdadeira.",
+   "Errada: a segunda e a terceira descrevem corretamente as precauções para aerossóis e para gotículas.",
+   "Errada: a primeira é falsa, porque as precauções para contato não bastam contra a covid-19.",
+   "Errada: a terceira é verdadeira; a precaução para gotículas permite coorte do mesmo agente com distância mínima de 1 metro."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No atendimento a um paciente adulto em parada cardiorrespiratória (PCR) com ritmo não chocável, a epinefrina deve ser administrada o mais precocemente possível, idealmente em até",
+  "alts": [
+   "2 minutos depois do início da PCR.",
+   "5 minutos depois do início da PCR.",
+   "7 minutos depois do início da PCR.",
+   "10 minutos depois do início da PCR.",
+   "12 minutos depois do início da PCR."
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes AHA 2025 de RCP e ACE, Parte 9 (suporte avançado de vida no adulto)",
+  "coment": "Nos ritmos não chocáveis (assistolia e AESP), a adrenalina é o único fármaco com benefício e a AHA recomenda administrá-la o quanto antes (classe 2a), na dose de 1 mg a cada 3 a 5 minutos. Estudos observacionais mostram que cada minuto de atraso reduz a chance de retorno da circulação e de sobrevida, e as revisões costumam usar os primeiros 5 minutos como janela de referência, que é o número cobrado pela banca. No ritmo chocável, ao contrário, a adrenalina entra só depois das tentativas iniciais de desfibrilação.",
+  "porAlt": [
+   "Errada: a referência usada para administração precoce é de até 5 minutos; 2 minutos não é o marco das diretrizes.",
+   "Correta: no ritmo não chocável a adrenalina deve ser dada o quanto antes, com a janela de referência de até 5 minutos do início da PCR.",
+   "Errada: 7 minutos ultrapassa a janela de administração precoce associada a melhor desfecho.",
+   "Errada: 10 minutos é atraso que reduz o retorno da circulação espontânea no ritmo não chocável.",
+   "Errada: 12 minutos está muito além da administração precoce recomendada pela AHA."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No atendimento a emergências pediátricas, é importante que o profissional de saúde seja capaz de identificar os sinais e sintomas comuns de AVC, que podem ser gerais ou focais, em crianças. Com base nas diretrizes atualizadas, da American Heart Association, assinale a opção que apresenta respectivamente um sinal ou sintoma focal e um geral.",
+  "alts": [
+   "Confusão mental e febre.",
+   "Náusea e paralisia facial.",
+   "Vômito e distúrbio visual.",
+   "Convulsão e dor de cabeça.",
+   "Distúrbio da fala e ataxia."
+  ],
+  "gab": 4,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "AHA e Cruz Vermelha Americana, Diretrizes de Primeiros Socorros 2024, Tabela 6 (sinais de AVC na criança)",
+  "coment": "A tabela de primeiros socorros da AHA de 2024 separa os sinais de AVC na criança em focais (hemiparesia, fraqueza de membro, desvio de rima, alteração de sensibilidade, distúrbio visual, distúrbio da fala) e gerais (alteração do estado mental, convulsão, cefaleia, ataxia, vertigem e náusea ou vômito). Só a alternativa E traz um focal seguido de um geral. Ressalva: a declaração científica da AHA de 2019 sobre AVC em crianças cita a ataxia entre os sintomas focais, e na semiologia ela costuma localizar lesão cerebelar; a banca seguiu a tabela de primeiros socorros.",
+  "porAlt": [
+   "Errada: confusão mental e febre são ambas manifestações gerais, sem sinal focal.",
+   "Errada: a ordem está invertida, pois náusea é geral e paralisia facial é focal.",
+   "Errada: a ordem está invertida, pois vômito é geral e distúrbio visual é focal.",
+   "Errada: convulsão e cefaleia são ambas manifestações gerais na tabela da AHA.",
+   "Correta: distúrbio da fala é sinal focal, e a ataxia aparece entre os sinais gerais na tabela de primeiros socorros da AHA de 2024."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente adulto apresenta dor torácica que ocorre apenas com esforços físicos prolongados e intensos.\nCom essas características, a dor apresentada pelo paciente é classificada como angina",
+  "alts": [
+   "Classe I.",
+   "Classe II.",
+   "Classe III.",
+   "Classe IV.",
+   "Classe V."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretriz de Doença Coronária Estável (SBC, 2014), classificação da Canadian Cardiovascular Society",
+  "coment": "A classificação da Canadian Cardiovascular Society gradua a angina pela atividade que a provoca. Classe I: atividade habitual, como andar ou subir escadas, não causa angina; ela só aparece com esforço extenuante, rápido ou prolongado. Classe II: limitação leve, angina ao andar rápido, subir ladeira ou após refeições. Classe III: limitação acentuada, angina ao andar um a dois quarteirões no plano ou subir um lance de escada em ritmo normal. Classe IV: angina a qualquer esforço ou em repouso. Não existe classe V.",
+  "porAlt": [
+   "Correta: dor só com esforços intensos e prolongados, sem limitar a atividade habitual, é angina classe I.",
+   "Errada: na classe II há limitação leve da atividade habitual, como angina ao andar rápido ou subir ladeira.",
+   "Errada: na classe III a angina surge com esforço comum, como andar um a dois quarteirões no plano.",
+   "Errada: na classe IV a angina ocorre a qualquer atividade física ou mesmo em repouso.",
+   "Errada: a classificação da Canadian Cardiovascular Society tem apenas quatro classes."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O indicador de saúde Taxa de Mortalidade Infantil diz respeito ao número de óbitos de menores de",
+  "alts": [
+   "1 ano de idade.",
+   "2 anos de idade.",
+   "5 anos de idade.",
+   "7 anos de idade.",
+   "10 anos de idade."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "RIPSA, Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "Pela RIPSA, a taxa de mortalidade infantil é o número de óbitos de menores de 1 ano de idade por mil nascidos vivos, na população residente em determinado espaço e ano. Divide-se em neonatal precoce (0 a 6 dias), neonatal tardia (7 a 27 dias) e pós-neonatal (28 a 364 dias). Óbitos de menores de 5 anos compõem outro indicador, a mortalidade na infância. O denominador vem do SINASC, e o numerador, do SIM.",
+  "porAlt": [
+   "Correta: a mortalidade infantil conta os óbitos de menores de 1 ano por mil nascidos vivos.",
+   "Errada: não há indicador oficial de mortalidade com corte em 2 anos; a infantil vai até 1 ano incompleto.",
+   "Errada: óbitos de menores de 5 anos formam a taxa de mortalidade na infância, outro indicador.",
+   "Errada: 7 anos não é recorte de nenhum indicador de mortalidade infantil da RIPSA.",
+   "Errada: 10 anos não define a mortalidade infantil, restrita ao primeiro ano de vida."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em pacientes com pulso paradoxal, a pressão arterial sistólica e a pressão de pulso caem drasticamente durante a inspiração.\nNo caso da pressão arterial sistólica há uma queda superior a",
+  "alts": [
+   "2 mmHg.",
+   "4 mmHg.",
+   "5 mmHg.",
+   "8 mmHg.",
+   "10 mmHg."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Porto, Semiologia Médica, 8ª ed., 2019 (pulso arterial: pulso paradoxal)",
+  "coment": "Normalmente a pressão sistólica cai um pouco na inspiração. Fala-se em pulso paradoxal quando essa queda supera 10 mmHg, a ponto de o pulso enfraquecer ou desaparecer à palpação durante a inspiração. É sinal clássico de tamponamento cardíaco, e aparece também na asma grave, na DPOC exacerbada e na pericardite constritiva. A enfermagem pode medi-lo com esfigmomanômetro, anotando a diferença entre o primeiro som audível só na expiração e o som audível em todo o ciclo.",
+  "porAlt": [
+   "Errada: queda de 2 mmHg está dentro da variação respiratória fisiológica.",
+   "Errada: 4 mmHg também é variação normal da pressão sistólica na inspiração.",
+   "Errada: 5 mmHg não alcança o limiar que define o pulso paradoxal.",
+   "Errada: 8 mmHg ainda está abaixo do limite de 10 mmHg.",
+   "Correta: o pulso paradoxal é a queda da pressão sistólica superior a 10 mmHg durante a inspiração."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente adulto, com suspeita de pancreatite aguda, apresenta, entre outros sinais e sintomas, sinal de Grey-Turner.\nEsse sinal é caracterizado pela presença de",
+  "alts": [
+   "equimose nos flancos.",
+   "equimose periumbilical.",
+   "timpanismo no hipocôndrio direito.",
+   "dor à percussão do hipocôndrio direito.",
+   "dor à descompressão do ponto de McBurney."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto, Semiologia Médica, 8ª ed., 2019 (exame do abdome)",
+  "coment": "O sinal de Grey-Turner é a equimose nos flancos, causada por sangue que se espalha a partir do retroperitônio. Na pancreatite aguda indica forma necro-hemorrágica e pior prognóstico, e surge em geral dias depois do início do quadro. A equimose periumbilical é o sinal de Cullen, de mesmo significado. Dor à descompressão no ponto de McBurney é o sinal de Blumberg, da apendicite. Reconhecê-los na avaliação de enfermagem justifica comunicar e intensificar a monitorização.",
+  "porAlt": [
+   "Correta: Grey-Turner é a equimose nos flancos por hemorragia retroperitoneal, sinal de pancreatite grave.",
+   "Errada: equimose periumbilical é o sinal de Cullen.",
+   "Errada: timpanismo no hipocôndrio direito sugere ar livre na cavidade (sinal de Jobert), não Grey-Turner.",
+   "Errada: dor à percussão do hipocôndrio direito aponta doença hepatobiliar e não é o sinal de Grey-Turner.",
+   "Errada: dor à descompressão no ponto de McBurney é o sinal de Blumberg da apendicite."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas diretrizes e protocolos do Ministério da Saúde acerca do parto normal, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Recomenda-se a administração de um enema no momento da admissão para o parto.\n( ) Deve-se auscultar a frequência cardíaca fetal, ao menos durante 1 minuto, durante e após uma contração.\n( ) Recomenda-se o cuidado da parturiente em maternidade baseada em hospital, com presença de médico obstetra em caso de apresentação cefálica alta ou móvel em nulípara.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – V.",
+   "F – V – V.",
+   "V – V – V.",
+   "F – F – F.",
+   "V – F – F."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes Nacionais de Assistência ao Parto Normal (MS/CONITEC, 2017)",
+  "coment": "A primeira é falsa: a Diretriz Nacional de Assistência ao Parto Normal (2017) não recomenda enema na admissão, porque não reduz infecção nem encurta o trabalho de parto e aumenta o desconforto. A segunda é verdadeira: a ausculta intermitente da frequência cardíaca fetal deve durar ao menos 1 minuto e ser relacionada à contração, cobrindo o período imediatamente após ela, onde aparecem as desacelerações. A terceira é verdadeira: a diretriz, adaptada do NICE, lista a apresentação cefálica alta ou móvel em nulípara entre as condições que indicam o cuidado em maternidade hospitalar com obstetra.",
+  "porAlt": [
+   "Errada: o enema de rotina não é recomendado, então a primeira é falsa; a segunda é verdadeira.",
+   "Correta: enema não é recomendado; a ausculta fetal dura ao menos 1 minuto em relação à contração; cefálica alta ou móvel em nulípara pede maternidade hospitalar.",
+   "Errada: a primeira é falsa, pois a diretriz não recomenda enema na admissão.",
+   "Errada: a segunda e a terceira estão de acordo com a diretriz de 2017.",
+   "Errada: só a primeira é falsa; a segunda e a terceira são verdadeiras."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as disposições do Ministério da Saúde, um dos critérios para inclusão de gestantes no Protocolo Clínico e Diretrizes Terapêuticas (PCDT) da Anemia por Deficiência de Ferro é",
+  "alts": [
+   "Hb abaixo de 11 g/dL.",
+   "Hb abaixo de 15 g/dL.",
+   "Hb abaixo de 20 g/dL.",
+   "Ferritina abaixo de 40 ng/mL.",
+   "Ferritina abaixo de 50 ng/mL."
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "PCDT da Anemia por Deficiência de Ferro (Portaria SAS/MS 1.247/2014)",
+  "coment": "O PCDT da Anemia por Deficiência de Ferro (2014, ainda em revisão pela CONITEC) adota os cortes da OMS: em gestantes, anemia é hemoglobina abaixo de 11 g/dL, valor que serve de critério de inclusão para tratamento. Os demais cortes de hemoglobina são absurdos para gestante; 15 e 20 g/dL estão acima até do normal. Na gestante, a anemia se define pela hemoglobina; a ferritina avalia o estoque de ferro e não é o parâmetro de inclusão cobrado. No pré-natal, a estratificação de risco também usa hemoglobina: de 9 a 11 g/dL, risco intermediário; abaixo de 9 g/dL, alto risco.",
+  "porAlt": [
+   "Correta: hemoglobina abaixo de 11 g/dL define anemia na gestante e é o critério de inclusão do PCDT.",
+   "Errada: hemoglobina de 15 g/dL é normal ou alta na gestação, não critério de anemia.",
+   "Errada: 20 g/dL está muito acima da faixa normal e não define anemia.",
+   "Errada: para a gestante, a anemia se define pela hemoglobina; a ferritina avalia o estoque de ferro e não é o critério cobrado.",
+   "Errada: o critério de inclusão para gestantes é a hemoglobina abaixo de 11 g/dL, não um corte de ferritina."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Criança de 10 anos, pesando 28 quilos, apresenta suspeita de dengue sem sinais de alarme, sem condição especial, risco social ou comorbidades.\nO volume diário recomendado para hidratação oral dessa criança é de",
+  "alts": [
+   "50 mL/kg/dia.",
+   "80 mL/kg/dia.",
+   "100 mL/kg/dia.",
+   "120 mL/kg/dia.",
+   "130 mL/kg/dia."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed. (MS, 2024)",
+  "coment": "Sem sinais de alarme, sem condição especial, risco social ou comorbidade, a criança é do grupo A e faz hidratação oral em casa. O manual do Ministério de 2024 calcula o volume diário pelo peso: 130 mL/kg/dia até 10 kg, 100 mL/kg/dia de 10 a 20 kg e 80 mL/kg/dia acima de 20 kg. Com 28 kg, a criança recebe 80 mL/kg/dia, cerca de 2,2 L, com parte em sais de reidratação oral, mantida até 24 a 48 horas após a queda da febre. No adulto, o volume é 60 mL/kg/dia.",
+  "porAlt": [
+   "Errada: 50 mL/kg/dia fica abaixo até do volume do adulto, que é 60 mL/kg/dia.",
+   "Correta: acima de 20 kg, a hidratação oral da criança no grupo A é de 80 mL/kg/dia.",
+   "Errada: 100 mL/kg/dia é o volume para crianças de 10 a 20 kg.",
+   "Errada: 120 mL/kg/dia não corresponde a nenhuma faixa de peso do manual.",
+   "Errada: 130 mL/kg/dia é o volume para crianças de até 10 kg."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente foi diagnosticado com Hanseníase Paucibacilar (PB).\nEssa Hanseníase é caracterizada pela presença de",
+  "alts": [
+   "mais de cinco lesões cutâneas e baciloscopia obrigatoriamente negativa.",
+   "uma a três lesões cutâneas e baciloscopia obrigatoriamente positiva.",
+   "mais de cinco lesões cutâneas e baciloscopia obrigatoriamente positiva.",
+   "uma a cinco lesões cutâneas e baciloscopia obrigatoriamente negativa.",
+   "três a seis lesões cutâneas e baciloscopia obrigatoriamente positiva."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "PCDT Hanseníase (MS, 2022)",
+  "coment": "Para fins de tratamento, o Ministério da Saúde classifica a hanseníase pela contagem de lesões e pela baciloscopia. Paucibacilar: uma a cinco lesões de pele e baciloscopia obrigatoriamente negativa, tratada com PQT-U por 6 meses (6 doses supervisionadas em até 9 meses). Multibacilar: mais de cinco lesões e/ou baciloscopia positiva, com PQT-U por 12 meses. Baciloscopia positiva classifica como multibacilar mesmo com poucas lesões, e baciloscopia negativa não afasta o diagnóstico.",
+  "porAlt": [
+   "Errada: mais de cinco lesões classifica como multibacilar, qualquer que seja a baciloscopia.",
+   "Errada: baciloscopia positiva sempre classifica como multibacilar, mesmo com uma a três lesões.",
+   "Errada: mais de cinco lesões com baciloscopia positiva é a descrição do caso multibacilar.",
+   "Correta: paucibacilar é o caso com uma a cinco lesões de pele e baciloscopia obrigatoriamente negativa.",
+   "Errada: seis lesões já é multibacilar, e baciloscopia positiva também leva à forma multibacilar."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Sociedade Brasileira de Diabetes, os sinais e sintomas de diabetes podem ser classificados como típicos e sugestivos.\nEntre os sinais sugestivos de hiperglicemia está a",
+  "alts": [
+   "polifagia.",
+   "polidipsia.",
+   "noctúria.",
+   "desidratação.",
+   "perda de peso."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretriz da Sociedade Brasileira de Diabetes 2024 (diagnóstico do diabetes)",
+  "coment": "A SBD chama de clássicos, ou típicos, os sintomas da hiperglicemia acentuada: poliúria, polidipsia, polifagia e perda de peso inexplicada, os quatro 'P'. Na presença deles, uma glicemia ao acaso de 200 mg/dL ou mais confirma o diagnóstico. A noctúria é manifestação menos específica, consequência da diurese osmótica, e a banca a enquadrou entre os sinais sugestivos, grupo em que costumam figurar também visão turva, fadiga e infecções de repetição. Polifagia, polidipsia e perda de peso pertencem ao grupo típico. A desidratação é consequência clínica da poliúria, não sintoma de triagem.",
+  "porAlt": [
+   "Errada: a polifagia é um dos quatro sintomas clássicos (típicos) do diabetes.",
+   "Errada: a polidipsia é sintoma clássico, junto com poliúria, polifagia e perda de peso.",
+   "Correta: a noctúria é manifestação menos específica da diurese osmótica, classificada entre os sinais sugestivos.",
+   "Errada: a desidratação é consequência da poliúria e não figura como sinal sugestivo na classificação cobrada.",
+   "Errada: a perda de peso inexplicada é um dos quatro sintomas clássicos do diabetes."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca da baciloscopia de escarro para a detecção da tuberculose pulmonar em adultos, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa\n( ) É um método indicado para o sintomático respiratório, durante estratégia de busca ativa.\n( ) A baciloscopia de escarro deve ser realizada em duas amostras.\n( ) Em crianças, a sensibilidade da baciloscopia é bastante diminuída pela dificuldade de obtenção de uma amostra com boa qualidade.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – F.",
+   "V – V – V.",
+   "F – F – F.",
+   "V – F – V.",
+   "F – F – V."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada (MS, 2019)",
+  "coment": "As três afirmativas são verdadeiras. A baciloscopia de escarro é indicada ao sintomático respiratório identificado na busca ativa, quando o teste rápido molecular (TRM-TB) não estiver disponível. No diagnóstico, colhem-se duas amostras: uma no momento da consulta e outra na manhã seguinte, ao despertar. Na criança, a sensibilidade cai muito, porque ela raramente expectora e a doença costuma ser paucibacilar; por isso o diagnóstico infantil usa o sistema de pontuação do Ministério. Hoje o TRM-TB é o exame preferencial onde houver acesso.",
+  "porAlt": [
+   "Errada: a primeira e a terceira também são verdadeiras; a baciloscopia é indicada ao sintomático respiratório e perde sensibilidade na criança.",
+   "Correta: a baciloscopia serve à busca ativa do sintomático respiratório, é feita em duas amostras e tem baixa sensibilidade na criança.",
+   "Errada: as três afirmativas estão de acordo com o manual do Ministério da Saúde.",
+   "Errada: a segunda é verdadeira, pois o diagnóstico pela baciloscopia exige duas amostras.",
+   "Errada: a primeira e a segunda são verdadeiras, não só a terceira."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nos protocolos do Ministério da Saúde acerca da assistência ao recém-nascido com suspeita de microcefalia relacionada à infecção pelo zika vírus, avalie as afirmativas a seguir.\nI. A microcefalia é caracterizada por perímetro cefálico abaixo de 35 cm para ambos os sexos, segundo as curvas da OMS.\nII. Considerando-se que a maioria dos RN de parto normal apresenta suturas cavalgadas, orienta-se que a medição do perímetro cefálico seja refeita com 24 h a 48 h de vida.\nIII. A aferição do perímetro cefálico deve ser realizada com fita métrica inextensível, posicionada logo acima das sobrancelhas e na parte mais proeminente do osso occipital.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, II e III.",
+   "I, apenas.",
+   "II, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas."
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Protocolo de atenção à saúde e resposta à ocorrência de microcefalia relacionada à infecção pelo vírus Zika (MS, 2016)",
+  "coment": "O item I é falso: em 2016, o Ministério adotou para o recém-nascido a termo, seguindo a OMS, perímetro cefálico igual ou inferior a 31,9 cm em meninos e 31,5 cm em meninas; 35 cm é próximo da média ao nascer e nunca foi critério. O item II reproduz o protocolo: como o cavalgamento das suturas no parto normal reduz a medida, ela deve ser refeita com 24 a 48 horas de vida. O item III descreve a técnica correta: fita métrica inextensível logo acima das sobrancelhas e sobre a parte mais proeminente do occipital.",
+  "porAlt": [
+   "Errada: o item I é falso, porque 35 cm está perto da média de nascimento e nunca foi critério de microcefalia.",
+   "Errada: o item I é o único falso; II e III reproduzem o protocolo do Ministério.",
+   "Errada: o item III, técnica de medida com fita inextensível, também está correto.",
+   "Errada: inclui o item I, que traz um corte de perímetro cefálico incorreto.",
+   "Correta: refazer a medida com 24 a 48 horas pelo cavalgamento de suturas e medir com fita inextensível entre glabela e occipital estão no protocolo."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 61,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as diretrizes da Sociedade Brasileira de Hipertensão, entre os parâmetros que classificam um paciente com Hipertensão Arterial Estágio 2 está",
+  "alts": [
+   "PAD ≥ 85 mmHg.",
+   "PAS ≥ 130 mmHg.",
+   "PAD entre 90 e 99 mmHg.",
+   "PAS entre 140 e 159 mmHg.",
+   "PAD entre 100 e 109 mmHg."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC/SBH/SBN)",
+  "coment": "Na Diretriz Brasileira de Hipertensão Arterial, a hipertensão estágio 2 corresponde a PAS de 160 a 179 mmHg e/ou PAD de 100 a 109 mmHg. Estágio 1 é 140 a 159 e/ou 90 a 99 mmHg; estágio 3, 180 ou mais e/ou 110 ou mais. A versão de 2025 manteve os três estágios e mudou só as faixas abaixo de 140/90: saiu a 'PA ótima', e 120 a 139 e/ou 80 a 89 passou a ser pré-hipertensão. Quando sistólica e diastólica caem em estágios diferentes, vale o maior.",
+  "porAlt": [
+   "Errada: PAD de 85 mmHg ou mais está na faixa de pré-hipertensão, não define estágio 2.",
+   "Errada: PAS de 130 mmHg ou mais ainda pode ser pré-hipertensão; o estágio 2 começa em 160 mmHg.",
+   "Errada: PAD entre 90 e 99 mmHg caracteriza hipertensão estágio 1.",
+   "Errada: PAS entre 140 e 159 mmHg caracteriza hipertensão estágio 1.",
+   "Correta: PAD entre 100 e 109 mmHg é critério de hipertensão estágio 2."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 62,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as disposições do COFEN, quando o profissional de enfermagem realiza as intervenções, ações e atividades previstas no planejamento assistencial, ele está atuando de acordo com a seguinte etapa do Processo de Enfermagem:",
+  "alts": [
+   "Evolução.",
+   "Avaliação.",
+   "Diagnóstico.",
+   "Implementação.",
+   "Planejamento."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024 (etapas do Processo de Enfermagem)",
+  "coment": "Pela Resolução COFEN 736/2024, que revogou a 358/2009, o Processo de Enfermagem tem cinco etapas: Avaliação, Diagnóstico, Planejamento, Implementação e Evolução. A Implementação compreende a realização das intervenções, ações e atividades previstas no planejamento assistencial, pela equipe de enfermagem, conforme a competência técnica de cada profissional. É a descrição literal do enunciado. O Planejamento prioriza diagnósticos, define resultados e prescreve; a Evolução avalia os resultados e revisa o processo.",
+  "porAlt": [
+   "Errada: a Evolução avalia os resultados alcançados e revisa o processo, não executa as intervenções.",
+   "Errada: a Avaliação é a primeira etapa, de coleta e interpretação de dados, que substituiu o Histórico.",
+   "Errada: o Diagnóstico interpreta os dados e nomeia as respostas, privativo do enfermeiro.",
+   "Correta: realizar as intervenções, ações e atividades previstas no planejamento é a Implementação (Res. 736/2024).",
+   "Errada: o Planejamento prioriza, define resultados e prescreve as intervenções, mas não as executa."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 63,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as normas do Ministério da Saúde, acerca do descarte de bolsas de sangue e hemocomponentes rejeitados por contaminação ou por má conservação, é correto afirmar que as bolsas",
+  "alts": [
+   "devem ser submetidas a tratamento ou dispostas em aterro de resíduos perigosos.",
+   "devem ser tratadas antes da disposição final ambientalmente adequada.",
+   "devem atender às regras de manejo dos resíduos perfurocortantes.",
+   "podem ser submetidas a processo de recuperação ou reutilização.",
+   "devem ser descartadas como rejeitos e não precisam de tratamento prévio à sua destinação."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 222/2018 (resíduos do Grupo A1)",
+  "coment": "Na RDC 222/2018, as bolsas transfusionais com sangue ou hemocomponentes rejeitadas por contaminação ou má conservação, vencidas ou de coleta incompleta pertencem ao subgrupo A1, de risco biológico. Esses resíduos devem ser submetidos a tratamento antes da disposição final ambientalmente adequada, e não podem ser reaproveitados. A alternativa A descreve a regra dos resíduos químicos do Grupo B; a C, a dos perfurocortantes (Grupo E). Já a bolsa transfusional vazia ou com volume residual após a transfusão é A4 e pode dispensar tratamento.",
+  "porAlt": [
+   "Errada: 'tratamento ou aterro de resíduos perigosos' é regra dos resíduos químicos do Grupo B, não das bolsas A1.",
+   "Correta: as bolsas rejeitadas são do subgrupo A1 e devem ser tratadas antes da disposição final ambientalmente adequada.",
+   "Errada: as bolsas não são perfurocortantes (Grupo E) e seguem o manejo do Grupo A1.",
+   "Errada: resíduos A1 não podem ser recuperados nem reutilizados.",
+   "Errada: por conterem material biológico, exigem tratamento prévio; não são rejeito comum."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 64,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Entre as ações estratégicas do Ministério da Saúde para o enfrentamento das doenças crônicas não transmissíveis está",
+  "alts": [
+   "a redução da prevalência do tabagismo.",
+   "o aumento da cobertura vacinal de idosos contra a influenza.",
+   "a diminuição das mortes por dengue, zika e chikungunya.",
+   "o aumento da notificação compulsória de tuberculose.",
+   "a redução no índice de transtorno mental incapacitante."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Plano de Ações Estratégicas para o Enfrentamento das Doenças Crônicas e Agravos não Transmissíveis no Brasil 2021-2030 (MS, 2021)",
+  "coment": "O Plano de Ações Estratégicas para o Enfrentamento das DCNT 2021-2030 trabalha sobre os quatro grupos de doenças (cardiovasculares, câncer, respiratórias crônicas e diabetes) e seus fatores de risco modificáveis: tabagismo, consumo de álcool, alimentação inadequada e inatividade física. A redução da prevalência do tabagismo é meta explícita do plano. As demais alternativas pertencem a outras agendas: imunização (influenza), arboviroses (dengue, zika e chikungunya), doenças transmissíveis (tuberculose) e saúde mental.",
+  "porAlt": [
+   "Correta: a redução da prevalência do tabagismo é meta do plano de enfrentamento das DCNT 2021-2030.",
+   "Errada: a cobertura vacinal contra a influenza pertence ao Programa Nacional de Imunizações, não ao plano de DCNT.",
+   "Errada: dengue, zika e chikungunya são doenças transmissíveis, fora do escopo do plano de DCNT.",
+   "Errada: tuberculose é doença transmissível, tratada pelo programa nacional de controle da tuberculose.",
+   "Errada: o plano de DCNT foca doenças cardiovasculares, câncer, respiratórias crônicas e diabetes e seus fatores de risco."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 65,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O câncer de intestino é o tumor com maior projeção para o quinquênio 2026-2030, com aumento previsto em 10% entre as pessoas de 30 a 69 anos. De acordo com as orientações do Ministério da Saúde, o rastreamento para esse tipo de câncer deve ser realizado em pessoas pertencentes aos grupos de médio e alto risco.\nNesse sentido, assinale a opção que apresenta um fator de médio risco.",
+  "alts": [
+   "Sexo masculino.",
+   "Idade ≥ 50 anos.",
+   "Síndrome de Lynch.",
+   "Histórico familiar de câncer de intestino.",
+   "Histórico de doença inflamatória do intestino."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "INCA, Detecção precoce do câncer (2021)",
+  "coment": "Na estratificação usada pelo Ministério da Saúde e pelo INCA, é de médio risco para câncer colorretal a pessoa de 50 anos ou mais, sem sintomas e sem outros fatores de risco. Alto risco reúne história familiar de câncer colorretal ou de adenoma em parente de primeiro grau, doença inflamatória intestinal de longa duração (retocolite ulcerativa, doença de Crohn) e síndromes hereditárias, como a síndrome de Lynch e a polipose adenomatosa familiar, que exigem início mais cedo e colonoscopia. Sexo masculino não define grupo de rastreamento.",
+  "porAlt": [
+   "Errada: o sexo masculino não é critério de estratificação para o rastreamento do câncer colorretal.",
+   "Correta: idade a partir de 50 anos, sem outros fatores, define o grupo de médio risco.",
+   "Errada: a síndrome de Lynch é condição hereditária de alto risco.",
+   "Errada: história familiar de câncer colorretal coloca a pessoa no grupo de alto risco.",
+   "Errada: doença inflamatória intestinal é fator de alto risco para câncer colorretal."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 66,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas disposições do Ministério da Saúde acerca da Síndrome da Rubéola Congênita (SRC), avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Todo recém-nascido cuja mãe foi contato de caso suspeito ou confirmado de rubéola durante a gestação, é considerado um caso suspeito de SRC.\n( ) Todos os casos suspeitos ou confirmados de SRC são de notificação compulsória imediata.\n( ) A transmissão vertical ocorre exclusivamente no momento do parto ou durante a amamentação, não sendo possível a infecção fetal transplacentária.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – V.",
+   "F – F – F.",
+   "V – V – F.",
+   "F – V – F.",
+   "V – V – V."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. revisada (MS, 2024); Portaria de Consolidação GM/MS 4/2017, Anexo 1 do Anexo V, alterada pela Portaria GM/MS 11.211/2026",
+  "coment": "A primeira é verdadeira: pelo Guia de Vigilância em Saúde, é suspeito de síndrome da rubéola congênita o recém-nascido cuja mãe foi caso suspeito ou confirmado de rubéola, ou contato de caso de rubéola, durante a gestação. A segunda é verdadeira: sarampo, rubéola e SRC são de notificação compulsória imediata, em até 24 horas, ao Ministério, à SES e à SMS, na lista nacional vigente. A terceira é falsa: a rubéola causa malformações justamente pela infecção fetal transplacentária, mais grave no primeiro trimestre.",
+  "porAlt": [
+   "Errada: a segunda é verdadeira (notificação imediata) e a terceira é falsa (há transmissão transplacentária).",
+   "Errada: as duas primeiras estão de acordo com o Guia de Vigilância e com a lista de notificação compulsória.",
+   "Correta: a definição de caso suspeito e a notificação imediata estão certas; a SRC decorre justamente da infecção transplacentária.",
+   "Errada: a primeira é verdadeira, pois o filho de mãe contato de caso suspeito ou confirmado é caso suspeito de SRC.",
+   "Errada: a terceira é falsa; a rubéola congênita resulta da passagem transplacentária do vírus."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 67,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base no protocolo de Cirurgia Segura do Ministério da Saúde, assinale a afirmativa correta.",
+  "alts": [
+   "Somente o cirurgião ou o anestesista podem fazer checagens relacionadas aos exames de imagens e laboratoriais.",
+   "O time out é a etapa que ocorre antes da saída do paciente da sala de cirurgia.",
+   "A demarcação do sítio cirúrgico deve ser realizada imediatamente antes da indução anestésica.",
+   "A profilaxia antimicrobiana deve ser realizada uma hora antes da incisão cirúrgica.",
+   "A checagem quanto à reserva de hemocomponentes deve ser realizada antes da incisão cirúrgica."
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Cirurgia segura",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria MS 1.377/2013 e Protocolo para Cirurgia Segura (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "No protocolo de cirurgia segura do Ministério, a pausa cirúrgica (time out), feita antes da incisão, confirma que o antimicrobiano profilático foi administrado nos últimos 60 minutos, a janela de 'uma hora antes' da alternativa D. As demais erram o momento ou o responsável: a confirmação de imagens e exames envolve toda a equipe; o time out é antes da incisão, não antes da saída da sala; a demarcação é feita pelo cirurgião antes de o paciente ser encaminhado à sala, com ele acordado; e o risco de perda sanguínea acima de 500 mL, com a reserva de hemocomponentes, é checado já antes da indução anestésica.",
+  "porAlt": [
+   "Errada: a checagem das imagens essenciais é confirmada por toda a equipe na pausa, e a lista pode ser conduzida por profissional de enfermagem.",
+   "Errada: o time out é a pausa feita antes da incisão cirúrgica; antes da saída da sala vem a terceira etapa da lista.",
+   "Errada: a demarcação é feita antes de o paciente entrar na sala, com ele acordado, e confirmada antes da indução.",
+   "Correta: a profilaxia antimicrobiana deve ser administrada nos 60 minutos que antecedem a incisão, item conferido no time out.",
+   "Errada: o risco de perda sanguínea e a disponibilidade de sangue são checados antes da indução anestésica, primeira etapa da lista."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 68,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um trabalhador da saúde, 30 anos de idade, foi ao posto de saúde para atualizar as vacinas recomendadas em razão da sua profissão. Em relação à tríplice viral constava que ele já havia tomado 2 doses da vacina.\nNesse caso, é correto afirmar que",
+  "alts": [
+   "ele deve tomar uma dose de reforço.",
+   "ele deve completar o esquema com uma dose e, após 12 meses tomar uma dose de reforço.",
+   "o esquema vacinal está completo, não necessitando de doses de reforço.",
+   "para completar o esquema básico ele deverá tomar mais duas doses da vacina com intervalo mínimo de 60 dias entre as doses e uma dose de reforço após 6 meses da última dose.",
+   "para completar o esquema básico ele deverá tomar mais duas doses da vacina com intervalo mínimo de 60 dias entre as doses, sem necessidade de dose de reforço."
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), vacina tríplice viral",
+  "coment": "A Instrução Normativa do Calendário Nacional de Vacinação 2026 recomenda ao trabalhador de saúde duas doses de tríplice viral, independentemente da idade e conforme o histórico vacinal, com intervalo mínimo de 30 dias entre elas. Na população geral, de 30 a 59 anos basta uma dose comprovada. O trabalhador de 30 anos que comprova duas doses está com o esquema completo, e a vacina tríplice viral não tem dose de reforço no calendário.",
+  "porAlt": [
+   "Errada: a tríplice viral não tem dose de reforço; duas doses comprovadas completam o esquema do trabalhador de saúde.",
+   "Errada: o esquema já está completo com duas doses, e não há reforço após 12 meses.",
+   "Correta: o trabalhador de saúde precisa de duas doses, independentemente da idade, e ele já as tem.",
+   "Errada: não se repetem doses em quem comprova duas, e o calendário não prevê reforço da tríplice viral.",
+   "Errada: duas doses já recebidas completam o esquema; mais duas doses seriam revacinação desnecessária."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 69,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação à vacina da COVID-19, o Ministério da Saúde recomenda, independentemente da quantidade de doses prévias recebidas, duas doses anuais com intervalo de 6 meses para o grupo de",
+  "alts": [
+   "gestantes.",
+   "crianças indígenas.",
+   "populações ribeirinhas.",
+   "crianças com comorbidades.",
+   "idosos a partir de 60 anos de idade."
+  ],
+  "gab": 4,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), vacina covid-19",
+  "coment": "Pela Instrução Normativa do Calendário 2026, independentemente das doses prévias, a pessoa com 60 anos ou mais recebe 1 dose da vacina covid-19 a cada 6 meses, ou seja, duas doses anuais; a mesma regra vale para o imunocomprometido. A gestante recebe 1 dose a cada gestação, em qualquer idade gestacional. A pessoa com comorbidade recebe 1 dose anual. Crianças de 6 meses a menos de 5 anos com comorbidade, indígenas, quilombolas ou ribeirinhas que concluíram o esquema básico recebem 1 dose anual.",
+  "porAlt": [
+   "Errada: a gestante recebe 1 dose da vacina covid-19 a cada gestação, não duas doses anuais.",
+   "Errada: a criança indígena que concluiu o esquema básico recebe 1 dose anual.",
+   "Errada: as crianças ribeirinhas com esquema básico completo recebem 1 dose anual, não semestral.",
+   "Errada: a criança com comorbidade, após o esquema básico, recebe 1 dose anual.",
+   "Correta: a pessoa com 60 anos ou mais recebe 1 dose a cada 6 meses, duas doses por ano, independentemente das doses prévias."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de São José dos Campos 2025, Enfermeiro",
+   "n": 70,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Conselho Municipal de Saúde recebeu denúncias sobre dificuldades no acesso a consultas especializadas e exames entre municípios da região. O gestor propôs articular ações interfederativas por meio da Comissão Intergestores Regional (CIR) para organizar o atendimento e partilhar responsabilidades entre os entes federativos.\nAs principais normas que orientam essa situação são:",
+  "alts": [
+   "Lei nº 8.080/1990, Lei nº 8.142/1990 e Lei nº 8.666/1993.",
+   "Lei nº 8.142/1990, Decreto nº 7.508/2011 e Lei nº 8.666/1993.",
+   "Constituição Federal de 1988, Lei nº 8.142/1990 e Decreto nº 7.508/2011.",
+   "Constituição Federal de 1988, Lei nº 8.080/1990 e Decreto nº 7.508/2011.",
+   "Lei nº 8.080/1990, Decreto nº 7.508/2011 e Lei nº 8.666/1993."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Constituição Federal de 1988, art. 198; Lei 8.080/1990, arts. 14-A e 14-B; Decreto 7.508/2011 (Regiões de Saúde e Comissão Intergestores Regional)",
+  "coment": "A situação é de organização regional e de pactuação entre gestores. A Constituição (art. 198) define o SUS como rede regionalizada e hierarquizada; a Lei 8.080/1990, nos arts. 14-A e 14-B incluídos pela Lei 12.466/2011, reconhece as comissões intergestores como foros de pactuação; e o Decreto 7.508/2011 cria as Regiões de Saúde e a Comissão Intergestores Regional (CIR), que pactua a organização das redes e a partilha de responsabilidades entre os entes. A Lei 8.666/1993 trata de licitações e foi substituída pela Lei 14.133/2021. A Lei 8.142 trata do conselho, mas não sustenta a articulação na CIR.",
+  "porAlt": [
+   "Errada: a Lei 8.666/1993 é de licitações e contratos e não orienta a pactuação interfederativa; falta o Decreto 7.508.",
+   "Errada: a Lei 8.666/1993 não se aplica, e a Lei 8.142 cuida do controle social, não da CIR.",
+   "Errada: troca a Lei 8.080, que reconhece as comissões intergestores, pela Lei 8.142, que trata de conselhos e conferências.",
+   "Correta: Constituição (regionalização), Lei 8.080 (comissões intergestores) e Decreto 7.508 (Regiões de Saúde e CIR) orientam a situação.",
+   "Errada: inclui a Lei 8.666/1993, de licitações, que não tem relação com a articulação na CIR."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Enfermeiro",
+   "n": 11,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Em uma Unidade de Saúde foi priorizado o atendimento de um idoso com múltiplas comorbidades, enquanto outros usuários aguardavam. Essa decisão foi justificada pela equipe como forma de atender às maiores necessidades em saúde.\nO princípio do SUS que justifica a decisão da equipe é o de",
+  "alts": [
+   "universalidade.",
+   "equidade.",
+   "integralidade.",
+   "regionalização.",
+   "participação social."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º; Constituição Federal de 1988, art. 196",
+  "coment": "Equidade é tratar desigualmente os desiguais: oferecer mais a quem tem maior necessidade, para reduzir desigualdades evitáveis. Priorizar o idoso com múltiplas comorbidades enquanto outros aguardam, justificado pela maior necessidade em saúde, é aplicação direta desse princípio. Universalidade é o acesso de todos, em todos os níveis; integralidade é o conjunto articulado de ações preventivas e curativas para cada caso; regionalização é a organização territorial da rede; participação social é o controle exercido por conselhos e conferências.",
+  "porAlt": [
+   "Errada: universalidade garante acesso a todos, mas não justifica ordenar o atendimento pela necessidade.",
+   "Correta: priorizar quem tem maior necessidade em saúde é a aplicação do princípio da equidade.",
+   "Errada: integralidade é o cuidado completo e articulado para cada pessoa, não o critério de prioridade.",
+   "Errada: regionalização é diretriz de organização territorial da rede de serviços.",
+   "Errada: participação social é o controle da comunidade sobre a política, por conselhos e conferências."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Enfermeiro",
+   "n": 12,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Uma forte chuva ocorrida em região urbana resultou em inundações em diferentes bairros da cidade, causando a interrupção de serviços essenciais. Após as enchentes, houve um aumento de casos de leptospirose e de doenças respiratórias, além de relatos de acidentes de trabalho e preocupações ambientais relacionadas à qualidade do ar e ao lixo acumulado.\nConsiderando esse contexto, analise os itens a seguir.\nI. A vigilância epidemiológica contribuirá para monitorar a incidência de doenças transmissíveis e detectar rapidamente novos casos que possam surgir após o desastre.\nII. A vigilância sanitária será importante na fiscalização do abastecimento de água e alimentos, além de garantir o cumprimento de normas de higiene e segurança das estruturas públicas e privadas afetadas.\nIII. A vigilância em saúde ambiental se encarregará de identificar fatores de risco relacionados à qualidade do ar, ao acúmulo de lixo e às condições do solo e da água, promovendo ações de controle e mitigação.\nEstá correto o que se afirma em",
+  "alts": [
+   "I e II, apenas.",
+   "III, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 6º, §§ 1º e 2º; Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde)",
+  "coment": "Os três itens descrevem corretamente cada componente da vigilância em saúde num desastre. A vigilância epidemiológica acompanha a ocorrência de doenças, como a leptospirose após enchentes, para detectar casos e orientar o controle (Lei 8.080, art. 6º, § 2º). A vigilância sanitária intervém nos riscos ligados a produtos, serviços, água e alimentos, e fiscaliza higiene e segurança (art. 6º, § 1º). A vigilância em saúde ambiental identifica fatores de risco do meio, como ar, solo, água e resíduos, e propõe controle. A Política Nacional de Vigilância em Saúde integra esses componentes.",
+  "porAlt": [
+   "Errada: o item III também é correto, pois a vigilância ambiental cuida de ar, solo, água e resíduos.",
+   "Errada: os itens I e II também estão corretos.",
+   "Errada: o item II é correto, porque fiscalizar água, alimentos e estruturas é atribuição da vigilância sanitária.",
+   "Errada: o item I é correto; a vigilância epidemiológica monitora casos de leptospirose e de doenças respiratórias.",
+   "Correta: os três itens atribuem corretamente as funções da vigilância epidemiológica, sanitária e ambiental."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Enfermeiro",
+   "n": 13,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Em março de 2025, a Prefeitura de Nova Iguaçu promoveu vacinação itinerante contra a influenza, com o “Ônibus da Saúde” percorrendo locais de grande circulação, das 8h às 14h. Além da vacina contra a gripe, foram oferecidas vacinas de rotina, como sarampo e Covid-19.\nFonte: Prefeitura de Nova Iguaçu (31/03/2025).\nA iniciativa amplia o acesso da população às vacinas e complementa o trabalho das unidades básicas de saúde.\nAnalise as afirmativas a seguir e classifique-as como verdadeiras (V) ou falsas (F).\n( ) A vacinação itinerante exemplifica a universalidade do SUS e a PNAB, que organiza as ações de imunização na Atenção Básica.\n( ) A iniciativa assegura universalidade e integralidade ao oferecer acesso irrestrito e cuidado contínuo.\n( ) Com a CF/88 e a Lei nº 8.080/1990, a saúde passou a ser direito universal e dever do Estado, incluindo a vacinação na Atenção Básica.\n( ) A vacinação itinerante, com apoio das equipes da ESF, demonstra integração entre Vigilância Epidemiológica e PNAB.\nAs afirmativas são, respectivamente:",
+  "alts": [
+   "V – V – V – F.",
+   "V – V – V – V.",
+   "F – V – V – F.",
+   "V – V – F – V.",
+   "V – F – V – F."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Constituição Federal de 1988, art. 196; Lei 8.080/1990, art. 7º; Portaria GM/MS 2.436/2017 (PNAB)",
+  "coment": "A primeira é verdadeira: levar a vacina a locais de grande circulação amplia o acesso (universalidade), e a PNAB inclui a imunização entre as ações da Atenção Básica. A segunda é falsa: uma ação itinerante pontual não assegura integralidade nem cuidado contínuo, que dependem do vínculo e do acompanhamento longitudinal pela equipe. A terceira é verdadeira: a CF/88 (art. 196) e a Lei 8.080 tornaram a saúde direito universal e dever do Estado. A quarta foi julgada falsa porque o texto não menciona as equipes de Saúde da Família, e a afirmativa extrapola o caso.",
+  "porAlt": [
+   "Errada: a segunda é falsa, porque uma ação pontual não garante integralidade nem cuidado contínuo.",
+   "Errada: a segunda e a quarta são falsas; o texto não sustenta cuidado contínuo nem a participação das equipes de Saúde da Família.",
+   "Errada: a primeira é verdadeira, pois a ação amplia o acesso universal e a imunização é ação da Atenção Básica.",
+   "Errada: a terceira é verdadeira e a segunda é falsa, ao contrário da sequência.",
+   "Correta: universalidade e imunização na Atenção Básica (V), integralidade e cuidado contínuo não asseguráveis por ação pontual (F), base constitucional (V), ESF não mencionada no texto (F)."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Enfermeiro",
+   "n": 14,
+   "parte": "politicas"
+  }
+ }
+]

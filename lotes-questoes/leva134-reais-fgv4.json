@@ -1,0 +1,1474 @@
+[
+ {
+  "q": "De acordo com a classificação da Organização Mundial da Saúde (OMS), um paciente em tratamento quimioterápico com mucosite Grau 2 apresenta",
+  "alts": [
+   "eritema e dor.",
+   "necrose tecidual na boca e na garganta.",
+   "ulceração, mas consegue ingerir sólidos.",
+   "ulceração e só consegue ingerir líquidos.",
+   "sangramento espontâneo com risco de morte."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "OMS, WHO Handbook for Reporting Results of Cancer Treatment (1979), escala de mucosite oral",
+  "coment": "A escala de mucosite oral da OMS (WHO Handbook for Reporting Results of Cancer Treatment, 1979) combina o achado clínico com a capacidade de comer. Grau 0: sem alteração. Grau 1: dor e eritema, sem úlcera. Grau 2: eritema e úlceras, mas o paciente ainda ingere sólidos. Grau 3: úlceras extensas, só tolera dieta líquida. Grau 4: alimentação oral impossível. A chave do grau 2 é a úlcera com dieta sólida preservada; o grau 3 começa quando o paciente deixa de comer sólidos.",
+  "porAlt": [
+   "Errada: eritema e dor, ainda sem úlcera, definem o grau 1 da escala da OMS.",
+   "Errada: necrose tecidual não é descritor da escala da OMS; o grau 4 é definido pela impossibilidade de alimentação oral.",
+   "Correta: no grau 2 já há úlcera, mas o paciente ainda consegue ingerir alimentos sólidos.",
+   "Errada: úlcera com aceitação apenas de líquidos corresponde ao grau 3.",
+   "Errada: sangramento espontâneo com risco de morte não é critério da escala de mucosite da OMS."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Oncologista",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na assistência ao paciente oncológico, considerando o mecanismo de ação da ciclofosfamida, assinale a opção que indica um dos cuidados de enfermagem.",
+  "alts": [
+   "Aferir pressão arterial antes e após a infusão da droga.",
+   "Realizar balanço hídrico rigoroso e hiperhidratar o paciente.",
+   "Administrar manitol e controlar a ocorrência de náuseas e vômitos.",
+   "Aplicar colírio de dexametasona 0,1% de duas a quatro vezes ao dia.",
+   "Certificar-se da ausência de patologia cardiocirculatória antes da infusão da droga."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "INCA, Ações de enfermagem para o controle do câncer, 3ª ed. (2008)",
+  "coment": "A ciclofosfamida é um agente alquilante ativado no fígado; um de seus metabólitos, a acroleína, é eliminado na urina e lesa o urotélio, causando cistite hemorrágica, sobretudo em doses altas. A prevenção é cuidado de enfermagem: hiper-hidratação antes e depois da infusão, estímulo a micções frequentes, balanço hídrico rigoroso e vigilância de hematúria; em altas doses associa-se a mesna, que neutraliza a acroleína na bexiga. Por isso o cuidado ligado ao mecanismo da droga é o balanço hídrico com hiper-hidratação.",
+  "porAlt": [
+   "Errada: aferir a pressão antes e após a infusão é cuidado geral e não decorre do mecanismo da ciclofosfamida, cujo risco específico é vesical.",
+   "Correta: hiper-hidratação e balanço hídrico rigoroso diluem a acroleína urinária e previnem a cistite hemorrágica.",
+   "Errada: manitol não é a prevenção da toxicidade da ciclofosfamida; quem protege a bexiga em altas doses é a mesna.",
+   "Errada: colírio de corticoide é profilaxia da conjuntivite da citarabina em altas doses, não da ciclofosfamida.",
+   "Errada: a avaliação cardiológica prévia é cuidado ligado às antraciclinas, como a doxorrubicina, pela cardiotoxicidade cumulativa."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Oncologista",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a Política Nacional de Atenção às Urgências, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Um dos componentes da Rede de Atenção às Urgências é a Promoção, Prevenção e Vigilância à Saúde.\n( ) Entre as diretrizes da Rede de Atenção às Urgências está a articulação interfederativa entre os diversos gestores, desenvolvendo atuação solidária, responsável e compartilhada.\n( ) O Componente Força Nacional de Saúde do SUS objetiva a ampliação do acesso, o fortalecimento do vínculo e a responsabilização e o primeiro cuidado às urgências e emergências.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "V – V – F.",
+   "F – F – V.",
+   "V – V – V.",
+   "F – V – F.",
+   "V – F – V."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.600/2011 (Rede de Atenção às Urgências), consolidada na Portaria de Consolidação 3/2017, Anexo III",
+  "coment": "A Política Nacional de Atenção às Urgências foi reformulada pela Portaria GM/MS 1.600/2011, que instituiu a Rede de Atenção às Urgências, hoje no Anexo III da Portaria de Consolidação 3/2017. Os componentes são: promoção, prevenção e vigilância à saúde; atenção básica; SAMU 192 e centrais de regulação; sala de estabilização; Força Nacional de Saúde do SUS; UPA 24h e serviços 24 horas; hospitalar; e atenção domiciliar. A articulação interfederativa, com atuação solidária, responsável e compartilhada, é uma das diretrizes. O terceiro item é falso: ampliar o acesso, fortalecer o vínculo e dar o primeiro cuidado às urgências é objetivo da atenção básica; a Força Nacional atua em situações de risco ou emergência, desastres e desassistência.",
+  "porAlt": [
+   "Correta: os dois primeiros itens reproduzem a portaria, e o terceiro atribui à Força Nacional o objetivo da atenção básica.",
+   "Errada: promoção, prevenção e vigilância é componente da rede e a articulação interfederativa é diretriz, logo os dois primeiros são verdadeiros.",
+   "Errada: o terceiro item é falso, porque descreve o objetivo do componente atenção básica, não o da Força Nacional.",
+   "Errada: o primeiro item é verdadeiro; promoção, prevenção e vigilância à saúde é o primeiro componente da rede.",
+   "Errada: o segundo item é verdadeiro e o terceiro é falso, o contrário do que a sequência indica."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Oncologista",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a opção que apresenta uma droga irritante, sem potencial vesicante, utilizada no tratamento quimioterápico.",
+  "alts": [
+   "Dacarbazina.",
+   "Doxorrubicina.",
+   "Cisplatina.",
+   "Mitoxantrona.",
+   "Idarrubicina."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "INCA, Ações de enfermagem para o controle do câncer, 3ª ed. (2008); Resolução COFEN 569/2018",
+  "coment": "Quanto à agressão local, os antineoplásicos são vesicantes (causam necrose se extravasam), irritantes (causam dor, flebite e reação inflamatória, sem necrose) ou não vesicantes. Doxorrubicina e idarrubicina (antraciclinas), mitoxantrona e dacarbazina constam como vesicantes nas tabelas de enfermagem oncológica cobradas em prova. A cisplatina é classificada como irritante. Há controvérsia nas referências: algumas descrevem a cisplatina como irritante que pode lesar mais em concentração alta, e algumas tabelas põem a dacarbazina entre os irritantes. Ainda assim, a cisplatina é a resposta clássica de irritante sem potencial vesicante.",
+  "porAlt": [
+   "Errada: a dacarbazina consta como vesicante nas tabelas de enfermagem oncológica usadas na prova, embora algumas fontes a chamem de irritante.",
+   "Errada: a doxorrubicina é o vesicante clássico, com necrose extensa quando extravasa.",
+   "Correta: a cisplatina é classificada como irritante, com dor e flebite, sem o potencial de necrose dos vesicantes.",
+   "Errada: a mitoxantrona é classificada como vesicante nas tabelas de enfermagem oncológica.",
+   "Errada: a idarrubicina é antraciclina e, como a doxorrubicina, é vesicante."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Oncologista",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as recomendações do Ministério da Saúde, um paciente no pós-tratamento de câncer de cólon estádio I deve repetir a colonoscopia em",
+  "alts": [
+   "1 ano e, posteriormente, a cada 2 anos, com presença ou não de pólipo.",
+   "2 anos e, posteriormente, a cada ano, caso haja presença de pólipo.",
+   "6 meses e, posteriormente, a cada ano, com presença ou não de pólipo.",
+   "1 ano e, posteriormente, a cada 3 a 5 anos, caso não haja presença de pólipo.",
+   "2 anos e, posteriormente, a cada 2 a 3 anos, caso não haja presença de pólipo."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Diretrizes Diagnósticas e Terapêuticas do Câncer de Cólon e Reto (Portaria SAS/MS 958/2014)",
+  "coment": "As Diretrizes Diagnósticas e Terapêuticas do Câncer de Cólon e Reto do Ministério da Saúde (Portaria SAS/MS 958/2014) orientam, no seguimento após tratamento com intenção curativa, colonoscopia 1 ano após a cirurgia; se o exame não mostra pólipo, ele é repetido a cada 3 a 5 anos, e o achado de pólipo encurta o intervalo. O objetivo é detectar lesão nova (metacrônica) e recidiva na anastomose. Os esquemas das outras alternativas erram o momento do primeiro exame ou o intervalo seguinte.",
+  "porAlt": [
+   "Errada: depois do primeiro ano, sem pólipo, o intervalo é de 3 a 5 anos, não a cada 2 anos de forma fixa.",
+   "Errada: a primeira colonoscopia de seguimento é feita com 1 ano, não com 2 anos.",
+   "Errada: colonoscopia aos 6 meses não é a rotina do estádio I operado; o primeiro controle é com 1 ano.",
+   "Correta: colonoscopia com 1 ano e, sem pólipo, a cada 3 a 5 anos, como orienta a diretriz do Ministério.",
+   "Errada: o primeiro controle é com 1 ano, e o intervalo seguinte sem pólipo é de 3 a 5 anos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Oncologista",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O enfermeiro exerce uma liderança carismática e é capaz de engajar, inspirar e motivar os colaboradores, de modo que eles contribuam para que a organização seja bem-sucedida no alcance dos seus objetivos. Ele está exercendo a liderança",
+  "alts": [
+   "motivacional.",
+   "transacional.",
+   "estratégica.",
+   "situacional.",
+   "transformacional."
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Bass BM, Riggio RE. Transformational Leadership, 2ª ed. (2006)",
+  "coment": "Liderança transformacional, descrita por Burns e desenvolvida por Bass, é a do líder carismático que inspira, motiva e engaja os liderados para além do interesse imediato, alinhando-os à visão e aos objetivos da organização. Seus componentes são influência idealizada (carisma), motivação inspiradora, estímulo intelectual e consideração individualizada. A transacional, ao contrário, se apoia na troca de recompensa por desempenho e na correção de desvios. A situacional, de Hersey e Blanchard, adapta o estilo à maturidade da equipe.",
+  "porAlt": [
+   "Errada: motivacional não é um dos modelos clássicos de liderança; a motivação inspiradora é um componente da transformacional.",
+   "Errada: a transacional se baseia na troca de recompensa e punição por desempenho, não em carisma e inspiração.",
+   "Errada: liderança estratégica se refere à condução de longo prazo da organização, não ao carisma que engaja e inspira.",
+   "Errada: a situacional ajusta o estilo de direção à maturidade da equipe, sem foco no carisma.",
+   "Correta: carisma, inspiração e motivação para que a equipe alcance os objetivos da organização definem a transformacional."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Oncologista",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente em tratamento oncológico apresentou sinais característicos de intoxicação por morfina.\nAssinale a opção que indica o medicamento que deve ser usado para reverter esse efeito.",
+  "alts": [
+   "Lanexat.",
+   "Naloxona.",
+   "Etomidadto.",
+   "Flumazenil.",
+   "Midazolam."
+  ],
+  "gab": 1,
+  "tema": "farmaco",
+  "sub": "Medicamentos de alta vigilância",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "AHA Guidelines for CPR and ECC 2025 (naloxona na emergência por opioide)",
+  "coment": "A morfina é agonista dos receptores opioides mu; a intoxicação se manifesta por depressão respiratória, sonolência e miose. O antagonista específico é a naloxona, que desloca o opioide do receptor e reverte a depressão respiratória em minutos. Como sua ação é mais curta que a da morfina, o enfermeiro mantém a vigilância da frequência respiratória e da consciência, porque a sedação pode voltar. As diretrizes AHA 2025 reforçam a naloxona na emergência por opioide. O flumazenil (nome comercial Lanexat) reverte benzodiazepínicos, não opioides.",
+  "porAlt": [
+   "Errada: Lanexat é o nome comercial do flumazenil, antagonista de benzodiazepínicos, sem efeito sobre opioides.",
+   "Correta: a naloxona é o antagonista competitivo dos receptores opioides e reverte a depressão respiratória da morfina.",
+   "Errada: o etomidato é hipnótico usado na indução anestésica e aprofundaria a depressão do sistema nervoso central.",
+   "Errada: o flumazenil antagoniza benzodiazepínicos e não reverte a intoxicação por morfina.",
+   "Errada: o midazolam é benzodiazepínico sedativo e somaria depressão respiratória à causada pela morfina."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Oncologista",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre as competências privativas do Enfermeiro em Quimioterapia Antineoplásica, analise as afirmativas a seguir.\nI. Registrar informações pertinentes à assistência de Enfermagem no prontuário do paciente e demais documentos.\nII. Conhecer e cumprir os protocolos terapêuticos de Enfermagem na prevenção, tratamento e minimização dos efeitos colaterais em clientes submetidos ao tratamento quimioterápico antineoplásico.\nIII. Participar da definição da política de recursos humanos, da aquisição de material e da disposição da área física, necessários à assistência integral dos pacientes.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "II, apenas.",
+   "I e III, apenas.",
+   "III, apenas."
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Resoluções do COFEN",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 569/2018 (Regulamento Técnico da Atuação dos Profissionais de Enfermagem em Quimioterapia Antineoplásica)",
+  "coment": "A Res. COFEN 569/2018, que revogou a 210/1998, separa as atribuições da equipe em quimioterapia antineoplásica. São privativas do enfermeiro, entre outras, planejar, organizar, supervisionar, executar e avaliar as atividades de enfermagem do serviço, elaborar protocolos terapêuticos, fazer a consulta de enfermagem, ministrar o quimioterápico e participar da definição da política de recursos humanos, da aquisição de material e da disposição da área física. Conhecer e cumprir os protocolos e registrar informações no prontuário aparecem entre as atribuições do técnico de enfermagem; por serem compartilhadas, não são privativas. Por isso só o item III está correto.",
+  "porAlt": [
+   "Errada: registrar informações no prontuário é atribuição também do técnico de enfermagem, logo não é privativa do enfermeiro.",
+   "Errada: conhecer e cumprir os protocolos e registrar no prontuário cabem também ao técnico e não são privativos.",
+   "Errada: conhecer e cumprir os protocolos de enfermagem é dever atribuído também ao técnico na norma.",
+   "Errada: o item III é privativo, mas o I não é, porque o registro em prontuário cabe também ao técnico.",
+   "Correta: participar da política de recursos humanos, da aquisição de material e da área física é competência privativa do enfermeiro."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Oncologista",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca das medidas de segurança na assistência ao paciente oncológico, analise as afirmativas a seguir e assinale (V) para a verdadeira (F) para a falsa.\n( ) Um evento ocorrido durante uma sessão de quimioterapia que resultou em dano desnecessário à saúde do paciente, é considerado um incidente.\n( ) Os antineoplásicos de uso oral e parenteral são considerados medicamentos potencialmente perigosos e, por isso, uma das recomendações de segurança é adotar protocolos claros e detalhados para sua utilização.\n( ) O extravasamento de doxorrubicina durante a administração intravenosa pode produzir dor local, lesões teciduais graves e necrose.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "V – V – V.",
+   "F – V – F.",
+   "V – F – V.",
+   "F – F – F.",
+   "V – F – F."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria MS 529/2013 (PNSP) e RDC ANVISA 36/2013",
+  "coment": "Pelos conceitos da Classificação Internacional de Segurança do Paciente da OMS, adotados pela Portaria MS 529/2013 e pela RDC ANVISA 36/2013, incidente é o evento que poderia ter resultado ou resultou em dano desnecessário; o incidente com dano é o evento adverso, que continua sendo um incidente. Os antineoplásicos orais e parenterais estão nas listas de medicamentos potencialmente perigosos do ISMP, e a recomendação é usar protocolos claros, padronização e dupla checagem. A doxorrubicina é vesicante: o extravasamento causa dor, lesão tecidual grave e necrose. Os três itens são verdadeiros.",
+  "porAlt": [
+   "Correta: o evento com dano é incidente (evento adverso), antineoplásicos são potencialmente perigosos e a doxorrubicina extravasada causa necrose.",
+   "Errada: o primeiro item é verdadeiro, porque o evento adverso é um tipo de incidente, e o terceiro também é verdadeiro.",
+   "Errada: o segundo item é verdadeiro; antineoplásicos orais e parenterais constam entre os medicamentos potencialmente perigosos.",
+   "Errada: os três itens reproduzem conceitos e recomendações vigentes de segurança do paciente.",
+   "Errada: o segundo e o terceiro itens também são verdadeiros, inclusive o potencial de necrose da doxorrubicina."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Oncologista",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A quimioterapia indicada após o tratamento cirúrgico curativo, quando o paciente não apresenta qualquer evidência de neoplasia maligna detectável por exame físico e exames complementares, é denominada",
+  "alts": [
+   "prévia.",
+   "curativa.",
+   "adjuvante.",
+   "paliativa.",
+   "neoadjuvante."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "INCA, Ações de enfermagem para o controle do câncer, 3ª ed. (2008)",
+  "coment": "Quanto à finalidade, a quimioterapia é curativa, quando visa erradicar a doença; adjuvante, quando vem depois do tratamento local curativo (cirurgia ou radioterapia) em paciente sem doença detectável, para eliminar micrometástases e reduzir a recidiva; neoadjuvante ou prévia, quando antecede o tratamento local para reduzir o tumor; e paliativa, quando busca controlar sintomas e prolongar a vida sem intenção de cura. O enunciado descreve a adjuvante: após a cirurgia curativa e sem neoplasia detectável.",
+  "porAlt": [
+   "Errada: quimioterapia prévia é sinônimo de neoadjuvante e é feita antes da cirurgia, não depois.",
+   "Errada: a curativa visa erradicar doença presente, e no enunciado não há neoplasia detectável.",
+   "Correta: adjuvante é a quimioterapia após o tratamento cirúrgico curativo, sem doença detectável, para reduzir a recidiva.",
+   "Errada: a paliativa é indicada quando não há intenção de cura, para controlar sintomas e prolongar a vida.",
+   "Errada: a neoadjuvante antecede a cirurgia para reduzir o tumor, e o enunciado fala em tratamento depois da cirurgia."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Oncologista",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na assistência a um paciente em tratamento oncológico, o enfermeiro aplicou a escala de performance Karnofsky (KPS) e obteve o valor de 50%.\nEsse percentual equivale à seguinte capacidade funcional:",
+  "alts": [
+   "muito debilitado, necessita de suporte.",
+   "cuida de si mesmo, mas não é capaz de trabalhar.",
+   "necessita de assistência ocasional, mas é capaz de trabalhar.",
+   "necessita de assistência considerável e cuidados médicos frequentes.",
+   "mínimos sinais e sintomas, capaz de realizar suas atividades com esforço."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Karnofsky DA, Burchenal JH. Escala de performance de Karnofsky (1949)",
+  "coment": "A escala de Karnofsky vai de 100% (normal, sem queixas) a 0% (morte), em faixas de 10. Em 90%, sinais ou sintomas mínimos com atividade normal; 80%, atividade normal com esforço; 70%, cuida de si, mas não consegue trabalhar; 60%, requer assistência ocasional; 50%, requer assistência considerável e cuidados médicos frequentes; 40%, incapacitado, requer cuidados especiais; 30%, muito incapacitado, com hospitalização indicada; 20%, muito doente, com suporte ativo necessário; 10%, moribundo. O escore de 50% indica dependência considerável.",
+  "porAlt": [
+   "Errada: muito debilitado com necessidade de suporte descreve as faixas mais baixas da escala, de 20% a 30%.",
+   "Errada: cuidar de si sem conseguir trabalhar corresponde a 70%.",
+   "Errada: assistência ocasional corresponde a 60%, e nessa faixa o paciente já não trabalha.",
+   "Correta: 50% na Karnofsky é necessitar de assistência considerável e de cuidados médicos frequentes.",
+   "Errada: sinais e sintomas mínimos com atividade mantida correspondem às faixas de 80% a 90%."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Oncologista",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente adulto, em tratamento de câncer de pulmão, apresentou dispneia, edema de face, edema de membro superior direito, distensão das veias do pescoço, circulação colateral visível e pletora facial.\nAssinale a opção que indica a urgência oncológica correspondente a esses sintomas.",
+  "alts": [
+   "Neutropenia febril.",
+   "Compressão medular.",
+   "Síndrome de lise tumoral.",
+   "Síndrome de veia cava superior.",
+   "Hipercalcemia da malignidade."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "INCA, Ações de enfermagem para o controle do câncer, 3ª ed. (2008)",
+  "coment": "A síndrome da veia cava superior resulta da obstrução do retorno venoso da cabeça, do pescoço e dos membros superiores, em geral por compressão tumoral; câncer de pulmão e linfomas são as causas mais comuns. O quadro é de dispneia, edema de face e de membros superiores, turgência jugular, circulação colateral no tórax e pletora facial, que pioram ao deitar. A enfermagem mantém a cabeceira elevada, oferece oxigênio, evita punções no membro superior afetado e monitora o padrão respiratório. As demais urgências oncológicas têm outro quadro.",
+  "porAlt": [
+   "Errada: neutropenia febril se apresenta como febre em paciente com neutrófilos baixos, sem edema de face ou circulação colateral.",
+   "Errada: compressão medular causa dor nas costas, fraqueza dos membros e alterações esfincterianas.",
+   "Errada: a síndrome de lise tumoral é metabólica, com hiperpotassemia, hiperfosfatemia, hiperuricemia e lesão renal.",
+   "Correta: edema de face e de membro superior, turgência jugular, circulação colateral e pletora indicam obstrução da veia cava superior.",
+   "Errada: a hipercalcemia da malignidade causa sede, poliúria, constipação, confusão e fraqueza."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023, Enfermeiro Oncologista",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nos objetivos e atribuições do Sistema Único de Saúde previstos na Lei 8.080/90, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F).\n( ) Está incluída no campo de atuação do Sistema Único de Saúde (SUS) a colaboração na proteção do meio ambiente, nele compreendido o do trabalho.\n( ) Um dos objetivos do SUS diz respeito à organização dos serviços públicos de modo a evitar duplicidade de meios para fins idênticos.\n( ) A avaliação do impacto que as tecnologias provocam à saúde está no campo de abrangência da Saúde do Trabalhador.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – V.",
+   "F – F – F.",
+   "V – V – V.",
+   "F – V – F.",
+   "V – V – F."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, arts. 5º, 6º e 7º",
+  "coment": "Pela Lei 8.080/1990, o art. 6º, V, inclui no campo de atuação do SUS a colaboração na proteção do meio ambiente, nele compreendido o do trabalho. Evitar duplicidade de meios para fins idênticos está no art. 7º, XIII, entre os princípios e diretrizes da organização dos serviços públicos, e não entre os objetivos do art. 5º (identificar e divulgar condicionantes, formular a política de saúde e prestar assistência por promoção, proteção e recuperação). A avaliação do impacto que as tecnologias provocam à saúde está no art. 6º, § 3º, IV, que define a saúde do trabalhador. Fica V, F, V.",
+  "porAlt": [
+   "Correta: o meio ambiente do trabalho está no campo de atuação, evitar duplicidade é princípio e não objetivo, e a avaliação tecnológica integra a saúde do trabalhador.",
+   "Errada: o primeiro e o terceiro itens reproduzem o art. 6º da Lei 8.080/1990 e são verdadeiros.",
+   "Errada: evitar duplicidade de meios é princípio do art. 7º, não objetivo do SUS listado no art. 5º.",
+   "Errada: o segundo item é o falso da série, e os outros dois são verdadeiros.",
+   "Errada: o segundo item é falso e o terceiro é verdadeiro, porque o art. 6º, § 3º, IV, inclui a avaliação do impacto das tecnologias."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 31,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Assinale a opção que corresponde a uma das competências da direção municipal do Sistema Único de Saúde – SUS.",
+  "alts": [
+   "Coordenar ações de vigilância epidemiológica.",
+   "Controlar e avaliar as redes hierarquizadas do SUS.",
+   "Definir e coordenar os sistemas de vigilância sanitária.",
+   "Fiscalizar os procedimentos dos serviços privados de saúde.",
+   "Formular, avaliar e apoiar políticas de alimentação e nutrição."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, arts. 16, 17 e 18",
+  "coment": "A Lei 8.080/1990 distribui as competências por esfera. À direção municipal (art. 18) cabe, entre outras, executar serviços de vigilância epidemiológica e sanitária, de alimentação e nutrição e de saúde do trabalhador, e controlar e fiscalizar os procedimentos dos serviços privados de saúde (art. 18, XI). Coordenar ações de vigilância epidemiológica e acompanhar, controlar e avaliar as redes hierarquizadas são competências da direção estadual (art. 17). Definir e coordenar os sistemas de vigilância sanitária e formular, avaliar e apoiar as políticas de alimentação e nutrição são da direção nacional (art. 16).",
+  "porAlt": [
+   "Errada: coordenar e, em caráter complementar, executar a vigilância epidemiológica é competência da direção estadual.",
+   "Errada: acompanhar, controlar e avaliar as redes hierarquizadas do SUS é competência da direção estadual.",
+   "Errada: definir e coordenar os sistemas de vigilância sanitária é competência da direção nacional; ao município cabe executar.",
+   "Correta: controlar e fiscalizar os procedimentos dos serviços privados de saúde é competência da direção municipal (art. 18, XI).",
+   "Errada: formular, avaliar e apoiar as políticas de alimentação e nutrição é competência da direção nacional."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 32,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Acerca das Conferências e Conselhos de Saúde, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F).\n( ) O Conselho de Saúde é um órgão colegiado de caráter permanente, deliberativo, que deve ser composto por representantes do governo, prestadores de serviço, profissionais de saúde e usuários.\n( ) A Conferência de Saúde, composta por vários segmentos sociais, tem a função de fiscalizar, acompanhar e monitorar as políticas públicas de saúde.\n( ) A representação dos usuários nos Conselhos de Saúde e Conferências deve ser paritária em relação ao conjunto dos demais segmentos.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – V.",
+   "F – F – F.",
+   "V – V – F.",
+   "F – F – V.",
+   "V – V – V."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 1º",
+  "coment": "A Lei 8.142/1990, art. 1º, define as duas instâncias colegiadas. O Conselho de Saúde é permanente e deliberativo, composto por representantes do governo, prestadores de serviço, profissionais de saúde e usuários, e atua na formulação de estratégias e no controle da execução da política de saúde (§ 2º). A Conferência de Saúde se reúne a cada quatro anos, com representação dos vários segmentos sociais, para avaliar a situação de saúde e propor diretrizes para a formulação da política (§ 1º); acompanhar e fiscalizar a execução é papel do conselho. A representação dos usuários é paritária em relação ao conjunto dos demais segmentos (§ 4º).",
+  "porAlt": [
+   "Correta: o conselho é permanente e deliberativo, a fiscalização da execução é dele e não da conferência, e a paridade dos usuários está no § 4º.",
+   "Errada: o primeiro e o terceiro itens reproduzem o art. 1º da Lei 8.142/1990 e são verdadeiros.",
+   "Errada: a conferência avalia a situação de saúde e propõe diretrizes; acompanhar e fiscalizar a execução é do conselho.",
+   "Errada: o primeiro item é verdadeiro, porque descreve a composição e o caráter do conselho previstos em lei.",
+   "Errada: o segundo item é falso, porque atribui à conferência o controle da execução, que cabe ao conselho."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 33,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Considerando os níveis de assistência à saúde, assinale a opção que corresponde a um serviço de atenção secundária ou de média complexidade.",
+  "alts": [
+   "Consultórios de rua.",
+   "Unidades Básicas de Saúde.",
+   "Ambulatórios de cardiologia.",
+   "Unidades de terapia Intensiva.",
+   "Unidades de ensino e pesquisa."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 4.279/2010 (Redes de Atenção à Saúde), consolidada na Portaria de Consolidação 3/2017",
+  "coment": "Na organização por níveis, a atenção primária é a porta de entrada preferencial e inclui UBS e Consultório na Rua. A atenção secundária, de média complexidade, reúne ambulatórios de especialidades, como cardiologia, serviços de apoio diagnóstico e terapêutico e urgência de porte intermediário. A atenção terciária, de alta complexidade, concentra leitos de UTI, cirurgias de grande porte e hospitais de ensino. Nas Redes de Atenção à Saúde (Portaria GM/MS 4.279/2010) os pontos têm relação horizontal, sem hierarquia de importância, mas a densidade tecnológica continua definindo o nível.",
+  "porAlt": [
+   "Errada: o Consultório na Rua é equipe da atenção primária voltada à população em situação de rua.",
+   "Errada: a Unidade Básica de Saúde é o ponto central da atenção primária.",
+   "Correta: ambulatório de especialidade, como cardiologia, é atenção secundária ou de média complexidade.",
+   "Errada: a unidade de terapia intensiva é atenção terciária, de alta complexidade.",
+   "Errada: unidades de ensino e pesquisa costumam concentrar alta complexidade, no nível terciário."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 34,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Com base nas disposições acerca da organização do Sistema Único de Saúde, analise as afirmativas a seguir.\nI. Para que uma região de saúde seja instituída ela deve conter minimamente serviços de vigilância em saúde ambiental e de vigilância sanitária.\nII. Em relação às Regiões de Saúde, cabe aos entes federativos definir seus limites geográficos e a população usuária das ações e serviços.\nIII. Serviços Especiais de Acesso Aberto são serviços de saúde específicos para o atendimento da pessoa que, em razão de agravo ou de situação laboral, necessita de atendimento especial.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Decreto 7.508/2011, arts. 2º, 5º e 7º",
+  "coment": "O Decreto 7.508/2011 regulamenta a Lei 8.080. Pelo art. 5º, para ser instituída, a Região de Saúde deve conter, no mínimo, ações e serviços de atenção primária, urgência e emergência, atenção psicossocial, atenção ambulatorial especializada e hospitalar e vigilância em saúde; reduzir esse mínimo à vigilância ambiental e sanitária torna o item I falso. O art. 7º, parágrafo único, manda os entes federativos definirem os limites geográficos e a população usuária das regiões. O art. 2º, VI, define Serviços Especiais de Acesso Aberto exatamente como no item III.",
+  "porAlt": [
+   "Errada: o item I é falso, porque o mínimo do art. 5º inclui cinco grupos de ações, não só vigilância ambiental e sanitária.",
+   "Errada: o item II está correto, mas o III também, pois reproduz a definição do art. 2º, VI.",
+   "Errada: o item III está correto, mas o II também, pois os entes definem limites e população das regiões.",
+   "Errada: o item I é falso, já que a região exige atenção primária, urgência, psicossocial, especializada e hospitalar e vigilância em saúde.",
+   "Correta: os itens II e III reproduzem os arts. 7º e 2º do Decreto 7.508/2011, e o I distorce o mínimo do art. 5º."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 36,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Com base nos Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde, analise as afirmativas a seguir.\nI. O serviço de saúde deve possuir equipe multiprofissional dimensionada de acordo com seu perfil de demanda.\nII. Uma das responsabilidades dos serviços de saúde é promover a capacitação de seus profissionais antes do início das atividades e de forma permanente em conformidade com as atividades desenvolvidas.\nIII. O serviço de saúde deve executar ações de gerenciamento dos riscos de acidentes inerentes às atividades desenvolvidas.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "I, II e III."
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 63/2011",
+  "coment": "A RDC ANVISA 63/2011 estabelece os requisitos de boas práticas de funcionamento para os serviços de saúde, fundamentados na qualificação, na humanização da atenção e gestão e na redução e controle de riscos. Ela exige equipe multiprofissional dimensionada de acordo com o perfil de demanda, capacitação dos profissionais antes do início das atividades e de forma permanente, conforme as atividades desenvolvidas, e ações de gerenciamento dos riscos inerentes às atividades. Os três itens reproduzem a norma.",
+  "porAlt": [
+   "Errada: o item I está correto, mas a capacitação e o gerenciamento de riscos também são exigências da RDC 63/2011.",
+   "Errada: a capacitação permanente é exigida, mas o dimensionamento da equipe e o gerenciamento de riscos também.",
+   "Errada: o gerenciamento de riscos é exigido, assim como a equipe dimensionada e a capacitação.",
+   "Errada: falta o item III, pois a norma também manda executar o gerenciamento dos riscos das atividades.",
+   "Correta: equipe dimensionada pela demanda, capacitação inicial e permanente e gerenciamento de riscos são requisitos da RDC 63/2011."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 37,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com os Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde, tais serviços devem estabelecer estratégias e ações voltadas para Segurança do Paciente.\nEntre essas ações estão mecanismos para",
+  "alts": [
+   "promover o autocuidado.",
+   "prevenir úlceras por pressão.",
+   "estimular a proteção especifica.",
+   "estimular a promoção da saúde.",
+   "orientar a identificação de riscos."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Prevenção de quedas e de lesão por pressão",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 63/2011, art. 8º",
+  "coment": "O art. 8º da RDC ANVISA 63/2011 manda o serviço de saúde estabelecer estratégias e ações voltadas para a segurança do paciente, como mecanismos de identificação do paciente, orientações para higienização das mãos, ações de prevenção e controle de eventos adversos, mecanismos para garantir a segurança cirúrgica, orientações para administração segura de medicamentos, sangue e hemocomponentes, mecanismos para prevenção de quedas e de úlceras por pressão e estímulo à participação do paciente na assistência. A norma usa úlcera por pressão; o termo atual é lesão por pressão (NPIAP 2016).",
+  "porAlt": [
+   "Errada: promover o autocuidado é ação de educação em saúde, não um dos mecanismos de segurança listados no art. 8º.",
+   "Correta: mecanismos para prevenir úlceras, hoje chamadas lesões, por pressão estão na lista do art. 8º da RDC 63/2011.",
+   "Errada: proteção específica é nível de prevenção de Leavell e Clark, não item da lista de segurança do paciente.",
+   "Errada: promoção da saúde é conceito de saúde coletiva e não consta entre as ações de segurança do art. 8º.",
+   "Errada: a norma não lista essa orientação genérica; ela fala em mecanismos concretos, como identificação do paciente e prevenção de quedas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 38,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com as disposições normativas acerca da segurança do paciente, os eventos adversos que evoluírem para óbito devem ser notificados em até",
+  "alts": [
+   "24 horas a partir do ocorrido.",
+   "36 horas a partir do ocorrido.",
+   "48 horas a partir do ocorrido.",
+   "72 horas a partir do ocorrido.",
+   "96 horas a partir do ocorrido."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 10, parágrafo único",
+  "coment": "A RDC ANVISA 36/2013 manda o Núcleo de Segurança do Paciente notificar os eventos adversos ao Sistema Nacional de Vigilância Sanitária pelo Notivisa. A notificação dos eventos em geral é mensal, até o 15º dia útil do mês seguinte (art. 10). Os eventos adversos que evoluem para óbito devem ser notificados em até 72 horas a partir do ocorrido (art. 10, parágrafo único). Não confundir com o limite de 72 horas da profilaxia pós-exposição ao HIV, que vem de outra norma.",
+  "porAlt": [
+   "Errada: 24 horas é o prazo da notificação imediata de doenças da lista compulsória, não do óbito por evento adverso.",
+   "Errada: 36 horas não é prazo previsto na RDC 36/2013.",
+   "Errada: 48 horas não é o prazo da norma para o evento adverso com óbito.",
+   "Correta: o evento adverso que evolui para óbito é notificado em até 72 horas (RDC 36/2013, art. 10, parágrafo único).",
+   "Errada: 96 horas ultrapassa o prazo de 72 horas fixado pela RDC 36/2013."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 39,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Assinale a opção que corresponde a uma das diretrizes da Política Nacional de Humanização do SUS.",
+  "alts": [
+   "Transversalidade.",
+   "Valorização do trabalhador.",
+   "Autonomia dos sujeitos e coletivos.",
+   "Fortalecimento do controle social.",
+   "Indissociabilidade entre atenção e gestão."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Política Nacional de Humanização, HumanizaSUS (MS, 2013)",
+  "coment": "A Política Nacional de Humanização (documento HumanizaSUS do MS, 2013) organiza-se em princípios, diretrizes e dispositivos. Os princípios são transversalidade, indissociabilidade entre atenção e gestão e protagonismo, corresponsabilidade e autonomia dos sujeitos e coletivos. As diretrizes são acolhimento, gestão participativa e cogestão, ambiência, clínica ampliada e compartilhada, valorização do trabalhador e defesa dos direitos dos usuários. Valorização do trabalhador é a única diretriz entre as opções; as alternativas A, C e E são princípios.",
+  "porAlt": [
+   "Errada: transversalidade é princípio da PNH, não diretriz.",
+   "Correta: valorização do trabalhador é diretriz da PNH, ao lado de acolhimento, cogestão, ambiência, clínica ampliada e defesa dos direitos dos usuários.",
+   "Errada: protagonismo, corresponsabilidade e autonomia dos sujeitos e coletivos formam um princípio da PNH.",
+   "Errada: fortalecimento do controle social não está entre as diretrizes atuais da PNH; a participação aparece na diretriz de gestão participativa e cogestão.",
+   "Errada: a indissociabilidade entre atenção e gestão é princípio da PNH."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 40,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Com base nos conceitos relacionados à prevenção de doenças e suas categorias, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F).\n( ) A manutenção de baixo risco é a realização de testes ou exames diagnósticos em populações ou pessoas assintomáticas, com a finalidade de diagnóstico precoce.\n( ) A redução de risco foca nas características que implicam risco de moderado a alto, entre os indivíduos ou segmentos da população, e busca maneiras de controlar ou diminuir a prevalência da doença.\n( ) A detecção precoce tem por objetivo assegurar que as pessoas de baixo risco para problemas de saúde permaneçam com essa condição e encontrem meios de evitar doença.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – V.",
+   "F – V – F.",
+   "V – V – V.",
+   "F – F – F.",
+   "V – V – F."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "MS, Cadernos de Atenção Primária nº 29, Rastreamento (2010)",
+  "coment": "O Caderno de Atenção Primária nº 29 (Rastreamento, MS, 2010) classifica as ações preventivas em categorias. Manutenção de baixo risco busca que pessoas de baixo risco permaneçam nessa condição e encontrem meios de evitar a doença. Redução de risco foca quem tem risco moderado a alto, individual ou populacional, e busca controlar ou diminuir a prevalência da doença. Detecção precoce, ou rastreamento, é a realização de testes ou exames em pessoas assintomáticas para diagnóstico precoce. O primeiro e o terceiro itens trocaram as definições de manutenção de baixo risco e de detecção precoce.",
+  "porAlt": [
+   "Errada: os itens I e III estão com as definições trocadas e por isso são falsos.",
+   "Correta: só o item II está certo; o I descreve a detecção precoce e o III, a manutenção de baixo risco.",
+   "Errada: o primeiro e o terceiro itens invertem os conceitos de manutenção de baixo risco e de detecção precoce.",
+   "Errada: o segundo item define corretamente a redução de risco.",
+   "Errada: o primeiro item é falso, porque exame em assintomático para diagnóstico precoce é detecção precoce."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As variações cíclicas são definidas como flutuações na incidência de uma doença que",
+  "alts": [
+   "ocorrem de forma inusitada.",
+   "coincidem com as estações do ano.",
+   "ocorrem em um período maior que um ano.",
+   "ocorrem dentro do período de um ano.",
+   "dependem de fatores como temperatura e umidade do ar."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia & Saúde, 8ª ed. (2018)",
+  "coment": "Na distribuição temporal das doenças, a epidemiologia distingue tendência secular (mudança de longo prazo, ao longo de décadas), variação cíclica (flutuação periódica com ciclos maiores que um ano, como as ondas de sarampo a cada dois ou três anos antes da vacinação), variação sazonal (flutuação dentro do ano, ligada às estações, à temperatura e à umidade) e variação irregular, a ocorrência inusitada, como surtos e epidemias. O que define a cíclica é o período maior que um ano.",
+  "porAlt": [
+   "Errada: a ocorrência inusitada caracteriza variação irregular, como surtos e epidemias.",
+   "Errada: coincidir com as estações do ano define variação sazonal.",
+   "Correta: variação cíclica é a flutuação periódica da incidência com ciclos de duração maior que um ano.",
+   "Errada: flutuação dentro do período de um ano é variação sazonal.",
+   "Errada: a dependência de temperatura e umidade explica a sazonalidade, não a variação cíclica."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A OMS divulgou, em agosto de 2023, boletim semanal que apontava para o aumento de 68% na incidência de Covid-19 em relação ao período anterior. Isso significa que, no período avaliado, houve o aumento dos casos",
+  "alts": [
+   "novos.",
+   "tratados.",
+   "suspeitos.",
+   "notificados.",
+   "prevalentes."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "RIPSA, Indicadores básicos para a saúde no Brasil, 2ª ed. (2008)",
+  "coment": "Incidência é o número de casos novos de uma doença em uma população, em determinado período, dividido pela população exposta ao risco. Mede o risco de adoecer e a velocidade de propagação, e por isso é o indicador usado em boletins de tendência como o citado. Prevalência é o total de casos existentes, novos e antigos, em um momento ou período, e depende da incidência e da duração da doença. Aumento de 68% na incidência significa mais casos novos no período avaliado.",
+  "porAlt": [
+   "Correta: incidência mede casos novos no período; seu aumento indica mais casos novos.",
+   "Errada: casos tratados não definem incidência; o tratamento não altera a contagem de casos novos.",
+   "Errada: incidência se refere a casos novos da doença, não a casos suspeitos.",
+   "Errada: notificados são os casos que a vigilância registra, mas o indicador incidência mede casos novos, não o ato de notificar.",
+   "Errada: casos prevalentes são todos os existentes, novos e antigos, o que define a prevalência."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O indicador de saúde denominado taxa de mortalidade neonatal tardia diz respeito ao número de óbitos em crianças de",
+  "alts": [
+   "0 a 6 dias de vida completos.",
+   "0 a 15 dias de vida completos",
+   "7 a 27 dias de vida completos.",
+   "15 a 30 dias de vida completos.",
+   "28 a 364 dias de vida completos."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "RIPSA, Indicadores básicos para a saúde no Brasil, 2ª ed. (2008)",
+  "coment": "Pela RIPSA, a mortalidade infantil (óbitos de menores de 1 ano por mil nascidos vivos) se divide em neonatal precoce, de 0 a 6 dias de vida completos; neonatal tardia, de 7 a 27 dias completos; e pós-neonatal, de 28 a 364 dias completos. A soma das duas primeiras é a mortalidade neonatal (0 a 27 dias). A mortalidade perinatal junta os óbitos fetais a partir de 22 semanas com os neonatais precoces. O denominador dos componentes da mortalidade infantil é o número de nascidos vivos.",
+  "porAlt": [
+   "Errada: 0 a 6 dias de vida completos é o componente neonatal precoce.",
+   "Errada: 0 a 15 dias não corresponde a nenhum componente da mortalidade infantil.",
+   "Correta: a neonatal tardia conta os óbitos de 7 a 27 dias de vida completos.",
+   "Errada: 15 a 30 dias não é faixa usada pela RIPSA; a neonatal tardia termina aos 27 dias.",
+   "Errada: 28 a 364 dias completos é o componente pós-neonatal."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O estudo epidemiológico observacional que reúne dois ou mais grupos de pessoas e os acompanha longitudinalmente no tempo, partindo da exposição e indo ao encontro do desfecho, é denominado",
+  "alts": [
+   "coorte.",
+   "seccional.",
+   "caso-controle.",
+   "meta-análise.",
+   "ensaio clínico."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia & Saúde, 8ª ed. (2018)",
+  "coment": "No estudo de coorte, grupos definidos pela exposição (expostos e não expostos) são acompanhados longitudinalmente até o aparecimento do desfecho, e compara-se a incidência entre eles, o que permite calcular o risco relativo. O caso-controle faz o caminho inverso: parte do desfecho e investiga a exposição no passado. O seccional mede exposição e desfecho no mesmo momento. Ensaio clínico é experimental, porque o pesquisador atribui a intervenção, e meta-análise é síntese estatística de estudos já publicados.",
+  "porAlt": [
+   "Correta: a coorte parte da exposição e acompanha os grupos no tempo até o desfecho.",
+   "Errada: o estudo seccional mede exposição e desfecho em um único momento, sem seguimento.",
+   "Errada: o caso-controle parte do desfecho e investiga a exposição pregressa, no sentido inverso.",
+   "Errada: meta-análise é síntese estatística de estudos já realizados, não estudo observacional de grupos.",
+   "Errada: o ensaio clínico é experimental, porque o pesquisador atribui a intervenção."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre as recomendações acerca das vacinas disponibilizadas pelo Programa Nacional de Imunização, assinale a afirmativa correta.",
+  "alts": [
+   "Pessoas portadoras de HIV que não foram vacinadas com a BCG na infância podem tomar a vacina até os 20 anos.",
+   "A primeira dose da vacina contra a Hepatite B deve ser administrada, preferencialmente, nas primeiras 12 horas após o nascimento.",
+   "O primeiro reforço da vacina DTP deve ser administrado aos 12 meses de idade e o segundo aos 2 anos de idade.",
+   "A vacina inativada contra a poliomielite (VIP) deve ser administrada com intervalo mínimo de 20 dias entre as doses e máximo de 45 dias.",
+   "Na gestante, a vacina dupla adulto (dT) deve ser administrada apenas no primeiro trimestre da gestação."
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "Pela Instrução Normativa do Calendário Nacional de Vacinação 2026, a hepatite B é dada logo após o nascimento, na sala de parto ou nas primeiras 12 horas, ainda na maternidade; no filho de mãe HBsAg positiva, se não for possível, até 24 horas. As outras afirmativas contrariam a IN: ninguém recebe BCG a partir dos 5 anos, e a pessoa com HIV nessa idade é contraindicação; os reforços da DTP são aos 15 meses e aos 4 anos; a VIP tem intervalo de 60 dias entre as doses, mínimo de 30; e a gestante pode receber dT em qualquer idade gestacional, com a dTpa a partir da 20ª semana.",
+  "porAlt": [
+   "Errada: a partir de 5 anos ninguém recebe BCG, e a pessoa com HIV nessa idade é contraindicação mesmo assintomática.",
+   "Correta: a 1ª dose da hepatite B é dada na sala de parto ou nas primeiras 12 horas de vida, ainda na maternidade.",
+   "Errada: os reforços da DTP são aos 15 meses e aos 4 anos de idade.",
+   "Errada: o intervalo da VIP é de 60 dias entre as doses, com mínimo de 30 dias em situação excepcional, sem teto de 45 dias.",
+   "Errada: a dT pode ser feita em qualquer fase da gestação, e a dTpa é indicada a partir da 20ª semana."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas disposições da Política Nacional de Saúde da Pessoa Idosa, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F).\n( ) Uma das diretrizes da Política Nacional da Pessoa Idosa é a promoção do envelhecimento ativo e saudável.\n( ) A finalidade primordial da Política Nacional de Saúde da Pessoa Idosa é recuperar, manter e promover a autonomia e a independência dos indivíduos idosos.\n( ) Considera-se o idoso com potencial para desenvolver fragilidade aquele que encontra-se com pelo menos uma incapacidade funcional básica ou viva situações de violência doméstica.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – V – F.",
+   "F – V – V.",
+   "V – V – V.",
+   "F – V – F.",
+   "V – F – V."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.528/2006 (Política Nacional de Saúde da Pessoa Idosa)",
+  "coment": "A Portaria GM/MS 2.528/2006 tem como finalidade primordial recuperar, manter e promover a autonomia e a independência dos idosos, e a promoção do envelhecimento ativo e saudável é a primeira de suas diretrizes. O terceiro item é falso: o idoso com pelo menos uma incapacidade funcional básica ou que vive situação de violência doméstica é classificado pela política como frágil ou em situação de fragilidade, ao lado de quem vive em instituição de longa permanência, está acamado, foi hospitalizado recentemente ou tem doença causadora de incapacidade. Não é o idoso com potencial para desenvolver fragilidade.",
+  "porAlt": [
+   "Correta: o envelhecimento ativo é diretriz, a autonomia e a independência são a finalidade primordial, e o terceiro item descreve o idoso frágil.",
+   "Errada: o primeiro item é verdadeiro, porque o envelhecimento ativo e saudável é diretriz da política.",
+   "Errada: o terceiro item é falso, pois incapacidade funcional básica e violência doméstica definem o idoso frágil.",
+   "Errada: o primeiro item é verdadeiro e corresponde à primeira diretriz da Portaria 2.528/2006.",
+   "Errada: a finalidade primordial da política é justamente recuperar, manter e promover a autonomia e a independência."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente portador de doença cardíaca se sente bem em repouso, porém, mesmo atividades físicas menos intensas que as habituais causam sintomas como dispneia, fadiga e palpitação.\nDe acordo com a classificação funcional, esse paciente é classificado com insuficiência cardíaca",
+  "alts": [
+   "Classe I.",
+   "Classe II.",
+   "Classe III.",
+   "Classe IV.",
+   "Classe V."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda (SBC, 2018), classificação NYHA",
+  "coment": "A classificação funcional da New York Heart Association, adotada pela Diretriz Brasileira de Insuficiência Cardíaca (SBC, 2018), tem quatro classes. Classe I: sem sintomas nas atividades habituais. Classe II: sintomas nas atividades habituais, confortável em repouso. Classe III: sintomas com atividades menos intensas que as habituais, ainda confortável em repouso. Classe IV: sintomas em repouso ou com qualquer atividade. O paciente do enunciado, bem em repouso e sintomático em esforços menores que os habituais, é classe III.",
+  "porAlt": [
+   "Errada: na classe I não há sintomas com as atividades físicas habituais.",
+   "Errada: na classe II os sintomas aparecem nas atividades habituais, não em esforços menores que elas.",
+   "Correta: sem sintomas em repouso e com sintomas em atividades menos intensas que as habituais define a classe III.",
+   "Errada: a classe IV tem sintomas mesmo em repouso, o que não ocorre no caso.",
+   "Errada: a classificação da NYHA tem apenas quatro classes; não existe classe V."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Determinar os resultados que se espera alcançar na assistência a um paciente internado na clínica cirúrgica de uma unidade hospitalar, é ação que faz parte da etapa do processo de enfermagem de",
+  "alts": [
+   "implementação.",
+   "coleta de dados.",
+   "diagnóstico.",
+   "planejamento.",
+   "complementação."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, art. 4º",
+  "coment": "A Res. COFEN 736/2024, que revogou a 358/2009, organiza o Processo de Enfermagem em cinco etapas (art. 4º): Avaliação, Diagnóstico, Planejamento, Implementação e Evolução. O Planejamento compreende o plano assistencial com três elementos: priorização dos diagnósticos, determinação dos resultados esperados e tomada de decisão terapêutica, que é a prescrição de enfermagem. Definir os resultados que se espera alcançar é, portanto, ação do Planejamento. A antiga coleta de dados (Histórico, na 358/2009) passou a se chamar Avaliação de Enfermagem.",
+  "porAlt": [
+   "Errada: a implementação é a execução das intervenções prescritas, não a definição dos resultados.",
+   "Errada: a coleta de dados, hoje chamada Avaliação de Enfermagem, levanta informações sobre a pessoa e não fixa metas.",
+   "Errada: o diagnóstico interpreta os dados e nomeia as respostas humanas, sem definir os resultados esperados.",
+   "Correta: determinar os resultados esperados é elemento do Planejamento, junto com a priorização e a prescrição de enfermagem.",
+   "Errada: complementação não é etapa do Processo de Enfermagem; a quinta etapa é a Evolução."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um critério que caracteriza uma RCP de alta qualidade na assistência a um paciente adulto em parada cardiorrespiratória é",
+  "alts": [
+   "evitar ventilação excessiva.",
+   "realizar até 100 compressões torácicas por minuto.",
+   "comprimir o tórax do paciente com força suficiente que não ultrapasse 5cm.",
+   "alternar os responsáveis pelas compressões torácicas a cada 4 minutos.",
+   "realizar 20 compressões para 5 ventilações, se não houver via aérea avançada."
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "AHA Guidelines for CPR and ECC 2025",
+  "coment": "As diretrizes AHA 2025 mantiveram os números da RCP de alta qualidade no adulto: 100 a 120 compressões por minuto, profundidade de pelo menos 5 cm sem passar de 6 cm, retorno completo do tórax, mínimo de interrupções, troca de quem comprime a cada 2 minutos ou antes se houver cansaço, relação 30:2 sem via aérea avançada e evitar ventilação excessiva. Ventilar demais aumenta a pressão intratorácica e reduz o retorno venoso e o débito gerado pelas compressões, por isso é critério de qualidade.",
+  "porAlt": [
+   "Correta: evitar ventilação excessiva é critério de RCP de alta qualidade, porque o excesso reduz o retorno venoso.",
+   "Errada: a frequência é de 100 a 120 compressões por minuto; 100 é o mínimo, não o teto.",
+   "Errada: a profundidade é de pelo menos 5 cm, sem ultrapassar 6 cm.",
+   "Errada: o revezamento de quem comprime é a cada 2 minutos, ou antes se houver cansaço.",
+   "Errada: sem via aérea avançada, a relação no adulto é de 30 compressões para 2 ventilações."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca da triagem neonatal biológica (teste do pezinho), avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F).\n( ) O período ideal para coleta da primeira amostra é entre o 5º e o 7º dia de vida do bebê.\n( ) Entre as doenças que podem ser diagnosticas pelo teste do pezinho estão a fenilcetonúria e a fibrose cística.\n( ) As amostras que não forem enviadas ao laboratório logo após a secagem completa devem ser mantidas refrigeradas a uma temperatura inferior a 8°C.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – V.",
+   "F – F – V.",
+   "V – V – F.",
+   "F – V – F.",
+   "V – V – V."
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "MS, Triagem Neonatal Biológica: manual técnico (2016); Lei 14.154/2021",
+  "coment": "Pelo manual técnico de Triagem Neonatal Biológica do MS (2016), a primeira amostra é colhida entre o 3º e o 5º dia de vida: antes de 48 horas de alimentação a fenilalanina ainda não subiu e o TSH está no pico pós-natal, e depois do 5º dia o diagnóstico atrasa. O primeiro item é falso. O teste detecta, entre outras, fenilcetonúria, hipotireoidismo congênito, hemoglobinopatias, fibrose cística, hiperplasia adrenal congênita e deficiência de biotinidase; o segundo é verdadeiro. O terceiro é controverso, porque guias de serviço mandam guardar a amostra seca em geladeira, bem vedada, se o envio não é imediato; a banca o julgou falso. A resposta não depende dele: só a D tem F e V nos dois primeiros.",
+  "porAlt": [
+   "Errada: o primeiro item é falso, porque o período ideal da coleta é do 3º ao 5º dia de vida.",
+   "Errada: o segundo item é verdadeiro; fenilcetonúria e fibrose cística estão entre as doenças triadas.",
+   "Errada: o primeiro item é falso, já que a coleta ideal não vai até o 7º dia.",
+   "Correta: a coleta ideal do 3º ao 5º dia torna o primeiro item falso, o segundo é verdadeiro e a banca julgou falso o terceiro.",
+   "Errada: o primeiro item é falso, porque coletar do 5º ao 7º dia atrasa o diagnóstico."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando todos os critérios recomendados para o diagnóstico, um dos valores definidores da hipertensão arterial é",
+  "alts": [
+   "PAD ≥ 80.",
+   "PAD ≥ 85.",
+   "PAS ≥ 130mmHg.",
+   "PAS ≥ 135mmHg.",
+   "PAS ≥ 140mmHg."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH e SBN)",
+  "coment": "A hipertensão arterial é diagnosticada no consultório com PA sistólica de 140 mmHg ou mais e/ou diastólica de 90 mmHg ou mais, em medidas repetidas em duas ou mais visitas. A Diretriz Brasileira de Hipertensão Arterial 2025 manteve esse limiar e passou a chamar de pré-hipertensão a faixa de 120 a 139 e/ou 80 a 89 mmHg. O corte de 130/80 mmHg vale para MAPA de 24 horas e MRPA e é a meta de tratamento, não o diagnóstico no consultório. Por isso PAS de 140 mmHg ou mais é o valor definidor.",
+  "porAlt": [
+   "Errada: PAD de 80 a 89 mmHg é pré-hipertensão; o diagnóstico exige PAD de 90 mmHg ou mais.",
+   "Errada: PAD de 85 mmHg não define hipertensão; o limiar diastólico no consultório é 90 mmHg.",
+   "Errada: PAS de 130 mmHg no consultório é pré-hipertensão; 130/80 é corte de MAPA e MRPA e meta de tratamento.",
+   "Errada: 135 mmHg não é limiar diagnóstico no consultório pela diretriz de 2025.",
+   "Correta: PAS de 140 mmHg ou mais, confirmada em visitas repetidas, define hipertensão."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca da identificação e avaliação de pessoas que foram expostas a pacientes com tuberculose (contatos), analise as afirmativas a seguir.\nI. Um dos critérios de priorização para avaliação dos contatos é crianças menores de cinco anos de idade.\nII. Os contatos sintomáticos (crianças, adolescentes e adultos) devem realizar o tratamento da Infecção latente pelo M. tuberculosis – ILTB independentemente da prova tuberculínica.\nIII. Um dos casos em que se recomenda a avaliação de contatos é quando o caso índice for TB pulmonar definida por critérios clínicos, ainda que sem confirmação bacteriológica.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada (MS, 2019)",
+  "coment": "Pelo Manual de Recomendações para o Controle da Tuberculose (MS, 2019), a avaliação de contatos é obrigatória quando o caso índice tem tuberculose pulmonar ou laríngea, confirmada ou com diagnóstico clínico, o que torna o item III verdadeiro. Têm prioridade os sintomáticos, as crianças menores de 5 anos, as pessoas com HIV, os imunossuprimidos e os contatos de tuberculose resistente. O contato sintomático, em qualquer idade, é investigado para tuberculose ativa; tratar infecção latente sem excluir a doença expõe à monoterapia e à resistência. Por isso o item II é falso.",
+  "porAlt": [
+   "Errada: o item I está correto, mas o III também, porque a TB pulmonar com diagnóstico clínico indica avaliação de contatos.",
+   "Errada: o contato sintomático é investigado para tuberculose ativa; não se trata ILTB sem excluir a doença.",
+   "Errada: o item III está correto, mas o I também, já que crianças menores de 5 anos são prioridade.",
+   "Correta: crianças menores de 5 anos são prioridade, e a TB pulmonar com diagnóstico clínico também indica avaliar os contatos.",
+   "Errada: o item II é falso, porque o sintomático precisa de investigação de tuberculose ativa, não de tratamento de ILTB."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com os protocolos do Ministério da Saúde para o tratamento do Diabetes Tipo 1, os análogos de insulina de ação rápida possuem farmacocinética semelhante, com ação que dura em torno de",
+  "alts": [
+   "1 a 2 horas.",
+   "2 a 3 horas.",
+   "3 a 4 horas.",
+   "4 a 6 horas.",
+   "6 a 8 horas."
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Insulinas e anticoagulantes",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "PCDT da Diabete Melito Tipo 1 (Portaria Conjunta SAES/SCTIE/MS 17/2019)",
+  "coment": "O PCDT da Diabete Melito Tipo 1 do Ministério da Saúde (2019) descreve os análogos de insulina de ação rápida (lispro, asparte e glulisina) com farmacocinética semelhante: início de ação em poucos minutos, pico precoce e duração em torno de 3 a 4 horas. Por agirem rápido e por pouco tempo, são aplicados imediatamente antes das refeições, com menos hipoglicemia tardia do que a insulina regular, que tem início mais lento e duração maior. Para a enfermagem, a ação curta explica por que a refeição não pode atrasar depois da aplicação.",
+  "porAlt": [
+   "Errada: 1 a 2 horas corresponde ao pico de ação, não à duração total dos análogos rápidos.",
+   "Errada: a duração descrita no protocolo é de 3 a 4 horas, maior que 2 a 3 horas.",
+   "Correta: os análogos de ação rápida têm duração em torno de 3 a 4 horas.",
+   "Errada: 4 a 6 horas excede a duração dos análogos rápidos descrita no protocolo.",
+   "Errada: 6 a 8 horas se aproxima da duração da insulina regular, não da dos análogos rápidos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca da Política Nacional de HIV/AIDS, analise as afirmativas a seguir e assinale V para a afirmativa verdadeira e F para a falsa.\n( ) É direito do portador do vírus HIV não ser submetido a isolamento, quarentena ou qualquer tipo de discriminação.\n( ) O diagnóstico da infecção pelo HIV é feito a partir da coleta de sangue venoso ou digital (ponta do dedo), para realização de testes rápidos ou laboratoriais que detectam os anticorpos contra o HIV.\n( ) Além dos testes rápidos e laboratoriais, o SUS também disponibiliza de forma gratuita autotestes para que as pessoas possam se testar quando e onde quiserem.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – F.",
+   "F – V – F.",
+   "V – F – V.",
+   "F – V – V.",
+   "V – V – V."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "HIV e aids",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Declaração dos Direitos Fundamentais da Pessoa Portadora do Vírus da Aids (1989); Manual Técnico para o Diagnóstico da Infecção pelo HIV (MS, 2018)",
+  "coment": "Os três itens são verdadeiros. A Declaração dos Direitos Fundamentais da Pessoa Portadora do Vírus da Aids (1989), adotada pelo Ministério da Saúde, garante que ninguém com HIV seja submetido a isolamento, quarentena ou discriminação. O diagnóstico usa sangue venoso ou digital (ponta do dedo) em testes rápidos ou laboratoriais, conforme os fluxogramas do Manual Técnico para o Diagnóstico da Infecção pelo HIV (MS, 2018); os imunoensaios de quarta geração detectam também o antígeno p24, além dos anticorpos. O SUS distribui autotestes gratuitos, que são de triagem: resultado reagente precisa ser confirmado no serviço de saúde.",
+  "porAlt": [
+   "Errada: o segundo e o terceiro itens também são verdadeiros; o SUS testa com sangue venoso ou digital e distribui autotestes.",
+   "Errada: o primeiro item é verdadeiro, pois isolamento, quarentena e discriminação são vedados à pessoa com HIV.",
+   "Errada: o segundo item é verdadeiro; testes rápidos e laboratoriais usam sangue venoso ou da ponta do dedo.",
+   "Errada: o primeiro item reproduz um direito fundamental da pessoa com HIV e é verdadeiro.",
+   "Correta: os três itens são verdadeiros: não discriminação, diagnóstico com sangue venoso ou digital e autoteste gratuito no SUS."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas disposições acerca do gerenciamento dos Resíduos de Serviços de Saúde (RSS), analise as afirmativas a seguir.\nI. Os sacos contendo RSS infectantes de fácil putrefação devem ser substituídos no máximo a cada 48 horas, independentemente do volume.\nII. O recipiente de acondicionamento dos materiais perfurocortantes deve conter a identificação de todos os riscos presentes.\nIII. A identificação dos sacos para acondicionamento dos RSS deve estar impressa, sendo vedado o uso de adesivo.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "II, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 222/2018",
+  "coment": "Pela RDC ANVISA 222/2018, os sacos de RSS do grupo A são substituídos ao atingir dois terços da capacidade ou a cada 48 horas, e os de resíduo de fácil putrefação, no máximo a cada 24 horas, independentemente do volume (art. 14); por isso o item I, que fala em 48 horas, é falso. O recipiente dos perfurocortantes (grupo E) deve trazer a identificação de todos os riscos presentes. A identificação dos sacos de acondicionamento deve estar impressa, sendo vedado o uso de adesivo. Os itens II e III estão corretos.",
+  "porAlt": [
+   "Errada: o item I é falso, porque o resíduo de fácil putrefação exige troca do saco no máximo a cada 24 horas.",
+   "Errada: o item II está correto, mas o III também, pois a identificação dos sacos deve ser impressa, sem adesivo.",
+   "Errada: o item I é falso; o prazo para resíduo de fácil putrefação é de 24 horas, não de 48.",
+   "Correta: o coletor de perfurocortante identifica todos os riscos presentes, e a identificação do saco é impressa, sendo vedado o adesivo.",
+   "Errada: o item I não está correto, porque 48 horas é o prazo geral e o resíduo de fácil putrefação exige 24 horas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na estratégia de diagnóstico precoce do câncer de próstata, é importante que os profissionais de saúde estejam aptos a reconhecer os sinais e sintomas suspeitos desse tipo de câncer.\nEntre esses sinais e sintomas está(ão)",
+  "alts": [
+   "a disúria.",
+   "a dor abdominal.",
+   "a hematúria visível.",
+   "a dor na região dos flancos.",
+   "as linfonodomegalias inguinais."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Saúde do homem",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "INCA, Detecção precoce do câncer (2021)",
+  "coment": "O INCA não recomenda rastreamento populacional do câncer de próstata em homens assintomáticos e concentra a estratégia no diagnóstico precoce, isto é, na investigação rápida de quem tem sinais e sintomas suspeitos. Entre eles estão dificuldade para urinar, demora para começar e terminar a micção, jato urinário fraco, aumento da frequência urinária e hematúria visível (sangue na urina). A hematúria macroscópica é o achado da lista. Disúria, dor abdominal ou em flancos e linfonodomegalia inguinal apontam mais para infecção, cálculo ou outros tumores.",
+  "porAlt": [
+   "Errada: disúria, a dor ao urinar, aponta mais para infecção urinária e não está entre os sinais de alerta listados pelo INCA.",
+   "Errada: dor abdominal não é sinal de alerta do câncer de próstata na lista do INCA.",
+   "Correta: hematúria visível, o sangue na urina, é sinal de alerta para investigar câncer de próstata.",
+   "Errada: dor em flancos sugere doença renal ou ureteral, como cálculo, e não é sinal típico do câncer de próstata.",
+   "Errada: linfonodomegalia inguinal não é sinal de alerta do câncer de próstata, cuja drenagem é para linfonodos pélvicos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas disposições acerca da febre maculosa (FMB), avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F).\n( ) O período de incubação da FMB é de 7 dias, em média, podendo variar de 2 a 14 dias.\n( ) Clinicamente, a apresentação típica do exantema é de padrão maculopapular, não pruriginoso, com lesões variando entre 1 e 5 mm, acometendo inicialmente as extremidades (punhos e tornozelos, palmas das mãos e planta dos pés).\n( ) Todo caso suspeito de febre maculosa requer notificação compulsória imediata por qualquer meio de comunicação.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – F.",
+   "V – V – V.",
+   "F – F – V.",
+   "V – F – V.",
+   "F – F – F."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Guia de Vigilância em Saúde (MS, 2024); Portaria GM/MS 11.211/2026 (lista de notificação compulsória)",
+  "coment": "Pelo Guia de Vigilância em Saúde do Ministério da Saúde, a febre maculosa brasileira tem período de incubação de 2 a 14 dias, em média 7. O exantema típico é maculopapular, não pruriginoso, e começa nas extremidades, punhos e tornozelos, com acometimento de palmas e plantas, o que ajuda a diferenciá-la de outras doenças exantemáticas; ele pode faltar. Febre maculosa e outras riquetsioses constam da lista nacional como notificação imediata, mantida na Portaria GM/MS 11.211/2026. Os três itens são verdadeiros.",
+  "porAlt": [
+   "Errada: o primeiro e o terceiro itens também são verdadeiros: incubação média de 7 dias e notificação imediata.",
+   "Correta: incubação de 2 a 14 dias, exantema maculopapular que começa nas extremidades e notificação imediata estão certos.",
+   "Errada: o primeiro e o segundo itens são verdadeiros, inclusive a descrição do exantema que começa em punhos e tornozelos.",
+   "Errada: o segundo item é verdadeiro; o exantema típico é maculopapular, não pruriginoso e de início nas extremidades.",
+   "Errada: os três itens reproduzem o Guia de Vigilância em Saúde e a lista de notificação compulsória."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No atendimento a um paciente adulto com suspeita de dengue, um sinal de alarme é",
+  "alts": [
+   "a náusea.",
+   "a exantema.",
+   "a artralgia.",
+   "a prova do laço positiva.",
+   "a hipotensão postural."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed. (MS, 2024)",
+  "coment": "Pelo manual Dengue: diagnóstico e manejo clínico (MS, 6ª ed., 2024), os sinais de alarme surgem em geral na defervescência e indicam extravasamento plasmático: dor abdominal intensa e contínua, vômitos persistentes, acúmulo de líquidos, hipotensão postural ou lipotimia, hepatomegalia acima de 2 cm, sangramento de mucosa, letargia ou irritabilidade e aumento progressivo do hematócrito. Qualquer um deles classifica o paciente no grupo C, com hidratação venosa imediata e internação. Náusea, exantema e artralgia fazem parte do quadro comum, e a prova do laço positiva, sem alarme, define o grupo B.",
+  "porAlt": [
+   "Errada: náusea é sintoma comum da dengue; o sinal de alarme é o vômito persistente.",
+   "Errada: o exantema faz parte do quadro clássico e não é sinal de alarme.",
+   "Errada: artralgia é sintoma comum da fase febril e não indica gravidade.",
+   "Errada: a prova do laço positiva, sem sinal de alarme, coloca o paciente no grupo B, não no C.",
+   "Correta: hipotensão postural ou lipotimia é sinal de alarme e leva ao grupo C."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Nos casos em que há indicação, recomenda-se que a quimioprofilaxia antiviral para influenza seja iniciada em até",
+  "alts": [
+   "12 horas após exposição.",
+   "24 horas após exposição.",
+   "48 horas após exposição.",
+   "60 horas após exposição.",
+   "72 horas após exposição."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Protocolo de Tratamento de Influenza (MS, 2023)",
+  "coment": "Pelo Protocolo de Tratamento de Influenza do Ministério da Saúde (2023), a quimioprofilaxia com oseltamivir é reservada a situações específicas, como pessoas com risco de complicação expostas a caso suspeito ou confirmado, profissionais de saúde expostos sem proteção adequada e residentes de instituições fechadas em surto. Ela só tem eficácia se iniciada em até 48 horas após a exposição; depois disso não é indicada, e a pessoa é orientada a procurar atendimento se surgirem sintomas. A vacinação continua sendo a principal medida de prevenção.",
+  "porAlt": [
+   "Errada: 12 horas não é o limite do protocolo; a quimioprofilaxia pode ser iniciada em até 48 horas.",
+   "Errada: 24 horas não é o limite; o protocolo admite início em até 48 horas após a exposição.",
+   "Correta: a quimioprofilaxia antiviral para influenza deve ser iniciada em até 48 horas após a exposição.",
+   "Errada: depois de 48 horas a quimioprofilaxia perde eficácia e não é indicada.",
+   "Errada: 72 horas é o limite da profilaxia pós-exposição ao HIV, não da quimioprofilaxia da influenza."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 61,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas recomendações do Ministério da Saúde acerca do clampeamento do cordão umbilical em recém-nascidos que não demandem ressuscitação imediata, é correto afirmar que",
+  "alts": [
+   "para recém-nascidos prematuros com menos de 34 semanas, o clampeamento do cordão deve ser adiado por pelo menos 60 segundos.",
+   "recomenda-se que o clampeamento do cordão seja adiado por 60 segundos ou mais apenas nos recém-nascidos com mais de 34 semanas.",
+   "no parto de gravidez gemelar monocoriônica o clampeamento tardio do cordão umbilical não deve exceder 60 segundos.",
+   "a principal vantagem do clampeamento tardio do cordão umbilical é o aumento da hemoglobina e diminuição da icterícia neonatal.",
+   "o clampeamento tardio do cordão umbilical traz benefícios ao recém-nascido a termo, mas é prejudicial para os prematuros limítrofesa."
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes Nacionais de Assistência ao Parto Normal (MS, 2017); SBP, diretrizes de reanimação neonatal (2026)",
+  "coment": "Para o recém-nascido que não precisa de reanimação imediata, a recomendação é adiar o clampeamento do cordão por pelo menos 60 segundos, no termo e também no prematuro com menos de 34 semanas. A Diretriz Nacional de Assistência ao Parto Normal (MS, 2017) recomenda não clampear antes de 1 minuto, e as diretrizes de 2026 da SBP indicam clampear com 60 segundos ou mais o recém-nascido que respira bem. O principal benefício no termo é aumentar as reservas de ferro dos primeiros meses, à custa de mais icterícia a vigiar. O clampeamento é imediato quando a circulação placentária está interrompida, como no descolamento de placenta.",
+  "porAlt": [
+   "Correta: no prematuro com menos de 34 semanas e boa vitalidade, o clampeamento deve ser adiado por pelo menos 60 segundos.",
+   "Errada: o clampeamento tardio não é exclusivo de quem tem mais de 34 semanas; o prematuro também se beneficia.",
+   "Errada: a alternativa cria um teto de 60 segundos para o gemelar monocoriônico que não é a recomendação cobrada; nessa gestação a conduta é individualizada pelo risco de transfusão entre os gêmeos.",
+   "Errada: o principal benefício é o aumento das reservas de ferro, e o clampeamento tardio pode aumentar, não diminuir, a icterícia.",
+   "Errada: o clampeamento tardio também beneficia o prematuro, inclusive o limítrofe, e não é prejudicial a ele."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 62,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas disposições do Ministério da Saúde acerca da assistência ao parto normal, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F).\n( ) No primeiro período do trabalho de parto deve-se registrar a frequência das contrações e a frequência cardíaca materna de 1 em 1 hora.\n( ) A fase ativa do segundo período do parto é caracterizada por contrações uterinas dolorosas e regulares, substancial apagamento cervical e dilatação cervical mais rápida, acima de 5cm.\n( ) Deve-se solicitar a presença do médico obstetra se, imediatamente após o parto, a mulher apresentar pulso > 120bpm verificado em 2 ocasiões com 30 minutos de intervalo.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – F.",
+   "V – F – V.",
+   "F – F – F.",
+   "V – V – V.",
+   "F – V – V."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes Nacionais de Assistência ao Parto Normal (MS, 2017)",
+  "coment": "Pelas Diretrizes Nacionais de Assistência ao Parto Normal (MS, 2017), na fase ativa do primeiro período registram-se a frequência das contrações e o pulso materno de 1 em 1 hora, e a temperatura e a pressão arterial de 4 em 4 horas. O segundo item é falso: contrações dolorosas e regulares, apagamento substancial e dilatação mais rápida a partir de 5 cm caracterizam a fase ativa do primeiro período, não do segundo, que vai da dilatação completa ao nascimento. Pulso materno acima de 120 bpm em duas ocasiões com 30 minutos de intervalo, logo após o parto, está entre os sinais que exigem chamar o obstetra.",
+  "porAlt": [
+   "Errada: o primeiro item é verdadeiro e o segundo é falso, ao contrário do que a sequência indica.",
+   "Correta: o registro horário das contrações e do pulso está certo, a fase descrita é do primeiro período e o pulso acima de 120 bpm exige o obstetra.",
+   "Errada: o primeiro e o terceiro itens reproduzem as diretrizes de 2017 e são verdadeiros.",
+   "Errada: o segundo item é falso, porque a dilatação mais rápida a partir de 5 cm define a fase ativa do primeiro período.",
+   "Errada: o primeiro item é verdadeiro e o segundo é falso."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 63,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca dos conceitos e definições relacionados ao processamento de produtos para a saúde, assinale a afirmativa correta.",
+  "alts": [
+   "As leitoras de indicadores biológicos e as seladoras térmicas devem ser calibradas, no mínimo, a cada 6 meses.",
+   "Os produtos que não entram em contato com o paciente ou entram em contato com pele íntegra são classificados como produtos para saúde semicríticos.",
+   "Os produtos para saúde classificados como críticos devem ser submetidos no mínimo à desinfecção de alto nível, após a limpeza.",
+   "O CME Classe II é aquele que realiza o processamento de produtos para a saúde não-críticos, semicríticos e críticos de conformação não complexa, passíveis de processamento.",
+   "No monitoramento do processo de esterilização dos produtos para saúde implantáveis deve ser adicionado um indicador biológico a cada carga."
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 15/2012",
+  "coment": "A RDC ANVISA 15/2012 manda monitorar a esterilização dos produtos para saúde implantáveis com indicador biológico em cada carga, e o lote só é liberado após leitura negativa (art. 98); nos demais produtos o indicador biológico é diário. As outras afirmativas erram a norma: produto sem contato com o paciente ou só com pele íntegra é não crítico; o crítico exige esterilização, e não desinfecção de alto nível; a CME Classe I processa críticos de conformação não complexa, e a Classe II processa também os de conformação complexa; e a calibração de leitoras de indicador biológico e seladoras térmicas é no mínimo anual.",
+  "porAlt": [
+   "Errada: a RDC 15/2012 exige calibração dessas leitoras e seladoras no mínimo anualmente, não a cada 6 meses.",
+   "Errada: produtos sem contato com o paciente ou em contato com pele íntegra são não críticos.",
+   "Errada: produtos críticos devem ser esterilizados; desinfecção de alto nível é o mínimo para os semicríticos.",
+   "Errada: essa é a definição da CME Classe I; a Classe II processa também críticos de conformação complexa.",
+   "Correta: a esterilização de implantáveis exige indicador biológico em cada carga, com liberação após resultado negativo."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 64,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as orientações do Ministério da Saúde, acerca do esquema vacinal primário recomendado para crianças entre seis meses e quatro anos com o imunizante COVID-19 Pfizer, assinale a afirmativa correta.",
+  "alts": [
+   "Deve ser composto por uma dose.",
+   "Deve ser composto por duas doses.",
+   "Deve ser composto por três doses.",
+   "O intervalo recomendado é de oito semanas entre a primeira e a segunda dose.",
+   "O intervalo recomendado é de quatro semanas entre a segunda e a terceira dose."
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "Pela Instrução Normativa do Calendário Nacional de Vacinação 2026, a criança de 6 meses a 4 anos, 11 meses e 29 dias recebe esquema básico de 3 doses da vacina Pfizer (Comirnaty), aos 6, 7 e 9 meses de idade, ou seja, 4 semanas entre a 1ª e a 2ª dose e 8 semanas entre a 2ª e a 3ª. Quem não iniciou ou não completou o esquema pode recebê-lo até 4 anos, 11 meses e 29 dias. Com a Spikevax (Moderna), o esquema é de 2 doses. Doses periódicas ficam para imunocomprometidos e grupos específicos, não para a criança saudável já vacinada.",
+  "porAlt": [
+   "Errada: o esquema primário infantil com a Pfizer não é de dose única.",
+   "Errada: duas doses são o esquema da Spikevax (Moderna); com a Pfizer são três.",
+   "Correta: com a Pfizer (Comirnaty), o esquema primário de 6 meses a 4 anos tem três doses, aos 6, 7 e 9 meses.",
+   "Errada: o intervalo entre a 1ª e a 2ª dose é de 4 semanas (6 e 7 meses), não de 8.",
+   "Errada: o intervalo entre a 2ª e a 3ª dose é de 8 semanas (7 e 9 meses), não de 4."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 65,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na análise da gasometria, um dos parâmetros que caracteriza a presença de alcalose respiratória é",
+  "alts": [
+   "pH < 7,3.",
+   "PaCO2 > 35mmHg.",
+   "PaCO2 > 45mmHg.",
+   "HCO3 < 22mEq/L.",
+   "HCO3 > 27mEq/L."
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretrizes Brasileiras de Ventilação Mecânica (AMIB e SBPT, 2013)",
+  "coment": "Na gasometria arterial, os valores de referência são pH de 7,35 a 7,45, PaCO2 de 35 a 45 mmHg e bicarbonato em torno de 22 a 26 mEq/L. A alcalose respiratória é definida por pH acima de 7,45 com PaCO2 abaixo de 35 mmHg, por hiperventilação, como na ansiedade, na dor, na hipoxemia ou no excesso de volume minuto no ventilador. A resposta renal compensatória elimina bicarbonato, que cai abaixo de 22 mEq/L. Entre as opções, HCO3 abaixo de 22 é o único achado compatível, como compensação; as demais apontam para acidose ou alcalose metabólica. O que define o distúrbio é a PaCO2 baixa, que não aparece nas alternativas.",
+  "porAlt": [
+   "Errada: pH abaixo de 7,3 indica acidemia, e a alcalose cursa com pH acima de 7,45.",
+   "Errada: PaCO2 acima de 35 mmHg inclui a faixa normal e não caracteriza alcalose respiratória, que exige PaCO2 abaixo de 35.",
+   "Errada: PaCO2 acima de 45 mmHg define acidose respiratória, por hipoventilação.",
+   "Correta: na alcalose respiratória o rim compensa eliminando bicarbonato, que cai abaixo de 22 mEq/L.",
+   "Errada: bicarbonato elevado caracteriza alcalose metabólica ou a compensação de uma acidose respiratória."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "Prefeitura de São José dos Campos 2023, Enfermeiro",
+   "n": 66,
+   "parte": "especificas"
+  }
+ }
+]

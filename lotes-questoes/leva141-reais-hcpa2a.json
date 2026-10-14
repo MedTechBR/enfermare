@@ -1,0 +1,1412 @@
+[
+ {
+  "q": "Segundo a Lei nº 8.080/1990, sobre o campo de atuação do Sistema Único de Saúde (SUS), marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n( ) A colaboração na proteção do meio ambiente, nele compreendido o do trabalho, está incluída no campo de atuação do SUS.\n( ) A participação no controle e na fiscalização da produção, transporte, guarda e utilização de substâncias e produtos psicoativos, tóxicos e radioativos está incluída no campo de atuação do SUS.",
+  "alts": [
+   "E - E.",
+   "C - C.",
+   "C - E.",
+   "E - C."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 6º",
+  "coment": "O art. 6º da Lei 8.080/1990 lista o campo de atuação do SUS. Entre os incisos estão participar do controle e da fiscalização da produção, transporte, guarda e utilização de substâncias e produtos psicoativos, tóxicos e radioativos, e colaborar na proteção do meio ambiente, nele compreendido o do trabalho. As duas afirmativas reproduzem o texto legal, logo C - C. Atenção aos verbos que a banca troca: o SUS executa a vigilância sanitária e epidemiológica, participa do controle de psicoativos e da política de saneamento e colabora com o meio ambiente.",
+  "porAlt": [
+   "Errada: as duas afirmativas reproduzem incisos do art. 6º da Lei 8.080/1990 e são certas.",
+   "Correta: colaborar com o meio ambiente, inclusive o do trabalho, e participar do controle de psicoativos, tóxicos e radioativos são campo do SUS.",
+   "Errada: a participação no controle de substâncias psicoativas, tóxicas e radioativas também está no art. 6º.",
+   "Errada: a colaboração na proteção do meio ambiente, nele compreendido o do trabalho, também está no art. 6º."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 1,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Segundo a Lei nº 8.080/1990, assinalar a alternativa que apresenta princípios a serem obedecidos pelas ações e serviços públicos de saúde e serviços privados contratados ou conveniados que integram o Sistema Único de Saúde (SUS):",
+  "alts": [
+   "Descentralização político-administrativa, com direção única em cada esfera de governo: ênfase na descentralização dos serviços para os municípios, regionalização e hierarquização da rede de serviços de saúde.",
+   "Desintegração, em nível executivo, das ações de saúde, meio ambiente e saneamento básico.",
+   "Complexificação dos serviços em todos os níveis de assistência.",
+   "Organização dos serviços públicos, de modo a alcançar duplicidade de meios para fins idênticos."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º, incisos IX a XIII",
+  "coment": "O art. 7º da Lei 8.080/1990 traz os princípios que valem para os serviços públicos e para os privados contratados ou conveniados. O inciso IX é a descentralização político-administrativa com direção única em cada esfera de governo, com ênfase na descentralização dos serviços para os municípios e com regionalização e hierarquização da rede. Os distratores invertem outros incisos: o X fala em integração, em nível executivo, das ações de saúde, meio ambiente e saneamento básico; o XII, em capacidade de resolução dos serviços em todos os níveis; o XIII, em organização que evite duplicidade de meios para fins idênticos.",
+  "porAlt": [
+   "Correta: é o inciso IX do art. 7º, com municipalização, regionalização e hierarquização da rede.",
+   "Errada: a lei manda integrar, em nível executivo, saúde, meio ambiente e saneamento básico (inciso X), não desintegrar.",
+   "Errada: o inciso XII fala em capacidade de resolução dos serviços em todos os níveis, não em complexificação.",
+   "Errada: o inciso XIII manda organizar os serviços públicos de modo a evitar duplicidade de meios para fins idênticos."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 2,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Considerando-se a Resolução RDC nº 36/2013, da Agência Nacional de Vigilância Sanitária, o Plano de Segurança do Paciente em Serviços de Saúde deve estabelecer estratégias e ações de gestão de risco, conforme as atividades desenvolvidas pelo serviço de saúde, para:\nI. Identificação do paciente.\nII. Prevenção de úlceras por pressão.\nIII. Comunicação efetiva entre profissionais do serviço de saúde e entre serviços de saúde.\nIV. Estimular a participação do paciente e dos familiares na assistência prestada.\nEstá(ão) CORRETO(S):",
+  "alts": [
+   "Somente o item I.",
+   "Somente os itens II e III.",
+   "Somente os itens I, III e IV.",
+   "Todos os itens."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 8º",
+  "coment": "Pelo art. 8º da RDC 36/2013, o Plano de Segurança do Paciente, elaborado pelo Núcleo de Segurança do Paciente, estabelece estratégias de gestão de risco para, entre outros: identificação do paciente, higiene das mãos, segurança cirúrgica, medicamentos, sangue e hemocomponentes, quedas, úlceras por pressão, IRAS, terapia nutricional, comunicação efetiva entre profissionais do serviço e entre serviços de saúde e estímulo à participação do paciente e dos familiares na assistência. Os quatro itens estão no artigo. A norma usa úlcera por pressão; o termo atual (NPIAP, 2016) é lesão por pressão.",
+  "porAlt": [
+   "Errada: a identificação do paciente está no art. 8º, mas os outros três itens também estão.",
+   "Errada: deixa de fora a identificação do paciente e a participação do paciente e da família, ambas previstas.",
+   "Errada: omite a prevenção de úlceras por pressão, que é inciso expresso do art. 8º.",
+   "Correta: identificação, úlcera por pressão, comunicação efetiva e participação do paciente e da família estão no plano."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 3,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Considerando-se a Resolução RDC nº 36/2013, numerar a 2ª coluna de acordo com a 1ª e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n(1) Dano.\n(2) Evento adverso.\n(3) Incidente.\n( ) Evento ou circunstância que poderia ter resultado, ou resultou, em dano desnecessário à saúde.\n( ) Comprometimento da estrutura ou função do corpo e/ou qualquer efeito dele oriundo, incluindo doenças, lesão, sofrimento, morte, incapacidade ou disfunção, podendo, assim, ser físico, social ou psicológico.\n( ) Incidente que resulta em dano à saúde.",
+  "alts": [
+   "3 - 1 - 2.",
+   "3 - 2 - 1.",
+   "2 - 1 - 3.",
+   "2 - 3 - 1."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 3º",
+  "coment": "O art. 3º da RDC 36/2013, alinhado à classificação de segurança do paciente da OMS, define: incidente é o evento ou circunstância que poderia ter resultado, ou resultou, em dano desnecessário à saúde; dano é o comprometimento da estrutura ou função do corpo ou qualquer efeito dele oriundo, incluindo doença, lesão, sofrimento, morte, incapacidade ou disfunção, físico, social ou psicológico; evento adverso é o incidente que resulta em dano à saúde. Sequência 3 - 1 - 2. Todo evento adverso é incidente, mas nem todo incidente causa dano.",
+  "porAlt": [
+   "Correta: incidente, dano e evento adverso, na ordem das definições do art. 3º.",
+   "Errada: troca dano por evento adverso; comprometimento da estrutura ou função do corpo é a definição de dano.",
+   "Errada: o evento que poderia ter resultado ou resultou em dano é o incidente, não o evento adverso.",
+   "Errada: inverte incidente e evento adverso; evento adverso é o incidente que resulta em dano."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 4,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre a educação em saúde, analisar os itens abaixo:\nI. As práticas de educação em saúde são inerentes ao trabalho em saúde, mas muitas vezes estão relegadas a um segundo plano no planejamento e na organização dos serviços, na execução das ações de cuidado e na própria gestão.\nII. Na educação em saúde, deve ser enfatizada a educação popular em saúde, que valoriza os saberes, o conhecimento prévio da população, e não somente o conhecimento científico.\nIII. As práticas de educação em saúde envolvem: os profissionais de saúde que valorizem a prevenção e a promoção tanto quanto as práticas curativas; os gestores que apoiem esses profissionais; e a população que necessita construir seus conhecimentos e aumentar sua autonomia nos cuidados, individual e coletivamente.\nEstá(ão) CORRETO(S):",
+  "alts": [
+   "Somente o item I.",
+   "Somente o item II.",
+   "Somente os itens I e III.",
+   "Todos os itens."
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Educação em saúde",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Falkenberg et al., Ciência & Saúde Coletiva, 2014 (educação em saúde e educação na saúde)",
+  "coment": "Falkenberg et al. (2014) mostram que a educação em saúde é inerente ao trabalho em saúde, mas costuma ficar em segundo plano no planejamento, no cuidado e na gestão (I). Defendem a educação popular em saúde, que parte dos saberes e do conhecimento prévio da população, e não só do saber científico (II). E descrevem três segmentos envolvidos: profissionais que valorizem prevenção e promoção tanto quanto a cura, gestores que os apoiem e população que constrói conhecimento e amplia a autonomia no cuidado individual e coletivo (III). Todos certos.",
+  "porAlt": [
+   "Errada: o item I é certo, mas os itens II e III também descrevem corretamente a educação em saúde.",
+   "Errada: a educação popular é valorizada, mas os itens I e III também são certos.",
+   "Errada: exclui o item II, e a valorização dos saberes populares é central na educação em saúde.",
+   "Correta: os três itens descrevem a educação em saúde, seu lugar nos serviços, a educação popular e os atores envolvidos."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 5,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com PEITER et al., é CORRETO afirmar que:",
+  "alts": [
+   "A educação permanente não se aplica como ferramenta para fortalecer o comprometimento e o preparo de profissionais e gestores para a gestão das redes.",
+   "Existe a necessidade premente, para o fortalecimento das Redes de Atenção à Saúde (RAS), de ações que articulem promoção da saúde às práticas de cuidado, deixando de lado o autocuidado e a participação da equipe multiprofissional.",
+   "A necessidade de ações que articulem promoção da saúde às práticas de cuidado, com foco no autocuidado e participação da equipe multiprofissional, usuário e familiar para um cuidado compartilhado são premissas articuladoras das RAS.",
+   "Os participantes das RAS são os profissionais, usuários e gestores. Fica claro que as famílias e os educadores ficam de fora dos processos de trabalho vinculados às RAS."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Peiter et al., Escola Anna Nery, 2019 (RAS na produção de conhecimento no Brasil); Portaria GM/MS 4.279/2010",
+  "coment": "A revisão de Peiter et al. sobre Redes de Atenção à Saúde aponta, como premissas articuladoras das RAS, ações que integrem promoção da saúde às práticas de cuidado, com foco no autocuidado e na participação da equipe multiprofissional, do usuário e da família, num cuidado compartilhado. A educação permanente aparece como ferramenta para preparar profissionais e gestores para a gestão das redes. Os distratores negam esses elementos ou excluem a família, o que contraria a lógica de integralidade e corresponsabilização da Portaria GM/MS 4.279/2010.",
+  "porAlt": [
+   "Errada: a educação permanente é justamente ferramenta para preparar profissionais e gestores para a gestão das redes.",
+   "Errada: as RAS se apoiam no autocuidado e na equipe multiprofissional, não os deixam de lado.",
+   "Correta: promoção articulada ao cuidado, autocuidado e participação de equipe, usuário e família são premissas das RAS.",
+   "Errada: a família participa do cuidado compartilhado; excluí-la contraria a premissa das RAS."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 6,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com BACKES et al., é CORRETO afirmar que:",
+  "alts": [
+   "A atenção à saúde hoje deve utilizar o conhecimento em relação às práticas de saúde, enfocando exclusivamente o conhecimento científico.",
+   "Na contemporaneidade, surgem a subjetividade e a complexidade para explicar práticas de saúde que consideram as relações estabelecidas com o meio onde os indivíduos vivem.",
+   "A formação dos profissionais da saúde na prática, nos dias de hoje, está centrada na promoção da saúde.",
+   "Os profissionais da saúde necessitam atuar de modo centrado na doença, voltado para terapêutica, tecnicismo e relações interpessoais, desconsiderando a história e a cultura dos seres humanos."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Backes et al., Rev. Enferm. UERJ, 2009 (conceitos de saúde e doença ao longo da história)",
+  "coment": "Backes et al. (2009) mostram que, na contemporaneidade, surgem a subjetividade e a complexidade para explicar as práticas de saúde, considerando as relações com o meio em que as pessoas vivem. O artigo critica o modelo centrado na doença, no tecnicismo e na terapêutica, que desconsidera a história e a cultura, e defende que o saber científico dialogue com outros saberes. A formação dos profissionais, segundo os autores, ainda está centrada na doença e não na promoção da saúde, o que torna falsa a alternativa que afirma o contrário.",
+  "porAlt": [
+   "Errada: o enfoque exclusivo no conhecimento científico é o que o artigo critica; outros saberes devem ser considerados.",
+   "Correta: subjetividade e complexidade, com atenção às relações com o meio, marcam a explicação contemporânea das práticas de saúde.",
+   "Errada: a formação na prática ainda é centrada na doença; a promoção da saúde é meta, não realidade.",
+   "Errada: descreve o modelo biomédico que os autores criticam, que ignora a história e a cultura das pessoas."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 7,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com ALBUQUERQUE e SILVA, sobre determinação social da saúde, analisar os itens abaixo:\nI. Tudo na vida em sociedade e na vida humana é determinado pelo grau de desenvolvimento alcançado pela sociedade. Em um mesmo momento histórico, o modo de viver, adoecer e morrer das diferentes classes é bastante diverso.\nII. Em sociedades de classes, as relações que se estabelecem entre as classes determinam diferentes possibilidades e restrições ao desenvolvimento da vida.\nIII. O acesso aos objetos humanos, produtos do trabalho social, dá-se de diferentes formas para cada grupo, o que determina diferentes limites e possibilidades de realização da vida para os diferentes grupos sociais.\nEstá(ão) CORRETO(S):",
+  "alts": [
+   "Somente o item I.",
+   "Somente o item II.",
+   "Somente os itens I e III.",
+   "Todos os itens."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Albuquerque e Silva, Saúde em Debate, 2014 (determinação social da saúde)",
+  "coment": "Para Albuquerque e Silva (2014), a vida humana e o processo saúde-doença são determinados pelo grau de desenvolvimento da sociedade, e num mesmo momento histórico o modo de viver, adoecer e morrer difere entre as classes (I). Em sociedades de classes, as relações entre elas determinam possibilidades e restrições ao desenvolvimento da vida (II). O acesso aos objetos humanos, produtos do trabalho social, varia entre os grupos e define limites diferentes de realização da vida (III). É a base da determinação social da saúde.",
+  "porAlt": [
+   "Errada: o item I é certo, mas os itens II e III também expressam a determinação social da saúde.",
+   "Errada: as relações entre classes são decisivas, mas os itens I e III também são certos.",
+   "Errada: omite o item II, que trata das relações entre classes, núcleo da determinação social.",
+   "Correta: os três itens resumem a determinação social da saúde segundo Albuquerque e Silva."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 8,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre as Redes de Atenção à Saúde (RAS), analisar os itens abaixo:\nI. As discussões sobre as RAS estão em pauta no campo da saúde. Entretanto, suas ações não refletem nas demandas da Atenção Primária à Saúde e na integração dos serviços de saúde.\nII. Os serviços de saúde integrados respondem por promoção da saúde, prevenção de doenças, diagnóstico, reabilitação e cuidados paliativos.\nIII. A conformação de RAS se justifica pelo aumento da incidência e prevalência das doenças crônicas que demandam um modelo de cuidado integral.\nIV. Incluir ações intersetoriais e discutir sobre desafios das produções de saúde, com compreensão abrangente dos problemas, de forma regionalizada, articulando políticas voltadas para promoção, justifica a reorientação dos modelos de atenção à saúde.\nEstão CORRETOS:",
+  "alts": [
+   "Somente os itens I e II.",
+   "Somente os itens I e III.",
+   "Somente os itens I, III e IV.",
+   "Somente os itens II, III e IV."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 4.279/2010 (PRC 3/2017, Anexo I)",
+  "coment": "A Portaria 4.279/2010 justifica as RAS pela fragmentação dos serviços e pela transição epidemiológica, com aumento das condições crônicas que exigem cuidado integral e contínuo (III). Serviços integrados respondem por promoção, prevenção, diagnóstico, tratamento, reabilitação e cuidados paliativos (II). A reorientação do modelo inclui ações intersetoriais e regionalizadas, articuladas à promoção (IV). O item I é falso: a Atenção Primária é o centro de comunicação e a ordenadora das RAS, e a discussão das redes repercute diretamente nas suas demandas e na integração dos serviços.",
+  "porAlt": [
+   "Errada: inclui o item I, que nega o reflexo das RAS na Atenção Primária, centro de comunicação da rede.",
+   "Errada: inclui o item I e exclui o II e o IV, que descrevem a integração e a reorientação do modelo.",
+   "Errada: o item I é falso, e o item II, sobre o contínuo de cuidados dos serviços integrados, é certo.",
+   "Correta: II, III e IV são certos; o item I erra ao negar o impacto das RAS na Atenção Primária."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 9,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com DAMACENO et al., sobre as Redes de Atenção à Saúde (RAS), analisar os itens abaixo:\nI. As RAS têm se demonstrado como uma estratégia à integração dos serviços de saúde, qualificando e dando continuidade ao cuidado.\nII. Na conformação das RAS, três elementos são indissociáveis: a população, a estrutura operacional e o modelo de atenção à saúde.\nIII. As redes regionalizadas e integradas de atenção à saúde oferecem condição estruturalmente mais adequada para efetivação da integralidade da atenção e reduzem os custos dos serviços.\nEstá(ão) CORRETO(S):",
+  "alts": [
+   "Somente o item I.",
+   "Somente o item II.",
+   "Somente os itens I e III.",
+   "Todos os itens."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Damaceno et al., Revista de Enfermagem da UFSM, 2020; Mendes, As redes de atenção à saúde, OPAS, 2011",
+  "coment": "Damaceno et al. descrevem as RAS como estratégia de integração dos serviços que qualifica e dá continuidade ao cuidado (I). Retomando Mendes (2011), a RAS se conforma com três elementos indissociáveis: a população sob responsabilidade sanitária, a estrutura operacional (APS como centro de comunicação, pontos secundários e terciários, sistemas de apoio, logísticos e de governança) e o modelo de atenção à saúde (II). Redes regionalizadas e integradas dão condição estrutural mais adequada à integralidade e racionalizam custos, evitando duplicidade (III). Todos certos.",
+  "porAlt": [
+   "Errada: a integração do cuidado é certa, mas os itens II e III também são.",
+   "Errada: população, estrutura operacional e modelo de atenção são certos, mas os itens I e III também.",
+   "Errada: omite o item II, os três elementos constitutivos das RAS descritos por Mendes.",
+   "Correta: integração do cuidado, três elementos constitutivos e ganho de integralidade com redução de custos estão no texto."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 10,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com TEIXEIRA, sobre as principais linhas mestras para a construção do Sistema Nacional de Vigilância Epidemiológica no Sistema Único de Saúde (SUS), é CORRETO afirmar que se almejava um sistema:",
+  "alts": [
+   "Restrito às doenças transmissíveis.",
+   "Descentralizado.",
+   "Centralizado.",
+   "Não destinado a doenças."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Teixeira et al., Ciência & Saúde Coletiva, 2018 (Vigilância em Saúde no SUS); Lei 8.080/1990, art. 7º, IX",
+  "coment": "Teixeira et al. (2018) lembram que a Reforma Sanitária propôs um Sistema Nacional de Vigilância Epidemiológica descentralizado, com protagonismo do nível local, coerente com a diretriz de descentralização do SUS (Lei 8.080/1990, art. 7º, IX). O modelo anterior era centralizado e verticalizado, organizado por programas de doenças transmissíveis. A nova vigilância também deveria ir além das transmissíveis, incorporando doenças e agravos não transmissíveis e fatores de risco, o que torna erradas as alternativas restritivas.",
+  "porAlt": [
+   "Errada: a proposta era ampliar a vigilância para além das transmissíveis, incluindo agravos não transmissíveis e fatores de risco.",
+   "Correta: descentralização, com protagonismo do nível local, era a linha mestra do novo sistema.",
+   "Errada: centralização marcava o modelo anterior, verticalizado, que a Reforma Sanitária queria superar.",
+   "Errada: a vigilância epidemiológica se volta a doenças, agravos e fatores de risco; não faz sentido excluí-las."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 11,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com TEIXEIRA, assinalar a alternativa que preenche a lacuna abaixo CORRETAMENTE:\nNa legislação brasileira vigente, vigilância em saúde é definida como um processo ________ e sistemático de coleta, consolidação, análise e disseminação de dados sobre eventos relacionados à saúde, visando o planejamento e a implementação de medidas de políticas públicas para a proteção da saúde da população, a prevenção e o controle de riscos, agravos e doenças, bem como para a promoção da saúde.",
+  "alts": [
+   "intermitente",
+   "frequente",
+   "contínuo",
+   "aleatório"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 1.378/2013; Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde)",
+  "coment": "A definição citada por Teixeira vem da Portaria GM/MS 1.378/2013 e foi retomada pela Política Nacional de Vigilância em Saúde (Resolução CNS 588/2018): vigilância em saúde é processo contínuo e sistemático de coleta, consolidação, análise e disseminação de dados sobre eventos relacionados à saúde, para planejar e implementar medidas de saúde pública. Contínuo significa permanente, sem interrupções; vigilância não é pesquisa pontual nem coleta ocasional. Intermitente, frequente e aleatório contrariam essa ideia.",
+  "porAlt": [
+   "Errada: intermitente é o oposto do caráter permanente que define a vigilância.",
+   "Errada: frequente não é o termo legal e não garante a permanência exigida pela definição.",
+   "Correta: a definição legal fala em processo contínuo e sistemático de coleta, consolidação, análise e disseminação.",
+   "Errada: aleatório contraria o caráter sistemático e permanente da vigilância em saúde."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 12,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com GOLDIM, sobre a bioética, analisar os itens abaixo:\nI. A humildade é uma característica fundamental. Ao assumir que a incerteza e a mudança são componentes sempre presentes, assume-se que os resultados das reflexões são passíveis de discussão.\nII. Deve ser abordada de forma restrita ou simplificada.\nIII. Os problemas propostos para reflexão bioética ficam mais claros quando discutidos dentro de uma perspectiva interdisciplinar.\nIV. Deve assumir uma perspectiva intercultural de compreensão da realidade.\nEstão CORRETOS:",
+  "alts": [
+   "Somente os itens I e II.",
+   "Somente os itens I e III.",
+   "Somente os itens I, III e IV.",
+   "Somente os itens II, III e IV."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Goldim, Bioética: origens e complexidade, Revista HCPA, 2006",
+  "coment": "Goldim descreve a bioética como reflexão complexa, interdisciplinar e compartilhada. A humildade é característica fundamental: incerteza e mudança estão sempre presentes, então as conclusões seguem abertas à discussão (I). Os problemas ficam mais claros numa perspectiva interdisciplinar (III), e a bioética deve assumir perspectiva intercultural, respeitando as diferentes visões de mundo (IV). O item II é falso: Goldim critica justamente a abordagem restrita ou simplificada, porque a bioética lida com a complexidade.",
+  "porAlt": [
+   "Errada: inclui o item II, e Goldim rejeita a abordagem restrita ou simplificada da bioética.",
+   "Errada: deixa de fora o item IV, a perspectiva intercultural, que também é característica da bioética.",
+   "Correta: humildade, interdisciplinaridade e interculturalidade caracterizam a bioética para Goldim.",
+   "Errada: inclui o item II e exclui o I, a humildade diante da incerteza, que é fundamental."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 13,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Um estudo foi realizado para avaliar se a hipotermia profilática precoce (indução de temperaturas corporais de 33°C a 35°C por, pelo menos, 72 horas e até sete dias, se as pressões intracranianas estivessem elevadas, seguida por reaquecimento gradual) melhora os resultados neurológicos de longo prazo em pacientes com lesão cerebral traumática grave, comparada ao manejo normotérmico (com alvo de temperatura corporal em 37°C). A temperatura foi controlada em ambos os grupos por sete dias. Todos os outros cuidados ficaram a critério do médico assistente. O desfecho primário “resultados neurológicos favoráveis” foi definido como vida independente ou pontuação na Escala de Glasgow estendida de 5 a 8 pontos, mensurado por avaliadores cegos seis meses após a lesão. O risco relativo para resultados neurológicos favoráveis em seis meses foi de 0,99 (IC de 95% 0,82 a 1,19) do tratamento com hipotermia comparado à normotermia. Com base no exposto, assinalar a alternativa CORRETA:",
+  "alts": [
+   "Esses achados demonstram benefício significativo do uso de hipotermia profilática precoce em pacientes com lesão cerebral traumática grave.",
+   "Resultados neurológicos favoráveis foram significativamente menos frequentes nos pacientes com lesão cerebral traumática grave submetidos à hipotermia.",
+   "Após lesão cerebral traumática grave, a indução de hipotermia profilática é neuroprotetora e melhora os resultados neurológicos em longo prazo.",
+   "Entre os pacientes com lesão cerebral traumática grave, a hipotermia profilática precoce, em comparação com a normotermia, não melhorou os resultados neurológicos em seis meses."
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Cooper et al., JAMA, 2018 (ensaio POLAR, hipotermia profilática no TCE grave)",
+  "coment": "O risco relativo compara a frequência do desfecho entre os grupos. RR de 0,99 significa praticamente a mesma chance de resultado neurológico favorável com hipotermia e com normotermia, e o intervalo de confiança de 95% (0,82 a 1,19) cruza o 1, valor de nenhuma diferença. Portanto não houve efeito estatisticamente significativo, nem benefício nem dano. É o resultado do ensaio POLAR (Cooper et al., 2018): a hipotermia profilática precoce não melhorou o desfecho neurológico em seis meses no TCE grave.",
+  "porAlt": [
+   "Errada: com IC de 95% entre 0,82 e 1,19, que inclui o 1, não há benefício demonstrado.",
+   "Errada: o RR de 0,99 com IC cruzando o 1 também não mostra prejuízo significativo.",
+   "Errada: o estudo não demonstrou neuroproteção nem melhora do desfecho neurológico em longo prazo.",
+   "Correta: RR 0,99 com IC de 0,82 a 1,19 indica ausência de diferença entre hipotermia e normotermia em seis meses."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 14,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Em um estudo, os participantes foram alocados aleatoriamente para uma dieta mediterrânea suplementada com azeite de oliva extravirgem ou uma dieta mediterrânea suplementada com nozes ou uma dieta controle (aconselhamento para reduzir a quantidade de gordura na alimentação). Após um acompanhamento médio de 4,8 anos, em comparação à dieta controle, o risco relativo de câncer de mama foi de 0,31 (IC 95% 0,13 a 0,77) para a dieta mediterrânea com azeite extravirgem e de 0,53 (IC 95% 0,23 a 1,26) para a dieta mediterrânea com nozes. Com base no exposto, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n( ) Houve um efeito benéfico e significativo da dieta mediterrânea suplementada com azeite de oliva extravirgem na prevenção do câncer de mama, quando comparada ao aconselhamento para redução de gordura na alimentação.\n( ) Houve um efeito benéfico e significativo da dieta mediterrânea suplementada com nozes na prevenção do câncer de mama, quando comparada ao aconselhamento para redução de gordura na alimentação.",
+  "alts": [
+   "C - C.",
+   "E - C.",
+   "C - E.",
+   "E - E."
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Toledo et al., JAMA Internal Medicine, 2015 (ensaio PREDIMED, câncer de mama)",
+  "coment": "Um RR é estatisticamente significativo quando o intervalo de confiança de 95% não inclui o 1. Para o azeite extravirgem, RR 0,31 com IC de 0,13 a 0,77: todo o intervalo fica abaixo de 1, logo há redução significativa do risco de câncer de mama em relação à dieta controle. Para as nozes, RR 0,53 com IC de 0,23 a 1,26: o intervalo cruza o 1, então a redução observada pode ser acaso e não é significativa. Sequência C - E.",
+  "porAlt": [
+   "Errada: o IC das nozes (0,23 a 1,26) inclui o 1, então o efeito não foi significativo.",
+   "Errada: inverte os achados; o azeite teve efeito significativo e as nozes não.",
+   "Correta: o IC do azeite fica todo abaixo de 1 e o das nozes cruza o 1.",
+   "Errada: o IC do azeite (0,13 a 0,77) não inclui o 1, logo o benefício foi significativo."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 15,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Com base no Código de Ética dos Profissionais de Enfermagem, assinalar a alternativa que preenche as lacunas abaixo CORRETAMENTE:\nO profissional de enfermagem atua na ________, prevenção, recuperação e ________ da saúde, com autonomia e em consonância com os preceitos éticos e legais.",
+  "alts": [
+   "estabilização | reabilitação",
+   "reabilitação | estabilização",
+   "promoção | reabilitação",
+   "promoção | estabilização"
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética dos Profissionais de Enfermagem), Princípios Fundamentais",
+  "coment": "A frase cobrada, dos Princípios Fundamentais do Código de Ética, diz que o profissional de enfermagem atua na promoção, prevenção, recuperação e reabilitação da saúde, com autonomia e em consonância com os preceitos éticos e legais. São os quatro níveis clássicos de ação em saúde, os mesmos da integralidade do SUS. Estabilização é termo do atendimento de urgência, não um nível de ação em saúde. O Código da Resolução COFEN 564/2017 segue vigente em out/2026; o que mudou depois foi o Código de Processo Ético (Res. COFEN 758/2024).",
+  "porAlt": [
+   "Errada: estabilização não é nível de ação em saúde e a frase começa pela promoção.",
+   "Errada: inverte a ordem e usa estabilização, termo de urgência, no lugar de reabilitação.",
+   "Correta: promoção, prevenção, recuperação e reabilitação são os campos de atuação citados no código.",
+   "Errada: a promoção está certa, mas o código fecha a frase com reabilitação, não estabilização."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 16,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Conforme o Código de Ética dos Profissionais de Enfermagem, no que se refere a responsabilidades e deveres, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n( ) Assegurar à pessoa, família e coletividade assistência de enfermagem livre de danos decorrentes de imperícia, negligência ou imprudência.\n( ) Avaliar criteriosamente sua competência técnica, científica, ética e legal, e somente aceitar encargos ou atribuições quando capaz de desempenho seguro para si e para outrem.\n( ) Aprimorar os conhecimentos técnicos, científicos, éticos e culturais, sem benefício da pessoa, família e coletividade e do desenvolvimento da profissão.\n( ) Prestar assistência de enfermagem com discriminação de qualquer natureza.",
+  "alts": [
+   "C - C - E - E.",
+   "C - E - E - E.",
+   "E - E - C - C.",
+   "E - C - C - C."
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), arts. 41 e 45",
+  "coment": "Os dois primeiros itens são deveres do profissional: assegurar assistência livre de danos por imperícia, negligência ou imprudência (no código vigente, art. 45 da Res. COFEN 564/2017) e só aceitar encargos quando apto ao desempenho seguro para si e para outrem. Os dois últimos foram adulterados pela banca: o dever é aprimorar conhecimentos em benefício da pessoa, da família, da coletividade e da profissão, não sem benefício, e prestar assistência sem discriminação de qualquer natureza (art. 41), não com discriminação. A redação lembra a do código anterior (Res. 311/2007), mas o conteúdo segue no código vigente.",
+  "porAlt": [
+   "Correta: os dois primeiros são deveres; o terceiro troca em benefício por sem benefício e o quarto inverte a não discriminação.",
+   "Errada: avaliar a própria competência e só aceitar encargos com desempenho seguro é dever do profissional.",
+   "Errada: os dois primeiros itens são deveres do código, e os dois últimos foram adulterados.",
+   "Errada: aprimorar conhecimento sem benefício e prestar assistência com discriminação contrariam o código."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 17,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Projeto de Lei nº 7.867, de 2017, sobre proteção contra a violência obstétrica e divulgação de boas práticas para a atenção à gravidez, ao parto, ao nascimento, ao abortamento e ao puerpério, analisar os itens abaixo:\nI. Antes de colocar o recém-nascido (RN) saudável em contato pele a pele com a mãe, deve-se colocar a pulseira de identificação do RN.\nII. Considera-se violência obstétrica todo ato praticado por membro da equipe de saúde, do hospital ou por terceiros que ofenda verbal ou fisicamente as mulheres gestantes, parturientes ou puérperas.\nIII. É permitido recriminar a parturiente por comportamento inadequado, como gritar e chorar, durante o parto, pois pode prejudicar o vínculo mamãe-bebê.\nEstá(ão) CORRETO(S):",
+  "alts": [
+   "Somente o item II.",
+   "Somente o item III.",
+   "Somente os itens I e III.",
+   "Somente os itens II e III."
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "PL 7.867/2017 (Câmara dos Deputados); Diretrizes Nacionais de Assistência ao Parto Normal (MS, 2017)",
+  "coment": "O texto cobrado é um projeto de lei sobre violência obstétrica, cuja definição alcança todo ato da equipe de saúde, do hospital ou de terceiros que ofenda verbal ou fisicamente gestantes, parturientes ou puérperas (II, certo). O item I erra a ordem: a boa prática é o contato pele a pele imediato do recém-nascido saudável com a mãe, e rotinas como a identificação não devem adiá-lo. O item III descreve uma forma de violência obstétrica: recriminar a mulher por gritar ou chorar. As Diretrizes Nacionais de Assistência ao Parto Normal (MS, 2017) recomendam contato pele a pele e respeito às expressões da parturiente.",
+  "porAlt": [
+   "Correta: só a definição de violência obstétrica está certa; os itens I e III contrariam as boas práticas.",
+   "Errada: recriminar a parturiente por gritar ou chorar é, ele próprio, violência obstétrica.",
+   "Errada: o contato pele a pele não espera a pulseira, e recriminar a parturiente é violência.",
+   "Errada: a definição do item II é certa, mas o item III descreve conduta violenta, não permitida."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 18,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em conformidade com a Lei nº 13.840/2019, referente aos objetivos do Plano Nacional de Políticas sobre Drogas, analisar os itens abaixo:\nI. Promover a interdisciplinaridade e a integração de programas, ações, atividades e projetos dos órgãos e entidades públicas e privadas nas áreas de saúde, educação, trabalho, assistência social, previdência social, habitação, cultura, desporto e lazer, visando à prevenção do uso de drogas, atenção e reinserção social dos usuários ou dependentes de drogas.\nII. Priorizar programas, ações, atividades e projetos articulados com os estabelecimentos de ensino, com a sociedade e com a família para a prevenção do uso de drogas.\nIII. Promover o acesso do usuário ou dependente de drogas a todos os serviços públicos.\nIV. Promover estudos e avaliação dos resultados das políticas sobre drogas.\nEstá(ão) CORRETO(S):",
+  "alts": [
+   "Somente o item I.",
+   "Somente os itens I e II.",
+   "Somente os itens II e III.",
+   "Todos os itens."
+  ],
+  "gab": 3,
+  "tema": "mental",
+  "sub": "Álcool e outras drogas",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 11.343/2006, com redação da Lei 13.840/2019 (objetivos do Plano Nacional de Políticas sobre Drogas)",
+  "coment": "A Lei 13.840/2019 alterou a Lei 11.343/2006 (Sisnad) e listou os objetivos do Plano Nacional de Políticas sobre Drogas. Entre eles estão: promover a interdisciplinaridade e a integração de programas de saúde, educação, trabalho, assistência social, previdência, habitação, cultura, desporto e lazer, para prevenção, atenção e reinserção social (I); priorizar ações articuladas com escolas, sociedade e família na prevenção (II); promover o acesso do usuário ou dependente a todos os serviços públicos (III); e promover estudos e avaliação dos resultados das políticas sobre drogas (IV). Os quatro itens reproduzem a lei.",
+  "porAlt": [
+   "Errada: a integração intersetorial é objetivo, mas os itens II, III e IV também estão na lei.",
+   "Errada: deixa de fora o acesso a todos os serviços públicos e a avaliação das políticas, também previstos.",
+   "Errada: exclui a integração intersetorial e a avaliação das políticas, que são objetivos do plano.",
+   "Correta: os quatro itens estão entre os objetivos do Plano Nacional de Políticas sobre Drogas."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 19,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A internação voluntária ou involuntária de dependentes de drogas somente será realizada em unidades de saúde ou hospitais gerais, dotados de equipes multidisciplinares, e deverá ser obrigatoriamente autorizada por médico devidamente registrado no Conselho Regional de Medicina (CRM) do Estado onde se localize o estabelecimento no qual se dará a internação. Sobre esse assunto, numerar a 2ª coluna de acordo com a 1ª e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n(1) Internação voluntária.\n(2) Internação involuntária.\n( ) Deverá ser precedida de declaração escrita da pessoa solicitante de que optou por esse regime de tratamento.\n( ) Será indicada depois da avaliação sobre o tipo de droga utilizada, o padrão de uso e na hipótese comprovada da impossibilidade de utilização de outras alternativas terapêuticas previstas na Rede de Atenção à Saúde.\n( ) A família ou o representante legal poderá, a qualquer tempo, requerer ao médico a interrupção do tratamento.\n( ) Deve ser realizada após a formalização da decisão por médico responsável.",
+  "alts": [
+   "1 - 2 - 2 - 2.",
+   "2 - 1 - 2 - 2.",
+   "2 - 1 - 1 - 1.",
+   "1 - 2 - 1 - 1."
+  ],
+  "gab": 0,
+  "tema": "mental",
+  "sub": "Álcool e outras drogas",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 11.343/2006, art. 23-A, incluído pela Lei 13.840/2019",
+  "coment": "Pelo art. 23-A da Lei 11.343/2006, a internação voluntária é precedida de declaração escrita da pessoa de que optou por esse regime e termina por determinação médica ou por solicitação escrita do paciente. A involuntária, sem consentimento e a pedido de familiar ou responsável legal, é realizada após formalização da decisão por médico responsável e indicada após avaliação do tipo de droga e do padrão de uso, só quando comprovada a impossibilidade de outras alternativas da rede; dura o tempo da desintoxicação, no máximo 90 dias, e a família ou o representante legal pode pedir a interrupção a qualquer tempo. Sequência 1 - 2 - 2 - 2.",
+  "porAlt": [
+   "Correta: a declaração escrita é da voluntária; indicação restrita, pedido de interrupção pela família e formalização médica são da involuntária.",
+   "Errada: a declaração escrita de opção pelo regime é da internação voluntária, não da involuntária.",
+   "Errada: inverte as duas primeiras e atribui à voluntária o pedido de interrupção pela família e a formalização médica.",
+   "Errada: o pedido de interrupção pela família e a formalização por médico responsável são da involuntária."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 20,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em conformidade com as diretrizes da American Heart Association (AHA) de Ressuscitação Cardiopulmonar (RCP) e Atendimento Cardiovascular de Emergências (ACE), as cadeias de sobrevivência no atendimento intra-hospitalar e extra-hospitalar são compostas por quantos elos?",
+  "alts": [
+   "4",
+   "5",
+   "6",
+   "7"
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes AHA 2025 de RCP e ACE (cadeia de sobrevivência); Diretrizes AHA 2020",
+  "coment": "Nas diretrizes da AHA de 2020, as cadeias de sobrevivência intra-hospitalar e extra-hospitalar do adulto tinham seis elos cada; a novidade daquela edição foi o elo de recuperação. As Diretrizes AHA 2025 trocaram as cadeias separadas por uma cadeia única para todas as idades e locais, que continua com seis elos: reconhecimento e acionamento do serviço de emergência, RCP de alta qualidade, desfibrilação, ressuscitação avançada, cuidados pós-parada e recuperação. A resposta 6 segue certa; o que mudou é que não se fala mais em cadeias distintas.",
+  "porAlt": [
+   "Errada: quatro elos era o desenho antigo; as cadeias de 2020 e a cadeia única de 2025 têm seis.",
+   "Errada: a recuperação passou a ser o sexto elo em 2020, e a cadeia única de 2025 manteve seis.",
+   "Correta: as cadeias de 2020 tinham seis elos, e a cadeia única da AHA 2025 também tem seis.",
+   "Errada: nenhuma das cadeias da AHA tem sete elos; são seis, terminando na recuperação."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 21,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os ritmos chocáveis de Parada Cardiorrespiratória (PCR) e a quantidade de joules recomendados para desfibrilação no desfibrilador monofásico são, respectivamente:",
+  "alts": [
+   "AESP/FV e 200J.",
+   "Assistolia/FV e 360J.",
+   "TVSP/AESP e 120J.",
+   "FV/TVSP e 360J."
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Diretrizes AHA 2025 de RCP e ACE, suporte avançado de vida no adulto",
+  "coment": "Os ritmos chocáveis são a fibrilação ventricular e a taquicardia ventricular sem pulso. Assistolia e atividade elétrica sem pulso não são chocáveis: nelas há RCP, adrenalina o quanto antes e busca das causas reversíveis. No algoritmo de PCR do adulto da AHA, o desfibrilador monofásico usa 360 J; o bifásico segue a recomendação do fabricante (em geral, 120 a 200 J na primeira descarga). As diretrizes de 2025 mantiveram o choque único seguido de RCP imediata por 2 minutos.",
+  "porAlt": [
+   "Errada: AESP não é ritmo chocável, e 200 J não é a carga do monofásico.",
+   "Errada: assistolia não se desfibrila; o tratamento é RCP, adrenalina e busca de causas.",
+   "Errada: AESP não é chocável, e 120 J é carga de aparelho bifásico, não de monofásico.",
+   "Correta: FV e TV sem pulso são os ritmos chocáveis, e o monofásico usa 360 J."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 22,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O tratamento medicamentoso durante a Parada Cardiorrespiratória (PCR) no ritmo TVSP é importante para a ressuscitação do paciente. A medicação administrada após o segundo choque deve ser a:",
+  "alts": [
+   "Lidocaína.",
+   "Epinefrina.",
+   "Amiodarona.",
+   "Atropina."
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Diretrizes AHA 2025 de RCP e ACE, suporte avançado de vida no adulto",
+  "coment": "No ritmo chocável, o algoritmo de PCR do adulto segue: choque, 2 minutos de RCP e acesso IV ou IO; segundo choque, RCP e adrenalina 1 mg, repetida a cada 3 a 5 minutos; terceiro choque, RCP e amiodarona 300 mg (ou lidocaína). As Diretrizes AHA 2025 mantiveram a adrenalina no ritmo chocável após falharem as tentativas iniciais de desfibrilação. A amiodarona entra depois do terceiro choque, e a atropina não faz parte do algoritmo de parada.",
+  "porAlt": [
+   "Errada: a lidocaína é alternativa à amiodarona na FV ou TV sem pulso refratária, depois do terceiro choque.",
+   "Correta: após o segundo choque administra-se adrenalina 1 mg IV ou IO, repetida a cada 3 a 5 minutos.",
+   "Errada: a amiodarona 300 mg entra após o terceiro choque, quando a FV ou TV persiste.",
+   "Errada: a atropina não faz parte do algoritmo de parada cardiorrespiratória."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 23,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No atendimento da Parada Cardiorrespiratória (PCR), no qual o paciente está com via aérea avançada, deve ser realizada uma ventilação a cada:",
+  "alts": [
+   "6 segundos.",
+   "8 segundos.",
+   "10 segundos.",
+   "12 segundos."
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Diretrizes AHA 2025 de RCP e ACE, suporte básico e avançado de vida no adulto",
+  "coment": "Com via aérea avançada (tubo traqueal ou dispositivo supraglótico), as compressões passam a ser contínuas, de 100 a 120 por minuto, sem pausas para ventilar, e se faz 1 ventilação a cada 6 segundos, ou seja, 10 por minuto. As Diretrizes AHA 2025 mantiveram esse número. Sem via aérea avançada a relação é 30:2. Hiperventilar aumenta a pressão intratorácica e reduz o retorno venoso que as compressões tentam gerar, por isso não se encurta o intervalo.",
+  "porAlt": [
+   "Correta: com via aérea avançada, 1 ventilação a cada 6 segundos (10 por minuto), com compressões contínuas.",
+   "Errada: 8 segundos daria cerca de 7 ventilações por minuto, abaixo das 10 recomendadas.",
+   "Errada: 10 segundos daria 6 ventilações por minuto, abaixo do recomendado pela AHA.",
+   "Errada: 12 segundos daria 5 ventilações por minuto, metade do recomendado."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 24,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Conforme a diretriz de funcionamento do Centro de Atenção Psicossocial de Álcool e Outras Drogas do Tipo IV (CAPS AD IV), assinalar a alternativa que preenche as lacunas abaixo CORRETAMENTE:\nSer um serviço aberto que funciona segundo a lógica do ____________ e que fornece atenção contínua a pessoas com necessidades relacionadas aos consumos de álcool, crack e outras drogas, durante _______________ e em todos os dias da semana, ____________ finais de semana e feriados.",
+  "alts": [
+   "território | as 24 horas do dia | inclusive",
+   "Município | 8 horas por dia | exceto",
+   "Município | 12 horas por dia | inclusive",
+   "território | 16 horas por dia | exceto"
+  ],
+  "gab": 0,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 3.588/2017, revogada pela Portaria GM/MS 757/2023; PRC 3/2017, Anexo V",
+  "coment": "A Portaria 3.588/2017 criou o CAPS AD IV como serviço aberto, de lógica territorial, com atenção contínua 24 horas por dia, todos os dias da semana, inclusive fins de semana e feriados, para pessoas com necessidades por álcool, crack e outras drogas. Atenção: a Portaria GM/MS 757/2023 revogou a 3.588, e o CAPS AD IV deixou de existir como modalidade da RAPS; os serviços já habilitados mantêm o custeio até nova regulamentação. A lógica do território e o funcionamento 24 horas seguem válidos para o CAPS AD III, vigente.",
+  "porAlt": [
+   "Correta: era serviço territorial, de 24 horas, todos os dias, inclusive fins de semana e feriados (modalidade revogada em 2023).",
+   "Errada: os CAPS seguem a lógica do território, e o CAPS AD IV funcionava 24 horas, inclusive fins de semana.",
+   "Errada: a lógica é a do território, não a do município, e o funcionamento era de 24 horas.",
+   "Errada: o funcionamento era de 24 horas e incluía fins de semana e feriados."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 26,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para um hospital ser considerado de alta complexidade na assistência em oncologia, deverá conter uma estrutura com os seguintes recursos, EXCETO:",
+  "alts": [
+   "Cirurgias gerais.",
+   "Radioterapia.",
+   "Oncologia clínica.",
+   "Terapia complementar."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria SAES/MS 1.399/2019 (habilitação na alta complexidade em oncologia)",
+  "coment": "Os hospitais habilitados na alta complexidade em oncologia (UNACON e CACON) precisam oferecer diagnóstico e tratamento do câncer com cirurgia, oncologia clínica e radioterapia, esta própria no CACON e podendo ser referenciada formalmente pela UNACON. Terapia complementar não é recurso exigido para a habilitação. Os critérios estão na Portaria SAES/MS 1.399/2019, que redefiniu os parâmetros de habilitação no SUS. Questão de exceção: a única alternativa fora do rol é a terapia complementar.",
+  "porAlt": [
+   "Errada: a cirurgia faz parte da estrutura exigida para tratar o câncer na alta complexidade.",
+   "Errada: a radioterapia integra o tratamento oncológico exigido, própria ou referenciada formalmente.",
+   "Errada: a oncologia clínica, responsável pela quimioterapia, é exigência da habilitação.",
+   "Correta: terapia complementar não está entre os recursos exigidos para a alta complexidade em oncologia."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 27,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um hospital de alta complexidade dever dispor de um plano mínimo de cuidados e intervenções para pacientes paliativos, a fim de proporcionar conforto para o paciente e seu familiar durante a internação. Sobre esse assunto, assinalar a alternativa INCORRETA:",
+  "alts": [
+   "Dispor de protocolos ou diretrizes de boas práticas em controle de dor, náusea, delirium e dispneia.",
+   "Dispor de protocolo ou recomendações para uso de sedação paliativa.",
+   "Dispor de protocolo ou recomendações de boas práticas para cuidados de conforto para pacientes e família durante o processo de morte.",
+   "Dispor de protocolo e fluxos estabelecidos para proceder às diretivas antecipadas de vontade, pois o paciente paliativo não tem direito de escolha devido a seu estado avançado de doença."
+  ],
+  "gab": 3,
+  "tema": "idoso",
+  "sub": "Cuidados paliativos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 3.681/2024 (Política Nacional de Cuidados Paliativos); Resolução CFM 1.995/2012; Resolução COFEN 564/2017, art. 42",
+  "coment": "O plano mínimo de cuidado paliativo hospitalar inclui protocolos para dor, náusea, delirium e dispneia, para sedação paliativa e para conforto do paciente e da família no processo de morte. A alternativa D é a incorreta porque nega o direito de escolha: as diretivas antecipadas de vontade existem justamente para garantir a autonomia do paciente, registradas enquanto ele é capaz (Resolução CFM 1.995/2012), e o Código de Ética de Enfermagem manda respeitá-las (art. 42, parágrafo único). A Política Nacional de Cuidados Paliativos (Portaria GM/MS 3.681/2024) inclui o respeito às diretivas antecipadas.",
+  "porAlt": [
+   "Errada (é afirmativa correta): protocolos de dor, náusea, delirium e dispneia são parte do plano mínimo.",
+   "Errada (é afirmativa correta): protocolo de sedação paliativa é recomendado no cuidado de fim de vida.",
+   "Errada (é afirmativa correta): cuidados de conforto ao paciente e à família no processo de morte são essenciais.",
+   "Correta: é a incorreta, pois o paciente paliativo tem direito de escolha, garantido pelas diretivas antecipadas."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 28,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo ROCHA e LUCENA, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n( ) A interdisciplinaridade no cuidado em saúde se expressa através da integração e da articulação de diferentes saberes e práticas.\n( ) O Projeto Terapêutico Singular é adotado como um dispositivo de cuidado que se insere no contexto interdisciplinar para intervenções centralizadas nas necessidades de saúde dos sujeitos em seu contexto social.\n( ) O Processo de Enfermagem contempla a integralidade da assistência à saúde necessária ao usuário.\n( ) Apesar da similaridade dos modelos de cuidado, as práticas de saúde do Projeto Terapêutico Singular extrapolam as do Processo de Enfermagem, visto que o projeto terapêutico utiliza maior arsenal de ferramentas e dispositivos de cuidado das políticas de saúde do SUS como aliados a suas práticas de saúde, para nortear o cuidado.",
+  "alts": [
+   "C - C - E - C.",
+   "C - E - C - C.",
+   "E - E - C - E.",
+   "C - C - E - E."
+  ],
+  "gab": 0,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "ger",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Rocha e Lucena, Revista Gaúcha de Enfermagem, 2018 (PTS e Processo de Enfermagem); Resolução COFEN 736/2024",
+  "coment": "Rocha e Lucena comparam o Projeto Terapêutico Singular (PTS) e o Processo de Enfermagem (PE). A interdisciplinaridade se expressa pela integração de saberes e práticas (1, certo), e o PTS é dispositivo interdisciplinar centrado nas necessidades do sujeito em seu contexto social (2, certo). Para as autoras, o PE isolado não contempla toda a integralidade de que o usuário precisa (3, errado), e o PTS extrapola o PE ao mobilizar mais ferramentas das políticas do SUS (4, certo). Hoje o PE é regido pela Res. COFEN 736/2024, que revogou a 358/2009, com cinco etapas: avaliação, diagnóstico, planejamento, implementação e evolução.",
+  "porAlt": [
+   "Correta: integração de saberes, PTS interdisciplinar e PTS mais amplo que o PE são certos; o PE isolado não esgota a integralidade.",
+   "Errada: o PTS é dispositivo interdisciplinar centrado nas necessidades do sujeito, logo o item 2 é certo.",
+   "Errada: a interdisciplinaridade como integração de saberes é certa, e o item 3 é o errado.",
+   "Errada: o item 4 é certo, pois para as autoras o PTS extrapola as práticas do PE."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 29,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo a Portaria nº 569/2000, sobre o Programa de Humanização no Pré-natal e Nascimento, no âmbito do SUS, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n( ) As autoridades sanitárias dos âmbitos federal, estadual e municipal são responsáveis pela garantia dos direitos ao acesso a atendimento digno e de qualidade no decorrer da gestação, do parto e do puerpério.\n( ) Está previsto um incentivo financeiro para aqueles hospitais que prestarem assistência ao parto de gestantes cadastradas no Programa de Incentivo à Assistência Pré-natal e que tenham realizado o acompanhamento pré-natal completo.\n( ) Uma das competências/atribuições das Secretarias Municipais de Saúde é alocar, complementarmente, recursos financeiros próprios para o desenvolvimento do Programa.",
+  "alts": [
+   "C - C - E.",
+   "C - C - C.",
+   "C - E - C.",
+   "E - E - E."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 569/2000 (Programa de Humanização no Pré-natal e Nascimento); Portaria GM/MS 5.350/2024 (Rede Alyne)",
+  "coment": "A Portaria 569/2000 instituiu o Programa de Humanização no Pré-natal e Nascimento. Ela afirma que as autoridades sanitárias federal, estaduais e municipais são responsáveis por garantir o acesso a atendimento digno e de qualidade na gestação, no parto e no puerpério; previu incentivo financeiro aos hospitais que assistissem o parto de gestantes cadastradas com pré-natal completo; e atribuiu às secretarias municipais alocar, complementarmente, recursos próprios. Os três itens são certos. Hoje o modelo de atenção materno-infantil do SUS é a Rede Alyne (Portaria GM/MS 5.350/2024), que transformou a Rede Cegonha.",
+  "porAlt": [
+   "Errada: a alocação complementar de recursos próprios pelos municípios também está prevista na portaria.",
+   "Correta: responsabilidade das três esferas, incentivo ao hospital e recursos municipais complementares estão na Portaria 569/2000.",
+   "Errada: o incentivo financeiro ao hospital pelo parto de gestante com pré-natal completo era previsto.",
+   "Errada: os três itens reproduzem dispositivos do programa e são certos."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 30,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base em CAMPANHA et al., assinalar a alternativa CORRETA:",
+  "alts": [
+   "Para que haja melhoria da qualidade do cuidado e da segurança do paciente, dentro das organizações de saúde, basta proporcionar qualificação aos seus trabalhadores, pois independe do tipo de liderança.",
+   "É esperado que o líder tenha uma boa habilidade de comunicação, possibilitando uma influência positiva.",
+   "A grande visibilidade da liderança do Enfermeiro se deve ao fato de que sua competência é facilmente auditável.",
+   "Não existe relação entre liderança e segurança, eficácia e equidade no atendimento."
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Campanha et al. (liderança do enfermeiro e segurança do paciente); Portaria MS 529/2013 (PNSP)",
+  "coment": "Campanha et al. relacionam a liderança do enfermeiro à qualidade do cuidado e à segurança do paciente. Espera-se do líder boa habilidade de comunicação, que permita influenciar positivamente a equipe, alinhar condutas e sustentar a cultura de segurança proposta pelo Programa Nacional de Segurança do Paciente. Qualificar trabalhadores não basta sem liderança que dê direção e apoio, e há relação entre liderança e segurança, eficácia e equidade do atendimento. A visibilidade da liderança do enfermeiro não vem de uma competência facilmente auditável: liderança é competência relacional, difícil de medir.",
+  "porAlt": [
+   "Errada: a qualificação sozinha não basta; o tipo de liderança influencia a qualidade e a segurança.",
+   "Correta: a boa comunicação permite ao líder influenciar positivamente a equipe.",
+   "Errada: liderança é competência relacional, de difícil auditoria, e não por isso visível.",
+   "Errada: a liderança se relaciona com segurança, eficácia e equidade do atendimento."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Organização Mundial da Saúde (OMS), quanto ao Segundo Desafio Global: “Cirurgias seguras salvam vidas”, analisar a sentença abaixo:\nA OMS indica a utilização de uma lista de verificação de segurança cirúrgica para assegurar que as etapas que promovem a cirurgia segura sejam cumpridas de maneira sistemática e oportuna (1ª parte). A lista de verificação de segurança cirúrgica deve conter se o paciente confirmou sua identidade, o sítio cirúrgico, qual procedimento será realizado e se consente em realizá-lo, além de dados referentes à segurança anestésica, existência de alergias, entre outros dados (2ª parte). A aplicação da lista de verificação deve ser feita por amostragem, contemplando 50% dos procedimentos (3ª parte).\nA sentença está:",
+  "alts": [
+   "Totalmente correta.",
+   "Correta somente em suas 1ª e 2ª partes.",
+   "Correta somente em suas 1ª e 3ª partes.",
+   "Totalmente incorreta."
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Cirurgia segura",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "OMS, Segundo Desafio Global para a Segurança do Paciente: Cirurgias Seguras Salvam Vidas, 2009; Protocolo para Cirurgia Segura (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "A OMS propõe a lista de verificação de segurança cirúrgica para garantir que as etapas de uma cirurgia segura sejam cumpridas de forma sistemática e oportuna (1ª parte, certa). A lista inclui confirmação de identidade, sítio, procedimento e consentimento, segurança anestésica, alergias, via aérea difícil, risco de perda sanguínea e outros itens (2ª parte, certa). A 3ª parte está errada: a lista deve ser aplicada em todos os procedimentos cirúrgicos, não por amostragem. O Protocolo para Cirurgia Segura (MS/ANVISA/Fiocruz, 2013) adota a lista em três momentos: antes da indução, antes da incisão e antes de o paciente sair da sala.",
+  "porAlt": [
+   "Errada: a 3ª parte está errada, pois a lista vale para todos os procedimentos, não para 50%.",
+   "Correta: a finalidade e o conteúdo da lista estão certos; a aplicação por amostragem está errada.",
+   "Errada: a 2ª parte, com identidade, sítio, procedimento, consentimento e alergias, é certa; a 3ª é a errada.",
+   "Errada: a finalidade e o conteúdo da lista descritos nas duas primeiras partes estão certos."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo as orientações para cirurgia segura, contidas no Protocolo Universal da Organização Mundial da Saúde (OMS), a assistência cirúrgica é complexa e envolve dezenas de etapas que devem ser otimizadas, visando minimizar a perda desnecessária de vidas e as complicações sérias. Considerando-se o Protocolo Universal, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n( ) Cirurgias em local errado ou no paciente errado são raras, porém, podem resultar em dano considerável ao paciente; por isso, precisam ser marcados e confirmados antes do procedimento.\n( ) A OMS sugere que, na etapa de verificação dos itens da lista, cada profissional tenha uma tarefa: o enfermeiro identifica o paciente, com a colocação de etiqueta ou pulseira; o cirurgião marca o local a ser operado; e o anestesista confirma a quantidade de instrumentais ou compressas que foram utilizados nas feridas cirúrgicas para impedir retenção inadvertida.\n( ) O protocolo universal é um processo de três etapas, no qual cada uma é complementar à prática de confirmar o paciente, o local e os procedimentos corretos.",
+  "alts": [
+   "C - C - E.",
+   "E - C - C.",
+   "C - E - E.",
+   "C - E - C."
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Cirurgia segura",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Protocolo Universal (The Joint Commission), adotado pela OMS em Cirurgias Seguras Salvam Vidas, 2009",
+  "coment": "Cirurgia em local ou paciente errado é rara, mas grave, por isso o sítio deve ser marcado e confirmado antes do procedimento (1, certo). O Protocolo Universal tem três etapas complementares: verificação pré-operatória, demarcação do sítio cirúrgico e pausa imediatamente antes da incisão, todas para confirmar paciente, local e procedimento corretos (3, certo). O item 2 erra a divisão de tarefas: a contagem de instrumentais, compressas e agulhas é feita pela enfermagem (circulante e instrumentador) com a equipe cirúrgica, antes de o paciente sair da sala, e não é atribuição do anestesista.",
+  "porAlt": [
+   "Errada: o item 2 é falso, pois a contagem de instrumentais e compressas não cabe ao anestesista.",
+   "Errada: o item 1 é certo e o item 2 é falso pela atribuição errada da contagem.",
+   "Errada: o item 3 é certo; o Protocolo Universal tem três etapas complementares.",
+   "Correta: marcação do sítio e as três etapas são certas; a contagem não é tarefa do anestesista."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo o Boletim Informativo da ANVISA - Segurança do Paciente e Qualidade em Serviços de Saúde, assinalar a alternativa que preenche as lacunas abaixo CORRETAMENTE:\nA importância da ____________é decisiva para a adoção de medidas que aumentem a ____________, em especial ao que se refere à avaliação dos benefícios, custos e do impacto da sua adoção nas novas tecnologias em saúde.",
+  "alts": [
+   "leitura | arrecadação",
+   "informação coerente | segurança",
+   "análise | sustentabilidade",
+   "secretaria | estrutura"
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Boletim Informativo Segurança do Paciente e Qualidade em Serviços de Saúde (ANVISA); Portaria MS 529/2013 (PNSP); RDC ANVISA 36/2013",
+  "coment": "O trecho do Boletim Informativo da ANVISA destaca que a informação coerente é decisiva para adotar medidas que aumentem a segurança, inclusive na avaliação de benefícios, custos e impacto da incorporação de novas tecnologias em saúde. A ideia é a da gestão de risco da RDC 36/2013 e do Programa Nacional de Segurança do Paciente (Portaria MS 529/2013): dados confiáveis, vindos da notificação e da vigilância de eventos, sustentam as decisões. As demais alternativas não formam sentido técnico com o restante da frase.",
+  "porAlt": [
+   "Errada: arrecadação não tem relação com a segurança do paciente nem com a avaliação de tecnologias.",
+   "Correta: a informação coerente é decisiva para adotar medidas que aumentem a segurança.",
+   "Errada: não é o texto do boletim, que liga a informação ao aumento da segurança do paciente.",
+   "Errada: secretaria e estrutura não formam sentido com a avaliação de benefícios e custos de tecnologias."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo o Programa Nacional de Prevenção e Controle de Infecções relacionadas à assistência à saúde, assinalar a alternativa que preenche as lacunas abaixo CORRETAMENTE:\nAs Infecções Relacionadas à Assistência à Saúde (IRAS) são um dos ____________ mais frequentes associados à assistência à saúde e um grave problema de saúde pública, pois aumentam a morbidade, a mortalidade e os custos a elas relacionados, além de afetar, de forma negativa, a ____________ e a qualidade dos serviços de saúde.",
+  "alts": [
+   "prejuízos | visão do paciente",
+   "eventos clínicos esperados | segurança do paciente",
+   "eventos adversos | segurança do paciente",
+   "adventos |estrutura"
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Programa Nacional de Prevenção e Controle de IRAS (PNPCIRAS) 2021-2025, ANVISA; RDC ANVISA 36/2013, art. 8º",
+  "coment": "O PNPCIRAS define as IRAS como um dos eventos adversos mais frequentes associados à assistência e grave problema de saúde pública, porque aumentam morbidade, mortalidade e custos e afetam negativamente a segurança do paciente e a qualidade dos serviços. IRAS não são eventos clínicos esperados: grande parte é evitável com higiene das mãos, precauções e pacotes de medidas ligados a dispositivos invasivos. Por isso a prevenção de infecções é estratégia obrigatória do Plano de Segurança do Paciente (RDC 36/2013, art. 8º).",
+  "porAlt": [
+   "Errada: IRAS são eventos adversos, e o impacto descrito é sobre a segurança do paciente.",
+   "Errada: IRAS não são eventos esperados; são eventos adversos, em grande parte evitáveis.",
+   "Correta: IRAS são eventos adversos frequentes que afetam a segurança do paciente e a qualidade dos serviços.",
+   "Errada: adventos não tem sentido técnico, e o impacto central é na segurança do paciente."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo a Nota Técnica GVIMS/GGTES/ANVISA nº 07/2020, até o momento, os sinais e sintomas mais comuns da COVID-19 incluem: febre, tosse e falta de ar. No entanto, outros sintomas não específicos ou atípicos podem incluir:\nI. Anosmia ou hiposmia e ageusia.\nII. Cefaleia, calafrios, dor plantar.\nIII. Mialgia e diarreia.\nIV. Cansaço ou fadiga.\nEstão CORRETOS:",
+  "alts": [
+   "Somente os itens I, II e III.",
+   "Somente os itens II e IV.",
+   "Somente os itens I, III e IV.",
+   "Todos os itens."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Nota Técnica GVIMS/GGTES/ANVISA 07/2020 (covid-19 nos serviços de saúde); Portaria GM/MS 913/2022",
+  "coment": "A Nota Técnica 07/2020 listava febre, tosse e falta de ar como sinais mais comuns da covid-19 e, entre os sintomas atípicos ou inespecíficos, anosmia ou hiposmia e ageusia, mialgia, diarreia e cansaço ou fadiga, além de cefaleia, calafrios e dor de garganta. O item II é falso por trazer dor plantar, que não é sintoma descrito da doença. A nota foi escrita na pandemia; a Emergência em Saúde Pública de Importância Nacional terminou em 2022 (Portaria GM/MS 913/2022), mas esses sintomas continuam úteis para suspeitar de covid-19 na triagem.",
+  "porAlt": [
+   "Errada: inclui o item II, com dor plantar, que não é sintoma descrito da covid-19.",
+   "Errada: inclui o item II e exclui a alteração de olfato e paladar e a mialgia com diarreia.",
+   "Correta: anosmia e ageusia, mialgia e diarreia, e fadiga são sintomas atípicos citados; dor plantar não.",
+   "Errada: o item II é falso por causa da dor plantar."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando-se a Nota Técnica GVIMS/GGTES/ANVISA nº 07/2020: Orientações para prevenção e vigilância epidemiológica das infecções por SARS-CoV-2 (COVID-19) dentro dos serviços de saúde, analisar os itens abaixo:\nI. É recomendável que o serviço de saúde elabore e implemente um Plano de Contingência, com estratégias e políticas necessárias para o enfrentamento da pandemia de SARS-CoV-2, incluindo o gerenciamento dos recursos humanos e materiais.\nII. Manifestações clínicas extrapulmonares, como alterações cardíacas e renais, podem estar associadas à infecção por SARS-CoV-2.\nIII. O desenvolvimento de infecção respiratória aguda e pneumonia associada à assistência à saúde são complicações relativamente comuns da hospitalização em geral.\nIV. Cabe ao serviço de saúde disponibilizar protocolos, fluxos e instruções de trabalho ou Procedimentos Operacionais Padrões (POPs) para identificação, medidas de prevenção e controle de infecção, incluindo orientações quanto ao uso correto de Equipamentos de Proteção Individual (EPI).\nEstão CORRETOS:",
+  "alts": [
+   "Somente os itens I e III.",
+   "Somente os itens II e IV.",
+   "Somente os itens I, II e IV.",
+   "Todos os itens."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Nota Técnica GVIMS/GGTES/ANVISA 07/2020 (covid-19 nos serviços de saúde); Portaria GM/MS 913/2022",
+  "coment": "A Nota Técnica 07/2020 recomenda que o serviço elabore e implemente plano de contingência com gerenciamento de recursos humanos e materiais (I), reconhece manifestações extrapulmonares da covid-19, como cardíacas e renais (II), lembra que infecção respiratória aguda e pneumonia associada à assistência são complicações relativamente comuns de qualquer hospitalização (III) e atribui ao serviço disponibilizar protocolos, fluxos, POPs e orientações sobre o uso correto de EPI (IV). A fase de emergência terminou no Brasil em 2022 (Portaria GM/MS 913/2022), mas esses princípios seguem a base do controle de infecção.",
+  "porAlt": [
+   "Errada: omite o reconhecimento das manifestações extrapulmonares e a oferta de protocolos e orientação de EPI.",
+   "Errada: omite o plano de contingência e o risco geral de infecção respiratória na hospitalização.",
+   "Errada: exclui o item III, e as infecções respiratórias associadas à assistência são de fato comuns na hospitalização.",
+   "Correta: plano de contingência, manifestações extrapulmonares, risco de IRAS respiratória e protocolos com EPI estão na nota."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação aos produtos utilizados na higienização das mãos, numerar a 2ª coluna de acordo com a 1ª e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n(1) Sabonete comum.\n(2) Agentes antissépticos.\n( ) Deve(m) ter ação antimicrobiana imediata e efeito residual ou persistente.\n( ) É exemplo a clorexidina.\n( ) Favorece(m) a remoção de sujeira, de substâncias orgânicas e de microbiota transitória das mãos pela ação mecânica.\n( ) É suficiente para os contatos sociais em geral e para a maioria das atividades práticas nos serviços de saúde.",
+  "alts": [
+   "1 - 1 - 2 - 2.",
+   "1 - 2 - 2 - 1.",
+   "2 - 2 - 1 - 1.",
+   "2 - 1 - 1 - 2."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Higiene das mãos",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ANVISA, Segurança do Paciente em Serviços de Saúde: Higienização das Mãos, 2009; RDC ANVISA 42/2010",
+  "coment": "O sabonete comum, sem antimicrobiano, remove sujeira, substâncias orgânicas e a microbiota transitória pela ação mecânica e basta para os contatos sociais e para a maioria das atividades nos serviços de saúde. Os agentes antissépticos, como a clorexidina, devem ter ação antimicrobiana imediata e efeito residual ou persistente, e são usados na higiene antisséptica e na antissepsia cirúrgica. A preparação alcoólica para fricção (RDC 42/2010) é a forma preferida quando as mãos não estão visivelmente sujas. Sequência 2 - 2 - 1 - 1.",
+  "porAlt": [
+   "Errada: o sabonete comum não tem ação antimicrobiana nem efeito residual, e clorexidina é antisséptico.",
+   "Errada: a clorexidina é antisséptico, mas a remoção mecânica da microbiota transitória é do sabonete comum.",
+   "Correta: ação imediata com efeito residual e clorexidina são dos antissépticos; ação mecânica e uso rotineiro, do sabonete comum.",
+   "Errada: inverte o segundo e o quarto itens; clorexidina é antisséptico e o sabonete basta no uso rotineiro."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre os momentos para a higienização das mãos preconizados pela OMS, analisar os itens abaixo:\nI. Antes da realização de procedimento asséptico.\nII. Após contato com áreas próximas ao paciente.\nIII. Após contato com o paciente.\nIV. Após risco de exposição a fluidos corporais.\nEstão CORRETOS:",
+  "alts": [
+   "Somente os itens I, II e IV.",
+   "Somente os itens II e III.",
+   "Somente os itens I, III e IV.",
+   "Todos os itens."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Higiene das mãos",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "OMS, Diretrizes sobre Higienização das Mãos em Serviços de Saúde, 2009; Protocolo para a Prática de Higiene das Mãos (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "Os cinco momentos da OMS são: antes de tocar o paciente, antes de realizar procedimento limpo ou asséptico, após risco de exposição a fluidos corporais, após tocar o paciente e após tocar superfícies próximas ao paciente. Os quatro itens da questão estão entre eles; o momento antes de tocar o paciente apenas não foi listado, o que não muda a resposta. O momento após contato com áreas próximas vale mesmo sem ter tocado o paciente, porque o ambiente do leito é colonizado pela mesma microbiota.",
+  "porAlt": [
+   "Errada: exclui o momento após contato com o paciente, que também é preconizado.",
+   "Errada: exclui o momento antes de procedimento asséptico e após exposição a fluidos, ambos preconizados.",
+   "Errada: exclui o momento após contato com áreas próximas ao paciente, mesmo sem tocá-lo.",
+   "Correta: os quatro itens estão entre os cinco momentos da OMS para a higiene das mãos."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando-se Saúde da criança: aleitamento materno e alimentação complementar, sobre as orientações importantes de acordo com a idade da criança, assinalar a alternativa que preenche as lacunas abaixo CORRETAMENTE:\nAté completar seis meses de vida, o aleitamento materno deve ser exclusivo. Após completar seis meses, orientar a introdução dos alimentos complementares e da água. Estimular a __________________ do aleitamento materno. Orientar o consumo de alimentos que são ricos em vitamina __________________.",
+  "alts": [
+   "manutenção | B, ômega 3 e zinco",
+   "cessação gradual | B e zinco",
+   "manutenção | A e ferro",
+   "cessação gradual | A e zinco"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Aleitamento e alimentação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica 23, Saúde da criança: aleitamento materno e alimentação complementar (MS, 2015); Guia Alimentar para Crianças Brasileiras Menores de 2 Anos (MS, 2019)",
+  "coment": "O Caderno de Atenção Básica 23 orienta aleitamento materno exclusivo até os 6 meses e, a partir daí, introdução da alimentação complementar e da água, mantendo o aleitamento até 2 anos ou mais. Entre as orientações está o consumo de alimentos ricos em vitamina A (frutas e hortaliças amarelo-alaranjadas e folhas verde-escuras) e em ferro (carnes, vísceras, feijão), porque anemia ferropriva e hipovitaminose A são carências prevalentes nessa idade. Cessar o aleitamento aos 6 meses contraria a recomendação. O Guia Alimentar para Crianças Menores de 2 Anos (MS, 2019) mantém essas orientações.",
+  "porAlt": [
+   "Errada: a manutenção está certa, mas o foco nutricional da orientação é vitamina A e ferro.",
+   "Errada: o aleitamento deve ser mantido até 2 anos ou mais, não cessado após os 6 meses.",
+   "Correta: manter o aleitamento e oferecer alimentos ricos em vitamina A e ferro.",
+   "Errada: não se orienta cessar o aleitamento aos 6 meses, e o par prioritário é vitamina A e ferro."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2021,
+   "prova": "Residência Multiprofissional 2022, Enfermagem",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a Educação Permanente em Saúde (EPS), analisar os itens abaixo:\nI. A Política Nacional de Educação Permanente em Saúde (PNEPS) permite que a formação e o desenvolvimento de profissionais de saúde ocorram de modo descentralizado, ascendente e transdisciplinar.\nII. A formação engloba todos os locais e saberes, a fim de proporcionar a democratização dos espaços de trabalho.\nIII. A Residência Multiprofissional em Saúde (RMS) tem como objetivo formar profissionais para uma atuação diferenciada no SUS, uma vez que pressupõe construção interdisciplinar dos profissionais em saúde, trabalho em equipe, dispositivo de educação permanente e reorientação das lógicas tecnoassistenciais.\nEstão CORRETOS:",
+  "alts": [
+   "Todos os itens.",
+   "Somente os itens I e II.",
+   "Somente os itens I e III.",
+   "Somente os itens II e III."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 1.996/2007 (PNEPS); Lei 11.129/2005 (residência em área profissional da saúde)",
+  "coment": "A Política Nacional de Educação Permanente em Saúde (Portaria GM/MS 1.996/2007) propõe formação e desenvolvimento descentralizados, ascendentes e transdisciplinares, a partir dos problemas do trabalho (I). A educação permanente reconhece todos os locais e saberes como espaços de aprendizagem e busca democratizar os espaços de trabalho (II). A Residência Multiprofissional em Saúde, criada pela Lei 11.129/2005, forma para atuação diferenciada no SUS, com construção interdisciplinar, trabalho em equipe, educação permanente e reorientação das lógicas tecnoassistenciais (III). Todos certos.",
+  "porAlt": [
+   "Correta: descentralização e transdisciplinaridade, democratização dos espaços e o papel da residência multiprofissional estão certos.",
+   "Errada: exclui o item III, e a residência multiprofissional é dispositivo de educação permanente no SUS.",
+   "Errada: exclui o item II, que descreve a formação em todos os locais e saberes.",
+   "Errada: exclui o item I, que traz o modo descentralizado, ascendente e transdisciplinar da PNEPS."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 1,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre bioética e interculturalidade em saúde a partir da diversidade, analisar os itens abaixo:\nI. A interculturalidade tem sua origem no campo da Antropologia e refere-se a um processo permanente de relação, comunicação, entendimento e aprendizagem entre pessoas ou grupos sociais com conhecimentos e tradições distintas.\nII. Historicamente, a interculturalidade em saúde começa a ser estudada na América Latina com maior profundidade na segunda metade do século XX, a partir das questões de saúde indígena.\nIII. A mediação de conflitos em bioética requer a atuação de um juiz ou especialista em direito que determine às partes o certo e o errado na situação analisada.\nEstá(ão) CORRETO(S):",
+  "alts": [
+   "Somente o item III.",
+   "Somente os itens I e III.",
+   "Somente os itens I e II.",
+   "Nenhum dos itens."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Goldim, Bioética: origens e complexidade, Revista HCPA, 2006; Portaria MS 254/2002 (Política Nacional de Atenção à Saúde dos Povos Indígenas)",
+  "coment": "A interculturalidade nasce na Antropologia e designa processo permanente de relação, comunicação e aprendizagem entre pessoas e grupos com conhecimentos e tradições distintos (I). Na América Latina, a interculturalidade em saúde ganhou estudo mais profundo na segunda metade do século XX, a partir da saúde indígena; no Brasil, a Política Nacional de Atenção à Saúde dos Povos Indígenas (Portaria MS 254/2002) adota a atenção diferenciada (II). O item III é falso: a mediação de conflitos em bioética não depende de juiz que dite certo e errado; um mediador facilita o diálogo para que as partes construam a solução.",
+  "porAlt": [
+   "Errada: o item III é falso, pois a mediação não depende de juiz que determine o certo e o errado.",
+   "Errada: inclui o item III, que confunde mediação com decisão judicial.",
+   "Correta: a origem antropológica da interculturalidade e seu estudo a partir da saúde indígena estão certos.",
+   "Errada: os itens I e II são certos; só o III é falso."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 2,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Os sistemas de atenção à saúde são respostas sociais deliberadas às necessidades de saúde dos cidadãos e, como tal, devem operar em total coerência com a situação de saúde das pessoas usuárias. Dessa forma, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n( ) A organização dos sistemas de saúde sob a forma de redes integradas é a melhor estratégia para garantir atenção integral, efetiva e eficaz às populações assistidas.\n( ) Os fatores contextuais, que são externos ao sistema de atenção à saúde, mudam em ritmo mais lento que os fatores internos, que estão sob a governabilidade setorial.\n( ) Na Rede de Atenção à Saúde, busca-se dar ênfase às intervenções promocionais, preventivas, curativas, cuidadoras, reabilitadoras ou paliativas, atuando sobre determinantes sociais da saúde intermediários e proximais e sobre as condições de saúde estabelecidas.\n( ) No sistema fragmentado, o foco está nas condições agudas, por meio de unidades de pronto atendimento; já no sistema de Rede de Atenção à Saúde, o foco está nas condições agudas e crônicas.\n( ) No sistema fragmentado, a característica da organização territorial é de territórios sanitários definidos pelos fluxos sanitários da população em busca de atenção político-administrativas definida por uma lógica política.",
+  "alts": [
+   "E - E - E - C - C.",
+   "E - E - C - C - E.",
+   "E - C - E - E - C.",
+   "C - E - C - C - E."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Mendes, As redes de atenção à saúde, OPAS, 2011; Portaria GM/MS 4.279/2010",
+  "coment": "Para Mendes (2011), a organização em redes integradas é a melhor estratégia para atenção integral, efetiva e eficaz (1, certo). Os fatores contextuais externos, como envelhecimento e transição epidemiológica, mudam em ritmo mais rápido que os fatores internos ao sistema, o que gera a crise dos sistemas fragmentados (2, errado). A RAS atua em todo o contínuo, de promoção a paliação, sobre determinantes intermediários e proximais e condições estabelecidas (3, certo). O sistema fragmentado foca as condições agudas; a RAS, agudas e crônicas (4, certo). Na RAS os territórios são sanitários, definidos pelos fluxos da população; no fragmentado, político-administrativos (5, errado).",
+  "porAlt": [
+   "Errada: o primeiro item é certo, e o terceiro, sobre o contínuo de intervenções, também.",
+   "Errada: o primeiro item, redes integradas como melhor estratégia, é certo.",
+   "Errada: inverte vários itens; o segundo é falso e o terceiro e o quarto são certos.",
+   "Correta: certos 1, 3 e 4; o 2 inverte o ritmo dos fatores e o 5 atribui ao fragmentado o território sanitário."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 3,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre os elementos constitutivos de uma Rede de Atenção à Saúde (RAS), numerar a 2ª coluna de acordo com a 1ª e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n(1) O terceiro componente das redes de atenção, os sistemas de apoio.\n(2) Os pontos de atenção terciários.\n(3) As estruturas de atenção à saúde secundárias e terciárias.\n( ) São os pontos da rede nos quais se ofertam serviços especializados, com diferentes densidades tecnológicas e servem de apoio à Atenção Primária.\n( ) São pontos da RAS tecnologicamente mais densos, porém não há, entre eles, relação de principalidade ou subordinação, uma vez que constituem uma rede poliárquica.\n( ) São os lugares institucionais em que se realizam serviços comuns a todos os pontos de atenção à saúde, nos campos diagnóstico e terapêutico, de assistência farmacêutica e dos sistemas de informação à saúde.",
+  "alts": [
+   "2 - 1 - 3.",
+   "2 - 3 - 1.",
+   "3 - 2 - 1.",
+   "3 - 1 - 2."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Mendes, As redes de atenção à saúde, OPAS, 2011",
+  "coment": "Na estrutura operacional das RAS descrita por Mendes (2011), os pontos de atenção secundários e terciários ofertam serviços especializados, com diferentes densidades tecnológicas, e apoiam a APS (3). Os pontos terciários são os tecnologicamente mais densos, mas não há entre eles relação de principalidade ou subordinação, porque a rede é poliárquica, e não uma pirâmide hierárquica (2). O terceiro componente, os sistemas de apoio, são lugares institucionais com serviços comuns a todos os pontos: apoio diagnóstico e terapêutico, assistência farmacêutica e sistemas de informação em saúde (1). Sequência 3 - 2 - 1.",
+  "porAlt": [
+   "Errada: a descrição de serviços especializados de diferentes densidades corresponde às estruturas secundárias e terciárias.",
+   "Errada: a rede poliárquica dos pontos mais densos descreve os terciários, não os sistemas de apoio.",
+   "Correta: estruturas secundárias e terciárias, pontos terciários e sistemas de apoio, nessa ordem.",
+   "Errada: os sistemas de apoio são os serviços comuns a todos os pontos, que é a terceira descrição."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 4,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre os modelos de atenção à saúde, assinalar a alternativa que preenche as lacunas abaixo CORRETAMENTE:\nO modelo de atenção à saúde é um sistema lógico que organiza o funcionamento _____________________, articulando, de forma singular, as relações entre a população e suas subpopulações estratificadas por riscos, os focos _______________ do sistema de atenção à saúde e os diferentes tipos de intervenções sanitárias, definido em função da visão prevalecente da saúde, das situações demográfica e epidemiológica e _________________, vigentes em determinado tempo e em determinada sociedade.",
+  "alts": [
+   "das Redes de Atenção à Saúde | das intervenções | dos determinantes sociais em saúde",
+   "das unidades de saúde | da epidemiologia | da educação",
+   "da saúde suplementar | dos programas | dos determinantes",
+   "do Ministério da Saúde | de risco | política"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Mendes, As redes de atenção à saúde, OPAS, 2011",
+  "coment": "Mendes (2011) define modelo de atenção à saúde como sistema lógico que organiza o funcionamento das Redes de Atenção à Saúde, articulando de forma singular a população e suas subpopulações estratificadas por riscos, os focos das intervenções do sistema e os diferentes tipos de intervenções sanitárias. Ele é definido pela visão prevalecente da saúde, pelas situações demográfica e epidemiológica e pelos determinantes sociais da saúde vigentes num tempo e numa sociedade. O modelo organiza a rede inteira, não uma unidade isolada, o Ministério ou a saúde suplementar.",
+  "porAlt": [
+   "Correta: o modelo organiza as RAS, articula os focos das intervenções e depende dos determinantes sociais da saúde.",
+   "Errada: o modelo organiza a rede, não unidades isoladas, e a definição cita os determinantes sociais, não a educação.",
+   "Errada: a definição de Mendes trata das RAS do sistema público, não da saúde suplementar.",
+   "Errada: o modelo não organiza o Ministério da Saúde, e a definição fala em focos das intervenções."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 5,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Em relação ao processo de saúde e doença e seus determinantes sociais, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n( ) Segundo Albuquerque (2014), com a utilização dos meios de vida que o ser humano elabora e intencionalmente modifica, consegue garantir sua sobrevivência e ter maiores possibilidades de realização, que pode reduzir a mortalidade precoce, aumentar a longevidade e o desenvolvimento de seus saberes.\n( ) Para Albuquerque (2014), quando as forças produtivas se desenvolvem, criam-se as condições para que a produção ocorra com menor desgaste de energia por parte do trabalhador e com menor dispêndio de tempo. Assim, melhoram as possibilidades de realização da vida dos indivíduos, aumenta a expectativa de vida e alteram-se as causas de adoecimento e morte.\n( ) Albuquerque (2014) nos diz que compreender a determinação social da saúde não consiste em compreender apenas que a saúde depende do acesso aos objetos humanos, mas à possibilidade de realização, de satisfação das necessidades da vida, e ao acesso aos produtos necessários para tal fim.\n( ) Segundo Backes (2009), o processo saúde-doença vem acompanhando uma grande e significativa evolução na história. Enquanto na Idade Contemporânea o pensamento científico tende à redução, à objetividade e à fragmentação do conhecimento, traduzindo os acontecimentos por meio de formas demonstráveis e calculáveis, na Idade Moderna, surge a subjetividade e a complexidade, na tentativa de explicar a realidade por intermédio de modelos que procuram levar em conta as relações estabelecidas com o meio em que as pessoas vivem.",
+  "alts": [
+   "E - E - C - C.",
+   "C - C - C - E.",
+   "C - C - E - E.",
+   "E - C - E - E."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Albuquerque e Silva, Saúde em Debate, 2014; Backes et al., Rev. Enferm. UERJ, 2009",
+  "coment": "Os três primeiros itens resumem Albuquerque (2014): ao produzir e modificar intencionalmente os meios de vida, o ser humano garante a sobrevivência, reduz a mortalidade precoce e aumenta a longevidade; o desenvolvimento das forças produtivas reduz desgaste e tempo de trabalho e muda as causas de adoecimento e morte; e a determinação social da saúde envolve a possibilidade de realizar e satisfazer as necessidades da vida, não só o acesso aos objetos. O item 4 inverte as épocas de Backes (2009): redução, objetividade e fragmentação marcam a Idade Moderna, e subjetividade e complexidade surgem na Contemporânea.",
+  "porAlt": [
+   "Errada: os dois primeiros itens são certos, e o quarto inverte as Idades Moderna e Contemporânea.",
+   "Correta: certos os três itens de Albuquerque; o quarto troca a Idade Moderna pela Contemporânea.",
+   "Errada: o terceiro item é certo, pois a determinação social vai além do acesso aos objetos.",
+   "Errada: o primeiro e o terceiro itens também são certos segundo Albuquerque."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 6,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Assinalar a alternativa que preenche as lacunas abaixo CORRETAMENTE:\nSegundo Teixeira (2018), na legislação brasileira vigente, vigilância em saúde (VS) é definida como um processo ___________ e sistemático de coleta, _______________, análise e disseminação de dados sobre eventos relacionados à saúde, visando o ______________ e a implementação de medidas de políticas públicas para a proteção da saúde da população, a prevenção e o controle de riscos, agravos e doenças, bem como a promoção da saúde.",
+  "alts": [
+   "contínuo | consolidação | planejamento",
+   "possível | planejamento | controle",
+   "reducionista | consolidação | planejamento",
+   "fragmentado | consolidação | redução"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 1.378/2013; Resolução CNS 588/2018 (PNVS); Teixeira et al., Ciência & Saúde Coletiva, 2018",
+  "coment": "Teixeira (2018) cita a definição legal: vigilância em saúde é processo contínuo e sistemático de coleta, consolidação, análise e disseminação de dados sobre eventos relacionados à saúde, visando o planejamento e a implementação de medidas de saúde pública para proteção da saúde, prevenção e controle de riscos, agravos e doenças e promoção da saúde. A mesma definição está na Política Nacional de Vigilância em Saúde (Resolução CNS 588/2018). Contínuo opõe-se a fragmentado ou ocasional; consolidação vem entre coleta e análise; o planejamento orienta as medidas.",
+  "porAlt": [
+   "Correta: processo contínuo, com consolidação dos dados, visando o planejamento das medidas.",
+   "Errada: possível não descreve o caráter permanente, e planejamento não é etapa entre coleta e análise.",
+   "Errada: reducionista não é termo da definição; o processo é contínuo e sistemático.",
+   "Errada: fragmentado contraria a continuidade, e o objetivo é o planejamento, não a redução."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 7,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Em relação aos apontamentos de TEIXEIRA et al., analisar os itens abaixo:\nI. Além de programas que demandam a condução de atividades de rotina, a Vigilância em Saúde é acionada quando da ocorrência de situações inusitadas, principalmente nos surtos e nas epidemias que se constituem Emergências em Saúde Pública (ESP).\nII. A Reforma Sanitária Brasileira propunha-se ao estabelecimento de um modelo descentralizado, com protagonismo do nível local, especialmente no que se referia à vigilância e ao controle de doenças e riscos epidemiológicos.\nIII. No percurso da implementação da Vigilância em Saúde no SUS, obstáculos vêm sendo observados. Muitas das vezes, tais obstáculos dificultam as mudanças desejadas no sentido de atender a um dos preceitos da Reforma Sanitária Brasileira, qual seja a de buscar a integralidade da atenção à saúde, iniciando pela integração da Vigilância Sanitária à Atenção Básica, visando reduzir a demanda por média e alta complexidade.\nEstá(ão) CORRETO(S):",
+  "alts": [
+   "Somente o item I.",
+   "Somente o item II.",
+   "Somente o item III.",
+   "Todos os itens."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Teixeira et al., Ciência & Saúde Coletiva, 2018 (Vigilância em Saúde no SUS); Resolução CNS 588/2018 (PNVS)",
+  "coment": "Teixeira et al. (2018) descrevem a vigilância em saúde com atividades de rotina e acionada em situações inusitadas, como surtos e epidemias que configuram Emergências em Saúde Pública (I). A Reforma Sanitária propôs modelo descentralizado, com protagonismo do nível local na vigilância e no controle de riscos (II). Na implementação surgiram obstáculos ao preceito da integralidade, que começaria pela integração da vigilância à Atenção Básica para reduzir a demanda por média e alta complexidade (III). O item III cita a Vigilância Sanitária; a PNVS (Resolução CNS 588/2018) propõe integrar à APS o conjunto da vigilância em saúde, imprecisão que a banca aceitou.",
+  "porAlt": [
+   "Errada: o item I é certo, mas os itens II e III também estão no texto de Teixeira et al.",
+   "Errada: a descentralização é certa, mas os itens I e III também foram dados como certos.",
+   "Errada: o item III é certo, mas o I e o II também são.",
+   "Correta: acionamento em emergências, modelo descentralizado e obstáculos à integração com a Atenção Básica estão no texto."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem",
+   "n": 8,
+   "parte": "politicas"
+  }
+ }
+]
