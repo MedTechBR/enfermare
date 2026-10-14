@@ -1,0 +1,1506 @@
+[
+ {
+  "q": "O alcance da meta institucional, através da oferta de trabalho qualificado e aumento da produtividade será obtido por meio da educação dos profissionais, que ocorre com a Educação Continuada e com a Educação Permanente. Diante do exposto, assinale a alternativa correta.",
+  "alts": [
+   "A Educação Continuada está em desuso, uma vez que não há necessidade de conciliar as demandas de desenvolvimento pessoal e grupal com a organização e sociedade",
+   "A Educação Continuada pode ser substituída pela educação permanente, dada sua importância no processo formativo",
+   "Na Educação Permanente os processos de educação dos trabalhadores da saúde se fazem a partir da problematização do processo de trabalho, as demandas por mudanças e melhorias, devem ser baseadas na análise do processo de trabalho, nos seus problemas e desafios",
+   "A Educação Continuada participa do desenvolvimento das ações de ensino em serviço, considera as necessidades de formação e desenvolvimento para o trabalho em saúde, fortalecendo a atenção integral a saúde",
+   "Nas organizações de saúde a implementação da Educação Permanente não necessita do apoio do gestor"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 198/2004 e Portaria GM/MS 1.996/2007 (Política Nacional de Educação Permanente em Saúde)",
+  "coment": "A Política Nacional de Educação Permanente em Saúde (Portarias GM/MS 198/2004 e 1.996/2007) define a educação permanente como aprendizagem no trabalho: parte da problematização do processo de trabalho, e as necessidades de formação e de mudança nascem da análise dos problemas reais do serviço. A educação continuada é a atualização por cursos e conteúdos definidos previamente. As duas convivem; uma não extingue a outra, e a educação permanente depende do apoio do gestor, porque mexe na organização do trabalho.",
+  "porAlt": [
+   "Errada: a educação continuada não está em desuso; atualização técnica por cursos segue necessária e convive com a educação permanente.",
+   "Errada: as duas são complementares, com objetivos diferentes, e a política não propõe substituir uma pela outra.",
+   "Correta: é a definição da PNEPS, aprendizagem a partir da problematização do processo de trabalho e de seus problemas e desafios.",
+   "Errada: ensino em serviço a partir das necessidades do trabalho, voltado à atenção integral, descreve a educação permanente, não a continuada.",
+   "Errada: a educação permanente exige apoio da gestão, pois envolve mudar processos e a organização do trabalho."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre Sistema de Informação em Enfermagem, analise o trecho abaixo.\n“Um dado pode ser compreendido como o ______ de observações e de medidas objetivas de características de pessoas e de fatos que compõem determinado evento ou ocorrência de saúde em determinado tempo e lugar. Nessa linha, o dado agrega significado aos eventos de saúde. Esse ______ pode ser realizado em formulário de papel ou em plataforma eletrônica”.\nAssinale a alternativa que com o termo que preencha corretamente as lacunas.",
+  "alts": [
+   "Cuidar",
+   "Falar",
+   "Pensar",
+   "Trabalho",
+   "Registro"
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 7.498/1986, art. 11, I, e Res. COFEN 754/2024 (registro em prontuário eletrônico); Res. COFEN 564/2017, art. 36",
+  "coment": "O trecho define dado como o registro de observações e de medidas objetivas sobre pessoas e fatos de um evento de saúde em determinado tempo e lugar; esse registro pode ser feito em papel ou em plataforma eletrônica. É a base de todo sistema de informação: sem registro não há dado, e sem dado não há informação para decidir. Para a enfermagem, registrar é dever ético (Res. COFEN 564/2017, art. 36, registro claro e sem rasura) e vale também no prontuário eletrônico, regulado pela Res. COFEN 754/2024.",
+  "porAlt": [
+   "Errada: cuidar é a finalidade da assistência, não o ato que transforma observações em dado.",
+   "Errada: falar é comunicação oral, que não gera dado sem registro e não se faz em formulário.",
+   "Errada: pensar é processo mental; o dado só existe quando a observação é registrada.",
+   "Errada: trabalho é genérico e não se realiza em formulário ou plataforma eletrônica.",
+   "Correta: dado é o registro de observações e medidas, feito em papel ou em meio eletrônico."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No dia-a-dia de nosso trabalho executamos grande variedade de procedimentos. Em geral, a importância que lhes é conferida associa-se ao grau de complexidade, à tecnologia envolvida, à capacidade de provocar danos ou complicações. Contudo, na prevenção de complicações relacionadas ao risco de infecção, um procedimento simples, e muito eficaz é a ______.\nAssinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "esterilização de materiais",
+   "desinfecção de artigos",
+   "descontaminação de objetos",
+   "lavagem das mãos",
+   "limpeza da unidade"
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Higiene das mãos",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Protocolo para a prática de higiene das mãos em serviços de saúde (Portaria MS 1.377/2013); RDC ANVISA 42/2010",
+  "coment": "A higiene das mãos é a medida isolada mais simples, barata e eficaz para prevenir infecções relacionadas à assistência, porque as mãos dos profissionais são o principal veículo de transmissão cruzada. É um dos seis protocolos básicos de segurança do paciente (Portaria MS 1.377/2013), e a RDC ANVISA 42/2010 obriga a oferta de preparação alcoólica nos pontos de assistência. Hoje se fala em higiene das mãos, que inclui a lavagem com água e sabonete e a fricção com preparação alcoólica.",
+  "porAlt": [
+   "Errada: esterilização é processo complexo, que exige equipamento e controle, e não o procedimento simples do enunciado.",
+   "Errada: desinfecção de artigos é etapa do processamento de produtos, não a medida simples de rotina do profissional.",
+   "Errada: descontaminação de objetos não é o procedimento simples e de maior impacto na transmissão cruzada.",
+   "Correta: a lavagem (higiene) das mãos é o procedimento simples e muito eficaz contra a infecção.",
+   "Errada: limpeza da unidade reduz a carga ambiental, mas não é a medida simples de maior eficácia destacada."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os artigos utilizados nos serviços de saúde são classificados em três categorias, conforme o grau de risco de provocar infecção nos pacientes. Analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Artigos críticos: materiais com elevado potencial de risco de provocar infecção, porque são introduzidos diretamente em tecidos normalmente estéreis.\n( ) Artigos semicríticos: materiais que entram em contato com mucosa íntegra e pele não-intacta; pode-se tornar artigo crítico se ocorrer lesão acidental durante a realização do procedimento.\n( ) Artigos não- críticos: materiais que entram em contato com mucosa íntegra, e geralmente oferecem baixo risco de infecção.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V",
+   "V - F - F",
+   "V - V - F",
+   "F - V - F",
+   "V - F - V"
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "RDC ANVISA 15/2012, art. 4º (classificação de Spaulding)",
+  "coment": "Pela classificação de Spaulding, adotada na RDC ANVISA 15/2012, art. 4º: críticos penetram tecidos estéreis ou o sistema vascular e exigem esterilização; semicríticos entram em contato com pele não íntegra ou mucosas íntegras e exigem no mínimo desinfecção de alto nível, e passam a se comportar como críticos se houver lesão de mucosa durante o uso; não críticos entram em contato só com pele íntegra ou nem tocam o paciente, e bastam limpeza ou desinfecção de baixo nível. A terceira afirmativa é falsa porque contato com mucosa íntegra define o semicrítico. Sequência V, V, F.",
+  "porAlt": [
+   "Errada: a terceira afirmativa é falsa, pois não crítico toca só pele íntegra, e não mucosa.",
+   "Errada: a segunda afirmativa é verdadeira; semicrítico é o que toca mucosa íntegra ou pele não íntegra.",
+   "Correta: crítico e semicrítico estão bem definidos, e o não crítico não entra em contato com mucosa.",
+   "Errada: a primeira afirmativa é verdadeira, pois críticos penetram tecidos normalmente estéreis.",
+   "Errada: inverte a segunda e a terceira; o semicrítico está certo e o não crítico está errado."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A desinfecção de artigos hospitalares por processo químico é feita por meio de imersão em soluções germicidas. Sobre o uso do álcool 70% (etílico e isopropílico), é correto afirmar que:",
+  "alts": [
+   "ação rápida, fácil aplicação, viável para artigos metálicos",
+   "as soluções devem ser estocadas em frascos opacos; ação rápida e baixo custo",
+   "requer tempo prolongado para agir",
+   "apresenta toxicidade dérmica, podendo provocar a despigmentação cutânea",
+   "indicado para materiais de inaloterapia e oxigenoterapia não metálicos, como máscaras de inalação e nebulização, circuitos ventilatório"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Processamento de artigos e superfícies em estabelecimentos de saúde, 2ª ed., 1994; RDC ANVISA 15/2012",
+  "coment": "O álcool etílico ou isopropílico a 70% é desinfetante de nível intermediário, de ação rápida e fácil aplicação, por fricção, e é viável para artigos metálicos e superfícies, conforme o manual do Ministério da Saúde de processamento de artigos (1994). As desvantagens são ser inflamável, volátil e ressecar borrachas e plásticos. As demais alternativas descrevem outros germicidas: estocagem em frasco opaco, baixo custo e uso em inaloterapia não metálica são do hipoclorito de sódio; toxicidade dérmica com despigmentação, dos fenólicos; tempo prolongado de ação, dos aldeídos.",
+  "porAlt": [
+   "Correta: ação rápida, fácil aplicação e uso viável em artigos metálicos são vantagens do álcool a 70%.",
+   "Errada: estocagem em frasco opaco, ação rápida e baixo custo descrevem o hipoclorito de sódio, que se degrada com a luz.",
+   "Errada: o álcool age rápido; tempo prolongado de contato caracteriza os aldeídos, como o glutaraldeído.",
+   "Errada: toxicidade dérmica com despigmentação da pele é efeito descrito para os compostos fenólicos.",
+   "Errada: materiais de inaloterapia e oxigenoterapia não metálicos são indicação clássica do hipoclorito, e o álcool resseca plásticos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em casos em que o paciente está impossibilitado de alimentar-se espontaneamente através de refeições normais, é indicado a nutrição enteral que consiste na administração de nutrientes por meio de sondas nasogástrica. Diante do exposto, analise as afirmativas abaixo.\nI. Durante a infusão de dietas, orientar o paciente a manter-se predominantemente em decúbito lateralizado, para evitar a ocorrência de refluxo gastroesofágico.\nII. A dieta enteral pode ser administrada por método intermitente ou contínuo. A administração contínua da dieta pode ser realizada com a introdução da alimentação pode por meio de uma seringa.\nIII. Após a alimentação intermitente, lave a sonda com 30 a 50ml de água, para remover os resíduos aderidos à parede interna, evitando sua obstrução.\nIV. A administração rápida da dieta e volume inadequado (maior), podem ocasionar complicações como obstipação e desidratação.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I, II, III e IV",
+   "II e III apenas",
+   "I, II e IV apenas",
+   "I, IV apenas",
+   "I e III apenas"
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Res. COFEN 619/2019 (sondagem e nutrição enteral); RDC ANVISA 503/2021 (terapia de nutrição enteral)",
+  "coment": "Durante a infusão o paciente deve ficar com a cabeceira elevada, em Fowler ou semi-Fowler, e não em decúbito lateral, para reduzir refluxo e aspiração; por isso I é falsa. A dieta pode ser intermitente ou contínua; a banca aceitou II, e a infusão contínua pode ser feita por bomba, inclusive bomba de seringa, comum na neonatologia, embora a seringa manual sirva ao bolus intermitente. III é correta: lavar a sonda com água após a dieta evita obstrução. IV é falsa: infusão rápida e volume excessivo causam distensão, náusea, vômito, diarreia e risco de aspiração, e não obstipação.",
+  "porAlt": [
+   "Errada: I e IV são falsas; o decúbito lateral não é a posição indicada e a infusão rápida não causa obstipação.",
+   "Correta: II e III, segundo a banca; métodos intermitente e contínuo e lavagem da sonda após a dieta.",
+   "Errada: inclui I, que indica decúbito lateral em vez de cabeceira elevada, e IV, com complicação errada.",
+   "Errada: as duas afirmativas são falsas; a posição é Fowler e a complicação da infusão rápida é diarreia e vômito.",
+   "Errada: inclui I, falsa, e exclui II, aceita pela banca como correta."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Programa Nacional de Segurança do Paciente - PNSP foi criado para contribuir para a qualificação do cuidado em saúde em todos os estabelecimentos de saúde do território nacional. Sobre suas ações, assinale a alternativa incorreta.",
+  "alts": [
+   "Estabelecer parcerias com organismos internacionais com o objetivo de promover articulação e intercâmbio entre países para fortalecimento do PNSP",
+   "É de responsabilidade dos municípios, orienta a técnica para o aperfeiçoamento da capacidade gerencial e operacional nessa área",
+   "Elaborar e apoiar a implementação de protocolos, guias, manuais e outros materiais de segurança do paciente",
+   "Promover mecanismos de comunicação social voltada aos profissionais, usuários de serviços de saúde e sociedade, para divulgar e promover a segurança do paciente",
+   "Fomentar e participar de atividades intersetoriais para o fortalecimento da implantação e expansão da cultura de segurança do paciente no Brasil"
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria MS 529/2013 (Programa Nacional de Segurança do Paciente), arts. 2º e 5º",
+  "coment": "O PNSP foi instituído pelo Ministério da Saúde na Portaria MS 529/2013 para qualificar o cuidado em todos os estabelecimentos de saúde do território nacional (art. 2º). É um programa federal, com estratégias de implementação que incluem elaborar e apoiar protocolos, guias e manuais, promover comunicação social sobre segurança do paciente, articular-se com organismos internacionais e fomentar ações intersetoriais para a cultura de segurança. Atribuí-lo aos municípios é o erro da alternativa B; a gestão nacional é do MS, com comitê coordenado pela ANVISA.",
+  "porAlt": [
+   "Errada como resposta: a articulação com organismos internacionais é estratégia prevista no PNSP.",
+   "Correta: é a incorreta, pois o PNSP é programa do Ministério da Saúde, e não responsabilidade dos municípios.",
+   "Errada como resposta: elaborar e apoiar protocolos, guias e manuais de segurança do paciente é estratégia do programa.",
+   "Errada como resposta: a comunicação social para profissionais, usuários e sociedade está entre as ações do PNSP.",
+   "Errada como resposta: fomentar ações intersetoriais para a cultura de segurança também é estratégia do programa."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A fim de apoiar as medidas do Programa Nacional de Segurança do Paciente (PNSP), a Anvisa publicou a Resolução da Diretoria Colegiada (RDC) nº 36, de 25 de julho de 2013, que estabelece a obrigatoriedade de implantação do Núcleo de Segurança do Paciente nas instituições de saúde. Sobre o tema, assinale a alternativa correta.",
+  "alts": [
+   "O Plano Integrado para a Gestão Sanitária da Segurança do Paciente em Serviços de Saúde - Monitoramento e Investigação de Eventos Adversos e Avaliação de Práticas de Segurança do Paciente. O objetivo deste plano é criar normas que apoiem financiamentos para o Núcleo de Segurança do Paciente nas instituições",
+   "O Ministério da Saúde, Anvisa e Fundação Oswaldo Cruz (Fiocruz) criaram três protocolos básicos de segurança do paciente: prática de higiene das mãos; segurança na prescrição, uso e administração de medicamentos",
+   "Núcleo de Segurança do Paciente realiza medidas para promover a prevenção, controle e mitigação de Eventos Adversos danosos ao paciente nos serviços de saúde",
+   "Os Núcleos de Segurança do Paciente devem ser estruturados nos serviços de saúde públicos, privados, filantrópicos, civis ou militares, excluindo aqueles que exercem ações de ensino e pesquisa",
+   "Um dos princípios do Núcleo de Segurança do Paciente é trabalhar sem a interação com o gerenciamento de riscos"
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 36/2013, arts. 2º, 5º e 7º; Portarias MS 1.377/2013 e 2.095/2013",
+  "coment": "A RDC ANVISA 36/2013 cria o Núcleo de Segurança do Paciente, instância que promove e apoia ações de segurança, incluindo a prevenção, o controle e a mitigação de incidentes e eventos adversos (art. 7º). Vale para serviços públicos, privados, filantrópicos, civis ou militares, inclusive os de ensino e pesquisa (art. 2º). Entre os princípios do núcleo está a articulação e integração dos processos de gestão de risco (art. 5º). Os protocolos básicos do MS são seis, das Portarias 1.377/2013 e 2.095/2013, e não três.",
+  "porAlt": [
+   "Errada: o Plano Integrado da ANVISA trata de monitoramento e investigação de eventos adversos e avaliação de práticas, não de financiamento.",
+   "Errada: os protocolos básicos são seis (identificação, cirurgia segura, higiene das mãos, lesão por pressão, quedas e medicamentos).",
+   "Correta: o NSP promove a prevenção, o controle e a mitigação de eventos adversos nos serviços de saúde.",
+   "Errada: a RDC 36/2013 inclui expressamente os serviços que exercem ensino e pesquisa.",
+   "Errada: a integração com a gestão de riscos é princípio do NSP (art. 5º), e não algo a evitar."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Prática Baseada em Evidências (PBE) é definida como o uso criterioso de resultados de pesquisas nos processos de trabalho, considerando também a habilidade do profissional e a preferência do paciente. Sobre o tema, assinale a alternativa incorreta.",
+  "alts": [
+   "Atualmente, a PBE é uma forte vertente na área da saúde de países desenvolvidos, regendo a pesquisa, o ensino e a prática de cuidados",
+   "Prática Baseada em Evidências (PBE) surge na década de 1970",
+   "A PBE baseia-se na tríade composta pelos seguintes elementos: evidências, habilidades clínicas do profissional e preferências do paciente",
+   "A PBE proporciona uma relação entre diagnóstico e a escolha terapêutica capaz de otimizar de forma mais eficaz o resultado clínico para se obter uma melhor qualidade de vida",
+   "No Brasil a maioria das instituições de saúde utilizam PBE em seus processos de trabalho, sendo um movimento amplamente encontrado como parte da rotina de profissionais da área da saúde"
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Sackett DL e colaboradores, Evidence based medicine: what it is and what it isn't (BMJ, 1996)",
+  "coment": "A PBE integra a melhor evidência disponível, a competência clínica do profissional e as preferências do paciente, e é forte em países desenvolvidos, orientando pesquisa, ensino e prática. No Brasil ela ainda é incipiente: barreiras como falta de tempo, de acesso a bases e de formação em leitura crítica fazem com que não seja rotina na maioria das instituições, o que torna E a incorreta. Sobre a origem, a banca seguiu a leitura que situa as raízes nos anos 1970, com Archie Cochrane; o termo medicina baseada em evidências se consolidou no início dos anos 1990.",
+  "porAlt": [
+   "Errada como resposta: a PBE é vertente forte nos países desenvolvidos e orienta pesquisa, ensino e prática.",
+   "Errada como resposta: a banca aceitou a origem nos anos 1970, ligada aos trabalhos de Archie Cochrane.",
+   "Errada como resposta: a tríade evidência, habilidade clínica e preferência do paciente é a definição clássica.",
+   "Errada como resposta: ao unir diagnóstico e escolha terapêutica pela evidência, a PBE otimiza o resultado clínico.",
+   "Correta: é a incorreta, pois no Brasil a PBE ainda não é rotina na maioria das instituições."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A realização da Sistematização da Assistência de Enfermagem oportuniza uma melhora na qualidade da assistência e maior segurança aos pacientes, ao possibilitar a execução de um cuidado holístico, integral e contínuo, com base em evidências científicas. No contexto das unidades perioperatórias, a assistência de enfermagem possui a finalidade de promover a recuperação do paciente submetido a um procedimento cirúrgico. Analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Na assistência ao paciente o raciocínio clínico dos profissionais deve estar amparado em referenciais teóricos específicos da enfermagem, com vistas a implementar intervenções coerentes e acuradas.\n( ) O paciente e sua família possuem necessidades básicas que precisam ser atendidas para alcançar o completo bem-estar. Para isso, a enfermagem deve implementar ações assistenciais, gerenciais e educativas.\n( ) A utilização de Protocolos Operacionais Padrão (POPs) não favorecem o cuidado sistematizado ao paciente.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V",
+   "V - F - F",
+   "V - V - F",
+   "F - F - V",
+   "V - F - V"
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Res. COFEN 736/2024, art. 2º (suporte teórico do Processo de Enfermagem), que revogou a Res. COFEN 358/2009",
+  "coment": "O raciocínio clínico deve apoiar-se em referenciais teóricos, e a Res. COFEN 736/2024, art. 2º, exige suporte teórico para o Processo de Enfermagem, que pode combinar teorias, linguagens padronizadas, escalas de risco e protocolos baseados em evidência. O atendimento das necessidades do paciente e da família pede ações assistenciais, gerenciais e educativas. A terceira afirmativa é falsa: POPs e protocolos padronizam condutas e favorecem o cuidado sistematizado. Sequência V, V, F. A 736/2024 substituiu a 358/2009 e deixou de usar a sigla SAE.",
+  "porAlt": [
+   "Errada: a terceira afirmativa é falsa, pois os POPs favorecem o cuidado sistematizado.",
+   "Errada: a segunda afirmativa é verdadeira; a enfermagem atua com ações assistenciais, gerenciais e educativas.",
+   "Correta: as duas primeiras são verdadeiras e a terceira é falsa.",
+   "Errada: a primeira afirmativa é verdadeira e a terceira, falsa.",
+   "Errada: a segunda afirmativa é verdadeira e a terceira é falsa, o contrário do que a sequência propõe."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Código de Ética dos Profissionais de Enfermagem leva em consideração a necessidade e o direito de assistência em enfermagem da população, os interesses do profissional e de sua organização. Assinale a alternativa correta.",
+  "alts": [
+   "Código de Ética dos Profissionais de Enfermagem está centrado na pessoa, família e coletividade e pressupõe que os trabalhadores de enfermagem devem atuam para garantir uma assistência livre de danos",
+   "O Código de Ética dos Profissionais de Enfermagem está fundamentado visando à orientação da prática assistencial, através da regulamentação apenas dos deveres e responsabilidades trabalhador para prover a segurança do paciente",
+   "Os profissionais de enfermagem não podem recusar-se a desenvolver a assistência ao paciente, mesmo que não seja de sua competência técnica e científica, pois isso caracteriza negligencia",
+   "Os Conselhos Federal de Enfermagem e Conselho Regional de Enfermagem (Cofen/Coren) tem a obrigação de fiscalizar, porém não podem punir profissionais infratores, tendo em vista que não são agentes do Departamento de Polícia Federal",
+   "Não é dever dos profissionais enfermeiros participar da orientação sobre benefícios, riscos e consequências decorrentes de exames e de outros procedimentos, aos pacientes"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Res. COFEN 564/2017 (Código de Ética), preâmbulo e arts. 22 e 39; Lei 5.905/1973, art. 18",
+  "coment": "O preâmbulo do Código de Ética (Res. COFEN 564/2017) diz que ele está centrado na pessoa, família e coletividade e pressupõe que os trabalhadores de enfermagem estejam aliados aos usuários na luta por uma assistência sem riscos e danos. O Código reúne direitos, deveres e proibições, e não só deveres. Recusar atividade fora da competência técnica ou sem segurança é direito (art. 22). Esclarecer riscos, benefícios e intercorrências é dever (art. 39). Os conselhos fiscalizam e punem: a Lei 5.905/1973, art. 18, prevê advertência, multa, censura, suspensão e cassação.",
+  "porAlt": [
+   "Correta: o Código é centrado na pessoa, família e coletividade e visa assistência livre de danos.",
+   "Errada: o Código regula direitos, deveres e proibições, e não apenas deveres e responsabilidades.",
+   "Errada: recusar atividade fora da competência técnica, científica, ética e legal é direito do profissional (art. 22).",
+   "Errada: COFEN e COREN aplicam penalidades éticas aos infratores, conforme a Lei 5.905/1973, art. 18.",
+   "Errada: esclarecer riscos, benefícios e intercorrências à pessoa e à família é dever (art. 39)."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a resolução COFEN nº 543/2017 que estabelece parâmetros para o dimensionamento do quadro de profissionais de enfermagem nos serviços/locais em que são realizadas atividades de enfermagem, assinale a alternativa correta.",
+  "alts": [
+   "Para cuidado mínimo e intermediário 25% dos profissionais de enfermagem devem ser enfermeiros",
+   "Para cuidado de alta dependência 33% dos profissionais de enfermagem devem ser enfermeiros",
+   "Para cuidado intensivo 52% dos profissionais de enfermagem devem ser enfermeiros",
+   "Para cuidado semi-intesivo 62% dos profissionais de enfermagem devem ser enfermeiros",
+   "Para cuidado de alta dependência 52% dos profissionais de enfermagem devem ser enfermeiros"
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Parecer Normativo COFEN 1/2024, item 3.0 (Res. COFEN 543/2017 revogada pela Res. COFEN 743/2024)",
+  "coment": "A Res. COFEN 543/2017 citada no enunciado foi revogada pela Res. COFEN 743/2024, e os parâmetros passaram ao Parecer Normativo COFEN 1/2024, que manteve os mesmos percentuais mínimos de enfermeiros (item 3.0): cuidado mínimo e intermediário, 33%, garantindo um enfermeiro por turno; alta dependência, 36%; semi-intensivo, 42%; intensivo, 52%. O gabarito continua certo pela norma vigente. Para gravar, a proporção sobe com a gravidade: 33, 36, 42 e 52.",
+  "porAlt": [
+   "Errada: para cuidado mínimo e intermediário o percentual é 33% de enfermeiros, e não 25%.",
+   "Errada: para alta dependência são 36% de enfermeiros; 33% vale para mínimo e intermediário.",
+   "Correta: no cuidado intensivo, 52% dos profissionais de enfermagem devem ser enfermeiros.",
+   "Errada: para cuidado semi-intensivo o percentual é 42%, e não 62%.",
+   "Errada: 52% é o percentual do cuidado intensivo; a alta dependência exige 36%."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando que o quantitativo e o qualitativo de profissionais de enfermagem que interferem diretamente, na segurança e na qualidade da assistência ao paciente, assinale a alternativa incorreta.",
+  "alts": [
+   "O dimensionamento do quadro de pessoal deve basear-se nas características relacionadas ao serviço de saúde",
+   "Deve ser considerado as características do serviço de enfermagem, assim como do paciente para a realização do dimensionamento do quadro de pessoal",
+   "Deve ser considerado o Índice de Segurança Técnica (IST) no cálculo para o quantitativo de profissionais de enfermagem",
+   "Compete ao médico coordenador estabelecer o quadro de quantitativo de profissionais de enfermagem",
+   "É fundamental o sistema de classificação de pacientes (SCP) para a realização do cálculo do quantitativo de profissionais de enfermagem"
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Parecer Normativo COFEN 1/2024, considerandos e itens 1.0 e 1.1; Lei 7.498/1986, arts. 3º e 11",
+  "coment": "Compete ao enfermeiro estabelecer o quadro de dimensionamento de profissionais de enfermagem, em conformidade com os arts. 3º e 11 da Lei 7.498/1986 e com os arts. 2º, 3º e 8º do Decreto 94.406/1987, como registra o Parecer Normativo COFEN 1/2024, que substituiu a Res. 543/2017. O parecer manda considerar características do serviço de saúde, do serviço de enfermagem e do paciente, este pelo sistema de classificação de pacientes, e aplicar o Índice de Segurança Técnica de no mínimo 15% (item 1.1). Atribuir a tarefa ao médico é o erro.",
+  "porAlt": [
+   "Errada como resposta: as características do serviço de saúde (missão, porte, estrutura, complexidade) entram no dimensionamento.",
+   "Errada como resposta: as características do serviço de enfermagem e do paciente também devem ser consideradas.",
+   "Errada como resposta: o IST, de no mínimo 15%, integra o cálculo do quadro de pessoal.",
+   "Correta: é a incorreta, pois compete ao enfermeiro, e não ao médico, estabelecer o quadro de enfermagem.",
+   "Errada como resposta: o sistema de classificação de pacientes é a base para calcular as horas de enfermagem."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Protocolo caracteriza-se como a descrição de uma situação específica de assistência/ cuidado, contendo a operacionalização e a especificação sobre o que, quem e como se faz. Em relação aos protocolos, assinale a alternativa incorreta.",
+  "alts": [
+   "Anula a autonomia do profissional",
+   "Colabora na redução da variabilidade do cuidado",
+   "Norteia o profissional para a tomada de decisão",
+   "Proporciona maior segurança ao usuário e ao profissional",
+   "Promove maior transparência e controle dos custos"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "COREN-SP, Guia para construção de protocolos assistenciais de enfermagem (2015); Res. COFEN 736/2024, art. 2º",
+  "coment": "Protocolo descreve uma situação específica de cuidado, com o que fazer, quem faz e como faz. Suas vantagens, descritas no guia do COREN-SP de construção de protocolos (2015), são dar maior segurança ao usuário e ao profissional, reduzir a variabilidade do cuidado, nortear a tomada de decisão, incorporar novas tecnologias e dar transparência e controle aos custos. O protocolo não anula a autonomia: o profissional segue julgando cada caso, e a Res. COFEN 736/2024, art. 2º, inclui protocolos baseados em evidência entre os suportes do Processo de Enfermagem.",
+  "porAlt": [
+   "Correta: é a incorreta, pois o protocolo orienta a decisão sem anular a autonomia e o julgamento clínico.",
+   "Errada como resposta: reduzir a variabilidade do cuidado é vantagem do protocolo.",
+   "Errada como resposta: o protocolo norteia o profissional na tomada de decisão.",
+   "Errada como resposta: o protocolo dá mais segurança ao usuário e ao profissional.",
+   "Errada como resposta: a padronização favorece a transparência e o controle dos custos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O líder na enfermagem é essencialmente um agente de mudanças que valoriza a criatividade, a inovação e a busca incessante pela excelência dos resultados. Em relação a liderança em enfermagem, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) A liderança é uma competência gerencial essencial para o enfermeiro.\n( ) A liderança como competência gerencial do enfermeiro, encontra-se inserida no processo formativo generalista dos cursos de graduação em enfermagem.\n( ) A liderança envolve a capacidade de condução e influência de um indivíduo sobre um grupo, a fim de alcançar objetivos.\n( ) A liderança deve ser exercida pelo enfermeiro que possui alto cargo na organização a qual trabalha, não sendo pertinente ao enfermeiro sem alto cargo.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - F - V - V",
+   "V - F - F - F",
+   "V - F - F - V",
+   "V - V - V - V",
+   "V - V - V - F"
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Res. CNE/CES 3/2001 (Diretrizes Curriculares Nacionais de Enfermagem), art. 4º, IV (liderança)",
+  "coment": "Liderança é a capacidade de influenciar e conduzir um grupo para alcançar objetivos comuns, e é competência gerencial essencial do enfermeiro. As Diretrizes Curriculares de Enfermagem (Res. CNE/CES 3/2001, art. 4º) já listavam a liderança entre as competências gerais da formação generalista. A quarta afirmativa é falsa: liderança não depende de cargo formal. Chefia é posição de autoridade; liderança se exerce em qualquer posição, inclusive pelo enfermeiro assistencial que coordena a equipe de técnicos no plantão. Sequência V, V, V, F.",
+  "porAlt": [
+   "Errada: a segunda afirmativa é verdadeira e a quarta é falsa, o inverso do que a sequência indica.",
+   "Errada: a segunda e a terceira afirmativas são verdadeiras.",
+   "Errada: a segunda e a terceira são verdadeiras e a quarta é falsa.",
+   "Errada: a quarta afirmativa é falsa, pois a liderança não se restringe a quem ocupa cargo alto.",
+   "Correta: as três primeiras são verdadeiras e a quarta, que restringe a liderança ao alto cargo, é falsa."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando que a gestão do cuidado e de equipes de saúde são atividades centrais para o fazer profissional do enfermeiro, e que a liderança tem grande potencial contributivo para prática clínica e gerencial, assinale a alternativa incorreta.",
+  "alts": [
+   "A liderança como competência é conceituada como um conjunto de conhecimentos, habilidades e atitudes",
+   "As exigências do mundo e do mercado de trabalho tem impulsionado os estudiosos a proporem novos modelos de liderança para modernizar a gestão de pessoas",
+   "Implementar e desenvolver ambientes para um trabalho saudável é uma premissa para as organizações em que a rotatividade dos profissionais é alta",
+   "A liderança transformacional tem visão no pregresso e, deve entusiasmar e empoderar os seguidores",
+   "O líder transformacional demonstra sólido compromisso com a profissão e a organização"
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Burns JM, Leadership (1978), conceito de liderança transformacional",
+  "coment": "A liderança transformacional, descrita por Burns (1978) e desenvolvida por Bass, é orientada para o futuro: o líder constrói uma visão compartilhada, inspira, entusiasma e empodera os seguidores, desenvolve as pessoas e muda valores do grupo, com forte compromisso com a profissão e a organização. Ela se opõe à transacional, baseada na troca de recompensa por desempenho. Dizer que tem visão no pregresso, isto é, voltada ao passado, é o erro. As demais afirmativas descrevem bem liderança como competência (conhecimentos, habilidades e atitudes) e o ambiente de trabalho saudável.",
+  "porAlt": [
+   "Errada como resposta: competência é conjunto de conhecimentos, habilidades e atitudes, e a liderança se enquadra nisso.",
+   "Errada como resposta: as mudanças do mundo do trabalho de fato impulsionam novos modelos de liderança.",
+   "Errada como resposta: ambiente de trabalho saudável é premissa para reter profissionais onde a rotatividade é alta.",
+   "Correta: é a incorreta, pois a liderança transformacional tem visão de futuro, e não do passado.",
+   "Errada como resposta: o compromisso sólido com a profissão e a organização caracteriza o líder transformacional."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As teorias de enfermagem são essenciais para a prática profissional do enfermeiro. Considerando essas teorias, assinale a alternativa incorreta.",
+  "alts": [
+   "A concepção das teorias de enfermagem considera o ser humano, saúde, meio ambiente e enfermagem",
+   "A Aplicação das teorias de enfermagem na assistência promove a construção de um conhecimento empírico para a profissão",
+   "As teorias de enfermagem contribuem para melhorar o cuidado",
+   "As teorias de enfermagem são auxiliadoras no processo de reflexão crítica",
+   "As teorias de enfermagem auxiliam na implementação eficaz da Sistematização da Assistência de Enfermagem e do Processo de Enfermagem"
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Teorias de enfermagem",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Res. COFEN 736/2024, art. 2º (suporte teórico do Processo de Enfermagem)",
+  "coment": "As teorias de enfermagem se organizam em torno do metaparadigma: ser humano, saúde, ambiente e enfermagem. Aplicá-las na assistência produz conhecimento científico e sistematizado para a profissão, e não apenas empírico, que é o saber da experiência sem método; por isso B é a incorreta. As teorias melhoram o cuidado, apoiam a reflexão crítica e sustentam o Processo de Enfermagem, que pela Res. COFEN 736/2024, art. 2º, deve ter suporte teórico.",
+  "porAlt": [
+   "Errada como resposta: ser humano, saúde, ambiente e enfermagem são os conceitos do metaparadigma das teorias.",
+   "Correta: é a incorreta, pois a aplicação das teorias constrói conhecimento científico, e não meramente empírico.",
+   "Errada como resposta: as teorias qualificam e orientam o cuidado.",
+   "Errada como resposta: as teorias favorecem a reflexão crítica sobre a prática.",
+   "Errada como resposta: as teorias dão suporte ao Processo de Enfermagem, como exige a Res. COFEN 736/2024."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Resolução COFEN 358/2009 dispõe sobre a Sistematização da Assistência de Enfermagem (SAE) e a implementação do Processo de Enfermagem (PE). Em relação a essa resolução, assinale a alternativa incorreta.",
+  "alts": [
+   "O PE é a aplicação prática da SAE em sua totalidade",
+   "A SAE organiza o trabalho profissional quanto ao método, pessoal e instrumentos",
+   "O PE é um instrumento metodológico que orienta o cuidado profissional",
+   "O PE deve ser realizado em todos os ambientes, públicos ou privados, em que ocorre o cuidado profissional de enfermagem",
+   "A execução do PE deve ser registrada formalmente"
+  ],
+  "gab": 0,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Res. COFEN 736/2024 (Processo de Enfermagem), arts. 1º e 14, que revogou a Res. COFEN 358/2009",
+  "coment": "Na Res. COFEN 358/2009, a SAE organizava o trabalho quanto a método, pessoal e instrumentos, tornando possível operacionalizar o PE; o PE era instrumento metodológico que orientava o cuidado e a documentação, realizado em todos os ambientes públicos ou privados e registrado formalmente. O PE é um dos instrumentos da SAE, e não a SAE em sua totalidade; por isso A é a incorreta. A 358 foi revogada pela Res. COFEN 736/2024 (art. 14), que trata só do PE, obrigatório em todo contexto de cuidado de enfermagem (art. 1º) e com registro no prontuário.",
+  "porAlt": [
+   "Correta: é a incorreta, pois o PE é instrumento metodológico operacionalizado pela SAE, e não a SAE em sua totalidade.",
+   "Errada como resposta: na 358/2009, a SAE organizava o trabalho quanto a método, pessoal e instrumentos.",
+   "Errada como resposta: o PE é instrumento metodológico que orienta o cuidado, conceito mantido pela 736/2024.",
+   "Errada como resposta: o PE deve ocorrer em todos os ambientes de cuidado de enfermagem, públicos ou privados.",
+   "Errada como resposta: a execução do PE deve ser registrada formalmente no prontuário."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A elaboração de um projeto de pesquisa possibilita a definição de um caminho eficaz que conduza o pesquisador à finalidade que pretende atingir. Sobre projeto de pesquisa, analise as afirmativas abaixo e dê valores de Verdadeiro (V) ou Falso (F).\n( ) A estrutura e formatação do Projeto de Pesquisa deve ser realizada de forma individualizada de acordo com a preferência do pesquisador.\n( ) O Projeto de Pesquisa deve ser um roteiro para a elaboração da pesquisa em uma determinada área.\n( ) O tema deve ser exposto de forma clara, indicando o objeto a ser estudado.\n( ) O Projeto de pesquisa deve ser escrito de tal forma que as pessoas não especialistas possam compreender os argumentos apresentados.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "F - V - V - V",
+   "F - V - V - F",
+   "V - V - V - F",
+   "F - F - V - F"
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ABNT NBR 15287:2011 (Projeto de pesquisa: apresentação)",
+  "coment": "A estrutura e a formatação do projeto de pesquisa seguem normas, como a ABNT NBR 15287:2011, e as regras da instituição ou da agência a que ele é submetido; não dependem da preferência do pesquisador, por isso a primeira afirmativa é falsa. As demais são verdadeiras: o projeto é o roteiro da pesquisa, o tema deve ser exposto com clareza, indicando o objeto de estudo, e o texto deve ser compreensível também por quem não é especialista, como avaliadores e membros de comitê de ética. Sequência F, V, V, V.",
+  "porAlt": [
+   "Errada: a primeira afirmativa é falsa, pois a formatação segue norma e não preferência do pesquisador.",
+   "Correta: só a primeira é falsa; projeto como roteiro, tema claro e texto compreensível são verdadeiros.",
+   "Errada: a quarta afirmativa é verdadeira; o projeto deve ser compreensível para não especialistas.",
+   "Errada: a primeira é falsa e a quarta é verdadeira, o contrário do que a sequência indica.",
+   "Errada: a segunda e a quarta afirmativas também são verdadeiras."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Associação Brasileira de Normas Técnicas (ABNT) é o órgão responsável pela normalização técnica no Brasil. Em relação a NBR 15287 que trata sobre projeto de pesquisa, assinale a alternativa correta.",
+  "alts": [
+   "É proibido o uso de papel reciclado para impressão de projeto de pesquisa",
+   "A recomendação é que o texto seja digitado em espaçamento duplo",
+   "As folhas ou páginas pré-textuais devem ser contadas, mas não numeradas",
+   "As numerações das páginas devem ser regressivas",
+   "Quando impressos, utilizar papel branco no formato ofício/legal (21,6cm x 35,5cm)"
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "ABNT NBR 15287:2011 (Projeto de pesquisa: apresentação), regras gerais",
+  "coment": "Pela ABNT NBR 15287:2011, as folhas pré-textuais são contadas, mas não numeradas; a numeração aparece a partir da primeira folha da parte textual, em algarismos arábicos, no canto superior direito, de forma sequencial e não regressiva. O texto é digitado com espaçamento de 1,5 entre as linhas, e não duplo. Quando impresso, usa-se papel branco ou reciclado, no formato A4 (21 cm x 29,7 cm), e não ofício.",
+  "porAlt": [
+   "Errada: a norma admite papel branco ou reciclado.",
+   "Errada: o espaçamento recomendado entre linhas é 1,5, e não duplo.",
+   "Correta: as folhas pré-textuais são contadas, mas não numeradas.",
+   "Errada: a numeração é sequencial e crescente, a partir da parte textual, e nunca regressiva.",
+   "Errada: o formato é A4 (21 cm x 29,7 cm), e não ofício ou legal."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Pesquisa científica é a realização de um estudo planejado, sendo o método de abordagem do problema o que caracteriza o aspecto científico da investigação. Quanto à classificação das pesquisas, assinale a alternativa incorreta.",
+  "alts": [
+   "A pesquisa exploratória objetiva proporcionar maior familiaridade com um problema",
+   "A pesquisa descritiva objetiva caracterizar certo fenômeno, como por exemplo, descrever as características de certa população",
+   "A pesquisa explicativa visa identificar os fatores que determinam fenômenos e explica o porquê das coisas",
+   "A pesquisa de campo é elaborada a partir de documentos que não recebeu tratamento analítico",
+   "A pesquisa bibliográfica é elaborada a partir de material já publicado"
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Gil AC, Como elaborar projetos de pesquisa, 6ª ed. (Atlas, 2017), classificação das pesquisas",
+  "coment": "Quanto aos objetivos, Gil classifica as pesquisas em exploratórias (dar familiaridade com o problema), descritivas (descrever características de populações ou fenômenos) e explicativas (identificar os fatores que determinam os fenômenos). Quanto aos procedimentos, a bibliográfica usa material já publicado, e a documental usa documentos que ainda não receberam tratamento analítico. A pesquisa de campo estuda o fenômeno no local onde ele ocorre, por observação direta, entrevistas e questionários. A alternativa D trocou a definição de pesquisa documental pela de campo.",
+  "porAlt": [
+   "Errada como resposta: proporcionar familiaridade com o problema é o objetivo da pesquisa exploratória.",
+   "Errada como resposta: descrever características de uma população é o objetivo da pesquisa descritiva.",
+   "Errada como resposta: identificar os fatores determinantes e explicar o porquê define a pesquisa explicativa.",
+   "Correta: é a incorreta, pois documentos sem tratamento analítico definem a pesquisa documental, e não a de campo.",
+   "Errada como resposta: a pesquisa bibliográfica é elaborada a partir de material já publicado."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O método científico é o que valida uma pesquisa como um conhecimento verdadeiro, livre de conceitos prévios ou subjetividade dos pesquisadores. A respeito das etapas do método científico, assinale a alternativa correta.",
+  "alts": [
+   "Observação do método: nesta etapa o pesquisador irá verificar como o objeto se comporta em relação à hipótese formulada",
+   "Realização do experimento: com base na pergunta que se pretende responder o pesquisador realiza a revisão bibliográfica já existente sobre o assunto",
+   "Formulação de hipóteses: a partir do resultado da realização do experimento o pesquisador começa a formular hipóteses que tentam explicar o objeto de estudo",
+   "Formulação de hipóteses: a partir do material obtido na revisão bibliográfica o pesquisador começa a formular hipóteses que tentam explicar o objeto de estudo",
+   "Realização do experimento: é o momento no qual a pesquisa científica chega ao seu resultado"
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Marconi MA e Lakatos EM, Fundamentos de metodologia científica, 8ª ed. (Atlas, 2017), etapas do método científico",
+  "coment": "As etapas do método científico seguem uma ordem lógica: observação do fenômeno, formulação da pergunta, revisão do que já se sabe sobre o assunto, formulação de hipóteses, experimentação para testá-las, análise dos resultados e conclusão. A hipótese é uma resposta provisória construída a partir do material obtido na revisão bibliográfica, e só depois é testada no experimento. Por isso D está correta, e C inverte a ordem ao colocar a hipótese depois do experimento.",
+  "porAlt": [
+   "Errada: a observação é a etapa inicial de perceber o fenômeno; verificar o comportamento diante da hipótese é a experimentação.",
+   "Errada: a revisão bibliográfica é etapa anterior; o experimento serve para testar a hipótese.",
+   "Errada: a hipótese é formulada antes do experimento, que existe justamente para testá-la.",
+   "Correta: a hipótese nasce do material obtido na revisão bibliográfica e tenta explicar o objeto de estudo.",
+   "Errada: depois do experimento ainda vêm a análise dos resultados e a conclusão."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O planejamento e a execução de uma pesquisa científica fazem parte de um processo sistematizado. Sobre as etapas que compõem esse processo, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Na etapa de escolha do Tema é importante avaliar se o mesmo tem relevância social, científica ou acadêmica.\n( ) A etapa de Hipótese consiste no lançamento de uma afirmação a respeito de algo definido.\n( ) A etapa da Justificativa é o momento de apresentar motivos bons o bastante para o desenvolvimento da pesquisa a respeito do tema específico.\n( ) A etapa de elaboração dos Objetivos é opcional, por ser caracterizado como uma suposição.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - F - F",
+   "F - F - V - F",
+   "V - V - V - V",
+   "V - F - V - V",
+   "V - F - V - F"
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ABNT NBR 15287:2011, parte textual do projeto (tema, problema, hipótese quando couber, objetivos, justificativa)",
+  "coment": "Na escolha do tema avalia-se a relevância social, científica ou acadêmica. A hipótese não é afirmação sobre algo definido: é uma suposição, resposta provisória ao problema, que a pesquisa vai testar; por isso a segunda é falsa. A justificativa apresenta os motivos que tornam a pesquisa necessária. Os objetivos não são opcionais nem suposição: dizem o que a pesquisa pretende alcançar e, pela ABNT NBR 15287:2011, são parte obrigatória da parte textual do projeto, enquanto a hipótese entra quando couber. Sequência V, F, V, F.",
+  "porAlt": [
+   "Errada: a hipótese é suposição provisória, e não afirmação, e a justificativa é verdadeira.",
+   "Errada: a primeira afirmativa é verdadeira, pois a relevância do tema deve ser avaliada.",
+   "Errada: a hipótese não é afirmação definida e os objetivos não são opcionais.",
+   "Errada: os objetivos são obrigatórios no projeto e não se confundem com suposição.",
+   "Correta: tema e justificativa estão corretos; hipótese como afirmação e objetivos opcionais estão errados."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Ministério da Saúde define educação em saúde como um processo educativo de construção de conhecimentos em saúde que visa à apropriação da temática pela população. A respeito da Educação em Saúde, assinale a alternativa incorreta.",
+  "alts": [
+   "As práticas de educação em saúde envolvem três segmentos de atores prioritários: os profissionais de saúde, os gestores que apoiam esses profissionais e a população",
+   "É necessário que os profissionais de saúde somem saberes para dar respostas efetivas e eficazes aos problemas complexos que envolvem a perspectiva de viver com qualidade",
+   "Promove ações transformadoras que possibilita o indivíduo à sua autonomia e emancipação como sujeito histórico e social, capaz de propor e opinar nas decisões de saúde para cuidar de si, de sua família e de sua coletividade",
+   "Deve atender as necessidades centrada no indivíduo, na família ou na coletividade",
+   "Os profissionais de saúde devem ter domínio sobre o conteúdo ao qual pretende abordar e devem trabalhar de preferência isoladamente não envolvendo outros profissionais nas atividades de educação em saúde"
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Educação em saúde",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Falkenberg MB e colaboradores, Educação em saúde e educação na saúde: conceitos e implicações para a saúde coletiva (Ciência & Saúde Coletiva, 2014)",
+  "coment": "O Ministério da Saúde define educação em saúde como processo educativo de construção de conhecimentos que visa à apropriação da temática pela população, como retomam Falkenberg e colaboradores (2014). As práticas envolvem três segmentos de atores: profissionais, gestores que os apoiam e a população. A educação em saúde busca autonomia e emancipação do sujeito e exige que os profissionais somem saberes. Por isso é interdisciplinar e intersetorial; trabalhar isoladamente, sem envolver outros profissionais, contraria o conceito.",
+  "porAlt": [
+   "Errada como resposta: profissionais, gestores e população são os três segmentos de atores prioritários.",
+   "Errada como resposta: somar saberes entre profissionais é necessário para responder a problemas complexos.",
+   "Errada como resposta: a educação em saúde visa à autonomia e à emancipação do sujeito.",
+   "Errada como resposta: ela deve atender às necessidades do indivíduo, da família e da coletividade.",
+   "Correta: é a incorreta, pois a educação em saúde é trabalho interdisciplinar, e não isolado."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia abaixo, o parágrafo do artigo publicado: Sistemas de informação em saúde: considerações gerais. “Os Sistemas de Informação em Saúde (SIS) podem ser definidos como um conjunto de componentes inter-relacionados que coletam, processam, armazenam e distribuem a ______ para apoiar o processo de ______ e auxiliar no controle das organizações de saúde.” Assinale a alternativa que preencha corretamente e respectivamente as lacunas.",
+  "alts": [
+   "parcela / financiamento",
+   "informação / tomada de decisão",
+   "opinião / saúde",
+   "mensagem / doença",
+   "notícia / informação"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Marin HF, Sistemas de informação em saúde: considerações gerais (Journal of Health Informatics, 2010)",
+  "coment": "Os Sistemas de Informação em Saúde são conjuntos de componentes inter-relacionados que coletam, processam, armazenam e distribuem a informação para apoiar o processo de tomada de decisão e auxiliar no controle das organizações de saúde. É a definição clássica de sistema de informação aplicada à saúde, retomada no artigo de Marin (2010): o dado registrado vira informação, e a informação serve à decisão clínica, gerencial e de vigilância.",
+  "porAlt": [
+   "Errada: o sistema distribui informação, e não parcela, e não se limita a apoiar o financiamento.",
+   "Correta: o SIS coleta, processa, armazena e distribui a informação para apoiar a tomada de decisão.",
+   "Errada: o sistema trabalha com informação, e não com opinião.",
+   "Errada: mensagem e doença não completam a definição; o objetivo é apoiar decisões.",
+   "Errada: notícia não é o produto do sistema, e informação está na lacuna errada."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando que o exercício da enfermagem ultrapassa o senso comum de uma atenção pontual e episódica para se constituir em uma atenção contínua, sistematizada e contextualizada, assinale a alternativa correta.",
+  "alts": [
+   "A enfermagem brasileira, na condição de menor força de trabalho no campo da saúde, atua na minoria dos cenários e serviços de saúde",
+   "O cuidado de enfermagem é um fenômeno não intencional, essencial à vida, que ocorre na interação humana",
+   "A prática do cuidado de enfermagem associa-se à responsabilidade ética que acompanha os deveres profissionais",
+   "Enquanto profissão, a enfermagem luta pela sua regulamentação",
+   "O exercício profissional da enfermagem é fiscalizado pela ANVISA"
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Res. COFEN 564/2017 (Código de Ética), preâmbulo; Lei 7.498/1986; Lei 5.905/1973",
+  "coment": "O cuidado de enfermagem é intencional, sistematizado e contínuo, e se associa à responsabilidade ética que acompanha os deveres profissionais, como afirma o Código de Ética (Res. COFEN 564/2017). A enfermagem é a maior força de trabalho da saúde no Brasil e está presente na maioria dos serviços. A profissão já é regulamentada pela Lei 7.498/1986 e pelo Decreto 94.406/1987, e o exercício é fiscalizado pelo COFEN e pelos COREN, criados pela Lei 5.905/1973, e não pela ANVISA.",
+  "porAlt": [
+   "Errada: a enfermagem é a maior força de trabalho da saúde e atua na maioria dos cenários.",
+   "Errada: o cuidado de enfermagem é intencional e sistematizado, e não um fenômeno não intencional.",
+   "Correta: a prática do cuidado de enfermagem associa-se à responsabilidade ética dos deveres profissionais.",
+   "Errada: a profissão já é regulamentada pela Lei 7.498/1986 e pelo Decreto 94.406/1987.",
+   "Errada: quem fiscaliza o exercício profissional é o sistema COFEN/COREN (Lei 5.905/1973), e não a ANVISA."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação ao Decreto 94.406/87 que regulamenta a Lei 7.498/1986 do exercício profissional da enfermagem, assinale a alternativa correta.",
+  "alts": [
+   "A prescrição da assistência de enfermagem é parte facultativa das atividades de enfermagem",
+   "É privativo ao enfermeiro consultoria, auditoria e emissão de parecer sobre matéria de enfermagem",
+   "Incumbe ao técnico de enfermagem cuidados diretos de enfermagem a pacientes graves com risco de vida",
+   "É privativo ao enfermeiro generalista a realização de episiotomia e episiorrafia, com aplicação de anestesia local, quando necessário",
+   "É de competência do enfermeiro generalista a identificação das distocias obstétricas e tomada de providência até a chegada do médico"
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 94.406/1987, arts. 8º e 9º; Lei 7.498/1986, art. 11",
+  "coment": "O Decreto 94.406/1987, art. 8º, I, lista as atividades privativas do enfermeiro: direção e chefia, planejamento e avaliação dos serviços, consultoria, auditoria e emissão de parecer sobre matéria de enfermagem (alínea d), consulta, prescrição da assistência de enfermagem e cuidados diretos a pacientes graves com risco de vida. A prescrição da assistência é privativa, e não facultativa. Ao técnico cabe assistir o enfermeiro no cuidado ao grave (art. 10). Episiotomia, episiorrafia e identificação de distocias são da enfermeira obstétrica e da obstetriz (art. 9º), e não do generalista.",
+  "porAlt": [
+   "Errada: a prescrição da assistência de enfermagem é atividade privativa do enfermeiro, e não facultativa.",
+   "Correta: consultoria, auditoria e emissão de parecer sobre matéria de enfermagem são privativas do enfermeiro (art. 8º, I, d).",
+   "Errada: cuidado direto a paciente grave com risco de vida é privativo do enfermeiro; o técnico assiste.",
+   "Errada: episiotomia e episiorrafia com anestesia local cabem à enfermeira obstétrica e à obstetriz (art. 9º).",
+   "Errada: identificar distocias e tomar providências até a chegada do médico é atribuição da enfermeira obstétrica (art. 9º)."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação aos Princípios Fundamentais que norteiam o Código de Ética dos Profissionais de Enfermagem, assinale a alternativa incorreta.",
+  "alts": [
+   "A Enfermagem é uma ciência, arte e uma prática social, indispensável à organização e ao funcionamento dos serviços de saúde",
+   "A Enfermagem tem como responsabilidades a promoção e a restauração da saúde, a prevenção de agravos e doenças e o alívio do sofrimento",
+   "A Enfermagem organiza suas ações e intervenções de modo autônomo, ou em colaboração com outros profissionais da área",
+   "A Enfermagem reafirma que o respeito aos direitos humanos é inerente ao exercício da profissão",
+   "A Enfermagem participa como integrante da própria equipe de enfermagem e de saúde na defesa das políticas de saúde suplementar"
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Res. COFEN 564/2017 (Código de Ética), preâmbulo e princípios fundamentais",
+  "coment": "O preâmbulo e os princípios fundamentais do Código de Ética (Res. COFEN 564/2017) descrevem a enfermagem como ciência, arte e prática social, indispensável aos serviços de saúde, responsável pela promoção e restauração da saúde, prevenção de agravos e alívio do sofrimento, que organiza suas ações de modo autônomo ou em colaboração e reafirma o respeito aos direitos humanos. O profissional participa da equipe de enfermagem e de saúde na defesa das políticas públicas de saúde, com universalidade, integralidade e participação da comunidade, e não da saúde suplementar.",
+  "porAlt": [
+   "Errada como resposta: ciência, arte e prática social indispensável aos serviços está no texto do Código.",
+   "Errada como resposta: promoção, restauração, prevenção e alívio do sofrimento são responsabilidades expressas.",
+   "Errada como resposta: o Código prevê atuação autônoma ou em colaboração com outros profissionais.",
+   "Errada como resposta: o respeito aos direitos humanos é declarado inerente ao exercício da profissão.",
+   "Correta: é a incorreta, pois o Código fala em defesa das políticas públicas de saúde, e não da saúde suplementar."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando o Código de Ética dos Profissionais de Enfermagem em relação aos direitos desses profissionais, assinale a alternativa correta.",
+  "alts": [
+   "O profissional tem direito de receber dos pacientes vantagens, além do que lhe é devido, para garantir uma assistência de enfermagem diferenciada",
+   "Ter acesso às informações relacionadas ao paciente, necessárias ao exercício profissional",
+   "O profissional tem o direito de permitir que seu nome conste em quadro de pessoal, mesmo não exercendo função na mesma",
+   "O profissional, quando sobrecarregado, tem direito de delegar atribuições do cuidado de enfermagem para acompanhantes/familiares do paciente",
+   "O profissional tem direito de registrar os cuidados de enfermagem antes da sua realização propriamente dita"
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Res. COFEN 564/2017 (Código de Ética), arts. 7º, 66, 67, 88 e 92",
+  "coment": "É direito do profissional ter acesso às informações necessárias ao exercício profissional (Res. COFEN 564/2017, art. 7º). As outras alternativas descrevem condutas proibidas: receber vantagens além do que é devido (art. 67); permitir que o nome conste no quadro de pessoal sem exercer a função (art. 66); delegar atribuições de enfermagem a acompanhantes, salvo o autocuidado apoiado na atenção domiciliar (art. 92). Registrar cuidado antes de realizá-lo também é vedado: o art. 88 proíbe registrar e assinar ações não executadas.",
+  "porAlt": [
+   "Errada: receber vantagens além do que lhe é devido é proibição (art. 67).",
+   "Correta: ter acesso às informações necessárias ao exercício profissional é direito (art. 7º).",
+   "Errada: permitir que o nome conste no quadro de pessoal sem exercer a função é proibição (art. 66).",
+   "Errada: delegar atribuições de enfermagem a acompanhantes ou familiares é proibido (art. 92).",
+   "Errada: registrar o cuidado antes de executá-lo equivale a registrar ação não executada, vedado pelo art. 88."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A respeito das teorias administrativas que correspondem a um tema clássico na introdução ao estudo de qualquer prática administrativa e gerencial, assinale a alternativa correta.",
+  "alts": [
+   "Enfermeiros em cargos de gestão ou liderança é requerido um conhecimento funcional de teorias da área da administração que o torne capaz de ajudar a orientar a prática",
+   "Enfermeiros em cargos essencialmente assistenciais é dispensável o conhecimento das teorias da área da administração, visto quê sua função não tem caráter gerencial",
+   "Em relação às teorias administrativas, apenas a da administração científica cujo principal autor é Frederick Taylor é aplicável na enfermagem",
+   "As teorias administrativas correspondem a um tema de baixa relevância na introdução ao estudo de qualquer prática administrativa e gerencial",
+   "Conteúdos relacionados às teorias administrativas são opcionais nos currículos de formação de enfermeiros"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Lei 7.498/1986, art. 11, I, a a c (gestão privativa do enfermeiro); Res. CNE/CES 3/2001, art. 4º, V",
+  "coment": "As teorias administrativas (científica de Taylor, clássica de Fayol, burocrática de Weber, relações humanas, sistêmica e contingencial) explicam modelos de organização do trabalho que a enfermagem usa até hoje, como o cuidado funcional e as normas e rotinas. O enfermeiro em cargo de gestão precisa desse conhecimento para orientar a prática, e mesmo o assistencial gerencia o cuidado e a equipe, pois direção, planejamento e avaliação dos serviços de enfermagem são privativos (Lei 7.498/1986, art. 11, I). Administração e gerenciamento integram a formação (Res. CNE/CES 3/2001, art. 4º).",
+  "porAlt": [
+   "Correta: enfermeiros em gestão ou liderança precisam de conhecimento funcional das teorias administrativas.",
+   "Errada: o enfermeiro assistencial também gerencia o cuidado e a equipe, e precisa dessas teorias.",
+   "Errada: várias teorias se aplicam à enfermagem, como a clássica, a burocrática, a de relações humanas e a sistêmica.",
+   "Errada: as teorias administrativas são tema central, e não de baixa relevância, no estudo da gestão.",
+   "Errada: administração e gerenciamento são competências da formação do enfermeiro, e não conteúdo opcional."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O contemporâneo período constitucional possibilitou profundas mudanças em relação aos princípios, diretrizes, orientação política e financiamento dos sistemas e serviços de saúde. Como mudanças provocadas no final do século XX, estratégias foram adotadas para gestão hospitalar, assinale a alternativa correta.",
+  "alts": [
+   "Controle de gastos, racionalização da oferta, modernização da prestação de serviços e formulação do novo modelo de organização do cuidado à saúde nas políticas públicas",
+   "Aumento de gastos, racionalização de oferta, modernização de serviços e formulação do novo modelo de organização do cuidado à saúde nas políticas públicas",
+   "Controle de gastos, racionalização da oferta, mesma prestação de serviços e de organização do cuidado à saúde nas políticas públicas",
+   "Controle de gastos, racionalização da oferta, modernização de serviços nenhum modelo de organização do cuidado à saúde nas políticas públicas",
+   "Aumento de gastos, racionalização da oferta, modernização da prestação de serviços e formulação do novo modelo de organização sem nenhum cuidado à saúde nas políticas públicas"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Constituição Federal de 1988, arts. 196 a 198; Lei 8.080/1990",
+  "coment": "A Constituição de 1988 e a Lei 8.080/1990 mudaram princípios, diretrizes e financiamento do sistema de saúde. No fim do século XX, a gestão hospitalar passou a adotar controle de gastos, racionalização da oferta, modernização da prestação de serviços e um novo modelo de organização do cuidado nas políticas públicas, coerente com universalidade, integralidade e regionalização. As demais alternativas trocam um termo por seu oposto (aumento de gastos, mesma prestação, nenhum modelo, sem cuidado) e ficam incoerentes com a reforma.",
+  "porAlt": [
+   "Correta: controle de gastos, racionalização da oferta, modernização dos serviços e novo modelo de organização do cuidado.",
+   "Errada: a reforma buscou controlar, e não aumentar, os gastos.",
+   "Errada: a mudança envolveu modernizar a prestação de serviços, e não manter a mesma prestação.",
+   "Errada: a reforma formulou um novo modelo de organização do cuidado, e não nenhum modelo.",
+   "Errada: combina aumento de gastos com organização sem cuidado à saúde, contrária ao SUS."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Descentralizar é redistribuir poder e responsabilidade entre os três níveis de governo. Com relação à saúde, descentralização objetiva prestar serviços com maior qualidade e garantir o controle e a fiscalização por parte dos cidadãos. A respeito do SUS, assinale a alternativa que apresenta como deve ser a responsabilidade pela saúde.",
+  "alts": [
+   "Centralizada até o estado, ou seja, devem ser fornecidas ao município condições gerenciais, técnicas, administrativas e financeiras para exercer esta função",
+   "Centralizada até o município, ou seja, devem não ser fornecidas ao município condições gerenciais, técnicas, administrativas e financeiras para exercer esta função",
+   "Descentralizada até o município, ou seja, devem ser fornecidas ao estado condições gerenciais, técnicas, administrativas e financeiras para exercer esta função",
+   "Descentralizada até o município, ou seja, devem ser fornecidas ao município condições governamentais, técnicas, administrativas e financeiras para exercer esta função",
+   "Descentralizada até o município, ou seja, devem ser fornecidas ao município condições gerenciais, técnicas, administrativas e financeiras para exercer esta função"
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º, IX, a (descentralização com ênfase nos municípios); Ministério da Saúde, ABC do SUS: doutrinas e princípios (1990)",
+  "coment": "A descentralização político-administrativa, com direção única em cada esfera de governo e ênfase na descentralização dos serviços para os municípios, é diretriz da Lei 8.080/1990 (art. 7º, IX, a). O ABC do SUS (MS, 1990) resume: a responsabilidade pela saúde deve ser descentralizada até o município, que deve receber condições gerenciais, técnicas, administrativas e financeiras para exercê-la. A alternativa D difere só por trocar gerenciais por governamentais.",
+  "porAlt": [
+   "Errada: a responsabilidade é descentralizada até o município, e não centralizada no estado.",
+   "Errada: fala em centralização e em negar condições ao município, o oposto da diretriz.",
+   "Errada: as condições devem ser dadas ao município, e não ao estado.",
+   "Errada: o texto da diretriz fala em condições gerenciais, e não governamentais.",
+   "Correta: descentralizada até o município, com condições gerenciais, técnicas, administrativas e financeiras."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma das atribuições fundamentais dos gestores do SUS é executar funções pertinentes a política de saúde. Diante dessa afirmação, assinale a alternativa correta.",
+  "alts": [
+   "Política de saúde de maneira a garantir a toda a população o pleno usufruto do direito à saúde",
+   "Apenas supervisionar se o trabalho da Equipe está sendo executado de forma correta",
+   "Delegar para a equipe as atividades que compreendem a política nacional em saúde",
+   "Participar de reuniões, supervisionar escalas, prontuários médicos, de maneira que ele possa implantar políticas no ministério da saúde",
+   "Preocupar-se com a política de sua saúde, em conformidade com sua instituição"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 2º, § 1º (dever do Estado na formulação e execução de políticas de saúde)",
+  "coment": "A Lei 8.080/1990, art. 2º, § 1º, diz que o dever do Estado de garantir a saúde consiste na formulação e execução de políticas econômicas e sociais que reduzam riscos de doenças e assegurem acesso universal e igualitário às ações e serviços. Cabe aos gestores do SUS, nas três esferas, formular e executar a política de saúde de modo a garantir a toda a população o pleno usufruto do direito à saúde. As outras alternativas reduzem a gestão a supervisão de equipe ou a interesse institucional.",
+  "porAlt": [
+   "Correta: o gestor executa a política de saúde para garantir a toda a população o direito à saúde.",
+   "Errada: a função do gestor do SUS vai muito além de supervisionar o trabalho de uma equipe.",
+   "Errada: a política de saúde é atribuição do gestor e não se transfere à equipe por delegação.",
+   "Errada: supervisionar escalas e prontuários é tarefa operacional, e as políticas não se implantam no ministério por essa via.",
+   "Errada: a política de saúde é pública e voltada à população, e não à saúde do próprio gestor ou da instituição."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São objetivos principais da Política de Gestão de Riscos prevenir eventos adversos, para que isso aconteça algumas ações e atribuições o gestor necessita executar. Mediante a esta afirmação, assinale a alternativa correta.",
+  "alts": [
+   "I - Subsidiar a tomada de decisão para o alcance dos objetivos educacionais; e\nII - Fortalecer os controles externos da gestão, contribuindo para a minoria dos processos e do desempenho institucional",
+   "I - Subsidiar a tomada de decisão para o alcance dos bens institucionais; e\nII - Fortalecer os controles internos da população, contribuindo para a melhoria dos processos e do desempenho institucional",
+   "I - Subsidiar a tomada de inclusões para o alcance dos objetivos institucionais; e\nII - Fortalecer os controles externos da gestão, contribuindo para a melhoria dos processos e do desempenho institucional",
+   "I - Subsidiar a tomada de decisão para o alcance dos objetivos institucionais; e\nII - Fortalecer os controles internos da gestão, contribuindo para a melhoria dos processos e do desempenho institucional",
+   "I - Subsidiar a tomada de decisão para o alcance dos lucros institucionais; e\nII - Fortalecer os controles externos da gestão, contribuindo para a melhoria dos processos e do desempenho institucional"
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Decreto 9.203/2017 (governança da administração pública federal), art. 17 (gestão de riscos e controles internos)",
+  "coment": "A gestão de riscos na administração pública federal, prevista no Decreto 9.203/2017, art. 17, integra o sistema de controles internos e visa à identificação, avaliação e tratamento dos riscos que possam impactar a consecução dos objetivos da organização. Daí os dois objetivos da alternativa D: subsidiar a tomada de decisão para o alcance dos objetivos institucionais e fortalecer os controles internos da gestão, contribuindo para a melhoria dos processos e do desempenho. As outras trocam objetivos por lucros ou bens, internos por externos ou melhoria por minoria.",
+  "porAlt": [
+   "Errada: os objetivos são institucionais, não só educacionais, e o controle a fortalecer é o interno da gestão.",
+   "Errada: fala em bens institucionais e em controles internos da população, termos que não pertencem à política.",
+   "Errada: tomada de inclusões não faz sentido, e os controles a fortalecer são internos.",
+   "Correta: subsidiar a decisão para os objetivos institucionais e fortalecer os controles internos da gestão.",
+   "Errada: o alvo são objetivos, e não lucros, e o controle fortalecido é interno, e não externo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Aquele que sabe o que deve ser feito (o chefe) é quem define o que deve ser posto em prática. Os trabalhadores devem fazer o trabalho, sem questionar as definições e as padronizações. Costumamos dizer que, neste tipo de organização do trabalho, “Manda quem pode, obedece quem tem juízo”. A quem se refere esta divisão de trabalho, assinale a alternativa correta.",
+  "alts": [
+   "Frederick Taylor",
+   "Isaac Newton",
+   "Max Weber",
+   "Fayol",
+   "Chiavenato"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Taylor FW, Princípios de administração científica (1911)",
+  "coment": "Na administração científica de Frederick Taylor (1911), a gerência estuda tempos e movimentos, define o método único e padronizado e separa quem planeja de quem executa: o chefe decide, e o trabalhador executa sem questionar. Na enfermagem, essa lógica gerou o cuidado funcional, com divisão por tarefas e manuais de técnicas. Fayol tratou das funções administrativas e da estrutura (prever, organizar, comandar, coordenar, controlar), e Weber, da burocracia; Chiavenato é autor brasileiro de manuais de administração.",
+  "porAlt": [
+   "Correta: a separação entre planejamento pela chefia e execução sem questionamento é marca de Taylor.",
+   "Errada: Isaac Newton é físico e não formulou teoria de organização do trabalho.",
+   "Errada: Weber descreveu a burocracia, com normas escritas, impessoalidade e hierarquia.",
+   "Errada: Fayol formulou a teoria clássica, centrada nas funções administrativas e na estrutura.",
+   "Errada: Chiavenato é autor de manuais que sistematizam as teorias, não o criador dessa divisão do trabalho."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para a PNH (Política Nacional de Humanização), tais processos são da alçada de todos os trabalhadores, independentemente de sua posição na hierarquia institucional, e afetam todos os sujeitos envolvidos: gestores, trabalhadores e usuários. Seguindo a proposição do Método, assinale a alternativa correta.",
+  "alts": [
+   "Incluir os diversos interesses significa reconhecer que o trabalho cumpre um conjunto de finalidades complexas, que podemos caracterizar como uma tríplice finalidade: trabalha-se para o outro e com o outro, mas também para si mesmo e, por fim, trabalha-se para uma inclusão",
+   "Incluir os diversos desinteresses significa reconhecer que o trabalho não cumpre um conjunto de finalidades complexas, que podemos caracterizar como uma tríplice finalidade: trabalha-se para o outro e com o outro, mas também para si mesmo e, por fim, trabalha-se para uma instituição",
+   "Incluir os diversos interesses significa envolver se que o trabalho cumpre um conjunto de finalidades complexas, que podemos idealizar como uma tríplice finalidade: trabalha-se para o outro e com o outro, mas também para si mesmo e, por fim, trabalha-se para uma instituição",
+   "Excluir os diversos interesses significa reconhecer que o trabalho cumpre um conjunto de finalidades complexas, que podemos caracterizar como uma tríplice finalidade: trabalha-se apenas para o outro, mas também para si mesmo e, por fim, trabalha-se para uma instituição",
+   "Incluir os diversos interesses significa reconhecer que o trabalho cumpre um conjunto de finalidades complexas, que podemos caracterizar como uma tríplice finalidade: trabalha-se para o outro e com o outro, mas também para si mesmo e, por fim, trabalha-se para uma instituição"
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Política Nacional de Humanização, HumanizaSUS (Ministério da Saúde, 2003), diretriz de gestão participativa e cogestão",
+  "coment": "Para a PNH, lançada em 2003, os processos de gestão cabem a todos os trabalhadores, independentemente da posição hierárquica, e afetam gestores, trabalhadores e usuários. O método da PNH é o da inclusão, e incluir os diversos interesses significa reconhecer que o trabalho tem tríplice finalidade: trabalha-se para o outro e com o outro, para si mesmo e para uma instituição. Daí a cogestão: os sujeitos participam das decisões sobre a organização do trabalho. A alternativa A difere de E só no fim, ao trocar instituição por inclusão.",
+  "porAlt": [
+   "Errada: a terceira finalidade é trabalhar para uma instituição, e não para uma inclusão.",
+   "Errada: fala em desinteresses e nega que o trabalho cumpra finalidades complexas.",
+   "Errada: troca reconhecer por envolver e caracterizar por idealizar, deformando o conceito.",
+   "Errada: o método da PNH é incluir, e não excluir, e o trabalho é feito também com o outro.",
+   "Correta: incluir interesses reconhece a tríplice finalidade: para e com o outro, para si e para a instituição."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Ministério da Saúde desempenha importante papel na área de biossegurança em suas diversas dimensões. Em que consistem suas atribuições, analise as afirmativas abaixo.\nI. Participar, nos âmbitos nacional e internacional, da elaboração e reformulação de normas no âmbito da biossegurança.\nII. Proceder ao levantamento e à análise das questões referentes à biossegurança, visando identificar seus impactos e suas correlações com a saúde humana.\nIII. Propor estudos para subsidiar o posicionamento do Ministério da Saúde na tomada de decisões sobre temas relativos à biossegurança.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I e II apenas",
+   "II e III apenas",
+   "I e III apenas",
+   "III apenas",
+   "I, II e III"
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Biossegurança em saúde: prioridades e estratégias de ação (2010), atribuições da Comissão de Biossegurança em Saúde",
+  "coment": "O Ministério da Saúde atua em biossegurança por meio da Comissão de Biossegurança em Saúde, cujas atribuições, descritas no documento Biossegurança em saúde: prioridades e estratégias de ação (MS, 2010), incluem participar da elaboração e reformulação de normas nos âmbitos nacional e internacional, levantar e analisar as questões de biossegurança para identificar seus impactos na saúde humana e propor estudos que subsidiem o posicionamento do ministério. As três afirmativas estão corretas.",
+  "porAlt": [
+   "Errada: omite a III, pois propor estudos para subsidiar decisões também é atribuição do MS.",
+   "Errada: omite a I, pois participar da elaboração de normas é atribuição do MS.",
+   "Errada: omite a II, pois levantar e analisar as questões de biossegurança também cabe ao MS.",
+   "Errada: I e II também são atribuições do Ministério da Saúde.",
+   "Correta: as três afirmativas descrevem atribuições do Ministério da Saúde em biossegurança."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Instituto Nacional de Metrologia - Inmetro atua em quatro principais áreas relacionadas à biossegurança: normalização, acreditação, reconhecimento de Boas Práticas Laboratoriais - BPL e biometrologia. A série de normas ISO, foram criadas pela Organização Internacional de Padronização - ISO, no Brasil, estas normas são compostas pela sigla NBR. Elas são criadas e gerenciadas pela Associação Brasileira de Normas Técnicas - ABNT. Segundo a ABNT NBR ISO/IEC 17011:2005, organismos de avaliação da conformidade são organizações que fornecem os seguintes serviços de avaliação da conformidade:",
+  "alts": [
+   "calibração de sistemas de gestão, calibração de produtos, calibração de pessoas, ensaios, calibração e inspeção, dentre elas existe a acreditação de laboratório",
+   "certificação de sistemas de gestão, calibração de produtos, certificação de pessoas, ensaios, calibração e inspeção, dentre elas existe a acreditação de laboratório",
+   "certificação de sistemas de gestão, calibração de produtos, certificação de pessoas, ensaios, calibração e certificação, dentre elas existe a acreditação de laboratório",
+   "certificação de sistemas de gestão, certificação de produtos, certificação de pessoas, ensaios, calibração e inspeção, dentre elas existe a acreditação de laboratório",
+   "certificação de sistemas de gestão, calibração de produtos, certificação de pessoas, ensaios, calibração e inspeção, dentre elas existe a calibração de laboratório"
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "ABNT NBR ISO/IEC 17011:2005, citada no enunciado (revisada pela ABNT NBR ISO/IEC 17011:2017); Ministério da Saúde, Biossegurança em saúde: prioridades e estratégias de ação (2010)",
+  "coment": "Pela ABNT NBR ISO/IEC 17011, organismos de avaliação da conformidade são os que prestam serviços de certificação de sistemas de gestão, certificação de produtos, certificação de pessoas, ensaios, calibração e inspeção; entre esses serviços, avaliados pelo organismo de acreditação, está a acreditação de laboratórios. Certificação é a atestação por terceira parte; calibração é serviço metrológico de instrumentos e não se aplica a produtos ou pessoas. A norma de 2005 citada foi revisada em 2017, sem mudar esse rol. A alternativa D é a única sem troca de termo.",
+  "porAlt": [
+   "Errada: fala em calibração de sistemas de gestão e de pessoas, quando o correto é certificação.",
+   "Errada: produtos passam por certificação, e não por calibração.",
+   "Errada: troca certificação de produtos por calibração e inspeção por certificação.",
+   "Correta: certificação de sistemas de gestão, de produtos e de pessoas, ensaios, calibração e inspeção.",
+   "Errada: troca certificação de produtos por calibração e acreditação de laboratório por calibração."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para Cunha e Cunha (1998), uma das questões mais importantes, presentes na definição do SUS, é o conceito de saúde. Pode-se perceber uma visão mais abrangente e sistêmica identificando a saúde como diretamente relacionada a três elementos. Sobre isso, analise as afirmativas abaixo.\nI. Meio físico (condições geográficas, infra-estrutura básica, etc.).\nII. Meio socioeconômico e cultural (emprego, renda, educação, etc.).\nIII. Garantia de acesso aos serviços responsáveis pela promoção, proteção e recuperação da saúde.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I, II e III",
+   "I e II apenas",
+   "I e III apenas",
+   "II e III apenas",
+   "III apenas"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 3º (determinantes e condicionantes da saúde); Constituição Federal de 1988, art. 196",
+  "coment": "Cunha e Cunha (1998) mostram que o SUS adota um conceito ampliado de saúde, ligado a três elementos: o meio físico (condições geográficas, infraestrutura, saneamento), o meio socioeconômico e cultural (emprego, renda, educação) e a garantia de acesso aos serviços de promoção, proteção e recuperação. É o que expressam a Constituição, art. 196, e a Lei 8.080/1990, art. 3º, ao listar alimentação, moradia, saneamento, meio ambiente, trabalho, renda, educação e acesso a bens e serviços entre os determinantes da saúde.",
+  "porAlt": [
+   "Correta: meio físico, meio socioeconômico e cultural e acesso aos serviços compõem o conceito ampliado.",
+   "Errada: omite a garantia de acesso aos serviços de promoção, proteção e recuperação.",
+   "Errada: omite o meio socioeconômico e cultural, como emprego, renda e educação.",
+   "Errada: omite o meio físico, como condições geográficas e infraestrutura básica.",
+   "Errada: reduz a saúde ao acesso a serviços, contrariando o conceito ampliado do SUS."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os estudos classificados na categoria gestão em saúde, adotaram como enfoque as perspectivas dos sistemas e dos serviços. Assinale a alternativa que apresenta em quais abordagens envolviam.",
+  "alts": [
+   "organização, monitoramento e avaliação em saúde",
+   "organização, monitoramento e avaliação em gestão",
+   "desorganização, monitoramento e avaliação em saúde",
+   "organização, colaboradores e avaliação em saúde",
+   "organização, monitoramento e avaliação em pessoas"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 15, I (instâncias e mecanismos de controle, avaliação e fiscalização)",
+  "coment": "O enunciado vem de uma revisão sobre gestão em saúde, cujos estudos tratavam das perspectivas dos sistemas e dos serviços nas abordagens de organização, monitoramento e avaliação em saúde. Essas três funções são próprias do gestor do SUS: a Lei 8.080/1990, art. 15, I, atribui às três esferas a definição das instâncias e mecanismos de controle, avaliação e fiscalização das ações e serviços de saúde. As alternativas erradas trocam um termo por desorganização, colaboradores, gestão ou pessoas.",
+  "porAlt": [
+   "Correta: organização, monitoramento e avaliação em saúde são as abordagens da gestão de sistemas e serviços.",
+   "Errada: o objeto do monitoramento e da avaliação é a saúde, e não apenas a gestão.",
+   "Errada: desorganização não é abordagem de gestão.",
+   "Errada: colaboradores não é abordagem; o termo correto é monitoramento.",
+   "Errada: a avaliação é em saúde, e não em pessoas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Todos os aspectos referidos têm implicações para a Gestão em Saúde. Em especial, algumas efetivações são consideradas essenciais para a Gestão em Saúde, podemos considerar:",
+  "alts": [
+   "a efetivação dos consórcios intermunicipais e incorporação dos líderes comunitários na gestão, com vistas à melhoria do caráter participativo e do processo de regionalização na implantação do SUS",
+   "a efetivação dos povos intermunicipais e incorporação dos líderes comunitários na gestão, com vistas à melhoria do caráter participativo e do processo de regionalização na implantação do SUS",
+   "a efetivação dos consórcios intermunicipais e incorporação dos líderes indigenas na gestão, com vistas à melhoria do caráter participativo e do processo de regionalização na implantação do SUS",
+   "a efetivação dos consórcios intermunicipais e incorporação dos líderes religiosos na gestão, com vistas à melhoria do caráter participativo e do processo de regionalização na implantação do SUS",
+   "a efetivação dos consórcios intermunicipais e incorporação dos líderes comunitários na gestão, com vistas à melhoria do caráter participativo e do processo de regionalização na implantação do poder religioso"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 10 (consórcios intermunicipais); Lei 8.142/1990 (participação da comunidade); Lei 11.107/2005 (consórcios públicos)",
+  "coment": "O enunciado retoma uma revisão sobre gestão em saúde e cobra a conclusão: são essenciais a efetivação dos consórcios intermunicipais e a incorporação dos líderes comunitários na gestão, para reforçar o caráter participativo e a regionalização do SUS. Os municípios podem formar consórcios para desenvolver em conjunto ações e serviços de saúde (Lei 8.080/1990, art. 10; Lei 11.107/2005), e a participação da comunidade é diretriz constitucional regulada pela Lei 8.142/1990. As outras alternativas trocam termos e perdem o sentido.",
+  "porAlt": [
+   "Correta: consórcios intermunicipais e líderes comunitários na gestão fortalecem participação e regionalização.",
+   "Errada: povos intermunicipais não existe; o instrumento de cooperação entre municípios é o consórcio.",
+   "Errada: a participação prevista é da comunidade, e não restrita a lideranças indígenas.",
+   "Errada: o SUS prevê participação da comunidade, e não de lideranças religiosas na gestão.",
+   "Errada: o objetivo é a implantação do SUS, e não do poder religioso."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a melhoria da capacidade dos dirigentes, destaca-se:",
+  "alts": [
+   "que houve incentivo aos métodos de avaliação de custo, aperfeiçoamento da capacidade operacional, adoção da lógica de economia de escala, eficiência sistêmica, ferramentas de comparação de desempenhos e indicadores de resultados e as práticas gerenciais e assistenciais não gerenciadas pelo gestor",
+   "que houve desmotivação aos métodos de avaliação de custo, aperfeiçoamento da capacidade operacional, adoção da lógica de economia de escala, eficiência sistêmica, ferramentas de comparação de desempenhos e indicadores de resultados e boas práticas gerenciais e assistenciais",
+   "que houve incentivo aos métodos de avaliação de custo, aperfeiçoamento da capacidade operacional, adoção da lógica de economia de escala, eficiência sistêmica, ferramentas de comparação de desempenhos e indicadores de resultados e boas práticas gerenciais e assistenciais",
+   "que houve incentivo aos métodos de avaliação de custo, aperfeiçoamento da incapacidade operacional, adoção da lógica de economia de escala, eficiência sistêmica, ferramentas de comparação de desempenhos e indicadores de resultados e boas práticas gerenciais e assistenciais",
+   "que houve incentivo aos aumento de custo, aperfeiçoamento da capacidade operacional, adoção da lógica de economia de escala, eficiência sistêmica, ferramentas de comparação de desempenhos e indicadores de resultados e boas práticas gerenciais e assistenciais"
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 3.390/2013 (Política Nacional de Atenção Hospitalar), eixo de gestão hospitalar",
+  "coment": "Para melhorar a capacidade dos dirigentes hospitalares, houve incentivo a métodos de avaliação de custo, aperfeiçoamento da capacidade operacional, lógica de economia de escala, eficiência sistêmica, comparação de desempenho, indicadores de resultado e boas práticas gerenciais e assistenciais. A Política Nacional de Atenção Hospitalar (Portaria GM/MS 3.390/2013) segue essa linha ao exigir gestão por indicadores, contratualização de metas e monitoramento de desempenho. As erradas trocam incentivo por desmotivação, capacidade por incapacidade ou avaliação de custo por aumento de custo.",
+  "porAlt": [
+   "Errada: termina com práticas não gerenciadas pelo gestor, o oposto de boas práticas gerenciais.",
+   "Errada: houve incentivo, e não desmotivação, aos métodos de avaliação de custo.",
+   "Correta: incentivo à avaliação de custo, capacidade operacional, eficiência, indicadores e boas práticas.",
+   "Errada: o objetivo é aperfeiçoar a capacidade operacional, e não a incapacidade.",
+   "Errada: o incentivo foi à avaliação de custo, e não ao aumento de custo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A regulação da rede hospitalar foi destaque pela sua correspondência às internações, principalmente em UTI, judicialização do acesso e causas sensíveis. Assinale a alternativa que apresenta quais tendências foram evidenciadas durante a execução do processo de trabalho.",
+  "alts": [
+   "Expansão da assistência supletiva, incorporação de métodos avaliativos internos à cadeia produtiva, estratégias de desospitalização e diminuição das terceirizações e das relações público-privado",
+   "Diminuição da assistência supletiva, incorporação de métodos avaliativos externos à cadeia produtiva, estratégias de desospitalização e crescimento das terceirizações e das relações público-privado",
+   "Expansão da assistência supletiva, incorporação de métodos conceptivos externos à cadeia produtiva, estratégias de desospitalização e crescimento das terceirizações e das relações público-privado",
+   "Expansão da assistência supletiva, incorporação de métodos avaliativos externos à cadeia produtiva, estratégias de desospitalização e crescimento das terceirizações e das relações público-privado",
+   "Expansão da assistência supletiva, incorporação de métodos avaliativos externos à cadeia alimentar, estratégias de desospitalização e crescimento das terceirizações e das relações público-privado"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.559/2008 (Política Nacional de Regulação do SUS); Portaria GM/MS 3.390/2013 (Política Nacional de Atenção Hospitalar)",
+  "coment": "A regulação da rede hospitalar, prevista na Política Nacional de Regulação (Portaria GM/MS 1.559/2008), ganhou destaque pela relação com as internações, sobretudo em UTI, pela judicialização do acesso e pelas internações por causas sensíveis à atenção primária. As tendências descritas foram expansão da assistência supletiva, incorporação de métodos avaliativos externos à cadeia produtiva, estratégias de desospitalização e crescimento das terceirizações e das relações público-privadas. As alternativas erradas invertem uma dessas tendências ou trocam um termo.",
+  "porAlt": [
+   "Errada: os métodos avaliativos eram externos, e as terceirizações e relações público-privadas cresceram.",
+   "Errada: a assistência supletiva se expandiu, e não diminuiu.",
+   "Errada: os métodos incorporados eram avaliativos, e não conceptivos.",
+   "Correta: expansão da supletiva, avaliação externa, desospitalização e crescimento das terceirizações.",
+   "Errada: a expressão correta é cadeia produtiva, e não cadeia alimentar."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A gestão de serviços hospitalares, retoma crítica sobre a correlação com as naturezas pública e privada, com destaque a necessidade de determinação das responsabilidades entre os entes, enquanto partes que contratualizam e compartilham a gestão. Além de outras centralidades, são elas:",
+  "alts": [
+   "relações de poder, recursos humanos, financiamento, tecnologia e financiamento da mecatrônica e ferramentas de gestão",
+   "relações de poder judicial, recursos humanos, financiamento, tecnologia de informação e ferramentas de gestão",
+   "relações de poder, recursos estéticos, financiamento, tecnologia de informação e ferramentas de gestão",
+   "relações de poder, recursos humanos, financiamento, tecnologia de informação e ferramentas de mídia",
+   "relações de poder, recursos humanos, financiamento, tecnologia de informação e ferramentas de gestão"
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 3.410/2013 (contratualização de hospitais no SUS); Portaria GM/MS 3.390/2013 (Política Nacional de Atenção Hospitalar)",
+  "coment": "A gestão dos serviços hospitalares envolve a relação entre o público e o privado e exige definir as responsabilidades dos entes que contratualizam e compartilham a gestão, como prevê a contratualização de hospitais no SUS (Portaria GM/MS 3.410/2013). As outras centralidades são relações de poder, recursos humanos, financiamento, tecnologia de informação e ferramentas de gestão. As alternativas erradas inserem termos estranhos: mecatrônica, poder judicial, recursos estéticos e ferramentas de mídia.",
+  "porAlt": [
+   "Errada: repete financiamento e fala em mecatrônica, que não é centralidade da gestão hospitalar.",
+   "Errada: a centralidade são as relações de poder em geral, e não o poder judicial.",
+   "Errada: o eixo é recursos humanos, e não recursos estéticos.",
+   "Errada: as ferramentas são de gestão, e não de mídia.",
+   "Correta: relações de poder, recursos humanos, financiamento, tecnologia de informação e ferramentas de gestão."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na Bahia, estado que conta com apenas 653 hospitais, dos quais 465 são classificados como hospitais gerais, a grande maioria vinculada ao setor privado, sendo este o caminho adotado pelos gestores públicos para ampliação da oferta de atenção hospitalar no SUS. Algumas parcerias foram implementadas. Diante da afirmação, assinale a alternativa correta.",
+  "alts": [
+   "A constituição de parcerias com o setor privado, inicialmente por meio de Organizações Sociais (OS) e, a partir de 2023, por meio de parcerias privadas (PPP), experiências que necessitam de investigação e avaliação",
+   "A constituição de parcerias com o setor privado, inicialmente por meio de Organizações Sociais (OS) e, a partir de 2010, por meio de parcerias público-privadas (PPP), experiências que necessitam de investigação e avaliação",
+   "Constituição de parcerias com o setor público, inicialmente por meio de Organizações Sociais (OS) e, a partir de 2015, por meio de parcerias público-privadas (PPP), experiências que necessitam de investigação e avaliação",
+   "A constituição de Nacional com o setor privado, inicialmente por meio de Organizações Sociais (OS) e, a partir de 2010, por meio de parcerias privadas (PPP), experiências que necessitam de investigação e avaliação",
+   "A constituição de parcerias com o setor público, inicialmente por meio de Organizações Sociais (OS) e, a partir de 2010, por meio de parcerias público (PPP), experiências que necessitam de investigação e avaliação"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Lei 9.637/1998 (Organizações Sociais); Lei 11.079/2004 (parcerias público-privadas)",
+  "coment": "Na Bahia, com rede hospitalar majoritariamente privada, o gestor estadual ampliou a oferta hospitalar do SUS por parcerias com o setor privado: primeiro com Organizações Sociais (Lei 9.637/1998) e, a partir de 2010, com parcerias público-privadas (Lei 11.079/2004), cujo marco foi o Hospital do Subúrbio, em Salvador, primeira PPP hospitalar do país. O texto-base conclui que essas experiências precisam de investigação e avaliação. As alternativas erradas mudam o ano, o setor parceiro ou o nome da PPP.",
+  "porAlt": [
+   "Errada: as PPP começaram em 2010, e não em 2023, e a sigla corresponde a parcerias público-privadas.",
+   "Correta: parcerias com o setor privado, primeiro por OS e, a partir de 2010, por PPP.",
+   "Errada: as parcerias foram com o setor privado, e o marco das PPP é 2010, e não 2015.",
+   "Errada: constituição de Nacional não faz sentido e PPP são parcerias público-privadas.",
+   "Errada: as parcerias foram com o setor privado, e PPP são parcerias público-privadas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A avaliação dos serviços de saúde, cada vez mais utilizada como instrumento de apoio à gestão no Sistema Único de Saúde (SUS). Como visa contribuir para os problemas:",
+  "alts": [
+   "desorientar o planejamento e mensurar o impacto da implementação de políticas, programas, serviços e ações sobre o estado de saúde da população",
+   "reorientar o planejamento e mensurar o impacto da implementação de políticas, programas, serviços e ações sobre o estado de saúde da população",
+   "reorientar o planejamento e anular o impacto da implementação de políticas, programas, serviços e ações sobre o estado de saúde da população",
+   "reorientar o planejamento e mensurar o impacto da implementação de política, programas, serviços e ações sobre o estado de saúde dos enfermos",
+   "reorientar o planejamento e mensurar o impacto da implementação de políticas, programas, serviços de hotelaria e ações sobre o estado de São Paulo"
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 15, I (controle, avaliação e fiscalização das ações e serviços de saúde)",
+  "coment": "A avaliação de serviços de saúde é instrumento de apoio à gestão do SUS, e cabe às três esferas definir mecanismos de controle e avaliação das ações e serviços (Lei 8.080/1990, art. 15, I). Seu propósito é reorientar o planejamento e mensurar o impacto da implementação de políticas, programas, serviços e ações sobre o estado de saúde da população. As alternativas erradas trocam reorientar por desorientar, mensurar por anular, população por enfermos ou incluem hotelaria e um estado específico.",
+  "porAlt": [
+   "Errada: a avaliação serve para reorientar, e não desorientar, o planejamento.",
+   "Correta: reorientar o planejamento e mensurar o impacto das políticas e ações na saúde da população.",
+   "Errada: a avaliação mede o impacto, e não o anula.",
+   "Errada: o alvo é a saúde da população como um todo, e não apenas dos enfermos.",
+   "Errada: não se restringe a serviços de hotelaria nem a um estado da federação."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Consideraram-se as variáveis (tipo de gestão, esfera administrativa, nível hierárquico e porte hospitalar) para caracterizar o desempenho da rede hospitalar. De acordo com as definições, analise as afirmativas abaixo.\nI. Tipo de gestão (municipal, estadual ou dupla): identifica com qual gestor o estabelecimento tem contrato/convênio, e é responsável pelo cadastro, programação, autorização e pagamentos dos serviços prestados ao SUS, sendo municipal (os gestores são as secretarias municipais de saúde), estadual (os gestores são as secretarias estaduais de saúde) e gestão dupla (aquela que aponta que o prestador, conforme registro no Cadastro Nacional de Estabelecimentos de Saúde - CNES, está sob regulação municipal e estadual)..\nII. Esfera administrativa: corresponde à esfera a qual o estabelecimento de saúde está diretamente subordinado. Essa pode ser pública (federal, estadual e municipal) ou privada (estabelecimentos privados ou organizações não governamentais e estabelecimentos correlatos).\nIII. Nível de hierarquia (NH): uma forma de enquadramento que define a complexidade dos procedimentos que podem ser realizados por um estabelecimento de saúde que atende pelo SUS.\nIV. Porte hospitalar: pequeno (até 49 leitos), médio (50 até 150 leitos), grande (151 a 500 leitos) e especial (acima de 500 leitos).\nEstão corretas as afirmativas:",
+  "alts": [
+   "I e IV apenas",
+   "II e III apenas",
+   "III e IV apenas",
+   "I e II apenas",
+   "I, II, III e IV"
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria SAS/MS 511/2000 (Cadastro Nacional de Estabelecimentos de Saúde, CNES)",
+  "coment": "As quatro variáveis usadas para caracterizar a rede hospitalar estão bem definidas e partem do Cadastro Nacional de Estabelecimentos de Saúde (Portaria SAS/MS 511/2000). Tipo de gestão indica com qual gestor o hospital tem contrato e quem cadastra, programa, autoriza e paga: municipal, estadual ou dupla. Esfera administrativa é a esfera à qual o estabelecimento se subordina, pública ou privada. Nível de hierarquia enquadra a complexidade dos procedimentos. O porte foi dado em leitos: pequeno até 49, médio de 50 a 150, grande de 151 a 500, especial acima de 500.",
+  "porAlt": [
+   "Errada: II e III também são definições corretas usadas na caracterização.",
+   "Errada: I e IV também estão corretas.",
+   "Errada: I e II também estão corretas.",
+   "Errada: III e IV também estão corretas.",
+   "Correta: as quatro afirmativas definem corretamente as variáveis de caracterização da rede hospitalar."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+   "n": 57,
+   "parte": "especificas"
+  }
+ }
+]

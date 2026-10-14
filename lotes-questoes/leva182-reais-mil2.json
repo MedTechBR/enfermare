@@ -1,0 +1,1388 @@
+[
+ {
+  "q": "Para responder às questões de números 28 a 32, considere o apresentado em Brunner & Suddarth: tratado de enfermagem médico-cirúrgica (2023).\nA.E, 68 anos, sexo masculino, com diagnóstico de câncer de bexiga, foi submetido a procedimento cirúrgico em que foi realizado o desvio urinário permanente por conduto ileal. Apresenta dois stents posicionados nos ureteres, e uma bolsa de ileostomia é utilizada para a coleta de urina. Frente a essa situação, no período pós-operatório imediato, ao desenvolver o Processo de Enfermagem, o enfermeiro deve considerar que",
+  "alts": [
+   "a drenagem de urina pelos stents ureterais, uni ou bilateralmente, bem como ao redor deles exige assistência médica imediata, pois sinalizam a ocorrência de obstrução no conduto ileal.",
+   "a presença de hematúria é normal nas primeiras horas pós-operatórias, devendo cessar, espontaneamente, em até 24 horas.",
+   "o monitoramento do volume urinário deve ser realizado a cada 2 horas, rigorosamente.",
+   "a ocorrência de débito urinário inferior a 0,5 mL/kg/hora pode indicar desidratação, obstrução no conduto ileal, com possibilidade de fluxo retrógrado ou extravasamento a partir da anastomose ureteroileal.",
+   "o estoma deve ser inspecionado com frequência quanto a sua coloração e viabilidade, devendo-se considerar que, para o método de derivação urinária utilizado, um estoma saudável apresenta coloração púrpura ou acastanhada nas primeiras 24 horas."
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Estomias e cuidados",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 15ª ed. (2023), derivações urinárias",
+  "coment": "No pós-operatório imediato do conduto ileal, a diurese é o principal sinal de funcionamento da derivação. Débito abaixo de 0,5 mL/kg/h pede comunicação imediata, porque pode indicar hipovolemia, obstrução do conduto ou dos stents ureterais ou extravasamento na anastomose ureteroileal, com risco de urinoma e peritonite. O débito é acompanhado de hora em hora, a urina sai pelos stents e ao redor deles e o estoma saudável é vermelho ou rosado e úmido; púrpura ou castanho indica sofrimento vascular. O enunciado fala em bolsa de ileostomia; o termo exato é urostomia. Muco na urina é esperado, pelo segmento de íleo usado.",
+  "porAlt": [
+   "Errada: a drenagem pelos stents e ao redor deles é esperada; o sinal de alerta é a queda ou a parada do débito.",
+   "Errada: a referência não trata a hematúria como achado normal com prazo de 24 horas; o achado esperado na derivação ileal é muco na urina.",
+   "Errada: no pós-operatório imediato o débito urinário é monitorado de hora em hora, e não a cada 2 horas.",
+   "Correta: débito abaixo de 0,5 mL/kg/h sugere desidratação, obstrução do conduto ou extravasamento na anastomose ureteroileal e exige comunicação.",
+   "Errada: estoma púrpura ou acastanhado indica isquemia; o estoma viável é vermelho ou rosado, úmido e brilhante."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 28,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para responder às questões de números 28 a 32, considere o apresentado em Brunner & Suddarth: tratado de enfermagem médico-cirúrgica (2023).\nNo transcorrer da consulta de enfermagem de B.G., 68 anos, sexo masculino, hipertenso, portador de diabete melito tipo 2 há 10 anos, tabagista (10 cigarros/dia) há 40 anos, apresentando úlcera em membro inferior esquerdo, o enfermeiro utilizou o índice tornozelo-braquial (ITB) com o objetivo de investigar a presença de insuficiência arterial e nortear a conduta. Para tal, observando a técnica correta para a obtenção do ITB, o enfermeiro obteve as seguintes medidas da pressão arterial sistólica:\nBraquial direita: 140 mmHg\nBraquial esquerda: 130 mmHg\nTibial posterior direita: 80 mm Hg\nPodal dorsal direita: 90 mmHg\nTibial posterior esquerda: 90 mmHg\nPodal dorsal esquerda: 110 mmHg\nO índice tornozelo-braquial esquerdo (ITB-E) e sua interpretação (I) são:",
+  "alts": [
+   "ITB-E = 0,76; I = insuficiência arterial leve.",
+   "ITB-E = 0,78; I = insuficiência arterial moderada a leve.",
+   "ITB-E = 0,84; I = insuficiência arterial moderada a leve.",
+   "ITB-E = 1,3; I = Normal.",
+   "ITB-E = 1,27; I = Anormal, indica artérias não compressivas, exigindo avaliação adicional."
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Pé diabético e úlceras vasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 15ª ed. (2023), índice tornozelo-braquial",
+  "coment": "O ITB de cada perna divide a maior pressão sistólica do tornozelo daquela perna (tibial posterior ou pediosa) pela maior pressão braquial entre os dois braços. À esquerda: maior tornozelo 110 mmHg (pediosa), maior braquial 140 mmHg (direita). 110 dividido por 140 dá 0,786, que a banca registrou como 0,78. O valor está abaixo de 0,9, limite inferior da normalidade, e acima das faixas de isquemia grave: insuficiência arterial leve a moderada, compatível com a úlcera do tabagista diabético. Usar a braquial do mesmo lado (130) ou a menor pressão do tornozelo é o erro que gera as outras alternativas.",
+  "porAlt": [
+   "Errada: o 0,76 não sai da técnica correta, que usa a maior pressão do tornozelo e a maior braquial.",
+   "Correta: 110 (maior pressão do tornozelo esquerdo) dividido por 140 (maior braquial) dá 0,78, faixa de insuficiência arterial leve a moderada.",
+   "Errada: 0,84 resulta de dividir por 130, a braquial esquerda; a técnica usa a maior braquial entre os dois braços.",
+   "Errada: 1,3 não corresponde a nenhum cálculo correto com essas pressões, e o índice esquerdo está abaixo de 0,9.",
+   "Errada: valor acima de 1,3 indicaria artéria incompressível, mas o cálculo correto dá 0,78."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 29,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para responder às questões de números 28 a 32, considere o apresentado em Brunner & Suddarth: tratado de enfermagem médico-cirúrgica (2023).\nAo orientar Indivíduos portadores de angina estável, com indicação de autoadministração de nitroglicerina por via sublingual, o enfermeiro deve esclarecer que",
+  "alts": [
+   "se a dor persistir após a administração de três comprimidos sublinguais, com intervalo de 5 minutos, o serviço médico de emergência deverá ser solicitado.",
+   "o medicamento só deve ser autoadministrado na vigência de desconforto ou dor precordial.",
+   "palidez, sensação de frio, formigamentos, tonturas e bradicardia são normais após o uso da nitroglicerina, porque constituem efeitos colaterais do medicamento.",
+   "antes de colocar o medicamento na boca, deverá engolir a saliva, reduzindo bem seu volume, pois quanto mais seca estiver a boca, mais rápida será a absorção da nitroglicerina.",
+   "após serem retirados de sua embalagem original, em todas as ocasiões, o medicamento deve ser transportado em caixas de plástico ou metálicas próprias para medicamentos, devidamente identificadas, para facilitar seu acesso em caso de urgências."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 15ª ed. (2023), angina e nitroglicerina",
+  "coment": "A orientação clássica do Brunner é usar até três comprimidos sublinguais com intervalo de 5 minutos e, se a dor persistir, acionar o serviço de emergência. O comprimido pode ser usado antes de esforço que costuma provocar angina, deve se dissolver sob a língua com a boca úmida e é guardado no frasco original de vidro escuro, bem fechado, porque perde potência com luz, calor e umidade. Efeitos esperados são cefaleia, rubor, hipotensão e taquicardia reflexa. Diretrizes americanas recentes são mais estritas e orientam chamar a emergência se a dor não melhorar 5 minutos após o primeiro comprimido.",
+  "porAlt": [
+   "Correta: dor que persiste após três comprimidos com 5 minutos de intervalo exige acionar o serviço médico de emergência.",
+   "Errada: a nitroglicerina também pode ser usada de forma preventiva, antes de atividade que costuma desencadear a angina.",
+   "Errada: os efeitos esperados são cefaleia, rubor, hipotensão e taquicardia reflexa; bradicardia e palidez fria não são reação normal.",
+   "Errada: o comprimido precisa de saliva para se dissolver; boca seca atrasa a absorção sublingual.",
+   "Errada: o medicamento fica no frasco original de vidro escuro, bem fechado, e não em caixas de plástico ou metal."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 30,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para responder às questões de números 28 a 32, considere o apresentado em Brunner & Suddarth: tratado de enfermagem médico-cirúrgica (2023).\n“A síndrome de Guillain-Barré (SGB) é resultante do ataque imune contra a mielina dos nervos periféricos, sendo que na maioria dos casos, a apresentação clínica é frequentemente precedida por uma infecção viral, entre elas por H. influenzae, vírus Zica. Recentemente, alguns estudos têm sugerido uma possível relação entre a infecção por o SARS-CoV-2 e o desencadeamento da SGB” (Amaral e cols., 2021).\nConsiderando-se que o enfermeiro deve estar apto a reconhecer as manifestações clínicas da SGB, bem como prestar assistência de enfermagem ao indivíduo assim diagnosticado, assinale a alternativa correta.",
+  "alts": [
+   "Devido à incapacidade do paciente em se comunicar, o enfermeiro deve estabelecer algum tipo de comunicação, o que pode ser feito com o sistema de piscar ou com cartões de figuras.",
+   "O estado cognitivo do paciente se deteriora rapidamente, observando-se, com frequência, delírios e alucinações.",
+   "O evento precedente costuma ocorrer de 4 a 7 dias antes do início dos primeiros sintomas.",
+   "O enfermeiro deve estar atento aos sinais e sintomas de insuficiência respiratória iminente, que tem como principal indicativo o ritmo respiratório de Biot.",
+   "O paciente com a síndrome de Guillain-Barré apresenta, inicialmente, fraqueza assimétrica, diminuição dos reflexos e progressão descendente (sentido cefalo-caudal) da fraqueza motora."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 15ª ed. (2023), síndrome de Guillain-Barré",
+  "coment": "Na síndrome de Guillain-Barré a fraqueza é simétrica e ascendente, com arreflexia, e pode chegar aos nervos cranianos e aos músculos respiratórios, deixando o paciente sem fala, mas com cognição preservada. Por isso o enfermeiro cria um método de comunicação, como piscar ou cartões, o que reduz ansiedade. O sinal precoce de falência respiratória é a queda da capacidade vital e da força inspiratória, e não um ritmo específico. A infecção precedente ocorre semanas antes. O texto da banca chama o H. influenzae de vírus e grafa zica; o agente clássico é o Campylobacter jejuni.",
+  "porAlt": [
+   "Correta: o paciente consciente e impossibilitado de falar precisa de comunicação alternativa, como piscar ou cartões de figuras.",
+   "Errada: a cognição fica preservada; delírio e alucinação não fazem parte do quadro.",
+   "Errada: a infecção precedente costuma anteceder os sintomas em semanas, e não em 4 a 7 dias.",
+   "Errada: a insuficiência respiratória iminente se reconhece pela queda da capacidade vital e da força inspiratória, não pelo ritmo de Biot.",
+   "Errada: a fraqueza é simétrica e ascendente, dos membros inferiores para cima."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para responder às questões de números 28 a 32, considere o apresentado em Brunner & Suddarth: tratado de enfermagem médico-cirúrgica (2023).\nA prescrição médica para um paciente adulto, com diagnóstico de colite ulcerativa, inclui a administração de nutrição parenteral (NP). Considere os aspectos relacionados à assistência de enfermagem ao paciente em uso de NP e assinale a alternativa correta.",
+  "alts": [
+   "Devido ao elevado risco de infecção, o uso de cateter venoso central de inserção periférica (CCIP) está contraindicado para a administração de NP.",
+   "A administração da NP lentamente é a principal causa de hipoglicemia de rebote.",
+   "O uso de medicamento trombolítico está contraindicado para a desobstrução quando constatado que o acesso do cateter está coagulado.",
+   "As soluções de nutrição parenteral devem ser iniciadas lentamente e avançadas gradualmente, a cada hora, até a velocidade desejada, o que deve ocorrer em 24 horas.",
+   "O monitoramento da glicemia e da glicosúria, do débito urinário e a avaliação do paciente quanto à presença de torpor, confusão mental e letargia são medidas de prevenção de hiperglicemia."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 15ª ed. (2023), nutrição parenteral",
+  "coment": "A nutrição parenteral é hipertônica e rica em glicose; a hiperglicemia é a complicação metabólica mais comum. Monitorar glicemia, glicosúria e diurese (a diurese osmótica é sinal precoce) e observar torpor, confusão e letargia são as medidas de prevenção. A infusão começa devagar e avança gradualmente, dia a dia, conforme a tolerância a líquidos e glicose, e não hora a hora. A hipoglicemia de rebote vem da interrupção abrupta. O PICC é acesso habitual para nutrição parenteral, e cateter ocluído por coágulo pode ser desobstruído com trombolítico prescrito.",
+  "porAlt": [
+   "Errada: o cateter central de inserção periférica é acesso usual para nutrição parenteral, não contraindicado.",
+   "Errada: a hipoglicemia de rebote decorre da suspensão abrupta da infusão, não da administração lenta.",
+   "Errada: o trombolítico prescrito, como a alteplase, é justamente o recurso para desobstruir cateter ocluído por coágulo.",
+   "Errada: o avanço é gradual ao longo dos dias, conforme a tolerância a líquidos e glicose, e não a cada hora até 24 horas.",
+   "Correta: glicemia, glicosúria, débito urinário e nível de consciência são os parâmetros que previnem e detectam a hiperglicemia."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A prescrição médica para um paciente adulto internado na unidade de terapia intensiva em pós-operatório de cirurgia ortopédica de grande porte inclui a administração de heparina de baixo peso molecular (HBPM) para a prevenção do tromboembolismo. Em relação à administração desse medicamento, o enfermeiro deve considerar que",
+  "alts": [
+   "o seu uso deve ser suspenso na presença de sinais sugestivos de insuficiência renal.",
+   "a principal via de administração é a intramuscular.",
+   "age promovendo a lise e dissolução do coágulo.",
+   "hemorragias, hematomas, bradicardia e hipotensão são os principais efeitos colaterais observados.",
+   "em caso de sobredosagem, deve ser administrado sulfato de protamina para reverter seus efeitos."
+  ],
+  "gab": 4,
+  "tema": "farmaco",
+  "sub": "Insulinas e anticoagulantes",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 15ª ed. (2023), profilaxia do tromboembolismo venoso",
+  "coment": "A heparina de baixo peso molecular, como a enoxaparina, é aplicada por via subcutânea no abdome, sem aspirar e sem massagear. Ela potencializa a antitrombina e inibe sobretudo o fator Xa: previne a formação e a extensão do coágulo, mas não o dissolve. Na sobredosagem ou no sangramento, o antídoto é o sulfato de protamina, que neutraliza a heparina não fracionada por completo e a de baixo peso apenas em parte. A insuficiência renal exige ajuste de dose e vigilância, porque a droga tem eliminação renal, e não suspensão automática. O efeito adverso principal é o sangramento; a trombocitopenia também é vigiada.",
+  "porAlt": [
+   "Errada: na insuficiência renal a dose é ajustada e o paciente vigiado; a suspensão não é regra automática.",
+   "Errada: a via é subcutânea; a intramuscular é evitada pelo risco de hematoma.",
+   "Errada: a heparina impede a formação e a extensão do trombo, mas não lisa o coágulo, papel dos trombolíticos.",
+   "Errada: o efeito adverso principal é o sangramento, com hematoma e trombocitopenia; bradicardia e hipotensão não são típicas.",
+   "Correta: o sulfato de protamina é o antídoto e reverte, ao menos em parte, o efeito da heparina de baixo peso molecular."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "G.G., 1º tenente QCO enfermeiro, atua no atendimento pré-hospitalar de pacientes politraumatizados, com queimaduras extensas e em parada cardiorrespiratória, entre outras condições críticas. Uma vez que na impossibilidade de obtenção de acesso venoso periférico, a via intraóssea é a opção recomendada para a reposição volêmica e a administração de drogas, ao realizar a punção óssea ou acompanhar a realização desse procedimento, o enfermeiro deve considerar que",
+  "alts": [
+   "não deve ser realizada em crianças com menos de 6 anos de idade.",
+   "deve ser utilizada uma agulha hipodérmica 50 x 12, montada em seringa com 5 mL de soro fisiológico 0,9%.",
+   "a tíbia anterior constitui uma das opções de local para punção em adultos e crianças.",
+   "soluções isotônicas cristaloides não podem ser infundidas por via intraóssea.",
+   "a agulha deve ser inserida, no local escolhido para punção, em angulação de 45º, com movimentos rotatórios até perceber que o córtex ósseo foi rompido."
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Atendimento pré-hospitalar",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "PHTLS: Atendimento Pré-hospitalar ao Traumatizado, 8ª ed. (2017); Protocolos de Intervenção para o SAMU 192 (MS, 2016)",
+  "coment": "A via intraóssea é a alternativa quando o acesso venoso periférico falha, em crianças e adultos, e funciona como uma veia que não colapsa: aceita cristaloides, sangue e drogas de reanimação. A tíbia proximal, na face anteromedial abaixo da tuberosidade, é sítio clássico nas duas faixas etárias; úmero proximal e tíbia distal são alternativas. Usa-se agulha intraóssea própria, manual ou com dispositivo de inserção, introduzida perpendicular ao osso até perder a resistência, e não agulha hipodérmica. A idade não contraindica; fratura no osso, infecção local e punção prévia no mesmo osso, sim.",
+  "porAlt": [
+   "Errada: a via intraóssea é usada também em lactentes e crianças pequenas, e foi nelas que se popularizou.",
+   "Errada: a punção usa agulha intraóssea própria, com mandril, e não agulha hipodérmica montada em seringa.",
+   "Correta: a tíbia proximal, na face anterior, é sítio de punção intraóssea tanto em adultos quanto em crianças.",
+   "Errada: cristaloides isotônicos, sangue e drogas de reanimação podem ser infundidos pela via intraóssea.",
+   "Errada: a agulha é introduzida perpendicular à superfície óssea, e não em ângulo de 45 graus."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Gestante, acompanhada pelo marido, procurou uma unidade de pronto atendimento de uma maternidade relatando não estar sentindo os movimentos fetais. Durante o acolhimento, o enfermeiro constatou que a idade gestacional era de 23 2/7 semanas e há cerca de 10 horas não percebia movimentos fetais. Obteve, entre outros dados objetivos, temperatura axilar = 36,9 ºC, frequência respiratória = 19 movimentos/minuto, frequência cardíaca = 88 batimentos/minuto, pressão arterial = 128 x 82 mmHg. Uma vez que não foram informadas ou observadas outras intercorrências obstétricas ou traumas, de acordo com as orientações contidas no Manual de acolhimento e classificação de risco em obstetrícia (MS, 2017), com base no Protocolo de Manchester, o enfermeiro deve identificar a gestante com a cor",
+  "alts": [
+   "vermelha.",
+   "laranja.",
+   "azul.",
+   "verde.",
+   "amarela."
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Classificação de risco",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Manual de Acolhimento e Classificação de Risco em Obstetrícia (MS, 2017)",
+  "coment": "O manual de 2017 adapta a lógica de Manchester à obstetrícia, com fluxogramas por queixa. Na queixa de ausência ou diminuição de movimentos fetais, a prioridade sobe quando há sinais de gravidade materna ou fetal (alteração de sinais vitais, sangramento, perda de líquido, dor, trauma) ou quando a ausência de movimentos ultrapassa 12 horas. A gestante tem 23 semanas, sinais vitais normais, nenhuma intercorrência e 10 horas sem perceber o feto: sem discriminador de urgência, recebe verde, pouco urgente, com escuta da queixa e ausculta dos batimentos fetais na sequência. Vermelho e laranja exigem risco imediato; azul é reservado a demanda não urgente.",
+  "porAlt": [
+   "Errada: vermelho é emergência com risco imediato à vida, como choque, convulsão ou parada, ausentes no caso.",
+   "Errada: laranja exige discriminador de muita urgência, como sinais vitais alterados ou sangramento importante, que não existem aqui.",
+   "Errada: azul é para atendimento não urgente, sem queixa obstétrica aguda; ausência de movimentos fetais não entra nessa cor.",
+   "Correta: sem sinais de gravidade e com ausência de movimentos por menos de 12 horas, a gestante é classificada como verde.",
+   "Errada: amarelo pediria discriminador de urgência, como ausência de movimentos por mais de 12 horas, o que não é o caso."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considere as recomendações do Ministério da Saúde contidas em Protocolos de Intervenção para o SAMU 192 – Serviço de Atendimento Móvel de Urgência (2016) em relação ao atendimento pré-hospitalar de vítimas apresentando queimaduras extensas por calor e assinale a alternativa correta.",
+  "alts": [
+   "A intubação orotraqueal está indicada quando houver edema de face +/4+.",
+   "É necessário registrar precisamente e informar à equipe hospitalar o volume administrado para hidratação do paciente, pois utilizando-se a Fórmula de Parkland, 50% do volume calculado deve ser administrado nas primeiras 8 horas e 50% nas 16 horas seguintes.",
+   "O uso de ringer lactato (RL) é contraindicado para a reposição da volemia no atendimento pré-hospitalar.",
+   "A ferida deve ser irrigada e limpa com solução aquosa de clorexidina a 1% ou, na falta dessa, solução de PVPI degermante, com 0,1% de iodo ativo.",
+   "Nas queimaduras que abranjam mais de 10% da superfície corpórea devem ser instalados dois acessos venosos periféricos calibrosos, preferencialmente em área não queimada."
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Queimaduras",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Protocolos de Intervenção para o SAMU 192, Suporte Avançado de Vida (MS, 2016), queimaduras",
+  "coment": "Na queimadura extensa, a reposição pela fórmula de Parkland calcula 4 mL de Ringer lactato por kg por porcentagem de superfície corporal queimada nas primeiras 24 horas: metade nas primeiras 8 horas contadas a partir do momento da queimadura, e metade nas 16 horas seguintes. Por isso o volume já infundido no pré-hospitalar é registrado e informado ao hospital, que desconta o que já entrou. O Ringer lactato é o cristaloide de escolha, a ferida é resfriada e coberta com material limpo e seco, sem antisséptico, e o acesso calibroso fica de preferência em pele não queimada. A intubação se indica por sinais de lesão inalatória e comprometimento da via aérea.",
+  "porAlt": [
+   "Errada: a intubação se indica por sinais de lesão inalatória ou obstrução da via aérea, e não por uma graduação de edema facial como a citada.",
+   "Correta: o volume infundido é registrado e informado, porque Parkland prevê metade nas primeiras 8 horas e metade nas 16 horas seguintes.",
+   "Errada: o Ringer lactato é o cristaloide de escolha na reposição do queimado, não contraindicado.",
+   "Errada: no pré-hospitalar a ferida é resfriada com soro ou água e coberta com material limpo e seco; não se aplicam antissépticos.",
+   "Errada: o corte de 10% não é o do protocolo, que reserva a hidratação venosa vigorosa às queimaduras de maior extensão."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente, sexo masculino, 22 anos, com diagnóstico de leucemia, foi admitido na unidade de oncologia para se submeter ao preparo e transplante singênico de medula óssea. Frente a esse paciente, segundo Bonassa e cols (2022), o enfermeiro deve considerar que a fonte para a obtenção das células para o transplante (FOCT), as principais complicações agudas (C), advindas do regime de condicionamento do paciente que associa a radioterapia à quimioterapia e as respectivas intervenções de enfermagem (IE), são",
+  "alts": [
+   "FOCT = doador histocompatível; C = mucosite; IE = bochechos com soro fisiológico 0,9% ou enxaguantes bucais, morno.",
+   "FOCT = irmão gêmeo idêntico; C = mucosite; IE = bochechos com soro fisiológico 0,9% gelado ou frio.",
+   "FOCT = bancos de cordão umbilical; C = diarreia; IE = higiene rigorosa das regiões perineal e perianal, para prevenção de lesões da pele local.",
+   "FOCT = irmão gêmeo idêntico; C = diarreia; IE = manter paciente em jejum e solicitar avaliação médica para introdução de nutrição parenteral.",
+   "FOCT = bancos de cordão umbilical; C = náuseas e vômitos; ICE = registro rigoroso do balanço hídrico."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Bonassa EMA e cols., Enfermagem em Terapêutica Oncológica (2022); MASCC/ISOO, diretriz de mucosite (2020)",
+  "coment": "Transplante singênico é aquele em que o doador é o irmão gêmeo idêntico, geneticamente igual ao receptor; no alogênico o doador é outro indivíduo histocompatível, aparentado ou não, ou o sangue de cordão; no autólogo, o próprio paciente. O condicionamento com quimioterapia em altas doses associada à irradiação corporal lesa as células de divisão rápida, e a mucosite oral é a complicação aguda mais frequente. Bochechos frios ou gelados e crioterapia oral reduzem o fluxo sanguíneo local e a exposição da mucosa aos citotóxicos; a MASCC/ISOO apoia crioterapia no melfalano em dose alta e fotobiomodulação no transplante, além de protocolo de higiene oral.",
+  "porAlt": [
+   "Errada: doador histocompatível não gêmeo define o transplante alogênico, e o bochecho morno não tem o efeito vasoconstritor do frio.",
+   "Correta: no singênico o doador é o gêmeo idêntico, a mucosite é a complicação aguda típica e o bochecho frio ou gelado protege a mucosa.",
+   "Errada: o sangue de cordão é fonte de transplante alogênico, não singênico.",
+   "Errada: a fonte está certa, mas jejum não é conduta para diarreia do condicionamento; mantém-se hidratação e avaliação nutricional.",
+   "Errada: o cordão umbilical não é fonte de transplante singênico, e o balanço hídrico não é a intervenção específica para náuseas."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Bonassa e cols (2022) ressaltam a importância de, ao administrar tratamento quimioterápico com drogas vesicantes por via endovenosa periférica, o enfermeiro deve adotar medidas de prevenção do extravasamento, tais como",
+  "alts": [
+   "checar o retorno venoso, pelo menos a cada 2 mL de medicamento administrado, por meio de leve tração do êmbolo da seringa.",
+   "dar preferência às veias localizadas na fossa cubital, por serem mais calibrosas e acessíveis visualmente.",
+   "a técnica do pinçamento do equipo é o método mais indicado para verificação do retorno venoso ao ser administrada uma droga vesicante.",
+   "administrar o medicamento em infusão contínua, por no máximo 60 minutos, quando utilizado acesso através de cateter periférico de curta permanência.",
+   "utilizar, preferencialmente, o método de “duas seringas”, cada uma delas com 10 a 20 mL de soro fisiológico 0,9%, uma delas para checar o vaso puncionado e a outra para “lavar a veia” após a aplicação do medicamento."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Bonassa EMA e cols., Enfermagem em Terapêutica Oncológica (2022); ESMO-EONS, extravasamento de quimioterápicos (2012)",
+  "coment": "A prevenção do extravasamento de vesicantes é tarefa de enfermagem: veia calibrosa e íntegra no antebraço, longe de articulações e do dorso da mão, sem punção recente acima no mesmo membro; refluxo confirmado antes e durante a aplicação; vesicante em bolus com vigilância contínua e orientação do paciente para avisar ardor, dor ou inchaço. Bonassa orienta testar o retorno venoso por leve tração do êmbolo a cada pequeno volume, cerca de 2 mL. Infusão contínua de vesicante não se faz por cateter periférico. A fossa cubital é evitada porque o extravasamento ali passa despercebido e lesa tendões e nervos.",
+  "porAlt": [
+   "Correta: checar o refluxo por leve tração do êmbolo a cada cerca de 2 mL confirma que a agulha continua dentro da veia.",
+   "Errada: a fossa cubital é evitada, porque extravasamento na articulação é difícil de notar e lesa estruturas nobres.",
+   "Errada: a referência não elege o pinçamento do equipo como o melhor teste de refluxo para vesicante.",
+   "Errada: vesicante em infusão contínua não deve correr por cateter periférico de curta permanência.",
+   "Errada: a técnica de duas seringas não é a preferencial na referência; o essencial é testar o refluxo repetidamente durante a aplicação."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as Diretrizes da American Heart Association 2023, após o êxito nas manobras de ressuscitação cardiopulmonar aplicadas em um adulto com agravo clínico, durante o controle de temperatura pós-PCR, deve-se selecionar e manter uma temperatura constante entre",
+  "alts": [
+   "35,5 ºC e 37,5 ºC.",
+   "32 ºC e 34 ºC.",
+   "32 ºC e 37,5 ºC.",
+   "35 ºC e 37 ºC.",
+   "34 ºC e 37 ºC."
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes da American Heart Association de RCP e ACE, atualização de 2023 e Parte 11 das Diretrizes AHA 2025",
+  "coment": "A atualização da AHA de 2023 manteve o controle direcionado de temperatura para o adulto que não obedece a comandos após o retorno da circulação: escolher e manter uma temperatura constante entre 32 °C e 37,5 °C. As Diretrizes AHA 2025 conservam a faixa e acrescentam que ela deve durar pelo menos 36 horas, com prevenção ativa de febre depois. As outras metas pós-parada são saturação de 90% a 98%, PAM de pelo menos 65 mmHg e ECG de 12 derivações precoce. A faixa antiga de 32 °C a 36 °C (2015) aparece nas alternativas para confundir.",
+  "porAlt": [
+   "Errada: a faixa começa em 32 °C; limitar a 35,5 °C exclui a hipotermia moderada que a diretriz admite.",
+   "Errada: 32 °C a 34 °C era a hipotermia terapêutica antiga; a diretriz amplia o limite superior até 37,5 °C.",
+   "Correta: a AHA 2023, mantida em 2025, recomenda temperatura constante entre 32 °C e 37,5 °C.",
+   "Errada: o limite inferior aceito é 32 °C e o superior é 37,5 °C, não 35 °C e 37 °C.",
+   "Errada: a faixa recomendada vai de 32 °C a 37,5 °C, e não de 34 °C a 37 °C."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Indivíduo, sexo masculino, aparentando 30 anos, vítima de queda de escada, com 4 metros de altura, transportado por unidade do SAMU, foi admitido na sala de emergência fazendo uso de cânula endotraqueal, apresentando escala de coma de Glasgow-pupilas (ECGI-p) = 7, com pupilas anisocóricas, midriática à direita, sem reação fotomotora. Os dados apresentados sugerem a ocorrência de lesão cerebral ________ e, entre outros cuidados, o enfermeiro deve estar atento ao desenvolvimento do Fenômeno de Cushing, que se caracteriza pela combinação de ________.\nAssinale a alternativa que completa, correta e respectivamente, a afirmação",
+  "alts": [
+   "da ponte ... hipertensão e hiperglicemia",
+   "de ponte ... pressão arterial muito aumentada e bradicardia",
+   "da porção ventral mesencefálica ... queda acentuada da pressão arterial e bradicardia",
+   "por herniação do uncus ... hipertensão e hiperglicemia",
+   "por herniação do uncus ... pressão arterial muito aumentada e bradicardia"
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 15ª ed. (2023), hipertensão intracraniana",
+  "coment": "Glasgow muito baixo com anisocoria e pupila midriática arreativa de um lado após trauma de crânio sugere herniação transtentorial do uncus: o lobo temporal desloca-se e comprime o nervo oculomotor do mesmo lado, que perde o controle da constrição pupilar. O fenômeno de Cushing é a resposta tardia ao aumento da pressão intracraniana: hipertensão arterial sistólica intensa, com pressão de pulso alargada, bradicardia e alteração do padrão respiratório. É sinal de piora crítica, comunicado de imediato. O Glasgow-P subtrai do escore o número de pupilas que não reagem.",
+  "porAlt": [
+   "Errada: a anisocoria com midríase unilateral aponta herniação do uncus, e o Cushing não se define por hiperglicemia.",
+   "Errada: o quadro não localiza lesão de ponte, que dá pupilas puntiformes, embora a segunda lacuna esteja certa.",
+   "Errada: o Cushing cursa com pressão arterial muito elevada, e não com queda acentuada.",
+   "Errada: a localização está certa, mas o Cushing combina hipertensão com bradicardia, e não com hiperglicemia.",
+   "Correta: midríase unilateral arreativa indica herniação do uncus, e o fenômeno de Cushing une hipertensão intensa e bradicardia."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A pneumonia associada à ventilação mecânica (PAVM) é definida, como aquela que ocorre ________ horas após intubação endotraqueal e utilização de ventilador mecânico, mas não parecia estar incubada na admissão do paciente no hospital, e a implementação de intervenções de enfermagem como a ________, que em conjunto com outras medidas, propicia a redução da incidência dessa complicação.\nAssinale a alternativa que completa, correta e respectivamente, a afirmação.",
+  "alts": [
+   "24 ... manutenção do paciente em decúbito lateral",
+   "36 ... higiene oral com clorexidina 0,5%",
+   "12 e 24 ... elevação da cabeceira do leito de 30 a 45º",
+   "48 e 72 ... higiene oral com clorexidina 0,12%",
+   "24 e 48 ... elevação da cabeceira do leito de 15 a 30º"
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Prevenção de pneumonia e infecção de cateter",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, 2ª ed. (2017)",
+  "coment": "A PAV é a pneumonia que surge 48 horas ou mais após a intubação e o início da ventilação mecânica, sem estar incubada na admissão; a vigilância da ANVISA exige ventilação por mais de dois dias consecutivos. Entre as medidas do pacote estão cabeceira elevada entre 30° e 45°, interrupção diária da sedação, aspiração subglótica e higiene oral com clorexidina 0,12%, concentração de uso oral. A SHEA 2022 passou a recomendar escovação dentária sem clorexidina oral de rotina, mas a questão cita o padrão da ANVISA, que segue no caderno brasileiro. Decúbito lateral e cabeceira de 15° a 30° não são medidas do pacote.",
+  "porAlt": [
+   "Errada: a PAV se conta a partir de 48 horas, e o decúbito lateral não é medida do pacote.",
+   "Errada: 36 horas não é o marco temporal, e a clorexidina oral usada é a 0,12%, não a 0,5%.",
+   "Errada: 12 a 24 horas é cedo demais para definir PAV, embora a cabeceira de 30° a 45° seja medida correta.",
+   "Correta: a PAV é a que ocorre após 48 horas de ventilação, e a higiene oral com clorexidina 0,12% integra o pacote da ANVISA.",
+   "Errada: a cabeceira recomendada é de 30° a 45°, e 24 horas não basta para caracterizar PAV."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O enfermeiro tem um importante papel na detecção precoce da sepse, o que é fundamental para o tratamento adequado e maiores chances de cura do paciente. Para tal, deve conhecer o pacote de cuidados da 1ª hora que inclui, entre outras ações,",
+  "alts": [
+   "iniciar a administração rápida de cristaloide, 30 mL/Kg, em pacientes com hipotensão ou lactato acima de duas vezes o valor de referência.",
+   "coletar 2 amostras de lactato sérico: a primeira imediatamente após estabelecida a suspeita de sepse e a segunda entre 45 e 60 minutos após a 1ª coleta, para confirmação da hiperlactatemia.",
+   "coletar hemocultura em locais diferentes, no máximo até 30 minutos após o início da antibioticoterapia.",
+   "puncionar dois acessos periféricos calibrosos em substituição ao(s) acesso(s) já existente(s), eliminando-o(s).",
+   "coletar e enviar pontas de cateteres e sondas que foram substituídos, para cultura e antibiograma."
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Surviving Sepsis Campaign, diretriz de 2026; Instituto Latino-Americano de Sepse, protocolo do pacote da 1ª hora",
+  "coment": "O pacote da primeira hora reúne lactato, hemoculturas antes do antimicrobiano, antimicrobiano de amplo espectro, cristaloide e vasopressor quando necessário. Na hipotensão ou com lactato acima de duas vezes o valor de referência (marca de hipoperfusão), inicia-se cristaloide rápido, 30 mL/kg; a Surviving Sepsis 2026 mantém pelo menos 30 mL/kg nas primeiras 3 horas na hipoperfusão e sugere solução balanceada. O lactato é repetido para guiar a ressuscitação, não para confirmar o diagnóstico. As hemoculturas, duas amostras de sítios diferentes, são colhidas antes do antibiótico, sem atrasá-lo. Não se trocam acessos funcionantes nem se cultivam pontas de rotina.",
+  "porAlt": [
+   "Correta: hipotensão ou lactato acima de duas vezes o normal indicam cristaloide rápido de 30 mL/kg no pacote da 1ª hora.",
+   "Errada: a segunda dosagem de lactato serve para guiar a ressuscitação quando o primeiro está elevado, não para confirmar a hiperlactatemia em 45 a 60 minutos.",
+   "Errada: as hemoculturas são colhidas antes do antimicrobiano; depois dele a positividade cai.",
+   "Errada: acesso venoso funcionante não é retirado; puncionam-se acessos adicionais se necessário.",
+   "Errada: cultura de pontas de cateter e sonda não faz parte do pacote e só se pede com suspeita de infecção do dispositivo."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em breve ocorrerá um exercício militar conjunto das forças armadas, e o capitão QCO enfermeiro recebeu a missão de coordenar e desenvolver o treinamento do contingente de enfermagem convocado para integrar as equipes de resgate e tratamento simulado de feridos. Considerando-se que a avaliação da vítima de trauma deve envolver o conhecimento da cinemática, ao discutir a assistência às vítimas de explosão, o capitão enfermeiro deve esclarecer que, de acordo com o apresentado em “PHTLS: Atendimento Pré-hospitalar ao Traumatizado” (2017), existem cinco categorias de lesões provocadas por explosão. Na categoria",
+  "alts": [
+   "Terciária, as lesões são produzidas pelo contato da onda de explosão com o corpo. Os órgãos preenchidos por gás são mais suscetíveis. A ruptura da membrana timpânica, a concussão e a explosão do pulmão são lesões típicas.",
+   "Quaternária, as lesões, resultantes de aditivos específicos como radiações ou bactérias, em caso de danos em estruturas contaminadas, são tardias. Queimaduras e intoxicações compõem as lesões típicas.",
+   "Quinária, as lesões são resultantes da exposição a danos em grandes estruturas, tais como barragens, represas e edifícios. Afogamento, obstrução grave de vias aéreas e síndrome compartimental são lesões típicas.",
+   "Secundária, observa-se lesões balísticas produzidas por pedaços de explosivos ou fragmentos do ambiente como, por exemplo, vidros. As lesões penetrantes, amputações traumáticas e lacerações são lesões típicas.",
+   "Primária, a onda de explosão ejeta indivíduos em direção a superfícies ou objetos em direção a indivíduos. As lesões fechadas e a síndrome do esmagamento são lesões típicas."
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "PHTLS: Atendimento Pré-hospitalar ao Traumatizado, 8ª ed. (2017), lesões por explosão",
+  "coment": "O PHTLS divide as lesões por explosão em cinco categorias. Primária: efeito direto da onda de pressão, que atinge órgãos com gás (tímpano, pulmão, intestino) e causa concussão. Secundária: fragmentos lançados, do artefato ou do ambiente (vidro, metal), com lesões penetrantes, lacerações e amputações. Terciária: o corpo é arremessado contra objetos ou estruturas, com trauma fechado e penetrante. Quaternária: demais lesões, como queimaduras, esmagamento por desabamento e inalação tóxica. Quinária: aditivos do artefato, como radiação, bactérias ou químicos. A única descrição que casa com o nome é a da secundária.",
+  "porAlt": [
+   "Errada: o efeito direto da onda sobre órgãos com gás define a lesão primária, e não a terciária.",
+   "Errada: aditivos como radiação e bactérias definem a quinária; a quaternária reúne queimaduras, esmagamento e intoxicação.",
+   "Errada: o desabamento de estruturas entra na quaternária; a quinária se refere aos aditivos do artefato.",
+   "Correta: na secundária, fragmentos do explosivo ou do ambiente produzem lesões penetrantes, lacerações e amputações.",
+   "Errada: o arremesso da vítima contra objetos define a terciária; a primária é o efeito direto da onda de pressão."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considere os diferentes aspectos relacionados à diabete melito na gestação e assinale a alternativa correta.",
+  "alts": [
+   "A automonitorização da glicemia capilar, por glicosímetro, fita reagente e punção em ponta de dedo, é o método mais utilizado para avaliar os níveis glicêmicos na gestação, e as gestantes em uso de insulina devem traçar seu perfil diariamente, com três momentos de monitorização: em jejum, 60 minutos após o almoço e 60 minutos após o jantar.",
+   "As gestantes com diabete melito devem ser orientadas que, de acordo com as Diretrizes da Sociedade Brasileira de Diabetes (2023), o controle da glicemia tem como meta alcançar e manter os seguintes níveis de glicemia: pré-prandial entre 65-95 mg/dL, 1 h pós-prandial menor que 140 mg/dL e 2 h pós-prandial menor que 120 mg/dL.",
+   "Para gestantes com glicemia de jejum maior ou igual a 92 mg/dL no 1º trimestre, deve ser solicitada a realização do teste oral de tolerância à glicose (TOTG) com 75 g, entre a 20ª e 24ª semana de gestação, com avaliação da glicemia de jejum (GJ), após 1 hora (G1h) e 2 horas (G2h).",
+   "As medidas não farmacológicas, incluindo a adequação nutricional e a prática de exercícios, bem como o tratamento farmacológico com antidiabéticos orais, como a metformina e glibenclamida, devem ser instituídas logo após o diagnóstico de diabete melito gestacional.",
+   "A gestação normal é caracterizada por aumento da secreção de insulina materna e queda nos valores de glicose no jejum. Com o passar da gestação, o aumento na resistência à insulina evolui ficando bem definido na 16ª semana e, caso o pâncreas materno não consiga responder às demandas na produção de insulina, instala-se a hiperglicemia materna."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretriz da Sociedade Brasileira de Diabetes, edição 2023, diabetes na gestação; Manual de Gestação de Alto Risco (MS, 2022)",
+  "coment": "A SBD 2023 fixa como alvos na gestação glicemia de jejum e pré-prandial de 65 a 95 mg/dL, 1 hora pós-prandial abaixo de 140 mg/dL e 2 horas pós-prandial abaixo de 120 mg/dL, evitando hipoglicemia. A gestante em insulina monitora vários pontos por dia, em jejum, antes e após as refeições, e não só três. Glicemia de jejum de 92 mg/dL ou mais no primeiro trimestre já fecha diabetes gestacional, sem TOTG; o TOTG de 75 g é feito entre 24 e 28 semanas. O tratamento começa por dieta e atividade física, e o fármaco entra se as metas não forem atingidas em cerca de duas semanas, com a insulina como primeira escolha.",
+  "porAlt": [
+   "Errada: a gestante em insulina monitora mais pontos, em jejum e antes e depois das principais refeições, e não apenas três momentos.",
+   "Correta: são as metas da SBD 2023: pré-prandial de 65 a 95, 1 hora abaixo de 140 e 2 horas abaixo de 120 mg/dL.",
+   "Errada: jejum de 92 mg/dL ou mais no 1º trimestre já é diagnóstico de diabetes gestacional, e o TOTG é feito entre 24 e 28 semanas.",
+   "Errada: o fármaco só entra se as medidas não farmacológicas falharem, e a primeira escolha é a insulina.",
+   "Errada: a resistência à insulina se acentua na segunda metade da gestação, e não fica bem definida já na 16ª semana."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Define-se hemorragia pós-parto (HPP) como perda sanguínea acima de ________ após parto vaginal, ou acima de ________, após a cesárea, em 24 horas, ou qualquer perda de sangue pelo trato genital capaz de causar instabilidade hemodinâmica. No Brasil, a Estratégia Zero Morte Materna por Hemorragia, adota como estratégia a estratificação de risco para HPP, que aplicada rotineiramente durante o pré-natal, o parto e o puerpério, permite identificar os grupos de maior risco (Ministério da Saúde, 2022). Assim sendo, no âmbito do processo de enfermagem, ao realizar a estratificação de risco para HPP, o enfermeiro deve considerar que gestantes com história de ________ devem ser classificadas como médio risco. Assinale a alternativa que completa, correta e respectivamente, a afirmação.",
+  "alts": [
+   "1 000 mL ... 500 mL ... história prévia de hemorragia obstétrica, uso de anticoagulantes orais",
+   "500 mL ... 1 000 mL ... pré-eclâmpsia leve, cesariana ou cirurgia uterina prévia, obesidade materna (IMC maior que 35 kg/m²)",
+   "500 mL ... 500 mL ... ausência de cicatriz uterina, mais de 3 partos normais, placenta de inserção baixa",
+   "1 000 mL ... 1 000 mL ... gestação múltipla, polidrâmnio, hipertensão arterial leve",
+   "1 000 mL ... 500 mL ... número de partos vaginais menor ou igual a 3, uso de anticoagulantes orais, placenta prévia"
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "OPAS, Recomendações assistenciais para prevenção, diagnóstico e tratamento da hemorragia obstétrica (2018); Estratégia Zero Morte Materna por Hemorragia (MS/OPAS, 2022)",
+  "coment": "A OPAS define hemorragia pós-parto como perda acima de 500 mL após parto vaginal ou acima de 1.000 mL após cesárea nas primeiras 24 horas, ou qualquer perda capaz de causar instabilidade hemodinâmica. A Estratégia Zero Morte Materna por Hemorragia estratifica o risco na admissão e em cada reavaliação. Cesárea ou cirurgia uterina prévia, pré-eclâmpsia leve e obesidade com IMC acima de 35 kg/m² estão entre os fatores de médio risco; uso de anticoagulante e placenta prévia pertencem ao alto risco. A profilaxia com ocitocina é universal, porque a maioria das hemorragias ocorre sem fator de risco.",
+  "porAlt": [
+   "Errada: os volumes estão invertidos (500 mL no parto vaginal, 1.000 mL na cesárea), e anticoagulante é fator de alto risco.",
+   "Correta: 500 mL no parto vaginal e 1.000 mL na cesárea, e pré-eclâmpsia leve, cirurgia uterina prévia e IMC acima de 35 são médio risco.",
+   "Errada: na cesárea o corte é 1.000 mL, e ausência de cicatriz uterina não é fator de risco.",
+   "Errada: no parto vaginal o corte é 500 mL, e não 1.000 mL.",
+   "Errada: os volumes estão invertidos, e placenta prévia e anticoagulante classificam como alto risco."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Manual de Atenção à Mulher no Climatério/Menopausa (MS, 2008), na perspectiva da promoção da saúde, ao conversar com as mulheres sobre alimentação saudável no climatério, o enfermeiro deve esclarecer que ________, por ser um potente antioxidante, diminui a degradação proteica e lipídica, reduz a ateromatose e fogachos, além de atuar na manutenção dos tecidos de sustentação e pele. Tem como fonte, entre outros alimentos ________.\nAssinale a alternativa que completa, correta e respectivamente, a afirmação.",
+  "alts": [
+   "o zinco ... cereais integrais, principalmente a aveia, vegetais verdes, levedura e gema de ovo",
+   "o cobre ... semente de linhaça e azeite de oliva",
+   "a vitamina D ... carne vermelha, frango, peixe, queijos, leite, manteiga, ovos",
+   "a vitamina K ... acerola, caju, goiaba, kiwi, laranja, pimentão e verduras em geral",
+   "a vitamina E ... abacate, gérmen de trigo, cereais integrais, castanhas, sementes e óleos vegetais"
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Planejamento reprodutivo",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Manual de Atenção à Mulher no Climatério/Menopausa (MS, 2008), alimentação saudável",
+  "coment": "O Manual do Climatério de 2008 apresenta os nutrientes com papel na saúde da mulher nessa fase. A vitamina E é antioxidante lipossolúvel: protege lipídios e proteínas da oxidação, o que o manual associa a menor ateromatose, alívio de fogachos e manutenção de pele e tecidos de sustentação. As fontes são abacate, gérmen de trigo, cereais integrais, castanhas, sementes e óleos vegetais. As outras alternativas trocam nutriente e fonte: frutas cítricas e acerola são fontes de vitamina C, e laticínios, peixes e ovos, de vitamina D e cálcio.",
+  "porAlt": [
+   "Errada: o zinco não é o antioxidante descrito no manual, e as fontes listadas não correspondem à definição do enunciado.",
+   "Errada: o cobre não é o nutriente descrito, e linhaça e azeite são lembrados por ácidos graxos, não como fontes de cobre.",
+   "Errada: a vitamina D atua no metabolismo do cálcio e do osso; as fontes listadas são proteicas e lácteas.",
+   "Errada: acerola, caju, goiaba, kiwi e laranja são fontes de vitamina C, e não de vitamina K.",
+   "Correta: a vitamina E é o antioxidante descrito, com fontes em abacate, gérmen de trigo, cereais integrais, castanhas, sementes e óleos."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente, 65 anos, sexo masculino, portador de diabete melito tipo 2 há 8 anos, em uso de hipoglicemiantes orais, foi admitido no centro cirúrgico para se submeter a cirurgia de grande porte. De acordo com as recomendações da Sociedade Brasileira de Diabetes (2023), considerando-se que “a hipoglicemia pode ser mascarada sob anestesia geral, e sua ocorrência pode resultar em danos neurológicos irreversíveis e em desfechos perioperatórios adversos, merecendo maiores cuidados durante a cirurgia”, no período intraoperatório, o enfermeiro deve estar atento à realização do controle glicêmico por meio da glicemia",
+  "alts": [
+   "venosa, apenas, a cada 30 minutos.",
+   "arterial ou venosa, apenas, a cada 1 hora.",
+   "arterial, apenas, a cada 30 minutos.",
+   "capilar, venosa ou arterial, a cada 2 horas.",
+   "capilar, venosa ou arterial, a cada 1 hora."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretriz da Sociedade Brasileira de Diabetes, edição 2023, manejo perioperatório",
+  "coment": "Sob anestesia geral o paciente não relata nem demonstra sintomas de hipoglicemia, e a resposta adrenérgica fica mascarada pelos anestésicos. Por isso a SBD 2023 recomenda monitorar a glicemia de hora em hora durante a cirurgia, aceitando amostra capilar, venosa ou arterial conforme a situação; na instabilidade hemodinâmica, no choque ou no uso de vasopressor, a amostra capilar perde precisão e prefere-se a venosa ou arterial. Antidiabéticos orais são em geral suspensos no dia da cirurgia, e a hiperglicemia é corrigida com insulina pelo protocolo.",
+  "porAlt": [
+   "Errada: a diretriz não restringe a amostra à venosa e fala em controle horário.",
+   "Errada: excluir a glicemia capilar não está na recomendação, que aceita capilar, venosa ou arterial.",
+   "Errada: a amostra arterial não é a única aceita, e o intervalo recomendado é de 1 hora.",
+   "Errada: os tipos de amostra estão certos, mas o intervalo de 2 horas é longo demais para o intraoperatório.",
+   "Correta: a SBD 2023 recomenda glicemia capilar, venosa ou arterial a cada 1 hora no intraoperatório."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considere as intervenções apresentadas a seguir.\nI. Manter o paciente em posição de recuperação, se não houver indícios de trauma.\nII. Administrar 40 mL de glicose a 50%, se glicemia capilar menor que 80 mg/dL.\nIII. Administrar diazepam 10 mg, por via endovenosa, em bolus.\nIV. Administrar tiamina 300 mg, por via intramuscular.\nDe acordo com os Protocolos de Intervenção para o SAMU 192 (2016), no atendimento pré-hospitalar, no domicílio de um indivíduo adulto, com restrição ao leito, portador de transtorno por uso de álcool, apresentando histórico, sinais e sintomas compatíveis com síndrome de abstinência de álcool, devem ser implementadas, entre outras ações, apenas as intervenções apresentadas em",
+  "alts": [
+   "II.",
+   "I, II e IV.",
+   "I, III e IV.",
+   "II e III.",
+   "I e IV."
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Álcool e outras drogas",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Protocolos de Intervenção para o SAMU 192, Suporte Avançado de Vida (MS, 2016), síndrome de abstinência alcoólica",
+  "coment": "No atendimento pré-hospitalar da abstinência alcoólica, o protocolo do SAMU prioriza segurança e via aérea: posição de recuperação se não houver suspeita de trauma, oxigênio se necessário, glicemia capilar e acesso venoso. O benzodiazepínico controla a hiperatividade autonômica e previne convulsões (diazepam 10 mg intravenoso), e a tiamina, intramuscular, previne a encefalopatia de Wernicke em quem tem desnutrição pelo álcool. A glicose hipertônica a 50% fica reservada à hipoglicemia, com limiar de glicemia mais baixo que os 80 mg/dL da afirmativa II, e de preferência depois da tiamina. Por isso o conjunto correto é I, III e IV.",
+  "porAlt": [
+   "Errada: a II sozinha não basta e usa um limiar de glicemia que não é o do protocolo.",
+   "Errada: inclui a II, cujo limiar de 80 mg/dL não é o da hipoglicemia do protocolo, e deixa de fora o diazepam.",
+   "Correta: posição de recuperação, diazepam 10 mg IV e tiamina IM são as intervenções do protocolo do SAMU listadas.",
+   "Errada: omite a posição de recuperação e a tiamina e inclui a glicose com limiar errado.",
+   "Errada: deixa de fora o benzodiazepínico, que é o tratamento central da abstinência."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Ao realizar a avaliação psicossocial de um indivíduo adulto, portador de distúrbio mental, o enfermeiro constatou e registrou que o paciente apresentava, entre outras alterações, afeto embotado (AE) e fuga de ideias (FI).\nAssinale a alternativa que apresenta corretamente o significado da terminologia utilizada pelo enfermeiro.",
+  "alts": [
+   "AE = manifestar ampla variedade de expressões emocionais; FI = quantidade e velocidade excessiva da fala, composta de ideias fragmentadas e não relacionadas.",
+   "AE = mostrar pouca expressão facial ou uma expressão facial de resposta lenta; FI = crença falsa fixa, sem base na realidade.",
+   "AE = manifestar ampla variedade de expressões emocionais; FI = crença falsa fixa, sem base na realidade.",
+   "AE = mostrar pouca expressão facial ou uma expressão facial de resposta lenta; FI = quantidade e velocidade excessiva da fala, composta de ideias fragmentadas e não relacionadas.",
+   "AE = mostrar um tipo de expressão normalmente sério ou sombrio; FI = rodear o tema e nunca fornecer a informação solicitada."
+  ],
+  "gab": 3,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "DSM-5-TR, Glossário de termos técnicos (American Psychiatric Association, 2022)",
+  "coment": "No exame do estado mental, afeto embotado é a expressão emocional muito reduzida: pouca mímica facial ou resposta facial lenta, comum na esquizofrenia e na depressão grave. Afeto plano é a ausência quase total de expressão, e afeto amplo, a variação normal. Fuga de ideias é alteração do curso do pensamento, típica da mania: fala rápida e abundante, com saltos entre ideias fragmentadas, ligadas por associações superficiais. Crença falsa e fixa sem base na realidade é delírio, alteração do conteúdo. Rodear o tema sem chegar à resposta é tangencialidade, ou circunstancialidade quando chega.",
+  "porAlt": [
+   "Errada: ampla variedade de expressões descreve afeto amplo, o normal, e não afeto embotado.",
+   "Errada: o afeto está certo, mas crença falsa fixa é delírio, e não fuga de ideias.",
+   "Errada: as duas definições estão trocadas: uma é afeto amplo, a outra é delírio.",
+   "Correta: embotado é pouca expressão facial ou resposta lenta, e fuga de ideias é fala rápida com ideias fragmentadas.",
+   "Errada: expressão sempre séria descreve afeto restrito, e rodear o tema é tangencialidade."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Quando existe a suspeita de hipertensão do avental branco (HAB), está indicada a medição residencial da pressão arterial (MRPA), método que permite o registro indireto e intermitente da pressão arterial durante 24 horas ou mais. Segundo recomendação contida na Linha de cuidado do adulto com hipertensão arterial sistêmica (MS, 2021), a MRPA deve ser realizada de acordo com protocolo específico que compreende a obtenção de",
+  "alts": [
+   "2 medições pela manhã, antes de sair da cama e 1 hora após a ingestão dos medicamentos e 2 à noite, antes do jantar, durante 3 dias.",
+   "3 medições diárias: uma pela manhã, antes do desjejum e da tomada da medicação; 1 após o almoço e 1 à noite, antes de dormir, durante 7 dias.",
+   "3 medições pela manhã, antes do desjejum e da tomada da medicação, e 3 à noite, antes do jantar, durante 5 dias.",
+   "5 medições diárias: 2 pela manhã, antes de sair da cama e 1 hora após tomar a medicação; 1 antes de praticar exercícios físicos (caminhada) e 2 à noite, antes do jantar e antes de dormir, durante 3 dias.",
+   "2 medições pela manhã, antes do desjejum e da tomada da medicação e 1 medição antes de dormir, durante 7 dias."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Linha de Cuidado do Adulto com Hipertensão Arterial Sistêmica (MS, 2021)",
+  "coment": "A MRPA é feita pelo paciente ou cuidador, com aparelho validado, seguindo protocolo fixo: três medidas pela manhã, antes do desjejum e da tomada da medicação, e três à noite, antes do jantar, por cinco dias, o que a linha de cuidado do MS de 2021 adota a partir das diretrizes brasileiras. Ela serve para identificar hipertensão do avental branco e hipertensão mascarada e para acompanhar o tratamento. O corte de normalidade fora do consultório é menor que o de consultório: valores a partir de 130/80 mmHg são considerados elevados. A automedida sem protocolo serve só de triagem.",
+  "porAlt": [
+   "Errada: o protocolo pede três medidas, não duas, e por cinco dias, não três.",
+   "Errada: as medidas não são distribuídas uma pela manhã, uma após o almoço e uma à noite por 7 dias.",
+   "Correta: três medidas pela manhã, antes do desjejum e da medicação, e três à noite, antes do jantar, por cinco dias.",
+   "Errada: o protocolo não inclui medida antes de exercício nem cinco medidas diárias por três dias.",
+   "Errada: não são duas medidas pela manhã e uma ao deitar por sete dias, e sim três e três por cinco dias."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando as características dos calçados que compõem alguns dos uniformes militares, enfermeiros estão elaborando material educativo contendo orientações sobre os cuidados com os pés para a prevenção de feridas, que será fornecido para indivíduos diabéticos. Esse material deverá conter orientações, tais como",
+  "alts": [
+   "usar, sempre que possível, meias com costura de dentro para fora.",
+   "utilizar apenas agentes químicos ou emplastros para remover calos.",
+   "aplicar cremes ou óleos hidratantes para pele seca, principalmente entre os dedos, para evitar fissuras.",
+   "cortar as unhas regularmente, aparando os cantos para mantê-las arredondadas, a fim de evitar que encravem.",
+   "realizar, semanalmente, a inspeção dos pés, incluindo as áreas entre os dedos em busca de lesões da pele."
+  ],
+  "gab": 0,
+  "tema": "feridas",
+  "sub": "Pé diabético e úlceras vasculares",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 15ª ed. (2023), cuidados com os pés no diabetes; IWGDF (2023)",
+  "coment": "A educação para prevenir úlcera no pé diabético visa a pele de quem perdeu a sensibilidade protetora e não percebe atrito. As meias devem ser sem costura ou usadas com a costura para fora, para que ela não roce a pele; calçados confortáveis são inspecionados por dentro antes de calçar. A inspeção dos pés é diária, com espelho se preciso, inclusive entre os dedos. O hidratante vai no dorso e na planta, nunca entre os dedos, onde a umidade macera e favorece fungo. As unhas são cortadas retas, sem arredondar cantos, e calos são tratados por profissional, sem calicidas, lâminas ou emplastros.",
+  "porAlt": [
+   "Correta: meias sem costura ou com a costura para fora evitam atrito sobre a pele do pé insensível.",
+   "Errada: agentes químicos e emplastros para calos são contraindicados, porque causam queimadura e úlcera.",
+   "Errada: o hidratante não se aplica entre os dedos, onde a umidade macera a pele e favorece micose.",
+   "Errada: as unhas são cortadas retas, sem aparar os cantos, justamente para não encravar.",
+   "Errada: a inspeção dos pés é diária, e não semanal."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considere o caso, hipotético, apresentado a seguir. Em 10.07.2024, ao realizar inspeção de saúde de X.Y., 3º sargento informou que havia sido diagnosticado e tratado para sífilis primária há 14 meses e que havia realizado os exames para acompanhamento, obtendo “resultados satisfatórios”. Considerando os dados obtidos na anamnese, embora o exame físico não mostre sinais da sífilis, foram solicitados, entre outros exames, VDRL, FTA-ABS IGG e sorologia (ELISA) para HIV.\nNo departamento de saúde, ao receber os resultados dos exames realizados por X.Y., o 1º tenente QCO enfermeiro constatou: sorologia para HIV negativa, VDRL: não reagente e FTA-Abs (IGG): reagente, FTA-Abs (IGM): não reagente. Ao analisar o prontuário, constatou que os resultados anteriores eram: (04.05.23 – momento do diagnóstico) VDRL 1:32; (08.08.23) VDRL 1:16; (04.11.2023) VDRL 1:8; (06.02.2024) VDRL 1:2; (02.05.2024) VDRL 1:2. Uma vez descartada exposição no período, no que diz respeito aos resultados obtidos para os exames VDRL e FTA-ABS, é correto afirmar que X.Y. apresenta",
+  "alts": [
+   "sífilis latente recente.",
+   "cicatriz sorológica.",
+   "reativação da sífilis.",
+   "sífilis latente tardia.",
+   "sífilis secundária."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis (MS, 2022)",
+  "coment": "Após tratamento adequado, o teste não treponêmico (VDRL) deve cair pelo menos duas diluições em até 6 meses na sífilis recente. Aqui o título foi de 1:32 a 1:8 em 6 meses e chegou a 1:2 e depois a não reagente, sem nova exposição. O teste treponêmico, como o FTA-Abs IgG, costuma permanecer reagente pelo resto da vida e não serve para seguimento nem para indicar atividade. Treponêmico reagente com não treponêmico não reagente ou em título baixo e estável, após tratamento e queda documentada, é cicatriz sorológica, que não pede novo tratamento. Reativação ou reinfecção exigiria aumento de duas diluições ou mais.",
+  "porAlt": [
+   "Errada: sífilis latente recente pede VDRL reagente sem tratamento prévio; aqui houve tratamento e queda até não reagente.",
+   "Correta: treponêmico reagente com VDRL não reagente após tratamento e queda adequada dos títulos caracteriza cicatriz sorológica.",
+   "Errada: reativação ou reinfecção se reconhece por aumento de duas diluições ou mais no VDRL, o oposto do observado.",
+   "Errada: latente tardia exige infecção não tratada há mais de um ano com VDRL reagente, o que não é o caso.",
+   "Errada: não há lesões de pele ou mucosa nem VDRL reagente que indiquem sífilis secundária."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A.A, 52 anos, sexo masculino, foi internado para realizar o exame de colonoscopia. Ao ser admitido na unidade, entre outros procedimentos, o enfermeiro esclareceu o paciente sobre o exame, sedação e procedimentos que seriam realizados, informou sobre a possibilidade de coleta de material para biópsia, caso indicado, respondeu a todas as perguntas feitas pelo paciente e confirmou a autorização para a realização do exame por meio de sua assinatura no Termo de Consentimento Livre e Esclarecido. Frente a essa situação, é correto afirmar que a conduta adotada está em consonância com o princípio de bioética de",
+  "alts": [
+   "confidencialidade.",
+   "benemerência.",
+   "não maleficência.",
+   "justiça.",
+   "autonomia."
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética dos Profissionais de Enfermagem); Beauchamp e Childress, Princípios de Ética Biomédica, 8ª ed. (2019)",
+  "coment": "Informar com clareza sobre o exame, a sedação e a possível biópsia, responder às dúvidas e obter a assinatura livre no Termo de Consentimento Livre e Esclarecido materializa o respeito à autonomia: a pessoa capaz decide sobre o próprio corpo a partir de informação suficiente. O Código de Ética de Enfermagem (Res. COFEN 564/2017) traz o dever de prestar informação adequada e de respeitar o direito da pessoa de decidir sobre sua saúde, tratamento e bem-estar. Beneficência é agir em favor do paciente; não maleficência, não causar dano; justiça, distribuir recursos com equidade; confidencialidade, guardar o que se soube.",
+  "porAlt": [
+   "Errada: confidencialidade diz respeito ao sigilo das informações, não ao consentimento para o exame.",
+   "Errada: beneficência é agir em favor do bem do paciente; o ato descrito é o respeito à decisão informada.",
+   "Errada: não maleficência é evitar dano, e o foco do enunciado é a escolha esclarecida do paciente.",
+   "Errada: justiça trata de distribuição equitativa de recursos e acesso.",
+   "Correta: informar, esclarecer dúvidas e obter o TCLE é a expressão do princípio da autonomia."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considere os diferentes aspectos relacionadas à vacina hepatite B recombinante e assinale a alternativa correta.",
+  "alts": [
+   "Nas centrais regionais, a vacina hepatite B recombinante deve ser armazenada em temperatura entre – 25 ºC e –15 ºC.",
+   "A realização de sorologia pós-vacinação é necessária apenas para profissionais de saúde e pacientes transplantados de células-tronco hematopoiéticas (TCTH).",
+   "Vítimas de violência sexual, que completaram o esquema vacinal contra hepatite B há mais de 10 anos, devem receber uma dose de reforço da vacina hepatite B recombinante.",
+   "A vacina hepatite B recombinante também protege o indivíduo contra infecção pelo vírus da hepatite D.",
+   "Deve-se considerar que a vacinação contra hepatite B foi eficaz quando, após a aplicação das três doses, o teste sorológico pós-vacinal do indivíduo apresenta Anti-HBe com titulação maior ou igual a 10 mUI/mL."
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS); Manual de Rede de Frio do PNI, 5ª ed. (2017)",
+  "coment": "A IN do Calendário Nacional de Vacinação 2026 diz que, ao conferir proteção contra o vírus da hepatite B, a vacina também protege contra o da hepatite D, porque este só infecta quem tem o vírus B. A vacina é recombinante adsorvida e se conserva entre +2 °C e +8 °C em todas as instâncias; congelar inativa o produto. A sorologia pós-vacinal (anti-HBs, com proteção a partir de 10 mUI/mL) é indicada a vários grupos, como profissionais de saúde, renais crônicos, pessoas com HIV e imunodeprimidos. Vacinado com esquema completo não recebe reforço por ter sofrido violência sexual.",
+  "porAlt": [
+   "Errada: a vacina hepatite B se conserva entre +2 °C e +8 °C; temperatura negativa a inativa.",
+   "Errada: a sorologia pós-vacinal é indicada também a renais crônicos, pessoas com HIV e outros imunodeprimidos.",
+   "Errada: quem tem esquema completo não recebe reforço após violência sexual, qualquer que seja o tempo desde a vacinação.",
+   "Correta: a IN 2026 afirma que a proteção contra a hepatite B também protege contra a hepatite D, que depende do vírus B.",
+   "Errada: o marcador de resposta vacinal é o anti-HBs, e não o anti-HBe."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No que diz respeito a prevenção, diagnóstico e tratamento da dengue na gestação e puerpério, a Federação Brasileira de Associações de Ginecologia e Obstetrícia recomenda",
+  "alts": [
+   "a realização da prova do laço na triagem de todas as gestantes e puérperas com suspeita de dengue, devendo ser considerada como resultado positivo a presença de 10 ou mais petéquias na área definida.",
+   "a aplicação de repelentes à base de Icaridina, DEET e “IR3535” em toda a área exposta da pele e, no caso de serem usadas roupas de tecidos finos, aplicar sobre a roupa, como medida de profilaxia contra a picada do Aedes aegypti.",
+   "que, nos serviços de saúde, gestantes e puérperas, apresentando algum sinal de alarme no momento do acolhimento com classificação de risco, devem ser identificadas com a cor vermelha.",
+   "o início da reposição volêmica imediata, por via endovenosa com soro fisiológico 0,9%, (10 mL/kg), para gestantes e puérperas até o 30º dia pós-parto, com dengue, sem sinais de alarme, mas com sangramento de pele espontâneo ou induzido pela prova do laço.",
+   "a ingestão de vitaminas do complexo B e o uso de repelentes à base de andiroba e citronela como medida complementar a outras medidas de prevenção da dengue, na fase de recuperação."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed. (MS, 2024); recomendações da FEBRASGO sobre dengue na gestação e no puerpério",
+  "coment": "A FEBRASGO recomenda à gestante repelentes com icaridina, DEET ou IR3535, seguros na gravidez, em toda a pele exposta e sobre roupas finas, além de roupas compridas e telas. Gestante e puérpera até o fim do puerpério são condição especial no manejo do MS: sem sinal de alarme ficam no grupo B, com hidratação oral, hemograma e reavaliação. Sinal de alarme leva ao grupo C, identificado pela cor amarela, com soro fisiológico 10 mL/kg na primeira hora; vermelho é o grupo D, com choque. A prova do laço é positiva no adulto com 20 ou mais petéquias. Andiroba e citronela não têm eficácia comprovada como repelente.",
+  "porAlt": [
+   "Errada: no adulto, a prova do laço é positiva com 20 ou mais petéquias; 10 ou mais é o corte da criança.",
+   "Correta: icaridina, DEET e IR3535 são os repelentes indicados, na pele exposta e sobre tecidos finos.",
+   "Errada: sinal de alarme coloca a paciente no grupo C, cor amarela; vermelho é reservado ao grupo D, com choque ou sangramento grave.",
+   "Errada: sem sinal de alarme e com sangramento de pele a paciente é grupo B, com hidratação oral e reavaliação, e não venosa imediata.",
+   "Errada: vitaminas do complexo B, andiroba e citronela não têm eficácia comprovada na prevenção da dengue."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O 1º tenente QCO enfermeiro atua no ambulatório de dermatologia, onde é realizado o diagnóstico e acompanhamento de casos de hanseníase. Ao orientar os pacientes adultos, com peso superior a 50 kg, recém-diagnosticados com hanseníase na forma multibacilar, deve esclarecer que, de acordo com o apresentado no Protocolo Clínico e Diretrizes Terapêuticas da Hanseníase (2022),",
+  "alts": [
+   "o tratamento tem a duração de 6 meses e, se realizado corretamente, conforme a prescrição, ocorrerá a cura da doença.",
+   "o esquema terapêutico compreende a ingestão de uma dose mensal supervisionada de clofazimina e dapsona e a ingestão diária, autoadministrada, de rifampicina, clofazimina e dapsona na dosagem prescrita.",
+   "em caso de gravidez, a mulher deverá procurar o médico imediatamente, pois devido aos efeitos colaterais dos medicamentos, o tratamento será interrompido no primeiro e segundo trimestres de gestação e retomado a partir do 3º trimestre.",
+   "a ingestão dos medicamentos, do tratamento supervisionado do autoadministrado, deve ser realizada junto com alimentos, para que seja evitado o desconforto gástrico.",
+   "a regressão das lesões dermatológicas da hanseníase, durante e após o uso da poliquimioterapia, é bastante variável, podendo levar meses ou anos para ocorrer."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Protocolo Clínico e Diretrizes Terapêuticas da Hanseníase (MS, 2022)",
+  "coment": "Pelo PCDT de 2022, o adulto multibacilar com mais de 50 kg recebe a PQT-U por 12 meses: 12 doses supervisionadas em até 18 meses. A dose mensal supervisionada é rifampicina 600 mg, clofazimina 300 mg e dapsona 100 mg; a diária autoadministrada, clofazimina 50 mg e dapsona 100 mg. A rifampicina não é diária. Gravidez não interrompe o tratamento. O paciente deve saber que a regressão das lesões é variável e pode levar meses ou anos depois da alta, e que manchas residuais e a pigmentação da clofazimina não significam falha. A cura é definida pelo número de doses, não pelo desaparecimento das lesões.",
+  "porAlt": [
+   "Errada: o multibacilar trata por 12 meses, com 12 doses; 6 meses é o esquema paucibacilar.",
+   "Errada: a rifampicina é só mensal e supervisionada; a dose diária em casa é de clofazimina e dapsona.",
+   "Errada: a PQT-U não é interrompida na gestação; o tratamento segue em todos os trimestres.",
+   "Errada: o PCDT não condiciona a tomada à refeição como regra do esquema; a orientação central é a regularidade das doses.",
+   "Correta: a regressão das lesões é bastante variável e pode levar meses ou anos, mesmo após a alta por cura."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em situações de catástrofes, como as enchentes ocorridas no primeiro semestre deste ano, militares das forças armadas, incluindo os do Exército, são destacados para atuar no resgate e na assistência às vítimas. Assim sendo, os expostos às águas de enchentes estão sob risco de contrair, entre outras doenças, a leptospirose. No que diz respeito à vigilância dos expostos, o enfermeiro deve considerar que",
+  "alts": [
+   "a história de infecção anterior por bactéria do grupo Leptospira interrogans confere imunidade cruzada permanente ao indivíduo, independentemente do tipo de Leptospira que o infectou previamente.",
+   "na fase tardia, a leptospirose ictérica pode ser diferenciada das hepatites virais de transmissão hídrica pela elevação dos níveis bilirrubinas direta e indireta, que são mais altos em casos de leptospirose.",
+   "um indivíduo com febre, cefaleia e mialgia, que relate exposição a enchentes, alagamentos, lama ou coleções hídricas nos 30 dias anteriores à data de início dos sintomas, deve ser considerado como caso suspeito de leptospirose e investigado.",
+   "a manifestação clássica da leptospirose grave é a síndrome de Jarisch-Herxheimer, que se caracteriza pela tríade de icterícia, insuficiência respiratória e hemorragia.",
+   "apenas os casos confirmados por critério clínico-laboratorial devem ser notificados e registrados no Sistema de Informação de Agravos de Notificação (Sinan), utilizando-se a Ficha de Investigação da Leptospirose."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. (MS, 2023), leptospirose; Portaria de Consolidação 4/2017, Anexo 1 do Anexo V",
+  "coment": "Pelo Guia de Vigilância em Saúde, é caso suspeito de leptospirose quem tem febre, cefaleia e mialgia com exposição de risco nos 30 dias anteriores ao início dos sintomas, como enchente, alagamento, lama, esgoto, fossa ou contato com roedores. O caso suspeito já é notificado e investigado, sem esperar a confirmação. A imunidade é específica do sorovar, e não cruzada e permanente. Na forma ictérica predomina a bilirrubina direta com transaminases pouco elevadas, o que ajuda a separar das hepatites virais, de transaminases muito altas. A forma grave clássica é a síndrome de Weil: icterícia, insuficiência renal e hemorragia, sobretudo pulmonar.",
+  "porAlt": [
+   "Errada: a imunidade após leptospirose é específica do sorovar que infectou, e não cruzada nem permanente para todos.",
+   "Errada: o que diferencia das hepatites virais são as transaminases pouco elevadas, e não bilirrubinas mais altas.",
+   "Correta: febre, cefaleia e mialgia com exposição a enchente, lama ou coleções hídricas nos 30 dias anteriores definem o caso suspeito.",
+   "Errada: a forma grave clássica é a síndrome de Weil; a reação de Jarisch-Herxheimer é resposta ao início do antibiótico.",
+   "Errada: o caso suspeito já é notificado e investigado no Sinan, sem aguardar a confirmação."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando que a alimentação balanceada e diversificada constitui uma importante medida para a promoção do envelhecimento saudável, o enfermeiro deve fornecer aos idosos, seus familiares e cuidadores, orientações práticas sobre como ter uma alimentação saudável, tais como",
+  "alts": [
+   "consumir, diariamente, 3 porções de leite e derivados e 1 porção de carnes, aves, peixes ou ovos.",
+   "diminuir a quantidade de sal na comida, dando preferência ao uso do saleiro na mesa.",
+   "incluir nas refeições, diariamente, 3 porções do grupo dos cereais, como o arroz e o milho; tubérculos, como a batata; e raízes, como a mandioca.",
+   "consumir, no máximo, 2 porções por dia de óleos vegetais, azeite, manteiga ou margarina.",
+   "beber pelo menos 6 a 8 copos de água ou sucos por dia, reservando pelo menos 1/3 do volume para a hora das refeições, para facilitar a deglutição dos alimentos sólidos."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Cadernos de Atenção Básica nº 19, Envelhecimento e Saúde da Pessoa Idosa (MS, 2006), dez passos para alimentação saudável",
+  "coment": "Os dez passos para a alimentação saudável da pessoa idosa, no Caderno de Atenção Básica 19, orientam por porções diárias: seis de cereais, tubérculos e raízes; três de frutas e três de legumes e verduras; três de leite e derivados e uma de carnes, aves, peixes ou ovos; no máximo uma de óleos e gorduras; seis a oito copos de água, de preferência nos intervalos das refeições; e menos sal, retirando o saleiro da mesa. O Guia Alimentar para a População Brasileira de 2014 trocou a lógica das porções pela de alimentos in natura e minimamente processados, mas a questão cobra o caderno.",
+  "porAlt": [
+   "Correta: o caderno recomenda três porções diárias de leite e derivados e uma de carnes, aves, peixes ou ovos.",
+   "Errada: a orientação é retirar o saleiro da mesa, e não dar preferência a ele.",
+   "Errada: o caderno recomenda seis porções diárias de cereais, tubérculos e raízes, e não três.",
+   "Errada: o limite é de uma porção diária de óleos e gorduras, e não duas.",
+   "Errada: a água é ingerida de preferência nos intervalos das refeições, e não reservada para a hora de comer."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Oficiais e praças de um Regimento do Exército se voluntariaram para doar sangue, e o capitão QCO enfermeiro foi convocado para participar desse processo. Ao cumprir essa missão, entre outras ações, orientou os voluntários a respeito das condições e procedimentos necessários para a doação de sangue. De acordo com a Portaria nº 158/2016, que redefine o regulamento técnico de procedimentos hemoterápicos, deve esclarecer os militares que",
+  "alts": [
+   "a frequência máxima admitida é de 6 (seis) doações anuais para o homem e de 4 (quatro) doações anuais para a mulher, exceto em circunstâncias especiais, que serão avaliadas e aprovadas pelo responsável técnico do serviço de hemoterapia.",
+   "a ingestão de bebidas alcoólicas contraindica a doação por 24 (vinte e quatro) horas após o consumo, mesmo cervejas.",
+   "o candidato a doador deverá se apresentar em jejum de 6 horas, e não será coletado sangue daqueles que tenham feito refeição copiosa e rica em substâncias gordurosas a menos de 12 (doze) horas da coleta.",
+   "deverá consentir que, em caso de resultados reagentes ou inconclusivos nas triagens laboratoriais, seja realizada a “busca ativa” pelo serviço de hemoterapia ou por órgão de vigilância em saúde para repetição de testes ou testes confirmatórios e de diagnóstico.",
+   "os resultados dos testes de triagem laboratorial somente serão entregues ao oficial de saúde da organização militar (OM), para registro no prontuário de cada militar voluntário."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 158/2016 (Anexo IV da Portaria de Consolidação 5/2017), substituída pela Portaria GM/MS 11.685/2026 (Anexo IV-B da PRC 5/2017)",
+  "coment": "O regulamento técnico de 2016 exige que o candidato consinta, no termo de doação, que o serviço de hemoterapia ou a vigilância em saúde faça busca ativa em caso de triagem laboratorial reagente ou inconclusiva, para repetir testes, confirmar e encaminhar ao diagnóstico. O doador também tem direito a receber pessoalmente os seus resultados, sob sigilo, e não por intermédio da chefia. A frequência máxima era de 4 doações anuais para o homem e 3 para a mulher, o álcool exigia 12 horas de intervalo e não se exigia jejum, só evitar refeição gordurosa nas horas anteriores. A Portaria 158/2016 foi substituída pela Portaria GM/MS 11.685/2026, vigente desde 30/09/2026; confira os números na norma nova.",
+  "porAlt": [
+   "Errada: o limite era de 4 doações anuais para o homem e 3 para a mulher, e não 6 e 4.",
+   "Errada: o intervalo após bebida alcoólica era de 12 horas, e não de 24.",
+   "Errada: a doação não exige jejum; pede-se apenas evitar refeição copiosa e gordurosa nas horas que antecedem a coleta.",
+   "Correta: o candidato consente com a busca ativa pelo serviço de hemoterapia ou pela vigilância em caso de triagem reagente ou inconclusiva.",
+   "Errada: os resultados pertencem ao doador e são comunicados a ele sob sigilo, não entregues ao oficial de saúde da organização militar."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Resolução COFEN nº 593/2018 que normatiza, no âmbito dos Conselhos Regionais de Enfermagem, a criação e o funcionamento das Comissões de Ética de Enfermagem (CEE) nas Instituições de Saúde com Serviço de Enfermagem, estabelece que",
+  "alts": [
+   "cabe à CEE analisar e aprovar projetos de pesquisa de enfermagem a serem desenvolvidas na instituição, no que diz respeito às questões éticas envolvidas.",
+   "as organizações militares de saúde (OMS), dadas suas características, estão desobrigadas de instituir Comissões de Ética de Enfermagem.",
+   "a CEE será constituída por, no mínimo, 3 (três) e no máximo 11 (onze) profissionais de Enfermagem, sempre respeitando o número ímpar de efetivos, entre enfermeiros e obstetrizes, cabendo exclusivamente ao Enfermeiro Responsável Técnico (ERT) o cargo de presidente.",
+   "o mandato dos membros eleitos da CEE será de 3 (três) anos, admitidas duas reeleições.",
+   "nas instituições de saúde militares, a constituição da CEE deverá obedecer aos critérios de designação por autoridade competente, observadas as normas dessas instituições e os dispositivos estabelecidos pela Resolução COFEN nº 593/2018."
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Resoluções do COFEN",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 593/2018, revogada pela Resolução COFEN 792/2025, anexo, art. 6º, §§ 3º, 5º, 7º e 8º",
+  "coment": "A Res. COFEN 593/2018 previa que, nas instituições de saúde militares, a Comissão de Ética de Enfermagem fosse constituída por designação de autoridade competente, observadas as normas da instituição. A Res. COFEN 792/2025, que a revogou e está em vigor, manteve a regra no art. 6º, § 3º, do anexo. Ela fixa de 3 a 11 membros efetivos em número ímpar (§ 5º), presidência por enfermeiro, sem exclusividade do Responsável Técnico (§ 7º), e mandato de 3 anos com uma reeleição (§ 8º). A comissão tem função educativa, consultiva e de averiguação; projetos de pesquisa são avaliados pelo Comitê de Ética em Pesquisa.",
+  "porAlt": [
+   "Errada: análise ética de projetos de pesquisa é atribuição do Comitê de Ética em Pesquisa, e não da Comissão de Ética de Enfermagem.",
+   "Errada: as organizações militares de saúde também constituem a comissão, apenas por designação, e não por eleição.",
+   "Errada: a presidência cabe a um enfermeiro membro da comissão, sem exclusividade do Enfermeiro Responsável Técnico.",
+   "Errada: o mandato é de 3 anos com uma única reeleição, e não duas.",
+   "Correta: nas instituições militares a comissão é constituída por designação de autoridade competente, regra mantida pela Res. 792/2025."
+  ],
+  "fonte": {
+   "banca": "Exército (EsFCEx)",
+   "ano": 2024,
+   "prova": "EsFCEx CFO/QC 2025 (Concurso de Admissão 2024), Enfermagem",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A avaliação de desempenho profissional na enfermagem é um processo essencial para mensurar a qualidade do trabalho, identificar competências e promover o crescimento profissional. Além disso, possibilita a tomada de decisões estratégicas para o desenvolvimento dos colaboradores e da instituição.\nCom base nesse conceito, assinale a opção que representa um dos principais objetivos desse processo.",
+  "alts": [
+   "Utilizar a avaliação como um mecanismo de controle, é irrelevante com estratégias de crescimento e capacitação.",
+   "Estabelecer critérios de avaliação restritamente normativos, é ineficaz no desenvolvimento profissional.",
+   "Avaliar privativamente o desempenho técnico dos profissionais é primordial para identificar o desempenho de um profissional.",
+   "Detectar necessidades de treinamento e desenvolvimento de pessoal, valorizando as competências adquiridas e identificando aquelas a serem aprimoradas."
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Kurcgant P (coord.), Gerenciamento em Enfermagem, 3ª ed. (2016), avaliação de desempenho",
+  "coment": "Na gestão de pessoas em enfermagem, a avaliação de desempenho não é instrumento punitivo nem mera verificação técnica: é um processo contínuo, compartilhado entre avaliador e avaliado, que compara o desempenho com o esperado para o cargo e para a instituição. Seu objetivo central é desenvolver pessoas, detectando necessidades de treinamento e de educação permanente, reconhecendo competências já adquiridas e apontando as que precisam ser aprimoradas, além de subsidiar decisões de movimentação, promoção e planejamento do quadro. As alternativas erradas são frases mal construídas que reduzem a avaliação a controle, a norma ou só à técnica.",
+  "porAlt": [
+   "Errada: a avaliação não se reduz a controle; seu propósito é justamente subsidiar crescimento e capacitação.",
+   "Errada: a frase confunde critérios normativos com o objetivo do processo, que é desenvolver o profissional.",
+   "Errada: a avaliação abrange competências técnicas, relacionais e atitudinais, e não só o desempenho técnico.",
+   "Correta: detectar necessidades de treinamento e desenvolvimento, valorizando competências e apontando as que devem ser aprimoradas, é o objetivo central."
+  ],
+  "fonte": {
+   "banca": "Aeronáutica (EAOAP)",
+   "ano": 2025,
+   "prova": "EAOAP 2026, Enfermagem",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No contexto do planejamento de enfermagem, é necessário desenvolver um plano assistencial que contemple a pessoa, a família, a coletividade e grupos específicos. Esse planejamento deve ser elaborado em conjunto com os sujeitos do cuidado e a equipe de enfermagem e saúde. Considerando esse processo, analise as afirmativas a seguir.\nI. Priorização de Diagnósticos de Enfermagem.\nII. Padrões de cuidados Interprofissionais: cuidados colaborativos com as demais profissões de saúde.\nIII. Determinação de resultados (quantitativos e/ou qualitativos) esperados e exequíveis de enfermagem e de saúde.\nIV. Tomada de decisão terapêutica, declarada pela prescrição de enfermagem das intervenções, ações/atividades e protocolos assistenciais.\nV. Padrões de cuidados em Programas de Saúde: cuidados advindos de protocolos assistenciais, tais como prescrição de medicamentos padronizados nos programas de saúde pública.\nEstão corretas apenas as afirmativas",
+  "alts": [
+   "I e II.",
+   "I, III e IV.",
+   "II, III e V.",
+   "IV e V."
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, art. 4º, §§ 3º e 4º",
+  "coment": "A Res. COFEN 736/2024, que revogou a 358/2009, define o Planejamento de Enfermagem como plano assistencial para pessoa, família, coletividade e grupos especiais, compartilhado com os sujeitos do cuidado e a equipe. O plano envolve três elementos: priorização dos diagnósticos de enfermagem; determinação de resultados esperados e exequíveis, quantitativos e/ou qualitativos; e tomada de decisão terapêutica, declarada pela prescrição de enfermagem. Os padrões de cuidado autônomos, interprofissionais e de programas de saúde pertencem à etapa seguinte, a Implementação. Por isso II e V estão fora do Planejamento.",
+  "porAlt": [
+   "Errada: inclui a II, padrão de cuidado interprofissional, que a Res. 736/2024 situa na Implementação.",
+   "Correta: priorização dos diagnósticos, determinação de resultados e prescrição de enfermagem são os três elementos do Planejamento.",
+   "Errada: II e V são padrões de cuidado da Implementação, não do Planejamento.",
+   "Errada: a V pertence à Implementação, e faltam a priorização e os resultados esperados."
+  ],
+  "fonte": {
+   "banca": "Aeronáutica (EAOAP)",
+   "ano": 2025,
+   "prova": "EAOAP 2026, Enfermagem",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Medida de Independência Funcional (MIF) é um instrumento utilizado para avaliar o nível de independência ou dependência parcial em idosos, analisando diferentes aspectos da funcionalidade. Com base nesse contexto, assinale a opção incorreta.",
+  "alts": [
+   "O nível “Supervisão ou Preparação” da MIF indica que o indivíduo necessita de auxílio físico constante, sem o qual não consegue realizar as atividades.",
+   "Para idosos que apresentam maior dependência funcional, a MIF facilita a elaboração de um projeto terapêutico personalizado com base nos resultados obtidos.",
+   "A MIF avalia tanto aspectos motores quanto cognitivos, sendo composta por 18 tarefas divididas em autocuidados, controle esfincteriano, transferências, locomoção, comunicação e cognição social.",
+   "A classificação de independência funcional segundo a MIF é realizada em uma escala de 1 a 7, onde o nível 1 indica dependência total, e o nível 7 indica independência completa, sem necessidade de auxílio técnico ou humano."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Cadernos de Atenção Básica nº 19, Envelhecimento e Saúde da Pessoa Idosa (MS, 2006); Riberto M e cols., validação da MIF no Brasil (2004)",
+  "coment": "A Medida de Independência Funcional tem 18 itens, 13 motores e 5 cognitivos, distribuídos em autocuidado, controle de esfíncteres, transferências, locomoção, comunicação e cognição social. Cada item vai de 1 (dependência total) a 7 (independência completa), e o total, de 18 a 126. O nível 5, supervisão ou preparação, é o de quem faz a tarefa sozinho, mas precisa de alguém por perto, de estímulo, orientação ou de que o material seja preparado, sem contato físico. Auxílio físico constante corresponde aos níveis de dependência, de 4 para baixo. A alternativa A é a incorreta pedida.",
+  "porAlt": [
+   "Correta: é a afirmativa incorreta pedida, porque supervisão ou preparação dispensa contato físico; auxílio físico constante corresponde aos níveis de dependência.",
+   "Afirmativa verdadeira: o resultado da MIF orienta o projeto terapêutico do idoso mais dependente.",
+   "Afirmativa verdadeira: são 18 tarefas, motoras e cognitivas, nos seis domínios citados.",
+   "Afirmativa verdadeira: a escala de cada item vai de 1, dependência total, a 7, independência completa."
+  ],
+  "fonte": {
+   "banca": "Aeronáutica (EAOAP)",
+   "ano": 2025,
+   "prova": "EAOAP 2026, Enfermagem",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre as estratégias de redução da morbimortalidade em decorrência do uso abusivo de álcool e outras drogas no contexto da saúde pública, informe verdadeiro (V) ou falso (F) para as assertivas abaixo e, em seguida, marque a opção que apresenta a sequência correta.\n( ) Produzir e distribuir material educativo para orientar e sensibilizar a população sobre os malefícios do uso abusivo do álcool.\n( ) Reorientação das práticas de saúde de modo a permitir a interação saúde, meio ambiente e desenvolvimento sustentável.\n( ) Promoção de discussões intersetoriais que incorporem ações educativas à grade curricular de todos os níveis de formação.\n( ) Desenvolvimento de iniciativas de redução de danos pelo consumo de álcool e outras drogas que envolvam a co-responsabilização e autonomia da população.",
+  "alts": [
+   "(V); (F); (F); (V).",
+   "(F); (V); (V); (F).",
+   "(F); (F); (V); (V).",
+   "(V); (V); (F); (F)."
+  ],
+  "gab": 0,
+  "tema": "mental",
+  "sub": "Álcool e outras drogas",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Política Nacional de Promoção da Saúde, Portaria GM/MS 687/2006, ações específicas; revisada pela Portaria GM/MS 2.446/2014 (PRC 2/2017)",
+  "coment": "A Política Nacional de Promoção da Saúde de 2006 listava ações específicas para a redução da morbimortalidade pelo uso abusivo de álcool e outras drogas, entre elas produzir e distribuir material educativo sobre os malefícios do álcool e desenvolver iniciativas de redução de danos que envolvam corresponsabilização e autonomia da população. As afirmativas 2 e 3 vêm de outros eixos da mesma política: desenvolvimento sustentável e ações intersetoriais de educação. A PNPS foi revisada em 2014 (Portaria 2.446/2014, consolidada na PRC 2/2017), que mantém o enfrentamento do uso abusivo de álcool e outras drogas entre os temas prioritários.",
+  "porAlt": [
+   "Correta: material educativo sobre o álcool e redução de danos com corresponsabilização são ações do eixo; as outras duas pertencem a outros eixos.",
+   "Errada: inverte o julgamento: as afirmativas 1 e 4 é que pertencem ao eixo de álcool e drogas.",
+   "Errada: a 1 é verdadeira, e a 3 é ação intersetorial de outro eixo da política.",
+   "Errada: a 2, sobre desenvolvimento sustentável, não pertence ao eixo, e a 4 é verdadeira."
+  ],
+  "fonte": {
+   "banca": "Aeronáutica (EAOAP)",
+   "ano": 2025,
+   "prova": "EAOAP 2026, Enfermagem",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre as atribuições exclusivas do Enfermeiro Auditor no âmbito saúde, analise as afirmativas abaixo com base na Resolução COFEN nº 720/2023.\nI. Atuar no planejamento, execução e avaliação da proposta assistencial.\nII. Atuar na elaboração de programas e atividades da educação permanente, visando à melhoria da saúde do indivíduo, da família e da população em geral.\nIII. Acessar os contratos e adendos pertinentes à Instituição a ser auditada bem como o prontuário do paciente e toda documentação que se fizer necessária, no desempenho de suas atribuições.\nIV. Supervisionar Técnicos e Auxiliares de Enfermagem, nos casos em que estes estejam desempenhando funções auxiliares de menor complexidade que envolvam atividades de Auditoria.\nV. Organizar, dirigir, planejar, coordenar, avaliar, prestar consultorias, atuar em todas as etapas do processo de auditorias e contra auditorias (recursos de glosas), além de emitir pareceres sobre os serviços de Auditoria de Enfermagem.\nEstão corretas apenas as afirmativas",
+  "alts": [
+   "I e II.",
+   "I, III e IV.",
+   "II, III e V.",
+   "IV e V."
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 720/2023, alterada pela Resolução COFEN 733/2023",
+  "coment": "A Res. COFEN 720/2023 revogou a 266/2001 e normatiza a atuação do enfermeiro em auditoria, que dentro da equipe de enfermagem é privativa do enfermeiro. Entre as atividades privativas do enfermeiro auditor estão organizar, dirigir, planejar, coordenar e avaliar os serviços de auditoria de enfermagem, atuar nas auditorias e contra-auditorias, inclusive recursos de glosa, emitir pareceres e supervisionar técnicos e auxiliares que desempenhem funções auxiliares de menor complexidade na auditoria. Planejar a assistência e a educação permanente são atividades gerais do enfermeiro. O acesso a contratos e prontuários é prerrogativa garantida ao auditor, que a banca não tratou como atribuição exclusiva.",
+  "porAlt": [
+   "Errada: planejar e avaliar a proposta assistencial e a educação permanente são atividades gerais do enfermeiro, não exclusivas do auditor.",
+   "Errada: a I não é exclusiva do auditor, e a III foi tratada pela banca como prerrogativa de acesso, não como atribuição.",
+   "Errada: a II é atividade geral do enfermeiro, e não atribuição exclusiva do auditor.",
+   "Correta: supervisionar técnicos e auxiliares em funções auxiliares e conduzir todas as etapas das auditorias e contra-auditorias são privativas do enfermeiro auditor."
+  ],
+  "fonte": {
+   "banca": "Aeronáutica (EAOAP)",
+   "ano": 2025,
+   "prova": "EAOAP 2026, Enfermagem",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma enfermeira está analisando as condições de trabalho em sua unidade e deseja conhecer os direitos legais referentes ao repouso durante sua jornada laboral. Com base na legislação atual, assinale a opção correta sobre os locais de repouso dos profissionais de enfermagem.",
+  "alts": [
+   "Os locais de repouso devem ser dotados de conforto visual e acústico.",
+   "Os profissionais da saúde devem ser destinados para a área de repouso.",
+   "Os locais de repouso dos profissionais da enfermagem devem ser arejados.",
+   "Os locais de repouso devem ser equipados com instalações elétricas e hidráulicas."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 7.498/1986, com a redação da Lei 14.602/2023 (locais de repouso)",
+  "coment": "A Lei 14.602/2023 alterou a Lei 7.498/1986 para obrigar as instituições de saúde, públicas e privadas, a oferecer aos profissionais de enfermagem condições adequadas de repouso durante todo o horário de trabalho. Os locais de repouso devem ser destinados especificamente ao descanso da enfermagem, arejados, providos de mobiliário adequado, dotados de conforto térmico e acústico, equipados com instalações sanitárias e ter área compatível com o número de profissionais em serviço. A alternativa correta reproduz um desses requisitos; as demais trocam termos da lei (visual por térmico, elétricas e hidráulicas por sanitárias) ou distorcem o destinatário.",
+  "porAlt": [
+   "Errada: a lei exige conforto térmico e acústico, e não visual.",
+   "Errada: a frase inverte a lógica: o local é que se destina especificamente ao repouso dos profissionais de enfermagem.",
+   "Correta: ser arejado é um dos requisitos legais dos locais de repouso da enfermagem.",
+   "Errada: a lei exige instalações sanitárias, e não elétricas e hidráulicas."
+  ],
+  "fonte": {
+   "banca": "Aeronáutica (EAOAP)",
+   "ano": 2025,
+   "prova": "EAOAP 2026, Enfermagem",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o protocolo clínico e diretrizes terapêuticas da dor crônica, a percepção da queixa álgica deve ser adequadamente avaliada pelos profissionais da área da saúde. Em relação aos três mecanismos biológicos que explicam a dor, analise as afirmativas abaixo e atribua (V) para as verdadeiras e (F) para as falsas. Em seguida, assinale a opção que apresenta a sequência correta.\n( ) A dor neuropática é caracterizada por uma dor que causa uma sensação de peso, tensão e dolorimento.\n( ) Muitas vezes, os mecanismos nociplástico e nociceptivo coexistem e se retroalimentam, podendo mascarar o diagnóstico principal.\n( ) A dor nociceptiva é caracterizada por uma dor profunda, em peso, pontada, aperto, latejamento, tensão, dolorimento, queimação.\n( ) A dor nociplástica é caracterizada por ser uma dor superficial, em queimação, sensação de frio doloroso, choque, formigamento, amortecimento, coceira, alfinetada e agulhada.",
+  "alts": [
+   "(F); (F); (V); (V).",
+   "(V); (F); (F); (V).",
+   "(F); (V); (V); (F).",
+   "(V); (V); (F); (F)."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Protocolo Clínico e Diretrizes Terapêuticas da Dor Crônica (MS/Conitec), versão que atualizou a Portaria SAS/MS 1.083/2012",
+  "coment": "O PCDT da Dor Crônica descreve três mecanismos. Nociceptivo: lesão tecidual real, com dor profunda, em peso, pontada, aperto, latejamento, tensão, dolorimento e às vezes queimação. Neuropático: lesão do sistema somatossensitivo, com dor superficial, em queimação, frio doloroso, choque, formigamento, amortecimento, coceira, alfinetada e agulhada. Nociplástico: alteração do processamento da dor sem lesão que a explique, como na fibromialgia. Os mecanismos frequentemente coexistem e se retroalimentam, o que pode mascarar o diagnóstico principal. Assim, a 1ª é falsa (descreve dor nociceptiva), a 2ª e a 3ª são verdadeiras e a 4ª é falsa (descreve dor neuropática).",
+  "porAlt": [
+   "Errada: a 2ª é verdadeira, porque os mecanismos coexistem, e a 4ª é falsa, pois descreve dor neuropática.",
+   "Errada: a 1ª atribui à dor neuropática descritores da nociceptiva, e a 4ª descreve a neuropática, não a nociplástica.",
+   "Correta: F, V, V, F; peso e tensão são nociceptivos, os mecanismos coexistem e choque e formigamento são neuropáticos.",
+   "Errada: a 1ª é falsa, porque peso e tensão descrevem dor nociceptiva, e a 3ª é verdadeira."
+  ],
+  "fonte": {
+   "banca": "Aeronáutica (EAOAP)",
+   "ano": 2025,
+   "prova": "EAOAP 2026, Enfermagem",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um enfermeiro realiza o acompanhamento de um paciente com diagnóstico de diabetes mellitus (DM) utilizando a Sistematização da Assistência de Enfermagem (SAE). Durante a consulta, são reforçadas orientações sobre a importância do autocuidado, prevenção de complicações e controle metabólico adequado.\nAo fornecer assistência de enfermagem a pacientes com diabetes mellitus, qual ação é imprescindível para assegurar que a educação em saúde seja realizada de forma eficaz?",
+  "alts": [
+   "Emitir orientações sobre hábitos alimentares, atividade física, consumo de álcool.",
+   "Estabelecer um plano de cuidados seguindo um modelo padronizado pela instituição de saúde.",
+   "Incentivar a autonomia do paciente, promovendo conhecimento sobre sua condição e estratégias de controle.",
+   "Realizar a consulta de enfermagem em cinco etapas interrelacionadas entre si, objetivando a educação em saúde para a prevenção de complicações."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Resolução COFEN 734/2023 (cuidado e educação em diabetes); Diretriz da Sociedade Brasileira de Diabetes, edição 2023, educação em diabetes",
+  "coment": "Educação em saúde eficaz no diabetes é a que produz autocuidado: o paciente entende a doença, participa das decisões e desenvolve habilidades para monitorar a glicemia, ajustar alimentação e atividade física, reconhecer hipoglicemia e cuidar dos pés. Por isso o centro da ação é incentivar a autonomia, com conhecimento sobre a condição e estratégias de controle. Transmitir orientações sem construir autonomia, seguir plano padronizado sem individualizar ou apenas cumprir as cinco etapas do Processo de Enfermagem (Res. COFEN 736/2024) são meios, não garantem que o aprendizado vire comportamento.",
+  "porAlt": [
+   "Errada: emitir orientações é necessário, mas sem construir autonomia não garante educação eficaz.",
+   "Errada: plano padronizado pela instituição ignora a individualização que a educação em diabetes exige.",
+   "Correta: incentivar a autonomia, com conhecimento da condição e estratégias de controle, é o que torna a educação eficaz.",
+   "Errada: as cinco etapas do Processo de Enfermagem organizam a consulta, mas não são, por si, o que torna a educação eficaz."
+  ],
+  "fonte": {
+   "banca": "Aeronáutica (EAOAP)",
+   "ano": 2025,
+   "prova": "EAOAP 2026, Enfermagem",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A equipe de enfermagem desempenha um papel essencial na identificação e no manejo inicial das situações clínicas de urgência/emergência obstétrica, garantindo a segurança materno-fetal. Considerando o contexto apresentado, qual das opções a seguir descreve uma condição de alto risco que deve ser monitorada pela equipe de enfermagem em ambiente hospitalar?",
+  "alts": [
+   "Gestação gemelar dicoriônica-diamniótica.",
+   "Indícios ou ocorrência de violência.",
+   "Endocrinopatias (hipotireoidismo clínico em uso de medicamentos e hipertireoidismo).",
+   "Abortos precoces (até 12 semanas) em gestações anteriores (até 2 abortos consecutivos)."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Manual de Gestação de Alto Risco (MS, 2022), estratificação do risco gestacional; Cadernos de Atenção Básica nº 32 (MS, 2012)",
+  "coment": "A estratificação do risco gestacional do Ministério da Saúde separa risco habitual, intermediário e alto. Doença materna prévia com repercussão sistêmica é critério de alto risco, e as endocrinopatias entram nessa lista: hipotireoidismo clínico em uso de medicação e hipertireoidismo, assim como diabetes prévio, cardiopatia e hipertensão crônica. Indícios ou ocorrência de violência são fator de risco intermediário, que pede cuidado reforçado e articulação com a rede, sem transferir o pré-natal. Até dois abortos precoces não definem abortamento habitual. A gestação gemelar sempre pede vigilância maior; a banca tratou a dicoriônica-diamniótica, de menor risco que a monocoriônica, como não sendo o alto risco pedido.",
+  "porAlt": [
+   "Errada para a banca: a gemelar dicoriônica-diamniótica, de menor risco que a monocoriônica, não foi tomada como o alto risco pedido, embora exija vigilância.",
+   "Errada: indícios ou ocorrência de violência são fator de risco intermediário, que reforça o cuidado sem definir alto risco.",
+   "Correta: endocrinopatias como hipotireoidismo clínico em tratamento e hipertireoidismo são critério de alto risco gestacional.",
+   "Errada: até dois abortos precoces consecutivos não caracterizam abortamento habitual nem alto risco."
+  ],
+  "fonte": {
+   "banca": "Aeronáutica (EAOAP)",
+   "ano": 2025,
+   "prova": "EAOAP 2026, Enfermagem",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Associe as colunas relacionando as atitudes de pensamento crítico com suas respectivas aplicações na prática de enfermagem.\nAtitudes de pensamento crítico\n(1) Confiança.\n(2) Integridade.\n(3) Correr riscos.\n(4) Pensar de maneira independente.\nAplicações na prática de enfermagem\n( ) Estar bem preparado(a) antes de executar uma atividade de enfermagem.\n( ) Conversar com outros(as) enfermeiros(as) e compartilhar Ideias a respeito das intervenções de enfermagem.\n( ) Estar disposto(a) recomendar abordagens alternativas ao cuidado de enfermagem quando as colegas estiverem tendo pouco êxito com os clientes.\n( ) Reconhecer quando as opiniões entram em conflitos com as de um cliente; rever sua posição e decidir qual é a melhor maneira de prosseguir para atingir resultados que vão satisfazer a todos.\nA sequência correta dessa associação é:",
+  "alts": [
+   "(3); (4); (1); (2).",
+   "(1); (3); (2); (4).",
+   "(1); (4); (3); (2).",
+   "(2); (3); (1); (4)."
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Potter PA, Perry AG, Fundamentos de Enfermagem, 9ª ed. (2018), pensamento crítico",
+  "coment": "Potter e Perry descrevem atitudes do pensamento crítico com exemplos da prática. Confiança: estar bem preparado antes de executar a atividade, o que transmite segurança ao paciente. Pensar de maneira independente: discutir e compartilhar ideias com outros enfermeiros, sem aceitar uma conduta só porque sempre foi feita assim. Correr riscos: estar disposto a recomendar abordagens alternativas quando as habituais não dão resultado. Integridade: reconhecer quando a própria opinião conflita com a do paciente, rever a posição e buscar a melhor forma de chegar a um resultado aceitável para todos. A sequência é 1, 4, 3, 2.",
+  "porAlt": [
+   "Errada: estar bem preparado é exemplo de confiança, e não de correr riscos.",
+   "Errada: compartilhar ideias com colegas é pensar de maneira independente, e recomendar alternativas é correr riscos.",
+   "Correta: confiança, pensar de maneira independente, correr riscos e integridade, nesta ordem.",
+   "Errada: estar preparado é confiança, e rever a posição diante do conflito com o cliente é integridade."
+  ],
+  "fonte": {
+   "banca": "Aeronáutica (EAOAP)",
+   "ano": 2025,
+   "prova": "EAOAP 2026, Enfermagem",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre os cuidados com o preparo e a administração de medicamentos, informe verdadeiro (V) ou falso (F) para as assertivas abaixo e, em seguida, marque a opção que apresenta a sequência correta.\n( ) É permitido armazenar seringas e agulhas desembrulhadas caso estejam em uma superfície limpa.\n( ) Nunca utilizar seringas ou materiais de infusão para mais de um paciente, mesmo que sejam trocadas as agulhas.\n( ) A técnica asséptica deve ser utilizada em todos os aspectos da preparação e administração de medicamentos parenterais.\n( ) Frascos multidoses podem ser utilizados para mais de um paciente, mesmo em ambientes diferentes sem risco de contaminação cruzada.",
+  "alts": [
+   "(F); (F); (V); (V).",
+   "(F); (V); (V); (F).",
+   "(V); (V); (F); (F).",
+   "(V); (F); (F); (V)."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "CDC, Guideline for Isolation Precautions (2007), práticas seguras de injeção; ANVISA, Medidas de Prevenção de IRAS, 2ª ed. (2017)",
+  "coment": "As práticas seguras de injeção, parte das precauções padrão do CDC, exigem técnica asséptica em todo o preparo e a administração de medicamentos parenterais. Seringa, agulha e equipo são de uso único para um paciente: trocar só a agulha não impede a contaminação, porque o refluxo atinge a seringa. Seringas e agulhas ficam na embalagem até o uso, e não abertas sobre superfícies, porque a esterilidade depende do invólucro. Frasco multidose deve ser dedicado a um único paciente sempre que possível; se usado para mais de um, é preparado em área limpa, longe do leito, e nunca entra no ambiente imediato do paciente. Por isso a sequência é F, V, V, F.",
+  "porAlt": [
+   "Errada: a 2ª é verdadeira, porque seringa e equipo são de uso único por paciente, e a 4ª é falsa.",
+   "Correta: F, V, V, F; seringa desembrulhada perde a esterilidade, material é de uso único e o multidose não circula entre ambientes de pacientes.",
+   "Errada: seringa e agulha desembrulhadas não ficam estéreis, e a técnica asséptica vale em todo o preparo parenteral.",
+   "Errada: a 1ª e a 4ª são falsas, e a 2ª e a 3ª são verdadeiras."
+  ],
+  "fonte": {
+   "banca": "Aeronáutica (EAOAP)",
+   "ano": 2025,
+   "prova": "EAOAP 2026, Enfermagem",
+   "n": 42,
+   "parte": "especificas"
+  }
+ }
+]

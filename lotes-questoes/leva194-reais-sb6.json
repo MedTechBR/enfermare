@@ -1,0 +1,1282 @@
+[
+ {
+  "q": "O Sistema de Assistência de Enfermagem Perioperatória (SAEP) tem como base, o atendimento das necessidades humanas básicas e o Processo de Enfermagem, estruturados por Wanda de Aguiar Horta. Neste contexto, marque a alternativa INCORRETA.",
+  "alts": [
+   "A visita pré-operatória de enfermagem é a primeira etapa do SAEP.",
+   "A avaliação da assistência (visita pós-operatória) de enfermagem é a etapa que finaliza o SAEP.",
+   "O SAEP tem como premissa básica operacionalizar os conceitos de assistência de enfermagem integral, individualizada, continuada, sistematizada, participativa, documentada e avaliada, além de adequar normas, rotinas e condutas para a prestação da assistência de enfermagem.",
+   "A sistematização promove a continuidade da assistência, vinculando a intervenção conjunta e contínua dos enfermeiros que trabalham nas unidades de internação, centro cirúrgico e Sala de Recuperação Pós-Anestésica (SRPA).",
+   "O conceito da assistência documentada valoriza registros das evoluções e dos dados coletados, que devem ser pertinentes e concisos, presentes em todas as fases do processo cirúrgico."
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Modelo do SAEP de Castellanos e Jouclas (1990), adotado nas Diretrizes de Práticas SOBECC; Res. COFEN 736/2024",
+  "coment": "O SAEP, proposto por Castellanos e Jouclas sobre a teoria das necessidades humanas básicas de Horta, tem cinco fases: visita pré-operatória, planejamento da assistência, implementação, avaliação (visita pós-operatória) e reformulação da assistência a ser planejada, quando a avaliação mostra resultados insatisfatórios. Por isso a avaliação não finaliza o SAEP: depois dela vem a reformulação, que fecha o ciclo. Hoje as fases se encaixam nas cinco etapas do Processo de Enfermagem da Res. COFEN 736/2024, que revogou a 358/2009.",
+  "porAlt": [
+   "A visita pré-operatória é de fato a primeira fase do SAEP: é nela que o enfermeiro do centro cirúrgico coleta dados e orienta o paciente.",
+   "Correta: a avaliação (visita pós-operatória) é a quarta fase; o SAEP termina com a reformulação da assistência a ser planejada.",
+   "Reproduz a premissa do SAEP: assistência integral, individualizada, continuada, sistematizada, participativa, documentada e avaliada.",
+   "A continuidade entre internação, centro cirúrgico e SRPA é justamente o que a sistematização perioperatória busca garantir.",
+   "A assistência documentada exige registros pertinentes e concisos em todas as fases do processo cirúrgico, como afirma a alternativa."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do NIR (Núcleo Interno de Regulação)",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Suscetibilidade a fluxo sanguíneo inadequado para os tecidos do corpo, que pode levar a disfunção celular, ameaça a vida e pode comprometer a saúde, é a definição para o seguinte diagnóstico de enfermagem:",
+  "alts": [
+   "risco de débito cardíaco diminuído.",
+   "risco de função hepática prejudicada.",
+   "comportamento de saúde propenso a risco.",
+   "risco de choque.",
+   "risco de desequilíbrio eletrolítico."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "NANDA International, Diagnósticos de enfermagem: definições e classificação 2024-2026 (13ª edição)",
+  "coment": "Na NANDA-I, risco de choque é a suscetibilidade a fluxo sanguíneo inadequado para os tecidos do corpo, que pode levar a disfunção celular que ameaça a vida e comprometer a saúde. A palavra-chave é perfusão tecidual global insuficiente, que é o conceito de choque. Risco de débito cardíaco diminuído fala do volume bombeado pelo coração, não da perfusão de todos os tecidos; os demais títulos tratam de fígado, eletrólitos e comportamento. O título segue na edição 2024-2026 da taxonomia.",
+  "porAlt": [
+   "Risco de débito cardíaco diminuído refere-se a sangue bombeado pelo coração insuficiente para as demandas metabólicas, não à perfusão tecidual global.",
+   "Risco de função hepática prejudicada descreve suscetibilidade à diminuição da função do fígado, sem relação com fluxo sanguíneo tecidual.",
+   "Comportamento de saúde propenso a risco é diagnóstico de foco no problema ligado à adaptação a mudanças de saúde, não à perfusão.",
+   "Correta: é a definição NANDA-I de risco de choque, fluxo sanguíneo inadequado para os tecidos com disfunção celular que ameaça a vida.",
+   "Risco de desequilíbrio eletrolítico trata de alteração nos níveis de eletrólitos séricos, não do fluxo de sangue aos tecidos."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do NIR (Núcleo Interno de Regulação)",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O monitoramento da produção das Centrais de Regulação das Urgências (CRU) será realizada por meio do quantitativo de atendimentos identificados pelos seguintes procedimentos ambulatoriais, EXCETO:",
+  "alts": [
+   "atendimento das chamadas recebidas pela Central de Regulação das Urgências.",
+   "atendimento pré-hospitalar móvel realizado pela equipe da Unidade de Suporte Avançado de Vida Terrestre (USA).",
+   "envio de unidade de suporte avançado de vida terrestre (USA) e/ou Aquático (Equipe de Embarcação) e/ou Equipe de Aeromédico.",
+   "envio de unidade de suporte básico de vida terrestre (USB) e/ou Aquático (Equipe de Embarcação) e/ou Motolância.",
+   "atendimento das chamadas recebidas pela Central de Regulação das Urgências com Orientação."
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Atendimento pré-hospitalar",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 1.010/2012, art. 33 (SAMU 192 e Centrais de Regulação, hoje na Portaria de Consolidação 3/2017); Tabela de Procedimentos do SUS (SIGTAP)",
+  "coment": "A Portaria 1.010/2012 obriga a Central de Regulação das Urgências e as unidades móveis do SAMU 192 a registrar a produção mensal no SIA/SUS. A produção da central é medida pelos procedimentos que ela própria executa: atender chamadas, com ou sem orientação, e enviar unidades (USB, motolância, USA, embarcação ou aeromédico). O atendimento pré-hospitalar realizado pela equipe da USA é produção da unidade móvel que foi à cena, e não da central. Por isso é a exceção.",
+  "porAlt": [
+   "Atender as chamadas recebidas é a atividade básica da central e um dos procedimentos que medem sua produção.",
+   "Correta: o atendimento feito pela equipe da USA é produção da unidade móvel, não da Central de Regulação das Urgências.",
+   "Decidir e enviar a USA, a equipe de embarcação ou o aeromédico é ato regulatório da central e conta na produção dela.",
+   "O envio de USB, embarcação ou motolância também é decisão do médico regulador e entra como produção da central.",
+   "A chamada resolvida só com orientação é procedimento próprio da central, registrado como atendimento com orientação."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do NIR (Núcleo Interno de Regulação)",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O gerenciamento dos leitos será realizado na perspectiva da integração da prática clínica no processo de internação e de alta, preferencialmente por meio da implantação de _____________________________ ou ______________________ com o objetivo de aumentar a ocupação de leitos e otimizar a utilização da capacidade instalada, melhorando o atendimento ao usuário.",
+  "alts": [
+   "um Núcleo Interno de Regulação (NIR); Núcleo de Acesso e Qualidade Hospitalar (NAQH).",
+   "um Núcleo de Segurança do Paciente (NSP); Plano de Segurança do Paciente (PSP).",
+   "um Núcleo Interno de Regulação (NIR); Plano de Segurança do Paciente (PSP).",
+   "um Núcleo de Acesso e Qualidade Hospitalar (NAQH); Plano Terapêutico (PT).",
+   "um Núcleo de Segurança do Paciente (NSP); Núcleo de Qualidade Hospitalar (NQH)."
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 3.390/2013 (PNHOSP), art. 11, § 6º, hoje na Portaria de Consolidação 2/2017",
+  "coment": "O art. 11, § 6º, da Portaria 3.390/2013 diz que o gerenciamento dos leitos será feito na perspectiva da integração da prática clínica no processo de internação e de alta, preferencialmente pela implantação de um Núcleo Interno de Regulação (NIR) ou de um Núcleo de Acesso e Qualidade Hospitalar (NAQH), para aumentar a ocupação de leitos e otimizar a capacidade instalada. NSP e plano de segurança do paciente pertencem à RDC 36/2013 e à Portaria 529/2013, voltadas à prevenção de incidentes, não à gestão de leitos.",
+  "porAlt": [
+   "Correta: o art. 11, § 6º, da PNHOSP cita exatamente o NIR ou o NAQH como instâncias de gerenciamento de leitos.",
+   "NSP e PSP são instrumentos de segurança do paciente (RDC 36/2013), sem a função de gerir internação e alta.",
+   "O NIR está certo, mas o PSP é o plano do Núcleo de Segurança do Paciente, não instância de gestão de leitos.",
+   "O NAQH aparece na norma, mas plano terapêutico é instrumento de cuidado individual, não de regulação de leitos.",
+   "NSP não gerencia leitos e o Núcleo de Qualidade Hospitalar não é a denominação usada pela PNHOSP."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do NIR (Núcleo Interno de Regulação)",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Compete ao enfermeiro do Núcleo Interno de Regulação (NIR), EXCETO:",
+  "alts": [
+   "monitorar e avaliar possíveis altas hospitalares ou transferência a outros estabelecimentos de saúde.",
+   "participar da gestão da lista de espera cirúrgica.",
+   "conferir documentação de solicitação de internação.",
+   "realizar visitas avaliando quadro dos pacientes, discutindo possíveis remanejamentos, transferências e altas.",
+   "monitorar as respostas de solicitação de vagas externas, com a finalidade de agilizar o fluxo de transferência de pacientes."
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 3.390/2013 (PNHOSP), art. 11, § 6º; Manual de implantação e implementação do Núcleo Interno de Regulação (MS, 2017)",
+  "coment": "O NIR é a interface do hospital com a central de regulação e organiza o fluxo de internação, alta e transferência. Ao enfermeiro do núcleo cabem tarefas de gestão do fluxo: monitorar altas e transferências, participar da gestão da lista de espera cirúrgica, conferir a documentação das solicitações de internação e acompanhar as respostas às vagas externas. A visita para avaliar o quadro clínico e discutir remanejamento, transferência e alta é atribuída, nos protocolos de NIR, ao médico do núcleo, porque envolve julgamento clínico sobre a conduta. Por isso é a exceção.",
+  "porAlt": [
+   "Monitorar altas e transferências para outros estabelecimentos é tarefa típica do enfermeiro do NIR na gestão do fluxo de leitos.",
+   "A participação na gestão da lista de espera cirúrgica está entre as funções do NIR e do seu enfermeiro.",
+   "Conferir a documentação de solicitação de internação é atividade administrativa do enfermeiro do núcleo.",
+   "Correta: visitar e avaliar o quadro dos pacientes para decidir remanejamento, transferência e alta é atribuição do médico do NIR nos protocolos.",
+   "Acompanhar as respostas às solicitações de vaga externa para agilizar transferências é função do enfermeiro do NIR."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do NIR (Núcleo Interno de Regulação)",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A gestão da atenção hospitalar no SUS será definida em consonância com o desenho da Rede de Atenção à Saúde, de acordo com os seguintes requisitos, EXCETO:",
+  "alts": [
+   "o papel do hospital na rede.",
+   "a implementação de fluxos regulatórios.",
+   "a contratualização.",
+   "os critérios de monitoramento e avaliação.",
+   "o planejamento participativo e democrático."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 3.390/2013 (PNHOSP), arts. 17 e 18, hoje na Portaria de Consolidação 2/2017",
+  "coment": "O art. 18 da Portaria 3.390/2013 diz que a gestão da atenção hospitalar no SUS será definida em consonância com o desenho da RAS, de acordo com quatro requisitos: o papel do hospital na rede, a implementação de fluxos regulatórios, a contratualização e os critérios de monitoramento e avaliação. O planejamento participativo e democrático existe na política, mas no art. 17, IV, entre as diretrizes da gestão hospitalar, e não entre os requisitos do art. 18. A banca trocou um artigo pelo outro.",
+  "porAlt": [
+   "O papel do hospital na rede é o inciso I do art. 18 da PNHOSP.",
+   "A implementação de fluxos regulatórios é o inciso II do art. 18.",
+   "A contratualização é o inciso III do art. 18 e define compromissos e metas do hospital com o gestor.",
+   "Os critérios de monitoramento e avaliação formam o inciso IV do art. 18.",
+   "Correta: o planejamento participativo e democrático está no art. 17, IV, como diretriz da gestão hospitalar, não entre os requisitos do art. 18."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do NIR (Núcleo Interno de Regulação)",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando a Classificação de Risco com prioridade II (verde) para o paciente, marque a alternativa corresponde a esta classificação.",
+  "alts": [
+   "Apresenta elevado risco de morte.",
+   "Precisa de atendimento médico em até 30 minutos.",
+   "Apresenta dor abdominal difusa.",
+   "Apresenta dispneia leve a moderada.",
+   "Não dispõe de tempo para reavaliação."
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Classificação de risco",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Acolhimento e classificação de risco nos serviços de urgência (HumanizaSUS, 2009); Res. COFEN 661/2021",
+  "coment": "No modelo de quatro cores do Ministério da Saúde, vermelho é prioridade zero (emergência, atendimento imediato), amarelo prioridade 1 (urgência), verde prioridade 2 (não urgente) e azul prioridade 3 (consultas de baixa complexidade). Dor abdominal difusa sem sinais de gravidade é exemplo de queixa verde. Risco elevado de morte é vermelho; dispneia leve a moderada aparece nas listas do amarelo. A classificação de risco é atividade privativa do enfermeiro entre os profissionais de enfermagem (Res. COFEN 661/2021) e é dinâmica: quem espera é reavaliado.",
+  "porAlt": [
+   "Elevado risco de morte caracteriza o vermelho, prioridade zero, com atendimento imediato.",
+   "Atendimento em até 30 minutos não corresponde ao verde, que tolera espera maior por ser não urgente.",
+   "Correta: dor abdominal difusa, sem sinal de alarme, é exemplo de queixa classificada como verde, prioridade 2.",
+   "Dispneia leve a moderada aparece entre os exemplos do amarelo, prioridade 1, que pede atendimento mais rápido.",
+   "Todo paciente classificado deve ser reavaliado enquanto espera; a classificação é dinâmica em qualquer cor."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do NIR (Núcleo Interno de Regulação)",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Julgue se as afirmações abaixo são verdadeiras e em seguida assinale a alternativa CORRETA:\nI. A educação permanente, ao reduzir as concepções predominantes sobre o trabalho à dimensão objetiva e técnica, não dá conta das necessárias mudanças dos processos de trabalho e das relações entre os profissionais.\nII. A educação continuada é uma concepção de formação laboral que tem como eixo norteador o desenvolvimento e aprimoramento dos profissionais a partir da aproximação entre educação e vida cotidiana, reconhecendo o valor pedagógico das situações de trabalho.\nIII. O enfoque metodológico da educação permanente em saúde, por prever a reelaboração do conhecimento adquirido, adequando-o à realidade do trabalho, bem como a valorização do diálogo e da discussão no âmbito das equipes como formas de reconhecimento das diferenças que obstaculizam as mudanças organizacionais, determina sua distinção em relação à tradicional educação continuada.",
+  "alts": [
+   "somente a afirmação I é verdadeira.",
+   "somente a afirmação II é verdadeira.",
+   "somente a afirmação III é verdadeira.",
+   "somente as afirmações II e III são verdadeiras.",
+   "as afirmações I, II e III são verdadeiras."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 198/2004 e Portaria GM/MS 1.996/2007 (PNEPS), consolidadas na Portaria de Consolidação 2/2017",
+  "coment": "A Política Nacional de Educação Permanente em Saúde define a EPS como aprendizagem no trabalho, a partir dos problemas reais do serviço, com problematização e diálogo nas equipes para transformar as práticas. A afirmativa III descreve isso e a diferença em relação à educação continuada, centrada em atualização técnica. A I atribui à EPS a limitação da educação continuada: reduzir o trabalho à dimensão técnica. A II faz o inverso, dando à educação continuada o eixo da EPS, que é aproximar educação e cotidiano e valorizar o potencial pedagógico do trabalho.",
+  "porAlt": [
+   "A I é falsa: reduzir o trabalho à dimensão técnica é a crítica feita à educação continuada, não à permanente.",
+   "A II é falsa: aproximar educação e cotidiano e reconhecer o valor pedagógico do trabalho é o eixo da educação permanente.",
+   "Correta: só a III é verdadeira, ao distinguir a EPS pela reelaboração do conhecimento na realidade do trabalho e pelo diálogo nas equipes.",
+   "Inclui a II, que atribui à educação continuada o conceito que pertence à educação permanente.",
+   "A I e a II invertem os conceitos de educação permanente e continuada, então não podem ser todas verdadeiras."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Educação e Pesquisa",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o papel do enfermeiro como educador, marque (V) se as afirmações abaixo forem verdadeiras e (F) se forem falsas, e em seguida assinale a alternativa com a sequência CORRETA:\n( ) A capacitação pedagógica do enfermeiro em sua formação inicial deve estar aliada aos processos de formação permanente para os educadores nos projetos pedagógicos das escolas.\n( ) A interdisciplinaridade implica em um novo tipo de educador, mais flexível e mediador na construção do conhecimento para que os educandos se apropriem do conhecimento a partir da ação, reflexão, ação.\n( ) A educação não é sinônimo de transferência de conhecimento, pela simples razão de que não existe um saber feito e acabado, suscetível de ser captado e compreendido pelo educador, e em seguida depositado nos educandos.",
+  "alts": [
+   "V – V – F.",
+   "F – V – F.",
+   "V – F – V.",
+   "V – V – V.",
+   "F – V – V."
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Educação em saúde",
+  "cenario": "ger",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Freire P. Pedagogia da autonomia: saberes necessários à prática educativa (1996); Portaria GM/MS 1.996/2007 (PNEPS)",
+  "coment": "As três afirmativas são verdadeiras. A formação pedagógica do enfermeiro precisa continuar ao longo da vida profissional, em diálogo com a educação permanente. A interdisciplinaridade pede um educador mediador, que constrói o conhecimento com o educando no movimento de ação, reflexão e nova ação. A terceira resume Paulo Freire: ensinar não é transferir conhecimento, porque não há saber pronto para ser depositado no aluno, crítica à educação bancária. É a base da pedagogia problematizadora que a PNEPS adota.",
+  "porAlt": [
+   "Marca a terceira como falsa, mas ela reproduz a crítica freireana à educação bancária, que é verdadeira.",
+   "Nega a primeira, mas a capacitação pedagógica inicial precisa de fato se articular com a formação permanente do educador.",
+   "Nega a segunda, mas o educador interdisciplinar é mediador e trabalha no ciclo ação, reflexão, ação.",
+   "Correta: as três afirmativas são verdadeiras e refletem a pedagogia problematizadora de Freire adotada na educação em saúde.",
+   "Nega a primeira, que é verdadeira: a formação pedagógica do enfermeiro não se esgota na graduação."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Educação e Pesquisa",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No que diz respeito à Educação Permanente, assinale a alternativa INCORRETA.",
+  "alts": [
+   "A educação permanente caracteriza-se como um processo educativo a ser aplicado nas relações humanas do trabalho, no intuito de desenvolver capacidades cognitivas, psicomotoras e relacionais dos profissionais, assim como seu aperfeiçoamento diante da evolução científica e tecnológica.",
+   "A educação permanente é um compromisso pessoal a ser aprendido, conquistado com as mudanças de atitudes decorrentes das experiências vividas, por meio da relação com os outros, com o meio, com o trabalho, buscando a transformação pessoal, profissional e social.",
+   "A educação permanente consiste no desenvolvimento pessoal que deve ser potencializado, a fim de promover, além da capacitação técnica específica dos sujeitos, a aquisição de novos conhecimentos, conceitos e atitudes.",
+   "A educação permanente é, portanto, intrínseca, uma capacidade a ser desenvolvida, uma competência, é o aprender constante em todas as relações do sujeito.",
+   "A educação permanente, baseada no aprendizado contínuo, é condição necessária para o desenvolvimento do sujeito, no que tange ao seu autoaprimoramento, direcionando-o à busca da competência pessoal, profissional e social, como uma meta a ser seguida por toda a sua vida."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Paschoal AS, Mantovani MF, Méier MJ. Rev Esc Enferm USP, 2007 (educação permanente, continuada e em serviço); Portaria GM/MS 1.996/2007 (PNEPS)",
+  "coment": "A alternativa A é a definição clássica de educação em serviço: processo educativo aplicado nas relações de trabalho para desenvolver capacidades cognitivas, psicomotoras e relacionais e aperfeiçoar o profissional diante da evolução científica e tecnológica. Por isso é a incorreta quando atribuída à educação permanente. As demais vêm da mesma literatura de enfermagem e tratam a educação permanente como compromisso pessoal, aprendizado contínuo e competência intrínseca. Na política do SUS (PNEPS), a EPS ganha ainda a dimensão coletiva: aprender a partir dos problemas do processo de trabalho.",
+  "porAlt": [
+   "Correta: esse é o conceito de educação em serviço, voltado à capacitação técnica dentro do trabalho, e não o de educação permanente.",
+   "Descreve a educação permanente como compromisso pessoal ligado à transformação pessoal, profissional e social, conceito presente na literatura.",
+   "Apresenta a educação permanente como desenvolvimento pessoal que vai além da capacitação técnica, o que está de acordo com os autores.",
+   "Trata a educação permanente como capacidade intrínseca e aprender constante, formulação usada na literatura de enfermagem.",
+   "Liga a educação permanente ao aprendizado contínuo ao longo da vida, o que é correto."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Educação e Pesquisa",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O enfermeiro assume um papel relevante na organização das atividades da ESF - Estratégia Saúde da Família e no funcionamento da unidade de saúde, levando, dentre outras ações, informações referentes ao processo saúde-doença ao conhecimento da população, e facilitando a ampliação e reorganização do modelo de atenção básica à saúde no Brasil. Dentro das atividades secundárias de prevenção de saúde, encontra-se:",
+  "alts": [
+   "vacinação e cuidados pós-exposição de crianças, adultos e idosos.",
+   "programas de saúde materno-infantil.",
+   "educação em higiene bucal e serviços de saúde bucal.",
+   "suplementação nutricional e alimentar.",
+   "inclusão de programas de prevenção de doenças nos níveis de atenção primária e especializada."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Leavell e Clark, Medicina preventiva (níveis de prevenção, 1976); Portaria GM/MS 2.436/2017 (PNAB)",
+  "coment": "Pelos níveis de Leavell e Clark, a prevenção primária reúne promoção da saúde e proteção específica: vacinação e profilaxia pós-exposição, educação em higiene bucal e suplementação nutricional. A secundária é diagnóstico precoce e tratamento oportuno. Os programas de saúde materno-infantil, com pré-natal, triagens e acompanhamento do crescimento, existem para detectar cedo agravos na gestante e na criança, por isso a banca os pôs no nível secundário. A alternativa E é genérica e fala em programas de prevenção em vários níveis de atenção, sem identificar ação secundária.",
+  "porAlt": [
+   "Vacinação e cuidados pós-exposição são proteção específica, prevenção primária, aplicada antes de a doença se instalar.",
+   "Correta: os programas materno-infantis se apoiam em rastreio e detecção precoce de agravos, o que caracteriza a prevenção secundária.",
+   "Educação em higiene bucal é promoção da saúde, atividade de prevenção primária.",
+   "Suplementação nutricional e alimentar é proteção específica, nível primário de prevenção.",
+   "Incluir programas de prevenção nos níveis de atenção é diretriz de organização da rede, não ação de prevenção secundária."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Educação e Pesquisa",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As concepções do enfermeiro são fundamentais para a prática de Promoção da Saúde, por ser aquele que detém a competência para atuar como educador, junto à equipe e à comunidade, e isso requer um pensamento com foco:",
+  "alts": [
+   "na prevenção de doenças.",
+   "nos fatores de riscos.",
+   "nos sintomas das doenças.",
+   "nas políticas públicas.",
+   "nas mudanças de atitude."
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Educação em saúde",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Carta de Ottawa para a Promoção da Saúde (OMS, 1986); Política Nacional de Promoção da Saúde, Portaria GM/MS 2.446/2014",
+  "coment": "Prevenção e promoção têm focos diferentes. A prevenção olha a doença, seus sintomas e fatores de risco. A promoção da saúde, desde a Carta de Ottawa, é o processo de capacitar pessoas e comunidades para atuar sobre os determinantes da própria saúde, o que exige desenvolvimento de habilidades e mudança de atitudes. Como educador da equipe e da comunidade, o enfermeiro trabalha com esse foco, buscando autonomia e escolhas saudáveis. Políticas públicas saudáveis são um campo da promoção, mas o enunciado pergunta sobre o pensamento do enfermeiro como educador.",
+  "porAlt": [
+   "Prevenção de doenças é o foco da prevenção, que se organiza em torno do agravo, e não da promoção da saúde.",
+   "Fatores de risco são o objeto da prevenção e da epidemiologia de risco, não o eixo da promoção.",
+   "Sintomas das doenças pertencem ao modelo clínico e curativo, oposto à lógica da promoção.",
+   "Políticas públicas saudáveis integram a promoção, mas não são o foco do enfermeiro no papel de educador.",
+   "Correta: a promoção da saúde exige do enfermeiro educador um pensamento voltado a mudanças de atitude e à autonomia das pessoas."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Educação e Pesquisa",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na organização e elaboração do Planejamento das Ações de Educação Permanente em Saúde (PEPS), a equipe técnica pode organizar o processo em algumas etapas. O texto abaixo refere-se à seguinte etapa:\nEste momento inclui a identificação e análise dos problemas existentes em termos de insuficiência de pessoal, má distribuição e inadequação dos perfis profissionais às atividades demandadas em função do processo de construção do SUS, tendo em vista os princípios de universalidade e equidade no acesso e integralidade da atenção. Implica, portanto, a identificação dos problemas que demandam, para sua solução, atividades de capacitação/atualização/ requalificação dos profissionais e trabalhadores que atuam nos diversos níveis de atenção do SUS e/ ou na gestão/gerência dos programas e serviços, através de cursos, oficinas e/ou outras atividades educativas, presenciais e/ou à distância, assim como reuniões técnicas de equipe, estudos de caso, com o envolvimento dos profissionais e trabalhadores do SUS.",
+  "alts": [
+   "seleção de problemas prioritários e elaboração de objetivos e metas.",
+   "análise da situação da força de trabalho em saúde e identificação das necessidades de educação permanente em saúde dos profissionais e trabalhadores do SUS.",
+   "programação das ações, e atividades a serem realizadas, de acordo com os objetivos definidos.",
+   "estabelecimento dos mecanismos de acompanhamento e avaliação periódica do processo e dos resultados alcançados com a execução do PEPS.",
+   "apresentação do PEPS, no âmbito das instâncias gestoras da Política de Educação Permanente em Saúde, na Comissão Inter gestores Bipartite e no Conselho Estadual de Saúde / Conselho Municipal de Saúde."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 1.996/2007, Anexo II (orientações para o Plano de Educação Permanente em Saúde), hoje na Portaria de Consolidação 2/2017",
+  "coment": "As orientações da Portaria 1.996/2007 para elaborar o PEPS seguem etapas: análise da situação de saúde, análise da força de trabalho e identificação das necessidades de educação permanente, seleção de problemas prioritários com objetivos e metas, programação das ações, acompanhamento e avaliação, e apresentação às instâncias gestoras. O trecho descreve a análise dos problemas de pessoal (insuficiência, má distribuição, perfis inadequados) e a identificação dos problemas que pedem capacitação, por isso corresponde à análise da força de trabalho e às necessidades de educação permanente.",
+  "porAlt": [
+   "A seleção de problemas prioritários vem depois e transforma o diagnóstico em objetivos e metas, sem descrever a força de trabalho.",
+   "Correta: o texto descreve a análise da força de trabalho em saúde e a identificação das necessidades de educação permanente.",
+   "A programação define ações e atividades a partir dos objetivos já definidos, etapa posterior ao diagnóstico descrito.",
+   "Os mecanismos de acompanhamento e avaliação tratam do monitoramento do plano, não da análise inicial de pessoal.",
+   "A apresentação do PEPS à CIB e aos conselhos é a etapa final de pactuação, não de diagnóstico."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Educação e Pesquisa",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na estruturação administrativa da Educação Continuada, deve-se levar em consideração o seguinte pressuposto:",
+  "alts": [
+   "trabalhar com a transformação de práticas.",
+   "as atividades devem ser construídas de maneira ascendente, com análise crítica e compartilhamento de experiência.",
+   "o saber científico é passivo.",
+   "as práticas devem ser definidas de forma multifatorial (conhecimento, valores, relações de poder, organização do trabalho etc.).",
+   "há uma articulação com a o sistema (atenção – gestão – educação – controle social), que implicam acompanhamento e apoio técnico."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Política Nacional de Educação Permanente em Saúde (Série Pactos pela Saúde, vol. 9, 2009); Portaria GM/MS 1.996/2007",
+  "coment": "O quadro do Ministério da Saúde que compara educação continuada e permanente mostra o pressuposto de cada uma. Na continuada, o conhecimento científico preside e define as práticas, é transmitido em cursos padronizados, de forma descendente, e o trabalhador o recebe passivamente. Na permanente, as práticas são definidas por múltiplos fatores (conhecimento, valores, relações de poder, organização do trabalho), as ações são ascendentes, com análise crítica, buscam transformar práticas e se articulam no quadrilátero atenção, gestão, educação e controle social. Só a C pertence à educação continuada.",
+  "porAlt": [
+   "Transformar as práticas é o objetivo da educação permanente, não da continuada, que busca atualizar conhecimentos.",
+   "Construção ascendente, com análise crítica e troca de experiência, é característica da educação permanente.",
+   "Correta: na educação continuada o saber científico é transmitido e recebido de forma passiva, definindo as práticas de cima para baixo.",
+   "Práticas definidas por múltiplos fatores, como valores e relações de poder, é o pressuposto da educação permanente.",
+   "A articulação atenção, gestão, educação e controle social é o quadrilátero da educação permanente."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Educação e Pesquisa",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A mensuração de resultados dos programas de treinamento decorre da preocupação sobre a aplicabilidade na atividade profissional do que é aprendido em cursos de educação executiva. Um dos modelos consolidados para avaliação de programas de treinamento é o modelo dos quatro níveis de Kirkpatrick, que avalia:",
+  "alts": [
+   "as reações, o aprendizado, a mudança de comportamento observável e os resultados do treinamento.",
+   "a atenção, a frequência, o aprendizado e a satisfação.",
+   "a assiduidade, a percepção, os questionamentos levantados e a carga de conhecimento absorvida.",
+   "a interatividade, as reações, o posicionamento e as críticas.",
+   "o envolvimento, a adesão, a satisfação e o conhecimento absorvido."
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Educação em saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Kirkpatrick DL, Kirkpatrick JD. Evaluating training programs: the four levels, 3ª ed. (2006)",
+  "coment": "O modelo de Kirkpatrick avalia treinamentos em quatro níveis sucessivos. Reação: satisfação do participante com o programa. Aprendizagem: conhecimentos, habilidades e atitudes adquiridos. Comportamento: transferência do que foi aprendido para o trabalho, observável na prática. Resultados: impacto na organização, como qualidade, segurança e custos. Cada nível depende do anterior, e quanto mais alto, mais difícil de medir. Frequência, assiduidade, interatividade e adesão são indicadores de participação, não níveis do modelo.",
+  "porAlt": [
+   "Correta: reação, aprendizagem, comportamento e resultados são os quatro níveis de Kirkpatrick.",
+   "Atenção e frequência medem participação; o modelo não as inclui como níveis de avaliação.",
+   "Assiduidade, percepção e questionamentos não são níveis do modelo; só a carga de conhecimento lembra a aprendizagem.",
+   "Interatividade, posicionamento e críticas não compõem o modelo; só a reação é um de seus níveis.",
+   "Envolvimento e adesão não são níveis; faltam comportamento no trabalho e resultados para a organização."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Educação e Pesquisa",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A planta física de uma Unidade de Terapia Intensiva, visa ao atendimento dos regulamentos técnicos para o adequado funcionamento dos serviços de terapia intensiva, bem como as necessidades de cuidado ao paciente crítico. Considerando a afirmativa, é CORRETO afirmar:",
+  "alts": [
+   "o ambiente deve ser climatizado e estar incluído dentre as áreas que podem utilizar o gerador de energia do hospital (geral).",
+   "a unidade deve estar localizada em uma área física diferenciada, próxima de unidades de emergência e do centro cirúrgico, facilitando o deslocamento do paciente crítico.",
+   "as paredes devem ser laváveis e possuir portas transparentes para visualização permanente dos pacientes.",
+   "o setor deverá contar com um lavatório para cada quatro leitos e poltronas para o acompanhante.",
+   "a sala de espera não poderá ser compartilhada com setores afins do hospital."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Monitorização hemodinâmica",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 50/2002 (projetos físicos de estabelecimentos de saúde); RDC ANVISA 7/2010 (requisitos mínimos de UTI)",
+  "coment": "A localização da UTI deve facilitar o acesso do paciente crítico: área física própria e restrita, próxima da emergência, do centro cirúrgico e de recursos como imagem e elevadores, para encurtar o transporte, que é momento de risco. As distratoras erram detalhes de infraestrutura. A UTI não apenas pode usar o gerador: ela exige alimentação de emergência com religação rápida para os equipamentos de suporte à vida. Portas transparentes não são requisito, a proporção de lavatórios prevista na RDC 50/2002 é outra e a sala de espera pode ser compartilhada com setores afins.",
+  "porAlt": [
+   "A UTI não está apenas entre as áreas que podem usar o gerador: ela exige energia de emergência com religação rápida para equipamentos de suporte à vida.",
+   "Correta: a UTI deve ficar em área própria, próxima da emergência e do centro cirúrgico, para facilitar o transporte do paciente crítico.",
+   "Paredes laváveis são exigidas, mas portas transparentes não são requisito normativo; a observação é garantida pelo posto e pelo layout.",
+   "A proporção de um lavatório para cada quatro leitos não é a da norma, e poltrona para acompanhante não é requisito geral da UTI adulto.",
+   "Não há proibição de compartilhar a sala de espera de acompanhantes com setores afins do hospital."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (30 h)",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São fatores, relacionados à lesão, associados à etiologia da disfunção orgânica múltipla pós-trauma, EXCETO:",
+  "alts": [
+   "gravidade da lesão.",
+   "grau de contaminação.",
+   "trauma fechado.",
+   "predisposição genética.",
+   "isquemia/reperfusão."
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Moore FA, Moore EE. Evolving concepts in the pathogenesis of postinjury multiple organ failure. Surg Clin North Am, 1995",
+  "coment": "Na disfunção de múltiplos órgãos pós-trauma, os fatores de risco se dividem em ligados à lesão e ligados ao hospedeiro. Da lesão: gravidade do trauma, grau de contaminação, mecanismo (o trauma fechado, com grande destruição tecidual, mobiliza mais inflamação), choque e lesão de isquemia e reperfusão, que dispara a resposta inflamatória sistêmica. Do hospedeiro: idade, comorbidades e predisposição genética, que modula a intensidade da resposta imune. Por isso a predisposição genética é a exceção: ela não depende da lesão.",
+  "porAlt": [
+   "A gravidade da lesão é o principal fator do trauma associado à disfunção orgânica múltipla.",
+   "O grau de contaminação da ferida aumenta o risco de infecção e de resposta inflamatória sistêmica.",
+   "O trauma fechado, com grande destruição tecidual, é fator do mecanismo da lesão associado à disfunção orgânica.",
+   "Correta: a predisposição genética é fator do hospedeiro, não da lesão, embora modifique a resposta inflamatória.",
+   "Isquemia e reperfusão após choque e reanimação ativam neutrófilos e mediadores, mecanismo central da disfunção pós-trauma."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (30 h)",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As lesões traumáticas do tórax são classificadas de acordo com risco que impõem à vida da vítima. O primeiro grupo representa as lesões que causam risco de vida iminente e, portanto, estão incluídas como de máxima prioridade. Neste contexto, marque a alternativa que NÃO corresponde a este grupo:",
+  "alts": [
+   "pneumotórax hipertensivo.",
+   "contusão pulmonar.",
+   "afundamento torácico.",
+   "hemotórax volumoso.",
+   "ferida torácica aspirativa."
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ATLS, Advanced Trauma Life Support, 11ª edição (American College of Surgeons, 2025)",
+  "coment": "O ATLS separa as lesões torácicas que ameaçam a vida de imediato, identificadas e tratadas na avaliação primária, das potencialmente fatais, reconhecidas na secundária. No primeiro grupo estão pneumotórax hipertensivo, pneumotórax aberto (ferida torácica aspirativa), hemotórax maciço, tórax instável com contusão associada (afundamento) e tamponamento cardíaco. A contusão pulmonar isolada evolui em horas, com hipoxemia progressiva, e por isso fica entre as potencialmente fatais da avaliação secundária, ao lado de pneumotórax simples, lesão de aorta e de diafragma.",
+  "porAlt": [
+   "O pneumotórax hipertensivo ameaça a vida de imediato e é descomprimido na avaliação primária, sem esperar radiografia.",
+   "Correta: a contusão pulmonar é lesão potencialmente fatal, de evolução progressiva, identificada na avaliação secundária.",
+   "O afundamento torácico (tórax instável) compromete a ventilação de imediato e entra no grupo de máxima prioridade.",
+   "O hemotórax volumoso (maciço) causa choque hemorrágico e é lesão de risco iminente.",
+   "A ferida torácica aspirativa é o pneumotórax aberto, tratado na avaliação primária com curativo fixado em três lados."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (30 h)",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A pressão intracraniana (PIC) é o reflexo da relação entre a alteração do volume cranioespinhal e a habilidade do eixo cranioespinhal de acomodar tal volume adquirido. Neste contexto, marque a alternativa INCORRETA:",
+  "alts": [
+   "o nível da PIC em que se deve iniciar tratamento depende da doença em questão.",
+   "em pacientes com hidrocefalia está indicado o tratamento quando a PIC excede 20 mmHg.",
+   "a PIC em adultos é de 7 mmHg a 15 mmHg.",
+   "pressões maiores do que 15 mmHg são, geralmente, consideradas anormais.",
+   "a hidrocefalia sintomática aguda, após hemorragia subaracnóide, é uma indicação para a instalação do monitor de pressão intracraniana."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Brain Trauma Foundation, Guidelines for the management of severe traumatic brain injury, 4ª edição (2016)",
+  "coment": "A PIC normal do adulto fica até cerca de 15 mmHg, e o limiar de tratamento depende da doença. No traumatismo craniano grave, a Brain Trauma Foundation (4ª edição, 2016) manda tratar acima de 22 mmHg. Na hidrocefalia, a literatura usada pela banca fixa limiar menor, em torno de 15 mmHg, porque o cérebro tolera mal a pressão sustentada. Por isso é incorreto dizer que, na hidrocefalia, o tratamento começa só acima de 20 mmHg. A hidrocefalia aguda sintomática após hemorragia subaracnóidea indica derivação ventricular externa, que mede e drena.",
+  "porAlt": [
+   "Está correta: o nível de PIC para iniciar tratamento varia conforme a doença de base.",
+   "Correta: na hidrocefalia o limiar de tratamento é menor que 20 mmHg, então a afirmação é a incorreta.",
+   "Está correta: a PIC normal do adulto em repouso fica entre cerca de 7 e 15 mmHg.",
+   "Está correta: pressões acima de 15 mmHg costumam ser consideradas anormais.",
+   "Está correta: a hidrocefalia aguda sintomática após hemorragia subaracnóidea é indicação de monitor e de drenagem ventricular."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (30 h)",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São os principais objetivos da monitorização neurológica intensiva, EXCETO:",
+  "alts": [
+   "publicizar decisões.",
+   "detectar precocemente a piora neurológica antes que o dano irreversível se instale.",
+   "monitorizar respostas terapêuticas e evitar complicações decorrentes do tratamento.",
+   "melhorar o entendimento fisiopatológico.",
+   "melhorar os resultados funcionais (redução de mortalidade e melhoria da qualidade de vida)."
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Consenso SIBICC para traumatismo craniano grave monitorizado (Hawryluk et al., Intensive Care Med, 2019)",
+  "coment": "A monitorização neurológica intensiva, clínica (escala de Glasgow, pupilas) e instrumental (PIC, pressão de perfusão cerebral, oxigenação cerebral), tem objetivos assistenciais e científicos: detectar cedo a piora antes de dano irreversível, acompanhar a resposta ao tratamento e evitar suas complicações, entender a fisiopatologia de cada paciente e melhorar o desfecho funcional, com menos mortalidade e melhor qualidade de vida. Publicizar decisões não é objetivo da monitorização; a comunicação com a família e o registro são outra dimensão do cuidado.",
+  "porAlt": [
+   "Correta: publicizar decisões não tem relação com os objetivos clínicos da monitorização neurológica.",
+   "Detectar precocemente a piora neurológica, antes do dano irreversível, é o objetivo central da monitorização.",
+   "Monitorizar a resposta terapêutica e evitar complicações do tratamento é objetivo explícito da neuromonitorização.",
+   "A monitorização multimodal ajuda a entender a fisiopatologia individual e a orientar condutas.",
+   "Melhorar o desfecho funcional, com menor mortalidade e melhor qualidade de vida, é a finalidade última da monitorização."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (30 h)",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando o tratamento medicamentoso pós parada cardiorrespiratória, marque a alternativa que corresponde à indicação para o uso de gluconato de cálcio a 10%:",
+  "alts": [
+   "parada cardiorrespiratória (FV/TV sem pulso).",
+   "hipoxemia.",
+   "hiperpotassemia.",
+   "acidose metabólica preexistente.",
+   "parada cardiorrespiratória não chocável."
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Diretrizes AHA 2025 de RCP e Atendimento Cardiovascular de Emergência (circunstâncias especiais e suporte avançado)",
+  "coment": "O gluconato de cálcio a 10% estabiliza a membrana do miocárdio em minutos e é a primeira medida na hiperpotassemia com alteração eletrocardiográfica ou parada atribuída a ela; não baixa o potássio, que depois se desloca para a célula com insulina e glicose. As Diretrizes AHA 2025 mantêm o cálcio de rotina na parada como sem benefício (classe 3): ele não entra no algoritmo da FV ou TV sem pulso nem no da assistolia e AESP. Hipoxemia se trata com ventilação e oxigênio, e acidose preexistente, quando indicada, com bicarbonato.",
+  "porAlt": [
+   "Na FV ou TV sem pulso o tratamento é desfibrilação, adrenalina e antiarrítmico; cálcio de rotina não tem benefício.",
+   "Hipoxemia se corrige com oxigênio e ventilação adequada, não com cálcio.",
+   "Correta: na hiperpotassemia o gluconato de cálcio a 10% protege o miocárdio em minutos, antes das medidas que baixam o potássio.",
+   "Acidose metabólica preexistente grave é a situação discutida para o bicarbonato de sódio, não para o cálcio.",
+   "No ritmo não chocável o algoritmo usa adrenalina e busca das causas reversíveis; o cálcio só entra se a causa for hiperpotassemia ou hipocalcemia."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (30 h)",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As drogas vasoativas podem salvar a vida dos pacientes que permanecem hipotensos logo após a reposição de fluidos. Considerando a afirmativa, marque a alternativa que corresponde aos principais objetivos destas drogas:",
+  "alts": [
+   "restaurar a pressão arterial média (PAM), mas sempre evitando o prejuízo do fluxo sanguíneo (débito cardíaco).",
+   "manter a pressão arterial média (PAM) maior ou igual a 85 mmHg.",
+   "em doses baixas, preservar a função renal e débito cardíaco.",
+   "reduzir o débito cardíaco.",
+   "restaurar a perfusão tecidual e preservar a função renal."
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Surviving Sepsis Campaign 2026 (alvo inicial de PAM de 65 mmHg)",
+  "coment": "Vasopressores e inotrópicos entram quando a hipotensão persiste depois da reposição volêmica. O objetivo é restaurar a pressão de perfusão, com PAM inicial de 65 mmHg pela Surviving Sepsis Campaign, sem sacrificar o débito cardíaco: vasoconstrição excessiva eleva a pressão à custa do fluxo e piora a perfusão. Por isso a A é a correta. Metas de 85 mmHg não são recomendadas de rotina, e a dopamina em dose baixa não protege o rim, conceito abandonado depois de ensaios negativos. Reduzir o débito não é objetivo dessas drogas.",
+  "porAlt": [
+   "Correta: as drogas vasoativas restauram a PAM, mas sem prejudicar o fluxo sanguíneo, isto é, o débito cardíaco.",
+   "A meta inicial recomendada é PAM de 65 mmHg; alvos de 85 mmHg ou mais não trazem benefício de rotina.",
+   "Dopamina em dose baixa não preserva a função renal; o efeito protetor foi refutado e a prática foi abandonada.",
+   "Reduzir o débito cardíaco pioraria a perfusão; o que se busca é manter ou aumentar o fluxo.",
+   "A perfusão é a finalidade, mas preservar a função renal como objetivo próprio repete o conceito superado da dose renal."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (30 h)",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a emergência hipertensiva, marque a alternativa INCORRETA:",
+  "alts": [
+   "a pressão arterial deverá ser reduzida em alguns minutos a uma hora.",
+   "são recomendados anti-hipertensivos parenterais devido à rapidez na resposta clínica e facilidade na titulação de acordo com a resposta terapêutica.",
+   "a frequência das medidas da pressão arterial devem ser feitas a intervalos mais curtos, a cada 5 a 10 minutos, e nos casos mais graves, o monitoramento invasivo é indicado.",
+   "a pressão arterial deverá ser reduzida em tempo mais prolongado, de 2 a 24 horas, de forma progressiva.",
+   "após a estabilização da pressão arterial, a terapêutica oral deverá ser iniciada enquanto ocorre o desmame progressivo dos agentes endovenosos."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH e SBN), Arq Bras Cardiol. 2025;122(9):e20250624",
+  "coment": "Na emergência hipertensiva há lesão aguda e progressiva de órgão-alvo, e a pressão precisa cair de forma controlada em minutos a uma hora, em geral até 25% na primeira hora, com metas próprias na dissecção de aorta, no edema agudo e no AVC. Usa-se anti-hipertensivo endovenoso titulável em bomba, PA aferida a cada poucos minutos ou invasiva, e depois a transição para a via oral com desmame do venoso. A redução lenta, em 24 a 48 horas e por via oral, era a conduta da antiga urgência hipertensiva, que a diretriz de 2025 passou a chamar de elevação importante da PA sem lesão progressiva de órgão-alvo.",
+  "porAlt": [
+   "Está correta: na emergência hipertensiva a pressão é reduzida de forma controlada em minutos a uma hora.",
+   "Está correta: drogas parenterais, como nitroprussiato, agem rápido e são tituláveis conforme a resposta.",
+   "Está correta: a PA é aferida a intervalos curtos e, nos casos graves, por monitorização invasiva.",
+   "Correta: redução lenta, em horas a dias, é conduta da elevação importante da PA sem lesão de órgão-alvo, não da emergência.",
+   "Está correta: estabilizada a pressão, inicia-se a via oral enquanto o anti-hipertensivo venoso é desmamado."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (30 h)",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na assistência de enfermagem ao paciente com arritmia cardíaca, deve-se observar sinais de baixo débito cardíaco. Marque a alternativa que NÃO corresponde a um destes sinais:",
+  "alts": [
+   "alteração do estado mental.",
+   "palidez cutânea e de mucosas.",
+   "enchimento capilar demorado.",
+   "redução da pressão arterial.",
+   "poliúria."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda (SBC, 2018), perfis clínico-hemodinâmicos",
+  "coment": "Arritmias com frequência muito alta ou muito baixa reduzem o débito cardíaco, e a enfermagem reconhece o baixo débito pela hipoperfusão: alteração do estado mental, palidez e pele fria, enchimento capilar lento, hipotensão, pulsos finos e diminuição da diurese. O rim mal perfundido retém sódio e água e produz oligúria, não poliúria. Por isso a poliúria é a exceção. Diurese horária é um dos melhores marcadores de perfusão à beira do leito.",
+  "porAlt": [
+   "A alteração do estado mental, de agitação a sonolência, reflete hipoperfusão cerebral no baixo débito.",
+   "Palidez cutânea e de mucosas resulta da vasoconstrição periférica compensatória do baixo débito.",
+   "Enchimento capilar demorado é sinal clássico de má perfusão periférica.",
+   "A hipotensão arterial aparece quando a compensação falha e o débito cai de forma importante.",
+   "Correta: no baixo débito o rim hipoperfundido reduz a diurese, causando oligúria, e não poliúria."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (30 h)",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São objetivos fisiológicos da ventilação não invasiva, EXCETO:",
+  "alts": [
+   "manter ou modificar a troca gasosa pulmonar.",
+   "reverter a acidose respiratória aguda.",
+   "aumentar o volume pulmonar.",
+   "prevenir ou tratar atelectasia.",
+   "insuflação pulmonar inspiratória final."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Slutsky AS. ACCP Consensus Conference: Mechanical Ventilation. Chest, 1993 (objetivos fisiológicos e clínicos)",
+  "coment": "A conferência de consenso do American College of Chest Physicians separou os objetivos do suporte ventilatório em fisiológicos e clínicos, divisão usada também para a ventilação não invasiva. Fisiológicos: manter ou modificar a troca gasosa (ventilação alveolar e oxigenação), aumentar o volume pulmonar por insuflação inspiratória final para prevenir ou tratar atelectasia e otimizar a capacidade residual funcional, e reduzir o trabalho respiratório. Reverter a acidose respiratória aguda é objetivo clínico, ao lado de reverter hipoxemia, desconforto e fadiga. Por isso é a exceção.",
+  "porAlt": [
+   "Manter ou modificar a troca gasosa pulmonar é o primeiro objetivo fisiológico do suporte ventilatório.",
+   "Correta: reverter a acidose respiratória aguda é objetivo clínico, não fisiológico, na classificação do consenso.",
+   "Aumentar o volume pulmonar é objetivo fisiológico, obtido pela insuflação inspiratória e pela otimização da capacidade residual funcional.",
+   "Prevenir ou tratar atelectasia é a finalidade da insuflação pulmonar inspiratória final, listada entre os objetivos fisiológicos.",
+   "A insuflação pulmonar inspiratória final é o meio fisiológico de aumentar o volume pulmonar."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (30 h)",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O diagnóstico de enfermagem resulta da análise, do agrupamento e da interpretação dos dados coletados no histórico e, envolve o uso de habilidades que devem aliar o conhecimento teórico à experiência prática diária. Neste contexto, marque a alternativa que NÃO corresponde às fases do raciocínio diagnóstico:",
+  "alts": [
+   "o reconhecimento da existência de indicadores ou evidências clínicas relevantes.",
+   "a elaboração mental de possíveis diagnósticos (hipóteses).",
+   "a comparação de indicadores com os possíveis diagnósticos.",
+   "a realização de uma coleta de dados focalizada.",
+   "a conduta a ser tomada em relação aos diagnósticos."
+  ],
+  "gab": 4,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Res. COFEN 736/2024 (Processo de Enfermagem); NANDA-I 2024-2026",
+  "coment": "O raciocínio diagnóstico vai do dado ao enunciado: reconhecer indicadores clínicos relevantes, levantar hipóteses diagnósticas, fazer coleta focalizada para confirmar ou descartar, comparar os indicadores com as características definidoras de cada hipótese e concluir pelo diagnóstico mais preciso. Decidir a conduta já é a etapa de planejamento, com resultados esperados e prescrição. A Res. COFEN 736/2024, que revogou a 358/2009, chama hoje o histórico de Avaliação de Enfermagem e define o diagnóstico como julgamento clínico dos dados obtidos.",
+  "porAlt": [
+   "Reconhecer indicadores ou evidências clínicas relevantes é o ponto de partida do raciocínio diagnóstico.",
+   "Elaborar mentalmente hipóteses diagnósticas é a fase seguinte ao reconhecimento dos indicadores.",
+   "Comparar os indicadores com as características definidoras de cada hipótese leva à escolha do diagnóstico.",
+   "A coleta focalizada busca dados para confirmar ou descartar as hipóteses levantadas.",
+   "Correta: definir a conduta pertence ao planejamento, etapa posterior ao diagnóstico de enfermagem."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (30 h)",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considera-se infração ética e disciplinar:",
+  "alts": [
+   "a difamação das organizações da categoria ou instituições que venham a causar danos morais, patrimoniais ou financeiros.",
+   "o dano moral irremediável na pessoa ou que ainda acarrete danos físicos, mentais, patrimoniais ou financeiros.",
+   "a ação, omissão ou conivência que implique em desobediência e/ou inobservância às disposições do Código de Ética dos Profissionais de Enfermagem.",
+   "a facilitação, execução, ocultação ou vantagem de atos que possam causar danos físicos e mentais à pessoa, família ou coletividade.",
+   "alterar ou falsificar provas, ou concorrer para a desconstrução de fato que se relacione com danos à pessoa, família ou coletividade."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Res. COFEN 564/2017 (Código de Ética dos Profissionais de Enfermagem), art. 104",
+  "coment": "O art. 104 do Código de Ética (Res. COFEN 564/2017, ainda vigente) diz que se considera infração ética e disciplinar a ação, omissão ou conivência que implique desobediência ou inobservância às disposições do Código, bem como às normas do Sistema COFEN/COREN. Responde quem comete a infração, quem concorre para ela ou dela se beneficia (art. 105). As demais alternativas descrevem condutas que podem gerar infração ou agravar a pena, mas não são a definição legal. O processo ético é regido hoje pela Res. COFEN 758/2024.",
+  "porAlt": [
+   "Difamar organizações da categoria pode ser conduta infratora, mas não é a definição de infração ética do art. 104.",
+   "Dano moral irremediável é critério de gravidade da infração para graduar a pena, não a sua definição.",
+   "Correta: reproduz o art. 104 do Código de Ética, ação, omissão ou conivência que desobedeça às disposições do Código.",
+   "Facilitar ou ocultar atos danosos pode configurar infração, mas a alternativa não traz a definição do Código.",
+   "Alterar ou falsificar provas é conduta específica, sem ser o conceito de infração ética e disciplinar."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de UTI (30 h)",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a legislação, o Sistema Nacional de Vigilância Sanitária (SNVS) é definido como",
+  "alts": [
+   "o conjunto de ações executado por instituições da Administração Pública direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios, que exerçam atividades de regulação, controle e fiscalização, articuladas com os serviços de assistência clínica e hospitalar previstos nos arts. 19 a 24 da Lei nº 8.080/90.",
+   "o conjunto de ações de vigilância sanitária definido pelo § 1º do art. 6º da Lei nº 8.080, de 19 de setembro de 1990, executado exclusivamente por instituições da Administração Pública federal, cabendo à Agência Nacional de Vigilância Sanitária a coordenação e execução de todas as atividades de regulação, normatização, controle e fiscalização sanitária no território nacional.",
+   "o conjunto de ações definido pelo § 1º do art. 6º e pelos arts. 15 a 18 da Lei nº 8.080, de 19 de setembro de 1990, executado por instituições da Administração Pública direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios, que exerçam atividades de regulação, normatização, controle e fiscalização na área de vigilância sanitária.",
+   "o conjunto de ações de regulação sanitária previsto nos arts. 6º a 8º da Lei nº 9.782, de 26 de janeiro de 1999, executado por instituições da Administração Pública direta e indireta, limitado ao registro, controle e fiscalização de produtos e serviços de interesse para a saúde, incluindo medicamentos, alimentos, cosméticos e saneantes, sob coordenação exclusiva da Agência Nacional de Vigilância Sanitária.",
+   "o conjunto de ações organizadas em caráter complementar às atividades de Atenção Básica, com foco no monitoramento clínico-epidemiológico da população atendida no SUS."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 9.782/1999, art. 1º; Lei 8.080/1990, art. 6º, § 1º",
+  "coment": "O art. 1º da Lei 9.782/1999 define o Sistema Nacional de Vigilância Sanitária como o conjunto de ações definido pelo § 1º do art. 6º e pelos arts. 15 a 18 da Lei 8.080/1990, executado por instituições da administração pública direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios que exerçam atividades de regulação, normatização, controle e fiscalização na área de vigilância sanitária. O sistema é das três esferas, e não exclusivo da União ou da ANVISA, e não se limita a produtos.",
+  "porAlt": [
+   "Erra a remissão: o SNVS se apoia no art. 6º, § 1º, e nos arts. 15 a 18 da Lei 8.080, não nos arts. 19 a 24, e omite a normatização.",
+   "O SNVS não é executado só pela União: inclui Estados, DF e Municípios, e a ANVISA coordena, sem executar tudo sozinha.",
+   "Correta: reproduz o art. 1º da Lei 9.782/1999, com as três esferas e as atividades de regulação, normatização, controle e fiscalização.",
+   "Inventa remissão e restringe o sistema a produtos; a vigilância sanitária também alcança serviços e ambientes.",
+   "O SNVS não é complementar à Atenção Básica nem tem foco clínico-epidemiológico; essa é a lógica da vigilância epidemiológica."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Fiscal Sanitário – Enfermagem",
+   "n": 16,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre as infrações sanitárias e suas sanções, conforme a Lei nº 6.437/1977, analise as afirmativas a seguir.\nI. As infrações sanitárias independem da intenção do infrator, bastando a prática do ato irregular.\nII. Entre as sanções aplicáveis, estão advertência, multa, interdição e cancelamento de autorização.\nIII. Para caracterização da infração sanitária, é indispensável a comprovação de dolo ou má-fé.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "II, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 6.437/1977, art. 2º (penalidades das infrações sanitárias)",
+  "coment": "A Lei 6.437/1977 configura as infrações sanitárias e as sanções. A infração caracteriza-se pela prática da conduta descrita na lei, sem exigir prova de dolo ou má-fé, e o resultado é imputável a quem lhe deu causa ou para ela concorreu; as atenuantes previstas na lei podem reduzir a pena, mas a alegação de boa-fé não afasta a infração. O art. 2º lista as penas, aplicáveis alternativa ou cumulativamente, entre elas advertência, multa, apreensão e inutilização de produto, interdição e cancelamento de autorização de funcionamento e de alvará. Por isso I e II estão certas e III errada.",
+  "porAlt": [
+   "A I está certa, mas a II também: advertência, multa, interdição e cancelamento de autorização estão no art. 2º.",
+   "A II está certa, mas a I também: a infração sanitária não depende da intenção do infrator.",
+   "Correta: I e II são verdadeiras; a infração independe de intenção e as sanções citadas estão no art. 2º da Lei 6.437/1977.",
+   "A III é falsa: a lei não exige dolo ou má-fé para caracterizar a infração sanitária.",
+   "A III é falsa, então as três não podem estar corretas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Fiscal Sanitário – Enfermagem",
+   "n": 17,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Durante inspeção em uma drogaria, a Vigilância Sanitária municipal constatou a venda de medicamentos controlados sem retenção da receita. O fiscal lavrou auto de infração e aplicou medida cautelar de interdição parcial. O responsável técnico apresentou defesa administrativa no prazo legal.\nNesse caso, a conduta do fiscal encontra respaldo no processo administrativo-sanitário, assegurando ao infrator o direito ao",
+  "alts": [
+   "julgamento célere, cujo recurso administrativo terá efeito suspensivo automático da penalidade.",
+   "contraditório e à ampla defesa, previstos em lei.",
+   "recurso exclusivo à instância judicial.",
+   "arquivamento do auto de infração, desde que o responsável técnico desfaça a irregularidade.",
+   "afastamento automático da penalidade mediante alegação de boa-fé."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, art. 5º, LV; Lei 6.437/1977 (processo administrativo-sanitário)",
+  "coment": "O art. 5º, LV, da Constituição assegura aos litigantes em processo administrativo o contraditório e a ampla defesa, com os meios e recursos a ela inerentes. A Lei 6.437/1977 concretiza isso no processo administrativo-sanitário: o auto de infração inicia o processo, o autuado tem prazo para defesa ou impugnação e pode recorrer das decisões. A medida cautelar de interdição não depende de defesa prévia, mas a penalidade definitiva só vem depois do processo. Não há arquivamento por regularização, afastamento por boa-fé nem recurso exclusivo ao Judiciário.",
+  "porAlt": [
+   "O recurso administrativo não tem efeito suspensivo automático sobre toda a penalidade, e celeridade não é o direito em jogo.",
+   "Correta: o processo administrativo-sanitário garante contraditório e ampla defesa (CF, art. 5º, LV).",
+   "A via administrativa tem defesa e recursos próprios; o acesso ao Judiciário existe, mas não é exclusivo.",
+   "Corrigir a irregularidade não apaga a infração já constatada nem obriga o arquivamento do auto.",
+   "Boa-fé não afasta automaticamente a penalidade; a infração sanitária não depende de dolo."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Fiscal Sanitário – Enfermagem",
+   "n": 18,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "No que se refere ao poder de polícia administrativa sanitária, classifique as afirmativas como verdadeira (V) ou falsa (F).\n( ) A fiscalização sanitária pode aplicar medidas preventivas, mesmo sem autorização judicial, desde que haja previsão legal.\n( ) A autoexecutoriedade permite que a Administração cumpra diretamente seus atos, sem necessidade de ordem judicial prévia, quando houver urgência ou autorização legal.\n( ) A coercibilidade do poder de polícia autoriza o uso ilimitado da força estatal, independentemente dos princípios constitucionais da legalidade e proporcionalidade.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – V – F.",
+   "V – F – V.",
+   "F – V – V.",
+   "V – V – V.",
+   "F – F – V."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Constituição Federal de 1988, art. 5º, LIV e LV; Lei 6.437/1977; Lei 9.782/1999",
+  "coment": "O poder de polícia sanitária tem três atributos clássicos: discricionariedade nos limites da lei, autoexecutoriedade e coercibilidade. Com previsão legal, a fiscalização aplica medidas preventivas e cautelares, como interdição e apreensão, sem ordem judicial, e a autoexecutoriedade permite executar os próprios atos diretamente quando há urgência ou autorização da lei. A coercibilidade autoriza impor o ato, inclusive com força, mas sempre limitada pela legalidade, pela proporcionalidade e pelo devido processo legal. Força ilimitada é abuso. Sequência: V, V, F.",
+  "porAlt": [
+   "Correta: as duas primeiras são verdadeiras e a terceira é falsa, porque a coercibilidade tem limite na legalidade e na proporcionalidade.",
+   "Marca a segunda como falsa, mas a autoexecutoriedade é atributo do poder de polícia, e a terceira, que é falsa, como verdadeira.",
+   "Nega a primeira, mas medidas preventivas com previsão legal dispensam ordem judicial; e aceita força ilimitada.",
+   "Aceita a terceira, mas o uso ilimitado da força viola legalidade e proporcionalidade.",
+   "Nega as duas primeiras, que descrevem corretamente o poder de polícia, e aceita a terceira, que é falsa."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Fiscal Sanitário – Enfermagem",
+   "n": 19,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Lei nº 8.080/1990 organiza as ações os serviços de saúde no SUS e define, entre suas atribuições, a vigilância epidemiológica, fundamental para identificar e controlar agravos à saúde pública no território.\nSegundo a Lei nº 8.080/1990, a vigilância epidemiológica é definida como",
+  "alts": [
+   "conjunto de ações que proporciona conhecimento, detecção ou prevenção de mudanças nos fatores determinantes e condicionantes da saúde, visando recomendar e adotar medidas de prevenção e controle.",
+   "atividade restrita ao diagnóstico clínico de doenças transmissíveis em território nacional.",
+   "conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas sanitários decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços.",
+   "conjunto de atividades que se destina, através de ações de vigilância, à promoção e proteção da saúde dos trabalhadores, visando a recuperação e reabilitação da saúde dos que sofrem agravos no trabalho.",
+   "ação privativa da União, sem participação de Estados e Municípios."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 6º, §§ 1º a 3º",
+  "coment": "O art. 6º, § 2º, da Lei 8.080/1990 define vigilância epidemiológica como o conjunto de ações que proporcionam o conhecimento, a detecção ou a prevenção de qualquer mudança nos fatores determinantes e condicionantes da saúde individual ou coletiva, para recomendar e adotar medidas de prevenção e controle das doenças ou agravos. A banca usou as outras definições do mesmo artigo como distratoras: a de vigilância sanitária (§ 1º, eliminar, diminuir ou prevenir riscos) e a de saúde do trabalhador (§ 3º). A execução é compartilhada pelas três esferas, com destaque para o município.",
+  "porAlt": [
+   "Correta: reproduz o art. 6º, § 2º, da Lei 8.080/1990, que define a vigilância epidemiológica.",
+   "A vigilância epidemiológica não se restringe ao diagnóstico clínico nem às doenças transmissíveis; abrange agravos e determinantes.",
+   "É a definição de vigilância sanitária do art. 6º, § 1º, voltada a eliminar, diminuir ou prevenir riscos.",
+   "É a definição de saúde do trabalhador, do art. 6º, § 3º, da mesma lei.",
+   "A vigilância epidemiológica é executada pelas três esferas, com papel central dos municípios, e não é privativa da União."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Fiscal Sanitário – Enfermagem",
+   "n": 20,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Em Nova Iguaçu, a Vigilância Sanitária Municipal recebeu denúncias da comunidade sobre descarga irregular de efluentes por uma indústria de produtos de higiene localizada próxima a uma escola. Em inspeção, a equipe constatou risco sanitário relevante. O fiscal lavrou auto de infração, expediu termo de interdição parcial da linha produtiva envolvida e apreendeu lotes suspeitos para análise. O fato foi comunicado ao Conselho Municipal de Saúde, em razão das denúncias reiteradas e do potencial impacto no território. A empresa apresentou defesa administrativa no prazo legal, alegando boa-fé e ausência de dolo.\nÀ luz da legislação sanitária aplicável e das competências municipais no SNVS, assinale a opção correta quanto à atuação da Vigilância Sanitária Municipal de Nova Iguaçu.",
+  "alts": [
+   "As medidas cautelares são inválidas sem prévia autorização judicial; ademais, por envolver efluentes, a competência para interdição é exclusiva do órgão ambiental estadual.",
+   "A interdição cautelar parcial, o auto de infração e a apreensão são atos válidos de polícia sanitária municipal; a responsabilidade administrativa independe de dolo; e a comunicação ao Conselho Municipal de Saúde reforça o controle social.",
+   "A aplicação de sanções exige prova de má-fé do infrator; a interdição somente pode ser decretada por decisão colegiada da Anvisa; e o Conselho Municipal de Saúde não possui função consultiva nesse tipo de ocorrência.",
+   "O processo administrativo-sanitário deve ser instaurado, porém a alegação de boa-fé extingue a penalidade; além disso, denúncias populares não podem fundamentar a ação fiscal sem laudo judicial prévio.",
+   "Por se tratar de risco coletivo, a Vigilância Sanitária municipal deve aguardar determinação do Ministério Público; a ampla defesa e o contraditório só se aplicam na esfera judicial."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 6.437/1977; Lei 9.782/1999, art. 1º; Lei 8.142/1990, art. 1º",
+  "coment": "O município integra o Sistema Nacional de Vigilância Sanitária e exerce poder de polícia sanitária no seu território. Diante de risco relevante, o fiscal pode lavrar o auto de infração, interditar cautelarmente a linha de produção e apreender lotes para análise, sem ordem judicial, porque a Lei 6.437/1977 prevê essas medidas. A infração sanitária não depende de dolo, então a alegação de boa-fé não afasta a responsabilidade administrativa, e a defesa segue no processo administrativo. Levar o caso ao Conselho Municipal de Saúde, instância de controle social da Lei 8.142/1990, é adequado.",
+  "porAlt": [
+   "Medidas cautelares sanitárias com previsão legal dispensam autorização judicial, e o município tem competência própria sobre o risco à saúde.",
+   "Correta: auto, interdição cautelar e apreensão são válidos, a responsabilidade independe de dolo e o conselho exerce controle social.",
+   "Não se exige prova de má-fé, a interdição não depende da ANVISA e o conselho de saúde tem papel no controle social.",
+   "A boa-fé não extingue a penalidade, e denúncia popular pode desencadear a ação fiscal sem laudo judicial.",
+   "A vigilância sanitária age de ofício diante do risco, e contraditório e ampla defesa valem também no processo administrativo."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Fiscal Sanitário – Enfermagem",
+   "n": 21,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre a participação social no SUS e sua interface com a Vigilância em Saúde, analise as assertivas a seguir:\nI. O Conselho Municipal de Saúde é órgão colegiado permanente e deliberativo, composto por representantes do governo, dos prestadores de serviços, dos profissionais de saúde e dos usuários.\nII. As deliberações do Conselho Municipal de Saúde, embora tenham caráter consultivo, não produzem efeitos obrigatórios para o gestor local do SUS.\nIII. As conferências de saúde, convocadas a cada quatro anos, com representação dos vários segmentos sociais, destinam-se a avaliar a situação de saúde e propor diretrizes para as políticas de saúde, inclusive de vigilância.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 1º, §§ 1º e 2º",
+  "coment": "O art. 1º da Lei 8.142/1990 cria as duas instâncias colegiadas do SUS em cada esfera. O Conselho de Saúde tem caráter permanente e deliberativo, é composto por governo, prestadores, profissionais de saúde e usuários, atua na formulação de estratégias e no controle da execução da política, e suas decisões são homologadas pelo chefe do poder legalmente constituído (§ 2º). A Conferência de Saúde se reúne a cada quatro anos, com representação dos vários segmentos sociais, para avaliar a situação de saúde e propor diretrizes (§ 1º). A II erra ao chamar o conselho de consultivo.",
+  "porAlt": [
+   "A I está certa, mas a III também reproduz o § 1º do art. 1º da Lei 8.142/1990.",
+   "A II é falsa: o conselho é deliberativo, não consultivo, e suas deliberações são homologadas pelo gestor.",
+   "Correta: I e III reproduzem o art. 1º da Lei 8.142/1990; a II contraria o caráter deliberativo do conselho.",
+   "Inclui a II, que trata como consultivo um conselho que a lei define como deliberativo.",
+   "A II é falsa, então as três não podem estar corretas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Fiscal Sanitário – Enfermagem",
+   "n": 22,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O município de Nova Iguaçu se prepara para realizar sua Conferência Municipal de Saúde. Entre as discussões, incluem-se propostas da comunidade sobre fiscalização sanitária de indústrias locais, ações de vigilância epidemiológica no território e diretrizes para maior integração da Atenção Básica com a vigilância em saúde.\nDe acordo com a Lei nº 8.142/1990, a Conferência de Saúde tem como atribuição principal",
+  "alts": [
+   "avaliar a situação de saúde e propor diretrizes para a formulação da política de saúde, convocada a cada quatro anos, com representação de vários segmentos sociais.",
+   "substituir o Conselho Municipal de Saúde em sua função deliberativa permanente, sempre que ocorrer risco sanitário relevante.",
+   "exercer poder de polícia administrativa sobre os estabelecimentos de saúde e indústria de interesse sanitário.",
+   "atuar como órgão fiscalizador da gestão financeira do Fundo Municipal de Saúde, com competência para aplicar sanções a gestores.",
+   "homologar diretamente as deliberações das conferências estaduais, garantindo sua aplicação automática no município."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 1º, § 1º",
+  "coment": "Pelo art. 1º, § 1º, da Lei 8.142/1990, a Conferência de Saúde reúne-se a cada quatro anos com a representação dos vários segmentos sociais para avaliar a situação de saúde e propor as diretrizes para a formulação da política de saúde nos níveis correspondentes, convocada pelo Poder Executivo ou, extraordinariamente, por ela própria ou pelo conselho. A conferência propõe; não substitui o conselho, não exerce poder de polícia, não fiscaliza o fundo com poder sancionador e não homologa decisões de outras esferas.",
+  "porAlt": [
+   "Correta: reproduz o art. 1º, § 1º, da Lei 8.142/1990, que define a atribuição da Conferência de Saúde.",
+   "A conferência não substitui o conselho; ele é a instância permanente e deliberativa, e ela, periódica e propositiva.",
+   "Poder de polícia administrativa é da vigilância sanitária, não da conferência de saúde.",
+   "A fiscalização do fundo cabe ao conselho e aos órgãos de controle; a conferência não aplica sanções.",
+   "Não há homologação automática de deliberações estaduais; cada conferência propõe diretrizes no próprio nível."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Fiscal Sanitário – Enfermagem",
+   "n": 23,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Uma ESF identificou aumento de casos de diarreia em sua área, notificou a Vigilância Epidemiológica municipal, que investigou o surto e articulou ações com outros setores.\nSobre a integração entre Vigilância em Saúde e Atenção Primária, está correto afirmar que a",
+  "alts": [
+   "notificação deveria ter sido feita diretamente ao nível estadual, por tratar-se de surto de notificação compulsória imediata.",
+   "Vigilância Epidemiológica atua independentemente da Atenção Primária, pois possuem fluxos assistenciais distintos.",
+   "identificação pela APS, investigação epidemiológica e articulação intersetorial exemplificam a integração territorial entre cuidado e vigilância.",
+   "participação do Conselho Municipal de Saúde constitui ingerência indevida na gestão técnico-operacional da vigilância.",
+   "integração entre APS e Vigilância em Saúde depende da decisão da gestão municipal"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Investigação de surtos",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Res. CNS 588/2018 (Política Nacional de Vigilância em Saúde); Portaria de Consolidação GM/MS 4/2017, Anexo V, atualizada pela Portaria GM/MS 11.211/2026",
+  "coment": "A Política Nacional de Vigilância em Saúde (Res. CNS 588/2018) e a PNAB pedem integração entre vigilância e Atenção Primária no território. O caso mostra isso: a ESF detectou o aumento de diarreia, notificou a vigilância municipal, que investigou o surto e articulou ações com outros setores, como saneamento e vigilância sanitária. A notificação de surto é imediata, mas vai à autoridade de saúde local, que comunica as outras esferas pela Portaria de Consolidação 4/2017, atualizada pela Portaria 11.211/2026. A integração é diretriz da política, não escolha do gestor.",
+  "porAlt": [
+   "Surto se notifica de imediato à autoridade de saúde do município, que repassa ao estado; não se pula o nível local.",
+   "Vigilância e Atenção Primária devem atuar integradas no território, e não de forma independente.",
+   "Correta: detecção pela APS, investigação pela vigilância e ação intersetorial são exemplo da integração entre cuidado e vigilância.",
+   "A participação do conselho de saúde é controle social previsto na Lei 8.142/1990, não ingerência indevida.",
+   "A integração entre APS e vigilância é diretriz da Política Nacional de Vigilância em Saúde, não decisão discricionária."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Fiscal Sanitário – Enfermagem",
+   "n": 24,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A atuação da Vigilância Sanitária Municipal pode ser planejada de forma tradicional (resposta a denúncias) ou por meio da fiscalização orientada por risco e da vigilância ativa, princípios reforçados nas políticas nacionais de saúde.\nA fiscalização orientada por risco na Vigilância Sanitária caracteriza-se por",
+  "alts": [
+   "selecionar previamente os alvos de inspeção com base em critérios técnicos de gravidade, probabilidade e impacto dos riscos sanitários.",
+   "priorizar estabelecimentos com maior histórico de não-conformidades identificadas em inspeções anteriores, independentemente da análise prospectiva de gravidade do dano potencial à saúde.",
+   "atuar apenas em resposta a denúncias da comunidade, sem planejamento prévio.",
+   "concentrar ações em estabelecimentos de alta complexidade, como hospitais e laboratórios, por apresentarem risco sanitário inerente.",
+   "depender de autorização judicial para cada ação de fiscalização preventiva."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Res. CNS 588/2018 (Política Nacional de Vigilância em Saúde); Lei 9.782/1999",
+  "coment": "Fiscalizar por risco é planejar: os alvos de inspeção são escolhidos antes, por critérios técnicos que combinam a gravidade do dano possível, a probabilidade de ocorrer e o impacto sobre a população. Assim a vigilância concentra equipe e tempo onde o risco sanitário é maior, em vez de só responder a denúncias. O histórico de não conformidades é um dos critérios, mas não substitui a análise prospectiva da gravidade. A complexidade do serviço sozinha também não define prioridade, e a ação preventiva não depende de autorização judicial.",
+  "porAlt": [
+   "Correta: a fiscalização orientada por risco escolhe os alvos antes, por gravidade, probabilidade e impacto dos riscos sanitários.",
+   "O histórico de não conformidades é um critério, mas ignorar a gravidade potencial do dano contraria a lógica do risco.",
+   "Atuar só por denúncia é o modelo tradicional e reativo, oposto à fiscalização planejada por risco.",
+   "Alta complexidade não equivale a maior risco; a priorização depende da análise de cada atividade.",
+   "A fiscalização preventiva é ato de polícia administrativa e não depende de autorização judicial."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Fiscal Sanitário – Enfermagem",
+   "n": 25,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O poder de polícia administrativa sanitária permite que o fiscal municipal limite ou condicione atividades privadas em prol da saúde coletiva. No entanto, a Constituição Federal e a legislação em vigor impõem limites a esse poder, vedando arbitrariedades e responsabilizando a autoridade que ultrapassar tais limites.\nConfigura abuso de autoridade, no exercício do poder de polícia sanitária, quando o fiscal",
+  "alts": [
+   "interdita preventivamente um estabelecimento sem autorização prévia do gestor municipal, fundamentando-se exclusivamente em risco sanitário grave e iminente constatado em inspeção.",
+   "recusa-se a liberar alvará sanitário mesmo após regularização das não-conformidades, até que o estabelecimento comprove quitação de multas anteriores.",
+   "apreende produtos vencidos e aplica multa no mesmo ato de inspeção, sem conceder prazo prévio para defesa ou regularização voluntária.",
+   "utiliza o cargo para constranger indevidamente o administrado, aplicando sanção não prevista em lei.",
+   "realiza inspeção programada em estabelecimento de interesse à saúde, com base em plano municipal de vigilância."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Lei 13.869/2019 (abuso de autoridade), art. 1º; Constituição Federal de 1988, art. 37",
+  "coment": "A Lei 13.869/2019 tipifica abuso de autoridade quando o agente público, no exercício da função, abusa do poder que lhe foi atribuído com a finalidade de prejudicar outrem, beneficiar a si ou a terceiro, ou por capricho ou satisfação pessoal. Usar o cargo para constranger o administrado e aplicar sanção que a lei não prevê viola a legalidade (CF, art. 37) e configura esse desvio. Interditar diante de risco grave constatado e inspecionar conforme plano municipal são atos legítimos de polícia sanitária. Condicionar alvará a multas e multar sem defesa são irregulares, mas não trazem o elemento de constrangimento abusivo.",
+  "porAlt": [
+   "Interdição cautelar diante de risco grave e iminente constatado é ato legítimo de polícia sanitária e não exige aval do gestor.",
+   "Condicionar o alvará à quitação de multas é irregularidade discutível, mas não descreve o uso do cargo para constranger.",
+   "Apreender produtos vencidos no ato é legítimo; a multa segue o processo administrativo, mas a alternativa não descreve abuso de autoridade.",
+   "Correta: usar o cargo para constranger o administrado e aplicar sanção sem previsão legal é abuso de autoridade.",
+   "Inspeção programada com base no plano municipal de vigilância é exercício regular do poder de polícia."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Fiscal Sanitário – Enfermagem",
+   "n": 26,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A respeito da integração da Vigilância em Saúde com o SUS no território, assinale a opção incorreta.",
+  "alts": [
+   "A Atenção Primária à Saúde é porta de entrada preferencial do SUS e deve articular-se continuamente com a Vigilância em Saúde.",
+   "A vigilância ativa pressupõe busca de casos e monitoramento proativo, evitando depender exclusivamente de notificações espontâneas.",
+   "A fiscalização orientada por risco deve priorizar recursos em áreas e serviços de maior impacto sanitário, aumentando a eficiência do controle.",
+   "A participação da comunidade é facultativa, não havendo obrigatoriedade de mecanismos institucionais de controle social na vigilância.",
+   "A integração entre APS e vigilância contribui para superar a fragmentação entre promoção, prevenção e cuidado clínico."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, art. 198, III; Lei 8.142/1990; Res. CNS 588/2018 (Política Nacional de Vigilância em Saúde)",
+  "coment": "A participação da comunidade é diretriz constitucional do SUS (CF, art. 198, III) e se institucionaliza nos conselhos e conferências de saúde da Lei 8.142/1990, que alcançam também a vigilância em saúde. A Política Nacional de Vigilância em Saúde inclui a participação social entre seus princípios. Por isso é incorreto dizer que ela é facultativa. As demais afirmativas estão certas: a APS é porta de entrada preferencial e se articula com a vigilância, a vigilância ativa busca casos, e a fiscalização por risco prioriza onde o impacto é maior.",
+  "porAlt": [
+   "Está correta: a APS é porta de entrada preferencial e deve se articular com a vigilância em saúde.",
+   "Está correta: vigilância ativa é busca de casos e monitoramento proativo, sem depender só da notificação espontânea.",
+   "Está correta: a fiscalização orientada por risco concentra recursos onde o impacto sanitário é maior.",
+   "Correta: a participação da comunidade é diretriz constitucional e tem mecanismos obrigatórios de controle social.",
+   "Está correta: a integração entre APS e vigilância reduz a fragmentação entre promoção, prevenção e cuidado."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Fiscal Sanitário – Enfermagem",
+   "n": 27,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Considerando a legislação sanitária federal, o Sistema Nacional de Vigilância Sanitária (SNVS) e os princípios do SUS, assinale a opção incorreta.",
+  "alts": [
+   "O SNVS, definido pela Lei nº 9.782/1999, integra instituições das três esferas de governo que exercem atividades de regulação, controle e fiscalização sanitária.",
+   "O auto de infração e o termo de apreensão podem ser lavrados no mesmo ato fiscalizatório, sendo que a apreensão independe de defesa prévia quando houver risco sanitário, mas a sanção pecuniária exige processo administrativo.",
+   "O poder de polícia sanitária permite impor restrições à atividade econômica, devendo sempre respeitar os princípios da legalidade, proporcionalidade e motivação.",
+   "A fiscalização orientada por risco e a vigilância ativa dispensam a participação comunitária, pois são de competência exclusiva da autoridade sanitária.",
+   "A notificação de doenças pela APS à Vigilância Epidemiológica pode ser compulsória para alguns agravos e facultativa para outros, conforme definido em lista nacional atualizada periodicamente pelo Ministério da Saúde."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 9.782/1999, art. 1º; Lei 6.437/1977; Constituição Federal de 1988, art. 198, III",
+  "coment": "Nenhuma ação do SUS dispensa a participação da comunidade, diretriz do art. 198, III, da Constituição. A fiscalização é competência da autoridade sanitária, mas o planejamento por risco e a vigilância ativa se apoiam em denúncias, informações do território e controle social pelos conselhos. Por isso a D é a incorreta. As outras estão certas: o SNVS da Lei 9.782/1999 reúne as três esferas; auto e apreensão podem ser lavrados juntos, com a cautelar antes da defesa e a multa só após o processo; o poder de polícia obedece a legalidade, proporcionalidade e motivação; e a lista de notificação é nacional e atualizada.",
+  "porAlt": [
+   "Está correta: o SNVS da Lei 9.782/1999 integra instituições das três esferas com atividades de regulação, controle e fiscalização.",
+   "Está correta: a apreensão cautelar dispensa defesa prévia diante do risco, mas a multa exige o processo administrativo-sanitário.",
+   "Está correta: o poder de polícia restringe a atividade econômica dentro da legalidade, da proporcionalidade e da motivação.",
+   "Correta: a participação comunitária é diretriz constitucional do SUS e não é dispensada pela fiscalização por risco.",
+   "Está correta: a lista nacional define agravos de notificação compulsória e é atualizada periodicamente, como fez a Portaria 11.211/2026."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "SEMUS Nova Iguaçu 2025, Fiscal Sanitário – Enfermagem",
+   "n": 28,
+   "parte": "politicas"
+  }
+ }
+]

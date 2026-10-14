@@ -1,0 +1,1346 @@
+[
+ {
+  "q": "Segundo Potter (2017), a classificação cirúrgica indica o nível de cuidados que um paciente requer. A American Society of Anesthesiology (ASA) atribui a classificação com base na condição independente fisiológica do paciente do procedimento cirúrgico proposto. Assim, como é classificado um paciente moribundo que não se espera que sobreviva à cirurgia?",
+  "alts": [
+   "ASA I.",
+   "ASA II.",
+   "ASA III.",
+   "ASA IV.",
+   "ASA V."
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Anestesia e posicionamento",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "ASA Physical Status Classification System (American Society of Anesthesiologists, aprovada em 2014, última emenda em 2020)",
+  "coment": "A classificação do estado físico da ASA vai de I a VI. ASA I é o paciente saudável; II, doença sistêmica leve; III, doença sistêmica grave; IV, doença sistêmica grave que é ameaça constante à vida; V, paciente moribundo que não se espera que sobreviva sem a operação; VI, morte encefálica declarada, doador de órgãos. O texto de Potter, citado no enunciado, resume o ASA V como o moribundo que não deve sobreviver, e é essa a resposta. A ASA não mede o risco da cirurgia em si, só a condição fisiológica do paciente, e o sufixo E marca a cirurgia de emergência.",
+  "porAlt": [
+   "ASA I é o paciente normal e saudável, sem doença sistêmica.",
+   "ASA II é o paciente com doença sistêmica leve, sem limitação funcional importante.",
+   "ASA III é o paciente com doença sistêmica grave, ainda sem ameaça constante à vida.",
+   "ASA IV é a doença sistêmica grave com ameaça constante à vida, mas não o moribundo.",
+   "Correta: ASA V é o paciente moribundo, que não se espera que sobreviva sem a operação."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 23,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Analise o texto abaixo:\n\"Nessa técnica, os dedos de uma das mãos (geralmente a mão não dominante) apoiam o períneo de encontro à apresentação (mão espalmada sobre compressa), enquanto a mão dominante faz leve pressão sobre a cabeça para controlar a velocidade de impulsão, tentando reduzir os danos de encontro aos tecidos perineais resistentes\" (ARAÚJO, REIS, 2014). Marque a opção que apresenta o nome da técnica de proteção do períneo durante a expulsão fetal, descrita acima.",
+  "alts": [
+   "Manobra de Ritgen.",
+   "Manobra de Delee.",
+   "Manobra de Schultze.",
+   "Manobra de Greenberg.",
+   "Manobra de Duncan."
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Diretriz Nacional de Assistência ao Parto Normal (MS/CONITEC, 2017); Araújo e Reis, Enfermagem na prática materno-neonatal (2014)",
+  "coment": "A técnica descrita, com a mão não dominante espalmada sobre compressa apoiando o períneo e a dominante controlando a deflexão e a velocidade da cabeça, é a que a literatura brasileira de enfermagem obstétrica chama de manobra de Ritgen (na forma modificada). É a técnica de mãos sobre o períneo. A Diretriz Nacional de Assistência ao Parto Normal aceita tanto as mãos sobre o períneo quanto as mãos prontas, sem tocar, e não recomenda episiotomia de rotina nem manobra de Kristeller. Schultze e Duncan não são manobras: são mecanismos de desprendimento da placenta.",
+  "porAlt": [
+   "Correta: é a manobra de Ritgen, proteção do períneo com uma mão e controle da saída da cabeça fetal com a outra.",
+   "O nome DeLee não designa a técnica de proteção perineal descrita no texto citado.",
+   "Schultze é o mecanismo de dequitação em que a placenta sai pela face fetal, não manobra perineal.",
+   "Greenberg não é o nome da técnica de proteção do períneo descrita por Araújo e Reis.",
+   "Duncan é o mecanismo de dequitação em que a placenta sai pela face materna, não manobra perineal."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 24,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Manual de Normas e Procedimentos para Vacinação (2014), na sala de vacinação, é importante que todos os procedimentos desenvolvidos promovam a máxima segurança, reduzindo o risco de contaminação para os indivíduos vacinados e também para a equipe de vacinação. Para tanto, é necessário cumprir as seguintes especificidades e condições em relação ao ambiente e às instalações:",
+  "alts": [
+   "teto com acabamento em gesso acartonado (drywall).",
+   "bancada feita de material poroso para o preparo dos insumos.",
+   "pia única para a lavagem dos materiais e uso dos profissionais.",
+   "portas e janelas pintadas com tinta lavável.",
+   "piso e paredes lisos, com frestas e laváveis."
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Rede de frio e conservação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Manual de Normas e Procedimentos para Vacinação (MS, 2014), item 3.1",
+  "coment": "O item 3.1 do Manual de Normas e Procedimentos para Vacinação lista as condições da sala de vacinação, área semicrítica e exclusiva para imunobiológicos: área mínima de 6 m², piso e paredes lisos, contínuos (sem frestas) e laváveis, portas e janelas pintadas com tinta lavável, teto com acabamento resistente à lavagem, bancada de material não poroso, pia para lavagem dos materiais e pia específica para a higiene das mãos, tomada exclusiva por equipamento e refrigeração exclusiva para vacinas. As alternativas erradas invertem exatamente esses requisitos.",
+  "porAlt": [
+   "O manual exige teto com acabamento resistente à lavagem; não especifica gesso acartonado.",
+   "A bancada deve ser de material não poroso, que permite limpeza e desinfecção.",
+   "São duas pias: uma para lavar materiais e outra específica para a higiene das mãos.",
+   "Correta: o manual pede portas e janelas pintadas com tinta lavável.",
+   "Piso e paredes devem ser lisos, contínuos e sem frestas, onde se acumulam sujidade e microrganismos."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 25,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Brunner e Suddarth (2014), assinale a opção que apresenta uma consideração de enfermagem na administração da terapia trombolítica.",
+  "alts": [
+   "Usar preferencialmente o manguito de pressão arterial não invasivo.",
+   "Monitoriza à procura de arritmias crônicas e hipertensão.",
+   "Utilizar as injeções intramusculares como via principal de administração.",
+   "Tratar o sangramento importante interrompendo a terapia trombolítica.",
+   "Coletar o sangue para exames laboratoriais após a linha intravenosa (IV)."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 13ª ed. (2014), considerações na terapia trombolítica",
+  "coment": "O trombolítico dissolve o trombo e também qualquer coágulo hemostático, por isso o maior risco é o sangramento. O cuidado de enfermagem descrito por Brunner reduz punções, evita injeção intramuscular e punção arterial não compressível, aproveita a punção do acesso venoso para coletar os exames, vigia sangramento, arritmias de reperfusão e hipotensão. Sangramento menor se controla com compressão local; sangramento importante exige interromper a infusão e comunicar o médico imediatamente. Por isso a D é a correta.",
+  "porAlt": [
+   "Não é a consideração listada: o foco é evitar trauma vascular, e insuflações repetidas do manguito podem causar hematoma no paciente trombolisado.",
+   "Monitoriza-se arritmia de reperfusão, que é aguda, e hipotensão, não arritmia crônica e hipertensão.",
+   "Injeção intramuscular deve ser evitada, porque causa hematoma e sangramento no músculo.",
+   "Correta: diante de sangramento importante, a terapia trombolítica é interrompida e o médico é comunicado.",
+   "O sangue para exames é coletado no momento da instalação do acesso venoso, para não fazer nova punção depois."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 27,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Brunner e Suddarth (2014), qual doença é caracterizada por uma abertura no diafragma, através da qual o esôfago passa, torna-se aumentada, e parte da porção superior do estômago tende a mover-se para cima, dentro da porção inferior do tórax?",
+  "alts": [
+   "Acalasia.",
+   "Esôfago de Barret.",
+   "Doença por Refluxo Gastroesofágico.",
+   "Divertículo.",
+   "Hérnia hiatal."
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 13ª ed. (2014), distúrbios do esôfago",
+  "coment": "Na hérnia hiatal, o hiato esofágico do diafragma, por onde passa o esôfago, está alargado, e parte do estômago sobe para o tórax. Há dois tipos: por deslizamento (tipo I, a mais comum), em que a junção gastroesofágica e parte do estômago sobem, e paraesofágica, em que parte do estômago sobe ao lado do esôfago. Os sintomas são pirose, regurgitação e disfagia, e a enfermagem orienta refeições pequenas, não deitar logo após comer e elevar a cabeceira. A cirurgia (fundoplicatura) fica para os casos refratários ou complicados.",
+  "porAlt": [
+   "Acalasia é a falha de relaxamento do esfíncter esofágico inferior com perda da peristalse, sem herniação.",
+   "Esôfago de Barrett é a metaplasia do epitélio esofágico distal causada pelo refluxo crônico.",
+   "A doença do refluxo é o retorno do conteúdo gástrico ao esôfago; pode acompanhar a hérnia, mas não é a herniação.",
+   "Divertículo é uma bolsa da parede do esôfago, como o de Zenker, sem passagem do estômago para o tórax.",
+   "Correta: a hérnia hiatal é o alargamento do hiato com subida de parte do estômago para o tórax."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 28,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Política Nacional de Atenção Integral à Saúde do Homem (2008), marque a opção correta:",
+  "alts": [
+   "O câncer da próstata é uma neoplasia que, geralmente, apresenta evolução rápida, de modo que a mortalidade poderá ser evitada quando o processo é diagnosticado e tratado com precocidade.",
+   "Ao se falar de neoplasias malignas do aparelho urinário, o câncer de pênis é um tumor raro, relacionado com as baixas condições socioeconômicas e a má higiene íntima.",
+   "As disfunções sexuais, notadamente a disfunção erétil, são um importante marcador para certas doenças, como a coronariopatia e a diabete, porém não interferem na qualidade de vida da população masculina.",
+   "A hipertrofia prostática maligna atinge a minoria da população masculina após os 45 anos, produzindo poucos sintomas urinários sem impactos sobre a qualidade de vida das pessoas.",
+   "Vale assinalar que há de se cuidar da qualidade de vida dos pacientes que sofreram prostatectomias, sobretudo as radicais, cujas lesões nervosas podem determinar apenas disfunções eréteis."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Saúde do homem",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Política Nacional de Atenção Integral à Saúde do Homem: princípios e diretrizes (MS, 2008); Portaria GM/MS 1.944/2009",
+  "coment": "O documento de princípios e diretrizes da PNAISH (2008), instituída pela Portaria GM/MS 1.944/2009 e hoje consolidada na PRC 2/2017, descreve o câncer de pênis como tumor raro, ligado a baixas condições socioeconômicas e à má higiene íntima, e portanto evitável com higiene, circuncisão quando indicada e, hoje, vacina contra HPV. As demais alternativas foram distorcidas: o câncer de próstata costuma evoluir lentamente; a disfunção erétil afeta a qualidade de vida; a hiperplasia prostática é benigna e atinge a maioria dos homens com a idade; e a prostatectomia radical pode causar disfunção erétil e incontinência urinária.",
+  "porAlt": [
+   "O câncer de próstata em geral tem evolução lenta, o que dá tempo ao diagnóstico precoce.",
+   "Correta: o câncer de pênis é raro e associado a baixas condições socioeconômicas e à má higiene íntima.",
+   "A disfunção erétil é marcador de coronariopatia e diabetes e interfere, sim, na qualidade de vida.",
+   "O aumento prostático da idade é a hiperplasia benigna, que atinge a maioria dos homens e causa sintomas urinários.",
+   "A lesão nervosa da prostatectomia radical pode causar disfunção erétil e também incontinência urinária, não apenas a primeira."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 29,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Ao ocluir a artéria braquial com um manguito de pressão arterial por 3 minutos pode ser produzido um espasmo carpal (contração de dedos e da mão), que imita o espasmo que ocorre com a hipocalcemia ou hipomagnesemia.Assim, qual o nome desse sinal, segundo Brunner e Suddarth (2014)?",
+  "alts": [
+   "Candelabro.",
+   "Chvostek.",
+   "Trousseau.",
+   "Tinel.",
+   "Brudzinski."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 13ª ed. (2014), desequilíbrios de cálcio e magnésio",
+  "coment": "O sinal de Trousseau se pesquisa insuflando o manguito acima da pressão sistólica no braço por cerca de 3 minutos: a isquemia aumenta a excitabilidade neuromuscular e provoca o espasmo carpal (flexão do punho e das articulações metacarpofalângicas, com extensão dos dedos e adução do polegar). Junto com o sinal de Chvostek, indica tetania latente por hipocalcemia ou hipomagnesemia. A enfermagem que encontra o sinal comunica, confere cálcio iônico e magnésio e prepara a reposição prescrita, com monitorização cardíaca.",
+  "porAlt": [
+   "Candelabro não é sinal de tetania pesquisado com manguito no braço.",
+   "Chvostek é a contração dos músculos faciais à percussão do nervo facial, na frente da orelha.",
+   "Correta: o espasmo carpal provocado pela oclusão da artéria braquial por 3 minutos é o sinal de Trousseau.",
+   "Tinel é a parestesia ao percutir um nervo comprimido, como o mediano na síndrome do túnel do carpo.",
+   "Brudzinski é a flexão dos quadris e joelhos ao fletir o pescoço, sinal de irritação meníngea."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 30,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Brunner e Suddarth (2014), uma das responsabilidades da equipe do centro cirúrgico é realizar a lista de verificação de segurança cirúrgica. Assim, assinale a opção que apresenta um item que deve ser verificado na saída do paciente da sala do centro cirúrgico.",
+  "alts": [
+   "Vias respiratórias difíceis / risco de broncoaspiração.",
+   "Profilaxia com antibióticos foi administrada nos últimos 60 minutos.",
+   "Paciente tem alergia conhecida.",
+   "Existe algum problema com o equipamento a ser abordado.",
+   "As imagens estão sendo exibidas."
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Cirurgia segura",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Protocolo para Cirurgia Segura (MS/ANVISA/Fiocruz, 2013), Portaria MS 1.377/2013; Lista de Verificação da OMS (2009)",
+  "coment": "A lista de verificação da OMS, adotada no Brasil pelo protocolo da Portaria 1.377/2013, tem três momentos. Antes da indução (sign in): identidade, sítio, consentimento, demarcação, checagem da anestesia, oxímetro, alergia, via aérea difícil e risco de perda sanguínea. Antes da incisão (time out): apresentação da equipe, confirmação do procedimento, eventos críticos, profilaxia antibiótica nos últimos 60 minutos e imagens exibidas. Antes da saída da sala (sign out): nome do procedimento, contagem de instrumentais, compressas e agulhas, identificação de amostras, problemas com equipamentos a resolver e cuidados da recuperação.",
+  "porAlt": [
+   "Via aérea difícil e risco de aspiração são verificados antes da indução anestésica.",
+   "A profilaxia antibiótica nos últimos 60 minutos é confirmada na pausa antes da incisão.",
+   "Alergia conhecida é checada antes da indução anestésica.",
+   "Correta: problemas com equipamentos a serem resolvidos fazem parte da verificação antes de o paciente sair da sala.",
+   "A exibição das imagens essenciais é confirmada na pausa antes da incisão."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Potter (2017), as dores podem ser classificadas por localização. Assim, como é classificada a dor que ocorre em uma parte do corpo distinta daquela da origem da dor e que assume quaisquer características?",
+  "alts": [
+   "Superficial.",
+   "Cutânea.",
+   "Profunda.",
+   "Em irradiação.",
+   "Referida."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Potter e Perry, Fundamentos de Enfermagem, 9ª ed. (2017), classificação da dor por localização",
+  "coment": "Potter classifica a dor por localização. Superficial ou cutânea: de curta duração, localizada, em queimação ou pontada. Profunda ou visceral: de órgãos internos, difusa. Em irradiação: estende-se do local inicial a outra parte do corpo, como a dor cardíaca que corre para o braço. Referida: sentida numa parte do corpo distinta da origem e que pode assumir qualquer característica, como a dor no ombro na irritação diafragmática ou a dor no braço esquerdo no infarto. Conhecer o padrão evita atribuir ao local errado a causa da dor.",
+  "porAlt": [
+   "Dor superficial vem da pele ou do tecido subcutâneo e é localizada no próprio ponto de origem.",
+   "Dor cutânea é a superficial, sentida no lugar do estímulo, de curta duração.",
+   "Dor profunda ou visceral nasce de órgãos internos e é difusa, mas não é definida pela distância da origem.",
+   "Dor em irradiação estende-se do local inicial para outra região, de forma contínua a partir da origem.",
+   "Correta: dor referida é sentida numa parte do corpo distinta da origem e pode assumir qualquer característica."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Potter (2017), a escala de Braden é utilizada para prever o risco de lesão por pressão. Assim, além da percepção sensorial quais os parâmetros devem ser observados?",
+  "alts": [
+   "Temperatura corporal, atividade, mobilidade, nutrição, atrito e cisalhamento.",
+   "Umidade, atividade, mobilidade, nutrição, atrito e cisalhamento.",
+   "Umidade, pulso, mobilidade, nutrição, atrito e cisalhamento.",
+   "Temperatura corporal, atividade, pressão arterial, nutrição, atrito e cisalhamento.",
+   "Umidade, atividade, mobilidade, nutrição, saturação e temperatura corporal."
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Escala de Braden (validação brasileira de Paranhos e Santos, 1999); Nota Técnica GVIMS/GGTES/Anvisa 05/2023",
+  "coment": "A escala de Braden tem seis subescalas: percepção sensorial, umidade, atividade, mobilidade, nutrição e fricção e cisalhamento. As cinco primeiras pontuam de 1 a 4, e fricção e cisalhamento de 1 a 3, com total de 6 a 23; quanto menor o escore, maior o risco. A Nota Técnica Anvisa 05/2023 pede avaliação de risco com escala validada na admissão, reavaliação diária e sempre que a condição clínica mudar. Temperatura, pulso, pressão arterial e saturação não fazem parte da escala.",
+  "porAlt": [
+   "Temperatura corporal não é subescala da Braden; a umidade da pele é que entra.",
+   "Correta: umidade, atividade, mobilidade, nutrição e fricção e cisalhamento completam a Braden com a percepção sensorial.",
+   "Pulso não é subescala da Braden; falta a atividade.",
+   "Temperatura e pressão arterial não fazem parte da Braden; faltam umidade e mobilidade.",
+   "Saturação e temperatura não fazem parte da Braden; falta fricção e cisalhamento."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Potter (2017), enfermeiros que têm o enfoque na conservação e que promovem o equilíbrio entre as intervenções de enfermagem e a participação do paciente para ajudá-lo a conservar a energia necessária para a cura, estão aplicando qual teoria de enfermagem?",
+  "alts": [
+   "Henderson.",
+   "Orem.",
+   "King.",
+   "Levine.",
+   "Watson."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Teorias de enfermagem",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Potter e Perry, Fundamentos de Enfermagem, 9ª ed. (2017), teorias de enfermagem; Levine, Modelo de Conservação (1967)",
+  "coment": "Myra Levine propôs o Modelo de Conservação: a enfermagem intervém para que a pessoa conserve energia e integridade enquanto se adapta e se recupera. São quatro princípios de conservação: energia, integridade estrutural, integridade pessoal e integridade social. O equilíbrio entre o que o enfermeiro faz e o que o paciente consegue fazer, para não gastar a energia necessária à cura, é a marca da teoria. Henderson trata das 14 necessidades e da independência, Orem do autocuidado, King do alcance de metas e Watson do cuidado humano transpessoal.",
+  "porAlt": [
+   "Henderson define a enfermagem pela ajuda nas 14 necessidades básicas até a pessoa recuperar a independência.",
+   "Orem centra a teoria no autocuidado e nos sistemas de enfermagem que suprem o déficit de autocuidado.",
+   "King formula a teoria do alcance de metas, pela interação enfermeiro e paciente.",
+   "Correta: Levine baseia o cuidado na conservação de energia e de integridade estrutural, pessoal e social.",
+   "Watson propõe a teoria do cuidado humano, com o processo caritas e a relação transpessoal."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o manual dirigido a profissionais das equipes de saúde mental, que trata sobre a prevenção do suicídio (2006), uma pessoa sob risco de suicídio é aquela que apresenta:",
+  "alts": [
+   "habilidade para se relacionar com família.",
+   "doenças físicas agudas e dolorosas.",
+   "sentimentos de solidão e coragem.",
+   "hábito alimentar e de sono regulares.",
+   "menção repetida de morte ou suicídio."
+  ],
+  "gab": 4,
+  "tema": "mental",
+  "sub": "Crise, suicídio e contenção",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Prevenção do suicídio: manual dirigido a profissionais das equipes de saúde mental (MS/OPAS/Unicamp, 2006); Lei 13.819/2019",
+  "coment": "O manual de 2006 orienta a equipe a reconhecer sinais de risco: falar repetidamente de morte ou de suicídio, desesperança, isolamento e sentimento de solidão, tentativa prévia, transtorno mental (depressão, uso de álcool), doença física crônica, dolorosa ou incapacitante, perdas recentes. Perguntar diretamente sobre a ideação não induz o ato e é o primeiro passo da avaliação. A Lei 13.819/2019 criou a Política Nacional de Prevenção da Automutilação e do Suicídio, e a tentativa de suicídio é de notificação compulsória imediata ao município.",
+  "porAlt": [
+   "Boa relação com a família é fator de proteção, não sinal de risco.",
+   "O manual cita doença física crônica, dolorosa ou incapacitante; a doença aguda, por si, não define o risco.",
+   "Solidão é sinal de risco, mas coragem não; a alternativa mistura um fator com um traço sem relação.",
+   "Sono e alimentação regulares indicam estabilidade, enquanto alterações nesses hábitos é que alertam.",
+   "Correta: a menção repetida de morte ou de suicídio é sinal de alerta que exige avaliação direta do risco."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Caderno de Atenção Básica: Estratégias para o Cuidado da Pessoa com Doença Crônica:Diabetes Mellitus(2013), durante a consulta de enfermagem, na avaliação dos pés, deve-se realizar um exame físico minucioso. Dentre as opções abaixo, assinale a INCORRETA com relação a esse exame.",
+  "alts": [
+   "A inspeção da pele deve ser ampla, incluindo observação da higiene dos pés e corte das unhas, pele ressecada e/ou descamativa, unhas espessadas e/ou onicomicose, intertrigo micótico, pesquisando-se a presença de bolhas.",
+   "A palpação dos pulsos pedioso e tibial posterior deve ser registrada como presente ou ausente. Além do pulso é importante observar a temperatura, os pelos, o estado da pele e dos músculos.",
+   "A avaliação neurológica, que tem objetivo de identificar a perda da sensibilidade protetora, pode ser estabelecida antes do surgimento de eventuais sintomas.",
+   "Inspeção de eventuais deformidades nos pés, como a artropatia de Charcot, que se apresenta com hipotermia, palidez e aumento da concavidade da região plantar, causando uma grosseira deformidade.",
+   "A avaliação muscoesquelética inclui a inspeção de eventuais deformidades, em especial as deformidades rígidas que são definidas como contraturas que não são facilmente reduzidas manualmente e que frequentemente envolvem os dedos."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Cadernos de Atenção Básica nº 36, Estratégias para o cuidado da pessoa com doença crônica: diabetes mellitus (MS, 2013)",
+  "coment": "O CAB 36 descreve a avaliação dos pés na consulta de enfermagem: inspeção ampla da pele e das unhas, palpação dos pulsos pedioso e tibial posterior (presente ou ausente), avaliação neurológica para detectar a perda da sensibilidade protetora antes dos sintomas e avaliação musculoesquelética das deformidades. A alternativa D é a incorreta porque a artropatia de Charcot se apresenta com calor (hipertermia), hiperemia, edema e diminuição da concavidade plantar, que pode chegar ao pé em mata-borrão, e não com hipotermia, palidez e aumento da concavidade.",
+  "porAlt": [
+   "Está certa: a inspeção inclui higiene, unhas, pele seca, onicomicose, intertrigo e bolhas.",
+   "Está certa: os pulsos são registrados como presentes ou ausentes, com temperatura, pelos, pele e músculos.",
+   "Está certa: a avaliação neurológica detecta a perda da sensibilidade protetora antes dos sintomas.",
+   "Correta: é a incorreta, porque o pé de Charcot tem calor, hiperemia, edema e redução, não aumento, da concavidade plantar.",
+   "Está certa: deformidade rígida é contratura não redutível manualmente, em geral nos dedos."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Resolução COFEN n° 564/2017, que aprova o Código de Ética dos Profissionais de Enfermagem com o Capítulo III, Das Proibições, é correto afirmar que é proibido:",
+  "alts": [
+   "respeitar o direito do exercício da autonomia da pessoa ou de seu representante legal na tomada de decisão, livre e esclarecida, sobre sua saúde, segurança, tratamento e bem-estar.",
+   "prestar assistência de enfermagem livre de danos decorrentes de imperícia, negligência ou imprudência.",
+   "provocar aborto, ou cooperar em prática destinada a interromper a gestação, exceto nos casos permitidos pela legislação vigente.",
+   "respeitar o pudor, a privacidade e a intimidade da pessoa, em todo seu ciclo vital e nas situações de morte e pós-morte.",
+   "aprimorar os conhecimentos técnico-científicos, ético-políticos, socioeducativos e culturais, em benefício da pessoa, família e coletividade e do desenvolvimento da profissão."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética dos Profissionais de Enfermagem), art. 73",
+  "coment": "O art. 73 do Código de Ética, no capítulo das proibições, veda provocar aborto ou cooperar em prática destinada a interromper a gestação, exceto nos casos permitidos pela legislação vigente. As outras alternativas estão no capítulo dos deveres: respeitar a autonomia (art. 42), respeitar pudor, privacidade e intimidade, inclusive na morte e no pós-morte (art. 43), prestar assistência livre de danos por imperícia, negligência ou imprudência (art. 45) e aprimorar os conhecimentos. A banca troca deveres por proibições para testar a leitura do capítulo.",
+  "porAlt": [
+   "É dever (art. 42): respeitar a autonomia da pessoa ou do representante legal na decisão sobre sua saúde.",
+   "É dever (art. 45): prestar assistência livre de danos por imperícia, negligência ou imprudência.",
+   "Correta: é proibição do art. 73 provocar aborto ou cooperar com a interrupção da gestação fora dos casos legais.",
+   "É dever (art. 43): respeitar pudor, privacidade e intimidade em todo o ciclo vital e na morte.",
+   "É dever do capítulo II aprimorar os conhecimentos técnico-científicos, ético-políticos, socioeducativos e culturais."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Brunner e Suddarth (2014), de acordo com a classificação da insuficiência cardíaca, os pacientes com disfunção ventricular esquerda ou doença cardíaca estrutural que não desenvolveram sintomas de insuficiência cardíaca são classificados em qual estágio ?",
+  "alts": [
+   "Estágio A.",
+   "Estágio B.",
+   "Estágio C.",
+   "Estágio D.",
+   "Estágio E."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda (SBC, 2018); Diretriz AHA/ACC/HFSA de Insuficiência Cardíaca (2022)",
+  "coment": "Os estágios da insuficiência cardíaca da ACC/AHA, mantidos pela SBC (2018) e pela diretriz AHA/ACC/HFSA de 2022, vão de A a D. A: risco de IC (hipertensão, diabetes, cardiotoxicidade) sem doença estrutural. B: doença estrutural ou disfunção ventricular sem sinais ou sintomas, chamada pré-IC em 2022. C: IC sintomática atual ou prévia. D: IC avançada, refratária. Não existe estágio E. O estadiamento é progressivo e não regride, ao contrário da classe funcional da NYHA, que varia com o tratamento.",
+  "porAlt": [
+   "Estágio A é o paciente com fatores de risco, ainda sem doença estrutural.",
+   "Correta: estágio B é a doença estrutural ou disfunção ventricular sem sintomas de insuficiência cardíaca.",
+   "Estágio C exige sintomas atuais ou prévios de insuficiência cardíaca.",
+   "Estágio D é a insuficiência cardíaca avançada, refratária ao tratamento.",
+   "Não existe estágio E na classificação da ACC/AHA, que vai de A a D."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Brunner e Suddarth (2014), as ondas de pressão elevada e de pressão relativamente normal indicam alteração na PIC (Pressão Intracraniana). As formas de onda são capturadas e registradas em um osciloscópio. Essas ondas foram classificadas em ondas A, B e C.Assim, assinale a opção que apresenta a característica da onda C.",
+  "alts": [
+   "São elevações transitórias, paroxísticas e recorrentes da PIC que podem durar 5 a 20 minutos.",
+   "São oscilações pequenas e rítmicas com frequência de aproximadamente seis por minuto.",
+   "Ondas curtas (30 segundos a 2 minutos) e tem amplitude menor (até 50 mmHg).",
+   "Possui ondas de platô que indicam alterações no volume vascular dentro do compartimento intracraniano.",
+   "Tem menor significado clínico quando observadas em série em um paciente com consciência deprimida."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 13ª ed. (2014), monitorização da pressão intracraniana; ondas de Lundberg (1960)",
+  "coment": "Lundberg descreveu três padrões na curva contínua da PIC. Ondas A (platô): elevações transitórias, paroxísticas e recorrentes, a 50 a 100 mmHg, que duram 5 a 20 minutos e indicam alteração do volume vascular e perda da complacência; são as graves. Ondas B: mais curtas (30 segundos a 2 minutos) e de menor amplitude (até 50 mmHg); têm menor significado isolado, mas em série no paciente rebaixado podem preceder as ondas A. Ondas C: oscilações pequenas e rítmicas, cerca de seis por minuto, ligadas às variações da pressão arterial e da respiração.",
+  "porAlt": [
+   "Elevações paroxísticas e recorrentes de 5 a 20 minutos são as ondas A, ou de platô.",
+   "Correta: as ondas C são oscilações pequenas e rítmicas, de cerca de seis por minuto.",
+   "Ondas de 30 segundos a 2 minutos com amplitude até 50 mmHg são as ondas B.",
+   "Ondas de platô que refletem alteração do volume vascular são as ondas A.",
+   "Menor significado clínico, salvo em série no paciente rebaixado, descreve as ondas B."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Conforme Brunner e Suddarth (2014), muitos hospitais usam um sistema de pontuação para determinar as condições gerais e a prontidão do paciente para a transferência da unidade de cuidados pós-anestésicos. Desse modo, além da saturação de O2, quais parâmetros o formulário de pontuação de Aldrete modificada avalia?",
+  "alts": [
+   "Atividade, pulso, circulação e consciência.",
+   "Pulso, respiração, circulação e consciência.",
+   "Atividade, respiração, circulação e presença de diurese.",
+   "Atividade, respiração, circulação e consciência.",
+   "Atividade, temperatura corporal, circulação e consciência."
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Recuperação pós-anestésica",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Índice de Aldrete e Kroulik (1970), modificado por Aldrete (1995); Resolução CFM 2.174/2017, art. 7º",
+  "coment": "O índice de Aldrete e Kroulik (1970) soma cinco itens pontuados de 0 a 2, com máximo de 10: atividade (quantos membros move), respiração, circulação (pressão comparada à pré-anestésica), consciência e cor. Em 1995 Aldrete trocou a cor pela saturação de O₂ (índice modificado). Diurese entra só no índice de 1998 para cirurgia ambulatorial, com outros quatro itens. O enfermeiro aplica e registra a escala na SRPA, mas a alta é de responsabilidade do médico anestesista ou plantonista (Res. CFM 2.174/2017, art. 7º, § 5º).",
+  "porAlt": [
+   "Pulso não é item isolado; falta a respiração, que é um dos cinco itens.",
+   "Pulso não é item, e falta a atividade motora dos membros.",
+   "Diurese entra apenas no índice ambulatorial de 1998, não no Aldrete modificado de 1995.",
+   "Correta: atividade, respiração, circulação e consciência, com a saturação de O₂, formam o Aldrete modificado.",
+   "Temperatura corporal não é item do Aldrete; ela é registrada na ficha da SRPA, à parte."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Caderno de Atenção Básica: controle dos cânceres de colo de útero e mama (2013), estimula-se que cada mulher realize a autopalpação das mamas sempre que se sentir confortável para tal. Os serviços de saúde devem adequar-se para acolher, esclarecer e realizar os exames diagnósticos adequados a partir desta demanda. Assim, assinale a opção que apresenta a alteração que deve chamar a atenção da mulher (sinais de alerta).",
+  "alts": [
+   "Espessamento que pareçam iguais ao tecido das mamas.",
+   "Mudança no contorno das mamas (retração, abaulamento).",
+   "Desconforto, formigamento ou dor em ambas as mamas.",
+   "Mudanças somente no mamilo esquerdo (retração e desvio).",
+   "Secreção espontânea pelo mamilo, sempre bilateral."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Cadernos de Atenção Básica nº 13, Controle dos cânceres do colo do útero e da mama, 2ª ed. (MS, 2013); Diretrizes para a detecção precoce do câncer de mama no Brasil (INCA, 2015)",
+  "coment": "O CAB 13 incentiva a mulher a conhecer as próprias mamas e a procurar o serviço diante de sinais de alerta: nódulo ou espessamento diferente do restante do tecido mamário, mudança no contorno (retração, abaulamento), pele avermelhada, retraída ou em casca de laranja, alteração ou retração do mamilo, nódulo na axila ou no pescoço e secreção espontânea pelo mamilo, sobretudo unilateral. O serviço deve acolher essa demanda e garantir a investigação diagnóstica, sem esperar o rastreamento de rotina.",
+  "porAlt": [
+   "O sinal de alerta é o espessamento diferente do restante da mama, não igual ao tecido mamário.",
+   "Correta: mudança no contorno da mama, com retração ou abaulamento, é sinal de alerta.",
+   "Desconforto ou dor bilateral costuma ser hormonal e não está entre os sinais de alerta.",
+   "Alteração do mamilo é alerta em qualquer lado, não apenas no esquerdo; o termo somente torna a frase errada.",
+   "A secreção espontânea que alerta é sobretudo a unilateral; a bilateral costuma ser benigna."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Campos (2016), assinale a opção que apresenta uma característica de úlcera arterial.",
+  "alts": [
+   "Ocorre no maléolo medial ou perto dele.",
+   "O tecido profundo não é afetado.",
+   "Edema presente, pior no fim do dia.",
+   "Desenvolvimento rápido.",
+   "Manchas varicosas castanhas."
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Pé diabético e úlceras vasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Campos et al., Feridas complexas e estomias (2016); Diretriz de doença venosa crônica da ESVS (2022)",
+  "coment": "Úlcera arterial resulta de isquemia: surge em dedos, calcanhar, maléolo lateral e pontos de atrito, desenvolve-se rapidamente, é profunda, bem delimitada, de fundo pálido, muito dolorosa, piora ao elevar a perna, com pele fria, sem pelos e pulsos reduzidos. A úlcera venosa é o oposto: no terço distal da perna, junto ao maléolo medial, de evolução lenta, superficial, com edema que piora no fim do dia e manchas castanhas de hemossiderina. A distinção importa porque a compressão trata a venosa e pode necrosar a arterial; o ITB decide.",
+  "porAlt": [
+   "O maléolo medial é a localização típica da úlcera venosa, não da arterial.",
+   "Na úlcera arterial o tecido profundo é afetado; a superficial é a venosa.",
+   "Edema que piora no fim do dia é característico da insuficiência venosa.",
+   "Correta: a úlcera arterial tem desenvolvimento rápido, pela isquemia.",
+   "Manchas castanhas por hemossiderina e varizes são da úlcera venosa."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Manual Técnico do Pré-Natal e Puerpério (2006), assinale a opção que NÃO apresenta aspectos a serem abordados nas ações educativas durante o pré-natal e no atendimento após o parto, à mulher, ou à família.",
+  "alts": [
+   "Saúde mental e violência doméstica e sexual.",
+   "Importância do planejamento familiar.",
+   "Orientação e incentivo ao parto cesáreo.",
+   "Medos e fantasias referentes à gestação.",
+   "Desenvolvimento da gestação."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Manual Técnico Pré-Natal e Puerpério (MS, 2006); Cadernos de Atenção Básica nº 32, Atenção ao pré-natal de baixo risco (MS, 2012); Portaria GM/MS 5.350/2024 (Rede Alyne)",
+  "coment": "O Manual Técnico de 2006 lista os temas educativos do pré-natal e do pós-parto: desenvolvimento da gestação, medos e fantasias, modificações corporais, sinais de alerta e de trabalho de parto, importância do pré-natal e do planejamento familiar, saúde mental e violência doméstica e sexual, aleitamento e incentivo ao parto normal e humanizado. Orientar para a cesárea não está entre eles. O CAB 32 (2012) e a Rede Alyne, que transformou a Rede Cegonha (Portaria 5.350/2024), mantêm o incentivo ao parto normal baseado em evidências.",
+  "porAlt": [
+   "Saúde mental e violência doméstica e sexual estão entre os temas educativos do manual.",
+   "Planejamento familiar é tema educativo previsto para o pré-natal e o pós-parto.",
+   "Correta: o manual orienta o incentivo ao parto normal e humanizado, não ao parto cesáreo.",
+   "Medos e fantasias referentes à gestação são tema expresso das ações educativas.",
+   "O desenvolvimento da gestação é tema educativo básico do pré-natal."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Caderno de Atenção Básica: Estratégias para o Cuidado da Pessoa com Doença Crônica: Diabetes Mellitus (2013), como é denominada a neuropatia diabética que se manifesta pela anidrose plantar, com pele seca, fissura e hiperqueratose nos pés, favorecendo o surgimentos das úlceras neuropáticas?",
+  "alts": [
+   "Compressiva.",
+   "Miorradiculopatia.",
+   "Sudomotora.",
+   "Sensitivo-motora.",
+   "Pupilar."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Cadernos de Atenção Básica nº 36, Estratégias para o cuidado da pessoa com doença crônica: diabetes mellitus (MS, 2013)",
+  "coment": "A neuropatia autonômica sudomotora compromete a inervação das glândulas sudoríparas: o pé fica sem suor (anidrose), com pele seca, fissuras e hiperqueratose, porta de entrada para infecção e para a úlcera neuropática. A neuropatia sensitivo-motora tira a sensibilidade protetora e altera a musculatura do pé, gerando deformidades e pontos de pressão. Por isso a consulta de enfermagem inspeciona a pele, orienta hidratação diária (sem aplicar entre os dedos) e testa a sensibilidade com o monofilamento de 10 g.",
+  "porAlt": [
+   "A neuropatia compressiva decorre de compressão de um nervo, como o mediano no túnel do carpo, e não causa anidrose.",
+   "Miorradiculopatia é o acometimento de raízes nervosas, com dor e fraqueza no território da raiz.",
+   "Correta: a sudomotora, forma autonômica, causa anidrose, pele seca, fissuras e hiperqueratose nos pés.",
+   "A sensitivo-motora tira a sensibilidade protetora e causa deformidades, não a anidrose em si.",
+   "A neuropatia pupilar altera a resposta da pupila à luz, sem relação com a pele do pé."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Caderno de Atenção Básica: controle dos cânceres de colo de útero e mama (2013), os cuidados paliativos visam:",
+  "alts": [
+   "ver a morte como um processo que pode ser postergado.",
+   "não antecipar nem diminuir sofrimento e sim retardar a morte.",
+   "integrar aspectos psicossociais e espirituais ao cuidado.",
+   "auxiliar o paciente a viver em repouso o quanto for possível até a sua morte.",
+   "auxiliar somente a paciente a sentir-se amparada durante a doença."
+  ],
+  "gab": 2,
+  "tema": "idoso",
+  "sub": "Cuidados paliativos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Cadernos de Atenção Básica nº 13 (MS, 2013); definição de cuidados paliativos da OMS (2002); Portaria GM/MS 3.681/2024 (Política Nacional de Cuidados Paliativos)",
+  "coment": "Pela definição da OMS (2002), reproduzida no CAB 13, os cuidados paliativos aliviam a dor e outros sintomas, afirmam a vida e consideram a morte um processo normal, não aceleram nem adiam a morte, integram os aspectos psicológicos, sociais e espirituais, ajudam o paciente a viver tão ativamente quanto possível até a morte e oferecem suporte à família durante a doença e no luto. A Política Nacional de Cuidados Paliativos (Portaria GM/MS 3.681/2024) adota os mesmos princípios para toda a rede do SUS.",
+  "porAlt": [
+   "Os cuidados paliativos consideram a morte um processo natural, que não se busca postergar.",
+   "Eles não aceleram nem adiam a morte e têm como centro o alívio do sofrimento.",
+   "Correta: integrar os aspectos psicossociais e espirituais ao cuidado é princípio dos cuidados paliativos.",
+   "O objetivo é ajudar o paciente a viver tão ativamente quanto possível, não em repouso.",
+   "O cuidado inclui a família durante a doença e no luto, não somente a paciente."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Marque a opção que corresponde a um resíduo correspondente ao Grupo D, conforme a Resolução - RDC n° 222, de 28 de março de 2018.",
+  "alts": [
+   "Papel de uso sanitário.",
+   "Lâminas de barbear.",
+   "Produtos farmacêuticos.",
+   "Bolsas transfusionais.",
+   "Âmpolas de vidro."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 222/2018, Anexo I",
+  "coment": "O Anexo I da RDC 222/2018 define o Grupo D como os resíduos sem risco biológico, químico ou radiológico, equiparáveis aos domiciliares: papel de uso sanitário e fralda, absorventes, peças descartáveis de vestuário, resto alimentar de paciente, material de antissepsia e hemostasia de venóclise, luvas sem contato com sangue, equipo de soro, gesso e recicláveis sem contaminação. Lâminas de barbear e ampolas de vidro são Grupo E (perfurocortantes), produtos farmacêuticos são Grupo B (químicos) e bolsas transfusionais são Grupo A (A1 as rejeitadas ou vencidas, A4 as vazias ou com volume residual).",
+  "porAlt": [
+   "Correta: papel de uso sanitário está listado no Grupo D, resíduo comum.",
+   "Lâminas de barbear são perfurocortantes do Grupo E.",
+   "Produtos farmacêuticos são resíduos químicos do Grupo B.",
+   "Bolsas transfusionais são do Grupo A, subgrupo A1 ou A4 conforme o conteúdo.",
+   "Ampolas de vidro são perfurocortantes do Grupo E."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Manual de Normas e Procedimentos para Vacinação (2014), são recursos utilizados para o monitoramento e o controle da temperatura dos equipamentos de refrigeração e das caixas térmicas que irão armazenar/acondicionar os imunobiológicos, exceto termômetro:",
+  "alts": [
+   "de momento, com máxima e mínima, digital com cabo extensor.",
+   "analógico de momento, máxima e mínima.",
+   "de registro gráfico.",
+   "de infravermelho com mira a laser.",
+   "de coluna de mercúrio."
+  ],
+  "gab": 4,
+  "tema": "imuniza",
+  "sub": "Rede de frio e conservação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Manual de Normas e Procedimentos para Vacinação (MS, 2014), item 5.2; RDC ANVISA 145/2017",
+  "coment": "O item 5.2 do manual lista os instrumentos de monitoramento da temperatura de refrigeradores e caixas térmicas: termômetro de momento, com máxima e mínima, digital com cabo extensor; termômetro analógico de momento, máxima e mínima; termômetro de registro gráfico, nas câmaras refrigeradas; e termômetro de infravermelho com mira a laser (pirômetro), que mede sem contato. O termômetro de coluna de mercúrio não consta da lista e, além disso, teve fabricação, importação e comercialização proibidas no Brasil pela RDC ANVISA 145/2017.",
+  "porAlt": [
+   "O termômetro digital de momento, máxima e mínima com cabo extensor está listado no manual.",
+   "O termômetro analógico de momento, máxima e mínima está listado no manual.",
+   "O termômetro de registro gráfico está listado, para as câmaras refrigeradas.",
+   "O termômetro de infravermelho com mira a laser está listado como pirômetro.",
+   "Correta: o termômetro de coluna de mercúrio não é recurso da rede de frio e foi banido pela RDC 145/2017."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2022,
+   "prova": "CP-CSM-S 2022, Enfermagem",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Manual de Segurança do Paciente em Serviços de Saúde: limpeza e desinfecção de superfície (2012), qual tarefa não deve ser executada por profissional de enfermagem, pois é atribuição do profissional de limpeza e desinfecção hospitalar?",
+  "alts": [
+   "Recolhimento de perfurocortantes de locais inadequados, como, por exemplo, leitos de pacientes, pisos e bancadas.",
+   "Fechamento de coletores de perfurocortantes.",
+   "Realização de limpeza do leito do paciente, enquanto o mesmo encontra-se ocupado.",
+   "Retirada de materiais ou equipamentos provenientes da assistência ao paciente nos quartos, enfermarias ou qualquer outra unidade, antes de realizar a limpeza, seja concorrente ou terminal.",
+   "A remoção de sujidades de superfícies do ambiente, materiais e equipamentos, mediante a aplicação e ação de produtos químicos, ação física, aplicação de temperatura ou combinação de processos."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Segurança do Paciente em Serviços de Saúde: Limpeza e Desinfecção de Superfícies (ANVISA, 2012)",
+  "coment": "O manual da ANVISA define limpeza como a remoção de sujidades das superfícies do ambiente, de materiais e de equipamentos por ação mecânica, química, térmica ou combinada, e atribui essa tarefa ao profissional de limpeza e desinfecção. Já as atividades ligadas à assistência ficam com a enfermagem: recolher perfurocortantes deixados em locais inadequados, fechar os coletores, limpar o leito enquanto ocupado pelo paciente e retirar materiais e equipamentos da assistência antes da limpeza concorrente ou terminal. Essa divisão protege o trabalhador da limpeza de exposição a material biológico.",
+  "porAlt": [
+   "O recolhimento de perfurocortantes deixados em leitos, pisos e bancadas cabe à enfermagem, não à limpeza.",
+   "O fechamento dos coletores de perfurocortantes é tarefa da equipe de enfermagem.",
+   "A limpeza do leito ocupado pelo paciente é feita pela enfermagem.",
+   "Retirar materiais e equipamentos da assistência antes da limpeza é tarefa da enfermagem.",
+   "Correta: a remoção de sujidades das superfícies, materiais e equipamentos é a limpeza, atribuição do profissional de limpeza."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2023,
+   "prova": "CP-CSM-S 2023, Enfermagem",
+   "n": 1,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Kurcgant (2023) cita cinco categorias de cuidado, de acordo com a complexidade assistencial dos pacientes. Assim, assinale a opção que apresenta corretamente os cuidados de alta dependência.",
+  "alts": [
+   "Paciente crônico, incluindo o de cuidado paliativo estável sob o ponto de vista clínico, porém com total dependência das ações de enfermagem para o atendimento das necessidades humanas básicas.",
+   "Paciente estável sob o ponto de vista clínico e de enfermagem, com parcial dependência dos profissionais de enfermagem para o atendimento das necessidades humanas básicas.",
+   "Paciente estável sob o ponto de vista clínico e de enfermagem e autossuficiente quanto ao atendimento das necessidades humanas básicas.",
+   "Paciente grave e recuperável, com risco iminente de morte, sujeito à instabilidade das funções vitais, requerendo assistência de enfermagem e médica especializada.",
+   "Paciente passível de instabilidade das funções vitais, recuperável, sem risco iminente de morte, requerendo assistência de enfermagem e médica permanente e especializada."
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Parecer Normativo COFEN 01/2024, itens 2.3 a 2.7 (Resolução COFEN 743/2024)",
+  "coment": "A classificação vem da Res. COFEN 543/2017, revogada pela Res. 743/2024; as definições passaram ao Parecer Normativo COFEN 01/2024 sem mudança. Cuidado mínimo: estável e autossuficiente. Intermediário: estável, com dependência parcial. Alta dependência: paciente crônico, incluindo o de cuidado paliativo, estável do ponto de vista clínico, mas com total dependência da enfermagem para as necessidades humanas básicas. Semi-intensivo: passível de instabilidade, sem risco iminente de morte. Intensivo: grave, recuperável, com risco iminente de morte. Alta dependência e semi-intensivo têm 10 horas de enfermagem por paciente.",
+  "porAlt": [
+   "Correta: alta dependência é o paciente crônico, inclusive paliativo, estável, com total dependência da enfermagem.",
+   "Estável e com dependência parcial é o paciente de cuidados intermediários.",
+   "Estável e autossuficiente é o paciente de cuidados mínimos.",
+   "Grave, recuperável e com risco iminente de morte é o paciente de cuidados intensivos.",
+   "Passível de instabilidade, sem risco iminente de morte, é o paciente de cuidados semi-intensivos."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2023,
+   "prova": "CP-CSM-S 2023, Enfermagem",
+   "n": 2,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Caderno de Controle dos Cânceres do Colo do Útero e da Mama (2013), qual condição NÃO representa indicação de mamografia?",
+  "alts": [
+   "Nódulo mamário.",
+   "Mastalgia.",
+   "Secreção mamilar.",
+   "Descarga papilar.",
+   "Edema mamário em \"casca de laranja\"."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Cadernos de Atenção Básica nº 13, Controle dos cânceres do colo do útero e da mama, 2ª ed. (MS, 2013)",
+  "coment": "Pelo CAB 13, a mamografia diagnóstica é indicada diante de achado clínico suspeito: nódulo, descarga ou secreção papilar, espessamento, alteração da pele como edema em casca de laranja, retração. A mastalgia isolada, sem outro achado, não é indicação de mamografia: é queixa muito comum, em geral cíclica e hormonal, e se maneja com acolhimento, avaliação clínica e orientação. A mamografia de rastreamento segue critério próprio de idade e periodicidade, independente de sintomas.",
+  "porAlt": [
+   "Nódulo mamário é achado clínico que indica mamografia diagnóstica.",
+   "Correta: mastalgia isolada não é indicação de mamografia; costuma ser cíclica e benigna.",
+   "Secreção mamilar, sobretudo espontânea e unilateral, indica investigação por imagem.",
+   "Descarga papilar é sinônimo de secreção mamilar e também indica investigação.",
+   "Edema em casca de laranja é sinal clássico de câncer de mama e indica mamografia."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2023,
+   "prova": "CP-CSM-S 2023, Enfermagem",
+   "n": 5,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Silva e Silva (2021), qual medicamento é um antagonista indicado para tratamento de superdose ou intoxicação aguda por opioide?",
+  "alts": [
+   "Cloridrato de meperidina.",
+   "Cloridrato de sulfentanil.",
+   "Tartarato de butorfanol.",
+   "Naloxona.",
+   "Oxicodona."
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Intoxicações e acidentes",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Silva e Silva, Farmacologia (2021); Diretrizes AHA 2025 de RCP e ACE (emergência associada a opioide)",
+  "coment": "A naloxona é antagonista puro dos receptores opioides: desloca o opioide do receptor e reverte depressão respiratória, sedação e miose. Age em minutos por via venosa, intramuscular ou intranasal, mas dura menos que muitos opioides, por isso o paciente fica sob vigilância pelo risco de nova depressão. As Diretrizes AHA 2025 incorporaram a naloxona ao atendimento da emergência por opioide, sem atrasar a RCP no paciente sem pulso. Meperidina, sufentanil e oxicodona são agonistas; o butorfanol é agonista-antagonista.",
+  "porAlt": [
+   "Meperidina é agonista opioide e pode causar a própria intoxicação.",
+   "Sufentanil é agonista opioide potente usado em anestesia, não antídoto.",
+   "Butorfanol é agonista-antagonista e não é usado para reverter superdose.",
+   "Correta: a naloxona é o antagonista indicado na superdose ou intoxicação aguda por opioide.",
+   "Oxicodona é agonista opioide de uso analgésico."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2023,
+   "prova": "CP-CSM-S 2023, Enfermagem",
+   "n": 6,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo o Guia de Bolso de Doenças Infecciosas e Parasitárias (2010), a leptospirose é uma doença infecciosa febril de início abrupto, que pode variar desde formas assintomáticas e subclínicas até quadros clínicos graves associados a manifestações fulminantes. Com relação à leptospirose, é correto afirmar que:",
+  "alts": [
+   "a icterícia é um sinal característico, possuindo uma tonalidade suave, quase imperceptível na região branca dos olhos.",
+   "o agente etiológico é vírus RNA de hélice única.",
+   "não é doença de notificação compulsória no Brasil.",
+   "os seres humanos e animais domésticos e selvagens são os reservatórios essenciais para a persistência dos focos de infecção.",
+   "a penetração do microrganismo ocorre através da pele com presença de lesões, da pele íntegra imersa por longos períodos em água contaminada ou através de mucosas."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. (MS, 2023), capítulo Leptospirose; Portaria GM/MS 11.211/2026",
+  "coment": "A leptospirose é causada por bactéria helicoidal (espiroqueta) do gênero Leptospira. Os roedores sinantrópicos são os principais reservatórios e eliminam a bactéria pela urina; o homem é hospedeiro acidental e terminal. A infecção ocorre pela penetração da bactéria na pele com lesões, na pele íntegra imersa por longo tempo em água contaminada ou pelas mucosas, sobretudo em enchentes. Na forma grave há icterícia rubínica, de tom alaranjado intenso, insuficiência renal e hemorragia pulmonar. É de notificação compulsória imediata ao município (Portaria 11.211/2026).",
+  "porAlt": [
+   "A icterícia da leptospirose grave é rubínica, alaranjada e intensa, não suave.",
+   "O agente é bactéria (espiroqueta do gênero Leptospira), não vírus RNA.",
+   "A leptospirose é de notificação compulsória, imediata à secretaria municipal.",
+   "Os principais reservatórios são os roedores sinantrópicos; o homem é hospedeiro acidental e terminal.",
+   "Correta: a bactéria penetra pela pele lesada, pela pele íntegra imersa por longo tempo em água contaminada ou pelas mucosas."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2023,
+   "prova": "CP-CSM-S 2023, Enfermagem",
+   "n": 7,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Tendo em vista a Resolução COFEN n° 564/2017 que trata sobre o Código de Ética dos Profissionais de Enfermagem, com relação aos deveres profissionais, assinale a opção correta.",
+  "alts": [
+   "Eximir-se da responsabilidade legal da assistência prestada aos pacientes sob seus cuidados realizados por alunos e/ou estagiários sob sua supervisão e/ou orientação.",
+   "Recusar a prestar assistência de enfermagem à coletividade em casos de emergência, epidemia, catástrofe e desastre, sem pleitear vantagens pessoais, quando convocado.",
+   "Omitir nome completo e/ou nome social, ambos legíveis, número e categoria de inscrição no Conselho Regional de Enfermagem, assinatura ou rubrica nos documentos, quando no exercício profissional.",
+   "Sobrepor o interesse da ciência ao interesse e segurança da pessoa, da família e da coletividade.",
+   "É facultado o uso do carimbo, com nome completo, número e categoria de inscrição no COREN, devendo constar a assinatura ou rubrica do profissional."
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Registro e documentação de enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética dos Profissionais de Enfermagem), art. 35, § 1º",
+  "coment": "O art. 35 do Código de Ética manda apor nome completo e/ou nome social, legíveis, número e categoria de inscrição no COREN, assinatura ou rubrica nos documentos, e o § 1º diz que é facultado o uso do carimbo, com nome completo, número e categoria, devendo constar a assinatura ou rubrica. No prontuário eletrônico, a assinatura deve ser certificada. As outras alternativas invertem deveres: responsabilizar-se pela assistência dos alunos e estagiários sob supervisão, prestar assistência na emergência e na catástrofe sem pleitear vantagem e pôr a segurança da pessoa acima do interesse da ciência.",
+  "porAlt": [
+   "É o contrário: o profissional responde pela assistência prestada por alunos e estagiários sob sua supervisão.",
+   "É dever prestar assistência à coletividade na emergência, epidemia, catástrofe e desastre, quando convocado, sem pleitear vantagens.",
+   "É dever apor, e não omitir, nome, número e categoria no COREN e assinatura nos documentos (art. 35).",
+   "O interesse e a segurança da pessoa, da família e da coletividade vêm antes do interesse da ciência.",
+   "Correta: o § 1º do art. 35 faculta o carimbo com nome, número e categoria, sempre com assinatura ou rubrica."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2023,
+   "prova": "CP-CSM-S 2023, Enfermagem",
+   "n": 8,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Kurcgant (2023), o processo de dimensionamento de pessoal de enfermagem requer a aplicação de um método cujas variáveis interferem no planejamento e na assistência de enfermagem. Nesse contexto, como é denominada a variável que consiste em um acréscimo no quantitativo de pessoal de enfermagem, por categoria profissional, para a cobertura das ausências?",
+  "alts": [
+   "Tempo efetivo de trabalho.",
+   "Índice de segurança técnica.",
+   "Distribuição percentual dos profissionais de enfermagem.",
+   "Quantidade média diária de pacientes.",
+   "Carga média de trabalho da unidade."
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "ger",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Parecer Normativo COFEN 01/2024, item 1.1 (Resolução COFEN 743/2024)",
+  "coment": "O índice de segurança técnica (IST) é o acréscimo ao quantitativo calculado de profissionais, por categoria, para cobrir ausências previstas e não previstas. Pelo Parecer Normativo COFEN 01/2024, que substituiu a Res. 543/2017 (revogada pela Res. 743/2024), o IST é de no mínimo 15% do total: 8,3% para férias e 6,7% para ausências não previstas. Além dele, o responsável técnico acresce no mínimo 5% para educação permanente e rotatividade (item 1.2). Tempo efetivo de trabalho, carga média e quantidade média de pacientes são outras variáveis do cálculo.",
+  "porAlt": [
+   "Tempo efetivo de trabalho é a jornada realmente disponível para a assistência, não o acréscimo para ausências.",
+   "Correta: o índice de segurança técnica cobre as ausências, com mínimo de 15% pelo Parecer Normativo 01/2024.",
+   "A distribuição percentual define a proporção de enfermeiros e de técnicos ou auxiliares em cada tipo de cuidado.",
+   "A quantidade média diária de pacientes entra na carga de trabalho, não cobre ausências.",
+   "A carga média de trabalho da unidade soma as horas de assistência exigidas pelos pacientes."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2023,
+   "prova": "CP-CSM-S 2023, Enfermagem",
+   "n": 9,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Brunner e Suddarth (2011), qual tipo de sonda nasogástrica é usada para tratar varizes esofágicas hemorrágicas?",
+  "alts": [
+   "Dobbhoff.",
+   "Sengstaken-Blakemore.",
+   "Salem.",
+   "Levin.",
+   "Moss."
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 12ª ed. (2011), intubação gastrintestinal; Consenso Baveno VII (2022)",
+  "coment": "A sonda de Sengstaken-Blakemore tem três vias: balão gástrico, balão esofágico e aspiração gástrica. Insuflados, os balões comprimem as varizes do esôfago e da cárdia e fazem tamponamento da hemorragia. É medida temporária, de ponte até a terapia endoscópica ou o TIPS, como mantém o Consenso Baveno VII (2022). A enfermagem fixa a sonda com tração, controla a pressão do balão, mantém tesoura à beira do leito pelo risco de migração e obstrução da via aérea, aspira a orofaringe e vigia a necrose da mucosa.",
+  "porAlt": [
+   "Dobbhoff é sonda enteral fina, com peso na ponta, usada para alimentação.",
+   "Correta: a Sengstaken-Blakemore faz tamponamento por balões das varizes esofágicas hemorrágicas.",
+   "Salem é sonda gástrica de dupla luz, com respiro, para descompressão e drenagem.",
+   "Levin é sonda gástrica de luz única para drenagem, lavagem ou alimentação.",
+   "Moss é sonda de descompressão gástrica com via de alimentação, sem balão de tamponamento esofágico."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2023,
+   "prova": "CP-CSM-S 2023, Enfermagem",
+   "n": 10,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Brunner e Suddarth (2011), assinale a opção que NÃO apresenta uma função dos rins.",
+  "alts": [
+   "Regulação da produção de eritrócitos.",
+   "Síntese de vitamina D na forma ativa.",
+   "Regulação do metabolismo da glicose e das proteínas.",
+   "Excreção de produtos da degradação.",
+   "Formação da urina."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 12ª ed. (2011), funções dos rins",
+  "coment": "Brunner lista as funções do rim: formação da urina, excreção dos produtos da degradação (ureia, creatinina, ácido úrico), regulação de água, eletrólitos e ácidos, controle da pressão arterial (renina), regulação da produção de eritrócitos (eritropoetina), síntese da vitamina D na forma ativa (calcitriol) e secreção de prostaglandinas. Regular o metabolismo da glicose e das proteínas não está nessa lista; esse papel é do fígado e do pâncreas. Isso explica a anemia e a doença mineral óssea da doença renal crônica, que a enfermagem acompanha.",
+  "porAlt": [
+   "É função renal: a eritropoetina produzida pelo rim regula a produção de eritrócitos.",
+   "É função renal: o rim converte a vitamina D na forma ativa, o calcitriol.",
+   "Correta: regular o metabolismo da glicose e das proteínas não está entre as funções renais listadas por Brunner.",
+   "É função renal: o rim excreta ureia, creatinina e outros produtos da degradação.",
+   "É função renal básica: a formação da urina pela filtração, reabsorção e secreção."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2023,
+   "prova": "CP-CSM-S 2023, Enfermagem",
+   "n": 11,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Almeida e Reis (2021), assinale a opção que apresenta corretamente uma manifestação clínica da hidrocefalia.",
+  "alts": [
+   "Incapacidade de seguir um objeto com o olhar.",
+   "Instabilidade de temperatura corporal.",
+   "Queda do hematócrito.",
+   "Desequilíbrio glicêmico.",
+   "Cianose."
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hockenberry, Wilson e Rodgers, Wong Fundamentos de Enfermagem Pediátrica, 10ª ed. (2018), hidrocefalia; Almeida e Reis (2021)",
+  "coment": "Na hidrocefalia, o acúmulo de liquor dilata os ventrículos e aumenta a pressão intracraniana. No lactente, com suturas abertas, aparecem aumento rápido do perímetro cefálico, fontanela tensa e abaulada, disjunção de suturas, veias do couro cabeludo dilatadas e o olhar em sol poente, com dificuldade de elevar o olhar e de acompanhar objetos, além de irritabilidade, vômitos e choro agudo. A enfermagem mede o perímetro cefálico seriado, avalia a fontanela e, após a derivação, vigia sinais de obstrução e infecção da válvula.",
+  "porAlt": [
+   "Correta: a dificuldade de seguir objeto com o olhar, ligada ao olhar em sol poente, é manifestação da hidrocefalia.",
+   "Instabilidade térmica é sinal inespecífico do recém-nascido, como na sepse, e não característica da hidrocefalia.",
+   "Queda do hematócrito sugere sangramento ou hemólise, não hidrocefalia.",
+   "Desequilíbrio glicêmico é alteração metabólica, sem relação direta com a hidrocefalia.",
+   "Cianose indica hipoxemia por causa cardíaca ou respiratória, não é sinal da hidrocefalia."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2023,
+   "prova": "CP-CSM-S 2023, Enfermagem",
+   "n": 12,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a RDC n° 222, de 28 de março de 2018, os Resíduos de Serviços de Saúde (RSS) devem ser segregados no momento de sua geração, conforme classificação por grupos, em função do risco presente. Com relação à segregação e acondicionamento dos RSS, é correto afirmar que:",
+  "alts": [
+   "devem ser respeitados os limites de peso de cada saco, assim como o limite de 1/3 (um terço) de sua capacidade, garantindo-se sua integridade e fechamento.",
+   "é permitido o esvaziamento ou reaproveitamento dos sacos.",
+   "os sacos para acondicionamento de RSS do grupo A devem ser substituídos a cada 12 (doze) horas, visando o conforto ambiental e a segurança dos usuários e profissionais.",
+   "o coletor não necessitará de tampa para fechamento sempre que ocorrer a substituição imediata do saco para acondicionamento após a realização de cada procedimento.",
+   "os recipientes de acondicionamento para RSS químicos no estado sólido devem ser em saco constituído de material resistente a ruptura e vazamento, além de ser impermeável."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 222/2018, arts. 13, 14, 17 e 19",
+  "coment": "A RDC 222/2018 regula o acondicionamento. Art. 13: o RSS sólido sem orientação específica vai em saco resistente a ruptura e vazamento e impermeável; § 1º, respeitar o peso e o limite de 2/3 da capacidade; § 2º, é proibido esvaziar ou reaproveitar sacos. Art. 14: sacos do Grupo A trocados ao atingir 2/3 ou a cada 48 horas (24 horas se de fácil putrefação). Art. 17, § 1º: o coletor não precisa de tampa quando o saco é substituído logo após cada procedimento. Art. 19: químicos sólidos vão em recipiente rígido, resistente e compatível com o produto.",
+  "porAlt": [
+   "O limite é de 2/3 da capacidade do saco, não de 1/3 (art. 13, § 1º).",
+   "É proibido o esvaziamento ou reaproveitamento dos sacos (art. 13, § 2º).",
+   "Os sacos do Grupo A são trocados ao atingir 2/3 ou a cada 48 horas, não a cada 12 horas (art. 14).",
+   "Correta: o art. 17, § 1º dispensa a tampa quando o saco é substituído logo após cada procedimento.",
+   "Químico sólido vai em recipiente de material rígido, resistente e compatível com o produto (art. 19), não em saco."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2023,
+   "prova": "CP-CSM-S 2023, Enfermagem",
+   "n": 13,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo o Caderno de Atenção Básica Saúde Mental (2013), qual classe de medicamentos teve um papel bastante importante no processo de desinstitucionalização e tornou possíveis altas de pacientes muito graves que viveram nos manicômios durante décadas?",
+  "alts": [
+   "Benzodiazepínicos.",
+   "Antidepressivos.",
+   "Neurolépticos.",
+   "Estabilizadores do humor.",
+   "Barbitúricos."
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Lei 10.216/2001 e reforma psiquiátrica",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Cadernos de Atenção Básica nº 34, Saúde Mental (MS, 2013); Lei 10.216/2001",
+  "coment": "O CAB 34 reconhece que os neurolépticos (antipsicóticos), introduzidos a partir da clorpromazina nos anos 1950, tiveram papel importante na desinstitucionalização: ao controlar sintomas psicóticos graves, permitiram a alta de pacientes que viveram décadas nos manicômios e o cuidado em serviços abertos. A Lei 10.216/2001 consolidou a reforma, com internação apenas quando os recursos extra-hospitalares se mostrarem insuficientes. O caderno também alerta para o uso racional, os efeitos extrapiramidais e o acompanhamento pela Atenção Básica com a RAPS.",
+  "porAlt": [
+   "Benzodiazepínicos são ansiolíticos e hipnóticos; não foram eles que permitiram a alta dos pacientes psicóticos graves.",
+   "Antidepressivos tratam depressão e ansiedade, não a psicose grave dos internados de longa permanência.",
+   "Correta: os neurolépticos tiveram papel importante na desinstitucionalização, segundo o CAB 34.",
+   "Estabilizadores do humor, como o lítio, tratam o transtorno bipolar e não são a classe citada pelo caderno.",
+   "Barbitúricos são sedativos antigos, de risco alto, sem papel na desinstitucionalização."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2023,
+   "prova": "CP-CSM-S 2023, Enfermagem",
+   "n": 14,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Brunner e Suddarth (2011), a insuficiência renal aguda (IRA) pode ser classificada em pré-renal, intrarrenal e pós-renal. Assim, a IRA pós-renal pode ser ocasionada por:",
+  "alts": [
+   "vômitos e diarreia.",
+   "sepse.",
+   "agentes de contraste radiopacos.",
+   "agentes nefrotóxicos.",
+   "cálculos e tumores."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 12ª ed. (2011), insuficiência renal aguda; KDIGO Clinical Practice Guideline for Acute Kidney Injury (2012)",
+  "coment": "A lesão renal aguda (termo atual do KDIGO para a antiga IRA) se divide pela causa. Pré-renal: hipoperfusão, como na desidratação por vômitos e diarreia, hemorragia ou choque. Intrarrenal: lesão do parênquima, como na necrose tubular aguda por sepse prolongada, contraste e nefrotóxicos (aminoglicosídeos, anti-inflamatórios). Pós-renal: obstrução ao fluxo urinário, como cálculos, tumores, hiperplasia prostática e sonda obstruída. Na suspeita de causa pós-renal, a enfermagem confere a sonda, avalia globo vesical e mede o resíduo.",
+  "porAlt": [
+   "Vômitos e diarreia causam hipovolemia e lesão pré-renal.",
+   "Sepse causa hipoperfusão e necrose tubular, causa pré-renal ou intrarrenal.",
+   "Contraste radiológico é nefrotóxico e causa lesão intrarrenal.",
+   "Agentes nefrotóxicos lesam os túbulos e causam lesão intrarrenal.",
+   "Correta: cálculos e tumores obstruem o fluxo urinário e causam a lesão pós-renal."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2023,
+   "prova": "CP-CSM-S 2023, Enfermagem",
+   "n": 15,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Caderno de Atenção Básica - estratégias para o cuidado da pessoa com doença crônica: diabetes mellitus (2013), a cetoacidose é uma emergência endocrinológica decorrente da deficiência absoluta ou relativa de:",
+  "alts": [
+   "ureia.",
+   "glicose.",
+   "sódio.",
+   "insulina.",
+   "potássio."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Cadernos de Atenção Básica nº 36 (MS, 2013); Umpierrez et al., Hyperglycemic crises in adults with diabetes: a consensus report (ADA, 2024)",
+  "coment": "A cetoacidose diabética decorre da deficiência absoluta ou relativa de insulina, somada ao excesso de hormônios contrarreguladores. Sem insulina, a glicose não entra na célula, a lipólise libera ácidos graxos e o fígado produz corpos cetônicos, que causam a acidose metabólica; a hiperglicemia provoca diurese osmótica e desidratação. Os fatores precipitantes mais comuns são infecção e omissão da insulina. O tratamento, que a enfermagem executa e vigia, é volume, potássio conforme o nível sérico e insulina regular em infusão.",
+  "porAlt": [
+   "Ureia elevada na cetoacidose reflete desidratação, não é a causa da crise.",
+   "Na cetoacidose há excesso, não falta, de glicose no sangue.",
+   "O sódio pode estar alterado pela hiperglicemia e pela diurese, mas não é a deficiência que causa a crise.",
+   "Correta: a cetoacidose decorre da deficiência absoluta ou relativa de insulina.",
+   "O potássio corporal total cai, mas sua falta é consequência, não a causa da cetoacidose."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2023,
+   "prova": "CP-CSM-S 2023, Enfermagem",
+   "n": 16,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Reis e Almeida (2021), o Ministério da Saúde recomenda que o aleitamento materno seja exclusivo nos primeiros 6 meses de vida. Assim, assinale a opção que apresenta corretamente uma contraindicação para amamentação.",
+  "alts": [
+   "Mulheres com fissura mamilar uni ou bilateral.",
+   "Puérperas portadoras do vírus da dengue.",
+   "Lactante com infecção aguda do tecido glandular mamário.",
+   "Puérperas portadoras do vírus da rubéola.",
+   "Puérperas infectadas com o vírus HTLV."
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Aleitamento e alimentação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Cadernos de Atenção Básica nº 23, Saúde da criança: aleitamento materno e alimentação complementar (MS, 2015)",
+  "coment": "O CAB 23 lista as contraindicações definitivas da mãe: infecção pelo HIV e pelo HTLV-1 ou HTLV-2, porque o vírus passa pelo leite; também contraindicam medicamentos incompatíveis, como antineoplásicos, e, no bebê, a galactosemia. A mãe com HTLV recebe orientação para inibir a lactação, e o aleitamento cruzado é proibido. Fissura, mastite, dengue e rubéola não contraindicam: na mastite, manter o esvaziamento da mama faz parte do tratamento.",
+  "porAlt": [
+   "Fissura mamilar se trata corrigindo pega e posição; não contraindica a amamentação.",
+   "Dengue na puérpera não contraindica a amamentação.",
+   "Mastite não contraindica: esvaziar a mama, inclusive amamentando, faz parte do tratamento.",
+   "Rubéola na puérpera não contraindica a amamentação.",
+   "Correta: a infecção materna pelo HTLV-1 ou 2 contraindica a amamentação."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2023,
+   "prova": "CP-CSM-S 2023, Enfermagem",
+   "n": 17,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Conforme Tannure e Gonçalves (2009), o processo de enfermagem é dividido em cinco etapas. Assim correlacione as etapas aos seus processos, assinalando a opção correta.\nETAPAS\nI- Primeira\nII- Segunda\nIII- Terceira\nIV- Quarta\nV- Quinta\nPROCESSOS\n( ) Avaliação\n( ) Diagnóstico de enfermagem\n( ) Implementação da assistência de enfermagem\n( ) Planejamento\n( ) Investigação",
+  "alts": [
+   "(V) (II) (IV) (III) (I)",
+   "(I) (III) (IV) (V) (II)",
+   "(III) (I) (II) (IV) (V)",
+   "(V) (IV) (II) (III) (I)",
+   "(IV) (III) (I) (II) (V)"
+  ],
+  "gab": 0,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Tannure e Gonçalves, SAE: guia prático (2009); Resolução COFEN 736/2024, art. 4º",
+  "coment": "Em Tannure e Gonçalves (2009), as cinco etapas são investigação (1ª), diagnóstico (2ª), planejamento (3ª), implementação (4ª) e avaliação (5ª). Na ordem dos parênteses, avaliação, diagnóstico, implementação, planejamento e investigação ficam V, II, IV, III, I, alternativa A. Atenção à norma vigente: a Res. COFEN 736/2024, que revogou a 358/2009, renomeou as etapas para Avaliação de Enfermagem (1ª, a antiga coleta ou investigação), Diagnóstico, Planejamento, Implementação e Evolução de Enfermagem (5ª). Hoje, em questão que cite a 736/2024, avaliação é a primeira etapa.",
+  "porAlt": [
+   "Correta: avaliação é a 5ª, diagnóstico a 2ª, implementação a 4ª, planejamento a 3ª e investigação a 1ª etapa no livro.",
+   "Põe a avaliação como 1ª e a investigação como 2ª, invertendo a sequência de Tannure e Gonçalves.",
+   "Põe a avaliação como 3ª e o diagnóstico como 1ª, fora da ordem do livro.",
+   "Inverte diagnóstico e implementação e põe a implementação como 2ª etapa.",
+   "Põe a avaliação como 4ª e a investigação como 5ª, invertendo o início e o fim do processo."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2023,
+   "prova": "CP-CSM-S 2023, Enfermagem",
+   "n": 18,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo o Documento de Referência para o Programa Nacional de Segurança do Paciente (2014), a Organização Mundial da Saúde (OMS) lançou a Aliança Mundial para a Segurança do Paciente e vem incentivando a adoção das Metas Internacionais de Segurança do Paciente (MISP), dentre essas metas está a prevenção de erros em procedimentos cirúrgicos, sendo criada uma lista de verificação de segurança cirúrgica. Nesse contexto, assinale a opção correta.",
+  "alts": [
+   "O Termo de Consentimento assinado deve ser verificado após a indução anestésica.",
+   "A verificação da administração da profilaxia antimicrobiana deve ser realizada após a saída do paciente da sala cirúrgica.",
+   "A identificação do paciente deve ser realizada antes da indução anestésica e antes da incisão cirúrgica.",
+   "A conclusão da contagem de instrumentais, compressas e agulhas deve ser realizada no momento da incisão cirúrgica.",
+   "A confirmação da esterilização dos campos e instrumentais, incluindo os resultados dos indicadores, deve ser verificada após a incisão cirúrgica."
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Cirurgia segura",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Documento de referência para o Programa Nacional de Segurança do Paciente (MS/Fiocruz/ANVISA, 2014); Protocolo para Cirurgia Segura, Portaria MS 1.377/2013",
+  "coment": "A lista de verificação da OMS, adotada pelo protocolo da Portaria 1.377/2013, confirma a identidade do paciente em mais de um momento: antes da indução anestésica, com o paciente (identidade, sítio, procedimento e consentimento), e de novo na pausa antes da incisão, quando a equipe confirma em voz alta paciente, sítio e procedimento. O consentimento é checado antes da indução; a profilaxia antibiótica e a confirmação da esterilização, inclusive dos indicadores, antes da incisão; e a contagem de instrumentais, compressas e agulhas antes da saída da sala.",
+  "porAlt": [
+   "O consentimento assinado é verificado antes da indução anestésica, não depois.",
+   "A profilaxia antimicrobiana é confirmada na pausa antes da incisão, não na saída da sala.",
+   "Correta: a identificação do paciente é feita antes da indução anestésica e confirmada antes da incisão.",
+   "A contagem de instrumentais, compressas e agulhas é concluída antes da saída do paciente da sala.",
+   "A esterilização dos materiais, com os resultados dos indicadores, é confirmada antes da incisão."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2023,
+   "prova": "CP-CSM-S 2023, Enfermagem",
+   "n": 19,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo o protocolo de suporte básico de vida para Serviço de Atendimento Médico de Urgência (SAMU), na Parada Cardiopulmonar no adulto, as compressões torácicas eficientes e de boa qualidade compreendem:",
+  "alts": [
+   "fazer uma insuflação eficiente (de 5 segundos cada) com bolsa valva-máscara sem reservatório.",
+   "manter frequência de compressões em 100 a 120 compressões/min.",
+   "alternar os profissionais que aplicam as compressões a cada 4 minutos.",
+   "realizar interrupções regulares das compressões torácicas para verificar pulsos.",
+   "deprimir o tórax em pelo menos 7 cm e não permitir o completo retorno entre as compressões para manter a qualidade da reanimação."
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Protocolos de Intervenção para o SAMU 192, Suporte Básico de Vida (MS, 2016); Diretrizes AHA 2025 de RCP e ACE",
+  "coment": "O protocolo de suporte básico do SAMU e as Diretrizes AHA 2025, que não mudaram os números de 2020, definem a compressão de alta qualidade: frequência de 100 a 120 por minuto, profundidade de pelo menos 5 cm sem passar de 6 cm no adulto, retorno completo do tórax após cada compressão, interrupções mínimas (menos de 10 segundos) e troca do compressor a cada 2 minutos. Sem via aérea avançada, a relação é 30:2, com cada ventilação durando cerca de 1 segundo e elevação visível do tórax, com bolsa-válvula-máscara ligada ao oxigênio e ao reservatório.",
+  "porAlt": [
+   "Cada ventilação dura cerca de 1 segundo, não 5, e a bolsa deve ter reservatório e oxigênio.",
+   "Correta: a frequência das compressões é de 100 a 120 por minuto.",
+   "O compressor é trocado a cada 2 minutos, na checagem do ritmo, pela fadiga que reduz a qualidade.",
+   "As interrupções devem ser mínimas; o pulso só é checado a cada 2 minutos, na análise do ritmo.",
+   "A profundidade é de 5 a 6 cm, e o tórax deve retornar completamente entre as compressões."
+  ],
+  "fonte": {
+   "banca": "Marinha (CP-CSM)",
+   "ano": 2023,
+   "prova": "CP-CSM-S 2023, Enfermagem",
+   "n": 20,
+   "parte": "especificas"
+  }
+ }
+]

@@ -1,0 +1,1442 @@
+[
+ {
+  "q": "Outro fator que limita a auditoria, pelo menos na fase inicial é a dificuldade de manter o departamento de auditoria separado e funcionalmente independente dos demais departamentos. Assinale a alternativa que apresenta como se deve proceder.",
+  "alts": [
+   "Haver diversidade entre o Serviço de Enfermagem e o de Auditoria, para que os resultados correspondam ao objetivo",
+   "Haver afinidade entre o Serviço de Enfermagem e o de Auditoria, para que os resultados correspondam ao objetivo",
+   "Haver afinidade entre o Serviço de Enfermagem e o de Auditoria, para que os resultados diferenciam ao objetivo",
+   "Haver desigualdade entre o Serviço de Enfermagem e o de Gestão, para que os resultados correspondam ao objetivo",
+   "Haver afinidade entre o Serviço de Enfermagem e o de Auditoria, para que os resultados impactuam ao objetivo"
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 720/2023 (auditoria de enfermagem); Lei 7.498/1986, art. 11, I, h",
+  "coment": "A literatura clássica de auditoria de enfermagem aponta como limite da fase de implantação a dificuldade de manter o setor de auditoria independente dos demais. A saída proposta é haver afinidade entre o Serviço de Enfermagem e o de Auditoria: as duas equipes compartilham objetivos, a auditoria tem caráter educativo e não punitivo, e assim os resultados correspondem ao objetivo, que é melhorar a qualidade da assistência e dos registros. Hoje a atuação do enfermeiro auditor é regida pela Res. COFEN 720/2023, que revogou a 266/2001; dentro da equipe de enfermagem a auditoria é privativa do enfermeiro, como já previa a Lei 7.498/1986, art. 11, I, h.",
+  "porAlt": [
+   "Errada: diversidade entre os serviços é o oposto do que se propõe; o que se busca é afinidade de objetivos entre enfermagem e auditoria.",
+   "Correta: a afinidade entre o Serviço de Enfermagem e o de Auditoria faz os resultados corresponderem ao objetivo de qualificar a assistência.",
+   "Errada: começa certo, mas resultados que diferem do objetivo contrariam a própria finalidade da auditoria.",
+   "Errada: desigualdade não favorece o trabalho conjunto, e a relação discutida é com a Auditoria, não com a Gestão.",
+   "Errada: a frase final não tem sentido; o que se espera é que os resultados correspondam ao objetivo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o trecho a seguir:\nA diretriz europeia de cardiologia considera o conceito de revascularização completa quando são realizados pontes para vasos acima de______.\nAssinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "0,5 mm",
+   "1,0 mm",
+   "1,5 mm",
+   "2,0 mm",
+   "2,5 mm"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Diretriz ESC/EACTS de revascularização miocárdica, 2018",
+  "coment": "Na definição anatômica adotada pela diretriz europeia de revascularização miocárdica (ESC/EACTS 2018), a revascularização é completa quando todos os vasos epicárdicos com diâmetro de pelo menos 1,5 mm e estenose significativa recebem enxerto ou tratamento. Vasos menores que 1,5 mm não costumam comportar ponte com boa perviedade, por isso ficam fora do conceito. A banca pede o número de corte, e ele é 1,5 mm. As diretrizes europeias de 2024 para síndromes coronarianas crônicas mantêm o objetivo de revascularização completa nos vasos de calibre relevante.",
+  "porAlt": [
+   "Errada: 0,5 mm é calibre de vaso muito pequeno, que não recebe ponte; não é o corte da definição.",
+   "Errada: 1,0 mm fica abaixo do corte usado pela diretriz europeia para definir revascularização completa.",
+   "Correta: a revascularização completa abrange os vasos com diâmetro de 1,5 mm ou mais com estenose significativa.",
+   "Errada: 2,0 mm deixaria de fora vasos de 1,5 a 2,0 mm que a definição inclui.",
+   "Errada: 2,5 mm é corte alto demais e excluiria ramos que a definição considera relevantes."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que indica corretamente qual procedimento é a única forma de medir diretamente a pressão do sangue em cada câmara do coração e nos vasos sanguíneos principais que se ramificam do coração para os pulmões.",
+  "alts": [
+   "Ultrassom",
+   "Cateterismo cardíaco",
+   "Ablação por radiofrequência",
+   "Ecodoppler",
+   "Ecocardiograma"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Guyton & Hall, Tratado de Fisiologia Médica, 14ª ed., 2021",
+  "coment": "O cateterismo cardíaco introduz cateteres pelas artérias ou veias até as câmaras cardíacas e os grandes vasos. Com transdutor de pressão acoplado, é o único método que mede diretamente a pressão dentro de cada átrio, ventrículo, aorta e artéria pulmonar, além de permitir coleta de amostras para saturação e injeção de contraste. Ultrassom, ecodoppler e ecocardiograma estimam pressões de forma indireta, por velocidade de fluxo e imagem. A ablação por radiofrequência é tratamento de arritmia, não método de medida.",
+  "porAlt": [
+   "Errada: o ultrassom produz imagem e não mede diretamente a pressão intracavitária.",
+   "Correta: o cateterismo cardíaco mede diretamente a pressão em cada câmara e nos grandes vasos.",
+   "Errada: a ablação por radiofrequência trata arritmias destruindo focos ou vias anômalas; não é exame de pressão.",
+   "Errada: o ecodoppler estima gradientes pela velocidade do fluxo, de modo indireto.",
+   "Errada: o ecocardiograma avalia estrutura e função e só estima pressões por cálculo indireto."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o trecho a seguir:\nAo inspecionar veias do pescoço altamente distendidas sugerem uma pressão anormalmente alta______ do coração.\nAssinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "nos átrios",
+   "nos ventrículos",
+   "nas camaras",
+   "no lado direito",
+   "no lado esquerdo"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda (SBC), 2018",
+  "coment": "As veias jugulares drenam para a veia cava superior e o átrio direito sem válvula no caminho. Por isso a coluna de sangue visível no pescoço reflete a pressão venosa central e a pressão de enchimento do lado direito do coração. Jugulares muito distendidas, avaliadas com a cabeceira a 45 graus, indicam pressão alta no lado direito, como na insuficiência cardíaca congestiva, na sobrecarga de volume, no tamponamento e no tromboembolismo pulmonar. A diretriz brasileira de insuficiência cardíaca lista a turgência jugular entre os sinais de congestão.",
+  "porAlt": [
+   "Errada: \"nos átrios\" é genérico; a jugular reflete só o átrio direito, não o esquerdo.",
+   "Errada: \"nos ventrículos\" não especifica o lado, e a jugular não informa a pressão do ventrículo esquerdo.",
+   "Errada: \"nas câmaras\" é genérico e inclui câmaras esquerdas, que a jugular não reflete diretamente.",
+   "Correta: a turgência jugular reflete pressão elevada no lado direito do coração, transmitida pela veia cava superior.",
+   "Errada: pressão alta no lado esquerdo causa congestão pulmonar; só chega ao pescoço quando repercute no lado direito."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a principal característica da teoria de enfermagem proposto por Florence Nightingale (1860), assinale a alternativa correta.",
+  "alts": [
+   "Interação enfermeiro e o cliente",
+   "Objetiva a independência do paciente",
+   "Autocuidado total",
+   "Enfermagem humanística",
+   "Meio ambiente e higiene"
+  ],
+  "gab": 4,
+  "tema": "sae",
+  "sub": "Teorias de enfermagem",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024 (suporte teórico do PE); Nightingale F., Notes on Nursing, 1859",
+  "coment": "Florence Nightingale, em Notes on Nursing (1859, reeditado em 1860), formulou a chamada Teoria Ambientalista: a enfermagem deve colocar o paciente nas melhores condições para que a natureza atue, controlando o ambiente. Os elementos centrais são ventilação, luz, calor, limpeza, água pura, controle de ruído, higiene e alimentação. As outras alternativas pertencem a teóricas posteriores: interação enfermeiro e cliente (Peplau, King), independência do paciente (Henderson), autocuidado (Orem) e enfermagem humanística (Paterson e Zderad).",
+  "porAlt": [
+   "Errada: a interação enfermeiro e cliente é o foco de Peplau (relações interpessoais) e de King.",
+   "Errada: a busca da independência do paciente nas atividades básicas é marca de Virginia Henderson.",
+   "Errada: o autocuidado é o eixo da teoria de Dorothea Orem, que descreve sistemas de compensação total, parcial e de apoio.",
+   "Errada: a enfermagem humanística é a teoria de Paterson e Zderad, da década de 1970.",
+   "Correta: Nightingale centrou sua teoria no meio ambiente e na higiene como condições para a recuperação do doente."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Quanto ao papel, a atuação e responsabilidades do enfermeiro como líder de sua equipe, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Planejamento.\n( ) Gerência de pessoas.\n( ) Processo decisório.\n( ) Administração do tempo. ]\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "V - V - V - F",
+   "V - V - F - F",
+   "V - F - V - F",
+   "V - F - F - V"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 7.498/1986, art. 11, I, a a c",
+  "coment": "O enfermeiro líder responde pelo planejamento, organização, coordenação, execução e avaliação dos serviços de enfermagem, como prevê a Lei 7.498/1986, art. 11, I, a a c. Dentro dessa função gerencial, a literatura de administração em enfermagem inclui planejar a assistência, gerenciar pessoas (escala, distribuição de tarefas, desenvolvimento da equipe), tomar decisões com base em informação e administrar o tempo, que é recurso escasso no plantão. Por isso as quatro afirmativas são verdadeiras.",
+  "porAlt": [
+   "Correta: planejamento, gerência de pessoas, processo decisório e administração do tempo fazem parte do papel do enfermeiro líder.",
+   "Errada: a administração do tempo também é responsabilidade do líder, que organiza prioridades da equipe.",
+   "Errada: processo decisório e administração do tempo são atribuições centrais da liderança, não falsas.",
+   "Errada: gerência de pessoas e administração do tempo integram o papel do líder.",
+   "Errada: gerência de pessoas e processo decisório são o núcleo da função de liderança."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta a principal função das valvas atrioventriculares mitral e tricúspide.",
+  "alts": [
+   "Impedir que ocorra refluxo das artérias para os ventrículos",
+   "Aumentar a capacidade dos átrios",
+   "Responsável por oxigenar as células do corpo",
+   "Impedir a ocorrência de refluxos dos ventrículos para os átrios",
+   "Drenar o sangue para os ventrículos"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guyton & Hall, Tratado de Fisiologia Médica, 14ª ed., 2021",
+  "coment": "As valvas atrioventriculares, tricúspide à direita e mitral à esquerda, ficam entre átrios e ventrículos. Elas se abrem na diástole para o enchimento ventricular e se fecham no início da sístole, quando a pressão ventricular supera a atrial, impedindo o refluxo de sangue dos ventrículos para os átrios. O fechamento delas produz a primeira bulha. O refluxo das artérias para os ventrículos é impedido pelas valvas semilunares, aórtica e pulmonar.",
+  "porAlt": [
+   "Errada: impedir o refluxo das artérias para os ventrículos é função das valvas semilunares, aórtica e pulmonar.",
+   "Errada: as valvas não aumentam a capacidade dos átrios; apenas controlam a direção do fluxo.",
+   "Errada: oxigenar o sangue é função dos pulmões, e não das valvas cardíacas.",
+   "Correta: mitral e tricúspide se fecham na sístole e impedem o refluxo dos ventrículos para os átrios.",
+   "Errada: as valvas abertas permitem a passagem do sangue, mas sua função principal é impedir o refluxo, não drenar."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta a estrutura é responsável pela chegada do estímulo nervoso nos ventrículos, que sai do nó atrioventricular e se divide em dois, no ramo direito e no ramo esquerdo.",
+  "alts": [
+   "fibras de Purkinje",
+   "nó atrioventricular",
+   "feixe de His",
+   "nó sinusal",
+   "complexo QRS"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guyton & Hall, Tratado de Fisiologia Médica, 14ª ed., 2021",
+  "coment": "O estímulo nasce no nó sinusal, percorre os átrios e chega ao nó atrioventricular, onde sofre um retardo que permite a contração atrial antes da ventricular. Do nó atrioventricular sai o feixe de His, que atravessa o esqueleto fibroso e se divide em ramo direito e ramo esquerdo no septo interventricular. Os ramos terminam nas fibras de Purkinje, que distribuem o impulso ao miocárdio ventricular. O complexo QRS é o registro eletrocardiográfico da despolarização ventricular, e não uma estrutura.",
+  "porAlt": [
+   "Errada: as fibras de Purkinje são a porção terminal do sistema, depois dos ramos direito e esquerdo.",
+   "Errada: o nó atrioventricular é o ponto de onde o feixe sai, e não a estrutura que se divide nos ramos.",
+   "Correta: o feixe de His sai do nó atrioventricular e se divide em ramo direito e ramo esquerdo.",
+   "Errada: o nó sinusal fica no átrio direito e é o marcapasso natural, origem do estímulo.",
+   "Errada: o complexo QRS é a onda do eletrocardiograma que representa a despolarização ventricular, não uma estrutura anatômica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o trecho abaixo:\nEm 2018, a European Society of Urogenital Radiology (ESUR) passou a definir a injúria renal aguda pós-contraste (IRA-PC) como um aumento da creatinina sérica (SCr) ______, no prazo de 48- 72 horas da administração intravascular do meio de contraste.\nAssinale a alternativa que preencha a lacuna corretamente.",
+  "alts": [
+   "≥0,3 mg/dL",
+   "≥0,5 mg/dL",
+   "≥0,6 mg/dL",
+   "≥0,8 mg/dL",
+   "≥ 1mg/dL"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "ESUR Contrast Media Safety Committee, diretriz de lesão renal aguda pós-contraste, 2018",
+  "coment": "Em 2018 o comitê de segurança de meios de contraste da European Society of Urogenital Radiology adotou o termo injúria renal aguda pós-contraste e a definiu pelo critério KDIGO: aumento da creatinina sérica de pelo menos 0,3 mg/dL (26,5 µmol/L), ou de 1,5 vez o valor basal, nas 48 a 72 horas seguintes à administração intravascular do contraste. Para a enfermagem, isso orienta a coleta de creatinina de controle nesse intervalo nos pacientes de risco, como os com taxa de filtração reduzida.",
+  "porAlt": [
+   "Correta: a ESUR 2018 define a lesão pelo aumento da creatinina de 0,3 mg/dL ou mais em 48 a 72 horas.",
+   "Errada: 0,5 mg/dL era corte de definições antigas de nefropatia por contraste, substituído pelo critério KDIGO em 2018.",
+   "Errada: 0,6 mg/dL não é corte usado por nenhuma das definições da ESUR.",
+   "Errada: 0,8 mg/dL superestima o corte e deixaria de identificar casos de lesão renal.",
+   "Errada: 1 mg/dL é muito acima do corte de 0,3 mg/dL e atrasaria o reconhecimento da lesão."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta o tempo recomendado de repouso após angioplastia por via femoral após a retirada do introdutor.",
+  "alts": [
+   "2 horas",
+   "4 horas",
+   "6 horas",
+   "8 horas",
+   "12 horas"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Parecer Normativo COFEN 001/2015 (retirada de introdutor); ACC/AHA 2025 (síndrome coronariana aguda)",
+  "coment": "Depois da angioplastia por via femoral, retirado o introdutor e feita a compressão até a hemostasia, o paciente mantém repouso no leito com o membro puncionado estendido. O tempo tradicional dos manuais e protocolos institucionais é de 6 horas, para reduzir hematoma, sangramento e pseudoaneurisma. Pelo Parecer Normativo COFEN 001/2015, o enfermeiro habilitado pode retirar o introdutor, sem delegar. Na prática, o tempo varia com o calibre do introdutor e o uso de dispositivo de oclusão vascular, e a ACC/AHA 2025 prefere o acesso radial, que permite deambulação precoce.",
+  "porAlt": [
+   "Errada: 2 horas é curto para a via femoral sem dispositivo de oclusão e aumenta o risco de sangramento.",
+   "Errada: 4 horas aparece em alguns protocolos com introdutor fino, mas não é o tempo recomendado como padrão.",
+   "Correta: o repouso padrão após a retirada do introdutor femoral é de 6 horas, com o membro estendido.",
+   "Errada: 8 horas prolonga a imobilidade sem benefício adicional demonstrado.",
+   "Errada: 12 horas é excessivo e aumenta desconforto, dor lombar e risco de trombose sem reduzir complicações."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o trecho a seguir:\nA intervenção coronária facilitada é uma intervenção planejada, efetivada, nas primeiras ______ após o início dos sintomas, logo após a administração de fibrinolíticos e ou inibidores da glicoproteína IIB/IIIA.\nAssinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "6 horas",
+   "8 horas",
+   "12 horas",
+   "24 horas",
+   "48 horas"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "IV Diretriz da SBC sobre IAM com supradesnível do ST, 2009; ACC/AHA 2025 (síndrome coronariana aguda)",
+  "coment": "A diretriz brasileira de infarto com supra de ST (SBC, 2009) define a intervenção coronária facilitada como a angioplastia planejada nas primeiras 12 horas do início dos sintomas, feita logo após fibrinolítico e ou inibidor da glicoproteína IIb/IIIa. O prazo de 12 horas é a mesma janela da reperfusão no infarto com supra. Atenção: os estudos ASSENT-4 e FINESSE mostraram mais sangramento sem benefício, e a estratégia facilitada foi abandonada. A ACC/AHA 2025 adota a estratégia fármaco-invasiva: após o fibrinolítico, coronariografia imediata se a reperfusão falhou, ou entre 2 e 24 horas se funcionou.",
+  "porAlt": [
+   "Errada: 6 horas é curto; a definição usa a janela de 12 horas do início dos sintomas.",
+   "Errada: 8 horas não corresponde à janela de reperfusão adotada na definição.",
+   "Correta: a intervenção facilitada era definida como a planejada nas primeiras 12 horas após o início dos sintomas.",
+   "Errada: 24 horas extrapola a janela de reperfusão; esse limite aparece na estratégia fármaco-invasiva, que é outro conceito.",
+   "Errada: 48 horas está fora de qualquer definição de reperfusão precoce no infarto com supra."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o que incumbe o enfermeiro privativamente, assinale a alternativa incorreta.",
+  "alts": [
+   "Direção do órgão de enfermagem integrante da estrutura básica da instituição de saúde, pública ou privada, e chefia de serviço e de unidade de enfermagem",
+   "Participação no planejamento, execução e avaliação da programação de saúde",
+   "Consulta de enfermagem",
+   "Cuidados diretos de enfermagem a pacientes graves com risco de vida",
+   "Consultoria, auditoria e emissão de parecer sobre matéria de enfermagem"
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 7.498/1986, art. 11, I e II",
+  "coment": "A Lei 7.498/1986 separa o que é privativo do enfermeiro (art. 11, I) do que ele faz como integrante da equipe de saúde (art. 11, II). São privativos, entre outros: direção do órgão de enfermagem e chefia de serviço e unidade (alínea a), consultoria, auditoria e emissão de parecer (h), consulta de enfermagem (i) e cuidados diretos a pacientes graves com risco de vida (l). A participação no planejamento, execução e avaliação da programação de saúde está no art. 11, II, a: é atividade de equipe, portanto não privativa.",
+  "porAlt": [
+   "Errada: a direção do órgão de enfermagem e a chefia de serviço e unidade são privativas (art. 11, I, a).",
+   "Correta: a participação no planejamento, execução e avaliação da programação de saúde é atribuição de integrante da equipe (art. 11, II, a), não privativa.",
+   "Errada: a consulta de enfermagem é privativa do enfermeiro (art. 11, I, i).",
+   "Errada: os cuidados diretos a pacientes graves com risco de vida são privativos (art. 11, I, l).",
+   "Errada: consultoria, auditoria e emissão de parecer sobre matéria de enfermagem são privativas (art. 11, I, h)."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São contraindicação do uso de curativos de placa de hidocolóides, exceto:",
+  "alts": [
+   "lesões infectadas e queimaduras de 3º ou 4º grau",
+   "tratamento de feridas abertas não infectadas com leve a moderada exsudação",
+   "região sacra em caso de incontinência fecal e urinária",
+   "feridas cavitárias",
+   "feridas muito exsudativas"
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretriz internacional EPUAP/NPIAP/PPPIA de prevenção e tratamento de lesões por pressão, 2019",
+  "coment": "A placa de hidrocoloide é oclusiva: mantém meio úmido, favorece o desbridamento autolítico e absorve pouco exsudato. Por isso é indicada em feridas abertas, não infectadas, com exsudação leve a moderada, como lesão por pressão estágio 2 limpa, conforme a diretriz EPUAP/NPIAP/PPPIA de 2019. É contraindicada em feridas infectadas e queimaduras profundas (a oclusão favorece anaeróbios), em feridas cavitárias, nas muito exsudativas (maceração e descolamento) e, em vários protocolos, em área sacra exposta a incontinência, onde a placa se solta. Como a questão pede a exceção às contraindicações, a resposta é a indicação.",
+  "porAlt": [
+   "Errada: ferida infectada e queimadura profunda são contraindicações, porque a oclusão favorece a proliferação bacteriana.",
+   "Correta: ferida aberta não infectada com exsudação leve a moderada é indicação do hidrocoloide, não contraindicação.",
+   "Errada: na região sacra com incontinência a placa se descola e retém umidade, por isso aparece como contraindicação.",
+   "Errada: ferida cavitária exige cobertura de preenchimento; a placa não ocupa o espaço morto.",
+   "Errada: ferida muito exsudativa satura a placa, causa maceração e pede cobertura absorvente, como alginato ou espuma."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o pensamento crítico em enfermagem é um pensamento focado em resultados, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) É proativo, mas não possibilita a identificação das situações de risco envolvidas.\n( ) Exige estratégias que maximizem o potencial humano e atendam às necessidades humanas básicas.\n( ) Está constantemente em processo de avaliação e reavaliação.\n( ) É orientado por padrões, políticas e procedimentos e pelo Código de Ética dos Profissionais de Enfermagem.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "F - F - V - V",
+   "F - V - V - V",
+   "V - F - V - F",
+   "V - V - V - V",
+   "F - V - V - F"
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024 (Processo de Enfermagem)",
+  "coment": "Na descrição de Alfaro-LeFevre, o pensamento crítico em enfermagem é focado em resultados: é proativo justamente porque identifica precocemente situações de risco, busca estratégias que maximizem o potencial humano e atendam às necessidades básicas, está em avaliação e reavaliação contínuas e é orientado por padrões, políticas, procedimentos e pelo Código de Ética. A primeira afirmativa é falsa porque nega a identificação de riscos, que é a essência da proatividade. O raciocínio crítico sustenta as cinco etapas do Processo de Enfermagem da Res. COFEN 736/2024.",
+  "porAlt": [
+   "Errada: a segunda afirmativa é verdadeira, pois o pensamento crítico busca maximizar o potencial humano e atender necessidades básicas.",
+   "Correta: a primeira é falsa, porque ser proativo é justamente identificar riscos; as outras três são verdadeiras.",
+   "Errada: a primeira não é verdadeira, e a segunda e a quarta não são falsas.",
+   "Errada: a primeira afirmativa é falsa, porque o pensamento proativo permite identificar situações de risco.",
+   "Errada: a quarta é verdadeira, já que o pensamento crítico segue padrões, políticas e o Código de Ética."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta qual o objetivo do componente Força Nacional de Saúde do SUS no contexto de urgência e emergência.",
+  "alts": [
+   "Garantir a integralidade na assistência em situações de risco ou emergenciais para populações com vulnerabilidades específicas e/ou em regiões de difícil acesso",
+   "Garantir a assistência 24 horas, vinculado a um equipamento de saúde, articulado e conectado aos outros níveis de atenção, para posterior encaminhamento à rede de atenção a saúde pela central de regulação das urgências",
+   "A ampliação do acesso, fortalecimento do vínculo e responsabilização e o primeiro cuidado às urgências e emergências",
+   "Fomentar o desenvolvimento de ações de saúde e educação permanente",
+   "Chegar precocemente à vítima após ter ocorrido um agravo à sua saúde"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.600/2011 (Rede de Atenção às Urgências), consolidada na PRC 3/2017",
+  "coment": "A Portaria GM/MS 1.600/2011, hoje consolidada na Portaria de Consolidação 3/2017, organiza a Rede de Atenção às Urgências em componentes, cada um com objetivo próprio. O da Força Nacional de Saúde do SUS é aglutinar esforços para garantir a integralidade na assistência em situações de risco ou emergenciais para populações com vulnerabilidades específicas e ou em regiões de difícil acesso. Os demais textos são dos outros componentes: Sala de Estabilização, Atenção Básica, Promoção, Prevenção e Vigilância e SAMU 192.",
+  "porAlt": [
+   "Correta: é o objetivo do componente Força Nacional de Saúde do SUS na Rede de Atenção às Urgências.",
+   "Errada: assistência 24 horas vinculada a um equipamento de saúde, com encaminhamento pela regulação, é a Sala de Estabilização.",
+   "Errada: ampliação do acesso, vínculo, responsabilização e primeiro cuidado às urgências é o componente Atenção Básica.",
+   "Errada: fomentar ações de saúde e educação permanente é o componente Promoção, Prevenção e Vigilância à Saúde.",
+   "Errada: chegar precocemente à vítima após o agravo é o objetivo do SAMU 192 e das centrais de regulação."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma Unidade de Pronto Atendimento (UPA) que abrange de 50.000 a 100.000 habitantes, com no mínimo 7 leitos de observação e 2 leitos de sala de urgência é considerada de porte:",
+  "alts": [
+   "I (um)",
+   "II (dois)",
+   "III (três)",
+   "IV (quatro)",
+   "V (cinco)"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 10/2017 (UPA 24h), consolidada na PRC 3/2017",
+  "coment": "A Portaria GM/MS 10/2017, que redefiniu as diretrizes das UPA 24h, classifica as unidades pelo porte, conforme a população da área de abrangência e o número mínimo de leitos. O porte I atende de 50.000 a 100.000 habitantes, com no mínimo 7 leitos de observação e 2 de sala de urgência. O porte II cobre de 100.001 a 200.000 habitantes e o porte III de 200.001 a 300.000, com mais leitos. Não existem portes IV e V; a portaria criou opções de custeio pelo número de médicos, que é outra classificação.",
+  "porAlt": [
+   "Correta: o porte I abrange 50.000 a 100.000 habitantes, com no mínimo 7 leitos de observação.",
+   "Errada: o porte II cobre população maior, de 100.001 a 200.000 habitantes, e tem mais leitos.",
+   "Errada: o porte III atende de 200.001 a 300.000 habitantes, com mais leitos de observação.",
+   "Errada: não há porte IV de UPA 24h; a norma prevê apenas os portes I, II e III.",
+   "Errada: não há porte V; as opções de custeio da portaria não se confundem com o porte."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "João, 51 anos chegou no pronto atendimento com queixa de dor precordial (6 de10 da escala visual analógica), refere que começou a sentir a dor a uma hora mais ou menos com piora progressiva, tem história de hipertensão arterial, faz uso irregular da medicação nega outras patologias, aferido Pressão arterial 180x100 mmhg; o enfermeiro da triagem realizou um eletrocardiograma e detectou presença de supradesnivelamento de ST e glicemia de 82 mg/dl. Assinale a alternativa que apresenta a classificação de risco (manchester) do caso apresentado.",
+  "alts": [
+   "Sem risco",
+   "Prioridade 3 – consultas de baixa complexidade – atendimento de acordo com o horário de chegada",
+   "Prioridade 2 – prioridade não urgente",
+   "Prioridade 1 – urgência, atendimento o mais rápido possível",
+   "Prioridade zero - emergência, necessidade de atendimento imediato"
+  ],
+  "gab": 4,
+  "tema": "urgencia",
+  "sub": "Classificação de risco",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Resolução COFEN 661/2021; Acolhimento e classificação de risco nos serviços de urgência (MS), 2009",
+  "coment": "O paciente tem dor precordial com supradesnivelamento de ST no eletrocardiograma: é infarto em curso, emergência tempo-dependente, que exige atendimento imediato e reperfusão. As alternativas usam a escala de prioridades do Ministério da Saúde (2009), em que a prioridade zero, vermelha, é a emergência com atendimento imediato. No Manchester estrito, o discriminador dor precordial leva ao laranja (até 10 minutos), mas o supra de ST confirmado muda a conduta para atendimento imediato. A classificação é privativa do enfermeiro (Res. COFEN 661/2021).",
+  "porAlt": [
+   "Errada: infarto com supra de ST é emergência; classificar como sem risco seria erro grave.",
+   "Errada: prioridade 3 é para consultas de baixa complexidade, o oposto de um infarto em curso.",
+   "Errada: prioridade 2, não urgente, atrasaria a reperfusão de um infarto.",
+   "Errada: prioridade 1 admite espera; com supra de ST confirmado o atendimento precisa ser imediato.",
+   "Correta: infarto com supra de ST é emergência, prioridade zero, com necessidade de atendimento imediato."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre as coberturas para cateter venoso periférico, assinale a alternativa correta.",
+  "alts": [
+   "a cobertura do cateter venoso periférico pode ser semioclusiva (uso de fita micropore)",
+   "a cobertura deve ser trocada imediatamente se houver suspeita de contaminação e sempre quando úmida, solta, suja ou com a integridade comprometida",
+   "proteger o sítio de inserção e conexões apenas do cateter central com plástico durante o banho",
+   "os propósitos das coberturas são os de proteger o sítio de punção eliminar a possibilidade de infecção",
+   "é utilizado para garantir o retorno venoso"
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017",
+  "coment": "Pelo Caderno 4 da ANVISA (2017), a cobertura do cateter periférico deve ser estéril, semioclusiva (gaze e fita adesiva estéril) ou membrana transparente semipermeável, e serve para proteger o sítio de punção e minimizar, não eliminar, o risco de infecção. A cobertura é trocada imediatamente se houver suspeita de contaminação e sempre que estiver úmida, solta, suja ou com a integridade comprometida. Durante o banho, sítio e conexões de qualquer cateter, periférico ou central, são protegidos com plástico.",
+  "porAlt": [
+   "Errada: a cobertura deve ser estéril; fita micropore comum não é estéril e não serve como cobertura do sítio.",
+   "Correta: a troca é imediata na suspeita de contaminação e sempre que a cobertura estiver úmida, solta, suja ou danificada.",
+   "Errada: a proteção com plástico no banho vale para todos os cateteres, inclusive o periférico.",
+   "Errada: a cobertura protege o sítio e reduz o risco de infecção, mas não o elimina.",
+   "Errada: a cobertura não tem relação com retorno venoso; sua função é proteger o sítio de inserção."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São indicações do curativo com gel com PHMB (polihexametileno biguanida) exceto:",
+  "alts": [
+   "desbridamento",
+   "prevenção e tratamento da camada de biofilme",
+   "descontaminação",
+   "pode ser associado com tensoativos aniônicos",
+   "umidificação de lesões"
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "International Wound Infection Institute, Wound Infection in Clinical Practice, 2022",
+  "coment": "O PHMB (polihexametileno biguanida) é antisséptico catiônico de amplo espectro, usado em gel associado à betaína, um tensoativo, para limpeza e descontaminação do leito, desbridamento suave, prevenção e tratamento do biofilme e manutenção da umidade da ferida. O documento do International Wound Infection Institute (2022) o inclui entre os antimicrobianos tópicos para feridas com biofilme. Por ser catiônico, o PHMB é inativado por tensoativos aniônicos, como sabões comuns; por isso não deve ser associado a eles.",
+  "porAlt": [
+   "Errada: o gel com PHMB ajuda no desbridamento autolítico e mecânico suave, o que é indicação.",
+   "Errada: prevenir e tratar o biofilme é uma das principais indicações do PHMB.",
+   "Errada: a descontaminação do leito da ferida é indicação do PHMB.",
+   "Correta: o PHMB é catiônico e perde ação com tensoativos aniônicos, por isso a associação não é indicada.",
+   "Errada: o gel mantém a umidade da lesão, o que favorece a cicatrização e é indicação."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Analise as afirmativas sobre cuidados de enfermagem sobre monitorização cardíaca contínua.\n( ) Certificar-se de que todo o equipamento elétrico e tomadas estão aterrados para evitar possíveis interferências.\n( ) Evitar colocar eletrodos nas áreas de aplicação das pás do desfibrilador.\n( ) Evitar colocar eletrodos na área das compressões torácicas.\n( ) Remover excesso de pelos com lamina.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "V - V - V - F",
+   "V - V - F - F",
+   "V - F - V - F",
+   "F - F - V - V"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Monitorização hemodinâmica",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "AHA, Practice Standards for Electrocardiographic Monitoring in Hospital Settings, 2017",
+  "coment": "Na monitorização cardíaca contínua, o equipamento aterrado evita interferência elétrica e artefato. Os eletrodos ficam fora da área das pás do desfibrilador e da área de compressão torácica, para não atrasar choque ou RCP. O preparo da pele inclui limpeza, secagem e, se houver excesso de pelos, a remoção com tricotomizador elétrico ou tesoura, e não com lâmina, que causa microlesões e irritação. As recomendações de prática da AHA para monitorização eletrocardiográfica hospitalar (2017) seguem essa preparação da pele.",
+  "porAlt": [
+   "Errada: a quarta afirmativa é falsa, porque a lâmina causa microlesões; o correto é tricotomizador ou tesoura.",
+   "Correta: as três primeiras são verdadeiras e a remoção de pelos com lâmina é falsa.",
+   "Errada: evitar eletrodos na área das compressões torácicas é verdadeiro, não falso.",
+   "Errada: evitar eletrodos na área das pás do desfibrilador é verdadeiro.",
+   "Errada: o aterramento e o afastamento das pás são verdadeiros, e a lâmina é falsa."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa incorreta sobre responsabilidades e deveres do enfermeiro.",
+  "alts": [
+   "Assegurar à pessoa, família e coletividade assistência de enfermagem livre de danos decorrentes de imperícia, negligência ou imprudência",
+   "Prestar assistência de enfermagem sem discriminação de qualquer natureza",
+   "Respeitar o pudor, a privacidade e a intimidade do ser humano, em todo seu ciclo vital, inclusive nas situações de morte e pós-morte",
+   "Promover e ser conivente com a injúria, calúnia e difamação de membro da equipe de enfermagem, equipe de saúde e de trabalhadores de outras áreas, de organizações da categoria ou instituições",
+   "Registrar no prontuário do paciente as informações inerentes e indispensáveis ao processo de cuidar"
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), arts. 36, 41 e 45",
+  "coment": "O Código de Ética da Res. COFEN 564/2017 organiza deveres nos arts. 24 a 60 e proibições nos arts. 61 a 102. São deveres: registrar no prontuário as informações indispensáveis ao processo de cuidar (art. 36), prestar assistência sem discriminação (art. 41), assegurar assistência livre de danos por imperícia, negligência ou imprudência (art. 45) e respeitar o pudor, a privacidade e a intimidade em todo o ciclo vital, inclusive na morte. Promover ou ser conivente com injúria, calúnia e difamação de membro da equipe ou de outros trabalhadores é proibição, por isso é a incorreta.",
+  "porAlt": [
+   "Errada: assegurar assistência livre de danos por imperícia, negligência ou imprudência é dever (art. 45).",
+   "Errada: prestar assistência sem discriminação de qualquer natureza é dever (art. 41).",
+   "Errada: respeitar o pudor, a privacidade e a intimidade, inclusive na morte e no pós-morte, é dever do Código.",
+   "Correta: promover ou ser conivente com injúria, calúnia e difamação é conduta proibida, não dever.",
+   "Errada: registrar no prontuário as informações indispensáveis ao cuidar é dever (art. 36)."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa incorreta das complicações comuns em Pacientes submetidos à Intervenção Coronária Percutânea.",
+  "alts": [
+   "Sangramento no local de inserção",
+   "Hematoma",
+   "Febre",
+   "Trombose arterial",
+   "Pseudoaneurisma"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ACC/AHA 2025 (síndrome coronariana aguda), cuidados com o sítio de punção",
+  "coment": "As complicações comuns da intervenção coronária percutânea se concentram no sítio de acesso e nos vasos: sangramento no local de inserção, hematoma, pseudoaneurisma (massa pulsátil com sopro), fístula arteriovenosa, hemorragia retroperitoneal na via femoral e trombose ou oclusão arterial, sobretudo na radial. Também ocorrem reação ao contraste, arritmias e lesão renal. Febre não é complicação habitual do procedimento; quando aparece, sugere infecção ou outra causa e deve ser investigada.",
+  "porAlt": [
+   "Errada: sangramento no local de inserção é complicação frequente, vigiada pela enfermagem após a retirada do introdutor.",
+   "Errada: hematoma no sítio de punção é uma das complicações mais comuns.",
+   "Correta: febre não é complicação comum da intervenção coronária percutânea.",
+   "Errada: trombose arterial no vaso puncionado é complicação reconhecida, especialmente na via radial.",
+   "Errada: pseudoaneurisma é complicação vascular típica, sobretudo na punção femoral."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na tentativa de minimizar o perigo da exposição à radiação durante os procedimentos de e Angioplastia ou Arteriografia na hemodinâmica é necessário utilizar equipamentos de proteção individual (EPI) específicos. Assinale a alternativa incorreta dos EPIs necessários.",
+  "alts": [
+   "Protetor de tireoide",
+   "Óculos plumbíferos",
+   "Avental",
+   "Touca",
+   "Dosímetro individual"
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR 32 (Portaria MTE 485/2005), item 32.4; RDC ANVISA 611/2022",
+  "coment": "Na hemodinâmica, a exposição é à radiação ionizante espalhada. A proteção individual inclui avental plumbífero, protetor de tireoide e óculos plumbíferos, e o dosímetro individual registra a dose recebida, exigência da NR 32 (item 32.4) e da RDC ANVISA 611/2022, que substituiu a Portaria 453/1998. A touca é paramento de barreira contra contaminação do campo, sem qualquer efeito sobre a radiação. A rigor, o dosímetro é instrumento de monitoração e não barreira, mas a banca o tratou como item obrigatório do profissional exposto.",
+  "porAlt": [
+   "Errada: o protetor de tireoide é proteção radiológica obrigatória, porque a tireoide é muito sensível à radiação.",
+   "Errada: os óculos plumbíferos protegem o cristalino, que tem limite de dose próprio.",
+   "Errada: o avental plumbífero é a principal barreira contra a radiação espalhada.",
+   "Correta: a touca não protege contra radiação ionizante; é paramento de barreira microbiológica.",
+   "Errada: o dosímetro individual é exigido para monitorar a dose do trabalhador exposto."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Tradicionalmente, a analgesia após a cirurgia cardíaca pode ser obtida com uso de opioides venosos (especificamente a morfina). Entretanto, esses estão associados a eventos adversos deletérios. Analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Náuseas.\n( ) Vômitos.\n( ) Prurido.\n( ) Retenção urinária.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo:",
+  "alts": [
+   "V - V - V - V",
+   "V - V - V - F",
+   "V - V - F - F",
+   "V - F - V - F",
+   "F - F - V - F"
+  ],
+  "gab": 0,
+  "tema": "farmaco",
+  "sub": "Interações e reações adversas",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "APS/ASRA/ASA, diretriz de manejo da dor pós-operatória, 2016",
+  "coment": "Os opioides agem nos receptores mu e produzem efeitos adversos previsíveis. Náuseas e vômitos vêm da estimulação da zona quimiorreceptora; o prurido decorre da liberação de histamina e de ação central; a retenção urinária resulta do aumento do tônus do esfíncter vesical. Há ainda constipação, sedação e depressão respiratória. Por isso a diretriz de dor pós-operatória da APS, ASRA e ASA (2016) recomenda analgesia multimodal, que poupa opioide na cirurgia cardíaca. As quatro afirmativas são verdadeiras.",
+  "porAlt": [
+   "Correta: náuseas, vômitos, prurido e retenção urinária são todos eventos adversos da morfina.",
+   "Errada: a retenção urinária também é efeito adverso, pelo aumento do tônus do esfíncter.",
+   "Errada: prurido e retenção urinária são efeitos adversos conhecidos do opioide.",
+   "Errada: vômito e retenção urinária também ocorrem com a morfina.",
+   "Errada: náuseas, vômitos e retenção urinária são efeitos adversos, não falsos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segurança do paciente, que nasce com a portaria nº 529 do ministério da saúde e a RDC nº 36 da ANVISA. Sobre esse assunto, analise as afirmativas abaixo.\nI. Visa a fomentar a incorporação da experiência do paciente, da família e da comunidade em todos os níveis do cuidado em saúde, buscando seu envolvimento e empoderamento.\nII. Visa defender e apoiar os pacientes para se apropriarem do próprio cuidado; dar voz aos pacientes e às pessoas à frente do cuidado de saúde, promover parcerias entre pacientes, familiares, comunidade, profissionais de saúde.\nIII. Com o objetivo de contribuir para a qualificação do cuidado em saúde.\nIV. A segurança do paciente total do risco de dano desnecessário associado ao cuidado de saúde.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo:",
+  "alts": [
+   "V - V - V - V",
+   "V - V - V - F",
+   "V - V - F - F",
+   "F - V - F - V",
+   "V - F - V - F"
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria MS 529/2013 (PNSP), arts. 2º a 4º; RDC ANVISA 36/2013",
+  "coment": "A Portaria MS 529/2013 instituiu o Programa Nacional de Segurança do Paciente com o objetivo geral de contribuir para a qualificação do cuidado em saúde em todos os estabelecimentos (art. 2º) e, entre os específicos, envolver pacientes e familiares nas ações de segurança (art. 3º). As afirmativas I e II descrevem esse envolvimento e empoderamento do paciente e da família. A IV é falsa: segurança do paciente é a redução, a um mínimo aceitável, do risco de dano desnecessário (art. 4º, I), e não a eliminação total, que não existe.",
+  "porAlt": [
+   "Errada: a afirmativa IV é falsa, porque a definição fala em redução a um mínimo aceitável, não em ausência total de risco.",
+   "Correta: I, II e III são verdadeiras e a IV é falsa, pois segurança é reduzir o risco a um mínimo aceitável.",
+   "Errada: a III é verdadeira, pois contribuir para a qualificação do cuidado é o objetivo geral do PNSP.",
+   "Errada: I e III são verdadeiras, e a IV, que fala em segurança total, é falsa.",
+   "Errada: a II é verdadeira, porque dar voz e apoiar o paciente no próprio cuidado integra o PNSP."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O protocolo para cirurgia segura tem objetivos essenciais para a cirurgia segura como medidas de redução de risco de eventos adversos durante o ato cirúrgico. Sobre esse assunto, assinale a alternativa incorreta.",
+  "alts": [
+   "Evitar a retenção de compressas ou instrumentos em feridas cirúrgicas",
+   "Certificar-se de que é o paciente certo e o sítio cirúrgico correto",
+   "Preparar-se para identificar e agir em caso de grande perda sanguínea",
+   "Induzir reações alérgicas ou à medicação que tragam riscos ao paciente",
+   "Comunicar e trocar informações críticas sobre o paciente"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Cirurgia segura",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria MS 1.377/2013 (Protocolo para Cirurgia Segura)",
+  "coment": "O Protocolo para Cirurgia Segura, aprovado pela Portaria MS 1.377/2013 a partir da lista de verificação da OMS, segue objetivos essenciais: operar o paciente certo no local certo, usar métodos que previnam dano anestésico, preparar-se para via aérea difícil e grande perda sanguínea, evitar reação alérgica ou adversa a medicamento de risco conhecido, minimizar o risco de infecção, evitar retenção de compressas e instrumentos, identificar corretamente as amostras e comunicar informações críticas. Induzir reação alérgica é o contrário do que o protocolo busca.",
+  "porAlt": [
+   "Errada: evitar a retenção de compressas e instrumentos é objetivo do protocolo, conferido na contagem.",
+   "Errada: confirmar paciente e sítio cirúrgico corretos é o primeiro objetivo da cirurgia segura.",
+   "Errada: preparar-se para grande perda sanguínea é objetivo checado antes da indução.",
+   "Correta: o protocolo busca evitar reações alérgicas e adversas, nunca induzi-las.",
+   "Errada: comunicar e trocar informações críticas na equipe é objetivo essencial do protocolo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As Unidades Hospitalares estão sujeitas a inspeções sanitárias para a avaliação da qualidade das ações de Controle de Infecção Hospitalar e atuação da CCIH. Sobre essas inspeções, analise as afirmativas abaixo.\nI. Auditorias internas devem ser realizadas, periodicamente, pelas Unidades Hospitalares, através de protocolos específicos para verificar o cumprimento da legislação específica que trata do Controle de Infecção Hospitalar.\nII. As conclusões das auditorias internas podem ser documentadas e arquivadas.\nIII. As inspeções sanitárias devem ser realizadas com base no Roteiro de Inspeção do Programa de Controle de Infecção Hospitalar.\nIV. Os critérios para a avaliação do cumprimento dos itens do Roteiro de Inspeção, visando a qualidade e segurança das ações de Controle de Infecção Hospitalar baseiam-se no risco potencial inerente a cada item.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I e II apenas",
+   "I, II e III apenas",
+   "I, III e IV apenas",
+   "I, II e IV apenas",
+   "II, III e IV apenas"
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.616/1998 (Programa de Controle de Infecção Hospitalar)",
+  "coment": "A Portaria GM/MS 2.616/1998, que segue como referência do programa de controle de infecção hospitalar, prevê que os hospitais estão sujeitos a inspeção sanitária para avaliar a qualidade das ações da CCIH. As unidades devem fazer auditorias internas periódicas com protocolos próprios, e as conclusões deverão ser documentadas e arquivadas. A inspeção usa o Roteiro de Inspeção do Programa de Controle de Infecção Hospitalar, e os critérios de avaliação de cada item se baseiam no risco potencial inerente a ele. A II é falsa porque troca o dever por uma faculdade.",
+  "porAlt": [
+   "Errada: a II é falsa, porque documentar e arquivar as conclusões é obrigação, e faltam III e IV.",
+   "Errada: inclui a II, que é falsa, e omite a IV, que é verdadeira.",
+   "Correta: I, III e IV reproduzem a portaria; a II é falsa porque o registro das auditorias é obrigatório.",
+   "Errada: a II é falsa e a III, que trata do roteiro de inspeção, é verdadeira e ficou de fora.",
+   "Errada: a II é falsa e a I, sobre auditorias internas periódicas, é verdadeira."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O modelo Sistema de Assistência de Enfermagem Perioperatória (SAEP) é o mais difundido no Brasil; tem como base o atendimento das necessidades humanas básicas e o Processo de Enfermagem (PE), estruturados por Wanda de Aguiar Horta. Das etapas do SAEP assinale a alternativa incorreta.",
+  "alts": [
+   "Planejamento de assistência perioperatória",
+   "Visita pré-operatória de enfermagem",
+   "Avaliação da assistência – visita pós-operatória de enfermagem",
+   "Conclusões",
+   "Reformulação da assistência a ser planejada, de acordo com os resultados obtidos"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024 (Processo de Enfermagem); SAEP de Castellanos e Jouclas",
+  "coment": "A SAEP, proposta no Brasil por Castellanos e Jouclas a partir das necessidades humanas básicas de Wanda Horta, aplica o Processo de Enfermagem ao paciente cirúrgico. Suas etapas são a visita pré-operatória de enfermagem, o planejamento da assistência perioperatória, a implementação, a avaliação por meio da visita pós-operatória e a reformulação da assistência de acordo com os resultados. Conclusões não é etapa da SAEP. Hoje o modelo se encaixa nas cinco etapas da Res. COFEN 736/2024, que revogou a 358/2009: avaliação, diagnóstico, planejamento, implementação e evolução.",
+  "porAlt": [
+   "Errada: o planejamento da assistência perioperatória é etapa da SAEP.",
+   "Errada: a visita pré-operatória de enfermagem é a etapa inicial da SAEP.",
+   "Errada: a avaliação feita na visita pós-operatória é etapa da SAEP.",
+   "Correta: conclusões não é etapa da SAEP, que termina na avaliação e na reformulação da assistência.",
+   "Errada: a reformulação da assistência conforme os resultados é a etapa final da SAEP."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Muitas vezes, uma ou algumas complicações podem ocorrer mesmo quando todas as condições estão dentro do ideal, e se devem, portanto, a um fator pessoal. Sobre as condições que podem aumentar o risco de complicações durante a cirurgia, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Doença cardíaca prévia.\n( ) Apnéia obstrutiva do sono.\n( ) Problemas renais.\n( ) Diabetes.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo:",
+  "alts": [
+   "V - V - V - V",
+   "V - V - V - F",
+   "V - V - F - F",
+   "V - F - V - F",
+   "V - F - F - V"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz AHA/ACC de manejo cardiovascular perioperatório em cirurgia não cardíaca, 2024",
+  "coment": "O risco individual de complicações cirúrgicas cresce com as comorbidades. A doença cardíaca prévia (isquêmica, insuficiência cardíaca, valvopatia, arritmia) aumenta eventos cardíacos perioperatórios, e a diretriz AHA/ACC de 2024 usa essas condições na estratificação de risco. A apneia obstrutiva do sono eleva o risco de via aérea difícil, hipoxemia e depressão respiratória com opioides. A doença renal predispõe a lesão renal aguda, distúrbios eletrolíticos e acúmulo de fármacos. O diabetes aumenta infecção do sítio cirúrgico, má cicatrização e eventos cardiovasculares. As quatro são verdadeiras.",
+  "porAlt": [
+   "Correta: doença cardíaca, apneia do sono, doença renal e diabetes aumentam o risco de complicações cirúrgicas.",
+   "Errada: o diabetes também é fator de risco, sobretudo para infecção do sítio cirúrgico.",
+   "Errada: problemas renais e diabetes aumentam o risco perioperatório.",
+   "Errada: a apneia obstrutiva do sono e o diabetes são fatores de risco reconhecidos.",
+   "Errada: a apneia do sono e os problemas renais também elevam o risco de complicações."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa incorreta das principais vias de acesso cirúrgico.",
+  "alts": [
+   "craniotomias",
+   "esternectomia",
+   "cervicotomias",
+   "laparotomia",
+   "toracotomia"
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "SOBECC, Diretrizes de práticas em enfermagem perioperatória e processamento de produtos para a saúde, 8ª ed., 2021",
+  "coment": "A terminologia cirúrgica usa o sufixo tomia para abertura ou incisão e ectomia para retirada de órgão ou parte dele. As vias de acesso são aberturas: craniotomia (crânio), cervicotomia (pescoço), toracotomia (tórax), laparotomia (abdome) e esternotomia (esterno, acesso padrão da cirurgia cardíaca). Esternectomia é a ressecção do esterno, feita em tumores ou infecções graves, e não uma via de acesso. Essa nomenclatura é a usada na documentação perioperatória da SOBECC.",
+  "porAlt": [
+   "Errada: a craniotomia é a abertura do crânio, via de acesso da neurocirurgia.",
+   "Correta: esternectomia é retirada do esterno; a via de acesso é a esternotomia.",
+   "Errada: a cervicotomia é a incisão no pescoço, via de acesso de tireoide e carótidas.",
+   "Errada: a laparotomia é a abertura da cavidade abdominal, via de acesso clássica.",
+   "Errada: a toracotomia é a abertura do tórax pela parede lateral, via de acesso pulmonar e cardíaca."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Trocar curativo absorvente composto por fibras de carboximetilcelulose sódica, secundário quando saturado ou em até 24 horas, a placa de hidrofibra poderá permanecer na ferida por até ______. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "1 dia",
+   "4 dias",
+   "5 dias",
+   "7 dias",
+   "10 dias"
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Resolução COFEN 787/2025 (lesões cutâneas); instruções do fabricante da hidrofibra",
+  "coment": "A hidrofibra de carboximetilcelulose sódica absorve o exsudato verticalmente e forma gel em contato com ele, o que reduz a maceração da borda. Por isso a cobertura primária pode permanecer no leito por até 7 dias, conforme as instruções do fabricante, enquanto a cobertura secundária é trocada quando saturada ou em até 24 horas. A troca antecipada da primária é indicada se houver saturação, vazamento, sinais de infecção ou desprendimento. A Res. COFEN 787/2025 regulamenta a atuação da enfermagem na avaliação e no tratamento das lesões cutâneas.",
+  "porAlt": [
+   "Errada: 1 dia é o prazo da cobertura secundária, não da placa de hidrofibra.",
+   "Errada: 4 dias subestima a permanência permitida da hidrofibra sem saturação.",
+   "Errada: 5 dias não é o limite recomendado; a placa pode ficar até 7 dias.",
+   "Correta: a placa de hidrofibra pode permanecer na ferida por até 7 dias, se não saturar nem houver infecção.",
+   "Errada: 10 dias ultrapassa o tempo máximo indicado para a placa de hidrofibra."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa incorreta nos primeiros socorros em pessoas com súbita perda da consciência, acompanhada de contrações musculares involuntárias, cianose, salivação intensa, lábios e dentes cerrados.",
+  "alts": [
+   "Afastar objetos que possam causar ferimentos",
+   "Manter a calmar e aguardar a crise passar",
+   "Deitar a vítima no chão para proteger de uma queda",
+   "Lateralizar a cabeça da vítima, garantindo a permeabilidade das vias aéreas",
+   "Tentar restringir movimentos"
+  ],
+  "gab": 4,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "American Epilepsy Society, diretriz de tratamento do estado de mal convulsivo, 2016",
+  "coment": "O quadro descrito é uma crise tônico-clônica generalizada. Nos primeiros socorros, deita-se a pessoa no chão para evitar queda, afastam-se objetos que possam ferir, protege-se a cabeça, lateraliza-se assim que possível para drenar saliva e manter a via aérea, anota-se o horário de início e aguarda-se com calma o fim da crise. Não se coloca nada na boca e não se contêm os movimentos, porque a contenção causa fraturas, luxações e lesões. Crise acima de 5 minutos já é estado de mal e exige benzodiazepínico (American Epilepsy Society, 2016).",
+  "porAlt": [
+   "Errada: afastar objetos que possam ferir é conduta correta na crise.",
+   "Errada: manter a calma e aguardar o fim da crise, observando o tempo, é conduta correta.",
+   "Errada: deitar a vítima no chão evita trauma por queda e é recomendado.",
+   "Errada: lateralizar a cabeça para drenar secreções e manter a via aérea é conduta correta.",
+   "Correta: tentar restringir os movimentos é incorreto, porque causa fraturas e lesões sem encurtar a crise."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Todos os pacientes quando retornam da anestesia, ficam brevemente confusos. O risco de delirium é elevado quando se utilizam fármacos______. Esses são administrados geralmente antes ou durante a cirurgia, para diminuir a secreção das vias respiratórias superiores.\nAssinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "anticolinérgicos",
+   "barbitúricos",
+   "imidazóis",
+   "fenciclidinas",
+   "benzodiazepínicos"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Recuperação pós-anestésica",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "American Geriatrics Society, Critérios de Beers, 2023",
+  "coment": "Os anticolinérgicos, como atropina e escopolamina, são usados antes ou durante a anestesia para reduzir a secreção das vias aéreas superiores e prevenir bradicardia. Os que atravessam a barreira hematoencefálica bloqueiam a acetilcolina central e aumentam o risco de delirium no despertar, sobretudo em idosos; os Critérios de Beers (2023) os listam entre os fármacos a evitar por esse motivo. Benzodiazepínicos também favorecem delirium, mas não são usados para diminuir secreções, que é o dado decisivo do enunciado.",
+  "porAlt": [
+   "Correta: os anticolinérgicos reduzem a secreção das vias aéreas e aumentam o risco de delirium pós-anestésico.",
+   "Errada: barbitúricos são hipnóticos de indução, não usados para reduzir secreção respiratória.",
+   "Errada: imidazóis como o etomidato são indutores anestésicos e não antissialagogos.",
+   "Errada: fenciclidinas, como a cetamina, aumentam a salivação em vez de reduzi-la.",
+   "Errada: benzodiazepínicos causam delirium, mas não têm a função de diminuir a secreção das vias aéreas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A terapia definitiva necessária aos pacientes com Infarto Agudo do Miocárdio com Supradesnivelamento de ST (preferencialmente a menos de 12h) é a reperfusão, e podemos escolher entre a angioplastia primária ou os fibrinolíticos. A angioplastia sempre deve ser a primeira escolha, quando o tempo entre o diagnóstico e a intervenção (tempo porta-balão) for inferior a ______.\nAssinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "30 min",
+   "60 min",
+   "120 min",
+   "180 min",
+   "240 min"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretriz ESC de síndromes coronarianas agudas, 2023; ACC/AHA 2025 (síndrome coronariana aguda)",
+  "coment": "No infarto com supra de ST com menos de 12 horas, a angioplastia primária é a estratégia de reperfusão preferida quando pode ser feita em até 120 minutos do diagnóstico (ESC 2023). Se o atraso previsto passar de 120 minutos, indica-se fibrinolítico em até 10 minutos do diagnóstico, seguido de coronariografia; a ACC/AHA 2025 usa o mesmo corte. A banca chama esse intervalo de porta-balão, mas o termo costuma designar a meta de 90 minutos (ou 60 em centro com hemodinâmica); o limite que decide entre angioplastia e fibrinólise é 120 minutos.",
+  "porAlt": [
+   "Errada: 30 minutos é a meta porta-agulha do fibrinolítico, não o limite para preferir a angioplastia.",
+   "Errada: 60 minutos é meta desejável em hospital com hemodinâmica, mas não é o limite que decide a estratégia.",
+   "Correta: a angioplastia primária é preferida quando pode ser feita em até 120 minutos do diagnóstico.",
+   "Errada: 180 minutos ultrapassa o limite; com esse atraso a escolha passa a ser o fibrinolítico.",
+   "Errada: 240 minutos é atraso que contraindica esperar pela angioplastia primária, salvo contraindicação à fibrinólise."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Diante de uma urgência hipercalêmica (K+> 6,5 mEq/L ou presença de sintomas típicos ou alterações no ECG), deve-se iniciar o mais breve possível a infusão de ______ com o objetivo de proteger a membrana celular das alterações no seu potencial elétrico.\nAssinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "potássio",
+   "magnésio",
+   "sódio",
+   "bicarbonato de sódio",
+   "cálcio"
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "UK Kidney Association, diretriz de tratamento da hipercalemia em adultos, 2023",
+  "coment": "Na hipercalemia grave (potássio de 6,5 mEq/L ou mais) ou com alteração no eletrocardiograma, o primeiro passo é estabilizar a membrana do miocárdio com cálcio intravenoso, em geral gluconato de cálcio a 10%, 30 mL em 10 minutos, com monitor (UK Kidney Association, 2023). O cálcio não baixa o potássio: antagoniza seu efeito no potencial de membrana e reduz o risco de arritmia em minutos. Em seguida desloca-se o potássio para dentro da célula com insulina e glicose ou beta-2 agonista e depois se promove sua remoção.",
+  "porAlt": [
+   "Errada: infundir potássio agravaria a hipercalemia e o risco de parada.",
+   "Errada: magnésio não é a medida de proteção de membrana na hipercalemia.",
+   "Errada: sódio isolado não estabiliza a membrana cardíaca nessa situação.",
+   "Errada: o bicarbonato desloca potássio para a célula em acidose, mas não protege a membrana de imediato.",
+   "Correta: o cálcio intravenoso estabiliza a membrana do miocárdio e é o primeiro passo na urgência hipercalêmica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A contractilidade cardíaca se deve a existência de um sistema próprio responsável por gerar e conduzir estímulo elétrico até ao miocárdio (músculo cardíaco), fazendo com que este contraia. Este sistema é formado pelos seguintes elementos, exceto:",
+  "alts": [
+   "contractilidade cardíaca",
+   "feixe de his",
+   "nodo átrio-ventricular",
+   "nodo sinusal ou sino-atrial",
+   "ramos direito e esquerdo"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guyton & Hall, Tratado de Fisiologia Médica, 14ª ed., 2021",
+  "coment": "O sistema de condução cardíaco é formado por estruturas especializadas que geram e conduzem o impulso: nodo sinusal (marcapasso natural), vias internodais, nodo atrioventricular, feixe de His, ramos direito e esquerdo e fibras de Purkinje. Contratilidade cardíaca é a propriedade do músculo de se contrair em resposta ao estímulo, ou seja, o resultado do funcionamento desse sistema, e não um de seus elementos. Por isso é a exceção.",
+  "porAlt": [
+   "Correta: contratilidade é uma propriedade do miocárdio, não um elemento do sistema de condução.",
+   "Errada: o feixe de His conduz o impulso do nodo atrioventricular aos ramos e integra o sistema.",
+   "Errada: o nodo atrioventricular retarda e transmite o impulso aos ventrículos e integra o sistema.",
+   "Errada: o nodo sinusal gera o impulso elétrico e é o marcapasso natural do coração.",
+   "Errada: os ramos direito e esquerdo levam o impulso aos ventrículos e fazem parte do sistema."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre as funções do pericárdico, analise as afirmativas abaixo.\nI. Proteção.\nII. Mantém o coração no mediastino.\nIII. Evita estiramento excessivo.\nIV. Plasticidade muscular.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I e II apenas",
+   "I, II e III apenas",
+   "I, III e IV apenas",
+   "I, II e IV apenas",
+   "II, III e IV apenas"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guyton & Hall, Tratado de Fisiologia Médica, 14ª ed., 2021",
+  "coment": "O pericárdio é o saco fibrosseroso que envolve o coração. Suas funções são proteger o coração contra infecções e traumas vindos de estruturas vizinhas, fixá-lo no mediastino por ligamentos ao esterno, ao diafragma e aos grandes vasos, e limitar sua distensão, evitando o estiramento excessivo das câmaras na sobrecarga aguda de volume. O líquido pericárdico ainda reduz o atrito durante os batimentos. Plasticidade muscular não é função do pericárdio, que não tem fibras musculares contráteis.",
+  "porAlt": [
+   "Errada: omite a III, pois evitar o estiramento excessivo do coração é função do pericárdio.",
+   "Correta: proteção, fixação no mediastino e limitação do estiramento são funções do pericárdio.",
+   "Errada: inclui a IV, e plasticidade muscular não é função do pericárdio.",
+   "Errada: inclui a IV e deixa de fora a III, que é verdadeira.",
+   "Errada: inclui a IV e omite a I; a proteção é função clássica do pericárdio."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale alternativa correta da indicação de tratamento do curativo estéril recortável composto internamente por no mínimo carboximetilcelulose (hidrocolóide placa).",
+  "alts": [
+   "Lesões infectadas e queimaduras de 3º ou 4º grau",
+   "Feridas muito exsudativas",
+   "Tratamento de feridas abertas não infectadas com leve a moderada exsudação",
+   "Feridas cavitárias",
+   "Região sacra em caso de incontinência fecal e urinária"
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretriz internacional EPUAP/NPIAP/PPPIA de prevenção e tratamento de lesões por pressão, 2019",
+  "coment": "O hidrocoloide em placa, com carboximetilcelulose na camada interna, forma gel em contato com o exsudato, mantém meio úmido e estimula o desbridamento autolítico. Está indicado para feridas abertas, não infectadas, com exsudação leve a moderada, como as lesões por pressão superficiais limpas descritas na diretriz EPUAP/NPIAP/PPPIA de 2019. Feridas infectadas, queimaduras profundas, feridas cavitárias e muito exsudativas são contraindicações, porque a placa oclusiva não drena nem preenche e pode favorecer infecção e maceração.",
+  "porAlt": [
+   "Errada: ferida infectada e queimadura profunda contraindicam a placa oclusiva de hidrocoloide.",
+   "Errada: ferida muito exsudativa satura a placa e causa maceração; pede cobertura absorvente.",
+   "Correta: o hidrocoloide é indicado para feridas abertas não infectadas com exsudação leve a moderada.",
+   "Errada: ferida cavitária precisa de cobertura de preenchimento, como alginato ou hidrofibra.",
+   "Errada: na região sacra com incontinência a placa se descola e retém umidade, o que a torna inadequada."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Unidade de Centro Cirúrgico pode ser definida como um conjunto de áreas e instalações destinadas à realização de procedimentos anestésico-cirúrgicos, recuperação anestésica e pós-operatório imediato, de forma a promover a segurança e conforto para o paciente e equipe. O Centro Cirúrgico (CC) compreende uma área crítica, de acesso restrito, e é considerado uma das unidades mais complexas do Hospital, não só por sua especificidade em realizar procedimentos invasivos, mais também por ser um local fechado que expõe o paciente e a equipe de saúde em situações estressantes. Assinale a alternativa que apresenta incorretamente a finalidade do Serviço do Centro Cirúrgico tem por finalidade.",
+  "alts": [
+   "Desenvolver atividades de assistência baseado em princípios científicos, tecnológicos e normas organizacionais",
+   "Prestar assistência integral às pacientes durante o período perioperatório seja em cirurgias eletivas ou cirurgias de urgência/emergência",
+   "Prever e prover recursos humanos e materiais necessários para a assistência no atendimento das pacientes",
+   "Prestar assistência integral às pacientes durante o período pré-operatório seja em cirurgias eletivas e é a forma mais eficaz de transmissão de conhecimentos, descobertas e teorias, com o objetivo de garantir o desenvolvimento de práticas clínicas",
+   "Colaborar com as Instituições de Ensino que utilizam o Hospital como campo de ensino; colaborar no desenvolvimento de pesquisas na área da Saúde"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 50/2002 (unidade funcional de centro cirúrgico)",
+  "coment": "O Centro Cirúrgico, unidade de acesso restrito descrita na RDC ANVISA 50/2002, tem como finalidades prestar assistência integral ao paciente em todo o período perioperatório, em cirurgias eletivas e de urgência, com base em princípios científicos, tecnológicos e normas organizacionais; prever e prover recursos humanos e materiais; e colaborar com o ensino e a pesquisa. A alternativa D restringe a assistência ao pré-operatório de cirurgias eletivas e mistura uma definição de publicação científica, que não é finalidade do serviço.",
+  "porAlt": [
+   "Errada: desenvolver a assistência com base em princípios científicos, tecnológicos e normas é finalidade do CC.",
+   "Errada: a assistência integral em todo o perioperatório, eletivo ou de urgência, é finalidade do CC.",
+   "Errada: prever e prover recursos humanos e materiais é finalidade gerencial do CC.",
+   "Correta: limita a assistência ao pré-operatório eletivo e inclui um trecho sem relação com a finalidade do serviço.",
+   "Errada: colaborar com o ensino e a pesquisa é finalidade do CC em hospital de ensino."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "É atribuição do Enfermeiro Assistencial no Centro Cirúrgico:",
+  "alts": [
+   "coordenar o funcionamento das salas de cirurgia, respeitando a programação cirúrgica (mapa cirúrgico) e fazendo as mudanças necessárias nos casos imprevisto; realizar procedimentos de alta complexidade e privativos do enfermeiro estabelecidos em protocolos e pelo conselho de classe; exigir o uso de uniforme privativo completo de todo o pessoal apenas ao adentrar nas dependências do Centro Cirúrgico, não podendo circular pelo hospital com tal vestimenta",
+   "receber e passar o plantão para o médico e tomar as providências que julgar necessárias; diagnosticar as necessidades de enfermagem, elaborar e executar planos de Sistematização da Assistência de Enfermagem",
+   "supervisionar e instruir os funcionários no desempenho de suas funções, avaliados mensalmente; orientar e supervisionar os funcionários no cumprimento da técnica estéril",
+   "realizar procedimentos de alta complexidade e privativos do enfermeiro estabelecidos em protocolos e pelo conselho de classe; procedimentos de responsabilidade médica, desde que supervisionado pelo mesmo; zelar pelos materiais e equipamentos supervisionando o seu manuseio adequado",
+   "recepcionar o paciente na sua chegada ao Centro cirúrgico, e proceder como preenchimento do check list de cirurgia segura e atualização do sistema do SUS; prestar assistência direta aos pacientes graves ou em situações de emergência somente na presença da equipe médica"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 7.498/1986, art. 11; Decreto 94.406/1987, art. 8º",
+  "coment": "Ao enfermeiro assistencial do Centro Cirúrgico cabe coordenar as salas segundo o mapa cirúrgico e ajustar a programação nos imprevistos, realizar os procedimentos de maior complexidade e privativos estabelecidos em protocolo e pelo conselho de classe, como prevê a Lei 7.498/1986, art. 11, I, e zelar pelas normas da unidade, como o uso do uniforme privativo apenas dentro do setor. As outras alternativas misturam erros: passar plantão ao médico, avaliar a equipe mensalmente como regra, executar ato médico e só atender grave na presença do médico.",
+  "porAlt": [
+   "Correta: coordenar as salas pelo mapa cirúrgico, realizar procedimentos privativos e exigir o uniforme privativo só no setor são atribuições do enfermeiro.",
+   "Errada: o enfermeiro recebe e passa o plantão à equipe de enfermagem, e não ao médico.",
+   "Errada: supervisionar e orientar a técnica estéril é atribuição, mas a avaliação mensal obrigatória não é regra do cargo.",
+   "Errada: o enfermeiro não realiza procedimentos de responsabilidade médica, mesmo supervisionado.",
+   "Errada: o enfermeiro presta cuidado direto ao paciente grave por atribuição privativa, sem depender da presença médica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Diante da importância da biossegurança na área da saúde, especialmente para os profissionais de enfermagem, assinale a alternativa correta em relação a esse contexto.",
+  "alts": [
+   "A Lei Nº 11.105 de 25 de março de 2005, que dispõe sobre a Política Nacional de Biossegurança, não revogou a Lei Nº 8.974, de 5 de janeiro de 1995",
+   "A Comissão Técnica Nacional de Biossegurança CTNBio é uma entidade criada pela Lei Nº 11.105 de 25 de março de 2005 para atuar exclusivamente na área veterinária",
+   "A formação dos profissionais de enfermagem inclui amplamente a educação em biossegurança, conforme as disposições legais estabelecidas",
+   "A discussão sobre biossegurança na área de enfermagem é relevante principalmente devido à sua articulação com a segurança do paciente",
+   "O enfermeiro não tem responsabilidade na avaliação dos riscos ambientais que ameaçam a segurança do paciente, sendo essa uma atribuição de outros profissionais de saúde"
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 11.105/2005 (Lei de Biossegurança); NR 32 (Portaria MTE 485/2005)",
+  "coment": "Na enfermagem, a biossegurança ganhou relevância sobretudo por se articular com a segurança do paciente: as mesmas medidas que protegem o trabalhador (precauções, higiene das mãos, manejo de perfurocortantes, controle ambiental) reduzem infecções e danos ao paciente. As demais afirmativas são falsas: a Lei 11.105/2005 revogou expressamente a Lei 8.974/1995; a CTNBio é instância multidisciplinar que atua em organismos geneticamente modificados em todas as áreas, não só na veterinária; estudos apontam formação insuficiente em biossegurança; e o enfermeiro participa da avaliação de riscos, como exige a NR 32.",
+  "porAlt": [
+   "Errada: a Lei 11.105/2005 revogou expressamente a Lei 8.974/1995.",
+   "Errada: a CTNBio é instância colegiada multidisciplinar sobre organismos geneticamente modificados em todas as áreas, não só a veterinária.",
+   "Errada: a literatura aponta que a formação em biossegurança da enfermagem ainda é insuficiente, e não ampla.",
+   "Correta: a biossegurança é relevante na enfermagem principalmente por sua articulação com a segurança do paciente.",
+   "Errada: o enfermeiro tem responsabilidade na avaliação dos riscos ambientais, inclusive pela NR 32."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O acondicionamento dos produtos para saúde consiste em embalar os artigos e instrumentais em materiais específicos para esterilização, garantindo a manutenção da esterilidade após o processo e durante o armazenamento. Sobre a inspeção, preparo e acondicionamento dos produtos para saúde, assinale a alternativa correta.",
+  "alts": [
+   "As embalagens utilizadas para a esterilização de produtos para saúde devem estar regularizadas junto ao COFEN, para uso específico em esterilização. É obrigatória a identificação nas embalagens dos produtos para saúde submetidos à esterilização por meio de rótulos ou etiquetas constando somente o tipo de equipamento utilizado",
+   "O CME que utiliza embalagem de tecido de algodão, deve possuir um plano contendo critérios de aquisição e substituição do arsenal de embalagem de papel mantendo os registros desta movimentação, juntamente com a ANVISA",
+   "Não é permitido o uso de embalagens de papel kraft, papel toalha, papel manilha, papel jornal e lâminas de alumínio, assim como as embalagens tipo envelope de plástico transparente não destinadas ao uso em equipamentos de esterilização",
+   "A limpeza dos produtos para saúde, seja manual ou automatizada, deve ser avaliada por meio da inspeção gradual, com o auxílio de lentes intensificadoras de imagem, de no máximo oito vezes de aumento, complementada, quando indicado, por testes químicos disponíveis no mercado",
+   "O CME e a empresa processadora devem utilizar embalagens que permitam a manutenção da validade do produto, bem como a sua transparência sob técnica asséptica"
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 15/2012, arts. 76 e 79",
+  "coment": "A RDC ANVISA 15/2012 proíbe embalagens de papel kraft, papel toalha, papel manilha, papel jornal e lâminas de alumínio, assim como envelopes de plástico transparente não destinados a equipamentos de esterilização (art. 79), porque não garantem barreira microbiana nem permeabilidade ao agente esterilizante. A mesma norma exige que a limpeza seja avaliada por inspeção visual com lentes intensificadoras de no mínimo oito vezes de aumento (art. 76), que as embalagens sejam regularizadas na ANVISA e que o rótulo traga nome do produto, lote, data da esterilização, data limite de uso, método e responsável.",
+  "porAlt": [
+   "Errada: a regularização das embalagens é na ANVISA, não no COFEN, e o rótulo traz vários dados, não só o equipamento.",
+   "Errada: o plano de aquisição e substituição se refere ao próprio arsenal de tecido, e não de papel, nem é feito com a ANVISA.",
+   "Correta: a RDC 15/2012 proíbe papel kraft, papel toalha, manilha, jornal, alumínio e envelope plástico não destinado à esterilização.",
+   "Errada: a inspeção é visual, com lentes de no mínimo oito vezes de aumento, e não de no máximo oito.",
+   "Errada: a embalagem deve manter a esterilidade e permitir abertura asséptica; transparência não é o requisito."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A pele humana é o principal órgão do corpo humano em que se faz uso dos antissépticos. É colonizada por uma ampla variedade de microrganismos que podem fornecer um mecanismo de proteção ao hospedeiro, competindo com micróbios patógenos por nutrientes ou estimulando o sistema de defesa da pele, mas também servir como fonte de infecção. Assinale a alternativa incorreta que apresenta quais os tipos mais comuns de antissépticos de uso em humano.",
+  "alts": [
+   "Álcool etílico; Álcool isopropílico; Violeta genciana",
+   "Permanganato de potássio; Cloreto de benzoíla",
+   "Iodo-povidona (polivinilpirrolidona com iodo); Peróxido de hidrogênio",
+   "Gluconato de clorexidina; Acetato de clorexidina",
+   "Violeta genciana; Clorofeno"
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Higiene das mãos",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "ANVISA, Segurança do Paciente em Serviços de Saúde: Higienização das Mãos, 2009",
+  "coment": "Os antissépticos de uso na pele humana incluem álcoois (etílico e isopropílico), clorexidina (gluconato e acetato), iodóforos como a iodopovidona, peróxido de hidrogênio, compostos fenólicos como o clorofeno e corantes como a violeta genciana, que é usada em algumas situações tópicas. O manual de higienização das mãos da ANVISA (2009) descreve os principais. O cloreto de benzoíla é reagente químico irritante e corrosivo, sem uso antisséptico, o que torna incorreta a alternativa B, mesmo que o permanganato de potássio seja antisséptico tópico.",
+  "porAlt": [
+   "Errada: álcool etílico, álcool isopropílico e violeta genciana são antissépticos de uso na pele.",
+   "Correta: o cloreto de benzoíla é reagente químico corrosivo, não antisséptico de uso humano.",
+   "Errada: iodopovidona e peróxido de hidrogênio são antissépticos conhecidos.",
+   "Errada: gluconato e acetato de clorexidina são sais de clorexidina usados como antissépticos.",
+   "Errada: violeta genciana e clorofeno, um composto fenólico, têm uso antisséptico."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta quais são algumas das complicações frequentemente associadas à circulação extracorpórea durante procedimentos cirúrgicos cardíacos.",
+  "alts": [
+   "Aumento da pressão arterial e reações alérgicas",
+   "Desidratação e insuficiência renal",
+   "Após a cirurgia não é preciso ficar internado em CTI, devido a rápida recuperação do paciente",
+   "Perda de memória e fadiga crônica",
+   "Inflamação sistêmica e formação de coágulos"
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Resolução COFEN 806/2026 (enfermeiro perfusionista)",
+  "coment": "O contato do sangue com a superfície artificial do circuito de circulação extracorpórea ativa complemento, leucócitos, plaquetas e coagulação, produzindo resposta inflamatória sistêmica, com vasoplegia, extravasamento capilar e disfunção de órgãos. Também há risco de trombose e embolia, apesar da heparinização, além de sangramento, lesão renal aguda e disfunção neurológica. A alternativa E é a única em que os dois itens são complicações clássicas. As outras combinam um dado plausível com outro errado, como desidratação (a CEC causa hemodiluição) ou dispensar a UTI.",
+  "porAlt": [
+   "Errada: a CEC tende a causar vasoplegia e hipotensão, não aumento da pressão arterial como complicação típica.",
+   "Errada: a CEC causa hemodiluição e sobrecarga hídrica, e não desidratação, embora a lesão renal possa ocorrer.",
+   "Errada: o paciente de cirurgia cardíaca com CEC vai para a UTI no pós-operatório imediato.",
+   "Errada: a disfunção cognitiva pode ocorrer, mas fadiga crônica não é complicação característica da CEC.",
+   "Correta: inflamação sistêmica e formação de coágulos são complicações clássicas da circulação extracorpórea."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta quais são os critérios obrigatórios para a indicação de suporte respiratório extracorpóreo veno-venoso.",
+  "alts": [
+   "Necessidade de oxigênio suplementar e ventilação mecânica por mais de 7 dias",
+   "Início agudo de doença pulmonar, hipercapnia crônica, e infiltrado pulmonar unilateral",
+   "Intubação traqueal, ventilação mecânica protetora por menos de 7 dias, doença pulmonar de início agudo, e infiltrado pulmonar bilateral",
+   "ECOG ≤ 1, uso domiciliar de O2, e Pplatô ≥ 30 cm H2O",
+   "Possibilidade de reversão da lesão pulmonar e ventilação mecânica por mais de 7 dias"
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "ELSO, diretriz de ECMO venovenosa na insuficiência respiratória do adulto, 2021",
+  "coment": "O suporte respiratório extracorpóreo venovenoso (ECMO VV) é indicado na insuficiência respiratória aguda grave e potencialmente reversível, refratária à ventilação protetora otimizada. Os critérios obrigatórios usados nos protocolos derivam dos estudos CESAR e EOLIA (2018) e da diretriz da ELSO (2021): paciente intubado, em ventilação mecânica protetora há menos de 7 dias, com doença pulmonar de início agudo e infiltrado pulmonar bilateral. Ventilação prolongada acima de 7 dias reduz a chance de reversão e é contraindicação relativa.",
+  "porAlt": [
+   "Errada: ventilação mecânica por mais de 7 dias é contraindicação relativa, não critério de indicação.",
+   "Errada: hipercapnia crônica e infiltrado unilateral não definem os critérios obrigatórios, que exigem doença aguda e infiltrado bilateral.",
+   "Correta: intubação, ventilação protetora há menos de 7 dias, doença pulmonar aguda e infiltrado bilateral são os critérios obrigatórios.",
+   "Errada: ECOG e uso domiciliar de oxigênio são critérios de exclusão ou de prognóstico, não de indicação.",
+   "Errada: a reversibilidade é necessária, mas ventilação há mais de 7 dias reduz a chance de benefício."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+   "n": 49,
+   "parte": "especificas"
+  }
+ }
+]

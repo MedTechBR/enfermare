@@ -1,0 +1,1442 @@
+[
+ {
+  "q": "Assinale a alternativa correta de como ocorre o processo de oxigenação extracorpórea utilizando a membrana de polimetilpenteno.",
+  "alts": [
+   "O sistema utiliza uma membrana de polimetilpenteno para bombear diretamente o sangue para as células do corpo, eliminando a necessidade de oxigenação",
+   "A membrana de polimetilpenteno atua como um filtro de hemodiálise, trocando diretamente o gás carbônico por oxigênio no sangue",
+   "O sangue venoso é drenado pela cânula inserida na veia femoral, bombeado para a membrana de oxigenação de polimetilpenteno, onde ocorre a troca gasosa, e o sangue oxigenado é devolvido pela cânula na veia jugular",
+   "O sistema utiliza um sistema de tubos de plástico e uma bomba centrífuga para realizar a oxigenação do sangue, sem a necessidade de uma membrana específica",
+   "Os sistemas modernos são revestidos com solução salina ou uma substância proteica na superfície que entra em contato com o gás carbônico"
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "ELSO, Guideline for Adult Venovenous ECMO (Tonna et al., ASAIO J), 2021",
+  "coment": "A alternativa C descreve a ECMO venovenosa em configuração femoro-jugular: o sangue venoso sai pela cânula femoral, a bomba centrífuga o leva ao oxigenador, onde a membrana de polimetilpenteno faz a troca gasosa por difusão (entra O₂, sai CO₂), e o sangue oxigenado volta pela cânula na jugular. A membrana não bombeia nem filtra solutos como um dialisador, e sem ela não há oxigenação. O revestimento interno (heparina ou proteína) fica na superfície que toca o sangue, para reduzir a ativação da coagulação e da inflamação, não na que toca o gás.",
+  "porAlt": [
+   "Errada: a membrana não bombeia sangue; quem impulsiona é a bomba, e a função da membrana é justamente oxigenar.",
+   "Errada: a troca gasosa é por difusão através da membrana, sem relação com a filtração de solutos da hemodiálise.",
+   "Correta: drenagem venosa femoral, bomba, troca gasosa na membrana de polimetilpenteno e retorno pela jugular, a ECMO venovenosa.",
+   "Errada: o oxigenador de membrana é o componente indispensável; tubos e bomba sozinhos não trocam gases.",
+   "Errada: o revestimento biocompatível cobre a superfície em contato com o sangue, não a que toca o gás carbônico."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta quais das seguintes são atribuições do enfermeiro perfusionista, de acordo com a resolução COFEN 528 de 2016.",
+  "alts": [
+   "Administrar os medicamentos necessários ao paciente, no circuito extracorpóreo, e realizar a ventilação ao final do procedimento",
+   "Coordenar e administrar as atividades do serviço de Perfusão",
+   "Examinar e testar os componentes da máquina coração-pulmão, mas não controlar sua manutenção preventiva e corretiva",
+   "Induzir o grau de hipotermia sistêmica indicado pelo cirurgião, mas não participar das reuniões clínicas de discussão dos casos a serem operados",
+   "Obter do prontuário os parâmetros hemodinâmicos do paciente, desde a internação até a indução anestésica"
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Resoluções do COFEN",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Resolução COFEN 528/2016, Anexo, item III (revogada pela Resolução COFEN 667/2021)",
+  "coment": "O item III do Anexo da Res. COFEN 528/2016 abria a lista de atribuições do enfermeiro perfusionista com a alínea a, coordenar e administrar as atividades do serviço de Perfusão. As demais alternativas deformam alíneas do mesmo anexo: administrar medicamentos no circuito sob protocolo (l) e retornar a ventilação ao anestesista ao encerrar (m); testar a máquina e controlar sua manutenção (c); induzir hipotermia e participar das reuniões clínicas (j e r); obter do anestesista os parâmetros desde a indução (h). A 528/2016 foi revogada pela Res. COFEN 667/2021, que remete as atividades do perfusionista às recomendações da sociedade de especialistas; o rol segue útil como referência.",
+  "porAlt": [
+   "Errada: o perfusionista administra medicamentos no circuito, mas encerra devolvendo a ventilação ao anestesista, sem realizá-la.",
+   "Correta: é a alínea a do item III do Anexo da Res. COFEN 528/2016.",
+   "Errada: a alínea c manda examinar, testar e também controlar a manutenção preventiva e corretiva da máquina.",
+   "Errada: a alínea r inclui participar das reuniões clínicas de discussão dos casos a serem operados.",
+   "Errada: a alínea h fala em obter do anestesista os parâmetros desde a indução, não do prontuário desde a internação."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando as estratégias para proteção miocárdica durante cirurgia cardíaca, assinale a alternativa que apresenta qual é o principal objetivo dessas estratégias.",
+  "alts": [
+   "Aumentar o consumo miocárdico de oxigênio para adequá-lo à oferta tecidual",
+   "Tornar as células cardíacas mais sensíveis a episódios isquêmicos",
+   "Aumentar a magnitude da lesão induzida por episódios de isquemia-reperfusão",
+   "Diminuir o consumo miocárdico de oxigênio e/ou tornar as células cardíacas mais resistentes a episódios isquêmicos",
+   "Aumentar a oferta tecidual momentânea, independentemente do consumo miocárdico de oxigênio"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Souza MHL, Elias DO. Fundamentos da Circulação Extracorpórea, 2ª ed., 2006",
+  "coment": "Durante o pinçamento da aorta o miocárdio fica sem fluxo coronário. A proteção miocárdica (cardioplegia, que para o coração em diástole, e hipotermia) tem dois objetivos: reduzir o consumo de oxigênio do músculo cardíaco e torná-lo mais resistente à isquemia e à lesão de reperfusão. Por isso a parada química em diástole e o resfriamento são usados juntos. Qualquer estratégia que aumente o consumo, a sensibilidade à isquemia ou a lesão de reperfusão faz o contrário do pretendido.",
+  "porAlt": [
+   "Errada: aumentar o consumo de oxigênio durante a isquemia agravaria a lesão miocárdica.",
+   "Errada: a meta é tornar as células mais resistentes, e não mais sensíveis, à isquemia.",
+   "Errada: a proteção busca reduzir, e não aumentar, a lesão de isquemia e reperfusão.",
+   "Correta: reduzir o consumo miocárdico de oxigênio e aumentar a tolerância à isquemia é o objetivo da proteção miocárdica.",
+   "Errada: durante o pinçamento não há oferta coronária a aumentar; o foco é cortar o consumo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta qual é a principal dependência que um paciente submetido à cirurgia cardíaca pode apresentar no período pós-operatório imediato, e por quanto tempo isso geralmente ocorre.",
+  "alts": [
+   "Dependência de assistência para a alimentação, por aproximadamente 48 horas",
+   "Dependência da administração de hemoderivados, por cerca de 72 horas",
+   "Dependência da ventilação mecânica, por aproximadamente 24 horas",
+   "Dependência da administração de medicamentos analgésicos, por cerca de 12 horas",
+   "Dependência da mobilização ativa, por aproximadamente 36 horas"
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Recuperação pós-anestésica",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ERAS Cardiac Surgery Guidelines (Engelman et al., JAMA Surg), 2019",
+  "coment": "No pós-operatório imediato de cirurgia cardíaca o paciente chega à UTI intubado, sob efeito anestésico, e a dependência principal é da ventilação mecânica. A banca usou o tempo clássico de cerca de 24 horas. A diretriz ERAS de cirurgia cardíaca de 2019 recomenda estratégias para extubar em até 6 horas (extubação precoce, fast-track) quando o paciente está estável, de modo que as 24 horas hoje são um teto, não a meta. As outras dependências citadas existem, mas não são a principal nem têm aqueles prazos fixos.",
+  "porAlt": [
+   "Errada: a assistência para alimentar-se não é a dependência principal do pós-operatório imediato.",
+   "Errada: hemoderivados são usados conforme sangramento e exames, não como dependência rotineira de 72 horas.",
+   "Correta: o paciente sai da sala intubado, e a ventilação mecânica é a dependência principal; hoje se busca extubar em até 6 horas.",
+   "Errada: a analgesia é contínua e multimodal, sem duração fixa de 12 horas nem papel de dependência principal.",
+   "Errada: a mobilização é precoce e progressiva, não uma dependência de 36 horas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta qual é uma das principais prioridades de cuidados de enfermagem no período pós-operatório imediato para um paciente submetido à cirurgia cardíaca, especificamente relacionada à ventilação mecânica.",
+  "alts": [
+   "Monitorizar de perto os sinais vitais e os níveis de oxigenação para garantir a estabilidade respiratória",
+   "Realizar a administração regular de analgésicos para garantir o conforto do paciente",
+   "Promover a mobilização precoce do paciente para prevenir complicações musculoesqueléticas",
+   "Iniciar a alimentação enteral imediatamente para garantir a nutrição adequada",
+   "Realizar mudanças frequentes de decúbito para prevenir úlceras de pressão"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Recuperação pós-anestésica",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "ERAS Cardiac Surgery Guidelines (Engelman et al., JAMA Surg), 2019",
+  "coment": "O enunciado restringe a prioridade à ventilação mecânica. No pós-operatório imediato de cirurgia cardíaca, a primeira prioridade é a estabilidade respiratória e hemodinâmica: monitorizar de perto sinais vitais, oximetria, capnografia e gasometria, parâmetros que guiam o desmame e a extubação precoce. Analgesia, mobilização, dieta e mudança de decúbito fazem parte do plano, mas não respondem ao foco ventilatório e não vêm antes da oxigenação.",
+  "porAlt": [
+   "Correta: monitorizar sinais vitais e oxigenação garante a estabilidade respiratória e orienta o desmame.",
+   "Errada: a analgesia é necessária, mas não é a prioridade relacionada à ventilação mecânica.",
+   "Errada: a mobilização precoce vem depois da estabilização e não é o foco ventilatório.",
+   "Errada: a dieta só começa após extubação e avaliação; iniciá-la de imediato não é prioridade.",
+   "Errada: a mudança de decúbito previne lesão por pressão, mas não é a prioridade ventilatória."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando os cuidados essenciais na prevenção de feridas, assinale a alternativa que apresenta qual a importância do banho no leito para pacientes submetidos à cirurgia cardíaca no período pós-operatório imediato.",
+  "alts": [
+   "O banho no leito é crucial para a higiene geral do paciente, mas não impacta diretamente na prevenção de feridas cirúrgicas",
+   "O banho no leito deve ser evitado no pós-operatório imediato para não interferir nos curativos cirúrgicos",
+   "O banho no leito não é necessário, uma vez que a higiene pode ser mantida com lenços umedecidos",
+   "O banho no leito é indicado apenas para pacientes que desenvolveram complicações pós-operatórias",
+   "O banho no leito permite avaliar a pele do paciente, identificando precocemente possíveis alterações, e contribui para a prevenção de úlceras por pressão"
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Prevenção de quedas e de lesão por pressão",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "EPUAP/NPIAP/PPPIA, Prevention and Treatment of Pressure Ulcers/Injuries: International Guideline, 2019",
+  "coment": "O banho no leito higieniza e é o momento sistemático de inspecionar a pele: proeminências ósseas, áreas sob dispositivos, umidade e hiperemia. Na cirurgia cardíaca, horas de imobilidade na mesa, hipotermia e baixo débito elevam o risco de lesão por pressão, e a avaliação da pele é uma recomendação central da diretriz internacional de 2019. O termo úlcera por pressão foi substituído por lesão por pressão (NPIAP, 2016). O banho não precisa ser evitado: protege-se o curativo, e lenços umedecidos não substituem a inspeção.",
+  "porAlt": [
+   "Errada: o banho tem impacto direto na prevenção, pois permite inspecionar a pele e detectar lesões cedo.",
+   "Errada: o banho é feito com proteção dos curativos, sem necessidade de ser evitado.",
+   "Errada: o valor do banho não é só a limpeza, mas a inspeção da pele, que o lenço sozinho não substitui.",
+   "Errada: o banho é cuidado de rotina, não restrito a quem já tem complicação.",
+   "Correta: o banho permite avaliar a pele e identificar alterações precocemente, prevenindo lesão por pressão."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta qual é a função principal do seio coronário no sistema venoso coronário.",
+  "alts": [
+   "O seio coronário atua como uma válvula reguladora do fluxo sanguíneo nas artérias coronárias",
+   "O seio coronário é responsável por bombear o sangue diretamente para o ventrículo esquerdo",
+   "O seio coronário coleta o sangue venoso do coração e o transporta para a circulação pulmonar",
+   "O seio coronário fornece oxigênio diretamente para as células do músculo cardíaco",
+   "O seio coronário atua como um reservatório temporário para o excesso de sangue no sistema venoso coronário"
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Moore KL, Dalley AF, Agur AMR. Anatomia Orientada para a Clínica, 8ª ed., 2019",
+  "coment": "O seio coronário é um canal venoso largo no sulco coronário posterior que recebe as veias cardíacas magna, média e parva e desemboca no átrio direito. A banca considerou correta a ideia de reservatório temporário do sangue venoso coronário, isto é, o coletor onde o sangue das veias cardíacas se acumula antes de chegar ao átrio direito. A C erra o destino: o seio drena no átrio direito, e só depois o sangue segue ao ventrículo direito e à circulação pulmonar. Na CEC, a cânula de cardioplegia retrógrada é posicionada nele.",
+  "porAlt": [
+   "Errada: o seio coronário é uma veia, sem papel de válvula no fluxo das artérias coronárias.",
+   "Errada: ele não bombeia nada e desemboca no átrio direito, não no ventrículo esquerdo.",
+   "Errada: o seio coronário drena no átrio direito, e não diretamente na circulação pulmonar.",
+   "Errada: ele transporta sangue venoso, já pobre em oxigênio, não oferta oxigênio ao miocárdio.",
+   "Correta: na leitura da banca, o seio coronário é o grande coletor que acumula o sangue venoso cardíaco antes do átrio direito."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta o destino final da maior parte do sangue venoso coronário.",
+  "alts": [
+   "O sangue venoso coronário é direcionado para a circulação pulmonar",
+   "A maior parte do sangue venoso coronário termina nas veias pulmonares",
+   "O sangue venoso coronário se esvazia no seio coronário, que por sua vez desemboca no átrio direito",
+   "As veias cardíacas direitas levam o sangue venoso coronário diretamente para o ventrículo direito",
+   "A circulação venosa coronária não tem um destino específico, distribuindo-se igualmente entre as câmaras cardíacas"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Moore KL, Dalley AF, Agur AMR. Anatomia Orientada para a Clínica, 8ª ed., 2019",
+  "coment": "A maior parte do sangue venoso do miocárdio é recolhida pelas veias cardíacas magna, média e parva, que convergem no seio coronário, e este desemboca no átrio direito. Uma fração menor drena por veias cardíacas anteriores, também no átrio direito, e pelas veias cardíacas mínimas (de Tebésio), diretamente nas câmaras. Por isso o sangue venoso coronário não segue direto para as veias pulmonares nem para a circulação pulmonar; ele entra na circulação sistêmica de retorno pelo átrio direito.",
+  "porAlt": [
+   "Errada: o sangue venoso coronário chega ao átrio direito; só depois segue para a circulação pulmonar.",
+   "Errada: as veias pulmonares trazem sangue oxigenado dos pulmões ao átrio esquerdo.",
+   "Correta: as veias cardíacas convergem no seio coronário, que desemboca no átrio direito.",
+   "Errada: as veias anteriores drenam no átrio direito, não diretamente no ventrículo direito.",
+   "Errada: há destino definido, o átrio direito, e só as veias mínimas drenam nas câmaras."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em uma cirurgia, os tempos cirúrgicos são etapas cruciais. Assinale a alternativa que apresenta qual das seguintes alternativas descreve corretamente a função do tempo cirúrgico denominado \"síntese\".",
+  "alts": [
+   "É a fase em que se realiza a incisão cirúrgica, utilizando instrumentos como bisturis, lâminas e tesouras",
+   "Envolve a prevenção e contenção de sangramentos, utilizando instrumentos como pinças hemostáticas e compressas",
+   "Nessa etapa, são necessários instrumentos de separação, como afastadores, para proporcionar visibilidade no campo cirúrgico",
+   "Corresponde à fase de coaptação de bordas de feridas, utilizando agulhas, porta-agulhas e fios, visando facilitar o processo de cicatrização",
+   "Engloba instrumentos de preensão, como pinças, que seguram estruturas, proporcionando auxílio no procedimento cirúrgico"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "SOBECC, Diretrizes de Práticas em Enfermagem Perioperatória e Processamento de Produtos para a Saúde, 8ª ed., 2021",
+  "coment": "Os tempos cirúrgicos fundamentais são diérese (abertura dos tecidos, com bisturi e tesoura), hemostasia (controle do sangramento, com pinças hemostáticas, ligadura e eletrocautério), exérese (o tempo principal da operação) e síntese (aproximação das bordas, com agulhas, porta-agulhas e fios ou grampeadores). A síntese favorece a cicatrização por primeira intenção. Afastadores e pinças de preensão são grupos de instrumentais que auxiliam os tempos, não tempos em si.",
+  "porAlt": [
+   "Errada: incisão com bisturi, lâminas e tesouras é a diérese.",
+   "Errada: prevenir e conter sangramento com pinças hemostáticas é a hemostasia.",
+   "Errada: afastadores são instrumentais de separação, que dão exposição, e não definem a síntese.",
+   "Correta: síntese é a coaptação das bordas com agulhas, porta-agulhas e fios, favorecendo a cicatrização.",
+   "Errada: pinças de preensão são um grupo de instrumentais, não o tempo de síntese."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Ao utilizar o índice de Aldrete e Kroulik para avaliação do paciente na sala de recuperação pós anestésica, assinale a alternativa que apresenta qual pontuação deverá atingir para receber alta.",
+  "alts": [
+   "Quando sua pontuação for maior que 5",
+   "Quando sua pontuação for maior que 6",
+   "Quando sua pontuação for igual ou maior que 7",
+   "Quando sua pontuação for igual ou maior que 8",
+   "Quando sua pontuação for igual ou maior que 9"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Recuperação pós-anestésica",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Aldrete JA, The post-anesthesia recovery score revisited, 1995; Resolução CFM 2.174/2017, art. 7º, § 5º",
+  "coment": "O índice de Aldrete e Kroulik soma cinco itens (atividade, respiração, circulação, consciência e cor, trocada pela saturação de O₂ na versão de 1995), cada um de 0 a 2, com máximo de 10. A literatura de enfermagem perioperatória adota escore igual ou maior que 8 como critério mínimo para considerar a alta da SRPA, e muitos serviços exigem 9 ou 10 no protocolo. O enfermeiro aplica a escala e registra, mas a alta é responsabilidade exclusiva do anestesista ou do plantonista da SRPA (Res. CFM 2.174/2017, art. 7º, § 5º).",
+  "porAlt": [
+   "Errada: 6 pontos ou menos indicam recuperação incompleta, longe do critério de alta.",
+   "Errada: 7 pontos ainda ficam abaixo do mínimo usual de 8 para alta.",
+   "Errada: o limiar adotado é 8, e com 7 pontos o paciente permanece na SRPA.",
+   "Correta: escore igual ou maior que 8 é o critério mínimo usual de alta da SRPA pelo Aldrete e Kroulik.",
+   "Errada: 9 ou mais pode ser exigido em protocolos locais, mas o critério clássico cobrado é 8 ou mais."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os pacientes ambulatoriais que realizam cirurgias também são avaliados pelo Índice de Aldrete e Kroulik para receber alta da sala de recuperação pós anestésica. Assinale a alternativa que apresenta quais parâmetros são acrescentados na avaliação para este tipo de paciente.",
+  "alts": [
+   "Deambulação, alimentação e avaliação cutânea",
+   "Hemograma, avaliação cutânea, curativo e deambulação",
+   "Curativo, dor, deambulação, alimentação e diurese",
+   "Hemograma, dor, deambulação e curativo",
+   "Alimentação, diurese e hemograma"
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Recuperação pós-anestésica",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Aldrete JA, Modifications to the postanesthesia score for use in ambulatory surgery, J Perianesth Nurs, 1998",
+  "coment": "Em 1998 Aldrete adaptou o índice à cirurgia ambulatorial, que dá alta para casa e não para a enfermaria. Aos cinco itens clássicos somou mais cinco: curativo, dor, deambulação, alimentação (capacidade de ingerir líquidos) e diurese. Cada um vale de 0 a 2, o total vai a 20 e a alta para casa costuma exigir 18 ou mais. Hemograma e avaliação cutânea não fazem parte da escala, que é clínica e feita à beira do leito.",
+  "porAlt": [
+   "Errada: falta curativo, dor e diurese, e a avaliação cutânea não é item acrescentado.",
+   "Errada: hemograma e avaliação cutânea não fazem parte da escala ambulatorial.",
+   "Correta: curativo, dor, deambulação, alimentação e diurese são os cinco itens acrescentados em 1998.",
+   "Errada: hemograma não integra a escala, e faltam alimentação e diurese.",
+   "Errada: hemograma não é item da escala, e faltam curativo, dor e deambulação."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O preparo da sala de operação antes de cada cirurgia e antes da introdução do paciente, de materiais e de equipamentos deve incluir a inspeção visual da limpeza. Diante do exposto, analise as afirmativas abaixo.\nI. Em caso de derramamento acidental de substâncias orgânicas, passíveis de conterem patógenos, é desejável sua limpeza imediata, sempre que possível. Essa limpeza é conhecida como limpeza concorrente.\nII. Paredes, portas e focos cirúrgicos são limpos entre as cirurgias apenas se houver contato com sangue e/ou outras substâncias orgânicas. A limpeza por fricção mecânica é mais efetiva, incluindo a escovação.\nIII. Objetos perfurocortantes não descartáveis, como instrumentos cirúrgicos, cuba rim, entre outros, até que sejam descontaminados, só podem ser manipulados com uso de equipamentos de proteção individual (EPI). Tubos de sucção e cânulas reutilizáveis devem ser esvaziados cuidadosamente, lavados e desinfetados pelo pessoal, também com uso de EPI.\nIV. Equipamentos e móveis com sujidade visível devem ser limpos com produto previamente aprovado pelas legislações governamentais e pela Comissão de Controle de Infecção Hospitalar (CCIH), ao final de cada cirurgia. Os equipamentos de anestesia também devem ser processados de acordo com as práticas recomendadas.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I, II, III e IV",
+   "I, III e IV apenas",
+   "II, III e IV apenas",
+   "III e IV apenas",
+   "III apenas"
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "ANVISA, Segurança do Paciente em Serviços de Saúde: Limpeza e Desinfecção de Superfícies, 2012",
+  "coment": "A I erra o nome: a remoção imediata de matéria orgânica derramada é a limpeza imediata, feita a qualquer momento em que ocorra sujidade, mesmo após a concorrente. Limpeza concorrente é a rotineira, diária ou entre procedimentos, com o setor em uso. As demais estão corretas: paredes, portas e focos só são limpos entre cirurgias se houver respingo de sangue ou secreção, e a fricção mecânica é o que remove a sujidade (II); perfurocortantes reutilizáveis, tubos e cânulas são manipulados com EPI até a descontaminação (III); equipamentos e móveis são limpos ao fim de cada cirurgia com produto aprovado pela CCIH (IV).",
+  "porAlt": [
+   "Errada: inclui a I, que chama de concorrente a limpeza imediata de derramamentos.",
+   "Errada: inclui a I e exclui a II, que está correta.",
+   "Correta: II, III e IV estão corretas; a I confunde limpeza imediata com limpeza concorrente.",
+   "Errada: exclui a II, que descreve corretamente a limpeza de paredes, portas e focos entre cirurgias.",
+   "Errada: exclui a II e a IV, ambas corretas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta o nome dado à cirurgia para ressecção da lâmina vertebral.",
+  "alts": [
+   "Vertebroplastia",
+   "Herniorrafia vertebral",
+   "Vertebrotomia",
+   "Facectomia",
+   "Laminectomia"
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "A terminologia cirúrgica combina a raiz do órgão com o sufixo do procedimento: -ectomia é retirada, -tomia é abertura, -plastia é reparo, -rrafia é sutura. Laminectomia é a ressecção da lâmina vertebral, usada para descomprimir medula ou raízes, como na estenose de canal e em hérnias de disco. Vertebroplastia injeta cimento no corpo vertebral, facetectomia retira a faceta articular, e herniorrafia é sutura de hérnia, termo que não se aplica à coluna.",
+  "porAlt": [
+   "Errada: vertebroplastia é a injeção de cimento ósseo no corpo vertebral, sem ressecção da lâmina.",
+   "Errada: herniorrafia é a correção por sutura de hérnias da parede, não ressecção de lâmina.",
+   "Errada: vertebrotomia indicaria abertura da vértebra, e não retirada da lâmina.",
+   "Errada: facectomia retira o cristalino; na coluna, a retirada da faceta é a facetectomia.",
+   "Correta: laminectomia é a ressecção da lâmina vertebral (lamin + ectomia)."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A síndrome de ressecção transuretral da próstata é causada pela absorção de fluídos usados para a irrigação vesical durante o procedimento. Assinale a alternativa que apresenta de maneira incorreta os sinais e sintomas iniciais desta síndrome.",
+  "alts": [
+   "Queixa de náuseas, possivelmente acompanhado de vômitos",
+   "Apreensão, agitação, hipertensão",
+   "Letargia, desorientação",
+   "Convulsões, encefalopatia, coma",
+   "Distúrbios visuais, cefaléia, bradicardia"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Recuperação pós-anestésica",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "Na síndrome pós-ressecção transuretral, a absorção da solução de irrigação sem eletrólitos causa hipervolemia e hiponatremia dilucional. Os primeiros sinais, muitas vezes no paciente acordado sob raquianestesia, são náuseas e vômitos, apreensão e agitação, hipertensão com bradicardia, cefaleia, distúrbios visuais, letargia e desorientação. Convulsões, encefalopatia e coma são manifestações tardias, de hiponatremia grave e edema cerebral. Por isso a alternativa D é a que não descreve sinais iniciais.",
+  "porAlt": [
+   "Errada como resposta: náuseas e vômitos estão entre os sinais iniciais da síndrome.",
+   "Errada como resposta: apreensão, agitação e hipertensão aparecem cedo, pela sobrecarga de volume.",
+   "Errada como resposta: letargia e desorientação são sinais iniciais da hiponatremia dilucional.",
+   "Correta: convulsões, encefalopatia e coma são manifestações tardias e graves, não iniciais.",
+   "Errada como resposta: distúrbios visuais, cefaleia e bradicardia são sinais precoces da síndrome."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta o procedimento é realizado com a cirurgia Goniotomia.",
+  "alts": [
+   "Cirurgia para correção de glaucoma",
+   "Cirurgia para abertura do bacinete renal",
+   "Cirurgia para incisão em articulação para drenagem",
+   "Cirurgia para abertura de um tendão",
+   "Cirurgia para abertura do cálice renal"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "Goniotomia é a incisão (-tomia) do ângulo iridocorneano (gonio-), onde fica a malha trabecular, para abrir a via de drenagem do humor aquoso e baixar a pressão intraocular. É cirurgia clássica do glaucoma congênito. As demais alternativas descrevem outros procedimentos: pielotomia (bacinete renal), artrotomia (articulação), tenotomia (tendão) e calicotomia (cálice renal).",
+  "porAlt": [
+   "Correta: a goniotomia abre o ângulo da câmara anterior para tratar o glaucoma, sobretudo o congênito.",
+   "Errada: abertura do bacinete renal é a pielotomia.",
+   "Errada: incisão em articulação para drenagem é a artrotomia.",
+   "Errada: abertura ou secção de tendão é a tenotomia.",
+   "Errada: abertura do cálice renal é a calicotomia."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta incorretamente as instruções e momentos o check list de cirurgia segura deve ser realizado.",
+  "alts": [
+   "O check list deverá ser realizado no momento pré operatório em ambulatórios ou em unidades de internação",
+   "O check list deverá ser realizado antes da indução anestésica, antes da incisão cirúrgica e antes de o paciente sair da sala de operações",
+   "É essencial que uma única pessoa lidere o processo da Lista de Verificação, sendo responsável por marcar os boxes da lista",
+   "Em cada fase, o coordenador da Lista de Verificação conclui visualmente se as tarefas foram completadas para seguir adiante",
+   "O coordenador confirmará visualmente que o sítio operatório foi marcado (se isto for aplicável) e revisará verbalmente com o profissional de anestesia o risco de perda sanguínea do paciente, dificuldades com as vias aéreas e alergias e também se uma verificação de segurança dos equipamentos anestésicos e medicamentos foi concluída"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Cirurgia segura",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria MS 1.377/2013 e Protocolo para Cirurgia Segura (MS/ANVISA/Fiocruz), 2013",
+  "coment": "Pelo protocolo de 2013 e pelo manual da OMS, uma única pessoa conduz a Lista de Verificação nos três momentos (antes da indução, antes da incisão e antes da saída da sala). Em cada fase o condutor confirma com a equipe, verbalmente, que as tarefas foram feitas antes de prosseguir; não basta concluir visualmente por conta própria. A conferência visual aparece só para itens como a demarcação do sítio, como diz a E. A banca tomou a A como correta, apoiada em protocolos institucionais que iniciam a checagem ainda no pré-operatório da internação ou do ambulatório.",
+  "porAlt": [
+   "Errada como resposta: a banca a aceitou, pois protocolos institucionais iniciam a checagem no pré-operatório da unidade.",
+   "Errada como resposta: os três momentos da lista são exatamente esses.",
+   "Errada como resposta: o protocolo exige um único condutor, responsável por marcar os itens.",
+   "Correta: o condutor confirma com a equipe, verbalmente, que cada tarefa foi feita; não conclui só visualmente.",
+   "Errada como resposta: reproduz o manual da OMS para a fase antes da indução anestésica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A expressão tempos cirúrgico caracteriza a sequência de procedimentos utilizada na manipulação dos tecidos e vísceras durante o ato operatório, sendo identificada por quatro tempos básicos, exceto:",
+  "alts": [
+   "Diérese",
+   "Diaforese",
+   "Hemostasia",
+   "Exérese",
+   "Síntese"
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "SOBECC, Diretrizes de Práticas em Enfermagem Perioperatória e Processamento de Produtos para a Saúde, 8ª ed., 2021",
+  "coment": "Os quatro tempos cirúrgicos básicos são diérese (abertura dos tecidos), hemostasia (controle do sangramento), exérese (o tempo principal, de retirada ou correção) e síntese (reaproximação dos tecidos). Diaforese não é tempo cirúrgico: é sudorese abundante, um sinal clínico, e entrou na questão pela semelhança sonora com diérese.",
+  "porAlt": [
+   "Errada como resposta: diérese, a abertura dos tecidos, é o primeiro tempo cirúrgico.",
+   "Correta: diaforese é sudorese intensa, sinal clínico, e não um tempo cirúrgico.",
+   "Errada como resposta: hemostasia, o controle do sangramento, é tempo cirúrgico.",
+   "Errada como resposta: exérese é o tempo principal da operação.",
+   "Errada como resposta: síntese, a reaproximação dos tecidos, é o tempo final."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Independentemente da configuração do Centro Cirúrgico, com base na legislação vigente, deve ser seguida a sua recomendação para os componentes, acabamento e biossegurança deste setor. Sobre o assunto, assinale a alternativa correta.",
+  "alts": [
+   "A sala de operações de médio porte deve ter pelo menos 40 m², com dimensão mínima de 6 m; é destinada à realização de cirurgias gerais",
+   "Em relação à quantidade de sala de operações em um centro cirúrgico, é recomendado que haja duas salas de cirurgia para cada 100 leitos não especializados ou duas para cada 30 leitos cirúrgicos",
+   "As portas devem ser de correr e, nas sala de operação, devem possibilitar a visão externa do ambiente interno da sala, diminuindo a necessidade de entrada de pessoal. As portas de vai-e-vem aumentam o risco de contaminação com as mãos de pessoas que a utilizam, além de movimentar o ar ambiente sem necessidade",
+   "A ventilação conta com a utilização do sistema de ar-condicionado, cuja finalidade exclusiva é o controle da temperatura e da umidade",
+   "O sistema centralizado de ar condicionado deve controlar a umidade relativa do ar entre 30 e 40% e a temperatura em sala de operação entre 18ºC e 20ºC, e, de preferência, somente o serviço de manutenção poderá ter acesso ao controle, para não se considerar apenas a temperatura para conforto da equipe cirúrgica"
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 50/2002, Parte II, Unidade Funcional Centro Cirúrgico",
+  "coment": "Portas de correr, com visor, evitam o deslocamento de ar e o contato das mãos que a porta vai-e-vem provoca, e permitem ver a sala sem entrar, reduzindo a circulação. As outras erram números da RDC 50/2002: a sala média tem 25 m² com dimensão mínima de 4,65 m (36 m² é a grande); a proporção é de duas salas para cada 50 leitos não especializados ou para cada 15 leitos cirúrgicos. O ar-condicionado do CC não serve só à temperatura e à umidade: também filtra, renova o ar e mantém pressão positiva. A umidade relativa recomendada pela NBR 7256, referida pela RDC 50, fica entre 45% e 55%, não entre 30% e 40%.",
+  "porAlt": [
+   "Errada: a sala média tem 25 m² e dimensão mínima de 4,65 m; 40 m² ultrapassa até a sala grande.",
+   "Errada: a proporção é de duas salas para 50 leitos não especializados ou para 15 leitos cirúrgicos.",
+   "Correta: portas de correr com visor reduzem entradas, deslocamento de ar e contaminação pelas mãos.",
+   "Errada: o ar-condicionado também filtra, renova o ar e mantém pressão positiva, não só temperatura e umidade.",
+   "Errada: a umidade relativa recomendada no CC fica entre 45% e 55%, não entre 30% e 40%."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A eficácia do teste Bowie e Dick depende da correta montagem e do condicionamento do pacote, de acordo com as especificações das normas técnicas. Assinale a alternativa que apresenta a finalidade de sua utilização.",
+  "alts": [
+   "Verificar a remoção do ar e dos gases não condensáveis",
+   "Inserir marcação nos materiais esterilizados",
+   "Verificar a remoção de vários alérgenos",
+   "Aferir a dissolução de micropartículas conjugadas",
+   "Aferir a quantidade de vapor no processo"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "RDC ANVISA 15/2012, art. 93",
+  "coment": "O teste de Bowie e Dick avalia a eficácia do sistema de remoção do ar e dos gases não condensáveis da câmara da autoclave com bomba de vácuo. Ar residual forma bolsões que impedem o contato do vapor com o material, e a esterilização falha. Pela RDC 15/2012, art. 93, o teste é feito diariamente, no primeiro ciclo do dia, com a câmara vazia e o pacote desafio. Não mede quantidade de vapor nem marca materiais.",
+  "porAlt": [
+   "Correta: o Bowie e Dick verifica a remoção do ar e dos gases não condensáveis da autoclave a vácuo.",
+   "Errada: a identificação do material é feita pelo rótulo do pacote, não pelo teste.",
+   "Errada: o teste não tem relação com alérgenos; avalia a penetração do vapor.",
+   "Errada: dissolução de micropartículas não é parâmetro de esterilização a vapor.",
+   "Errada: o teste não mede quantidade de vapor, e sim se o ar foi removido para o vapor penetrar."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São cuidados de enfermagem para realização da gasometria arterial em pediatria. Assinale a alternativa incorreta.",
+  "alts": [
+   "Realizar a compressão do local de punção por um período de cinco a 10 minutos, e na sequência realizando o curativo",
+   "O cuidado com a amostra do sangue arterial coletado é crucial para que os resultados sejam mais fidedignos possíveis, dentre eles é a inspeção da seringa quanto a presença de bolhas de ar, em caso de presença estas devem ser removidas em uma compressa de gaze",
+   "A posição do bisel voltado para o lado e a angulação da agulha inserida em um ângulo de 30° a 45° para artérias periféricas e 60° para profundas, respeitando o sentido da artéria, puxando o êmbolo da seringa facilitando o retorno sanguíneo",
+   "Após a finalização da coleta do exame de gasometria, deve-se monitorar os sinais vitais, quanto a presença de edema, dor, dormência ou formigamento ocasionado pelo curativo no sítio de punção",
+   "Ao enfermeiro, cabe a avaliação e identificação das complicações para que a intervenção seja aplicada precocemente de modo a contribuir com a segurança do paciente"
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Coleta de exames",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "AARC Clinical Practice Guideline: Blood Gas Analysis and Hemoximetry (Respir Care), 2013",
+  "coment": "Na punção arterial o bisel fica voltado para cima, a agulha entra contra o fluxo, com 30 a 45 graus na radial e ângulos maiores (60 a 90 graus) em artérias profundas como a femoral, e a própria pressão arterial enche a seringa: não se puxa o êmbolo, pois a aspiração pode trazer sangue venoso e criar bolhas. Por isso a C é a incorreta. As bolhas devem ser expelidas logo, sobre gaze, porque alteram a PaO₂ e a PaCO₂. Depois, compressão de 5 a 10 minutos (mais em quem usa anticoagulante) e vigilância de dor, edema, perfusão e sensibilidade do membro.",
+  "porAlt": [
+   "Errada como resposta: compressão de cinco a dez minutos, seguida de curativo, previne hematoma.",
+   "Errada como resposta: bolhas de ar alteram os gases e devem ser expelidas logo, sobre gaze.",
+   "Correta: o bisel vai voltado para cima e não se puxa o êmbolo; a pressão arterial enche a seringa.",
+   "Errada como resposta: vigiar edema, dor, dormência e formigamento detecta compressão ou isquemia.",
+   "Errada como resposta: cabe ao enfermeiro avaliar e identificar complicações precocemente."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre fístula artério venosa, analise as alternativas e dê valores Verdadeiro (V) ou Falso (F).\n( ) O cuidado com a fístula deve ser de responsabilidade tanto da equipe multidisciplinar como do paciente, cabendo principalmente a enfermagem passar as orientações e fazer a educação em saúde com o paciente para que haja adesão ao tratamento e prevenção de complicações.\n( ) A higiene, curativos e a adequada dieta e hidratação são alguns dos cuidados necessários para garantir a eficácia e segurança da fístula artério venosa.\n( ) O monitoramento da fístula arteriovenosa é de extrema importância para avaliar a permeabilidade e identificar possíveis obstruções, como coágulos ou acúmulo de fibrina, além de detectar vazamentos que podem levar a hemorragias internas.\n( ) Complicações imediatas da fístula artério venosa incluem hemorragia, trombose, infecção e disfunção primária da FAV.\n( ) As infecções são a principal causa de perda da permeabilidade da fístula artério venosa.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V - F",
+   "V - V - V - F - V",
+   "F - V - V - F - V",
+   "V - F - V - F - V",
+   "F - V - F - V - V"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "KDOQI Clinical Practice Guideline for Vascular Access: 2019 Update, publicada em 2020",
+  "coment": "As quatro primeiras afirmativas são verdadeiras: o cuidado da fístula é compartilhado, e a enfermagem educa o paciente (não puncionar nem medir pressão no braço, palpar o frêmito diariamente, higiene); higiene, curativo, dieta e hidratação adequadas sustentam o acesso; o monitoramento (frêmito, sopro, tempo de sangramento pós-punção, pressões na sessão) detecta estenose, trombose e vazamentos; hemorragia, trombose, infecção e falha de maturação são complicações precoces. A quinta é falsa: a principal causa de perda da permeabilidade é a estenose com trombose, e não a infecção, que é rara na fístula nativa.",
+  "porAlt": [
+   "Correta: V-V-V-V-F; a perda da permeabilidade da fístula decorre sobretudo de estenose e trombose, não de infecção.",
+   "Errada: a quarta é verdadeira e a quinta é falsa, ao contrário do que propõe.",
+   "Errada: a primeira é verdadeira, e a quinta, sobre infecção, é falsa.",
+   "Errada: a segunda e a quarta são verdadeiras, e a quinta é falsa.",
+   "Errada: a primeira e a terceira são verdadeiras, e a quinta é falsa."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A correção de hérnia diafragmática em neonatos é uma cirurgia de alto risco, necessitando de acompanhamento contínuo e rigoroso. Sobre as possíveis complicações graves desta cirurgia, assinale a alternativa incorreta.",
+  "alts": [
+   "Hipertensão pulmonar",
+   "Oligúria",
+   "Hipotensão arterial",
+   "Uso de drogas vasoativas",
+   "Encefalopatia"
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "CDH EURO Consortium Consensus, 2015 Update (Snoek et al., Neonatology), 2016",
+  "coment": "Na hérnia diafragmática congênita, a hipoplasia pulmonar e a hipertensão pulmonar persistente dominam o pós-operatório: há hipoxemia, disfunção ventricular, hipotensão e baixo débito com oligúria, e muitas vezes é preciso usar drogas vasoativas (o consenso CDH EURO orienta manter a perfusão e tratar a disfunção cardíaca). A banca considerou a encefalopatia a alternativa que não pertence à lista de complicações graves do pós-operatório imediato. Repercussões neurológicas existem a longo prazo, sobretudo após ECMO, mas não são o problema característico da correção.",
+  "porAlt": [
+   "Errada como resposta: hipertensão pulmonar é a complicação mais temida da hérnia diafragmática.",
+   "Errada como resposta: oligúria reflete baixo débito e hipoperfusão no pós-operatório.",
+   "Errada como resposta: hipotensão é frequente, pela disfunção ventricular e pela hipertensão pulmonar.",
+   "Errada como resposta: a necessidade de drogas vasoativas expressa a instabilidade hemodinâmica grave.",
+   "Correta: na leitura da banca, encefalopatia não é complicação característica do pós-operatório imediato."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta como pode ser descrita a onfalocele.",
+  "alts": [
+   "São defeitos congênitos da parede abdominal que resultam em hérnia intestinal da cavidade abdominal",
+   "É um defeito congênito da coluna vertebral",
+   "Projeção de uma porção do intestino através de uma malformação na parede abdominal na linha média, na altura do umbigo, com herniação das vísceras recoberta por uma fina membrana transparente composta de âmnio e peritônio, que envolve a parte projetada",
+   "Agenesia renal, persistência de lobação fetal, fusão renal ou rim em ferradura",
+   "Formação incompleta do esôfago, frequentemente associada à fístula traqueoesofágica"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hockenberry MJ, Wilson D. Wong Fundamentos de Enfermagem Pediátrica, 10ª ed., 2018",
+  "coment": "Onfalocele é a herniação das vísceras pela base do cordão umbilical, na linha média, coberta por membrana de âmnio e peritônio, o que a diferencia da gastrosquise, defeito à direita do umbigo com alças expostas, sem membrana. A alternativa A dá só a definição genérica dos defeitos de parede, que vale também para a gastrosquise, e por isso a C, que descreve a onfalocele com sua membrana, é a resposta. No cuidado, a membrana é protegida com cobertura estéril úmida e o RN é avaliado para anomalias associadas, frequentes na onfalocele.",
+  "porAlt": [
+   "Errada: é definição genérica dos defeitos de parede, que inclui a gastrosquise, sem a membrana típica.",
+   "Errada: defeito congênito da coluna vertebral descreve a espinha bífida.",
+   "Correta: herniação na linha média, no umbigo, recoberta por membrana de âmnio e peritônio, é a onfalocele.",
+   "Errada: agenesia, lobação fetal e rim em ferradura são anomalias renais.",
+   "Errada: formação incompleta do esôfago com fístula traqueoesofágica é a atresia de esôfago."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "É necessário conhecimento para utilização da placa neutra ou eletrodo dispersivo. Diante do exposto, assinale a alternativa incorreta.",
+  "alts": [
+   "O local apropriado da placa neutra para os diversos procedimentos deverá ser avaliado e determinado pela necessidade cirúrgica, pelas condições físicas do paciente, gerais e locais (pele íntegra, massa muscular), e pela proximidade da área do eletrodo ativo",
+   "Em pacientes com próteses metálicas, a placa neutra deve ser posicionada o mais próximo possível da prótese",
+   "No local da placa neutra e ao redor dela, deve-se evitar afluxo de sangue e outros líquidos, de modo a evitar fuga e divisão de corrente. Deve-se estar atento à perfusão da pele no local, que promoverá a condutividade elétrica na área e a dissipação do calor no contato do eletrodo com a superfície da pele",
+   "A placa neutra requer o uso de gel condutor e deve ser verificada antes do uso, para identificar locais secos, sem gel",
+   "A placa neutra deve ser colocada no paciente em local limpo, com pele seca, sem pêlos e sobre grande massa muscular. Proeminências ósseas, tatuagens e superfícies com escaras e tecido cicatricial devem ser evitadas"
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Anestesia e posicionamento",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "SOBECC, Diretrizes de Práticas em Enfermagem Perioperatória e Processamento de Produtos para a Saúde, 8ª ed., 2021",
+  "coment": "No bisturi monopolar a corrente volta ao gerador pela placa neutra, que a dispersa por área ampla. Metal conduz e concentra corrente, por isso a placa fica longe de próteses metálicas, nunca o mais próximo possível delas, que é o erro da B. A placa vai em pele limpa, seca e sem pelos, sobre massa muscular bem vascularizada, perto do sítio cirúrgico, longe de proeminências ósseas, cicatrizes e tatuagens; deve-se evitar acúmulo de líquidos sob ela e conferir a integridade do gel antes de usar.",
+  "porAlt": [
+   "Errada como resposta: o local da placa depende da cirurgia, das condições da pele e da proximidade do eletrodo ativo.",
+   "Correta: a placa deve ficar longe de próteses metálicas, que concentram corrente e podem causar queimadura.",
+   "Errada como resposta: líquidos sob a placa desviam corrente, e a perfusão ajuda a dissipar o calor.",
+   "Errada como resposta: a placa com gel é conferida antes do uso para detectar áreas secas.",
+   "Errada como resposta: pele limpa, seca, sem pelos, sobre massa muscular e longe de proeminências e cicatrizes."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a nefrectomia, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Atualmente a nefrectomia radical para tratamento de tumores localizados é considerada padrão ouro em relação à nefrectomia parcial.\n( ) A nefrectomia parcial tem como principais objetivos a margem cirúrgica negativa, a preservação da função renal e a recuperação livre de complicações.\n( ) A cirurgia laparoscópica assistida por robô apresenta ganhos em vários aspectos, principalmente em casos mais complexos.\n( ) Com o advento da cirurgia laparoscópica, pode-se também realizar a nefrectomia parcial empregando-se essa técnica, cujas vantagens são redução da perda sanguínea intraoperatória, menos tempo cirúrgico e menos tempo de hospitalização, sendo os benefícios ainda maiores nos pacientes obesos.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "F - V - V - V",
+   "V - F - V - V",
+   "F - V - V - F",
+   "V - V - F - V"
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "AUA Guideline: Renal Mass and Localized Renal Cancer, 2021",
+  "coment": "A primeira afirmativa é falsa: para tumores renais localizados, sobretudo cT1, a nefrectomia parcial é o tratamento preferencial, porque preserva néfrons e reduz o risco de doença renal crônica, com controle oncológico semelhante ao da radical (diretriz da AUA de 2021). As demais são verdadeiras: a parcial busca margem negativa, preservação da função renal e recuperação sem complicações (o chamado trifecta); a assistência robótica ajuda nos casos complexos; e a via laparoscópica reduz perda sanguínea e internação, com benefício maior em obesos.",
+  "porAlt": [
+   "Errada: a primeira é falsa, pois a parcial é preferida à radical nos tumores localizados.",
+   "Correta: F-V-V-V; a nefrectomia parcial é a preferencial nos tumores localizados, e as demais são verdadeiras.",
+   "Errada: a primeira é falsa e a segunda, sobre os objetivos da parcial, é verdadeira.",
+   "Errada: a quarta, sobre as vantagens da laparoscopia, é verdadeira.",
+   "Errada: a primeira é falsa e a terceira, sobre a cirurgia robótica, é verdadeira."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Síndrome associada a um trânsito gastrointestinal acelerado, caracteriza-se por uma diarreia episódica, não associada às refeições e que parece ser provocada pela desenervação da árvore biliar durante a gastrectomia. Assinale a alternativa que corresponde a esta descrição.",
+  "alts": [
+   "Diarreia pós-vagotomia",
+   "Dumping",
+   "Estase gástrica",
+   "Gastrite biliar alcalina",
+   "Estase de Roux"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "O enunciado descreve a diarreia pós-vagotomia: episódica, sem relação com as refeições, ligada ao trânsito acelerado e à desnervação vagal da árvore biliar, que altera o fluxo de sais biliares para o intestino. O dumping, ao contrário, aparece logo após comer (precoce, 10 a 30 minutos, com sudorese, palpitação e diarreia) ou horas depois (tardio, por hipoglicemia). Estase gástrica e estase de Roux são esvaziamento lento, e gastrite biliar alcalina é refluxo de bile com dor e vômitos.",
+  "porAlt": [
+   "Correta: diarreia episódica, sem relação com as refeições, por desnervação vagal da árvore biliar.",
+   "Errada: o dumping está ligado às refeições, com sintomas logo após comer ou horas depois.",
+   "Errada: a estase gástrica é esvaziamento lento, com plenitude e vômitos, não trânsito acelerado.",
+   "Errada: a gastrite biliar alcalina decorre de refluxo de bile, com dor epigástrica e vômito bilioso.",
+   "Errada: a estase de Roux é esvaziamento lento da alça em Y de Roux, oposto ao trânsito acelerado."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As estomias intestinais, dependendo da localização, podem apresentar características peculiares ao segmento do intestino em que foi realizada. Sobre o assunto, assinale a alternativa correta.",
+  "alts": [
+   "A colostomia sigmóide, permite eliminação de fezes firmes e sólidas, semelhantes às fezes eliminadas pelo ânus, também é possível adquirir regularidade",
+   "A colostomia ascendente é realizada ao lado esquerdo do intestino grosso, fezes são de pastosas a sólidas, com funcionamento sempre involuntário",
+   "A colostomia descendente é realizada no lado direito do intestino grosso, as fezes são líquidas ou semi líquidas e pastosas após a readaptação intestinal",
+   "A ileostomia é a exteriorização da parte final do intestino grosso, decorrente de qualquer motivo que impeça a passagem das fezes pelo intestino delgado",
+   "A colostomia transversa é realizada na parte inferior ao intestino grosso, os efluentes sempre serão completamente líquidos"
+  ],
+  "gab": 0,
+  "tema": "feridas",
+  "sub": "Estomias e cuidados",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Guia de Atenção à Saúde da Pessoa com Estomia, 2021",
+  "coment": "Quanto mais distal o estoma, mais sólido o efluente. A colostomia sigmoide, no lado esquerdo e no fim do cólon, elimina fezes formadas, semelhantes às anais, e permite regularidade e até irrigação. A ascendente fica à direita, com efluente líquido a pastoso; a descendente fica à esquerda, com fezes pastosas a sólidas; a transversa, na porção média do cólon, tem fezes pastosas. A ileostomia exterioriza o íleo, parte final do intestino delgado, com efluente líquido e rico em enzimas.",
+  "porAlt": [
+   "Correta: a sigmoide elimina fezes firmes, semelhantes às anais, e permite adquirir regularidade.",
+   "Errada: a ascendente fica no lado direito, com efluente líquido a pastoso.",
+   "Errada: a descendente fica no lado esquerdo, com fezes pastosas a sólidas.",
+   "Errada: a ileostomia exterioriza o íleo, do intestino delgado, e não o intestino grosso.",
+   "Errada: a transversa fica na porção média do cólon, com fezes em geral pastosas, não sempre líquidas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A ______ é realizada para permitir a saída de urina e de fezes pelo mesmo estoma. É uma alternativa para pessoas que necessitam de dupla derivação (aparelho urinário e digestório).\nAssinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "colostomia renal sigmóide",
+   "ileostomia",
+   "pielostomia",
+   "colostomia úmida em alça",
+   "vesicostomia"
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Estomias e cuidados",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Guia de Atenção à Saúde da Pessoa com Estomia, 2021",
+  "coment": "A colostomia úmida em alça é a derivação dupla: os ureteres são implantados na alça intestinal exteriorizada, de modo que urina e fezes saem pelo mesmo estoma. É indicada em exenterações pélvicas e tumores que comprometem bexiga e reto. Ileostomia elimina só efluente intestinal; pielostomia drena urina do bacinete; vesicostomia drena a bexiga; e colostomia renal sigmoide não é um procedimento.",
+  "porAlt": [
+   "Errada: colostomia renal sigmoide não é nome de procedimento descrito.",
+   "Errada: a ileostomia exterioriza o íleo e elimina só efluente intestinal.",
+   "Errada: a pielostomia drena urina do bacinete renal, sem componente intestinal.",
+   "Correta: a colostomia úmida em alça elimina urina e fezes pelo mesmo estoma, como dupla derivação.",
+   "Errada: a vesicostomia drena urina da bexiga, sem saída de fezes."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os dispositivos mais utilizados em estomias de alimentação possuem diferentes características. Diante do exposto, assinale a alternativa incorreta.",
+  "alts": [
+   "As sondas gastrostomias são denominadas gastrostomias iniciais, quando utilizadas pela primeira vez, de reposição ou de baixo perfil (pertuito formado)",
+   "Sondas gastrostomias podem ser mantidas na câmara gástrica por meio do balonete insuflado em formato de “cogumelo” para fixação interna e de anel flexível para fixação externa",
+   "As sondas jejunais são menos calibrosas, apresentando calibre de 8 a 14 French e comprimento de aproximadamente 75 cm, procedimento realizado por endoscopia ou cirurgicamente",
+   "As sondas gastrojejunais possuem calibre de 9 French, para colocação jejunal e 22 ou 24 French, para colocação gástrica por meio de novas gastrostomias. Em gastrostomias já existentes não é indicada",
+   "Algumas sondas gastrosjejunais podem apresentar-se com três vias, sendo a via do balonete, a via gástrica para descompressão ou drenagem e a via jejunal para alimentação. Outras apresentam somente a via do balonete e a via gástrica, necessitando inserir a sonda jejunal por elas"
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Estomias e cuidados",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "ASPEN Safe Practices for Enteral Nutrition Therapy (Boullata et al., JPEN), 2017",
+  "coment": "A sonda gastrojejunal tem um ramo jejunal fino, próximo de 9 French, para alimentar, e um ramo gástrico calibroso, de 22 ou 24 French, para descomprimir. Ela pode ser colocada por gastrostomia nova ou, com frequência, pelo pertuito de uma gastrostomia já existente, convertendo-a: por isso a D, que nega essa indicação, é a incorreta. As demais estão certas: sondas de gastrostomia iniciais, de reposição e de baixo perfil; fixação por balão ou cogumelo e anel externo; sondas jejunais de 8 a 14 French; versões com três vias.",
+  "porAlt": [
+   "Errada como resposta: as sondas de gastrostomia são classificadas em iniciais, de reposição e de baixo perfil.",
+   "Errada como resposta: a fixação interna por balão ou cogumelo e externa por anel é descrita corretamente.",
+   "Errada como resposta: as sondas jejunais são de menor calibre, entre 8 e 14 French.",
+   "Correta: a sonda gastrojejunal também pode ser colocada pelo pertuito de gastrostomia já existente.",
+   "Errada como resposta: há modelos de três vias e modelos de duas, que exigem introduzir a sonda jejunal."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As variações no comportamento dos diferentes tipos de materiais de sutura têm sido amplamente estudadas in vivo, in vitro, experimentalmente e clinicamente. Diante do exposto, assinale a alternativa incorreta.",
+  "alts": [
+   "Os fios absorvíveis naturais são responsáveis pela reação inflamatória mais intensa entre todos os fios de sutura, além de apresentarem um tempo de absorção muito alto e previsível",
+   "Os fios absorvíveis sintéticos desencadeiam reações inflamatórias, significamente menores que os fios absorvíveis naturais, são disponíveis com tempo de absorção curto, médio e longo",
+   "A qualidade mecânica dos nós é a mesma para todos os fios absorvíveis sintéticos testados",
+   "Os fios absorvíveis sintéticos mantém muito da sua resistência até que o processo de absorção tenha início e se complete",
+   "O tratamento do fio com sais de croma prolonga o tempo de absorção e aumenta sua resistência à tensão"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "SOBECC, Diretrizes de Práticas em Enfermagem Perioperatória e Processamento de Produtos para a Saúde, 8ª ed., 2021",
+  "coment": "Os fios absorvíveis naturais (categute simples e cromado) são degradados por proteólise e fagocitose, o que gera a reação inflamatória mais intensa entre os fios e um tempo de absorção variável e imprevisível, que depende do tecido, de infecção e do estado do paciente. Por isso a A é a incorreta: o tempo não é previsível. Os sintéticos (poliglactina, ácido poliglicólico, polidioxanona) são absorvidos por hidrólise, com menos inflamação e perfil previsível de perda de força. O tratamento com sais de cromo retarda a absorção do categute.",
+  "porAlt": [
+   "Correta: a reação inflamatória dos naturais é intensa, mas o tempo de absorção é variável e imprevisível.",
+   "Errada como resposta: os sintéticos inflamam menos e existem com absorção curta, média e longa.",
+   "Errada como resposta: a banca adotou, com base em estudo comparativo, a mesma qualidade mecânica dos nós entre os sintéticos testados.",
+   "Errada como resposta: os sintéticos mantêm boa parte da força tênsil durante a fase inicial da absorção.",
+   "Errada como resposta: os sais de cromo prolongam a absorção do categute e aumentam sua resistência."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre exemplos de fios de suturas absorvíveis, assinale a alternativa incorreta.",
+  "alts": [
+   "Ácido poliglicólico",
+   "Poliglactina",
+   "Polidioxanona",
+   "Poliglecaprone",
+   "Polipropileno"
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "SOBECC, Diretrizes de Práticas em Enfermagem Perioperatória e Processamento de Produtos para a Saúde, 8ª ed., 2021",
+  "coment": "Ácido poliglicólico, poliglactina 910, polidioxanona e poliglecaprone 25 são fios sintéticos absorvíveis, degradados por hidrólise, com tempos diferentes (o poliglecaprone é o mais rápido, a polidioxanona o mais longo). O polipropileno é sintético e inabsorvível, monofilamentar, usado em suturas vasculares, aponeurose e telas. Lembrete de CME: fio de sutura é produto de uso único, proibido de reprocessar pela RE ANVISA 2.605/2006.",
+  "porAlt": [
+   "Errada como resposta: ácido poliglicólico é fio sintético absorvível.",
+   "Errada como resposta: poliglactina 910 é fio sintético absorvível.",
+   "Errada como resposta: polidioxanona é fio sintético absorvível de longa duração.",
+   "Errada como resposta: poliglecaprone é fio sintético absorvível de absorção rápida.",
+   "Correta: polipropileno é fio sintético inabsorvível, não absorvível."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A saída de qualquer líquido através da ferida cirúrgica em pós operatório de craniotomia, deve ser interpretada como possível ______ e as medidas cabíveis devem ser tomadas prontamente. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "Hemorragias agudas",
+   "Fístula liquórica",
+   "Massa encefálica",
+   "Coleções pós operatórias",
+   "Hematomas"
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "Depois de craniotomia, saída de líquido claro ou sero-hemático pela ferida, pelo nariz ou pelo ouvido deve ser tratada como fístula liquórica até prova em contrário, porque abre caminho para meningite. A enfermagem mantém a cabeceira elevada conforme prescrição, não tampona nem aspira o local, comunica o neurocirurgião, observa o sinal do halo na gaze e registra volume e aspecto. Hemorragia e hematoma se manifestam como sangramento ou piora neurológica, não como drenagem líquida.",
+  "porAlt": [
+   "Errada: hemorragia aguda se apresenta como sangramento franco, não como saída de líquido pela ferida.",
+   "Correta: drenagem de líquido pela ferida após craniotomia é fístula liquórica até prova em contrário.",
+   "Errada: massa encefálica não descreve drenagem de líquido pela ferida.",
+   "Errada: coleções pós-operatórias são acúmulos, e o risco imediato do vazamento é a fístula de liquor.",
+   "Errada: hematoma é coleção de sangue, que se manifesta por efeito de massa e piora neurológica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O tratamento cirúrgico pode ser classificado de acordo com o momento operatório, a finalidade da cirurgia, o risco cardiológico, duração da cirurgia e o ______. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "tipo de cirurgia",
+   "potencial de contaminação",
+   "porte da cirurgia",
+   "tipo de anestesia indicado",
+   "potencial de gravidade possível"
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria MS 2.616/1998, Anexo II, classificação das cirurgias por potencial de contaminação",
+  "coment": "As cirurgias são classificadas por momento (eletiva, urgência, emergência), finalidade (diagnóstica, curativa, paliativa, reparadora, estética), risco cardiológico, duração (porte I a IV) e potencial de contaminação. Este último, do Anexo II da Portaria MS 2.616/1998, divide as operações em limpas, potencialmente contaminadas, contaminadas e infectadas, conforme a abertura de tratos colonizados e a presença de infecção, e orienta profilaxia antibiótica e vigilância de infecção de sítio cirúrgico. Porte e tipo de anestesia não completam a frase: o porte já está na duração.",
+  "porAlt": [
+   "Errada: tipo de cirurgia é vago e não é um dos critérios clássicos de classificação.",
+   "Correta: o potencial de contaminação divide as cirurgias em limpas, potencialmente contaminadas, contaminadas e infectadas.",
+   "Errada: o porte já é expresso pela duração da cirurgia citada no enunciado.",
+   "Errada: o tipo de anestesia não é critério de classificação do tratamento cirúrgico.",
+   "Errada: potencial de gravidade não é critério de classificação descrito."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O processo de enfermagem é considerado um instrumento metodológico que orienta o cuidado de enfermagem e a documentação do exercício profissional. Diante do exposto, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) No período perioperatório, que envolve toda a experiência cirúrgica do paciente, o processo de enfermagem é chamado de Sistematização da Assistência de Enfermagem Perioperatória.\n( ) A avaliação da assistência de enfermagem perioperatória deve ser efetuada ao término de cada período do desenvolvimento cirúrgico.\n( ) Estudos indicam que a qualidade da assistência de enfermagem desempenhada no período perioperatório interfere no resultado do ato anestésico-cirúrgico.\n( ) No Brasil, mesmo com as recomendações da Associação Brasileira de Enfermeiros de Centro Cirúrgico, Recuperação Anestésica e Centro de Material e Esterilização (SOBECC) e da Association of periOperative Registered Nurses (AORN) no que tange à adoção de um modelo de assistência, a fim de nortear ações dos enfermeiros no centro cirúrgico, a maior parte dos hospitais ainda não adotou um modelo formal.\n( ) A implementação da Sistematização da Assistência de Enfermagem Perioperatória não é uma exigência do Conselho Federal de Enfermagem.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "F - F - V - F - F",
+   "V - V - F - V - V",
+   "V - V - V - V - F",
+   "F - V - F - V - F",
+   "V - F - V - F - V"
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024 (revogou a Resolução COFEN 358/2009)",
+  "coment": "As quatro primeiras afirmativas estão corretas: o PE aplicado ao paciente cirúrgico é a SAEP, de Castellanos e Jouclas, difundida pela SOBECC; a avaliação ocorre ao fim de cada período, com destaque para a visita pós-operatória; a qualidade da assistência perioperatória interfere no resultado anestésico-cirúrgico; e muitos hospitais ainda não adotaram um modelo formal. A quinta é falsa: o Processo de Enfermagem é obrigatório em todo ambiente onde ocorre cuidado de enfermagem, exigência que estava na Res. COFEN 358/2009 e hoje está na Res. COFEN 736/2024, que o organiza em cinco etapas.",
+  "porAlt": [
+   "Errada: as três primeiras afirmativas e a quarta são verdadeiras.",
+   "Errada: a terceira é verdadeira e a quinta é falsa.",
+   "Correta: V-V-V-V-F; o PE é exigência do COFEN, hoje pela Res. 736/2024, inclusive no perioperatório.",
+   "Errada: a primeira e a terceira são verdadeiras.",
+   "Errada: a segunda e a quarta são verdadeiras, e a quinta é falsa."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para manutenção de garantia de qualidade do material processado, este deve ser envolvido em embalagens previamente autorizadas pela Agência Nacional de Vigilância Sanitária – ANVISA. Assinale a alternativa incorreta.",
+  "alts": [
+   "A finalidade de embalar os artigos médico-hospitalares é a de manter a esterilidade do produto com respeito a seu uso desejado, guardando-o das condições de transporte e armazenamento",
+   "O atributo que se exige de um sistema de embalagem é a eficácia da barreira microbiana, a qual impede sob condições específicas a migração de microrganismos do meio ambiente para o interior da embalagem",
+   "O papel grau cirúrgico deve ser resistente ao calor, tração e perfuração, não podendo conter amido e corantes, deve ser permeável ao calor e ao ETO (óxido de etileno)",
+   "O tecido de algodão é composto por tecido 100% algodão ou gramatura, é de baixo custo e memória, mas não é resistente à umidade e vulnerável a contaminação. Sua durabilidade é de até 65 reprocessamentos",
+   "As embalagens de tecido não devem ter sido lavadas recentemente antes do uso. A reesterilização com a lavagem do tecido recente, pode levar ao superaquecimento e ser um obstáculo para alcançar a esterilização"
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "RDC ANVISA 15/2012, arts. 79 a 82; SOBECC, Diretrizes de Práticas, 8ª ed., 2021",
+  "coment": "O tecido de algodão deve ser lavado antes de cada reesterilização: a lavagem reidrata as fibras, e o tecido ressecado pelo uso repetido superaquece no vapor e prejudica a esterilização. A E inverte essa regra e é a incorreta. As demais estão de acordo com a SOBECC: a embalagem preserva a esterilidade até o uso; a barreira microbiana é o atributo exigido; o papel grau cirúrgico resiste a calor e tração, não tem amido nem corante e é permeável ao vapor e ao óxido de etileno; o algodão tem vida útil limitada, em torno de 65 reprocessamentos, e pela RDC 15/2012 não pode ser remendado ou cerzido (art. 82).",
+  "porAlt": [
+   "Errada como resposta: embalar mantém a esterilidade e protege o produto no transporte e no armazenamento.",
+   "Errada como resposta: a barreira microbiana é o atributo essencial de qualquer sistema de embalagem.",
+   "Errada como resposta: o papel grau cirúrgico tem exatamente essas características.",
+   "Errada como resposta: descreve o tecido de algodão e sua durabilidade limitada, em torno de 65 reprocessamentos.",
+   "Correta: o tecido deve ser lavado antes de cada reesterilização, pois ressecado superaquece no vapor."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a duração do ato cirúrgico, as cirurgias são classificadas de porte I a IV. Geralmente, quanto maior a duração do procedimento, maior é o porte da cirurgia e maior o risco de o paciente apresentar complicações no período pós-operatório. Sobre a duração em horas das cirurgias de porte III, assinale a alternativa correta.",
+  "alts": [
+   "Até duas horas",
+   "De duas a quatro horas",
+   "De quatro a seis horas",
+   "Acima de seis horas",
+   "Acima de dez horas"
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Parecer Normativo COFEN 1/2024 (porte cirúrgico por duração)",
+  "coment": "A classificação por duração, usada também no dimensionamento de enfermagem do centro cirúrgico, define porte I até 2 horas, porte II de 2 a 4 horas, porte III de 4 a 6 horas e porte IV acima de 6 horas. O Parecer Normativo COFEN 1/2024, que substituiu a lógica da Res. 543/2017 revogada pela 743/2024, associa a cada porte as horas de enfermagem por cirurgia eletiva (1,4; 2,9; 4,9 e 8,4).",
+  "porAlt": [
+   "Errada: até duas horas é o porte I.",
+   "Errada: de duas a quatro horas é o porte II.",
+   "Correta: de quatro a seis horas é o porte III.",
+   "Errada: acima de seis horas é o porte IV.",
+   "Errada: não há faixa de dez horas na classificação, que termina no porte IV, acima de seis horas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A ventilação conta com a utilização do sistema de ar-condicionado, cujas finalidades são a remoção dos gases anestésicos, o controle da temperatura e da umidade, a promoção da troca de ar adequada, a remoção de partículas em suspensão e o impedimento da entrada de partículas de áreas subjacentes. Diante do exposto, assinale a alternativa correta.",
+  "alts": [
+   "O ar condicionado deve ser exclusivo em cada sala de operação com pressão negativa e manter a umidade relativa do ar entre 20 e 40%, evitando a proliferação de fungos e bactérias",
+   "O ar condicionado deve ser centralizado, as entradas de ar devem estar localizadas próximas ao chão e as saídas nas partes superiores das paredes",
+   "O ar condicionado deve ser exclusivo em cada sala de operação e manter a temperatura da sala de operação entre 18 e 20º C",
+   "O ar condicionado deve ser centralizado, com o uso de filtros tipo HEPA (do inglês High Efficiency Particulate Air), com pressão positiva em sala de operação",
+   "O ar condicionado deve ser exclusivo em cada sala de operação, com uso de filtros Hepa (do inglês High Efficiency Particulate Air), com pressão negativa em sala de operação, evitando a entrada de ar circulante dos corredores"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 50/2002, Parte II, Unidade Funcional Centro Cirúrgico",
+  "coment": "A sala de operação é ambiente que precisa ser protegido do ar dos corredores. O ar-condicionado centralizado, com filtragem de alta eficiência (HEPA no insuflamento), mantém a sala em pressão positiva em relação às áreas vizinhas, de modo que o ar sai da sala e não entra. Pressão negativa é própria de ambientes de isolamento de aerossóis e da área suja da CME, nunca da sala cirúrgica. O insuflamento é feito pelo alto e o retorno perto do piso, ao contrário do que diz a B. A umidade recomendada fica entre 45% e 55% (NBR 7256, referida pela RDC 50/2002).",
+  "porAlt": [
+   "Errada: a sala de operação trabalha em pressão positiva, e a umidade de 20 a 40% é baixa demais.",
+   "Errada: o ar é insuflado pelo alto e retorna junto ao piso, não o contrário.",
+   "Errada: o sistema é centralizado, e falta o essencial, a filtragem e a pressão positiva.",
+   "Correta: sistema centralizado, filtros HEPA e pressão positiva na sala de operação.",
+   "Errada: pressão negativa puxaria o ar dos corredores para dentro da sala, o oposto do pretendido."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A ______ caracterizada por aumento reflexo da pressão arterial, bradicardia e alteração do ritmo respiratório (eventualmente apneia) é um fenômeno tardio, porém esses sinais podem aparecer de maneira isolada caracterizando emergência neurológica. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "Tríade de Cushing",
+   "Tríade de Virchow",
+   "Tríade de Beck",
+   "Tríade de Sabin",
+   "Tríade de Charcot"
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "A tríade de Cushing (hipertensão arterial com pressão de pulso alargada, bradicardia e alteração do ritmo respiratório) é resposta reflexa à hipertensão intracraniana grave, com isquemia do tronco: o aumento da pressão tenta manter a perfusão cerebral. É sinal tardio de herniação, e qualquer componente isolado exige comunicação imediata. Virchow é estase, lesão endotelial e hipercoagulabilidade; Beck é hipotensão, turgência jugular e bulhas abafadas no tamponamento; Charcot é febre, icterícia e dor na colangite.",
+  "porAlt": [
+   "Correta: hipertensão, bradicardia e alteração respiratória compõem a tríade de Cushing da hipertensão intracraniana.",
+   "Errada: a tríade de Virchow é estase, lesão endotelial e hipercoagulabilidade, base da trombose.",
+   "Errada: a tríade de Beck é hipotensão, turgência jugular e abafamento de bulhas no tamponamento cardíaco.",
+   "Errada: não existe tríade de Sabin descrita como sinal clínico.",
+   "Errada: a tríade de Charcot é febre, icterícia e dor abdominal na colangite."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A cirurgia denominada “queiloplastia” se refere a:",
+  "alts": [
+   "Correção cirúrgica de rugas da face",
+   "Plástica da articulação para restaurar movimento ou função",
+   "Reparo de defeito nos lábios",
+   "Correção cirúrgica de glaucoma",
+   "Plástica para restaurar umbigo"
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "Queilo- é o prefixo de lábio, e -plastia é reparo ou reconstrução: queiloplastia é a correção cirúrgica de defeitos labiais, como a fissura labial, geralmente feita nos primeiros meses de vida. Os outros termos são ritidoplastia (rugas da face), artroplastia (articulação), cirurgias como trabeculectomia e goniotomia (glaucoma) e onfaloplastia (umbigo).",
+  "porAlt": [
+   "Errada: correção de rugas da face é a ritidoplastia.",
+   "Errada: plástica de articulação é a artroplastia.",
+   "Correta: queiloplastia é o reparo de defeitos nos lábios (queilo = lábio).",
+   "Errada: o glaucoma é tratado por trabeculectomia ou goniotomia, por exemplo.",
+   "Errada: plástica do umbigo é a onfaloplastia."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta com qual propósito a operação com o epônimo Manchester é realizada.",
+  "alts": [
+   "Correção de prolapso uterino e cistocele",
+   "Anastomose do estômago com o duodeno por uma incisão",
+   "Colocação da uretra em posição mais adequada à micção por meio de cirurgia plástica",
+   "Correção de estenose pilórica",
+   "Fixação da uretra e da bexiga em sua loja natural"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "A operação de Manchester, ou Manchester-Fothergill, é feita por via vaginal para corrigir o prolapso uterino com preservação do útero: amputa-se o colo, encurtam-se os ligamentos cardinais e faz-se colporrafia anterior, que corrige a cistocele associada. É opção para mulheres que desejam conservar o útero ou têm risco para histerectomia. As outras alternativas descrevem gastroduodenostomia, uretroplastia, piloromiotomia e procedimentos de suspensão uretrovesical.",
+  "porAlt": [
+   "Correta: a operação de Manchester corrige o prolapso uterino e a cistocele por via vaginal.",
+   "Errada: anastomose do estômago com o duodeno é a gastroduodenostomia.",
+   "Errada: reposicionar a uretra por cirurgia plástica é uma uretroplastia.",
+   "Errada: a estenose pilórica é tratada pela piloromiotomia de Fredet-Ramstedt.",
+   "Errada: fixar uretra e bexiga descreve suspensões uretrovesicais, como a de Burch."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O posicionamento cirúrgico requer conhecimento técnico científico e prática de seus executantes. Em relação à posição cirúrgica, a recomendação da Association of periOperative Registered Nuerses (AORN), exceto:",
+  "alts": [
+   "a assistência de enfermagem perioperatória, quanto ao posicionamento cirúrgico, deve ser iniciada antes da transferência do paciente da maca para a mesa de cirurgia",
+   "o posicionamento cirúrgico requer segurança, limpeza e organização da equipe no momento da realização do procedimento",
+   "durante o posicionamento, o enfermeiro deve monitorar o paciente e manter a integridade dos tecidos",
+   "depois de posicionar o paciente, o enfermeiro deve alinhar o corpo do paciente, não é necessário avaliar novamente a integridade dos tecidos",
+   "o posicionamento deve ser feito de maneira segura, levando em consideração a anatomia e a fisiologia do paciente, a técnica das intervenções realizadas, a manutenção do posicionamento sem sequelas e o registro de todos os procedimentos e proteções utilizadas, como documento para o paciente e para a equipe presente"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Anestesia e posicionamento",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "AORN, Guideline for Positioning the Patient, Guidelines for Perioperative Practice, 2024",
+  "coment": "A AORN orienta que a avaliação de risco e o planejamento do posicionamento comecem antes da transferência para a mesa, que a equipe trabalhe de forma segura e organizada, que a integridade dos tecidos seja monitorizada durante todo o procedimento e que tudo seja registrado. Depois de posicionar e alinhar o paciente, a pele e os pontos de pressão devem ser reavaliados, e de novo a cada mudança de posição e ao final. Por isso a D, que dispensa nova avaliação, é a exceção. O nome da associação aparece com erro de digitação no original.",
+  "porAlt": [
+   "Errada como resposta: a assistência ao posicionamento começa antes da transferência da maca para a mesa.",
+   "Errada como resposta: segurança, limpeza e organização da equipe são exigências do posicionamento.",
+   "Errada como resposta: monitorar o paciente e manter a integridade dos tecidos é dever do enfermeiro.",
+   "Correta: após posicionar e alinhar, é preciso reavaliar a integridade dos tecidos e os pontos de pressão.",
+   "Errada como resposta: reúne os princípios de segurança, fisiologia e registro do posicionamento."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O decúbito dorsal é a posição mais comum, variações pequenas nessa posição permitem abordar as grandes cavidades do corpo. Muitas vezes, um ou ambos os braços repousam nas talas de suporte da mesa cirúrgica, e a abdução, a extensão e a rotação externa podem causar alguns danos. Assinale a alternativa que apresenta a recomendação do ângulo entre o braço e a lateral do corpo.",
+  "alts": [
+   "Estiramento das veias basílicas e não ultrapassar 90 graus",
+   "Estiramento das artérias braquiais e não ultrapassar o ângulo de 45 graus",
+   "Estiramento do plexo braquial e não ultrapassar o ângulo de 90 graus",
+   "Encurtamento do plexo braquial e não ultrapassar 45 graus",
+   "Estiramento do músculo tríceps e não ultrapassar 70 graus"
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Anestesia e posicionamento",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "AORN, Guideline for Positioning the Patient, Guidelines for Perioperative Practice, 2024",
+  "coment": "No decúbito dorsal com o braço na braçadeira, a abdução acima de 90 graus em relação ao tronco estira o plexo braquial entre a clavícula e a primeira costela e sob a cabeça do úmero, causando lesão neurológica com dor, parestesia ou paralisia do membro. A regra é não ultrapassar 90 graus, com a palma voltada para cima e a braçadeira na altura da mesa. Também se protege o cotovelo para evitar compressão do nervo ulnar no sulco.",
+  "porAlt": [
+   "Errada: o risco da abdução exagerada é neurológico, no plexo braquial, não o estiramento de veias.",
+   "Errada: a estrutura lesada é o plexo braquial, e o limite é 90 graus, não 45.",
+   "Correta: a abdução acima de 90 graus estira o plexo braquial; o ângulo não deve ultrapassar 90 graus.",
+   "Errada: o mecanismo é o estiramento do plexo, e não seu encurtamento, e o limite é 90 graus.",
+   "Errada: o risco não é muscular, e o limite recomendado é 90 graus."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Ao final do procedimento anestésico-cirúrgico, ao retirar o paciente da posição cirúrgica, algumas medidas devem ser cuidadosamente respeitadas. Manipular lentamente o paciente anestesiado, mas com movimentos firmes e seguros, pois a mudança repentina de posição pode provocar alterações muito rápidas nos sistemas ______. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "Renal e Neurológico",
+   "Renal e Cardiovascular",
+   "Cardiovascular e Respiratório",
+   "Respiratório e Renal",
+   "Neurológico e Respiratório"
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Anestesia e posicionamento",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "AORN, Guideline for Positioning the Patient, Guidelines for Perioperative Practice, 2024",
+  "coment": "O paciente anestesiado tem os reflexos de compensação deprimidos pela vasodilatação e pelo bloqueio simpático. Mudanças bruscas de posição, como baixar as pernas da litotomia ou sair do Trendelenburg, redistribuem o volume sanguíneo e podem causar hipotensão grave e arritmias, além de alterar a relação ventilação-perfusão e a mecânica respiratória. Por isso se reposiciona devagar, com movimentos firmes, em equipe, sob monitorização. Os sistemas afetados de imediato são o cardiovascular e o respiratório.",
+  "porAlt": [
+   "Errada: o rim não sofre alteração imediata com a mudança de posição, e falta o sistema respiratório.",
+   "Errada: falta o sistema respiratório, e o rim não responde de imediato à mudança de posição.",
+   "Correta: a mudança brusca de posição altera rapidamente os sistemas cardiovascular e respiratório.",
+   "Errada: falta o sistema cardiovascular, o mais afetado pela redistribuição do volume.",
+   "Errada: falta o sistema cardiovascular, que responde primeiro à redistribuição do sangue."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os riscos relacionados à anestesia estão diretamente relacionados às condições físicas do paciente à cirurgia. De acordo com a classificação da American Society of Anesthesiologists (ASA), assinale a alternativa que apresenta o significado da classificação “Classe E”.",
+  "alts": [
+   "Morte encefálica declarada; manutenção como potencial doador de órgãos e tecidos para transplantes",
+   "Pouca probabilidade de sobrevida nas 24 horas seguintes, submetendo-se ou não à cirurgia; esperança de sobrevida é uma cirurgia agressiva ou uma intervenção específica",
+   "Sem limitação funcional; afecção leve, que pode ser tratada por cirurgia ou presença de patologias associadas; extremos de idade, mesmo sem doença clínica",
+   "Sem perturbações orgânicas, fisiológicas ou psiquiátricas; patologia cirúrgica localizada, que não produz alteração sistêmica",
+   "Qualquer uma das classes quando há necessidade de realização de uma cirurgia de emergência"
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Anestesia e posicionamento",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "ASA Physical Status Classification System, 2020",
+  "coment": "A classificação do estado físico da ASA vai de I (saudável) a VI (morte encefálica, doador de órgãos). O sufixo E não é uma classe à parte: é acrescentado a qualquer classe quando a cirurgia é de emergência, situação em que o atraso aumenta o risco de vida ou de lesão de órgão (por exemplo, ASA II E). As alternativas trocam o E pela descrição de outras classes: VI (morte encefálica), V (moribundo, sem expectativa de sobreviver sem a operação), II (doença sistêmica leve) e I (paciente saudável).",
+  "porAlt": [
+   "Errada: morte encefálica com manutenção como doador é a classe ASA VI.",
+   "Errada: paciente moribundo, que não sobrevive sem a operação, é a classe ASA V.",
+   "Errada: doença sistêmica leve, sem limitação funcional, corresponde à classe ASA II.",
+   "Errada: paciente saudável, sem alteração sistêmica, corresponde à classe ASA I.",
+   "Correta: o E é acrescentado a qualquer classe quando a cirurgia é de emergência."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sistematizar as condições fisiológicas para a previsibilidade da alta da sala de recuperação anestésica. Avalia atividade motora, respiratória, circulatória, estado de consciência e saturação de oxigênio. O nome designado a esta avaliação é:",
+  "alts": [
+   "Índice de Aldrete e Kroulik",
+   "Índice de Katz",
+   "Índice de Akaike",
+   "Escala de Bristol",
+   "Escala de Barthel"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Recuperação pós-anestésica",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Aldrete JA, The post-anesthesia recovery score revisited, 1995; Resolução CFM 2.174/2017",
+  "coment": "O índice de Aldrete e Kroulik (1970), modificado em 1995 com a troca da cor da pele pela saturação de O₂, avalia atividade motora, respiração, circulação, consciência e saturação, de 0 a 2 cada, e documenta a recuperação na SRPA. Katz e Barthel medem independência nas atividades da vida diária; Bristol classifica a forma das fezes; e Akaike é um critério estatístico de comparação de modelos, sem uso clínico. A alta da SRPA continua sendo decisão do médico (Res. CFM 2.174/2017).",
+  "porAlt": [
+   "Correta: o Aldrete e Kroulik avalia atividade, respiração, circulação, consciência e saturação na SRPA.",
+   "Errada: o índice de Katz mede independência nas atividades básicas da vida diária.",
+   "Errada: o critério de Akaike é estatístico, para comparar modelos, sem uso clínico.",
+   "Errada: a escala de Bristol classifica a forma das fezes.",
+   "Errada: a escala de Barthel mede a funcionalidade nas atividades da vida diária."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+   "n": 57,
+   "parte": "especificas"
+  }
+ }
+]

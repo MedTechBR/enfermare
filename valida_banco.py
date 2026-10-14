@@ -116,8 +116,11 @@ def main():
         # real, e o normtxt (só alfanumérico) as fundia numa só
         norms = [re.sub(r"\s+", " ", str(a).strip().lower()) for a in alts]
         if len(set(norms)) != len(norms): duros.append(f"{rot}: alternativas duplicadas")
-        for j, a in enumerate(alts):
-            if PREFIXO.match(a): duros.append(f"{rot} alt {j}: prefixo de letra dentro do texto")
+        # prefixo de letra que sobrou da extração = a letra da PRÓPRIA posição ("B) ..." na 2ª alternativa).
+        # Alternativas de associação ("a- IV, b- II, ...") começam todas por "a" e não são sobra.
+        sobra = [j for j, a in enumerate(alts) if PREFIXO.match(a) and a.lstrip(" (")[:1].lower() == "abcde"[j]]
+        if len(sobra) >= 2:
+            for j in sobra: duros.append(f"{rot} alt {j}: prefixo de letra dentro do texto")
         Lc = len(alts[gab])
         outras = [len(a) for j, a in enumerate(alts) if j != gab]
 

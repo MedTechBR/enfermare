@@ -1,0 +1,2870 @@
+[
+ {
+  "q": "De acordo com o previsto na Resolução 453/2012, do Conselho Nacional da Saúde, assinale a alternativa incorreta.",
+  "alts": [
+   "A instituição dos Conselhos de Saúde é estabelecida por lei federal, estadual, do Distrito Federal e municipal, obedecida a Lei nº 8.142/90",
+   "A participação dos membros eleitos do Poder Legislativo, representação do Poder Judiciário e do Ministério Público, como conselheiros, não é permitida nos Conselhos de Saúde",
+   "Na instituição e reformulação dos Conselhos de Saúde o Poder Legislativo, respeitando os princípios da democracia, deverá acolher as demandas da população aprovadas nas Conferências de Saúde, e em consonância com a legislação",
+   "As três esferas de Governo garantirão autonomia administrativa para o pleno funcionamento do Conselho de Saúde, dotação orçamentária, autonomia financeira e organização da secretaria-executiva com a necessária infraestrutura e apoio técnico",
+   "Como Subsistema da Seguridade Social, o Conselho de Saúde atua na formulação e proposição de estratégias e no controle da execução das Políticas de Saúde, inclusive nos seus aspectos econômicos e financeiros"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução CNS 453/2012, Primeira a Quarta Diretrizes",
+  "coment": "A questão pede a incorreta. A Primeira Diretriz da Resolução CNS 453/2012 diz que, na instituição e reformulação dos Conselhos de Saúde, é o Poder Executivo, respeitando os princípios da democracia, quem deve acolher as demandas da população aprovadas nas Conferências de Saúde. A alternativa C troca Executivo por Legislativo. As demais reproduzem a resolução: criação por lei de cada ente obedecida a Lei 8.142/1990 (Primeira Diretriz), vedação de membros do Legislativo, Judiciário e Ministério Público como conselheiros (Terceira Diretriz), autonomia administrativa e financeira com secretaria executiva (Quarta Diretriz) e o conselho como subsistema da Seguridade Social (Segunda Diretriz).",
+  "porAlt": [
+   "Errada: está correta; a Primeira Diretriz prevê a criação do conselho por lei federal, estadual, distrital e municipal, obedecida a Lei 8.142/1990.",
+   "Errada: está correta; a Terceira Diretriz não permite que membros eleitos do Legislativo, do Judiciário e do Ministério Público sejam conselheiros.",
+   "Correta: é a incorreta, porque quem acolhe as demandas aprovadas nas Conferências, na instituição e reformulação dos conselhos, é o Poder Executivo, não o Legislativo.",
+   "Errada: está correta; a Quarta Diretriz garante autonomia administrativa, dotação orçamentária, autonomia financeira e secretaria executiva com infraestrutura.",
+   "Errada: está correta; a Segunda Diretriz define o conselho como subsistema da Seguridade Social que formula estratégias e controla a execução das políticas, inclusive nos aspectos econômicos e financeiros."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 21,
+   "parte": "politicas",
+   "tb": [
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Dermatológica",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Doenças Infecciosas e Parasitárias",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão da Qualidade em Saúde",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão de Saúde",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Mental",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Neonatal",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+     "n": 21
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+     "n": 21
+    }
+   ]
+  }
+ },
+ {
+  "q": "Com base na Constituição Federal de 1988, analise as afirmativas abaixo e assinale Verdadeiro (V) ou Falso (F): Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base nos seguintes objetivos:\n( ) uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais.\n( ) irredutibilidade do valor dos benefícios.\n( ) seletividade da cobertura e do atendimento.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V",
+   "V - V - F",
+   "V - F - V",
+   "F - F - V",
+   "F - F - F"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, art. 194, parágrafo único",
+  "coment": "O parágrafo único do art. 194 da Constituição lista os objetivos da seguridade social: universalidade da cobertura e do atendimento; uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais; seletividade e distributividade na prestação dos benefícios e serviços; irredutibilidade do valor dos benefícios; equidade no custeio; diversidade da base de financiamento; e gestão democrática e quadripartite. Os dois primeiros itens copiam o texto. O terceiro mistura incisos: a cobertura e o atendimento são universais, e a seletividade se refere à prestação dos benefícios e serviços. Sequência V, V, F.",
+  "porAlt": [
+   "Errada: o terceiro item é falso, porque a cobertura e o atendimento são universais, não seletivos.",
+   "Correta: uniformidade e equivalência urbano e rural e irredutibilidade dos benefícios estão no art. 194; seletividade da cobertura não está.",
+   "Errada: a irredutibilidade do valor dos benefícios é objetivo expresso do art. 194, parágrafo único, IV.",
+   "Errada: os dois primeiros itens reproduzem o texto constitucional e são verdadeiros.",
+   "Errada: dois dos três itens são cópia literal dos incisos II e IV do art. 194."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 22,
+   "parte": "politicas",
+   "tb": [
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Dermatológica",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Doenças Infecciosas e Parasitárias",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão da Qualidade em Saúde",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão de Saúde",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Mental",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Neonatal",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+     "n": 22
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+     "n": 22
+    }
+   ]
+  }
+ },
+ {
+  "q": "De acordo com a Constituição Federal de 1988, analise o texto abaixo.\n“São de relevância pública as ______ e serviços de saúde, cabendo ao Poder Público dispor, nos termos da lei, sobre sua regulamentação, fiscalização e ______, devendo sua execução ser feita diretamente ou através de terceiros e, também, por pessoa física ou jurídica de direito ______”.\nAssinale a alternativa que preencha correta e respectivamente as seguintes lacunas.",
+  "alts": [
+   "medidas / sanção / público",
+   "ações / controle / público",
+   "medidas / sanção / privado",
+   "medidas / controle / público",
+   "ações / controle / privado"
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, art. 197",
+  "coment": "O art. 197 da Constituição diz que são de relevância pública as ações e serviços de saúde, cabendo ao Poder Público dispor, nos termos da lei, sobre sua regulamentação, fiscalização e controle, e que a execução pode ser feita diretamente ou por terceiros e também por pessoa física ou jurídica de direito privado. As três palavras são ações, controle e privado. A participação privada é reforçada no art. 199, que permite às instituições privadas participar do SUS de forma complementar, com preferência às filantrópicas e sem fins lucrativos.",
+  "porAlt": [
+   "Errada: o texto fala em ações (não medidas), controle (não sanção) e direito privado.",
+   "Errada: as duas primeiras lacunas estão certas, mas a execução pode ser feita por pessoa de direito privado, não público.",
+   "Errada: acerta só a terceira lacuna; o art. 197 diz ações e controle.",
+   "Errada: o texto constitucional usa ações, e a terceira lacuna é direito privado.",
+   "Correta: o art. 197 fala em ações e serviços de saúde, regulamentação, fiscalização e controle, e execução também por pessoa de direito privado."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 23,
+   "parte": "politicas",
+   "tb": [
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Dermatológica",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Doenças Infecciosas e Parasitárias",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão da Qualidade em Saúde",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão de Saúde",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Mental",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Neonatal",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+     "n": 23
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+     "n": 23
+    }
+   ]
+  }
+ },
+ {
+  "q": "Ante o que dispõe a Lei Orgânica da Saúde (Lei Federal nº 8.080/90) e suas alterações, analise as afirmativas abaixo.\nI. A saúde é um direito fundamental do ser humano, devendo o Estado prover as condições indispensáveis ao seu pleno exercício.\nII. O dever do Estado de garantir a saúde consiste na formulação e execução de políticas econômicas e sociais que visem à eliminação de riscos de doenças e de outros agravos e no estabelecimento de condições que assegurem acesso regional e igualitário às ações e aos serviços para a sua promoção, proteção e recuperação.\nIII. O dever do Estado exclui o das pessoas, da família, das empresas e da sociedade.\nAssinale a alternativa correta.",
+  "alts": [
+   "Apenas a afirmativa I é verdadeira",
+   "Apenas as afirmativas I e II são verdadeiras",
+   "As afirmativas I, II e III são falsas",
+   "Apenas as afirmativas II e III são verdadeiras",
+   "Apenas as afirmativas I e III são verdadeiras"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 2º, caput e §§ 1º e 2º",
+  "coment": "O art. 2º da Lei 8.080/1990 traz o item I literalmente: a saúde é direito fundamental do ser humano e o Estado deve prover as condições indispensáveis ao seu pleno exercício. O § 1º fala em políticas que visem à redução de riscos de doenças e outros agravos e em acesso universal e igualitário, e o item II troca para eliminação de riscos e acesso regional. O § 2º afirma que o dever do Estado não exclui o das pessoas, da família, das empresas e da sociedade, o oposto do item III. Só o I é verdadeiro.",
+  "porAlt": [
+   "Correta: só o item I reproduz o art. 2º; o II altera redução para eliminação e universal para regional, e o III nega o § 2º.",
+   "Errada: o item II é falso, porque a lei fala em redução de riscos e em acesso universal e igualitário.",
+   "Errada: o item I é cópia do caput do art. 2º e é verdadeiro.",
+   "Errada: os itens II e III alteram o texto da lei e são falsos.",
+   "Errada: o item III contraria o § 2º, segundo o qual o dever do Estado não exclui o das pessoas, da família, das empresas e da sociedade."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 24,
+   "parte": "politicas",
+   "tb": [
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Dermatológica",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Doenças Infecciosas e Parasitárias",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão da Qualidade em Saúde",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão de Saúde",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Mental",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Neonatal",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+     "n": 24
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+     "n": 24
+    }
+   ]
+  }
+ },
+ {
+  "q": "De acordo com a Lei Federal nº 8.142/1990 e suas alterações, assinale a alternativa incorreta.",
+  "alts": [
+   "O Conselho Nacional de Secretários de Saúde (Conass) e o Conselho Nacional de Secretários Municipais de Saúde (Conasems) terão representação no Conselho Nacional de Saúde",
+   "A representação dos usuários nos Conselhos de Saúde e Conferências será paritária em relação ao conjunto dos demais segmentos",
+   "As Conferências de Saúde e os Conselhos de Saúde terão sua organização e normas de funcionamento definidas em regimento próprio, aprovadas pelo respectivo conselho",
+   "O Conselho de Saúde, em caráter transitório e consultivo, órgão colegiado composto por representantes do governo, prestadores de serviço, profissionais de saúde e usuários, atua na formulação de estratégias e no controle da execução da política de saúde na instância correspondente, inclusive nos aspectos econômicos e financeiros, cujas decisões serão homologadas pelo chefe do poder legalmente constituído em cada esfera do governo",
+   "A Conferência de Saúde reunir-se-á a cada quatro anos com a representação dos vários segmentos sociais, para avaliar a situação de saúde e propor as diretrizes para a formulação da política de saúde nos níveis correspondentes, convocada pelo Poder Executivo ou, extraordinariamente, por esta ou pelo Conselho de Saúde"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 1º, §§ 1º a 5º",
+  "coment": "A questão pede a incorreta. O art. 1º, § 2º, da Lei 8.142/1990 define o Conselho de Saúde como órgão colegiado em caráter permanente e deliberativo, composto por governo, prestadores, profissionais e usuários, que formula estratégias e controla a execução da política, com decisões homologadas pelo chefe do poder em cada esfera. A alternativa D o descreve como transitório e consultivo. As demais estão na lei: Conferência a cada quatro anos, convocada pelo Executivo ou, extraordinariamente, por ela ou pelo Conselho (§ 1º); representação de CONASS e CONASEMS no Conselho Nacional (§ 3º); paridade dos usuários (§ 4º); regimento próprio aprovado pelo conselho (§ 5º).",
+  "porAlt": [
+   "Errada: está correta; o § 3º garante representação do CONASS e do CONASEMS no Conselho Nacional de Saúde.",
+   "Errada: está correta; o § 4º determina que a representação dos usuários seja paritária em relação ao conjunto dos demais segmentos.",
+   "Errada: está correta; o § 5º prevê regimento próprio aprovado pelo respectivo conselho.",
+   "Correta: é a incorreta, porque o Conselho de Saúde tem caráter permanente e deliberativo, não transitório e consultivo (§ 2º).",
+   "Errada: está correta; o § 1º fixa a Conferência a cada quatro anos, convocada pelo Executivo ou, extraordinariamente, por ela ou pelo Conselho."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 25,
+   "parte": "politicas",
+   "tb": [
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Dermatológica",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Doenças Infecciosas e Parasitárias",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão da Qualidade em Saúde",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão de Saúde",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Mental",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Neonatal",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+     "n": 25
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+     "n": 25
+    }
+   ]
+  }
+ },
+ {
+  "q": "Conforme a Resolução - RDC nº 63/2011, que dispõe sobre os requisitos de boas práticas de funcionamento para os serviços de saúde, assinale a alternativa correta.",
+  "alts": [
+   "O instrumento normativo em questão possui o objetivo de estabelecer requisitos de boas práticas para funcionamento de serviços de saúde, fundamentados na quantificação, na humanização da atenção e gestão, e na eliminação de riscos aos usuários e meio ambiente",
+   "O instrumento normativo em análise se aplica a todos os serviços de saúde no país, exceto aos militares",
+   "O serviço de saúde deve desenvolver ações no sentido de estabelecer uma política de qualidade envolvendo estrutura, processo e resultado na sua gestão dos serviços",
+   "As Boas Práticas de Funcionamento (BPF) são os componentes da Garantia da Quantidade que asseguram que os serviços são ofertados de maneira suficiente",
+   "O serviço de saúde deve utilizar a Garantia da Quantidade como ferramenta de gerenciamento"
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 63/2011, arts. 1º, 2º, 4º e 5º",
+  "coment": "A RDC 63/2011 estabelece as Boas Práticas de Funcionamento dos serviços de saúde. O art. 5º diz que o serviço deve desenvolver ações para estabelecer uma política de qualidade envolvendo estrutura, processo e resultado na gestão, que é a alternativa C (a tríade de Donabedian). Os distratores trocam palavras-chave: o objetivo (art. 1º) se fundamenta na qualificação e na redução e controle de riscos, não em quantificação e eliminação; a norma vale para todos os serviços, públicos, privados, filantrópicos, civis ou militares (art. 2º); e as BPF são componentes da Garantia da Qualidade, que é a ferramenta de gerenciamento, não Garantia da Quantidade.",
+  "porAlt": [
+   "Errada: o art. 1º fala em qualificação e em redução e controle de riscos, não em quantificação e eliminação de riscos.",
+   "Errada: o art. 2º inclui os serviços militares, junto com públicos, privados, filantrópicos e civis.",
+   "Correta: o art. 5º manda estabelecer política de qualidade envolvendo estrutura, processo e resultado.",
+   "Errada: as BPF são componentes da Garantia da Qualidade e asseguram padrões de qualidade adequados, não oferta suficiente.",
+   "Errada: a ferramenta de gerenciamento prevista é a Garantia da Qualidade; Garantia da Quantidade não existe na norma."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 26,
+   "parte": "politicas",
+   "tb": [
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Dermatológica",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Doenças Infecciosas e Parasitárias",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão da Qualidade em Saúde",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão de Saúde",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Mental",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Neonatal",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+     "n": 26
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+     "n": 26
+    }
+   ]
+  }
+ },
+ {
+  "q": "De acordo com a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde (Resolução CNS nº 553/2017), a promoção e a proteção da saúde devem estar relacionadas com as condições sociais, culturais e econômicas das pessoas, incluídos aspectos como:",
+  "alts": [
+   "segurança alimentar e nutricional, e saneamento básico e ambiental",
+   "iniciativas de combate às endemias e doenças intransmissíveis, e combate a todas as formas de violência e discriminação",
+   "educação baseada nos princípios do Direito Médico",
+   "tratamento às doenças controladas conforme cada região do País",
+   "acesso aos meios de trabalho, energia elétrica, transporte público e assistência social"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução CNS 553/2017, Anexo, Primeira Diretriz, inciso II",
+  "coment": "Na Carta dos Direitos e Deveres da Pessoa Usuária da Saúde, a Primeira Diretriz, inciso II, liga a promoção e a proteção da saúde às condições sociais, culturais e econômicas e lista: segurança alimentar e nutricional; saneamento básico e ambiental; tratamento às doenças negligenciadas conforme cada região; combate às endemias e doenças transmissíveis; combate a todas as formas de violência e discriminação; educação baseada nos Direitos Humanos; trabalho digno; e acesso à moradia, transporte, lazer, segurança pública e previdência social. A alternativa A junta as alíneas a e b sem alteração. As demais trocam uma palavra-chave de cada alínea.",
+  "porAlt": [
+   "Correta: segurança alimentar e nutricional e saneamento básico e ambiental são as alíneas a e b do inciso II da Primeira Diretriz.",
+   "Errada: a Carta fala em doenças transmissíveis, não intransmissíveis.",
+   "Errada: a educação citada é a baseada nos princípios dos Direitos Humanos, não do Direito Médico.",
+   "Errada: o texto trata das doenças negligenciadas conforme cada região, não das doenças controladas.",
+   "Errada: a Carta fala em trabalho digno e em moradia, transporte, lazer, segurança pública e previdência social, não em energia elétrica e assistência social."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 27,
+   "parte": "politicas",
+   "tb": [
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Dermatológica",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Doenças Infecciosas e Parasitárias",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão da Qualidade em Saúde",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão de Saúde",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Mental",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Neonatal",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+     "n": 27
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+     "n": 27
+    }
+   ]
+  }
+ },
+ {
+  "q": "Para efeito do Decreto nº 7.508/2011, o qual regulamentou a Lei nº 8.080/90, considera-se:\nI. ______ - acordo de colaboração firmado entre entes federativos com a finalidade de organizar e integrar as ações e serviços de saúde na rede regionalizada e hierarquizada, com definição de responsabilidades, indicadores e metas de saúde, critérios de avaliação de desempenho, recursos financeiros que serão disponibilizados, forma de controle e fiscalização de sua execução e demais elementos necessários à implementação integrada das ações e serviços de saúde.\nII. ______ - instâncias de pactuação consensual entre os entes federativos para definição das regras da gestão compartilhada do SUS.\nIII. ______ - documento que estabelece: critérios para o diagnóstico da doença ou do agravo à saúde; o tratamento preconizado, com os medicamentos e demais produtos apropriados, quando couber; as posologias recomendadas; os mecanismos de controle clínico; e o acompanhamento e a verificação dos resultados terapêuticos, a serem seguidos pelos gestores do SUS.\nAssinale a alternativa que preencha correta e respectivamente as lacunas.",
+  "alts": [
+   "Rede de Atenção à Saúde / Portas de Entrada / Região de Saúde",
+   "Comissões Intergestores / Região de Saúde / Portas de Entrada",
+   "Região de Saúde / Serviços Especiais de Acesso Aberto/ Contrato Organizativo da Ação Pública da Saúde",
+   "Portas de Entrada / Rede de Atenção à Saúde / Região de Saúde",
+   "Contrato Organizativo da Ação Pública da Saúde / Comissões Intergestores / Protocolo Clínico e Diretriz Terapêutica"
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, art. 2º, incisos II, IV e VIII",
+  "coment": "O art. 2º do Decreto 7.508/2011 traz as definições. O Contrato Organizativo da Ação Pública da Saúde (COAP) é o acordo de colaboração entre entes federativos para organizar a rede regionalizada e hierarquizada, com responsabilidades, indicadores, metas, recursos e forma de controle (inciso II). As Comissões Intergestores são instâncias de pactuação consensual para definir as regras da gestão compartilhada (inciso IV). O Protocolo Clínico e Diretriz Terapêutica fixa critérios de diagnóstico, tratamento, posologia, controle clínico e acompanhamento (inciso VIII). Região de Saúde, Portas de Entrada e Rede de Atenção à Saúde têm definições próprias e não cabem nas lacunas.",
+  "porAlt": [
+   "Errada: a Rede de Atenção à Saúde é o conjunto de ações e serviços articulados, e Portas de Entrada são os serviços de atendimento inicial; nenhum é acordo ou instância de pactuação.",
+   "Errada: Região de Saúde é espaço geográfico de municípios limítrofes, e Portas de Entrada não estabelecem tratamento preconizado.",
+   "Errada: Região de Saúde não é acordo de colaboração, e o COAP não é documento de diagnóstico e tratamento.",
+   "Errada: nenhuma das três definições corresponde a Portas de Entrada, RAS ou Região de Saúde.",
+   "Correta: COAP, Comissões Intergestores e Protocolo Clínico e Diretriz Terapêutica são os incisos II, IV e VIII do art. 2º."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 28,
+   "parte": "politicas",
+   "tb": [
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Dermatológica",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Doenças Infecciosas e Parasitárias",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão da Qualidade em Saúde",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão de Saúde",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Mental",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Neonatal",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+     "n": 28
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+     "n": 28
+    }
+   ]
+  }
+ },
+ {
+  "q": "De acordo com a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde (Resolução CNS nº 553/2017), analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F). É direito da pessoa ter atendimento adequado, inclusivo e acessível, com qualidade, no tempo certo e com garantia de continuidade do tratamento, e para isso deve ser assegurado:\n( ) atendimento ágil, com estratégias para evitar o agravamento, com tecnologia apropriada, por equipe multiprofissional capacitada e com condições adequadas de atendimento.\n( ) disponibilidade efêmera e acesso a bens e serviços de imunização conforme calendário e especificidades municipais.\n( ) espaços de diálogo entre usuários e profissionais da saúde, gestores e o Ministério Público sobre diferentes formas de tratamentos possíveis.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V",
+   "V - V - F",
+   "F - F - V",
+   "V - F - F",
+   "F - F - F"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução CNS 553/2017, Anexo, Segunda Diretriz, parágrafo único",
+  "coment": "A Segunda Diretriz da Carta, no parágrafo único, assegura atendimento ágil, com estratégias para evitar o agravamento, tecnologia apropriada, equipe multiprofissional capacitada e condições adequadas, como no primeiro item. O segundo inciso fala em disponibilidade contínua de bens e serviços de imunização conforme calendário e especificidades regionais; o item troca para efêmera e municipais. O terceiro prevê espaços de diálogo entre usuários, profissionais, gestores e a defensoria pública sobre as formas de tratamento; o item troca a defensoria pelo Ministério Público. Sequência V, F, F.",
+  "porAlt": [
+   "Errada: o segundo e o terceiro itens alteram o texto da Carta e são falsos.",
+   "Errada: a disponibilidade de imunização é contínua e conforme especificidades regionais, não efêmera e municipais.",
+   "Errada: o primeiro item reproduz a Carta e é verdadeiro, e o terceiro é falso.",
+   "Correta: só o atendimento ágil está como na Carta; a imunização é contínua e regional, e o diálogo inclui a defensoria pública, não o Ministério Público.",
+   "Errada: o primeiro item é cópia literal do inciso I do parágrafo único da Segunda Diretriz."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 29,
+   "parte": "politicas",
+   "tb": [
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Dermatológica",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Doenças Infecciosas e Parasitárias",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão da Qualidade em Saúde",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão de Saúde",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Mental",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Neonatal",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+     "n": 29
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+     "n": 29
+    }
+   ]
+  }
+ },
+ {
+  "q": "Quanto aos princípios e diretrizes que o Núcleo de Segurança do Paciente (NSP) deve adotar de acordo com a Resolução – RDC nº 36/2013, que institui ações para a segurança do paciente em serviços de saúde e dá outras providências, assinale a alternativa incorreta.",
+  "alts": [
+   "A melhoria contínua dos processos de cuidado e do uso de tecnologias da saúde",
+   "A contribuição à ocorrência do evento adverso",
+   "A disseminação sistemática da cultura de segurança",
+   "A articulação e a integração dos processos de gestão de risco",
+   "A garantia das boas práticas de funcionamento do serviço de saúde"
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 5º",
+  "coment": "O art. 5º da RDC 36/2013 lista os princípios e diretrizes que o Núcleo de Segurança do Paciente deve adotar: melhoria contínua dos processos de cuidado e do uso de tecnologias; disseminação sistemática da cultura de segurança; articulação e integração dos processos de gestão de risco; e garantia das boas práticas de funcionamento do serviço. A alternativa B é a incorreta, porque o NSP existe para prevenir e reduzir eventos adversos, não para contribuir com sua ocorrência. A mesma RDC obriga a notificação dos eventos adversos ao Sistema Nacional de Vigilância Sanitária.",
+  "porAlt": [
+   "Errada: está correta; a melhoria contínua dos processos de cuidado e do uso de tecnologias é o inciso I do art. 5º.",
+   "Correta: é a incorreta, porque o NSP atua para prevenir e reduzir eventos adversos, e não para contribuir com sua ocorrência.",
+   "Errada: está correta; a disseminação sistemática da cultura de segurança é diretriz do NSP.",
+   "Errada: está correta; a articulação e a integração dos processos de gestão de risco constam do art. 5º.",
+   "Errada: está correta; a garantia das boas práticas de funcionamento do serviço é diretriz do NSP."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 30,
+   "parte": "politicas",
+   "tb": [
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Hemodinâmica",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Cardiologia - Perfusionista",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Centro Cirúrgico - Central de Material e Esterilização",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Dermatológica",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Doenças Infecciosas e Parasitárias",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Educação em Enfermagem - Pesquisa",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Administração Hospitalar",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão da Qualidade em Saúde",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão de Saúde",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Mental",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Neonatal",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+     "n": 30
+    },
+    {
+     "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+     "n": 30
+    }
+   ]
+  }
+ },
+ {
+  "q": "A respeito do tempo que deverá ser feita a retirada do tecido ocular para doação após a parada cardiorrespiratória, assinale a alternativa correta.",
+  "alts": [
+   "O mais rápido possível ou em até seis horas, com o doador em temperatura ambiente",
+   "Em até doze horas, com o doador em temperatura ambiente",
+   "Em até doze horas, com o doador em temperatura ambiente, ou em vinte horas sob refrigeração do doador",
+   "Em até doze horas sob refrigeração do doador",
+   "Em até vinte e quatro horas com o doador em temperatura ambiente"
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Lei 9.434/1997 e rotinas dos bancos de olhos do Sistema Nacional de Transplantes (prazo de captação ocular conforme o gabarito oficial EBSERH 2023)",
+  "coment": "Córnea é tecido que pode ser doado após parada cardiorrespiratória, inclusive por doador que não é de morte encefálica, mas o epitélio e o endotélio se degradam rápido depois da PCR. Por isso a captação do tecido ocular deve ser feita o mais rápido possível, em até seis horas com o corpo em temperatura ambiente; a refrigeração do corpo amplia esse prazo segundo os protocolos dos bancos de olhos. Cabe à enfermagem proteger os olhos do potencial doador logo após o óbito, com pálpebras fechadas e gaze umedecida em soro fisiológico, e acionar a CIHDOTT ou a OPO, porque a doação depende do consentimento da família (Lei 9.434/1997, art. 4º).",
+  "porAlt": [
+   "Correta: a retirada do tecido ocular deve ser feita o mais rápido possível, em até seis horas após a PCR com o doador em temperatura ambiente.",
+   "Errada: doze horas em temperatura ambiente excede o prazo de seis horas para a captação ocular.",
+   "Errada: em temperatura ambiente o limite é de seis horas, não de doze, e o prazo sob refrigeração citado não é o da rotina.",
+   "Errada: a alternativa ignora o prazo de seis horas em temperatura ambiente, que é a regra cobrada.",
+   "Errada: vinte e quatro horas com o corpo em temperatura ambiente inviabilizaria o tecido; o limite é de seis horas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o gerenciamento dos resíduos de serviços de saúde (RSS) do grupo A – subgrupo A1, assinale a alternativa incorreta.",
+  "alts": [
+   "Os RSS resultantes de atividades com vacinação com microrganismos vivos, atenuados ou inativados devem ser tratados antes da disposição final ambientalmente adequada",
+   "Os frascos de vacinas com expiração do prazo de validade com conteúdo inutilizado ou com restos do produto e seringas, quando desconectadas, não precisam ser tratados antes da disposição final ambiental",
+   "As bolsas de sangue e de hemocomponentes rejeitadas por contaminação, por má conservação, com prazo de validade vencido e oriundas de coleta incompleta devem ser tratados antes da disposição final ambientalmente adequada",
+   "As sobras de amostras de laboratório contendo sangue ou líquidos corpóreos podem ser descartadas diretamente no sistema de coleta de esgotos, desde que atendam respectivamente as regras estabelecidas pelos órgãos ambientais e pelos serviços de saneamento competentes",
+   "As agulhas e o conjunto seringa-agulha utilizadas na aplicação de vacinas, quando não desconectadas, devem atender às regras de manejo dos resíduos perfurocortantes"
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 222/2018 (gerenciamento dos resíduos de serviços de saúde, grupo A, subgrupo A1)",
+  "coment": "Pela RDC 222/2018, os resíduos de vacinação com microrganismos vivos, atenuados ou inativados pertencem ao subgrupo A1, incluindo frascos de vacina vencidos, com conteúdo inutilizado ou com restos do produto, e seringas quando desconectadas. Todos devem ser tratados antes da disposição final ambientalmente adequada. A alternativa B diz que frascos e seringas desconectadas dispensam tratamento, e por isso é a incorreta. Agulha e conjunto seringa-agulha não desconectados seguem o manejo de perfurocortante (grupo E). Bolsas de sangue rejeitadas também são A1 tratadas, e sobras de amostras com sangue podem ir ao esgoto se atenderem às regras ambientais e de saneamento.",
+  "porAlt": [
+   "Errada: está correta; resíduos de vacinação com microrganismos vivos, atenuados ou inativados são A1 e exigem tratamento prévio.",
+   "Correta: é a incorreta, porque frascos vencidos, com restos de vacina, e seringas desconectadas também precisam ser tratados antes da disposição final.",
+   "Errada: está correta; bolsas de sangue e hemocomponentes rejeitadas ou vencidas são A1 e passam por tratamento.",
+   "Errada: está correta; a RDC admite o descarte dessas sobras no esgoto se atenderem às regras dos órgãos ambientais e de saneamento.",
+   "Errada: está correta; agulha e conjunto seringa-agulha não desconectados seguem o manejo de perfurocortantes."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Idealmente cada vacina deve ser administrada em um grupo muscular diferente, caso necessário. Assinale a alternativa que apresenta se é possível a administração de mais de uma vacina em um mesmo grupo muscular.",
+  "alts": [
+   "Sim, respeitando a distância de 2,5 cm entre uma vacina e outra",
+   "Sim, respeitando a distância de 10 cm entre uma vacina e outra",
+   "Sim, respeitando intervalo de 30 minutos entre uma vacina e outra",
+   "Sim, respeitando o intervalo de 3 horas entre uma vacina e outra",
+   "Não é possível a administração no mesmo grupo muscular, independentemente do tempo e distância"
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Técnica de aplicação",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Manual de Normas e Procedimentos para Vacinação (Ministério da Saúde, 2014)",
+  "coment": "O ideal é aplicar cada vacina injetável em um grupo muscular diferente. Quando é preciso aplicar duas no mesmo músculo, como no vasto lateral da coxa do lactente, o Manual de Normas e Procedimentos para Vacinação manda respeitar a distância mínima de 2,5 cm entre os locais, para que as reações locais possam ser atribuídas a cada vacina e não se sobreponham. Não existe intervalo de tempo exigido entre vacinas aplicadas no mesmo dia: todas podem ser feitas na mesma visita. No adulto, evita-se aplicar duas vacinas intramusculares no mesmo deltoide.",
+  "porAlt": [
+   "Correta: é possível, respeitando a distância mínima de 2,5 cm entre um local de aplicação e outro.",
+   "Errada: a distância exigida é de 2,5 cm; 10 cm não cabe no vasto lateral de um lactente.",
+   "Errada: a regra é de distância entre os locais, não de intervalo de tempo entre as aplicações.",
+   "Errada: não há intervalo de horas entre vacinas aplicadas na mesma visita; o que se exige é distância entre os pontos.",
+   "Errada: o mesmo grupo muscular pode receber mais de uma vacina, desde que respeitada a distância mínima de 2,5 cm."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A distribuição percentual do total de profissionais de enfermagem para as 24 horas de cada unidade de internação deve observar o sistema de classificação e as proporções mínimas. Diante do exposto, assinale a alternativa incorreta.",
+  "alts": [
+   "Para cuidado mínimo e intermediário: 33% são enfermeiros (mínimo de seis) e os demais auxiliares e/ou técnicos de enfermagem",
+   "Para cuidado de alta dependência: 36% são enfermeiros e os demais técnicos e/ou auxiliares de enfermagem",
+   "Para cuidado semi-intensivo: 42% são enfermeiros e os demais técnicos e/ou auxiliares de enfermagem",
+   "Para cuidado semi-intensivo: 42% são enfermeiros e os demais técnicos de enfermagem",
+   "Para cuidado intensivo: 52% são enfermeiros e os demais técnicos de enfermagem"
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Parecer Normativo COFEN 01/2024, item 3.0 (a Res. COFEN 543/2017 foi revogada pela Res. COFEN 743/2024)",
+  "coment": "A questão pede a incorreta e foi escrita sobre a Res. 543/2017, revogada pela Res. 743/2024; os percentuais seguem no Parecer Normativo COFEN 01/2024: 33% de enfermeiros no cuidado mínimo e intermediário, 36% na alta dependência, 42% no semi-intensivo e 52% no intensivo. Nos dois primeiros, o restante são técnicos e/ou auxiliares; no semi-intensivo e no intensivo, só técnicos de enfermagem. A alternativa C admite auxiliares no semi-intensivo, e por isso é a incorreta. Atenção: o mínimo de seis enfermeiros da alternativa A era a redação da 543; o Parecer de 2024 diz mínimo que garanta um enfermeiro em cada turno.",
+  "porAlt": [
+   "Errada: reproduz a Res. 543/2017; os 33% continuam, mas o Parecer Normativo 01/2024 trocou o mínimo de seis pelo mínimo que garanta um enfermeiro por turno.",
+   "Errada: está correta; na alta dependência são 36% de enfermeiros e os demais técnicos e/ou auxiliares.",
+   "Correta: é a incorreta, porque no cuidado semi-intensivo os 58% restantes são só técnicos de enfermagem, sem auxiliares.",
+   "Errada: está correta; no semi-intensivo são 42% de enfermeiros e os demais técnicos de enfermagem.",
+   "Errada: está correta; no cuidado intensivo são 52% de enfermeiros e os demais técnicos de enfermagem."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A contenção física envolve técnicas desenvolvidas para restringir movimentos corporais e evitar comportamentos destrutivos. Analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Tem como objetivo controlar o comportamento do indivíduo para preservar sua própria segurança e integridade ou de terceiros.\n( ) Na operacionalização da contenção física, sugere-se um mínimo de cinco membros da equipe, sendo que um membro assume o papel de líder.\n( ) As contenções podem expor o cliente a complicações como redução da perfusão tecidual em extremidades, embolia pulmonar, aspiração, asfixia, lesão do plexo braquial, fraturas, entre outras.\n( ) Reconhecida como primeiro recurso para o controle do comportamento e redução do risco de violência e danos.\n( ) No Brasil, apenas as contenções químicas devem ser prescritas por médicos.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - F - V",
+   "F - F - F - V - F",
+   "V - V - F - F - F",
+   "V - V - V - F - F",
+   "V - F - V - V - F"
+  ],
+  "gab": 3,
+  "tema": "mental",
+  "sub": "Crise, suicídio e contenção",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Resolução COFEN 746/2024 e Resolução CFM 2.057/2013",
+  "coment": "A contenção serve para proteger o paciente e terceiros (item 1, verdadeiro) e é o último recurso, usado só quando for o único meio disponível para prevenir dano imediato ou iminente (Res. COFEN 746/2024, art. 1º); por isso o item 4 é falso. A técnica pede equipe treinada com um líder, e a própria 746/2024 cita no mínimo cinco pessoas no atendimento pré-hospitalar (item 2). As complicações do item 3 são reais e exigem monitoramento e registro (arts. 2º e 3º). O item 5 é falso: pela Res. CFM 2.057/2013 a contenção física também é prescrita pelo médico, não só a química. Sequência V, V, V, F, F.",
+  "porAlt": [
+   "Errada: o último item é falso, porque a contenção física também depende de prescrição médica pela Res. CFM 2.057/2013.",
+   "Errada: os três primeiros itens são verdadeiros; objetivo, equipe com líder e complicações estão corretos.",
+   "Errada: o terceiro item é verdadeiro; perfusão reduzida, aspiração, asfixia, lesão de plexo e fraturas são complicações descritas.",
+   "Correta: a contenção protege, exige equipe com líder e tem complicações graves, mas é último recurso e não só a química é prescrita pelo médico.",
+   "Errada: a contenção não é primeiro recurso; a Res. COFEN 746/2024 só a admite quando for o único meio para prevenir dano imediato."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A saúde é um direito de cidadania de todas as pessoas e cabe ao Estado assegurar este direito, sendo que o acesso às ações e serviços deve ser garantido a todas as pessoas, independentemente de sexo, raça, ocupação ou outras características sociais ou pessoais. Assinale a alternativa que apresenta qual princípio do SUS se encaixa nesta descrição.",
+  "alts": [
+   "Equidade",
+   "Universalização",
+   "Integralidade",
+   "Regionalização",
+   "Hierarquização"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, art. 196; Lei 8.080/1990, art. 7º, I e IV",
+  "coment": "A descrição é a da universalidade: a saúde é direito de todos e dever do Estado (CF, art. 196), e a Lei 8.080/1990, art. 7º, I, garante universalidade de acesso aos serviços de saúde em todos os níveis de assistência, sem distinção de sexo, raça, ocupação ou outra característica. Equidade é tratar desigualmente os desiguais, dando mais a quem precisa mais, o que o enunciado não menciona. Integralidade é o conjunto articulado de ações preventivas e curativas, e regionalização e hierarquização são diretrizes organizativas da rede.",
+  "porAlt": [
+   "Errada: equidade é ofertar mais a quem tem mais necessidade; o enunciado fala em acesso igual para todos.",
+   "Correta: acesso garantido a todas as pessoas, independentemente de características sociais ou pessoais, é a universalidade (Lei 8.080/1990, art. 7º, I).",
+   "Errada: integralidade é o conjunto articulado de ações e serviços preventivos e curativos, individuais e coletivos.",
+   "Errada: regionalização é diretriz de organização territorial da rede, não o direito de acesso de todos.",
+   "Errada: hierarquização organiza a rede em níveis de complexidade e não descreve o acesso de todos sem distinção."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Carta dos Direitos dos Usuários da Saúde, traz informações para conhecimento dos direitos no atendimento de saúde. Composta por princípios básicos de cidadania que asseguram ao brasileiro o ingresso digno nos sistemas de saúde, seja ele público ou privado. Diante do exposto, analise as afirmativas abaixo.\nI. Todo cidadão tem direito ao acesso ordenado e organizado aos sistemas de saúde, a tratamento adequado e efetivo para seu problema.\nII. Todo cidadão tem direito ao atendimento humanizado, acolhedor, livre de qualquer discriminação, que respeite a sua pessoa, seus valores e seus direitos.\nIII. Todo cidadão também tem responsabilidades para que seu tratamento aconteça da forma adequada e direito ao comprometimentos dos gestores da saúde para que todos esses princípios sejam cumpridos.\nAssinale a alternativa correta.",
+  "alts": [
+   "As afirmativas I, II e III estão corretas",
+   "Apenas a afirmativa II está correta",
+   "Apenas a afirmativa I está correta",
+   "Apenas as afirmativas I e III estão corretas",
+   "Apenas as afirmativas I e II estão corretas"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 1.820/2009, atualizada pela Resolução CNS 553/2017 (Carta dos Direitos e Deveres da Pessoa Usuária da Saúde)",
+  "coment": "A Carta dos Direitos dos Usuários da Saúde (Portaria 1.820/2009) tem princípios que a Resolução CNS 553/2017 manteve como diretrizes: acesso ordenado e organizado aos sistemas de saúde; tratamento adequado e efetivo; atendimento humanizado, acolhedor e livre de discriminação; atendimento que respeite valores e direitos; responsabilidades do cidadão para que o tratamento aconteça de forma adequada; e direito a exigir o comprometimento dos gestores para que os princípios sejam cumpridos. Os itens I e II juntam os quatro primeiros, e o III junta os dois últimos. Todos corretos.",
+  "porAlt": [
+   "Correta: os três itens reproduzem os princípios da Carta; o III reúne as responsabilidades do cidadão e o compromisso dos gestores.",
+   "Errada: o item I também está correto; acesso ordenado e organizado e tratamento adequado e efetivo são princípios da Carta.",
+   "Errada: os itens II e III também estão na Carta, com o atendimento humanizado e as responsabilidades do cidadão.",
+   "Errada: o item II está correto; atendimento humanizado, acolhedor e sem discriminação é princípio da Carta.",
+   "Errada: o item III está correto; a Carta prevê deveres do cidadão e o compromisso dos gestores com os princípios."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A precaução para gotículas é indicada para evitar a transmissão de agentes infecciosos pelo depósito de gotículas nas mucosas. Assinale a alternativa que apresenta indicações para esta precaução.",
+  "alts": [
+   "Meningites bacterianas, hantavirose",
+   "Influenza, tuberculose",
+   "Aspergilose, hantavirose",
+   "Rubéola, meningites bacterianas",
+   "Influenza, Aspergilose"
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Guideline for Isolation Precautions (CDC/HICPAC, 2007), adotado pela ANVISA",
+  "coment": "Precaução para gotículas vale para agentes transmitidos por partículas maiores, que alcançam pouco mais de um metro: rubéola, meningite meningocócica e por Haemophilus influenzae, influenza, coqueluche e caxumba. Exige quarto privativo ou coorte, máscara cirúrgica para quem entra e máscara no paciente durante o transporte, mantida na meningite até 24 horas de antibiótico eficaz. Tuberculose é aerossol, com respirador PFF2 e quarto com pressão negativa. Aspergilose não se transmite de pessoa a pessoa, e a hantavirose clássica brasileira é adquirida pela inalação de excretas de roedores, sem precaução de gotículas.",
+  "porAlt": [
+   "Errada: a meningite bacteriana pede gotículas, mas a hantavirose se adquire por excretas de roedores, sem precaução de gotículas.",
+   "Errada: influenza é gotículas, mas tuberculose pulmonar exige precaução para aerossóis com respirador PFF2.",
+   "Errada: aspergilose não se transmite entre pessoas e hantavirose vem de roedores; nenhuma pede gotículas.",
+   "Correta: rubéola e meningites bacterianas (meningocócica e por Haemophilus) são indicações clássicas de precaução para gotículas.",
+   "Errada: influenza pede gotículas, mas aspergilose é infecção ambiental sem transmissão interpessoal."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que não apresenta sinais e sintomas de pneumotórax hipertensivo.",
+  "alts": [
+   "Percussão hipersonora",
+   "Percussão hiposonora",
+   "Desvio de traquéia contra-lateral",
+   "Distensão das veias do pescoço",
+   "Ausência de sons respiratórios (murmúrio vesicular)"
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "ATLS, American College of Surgeons, 10ª edição, 2018",
+  "coment": "No pneumotórax hipertensivo o ar entra na pleura e não sai, colapsa o pulmão e desloca o mediastino, o que reduz o retorno venoso e causa choque obstrutivo. O exame mostra dispneia, murmúrio vesicular ausente no lado afetado, percussão hipertimpânica (hipersonora), turgência jugular, hipotensão e, tardiamente, desvio da traqueia para o lado oposto. Percussão hiposonora, ou maciça, indica líquido, como no hemotórax, e não ar. O diagnóstico é clínico, e a descompressão é imediata, sem esperar radiografia.",
+  "porAlt": [
+   "Errada: percussão hipersonora, ou hipertimpanismo, é sinal típico do ar sob pressão na pleura.",
+   "Correta: percussão hiposonora indica líquido, como no hemotórax, e não faz parte do quadro do pneumotórax hipertensivo.",
+   "Errada: o desvio da traqueia para o lado oposto ocorre pelo deslocamento do mediastino, como sinal tardio.",
+   "Errada: a distensão das veias do pescoço reflete a queda do retorno venoso e é sinal clássico.",
+   "Errada: a ausência de murmúrio vesicular no lado afetado é achado típico do pneumotórax hipertensivo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os distúrbios hidroeletrolíticos podem levar a sérias complicações do estado de saúde do paciente, para manutenção das taxas de eletrólitos e do volume de água em cada compartimento, o organismo lança mão de um dispositivo extremamente preciso, que é o fenômeno da ______. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "Perspiração insensível",
+   "Acidose metabólica",
+   "Osmose",
+   "Alcalose metabólica",
+   "Koebner"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guyton & Hall, Tratado de Fisiologia Médica, 14ª ed., 2021 (líquidos corporais e osmose)",
+  "coment": "A distribuição da água entre os compartimentos intracelular e extracelular é regida pela osmose: a água atravessa a membrana celular em direção ao meio de maior concentração de solutos, e o sódio, principal soluto do extracelular, determina a osmolalidade plasmática. Por isso a hiponatremia aguda faz a água entrar nas células e pode causar edema cerebral, e a correção rápida da hiponatremia crônica pode causar desmielinização osmótica. Perspiração insensível é perda de água pela pele e respiração; acidose e alcalose são distúrbios do pH; Koebner é fenômeno dermatológico de lesões no local de trauma.",
+  "porAlt": [
+   "Errada: perspiração insensível é perda de água pela pele e pela respiração, não o mecanismo que distribui a água entre os compartimentos.",
+   "Errada: acidose metabólica é distúrbio acidobásico, não mecanismo de manutenção do volume de água.",
+   "Correta: a osmose movimenta a água entre os compartimentos conforme a concentração de solutos e mantém o equilíbrio hídrico.",
+   "Errada: alcalose metabólica é distúrbio acidobásico, consequência e não mecanismo regulador.",
+   "Errada: o fenômeno de Koebner é dermatológico, o surgimento de lesões como psoríase no local de trauma."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para o estudo das síndromes caracterizadas como alcalose e acidose é indispensável considerar o aumento ou diminuição do ______, e do ______ no plasma, o que leva a uma modificação do pH sanguíneo. Assinale a alternativa que preencha correta e respectivamente as lacunas.",
+  "alts": [
+   "potássio / sódio",
+   "potássio / ácido lático",
+   "potássio / ácido carbônico",
+   "bicarbonato / ácido carbônico",
+   "bicarbonato / ácido lático"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guyton & Hall, Tratado de Fisiologia Médica, 14ª ed., 2021 (regulação acidobásica)",
+  "coment": "O pH do plasma depende da relação entre o bicarbonato (HCO3), componente metabólico regulado pelo rim, e o ácido carbônico (H2CO3), que reflete a PaCO2 e é regulado pela ventilação, segundo a equação de Henderson-Hasselbalch. Queda do bicarbonato causa acidose metabólica e aumento, alcalose metabólica; aumento do ácido carbônico (retenção de CO2) causa acidose respiratória e queda, alcalose respiratória. Potássio e sódio participam dos distúrbios, mas não definem o pH, e o ácido lático é só uma das causas de acidose metabólica.",
+  "porAlt": [
+   "Errada: potássio e sódio são eletrólitos que se alteram nos distúrbios, mas não compõem o sistema tampão que define o pH.",
+   "Errada: o ácido lático é causa de acidose metabólica, não par do sistema tampão, e o potássio não define o pH.",
+   "Errada: o ácido carbônico está certo, mas o par dele no tampão é o bicarbonato, não o potássio.",
+   "Correta: o pH depende da relação entre bicarbonato, componente metabólico, e ácido carbônico, componente respiratório.",
+   "Errada: o bicarbonato está certo, mas o componente respiratório é o ácido carbônico, não o ácido lático."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Através da escala de coma de Glasgow é possível mensurar o nível de consciência dos pacientes, assinale a alternativa que não é considerada uma variável a ser avaliada.",
+  "alts": [
+   "Abertura ocular",
+   "Resposta verbal",
+   "Resposta motora",
+   "Resposta pupilar",
+   "Resposta sensorial"
+  ],
+  "gab": 4,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Escala de Coma de Glasgow com resposta pupilar (GCS-P; Brennan, Murray e Teasdale, 2018)",
+  "coment": "A escala de Glasgow soma abertura ocular (1 a 4), resposta verbal (1 a 5) e resposta motora (1 a 6). Desde 2018, a versão com resposta pupilar (GCS-P) subtrai do total 2 pontos se nenhuma pupila reage à luz, 1 se só uma não reage e 0 se ambas reagem. Resposta sensorial nunca foi variável da escala, e por isso é a resposta. Na escala clássica de três componentes, a pupila também ficava de fora; o gabarito considera a atualização de 2018, em que a reatividade pupilar passou a ser avaliada.",
+  "porAlt": [
+   "Errada: abertura ocular é componente da escala, pontuada de 1 a 4.",
+   "Errada: resposta verbal é componente da escala, pontuada de 1 a 5.",
+   "Errada: resposta motora é componente da escala, pontuada de 1 a 6, e a mais prognóstica.",
+   "Errada: desde 2018 a reatividade pupilar é avaliada no Glasgow-P e subtrai de 0 a 2 pontos do total.",
+   "Correta: resposta sensorial não é variável da escala de Glasgow, nem na versão clássica nem na de 2018."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Carlos Eduardo, obeso, 39 anos, foi atropelado em via pública. Houve uma lesão profunda com fratura exposta em membro inferior direito, corte profundo na região frontal do crânio, membro superior direito com edema e hematomas extensos, assim que ocorreu o acidente ele estava consciente e orientado, respondeu seu nome, que era diabético e hipertenso. Ao dar entrada no pronto socorro, cerca de 30 minutos após o acidente, foi reavaliado e apresentava, confusão mental, sonolência, abertura ocular apenas se estimulado (dor), com extensão dos membros superiores, as pupilas fotorreagentes. De acordo com a pontuação obtida na escala de coma de Glasgow, assinale a alternativa que apresenta que tipo de trauma esse paciente apresenta.",
+  "alts": [
+   "Nível leve",
+   "Nível moderado",
+   "Nível grave",
+   "Coma",
+   "Estável"
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Escala de Coma de Glasgow (Teasdale e Jennett, 1974; revisão de 2014 e GCS-P de 2018); ATLS, 10ª edição, 2018",
+  "coment": "Na reavaliação, o paciente abre os olhos só ao estímulo de pressão ou dor (2 pontos), está confuso (verbal 4) e estende os membros superiores, postura de descerebração (motor 2). O total é 8. As pupilas reagem, então o Glasgow-P não desconta pontos. Pela classificação usada no trauma, o TCE é leve de 13 a 15, moderado de 9 a 12 e grave de 3 a 8, logo é grave. Glasgow 8 ou menos indica também necessidade de via aérea definitiva. A queda em relação ao primeiro contato, quando estava orientado, sugere lesão expansiva, como hematoma extradural.",
+  "porAlt": [
+   "Errada: TCE leve é Glasgow de 13 a 15, e o paciente soma 8.",
+   "Errada: TCE moderado vai de 9 a 12; com abertura ocular 2, verbal 4 e motor 2 o total é 8.",
+   "Correta: abertura ocular à dor 2, verbal confuso 4 e extensão 2 somam 8, faixa de TCE grave (3 a 8).",
+   "Errada: a pergunta é o tipo de trauma, classificado em leve, moderado ou grave; Glasgow 8 coincide com o limite clínico de coma, mas a categoria do TCE é grave.",
+   "Errada: estável não é categoria da escala, e a queda de consciência mostra deterioração."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para determinação de morte encefálica é obrigatório a realização dos seguintes procedimentos:\n( ) Dois exames clínicos que confirmem coma não perceptivo e ausência de função do tronco encefálico.\n( ) Teste de apneia que confirme ausência de movimentos respiratórios após estimulação máxima dos centros respiratórios.\n( ) Exame complementar que comprove ausência de atividade encefálica.\n( ) Presença de lesão encefálica de causa conhecida, irreversível e capaz de causar morte encefálica.\nAnalise as afirmativas abaixo, dê valores Verdadeiro (V) ou Falso (F) e assinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "V - V - V - F",
+   "V - F - V - F",
+   "F - V - V - V",
+   "V - V - F - V"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução CFM 2.173/2017, arts. 1º e 2º",
+  "coment": "A Res. CFM 2.173/2017 separa pré-requisitos e procedimentos. O art. 2º torna obrigatória a realização mínima de três procedimentos: dois exames clínicos que confirmem coma não perceptivo e ausência de função do tronco encefálico, feitos por médicos diferentes; teste de apneia que confirme ausência de movimentos respiratórios após estimulação máxima dos centros respiratórios; e exame complementar que comprove ausência de atividade encefálica. A presença de lesão encefálica de causa conhecida, irreversível e capaz de causar morte encefálica é pré-requisito do art. 1º, não procedimento. Sequência V, V, V, F.",
+  "porAlt": [
+   "Errada: a lesão encefálica de causa conhecida é pré-requisito (art. 1º), não procedimento obrigatório do art. 2º.",
+   "Correta: dois exames clínicos, teste de apneia e exame complementar são os procedimentos obrigatórios do art. 2º; a lesão conhecida é pré-requisito.",
+   "Errada: o teste de apneia é procedimento obrigatório e verdadeiro no art. 2º.",
+   "Errada: os dois exames clínicos são obrigatórios, e o último item é pré-requisito, não procedimento.",
+   "Errada: o exame complementar é obrigatório em todos os casos pela resolução de 2017."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Resolução - RDC Nº 15, de 15 de março de 2012, dispõe sobre requisitos de boas práticas para o processamento de produtos para saúde. Diante do exposto, analise as afirmativas abaixo.\nI. É permitido o uso de estufas para esterilização de produtos de saúde.\nII. É obrigatório a realização de teste para avaliar o desempenho do sistema de remoção de ar (Bowie & Dick) da autoclave assistida por bomba de vácuo, no primeiro ciclo do dia.\nIII. O rótulo de identificação da embalagem deve conter o nome do produto, número do lote, data da esterilização, data limite de uso, método de esterilização, nome do responsável pelo preparo.\nIV. As leitoras de indicadores biológicos e as seladoras térmicas devem ser calibradas, no mínimo, anualmente.\nAssinale a alternativa correta.",
+  "alts": [
+   "Apenas as afirmativas I, II e III estão corretas",
+   "Apenas as afirmativas I, II e IV estão corretas",
+   "Apenas as afirmativas I e III estão corretas",
+   "Apenas as afirmativas II e III estão corretas",
+   "Apenas as afirmativas II, III e IV estão corretas"
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 15/2012, arts. 85, 92 e 93",
+  "coment": "A RDC 15/2012 proíbe o uso de estufas para esterilizar produtos para saúde (art. 92), e por isso o item I é falso. O teste de Bowie e Dick, que avalia a remoção de ar da autoclave assistida por bomba de vácuo, é feito no primeiro ciclo do dia (art. 93). O rótulo da embalagem deve trazer nome do produto, número do lote, data da esterilização, data limite de uso, método de esterilização e nome do responsável pelo preparo (art. 85). A norma também exige calibração periódica, no mínimo anual, das leitoras de indicadores biológicos e das seladoras térmicas. Corretas II, III e IV.",
+  "porAlt": [
+   "Errada: inclui o item I, mas a RDC 15/2012 proíbe estufa para esterilização (art. 92).",
+   "Errada: inclui o item I, proibido pela norma, e deixa de fora o III, sobre o rótulo.",
+   "Errada: o item I é falso e a alternativa exclui os itens II e IV, que estão corretos.",
+   "Errada: exclui o item IV, mas a calibração anual de leitoras de indicadores biológicos e seladoras é exigida.",
+   "Correta: Bowie e Dick no primeiro ciclo do dia, rótulo completo e calibração anual estão na RDC 15/2012; a estufa é proibida."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A ______ é um fármaco inotrópico utilizado no tratamento da insuficiência cardíaca descompensada e nos choques sépticos e cardiogênicos. Atua no volume sistólico, eleva o débito cardíaco, a pressão arterial e a frequência cardíaca, além de reduzir a resistência vascular periférica. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "Noradrenalina",
+   "Adrenalina",
+   "Adenosina",
+   "Dobutamina",
+   "Vasopressina"
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda (SBC, 2018); Surviving Sepsis Campaign 2026",
+  "coment": "A dobutamina é inotrópico beta-1 adrenérgico: aumenta a contratilidade e o volume sistólico, eleva o débito cardíaco e a frequência cardíaca e, pelo efeito beta-2, reduz a resistência vascular periférica. Por isso é usada na insuficiência cardíaca descompensada com baixo débito e no choque cardiogênico, e no choque séptico com disfunção miocárdica e hipoperfusão persistente, somada à noradrenalina. A enfermagem infunde em bomba, de preferência em acesso exclusivo, e monitora taquiarritmia e hipotensão. Noradrenalina e vasopressina são vasopressores que aumentam a resistência, a adrenalina tem efeito misto e a adenosina é antiarrítmico.",
+  "porAlt": [
+   "Errada: a noradrenalina é vasopressor alfa predominante e aumenta a resistência vascular periférica, em vez de reduzi-la.",
+   "Errada: a adrenalina tem efeito misto e, em dose alta, eleva a resistência vascular; não é o inotrópico descrito.",
+   "Errada: a adenosina é antiarrítmico usado na taquicardia supraventricular, sem efeito inotrópico.",
+   "Correta: a dobutamina é inotrópico beta-1 que eleva volume sistólico e débito cardíaco e reduz a resistência vascular periférica.",
+   "Errada: a vasopressina é vasoconstritor não adrenérgico, usado para elevar a pressão no choque, sem ação inotrópica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre compressões torácicas eficientes e de boa qualidade, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Deprimir o tórax em pelo menos 5 cm (sem exceder 6 cm).\n( ) Manter frequência de compressões em 100 a 120 compressões/min.\n( ) Mãos entrelaçadas.\n( ) Alternar os profissionais que aplicam as compressões a cada 2 min.\n( ) Evitar o completo retorno entre as compressões.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V - V",
+   "V - V - F - V - V",
+   "V - V - V - V - F",
+   "F - V - V - V - V",
+   "V - F - V - F - V"
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Diretrizes AHA 2025 de RCP e ACE",
+  "coment": "A RCP de alta qualidade no adulto, mantida pelas diretrizes AHA 2025, exige comprimir pelo menos 5 cm sem passar de 6 cm, a uma frequência de 100 a 120 por minuto, com a região hipotenar de uma mão no centro do tórax e a outra por cima, dedos entrelaçados, trocando o compressor a cada 2 minutos ou antes, se cansar, e minimizando as interrupções. O último item é falso: deve-se permitir o retorno completo do tórax após cada compressão, sem apoiar o peso sobre ele, porque é na descompressão que o coração se enche. Sequência V, V, V, V, F.",
+  "porAlt": [
+   "Errada: o último item é falso, porque o retorno completo do tórax deve ser permitido.",
+   "Errada: mãos entrelaçadas fazem parte da técnica, e o retorno do tórax deve ser completo.",
+   "Correta: profundidade de 5 a 6 cm, 100 a 120 por minuto, mãos entrelaçadas e troca a cada 2 minutos são certos; impedir o retorno do tórax é erro.",
+   "Errada: a profundidade de pelo menos 5 cm sem exceder 6 cm é recomendação da AHA e é verdadeira.",
+   "Errada: a frequência de 100 a 120 por minuto e a troca a cada 2 minutos são verdadeiras."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Diarreia é o aumento no número de evacuações por dia e as fezes são amolecidas ou líquidas. A diarreia é um sintoma que, por sua vez, pode ser causado por várias doenças diferentes. Diante do exposto, analise as afirmativas abaixo.\nI. A diarreia aguda geralmente é causada por vírus, bactérias e parasitas intestinais, apresentando maior risco de desidratação, que é a principal complicação.\nII. As consequências mais temidas por diarreia crônica são desnutrição, parada de crescimento, anemia e outras deficiências.\nIII. As diarreias podem ser classificadas em diarreia aguda, persistente e crônica.\nIV. O aleitamento materno diminui a frequência de episódios de diarreia na vida da criança e também está associado com evoluções menos graves e menor necessidade de hospitalização.\nAssinale a alternativa correta.",
+  "alts": [
+   "Apenas as afirmativas I, II e IV estão corretas",
+   "Apenas as afirmativas I, III e IV estão corretas",
+   "Apenas as afirmativas I, II e III estão corretas",
+   "Apenas as afirmativas I e IV estão corretas",
+   "As afirmativas I, II, III e IV estão corretas"
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Manual AIDPI Criança: 2 meses a 5 anos (MS/OPAS, 2017); Caderno de Atenção Básica nº 23, Aleitamento Materno e Alimentação Complementar (MS, 2015)",
+  "coment": "Todos os itens estão corretos. A diarreia aguda, em geral por vírus, bactérias ou parasitas, tem na desidratação a principal complicação, por isso a avaliação do estado de hidratação define o plano A, B ou C. Pela duração, a diarreia é aguda (menos de 14 dias), persistente (14 dias ou mais) ou crônica (mais de 30 dias, ou episódios recorrentes); persistente e crônica levam à desnutrição, à parada do crescimento, à anemia e a outras deficiências. O aleitamento materno reduz a frequência e a gravidade dos episódios e as internações, e deve ser mantido durante a diarreia.",
+  "porAlt": [
+   "Errada: deixa de fora o item III, mas a classificação em aguda, persistente e crônica está correta.",
+   "Errada: deixa de fora o item II, mas desnutrição, parada do crescimento e anemia são consequências temidas da diarreia crônica.",
+   "Errada: deixa de fora o item IV, mas o aleitamento materno protege contra diarreia e reduz hospitalizações.",
+   "Errada: os itens II e III também estão corretos.",
+   "Correta: os quatro itens estão corretos sobre causas, complicações, classificação e proteção do aleitamento materno."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A auditoria do SUS é estabelecida por meio do Sistema Nacional de Auditoria - SNA, instituída pela Lei nº 8.689, de 27 de julho de 1993, e regulamentada pelo Decreto nº 1.651, de 28 de setembro de 1995. O SNA é organizado para funcionar em todos os níveis de governo, por meio dos órgãos de auditoria interna do SNA, que são as unidades de auditoria interna localizados nos níveis federal, estadual e municipal do SUS. Para obter um bom funcionamento deve se observar:",
+  "alts": [
+   "estrutura regimental e competências definidas; vinculação hierárquica à autoridade máxima do órgão; grau de independência estabelecido; quadro próprio; recursos e estrutura para suas atividades; e vinculação técnica às orientações emanadas pelo órgão central e aos padrões nacionais e internacionais em auditoria interna",
+   "estrutura regimental e incompetências definidas; vinculação hierárquica à autoridade máxima do órgão; grau de dependência estabelecido; quadro próprio; recursos e estrutura para suas atividades; e vinculação técnica às orientações emanadas pelo órgão central e aos padrões nacionais e internacionais em auditoria interna",
+   "estrutura regimental e competências definidas; vinculação hierárquica à autoridade mínima do órgão; grau de independência estabelecido; quadro próprio; recursos e estrutura para suas atividades; e vinculação técnica às orientações emanadas pelo órgão central e aos padrões nacionais e internacionais em auditoria externa",
+   "estrutura regimental e competências indefinidas; vinculação hierárquica à autoridade máxima do órgão; grau de independência estabelecido; quadro próprio; recursos e estrutura para suas atividades; e vinculação técnica às orientações emanadas pelo órgão central e aos padrões nacionais e internacionais em auditoria interna",
+   "estrutura regimental e competências definidas; vinculação hierárquica à autoridade mínima do órgão; grau de independência estabelecido; quadro próprio; recursos e estrutura para suas atividades; e vinculação técnica às orientações emanadas pelo órgão central e aos padrões regionais e internacionais em auditoria interna"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.689/1993, art. 6º, e Decreto 1.651/1995 (Sistema Nacional de Auditoria do SUS)",
+  "coment": "O Sistema Nacional de Auditoria foi criado pela Lei 8.689/1993 e regulamentado pelo Decreto 1.651/1995, com componentes federal, estaduais e municipais. Para funcionar bem, a unidade de auditoria interna precisa de estrutura regimental e competências definidas, vinculação hierárquica à autoridade máxima do órgão, grau de independência estabelecido, quadro próprio, recursos e estrutura, e vinculação técnica ao órgão central e aos padrões nacionais e internacionais de auditoria interna. A independência e a vinculação ao topo da hierarquia protegem o auditor de pressões das áreas que ele examina. Os distratores trocam essas palavras pelos opostos.",
+  "porAlt": [
+   "Correta: competências definidas, vinculação à autoridade máxima, independência e padrões nacionais e internacionais de auditoria interna.",
+   "Errada: troca competências por incompetências e independência por dependência, o que anula a função da auditoria.",
+   "Errada: a vinculação é à autoridade máxima, não mínima, e os padrões são de auditoria interna.",
+   "Errada: a unidade precisa de competências definidas, não indefinidas.",
+   "Errada: a vinculação é à autoridade máxima, e os padrões são nacionais e internacionais, não regionais."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No trabalho em saúde pública, o auditor atua em ações de análise crítica do cuidado à saúde, identificando deficiências para propor soluções (PISCOYA, 2000 APUD CASTRO, 2004). Diante do exposto, o autor se baseia:",
+  "alts": [
+   "na análise minuciosa de registros, relatórios, documentos ou fatos e sua relação com os patrões de conformidade destacados em bases legais e normativas",
+   "na análise minuciosa de registros, relatórios, documentos falsos e sua relação com os padrões de conformidade destacados em bases legais e normativas",
+   "na análise minuciosa de registros, relatórios, documentos ou fatos e sua relação com os padrões de conformidade destacados em bases legais e normativas",
+   "na análise aberta de registros, relatórios, documentos ou fatos e sua relação com os padrões de conformidade destacados em bases legais e normativas",
+   "na análise minuciosa de registros, relatórios, documentários falsos e sua relação com os padrões de conformidade destacados em bases legais e normativas"
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Auditoria do SUS: orientações básicas (Ministério da Saúde/DENASUS, 2011)",
+  "coment": "Na saúde pública, a auditoria se baseia na análise minuciosa de registros, relatórios, documentos ou fatos e na comparação com padrões de conformidade definidos em bases legais e normativas. É dessa comparação entre o que foi feito e o que a norma exige que nascem as deficiências apontadas e as propostas de solução. A alternativa A é igual à correta, exceto pela troca de padrões por patrões, erro que a banca usou como distrator. As demais falam em documentos falsos ou em análise aberta, o que foge do método.",
+  "porAlt": [
+   "Errada: troca padrões por patrões; o termo técnico é padrões de conformidade.",
+   "Errada: a auditoria analisa documentos e fatos, não apenas documentos falsos.",
+   "Correta: a auditoria analisa minuciosamente registros, relatórios, documentos ou fatos e os compara a padrões de conformidade legais e normativos.",
+   "Errada: a análise é minuciosa e sistemática, não aberta.",
+   "Errada: o objeto são documentos ou fatos, não documentários falsos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No que diz respeito ao processo de trabalho no SUS, a auditoria consiste:",
+  "alts": [
+   "no exame físico dos fatos obtidos, através da observação, medição, ensaio ou outras técnicas apropriadas, de uma atividade, elemento ou sistema, para verificar a adequação aos requisitos preconizados pelas leis e normas vigentes e determinar se as ações de saúde e seus resultados estão de acordo com as disposições planejadas",
+   "no exame sistemático e independente dos fatos obtidos, através da observação, medição, ensaio ou outras técnicas apropriadas, de uma atividade, elemento ou sistema, para verificar a adequação aos requisitos preconizados pelas leis e normas vigentes e determinar se as ações de saúde e seus resultados estão de acordo com as disposições planejadas",
+   "no exame sistemático e independente dos fatos obtidos, através da observação, medicação, ensaio ou outras técnicas apropriadas, de uma atividade, elemento ou sistema, para verificar a adequação aos requisitos preconizados pelas leis e normas vigentes e determinar se as ações de saúde e seus resultados estão de acordo com as disposições planejadas",
+   "no exame sistemático e independente dos fatos obtidos, através da observação, medição, ensaio ou outras técnicas apropriadas, de uma atividade física, para verificar a adequação aos requisitos preconizados pelas leis e normas vigentes e determinar se as ações de saúde e seus resultados estão de acordo com as disposições planejadas",
+   "no exame sistemático e independente dos fatos obtidos, através da observação, medição, ensaio ou outras técnicas desapropriadas, de uma atividade, elemento ou sistema, para verificar a adequação aos requisitos preconizados pelas leis e normas vigentes e determinar se as ações de saúde e seus resultados estão de acordo com as disposições planejadas"
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Auditoria do SUS: orientações básicas (Ministério da Saúde/DENASUS, 2011)",
+  "coment": "O DENASUS define a auditoria no SUS como o exame sistemático e independente dos fatos obtidos por observação, medição, ensaio ou outras técnicas apropriadas, de uma atividade, elemento ou sistema, para verificar a adequação aos requisitos das leis e normas vigentes e determinar se as ações de saúde e seus resultados estão de acordo com as disposições planejadas. Sistemático quer dizer com método e planejamento; independente, sem subordinação a quem é auditado. As demais alternativas trocam uma palavra-chave: exame físico, medicação, atividade física e técnicas desapropriadas.",
+  "porAlt": [
+   "Errada: a auditoria é exame sistemático e independente, não exame físico dos fatos.",
+   "Correta: é a definição do DENASUS: exame sistemático e independente dos fatos, por técnicas apropriadas, para verificar a adequação às normas e ao planejado.",
+   "Errada: troca medição por medicação; a observação e a medição são técnicas de coleta de evidências.",
+   "Errada: o objeto é uma atividade, elemento ou sistema, não uma atividade física.",
+   "Errada: as técnicas usadas devem ser apropriadas, não desapropriadas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Decreto nº 3.496, de 2000, constituiu um dos primeiros documentos a defender a reestruturação regimental do SNA. Nessa ocasião, ficou configurada:",
+  "alts": [
+   "competência do Departamento Nacional de Vigilância Sanitária (ANVISA) a determinação das responsabilidades dos órgãos de auditoria, controle e avaliação, bem como a correção de irregularidades praticadas no SUS (BRASIL, 2000)",
+   "competência do Departamento Nacional de Auditoria do SUS (DENASUS) a determinação das responsabilidades dos órgãos de auditoria, controle político, bem como a correção de regularidades praticadas no SUS (BRASIL, 2000)",
+   "competência do Departamento Nacional de Auditoria do SUS (DENASUS) a determinação das responsabilidades dos órgãos de auditoria, controle e avaliação, bem como a correção de irregularidades praticadas no SUS (BRASIL, 2000)",
+   "competência do Departamento Nacional de Auditoria do SUS (DENASUS) a determinação das responsabilidades dos órgãos de auditoria, controle e avaliação, bem como a correção de irregularidades praticadas no SENADO (BRASIL, 2023)",
+   "competência do Departamento Nacional de Auditoria do SUS (DENASUS) a determinação das responsabilidades dos órgãos de auditoria, controle e avaliação, bem como a correção de irregularidades praticadas no Ministério da Saúde (BRASIL, 2000)"
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Decreto 3.496/2000 (estrutura regimental do Ministério da Saúde e criação do DENASUS)",
+  "coment": "O Decreto 3.496/2000 reestruturou o Ministério da Saúde e criou o Departamento Nacional de Auditoria do SUS (DENASUS), componente federal do Sistema Nacional de Auditoria. Coube a ele determinar as responsabilidades dos órgãos de auditoria, controle e avaliação e a correção das irregularidades praticadas no SUS como um todo, e não só no Ministério. A ANVISA, criada pela Lei 9.782/1999, é agência reguladora de vigilância sanitária e não integra o SNA.",
+  "porAlt": [
+   "Errada: a ANVISA é agência de vigilância sanitária, não departamento de auditoria, e não recebeu essa competência.",
+   "Errada: a competência envolve auditoria, controle e avaliação e a correção de irregularidades, não de regularidades nem controle político.",
+   "Correta: o DENASUS passou a determinar as responsabilidades dos órgãos de auditoria, controle e avaliação e a corrigir irregularidades no SUS.",
+   "Errada: o objeto é o SUS, não o Senado, e o decreto é de 2000.",
+   "Errada: a atuação alcança todo o SUS, não só irregularidades praticadas no Ministério da Saúde."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A proposição do SNA permaneceria complementar às outras instâncias de controle e regulação. Assinale a alternativa que apresenta a que caberia esse sistema.",
+  "alts": [
+   "Fazer levantamento das principais carências, estimar o impacto das ações de saúde e traçar o perfil de utilização dos serviços municipais necessárias no planejamento, gestão, execução e avaliação das ações de saúde",
+   "Fazer levantamento das principais carências, estimar o impacto das ações de saúde e ignorar o perfil de utilização dos serviços para as mudanças necessárias no planejamento, gestão, execução e avaliação das ações de saúde",
+   "Fazer levantamento das principais carências, ignorar o impacto das ações de saúde e traçar o perfil de utilização dos serviços para as mudanças necessárias no planejamento, gestão, execução e avaliação das ações de saúde",
+   "Fazer levantamento das principais carências, estimar o impacto das ações de saúde e traçar o perfil de utilização dos serviços para as mudanças necessárias no planejamento, gestão, execução sem avaliação das ações de saúde",
+   "Fazer levantamento das principais carências, estimar o impacto das ações de saúde e traçar o perfil de utilização dos serviços para as mudanças necessárias no planejamento, gestão, execução e avaliação das ações de saúde"
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.689/1993, art. 6º, e Decreto 1.651/1995 (Sistema Nacional de Auditoria do SUS)",
+  "coment": "O Sistema Nacional de Auditoria atua de forma complementar às outras instâncias de controle e regulação do SUS. Seu papel é levantar as principais carências, estimar o impacto das ações de saúde e traçar o perfil de utilização dos serviços, para orientar as mudanças necessárias no planejamento, na gestão, na execução e na avaliação das ações de saúde. A auditoria, portanto, não é só fiscalização: produz informação para a gestão. Os distratores trocam um verbo por ignorar, retiram a avaliação ou deixam a frase sem sentido.",
+  "porAlt": [
+   "Errada: restringe aos serviços municipais e corta a finalidade de orientar as mudanças, deixando a frase sem sentido.",
+   "Errada: o SNA traça o perfil de utilização dos serviços, não o ignora.",
+   "Errada: estimar o impacto das ações de saúde é tarefa do sistema, que não pode ignorá-lo.",
+   "Errada: a avaliação das ações faz parte do ciclo que o SNA alimenta.",
+   "Correta: levantar carências, estimar impacto e traçar o perfil de uso para mudar planejamento, gestão, execução e avaliação."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Consultou-se o sítio referente aos Descritores em Ciências da Saúde (DeCS) e selecionaram-se palavras relacionadas com auditoria e SUS. No que diz respeito ao descritor 'auditoria', elencaram-se todas as possíveis variações, são elas:",
+  "alts": [
+   "auditoria administrativa, auditoria financeira, auditoria clínica, auditoria médica, auditoria de enfermagem e auditoria farmacêutica",
+   "auditoria gestacional, auditoria financeira, auditoria clínica veterinária, auditoria médica, auditoria de enfermagem e auditoria odontológica",
+   "auditoria administrativa, auditoria financeira, auditoria clínica, auditoria médica geriátrica, auditoria de enfermagem e auditoria odontológica",
+   "auditoria administrativa, auditoria financeira, auditoria clínica, auditoria médica, auditoria de enfermagem e auditoria odontológica",
+   "auditoria administrativa, auditoria financeira, auditoria clínica, auditoria ouvidoria, auditoria de enfermagem pediátrica e auditoria odontológica"
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "DeCS/MeSH, Descritores em Ciências da Saúde (BIREME/OPAS/OMS, edição 2023)",
+  "coment": "Os DeCS são o vocabulário controlado da BVS, trilíngue e derivado do MeSH da National Library of Medicine. Sob o descritor Auditoria, aparecem seis específicos: Auditoria Administrativa, Auditoria Financeira, Auditoria Clínica, Auditoria Médica, Auditoria de Enfermagem e Auditoria Odontológica. Usar o descritor exato, e não palavras livres, melhora a busca nas bases como LILACS e MEDLINE, porque recupera os artigos indexados pelo mesmo termo. Não existem nos DeCS auditoria farmacêutica, gestacional, veterinária, geriátrica, de ouvidoria ou pediátrica como descritores específicos.",
+  "porAlt": [
+   "Errada: auditoria farmacêutica não é descritor específico; o sexto descritor é Auditoria Odontológica.",
+   "Errada: auditoria gestacional e auditoria clínica veterinária não são descritores dos DeCS.",
+   "Errada: o descritor é Auditoria Médica, sem a especificação geriátrica.",
+   "Correta: administrativa, financeira, clínica, médica, de enfermagem e odontológica são os descritores específicos de Auditoria nos DeCS.",
+   "Errada: auditoria ouvidoria e auditoria de enfermagem pediátrica não existem como descritores."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A proposta de Pacto pela Saúde, disposta na Portaria N° 399/GM, de 22 de fevereiro de 2006, apresenta a auditoria como uma frente de trabalho, tratando-a como ferramenta de gestão e enfatizando seu caráter educativo e orientador. Nesse sentido, considera a auditoria:",
+  "alts": [
+   "como ferramenta relevante para a detecção das distorções do SUS, bem como para a proposição de suas correções. Soma-se a isso o fato que a Auditoria também passou a ser eixo da PARTICIPASUS por meio da Portaria N.º 3.027, de 26 de novembro de 2007, e defendida como recurso para a qualificação da gestão por meio do Programa Mais Saúde em 2008",
+   "como ferramenta relevante para a detecção das distorções do SUS, bem como para a proposição de suas correções. Exclui se a isso o fato que a Auditoria também passou a ser eixo da PARTICIPASUS por meio da Portaria N.º 3.027, de 26 de novembro de 2007, e defendida como recurso para a qualificação da gestão por meio do Programa Mais Saúde em 2008",
+   "como ferramenta relevante para a detecção das negociações do SUS, bem como para a preposição de suas correções. Soma-se a isso o fato que a Auditoria também passou a ser eixo da PARTICIPASUS por meio da Portaria N.º 3.027, de 26 de novembro de 2007, e defendida como recurso para a qualificação da gestão por meio do Programa Mais Saúde em 2008",
+   "como ferramenta irrelevante para a detecção das distorções do SUS, bem como para a proposição de suas correções. Soma-se a isso o fato que a Auditoria também passou a ser eixo da PARTICIPASUS por meio da Portaria N.º 3.027, de 26 de novembro de 2007, e defendida como recurso para a qualificação da gestão por meio do Programa Mais Saúde em 2008",
+   "como ferramenta relevante para a detecção das distorções do SUS, bem como para a proposição de suas correções. Soma-se a isso o fato que a Auditoria também passou a ser eixo da PARTICIPASUS por meio da Portaria N.º 3.027, de 26 de novembro de 2023, e defendida como recurso para a qualificação da gestão por meio do Programa Mais Saúde em 2023"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 399/2006 (Pacto pela Saúde) e Portaria GM/MS 3.027/2007 (ParticipaSUS)",
+  "coment": "O Pacto pela Saúde (Portaria 399/2006) tratou a auditoria como ferramenta de gestão, de caráter educativo e orientador, relevante para detectar as distorções do SUS e propor suas correções. A Portaria 3.027, de 26 de novembro de 2007, aprovou a Política Nacional de Gestão Estratégica e Participativa (ParticipaSUS), que tem a auditoria como um de seus componentes, ao lado da ouvidoria, do monitoramento e avaliação e da gestão participativa, e o Programa Mais Saúde, de 2008, a reforçou como recurso de qualificação da gestão. O Pacto foi depois substituído pelo modelo do Decreto 7.508/2011.",
+  "porAlt": [
+   "Correta: auditoria como ferramenta para detectar distorções e propor correções, eixo do ParticipaSUS (Portaria 3.027/2007) e reforçada pelo Mais Saúde em 2008.",
+   "Errada: a auditoria foi incluída, e não excluída, como eixo do ParticipaSUS.",
+   "Errada: a auditoria detecta distorções, não negociações, e propõe correções.",
+   "Errada: o Pacto considerou a auditoria ferramenta relevante, não irrelevante.",
+   "Errada: a Portaria 3.027 é de 26 de novembro de 2007 e o Mais Saúde é de 2008, não de 2023."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na assistência à saúde, as auditorias podem ser desenvolvidas em vários setores e por diferentes profissionais. Quais destacando-se, entre elas: a auditoria médica, de enfermagem e odontológica. São caracterizadas por uma sequência de ações administrativas, técnicas e observacionais, cujo objetivo é analisar a qualidade dos serviços a fim de assegurar o seu melhor desempenho e resolubilidade (Motta e col., 2005). A esse respeito, assinale a alternativa correta.",
+  "alts": [
+   "A auditoria médica, de enfermagem e esportes",
+   "A auditoria médica, de enfermagem e hotelaria",
+   "A auditoria médica, de enfermagem e laser",
+   "A auditoria médica, de enfermagem e odontológica",
+   "A auditoria médica, de enfermagem e cultura"
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 720/2023 (atuação do enfermeiro em auditoria), alterada pela Res. COFEN 733/2023",
+  "coment": "Na assistência à saúde, as auditorias mais desenvolvidas são a médica, a de enfermagem e a odontológica, conforme o próprio texto do enunciado (Motta e colaboradores, 2005). Cada uma é feita pelo profissional da área: na equipe de enfermagem, a auditoria é privativa do enfermeiro e não pode ser repassada a técnico, auxiliar ou faturista (Res. COFEN 720/2023). O objetivo é analisar a qualidade dos serviços por ações administrativas, técnicas e observacionais e assegurar melhor desempenho e resolubilidade. Esportes, hotelaria, lazer e cultura não são modalidades de auditoria em saúde.",
+  "porAlt": [
+   "Errada: esportes não é modalidade de auditoria na assistência à saúde.",
+   "Errada: hotelaria hospitalar pode ser avaliada, mas não é uma das três auditorias assistenciais citadas.",
+   "Errada: lazer não é modalidade de auditoria em saúde.",
+   "Correta: auditoria médica, de enfermagem e odontológica são as modalidades assistenciais destacadas no texto.",
+   "Errada: cultura não é modalidade de auditoria na assistência à saúde."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No futuro há uma perspectiva de mudança de paradigma, com preocupações acerca da qualidade do serviço prestado. Iniciativas no sentido de garantir a assistência de qualidade estão cada vez mais emergentes no cenário atual. Assinale a alternativa que apresenta o movimento governamental, ou por entidades independentes, seja por pressão social ou pelos clientes corporativos que financiam o seguro saúde, que almejam retornos concretos em face ao investimento no serviço.",
+  "alts": [
+   "Movimento institucional, ou por entidades independentes, seja por pressão social ou pelos clientes corporativos que financiam o seguro saúde, que almejam retornos concretos em face ao investimento no serviço",
+   "Movimento governamental, ou por entidades independentes, seja por pressão social ou pelos clientes corporativos que financiam o seguro saúde, que almejam retornos concretos em face ao investimento no serviço",
+   "Movimento governamental, ou por entidades dependentes, seja por pressão social ou pelos colaboradores corporativos que financiam o seguro saúde, que almejam retornos concretos em face ao investimento no serviço",
+   "Movimento trabalhista, ou por entidades independentes, seja por pressão social ou pelos clientes corporativos que financiam o seguro saúde, que almejam retornos concretos em face ao investimento no serviço",
+   "Movimento governamental, ou por entidades carentes, seja por pressão social ou pelos gestores corporativos que financiam o seguro saúde, que almejam retornos concretos em face ao investimento no serviço"
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 720/2023 (atuação do enfermeiro em auditoria), alterada pela Res. COFEN 733/2023",
+  "coment": "O texto descreve a mudança de paradigma da auditoria, de controle de contas para avaliação da qualidade. As iniciativas de garantia de qualidade vêm de movimentos governamentais ou de entidades independentes, como as acreditadoras, movidos por pressão social ou pelos clientes corporativos que financiam os planos de saúde e esperam retorno do investimento. A resposta repete o enunciado. As demais trocam governamental por institucional ou trabalhista, independentes por dependentes ou carentes, e clientes por colaboradores ou gestores.",
+  "porAlt": [
+   "Errada: troca o movimento governamental por institucional, alterando o sujeito descrito.",
+   "Correta: movimento governamental ou de entidades independentes, por pressão social ou de clientes corporativos que financiam o seguro saúde.",
+   "Errada: as entidades são independentes, e quem financia o seguro são os clientes corporativos, não os colaboradores.",
+   "Errada: o movimento descrito é governamental, não trabalhista.",
+   "Errada: as entidades são independentes, não carentes, e o financiamento vem dos clientes corporativos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os enfermeiros experts na temática da auditoria de enfermagem apontam que as organizações de saúde e os enfermeiros auditores fortalecem o estilo de gerência burocrática, tendo em vista o controle de custos. Podemos afirmar que a função do enfermeiro auditor, na atualidade:",
+  "alts": [
+   "retrata sua dimensão burocrática, de cunho contábil e financeiro, contemplando as atuais exigências das instituições de saúde",
+   "retrata sua dimensão burocrática, de punho contábil e financeiro, contemplando as atuais exigências das instituições de saúde",
+   "retrata sua dimensão burocrática, de cunho contábil e financeiro, contemplando as atuais exigências das instituições de filantrópicas",
+   "retrata sua dimensão burocrática, de cunho contábil e financeiro, contemplando as atuais exigências das instituições governamentais",
+   "retrata sua dimensão burocrática, de cunho contábil e financeiro, contemplando as atuais exigências das instituições de sociais"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 720/2023 (atuação do enfermeiro em auditoria), alterada pela Res. COFEN 733/2023",
+  "coment": "O enunciado parte de pesquisa com enfermeiros especialistas em auditoria: organizações e auditores reforçam a gerência burocrática voltada ao controle de custos. A conclusão é que a função do enfermeiro auditor ainda retrata sua dimensão burocrática, de cunho contábil e financeiro, atendendo às exigências atuais das instituições de saúde em geral. A Res. COFEN 720/2023 amplia esse papel: o enfermeiro em auditoria analisa contas e materiais, mas também a qualidade da assistência e dos registros. As demais alternativas trocam cunho por punho ou restringem a instituições filantrópicas, governamentais ou sociais.",
+  "porAlt": [
+   "Correta: a função retrata a dimensão burocrática, de cunho contábil e financeiro, atendendo às exigências das instituições de saúde.",
+   "Errada: a expressão é de cunho contábil, não de punho.",
+   "Errada: as exigências são das instituições de saúde em geral, não só das filantrópicas.",
+   "Errada: o texto fala das instituições de saúde, públicas e privadas, não só das governamentais.",
+   "Errada: as exigências descritas são das instituições de saúde, não de instituições sociais."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A exigência por parte das instituições de saúde, da atuação dos enfermeiros e de outros profissionais da saúde na área contábil e financeira, tem o intuito de adequar os custos e otimizar recursos mediante enfoque empresarial e mercadológico. Pode-se dizer que esse mesmo enfoque:",
+  "alts": [
+   "começa a aglutinar uma perspectiva de qualidade assim já se percebe, nas opiniões dos participantes da pesquisa, um movimento quanto ao posicionamento favorável à mudança de paradigma, com a incorporação da avaliação da qualidade do serviço prestado, relações de poder, recursos humanos, financiamento, tecnologia megatrônica e ferramentas de gestão",
+   "começa a desalinhar uma perspectiva de qualidade assim já se percebe, nas opiniões dos participantes da pesquisa, um movimento quanto ao oposicionamento desfavorável à mudança de paradigma, com a incorporação da avaliação da qualidade do serviço prestado. relações de poder, recursos humanos, financiamento, tecnologia megatrônica e ferramentas de gestão",
+   "começa a aglutinar uma perspectiva de qualidade assim já se percebe, nas opiniões dos participantes da pesquisa, um movimento quanto ao posicionamento favorável à mudança de paradigma, com a incorporação da avaliação da qualidade do serviço prestado. Sem relações de poder, sem recursos humanos, sem financiamento, sem tecnologia megatrônica e sem ferramentas de gestão",
+   "começa a aglutinar uma perspectiva de péssima qualidade assim já se percebe, nas opiniões dos participantes da pesquisa, um movimento quanto ao oposicionamento desfavorável à mudança de paradigma, com a incorporação da avaliação da qualidade do serviço prestado. relações de poder, recursos humanos, financiamento, tecnologia megatrônica e ferramentas de gestão",
+   "começa a aglutinar uma perspectiva de qualidade assim já se percebe, nas opiniões dos participantes da pesquisa, um movimento quanto ao posicionamento favorável à mudança de paradigma, com a incorporação da avaliação de pouca qualidade do serviço prestado, relações de poder, recursos humanos, financiamento, com pouca tecnologia megatrônica e ferramentas de gestão"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 720/2023 (atuação do enfermeiro em auditoria), alterada pela Res. COFEN 733/2023",
+  "coment": "O enfoque empresarial, que pede ao enfermeiro auditor adequar custos e otimizar recursos, começa a aglutinar uma perspectiva de qualidade. Os participantes da pesquisa citada mostram posição favorável à mudança de paradigma, com a incorporação da avaliação da qualidade do serviço prestado, das relações de poder, dos recursos humanos, do financiamento, da tecnologia e das ferramentas de gestão. É a passagem da auditoria de contas para a auditoria de cuidados. As demais alternativas invertem o sentido com desalinhar, posição desfavorável, ausência de recursos ou qualidade péssima.",
+  "porAlt": [
+   "Correta: o enfoque passa a aglutinar a qualidade, com posição favorável à mudança e avaliação da qualidade, do poder, das pessoas, do financiamento, da tecnologia e da gestão.",
+   "Errada: o enfoque aglutina, e não desalinha, a perspectiva de qualidade, e a posição é favorável.",
+   "Errada: a avaliação incorpora relações de poder, recursos humanos, financiamento e tecnologia, em vez de excluí-los.",
+   "Errada: a perspectiva é de qualidade, e a posição dos participantes é favorável à mudança.",
+   "Errada: o texto fala em avaliar a qualidade do serviço, não em avaliação de pouca qualidade."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre Auditoria interna, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Praticada por elementos da própria Instituição. Tem como vantagens maior profundidade no trabalho tanto pelo conhecimento da estrutura administrativa como de inovações e expectativas nos serviços.\n( ) A sua vinculação funcional permite sugerir soluções apropriadas. Como desvantagem pode-se citar a dependência administrativa limitando a amplitude das conclusões e/ou recomendações finais do trabalho.\n( ) Pode haver também envolvimento afetivo do auditor com os elementos realizadores do trabalho invalidando-o.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo",
+  "alts": [
+   "V - V - F",
+   "F - V - V",
+   "V - F - V",
+   "V - V - V",
+   "F - F - F"
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "KURCGANT, P. Administração em enfermagem (EPU, 1991), capítulo de auditoria",
+  "coment": "A auditoria interna é feita por pessoas da própria instituição. A vantagem é a profundidade, porque o auditor conhece a estrutura administrativa, as inovações e as expectativas do serviço, e a vinculação funcional permite sugerir soluções apropriadas. As desvantagens são a dependência administrativa, que pode limitar a amplitude das conclusões e recomendações, e o possível envolvimento afetivo do auditor com quem executa o trabalho, que pode invalidá-lo. Os três itens estão corretos. A auditoria externa tem o perfil oposto: independência, mas menor conhecimento do serviço.",
+  "porAlt": [
+   "Errada: o terceiro item também é verdadeiro; o envolvimento afetivo é desvantagem clássica da auditoria interna.",
+   "Errada: o primeiro item é verdadeiro; a auditoria interna é feita por elementos da própria instituição, com mais profundidade.",
+   "Errada: o segundo item é verdadeiro; a vinculação funcional ajuda a sugerir soluções e a dependência administrativa é desvantagem.",
+   "Correta: os três itens descrevem a auditoria interna, com suas vantagens e as desvantagens de dependência e envolvimento afetivo.",
+   "Errada: todos os itens são verdadeiros segundo a descrição clássica da auditoria interna."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A auditoria externa é:",
+  "alts": [
+   "realizada por elementos estranhos a Instituição e por ela consagrados para realizar o exame. Apesar do auditor gosar de independência administrativa e afetiva, os seus interesses estão ligados a outra entidade não estando motivado o suficiente para realizar um trabalho profundo, que apresente sugestões adequadas à solução de problemas existentes",
+   "realizada por elementos estranhos a Instituição e por ela contratados para realizar o exame. Apesar do auditor gosar de dependência administrativa e afetiva, os seus interesses estão desligados a outra entidade não estando motivado o suficiente para realizar um trabalho profundo, que apresente sugestões adequadas à solução de problemas existentes",
+   "realizada por exemplos estranhos a Instituição e por ela contratados para realizar o exame. Apesar do auditor não gostar de independência administrativa e afetiva, os seus interesses estão ligados a outra entidade não estando motivado o suficiente para realizar um trabalho profundo, que apresente sugestões adequadas à solução de problemas existentes",
+   "realizada por elementos estranhos a Instituição e por ela contratos para realizar o exame. Apesar do auditor gosar de independência administrativa e afetiva, os seus desinteresses estão ligados a outra entidade não estando motivado o suficiente para realizar um trabalho profundo, que apresente sugestões adequadas à solução de problemas existentes",
+   "realizada por elementos estranhos a Instituição e por ela contratados para realizar o exame. Apesar do auditor gosar de independência administrativa e afetiva, os seus interesses estão ligados a outra entidade não estando motivado o suficiente para realizar um trabalho profundo, que apresente sugestões adequadas à solução de problemas existentes"
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "KURCGANT, P. Administração em enfermagem (EPU, 1991), capítulo de auditoria",
+  "coment": "A auditoria externa é feita por pessoas de fora da instituição, contratadas por ela para realizar o exame. A vantagem é a independência administrativa e afetiva do auditor. A desvantagem é que os interesses dele estão ligados a outra entidade, e ele pode não estar motivado o suficiente para um trabalho profundo, com sugestões adequadas aos problemas existentes. É o espelho da auditoria interna, que conhece melhor o serviço mas sofre com dependência e envolvimento afetivo. O enunciado e as alternativas trazem erros de digitação do caderno original, como gosar, mantidos como na prova.",
+  "porAlt": [
+   "Errada: o auditor externo é contratado pela instituição, não consagrado por ela.",
+   "Errada: o auditor externo goza de independência, não de dependência, e seus interesses estão ligados a outra entidade.",
+   "Errada: troca elementos por exemplos e nega a independência do auditor externo, que é sua vantagem.",
+   "Errada: troca contratados por contratos e interesses por desinteresses, mudando o sentido.",
+   "Correta: auditoria externa é feita por elementos estranhos contratados, com independência, mas com interesses ligados a outra entidade."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Quanto ao tempo, a auditoria pode ser continua ou periódica. A esse respeito, é correto dizer que:",
+  "alts": [
+   "a contínua avalia em períodos certos, fazendo cobertura integral por exercícios ou períodos. A revisão sempre se inicia a partir da anterior. A auditoria periódica examina também em tempos certos, não se prende porém, a continuidade",
+   "a contínua avalia em períodos incertos, fazendo cobertura integral por exercícios ou períodos. A revisão sempre se inicia a partir da anterior. A auditoria periódica examina também em tempos certos, não se prende porém, a continuidade",
+   "a contínua avalia em períodos certos, fazendo cobertura integral por exercícios ou períodos. A revisão sempre se inicia a partir da posterior. A auditoria periódica examina também em tempos certos, não se prende porém, a continuidade",
+   "a contínua avalia em períodos certos, fazendo cobertura integral por exercícios ou períodos. A revisão sempre se inicia a partir da anterior. A auditoria periódica examina também em tempos incertos, não se prende porém, a continuidade",
+   "a contínua avalia em períodos certos, fazendo cobertura integral por exercícios ou períodos. A revisão sempre se inicia a partir da anterior. A auditoria periódica examina também em tempos certos, se aprende porém, a continuidade"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "KURCGANT, P. Administração em enfermagem (EPU, 1991), capítulo de auditoria",
+  "coment": "Quanto ao tempo, a auditoria contínua avalia em períodos certos e faz cobertura integral por exercícios ou períodos, e cada revisão começa a partir da anterior, o que permite acompanhar a evolução. A auditoria periódica também examina em tempos certos, mas não se prende à continuidade: cada exame é independente do anterior. Quanto ao momento, a auditoria pode ainda ser retrospectiva, após a alta, ou operacional e concorrente, durante a internação. Os distratores trocam certos por incertos, anterior por posterior e não se prende por se aprende.",
+  "porAlt": [
+   "Correta: a contínua avalia em períodos certos e parte da revisão anterior; a periódica examina em tempos certos sem se prender à continuidade.",
+   "Errada: a auditoria contínua avalia em períodos certos, não incertos.",
+   "Errada: a revisão se inicia a partir da anterior, não da posterior.",
+   "Errada: a periódica examina em tempos certos, não incertos.",
+   "Errada: a periódica não se prende à continuidade; se aprende deixa a frase sem sentido."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As limitações principais da auditoria podem ser citadas:\nI. avaliação retrospectiva - a auditoria se realiza após a alta do paciente.\nII. avaliação parcial - a assistência ao paciente é prestada por uma equipe multiprofissional e não apenas pela enfermeira. A auditoria de enfermagem avalia apenas a responsabilidade da enfermagem no cuidado ao paciente. Não permite uma visão global da assistência prestada.\nIII. não tem finalidade punitiva - verifica o cuidado, identifica erros e os analisa. Qualifica a assistência prestada e pode sugerir soluções. As medidas preventivas e corretivas são de responsabilidade administrativa.\nIV. a auditoria não visa a melhoria dos registros - o objetivo principal é melhorar a assistência ao paciente. Embora, a partir dos resultados possam sugerir ações no sentido de melhorar os registros, este não é o seu objetivo.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I e III apenas",
+   "II e IV apenas",
+   "II e III apenas",
+   "I e IV apenas",
+   "I, II, III e IV"
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "KURCGANT, P. Administração em enfermagem (EPU, 1991), capítulo de auditoria",
+  "coment": "Na descrição clássica da auditoria retrospectiva de enfermagem, as quatro limitações estão corretas. É avaliação retrospectiva, feita após a alta, sem corrigir o cuidado daquele paciente. É parcial, porque avalia só a responsabilidade da enfermagem num cuidado multiprofissional. Não tem finalidade punitiva: identifica e analisa erros e sugere soluções, mas as medidas preventivas e corretivas cabem à administração. E não visa à melhoria dos registros, embora possa sugeri-la, porque o objetivo é a assistência. A auditoria concorrente, feita durante a internação, contorna a primeira limitação.",
+  "porAlt": [
+   "Errada: os itens II e IV também são limitações descritas, a avaliação parcial e o objetivo que não é o registro.",
+   "Errada: os itens I e III também estão corretos, a avaliação retrospectiva e a ausência de finalidade punitiva.",
+   "Errada: o item I, avaliação após a alta, é a limitação mais citada da auditoria retrospectiva.",
+   "Errada: os itens II e III também descrevem limitações da auditoria de enfermagem.",
+   "Correta: avaliação retrospectiva, parcial, sem finalidade punitiva e sem visar aos registros são as quatro limitações descritas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Entre as dificuldades de ordem administrativa estão:\nI. dificuldade na mensuração dos dados.\nII. existência de fatores imponderáveis.\nIII. parâmetros não correspondentes à realidade local.\nIV. valores referentes ao hospital e não a cada clínica.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I, II, III e IV",
+   "I e IV apenas",
+   "II e IV apenas",
+   "I e III apenas",
+   "II e III apenas"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "KURCGANT, P. Administração em enfermagem (EPU, 1991), capítulo de auditoria",
+  "coment": "As dificuldades de ordem administrativa na auditoria de enfermagem incluem os quatro itens: dificuldade na mensuração dos dados, porque nem todo cuidado se traduz em número; existência de fatores imponderáveis, que fogem ao controle e à previsão; parâmetros que não correspondem à realidade local, quando se importam padrões de outros serviços; e valores referentes ao hospital como um todo e não a cada clínica, o que esconde diferenças entre unidades. Por isso a auditoria precisa de indicadores e padrões construídos para o serviço e para cada setor.",
+  "porAlt": [
+   "Correta: mensuração difícil, fatores imponderáveis, parâmetros alheios à realidade local e valores do hospital e não da clínica são as quatro dificuldades.",
+   "Errada: os itens II e III também são dificuldades administrativas descritas.",
+   "Errada: os itens I e III também estão corretos.",
+   "Errada: os itens II e IV também estão corretos.",
+   "Errada: os itens I e IV também estão corretos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Auditoria e Pesquisa",
+   "n": 59,
+   "parte": "especificas"
+  }
+ }
+]

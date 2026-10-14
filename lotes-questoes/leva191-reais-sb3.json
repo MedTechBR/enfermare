@@ -1,0 +1,1282 @@
+[
+ {
+  "q": "Conforme normatização vigente do SUS, é definida a organização de Redes de Atenção à Saúde (RAS) como estratégia para um cuidado integral e direcionado às necessidades de saúde da população. As RAS constituem-se em arranjos organizativos formados por ações e serviços de saúde com diferentes configurações tecnológicas e missões assistenciais, articulados de forma complementar e com base territorial, e têm diversos atributos, entre eles, destaca-se: a atenção básica estruturada como primeiro ponto de atenção e principal porta de entrada do sistema, constituída de equipe multidisciplinar que cobre toda a população, integrando, coordenando o cuidado e atendendo às suas necessidades de saúde.\nMarque a opção que define a função ‘ordenar as redes’ para contribuir com o funcionamento das Redes de Atenção à Saúde.",
+  "alts": [
+   "Ser a modalidade de atenção e de serviço de saúde com o mais elevado grau de descentralização e capilaridade, cuja participação no cuidado se faz sempre necessária;",
+   "Identificar riscos, necessidades e demandas de saúde, utilizando e articulando diferentes tecnologias de cuidado individual e coletivo, por meio de uma clínica ampliada capaz de construir vínculos positivos e intervenções clínica e sanitariamente efetivas, na perspectiva de ampliação dos graus de autonomia dos indivíduos e grupos sociais;",
+   "Elaborar, acompanhar e gerir projetos terapêuticos singulares, bem como acompanhar e organizar o fluxo dos usuários entre os pontos de atenção das RAS;",
+   "Reconhecer as necessidades de saúde da população sob sua responsabilidade, organizando-as em relação aos outros pontos de atenção, contribuindo para que a programação dos serviços de saúde parta das necessidades de saúde dos usuários;",
+   "Atuar como o centro de comunicação entre os diversos pontos de atenção, responsabilizando-se pelo cuidado dos usuários por meio de uma relação horizontal, contínua e integrada, com o objetivo de produzir a gestão compartilhada da atenção integral."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), funções da Atenção Básica nas RAS; Portaria GM/MS 4.279/2010",
+  "coment": "A PNAB (Portaria 2.436/2017) lista quatro funções da Atenção Básica para o funcionamento das RAS: ser base, ser resolutiva, coordenar o cuidado e ordenar as redes. Ordenar as redes é reconhecer as necessidades de saúde da população sob sua responsabilidade e organizá-las em relação aos outros pontos de atenção, para que a programação dos serviços parta das necessidades dos usuários. As demais alternativas copiam as outras funções: o maior grau de descentralização e capilaridade é ser base; a clínica ampliada que identifica riscos é ser resolutiva; o projeto terapêutico singular, o fluxo entre pontos e o centro de comunicação são coordenar o cuidado.",
+  "porAlt": [
+   "Descreve a função ser base: a modalidade de maior descentralização e capilaridade, não a de ordenar as redes.",
+   "Descreve a função ser resolutiva, que identifica riscos e demandas com clínica ampliada e vínculo.",
+   "Descreve a função coordenar o cuidado, que gere projetos terapêuticos e o fluxo entre os pontos das RAS.",
+   "Correta: ordenar as redes é reconhecer as necessidades da população e organizá-las em relação aos outros pontos de atenção.",
+   "Também é coordenar o cuidado: a PNAB põe ali a Atenção Básica como centro de comunicação entre os pontos de atenção."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura de Ouro Preto do Oeste-RO 2024, Enfermeiro",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "É amplamente sabido que a escolha e a organização dos métodos de desinfecção e esterilização deve ser baseada em recomendações de cunho científico e reconhecidas a nível nacional e internacional. Para adequada escolha nos processos de utilização e tratamento dos materiais, estes devem ser divididos nas categorias crítico, semi crítico e não críticos. Materiais críticos são aqueles que entram em contato com tecidos cruentos, materiais semicríticos são os que entram em contato com mucosas e materiais não críticos aqueles que só entram em contato com pele íntegra. De uma forma geral, durante os processos de tratamento, os materiais críticos deveriam ser esterilizados ou de uso único (descartáveis), os materiais semicríticos deveriam sofrer esterilização ou no mínimo desinfecção e os materiais não críticos deveriam ser desinfetados ou no mínimo limpos. A periodicidade dos processos de limpeza, desinfecção e esterilização dos materiais deveria ser sempre entre o uso em diferentes pacientes.\nIndique a opção que descreve corretamente o processo de antissepsia.",
+  "alts": [
+   "Destruição de todos os microrganismos, inclusive esporulados, através de processo químico ou físico;",
+   "Eliminação de microrganismos, exceto esporulados, de materiais ou artigos inanimados, através de processo físico ou químico, com auxílio de desinfetantes;",
+   "Métodos empregados para impedir a contaminação de determinado material ou superfície;",
+   "Eliminação parcial ou total de microrganismos de materiais ou superfícies inanimadas;",
+   "Eliminação de microrganismos da pele, mucosa ou tecidos vivos, com auxílio de antissépticos, substâncias microbicidas ou microbiostáticas."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Higiene das mãos",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "RDC ANVISA 42/2010 (higiene das mãos e antissepsia) e RDC ANVISA 15/2012 (definições de processamento)",
+  "coment": "Antissepsia é a eliminação ou redução de microrganismos da pele, das mucosas ou de tecidos vivos com antissépticos, substâncias microbicidas ou microbiostáticas. O que distingue o termo é o alvo: tecido vivo. Quando o alvo é artigo ou superfície inanimada, fala-se em desinfecção ou esterilização. A RDC 15/2012 define a esterilização como destruição de todas as formas de vida microbiana, inclusive esporos, e a desinfecção de alto nível como a que destrói a maioria dos microrganismos, exceto número elevado de esporos. A RDC 42/2010 inclui a antissepsia cirúrgica das mãos entre as formas de higiene das mãos.",
+  "porAlt": [
+   "Define esterilização, que destrói todas as formas microbianas, inclusive esporos, em artigos e não em tecido vivo.",
+   "Define desinfecção de artigos inanimados com desinfetantes, que não atinge esporos e não se aplica à pele.",
+   "Define assepsia, o conjunto de métodos para impedir a contaminação de um material ou superfície.",
+   "Descreve descontaminação ou desinfecção de superfícies inanimadas, e não o tratamento de tecido vivo.",
+   "Correta: antissepsia elimina ou reduz microrganismos da pele, mucosa ou tecido vivo com antissépticos."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura de Ouro Preto do Oeste-RO 2024, Enfermeiro",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na Resolução COFEN nº 358/2009 – revogada pela resolução COFEN nº 736/2024 é abordado que o processo de enfermagem se organiza em cinco etapas inter-relacionadas, interdependentes e recorrentes.\nIdentifique a alternativa que define a etapa de coleta de dados de enfermagem (ou histórico de enfermagem).",
+  "alts": [
+   "processo de interpretação e agrupamento dos dados coletados na primeira etapa, que culmina com a tomada de decisão sobre os conceitos diagnósticos de enfermagem que representam, com mais exatidão, as respostas da pessoa, família ou coletividade humana em um dado momento do processo saúde e doença; e que constituem a base para a seleção das ações ou intervenções com as quais se objetiva alcançar os resultados esperados;",
+   "realização das ações ou intervenções determinadas na etapa de Planejamento de Enfermagem;",
+   "processo deliberado, sistemático e contínuo de verificação de mudanças nas respostas da pessoa, família ou coletividade humana em um dado momento do processo saúde doença, para determinar se as ações ou intervenções de enfermagem alcançaram o resultado esperado; e de verificação da necessidade de mudanças ou adaptações nas etapas do Processo de Enfermagem;",
+   "processo deliberado, sistemático e contínuo, realizado com o auxílio de métodos e técnicas variadas, que tem por finalidade a obtenção de informações sobre a pessoa, família ou coletividade humana e sobre suas respostas em um dado momento do processo saúde e doença;",
+   "determinação dos resultados que se espera alcançar e das ações ou intervenções de enfermagem que serão realizadas face às respostas da pessoa, família ou coletividade humana em um dado momento do processo saúde e doença, identificadas na etapa de Diagnóstico de Enfermagem."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, que revogou a Resolução COFEN 358/2009",
+  "coment": "A alternativa correta reproduz a definição da Coleta de dados (Histórico) da Res. COFEN 358/2009: processo deliberado, sistemático e contínuo, com métodos e técnicas variadas, para obter informações sobre a pessoa, família ou coletividade. A própria questão avisa que a 358 foi revogada. Na Res. COFEN 736/2024, vigente, a primeira etapa passou a se chamar Avaliação de Enfermagem: entrevista e exame físico, iniciais e contínuos, com auxílio de exames, testes, escalas validadas e protocolos. A última etapa, que era Avaliação, virou Evolução de Enfermagem. As outras alternativas definem Diagnóstico, Implementação, Avaliação (hoje Evolução) e Planejamento.",
+  "porAlt": [
+   "Define o Diagnóstico de Enfermagem, interpretação e agrupamento dos dados da primeira etapa.",
+   "Define a Implementação, execução das ações determinadas no Planejamento.",
+   "Define a antiga Avaliação de Enfermagem da 358, que na Res. 736/2024 se chama Evolução de Enfermagem.",
+   "Correta: é a definição da Coleta de dados da 358/2009, hoje chamada Avaliação de Enfermagem pela 736/2024.",
+   "Define o Planejamento, que determina resultados esperados e intervenções a partir do diagnóstico."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura de Ouro Preto do Oeste-RO 2024, Enfermeiro",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Código de Ética da Enfermagem, são consideradas circunstâncias agravantes relacionadas a infrações e penalidades, EXCETO:",
+  "alts": [
+   "ser reincidente na prática de infrações éticas.",
+   "causar danos irreparáveis ao paciente ou à instituição.",
+   "cometer a infração de forma dolosa, intencional.",
+   "aproveitar-se da fragilidade ou vulnerabilidade da vítima.",
+   "realizar atos sob coação, intimidação ou grave ameaça."
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), arts. 112 e 113",
+  "coment": "O Código de Ética (Res. COFEN 564/2017) separa atenuantes (art. 112) de agravantes (art. 113). São agravantes a reincidência, causar danos irreparáveis, cometer a infração dolosamente, aproveitar-se da fragilidade da vítima, motivo fútil ou torpe, facilitar ou ocultar outra infração, abuso de autoridade, maus antecedentes e alterar ou falsificar prova. Realizar o ato sob coação, intimidação ou grave ameaça está no art. 112, entre as atenuantes, ao lado de ter bons antecedentes, confessar espontaneamente e tentar logo evitar ou reduzir as consequências.",
+  "porAlt": [
+   "Reincidência é agravante, listada no art. 113 do Código de Ética.",
+   "Causar danos irreparáveis é agravante do art. 113.",
+   "Cometer a infração dolosamente é agravante do art. 113.",
+   "Aproveitar-se da fragilidade da vítima é agravante do art. 113.",
+   "Correta: agir sob coação, intimidação ou grave ameaça é atenuante (art. 112), não agravante."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2025,
+   "prova": "Prefeitura de Rolim de Moura-RO 2025, Enfermeiro",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A adolescente, B. S. A., de 16 anos, chega à Unidade de Saúde apresentando saturação de oxigênio 94% devido à crise asmática. Após atendimento médico, foi prescrito 400 mg de hidrocortisona. Na unidade temos frascos de 500 mg que podem ser diluídos em 5 ml.\nQuantos ml serão administrados?",
+  "alts": [
+   "2,0 ml.",
+   "4,0 ml.",
+   "3,0 ml.",
+   "3,5 ml.",
+   "5,0 ml."
+  ],
+  "gab": 1,
+  "tema": "farmaco",
+  "sub": "Cálculo de dose e diluição",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017, art. 45 (assistência livre de danos); cálculo pela concentração reconstituída, 500 mg em 5 mL = 100 mg/mL",
+  "coment": "O frasco tem 500 mg diluídos em 5 mL, ou seja, 100 mg por mL. Para 400 mg: 500 mg está para 5 mL assim como 400 mg está para x; x = (400 × 5) ÷ 500 = 4 mL. Confira pela concentração: 4 mL × 100 mg/mL = 400 mg. Antes de aspirar, o enfermeiro confere a prescrição, o diluente indicado pelo fabricante e a via, e registra a sobra desprezada. A saturação de 94% do enunciado é contexto; não muda o cálculo.",
+  "porAlt": [
+   "2 mL contêm só 200 mg na concentração de 100 mg/mL, metade da dose prescrita.",
+   "Correta: 400 mg ÷ 100 mg/mL = 4 mL.",
+   "3 mL contêm 300 mg, abaixo dos 400 mg prescritos.",
+   "3,5 mL contêm 350 mg, abaixo da dose prescrita.",
+   "5 mL é o frasco inteiro, com 500 mg, acima da dose prescrita."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2025,
+   "prova": "Prefeitura de Rolim de Moura-RO 2025, Enfermeiro",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A cirurgia que visa compensar os distúrbios para melhorar as condições do paciente ou aliviar sua dor, contribuindo para a melhoria da sua qualidade de vida, é classificada como:",
+  "alts": [
+   "paliativa.",
+   "radical.",
+   "diagnóstica.",
+   "curativa.",
+   "exploratória."
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Classificação das cirurgias quanto à finalidade (SOBECC, Diretrizes de práticas em enfermagem perioperatória, 8ª ed., 2021)",
+  "coment": "Quanto à finalidade, a cirurgia pode ser diagnóstica, curativa, reparadora, reconstrutora ou estética e paliativa. A paliativa não remove a causa da doença: compensa distúrbios, alivia dor ou sintoma e melhora a qualidade de vida, como a gastrostomia na obstrução por tumor irressecável ou a colostomia descompressiva. A curativa retira a causa, como a apendicectomia. A diagnóstica e a exploratória servem para confirmar ou esclarecer o diagnóstico, como biópsia ou laparotomia exploradora. Radical descreve a extensão da ressecção, não a finalidade de alívio.",
+  "porAlt": [
+   "Correta: a cirurgia paliativa compensa distúrbios e alivia sintomas sem curar a doença de base.",
+   "Radical se refere à ressecção ampla do órgão e dos tecidos vizinhos, geralmente com intenção curativa.",
+   "A diagnóstica busca confirmar ou esclarecer o diagnóstico, como a biópsia.",
+   "A curativa remove a causa da doença, como na apendicectomia.",
+   "A exploratória investiga a cavidade para definir o diagnóstico, não alivia sintomas."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2025,
+   "prova": "Prefeitura de Rolim de Moura-RO 2025, Enfermeiro",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No tratamento das intoxicações agudas, a lavagem gástrica é indicada em quais casos abaixo descritos?",
+  "alts": [
+   "Intoxicação por substâncias corrosivas como álcalis ou ácidos fortes.",
+   "Pacientes com depressão do nível de consciência sem via aérea protegida.",
+   "Ingestão recente, geralmente <1-2 horas de substância tóxica potencialmente letal.",
+   "Intoxicação por hidrocarbonetos voláteis como gasolina ou querosene.",
+   "Todos os casos de overdose medicamentosa, independente do tempo decorrido."
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Intoxicações e acidentes",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Position paper AACT/EAPCCT sobre lavagem gástrica (revisão 2013); SBTox 2025 (descontaminação gastrointestinal)",
+  "coment": "A lavagem gástrica não é rotina: o position paper das sociedades americana e europeia de toxicologia clínica (revisão de 2013) só a admite na ingestão recente, em geral até 1 hora, de quantidade potencialmente letal, quando o benefício supera o risco e sempre com via aérea protegida. A alternativa C traz esse critério de tempo e gravidade. Corrosivos e hidrocarbonetos contraindicam a lavagem pelo risco de perfuração e de pneumonite aspirativa, e o rebaixamento de consciência sem via aérea protegida também. O carvão ativado, nas mesmas condições, costuma ser preferido.",
+  "porAlt": [
+   "Corrosivos contraindicam a lavagem, pelo risco de nova lesão esofágica e de perfuração.",
+   "Rebaixamento sem via aérea protegida contraindica a lavagem, pelo risco de aspiração.",
+   "Correta: a lavagem só cabe na ingestão recente, em geral até 1 a 2 horas, de substância potencialmente letal.",
+   "Hidrocarbonetos voláteis contraindicam a lavagem, pelo risco de pneumonite química por aspiração.",
+   "Não há indicação universal: depois de algumas horas e em ingestões de baixo risco a lavagem não traz benefício."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2025,
+   "prova": "Prefeitura de Rolim de Moura-RO 2025, Enfermeiro",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Caracteriza-se pela integridade do ovo, com útero compatível com a idade da gravidez e colo impérvio. Há presença de sangramento vaginal discreto ou moderado, sem que ocorra modificação cervical, geralmente com dor do tipo cólica.\nEsta definição está relacionada a:",
+  "alts": [
+   "aborto evitável.",
+   "aborto completo.",
+   "aborto incompleto.",
+   "aborto retido.",
+   "aborto séptico."
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Manual de Gestação de Alto Risco, 2022 (abortamento)",
+  "coment": "O quadro de sangramento discreto ou moderado com cólica, colo impérvio (fechado), útero compatível com a idade gestacional e ovo íntegro é a ameaça de aborto, também chamada aborto evitável. A gestação pode prosseguir, e a conduta é expectante, com orientação e ultrassonografia para confirmar vitalidade. No aborto incompleto o colo está aberto e há restos; no completo o útero está vazio e o sangramento diminui; no retido o embrião está sem vitalidade, com colo fechado e útero menor que o esperado; no séptico há febre e sinais de infecção.",
+  "porAlt": [
+   "Correta: colo impérvio, útero compatível e ovo íntegro com sangramento e cólica definem a ameaça de aborto.",
+   "No aborto completo o útero já expulsou o conteúdo e está menor do que o esperado para a idade gestacional.",
+   "No aborto incompleto o colo está pérvio e há restos ovulares na cavidade.",
+   "No aborto retido há morte do concepto sem expulsão, em geral com útero menor que a idade gestacional.",
+   "No aborto séptico há infecção, com febre, dor e secreção fétida, o que não aparece no enunciado."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2025,
+   "prova": "Prefeitura de Rolim de Moura-RO 2025, Enfermeiro",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A vacinação em gestantes deve-se iniciar o mais precocemente possível. As vacinas indicadas para as gestantes são:",
+  "alts": [
+   "tríplice viral, hepatite B e influenza.",
+   "febre amarela, dT / dTpa, tríplice viral.",
+   "tríplice viral, dT / dTpa e meningocócica.",
+   "dT / dTpa, hepatite B e influenza.",
+   "hepatite B, pneumocócica e tríplice viral."
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), calendário da gestante",
+  "coment": "As vacinas do calendário da gestante são não vivas: dT/dTpa (a dTpa a partir de 20 semanas em cada gestação), hepatite B conforme histórico e influenza. A IN do Calendário 2026 acrescentou a VSR recombinante, dose única a partir de 28 semanas em cada gestação, e mantém a covid-19 para gestantes, o que não muda o gabarito. Tríplice viral, varicela, HPV, dengue e BCG são contraindicadas na gestação. A febre amarela só se aplica quando não dá para adiar, em área com circulação confirmada, e as meningocócicas e a pneumocócica não são rotina da gestante.",
+  "porAlt": [
+   "A tríplice viral é atenuada e contraindicada na gestação.",
+   "Febre amarela e tríplice viral são atenuadas; a primeira só em situação excepcional e a segunda é contraindicada.",
+   "A tríplice viral é contraindicada, e a meningocócica não é rotina da gestante.",
+   "Correta: dT/dTpa, hepatite B e influenza são do calendário da gestante; hoje somam-se VSR e covid-19.",
+   "A pneumocócica não é rotina da gestante, e a tríplice viral é contraindicada."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2025,
+   "prova": "Prefeitura de Rolim de Moura-RO 2025, Enfermeiro",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No puerpério não é necessário aguardar que a mulher volte a menstruar para que inicie o uso de um método contraceptivo. As indicações para o uso do método variam de acordo com o fato da mulher estar ou não amamentando e o tempo decorrido após o parto.\nSobre a contracepção no puerpério, analise as afirmativas e assinale a alternativa correta.",
+  "alts": [
+   "a associação amenorreia e lactação exclusiva com livre demanda tem baixa eficácia como método contraceptivo nos primeiros três meses após o parto, ou até que apareça a primeira menstruação pós-parto, o que ocorrer primeiro.",
+   "a mulher que passa da amamentação exclusiva para a parcial deve iniciar o uso de outro método, se o parto tiver ocorrido há mais de 15 dias, pois nessa circunstância aumenta o risco de gravidez.",
+   "a mulher que está amamentando e necessita, ou deseja, proteção adicional para prevenir a gravidez, deve primeiro considerar o método comportamental, como temperatura e Billings.",
+   "o DIU pode ser opção para a mulher na fase de amamentação e pode ser inserido imediatamente após o parto.",
+   "O anticoncepcional oral combinado deve ser utilizado em lactentes, pois aumenta a qualidade e quantidade do leite materno."
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Planejamento reprodutivo",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Caderno de Atenção Básica 32 (Atenção ao pré-natal de baixo risco), 2012, anticoncepção no puerpério; OMS, Critérios médicos de elegibilidade, 5ª ed., 2015",
+  "coment": "O DIU de cobre não interfere na lactação e pode ser inserido no pós-parto imediato, até 48 horas, ou a partir de 4 semanas; por isso é opção na amamentação. A lactação com amenorreia (LAM) tem alta eficácia, não baixa, enquanto coexistem amamentação exclusiva em livre demanda, amenorreia e bebê com menos de 6 meses; quando a amamentação deixa de ser exclusiva, a LAM perde a proteção e outro método deve começar. Na lactante que quer proteção adicional, o manual orienta considerar primeiro métodos não hormonais, como DIU e barreira; os comportamentais são pouco confiáveis no puerpério. O combinado com estrogênio reduz a produção de leite e é evitado nos primeiros 6 meses.",
+  "porAlt": [
+   "A LAM tem alta eficácia, e não baixa, enquanto há amamentação exclusiva, amenorreia e bebê menor de 6 meses.",
+   "Erra o critério: a LAM perde a proteção quando a amamentação deixa de ser exclusiva, e a alternativa amarra a troca a um prazo de 15 dias.",
+   "Na lactante, o manual orienta primeiro métodos não hormonais como DIU e barreira; temperatura e Billings são pouco confiáveis no puerpério.",
+   "Correta: o DIU não afeta a lactação e pode ser inserido logo após o parto, até 48 horas.",
+   "O combinado com estrogênio reduz a quantidade de leite e é evitado na lactante nos primeiros 6 meses."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2025,
+   "prova": "Prefeitura de Rolim de Moura-RO 2025, Enfermeiro",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os métodos contraceptivos têm a função de proteger homens e mulheres das Infecções Sexualmente Transmissíveis (IST), bem como evitar uma gravidez indesejada. Associe as colunas A e B, respectivamente, relacionando os métodos contraceptivos.\nCOLUNA A\n1. Método comportamental.\n2. Método de Barreira.\n3. Método do dispositivo intrauterino.\n4. Método Hormonal.\n5. Método Definitivo.\nCOLUNA B\n( ) DIU.\n( ) diafragma, espermaticida e preservativos.\n( ) pílulas e injeções.\n( ) billings, ogino Knaus e temperatura.\n( ) Laqueadura e vasectomia.\nAssinale a alternativa correta.",
+  "alts": [
+   "2 – 5 – 4 – 1 – 3",
+   "5 – 4 – 1 – 3 – 2",
+   "1 – 5 – 3 – 4 – 2",
+   "4 – 2 – 3 – 1 – 5",
+   "3 – 2 – 4 – 1 – 5"
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Planejamento reprodutivo",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Caderno de Atenção Básica 26 (Saúde sexual e saúde reprodutiva), 2013",
+  "coment": "A associação segue a classificação dos métodos do Caderno de Atenção Básica 26. DIU é o método intrauterino (3). Diafragma, espermicida e preservativos são métodos de barreira (2). Pílulas e injetáveis são hormonais (4). Billings (muco cervical), Ogino-Knaus (tabelinha) e temperatura basal são comportamentais, baseados na percepção da fertilidade (1). Laqueadura e vasectomia são definitivos, a esterilização cirúrgica (5). A sequência é 3, 2, 4, 1, 5. Só o preservativo, entre eles, protege contra IST, o que vale lembrar diante do enunciado, que atribui essa função a todos os métodos.",
+  "porAlt": [
+   "Começa chamando o DIU de barreira, e ele é método intrauterino.",
+   "Chama o DIU de definitivo e o diafragma de hormonal, sem correspondência com a classificação.",
+   "Chama o DIU de comportamental e os preservativos de definitivos.",
+   "Chama o DIU de hormonal; o DIU de cobre é intrauterino e não hormonal.",
+   "Correta: DIU intrauterino (3), barreira (2), hormonal (4), comportamental (1) e definitivo (5)."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2025,
+   "prova": "Prefeitura de Rolim de Moura-RO 2025, Enfermeiro",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o calendário nacional vigente de vacinação do Ministério da Saúde, qual é a faixa etária recomendada para a realização da vacina HPV?",
+  "alts": [
+   "08 a 13 anos para meninas e meninos.",
+   "08 a 14 anos para meninas.",
+   "08 a 13 anos para meninos.",
+   "09 a 14 anos para meninas e meninos.",
+   "09 a 16 anos para meninas e meninos."
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), vacina HPV4",
+  "coment": "Pelo calendário vigente, a HPV4 é dada a meninas e meninos de 9 a 14 anos (até 14 anos, 11 meses e 29 dias), em dose única desde a adoção do esquema de uma dose em 2024. A IN do Calendário 2026 mantém essa faixa e acrescenta o resgate em dose única de 15 a 19 anos para quem não tem histórico vacinal. Esquemas de 3 doses ficaram para a estratégia especial, como imunodeprimidos de 9 a 45 anos e usuários de PrEP. Nenhuma faixa começa aos 8 anos, e o calendário não separa meninas e meninos.",
+  "porAlt": [
+   "A faixa da rotina começa aos 9 anos e vai até 14, não de 8 a 13.",
+   "O calendário inclui meninos e começa aos 9 anos, não aos 8.",
+   "Exclui as meninas e erra os limites; a faixa é de 9 a 14 anos para os dois sexos.",
+   "Correta: a HPV4 é para meninas e meninos de 9 a 14 anos, hoje em dose única.",
+   "A rotina termina aos 14 anos; de 15 a 19 há só o resgate, não a faixa de rotina."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2025,
+   "prova": "Prefeitura de Rolim de Moura-RO 2025, Enfermeiro",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O manual de rede de frio do Programa Nacional de Imunização (2017) estabelece que os imunobiológicos devem ser armazenados nas centrais em câmaras frias positivas e negativas nas temperaturas, respectivamente, a:",
+  "alts": [
+   "+4ºC a +8ºC e -25ºC a -15ºC.",
+   "+2ºC a +8ºC e -25ºC a -15ºC.",
+   "+6ºC a +12ºC e -30ºC a -15ºC.",
+   "+2ºC a +8ºC e -15ºC a -05ºC.",
+   "+4ºC a +8ºC e -35ºC a -25ºC."
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Rede de frio e conservação",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Manual de Rede de Frio do Programa Nacional de Imunizações, 5ª ed., 2017",
+  "coment": "O Manual de Rede de Frio do PNI (5ª edição, 2017) descreve as câmaras frias das centrais de armazenamento: as positivas mantêm os imunobiológicos entre +2 °C e +8 °C, a mesma faixa da câmara refrigerada da sala de vacina; as negativas trabalham entre -25 °C e -15 °C, usadas para produtos que toleram congelamento e para bobinas reutilizáveis. Na sala de vacina, temperatura abaixo de +2 °C pode inutilizar de forma permanente as vacinas adsorvidas em alumínio, e calor reduz a potência.",
+  "porAlt": [
+   "A faixa positiva começa em +2 °C, não em +4 °C.",
+   "Correta: câmaras positivas de +2 °C a +8 °C e negativas de -25 °C a -15 °C.",
+   "Nenhuma faixa vai a +12 °C; acima de +8 °C já há excursão de temperatura.",
+   "A positiva está certa, mas a negativa vai de -25 °C a -15 °C, e não até -5 °C.",
+   "Erra as duas faixas: a positiva começa em +2 °C e a negativa vai de -25 °C a -15 °C."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2025,
+   "prova": "Prefeitura de Rolim de Moura-RO 2025, Enfermeiro",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As principais manifestações clínicas das ISTs são: corrimento vaginal, corrimento uretral, úlceras genitais e verrugas anogenitais. Embora possam sofrer variações, essas manifestações têm etiologias bem estabelecidas, o que facilita a escolha e a realização dos testes para o diagnóstico e tratamento. Correlacione as principais síndromes em IST e sua manifestação clínica.\n1. ÚLCERA ANOGENITAL.\n2. CORRIMENTO URETRAL/VAGINAL.\n3. VERRUGA ANOGENITAL.\n( ) Cancróide.\n( ) Herpes genital.\n( ) Sífilis.\n( ) Gonorreia.\n( ) Condiloma Acuminado.\n( ) Tricomoníase.\nAssinale a alternativa correta.",
+  "alts": [
+   "3 – 2 – 1 – 1 – 2 – 3",
+   "2 – 1 – 1 – 2 – 3 – 2",
+   "1 – 2 – 2 – 1 – 3 – 2",
+   "1 – 1 – 1 – 2 – 3 – 2",
+   "2 – 2 – 2 – 1 – 3 – 1"
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, PCDT para Atenção Integral às Pessoas com IST, 2022",
+  "coment": "O PCDT-IST de 2022 organiza a abordagem por síndromes. Cancroide, herpes genital e sífilis primária causam úlcera anogenital (1); gonorreia e tricomoníase causam corrimento, uretral ou vaginal (2); o condiloma acuminado, pelo HPV, é a verruga anogenital (3). A sequência é 1, 1, 1, 2, 3, 2. Na úlcera sem vesículas, trata-se sífilis e cancroide; com vesículas, herpes. No corrimento uretral, gonorreia e clamídia; na tricomoníase, a parceria também é tratada.",
+  "porAlt": [
+   "Classifica o cancroide como verruga e a sífilis como úlcera ao lado de gonorreia, invertendo síndromes.",
+   "Coloca o cancroide como corrimento; cancroide é úlcera genital dolorosa.",
+   "Coloca herpes e sífilis como corrimento; as duas são úlceras anogenitais.",
+   "Correta: cancroide, herpes e sífilis são úlceras (1); gonorreia corrimento (2); condiloma verruga (3); tricomoníase corrimento (2).",
+   "Coloca cancroide, herpes e sífilis como corrimento e tricomoníase como úlcera."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2025,
+   "prova": "Prefeitura de Rolim de Moura-RO 2025, Enfermeiro",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente do sexo feminino chega para consulta obstétrica acompanhada de seu cônjuge.\nSobre esse direito previsto no Art. 19-J da Lei 8080, analise as afirmativas e assinale a alternativa correta.",
+  "alts": [
+   "É necessário preenchimento de formulário de consentimento com 24 horas de antecedência para permitir o acompanhante.",
+   "O acompanhante pode ser impedido caso interfira no trabalho da equipe médica, a critério do profissional.",
+   "A paciente tem direito a acompanhante maior de idade durante todo o atendimento, inclusive em consultas e exames íntimos.",
+   "O direito é válido apenas para partos, não se aplicando a consultas de rotina ou exames diagnósticos.",
+   "O acompanhante só é permitido em casos de gestação de alto risco, mediante autorização médica."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 19-J, redação da Lei 14.737/2023",
+  "coment": "O art. 19-J da Lei 8.080/1990, reescrito pela Lei 14.737/2023, garante a toda mulher o direito a acompanhante maior de idade durante todo o período de atendimento em consultas, exames e procedimentos em serviços públicos ou privados, sem necessidade de aviso prévio. Antes ele tratava só do acompanhante da parturiente no trabalho de parto, parto e pós-parto imediato. Os 24 horas de antecedência que aparecem na lei referem-se à renúncia por escrito ao acompanhante em procedimento com sedação, não à autorização para tê-lo.",
+  "porAlt": [
+   "A lei dispensa aviso prévio; o prazo de 24 horas vale para a renúncia escrita em sedação, não para permitir o acompanhante.",
+   "O direito não fica a critério do profissional; a lei não autoriza impedi-lo por conveniência da equipe.",
+   "Correta: a mulher tem direito a acompanhante maior de idade em todo o atendimento, inclusive consultas e exames.",
+   "Desde a Lei 14.737/2023 o direito vale para consultas, exames e procedimentos, não só para o parto.",
+   "O direito independe de risco gestacional e de autorização médica."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2025,
+   "prova": "Prefeitura de Rolim de Moura-RO 2025, Enfermeiro",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta corretamente todas as categorias profissionais mínimas necessárias para que uma equipe de uma Unidade Básica de Saúde seja considerada uma Equipe de Saúde da Família (ESF).",
+  "alts": [
+   "médico, psicólogo, auxiliar e/ou técnico de enfermagem, agente comunitário de saúde.",
+   "médico, enfermeiro, auxiliar e/ou técnico de enfermagem, agente de combate às endemias.",
+   "médico, enfermeiro, cirurgião-dentista, agente comunitário de saúde.",
+   "médico, farmacêutico, auxiliar e/ou técnico de enfermagem, agente comunitário de saúde.",
+   "médico, enfermeiro, auxiliar e/ou técnico de enfermagem, agente comunitário de saúde."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), composição da equipe de Saúde da Família",
+  "coment": "A PNAB (Portaria 2.436/2017) define a composição mínima da equipe de Saúde da Família: médico, preferencialmente especialista em Medicina de Família e Comunidade; enfermeiro, preferencialmente especialista em Saúde da Família; auxiliar e/ou técnico de enfermagem; e agente comunitário de saúde. O agente de combate às endemias e os profissionais de saúde bucal (cirurgião-dentista e auxiliar ou técnico em saúde bucal) podem integrar a equipe, mas não são obrigatórios. Psicólogo e farmacêutico atuam pelas equipes eMulti (Portaria GM/MS 635/2023), que substituíram o NASF.",
+  "porAlt": [
+   "Troca o enfermeiro pelo psicólogo, que não integra a composição mínima da eSF.",
+   "Troca o ACS pelo agente de combate às endemias, que pode compor a equipe mas não é obrigatório.",
+   "O cirurgião-dentista compõe a equipe de saúde bucal e não é mínimo, e falta o técnico ou auxiliar de enfermagem.",
+   "Troca o enfermeiro pelo farmacêutico, que atua nas equipes eMulti, não na composição mínima.",
+   "Correta: médico, enfermeiro, auxiliar ou técnico de enfermagem e agente comunitário de saúde."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2025,
+   "prova": "Prefeitura de Rolim de Moura-RO 2025, Enfermeiro",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Enfermeiro exerce todas as atividades de enfermagem, cabendo-lhe privativamente:",
+  "alts": [
+   "prescrição de medicamentos estabelecidos em programas de saúde pública e em rotina aprovada pela instituição de saúde.",
+   "prevenção e controle sistemático da infecção hospitalar e de doenças transmissíveis em geral.",
+   "consultoria, auditoria e emissão de parecer sobre matéria de enfermagem.",
+   "assistência de enfermagem à gestante, parturiente e puérpera.",
+   "participação em projetos de construção ou reforma de unidades de internação."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 7.498/1986, art. 11, I, h, e II; Decreto 94.406/1987, art. 8º",
+  "coment": "O art. 11 da Lei 7.498/1986 começa dizendo que o enfermeiro exerce todas as atividades de enfermagem e separa o que é privativo (inciso I) do que faz como integrante da equipe de saúde (inciso II). Consultoria, auditoria e emissão de parecer sobre matéria de enfermagem estão no inciso I, alínea h. Prescrição de medicamentos de programas de saúde pública e de rotina aprovada, prevenção e controle da infecção hospitalar e das doenças transmissíveis, assistência à gestante, parturiente e puérpera e participação em projetos de construção ou reforma de unidades de internação estão no inciso II, portanto não são privativas.",
+  "porAlt": [
+   "A prescrição de medicamentos de programas e rotinas é feita como integrante da equipe (art. 11, II, c), não privativamente.",
+   "A prevenção e o controle da infecção hospitalar são do inciso II, atividade de equipe.",
+   "Correta: consultoria, auditoria e emissão de parecer sobre matéria de enfermagem são privativas (art. 11, I, h).",
+   "A assistência à gestante, parturiente e puérpera é do inciso II, de equipe.",
+   "A participação em projetos de construção ou reforma de unidades é do inciso II, não privativa."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do Trabalho (SESMT)",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a segregação, o acondicionamento e a identificação dos Resíduos dos Serviços de Saúde (RSS), marque a alternativa INCORRETA.",
+  "alts": [
+   "Os RSS devem ser segregados no momento de sua geração, conforme classificação por Grupos.",
+   "Os RSS no estado sólido, quando não houver orientação específica, devem ser acondicionados em saco constituído de material resistente a ruptura, vazamento e impermeável.",
+   "Devem ser respeitados os limites de peso de cada saco, assim como o limite de 2/3 (dois terços) de sua capacidade, garantindo-se sua integridade e fechamento.",
+   "Os RSS do Grupo B devem ser acondicionados de acordo com as orientações dos órgãos locais responsáveis pelo serviço de limpeza urbana.",
+   "A identificação dos sacos para acondicionamento deve estar impressa, sendo vedado o uso de adesivo."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 222/2018 (segregação, acondicionamento e identificação dos RSS)",
+  "coment": "A RDC ANVISA 222/2018 manda segregar os RSS no momento da geração, conforme os grupos; acondicionar os sólidos, sem orientação específica, em saco resistente a ruptura e vazamento e impermeável; respeitar o limite de peso e de 2/3 da capacidade do saco; e usar identificação impressa, vedado o adesivo. A frase errada troca o grupo: quem segue as orientações dos órgãos locais de limpeza urbana é o grupo D, o resíduo comum. O grupo B, químico, tem regras próprias de acondicionamento conforme a periculosidade e a compatibilidade da substância.",
+  "porAlt": [
+   "Está certa: a segregação acontece no momento da geração, conforme o grupo.",
+   "Está certa: é a regra geral de acondicionamento do resíduo sólido sem orientação específica.",
+   "Está certa: o saco respeita o limite de peso e de 2/3 da capacidade.",
+   "Correta: é a INCORRETA; quem segue as orientações da limpeza urbana é o grupo D; o grupo B, químico, tem regras próprias.",
+   "Está certa: a identificação é impressa no saco, sendo vedado o adesivo."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do Trabalho (SESMT)",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na movimentação e no transporte manual não eventual de cargas, devem ser adotadas uma ou mais das seguintes medidas de prevenção, EXCETO:",
+  "alts": [
+   "implantar meios técnicos facilitadores.",
+   "adequar o peso e o tamanho da carga (dimensões e formato) para que não provoquem o aumento do esforço físico que possa comprometer a segurança e a saúde do trabalhador.",
+   "limitar a duração, a frequência e o número de movimentos a serem efetuados pelos trabalhadores.",
+   "reduzir as distâncias a percorrer com cargas, quando aplicável.",
+   "efetuar a alternância com outras atividades ou pausas suficientes, entre períodos não superior a quatro horas."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-17 (Portaria MTP 423/2021), item 17.5, movimentação e transporte manual de cargas",
+  "coment": "A NR-17, na redação da Portaria MTP 423/2021, lista as medidas de prevenção para a movimentação e o transporte manual não eventual de cargas, das quais a organização adota uma ou mais: implantar meios técnicos facilitadores, adequar peso e tamanho da carga, limitar duração, frequência e número de movimentos, reduzir distâncias com carga e alternar com outras atividades ou pausas. A alternativa E parte de uma medida verdadeira, mas altera o intervalo máximo entre as alternâncias ou pausas fixado na norma; quatro horas seguidas de transporte manual não é o que a NR-17 prevê.",
+  "porAlt": [
+   "É medida da NR-17: meios técnicos facilitadores reduzem o esforço do transporte manual.",
+   "É medida da NR-17: adequar peso, dimensões e formato da carga.",
+   "É medida da NR-17: limitar duração, frequência e número de movimentos.",
+   "É medida da NR-17: reduzir as distâncias percorridas com carga, quando aplicável.",
+   "Correta: é a EXCETO; a alternância ou pausa é medida da norma, mas o intervalo de quatro horas foi alterado em relação ao texto."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do Trabalho (SESMT)",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A avaliação de riscos ocupacionais deve constituir um processo contínuo e ser revista a cada dois anos ou quando da ocorrência da seguinte situação:",
+  "alts": [
+   "antes da implementação das medidas de prevenção, para avaliação de riscos residuais.",
+   "após inovações e modificações nas tecnologias, ambientes, processos, condições, procedimentos e organização do trabalho que impliquem em novos riscos ou modifiquem os riscos existentes.",
+   "quando identificadas as devidas adequações das medidas de prevenção.",
+   "após retorno de afastamento ao trabalho por período superior a 180 (cento e oitenta) dias.",
+   "após fornecer evidências para subsidiar e revisar as medidas de prevenção existentes."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-1 (Portaria SEPRT 6.730/2020), item 1.5.4.4.6",
+  "coment": "Pela NR-1, a avaliação de riscos ocupacionais do PGR é processo contínuo, revista a cada dois anos ou quando ocorrer: implementação de medidas de prevenção, para avaliar riscos residuais; inovações e modificações nas tecnologias, ambientes, processos, condições, procedimentos e organização do trabalho que impliquem novos riscos ou modifiquem os existentes; identificação de inadequações, insuficiências ou ineficácias das medidas; acidentes ou doenças relacionados ao trabalho; mudança nos requisitos legais aplicáveis; e pedido justificado dos trabalhadores ou da CIPA (item 1.5.4.4.6). Com sistema de gestão certificado, o prazo pode chegar a três anos.",
+  "porAlt": [
+   "Inverte o momento: a revisão ocorre após a implementação das medidas, para avaliar riscos residuais, não antes.",
+   "Correta: inovações e modificações que criem ou alterem riscos obrigam a rever a avaliação (1.5.4.4.6).",
+   "Inverte o gatilho: a revisão ocorre quando se identificam inadequações ou ineficácia das medidas, não adequações.",
+   "Afastamento superior a 180 dias não é gatilho da NR-1 para rever a avaliação de riscos.",
+   "Fornecer evidências é finalidade da avaliação, não uma situação que obriga a revê-la."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do Trabalho (SESMT)",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A organização deve adotar medidas de prevenção, de modo que a exposição ocupacional ao calor não cause efeitos adversos à saúde do trabalhador e orientar, especialmente, quanto aos seguintes aspectos, EXCETO:",
+  "alts": [
+   "identificação das funções e determinação do número de trabalhadores expostos.",
+   "necessidade de informar ao superior hierárquico ou ao médico a ocorrência de sinais e sintomas relacionados ao calor.",
+   "medidas de prevenção relacionadas à exposição ao calor, de acordo com a avaliação de risco da atividade.",
+   "informações sobre o ambiente de trabalho e suas características.",
+   "situações de emergências decorrentes da exposição ocupacional ao calor e condutas a serem adotadas."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "NR-9, Anexo III (calor), Portaria SEPRT 1.359/2019, alterada pela Portaria MTE 105/2026",
+  "coment": "O Anexo III da NR-9 manda a organização adotar medidas para que a exposição ao calor não cause efeitos adversos e orientar os trabalhadores, especialmente, sobre: informações do ambiente de trabalho e suas características; situações de emergência decorrentes do calor e condutas; medidas de prevenção conforme a avaliação de risco da atividade; e a necessidade de informar ao superior ou ao médico sinais e sintomas relacionados ao calor. Identificar as funções e o número de expostos é etapa da avaliação e do inventário de riscos do PGR, tarefa da organização, e não conteúdo da orientação ao trabalhador. A Portaria MTE 105/2026 alterou o Quadro 1 e o item das pausas em locais termicamente mais amenos.",
+  "porAlt": [
+   "Correta: é a EXCETO; identificar funções e número de expostos é etapa da avaliação de riscos, não tema da orientação.",
+   "É tema da orientação: o trabalhador deve saber comunicar sinais e sintomas ligados ao calor.",
+   "É tema da orientação: as medidas de prevenção conforme a avaliação de risco da atividade.",
+   "É tema da orientação: as informações sobre o ambiente de trabalho e suas características.",
+   "É tema da orientação: as emergências causadas pelo calor e as condutas a adotar."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do Trabalho (SESMT)",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com relação à possibilidade de exposição acidental aos agentes biológicos, marque a alternativa que NÃO corresponde ao que deve constar do Programa de Controle Médico de Saúde Ocupacional - PCMSO:",
+  "alts": [
+   "os procedimentos a serem adotados para diagnóstico, acompanhamento e prevenção da soroconversão e das doenças.",
+   "as medidas para descontaminação do local de trabalho.",
+   "o tratamento médico de emergência para os trabalhadores.",
+   "a identificação dos responsáveis pela exposição e as medidas pertinentes que serão aplicadas.",
+   "as formas de remoção para atendimento dos trabalhadores."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-32 (Portaria MTE 485/2005 e alterações), item 32.2.3.3",
+  "coment": "O item 32.2.3.3 da NR-32 diz o que deve constar do PCMSO diante da possibilidade de exposição acidental a agentes biológicos: os procedimentos de diagnóstico, acompanhamento e prevenção da soroconversão e das doenças; as medidas de descontaminação do local; o tratamento médico de emergência; a identificação dos responsáveis pela aplicação das medidas pertinentes; a relação dos estabelecimentos que podem prestar assistência; as formas de remoção; e a relação dos depositários de imunoglobulinas, vacinas e medicamentos. A alternativa D troca o sentido: o programa identifica quem aplica as medidas, não quem causou a exposição, porque o foco é a resposta ao acidente, não a culpa.",
+  "porAlt": [
+   "Consta do PCMSO: procedimentos de diagnóstico, acompanhamento e prevenção da soroconversão.",
+   "Consta do PCMSO: medidas para descontaminação do local de trabalho.",
+   "Consta do PCMSO: tratamento médico de emergência para os trabalhadores.",
+   "Correta: é a que NÃO consta; o PCMSO identifica os responsáveis pela aplicação das medidas, não os responsáveis pela exposição.",
+   "Consta do PCMSO: as formas de remoção para atendimento dos trabalhadores."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do Trabalho (SESMT)",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considera-se EPI o dispositivo ou produto de uso individual utilizado pelo trabalhador, concebido e fabricado para oferecer proteção contra os riscos ocupacionais existentes no ambiente de trabalho. Em relação a este equipamento, marque a alternativa que corresponde a responsabilidades do trabalhador.",
+  "alts": [
+   "Adquirir somente o aprovado pelo órgão de âmbito nacional competente em matéria de segurança e saúde no trabalho.",
+   "Substituir imediatamente, quando danificado ou extraviado.",
+   "Responsabilizar-se pela limpeza, guarda e conservação.",
+   "Promover a adaptação para pessoas com deficiência.",
+   "Responsabilizar-se pela manutenção da qualidade."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-6 (Portaria MTP 2.175/2022), responsabilidades da organização e do trabalhador quanto ao EPI",
+  "coment": "A NR-6 distribui as obrigações quanto ao EPI. À organização cabe adquirir só o EPI com Certificado de Aprovação do órgão nacional competente, fornecê-lo gratuitamente, orientar e treinar, exigir o uso, registrar o fornecimento, responsabilizar-se pela higienização e manutenção quando aplicáveis e substituir imediatamente o danificado ou extraviado. Ao trabalhador cabe usar o EPI só para a finalidade a que se destina, responsabilizar-se pela limpeza, guarda e conservação, comunicar dano, extravio ou alteração e cumprir as determinações sobre o uso. Manter a qualidade do equipamento que originou o CA é obrigação do fabricante ou importador.",
+  "porAlt": [
+   "Adquirir EPI com Certificado de Aprovação é obrigação da organização.",
+   "Substituir imediatamente o EPI danificado ou extraviado é obrigação da organização; o trabalhador comunica o fato.",
+   "Correta: limpeza, guarda e conservação do EPI são responsabilidade do trabalhador pela NR-6.",
+   "Adaptar o EPI para pessoa com deficiência não é obrigação do trabalhador, mas da organização na seleção do equipamento.",
+   "Manter a qualidade do EPI é responsabilidade do fabricante ou importador, não do trabalhador."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do Trabalho (SESMT)",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No exame demissional, o exame clínico deve ser realizado em até ______________ contados do término do contrato, podendo ser dispensado caso o exame clínico ocupacional mais recente tenha sido realizado há menos de ___________, para as organizações graus de risco 1 e 2, e há menos de __________, para as organizações graus de risco 3 e 4.",
+  "alts": [
+   "15 (quinze) dias; 120 (cento e vinte) dias; 60 (sessenta) dias.",
+   "10 (dez) dias; 90 (noventa) dias; 60 (sessenta) dias.",
+   "15 (quinze) dias; 125 (cento e vinte cinco) dias; 90 (noventa) dias.",
+   "10 (dez) dias; 120 (cento e vinte) dias; 90 (noventa) dias.",
+   "10 (dez) dias; 135 (cento e trinta e cinco) dias; 90 (noventa) dias."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-7 (Portaria SEPRT 6.734/2020), item 7.5.11",
+  "coment": "Pela NR-7, na redação da Portaria SEPRT 6.734/2020, o exame clínico demissional deve ser feito em até 10 dias contados do término do contrato. Pode ser dispensado se o exame clínico ocupacional mais recente tiver sido feito há menos de 135 dias, nas organizações de graus de risco 1 e 2, ou há menos de 90 dias, nas de graus 3 e 4 (item 7.5.11). Para um hospital, em geral grau de risco 3, o prazo de dispensa é de 90 dias. A banca troca os números para confundir com os 15 dias e os 120 dias, que não aparecem nesse item.",
+  "porAlt": [
+   "Erra os três números: são 10 dias, 135 dias e 90 dias.",
+   "Acerta 10 e 90 dias, mas a dispensa nos graus 1 e 2 é de 135 dias, não 90.",
+   "Erra o prazo do exame (10 dias, não 15) e a dispensa dos graus 1 e 2 (135 dias, não 125).",
+   "Acerta 10 e 90 dias, mas a dispensa nos graus 1 e 2 é de 135 dias, não 120.",
+   "Correta: até 10 dias do término; dispensa se o último exame tiver menos de 135 dias (graus 1 e 2) ou 90 dias (graus 3 e 4)."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do Trabalho (SESMT)",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a vacina tríplice viral para trabalhadores da saúde, marque a alternativa INCORRETA.",
+  "alts": [
+   "Independentemente da idade, devem receber 2 (duas) doses.",
+   "Deve-se observar o intervalo mínimo de 30 dias entre as doses.",
+   "O trabalhador da saúde que comprovar 2 (duas) doses deve ser considerado vacinado.",
+   "Não poderá ser administrada simultaneamente com a vacina da varicela.",
+   "O volume da dose é 0,5 mL e a via de administração subcutânea."
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), trabalhadores da saúde e coadministração",
+  "coment": "A IN do Calendário 2026 manda vacinar o trabalhador da saúde com 2 doses de tríplice viral independentemente da idade, com intervalo mínimo de 30 dias entre as doses; quem comprova 2 doses está vacinado. A vacina é atenuada, 0,5 mL por via subcutânea. A afirmativa errada é a da coadministração: tríplice viral e varicela, ambas atenuadas e injetáveis, podem ser aplicadas no mesmo dia, em sítios diferentes, ou com 30 dias de intervalo; a própria IN recomenda dar a 2ª dose de tríplice viral aos 15 meses junto com a varicela. A única restrição de simultaneidade é febre amarela com tríplice viral em menores de 2 anos.",
+  "porAlt": [
+   "Está certa: o trabalhador da saúde recebe 2 doses de tríplice viral independentemente da idade.",
+   "Está certa: o intervalo mínimo entre as doses é de 30 dias.",
+   "Está certa: 2 doses comprovadas encerram o esquema.",
+   "Correta: é a INCORRETA; tríplice viral e varicela podem ser aplicadas no mesmo dia, em sítios distintos.",
+   "Está certa: a dose é de 0,5 mL por via subcutânea."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do Trabalho (SESMT)",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Vigilância em Saúde do Trabalhador tem como objetivos as seguintes alternativas, EXCETO:",
+  "alts": [
+   "estabelecer relação entre o quadro clínico/diagnóstico e a atividade desenvolvida no trabalho.",
+   "identificar potenciais casos de doenças e agravos relacionados ao trabalho.",
+   "investigar a relação de doenças e agravos com o trabalho.",
+   "notificar os casos de doenças e agravos relacionados ao trabalho.",
+   "identificar os grupos ocupacionalmente expostos a maior risco."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 1.823/2012 (PNSTT); Ministério da Saúde, Protocolos de Complexidade Diferenciada em Saúde do Trabalhador, 2006",
+  "coment": "Nos protocolos do Ministério da Saúde para os agravos relacionados ao trabalho, a vigilância em saúde do trabalhador tem como objetivos identificar potenciais casos, investigar a relação do agravo com o trabalho, notificar os casos e identificar os grupos ocupacionalmente expostos a maior risco, para intervir no ambiente e no processo de trabalho. Estabelecer a relação entre o quadro clínico ou o diagnóstico e a atividade desenvolvida é o nexo causal feito no atendimento clínico, parte do diagnóstico do caso. A distinção é fina, porque a investigação da vigilância também examina essa relação; a banca separou a tarefa clínica individual da ação coletiva de vigilância.",
+  "porAlt": [
+   "Correta: é a EXCETO; o nexo entre quadro clínico e atividade é etapa do diagnóstico clínico, não objetivo listado da vigilância.",
+   "É objetivo da vigilância: identificar potenciais casos de agravos relacionados ao trabalho.",
+   "É objetivo da vigilância: investigar a relação de doenças e agravos com o trabalho.",
+   "É objetivo da vigilância: notificar os casos de doenças e agravos relacionados ao trabalho.",
+   "É objetivo da vigilância: identificar os grupos expostos a maior risco para orientar a intervenção."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do Trabalho (SESMT)",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando as principais características da Perda auditiva induzida por ruído (Pair) é CORRETO afirmar:",
+  "alts": [
+   "perda auditiva sensório-neural com comprometimento das células ciliadas da orelha interna, quase sempre é unilateral.",
+   "no início da perda, a média dos limiares de 500 kHz, 1 kHz e 2 kHz é melhor do que a média de 3 kHz, 4 kHz e 6 kHz.",
+   "a progressão da perda auditiva tende a aumentar com a piora dos limiares relacionados à exposição crônica.",
+   "apenas a exposição ao ruído produz perdas maiores que 75 dB em frequências altas, e que 40 dB nas baixas.",
+   "a progressão da perda auditiva decorrente da exposição crônica é maior nos primeiros 05 anos."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Ministério da Saúde, Perda auditiva induzida por ruído (Pair), Protocolos de Complexidade Diferenciada, 2006; NR-7, Anexo II (Portaria SEPRT 6.734/2020)",
+  "coment": "O protocolo do Ministério da Saúde descreve a Pair como perda neurossensorial, quase sempre bilateral, por lesão das células ciliadas da orelha interna. No início, a média dos limiares de 500, 1.000 e 2.000 Hz é melhor que a de 3.000, 4.000 e 6.000 Hz, com o entalhe nas frequências altas. O caderno escreve 500 kHz, erro de digitação mantido do original: são hertz, não quilohertz. A perda raramente passa de 75 dB nas frequências altas e de 40 dB nas baixas; a progressão é maior nos primeiros 10 a 15 anos de exposição e tende a diminuir à medida que os limiares pioram.",
+  "porAlt": [
+   "A Pair é quase sempre bilateral, não unilateral.",
+   "Correta: no início, a média de 500, 1.000 e 2.000 Hz é melhor que a de 3.000, 4.000 e 6.000 Hz (o caderno escreve 500 kHz por erro).",
+   "Inverte a regra: a progressão tende a diminuir à medida que os limiares pioram.",
+   "Inverte a característica: o ruído isolado raramente produz perdas maiores que 75 dB nas altas e 40 dB nas baixas.",
+   "A progressão é maior nos primeiros 10 a 15 anos de exposição, não nos primeiros 5."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do Trabalho (SESMT)",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Marque a alternativa que NÃO corresponde aos principais objetivos da vigilância epidemiológica das dermatoses relacionadas ao trabalho.",
+  "alts": [
+   "Monitorar indicadores que sirvam como alerta precoce para o sistema de vigilância.",
+   "Identificar grupos e fatores de risco presentes no ambiente e no processo de trabalho.",
+   "Identificar e investigar os casos suspeitos de dermatoses ocupacionais.",
+   "Notificar todos os casos confirmados de dermatoses.",
+   "Estabelecer a morfologia e a localização das lesões em áreas de contato com os agentes."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Ministério da Saúde, Dermatoses ocupacionais, Protocolos de Complexidade Diferenciada, 2006; Portaria GM/MS 11.211/2026 (lista nacional)",
+  "coment": "O protocolo de dermatoses ocupacionais do Ministério da Saúde define como objetivos da vigilância: identificar e investigar os casos suspeitos, notificar os casos confirmados, identificar grupos e fatores de risco no ambiente e no processo de trabalho e monitorar indicadores que sirvam de alerta precoce, para orientar a intervenção. Estabelecer a morfologia e a localização das lesões nas áreas de contato com o agente é critério do diagnóstico clínico da dermatose, feito na avaliação do caso. As dermatoses relacionadas ao trabalho seguem na lista nacional de notificação compulsória, com periodicidade semanal.",
+  "porAlt": [
+   "É objetivo da vigilância: monitorar indicadores de alerta precoce.",
+   "É objetivo da vigilância: identificar grupos e fatores de risco no ambiente e no processo de trabalho.",
+   "É objetivo da vigilância: identificar e investigar os casos suspeitos.",
+   "É objetivo da vigilância: notificar os casos confirmados, agravo da lista nacional.",
+   "Correta: é a que NÃO corresponde; morfologia e localização das lesões são critério de diagnóstico clínico, não objetivo da vigilância."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do Trabalho (SESMT)",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a notificação de acidente de trabalho, marque a alternativa CORRETA.",
+  "alts": [
+   "o preenchimento da Ficha de Investigação de Acidente de Trabalho deve ser realizado a partir da confirmação do caso.",
+   "a confirmação da relação do acidente com o trabalho pode ser feita, exclusivamente, pelo médico.",
+   "independentemente da gravidade, as ocorrências devem ser notificadas.",
+   "os casos de violência relacionados ao trabalho devem ser notificados de forma exclusiva na Ficha de Notificação de Violência Interpessoal/Autoprovocada.",
+   "os casos são inseridos no Sistema de Informação de Agravos de Notificação (Sinan), apenas após o encerramento da investigação."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 11.211/2026 (lista nacional de notificação compulsória, Anexo 1 do Anexo V da PRC 4/2017)",
+  "coment": "Na lista nacional atual, alterada pela Portaria GM/MS 11.211/2026, o acidente de trabalho é de notificação imediata à Secretaria Municipal de Saúde, sem restrição por gravidade; listas anteriores pediam só os graves, fatais e com crianças e adolescentes. A notificação no Sinan parte da suspeita, independe do vínculo de trabalho e pode ser feita por qualquer profissional de saúde, que também pode estabelecer a relação com o trabalho. A CAT, devida pelo empregador ao trabalhador segurado (Lei 8.213/1991, art. 22), é instrumento previdenciário diferente; um não substitui o outro.",
+  "porAlt": [
+   "A notificação e a investigação partem da suspeita, sem esperar a confirmação do caso.",
+   "A relação com o trabalho não é exclusiva do médico; qualquer profissional de saúde pode estabelecê-la e notificar.",
+   "Correta: todo acidente de trabalho é notificado, independentemente da gravidade, de forma imediata à SMS.",
+   "Não há exclusividade: a violência relacionada ao trabalho também tem a relação com o trabalho registrada, e a alternativa erra ao restringir a uma só ficha.",
+   "O caso entra no Sinan na notificação, antes do encerramento da investigação."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro do Trabalho (SESMT)",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a avaliação inicial do paciente e para o qual decorre como diagnóstico diferencial a suspeita de acidente vascular cerebral (AVC), devemos fazer o uso da ______________, em que a presença de _________ dos sinais de alerta, associada ao início _________ da apresentação, nos indica de forma objetiva a suspeita de AVC.",
+  "alts": [
+   "Escala de Glasgow; 2 (dois); agudo.",
+   "Escala de Braden; 3 (três); crônico.",
+   "Escala de Cincinatti; 1 (um); súbito.",
+   "Escala de Morse; 1 (um); súbito.",
+   "Escala do National Institutes of Health (NIH); 2 (dois); súbito."
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz AHA/ASA 2026 para AVC isquêmico agudo (reconhecimento pré-hospitalar); Escala de Cincinnati",
+  "coment": "A Escala pré-hospitalar de Cincinnati avalia três sinais: assimetria facial (pedir para sorrir), queda do braço (estender os braços por 10 segundos) e alteração da fala (repetir uma frase). Basta um sinal alterado, somado ao início súbito, para suspeitar de AVC e acionar o fluxo de AVC agudo, registrando a hora em que o paciente foi visto bem pela última vez. A NIHSS mede gravidade depois do reconhecimento, Glasgow avalia nível de consciência, Braden avalia risco de lesão por pressão e Morse, risco de queda. O caderno grafa Cincinatti.",
+  "porAlt": [
+   "Glasgow avalia nível de consciência, não reconhece AVC, e o início do AVC é súbito.",
+   "Braden avalia risco de lesão por pressão, e AVC não tem início crônico.",
+   "Correta: na escala de Cincinnati, um sinal alterado com início súbito indica suspeita de AVC.",
+   "Morse avalia risco de queda, não reconhece AVC.",
+   "A NIHSS quantifica a gravidade do déficit no hospital; não é a escala de triagem de três sinais."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Urgência e Emergência",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No exame da cabeça e pescoço do paciente com traumatismo cranioencefálico (TCE) deve-se manter atenção para a ocorrência de outros sinais de gravidade na lesão. Marque a alternativa que NÃO corresponde a um destes sinais.",
+  "alts": [
+   "Sinais de fratura de base de crânio.",
+   "Sinais de perda liquórica.",
+   "Exposição de tecido cerebral.",
+   "Rebaixamento da escala de Glasgow.",
+   "Ferimentos extensos de couro cabeludo."
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ATLS, 10ª ed., 2018 (exame secundário de cabeça e pescoço no TCE)",
+  "coment": "No exame secundário da cabeça e do pescoço do paciente com TCE, procuram-se sinais de gravidade da própria lesão: sinais de fratura de base de crânio (equimose periorbital, sinal de Battle, hemotímpano), perda liquórica pelo nariz ou ouvido (rinorreia, otorreia), exposição de tecido cerebral e ferimentos extensos de couro cabeludo, que sangram muito. O rebaixamento na escala de Glasgow é sinal de gravidade importante, mas pertence à avaliação neurológica (D do exame primário e reavaliações seriadas), não à inspeção da cabeça e do pescoço. A questão pede justamente o item fora desse exame.",
+  "porAlt": [
+   "É sinal procurado no exame da cabeça: equimose periorbital, sinal de Battle e hemotímpano sugerem fratura de base.",
+   "É sinal procurado no exame da cabeça: rinorreia ou otorreia indicam fístula liquórica.",
+   "É sinal procurado no exame da cabeça: tecido cerebral exposto indica lesão aberta grave.",
+   "Correta: é a que NÃO corresponde; a queda no Glasgow é achado da avaliação neurológica, não da inspeção de cabeça e pescoço.",
+   "É sinal procurado no exame da cabeça: ferimento extenso de couro cabeludo pode causar grande sangramento."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Urgência e Emergência",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Classificação de Risco deve ser um instrumento para melhor organizar o fluxo de pacientes que procuram as portas de entrada de urgência/emergência, gerando um atendimento resolutivo e humanizado. Considerando a afirmativa, marque a alternativa CORRETA.",
+  "alts": [
+   "a Classificação de Risco pode ser considerada um instrumento para diagnóstico de doenças de forma mais rápida.",
+   "a Classificação de Risco tem como objetivo funcionar como um instrumento de ordenação e orientação da assistência, sendo um sistema de regulação da demanda dos serviços de urgência/emergência.",
+   "a Classificação de Risco pressupõe a exclusão de risco.",
+   "a Classificação de Risco deve construir os fluxos de atendimento na urgência/emergência considerando os serviços específicos para atendimentos de especialidades da rede de assistência à saúde.",
+   "a Classificação de Risco com prioridade zero requer atendimento médico em, no máximo, uma hora."
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Classificação de risco",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Acolhimento e classificação de risco nos serviços de urgência (HumanizaSUS), 2009; Resolução COFEN 661/2021",
+  "coment": "Pela cartilha do Ministério da Saúde, a classificação de risco é ferramenta de ordenação e orientação da assistência e de regulação da demanda nas portas de urgência: decide a ordem do atendimento pelo risco, não pela chegada. Ela não faz diagnóstico, não pressupõe exclusão (ninguém é dispensado sem avaliação) e deve construir fluxos com toda a rede, não só com serviços de especialidade. A prioridade zero, vermelha, é emergência com atendimento imediato. A Res. COFEN 661/2021 torna a classificação privativa do enfermeiro na equipe de enfermagem e exige capacitação no protocolo adotado.",
+  "porAlt": [
+   "A classificação de risco não faz diagnóstico; ela prioriza pelo risco.",
+   "Correta: é instrumento de ordenação e orientação da assistência e de regulação da demanda.",
+   "A classificação não pressupõe exclusão; nenhum paciente é dispensado sem avaliação.",
+   "Os fluxos consideram toda a rede de atenção, não só os serviços de especialidade.",
+   "Prioridade zero é emergência, com atendimento imediato, não em até uma hora."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Urgência e Emergência",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A participação ativa da enfermagem na triagem de pacientes com dor torácica melhora a identificação de pacientes de maior risco, assim como reduz o tempo de realização do ECG. Neste contexto, marque a alternativa que NÃO representa a necessidade de uma estratégia invasiva de urgência para pacientes com suspeita de síndrome coronariana aguda:",
+  "alts": [
+   "dor torácica refratária ao tratamento medicamentoso.",
+   "arritmias malignas ou parada cardiorrespiratória.",
+   "complicações mecânicas do infarto.",
+   "insuficiência cardíaca aguda.",
+   "disfunção endotelial coronariana."
+  ],
+  "gab": 4,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretrizes da SBC sobre Angina Instável e Infarto Agudo do Miocárdio sem Supradesnível do Segmento ST, 2021; Diretriz ESC de síndromes coronarianas agudas, 2023",
+  "coment": "Na síndrome coronariana aguda sem supra de ST, a estratégia invasiva imediata, em até 2 horas, é indicada nos pacientes de muito alto risco: instabilidade hemodinâmica ou choque cardiogênico, dor torácica recorrente ou refratária ao tratamento clínico, arritmias com risco de morte ou parada cardiorrespiratória, complicações mecânicas do infarto, insuficiência cardíaca aguda relacionada à isquemia e alterações dinâmicas recorrentes do segmento ST. Disfunção endotelial coronariana é mecanismo fisiopatológico da aterosclerose, não critério de risco para cateterismo de urgência. Para a enfermagem, o ponto prático é o ECG em até 10 minutos da chegada.",
+  "porAlt": [
+   "É critério de muito alto risco: dor refratária ao tratamento clínico pede estratégia invasiva imediata.",
+   "É critério de muito alto risco: arritmia maligna ou parada cardiorrespiratória.",
+   "É critério de muito alto risco: complicações mecânicas do infarto.",
+   "É critério de muito alto risco: insuficiência cardíaca aguda relacionada à isquemia.",
+   "Correta: é a EXCETO; disfunção endotelial é mecanismo da aterosclerose, não critério para cateterismo de urgência."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Urgência e Emergência",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O diagnóstico de enfermagem de débito cardíaco diminuído é definido como: volume de sangue bombeado pelo coração inadequado para atender às demandas metabólicas do organismo. Considerando a afirmativa, marque a alternativa que NÃO corresponde a uma condição associada ao diagnóstico:",
+  "alts": [
+   "alteração na pós-carga.",
+   "alteração na contratilidade.",
+   "alteração na regulação endócrina.",
+   "alteração no ritmo cardíaco.",
+   "alteração na pré-carga."
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NANDA International, Diagnósticos de enfermagem: definições e classificação 2024-2026, 13ª ed., 2024",
+  "coment": "Débito cardíaco diminuído é o bombeamento de sangue pelo coração inadequado para atender às demandas metabólicas do organismo. Os fatores relacionados da NANDA-I organizam-se pelos determinantes do débito: frequência e ritmo cardíacos alterados, contratilidade alterada, pré-carga alterada, pós-carga alterada e volume sistólico alterado. Alteração na regulação endócrina não aparece entre eles; distúrbios endócrinos podem afetar o coração, mas o fazem por meio desses determinantes. Na prova, reconheça os componentes do débito: frequência vezes volume sistólico, este dependente de pré-carga, pós-carga e contratilidade.",
+  "porAlt": [
+   "Pós-carga alterada é fator relacionado do débito cardíaco diminuído.",
+   "Contratilidade alterada é fator relacionado do débito cardíaco diminuído.",
+   "Correta: é a que NÃO corresponde; regulação endócrina não está entre os fatores do diagnóstico.",
+   "Ritmo cardíaco alterado é fator relacionado do débito cardíaco diminuído.",
+   "Pré-carga alterada é fator relacionado do débito cardíaco diminuído."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Urgência e Emergência",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São intervenções de enfermagem para o diagnóstico de risco de glicemia instável, EXCETO:",
+  "alts": [
+   "promoção do autocuidado.",
+   "equilíbrio eletrolítico e ácido-básico.",
+   "monitoramento de sinais vitais.",
+   "promoção da auto-responsabilidade.",
+   "gerenciamento de nutrição."
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Resultados (NOC) e intervenções (NIC)",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Classificação das Intervenções de Enfermagem (NIC), 7ª ed., 2018; Classificação dos Resultados de Enfermagem (NOC), 6ª ed., 2018",
+  "coment": "Para risco de glicemia instável, as ligações NANDA-NIC-NOC sugerem intervenções como controle da hiperglicemia e da hipoglicemia, monitoração de sinais vitais, controle da nutrição, assistência no autocuidado e facilitação da autorresponsabilidade, que estimulam o paciente a assumir o manejo do diabetes. Equilíbrio eletrolítico e ácido-básico é título de resultado da NOC: descreve um estado do paciente a ser medido, não uma ação do enfermeiro. A questão cobra a distinção entre intervenção, o que o enfermeiro faz, e resultado, o que se espera observar.",
+  "porAlt": [
+   "Promoção do autocuidado é intervenção indicada para quem precisa manejar a glicemia.",
+   "Correta: é a EXCETO; equilíbrio eletrolítico e ácido-básico é resultado da NOC, não intervenção.",
+   "Monitoração de sinais vitais é intervenção da NIC usada no acompanhamento desse risco.",
+   "Facilitação da autorresponsabilidade é intervenção que favorece a adesão ao controle glicêmico.",
+   "Controle da nutrição é intervenção central para estabilizar a glicemia."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Urgência e Emergência",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Marque a alternativa que NÃO está de acordo com os cuidados gerais necessários aos pacientes com acidente vascular cerebral (AVC) isquêmico com > 4h de evolução:",
+  "alts": [
+   "administrar antitérmico se temperatura axilar (TAx) ≥ 37° C.",
+   "realizar eletrocardiograma (ECG) em 12 derivações.",
+   "coletar hemograma, glicemia, atividade de protrombina, tempo parcial de tromboplastina ativada, plaquetas, sódio, potássio, creatinina e ureia.",
+   "manter monitoração cardíaca contínua para detecção precoce de alterações miocárdicas isquêmicas ou arritmias.",
+   "manter glicemia > 70 mg/dL e < 200 mg/dL."
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretriz AHA/ASA 2026 para AVC isquêmico agudo (cuidados gerais); Ministério da Saúde, Manual de rotinas para atenção ao AVC, 2013",
+  "coment": "Os cuidados gerais no AVC isquêmico fora da janela de trombólise incluem ECG de 12 derivações, monitoração cardíaca contínua para detectar isquemia e arritmias como a fibrilação atrial, exames laboratoriais (hemograma, glicemia, coagulograma, plaquetas, eletrólitos e função renal) e controle glicêmico, evitando hipoglicemia e hiperglicemia. A temperatura deve ser mantida normal e a febre, tratada, mas antitérmico com 37 °C axilar é limiar de normalidade, não de febre. A diretriz AHA/ASA 2026 pede normotermia e, na hiperglicemia persistente, glicemia entre 140 e 180 mg/dL; a faixa de 70 a 200 da alternativa reflete protocolos mais antigos.",
+  "porAlt": [
+   "Correta: é a que NÃO está de acordo; 37 °C axilar é temperatura normal; trata-se a febre, não esse valor.",
+   "Está de acordo: o ECG de 12 derivações faz parte da avaliação inicial do AVC.",
+   "Está de acordo: hemograma, glicemia, coagulograma, plaquetas, eletrólitos, ureia e creatinina são rotina.",
+   "Está de acordo: a monitoração contínua detecta isquemia e arritmias, como fibrilação atrial.",
+   "Está de acordo com o protocolo da prova: evitar hipoglicemia e hiperglicemia; hoje a meta na hiperglicemia persistente é 140 a 180 mg/dL."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Urgência e Emergência",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A emergência hipertensiva demanda o início imediato da redução dos níveis pressóricos e inclui os seguintes quadros, EXCETO:",
+  "alts": [
+   "encefalopatia hipertensiva.",
+   "dissecção de aorta.",
+   "edema agudo de pulmão.",
+   "falência renal.",
+   "angina estável."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH e SBN)",
+  "coment": "Emergência hipertensiva é a elevação acentuada da pressão com lesão aguda e progressiva de órgão-alvo e risco imediato de morte, o que exige redução da pressão iniciada de imediato, em geral com fármaco intravenoso em unidade de terapia intensiva. Encefalopatia hipertensiva, dissecção aguda de aorta, edema agudo de pulmão, lesão renal aguda, AVC, síndrome coronariana aguda e eclâmpsia são exemplos. Angina estável é doença coronariana crônica, sem lesão aguda de órgão-alvo, e não caracteriza emergência; a síndrome coronariana aguda, sim.",
+  "porAlt": [
+   "Encefalopatia hipertensiva é lesão aguda de órgão-alvo e caracteriza emergência.",
+   "Dissecção aguda de aorta é emergência hipertensiva, com meta de redução rápida da pressão.",
+   "Edema agudo de pulmão hipertensivo é emergência hipertensiva.",
+   "Lesão renal aguda pela hipertensão é lesão de órgão-alvo e caracteriza emergência.",
+   "Correta: é a EXCETO; angina estável é doença crônica, sem lesão aguda de órgão-alvo."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Urgência e Emergência",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A dor torácica é o principal sintoma em um paciente com síndrome coronariana aguda (SCA). São causas de lesão miocárdica, relacionada com isquemia miocárdica, por desequilíbrio entre oferta/consumo de oxigênio, EXCETO:",
+  "alts": [
+   "atividade física extrema.",
+   "embolismo coronariano.",
+   "dissecção coronariana.",
+   "hipotensão ou choque.",
+   "anemia grave."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Quarta Definição Universal de Infarto do Miocárdio (ESC/ACC/AHA/WHF), 2018, infarto tipo 2",
+  "coment": "O infarto tipo 2 resulta do desequilíbrio entre oferta e consumo de oxigênio, sem ruptura de placa. A Quarta Definição Universal de Infarto (2018) cita como mecanismos a embolia coronariana, a dissecção espontânea de coronária, o vasoespasmo, a taquiarritmia ou bradiarritmia grave, a insuficiência respiratória com hipoxemia grave, a anemia grave e a hipotensão ou choque. Atividade física extrema não está entre esses mecanismos de isquemia: a elevação de troponina após exercício extenuante é descrita como lesão miocárdica, sem caracterizar desequilíbrio isquêmico. Por isso é a exceção.",
+  "porAlt": [
+   "Correta: é a EXCETO; atividade física extrema não figura entre os mecanismos de desequilíbrio do infarto tipo 2.",
+   "Embolia coronariana reduz a oferta de oxigênio e causa isquemia por desequilíbrio.",
+   "Dissecção coronariana reduz o fluxo e é causa de infarto tipo 2.",
+   "Hipotensão ou choque reduzem a perfusão coronariana e causam isquemia.",
+   "Anemia grave reduz a oferta de oxigênio ao miocárdio."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Urgência e Emergência",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No atendimento ao paciente em parada cardiorrespiratória (PCR), com ritmo de assistolia ao monitor cardíaco, a primeira conduta será:",
+  "alts": [
+   "administrar epinefrina o mais rápido possível: 1 mg intravenosa/intraóssea (IV/IO) em bolus seguido de 20 mL de solução salina 0,9% e elevação do membro (repetir a cada 3 a 5 minutos).",
+   "desfibrilar: choque único na potência máxima do aparelho (360 J no monofásico e 200 J no bifásico).",
+   "instalar dispositivo de via aérea avançada, preferencialmente a intubação orotraqueal.",
+   "iniciar imediatamente a ressuscitação cardiopulmonar (RCP), começando pelas compressões torácicas, 100 a 120 compressões por minuto (30 compressões para duas insuflações) por 2 minutos.",
+   "administrar sulfato de magnésio: 1 a 2 g IV/IO diluído em 10 a 20 mL de glicose a 5%."
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes AHA 2025 de RCP e ACE (algoritmo de PCR no adulto)",
+  "coment": "Assistolia é ritmo não chocável. A primeira conduta é iniciar ou retomar imediatamente a RCP de alta qualidade, começando pelas compressões, 100 a 120 por minuto, com profundidade de 5 a 6 cm e relação 30:2 enquanto não há via aérea avançada, em ciclos de 2 minutos. A epinefrina 1 mg IV/IO a cada 3 a 5 minutos entra o mais cedo possível nos ritmos não chocáveis, mas sem interromper as compressões, que vêm primeiro. Desfibrilar assistolia não tem efeito, a via aérea avançada não precede as compressões e o magnésio é reservado à torsades de pointes.",
+  "porAlt": [
+   "A epinefrina entra cedo no ritmo não chocável, mas depois de iniciadas as compressões, que são a primeira conduta.",
+   "Assistolia não é ritmo chocável; desfibrilar não tem efeito.",
+   "A via aérea avançada não precede as compressões e não deve interrompê-las.",
+   "Correta: na assistolia, inicia-se de imediato a RCP pelas compressões, 100 a 120 por minuto, 30:2 sem via aérea avançada.",
+   "Sulfato de magnésio é para torsades de pointes, não para assistolia."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Urgência e Emergência",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São causas associadas, potencialmente reversíveis, de parada cardiorrespiratória (PCR), EXCETO:",
+  "alts": [
+   "hipovolemia.",
+   "hidrogênio (baixa concentração de íons H+).",
+   "hipóxia.",
+   "hipo ou hipercalemia.",
+   "hipotermia."
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretrizes AHA 2025 de RCP e ACE (causas reversíveis, Hs e Ts)",
+  "coment": "As causas reversíveis de PCR são lembradas como Hs e Ts: hipovolemia, hipóxia, íon hidrogênio (acidose), hipo ou hipercalemia e hipotermia; pneumotórax hipertensivo, tamponamento cardíaco, toxinas, trombose pulmonar e trombose coronária. O H de hidrogênio significa excesso de íons H+, ou seja, acidose. A alternativa B inverte o conceito ao falar em baixa concentração de H+, que seria alcalose. Durante a RCP, a equipe busca e trata essas causas sem interromper as compressões.",
+  "porAlt": [
+   "Hipovolemia é causa reversível de PCR (um dos Hs).",
+   "Correta: é a EXCETO; o H é de acidose, excesso de íons H+, e não de baixa concentração.",
+   "Hipóxia é causa reversível de PCR (um dos Hs).",
+   "Hipo ou hipercalemia é causa reversível de PCR (um dos Hs).",
+   "Hipotermia é causa reversível de PCR (um dos Hs)."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Urgência e Emergência",
+   "n": 47,
+   "parte": "especificas"
+  }
+ }
+]
