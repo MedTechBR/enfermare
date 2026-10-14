@@ -691,5 +691,706 @@ window.PRATICA=[
     "peso": 0.4
    }
   ]
+ },
+ {
+  "id": "caso-cetoacidose-ps",
+  "titulo": "Cetoacidose diabética no pronto-socorro",
+  "area": "adulto",
+  "cenario": "emg",
+  "tempo": 25,
+  "abertura": "Pronto-socorro de hospital geral, acolhimento com classificação de risco. Sr. R., 34 anos, 70 kg, diabetes tipo 1 há 15 anos, chega com a esposa. Há dois dias tem vômitos e diarreia e, como não conseguia comer, deixou de aplicar a insulina basal e a das refeições. Refere sede intensa, urina muito e tem dor abdominal difusa. Está sonolento, mas abre os olhos e responde ao chamado. Respiração profunda e rápida, hálito cetônico, mucosas secas. FR 32 irpm, FC 124 bpm, PA 92/58 mmHg, temperatura 37,2 °C, SpO2 97% em ar ambiente. Glicemia capilar de 486 mg/dL. Você é o enfermeiro da classificação e, em seguida, da sala de emergência.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Classifique o risco e diga o que faz nos primeiros 15 minutos, antes de haver prescrição, e o que comunica ao médico.",
+    "entrega": "Paciente na sala de emergência. O médico prescreve soro fisiológico 0,9% 1.000 mL na primeira hora e pede exames. Resultados: pH venoso 7,12, bicarbonato 9 mmol/L, beta-hidroxibutirato 5,8 mmol/L, potássio 3,2 mmol/L, sódio 131 mmol/L, creatinina 1,6 mg/dL. Urinou 40 mL desde a chegada. O residente pede que você 'já instale a insulina' enquanto ele termina a prescrição."
+   },
+   {
+    "n": 2,
+    "tarefa": "Interprete os exames, diga o que responde ao residente sobre a insulina e formule os diagnósticos de enfermagem prioritários com o raciocínio.",
+    "entrega": "O médico prescreve cloreto de potássio 19,1% 7,8 mL em 500 mL de soro fisiológico 0,9%, em 2 horas, em bomba. Depois da reposição, o potássio vem em 4,1 mmol/L. Nova prescrição: manter potássio no soro e insulina regular 100 unidades em 100 mL de soro fisiológico 0,9%, em bomba, a 0,1 unidade/kg/h, com glicemia capilar de hora em hora."
+   },
+   {
+    "n": 3,
+    "tarefa": "Confira a reposição de potássio que foi feita e calcule a vazão da insulina. Diga como prepara, confere e monitoriza a infusão e o que delega ao técnico.",
+    "entrega": "Seis horas depois: glicemia capilar de 232 mg/dL, pH 7,24, bicarbonato 14 mmol/L, beta-hidroxibutirato 2,1 mmol/L, PA 118/72 mmHg, FC 96 bpm, mais desperto. O técnico avisa que vai desligar a bomba de insulina 'porque a glicemia já está quase normal'. A esposa pergunta como evitar que isso se repita."
+   },
+   {
+    "n": 4,
+    "tarefa": "Diga o que faz com a bomba e com o soro, o que precisa acontecer antes de desligar a insulina venosa e o que orienta ao paciente e à esposa para casa.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "C",
+    "item": "Classifica no mínimo como laranja (muito urgente) pela alteração aguda do nível de consciência e, com os sinais de choque, como vermelho, levando o paciente direto à sala de emergência; a classificação é privativa do enfermeiro (Sistema Manchester; Res. COFEN 661/2021)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Na sala de emergência, monitoriza, punciona acesso venoso calibroso, colhe os exames pedidos (gasometria venosa, eletrólitos, cetonemia, função renal), inicia o balanço hídrico com medida da diurese e comunica o médico de imediato",
+    "peso": 0.4
+   },
+   {
+    "eixo": "C",
+    "item": "Confirma cetoacidose pelos três critérios (diabetes conhecido ou glicemia de 200 mg/dL ou mais; beta-hidroxibutirato de 3,0 mmol/L ou mais; pH abaixo de 7,3 e/ou bicarbonato abaixo de 18 mmol/L) e reconhece o quadro grave (consenso ADA, EASD, JBDS, AACE e DTS, 2024)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Não instala insulina sem prescrição escrita e alerta que, com potássio de 3,2 mmol/L, a insulina fica adiada até a reposição, porque abaixo de 3,5 mmol/L ela empurra o potássio para dentro da célula e agrava a hipopotassemia (consenso de 2024)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Formula como prioritário Volume de líquidos inadequado relacionado à diurese osmótica, evidenciado por mucosas secas, hipotensão e taquicardia; explica que a respiração de Kussmaul é compensação da acidose e não sustenta diagnóstico respiratório (NANDA-I, 2024-2026)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Confere o potássio: 7,8 mL de KCl 19,1% (2,56 mEq/mL) dão 20 mEq em 500 mL, cerca de 40 mEq/L a 10 mEq/h, dentro dos limites de concentração em veia periférica e de velocidade, diluído, em bomba e nunca em bolus (bula Halex Istar; Protocolo 295 HC-UFMG, 2021)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Calcula a insulina: 100 unidades em 100 mL dão 1 unidade/mL; 0,1 unidade/kg/h para 70 kg são 7 unidades/h, ou 7 mL/h, em bomba e via exclusiva, com rótulo completo e dupla checagem independente por ser medicamento de alta vigilância (Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, MS/ANVISA, 2013)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "H",
+    "item": "Monitoriza glicemia capilar a cada 1 a 2 horas, eletrólitos, cetona e pH venoso a cada 4 horas, nível de consciência e balanço hídrico, e comunica na hora piora do sensório, cefaleia ou bradicardia com hipertensão, sinais de edema cerebral (consenso de 2024)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Delega ao técnico, sob sua supervisão, a glicemia capilar, os sinais vitais e o controle de diurese com registro; mantém consigo o preparo, a programação da bomba e a decisão de comunicar, e não permite que a infusão seja desligada sem prescrição (Lei 7.498/1986, art. 15)",
+    "peso": 0.3
+   },
+   {
+    "eixo": "H",
+    "item": "Com glicemia abaixo de 250 mg/dL e acidose ainda presente, não desliga a bomba: pede ao médico glicose a 5 ou 10% no soro e redução da vazão, e só aceita suspender a insulina venosa com a crise resolvida (cetonemia abaixo de 0,6 mmol/L com pH de 7,3 ou mais ou bicarbonato de 18 mmol/L ou mais), paciente comendo e 1 a 2 horas de sobreposição com a basal subcutânea (consenso de 2024)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "A",
+    "item": "Registra Comportamentos ineficazes de manutenção da saúde (NANDA-I, 2024-2026) e orienta paciente e esposa: no diabetes tipo 1 a insulina basal não se suspende por falta de apetite, e vômitos persistentes ou impossibilidade de comer pedem contato com a equipe ou o serviço de saúde (ADA, 2026)",
+    "peso": 0.4
+   }
+  ]
+ },
+ {
+  "id": "caso-prematuro-utin",
+  "titulo": "Recém-nascido prematuro de 30 semanas na UTI neonatal",
+  "area": "crianca",
+  "cenario": "uti",
+  "tempo": 20,
+  "abertura": "UTI neonatal. Você recebe da sala de parto, em incubadora de transporte, o recém-nascido de M., com 30 semanas de idade gestacional e 1.350 g, nascido de parto vaginal há 40 minutos. Precisou de ventilação com pressão positiva por máscara no primeiro minuto e chega em CPAP nasal, com fração de oxigênio de 40%, acompanhado pela pediatra. Na chegada: temperatura axilar de 35,6 °C, FR 72 irpm, gemido expiratório, tiragem subcostal e batimento de asa do nariz, SpO2 87%, FC 168 bpm. Está sem pulseira de identificação, que ficou na sala de parto. A mãe continua no centro obstétrico.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Diga, em ordem, o que faz nos primeiros 30 minutos da admissão, o que é seu, o que pede ao técnico e o que comunica ao médico.",
+    "entrega": "Bebê identificado, aquecido na incubadora e monitorizado. Uma hora depois: temperatura axilar de 36,6 °C, glicemia capilar de 62 mg/dL, SpO2 91% no CPAP. A equipe médica administra surfactante e passa cateter venoso umbilical para soro com glicose. Estão prescritos vitamina K, vacina hepatite B e dieta mínima com leite materno ordenhado por sonda orogástrica, assim que houver leite."
+   },
+   {
+    "n": 2,
+    "tarefa": "Formule os diagnósticos de enfermagem prioritários com o raciocínio e escreva a prescrição de enfermagem das primeiras 24 horas.",
+    "entrega": "No segundo dia, o técnico precisa colher sangue por punção de calcanhar e trocar a fixação da sonda. O bebê chora, faz careta e a saturação oscila durante a manipulação. A mãe chega à unidade numa cadeira de rodas e pergunta se pode ficar e se um dia vai conseguir amamentar."
+   },
+   {
+    "n": 3,
+    "tarefa": "Diga como avalia e alivia a dor nos procedimentos e como acolhe a mãe: permanência, contato com o bebê e produção de leite.",
+    "entrega": "No terceiro dia, o hemograma mostra anemia, e a equipe médica prescreve concentrado de hemácias para a tarde. O teste do pezinho ainda não foi colhido. A BCG não foi aplicada."
+   },
+   {
+    "n": 4,
+    "tarefa": "Diga o que faz antes e durante a transfusão em relação à triagem neonatal, às vacinas e à segurança, e como registra.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "H",
+    "item": "Trata a hipotermia como prioridade: incubadora aquecida, touca, ambiente sem correntes de ar e temperatura axilar seriada até a faixa de 36,5 a 37,5 °C, lembrando que abaixo de 36 °C o prematuro tem mais mortalidade (SBP, 2026)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Identifica o recém-nascido antes de qualquer procedimento, com pulseira de preferência no tornozelo contendo no mínimo o nome da mãe e o número do prontuário, conferida com a sala de parto (Protocolo de identificação do paciente, MS/ANVISA/Fiocruz, 2013)",
+    "peso": 0.3
+   },
+   {
+    "eixo": "C",
+    "item": "Reconhece desconforto respiratório com hipoxemia apesar do CPAP, comunica o médico de imediato e verifica o sistema: prongas bem posicionadas, narinas pérvias e parâmetros conforme a prescrição médica",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Assume pessoalmente a admissão e os cuidados diretos ao recém-nascido grave, privativos do enfermeiro, com o técnico assistindo sob supervisão em sinais vitais, registro e apoio aos procedimentos; surfactante, cateter umbilical e parâmetros ventilatórios são da equipe médica (Lei 7.498/1986, art. 11, I; Decreto 94.406/1987, art. 10)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "C",
+    "item": "Formula Troca de gases prejudicada como prioridade (hipoxemia pelo pulmão imaturo), Risco de infecção (prematuridade, cateter umbilical, procedimentos invasivos) e Risco de amamentação ineficaz (separação da mãe e imaturidade da sucção), sustentando os de risco com fatores de risco e não com sinais (NANDA-I, 2024-2026)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Prescreve cuidados com cateter umbilical e sonda orogástrica (fixação, conferência da posição antes de cada dieta, manuseio asséptico das conexões) e higiene das mãos nos cinco momentos por toda a equipe (Protocolo de higiene das mãos, MS/ANVISA/Fiocruz, 2013)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Confere e administra vitamina K e a primeira dose da hepatite B, esta nas primeiras 12 horas de vida, com registro, e mantém a BCG adiada até o bebê atingir 2.000 g (IN do Calendário Nacional de Vacinação, 2026)",
+    "peso": 0.3
+   },
+   {
+    "eixo": "C",
+    "item": "Avalia a dor por escala neonatal comportamental e fisiológica, como a NIPS, antes, durante e depois dos procedimentos, e registra o escore",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Alivia a dor sem fármaco com sucção não nutritiva e, quando possível, contato pele a pele com a mãe durante o procedimento, agrupa os procedimentos e comunica dor persistente ao médico, garantindo o direito de não sentir dor quando houver meio de evitá-la (Res. CONANDA 41/1995)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Garante à mãe permanência em tempo integral na unidade neonatal, sem horário de visita, e acesso livre ao bebê (ECA, art. 12), e incentiva o contato pele a pele assim que ele estiver estável",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Ensina a ordenha manual (mãos lavadas, massagem circular, polegar acima e indicador abaixo da aréola) e encaminha o leite pelo fluxo de coleta da instituição para a dieta por sonda (Caderno de Atenção Básica 23, MS, 2015)",
+    "peso": 0.3
+   },
+   {
+    "eixo": "A",
+    "item": "Colhe o teste do pezinho antes de instalar o concentrado de hemácias, porque o sangue transfundido prejudica a eletroforese de hemoglobina; na transfusão, confere à beira do leito a identificação do bebê com a bolsa e a etiqueta, fica ao lado nos primeiros 10 minutos e registra início, fim e intercorrências (Portaria GM/MS 11.685/2026)",
+    "peso": 0.6
+   }
+  ]
+ },
+ {
+  "id": "caso-hemorragia-pos-parto",
+  "titulo": "Hemorragia pós-parto no puerpério imediato",
+  "area": "mulher",
+  "cenario": "enf",
+  "tempo": 20,
+  "abertura": "Maternidade, alojamento conjunto, 50 minutos depois de um parto vaginal. Sra. L., 31 anos, terceiro parto, trabalho de parto de 14 horas com ocitocina, recém-nascido de 4.100 g. Recebeu ocitocina 10 UI intramuscular logo após o nascimento. Pressão arterial normal em todo o pré-natal. O bebê está no colo do companheiro. A técnica de enfermagem chama você: lençol e absorvente estão encharcados de sangue, com coágulos, e Sra. L. diz que está tonta. FC 112 bpm, PA 100/64 mmHg, pele fria, útero amolecido, palpado acima da cicatriz umbilical, bexiga palpável.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Diga o que faz nos primeiros 10 minutos, em ordem, quem chama e o que deixa pronto para a equipe médica.",
+    "entrega": "A equipe médica chega. Foram feitas ocitocina venosa em bolus lento, infusão de ocitocina em soro e ácido tranexâmico. O sangramento diminui, mas não para. Vinte minutos depois: FC 126 bpm, PA 84/52 mmHg, perda medida pelo peso das compressas de 1.300 mL. O útero volta a amolecer entre as massagens. O médico prescreve metilergometrina e misoprostol e pede dois concentrados de hemácias."
+   },
+   {
+    "n": 2,
+    "tarefa": "Calcule e interprete o índice de choque nos dois momentos, diga o que confere antes dos uterotônicos de segunda linha e como instala e vigia a transfusão.",
+    "entrega": "O útero fica firme e o sangramento cede. Depois das duas bolsas: FC 98 bpm, PA 108/66 mmHg, diurese presente. Sra. L. pede para ver o bebê e diz que tem medo de morrer e de não conseguir amamentar."
+   },
+   {
+    "n": 3,
+    "tarefa": "Formule os diagnósticos de enfermagem e a prescrição de enfermagem para as próximas 12 horas, dizendo o que cabe à técnica.",
+    "entrega": "Na passagem de plantão, a colega do turno seguinte pergunta o que aconteceu. Na folha da primeira hora após o parto há uma única pressão arterial anotada."
+   },
+   {
+    "n": 4,
+    "tarefa": "Diga o que registra agora, o que passa na passagem de plantão e o que propõe para a vigilância do quarto período na unidade.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "C",
+    "item": "Reconhece hemorragia pós-parto pela perda com instabilidade e pelo útero amolecido e aponta o tônus (atonia, causa de cerca de 70% dos casos) como causa provável, sem deixar de avaliar trauma, tecido e trombina (OPAS, 2018)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Pede ajuda e aciona a equipe médica, inicia massagem uterina, punciona dois acessos venosos calibrosos, colhe exames e reserva de sangue, esvazia a bexiga, mede a perda pelo peso das compressas e aquece a paciente (OPAS, 2018)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "H",
+    "item": "Prepara e administra o prescrito pelo protocolo: ocitocina 5 UI venosa lenta seguida de 20 a 40 UI em 500 mL de soro fisiológico a 250 mL/h e ácido tranexâmico 1 g venoso em 10 minutos, dentro de 3 horas do parto (OPAS, 2018; OMS, FIGO e ICM, 2025)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Calcula o índice de choque, 112 ÷ 100 = 1,1 e depois 126 ÷ 84 = 1,5, e reconhece que 0,9 ou mais indica risco de transfusão e 1,4 ou mais pede terapêutica agressiva e protocolo de transfusão maciça, antes mesmo da hipotensão franca (OPAS, 2018)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Antes da metilergometrina 0,2 mg intramuscular confere que não há hipertensão, sua contraindicação, e prepara o misoprostol 800 mcg por via retal prescrito (OPAS, 2018)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Na transfusão, confere à beira do leito nome completo, dados da bolsa e etiqueta de compatibilidade, afere sinais vitais até 60 minutos antes, fica ao lado nos primeiros 10 minutos, usa equipo próprio sem medicamento na mesma via e registra início, fim e intercorrências (Portaria GM/MS 11.685/2026)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Com a paciente estabilizada, formula Risco de sangramento e Risco de choque (fatores: atonia recente, perda volumosa, trabalho de parto prolongado com ocitocina, bebê grande) e Risco de amamentação ineficaz (separação e fadiga), explicando por que agora são diagnósticos de risco (NANDA-I, 2024-2026)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Prescreve vigilância próxima do globo de segurança de Pinard, do sangramento, da pressão, do pulso e da diurese, em intervalos escritos na prescrição, e orienta a técnica a executar, registrar e chamar o enfermeiro diante de útero amolecido, sangramento ou tontura",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Leva o bebê ao contato pele a pele e apoia a primeira mamada assim que a mãe estiver estável, com a ajuda do acompanhante de livre escolha, e responde ao medo com informação clara sobre o que aconteceu (Portaria GM/MS 5.350/2024, Rede Alyne)",
+    "peso": 0.3
+   },
+   {
+    "eixo": "A",
+    "item": "Registra em ordem cronológica, com data, hora e identificação, a perda medida, os sinais vitais, os índices de choque, os fármacos, as bolsas e as comunicações, sem rasura nem espaço em branco, e passa o caso de forma estruturada no plantão (Res. COFEN 514/2016)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Propõe para a unidade estratificação de risco na admissão e a cada reavaliação, vigilância padronizada do quarto período e medida da perda por coletor calibrado ou pesagem, porque a estimativa visual subestima o sangramento (OPAS, 2018, estratégia Zero Morte Materna por Hemorragia; OMS, FIGO e ICM, 2025)",
+    "peso": 0.5
+   }
+  ]
+ },
+ {
+  "id": "caso-delirium-queda-idoso",
+  "titulo": "Delirium no pós-operatório e risco de queda no idoso",
+  "area": "idoso",
+  "cenario": "enf",
+  "tempo": 20,
+  "abertura": "Enfermaria de ortopedia, plantão noturno. Sr. A., 81 anos, segundo dia de pós-operatório de artroplastia de quadril por fratura após queda em casa. Segundo a filha, antes da internação era independente, lia jornal e cuidava das próprias contas. Usa óculos e aparelho auditivo, que ficaram numa sacola no armário. Prescritos: dipirona, tramadol, enoxaparina profilática e 'diazepam 10 mg se necessário'. A sonda vesical foi retirada às 14h. À 1h, o técnico chama você: o paciente arrancou o acesso venoso, tenta sair da cama pela grade, diz que precisa ir para o trabalho e não reconhece onde está. O técnico pergunta se pode amarrar e dar o diazepam.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Diga como avalia o paciente agora, que causas procura e o que responde ao técnico.",
+    "entrega": "SpO2 94% em ar ambiente, glicemia capilar de 128 mg/dL, FC 96 bpm, PA 150/84 mmHg, temperatura 37,3 °C. Geme ao mexer a perna operada. Não urinou desde a retirada da sonda e tem globo vesical palpável. Alterna sonolência e agitação e não consegue dizer os meses do ano de trás para frente. O médico plantonista prescreve cateterismo vesical de alívio e analgesia, suspende o diazepam e pede exames."
+   },
+   {
+    "n": 2,
+    "tarefa": "Formule os diagnósticos de enfermagem prioritários com o raciocínio e escreva a prescrição de enfermagem para tratar o delirium e prevenir queda sem contenção.",
+    "entrega": "Saíram 700 mL de urina. Ele fica mais calmo, mas segue desorientado. Às 4h, o técnico o encontra sentado no chão ao lado da cama, com a grade elevada. Está acordado, reclama de dor no quadril operado e tem um corte pequeno na testa."
+   },
+   {
+    "n": 3,
+    "tarefa": "Diga o que faz depois da queda, antes de levantá-lo, e como registra e notifica o incidente.",
+    "entrega": "Radiografia sem luxação da prótese; avaliação médica sem sinal de trauma craniano grave. De manhã, a filha chega irritada e exige que o pai fique amarrado à noite e com remédio para dormir."
+   },
+   {
+    "n": 4,
+    "tarefa": "Conduza a conversa com a filha e diga o que muda no plano até a alta.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "C",
+    "item": "Trata a confusão súbita como emergência e procura a causa antes de sedar: oxigenação, glicemia, sinais vitais, dor, retenção urinária, constipação e fármacos como o tramadol e o benzodiazepínico (NICE CG103, 2023)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Aplica o CAM ou o 4AT e conclui delirium (início agudo e curso flutuante com desatenção, mais pensamento desorganizado ou alteração do nível de consciência), comunicando o médico",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Não cumpre o 'diazepam se necessário': prescrição sem condição de uso pede esclarecimento, e benzodiazepínico no idoso piora o delirium e aumenta o risco de queda; solicita ao médico a revisão (Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, MS/ANVISA, 2013; critérios de Beers, AGS, 2023)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Não autoriza contenção de rotina: ela só cabe como único meio de prevenir dano imediato ou iminente, sob supervisão direta do enfermeiro, com monitoramento e registro de razões, duração, avaliações e eventos adversos (Res. COFEN 746/2024)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "C",
+    "item": "Formula Confusão aguda como prioritária (mudança súbita e flutuante, com causa orgânica identificável), além de Dor aguda e Mobilidade física prejudicada, e liga a confusão aos fatores que a enfermagem modifica: dor, retenção urinária, privação sensorial e sono (NANDA-I, 2024-2026)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Prescreve a prevenção não farmacológica do delirium: óculos e aparelho auditivo, orientação com relógio e calendário, família presente, hidratação, controle de evacuação e diurese, dor tratada, sono sem procedimento noturno e mobilização precoce, com o técnico executando e registrando o comportamento (NICE CG103, 2023; HELP, Inouye, 1999)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Prescreve a prevenção de queda pelos fatores do próprio paciente, sem depender só de escore: ida programada ao banheiro, ajuda para levantar à noite, cama baixa e travada, campainha e andador ao alcance, calçado fechado; registra a escala de Morse usada na instituição (World Falls Guidelines, 2022; NICE NG249, 2025)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Depois da queda, examina antes de levantar (consciência, dor e deformidade no quadril operado, sinais vitais, glicemia), levanta com ajuda, comunica o médico e, por estar em enoxaparina, estende a vigilância neurológica pelo risco de hematoma tardio (World Falls Guidelines, 2022)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Registra a queda com hora, achados, condutas e comunicações e a notifica ao núcleo de segurança do paciente; com lesão, é evento adverso, que o núcleo notifica à vigilância sanitária (Protocolo de prevenção de quedas, MS/ANVISA/Fiocruz, 2013; RDC ANVISA 36/2013)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Acolhe a filha, explica que amarrar e sedar aumentam delirium, queda e perda de função, e a convida a ficar como acompanhante, direito da pessoa idosa internada, e a ajudar na reorientação (Estatuto da Pessoa Idosa, art. 16)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Na alta, faz a conciliação medicamentosa, garante que hipnótico e antipsicótico usados na internação não sigam para casa sem indicação e orienta a prevenção de quedas no domicílio",
+    "peso": 0.3
+   }
+  ]
+ },
+ {
+  "id": "caso-tuberculose-adesao",
+  "titulo": "Tuberculose pulmonar com baixa adesão ao tratamento na UBS",
+  "area": "transmissiveis",
+  "cenario": "aps",
+  "tempo": 20,
+  "abertura": "Unidade básica com equipe de Saúde da Família. Sr. J., 42 anos, pedreiro, tem tuberculose pulmonar confirmada por teste rápido molecular, sem resistência à rifampicina, notificada há 6 semanas. Começou o esquema básico com 49 kg: 3 comprimidos de dose fixa combinada por dia, autoadministrados, com retirada quinzenal na farmácia. O teste de HIV não consta no prontuário. Faltou ao retorno do primeiro mês e à baciloscopia de controle. A agente comunitária conta que ele está há 12 dias sem tomar os comprimidos. Veio hoje porque a esposa insistiu. Mora com a esposa, de 39 anos, o filho, de 3 anos, e a mãe, de 68 anos.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Conduza a consulta de enfermagem: o que pergunta, examina e mede, e que pendências do tratamento identifica.",
+    "entrega": "Ele conta que parou porque a urina ficou cor de laranja e achou que estava 'estragando o rim', e porque sente enjoo de manhã. Tem vergonha de que os colegas da obra saibam e passou a comer longe da família. Sem icterícia, sem lesão de pele, sem alteração da visão. Pesa hoje 54 kg. Tosse menos. Aceita colher escarro e fazer o teste rápido de HIV, que é não reagente."
+   },
+   {
+    "n": 2,
+    "tarefa": "Formule os diagnósticos de enfermagem com o raciocínio e monte com ele o plano de tratamento: dose, tomada observada e manejo dos efeitos.",
+    "entrega": "Ele aceita o tratamento diretamente observado na unidade às 6h30, antes da obra, de segunda a sexta. Na visita domiciliar: a esposa não tem sintomas; o filho de 3 anos está bem; a mãe tosse há 3 semanas e perdeu peso."
+   },
+   {
+    "n": 3,
+    "tarefa": "Diga como avalia cada contato e o que faz com cada um.",
+    "entrega": "A prova tuberculínica da esposa mede 8 mm e a radiografia de tórax dela é normal. O escarro da mãe é positivo no teste rápido molecular. No fim do segundo mês, a baciloscopia de controle do Sr. J. ainda é positiva. O encarregado da obra telefona para a unidade perguntando se ele 'tem a doença'."
+   },
+   {
+    "n": 4,
+    "tarefa": "Diga o que muda no tratamento do Sr. J., o que faz com a esposa e com a mãe e como responde ao encarregado.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "C",
+    "item": "Busca sem julgamento as causas da interrupção (crença sobre a urina, náusea, horário de trabalho, estigma) e pesquisa reações maiores que obrigariam suspender e referenciar: icterícia, exantema, alteração visual (Manual de Recomendações para o Controle da Tuberculose, MS, 2019)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Identifica as pendências: teste de HIV não feito, que é exigido no início, baciloscopia mensal de controle perdida, contatos não avaliados e dose desatualizada para o peso atual (MS, 2019)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Revisa a dose pelo peso: com 54 kg são 4 comprimidos de RHZE na fase intensiva, e não 3, ajustados pelo protocolo do programa ou com o médico da equipe; a prescrição de medicamentos do programa pelo enfermeiro depende de protocolo (MS, 2019; Lei 7.498/1986, art. 11, II, c; Res. COFEN 801/2026)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Explica que a urina alaranjada é efeito esperado da rifampicina e que náusea é reação menor, manejada sem suspender o tratamento, e colhe a baciloscopia de controle (MS, 2019)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "C",
+    "item": "Formula Comportamentos ineficazes de manutenção da saúde, relacionado à crença equivocada sobre o remédio, aos efeitos adversos e ao conflito com o horário de trabalho, e Conexão social inadequada, relacionada ao estigma (NANDA-I, 2024-2026); reconhece que 12 dias sem tomar ainda não configuram abandono, que exige interrupção por 30 dias consecutivos ou mais (MS, 2019)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Pactua o tratamento diretamente observado em horário compatível com a obra, no mínimo 3 vezes por semana para contar como TDO (24 doses na fase intensiva), registrando cada dose observada; supervisão só por familiar não conta (MS, 2019)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Avalia todos os contatos: a mãe, sintomática respiratória, colhe escarro; a esposa, assintomática, faz prova tuberculínica; o filho menor de 5 anos é prioridade e vai à avaliação com o médico da equipe; pergunta também pelos colegas de obra, que são contatos (MS, 2019)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Na esposa, com prova tuberculínica de 5 mm ou mais e radiografia normal, afasta doença ativa e indica tratamento da infecção latente, de preferência 3HP (isoniazida e rifapentina uma vez por semana, 12 doses) (MS, 2019; Nota Informativa 15/2024-CGTM/DATHI/SVSA/MS)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Notifica a mãe como caso novo no Sinan (notificação semanal), oferece teste de HIV, pede cultura com teste de sensibilidade e inicia o tratamento com TDO (Portaria GM/MS 11.211/2026; MS, 2019)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Com baciloscopia positiva no fim do 2º mês, pede cultura com teste de sensibilidade e prolonga a fase intensiva por mais 30 dias, com o médico da equipe (MS, 2019)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Não confirma nem nega o diagnóstico ao encarregado: o sigilo só se quebra nas hipóteses do Código de Ética, e contar no trabalho é decisão do paciente; conversa com ele sobre isso e sobre a avaliação dos colegas como contatos (Res. COFEN 564/2017, art. 52)",
+    "peso": 0.5
+   }
+  ]
+ },
+ {
+  "id": "caso-politrauma-xabcde",
+  "titulo": "Politraumatizado na sala de emergência pela sequência xABCDE",
+  "area": "urgencia",
+  "cenario": "emg",
+  "tempo": 25,
+  "abertura": "Estação de sala de emergência no formato da prova prática do título da ABENTI: caso simulado, tarefas com tempo marcado, dois avaliadores com formulário de checagem e foco na decisão do enfermeiro (Edital ABENTI 02/2026, item 13). Hospital de referência em trauma. O SAMU traz Sr. P., 27 anos, motociclista, colisão contra carro há 40 minutos, em prancha e com colar cervical. Ferimento na face medial da coxa direita com sangramento em jato que encharcou o curativo compressivo. Respira com esforço: FR 34 irpm, SpO2 88% com máscara não reinalante. FC 132 bpm, PA 98/78 mmHg, pele fria e pálida, enchimento capilar de 4 segundos. Abre os olhos ao chamado, está confuso e localiza a dor. Você é o enfermeiro da sala de emergência e recebe o paciente com a equipe médica. Responda cada tarefa no tempo.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Em 3 minutos: diga na ordem do xABCDE o que faz ou prepara nos primeiros minutos, começando pelo que mata primeiro.",
+    "entrega": "Torniquete aplicado na raiz da coxa às 10h12; o sangramento parou e o pulso pedioso desapareceu. Via aérea pérvia, colar mantido. Murmúrio vesicular abolido à direita, hipertimpanismo, traqueia desviada para a esquerda, jugulares túrgidas. SpO2 84%."
+   },
+   {
+    "n": 2,
+    "tarefa": "Em 3 minutos: diga o que reconhece no tórax, o que prepara e o que faz na circulação.",
+    "entrega": "O médico descomprime e drena o tórax; SpO2 sobe para 94%. Dois acessos calibrosos, amostra para tipagem colhida, primeiro concentrado de hemácias chegando. Pelve estável. Às 10h25, o nível de consciência cai: abre os olhos só à dor, fala palavras inapropriadas e faz flexão anormal à dor; pupila direita dilatada e sem reação à luz, esquerda reagente. Glicemia capilar de 142 mg/dL."
+   },
+   {
+    "n": 3,
+    "tarefa": "Em 3 minutos: calcule o Glasgow e o Glasgow-P, diga o que muda na via aérea e na meta de pressão e complete o D e o E.",
+    "entrega": "Paciente intubado pelo médico. Na exposição: sangue no meato uretral e equimose periorbitária bilateral. Temperatura de 35,4 °C. O médico pede sonda vesical e sonda gástrica antes da tomografia."
+   },
+   {
+    "n": 4,
+    "tarefa": "Em 4 minutos: diga o que faz com as sondas, formule os diagnósticos de enfermagem prioritários e diga o que registra e passa na transferência para a tomografia e o centro cirúrgico.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "C",
+    "item": "Começa pelo x: reconhece a hemorragia externa exsanguinante como a primeira ameaça, a ser controlada antes da via aérea (ATLS, 11ª ed., 2025)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Aplica ou prepara o torniquete proximal à lesão, apertado até parar o sangramento e o pulso distal, e anota o horário; torniquete frouxo só bloqueia o retorno venoso e aumenta o sangramento (ATLS, 2025)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "H",
+    "item": "Mantém estabilização manual da coluna cervical em toda manobra de via aérea e aspira se preciso; a aspiração do paciente grave na emergência é privativa do enfermeiro (Res. COFEN 557/2017)",
+    "peso": 0.3
+   },
+   {
+    "eixo": "C",
+    "item": "Reconhece pneumotórax hipertensivo pelo exame (murmúrio abolido, hipertimpanismo, traqueia desviada, jugulares túrgidas, hipoxemia) e prepara na hora o material da descompressão, que é do médico, sem esperar radiografia (ATLS, 2025)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Reconhece choque hemorrágico com sistólica ainda preservada pela taquicardia, pele fria, enchimento lento e pressão de pulso estreita, lembrando que a sistólica só cai quando cerca de um terço da volemia foi perdido (ATLS, 2025)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Na circulação: dois acessos calibrosos, amostra para tipagem, hemoderivados precoces e aquecidos, restrição de cristaloide e ácido tranexâmico 1 g em 10 minutos e 1 g em 8 horas, por estar dentro de 3 horas do trauma (ATLS, 2025)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "C",
+    "item": "Calcula Glasgow 8 (ocular 2, verbal 3, motor 3) e Glasgow-P 7 (uma pupila sem reação), reconhece TCE grave com sinal de herniação, comunica na hora, prepara a via aérea definitiva e passa a defender PAM de 80 mmHg ou mais, no lugar da hipotensão permissiva (ATLS, 2025; diretriz europeia de sangramento no trauma, 2023)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "H",
+    "item": "No D e no E: glicemia capilar, exposição completa, rolamento em bloco para ver o dorso e aquecimento logo em seguida, com fluidos aquecidos, porque a hipotermia agrava a coagulopatia (ATLS, 2025)",
+    "peso": 0.3
+   },
+   {
+    "eixo": "A",
+    "item": "Não passa sonda vesical às cegas com sangue no meato nem sonda gástrica pelo nariz com equimose periorbitária; comunica o médico e, se indicada, a sonda gástrica vai pela boca (ATLS, 2025)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Formula Troca de gases prejudicada (pneumotórax), Perfusão tissular periférica ineficaz (choque hemorrágico) e Perfusão cerebral ineficaz (TCE com sinais de hipertensão intracraniana), em ordem de prioridade pelo que ameaça a vida em cada momento (NANDA-I, 2024-2026)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Registra com horários o torniquete, os fármacos, as bolsas, os Glasgow seriados e as pupilas, passa o caso de forma estruturada e acompanha o paciente grave no transporte, cuidado direto privativo do enfermeiro (Lei 7.498/1986, art. 11, I)",
+    "peso": 0.4
+   }
+  ]
+ },
+ {
+  "id": "caso-noradrenalina-insulina-uti",
+  "titulo": "Noradrenalina e insulina em bomba com dupla checagem na UTI",
+  "area": "farmaco",
+  "cenario": "uti",
+  "tempo": 25,
+  "abertura": "Estação de UTI adulto no formato da prova prática do título da ABENTI: caso simulado, tarefas com tempo marcado, dois avaliadores com formulário de checagem e foco na decisão do enfermeiro (Edital ABENTI 02/2026, item 13). Sr. T., 58 anos, 75 kg, terceiro dia de choque séptico de foco abdominal, em ventilação mecânica, sem diabetes prévio. Prescrição médica do dia: noradrenalina 0,12 mcg/kg/min, solução de 2 ampolas de hemitartarato de norepinefrina 2 mg/mL (4 mL cada) em 242 mL de glicose 5%, em bomba, meta de PAM de 65 mmHg ou mais, titular entre 0,05 e 0,3 mcg/kg/min; e 'insulina regular 100U em SF 0,9% 100 mL, correr 4U/h, glicemia capilar de 1/1 h'. A glicemia capilar das 8h foi de 236 mg/dL. Dieta enteral contínua. Você assume o leito com uma técnica de enfermagem. Responda cada tarefa no tempo.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Em 4 minutos: calcule a concentração e a vazão da noradrenalina e da insulina, aponte o que na prescrição precisa ser esclarecido antes de iniciar e diga como faz a dupla checagem.",
+    "entrega": "A farmácia confirma que a dose está prescrita em norepinefrina base, e a prescrição da insulina é reescrita com a palavra unidades. Bombas programadas e conferidas. Às 11h, por restrição hídrica, chega a nova bolsa de noradrenalina com 4 ampolas em 234 mL, e a técnica se prepara para trocá-la mantendo a programação. PAM de 67 mmHg."
+   },
+   {
+    "n": 2,
+    "tarefa": "Em 3 minutos: diga a nova vazão e como faz a troca da bolsa sem expor o paciente a pico ou a queda de pressão.",
+    "entrega": "Troca feita. Às 14h, a PAM invasiva marca 58 mmHg, com curva amortecida e uma bolha visível no sistema; o manguito no outro braço mede PAM de 70 mmHg. A glicemia capilar das 14h é de 58 mg/dL. O paciente está sedado, RASS de menos 4. A dieta enteral foi pausada às 12h para um exame, e ninguém avisou o médico."
+   },
+   {
+    "n": 3,
+    "tarefa": "Em 4 minutos: diga o que faz com a pressão antes de mexer na noradrenalina e o que faz com a glicemia agora.",
+    "entrega": "Sistema arterial corrigido: PAM invasiva de 69 mmHg, sem mudar a vazão. Glicose venosa feita conforme o protocolo; glicemia 15 minutos depois de 112 mg/dL. A técnica pergunta se precisa registrar e notificar, já que 'deu tudo certo'."
+   },
+   {
+    "n": 4,
+    "tarefa": "Em 3 minutos: diga como registra, se e como notifica, o que comunica ao médico e o que propõe à unidade.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "C",
+    "item": "Calcula a noradrenalina: cada ampola de 4 mL tem 4 mg de norepinefrina base (8 mg do sal); 2 ampolas em 250 mL dão 32 mcg/mL de base; 0,12 × 75 = 9 mcg/min, ou 540 mcg/h, e 540 ÷ 32 = 16,9 mL/h (bula do hemitartarato de norepinefrina, Hipolabor)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "A",
+    "item": "Antes de iniciar, confirma com prescritor e farmácia se a dose está em base ou em sal, porque misturar as referências erra a dose pela metade ou pelo dobro, e pede que a insulina seja reescrita com unidades por extenso, já que 'U' pode levar a doses 10 ou 100 vezes maiores (Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, MS/ANVISA, 2013)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Calcula a insulina: 100 unidades em 100 mL dão 1 unidade/mL, dentro da faixa de estabilidade da bula (0,05 a 1,0 unidade/mL), e 4 unidades/h correm a 4 mL/h; reconhece 236 mg/dL acima do alvo de 140 a 180 mg/dL do paciente crítico (bula Novolin R; ADA, 2026)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Faz dupla checagem independente: a técnica recebe só prescrição, frasco e bomba e refaz a conta sem ver a sua; conferem à beira do leito paciente, medicamento, via, concentração e programação e registram as duas checagens (Protocolo MS/ANVISA, 2013)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Na troca para 16 mg em 250 mL (64 mcg/mL), recalcula antes de conectar, 540 ÷ 64 = 8,4 mL/h, porque manter 16,9 mL/h dobraria a dose; troca com a bolsa nova já preparada, sem parar a infusão, em via exclusiva, e reavalia a PAM logo depois (Protocolo MS/ANVISA, 2013; ENARE 2026/27, questão 60)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Diante da PAM baixa, confere primeiro se a medida é confiável (bolha, curva amortecida, transdutor no eixo flebostático, zero) e compara com o manguito antes de subir a noradrenalina; titula só dentro da faixa prescrita e comunica se a dose escalar (SSC, 2026)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Trata a glicemia de 58 mg/dL no paciente sedado sem nada pela boca: interrompe a insulina conforme o protocolo, faz a glicose venosa do protocolo, de preferência a 10 ou 20% e não a 50%, repete a glicemia em 10 a 15 minutos e mantém glicemia seriada (ADA, 2026; JBDS, 2023)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "C",
+    "item": "Identifica a causa, insulina mantida com a dieta enteral pausada sem aviso ao prescritor, classifica a hipoglicemia como nível 1 (abaixo de 70 e a partir de 54 mg/dL) e comunica o médico para rever o esquema enquanto a dieta estiver suspensa (ADA, 2026)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Registra valor, sintomas, conduta, horários e glicemias de controle e notifica o incidente ao núcleo de segurança do paciente mesmo sem dano aparente, por envolver medicamento de alta vigilância; se houve dano, o núcleo notifica ao Notivisa (RDC ANVISA 36/2013)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Mostra o limite da atuação: preparo, programação e titulação das infusões de alta vigilância ficam com o enfermeiro; a técnica capacitada participa da conferência e da glicemia sob supervisão; dose fora da faixa prescrita é decisão médica (Parecer COREN-BA 09/2025; Lei 7.498/1986, art. 11)",
+    "peso": 0.3
+   },
+   {
+    "eixo": "H",
+    "item": "Propõe à unidade concentrações padronizadas de noradrenalina e insulina, rótulo com a concentração final, aviso obrigatório ao prescritor quando a dieta é pausada com insulina em curso e dupla checagem em toda troca de bolsa (Protocolo MS/ANVISA, 2013)",
+    "peso": 0.3
+   }
+  ]
+ },
+ {
+  "id": "caso-surto-diarreia-creche",
+  "titulo": "Surto de diarreia em creche com investigação e notificação",
+  "area": "coletiva",
+  "cenario": "ger",
+  "tempo": 20,
+  "abertura": "Vigilância epidemiológica municipal, segunda-feira de manhã. A diretora de uma creche telefona: desde quarta-feira, 9 crianças e 1 educadora tiveram diarreia, algumas com vômitos e febre, e uma criança de 1 ano foi internada ontem com desidratação. A creche atende 64 crianças em 3 turmas (berçário com 18 crianças de 6 meses a 1 ano e meio, maternal I com 22 e maternal II com 24) e tem 12 funcionários. Todos comem a comida da cozinha da creche, e a água é da rede pública. Você é a enfermeira da vigilância responsável pela investigação.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Diga como confirma que é um surto, que definição de caso usa e o que faz e comunica ainda hoje.",
+    "entrega": "Visita no mesmo dia, com busca ativa pela lista de presença e por telefone às famílias: 15 crianças e 2 educadoras do berçário doentes. Por turma: berçário, 12 casos em 18 crianças; maternal I, 2 em 22; maternal II, 1 em 24. Os casos começam na quarta, voltam a subir no domingo e na segunda, e não há caso entre os funcionários da cozinha. O fraldário fica ao lado do lactário, não tem pia, o mesmo pano limpa o trocador e a bancada das mamadeiras, e as educadoras usam só gel alcoólico entre as trocas."
+   },
+   {
+    "n": 2,
+    "tarefa": "Calcule as taxas de ataque por turma e a geral das crianças, descreva a curva e formule a hipótese de fonte e de modo de transmissão.",
+    "entrega": "Fezes de 6 crianças enviadas ao laboratório de referência: rotavírus em 4. Nas Cadernetas do berçário, 7 das 12 crianças doentes não têm as duas doses da vacina rotavírus; duas delas, de 9 meses, nunca receberam nenhuma dose, e uma de 1 ano e 2 meses também nunca recebeu. A diretora pergunta se as crianças doentes não deveriam tomar antibiótico e antidiarreico."
+   },
+   {
+    "n": 3,
+    "tarefa": "Diga as medidas de controle na creche, o que faz com a vacinação e o que orienta às famílias das crianças doentes em casa.",
+    "entrega": "Duas semanas depois, não há caso novo há 10 dias. A secretaria pede o relatório, e um jornal local liga pedindo o nome da criança internada."
+   },
+   {
+    "n": 4,
+    "tarefa": "Diga como encerra a investigação, o que vai no relatório, para quem volta a informação e como responde ao jornal.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "C",
+    "item": "Confirma o surto (casos acima do esperado num espaço delimitado e ligados entre si) e cria definição de caso com tempo, lugar e pessoa, por exemplo três ou mais evacuações amolecidas em 24 horas desde a quarta-feira em criança ou funcionário da creche (MS, Manejo do paciente com diarreia, 2023)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Comunica o surto como evento de saúde pública em até 24 horas, pelo meio mais rápido, às esferas indicadas na lista, e o registra no Sinan sem esperar o agente; reconhece que a creche, instituição de cuidado coletivo, também deve comunicar (PRC 4/2017, Anexo V, com a lista da Portaria GM/MS 11.211/2026)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Faz busca ativa com a lista de presença e contato com as famílias, entrevista com roteiro padronizado e coleta de fezes dos casos recentes para o laboratório de referência antes de concluir",
+    "peso": 0.4
+   },
+   {
+    "eixo": "C",
+    "item": "Calcula as taxas de ataque: berçário 12 ÷ 18 = 67%, maternal I 2 ÷ 22 = 9%, maternal II 1 ÷ 24 = 4% e geral das crianças 15 ÷ 64 = 23%; o risco no berçário é cerca de dez vezes o das outras turmas juntas (67% contra 3 ÷ 46 = 6,5%)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "C",
+    "item": "Lê a curva com casos que voltam a subir dias depois, concentrados no berçário de fraldas e sem caso na cozinha, como transmissão de pessoa a pessoa, e não como fonte comum pontual de alimento, e liga a hipótese ao fraldário sem pia e ao pano compartilhado com o lactário",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Propõe as medidas: pia no fraldário e higiene das mãos com água e sabonete depois de cada troca de fralda e antes de preparar mamadeiras, porque há exposição a excreções e o gel não remove sujidade; fraldário separado do lactário; limpeza e desinfecção do trocador e das superfícies com material exclusivo; capacitação das educadoras (Protocolo de higiene das mãos, MS/ANVISA/Fiocruz, 2013; RDC ANVISA 42/2010)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "H",
+    "item": "Atualiza a vacina rotavírus dentro das janelas (1ª dose de 1 mês e 15 dias a 11 meses e 29 dias; 2ª de 3 meses e 15 dias a 23 meses e 29 dias): as crianças de 9 meses ainda podem iniciar o esquema, a de 1 ano e 2 meses não, e quem está com gastroenterite aguda tem a dose adiada até melhorar (IN do Calendário Nacional de Vacinação, 2026)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Orienta as famílias pelo plano A: soro de reidratação oral depois de cada evacuação (50 a 100 mL abaixo de 1 ano; 100 a 200 mL de 1 a 10 anos), alimentação mantida sem diluir o leite, zinco por 10 a 14 dias e retorno se piorar, se houver sangue, vômitos repetidos, pouca diurese ou recusa (MS, Manejo do paciente com diarreia, 2023)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Responde à diretora que antidiarreico não se usa e que antibiótico só cabe, por decisão médica, na disenteria com estado geral comprometido e na cólera grave (MS, Manejo do paciente com diarreia, 2023)",
+    "peso": 0.3
+   },
+   {
+    "eixo": "C",
+    "item": "No plano de enfermagem, usa Diarreia para as crianças acompanhadas em casa e Volume de líquidos inadequado para a criança internada com desidratação, e deixa claro que o diagnóstico do grupo vem da análise epidemiológica (NANDA-I, 2024-2026)",
+    "peso": 0.3
+   },
+   {
+    "eixo": "A",
+    "item": "Encerra a investigação com relatório (definição de caso, curva, taxas de ataque, agente, hipótese, medidas e resultado), devolve a informação à creche, às famílias e às unidades de saúde, encerra no Sinan e não fornece nomes ao jornal, porque as autoridades garantem o sigilo das informações pessoais (PRC 4/2017, Anexo V, art. 7º)",
+    "peso": 0.5
+   }
+  ]
  }
 ];
