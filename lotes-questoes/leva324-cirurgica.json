@@ -1,0 +1,1002 @@
+[
+ {
+  "q": "Em treinamento de admissão na Central de Material e Esterilização, a enfermeira apresenta um produto que, no uso, entra em contato com pele não íntegra ou com mucosas íntegras colonizadas, sem penetrar tecido subepitelial nem sistema vascular. Pela RDC ANVISA 15/2012, como esse produto se classifica e qual o processamento mínimo depois da limpeza?",
+  "alts": [
+   "Crítico, com esterilização obrigatória depois da limpeza",
+   "Não crítico, com limpeza e secagem como processo mínimo",
+   "Semicrítico, com esterilização obrigatória após a limpeza",
+   "Semicrítico, com desinfecção de alto nível no mínimo",
+   "Crítico, com desinfecção de alto nível como processo mínimo"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 15/2012, arts. 4º, 11, 12 e 14 (classificação de Spaulding)",
+  "coment": "O art. 4º da RDC ANVISA 15/2012 define como semicrítico o produto que entra em contato com pele não íntegra ou com mucosas íntegras colonizadas, e o art. 12 exige para ele, no mínimo, desinfecção de alto nível depois da limpeza. Crítico é o que penetra pele e mucosas adjacentes, tecidos subepiteliais e sistema vascular, ou está diretamente conectado a eles, e vai para esterilização (art. 11). Não crítico toca só pele íntegra ou nem toca o paciente, e a limpeza basta (art. 14). Para semicríticos de assistência ventilatória, anestesia e inaloterapia, a norma admite no mínimo nível intermediário ou termodesinfecção.",
+  "porAlt": [
+   "Crítico é o produto que penetra tecido subepitelial ou sistema vascular, o que não ocorre aqui.",
+   "Não crítico entra em contato só com pele íntegra ou nem toca o paciente; aqui há pele não íntegra.",
+   "A classe está certa, mas o mínimo exigido para semicrítico é desinfecção de alto nível, não esterilização.",
+   "Correta: contato com pele não íntegra ou mucosa íntegra colonizada define semicrítico, com no mínimo desinfecção de alto nível (art. 12).",
+   "Produto crítico exige esterilização (art. 11); desinfecção de alto nível não basta para ele."
+  ]
+ },
+ {
+  "q": "Um hospital cuja CME processa produtos não críticos, semicríticos e críticos de conformação não complexa vai iniciar videolaparoscopia, com pinças de lúmen inferior a 5 mm. Hoje a recepção e limpeza é separada do preparo apenas por barreira técnica. Pela RDC ANVISA 15/2012, o que é necessário para a CME processar esse instrumental?",
+  "alts": [
+   "Manter a Classe I, bastando reforçar a barreira técnica",
+   "Passar a Classe II, com separação física da área de limpeza",
+   "Passar a Classe II, mantendo apenas a barreira técnica",
+   "Manter a Classe I, desde que use lavadora ultrassônica",
+   "Passar a Classe II, dispensando a rastreabilidade dos lotes"
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 15/2012, arts. 4º, XIX, 5º, 25, 47 e 48",
+  "coment": "Pelo art. 5º da RDC ANVISA 15/2012, a CME Classe I processa não críticos, semicríticos e críticos de conformação não complexa; a Classe II processa também os críticos de conformação complexa. O art. 4º, XIX, define conformação complexa: lúmen inferior a 5 mm, fundo cego, espaços internos inacessíveis à fricção direta, reentrâncias ou válvulas. As pinças de videolaparoscopia descritas se enquadram. Na Classe II, recepção e limpeza ficam em sala com separação física (arts. 47 e 48), e cada lote esterilizado tem rastreabilidade (art. 25). A lavadora ultrassônica é exigida para lúmen abaixo de 5 mm (art. 67), mas não muda a classe da CME.",
+  "porAlt": [
+   "A Classe I não processa críticos de conformação complexa, por mais reforçada que seja a barreira técnica.",
+   "Correta: lúmen abaixo de 5 mm é conformação complexa, que exige CME Classe II com sala de limpeza fisicamente separada.",
+   "Na Classe II a separação entre limpeza e as demais áreas é física; barreira técnica só basta na Classe I.",
+   "A lavadora ultrassônica é exigida para lúmen estreito, mas não autoriza a Classe I a processar complexos.",
+   "A Classe II exige rastreabilidade de cada lote esterilizado (art. 25); ela não pode ser dispensada."
+  ]
+ },
+ {
+  "q": "Na vistoria de uma CME Classe II, a comissão de controle de infecção confere a climatização das salas de recepção e limpeza e de preparo e esterilização, que devem impedir que o ar contaminado alcance a área limpa. Pela RDC ANVISA 15/2012, qual combinação atende à norma?",
+  "alts": [
+   "Limpeza com pressão positiva; preparo com pressão negativa e exaustão",
+   "Limpeza e preparo com pressão positiva, ambas entre 20 e 24 °C",
+   "Limpeza e preparo com pressão negativa, ambas entre 15 e 20 °C",
+   "Limpeza entre 20 e 24 °C; preparo entre 15 e 20 °C, sem exaustão",
+   "Limpeza com pressão negativa e exaustão; preparo com pressão positiva"
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "RDC ANVISA 15/2012, arts. 52 e 54 (CME Classe II)",
+  "coment": "Na CME Classe II, a RDC ANVISA 15/2012 manda manter a sala de recepção e limpeza entre 18 e 22 °C, com pressão negativa em relação aos ambientes vizinhos e exaustão para o exterior (art. 52), e a sala de preparo e esterilização entre 20 e 24 °C, com pressão positiva (art. 54). A lógica é a do fluxo do sujo para o limpo: a pressão negativa retém na sala suja os aerossóis gerados na limpeza, e a positiva impede que ar de fora entre na área onde o produto limpo é inspecionado e embalado. Inverter as pressões levaria o ar contaminado para o preparo. A faixa de 15 a 20 °C não existe na norma.",
+  "porAlt": [
+   "As pressões estão invertidas: assim o ar da sala suja escaparia para o preparo.",
+   "A sala de limpeza precisa de pressão negativa com exaustão, não positiva, e fica entre 18 e 22 °C.",
+   "O preparo precisa de pressão positiva, e a faixa de 15 a 20 °C não consta da RDC 15/2012.",
+   "As temperaturas estão trocadas e inventadas, e a sala de limpeza exige exaustão para o exterior.",
+   "Correta: limpeza com pressão negativa e exaustão (art. 52) e preparo com pressão positiva (art. 54)."
+  ]
+ },
+ {
+  "q": "Em uma CME Classe I, a recepção e limpeza e o preparo ficam no mesmo ambiente, separados por barreira técnica. Um técnico recém-contratado pergunta o que isso significa e em que sentido o produto deve circular dentro da unidade. Pela RDC ANVISA 15/2012, qual a resposta correta da enfermeira?",
+  "alts": [
+   "Medidas de comportamento da equipe, com fluxo do sujo para o limpo",
+   "Parede física com guichê e fluxo do setor limpo para o sujo",
+   "Medidas de comportamento da equipe, com fluxo nos dois sentidos",
+   "Pressão negativa no preparo, com fluxo do setor sujo para o limpo",
+   "Sala exclusiva para cada etapa, com fluxo do sujo para o limpo"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "RDC ANVISA 15/2012, arts. 15, 44, 46, 47 e 48",
+  "coment": "Na CME Classe I, a RDC ANVISA 15/2012 admite que a separação entre a área suja (recepção e limpeza) e a área limpa seja feita por barreira técnica, isto é, por medidas de comportamento da equipe que impedem a passagem de contaminação, sem parede (arts. 44 e 46). Em qualquer classe, o fluxo dos produtos é unidirecional, sempre da área suja para a limpa (art. 15). A separação física, com salas próprias, é exigência da Classe II (arts. 47 e 48). O preparo, quando climatizado na Classe II, tem pressão positiva, nunca negativa, para proteger o produto limpo.",
+  "porAlt": [
+   "Correta: barreira técnica são medidas de comportamento (arts. 44 e 46), e o fluxo vai do sujo para o limpo (art. 15).",
+   "Parede física é separação da Classe II, e o fluxo do limpo para o sujo inverte o art. 15.",
+   "A definição de barreira técnica está certa, mas o fluxo nos dois sentidos fere o fluxo unidirecional.",
+   "O preparo não tem pressão negativa; na Classe II ele é mantido com pressão positiva.",
+   "Sala exclusiva para cada etapa é separação física, exigência da Classe II e não barreira técnica."
+  ]
+ },
+ {
+  "q": "Uma empresa entrega à CME, às 6 h, caixa de instrumental ortopédico consignado para cirurgia às 9 h, informando que o material já foi lavado na sede. O cirurgião também traz uma pinça de sua propriedade para o mesmo procedimento. Pela RDC ANVISA 15/2012, qual a conduta correta da enfermeira da CME?",
+  "alts": [
+   "Esterilizar a caixa consignada direto, pois já veio lavada",
+   "Limpar só a pinça do cirurgião e esterilizar a caixa",
+   "Limpar todo o material na própria CME antes de esterilizar",
+   "Devolver os dois materiais, pois a CME não processa terceiros",
+   "Desinfetar em alto nível o consignado e esterilizar a pinça"
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "RDC ANVISA 15/2012, arts. 62 e 65",
+  "coment": "O art. 65 da RDC ANVISA 15/2012 determina que todo produto passível de processamento, inclusive o consignado e o de propriedade do cirurgião, seja limpo dentro da CME antes da desinfecção ou da esterilização. A declaração de que a caixa foi lavada na sede da empresa não substitui a limpeza no serviço, que responde pelo processamento. Na recepção, o material é conferido e registrado (art. 62). Instrumental ortopédico de uso cirúrgico é crítico e, depois da limpeza, vai para esterilização, não para desinfecção. O planejamento da entrega precisa prever tempo para limpeza, preparo e esterilização completos.",
+  "porAlt": [
+   "A limpeza feita fora não dispensa a limpeza na CME, exigida pelo art. 65 para o consignado.",
+   "A regra vale para os dois: consignado e material do cirurgião são limpos na própria CME.",
+   "Correta: o art. 65 exige limpeza na CME de todo produto, consignado ou do cirurgião, antes de esterilizar.",
+   "A norma prevê o processamento do consignado e do material do cirurgião, com limpeza na própria CME.",
+   "Instrumental ortopédico cirúrgico é crítico e exige esterilização após a limpeza, não desinfecção."
+  ]
+ },
+ {
+  "q": "No preparo da CME, acabou a embalagem de grau cirúrgico. Um técnico propõe embalar caixas de instrumental em papel kraft, outro sugere campo de algodão cerzido e um terceiro, caixa metálica sem furos. Pela RDC ANVISA 15/2012, qual a decisão correta da enfermeira responsável pela unidade?",
+  "alts": [
+   "Aceitar o papel kraft, vetando o algodão cerzido e a caixa",
+   "Vetar as três opções e usar só embalagem regularizada",
+   "Aceitar o algodão cerzido, desde que em dupla camada",
+   "Aceitar a caixa metálica sem furos, por vedar melhor",
+   "Aceitar as três opções, se houver integrador em cada pacote"
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "RDC ANVISA 15/2012, arts. 79, 81 e 82",
+  "coment": "A embalagem para esterilização precisa ser regularizada para esse fim. A RDC ANVISA 15/2012 proíbe papel kraft, papel toalha, papel manilha, jornal, lâmina de alumínio e envelope plástico transparente não destinado à esterilização (art. 79), caixa metálica sem furos, que impede a entrada do agente esterilizante (art. 81), e tecido de algodão com remendo ou cerzido (art. 82). Nenhuma das três propostas é aceitável, e indicador químico dentro do pacote não corrige embalagem inadequada. O rótulo do produto esterilizado traz nome, lote, data da esterilização, data limite de uso, método e responsável pelo preparo (art. 85).",
+  "porAlt": [
+   "Papel kraft está na lista de embalagens proibidas do art. 79 da RDC 15/2012.",
+   "Correta: kraft (art. 79), caixa sem furos (art. 81) e algodão cerzido (art. 82) são vedados.",
+   "O art. 82 veda tecido de algodão remendado ou cerzido, em qualquer número de camadas.",
+   "Caixa metálica sem furos é proibida (art. 81), pois impede a penetração do agente esterilizante.",
+   "Indicador químico não corrige embalagem proibida; as três opções seguem vedadas pela norma."
+  ]
+ },
+ {
+  "q": "Na sala de desinfecção química da CME chegam máscaras de nebulização e circuitos de ventilação reutilizáveis, já limpos e secos. Um técnico pretende imergi-los em glutaraldeído, a mesma solução usada para outros produtos semicríticos da unidade. Pela RDC ANVISA 15/2012, qual a orientação correta da enfermeira?",
+  "alts": [
+   "Manter o glutaraldeído, que é o mínimo exigido para semicríticos",
+   "Esterilizar obrigatoriamente, por serem produtos críticos ventilatórios",
+   "Manter o glutaraldeído, desde que haja enxágue final bem abundante",
+   "Não usar aldeído; exigir no mínimo nível intermediário ou termodesinfecção",
+   "Limpeza é suficiente, já que produtos ventilatórios são não críticos"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "RDC ANVISA 15/2012, arts. 12, 13 e 86",
+  "coment": "Máscaras de nebulização e circuitos de ventilação tocam mucosas e são semicríticos. Para os semicríticos em geral, o art. 12 da RDC ANVISA 15/2012 exige desinfecção de alto nível, mas abre uma regra própria para produtos de assistência ventilatória, anestesia e inaloterapia: no mínimo desinfecção de nível intermediário ou termodesinfecção. O art. 13 proíbe desinfetar esses produtos por imersão em saneante à base de aldeídos, e o glutaraldeído é um aldeído; enxágue não afasta a proibição. A desinfecção química é feita em sala exclusiva (art. 86).",
+  "porAlt": [
+   "O art. 13 proíbe imergir produtos de assistência ventilatória e inaloterapia em saneante à base de aldeídos.",
+   "Esses produtos tocam mucosas e são semicríticos; a esterilização não é exigência mínima para eles.",
+   "A proibição do art. 13 vale para a imersão em aldeído, independentemente do enxágue posterior.",
+   "Correta: a imersão em aldeído é vedada (art. 13), e o mínimo é nível intermediário ou termodesinfecção (art. 12).",
+   "Produtos que tocam mucosas não são não críticos; exigem desinfecção, não apenas limpeza."
+  ]
+ },
+ {
+  "q": "Uma pinça termossensível de videocirurgia será esterilizada no plasma de peróxido de hidrogênio. Na conferência, a enfermeira da CME encontra o produto embalado em papel grau cirúrgico com filme, de base celulósica, envolvido por um campo de algodão interno. Qual a conduta correta antes de iniciar o ciclo?",
+  "alts": [
+   "Manter a embalagem, pois o plasma atravessa bem papel e algodão",
+   "Retirar só o campo de algodão e manter o papel grau cirúrgico",
+   "Enviar à estufa, método indicado para termossensíveis embalados",
+   "Enviar à autoclave a vapor, mais segura para qualquer embalagem",
+   "Reembalar sem celulose, em embalagem sintética compatível com o plasma"
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "RDC ANVISA 15/2012, arts. 92 e 94; métodos de esterilização de produtos para saúde",
+  "coment": "O plasma de peróxido de hidrogênio esteriliza produtos termossensíveis em ciclo rápido e sem resíduo tóxico, mas não aceita celulose, como papel e tecido de algodão, nem líquidos ou pós, porque esses materiais absorvem o peróxido e comprometem o ciclo. Papel grau cirúrgico é celulósico, assim como o campo de algodão; a pinça precisa ser reembalada em embalagem sintética compatível. A estufa não é permitida para esterilizar produtos para saúde (art. 92 da RDC ANVISA 15/2012), e o vapor serve só ao que tolera calor e umidade. Alterar parâmetros qualificados do equipamento é proibido (art. 94).",
+  "porAlt": [
+   "Celulose absorve o peróxido de hidrogênio e é incompatível com o plasma, seja papel ou algodão.",
+   "O papel grau cirúrgico também é celulósico e incompatível com o plasma de peróxido.",
+   "A estufa não é permitida para esterilizar produtos para saúde (art. 92 da RDC 15/2012).",
+   "Produto termossensível não tolera o calor e a umidade da autoclave a vapor.",
+   "Correta: o plasma não aceita celulose; a pinça vai em embalagem sintética compatível com o método."
+  ]
+ },
+ {
+  "q": "Durante cirurgia de urgência, cai no chão o único afastador específico disponível, e não há outro estéril no hospital. O cirurgião pede reprocessamento rápido, e a enfermeira da CME considera o ciclo para uso imediato da autoclave a vapor. Pela RDC ANVISA 15/2012, que condições a norma impõe para esse ciclo?",
+  "alts": [
+   "Só em urgência, documentado com dados do paciente e com integrador ou emulador químico",
+   "Em urgência ou em eletiva atrasada, com registro apenas no livro geral da autoclave",
+   "Só em urgência, com parâmetros reduzidos de tempo e monitorado por fita zebrada externa",
+   "Só em urgência, documentado com dados do paciente e liberado sem indicador químico",
+   "Em qualquer cirurgia, desde que o material seja usado em até uma hora após o ciclo"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "RDC ANVISA 15/2012, art. 94",
+  "coment": "O art. 94 da RDC ANVISA 15/2012 restringe o ciclo para uso imediato a situações de urgência. Cada uso é documentado com os dados do paciente que recebeu o produto, e o ciclo é monitorado por integrador ou emulador químico, o que permite rastrear o material e saber se o processo atingiu as condições previstas. O mesmo artigo proíbe alterar os parâmetros de esterilização qualificados do equipamento, de modo que não existe ciclo encurtado improvisado. A fita externa que muda de cor só mostra que o pacote passou pelo processo. Usar o ciclo rápido para compensar atraso ou falta de instrumental em eletiva é falha de planejamento, não urgência.",
+  "porAlt": [
+   "Correta: uso só em urgência, com registro dos dados do paciente e monitoramento por integrador ou emulador químico (art. 94).",
+   "Eletiva atrasada não é urgência, e o registro precisa trazer os dados do paciente que recebeu o produto.",
+   "Alterar parâmetros qualificados é proibido, e a fita externa só indica que o pacote passou pelo ciclo.",
+   "A norma exige monitoramento por integrador ou emulador químico; liberar sem indicador a contraria.",
+   "O ciclo para uso imediato vale só em urgência; a norma não cria prazo de uma hora para liberar outros casos."
+  ]
+ },
+ {
+  "q": "A enfermeira da CME revisa a rotina de monitoramento químico das cargas da autoclave a vapor. Um técnico sugere que a fita adesiva externa que muda de cor, colada em cada pacote, já seja suficiente. Pela RDC ANVISA 15/2012, como deve ser feito o monitoramento químico de cada carga?",
+  "alts": [
+   "Fita externa que muda de cor, colada em cada pacote da carga",
+   "Integrador classe 5 ou 6 só no primeiro ciclo do dia",
+   "Integrador químico classe 5 ou 6 em pacote teste desafio",
+   "Indicador biológico em pacote desafio, substituindo o químico",
+   "Teste de Bowie-Dick a cada carga, no lugar do integrador"
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "RDC ANVISA 15/2012, arts. 93, 96, 97 e 99",
+  "coment": "O art. 96 da RDC ANVISA 15/2012 exige monitoramento químico em cada carga, com pacote teste desafio contendo integrador químico classe 5 ou 6. A fita externa apenas distingue o pacote que passou pelo processo do que não passou; não prova que as condições de esterilização foram atingidas. Os demais controles têm periodicidade própria: indicador físico registrado a cada ciclo (art. 97), indicador biológico diário no ponto de maior desafio (art. 99) e teste de Bowie-Dick no primeiro ciclo do dia em autoclave com bomba de vácuo (art. 93). Um controle não substitui o outro.",
+  "porAlt": [
+   "A fita externa só mostra que o pacote passou pelo processo; não é o integrador exigido pelo art. 96.",
+   "O integrador classe 5 ou 6 vai em cada carga, não só no primeiro ciclo do dia.",
+   "Correta: o art. 96 exige integrador químico classe 5 ou 6 em pacote teste desafio a cada carga.",
+   "O indicador biológico tem periodicidade própria e não substitui o integrador químico de cada carga.",
+   "O Bowie-Dick avalia remoção de ar no primeiro ciclo do dia e não substitui o integrador de cada carga."
+  ]
+ },
+ {
+  "q": "Às 7 h, ao abrir a CME, a técnica de enfermagem programa o primeiro ciclo do dia da autoclave com bomba de vácuo e coloca na câmara o pacote do teste de Bowie-Dick. Um estagiário pergunta o que esse teste avalia e por que é feito nesse horário. Pela RDC ANVISA 15/2012, qual a resposta correta?",
+  "alts": [
+   "A esterilidade da carga, dispensando o indicador biológico",
+   "A temperatura de cada pacote, em todos os ciclos do dia",
+   "A presença de esporos viáveis, com leitura em incubadora",
+   "A remoção de ar da autoclave, no primeiro ciclo do dia",
+   "A integridade das embalagens, antes do armazenamento"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "RDC ANVISA 15/2012, arts. 93, 97 e 99",
+  "coment": "O teste de Bowie-Dick avalia a eficácia da remoção de ar da câmara da autoclave com bomba de vácuo e é feito no primeiro ciclo do dia (art. 93 da RDC ANVISA 15/2012). Ar residual impede que o vapor penetre de modo homogêneo nos pacotes, e o teste detecta essa falha antes de o equipamento receber as cargas do dia. Ele não substitui os demais controles: o indicador físico é registrado a cada ciclo (art. 97), o integrador químico vai em cada carga e o indicador biológico, que detecta esporos viáveis e é lido em incubadora, é usado diariamente (art. 99).",
+  "porAlt": [
+   "O Bowie-Dick não atesta a esterilidade da carga nem substitui o indicador biológico diário.",
+   "Temperatura de cada ciclo é registrada pelo indicador físico (art. 97), não pelo Bowie-Dick.",
+   "Esporos viáveis são detectados pelo indicador biológico lido em incubadora, não pelo Bowie-Dick.",
+   "Correta: o Bowie-Dick avalia a remoção de ar da autoclave a vácuo, no primeiro ciclo do dia (art. 93).",
+   "Integridade da embalagem é avaliada na inspeção e no armazenamento, não pelo teste de Bowie-Dick."
+  ]
+ },
+ {
+  "q": "Às 7 h 30, a CME esteriliza na autoclave uma carga com placas e parafusos ortopédicos para artroplastia eletiva às 9 h. O cirurgião pede a liberação imediata, argumentando que o integrador químico do pacote teste virou corretamente e o registro físico do ciclo está normal. Pela RDC ANVISA 15/2012, qual a conduta da enfermeira responsável?",
+  "alts": [
+   "Liberar a carga, pois o integrador classe 5 ou 6 é suficiente",
+   "Liberar a carga só após leitura negativa do indicador biológico",
+   "Liberar a carga e ler o indicador biológico após a cirurgia",
+   "Liberar após o Bowie-Dick do dia, que substitui o biológico",
+   "Liberar a carga se o indicador físico do ciclo estiver correto"
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "RDC ANVISA 15/2012, arts. 96, 97, 98 e 99",
+  "coment": "Para produtos implantáveis, o art. 98 da RDC ANVISA 15/2012 exige indicador biológico em toda carga, e a liberação só ocorre depois da leitura negativa. Integrador químico (art. 96) e indicador físico (art. 97) normais são obrigatórios, mas não substituem a prova biológica nessa situação, porque o implante permanece no organismo e uma falha de esterilização teria consequência grave. Fora dos implantáveis, o biológico é diário, no ponto de maior desafio (art. 99). Liberar e ler depois da cirurgia inverte a regra. A solução é planejar a esterilização com antecedência suficiente para a leitura.",
+  "porAlt": [
+   "O integrador é obrigatório em cada carga, mas implantável exige também leitura negativa do biológico.",
+   "Correta: carga com implantável só é liberada depois da leitura negativa do indicador biológico (art. 98).",
+   "Ler o biológico depois do implante inverte a regra do art. 98, que condiciona a liberação ao resultado.",
+   "O Bowie-Dick avalia remoção de ar e não substitui o indicador biológico da carga com implantável.",
+   "O indicador físico é registrado a cada ciclo, mas não dispensa o biológico na carga com implantável."
+  ]
+ },
+ {
+  "q": "O hospital passa a comprar um produto médico cujo rótulo traz a frase \"O fabricante recomenda o uso único\". O comitê de processamento discute se pode reprocessá-lo; o produto não consta da lista de reprocessamento proibido da ANVISA. Pela RDC ANVISA 156/2006, qual a interpretação correta da enfermeira da CME?",
+  "alts": [
+   "Passível de reprocessamento, com segurança sob responsabilidade do serviço",
+   "Reprocessamento proibido, pois a frase equivale a Proibido Reprocessar",
+   "Passível de reprocessamento, com responsabilidade transferida ao fabricante",
+   "Reprocessamento proibido, salvo se o serviço vender o reprocessado",
+   "Passível de reprocessamento, desde que a ANVISA autorize cada lote"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 156/2006, arts. 4º, 6º, 7º, 8º, 9º e 11; RE ANVISA 2.605/2006",
+  "coment": "A RDC ANVISA 156/2006 divide os produtos médicos em reprocessamento proibido e passíveis de reprocessamento, enquadramento feito no registro (art. 4º). Os proibidos trazem no rótulo \"Proibido Reprocessar\" (art. 6º). Nos passíveis, essa frase é vedada, e o fabricante pode escrever \"O fabricante recomenda o uso único\" (art. 7º). Só é proibido reprocessar o que tem \"Proibido Reprocessar\" no rótulo ou consta da RE 2.605/2006 (art. 8º). Ao reprocessar, a segurança do produto passa a ser responsabilidade do serviço de saúde (art. 9º), que precisa de protocolo validado. Comercializar reprocessado é proibido (art. 11).",
+  "porAlt": [
+   "Correta: a frase indica produto passível (art. 7º), e a segurança do reprocessado é do serviço (art. 9º).",
+   "Só a expressão \"Proibido Reprocessar\" ou a inclusão na RE 2.605/2006 proíbe; a recomendação não.",
+   "A responsabilidade pela segurança do produto reprocessado é do serviço de saúde, não do fabricante.",
+   "O produto é passível de reprocessamento, e vender produto reprocessado é proibido (art. 11).",
+   "A norma não prevê autorização da ANVISA por lote; o serviço responde pelo reprocessamento."
+  ]
+ },
+ {
+  "q": "Para reduzir custos, a gerência de um hospital propõe reprocessar cateteres epidurais e fios de sutura retirados de embalagens abertas e não usados, e ainda vender o serviço de reprocessamento a uma clínica vizinha. A enfermeira da CME é chamada a opinar. Pela RDC 156/2006 e pela RE 2.605/2006 da ANVISA, qual a análise correta?",
+  "alts": [
+   "Os cateteres podem ser reprocessados; fios de sutura e venda são vedados",
+   "Os dois itens podem ser reprocessados, mas a venda do serviço é vedada",
+   "As três propostas são vedadas: os itens constam da lista e a venda é proibida",
+   "Os itens são vedados, mas a venda do serviço é livre entre hospitais",
+   "Tudo é permitido, se o comitê validar o protocolo de reprocessamento"
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "RDC ANVISA 156/2006, arts. 8º e 13; RE ANVISA 2.605/2006",
+  "coment": "A RE ANVISA 2.605/2006 lista 66 produtos de uso único proibidos de ser reprocessados; entre eles estão o cateter epidural e os fios de sutura, além de luvas, bolsas de sangue, drenos e implantáveis de qualquer natureza. O art. 8º da RDC ANVISA 156/2006 proíbe reprocessar o que consta dessa lista ou traz \"Proibido Reprocessar\" no rótulo, e o fato de o fio não ter sido usado não muda o enquadramento. O art. 13 veda ao serviço de saúde vender reprocessamento a outras instituições, e o art. 11 proíbe comercializar produto reprocessado. A validação pelo comitê não se sobrepõe a essas proibições.",
+  "porAlt": [
+   "Cateter epidural também consta da RE 2.605/2006, e seu reprocessamento é proibido.",
+   "Os dois itens estão na lista de reprocessamento proibido da RE 2.605/2006.",
+   "Correta: cateter epidural e fio de sutura estão na RE 2.605/2006, e vender reprocessamento é vedado (art. 13).",
+   "O art. 13 da RDC 156/2006 proíbe o serviço de vender reprocessamento a outras instituições.",
+   "Protocolo validado não autoriza reprocessar item da lista nem vender o serviço a terceiros."
+  ]
+ },
+ {
+  "q": "No dia seguinte a uma gastrectomia de cinco horas, a enfermeira do centro cirúrgico visita o paciente na enfermaria, examina a pele das áreas de apoio, pergunta sobre formigamentos e avalia ferida operatória e dor, comparando com o planejado. Na SAEP, organizada pelas etapas da Res. COFEN 736/2024, essa visita corresponde a qual etapa?",
+  "alts": [
+   "Avaliação de Enfermagem",
+   "Diagnóstico de Enfermagem",
+   "Histórico de Enfermagem",
+   "Prescrição de Enfermagem",
+   "Evolução de Enfermagem"
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024 (Processo de Enfermagem)",
+  "coment": "A SAEP é o Processo de Enfermagem aplicado ao paciente cirúrgico, e suas duas visitas levam o enfermeiro do centro cirúrgico para fora da sala. A visita pré-operatória avalia e planeja; a visita pós-operatória verifica o resultado do cuidado prestado no transoperatório, como pele nas áreas de apoio, queixas neurológicas, ferida e dor. Pela Res. COFEN 736/2024, que revogou a 358/2009, as etapas são Avaliação, Diagnóstico, Planejamento, Implementação e Evolução, e é na Evolução que se compara o resultado obtido com o esperado. \"Histórico\" era o nome da primeira etapa na norma revogada.",
+  "porAlt": [
+   "A Avaliação é a primeira etapa, feita na visita pré-operatória, não a verificação do resultado.",
+   "O Diagnóstico nomeia respostas e riscos; a visita descrita verifica o resultado do cuidado.",
+   "Histórico era o nome da primeira etapa na Res. 358/2009, revogada pela 736/2024.",
+   "A prescrição integra o Planejamento e antecede o cuidado transoperatório, não o avalia depois.",
+   "Correta: a visita pós-operatória avalia o resultado do cuidado transoperatório, papel da Evolução de Enfermagem."
+  ]
+ },
+ {
+  "q": "Na visita pré-operatória, mulher de 34 anos, auxiliar de laboratório, agendada para histerectomia, relata coceira e vermelhidão nas mãos ao usar luvas de borracha e inchaço nos lábios ao encher balões de festa. Nada consta no prontuário. Qual a conduta da enfermeira, coerente com a etapa de avaliação da SAEP?",
+  "alts": [
+   "Registrar suspeita de alergia ao látex e comunicar à equipe cirúrgica",
+   "Registrar como dermatite de contato ocupacional, sem relevância cirúrgica",
+   "Orientar uso de luvas duplas na cirurgia, sem alterar o planejamento",
+   "Aguardar a avaliação médica, pois alergia não é dado de enfermagem",
+   "Suspender a cirurgia e encaminhar para teste alérgico antes de reagendar"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024 (Processo de Enfermagem); Protocolo para Cirurgia Segura (Portaria MS 1.377/2013)",
+  "coment": "A visita pré-operatória corresponde à Avaliação de Enfermagem da Res. COFEN 736/2024 e inclui a investigação de alergias, inclusive ao látex. Reação nas mãos com luvas de borracha e edema labial com balões sugerem sensibilização ao látex, informação que precisa estar registrada e chegar à equipe para o planejamento da sala e dos materiais. A alergia conhecida também é item do primeiro momento da lista de verificação de segurança cirúrgica, antes da indução. Suspender a cirurgia não é decisão da enfermagem, e luvas duplas de látex não protegem a paciente. Alergia é dado de enfermagem e de toda a equipe.",
+  "porAlt": [
+   "Correta: o relato sugere alergia ao látex, que deve ser registrada e comunicada para planejar a sala e os materiais.",
+   "Edema labial com balões indica reação sistêmica ao látex, com relevância direta na cirurgia.",
+   "Luvas duplas de látex aumentam a exposição; o planejamento da sala precisa mudar.",
+   "A investigação de alergias é parte da Avaliação de Enfermagem na visita pré-operatória.",
+   "Suspender a cirurgia não cabe à enfermagem; cabe registrar e comunicar para o planejamento."
+  ]
+ },
+ {
+  "q": "Na visita pré-operatória, a enfermeira avalia idosa de 81 anos, 44 kg, que fará laparotomia sob anestesia geral em sala mantida fria, com a cavidade abdominal exposta por cerca de três horas. A paciente está normotérmica, calma e com pele íntegra. Qual diagnóstico da NANDA-I 2024-2026 expressa o risco ligado à sala fria, à exposição e à anestesia?",
+  "alts": [
+   "Risco de lesão por posicionamento perioperatório, pelo baixo peso",
+   "Risco de infecção do sítio cirúrgico, pela cavidade exposta",
+   "Risco de aspiração, pela anestesia geral em idosa de baixo peso",
+   "Risco de hipotermia perioperatória, por exposição em sala fria",
+   "Risco de integridade da pele prejudicada, pela sala fria"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NANDA-I 2024-2026 (13ª ed.); Resolução COFEN 736/2024; Res. CFM 2.174/2017, art. 3º",
+  "coment": "A anestesia inibe a termorregulação e causa vasodilatação; em sala fria, com cavidade aberta por horas, a perda de calor é grande. Idade avançada e baixo peso somam risco. O título específico da NANDA-I 2024-2026 é Risco de hipotermia perioperatória, e a hipotermia perioperatória inadvertida é a temperatura central abaixo de 36 °C, associada a infecção de sítio cirúrgico, sangramento, eventos cardíacos e recuperação lenta. A Res. CFM 2.174/2017 exige monitorizar a temperatura em procedimentos com mais de 60 minutos. A prescrição inclui aquecimento ativo, soluções aquecidas e menor exposição.",
+  "porAlt": [
+   "O baixo peso pesa no posicionamento, mas sala fria, exposição e anestesia apontam para perda de calor.",
+   "A hipotermia aumenta a infecção, mas os fatores pedidos descrevem diretamente o risco térmico.",
+   "Risco de aspiração se apoia em via aérea e esvaziamento gástrico, não em sala fria e exposição.",
+   "Correta: sala fria, cavidade exposta e anestesia geral sustentam Risco de hipotermia perioperatória.",
+   "Sala fria não é fator do risco de pele; o diagnóstico térmico específico é o de hipotermia."
+  ]
+ },
+ {
+  "q": "Em sala operatória, a enfermeira aplica a escala ELPO a um paciente obeso que ficará cinco horas em decúbito lateral e obtém escore elevado. O técnico de enfermagem circulante pergunta se ele mesmo pode registrar o diagnóstico de risco de lesão por posicionamento e prescrever os coxins. Pela Res. COFEN 736/2024, a quem cabem o diagnóstico e a prescrição?",
+  "alts": [
+   "Ao técnico circulante, desde que registre o escore da ELPO",
+   "Ao anestesista, que responde pelo paciente durante a anestesia",
+   "Ao enfermeiro, de forma privativa, com execução pela equipe",
+   "A qualquer membro da equipe de enfermagem, sob supervisão",
+   "Ao cirurgião, que define a posição e os dispositivos da cirurgia"
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, art. 6º; Decreto 94.406/1987, art. 11",
+  "coment": "Pela Res. COFEN 736/2024, o diagnóstico e a prescrição de enfermagem são privativos do enfermeiro (art. 6º). Técnicos e auxiliares participam da execução dos cuidados prescritos, como posicionar o paciente e aplicar coxins e superfícies de suporte, sob supervisão; o Decreto 94.406/1987, art. 11, atribui ao auxiliar circular em sala e, se necessário, instrumentar. Na sala, o cirurgião define a posição e o anestesista protege via aérea e acessos, mas o diagnóstico de enfermagem e a prescrição da proteção dos pontos de apoio continuam sendo do enfermeiro.",
+  "porAlt": [
+   "Registrar o escore não dá ao técnico competência para diagnosticar ou prescrever, privativos do enfermeiro.",
+   "O anestesista protege via aérea e acessos; diagnóstico e prescrição de enfermagem são do enfermeiro.",
+   "Correta: diagnóstico e prescrição de enfermagem são privativos do enfermeiro (art. 6º), e a equipe executa.",
+   "A supervisão não transfere a técnicos e auxiliares atividades privativas do enfermeiro.",
+   "O cirurgião define a posição, mas não formula diagnóstico nem prescrição de enfermagem."
+  ]
+ },
+ {
+  "q": "Após a visita pré-operatória, a enfermeira prioriza o diagnóstico Risco de lesão por posicionamento perioperatório, estabelece como resultado esperado a pele íntegra nas áreas de apoio na visita pós-operatória e prescreve superfície de suporte e coxins nas proeminências. Pela Res. COFEN 736/2024, essas ações compõem qual etapa do Processo de Enfermagem?",
+  "alts": [
+   "Avaliação de Enfermagem",
+   "Planejamento de Enfermagem",
+   "Diagnóstico de Enfermagem",
+   "Implementação de Enfermagem",
+   "Histórico de Enfermagem"
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024 (Processo de Enfermagem)",
+  "coment": "A Res. COFEN 736/2024 organiza o Processo de Enfermagem em cinco etapas: Avaliação, Diagnóstico, Planejamento, Implementação e Evolução. O Planejamento reúne a priorização dos diagnósticos, a definição dos resultados esperados e a prescrição das intervenções. Na SAEP, é nessa etapa que se decidem proteção, aquecimento e equipamentos para a sala e a recuperação. A Implementação é a execução do que foi prescrito, como posicionar e aplicar os coxins, e a Evolução verifica, na visita pós-operatória, se o resultado esperado foi alcançado. \"Histórico\" é a denominação da norma revogada.",
+  "porAlt": [
+   "A Avaliação coleta os dados da visita pré-operatória e antecede a priorização e a prescrição.",
+   "Correta: priorizar, definir resultados esperados e prescrever compõem o Planejamento (Res. 736/2024).",
+   "O Diagnóstico nomeia o risco; priorizá-lo, definir resultados e prescrever já é Planejamento.",
+   "A Implementação executa os cuidados prescritos, como aplicar os coxins na sala operatória.",
+   "Histórico era o nome da primeira etapa na Res. 358/2009, revogada, e não abrange prescrição."
+  ]
+ },
+ {
+  "q": "Em hospital de pequeno porte, sem cirurgião auxiliar no plantão noturno, o técnico de enfermagem que instrumenta é convidado a auxiliar o cirurgião em uma apendicectomia. A supervisora consulta a norma do COFEN que, por mais de duas décadas, vedou esse auxílio. Em outubro de 2026, qual é a situação normativa?",
+  "alts": [
+   "A Res. COFEN 280/2003 segue vigente e veda o auxílio cirúrgico",
+   "A Res. COFEN 736/2024 revogou a antiga vedação ao auxílio cirúrgico",
+   "A Res. COFEN 280/2003 foi revogada pela 743/2024, sobre dimensionamento",
+   "A vedação passou ao Decreto 94.406/1987, que proíbe instrumentar",
+   "A Res. COFEN 280/2003, que vedava o auxílio, foi revogada pela 779/2025"
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Resolução COFEN 779/2025 (revoga a Resolução COFEN 280/2003); Decreto 94.406/1987, art. 11",
+  "coment": "A Res. COFEN 280/2003 vedava ao profissional de enfermagem auxiliar procedimentos cirúrgicos e foi revogada pela Res. COFEN 779/2025; a vedação deixou de existir. A supervisora deve conferir o texto da 779/2025 e o protocolo da instituição antes de definir a escala. Não confundir com outras normas: a 736/2024 trata do Processo de Enfermagem, a 743/2024 revogou a 543/2017 e levou o dimensionamento ao Parecer Normativo COFEN 1/2024, e o Decreto 94.406/1987, art. 11, atribui ao auxiliar de enfermagem circular em sala de cirurgia e, se necessário, instrumentar, sem proibir a instrumentação.",
+  "porAlt": [
+   "A Res. 280/2003 não está mais vigente; foi revogada pela Res. COFEN 779/2025.",
+   "A Res. 736/2024 trata do Processo de Enfermagem e não revogou a 280/2003.",
+   "A 743/2024 revogou a 543/2017, de dimensionamento; quem revogou a 280/2003 foi a 779/2025.",
+   "O Decreto 94.406/1987 permite ao auxiliar instrumentar, se necessário; não cria a vedação.",
+   "Correta: a Res. COFEN 779/2025 revogou a 280/2003, que proibia auxiliar procedimentos cirúrgicos."
+  ]
+ },
+ {
+  "q": "Ao implantar a Lista de Verificação de Segurança Cirúrgica, a coordenação de um centro cirúrgico discute quem deve conduzi-la. O cirurgião sugere que cada profissional confira apenas os itens da própria área, em momentos diferentes. Pelo Protocolo para Cirurgia Segura aprovado pela Portaria MS 1.377/2013, como deve ser a condução da lista?",
+  "alts": [
+   "Por cada profissional, nos itens da própria área de atuação",
+   "Pelo cirurgião, único responsável legal pela checagem",
+   "Por um único condutor, que pode ser médico ou da enfermagem",
+   "Pelo anestesista, que conduz os três momentos da lista",
+   "Por um único condutor, obrigatoriamente o enfermeiro da sala"
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Cirurgia segura",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria MS 1.377/2013 e Protocolo para Cirurgia Segura (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "O Protocolo para Cirurgia Segura, aprovado pela Portaria MS 1.377/2013 entre os protocolos básicos de segurança do paciente, adota a Lista de Verificação de Segurança Cirúrgica da OMS. A lista é aplicada em três momentos (antes da indução anestésica, antes da incisão e antes de o paciente sair da sala) e conduzida por um único profissional, o condutor, que pode ser médico ou profissional de enfermagem. Um condutor único evita lacunas e garante que cada item seja confirmado em voz alta com a equipe. Se algum item não estiver conforme, a verificação é interrompida e o paciente permanece na sala até a solução.",
+  "porAlt": [
+   "A checagem fragmentada por área contraria o protocolo, que prevê um único condutor para toda a lista.",
+   "O protocolo não reserva a condução ao cirurgião; o condutor pode ser médico ou da enfermagem.",
+   "Correta: a lista tem um único condutor, que pode ser médico ou profissional de enfermagem.",
+   "O anestesista participa dos itens anestésicos, mas a condução não é atribuição exclusiva dele.",
+   "O condutor é único, mas o protocolo não o restringe ao enfermeiro; pode ser médico."
+  ]
+ },
+ {
+  "q": "Homem de 56 anos está em sala para artroscopia do joelho direito. No primeiro momento da lista de verificação, ele confirma identidade, lado e procedimento, e o consentimento está assinado, mas o sítio cirúrgico não está demarcado. O anestesista quer induzir para não atrasar o mapa. Qual a conduta da enfermeira condutora da lista?",
+  "alts": [
+   "Interromper a lista e pedir a demarcação a quem fará o procedimento",
+   "Demarcar ela mesma o joelho direito e então liberar a indução anestésica",
+   "Liberar a indução e pedir a demarcação durante a pausa cirúrgica",
+   "Liberar a indução, já que o paciente confirmou o lado verbalmente",
+   "Registrar a falha na lista e retirar o paciente da sala operatória"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Cirurgia segura",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Portaria MS 1.377/2013 e Protocolo para Cirurgia Segura (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "Pelo Protocolo para Cirurgia Segura da Portaria MS 1.377/2013, o sítio é demarcado quando há lateralidade, estruturas múltiplas ou níveis, e a demarcação cabe a quem fará o procedimento, com o paciente acordado e participando, antes da indução. Joelho direito tem lateralidade. Item não conforme interrompe a verificação, e o paciente permanece na sala até a solução; não se retira o paciente nem se adia a correção para a pausa, quando ele já estará anestesiado e não poderá confirmar. A confirmação verbal do lado não substitui a marca, que orienta toda a equipe no momento da incisão.",
+  "porAlt": [
+   "Correta: item não conforme interrompe a lista, e a demarcação é feita por quem fará o procedimento.",
+   "A demarcação cabe a quem fará o procedimento, não à enfermeira condutora da lista.",
+   "Na pausa o paciente já está anestesiado e não pode participar da demarcação do sítio.",
+   "A confirmação verbal não substitui a demarcação exigida quando há lateralidade.",
+   "Diante de item não conforme o paciente permanece na sala até a solução, sem ser retirado."
+  ]
+ },
+ {
+  "q": "Menino de 5 anos, com 20 kg, está em sala para cirurgia abdominal. No primeiro momento da lista de verificação, antes da indução, a equipe avalia o risco de perda sanguínea. Pelo Protocolo para Cirurgia Segura da Portaria MS 1.377/2013, a partir de qual volume estimado esse risco deve ser assinalado como presente nessa criança?",
+  "alts": [
+   "Acima de 500 mL, como no adulto",
+   "Acima de 200 mL, por 10 mL/kg",
+   "Acima de 100 mL, por 5 mL/kg",
+   "Acima de 300 mL, por 15 mL/kg",
+   "Acima de 140 mL, por 7 mL/kg"
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Cirurgia segura",
+  "cenario": "cc",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Portaria MS 1.377/2013 e Protocolo para Cirurgia Segura (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "Antes da indução anestésica, a lista de verificação pergunta se há risco de perda sanguínea acima de 500 mL no adulto ou acima de 7 mL/kg na criança. Para 20 kg, o limiar é 7 x 20 = 140 mL. Assinalar o risco leva a equipe a garantir acesso venoso adequado e a planejar reposição e hemocomponentes antes de começar. Usar o valor do adulto numa criança subestima o perigo, porque 500 mL representam fração muito maior da volemia infantil. O item pertence ao primeiro momento, junto com via aérea difícil, risco de aspiração e alergias conhecidas.",
+  "porAlt": [
+   "O limiar de 500 mL é do adulto; na criança o protocolo usa 7 mL/kg.",
+   "O protocolo usa 7 mL/kg, não 10 mL/kg; o limiar seria 140 mL.",
+   "O valor de 5 mL/kg não é o do protocolo, que usa 7 mL/kg na criança.",
+   "O valor de 15 mL/kg não consta do protocolo; o limiar pediátrico é 7 mL/kg.",
+   "Correta: na criança o limiar é 7 mL/kg; para 20 kg, perda acima de 140 mL."
+  ]
+ },
+ {
+  "q": "No fechamento da parede de uma laparotomia, a contagem final feita pela circulante e pela instrumentadora aponta uma compressa a menos do que o total registrado na abertura da mesa. O cirurgião afirma que não há nada na cavidade e pede para corrigir o registro. Qual a conduta correta da equipe de enfermagem?",
+  "alts": [
+   "Corrigir o registro, pois o cirurgião assume a responsabilidade",
+   "Recontar, buscar no campo, avisar o cirurgião e seguir o protocolo",
+   "Liberar o fechamento e notificar a divergência no dia seguinte",
+   "Recontar só ao fim da cirurgia, já com o paciente na SRPA",
+   "Registrar a divergência e solicitar imagem só se houver sintomas"
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Cirurgia segura",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria MS 1.377/2013 e Protocolo para Cirurgia Segura (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "A contagem de compressas, agulhas e instrumentais é item do terceiro momento da lista de verificação, antes de o paciente sair da sala, e é feita ao montar a mesa, antes de fechar cavidade, no fechamento e a cada troca de pessoal, em voz alta e por duas pessoas. Divergência não se resolve no papel: faz-se nova contagem, busca no campo operatório, aviso ao cirurgião e aplicação do protocolo institucional, que pode prever exame de imagem antes de o paciente deixar a sala, com registro e notificação do evento. A afirmação do cirurgião não encerra a divergência.",
+  "porAlt": [
+   "Corrigir o registro esconde a divergência e expõe o paciente a corpo estranho retido.",
+   "Correta: divergência exige recontagem, busca, aviso ao cirurgião e protocolo institucional, com registro.",
+   "A divergência é tratada antes do fechamento e da saída da sala, não no dia seguinte.",
+   "A contagem é refeita antes de o paciente sair da sala, não depois de chegar à SRPA.",
+   "Esperar sintomas atrasa a busca; o protocolo define a conduta antes da saída da sala."
+  ]
+ },
+ {
+  "q": "Na pausa cirúrgica de uma colectomia eletiva, a enfermeira condutora pergunta sobre a profilaxia antimicrobiana. O anestesista informa que a cefazolina foi administrada às 7 h, e a incisão está prevista para as 8 h 30, depois de um atraso no posicionamento. Pelo Protocolo para Cirurgia Segura da Portaria MS 1.377/2013, como a enfermeira deve tratar esse item da pausa?",
+  "alts": [
+   "Como conforme, pois a dose foi dada no mesmo dia da cirurgia",
+   "Como conforme, pois a janela da profilaxia é de 120 minutos",
+   "Como item do anestesista, que não cabe à pausa cirúrgica",
+   "Como não conforme, pois a dose ficou fora dos 60 minutos",
+   "Como item a conferir só antes de o paciente sair da sala"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Cirurgia segura",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria MS 1.377/2013 e Protocolo para Cirurgia Segura (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "Na pausa antes da incisão, a lista de verificação confirma se o antimicrobiano profilático foi administrado nos últimos 60 minutos. Entre 7 h e 8 h 30 passam 90 minutos, e o item não está conforme. Pelo protocolo, item não conforme interrompe a verificação até a equipe resolver; a decisão sobre nova dose é médica e deve ser registrada. A profilaxia no momento certo reduz a infecção de sítio cirúrgico, e por isso o item está na pausa, com toda a equipe, e não no terceiro momento. O condutor da lista, seja médico ou da enfermagem, verbaliza a pergunta e não aceita resposta vaga.",
+  "porAlt": [
+   "O protocolo pede a dose nos últimos 60 minutos antes da incisão, não apenas no mesmo dia.",
+   "A janela usada na lista de verificação é de 60 minutos, não de 120 minutos.",
+   "A profilaxia é item da pausa, confirmado verbalmente diante de toda a equipe.",
+   "Correta: 90 minutos entre a dose e a incisão excedem os 60 minutos previstos na pausa.",
+   "A profilaxia se confere antes da incisão; antes da saída da sala o momento já passou."
+  ]
+ },
+ {
+  "q": "Mulher de 45 anos, na SRPA após histerectomia, atinge às 11 h o escore de alta definido no protocolo do serviço, com dor controlada e sinais vitais estáveis. A enfermaria telefona pedindo a transferência imediata, porque o médico plantonista da SRPA está em uma intercorrência. Pela Res. CFM 2.174/2017, qual a conduta da enfermeira da SRPA?",
+  "alts": [
+   "Registrar o escore e comunicar o médico, que decide e assina a alta",
+   "Dar alta e transferir, pois o escore do protocolo foi atingido",
+   "Transferir e pedir que o médico da enfermaria assine a alta",
+   "Dar alta após dupla checagem do escore com outro enfermeiro",
+   "Aguardar o cirurgião, único profissional que pode dar a alta"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Recuperação pós-anestésica",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CFM 2.174/2017, art. 7º, § 5º",
+  "coment": "O § 5º do art. 7º da Res. CFM 2.174/2017 estabelece que a alta da SRPA é de responsabilidade exclusiva do médico anestesista ou do médico plantonista da SRPA. A enfermeira aplica a escala adotada pelo serviço, registra a evolução e comunica quando o paciente atinge os critérios do protocolo, mas a decisão e a assinatura da alta são médicas. A urgência da enfermaria não altera essa regra; a paciente segue monitorizada até a liberação. O cirurgião e o médico da enfermaria não estão entre os profissionais indicados pela resolução para essa alta.",
+  "porAlt": [
+   "Correta: a enfermeira registra e comunica, e a alta da SRPA é exclusiva do anestesista ou do plantonista (art. 7º, § 5º).",
+   "Atingir o escore apoia a decisão, mas a alta da SRPA é ato do médico anestesista ou plantonista.",
+   "O médico da enfermaria não está entre os responsáveis pela alta da SRPA na Res. 2.174/2017.",
+   "Dupla checagem de enfermagem não substitui a alta médica exigida pelo art. 7º, § 5º.",
+   "A resolução atribui a alta ao anestesista ou ao plantonista da SRPA, não ao cirurgião."
+  ]
+ },
+ {
+  "q": "Homem de 63 anos é admitido na SRPA após prostatectomia sob anestesia geral. A enfermeira organiza a ficha de recuperação, com consciência, pressão arterial, frequência cardíaca, saturação, temperatura, atividade motora e dor. Pelo Anexo IV da Res. CFM 2.174/2017, com que intervalo máximo esses dados devem ser registrados durante a primeira hora?",
+  "alts": [
+   "A cada 10 minutos",
+   "A cada 30 minutos",
+   "A cada 15 minutos",
+   "A cada 5 minutos",
+   "A cada 60 minutos"
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Recuperação pós-anestésica",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Resolução CFM 2.174/2017, art. 7º e Anexo IV",
+  "coment": "O Anexo IV da Res. CFM 2.174/2017 determina que a ficha da recuperação pós-anestésica registre consciência, pressão arterial, frequência cardíaca, saturação de oxigênio, temperatura, atividade motora e dor a intervalos não superiores a 15 minutos na primeira hora. Da admissão à alta, o paciente fica com monitorização contínua de pressão, frequência, cardioscopia e oximetria. O intervalo de até 10 minutos é o do registro intraoperatório da ficha anestésica (Anexo III), frequentemente confundido com o da SRPA. Intercorrência exige reavaliação imediata, independentemente do intervalo.",
+  "porAlt": [
+   "Até 10 minutos é o intervalo do registro intraoperatório (Anexo III), não o da SRPA.",
+   "Trinta minutos excede o intervalo máximo de 15 minutos fixado para a primeira hora.",
+   "Correta: o Anexo IV fixa registro a intervalos não superiores a 15 minutos na primeira hora.",
+   "A resolução fixa intervalo máximo de 15 minutos; 5 minutos não é a regra do Anexo IV.",
+   "Uma hora entre registros deixaria a primeira hora praticamente sem documentação."
+  ]
+ },
+ {
+  "q": "Ao revisar a ficha da SRPA, um residente nota que o serviço usa o índice de Aldrete e Kroulik modificado, com cinco itens pontuados de 0 a 2 e máximo de 10 pontos. Ele pergunta qual item da versão original, publicada em 1970, foi substituído na revisão de 1995. Qual a resposta correta da enfermeira?",
+  "alts": [
+   "A circulação, trocada pela frequência cardíaca no monitor",
+   "A consciência, trocada pela escala de coma de Glasgow",
+   "A respiração, trocada pela capnografia em ar ambiente",
+   "A atividade, trocada pela intensidade da dor em escala numérica",
+   "A cor, trocada pela saturação de oxigênio pela oximetria"
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Recuperação pós-anestésica",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Aldrete JA, Kroulik D. Anesth Analg 1970; Aldrete JA. J Clin Anesth 1995 (índice modificado)",
+  "coment": "O índice de Aldrete e Kroulik, de 1970, soma cinco itens: atividade, respiração, circulação, consciência e cor, cada um de 0 a 2, com máximo de 10. Em 1995 Aldrete revisou o índice e trocou a cor da pele e das mucosas pela saturação de oxigênio medida pela oximetria de pulso, mais objetiva; é a versão chamada de modificada. Em 1998 vieram cinco itens extras para cirurgia ambulatorial. O escore documenta a recuperação e apoia a alta, que pela Res. CFM 2.174/2017 é decisão do médico anestesista ou do plantonista da SRPA.",
+  "porAlt": [
+   "A circulação continua sendo avaliada pela pressão arterial comparada à pré-anestésica.",
+   "A consciência segue no índice modificado; a escala de Glasgow não foi incorporada.",
+   "A respiração permanece como item clínico; a capnografia não entrou no índice.",
+   "A atividade motora segue no índice; a dor entrou só na versão ambulatorial de 1998.",
+   "Correta: na revisão de 1995, a cor foi substituída pela saturação de oxigênio pela oximetria de pulso."
+  ]
+ },
+ {
+  "q": "Mulher de 38 anos, em hospital-dia, após videolaparoscopia ginecológica, é avaliada pela versão de 1998 do índice de Aldrete para cirurgia ambulatorial, que acrescenta cinco itens ao índice modificado e eleva o máximo para 20 pontos. Ela soma 17. Quais são os itens acrescentados e o que esse escore indica quanto à alta para casa?",
+  "alts": [
+   "Curativo, dor, deambulação, alimentação e diurese; alta liberada com 17 de 20",
+   "Náuseas, sangramento, dor, temperatura e diurese; alta liberada acima de 15",
+   "Curativo, náuseas, deambulação, sede e diurese; ainda abaixo de 18 de 20",
+   "Curativo, dor, deambulação, alimentação e diurese; ainda abaixo de 18 de 20",
+   "Glasgow, dor, deambulação, alimentação e diurese; alta liberada com 16 de 20"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Recuperação pós-anestésica",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Aldrete JA. J Perianesth Nurs 1998 (índice para cirurgia ambulatorial); Resolução CFM 2.174/2017, art. 7º, § 5º",
+  "coment": "Em 1998 Aldrete acrescentou ao índice modificado, para a cirurgia ambulatorial, cinco itens: curativo, dor, deambulação, alimentação e diurese, também de 0 a 2, com máximo de 20. A alta para casa é considerada a partir de 18 de 20. Com 17 pontos, a paciente ainda não atinge o critério e segue em observação, com reavaliação dos itens deficitários. O escore apoia, mas não substitui, a decisão médica: pela Res. CFM 2.174/2017, art. 7º, § 5º, a alta da recuperação é de responsabilidade do anestesista ou do plantonista. A enfermeira registra e comunica.",
+  "porAlt": [
+   "Os itens estão certos, mas a alta para casa é considerada a partir de 18 de 20, não com 17.",
+   "Náuseas, sangramento e temperatura não são os itens acrescentados em 1998, e o corte não é 15.",
+   "Náuseas e sede não estão entre os itens de 1998, que incluem dor e alimentação.",
+   "Correta: os itens de 1998 são curativo, dor, deambulação, alimentação e diurese, e 17 fica abaixo de 18 de 20.",
+   "Glasgow não é item do índice, e 16 de 20 está abaixo do critério de 18 pontos."
+  ]
+ },
+ {
+  "q": "Homem de 70 anos, obeso, chega à SRPA sonolento após colecistectomia sob anestesia geral, com cateter nasal de oxigênio. Minutos depois apresenta roncos, retração de fúrcula e queda da SpO2 de 95% para 88%, sem vômitos. Qual a primeira ação da enfermeira?",
+  "alts": [
+   "Administrar naloxona e reavaliar a saturação em 15 minutos",
+   "Elevar a mandíbula, ofertar oxigênio e chamar o médico da SRPA",
+   "Sentar o paciente a 90 graus e aguardar que desperte sozinho",
+   "Aplicar a escala de Aldrete e registrar antes de qualquer conduta",
+   "Pedir sedação para tolerar a máscara de oxigênio e reavaliar"
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Recuperação pós-anestésica",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Resolução CFM 2.174/2017, arts. 6º e 7º (monitorização na recuperação pós-anestésica)",
+  "coment": "Roncos, retração de fúrcula e dessaturação em paciente sonolento após anestesia geral indicam obstrução da via aérea superior, mais frequentemente pela queda da língua, favorecida por obesidade e efeito residual de anestésicos e opioides. A prioridade na SRPA é a via aérea: elevação da mandíbula, cânula orofaríngea se necessário, oxigênio e chamada imediata do médico da SRPA, que pela Res. CFM 2.174/2017 é o responsável pelo setor. Fármacos como a naloxona dependem de avaliação e prescrição médicas. Aplicar escalas, aguardar o despertar ou sedar atrasa a desobstrução.",
+  "porAlt": [
+   "Naloxona exige prescrição médica e não é a primeira ação diante de obstrução mecânica da via aérea.",
+   "Correta: obstrução pela língua se trata primeiro com elevação da mandíbula, oxigênio e chamada do médico.",
+   "Aguardar o despertar mantém a obstrução e a hipoxemia em paciente que já dessatura.",
+   "Escala e registro vêm depois; a via aérea obstruída é tratada imediatamente.",
+   "Sedação piora a obstrução e a hipoventilação em paciente já sonolento."
+  ]
+ },
+ {
+  "q": "Homem de 50 anos, internado para herniorrafia inguinal eletiva com anestesia marcada para as 14 h, jantou às 20 h da véspera. Às 9 h, com sede, pergunta à enfermeira até que horas pode beber água. Pelo Anexo II da Res. CFM 2.174/2017, considerando o início da anestesia às 14 h, qual a orientação correta?",
+  "alts": [
+   "Nada após a meia-noite anterior",
+   "Até as 6 h, oito horas antes",
+   "Até as 8 h, seis horas antes",
+   "Até as 12 h, duas horas antes",
+   "Até as 10 h, quatro horas antes"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Resolução CFM 2.174/2017, Anexo II (jejum pré-operatório)",
+  "coment": "O Anexo II da Res. CFM 2.174/2017 fixa os jejuns mínimos observados na avaliação pré-anestésica: líquidos claros sem resíduos, como água e chá, 2 horas; leite materno, 4 horas; leite não humano ou fórmula e refeições leves, 6 horas; dieta geral, 8 horas. Com anestesia às 14 h, a água pode ser ingerida até as 12 h. O jantar das 20 h já cumpre com folga as 8 horas da dieta geral. O jejum desde a meia-noite para todos prolonga sem necessidade a privação e causa sede, hipoglicemia, desidratação e resistência à insulina.",
+  "porAlt": [
+   "Jejum absoluto desde a meia-noite não é exigido para líquidos claros, liberados até 2 horas antes.",
+   "Oito horas é o jejum da dieta geral, não o de líquidos claros sem resíduos.",
+   "Seis horas é o jejum de refeição leve ou de leite não humano, não o de água.",
+   "Correta: líquidos claros sem resíduos exigem jejum mínimo de 2 horas; com anestesia às 14 h, até as 12 h.",
+   "Quatro horas é o jejum do leite materno; para água, o mínimo é de 2 horas."
+  ]
+ },
+ {
+  "q": "Lactente de 4 meses, em aleitamento materno exclusivo, está internado na pediatria cirúrgica para correção de hérnia inguinal, com anestesia prevista para as 10 h. Durante a madrugada, a mãe pergunta à técnica de enfermagem até que horas pode amamentar. Pelo Anexo II da Res. CFM 2.174/2017, qual a orientação correta da enfermeira?",
+  "alts": [
+   "Até as 8 h, duas horas antes",
+   "Até as 4 h, seis horas antes",
+   "Até as 2 h, oito horas antes",
+   "Desde a meia-noite, sem mamar",
+   "Até as 6 h, quatro horas antes"
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Resolução CFM 2.174/2017, Anexo II (jejum pré-operatório)",
+  "coment": "Pelo Anexo II da Res. CFM 2.174/2017, o jejum mínimo para leite materno é de 4 horas, menor que o de leite não humano ou fórmula, de 6 horas, porque o leite humano é esvaziado do estômago mais depressa. Com anestesia às 10 h, a última mamada pode ocorrer até as 6 h. Líquidos claros sem resíduos seguem liberados até 2 horas antes, conforme a prescrição. Jejum prolongado em lactente aumenta o risco de hipoglicemia, desidratação e choro intenso, e a orientação precisa ser dada à mãe com o horário calculado, não com a regra genérica da meia-noite.",
+  "porAlt": [
+   "Duas horas é o jejum de líquidos claros sem resíduos, não o do leite materno.",
+   "Seis horas é o jejum de leite não humano ou fórmula, não o de leite materno.",
+   "Oito horas é o jejum da dieta geral, excessivo para o leite materno.",
+   "Jejum desde a meia-noite prolonga a privação sem respaldo no Anexo II para o leite materno.",
+   "Correta: o leite materno exige 4 horas de jejum; com anestesia às 10 h, mamada até as 6 h."
+  ]
+ },
+ {
+  "q": "Mulher de 60 anos, bem nutrida, será submetida a colectomia eletiva em hospital que adota o protocolo ACERTO. Na véspera, a enfermeira da clínica cirúrgica revisa com a equipe a prescrição pré e pós-operatória para garantir a aceleração da recuperação. Qual conduta é coerente com esse protocolo?",
+  "alts": [
+   "Líquido claro com carboidrato até 2 horas antes da anestesia",
+   "Jejum desde a meia-noite e sonda nasogástrica de rotina",
+   "Dreno abdominal de rotina e dieta só após eliminação de flatos",
+   "Analgesia baseada em opioide e repouso no leito por 48 horas",
+   "Jejum oral prolongado no pós e mobilização após a retirada de drenos"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretriz ACERTO de intervenções nutricionais perioperatórias (Rev Col Bras Cir, 2017); Resolução CFM 2.174/2017, Anexo II",
+  "coment": "O Projeto ACERTO (Aceleração da Recuperação Total Pós-operatória) é a versão brasileira do ERAS, com diretriz nutricional de 2017 do Colégio Brasileiro de Cirurgiões, da BRASPEN e do grupo ACERTO. Entre os elementos que envolvem a enfermagem estão informação pré-operatória, abreviação do jejum com líquido claro enriquecido com carboidrato até 2 horas antes da anestesia, normotermia, não usar sondas e drenos de rotina, analgesia multimodal com menos opioide, prevenção de náuseas, realimentação precoce e mobilização precoce. O tempo de 2 horas para líquidos claros coincide com o Anexo II da Res. CFM 2.174/2017.",
+  "porAlt": [
+   "Correta: o ACERTO abrevia o jejum com líquido claro enriquecido com carboidrato até 2 horas antes.",
+   "O ACERTO combate o jejum prolongado e o uso rotineiro de sonda nasogástrica.",
+   "O protocolo evita drenos de rotina e propõe realimentação precoce, sem esperar flatos.",
+   "O ACERTO usa analgesia multimodal com menos opioide e mobilização precoce, não repouso.",
+   "O protocolo prevê realimentação e mobilização precoces, sem esperar a retirada de drenos."
+  ]
+ },
+ {
+  "q": "Homem de 68 anos está na enfermaria há seis horas, no pós-operatório de herniorrafia inguinal sob raquianestesia. Não urinou desde a cirurgia, refere dor suprapúbica, está inquieto e com pressão de 168/96 mmHg, antes 130/80 mmHg. A ferida está seca e sem abaulamento. Qual a primeira hipótese a investigar na avaliação de enfermagem?",
+  "alts": [
+   "Hipertensão de rebote, solicitando anti-hipertensivo de resgate",
+   "Sangramento oculto da ferida, que eleva a pressão por dor",
+   "Retenção urinária, avaliando a presença de globo vesical",
+   "Cefaleia pós-punção, que causa inquietação e hipertensão",
+   "Delirium pós-operatório, solicitando sedação para controle"
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024 (Processo de Enfermagem); cuidados após raquianestesia",
+  "coment": "A raquianestesia bloqueia também as fibras que controlam a micção, e a retenção urinária é cuidado clássico de enfermagem depois do bloqueio do neuroeixo, somada à dor e à posição no leito. Dor suprapúbica, inquietação e ausência de diurese por seis horas, com pressão elevada, compõem o quadro: retenção urinária é causa conhecida de hipertensão no pós-operatório, assim como a dor. A avaliação começa pela palpação e percussão do globo vesical, com comunicação para a conduta prescrita. Antes de sedar paciente agitado, descartam-se hipóxia, hipoglicemia, dor e retenção.",
+  "porAlt": [
+   "Tratar a pressão sem buscar a causa ignora a retenção urinária, que explica o quadro.",
+   "A ferida está seca e sem abaulamento, e a dor descrita é suprapúbica, não incisional.",
+   "Correta: raquianestesia, anúria de seis horas, dor suprapúbica e hipertensão apontam para retenção urinária.",
+   "Cefaleia pós-punção dá dor de cabeça postural, não dor suprapúbica com ausência de diurese.",
+   "Sedar antes de descartar causas tratáveis, como retenção urinária e dor, é conduta errada."
+  ]
+ },
+ {
+  "q": "Homem de 48 anos, no primeiro dia de pós-operatório de artrodese lombar de seis horas em decúbito ventral, apresenta na enfermaria eritema que não embranquece em cristas ilíacas e joelhos, sem relato de alteração na saída da sala. A placa dispersiva foi colocada na coxa. Qual a interpretação mais provável da enfermeira?",
+  "alts": [
+   "Queimadura pela placa dispersiva, manifestada em pontos distantes dela",
+   "Lesão por pressão do posicionamento intraoperatório, de aparecimento tardio",
+   "Lesão surgida na própria enfermaria, já que não houve alteração na sala",
+   "Reação alérgica ao antisséptico degermante, típica de proeminências ósseas",
+   "Hematoma por anticoagulante profilático, sem relação com a posição"
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Lopes et al. ELPO, Rev Lat Am Enfermagem 2016; Resolução COFEN 736/2024 (visita pós-operatória)",
+  "coment": "Em decúbito ventral, os pontos de apoio incluem olhos e face, mamas e genitália, cristas ilíacas e joelhos. Seis horas de pressão sob anestesia, sem que o paciente perceba ou se mova, favorecem lesão por pressão intraoperatória, que muitas vezes só aparece depois da saída do centro cirúrgico. É por isso que a SAEP inclui a visita pós-operatória, que examina a pele nas áreas de apoio. A queimadura por eletrocirurgia ocorre no local da placa ou em caminho alternativo da corrente, não em proeminências da posição. A ELPO ajuda a identificar o risco antes da cirurgia.",
+  "porAlt": [
+   "Queimadura por placa aparece no local da placa ou em ponto de contato com metal, não nos apoios da prona.",
+   "Correta: cristas ilíacas e joelhos são apoios da prona, e a lesão intraoperatória costuma aparecer depois.",
+   "A ausência de alteração na saída da sala não exclui lesão intraoperatória, que surge mais tarde.",
+   "Reação ao antisséptico ocorre na área preparada, não seletivamente nas proeminências de apoio.",
+   "Hematoma não explica eritema restrito aos pontos de apoio de seis horas em decúbito ventral."
+  ]
+ },
+ {
+  "q": "Homem de 72 anos recebe raquianestesia para artroplastia de quadril. Dez minutos depois, a pressão arterial cai de 140/80 para 84/48 mmHg e a frequência cardíaca, de 78 para 50 bpm, sem sangramento no campo e sem alteração respiratória. Qual a explicação mais provável para a alteração, a ser comunicada de imediato ao anestesista?",
+  "alts": [
+   "Bloqueio simpático causado pela raquianestesia",
+   "Reação alérgica ao anestésico local injetado",
+   "Hipovolemia por sangramento oculto no campo",
+   "Hipertermia maligna desencadeada pelo bloqueio",
+   "Cefaleia pós-punção com resposta vagal intensa"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Anestesia e posicionamento",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Resolução CFM 2.174/2017, art. 3º (monitorização mínima); cuidados de enfermagem na raquianestesia",
+  "coment": "Na raquianestesia, o anestésico local no líquor bloqueia fibras sensitivas, motoras e simpáticas abaixo do nível atingido. O bloqueio simpático causa vasodilatação, com hipotensão, e, quando alcança fibras cardioaceleradoras, bradicardia. Por isso a enfermagem vigia pressão e frequência de perto nos primeiros minutos, com a monitorização mínima do art. 3º da Res. CFM 2.174/2017, e comunica o anestesista, que define a conduta. Hipertermia maligna é desencadeada por halogenados e succinilcolina, não por bloqueio. Cefaleia pós-punção é complicação tardia e postural.",
+  "porAlt": [
+   "Correta: hipotensão com bradicardia minutos após a raqui é efeito típico do bloqueio simpático.",
+   "Reação alérgica cursaria com taquicardia, lesões de pele ou broncoespasmo, não com bradicardia isolada.",
+   "O enunciado descarta sangramento, e hipovolemia tende a causar taquicardia, não bradicardia.",
+   "Hipertermia maligna é desencadeada por halogenados e succinilcolina, não por raquianestesia.",
+   "Cefaleia pós-punção é tardia e postural, não surge dez minutos após o bloqueio."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 10 dias será submetido a piloromiotomia sob anestesia geral, com duração prevista de 40 minutos. Na montagem da sala, a técnica de enfermagem pergunta se é preciso preparar a monitorização de temperatura, já que o procedimento é curto. Pelo art. 3º da Res. CFM 2.174/2017, qual a resposta correta da enfermeira?",
+  "alts": [
+   "Não: a temperatura só é exigida em procedimentos acima de 60 minutos",
+   "Não: a temperatura só é exigida se a anestesia usar halogenado",
+   "Sim: em recém-nascido a temperatura é monitorizada em qualquer duração",
+   "Sim: a temperatura é exigida em toda anestesia, de qualquer paciente",
+   "Não: basta a cardioscopia e a oximetria, exigidas em qualquer caso"
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Anestesia e posicionamento",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Resolução CFM 2.174/2017, art. 3º e Anexo VI",
+  "coment": "O art. 3º da Res. CFM 2.174/2017 lista a monitorização mínima: pressão e frequência cardíaca, cardioscopia e oximetria contínuas, capnografia em situações definidas e temperatura, com meios de manter a normotermia, em procedimentos com mais de 60 minutos e, em qualquer duração, nos de alto risco, como prematuros, recém-nascidos e pacientes com risco de hipertermia maligna. O recém-nascido perde calor com facilidade, e a hipotermia, abaixo de 36 °C, aumenta complicações. A sala precisa de termômetro e aquecimento ativo prontos, mesmo para procedimento curto.",
+  "porAlt": [
+   "A regra dos 60 minutos tem exceção para alto risco, e recém-nascido está entre eles.",
+   "A exigência em qualquer duração decorre do alto risco do paciente, não só do agente usado.",
+   "Correta: em recém-nascido, como em prematuros, a temperatura é monitorizada em procedimento de qualquer duração.",
+   "Para adultos sem alto risco, a temperatura é exigida em procedimentos acima de 60 minutos.",
+   "Cardioscopia e oximetria não substituem a temperatura, exigida no recém-nascido em qualquer duração."
+  ]
+ },
+ {
+  "q": "Na mesma manhã, a enfermeira aplica a ELPO a dois pacientes: o primeiro, em decúbito dorsal para cirurgia curta, soma 14 pontos; o segundo, em litotomia para cirurgia longa, soma 23 pontos. Ela precisa priorizar a proteção dos pontos de apoio com os recursos disponíveis. Como a escala de Lopes e colaboradores (2016) orienta essa interpretação?",
+  "alts": [
+   "Sete itens, escore de 7 a 35; o de 14 tem maior risco",
+   "Cinco itens, escore de 0 a 10; os dois têm risco elevado",
+   "Dez itens, escore de 10 a 40; o de 14 tem maior risco",
+   "Sete itens, escore de 7 a 35; o de 23 tem maior risco",
+   "Sete itens, escore de 0 a 28; o de 23 tem risco baixo"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Anestesia e posicionamento",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Lopes CMM et al. Escala ELPO, Rev Lat Am Enfermagem 2016;24:e2704",
+  "coment": "A Escala de Avaliação de Risco para o Desenvolvimento de Lesões Decorrentes do Posicionamento Cirúrgico (ELPO), construída e validada no Brasil por Lopes e colaboradores em 2016, tem sete itens, cada um com cinco subitens; o escore vai de 7 a 35, e quanto maior, maior o risco. Assim, o paciente com 23 pontos tem risco maior e recebe prioridade na proteção. A escala sustenta o diagnóstico Risco de lesão por posicionamento perioperatório e a prescrição: superfície de suporte, coxins nas proeminências, membros alinhados sem hiperextensão e registro da pele antes e depois.",
+  "porAlt": [
+   "A estrutura está certa, mas na ELPO o escore maior indica maior risco, não o menor.",
+   "Cinco itens de 0 a 2 descrevem o índice de Aldrete, não a ELPO, que tem sete itens.",
+   "A ELPO tem sete itens e escore de 7 a 35, e o maior escore indica maior risco.",
+   "Correta: a ELPO tem sete itens, escore de 7 a 35, e quanto maior o escore, maior o risco.",
+   "O escore da ELPO vai de 7 a 35, e 23 pontos não representam risco baixo."
+  ]
+ },
+ {
+  "q": "Mulher de 55 anos, após cirurgia de quatro horas em litotomia com perneiras, refere na enfermaria que não consegue levantar a ponta do pé direito, que arrasta ao caminhar, quadro ausente antes da operação. Qual estrutura foi provavelmente lesada e qual cuidado no posicionamento teria ajudado a preveni-la?",
+  "alts": [
+   "Nervo ulnar; acolchoar o cotovelo apoiado na braçadeira",
+   "Plexo braquial; evitar a abdução exagerada do braço na braçadeira",
+   "Nervo femoral; manter o quadril estendido durante a cirurgia",
+   "Nervo fibular comum; elevar uma perna de cada vez, rapidamente",
+   "Nervo fibular comum; proteger a cabeça da fíbula na perneira"
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Anestesia e posicionamento",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Lopes CMM et al. Escala ELPO, Rev Lat Am Enfermagem 2016;24:e2704",
+  "coment": "Na litotomia, o nervo fibular comum passa junto à cabeça da fíbula, na face lateral do joelho, onde pode ser comprimido pela perneira. A lesão causa pé caído, com dificuldade de dorsiflexão e marcha arrastada. A prevenção inclui acolchoar e afastar a cabeça da fíbula do suporte, limitar a duração e elevar e baixar as duas pernas juntas e devagar, o que também protege quadril e coluna. Outros riscos da litotomia são síndrome compartimental em procedimentos longos e lombalgia. Nervo ulnar e plexo braquial são lesões ligadas à posição dos membros superiores.",
+  "porAlt": [
+   "Lesão do nervo ulnar afeta mão e dedos, não a dorsiflexão do pé.",
+   "O plexo braquial é lesado por abdução do braço e afeta o membro superior, não o pé.",
+   "Lesão do nervo femoral compromete a extensão do joelho, não a dorsiflexão do pé.",
+   "O nervo está certo, mas as pernas devem ser elevadas e baixadas juntas e devagar.",
+   "Correta: pé caído após litotomia indica lesão do fibular comum, prevenida protegendo a cabeça da fíbula."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos fará colecistectomia videolaparoscópica sob anestesia geral venosa total, com intubação orotraqueal e ventilação mecânica, sem halogenados, com duração prevista de 50 minutos. Ao conferir a sala, a enfermeira revisa os monitores. Pelo art. 3º da Res. CFM 2.174/2017, além de pressão, frequência, cardioscopia e oximetria, qual monitorização é obrigatória nesse caso?",
+  "alts": [
+   "Temperatura, exigida em toda anestesia geral de adulto",
+   "Capnografia, pela via aérea artificial e ventilação mecânica",
+   "Nenhuma: capnografia só é exigida com uso de halogenado",
+   "Capnografia, mas só se houver história de hipertermia maligna",
+   "Pressão invasiva, exigida em toda intubação orotraqueal"
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Anestesia e posicionamento",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Resolução CFM 2.174/2017, art. 3º (monitorização mínima)",
+  "coment": "O art. 3º da Res. CFM 2.174/2017 exige, em toda anestesia, monitorização contínua de pressão arterial, frequência cardíaca, cardioscopia e oximetria. A capnografia é obrigatória quando há via aérea artificial, como o tubo orotraqueal, ventilação artificial ou uso de agente desencadeante de hipertermia maligna; basta uma dessas condições, e o caso tem as duas primeiras. A temperatura, com meios de manter a normotermia, é exigida em procedimentos com mais de 60 minutos e, em qualquer duração, nos de alto risco, o que não se aplica a adulto em cirurgia prevista de 50 minutos. Pressão invasiva não integra a monitorização mínima.",
+  "porAlt": [
+   "Em adulto sem alto risco, a temperatura é exigida em procedimentos com mais de 60 minutos.",
+   "Correta: via aérea artificial e ventilação mecânica tornam a capnografia obrigatória (art. 3º).",
+   "O halogenado é só uma das condições; via aérea artificial ou ventilação artificial também exigem capnografia.",
+   "A suscetibilidade à hipertermia maligna é uma das condições, não a única que exige capnografia.",
+   "Pressão invasiva não faz parte da monitorização mínima do art. 3º da Res. CFM 2.174/2017."
+  ]
+ }
+]

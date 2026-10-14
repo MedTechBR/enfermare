@@ -1,0 +1,1377 @@
+[
+ {
+  "q": "Durante a busca ativa de tuberculose em uma microárea urbana, o agente comunitário de saúde pergunta sobre tosse a todos os moradores dos domicílios visitados. Nenhum deles pertence a população vulnerável, tem diabetes ou é contato de caso de tuberculose. Segundo o manual do Ministério da Saúde, qual tempo de tosse define o sintomático respiratório nessa busca no território?",
+  "alts": [
+   "Tosse por 2 semanas ou mais.",
+   "Tosse de qualquer duração.",
+   "Tosse por 4 semanas ou mais.",
+   "Tosse por 3 semanas ou mais.",
+   "Tosse por 10 dias ou mais."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada, 2019 (MS)",
+  "coment": "O Manual de Recomendações para o Controle da Tuberculose no Brasil (2019) define o tempo de tosse do sintomático respiratório conforme a população e o local da busca. Na busca ativa no território, para a população geral, o critério é tosse por 3 semanas ou mais. Para quem procura o serviço de saúde e para pessoas com diabetes, o corte cai para 2 semanas. Em populações de maior risco, como pessoas vivendo com HIV, privadas de liberdade, em situação de rua, indígenas, contatos de tuberculose pulmonar e profissionais de saúde, qualquer duração de tosse já indica investigação. Identificado o sintomático, registra-se no livro próprio e colhe-se escarro.",
+  "porAlt": [
+   "Errada: 2 semanas ou mais é o corte para quem procura o serviço de saúde e para pessoas com diabetes.",
+   "Errada: qualquer duração de tosse vale para populações vulneráveis, como pessoas com HIV ou privadas de liberdade.",
+   "Errada: 4 semanas atrasaria o diagnóstico e não é o critério do manual para nenhuma população.",
+   "Correta: na busca ativa no território, a população geral é considerada sintomática respiratória com tosse por 3 semanas ou mais.",
+   "Errada: 10 dias de tosse é critério de caso suspeito de coqueluche no lactente, não de sintomático respiratório."
+  ]
+ },
+ {
+  "q": "Mulher de 34 anos procura a UBS com tosse produtiva há 3 semanas e sudorese noturna. A unidade não dispõe de teste rápido molecular, e a baciloscopia de escarro é o exame diagnóstico disponível. A enfermeira fornece o pote e orienta a coleta. Qual orientação está de acordo com o Manual de Recomendações para o Controle da Tuberculose no Brasil?",
+  "alts": [
+   "Colher as duas amostras na mesma manhã, em jejum, com 1 hora de intervalo.",
+   "Colher a 1ª amostra na consulta e a 2ª na manhã seguinte, ao despertar.",
+   "Colher três amostras em dias seguidos, cada uma ao despertar e em jejum.",
+   "Colher uma amostra de saliva na consulta, sem necessidade de repetir.",
+   "Colher a 1ª amostra ao despertar e a 2ª após 15 dias, na consulta."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada, 2019 (MS)",
+  "coment": "Pelo Manual de Recomendações para o Controle da Tuberculose no Brasil (2019), quando a baciloscopia é o exame diagnóstico, colhem-se duas amostras de escarro: a primeira no momento da consulta, para não perder a oportunidade, e a segunda na manhã seguinte, ao despertar. O enfermeiro orienta escarro de profundidade, obtido após tosse, e não saliva, com coleta em local ventilado e afastado de outras pessoas. Se a pessoa pertence a população vulnerável, a cultura com teste de sensibilidade é pedida já na primeira amostra. Todo caso confirmado faz teste de HIV, de preferência rápido, logo no início.",
+  "porAlt": [
+   "Errada: as duas amostras não são colhidas na mesma manhã; a segunda é a do despertar do dia seguinte.",
+   "Correta: onde a baciloscopia é o exame diagnóstico, são duas amostras: uma no momento da consulta e outra na manhã seguinte, ao despertar.",
+   "Errada: o manual de 2019 pede duas amostras para o diagnóstico, e não três em dias seguidos.",
+   "Errada: saliva não serve; o enfermeiro orienta escarro de profundidade, e o diagnóstico usa duas amostras.",
+   "Errada: esperar 15 dias atrasa o diagnóstico; a segunda amostra é colhida na manhã seguinte."
+  ]
+ },
+ {
+  "q": "Homem de 41 anos teve tuberculose pulmonar diagnosticada por teste rápido molecular (TRM-TB) e está no 3º mês do esquema básico, em tratamento diretamente observado na UBS. Na consulta mensal de enfermagem, ele pergunta qual exame vai mostrar se o tratamento está funcionando. Qual exame de controle a enfermeira deve solicitar, conforme o protocolo?",
+  "alts": [
+   "Teste rápido molecular mensal.",
+   "Cultura de escarro no 6º mês.",
+   "Radiografia de tórax mensal.",
+   "Baciloscopia de escarro mensal.",
+   "Prova tuberculínica trimestral."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada, 2019 (MS)",
+  "coment": "O teste rápido molecular para tuberculose detecta o DNA do bacilo e a resistência à rifampicina em cerca de duas horas, mas amplifica também material genético de bacilos mortos. Por isso, pelo Manual de Recomendações para o Controle da Tuberculose no Brasil (2019), não deve ser usado para controle de tratamento nem para diagnosticar retratamento. O acompanhamento dos casos pulmonares é feito com baciloscopia de escarro mensal. Baciloscopia positiva ao fim do 2º mês pede cultura com teste de sensibilidade e prolonga a fase intensiva por mais 30 dias. A cura é registrada com duas baciloscopias negativas, uma durante o acompanhamento e outra ao final.",
+  "porAlt": [
+   "Errada: o TRM-TB amplifica DNA de bacilo morto e não serve para controle de tratamento.",
+   "Errada: a cultura entra em situações específicas, como baciloscopia positiva no 2º mês, e não substitui o controle mensal.",
+   "Errada: a radiografia não é o exame de controle mensal da tuberculose pulmonar no esquema básico.",
+   "Correta: nos casos pulmonares, o controle é feito com baciloscopia mensal, e a cura exige duas baciloscopias negativas.",
+   "Errada: a prova tuberculínica avalia infecção em contatos e não tem papel no controle do tratamento."
+  ]
+ },
+ {
+  "q": "Mulher de 27 anos, 48 kg, caso novo de tuberculose pulmonar sem resistência à rifampicina, vai iniciar o esquema básico com comprimidos em dose fixa combinada de RHZE 150/75/400/275 mg. A enfermeira organiza o tratamento diretamente observado e explica a tomada diária. Qual é a dose da fase intensiva para essa paciente?",
+  "alts": [
+   "4 comprimidos ao dia, por 2 meses.",
+   "2 comprimidos ao dia, por 2 meses.",
+   "3 comprimidos ao dia, por 4 meses.",
+   "5 comprimidos ao dia, por 2 meses.",
+   "3 comprimidos ao dia, por 2 meses."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada, 2019 (MS)",
+  "coment": "O esquema básico 2RHZE/4RH vale para adultos e adolescentes a partir de 10 anos. Na fase intensiva, de 2 meses, usa-se o comprimido em dose fixa combinada de rifampicina, isoniazida, pirazinamida e etambutol (150/75/400/275 mg), com o número de comprimidos definido pelo peso, conforme o Manual de Recomendações para o Controle da Tuberculose no Brasil (2019): 2 comprimidos de 20 a 35 kg, 3 de 36 a 50 kg, 4 de 51 a 70 kg e 5 acima de 70 kg. Com 48 kg, a paciente toma 3 comprimidos de uma vez, de preferência em jejum. O peso é revisto nas consultas mensais, e a dose é ajustada a cada mudança de faixa.",
+  "porAlt": [
+   "Errada: 4 comprimidos correspondem à faixa de 51 a 70 kg, acima do peso da paciente.",
+   "Errada: 2 comprimidos são a dose da faixa de 20 a 35 kg, o que subtrataria a paciente.",
+   "Errada: a fase intensiva dura 2 meses; os 4 meses correspondem à manutenção com RH.",
+   "Errada: 5 comprimidos são indicados acima de 70 kg e expõem a paciente a toxicidade.",
+   "Correta: na faixa de 36 a 50 kg, a fase intensiva usa 3 comprimidos de RHZE por dia durante 2 meses."
+  ]
+ },
+ {
+  "q": "Homem de 52 anos em tratamento de tuberculose pulmonar mora longe da UBS. Para facilitar, a esposa observa a tomada diária em casa, e ele comparece à unidade uma vez por semana, quando a enfermeira observa a dose. Ao preencher o acompanhamento no Sinan, a enfermeira precisa decidir se o caso conta como tratamento diretamente observado. Qual é a decisão correta?",
+  "alts": [
+   "Conta como TDO, pois a esposa observa todas as doses diárias no domicílio.",
+   "Não conta como TDO: a esposa não supervisiona e o mínimo é 3 vezes por semana.",
+   "Conta como TDO, pois a regra exige ao menos uma dose observada por semana.",
+   "Não conta como TDO, pois a tomada deve ser observada todos os dias na UBS.",
+   "Conta como TDO se a esposa assinar a ficha de registro de cada dose diária."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada, 2019 (MS)",
+  "coment": "Pelo Manual de Recomendações para o Controle da Tuberculose no Brasil (2019), o tratamento diretamente observado é a tomada assistida por profissional de saúde ou por pessoa capacitada e supervisionada, idealmente em todos os dias úteis. Para o registro no Sinan, conta como TDO o tratamento observado ao menos 3 vezes por semana, o que soma 24 doses na fase intensiva e 48 na manutenção. A supervisão pela família não é contabilizada. No caso, só uma dose semanal é observada pela enfermeira, abaixo do mínimo. A conduta é reorganizar o TDO, por exemplo com visita domiciliar ou observação em local combinado, e registrar cada dose.",
+  "porAlt": [
+   "Errada: a tomada assistida tem de ser feita por profissional de saúde ou pessoa capacitada e supervisionada, não por familiar.",
+   "Correta: supervisão por familiar não conta, e o Sinan considera TDO ao menos 3 doses observadas por semana.",
+   "Errada: uma dose semanal fica abaixo do mínimo de 3 observações por semana exigido para o registro.",
+   "Errada: o ideal é observar em todos os dias úteis, mas o Sinan aceita 3 vezes por semana como TDO.",
+   "Errada: a assinatura do familiar não transforma a supervisão domiciliar em tratamento diretamente observado."
+  ]
+ },
+ {
+  "q": "Mulher de 39 anos, na 5ª semana do esquema básico para tuberculose, volta à UBS com náuseas, vômitos e dor no hipocôndrio direito há três dias, sem icterícia. O exame colhido mostra transaminases quatro vezes acima do limite superior da normalidade. Qual conduta a enfermeira deve adotar, segundo o manual de tuberculose?",
+  "alts": [
+   "Manter o esquema com antiemético, pois a suspensão exige mais de 5 vezes o limite.",
+   "Manter o esquema e repetir as transaminases em 30 dias, pois não há icterícia.",
+   "Suspender o esquema e referenciar, pois há sintomas e transaminases acima de 3 vezes.",
+   "Suspender a pirazinamida e manter rifampicina, isoniazida e etambutol na UBS.",
+   "Trocar a tomada para a noite, após o jantar, e manter o esquema sem suspensão."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada, 2019 (MS)",
+  "coment": "O manual de tuberculose separa reações menores, manejadas na APS sem suspender o esquema, de reações maiores, que exigem suspensão e referência. Hepatotoxicidade é reação maior e se define por icterícia, por transaminases acima de 5 vezes o limite superior sem sintomas ou por transaminases acima de 3 vezes com sintomas. A paciente tem náuseas, vômitos e dor no hipocôndrio direito com transaminases quatro vezes acima do limite, o que preenche o critério. O enfermeiro suspende o esquema e referencia, conforme o Manual de Recomendações para o Controle da Tuberculose no Brasil (2019). Náusea isolada, sem alteração laboratorial, seria reação menor.",
+  "porAlt": [
+   "Errada: o corte de 5 vezes vale para quem não tem sintomas; com náuseas e vômitos o limite é 3 vezes.",
+   "Errada: a icterícia não é exigida; sintomas com transaminases acima de 3 vezes já indicam suspensão imediata.",
+   "Correta: transaminases acima de 3 vezes o limite com sintomas configuram hepatotoxicidade, reação maior que exige suspensão e referência.",
+   "Errada: retirar um fármaco por conta própria na UBS não é a conduta; a reação maior exige suspender e referenciar.",
+   "Errada: mudar o horário serve para intolerância gástrica leve, não para hepatotoxicidade com alteração laboratorial."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 5 dias, assintomático, é filho de mãe com tuberculose pulmonar bacilífera diagnosticada na semana do parto, que já iniciou o esquema básico. A criança ainda não recebeu a BCG, e a mãe pergunta à enfermeira da sala de vacina se pode vacinar hoje. Qual conduta está de acordo com as normas vigentes?",
+  "alts": [
+   "Vacinar hoje, pois a BCG protege o recém-nascido das formas graves da doença.",
+   "Vacinar hoje e iniciar o tratamento preventivo no mesmo dia, sem prova tuberculínica.",
+   "Adiar a BCG até a mãe completar os 6 meses de tratamento da tuberculose.",
+   "Não vacinar, pois o contato com tuberculose contraindica a BCG de forma definitiva.",
+   "Adiar a BCG: tratamento preventivo, depois prova tuberculínica e BCG se negativa."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), item BCG; Manual de Recomendações para o Controle da Tuberculose no Brasil, 2019",
+  "coment": "A BCG protege a criança das formas graves de tuberculose, miliar e meníngea, e é indicada em dose única ao nascer. O recém-nascido que convive com caso de tuberculose pulmonar, porém, não é vacinado de imediato, porque pode já estar infectado. Pelo Manual de Recomendações para o Controle da Tuberculose no Brasil (2019) e pela Instrução Normativa do Calendário Nacional de Vacinação 2026, exclui-se doença ativa, faz-se o tratamento preventivo e, ao final, aplica-se a prova tuberculínica. Se a prova for negativa, a criança recebe a BCG. A enfermeira registra o adiamento e agenda a vacinação conforme o resultado.",
+  "porAlt": [
+   "Errada: a BCG imediata no contato de bacilífero não é a recomendação; antes se faz o tratamento preventivo.",
+   "Errada: a vacinação não ocorre junto com o tratamento preventivo; a decisão depende da prova tuberculínica ao final.",
+   "Errada: o adiamento não depende do fim do tratamento materno, e sim do término da prevenção na criança.",
+   "Errada: não há contraindicação definitiva; se a prova tuberculínica final for negativa, a criança é vacinada.",
+   "Correta: o recém-nascido contato de tuberculose pulmonar não recebe a BCG de imediato; exclui-se doença, faz-se a prevenção e a PT ao fim."
+  ]
+ },
+ {
+  "q": "Adolescente de 16 anos, assintomático, é contato domiciliar de caso de tuberculose pulmonar e tem cicatriz de BCG. A enfermeira aplicou a prova tuberculínica e, na leitura com 72 horas, mediu endurado de 7 mm no maior diâmetro. O exame físico é normal. Qual é a próxima conduta, segundo o manual de tuberculose?",
+  "alts": [
+   "Repetir a prova em 8 semanas, pois a BCG explica endurado até 10 mm.",
+   "Liberar o contato, pois com cicatriz de BCG o corte é 10 mm.",
+   "Iniciar o esquema básico 2RHZE/4RH sem necessidade de radiografia.",
+   "Iniciar 3HP de imediato, sem radiografia, pois a prova é positiva.",
+   "Radiografia de tórax e, se normal, tratamento da infecção latente."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2019; Nota Informativa nº 15/2024-CGTM/DATHI/SVSA/MS (ILTB)",
+  "coment": "Na avaliação de contatos de tuberculose pulmonar, o contato assintomático a partir de 10 anos faz prova tuberculínica ou IGRA. Pelo Manual de Recomendações para o Controle da Tuberculose no Brasil (2019), PT de 5 mm ou mais, com ou sem BCG prévia, leva à radiografia de tórax; se ela for normal, trata-se a infecção latente, hoje preferencialmente com o esquema 3HP. A PT abaixo de 5 mm é repetida em 8 semanas para detectar conversão. A radiografia é indispensável porque tratar doença ativa como infecção latente equivale a monoterapia. A leitura da PT é feita entre 48 e 72 horas, pelo maior diâmetro do endurado.",
+  "porAlt": [
+   "Errada: repetir em 8 semanas é conduta para PT abaixo de 5 mm, e a BCG não muda o ponto de corte.",
+   "Errada: o corte de 5 mm vale com ou sem BCG; 7 mm em contato indica investigação e tratamento.",
+   "Errada: o esquema básico é para doença ativa; o contato assintomático com PT positiva segue para radiografia.",
+   "Errada: antes de tratar a infecção latente é obrigatório excluir doença ativa com a radiografia de tórax.",
+   "Correta: PT de 5 mm ou mais, com ou sem BCG, leva à radiografia; se normal, trata-se a infecção latente."
+  ]
+ },
+ {
+  "q": "Homem de 46 anos está internado na clínica médica com tuberculose pulmonar confirmada por baciloscopia positiva, em precaução para aerossóis. Está no 6º dia do esquema básico, sem febre, e pede à enfermeira para circular pelo corredor. Segundo o manual de tuberculose, quando a precaução para aerossóis pode ser suspensa nesse caso confirmado?",
+  "alts": [
+   "Com duas baciloscopias negativas a partir da 2ª semana de tratamento.",
+   "Com um TRM-TB negativo colhido após o início do esquema básico.",
+   "Após 72 horas de tratamento, sem necessidade de nova baciloscopia.",
+   "Após 15 dias de tratamento, desde que esteja sem febre e sem tosse.",
+   "Com uma única baciloscopia negativa colhida em qualquer dia do tratamento."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada, 2019 (MS)",
+  "coment": "No hospital, o paciente com suspeita ou confirmação de tuberculose pulmonar fica em precaução para aerossóis, em quarto privativo com porta fechada, e o profissional usa respirador PFF2 ou N95; o paciente usa máscara cirúrgica, nunca o respirador. Pelo Manual de Recomendações para o Controle da Tuberculose no Brasil (2019), no suspeito o isolamento é suspenso com um TRM-TB negativo ou duas baciloscopias negativas. No caso confirmado, exigem-se duas baciloscopias negativas a partir da segunda semana de tratamento. O paciente está no 6º dia e deve permanecer em precaução, e a enfermeira explica o motivo e mantém as medidas.",
+  "porAlt": [
+   "Correta: no caso confirmado, o isolamento sai com duas baciloscopias negativas a partir da segunda semana de tratamento.",
+   "Errada: um TRM-TB negativo libera o suspeito, não o confirmado, e o TRM não serve para controle de tratamento.",
+   "Errada: não há liberação por tempo fixo de 72 horas; o critério para o caso confirmado é bacteriológico.",
+   "Errada: melhora clínica e tempo de tratamento não bastam; o manual exige duas baciloscopias negativas.",
+   "Errada: uma única baciloscopia negativa não basta; são duas, colhidas a partir da segunda semana."
+  ]
+ },
+ {
+  "q": "Mulher de 30 anos procura a UBS por mancha hipocrômica no antebraço esquerdo, de bordas imprecisas, há cerca de um ano, sem prurido. A enfermeira suspeita de hanseníase e vai pesquisar alteração de sensibilidade na lesão. Segundo o PCDT da Hanseníase, qual sensibilidade deve ser testada primeiro?",
+  "alts": [
+   "Térmica, que se altera antes da dolorosa e da tátil.",
+   "Tátil, que se altera antes da térmica e da dolorosa.",
+   "Dolorosa, que se altera antes da térmica e da tátil.",
+   "Vibratória, que se altera antes da térmica e da tátil.",
+   "Profunda, que se altera antes das superficiais."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "PCDT da Hanseníase, Portaria SCTIE/MS nº 67/2022",
+  "coment": "O diagnóstico de hanseníase é clínico e cabe à atenção primária. Pelo PCDT da Hanseníase (Portaria SCTIE/MS nº 67/2022), basta um dos três sinais cardinais: lesão ou área de pele com alteração de sensibilidade térmica, dolorosa ou tátil; espessamento de nervo periférico com alteração sensitiva, motora ou autonômica; ou bacilos na baciloscopia de esfregaço intradérmico ou na biópsia. Na mancha suspeita, a sensibilidade térmica se perde antes da dolorosa e da tátil, e por isso é testada primeiro. Baciloscopia negativa não afasta o diagnóstico, e a enfermeira registra o achado e examina também os nervos periféricos.",
+  "porAlt": [
+   "Correta: a sensibilidade térmica é a primeira a se perder na lesão de hanseníase e, por isso, é testada primeiro.",
+   "Errada: a tátil costuma ser a última a se alterar, depois da térmica e da dolorosa.",
+   "Errada: a dolorosa se altera depois da térmica, que deve ser pesquisada primeiro.",
+   "Errada: a sensibilidade vibratória não faz parte da pesquisa de sensibilidade da mancha suspeita.",
+   "Errada: na lesão de pele, o que se perde primeiro é a sensibilidade superficial térmica."
+  ]
+ },
+ {
+  "q": "Homem de 36 anos tem três manchas com perda de sensibilidade térmica no tronco. A baciloscopia de esfregaço intradérmico, colhida na investigação, veio positiva. A enfermeira da UBS confirma o diagnóstico de hanseníase com a equipe e vai explicar o tratamento. Qual é a classificação operacional e a duração da PQT-U?",
+  "alts": [
+   "Multibacilar: 12 doses supervisionadas em até 18 meses.",
+   "Paucibacilar: 6 doses supervisionadas em até 9 meses.",
+   "Multibacilar: 6 doses supervisionadas em até 9 meses.",
+   "Paucibacilar: 12 doses supervisionadas em até 18 meses.",
+   "Multibacilar: 24 doses supervisionadas em até 36 meses."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "PCDT da Hanseníase, Portaria SCTIE/MS nº 67/2022",
+  "coment": "O PCDT da Hanseníase (Portaria SCTIE/MS nº 67/2022) classifica como paucibacilar o caso com uma a cinco lesões de pele e baciloscopia obrigatoriamente negativa, e como multibacilar o caso com mais de cinco lesões e/ou baciloscopia positiva. Baciloscopia positiva, portanto, define multibacilar mesmo com poucas lesões. O esquema PQT-U é o mesmo para as duas formas; muda a duração: 6 doses supervisionadas em até 9 meses no paucibacilar e 12 doses supervisionadas em até 18 meses no multibacilar. Na dúvida sobre a classificação, trata-se como multibacilar. A dose mensal é tomada na frente do profissional.",
+  "porAlt": [
+   "Correta: baciloscopia positiva classifica como multibacilar mesmo com até cinco lesões, e a PQT-U dura 12 doses em até 18 meses.",
+   "Errada: paucibacilar exige baciloscopia obrigatoriamente negativa, e aqui ela foi positiva.",
+   "Errada: o multibacilar recebe 12 doses; 6 doses em até 9 meses é a duração do paucibacilar.",
+   "Errada: a classificação é multibacilar pela baciloscopia, e o paucibacilar faz só 6 doses.",
+   "Errada: 24 doses não constam do PCDT de 2022; o multibacilar trata por 12 meses."
+  ]
+ },
+ {
+  "q": "Menino de 12 anos, 42 kg, recebeu diagnóstico de hanseníase paucibacilar na UBS. A enfermeira vai administrar a primeira dose mensal supervisionada da PQT-U e orientar as doses que ele tomará em casa. Segundo o Quadro 1 do PCDT da Hanseníase, qual é a dose mensal supervisionada para esse paciente?",
+  "alts": [
+   "Rifampicina 600 mg, clofazimina 300 mg e dapsona 100 mg.",
+   "Rifampicina 300 mg, clofazimina 100 mg e dapsona 25 mg.",
+   "Rifampicina 450 mg, clofazimina 150 mg e dapsona 50 mg.",
+   "Rifampicina 450 mg, clofazimina 300 mg e dapsona 100 mg.",
+   "Rifampicina 600 mg, clofazimina 150 mg e dapsona 50 mg."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "PCDT da Hanseníase, Portaria SCTIE/MS nº 67/2022",
+  "coment": "O PCDT da Hanseníase (Portaria SCTIE/MS nº 67/2022) define a PQT-U por faixa de peso. Acima de 50 kg, a dose mensal supervisionada é rifampicina 600 mg, clofazimina 300 mg e dapsona 100 mg. De 30 a 50 kg, a dose mensal é rifampicina 450 mg, clofazimina 150 mg e dapsona 50 mg, e em casa a criança toma clofazimina 50 mg em dias alternados e dapsona 50 mg por dia. Abaixo de 30 kg, as doses são calculadas por quilo. Com 42 kg, o menino está na faixa de 30 a 50 kg. A dose mensal é tomada na frente do profissional, momento em que a enfermeira avalia adesão, efeitos adversos e função neural.",
+  "porAlt": [
+   "Errada: essa é a dose mensal do adulto acima de 50 kg, acima do indicado para 42 kg.",
+   "Errada: essas doses não constam do Quadro 1 do PCDT de 2022 para nenhuma faixa de peso.",
+   "Correta: na faixa de 30 a 50 kg, a dose mensal é rifampicina 450 mg, clofazimina 150 mg e dapsona 50 mg.",
+   "Errada: mistura a rifampicina da faixa de 30 a 50 kg com clofazimina e dapsona do adulto.",
+   "Errada: mistura a rifampicina do adulto com clofazimina e dapsona da faixa de 30 a 50 kg."
+  ]
+ },
+ {
+  "q": "Homem de 40 anos, no 4º mês de PQT-U para hanseníase multibacilar, chega à dose supervisionada dizendo que vai parar o tratamento porque a pele das lesões e do rosto escureceu e ficou ressecada. Não há outras queixas, e a avaliação neurológica está estável. Qual orientação a enfermeira deve dar?",
+  "alts": [
+   "Suspender a clofazimina e manter rifampicina e dapsona até completar as doses.",
+   "Trocar para o esquema paucibacilar, que não contém clofazimina, até a alta.",
+   "Atribuir o escurecimento à dapsona e suspender a PQT-U até o hemograma.",
+   "Explicar que é efeito da clofazimina, que regride após o fim, e manter a PQT-U.",
+   "Suspender a PQT-U por 30 dias até a pele voltar à cor normal e reiniciar."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "PCDT da Hanseníase, Portaria SCTIE/MS nº 67/2022",
+  "coment": "A clofazimina, componente da PQT-U, causa pigmentação da pele que vai do vermelho ao castanho, pode deixar urina, suor e escarro rosados e provoca ressecamento cutâneo. Pelo PCDT da Hanseníase (Portaria SCTIE/MS nº 67/2022), a pigmentação regride meses após o fim do tratamento e não é motivo de suspensão. A enfermeira explica o efeito, orienta o autocuidado da pele e reforça a adesão, porque o abandono mantém a transmissão e o risco de incapacidade. O esquema é o mesmo para paucibacilar e multibacilar. A dapsona, por sua vez, pode causar hemólise e anemia, motivo pelo qual se acompanha o hemograma nos primeiros meses.",
+  "porAlt": [
+   "Errada: o PCDT afirma que a pigmentação não é motivo de suspensão, nem do fármaco isolado.",
+   "Errada: o esquema PQT-U é o mesmo nas duas formas, com clofazimina; muda só a duração.",
+   "Errada: quem escurece a pele é a clofazimina; a dapsona está associada a hemólise e anemia.",
+   "Correta: a pigmentação e o ressecamento são efeitos da clofazimina, regridem meses após o fim e não justificam suspender.",
+   "Errada: interromper a PQT-U por um efeito esperado e benigno favorece abandono e não está previsto."
+  ]
+ },
+ {
+  "q": "Mulher de 55 anos recebe diagnóstico de hanseníase multibacilar. Na avaliação neurológica simplificada, a enfermeira encontra garra no 4º e no 5º dedos da mão direita, visível à inspeção, e diminuição da sensibilidade protetora na planta dos dois pés. A acuidade visual está preservada. Qual é o grau de incapacidade física?",
+  "alts": [
+   "Grau 1, pela diminuição da sensibilidade protetora.",
+   "Grau 1, pois não há cegueira nem lesão nos olhos.",
+   "Grau 2, pela deformidade visível na mão direita.",
+   "Grau 0, pois a acuidade visual está preservada.",
+   "Grau 3, pela soma das alterações em mão e pés."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "PCDT da Hanseníase, Portaria SCTIE/MS nº 67/2022",
+  "coment": "A avaliação neurológica simplificada, obrigatória no diagnóstico, define o grau de incapacidade física pelo PCDT da Hanseníase (Portaria SCTIE/MS nº 67/2022). Grau 0 é nenhum problema causado pela hanseníase em mãos, pés ou olhos. Grau 1 é incapacidade não visível, com diminuição da sensibilidade protetora ou redução da força muscular. Grau 2 é deformidade física visível ou cegueira resultante da neuropatia. Classifica-se pelo maior grau encontrado. A garra visível na mão define grau 2, ainda que os pés tenham só perda sensitiva. A proporção de casos novos com grau 2 no diagnóstico é indicador de diagnóstico tardio.",
+  "porAlt": [
+   "Errada: a perda da sensibilidade protetora seria grau 1, mas a garra visível eleva a classificação para grau 2.",
+   "Errada: o grau 2 não exige cegueira; basta deformidade visível em mãos, pés ou olhos.",
+   "Correta: deformidade física visível, como a garra, define grau 2, que prevalece sobre a perda sensitiva dos pés.",
+   "Errada: grau 0 significa nenhum problema causado pela hanseníase, o que não é o caso.",
+   "Errada: o PCDT de 2022 não tem grau 3; a escala vai de 0 a 2."
+  ]
+ },
+ {
+  "q": "A enfermeira de uma UBS organiza a agenda de um paciente que inicia hoje a PQT-U para hanseníase multibacilar, com 12 doses previstas. Ela precisa programar a avaliação neurológica simplificada, sem contar as avaliações extras por queixa nova ou reação. Segundo o PCDT da Hanseníase, quando essa avaliação é obrigatória?",
+  "alts": [
+   "No diagnóstico, a cada 6 meses durante a PQT-U e na última dose.",
+   "No diagnóstico, a cada 3 meses durante a PQT-U e na última dose.",
+   "No diagnóstico e na última dose, sem avaliações durante a PQT-U.",
+   "Na última dose, para definir o grau de incapacidade física na alta.",
+   "No diagnóstico e a cada 6 meses por cinco anos após a alta."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "PCDT da Hanseníase, Portaria SCTIE/MS nº 67/2022",
+  "coment": "Pelo PCDT da Hanseníase (Portaria SCTIE/MS nº 67/2022), a avaliação neurológica simplificada é obrigatória no diagnóstico, a cada três meses durante a PQT-U e na última dose, e se repete diante de queixa nova ou de reação hansênica. Ela inclui inspeção de olhos, nariz, mãos e pés, palpação dos nervos ulnar, mediano, radial, fibular e tibial posterior, testes de sensibilidade e de força e acuidade visual, registrados no formulário padronizado do Ministério. Dela sai o grau de incapacidade física. Feita com regularidade, permite detectar neurite cedo e tratar antes que a perda de função se torne definitiva.",
+  "porAlt": [
+   "Errada: o intervalo previsto durante o tratamento é de 3 meses, não de 6 meses.",
+   "Correta: a avaliação neurológica simplificada é feita no diagnóstico, trimestralmente durante o tratamento e na última dose.",
+   "Errada: há avaliações trimestrais durante a PQT-U para detectar neurite e incapacidade a tempo.",
+   "Errada: a avaliação no diagnóstico é obrigatória e define o grau de incapacidade inicial.",
+   "Errada: o PCDT não fixa avaliação semestral pós-alta como rotina; ela se repete diante de queixa ou reação."
+  ]
+ },
+ {
+  "q": "Homem de 44 anos, no 7º mês de PQT-U para hanseníase multibacilar, procura a UBS porque as manchas antigas ficaram avermelhadas e inchadas há quatro dias. Refere dor e formigamento no trajeto do nervo ulnar direito. Não tem nódulos nem febre. Qual conduta a enfermeira deve adotar?",
+  "alts": [
+   "Suspender a PQT-U, pois a reação indica falha do tratamento e resistência à rifampicina.",
+   "Manter a PQT-U e solicitar talidomida, pois o quadro é de eritema nodoso hansênico.",
+   "Suspender a PQT-U e reiniciar o esquema desde a primeira dose quando a reação ceder.",
+   "Manter a PQT-U e agendar avaliação em 30 dias, pois a reação regride sem tratamento.",
+   "Manter a PQT-U e encaminhar com urgência para tratar a reação tipo 1 e a neurite."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "PCDT da Hanseníase, Portaria SCTIE/MS nº 67/2022",
+  "coment": "As reações hansênicas podem surgir antes, durante ou depois do tratamento. A tipo 1 inflama as lesões existentes e pode trazer neurite; a tipo 2, o eritema nodoso hansênico, traz nódulos dolorosos, febre e neurite. Pelo PCDT da Hanseníase (Portaria SCTIE/MS nº 67/2022), as reações são urgência neurológica e não indicam falha terapêutica: a PQT-U é mantida, a tipo 1 e a neurite recebem prednisona, com dose inicial de 1 mg/kg/dia, e a tipo 2 recebe talidomida, que é teratogênica. A enfermeira repete a avaliação neurológica simplificada diante da queixa e encaminha com urgência para o início do corticoide.",
+  "porAlt": [
+   "Errada: reação hansênica não indica falha do tratamento, e a PQT-U não deve ser suspensa.",
+   "Errada: sem nódulos dolorosos nem febre, o quadro é de reação tipo 1, tratada com prednisona, não com talidomida.",
+   "Errada: a reação não interrompe nem reinicia o esquema; a PQT-U segue normalmente.",
+   "Errada: neurite é urgência; esperar 30 dias arrisca perda de função definitiva.",
+   "Correta: a reação tipo 1 com neurite é urgência neurológica; a PQT-U é mantida e a reação é tratada com corticoide."
+  ]
+ },
+ {
+  "q": "Após diagnosticar hanseníase em uma mulher de 38 anos, a enfermeira da UBS vai convocar os contatos domiciliares para exame dermatoneurológico. A paciente mudou de casa há três anos e cita pessoas com quem morou antes e depois da mudança. Segundo o PCDT da Hanseníase, quem deve ser considerado contato domiciliar?",
+  "alts": [
+   "Quem reside com ela na casa atual, na data em que foi feito o diagnóstico.",
+   "Quem reside ou residiu com ela nos últimos 5 anos antes do diagnóstico.",
+   "Quem reside ou residiu com ela nos últimos 2 anos antes do diagnóstico.",
+   "Quem reside ou residiu com ela nos últimos 10 anos antes do diagnóstico.",
+   "Os parentes de primeiro grau, morem ou não no mesmo domicílio que ela."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "PCDT da Hanseníase, Portaria SCTIE/MS nº 67/2022",
+  "coment": "Pelo PCDT da Hanseníase (Portaria SCTIE/MS nº 67/2022), contatos domiciliares são as pessoas que residem ou residiram, convivem ou conviveram com o doente no domicílio nos últimos cinco anos antes do diagnóstico. Como a transmissão ocorre pelas vias aéreas no convívio prolongado com doente não tratado e a incubação é longa, quem morou na casa anterior também entra na investigação. Todos fazem exame dermatoneurológico. O contato examinado e sem sinais da doença recebe a BCG conforme a Instrução Normativa do Calendário Nacional de Vacinação 2026 e é orientado a procurar a unidade se surgirem manchas ou alterações de sensibilidade.",
+  "porAlt": [
+   "Errada: a definição alcança também quem morou com a doente nos últimos cinco anos, inclusive na casa anterior.",
+   "Correta: contato domiciliar é quem reside ou residiu, convive ou conviveu com o doente no domicílio nos últimos cinco anos.",
+   "Errada: o período considerado pelo PCDT de 2022 é de cinco anos, não de dois.",
+   "Errada: o PCDT de 2022 usa cinco anos, e não dez, como período de convívio.",
+   "Errada: o parentesco não define o contato; vale a convivência no domicílio nos últimos cinco anos."
+  ]
+ },
+ {
+  "q": "Homem de 27 anos procura a UBS para testagem após relação sexual sem preservativo há quatro meses. O primeiro teste rápido para HIV foi reagente, e o segundo, de antígeno diferente, também. Ele está assintomático. Segundo o fluxograma de diagnóstico e o PCDT de HIV vigentes, qual é a conduta da enfermeira?",
+  "alts": [
+   "Aguardar exame confirmatório no laboratório antes de comunicar o resultado ao usuário.",
+   "Repetir os dois testes rápidos em 30 dias para confirmar o diagnóstico de HIV.",
+   "Definir amostra reagente, colher carga viral e CD4 e vincular para iniciar a TARV.",
+   "Colher carga viral e CD4 e iniciar a TARV se o CD4 estiver abaixo de 350.",
+   "Liberar como amostra reagente e agendar a TARV para depois do resultado do CD4."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "HIV e aids",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Manual Técnico para o Diagnóstico da Infecção pelo HIV, 2018 (Portaria SVS/MS nº 29/2013); PCDT de HIV em adultos, 2024",
+  "coment": "O Manual Técnico para o Diagnóstico da Infecção pelo HIV (2018), que regulamenta a Portaria SVS/MS nº 29/2013, estabelece que nenhum teste isolado define infecção. Na unidade de saúde, o fluxograma usa dois testes rápidos em sangue com antígenos diferentes: TR1 e TR2 reagentes definem amostra reagente, sem exame confirmatório em laboratório. A seguir, colhem-se carga viral e contagem de CD4, que orientam o seguimento, mas não atrasam o tratamento. O PCDT de HIV de 2024 recomenda iniciar a TARV no mesmo dia ou em até 7 dias. A enfermeira comunica o resultado, acolhe e vincula a pessoa ao serviço.",
+  "porAlt": [
+   "Errada: dois testes rápidos reagentes já definem o diagnóstico, sem exame confirmatório laboratorial.",
+   "Errada: repetir em 30 dias é conduta para TR1 não reagente com exposição recente, pela janela.",
+   "Correta: dois testes rápidos reagentes definem amostra reagente; carga viral e CD4 são colhidos sem atrasar o início da TARV.",
+   "Errada: o início da TARV não depende do CD4 e deve ocorrer no mesmo dia ou em até 7 dias.",
+   "Errada: o início da TARV não espera o CD4; o PCDT manda iniciar no mesmo dia ou em até 7 dias."
+  ]
+ },
+ {
+  "q": "Mulher de 22 anos procura a UBS dez dias após relação sexual sem preservativo com parceiro de sorologia desconhecida. Está assintomática. O primeiro teste rápido para HIV, feito em sangue, é não reagente. Ela pergunta se já pode ficar tranquila. Qual conduta a enfermeira deve adotar?",
+  "alts": [
+   "Liberar amostra não reagente e repetir a testagem em 30 dias, pela janela.",
+   "Fazer o segundo teste rápido de outro antígeno para confirmar o não reagente.",
+   "Iniciar a PEP por 28 dias, pois a exposição ocorreu há menos de 14 dias.",
+   "Liberar como resultado definitivo, sem necessidade de nova testagem.",
+   "Colher carga viral para HIV, que confirma o não reagente em sete dias."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "HIV e aids",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Manual Técnico para o Diagnóstico da Infecção pelo HIV, 2018; PCDT de Profilaxia Pós-Exposição ao HIV, IST e Hepatites Virais, 2024",
+  "coment": "Pelo Manual Técnico para o Diagnóstico da Infecção pelo HIV (2018), quando o primeiro teste rápido é não reagente, a amostra é liberada como não reagente, sem segundo teste. Se houver suspeita de exposição recente, a testagem se repete em 30 dias, porque o teste pode ter sido feito na janela imunológica, antes de haver anticorpos detectáveis. Como a exposição ocorreu há dez dias, já passou o prazo de 72 horas da profilaxia pós-exposição previsto no PCDT de PEP de 2024, e cabe apenas seguimento. A consulta é oportunidade para oferecer testes de sífilis e hepatites, preservativos e prevenção combinada.",
+  "porAlt": [
+   "Correta: TR1 não reagente libera amostra não reagente, mas a exposição recente exige repetir em 30 dias pela janela imunológica.",
+   "Errada: o segundo teste rápido só entra quando o primeiro é reagente.",
+   "Errada: a PEP só é indicada até 72 horas da exposição; com dez dias, cabe apenas seguimento.",
+   "Errada: com exposição há dez dias, a janela imunológica impede considerar o resultado definitivo.",
+   "Errada: o fluxograma da unidade não usa carga viral para confirmar resultado não reagente na janela."
+  ]
+ },
+ {
+  "q": "Técnica de enfermagem da clínica médica, ao esvaziar a bolsa coletora de um paciente com HIV, recebe um respingo de urina sem sangue visível na mucosa ocular. Lavou o olho com soro fisiológico logo depois e procura a enfermeira supervisora 40 minutos após o ocorrido. Segundo o PCDT de PEP de 2024, qual é a avaliação correta?",
+  "alts": [
+   "Indicar PEP por 28 dias, pois a fonte é sabidamente reagente para HIV.",
+   "Indicar PEP se a carga viral mais recente do paciente fonte for detectável.",
+   "Indicar PEP por 28 dias, pois toda exposição de mucosa é considerada de risco.",
+   "Não indicar PEP, pois urina sem sangue não é material biológico de risco.",
+   "Não indicar PEP, pois a exposição em mucosa ocular íntegra não é de risco."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "HIV e aids",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "PCDT para Profilaxia Pós-Exposição de Risco à Infecção pelo HIV, IST e Hepatites Virais, 2024 (MS)",
+  "coment": "O PCDT de PEP de 2024 organiza a decisão em perguntas. O material é de risco? Sangue, sêmen, fluido vaginal, líquidos serosos, líquido amniótico e líquor são; suor, lágrima, urina, fezes e saliva sem sangue não são. A exposição é de risco? Percutânea, em mucosa ou em pele não íntegra. Passaram até 72 horas? A pessoa exposta é não reagente? A sorologia da fonte é o único critério não obrigatório. No caso, a exposição foi em mucosa, mas o material, urina sem sangue visível, não é de risco, e a PEP não se indica. A enfermeira registra o ocorrido e orienta a técnica sobre o uso de óculos de proteção.",
+  "porAlt": [
+   "Errada: a sorologia da fonte não basta; é preciso que o material e a exposição sejam de risco.",
+   "Errada: a carga viral da fonte não define a indicação; o material envolvido não oferece risco.",
+   "Errada: exposição de mucosa só é de risco quando o material também é, como sangue ou sêmen.",
+   "Correta: urina sem sangue não é material de risco, e por isso a PEP não está indicada, mesmo com fonte reagente.",
+   "Errada: exposição de mucosa é de risco; o motivo para não indicar PEP é o tipo de material."
+  ]
+ },
+ {
+  "q": "Enfermeira do pronto-socorro fura o dedo com a agulha usada na punção venosa de um paciente cuja sorologia é desconhecida. O acidente ocorreu há 15 minutos, e ela tem esquema completo de vacina contra hepatite B. Qual é a conduta imediata adequada, segundo o PCDT de PEP?",
+  "alts": [
+   "Lavar com água e sabão sem espremer, comunicar e ir já à referência.",
+   "Espremer o local para drenar o sangue e aplicar hipoclorito na lesão.",
+   "Lavar com água e sabão e aguardar a sorologia da fonte para decidir.",
+   "Lavar com álcool 70% e procurar a referência em até sete dias.",
+   "Lavar com soro e notificar de forma imediata, em até 24 horas, à SMS."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "HIV e aids",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "PCDT de Profilaxia Pós-Exposição ao HIV, IST e Hepatites Virais, 2024; Portaria GM/MS nº 11.211/2026",
+  "coment": "No acidente com material biológico, a primeira conduta é cuidar do local: lavar a pele com água e sabão, ou a mucosa com soro fisiológico ou água, sem espremer. Em seguida, a trabalhadora comunica a chefia, registra o acidente e vai de imediato ao serviço de referência, levando dados da fonte e de sua vacinação contra hepatite B. Pelo PCDT de PEP de 2024, a profilaxia é urgência, pode ser iniciada até 72 horas e não depende da sorologia da fonte: fonte reagente ou desconhecida indica PEP. Pela Portaria GM/MS 11.211/2026, o acidente de trabalho com exposição a material biológico é de notificação semanal.",
+  "porAlt": [
+   "Correta: lava-se a pele com água e sabão sem espremer, comunica-se e encaminha-se de imediato ao serviço de referência.",
+   "Errada: espremer aumenta a área lesada e o contato com o sangue, e soluções cáusticas não são indicadas.",
+   "Errada: a sorologia da fonte não é obrigatória; fonte desconhecida não atrasa a avaliação da PEP.",
+   "Errada: a PEP é urgência e só pode ser iniciada até 72 horas; sete dias inviabiliza a profilaxia.",
+   "Errada: acidente de trabalho com material biológico é de notificação semanal, não imediata."
+  ]
+ },
+ {
+  "q": "Mulher de 25 anos procura a UPA 30 horas após o rompimento do preservativo em relação vaginal com parceiro de sorologia desconhecida. O teste rápido para HIV dela é não reagente. A enfermeira participa da dispensação e das orientações. Qual esquema e seguimento estão previstos no PCDT de PEP de 2024?",
+  "alts": [
+   "Tenofovir/lamivudina e dolutegravir por 28 dias; testar HIV na 4ª e na 12ª semana.",
+   "Tenofovir/entricitabina diário por 28 dias; testar HIV na 4ª e na 12ª semana.",
+   "Tenofovir/lamivudina e dolutegravir por 14 dias; testar HIV na 2ª e na 6ª semana.",
+   "Zidovudina com lamivudina por 28 dias; testar HIV no 3º e no 6º mês seguintes.",
+   "Tenofovir/lamivudina e dolutegravir por 28 dias; testar HIV na 1ª e na 24ª semana."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "HIV e aids",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "PCDT para Profilaxia Pós-Exposição de Risco à Infecção pelo HIV, IST e Hepatites Virais, 2024 (MS)",
+  "coment": "Pelo PCDT para Profilaxia Pós-Exposição de Risco à Infecção pelo HIV, IST e Hepatites Virais (2024), a PEP é indicada quando o material e a exposição são de risco, o atendimento ocorre em até 72 horas e a pessoa exposta é não reagente no teste rápido; fonte desconhecida não impede a indicação. O esquema preferencial é tenofovir/lamivudina 300/300 mg com dolutegravir 50 mg, uma vez ao dia, por 28 dias. O teste de HIV é repetido na 4ª e na 12ª semana após a exposição. A enfermeira orienta adesão, uso de preservativo durante o seguimento e oferece testagem para sífilis e hepatites.",
+  "porAlt": [
+   "Correta: o esquema preferencial é tenofovir/lamivudina com dolutegravir por 28 dias, com testes de HIV na 4ª e na 12ª semana.",
+   "Errada: tenofovir/entricitabina isolado é o medicamento da PrEP, não o esquema preferencial da PEP.",
+   "Errada: a PEP dura 28 dias, e o seguimento é feito na 4ª e na 12ª semana.",
+   "Errada: zidovudina com lamivudina não é o esquema preferencial do PCDT de 2024.",
+   "Errada: o seguimento do PCDT de 2024 prevê testes na 4ª e na 12ª semana, não na 1ª e na 24ª."
+  ]
+ },
+ {
+  "q": "Adolescente de 16 anos, mulher cisgênero, 52 kg, sexualmente ativa com parcerias variadas e uso irregular de preservativo, procura a UBS sozinha e pede PrEP sob demanda, para tomar só perto das relações. Não quer que os pais saibam. Segundo o PCDT de PrEP de 2025, qual é a conduta?",
+  "alts": [
+   "Negar a PrEP até os 18 anos, pois menores de idade exigem autorização dos pais.",
+   "Oferecer PrEP diária sem exigir os pais, pois a sob demanda não serve a mulher cis.",
+   "Oferecer PrEP sob demanda 2+1+1, desde que um responsável assine a autorização.",
+   "Oferecer PrEP sob demanda, que é o esquema preferencial para adolescentes.",
+   "Oferecer PrEP diária mediante autorização escrita de um dos responsáveis."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "HIV e aids",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "PCDT para Profilaxia Pré-Exposição (PrEP) Oral ao HIV, 2025 (MS)",
+  "coment": "Pelo PCDT de PrEP de 2025, a profilaxia pré-exposição oral com tenofovir/entricitabina é indicada a partir de 15 anos e 35 kg para pessoas sexualmente ativas em contexto de vulnerabilidade, sem exigir autorização dos pais no adolescente. A modalidade diária serve a qualquer pessoa elegível: 2 comprimidos no primeiro dia e depois 1 por dia. A modalidade sob demanda, no esquema 2 + 1 + 1, não serve a mulheres cisgênero nem a pessoas que usam estradiol. A enfermeira acolhe a adolescente, garante o sigilo, testa HIV, sífilis e hepatites e orienta a prevenção combinada, incluindo o preservativo.",
+  "porAlt": [
+   "Errada: o PCDT de 2025 permite PrEP a partir de 15 anos e 35 kg, sem exigir autorização dos pais.",
+   "Correta: a PrEP é indicada a partir de 15 anos e 35 kg sem autorização dos pais, e o esquema sob demanda não serve a mulheres cis.",
+   "Errada: a sob demanda não é indicada a mulheres cis, e a autorização dos responsáveis não é exigida.",
+   "Errada: a PrEP sob demanda não é preferencial para adolescentes e não serve a mulheres cis.",
+   "Errada: a PrEP diária está correta, mas a autorização dos responsáveis não é exigida no adolescente."
+  ]
+ },
+ {
+  "q": "Puérpera de 28 anos vivendo com HIV teve carga viral detectável na 34ª semana e recebeu zidovudina intravenosa no parto. No alojamento conjunto, uma hora após o nascimento, ela pede para amamentar, como fez com o primeiro filho. Qual conduta a enfermeira deve adotar com o binômio?",
+  "alts": [
+   "Liberar a amamentação, pois a mãe recebeu zidovudina intravenosa durante o parto.",
+   "Não amamentar, inibir a lactação e iniciar a profilaxia do RN nas primeiras 4 horas.",
+   "Permitir aleitamento cruzado com outra puérpera e iniciar a profilaxia em 48 horas.",
+   "Liberar a amamentação se a mãe mantiver a TARV, com profilaxia do RN por 28 dias.",
+   "Não amamentar e iniciar a profilaxia do RN em até 48 horas, por 14 dias."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "HIV e aids",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "PCDT para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais, 2ª ed. revisada, 2022 (MS)",
+  "coment": "Pelo PCDT para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais, a gestante vivendo com HIV usa TARV independentemente do CD4, e a carga viral a partir da 34ª semana orienta a via de parto e a zidovudina intravenosa, indicada quando a carga é detectável. O recém-nascido recebe profilaxia antirretroviral nas primeiras 4 horas de vida, por 28 dias. A amamentação e o aleitamento cruzado são contraindicados, e a lactação é inibida com cabergolina. A enfermeira acolhe a mãe, explica o risco de transmissão pelo leite e orienta o preparo da fórmula infantil.",
+  "porAlt": [
+   "Errada: a zidovudina no parto não torna segura a amamentação, que segue contraindicada.",
+   "Correta: a amamentação é contraindicada, a lactação é inibida com cabergolina e a profilaxia do RN começa nas primeiras 4 horas, por 28 dias.",
+   "Errada: o aleitamento cruzado é contraindicado, e a profilaxia deve começar nas primeiras 4 horas.",
+   "Errada: a TARV materna não libera a amamentação na mulher vivendo com HIV.",
+   "Errada: a profilaxia começa nas primeiras 4 horas de vida e dura 28 dias, não 14."
+  ]
+ },
+ {
+  "q": "Homem de 33 anos iniciou há três dias o esquema básico para tuberculose pulmonar e, na mesma semana, teve diagnóstico de HIV, ainda sem TARV. A enfermeira do serviço de referência participa do plano terapêutico e das orientações sobre o dolutegravir. Segundo o PCDT de HIV de 2024, qual é a conduta?",
+  "alts": [
+   "Adiar a TARV para o fim da fase intensiva, evitando a interação com a rifampicina.",
+   "TARV em até 7 dias e dolutegravir 50 mg 12/12 h até 15 dias pós-rifampicina.",
+   "TARV em até 7 dias, com dolutegravir 50 mg uma vez ao dia, na dose habitual.",
+   "Iniciar a TARV depois de concluídos os 6 meses do tratamento da tuberculose.",
+   "TARV em até 7 dias, com dolutegravir 50 mg de 12/12 h durante a fase intensiva."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "HIV e aids",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "PCDT para Manejo da Infecção pelo HIV em Adultos, 2024 (MS); Manual de Recomendações para o Controle da Tuberculose no Brasil, 2019",
+  "coment": "A rifampicina é indutora enzimática e reduz a concentração de vários fármacos, entre eles antirretrovirais. Na coinfecção tuberculose e HIV, o PCDT de HIV de 2024 orienta iniciar a TARV em até 7 dias do início do tratamento da tuberculose, com dolutegravir em dose dobrada, 50 mg de 12 em 12 horas, mantida até 15 dias após a última dose de rifampicina. A rifampicina está nas duas fases do esquema básico, por isso o ajuste vale durante todo o tratamento. A piridoxina 50 mg/dia acompanha o tratamento da tuberculose na pessoa com HIV, e a enfermeira orienta horários e adesão às duas terapias.",
+  "porAlt": [
+   "Errada: adiar a TARV até o fim da fase intensiva atrasa o tratamento e contraria o prazo de 7 dias.",
+   "Correta: a TARV começa em até 7 dias, com dolutegravir dobrado pela indução da rifampicina, mantido por 15 dias após a última dose.",
+   "Errada: a rifampicina reduz o dolutegravir por indução enzimática, e a dose deve ser dobrada.",
+   "Errada: esperar o fim da tuberculose expõe a pessoa à progressão da imunossupressão sem tratamento.",
+   "Errada: a dose dobrada vale enquanto houver rifampicina e até 15 dias após, inclusive na manutenção."
+  ]
+ },
+ {
+  "q": "Mulher de 29 anos, com sífilis tratada e documentada há dois anos, faz testagem de rotina na UBS. O teste rápido treponêmico é reagente. Ela está assintomática e não relata nova exposição de risco. Qual é a conduta adequada da enfermeira, conforme o PCDT de IST?",
+  "alts": [
+   "Tratar com benzatina dose única, pois o teste rápido indica doença ativa.",
+   "Repetir o teste rápido em 3 meses para verificar se ele negativou.",
+   "Solicitar VDRL e comparar com os títulos anteriores antes de decidir.",
+   "Considerar cura e não pedir outros exames, pois o tratamento foi feito.",
+   "Tratar com 3 doses semanais, pois a infecção já tem mais de 1 ano."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022 (MS)",
+  "coment": "O PCDT de IST de 2022 recomenda iniciar a investigação pelo teste rápido treponêmico, mas ele permanece reagente pela vida toda, mesmo após tratamento adequado, e por isso não serve para controle de cura. Em quem já teve sífilis tratada e documentada, um treponêmico reagente pode ser apenas cicatriz sorológica. A conduta é solicitar o teste não treponêmico, VDRL ou RPR, que é quantitativo, e comparar o título com os anteriores: aumento de duas diluições ou mais indica reinfecção. A regra de tratar com um único teste reagente vale para quem não tem diagnóstico prévio. Cicatriz sorológica não é notificada.",
+  "porAlt": [
+   "Errada: o teste treponêmico permanece reagente após a cura e, sozinho, não indica doença ativa em quem já tratou.",
+   "Errada: o treponêmico não negativa com o tempo e nunca serve para controle de cura.",
+   "Correta: o teste treponêmico fica reagente pela vida toda; o não treponêmico comparado ao anterior diferencia cicatriz de reinfecção.",
+   "Errada: sem o não treponêmico não é possível afastar reinfecção, então o VDRL é necessário.",
+   "Errada: tratar sem avaliar o VDRL pode repetir tratamento em quem tem apenas cicatriz sorológica."
+  ]
+ },
+ {
+  "q": "Homem de 25 anos procura a UBS com lesões avermelhadas nas palmas das mãos e nas plantas dos pés há duas semanas, sem prurido. O teste rápido treponêmico é reagente, e ele nunca foi tratado para sífilis. A enfermeira inicia o tratamento conforme o protocolo. Qual é o esquema indicado?",
+  "alts": [
+   "Benzatina 2,4 milhões UI IM, dose única, 1,2 milhão em cada glúteo.",
+   "Benzatina 2,4 milhões UI IM por semana, por 3 semanas seguidas.",
+   "Benzatina 1,2 milhão UI IM, em dose única, aplicada em um único glúteo.",
+   "Benzatina 2,4 milhões UI IM, duas doses com intervalo de 14 dias.",
+   "Benzatina 7,2 milhões UI IM, dose única dividida entre os glúteos."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022 (MS)",
+  "coment": "O tratamento da sífilis depende do tempo de infecção. Pelo PCDT de IST de 2022, a sífilis recente, que inclui a primária, a secundária e a latente com até 1 ano, é tratada com benzilpenicilina benzatina 2,4 milhões UI por via intramuscular em dose única, 1,2 milhão em cada glúteo. A tardia, que inclui a latente com mais de 1 ano, a de duração ignorada e a terciária, recebe 2,4 milhões UI por semana durante 3 semanas, total de 7,2 milhões UI. Lesões palmoplantares indicam sífilis secundária. O tratamento começa com um único teste reagente, e o VDRL do dia da primeira dose é colhido para o seguimento.",
+  "porAlt": [
+   "Correta: sífilis secundária é recente e trata-se com benzatina 2,4 milhões UI IM em dose única, metade em cada glúteo.",
+   "Errada: três doses semanais são para sífilis tardia ou de duração ignorada, não para a secundária.",
+   "Errada: 1,2 milhão UI é metade da dose; a sífilis recente exige 2,4 milhões UI.",
+   "Errada: o PCDT não prevê duas doses quinzenais para nenhum estágio da sífilis.",
+   "Errada: 7,2 milhões UI é o total do esquema tardio, dividido em três semanas, nunca em dose única."
+  ]
+ },
+ {
+  "q": "Homem de 31 anos tratado há seis meses para sífilis secundária, com VDRL inicial de 1:64, volta para o seguimento na UBS. O VDRL atual, feito no mesmo laboratório, é 1:32. Ele não tem lesões e nega nova exposição. Como a enfermeira deve interpretar o resultado?",
+  "alts": [
+   "Resposta adequada, pois houve queda do título no período de seguimento.",
+   "Resposta inadequada: o título não caiu duas diluições em 6 meses; retratar.",
+   "Cura confirmada, pois o título caiu pela metade em relação ao inicial.",
+   "Resposta inadequada; confirmar a falha com novo teste rápido treponêmico.",
+   "Resposta ainda indefinida, pois a queda pode levar 12 meses na recente."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022 (MS)",
+  "coment": "O seguimento da sífilis usa o mesmo teste não treponêmico do diagnóstico, de preferência no mesmo laboratório, com periodicidade trimestral até 12 meses. Pelo PCDT de IST de 2022, resposta adequada é a queda de pelo menos duas diluições em até 6 meses na sífilis recente e em até 12 meses na tardia. De 1:64 para 1:32 houve queda de apenas uma diluição; para ser adequada, o título deveria estar em 1:16 ou menos. Retrata-se quando o título não cai no prazo, quando sobe duas diluições ou mais ou quando os sinais voltam. O teste treponêmico não tem papel no seguimento.",
+  "porAlt": [
+   "Errada: a resposta adequada exige queda de pelo menos duas diluições, e houve só uma.",
+   "Correta: de 1:64 para 1:32 houve queda de uma diluição, abaixo das duas exigidas em 6 meses na sífilis recente, o que indica retratamento.",
+   "Errada: cair pela metade corresponde a uma diluição, insuficiente para resposta adequada.",
+   "Errada: o teste treponêmico fica reagente pela vida toda e não serve para avaliar falha.",
+   "Errada: o prazo de 12 meses vale para a sífilis tardia; na recente, a queda é esperada em 6 meses."
+  ]
+ },
+ {
+  "q": "Em uma UBS, a gestante de 18 semanas tem teste rápido para sífilis reagente, e a enfermeira prescreve benzatina conforme o protocolo municipal. O médico está de férias, e a técnica de enfermagem diz que não pode aplicar sem médico na unidade. Segundo as normas vigentes, qual é a conduta?",
+  "alts": [
+   "Encaminhar à UPA, pois a aplicação exige médico presente na unidade.",
+   "Aguardar o retorno do médico, pois a prescrição de benzatina é privativa dele.",
+   "Aplicar a benzatina na própria UBS; a falta do médico não impede a aplicação.",
+   "Aplicar após VDRL confirmatório e teste de sensibilidade à penicilina.",
+   "Encaminhar ao hospital, pelo risco de anafilaxia sem suporte médico."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS nº 3.161/2011; Nota Técnica COFEN/CTLN nº 03/2017; PCDT de IST, 2022",
+  "coment": "A Portaria GM/MS nº 3.161/2011 determina a administração da penicilina benzatina nas unidades da atenção básica, pela equipe de enfermagem, médico ou farmacêutico. A Nota Técnica COFEN/CTLN nº 03/2017 afirma que a enfermagem a administra mediante prescrição médica ou do enfermeiro, conforme protocolo, e que a ausência do médico na unidade não justifica deixar de aplicar. A prescrição pelo enfermeiro se apoia na Lei 7.498/1986, art. 11, II, c. Na gestante, o PCDT de IST de 2022 manda tratar com um único teste reagente, sem esperar o segundo teste, que é colhido junto com o VDRL do dia da primeira dose.",
+  "porAlt": [
+   "Errada: a ausência do médico não justifica encaminhar nem deixar de aplicar a benzatina na UBS.",
+   "Errada: o enfermeiro prescreve a benzatina conforme protocolo, com base na Lei 7.498/1986.",
+   "Correta: a Portaria GM/MS 3.161/2011 e a Nota Técnica COFEN 03/2017 garantem a aplicação pela enfermagem na atenção básica, mesmo sem médico.",
+   "Errada: na gestante, trata-se com um único teste reagente, sem esperar o VDRL, pelo risco ao feto.",
+   "Errada: a Portaria 3.161/2011 determina a aplicação nas unidades de atenção básica."
+  ]
+ },
+ {
+  "q": "Puérpera de 23 anos teve sífilis latente de duração ignorada diagnosticada tardiamente no pré-natal. Recebeu as três doses semanais de benzatina, registradas no cartão, a primeira 20 dias antes do parto. O recém-nascido está assintomático. Como a enfermeira do alojamento conjunto deve classificar a criança para a vigilância?",
+  "alts": [
+   "Criança exposta, pois o esquema foi completo, adequado ao estágio e documentado.",
+   "Criança exposta, desde que a parceria sexual também tenha sido tratada na gestação.",
+   "Notificar sífilis congênita caso o VDRL do sangue de cordão supere o título materno.",
+   "Notificar sífilis congênita e investigar, pois o início foi a menos de 30 dias do parto.",
+   "Criança exposta, com VDRL colhido do sangue de cordão para o seguimento na APS."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "PCDT para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais, 2ª ed. revisada, 2022 (MS); Portaria GM/MS nº 11.211/2026",
+  "coment": "Para a vigilância, a gestante é considerada adequadamente tratada quando recebe esquema completo para o estágio, com benzatina, iniciado até 30 dias antes do parto e documentado. O tratamento da parceria não entra nessa definição, embora evite reinfecção. Fora desses critérios, o recém-nascido é notificado como sífilis congênita, de notificação semanal pela Portaria GM/MS 11.211/2026, e investigado com teste não treponêmico de sangue periférico, não de cordão, hemograma, líquor e radiografia de ossos longos. Aqui o esquema foi completo, mas começou 20 dias antes do parto, prazo insuficiente pelo critério do PCDT de Transmissão Vertical.",
+  "porAlt": [
+   "Errada: o esquema completo não basta; ele precisa ter começado até 30 dias antes do parto.",
+   "Errada: o tratamento da parceria não entra na definição de tratamento adequado da gestante.",
+   "Errada: o sangue de cordão não é usado; a notificação decorre do tratamento materno inadequado.",
+   "Correta: tratamento adequado exige início até 30 dias antes do parto; com 20 dias, o RN é notificado como sífilis congênita e investigado.",
+   "Errada: a criança não é exposta, e a investigação usa sangue periférico, não sangue de cordão."
+  ]
+ },
+ {
+  "q": "Homem de 34 anos tem sífilis primária, com úlcera genital indolor e teste rápido reagente, e inicia tratamento na UBS. Ele informa duas parcerias sexuais: uma mulher com quem se relacionou há dois meses e outra com quem se relacionou há seis meses. Qual conduta a enfermeira deve adotar com as parcerias?",
+  "alts": [
+   "Tratar presuntivamente as duas parcerias, sem necessidade de testagem.",
+   "Tratar presuntivamente a parceria de 2 meses e testar as duas parcerias.",
+   "Tratar a parceria que tiver teste rápido reagente e liberar a outra.",
+   "Testar as duas e tratar quem tiver VDRL reagente confirmado depois.",
+   "Tratar presuntivamente a parceria de 6 meses e testar a de 2 meses."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022 (MS)",
+  "coment": "Pelo PCDT de IST de 2022, as parcerias sexuais expostas nos últimos 90 dias recebem benzilpenicilina benzatina 2,4 milhões UI de forma presuntiva, independentemente do resultado do teste, porque podem estar infectadas e ainda na janela, e também são testadas. Parcerias com exposição anterior a esse período são testadas e tratadas conforme o resultado e o estágio. A enfermeira entrega a comunicação para as parcerias e, se o caso índice não conseguir trazê-las, faz convocação ativa. O tratamento da parceria evita a reinfecção do caso índice e interrompe a cadeia de transmissão.",
+  "porAlt": [
+   "Errada: o tratamento presuntivo vale para exposição nos últimos 90 dias, e a testagem é sempre feita.",
+   "Correta: parcerias expostas nos últimos 90 dias recebem benzatina presuntiva, e todas as parcerias são testadas.",
+   "Errada: a parceria exposta nos últimos 90 dias é tratada mesmo com teste não reagente, pela janela.",
+   "Errada: esperar o VDRL atrasa o tratamento da parceria recente, que é presuntivo.",
+   "Errada: inverte o critério; quem se expôs há menos de 90 dias recebe o tratamento presuntivo."
+  ]
+ },
+ {
+  "q": "Homem de 22 anos procura a UBS com corrimento uretral purulento e ardência ao urinar há três dias, após relação sem preservativo. A unidade não tem laboratório para exame no mesmo dia. A enfermeira aplica a abordagem sindrômica do protocolo. Qual tratamento deve ser instituído já na consulta?",
+  "alts": [
+   "Ceftriaxona 250 mg IM e azitromicina 1 g VO, em dose única.",
+   "Benzatina 2,4 milhões UI IM e azitromicina 1 g VO, em dose única.",
+   "Metronidazol 2 g VO e azitromicina 1 g VO, em dose única.",
+   "Ceftriaxona 500 mg IM isolada, em dose única, sem azitromicina.",
+   "Ceftriaxona 500 mg IM e azitromicina 1 g VO, em dose única."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis, 2022 (MS)",
+  "coment": "A abordagem sindrômica trata, na mesma consulta, os agentes prováveis de uma síndrome, porque a pessoa pode não voltar. Pelo PCDT de IST de 2022, no corrimento uretral cobrem-se gonorreia e clamídia com ceftriaxona 500 mg por via intramuscular e azitromicina 1 g por via oral, ambas em dose única. Onde há laboratório, colhe-se material na primeira consulta sem adiar o tratamento; onde não há, trata-se pela clínica. A consulta se completa com testes rápidos de HIV, sífilis e hepatites, oferta de vacinas indicadas, orientação de prevenção combinada e tratamento das parcerias sexuais.",
+  "porAlt": [
+   "Errada: a dose de ceftriaxona do PCDT de 2022 é 500 mg, não 250 mg.",
+   "Errada: a benzatina trata sífilis e não cobre gonorreia no corrimento uretral.",
+   "Errada: metronidazol é usado em tricomoníase e vaginose, não na cobertura de gonorreia.",
+   "Errada: sem azitromicina, a clamídia fica descoberta na abordagem sindrômica.",
+   "Correta: no corrimento uretral, trata-se gonorreia e clamídia com ceftriaxona 500 mg IM e azitromicina 1 g VO, doses únicas."
+  ]
+ },
+ {
+  "q": "Na mesma semana, a enfermeira de uma UBS atende três homens com corrimento uretral, tratados pela abordagem sindrômica. Ao revisar o fechamento do Sinan, a técnica pergunta se cada caso de gonorreia deve ser notificado individualmente. Considerando a Portaria GM/MS 11.211/2026, qual é a resposta correta?",
+  "alts": [
+   "Sim; deve ser notificado semanalmente, como as demais IST da lista nacional.",
+   "Sim; deve ser notificado de forma imediata à SMS, em até 24 horas.",
+   "Sim; depois que a cultura confirmar a Neisseria gonorrhoeae.",
+   "Sim; como sífilis adquirida, que engloba as IST bacterianas.",
+   "Não; o corrimento uretral masculino é objeto de vigilância sentinela."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS nº 11.211/2026, Anexo II (Anexo XLIII da PRC nº 5/2017)",
+  "coment": "A Portaria GM/MS nº 11.211, de 13 de maio de 2026, atualizou a Lista Nacional de Notificação Compulsória e a lista da vigilância sentinela. Gonorreia e clamídia não aparecem na lista de notificação individual. A síndrome de corrimento uretral masculino consta do Anexo II da portaria, que dá nova redação ao Anexo XLIII da Portaria de Consolidação nº 5/2017, como agravo monitorado pela estratégia de vigilância sentinela, feita em unidades selecionadas. Já a sífilis, nas formas adquirida, em gestante e congênita, é de notificação semanal individual. A equipe registra o atendimento no prontuário e trata as parcerias.",
+  "porAlt": [
+   "Errada: gonorreia não consta da Lista Nacional de Notificação Compulsória para notificação semanal individual.",
+   "Errada: não existe notificação imediata de corrimento uretral; ele é monitorado pela estratégia sentinela.",
+   "Errada: a confirmação laboratorial não cria obrigação de notificação individual da gonorreia.",
+   "Errada: sífilis adquirida é agravo próprio e não engloba outras IST bacterianas.",
+   "Correta: gonorreia e clamídia não estão na lista individual, e o corrimento uretral masculino integra a vigilância sentinela."
+  ]
+ },
+ {
+  "q": "Recém-nascido a termo, de parto vaginal há duas horas, é filho de mãe com HBsAg reagente no pré-natal. Está estável no alojamento conjunto, e a enfermeira prepara os imunobiológicos. Segundo a Instrução Normativa do Calendário Nacional de Vacinação 2026, qual é a conduta?",
+  "alts": [
+   "Vacina hepatite B e imunoglobulina na mesma seringa, nas primeiras 12 horas.",
+   "Imunoglobulina ao nascer e vacina aos 2 meses, junto com a vacina penta.",
+   "Vacina hepatite B ao nascer e imunoglobulina se o anti-HBs vier negativo.",
+   "Vacina hepatite B e imunoglobulina em músculos diferentes, nas primeiras 12 horas.",
+   "Vacina e imunoglobulina no mesmo músculo vasto lateral, até o 7º dia de vida."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Hepatites virais",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS); PCDT de Hepatite B e Coinfecções, 2023",
+  "coment": "Pela Instrução Normativa do Calendário Nacional de Vacinação 2026, o recém-nascido filho de mãe HBsAg positiva recebe, logo após o nascimento, uma dose de imunoglobulina humana anti-hepatite B e a primeira dose da vacina hepatite B monovalente, em sítios musculares distintos. A vacina deve ser aplicada na sala de parto ou nas primeiras 12 horas; se não for possível, em até 24 horas. A imunoglobulina pode ser aplicada no máximo até 7 dias após o parto, mas o ideal é fazê-la junto com a vacina. A soroconversão é avaliada com anti-HBs entre 30 e 60 dias após a última dose do esquema básico.",
+  "porAlt": [
+   "Errada: vacina e imunoglobulina não se misturam; são aplicadas em sítios musculares diferentes.",
+   "Errada: a vacina monovalente é dada ao nascer; esperar a penta deixa o RN sem proteção.",
+   "Errada: a imunoglobulina é indicada logo ao nascer, sem esperar sorologia da criança.",
+   "Correta: o RN de mãe HBsAg reagente recebe vacina e imunoglobulina anti-hepatite B em sítios musculares distintos, de preferência nas primeiras 12 horas.",
+   "Errada: vacina e imunoglobulina vão em músculos diferentes, e a vacina deve ser dada nas primeiras 12 horas."
+  ]
+ },
+ {
+  "q": "Gestante de 32 semanas, HBsAg reagente, acompanhada no pré-natal da UBS, pergunta à enfermeira se terá de fazer cesariana por causa da hepatite B e se poderá amamentar o bebê. Ela tem medo de transmitir o vírus ao filho. Qual orientação está de acordo com as normas do Ministério da Saúde?",
+  "alts": [
+   "A hepatite B não indica cesariana nem contraindica a amamentação.",
+   "A hepatite B indica cesariana, mas não contraindica a amamentação.",
+   "A hepatite B não indica cesariana, mas contraindica a amamentação.",
+   "A hepatite B indica cesariana e também contraindica a amamentação.",
+   "A amamentação é liberada após a 3ª dose de vacina do bebê."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Hepatites virais",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "PCDT para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais, 2ª ed. revisada, 2022; PCDT de Hepatite B e Coinfecções, 2023",
+  "coment": "Toda gestante faz HBsAg no pré-natal. Pelos protocolos do Ministério da Saúde, a hepatite B materna não indica cesariana e não contraindica a amamentação. A prevenção da transmissão vertical se apoia na imunoprofilaxia do recém-nascido, com vacina hepatite B e imunoglobulina anti-hepatite B em membros diferentes, de preferência nas primeiras 12 horas de vida. A situação é diferente da infecção pelo HIV, em que a amamentação é contraindicada. A infecção pelo vírus da hepatite B em gestante, parturiente ou puérpera é de notificação semanal pela Portaria GM/MS 11.211/2026. A enfermeira acolhe o medo da gestante e explica o plano para o parto.",
+  "porAlt": [
+   "Correta: na hepatite B, a via de parto segue a indicação obstétrica e a amamentação é mantida, com imunoprofilaxia do RN.",
+   "Errada: a hepatite B não é indicação de cesariana; a prevenção se faz com vacina e imunoglobulina no RN.",
+   "Errada: diferente do HIV, a hepatite B não contraindica a amamentação.",
+   "Errada: nenhuma das duas medidas é exigida pela hepatite B materna.",
+   "Errada: a amamentação não depende do término do esquema vacinal; começa logo após o nascimento."
+  ]
+ },
+ {
+  "q": "Gestante de 14 semanas, na primeira consulta de pré-natal, apresenta cartão com uma única dose de vacina hepatite B recebida há cinco anos. O HBsAg é não reagente. Ela pergunta se precisa recomeçar o esquema. Segundo a Instrução Normativa do Calendário 2026, qual é a conduta da enfermeira?",
+  "alts": [
+   "Completar o esquema com as doses que faltam ainda na gestação, sem reiniciar.",
+   "Reiniciar o esquema de 3 doses, pois o intervalo passou de 6 meses.",
+   "Adiar a vacinação para o pós-parto, pois a vacina é contraindicada na gestação.",
+   "Aplicar uma dose de reforço e considerar o esquema completo a partir dela.",
+   "Solicitar anti-HBs e vacinar se o resultado vier abaixo de 10 mUI/mL."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Hepatites virais",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "A vacina hepatite B é universal no SUS e indicada em qualquer faixa etária e idade gestacional. Pela Instrução Normativa do Calendário Nacional de Vacinação 2026, a gestante sem esquema básico completo, de pelo menos 3 doses, tem a situação vacinal avaliada no início do pré-natal e recebe as doses que faltam de modo que a atualização termine ainda na gestação. Não se reinicia o esquema. Se não for possível concluir na gravidez, completa-se após o parto, até 45 dias do puerpério. Com uma dose prévia, a gestante precisa de mais duas, respeitando os intervalos preconizados.",
+  "porAlt": [
+   "Correta: a gestante sem esquema completo inicia ou completa as doses na gestação, sem reiniciar o esquema já começado.",
+   "Errada: a Instrução Normativa determina não reiniciar o esquema, qualquer que seja o intervalo.",
+   "Errada: a vacina hepatite B é indicada em qualquer idade gestacional.",
+   "Errada: o esquema básico exige ao menos 3 doses; uma dose de reforço não o completa.",
+   "Errada: não se exige sorologia prévia para vacinar a gestante com esquema incompleto."
+  ]
+ },
+ {
+  "q": "Homem de 50 anos faz testagem na UBS durante ação de rastreamento. O teste rápido anti-HCV é reagente. Ele nunca tratou hepatite e não tem sintomas. A enfermeira vai orientar o próximo passo do diagnóstico, conforme o protocolo de hepatite C. O que deve ser solicitado?",
+  "alts": [
+   "Novo teste rápido anti-HCV de outro fabricante para confirmar.",
+   "Nenhum exame, pois o teste rápido reagente já define a infecção ativa.",
+   "HBsAg, que confirma se a hepatite C evoluiu para a forma crônica.",
+   "Novo anti-HCV em 30 dias, pela possibilidade de janela imunológica.",
+   "Carga viral do HCV, pois o anticorpo persiste mesmo após a cura."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Hepatites virais",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "PCDT de Hepatite C e Coinfecções, Portaria SCTIE/MS nº 39/2026",
+  "coment": "O teste rápido anti-HCV detecta anticorpos contra o vírus da hepatite C. Esses anticorpos persistem após a cura, espontânea ou por tratamento, e por isso o resultado reagente indica contato com o vírus, mas não prova infecção ativa. Pelo PCDT de Hepatite C de 2026, o anti-HCV reagente é seguido da carga viral do HCV (HCV-RNA), que confirma a viremia e indica o tratamento. A hepatite C é curável com antivirais orais em 12 semanas. A testagem foi ampliada: todo adulto a partir de 18 anos deve ser testado ao menos uma vez, e toda gestante, a cada gestação. A notificação é semanal.",
+  "porAlt": [
+   "Errada: repetir o anticorpo não diferencia infecção ativa de infecção curada.",
+   "Errada: o anticorpo persiste após a cura espontânea ou tratada e não define infecção ativa.",
+   "Errada: HBsAg é marcador da hepatite B e não avalia a hepatite C.",
+   "Errada: o resultado é reagente; a dúvida não é de janela, e sim de infecção ativa ou passada.",
+   "Correta: o anti-HCV reagente indica contato com o vírus; a carga viral (HCV-RNA) confirma a infecção ativa."
+  ]
+ },
+ {
+  "q": "A coordenação de uma UBS revisa o protocolo local de rastreamento da hepatite C para incorporar o PCDT de Hepatite C publicado em 2026. A enfermeira responsável pela testagem precisa definir quem deve receber o teste rápido anti-HCV como rotina. Qual público está previsto?",
+  "alts": [
+   "Adultos acima de 40 anos e pessoas de qualquer idade com fatores de risco.",
+   "Todo adulto acima de 60 anos e as gestantes que tenham algum fator de risco.",
+   "Pessoas que usam drogas injetáveis, pessoas transfundidas e profissionais de saúde.",
+   "Todo adulto a partir de 18 anos, uma vez, e toda gestante a cada gestação.",
+   "Toda gestante na primeira gestação e todos os doadores de sangue do município."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Hepatites virais",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "PCDT de Hepatite C e Coinfecções, Portaria SCTIE/MS nº 39/2026",
+  "coment": "O PCDT de Hepatite C e Coinfecções (Portaria SCTIE/MS nº 39/2026) ampliou a testagem: todo adulto a partir de 18 anos deve fazer o teste ao menos uma vez na vida, e toda gestante deve ser testada a cada gestação. A ampliação busca diagnosticar pessoas assintomáticas, já que a hepatite C crônica pode evoluir por anos sem sintomas, e hoje é curável com antivirais orais em 12 semanas. O teste rápido reagente é seguido da carga viral, porque o anticorpo permanece após a cura. A enfermeira inclui o teste rápido de hepatite C na consulta de rotina do adulto e no pré-natal.",
+  "porAlt": [
+   "Errada: a testagem ampliada não se restringe a maiores de 40 anos nem exige fator de risco.",
+   "Errada: a idade de corte é 18 anos, e a gestante é testada independentemente de fator de risco.",
+   "Errada: restringir a testagem a grupos de risco contraria a ampliação para todo adulto a partir de 18 anos.",
+   "Correta: o PCDT de 2026 ampliou a testagem para todo adulto a partir de 18 anos, ao menos uma vez, e para toda gestante, a cada gestação.",
+   "Errada: a gestante é testada a cada gestação, não apenas na primeira."
+  ]
+ },
+ {
+  "q": "Em uma creche municipal, três crianças apresentam icterícia, colúria e vômitos na mesma quinzena. A equipe de saúde da família investiga o surto e planeja medidas de controle centradas na água, na higiene das mãos e no preparo de alimentos. Quais hepatites virais têm a transmissão que justifica essas medidas?",
+  "alts": [
+   "Hepatites B e D.",
+   "Hepatites A e E.",
+   "Hepatites C e E.",
+   "Hepatites A e C.",
+   "Hepatites B e E."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Hepatites virais",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. revisada, 2024 (MS)",
+  "coment": "As hepatites virais diferem pela via de transmissão, o que orienta as medidas de controle. As hepatites A e E são de transmissão fecal-oral, por água e alimentos contaminados e contato pessoa a pessoa, e surtos em creches e instituições pedem foco em saneamento, higiene das mãos e preparo de alimentos. As hepatites B, C e D se transmitem por sangue e por via sexual, e a hepatite B também pela via vertical, o que exige triagem no pré-natal e imunoprofilaxia do recém-nascido. Hepatites virais são de notificação semanal pela Portaria GM/MS 11.211/2026, e cada caso suspeito é notificado.",
+  "porAlt": [
+   "Errada: as hepatites B e D se transmitem por sangue e por via sexual, e a B também pela via vertical.",
+   "Correta: as hepatites A e E são de transmissão fecal-oral, controladas com água segura, higiene e cuidado com alimentos.",
+   "Errada: a hepatite C se transmite por sangue, embora a E seja fecal-oral.",
+   "Errada: a hepatite A é fecal-oral, mas a C se transmite pelo sangue.",
+   "Errada: a hepatite E é fecal-oral, mas a B se transmite por sangue, sexo e via vertical."
+  ]
+ },
+ {
+  "q": "Técnica de enfermagem de 26 anos, gestante de 20 semanas, sofre acidente com agulha usada em paciente com HBsAg reagente. Ela nunca foi vacinada contra hepatite B, e o HBsAg dela é não reagente. Na avaliação do serviço de referência, qual é a conduta para a prevenção da hepatite B?",
+  "alts": [
+   "Vacina isolada, pois a imunoglobulina é contraindicada durante a gestação.",
+   "Imunoglobulina isolada, pois a vacina hepatite B deve aguardar o pós-parto.",
+   "Vacina hepatite B e imunoglobulina anti-hepatite B, mesmo durante a gestação.",
+   "Nenhuma profilaxia durante a gestação, com testagem de anti-HBs no puerpério.",
+   "Vacina hepatite B e tenofovir por 28 dias, dispensando a imunoglobulina."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Hepatites virais",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS); PCDT de Profilaxia Pós-Exposição ao HIV, IST e Hepatites Virais, 2024",
+  "coment": "Pela Instrução Normativa do Calendário Nacional de Vacinação 2026, gestantes suscetíveis expostas ao vírus da hepatite B em qualquer trimestre, por relação sexual ou acidente com material biológico, devem receber a associação de vacina e imunoglobulina anti-hepatite B. A gravidez não contraindica nenhum dos dois. A vacina inicia o esquema de 3 doses, que deve ser completado, e a imunoglobulina oferece proteção imediata enquanto a resposta vacinal se forma. A trabalhadora também é avaliada para HIV e hepatite C pelo PCDT de PEP de 2024, e o acidente é notificado semanalmente como acidente de trabalho com material biológico.",
+  "porAlt": [
+   "Errada: a imunoglobulina não é contraindicada na gestação e deve ser associada à vacina.",
+   "Errada: a vacina hepatite B é indicada em qualquer idade gestacional e não é adiada.",
+   "Correta: a gestante suscetível exposta ao vírus da hepatite B, em qualquer trimestre, recebe vacina e imunoglobulina anti-hepatite B.",
+   "Errada: deixar a gestante suscetível sem profilaxia expõe mãe e feto à infecção.",
+   "Errada: a profilaxia recomendada para hepatite B é vacina com imunoglobulina; o antirretroviral não a substitui."
+  ]
+ },
+ {
+  "q": "Gestante de 26 semanas procura a UBS com febre há três dias, cefaleia, dor retro-orbitária e mialgia, em período de epidemia de dengue. Não tem sinais de alarme nem de gravidade, e a prova do laço é negativa. Está hidratada e com pressão normal. Em qual grupo de risco ela deve ser classificada?",
+  "alts": [
+   "Grupo A, pois não há sinal de alarme, sangramento de pele nem gravidade.",
+   "Grupo C, pois toda gestante com dengue exige hidratação venosa imediata na UBS.",
+   "Grupo B, pela condição especial, com hemograma e hidratação oral na unidade.",
+   "Grupo D, pois a gestação, isoladamente, é critério de gravidade na dengue.",
+   "Grupo A, com hidratação oral no domicílio e retorno no dia da queda da febre."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed., MS, 2024",
+  "coment": "O manual Dengue: diagnóstico e manejo clínico (6ª ed., 2024) classifica o caso em quatro grupos. O grupo A não tem sinal de alarme, sangramento de pele, condição especial, risco social ou comorbidade. O grupo B não tem sinal de alarme, mas tem sangramento de pele ou condição especial, como menores de 2 anos, gestantes, maiores de 65 anos ou comorbidade; recebe hidratação oral na unidade e hemograma com resultado em até 2 horas, no máximo 4. O grupo C tem algum sinal de alarme, e o D tem choque, desconforto respiratório, sangramento grave ou disfunção grave de órgão. A gestante sem alarme é grupo B, de cor verde na triagem.",
+  "porAlt": [
+   "Errada: a gestante não é grupo A, ainda que sem sinais de alarme, por ser condição especial.",
+   "Errada: o grupo C exige sinal de alarme; a gestação sozinha não indica hidratação venosa.",
+   "Correta: a gestação é condição especial que coloca o caso sem sinal de alarme no grupo B, com hemograma e hidratação oral na unidade.",
+   "Errada: o grupo D exige choque, desconforto respiratório, sangramento grave ou disfunção grave de órgão.",
+   "Errada: a gestante sem sinal de alarme é grupo B, acompanhada na unidade com hemograma."
+  ]
+ },
+ {
+  "q": "Mulher de 35 anos, 55 kg, com dengue classificada no grupo A, será acompanhada em casa. A enfermeira vai escrever no cartão de acompanhamento o volume de líquidos por dia e quanto dele deve ser de sais de reidratação oral. Qual é a prescrição correta para essa paciente adulta?",
+  "alts": [
+   "2,2 L por dia, sendo cerca de 0,7 L de sais de reidratação oral.",
+   "4,4 L por dia, sendo cerca de 1,5 L de sais de reidratação oral.",
+   "3,3 L por dia, sendo cerca de 2,2 L de sais de reidratação oral.",
+   "3,3 L por dia, sendo cerca de 1,1 L de sais de reidratação oral.",
+   "5,5 L por dia, sendo cerca de 1,8 L de sais de reidratação oral."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed., MS, 2024",
+  "coment": "Pelo manual Dengue: diagnóstico e manejo clínico (6ª ed., 2024), a hidratação oral dos grupos A e B no adulto é de 60 mL/kg/dia, um terço com sais de reidratação oral, com volume maior no início. Para 55 kg: 55 x 60 = 3.300 mL, ou 3,3 L, dos quais cerca de 1,1 L de sais de reidratação oral. A hidratação é mantida até 24 a 48 horas após a queda da febre. Na criança, o cálculo muda: 130 mL/kg/dia até 10 kg, 100 de 10 a 20 kg e 80 acima de 20 kg. A enfermeira escreve o volume no cartão, ensina os sinais de alarme e marca o retorno no dia da melhora da febre.",
+  "porAlt": [
+   "Errada: 2,2 L correspondem a 40 mL/kg/dia, abaixo da hidratação recomendada para o adulto.",
+   "Errada: 4,4 L correspondem a 80 mL/kg/dia, valor de criança acima de 20 kg, não de adulto.",
+   "Errada: o volume total está certo, mas os sais devem ser um terço, não dois terços.",
+   "Correta: 60 mL/kg/dia em 55 kg dão 3,3 L, e um terço, cerca de 1,1 L, deve ser de sais de reidratação oral.",
+   "Errada: 5,5 L correspondem a 100 mL/kg/dia, faixa de criança de 10 a 20 kg."
+  ]
+ },
+ {
+  "q": "Menina de 8 anos, com febre há quatro dias e suspeita de dengue, tem pressão arterial de 100 x 60 mmHg na triagem da UBS. A enfermeira vai realizar a prova do laço. Segundo o manual de dengue do Ministério da Saúde, como a prova deve ser feita e interpretada nessa criança?",
+  "alts": [
+   "Insuflar a 80 mmHg por 5 minutos; positiva com 20 ou mais petéquias.",
+   "Insuflar a 100 mmHg por 3 minutos; positiva com 10 ou mais petéquias.",
+   "Insuflar a 60 mmHg por 5 minutos; positiva com 10 ou mais petéquias.",
+   "Insuflar a 80 mmHg por 3 minutos; positiva com 20 ou mais petéquias.",
+   "Insuflar a 80 mmHg por 3 minutos; positiva com 10 ou mais petéquias."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed., MS, 2024",
+  "coment": "Na prova do laço, desenha-se um quadrado de 2,5 cm de lado no antebraço e insufla-se o manguito até o valor médio entre a pressão sistólica e a diastólica. Pelo manual Dengue: diagnóstico e manejo clínico (6ª ed., 2024), o manguito permanece por 5 minutos no adulto e por 3 minutos na criança. A prova é positiva com 20 ou mais petéquias no adulto e 10 ou mais na criança dentro do quadrado. Com pressão de 100 x 60 mmHg, a média é 80 mmHg. Prova positiva é sangramento de pele, que leva o caso sem sinal de alarme ao grupo B, e não é sinal de alarme.",
+  "porAlt": [
+   "Errada: 5 minutos e 20 petéquias são os parâmetros do adulto, não da criança.",
+   "Errada: o manguito vai à média entre sistólica e diastólica, e não ao valor da sistólica.",
+   "Errada: 60 mmHg é a diastólica, e a criança mantém o manguito por 3 minutos.",
+   "Errada: na criança, a prova é positiva com 10 ou mais petéquias, não com 20.",
+   "Correta: o manguito fica na média entre 100 e 60 mmHg por 3 minutos na criança, e a prova é positiva com 10 ou mais petéquias."
+  ]
+ },
+ {
+  "q": "Homem de 40 anos, 70 kg, com dengue no 5º dia, refere que a febre cessou ontem, mas surgiram dor abdominal intensa e contínua e vômitos persistentes. Está consciente, com pressão arterial normal e sem sinais de choque. Ele aguarda na UBS a ambulância para transferência. Qual conduta a enfermeira deve iniciar?",
+  "alts": [
+   "Transferir de imediato e deixar a hidratação venosa para o hospital.",
+   "SF 1.400 mL em até 20 minutos, repetindo até 3 vezes se necessário.",
+   "Hidratação oral de 60 mL/kg/dia e reavaliação na UBS em 24 horas.",
+   "SF 700 mL em 4 horas, aguardando o resultado do hemograma para transferir.",
+   "SF 700 mL na 1ª hora na própria UBS, antes e durante a transferência."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed., MS, 2024",
+  "coment": "A fase crítica da dengue começa com a queda da febre, quando surgem os sinais de alarme do extravasamento plasmático: dor abdominal intensa e contínua, vômitos persistentes, acúmulo de líquidos, hipotensão postural, hepatomegalia, sangramento de mucosa, letargia e aumento do hematócrito. Pelo manual Dengue: diagnóstico e manejo clínico (6ª ed., 2024), o caso com sinal de alarme e sem gravidade é grupo C: soro fisiológico 10 mL/kg na 1ª hora, iniciado onde o paciente estiver, e internação mínima de 48 horas. Para 70 kg, são 700 mL. A hidratação não espera a transferência nem o hemograma.",
+  "porAlt": [
+   "Errada: transferir sem iniciar o soro é erro frequente; no grupo C a hidratação começa onde o paciente está.",
+   "Errada: 20 mL/kg em até 20 minutos é a conduta do grupo D, com choque ou gravidade.",
+   "Errada: dor abdominal intensa e vômitos persistentes são sinais de alarme e exigem soro venoso.",
+   "Errada: no grupo C, o volume de 10 mL/kg é feito na 1ª hora, sem esperar exames.",
+   "Correta: com sinais de alarme e sem gravidade, é grupo C, e o soro fisiológico 10 mL/kg na 1ª hora começa onde o paciente estiver."
+  ]
+ },
+ {
+  "q": "Mulher de 30 anos, 60 kg, com dengue no 6º dia, chega ao pronto atendimento com pressão arterial de 100 x 85 mmHg, frequência cardíaca de 128 bpm, extremidades frias e enchimento capilar de 4 segundos. Está consciente e sem sangramento. Qual classificação e conduta inicial estão corretas?",
+  "alts": [
+   "Grupo C: SF 600 mL na 1ª hora, pois a pressão sistólica está normal.",
+   "Grupo D: SF 1.200 mL em até 20 minutos, repetível até 3 vezes.",
+   "Grupo D: SF 600 mL em até 20 minutos, repetível até 3 vezes.",
+   "Grupo C: SF 1.200 mL na 1ª hora e internação mínima de 48 horas.",
+   "Grupo B: hidratação oral supervisionada e hemograma em até 2 horas."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed., MS, 2024",
+  "coment": "Pelo manual Dengue: diagnóstico e manejo clínico (6ª ed., 2024), o choque começa antes da hipotensão. Pressão de pulso de 20 mmHg ou menos, taquicardia, extremidades frias e enchimento capilar lento indicam choque. Aqui a pressão de pulso é de 15 mmHg, com taquicardia e má perfusão, o que classifica o caso como grupo D, de cor vermelha. A conduta é soro fisiológico 20 mL/kg em até 20 minutos, que pode ser repetido até 3 vezes, com reavaliação a cada etapa e leito de UTI. Para 60 kg, cada etapa é de 1.200 mL. A enfermeira monitoriza sinais vitais, diurese e perfusão.",
+  "porAlt": [
+   "Errada: o choque começa antes da hipotensão; pressão de pulso de 20 mmHg ou menos já indica grupo D.",
+   "Correta: pressão de pulso de 15 mmHg, taquicardia e má perfusão definem choque, grupo D, com SF 20 mL/kg em até 20 minutos.",
+   "Errada: a classificação está certa, mas o volume do grupo D é 20 mL/kg, ou 1.200 mL para 60 kg.",
+   "Errada: há sinais de choque, o que define grupo D, e não grupo C.",
+   "Errada: hidratação oral é inadequada para paciente com sinais de choque."
+  ]
+ },
+ {
+  "q": "Homem de 28 anos com dengue do grupo A, em acompanhamento ambulatorial, conta à enfermeira que tomou ibuprofeno em casa para a dor no corpo e pergunta qual remédio pode continuar usando para dor e febre. Não tem sangramentos nem sinais de alarme. Qual orientação está correta?",
+  "alts": [
+   "Manter o ibuprofeno em dose baixa, alternando com dipirona.",
+   "Trocar o ibuprofeno por ácido acetilsalicílico em dose baixa.",
+   "Usar prednisona por três dias para aliviar a dor no corpo.",
+   "Usar dipirona ou paracetamol e suspender o ibuprofeno.",
+   "Manter o ibuprofeno, proibido quando houver sangramento."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed., MS, 2024",
+  "coment": "Pelo manual Dengue: diagnóstico e manejo clínico (6ª ed., 2024), dor e febre são tratadas com dipirona ou paracetamol. Salicilatos, anti-inflamatórios não esteroides e corticoides não devem ser usados, porque aumentam o risco de sangramento. No grupo A, a enfermeira orienta hidratação oral de 60 mL/kg/dia no adulto, ensina os sinais de alarme, como dor abdominal intensa e contínua e vômitos persistentes, e marca o retorno no dia da melhora da febre, quando começa a fase crítica. O volume prescrito e os sinais de alarme são anotados no cartão de acompanhamento entregue ao paciente.",
+  "porAlt": [
+   "Errada: anti-inflamatórios não se usam na dengue, nem em dose baixa ou alternados.",
+   "Errada: salicilatos não são usados na dengue pelo risco de sangramento.",
+   "Errada: corticoides não são indicados para dor e febre na dengue.",
+   "Correta: na dengue, dor e febre são tratadas com dipirona ou paracetamol, e anti-inflamatórios não são usados.",
+   "Errada: o anti-inflamatório é evitado em qualquer caso de dengue, com ou sem sangramento."
+  ]
+ },
+ {
+  "q": "Gestante de 18 semanas, moradora de área rural da Região Norte, procura a UBS com febre súbita, cefaleia intensa e mialgia. Os sintomas melhoraram e voltaram dias depois, e ela relata muitas picadas de maruim. A enfermeira suspeita de febre do Oropouche. Qual é a periodicidade de notificação desse caso?",
+  "alts": [
+   "Semanal, como os demais casos de febre do Oropouche.",
+   "Imediata, em até 24 horas, à SMS e não ao MS.",
+   "Semanal, após confirmação laboratorial do caso.",
+   "Imediata, em até 24 horas, ao MS, à SES e à SMS.",
+   "Imediata se houver óbito fetal ou anomalia congênita."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS nº 11.211/2026, art. 2º e Anexo I, item 27",
+  "coment": "A Portaria GM/MS nº 11.211, de 13 de maio de 2026, incluiu a febre do Oropouche na Lista Nacional de Notificação Compulsória. Os casos em geral são de notificação semanal, mas óbitos, óbitos fetais, anomalias congênitas e casos em gestante são de notificação imediata, em até 24 horas, ao Ministério da Saúde, à Secretaria Estadual e à Secretaria Municipal de Saúde. A regra se explica pela transmissão vertical, com risco de óbito fetal e anomalia congênita. O Oropouche é transmitido pelo maruim (Culicoides paraensis) e causa febre súbita com cefaleia intensa e recorrência dos sintomas em parte dos casos. A notificação é feita na suspeita.",
+  "porAlt": [
+   "Errada: o caso de Oropouche fora da gestação é semanal, mas a gestante é de notificação imediata.",
+   "Errada: a notificação imediata da gestante vai às três esferas: MS, SES e SMS, não só à SMS.",
+   "Errada: a notificação é feita na suspeita, sem esperar confirmação laboratorial.",
+   "Correta: febre do Oropouche em gestante é de notificação imediata ao Ministério da Saúde, à SES e à SMS pela Portaria 11.211/2026.",
+   "Errada: além de óbito fetal e anomalia congênita, a própria gestante é de notificação imediata."
+  ]
+ },
+ {
+  "q": "Mulher de 45 anos procura a UBS com febre alta há três dias e dor intensa nas articulações, com edema de punhos e tornozelos. Há casos de dengue e de chikungunya no bairro, e ainda não há exame. Ela pede ibuprofeno para a dor articular. Qual conduta a enfermeira deve adotar?",
+  "alts": [
+   "Conduzir como dengue até esclarecer, sem anti-inflamatório na fase aguda.",
+   "Liberar ibuprofeno, pois o edema articular confirma chikungunya e afasta dengue.",
+   "Indicar corticoide já na fase aguda, para prevenir a evolução para a forma crônica.",
+   "Conduzir como zika, pela artralgia, e solicitar exame se for gestante.",
+   "Liberar o anti-inflamatório se a prova do laço for negativa e não houver alarme."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Chikungunya: manejo clínico, MS, 2025; Dengue: diagnóstico e manejo clínico, 6ª ed., 2024",
+  "coment": "Nos primeiros dias, dengue, chikungunya e zika não se distinguem com segurança pela clínica, e o Ministério da Saúde orienta conduzir o caso como dengue, a arbovirose que mata por extravasamento plasmático. A chikungunya causa febre alta e artralgia intensa com edema articular, que pode persistir na fase pós-aguda, de 15 a 90 dias, e na crônica. Pelo manual Chikungunya: manejo clínico (2025), anti-inflamatório não é recomendado na fase aguda; para dor e febre, usam-se dipirona ou paracetamol. A enfermeira classifica o risco para dengue, orienta hidratação, ensina os sinais de alarme e notifica o caso suspeito.",
+  "porAlt": [
+   "Correta: nos primeiros dias nenhuma arbovirose se distingue com segurança; conduz-se como dengue e evita-se anti-inflamatório.",
+   "Errada: artralgia com edema sugere chikungunya, mas não afasta dengue nos primeiros dias.",
+   "Errada: corticoide não é indicado na fase aguda e não se usa enquanto a dengue não for afastada.",
+   "Errada: a zika costuma ter febre baixa ou ausente, exantema precoce e conjuntivite, não artralgia intensa.",
+   "Errada: prova do laço negativa não afasta dengue, e o anti-inflamatório não é recomendado na fase aguda."
+  ]
+ },
+ {
+  "q": "Homem de 28 anos, com duas doses comprovadas de tríplice viral, procura a UBS com febre há três dias, coriza, conjuntivite e exantema maculopapular que começou no rosto e desceu para o tronco. Não viajou recentemente. A enfermeira avalia se o caso deve ser tratado como suspeito de sarampo. Qual é a conclusão correta?",
+  "alts": [
+   "Não é suspeito, pois tem duas doses comprovadas de tríplice viral.",
+   "É suspeito se houver também viagem recente ou contato com caso confirmado.",
+   "É caso suspeito de sarampo, qualquer que seja a situação vacinal.",
+   "Não é suspeito, pois a definição exige as manchas de Koplik.",
+   "É suspeito de rubéola, pois o sarampo raramente ocorre em adultos."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. revisada, 2024 (MS)",
+  "coment": "Pelo Guia de Vigilância em Saúde (6ª ed. revisada, 2024), é caso suspeito de sarampo toda pessoa com febre e exantema maculopapular, de progressão craniocaudal, acompanhados de tosse, coriza ou conjuntivite, qualquer que seja a idade ou a situação vacinal. A vacinação prévia reduz muito o risco, mas não exclui a doença, e a vigilância depende de captar todos os suspeitos. O sarampo é de notificação imediata, em até 24 horas, ao Ministério da Saúde, à Secretaria Estadual e à Municipal, pela Portaria GM/MS 11.211/2026. A transmissão ocorre por aerossóis, de 6 dias antes a 4 dias após o início do exantema.",
+  "porAlt": [
+   "Errada: a definição de caso suspeito vale qualquer que seja a situação vacinal.",
+   "Errada: viagem ou contato não são exigidos na definição de caso suspeito de sarampo.",
+   "Correta: febre e exantema maculopapular com coriza ou conjuntivite definem caso suspeito, independentemente da idade e da vacinação.",
+   "Errada: manchas de Koplik não fazem parte da definição de caso suspeito.",
+   "Errada: a idade não afasta o sarampo; a definição vale para qualquer idade."
+  ]
+ },
+ {
+  "q": "Em uma UBS, a enfermeira atende criança de 4 anos com quadro que preenche a definição de caso suspeito de sarampo. Ela organiza as ações de vigilância com a equipe e a secretaria municipal. Segundo o Guia de Vigilância em Saúde, quais são os prazos para notificar, investigar e fazer o bloqueio vacinal?",
+  "alts": [
+   "Notificar em 48 horas, investigar em 72 horas e vacinar contatos em 7 dias.",
+   "Notificar em 24 horas, investigar em 72 horas e vacinar contatos em 48 horas.",
+   "Notificar na semana, investigar em 48 horas e vacinar contatos em 72 horas.",
+   "Notificar após IgM reagente, investigar em 48 horas e vacinar em 72 horas.",
+   "Notificar em 24 horas, investigar em 48 horas e vacinar contatos em 72 horas."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. revisada, 2024 (MS); Portaria GM/MS nº 11.211/2026",
+  "coment": "Diante de caso suspeito de sarampo, os prazos são encadeados pelo Guia de Vigilância em Saúde (6ª ed. revisada, 2024): notificar em até 24 horas, investigar em até 48 horas, coletar sorologia e material para RT-PCR e fazer o bloqueio vacinal seletivo em até 72 horas nos contatos a partir de 6 meses. A notificação é imediata ao Ministério da Saúde, à Secretaria Estadual e à Municipal, pela Portaria GM/MS 11.211/2026, e é feita na suspeita. Gestantes contatos não são vacinadas e recebem imunoglobulina. A criança suspeita recebe vitamina A, e o doente evita escola e trabalho até 4 dias após o início do exantema.",
+  "porAlt": [
+   "Errada: o sarampo é de notificação imediata, em até 24 horas, e o bloqueio é feito em até 72 horas.",
+   "Errada: inverte os prazos; a investigação é em 48 horas e o bloqueio vacinal em 72 horas.",
+   "Errada: o sarampo é de notificação imediata, não semanal.",
+   "Errada: a notificação é feita na suspeita, sem esperar o resultado da sorologia.",
+   "Correta: a notificação é feita em até 24 horas, a investigação em até 48 horas e o bloqueio vacinal seletivo em até 72 horas."
+  ]
+ },
+ {
+  "q": "Criança de 5 anos tem suspeita de sarampo. Na investigação domiciliar, feita no dia seguinte, a enfermeira avalia os contatos: irmão de 7 meses, sem vacina contra sarampo; mãe de 25 anos, gestante de 20 semanas, sem comprovação vacinal; pai de 35 anos, com 1 dose de tríplice viral; e irmã de 14 anos, com 2 doses. Qual conduta está correta?",
+  "alts": [
+   "Vacinar todos os contatos, inclusive a gestante, em até 72 horas do contato.",
+   "Dose zero no bebê, vacina na mãe e 2ª dose de tríplice viral no pai.",
+   "Dose zero no bebê, imunoglobulina na mãe e nenhuma vacina no pai e na irmã.",
+   "Nenhuma vacina no bebê de 7 meses, imunoglobulina na mãe e 2ª dose no pai.",
+   "Dose zero no bebê, imunoglobulina na mãe e 2ª dose de tríplice viral no pai."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS); Guia de Vigilância em Saúde, 6ª ed. revisada, 2024 (MS)",
+  "coment": "O bloqueio vacinal seletivo é feito em até 72 horas nos contatos a partir de 6 meses, com avaliação do cartão de cada um. Pela Instrução Normativa do Calendário Nacional de Vacinação 2026, a criança de 6 a 11 meses recebe a dose zero, que não conta para o esquema de rotina dos 12 e 15 meses. A gestante não recebe tríplice viral, vacina atenuada, mesmo em surto; pelo Guia de Vigilância em Saúde (2024), recebe imunoglobulina. Entre 12 meses e 29 anos, considera-se vacinado quem tem 2 doses; entre 30 e 59 anos, quem tem 1 dose. Por isso o pai e a irmã não precisam de vacina no bloqueio.",
+  "porAlt": [
+   "Errada: a gestante não recebe tríplice viral, mesmo em surto; recebe imunoglobulina.",
+   "Errada: a gestante não é vacinada, e o pai de 35 anos com 1 dose já é considerado vacinado.",
+   "Correta: o bebê de 6 a 11 meses recebe dose zero, a gestante recebe imunoglobulina, e pai e irmã já estão vacinados para a idade.",
+   "Errada: no bloqueio, contatos a partir de 6 meses são avaliados, e o bebê de 7 meses recebe dose zero.",
+   "Errada: entre 30 e 59 anos, uma dose comprovada de tríplice viral já completa o esquema."
+  ]
+ },
+ {
+  "q": "Menino de 3 anos, com suspeita de sarampo já notificada, será acompanhado em casa, pois está em bom estado geral. A mãe pergunta à enfermeira da UBS que cuidados deve ter com o filho e quando ele pode voltar à creche. Qual orientação está de acordo com o Guia de Vigilância em Saúde?",
+  "alts": [
+   "Vitamina A em dose única e retorno à creche após 7 dias do início do exantema.",
+   "Tríplice viral agora, para atenuar o quadro, e retorno à creche após 4 dias.",
+   "Vitamina A no dia da suspeita e no seguinte; creche só após 4 dias do exantema.",
+   "Vitamina A no dia da suspeita e após 30 dias; creche após 14 dias do exantema.",
+   "Vitamina A se houver desnutrição; creche liberada assim que a febre ceder."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. revisada, 2024 (MS); Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "Pelo Guia de Vigilância em Saúde (6ª ed. revisada, 2024), a criança com suspeita de sarampo recebe vitamina A em duas doses, uma no dia da suspeita e outra no dia seguinte. Como a transmissão vai de 6 dias antes até 4 dias após o início do exantema, o doente evita escola, creche e trabalho até 4 dias após o aparecimento das manchas. A Instrução Normativa do Calendário Nacional de Vacinação 2026 orienta adiar a vacinação de pessoas com suspeita de sarampo, caxumba ou rubéola. Se a criança precisar de internação, fica em precaução para aerossóis, em quarto privativo, e a equipe usa respirador PFF2 ou N95.",
+  "porAlt": [
+   "Errada: a vitamina A é dada em duas doses, e o afastamento vai até 4 dias após o início do exantema.",
+   "Errada: a vacinação de pessoa com suspeita de sarampo deve ser adiada, e ela não trata a doença.",
+   "Correta: a criança suspeita recebe vitamina A em duas doses, no dia da suspeita e no seguinte, e fica afastada até 4 dias após o exantema.",
+   "Errada: a segunda dose de vitamina A é no dia seguinte, e o afastamento é de 4 dias.",
+   "Errada: a vitamina A é indicada a toda criança suspeita, e a transmissão continua após a febre."
+  ]
+ },
+ {
+  "q": "Lactente de 3 meses é levado à UBS com tosse há 12 dias, que piorou nos últimos dias, com episódios de cianose e pausas respiratórias após as crises. Está afebril. A mãe não recebeu a vacina dTpa na gestação. Qual é a avaliação e a conduta de vigilância correta?",
+  "alts": [
+   "Caso suspeito de coqueluche: notificação imediata e tratamento com azitromicina.",
+   "Não é caso suspeito, pois a definição exige 14 dias de tosse com guincho.",
+   "Caso suspeito de coqueluche: notificação semanal e tratamento com amoxicilina.",
+   "Caso suspeito de coqueluche: notificação imediata e tratamento com amoxicilina.",
+   "Não é caso suspeito, pois a coqueluche cursa com febre alta desde o início."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. revisada, 2024 (MS); Portaria GM/MS nº 11.211/2026",
+  "coment": "Pelo Guia de Vigilância em Saúde (6ª ed. revisada, 2024), é caso suspeito de coqueluche em menor de 6 meses a tosse há 10 dias ou mais com paroxismo, guincho, vômito pós-tosse, cianose, apneia ou engasgo; a partir de 6 meses, exige-se tosse há 14 dias ou mais com paroxismo, guincho ou vômito pós-tosse. No lactente pequeno, apneia e cianose podem ser todo o quadro. O tratamento e a quimioprofilaxia dos comunicantes próximos usam azitromicina, primeira escolha em todas as idades. Pela Portaria GM/MS 11.211/2026, a coqueluche é de notificação imediata à Secretaria Estadual e à Municipal de Saúde.",
+  "porAlt": [
+   "Correta: abaixo de 6 meses, tosse há 10 dias ou mais com cianose ou apneia já define suspeito, notificado de imediato e tratado com azitromicina.",
+   "Errada: 14 dias com paroxismo vale a partir de 6 meses; abaixo disso bastam 10 dias com cianose ou apneia.",
+   "Errada: a coqueluche é de notificação imediata, e a azitromicina é a primeira escolha.",
+   "Errada: a notificação está certa, mas a primeira escolha em todas as idades é a azitromicina.",
+   "Errada: febre alta não faz parte da definição; no lactente, apneia e cianose podem ser o quadro inteiro."
+  ]
+ },
+ {
+  "q": "Gestante de 16 semanas, na terceira gestação, comparece à sala de vacina da UBS. O cartão mostra esquema completo de dT e uma dose de dTpa recebida na gestação anterior, há dois anos. Ela pergunta se precisa de nova dose. Segundo a Instrução Normativa do Calendário 2026, qual é a conduta?",
+  "alts": [
+   "Não vacinar, pois ela recebeu dTpa há menos de 5 anos.",
+   "Aplicar dTpa hoje, com 16 semanas, para antecipar a proteção.",
+   "Aplicar dTpa no puerpério, para proteger o recém-nascido.",
+   "Aplicar 1 dose de dTpa a partir da 20ª semana desta gestação.",
+   "Aplicar dT, pois a dTpa é repetida a cada 10 anos após a última."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "Pela Instrução Normativa do Calendário Nacional de Vacinação 2026, a gestante recebe 1 dose de dTpa a partir da 20ª semana de gestação, em cada gravidez, mesmo que tenha sido vacinada em gestação anterior. O objetivo é a transferência de anticorpos maternos contra a coqueluche, que protege o lactente nos primeiros meses, antes de completar as doses da penta aos 2, 4 e 6 meses. Com esquema de dT completo, basta a dose de dTpa; se o esquema estiver incompleto, a dTpa entra como uma das doses. Com 16 semanas, a enfermeira agenda a aplicação para a partir da 20ª semana e registra a orientação.",
+  "porAlt": [
+   "Errada: a dTpa é repetida a cada gravidez, mesmo com dose recente em gestação anterior.",
+   "Errada: a dose da gestante é aplicada a partir da 20ª semana, e não antes.",
+   "Errada: a vacinação no puerpério não substitui a dose da gestação, que transfere anticorpos ao bebê.",
+   "Correta: a dTpa é indicada em cada gestação, a partir da 20ª semana, independentemente de dose em gestação anterior.",
+   "Errada: a regra de 10 anos vale fora da gestação; a gestante recebe dTpa a cada gravidez."
+  ]
+ },
+ {
+  "q": "Criança de 6 anos, internada na pediatria por pneumonia, desenvolve varicela sem complicações no segundo dia de internação e passa a ficar em precaução para aerossóis e contato. A enfermeira do núcleo de vigilância hospitalar revisa as notificações do plantão. Considerando a Portaria GM/MS 11.211/2026, qual é a conduta quanto à notificação?",
+  "alts": [
+   "Não notificar, pois a lista inclui o caso grave internado e o óbito.",
+   "Notificar semanalmente, pois não houve complicação nem óbito.",
+   "Notificar de forma imediata ao MS, à SES e à SMS, por estar internada.",
+   "Notificar em caso de surto, pois caso isolado não entra na lista.",
+   "Notificar de forma imediata à SES e à SMS, mesmo sem gravidade."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "Portaria GM/MS nº 11.211/2026, art. 4º, IV, e Anexo I, item 65",
+  "coment": "A Portaria GM/MS nº 11.211, de 13 de maio de 2026, alterou nomenclaturas da Lista Nacional de Notificação Compulsória: pelo art. 4º, IV, o item Varicela, caso grave internado ou óbito, passou a ser apenas Varicela. No Anexo I, a varicela aparece com notificação imediata, em até 24 horas, à Secretaria Estadual e à Secretaria Municipal de Saúde, sem a coluna do Ministério da Saúde. Assim, qualquer caso, mesmo sem complicação, é notificado. A varicela se transmite por aerossóis, e o paciente internado fica em quarto privativo, com respirador PFF2 ou N95 para a equipe; os contatos suscetíveis são avaliados pela vigilância.",
+  "porAlt": [
+   "Errada: a restrição a caso grave internado ou óbito foi retirada pela Portaria 11.211/2026.",
+   "Errada: a varicela consta como notificação imediata, e não semanal.",
+   "Errada: a notificação imediata da varicela é para SES e SMS, sem a coluna do Ministério da Saúde.",
+   "Errada: o caso isolado de varicela é de notificação compulsória individual.",
+   "Correta: a portaria de 2026 passou a listar a varicela sem restrição de gravidade, com notificação imediata à SES e à SMS."
+  ]
+ }
+]

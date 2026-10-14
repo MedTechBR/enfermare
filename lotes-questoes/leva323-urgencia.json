@@ -1,0 +1,986 @@
+[
+ {
+  "q": "Numa UPA, o pico noturno chega a 60 usuários por hora na porta. A coordenadora de enfermagem vai escalar enfermeiros exclusivos para a classificação de risco, sem acumular a função com a sala de medicação, e quer respeitar os parâmetros da Res. COFEN 661/2021. Quantos enfermeiros classificadores, no mínimo, cobrem esse pico?",
+  "alts": [
+   "Três enfermeiros, pelo limite de 20 classificações por hora",
+   "Dois enfermeiros, pelo limite de 30 classificações por hora",
+   "Quatro enfermeiros, pelo limite de 15 classificações por hora",
+   "Cinco enfermeiros, pelo limite de 12 classificações por hora",
+   "Seis enfermeiros, pelo limite de 10 classificações por hora"
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Classificação de risco",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Resolução COFEN 661/2021 (classificação de risco)",
+  "coment": "A Res. COFEN 661/2021, que revogou a 423/2012, fixa para o enfermeiro classificador um tempo médio de 4 minutos por classificação e o limite de até 15 classificações por hora, e veda que a classificação seja feita ao mesmo tempo que outras atividades. Com 60 usuários por hora, 60 dividido por 15 dá 4 enfermeiros exclusivos na classificação. Os demais números partem de tempos médios que a resolução não adota (3, 2, 5 ou 6 minutos). A saída para a demanda é dimensionar mais enfermeiros, e não delegar a classificação ao técnico, porque ela é privativa do enfermeiro.",
+  "porAlt": [
+   "Três enfermeiros pressupõem 20 classificações por hora, acima do teto de 15 fixado pela resolução.",
+   "Dois enfermeiros exigiriam 30 classificações por hora cada, o dobro do limite da Res. COFEN 661/2021.",
+   "Correta: 60 usuários divididos pelo teto de 15 classificações por hora resultam em 4 enfermeiros.",
+   "Cinco enfermeiros partem de um limite de 12 por hora, que não é o parâmetro da resolução vigente.",
+   "Seis enfermeiros partem de 10 por hora; a norma admite até 15, com média de 4 minutos cada."
+  ]
+ },
+ {
+  "q": "Homem de 58 anos, hipertenso, chega à classificação de risco de um pronto-socorro com dor precordial em aperto iniciada há 40 minutos. Está consciente e orientado, com via aérea pérvia, FR 18 irpm, PA 150/92 mmHg, FC 96 bpm e SpO2 97%. Pelo Sistema Manchester de Classificação de Risco, qual a cor e o tempo-alvo para o atendimento médico?",
+  "alts": [
+   "Amarelo, com atendimento médico em até 60 minutos",
+   "Laranja, com atendimento médico em até 10 minutos",
+   "Vermelho, com atendimento médico imediato, sem espera",
+   "Verde, com atendimento médico em até 120 minutos",
+   "Laranja, com atendimento médico em até 30 minutos"
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Classificação de risco",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Resolução COFEN 661/2021 e Sistema Manchester de Classificação de Risco",
+  "coment": "No Sistema Manchester, o enfermeiro parte da queixa principal, escolhe o fluxograma (aqui, dor torácica) e percorre os discriminadores em ordem decrescente de gravidade; o primeiro presente define a cor. O paciente não tem via aérea comprometida, respiração inadequada nem sinais de choque, que levariam ao vermelho, mas a dor precordial é discriminador da cor laranja, muito urgente, com tempo-alvo de 10 minutos até o atendimento médico. A Res. COFEN 661/2021 reserva a classificação ao enfermeiro e não impõe protocolo. O tempo-alvo é meta do serviço, e a dor torácica também dispara o eletrocardiograma em até 10 minutos.",
+  "porAlt": [
+   "Amarelo, de 60 minutos, cabe à dor moderada sem outro discriminador, não à dor precordial.",
+   "Correta: dor precordial é discriminador laranja, muito urgente, com tempo-alvo de 10 minutos.",
+   "Vermelho exige risco imediato, como via aérea comprometida ou choque, ausentes neste caso.",
+   "Verde, de 120 minutos, é para dor leve recente, incompatível com dor precordial em curso.",
+   "O tempo-alvo da cor laranja no Manchester é de 10 minutos, e não de 30 minutos."
+  ]
+ },
+ {
+  "q": "Numa UPA lotada, a enfermeira classifica como azul um homem de 40 anos com lombalgia há oito meses, sem piora recente, sem déficit neurológico e com sinais vitais normais. Ele avisa que vai embora se não sair logo com uma receita, e a coordenação sugere liberá-lo já na classificação. Qual a conduta correta pela Res. COFEN 661/2021?",
+  "alts": [
+   "Liberá-lo com orientação escrita, pois a cor azul dispensa a consulta médica",
+   "Reclassificá-lo como verde, para reduzir a espera e evitar a evasão",
+   "Pedir ao técnico que o reavalie e decida a liberação conforme o protocolo",
+   "Prescrever analgésico pelo protocolo e liberá-lo após a primeira dose",
+   "Mantê-lo para consulta médica, pois classificar não autoriza dispensar"
+  ],
+  "gab": 4,
+  "tema": "urgencia",
+  "sub": "Classificação de risco",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 661/2021 (classificação de risco)",
+  "coment": "A Res. COFEN 661/2021 fez da classificação de risco um ato privativo do enfermeiro para ordenar a assistência, e não para decidir alta. A resolução não autoriza dispensar o usuário sem avaliação médica: classificar como azul significa que o caso tolera a maior espera, 240 minutos no Manchester, e não que pode sair sem consulta. Mudar a cor para agilizar distorce o registro e a prioridade dos demais; delegar ao técnico fere a privatividade; e liberar após medicação equivale à dispensa. A enfermeira orienta o usuário sobre o tempo previsto e registra a classificação.",
+  "porAlt": [
+   "A cor azul define o tempo de espera tolerado, e a norma não autoriza dispensa sem avaliação médica.",
+   "Reclassificar sem mudança clínica falseia o registro e passa o paciente à frente de casos mais graves.",
+   "Técnico de enfermagem não classifica nem reavalia risco, ato privativo do enfermeiro pela norma.",
+   "Medicar e liberar na classificação equivale a dispensar o usuário sem a avaliação médica.",
+   "Correta: classificar ordena o atendimento, mas não autoriza dispensar o usuário sem consulta médica."
+  ]
+ },
+ {
+  "q": "Durante a implantação do acolhimento com classificação de risco num pronto-socorro, a gerente de enfermagem reúne recepcionistas, técnicos, enfermeiros e médicos para explicar as atribuições de cada um. Segundo a Política Nacional de Humanização e a Res. COFEN 661/2021, qual afirmativa descreve corretamente a divisão do trabalho?",
+  "alts": [
+   "Acolher e classificar são atos privativos do enfermeiro na porta de urgência",
+   "O técnico capacitado classifica os casos leves e o enfermeiro, os graves",
+   "O acolhimento é etapa da recepção, e a classificação cabe ao médico",
+   "Acolher é postura de toda a equipe; classificar o risco cabe ao enfermeiro",
+   "A classificação define o diagnóstico provável e o setor de internação"
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Classificação de risco",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 661/2021, art. 1º (classificação de risco)",
+  "coment": "A Política Nacional de Humanização trouxe o acolhimento como postura de escuta e responsabilização de toda a equipe, em qualquer ponto da rede. A classificação de risco é a ferramenta técnica que se apoia nesse acolhimento para decidir a ordem de atendimento, e a Res. COFEN 661/2021, art. 1º, a torna privativa do enfermeiro no âmbito da equipe de enfermagem; técnico e auxiliar não classificam, nem casos leves. A classificação também não faz diagnóstico: identifica prioridade pela queixa e pelos discriminadores do protocolo adotado. Confundir as duas palavras é erro frequente de prova.",
+  "porAlt": [
+   "O acolhimento é postura de toda a equipe; só a classificação é privativa do enfermeiro.",
+   "A resolução não admite técnico classificando risco, nem em casos aparentemente leves.",
+   "Acolher não é etapa de um setor, e classificar risco não é atribuição do médico.",
+   "Correta: o acolhimento envolve toda a equipe, e a classificação de risco é privativa do enfermeiro.",
+   "A classificação define prioridade e tempo de espera, não diagnóstico nem setor de destino."
+  ]
+ },
+ {
+  "q": "Mulher de 35 anos chega à classificação de risco com cefaleia iniciada há 3 horas, que ela pontua como dor moderada. Durante a avaliação, a enfermeira nota que ela responde com lentidão e se confunde com a data, o que a acompanhante diz ser novo. Não há sinais de choque nem de via aérea comprometida. No fluxograma de cefaleia do Sistema Manchester, como se define a cor?",
+  "alts": [
+   "Laranja, pelo primeiro discriminador positivo na ordem decrescente de gravidade",
+   "Amarelo, porque a dor moderada é a queixa principal que motivou a procura",
+   "Amarelo, com reavaliação em 60 minutos para decidir se a cor deve subir",
+   "Vermelho, porque dois discriminadores juntos somam pontos e elevam a cor"
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Classificação de risco",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Sistema Manchester de Classificação de Risco e Resolução COFEN 661/2021",
+  "coment": "No Sistema Manchester, depois de escolher o fluxograma pela queixa principal, o enfermeiro percorre os discriminadores em ordem decrescente de gravidade, e o primeiro discriminador presente define a cor; os demais não são somados. Alteração aguda do nível de consciência é discriminador da cor laranja, muito urgente, com tempo-alvo de 10 minutos, e aparece antes da dor moderada (amarelo) na sequência. Esperar a reavaliação para subir de cor inverte a lógica: reavaliar serve a quem já foi classificado e piora na espera. Sem via aérea comprometida, respiração inadequada ou choque, não há critério para vermelho.",
+  "porAlt": [
+   "Correta: alteração aguda da consciência é discriminador laranja e vem antes da dor moderada.",
+   "A queixa escolhe o fluxograma; a cor sai do primeiro discriminador presente, a confusão aguda.",
+   "Reavaliar serve a quem piora na espera; o discriminador laranja já está presente na entrada.",
+   "O Manchester não soma discriminadores, e o vermelho exige risco imediato, ausente neste caso."
+  ]
+ },
+ {
+  "q": "Um hospital vai abrir a classificação de risco na porta de urgência com o Sistema Manchester. Uma enfermeira recém-admitida, experiente em enfermaria e sem curso no protocolo, é escalada para começar no dia seguinte, num box improvisado no corredor. Pela Res. COFEN 661/2021, qual providência a gerência de enfermagem deve tomar?",
+  "alts": [
+   "Escalá-la, pois a graduação em enfermagem já habilita a classificar risco",
+   "Escalá-la em dupla com técnico treinado, que confere cada cor atribuída",
+   "Capacitá-la no protocolo e garantir consultório com estrutura adequada",
+   "Substituí-la por técnico de enfermagem já treinado no protocolo Manchester",
+   "Escalá-la sob supervisão do médico plantonista nas primeiras semanas"
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Classificação de risco",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 661/2021 (classificação de risco)",
+  "coment": "A Res. COFEN 661/2021 mantém a classificação de risco privativa do enfermeiro, mas exige que ele tenha capacitação específica no protocolo adotado pela instituição e que o serviço ofereça consultório com ambiente e equipamentos adequados para a escuta e a aferição dos sinais vitais. Graduação e experiência em outro setor não substituem o treinamento no protocolo. Técnico de enfermagem não classifica nem confere a cor atribuída, e a supervisão médica não supre a falta de capacitação, porque a classificação é ato do enfermeiro. Um box improvisado no corredor também descumpre a norma.",
+  "porAlt": [
+   "A resolução exige capacitação específica no protocolo, além da formação de enfermeiro.",
+   "Técnico não participa da classificação, nem como conferente da cor atribuída pelo enfermeiro.",
+   "Correta: a norma exige capacitação no protocolo institucional e estrutura física adequada.",
+   "A classificação de risco é privativa do enfermeiro e não pode passar ao técnico de enfermagem.",
+   "Supervisão médica não substitui a capacitação exigida do enfermeiro classificador."
+  ]
+ },
+ {
+  "q": "Uma empresa privada de remoções inter-hospitalares monta uma unidade de suporte avançado de vida e, para reduzir custos, propõe tripulá-la com médico, condutor e um técnico de enfermagem experiente em UTI. O responsável técnico de enfermagem é consultado sobre a proposta. Segundo a Res. COFEN 713/2022, qual a análise correta?",
+  "alts": [
+   "É regular, desde que o técnico tenha curso de atendimento pré-hospitalar",
+   "É regular, pois a norma alcança só o SAMU e os demais serviços públicos",
+   "É regular, se um enfermeiro da central supervisionar o técnico por rádio",
+   "É irregular, pois no suporte avançado a enfermagem é privativa do enfermeiro",
+   "É irregular, pois o suporte avançado exige dois enfermeiros e médico"
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Atendimento pré-hospitalar",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 713/2022 (atendimento pré-hospitalar móvel)",
+  "coment": "A Res. COFEN 713/2022 regula a atuação da enfermagem no atendimento pré-hospitalar móvel terrestre e aquaviário, em serviços públicos e privados, civis e militares, na assistência direta, no gerenciamento e na Central de Regulação das Urgências. Ela distribui a equipe pelo nível de suporte: no suporte avançado de vida, a assistência de enfermagem é privativa do enfermeiro, que atua com médico e condutor. A experiência do técnico em UTI, um curso de APH ou a supervisão por rádio não mudam essa exigência. O suporte avançado também não exige dois enfermeiros: um enfermeiro com médico e condutor cumpre a norma.",
+  "porAlt": [
+   "Curso de APH não autoriza o técnico a substituir o enfermeiro no suporte avançado de vida.",
+   "A Res. COFEN 713/2022 vale para serviços públicos e privados, civis e militares.",
+   "Supervisão a distância não substitui o enfermeiro, privativo na assistência do suporte avançado.",
+   "Correta: no suporte avançado, a assistência de enfermagem é privativa do enfermeiro, com médico e condutor.",
+   "A norma não exige dois enfermeiros: o enfermeiro atua com médico e condutor no suporte avançado."
+  ]
+ },
+ {
+  "q": "Um consórcio de municípios do interior decide implantar unidades de suporte intermediário de vida, sem médico a bordo, para encurtar o tempo-resposta nas rodovias da região. A coordenação de enfermagem precisa definir a tripulação. Segundo a Res. COFEN 713/2022, como deve ser composta a assistência de enfermagem nesse nível de suporte?",
+  "alts": [
+   "Executada pelo enfermeiro, com técnico de enfermagem ou outro enfermeiro",
+   "Executada pelo técnico, com condutor e supervisão a distância da regulação",
+   "Executada por dois técnicos, um deles com curso de suporte avançado",
+   "Executada pelo técnico, com enfermeiro restrito ao gerenciamento",
+   "Executada pelo enfermeiro, com médico e condutor, como no suporte avançado"
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Atendimento pré-hospitalar",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 713/2022 (atendimento pré-hospitalar móvel)",
+  "coment": "A Res. COFEN 713/2022 escalona a enfermagem pelo nível de suporte. No suporte básico de vida, o mínimo é técnico de enfermagem com condutor, sob supervisão do enfermeiro, como exige a Lei 7.498/1986. No suporte intermediário, a assistência é executada pelo enfermeiro, que atua com técnico de enfermagem ou com outro enfermeiro. No suporte avançado, a assistência de enfermagem é privativa do enfermeiro, em equipe com médico e condutor. Por isso a unidade intermediária não pode ter o técnico como executor da assistência, e a presença do médico caracteriza o nível avançado, e não o intermediário.",
+  "porAlt": [
+   "Correta: no suporte intermediário, o enfermeiro executa a assistência com técnico ou outro enfermeiro.",
+   "Técnico com condutor é a composição mínima do suporte básico, não do intermediário.",
+   "Dois técnicos não compõem o suporte intermediário, que exige o enfermeiro na assistência.",
+   "No intermediário o enfermeiro executa a assistência, e não fica restrito ao gerenciamento.",
+   "Médico a bordo caracteriza o suporte avançado; o intermediário dispensa médico na unidade."
+  ]
+ },
+ {
+  "q": "Na unidade de suporte intermediário, sem médico a bordo, a enfermeira atende homem de 50 anos em crise convulsiva há 6 minutos. Ela passa os dados à central, e o médico regulador prescreve por rádio um benzodiazepínico. A técnica de enfermagem pergunta se a ordem verbal pode ser cumprida. À luz da Res. COFEN 689/2022, qual a conduta correta?",
+  "alts": [
+   "Aguardar a chegada ao hospital, pois ordem por rádio exige prescrição escrita",
+   "Cumprir, confirmando a ordem, e registrar motivo, conduta e resposta",
+   "Cumprir só depois que o regulador enviar receita digitalizada ao celular",
+   "Cumprir e deixar todo o registro a cargo do médico regulador da central",
+   "Cumprir se um familiar assinar termo de consentimento na cena"
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Atendimento pré-hospitalar",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 689/2022 (cumprimento de prescrições a distância)",
+  "coment": "A Res. COFEN 689/2022, que substituiu a 487/2015, permite à equipe de enfermagem cumprir prescrição feita a distância pelo médico regulador do atendimento pré-hospitalar móvel de urgência, público ou privado. É o cenário da unidade intermediária, que não tem médico a bordo. O serviço garante transmissão, gravação e guarda da comunicação, e o profissional registra no prontuário o motivo, a conduta e a resposta do paciente, além do nome do regulador e do horário da ordem. Confirmar a ordem repetindo-a em voz alta reduz erro. Adiar o anticonvulsivante até o hospital, exigir receita digitalizada ou termo do familiar não tem base na norma.",
+  "porAlt": [
+   "A norma admite cumprir prescrição a distância do regulador no APH móvel, sem esperar o hospital.",
+   "Correta: a Res. COFEN 689/2022 autoriza cumprir a prescrição do regulador, com registro completo.",
+   "A resolução não condiciona o cumprimento ao envio de receita digitalizada pelo regulador.",
+   "O registro de motivo, conduta e resposta do paciente cabe ao profissional que executa a ordem.",
+   "Termo assinado por familiar não é requisito para cumprir a prescrição a distância."
+  ]
+ },
+ {
+  "q": "Unidade de suporte básico atende mulher de 67 anos com dispneia súbita em casa. O técnico de enfermagem passa os dados à central de regulação. A filha pede que a mãe seja levada a um hospital privado distante, onde tem plano de saúde, e o condutor sugere o pronto-socorro mais próximo. A quem cabe definir o destino da paciente?",
+  "alts": [
+   "Ao técnico de enfermagem, que avaliou a paciente na cena",
+   "Ao condutor, que conhece as rotas e o trânsito da região",
+   "À filha, que responde pela paciente e escolhe o hospital",
+   "Ao enfermeiro supervisor, pelo protocolo de transporte da base",
+   "Ao médico regulador, por ser decisão de regulação médica"
+  ],
+  "gab": 4,
+  "tema": "urgencia",
+  "sub": "Atendimento pré-hospitalar",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 713/2022 (APH móvel e Central de Regulação das Urgências)",
+  "coment": "No SAMU 192, a central de regulação recebe o chamado, faz a triagem por telefone e decide o recurso enviado: orientação, suporte básico, motolância, suporte avançado ou aeromédico. Decidir qual recurso mandar e para onde levar o paciente é regulação médica, exercida pelo médico regulador com base nos dados que a equipe passa da cena e na disponibilidade da rede. A equipe de enfermagem garante a segurança da cena, faz a avaliação primária, transmite os dados e registra o nome do regulador e o horário de cada ordem. O desejo da família e a sugestão do condutor são informações para o regulador, e não decisões.",
+  "porAlt": [
+   "O técnico avalia e transmite os dados, mas o destino é decisão da regulação médica.",
+   "O condutor dirige a unidade; escolher o hospital de destino não é atribuição dele.",
+   "A preferência da família é levada ao regulador, que decide pela gravidade e pela rede.",
+   "A escolha do destino não é ato do enfermeiro supervisor, e sim do médico regulador.",
+   "Correta: o destino do paciente no APH móvel é definido pela regulação médica da central."
+  ]
+ },
+ {
+  "q": "Um município estrutura o atendimento móvel com unidades de suporte básico tripuladas por técnico de enfermagem e condutor. Para economizar, decide não contratar enfermeiros para o serviço, nem na base nem na central, e atribui ao médico regulador a orientação dos técnicos. À luz da Res. COFEN 713/2022 e da Lei 7.498/1986, qual a análise correta?",
+  "alts": [
+   "A tripulação é irregular: o suporte básico exige enfermeiro a bordo",
+   "A tripulação é irregular, pois o suporte básico exige médico a bordo",
+   "A tripulação basta, e a supervisão dos técnicos cabe ao regulador",
+   "A tripulação basta, mas os técnicos precisam de supervisão de enfermeiro",
+   "A tripulação basta, e no pré-hospitalar o técnico dispensa supervisão"
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Atendimento pré-hospitalar",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Resolução COFEN 713/2022; Lei 7.498/1986, art. 15",
+  "coment": "Pela Res. COFEN 713/2022, a composição mínima da unidade de suporte básico de vida é técnico de enfermagem com condutor; não se exige enfermeiro nem médico a bordo. Isso não dispensa o enfermeiro do serviço: a Lei 7.498/1986, art. 15, determina que o técnico de enfermagem exerça suas atividades sob orientação e supervisão do enfermeiro, condição que a resolução repete para o atendimento pré-hospitalar. O médico regulador decide recurso, destino e prescrições a distância, mas não substitui a supervisão de enfermagem. Um serviço sem enfermeiro algum descumpre a lei, ainda que cada ambulância esteja corretamente tripulada.",
+  "porAlt": [
+   "No suporte básico, a composição mínima é técnico com condutor, sem enfermeiro a bordo.",
+   "Médico a bordo caracteriza o suporte avançado, e não é exigência do suporte básico.",
+   "O regulador decide recursos e prescrições, mas a supervisão de enfermagem cabe ao enfermeiro.",
+   "Correta: a tripulação mínima é técnico com condutor, sob supervisão de enfermeiro do serviço.",
+   "A Lei 7.498/1986 exige supervisão do enfermeiro sobre o técnico também no pré-hospitalar."
+  ]
+ },
+ {
+  "q": "Numa sala de estabilização de um hospital de pequeno porte, homem de 70 anos com pneumonia aguarda transferência pelo SAMU. Está sonolento, em máscara com reservatório, sem ventilação mecânica, com roncos e secreção abundante na orofaringe. A técnica de enfermagem se oferece para aspirá-lo. Pela Res. COFEN 557/2017, quem deve realizar a aspiração?",
+  "alts": [
+   "O enfermeiro, pois o paciente é grave e está em sala de estabilização",
+   "A técnica, pois o paciente não está intubado nem em ventilação mecânica",
+   "Qualquer profissional da enfermagem com treinamento na técnica de aspiração",
+   "A técnica, desde que o enfermeiro esteja presente na mesma sala",
+   "O fisioterapeuta, privativamente, por se tratar de procedimento de via aérea"
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Atendimento pré-hospitalar",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Resolução COFEN 557/2017 (aspiração de vias aéreas)",
+  "coment": "A Res. COFEN 557/2017 normatiza a atuação da equipe de enfermagem na aspiração de vias aéreas. Pacientes considerados graves, atendidos em unidade de emergência ou sala de estabilização, devem ser aspirados privativamente pelo enfermeiro, mesmo quando não estão em ventilação artificial. O paciente do caso é grave (sonolento, em oxigênio por máscara com reservatório, aguardando transferência) e está em sala de estabilização, o que torna a aspiração ato do enfermeiro. A ausência de tubo ou de ventilador não transfere o procedimento ao técnico, e a presença do enfermeiro na sala também não.",
+  "porAlt": [
+   "Correta: paciente grave em sala de estabilização é aspirado privativamente pelo enfermeiro.",
+   "A norma vale para o grave mesmo sem ventilação artificial; estar fora do ventilador não basta.",
+   "Treinamento não basta: no paciente grave em emergência, a aspiração é privativa do enfermeiro.",
+   "A presença do enfermeiro na sala não transfere ao técnico a aspiração do paciente grave.",
+   "A aspiração não é privativa do fisioterapeuta; na enfermagem, o grave fica com o enfermeiro."
+  ]
+ },
+ {
+  "q": "Agricultor de 42 anos é levado à UPA uma hora após pulverizar inseticida sem equipamento de proteção. Apresenta sudorese profusa, sialorreia, broncorreia com sibilos, miose bilateral, fasciculações nos braços e FC 48 bpm. A equipe já garantiu via aérea, oxigênio e monitor. Qual antídoto a enfermeira deve preparar, conforme a prescrição esperada para esta síndrome?",
+  "alts": [
+   "Naloxona, pela síndrome opioide com miose e rebaixamento",
+   "Flumazenil, pela síndrome sedativa por benzodiazepínico",
+   "Atropina, pela síndrome colinérgica por organofosforado",
+   "Adrenalina intramuscular, pelo broncoespasmo anafilático",
+   "Fisostigmina, pela síndrome anticolinérgica do inseticida"
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Intoxicações e acidentes",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Recomendações SBTox/ABRACIT 2025 de indicações, uso e estoque de antídotos",
+  "coment": "No intoxicado, o suporte vem antes do diagnóstico, e a síndrome tóxica orienta o antídoto. Sudorese, sialorreia, broncorreia, miose, bradicardia e fasciculações compõem a síndrome colinérgica, típica de organofosforados e carbamatos, inibidores da colinesterase usados como inseticidas. O antídoto é a atropina, que seca a broncorreia, o principal risco à ventilação. A naloxona serve à síndrome opioide, que tem miose e bradipneia, mas não sialorreia nem fasciculações. A síndrome anticolinérgica cursa com pele seca e midríase, o oposto do quadro. O CIATox, pelo 0800 722 6001, ajuda a conduzir o caso.",
+  "porAlt": [
+   "A síndrome opioide tem miose e bradipneia, sem sialorreia, broncorreia nem fasciculações.",
+   "Flumazenil reverte benzodiazepínico, que não produz secreções abundantes nem fasciculações.",
+   "Correta: sinais muscarínicos e nicotínicos indicam síndrome colinérgica, tratada com atropina.",
+   "Os sibilos vêm da broncorreia colinérgica, sem urticária nem angioedema de anafilaxia.",
+   "A síndrome anticolinérgica cursa com pele seca e midríase, o oposto do quadro descrito."
+  ]
+ },
+ {
+  "q": "Mulher de 28 anos chega ao pronto-socorro 30 minutos após ingerir, em tentativa de suicídio, um copo de produto de limpeza à base de soda cáustica. Está consciente, com dor retroesternal e sialorreia, via aérea pérvia e sinais vitais estáveis. O residente pergunta à enfermeira sobre descontaminação gastrointestinal. Qual a orientação correta?",
+  "alts": [
+   "Carvão ativado 50 g, pois a ingestão ocorreu há menos de 60 minutos",
+   "Xarope de ipeca para provocar vômito e retirar o produto do estômago",
+   "Lavagem gástrica de rotina, seguida de carvão ativado por sonda",
+   "Carvão em doses múltiplas, porque a paciente está consciente e alerta",
+   "Não usar carvão ativado, contraindicado na ingestão de corrosivos"
+  ],
+  "gab": 4,
+  "tema": "urgencia",
+  "sub": "Intoxicações e acidentes",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Recomendações SBTox/ABRACIT 2025 de indicações, uso e estoque de antídotos",
+  "coment": "O carvão ativado em dose única cabe na exposição potencialmente grave, até 60 minutos, a substância adsorvível e com via aérea preservada ou protegida (SBTox/ABRACIT 2025). Corrosivos e hidrocarbonetos são contraindicações: o carvão não adsorve o produto, atrapalha a endoscopia e pode ser aspirado se houver vômito. O xarope de ipeca foi abandonado, e provocar vômito expõe de novo o esôfago ao cáustico. A lavagem gástrica de rotina tem mais risco que benefício. A conduta é suporte, jejum, avaliação da via aérea e orientação do CIATox, além do cuidado à tentativa de suicídio.",
+  "porAlt": [
+   "Estar dentro de 60 minutos não basta: corrosivo é contraindicação ao carvão ativado.",
+   "O xarope de ipeca foi abandonado, e o vômito expõe de novo o esôfago ao cáustico.",
+   "Lavagem gástrica de rotina tem mais risco que benefício e não se faz no corrosivo.",
+   "Doses múltiplas de carvão não têm indicação no corrosivo, mesmo com paciente alerta.",
+   "Correta: o carvão ativado é contraindicado nas ingestões de corrosivos e hidrocarbonetos."
+  ]
+ },
+ {
+  "q": "Às 3 h da madrugada, numa UPA do interior, a equipe atende homem de 45 anos que ingeriu grande quantidade de um raticida de nome comercial desconhecido pela equipe. Ele está estável e monitorizado. A enfermeira quer orientação especializada sobre o produto e saber onde há antídoto disponível. Qual serviço deve acionar?",
+  "alts": [
+   "O SAMU 192, que mantém o estoque nacional de antídotos",
+   "O CIATox, pelo Disque-Intoxicação da Anvisa, 0800 722 6001",
+   "O CIEVS municipal, que libera antídotos após a notificação",
+   "O Disque Saúde 136, que regula os centros de toxicologia",
+   "A vigilância sanitária, que responde só em horário comercial"
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Intoxicações e acidentes",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Disque-Intoxicação da Anvisa (CIATox) e Recomendações SBTox/ABRACIT 2025",
+  "coment": "O Disque-Intoxicação da Anvisa, pelo 0800 722 6001, liga ao Centro de Informação e Assistência Toxicológica (CIATox) mais próximo, que orienta 24 horas por dia, ajuda a identificar o agente pelo nome comercial, indica a conduta e sabe onde está o antídoto raro. No intoxicado, a equipe mantém o suporte (via aérea, ventilação, monitor, acesso, eletrocardiograma e glicemia capilar) enquanto obtém a orientação. O SAMU regula atendimento e transporte, o CIEVS recebe notificações de eventos de saúde pública e o Disque Saúde dá informações gerais, mas nenhum deles faz a assistência toxicológica.",
+  "porAlt": [
+   "O SAMU regula atendimento e transporte de urgência, mas não faz assessoria toxicológica.",
+   "Correta: o Disque-Intoxicação conecta ao CIATox, que orienta 24 horas e localiza antídotos.",
+   "O CIEVS recebe notificações de emergências em saúde pública, sem assessoria toxicológica.",
+   "O Disque Saúde 136 dá informações gerais do SUS e não regula os centros toxicológicos.",
+   "A orientação toxicológica funciona 24 horas pelo CIATox, e não pela vigilância sanitária."
+  ]
+ },
+ {
+  "q": "Num pronto atendimento, homem de 30 anos é encontrado no banheiro com uma seringa ao lado. Responde só à dor, tem miose puntiforme, FR 5 irpm com respiração superficial, SpO2 84% e pulso carotídeo palpável a 58 bpm. Pela Diretriz AHA 2025, qual a conduta prioritária da equipe de enfermagem?",
+  "alts": [
+   "Iniciar compressões torácicas 30:2 e aplicar o desfibrilador externo",
+   "Colher gasometria arterial antes de decidir sobre a ventilação",
+   "Administrar flumazenil em bólus e observar a resposta da respiração",
+   "Ventilar com bolsa-valva-máscara e dar a naloxona do protocolo",
+   "Colocar em posição lateral de segurança e aguardar o efeito passar"
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Intoxicações e acidentes",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes AHA 2025 de RCP e ACE (emergência por opioide)",
+  "coment": "A Diretriz AHA 2025 incorporou a naloxona aos algoritmos de suporte básico na suspeita de intoxicação por opioide, desde que não atrase a RCP. O paciente tem pulso, mas respiração inadequada (bradipneia, SpO2 84%), com miose puntiforme e rebaixamento: síndrome opioide. A prioridade é ventilar com bolsa-valva-máscara e oxigênio e administrar a naloxona prevista no protocolo ou prescrita. Compressões e desfibrilador são para quem está sem pulso. Flumazenil é antídoto de benzodiazepínico, não de opioide. Gasometria e posição lateral sem ventilação deixam a hipoxemia progredir.",
+  "porAlt": [
+   "Há pulso palpável; compressões e desfibrilação são para a vítima em parada.",
+   "Gasometria não pode atrasar a ventilação de quem tem FR 5 irpm e SpO2 de 84%.",
+   "Flumazenil reverte benzodiazepínico; a síndrome de miose e bradipneia é opioide.",
+   "Correta: com pulso e respiração inadequada, ventila-se e administra-se a naloxona.",
+   "Posição lateral sem ventilar deixa a hipoxemia progredir na bradipneia grave."
+  ]
+ },
+ {
+  "q": "Mulher de 62 anos, diabética, é trazida pela filha à sala de emergência, sonolenta e confusa, com cartelas vazias de vários medicamentos ao lado da cama. Respira espontaneamente, com via aérea pérvia. A equipe instala oxigênio, monitor e acesso venoso. Qual exame à beira do leito a enfermeira deve fazer de imediato?",
+  "alts": [
+   "Exame toxicológico de urina, antes de qualquer outra medida",
+   "Gasometria venosa, para decidir qual antídoto específico usar",
+   "Glicemia capilar, obrigatória em todo paciente rebaixado",
+   "Dosagem sérica dos fármacos das cartelas encontradas",
+   "Tempo de coagulação em tubo seco, pela suspeita de raticida"
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Intoxicações e acidentes",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Recomendações SBTox/ABRACIT 2025 (abordagem inicial do intoxicado)",
+  "coment": "No intoxicado, o suporte vem antes do diagnóstico: via aérea, ventilação, monitor, acesso venoso, eletrocardiograma e glicemia capilar em todo rebaixamento do nível de consciência. A hipoglicemia causa sonolência e confusão, é corrigível na hora e pode ser efeito de antidiabéticos ingeridos em excesso, hipótese provável numa paciente diabética. Exames toxicológicos e dosagens séricas demoram e não mudam a primeira conduta. A gasometria tem seu papel, mas não substitui a glicemia à beira do leito. O tempo de coagulação em tubo seco é usado no acidente ofídico, e não na triagem do rebaixado.",
+  "porAlt": [
+   "O exame toxicológico demora e não deve atrasar o suporte nem a glicemia capilar.",
+   "A gasometria não define o antídoto e não substitui a glicemia capilar no rebaixado.",
+   "Correta: todo rebaixamento exige glicemia capilar, e a hipoglicemia é corrigível na hora.",
+   "Dosagens séricas demoram e não orientam a primeira conduta no paciente rebaixado.",
+   "O tempo de coagulação não é exame de triagem do rebaixado; a glicemia vem primeiro."
+  ]
+ },
+ {
+  "q": "Homem de 34 anos ingeriu, há 40 minutos, grande quantidade de antidepressivo tricíclico. Chega com Glasgow 9, sem proteção de via aérea, e há prescrição de carvão ativado 50 g por sonda nasogástrica, a ser feito antes da avaliação da via aérea pelo médico. Qual a conduta da enfermeira?",
+  "alts": [
+   "Administrar pela sonda, pois a ingestão ocorreu há menos de 60 minutos",
+   "Questionar a prescrição: rebaixado exige via aérea protegida antes",
+   "Administrar pela boca em pequenos goles, para reduzir o risco de vômito",
+   "Administrar metade da dose agora e a outra metade após a intubação"
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Intoxicações e acidentes",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "Recomendações SBTox/ABRACIT 2025 de indicações, uso e estoque de antídotos",
+  "coment": "O carvão ativado em dose única cabe na ingestão potencialmente grave de substância adsorvível, até 60 minutos, desde que a via aérea esteja preservada ou protegida (SBTox/ABRACIT 2025). O tricíclico é adsorvível e o tempo está dentro da janela, mas o Glasgow 9 sem proteção de via aérea torna alto o risco de vômito e aspiração de carvão, que causa pneumonite grave. A enfermeira não cumpre a prescrição nessas condições: discute com o prescritor, prioriza a avaliação e a proteção da via aérea, monitoriza o eletrocardiograma e mantém o suporte. Fracionar a dose não remove o risco, e dar pela boca a um rebaixado o aumenta.",
+  "porAlt": [
+   "A janela de 60 minutos não basta: sem via aérea protegida, o rebaixado não recebe carvão.",
+   "Correta: carvão em paciente rebaixado só com via aérea protegida, pelo risco de aspiração.",
+   "Dar pela boca a paciente com Glasgow 9 aumenta o risco de aspiração do carvão.",
+   "Fracionar a dose não reduz o risco de aspiração antes da proteção da via aérea."
+  ]
+ },
+ {
+  "q": "Trabalhador rural de 38 anos chega à UBS 30 minutos após ser picado no pé por uma serpente que não soube identificar. Tem dor local leve e edema discreto. O colega amarrou um pano apertado acima do tornozelo e quer fazer um corte para tirar o veneno. Qual a conduta de enfermagem correta enquanto se aciona o transporte?",
+  "alts": [
+   "Lavar com água e sabão, retirar o garrote e manter o membro imobilizado",
+   "Manter o garrote apertado e fazer incisão para drenar o veneno do local",
+   "Succionar o local da picada e aplicar pó de café sobre a ferida",
+   "Aplicar o soro antiofídico por via intramuscular ainda na unidade básica",
+   "Fazer teste cutâneo de sensibilidade antes do transporte ao hospital"
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Acidentes por animais peçonhentos",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. revisada (Ministério da Saúde, 2024): acidentes por animais peçonhentos",
+  "coment": "No acidente por animal peçonhento, a enfermagem lava o local com água e sabão, mantém a vítima em repouso, imobiliza e eleva o membro e providencia o transporte ao serviço que tem soro, conforme o Guia de Vigilância em Saúde do Ministério da Saúde. Torniquete, incisão, sucção e substâncias aplicadas no local estão contraindicados: não retiram veneno e agravam a lesão local, a isquemia e a infecção. O soro antiveneno é intravenoso, em ambiente preparado para anafilaxia, e não se faz teste cutâneo de sensibilidade, que prediz mal as reações e atrasa o tratamento. Registrar o horário da picada orienta a conduta seguinte.",
+  "porAlt": [
+   "Correta: lavar, retirar o garrote, imobilizar e elevar o membro e transportar ao hospital.",
+   "Garrote e incisão estão contraindicados, pois agravam a lesão local e a isquemia.",
+   "Sucção e substâncias no local não retiram veneno e aumentam o risco de infecção.",
+   "O soro antiveneno é intravenoso e aplicado em serviço preparado para anafilaxia.",
+   "Teste cutâneo de sensibilidade não é feito, pois prediz mal reações e atrasa o soro."
+  ]
+ },
+ {
+  "q": "Lavrador de 50 anos é atendido no hospital 4 horas após ser picado na mão por serpente. No local há apenas discreto edema, sem dor importante. Refere visão turva e tem queda bilateral das pálpebras, mialgia generalizada e urina escura. O tempo de coagulação está prolongado. Qual o tipo de acidente e o soro indicado?",
+  "alts": [
+   "Botrópico, com soro antibotrópico por via intravenosa",
+   "Elapídico, com soro antielapídico por via intravenosa",
+   "Laquético, com soro antibotrópico-laquético intravenoso",
+   "Escorpiônico, com soro antiescorpiônico intravenoso",
+   "Crotálico, com soro anticrotálico por via intravenosa"
+  ],
+  "gab": 4,
+  "tema": "urgencia",
+  "sub": "Acidentes por animais peçonhentos",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. revisada (Ministério da Saúde, 2024): acidentes por animais peçonhentos",
+  "coment": "O acidente crotálico (cascavel) tem pouca lesão local e quadro sistêmico: fácies miastênica, com ptose palpebral e visão turva, mialgia, urina escura pela lesão muscular e risco de lesão renal; o sangue pode ficar incoagulável. O tratamento é o soro anticrotálico por via intravenosa, com ampolas pela gravidade (leve 5, moderado 10, grave 20), segundo o Guia de Vigilância em Saúde. O botrópico e o laquético têm dor, edema e equimose progressivos no local. O elapídico também causa ptose, mas sem urina escura nem alteração da coagulação. A enfermagem vigia a diurese e a cor da urina.",
+  "porAlt": [
+   "O botrópico tem dor, edema e equimose progressivos no local, ausentes neste caso.",
+   "O elapídico causa ptose, mas sem urina escura nem alteração da coagulação.",
+   "O laquético se parece com o botrópico, com lesão local intensa e sinais vagais.",
+   "O escorpiônico causa dor local intensa, sem ptose, urina escura ou incoagulabilidade.",
+   "Correta: ptose, mialgia, urina escura e pouca lesão local definem o acidente crotálico."
+  ]
+ },
+ {
+  "q": "Homem de 44 anos picado por jararaca há 3 horas tem dor, edema que sobe pela perna e equimose, e já recebe soro antibotrópico intravenoso. Antes do soro, a enfermeira colheu o tempo de coagulação em tubo seco: o sangue não coagulou em 30 minutos de observação e seguia líquido aos 35 minutos. Como se interpreta o resultado?",
+  "alts": [
+   "Prolongado, pois só acima de 60 minutos o sangue é incoagulável",
+   "Normal, pois o tubo seco admite coagulação em até 40 minutos",
+   "Incoagulável, o que confirma o envenenamento e guia o controle do soro",
+   "Prolongado, sem valor diagnóstico para o envenenamento botrópico grave",
+   "Incoagulável, o que condiciona o início do soro ao novo resultado"
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Acidentes por animais peçonhentos",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. revisada (Ministério da Saúde, 2024): acidentes por animais peçonhentos",
+  "coment": "O tempo de coagulação em tubo seco é feito pela enfermagem e se lê assim: até 9 minutos, normal; de 10 a 30 minutos, prolongado; acima de 30 minutos, incoagulável (Guia de Vigilância em Saúde). No caso, o sangue seguia líquido depois de 30 minutos: incoagulável. O exame confirma o envenenamento botrópico, laquético e crotálico e serve para acompanhar a resposta ao soro, com repetição após a soroterapia. Ele não condiciona o início do soro: dor, edema progressivo e equimose já indicam envenenamento, e o tratamento não espera o resultado.",
+  "porAlt": [
+   "O limite para incoagulável é acima de 30 minutos, e não acima de 60 minutos.",
+   "Até 9 minutos é normal; o sangue líquido depois de 30 minutos é incoagulável.",
+   "Correta: acima de 30 minutos o sangue é incoagulável, o que confirma o envenenamento.",
+   "O resultado é incoagulável e tem valor diagnóstico e de controle da soroterapia.",
+   "O tempo de coagulação acompanha a resposta ao soro, mas não condiciona o seu início."
+  ]
+ },
+ {
+  "q": "Homem de 55 anos é atendido numa UPA após ataque de enxame de abelhas, com dezenas de ferroadas, urticária e pressão arterial estável. Recebe o tratamento prescrito e fica em observação. Ao preencher a ficha, o técnico afirma que picada de abelha não entra na notificação de animais peçonhentos. Pela Portaria GM/MS 11.211/2026, qual a orientação correta?",
+  "alts": [
+   "Notificar de forma imediata, em até 24 horas, à Secretaria Municipal",
+   "Não notificar: a lista inclui só serpentes, escorpiões e aranhas",
+   "Notificar semanalmente, por se tratar de acidente por inseto",
+   "Notificar de forma imediata, em até 1 hora, à Secretaria Estadual",
+   "Notificar só se houver óbito ou internação em terapia intensiva"
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Acidentes por animais peçonhentos",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 11.211/2026 (lista nacional de notificação compulsória)",
+  "coment": "A Portaria GM/MS 11.211/2026, última alteração da lista nacional de notificação compulsória, manteve o acidente por animal peçonhento como notificação imediata, em até 24 horas, à Secretaria Municipal de Saúde. A notificação vale para todos os acidentes por animais peçonhentos, inclusive os causados por abelhas, vespas e marimbondos, e por isso não depende de gravidade, de soroterapia ou do desfecho. O serviço que atende registra o caso na ficha do agravo. Notificar alimenta a vigilância epidemiológica, a distribuição de soros e as ações de prevenção no território.",
+  "porAlt": [
+   "Correta: acidente por animal peçonhento, inclusive por abelha, é de notificação imediata em até 24 horas.",
+   "A notificação inclui abelhas, vespas e marimbondos, além de serpentes, escorpiões e aranhas.",
+   "O acidente por animal peçonhento é de notificação imediata, e não semanal.",
+   "A notificação imediata se faz em até 24 horas, à Secretaria Municipal de Saúde.",
+   "A notificação não depende de gravidade: vale para todo acidente por animal peçonhento."
+  ]
+ },
+ {
+  "q": "Homem de 47 anos com acidente botrópico moderado recebe prescrição de soro antibotrópico. A técnica de enfermagem, seguindo uma rotina antiga do serviço, prepara teste intradérmico de sensibilidade e pergunta se pode aplicar o soro por via intramuscular para reduzir o risco de reação. Qual a orientação correta da enfermeira?",
+  "alts": [
+   "Fazer o teste intradérmico e, se negativo, aplicar o soro por via venosa",
+   "Aplicar o soro por via intramuscular no glúteo, com o teste negativo",
+   "Infiltrar parte das ampolas ao redor da picada e o restante na veia",
+   "Infundir o soro por via venosa, sem teste, com material de anafilaxia"
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Acidentes por animais peçonhentos",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "tit",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. revisada (Ministério da Saúde, 2024): acidentes por animais peçonhentos",
+  "coment": "Pelo Guia de Vigilância em Saúde do Ministério da Saúde, o soro antiveneno é administrado por via intravenosa, em ambiente preparado para tratar anafilaxia, e o teste cutâneo de sensibilidade não deve ser feito: ele prediz mal as reações e atrasa o tratamento. A via intramuscular e a infiltração local não neutralizam adequadamente o veneno circulante e estão erradas. No acidente botrópico moderado, o número de ampolas vai de 4 a 8, conforme a prescrição. A enfermagem mantém acesso venoso, monitoriza sinais de reação precoce (urticária, broncoespasmo, hipotensão) e deixa a adrenalina pronta.",
+  "porAlt": [
+   "O teste cutâneo de sensibilidade não é recomendado, pois prediz mal e atrasa o soro.",
+   "A via intramuscular está errada, porque o soro antiveneno é intravenoso.",
+   "Infiltrar soro ao redor da picada não tem indicação e não substitui a via venosa.",
+   "Correta: soro intravenoso, sem teste prévio, em ambiente preparado para anafilaxia."
+  ]
+ },
+ {
+  "q": "Mulher de 36 anos é atendida na UPA 40 minutos após ser picada por escorpião no dedo enquanto calçava o sapato. Tem dor local intensa e parestesia na mão, sem vômitos, sudorese, sialorreia ou taquicardia, e os sinais vitais estão normais. Qual conduta corresponde à prescrição esperada e aos cuidados de enfermagem?",
+  "alts": [
+   "Soro antiescorpiônico, 2 a 3 ampolas por via venosa, pela dor intensa",
+   "Bloqueio local com lidocaína a 2% sem vasoconstritor, sem soro",
+   "Soro antiescorpiônico, 4 a 6 ampolas, por ser picada em extremidade",
+   "Lidocaína a 2% com vasoconstritor, infiltrada no local da picada",
+   "Garrote acima do punho e observação até o fim da dor, sem analgesia"
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Acidentes por animais peçonhentos",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. revisada (Ministério da Saúde, 2024): acidentes por animais peçonhentos",
+  "coment": "No escorpionismo, dor local intensa com parestesia, sem manifestações sistêmicas, define o acidente leve, que não recebe soro. O antiescorpiônico fica para os moderados (2 a 3 ampolas), com vômitos, sudorese, sialorreia ou taquicardia, e para os graves (4 a 6 ampolas), com edema pulmonar ou choque (Guia de Vigilância em Saúde). O tratamento do leve é a analgesia, com bloqueio local por lidocaína a 2% sem vasoconstritor, e a observação. Garrote não tem papel. A enfermagem reavalia a dor e os sinais sistêmicos durante a observação e confere a profilaxia antitetânica.",
+  "porAlt": [
+   "Soro de 2 a 3 ampolas é para o moderado, com sinais sistêmicos ausentes neste caso.",
+   "Correta: o acidente leve recebe analgesia com lidocaína a 2% sem vasoconstritor, sem soro.",
+   "Quatro a 6 ampolas são do acidente grave; o local da picada não define a gravidade.",
+   "A lidocaína usada no escorpionismo é sem vasoconstritor, conforme o Guia de Vigilância.",
+   "Garrote não tem papel, e a dor intensa exige analgesia, e não só observação."
+  ]
+ },
+ {
+  "q": "Durante injeção de contraste na tomografia do pronto-socorro, mulher de 52 anos, 70 kg, apresenta urticária, estridor, sibilos e PA 78/40 mmHg. O contraste é suspenso, e o médico prescreve adrenalina 0,5 mg por via intramuscular. A ampola disponível é de 1 mg/mL. Como a enfermeira deve preparar e administrar a dose?",
+  "alts": [
+   "Aspirar 0,5 mL e aplicar por via subcutânea no deltoide",
+   "Diluir 1 mL em 9 mL e injetar 5 mL em bólus venoso rápido",
+   "Aspirar 0,5 mL e aplicar IM na face anterolateral da coxa",
+   "Aspirar 0,05 mL e aplicar IM na face anterolateral da coxa",
+   "Aspirar 5 mL e aplicar IM no glúteo após o anti-histamínico"
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "World Allergy Organization Anaphylaxis Guidance 2020",
+  "coment": "Na anafilaxia do adulto, a adrenalina é a primeira droga: 0,5 mg por via intramuscular na face anterolateral da coxa, usando a solução de 1 mg/mL, isto é, 0,5 mL, repetível a cada 5 a 15 minutos se não houver resposta. A via intramuscular na coxa garante absorção mais rápida que a subcutânea. A infusão venosa fica para o choque refratário, sob prescrição e monitorização, e não se faz bólus venoso. Anti-histamínico e corticoide são adjuvantes e não antecedem a adrenalina. A enfermagem oferece oxigênio, mantém acesso venoso, monitoriza e prepara a repetição da dose se necessário.",
+  "porAlt": [
+   "A via subcutânea absorve mais devagar; a adrenalina é intramuscular na coxa.",
+   "Bólus venoso de adrenalina não é a conduta inicial e expõe a arritmias graves.",
+   "Correta: 0,5 mg da solução de 1 mg/mL são 0,5 mL, IM na face anterolateral da coxa.",
+   "0,05 mL de 1 mg/mL equivalem a 0,05 mg, um décimo da dose prescrita.",
+   "5 mL seriam 5 mg, dez vezes a dose, e o anti-histamínico não antecede a adrenalina."
+  ]
+ },
+ {
+  "q": "Homem de 68 anos com pneumonia, na enfermaria, recebeu 30 mL/kg de cristaloide e o antimicrobiano na primeira hora, mas mantém PAM de 58 mmHg e lactato elevado. O médico prescreve noradrenalina. Não há cateter central, e a passagem está prevista só para dali a 3 horas. Pela Surviving Sepsis Campaign 2026, qual a conduta?",
+  "alts": [
+   "Aguardar o cateter central, pois a noradrenalina exige via central",
+   "Fazer a noradrenalina em bólus periférico, repetindo conforme a PAM",
+   "Iniciar pela via intraóssea, preferida à periférica no choque",
+   "Iniciar pela periférica, com alvo de PAM de pelo menos 85 mmHg",
+   "Iniciar em veia periférica calibrosa e vigiar o sítio de punção"
+  ],
+  "gab": 4,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Surviving Sepsis Campaign 2026 (diretrizes internacionais de sepse e choque séptico)",
+  "coment": "A Surviving Sepsis Campaign 2026 recomenda iniciar o vasopressor por veia periférica em vez de esperar o acesso central, com alvo inicial de PAM de 65 mmHg em vez de alvos mais altos. Esperar 3 horas com PAM de 58 mmHg prolonga a hipoperfusão. A noradrenalina periférica exige acesso calibroso e inspeção frequente do sítio, porque o extravasamento causa lesão tecidual. Ela é infundida em bomba, de forma contínua, e não em bólus. A via intraóssea não é preferida à periférica. A enfermagem também mede diurese, perfusão e lactato para avaliar a resposta.",
+  "porAlt": [
+   "A SSC 2026 recomenda não esperar o acesso central para iniciar o vasopressor.",
+   "Noradrenalina é infundida em bomba, de forma contínua, e não em bólus repetidos.",
+   "A via intraóssea não é preferida à veia periférica para iniciar o vasopressor.",
+   "O alvo inicial é PAM de 65 mmHg, e não alvos mais altos como 85 mmHg.",
+   "Correta: iniciar em veia periférica calibrosa, com inspeção frequente do sítio."
+  ]
+ },
+ {
+  "q": "Mulher de 74 anos com infecção urinária chega hipotensa, com PAM de 60 mmHg e confusão. O antimicrobiano foi prescrito às 10 h. Às 10h45, a equipe colheu uma amostra de hemocultura e não consegue a segunda após três tentativas; o técnico sugere esperar o coletador do laboratório. Pela Surviving Sepsis Campaign 2026, qual a conduta da enfermeira?",
+  "alts": [
+   "Administrar o antimicrobiano agora, sem esperar a segunda amostra",
+   "Esperar o coletador, pois a hemocultura tem de preceder o antimicrobiano",
+   "Esperar a segunda amostra por até 3 horas, prazo aceito na sepse",
+   "Administrar metade da dose agora e completar após a segunda amostra"
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "Surviving Sepsis Campaign 2026 (diretrizes internacionais de sepse e choque séptico)",
+  "coment": "A Surviving Sepsis Campaign 2026 recomenda colher hemoculturas o quanto antes e, idealmente, antes do antimicrobiano, mas a coleta não pode atrasar o antimicrobiano do paciente hipotenso, que deve recebê-lo de imediato, idealmente na primeira hora após o reconhecimento. A paciente tem hipotensão e confusão: esperar o laboratório ou insistir numa segunda punção difícil leva o antimicrobiano para além de 1 hora. Já há uma amostra colhida, e a dose deve ser completa. A enfermagem dispara e cronometra o protocolo e registra os horários de coleta e de administração.",
+  "porAlt": [
+   "Correta: a hemocultura não pode atrasar o antimicrobiano do paciente hipotenso.",
+   "A coleta antes do antimicrobiano é ideal, mas não justifica atrasá-lo na hipotensão.",
+   "Na hipotensão, o antimicrobiano é imediato, idealmente na primeira hora, e não em 3 horas.",
+   "Fracionar a dose do antimicrobiano não tem base e compromete o tratamento inicial."
+  ]
+ },
+ {
+  "q": "A comissão de sepse de um hospital revisa o protocolo de reconhecimento precoce nas enfermarias, hoje baseado só no qSOFA, e pede à enfermeira de referência uma proposta alinhada à Surviving Sepsis Campaign 2026. Qual recomendação ela deve levar à comissão para o rastreio dos pacientes internados?",
+  "alts": [
+   "Manter o qSOFA isolado, por ser o escore mais específico para rastrear",
+   "Rastrear com lactato sérico em todos os internados a cada 6 horas",
+   "Trocar o qSOFA pelo SOFA completo, colhido na admissão de todos",
+   "Rastrear com NEWS, NEWS2, MEWS ou SIRS, em vez do qSOFA isolado",
+   "Aguardar hemoculturas positivas para disparar o protocolo de sepse"
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Surviving Sepsis Campaign 2026 (diretrizes internacionais de sepse e choque séptico)",
+  "coment": "A Surviving Sepsis Campaign 2026 recomenda, no ambiente hospitalar, rastrear sepse com escores como NEWS, NEWS2, MEWS ou SIRS em vez do qSOFA isolado (recomendação forte, evidência moderada). O qSOFA tem baixa sensibilidade para rastreio e deixa passar pacientes que já precisam do protocolo. Os escores de alerta precoce, calculados pela enfermagem a cada aferição de sinais vitais, permitem disparar a avaliação e o pacote inicial no reconhecimento. Lactato isolado ou SOFA completo de rotina não são ferramentas de rastreio, e esperar hemocultura positiva atrasa o tratamento, que começa quando a sepse é reconhecida.",
+  "porAlt": [
+   "A SSC 2026 recomenda não usar o qSOFA isolado como ferramenta de rastreio.",
+   "Lactato seriado de rotina em todos os internados não é a estratégia de rastreio recomendada.",
+   "O SOFA completo depende de exames e não é a ferramenta de rastreio nas enfermarias.",
+   "Correta: a SSC 2026 prefere NEWS, NEWS2, MEWS ou SIRS ao qSOFA isolado no hospital.",
+   "Esperar hemocultura positiva atrasa o tratamento, que começa no reconhecimento da sepse."
+  ]
+ },
+ {
+  "q": "Homem de 62 anos, tabagista, chega ao pronto-socorro com dor retroesternal em aperto há 30 minutos, irradiada para o braço esquerdo. Está consciente, com PA 148/90 mmHg, FC 92 bpm e SpO2 96% em ar ambiente. Pela diretriz ACC/AHA 2025 de síndromes coronarianas agudas, qual a conduta inicial da enfermagem?",
+  "alts": [
+   "Instalar oxigênio a 3 L/min e fazer o ECG após a primeira troponina",
+   "Fazer o ECG de 12 derivações em até 10 minutos, sem oxigênio",
+   "Obter o ECG em até 30 minutos, depois de completar a classificação",
+   "Instalar oxigênio por máscara e administrar morfina antes do ECG",
+   "Aguardar a troponina para decidir o ECG e a monitorização cardíaca"
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretriz ACC/AHA 2025 de síndromes coronarianas agudas",
+  "coment": "A diretriz ACC/AHA 2025 de síndromes coronarianas agudas pede eletrocardiograma obtido e interpretado em até 10 minutos do primeiro contato (classe 1), com traçados seriados quando o primeiro não é diagnóstico. Quem faz o traçado e o entrega ao médico é, em geral, a enfermagem. O oxigênio só está indicado com saturação abaixo de 90%; com 90% ou mais, o oxigênio de rotina não traz benefício (classe 3). A troponina não condiciona o ECG, e a morfina alivia o sintoma sem melhorar desfecho. O paciente fica monitorizado, com desfibrilador próximo, e recebe o ácido acetilsalicílico prescrito o mais cedo possível.",
+  "porAlt": [
+   "Com SpO2 de 96%, o oxigênio não traz benefício, e o ECG não espera a troponina.",
+   "Correta: ECG em até 10 minutos e oxigênio só se a saturação estiver abaixo de 90%.",
+   "O prazo do ECG na suspeita de síndrome coronariana é de 10 minutos, e não de 30.",
+   "Oxigênio e morfina de rotina não são a sequência; o ECG vem primeiro.",
+   "A troponina não condiciona o ECG nem a monitorização na dor torácica típica."
+  ]
+ },
+ {
+  "q": "Homem de 55 anos está na sala de emergência com dor torácica e ECG sem supradesnivelamento de ST, PA 132/84 mmHg e FC 88 bpm. Há prescrição de nitroglicerina sublingual 0,4 mg. Antes de administrar, a enfermeira pergunta sobre medicamentos, e ele conta que usou tadalafila há 30 horas. Qual a conduta correta?",
+  "alts": [
+   "Administrar, pois já se passaram mais de 24 horas do inibidor da PDE-5",
+   "Administrar, pois a sistólica está acima de 90 mmHg e não há infarto de VD",
+   "Suspender e comunicar: após tadalafila, o intervalo exigido é 48 horas",
+   "Administrar metade da dose, com pressão arterial aferida a cada 5 minutos"
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "Diretriz ACC/AHA 2025 de síndromes coronarianas agudas",
+  "coment": "A nitroglicerina sublingual exige sistólica de pelo menos 90 mmHg e é evitada no infarto de ventrículo direito e após inibidor de fosfodiesterase-5, pelo risco de hipotensão grave. Os intervalos mínimos são de 12 horas para a avanafila, 24 horas para a sildenafila ou a vardenafila e 48 horas para a tadalafila, de ação mais longa. Com 30 horas desde a tadalafila, o nitrato não deve ser dado, mesmo com pressão normal. A enfermeira suspende a administração, comunica o médico e registra a informação. Perguntar por esses fármacos antes do nitrato prescrito é tarefa da enfermagem (ACC/AHA 2025).",
+  "porAlt": [
+   "O intervalo de 24 horas vale para sildenafila e vardenafila; para tadalafila são 48 horas.",
+   "A sistólica normal não libera o nitrato quando houve tadalafila há menos de 48 horas.",
+   "Correta: o nitrato é contraindicado nas 48 horas seguintes ao uso de tadalafila.",
+   "Reduzir a dose não elimina o risco de hipotensão grave após inibidor da PDE-5."
+  ]
+ },
+ {
+  "q": "Homem de 70 anos acordou às 7 h com fraqueza no braço direito e fala arrastada. A esposa conta que ele foi deitar às 23 h sem queixas. Na classificação de risco, a enfermeira registra a escala pré-hospitalar de AVC positiva. Qual horário deve constar como referência para a janela terapêutica, e qual a primeira medida na chegada?",
+  "alts": [
+   "Às 7 h, quando o déficit foi notado, e tomografia antes de tudo",
+   "Às 7 h, quando o déficit foi notado, e glicemia capilar na chegada",
+   "Às 23 h, último momento visto bem, e tomografia antes da glicemia",
+   "Às 23 h, último momento visto bem, e glicemia capilar logo na chegada",
+   "Às 23 h, último momento visto bem, e pressão abaixo de 140/90 mmHg"
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz AHA/ASA 2026 para o manejo precoce do AVC isquêmico agudo",
+  "coment": "No AVC isquêmico, a janela terapêutica conta a partir do último momento em que o paciente foi visto bem, e não da hora em que o déficit foi percebido. Quem acorda com o déficit foi visto bem pela última vez ao deitar, às 23 h no caso, e essa informação, colhida e registrada pela enfermagem, decide a elegibilidade para trombólise (até 4,5 horas) ou trombectomia. Na chegada, a primeira medida é a glicemia capilar, porque a hipoglicemia imita AVC. Antes da trombólise, a pressão deve estar abaixo de 185/110 mmHg, e não de 140/90 mmHg (AHA/ASA 2026).",
+  "porAlt": [
+   "A janela não conta da hora em que o déficit foi notado, e a glicemia vem antes da imagem.",
+   "O horário de referência é o último momento visto bem, não o da descoberta do déficit.",
+   "A glicemia capilar é a primeira medida, porque a hipoglicemia imita o AVC.",
+   "Correta: conta-se do último momento visto bem, e a glicemia capilar é a primeira medida.",
+   "Antes da trombólise, a meta pressórica é abaixo de 185/110 mmHg, não de 140/90 mmHg."
+  ]
+ },
+ {
+  "q": "Mulher de 66 anos recebe alteplase por AVC isquêmico na unidade de AVC. Aos 40 minutos de infusão, queixa-se de cefaleia intensa e vomita; a pressão sobe de 170/95 para 205/110 mmHg e o NIHSS piora 4 pontos. Qual a conduta imediata da enfermeira?",
+  "alts": [
+   "Manter a infusão e dar o anti-hipertensivo e o antiemético",
+   "Parar a infusão, avisar o médico e preparar a tomografia de crânio",
+   "Reduzir a velocidade à metade e reavaliar o NIHSS em 15 minutos",
+   "Manter a infusão e repetir a avaliação neurológica em 30 minutos"
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Diretriz AHA/ASA 2026 para o manejo precoce do AVC isquêmico agudo",
+  "coment": "Durante e após a trombólise, a enfermagem avalia pressão arterial e exame neurológico a cada 15 minutos por 2 horas, a cada 30 minutos por 6 horas e de hora em hora até completar 24 horas (AHA/ASA 2026). Cefaleia intensa, hipertensão aguda, náusea, vômito ou piora neurológica são sinais de alarme de hemorragia intracraniana: a infusão de alteplase é interrompida de imediato, o médico é avisado e a tomografia é preparada. Reduzir a velocidade ou manter a infusão enquanto se trata a pressão expõe a paciente a mais sangramento. Depois do trombolítico, a pressão deve ficar abaixo de 180/105 mmHg por pelo menos 24 horas.",
+  "porAlt": [
+   "Sinais de alarme de hemorragia exigem parar a alteplase, e não só tratar os sintomas.",
+   "Correta: cefaleia, vômito, hipertensão e piora neurológica pedem parar a infusão e fazer tomografia.",
+   "Reduzir a velocidade mantém o trombolítico correndo diante de provável hemorragia.",
+   "Com sinais de alarme não se espera 30 minutos: a infusão é interrompida já."
+  ]
+ },
+ {
+  "q": "Na enfermaria, homem de 72 anos é encontrado em parada cardiorrespiratória. A equipe inicia RCP de alta qualidade, e o monitor mostra assistolia confirmada. Há acesso venoso periférico pérvio no antebraço. Pela Diretriz AHA 2025, quando e como a adrenalina deve ser administrada?",
+  "alts": [
+   "O quanto antes, 1 mg IV, repetida a cada 3 a 5 minutos",
+   "Após o primeiro choque, 1 mg IV a cada 3 a 5 minutos",
+   "Depois de 10 minutos de RCP, 1 mg IV em dose única",
+   "O quanto antes, 3 mg IV em dose única, seguida de atropina",
+   "O quanto antes, 1 mg via cânula traqueal a cada 3 a 5 minutos"
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes AHA 2025 de RCP e ACE, Parte 9 (suporte avançado de vida no adulto)",
+  "coment": "Assistolia é ritmo não chocável: não se desfibrila, e o tratamento é RCP de alta qualidade, adrenalina e busca das causas reversíveis. A Diretriz AHA 2025 recomenda, no ritmo não chocável, adrenalina o quanto antes (classe 2a), na dose de 1 mg IV ou IO a cada 3 a 5 minutos. No ritmo chocável, ao contrário, ela entra depois que as tentativas iniciais de desfibrilação falharam. A atropina não faz parte do algoritmo de parada, e a via traqueal para fármacos saiu do texto de 2025. A enfermagem administra em bólus seguido de flush, avisa a checagem de ritmo a cada 2 minutos e registra cada dose.",
+  "porAlt": [
+   "Correta: no ritmo não chocável, adrenalina 1 mg o quanto antes, a cada 3 a 5 minutos.",
+   "Assistolia não é chocável; a adrenalina não espera um choque que não está indicado.",
+   "Esperar 10 minutos atrasa a adrenalina, que se repete a cada 3 a 5 minutos.",
+   "A dose é de 1 mg, e a atropina não faz parte do algoritmo de parada da AHA 2025.",
+   "A via traqueal para fármacos saiu do texto de 2025; usa-se a via venosa ou intraóssea."
+  ]
+ },
+ {
+  "q": "Homem de 60 anos tem fibrilação ventricular presenciada na sala de emergência. A equipe aplica o primeiro choque e retoma as compressões. Ainda não há acesso vascular. Um residente quer adrenalina imediatamente por via intraóssea, antes de qualquer tentativa de punção venosa. Pela Diretriz AHA 2025, qual a conduta correta?",
+  "alts": [
+   "Intraóssea de imediato e adrenalina já, antes do segundo choque",
+   "Adrenalina pela cânula traqueal enquanto se tenta o acesso venoso",
+   "Tentar primeiro o venoso; adrenalina após falharem os choques iniciais",
+   "Adiar os fármacos até a intubação e aplicar três choques em sequência"
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "Diretrizes AHA 2025 de RCP e ACE, Parte 9 (suporte avançado de vida no adulto)",
+  "coment": "A Diretriz AHA 2025 recomenda tentar primeiro o acesso venoso para administrar fármacos (classe 1) e reservar o intraósseo para quando as tentativas iniciais de acesso venoso falham ou não são viáveis (2a). No ritmo chocável, a adrenalina entra depois que as tentativas iniciais de desfibrilação falharam, e não antes; no não chocável, ela é dada o quanto antes. Choque único é preferido a choques em sequência, e a via traqueal para fármacos saiu do texto de 2025. Persistindo a FV, amiodarona ou lidocaína podem ser usadas. A enfermagem prepara acesso calibroso e cronometra os ciclos de 2 minutos.",
+  "porAlt": [
+   "Intraóssea como primeira escolha e adrenalina precoce na FV invertem a recomendação da AHA 2025.",
+   "A via traqueal para fármacos saiu do texto da AHA 2025, e o venoso é a primeira via.",
+   "Correta: venoso antes do intraósseo, e adrenalina na FV após falharem os choques iniciais.",
+   "A AHA 2025 prefere choque único, e os fármacos não esperam a via aérea avançada."
+  ]
+ },
+ {
+  "q": "Durante a RCP de uma mulher de 65 anos na UTI, o médico intuba a paciente e a capnografia de onda confirma o tubo traqueal. A enfermeira assume a bolsa de ventilação e orienta o técnico que comprime. Pela Diretriz AHA 2025, como devem ficar compressões e ventilações a partir de agora?",
+  "alts": [
+   "Manter 30 compressões para 2 ventilações, com pausa para ventilar",
+   "Compressões contínuas e 1 ventilação a cada 3 s, 20 por minuto",
+   "Manter 15 compressões para 2 ventilações, com pausa a cada ciclo",
+   "Compressões contínuas e 2 ventilações a cada 10 segundos, sem pausa",
+   "Compressões contínuas e 1 ventilação a cada 6 segundos, 10 por minuto"
+  ],
+  "gab": 4,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Diretrizes AHA 2025 de RCP e ACE (suporte básico e avançado de vida no adulto)",
+  "coment": "Com via aérea avançada instalada e confirmada, a Diretriz AHA 2025 recomenda compressões contínuas, a 100 a 120 por minuto, sem pausas para ventilar, e 1 ventilação a cada 6 segundos, o que dá 10 ventilações por minuto. A relação de 30 compressões para 2 ventilações vale para o adulto sem via aérea avançada. Ventilar demais aumenta a pressão dentro do tórax e reduz o retorno venoso que as compressões tentam gerar, por isso frequências mais altas estão erradas. A capnografia de onda contínua, junto com a avaliação clínica, confirma e monitoriza o tubo traqueal (classe 1).",
+  "porAlt": [
+   "A relação 30:2 vale para quem não tem via aérea avançada; com tubo, as compressões são contínuas.",
+   "Uma ventilação a cada 3 segundos hiperventila e reduz o retorno venoso durante a RCP.",
+   "A relação 15:2 não é recomendada para o adulto, e com tubo as compressões não param.",
+   "Duas ventilações a cada 10 segundos somam 12 por minuto, acima do recomendado.",
+   "Correta: com via aérea avançada, compressões contínuas e 1 ventilação a cada 6 segundos."
+  ]
+ },
+ {
+  "q": "Homem de 54 anos, 80 kg, mantém fibrilação ventricular após três choques, com adrenalina já administrada. O médico prescreve amiodarona na dose do algoritmo de parada do adulto. A ampola disponível tem 150 mg em 3 mL. Quantos mililitros a enfermeira deve preparar para a primeira dose e para a segunda, se prescrita?",
+  "alts": [
+   "3 mL na primeira dose e 1,5 mL na segunda",
+   "6 mL na primeira dose e 3 mL na segunda",
+   "6 mL na primeira dose e 6 mL na segunda",
+   "9 mL na primeira dose e 3 mL na segunda",
+   "4,8 mL na primeira dose e 2,4 mL na segunda"
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Diretrizes AHA 2025 de RCP e ACE, Parte 9 (suporte avançado de vida no adulto)",
+  "coment": "No algoritmo de parada do adulto da Diretriz AHA 2025, a amiodarona entra na fibrilação ventricular ou taquicardia ventricular sem pulso que não responde à desfibrilação: 300 mg IV ou IO em bólus na primeira dose e 150 mg na segunda. A ampola de 150 mg em 3 mL tem 50 mg/mL. Assim, 300 mg correspondem a 6 mL (duas ampolas) e 150 mg a 3 mL (uma ampola). A dose do adulto na parada não é calculada por peso, o que torna errado o valor de 4,8 mL. A alternativa é a lidocaína, 1 a 1,5 mg/kg. A enfermagem administra em bólus, faz flush e registra horário e dose.",
+  "porAlt": [
+   "3 mL contêm 150 mg, metade da primeira dose de 300 mg do algoritmo.",
+   "Correta: 300 mg são 6 mL e 150 mg são 3 mL na concentração de 50 mg/mL.",
+   "A segunda dose é de 150 mg, que correspondem a 3 mL, e não a 6 mL.",
+   "9 mL contêm 450 mg, acima da primeira dose de 300 mg do algoritmo.",
+   "A amiodarona na parada do adulto tem dose fixa, sem cálculo por quilo de peso."
+  ]
+ },
+ {
+  "q": "Motociclista de 26 anos chega à sala de trauma 1 hora após a colisão, com fratura exposta de fêmur já controlada por torniquete, FC 132 bpm e PA 88/60 mmHg. O médico prescreve ácido tranexâmico. Pelo ATLS 11ª edição, como a enfermagem deve administrar o fármaco?",
+  "alts": [
+   "2 g em bólus rápido, dose única, em qualquer tempo após o trauma",
+   "1 g em 10 minutos e 1 g em 8 horas, até 6 horas do trauma",
+   "1 g em 1 hora e 1 g em 24 horas, até 3 horas do trauma",
+   "1 g em 10 minutos e 1 g em 8 horas, até 3 horas do trauma",
+   "1 g em 10 minutos, repetido a cada hora até cessar o sangramento"
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "ATLS, 11ª ed. (American College of Surgeons, 2025)",
+  "coment": "No trauma com hemorragia, o ácido tranexâmico é feito na dose de 1 g em 10 minutos seguida de 1 g em 8 horas, e só até 3 horas do trauma; depois disso o benefício se perde (ATLS 11ª ed., 2025). O paciente está a 1 hora da colisão e em choque, dentro da janela. A enfermagem registra o horário do trauma e o de início do fármaco, mantém dois acessos calibrosos, aquece fluidos e hemoderivados e restringe cristaloide conforme a prescrição, porque a hipotermia agrava a coagulopatia. O torniquete, aplicado no x do xABCDE, deve ter o horário anotado.",
+  "porAlt": [
+   "Bólus rápido de 2 g sem limite de tempo não corresponde ao esquema do ATLS.",
+   "A janela do ácido tranexâmico é de até 3 horas do trauma, e não de 6 horas.",
+   "A dose de ataque corre em 10 minutos e a manutenção em 8 horas, não em 1 e 24 horas.",
+   "Correta: 1 g em 10 minutos e 1 g em 8 horas, iniciado em até 3 horas do trauma.",
+   "O esquema não prevê doses repetidas a cada hora, e sim manutenção de 1 g em 8 horas."
+  ]
+ },
+ {
+  "q": "Homem de 40 anos, vítima de queda de andaime, está na sala de trauma com equimose periorbitária bilateral, rinorreia clara e sangue no meato uretral. O médico pede descompressão gástrica e controle da diurese. Qual a conduta correta da enfermagem quanto às sondas?",
+  "alts": [
+   "Sonda nasogástrica e sonda vesical de demora às cegas, de imediato",
+   "Sonda nasogástrica e adiar a vesical até a radiografia de bacia",
+   "Sonda gástrica pela boca e não passar a sonda vesical às cegas",
+   "Sonda gástrica pela boca e sonda vesical de demora às cegas",
+   "Sonda nasogástrica com lubrificante e vesical de menor calibre"
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ATLS, 11ª ed. (American College of Surgeons, 2025)",
+  "coment": "No politraumatizado, rinorreia, equimose periorbitária ou fratura de face sugerem fratura de base de crânio e contraindicam a sonda gástrica pelo nariz, que pode seguir para dentro do crânio; a descompressão é feita por sonda orogástrica. Sangue no meato uretral ou equimose perineal sugerem lesão de uretra e contraindicam a sonda vesical às cegas, que pode completar a lesão; a avaliação da uretra e a decisão sobre outra via de drenagem cabem à equipe médica (ATLS 11ª ed., 2025). Calibre menor ou lubrificação não removem o risco. A cânula nasofaríngea também é evitada nesse paciente.",
+  "porAlt": [
+   "Rinorreia contraindica sonda pelo nariz, e sangue no meato contraindica a vesical às cegas.",
+   "A sonda pelo nariz está contraindicada na suspeita de fratura de base de crânio.",
+   "Correta: sonda gástrica por via oral e nenhuma sonda vesical às cegas com sangue no meato.",
+   "Sangue no meato uretral contraindica a sonda vesical de demora às cegas.",
+   "Lubrificante e calibre menor não removem o risco das sondas nesse paciente."
+  ]
+ },
+ {
+  "q": "Homem de 33 anos com traumatismo cranioencefálico após agressão está na sala de emergência. Abre os olhos à pressão, emite palavras inapropriadas e localiza o estímulo doloroso. A pupila direita está dilatada e não reage à luz; a esquerda reage normalmente. Qual o Glasgow-P e a classificação do TCE pelo Glasgow?",
+  "alts": [
+   "Glasgow-P de 10, com TCE moderado",
+   "Glasgow-P de 8, com TCE grave",
+   "Glasgow-P de 11, com TCE moderado",
+   "Glasgow-P de 9, com TCE grave",
+   "Glasgow-P de 9, com TCE moderado"
+  ],
+  "gab": 4,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "ATLS, 11ª ed. (American College of Surgeons, 2025)",
+  "coment": "A escala de Glasgow soma abertura ocular, resposta verbal e resposta motora: abertura à pressão vale 2, palavras inapropriadas valem 3 e localizar o estímulo vale 5, total de 10. O Glasgow-P subtrai a reatividade pupilar: 2 pontos se nenhuma pupila reage, 1 se uma não reage e 0 se ambas reagem. Com uma pupila sem reação, 10 menos 1 dá Glasgow-P de 9. A gravidade do TCE segue o Glasgow: leve de 13 a 15, moderado de 9 a 12 e grave de 3 a 8, portanto TCE moderado. A pupila arreativa é sinal de alarme e deve ser comunicada na hora (ATLS 11ª ed., 2025).",
+  "porAlt": [
+   "10 é o Glasgow sem a subtração de 1 ponto pela pupila que não reage.",
+   "Subtrair 2 pontos vale só quando nenhuma das duas pupilas reage à luz.",
+   "A soma correta é 10, e não 11; abrir os olhos à pressão vale 2 pontos.",
+   "O Glasgow-P é 9, mas a gravidade usa o Glasgow de 10, que é moderado.",
+   "Correta: Glasgow 10 menos 1 pela pupila arreativa dá 9, com TCE moderado."
+  ]
+ },
+ {
+  "q": "Mulher de 30 anos, vítima de colisão, chega à sala de trauma ansiosa, com FC 115 bpm, PA 118/96 mmHg, FR 24 irpm e enchimento capilar de 3 segundos. Tem dor abdominal e fratura de fêmur fechada. O residente afirma que, com sistólica normal, ela não está em choque. Qual a interpretação correta da enfermeira?",
+  "alts": [
+   "Sem choque, pois a sistólica normal exclui perda volêmica relevante",
+   "Choque neurogênico, pela taquicardia com pressão de pulso estreita",
+   "Choque classe III, porque a taquicardia já indica um terço da volemia",
+   "Choque hemorrágico de classe II, com pressão de pulso estreita"
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "ATLS, 11ª ed. (American College of Surgeons, 2025)",
+  "coment": "No traumatizado, todo choque é hemorrágico até prova em contrário. Na classe II, a vasoconstrição eleva a diastólica e a pressão de pulso cai (aqui 118 menos 96, apenas 22 mmHg), com taquicardia, ansiedade e enchimento capilar lento, enquanto a sistólica ainda está normal; ela só cai na classe III, com cerca de um terço da volemia perdida (ATLS 11ª ed., 2025). Fratura de fêmur e dor abdominal são fontes de sangramento. O choque neurogênico cursa com hipotensão sem taquicardia e pele quente. A enfermagem mantém dois acessos calibrosos, aquece a paciente e comunica a equipe.",
+  "porAlt": [
+   "A sistólica só cai na classe III; pulso estreito e taquicardia já indicam choque.",
+   "O choque neurogênico tem hipotensão sem taquicardia, ao contrário deste quadro.",
+   "Na classe III a sistólica já cai, e aqui ela está preservada.",
+   "Correta: taquicardia, ansiedade e pressão de pulso estreita com sistólica normal indicam classe II."
+  ]
+ }
+]

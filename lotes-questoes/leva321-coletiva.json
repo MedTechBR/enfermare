@@ -80,7 +80,7 @@
    "14,0 por mil nascidos vivos",
    "13,9 por mil nascimentos totais",
    "15,9 por mil nascimentos totais",
-   "6,0 por mil, só neonatal precoce",
+   "6,0 por mil, o neonatal precoce",
    "16,0 por mil nascidos vivos"
   ],
   "gab": 1,
@@ -304,7 +304,7 @@
   "alts": [
    "Concordar, pois epidemia exige casos acima do limite do diagrama",
    "Concordar, pois a cólera é de notificação semanal ao município",
-   "Notificar só ao município em 24 horas e aguardar novos casos",
+   "Notificar ao município em 24 horas e aguardar novos casos",
    "Esperar a investigação dos contatos antes de comunicar o estado",
    "Notificar em 24 horas às três esferas, como evento de saúde pública"
   ],
@@ -329,7 +329,7 @@
   "alts": [
    "Manter o cardápio até a cultura confirmar a fonte suspeita",
    "Suspender o pudim suspeito e guardar amostras para análise",
-   "Encerrar a apuração, pois surto hospitalar cabe só à CCIH",
+   "Encerrar a apuração, pois o surto hospitalar cabe à CCIH",
    "Descartar todas as sobras para evitar novos casos no setor",
    "Esperar o estudo analítico terminar antes de qualquer medida"
   ],
@@ -355,8 +355,8 @@
    "Semanal, à secretaria do município de residência",
    "Imediata, ao Ministério, ao estado e ao município",
    "Dispensada, se o animal puder ser localizado e observado",
-   "Imediata, em até 24 horas, à secretaria municipal",
-   "Semanal, apenas se houver indicação de soro antirrábico"
+   "Imediata, em até 24 horas, só à secretaria municipal",
+   "Semanal, quando houver indicação de soro antirrábico"
   ],
   "gab": 3,
   "tema": "coletiva",
@@ -381,7 +381,7 @@
    "Notificar de forma imediata ao estado e ao município de saúde",
    "Notificar na rotina semanal à secretaria municipal de saúde",
    "Notificar de forma imediata ao Ministério, ao estado e ao município",
-   "Notificar apenas se houver surto na escola ou na creche da criança"
+   "Notificar quando houver surto na escola ou na creche da criança"
   ],
   "gab": 1,
   "tema": "coletiva",
@@ -429,7 +429,7 @@
   "alts": [
    "Notificar como síndrome gripal por covid-19 confirmada, em até 24 horas",
    "Notificar como covid-19, item isolado da lista, na rotina semanal",
-   "Não notificar, pois só a SRAG hospitalizada ou o óbito são notificados",
+   "Não notificar, pois a lista exige SRAG hospitalizada ou óbito",
    "Notificar ainda na suspeita, como síndrome gripal suspeita de covid-19",
    "Não notificar, pois a covid-19 foi retirada de toda a lista nacional"
   ],
@@ -444,7 +444,7 @@
   "porAlt": [
    "Correta: síndrome gripal por covid-19 confirmada é de notificação imediata às três esferas.",
    "Errada: a covid-19 deixou de ser item isolado (art. 3º) e o item vigente é imediato.",
-   "Errada: a síndrome gripal por covid-19 confirmada também é notificável, além da SRAG.",
+   "Errada: além da SRAG hospitalizada ou óbito, a síndrome gripal por covid-19 confirmada é notificável.",
    "Errada: o item vigente exige confirmação; o termo \"suspeita\" foi substituído em 2026.",
    "Errada: a covid-19 saiu como item isolado, mas segue na lista como síndrome gripal confirmada."
   ]
@@ -455,7 +455,7 @@
    "Ao município, na rotina semanal, após confirmação",
    "Ao Ministério, ao estado e ao município, em 24 horas",
    "Ao estado e ao município, em até 24 horas da suspeita",
-   "Somente ao município, em até 24 horas da suspeita",
+   "À secretaria municipal, em até 24 horas da suspeita",
    "Ao estado e ao município, em até 7 dias da internação"
   ],
   "gab": 2,
@@ -497,6 +497,631 @@
    "Errada: o Oropouche entrou na lista de notificação compulsória, não na sentinela.",
    "Correta: o art. 6º incluiu a doença invasiva por H. influenzae e o art. 7º retirou a SRAG.",
    "Errada: a doença diarreica aguda segue no Anexo II, na vigilância de transmissão hídrica."
+  ]
+ },
+ {
+  "q": "Um dia após receber a vacina pentavalente na UBS, um lactente de 2 meses apresenta febre de 38 °C e irritabilidade, sem sinais de gravidade, e a mãe retorna à unidade preocupada. A enfermeira avalia o quadro e orienta os cuidados. Pela nomenclatura e pela periodicidade da lista nacional republicada em 2026, como esse evento deve ser tratado?",
+  "alts": [
+   "Não notificar, pois só eventos graves ou óbitos entram na lista",
+   "Notificar como ESAVI, de forma imediata às três esferas de gestão",
+   "Notificar como evento adverso pós-vacinal grave, na rotina semanal",
+   "Notificar quando houver internação ou sequela neurológica",
+   "Registrar no prontuário, pois reação esperada não é ESAVI"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 11.211/2026, art. 4º, V, e Anexo I (item 23)",
+  "coment": "O art. 4º, V, da Portaria GM/MS 11.211/2026 trocou o antigo item \"Eventos adversos graves ou óbitos pós-vacinação\" por \"Evento supostamente atribuível à vacinação ou imunização (ESAVI)\". A nova redação não exige gravidade: cobre qualquer evento que se suspeite estar relacionado à vacina. No Anexo I, item 23, o ESAVI tem notificação imediata, em até 24 horas, para Ministério da Saúde, secretaria estadual e secretaria municipal. Febre após a pentavalente é evento conhecido, mas a classificação de causalidade e de gravidade é feita depois, na investigação; a notificação vem antes. O registro também alimenta o SI-PNI.",
+  "porAlt": [
+   "Errada: a restrição a eventos graves ou óbitos era da redação anterior a 2026.",
+   "Correta: o item vigente é ESAVI, sem exigência de gravidade, com notificação imediata às três esferas.",
+   "Errada: o nome antigo foi substituído por ESAVI, e a periodicidade no Anexo I é imediata.",
+   "Errada: a lista vigente não condiciona a notificação do ESAVI a internação ou sequela.",
+   "Errada: evento esperado também é supostamente atribuível à vacina e deve ser notificado."
+  ]
+ },
+ {
+  "q": "Durante inspeção, técnicos da prefeitura encontram numa clínica de estética autoclave sem manutenção, materiais com validade vencida e procedimentos invasivos sem responsável técnico. A equipe lavra auto de infração e interdita a sala de procedimentos até a regularização. A qual componente da vigilância em saúde essa ação corresponde?",
+  "alts": [
+   "Vigilância epidemiológica local",
+   "Vigilância em saúde ambiental",
+   "Ação laboratorial transversal",
+   "Vigilância sanitária municipal",
+   "Vigilância em saúde do trabalhador"
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 6º, §1º; Resolução CNS 588/2018, art. 6º",
+  "coment": "Pela Lei 8.080/1990, art. 6º, §1º, vigilância sanitária é o conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas sanitários decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços de interesse da saúde. Inspecionar estabelecimento, autuar e interditar são atos de poder de polícia administrativa, próprios da vigilância sanitária. A epidemiológica conhece e recomenda medidas sobre doenças e agravos; a ambiental olha os fatores do meio; a do trabalhador olha o processo produtivo. Ações laboratoriais são atividade transversal, não componente.",
+  "porAlt": [
+   "Errada: a epidemiológica detecta e recomenda medidas sobre doenças, sem poder de interdição.",
+   "Errada: a ambiental olha fatores do meio, como água e solo, e não serviços de saúde.",
+   "Errada: ações laboratoriais são atividade transversal da política, e não um componente.",
+   "Correta: inspeção, auto de infração e interdição de serviço são atos da vigilância sanitária.",
+   "Errada: a vigilância do trabalhador olha o processo produtivo e a saúde de quem trabalha."
+  ]
+ },
+ {
+  "q": "A secretaria municipal de saúde mantém um programa que coleta amostras da água distribuída em escolas e bairros, analisa cloro residual e coliformes e, diante de resultado fora do padrão, recomenda medidas à companhia de abastecimento e orienta a população. Segundo a Política Nacional de Vigilância em Saúde, esse programa pertence a qual vigilância?",
+  "alts": [
+   "Epidemiológica, por prevenir as doenças de veiculação hídrica",
+   "Sanitária, por fiscalizar a prestação de serviços de saúde",
+   "Em saúde ambiental, que monitora os fatores de risco do meio",
+   "Em saúde do trabalhador, por envolver o processo produtivo",
+   "Atenção primária, por promover hábitos saudáveis nas famílias"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde), art. 6º, X",
+  "coment": "A Resolução CNS 588/2018, art. 6º, X, define a vigilância em saúde ambiental como o conjunto de ações que propiciam o conhecimento e a detecção de mudanças nos fatores determinantes e condicionantes do meio ambiente que interferem na saúde humana, para recomendar e adotar medidas de promoção, prevenção e monitoramento dos fatores de risco. A qualidade da água para consumo humano é exemplo típico, ao lado de solo contaminado, poluição do ar, desastres e controle de vetores. A Lei 8.080/1990 não define esse componente, que a PNVS acrescentou aos outros três. A epidemiológica atua sobre doenças e agravos.",
+  "porAlt": [
+   "Errada: a epidemiológica atua sobre doenças e agravos; o monitoramento do meio é ambiental.",
+   "Errada: o programa monitora água, e não a prestação de serviços de saúde.",
+   "Correta: monitorar fatores do meio, como a água de consumo, é vigilância em saúde ambiental.",
+   "Errada: a vigilância do trabalhador olha processos produtivos, e não a água distribuída.",
+   "Errada: a atenção primária não é componente da vigilância definido pela PNVS."
+  ]
+ },
+ {
+  "q": "Ao elaborar o plano municipal de vigilância em saúde, a enfermeira coordenadora organiza as ações nos quatro componentes previstos no art. 3º da Resolução CNS 588/2018. Ela precisa indicar, no mesmo documento, as duas atividades que a política considera transversais e essenciais a todos os componentes. Quais são essas atividades?",
+  "alts": [
+   "Notificação compulsória e investigação dos surtos locais",
+   "Imunização e controle de vetores e reservatórios",
+   "Educação permanente e participação da comunidade",
+   "Regulação de leitos e auditoria dos serviços",
+   "Análise de situação de saúde e ações laboratoriais"
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde), art. 3º, parágrafo único",
+  "coment": "O art. 3º da Resolução CNS 588/2018 diz que a PNVS articula os saberes, processos e práticas da vigilância epidemiológica, da vigilância em saúde ambiental, da vigilância em saúde do trabalhador e da vigilância sanitária. O parágrafo único acrescenta duas atividades que não são componentes, mas atravessam todos eles: a análise de situação de saúde e as ações laboratoriais, chamadas de transversais e essenciais. Notificação e investigação de surtos são ações da vigilância epidemiológica. Educação permanente e controle social aparecem entre as estratégias do art. 9º. Regulação e auditoria pertencem à gestão da assistência.",
+  "porAlt": [
+   "Errada: notificação e investigação de surtos são ações da vigilância epidemiológica.",
+   "Errada: imunização e controle de vetores são ações dos componentes, não atividades transversais.",
+   "Errada: educação permanente e controle social aparecem entre as estratégias do art. 9º.",
+   "Errada: regulação e auditoria são funções de gestão da assistência, fora da PNVS.",
+   "Correta: o parágrafo único do art. 3º chama essas duas atividades de transversais e essenciais."
+  ]
+ },
+ {
+  "q": "Numa capacitação, a enfermeira completa a definição do art. 6º, §3º, da Lei 8.080/1990: saúde do trabalhador é um conjunto de atividades que se destina, por meio das ações de ______, à promoção e proteção da saúde dos trabalhadores e à recuperação e reabilitação dos submetidos aos riscos e agravos das condições de trabalho. Que expressão completa a lacuna?",
+  "alts": [
+   "vigilância ambiental e assistência hospitalar",
+   "atenção básica e serviços de medicina do trabalho",
+   "perícia previdenciária e reabilitação profissional",
+   "vigilância epidemiológica e vigilância sanitária",
+   "segurança do trabalho e inspeção trabalhista"
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 6º, §3º",
+  "coment": "A Lei 8.080/1990, art. 6º, §3º, define saúde do trabalhador como o conjunto de atividades que se destina, por meio das ações de vigilância epidemiológica e vigilância sanitária, à promoção e proteção da saúde dos trabalhadores, assim como à recuperação e reabilitação da saúde dos submetidos aos riscos e agravos advindos das condições de trabalho. A Resolução CNS 588/2018 traz outro enfoque: integração de ações sobre doenças, agravos e determinantes decorrentes dos modelos de desenvolvimento e dos processos produtivos. Inspeção trabalhista e perícia previdenciária são de outros órgãos, fora do SUS.",
+  "porAlt": [
+   "Errada: a lei não define a saúde do trabalhador pela vigilância ambiental nem pela assistência hospitalar.",
+   "Errada: o texto legal fala em ações de vigilância, e não em atenção básica ou medicina do trabalho.",
+   "Errada: perícia e reabilitação profissional são da Previdência, não do texto do §3º.",
+   "Correta: o §3º define a saúde do trabalhador pelas ações de vigilância epidemiológica e sanitária.",
+   "Errada: inspeção trabalhista cabe ao Ministério do Trabalho e não aparece na definição."
+  ]
+ },
+ {
+  "q": "Em reunião com a secretaria municipal de saúde, representantes de uma rede privada de hospitais e de uma indústria de alimentos alegam que a Política Nacional de Vigilância em Saúde alcança apenas os serviços públicos do SUS. Segundo a Resolução CNS 588/2018, como a enfermeira da vigilância deve responder a essa alegação?",
+  "alts": [
+   "A política abrange serviços privados e estabelecimentos de produção",
+   "A política vale para o SUS, e a indústria responde à Anvisa",
+   "A política alcança o setor privado só quando conveniado ao SUS",
+   "A política vale para a rede privada só em emergências sanitárias",
+   "A política alcança a indústria, mas exclui os hospitais da rede privada"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde), art. 2º, §2º",
+  "coment": "O art. 2º da Resolução CNS 588/2018 caracteriza a PNVS como política pública de Estado e função essencial do SUS, de caráter universal, transversal e orientador do modelo de atenção, com gestão de responsabilidade exclusiva do poder público. O §2º estende a política a todos os níveis e formas de atenção à saúde, incluindo os serviços privados e os estabelecimentos de produção e circulação de bens de consumo e tecnologias relacionados à saúde. Não há condição de convênio nem de emergência para que a política alcance o setor privado.",
+  "porAlt": [
+   "Correta: o art. 2º, §2º, inclui serviços privados e estabelecimentos de produção e circulação de bens.",
+   "Errada: a política não se restringe ao SUS; alcança também o setor privado e a produção.",
+   "Errada: o alcance da PNVS sobre o setor privado não depende de convênio com o SUS.",
+   "Errada: a política se aplica de forma permanente, e não apenas em emergências.",
+   "Errada: a política alcança todos os serviços privados, incluindo os hospitais."
+  ]
+ },
+ {
+  "q": "Uma técnica de enfermagem celetista de um hospital privado fratura o punho ao escorregar no piso molhado do posto de enfermagem, durante o plantão de sexta-feira à noite. A enfermeira supervisora orienta o setor de pessoal sobre a Comunicação de Acidente de Trabalho. Pela Lei 8.213/1991, qual é o prazo para a empresa emitir a CAT?",
+  "alts": [
+   "Até o primeiro dia útil seguinte ao da ocorrência",
+   "Em até 24 horas corridas, contadas do acidente",
+   "Em até 7 dias, como na notificação semanal do SINAN",
+   "Em até 30 dias, se houver afastamento do trabalho",
+   "Depois que a perícia do INSS confirmar o nexo"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.213/1991, art. 22 (redação da Lei Complementar 150/2015)",
+  "coment": "O art. 22 da Lei 8.213/1991 obriga a empresa a comunicar o acidente do trabalho à Previdência Social até o primeiro dia útil seguinte ao da ocorrência e, em caso de morte, de imediato à autoridade competente, sob pena de multa. No caso, o acidente de sexta à noite deve ser comunicado até o primeiro dia útil seguinte, sem esperar perícia. O acidentado ou seus dependentes e o sindicato recebem cópia (§1º). A CAT é instrumento previdenciário e não substitui a notificação no SINAN: acidente de trabalho tem notificação imediata à secretaria municipal na lista nacional (Portaria GM/MS 11.211/2026).",
+  "porAlt": [
+   "Correta: o art. 22 fixa o primeiro dia útil seguinte ao da ocorrência; em morte, de imediato.",
+   "Errada: a lei não fala em 24 horas corridas, e sim no primeiro dia útil seguinte.",
+   "Errada: 7 dias é prazo da notificação semanal do SINAN, não da CAT previdenciária.",
+   "Errada: a lei não prevê prazo de 30 dias nem condiciona a CAT ao afastamento.",
+   "Errada: a CAT é emitida pela empresa sem depender da perícia do INSS."
+  ]
+ },
+ {
+  "q": "Um auxiliar de limpeza celetista sofre corte profundo na mão com vidro durante o serviço e é atendido na UPA. Dias depois, conta à enfermeira da UBS que a empresa se recusou a emitir a Comunicação de Acidente de Trabalho. Segundo a Lei 8.213/1991, qual é a orientação correta da enfermeira?",
+  "alts": [
+   "Só a empresa pode emitir a CAT, e resta ao trabalhador denunciar ao sindicato",
+   "Ele, dependentes, sindicato, médico ou autoridade podem emitir a CAT",
+   "O médico do trabalho da empresa contratante deve emitir a CAT",
+   "Passado o primeiro dia útil, a CAT não pode mais ser registrada",
+   "A notificação no SINAN substitui a CAT para fins previdenciários"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.213/1991, art. 22, §§2º e 3º",
+  "coment": "O art. 22, §2º, da Lei 8.213/1991 prevê que, na falta de comunicação por parte da empresa, podem formalizar a CAT o próprio acidentado, seus dependentes, a entidade sindical competente, o médico que o assistiu ou qualquer autoridade pública, e nesses casos não prevalece o prazo do primeiro dia útil. O §3º acrescenta que essa comunicação não exime a empresa da responsabilidade pela omissão. A enfermeira orienta o trabalhador e garante a notificação no SINAN, que é obrigação sanitária e independe da CAT: uma não substitui a outra.",
+  "porAlt": [
+   "Errada: o §2º autoriza outros a emitir a CAT quando a empresa se omite.",
+   "Correta: o §2º lista acidentado, dependentes, sindicato, médico assistente e qualquer autoridade pública.",
+   "Errada: a lei fala no médico que assistiu o trabalhador, sem exigir o médico da empresa.",
+   "Errada: quando outros emitem a CAT, o prazo do primeiro dia útil não prevalece.",
+   "Errada: SINAN é instrumento sanitário e CAT é previdenciário; um não substitui o outro."
+  ]
+ },
+ {
+  "q": "Uma costureira de 42 anos procura a UBS com dor e parestesia nos punhos que pioram durante o trabalho numa confecção com metas de produção. O médico suspeita de LER/DORT relacionada ao trabalho. Um colega sugere encaminhá-la direto ao CEREST, porque a UBS não atenderia doença ocupacional. Qual é a conduta correta?",
+  "alts": [
+   "Encaminhar ao CEREST, porta de entrada da doença do trabalho",
+   "Encaminhar ao SESMT da confecção, responsável pelo cuidado",
+   "Aguardar a CAT da empresa antes de notificar e acompanhar",
+   "Encaminhar ao INSS, que define a relação com o trabalho",
+   "Atender na UBS, notificar e usar o CEREST como apoio técnico"
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.728/2009 (RENAST), arts. 1º, §3º, e 7º; Portaria GM/MS 11.211/2026, Anexo I (item 44)",
+  "coment": "A Portaria GM/MS 2.728/2009 inclui as ações de saúde do trabalhador na atenção básica (art. 1º, §3º, II) e define o CEREST como serviço que dá subsídio técnico ao SUS nas ações de promoção, prevenção, vigilância, diagnóstico, tratamento e reabilitação (art. 7º). O CEREST é retaguarda técnica e pedagógica, não porta de entrada: a trabalhadora é acolhida e acompanhada na UBS, que pode discutir o caso com o centro. A LER/DORT relacionada ao trabalho é de notificação semanal no SINAN (item 44 da lista nacional), independentemente de CAT ou de vínculo formal.",
+  "porAlt": [
+   "Errada: o CEREST é retaguarda técnica da rede e não a porta de entrada do trabalhador.",
+   "Errada: o SESMT é serviço da empresa e não substitui o cuidado no SUS.",
+   "Errada: a notificação no SINAN e o acompanhamento não dependem da CAT.",
+   "Errada: a perícia do INSS tem fim previdenciário e não substitui o cuidado nem a notificação.",
+   "Correta: a atenção básica acolhe e notifica; o CEREST dá apoio técnico ao diagnóstico e à vigilância."
+  ]
+ },
+ {
+  "q": "Um município de 320 mil habitantes, com polo industrial, quer implantar um CEREST de abrangência municipal e usar a equipe do centro para fazer os exames periódicos dos servidores da prefeitura, no lugar do serviço especializado em segurança e medicina do trabalho. Segundo a Portaria GM/MS 2.728/2009, qual é a análise correta?",
+  "alts": [
+   "As duas são permitidas, com aprovação da comissão bipartite",
+   "O CEREST municipal é possível, mas não pode substituir o SESMT",
+   "As duas contrariam: falta população e o CEREST não substitui o SESMT",
+   "O CEREST não pode ser municipal, mas pode assumir o papel do SESMT",
+   "O CEREST municipal depende de aprovação do conselho municipal"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 2.728/2009 (RENAST), art. 7º, §§2º e 4º",
+  "coment": "O art. 7º da Portaria GM/MS 2.728/2009 permite CEREST de abrangência estadual, regional e municipal (§1º), mas condiciona o municipal a população superior a 500 mil habitantes (§2º). Com 320 mil, o município pode ser atendido por um CEREST regional, pactuado na comissão intergestores bipartite. O §4º proíbe os CEREST de assumir funções ou atribuições do SESMT ou similar, do setor público ou privado: exames periódicos dos servidores são obrigação do empregador, não da retaguarda técnica do SUS. As duas propostas contrariam a portaria.",
+  "porAlt": [
+   "Errada: a comissão bipartite não dispensa o limite populacional nem a vedação de substituir o SESMT.",
+   "Errada: o CEREST municipal exige mais de 500 mil habitantes, e o município tem 320 mil.",
+   "Correta: o §2º exige população acima de 500 mil e o §4º veda assumir funções do SESMT.",
+   "Errada: o §4º proíbe o CEREST de assumir as atribuições do SESMT.",
+   "Errada: o critério é populacional, e o conselho de saúde não o dispensa."
+  ]
+ },
+ {
+  "q": "A enfermeira de um CEREST regional discute com equipes da atenção primária quais quadros podem ser reconhecidos como doença do trabalho para fins previdenciários. Ela apresenta o art. 20 da Lei 8.213/1991 e o seu §1º. Segundo esse parágrafo, qual das situações a seguir a lei exclui do conceito de doença do trabalho?",
+  "alts": [
+   "Perda auditiva de metalúrgico exposto a ruído contínuo",
+   "Dermatose de pedreiro em contato diário com cimento",
+   "Doença degenerativa ou inerente ao grupo etário",
+   "Contaminação acidental de profissional no serviço",
+   "Endemia adquirida por contato exigido pelo trabalho"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Lei 8.213/1991, arts. 20, §1º, e 21, III",
+  "coment": "O art. 20 da Lei 8.213/1991 considera acidente do trabalho a doença profissional (produzida pelo trabalho peculiar a determinada atividade) e a doença do trabalho (adquirida em função de condições especiais em que o trabalho é realizado). O §1º exclui do conceito a doença degenerativa, a inerente a grupo etário, a que não produza incapacidade laborativa e a doença endêmica adquirida por habitante da região, salvo comprovação de que resultou de exposição ou contato direto determinado pela natureza do trabalho. Já o art. 21, III, equipara a acidente do trabalho a doença proveniente de contaminação acidental do empregado no exercício de sua atividade.",
+  "porAlt": [
+   "Errada: ruído ocupacional com perda auditiva é exemplo clássico de agravo relacionado ao trabalho.",
+   "Errada: dermatose por contato com cimento no trabalho é agravo relacionado ao trabalho.",
+   "Correta: o §1º do art. 20 exclui a doença degenerativa e a inerente a grupo etário.",
+   "Errada: o art. 21, III, equipara a contaminação acidental no trabalho a acidente do trabalho.",
+   "Errada: a endemia entra no conceito quando o contato decorre da natureza do trabalho."
+  ]
+ },
+ {
+  "q": "Um homem de 28 anos, que trabalha sem carteira assinada numa serralheria, chega à UPA com amputação traumática de dois dedos causada por uma serra durante o serviço. A enfermeira questiona se o caso deve ser notificado, já que não há vínculo formal nem CAT emitida. Pela lista nacional vigente, qual é a conduta correta?",
+  "alts": [
+   "Não notificar, pois sem vínculo não há acidente de trabalho",
+   "Notificar quando a empresa emitir a CAT para o trabalhador",
+   "Notificar na rotina semanal, como doença relacionada ao trabalho",
+   "Notificar de imediato à SMS, independentemente do vínculo",
+   "Notificar de imediato às três esferas, por ser acidente grave"
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 11.211/2026, Anexo I (item 1, b); Lei 8.213/1991, art. 22",
+  "coment": "Na lista nacional republicada pela Portaria GM/MS 11.211/2026, o acidente de trabalho (item 1, b) tem notificação imediata, em até 24 horas, apenas para a secretaria municipal de saúde. A notificação no SINAN é obrigação sanitária e independe do vínculo de trabalho: trabalhadores informais, autônomos e sem carteira também são notificados, porque a vigilância precisa enxergar onde os acidentes acontecem. A CAT, do art. 22 da Lei 8.213/1991, é instrumento previdenciário devido pelo empregador do segurado e não substitui a notificação. O acidente com material biológico e as doenças relacionadas ao trabalho é que são semanais.",
+  "porAlt": [
+   "Errada: a notificação sanitária independe de carteira assinada ou de vínculo formal.",
+   "Errada: a CAT é previdenciária; o SINAN não depende dela.",
+   "Errada: amputação por serra é acidente de trabalho, imediato à SMS, e não doença semanal.",
+   "Correta: acidente de trabalho é notificação imediata à SMS, com ou sem vínculo formal.",
+   "Errada: o acidente de trabalho tem notificação imediata só para a secretaria municipal."
+  ]
+ },
+ {
+  "q": "Uma enfermeira do trabalho de um frigorífico acompanha um operador de desossa afastado por tendinite do ombro. A perícia do INSS caracterizou a natureza acidentária da incapacidade sem que a empresa tivesse emitido CAT, ao cruzar o CID do afastamento com a atividade econômica da empresa. Qual mecanismo legal fundamenta essa decisão e o que a empresa pode fazer?",
+  "alts": [
+   "Nexo técnico epidemiológico; a empresa pode pedir a não aplicação",
+   "Equiparação por concausa; a decisão da perícia é irrecorrível",
+   "Doença profissional da lista; só o sindicato pode contestar",
+   "Notificação no SINAN; a empresa deve emitir a CAT tardia",
+   "Nexo técnico epidemiológico; cabe à Justiça do Trabalho afastá-lo"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "Lei 8.213/1991, art. 21-A, §§1º e 2º (redação da Lei Complementar 150/2015)",
+  "coment": "O art. 21-A da Lei 8.213/1991 manda a perícia médica do INSS caracterizar a natureza acidentária da incapacidade quando constatar nexo técnico epidemiológico entre o trabalho e o agravo, decorrente da relação entre a atividade da empresa e a entidade mórbida motivadora da incapacidade, elencada na CID. Não depende de CAT. O §1º afasta o nexo quando demonstrada a sua inexistência, e o §2º permite à empresa requerer a não aplicação do nexo, com recurso, de efeito suspensivo, ao Conselho de Recursos da Previdência Social. O mecanismo inverte o ônus: é a empresa que precisa provar que o agravo não decorre do trabalho.",
+  "porAlt": [
+   "Correta: o art. 21-A institui o nexo técnico epidemiológico, e o §2º permite à empresa contestá-lo.",
+   "Errada: o cruzamento CID × atividade é o nexo técnico epidemiológico, e cabe recurso.",
+   "Errada: a decisão não se baseou em lista de doença profissional, e a empresa pode contestar.",
+   "Errada: o SINAN é instrumento sanitário e não fundamenta decisão previdenciária.",
+   "Errada: a própria lei prevê o pedido da empresa e o recurso no âmbito previdenciário."
+  ]
+ },
+ {
+  "q": "Numa casa de parto, a enfermeira obstetra assiste um parto normal sem intercorrências. Antes da alta, ela preenche o documento que alimentará o sistema usado como denominador das taxas de mortalidade infantil e materna do município. Qual é esse documento e o sistema de informação correspondente?",
+  "alts": [
+   "Declaração de Nascido Vivo, que alimenta o SIM",
+   "Ficha de notificação, que alimenta o SINAN",
+   "Autorização de internação, que alimenta o SIH",
+   "Caderneta da gestante, que alimenta o SISAB",
+   "Declaração de Nascido Vivo, que alimenta o SINASC"
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008 (SINASC)",
+  "coment": "O SINASC tem como documento de entrada a Declaração de Nascido Vivo, preenchida pelo profissional de saúde que assistiu o parto ou o recém-nascido, o que inclui a enfermeira obstetra. Seus dados sobre peso ao nascer, idade gestacional, consultas de pré-natal e tipo de parto descrevem as condições de nascimento, e o total de nascidos vivos é o denominador da taxa de mortalidade infantil (por mil) e da razão de mortalidade materna (por 100 mil). O SIM recebe a Declaração de Óbito; o SINAN, as fichas de agravos notificáveis; o SIH, as autorizações de internação.",
+  "porAlt": [
+   "Errada: o SIM é alimentado pela Declaração de Óbito, e não pela de nascido vivo.",
+   "Errada: a ficha do SINAN registra agravos da lista, e o parto não é agravo notificável.",
+   "Errada: a AIH alimenta o SIH com dados de faturamento, não o denominador dos indicadores.",
+   "Errada: o SISAB recebe a produção da atenção primária, e não o registro do nascimento.",
+   "Correta: a Declaração de Nascido Vivo alimenta o SINASC, denominador da mortalidade infantil."
+  ]
+ },
+ {
+  "q": "Uma residente quer estimar quantas pessoas tiveram dengue no município em 2025 e consulta o número de internações por dengue pagas pelo SUS. A enfermeira da vigilância aponta que essa fonte mede outra coisa. Qual sistema de informação registra os casos notificados e qual registra as internações?",
+  "alts": [
+   "SIH registra casos notificados; SINAN registra as internações",
+   "SIM registra casos notificados; SIA registra as internações",
+   "SINASC registra casos notificados; SIH registra os óbitos",
+   "SINAN registra casos notificados; SIH registra as internações",
+   "SI-PNI registra casos notificados; SIA registra internações"
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria de Consolidação GM/MS 4/2017, Anexo V (registro no SINAN); Portaria GM/MS 11.211/2026, Anexo I (item 9)",
+  "coment": "O SINAN recebe as fichas de notificação e de investigação dos agravos da lista nacional; o caso de dengue é notificado semanalmente, e o óbito, de forma imediata (item 9 do Anexo I da Portaria GM/MS 11.211/2026). O SIH/SUS registra as internações financiadas pelo SUS a partir da Autorização de Internação Hospitalar, com origem administrativa e de faturamento. Contar internações subestima os casos, porque a maioria é tratada sem internação, e ignora a rede privada. O SIA registra produção ambulatorial, o SIM os óbitos e o SINASC os nascimentos.",
+  "porAlt": [
+   "Errada: inverte os sistemas; o SIH registra internações e o SINAN os agravos notificados.",
+   "Errada: o SIM registra óbitos, e o SIA registra produção ambulatorial, não internações.",
+   "Errada: o SINASC registra nascidos vivos, e os óbitos ficam no SIM.",
+   "Correta: o caso notificado vai ao SINAN, e a internação paga pelo SUS ao SIH por meio da AIH.",
+   "Errada: o SI-PNI registra doses de vacina, e o SIA não registra internações."
+  ]
+ },
+ {
+  "q": "A coordenação da atenção primária quer acompanhar a cobertura vacinal contra o sarampo, as taxas de abandono de esquemas e os eventos supostamente atribuíveis à vacinação no município. A enfermeira responsável pela sala de vacinas explica que esses dados saem do registro nominal de cada dose aplicada. Em qual sistema de informação?",
+  "alts": [
+   "SINAN, dos agravos de notificação compulsória",
+   "SI-PNI, do Programa Nacional de Imunizações",
+   "SINASC, das declarações de nascido vivo",
+   "SIA/SUS, da produção ambulatorial do SUS",
+   "SIH/SUS, das autorizações de internação"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 6.259/1975 (Programa Nacional de Imunizações); Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "O SI-PNI, sistema do Programa Nacional de Imunizações, recebe o registro nominal de cada dose aplicada e permite calcular coberturas vacinais, taxas de abandono e acompanhar os eventos supostamente atribuíveis à vacinação ou imunização. O registro nominal, por pessoa, permite saber quem está atrasado e fazer busca ativa, o que o antigo registro agregado de doses não permitia. O SINAN recebe os agravos de notificação compulsória; o SINASC, os nascimentos; o SIA e o SIH, a produção ambulatorial e hospitalar do SUS.",
+  "porAlt": [
+   "Errada: o SINAN registra agravos notificáveis, e não as doses aplicadas e as coberturas.",
+   "Correta: o SI-PNI registra cada dose de forma nominal e gera cobertura, abandono e ESAVI.",
+   "Errada: o SINASC registra nascimentos, que servem de denominador, e não as doses aplicadas.",
+   "Errada: o SIA registra produção ambulatorial para faturamento, sem calcular cobertura vacinal.",
+   "Errada: o SIH registra internações hospitalares, e não vacinação."
+  ]
+ },
+ {
+  "q": "Um homem de 80 anos em cuidados paliativos morre em casa, acompanhado pela equipe de Saúde da Família. A família pede à enfermeira da equipe que preencha o documento do óbito para o sepultamento. Qual é esse documento, quem o emite e qual sistema de informação ele alimenta?",
+  "alts": [
+   "Declaração de Óbito, emitida pela enfermeira, que alimenta o SIM",
+   "Certidão de óbito, emitida pela enfermeira, que alimenta o SINAN",
+   "Declaração de Óbito, emitida pelo médico, que alimenta o SINASC",
+   "Ficha de notificação de óbito, feita pela equipe, que vai ao SIH",
+   "Declaração de Óbito, emitida pelo médico, que alimenta o SIM"
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008 (SIM)",
+  "coment": "O Sistema de Informações sobre Mortalidade (SIM) tem como documento de entrada a Declaração de Óbito, emitida pelo médico. Ela registra a causa básica, a idade, o sexo e o local do óbito e é a base da vigilância do óbito materno, infantil e fetal. Com a declaração, a família obtém no cartório a certidão de óbito, que é documento civil e não alimenta sistema de saúde. A enfermeira orienta a família e aciona o médico da equipe, mas não emite a declaração. O SINASC registra nascimentos, e o SIH, internações.",
+  "porAlt": [
+   "Errada: a Declaração de Óbito é emitida pelo médico, e não pela enfermeira.",
+   "Errada: a certidão é emitida pelo cartório e não alimenta o SINAN.",
+   "Errada: o SINASC registra nascidos vivos, e o óbito vai ao SIM.",
+   "Errada: não há ficha de óbito para o SIH, que registra internações pagas pelo SUS.",
+   "Correta: a Declaração de Óbito, emitida pelo médico, é o documento de entrada do SIM."
+  ]
+ },
+ {
+  "q": "Uma enfermeira que trabalhou na Estratégia Saúde da Família nos anos 2000 volta à atenção primária e pergunta onde ficam hoje os dados de produção e os indicadores das equipes, antes consolidados no SIAB. A coordenadora explica a estratégia de informação atual. Qual é a resposta correta?",
+  "alts": [
+   "O SIAB segue em uso, agora com envio mensal pela internet",
+   "Os dados da atenção primária passaram a ir para o SINAN",
+   "O e-SUS APS, por prontuário ou coleta, alimenta o SISAB",
+   "A produção da atenção primária vai ao SIH, por meio da AIH",
+   "O SIA/SUS substituiu o SIAB, com boletins de produção"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB); RIPSA. Indicadores básicos para a saúde no Brasil, 2ª ed., 2008",
+  "coment": "O Sistema de Informação em Saúde para a Atenção Básica (SISAB) substituiu o antigo SIAB. Ele é alimentado pela estratégia e-SUS APS, que tem dois sistemas de captação: o Prontuário Eletrônico do Cidadão (PEC), usado nas unidades informatizadas, e a Coleta de Dados Simplificada (CDS), por fichas. Os dados são individualizados, por cidadão, e geram a produção e os indicadores das equipes. O SINAN registra agravos de notificação, o SIH registra internações e o SIA registra produção ambulatorial para faturamento, sem substituir o sistema próprio da atenção primária.",
+  "porAlt": [
+   "Errada: o SIAB foi substituído pelo SISAB e não segue em uso.",
+   "Errada: o SINAN recebe agravos notificáveis, não a produção da atenção primária.",
+   "Correta: o e-SUS APS, com PEC ou CDS, alimenta o SISAB, que substituiu o SIAB.",
+   "Errada: o SIH registra internações, e a atenção primária não usa AIH.",
+   "Errada: o SIA registra produção ambulatorial para faturamento e não substituiu o SIAB."
+  ]
+ },
+ {
+  "q": "Uma mulher de 54 anos com câncer de mama faz quimioterapia ambulatorial num hospital habilitado em oncologia, sem internação. A enfermeira do setor confere com o faturamento o instrumento que autoriza e registra esse procedimento de alta complexidade. Em qual sistema de informação o procedimento é registrado?",
+  "alts": [
+   "SIA/SUS, por meio da APAC",
+   "SIH/SUS, por meio da AIH",
+   "SINAN, pela ficha de agravo",
+   "SISAB, pela ficha de coleta",
+   "SIM, pela declaração própria"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008 (fontes de dados)",
+  "coment": "O SIA/SUS registra a produção ambulatorial do SUS por meio dos boletins de produção ambulatorial e da Autorização de Procedimento Ambulatorial de Alta Complexidade (APAC), usada em procedimentos como quimioterapia, radioterapia e terapia renal substitutiva. Por isso a quimioterapia sem internação é registrada no SIA. Se a paciente fosse internada, a internação seria registrada no SIH por meio da AIH. O SINAN recebe agravos de notificação compulsória, o SISAB a produção da atenção primária e o SIM os óbitos. Sistemas de origem administrativa, como SIA e SIH, também servem à análise de morbidade.",
+  "porAlt": [
+   "Correta: procedimento ambulatorial de alta complexidade é registrado no SIA por meio da APAC.",
+   "Errada: a AIH e o SIH registram internações, e a quimioterapia foi ambulatorial.",
+   "Errada: câncer de mama não relacionado ao trabalho não é agravo da lista do SINAN.",
+   "Errada: o SISAB recebe a produção da atenção primária, não a oncologia de alta complexidade.",
+   "Errada: o SIM registra óbitos e não procedimentos ambulatoriais."
+  ]
+ },
+ {
+  "q": "Para investigar casos de leptospirose num bairro após uma enchente, a vigilância comparou 50 doentes com 100 vizinhos sadios. Entre os doentes, 35 relataram contato com água de alagamento; entre os sadios, 25 relataram o mesmo contato. A enfermeira participa da análise. Que desenho de estudo e que medida de associação correspondem a esses dados?",
+  "alts": [
+   "Coorte, com risco relativo igual a 2,8",
+   "Caso-controle, com odds ratio igual a 7",
+   "Caso-controle, com risco relativo de 1,4",
+   "Transversal, com razão de prevalência de 2,8",
+   "Coorte, com odds ratio igual a 0,14"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Fletcher GS. Epidemiologia clínica: elementos essenciais, 6ª ed., 2021",
+  "coment": "O estudo parte do desfecho (doentes e sadios) e compara a exposição passada: é um caso-controle, cuja medida é a odds ratio. Na tabela 2 × 2: a = 35 casos expostos, c = 15 casos não expostos, b = 25 controles expostos, d = 75 controles não expostos. OR = (a × d) ÷ (b × c) = (35 × 75) ÷ (25 × 15) = 2.625 ÷ 375 = 7. A chance de exposição à água de alagamento foi sete vezes maior entre os doentes. Risco relativo exige incidência, o que o caso-controle não fornece, porque o pesquisador fixa o número de casos e de controles. Dividir 0,70 por 0,25 (2,8) seria tratar os grupos como coortes.",
+  "porAlt": [
+   "Errada: o estudo parte do desfecho, e 0,70 ÷ 0,25 não é risco relativo num caso-controle.",
+   "Correta: parte de doentes e sadios; OR = (35 × 75) ÷ (25 × 15) = 7.",
+   "Errada: caso-controle não estima risco relativo, e 35 ÷ 25 ignora o tamanho dos grupos.",
+   "Errada: no transversal, exposição e desfecho seriam medidos juntos numa amostra da população.",
+   "Errada: o estudo não é coorte, e 0,14 é a odds ratio invertida."
+  ]
+ },
+ {
+  "q": "Numa coorte de profissionais de enfermagem, 200 trabalhadores do turno noturno e 400 do diurno, todos sem hipertensão no início, foram acompanhados por cinco anos. Desenvolveram hipertensão 30 trabalhadores do turno noturno e 20 do diurno. Qual é o risco relativo de hipertensão associado ao trabalho noturno e como interpretá-lo?",
+  "alts": [
+   "RR de 1,5: risco 50% maior no turno noturno",
+   "RR de 0,33: o turno noturno protege da doença",
+   "RR de 10: diferença de 10 pontos entre turnos",
+   "RR de 3: risco três vezes maior no turno noturno",
+   "RR de 3,35: chance três vezes maior à noite"
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Fletcher GS. Epidemiologia clínica: elementos essenciais, 6ª ed., 2021",
+  "coment": "A coorte parte da exposição e conta casos novos, por isso permite calcular incidência e risco relativo. Incidência no turno noturno: 30 ÷ 200 = 15%. No diurno: 20 ÷ 400 = 5%. RR = 15% ÷ 5% = 3: quem trabalha à noite teve três vezes o risco de desenvolver hipertensão no período. A diferença de risco é de 10 pontos percentuais (15% − 5%), que é o risco atribuível, e não o RR. Dividir os números absolutos de casos (30 ÷ 20) ignora que os grupos têm tamanhos diferentes. A odds ratio, (30 × 380) ÷ (170 × 20) ≈ 3,35, é a medida típica do caso-controle.",
+  "porAlt": [
+   "Errada: 30 ÷ 20 compara números absolutos e ignora que os grupos têm tamanhos diferentes.",
+   "Errada: 0,33 é o RR invertido; o turno noturno é o grupo exposto, com maior risco.",
+   "Errada: 10 pontos percentuais é a diferença de risco, e não o risco relativo.",
+   "Correta: incidência de 15% no noturno ÷ 5% no diurno = RR de 3.",
+   "Errada: 3,35 é a odds ratio, medida típica do caso-controle, e não o RR da coorte."
+  ]
+ },
+ {
+  "q": "Um ensaio clínico avaliou um curativo com prata para prevenir infecção do sítio cirúrgico. A infecção ocorreu em 9% do grupo intervenção e em 12% do grupo controle, com risco relativo de 0,75 e intervalo de confiança de 95% de 0,55 a 1,02. A enfermeira apresenta o estudo à comissão de curativos. Qual é a leitura correta?",
+  "alts": [
+   "Não houve diferença significativa, pois o intervalo inclui 1",
+   "Redução significativa de 25%, pois o RR ficou abaixo de 1",
+   "Redução significativa de 75% no risco de infecção do sítio",
+   "Aumento de 2% no risco, pelo limite superior de 1,02",
+   "Redução absoluta significativa de 25 pontos percentuais"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Fletcher GS. Epidemiologia clínica: elementos essenciais, 6ª ed., 2021",
+  "coment": "Para medidas de razão, como RR e odds ratio, o valor nulo é 1. Se o intervalo de confiança de 95% contém 1, o resultado não é estatisticamente significativo ao nível de 5%: os dados são compatíveis tanto com redução de 45% quanto com aumento de 2% no risco. O RR de 0,75 corresponderia a redução relativa de 25% (1 − 0,75), e a redução absoluta seria de 3 pontos percentuais (12% − 9%), mas nenhuma delas pode ser afirmada como significativa. O intervalo largo sugere falta de poder: o estudo não prova benefício nem o exclui. Ler 0,75 como redução de 75% é erro clássico.",
+  "porAlt": [
+   "Correta: o IC 95% de 0,55 a 1,02 contém o valor nulo 1, logo não há significância.",
+   "Errada: um RR abaixo de 1 só é significativo se o intervalo inteiro ficar abaixo de 1.",
+   "Errada: RR de 0,75 equivaleria a 25% de redução relativa, e ainda sem significância.",
+   "Errada: o limite superior mostra apenas que um pequeno aumento é compatível com os dados.",
+   "Errada: a diferença absoluta é de 3 pontos (12% − 9%) e não é significativa."
+  ]
+ },
+ {
+  "q": "Em março de 2026, a enfermeira de uma UBS aplicou questionário e aferiu a pressão arterial de 400 adultos sorteados do cadastro, registrando no mesmo encontro o consumo de sal referido e a presença de hipertensão. Ela encontrou mais hipertensão entre os que referiam alto consumo de sal. Que desenho de estudo foi usado e qual é a medida típica?",
+  "alts": [
+   "Coorte, com risco relativo entre os grupos",
+   "Caso-controle, com odds ratio de exposição",
+   "Ecológico, com correlação entre as médias",
+   "Ensaio clínico, com redução relativa do risco",
+   "Transversal, com a razão de prevalências"
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Fletcher GS. Epidemiologia clínica: elementos essenciais, 6ª ed., 2021",
+  "coment": "No estudo transversal, exposição e desfecho são medidos no mesmo momento, numa amostra da população; a medida típica é a prevalência e, para comparar grupos, a razão de prevalências. É o desenho dos inquéritos de saúde. Sua principal limitação é não estabelecer temporalidade: não se sabe se o alto consumo de sal veio antes da hipertensão ou se o diagnóstico mudou o hábito (causalidade reversa). Na coorte, os participantes seriam seguidos a partir da exposição; no caso-controle, o ponto de partida seria o desfecho; no ecológico, a unidade seria o grupo; no ensaio clínico, o pesquisador alocaria a intervenção.",
+  "porAlt": [
+   "Errada: não houve seguimento no tempo a partir da exposição, como numa coorte.",
+   "Errada: o estudo não partiu de doentes e sadios, e sim de uma amostra do cadastro.",
+   "Errada: a unidade de análise foi o indivíduo, e não grupos populacionais.",
+   "Errada: a enfermeira não alocou nenhuma intervenção entre os participantes.",
+   "Correta: exposição e desfecho medidos no mesmo momento definem o transversal e a razão de prevalências."
+  ]
+ },
+ {
+  "q": "Uma residente comparou os 184 municípios de um estado e observou que aqueles com maior cobertura da Estratégia Saúde da Família tinham menores taxas de internação por condições sensíveis à atenção primária. Ela concluiu que cada pessoa acompanhada por equipe teve menor risco de internação. Qual é o desenho do estudo e o problema dessa conclusão?",
+  "alts": [
+   "Coorte; faltou acompanhar cada morador ao longo de vários anos",
+   "Transversal; não há como saber se a exposição veio primeiro",
+   "Ecológico; associação entre grupos pode não valer para o indivíduo",
+   "Caso-controle; há viés de memória sobre o acompanhamento recebido",
+   "Ensaio clínico; faltou sortear os municípios acompanhados"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Fletcher GS. Epidemiologia clínica: elementos essenciais, 6ª ed., 2021",
+  "coment": "Quando a unidade de análise é o grupo (município, estado, país), e não o indivíduo, o estudo é ecológico; a medida típica é a correlação entre taxas. Ele é barato, usa dados secundários, gera hipóteses e ajuda a avaliar políticas, mas não permite concluir que a associação observada entre os municípios se repete em cada pessoa: é a falácia ecológica. Os municípios com maior cobertura podem diferir em renda, rede hospitalar e outros fatores, e não se sabe se as pessoas que deixaram de internar eram as acompanhadas. Para afirmar risco individual, seria preciso um desenho com dados individuais, como uma coorte.",
+  "porAlt": [
+   "Errada: não houve seguimento de indivíduos; os dados são agregados por município.",
+   "Errada: o problema central não é temporalidade, e a unidade de análise não é o indivíduo.",
+   "Correta: dados agregados por município definem o ecológico, sujeito à falácia ecológica.",
+   "Errada: não houve seleção de casos e controles nem entrevista sobre exposição passada.",
+   "Errada: não houve intervenção alocada pelo pesquisador; o estudo é observacional."
+  ]
+ },
+ {
+  "q": "Um ensaio clínico randomizado com 1.000 idosos internados testou um protocolo de enfermagem para prevenir delirium. O desfecho ocorreu em 20% do grupo controle e em 12% do grupo intervenção, com risco relativo de 0,60 e intervalo de confiança de 95% de 0,45 a 0,80. A enfermeira pesquisadora resume os resultados para a comissão de qualidade. Qual síntese está correta?",
+  "alts": [
+   "Redução relativa de 60%, absoluta de 8 pontos e NNT de 13",
+   "Redução relativa de 40%, absoluta de 8 pontos e NNT de 13",
+   "Redução relativa de 40%, absoluta de 40 pontos e NNT de 3",
+   "Redução relativa de 40%, sem significância pelo IC largo",
+   "Redução relativa de 8%, absoluta de 40 pontos e NNT de 8"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "tit",
+  "base": "Fletcher GS. Epidemiologia clínica: elementos essenciais, 6ª ed., 2021; CONSORT 2010",
+  "coment": "Risco relativo = 12% ÷ 20% = 0,60. Redução relativa do risco = 1 − 0,60 = 40%. Redução absoluta = 20% − 12% = 8 pontos percentuais. Número necessário tratar = 1 ÷ 0,08 = 12,5, arredondado para cima: 13 idosos precisam receber o protocolo durante a internação para evitar um caso de delirium. O intervalo de confiança de 0,45 a 0,80 está inteiro abaixo de 1, portanto o resultado é estatisticamente significativo. Ler o RR (0,60) como redução de 60% inverte o raciocínio, e confundir redução relativa com absoluta superestima o benefício para o paciente individual.",
+  "porAlt": [
+   "Errada: 0,60 é o RR; a redução relativa é 1 − 0,60 = 40%.",
+   "Correta: RRR = 1 − 0,60 = 40%, RRA = 20% − 12% = 8 pontos e NNT = 1 ÷ 0,08 ≈ 13.",
+   "Errada: a redução absoluta é a diferença dos riscos (8 pontos), e não a relativa de 40%.",
+   "Errada: o IC de 0,45 a 0,80 não contém 1, e o resultado é significativo.",
+   "Errada: inverte as reduções relativa e absoluta e calcula o NNT a partir do valor errado."
   ]
  }
 ]

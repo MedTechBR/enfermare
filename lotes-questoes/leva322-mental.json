@@ -1,0 +1,877 @@
+[
+ {
+  "q": "A secretária de saúde de um município de 18 mil habitantes, que ainda não tem nenhum CAPS, pretende habilitar um serviço diurno para adultos com esquizofrenia e para pessoas com uso problemático de álcool. A enfermeira da coordenação de saúde mental é chamada a opinar. Pelo critério populacional vigente da Rede de Atenção Psicossocial, qual modalidade é compatível com esse município?",
+  "alts": [
+   "Nenhuma, pois o CAPS I exige mais de 20 mil habitantes.",
+   "CAPS AD, pois o uso de álcool define o público do serviço.",
+   "CAPS i, por ser a modalidade de menor porte populacional da rede.",
+   "CAPS I, indicado para municípios acima de 15 mil habitantes.",
+   "CAPS III, por atender transtornos graves e persistentes."
+  ],
+  "gab": 3,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria de Consolidação GM/MS 3/2017, Anexo V (origem: Portaria GM/MS 3.088/2011, republicada em 2013)",
+  "coment": "O CAPS I é indicado para municípios ou regiões acima de 15 mil habitantes e atende pessoas de todas as idades com transtornos mentais graves e persistentes, inclusive pelo uso de substâncias, em funcionamento diurno. Por isso cobre, no mesmo serviço, o adulto com esquizofrenia e o usuário de álcool. O número de 20 mil é da redação original de dezembro de 2011, alterada na republicação da Portaria 3.088 em 2013, hoje consolidada no Anexo V da PRC 3/2017. CAPS AD e CAPS i pedem população acima de 70 mil, e o CAPS III, acima de 150 mil, com funcionamento 24 horas.",
+  "porAlt": [
+   "Errada: 20 mil é o critério da redação de 2011, alterado na republicação de 2013.",
+   "Errada: o CAPS AD é indicado para municípios acima de 70 mil habitantes.",
+   "Errada: o CAPS i, voltado a crianças e adolescentes, pede mais de 70 mil habitantes.",
+   "Correta: o CAPS I é indicado acima de 15 mil habitantes e atende também o uso de substâncias.",
+   "Errada: o CAPS III é indicado acima de 150 mil habitantes e funciona 24 horas."
+  ]
+ },
+ {
+  "q": "Em uma oficina de planejamento regional em 2026, a enfermeira apresenta o desenho da Rede de Atenção Psicossocial e precisa indicar qual dispositivo continua sendo ponto de atenção da rede depois da revogação da Portaria 3.588/2017. Considerando a Portaria GM/MS 757/2023, qual dispositivo integra hoje a RAPS?",
+  "alts": [
+   "Hospital psiquiátrico especializado, na atenção hospitalar.",
+   "CAPS AD IV, para cenas de uso em municípios acima de 500 mil habitantes.",
+   "Hospital-dia, como retaguarda entre o CAPS e a internação.",
+   "Leitos de saúde mental em hospital geral, na atenção hospitalar.",
+   "Equipe multiprofissional de atenção especializada ambulatorial."
+  ],
+  "gab": 3,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 757/2023 (revoga a Portaria 3.588/2017) e Portaria de Consolidação GM/MS 3/2017, Anexo V",
+  "coment": "A Portaria 3.588/2017 tinha incluído na RAPS o hospital psiquiátrico especializado, o hospital-dia, o CAPS AD IV e as equipes multiprofissionais de atenção especializada. Em 21 de junho de 2023, a Portaria GM/MS 757 revogou a 3.588 e os dispositivos que ela inseriu nas Portarias de Consolidação 3 e 6, devolvendo a vigência às redações anteriores. No componente de atenção hospitalar, permanecem os leitos de saúde mental em hospital geral (serviço hospitalar de referência), para internação breve articulada com o CAPS. Os serviços já habilitados mantêm o custeio até nova regulamentação, mas deixaram de ser pontos da rede.",
+  "porAlt": [
+   "Errada: o hospital psiquiátrico deixou de ser ponto da RAPS com a Portaria 757/2023.",
+   "Errada: o CAPS AD IV foi criado pela Portaria 3.588/2017 e revogado em 2023.",
+   "Errada: o hospital-dia saiu da RAPS com a revogação da Portaria 3.588/2017.",
+   "Correta: os leitos em hospital geral formam o componente de atenção hospitalar vigente da RAPS.",
+   "Errada: as equipes ambulatoriais especializadas também saíram da rede em 2023."
+  ]
+ },
+ {
+  "q": "Homem de 31 anos, em uso diário de crack, dorme na rua desde que rompeu com a família e é acompanhado pelo CAPS AD do território, onde tem Projeto Terapêutico Singular. A equipe do Consultório na Rua sugere moradia transitória em Unidade de Acolhimento. Segundo as regras da RAPS, como se define a entrada desse usuário no serviço?",
+  "alts": [
+   "Pela equipe do Consultório na Rua, responsável pelo primeiro vínculo.",
+   "Pela central de regulação de leitos, após laudo médico circunstanciado.",
+   "Por decisão do Ministério Público, informado da vulnerabilidade social.",
+   "Por pedido do próprio usuário, sem participação do CAPS no cuidado.",
+   "Exclusivamente pela equipe do CAPS de referência, que mantém o PTS."
+  ],
+  "gab": 4,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria de Consolidação GM/MS 3/2017, Anexo V (Unidade de Acolhimento, componente de atenção residencial de caráter transitório)",
+  "coment": "A Unidade de Acolhimento integra o componente de atenção residencial de caráter transitório da RAPS: é moradia de 24 horas, por até seis meses, para quem usa crack, álcool e outras drogas e tem acentuada vulnerabilidade social ou familiar. A entrada é definida exclusivamente pela equipe do CAPS de referência, que continua responsável pelo Projeto Terapêutico Singular durante a permanência. O Consultório na Rua pode identificar a necessidade e discutir o caso, mas não decide a entrada; a Unidade de Acolhimento não é leito regulado nem exige laudo de internação, porque não é internação.",
+  "porAlt": [
+   "Errada: o Consultório na Rua pode sugerir, mas a decisão de entrada cabe ao CAPS.",
+   "Errada: a Unidade de Acolhimento é moradia transitória, não leito regulado com laudo.",
+   "Errada: o Ministério Público não participa da entrada em serviço residencial da RAPS.",
+   "Errada: o CAPS segue responsável pelo PTS e decide a entrada do usuário.",
+   "Correta: a entrada na Unidade de Acolhimento é definida exclusivamente pelo CAPS de referência."
+  ]
+ },
+ {
+  "q": "Mulher de 38 anos, com dependência de álcool e de cocaína, está em acolhimento noturno no CAPS AD III do município e já completou 14 dias de permanência nos últimos 30. A equipe avalia que ela ainda precisa de moradia protegida por algumas semanas, sem indicação clínica de internação. Pelas regras da RAPS, qual encaminhamento é coerente?",
+  "alts": [
+   "Encaminhar para a Unidade de Acolhimento, mantendo o PTS no CAPS.",
+   "Prorrogar o acolhimento noturno no CAPS AD III por mais 14 dias.",
+   "Transferir para leito de saúde mental em hospital geral até a alta.",
+   "Encaminhar para comunidade terapêutica em internação involuntária.",
+   "Encaminhar para Serviço Residencial Terapêutico com cuidadores."
+  ],
+  "gab": 0,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "Portaria de Consolidação GM/MS 3/2017, Anexo V (CAPS AD III e Unidade de Acolhimento)",
+  "coment": "O CAPS AD III funciona 24 horas, todos os dias, com acolhimento noturno e retaguarda clínica. No acolhimento noturno, o mesmo usuário permanece no máximo 14 dias em um período de 30. Quando a necessidade de moradia protegida se estende, sem indicação de internação, o caminho previsto é a Unidade de Acolhimento, moradia transitória de até seis meses, cuja entrada é definida pelo próprio CAPS de referência, que segue com o Projeto Terapêutico Singular. O leito em hospital geral é para internação breve, a comunidade terapêutica não admite internação e a residência terapêutica é para egressos de internação de longa permanência.",
+  "porAlt": [
+   "Correta: passado o limite de 14 dias em 30, a continuidade se dá na Unidade de Acolhimento.",
+   "Errada: o acolhimento noturno tem teto de 14 dias no período de 30 dias.",
+   "Errada: não há indicação clínica de internação, e o leito é para internação breve.",
+   "Errada: é vedada qualquer modalidade de internação em comunidade terapêutica.",
+   "Errada: a residência terapêutica é para egressos de internação de dois anos ou mais."
+  ]
+ },
+ {
+  "q": "Um hospital psiquiátrico em processo de fechamento tem 24 moradores internados de forma ininterrupta há mais de dois anos, a maioria com autonomia preservada para as atividades diárias. A enfermeira da equipe de desinstitucionalização planeja casas do tipo I do Serviço Residencial Terapêutico. Pela redação vigente após a Portaria 757/2023, quantos moradores cabem, no máximo, em cada casa desse tipo?",
+  "alts": [
+   "Dez moradores.",
+   "Seis moradores.",
+   "Oito moradores.",
+   "Doze moradores.",
+   "Quatro moradores."
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 757/2023 e Portaria de Consolidação GM/MS 3/2017, Anexo V (Serviço Residencial Terapêutico)",
+  "coment": "O Serviço Residencial Terapêutico é casa na comunidade para egressos de internação psiquiátrica de longa permanência, de dois anos ou mais ininterruptos, e faz parte das estratégias de desinstitucionalização da RAPS. O tipo I, para moradores com autonomia, comporta até 8 pessoas; o tipo II, para quem tem acentuada dependência, até 10, com cuidadores e técnico de enfermagem. A Portaria 3.588/2017 tinha elevado o tipo I para 10 moradores, mas foi revogada pela Portaria 757/2023, que devolveu a vigência à redação anterior. Para 24 moradores do perfil descrito, seriam necessárias ao menos três casas do tipo I.",
+  "porAlt": [
+   "Errada: 10 era o limite do tipo I pela Portaria 3.588/2017, revogada, e é o do tipo II.",
+   "Errada: seis moradores não é o limite fixado para nenhum tipo de residência.",
+   "Correta: o tipo I voltou ao limite de 8 moradores com a Portaria 757/2023.",
+   "Errada: doze moradores excede os limites dos tipos I e II da residência terapêutica.",
+   "Errada: quatro moradores não corresponde ao teto do tipo I na norma vigente."
+  ]
+ },
+ {
+  "q": "Jovem de 24 anos chega sozinho ao CAPS II do bairro, sem encaminhamento, dizendo que ouve vozes há meses e que parou de trabalhar. A recepcionista pergunta à enfermeira se ele deve passar antes pela unidade básica para obter guia de referência. Considerando o modo de funcionamento do CAPS, qual é a orientação correta da enfermeira?",
+  "alts": [
+   "Encaminhar à UBS, pois o CAPS só recebe usuários referenciados.",
+   "Agendar consulta psiquiátrica antes de abrir prontuário no CAPS.",
+   "Orientar que procure o pronto-socorro por ter sintoma psicótico.",
+   "Acolher no mesmo dia, pois o CAPS é serviço de porta aberta.",
+   "Exigir a presença de familiar para iniciar o acolhimento no CAPS."
+  ],
+  "gab": 3,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria de Consolidação GM/MS 3/2017, Anexo V (Centro de Atenção Psicossocial)",
+  "coment": "O CAPS é serviço aberto e comunitário, de porta aberta: não exige encaminhamento nem guia de referência. Destina-se a pessoas com transtornos mentais graves e persistentes e sofrimento pelo uso de substâncias, na crise e na reabilitação. O jovem com alucinações auditivas há meses e prejuízo funcional é público do CAPS II e deve ser acolhido no mesmo dia. A partir do acolhimento, a equipe multiprofissional constrói com ele e com a família o Projeto Terapêutico Singular e define um técnico de referência, função que o enfermeiro exerce com frequência. Sintoma psicótico, por si, não é indicação de pronto-socorro.",
+  "porAlt": [
+   "Errada: o CAPS não exige guia de referência da unidade básica para acolher.",
+   "Errada: o acolhimento é feito pela equipe e não depende de consulta médica prévia.",
+   "Errada: alucinação de longa data sem risco agudo é cuidado do CAPS, não do PS.",
+   "Correta: o CAPS é de porta aberta e acolhe sem exigir encaminhamento.",
+   "Errada: o acolhimento não depende da presença de familiar para começar."
+  ]
+ },
+ {
+  "q": "Paciente de 27 anos, em internação psiquiátrica voluntária em hospital geral, deixa a enfermaria sem alta durante a troca de plantão e não retorna. A enfermeira registra a ocorrência no prontuário e comunica a direção. Pela Lei 10.216/2001, qual comunicação a direção do estabelecimento deve fazer e em que prazo?",
+  "alts": [
+   "Ao Ministério Público Estadual, em até 72 horas da evasão.",
+   "À autoridade policial, de imediato, para busca do paciente.",
+   "Aos familiares e à autoridade sanitária, em até 24 horas.",
+   "Ao Conselho Regional de Enfermagem, em até 48 horas do fato.",
+   "Ao juiz da comarca, em até 72 horas, para nova internação."
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Lei 10.216/2001 e reforma psiquiátrica",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 10.216/2001, art. 10",
+  "coment": "O art. 10 da Lei 10.216/2001 determina que evasão, transferência, acidente, intercorrência clínica grave e falecimento sejam comunicados pela direção do estabelecimento aos familiares, ou ao representante legal do paciente, e à autoridade sanitária responsável, no prazo máximo de 24 horas da ocorrência. O prazo de 72 horas é outro: é o da comunicação da internação involuntária, e da alta dela, ao Ministério Público Estadual (art. 8º, § 1º). A banca costuma trocar os dois. O papel da enfermagem é registrar a evasão com horário e circunstâncias e acionar a direção, que faz a comunicação legal.",
+  "porAlt": [
+   "Errada: 72 horas ao Ministério Público é o prazo da internação involuntária.",
+   "Errada: a lei não prevê comunicação policial; a internação aqui era voluntária.",
+   "Correta: o art. 10 manda comunicar familiares e autoridade sanitária em até 24 horas.",
+   "Errada: a Lei 10.216/2001 não prevê comunicação ao conselho de enfermagem.",
+   "Errada: a evasão não gera comunicação ao juiz nem nova internação automática."
+  ]
+ },
+ {
+  "q": "Na enfermaria de saúde mental de um hospital geral, a rotina afixada no posto determina que o paciente só pode usar o telefone depois de três dias sem comportamento considerado inadequado pela equipe. A enfermeira recém-admitida questiona a regra na reunião de equipe. Qual direito previsto na Lei 10.216/2001 essa rotina contraria diretamente?",
+  "alts": [
+   "Sigilo das informações prestadas no tratamento.",
+   "Presença médica para esclarecer a hospitalização.",
+   "Proteção contra abuso e exploração no serviço.",
+   "Informação sobre a doença e o seu tratamento.",
+   "Livre acesso aos meios de comunicação disponíveis."
+  ],
+  "gab": 4,
+  "tema": "mental",
+  "sub": "Lei 10.216/2001 e reforma psiquiátrica",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 10.216/2001, art. 2º, parágrafo único, inciso VI",
+  "coment": "O parágrafo único do art. 2º da Lei 10.216/2001 lista os direitos de que a pessoa e seus familiares devem ser formalmente cientificados em qualquer atendimento de saúde mental. Um deles é ter livre acesso aos meios de comunicação disponíveis. Condicionar o telefone a bom comportamento transforma um direito em prêmio, o que a lei não admite. Os outros direitos citados nas alternativas também existem na lei (sigilo, presença médica para esclarecer a necessidade de hospitalização involuntária, proteção contra abuso, informação sobre a doença), mas não são os atingidos diretamente pela restrição ao telefone.",
+  "porAlt": [
+   "Errada: o sigilo protege as informações do paciente, não o uso do telefone.",
+   "Errada: a presença médica se refere a esclarecer a necessidade de internação involuntária.",
+   "Errada: a regra é inadequada, mas o direito atingido diretamente é o de comunicação.",
+   "Errada: o direito à informação trata da doença e do tratamento, não do telefone.",
+   "Correta: restringir o telefone como prêmio fere o livre acesso aos meios de comunicação."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos chega à enfermaria psiquiátrica com ofício do juiz da vara criminal determinando sua internação, acompanhado de laudo médico. Ele diz à enfermeira que não concorda em ficar internado e pergunta quem decidiu. Pela Lei 10.216/2001, como se classifica essa internação e qual critério o juiz deve considerar ao determiná-la?",
+  "alts": [
+   "Involuntária, considerando o pedido de terceiro e o laudo médico.",
+   "Voluntária, pois o laudo médico supre a falta de consentimento.",
+   "Involuntária, considerando a comunicação ao Ministério Público.",
+   "Compulsória, considerando apenas o desejo expresso da família.",
+   "Compulsória, considerando a segurança do paciente e dos demais."
+  ],
+  "gab": 4,
+  "tema": "mental",
+  "sub": "Lei 10.216/2001 e reforma psiquiátrica",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 10.216/2001, arts. 6º e 9º",
+  "coment": "O art. 6º define três modalidades: voluntária, com consentimento do usuário; involuntária, sem consentimento e a pedido de terceiro; e compulsória, determinada pela Justiça. Internação por ordem de juiz é compulsória, mesmo com laudo médico anexado. O art. 9º diz que ela é determinada pelo juiz competente, que levará em conta as condições de segurança do estabelecimento quanto à salvaguarda do paciente, dos demais internados e dos funcionários. A involuntária é ato médico a pedido de terceiro, sem ordem judicial, e é comunicada ao Ministério Público Estadual em 72 horas.",
+  "porAlt": [
+   "Errada: a involuntária é ato médico a pedido de terceiro, sem ordem judicial.",
+   "Errada: a voluntária exige consentimento, e o laudo não supre essa falta.",
+   "Errada: a comunicação ao Ministério Público é regra da involuntária, não critério do juiz.",
+   "Errada: o juiz considera a segurança do estabelecimento, não o desejo da família.",
+   "Correta: ordem judicial caracteriza a compulsória, com o critério de segurança do art. 9º."
+  ]
+ },
+ {
+  "q": "Mulher de 52 anos está em internação psiquiátrica involuntária, solicitada pelo filho, há dez dias. Hoje o filho entrega à enfermeira um pedido escrito de término da internação. O psiquiatra assistente ainda não reavaliou a paciente neste dia. Pela Lei 10.216/2001, como pode cessar uma internação involuntária?",
+  "alts": [
+   "Por decisão judicial, depois de ouvido o Ministério Público Estadual.",
+   "Por pedido escrito do familiar ou por decisão do especialista responsável.",
+   "Por pedido escrito da própria paciente, dirigido ao médico assistente.",
+   "Por decisão do enfermeiro responsável técnico, após avaliação clínica.",
+   "Ao fim de 30 dias, prazo mínimo de internação fixado pela própria lei."
+  ],
+  "gab": 1,
+  "tema": "mental",
+  "sub": "Lei 10.216/2001 e reforma psiquiátrica",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Lei 10.216/2001, art. 8º, § 2º",
+  "coment": "Pelo art. 8º, § 2º, da Lei 10.216/2001, o término da internação involuntária se dá por solicitação escrita do familiar ou responsável legal, ou quando estabelecido pelo especialista responsável pelo tratamento. O pedido escrito do filho é, portanto, uma das vias previstas. A enfermeira registra o pedido no prontuário e comunica o médico assistente, e a alta da involuntária também é comunicada ao Ministério Público Estadual em 72 horas pelo responsável técnico (art. 8º, § 1º). O pedido escrito do próprio paciente é a via de término da internação voluntária (art. 7º). A lei não fixa prazo mínimo nem máximo para a internação.",
+  "porAlt": [
+   "Errada: decisão judicial encerra a compulsória; a involuntária não depende do juiz.",
+   "Correta: o art. 8º, § 2º, prevê pedido escrito do familiar ou decisão do especialista.",
+   "Errada: o pedido escrito do próprio paciente é a via de término da voluntária.",
+   "Errada: a lei atribui o término ao familiar ou ao especialista, não ao enfermeiro.",
+   "Errada: a Lei 10.216/2001 não fixa prazo mínimo nem máximo de internação."
+  ]
+ },
+ {
+  "q": "Em censo de um hospital psiquiátrico conveniado ao SUS, a enfermeira identifica homem de 61 anos internado há 14 anos, sem vínculo familiar ativo e com grave dependência institucional, que não sabe mais lidar com dinheiro nem com transporte público. Pela Lei 10.216/2001, que tratamento a lei determina para pacientes nessa situação?",
+  "alts": [
+   "Manter a internação, pois a lei veda alta sem família responsável.",
+   "Política de alta planejada e reabilitação psicossocial assistida.",
+   "Transferência para comunidade terapêutica com permanência por adesão.",
+   "Conversão em internação compulsória, com revisão judicial anual.",
+   "Interdição civil prévia, como condição para qualquer alta hospitalar."
+  ],
+  "gab": 1,
+  "tema": "mental",
+  "sub": "Lei 10.216/2001 e reforma psiquiátrica",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 10.216/2001, art. 5º; Lei 10.708/2003 (Programa De Volta para Casa)",
+  "coment": "O art. 5º da Lei 10.216/2001 determina que o paciente há longo tempo hospitalizado, ou para o qual se caracterize situação de grave dependência institucional, seja objeto de política específica de alta planejada e reabilitação psicossocial assistida, sob responsabilidade da autoridade sanitária e com continuidade do tratamento. Desse artigo derivam os Serviços Residenciais Terapêuticos, para egressos de internação de dois anos ou mais, e o Programa De Volta para Casa (Lei 10.708/2003), com auxílio-reabilitação mensal. A falta de família não justifica manter a internação, e a lei não condiciona a alta a interdição nem a ordem judicial.",
+  "porAlt": [
+   "Errada: a lei não condiciona a alta à existência de família responsável pelo paciente.",
+   "Correta: o art. 5º prevê alta planejada e reabilitação psicossocial assistida nesses casos.",
+   "Errada: a comunidade terapêutica é para uso de substâncias, com adesão voluntária.",
+   "Errada: não há base para converter em compulsória; o caso pede desinstitucionalização.",
+   "Errada: a lei não exige interdição civil para a alta do paciente de longa permanência."
+  ]
+ },
+ {
+  "q": "Mulher de 33 anos, com depressão grave e ideação suicida, aceita internar-se no leito de saúde mental do hospital geral depois de conversar com o psiquiatra do pronto-socorro. Antes de levá-la ao quarto, a enfermeira confere a documentação da admissão. Pela Lei 10.216/2001, quais documentos devem constar nessa internação voluntária?",
+  "alts": [
+   "Laudo médico e autorização escrita do familiar mais próximo dela.",
+   "Ofício do juiz e laudo médico, com cópia ao Ministério Público.",
+   "Laudo médico circunstanciado e declaração assinada pela paciente.",
+   "Declaração da paciente e comunicação à Defensoria em 72 horas.",
+   "Parecer do CAPS de referência e termo assinado pelo enfermeiro."
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Lei 10.216/2001 e reforma psiquiátrica",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 10.216/2001, arts. 6º, 7º e 8º",
+  "coment": "Toda internação psiquiátrica só é realizada mediante laudo médico circunstanciado que caracterize os seus motivos (art. 6º). Na voluntária, a pessoa que solicita ou consente com a internação assina, no momento da admissão, declaração de que optou por esse regime de tratamento (art. 7º), e o término se dará por solicitação escrita dela ou por determinação do médico assistente. A autorização é dada por médico registrado no CRM do estado do estabelecimento (art. 8º). A voluntária não exige autorização da família, ordem judicial nem comunicação ao Ministério Público; a Defensoria só aparece na internação do dependente de drogas, pela Lei 11.343/2006.",
+  "porAlt": [
+   "Errada: a internação voluntária não depende de autorização de familiar.",
+   "Errada: ofício judicial caracteriza a compulsória, não a voluntária.",
+   "Correta: a voluntária exige laudo circunstanciado e declaração assinada na admissão.",
+   "Errada: a comunicação à Defensoria é regra da internação de dependente de drogas.",
+   "Errada: a lei não exige parecer do CAPS nem termo assinado pelo enfermeiro."
+  ]
+ },
+ {
+  "q": "Homem de 40 anos, em situação de rua e sem familiares conhecidos, é levado ao pronto-socorro por policiais militares, intoxicado por crack e agressivo. Os policiais pedem à enfermeira que providencie a internação involuntária dele. Pela Lei 11.343/2006, com a redação da Lei 13.840/2019, quem pode pedir essa internação na absoluta falta de familiar ou responsável legal?",
+  "alts": [
+   "Servidor da saúde, da assistência social ou de órgão do Sisnad.",
+   "O policial militar que fez a condução, por escrito, no hospital.",
+   "O delegado de polícia, mediante boletim de ocorrência lavrado.",
+   "Qualquer cidadão que conheça o usuário, com duas testemunhas.",
+   "O Conselho Tutelar, por se tratar de pessoa em vulnerabilidade."
+  ],
+  "gab": 0,
+  "tema": "mental",
+  "sub": "Álcool e outras drogas",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 11.343/2006, art. 23-A (incluído pela Lei 13.840/2019)",
+  "coment": "Pelo art. 23-A da Lei de Drogas, a internação involuntária do dependente ocorre sem o seu consentimento, a pedido de familiar ou do responsável legal. Na absoluta falta deles, o pedido pode ser feito por servidor público da área de saúde, da assistência social ou dos órgãos públicos integrantes do Sisnad, com exceção expressa dos servidores da área de segurança pública. A internação é formalizada por médico depois de comprovada a impossibilidade de outras alternativas terapêuticas e só ocorre em unidade de saúde ou hospital geral. No caso, a equipe trata a intoxicação e a agitação; o pedido dos policiais não tem valor legal.",
+  "porAlt": [
+   "Correta: na falta da família, o pedido cabe a servidor da saúde, da assistência social ou do Sisnad.",
+   "Errada: a lei exclui expressamente os servidores da segurança pública do pedido.",
+   "Errada: o delegado também integra a segurança pública, excluída pela lei.",
+   "Errada: a lei não autoriza qualquer cidadão a pedir a internação involuntária.",
+   "Errada: o Conselho Tutelar atua com crianças e adolescentes, não com adulto."
+  ]
+ },
+ {
+  "q": "Rapaz de 26 anos está em internação involuntária para desintoxicação de álcool em hospital geral, a pedido da mãe, há 12 dias. A mãe procura a enfermeira, diz que se arrependeu e quer interromper o tratamento para levá-lo para casa. Pela Lei 11.343/2006, art. 23-A, o que se aplica a esse pedido?",
+  "alts": [
+   "Cabe ao juiz encerrar a internação antes do prazo de 90 dias.",
+   "O pedido vale depois de concluída toda a desintoxicação clínica.",
+   "A família pode pedir a interrupção até o sétimo dia de internação.",
+   "O pedido depende da concordância prévia da Defensoria Pública.",
+   "A família pode pedir a interrupção do tratamento a qualquer tempo."
+  ],
+  "gab": 4,
+  "tema": "mental",
+  "sub": "Álcool e outras drogas",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Lei 11.343/2006, art. 23-A (incluído pela Lei 13.840/2019)",
+  "coment": "Na internação involuntária do dependente de drogas, o art. 23-A da Lei 11.343/2006 fixa a duração pelo tempo necessário à desintoxicação, no prazo máximo de 90 dias, com término determinado pelo médico responsável, e garante à família ou ao representante legal, a qualquer tempo, o direito de requerer ao médico a interrupção do tratamento. A enfermeira registra o pedido e comunica o médico. Internações e altas são informadas em até 72 horas ao Ministério Público, à Defensoria Pública e a outros órgãos de fiscalização, mas esses órgãos não precisam concordar com a interrupção. O juiz não participa dessa modalidade.",
+  "porAlt": [
+   "Errada: a involuntária do dependente é ato médico, sem participação do juiz.",
+   "Errada: a família não precisa esperar o fim da desintoxicação para pedir a interrupção.",
+   "Errada: a lei não limita o pedido da família a um número de dias de internação.",
+   "Errada: a Defensoria é informada em 72 horas, mas não autoriza a interrupção.",
+   "Correta: o art. 23-A garante à família pedir a interrupção do tratamento a qualquer tempo."
+  ]
+ },
+ {
+  "q": "Homem de 35 anos, com dependência de álcool e clinicamente estável, quer ir para uma comunidade terapêutica conveniada ao município. Na reunião com a família no CAPS AD, a enfermeira explica as regras desse tipo de serviço. Pela Lei 11.343/2006, com a redação da Lei 13.840/2019, qual orientação está correta?",
+  "alts": [
+   "A família pode solicitar internação involuntária na comunidade.",
+   "O isolamento físico inicial é permitido para a desintoxicação.",
+   "A avaliação médica prévia é dispensada quando o usuário está estável.",
+   "O acolhimento depende de adesão voluntária, formalizada por escrito.",
+   "A permanência é por tempo indeterminado, até alcançar a abstinência."
+  ],
+  "gab": 3,
+  "tema": "mental",
+  "sub": "Álcool e outras drogas",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 11.343/2006, art. 26-A (incluído pela Lei 13.840/2019); Portaria de Consolidação GM/MS 3/2017, Anexo V",
+  "coment": "A Lei 13.840/2019 inseriu na Lei de Drogas o acolhimento em comunidade terapêutica, que exige adesão e permanência voluntárias, formalizadas por escrito, avaliação médica prévia, ambiente residencial, projeto terapêutico voltado à abstinência e vedação de isolamento físico. É vedada qualquer modalidade de internação nessas entidades, e quem tem comprometimento biológico ou psicológico grave deve ser atendido na rede de saúde. Na RAPS, a comunidade terapêutica está na atenção residencial de caráter transitório, para adultos com necessidades clínicas estáveis, por até nove meses, o que afasta a permanência indeterminada.",
+  "porAlt": [
+   "Errada: é vedada qualquer modalidade de internação em comunidade terapêutica.",
+   "Errada: a lei veda o isolamento físico da pessoa acolhida na comunidade terapêutica.",
+   "Errada: a avaliação médica prévia é exigida antes do acolhimento.",
+   "Correta: a comunidade terapêutica exige adesão e permanência voluntárias, por escrito.",
+   "Errada: a permanência na comunidade terapêutica, pela RAPS, é de até nove meses."
+  ]
+ },
+ {
+  "q": "No Consultório na Rua, a enfermeira atende mulher de 29 anos que fuma crack todos os dias, divide o cachimbo com o grupo e diz que não pretende parar agora. Ela aceita conversar e combina voltar na semana seguinte. Na lógica de redução de danos, diretriz da RAPS, qual conduta de enfermagem é adequada?",
+  "alts": [
+   "Condicionar o acompanhamento ao compromisso de abstinência total do crack.",
+   "Orientar cachimbo próprio e oferecer testagem para HIV, sífilis e hepatites.",
+   "Solicitar internação involuntária pelo risco que ela corre na própria rua.",
+   "Registrar a recusa de tratamento e encerrar o acompanhamento pela equipe.",
+   "Encaminhar para comunidade terapêutica como primeira medida de cuidado."
+  ],
+  "gab": 1,
+  "tema": "mental",
+  "sub": "Álcool e outras drogas",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria de Consolidação GM/MS 3/2017, Anexo V (diretrizes da RAPS: redução de danos)",
+  "coment": "A redução de danos é diretriz expressa da RAPS. Parte do reconhecimento de que nem todo usuário quer ou consegue parar e busca diminuir os riscos enquanto o uso continua: não compartilhar cachimbo ou seringa, testar para HIV, sífilis e hepatites, vacinar, alimentar-se e hidratar-se. Exigir abstinência como condição de atendimento afasta justamente quem mais precisa, e o vínculo construído pelo Consultório na Rua é a base para o cuidado continuado. A internação involuntária exige pedido de familiar e formalização médica após falha de outras alternativas, e a comunidade terapêutica depende de adesão voluntária e não é a primeira medida.",
+  "porAlt": [
+   "Errada: exigir abstinência como condição afasta a usuária, contra a redução de danos.",
+   "Correta: cachimbo próprio e testagem reduzem riscos sem exigir que ela pare de usar.",
+   "Errada: não há base para involuntária; ela aceita acompanhamento e há outras alternativas.",
+   "Errada: não querer parar não é recusa de cuidado; o vínculo deve ser mantido.",
+   "Errada: a comunidade terapêutica exige adesão voluntária e visa à abstinência."
+  ]
+ },
+ {
+  "q": "Homem de 50 anos, acompanhado na UBS, usa clonazepam prescrito há anos e bebe cerveja todos os fins de semana. Diz que não quer deixar de beber, mas aceita conversar sobre os riscos. Na consulta de enfermagem com abordagem de redução de danos, qual orientação é prioritária?",
+  "alts": [
+   "Suspender o clonazepam por conta própria nos dias em que beber.",
+   "Trocar a cerveja por destilado em menor volume nos fins de semana.",
+   "Dobrar a dose do clonazepam quando tiver vontade intensa de beber.",
+   "Interromper o acompanhamento até que ele aceite a abstinência.",
+   "Evitar beber junto com o sedativo e não dirigir depois de usar."
+  ],
+  "gab": 4,
+  "tema": "mental",
+  "sub": "Álcool e outras drogas",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Portaria de Consolidação GM/MS 3/2017, Anexo V (diretrizes da RAPS: redução de danos)",
+  "coment": "Benzodiazepínicos causam sedação, prejuízo psicomotor, quedas e dependência, e, somados ao álcool ou a opioides, podem causar depressão respiratória. Na redução de danos, a orientação prioritária é diminuir o risco enquanto o uso continua: não misturar álcool com sedativos e não dirigir sob efeito de nenhum dos dois. Suspender o benzodiazepínico de uma vez após uso prolongado é desaconselhado, pelo risco de abstinência, e qualquer ajuste de dose é feito com o prescritor. Condicionar o acompanhamento à abstinência contraria a diretriz de redução de danos da RAPS e afasta o usuário do serviço.",
+  "porAlt": [
+   "Errada: não se suspende benzodiazepínico de uso prolongado de uma vez, por conta própria.",
+   "Errada: trocar por destilado não reduz o risco da associação com o sedativo.",
+   "Errada: aumentar a dose por conta própria eleva sedação e risco respiratório.",
+   "Errada: exigir abstinência como condição contraria a lógica de redução de danos.",
+   "Correta: não associar álcool ao sedativo e não dirigir reduz os riscos do uso atual."
+  ]
+ },
+ {
+  "q": "Mulher de 36 anos, com transtorno bipolar, recebe alta da enfermaria em uso de carbonato de lítio. Na orientação de alta, pergunta à enfermeira se pode seguir a dieta com pouco sal indicada por uma amiga e tomar ibuprofeno quando tiver cólica menstrual. Qual orientação de enfermagem é correta?",
+  "alts": [
+   "Reduzir o sal da dieta, desde que aumente bastante a ingestão de água.",
+   "Manter o sal habitual da dieta e evitar anti-inflamatório por conta própria.",
+   "Usar o ibuprofeno sem receio, pois ele não altera o nível do lítio.",
+   "Restringir a ingestão de líquidos à noite para controlar a poliúria.",
+   "Usar diurético tiazídico por conta própria se houver inchaço nas pernas."
+  ],
+  "gab": 1,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes CANMAT/ISBD 2018 para transtorno bipolar; NICE CG185 (2014)",
+  "coment": "O lítio é eliminado inteiro pelo rim e reabsorvido junto com o sódio. Tudo o que leva o rim a poupar sódio aumenta a litemia: dieta pobre em sal, desidratação, vômito, diarreia, febre, diuréticos tiazídicos, anti-inflamatórios, IECA e BRA. Por isso a orientação é manter o sal da dieta sem restrição, hidratar-se regularmente, não usar anti-inflamatório por conta própria e procurar o serviço se houver vômito ou diarreia, reconhecendo sinais de intoxicação como tremor grosseiro, ataxia, fala arrastada e confusão. A poliúria é efeito esperado e não se corrige restringindo líquidos, o que favorece a desidratação.",
+  "porAlt": [
+   "Errada: a dieta pobre em sal faz o rim reter lítio junto com o sódio.",
+   "Correta: restrição de sal e anti-inflamatório elevam a litemia e o risco de intoxicação.",
+   "Errada: anti-inflamatórios reduzem a eliminação renal e elevam a litemia.",
+   "Errada: restringir líquidos favorece desidratação, que eleva o nível do lítio.",
+   "Errada: o tiazídico aumenta a reabsorção de lítio e pode causar intoxicação."
+  ]
+ },
+ {
+  "q": "Homem de 44 anos, internado em episódio de mania, toma carbonato de lítio às 8 h e às 20 h, e a dose foi ajustada há uma semana. O médico solicita litemia para avaliar o ajuste, e a enfermeira programa a coleta com o laboratório. Qual o momento correto da coleta?",
+  "alts": [
+   "Duas horas após a dose da manhã, no pico de concentração.",
+   "Logo após a dose da manhã, aproveitando o jejum noturno.",
+   "No vale, cerca de 12 horas após a última dose tomada.",
+   "Em qualquer horário do dia, pois o nível sérico é estável.",
+   "Seis horas após a dose da noite, na madrugada seguinte."
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "Diretrizes CANMAT/ISBD 2018 para transtorno bipolar; NICE CG185 (2014)",
+  "coment": "A litemia é colhida no vale, cerca de 12 horas após a última dose; com tomadas às 8 h e às 20 h, a coleta fica por volta das 8 h, antes da dose da manhã. Coletar perto do pico superestima o nível e pode levar a redução indevida da dose. A dosagem é feita uma semana após o início e após cada mudança de dose, como no caso. Os alvos de referência são 0,8 a 1,2 mEq/L no episódio agudo e 0,6 a 1,0 mEq/L na manutenção (CANMAT), com valores menores no idoso. Mesmo com nível terapêutico, sinais de neurotoxicidade como tremor grosseiro, ataxia e confusão devem ser comunicados.",
+  "porAlt": [
+   "Errada: a coleta no pico superestima o nível e não serve para ajustar a dose.",
+   "Errada: logo após a dose da manhã o nível está subindo, longe do vale.",
+   "Correta: a litemia é colhida no vale, cerca de 12 horas após a última dose.",
+   "Errada: o nível varia ao longo do dia; a referência é a coleta no vale.",
+   "Errada: seis horas após a dose não correspondem ao vale de 12 horas."
+  ]
+ },
+ {
+  "q": "Homem de 23 anos, em primeiro episódio psicótico, iniciou haloperidol há quatro dias na enfermaria. Hoje anda sem parar pelo corredor, diz sentir uma inquietação por dentro que o obriga a se mexer e pede ajuda, sem hostilidade nem ameaças. Há prescrição de haloperidol adicional se houver agitação. Qual a conduta de enfermagem adequada?",
+  "alts": [
+   "Administrar a dose adicional de haloperidol prescrita para agitação.",
+   "Suspeitar de acatisia, não dar a dose extra e comunicar o médico.",
+   "Aplicar contenção mecânica para prevenir queda durante a marcha.",
+   "Suspeitar de discinesia tardia e pedir a troca do antipsicótico.",
+   "Tratar como ansiedade da internação e orientar repouso no leito."
+  ],
+  "gab": 1,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "APA Practice Guideline for the Treatment of Patients With Schizophrenia, 3ª ed., 2020",
+  "coment": "Inquietação interior que obriga a andar, surgida dias após iniciar antipsicótico, é acatisia, efeito extrapiramidal frequentemente confundido com piora da agitação. Dar mais antipsicótico agrava o quadro. Pela APA 2020, a conduta é reduzir a dose, trocar o antipsicótico ou associar benzodiazepínico ou betabloqueador, decisões que cabem ao médico; ao enfermeiro cabe reconhecer o efeito, não administrar a dose extra para agitação e comunicar. A discinesia tardia surge em meses a anos, com movimentos orofaciais. Contenção mecânica só se justifica como único meio para prevenir dano imediato ou iminente, nunca para prevenir queda.",
+  "porAlt": [
+   "Errada: mais antipsicótico agrava a acatisia, tomada erroneamente por agitação.",
+   "Correta: inquietação interior após antipsicótico é acatisia, que piora com dose extra.",
+   "Errada: contenção não é medida de prevenção de queda nem trata efeito adverso.",
+   "Errada: discinesia tardia surge em meses a anos, com movimentos orofaciais.",
+   "Errada: o quadro tem causa farmacológica reconhecível e exige comunicação médica."
+  ]
+ },
+ {
+  "q": "Homem de 30 anos recebeu haloperidol intramuscular em doses repetidas nos últimos três dias por agitação. Hoje está confuso, com temperatura de 39,6 °C, rigidez generalizada em cano de chumbo, sudorese intensa, frequência cardíaca de 128 bpm e pressão arterial oscilante. Qual a conduta imediata do enfermeiro?",
+  "alts": [
+   "Administrar a próxima dose de haloperidol e aplicar compressas frias no corpo.",
+   "Suspender a próxima dose, comunicar o médico e controlar a temperatura.",
+   "Oferecer biperideno, pois o quadro indica distonia aguda grave.",
+   "Investigar infecção urinária antes de qualquer mudança na prescrição.",
+   "Associar benzodiazepínico oral e reavaliar o paciente em 24 horas."
+  ],
+  "gab": 1,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "APA Practice Guideline for the Treatment of Patients With Schizophrenia, 3ª ed., 2020",
+  "coment": "Febre, rigidez em cano de chumbo, instabilidade autonômica e rebaixamento nos primeiros dias após iniciar ou aumentar bloqueador dopaminérgico configuram suspeita de síndrome neuroléptica maligna, que costuma ter CK muito elevada. O risco é maior com antipsicótico típico de alta potência, via intramuscular, doses altas ou aumento rápido, desidratação e agitação, exatamente o cenário descrito. O enfermeiro suspende a próxima dose, comunica o médico de imediato e controla temperatura, hidratação, sinais vitais e diurese. A distonia aguda não tem febre nem disautonomia, e esperar 24 horas atrasa o tratamento de uma emergência.",
+  "porAlt": [
+   "Errada: manter o antipsicótico agrava a síndrome neuroléptica maligna.",
+   "Correta: suspeita de síndrome neuroléptica maligna pede suspensão e comunicação imediata.",
+   "Errada: distonia aguda não cursa com febre alta, disautonomia e rebaixamento.",
+   "Errada: a suspeita é emergência e não espera investigação de outro foco.",
+   "Errada: reavaliar em 24 horas atrasa a conduta diante de quadro grave."
+  ]
+ },
+ {
+  "q": "Homem de 34 anos, com esquizofrenia resistente, está na oitava semana de uso de clozapina e é acompanhado no CAPS. Na administração da medicação da manhã, refere dor de garganta desde ontem e apresenta temperatura axilar de 38,2 °C. Qual providência de enfermagem é prioritária?",
+  "alts": [
+   "Dar antitérmico e esperar o próximo hemograma mensal.",
+   "Manter a dose e orientar gargarejo com água morna e sal.",
+   "Comunicar o médico e providenciar hemograma no mesmo dia.",
+   "Aguardar o hemograma semanal de rotina já programado.",
+   "Orientar repouso e retorno se a febre durar três dias."
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Bula da clozapina aprovada pela ANVISA (controle hematológico) e APA Practice Guideline for Schizophrenia, 3ª ed., 2020",
+  "coment": "A clozapina pode causar neutropenia grave e agranulocitose, por isso exige hemograma semanal nas 18 primeiras semanas de tratamento e mensal depois. Febre ou dor de garganta em quem usa clozapina pedem hemograma no mesmo dia e comunicação ao médico, porque podem ser o primeiro sinal de infecção com neutropenia. Na oitava semana, o controle de rotina ainda é semanal, e não mensal, mas esperar a data programada atrasa um diagnóstico que pode ser grave. Outros efeitos que o enfermeiro vigia com a clozapina são constipação grave, sialorreia e convulsão, além do aumento do nível sérico em quem para de fumar.",
+  "porAlt": [
+   "Errada: na oitava semana o controle é semanal, e a febre pede exame imediato.",
+   "Errada: o sintoma pode indicar neutropenia e não se resolve com medida local.",
+   "Correta: febre ou dor de garganta com clozapina pedem hemograma no mesmo dia.",
+   "Errada: esperar o exame de rotina atrasa o diagnóstico de possível agranulocitose.",
+   "Errada: aguardar três dias de febre é inaceitável diante do risco de neutropenia."
+  ]
+ },
+ {
+  "q": "Estudante de 19 anos inicia sertralina para depressão moderada, prescrita na unidade básica. Na consulta de enfermagem, pergunta quando vai se sentir melhor, se pode parar o remédio assim que melhorar e se pode tomar o tramadol que tem em casa para dor nas costas. Qual orientação de enfermagem é adequada?",
+  "alts": [
+   "O efeito começa na primeira dose, e pode parar quando se sentir bem.",
+   "O efeito leva semanas, e a parada abrupta não provoca sintomas.",
+   "O tramadol pode ser usado, pois não interage com a sertralina.",
+   "O efeito leva semanas, e piora de ideação suicida deve ser relatada.",
+   "Se não melhorar em três dias, deve dobrar a dose por conta própria."
+  ],
+  "gab": 3,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "CANMAT 2023 para transtorno depressivo maior (Can J Psychiatry, 2024) e NICE NG222 (2022)",
+  "coment": "O antidepressivo leva semanas para agir, e em menores de 25 anos pode aumentar a ideação suicida nas primeiras semanas. Por isso o enfermeiro orienta a latência, pede que o paciente e a família relatem piora do humor ou pensamentos de morte e vigia o risco no início, inclusive a quantidade de comprimidos dispensada. A suspensão abrupta causa síndrome de descontinuação, com sintomas gripais, insônia, náusea, desequilíbrio e sensação de choques. Associar tramadol a antidepressivo serotoninérgico pode causar síndrome serotoninérgica em horas. Qualquer mudança de dose é feita com o prescritor.",
+  "porAlt": [
+   "Errada: o efeito leva semanas, e a parada abrupta causa síndrome de descontinuação.",
+   "Errada: a suspensão abrupta causa sintomas gripais, insônia, náusea e choques.",
+   "Errada: tramadol com sertralina pode causar síndrome serotoninérgica.",
+   "Correta: a latência é de semanas, e jovens podem ter piora da ideação no início.",
+   "Errada: a dose não se ajusta por conta própria, e três dias é cedo para avaliar."
+  ]
+ },
+ {
+  "q": "Mulher de 58 anos, em uso crônico de sertralina, recebeu tramadol no pós-operatório de artroplastia de joelho. Seis horas depois, está agitada, com tremor, sudorese, diarreia, hiper-reflexia, clônus nos tornozelos e temperatura de 38 °C, sem rigidez em cano de chumbo. Qual hipótese a enfermeira deve comunicar ao médico?",
+  "alts": [
+   "Síndrome neuroléptica maligna, pela febre e pela instabilidade.",
+   "Abstinência de benzodiazepínico, pela agitação e pela sudorese.",
+   "Síndrome serotoninérgica, pela associação e pelo início em horas.",
+   "Intoxicação por lítio, pelo tremor e pelos sintomas intestinais.",
+   "Distonia aguda, pela hiper-reflexia e pelos movimentos anormais."
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "CANMAT 2023 para transtorno depressivo maior (Can J Psychiatry, 2024) e APA Practice Guideline for Schizophrenia, 3ª ed., 2020",
+  "coment": "Associar serotoninérgicos, como antidepressivo com tramadol, linezolida ou triptano, pode causar síndrome serotoninérgica, que se instala em horas, com clônus, hiper-reflexia, tremor, diarreia, sudorese e agitação. A síndrome neuroléptica maligna se diferencia pelo tempo, porque surge em dias após iniciar ou aumentar antipsicótico, e pela rigidez em cano de chumbo sem clônus. A paciente não usa antipsicótico nem lítio, e o quadro começou seis horas após o novo fármaco. O enfermeiro comunica a hipótese, não repete a dose do tramadol sem reavaliação médica e monitora temperatura e sinais vitais.",
+  "porAlt": [
+   "Errada: a neuroléptica maligna surge em dias com antipsicótico, com rigidez sem clônus.",
+   "Errada: a paciente não usa benzodiazepínico, e o quadro seguiu o novo fármaco.",
+   "Correta: serotoninérgicos associados, início em horas e clônus indicam a síndrome serotoninérgica.",
+   "Errada: a paciente não usa lítio, e o clônus aponta para excesso serotoninérgico.",
+   "Errada: distonia aguda é contração muscular por antipsicótico, sem febre nem clônus."
+  ]
+ },
+ {
+  "q": "Homem de 41 anos, internado com esquizofrenia, recusa o almoço e diz à enfermeira, assustado, que a comida foi envenenada pelos vizinhos que o perseguem. Ele olha para a porta a todo momento e pede para ficar no quarto. Qual resposta da enfermeira é terapêutica?",
+  "alts": [
+   "Percebo que o senhor está com medo. Fico aqui com o senhor.",
+   "Ninguém envenenou nada, isso é coisa da sua doença, viu?",
+   "Vou mandar analisar a comida para o senhor ficar tranquilo.",
+   "Por que o senhor acha que os vizinhos querem lhe fazer mal?",
+   "Fique calmo, vai dar tudo certo, a comida está ótima hoje."
+  ],
+  "gab": 0,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Res. COFEN 736/2024 (Processo de Enfermagem); Peplau, Interpersonal Relations in Nursing, 1952",
+  "coment": "Diante de delírio, o enfermeiro não confirma nem confronta o conteúdo. Reconhece o sentimento, mantém a realidade de forma simples e se ocupa do que é concreto, oferecendo presença. A resposta correta combina duas técnicas terapêuticas: verbalizar o sentimento percebido e oferecer-se. Negar o delírio de forma direta gera confronto e quebra o vínculo; mandar analisar a comida reforça a crença; perguntar por quê é barreira de comunicação, porque leva a justificativas e aprofunda o conteúdo delirante; o falso encorajamento desqualifica o medo do paciente. A enfermeira registra a recusa alimentar e o conteúdo relatado, com as palavras do paciente.",
+  "porAlt": [
+   "Correta: reconhece o medo e oferece presença, sem confirmar nem confrontar o delírio.",
+   "Errada: confrontar o conteúdo do delírio gera embate e prejudica o vínculo.",
+   "Errada: mandar analisar a comida confirma e reforça a crença delirante.",
+   "Errada: perguntar por quê é barreira e aprofunda a discussão do delírio.",
+   "Errada: falso encorajamento minimiza o medo e é barreira de comunicação."
+  ]
+ },
+ {
+  "q": "Na consulta de enfermagem no CAPS, mulher de 47 anos conta que perdeu o emprego, chora e diz que ninguém liga se ela está bem ou não. A enfermeira responde: a senhora está se sentindo sozinha e sem apoio. Qual técnica de comunicação terapêutica a enfermeira utilizou nessa resposta?",
+  "alts": [
+   "Reflexo, ao devolver o sentimento expresso pela paciente.",
+   "Clarificação, ao pedir que explique o que quis dizer.",
+   "Resumo, ao sintetizar os temas de toda a consulta.",
+   "Silêncio, ao permitir que a paciente organize a fala.",
+   "Aconselhamento, ao indicar como resolver o problema."
+  ],
+  "gab": 0,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Res. COFEN 736/2024 (Processo de Enfermagem); Peplau, Interpersonal Relations in Nursing, 1952",
+  "coment": "Reflexo é a técnica em que o enfermeiro devolve à pessoa o sentimento que ela expressou, com outras palavras, mostrando que foi ouvida e convidando a aprofundar. Ao traduzir a queixa em sentir-se sozinha e sem apoio, a enfermeira nomeia o afeto sem julgar. Clarificação é pedir que a pessoa explique o que quis dizer; resumo é sintetizar os pontos principais da conversa; silêncio é dar tempo para a pessoa organizar a fala. Aconselhamento precoce, ao contrário, é barreira de comunicação, porque oferece solução antes de compreender a situação e reduz a participação da pessoa no próprio cuidado.",
+  "porAlt": [
+   "Correta: devolver o sentimento expresso, com outras palavras, é a técnica de reflexo.",
+   "Errada: clarificação pede explicação; a enfermeira nomeou o sentimento.",
+   "Errada: resumo sintetiza vários pontos, o que não ocorreu na resposta.",
+   "Errada: a enfermeira falou; silêncio terapêutico é não intervir verbalmente.",
+   "Errada: aconselhamento precoce é barreira e não foi o que ela fez."
+  ]
+ },
+ {
+  "q": "Na admissão em leito de saúde mental de hospital geral, homem de 29 anos conta que ouve, há duas semanas, uma voz masculina que o manda sair de casa à noite, e fala de forma acelerada durante toda a entrevista. A enfermeira vai registrar o exame do estado mental no prontuário. Qual registro segue a recomendação para essa etapa da avaliação?",
+  "alts": [
+   "Refere ouvir voz masculina que o manda sair de casa; fala acelerada.",
+   "Paciente psicótico e agitado, com alucinações e fala bem alterada.",
+   "Paciente esquizofrênico em surto, pouco colaborativo na entrevista.",
+   "Paciente delirante e sem crítica, com risco de fuga noturna da unidade.",
+   "Quadro de mania psicótica, aguardando a definição diagnóstica médica."
+  ],
+  "gab": 0,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Res. COFEN 736/2024 (Processo de Enfermagem: avaliação de enfermagem)",
+  "coment": "O exame do estado mental integra a avaliação de enfermagem, primeira etapa do Processo de Enfermagem (Res. COFEN 736/2024), e descreve como a pessoa se apresenta e funciona no momento da entrevista. O registro deve ser descritivo, com as palavras do paciente e o que foi observado, e não rótulos diagnósticos. Assim, a voz de comando entra na sensopercepção como relato, e a fala acelerada no curso do pensamento e na linguagem. Termos como psicótico, esquizofrênico, delirante ou mania são interpretações que empobrecem o registro e podem estigmatizar. Diante de alucinação, o enfermeiro pergunta o que as vozes dizem, porque a voz de comando para se ferir muda o risco.",
+  "porAlt": [
+   "Correta: o registro é descritivo, com o relato do paciente e o que foi observado.",
+   "Errada: psicótico e agitado são rótulos, e não descrição do que foi observado.",
+   "Errada: diagnóstico médico como rótulo não descreve o estado mental atual.",
+   "Errada: delirante e sem crítica são interpretações não sustentadas pelo relato.",
+   "Errada: o registro de enfermagem descreve achados, não hipótese diagnóstica."
+  ]
+ },
+ {
+  "q": "Homem de 55 anos é trazido à UPA pela esposa por agitação e fala desconexa iniciadas há duas horas. Está sudoreico, confuso, tenta sair da maca e não reconhece a esposa. Ela informa que ele usa insulina e que nunca teve problema psiquiátrico. Qual é a primeira medida da enfermeira?",
+  "alts": [
+   "Pedir haloperidol intramuscular para controlar logo a agitação.",
+   "Aplicar contenção mecânica até a chegada do psiquiatra de plantão.",
+   "Aferir glicemia capilar e sinais vitais antes de outra conduta.",
+   "Encaminhar ao CAPS de referência para avaliação em saúde mental.",
+   "Fazer desescalada verbal e aguardar a melhora espontânea do quadro."
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Crise, suicídio e contenção",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretrizes brasileiras para o manejo da agitação psicomotora (ABP, Baldaçara et al., Braz J Psychiatry, 2019)",
+  "coment": "Agitação é síndrome, não diagnóstico. Antes de atribuí-la a transtorno psiquiátrico, a equipe procura causas clínicas como hipoglicemia, hipóxia, intoxicação, abstinência alcoólica, trauma de crânio, infecção e delirium. Glicemia capilar e sinais vitais são as primeiras medidas do enfermeiro, ao lado da segurança da cena. Neste caso, usuário de insulina, sudoreico e confuso, sem história psiquiátrica, a hipoglicemia é a principal hipótese e tem tratamento imediato. Sedar ou conter sem medir a glicemia atrasa a correção e pode mascarar a causa; esperar melhora espontânea é perigoso.",
+  "porAlt": [
+   "Errada: sedar antes de medir a glicemia atrasa a correção da causa provável.",
+   "Errada: contenção não é primeira medida e não trata a causa da agitação.",
+   "Correta: glicemia capilar e sinais vitais afastam causa clínica, como a hipoglicemia.",
+   "Errada: quadro agudo com causa clínica provável é atendido na urgência.",
+   "Errada: aguardar melhora espontânea atrasa o tratamento da hipoglicemia."
+  ]
+ },
+ {
+  "q": "Na sala de observação do pronto-socorro, mulher de 32 anos, com glicemia e sinais vitais normais e sem causa clínica identificada, grita, anda de um lado para outro e ameaça a equipe, sem objetos nas mãos. A enfermeira organiza a desescalada verbal. Qual medida está de acordo com a diretriz brasileira de agitação psicomotora?",
+  "alts": [
+   "Toda a equipe se aproxima junto, mostrando força numérica a ela.",
+   "Fechar a porta da sala para evitar a fuga durante a abordagem.",
+   "Usar frases longas, explicando em detalhes as regras do setor.",
+   "Um profissional conduz, com saídas livres para ela e para a equipe.",
+   "Ficar a menos de um braço de distância para transmitir segurança a ela."
+  ],
+  "gab": 3,
+  "tema": "mental",
+  "sub": "Crise, suicídio e contenção",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes brasileiras para o manejo da agitação psicomotora (ABP, Baldaçara et al., Braz J Psychiatry, 2019)",
+  "coment": "A diretriz brasileira de agitação (ABP 2019) começa pelo ambiente e pela palavra. Na desescalada verbal, um profissional conduz a abordagem e os demais ficam à vista; respeita-se a distância de cerca de dois braços; deixa-se uma saída livre para o paciente e outra para a equipe; retiram-se objetos que possam virar arma; fala-se pouco, em frases curtas, oferecendo escolhas reais. A medicação oral aceita por quem colabora já é desescalada bem-sucedida. Aproximação coletiva, porta fechada e proximidade excessiva aumentam a sensação de ameaça e o risco de agressão para todos.",
+  "porAlt": [
+   "Errada: a aproximação de toda a equipe aumenta a sensação de ameaça.",
+   "Errada: deve haver saída livre para a paciente e outra para a equipe.",
+   "Errada: a diretriz recomenda frases curtas e oferta de escolhas reais.",
+   "Correta: um condutor e saídas livres para paciente e equipe reduzem a ameaça percebida.",
+   "Errada: recomenda-se distância de cerca de dois braços da paciente."
+  ]
+ },
+ {
+  "q": "Paciente de 48 anos, internado em episódio de mania, tenta agredir outro paciente e a equipe, sem resposta à desescalada verbal nem à medicação intramuscular prescrita. Persistindo o risco de dano iminente, a equipe decide pela contenção mecânica. Pela Resolução COFEN 746/2024, em que condição a contenção deve ser aplicada?",
+  "alts": [
+   "Como único meio disponível, sob supervisão direta do enfermeiro.",
+   "Por decisão do técnico de enfermagem, com ciência posterior dele.",
+   "Como medida disciplinar, até o paciente se desculpar com a equipe.",
+   "Por tempo fixo de 24 horas, independentemente da evolução clínica.",
+   "Sob supervisão à distância do enfermeiro, pela câmera do setor."
+  ],
+  "gab": 0,
+  "tema": "mental",
+  "sub": "Crise, suicídio e contenção",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 746/2024, art. 1º, caput e § 1º",
+  "coment": "A Resolução COFEN 746/2024, que revogou a 427/2012, determina no art. 1º que a contenção mecânica só será realizada quando for o único meio disponível para prevenir dano imediato ou iminente ao paciente ou aos demais, e o § 1º exige que a aplicação ocorra sob supervisão direta do enfermeiro. Supervisão por câmera ou ciência posterior não atendem à norma. Contenção não é punição, não tem tempo fixo e deve ser retirada assim que o risco cessar. O art. 2º exige monitoramento do paciente contido pela equipe de enfermagem, e o art. 3º, registro das razões, da duração e das avaliações.",
+  "porAlt": [
+   "Correta: o art. 1º exige único meio disponível e supervisão direta do enfermeiro.",
+   "Errada: a contenção é aplicada sob supervisão direta do enfermeiro, não depois dela.",
+   "Errada: contenção não é punição; só se justifica para prevenir dano iminente.",
+   "Errada: não há tempo fixo; a contenção é retirada assim que o risco cessa.",
+   "Errada: a resolução exige supervisão direta, e não acompanhamento à distância."
+  ]
+ },
+ {
+  "q": "Equipe de suporte avançado do SAMU atende, na residência, homem de 35 anos em agitação psicomotora grave, que ameaça a família com socos e não responde à abordagem verbal. Na excepcionalidade, a contenção mecânica será feita pelos profissionais do atendimento pré-hospitalar móvel. Pela Resolução COFEN 746/2024, qual o número mínimo de pessoas para conter de forma segura?",
+  "alts": [
+   "Três pessoas.",
+   "Quatro pessoas.",
+   "Duas pessoas.",
+   "Cinco pessoas.",
+   "Seis pessoas."
+  ],
+  "gab": 3,
+  "tema": "mental",
+  "sub": "Crise, suicídio e contenção",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "Resolução COFEN 746/2024, art. 1º, § 2º",
+  "coment": "O § 2º do art. 1º da Resolução COFEN 746/2024 prevê que, na excepcionalidade, os profissionais do atendimento pré-hospitalar móvel podem realizar a contenção mecânica de maneira segura, com no mínimo cinco pessoas. A regra vale para a excepcionalidade do atendimento móvel; no serviço de saúde, a aplicação se dá sob supervisão direta do enfermeiro (art. 1º, § 1º). Continuam valendo as regras gerais da norma: contenção apenas como único meio para prevenir dano imediato ou iminente, monitoramento do paciente contido pela equipe de enfermagem e registro das razões, da duração, das avaliações, dos eventos adversos e do monitoramento clínico.",
+  "porAlt": [
+   "Errada: três pessoas ficam abaixo do mínimo fixado pela Resolução COFEN 746/2024.",
+   "Errada: quatro pessoas não alcançam o mínimo de cinco previsto na norma.",
+   "Errada: duas pessoas não permitem contenção segura e contrariam a resolução.",
+   "Correta: o art. 1º, § 2º, fixa no mínimo cinco pessoas na contenção pré-hospitalar.",
+   "Errada: a norma fixa o mínimo em cinco, e não em seis pessoas."
+  ]
+ },
+ {
+  "q": "Em auditoria de prontuários da enfermaria psiquiátrica, a enfermeira da educação permanente encontra vários registros de contenção mecânica com apenas a anotação paciente contido por agitação, sem horários nem evolução. Ela prepara um treinamento para a equipe. Pela Resolução COFEN 746/2024, quais informações devem constar no prontuário?",
+  "alts": [
+   "Razões, duração, avaliações, eventos adversos e monitoramento clínico.",
+   "Nome de quem conteve, material das faixas usadas e horário de início.",
+   "Assinatura do familiar que autorizou e o número de faixas utilizadas.",
+   "Diagnóstico psiquiátrico, código da CID e a prescrição de contenção.",
+   "Horários de início e de fim, dispensados os dados de monitoramento clínico."
+  ],
+  "gab": 0,
+  "tema": "mental",
+  "sub": "Crise, suicídio e contenção",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 746/2024, arts. 2º e 3º",
+  "coment": "O art. 3º da Resolução COFEN 746/2024 determina que constem no prontuário do paciente as razões para o emprego da contenção mecânica, sua duração, as avaliações realizadas, os eventos adversos e o detalhamento do monitoramento clínico. O art. 2º complementa que todo paciente contido deve ser monitorado pela equipe de enfermagem, para promover a segurança e prevenir danos e eventos adversos. Na prática, isso inclui perfusão dos membros, sinais vitais, oximetria, hidratação e eliminações. A Resolução CFM 2.057/2013 também prevê que a família seja informada, mas a autorização familiar não substitui nem compõe o registro exigido pela norma do COFEN.",
+  "porAlt": [
+   "Correta: o art. 3º lista razões, duração, avaliações, eventos adversos e monitoramento.",
+   "Errada: esses dados são insuficientes e omitem razões, avaliações e monitoramento.",
+   "Errada: a norma não condiciona a contenção nem o registro à assinatura do familiar.",
+   "Errada: diagnóstico e CID não substituem os itens exigidos pelo art. 3º.",
+   "Errada: o monitoramento clínico é item obrigatório do registro da contenção."
+  ]
+ },
+ {
+  "q": "Adolescente de 15 anos é atendida no pronto-socorro após ingerir comprimidos do avô em tentativa de suicídio. Estabilizada, será internada na pediatria. A enfermeira preenche a ficha de notificação de violência interpessoal e autoprovocada do SINAN. Pela Portaria GM/MS 11.211/2026 e pela Lei 13.819/2019, como deve ser feita a notificação?",
+  "alts": [
+   "Semanal, à Secretaria Municipal, sem comunicação a outros órgãos.",
+   "Imediata ao Ministério da Saúde, dispensada a Secretaria Municipal.",
+   "Mensal, ao conselho tutelar, que repassa os dados à vigilância local.",
+   "Imediata à delegacia, por se tratar de ingestão intencional de remédio.",
+   "Imediata, em até 24 horas, à Secretaria Municipal, e ao conselho tutelar."
+  ],
+  "gab": 4,
+  "tema": "mental",
+  "sub": "Crise, suicídio e contenção",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 11.211/2026 (Lista Nacional de Notificação Compulsória, item 66b) e Lei 13.819/2019",
+  "coment": "Na Lista Nacional de Notificação Compulsória atualizada pela Portaria GM/MS 11.211/2026, o item violência sexual e tentativa de suicídio é de notificação imediata, em até 24 horas, à Secretaria Municipal de Saúde; já violência doméstica e outras violências têm notificação semanal. A Lei 13.819/2019, que instituiu a Política Nacional de Prevenção da Automutilação e do Suicídio, torna compulsória a notificação de casos suspeitos ou confirmados de violência autoprovocada e determina que, em criança ou adolescente, o conselho tutelar também seja comunicado. A notificação é sigilosa e usa a ficha de violência interpessoal e autoprovocada do SINAN.",
+  "porAlt": [
+   "Errada: a periodicidade semanal é a de violência doméstica e outras violências.",
+   "Errada: a notificação imediata da tentativa é dirigida à Secretaria Municipal.",
+   "Errada: a notificação é imediata e vai à saúde; o conselho tutelar é comunicado à parte.",
+   "Errada: a notificação é sanitária e sigilosa, e não comunicação policial.",
+   "Correta: tentativa de suicídio é imediata à SMS, com conselho tutelar em adolescente."
+  ]
+ },
+ {
+  "q": "Na unidade básica, homem de 46 anos, recém-divorciado e desempregado, diz à enfermeira que tem pensado em morrer. Perguntado diretamente, conta que guardou cartelas de amitriptilina em casa e escolheu o dia de tomar todas. Ele veio sozinho à consulta. Qual conduta de enfermagem é adequada?",
+  "alts": [
+   "Agendar retorno em 30 dias e orientar atividade física regular.",
+   "Evitar novas perguntas para não estimular a ideia de suicídio.",
+   "Aplicar escala de risco e decidir a conduta pela pontuação obtida.",
+   "Entregar o número do CVV 188 e liberá-lo com a família avisada.",
+   "Não deixá-lo sozinho, retirar o meio e acionar a avaliação médica."
+  ],
+  "gab": 4,
+  "tema": "mental",
+  "sub": "Crise, suicídio e contenção",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "NICE NG225 (2022) e CANMAT 2023 para transtorno depressivo maior (Can J Psychiatry, 2024)",
+  "coment": "O que separa a ideação passiva da situação que pede ação imediata é a presença de plano, intenção, acesso ao meio e preparação, além de tentativa recente. Este paciente tem os quatro: pensa em morrer, escolheu o método, tem o meio em casa e marcou a data. A conduta é não deixá-lo sozinho, providenciar a retirada do meio letal e acionar a equipe para avaliação médica, com internação se necessário. Perguntar diretamente sobre suicídio não aumenta o risco. A NICE NG225 recomenda não usar escalas para prever suicídio nem para decidir alta ou tratamento, e liberar com um telefone ignora o risco iminente.",
+  "porAlt": [
+   "Errada: retorno em 30 dias ignora o risco iminente de um plano já definido.",
+   "Errada: perguntar diretamente sobre suicídio não induz o ato e orienta a conduta.",
+   "Errada: a NICE NG225 desaconselha decidir a conduta por escala de risco.",
+   "Errada: com plano e meio disponíveis, liberar o paciente é inseguro.",
+   "Correta: plano, meio, preparo e intenção pedem vigilância, retirada do meio e avaliação."
+  ]
+ },
+ {
+  "q": "Mulher de 22 anos, com ideação suicida passiva, sem plano, intenção ou tentativa recente, será acompanhada pela unidade básica e pelo CAPS. Antes da saída, a enfermeira constrói com ela, por escrito, o plano de segurança, com a mãe presente. Qual conjunto de elementos deve compor esse plano?",
+  "alts": [
+   "Contrato de não suicídio assinado e retorno ao serviço apenas se houver piora.",
+   "Sinais de alerta, contatos de ajuda, serviços como CVV 188 e retirada de meios.",
+   "Pontuação em escala preditiva e classificação em baixo, médio ou alto risco.",
+   "Lista de proibições e vigilância constante da família em tempo integral.",
+   "Internação involuntária programada caso ela falte a alguma das consultas marcadas."
+  ],
+  "gab": 1,
+  "tema": "mental",
+  "sub": "Crise, suicídio e contenção",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "NICE NG225 (2022) e Lei 13.819/2019",
+  "coment": "O plano de segurança é escrito com a própria pessoa e reúne sinais de alerta de que a crise se aproxima, estratégias pessoais para lidar com ela, pessoas e lugares que distraem, pessoas a quem pedir ajuda, serviços a acionar (CAPS, UBS, SAMU 192, CVV 188) e a retirada ou restrição do acesso a meios letais. Vem acompanhado de retorno em poucos dias e busca ativa, não de espera pela piora. A NICE NG225 recomenda não usar escalas para prever suicídio nem estratificar em baixo, médio ou alto risco para decidir o cuidado. Internação involuntária exige laudo médico e não serve como ameaça por falta à consulta.",
+  "porAlt": [
+   "Errada: o retorno é programado em poucos dias, com busca ativa, sem esperar piora.",
+   "Correta: sinais de alerta, contatos, serviços e retirada de meios compõem o plano.",
+   "Errada: a NICE NG225 desaconselha estratificar risco por escala para decidir o cuidado.",
+   "Errada: o plano se apoia em estratégias da pessoa, não em proibições e vigilância.",
+   "Errada: internação involuntária exige laudo médico e não é sanção por falta."
+  ]
+ }
+]

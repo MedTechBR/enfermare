@@ -1,0 +1,502 @@
+[
+ {
+  "q": "Na reunião de equipe de uma Unidade Básica, a enfermeira revisa a lista de pessoas idosas acompanhadas pelos agentes comunitários para priorizar as visitas domiciliares. Pelo critério operacional de idoso frágil ou em situação de fragilidade da Política Nacional de Saúde da Pessoa Idosa, qual destas pessoas se enquadra como frágil?",
+  "alts": [
+   "Homem de 72 anos, hipertenso e diabético, independente no dia a dia.",
+   "Mulher de 70 anos que mora sozinha e faz as próprias compras.",
+   "Mulher de 68 anos que recebeu alta hospitalar há duas semanas.",
+   "Homem de 74 anos que usa cinco remédios e ainda dirige o carro.",
+   "Mulher de 66 anos com artrose de joelho que anda sem apoio."
+  ],
+  "gab": 2,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.528/2006 (Política Nacional de Saúde da Pessoa Idosa)",
+  "coment": "A Portaria GM/MS 2.528/2006 traz uma definição operacional de idoso frágil ou em situação de fragilidade, diferente do fenótipo de Fried. Entra quem vive em ILPI, está acamado, esteve hospitalizado recentemente por qualquer razão, tem doença sabidamente incapacitante (AVE, síndromes demenciais e outras doenças neurodegenerativas, etilismo, neoplasia terminal, amputação), tem ao menos uma incapacidade funcional básica, vive situação de violência doméstica ou tem 75 anos ou mais. A hospitalização recente basta, mesmo aos 68 anos. Multimorbidade controlada, polifarmácia, morar sozinho ou artrose sem incapacidade não estão na lista, e o critério etário só começa aos 75.",
+  "porAlt": [
+   "Errada: hipertensão e diabetes com independência funcional não são critério de fragilidade da PNSPI.",
+   "Errada: morar sozinho não consta da lista, e ela segue independente nas atividades instrumentais.",
+   "Correta: hospitalização recente, por qualquer razão, é critério da PNSPI, sem depender da idade.",
+   "Errada: polifarmácia não é critério da portaria, e aos 74 anos ainda não vale o critério etário.",
+   "Errada: artrose sem incapacidade funcional básica não entra no critério operacional da portaria."
+  ]
+ },
+ {
+  "q": "Em uma aula para residentes, o preceptor afirma que a política setorial do SUS voltada à saúde da pessoa idosa é a mesma lei que criou o Conselho Nacional da Pessoa Idosa. Uma residente discorda e cita a norma correta. Qual norma aprovou a Política Nacional de Saúde da Pessoa Idosa e qual ato ela revogou?",
+  "alts": [
+   "Lei 8.842/1994, que também criou o Conselho Nacional da Pessoa Idosa.",
+   "Lei 10.741/2003, que revogou a Portaria 1.395/1999 do Ministério.",
+   "Portaria GM/MS 2.528/2006, que revogou a Lei 8.842/1994.",
+   "Lei 14.423/2022, que revogou a Portaria GM/MS 2.528/2006.",
+   "Portaria GM/MS 2.528/2006, que revogou a Portaria 1.395/1999."
+  ],
+  "gab": 4,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.528/2006 (PNSPI) e Lei 8.842/1994 (Política Nacional da Pessoa Idosa)",
+  "coment": "Três normas formam a base legal e a prova costuma misturá-las. A Lei 8.842/1994 dispõe sobre a Política Nacional da Pessoa Idosa, de caráter intersetorial, e cria o Conselho Nacional da Pessoa Idosa. A Portaria GM/MS 2.528, de 19 de outubro de 2006, aprova a Política Nacional de Saúde da Pessoa Idosa (PNSPI), política setorial do SUS, e revogou a Portaria 1.395/1999, a primeira política de saúde do idoso. O Estatuto (Lei 10.741/2003) reúne direitos, e a Lei 14.423/2022 apenas trocou \"idoso\" por \"pessoa idosa\" no Estatuto. Uma portaria não revoga lei.",
+  "porAlt": [
+   "Errada: a Lei 8.842/1994 é a política intersetorial e criou o Conselho, mas não é a política setorial do SUS.",
+   "Errada: o Estatuto reúne direitos da pessoa idosa e não revogou a portaria de 1999.",
+   "Errada: uma portaria ministerial não revoga lei, e a Lei 8.842/1994 segue vigente.",
+   "Errada: a Lei 14.423/2022 só renomeou o Estatuto; a PNSPI de 2006 continua em vigor.",
+   "Correta: a Portaria 2.528/2006 aprovou a PNSPI e revogou a Portaria 1.395/1999, a primeira política."
+  ]
+ },
+ {
+  "q": "Na sala de vacinação de uma Unidade Básica, três pessoas idosas aguardam a mesma vacina de rotina, sem queixa aguda: um homem de 62 anos, que chegou primeiro, outro de 76 anos e uma mulher de 83 anos. A técnica pergunta à enfermeira quem deve ser chamado primeiro. Pelo Estatuto da Pessoa Idosa, qual é a orientação correta?",
+  "alts": [
+   "O de 76 anos, pela prioridade especial aos maiores de 75 anos.",
+   "A de 83 anos, pela prioridade especial aos maiores de 80 anos.",
+   "O de 62 anos, pois entre idosos vale a ordem de chegada.",
+   "A de 83 anos, por ser frágil pelo critério etário da PNSPI.",
+   "Os três juntos, pois o Estatuto não distingue idades acima de 60."
+  ],
+  "gab": 1,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 10.741/2003 (Estatuto da Pessoa Idosa), art. 3º, § 2º",
+  "coment": "O Estatuto da Pessoa Idosa (Lei 10.741/2003) considera pessoa idosa quem tem 60 anos ou mais (art. 1º) e, no art. 3º, § 2º, dá prioridade especial aos maiores de 80 anos sobre os demais idosos, inclusive no atendimento de saúde. Por isso a senhora de 83 anos é chamada antes. A confusão mais comum troca 80 por 75: os 75 anos aparecem como critério etário de fragilidade na PNSPI (Portaria 2.528/2006), que serve para organizar o cuidado, e não para definir a ordem de atendimento. A ordem de chegada só vale entre pessoas com o mesmo nível de prioridade.",
+  "porAlt": [
+   "Errada: a prioridade especial do Estatuto é para os maiores de 80 anos, não de 75.",
+   "Correta: o art. 3º, § 2º, dá aos maiores de 80 anos prioridade especial sobre os demais idosos.",
+   "Errada: o Estatuto cria prioridade especial dentro do grupo de idosos, acima da ordem de chegada.",
+   "Errada: a idade de 83 anos dá a prioridade, mas o fundamento é o Estatuto, não a fragilidade da PNSPI.",
+   "Errada: o Estatuto distingue, sim, os maiores de 80 anos com prioridade especial."
+  ]
+ },
+ {
+  "q": "Homem de 71 anos permanece na sala de observação do pronto-socorro aguardando o resultado de exames, em boas condições. A filha pede para ficar com ele, mas o coordenador lembra que a rotina do setor não admite acompanhantes na observação por falta de espaço. Pelo Estatuto da Pessoa Idosa, qual deve ser a conduta da enfermeira?",
+  "alts": [
+   "Garantir o acompanhante e, se inviável, o responsável justifica por escrito.",
+   "Negar o acompanhante, pois o direito vale só para pacientes internados.",
+   "Permitir o acompanhante apenas se o paciente tiver mais de 80 anos.",
+   "Liberar o acompanhante só no horário de visitas definido pela unidade.",
+   "Exigir aval prévio do Conselho Municipal da Pessoa Idosa para a permanência."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 10.741/2003 (Estatuto da Pessoa Idosa), art. 16",
+  "coment": "O art. 16 do Estatuto da Pessoa Idosa (Lei 10.741/2003) assegura à pessoa idosa internada ou em observação o direito a acompanhante, em tempo integral, segundo o critério médico. Quando o acompanhamento não for possível, cabe ao profissional de saúde responsável justificá-lo por escrito. A rotina interna do setor não se sobrepõe à lei: a observação está expressamente incluída, o direito vale a partir dos 60 anos e não depende de horário de visita nem de autorização de conselho. A enfermeira acolhe a filha, organiza o espaço possível e, se houver impedimento real, garante o registro da justificativa.",
+  "porAlt": [
+   "Correta: o art. 16 garante acompanhante na internação e na observação; o impedimento se justifica por escrito.",
+   "Errada: o artigo inclui expressamente a pessoa idosa em observação, não só a internada.",
+   "Errada: o direito vale para toda pessoa idosa, a partir dos 60 anos; os 80 anos marcam a prioridade especial.",
+   "Errada: o acompanhamento é em tempo integral, e não restrito ao horário de visitas da unidade.",
+   "Errada: o Estatuto não condiciona o acompanhante a autorização do Conselho da Pessoa Idosa."
+  ]
+ },
+ {
+  "q": "Mulher de 86 anos, com demência avançada e sem condições de compreender ou escolher, nunca foi interditada. Internada, tem indicação de um procedimento eletivo, sem risco iminente de vida. Os dois filhos estão presentes e acompanham o tratamento desde o início. Pelo art. 17 do Estatuto da Pessoa Idosa, a quem cabe optar pelo tratamento nessa situação?",
+  "alts": [
+   "Ao médico assistente, sempre que a paciente não puder decidir.",
+   "Ao Ministério Público, comunicado antes de qualquer conduta.",
+   "À enfermeira responsável, como gestora do cuidado da paciente.",
+   "Aos familiares, pois não há curador nem risco iminente de vida.",
+   "Ao Conselho da Pessoa Idosa, por se tratar de pessoa vulnerável."
+  ],
+  "gab": 3,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Lei 10.741/2003 (Estatuto da Pessoa Idosa), art. 17",
+  "coment": "O art. 17 do Estatuto da Pessoa Idosa garante a quem está no domínio de suas faculdades mentais o direito de optar pelo tratamento. Sem condições de optar, a decisão segue uma ordem: o curador, se a pessoa for interditada; os familiares, se não houver curador ou ele não puder ser contactado; o médico, quando houver iminente risco de vida sem tempo hábil para consultar curador ou família; e o próprio médico quando não houver curador nem familiar conhecido, caso em que comunica o Ministério Público. Aqui não há interdição, não há risco iminente e os filhos estão presentes: decidem os familiares.",
+  "porAlt": [
+   "Errada: o médico decide só no risco iminente sem tempo para consulta ou sem curador nem família conhecida.",
+   "Errada: o Ministério Público é comunicado apenas quando o médico decide por falta de curador e de família.",
+   "Errada: a enfermeira participa da discussão, mas o Estatuto não lhe atribui a escolha do tratamento.",
+   "Correta: sem curador e sem risco iminente, o art. 17 transfere a opção aos familiares presentes.",
+   "Errada: o Conselho da Pessoa Idosa não está na ordem de decisão prevista no art. 17."
+  ]
+ },
+ {
+  "q": "Em visita domiciliar, a enfermeira encontra mulher de 79 anos, acamada e dependente do filho, com lesão por pressão extensa e sem tratamento, emagrecida e com higiene precária. O filho é evasivo e diz que a mãe \"sempre foi assim\". A enfermeira suspeita de negligência. Pela Portaria GM/MS 11.211/2026 e pelo Estatuto, qual é a conduta quanto à notificação?",
+  "alts": [
+   "Aguardar a confirmação pelo serviço social antes de notificar o caso.",
+   "Notificar em até 24 horas, como toda violência contra pessoa idosa.",
+   "Notificar a suspeita no SINAN, semanal, e comunicar ao MP ou ao Conselho.",
+   "Comunicar só à polícia, pois negligência não entra na lista do SINAN.",
+   "Notificar apenas se a própria idosa autorizar a comunicação do caso."
+  ],
+  "gab": 2,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 10.741/2003, art. 19, e Portaria GM/MS 11.211/2026 (Lista Nacional de Notificação Compulsória)",
+  "coment": "Pelo art. 19 do Estatuto da Pessoa Idosa, a suspeita ou a confirmação de violência é objeto de notificação compulsória à autoridade sanitária e de comunicação obrigatória à autoridade policial, ao Ministério Público ou ao Conselho da Pessoa Idosa. O § 1º inclui a omissão, e a negligência é uma das formas de violência. Na Lista Nacional atualizada pela Portaria GM/MS 11.211/2026, violência doméstica e/ou outras violências têm notificação semanal, pela ficha de violência interpessoal e autoprovocada do SINAN; só a violência sexual e a tentativa de suicídio são imediatas. A suspeita basta, e a enfermeira registra os achados com precisão.",
+  "porAlt": [
+   "Errada: a suspeita já obriga a notificar; esperar confirmação é o erro mais cobrado.",
+   "Errada: o prazo de 24 horas é da violência sexual e da tentativa de suicídio; as demais são semanais.",
+   "Correta: a suspeita de negligência é notificada no SINAN, semanalmente, com comunicação ao MP ou ao Conselho.",
+   "Errada: negligência é violência por omissão e entra na notificação pela ficha do SINAN.",
+   "Errada: a notificação compulsória não depende de autorização da pessoa idosa."
+  ]
+ },
+ {
+  "q": "No pronto-socorro, a enfermeira atende mulher de 81 anos, com demência moderada, trazida de uma instituição de longa permanência. Ao exame, há lesões na região genital, e a cuidadora relata mudança brusca de comportamento, com recusa ao banho. A equipe suspeita de violência sexual. Pela Portaria GM/MS 11.211/2026, qual é a periodicidade de notificação desse caso?",
+  "alts": [
+   "Imediata, em até 24 horas, à Secretaria Municipal de Saúde.",
+   "Semanal, à Secretaria Municipal, como as demais violências.",
+   "Imediata, em até 24 horas, somente ao Ministério da Saúde.",
+   "Mensal, ao Conselho da Pessoa Idosa, após o exame pericial.",
+   "Semanal, só depois que a perícia confirmar a violência."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 11.211/2026 (Lista Nacional de Notificação Compulsória), item 66",
+  "coment": "Na Lista Nacional de Notificação Compulsória atualizada pela Portaria GM/MS 11.211/2026, o item 66 separa duas situações. Violência doméstica e/ou outras violências têm notificação semanal. Violência sexual e tentativa de suicídio têm notificação imediata, em até 24 horas, para a Secretaria Municipal de Saúde. A suspeita basta para notificar, sem esperar perícia. Além da notificação, o art. 19 do Estatuto da Pessoa Idosa (Lei 10.741/2003) exige comunicação à autoridade policial, ao Ministério Público ou ao Conselho da Pessoa Idosa, e a enfermeira registra achados e falas com precisão.",
+  "porAlt": [
+   "Correta: violência sexual tem notificação imediata, em até 24 horas, à Secretaria Municipal de Saúde.",
+   "Errada: a periodicidade semanal vale para violência doméstica e outras, não para a violência sexual.",
+   "Errada: a notificação imediata da violência sexual é para a Secretaria Municipal, não só para o Ministério.",
+   "Errada: não existe periodicidade mensal na lista, e a notificação não espera exame pericial.",
+   "Errada: a suspeita basta, e a violência sexual exige notificação imediata, não semanal."
+  ]
+ },
+ {
+  "q": "A agente comunitária aplica o IVCF-20 em um homem de 78 anos durante a visita domiciliar e obtém 15 pontos, com pontuação nas dimensões de mobilidade, cognição e atividades de vida diária. Ela leva o resultado à enfermeira da equipe. Como interpretar esse escore e qual o próximo passo?",
+  "alts": [
+   "Risco moderado, pois o alto risco começa em 20 pontos no índice.",
+   "Baixo risco, pois o escore máximo do índice chega a 100 pontos.",
+   "Resultado inválido, pois o índice só pode ser aplicado por médico.",
+   "Alto risco, com indicação de avaliação multidimensional completa.",
+   "Risco moderado, com repetição do índice somente após um ano."
+  ],
+  "gab": 3,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "IVCF-20 (Moraes et al., Rev Saúde Pública, 2016)",
+  "coment": "O Índice de Vulnerabilidade Clínico-Funcional (IVCF-20, Moraes e colaboradores, 2016) tem 20 perguntas em oito dimensões: idade, autopercepção de saúde, atividades de vida diária, cognição, humor, mobilidade, comunicação e comorbidades. Vai de 0 a 40 pontos: 0 a 6 é baixo risco de vulnerabilidade clínico-funcional, 7 a 14 é risco moderado e 15 ou mais é alto risco, que indica avaliação multidimensional completa. É instrumento de triagem, aplicável por qualquer profissional treinado, inclusive o agente comunitário. Com 15 pontos, o homem já está no alto risco.",
+  "porAlt": [
+   "Errada: o alto risco começa em 15 pontos; 7 a 14 é a faixa de risco moderado.",
+   "Errada: o IVCF-20 vai de 0 a 40 pontos, e 15 já é alto risco.",
+   "Errada: o índice é aplicável por qualquer profissional treinado, inclusive o agente comunitário.",
+   "Correta: 15 pontos ou mais é alto risco e indica avaliação multidimensional completa.",
+   "Errada: 15 pontos não é risco moderado; o alto risco pede avaliação completa, sem esperar um ano."
+  ]
+ },
+ {
+  "q": "Na consulta de enfermagem, mulher de 76 anos relata que perdeu 4 kg nos últimos oito meses sem fazer dieta; antes pesava 70 kg. A enfermeira aplica a Mini Avaliação Nutricional na forma reduzida e obtém 9 pontos. Como interpretar o escore e a perda de peso?",
+  "alts": [
+   "Estado nutricional normal, e a perda de peso é esperada na idade.",
+   "Desnutrição, pois todo escore abaixo de 12 confirma o diagnóstico.",
+   "Estado nutricional normal, pois a perda ficou abaixo de 10% do peso.",
+   "Desnutrição grave, que exige sonda enteral imediata pela enfermagem.",
+   "Risco de desnutrição, e a perda de 5,7% do peso é sinal de alarme."
+  ],
+  "gab": 4,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Mini Avaliação Nutricional, forma reduzida (MNA-SF, Kaiser et al., 2009)",
+  "coment": "A forma reduzida da Mini Avaliação Nutricional vai de 0 a 14 pontos: 12 a 14 indica estado nutricional normal, 8 a 11 indica risco de desnutrição e 0 a 7 indica desnutrição. Com 9 pontos, a paciente está em risco. A perda de 4 kg sobre 70 kg corresponde a cerca de 5,7% do peso, e perda não intencional de 5% ou mais em 6 a 12 meses é sinal de alarme, que não deve ser atribuído à idade. A conduta é investigar causas (dentição, deglutição, depressão, medicamentos, doença orgânica, isolamento), registrar o escore e planejar o seguimento nutricional com a equipe.",
+  "porAlt": [
+   "Errada: 9 pontos não é estado normal, e perda de peso não intencional nunca é esperada pela idade.",
+   "Errada: abaixo de 12 há duas faixas; 8 a 11 é risco de desnutrição, e desnutrição é de 0 a 7.",
+   "Errada: o alarme é perda de 5% ou mais em 6 a 12 meses, e 9 pontos não é estado normal.",
+   "Errada: o escore 9 é risco, não desnutrição grave, e sonda não é decisão isolada da enfermagem.",
+   "Correta: 8 a 11 pontos é risco de desnutrição, e perder 5% ou mais em até 12 meses é sinal de alarme."
+  ]
+ },
+ {
+  "q": "Homem de 73 anos, viúvo há seis meses, procura a unidade com queixa de esquecimento. Nas respostas, diz muitas vezes \"não sei\" e conta que deixou de ir às reuniões da igreja, de que gostava. A enfermeira aplica a Escala de Depressão Geriátrica de 15 itens e obtém 8 pontos. Qual é a interpretação e a conduta adequadas?",
+  "alts": [
+   "Confirma depressão maior e autoriza o início imediato de um antidepressivo.",
+   "Sugere depressão; pede avaliação clínica e pergunta sobre ideação suicida.",
+   "Está dentro do esperado no luto e dispensa seguimento pela equipe.",
+   "Indica demência de Alzheimer e dispensa nova avaliação do humor.",
+   "Só tem validade se a escala for reaplicada por médico psiquiatra."
+  ],
+  "gab": 1,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Escala de Depressão Geriátrica GDS-15; Caderno de Atenção Básica nº 19 (2006)",
+  "coment": "A GDS-15 tem 15 perguntas de sim ou não, e mais de 5 pontos sugere depressão, pedindo avaliação clínica. É instrumento de triagem, não de diagnóstico: não confirma depressão maior nem autoriza tratamento por si. O caso traz pistas típicas da depressão no idoso: queixa de memória com respostas \"não sei\" e perda de prazer em atividade antes valorizada. O luto recente não dispensa seguimento. Diante de suspeita de depressão, o risco de suicídio deve ser perguntado diretamente. Antes de pensar em demência, depressão, fármacos, hipotireoidismo, deficiência de B12 e déficit sensorial precisam ser investigados.",
+  "porAlt": [
+   "Errada: a GDS-15 é triagem; sugere depressão, mas não confirma o diagnóstico nem define tratamento.",
+   "Correta: acima de 5 pontos sugere depressão, pede avaliação clínica e pergunta direta sobre suicídio.",
+   "Errada: escore acima de 5 pede avaliação, e o luto recente não dispensa o acompanhamento.",
+   "Errada: a GDS avalia humor, não demência; queixa de memória com \"não sei\" sugere depressão.",
+   "Errada: a escala é aplicável pela enfermagem na avaliação multidimensional, sem exigir psiquiatra."
+  ]
+ },
+ {
+  "q": "Na consulta de rotina, a enfermeira pergunta ativamente sobre quedas a uma mulher de 76 anos. Ela conta que caiu duas vezes no último ano, sem se machucar, e diz que tem medo de cair de novo. Anda sem apoio e mora com o marido. Pela World Falls Guidelines 2022, como estratificar o risco e o que fazer?",
+  "alts": [
+   "Alto risco, por duas quedas no ano: avaliação multifatorial e intervenção multidomínio.",
+   "Baixo risco, pois as quedas não causaram lesão: só orientações gerais de segurança.",
+   "Risco intermediário: aplicar o TUG antes de decidir sobre qualquer intervenção.",
+   "Baixo risco, pois anda sem apoio: reavaliar somente se ocorrer uma nova queda.",
+   "Alto risco: restringir a marcha fora de casa até a próxima reavaliação de enfermagem."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "World Guidelines for Falls Prevention 2022 (Montero-Odasso et al., Age Ageing)",
+  "coment": "A World Falls Guidelines 2022 manda perguntar ativamente, ao menos uma vez por ano, se a pessoa caiu nos últimos 12 meses, se sente instabilidade e se tem medo de cair. Quem responde sim passa à estratificação. É de alto risco quem caiu com lesão que exigiu tratamento, caiu duas ou mais vezes no ano, é frágil, ficou no chão uma hora ou mais sem conseguir levantar ou teve suspeita de perda de consciência. Duas quedas no ano bastam, mesmo sem lesão, e esse grupo recebe avaliação multifatorial com intervenção multidomínio. O teste de marcha decide só entre risco intermediário e baixo. Restringir a marcha é iatrogenia.",
+  "porAlt": [
+   "Correta: duas ou mais quedas no ano definem alto risco, com avaliação multifatorial e intervenção multidomínio.",
+   "Errada: a ausência de lesão não rebaixa o risco quando houve duas ou mais quedas no ano.",
+   "Errada: o teste de marcha separa intermediário de baixo risco; duas quedas já classificam como alto.",
+   "Errada: andar sem apoio não exclui risco, e esperar nova queda contraria o rastreio ativo.",
+   "Errada: a classificação está certa, mas restringir a marcha acelera sarcopenia e medo de cair."
+  ]
+ },
+ {
+  "q": "Uma enfermaria de clínica médica revisa o protocolo de prevenção de quedas. A proposta é aplicar uma escala de risco na admissão e oferecer medidas preventivas apenas a quem atingir o escore de alto risco. Pela World Falls Guidelines 2022 e pelo NICE NG249, de 2025, qual orientação a enfermeira deve defender para os idosos internados?",
+  "alts": [
+   "Manter o escore de corte e oferecer medidas só ao grupo de alto risco.",
+   "Usar alarme de cama e meia antiderrapante em todos os idosos internados.",
+   "Restringir ao leito os de alto risco, com grades elevadas durante a noite.",
+   "Tratar todo idoso internado como de risco e agir sobre cada fator achado.",
+   "Aplicar a escala só após a primeira queda, para então definir as medidas."
+  ],
+  "gab": 3,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "World Guidelines for Falls Prevention 2022 e NICE NG249 (Falls, 2025)",
+  "coment": "No hospital, a World Falls Guidelines 2022 (recomendação 2B) e o NICE NG249 (2025) recomendam não usar escore de rastreio para decidir quem recebe prevenção, porque todo idoso internado é de risco. Avaliam-se os fatores daquele paciente (pressão deitado e em pé, delirium, marcha, visão, calçado, continência e medicamentos) e cada fator encontrado ganha uma ação, com educação individualizada. Alarme de cama, meia antiderrapante e contenção ou grade como prevenção de queda não têm evidência no hospital. Na prova, a Escala de Morse aparece como a escala de quedas; na prática, nenhum escore deve restringir a prevenção.",
+  "porAlt": [
+   "Errada: as diretrizes recomendam não usar escore para decidir quem recebe prevenção no hospital.",
+   "Errada: alarme de cama e meia antiderrapante não têm evidência de prevenir queda no hospital.",
+   "Errada: restrição ao leito e grade não previnem queda e aumentam imobilidade e lesão.",
+   "Correta: todo idoso internado é de risco, e cada fator identificado recebe uma ação específica.",
+   "Errada: a prevenção começa na admissão, para todos, e não depois da primeira queda."
+  ]
+ },
+ {
+  "q": "Homem de 82 anos, internado por pneumonia, tem noctúria, usa óculos e costuma levantar sozinho de madrugada para urinar. Na avaliação dos fatores de risco de queda, a enfermeira monta o plano de cuidados para a noite. Qual conjunto de medidas tem respaldo no hospital pelas diretrizes atuais de prevenção de quedas?",
+  "alts": [
+   "Alarme de cama e meia antiderrapante durante toda a internação.",
+   "Grades elevadas e contenção no leito durante o período noturno.",
+   "Ida programada ao banheiro, ajuda à noite, óculos e campainha à mão.",
+   "Restrição ao leito até a alta, com fralda para evitar que ele levante.",
+   "Hipnótico ao deitar para que ele não acorde durante a madrugada."
+  ],
+  "gab": 2,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "NICE NG249 (Falls, 2025) e World Guidelines for Falls Prevention 2022",
+  "coment": "Para o idoso internado, a avaliação individual dos fatores de risco orienta ações concretas. Funcionam a ida programada ao banheiro, a ajuda para levantar à noite, óculos e calçado fechado, campainha e andador ao alcance, cama baixa e travada e a suspensão do hipnótico. Alarme de cama, meia antiderrapante, contenção e grade como prevenção de queda não têm evidência no hospital. Restringir ao leito acelera a sarcopenia, e fralda em quem tem continência gera dependência. Hipnótico, benzodiazepínico ou droga Z, aumenta o risco de queda e de delirium e consta do Beers 2023 como medicamento a evitar.",
+  "porAlt": [
+   "Errada: alarme de cama e meia antiderrapante não têm evidência de reduzir quedas no hospital.",
+   "Errada: grade e contenção não previnem quedas e podem aumentar a gravidade das lesões.",
+   "Correta: micção programada, ajuda noturna, óculos e campainha ao alcance atacam os fatores dele.",
+   "Errada: restrição ao leito é iatrogenia e a fralda tira a continência que ele ainda tem.",
+   "Errada: hipnótico aumenta queda e delirium e é medicamento a evitar no idoso pelo Beers."
+  ]
+ },
+ {
+  "q": "Mulher de 71 anos caiu uma vez no último ano, sem lesão, e diz sentir-se instável ao andar. Não tem outros critérios de alto risco. Na avaliação, o Timed Up and Go é de 17 segundos. Ela pergunta à enfermeira o que pode fazer para não cair. Pela World Falls Guidelines 2022, qual intervenção deve ser orientada?",
+  "alts": [
+   "Caminhada leve uma vez por semana, durante quatro semanas seguidas.",
+   "Repouso relativo em casa até que o medo de cair diminua bastante.",
+   "Equilíbrio duas vezes por semana, por seis semanas, e depois suspender tudo.",
+   "Nenhuma intervenção, pois o TUG ficou abaixo de 20 segundos e está normal.",
+   "Exercício de equilíbrio e força 3 ou mais vezes por semana por 12 semanas."
+  ],
+  "gab": 4,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "World Guidelines for Falls Prevention 2022 (Montero-Odasso et al., Age Ageing)",
+  "coment": "Pela World Falls Guidelines 2022, quem caiu ou se sente instável, sem critério de alto risco, faz teste de marcha: TUG acima de 15 segundos ou velocidade abaixo de 0,8 m/s define risco intermediário, que recebe exercício de força e equilíbrio. A intervenção de maior força (recomendação forte, 1A) é o exercício com desafio de equilíbrio e exercícios funcionais, três ou mais sessões por semana, individualizado e progressivo, por pelo menos 12 semanas, mantido depois. Repouso para não cair é iatrogenia: acelera a sarcopenia e aumenta o medo de cair. Dose baixa ou curta não alcança o efeito descrito.",
+  "porAlt": [
+   "Errada: uma sessão semanal por quatro semanas fica muito abaixo da dose recomendada.",
+   "Errada: repouso acelera sarcopenia e aumenta o medo de cair, sendo iatrogenia.",
+   "Errada: a diretriz pede três ou mais sessões semanais por 12 semanas, mantidas depois.",
+   "Errada: TUG acima de 15 segundos já indica risco de queda; 17 segundos está alterado.",
+   "Correta: TUG acima de 15 s é risco intermediário; exercício 3 vezes por semana ou mais, por 12 semanas ou mais."
+  ]
+ },
+ {
+  "q": "Homem de 77 anos refere tontura ao levantar. A enfermeira mede a pressão após 5 minutos deitado: 138/80 mmHg, FC 72 bpm. Em pé, no primeiro minuto: 116/74 mmHg, FC 80 bpm; no terceiro minuto: 120/76 mmHg. Como interpretar a medida?",
+  "alts": [
+   "Resposta normal, pois a diastólica caiu menos de 10 mmHg.",
+   "Hipotensão ortostática, pela queda sistólica de 22 mmHg.",
+   "Resposta normal, pois no 3º minuto a queda foi menor que 20.",
+   "Só seria hipotensão ortostática com queda acima de 30 mmHg.",
+   "Medida inválida: a posição em pé exige 10 minutos de espera."
+  ],
+  "gab": 1,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "World Guidelines for Falls Prevention 2022 (Montero-Odasso et al., Age Ageing)",
+  "coment": "A hipotensão ortostática é causa tratável de queda e se mede de forma padronizada: após 5 minutos deitado e, em pé, entre 40 e 60 segundos e a cada minuto até 3 minutos. Queda sistólica de 20 mmHg ou diastólica de 10 mmHg em qualquer medida desse intervalo confirma. Aqui a sistólica caiu de 138 para 116 mmHg no primeiro minuto, 22 mmHg, e um critério basta. A recuperação parcial no terceiro minuto não anula o achado. O idoso tem barorreflexo mais lento, e a medida orienta desprescrição, levantar em etapas e outras ações do plano de prevenção de quedas.",
+  "porAlt": [
+   "Errada: basta um critério; a sistólica caiu 22 mmHg, mesmo com a diastólica estável.",
+   "Correta: queda sistólica de 20 mmHg ou mais até o 3º minuto confirma hipotensão ortostática.",
+   "Errada: vale a queda em qualquer medida até 3 minutos, e no 1º minuto ela passou de 20 mmHg.",
+   "Errada: o critério é queda sistólica de 20 mmHg ou diastólica de 10 mmHg, não 30 mmHg.",
+   "Errada: mede-se em pé entre 40 e 60 segundos e a cada minuto até 3 minutos."
+  ]
+ },
+ {
+  "q": "Mulher de 81 anos, em uso de anticoagulante oral por fibrilação atrial, é encontrada sentada no chão do quarto, de madrugada, na enfermaria. Diz que escorregou e bateu a cabeça na mesa de cabeceira, mas está lúcida e quer voltar logo para a cama. Qual é a conduta de enfermagem adequada?",
+  "alts": [
+   "Levantá-la logo, por estar lúcida, e reavaliar só se surgir alguma queixa.",
+   "Suspender o anticoagulante por conta própria e registrar o evento no prontuário.",
+   "Aplicar a escala de Morse e liberar a paciente se o escore for baixo.",
+   "Examinar antes de levantar, avisar o médico e estender a vigilância neurológica.",
+   "Conter no leito até a alta para impedir que a paciente caia de novo à noite."
+  ],
+  "gab": 3,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "World Guidelines for Falls Prevention 2022; Resolução COFEN 746/2024 (contenção)",
+  "coment": "Depois da queda, o enfermeiro examina antes de levantar: nível de consciência, dor e deformidade, sinais vitais e glicemia. Em seguida comunica o médico, registra e notifica o incidente. Na pessoa anticoagulada que bateu a cabeça, a vigilância neurológica se estende, porque o hematoma subdural pode aparecer horas depois, mesmo com a paciente lúcida no primeiro momento. Suspender anticoagulante é decisão médica. Escore de risco não substitui a avaliação pós-queda, e a contenção, pela Resolução COFEN 746/2024, só cabe como único meio de prevenir dano imediato, nunca como prevenção de queda.",
+  "porAlt": [
+   "Errada: lucidez inicial não exclui hematoma subdural tardio no idoso anticoagulado.",
+   "Errada: suspender o anticoagulante é decisão médica, não conduta autônoma da enfermagem.",
+   "Errada: escore de risco não substitui o exame pós-queda nem a vigilância neurológica.",
+   "Correta: exame antes de levantar, comunicação ao médico e vigilância neurológica prolongada.",
+   "Errada: contenção não é medida de prevenção de queda e só cabe diante de dano iminente."
+  ]
+ },
+ {
+  "q": "Homem de 79 anos, sem perda de peso e sem queixa de exaustão, tem força de preensão palmar no quintil inferior, marcha lenta no teste de 4,6 metros e gasto semanal de energia em atividade física muito baixo. Mora com a esposa e é independente nas atividades básicas. Pelo fenótipo de Fried e pela diretriz da ICFSR, qual a classificação e a base do plano?",
+  "alts": [
+   "Pré-frágil; repouso relativo para poupar a reserva funcional do paciente.",
+   "Robusto, pois não há perda de peso nem exaustão relatada por ele.",
+   "Frágil; exercício multicomponente com treino resistido progressivo.",
+   "Frágil; reposição hormonal como tratamento principal do quadro.",
+   "Pré-frágil; suplemento proteico isolado, sem exercício associado."
+  ],
+  "gab": 2,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Fenótipo de Fried (2001) e diretriz da ICFSR para fragilidade física (Dent et al., 2019)",
+  "coment": "O fenótipo de Fried (2001) tem cinco componentes: perda de peso não intencional (4,5 kg ou mais no ano), exaustão autorrelatada, fraqueza (preensão palmar no quintil inferior), lentidão (marcha em 4,6 m no quintil mais lento) e baixa atividade física (gasto semanal em quilocalorias no quintil inferior). Três ou mais é frágil; um ou dois, pré-frágil. Este homem tem fraqueza, lentidão e baixa atividade: é frágil, mesmo independente nas atividades básicas. Pela ICFSR (2019), a base do tratamento é exercício multicomponente com treino resistido progressivo; fármaco ou hormônio para fragilidade não é recomendado.",
+  "porAlt": [
+   "Errada: há três componentes de Fried, o que classifica como frágil; repouso piora a reserva.",
+   "Errada: fraqueza, lentidão e baixa atividade são três componentes, mesmo sem perda de peso.",
+   "Correta: três componentes definem fragilidade, e a base do plano é exercício com treino resistido.",
+   "Errada: a classificação está certa, mas a ICFSR não recomenda hormônio para tratar fragilidade.",
+   "Errada: são três componentes, e suplemento só se indica se houver desnutrição, sem tirar o exercício."
+  ]
+ },
+ {
+  "q": "Mulher de 84 anos, no terceiro dia de internação por infecção urinária, conversava bem na admissão. Hoje alterna períodos de sonolência com momentos mais despertos, não consegue dizer os meses do ano de trás para frente e responde às perguntas de forma coerente, mas lenta. Está calma. Pelo CAM, qual é a conclusão?",
+  "alts": [
+   "Delirium ausente, pois o pensamento está organizado e coerente.",
+   "Demência, pois a desatenção revela um declínio cognitivo de base.",
+   "Delirium ausente, pois a paciente está calma e sem agitação.",
+   "Depressão, pela sonolência e pela lentidão ao responder.",
+   "Delirium hipoativo: critérios 1 e 2 com consciência alterada."
+  ],
+  "gab": 4,
+  "tema": "idoso",
+  "sub": "Demências e delirium",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Confusion Assessment Method (CAM); NICE CG103 (Delirium, 2023)",
+  "coment": "O CAM confirma delirium com os critérios 1 (início agudo e curso flutuante) e 2 (desatenção), somados ao 3 (pensamento desorganizado) ou ao 4 (alteração do nível de consciência). A paciente mudou em relação à admissão e flutua ao longo do dia, não sustenta a atenção numa tarefa simples e alterna sonolência com vigília: 1, 2 e 4 presentes. O pensamento coerente não exclui o quadro, porque 3 e 4 são alternativos. É a forma hipoativa, sonolenta e quieta, a mais perdida por não incomodar. Demência tem início insidioso e atenção preservada até fases avançadas; a causa provável aqui é a infecção.",
+  "porAlt": [
+   "Errada: o pensamento organizado não exclui delirium, pois a consciência alterada supre o critério 3.",
+   "Errada: a mudança é aguda e flutuante em relação à admissão, o que não é padrão de demência.",
+   "Errada: a forma hipoativa é calma e sonolenta; ausência de agitação não exclui delirium.",
+   "Errada: início agudo, flutuação e desatenção apontam delirium, não depressão.",
+   "Correta: início agudo e flutuante, desatenção e sonolência fecham o CAM; é delirium hipoativo."
+  ]
+ },
+ {
+  "q": "Homem de 85 anos é admitido na enfermaria ortopédica com fratura de quadril, aguardando cirurgia. Usa óculos e aparelho auditivo e nunca teve episódio de confusão. A família pode ficar com ele durante o dia. A enfermeira planeja a prevenção de delirium. Qual conjunto de medidas segue o NICE CG103 e o programa HELP?",
+  "alts": [
+   "Óculos e aparelho auditivo, orientação, hidratação, mobilização e sono protegido.",
+   "Haloperidol em dose baixa todas as noites para prevenir a agitação no pós-operatório.",
+   "Benzodiazepínico ao deitar para garantir sono contínuo até o amanhecer.",
+   "Sonda vesical e contenção no leito para evitar quedas e perdas urinárias.",
+   "Quarto escuro e sem visitas, para reduzir ao máximo os estímulos ao paciente."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Demências e delirium",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "NICE CG103 (Delirium, atualização 2023) e Hospital Elder Life Program (Inouye et al., 1999)",
+  "coment": "Fratura de quadril e idade acima de 65 anos são fatores de risco de delirium, e prevenir é o tratamento mais eficaz. No ensaio do HELP (Inouye, 1999), intervir em seis fatores (cognição, sono, imobilidade, visão, audição e desidratação) reduziu o delirium de 15,0% para 9,9%. O NICE CG103 reúne orientação com relógio, calendário, luz e família presente, óculos e aparelho auditivo, hidratação, evacuação, nutrição e dor tratada, mobilização precoce e sono sem procedimento noturno. Devem ser evitados sonda, contenção, benzodiazepínico e anticolinérgico. Antipsicótico não previne delirium.",
+  "porAlt": [
+   "Correta: são as medidas não farmacológicas do HELP e do NICE CG103 sobre os fatores de risco.",
+   "Errada: antipsicótico não previne delirium nem encurta sua duração.",
+   "Errada: benzodiazepínico precipita e piora o delirium, salvo na abstinência.",
+   "Errada: sonda e contenção são fatores precipitantes de delirium e devem ser evitadas.",
+   "Errada: privar de luz e de família desorienta; a presença da família faz parte da prevenção."
+  ]
+ },
+ {
+  "q": "Idosa de 80 anos em delirium hiperativo tenta retirar a sonda nasoenteral. A enfermeira já tentou reorientação e a presença da filha, sem sucesso. O técnico de enfermagem sugere amarrar os punhos \"até ela se acalmar\". Pela Resolução COFEN 746/2024, em que condição a contenção mecânica pode ser realizada nessa paciente?",
+  "alts": [
+   "Quando o técnico julgar necessário, com registro no fim do plantão.",
+   "Com autorização escrita da família, dispensando a supervisão.",
+   "Como rotina noturna em todo idoso com delirium e sonda enteral.",
+   "Só como único meio de evitar dano iminente, sob supervisão direta.",
+   "Por tempo indeterminado até a alta, sem precisar de reavaliações."
+  ],
+  "gab": 3,
+  "tema": "idoso",
+  "sub": "Demências e delirium",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 746/2024 (contenção mecânica de pacientes)",
+  "coment": "Pela Resolução COFEN 746/2024, a contenção mecânica só é realizada quando for o único meio disponível para prevenir dano imediato ou iminente ao paciente ou a outros, sob supervisão direta do enfermeiro, com monitoramento e registro no prontuário das razões, da duração, das avaliações e dos eventos adversos. Não é rotina, não depende da vontade da família e não dispensa reavaliação. No delirium, a contenção é fator precipitante e piora o quadro; antes dela vêm busca da causa, reorientação, presença da família, retirada de dispositivos desnecessários e discussão com o médico sobre fixação ou alternativa à sonda.",
+  "porAlt": [
+   "Errada: a decisão não cabe ao técnico, exige supervisão direta e registro contínuo, não só no fim.",
+   "Errada: a autorização da família não dispensa a supervisão direta do enfermeiro.",
+   "Errada: contenção não é rotina e só se aplica quando é o único meio de evitar dano iminente.",
+   "Correta: só quando é o único meio de prevenir dano iminente, sob supervisão direta do enfermeiro.",
+   "Errada: a contenção exige monitoramento, reavaliações e registro da duração, nunca prazo indefinido."
+  ]
+ }
+]

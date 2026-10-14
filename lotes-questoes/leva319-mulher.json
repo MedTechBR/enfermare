@@ -78,7 +78,7 @@
   "q": "Gestante de 22 anos, 14 semanas, risco habitual, já usa sulfato ferroso diariamente pela manhã. Na consulta de enfermagem, pergunta se precisa de outro suplemento, pois ouviu falar de cálcio na gravidez. Não tem hipertensão nem outros fatores de risco para pré-eclâmpsia. Segundo a orientação vigente do Ministério da Saúde, qual é a conduta?",
   "alts": [
    "Cálcio elementar 1.000 mg/dia a partir de 20 semanas, com o ferro",
-   "Cálcio só com fator de alto risco para pré-eclâmpsia, junto do AAS",
+   "Cálcio restrito a quem tem alto risco de pré-eclâmpsia, com AAS",
    "Cálcio elementar 1.000 mg/dia até o parto, a 2 horas do ferro",
    "Cálcio elementar 500 mg/dia até 36 semanas, tomado com o ferro",
    "Cálcio elementar 1.000 mg/dia até o parto, tomado com o ferro"
@@ -104,7 +104,7 @@
   "alts": [
    "dT hoje, outra dT em 60 dias e dTpa no puerpério até 45 dias",
    "dTpa em dose única hoje, sem outras doses durante a gestação",
-   "dT hoje e dTpa só a partir de 28 semanas, junto com a VSR",
+   "dT hoje e dTpa a partir de 28 semanas, junto com a vacina VSR",
    "Três doses de dT a cada 30 dias e a dTpa somente após o parto",
    "dTpa hoje como 1ª dose e dT em sequência, a cada 60 dias"
   ],
@@ -253,7 +253,7 @@
   "q": "Puérpera de 28 anos acaba de ter parto vaginal de risco habitual no Centro de Parto Normal; o recém-nascido chorou ao nascer e está em contato pele a pele. Não há fator de risco para hemorragia na estratificação da admissão. A enfermeira obstétrica conduz o terceiro período. Qual é a conduta preconizada para prevenir a hemorragia pós-parto?",
   "alts": [
    "Ocitocina 10 UI IV em bolus rápido e clampeamento imediato",
-   "Ocitocina só se houver fator de risco, e clampeamento após 1 minuto",
+   "Ocitocina reservada a quem tem fator de risco, clampeamento após 1 minuto",
    "Misoprostol 800 mcg retal de rotina e tração antes da separação",
    "Ocitocina 10 UI IM após o nascimento e clampeamento após 1 minuto",
    "Metilergometrina 0,2 mg IM de rotina e clampeamento imediato"
@@ -329,7 +329,7 @@
   "alts": [
    "Mais aréola visível abaixo da boca do que acima dela",
    "Lábio inferior virado para fora e queixo tocando a mama",
-   "Boca pouco aberta, abocanhando apenas o mamilo da mãe",
+   "Boca pouco aberta, abocanhando o mamilo sem a aréola",
    "Lábio inferior voltado para dentro e queixo afastado",
    "Bochechas encovadas e ruído de estalo a cada sucção"
   ],
@@ -452,7 +452,7 @@
  {
   "q": "Gestante de 31 anos, 34 semanas, chega à UBS para consulta de rotina queixando-se de cefaleia occipital e escotomas desde a manhã. A PA, medida com ela sentada, após repouso e com manguito adequado, é de 164/112 mmHg. Não há convulsão nem sangramento, e os movimentos fetais estão presentes. Qual é a conduta da enfermeira?",
   "alts": [
-   "Repetir a PA em 15 minutos e só então decidir o encaminhamento",
+   "Repetir a PA em 15 minutos para então decidir o encaminhamento",
    "Encaminhar à maternidade com transporte e contato prévio",
    "Solicitar proteinúria e agendar retorno em 7 dias na UBS",
    "Oferecer nifedipino sublingual e observar por uma hora",
@@ -497,6 +497,506 @@
    "A 200 mL/h a infusão seria de 2 g/h, o dobro da dose de manutenção.",
    "Correta: 5 g em 500 mL dão 1 g a cada 100 mL, logo 100 mL/h para 1 g/h.",
    "A 10 mL/h a gestante receberia apenas 0,1 g/h, dose sem efeito protetor."
+  ]
+ },
+ {
+  "q": "Puérpera de 34 anos, 6 horas após cesárea por pré-eclâmpsia com sinais de gravidade, recebe sulfato de magnésio em bomba de infusão, pelo esquema de Zuspan. Na reavaliação de enfermagem, está sonolenta, com frequência respiratória de 18 irpm, diurese de 40 mL/h e reflexo patelar abolido bilateralmente. Qual é a conduta de enfermagem?",
+  "alts": [
+   "Manter a infusão, porque a FR e a diurese estão dentro do esperado",
+   "Aumentar a infusão, pois a sonolência indica iminência de eclâmpsia",
+   "Suspender a infusão, avisar o médico e deixar gluconato de cálcio pronto",
+   "Trocar para o esquema de Pritchard IM e manter vigilância horária",
+   "Fazer gluconato de cálcio 10% em bolus rápido e manter a infusão"
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Manual de Gestação de Alto Risco (MS, 2022) e Protocolo de Pré-eclâmpsia da RBEHG 2023",
+  "coment": "Na vigilância do sulfato de magnésio, o reflexo patelar deve estar presente, a frequência respiratória em pelo menos 16 irpm (RBEHG; o Manual de 2022 aceita 12) e a diurese em pelo menos 25 mL/h, checados a cada 4 horas e antes de cada dose IM. O reflexo desaparece antes da depressão respiratória e é o primeiro sinal de nível tóxico; sua abolição basta para suspender ou reduzir a infusão, comunicar o médico, dosar o magnésio e avaliar a função renal, mesmo com FR e diurese normais. O antídoto, gluconato de cálcio a 10%, 10 mL (1 g) IV lento, fica à beira do leito.",
+  "porAlt": [
+   "Reflexo patelar abolido basta para suspender, mesmo com FR e diurese normais.",
+   "Reflexo abolido indica nível tóxico de magnésio; aumentar a infusão agrava o quadro.",
+   "Correta: com reflexo abolido, suspende-se a infusão, avisa-se o médico e prepara-se o antídoto.",
+   "Trocar de esquema mantém o magnésio; diante do reflexo abolido a conduta é suspender.",
+   "O gluconato de cálcio é feito IV lento, e a infusão é suspensa, não mantida."
+  ]
+ },
+ {
+  "q": "Gestante de 29 anos, 32 semanas, em hospital de pequeno porte, tem PA de 166/112 mmHg, epigastralgia e exames com plaquetas de 68.000/mm³ e enzimas hepáticas elevadas. Será transferida em ambulância de suporte avançado, equipada com bomba de infusão, para a maternidade de referência. Qual esquema de sulfato de magnésio é o mais adequado para o transporte?",
+  "alts": [
+   "Zuspan IV em bomba, pois o Pritchard IM é evitado na plaquetopenia",
+   "Pritchard, o preferido para transferência por dispensar bomba",
+   "Nenhum, pois o magnésio se reserva para depois da primeira convulsão",
+   "Zuspan com ataque de 10 g IM, 5 g em cada glúteo, antes da saída",
+   "Pritchard com manutenção de 1 g IM a cada hora até a chegada"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "Manual de Gestação de Alto Risco (MS, 2022) e Protocolo de Pré-eclâmpsia da RBEHG 2023",
+  "coment": "O quadro é de síndrome HELLP (hemólise, enzimas hepáticas elevadas e plaquetopenia) com hipertensão grave e epigastralgia, indicação de sulfato de magnésio, que também se usa na iminência de eclâmpsia e na pré-eclâmpsia com sinais de gravidade, e não só após a convulsão. O esquema de Pritchard (4 g IV mais 10 g IM, 5 g em cada glúteo, e manutenção de 5 g IM profunda a cada 4 horas) é o preferido para transferência por dispensar bomba, mas é evitado na HELLP com plaquetopenia. Com bomba disponível, usa-se o Zuspan: ataque de 4 g IV lentamente e manutenção de 1 g/h IV.",
+  "porAlt": [
+   "Correta: na HELLP com plaquetopenia evita-se o IM, e a bomba permite o esquema de Zuspan.",
+   "O Pritchard dispensa bomba, mas é evitado na HELLP com plaquetopenia pelas doses IM.",
+   "O magnésio previne a eclâmpsia e está indicado na HELLP e na pré-eclâmpsia grave.",
+   "O Zuspan é todo venoso; os 10 g IM pertencem ao ataque do esquema de Pritchard.",
+   "A manutenção do Pritchard é de 5 g IM a cada 4 horas; 1 g/h é a do Zuspan IV."
+  ]
+ },
+ {
+  "q": "Puérpera de 33 anos, multípara, 40 minutos após parto vaginal de recém-nascido de 4.100 g, apresenta sangramento vaginal volumoso. O útero está amolecido e palpável acima da cicatriz umbilical; FC de 112 bpm e PA de 100/60 mmHg. A enfermeira já pediu ajuda à equipe. Diante da causa mais provável, qual é a próxima medida de enfermagem?",
+  "alts": [
+   "Aguardar a pesagem das compressas para confirmar a perda de sangue",
+   "Revisar o canal de parto, pois o trauma é a causa mais frequente",
+   "Massagem uterina e compressão bimanual, com dois acessos calibrosos",
+   "Fazer metilergometrina IV em bolus como a primeira droga uterotônica",
+   "Elevar a cabeceira e oferecer líquidos por via oral à puérpera"
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "OPAS 2018, Recomendações assistenciais para prevenção, diagnóstico e tratamento da hemorragia obstétrica",
+  "coment": "O útero amolecido acima da cicatriz umbilical, sem formar o globo de segurança de Pinard, aponta atonia, responsável por cerca de 70% das hemorragias pós-parto nos 4 Ts (tônus, trauma, tecido e trombina; OPAS 2018). A conduta inicial que a enfermagem executa ou prepara inclui pedir ajuda, dois acessos venosos calibrosos, coleta de exames e reserva de sangue, esvaziamento da bexiga, massagem uterina e compressão bimanual, ocitocina 5 UI IV lenta seguida de infusão e ácido tranexâmico 1 g IV em 10 minutos. A estimativa da perda não deve atrasar o tratamento.",
+  "porAlt": [
+   "A estimativa visual subestima a perda, e esperar a pesagem atrasa o tratamento.",
+   "O trauma responde por cerca de 19% dos casos; a atonia é a causa mais frequente.",
+   "Correta: na atonia, massagem e compressão bimanual com acessos calibrosos vêm primeiro.",
+   "A primeira droga é a ocitocina; a metilergometrina é IM e de segunda linha.",
+   "Líquidos por via oral não tratam a hemorragia e atrasam a reposição venosa."
+  ]
+ },
+ {
+  "q": "Puérpera de 25 anos, 1 hora após parto vaginal, apresenta sangramento aumentado. A enfermeira mede FC de 117 bpm e PA de 90/60 mmHg; a puérpera está consciente e ansiosa. A estimativa visual da perda, registrada pela equipe, é de 400 mL. Pelo índice de choque, como se interpreta o quadro?",
+  "alts": [
+   "Índice de 0,7; perda compensada, sem instabilidade hemodinâmica",
+   "Índice de 1,3; risco de transfusão, apesar da estimativa visual",
+   "Índice de 1,3; indica protocolo de transfusão maciça imediato",
+   "Índice de 0,8; aguardar a hipotensão para definir a gravidade",
+   "Índice de 1,3; aceitável, porque a perda estimada não chega a 500 mL"
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "OPAS 2018, Recomendações assistenciais para prevenção, diagnóstico e tratamento da hemorragia obstétrica",
+  "coment": "O índice de choque é a frequência cardíaca dividida pela pressão sistólica: 117 dividido por 90 dá 1,3. Pelas recomendações da OPAS (2018), valor de 0,9 ou mais indica risco de necessidade de transfusão, e 1,4 ou mais, terapêutica agressiva e protocolo de transfusão maciça. O índice mostra a instabilidade antes da hipotensão franca. A estimativa visual subestima a perda, e a definição de hemorragia pós-parto inclui qualquer perda que cause instabilidade hemodinâmica, mesmo abaixo de 500 mL após parto vaginal. A conduta é tratar como hemorragia, com acessos, exames, reserva de sangue e busca da causa.",
+  "porAlt": [
+   "O cálculo está errado: 117 dividido por 90 dá 1,3, e não 0,7.",
+   "Correta: índice de 1,3 está acima de 0,9 e indica risco de transfusão.",
+   "O protocolo de transfusão maciça é indicado com índice de 1,4 ou mais.",
+   "O índice é 1,3, e sua utilidade é justamente antecipar a hipotensão.",
+   "Instabilidade define hemorragia mesmo com perda estimada abaixo de 500 mL."
+  ]
+ },
+ {
+  "q": "Puérpera de 36 anos com pré-eclâmpsia, em sulfato de magnésio, tem hemorragia por atonia 30 minutos após parto vaginal. Já recebeu ocitocina 5 UI IV lenta, está em infusão de ocitocina, teve a bexiga esvaziada e mantém compressão bimanual; o ácido tranexâmico ainda não foi feito. O sangramento persiste, com PA de 150/100 mmHg. Qual é a conduta farmacológica adequada?",
+  "alts": [
+   "Metilergometrina 0,2 mg IM agora e ácido tranexâmico após 3 horas",
+   "Suspender a ocitocina e iniciar metilergometrina em infusão contínua",
+   "Metilergometrina 0,2 mg IM agora e, depois dela, o ácido tranexâmico",
+   "Ácido tranexâmico 1 g IV em bolus de 1 minuto e metilergometrina IM",
+   "Ácido tranexâmico 1 g IV em 10 minutos e misoprostol, sem metilergometrina"
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "tit",
+  "base": "OPAS 2018, Recomendações assistenciais para prevenção, diagnóstico e tratamento da hemorragia obstétrica",
+  "coment": "Na hemorragia pós-parto, o ácido tranexâmico 1 g IV em 10 minutos é feito assim que o diagnóstico é estabelecido, dentro de 3 horas do parto, junto com a ocitocina, e não depois de outras drogas. Na falha da ocitocina, a segunda linha é a metilergometrina 0,2 mg IM, contraindicada na hipertensa, ou o misoprostol 800 mcg por via retal. Com pré-eclâmpsia e PA de 150/100 mmHg, a metilergometrina é evitada, e a sequência é tranexâmico e misoprostol, mantendo a massagem e a compressão bimanual. Na falha, seguem o balão intrauterino e a cirurgia.",
+  "porAlt": [
+   "A metilergometrina é contraindicada na hipertensa, e o tranexâmico vale só até 3 horas.",
+   "A ocitocina não é suspensa, e a metilergometrina é contraindicada na pré-eclâmpsia.",
+   "O tranexâmico não espera outras drogas, e a metilergometrina é vedada na hipertensa.",
+   "O tranexâmico é infundido em 10 minutos, e a metilergometrina está contraindicada.",
+   "Correta: tranexâmico em 10 minutos e misoprostol, evitando a metilergometrina na hipertensa."
+  ]
+ },
+ {
+  "q": "Uma secretaria municipal quer ampliar a inserção de DIU de cobre nas UBS por enfermeiras da Estratégia Saúde da Família. A coordenadora de enfermagem precisa definir a capacitação mínima exigida antes que as profissionais insiram o dispositivo de forma autônoma. Pela Resolução COFEN 690/2022, com o anexo atualizado pela Resolução COFEN 802/2026, qual é a exigência?",
+  "alts": [
+   "Curso presencial de 40 horas, com 10 inserções supervisionadas",
+   "Curso a distância de 40 horas, sem exigência de inserções práticas",
+   "Curso presencial de 16 horas, com 3 inserções supervisionadas",
+   "Título de especialista em obstetrícia, sem curso específico de DIU",
+   "Curso presencial de 40 horas, com 3 inserções supervisionadas"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Planejamento reprodutivo",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 690/2022, com anexo atualizado pela Resolução COFEN 802/2026",
+  "coment": "A Resolução COFEN 690/2022 normatiza a atuação do enfermeiro no planejamento familiar e reprodutivo, e a Resolução COFEN 802/2026 substituiu seu anexo. Para inserir DIU, o enfermeiro precisa de curso presencial de no mínimo 40 horas (16 teóricas e teórico-práticas e 24 práticas), com no mínimo 10 inserções supervisionadas. Para o implante subdérmico, a exigência é menor: no mínimo 16 horas (12 e 4), com 3 inserções supervisionadas. Inserção, revisão e retirada de DIU são atribuições do enfermeiro capacitado, com termo de consentimento após aconselhamento e registro em prontuário.",
+  "porAlt": [
+   "Correta: a 802/2026 exige curso presencial de 40 horas e 10 inserções supervisionadas.",
+   "O curso é presencial e inclui no mínimo 10 inserções supervisionadas.",
+   "Dezesseis horas com 3 inserções é a exigência para o implante subdérmico.",
+   "A norma exige capacitação específica em DIU, e não um título de especialista.",
+   "A carga de 40 horas está certa, mas o DIU exige 10 inserções supervisionadas."
+  ]
+ },
+ {
+  "q": "Enfermeira da Estratégia Saúde da Família, capacitada conforme a Resolução COFEN 802/2026, faz visita domiciliar a mulher de 24 anos restrita ao leito por fratura de fêmur. A paciente já foi aconselhada, escolheu o DIU de cobre e quer evitar o deslocamento. A família pede que a inserção seja feita ali mesmo. Qual é a conduta adequada?",
+  "alts": [
+   "Inserir no domicílio, desde que haja termo de consentimento assinado",
+   "Inserir no domicílio e registrar o procedimento na ficha da visita",
+   "Programar a inserção em ambiente institucional, com termo e registro",
+   "Desaconselhar o DIU e aplicar implante no domicílio, sem termo",
+   "Inserir no domicílio, que equivale a ambiente institucional da rede"
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Planejamento reprodutivo",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Resolução COFEN 690/2022, com anexo atualizado pela Resolução COFEN 802/2026",
+  "coment": "Pelo anexo da Resolução COFEN 690/2022, atualizado pela 802/2026, a inserção do DIU pelo enfermeiro capacitado é feita em ambiente institucional da rede de atenção, com termo de consentimento assinado após aconselhamento e registro em prontuário. O domicílio não atende a essa exigência, mesmo com o termo assinado. A conduta é programar o procedimento na unidade, articulando o transporte com a equipe, e manter o acompanhamento domiciliar. Trocar o método escolhido contraria a escolha livre e informada garantida pela Lei 9.263/1996.",
+  "porAlt": [
+   "O termo é obrigatório, mas não dispensa o ambiente institucional exigido para o DIU.",
+   "O registro é em prontuário, e o domicílio não é ambiente institucional da rede.",
+   "Correta: a inserção do DIU é feita em ambiente institucional, com termo e registro.",
+   "Trocar o método escolhido fere a escolha informada, e o termo não é dispensado.",
+   "O domicílio não equivale ao ambiente institucional que a resolução exige."
+  ]
+ },
+ {
+  "q": "Puérpera de 22 anos, 5 semanas após parto vaginal, amamenta exclusivamente e ainda não menstruou. Na consulta de enfermagem, pede para retomar a pílula combinada que usava antes da gravidez, porque é a que conhece. Não tem outras condições clínicas. Qual é a orientação adequada?",
+  "alts": [
+   "Retomar a pílula combinada agora, pois já passaram 4 semanas",
+   "Preferir método sem estrogênio, como progestagênio isolado ou DIU",
+   "Retomar a pílula combinada e reduzir as mamadas noturnas do bebê",
+   "Aguardar 6 meses para qualquer hormonal, usando preservativo",
+   "Inserir o DIU somente depois que ela interromper o aleitamento exclusivo"
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Planejamento reprodutivo",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Critérios médicos de elegibilidade para uso de anticoncepcionais (OMS, 6ª ed., 2025) e Resolução COFEN 690/2022",
+  "coment": "A lactante usa métodos sem estrogênio, como o progestagênio isolado ou o DIU, ou a lactação e amenorreia (LAM), que protege enquanto coexistem amenorreia, aleitamento exclusivo e bebê com menos de 6 meses. Pelos critérios de elegibilidade da OMS (6ª edição, 2025), o combinado é categoria 4 na lactante com menos de 6 semanas de pós-parto. O DIU pode ser inserido no pós-parto até 48 horas ou a partir de 4 semanas, por isso já é opção com 5 semanas e não depende de interromper o aleitamento. A consulta de planejamento reprodutivo pelo enfermeiro está regulamentada na Resolução COFEN 690/2022.",
+  "porAlt": [
+   "O combinado contém estrogênio e não é indicado à lactante nesse período.",
+   "Correta: na amamentação se usam métodos sem estrogênio, como progestagênio ou DIU.",
+   "O combinado segue inadequado, e reduzir mamadas prejudica o aleitamento exclusivo.",
+   "Métodos só de progestagênio podem ser usados na amamentação, sem esperar 6 meses.",
+   "O DIU é compatível com a amamentação e pode ser inserido a partir de 4 semanas."
+  ]
+ },
+ {
+  "q": "Gestante de 24 anos, com um filho vivo, está com 22 semanas e diz à enfermeira do pré-natal que quer fazer laqueadura tubária no parto. O companheiro é contra e afirma que não vai assinar autorização. Pela Lei 9.263/1996, com a redação dada pela Lei 14.443/2022, qual é a orientação correta?",
+  "alts": [
+   "Não pode, porque tem menos de 25 anos e um único filho vivo",
+   "Pode, desde que o companheiro assine o consentimento expresso",
+   "Pode, mas a lei veda a laqueadura durante o próprio parto",
+   "Pode, registrando o pedido pelo menos 60 dias antes do parto",
+   "Pode no parto, sem prazo entre o pedido e a cirurgia"
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Planejamento reprodutivo",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 9.263/1996, com redação da Lei 14.443/2022",
+  "coment": "A Lei 14.443/2022 alterou a Lei 9.263/1996: a esterilização voluntária passou a exigir capacidade civil plena e mais de 21 anos ou pelo menos 2 filhos vivos, manteve o prazo mínimo de 60 dias entre a manifestação da vontade e a cirurgia, revogou a exigência de consentimento do cônjuge e garantiu a laqueadura durante o parto quando respeitado esse prazo. Com 24 anos, ela cumpre o critério de idade, e com 22 semanas há tempo para registrar a manifestação no pré-natal. A idade de 25 anos e o aval do companheiro são regras antigas, revogadas.",
+  "porAlt": [
+   "A idade mínima passou a ser mais de 21 anos, e ela tem 24 anos.",
+   "A Lei 14.443/2022 revogou a exigência de consentimento do cônjuge.",
+   "A lei garante a laqueadura no parto quando respeitado o prazo de 60 dias.",
+   "Correta: ela cumpre a idade, e o pedido precisa de 60 dias de antecedência.",
+   "A lei mantém o prazo mínimo de 60 dias entre a manifestação e a cirurgia."
+  ]
+ },
+ {
+  "q": "Adolescente de 16 anos procura sozinha a UBS e conta à enfermeira que teve relação sexual consentida, sem preservativo, há 4 dias. Não usa método contraceptivo e pede ajuda para não engravidar; teme que a mãe descubra. Qual é a conduta adequada da enfermeira na consulta?",
+  "alts": [
+   "Negar a contracepção de emergência, válida até 72 horas",
+   "Exigir a presença do responsável legal antes de qualquer prescrição",
+   "Encaminhar ao médico, já que o enfermeiro não prescreve o método",
+   "Orientar que o levonorgestrel é abortivo e pedir teste de gravidez",
+   "Oferecer levonorgestrel 1,5 mg em dose única, válido até 5 dias"
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Planejamento reprodutivo",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Resolução COFEN 690/2022 (anexo atualizado pela Resolução COFEN 802/2026)",
+  "coment": "A anticoncepção de emergência com levonorgestrel 1,5 mg em dose única pode ser usada até 5 dias após a relação desprotegida, não é abortiva e pode ser oferecida à adolescente sem exigência de acompanhante. A Resolução COFEN 690/2022, com anexo atualizado pela 802/2026, permite ao enfermeiro prescrever e administrar métodos conforme protocolo na consulta de planejamento reprodutivo. A mesma consulta é a oportunidade de oferecer um método regular, preservativo e testagem para infecções sexualmente transmissíveis, com sigilo.",
+  "porAlt": [
+   "O levonorgestrel pode ser usado até 5 dias após a relação, e não só até 72 horas.",
+   "A anticoncepção de emergência não exige acompanhante para a adolescente.",
+   "O enfermeiro prescreve métodos conforme protocolo, pela Resolução COFEN 690/2022.",
+   "O levonorgestrel não é abortivo, e não se exige teste para oferecê-lo.",
+   "Correta: levonorgestrel 1,5 mg em dose única, até 5 dias, sem exigir acompanhante."
+  ]
+ },
+ {
+  "q": "Mulher de 30 anos, sexualmente ativa, faz na UBS o rastreamento do câncer do colo do útero pelo teste de DNA-HPV oncogênico, já implantado no município. O resultado é negativo para todos os tipos de alto risco. Pelas diretrizes do INCA aprovadas pela Portaria Conjunta SAES/SECTICS nº 13/2025, quando ela deve repetir o rastreamento?",
+  "alts": [
+   "Repetir o DNA-HPV em 12 meses",
+   "Citologia anual por 2 anos",
+   "Repetir o DNA-HPV em 5 anos",
+   "Repetir o DNA-HPV em 3 anos",
+   "Repetir o DNA-HPV em 10 anos"
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria Conjunta SAES/SECTICS nº 13/2025 (Diretrizes do INCA para o rastreamento do câncer do colo do útero, Parte I)",
+  "coment": "A Portaria Conjunta SAES/SECTICS nº 13, de 29 de julho de 2025, aprovou a Parte I das novas diretrizes do INCA para o rastreamento do câncer do colo do útero: rastreamento organizado com teste de DNA-HPV oncogênico com genotipagem, dos 25 aos 64 anos, repetido em 5 anos quando negativo, com coleta por profissional ou autocoleta. O intervalo de 12 meses se aplica ao resultado positivo para outros tipos de alto risco com citologia reflexa negativa. O intervalo de 3 anos pertence à citologia da diretriz de 2016, que segue valendo onde o teste ainda não chegou.",
+  "porAlt": [
+   "Doze meses é o intervalo para HPV de outros tipos com citologia reflexa negativa.",
+   "Citologia anual por 2 anos é o início do esquema antigo, sem DNA-HPV disponível.",
+   "Correta: DNA-HPV negativo é repetido em 5 anos, dos 25 aos 64 anos.",
+   "Três anos é o intervalo da citologia na diretriz de 2016, não do DNA-HPV.",
+   "O intervalo após DNA-HPV negativo é de 5 anos, e não de 10 anos."
+  ]
+ },
+ {
+  "q": "Mulher de 41 anos teve amostra colhida pela enfermeira para o teste de DNA-HPV, no rastreamento organizado do município. O laudo, com genotipagem, mostra HPV 18 detectado. Ela está assintomática, e o exame especular na coleta foi normal. Pelas diretrizes do INCA de 2025, qual é o próximo passo?",
+  "alts": [
+   "Citologia reflexa na mesma amostra e conduta pelo seu resultado",
+   "Repetir o DNA-HPV em 12 meses, por estar assintomática",
+   "Repetir o DNA-HPV em 5 anos, pois o exame especular foi normal",
+   "Encaminhar diretamente à colposcopia, sem esperar citologia",
+   "Tratar com antiviral e repetir o teste de DNA-HPV em 6 meses"
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Portaria Conjunta SAES/SECTICS nº 13/2025 (Diretrizes do INCA para o rastreamento do câncer do colo do útero, Parte I)",
+  "coment": "Nas diretrizes do INCA aprovadas pela Portaria Conjunta SAES/SECTICS nº 13/2025, o teste de DNA-HPV com genotipagem separa os tipos 16 e 18 dos demais tipos oncogênicos. HPV 16 ou 18 detectado leva diretamente à colposcopia. Os outros tipos de alto risco fazem citologia reflexa na mesma amostra: se alterada, colposcopia; se negativa, novo DNA-HPV em 12 meses. A ausência de sintomas e o exame especular normal não mudam a conduta, porque a lesão precursora costuma ser assintomática e invisível a olho nu. Não existe tratamento antiviral para a infecção pelo HPV.",
+  "porAlt": [
+   "A citologia reflexa é para os outros tipos; HPV 16 ou 18 vai direto à colposcopia.",
+   "Repetir em 12 meses vale para outros tipos com citologia reflexa negativa.",
+   "Cinco anos é o intervalo do teste negativo, e o exame especular não muda a conduta.",
+   "Correta: HPV 16 ou 18 detectado leva diretamente à colposcopia.",
+   "Não há antiviral para o HPV, e o HPV 18 exige colposcopia, não novo teste."
+  ]
+ },
+ {
+  "q": "Mulher de 35 anos fez autocoleta para teste de DNA-HPV na UBS. O laudo mostra HPV de alto risco de outros tipos, nem 16 nem 18, e a citologia reflexa feita na mesma amostra foi negativa. Ela pergunta à enfermeira se precisa de colposcopia. Pelas diretrizes do INCA de 2025, qual é a conduta?",
+  "alts": [
+   "Repetir o DNA-HPV em 12 meses, sem colposcopia agora",
+   "Encaminhar à colposcopia, que todo HPV de alto risco exige",
+   "Repetir o DNA-HPV em 5 anos, como no teste negativo",
+   "Repetir a autocoleta em 30 dias, por ser menos confiável",
+   "Fazer citologia convencional a cada 3 anos até os 64"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria Conjunta SAES/SECTICS nº 13/2025 (Diretrizes do INCA para o rastreamento do câncer do colo do útero, Parte I)",
+  "coment": "Pelas diretrizes do INCA aprovadas pela Portaria Conjunta SAES/SECTICS nº 13/2025, o resultado positivo para tipos oncogênicos que não sejam 16 nem 18 leva à citologia reflexa na mesma amostra. Citologia alterada vai à colposcopia; citologia negativa repete o DNA-HPV em 12 meses. A autocoleta é uma das formas de coleta previstas pela diretriz, ao lado da coleta por profissional, e o resultado tem o mesmo valor. O intervalo de 5 anos é reservado ao teste negativo, e a citologia trienal pertence ao esquema de 2016, usado onde o DNA-HPV ainda não chegou.",
+  "porAlt": [
+   "Correta: outros tipos com citologia reflexa negativa repetem o DNA-HPV em 12 meses.",
+   "Só HPV 16 ou 18 ou citologia reflexa alterada levam à colposcopia.",
+   "O intervalo de 5 anos é para o teste negativo, e este foi positivo.",
+   "A autocoleta é prevista pela diretriz e não exige repetição em 30 dias.",
+   "A citologia trienal é do esquema de 2016, sem teste de DNA-HPV."
+  ]
+ },
+ {
+  "q": "Em município onde o teste de DNA-HPV ainda não foi implantado, mulher de 27 anos, com vida sexual desde os 18, fez seu primeiro citopatológico há um ano, com resultado negativo. Hoje a enfermeira colhe o segundo exame, também negativo. Pela diretriz do INCA de 2016, que segue valendo nesse cenário, quando deve ser o próximo exame?",
+  "alts": [
+   "Em 1 ano, mantendo a periodicidade anual",
+   "Em 3 anos, após dois exames anuais negativos",
+   "Em 5 anos, como no teste de DNA-HPV negativo",
+   "Em 1 ano, até completar três exames negativos",
+   "Aos 30 anos, quando o rastreio é indicado"
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "INCA, Diretrizes brasileiras para o rastreamento do câncer do colo do útero, 2ª ed., 2016",
+  "coment": "Onde o teste de DNA-HPV ainda não chegou, segue valendo a diretriz do INCA de 2016: citologia a partir dos 25 anos em quem já teve atividade sexual, dois exames com intervalo anual e, se ambos negativos, a cada 3 anos, até os 64 anos. Com dois exames anuais negativos, o próximo é em 3 anos. O intervalo de 5 anos é do DNA-HPV negativo, na diretriz de 2025 aprovada pela Portaria Conjunta SAES/SECTICS nº 13/2025, e não se aplica à citologia. A coleta do citopatológico é atribuição do enfermeiro na consulta de enfermagem.",
+  "porAlt": [
+   "Após dois exames anuais negativos, o intervalo passa a ser de 3 anos.",
+   "Correta: dois exames anuais negativos levam ao intervalo de 3 anos.",
+   "Cinco anos é o intervalo do DNA-HPV negativo, e não da citologia.",
+   "Bastam dois exames anuais negativos para passar ao intervalo trienal.",
+   "O rastreio começa aos 25 anos em quem já teve atividade sexual."
+  ]
+ },
+ {
+  "q": "Mulher de 72 anos, sem sintomas mamários e sem história familiar de câncer de mama, comparece à consulta de enfermagem. A última mamografia, de dois anos atrás, foi normal. A filha pergunta se ainda vale fazer o exame nessa idade. Pela Nota Técnica nº 626/2025 do Ministério da Saúde, qual é a orientação?",
+  "alts": [
+   "Encerrar o rastreio, pois a faixa recomendada termina aos 69 anos",
+   "Trocar a mamografia pelo autoexame mensal a partir dos 70 anos",
+   "Fazer mamografia anual, por ela estar acima dos 70 anos",
+   "Fazer ultrassonografia, que substitui a mamografia nessa idade",
+   "Manter a mamografia bienal, pois a faixa vai dos 50 aos 74 anos"
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Nota Técnica nº 626/2025 (MS), rastreamento mamográfico",
+  "coment": "A Nota Técnica nº 626/2025 do Ministério da Saúde ampliou o rastreamento mamográfico bienal para as mulheres de 50 a 74 anos e previu acesso sob demanda, com decisão compartilhada, para as de 40 a 49 anos. Aos 72 anos, com mamografia normal há dois anos, ela deve repetir o exame agora, mantendo a periodicidade bienal. O limite de 69 anos é o da recomendação anterior e aparece como distrator. O autoexame não é método de rastreio, e a ultrassonografia não substitui a mamografia no rastreamento populacional.",
+  "porAlt": [
+   "A Nota Técnica 626/2025 estendeu a faixa do rastreio até os 74 anos.",
+   "O autoexame não é método de rastreio e não substitui a mamografia.",
+   "A periodicidade do rastreio é bienal em toda a faixa de 50 a 74 anos.",
+   "A ultrassonografia não é exame de rastreio populacional do câncer de mama.",
+   "Correta: a mamografia é bienal de 50 a 74 anos, e ela tem 72 anos."
+  ]
+ },
+ {
+  "q": "Mulher de 25 anos é atendida na UPA 10 horas após estupro por desconhecido. A enfermeira acolhe, organiza as profilaxias prescritas e preenche a ficha de notificação de violência interpessoal e autoprovocada do Sinan. A paciente ainda não decidiu se registrará boletim de ocorrência. Pela Portaria GM/MS 11.211/2026, qual é a periodicidade da notificação?",
+  "alts": [
+   "Semanal, pela ficha do Sinan, à Secretaria Municipal",
+   "Imediata, em até 24 horas, à Secretaria Municipal",
+   "Imediata, condicionada ao boletim de ocorrência",
+   "Mensal, no consolidado da vigilância epidemiológica",
+   "Imediata, em até 24 horas, ao Ministério da Saúde"
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Violência contra a mulher",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 11.211/2026 (Lista Nacional de Notificação Compulsória) e Lei 10.778/2003",
+  "coment": "A Lei 10.778/2003 torna compulsória a notificação da violência contra a mulher atendida em serviço de saúde público ou privado. Na lista nacional atualizada pela Portaria GM/MS 11.211/2026, violência sexual e tentativa de suicídio são de notificação imediata, em até 24 horas, à Secretaria Municipal de Saúde; violência doméstica e outras violências são de notificação semanal. A ficha é a de violência interpessoal e autoprovocada do Sinan, preenchida diante da suspeita. Notificar não é denunciar: o boletim de ocorrência é direito da mulher e não condiciona a notificação nem o atendimento.",
+  "porAlt": [
+   "A notificação semanal é da violência doméstica; a sexual é imediata.",
+   "Correta: violência sexual é de notificação imediata, em até 24 horas, à SMS.",
+   "A notificação não depende do boletim de ocorrência, que é direito da mulher.",
+   "Não existe periodicidade mensal para a violência sexual na lista nacional.",
+   "A notificação imediata da violência sexual é feita à Secretaria Municipal."
+  ]
+ },
+ {
+  "q": "Mulher de 38 anos vem à UBS com hematomas nos braços e, a sós com a enfermeira, conta que o marido a agride há meses. Pede sigilo, diz que não quer denunciá-lo e teme perder a guarda dos filhos. Não há relato de violência sexual. Pela Lei 10.778/2003 e pela Portaria GM/MS 11.211/2026, qual é a conduta da enfermeira?",
+  "alts": [
+   "Não notificar, respeitando a vontade dela de não denunciar o marido",
+   "Notificar quando ela registrar boletim de ocorrência na delegacia",
+   "Notificar de imediato, em até 24 horas, como na violência sexual",
+   "Notificar no Sinan, com periodicidade semanal, e acionar a rede",
+   "Encaminhar ao serviço social e deixar a notificação ao hospital"
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Violência contra a mulher",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 10.778/2003 e Portaria GM/MS 11.211/2026 (Lista Nacional de Notificação Compulsória)",
+  "coment": "A Lei 10.778/2003 torna compulsória a notificação da violência contra a mulher atendida em serviço de saúde, e a ficha de violência interpessoal e autoprovocada do Sinan é preenchida diante da suspeita, sem depender da vontade de denunciar. Pela Portaria GM/MS 11.211/2026, violência doméstica e outras violências são de notificação semanal; a imediata, em até 24 horas, vale para violência sexual e tentativa de suicídio. Notificar não é denunciar, e o boletim de ocorrência é direito da mulher, não requisito do cuidado. A enfermeira avalia o risco, monta um plano de segurança e aciona a rede.",
+  "porAlt": [
+   "A notificação é compulsória e não depende da decisão de denunciar o agressor.",
+   "O boletim de ocorrência é direito da mulher e não condiciona a notificação.",
+   "A notificação imediata é da violência sexual; a doméstica é semanal.",
+   "Correta: violência doméstica se notifica no Sinan, semanalmente, com acionamento da rede.",
+   "Quem atende a mulher notifica; a obrigação não se transfere a outro serviço."
+  ]
+ },
+ {
+  "q": "Mulher de 30 anos procura o pronto atendimento 4 dias (96 horas) após violência sexual por desconhecido, com penetração vaginal sem preservativo. Não usa contracepção e não tem registro de vacina contra hepatite B. A enfermeira organiza o atendimento com o médico. Considerando o tempo decorrido, quais medidas ainda estão no prazo?",
+  "alts": [
+   "PEP do HIV e contracepção de emergência; hepatite B fora do prazo",
+   "Apenas a PEP do HIV, pois as demais medidas valem até 72 horas",
+   "Contracepção de emergência e imunoprofilaxia da hepatite B, sem PEP",
+   "Nenhuma profilaxia, porque todas exigem início em até 72 horas",
+   "PEP do HIV, contracepção de emergência e profilaxia da hepatite B"
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Violência contra a mulher",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "PCDT de Profilaxia Pós-Exposição de Risco à Infecção pelo HIV, IST e Hepatites Virais (MS, 2024)",
+  "coment": "Na violência sexual, a data e a hora da agressão decidem a conduta: a PEP do HIV deve começar em até 72 horas, a anticoncepção de emergência com levonorgestrel pode ser usada até 5 dias e a imunoprofilaxia da hepatite B, até 14 dias (PCDT PEP, MS 2024). Com 96 horas, a PEP do HIV está fora do prazo, mas a contracepção de emergência e a imunoprofilaxia da hepatite B para a mulher não vacinada ainda estão indicadas, com testagem e seguimento. O atendimento não depende de boletim de ocorrência, e a notificação de violência sexual é imediata, em até 24 horas, à Secretaria Municipal de Saúde.",
+  "porAlt": [
+   "A PEP do HIV vale até 72 horas, e a hepatite B ainda está no prazo de 14 dias.",
+   "A PEP é justamente a medida vencida; AE e hepatite B ainda estão no prazo.",
+   "Correta: com 96 horas cabem AE (até 5 dias) e hepatite B (até 14 dias), sem PEP.",
+   "Só a PEP tem limite de 72 horas; AE e hepatite B têm prazos maiores.",
+   "A PEP do HIV está fora do prazo de 72 horas e não é mais indicada."
+  ]
+ },
+ {
+  "q": "Mulher de 45 anos, acompanhada na UBS por hipertensão, conta à enfermeira, em atendimento a sós, que o companheiro retém o cartão do benefício dela, rasgou seus documentos pessoais e vendeu a máquina de costura com que trabalhava. Nega agressão física. Pela Lei 11.340/2006, a Lei Maria da Penha, como se classifica essa violência?",
+  "alts": [
+   "Violência patrimonial, por reter e destruir bens e documentos",
+   "Violência moral, por atingir a honra e a reputação da mulher",
+   "Violência física, por causar dano à capacidade de trabalho",
+   "Violência sexual, por restringir os recursos da mulher",
+   "Não é violência doméstica, pois não houve agressão física"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Violência contra a mulher",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Lei 11.340/2006 (Lei Maria da Penha), art. 7º",
+  "coment": "A Lei Maria da Penha (Lei 11.340/2006), no art. 7º, define cinco formas de violência doméstica e familiar contra a mulher: física, psicológica, sexual, patrimonial e moral. Reter, subtrair ou destruir objetos, instrumentos de trabalho, documentos pessoais, bens e recursos econômicos da mulher é violência patrimonial, exatamente o que o caso descreve. A violência moral é calúnia, difamação ou injúria, e a física ofende a integridade ou a saúde corporal. A ausência de agressão física não descaracteriza a violência. A enfermeira notifica no Sinan, avalia o risco e aciona a rede.",
+  "porAlt": [
+   "Correta: reter e destruir bens, documentos e instrumentos de trabalho é violência patrimonial.",
+   "A violência moral é calúnia, difamação ou injúria, o que o caso não descreve.",
+   "A violência física ofende a integridade corporal, e não houve agressão física.",
+   "A violência sexual envolve a sexualidade e os direitos reprodutivos, não os bens.",
+   "A lei prevê cinco formas de violência, e a física é apenas uma delas."
+  ]
+ },
+ {
+  "q": "Gestante de 15 anos, 20 semanas, vem à consulta de pré-natal acompanhada pelo namorado de 24 anos, que responde às perguntas por ela. A enfermeira nota hematomas antigos nos braços e na coxa, e a adolescente evita contato visual. Diante da suspeita de violência, qual é a abordagem adequada da enfermeira?",
+  "alts": [
+   "Perguntar sobre as agressões diante do namorado, para confrontá-lo",
+   "Aguardar o relato espontâneo da adolescente para então notificar",
+   "Notificar somente após a confirmação por exame de corpo de delito",
+   "Exigir boletim de ocorrência em nome dela como condição do cuidado",
+   "Falar a sós, perguntar diretamente, notificar e avisar o Conselho Tutelar"
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Violência contra a mulher",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Lei 10.778/2003, Portaria GM/MS 11.211/2026 e Lei 8.069/1990 (ECA), art. 13",
+  "coment": "Diante de sinais sugestivos de violência, a enfermeira cria um momento a sós com a mulher, pergunta diretamente, avalia o risco, monta um plano de segurança e aciona a rede, sem abordar o tema diante do possível agressor. A notificação no Sinan é compulsória diante da suspeita (Lei 10.778/2003), sem exigir confirmação, exame pericial ou boletim de ocorrência. Em criança e adolescente, comunica-se também o Conselho Tutelar, como determina o art. 13 do ECA. Pela Portaria GM/MS 11.211/2026, a violência doméstica é de notificação semanal, e a sexual, imediata.",
+  "porAlt": [
+   "Abordar o tema diante do possível agressor aumenta o risco e silencia a vítima.",
+   "A notificação se faz diante da suspeita, sem esperar o relato espontâneo.",
+   "Não se exige exame pericial; a suspeita basta para notificar.",
+   "O boletim de ocorrência é direito, não requisito para o atendimento.",
+   "Correta: abordagem a sós, pergunta direta, notificação e comunicação ao Conselho Tutelar."
   ]
  }
 ]

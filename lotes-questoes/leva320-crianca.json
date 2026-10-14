@@ -54,7 +54,7 @@
   "alts": [
    "Alerta, pois faltam os marcos dos 6 meses de idade cronológica",
    "Provável atraso, pois não rola nem senta com apoio aos 6 meses",
-   "Idade corrigida só se usa em nascidos abaixo de 28 semanas",
+   "A correção da idade vale para nascidos abaixo de 28 semanas",
    "Adequado com fator de risco, pela idade corrigida de 4 meses",
    "Adequado sem risco, pois prematuridade não muda a vigilância"
   ],
@@ -79,8 +79,8 @@
   "alts": [
    "Medir a estatura em pé, mas pesar sem fralda e sem roupa",
    "Medir o comprimento deitado e manter o perímetro cefálico",
-   "Medir em pé e registrar o perímetro cefálico só aos 24 meses",
-   "Medir deitado só até 12 meses e descontar o peso da fralda",
+   "Medir em pé e deixar o perímetro cefálico para os 24 meses",
+   "Medir deitado até 12 meses e descontar o peso da fralda",
    "Medir em pé e incluir a pressão arterial em toda consulta"
   ],
   "gab": 1,
@@ -128,7 +128,7 @@
   "q": "Na consulta de 18 meses, a enfermeira aplica o M-CHAT-R/F com a mãe de um menino nascido a termo. A triagem resulta positiva: ele não aponta para mostrar objetos e responde pouco quando chamado pelo nome. Anda bem e fala algumas palavras. A mãe pergunta se não seria melhor esperar até os 3 anos. Qual conduta está correta?",
   "alts": [
    "Aguardar os 24 meses e repetir a triagem antes de encaminhar",
-   "Encaminhar só se houver atraso motor associado na avaliação",
+   "Encaminhar quando houver também atraso motor na avaliação",
    "Encaminhar para avaliação e estimulação precoce, com audiometria",
    "Orientar estimulação em casa e reavaliar o marco aos 3 anos",
    "Pedir diagnóstico médico de autismo antes de qualquer intervenção"
@@ -279,9 +279,9 @@
   "alts": [
    "Liberar a alta, pois a saturação no braço direito está normal",
    "Repetir a oximetria em 1 hora, pois o resultado está alterado",
-   "Repetir o teste só na consulta da 1ª semana, na UBS de origem",
+   "Repetir o teste na consulta da 1ª semana, na UBS de origem",
    "Pedir ecocardiograma de urgência sem repetir a medida",
-   "Repetir só após 48 horas de vida, pois 30 horas é cedo demais"
+   "Repetir depois de 48 horas de vida, pois 30 horas é cedo demais"
   ],
   "gab": 1,
   "tema": "crianca",
@@ -303,7 +303,7 @@
   "q": "Na sala de parto de uma maternidade, a enfermeira recém-contratada encontra no protocolo antigo do setor a instilação de nitrato de prata 1% como rotina para todos os recém-nascidos. Ao revisar o protocolo pela Nota Técnica nº 11/2024 do Ministério da Saúde, qual orientação ela deve propor para a profilaxia da oftalmia neonatal?",
   "alts": [
    "Manter o nitrato de prata 1% como primeira escolha para todos",
-   "Suspender a profilaxia e tratar só a conjuntivite que surgir",
+   "Suspender a profilaxia e tratar a conjuntivite quando surgir",
    "Usar colírio antibiótico só em filhos de mãe com gonorreia",
    "Iodopovidona 2,5%, eritromicina 0,5% ou tetraciclina 1%",
    "Usar soro fisiológico em gotas na limpeza ocular de rotina"
@@ -353,9 +353,9 @@
   "q": "Puérpera de 22 dias procura a UBS com dor, calor e vermelhidão no quadrante superior da mama direita, febre de 38,3 °C e mal-estar. Amamenta exclusivamente e conta que deixou de oferecer a mama direita porque dói. Na observação da mamada, o bebê abocanha só o mamilo. Além de acionar o médico, qual orientação de enfermagem está correta?",
   "alts": [
    "Suspender a amamentação até terminar o antibiótico prescrito",
-   "Amamentar só na mama esquerda e desprezar o leite da direita",
+   "Amamentar na mama esquerda e desprezar o leite da direita",
    "Oferecer fórmula até a febre ceder e retomar o peito depois",
-   "Manter só a ordenha da mama direita, sem oferecê-la ao bebê",
+   "Ordenhar a mama direita e não oferecê-la ao bebê por ora",
    "Manter a amamentação nas duas mamas e corrigir a pega"
   ],
   "gab": 4,
@@ -428,7 +428,7 @@
   "q": "Lactente de 7 meses, em aleitamento materno, começou a introdução alimentar há um mês. A mãe conta que oferece suco de laranja coado no lanche, sopa batida no liquidificador no almoço e um pouco de açúcar no mingau para ele aceitar melhor. Pelo Guia Alimentar para Crianças Brasileiras Menores de 2 Anos, qual orientação a enfermeira deve dar?",
   "alts": [
    "Fruta inteira ou amassada, comida amassada com garfo e nenhum açúcar",
-   "Manter o suco natural, liquidificar a comida e só tirar o açúcar",
+   "Manter o suco natural, liquidificar a comida e tirar o açúcar",
    "Trocar o açúcar por mel e manter a sopa batida até os 12 meses",
    "Manter o suco, passar a comida na peneira e reduzir o açúcar",
    "Oferecer comida amassada, suco sem açúcar e mel no mingau da tarde"
@@ -497,6 +497,381 @@
    "Sinal geral de perigo não depende de convulsão ou letargia; vomitar tudo basta.",
    "Não há diarreia, e vomitar tudo é sinal geral de perigo, não indicação de plano A.",
    "Correta: vomitar tudo é sinal geral de perigo; trata-se antes e refere-se com urgência."
+  ]
+ },
+ {
+  "q": "Menino de 18 meses é atendido na UBS com tosse e febre há 3 dias. Está alerta, mama e come bem, não vomita e não teve convulsões. Não tem sibilância, tiragem subcostal nem estridor. A enfermeira conta a frequência respiratória por um minuto inteiro, com a criança tranquila: 46 irpm. Pela AIDPI, qual a classificação e a conduta?",
+  "alts": [
+   "Não é pneumonia, pois o corte aos 18 meses é de 50 irpm",
+   "Pneumonia grave; primeira dose de antibiótico e referência",
+   "Pneumonia; amoxicilina oral por 7 dias e retorno em 2 dias",
+   "Não é pneumonia; medidas caseiras e retorno em 5 dias",
+   "Pneumonia; referir para radiografia antes de tratar"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, OPAS e Unicef, Manual de Quadros de Procedimentos AIDPI Criança: 2 meses a 5 anos (2017)",
+  "coment": "Sem radiografia, o sinal mais útil para reconhecer pneumonia na criança é a frequência respiratória contada por um minuto inteiro, com a criança tranquila. Pelo AIDPI Criança (2017), respiração rápida é 50 ou mais por minuto de 2 a 11 meses e 40 ou mais de 1 a 4 anos. Aos 18 meses, 46 irpm é respiração rápida. Sem sinal geral de perigo, sem tiragem subcostal e sem estridor em repouso, a classificação é pneumonia: amoxicilina oral por 7 dias e retorno em 2 dias. Se houvesse sibilância, ela seria tratada e a criança reavaliada antes, porque o broncoespasmo eleva a frequência.",
+  "porAlt": [
+   "O corte de 50 irpm é de 2 a 11 meses; de 1 a 4 anos, respiração rápida é 40 ou mais.",
+   "Pneumonia grave exige sinal geral de perigo, tiragem subcostal ou estridor, ausentes aqui.",
+   "Correta: respiração rápida sem sinais de gravidade é pneumonia, tratada com amoxicilina oral.",
+   "Com 46 irpm aos 18 meses há respiração rápida, o que classifica como pneumonia.",
+   "A AIDPI classifica pela frequência respiratória, sem depender de radiografia."
+  ]
+ },
+ {
+  "q": "Lactente de 10 meses chega à UBS com tosse e coriza há 4 dias. Está alerta e mama bem, sem vômitos e sem convulsões. Frequência respiratória de 44 irpm, contada por um minuto; com o tórax despido, a enfermeira nota tiragem subcostal persistente, sem sibilância. Pela AIDPI, qual classificação e conduta estão corretas?",
+  "alts": [
+   "Pneumonia grave; 1ª dose de antibiótico e referência urgente",
+   "Não é pneumonia, pois a frequência está abaixo de 50 irpm",
+   "Pneumonia; amoxicilina oral por 7 dias e retorno em 2 dias",
+   "Resfriado comum; lavagem nasal com soro e retorno se houver piora",
+   "Pneumonia; nebulização com broncodilatador e reavaliação"
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, OPAS e Unicef, Manual de Quadros de Procedimentos AIDPI Criança: 2 meses a 5 anos (2017)",
+  "coment": "Na AIDPI, qualquer sinal geral de perigo, tiragem subcostal ou estridor em repouso classifica a criança com tosse como pneumonia grave ou doença muito grave, independentemente da frequência respiratória. O manual brasileiro de 2017 manteve a tiragem subcostal nessa classificação. Aos 10 meses, 44 irpm não é respiração rápida, cujo corte é 50 ou mais de 2 a 11 meses, mas a tiragem já decide. A conduta é dar a primeira dose de antibiótico, prevenir hipoglicemia, oferecer oxigênio se disponível e referir com urgência. Tratar em casa por causa da frequência normal subestima a gravidade.",
+  "porAlt": [
+   "Correta: tiragem subcostal classifica como pneumonia grave, com 1ª dose de antibiótico e referência.",
+   "A tiragem subcostal define gravidade mesmo com frequência abaixo do corte de 50 irpm.",
+   "Tratamento em casa é da pneumonia sem tiragem; aqui a tiragem exige referência urgente.",
+   "Tiragem subcostal não é achado de resfriado; é sinal de pneumonia grave.",
+   "Não há sibilância que justifique broncodilatador, e a tiragem exige referência."
+  ]
+ },
+ {
+  "q": "Menino de 3 anos, 14 kg, tem diarreia aquosa há 2 dias, sem sangue. Está ativo e alerta, com olhos normais, lágrimas presentes, sem sede, prega cutânea que desaparece imediatamente e pulso cheio. Aceita bem os alimentos. Pelo cartaz de manejo da diarreia do Ministério da Saúde de 2023, qual orientação a enfermeira deve dar à família?",
+  "alts": [
+   "SRO 50 a 100 mL/kg em 4 a 6 horas, na própria unidade",
+   "SRO 50 a 100 mL por evacuação e leite diluído pela metade",
+   "SRO 100 a 200 mL por evacuação, com jejum alimentar de 12 horas",
+   "SRO 100 a 200 mL por evacuação e zinco 20 mg por 10 a 14 dias",
+   "SRO 100 a 200 mL por evacuação e zinco 10 mg por 5 dias"
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, cartaz Manejo do paciente com diarreia (2023) e Manual AIDPI Criança (2017)",
+  "coment": "A criança não tem nenhum sinal de desidratação: está ativa, com olhos normais, lágrimas, sem sede, prega que desaparece imediatamente e pulso cheio. É plano A, em casa. Pelo cartaz do Ministério da Saúde de 2023, oferecem-se líquidos ou soro de reidratação oral após cada evacuação, 100 a 200 mL de 1 a 10 anos (50 a 100 mL abaixo de 1 ano); mantém-se a alimentação habitual, sem jejum nem diluição do leite; e dá-se zinco uma vez ao dia por 10 a 14 dias, 20 mg de 6 meses a 5 anos. A família volta se houver piora, sangue, vômitos repetidos, pouca diurese ou recusa.",
+  "porAlt": [
+   "SRO 50 a 100 mL/kg em 4 a 6 horas é o plano B, para criança com desidratação.",
+   "De 50 a 100 mL é o volume abaixo de 1 ano, e o leite não deve ser diluído.",
+   "O volume está certo, mas no plano A a alimentação é mantida, sem jejum.",
+   "Correta: plano A com 100 a 200 mL de SRO por evacuação e zinco 20 mg por 10 a 14 dias.",
+   "Aos 3 anos o zinco é de 20 mg, uma vez ao dia, por 10 a 14 dias."
+  ]
+ },
+ {
+  "q": "Menina de 2 anos, 12 kg, com diarreia e vômitos há 2 dias, chega à emergência letárgica, incapaz de beber, com olhos fundos, prega que desaparece em mais de 2 segundos e pulso fraco. Obtido o acesso venoso, a enfermeira prepara a expansão do plano C pelo cartaz do Ministério da Saúde de 2023. Qual prescrição de volumes e tempos está correta?",
+  "alts": [
+   "360 mL em 1 hora e, a seguir, 840 mL em 5 horas de infusão",
+   "360 mL em 30 minutos e depois 840 mL em 2 horas e 30 minutos",
+   "240 mL em 20 minutos, repetidos até melhorar a perfusão",
+   "120 mL em 30 minutos e depois 840 mL em 2 horas e meia",
+   "360 mL em 30 minutos e depois 840 mL em 6 horas seguidas"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Ministério da Saúde, cartaz Manejo do paciente com diarreia: avaliação do estado de hidratação (2023)",
+  "coment": "Letargia, incapacidade de beber e pulso fraco são sinais com asterisco; com dois ou mais sinais e ao menos um com asterisco, a desidratação é grave, plano C. O cartaz do Ministério da Saúde de 2023 trocou a expansão antiga de 20 mL/kg repetidos pelo esquema da OMS: SF 0,9% ou Ringer lactato, 30 mL/kg e depois 70 mL/kg. A partir de 1 ano, a primeira etapa corre em 30 minutos e a segunda em 2 horas e 30 minutos; no menor de 1 ano, em 1 hora e 5 horas. Para 12 kg: 360 mL em 30 minutos e 840 mL em 2 h 30 min. A via oral começa quando a criança conseguir beber.",
+  "porAlt": [
+   "Os tempos de 1 hora e 5 horas são do menor de 1 ano; aos 2 anos são 30 minutos e 2 h 30 min.",
+   "Correta: 30 mL/kg (360 mL) em 30 minutos e 70 mL/kg (840 mL) em 2 horas e 30 minutos.",
+   "A expansão de 20 mL/kg repetida foi substituída pelo esquema de 30 e 70 mL/kg.",
+   "A primeira etapa é 30 mL/kg, ou 360 mL para 12 kg, e não 10 mL/kg.",
+   "A segunda etapa, a partir de 1 ano, corre em 2 horas e 30 minutos, não em 6 horas."
+  ]
+ },
+ {
+  "q": "Menino de 4 anos, 16 kg, com desidratação classificada como plano B, iniciou soro de reidratação oral na unidade, mas vomitou quatro vezes na primeira hora, mesmo com goles pequenos e frequentes. Não há sinais de desidratação grave. Pelo cartaz de manejo da diarreia do Ministério da Saúde de 2023, qual conduta está indicada?",
+  "alts": [
+   "Passar para o plano C com SF 30 mL/kg em 30 minutos",
+   "Ondansetrona 2 mg em dose única e manter a SRO oral",
+   "Metoclopramida e suspender a SRO por 4 horas seguidas",
+   "Ondansetrona 8 mg a cada 8 horas até parar o vômito",
+   "Ondansetrona 4 mg em dose única e manter a SRO oral"
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "tit",
+  "base": "Ministério da Saúde, cartaz Manejo do paciente com diarreia: avaliação do estado de hidratação (2023)",
+  "coment": "O cartaz Manejo do paciente com diarreia, do Ministério da Saúde (2023), incluiu a ondansetrona para o vômito persistente no plano B, em dose única: 2 mg de 6 meses a 2 anos; 4 mg de 2 a 10 anos, até 30 kg; e 8 mg acima disso. Ela é contraindicada na gestante. Para o menino de 4 anos e 16 kg, a dose é 4 mg, e a reidratação oral continua, com 50 a 100 mL/kg em 4 a 6 horas e reavaliação seriada. Vômito sem sinal de desidratação grave não indica plano C. Se a criança não se hidratar em 6 horas, considera-se gastróclise ou referência para internação.",
+  "porAlt": [
+   "Vômito persistente sem sinal de gravidade não indica plano C; há opção antiemética.",
+   "A dose de 2 mg é da faixa de 6 meses a 2 anos; aos 4 anos e 16 kg são 4 mg.",
+   "O cartaz de 2023 prevê ondansetrona, e suspender a SRO interrompe a reidratação.",
+   "A ondansetrona é dose única, e 8 mg é a dose acima de 10 anos ou de 30 kg.",
+   "Correta: de 2 a 10 anos, até 30 kg, ondansetrona 4 mg em dose única, mantendo a SRO."
+  ]
+ },
+ {
+  "q": "Criança de 18 kg internada na pediatria tem prescrição médica de amoxicilina 50 mg/kg/dia, por via oral, de 8 em 8 horas. A farmácia dispensa a suspensão de 250 mg/5 mL. Antes de administrar, a enfermeira confere a dose por quilo, a dose da tomada e o volume a aspirar. Qual dose e qual volume devem ser dados em cada horário?",
+  "alts": [
+   "150 mg, ou 3 mL",
+   "450 mg, ou 9 mL",
+   "900 mg, ou 18 mL",
+   "300 mg, ou 6 mL",
+   "200 mg, ou 4 mL"
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Protocolo de segurança na prescrição, uso e administração de medicamentos (Ministério da Saúde e ANVISA, 2013)",
+  "coment": "A dose diária é 50 mg/kg/dia multiplicados por 18 kg, ou 900 mg. De 8 em 8 horas são três tomadas: 900 divididos por 3 dão 300 mg por dose. A suspensão de 250 mg/5 mL tem 50 mg/mL, logo 300 mg correspondem a 6 mL. Na criança, a dose é por quilo e o volume é pequeno, o que amplia o erro de vírgula; por isso a enfermagem confere a dose por quilo, a dose da tomada e o total do dia contra o teto da bula, e devolve ao prescritor, com o cálculo feito, a dose fora da faixa. Dar 18 mL seria administrar o total do dia de uma vez.",
+  "porAlt": [
+   "150 mg seria a dose dividida em seis tomadas, e não nas três do intervalo de 8 horas.",
+   "450 mg seria a divisão em duas tomadas, de 12 em 12 horas, e não de 8 em 8.",
+   "900 mg é o total do dia; dar 18 mL de uma vez triplica a dose da tomada.",
+   "Correta: 900 mg/dia divididos em três tomadas dão 300 mg, ou 6 mL da suspensão a 50 mg/mL.",
+   "200 mg corresponderia a uma criança de 12 kg; com 18 kg a dose da tomada é 300 mg."
+  ]
+ },
+ {
+  "q": "Criança de 5 anos, 18 kg, internada em jejum para cirurgia eletiva, tem prescrição de hidratação venosa de manutenção pela regra de Holliday-Segar, em bomba de infusão por 24 horas. Antes de programar a bomba, a enfermeira refaz o cálculo do volume total. Qual volume diário e qual vazão aproximada estão corretos?",
+  "alts": [
+   "1.400 mL em 24 horas, cerca de 58 mL/h",
+   "1.800 mL em 24 horas, cerca de 75 mL/h",
+   "1.540 mL em 24 horas, cerca de 64 mL/h",
+   "1.000 mL em 24 horas, cerca de 42 mL/h",
+   "1.250 mL em 24 horas, cerca de 52 mL/h"
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Regra de Holliday e Segar (Pediatrics, 1957), adotada na manutenção do cartaz de manejo da diarreia do MS (2023)",
+  "coment": "A regra de Holliday-Segar calcula a manutenção diária por faixas de peso: 1.000 mL pelos primeiros 10 kg mais 50 mL por quilo entre 10 e 20 kg. Para 18 kg: 1.000 mL mais 8 vezes 50 mL, total de 1.400 mL em 24 horas, ou cerca de 58 mL/h na bomba de infusão. Aplicar 100 mL/kg ao peso inteiro daria 1.800 mL, excesso de volume num paciente pequeno. A enfermagem confere a conta antes de programar a bomba e devolve ao prescritor a prescrição que fugir da faixa, com o cálculo feito. Balanço hídrico, peso e diurese acompanham a infusão.",
+  "porAlt": [
+   "Correta: 1.000 mL pelos primeiros 10 kg mais 400 mL pelos 8 kg seguintes, cerca de 58 mL/h.",
+   "1.800 mL aplica 100 mL/kg ao peso todo; acima de 10 kg, cada quilo soma 50 mL.",
+   "1.540 mL não segue a regra; entre 10 e 20 kg somam-se 50 mL por quilo, total de 1.400 mL.",
+   "1.000 mL cobre só os primeiros 10 kg; faltam 50 mL por quilo acima disso.",
+   "1.250 mL é a manutenção de uma criança de 15 kg, e não de 18 kg."
+  ]
+ },
+ {
+  "q": "Mãe de lactente de 5 meses internado na UTI pediátrica com bronquiolite grave é informada pela recepção de que o regulamento do hospital só permite visita de 1 hora por turno, sem pernoite. Ela procura a enfermeira do plantão, dizendo que quer ficar com o filho. Pelo Estatuto da Criança e do Adolescente, qual é a orientação correta?",
+  "alts": [
+   "A permanência integral vale para a enfermaria, não para a UTI",
+   "O regulamento interno prevalece nas unidades de terapia intensiva",
+   "Ela tem direito à permanência em tempo integral, inclusive na UTI",
+   "A permanência integral vale para menores de 1 mês de idade",
+   "A permanência depende de autorização médica diária na UTI"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.069/1990 (ECA), art. 12; Resolução CONANDA nº 41/1995 (direitos da criança e do adolescente hospitalizados)",
+  "coment": "O ECA, art. 12, obriga os estabelecimentos de atendimento à saúde, inclusive as unidades neonatais, de terapia intensiva e de cuidados intermediários, a proporcionar condições para a permanência em tempo integral de um dos pais ou responsável nos casos de internação de criança ou adolescente. O regulamento interno não pode restringir esse direito. A Resolução CONANDA nº 41/1995, que lista os direitos da criança e do adolescente hospitalizados, reforça o direito ao acompanhante e à informação. Cabe à enfermagem acolher a mãe, orientá-la sobre as rotinas e incluí-la no cuidado.",
+  "porAlt": [
+   "O art. 12 do ECA inclui expressamente as unidades de terapia intensiva.",
+   "Regulamento interno não se sobrepõe ao direito previsto no art. 12 do ECA.",
+   "Correta: o art. 12 do ECA garante permanência em tempo integral, inclusive na UTI.",
+   "O direito vale para criança e adolescente internados, sem limite de idade em meses.",
+   "A permanência é direito previsto em lei e não depende de autorização médica diária."
+  ]
+ },
+ {
+  "q": "Lactente de 3 meses está internado na enfermaria pediátrica com bronquiolite, no 2º dia de doença. Tem obstrução nasal com secreção, dificuldade para mamar, frequência respiratória de 52 irpm e SpO2 de 93% em ar ambiente. A prescrição médica não inclui broncodilatador. Qual cuidado de enfermagem é o mais adequado nesse momento?",
+  "alts": [
+   "Iniciar oxigênio por cateter nasal para manter SpO2 acima de 95%",
+   "Sugerir ao médico nebulização com broncodilatador a cada 4 horas",
+   "Solicitar fisioterapia respiratória de rotina duas vezes por dia",
+   "Suspender as mamadas e manter a hidratação venosa contínua",
+   "Aspiração nasal superficial antes das mamadas e vigilância de apneia"
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Ralston SL et al., Clinical practice guideline: bronchiolitis, Pediatrics 2014 (Academia Americana de Pediatria)",
+  "coment": "Na bronquiolite, primeiro episódio de sibilância no menor de 2 anos, quase sempre pelo vírus sincicial respiratório, o cuidado é sobretudo de enfermagem. A aspiração nasal superficial antes das mamadas melhora a alimentação, a hidratação deve ser mantida e o lactente pequeno precisa de vigilância de apneia. Oxigênio entra quando a saturação fica persistentemente abaixo de 90%; com 93% em ar ambiente, não há indicação. Broncodilatador, corticoide e fisioterapia respiratória de rotina não têm indicação, conforme a diretriz da Academia Americana de Pediatria de 2014. Suspender a dieta sem critério piora a hidratação.",
+  "porAlt": [
+   "Oxigênio entra com saturação persistentemente abaixo de 90%; 93% não exige suplementação.",
+   "Broncodilatador não tem indicação de rotina na bronquiolite.",
+   "Fisioterapia respiratória de rotina não tem indicação na bronquiolite.",
+   "A alimentação é mantida, facilitada pela aspiração nasal antes das mamadas.",
+   "Correta: aspiração nasal superficial antes das mamadas, hidratação e vigilância de apneia."
+  ]
+ },
+ {
+  "q": "No alojamento conjunto, um recém-nascido de 60 horas de vida, em aleitamento exclusivo, vai colher o teste do pezinho antes da alta. Ele acordou chorando e com fome, e a técnica de enfermagem pede à mãe que espere do lado de fora para não atrapalhar a punção do calcanhar. A enfermeira intervém. Qual medida reduz a dor desse procedimento?",
+  "alts": [
+   "Colher com o bebê no berço, em jejum de 1 hora antes da punção",
+   "Colher durante a mamada ou com o bebê em pele a pele com a mãe",
+   "Adiar a coleta para o 10º dia, quando a dor é menos intensa",
+   "Aplicar compressa fria no calcanhar por 10 minutos antes",
+   "Imobilizar o bebê no berço e dispensar a presença da mãe"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Resolução CONANDA nº 41/1995 (direitos da criança e do adolescente hospitalizados, inclusive não sentir dor)",
+  "coment": "No recém-nascido, procedimento doloroso pede medidas não farmacológicas: amamentação ou contato pele a pele durante o procedimento e sucção não nutritiva. A Resolução CONANDA nº 41/1995 inclui entre os direitos da criança hospitalizada não sentir dor quando houver meio de evitá-la. Afastar a mãe e colher com o bebê chorando no berço tira o recurso mais eficaz. O momento da coleta está certo: o teste do pezinho é colhido entre o 3º e o 5º dia de vida, depois de 48 horas de alimentação, porque antes disso a fenilalanina ainda não subiu e o TSH está no pico pós-natal; adiar sem motivo atrasa o diagnóstico.",
+  "porAlt": [
+   "Jejum não reduz a dor da punção; mamar durante a coleta é a medida que alivia.",
+   "Correta: amamentar ou manter pele a pele durante a punção reduz a dor do recém-nascido.",
+   "A coleta é entre o 3º e o 5º dia; adiar para o 10º dia atrasa o diagnóstico.",
+   "Compressa fria não é a medida indicada; amamentação ou pele a pele é que reduz a dor.",
+   "Afastar a mãe e imobilizar o bebê tira a medida mais eficaz, que é mamar no peito."
+  ]
+ },
+ {
+  "q": "Adolescente de 15 anos chega à UBS com a mãe para consulta de rotina. A mãe pede para ficar durante todo o atendimento, porque quer saber tudo o que a filha disser. A enfermeira pretende abordar escola, alimentação, uso de drogas, sexualidade e humor. Como essa consulta deve ser organizada?",
+  "alts": [
+   "Com a mãe presente o tempo todo, pois a adolescente é menor de idade",
+   "A consulta inteira a sós, sem ouvir a mãe em momento algum",
+   "A sós apenas se a adolescente trouxer queixa de saúde sexual",
+   "Com a mãe presente, e o sigilo combinado só no fim da consulta",
+   "Um tempo com a mãe e outro a sós, com sigilo e limites combinados"
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Adolescente",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética dos Profissionais de Enfermagem), art. 52; Lei 8.069/1990 (ECA)",
+  "coment": "A consulta do adolescente tem dois tempos: com o responsável, para a história e os combinados, e a sós com o adolescente, para abordar casa, escola, alimentação, atividades, drogas, sexualidade, humor, risco de suicídio e segurança, como no roteiro HEEADSSS. O sigilo é combinado no início, deixando claros os seus limites, como a ameaça à vida e a violência. O sigilo profissional da enfermagem está na Resolução COFEN 564/2017, art. 52. Adolescente com discernimento pode ser atendido sozinho; a presença contínua da mãe inibiria justamente os temas de maior risco.",
+  "porAlt": [
+   "Ser menor de idade não impede o atendimento a sós de quem tem discernimento.",
+   "O responsável também é ouvido, num tempo próprio, para história e combinados.",
+   "O tempo a sós faz parte de toda consulta do adolescente, sem depender de queixa sexual.",
+   "O sigilo e seus limites são combinados no início, e há um tempo a sós com a adolescente.",
+   "Correta: tempo com a responsável e tempo a sós, com sigilo e limites combinados no início."
+  ]
+ },
+ {
+  "q": "Na conversa a sós, adolescente de 14 anos conta à enfermeira da UBS que pensa em se matar, que já escolheu o método e guarda comprimidos da avó no quarto. Pede que nada seja dito à mãe, que aguarda na recepção. Pelo Código de Ética dos Profissionais de Enfermagem, qual conduta está correta?",
+  "alts": [
+   "Manter o sigilo, pois ela tem discernimento e pediu",
+   "Manter o sigilo e agendar retorno em 30 dias",
+   "Revelar o fato à mãe e à equipe, pela ameaça à vida",
+   "Revelar apenas se a adolescente autorizar por escrito",
+   "Revelar mediante ordem judicial, por se tratar de menor"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Adolescente",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 564/2017 (Código de Ética dos Profissionais de Enfermagem), art. 52, § 2º",
+  "coment": "A Resolução COFEN 564/2017, art. 52, manda manter o sigilo sobre o que se sabe em razão da atividade profissional, mas o § 2º determina que o fato sigiloso deve ser revelado em situações de ameaça à vida e à dignidade, na defesa própria ou em atividade multiprofissional, quando necessário à assistência. Ideação suicida com plano e acesso ao método é ameaça à vida: a enfermeira explica à adolescente que precisará envolver a mãe e a equipe, aciona avaliação imediata e orienta retirar os comprimidos de casa. Esse limite do sigilo deve ter sido combinado no início da consulta.",
+  "porAlt": [
+   "O discernimento não mantém o sigilo diante de ameaça à vida, que obriga a revelação.",
+   "Ideação com plano e acesso ao método exige ação imediata, não retorno em 30 dias.",
+   "Correta: ameaça à vida obriga revelar o fato, pelo art. 52, § 2º, do Código de Ética.",
+   "Na ameaça à vida, a revelação não depende de autorização da adolescente.",
+   "A revelação por ameaça à vida não depende de ordem judicial."
+  ]
+ },
+ {
+  "q": "Adolescente de 13 anos vem sozinha à UBS pedir teste de gravidez. Conta que namora há meses um rapaz de 19 anos, que as relações são consentidas e que a família não sabe. O teste é positivo, e ela pede segredo absoluto. Pela legislação e pelo Código de Ética de Enfermagem, qual conduta a enfermeira deve adotar?",
+  "alts": [
+   "Acolher, iniciar o pré-natal e comunicar a situação ao Conselho Tutelar",
+   "Manter o sigilo, pois a relação foi consentida e há discernimento",
+   "Comunicar à família e deixar com ela a decisão de fazer a denúncia",
+   "Comunicar ao Conselho Tutelar somente se a adolescente concordar",
+   "Manter o sigilo e comunicar se surgir relato de agressão física"
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Adolescente",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Código Penal, art. 217-A; Lei 8.069/1990 (ECA), arts. 13 e 245; Resolução COFEN 564/2017, art. 52, § 4º",
+  "coment": "Relação sexual com menor de 14 anos é estupro de vulnerável (Código Penal, art. 217-A), independentemente de consentimento ou de namoro. É, portanto, violência contra adolescente. A Resolução COFEN 564/2017, art. 52, § 4º, torna obrigatória a comunicação externa, sem necessidade de autorização, dos casos de violência contra criança e adolescente, e o ECA, art. 13, manda comunicar a suspeita ou confirmação de maus-tratos ao Conselho Tutelar; o art. 245 pune o profissional de saúde que deixa de comunicar. A enfermeira acolhe, explica à adolescente o que será feito e por quê, e garante o pré-natal.",
+  "porAlt": [
+   "Correta: menor de 14 anos é vulnerável; acolhe-se, garante-se o pré-natal e comunica-se ao Conselho Tutelar.",
+   "Abaixo de 14 anos o consentimento não afasta o estupro de vulnerável (art. 217-A).",
+   "A comunicação ao Conselho Tutelar é obrigação do profissional, não escolha da família.",
+   "A comunicação da violência contra adolescente não depende de concordância (art. 52, § 4º).",
+   "Com 13 anos, a relação já configura violência, mesmo sem relato de agressão física."
+  ]
+ },
+ {
+  "q": "Em uma capacitação na UBS, a enfermeira apresenta o caso de um menino de 11 anos e pergunta à equipe como ele é classificado conforme a norma usada. Considerando o ECA, a Organização Mundial da Saúde e a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC), qual classificação está correta?",
+  "alts": [
+   "ECA: criança; OMS: criança; PNAISC: primeira infância",
+   "ECA: criança; OMS: adolescente; PNAISC: não é criança",
+   "ECA: adolescente; OMS: adolescente; PNAISC: criança",
+   "ECA: adolescente; OMS: criança; PNAISC: não é criança",
+   "ECA: criança; OMS: adolescente; PNAISC: criança"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Adolescente",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Lei 8.069/1990 (ECA), art. 2º; Portaria GM/MS 1.130/2015 (PNAISC), art. 3º",
+  "coment": "As faixas etárias mudam conforme a norma, e a prova cobra a norma citada. O ECA (Lei 8.069/1990, art. 2º) considera criança a pessoa até 12 anos incompletos e adolescente a de 12 a 18 anos: aos 11 anos, criança. A OMS define adolescência dos 10 aos 19 anos: aos 11, adolescente. A PNAISC (Portaria GM/MS 1.130/2015, art. 3º) considera criança a pessoa de 0 a 9 anos (0 a 120 meses) e primeira infância de 0 a 5 anos, embora o atendimento em pediatria no SUS vá até 15 anos: aos 11, ele já não está na faixa de criança da política.",
+  "porAlt": [
+   "Pela OMS, 11 anos é adolescência; pela PNAISC, a primeira infância vai só até 5 anos.",
+   "Correta: criança pelo ECA (até 12 incompletos), adolescente pela OMS (10 a 19) e fora dos 0 a 9 da PNAISC.",
+   "Pelo ECA a adolescência começa aos 12 anos, e a PNAISC define criança até 9 anos.",
+   "Pelo ECA ele é criança até os 12 anos incompletos, e pela OMS já é adolescente.",
+   "A PNAISC define criança de 0 a 9 anos; aos 11 ele está fora dessa faixa."
+  ]
+ },
+ {
+  "q": "Adolescente de 15 anos procura sozinho a UBS. Conta que teve relação sexual sem preservativo com a namorada, também de 15 anos, há 40 dias, e quer fazer teste para HIV e sífilis, mas não quer que os pais saibam. Não há relato de violência nem de risco à vida. Qual conduta a enfermeira deve adotar?",
+  "alts": [
+   "Agendar a testagem para quando ele retornar com um responsável legal",
+   "Testar e comunicar o resultado aos pais, por ser menor de idade",
+   "Comunicar ao Conselho Tutelar, por relação sexual entre menores",
+   "Atender sozinho, oferecer testagem e preservativos, mantendo sigilo",
+   "Testar, mas entregar o resultado na presença de um dos pais"
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Adolescente",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Resolução COFEN 564/2017 (Código de Ética dos Profissionais de Enfermagem), art. 52; Código Penal, art. 217-A",
+  "coment": "O adolescente com discernimento pode ser atendido sozinho e receber preservativo, contracepção e testagem para IST e HIV, com garantia de sigilo. A Resolução COFEN 564/2017, art. 52, só manda revelar o fato sigiloso em ameaça à vida e à dignidade, na defesa própria ou quando necessário à assistência, e obriga a comunicação externa na violência contra criança e adolescente. Relação consentida entre dois adolescentes de 15 anos, sem relato de violência, não se enquadra no art. 217-A do Código Penal, que trata do menor de 14 anos. Exigir responsável afastaria o adolescente da testagem e da prevenção.",
+  "porAlt": [
+   "Adolescente com discernimento pode ser testado sem a presença de responsável.",
+   "Não há ameaça à vida nem violência que autorize revelar o fato aos pais.",
+   "Relação consentida entre adolescentes de 15 anos, sem violência, não exige comunicação.",
+   "Correta: com discernimento e sem violência, atende-se a sós, testa-se e mantém-se o sigilo.",
+   "O resultado é entregue ao próprio adolescente, com aconselhamento e sigilo."
   ]
  }
 ]

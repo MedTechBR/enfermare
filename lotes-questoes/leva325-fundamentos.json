@@ -1,0 +1,1002 @@
+[
+ {
+  "q": "Homem de 52 anos chega à unidade básica para medir a pressão arterial. Subiu a escada do serviço, fumou um cigarro há 10 minutos e está com a bexiga cheia. A técnica de enfermagem propõe medir logo, com o braço pendente ao lado da cadeira. Segundo a Diretriz Brasileira de Hipertensão Arterial de 2025, qual é a conduta correta?",
+  "alts": [
+   "Medir já no braço pendente e descontar 10 mmHg da sistólica pelo cigarro e pelo esforço.",
+   "Esvaziar a bexiga, aguardar 30 minutos do cigarro e apoiar o braço na altura do coração.",
+   "Aguardar só 5 minutos sentado, pois o cigarro interfere apenas na medida feita logo após.",
+   "Medir em pé, com o braço estendido, para compensar o efeito da bexiga cheia sobre a pressão.",
+   "Medir deitado e após 3 minutos em pé, pois o tabagismo exige pesquisa de ortostatismo."
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH, SBN), medida da pressão arterial",
+  "coment": "A Diretriz Brasileira de Hipertensão Arterial de 2025 exige preparo antes da medida: bexiga vazia, 30 minutos sem fumar, comer ou ingerir cafeína, 90 minutos sem exercício e pelo menos 5 minutos sentado, sem falar, com costas apoiadas e pernas descruzadas. O braço fica nu, apoiado na altura do coração, palma para cima, com manguito adequado 2 a 3 cm acima da fossa cubital. Cigarro recente, bexiga cheia e esforço elevam a pressão e geram leitura falsa, que não se corrige por desconto. A medida deitado e em pé serve para pesquisar hipotensão ortostática em idosos, diabéticos e usuários de anti-hipertensivo, não para compensar preparo inadequado.",
+  "porAlt": [
+   "Errada: braço pendente e preparo inadequado falseiam a medida, e a diretriz não prevê desconto no valor.",
+   "Correta: a diretriz pede bexiga vazia, 30 minutos sem fumar e braço apoiado na altura do coração.",
+   "Errada: o intervalo sem fumar é de 30 minutos; os 5 minutos se referem ao repouso sentado.",
+   "Errada: a medida padrão é sentada, com braço apoiado; em pé e com braço estendido a leitura se altera.",
+   "Errada: a medida ortostática é indicada para idosos, diabéticos e usuários de anti-hipertensivo, não por tabagismo."
+  ]
+ },
+ {
+  "q": "Mulher de 74 anos, diabética e em uso de anti-hipertensivo, refere tontura ao se levantar. Na consulta de enfermagem, a pressão deitada é de 136/80 mmHg; após 3 minutos em pé, de 114/74 mmHg, com frequência cardíaca de 78 bpm. Segundo a Diretriz Brasileira de Hipertensão Arterial de 2025, como interpretar o achado?",
+  "alts": [
+   "Resposta normal, pois a diastólica caiu 6 mmHg, abaixo do corte de 10 mmHg.",
+   "Achado indeterminado, pois a medida em pé exige 5 minutos de espera.",
+   "Sem hipotensão ortostática, pois o corte da sistólica é queda de 30 mmHg.",
+   "Hipotensão ortostática, pela queda de 22 mmHg na pressão sistólica.",
+   "Hipotensão ortostática somente se o pulso subir 30 bpm ao ficar em pé."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH, SBN), hipotensão ortostática",
+  "coment": "A Diretriz Brasileira de Hipertensão Arterial de 2025 recomenda medir a pressão também deitado e após 1 e 3 minutos em pé em idosos, diabéticos e usuários de anti-hipertensivo, perfil exato da paciente. Hipotensão ortostática é a queda de 20 mmHg ou mais na sistólica ou de 10 mmHg ou mais na diastólica. Os critérios são alternativos: basta um. Aqui a sistólica caiu 22 mmHg (de 136 para 114), o que fecha o diagnóstico mesmo com a diastólica caindo só 6 mmHg. A frequência cardíaca não entra no critério, e a tontura ao levantar reforça o risco de queda, que deve entrar no plano de cuidados.",
+  "porAlt": [
+   "Errada: os critérios são alternativos; a queda de 22 mmHg na sistólica já basta para o diagnóstico.",
+   "Errada: a diretriz prevê medidas com 1 e 3 minutos em pé; a medida aos 3 minutos é válida.",
+   "Errada: o corte da sistólica é queda de 20 mmHg ou mais, não de 30 mmHg.",
+   "Correta: queda de 20 mmHg ou mais na sistólica define hipotensão ortostática; aqui foram 22 mmHg.",
+   "Errada: a variação do pulso não faz parte do critério diagnóstico de hipotensão ortostática da diretriz."
+  ]
+ },
+ {
+  "q": "Homem de 40 anos, sem comorbidades, faz consulta de rotina na unidade básica. Com preparo e técnica corretos, a enfermeira obtém três medidas com 1 minuto de intervalo: 134/86, 128/82 e 126/80 mmHg. Pela Diretriz Brasileira de Hipertensão Arterial de 2025, qual é a classificação da pressão arterial desse paciente?",
+  "alts": [
+   "Pré-hipertensão, com média de 127/81 mmHg nas duas últimas medidas.",
+   "PA normal, pois a média das três medidas fica abaixo de 130/85 mmHg.",
+   "PA ótima, pela última medida isolada, a única usada na classificação.",
+   "Hipertensão estágio 1, pois a primeira medida passou de 130/85 mmHg.",
+   "Pré-hipertensão, mas pela primeira medida, a única válida na consulta."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH, SBN), classificação no consultório",
+  "coment": "A Diretriz de 2025 orienta três medidas com 1 minuto de intervalo e usa a média das duas últimas: (128 + 126)/2 e (82 + 80)/2 dão 127/81 mmHg. Na classificação de consultório para 18 anos ou mais, PA normal é sistólica abaixo de 120 e diastólica abaixo de 80; pré-hipertensão, sistólica de 120 a 139 e/ou diastólica de 80 a 89; estágio 1 começa em 140/90. A diretriz de 2025 retirou a categoria PA ótima, e a faixa de 120 a 129 por 80 a 84 mmHg, antes chamada normal, passou a ser pré-hipertensão. Questões e materiais anteriores a 2025 ainda trazem a classificação antiga.",
+  "porAlt": [
+   "Correta: a média das duas últimas é 127/81 mmHg, faixa de pré-hipertensão pela diretriz de 2025.",
+   "Errada: usa a média das três medidas e o corte antigo; abaixo de 120/80 é o limite atual da PA normal.",
+   "Errada: a categoria PA ótima saiu em 2025, e a classificação não usa uma medida isolada.",
+   "Errada: estágio 1 começa em 140/90 mmHg, e a primeira medida é descartada no cálculo da média.",
+   "Errada: a categoria coincide, mas o raciocínio está errado; vale a média das duas últimas medidas."
+  ]
+ },
+ {
+  "q": "No pronto-socorro, uma mulher de 66 anos com pneumonia é avaliada pelo National Early Warning Score 2 (NEWS2). A enfermeira registra frequência respiratória, saturação, pressão sistólica, frequência cardíaca e temperatura. Qual dos achados abaixo, isoladamente, recebe a pontuação máxima de 3 pontos no seu parâmetro?",
+  "alts": [
+   "Saturação de oxigênio de 93% em ar ambiente.",
+   "Pressão sistólica de 96 mmHg na medida automática.",
+   "Frequência respiratória de 26 incursões por minuto.",
+   "Frequência cardíaca de 126 batimentos por minuto.",
+   "Temperatura axilar de 38,8 °C, com calafrios."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "National Early Warning Score 2 (NEWS2), Royal College of Physicians, 2017",
+  "coment": "O NEWS2 (Royal College of Physicians, 2017) pontua cada parâmetro de 0 a 3. Recebem 3 pontos a frequência respiratória de 8 ou menos ou de 25 ou mais, a SpO2 de 91% ou menos, a sistólica de 90 mmHg ou menos e o pulso de 40 ou menos ou de 131 ou mais. A frequência respiratória de 26 incursões por minuto já está na faixa de 3 pontos. Saturação de 93%, sistólica de 96 mmHg e pulso de 126 estão em faixas intermediárias, e temperatura de 38,8 °C pontua pouco. A frequência respiratória é o sinal mais precoce de deterioração e o mais esquecido no registro; precisa ser contada por um minuto inteiro.",
+  "porAlt": [
+   "Errada: a SpO2 só recebe 3 pontos com 91% ou menos; 93% fica em faixa intermediária.",
+   "Errada: a sistólica só pontua 3 com 90 mmHg ou menos; 96 mmHg fica em faixa intermediária.",
+   "Correta: frequência respiratória de 25 ou mais por minuto recebe 3 pontos no NEWS2.",
+   "Errada: o pulso só pontua 3 com 131 ou mais, ou 40 ou menos; 126 fica abaixo do corte.",
+   "Errada: febre de 38,8 °C recebe pontuação baixa no NEWS2, longe da pontuação máxima."
+  ]
+ },
+ {
+  "q": "Na enfermaria, a técnica de enfermagem vai dar banho no leito em uma paciente de 68 anos, dependente, com cateter central de inserção periférica (PICC) no braço direito, coberto por filme transparente íntegro. A enfermeira revisa a técnica com ela antes do procedimento. Qual orientação está correta?",
+  "alts": [
+   "Retirar o filme transparente antes do banho e refazer o curativo ao final.",
+   "Iniciar pelo períneo e pelo dorso e terminar no rosto, com a água ainda morna.",
+   "Expor todo o corpo de uma vez, para avaliar a pele num único momento.",
+   "Molhar a cobertura sem receio, pois o filme transparente veda a passagem de água.",
+   "Proteger cateter, cobertura e conexões com material impermeável durante o banho."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Higiene, conforto e mobilização",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017",
+  "coment": "O Caderno 4 da ANVISA (2017) orienta proteger cateteres, coberturas e conexões com material impermeável durante o banho, porque a cobertura úmida ou solta perde a função de barreira e tem de ser trocada. O filme íntegro não se troca por causa do banho: ele é protegido. O banho no leito segue do mais limpo para o mais sujo (rosto, membros superiores, tronco, membros inferiores, dorso e períneo por último), com exposição mínima do corpo, preservando a privacidade e o calor. É também o momento de avaliar pele, proeminências ósseas e fixações. Higiene e conforto podem ser delegados ao técnico, sob prescrição e supervisão do enfermeiro.",
+  "porAlt": [
+   "Errada: a cobertura íntegra não se troca por causa do banho; ela é protegida com material impermeável.",
+   "Errada: o banho vai do mais limpo para o mais sujo, e o períneo fica por último.",
+   "Errada: a exposição deve ser mínima, descobrindo uma região de cada vez, pela privacidade e pelo calor.",
+   "Errada: a cobertura molhada perde a função de barreira e exige troca; por isso se protege no banho.",
+   "Correta: a ANVISA orienta proteger cateter, cobertura e conexões com material impermeável no banho."
+  ]
+ },
+ {
+  "q": "Homem de 71 anos, com sequela de acidente vascular cerebral, recebe dieta enteral contínua em bomba de infusão por sonda nasoenteral, com a cabeceira elevada. Às 10 h, a equipe fará mudança de decúbito e troca de lençóis, o que exige baixar a cabeceira por alguns minutos. Qual é a conduta correta em relação à dieta?",
+  "alts": [
+   "Pausar a infusão da dieta antes de baixar a cabeceira e retomá-la depois.",
+   "Manter a dieta correndo, pois a bomba controla o volume e evita o refluxo.",
+   "Reduzir a vazão da bomba à metade enquanto a cabeceira estiver baixa.",
+   "Desprezar o frasco aberto e reiniciar com dieta nova após a troca de lençóis.",
+   "Manter a dieta e lateralizar a cabeça, o que dispensa elevar a cabeceira."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Higiene, conforto e mobilização",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017",
+  "coment": "Dieta infundida com o paciente em decúbito baixo favorece refluxo e aspiração, causa importante de pneumonia no paciente com sonda. Por isso a infusão é pausada antes de baixar a cabeceira para higiene, mudança de decúbito ou troca de roupa de cama, e retomada quando a cabeceira volta a ser elevada. A medida integra o cuidado de prevenção de pneumonia do Caderno 4 da ANVISA (2017), que associa cabeceira elevada a benefício maior em quem recebe dieta enteral. Reduzir a vazão não elimina o risco, a bomba não impede refluxo e lateralizar a cabeça não substitui a cabeceira elevada. Desprezar a dieta sem motivo também não faz parte da conduta.",
+  "porAlt": [
+   "Correta: pausa-se a dieta antes de baixar a cabeceira e retoma-se depois de elevá-la de novo.",
+   "Errada: a bomba controla a vazão, mas não impede o refluxo de dieta com o paciente em decúbito baixo.",
+   "Errada: qualquer volume infundido com a cabeceira baixa mantém o risco de refluxo e aspiração.",
+   "Errada: a pausa breve não obriga desprezar o frasco; troca-se a dieta conforme o tempo de validade.",
+   "Errada: lateralizar a cabeça não substitui a cabeceira elevada durante a infusão da dieta."
+  ]
+ },
+ {
+  "q": "Mulher de 69 anos, internada por insuficiência cardíaca descompensada, recebeu furosemida intravenosa há 1 hora e pede para ir ao banheiro pela primeira vez desde a admissão. Está acamada há dois dias e tem hipotensão postural registrada na avaliação. Qual é a conduta de enfermagem mais segura para essa mobilização?",
+  "alts": [
+   "Oferecer comadre, pois paciente com diurético não deve sair do leito no dia.",
+   "Levantá-la direto do decúbito para a cadeira de rodas, sem pausa sentada.",
+   "Sentá-la à beira do leito por alguns instantes e acompanhá-la ao banheiro.",
+   "Deixá-la ir sozinha, com a campainha ao alcance, para estimular a autonomia.",
+   "Levantá-la puxando pelos braços, com a coluna do profissional flexionada."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Higiene, conforto e mobilização",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Protocolo de Prevenção de Quedas (MS, ANVISA, Fiocruz), Anexo 01 do PNSP, 2013",
+  "coment": "Diurético e hipotensão postural são fatores de risco de queda listados no Protocolo de Prevenção de Quedas (MS, ANVISA e Fiocruz, 2013), e entre as medidas específicas está acompanhar ao banheiro quem usa diurético. Antes de ficar em pé, o paciente senta à beira do leito alguns instantes, o que permite a adaptação circulatória e reduz tontura e síncope. Na mobilização, o profissional usa base de apoio alargada, flexiona os joelhos em vez da coluna, mantém a carga junto ao corpo e pede ajuda quando necessário. Restringir ao leito sem indicação não é a medida do protocolo e aumenta o descondicionamento.",
+  "porAlt": [
+   "Errada: o diurético não impede a deambulação; o protocolo pede acompanhamento ao banheiro.",
+   "Errada: levantar sem a pausa sentada aumenta o risco de tontura e queda por hipotensão postural.",
+   "Correta: a pausa sentada e o acompanhamento ao banheiro reduzem o risco de queda nessa paciente.",
+   "Errada: com diurético e hipotensão postural, o protocolo prevê acompanhar a paciente ao banheiro.",
+   "Errada: a mecânica correta flexiona os joelhos, mantém a carga junto ao corpo e não traciona os braços."
+  ]
+ },
+ {
+  "q": "No início do plantão da clínica médica, a enfermeira revisa a classificação do risco de queda feita na admissão, conforme o Protocolo de Prevenção de Quedas do Ministério da Saúde. Ela confere a categoria atribuída a cinco pacientes. Qual deles o protocolo classifica como de baixo risco de queda?",
+  "alts": [
+   "Homem de 45 anos sem fatores de risco, em maca aguardando tomografia.",
+   "Mulher de 82 anos acamada, totalmente dependente, sem sair do leito.",
+   "Mulher de 60 anos independente, cujo único fator é o uso de diurético.",
+   "Homem de 58 anos que deambula com andador e ajuda de um profissional.",
+   "Mulher de 55 anos lúcida, sem outros fatores, em cadeira de rodas."
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Higiene, conforto e mobilização",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Protocolo de Prevenção de Quedas (MS, ANVISA, Fiocruz), Anexo 01 do PNSP, 2013",
+  "coment": "O Protocolo de Prevenção de Quedas (MS, ANVISA e Fiocruz, 2013) classifica como baixo risco o paciente acamado totalmente dependente e o independente sem nenhum fator de risco. São de alto risco o independente com pelo menos um fator, o dependente de ajuda, que anda com auxílio de pessoa ou dispositivo ou usa cadeira de rodas, e o paciente em maca aguardando exame ou transferência. A lógica é que cai mais quem tenta se mover sozinho do que quem não se move. A idade avançada da paciente acamada não muda a categoria. O protocolo cita escalas como Morse e STRATIFY, mas não adota nenhuma; o risco é reavaliado diariamente e diante de mudança do quadro.",
+  "porAlt": [
+   "Errada: o paciente em maca aguardando exame ou transferência é de alto risco pelo protocolo.",
+   "Correta: o acamado totalmente dependente é classificado como baixo risco pelo protocolo de 2013.",
+   "Errada: o independente com pelo menos um fator, como o diurético, é de alto risco.",
+   "Errada: quem deambula com auxílio de dispositivo ou de outra pessoa é de alto risco.",
+   "Errada: o paciente que se locomove em cadeira de rodas é classificado como de alto risco."
+  ]
+ },
+ {
+  "q": "Mulher de 45 anos, sem doença pulmonar prévia, chega ao pronto-socorro com pneumonia e SpO2 de 89% em ar ambiente, sem fatores de risco para retenção de CO2. Recebe cateter nasal a 3 L/min e atinge SpO2 de 93%. Pela diretriz de oxigenoterapia da British Thoracic Society, qual é o alvo de saturação para titular o oxigênio?",
+  "alts": [
+   "Entre 88% e 92%, para evitar toxicidade do oxigênio.",
+   "Acima de 98%, até normalizar a frequência respiratória.",
+   "Entre 90% e 94%, alvo de quem não tem doença crônica.",
+   "Entre 94% e 98%, alvo da maioria dos doentes agudos.",
+   "De 92% ou mais, faixa que vale para adultos em geral."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Oxigenoterapia e vias aéreas",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "BTS guideline for oxygen use in adults in healthcare and emergency settings (O'Driscoll et al., Thorax, 2017)",
+  "coment": "A diretriz da British Thoracic Society (2017) trata o oxigênio como medicamento prescrito por alvo de saturação. Para a maioria dos doentes agudos, o alvo é de 94% a 98%. A faixa de 88% a 92% é reservada a quem tem risco de insuficiência respiratória hipercápnica, como DPOC com retenção de CO2, obesidade com hipoventilação, deformidade torácica e doença neuromuscular. A paciente não tem esses fatores, e a SpO2 de 93% ainda está abaixo do alvo: o fluxo deve ser ajustado até a faixa e reduzido quando ela melhorar. Saturação acima de 98% não traz benefício. Registram-se dispositivo, fluxo e saturação.",
+  "porAlt": [
+   "Errada: 88% a 92% é o alvo de quem tem risco de hipercapnia, o que não é o caso.",
+   "Errada: a diretriz não busca saturação acima de 98%; o oxigênio é titulado para a faixa-alvo.",
+   "Errada: a faixa de 90% a 94% não é alvo da BTS para doentes agudos sem risco de hipercapnia.",
+   "Correta: a BTS indica alvo de 94% a 98% para a maioria dos doentes agudos.",
+   "Errada: a BTS define duas faixas conforme o risco de hipercapnia, não uma faixa única."
+  ]
+ },
+ {
+  "q": "Homem de 68 anos com DPOC está em máscara de Venturi com válvula de 28%, no fluxo indicado na própria válvula. Após reavaliação, a prescrição muda a fração inspirada de oxigênio para 35%. O técnico de enfermagem pergunta se basta aumentar o fluxo no fluxômetro. Qual é a conduta correta?",
+  "alts": [
+   "Manter a válvula de 28% e subir o fluxo até 8 L/min no fluxômetro.",
+   "Escolher a válvula pela cor, que indica a mesma FiO2 em qualquer marca.",
+   "Trocar para cateter nasal a 5 L/min, que oferece FiO2 fixa de 35%.",
+   "Manter a válvula e acrescentar umidificador, que eleva a FiO2 ofertada.",
+   "Trocar a válvula pela de 35% e usar o fluxo mínimo impresso nela."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Oxigenoterapia e vias aéreas",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "BTS guideline for oxygen use in adults in healthcare and emergency settings (O'Driscoll et al., Thorax, 2017)",
+  "coment": "Na máscara de Venturi, o jato de oxigênio arrasta ar ambiente numa proporção fixada pela válvula, e é isso que garante a concentração estável. Aumentar o fluxo não muda a FiO2, só o fluxo total entregue, recurso que a BTS (2017) sugere quando a frequência respiratória passa de 30. Para mudar a concentração, troca-se a válvula e ajusta-se o fluxo ao mínimo impresso nela. As cores das válvulas variam entre fabricantes; vale o número. O cateter nasal entrega FiO2 imprevisível, o que o afasta do paciente que precisa de concentração controlada, e o umidificador não altera a concentração ofertada.",
+  "porAlt": [
+   "Errada: na Venturi, subir o fluxo aumenta o fluxo total, mas não muda a FiO2 fixada pela válvula.",
+   "Errada: as cores variam entre fabricantes; a referência é o número impresso na válvula.",
+   "Errada: o cateter nasal entrega FiO2 imprevisível, sem concentração fixa.",
+   "Errada: o umidificador não altera a concentração; quem a define na Venturi é a válvula.",
+   "Correta: muda-se a FiO2 trocando a válvula, com o fluxo mínimo indicado nela."
+  ]
+ },
+ {
+  "q": "Homem de 58 anos, com doença neuromuscular e obesidade, chega à emergência com dispneia, sonolência leve e SpO2 de 84% em ar ambiente. A gasometria arterial ainda não foi colhida. Pela diretriz de oxigenoterapia da British Thoracic Society, qual é a oferta inicial de oxigênio mais adequada para esse paciente?",
+  "alts": [
+   "Venturi a 28% com 4 L/min, titulando para SpO2 de 88% a 92%.",
+   "Máscara com reservatório a 15 L/min até a SpO2 passar de 94%.",
+   "Máscara simples a 3 L/min, mantendo o fluxo baixo pela hipercapnia.",
+   "Cateter nasal a 6 L/min, titulando para SpO2 entre 94% e 98%.",
+   "Aguardar a gasometria em ar ambiente antes de ofertar o oxigênio."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Oxigenoterapia e vias aéreas",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "BTS guideline for oxygen use in adults in healthcare and emergency settings (O'Driscoll et al., Thorax, 2017)",
+  "coment": "Doença neuromuscular e obesidade com hipoventilação estão entre os fatores de risco de insuficiência respiratória hipercápnica da British Thoracic Society (2017). Nesse grupo, o alvo é SpO2 de 88% a 92%, e, antes da gasometria, a diretriz indica Venturi a 24% com 2 a 3 L/min, Venturi a 28% com 4 L/min ou cateter nasal a 1 a 2 L/min. Oxigênio em excesso agrava a hipercapnia, com sonolência e acidose. A máscara simples abaixo de 5 L/min causa reinalação de CO2 e deve ser evitada em quem retém CO2. Negar oxigênio a um paciente com SpO2 de 84% enquanto se espera o exame também é erro: a hipoxemia é tratada de imediato.",
+  "porAlt": [
+   "Correta: Venturi 28% a 4 L/min é opção inicial da BTS para risco de hipercapnia, alvo de 88% a 92%.",
+   "Errada: o reservatório a 15 L/min é para emergência em quem não retém CO2 e eleva demais a FiO2.",
+   "Errada: máscara simples abaixo de 5 L/min causa reinalação de CO2 e é evitada em quem retém CO2.",
+   "Errada: o alvo de 94% a 98% não serve para quem tem risco de hipercapnia, que é de 88% a 92%.",
+   "Errada: com SpO2 de 84%, o oxigênio controlado começa já, sem esperar a gasometria."
+  ]
+ },
+ {
+  "q": "Homem de 63 anos, com traqueostomia definitiva há dois anos por sequela neurológica, está estável e sem sinais de gravidade na enfermaria de clínica médica. Apresenta secreção audível na cânula, e o técnico de enfermagem pergunta à enfermeira se pode aspirá-lo. Segundo a Resolução COFEN 557/2017, qual é a resposta correta?",
+  "alts": [
+   "Não pode, pois aspirar traqueostomia é privativo do enfermeiro em qualquer caso.",
+   "Pode, sem prescrição, pois o paciente crônico dispensa avaliação do enfermeiro.",
+   "Pode, com avaliação e prescrição do enfermeiro e protocolo institucional.",
+   "Pode, desde que haja prescrição médica específica para cada aspiração.",
+   "Não pode; nesse caso a aspiração cabe ao auxiliar de enfermagem treinado."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Oxigenoterapia e vias aéreas",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 557/2017, arts. 2º a 6º (aspiração de vias aéreas)",
+  "coment": "A Resolução COFEN 557/2017 divide a aspiração por gravidade. No paciente grave, intubado ou traqueostomizado, em qualquer unidade, a aspiração é privativa do enfermeiro (art. 2º), assim como no paciente grave em emergência ou sala de estabilização (art. 3º). Já no paciente não grave e crônico, com traqueostomia definitiva ou de longa permanência, o técnico de enfermagem pode aspirar, desde que haja avaliação e prescrição do enfermeiro, protocolo institucional e comunicação imediata de qualquer alteração (arts. 4º a 6º). O auxiliar de enfermagem não aparece na resolução. A decisão depende da avaliação do enfermeiro, não de prescrição médica.",
+  "porAlt": [
+   "Errada: a privatividade vale para o paciente grave; no crônico estável o técnico pode aspirar.",
+   "Errada: a resolução exige avaliação e prescrição do enfermeiro mesmo no paciente crônico estável.",
+   "Correta: os arts. 4º a 6º permitem ao técnico aspirar o crônico estável, com prescrição do enfermeiro.",
+   "Errada: a resolução vincula a aspiração pelo técnico à avaliação e prescrição do enfermeiro.",
+   "Errada: o auxiliar de enfermagem não está entre os profissionais previstos na Resolução 557/2017."
+  ]
+ },
+ {
+  "q": "Na enfermaria, a prescrição de um homem de 80 anos, traqueostomizado e ainda grave após pneumonia, traz o item aspirar a cânula de 2 em 2 horas. A enfermeira, responsável pela aspiração desse paciente, revisa a técnica com a equipe. Qual conduta está de acordo com as boas práticas de aspiração?",
+  "alts": [
+   "Aspirar no horário fixo prescrito, mesmo sem sinais de secreção acumulada.",
+   "Aspirar diante de secreção audível, roncos, queda de saturação ou tosse ineficaz.",
+   "Reutilizar a mesma sonda no turno, guardada em soro fisiológico entre aspirações.",
+   "Aplicar sucção contínua tanto na introdução quanto na retirada da sonda.",
+   "Dispensar a pré-oxigenação, pois ela só é necessária no paciente intubado."
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Oxigenoterapia e vias aéreas",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Resolução COFEN 557/2017, art. 2º, e ANVISA, Caderno 4 (Medidas de Prevenção de IRAS), 2017",
+  "coment": "A aspiração é feita por necessidade, não por horário: secreção audível ou visível, roncos, queda de saturação e tosse ineficaz indicam o procedimento, e aspirar sem indicação traumatiza a mucosa e provoca hipoxemia. No sistema aberto, usa-se sonda estéril de uso único, com pré-oxigenação e sucção breve aplicada apenas na retirada. Como o paciente é grave e traqueostomizado, a aspiração é privativa do enfermeiro, pelo art. 2º da Resolução COFEN 557/2017. No paciente em ventilação mecânica, o sistema fechado preserva a pressão positiva e protege a equipe, com troca a cada 72 horas ou se sujo ou com defeito, segundo o Caderno 4 da ANVISA (2017).",
+  "porAlt": [
+   "Errada: aspira-se por necessidade clínica, e aspirar sem indicação traumatiza a mucosa.",
+   "Correta: a aspiração é indicada por sinais de secreção acumulada ou de troca gasosa prejudicada.",
+   "Errada: no sistema aberto a sonda é estéril e de uso único, descartada após cada aspiração.",
+   "Errada: a sucção é breve e aplicada só na retirada, para limitar hipoxemia e lesão de mucosa.",
+   "Errada: a pré-oxigenação também protege o traqueostomizado da hipoxemia durante a sucção."
+  ]
+ },
+ {
+  "q": "Paciente de 60 anos, traqueostomizado com cânula com cuff, está em ventilação mecânica na UTI. Na checagem do turno, a enfermeira mede a pressão do balonete com cuffômetro e encontra 42 cmH2O. Segundo as medidas de prevenção do Caderno 4 da ANVISA, qual é a conduta correta?",
+  "alts": [
+   "Manter 42 cmH2O, pois pressão alta protege melhor contra aspiração.",
+   "Desinsuflar o cuff por completo a cada 2 horas para aliviar a mucosa.",
+   "Ajustar para 40 a 45 mmHg, faixa que veda a traqueia sem lesá-la.",
+   "Ajustar a pressão para a faixa de 25 a 30 cmH2O, medida com cuffômetro.",
+   "Ajustar pela palpação do balonete piloto, sem necessidade de cuffômetro."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Oxigenoterapia e vias aéreas",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017",
+  "coment": "O Caderno 4 da ANVISA (2017) recomenda manter a pressão do cuff entre 18 e 22 mmHg, o equivalente a 25 a 30 cmH2O, verificada com cuffômetro. Pressão acima da faixa reduz a perfusão da mucosa traqueal e pode causar isquemia, estenose e fístula; pressão abaixo permite a passagem de secreção da orofaringe para a via aérea inferior, mecanismo da pneumonia associada à ventilação. A palpação do balonete piloto não mede a pressão com segurança. Desinsuflar o cuff periodicamente no paciente ventilado não é recomendado e facilita a aspiração. Os demais cuidados da traqueostomia incluem cadarço sem tração, curativo do estoma e cânula de reserva.",
+  "porAlt": [
+   "Errada: 42 cmH2O excede a faixa e compromete a perfusão da mucosa traqueal.",
+   "Errada: desinsuflar o cuff no paciente ventilado favorece a aspiração de secreção para o pulmão.",
+   "Errada: a faixa correta é de 18 a 22 mmHg; 40 a 45 mmHg causaria isquemia da mucosa.",
+   "Correta: a ANVISA recomenda 25 a 30 cmH2O, ou 18 a 22 mmHg, conferidos com cuffômetro.",
+   "Errada: a palpação do balonete piloto não mede a pressão; a ANVISA indica o cuffômetro."
+  ]
+ },
+ {
+  "q": "Na enfermaria de clínica médica, o médico prescreve sonda nasoenteral para dieta em um homem de 77 anos com disfagia. A enfermeira está em outro procedimento, e o técnico de enfermagem, experiente, se oferece para passar a sonda e chamá-la em seguida. Pela Resolução COFEN 619/2019, qual é a conduta correta?",
+  "alts": [
+   "O técnico pode inserir, pois há prescrição médica e experiência comprovada.",
+   "O técnico pode inserir se o enfermeiro confirmar a posição logo depois.",
+   "Só o médico pode inserir a sonda nasoenteral, por ser procedimento invasivo.",
+   "O técnico pode passar a nasogástrica; só a nasoentérica é do enfermeiro.",
+   "A inserção cabe privativamente ao enfermeiro; o técnico pode auxiliá-lo."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 619/2019, anexo (sondagem oro/nasogástrica e nasoentérica)",
+  "coment": "O anexo da Resolução COFEN 619/2019 estabelece que a inserção da sonda oro ou nasogástrica e da nasoentérica é privativa do enfermeiro, na equipe de enfermagem. Cabe a ele definir o calibre, estabelecer o acesso, testar o trajeto e, na sondagem nasoenteral, solicitar e encaminhar o paciente ao exame radiológico, além de prescrever os cuidados e treinar a equipe. Ao técnico e ao auxiliar cabem auxiliar o enfermeiro, executar os cuidados prescritos, comunicar intercorrências e registrar. Experiência e prescrição médica não transferem a inserção ao técnico, e a privatividade vale para as duas sondas, gástrica e enteral.",
+  "porAlt": [
+   "Errada: prescrição médica e experiência não transferem ao técnico uma atividade privativa do enfermeiro.",
+   "Errada: a confirmação posterior pelo enfermeiro não autoriza o técnico a inserir a sonda.",
+   "Errada: a resolução atribui a inserção ao enfermeiro, sem reservá-la ao médico.",
+   "Errada: a privatividade do enfermeiro abrange a sonda gástrica e a nasoentérica.",
+   "Correta: a 619/2019 torna a inserção privativa do enfermeiro, cabendo ao técnico auxiliar."
+  ]
+ },
+ {
+  "q": "Na passagem de plantão, a enfermeira nota que a marca de uma sonda nasoenteral, registrada rente à narina após a radiografia de confirmação, está agora 10 cm para fora, depois de um episódio de agitação da paciente, de 80 anos. Ela também tossiu durante a dieta. Qual é a conduta correta?",
+  "alts": [
+   "Reintroduzir os 10 cm até a marca e reiniciar a dieta em seguida.",
+   "Pausar a dieta, elevar a cabeceira e solicitar nova imagem antes do uso.",
+   "Injetar ar e auscultar o epigástrio; se audível, manter a dieta.",
+   "Manter a dieta em vazão menor e reavaliar a marca no próximo turno.",
+   "Aspirar o conteúdo e, se o pH for ácido, reiniciar a dieta logo após."
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Resolução COFEN 619/2019, anexo (manutenção da via e exame radiológico pelo enfermeiro)",
+  "coment": "Marca externa deslocada e tosse durante a dieta indicam que a ponta da sonda pode ter migrado para o esôfago ou para a via aérea. A conduta é pausar a dieta, manter a cabeceira elevada e confirmar de novo a posição por imagem antes de qualquer uso; a sonda não é reintroduzida às cegas, porque o fio-guia já foi retirado e o trajeto é desconhecido. A radiografia é o padrão de referência. Ausculta com ar não distingue estômago, esôfago e pulmão, e pH do aspirado ajuda, mas não confirma sozinho. Pela Resolução COFEN 619/2019, cabe ao enfermeiro garantir a manutenção da via e solicitar e encaminhar o paciente ao exame radiológico.",
+  "porAlt": [
+   "Errada: reintroduzir às cegas, sem fio-guia, pode levar a ponta à via aérea; exige nova imagem.",
+   "Correta: com marca deslocada e tosse, pausa-se a dieta e confirma-se a posição por imagem.",
+   "Errada: a ausculta com ar não distingue estômago, esôfago e pulmão e não confirma a posição.",
+   "Errada: reduzir a vazão mantém a infusão numa sonda possivelmente fora de posição.",
+   "Errada: o pH do aspirado ajuda, mas não confirma a posição sozinho após o deslocamento."
+  ]
+ },
+ {
+  "q": "Após inserir sonda nasoenteral às cegas, a enfermeira de uma enfermaria consulta o protocolo do hospital, escrito em 2015. Ele diz que a dieta pode começar após ausculta epigástrica audível e que o pedido de radiografia é exclusivo do médico. Pela Resolução COFEN 619/2019, que ajuste esse protocolo precisa?",
+  "alts": [
+   "Manter a ausculta como confirmação e pedir radiografia só se houver tosse.",
+   "Manter o pedido com o médico e liberar a dieta logo após a ausculta audível.",
+   "Delegar ao técnico o pedido da radiografia, pois o exame é rotina do setor.",
+   "Atribuir ao enfermeiro solicitar a radiografia e só então liberar a dieta.",
+   "Confirmar a posição só pelo pH ácido do aspirado, dispensando a radiografia."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 619/2019, anexo (competências do enfermeiro na sondagem nasoenteral)",
+  "coment": "O anexo da Resolução COFEN 619/2019 inclui entre as competências do enfermeiro, na sondagem nasoenteral, solicitar e encaminhar o paciente ao exame radiológico. A radiografia é o padrão de referência para confirmar a posição da sonda passada às cegas antes do primeiro uso, sobretudo quando o alvo é pós-pilórico. A ausculta epigástrica com injeção de ar não distingue estômago, esôfago, pulmão e duodeno, e o pH do aspirado e a capnografia são testes auxiliares que não confirmam sozinhos. O protocolo precisa reconhecer a competência do enfermeiro e condicionar a liberação da dieta à confirmação radiológica.",
+  "porAlt": [
+   "Errada: a ausculta com ar não confirma a posição, e a radiografia não depende de haver tosse.",
+   "Errada: a 619/2019 atribui ao enfermeiro o pedido do exame, e a ausculta não confirma a posição.",
+   "Errada: a solicitação e o encaminhamento ao exame são competências do enfermeiro, não do técnico.",
+   "Correta: a 619/2019 dá ao enfermeiro a solicitação do raio X, e a dieta espera a confirmação.",
+   "Errada: o pH ácido sugere estômago, mas é teste auxiliar e não substitui a radiografia."
+  ]
+ },
+ {
+  "q": "Mulher de 58 anos está no 2º dia de pós-operatório de colectomia eletiva, na enfermaria, estável e deambulando, com cateter vesical de demora inserido no centro cirúrgico. Não há prescrição de controle rigoroso de diurese nem cirurgia urológica. Segundo o Caderno 4 da ANVISA, qual é a conduta de enfermagem?",
+  "alts": [
+   "Propor a retirada, pois no pós-operatório o máximo recomendável é de 24 horas.",
+   "Manter até a alta, pois a retirada precoce aumenta a retenção urinária.",
+   "Manter por 7 dias e então trocar o cateter, conforme a rotina do setor.",
+   "Manter até o 5º dia, prazo recomendado para cirurgia abdominal eletiva.",
+   "Colher urocultura de rotina e manter o cateter até o resultado sair."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017, cap. 2",
+  "coment": "O Caderno 4 da ANVISA (2017) restringe o cateter de demora a poucas indicações: impossibilidade de micção espontânea, instabilidade com necessidade de medir débito urinário, pós-operatório pelo menor tempo possível, com máximo recomendável de até 24 horas salvo cirurgias urológicas específicas, e mulher com lesão por pressão estágio 4 prejudicada pela urina. A permanência é o principal fator de risco de infecção urinária: a bacteriúria surge a 5 a 10% ao dia. O caderno pede revisão diária da necessidade e remoção do cateter desnecessário, e não recomenda troca rotineira nem urocultura sem sintomas.",
+  "porAlt": [
+   "Correta: no pós-operatório não urológico, a ANVISA recomenda até 24 horas de cateter.",
+   "Errada: a permanência sem indicação aumenta a infecção; o cateter desnecessário é removido.",
+   "Errada: a ANVISA não recomenda troca rotineira do cateter, e a indicação já terminou.",
+   "Errada: o caderno não prevê prazo de 5 dias; o máximo recomendável no pós-operatório é 24 horas.",
+   "Errada: urocultura sem sintomas não está indicada, e manter o cateter prolonga o risco."
+  ]
+ },
+ {
+  "q": "Na enfermaria, a enfermeira insere cateter vesical de demora em um homem de 70 anos com retenção urinária. Já fez a antissepsia do meato, aplicou gel estéril na uretra e introduziu a sonda conectada ao coletor, formando sistema fechado. Segundo o Caderno 4 da ANVISA, qual é o passo seguinte correto?",
+  "alts": [
+   "Insuflar o balão ao vencer a resistência da próstata, sem esperar urina.",
+   "Insuflar o balão após ver urina e fixar o cateter na raiz da coxa.",
+   "Desconectar o coletor para conferir o fluxo de urina antes de insuflar.",
+   "Insuflar o balão antes de introduzir toda a sonda, para evitar sua saída.",
+   "Insuflar o balão só após ver urina e fixar o cateter no hipogástrio."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017, cap. 2",
+  "coment": "Pelo Caderno 4 da ANVISA (2017), a sonda é conectada ao coletor antes da inserção, formando sistema fechado, e o balão só é insuflado depois que a urina aparece, o que confirma que a ponta está na bexiga. Insuflar antes, ainda na uretra, causa trauma uretral grave. A fixação é no hipogástrio no homem e na raiz da coxa na mulher; no homem, a fixação no hipogástrio reduz a pressão sobre a uretra peniana. O sistema não é desconectado, salvo para irrigação necessária, e qualquer desconexão exige troca de todo o sistema. Registra-se o procedimento no prontuário e no dispositivo.",
+  "porAlt": [
+   "Errada: vencer a resistência não garante a ponta na bexiga; o balão espera a urina.",
+   "Errada: o momento do balão está certo, mas a raiz da coxa é a fixação da mulher.",
+   "Errada: desconectar quebra o sistema fechado, o que obriga a trocar todo o sistema.",
+   "Errada: insuflar o balão na uretra causa trauma uretral; insufla-se só com a ponta na bexiga.",
+   "Correta: insufla-se após ver urina, e no homem a fixação é no hipogástrio."
+  ]
+ },
+ {
+  "q": "Homem de 72 anos, com cateter vesical de demora há 5 dias por instabilidade hemodinâmica já resolvida, terá o cateter retirado hoje. A prescrição traz clampear a sonda de 2 em 2 horas por 24 horas antes da retirada. Exame de urina de rotina mostrou bacteriúria, sem febre ou sintomas urinários. Pelo Caderno 4 da ANVISA, qual é a conduta?",
+  "alts": [
+   "Clampear por 24 horas antes e tratar a bacteriúria antes da retirada.",
+   "Retirar sem clampear, mas iniciar antibiótico pela bacteriúria encontrada.",
+   "Retirar sem clampear antes e sem tratar a bacteriúria assintomática.",
+   "Clampear por 24 horas e retirar sem tratar a bacteriúria assintomática.",
+   "Trocar o cateter e mantê-lo mais 48 horas até repetir o exame de urina."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017, cap. 2",
+  "coment": "O Caderno 4 da ANVISA (2017) afirma que não é necessário fechar o cateter antes de retirá-lo, de modo que o clampeamento intermitente não traz benefício e só retarda a remoção. O caderno também recomenda não tratar bacteriúria assintomática no paciente cateterizado, salvo antes de procedimento urológico invasivo (A-I). A bacteriúria é esperada: surge a 5 a 10% ao dia de cateter. Com a indicação encerrada, a conduta é retirar o cateter, sem troca e sem antibiótico. A enfermeira deve discutir com a equipe a prescrição desatualizada e registrar a retirada e a primeira micção espontânea.",
+  "porAlt": [
+   "Errada: o clampeamento não é necessário, e a bacteriúria assintomática não se trata.",
+   "Errada: retirar sem clampear está certo, mas a bacteriúria assintomática não se trata.",
+   "Correta: não é preciso fechar o cateter antes da retirada nem tratar bacteriúria assintomática.",
+   "Errada: não tratar está certo, mas o caderno diz que não é necessário clampear antes de retirar.",
+   "Errada: a indicação acabou; trocar e manter o cateter só prolonga o risco de infecção."
+  ]
+ },
+ {
+  "q": "Mulher de 50 anos, internada para antibioticoterapia intravenosa, tem cateter venoso periférico no antebraço há 80 horas, funcionante, sem dor, eritema ou edema, com cobertura limpa e seca. O técnico de enfermagem lembra que a rotina antiga do setor mandava trocar o cateter a cada 72 horas. Segundo o Caderno 4 da ANVISA, qual é a conduta?",
+  "alts": [
+   "Trocar agora, pois a troca rotineira do periférico ocorre a cada 72 horas.",
+   "Trocar agora e manter a troca a cada 48 horas, para reduzir o risco de flebite.",
+   "Manter o cateter, pois no adulto não se troca em período inferior a 96 horas.",
+   "Manter até completar 7 dias, prazo fixo de troca do cateter periférico.",
+   "Trocar apenas a cobertura, que deve ser renovada a cada 72 horas fixas."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017, item 4.1",
+  "coment": "O Caderno 4 da ANVISA (2017) recomenda não trocar o cateter periférico do adulto em período inferior a 96 horas (evidência II); em neonatos e crianças, não há troca rotineira. A troca a cada 48 ou 72 horas é conduta antiga, que aumenta punções sem reduzir complicações. O cateter sai diante de complicação, quando não há medicamento venoso prescrito e ele não foi usado nas últimas 24 horas, ou quando foi instalado em emergência sem técnica asséptica. A cobertura também não tem intervalo fixo: é trocada se úmida, solta ou suja. O sítio é avaliado regularmente, uma vez por turno na enfermaria, e o achado é registrado.",
+  "porAlt": [
+   "Errada: a ANVISA recomenda não trocar o periférico do adulto antes de 96 horas.",
+   "Errada: a troca a cada 48 horas é conduta antiga e não reduz flebite segundo o caderno.",
+   "Correta: sem complicação, o periférico do adulto não se troca em período inferior a 96 horas.",
+   "Errada: o caderno não fixa 7 dias; define o mínimo de 96 horas e a retirada por critério clínico.",
+   "Errada: a cobertura do periférico é trocada se úmida, solta ou suja, não por intervalo fixo."
+  ]
+ },
+ {
+  "q": "Na sala de emergência, uma técnica de enfermagem tenta duas vezes puncionar a veia de um homem de 75 anos desidratado, sem sucesso, e reaproveita o mesmo cateter na segunda tentativa. A enfermeira assume o procedimento. Segundo o Caderno 4 da ANVISA, qual é a conduta correta para as próximas tentativas?",
+  "alts": [
+   "Usar cateter novo a cada tentativa, limitando o total a quatro punções.",
+   "Reaproveitar o cateter se a ponta não tocou superfície fora da pele.",
+   "Permitir mais duas tentativas à técnica antes de outro profissional.",
+   "Puncionar primeiro o membro inferior, que tem veias mais calibrosas.",
+   "Usar o maior calibre disponível, para reduzir o número de novas tentativas."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017, item 4.1",
+  "coment": "O Caderno 4 da ANVISA (2017) recomenda usar um cateter novo a cada tentativa de punção e limitar a duas tentativas por profissional e quatro no total (evidência III). A técnica já fez as suas duas; a enfermeira pode fazer até mais duas. Na rede venosa difícil ou após tentativas sem sucesso, o caderno indica visualização com ultrassom (evidência I). Escolhe-se o menor calibre e comprimento que atendam à terapia, preferindo veias do antebraço; membro inferior só se absolutamente necessário. Reaproveitar cateter, mesmo sem contato aparente, quebra a técnica asséptica e danifica o dispositivo.",
+  "porAlt": [
+   "Correta: cateter novo a cada tentativa, até duas por profissional e quatro no total.",
+   "Errada: a ANVISA exige cateter novo a cada tentativa, sem reaproveitamento.",
+   "Errada: o limite é de duas tentativas por profissional, e a técnica já as usou.",
+   "Errada: o membro inferior só é usado se absolutamente necessário; prefere-se o antebraço.",
+   "Errada: escolhe-se o menor calibre que atenda à terapia, não o maior disponível."
+  ]
+ },
+ {
+  "q": "Antes de administrar antibiótico intermitente por cateter venoso periférico em um homem de 55 anos, a técnica de enfermagem prepara o flush com água destilada em seringa de 3 mL. Ao injetar, sente resistência no cateter. Segundo o Caderno 4 da ANVISA, qual é a orientação correta?",
+  "alts": [
+   "Manter a água destilada e forçar levemente para desobstruir o cateter.",
+   "Trocar por seringa de 1 mL, que gera menor pressão dentro do cateter.",
+   "Usar soro glicosado a 5% na mesma seringa de 3 mL, injetando com força moderada.",
+   "Usar soro fisiológico de frasco multidose com conservante, sem forçar.",
+   "Usar soro fisiológico 0,9% sem conservante em seringa de 10 mL, sem forçar."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017, item 4.1",
+  "coment": "Pelo Caderno 4 da ANVISA (2017), o flush do cateter periférico é feito com soro fisiológico 0,9% sem conservante, em frasco de dose única ou seringa preenchida, nunca com água estéril, usando seringa de 10 mL. Seringas menores geram pressão maior dentro do cateter e podem rompê-lo. Diante de resistência, não se força a injeção: avalia-se a permeabilidade, porque forçar pode deslocar um coágulo para a circulação ou causar ruptura. Se o cateter estiver ocluído, ele é retirado e outro sítio é puncionado. Frasco multidose com conservante aumenta o risco de contaminação e não é a escolha do caderno.",
+  "porAlt": [
+   "Errada: água estéril não é usada no flush, e forçar contra resistência pode romper o cateter.",
+   "Errada: seringas menores geram pressão maior, não menor; o caderno indica seringa de 10 mL.",
+   "Errada: o flush usa soro fisiológico 0,9%, e não se injeta com força contra resistência.",
+   "Errada: o caderno indica soro sem conservante, em dose única ou seringa preenchida.",
+   "Correta: soro fisiológico 0,9% sem conservante, seringa de 10 mL e nunca forçar contra resistência."
+  ]
+ },
+ {
+  "q": "Na UTI, a enfermeira organiza a troca de equipos de um paciente com cateter venoso central: soro de manutenção em infusão contínua, antibiótico intermitente, nutrição parenteral com emulsão lipídica em equipo próprio e concentrado de hemácias. Segundo o Caderno 4 da ANVISA, qual intervalo de troca está correto?",
+  "alts": [
+   "Equipo contínuo do soro a cada 24 horas, junto com o do intermitente.",
+   "Equipo da emulsão lipídica a cada 12 horas; o do intermitente, a cada 24 horas.",
+   "Equipo do concentrado de hemácias mantido por 24 horas entre as bolsas.",
+   "Equipo da nutrição parenteral a cada 96 horas, como o equipo contínuo.",
+   "Equipo do intermitente a cada 96 horas, se mantido conectado ao cateter."
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017",
+  "coment": "O Caderno 4 da ANVISA (2017) diferencia os equipos pelo tipo de infusão. O equipo de infusão contínua não se troca em intervalo inferior a 96 horas. O de infusão intermitente é trocado a cada 24 horas. Os equipos de hemocomponente e de nutrição parenteral são trocados a cada bolsa, e o de emulsão lipídica, a cada 12 horas. A lógica é o risco de crescimento microbiano: sangue, lipídio e nutrição parenteral favorecem proliferação, e o equipo intermitente é manipulado e desconectado muitas vezes. Os conectores são desinfetados antes de cada acesso, e a data de troca fica registrada no próprio equipo.",
+  "porAlt": [
+   "Errada: o equipo de infusão contínua não se troca antes de 96 horas.",
+   "Correta: lipídio a cada 12 horas e intermitente a cada 24 horas, pelo Caderno 4 da ANVISA.",
+   "Errada: o equipo de hemocomponente é trocado a cada bolsa, não mantido entre bolsas.",
+   "Errada: o equipo da nutrição parenteral é trocado a cada bolsa, não a cada 96 horas.",
+   "Errada: o equipo intermitente é trocado a cada 24 horas, por ser muito manipulado."
+  ]
+ },
+ {
+  "q": "Homem de 62 anos recebe antibiótico intravenoso por cateter periférico no dorso da mão há dois dias, na enfermaria. Na avaliação do turno, a enfermeira encontra dor, eritema, calor e cordão palpável no trajeto da veia, sem secreção purulenta, sem febre e sem extravasamento. Qual é a conduta de enfermagem correta?",
+  "alts": [
+   "Manter o cateter e aplicar compressa morna no local até os sinais regredirem.",
+   "Reduzir a vazão da infusão e reavaliar o sítio no próximo turno.",
+   "Retirar o cateter e puncionar mais acima, na mesma veia inflamada.",
+   "Retirar o cateter, puncionar outro membro, registrar e notificar ao NSP.",
+   "Tratar como evento esperado da terapia, sem necessidade de notificação."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "ANVISA, Caderno 4 (2017), item 4.1, e RDC ANVISA 36/2013 (Núcleo de Segurança do Paciente)",
+  "coment": "Dor, eritema, calor e cordão palpável no trajeto da veia caracterizam flebite, que pode ser mecânica, química ou infecciosa. Pelo Caderno 4 da ANVISA (2017), complicação é critério de retirada do cateter periférico. A conduta é interromper a infusão, retirar o cateter conferindo a ponta íntegra, elevar o membro e puncionar outro sítio, de preferência no outro membro, longe da veia inflamada. Pus, febre ou extravasamento de vesicante exigem comunicação à equipe médica e à CCIH. A flebite é evento adverso: registra-se a conduta e notifica-se ao Núcleo de Segurança do Paciente, instituído pela RDC 36/2013, revendo a causa (calibre, fixação, diluição, velocidade).",
+  "porAlt": [
+   "Errada: complicação é critério de retirada; manter o cateter prolonga a agressão à veia.",
+   "Errada: reduzir a vazão não trata a flebite; o cateter com complicação deve ser retirado.",
+   "Errada: puncionar a mesma veia inflamada agrava a lesão; prefere-se outro membro.",
+   "Correta: retira-se o cateter, punciona-se outro membro e a flebite é registrada e notificada.",
+   "Errada: a flebite é evento adverso e deve ser notificada ao Núcleo de Segurança do Paciente."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos, na clínica médica, recebia antibiótico intravenoso que foi trocado ontem pela via oral. O cateter periférico, sem sinais flogísticos, não foi usado nas últimas 24 horas, e não há medicamento venoso prescrito. O técnico de enfermagem propõe salinizar e manter o acesso por garantia. Qual é a conduta correta?",
+  "alts": [
+   "Retirar o cateter, pois está sem uso há 24 horas e sem medicação venosa.",
+   "Manter o acesso salinizado até a alta, como reserva para eventual urgência.",
+   "Manter até completar 96 horas, prazo mínimo de permanência do cateter.",
+   "Manter e salinizar a cada 6 horas com água destilada, contra a oclusão.",
+   "Retirar só se surgir flebite, pois o cateter íntegro pode permanecer."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017, item 4.1",
+  "coment": "O Caderno 4 da ANVISA (2017) define critérios de retirada do cateter periférico: ausência de medicamento venoso prescrito com o cateter sem uso nas últimas 24 horas, instalação em emergência sem técnica asséptica e qualquer complicação. Manter o acesso por garantia expõe o paciente a flebite e infecção de corrente sanguínea sem benefício. As 96 horas são o intervalo antes do qual não se faz troca rotineira, não um tempo mínimo obrigatório de permanência. O flush, quando indicado, é feito com soro fisiológico 0,9% sem conservante, nunca com água estéril. A enfermeira registra a retirada e a condição do sítio.",
+  "porAlt": [
+   "Correta: sem medicação venosa e sem uso há 24 horas, o caderno indica retirar o cateter.",
+   "Errada: manter acesso sem indicação aumenta o risco de flebite e infecção sem benefício.",
+   "Errada: 96 horas é o limite antes do qual não se troca, não tempo mínimo de permanência.",
+   "Errada: o flush é com soro fisiológico 0,9%, e o cateter sem indicação deve ser retirado.",
+   "Errada: a falta de uso e de medicação venosa já é critério de retirada, sem esperar flebite."
+  ]
+ },
+ {
+  "q": "Uma paciente de 48 anos, desnutrida, internada na enfermaria sem acesso central, tem prescrição de nutrição parenteral com glicose a 20% e osmolaridade de 1.400 mOsm/L. O residente pede à enfermeira que a infusão comece pelo cateter periférico do antebraço até a passagem do cateter central. Segundo o Caderno 4 da ANVISA, qual é a posição correta?",
+  "alts": [
+   "Usar o periférico, trocando o cateter a cada 24 horas pela osmolaridade.",
+   "Usar o periférico, desde que o cateter seja o de maior calibre disponível.",
+   "Não usar o periférico: a solução passa de 10% de dextrose e de 900 mOsm/L.",
+   "Usar o periférico se a infusão for lenta, abaixo de 50 mL por hora.",
+   "Usar o periférico, pois o limite de 900 mOsm/L vale só para vesicantes."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017, item 4.1",
+  "coment": "O Caderno 4 da ANVISA (2017) contraindica o cateter periférico para infusão contínua de vesicante, para nutrição parenteral com mais de 10% de dextrose e para solução acima de 900 mOsm/L (evidência II). A prescrição tem glicose a 20% e 1.400 mOsm/L, acima dos dois limites, e lesaria o endotélio, com flebite química e infiltração. Essas soluções impróprias para veia periférica são indicação de acesso central, de curta permanência ou PICC conforme a duração prevista. Calibre maior, troca frequente ou vazão lenta não tornam a solução segura para a veia periférica. A enfermeira comunica a contraindicação e registra a conduta.",
+  "porAlt": [
+   "Errada: trocar o cateter não torna segura uma solução acima dos limites para veia periférica.",
+   "Errada: o calibre maior não compensa a osmolaridade; o caderno pede o menor calibre útil.",
+   "Correta: o caderno veda o periférico para parenteral acima de 10% de dextrose ou de 900 mOsm/L.",
+   "Errada: o caderno não prevê exceção por vazão lenta para soluções acima dos limites.",
+   "Errada: o limite de 900 mOsm/L vale para qualquer solução, além da regra própria dos vesicantes."
+  ]
+ },
+ {
+  "q": "Na clínica médica, às 5 h, uma técnica de enfermagem etiqueta no posto os tubos de coleta dos oito pacientes do setor, para ganhar tempo, e depois passa nos leitos colhendo o sangue na ordem da lista. Segundo o Protocolo de Identificação do Paciente, qual é a prática correta para a coleta?",
+  "alts": [
+   "Rotular no posto, desde que os tubos sigam na ordem dos leitos do setor.",
+   "Identificar o tubo pelo número do leito, conferido na placa da cabeceira.",
+   "Rotular os tubos no laboratório, após a coleta, pela lista do setor.",
+   "Conferir dois identificadores e rotular o tubo à beira do leito, com o paciente.",
+   "Rotular no posto e conferir só o nome completo do paciente na coleta."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Coleta de exames",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Protocolo de Identificação do Paciente (MS, ANVISA, Fiocruz), Portaria MS 2.095/2013",
+  "coment": "O Protocolo de Identificação do Paciente (MS, ANVISA e Fiocruz, 2013) exige confirmar a identidade com pelo menos dois identificadores antes de qualquer procedimento, incluindo a coleta de material para exame, e rotular o frasco na presença do paciente, à beira do leito. Etiquetar tubos no posto antes da coleta é causa clássica de troca de amostras: basta inverter dois pacientes na sequência para que um resultado vá ao prontuário errado. Número de leito ou quarto não é identificador, porque o paciente muda de lugar. Os identificadores usuais são nome completo, nome da mãe, data de nascimento e número do prontuário, conferidos na pulseira.",
+  "porAlt": [
+   "Errada: seguir a ordem dos leitos não impede a troca de amostras; rotula-se diante do paciente.",
+   "Errada: o número do leito não é identificador, porque o paciente pode mudar de lugar.",
+   "Errada: rotular depois da coleta, longe do paciente, também favorece a troca de amostras.",
+   "Correta: dois identificadores e rótulo colocado à beira do leito, na presença do paciente.",
+   "Errada: o protocolo exige pelo menos dois identificadores, e o rótulo é feito no leito."
+  ]
+ },
+ {
+  "q": "No pronto-socorro, homem de 70 anos com suspeita de sepse de foco pulmonar tem prescrição de hemoculturas e de antibiótico de amplo espectro. O material de coleta está à mão, e o acesso venoso já foi puncionado no braço direito, com soro em infusão. Segundo a Surviving Sepsis Campaign 2026, qual é a conduta de enfermagem correta?",
+  "alts": [
+   "Iniciar o antibiótico e colher as hemoculturas depois que a primeira dose terminar.",
+   "Colher as hemoculturas no braço em que o soro corre, para aproveitar a mesma punção.",
+   "Adiar o antibiótico até o resultado das hemoculturas, previsto para dentro de 48 horas.",
+   "Colher as hemoculturas antes do antibiótico, enchendo pouco o frasco para poupar sangue.",
+   "Colher as hemoculturas logo, antes do antibiótico, com antissepsia rigorosa e sem atrasá-lo."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Coleta de exames",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Surviving Sepsis Campaign 2026 (Prescott et al., Intensive Care Med 2026)",
+  "coment": "A Surviving Sepsis Campaign 2026 recomenda colher hemoculturas o quanto antes e, idealmente, antes do antimicrobiano, sem atrasá-lo, e iniciar o antimicrobiano imediatamente, idealmente na primeira hora, no choque e na sepse provável. Com o material à mão, a enfermagem colhe primeiro e infunde logo em seguida: colher depois da dose reduz a positividade das culturas. A coleta exige antissepsia rigorosa da pele, para evitar contaminação, e o volume correto em cada frasco, porque volume baixo diminui a chance de crescimento. Puncionar o braço em que corre a infusão dilui e contamina a amostra. Esperar o resultado para iniciar o antibiótico é erro grave.",
+  "porAlt": [
+   "Errada: colher depois da dose reduz a positividade; a coleta vem antes, sem atrasar o antibiótico.",
+   "Errada: o braço com infusão em curso dilui a amostra e não é sítio de coleta.",
+   "Errada: o antimicrobiano é imediato, idealmente na primeira hora; não se espera a cultura.",
+   "Errada: o momento está certo, mas frasco pouco cheio reduz a chance de crescimento bacteriano.",
+   "Correta: hemoculturas antes do antibiótico, com antissepsia rigorosa e sem atrasar a primeira dose."
+  ]
+ },
+ {
+  "q": "Na UTI, a técnica de enfermagem vai colher exames de um paciente de 81 anos, sedado, que não pode confirmar o próprio nome. A pulseira de identificação está no punho, e uma filha acompanha o paciente. A técnica pergunta à enfermeira o que conferir antes de colher e rotular. Segundo o Protocolo de Identificação do Paciente, qual é a resposta?",
+  "alts": [
+   "O número do leito e o nome do paciente escrito na placa da cabeceira.",
+   "Dois identificadores da pulseira, como nome completo e data de nascimento.",
+   "O nome informado pela filha, que dispensa a conferência da pulseira no punho.",
+   "Somente o nome completo, que basta quando o paciente está sedado.",
+   "O diagnóstico e o nome do médico, conferidos na prescrição do dia."
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Coleta de exames",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Protocolo de Identificação do Paciente (MS, ANVISA, Fiocruz), Portaria MS 2.095/2013",
+  "coment": "O Protocolo de Identificação do Paciente (MS, ANVISA e Fiocruz, 2013) exige no mínimo dois identificadores, como nome completo, nome completo da mãe, data de nascimento e número do prontuário, registrados na pulseira padronizada e conferidos antes de qualquer procedimento, inclusive coleta de exames. Quando o paciente não pode responder, a conferência é feita na pulseira; a informação do familiar não substitui essa checagem. Número de leito ou quarto não é identificador, e diagnóstico ou nome do médico não individualizam o paciente. O tubo é rotulado à beira do leito, logo após a conferência, na presença do paciente.",
+  "porAlt": [
+   "Errada: o número do leito não é identificador, e a placa da cabeceira não substitui a pulseira.",
+   "Correta: conferem-se pelo menos dois identificadores na pulseira, como nome completo e nascimento.",
+   "Errada: o relato do familiar não dispensa a conferência dos identificadores na pulseira.",
+   "Errada: o protocolo exige pelo menos dois identificadores, com ou sem sedação.",
+   "Errada: diagnóstico e nome do médico não são identificadores do paciente."
+  ]
+ },
+ {
+  "q": "Na UTI, a enfermeira fecha o balanço hídrico de 24 horas de um homem de 64 anos. Entradas: soro de manutenção 1.500 mL, diluição de antibióticos 400 mL, dieta enteral 1.000 mL e água de lavagem da sonda 200 mL. Saídas: diurese 2.100 mL, dreno abdominal 300 mL e vômito 200 mL. Qual é o balanço correto?",
+  "alts": [
+   "Negativo em 100 mL, contando só o soro e a dieta nas entradas.",
+   "Positivo em 700 mL, sem incluir o vômito entre as saídas medidas.",
+   "Positivo em 300 mL, sem contar a água de lavagem da sonda.",
+   "Positivo em 500 mL, somando diluentes e lavagem da sonda.",
+   "Negativo em 500 mL, invertendo entradas e saídas no cálculo."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Eliminações e balanço hídrico",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024 (Processo de Enfermagem: avaliação e registro), balanço hídrico de 24 horas",
+  "coment": "Balanço hídrico é a soma das entradas menos a soma das saídas, parcial a cada turno e fechado em 24 horas. Entradas: 1.500 + 400 + 1.000 + 200 = 3.100 mL. Saídas: 2.100 + 300 + 200 = 2.600 mL. Resultado: 3.100 menos 2.600, positivo em 500 mL. O erro clássico é esquecer o volume dos diluentes de medicamentos, dos flushes e da água de lavagem de sondas, que somam centenas de mililitros por dia; contando só soro e dieta, o resultado sairia negativo em 100 mL. Vômitos, drenos, sondas abertas e fezes líquidas entram nas saídas. O valor é registrado e interpretado com peso diário, sinais vitais e exame físico, como parte da avaliação contínua prevista na Resolução COFEN 736/2024.",
+  "porAlt": [
+   "Errada: ignora 400 mL de diluentes e 200 mL de lavagem, erro clássico do balanço.",
+   "Errada: o vômito é saída e precisa ser somado; sem ele o resultado fica superestimado.",
+   "Errada: a água de lavagem da sonda é entrada e deve ser somada ao balanço.",
+   "Correta: entradas de 3.100 mL menos saídas de 2.600 mL dão balanço positivo de 500 mL.",
+   "Errada: o balanço é entradas menos saídas; inverter a conta troca o sinal do resultado."
+  ]
+ },
+ {
+  "q": "Homem de 40 anos, internado com pneumonia, mantém febre de 39 °C e frequência respiratória de 30 incursões por minuto há 24 horas. O balanço hídrico do dia, calculado só com volumes medidos, sem estimativa das perdas insensíveis, deu zero. Como a enfermeira deve interpretar esse resultado?",
+  "alts": [
+   "Tende a ser negativo, pois febre e taquipneia elevam as perdas insensíveis.",
+   "Está equilibrado, pois perdas insensíveis não entram no balanço hídrico.",
+   "Tende a ser positivo, pois a febre provoca retenção de água pelos rins.",
+   "Está equilibrado, pois as perdas insensíveis diminuem com a taquipneia.",
+   "Tende a ser positivo, pois a taquipneia faz o pulmão reter água."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Eliminações e balanço hídrico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024 (Processo de Enfermagem: avaliação contínua), balanço hídrico",
+  "coment": "As perdas insensíveis, pela pele e pela respiração, fazem parte das saídas do balanço hídrico, mesmo sem medida direta. Elas aumentam com a febre e com a taquipneia: quanto maior a temperatura e a ventilação, maior a perda de água por evaporação. Um balanço que deu zero apenas com os volumes medidos, num paciente febril e taquipneico há 24 horas, provavelmente esconde um balanço real negativo, com risco de desidratação. A enfermeira interpreta o número junto com peso diário, diurese, mucosas e sinais vitais, como parte da avaliação contínua, e comunica a equipe quando os dados apontam déficit de volume.",
+  "porAlt": [
+   "Correta: febre e taquipneia aumentam as perdas insensíveis, e o balanço real tende a negativo.",
+   "Errada: as perdas insensíveis são saídas e influenciam o balanço, mesmo quando não medidas.",
+   "Errada: a febre aumenta a perda de água pela pele e não torna o balanço positivo.",
+   "Errada: a taquipneia aumenta a perda de água pela respiração, não a diminui.",
+   "Errada: a taquipneia aumenta a perda de água pelas vias aéreas, não a retenção."
+  ]
+ },
+ {
+  "q": "Mulher de 70 anos, com 80 kg, está em pós-operatório na UTI com cateter vesical de demora. A diurese das últimas 6 horas foi de 50, 40, 35, 30, 25 e 20 mL, total de 200 mL. Pelos critérios do KDIGO, qual é a interpretação correta e a conduta de enfermagem?",
+  "alts": [
+   "Débito de 0,42 mL/kg/h, aceitável, pois o corte de oligúria é 0,3 mL/kg/h.",
+   "Débito de 2,5 mL/kg/h, adequado para pós-operatório; manter a rotina.",
+   "Débito de 33 mL/h, normal por superar 30 mL/h; manter a observação.",
+   "Débito de 0,42 mL/kg/h; aguardar 24 horas antes de qualquer comunicação à equipe.",
+   "Débito de 0,42 mL/kg/h por 6 horas, critério de lesão renal aguda; comunicar."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Eliminações e balanço hídrico",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "KDIGO Clinical Practice Guideline for Acute Kidney Injury (Kidney Int Suppl, 2012)",
+  "coment": "O débito urinário horário por quilo é o volume dividido pelas horas e pelo peso: 200 mL divididos por 6 horas dão 33,3 mL/h, e 33,3 dividido por 80 kg dá cerca de 0,42 mL/kg/h. Pelo KDIGO (2012), débito urinário abaixo de 0,5 mL/kg/h por 6 horas já é critério de lesão renal aguda. O valor de 0,3 mL/kg/h por 24 horas define um estágio mais grave, não o limite de entrada. A queda progressiva hora a hora reforça a urgência. A enfermeira confere a permeabilidade do cateter, registra e comunica a equipe sem esperar 24 horas. O antigo corte fixo de 30 mL/h ignora o peso e engana em adultos grandes.",
+  "porAlt": [
+   "Errada: o critério de entrada é abaixo de 0,5 mL/kg/h por 6 horas; 0,3 define estágio mais grave.",
+   "Errada: 2,5 mL/kg é o volume do período inteiro, não por hora; falta dividir por 6 horas.",
+   "Errada: o corte fixo de 30 mL/h ignora o peso; o KDIGO usa mL/kg/h.",
+   "Errada: o critério já está presente em 6 horas, e a comunicação deve ser imediata.",
+   "Correta: abaixo de 0,5 mL/kg/h por 6 horas é critério de lesão renal aguda pelo KDIGO."
+  ]
+ },
+ {
+  "q": "Homem de 76 anos com insuficiência cardíaca acumula balanço hídrico positivo de 900, 1.100 e 1.200 mL nos três últimos dias, com edema de membros inferiores crescente e, hoje, dispneia e estertores em bases. O peso não vem sendo medido na enfermaria. Qual é a conduta de enfermagem correta?",
+  "alts": [
+   "Aguardar o fechamento de mais 24 horas antes de comunicar a equipe.",
+   "Restringir líquidos por conta própria e manter o registro sem comunicar.",
+   "Comunicar a equipe e instituir peso diário junto com o balanço e o exame.",
+   "Considerar o balanço suficiente, sem necessidade de pesar o paciente.",
+   "Aumentar a infusão de soro para repor o volume perdido para o edema."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Eliminações e balanço hídrico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024 (Processo de Enfermagem: avaliação contínua e evolução)",
+  "coment": "Balanço positivo progressivo, edema crescente e piora respiratória com estertores sugerem congestão, e o achado precisa ser comunicado no mesmo turno. O balanço hídrico só tem sentido junto com o peso diário, os sinais vitais e o exame físico: o peso capta perdas e ganhos que o registro de entradas e saídas não mede, como as perdas insensíveis. Pela Resolução COFEN 736/2024, a avaliação de enfermagem é contínua e fundamenta a evolução e o plano de cuidados; instituir peso diário é intervenção de enfermagem. Restringir líquidos ou mudar infusão sem prescrição foge da conduta, e repor volume agravaria a congestão.",
+  "porAlt": [
+   "Errada: a piora respiratória com balanço positivo exige comunicação no mesmo turno.",
+   "Errada: a conduta terapêutica é discutida com a equipe, e a alteração tem de ser comunicada.",
+   "Correta: comunica-se a congestão e passa-se a pesar o paciente diariamente com o balanço.",
+   "Errada: o balanço isolado engana; o peso diário completa a avaliação do volume.",
+   "Errada: o paciente está congesto; aumentar o soro agravaria o acúmulo de líquido."
+  ]
+ },
+ {
+  "q": "Mulher de 52 anos em quimioterapia tem cateter totalmente implantado na região peitoral e será puncionada para uma infusão de três dias. A técnica de enfermagem separou escalpe 23G, luvas de procedimento e álcool 70% para a punção. Segundo o Caderno 4 da ANVISA, qual é o preparo correto?",
+  "alts": [
+   "Escalpe 23G com luvas estéreis e clorexidina alcoólica, sem necessidade de máscara.",
+   "Agulha tipo Huber, luvas estéreis, máscara em ambos e clorexidina alcoólica.",
+   "Agulha hipodérmica comum, trocada a cada 24 horas, com luvas de procedimento.",
+   "Agulha tipo Huber com luvas de procedimento, trocada a cada 24 horas.",
+   "Agulha tipo Huber, luvas estéreis e máscara só no profissional, trocada em 14 dias."
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Cateteres, sondas e dispositivos",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017, item 4.5",
+  "coment": "O item 4.5 do Caderno 4 da ANVISA (2017) orienta puncionar o cateter totalmente implantado com agulha angulada tipo Huber, nunca com agulha hipodérmica ou escalpe, que fragmentam o septo de silicone do reservatório. O profissional e o paciente usam máscara, e o profissional, luvas estéreis. A antissepsia é feita com clorexidina alcoólica acima de 0,5% (evidência I). A agulha pode permanecer por até sete dias, sob cobertura estéril (evidência III), com fixação que não a mobilize. Para uma infusão de três dias, portanto, uma única punção basta, sem troca diária da agulha.",
+  "porAlt": [
+   "Errada: escalpe danifica o septo do reservatório, e a máscara é exigida no profissional e no paciente.",
+   "Correta: agulha de Huber, luvas estéreis, máscara em ambos e clorexidina alcoólica acima de 0,5%.",
+   "Errada: agulha hipodérmica é contraindicada, e a punção exige luvas estéreis.",
+   "Errada: a agulha de Huber pode ficar até 7 dias, e a punção exige luvas estéreis.",
+   "Errada: a máscara vale também para o paciente, e a agulha fica no máximo 7 dias."
+  ]
+ },
+ {
+  "q": "Na enfermaria, um homem de 66 anos tem cateter central de inserção periférica (PICC) em veia basílica direita, inserido por enfermeira capacitada; o registro da inserção traz comprimento externo de 4 cm. Na troca da cobertura, a enfermeira mede 9 cm de cateter exteriorizado, sem dor nem edema. Qual é a conduta correta?",
+  "alts": [
+   "Reintroduzir os 5 cm com técnica asséptica e fixar na marca original.",
+   "Cortar a parte excedente do cateter para restaurar o comprimento de 4 cm.",
+   "Não reintroduzir, suspeitar de migração e comunicar antes de usar a via.",
+   "Manter o uso, pois a variação externa do PICC não tem significado clínico.",
+   "Retirar o PICC de imediato e puncionar veia periférica no mesmo braço."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Cateteres, sondas e dispositivos",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "Resolução COFEN 258/2001 (inserção de PICC pelo enfermeiro) e ANVISA, Caderno 4, 2017",
+  "coment": "A Resolução COFEN 258/2001 declara lícito ao enfermeiro inserir o PICC, desde que qualificado ou capacitado. No registro da inserção constam veia, calibre, comprimento inserido e comprimento externo, e este é conferido a cada troca de cobertura justamente para detectar migração. Um aumento de 5 cm indica que a ponta saiu da posição central. A parte exteriorizada não é reintroduzida, porque ficou exposta e contaminaria a corrente sanguínea. A enfermeira fixa o cateter como está, não usa a via até a avaliação da posição e comunica a equipe. Os cuidados de manutenção seguem os do cateter central no Caderno 4 da ANVISA (2017).",
+  "porAlt": [
+   "Errada: a porção exteriorizada está contaminada e não deve ser reintroduzida no vaso.",
+   "Errada: cortar o cateter não corrige a posição da ponta e danifica o dispositivo.",
+   "Correta: o aumento do comprimento externo indica migração; não se reintroduz e se comunica.",
+   "Errada: o comprimento externo é conferido justamente para detectar migração da ponta.",
+   "Errada: a migração pede avaliação da posição, não retirada imediata sem comunicação."
+  ]
+ },
+ {
+  "q": "Mulher de 45 anos, com câncer de mama, iniciará quimioterapia ambulatorial com protocolo previsto de seis meses, incluindo fármacos vesicantes. A rede venosa periférica é pobre. Na consulta de enfermagem da oncologia, discute-se o acesso venoso. Segundo o Caderno 4 da ANVISA, qual dispositivo é o mais indicado?",
+  "alts": [
+   "Cateter totalmente implantável (port), para terapia de meses a anos.",
+   "Cateter periférico, trocado a cada 96 horas durante o tratamento.",
+   "Cateter central de curta permanência em jugular, trocado a cada mês.",
+   "Cateter central femoral, de inserção rápida à beira do leito.",
+   "Cateter de duplo lúmen para hemodiálise em veia subclávia direita."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Cateteres, sondas e dispositivos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017",
+  "coment": "O Caderno 4 da ANVISA (2017) indica, quando o acesso central for necessário por mais de 21 dias, preferir dispositivos de média ou longa permanência. O cateter totalmente implantável, com reservatório em loja subcutânea peitoral, é usado em onco-hematologia e nutrição parenteral prolongada, por meses a anos, e combina bem com quimioterapia ambulatorial em ciclos. O periférico não deve receber infusão contínua de vesicante. O central de curta permanência não é para uso prolongado nem se troca por calendário, e a femoral é evitada (evidência I). O cateter de hemodiálise tem indicação própria e não serve a esse fim.",
+  "porAlt": [
+   "Correta: o port é dispositivo de longa permanência, usado em onco-hematologia por meses a anos.",
+   "Errada: o periférico não se presta a vesicantes por seis meses numa rede venosa pobre.",
+   "Errada: acima de 21 dias preferem-se dispositivos de longa permanência, sem troca por calendário.",
+   "Errada: a femoral é evitada pela ANVISA e o cateter de curta permanência não serve por meses.",
+   "Errada: o cateter de hemodiálise tem indicação própria e não é acesso para quimioterapia."
+  ]
+ },
+ {
+  "q": "Na UTI, homem de 64 anos, traqueostomizado há 10 dias e ainda grave, está em ventilação mecânica com sistema fechado de aspiração instalado há 2 dias, limpo e funcionante. Na checagem do turno, a pressão do cuff medida com cuffômetro é de 16 cmH2O, e o técnico de enfermagem se oferece para aspirar a secreção audível. Qual conjunto de condutas está correto?",
+  "alts": [
+   "Manter o cuff em 16 cmH2O, que poupa a mucosa, e a enfermeira aspirar.",
+   "Ajustar o cuff a 25 a 30 cmH2O e liberar o técnico para aspirar com protocolo.",
+   "Trocar o sistema fechado por aberto, que reduz pneumonia, e ajustar o cuff.",
+   "Ajustar o cuff a 25 a 30 cmH2O, manter o sistema fechado e a enfermeira aspirar.",
+   "Desinsuflar o cuff para aspirar e a enfermeira usar sonda aberta estéril."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Cateteres, sondas e dispositivos",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "ANVISA, Caderno 4 (2017), prevenção de pneumonia associada à ventilação; Resolução COFEN 557/2017, art. 2º",
+  "coment": "O caso reúne três decisões. Pressão do cuff: o Caderno 4 da ANVISA (2017) recomenda 18 a 22 mmHg, ou 25 a 30 cmH2O, medida com cuffômetro; 16 cmH2O está abaixo da faixa e deixa passar secreção da orofaringe para a via aérea inferior. Sistema de aspiração: o fechado não muda a incidência de pneumonia em relação ao aberto, mas preserva a pressão positiva e protege a equipe; é trocado a cada 72 horas ou se sujo ou com defeito, e com 2 dias, limpo, é mantido. Quem aspira: no paciente grave traqueostomizado, em qualquer unidade, a aspiração é privativa do enfermeiro (art. 2º da Resolução COFEN 557/2017).",
+  "porAlt": [
+   "Errada: 16 cmH2O está abaixo da faixa e favorece a aspiração de secreção para o pulmão.",
+   "Errada: o ajuste do cuff está certo, mas aspirar o paciente grave traqueostomizado é privativo do enfermeiro.",
+   "Errada: o sistema aberto não reduz pneumonia, e o fechado com 2 dias e limpo é mantido.",
+   "Correta: cuff a 25 a 30 cmH2O, sistema fechado mantido e aspiração privativa do enfermeiro.",
+   "Errada: desinsuflar o cuff no ventilado favorece aspiração, e o sistema fechado em uso é mantido."
+  ]
+ },
+ {
+  "q": "Homem de 38 anos, internado por osteomielite, terá antibiótico intravenoso por seis semanas. Após várias punções periféricas, a rede venosa do antebraço está esgotada, e a equipe discute o acesso para o restante do tratamento. Segundo o Caderno 4 da ANVISA, qual é a escolha mais adequada?",
+  "alts": [
+   "Cateter central de curta permanência em jugular, trocado a cada 7 dias.",
+   "Cateter periférico, com troca programada a cada 96 horas por 6 semanas.",
+   "Cateter central femoral, de inserção mais rápida à beira do leito e menor risco.",
+   "Cateter de curta permanência, pois o PICC é reservado à quimioterapia.",
+   "PICC, dispositivo de média a longa duração indicado para acesso além de 21 dias."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Cateteres, sondas e dispositivos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017",
+  "coment": "O Caderno 4 da ANVISA (2017) recomenda, quando o acesso central for necessário por mais de 21 dias, preferir dispositivos de média ou longa permanência. O PICC, inserido em basílica, cefálica ou braquial por microintrodução guiada por ultrassom, é indicado para terapia de média a longa duração e atende bem a seis semanas de antibiótico. O cateter central de curta permanência não é feito para esse tempo e não se troca por calendário (evidência I). A femoral é evitada, e o PICC não se limita à oncologia. Pela Resolução COFEN 258/2001, o enfermeiro capacitado pode inserir o PICC.",
+  "porAlt": [
+   "Errada: acima de 21 dias preferem-se dispositivos de média ou longa permanência, sem troca rotineira.",
+   "Errada: a rede periférica está esgotada, e seis semanas de punções sucessivas não são o indicado.",
+   "Errada: a ANVISA recomenda evitar a femoral, que tem maior risco de infecção.",
+   "Errada: o PICC serve a qualquer terapia de média a longa duração, não só à quimioterapia.",
+   "Correta: o PICC é de média a longa duração e é o preferido para acesso além de 21 dias."
+  ]
+ },
+ {
+  "q": "Na UTI, o médico inicia a inserção de cateter venoso central em subclávia, guiada por ultrassom, em paciente de 67 anos. A enfermeira conduz o checklist de inserção e observa que ele vestiu gorro, máscara e luvas estéreis, mas não o avental estéril, e que o campo cobre só o tórax. Segundo o Caderno 4 da ANVISA, qual é a conduta da enfermeira?",
+  "alts": [
+   "Prosseguir, pois gorro, máscara e luvas estéreis bastam com ultrassom.",
+   "Interromper até haver avental estéril de manga longa e campo da cabeça aos pés.",
+   "Registrar a falha ao final, pois o checklist não autoriza interromper.",
+   "Prosseguir e trocar o sítio do cateter em 7 dias, pela quebra de barreira.",
+   "Pedir que a antissepsia seja refeita com PVPI aquoso no lugar da clorexidina."
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Cateteres, sondas e dispositivos",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017, cateter central",
+  "coment": "O Caderno 4 da ANVISA (2017) recomenda checklist de inserção do cateter central com um observador autorizado a interromper o procedimento quando houver quebra de técnica. A barreira máxima inclui gorro, máscara, avental estéril de manga longa, luvas estéreis, óculos e campo estéril cobrindo o paciente da cabeça aos pés. O ultrassom é preferido, mas não substitui a barreira. A antissepsia é com clorexidina alcoólica, e a femoral é evitada. O cateter inserido sem barreira máxima deve ter o sítio trocado em até 48 horas, não em 7 dias. O papel da enfermeira no checklist é impedir que a falha aconteça, e não apenas registrá-la depois.",
+  "porAlt": [
+   "Errada: o ultrassom não substitui a barreira máxima, que exige avental estéril e campo amplo.",
+   "Correta: o observador do checklist interrompe até completar avental de manga longa e campo amplo.",
+   "Errada: o checklist prevê justamente um observador autorizado a interromper o procedimento.",
+   "Errada: cateter inserido sem barreira máxima tem o sítio trocado em até 48 horas, não em 7 dias.",
+   "Errada: a antissepsia recomendada é a clorexidina alcoólica, e o problema aqui é a barreira."
+  ]
+ }
+]

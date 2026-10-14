@@ -1,0 +1,1002 @@
+[
+ {
+  "q": "Na consulta de enfermagem, homem de 47 anos, sem diagnóstico prévio, cumpriu o preparo e repousou 5 minutos sentado, sem falar. A enfermeira obteve no braço de maior valor, com 1 minuto de intervalo, 148/94, 138/88 e 134/86 mmHg. Pela Diretriz Brasileira de Hipertensão Arterial 2025, qual valor deve ser registrado e como se classifica essa medida?",
+  "alts": [
+   "140/89 mmHg, classificada como hipertensão estágio 1.",
+   "148/94 mmHg, classificada como hipertensão estágio 1.",
+   "136/87 mmHg, classificada como pré-hipertensão.",
+   "134/86 mmHg, classificada como pressão normal.",
+   "136/87 mmHg, classificada como hipertensão estágio 1."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH e SBN)",
+  "coment": "A Diretriz Brasileira de Hipertensão Arterial 2025 manda fazer três medidas com 1 minuto de intervalo e registrar a média das duas últimas; diferença acima de 10 mmHg pede medidas adicionais. Aqui, (138 + 134)/2 e (88 + 86)/2 dão 136/87 mmHg. Na classificação de 2025, a faixa de 120 a 139 e/ou 80 a 89 mmHg é pré-hipertensão; a antiga \"PA ótima\" deixou de existir e estágio 1 começa em 140 e/ou 90. O diagnóstico de hipertensão exige medidas elevadas em duas ou mais visitas, salvo estágio 3 ou lesão de órgão estabelecida.",
+  "porAlt": [
+   "Errada: 140/89 é a média das três medidas; a diretriz despreza a primeira e usa a média das duas últimas.",
+   "Errada: a maior medida não é a registrada; a primeira leitura costuma ser a mais alta e é descartada.",
+   "Correta: vale a média das duas últimas medidas (136/87), que cai na faixa de 120 a 139 e/ou 80 a 89 mmHg.",
+   "Errada: a última medida isolada não é o valor de registro, e 134/86 já seria pré-hipertensão.",
+   "Errada: o valor está certo, mas estágio 1 começa em 140 e/ou 90 mmHg; 136/87 é pré-hipertensão."
+  ]
+ },
+ {
+  "q": "Mulher de 74 anos, com diabetes tipo 2, refere tontura ao se levantar da cama. Na consulta, sentada após repouso, a PA é de 146/84 mmHg; de pé, de 124/80 mmHg. Pela Diretriz Brasileira de Hipertensão Arterial 2025, como a enfermeira interpreta o achado?",
+  "alts": [
+   "Hipotensão ortostática, pela queda sistólica de 20 mmHg ou mais.",
+   "Sem hipotensão ortostática, pois a diastólica caiu menos de 10.",
+   "Sem hipotensão ortostática, que exige queda sistólica de 30 mmHg.",
+   "Hipotensão ortostática exige queda diastólica de 20 mmHg ou mais.",
+   "Variação esperada da idade, sem valor diagnóstico na consulta."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH e SBN)",
+  "coment": "A diretriz de 2025 orienta medir a PA também de pé no idoso e no diabético. Hipotensão ortostática é a queda de 20 mmHg ou mais na sistólica e/ou de 10 mmHg ou mais na diastólica ao ficar de pé. A paciente teve queda sistólica de 22 mmHg (146 para 124) e diastólica de 4 mmHg; o critério sistólico isolado fecha o achado. No idoso e no diabético, a hipotensão ortostática leva a queda e fratura, e o registro orienta a revisão dos anti-hipertensivos e a educação para levantar em etapas.",
+  "porAlt": [
+   "Correta: a sistólica caiu 22 mmHg, e basta a queda sistólica de 20 mmHg ou mais para o diagnóstico.",
+   "Errada: o critério é sistólico e/ou diastólico; a queda sistólica isolada já é suficiente.",
+   "Errada: o corte da diretriz é queda sistólica de 20 mmHg, não de 30 mmHg.",
+   "Errada: o corte diastólico é de 10 mmHg ou mais, e a queda sistólica isolada já basta.",
+   "Errada: no idoso e no diabético a hipotensão ortostática é achado relevante, ligado a queda e fratura."
+  ]
+ },
+ {
+  "q": "Homem de 52 anos chega à classificação de risco com cólica renal intensa há 2 horas. PA de 186/112 mmHg, sem dor torácica, dispneia, alteração visual, confusão ou déficit neurológico. Pela Diretriz Brasileira de Hipertensão Arterial 2025, como se denomina o quadro pressórico e qual a primeira conduta de enfermagem?",
+  "alts": [
+   "Urgência hipertensiva; administrar captopril sublingual e reavaliar.",
+   "Emergência hipertensiva; preparar nitroprussiato em bomba de infusão.",
+   "Urgência hipertensiva; oferecer nifedipina de liberação rápida.",
+   "Pseudocrise; tratar a dor conforme prescrição e repetir a medida.",
+   "Emergência hipertensiva; reduzir a PA em 50% na primeira hora."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH e SBN)",
+  "coment": "A Diretriz Brasileira de Hipertensão Arterial 2025 criou a categoria pseudocrise: pressão alta em paciente oligossintomático ou desencadeada por dor, ansiedade ou pânico. Emergência hipertensiva exige lesão aguda e progressiva de órgão-alvo (dor torácica, edema pulmonar, déficit neurológico, confusão). O termo urgência hipertensiva foi proposto para aposentadoria. Sem sintoma de órgão em sofrimento, o enfermeiro trata a causa (dor ou ansiedade, conforme prescrição), repete a medida e registra. Nifedipina de liberação rápida e captopril sublingual são proscritos, pelo risco de isquemia cerebral.",
+  "porAlt": [
+   "Errada: o termo urgência hipertensiva foi proposto para aposentadoria, e o captopril sublingual é proscrito.",
+   "Errada: não há lesão aguda de órgão-alvo; sem ela, não é emergência e não cabe droga endovenosa.",
+   "Errada: a nifedipina de liberação rápida é proscrita pela queda imprevisível da pressão.",
+   "Correta: PA elevada desencadeada por dor, sem lesão de órgão, é pseudocrise; trata-se a dor e repete-se a medida.",
+   "Errada: não é emergência, e mesmo na emergência a redução é de até 25% na primeira hora."
+  ]
+ },
+ {
+  "q": "Mulher de 61 anos, que suspendeu a losartana por conta própria, está assintomática na UPA com PA de 194/114 mmHg, sem sinal de lesão aguda de órgão-alvo. Após 30 minutos de observação em ambiente calmo, a PA segue em 188/110 mmHg, e o médico prescreve captopril oral. Pela diretriz brasileira de 2025, qual alvo e prazo de reavaliação a enfermeira orienta?",
+  "alts": [
+   "PA abaixo de 130/80 mmHg ainda na UPA, antes da alta.",
+   "PA abaixo de 160/100 mmHg e reavaliação em 1 a 7 dias.",
+   "Queda de 25% na primeira hora e reavaliação em 30 dias.",
+   "PA abaixo de 140/90 mmHg e reavaliação em 24 horas.",
+   "PA abaixo de 120/80 mmHg e retorno ambulatorial em 3 meses."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH e SBN)",
+  "coment": "Na Diretriz Brasileira de Hipertensão Arterial 2025, a antiga urgência hipertensiva passou a ser \"elevação importante da PA sem lesão progressiva de órgão-alvo\". A primeira medida é observar por 30 minutos em ambiente calmo. Sem melhora, usa-se medicação oral (clonidina ou captopril), com alvo abaixo de 160/100 mmHg e reavaliação em 1 a 7 dias (recomendação FRACA, certeza baixa). A meta abaixo de 130/80 mmHg é do tratamento crônico, e a redução de até 25% na primeira hora pertence à emergência hipertensiva. A enfermeira reforça a adesão e o retorno no prazo.",
+  "porAlt": [
+   "Errada: 130/80 mmHg é a meta crônica do tratamento, não o alvo da elevação aguda na UPA.",
+   "Correta: na elevação importante sem lesão progressiva, o alvo é abaixo de 160/100 mmHg, com reavaliação em 1 a 7 dias.",
+   "Errada: a redução de até 25% na primeira hora é parâmetro da emergência hipertensiva, com lesão de órgão.",
+   "Errada: a diretriz fixa alvo abaixo de 160/100 mmHg e reavaliação em 1 a 7 dias, não em 24 horas.",
+   "Errada: buscar 120/80 mmHg é queda excessiva para o quadro, e 3 meses é prazo longo demais."
+  ]
+ },
+ {
+  "q": "Homem de 63 anos, hipertenso, sem diabetes, doença renal ou evento cardiovascular prévio, tem média de 136/84 mmHg na consulta de enfermagem, em uso regular de dois anti-hipertensivos. Ele pergunta se a pressão está controlada, já que o risco cardiovascular foi considerado baixo. Pela Diretriz Brasileira de Hipertensão Arterial 2025, o que a enfermeira responde?",
+  "alts": [
+   "Dentro da meta, que é abaixo de 140/90 mmHg no baixo risco.",
+   "Dentro da meta, pois 130/80 mmHg é a meta do alto risco.",
+   "Fora da meta, que é abaixo de 120/80 mmHg para todos.",
+   "Dentro da meta, que é abaixo de 135/85 mmHg no consultório.",
+   "Fora da meta, que é abaixo de 130/80 mmHg em qualquer risco."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH e SBN)",
+  "coment": "A Diretriz Brasileira de Hipertensão Arterial 2025 fixou meta abaixo de 130/80 mmHg para todo hipertenso, qualquer que seja o risco cardiovascular (recomendação FORTE, certeza alta). Quem não tolera a meta é tratado até o menor valor tolerado. A meta única substituiu a régua escalonada por risco da diretriz de 2020. Com 136/84 mmHg, o paciente está fora da meta: a enfermeira avalia adesão, técnica de medida e interferentes (anti-inflamatórios, sal), reforça as medidas não medicamentosas e encaminha ao médico para ajuste do tratamento.",
+  "porAlt": [
+   "Errada: a régua escalonada por risco acabou; 140/90 mmHg não é mais meta no baixo risco.",
+   "Errada: a meta abaixo de 130/80 mmHg vale para todo hipertenso, não só para o alto risco.",
+   "Errada: abaixo de 120/80 mmHg é a faixa de PA normal, não a meta de tratamento da diretriz.",
+   "Errada: 135/85 mmHg não é a meta de consultório da diretriz brasileira de 2025.",
+   "Correta: a diretriz de 2025 adotou meta única abaixo de 130/80 mmHg, qualquer que seja o risco."
+  ]
+ },
+ {
+  "q": "Mulher de 49 anos é admitida na sala vermelha com cefaleia intensa, confusão mental e PA de 224/132 mmHg. O médico diagnostica emergência hipertensiva e prescreve nitroprussiato de sódio em infusão contínua. Qual conduta de enfermagem está de acordo com a Diretriz Brasileira de Hipertensão Arterial 2025 e com os cuidados próprios do fármaco?",
+  "alts": [
+   "Infusão por gravidade em Y com o soro de manutenção e PA aferida a cada hora.",
+   "Bomba de infusão, via exclusiva, solução protegida da luz e PA a intervalos curtos.",
+   "Bomba de infusão, via exclusiva e meta de normalizar a PA na primeira hora.",
+   "Bolus lento em veia periférica, seguido de aferição da PA a cada 30 minutos.",
+   "Bomba de infusão em via compartilhada com sedativo e PA a cada 4 horas."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH e SBN)",
+  "coment": "Emergência hipertensiva é a elevação acentuada e sintomática da pressão com lesão de órgão-alvo aguda e progressiva; confusão mental com cefaleia intensa sugere encefalopatia. A Diretriz Brasileira de Hipertensão Arterial 2025 indica terapia intensiva, anti-hipertensivo endovenoso e monitorização, com redução de até 25% na primeira hora (metas próprias na dissecção de aorta, no edema agudo e no AVC). Cabe à enfermagem preparar a infusão em bomba, manter via exclusiva, proteger o nitroprussiato da luz e aferir a pressão com a frequência que a titulação exige, a cada poucos minutos ou por via invasiva.",
+  "porAlt": [
+   "Errada: a droga titulável exige bomba de infusão e via exclusiva, não gotejamento por gravidade em Y.",
+   "Correta: droga endovenosa titulável em bomba, via exclusiva, nitroprussiato protegido da luz e PA frequente.",
+   "Errada: a redução na emergência é de até 25% na primeira hora; normalizar a PA arrisca isquemia.",
+   "Errada: o nitroprussiato é dado em infusão contínua titulada, nunca em bolus.",
+   "Errada: a via deve ser exclusiva e a PA aferida a cada poucos minutos durante a titulação."
+  ]
+ },
+ {
+  "q": "Homem de 70 anos com insuficiência cardíaca de fração reduzida recebe alta após internação por descompensação. Na consulta de enfermagem pós-alta, a enfermeira ensina o automonitoramento do peso em casa como forma de reconhecer cedo a congestão. Qual orientação está correta?",
+  "alts": [
+   "Pesar-se à noite, após o jantar, para registrar o maior valor do dia.",
+   "Pesar-se uma vez por semana, em qualquer horário, com roupa habitual.",
+   "Pesar-se quando surgir edema nas pernas ou falta de ar ao deitar.",
+   "Pesar-se toda manhã, após urinar e antes do café, na mesma balança.",
+   "Pesar-se após o café, alternando balanças para conferir os valores."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes ESC 2026 de insuficiência cardíaca (European Society of Cardiology)",
+  "coment": "A internação evitável na insuficiência cardíaca depende do autocuidado que a enfermagem ensina. O peso é medido todos os dias, na mesma balança e no mesmo horário, de manhã, após urinar e antes do café, com roupa leve, e anotado. O ganho rápido de peso precede a dispneia: as diretrizes ESC 2026 citam ganho acima de 2 kg por semana entre os sinais de congestão. O paciente aprende também a reconhecer ortopneia, dispneia paroxística noturna, bendopneia e edema, e a procurar o serviço quando o peso sobe, antes que os sintomas apareçam.",
+  "porAlt": [
+   "Errada: o peso após a refeição varia com a ingestão e não permite comparar um dia com o outro.",
+   "Errada: a pesagem é diária e no mesmo horário; a semanal perde o ganho rápido que precede a dispneia.",
+   "Errada: o ganho de peso precede o edema e a dispneia; esperar o sintoma perde a janela de ação.",
+   "Correta: peso diário, mesma balança, mesmo horário pela manhã, após urinar e antes do café, com anotação.",
+   "Errada: trocar de balança e pesar após comer introduz variação que mascara o ganho real."
+  ]
+ },
+ {
+  "q": "Mulher de 66 anos com insuficiência cardíaca de fração reduzida relata, na consulta de enfermagem, que passou a dormir com três travesseiros e que o peso subiu 2,5 kg em uma semana. Conta também que comprou ibuprofeno na farmácia para dor no joelho. Qual interpretação e conduta da enfermeira estão corretas?",
+  "alts": [
+   "Sinais de congestão; suspender o ibuprofeno e encaminhar para avaliação médica breve.",
+   "Quadro esperado da idade; manter o ibuprofeno e reavaliar o peso em 30 dias.",
+   "Sinais de congestão; manter o ibuprofeno e restringir líquidos por conta própria.",
+   "Ganho de gordura corporal; orientar dieta hipocalórica e caminhada diária.",
+   "Sinais de congestão; trocar o ibuprofeno por outro anti-inflamatório sem receita."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretrizes ESC 2026 de insuficiência cardíaca (European Society of Cardiology)",
+  "coment": "Precisar de mais travesseiros para dormir é ortopneia, e as diretrizes ESC 2026 citam ganho de peso acima de 2 kg por semana entre os sinais de congestão. Os anti-inflamatórios não esteroidais são contraindicados na insuficiência cardíaca (classe III), porque retêm sódio e água e pioram a função renal; o paciente é orientado a não comprá-los sem receita. A restrição hídrica não é decisão do paciente: fica para a congestão que não responde ao diurético e para a hiponatremia hipervolêmica, individualizada pela equipe. A conduta é suspender o anti-inflamatório e garantir avaliação médica breve para ajuste do diurético.",
+  "porAlt": [
+   "Correta: ortopneia e ganho acima de 2 kg na semana indicam congestão, e o anti-inflamatório é contraindicado.",
+   "Errada: ortopneia e ganho rápido de peso são sinais de congestão, não efeito da idade.",
+   "Errada: o anti-inflamatório piora a insuficiência cardíaca, e a restrição hídrica é individualizada pela equipe.",
+   "Errada: ganho de 2,5 kg em uma semana é retenção de líquido, não acúmulo de gordura.",
+   "Errada: todo anti-inflamatório não esteroidal é contraindicado (classe III) na insuficiência cardíaca."
+  ]
+ },
+ {
+  "q": "Mulher de 45 anos, assintomática, faz exames de rastreamento solicitados na unidade básica: glicemia de jejum de 118 mg/dL e hemoglobina glicada de 6,1%, na mesma amostra. Pelos critérios da American Diabetes Association de 2026, como a enfermeira interpreta os resultados na consulta?",
+  "alts": [
+   "Diabetes, por dois exames alterados na mesma amostra.",
+   "Normalidade, pois o jejum alterado começa em 126 mg/dL.",
+   "Diabetes, pois glicada acima de 6,0% fecha o diagnóstico.",
+   "Pré-diabetes pela glicada, com glicemia de jejum normal.",
+   "Pré-diabetes, com os dois exames na faixa intermediária."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Standards of Care in Diabetes 2026 (American Diabetes Association), critérios diagnósticos",
+  "coment": "Os critérios da ADA 2026 não mudaram: pré-diabetes é glicemia de jejum de 100 a 125 mg/dL, glicemia de 2 horas no teste oral de 140 a 199 mg/dL ou hemoglobina glicada de 5,7 a 6,4%. Diabetes é jejum de 126 mg/dL ou mais, 2 horas de 200 mg/dL ou mais, glicada de 6,5% ou mais, ou glicemia ao acaso de 200 mg/dL ou mais com sintomas clássicos. Sem hiperglicemia inequívoca, o diabetes se confirma repetindo o exame ou com dois exames diferentes alterados na mesma amostra. Os dois valores da paciente estão na faixa de pré-diabetes, que pede orientação de estilo de vida e acompanhamento.",
+  "porAlt": [
+   "Errada: a confirmação por dois exames vale quando ambos estão na faixa de diabetes, o que não ocorre.",
+   "Errada: 126 mg/dL é o corte de diabetes; de 100 a 125 mg/dL já é pré-diabetes.",
+   "Errada: o corte diagnóstico de diabetes pela glicada é 6,5%, não 6,0%.",
+   "Errada: jejum de 118 mg/dL não é normal; está na faixa de pré-diabetes, de 100 a 125 mg/dL.",
+   "Correta: jejum de 100 a 125 mg/dL e glicada de 5,7 a 6,4% são as faixas de pré-diabetes."
+  ]
+ },
+ {
+  "q": "Homem de 67 anos com diabetes tipo 2, internado na clínica médica por pneumonia e aceitando bem a dieta, tem prescrita apenas insulina regular conforme a glicemia capilar, sem insulina basal. As glicemias das últimas 24 horas variaram de 220 a 260 mg/dL. Pela ADA 2026, o que a enfermeira deve sinalizar à equipe?",
+  "alts": [
+   "Glicemias dentro da meta hospitalar, que vai até 280 mg/dL no não crítico.",
+   "Glicemias acima da meta de 80 a 130 mg/dL, a corrigir com mais regular.",
+   "Glicemias acima da meta de 100 a 180 mg/dL e escala isolada desencorajada.",
+   "Glicemias dentro da meta de 140 a 300 mg/dL, sendo a escala o esquema ideal.",
+   "Glicemias acima da meta de 70 a 140 mg/dL, a ajustar por meio da dieta."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Standards of Care in Diabetes 2026 (ADA), seção 16, recomendação 16.10",
+  "coment": "Pela ADA 2026, a meta glicêmica do internado não crítico é de 100 a 180 mg/dL, e a do crítico, de 140 a 180 mg/dL. A ADA desencoraja a correção isolada sem insulina basal, a antiga escala móvel (recomendação 16.10, grau A), porque ela só reage à hiperglicemia já instalada e produz oscilação. Glicemias persistentes de 220 a 260 mg/dL num paciente que se alimenta indicam esquema insuficiente. A enfermeira registra as glicemias, comunica o padrão e a ausência de basal e confere a nova prescrição, já que o ajuste do esquema é médico ou depende de protocolo institucional.",
+  "porAlt": [
+   "Errada: a meta no não crítico vai até 180 mg/dL; 220 a 260 mg/dL está acima dela.",
+   "Errada: 80 a 130 mg/dL não é a meta hospitalar, e mais correção sem basal repete o esquema desencorajado.",
+   "Correta: a meta do internado não crítico é 100 a 180 mg/dL, e a ADA desencoraja a correção isolada sem basal.",
+   "Errada: a meta de 140 a 180 mg/dL é a do paciente crítico, e a escala isolada não é recomendada.",
+   "Errada: 70 a 140 mg/dL não é a meta do internado, e a dieta isolada não corrige a falta de basal."
+  ]
+ },
+ {
+  "q": "Na enfermaria, a enfermeira vai preparar numa única seringa graduada em unidades 10 unidades de insulina regular e 20 unidades de insulina NPH, prescritas para o mesmo horário e disponíveis em frascos. A NPH já foi homogeneizada rolando o frasco entre as mãos. Qual sequência de preparo está correta?",
+  "alts": [
+   "Ar nos dois frascos, aspirar a NPH e depois a regular.",
+   "Ar só no frasco de NPH, aspirar a regular e depois a NPH.",
+   "Agitar a NPH com força e aspirar a regular antes dela.",
+   "Aspirar a NPH, trocar a agulha e aspirar a regular.",
+   "Ar nos dois frascos, aspirar a regular e depois a NPH."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Res. COFEN 734/2023, anexo (manejo de seringa e caneta de insulina); Standards of Care in Diabetes 2026 (ADA)",
+  "coment": "Insulina é medicamento de alta vigilância: confere-se nome, tipo, concentração, dose em unidades, horário e glicemia capilar antes da dose, com seringa graduada em unidades. A NPH, de aspecto turvo, é homogeneizada rolando o frasco entre as mãos, sem agitar com força. Na mistura com regular na mesma seringa, injeta-se ar nos dois frascos e aspira-se primeiro a regular, límpida, e depois a NPH, para não contaminar o frasco de regular com NPH. Análogos de ação longa não se misturam. A Res. COFEN 734/2023 inclui entre as competências gerais do enfermeiro orientar o manejo de seringa e caneta de insulina.",
+  "porAlt": [
+   "Errada: aspirar a NPH primeiro contamina o frasco de regular com insulina de ação intermediária.",
+   "Errada: o ar deve ser injetado nos dois frascos, para não criar vácuo e dificultar a aspiração.",
+   "Errada: a NPH é homogeneizada rolando o frasco, sem agitar com força, o que forma bolhas e erra a dose.",
+   "Errada: a ordem continua invertida; a regular é aspirada antes, e trocar a agulha não evita o erro.",
+   "Correta: injeta-se ar nos dois frascos e aspira-se primeiro a regular, límpida, depois a NPH, turva."
+  ]
+ },
+ {
+  "q": "Mulher de 39 anos com diabetes tipo 1 relata glicemias imprevisíveis e hipoglicemias sem causa aparente. Conta que aplica a insulina sempre no mesmo ponto do abdome, onde dói menos. Na palpação, a enfermeira identifica área elevada, amolecida e indolor nesse local. Qual a interpretação e a orientação corretas?",
+  "alts": [
+   "Lipoatrofia por alergia à insulina; trocar o tipo de insulina na própria consulta.",
+   "Lipo-hipertrofia; aplicar sobre o nódulo, onde a absorção da insulina é mais rápida.",
+   "Lipo-hipertrofia; rodízio entre regiões e dentro delas, sem aplicar no nódulo.",
+   "Abscesso subcutâneo; suspender a insulina até a avaliação do cirurgião.",
+   "Lipo-hipertrofia; massagear o local após cada aplicação para dispersar o nódulo."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Standards of Care in Diabetes 2026 (ADA); Res. COFEN 734/2023, anexo",
+  "coment": "Lipo-hipertrofia é o nódulo de gordura que se forma onde se aplica insulina sempre no mesmo ponto. A insulina aplicada sobre ela é absorvida de forma irregular e explica glicemias imprevisíveis e hipoglicemias. A conduta de enfermagem é organizar o rodízio dentro de cada região e entre as regiões (abdome, face posterior do braço, face anterior e lateral da coxa e quadrante superior externo da nádega), com distância entre as punções, inspecionar e palpar os locais em toda consulta e orientar a não aplicar sobre área endurecida. Após a injeção, não se massageia o local.",
+  "porAlt": [
+   "Errada: a lesão elevada e amolecida é lipo-hipertrofia, e trocar a insulina não cabe à enfermeira na consulta.",
+   "Errada: sobre a lipo-hipertrofia a absorção é irregular, o que explica as glicemias imprevisíveis.",
+   "Correta: a aplicação repetida no mesmo ponto forma lipo-hipertrofia, prevenida e tratada com rodízio organizado.",
+   "Errada: área indolor e sem sinais flogísticos não é abscesso, e suspender insulina no tipo 1 causa cetoacidose.",
+   "Errada: a orientação é não massagear o local da aplicação e deixar de aplicar sobre a área alterada."
+  ]
+ },
+ {
+  "q": "Homem de 34 anos com diabetes tipo 1, em esquema basal-bolus, está internado e em jejum desde a meia-noite para endoscopia às 10 horas. Às 7 horas, a glicemia capilar é de 168 mg/dL, e o técnico de enfermagem pergunta se deve deixar de aplicar a insulina basal das 8 horas. Qual a orientação da enfermeira?",
+  "alts": [
+   "Suspender a basal e usar a escala de correção até voltar a comer.",
+   "Manter a basal, comunicar o jejum e confirmar a prescrição com o médico.",
+   "Suspender toda a insulina, já que em jejum não há risco de hiperglicemia.",
+   "Dobrar a dose de regular pela manhã para cobrir o estresse do exame.",
+   "Trocar a basal por insulina regular endovenosa em bolus antes do exame."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Standards of Care in Diabetes 2026 (ADA), seção 16, recomendação 16.8b",
+  "coment": "Suspender a insulina basal porque o paciente está em jejum causa hiperglicemia e, no diabetes tipo 1, cetoacidose, já que não há secreção endógena de insulina. A ADA 2026 indica insulina basal com correção em quem come pouco ou nada (recomendação 16.8b), e no tipo 1 nunca se usa só a escala de correção, nem em jejum. A eventual redução de dose da basal é decisão da prescrição. Cabe à enfermagem comunicar o jejum ao médico, confirmar a prescrição para o período, monitorar a glicemia capilar e registrar.",
+  "porAlt": [
+   "Errada: no tipo 1 nunca se usa só a escala de correção, nem em jejum, pelo risco de cetoacidose.",
+   "Correta: no tipo 1 a basal não é suspensa pelo jejum; a enfermagem comunica o jejum e confirma a prescrição.",
+   "Errada: sem insulina basal o paciente com tipo 1 evolui com hiperglicemia e cetoacidose.",
+   "Errada: dobrar a regular em jejum causa hipoglicemia e não é decisão da enfermagem.",
+   "Errada: a regular endovenosa é usada em infusão contínua, em bomba, e não substitui a basal em bolus."
+  ]
+ },
+ {
+  "q": "Homem de 71 anos com diabetes tipo 2, em uso de insulina NPH e acarbose, está internado e refere tremor e sudorese antes do almoço. Está consciente, orientado e deglute sem dificuldade; a glicemia capilar é de 58 mg/dL. Qual é a forma correta de tratar a hipoglicemia nesse paciente?",
+  "alts": [
+   "15 g de açúcar comum dissolvido em água, absorvido em minutos.",
+   "Um copo de leite integral, que mantém a glicemia por mais tempo.",
+   "Glucagon 1 mg por via intramuscular, pois a via oral falha com a acarbose.",
+   "Somente glicose, 15 g, pois a acarbose bloqueia a digestão da sacarose.",
+   "Chocolate ao leite, que une carboidrato e gordura de efeito longo."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Standards of Care in Diabetes 2026 (ADA), recomendação 6.15; JBDS, hipoglicemia hospitalar em adultos, 2023",
+  "coment": "Glicose abaixo de 70 mg/dL em paciente consciente pede a regra dos 15 (ADA 2026, recomendação 6.15): 15 g de carboidrato de absorção rápida, de preferência glicose, sem gordura nem proteína, e nova glicemia em 15 minutos, repetindo se persistir baixa. No hospital, o JBDS 2023 usa 15 a 20 g e até três ciclos. A acarbose inibe a enzima intestinal que digere a sacarose; por isso quem usa o fármaco é tratado só com glicose. Depois da correção, oferece-se carboidrato lento ou a refeição, sem omitir a próxima insulina, e registra-se o episódio.",
+  "porAlt": [
+   "Errada: o açúcar comum é sacarose, cuja digestão depende da enzima que a acarbose inibe.",
+   "Errada: leite contém gordura e proteína, que retardam a absorção do carboidrato e a correção.",
+   "Errada: paciente consciente que deglute trata por via oral; o glucagon é para quem não engole e sem acesso.",
+   "Correta: quem usa acarbose trata a hipoglicemia só com glicose, porque a sacarose depende da enzima bloqueada.",
+   "Errada: a gordura do chocolate atrasa a absorção do carboidrato e retarda a correção."
+  ]
+ },
+ {
+  "q": "Homem de 55 anos, etilista crônico e desnutrido, com diabetes tipo 2 em uso de insulina, é encontrado no leito sonolento, sem conseguir engolir, com glicemia capilar de 38 mg/dL e sem acesso venoso. Recebeu glucagon 1 mg intramuscular há 15 minutos, sem melhora. Como se classifica o evento e por que o glucagon pode ter falhado?",
+  "alts": [
+   "Nível 3; falta glicogênio hepático para o glucagon mobilizar.",
+   "Nível 2; o glucagon leva 60 minutos para agir e deve ser repetido.",
+   "Nível 1; o glucagon falhou por ter sido aplicado no músculo.",
+   "Nível 3; o álcool inativa o glucagon no músculo antes da absorção.",
+   "Nível 2; glicemia abaixo de 54 mg/dL contraindica o glucagon."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Standards of Care in Diabetes 2026 (ADA), níveis de hipoglicemia; JBDS, hipoglicemia hospitalar em adultos, 2023",
+  "coment": "Pela ADA 2026 e pela SBD, o nível 1 é glicose abaixo de 70 e a partir de 54 mg/dL, o nível 2 é glicose abaixo de 54 mg/dL e o nível 3 é o evento com alteração mental ou física que exige ajuda de outra pessoa, qualquer que seja a glicose. Paciente que não engole com segurança não recebe nada pela boca. Sem acesso, usa-se glucagon 1 mg intramuscular, que pode levar até 15 minutos para agir e falha no etilista, no desnutrido e no hepatopata, que não têm glicogênio para mobilizar. A prioridade passa a ser o acesso venoso para glicose endovenosa (o JBDS prefere a 10% ou a 20%), com glicemia seriada e comunicação.",
+  "porAlt": [
+   "Correta: alteração mental que exige ajuda é nível 3, e o glucagon depende de glicogênio hepático.",
+   "Errada: o evento com alteração mental que exige ajuda é nível 3, e o glucagon age em até 15 minutos.",
+   "Errada: nível 1 é glicose entre 54 e 69 mg/dL, e a via intramuscular é a indicada para o glucagon.",
+   "Errada: o nível está certo, mas a falha decorre da falta de glicogênio, não de inativação no músculo.",
+   "Errada: o glucagon é justamente indicado quando o paciente não engole e não há acesso venoso."
+  ]
+ },
+ {
+  "q": "Mulher de 24 anos com diabetes tipo 1 é admitida com vômitos e respiração rápida e profunda. Exames: glicemia de 480 mg/dL, pH de 7,12, bicarbonato de 9 mmol/L, beta-hidroxibutirato de 5,2 mmol/L e potássio de 3,1 mmol/L. Pelo consenso de crises hiperglicêmicas de 2024, qual sequência terapêutica a enfermeira deve esperar e conferir na prescrição?",
+  "alts": [
+   "Insulina 0,1 U/kg/h de imediato, pois a insulina eleva o potássio sérico.",
+   "Insulina com potássio no soro desde já, sem aguardar nova dosagem.",
+   "Cristaloide adiado até a insulina reduzir a glicemia para menos de 250.",
+   "Cristaloide e potássio, adiando a insulina até o potássio chegar a 3,5.",
+   "Insulina em bolus subcutâneo e reposição de potássio somente após 2 horas."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Consenso de crises hiperglicêmicas em adultos 2024 (ADA, EASD, JBDS, AACE e DTS; Umpierrez et al., Diabetes Care 2024)",
+  "coment": "Pelo consenso de 2024, a cetoacidose exige glicemia a partir de 200 mg/dL (ou diabetes conhecido), beta-hidroxibutirato a partir de 3,0 mmol/L e pH abaixo de 7,3 e/ou bicarbonato abaixo de 18 mmol/L. O volume vem primeiro: cristaloide a 500 a 1.000 mL/h nas primeiras 2 a 4 horas. O potássio decide a insulina: abaixo de 3,5 mmol/L, ela é adiada e o potássio reposto; de 3,5 a 5,0, insulina com potássio no soro; acima de 5,0, insulina sem repor e nova dosagem em 2 horas. A insulina empurra o potássio para dentro da célula, e o potássio corporal total está sempre depletado.",
+  "porAlt": [
+   "Errada: a insulina empurra o potássio para dentro da célula e agrava a hipocalemia.",
+   "Errada: insulina com potássio no soro é a conduta para potássio entre 3,5 e 5,0 mmol/L.",
+   "Errada: o volume vem primeiro, com cristaloide a 500 a 1.000 mL/h nas primeiras horas.",
+   "Correta: com potássio abaixo de 3,5 mmol/L, a insulina é adiada e o potássio reposto, com volume desde o início.",
+   "Errada: com hipocalemia a insulina é adiada, e o potássio não pode esperar 2 horas para ser reposto."
+  ]
+ },
+ {
+  "q": "Homem de 30 anos em tratamento de cetoacidose diabética recebe insulina regular endovenosa em bomba, a 0,1 U/kg/h. Após 5 horas, a glicemia capilar é de 232 mg/dL, o pH venoso de 7,24 e a cetonemia de 2,4 mmol/L. O técnico de enfermagem sugere desligar a bomba, já que a glicemia caiu. Qual conduta está correta?",
+  "alts": [
+   "Manter a insulina em dose menor e acrescentar glicose a 5 ou 10% ao soro.",
+   "Desligar a bomba, pois a glicemia já atingiu a meta abaixo de 250 mg/dL.",
+   "Trocar a bomba por insulina NPH subcutânea e encerrar a infusão venosa.",
+   "Manter a dose plena sem glicose, até a glicemia chegar a 100 mg/dL.",
+   "Suspender a insulina e o soro, mantendo a glicemia capilar de hora em hora."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Consenso de crises hiperglicêmicas em adultos 2024 (ADA, EASD, JBDS, AACE e DTS; Umpierrez et al., Diabetes Care 2024)",
+  "coment": "Na cetoacidose, a glicose cai abaixo de 250 mg/dL horas antes de a cetose resolver. Pelo consenso de 2024, nesse ponto acrescenta-se glicose a 5 ou 10% ao soro e reduz-se a infusão, sem suspender a insulina: a glicose vai ao soro justamente para a insulina continuar. A crise só está resolvida com cetonemia abaixo de 0,6 mmol/L e pH a partir de 7,3 ou bicarbonato a partir de 18 mmol/L, com o paciente comendo; então aplica-se a basal subcutânea e mantém-se a bomba por 1 a 2 horas de sobreposição. Desligar a bomba antes disso é o erro mais comum da enfermaria.",
+  "porAlt": [
+   "Correta: abaixo de 250 mg/dL acrescenta-se glicose ao soro e reduz-se a infusão, sem suspender a insulina.",
+   "Errada: a glicose cai horas antes de a cetose resolver; desligar a bomba faz a cetogênese recomeçar.",
+   "Errada: a cetoacidose não resolveu (pH 7,24, cetonemia 2,4), então não é hora da transição.",
+   "Errada: dose plena sem glicose leva à hipoglicemia antes que a cetose se resolva.",
+   "Errada: suspender insulina e volume interrompe o tratamento de uma cetoacidose ainda ativa."
+  ]
+ },
+ {
+  "q": "Na consulta anual de enfermagem, homem de 60 anos com diabetes tipo 2 há 12 anos, sem queixas, tem os pés avaliados: pele íntegra, sem deformidades e pulsos pediosos palpáveis. A enfermeira vai pesquisar a sensibilidade protetora plantar. Pela ADA 2026, qual avaliação está correta?",
+  "alts": [
+   "Monofilamento de 10 g isolado, que dispensa qualquer outro teste.",
+   "Diapasão de 512 Hz isolado, aplicado no hálux em toda consulta anual.",
+   "Monofilamento de 1 g somado à pesquisa do reflexo patelar bilateral.",
+   "Monofilamento de 10 g com os olhos abertos, para o paciente acompanhar.",
+   "Monofilamento de 10 g somado a outro teste, como o diapasão de 128 Hz."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Standards of Care in Diabetes 2026 (ADA), recomendações 12.23 a 12.25; Res. COFEN 734/2023",
+  "coment": "A ADA 2026 manda fazer o exame completo do pé ao menos uma vez por ano (12.23, grau A): inspeção da pele, deformidades, pulsos e sensibilidade protetora pelo monofilamento de 10 g (ou teste de Ipswich) somado a mais um teste, como vibração com diapasão de 128 Hz ou sensibilidade dolorosa (12.24). O filamento é mostrado antes em pele sensível, e o exame é feito com os olhos fechados, com pressão perpendicular até o filamento curvar, evitando calo, cicatriz e úlcera. Com perda sensitiva, os pés são inspecionados em toda consulta (12.25). A Res. COFEN 734/2023 atribui ao enfermeiro a avaliação de risco dos pés.",
+  "porAlt": [
+   "Errada: a recomendação é associar o monofilamento a mais um teste, como vibração ou sensibilidade dolorosa.",
+   "Errada: a vibração é testada com diapasão de 128 Hz, e não isoladamente.",
+   "Errada: o filamento padronizado é o de 10 g, e o reflexo patelar não é o teste associado recomendado.",
+   "Errada: o filamento é mostrado antes em pele sensível e o exame é feito com os olhos fechados.",
+   "Correta: a ADA 2026 pede monofilamento de 10 g (ou Ipswich) somado a mais um teste, como vibração ou dor."
+  ]
+ },
+ {
+  "q": "Homem de 72 anos com DPOC, internado por exacerbação, está sonolento e pouco responsivo ao chamado. Recebe oxigênio por máscara com reservatório a 15 L/min, com SpO2 de 99%, frequência respiratória de 14 irpm e sem gasometria recente. Qual a conduta de enfermagem mais adequada?",
+  "alts": [
+   "Manter a máscara com reservatório, pois SpO2 de 99% é a meta ideal.",
+   "Retirar o oxigênio de vez e reavaliar a saturação em ar ambiente.",
+   "Reduzir a fração inspirada até SpO2 de 88 a 92% e comunicar para gasometria.",
+   "Reduzir o fluxo até SpO2 de 94 a 98% e manter a observação clínica.",
+   "Trocar por cateter nasal a 6 L/min e aguardar a gasometria da rotina."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Doenças respiratórias",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "GOLD 2026 (Global Initiative for Chronic Obstructive Lung Disease) e diretriz de oxigênio da British Thoracic Society",
+  "coment": "Oxigênio em excesso eleva a PaCO2 de quem retém gás carbônico, por piora da relação ventilação-perfusão e pelo efeito Haldane. A British Thoracic Society, adotada pelo GOLD 2026, recomenda SpO2 de 88 a 92% para quem tem DPOC ou risco de hipercapnia, até a gasometria; a máscara de Venturi facilita a titulação. Diante do paciente com DPOC sonolento e saturando 99% sob máscara com reservatório, a conduta é reduzir a fração inspirada até a faixa-alvo, sem retirar o oxigênio de vez, e comunicar para gasometria e avaliação de ventilação não invasiva.",
+  "porAlt": [
+   "Errada: oxigênio em excesso eleva a PaCO2 de quem retém gás carbônico, o que explica a sonolência.",
+   "Errada: retirar todo o oxigênio de quem está saturando alto expõe o paciente a hipoxemia grave.",
+   "Correta: na DPOC com risco de hipercapnia o alvo é 88 a 92%, sem retirar o oxigênio, com gasometria e avaliação de VNI.",
+   "Errada: 94 a 98% é a faixa de quem não tem risco de hipercapnia, e a sonolência exige comunicação.",
+   "Errada: a titulação é pelo alvo de 88 a 92%, e a sonolência pede gasometria agora, não na rotina."
+  ]
+ },
+ {
+  "q": "Mulher de 68 anos com DPOC está internada por exacerbação, em oxigênio por máscara de Venturi titulada para SpO2 de 88 a 92%. A enfermeira recebe quatro gasometrias arteriais colhidas em pacientes diferentes da unidade com o mesmo diagnóstico. Segundo o critério adotado pelo GOLD 2026, qual resultado indica ventilação não invasiva de dois níveis?",
+  "alts": [
+   "pH 7,40 e PaCO2 de 52 mmHg.",
+   "pH 7,31 e PaCO2 de 58 mmHg.",
+   "pH 7,48 e PaCO2 de 30 mmHg.",
+   "pH 7,38 e PaCO2 de 44 mmHg.",
+   "pH 7,36 e PaCO2 de 40 mmHg."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Doenças respiratórias",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "GOLD 2026 (Global Initiative for Chronic Obstructive Lung Disease)",
+  "coment": "Na exacerbação da DPOC, a acidose respiratória, definida por PaCO2 a partir de 45 mmHg com pH até 7,35, indica ventilação não invasiva de dois níveis. A gasometria com pH 7,31 e PaCO2 de 58 mmHg preenche os dois critérios. PaCO2 elevada com pH normal (7,40 e 52 mmHg) mostra retenção crônica compensada, sem acidose. A enfermagem reconhece o achado, comunica de imediato, posiciona o paciente com cabeceira elevada, prepara a interface e monitora nível de consciência, frequência respiratória e nova gasometria, mantendo o oxigênio titulado para 88 a 92%.",
+  "porAlt": [
+   "Errada: há retenção de gás carbônico, mas o pH normal mostra compensação, sem acidose respiratória.",
+   "Correta: PaCO2 a partir de 45 mmHg com pH até 7,35 é acidose respiratória, indicação de VNI de dois níveis.",
+   "Errada: PaCO2 baixa com pH alto é alcalose respiratória por hiperventilação, não indicação de VNI.",
+   "Errada: pH e PaCO2 dentro da normalidade não configuram acidose respiratória.",
+   "Errada: com pH de 7,36 e PaCO2 de 40 mmHg não há hipercapnia nem acidose."
+  ]
+ },
+ {
+  "q": "Mulher de 28 anos com asma chega ao pronto atendimento em crise, falando frases completas, com frequência respiratória de 24 irpm e SpO2 de 93% em ar ambiente. Enquanto o médico prescreve o tratamento broncodilatador, a enfermeira decide sobre a oferta de oxigênio. Pela GINA 2026, qual a conduta correta?",
+  "alts": [
+   "Sem oxigênio por ora; só se SpO2 abaixo de 92%, com teto de 95%.",
+   "Oxigênio para manter SpO2 de 88 a 92%, como se faz na DPOC.",
+   "Oxigênio em máscara com reservatório para SpO2 de 100%.",
+   "Oxigênio em toda crise de asma, mantendo a SpO2 sempre acima de 96%.",
+   "Sem oxigênio, pois a GINA o reserva para SpO2 abaixo de 85%."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Doenças respiratórias",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "GINA 2026 (Global Initiative for Asthma)",
+  "coment": "O GINA 2026 indica oxigênio na crise de asma só quando a saturação está abaixo de 92% e, se ele for dado, com teto de 95% no adulto; oxigênio em excesso não traz benefício. Com SpO2 de 93% em ar ambiente, a paciente não precisa de oxigênio naquele momento, mas a saturação é reavaliada durante o tratamento. A faixa de 88 a 92% pertence à DPOC com risco de hipercapnia, recomendada pela British Thoracic Society e pelo GOLD. O GINA também deixou de recomendar salbutamol isolado, sem corticoide inalatório, para adolescentes e adultos.",
+  "porAlt": [
+   "Correta: a GINA 2026 indica oxigênio na crise só com SpO2 abaixo de 92% e, se dado, com teto de 95% no adulto.",
+   "Errada: a faixa de 88 a 92% é a da DPOC com risco de hipercapnia, não a da asma.",
+   "Errada: a GINA limita a saturação a 95% no adulto; buscar 100% é oxigênio em excesso.",
+   "Errada: o oxigênio não é rotina na crise; só entra com SpO2 abaixo de 92%.",
+   "Errada: o corte da GINA para iniciar oxigênio é SpO2 abaixo de 92%, não de 85%."
+  ]
+ },
+ {
+  "q": "Homem de 64 anos com DPOC, sintomático apesar do tratamento, usa inalador de pó seco. Na consulta, a enfermeira pede que ele demonstre o uso e observa inspiração lenta e fraca, sem conseguir gerar fluxo vigoroso. O médico cogita escalar a medicação. Segundo o GOLD 2026, o que a enfermeira deve fazer antes?",
+  "alts": [
+   "Apoiar a escalada, pois a técnica não interfere no controle da DPOC.",
+   "Orientar inspiração lenta e profunda, que é o ideal para o pó seco.",
+   "Manter o pó seco e acrescentar nebulização contínua no domicílio.",
+   "Perguntar se ele usa bem o inalador, dispensando a demonstração.",
+   "Relatar a técnica falha e sugerir aerossol dosimetrado com espaçador."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Doenças respiratórias",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "GOLD 2026 (Global Initiative for Chronic Obstructive Lung Disease)",
+  "coment": "Mais de dois terços dos pacientes erram algum passo do uso dos dispositivos inalatórios, e o GOLD 2026 manda conferir a técnica antes de escalar o tratamento: a técnica se demonstra na consulta, não se pergunta. O inalador de pó seco exige inspiração rápida e forte; quem não gera esse fluxo usa aerossol dosimetrado com espaçador, com inspiração lenta e profunda e pausa inspiratória a cada jato. A troca do dispositivo é prescrição, mas cabe à enfermeira identificar o erro, comunicá-lo e ensinar a nova técnica. Depois de corticoide inalatório, o paciente enxágua a boca e cospe.",
+  "porAlt": [
+   "Errada: mais de dois terços dos pacientes erram algum passo, e a técnica falha explica o mau controle.",
+   "Errada: o inalador de pó seco exige inspiração rápida e forte; a lenta é a do aerossol dosimetrado.",
+   "Errada: o problema é o dispositivo inadequado ao fluxo do paciente, não a falta de mais medicação.",
+   "Errada: a técnica se demonstra na consulta, não se pergunta; o relato não revela o erro.",
+   "Correta: o GOLD manda conferir a técnica antes de escalar; quem não gera fluxo usa aerossol com espaçador."
+  ]
+ },
+ {
+  "q": "Homem de 58 anos com doença renal crônica estágio G4, ainda sem acesso para diálise, está internado para tratar osteomielite e precisará de antibiótico endovenoso por várias semanas. A equipe discute instalar um cateter central de inserção periférica no braço esquerdo. Pelo KDOQI 2019, qual a posição da enfermeira?",
+  "alts": [
+   "Apoiar o PICC, que poupa as veias periféricas do antebraço para a fístula.",
+   "Puncionar o dorso da mão dominante, que não interfere na futura fístula.",
+   "Evitar o PICC e punções desnecessárias, preservando veias para a fístula.",
+   "Apoiar o PICC no braço não dominante, reservando o outro para a fístula.",
+   "Coletar exames por punção diária para poupar o cateter venoso periférico."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "KDOQI Clinical Practice Guideline for Vascular Access: 2019 Update (National Kidney Foundation)",
+  "coment": "O KDOQI 2019 pede preservar veias e artérias em todo paciente com doença renal crônica nos estágios G3 a G5 ou em diálise, sem cateter central de inserção periférica (PICC) e sem punções desnecessárias. A trombose e a estenose causadas pelo PICC e pelas punções repetidas inutilizam a veia de uma futura fístula arteriovenosa, que é o acesso preferido na maioria dos pacientes. A enfermeira participa da escolha do acesso, sinaliza a recomendação à equipe, concentra coletas para reduzir punções e registra a necessidade de proteger o membro.",
+  "porAlt": [
+   "Errada: o PICC causa trombose e estenose venosa que inutilizam a veia de uma futura fístula.",
+   "Errada: punções desnecessárias também lesam veias que podem ser necessárias para o acesso de diálise.",
+   "Correta: o KDOQI pede preservar veias nos estágios G3 a G5, sem PICC e sem punções desnecessárias.",
+   "Errada: o braço não dominante costuma ser o preferido para a fístula, e o PICC lesaria justamente ele.",
+   "Errada: punções diárias desnecessárias contrariam a recomendação de preservar o capital venoso."
+  ]
+ },
+ {
+  "q": "Mulher de 62 anos em hemodiálise três vezes por semana, com fístula arteriovenosa no antebraço esquerdo, está internada por celulite em membro inferior. Na avaliação do plantão da manhã, a enfermeira não palpa frêmito sobre a fístula e não ausculta sopro, que estavam presentes na noite anterior. Qual a conduta correta?",
+  "alts": [
+   "Registrar como achado esperado no dia seguinte à sessão de hemodiálise.",
+   "Suspeitar de trombose da fístula e comunicar como urgência vascular.",
+   "Aplicar compressa fria e reavaliar o frêmito no próximo plantão.",
+   "Aferir a PA nesse braço para confirmar a perfusão do membro.",
+   "Massagear o trajeto da fístula para tentar recuperar o frêmito."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "KDOQI Clinical Practice Guideline for Vascular Access: 2019 Update (National Kidney Foundation)",
+  "coment": "A fístula arteriovenosa é o acesso preferido para hemodiálise na maioria dos pacientes, e o braço da fístula é intocável: não se punciona, não se coleta sangue, não se instala acesso venoso e não se afere pressão nele. A enfermagem palpa o frêmito e ausculta o sopro, que são contínuos, a cada plantão, e ensina o paciente a palpar diariamente. Frêmito ausente sugere trombose, uma urgência vascular: a enfermeira comunica de imediato o médico e a equipe de nefrologia, registra o achado e a hora e mantém o braço protegido.",
+  "porAlt": [
+   "Errada: o frêmito e o sopro da fístula são contínuos; sumir de um plantão para o outro não é esperado.",
+   "Correta: frêmito e sopro ausentes sugerem trombose do acesso, que é urgência vascular.",
+   "Errada: esperar o próximo plantão atrasa a desobstrução e pode custar o acesso de diálise.",
+   "Errada: no braço da fístula não se afere pressão, não se punciona e não se coleta sangue.",
+   "Errada: manipular o trajeto não trata a trombose e atrasa a comunicação da urgência."
+  ]
+ },
+ {
+  "q": "Homem de 63 anos em hemodiálise por cateter de longa permanência na jugular direita apresenta, na primeira hora da sessão, calafrios, tremores e temperatura de 38,6 °C. O óstio do cateter está sem secreção e sem hiperemia, e a pressão arterial está estável. Qual a interpretação correta da enfermeira?",
+  "alts": [
+   "Reação esperada ao dialisador, sem necessidade de comunicar.",
+   "Infecção descartada, pois o óstio está limpo e sem hiperemia.",
+   "Febre de causa externa, a reavaliar ao término da sessão.",
+   "Infecção de corrente sanguínea pelo cateter até prova em contrário.",
+   "Síndrome do desequilíbrio, tratada com a redução do fluxo de sangue."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "KDOQI Clinical Practice Guideline for Vascular Access: 2019 Update (National Kidney Foundation)",
+  "coment": "O cateter de hemodiálise exige protocolo de cuidado do óstio e das conexões (KDOQI 2019, recomendação forte). Febre ou calafrio em paciente com cateter, sobretudo durante a sessão, quando o sangue circula pelo dispositivo, é infecção de corrente sanguínea até prova em contrário; óstio limpo não exclui a infecção. A enfermeira comunica o médico de imediato, verifica sinais vitais, segue o protocolo institucional de coleta de culturas e registra o horário do início dos sintomas. A síndrome do desequilíbrio é outra complicação, com cefaleia, náusea e confusão nas primeiras sessões.",
+  "porAlt": [
+   "Errada: atribuir a febre ao dialisador sem investigar atrasa o tratamento de uma possível bacteremia.",
+   "Errada: óstio sem sinais flogísticos não exclui infecção da corrente sanguínea relacionada ao cateter.",
+   "Errada: adiar a avaliação até o fim da sessão atrasa culturas e antibiótico num quadro potencialmente grave.",
+   "Correta: febre ou calafrio com cateter, sobretudo na sessão, é infecção de corrente sanguínea até prova em contrário.",
+   "Errada: a síndrome do desequilíbrio cursa com cefaleia, náusea e confusão nas primeiras sessões, sem febre."
+  ]
+ },
+ {
+  "q": "Homem de 66 anos, internado, apresenta fraqueza intensa e potássio sérico de 2,3 mEq/L, com onda U no eletrocardiograma. O médico prescreve reposição endovenosa de cloreto de potássio, e o paciente é colocado em monitor cardíaco. Qual cuidado de enfermagem na administração está correto?",
+  "alts": [
+   "Em bolus lento de 10 mL, seguido de soro para lavar a via.",
+   "Diluído, por gravidade livre, a 40 mmol/h para corrigir rápido.",
+   "Diluído, em bomba, a 10 mmol/h, sem passar de 20 mmol/h.",
+   "Em injeção direta na via do soro, lenta e com monitor.",
+   "Diluído, em bomba, a 30 mmol/h, dispensando o monitor cardíaco."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Kardalas E, et al. Hypokalemia: a clinical update. Endocr Connect 2018",
+  "coment": "A reposição oral é a regra na hipocalemia entre 3,0 e 3,4 mEq/L. Abaixo de 2,5 ou com sintomas, a reposição é endovenosa com monitor cardíaco, velocidade padrão de 10 mmol/h e máxima de 20 mmol/h (Kardalas, 2018), sempre diluída e em bomba de infusão. O cloreto de potássio concentrado é medicamento de alta vigilância: nunca em bolus nem em injeção direta, que causa parada cardíaca. Hipocalemia que não corrige pede dosagem de magnésio. A enfermagem confere a diluição, programa a bomba, observa o local de punção e acompanha o ritmo no monitor.",
+  "porAlt": [
+   "Errada: cloreto de potássio nunca é dado em bolus, que pode causar parada cardíaca.",
+   "Errada: o potássio exige bomba de infusão, e 40 mmol/h supera a velocidade máxima de 20 mmol/h.",
+   "Correta: a velocidade padrão é 10 mmol/h e a máxima 20 mmol/h, sempre diluído e em bomba de infusão.",
+   "Errada: injeção direta de cloreto de potássio, mesmo lenta, é proscrita pelo risco de parada cardíaca.",
+   "Errada: 30 mmol/h passa da máxima de 20 mmol/h, e a reposição endovenosa é feita com monitor."
+  ]
+ },
+ {
+  "q": "Mulher de 54 anos, internada para tratar pneumonia, está assintomática e com eletrocardiograma normal. O laboratório comunica potássio de 6,2 mmol/L numa amostra colhida após várias tentativas de punção, com garrote mantido por longo tempo. A dosagem do dia anterior era normal. Pela diretriz britânica, como se classifica o valor e qual a conduta da enfermeira?",
+  "alts": [
+   "Grave; administrar gluconato de cálcio antes de qualquer conferência.",
+   "Moderada; suspeitar de hemólise pelo garrote e comunicar para nova coleta.",
+   "Leve; registrar e repetir o exame na coleta de rotina do dia seguinte.",
+   "Moderada; o garrote prolongado reduz o potássio, e o valor real é maior.",
+   "Grave; iniciar insulina com glicose e suspender a glicemia capilar seriada."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "UK Kidney Association, Clinical Practice Guideline: Management of Hyperkalaemia in Adults (atualização de julho de 2026)",
+  "coment": "A diretriz britânica (UK Kidney Association) classifica a hipercalemia em leve (5,5 a 5,9 mmol/L), moderada (6,0 a 6,4) e grave (6,5 ou mais). Valor alto inesperado, em paciente assintomático e com eletrocardiograma normal, pode ser hemólise da amostra por garrote prolongado, que eleva falsamente o potássio. A enfermeira comunica o resultado e a circunstância da coleta ao médico, que decide a nova coleta, e mantém o paciente avaliado. No tratamento da hipercalemia verdadeira, o gluconato de cálcio protege o coração sem baixar o potássio, e a insulina com glicose exige glicemia seriada por horas.",
+  "porAlt": [
+   "Errada: grave é 6,5 mmol/L ou mais, e o cálcio é prescrição médica, não conduta antes da conferência.",
+   "Correta: 6,0 a 6,4 mmol/L é hipercalemia moderada, e o garrote prolongado pode hemolisar a amostra.",
+   "Errada: leve é 5,5 a 5,9 mmol/L; 6,2 é moderada e não pode esperar a coleta do dia seguinte.",
+   "Errada: a hemólise da amostra eleva falsamente o potássio, em vez de reduzi-lo.",
+   "Errada: 6,2 não é grave, e a insulina com glicose exige glicemia seriada pela hipoglicemia tardia."
+  ]
+ },
+ {
+  "q": "Homem de 70 anos com hiponatremia grave sintomática recebeu salina a 3% conforme prescrição. O sódio era de 116 mmol/L às 8 horas e de 124 mmol/L às 20 horas. Nas últimas 2 horas, a diurese passou a 250 mL/h. Pela diretriz europeia de hiponatremia, qual a conduta da enfermeira?",
+  "alts": [
+   "Manter a infusão, pois o limite seguro é de 20 mmol/L nas primeiras 24 h.",
+   "Comunicar quando o sódio passar de 135 mmol/L, alvo final da correção.",
+   "Aumentar a salina a 3%, pois a diurese elevada está perdendo sódio.",
+   "Comunicar já: a diurese acelera a correção e o limite é 10 mmol/L em 24 h.",
+   "Manter o esquema, pois a correção rápida só traz risco de edema cerebral."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Spasovski G, et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. Eur J Endocrinol 2014",
+  "coment": "Na hiponatremia com sintomas graves, a diretriz europeia de 2014 indica salina a 3%, 150 mL em 20 minutos, repetível. A correção tem limite: no máximo 10 mmol/L nas primeiras 24 horas e 8 mmol/L a cada 24 horas seguintes; acima disso, há risco de síndrome de desmielinização osmótica. O paciente já subiu 8 mmol/L em 12 horas, e a diurese súbita acima de 100 mL/h indica eliminação de água livre, que eleva o sódio rapidamente. A enfermagem controla a infusão em bomba, faz balanço rigoroso, comunica a diurese de imediato e colhe o sódio nos horários prescritos.",
+  "porAlt": [
+   "Errada: o limite é de 10 mmol/L nas primeiras 24 horas e 8 mmol/L a cada 24 horas seguintes.",
+   "Errada: o risco está na velocidade da correção, e não em atingir o valor normal de sódio.",
+   "Errada: a diurese aquosa eleva o sódio rapidamente; mais salina aumentaria o risco de desmielinização.",
+   "Correta: subiu 8 mmol/L em 12 horas e a diurese súbita acima de 100 mL/h acelera a correção, perto do limite de 10.",
+   "Errada: a correção rápida causa síndrome de desmielinização osmótica, não edema cerebral."
+  ]
+ },
+ {
+  "q": "Em outubro de 2026, a enfermeira responsável técnica de um hospital revisa o procedimento operacional padrão de transfusão. Um técnico pergunta qual regulamento técnico de hemoterapia está em vigor e o que ele exige da equipe logo após a instalação da bolsa. Qual a resposta correta?",
+  "alts": [
+   "Portaria GM/MS 11.685/2026; profissional ao lado nos primeiros 10 minutos.",
+   "Portaria 158/2016; profissional ao lado nos primeiros 10 minutos da infusão.",
+   "Portaria GM/MS 11.685/2026; profissional ao lado nos primeiros 30 minutos.",
+   "RDC 34/2014; profissional presente apenas durante a instalação da bolsa.",
+   "Portaria GM/MS 11.685/2026; sinais vitais dispensados antes do início."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 11.685/2026 (Anexo IV-B da Portaria de Consolidação nº 5/2017, vigente desde 30/09/2026)",
+  "coment": "A Portaria 158/2016, consolidada como Anexo IV da Portaria de Consolidação nº 5/2017, foi substituída pela Portaria GM/MS 11.685, de 2 de julho de 2026, que criou o Anexo IV-B e entrou em vigor em 30 de setembro de 2026. A rotina de enfermagem se manteve: sinais vitais até 60 minutos antes do início e ao término; primeiros 10 minutos com o profissional ao lado do paciente, quando surgem hemólise ABO e anafilaxia, e orientação para que ele avise se sentir algo diferente; cada bolsa em no máximo 4 horas. As boas práticas da ANVISA continuam na RDC 34/2014.",
+  "porAlt": [
+   "Correta: a Portaria GM/MS 11.685/2026 criou o Anexo IV-B e exige o profissional ao lado nos primeiros 10 minutos.",
+   "Errada: a Portaria 158/2016 foi substituída pela 11.685/2026, em vigor desde 30 de setembro de 2026.",
+   "Errada: o regulamento fixa os primeiros 10 minutos, período em que surgem hemólise ABO e anafilaxia.",
+   "Errada: a RDC 34/2014 trata das boas práticas da ANVISA e não dispensa o acompanhamento dos 10 minutos.",
+   "Errada: os sinais vitais são obrigatórios até 60 minutos antes do início e também ao término."
+  ]
+ },
+ {
+  "q": "No mesmo mês, um hospital registra duas reações transfusionais: uma reação febril não hemolítica em paciente que se recuperou sem sequelas e um óbito atribuído à transfusão. A enfermeira do comitê transfusional organiza as notificações no Notivisa. Pela Instrução Normativa ANVISA 196/2022, quais são os prazos?",
+  "alts": [
+   "Óbito em até 24 horas; febril dispensada por ser reação leve.",
+   "Ambas em até 72 horas, porque toda reação é notificada como grave.",
+   "Óbito em até 7 dias; febril até o último dia útil do mesmo mês.",
+   "Óbito em até 72 horas; febril registrada só no prontuário.",
+   "Óbito em até 72 horas; febril até o 15º dia útil do mês seguinte."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Instrução Normativa ANVISA 196/2022 (hemovigilância)",
+  "coment": "Toda reação transfusional, de qualquer gravidade, é notificada pelo Notivisa. Pela Instrução Normativa ANVISA 196/2022, o óbito atribuído à transfusão é comunicado em até 72 horas; as demais reações, até o 15º dia útil do mês seguinte. A reação febril não hemolítica, mesmo resolvida sem sequelas, entra na notificação mensal. Além da notificação, a enfermagem registra no prontuário a bolsa, o horário, os sinais vitais, a conduta e a evolução, e encaminha bolsa e equipo à agência transfusional quando a reação ocorre.",
+  "porAlt": [
+   "Errada: o prazo do óbito é de 72 horas, e toda reação, de qualquer gravidade, é notificada.",
+   "Errada: só o óbito tem o prazo de 72 horas; as demais reações seguem o prazo mensal.",
+   "Errada: o óbito é comunicado em até 72 horas, e as demais até o 15º dia útil do mês seguinte.",
+   "Errada: além do registro no prontuário, toda reação é notificada pelo Notivisa.",
+   "Correta: o óbito atribuído à transfusão é comunicado em até 72 horas; as demais reações, até o 15º dia útil do mês seguinte."
+  ]
+ },
+ {
+  "q": "Mulher de 70 anos, internada na clínica médica, vai receber um concentrado de hemácias. Tem um único acesso venoso periférico, por onde corre Ringer lactato, e há um antibiótico endovenoso prescrito para o horário em que a transfusão estará em curso. Qual conduta da enfermagem está correta?",
+  "alts": [
+   "Manter o Ringer lactato em Y, pois o cálcio protege as hemácias.",
+   "Equipo próprio, sem Ringer lactato nem antibiótico na via do sangue.",
+   "Diluir o antibiótico na bolsa de hemácias para poupar o acesso.",
+   "Aquecer a bolsa em micro-ondas e infundir junto com o Ringer.",
+   "Antibiótico em Y durante a transfusão, desde que compatível com o soro."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 11.685/2026 (Anexo IV-B da Portaria de Consolidação nº 5/2017, vigente desde 30/09/2026); RDC ANVISA 34/2014",
+  "coment": "Na transfusão, nenhum medicamento é infundido na mesma via do hemocomponente, e o sangue corre em equipo próprio de transfusão. O Ringer lactato, pelo cálcio que contém, coagula o sangue citratado. Plaquetas não se aquecem nem se refrigeram. Com acesso único, a enfermagem comunica o médico para programar o antibiótico antes ou depois da bolsa, ou para obter outro acesso, e mantém soro fisiológico como solução compatível. Cada bolsa corre em no máximo 4 horas, com registro da bolsa, do volume, dos sinais vitais e de qualquer intercorrência no prontuário.",
+  "porAlt": [
+   "Errada: o cálcio do Ringer lactato reverte o citrato e coagula o sangue da bolsa.",
+   "Correta: o sangue corre em equipo próprio, sem medicamento na mesma via, e o Ringer lactato coagula o sangue citratado.",
+   "Errada: nenhum medicamento é acrescentado à bolsa nem infundido na mesma via do sangue.",
+   "Errada: o aquecimento sem equipamento próprio lesa as hemácias, e o Ringer coagula o sangue citratado.",
+   "Errada: a compatibilidade com o soro não autoriza medicamento na via do hemocomponente."
+  ]
+ },
+ {
+  "q": "Homem de 68 anos, internado para cirurgia eletiva, nunca foi transfundido. A amostra pré-transfusional foi colhida há cinco dias, e agora há prescrição de concentrado de hemácias. A técnica de enfermagem pergunta se precisa colher nova amostra antes de solicitar a bolsa à agência transfusional. Pelo Anexo IV-B, qual a resposta?",
+  "alts": [
+   "Inválida, pois toda amostra pré-transfusional vale por 72 horas.",
+   "Válida, pois a amostra pré-transfusional vale por até 30 dias.",
+   "Inválida, pois a amostra vale 48 horas em pacientes com mais de 60 anos.",
+   "Válida, pois sem transfusão ou gestação em 3 meses vale até sete dias.",
+   "Inválida, pois a amostra deve ser colhida no mesmo dia da transfusão."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 11.685/2026 (Anexo IV-B da Portaria de Consolidação nº 5/2017, vigente desde 30/09/2026)",
+  "coment": "A Portaria GM/MS 11.685/2026 criou o Anexo IV-B da Portaria de Consolidação nº 5/2017, em vigor desde 30 de setembro de 2026. Ele aceita amostra pré-transfusional válida por até sete dias em quem não foi transfundido nem engravidou nos últimos três meses; nos demais, a validade é de 72 horas, porque transfusão e gestação recentes podem formar anticorpos novos. O paciente nunca foi transfundido e é homem, então a amostra de cinco dias continua válida. Erro de identificação na coleta da amostra é a causa dominante da hemólise ABO, e a conferência à beira do leito continua obrigatória.",
+  "porAlt": [
+   "Errada: 72 horas é a validade para quem foi transfundido ou engravidou nos últimos três meses.",
+   "Errada: o regulamento fixa até sete dias, não 30 dias, mesmo sem transfusão prévia.",
+   "Errada: a validade depende de transfusão ou gestação recente, não da idade do paciente.",
+   "Correta: o Anexo IV-B aceita amostra de até sete dias em quem não foi transfundido nem engravidou em três meses.",
+   "Errada: o regulamento não exige coleta no mesmo dia; admite até sete dias nesse caso."
+  ]
+ },
+ {
+  "q": "Homem de 59 anos recebe concentrado de hemácias na enfermaria. Aos 40 minutos, surgem placas de urticária no tronco e prurido. Temperatura, pressão arterial, frequência cardíaca e saturação estão iguais às do início, sem dispneia, sibilos ou edema de lábios. Qual a conduta de enfermagem correta?",
+  "alts": [
+   "Manter a infusão e dar anti-histamínico, sem interromper a bolsa.",
+   "Parar e desprezar a bolsa, pois nenhuma reação permite retomar essa infusão.",
+   "Reduzir o gotejamento à metade e reavaliar a pele após 30 minutos.",
+   "Parar e aplicar adrenalina intramuscular antes de comunicar o médico.",
+   "Parar, avaliar e comunicar; retomar a mesma bolsa só com liberação médica."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 11.685/2026 (Anexo IV-B da Portaria de Consolidação nº 5/2017, vigente desde 30/09/2026); Instrução Normativa ANVISA 196/2022",
+  "coment": "Diante de qualquer sinal novo na transfusão, a conduta inicial é a mesma: parar a infusão e manter o acesso com soro fisiológico, aferir sinais vitais, conferir de novo paciente e bolsa e comunicar o médico e o serviço de hemoterapia. A reação alérgica leve, com urticária e prurido isolados e sinais vitais estáveis, é a única em que se pode retomar a mesma bolsa, após o anti-histamínico prescrito e com liberação. Anafilaxia, com hipotensão, broncoespasmo ou angioedema, pede adrenalina intramuscular. Toda reação é registrada e notificada pelo Notivisa (IN ANVISA 196/2022).",
+  "porAlt": [
+   "Errada: a conduta inicial em qualquer reação é parar a transfusão e manter o acesso com soro fisiológico.",
+   "Errada: a reação alérgica leve isolada é exceção que permite retomar a bolsa com liberação médica.",
+   "Errada: reduzir o gotejamento mantém a exposição; a transfusão deve ser parada para avaliação.",
+   "Errada: adrenalina é para anafilaxia, com hipotensão, broncoespasmo ou angioedema, ausentes no caso.",
+   "Correta: urticária isolada é a única reação em que se pode retomar a mesma bolsa, após anti-histamínico e liberação."
+  ]
+ },
+ {
+  "q": "Homem de 61 anos, na enfermaria cirúrgica, com balanço hídrico negativo nas últimas 24 horas e função cardíaca normal, recebe plasma fresco congelado. Duas horas após o início, apresenta dispneia intensa e SpO2 de 84% em ar ambiente, com PA de 112/68 mmHg, sem turgência jugular e sem edema periférico. A transfusão foi interrompida e o acesso mantido com soro fisiológico. Qual a hipótese mais provável e o ponto central do suporte?",
+  "alts": [
+   "TRALI; suporte ventilatório, pois o diurético não traz benefício.",
+   "TACO; cabeceira elevada, oxigênio e furosemida prescrita.",
+   "Febril não hemolítica; antitérmico e retomada da mesma bolsa.",
+   "Alérgica leve; anti-histamínico e retomada da mesma bolsa.",
+   "TACO; reduzir o gotejamento à metade e manter a transfusão."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Portaria GM/MS 11.685/2026 (Anexo IV-B da Portaria de Consolidação nº 5/2017, vigente desde 30/09/2026); Instrução Normativa ANVISA 196/2022",
+  "coment": "TRALI é a lesão pulmonar aguda relacionada à transfusão: dispneia e hipoxemia sem congestão, em até 6 horas, e o tratamento é o suporte ventilatório; diurético não ajuda. TACO, a sobrecarga circulatória, cursa com dispneia, hipertensão e turgência jugular em até 12 horas e responde a cabeceira elevada, oxigênio e diurético prescrito. Balanço negativo, PA normal e ausência de turgência jugular afastam a sobrecarga. A enfermagem para a transfusão, mantém o acesso com soro fisiológico, comunica médico e agência transfusional, envia bolsa e equipo e amostra de outro acesso, registra e notifica no Notivisa.",
+  "porAlt": [
+   "Correta: dispneia e hipoxemia sem congestão, em até 6 horas, sugerem TRALI, em que o diurético não ajuda.",
+   "Errada: TACO cursa com hipertensão e turgência jugular, ausentes num paciente com balanço negativo.",
+   "Errada: não há febre, e a reação febril não permite retomar a bolsa; a hipoxemia grave indica outra reação.",
+   "Errada: não há urticária, e a hipoxemia grave não é compatível com reação alérgica leve.",
+   "Errada: não é TACO, e nenhuma reação com dispneia permite manter a transfusão."
+  ]
+ },
+ {
+  "q": "No ambulatório de quimioterapia de um hospital, falta enfermeiro em um turno, e a coordenação propõe que os técnicos de enfermagem ministrem os quimioterápicos antineoplásicos já preparados pela farmácia, sob supervisão a distância. A enfermeira responsável técnica se opõe com base na Res. COFEN 569/2018. Qual fundamento está correto?",
+  "alts": [
+   "O técnico ministra o antineoplásico se o enfermeiro estiver no setor.",
+   "Ministrar o antineoplásico é privativo do médico, pela Res. COFEN 569/2018.",
+   "Ministrar o antineoplásico é privativo do enfermeiro pela Res. COFEN 569/2018.",
+   "O técnico ministra o antineoplásico depois de curso de capacitação em oncologia.",
+   "Ministrar é atividade do farmacêutico, cabendo ao enfermeiro só a consulta."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Res. COFEN 569/2018 (regulamento técnico da enfermagem em quimioterapia antineoplásica)",
+  "coment": "A Res. COFEN 569/2018 aprova o regulamento técnico da enfermagem em quimioterapia antineoplásica e classifica o serviço como de alta complexidade. São competências privativas do enfermeiro planejar, organizar, supervisionar, executar e avaliar as atividades de enfermagem; elaborar protocolos para efeitos colaterais; realizar a consulta de enfermagem; ministrar o quimioterápico antineoplásico conforme farmacocinética e protocolo; e promover o acesso venoso totalmente implantável. O técnico de enfermagem executa ações de enfermagem ao paciente em quimioterapia sob supervisão e prescrição do enfermeiro, sem ministrar o antineoplásico.",
+  "porAlt": [
+   "Errada: a presença do enfermeiro não transfere ao técnico a administração, que é privativa do enfermeiro.",
+   "Errada: a resolução atribui a administração ao enfermeiro, conforme farmacocinética e protocolo.",
+   "Correta: o regulamento da Res. COFEN 569/2018 reserva ao enfermeiro ministrar o quimioterápico antineoplásico.",
+   "Errada: capacitação não altera a competência; o técnico atua sob supervisão e prescrição do enfermeiro.",
+   "Errada: a administração do antineoplásico é competência privativa do enfermeiro, não do farmacêutico."
+  ]
+ },
+ {
+  "q": "Mulher de 47 anos recebe doxorrubicina por cateter venoso periférico no antebraço. Após alguns minutos, refere ardor no local, a enfermeira observa edema ao redor da punção, e o refluxo de sangue deixou de vir. Qual é a sequência inicial correta de enfermagem diante da suspeita de extravasamento?",
+  "alts": [
+   "Retirar o cateter de imediato e comprimir o local com gaze por 5 minutos.",
+   "Lavar o cateter com 20 mL de soro para diluir o fármaco e manter a infusão.",
+   "Reduzir a velocidade da infusão e observar a evolução do edema por 1 hora.",
+   "Interromper, retirar o cateter e aplicar compressa morna com hialuronidase.",
+   "Interromper, aspirar o resíduo pelo cateter, retirá-lo, elevar e demarcar a área."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Diretriz ESMO-EONS 2012 de extravasamento de quimioterapia (Pérez Fidalgo et al., Ann Oncol 2012) e diretriz ONS/ASCO 2026",
+  "coment": "Vesicante é o fármaco capaz de causar necrose tecidual se sai da veia, como a doxorrubicina, uma antraciclina. Diante de dor, ardor, edema ou parada do refluxo durante a infusão, a enfermagem interrompe a infusão, mantém o dispositivo para aspirar o resíduo pelo próprio cateter, retira-o, eleva o membro, demarca a área, comunica o médico e segue o protocolo institucional do fármaco, com registro e acompanhamento. As diretrizes ESMO-EONS 2012 e ONS/ASCO 2026 indicam compressa fria para a maioria dos vesicantes, como as antraciclinas, que têm o dexrazoxano como antídoto.",
+  "porAlt": [
+   "Errada: retirar o cateter antes de aspirar o resíduo perde a chance de remover parte do vesicante.",
+   "Errada: lavar o cateter empurra mais vesicante para o tecido, e a infusão deve ser interrompida.",
+   "Errada: dor, edema e perda do refluxo exigem interromper, não apenas reduzir a velocidade.",
+   "Errada: compressa morna com hialuronidase é para alcaloides da vinca; antraciclina pede compressa fria.",
+   "Correta: interrompe-se a infusão, aspira-se o resíduo pelo próprio cateter, retira-se, eleva-se o membro e demarca-se a área."
+  ]
+ },
+ {
+  "q": "Na unidade de quimioterapia, homem de 66 anos com linfoma recebe vincristina por cateter periférico quando apresenta ardor, edema e perda do refluxo no local da punção. A enfermeira interrompe a infusão, aspira o resíduo pelo cateter, retira-o, eleva o membro, demarca a área e comunica o médico. Pelo protocolo das diretrizes de extravasamento, qual medida local se segue?",
+  "alts": [
+   "Compressa morna e hialuronidase, conduta própria dos alcaloides da vinca.",
+   "Compressa fria e dexrazoxano, conduta própria dos alcaloides da vinca.",
+   "Compressa fria e hialuronidase, conduta comum a qualquer vesicante.",
+   "Compressa morna e dexrazoxano, antídoto específico da vincristina.",
+   "Nenhuma compressa, pois a vincristina não é classificada como vesicante."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "Diretriz ESMO-EONS 2012 de extravasamento de quimioterapia (Pérez Fidalgo et al., Ann Oncol 2012) e diretriz ONS/ASCO 2026",
+  "coment": "As diretrizes ESMO-EONS 2012 e ONS/ASCO 2026 separam as condutas locais do extravasamento por classe de fármaco. Para a maioria dos vesicantes, como as antraciclinas (doxorrubicina, por exemplo), usa-se compressa fria, e o dexrazoxano é o antídoto. Para os alcaloides da vinca, como a vincristina, usa-se compressa morna com hialuronidase. A sequência inicial é comum: interromper, aspirar o resíduo pelo cateter, retirar, elevar o membro, demarcar a área e comunicar. A Res. COFEN 569/2018 atribui ao enfermeiro elaborar protocolos para prevenção e tratamento dos efeitos colaterais da quimioterapia.",
+  "porAlt": [
+   "Correta: nos alcaloides da vinca as diretrizes indicam compressa morna com hialuronidase.",
+   "Errada: compressa fria e dexrazoxano são a conduta das antraciclinas, não dos alcaloides da vinca.",
+   "Errada: as condutas locais são separadas por classe; frio e hialuronidase não formam uma conduta universal.",
+   "Errada: o dexrazoxano é antídoto das antraciclinas, não da vincristina.",
+   "Errada: os alcaloides da vinca são vesicantes e têm conduta local própria."
+  ]
+ },
+ {
+  "q": "Mulher de 52 anos chega à classificação de risco 10 dias após um ciclo de quimioterapia, com temperatura oral de 38,5 °C e calafrios. O hemograma colhido na véspera mostrava 400 neutrófilos/mm³. Tem cateter venoso totalmente implantado e está hemodinamicamente estável. Qual a conduta de enfermagem prioritária?",
+  "alts": [
+   "Aguardar novo hemograma antes de colher culturas e iniciar o antibiótico.",
+   "Administrar o antibiótico em até 6 horas, após o resultado das culturas.",
+   "Priorizar, colher hemoculturas e administrar o antibiótico em até 1 hora.",
+   "Aferir a temperatura retal para confirmar a febre antes de classificar.",
+   "Dar o antibiótico antes das hemoculturas, dispensando a coleta do cateter."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "IDSA 2010 (neutropenia febril) e ASCO/IDSA 2018 (fever and neutropenia)",
+  "coment": "Pela IDSA, febre na neutropenia é temperatura oral única de 38,3 °C ou mais, ou de 38,0 °C ou mais mantida por uma hora, com neutrófilos abaixo de 500/mm³ ou com previsão de cair abaixo disso. A ASCO/IDSA 2018 manteve a primeira dose de antibiótico em até 1 hora da triagem, depois das hemoculturas (periférica e de cada via do cateter), sem esperar exames. A enfermagem prioriza esse paciente na classificação de risco, colhe as culturas e administra o antibiótico prescrito no prazo. No exame, não se faz toque retal, pelo risco de lesão de mucosa e bacteremia.",
+  "porAlt": [
+   "Errada: a ASCO/IDSA manda não esperar exames; aguardar o hemograma atrasa o antibiótico.",
+   "Errada: o prazo é de até 1 hora da triagem, e não se espera o resultado das culturas.",
+   "Correta: neutropenia febril pede antibiótico em até 1 hora da triagem, após hemoculturas, sem esperar exames.",
+   "Errada: no paciente neutropênico não se faz toque retal nem medida retal, pelo risco de bacteremia.",
+   "Errada: as hemoculturas, periférica e de cada via do cateter, vêm antes da primeira dose."
+  ]
+ },
+ {
+  "q": "Homem de 31 anos acompanha a companheira, grávida de 9 semanas, na primeira consulta de pré-natal da unidade básica. Ele nunca fez exames de rotina e diz que só procura o serviço quando adoece. Segundo a Estratégia Pré-Natal do Parceiro, ligada à PNAISH, qual a conduta da enfermeira?",
+  "alts": [
+   "Agendar os testes rápidos do parceiro para depois do nascimento do bebê.",
+   "Restringir o atendimento à gestante, pois o parceiro vai a outro serviço.",
+   "Oferecer testes rápidos somente se ele relatar sintoma de infecção.",
+   "Oferecer testes rápidos e exames de rotina já neste primeiro contato.",
+   "Encaminhar o parceiro ao urologista antes de qualquer exame na unidade."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Saúde do homem",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 1.944/2009 (PNAISH); Guia do Pré-Natal do Parceiro para Profissionais de Saúde (MS, 2016)",
+  "coment": "A Política Nacional de Atenção Integral à Saúde do Homem (Portaria GM/MS 1.944/2009, consolidada na Portaria de Consolidação nº 2/2017) tem a paternidade e o cuidado entre seus eixos. A Estratégia Pré-Natal do Parceiro usa a gestação como porta de entrada do homem no serviço, com testes rápidos e exames de rotina já no primeiro contato, e vê a paternidade como fator de proteção. Para o homem que só procura a unidade quando adoece, o pré-natal é a oportunidade de acolhimento, de atualização da saúde e de prevenção de agravos para ele, a gestante e o bebê.",
+  "porAlt": [
+   "Errada: adiar para depois do parto perde a oportunidade de diagnóstico e de prevenção da transmissão vertical.",
+   "Errada: a estratégia propõe acolher o parceiro na própria unidade, aproveitando o pré-natal.",
+   "Errada: os testes rápidos são oferecidos como rotina, independentemente de sintomas.",
+   "Correta: a estratégia usa a gestação como porta de entrada do homem, com testes rápidos e exames já no primeiro contato.",
+   "Errada: os testes e exames de rotina são feitos na atenção básica, sem exigir encaminhamento prévio."
+  ]
+ },
+ {
+  "q": "Sobre a Política Nacional de Atenção Integral à Saúde do Homem (PNAISH), analise as afirmativas. I. Foi instituída pela Portaria GM/MS 1.944/2009 e consolidada na Portaria de Consolidação nº 2/2017. II. Paternidade e cuidado é um de seus eixos temáticos. III. Organiza-se em três eixos: acesso, doenças prevalentes e violências. IV. O eixo de saúde sexual e reprodutiva restringe a abordagem ao campo biológico. Estão corretas as afirmativas",
+  "alts": [
+   "I e III, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "II e IV, apenas.",
+   "III e IV, apenas."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Saúde do homem",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.944/2009 (PNAISH), consolidada na Portaria de Consolidação nº 2/2017",
+  "coment": "A PNAISH foi instituída pela Portaria GM/MS 1.944/2009 e está consolidada na Portaria de Consolidação nº 2/2017. Organiza-se em cinco eixos temáticos: acesso e acolhimento; saúde sexual e saúde reprodutiva; paternidade e cuidado; doenças prevalentes na população masculina; e prevenção de violências e acidentes. O eixo de saúde sexual e saúde reprodutiva aborda a sexualidade masculina nos campos psicológico, biológico e social, conteúdo cobrado pelo ENARE em 2024. Por isso, I e II são verdadeiras, III é falsa (são cinco eixos) e IV é falsa.",
+  "porAlt": [
+   "Errada: a afirmativa III é falsa, pois a política se organiza em cinco eixos temáticos, não em três.",
+   "Correta: a PNAISH vem da Portaria 1.944/2009, consolidada em 2017, e paternidade e cuidado é um de seus eixos.",
+   "Errada: a afirmativa III é falsa; faltam saúde sexual e reprodutiva e paternidade e cuidado.",
+   "Errada: a afirmativa IV é falsa, pois a sexualidade é abordada nos campos psicológico, biológico e social.",
+   "Errada: as afirmativas III e IV são falsas, e a I, que é verdadeira, ficou de fora."
+  ]
+ }
+]
