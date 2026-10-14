@@ -238,13 +238,13 @@
   "cenario": "ger",
   "comp": "norma",
   "nivel": "r3",
-  "base": "NR-7, Anexo V, radiações ionizantes (Portaria SEPRT 6.734/2020)",
-  "coment": "Na exposição acidental a níveis elevados de radiação ionizante, a avaliação médica inclui hemograma completo imediatamente e 24 horas após a exposição, como prevê a regulamentação do controle médico de expostos (NR-7, Anexo V). A lógica é clínica: a queda dos linfócitos nas primeiras 24 a 48 horas é o marcador laboratorial mais precoce da gravidade da irradiação, e a comparação com a amostra basal estima a dose. Os dosímetros do trabalhador envolvido também seguem para leitura imediata, e a investigação pode incluir dosimetria citogenética.",
+  "base": "NR-7, Anexo V, item 5.3 (Portaria SEPRT 6.734/2020)",
+  "coment": "O item 5.3 do Anexo V da NR-7 diz: na exposição ocupacional acidental a níveis elevados de radiação ionizante, faz-se nova avaliação médica com coleta de hemograma completo imediatamente e 24 horas após a exposição. O item 5.2 trata de outra situação: exposição acima do limite de dose anual exige nova avaliação médica para decidir sobre a continuidade na atividade, com emissão de novo ASO. A lógica clínica do hemograma seriado é que a queda dos linfócitos nas primeiras horas é o marcador laboratorial precoce da gravidade da irradiação, comparada à amostra basal.",
   "porAlt": [
-   "Errada: o intervalo previsto para a segunda coleta é de 24 horas, não 12.",
-   "Correta: hemograma imediatamente e 24 horas após a exposição, para detectar a linfopenia precoce.",
-   "Errada: 36 horas não é o intervalo da norma.",
-   "Errada: 48 horas atrasa a segunda amostra além do previsto.",
+   "Errada: a NR-7 fixa a segunda coleta em 24 horas, não em 12.",
+   "Correta: é o texto do item 5.3 do Anexo V da NR-7, hemograma completo imediatamente e 24 horas após a exposição.",
+   "Errada: 36 horas não é o intervalo do item 5.3 da NR-7.",
+   "Errada: 48 horas atrasa a segunda amostra além das 24 horas previstas na norma.",
    "Errada: 72 horas não é o intervalo previsto para a segunda coleta."
   ],
   "fonte": {

@@ -21,7 +21,9 @@ CirurgiaMed** para o que é comum (chave por conteúdo, Fisher-Yates, viés de t
   programático (Anexo III) idêntico nas três edições. Cadernos públicos → questões reais.
 - **EBSERH 2024** (FGV, prova 16/03/2025): 60 q (10 Português, 5 Legislação EBSERH, 15 Políticas, 30
   específicas), 4 h, mínimo 30 pontos; um caderno para os 31 cargos de Enfermeiro. Só q16–60 entram no app.
-  EBSERH 2023 (IBFC): cadernos não achados em fonte oficial.
+  EBSERH 2023 (IBFC, Edital 03 Assistencial): 37 cadernos de Enfermeiro e gabarito definitivo no servidor
+  oficial `fs.ibfc.org.br` (URLs em `provas-reais/relatorios/extracao_ebserh_antigos.md`); q21–30 (SUS) comuns aos
+  37 cargos = uma cópia com `fonte.tb`; q41–60 específicas. EBSERH 2019: só gabarito preliminar público (fora).
 - Residências com caderno público: UFPA 2025 (50 q, A–E), UNICAMP 2026 (40 q A–D por programa; parte geral
   comum aos três; Saúde Mental = mesmas 40 do Adulto e Idoso), HCPA 2025 (40 q A–D; gabarito em imagem,
   lido por OCR visual duas vezes).
@@ -50,6 +52,11 @@ International Guideline 2025, AHA 2025. O Anexo III do ENARE ainda diz "SAE": en
   raciocínio diagnóstico / intervenção e técnica / segurança, ética e registro; 5,0 por caso.
 - Turma desligada (sem função de backend `enfermare`). Sinalização e erratas precisam de `enfermare` na lista
   `APPS` de `MedTech/backend/functions/sinal.js` e deploy (ele roda o `.command`).
+
+## Fluxo de publicação
+`bash docs/publica.sh "msg"` (para no primeiro erro). Lotes em escrita: um nome por linha em
+`lotes-questoes/EM_ANDAMENTO.txt` (fora do banco e do commit). Leitura sem `_entradas_<nome>.json` fica fora do
+índice e do commit. Cartões/casos: novo arquivo SEMPRE no fim de ORDEM_CARTOES/ORDEM_CASOS (SM-2 por índice).
 
 ## Teste local
 `bash docs/prepara_teste.sh <scratchpad>/teste-ef` (cópia com `fake-firebase.js` e sem SW) e o preview

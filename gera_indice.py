@@ -10,6 +10,8 @@ import re, pathlib, json, html
 itens = []
 for f in sorted(pathlib.Path('leituras').glob('*.html')):
     if f.name.startswith('_'): continue
+    # leitura ainda em escrita (sem _entradas_<nome>.json) não entra na busca
+    if not pathlib.Path('leituras', f'_entradas_{f.stem}.json').exists(): continue
     s = f.read_text()
     tit = re.search(r'<h1[^>]*>(.*?)</h1>', s, re.S)
     secs = []

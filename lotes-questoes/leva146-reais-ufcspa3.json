@@ -1063,13 +1063,13 @@
   "cenario": "uti",
   "comp": "norma",
   "nivel": "r3",
-  "base": "Portaria GM/MS 2.862/2023 (altera a Portaria de Consolidação 3/2017 sobre UTI e UCI)",
-  "coment": "A Portaria GM/MS 2.862/2023 reescreveu na Portaria de Consolidação 3/2017 os requisitos de habilitação de UTI e UCI no SUS. Na lista mínima de equipamentos para habilitar UTI adulto, o gabarito definitivo considerou corretas as três quantidades: desfibrilador e cardioversor com bateria, 1 para cada 10 leitos; marcapasso temporário, 1 para cada 10 leitos; monitor de débito cardíaco, 1 por unidade. Não confunda com a RDC ANVISA 7/2010, norma sanitária de funcionamento, que pede desfibrilador e cardioversor na proporção de 1 para cada 5 leitos.",
+  "base": "Portaria GM/MS 2.862/2023, Anexo XXIX da Portaria de Consolidação 3/2017, item 1.6 (equipamentos da UTI adulto)",
+  "coment": "A Portaria GM/MS 2.862/2023 reescreveu o Título X da Portaria de Consolidação 3/2017 e criou o Anexo XXIX com os requisitos de habilitação de UTI e UCI no SUS. No item 1.6, lista mínima de equipamentos da UTI adulto, constam: desfibrilador e cardioversor com bateria, 1 para cada 10 leitos; marcapasso cardíaco temporário, eletrodos e gerador, 1 para cada 10 leitos; monitor de débito cardíaco, 1 por unidade. As três afirmativas reproduzem a portaria. Habilitação no SUS é diferente da RDC ANVISA 7/2010, norma sanitária de funcionamento com quantitativos próprios.",
   "porAlt": [
-   "Exclui I e III, que o gabarito definitivo considera correspondentes à lista da Portaria 2.862/2023.",
-   "Exclui o monitor de débito cardíaco, 1 por unidade, que também está na lista mínima da portaria.",
-   "Exclui o marcapasso temporário, 1 para cada 10 leitos, que também consta da lista da portaria.",
-   "Correta: o gabarito definitivo considera as três quantidades de acordo com a lista mínima da Portaria 2.862/2023."
+   "Errada: as afirmativas I e III também reproduzem o item 1.6 da portaria, não só a II.",
+   "Errada: exclui o monitor de débito cardíaco, que o item 1.6 exige na quantidade de 1 por unidade.",
+   "Errada: exclui o marcapasso temporário, que o item 1.6 exige na proporção de 1 para cada 10 leitos.",
+   "Correta: o item 1.6 do Anexo XXIX traz as três quantidades: desfibrilador 1 para 10 leitos, marcapasso 1 para 10 leitos e monitor de débito cardíaco 1 por unidade."
   ],
   "fonte": {
    "banca": "UFCSPA (FUNDMED)",
@@ -1093,13 +1093,13 @@
   "cenario": "uti",
   "comp": "norma",
   "nivel": "r3",
-  "base": "Portaria GM/MS 2.862/2023 (altera a Portaria de Consolidação 3/2017 sobre UTI e UCI)",
-  "coment": "Para habilitar UTI pediátrica tipo III, a Portaria GM/MS 2.862/2023 exige enfermeiro responsável técnico com habilitação em terapia intensiva pediátrica comprovada por título e enfermeiro plantonista exclusivo da unidade na proporção de 1 para cada 5 leitos ou fração; o gabarito definitivo aceitou as afirmativas I e II. A afirmativa III foi considerada errada porque a regra dos médicos plantonistas da portaria não é a que ela descreve. Habilitação no SUS é diferente da RDC ANVISA 7/2010, que fixa mínimos sanitários.",
+  "base": "Portaria GM/MS 2.862/2023, Anexo XXIX da Portaria de Consolidação 3/2017, item 4.7 (UTI pediátrica tipo III)",
+  "coment": "Pelo item 4.7 do Anexo XXIX (Portaria GM/MS 2.862/2023), a UTI pediátrica tipo III cumpre os critérios do tipo II e acrescenta: enfermeiro responsável técnico com habilitação em terapia intensiva pediátrica comprovada por título; um enfermeiro plantonista para cada 5 leitos ou fração, exclusivo da unidade; e ao menos 50% dos médicos plantonistas com título em terapia intensiva pediátrica, para cada 5 leitos ou fração. A afirmativa III erra a proporção: 1 médico para cada 10 leitos é a regra do tipo II (item 4.4), não a do tipo III. Ficam corretas I e II.",
   "porAlt": [
-   "Exclui a afirmativa I, mas a exigência de enfermeiro RT com título em terapia intensiva pediátrica foi considerada correta.",
-   "Correta: o gabarito aceita o RT com título e o enfermeiro plantonista exclusivo para cada 5 leitos ou fração.",
-   "Inclui a afirmativa III, que o gabarito considera divergente da regra para médicos plantonistas, e exclui a II.",
-   "A afirmativa III foi considerada errada, então nem todas estão corretas."
+   "Errada: a afirmativa I também está correta, porque o item 4.7 exige enfermeiro RT com título em terapia intensiva pediátrica.",
+   "Correta: o item 4.7 exige enfermeiro RT com título e um enfermeiro plantonista exclusivo para cada 5 leitos ou fração.",
+   "Errada: a III troca a proporção do tipo III (médicos plantonistas para cada 5 leitos ou fração) pela do tipo II, de 1 para cada 10 leitos.",
+   "Errada: a III está incorreta, porque no tipo III a proporção de médicos plantonistas é para cada 5 leitos ou fração, não 10."
   ],
   "fonte": {
    "banca": "UFCSPA (FUNDMED)",

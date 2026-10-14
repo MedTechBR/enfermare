@@ -2670,7 +2670,7 @@ window.BANCO=[
 "cenario": "emg",
 "comp": "cuid",
 "nivel": "r1",
-"base": "ATLS, Advanced Trauma Life Support, 10ª ed. (American College of Surgeons, 2018), trauma torácico e drenagem pleural",
+"base": "ATLS, Advanced Trauma Life Support, 11ª ed. (American College of Surgeons, 2025), trauma torácico e drenagem pleural",
 "coment": "O dreno de tórax em selo d'água funciona como válvula unidirecional: o ar e o líquido saem da pleura, mas não retornam, desde que a extremidade do tubo fique submersa no nível marcado do frasco. Por isso a enfermagem verifica e mantém o nível do selo d'água, mantém o frasco sempre abaixo do tórax, observa a oscilação da coluna com a respiração e o borbulhamento, evita dobras e não clampeia o dreno sem indicação. Também mede e registra o volume e o aspecto do débito, estimula tosse, respiração profunda e mobilização precoce, que ajudam a reexpandir o pulmão, e mantém a dieta conforme a prescrição.",
 "porAlt": [
 "Restringir ao leito é desnecessário e prejudica a reexpansão; a mobilização é estimulada com cuidado com o sistema.",
@@ -7246,7 +7246,7 @@ window.BANCO=[
 "cenario": "emg",
 "comp": "aval",
 "nivel": "r2",
-"base": "ATLS, Advanced Trauma Life Support, 10ª ed. (American College of Surgeons, 2018), trauma no idoso",
+"base": "ATLS, Advanced Trauma Life Support, 11ª ed. (American College of Surgeons, 2025), trauma no idoso",
 "coment": "O ATLS alerta que, no idoso, sinais vitais aparentemente normais podem esconder choque: a reserva fisiológica é menor, a pressão basal costuma ser mais alta (118 mmHg pode ser hipotensão relativa num hipertenso) e betabloqueadores impedem a taquicardia compensatória. Palidez, extremidades frias, sudorese e confusão aguda com flutuação da consciência são sinais de hipoperfusão. A resposta deve ser tratar como choque hipovolêmico até prova em contrário, sem se tranquilizar pela frequência cardíaca de 88 bpm.",
 "porAlt": [
 "A confusão é aguda e flutuante, e após trauma deve ser tratada como hipoperfusão ou lesão, não atribuída a demência prévia.",
@@ -7374,7 +7374,7 @@ window.BANCO=[
 "cenario": "emg",
 "comp": "aval",
 "nivel": "r1",
-"base": "PHTLS, Atendimento Pré-Hospitalar ao Traumatizado, 9ª ed. (NAEMT, 2019); ATLS, 10ª ed. (American College of Surgeons, 2018)",
+"base": "PHTLS, Atendimento Pré-Hospitalar ao Traumatizado, 9ª ed. (NAEMT, 2019); ATLS, 11ª ed. (American College of Surgeons, 2025), avaliação primária xABCDE",
 "coment": "Desde a 9ª edição do PHTLS a avaliação primária é XABCDE: o X (hemorragia exsanguinante) vem antes da via aérea, porque sangramento arterial maciço mata em poucos minutos; aqui a amputação parcial com sangramento ativo exige torniquete ou compressão imediata (I correto). A sequência não começa pela consciência: o D (incapacidade neurológica, com Glasgow) vem depois de via aérea, respiração e circulação, mesmo com Glasgow 9 (II errado). O ATLS ensina que, no traumatizado hipotenso, o choque é hemorrágico até prova em contrário (III correto).",
 "porAlt": [
 "Incompleta: o item III também está correto, pois hipotensão no trauma é presumida hemorrágica.",
@@ -10030,7 +10030,7 @@ window.BANCO=[
 "cenario": "emg",
 "comp": "aval",
 "nivel": "r1",
-"base": "ATLS, 10. ed. (American College of Surgeons, 2018); Escala de Coma de Glasgow (Teasdale e Jennett, 1974)",
+"base": "ATLS, 11ª ed. (American College of Surgeons, 2025); Escala de Coma de Glasgow (Teasdale e Jennett, 1974)",
 "coment": "A Escala de Coma de Glasgow avalia abertura ocular, resposta verbal e resposta motora, com escore de 3 a 15: 15 é o mais responsivo e 3 o menos. No trauma cranioencefálico, 13 a 15 é leve, 9 a 12 moderado e 3 a 8 grave. Com Glasgow igual ou menor que 8, o paciente não protege a via aérea, e o ATLS recomenda via aérea definitiva, em geral intubação orotraqueal. RASS (de -5 a +4) e Ramsay (de 1 a 6) são escalas de sedação e agitação, não de coma, e não usam esses três critérios.",
 "porAlt": [
 "Correta: Glasgow de 3 a 8 define TCE grave e indica via aérea definitiva, em geral intubação orotraqueal.",
@@ -17694,7 +17694,7 @@ window.BANCO=[
 "cenario": "emg",
 "comp": "aval",
 "nivel": "r1",
-"base": "ATLS: Advanced Trauma Life Support, 10ª ed. (American College of Surgeons, 2018)",
+"base": "ATLS: Advanced Trauma Life Support, 11ª ed. (American College of Surgeons, 2025)",
 "coment": "A tríade de Beck é o conjunto clássico do tamponamento cardíaco: turgência (estase) jugular, abafamento ou hipofonese das bulhas e hipotensão arterial. O líquido no saco pericárdico restringe o enchimento diastólico, o débito cai e o sangue represa no sistema venoso. No trauma, o ATLS lembra que nem sempre os três sinais aparecem, sobretudo a estase jugular no hipovolêmico. As outras opções são tríades diferentes: Cushing, Charcot, Virchow e a tríade letal do trauma.",
 "porAlt": [
 "Errada: bradicardia, hipertensão e bradipneia formam a tríade de Cushing, da hipertensão intracraniana.",
@@ -18078,14 +18078,14 @@ window.BANCO=[
 "cenario": "ger",
 "comp": "norma",
 "nivel": "r3",
-"base": "Portaria GM/MS 895/2017 (cuidado progressivo ao paciente crítico ou grave), anexo",
-"coment": "A COHPAC é comissão interna do hospital que organiza o cuidado progressivo ao paciente crítico ou grave entre UTI, unidade de cuidados intermediários e enfermarias. Sua atribuição central é elaborar e implementar o Plano Hospitalar de Atenção ao Paciente Crítico, com fluxos de admissão e alta, critérios de prioridade e indicadores. Ela não regula políticas públicas, papel do gestor do SUS; tem composição multiprofissional, não só de diretores; e presta contas aos gestores, sem que isso seja opcional. Questão de norma pouco cobrada: o caminho seguro é reconhecer o caráter institucional e executivo da comissão.",
+"base": "Portaria GM/MS 895/2017, anexo (texto da prova); substituída pela Portaria GM/MS 2.862/2023 (Título X e Anexo XXIX da Portaria de Consolidação 3/2017)",
+"coment": "A COHPAC vinha do anexo da Portaria GM/MS 895/2017, que organizava o cuidado progressivo ao paciente crítico ou grave: comissão interna do hospital, multiprofissional, encarregada de elaborar e implementar o Plano Hospitalar de Atenção ao Paciente Crítico. Atenção à atualização: a Portaria GM/MS 2.862/2023 reescreveu o Título X da Portaria de Consolidação 3/2017 e trocou aquele anexo pelo Anexo XXIX, que trata da habilitação de UTI e UCI e não menciona a COHPAC. A questão vale como leitura da norma de 2017, a cobrada pela banca.",
 "porAlt": [
 "Errada: regular e avaliar políticas públicas é papel dos gestores do SUS, não de comissão hospitalar.",
-"Correta: a comissão elabora e implementa o Plano Hospitalar de Atenção ao Paciente Crítico.",
-"Errada: a comissão é multiprofissional e não se restringe aos diretores técnico e administrativo.",
-"Errada: a comissão não é descrita como facultativa para hospitais privados que atendem paciente crítico.",
-"Errada: a apresentação de resultados aos gestores não fica a critério da instituição."
+"Correta: pela norma de 2017, a comissão elabora e implementa o Plano Hospitalar de Atenção ao Paciente Crítico.",
+"Errada: a comissão era multiprofissional e não se restringia aos diretores técnico e administrativo.",
+"Errada: a norma não tratava a comissão como facultativa para hospitais privados que atendem paciente crítico.",
+"Errada: a apresentação de resultados aos gestores não ficava a critério da instituição."
 ],
 "fonte": {
 "banca": "FGV",
@@ -18142,7 +18142,7 @@ window.BANCO=[
 "cenario": "emg",
 "comp": "aval",
 "nivel": "r1",
-"base": "ATLS, Advanced Trauma Life Support, 10ª ed., American College of Surgeons, 2018 (traumatismo cranioencefálico)",
+"base": "ATLS, Advanced Trauma Life Support, 11ª ed., American College of Surgeons, 2025 (traumatismo cranioencefálico)",
 "coment": "Otorreia (saída de líquor pelo ouvido), sinal do duplo halo (mancha de sangue com anel claro de líquor ao redor, no lençol ou na gaze) e equimose retroauricular, o sinal de Battle, são sinais clássicos de fratura da base do crânio, ao lado da rinorreia e dos olhos de guaxinim. Para a enfermagem a consequência é prática: não passar sonda nasogástrica nem aspirar pelo nariz, não tamponar o ouvido e comunicar a saída de líquor. Concussão, lesão axonal difusa e hematoma subdural não produzem esses sinais externos.",
 "porAlt": [
 "Errada: concussão é disfunção transitória sem fístula liquórica nem equimose mastoidea.",
@@ -23998,13 +23998,13 @@ window.BANCO=[
 "cenario": "ger",
 "comp": "norma",
 "nivel": "r3",
-"base": "NR-7, Anexo V, radiações ionizantes (Portaria SEPRT 6.734/2020)",
-"coment": "Na exposição acidental a níveis elevados de radiação ionizante, a avaliação médica inclui hemograma completo imediatamente e 24 horas após a exposição, como prevê a regulamentação do controle médico de expostos (NR-7, Anexo V). A lógica é clínica: a queda dos linfócitos nas primeiras 24 a 48 horas é o marcador laboratorial mais precoce da gravidade da irradiação, e a comparação com a amostra basal estima a dose. Os dosímetros do trabalhador envolvido também seguem para leitura imediata, e a investigação pode incluir dosimetria citogenética.",
+"base": "NR-7, Anexo V, item 5.3 (Portaria SEPRT 6.734/2020)",
+"coment": "O item 5.3 do Anexo V da NR-7 diz: na exposição ocupacional acidental a níveis elevados de radiação ionizante, faz-se nova avaliação médica com coleta de hemograma completo imediatamente e 24 horas após a exposição. O item 5.2 trata de outra situação: exposição acima do limite de dose anual exige nova avaliação médica para decidir sobre a continuidade na atividade, com emissão de novo ASO. A lógica clínica do hemograma seriado é que a queda dos linfócitos nas primeiras horas é o marcador laboratorial precoce da gravidade da irradiação, comparada à amostra basal.",
 "porAlt": [
-"Errada: o intervalo previsto para a segunda coleta é de 24 horas, não 12.",
-"Correta: hemograma imediatamente e 24 horas após a exposição, para detectar a linfopenia precoce.",
-"Errada: 36 horas não é o intervalo da norma.",
-"Errada: 48 horas atrasa a segunda amostra além do previsto.",
+"Errada: a NR-7 fixa a segunda coleta em 24 horas, não em 12.",
+"Correta: é o texto do item 5.3 do Anexo V da NR-7, hemograma completo imediatamente e 24 horas após a exposição.",
+"Errada: 36 horas não é o intervalo do item 5.3 da NR-7.",
+"Errada: 48 horas atrasa a segunda amostra além das 24 horas previstas na norma.",
 "Errada: 72 horas não é o intervalo previsto para a segunda coleta."
 ],
 "fonte": {
@@ -35469,13 +35469,13 @@ window.BANCO=[
 "cenario": "uti",
 "comp": "norma",
 "nivel": "r3",
-"base": "Portaria GM/MS 2.862/2023 (altera a Portaria de Consolidação 3/2017 sobre UTI e UCI)",
-"coment": "A Portaria GM/MS 2.862/2023 reescreveu na Portaria de Consolidação 3/2017 os requisitos de habilitação de UTI e UCI no SUS. Na lista mínima de equipamentos para habilitar UTI adulto, o gabarito definitivo considerou corretas as três quantidades: desfibrilador e cardioversor com bateria, 1 para cada 10 leitos; marcapasso temporário, 1 para cada 10 leitos; monitor de débito cardíaco, 1 por unidade. Não confunda com a RDC ANVISA 7/2010, norma sanitária de funcionamento, que pede desfibrilador e cardioversor na proporção de 1 para cada 5 leitos.",
+"base": "Portaria GM/MS 2.862/2023, Anexo XXIX da Portaria de Consolidação 3/2017, item 1.6 (equipamentos da UTI adulto)",
+"coment": "A Portaria GM/MS 2.862/2023 reescreveu o Título X da Portaria de Consolidação 3/2017 e criou o Anexo XXIX com os requisitos de habilitação de UTI e UCI no SUS. No item 1.6, lista mínima de equipamentos da UTI adulto, constam: desfibrilador e cardioversor com bateria, 1 para cada 10 leitos; marcapasso cardíaco temporário, eletrodos e gerador, 1 para cada 10 leitos; monitor de débito cardíaco, 1 por unidade. As três afirmativas reproduzem a portaria. Habilitação no SUS é diferente da RDC ANVISA 7/2010, norma sanitária de funcionamento com quantitativos próprios.",
 "porAlt": [
-"Exclui I e III, que o gabarito definitivo considera correspondentes à lista da Portaria 2.862/2023.",
-"Exclui o monitor de débito cardíaco, 1 por unidade, que também está na lista mínima da portaria.",
-"Exclui o marcapasso temporário, 1 para cada 10 leitos, que também consta da lista da portaria.",
-"Correta: o gabarito definitivo considera as três quantidades de acordo com a lista mínima da Portaria 2.862/2023."
+"Errada: as afirmativas I e III também reproduzem o item 1.6 da portaria, não só a II.",
+"Errada: exclui o monitor de débito cardíaco, que o item 1.6 exige na quantidade de 1 por unidade.",
+"Errada: exclui o marcapasso temporário, que o item 1.6 exige na proporção de 1 para cada 10 leitos.",
+"Correta: o item 1.6 do Anexo XXIX traz as três quantidades: desfibrilador 1 para 10 leitos, marcapasso 1 para 10 leitos e monitor de débito cardíaco 1 por unidade."
 ],
 "fonte": {
 "banca": "UFCSPA (FUNDMED)",
@@ -35499,13 +35499,13 @@ window.BANCO=[
 "cenario": "uti",
 "comp": "norma",
 "nivel": "r3",
-"base": "Portaria GM/MS 2.862/2023 (altera a Portaria de Consolidação 3/2017 sobre UTI e UCI)",
-"coment": "Para habilitar UTI pediátrica tipo III, a Portaria GM/MS 2.862/2023 exige enfermeiro responsável técnico com habilitação em terapia intensiva pediátrica comprovada por título e enfermeiro plantonista exclusivo da unidade na proporção de 1 para cada 5 leitos ou fração; o gabarito definitivo aceitou as afirmativas I e II. A afirmativa III foi considerada errada porque a regra dos médicos plantonistas da portaria não é a que ela descreve. Habilitação no SUS é diferente da RDC ANVISA 7/2010, que fixa mínimos sanitários.",
+"base": "Portaria GM/MS 2.862/2023, Anexo XXIX da Portaria de Consolidação 3/2017, item 4.7 (UTI pediátrica tipo III)",
+"coment": "Pelo item 4.7 do Anexo XXIX (Portaria GM/MS 2.862/2023), a UTI pediátrica tipo III cumpre os critérios do tipo II e acrescenta: enfermeiro responsável técnico com habilitação em terapia intensiva pediátrica comprovada por título; um enfermeiro plantonista para cada 5 leitos ou fração, exclusivo da unidade; e ao menos 50% dos médicos plantonistas com título em terapia intensiva pediátrica, para cada 5 leitos ou fração. A afirmativa III erra a proporção: 1 médico para cada 10 leitos é a regra do tipo II (item 4.4), não a do tipo III. Ficam corretas I e II.",
 "porAlt": [
-"Exclui a afirmativa I, mas a exigência de enfermeiro RT com título em terapia intensiva pediátrica foi considerada correta.",
-"Correta: o gabarito aceita o RT com título e o enfermeiro plantonista exclusivo para cada 5 leitos ou fração.",
-"Inclui a afirmativa III, que o gabarito considera divergente da regra para médicos plantonistas, e exclui a II.",
-"A afirmativa III foi considerada errada, então nem todas estão corretas."
+"Errada: a afirmativa I também está correta, porque o item 4.7 exige enfermeiro RT com título em terapia intensiva pediátrica.",
+"Correta: o item 4.7 exige enfermeiro RT com título e um enfermeiro plantonista exclusivo para cada 5 leitos ou fração.",
+"Errada: a III troca a proporção do tipo III (médicos plantonistas para cada 5 leitos ou fração) pela do tipo II, de 1 para cada 10 leitos.",
+"Errada: a III está incorreta, porque no tipo III a proporção de médicos plantonistas é para cada 5 leitos ou fração, não 10."
 ],
 "fonte": {
 "banca": "UFCSPA (FUNDMED)",

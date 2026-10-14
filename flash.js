@@ -669,8 +669,8 @@ window.FLASH=[
 },
 {
 "tema": "mental",
-"a": "Qual é o horário de funcionamento do CAPS AD IV?",
-"b": "24 horas por dia, todos os dias da semana, inclusive fins de semana e feriados (Nota Técnica 11/2019 do Ministério da Saúde; Portaria GM/MS 3.588/2017; HCPA 2025)."
+"a": "O CAPS AD IV ainda existe na RAPS?",
+"b": "Não. A Portaria GM/MS 757/2023 revogou a 3.588/2017, que o havia criado; o CAPS AD III segue como o serviço de álcool e drogas 24 horas, todos os dias (Portaria de Consolidação 3/2017). A HCPA 2025 ainda cobrou o horário do CAPS AD IV (24 h)."
 },
 {
 "tema": "mental",
@@ -761,5 +761,705 @@ window.FLASH=[
 "tema": "gestao",
 "a": "Como classificar o binômio do alojamento conjunto no SCP?",
 "b": "No mínimo como cuidado intermediário; em pediatria e berçário, toda criança menor de 6 anos também (Parecer Normativo COFEN 1/2024)."
+},
+{
+"tema": "mulher",
+"a": "Quantas consultas de pré-natal na atenção primária a Rede Alyne exige, e até quando captar a gestante?",
+"b": "Mínimo de 7 consultas, intercaladas entre enfermeiros e médicos, com captação oportuna até 12 semanas; o mínimo antigo era 6 (Portaria GM/MS 5.350/2024, Rede Alyne)."
+},
+{
+"tema": "mulher",
+"a": "Com que periodicidade são as consultas de pré-natal de risco habitual?",
+"b": "Mensais até 28 semanas, quinzenais de 28 a 36 e semanais de 36 a 41; sem parto até 41 semanas, encaminhar para avaliação do bem-estar fetal (Caderno de Atenção Básica 32, 2012)."
+},
+{
+"tema": "mulher",
+"a": "Qual a suplementação universal de cálcio na gestação?",
+"b": "1.000 mg/dia de cálcio elementar, da 12ª semana até o parto, para todas as gestantes, com pelo menos 2 horas de intervalo do ferro (Nota Técnica Conjunta 251/2024 do Ministério da Saúde)."
+},
+{
+"tema": "mulher",
+"a": "Como é o esquema de Zuspan do sulfato de magnésio?",
+"b": "Ataque de 4 g IV lentamente e manutenção de 1 g/h IV em bomba de infusão, mantido por 24 horas após o parto ou a última convulsão (Manual de Gestação de Alto Risco, MS 2022; protocolo RBEHG 2023)."
+},
+{
+"tema": "mulher",
+"a": "Que parâmetros conferir antes de cada dose de sulfato de magnésio?",
+"b": "Reflexo patelar presente, frequência respiratória de pelo menos 16 irpm e diurese de pelo menos 25 mL/h; qualquer alteração suspende a dose e é comunicada (protocolo RBEHG 2023; Manual de Gestação de Alto Risco, MS 2022)."
+},
+{
+"tema": "mulher",
+"a": "Como se define hemorragia pós-parto?",
+"b": "Perda acima de 500 mL após parto vaginal ou acima de 1.000 mL após cesárea nas primeiras 24 horas, ou qualquer perda que cause instabilidade hemodinâmica (OPAS 2018; Manual de Gestação de Alto Risco, MS 2022)."
+},
+{
+"tema": "mulher",
+"a": "Que capacitação o enfermeiro precisa para inserir DIU?",
+"b": "Curso presencial de no mínimo 40 horas (16 teóricas e teórico-práticas e 24 práticas) com no mínimo 10 inserções supervisionadas (Res. COFEN 802/2026, que substituiu o anexo da Res. 690/2022)."
+},
+{
+"tema": "mulher",
+"a": "Como é o rastreamento do câncer do colo do útero com DNA-HPV?",
+"b": "Teste de DNA-HPV oncogênico com genotipagem dos 25 aos 64 anos, repetido em 5 anos se negativo; HPV 16 ou 18 vai direto à colposcopia (Portaria Conjunta SAES/SECTICS 13/2025, diretrizes do INCA)."
+},
+{
+"tema": "mulher",
+"a": "Quais os requisitos para a esterilização voluntária?",
+"b": "Capacidade civil plena e mais de 21 anos ou pelo menos 2 filhos vivos, com 60 dias entre a manifestação da vontade e a cirurgia; o consentimento do cônjuge foi revogado (Lei 9.263/1996, com redação da Lei 14.443/2022)."
+},
+{
+"tema": "mulher",
+"a": "Qual a faixa etária da mamografia bienal de rastreamento no SUS?",
+"b": "Dos 50 aos 74 anos, com acesso sob demanda e decisão compartilhada dos 40 aos 49 anos (Nota Técnica 626/2025 do Ministério da Saúde)."
+},
+{
+"tema": "crianca",
+"a": "Qual a faixa etária de criança na PNAISC?",
+"b": "De 0 a 9 anos (0 a 120 meses), com primeira infância de 0 a 5 anos (0 a 72 meses); os 12 anos incompletos são do ECA (Portaria GM/MS 1.130/2015, art. 3º)."
+},
+{
+"tema": "crianca",
+"a": "Qual a dose de vitamina K do recém-nascido?",
+"b": "1 mg por via intramuscular, dose única, para todo recém-nascido (Diretrizes Nacionais de Assistência ao Parto Normal, MS 2017)."
+},
+{
+"tema": "crianca",
+"a": "Que agentes previnem a oftalmia neonatal?",
+"b": "Iodopovidona 2,5%, eritromicina 0,5% ou tetraciclina 1%; o nitrato de prata 1% fica só para a falta dos outros (Nota Técnica MS 11/2024)."
+},
+{
+"tema": "crianca",
+"a": "Por quanto tempo o hospital deve guardar o prontuário do atendimento à gestante e ao recém-nascido?",
+"b": "Por 18 anos, em prontuário individual (Lei 8.069/1990, ECA, art. 10)."
+},
+{
+"tema": "crianca",
+"a": "Com que concentração de oxigênio se inicia a VPP na sala de parto?",
+"b": "Em ar ambiente (21%) no recém-nascido com 34 semanas ou mais; com O2 a 60% abaixo de 34 semanas (diretrizes de reanimação neonatal da SBP, 2026)."
+},
+{
+"tema": "crianca",
+"a": "Quando iniciar massagem cardíaca no recém-nascido e em que relação?",
+"b": "Com FC abaixo de 60 bpm após 30 segundos de VPP adequada, na relação 3:1, com 120 eventos por minuto (90 compressões e 30 ventilações) e O2 a 100% (diretrizes de reanimação neonatal da SBP, 2026)."
+},
+{
+"tema": "crianca",
+"a": "Qual a SpO2 pré-ductal alvo aos 5 minutos de vida?",
+"b": "De 80 a 85%; aos 10 minutos, de 85 a 95% (diretrizes de reanimação neonatal da SBP, 2026)."
+},
+{
+"tema": "crianca",
+"a": "Qual o calendário mínimo de consultas de puericultura no primeiro ano?",
+"b": "Sete consultas: 1ª semana e 1, 2, 4, 6, 9 e 12 meses; depois 18 e 24 meses e consultas anuais a partir dos 2 anos (Caderno de Atenção Básica 33, 2012)."
+},
+{
+"tema": "crianca",
+"a": "Que frequência respiratória define respiração rápida pelo AIDPI?",
+"b": "50 ou mais por minuto de 2 a 11 meses e 40 ou mais de 1 a 4 anos, contada por um minuto inteiro com a criança tranquila (AIDPI Criança, MS 2017)."
+},
+{
+"tema": "crianca",
+"a": "Como é a expansão venosa do plano C na desidratação grave?",
+"b": "SF 0,9% ou Ringer lactato, 30 mL/kg e depois 70 mL/kg: em 1 hora e 5 horas no menor de 1 ano, e em 30 minutos e 2 horas e 30 minutos a partir de 1 ano (cartaz Manejo do paciente com diarreia, MS 2023)."
+},
+{
+"tema": "mental",
+"a": "Quando a contenção mecânica pode ser realizada?",
+"b": "Só quando for o único meio disponível para prevenir dano imediato ou iminente ao paciente ou aos demais, sob supervisão direta do enfermeiro (Res. COFEN 746/2024, art. 1º, que revogou a Res. 427/2012)."
+},
+{
+"tema": "mental",
+"a": "Quantas pessoas, no mínimo, para a contenção mecânica no atendimento pré-hospitalar móvel?",
+"b": "Cinco pessoas, na excepcionalidade, para conter de maneira segura (Res. COFEN 746/2024, art. 1º, § 2º)."
+},
+{
+"tema": "mental",
+"a": "Acima de que população se indica o CAPS I?",
+"b": "Acima de 15 mil habitantes; atende todas as idades com transtornos graves e persistentes, inclusive por substâncias. O número de 20 mil é da redação de 2011 (PRC 3/2017, Anexo V, origem na Portaria GM/MS 3.088/2011 republicada em 2013)."
+},
+{
+"tema": "mental",
+"a": "Acima de que população se indica o CAPS III, e como ele funciona?",
+"b": "Acima de 150 mil habitantes, com acolhimento noturno e funcionamento 24 horas todos os dias (PRC 3/2017, Anexo V, origem na Portaria GM/MS 3.088/2011 republicada em 2013)."
+},
+{
+"tema": "mental",
+"a": "O que a Portaria GM/MS 757/2023 mudou na RAPS?",
+"b": "Revogou a Portaria 3.588/2017: o hospital psiquiátrico, o hospital-dia e os ambulatórios especializados saíram da RAPS e o CAPS AD IV foi revogado (Portaria GM/MS 757/2023, ajustada pela 5.687/2024)."
+},
+{
+"tema": "mental",
+"a": "Qual o prazo máximo da internação involuntária do dependente de drogas?",
+"b": "O tempo da desintoxicação, no máximo 90 dias; a família pode pedir a interrupção a qualquer tempo (Lei 11.343/2006, art. 23-A, incluído pela Lei 13.840/2019)."
+},
+{
+"tema": "mental",
+"a": "A quem e em que prazo se informam a internação e a alta do dependente de drogas?",
+"b": "Em até 72 horas ao Ministério Público, à Defensoria Pública e a outros órgãos de fiscalização (Lei 11.343/2006, art. 23-A, incluído pela Lei 13.840/2019)."
+},
+{
+"tema": "mental",
+"a": "Quantos moradores cabem na residência terapêutica tipo I?",
+"b": "No máximo 8; o tipo II, para quem tem acentuada dependência, até 10 (PRC 3/2017, Anexo V, com a redação restaurada pela Portaria GM/MS 757/2023)."
+},
+{
+"tema": "mental",
+"a": "Qual a litemia de manutenção no transtorno bipolar?",
+"b": "De 0,6 a 1,0 mEq/L, colhida no vale, 12 horas após a última dose; no episódio agudo, de 0,8 a 1,2 mEq/L (diretrizes CANMAT/ISBD, 2018)."
+},
+{
+"tema": "mental",
+"a": "O que garante o Programa De Volta para Casa?",
+"b": "Auxílio-reabilitação psicossocial mensal ao egresso de internação psiquiátrica de dois anos ou mais (Lei 10.708/2003)."
+},
+{
+"tema": "idoso",
+"a": "Quem tem prioridade especial entre as pessoas idosas?",
+"b": "As maiores de 80 anos, inclusive no atendimento de saúde (Lei 10.741/2003, Estatuto da Pessoa Idosa, art. 3º, § 2º)."
+},
+{
+"tema": "idoso",
+"a": "Que lei mudou o nome do Estatuto do Idoso para Estatuto da Pessoa Idosa?",
+"b": "A Lei 14.423/2022, que trocou idoso por pessoa idosa em todo o texto da Lei 10.741/2003."
+},
+{
+"tema": "idoso",
+"a": "Que direito a pessoa idosa internada tem quanto a acompanhante?",
+"b": "Acompanhante em tempo integral, segundo o critério médico; quando não for possível, o profissional responsável justifica por escrito (Lei 10.741/2003, Estatuto da Pessoa Idosa, art. 16)."
+},
+{
+"tema": "idoso",
+"a": "A violência contra a pessoa idosa precisa ser confirmada para ser notificada?",
+"b": "Não: suspeita ou confirmação é de notificação compulsória à autoridade sanitária e de comunicação obrigatória à polícia, ao Ministério Público ou ao Conselho da Pessoa Idosa (Lei 10.741/2003, art. 19)."
+},
+{
+"tema": "idoso",
+"a": "Qual o critério etário de fragilidade na Política Nacional de Saúde da Pessoa Idosa?",
+"b": "75 anos ou mais (Portaria GM/MS 2.528/2006); não confundir com a prioridade especial dos maiores de 80 anos."
+},
+{
+"tema": "idoso",
+"a": "Como se interpreta o IVCF-20?",
+"b": "De 0 a 6 pontos, baixo risco; de 7 a 14, risco moderado; 15 ou mais, alto risco, com avaliação multidimensional completa (IVCF-20, Moraes e colaboradores, 2016)."
+},
+{
+"tema": "idoso",
+"a": "Quantos componentes do fenótipo de Fried definem o idoso frágil?",
+"b": "Três ou mais dos cinco (perda de peso não intencional, exaustão, fraqueza de preensão, lentidão da marcha e baixa atividade física); um ou dois é pré-frágil (Fried e colaboradores, 2001)."
+},
+{
+"tema": "idoso",
+"a": "Que tempo no Timed Up and Go indica risco de queda?",
+"b": "Acima de 15 segundos para levantar da cadeira, andar 3 metros, voltar e sentar (World Falls Guidelines, 2022)."
+},
+{
+"tema": "idoso",
+"a": "A partir de que idade se aplicam os critérios de Beers?",
+"b": "A partir dos 65 anos; listam medicamentos potencialmente inapropriados, como benzodiazepínicos e anti-histamínicos de primeira geração (critérios de Beers da American Geriatrics Society, 2023)."
+},
+{
+"tema": "idoso",
+"a": "Qual a multa ao profissional que deixa de comunicar crime contra pessoa idosa?",
+"b": "De R$ 500 a R$ 3.000, aplicada em dobro na reincidência (Lei 10.741/2003, Estatuto da Pessoa Idosa, art. 57)."
+},
+{
+"tema": "urgencia",
+"a": "Qual o tempo médio e o limite de classificações de risco por enfermeiro?",
+"b": "Média de 4 minutos por classificação e até 15 classificações por hora (Res. COFEN 661/2021)."
+},
+{
+"tema": "urgencia",
+"a": "O enfermeiro da classificação de risco pode acumular outra atividade, e o técnico pode classificar?",
+"b": "Não nos dois casos: a classificação é privativa do enfermeiro e não pode ser feita ao mesmo tempo que outras atividades (Res. COFEN 661/2021, que revogou a Res. 423/2012)."
+},
+{
+"tema": "urgencia",
+"a": "Qual a composição mínima de enfermagem no suporte básico de vida do APH móvel?",
+"b": "Técnico de enfermagem com o condutor, sob supervisão do enfermeiro; no suporte avançado, a assistência de enfermagem é privativa do enfermeiro (Res. COFEN 713/2022)."
+},
+{
+"tema": "urgencia",
+"a": "Qual a dose e o intervalo da adrenalina na parada do adulto?",
+"b": "1 mg IV ou IO a cada 3 a 5 minutos: o quanto antes no ritmo não chocável e após falharem as desfibrilações iniciais no chocável (Diretrizes AHA 2025)."
+},
+{
+"tema": "urgencia",
+"a": "Qual a dose de amiodarona na FV ou TV sem pulso refratária ao choque?",
+"b": "300 mg IV ou IO em bólus, com segunda dose de 150 mg (Diretrizes AHA 2025)."
+},
+{
+"tema": "urgencia",
+"a": "Qual a meta de saturação depois do retorno da circulação espontânea?",
+"b": "De 90% a 98% (ou PaO2 de 60 a 105 mmHg), evitando hipoxemia e hiperóxia; a faixa de 92% a 98% era da declaração de 2023 (Diretrizes AHA 2025, Parte 11)."
+},
+{
+"tema": "urgencia",
+"a": "Como se administra o ácido tranexâmico no trauma?",
+"b": "1 g em 10 minutos e mais 1 g em 8 horas, só até 3 horas do trauma (ATLS, 11ª edição, 2025)."
+},
+{
+"tema": "urgencia",
+"a": "Em quanto tempo obter o eletrocardiograma na suspeita de síndrome coronariana aguda?",
+"b": "Em até 10 minutos do primeiro contato, com traçados seriados se o primeiro não for diagnóstico (Diretriz ACC/AHA 2025 de síndromes coronarianas agudas)."
+},
+{
+"tema": "urgencia",
+"a": "Qual a pressão arterial máxima para trombolisar no AVC isquêmico?",
+"b": "Abaixo de 185/110 mmHg antes do trombolítico; depois, abaixo de 180/105 mmHg por pelo menos 24 horas (Diretriz AHA/ASA 2026 do AVC isquêmico agudo)."
+},
+{
+"tema": "urgencia",
+"a": "Qual a meta de diurese na reposição volêmica do queimado?",
+"b": "0,5 mL/kg/h no adulto e 1 mL/kg/h na criança (ATLS, 11ª edição, 2025)."
+},
+{
+"tema": "cirurgica",
+"a": "Qual o jejum mínimo antes da anestesia para líquidos claros, leite materno e dieta geral?",
+"b": "Líquidos claros sem resíduos 2 horas; leite materno 4 horas; fórmula e refeição leve 6 horas; dieta geral 8 horas (Res. CFM 2.174/2017, Anexo II)."
+},
+{
+"tema": "cirurgica",
+"a": "Quem dá alta da sala de recuperação pós-anestésica?",
+"b": "Exclusivamente o médico anestesista ou o plantonista da SRPA; o enfermeiro aplica a escala, registra e informa (Res. CFM 2.174/2017, art. 7º, § 5º)."
+},
+{
+"tema": "cirurgica",
+"a": "Com que intervalo se registram os parâmetros na SRPA na primeira hora?",
+"b": "A intervalos não superiores a 15 minutos: consciência, pressão, frequência cardíaca, saturação, temperatura, atividade motora e dor (Res. CFM 2.174/2017, Anexo IV)."
+},
+{
+"tema": "cirurgica",
+"a": "Quando se faz o teste de Bowie-Dick?",
+"b": "No primeiro ciclo do dia, na autoclave com bomba de vácuo, para avaliar a remoção de ar (RDC Anvisa 15/2012, art. 93)."
+},
+{
+"tema": "cirurgica",
+"a": "Como se usa o indicador químico na esterilização?",
+"b": "Em cada carga, em pacote teste desafio com integradores químicos classes 5 ou 6 (RDC Anvisa 15/2012, art. 96)."
+},
+{
+"tema": "cirurgica",
+"a": "O que é produto crítico de conformação complexa?",
+"b": "O que tem lúmen inferior a 5 mm, fundo cego, espaços internos inacessíveis à fricção direta, reentrâncias ou válvulas; só a CME Classe II o processa (RDC Anvisa 15/2012, art. 4º, XIX, e art. 5º)."
+},
+{
+"tema": "cirurgica",
+"a": "A partir de quantas cirurgias por mês o serviço precisa de Comitê de Processamento de Produtos para Saúde?",
+"b": "Mais de 500 cirurgias por mês, excluídos os partos (RDC Anvisa 15/2012, art. 8º)."
+},
+{
+"tema": "cirurgica",
+"a": "A estufa pode ser usada para esterilizar produtos para saúde?",
+"b": "Não: a esterilização por calor seco em estufa não é permitida para produtos para saúde (RDC Anvisa 15/2012, art. 92)."
+},
+{
+"tema": "cirurgica",
+"a": "Em que janela se administra o antimicrobiano profilático na cirurgia?",
+"b": "Nos 60 minutos antes da incisão, item confirmado na pausa cirúrgica (Protocolo para Cirurgia Segura, Portaria MS 1.377/2013)."
+},
+{
+"tema": "cirurgica",
+"a": "Quantas horas de enfermagem por cirurgia eletiva em cada porte?",
+"b": "1,4 h no porte 1; 2,9 h no porte 2; 4,9 h no porte 3; 8,4 h no porte 4; mais 0,5 h de preparo de sala na eletiva (Parecer Normativo COFEN 1/2024)."
+},
+{
+"tema": "transmissiveis",
+"a": "Que tempo de tosse define o sintomático respiratório para busca de tuberculose?",
+"b": "3 semanas ou mais na busca ativa no território; 2 semanas ou mais em quem procura o serviço de saúde e no diabético (Manual de Recomendações para o Controle da Tuberculose, MS 2019)."
+},
+{
+"tema": "transmissiveis",
+"a": "Qual o esquema básico da tuberculose e para quem?",
+"b": "2RHZE/4RH, para adultos e adolescentes a partir de 10 anos; as formas meningoencefálica e osteoarticular duram 12 meses (Manual de Recomendações para o Controle da Tuberculose, MS 2019)."
+},
+{
+"tema": "transmissiveis",
+"a": "Quantas doses observadas contam como TDO para o Sinan?",
+"b": "Tomada observada ao menos 3 vezes por semana: 24 doses na fase intensiva e 48 na manutenção; supervisão por familiar não conta (Manual de Recomendações para o Controle da Tuberculose, MS 2019)."
+},
+{
+"tema": "transmissiveis",
+"a": "Como se classifica e trata a hanseníase multibacilar?",
+"b": "Mais de cinco lesões e/ou baciloscopia positiva: PQT-U por 12 meses, com 12 doses supervisionadas em até 18 meses (PCDT da Hanseníase, MS 2022)."
+},
+{
+"tema": "transmissiveis",
+"a": "Qual o prazo para iniciar e a duração da PEP ao HIV?",
+"b": "Início em até 72 horas da exposição, com tenofovir/lamivudina e dolutegravir uma vez ao dia por 28 dias (PCDT de Profilaxia Pós-Exposição, MS 2024)."
+},
+{
+"tema": "transmissiveis",
+"a": "Como se trata a sífilis latente tardia ou de duração ignorada?",
+"b": "Benzilpenicilina benzatina 2,4 milhões UI IM por semana, por 3 semanas, total de 7,2 milhões UI (PCDT de IST, MS 2022)."
+},
+{
+"tema": "transmissiveis",
+"a": "Na gestante com sífilis, que intervalo entre doses de benzatina obriga a reiniciar o esquema?",
+"b": "Mais de 7 dias; fora da gestação, mais de 14 dias (PCDT de IST, MS 2022)."
+},
+{
+"tema": "transmissiveis",
+"a": "Qual a hidratação inicial do paciente com dengue no grupo C?",
+"b": "Soro fisiológico 10 mL/kg na primeira hora, onde o paciente estiver, com internação mínima de 48 horas (Dengue: diagnóstico e manejo clínico, MS 2024)."
+},
+{
+"tema": "transmissiveis",
+"a": "Quando a prova do laço é positiva?",
+"b": "Com 20 ou mais petéquias no adulto e 10 ou mais na criança num quadrado de 2,5 cm, após 5 minutos de manguito no adulto e 3 na criança (Dengue: diagnóstico e manejo clínico, MS 2024)."
+},
+{
+"tema": "transmissiveis",
+"a": "Em que prazo se faz o bloqueio vacinal seletivo nos contatos de sarampo?",
+"b": "Em até 72 horas, nos contatos a partir de 6 meses, exceto gestantes, que recebem imunoglobulina (Guia de Vigilância em Saúde, MS 2024)."
+},
+{
+"tema": "coletiva",
+"a": "Como a Política Nacional de Vigilância em Saúde define vigilância em saúde?",
+"b": "Processo contínuo e sistemático de coleta, consolidação, análise de dados e disseminação de informações sobre eventos relacionados à saúde, para planejar e implementar medidas de saúde pública (Res. CNS 588/2018)."
+},
+{
+"tema": "coletiva",
+"a": "Que atividades a PNVS chama de transversais e essenciais?",
+"b": "A análise de situação de saúde e as ações laboratoriais (Res. CNS 588/2018, art. 3º, parágrafo único)."
+},
+{
+"tema": "coletiva",
+"a": "Qual o prazo da notificação compulsória semanal?",
+"b": "Até 7 dias a partir do conhecimento da ocorrência (Anexo V da PRC 4/2017, origem na Portaria GM/MS 204/2016)."
+},
+{
+"tema": "coletiva",
+"a": "Com que periodicidade se faz a notificação negativa?",
+"b": "Semanal, por semana epidemiológica, informando que nenhum agravo da lista foi identificado (Anexo V da PRC 4/2017, origem na Portaria GM/MS 204/2016)."
+},
+{
+"tema": "coletiva",
+"a": "A notificação semanal vai para a secretaria de qual município?",
+"b": "Do município do local de atendimento do paciente, não do de residência (Anexo V da PRC 4/2017, art. 5º, origem na Portaria GM/MS 204/2016)."
+},
+{
+"tema": "coletiva",
+"a": "Até quantos dias após o fim da gestação a morte entra como materna no cálculo da razão de mortalidade materna?",
+"b": "Até 42 dias; a morte por causa obstétrica depois disso e antes de um ano é materna tardia e não entra (CID-10; RIPSA, Indicadores básicos para a saúde no Brasil, 2008)."
+},
+{
+"tema": "coletiva",
+"a": "Como se calcula a razão de mortalidade materna?",
+"b": "Óbitos maternos divididos pelos nascidos vivos, multiplicado por 100.000 (RIPSA, Indicadores básicos para a saúde no Brasil, 2008)."
+},
+{
+"tema": "coletiva",
+"a": "Como se calcula a mortalidade perinatal?",
+"b": "Óbitos fetais a partir de 22 semanas completas mais óbitos de 0 a 6 dias, divididos pelos nascimentos totais (vivos e óbitos fetais), multiplicado por 1.000 (RIPSA, Indicadores básicos para a saúde no Brasil, 2008)."
+},
+{
+"tema": "coletiva",
+"a": "O que mudou na lista da vigilância sentinela em 2026?",
+"b": "Saiu a SRAG e entrou a doença invasiva por Haemophilus influenzae, junto com a doença pneumocócica invasiva (Portaria GM/MS 11.211/2026, arts. 6º e 7º)."
+},
+{
+"tema": "coletiva",
+"a": "Qual a periodicidade de notificação do acidente de trabalho com exposição a material biológico?",
+"b": "Semanal; o acidente de trabalho sem essa exposição é de notificação imediata à SMS (Portaria GM/MS 11.211/2026, Anexo I)."
+},
+{
+"tema": "gestao",
+"a": "Quantas horas de enfermagem por paciente em 24 horas nos cuidados mínimo e intermediário?",
+"b": "4 horas no cuidado mínimo e 6 horas no intermediário (Parecer Normativo COFEN 1/2024)."
+},
+{
+"tema": "gestao",
+"a": "Qual o percentual mínimo de enfermeiros no cuidado de alta dependência?",
+"b": "36%, embora tenha as mesmas 10 horas do semi-intensivo, que exige 42% (Parecer Normativo COFEN 1/2024)."
+},
+{
+"tema": "gestao",
+"a": "Qual o percentual mínimo de enfermeiros nos cuidados mínimo e intermediário?",
+"b": "33%, garantindo pelo menos 1 enfermeiro por turno (Parecer Normativo COFEN 1/2024)."
+},
+{
+"tema": "gestao",
+"a": "Qual a fórmula do quadro de pessoal da unidade de internação?",
+"b": "QP = THE x DS x IST ÷ CHS, com 7 dias da semana, IST como fator 1,15 e THE igual à soma de pacientes de cada tipo vezes as horas do tipo (Parecer Normativo COFEN 1/2024)."
+},
+{
+"tema": "gestao",
+"a": "Com pacientes de vários tipos de cuidado, que percentual de enfermeiros se aplica?",
+"b": "O do grupo com maior carga de trabalho em horas (pacientes vezes horas), e não o do grupo mais numeroso (Parecer Normativo COFEN 1/2024)."
+},
+{
+"tema": "gestao",
+"a": "Que acréscimo recebe o setor com muitos profissionais com restrição?",
+"b": "Com 30% ou mais de profissionais com limitação ou restrição, soma-se 10% ao quadro do setor (Parecer Normativo COFEN 1/2024, item 1.5)."
+},
+{
+"tema": "gestao",
+"a": "Qual o parâmetro de dimensionamento na hemodiálise?",
+"b": "4 horas de assistência por paciente por sessão, com 25% de enfermeiros e 75% de técnicos (Parecer Normativo COFEN 1/2024)."
+},
+{
+"tema": "gestao",
+"a": "Quem pode fazer auditoria dentro da equipe de enfermagem?",
+"b": "Só o enfermeiro: é atividade privativa, sem repasse a técnico, auxiliar ou faturista (Res. COFEN 720/2023, art. 1º, parágrafo único, que revogou a Res. 266/2001)."
+},
+{
+"tema": "gestao",
+"a": "Que portaria instituiu a Política Nacional de Educação Permanente em Saúde?",
+"b": "A Portaria GM/MS 198, de 13/02/2004, com diretrizes reformuladas pela Portaria GM/MS 1.996/2007."
+},
+{
+"tema": "gestao",
+"a": "Quantos enfermeiros a CME precisa por turno?",
+"b": "No mínimo um enfermeiro em todos os turnos de funcionamento, além do responsável pela unidade (Parecer Normativo COFEN 1/2024)."
+},
+{
+"tema": "fundamentos",
+"a": "Quem pode inserir sonda nasogástrica ou nasoentérica?",
+"b": "Só o enfermeiro, pois a inserção é privativa dele; técnico e auxiliar auxiliam e prestam os cuidados prescritos (Res. COFEN 619/2019)."
+},
+{
+"tema": "fundamentos",
+"a": "Em que pacientes o técnico de enfermagem pode aspirar vias aéreas?",
+"b": "No paciente não grave e no crônico com traqueostomia definitiva ou de longa permanência, com avaliação e prescrição do enfermeiro e protocolo institucional (Res. COFEN 557/2017, arts. 4º a 6º)."
+},
+{
+"tema": "fundamentos",
+"a": "O enfermeiro pode inserir PICC?",
+"b": "Sim, desde que qualificado ou capacitado (Res. COFEN 258/2001)."
+},
+{
+"tema": "fundamentos",
+"a": "Por quanto tempo a agulha de Huber pode ficar no cateter totalmente implantado?",
+"b": "Até 7 dias, sob cobertura estéril; o cateter nunca se punciona com agulha hipodérmica ou escalpe (Anvisa, Medidas de Prevenção de IRAS, 2017)."
+},
+{
+"tema": "fundamentos",
+"a": "Na equipe de enfermagem, a quem cabe inserir a sonda vesical?",
+"b": "Ao enfermeiro; o técnico mantém, observa, comunica e registra (Res. COFEN 450/2013)."
+},
+{
+"tema": "fundamentos",
+"a": "Por quanto tempo manter a sonda vesical de demora no pós-operatório?",
+"b": "Pelo menor tempo possível, no máximo recomendável de até 24 horas, salvo cirurgias urológicas específicas (Anvisa, Medidas de Prevenção de IRAS, 2017)."
+},
+{
+"tema": "fundamentos",
+"a": "Como a diretriz brasileira de 2025 classifica a PA de 120 a 139 por 80 a 89 mmHg no consultório?",
+"b": "Pré-hipertensão; a PA ótima deixou de existir e PA normal é abaixo de 120 por 80 mmHg (Diretriz Brasileira de Hipertensão Arterial, SBC/SBH/SBN, 2025)."
+},
+{
+"tema": "fundamentos",
+"a": "Na máscara de Venturi, como aumentar a fração inspirada de oxigênio?",
+"b": "Trocando a válvula; aumentar o fluxo não muda a concentração, só o fluxo total (diretriz de oxigênio da British Thoracic Society, 2017)."
+},
+{
+"tema": "fundamentos",
+"a": "Como desinfetar o conector do cateter central antes de cada acesso?",
+"b": "Com álcool, por fricção de 5 a 15 segundos (Anvisa, Medidas de Prevenção de IRAS, 2017)."
+},
+{
+"tema": "fundamentos",
+"a": "Com que frequência se trocam os equipos de lipídio, de nutrição parenteral e de hemocomponente?",
+"b": "Lipídio a cada 12 horas; nutrição parenteral e hemocomponente a cada bolsa (Anvisa, Medidas de Prevenção de IRAS, 2017)."
+},
+{
+"tema": "adulto",
+"a": "Qual a meta pressórica para o hipertenso pela diretriz brasileira de 2025?",
+"b": "Abaixo de 130/80 mmHg para todo hipertenso, qualquer que seja o risco (Diretriz Brasileira de Hipertensão Arterial, SBC/SBH/SBN, 2025)."
+},
+{
+"tema": "adulto",
+"a": "Que valores de glicemia de jejum definem pré-diabetes e diabetes?",
+"b": "De 100 a 125 mg/dL, pré-diabetes; 126 mg/dL ou mais, diabetes (Standards of Care in Diabetes, ADA 2026)."
+},
+{
+"tema": "adulto",
+"a": "Como tratar a hipoglicemia do paciente consciente pela regra dos 15?",
+"b": "Com glicose abaixo de 70 mg/dL, 15 g de carboidrato de absorção rápida, nova glicemia em 15 minutos e repetir se continuar baixa (Standards of Care in Diabetes, ADA 2026)."
+},
+{
+"tema": "adulto",
+"a": "Na cetoacidose diabética, com que potássio a insulina é adiada?",
+"b": "Abaixo de 3,5 mmol/L, até a reposição; de 3,5 a 5,0, insulina com potássio no soro (consenso ADA, EASD, JBDS, AACE e DTS de crises hiperglicêmicas, 2024)."
+},
+{
+"tema": "adulto",
+"a": "Na cetoacidose, o que fazer quando a glicemia cai abaixo de 250 mg/dL?",
+"b": "Acrescentar glicose a 5 ou 10% ao soro e reduzir a infusão, sem suspender a insulina (consenso ADA, EASD, JBDS, AACE e DTS de crises hiperglicêmicas, 2024)."
+},
+{
+"tema": "adulto",
+"a": "Qual o tempo máximo de infusão de uma bolsa de hemocomponente?",
+"b": "4 horas por bolsa (Portaria GM/MS 11.685/2026, Anexo IV-B da PRC 5/2017, em vigor desde 30/09/2026)."
+},
+{
+"tema": "adulto",
+"a": "Por quanto tempo o profissional permanece ao lado do paciente no início da transfusão?",
+"b": "Nos primeiros 10 minutos, quando surgem a hemólise ABO e a anafilaxia (Portaria GM/MS 11.685/2026, Anexo IV-B da PRC 5/2017)."
+},
+{
+"tema": "adulto",
+"a": "Em que prazo se notifica o óbito atribuído à transfusão?",
+"b": "Em até 72 horas pelo Notivisa; as demais reações, até o 15º dia útil do mês seguinte (Instrução Normativa Anvisa 196/2022)."
+},
+{
+"tema": "adulto",
+"a": "Qual o limite de correção do sódio na hiponatremia?",
+"b": "No máximo 10 mmol/L nas primeiras 24 horas e 8 mmol/L a cada 24 horas seguintes, pelo risco de desmielinização osmótica (diretriz europeia de hiponatremia, 2014)."
+},
+{
+"tema": "adulto",
+"a": "Na enfermagem, a quem compete ministrar quimioterápico antineoplásico?",
+"b": "Privativamente ao enfermeiro; o técnico atua sob supervisão e prescrição do enfermeiro (Res. COFEN 569/2018)."
+},
+{
+"tema": "uti",
+"a": "Qual a PAM alvo inicial no choque séptico?",
+"b": "65 mmHg; de 60 a 65 mmHg a partir dos 65 anos (Surviving Sepsis Campaign 2026)."
+},
+{
+"tema": "uti",
+"a": "Quanto cristaloide oferecer na hipoperfusão induzida por sepse?",
+"b": "Pelo menos 30 mL/kg nas primeiras 3 horas, de preferência solução balanceada em vez de salina 0,9% (Surviving Sepsis Campaign 2026)."
+},
+{
+"tema": "uti",
+"a": "Qual o mínimo de enfermeiros e técnicos por turno na UTI adulto?",
+"b": "1 enfermeiro assistencial para cada 10 leitos ou fração e 1 técnico para cada 2 leitos, na redação da RDC 26/2012; o 1 para 8 da redação original não vale mais (RDC Anvisa 7/2010)."
+},
+{
+"tema": "uti",
+"a": "Qual o volume corrente inicial na ventilação mecânica?",
+"b": "6 mL/kg de peso predito, e não do peso real (Recomendações Brasileiras de Ventilação Mecânica, AMIB/SBPT, 2013)."
+},
+{
+"tema": "uti",
+"a": "Que achados interrompem o teste de respiração espontânea?",
+"b": "FR acima de 35/min, SpO2 abaixo de 90%, FC acima de 140 bpm, sistólica acima de 180 ou abaixo de 90 mmHg, agitação, sudorese ou rebaixamento (Recomendações Brasileiras de Ventilação Mecânica, AMIB/SBPT, 2013)."
+},
+{
+"tema": "uti",
+"a": "Qual o tempo mínimo de observação hospitalar antes de abrir o protocolo de morte encefálica?",
+"b": "6 horas, ou 24 horas na encefalopatia hipóxico-isquêmica (Res. CFM 2.173/2017)."
+},
+{
+"tema": "uti",
+"a": "Quando o teste de apneia é positivo no protocolo de morte encefálica?",
+"b": "Com PaCO2 final acima de 55 mmHg sem movimento respiratório (Res. CFM 2.173/2017)."
+},
+{
+"tema": "uti",
+"a": "A partir de que escore a BPS e a CPOT indicam dor no paciente crítico?",
+"b": "BPS acima de 5 (faixa de 3 a 12) e CPOT acima de 2 (faixa de 0 a 8) (diretriz PADIS, SCCM 2018)."
+},
+{
+"tema": "uti",
+"a": "Em quanto tempo iniciar a nutrição enteral no paciente crítico sem via oral?",
+"b": "Em até 48 horas, preferida à parenteral precoce (diretriz de nutrição em UTI da ESPEN, 2023)."
+},
+{
+"tema": "uti",
+"a": "A partir de que pressão intracraniana se trata a hipertensão intracraniana no TCE grave?",
+"b": "Acima de 22 mmHg (Brain Trauma Foundation, 4ª edição, 2017)."
+},
+{
+"tema": "farmaco",
+"a": "Qual o volume máximo e o ângulo da via intradérmica?",
+"b": "0,5 mL, com agulha a 15º e bisel para cima, sem comprimir o local (Manual de Normas e Procedimentos para Vacinação, MS 2014)."
+},
+{
+"tema": "farmaco",
+"a": "Qual o volume máximo da via intramuscular?",
+"b": "Até 5 mL, a 90º, com agulha de 20 a 30 mm (Manual de Normas e Procedimentos para Vacinação, MS 2014)."
+},
+{
+"tema": "farmaco",
+"a": "Que distância manter entre duas vacinas no mesmo vasto lateral?",
+"b": "Pelo menos 2,5 cm, no eixo da coxa (Manual de Normas e Procedimentos para Vacinação, MS 2014)."
+},
+{
+"tema": "farmaco",
+"a": "O que fazer diante de prescrição vaga, como se necessário sem condição de uso ou a critério médico?",
+"b": "Não cumprir e pedir complementação ao prescritor, porque o protocolo manda recusar a prescrição vaga (Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, MS e Anvisa, 2013)."
+},
+{
+"tema": "farmaco",
+"a": "Quando se aceita prescrição verbal de medicamento?",
+"b": "Só em urgência, repetida em voz alta por quem recebe, confirmada pelo prescritor e escrita logo depois (Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, MS e Anvisa, 2013)."
+},
+{
+"tema": "farmaco",
+"a": "Que medicamentos o protocolo de 2013 manda retirar do estoque das unidades?",
+"b": "Os eletrólitos concentrados, sobretudo o cloreto de potássio injetável, e os bloqueadores neuromusculares (Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, MS e Anvisa, 2013)."
+},
+{
+"tema": "farmaco",
+"a": "Quem autoriza antecipar ou atrasar o horário de um medicamento?",
+"b": "Só com o consentimento do enfermeiro e do prescritor (Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, MS e Anvisa, 2013)."
+},
+{
+"tema": "farmaco",
+"a": "Por que se prefere escrever EV em vez de IV na prescrição?",
+"b": "Porque IV pode ser lido como IM (Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, MS e Anvisa, 2013)."
+},
+{
+"tema": "farmaco",
+"a": "Como se destacam nomes semelhantes, como dopamina e dobutamina?",
+"b": "Com letras maiúsculas na parte que difere, como DOPAmina e DOBUtamina (Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, MS e Anvisa, 2013)."
+},
+{
+"tema": "farmaco",
+"a": "Paciente em jejum para exame: a enfermagem pode adiar ou suspender a dose por conta própria?",
+"b": "Não: em jejum para exame não se administra nem se adia dose sem discutir com o prescritor (Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos, MS e Anvisa, 2013; ENARE 2026)."
+},
+{
+"tema": "sae",
+"a": "Em que contextos o Processo de Enfermagem é obrigatório?",
+"b": "Em todo contexto socioambiental em que ocorre o cuidado de enfermagem (Res. COFEN 736/2024, art. 1º)."
+},
+{
+"tema": "sae",
+"a": "Como se chamavam a primeira e a última etapa do Processo de Enfermagem na Res. 358/2009?",
+"b": "Coleta de dados (ou Histórico) e Avaliação de Enfermagem; pela Res. COFEN 736/2024 passaram a ser Avaliação e Evolução de Enfermagem."
+},
+{
+"tema": "sae",
+"a": "Como a consulta de enfermagem deve ser organizada e registrada?",
+"b": "Conforme as etapas do Processo de Enfermagem, onde quer que ocorra (Res. COFEN 736/2024, art. 5º)."
+},
+{
+"tema": "sae",
+"a": "Que três situações o Diagnóstico de Enfermagem identifica?",
+"b": "Problemas existentes, condições de vulnerabilidade e disposições para melhorar comportamentos de saúde, como julgamento clínico das informações obtidas (Res. COFEN 736/2024, art. 4º, § 2º)."
+},
+{
+"tema": "sae",
+"a": "Em que condição a Lei do exercício permite ao enfermeiro prescrever medicamentos?",
+"b": "Como integrante da equipe, para medicamentos estabelecidos em programas de saúde pública e em rotina aprovada pela instituição (Lei 7.498/1986, art. 11, II, alínea c)."
+},
+{
+"tema": "sae",
+"a": "Quem deve anotar no prontuário as atividades da assistência de enfermagem?",
+"b": "Todo o pessoal de enfermagem (Decreto 94.406/1987, art. 14)."
+},
+{
+"tema": "sae",
+"a": "Que formato de registro foi considerado compatível com o Processo de Enfermagem na Atenção Primária?",
+"b": "O SOAP (subjetivo, objetivo, avaliação, plano), pelo Parecer Conjunto de Câmaras Técnicas 004/2022, citado na Res. COFEN 736/2024."
+},
+{
+"tema": "sae",
+"a": "Que resolução do COFEN traz o Guia de Recomendações para Registro de Enfermagem?",
+"b": "A Res. COFEN 514/2016, citada nos considerandos da Res. 736/2024."
+},
+{
+"tema": "sae",
+"a": "Quantos domínios tem a Taxonomia II da NANDA-I na edição vigente?",
+"b": "13 domínios, divididos em classes; a 13ª edição, 2024-2026, tem 277 diagnósticos (NANDA-I 2024-2026)."
+},
+{
+"tema": "sae",
+"a": "Que componentes tem o diagnóstico de risco na NANDA-I?",
+"b": "Fatores de risco, sem características definidoras; os fatores de risco são exclusivos do diagnóstico de risco (NANDA-I 2024-2026; gabarito ENARE 2026/27, questão 79)."
 }
 ];

@@ -1198,7 +1198,7 @@
   "cenario": "emg",
   "comp": "aval",
   "nivel": "r2",
-  "base": "ATLS, Advanced Trauma Life Support, 10ª ed. (American College of Surgeons, 2018), trauma no idoso",
+  "base": "ATLS, Advanced Trauma Life Support, 11ª ed. (American College of Surgeons, 2025), trauma no idoso",
   "coment": "O ATLS alerta que, no idoso, sinais vitais aparentemente normais podem esconder choque: a reserva fisiológica é menor, a pressão basal costuma ser mais alta (118 mmHg pode ser hipotensão relativa num hipertenso) e betabloqueadores impedem a taquicardia compensatória. Palidez, extremidades frias, sudorese e confusão aguda com flutuação da consciência são sinais de hipoperfusão. A resposta deve ser tratar como choque hipovolêmico até prova em contrário, sem se tranquilizar pela frequência cardíaca de 88 bpm.",
   "porAlt": [
    "A confusão é aguda e flutuante, e após trauma deve ser tratada como hipoperfusão ou lesão, não atribuída a demência prévia.",
@@ -1326,7 +1326,7 @@
   "cenario": "emg",
   "comp": "aval",
   "nivel": "r1",
-  "base": "PHTLS, Atendimento Pré-Hospitalar ao Traumatizado, 9ª ed. (NAEMT, 2019); ATLS, 10ª ed. (American College of Surgeons, 2018)",
+  "base": "PHTLS, Atendimento Pré-Hospitalar ao Traumatizado, 9ª ed. (NAEMT, 2019); ATLS, 11ª ed. (American College of Surgeons, 2025), avaliação primária xABCDE",
   "coment": "Desde a 9ª edição do PHTLS a avaliação primária é XABCDE: o X (hemorragia exsanguinante) vem antes da via aérea, porque sangramento arterial maciço mata em poucos minutos; aqui a amputação parcial com sangramento ativo exige torniquete ou compressão imediata (I correto). A sequência não começa pela consciência: o D (incapacidade neurológica, com Glasgow) vem depois de via aérea, respiração e circulação, mesmo com Glasgow 9 (II errado). O ATLS ensina que, no traumatizado hipotenso, o choque é hemorrágico até prova em contrário (III correto).",
   "porAlt": [
    "Incompleta: o item III também está correto, pois hipotensão no trauma é presumida hemorrágica.",

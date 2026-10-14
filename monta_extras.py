@@ -5,7 +5,7 @@ flash.js: o progresso SM-2 é por ÍNDICE. A ordem é a de ORDEM_CARTOES; arquiv
 da lista, nunca no meio, e cartão publicado não se apaga nem se move (corrige-se no lugar)."""
 import json, os, re
 RAIZ = os.path.dirname(os.path.abspath(__file__))
-ORDEM_CARTOES = ["cartoes_a.json", "cartoes_b.json"]
+ORDEM_CARTOES = ["cartoes_a.json", "cartoes_b.json", "cartoes_c.json"]
 ORDEM_CASOS = ["casos_novos.json"]
 def le(n): return json.load(open(os.path.join(RAIZ, "docs", n), encoding="utf-8"))
 tax = set(re.findall(r'"id":"(\w+)"', open(os.path.join(RAIZ, "taxonomia.js"), encoding="utf-8").read()))

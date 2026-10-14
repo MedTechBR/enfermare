@@ -5,6 +5,7 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 MSG="${1:?mensagem do commit}"
 EXC=(); while read -r f; do [ -n "$f" ] && EXC+=(":(exclude)lotes-questoes/$f"); done < lotes-questoes/EM_ANDAMENTO.txt
+for h in leituras/*.html; do b=$(basename "$h" .html); case "$b" in _*) continue;; esac; [ -f "leituras/_entradas_$b.json" ] || EXC+=(":(exclude)$h"); done
 python3 monta_extras.py
 python3 monta_leituras.py
 python3 gera_indice.py >/dev/null
