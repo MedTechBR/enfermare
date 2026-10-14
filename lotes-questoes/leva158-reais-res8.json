@@ -1,0 +1,1474 @@
+[
+ {
+  "q": "Sobre terapia medicamentosa, leia atentamente as afirmativas abaixo:\nI. Após a administração de um medicamento, este passa por várias etapas, como absorção, distribuição, metabolização e excreção. Em geral, o medicamento precisa de um tempo para entrar na corrente sanguínea, exceto quando feito por via parenteral.\nII. Os efeitos tóxicos se desenvolvem após a ingestão prolongada de um medicamento ou quando ele se acumula no sangue devido ao metabolismo ou à excreção ineficiente.\nIII. Hipodermóclise é a infusão de fluidos no tecido SC; seu mecanismo consiste, a partir da administração lenta de solução no espaço subcutâneo, na ação combinada entre difusão de fluidos, perfusão tecidual, pressão osmótica e pressão hidrostática, possibilitando a passagem das soluções para a circulação sanguínea.\nEstá CORRETO o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 4,
+  "tema": "farmaco",
+  "sub": "Vias de administração",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020; Infusion Therapy Standards of Practice, Infusion Nurses Society, 9ª ed., 2024 (hipodermóclise)",
+  "coment": "O gabarito considera as três afirmativas corretas. A I resume a farmacocinética (absorção, distribuição, metabolização e excreção) e a ideia de que a via parenteral encurta ou dispensa a absorção; a rigor, só a via intravenosa entrega o fármaco direto na circulação, pois IM e SC ainda dependem de absorção. A II descreve a toxicidade por uso prolongado ou acúmulo por falha de metabolização ou excreção. A III define a hipodermóclise: infusão lenta no subcutâneo, com passagem à circulação por difusão, perfusão tecidual e forças osmótica e hidrostática.",
+  "porAlt": [
+   "Incompleta: a II (toxicidade por acúmulo) e a III (mecanismo da hipodermóclise) também estão corretas.",
+   "Incompleta: deixa de fora a III, que descreve corretamente o mecanismo de absorção da hipodermóclise.",
+   "Incompleta: a I e a II também estão corretas segundo a banca.",
+   "Incompleta: a I, sobre as etapas da farmacocinética, também foi considerada correta.",
+   "Correta: as três afirmativas descrevem farmacocinética, toxicidade por acúmulo e hipodermóclise de forma aceita pela banca."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 23,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente M.G.P, 80 anos, cor branca, viúva, dois filhos, reside com o neto e nora. Deu entrada no hospital com diagnóstico médico de acidente vascular encefálico, tem diagnóstico prévio de hipertensão e diabetes, apresenta uma lesão crônica em MIE há 3 meses. Ela necessitou passar por cirurgia neurológica de urgência e, após 22 dias de internamento, 15 destes em leito de UTI, também desenvolveu lesão por pressão em região sacra e trocantérica. De acordo com a situação descrita acima, analise as afirmativas abaixo:\nI. A ferida cirúrgica de uma cirurgia neurológica é considerada limpa, por se tratar de um órgão limpo, causada por agente vulnerante que promove uma alteração na fisiologia tissular, podendo a ferida cirúrgica variar de escoriações até lesões amplas que podem causar deformidades ou amputações.\nII. A lesão por pressão é uma área localizada de isquemia celular que se desenvolve quando um tecido mole é comprimido entre uma proeminência óssea e uma superfície por um período prolongado.\nIII. As úlceras de estase, também chamadas de úlceras arteriais, são lesões agudas que ocorrem na parte inferior das pernas e dos pés.\nIV. O pé diabético é uma complicação rara em pacientes portadores de diabetes melito, que se origina pela presença de hipertensão venosa.\nEstá CORRETO o que se afirma em",
+  "alts": [
+   "I e II, apenas.",
+   "II, apenas.",
+   "I, III e IV, apenas.",
+   "I, II, III e IV.",
+   "I e IV, apenas."
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020; classificação NPIAP de lesão por pressão, 2016",
+  "coment": "Só a II está correta: a lesão por pressão nasce da isquemia de tecido mole comprimido entre a proeminência óssea e a superfície por tempo prolongado; a NPIAP (2016) define a lesão como dano localizado sobre proeminência óssea por pressão, isolada ou com cisalhamento. A I mistura a classificação da ferida cirúrgica (neurológica eletiva é limpa) com a definição de ferida traumática por agente vulnerante. A III erra duas vezes: úlcera de estase é venosa, não arterial, e é crônica. A IV erra porque o pé diabético é complicação frequente, ligada a neuropatia e doença arterial, não a hipertensão venosa.",
+  "porAlt": [
+   "A I é falsa: confunde ferida cirúrgica limpa com a definição de ferida traumática causada por agente vulnerante.",
+   "Correta: só a II descreve corretamente o mecanismo isquêmico da lesão por pressão.",
+   "A III e a IV são falsas: estase é úlcera venosa crônica e o pé diabético é complicação comum de origem neuropática e vascular arterial.",
+   "Inclui I, III e IV, todas com erros conceituais sobre feridas.",
+   "A I e a IV estão erradas; a única correta é a II."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 24,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O profissional da área de saúde pode adquirir ou transmitir infecções para os pacientes, para outros profissionais no ambiente de trabalho e para comunicantes domiciliares e da comunidade. As ações do Serviço de Controle de Infecções Relacionadas à Assistência à Saúde, no que diz respeito ao controle e à prevenção de infecções, têm como objetivos:\nI. Educar os profissionais da área de saúde acerca da prevenção e controle de infecção, ressaltando a importância da participação individual e coletiva nesse contínuo processo.\nII. Identificar riscos e instituir medidas de prevenção das infecções relacionadas à assistência à saúde.\nIII. Promover a interação e o equilíbrio entre a abordagem clínica e a epidemiológica, aprimorando a qualidade do atendimento prestado.\nIV. Elaborar e executar um programa de controle de infecção hospitalar, apoiado em uma metodologia de vigilância epidemiológica padronizada.\nEstá CORRETO o que se afirma em",
+  "alts": [
+   "I, II e III.",
+   "II e III, apenas.",
+   "III e IV, apenas.",
+   "I, III e IV, apenas.",
+   "I, II, III e IV."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.616/1998, Anexo I (Programa de Controle de Infecção Hospitalar); Lei 9.431/1997",
+  "coment": "As quatro afirmativas são objetivos do serviço de controle de infecção. A Lei 9.431/1997 obriga os hospitais a manter um Programa de Controle de Infecções Hospitalares, e a Portaria 2.616/1998 define que a CCIH elabora, implementa e avalia esse programa com base em vigilância epidemiológica, capacita os profissionais e propõe medidas de prevenção a partir dos riscos identificados. Educar a equipe, identificar riscos, integrar a abordagem clínica à epidemiológica e executar o programa com vigilância padronizada formam o núcleo dessas atribuições.",
+  "porAlt": [
+   "Incompleta: a IV, que trata do programa apoiado em vigilância epidemiológica, também é objetivo.",
+   "Incompleta: exclui a educação dos profissionais (I) e o programa com vigilância (IV).",
+   "Incompleta: exclui a educação (I) e a identificação de riscos (II).",
+   "Incompleta: deixa de fora a identificação de riscos e a instituição de medidas de prevenção (II).",
+   "Correta: educação, identificação de riscos, integração clínico-epidemiológica e programa com vigilância padronizada são todos objetivos."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 25,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A inserção de uma sonda nasogástrica/ nasoentérica (SNG/SNE) é uma prática comum em ambiente de cuidados agudos e crônicos para a administração de nutrição enteral e/ou medicamentos a pacientes de todas as idades. Esse procedimento pode resultar em eventos adversos (EAs), definidos como incidentes que resultaram em danos ao paciente ou como lesão causada por tratamento médico ou complicações, e não pela doença subjacente, que derivou em hospitalização prolongada ou incapacidade no momento da alta ou ambos. Quanto aos EAs, assinale a alternativa CORRETA.",
+  "alts": [
+   "Entre os eventos adversos mecânicos, o mais prevalente é o que se relaciona com as complicações relativas à perfuração intestinal, causadas por um trato intestinal diferente, defeitos congênitos, cirurgias anteriores que ocasionaram anastomose. Nesse caso, as sondas devem ser inseridas à beira do leito, utilizando testes simples para confirmação do local correto de inserção, utilizando-se, principalmente, da experiência do(a) enfermeiro(a) através da prática baseada em evidências.",
+   "Todo paciente grave, inclusive os politraumatizados com trauma cerebral, devem ser sondados com SNG ou SNE, já no momento inicial do atendimento. Não há possibilidade de EA nessa condição, pois a SNG/SNE não consegue penetrar a região intracraniana, mesmo se houver ruptura da placa cribriforme.",
+   "A maior prevalência dos EAs mecânicos se relaciona às complicações respiratórias causadas por erro de trajeto no momento da inserção da SNG/SNE. As melhores práticas baseadas em evidências para verificar a colocação de SNG incluem: medir a sonda da ponta do nariz do paciente até o lóbulo da orelha e do lóbulo da orelha até o ponto médio entre o processo xifoide e o umbigo toda vez que uma SNG for inserida, teste de pH, exame de raio-x e habilidades de pensamento crítico.",
+   "Com o objetivo de evitar EAs, como pneumotórax, penumonite química, síndrome da angústia respiratória aguda, o enfermeiro deve confirmar a posição de sondas enterais inseridas às cegas, realizando os procedimentos de ausculta, inspeção visual do aspirado e observação de bolhas de água.",
+   "Os efeitos adversos podem ser evitados a partir da verificação pelo(a) enfermeiro(a) da posição correta da SNG/SNE. Dentre os métodos considerados como padrão ouro para essa verificação em pacientes de alto risco, podemos destacar o método de verificação do ph, que deve estar em torno de pH ≥ 7,5."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Boullata JI et al. ASPEN Safe Practices for Enteral Nutrition Therapy, JPEN, 2017; Resolução COFEN 619/2019 (sondagem oro/nasogástrica e nasoentérica)",
+  "coment": "Os eventos adversos mecânicos mais frequentes da sonda passada às cegas são respiratórios, por mau posicionamento na árvore traqueobrônquica (pneumotórax, pneumonite). A boa prática combina medir a sonda do nariz ao lóbulo da orelha e daí ao ponto médio entre xifoide e umbigo, testar o pH do aspirado, confirmar por radiografia antes do primeiro uso e manter julgamento clínico. Ausculta com injeção de ar e bolhas na água não confirmam posição. Aspirado gástrico tem pH ácido, em geral até 5,5; pH de 7,5 sugere outro local, nunca o estômago.",
+  "porAlt": [
+   "Perfuração intestinal não é o evento mecânico mais prevalente, e a confirmação não pode depender da experiência do profissional.",
+   "Trauma cranioencefálico com suspeita de fratura de base contraindica a via nasal, pela possibilidade de a sonda entrar no crânio.",
+   "Correta: o erro de trajeto respiratório é o evento mais comum, e medida, pH, radiografia e julgamento clínico são as melhores práticas.",
+   "Ausculta, inspeção do aspirado e bolhas na água são métodos não confiáveis para confirmar a posição.",
+   "O padrão de referência é a radiografia, e o aspirado gástrico é ácido (pH até cerca de 5,5), não pH 7,5 ou mais."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 26,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre cateterismo vesical, leia as afirmações abaixo:\nI. O cateterismo vesical ou cateterismo de vias urinárias é um procedimento invasivo que tem por finalidade alcançar a luz da bexiga, com o objetivo de esvaziá-la, determinar urina residual em casos de bexiga neurogênica, monitorar débito urinário e, ainda, de colher urina em técnica asséptica para exames.\nII. Pode ser considerado cateterismo vesical de alívio, quando o cateter é retirado logo após o procedimento ou realizado de forma intermitente, ou ainda, cateterismo vesical de demora, quando é necessária a manutenção de cateter uretral na bexiga por um período de tempo maior.\nIII. Os riscos associados ao cateterismo vesical de alívio podem ocorrer tanto com pacientes quanto com profissionais que executam o cuidado. Em relação aos riscos para pacientes, os mais comuns são infecções do trato urinário, trauma das vias urinárias, riscos de posicionamento como fraturas e quedas.\nIV. Quanto ao aspecto técnico-científico, todas as categorias profissionais de enfermagem estão aptas ao preparo do material, posicionamento do paciente durante o procedimento, destino final ao material após o atendimento, mas somente o Enfermeiro está apto e possui competência técnica e científica para realizar o procedimento.\nEstá CORRETO o que se afirma em",
+  "alts": [
+   "II, III e IV, apenas.",
+   "I e IV, apenas.",
+   "I, II, III e IV.",
+   "II e IV, apenas.",
+   "I, II e IV, apenas."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Resolução COFEN 450/2013 (sondagem vesical); ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2017",
+  "coment": "As quatro afirmativas reproduzem o parecer normatizado pela Res. COFEN 450/2013. O cateterismo vesical alcança a bexiga para esvaziá-la, medir resíduo, monitorar débito e colher urina assepticamente; pode ser de alívio (retirado em seguida ou intermitente) ou de demora. Os riscos ao paciente incluem infecção urinária, trauma uretral e lesões ligadas ao posicionamento, como quedas e fraturas. Pela resolução, a inserção do cateter é privativa do enfermeiro; técnicos e auxiliares preparam material, ajudam no posicionamento e cuidam do destino do material.",
+  "porAlt": [
+   "Incompleta: a I, que define o procedimento e suas finalidades, também está correta.",
+   "Incompleta: deixa de fora a II (alívio e demora) e a III (riscos ao paciente).",
+   "Correta: as quatro afirmativas estão de acordo com a Res. COFEN 450/2013.",
+   "Incompleta: exclui a definição (I) e os riscos (III), ambos corretos.",
+   "Incompleta: a III, sobre infecção, trauma e riscos de posicionamento, também está correta."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 27,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na Resolução COFEN Nº 0678/2021 – alterado pela decisão COFEN Nº 13/2022, a competência em saúde mental e psiquiátrica de “estabelecer o relacionamento terapêutico como base no processo de cuidar em saúde mental, fundamentado em teorias de enfermagem que subsidiam a interação com o usuário de forma sistemática e planejada”, cabe à(ao, a)",
+  "alts": [
+   "Auxiliar de enfermagem.",
+   "Enfermeiro(a).",
+   "Técnico (a) de enfermagem.",
+   "Enfermeiro (a) especialista.",
+   "todos da equipe de enfermagem."
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Resoluções do COFEN",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 678/2021, Anexo, item 1.2, alínea b (competências do enfermeiro especialista em saúde mental)",
+  "coment": "O anexo da Res. COFEN 678/2021 separa as competências por categoria: enfermeiro (1.1), enfermeiro especialista (1.2), técnico (1.3) e auxiliar (1.4). A frase do enunciado, estabelecer o relacionamento terapêutico como base do cuidado em saúde mental fundamentado em teorias de enfermagem, está no item 1.2, alínea b, do enfermeiro especialista. Ao enfermeiro generalista o anexo atribui estabelecer vínculo para favorecer o relacionamento terapêutico (1.1, alínea d), formulação mais restrita. É um detalhe de letra de norma que a banca cobrou literalmente.",
+  "porAlt": [
+   "O auxiliar executa cuidados sob supervisão e não tem a competência de estruturar o relacionamento terapêutico.",
+   "Ao enfermeiro generalista o anexo atribui estabelecer vínculo para favorecer o relacionamento terapêutico, não a frase do enunciado.",
+   "O técnico de enfermagem atua sob supervisão do enfermeiro e não recebe essa competência no anexo.",
+   "Correta: a frase está no item 1.2, alínea b, que lista as competências do enfermeiro especialista.",
+   "A competência não é comum a toda a equipe; o anexo a atribui a uma categoria específica."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 28,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Quanto às expressões que abrangem ideação e comportamento suicida, correlacione os conceitos:\n1. Tentativa de suicídio abortada\n2. Comportamento suicida\n3. Ideação suicida\n4. Intenção suicida\n5. Tentativa de suicídio\n( ) Perigo objetivo de vida associado a método ou ação suicidas. Reparar que letalidade é diferente e pode nem sempre coincidir com a expectativa de um indivíduo do que é medicamente perigoso.\n( ) Comportamento autodestrutivo com resultado não fatal, acompanhado por evidências explícitas ou implícitas de que a pessoa pretendia morrer..\n( ) Pensamento de servir como agente da própria morte; a gravidade pode variar dependendo da especificidade dos planos suicidas e do grau de intenção suicida.\n( ) Comportamento potencialmente autodestrutivo com evidências explícitas ou implícitas de que a pessoa pretendia morrer, mas a tentativa foi interrompida antes da ocorrência de danos físicos.\n( ) Expectativa subjetiva e desejo de que o ato autodestrutivo cause morte.\nAssinale a alternativa que apresenta a sequência CORRETA.",
+  "alts": [
+   "1, 2, 3, 4 e 5",
+   "5, 4, 3, 2 e 1",
+   "2, 5, 3, 1 e 4",
+   "4, 5, 1, 2 e 3",
+   "3, 4, 5, 2 e 1"
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Crise, suicídio e contenção",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Associação Brasileira de Psiquiatria e CFM. Suicídio: informando para prevenir, 2014 (termos e definições); Lei 13.819/2019",
+  "coment": "Tentativa de suicídio é o ato autodestrutivo não fatal com intenção explícita ou implícita de morrer (5); ideação é o pensamento de ser agente da própria morte (3); tentativa abortada é a interrompida antes de haver dano (1); intenção é a expectativa subjetiva de que o ato cause a morte (4). Sobra o comportamento suicida (2) para a primeira descrição, sequência 2, 5, 3, 1, 4. Atenção: o próprio texto da primeira descrição fala em letalidade, e na fonte ela define a letalidade do comportamento suicida, perigo objetivo ligado ao método, que é distinta da intenção. A banca casou essa definição com comportamento suicida.",
+  "porAlt": [
+   "Sequência sem correspondência: tentativa abortada não é o perigo objetivo de vida, e as demais também não casam.",
+   "Inverte os conceitos: tentativa de suicídio não é o perigo objetivo ligado ao método.",
+   "Correta: 2, 5, 3, 1 e 4, com a ressalva de que a primeira descrição é, na fonte, a de letalidade.",
+   "Atribui à intenção suicida o perigo objetivo, quando intenção é a expectativa subjetiva de morrer.",
+   "Ideação é pensamento, não perigo objetivo; e intenção não é ato autodestrutivo não fatal."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 29,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O conceito Linha de Cuidado corresponde a estratégias que possibilitam a reorganização da oferta de ações de saúde. Nesse contexto, analise as afirmativas abaixo e coloque V nas verdadeiras e F nas falsas.\n( ) Linha de Cuidado é a integração do sistema de saúde, bem como dos diversos níveis de atenção à saúde, com garantia de fluxos assistenciais integrados.\n( ) Linha de Cuidado é sinônimo da organização do processo de referência e contrarreferência da rede de atenção à saúde.\n( ) A linha de cuidado pode se iniciar a partir da Unidade Básica ou de qualquer outra unidade de saúde, independente do seu nível de complexidade de atenção.\n( ) A organização da Linha de Cuidado parte da necessidade de cada indivíduo, fortalecendo a atenção qualificada voltada para a singularidade do indivíduo.\n( ) A linha de cuidado pressupõe a integralidade das ações de saúde desenvolvidas pelo sistema de saúde e o vínculo com outros setores sociais.\nAssinale a alternativa que indica a sequência CORRETA.",
+  "alts": [
+   "V, V, F, F, V",
+   "V, F, F, F, V",
+   "F, V, V, V, F",
+   "V, F, V, F, V",
+   "F, V, F, V, F"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 4.279/2010 (diretrizes da RAS), consolidada na PRC 3/2017, Anexo I",
+  "coment": "A linha de cuidado integra os níveis de atenção com fluxos assistenciais pactuados (V); não é sinônimo de referência e contrarreferência, que são apenas parte dela (F); pode começar na UBS ou em qualquer ponto da rede, de qualquer complexidade (V); e pressupõe integralidade e articulação intersetorial (V). A quarta foi dada como falsa porque a linha é desenhada a partir das necessidades de saúde de grupos e condições priorizadas, com base epidemiológica, e não da necessidade de cada indivíduo isoladamente; a singularidade entra no projeto terapêutico. É o ponto mais discutível do item.",
+  "porAlt": [
+   "Marca como verdadeira a sinonímia com referência e contrarreferência e como falsa a entrada por qualquer unidade.",
+   "Considera falso que a linha possa começar em qualquer ponto da rede, o que é verdadeiro.",
+   "Nega a integração entre níveis (primeira afirmativa), que é a essência da linha de cuidado.",
+   "Correta: V, F, V, F, V, com a linha organizada pelas necessidades de grupos e condições, não de cada indivíduo.",
+   "Nega a integração e a integralidade e afirma a sinonímia com referência e contrarreferência."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 30,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para Paim (2003), Modelo assistencial ou modelo de atenção à saúde é um modo de combinar técnicas e tecnologia ou organizar meios de trabalho utilizados nos mais diversos serviços, com vistas à solução de problemas individuais e coletivos que expressam necessidades sociais de saúde de determinada população. Sobre modelo assistencial, leia as afirmações abaixo:\nI. A proposta da Reforma Sanitária surgiu de um movimento para um projeto de sistema de saúde em que o princípio central é a saúde: direito de todos e dever do Estado.\nII. O modelo em defesa da vida fundamenta-se nos seguintes princípios: gestão democrática, saúde como direito de cidadania; e serviço público de saúde voltado, apenas, para a defesa da vida individual.\nIII. O processo de trabalho em saúde deveria incorporar as amplas dimensões demonstradas pelos problemas em saúde, incluindo os usuários, a começar pela forma como sentem suas necessidades em saúde e o que demanda dos serviços.\nIV. A proposta de Sistemas Locais de Saúde (SILOS) foi um dos modelos tecnoassistenciais mais discutidos nacionalmente, buscando superar o modelo sanitarista campanhista.\nV. O modelo da vigilância da saúde surge da necessidade de inversão do modelo assistencial hegemônico, com ênfase na redefinição das práticas da saúde e na busca da efetivação diretriz da integralidade do SUS.\nEstão CORRETAS apenas",
+  "alts": [
+   "I, III e V.",
+   "I, IV e V.",
+   "II e IV.",
+   "II, III e IV.",
+   "I, III e IV."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Paim JS. Modelos de atenção e vigilância da saúde, in Rouquayrol MZ, Almeida Filho N, Epidemiologia & Saúde, 6ª ed., 2003; Constituição Federal de 1988, art. 196",
+  "coment": "I está certa: a Reforma Sanitária tem como eixo a saúde como direito de todos e dever do Estado, inscrito no art. 196 da Constituição. III está certa: o processo de trabalho deve partir das necessidades sentidas pelos usuários. V está certa: a vigilância da saúde propõe inverter o modelo hegemônico e efetivar a integralidade. II erra ao restringir a defesa da vida à dimensão individual; o modelo Em Defesa da Vida trata da vida individual e coletiva. A IV foi considerada falsa pela banca: os SILOS foram proposta da OPAS para a distritalização, e não um modelo tecnoassistencial nacional voltado só a superar o campanhismo. Ponto discutível.",
+  "porAlt": [
+   "Correta: I, III e V descrevem a Reforma Sanitária, o trabalho centrado nas necessidades e a vigilância da saúde.",
+   "Inclui a IV, que a banca considerou incorreta ao enquadrar os SILOS.",
+   "A II é falsa: o modelo Em Defesa da Vida não se limita à vida individual.",
+   "Inclui a II, que restringe indevidamente a defesa da vida ao plano individual.",
+   "Inclui a IV, sobre os SILOS, considerada incorreta, e exclui a V, que está certa."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A finalidade dos registros de enfermagem é assegurar a comunicação entre os membros da equipe de saúde. Os registros proporcionam ao paciente uma assistência de qualidade por toda a equipe de saúde que faze a assistência nas 24 horas. Os registros mostram a força de trabalho da equipe de enfermagem, valorizando as suas ações. Para uma assistência de qualidade, o profissional de saúde precisa de acesso a informações corretas, organizadas, seguras, completas e disponíveis, com o objetivo de",
+  "alts": [
+   "Evoluir o prontuário eletrônico; Permitir auditorias; Atender a legislações vigentes; Subsidiar o ensino e a pesquisa.",
+   "Assegurar a segurança dos profissionais; Prezar pela segurança do paciente; Implantar o prontuário informatizado; Atender a legislações vigentes.",
+   "Prezar pela segurança do paciente; Garantir a continuidade da assistência; Permitir auditorias; Garantir o posicionamento da enfermagem.",
+   "Garantir legibilidade absoluta; Atender a legislações vigentes; Evoluir o prontuário eletrônico; Assegurar a segurança dos profissionais.",
+   "Permitir auditorias; Garantir a continuidade da assistência; Atender a legislações vigentes; Subsidiar o ensino e a pesquisa."
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Registro e documentação de enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 514/2016 (Guia de Recomendações para Registro de Enfermagem no Prontuário do Paciente); Resolução COFEN 754/2024",
+  "coment": "Os registros de enfermagem existem para que a informação correta e completa sustente a assistência: garantem a continuidade do cuidado entre turnos e profissionais, permitem auditorias, atendem às exigências legais (o registro é dever profissional e documento legal) e subsidiam ensino e pesquisa. É o que o Guia aprovado pela Res. COFEN 514/2016 destaca, e a Res. COFEN 754/2024 reafirma o dever de registrar, em papel ou meio eletrônico. As demais opções trazem itens que não são finalidade do registro, como implantar ou evoluir o prontuário eletrônico, legibilidade absoluta ou garantir o posicionamento da enfermagem.",
+  "porAlt": [
+   "Evoluir o prontuário eletrônico é decisão institucional, não finalidade do registro de enfermagem.",
+   "Implantar o prontuário informatizado não é objetivo do registro, e a segurança dos profissionais não é sua finalidade central.",
+   "Garantir o posicionamento da enfermagem não é finalidade do registro clínico.",
+   "Evoluir o prontuário eletrônico e garantir legibilidade absoluta não são objetivos do registro.",
+   "Correta: auditoria, continuidade da assistência, exigência legal e subsídio ao ensino e à pesquisa são as finalidades dos registros."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O câncer não é uma doença única com uma causa única; em vez disso, é um grupo de doenças distintas com diferentes causas, manifestações, tratamentos e prognósticos. Sobre o câncer, leia as afirmativas abaixo e coloque V nas verdadeiras e F nas falsas.\n( ) A mitose ocorre mais rapidamente nas células malignas que nas células normais. Conforme as células crescem e se dividem, precisam de mais glicose e oxigênio.\n( ) Nos tumores malignos, as células são indiferenciadas e apresentam muita semelhança com as células normais do tecido do qual tiveram origem.\n( ) Os fatores implicados na carcinogênese ou os que a induzem incluem vírus e bactérias, agentes físicos, substâncias químicas, fatores genéticos ou familiares, fatores alimentares e hormônios.\n( ) O estadiamento determina o tamanho do tumor, a existência de invasão local, o envolvimento de linfonodos e metástases a distância. Há diversos sistemas para a classificação da extensão anatômica da doença.\nAssinale a alternativa que indica a sequência CORRETA.",
+  "alts": [
+   "F, F, V, F",
+   "F, V, V, V",
+   "V, F, V, V",
+   "F, V, F, F",
+   "V, V, V, V"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "INCA. ABC do câncer: abordagens básicas para o controle do câncer, 6ª ed., 2020; UICC. Classificação TNM de Tumores Malignos, 8ª ed., 2017",
+  "coment": "Sequência V, F, V, V. As células malignas se dividem de forma descontrolada e mais rápida e consomem mais glicose e oxigênio. A segunda é falsa porque a célula maligna tende a ser indiferenciada, isto é, perde a semelhança com o tecido de origem; quanto mais indiferenciada, mais agressiva. A carcinogênese tem fatores químicos, físicos, biológicos (vírus e bactérias), genéticos, alimentares e hormonais. O estadiamento descreve tamanho do tumor, invasão local, linfonodos e metástases, e o sistema TNM da UICC é o mais usado, ao lado de outros.",
+  "porAlt": [
+   "Marca como falsas a mitose acelerada e o estadiamento, ambos verdadeiros.",
+   "Marca como verdadeira a semelhança das células malignas com o tecido de origem, que é falsa.",
+   "Correta: V, F, V, V, porque célula maligna é indiferenciada e perde a semelhança com o tecido de origem.",
+   "Nega a carcinogênese multifatorial e o estadiamento, ambos verdadeiros.",
+   "Considera verdadeira a segunda afirmativa, mas a célula maligna é indiferenciada."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A gastrite, inflamação da mucosa gástrica ou do estômago, é um problema gastrintestinal (GI) comum. Afeta mulheres e homens igualmente, sendo mais comum em adultos mais idosos. Sobre gastrite, leia as afirmações abaixo:\nI. A gastrite não erosiva, aguda e crônica, é causada com mais frequência pela infecção por Helicobacter pylori.\nII. Um tipo mais grave de gastrite aguda é causado pela ingestão de ácidos ou álcalis fortes, que podem causar gangrena ou perfuração da mucosa.\nIII. O cliente com gastrite aguda pode apresentar um rápido início dos sintomas, tais como desconforto abdominal, cefaleia, lassidão, náusea, anorexia, vômito e soluços, que podem permanecer de algumas horas a alguns dias.\nIV. O enfermeiro sempre deve estar alerta em relação a quaisquer indicadores de gastrite hemorrágica, que incluem hematêmese, taquicardia e hipotensão.\nEstá CORRETO o que se afirma em",
+  "alts": [
+   "I, II e IV, apenas.",
+   "I, II, III e IV.",
+   "III e IV, apenas.",
+   "I e IV, apenas.",
+   "I, II e III, apenas."
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020 (gastrite)",
+  "coment": "As quatro afirmativas estão corretas. O Helicobacter pylori é a causa mais frequente da gastrite não erosiva. A ingestão de ácidos ou álcalis fortes provoca a forma aguda mais grave, com risco de gangrena e perfuração. A gastrite aguda começa de forma rápida, com desconforto abdominal, cefaleia, lassidão, náusea, anorexia, vômitos e soluços que duram horas a dias. Hematêmese, taquicardia e hipotensão indicam sangramento e exigem comunicação imediata e monitorização pela enfermagem.",
+  "porAlt": [
+   "Incompleta: a III, sobre o início rápido dos sintomas da forma aguda, também está correta.",
+   "Correta: as quatro afirmativas estão de acordo com o tratado de Brunner sobre gastrite.",
+   "Incompleta: exclui o H. pylori (I) e a forma corrosiva (II), ambos corretos.",
+   "Incompleta: deixa de fora a forma corrosiva (II) e o quadro clínico agudo (III).",
+   "Incompleta: omite a vigilância dos sinais de gastrite hemorrágica (IV), que está correta."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a asma, leia atentamente as afirmativas abaixo:\nI. A causa da asma é desconhecida; na asma, ocorrem episódios de obstrução reversível ao fluxo respiratório.\nII. A asma é uma das doenças crônicas mais comuns, afetando 1-18% da população em diferentes países. Estima-se que existam cerca de 300 milhões de pacientes com asma no mundo. No Brasil, provavelmente mais de 20 milhões de pessoas têm asma.\nIII. São considerados fatores de risco para a asma: atopia, genética, alérgenos, ocupação e obesidade.\nIV. A asma ocupacional está relacionada ao trabalho; em geral, acomete o adulto e estima-se que 5-20 por cento das asmas que se inicia na vida adulta seja ocupacional.\nEstá CORRETO o que se afirma em",
+  "alts": [
+   "II e IV, apenas.",
+   "I, II e IV, apenas.",
+   "III, apenas.",
+   "II e III, apenas.",
+   "I, II, IIII e IV."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Doenças respiratórias",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretrizes da SBPT para o Manejo da Asma 2012 (J Bras Pneumol); GINA 2026 (Global Initiative for Asthma)",
+  "coment": "O gabarito dá as quatro afirmativas como corretas (a alternativa traz \"IIII\" por erro de digitação da banca). A asma tem causa não plenamente conhecida e se caracteriza por obstrução ao fluxo aéreo variável e reversível. Os números da II (1 a 18% da população, cerca de 300 milhões no mundo e mais de 20 milhões no Brasil) são os das diretrizes da SBPT de 2012; estimativas mais recentes da GINA diferem, mas a prova seguiu essa fonte. Atopia, genética, alérgenos, exposição ocupacional e obesidade são fatores de risco, e a asma ocupacional responde por 5 a 20% das asmas iniciadas na vida adulta.",
+  "porAlt": [
+   "Incompleta: a I e a III também estão corretas.",
+   "Incompleta: os fatores de risco da III também estão corretos.",
+   "Incompleta: a I, a II e a IV também estão corretas.",
+   "Incompleta: omite a I (causa desconhecida e obstrução reversível) e a IV (asma ocupacional).",
+   "Correta: as quatro afirmativas estão de acordo com a fonte, apesar do erro de digitação \"IIII\" na alternativa."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a doença isquêmica do miocárdio, leia as afirmativas abaixo e assinale a alternativa CORRETA.",
+  "alts": [
+   "Os pacientes com doença aterosclerótica coronariana (DAC) devem tomar várias medidas quanto ao seu estilo de vida, como: parar de fumar, emagrecer, exercício físico regular, controle de pressão arterial, entre outros.",
+   "O uso do nitrato sublingual não apresenta eficácia significativa para prevenir angina por atividade física.",
+   "Recomenda-se que pacientes coronariopatas classificados como alto risco cardiovascular mantenham o LDL obrigatoriamente acima de 70mg/dl.",
+   "As drogas antianginosas são capazes de reduzir a isquemia miocárdica, controlando a angina e diminuindo o limiar anginoso, com consequente melhora do quadro clínico.",
+   "O termo revascularização miocárdica se refere aos procedimentos que restabelecem o aporte sanguíneo ao miocárdio, que, no caso da DAC instável, tem a função de eliminar a isquemia esforço-induzido."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretriz de Doença Coronária Estável (SBC, 2014)",
+  "coment": "Na doença arterial coronariana, mudar o estilo de vida é a base do tratamento: parar de fumar, perder peso, fazer exercício regular e controlar pressão, glicemia e lipídios. O nitrato sublingual previne a angina quando usado antes do esforço. A meta de LDL no alto risco é abaixo de 70 mg/dL, nunca acima. Os antianginosos reduzem a isquemia e aumentam o limiar anginoso. A revascularização elimina a isquemia induzida por esforço na DAC estável; na síndrome coronariana instável o objetivo é tratar a oclusão aguda.",
+  "porAlt": [
+   "Correta: cessar tabagismo, emagrecer, praticar exercício e controlar a pressão fazem parte do tratamento da DAC.",
+   "O nitrato sublingual usado antes do esforço é eficaz para prevenir a angina.",
+   "No alto risco a meta é manter o LDL abaixo de 70 mg/dL, e não acima.",
+   "Os antianginosos aumentam o limiar anginoso; não o diminuem.",
+   "Eliminar a isquemia induzida por esforço é objetivo da revascularização na DAC estável, não na instável."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A proteção cardiovascular (CV) consiste no objetivo primordial do tratamento anti-hipertensivo. Sobre o tratamento medicamentoso da Hipertensão Arterial, leias as afirmativas abaixo e coloque V nas verdadeiras e F nas falsas.\n( ) A monoterapia pode ser a estratégia anti-hipertensiva inicial para pacientes com HA estágio 1 com risco CV baixo ou com PA 130-139/85-89 mmHg de risco CV alto ou para indivíduos idosos e/ou frágeis.\n( ) A combinação de fármacos não é a estratégia terapêutica preferida para a maioria dos hipertensos, independentemente do estágio da HA e do risco CV associado.\n( ) Os principais efeitos adversos dos diuréticos são: fraqueza, cãimbras, hipovolemia e disfunção erétil.\n( ) O uso de diuréticos em doses baixas diminui o risco dos efeitos adversos, sem prejuízo da eficácia anti-hipertensiva, especialmente quando em associação a outras classes de medicamentos.\nAssinale a alternativa que indica a sequência CORRETA.",
+  "alts": [
+   "F, F, V, V.",
+   "V, F, V, F.",
+   "F, F, F, V.",
+   "F, V, V, V.",
+   "V, F, V, V."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH e SBN), Arq Bras Cardiol 2025",
+  "coment": "Sequência V, F, V, V, cobrada com base na diretriz de 2020. A monoterapia fica para hipertensão estágio 1 de baixo risco, PA 130 a 139/85 a 89 mmHg com risco alto e idosos ou frágeis. A segunda é falsa: a associação de fármacos é a estratégia preferida para a maioria dos hipertensos, e a Diretriz de 2025 manteve como regra iniciar com dois fármacos em dose baixa, de preferência em comprimido único. Fraqueza, cãibras, hipovolemia e disfunção erétil são efeitos adversos dos diuréticos, e doses baixas reduzem esses efeitos sem perder eficácia, sobretudo em associação.",
+  "porAlt": [
+   "Marca como falsa a indicação de monoterapia nos grupos citados, que é verdadeira.",
+   "Marca como falsa a vantagem dos diuréticos em dose baixa, que é verdadeira.",
+   "Nega a monoterapia nos grupos indicados e os efeitos adversos dos diuréticos, ambos verdadeiros.",
+   "Considera verdadeiro que a combinação não é preferida, quando a associação é a estratégia inicial para a maioria.",
+   "Correta: V, F, V, V, porque a associação de fármacos é a estratégia preferida para a maioria dos hipertensos."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Consiste em objetivo do tratamento do paciente com diabetes mellitus (DM) o bom controle metabólico, diminuindo, assim, os riscos de complicações micro e macrovasculares. No Diabetes mellitus tipo 2, a adoção de hábitos de vida saudáveis, com uma alimentação equilibrada, prática regular de atividade física, moderação no uso de álcool e abandono do tabagismo, acrescido ou não do tratamento farmacológico, são preditivos de um bom controle glicêmico. Se o controle glicêmico é essencial para o controle metabólico, como deve ser feito o seu monitoramento?",
+  "alts": [
+   "O monitoramento das glicemias não deve ser utilizado como parâmetro para orientar o ajuste da dose da medicação empregada, mesmo que, no decorrer do dia, aponte os momentos em que pode haver falta ou excesso da sua ação.",
+   "As glicemias de jejum, pré-prandial (antes das refeições), pós-prandial (após as refeições) e hemoglobina glicada (HbA1c), que avaliarão o padrão glicêmico dos últimos 6 meses, podem auxiliar o monitoramento do controle glicêmico.",
+   "Indivíduos, que desenvolveram Diabetes mellitus acima de 60 anos, necessitam de um controle glicêmico com metas mais rígidas (HbA1c<8%).",
+   "Para auxiliar no monitoramento é recomendado realizar a glicemia capilar três ou mais vezes ao dia para todas as pessoas com DM tipo 2 em uso de hipoglicemiantes orais e com um bom controle metabólico.",
+   "O controle glicêmico intensivo pode ser alcançado com (HbA1c < 7,0%), que poderá auxiliar na prevenção e controle das complicações, juntamente com o manejo dos demais componentes que aumentam o risco de complicações tanto micro como macrovasculares."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz da Sociedade Brasileira de Diabetes, edição 2024 (metas e monitoramento glicêmico); Standards of Care in Diabetes 2026 (ADA), seção 6",
+  "coment": "A meta habitual de hemoglobina glicada no adulto com diabetes é abaixo de 7%, que reduz complicações microvasculares e, junto com o controle de pressão, lipídios e tabagismo, o risco macrovascular. A glicada reflete a média dos últimos 2 a 3 meses, não de 6. Glicemias de automonitoramento servem justamente para ajustar a dose da medicação. No idoso as metas ficam menos rígidas (glicada abaixo de 7,5 a 8%, conforme fragilidade), e a glicemia capilar três vezes ao dia é indicada para quem usa insulina em múltiplas doses, não para o DM2 estável com antidiabéticos orais.",
+  "porAlt": [
+   "O monitoramento glicêmico serve justamente para orientar o ajuste das doses da medicação.",
+   "A hemoglobina glicada reflete os últimos 2 a 3 meses, não 6 meses.",
+   "No idoso as metas são mais flexíveis; glicada abaixo de 8% é meta menos rígida, não mais rígida.",
+   "Glicemia capilar três ou mais vezes ao dia é para quem usa insulina em múltiplas doses, não para o DM2 estável em uso oral.",
+   "Correta: a meta de glicada abaixo de 7% ajuda a prevenir complicações, junto com o manejo dos demais fatores de risco."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Resolução da Diretoria Colegiada nº 15, de 15 de março de 2012 objetivou estabelecer os requisitos de boas práticas para o funcionamento dos serviços que realizam o processamento de produtos para a saúde, visando à segurança do paciente e dos profissionais envolvidos. Em relação ao tema processamento de produtos para a saúde, analise as afirmativas abaixo:\nI. O processamento de produtos para saúde, realizado em consultórios odontológicos, consultórios individualizados, unidades de processamento de endoscópios e serviços de terapia renal substitutiva, está incluído no regulamento da RDC nº 15.\nII. Os produtos para saúde passíveis de processamento são aqueles que permitem repetidos processos de limpeza, preparo e desinfecção ou esterilização, até que percam a sua eficácia e funcionalidade.\nIII. Os produtos para saúde semicríticos, utilizados na assistência ventilatória, anestesia e inaloterapia, devem ser submetidos à limpeza e, no mínimo, à desinfecção de nível intermediário ou termodesinfecção, antes da utilização em outro paciente.\nIV. O CME Classe I deve possuir, no mínimo, barreira física entre o setor sujo e os setores limpos.\nV. Em relação aos produtos para saúde cujo lúmen tenha diâmetro interno inferior a cinco milímetros é obrigatório que a fase automatizada da limpeza seja feita em lavadora ultrassônica com conector para canulados.\nEstão CORRETAS apenas",
+  "alts": [
+   "I, II e IV.",
+   "I, III e IV.",
+   "II, III e IV.",
+   "III e V.",
+   "II, III e V."
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 15/2012, arts. 4º, 44 a 48 e 67",
+  "coment": "Corretas II, III e V. A RDC 15/2012 exclui do seu âmbito o processamento em consultórios odontológicos, consultórios individualizados não vinculados a serviços de saúde, unidades de processamento de endoscópios e serviços de terapia renal substitutiva, o que torna a I falsa. A II reproduz a definição de produto passível de processamento. A III traz a exigência para semicríticos de assistência ventilatória, anestesia e inaloterapia: limpeza e, no mínimo, desinfecção de nível intermediário ou termodesinfecção. A IV é falsa: na CME Classe I basta barreira técnica; a separação física é da Classe II. A V reproduz o art. 67 para lúmen abaixo de 5 mm.",
+  "porAlt": [
+   "A I e a IV são falsas: a RDC exclui esses serviços, e a CME Classe I exige barreira técnica, não física.",
+   "A I e a IV são falsas pelos mesmos motivos: exclusão do âmbito e barreira apenas técnica na Classe I.",
+   "A IV é falsa, porque a barreira física é exigência da CME Classe II; e falta a V, que está correta.",
+   "Incompleta: a II, definição de produto passível de processamento, também está correta.",
+   "Correta: II, III e V reproduzem a RDC 15/2012."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a Cirurgia segura e a prevenção de infecções de sítio cirúrgico, analise as afirmativas abaixo e coloque V nas verdadeiras e F nas falsas.\n( ) A tricotomia só deverá ocorrer quando estritamente necessária, de acordo com a área na qual será feita a cirurgia, utilizando-se um tricotomizador.\n( ) O controle de glicemia deve ser realizado rigorosamente no pré-operatório, sendo dispensado no pós-operatório imediato.\n( ) O banho pré-operatório é recomendado na noite anterior ou no dia da realização do procedimento cirúrgico com solução antisséptica, pois reduz a microbiota da pele, e, consequentemente, reduz o risco de infecção de sítio cirúrgico.\n( ) A Lista de Verificação de Segurança Cirúrgica (LVSC) recomenda a identificação do risco de perda sanguínea durante a fase II da cirurgia, que corresponde ao momento antes da incisão cirúrgica.\nAssinale a alternativa que contém a sequência CORRETA.",
+  "alts": [
+   "V, F, V, V.",
+   "V, V, V, F.",
+   "V, V, F, V.",
+   "V, F, V, F",
+   "F, V, V, F"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Cirurgia segura",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2017; Protocolo para Cirurgia Segura (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "Sequência V, F, V, F. A tricotomia só se faz quando necessária, com tricotomizador, nunca com lâmina. O controle glicêmico continua no pós-operatório imediato (meta abaixo de 180 mg/dL). O banho pré-operatório reduz a microbiota e o risco de infecção do sítio cirúrgico; a ANVISA (2017) reserva o antisséptico, clorexidina 2%, para cirurgias de grande porte ou com implantes, de modo que \"com solução antisséptica\" é generalização da banca. O risco de perda sanguínea acima de 500 mL (7 mL/kg na criança) é checado na primeira fase da lista, antes da indução anestésica, e não antes da incisão.",
+  "porAlt": [
+   "Marca como verdadeira a checagem de perda sanguínea antes da incisão, quando ela ocorre antes da indução anestésica.",
+   "Considera que o controle glicêmico é dispensado no pós-operatório imediato, o que é falso.",
+   "Erra a glicemia no pós-operatório e nega o banho pré-operatório.",
+   "Correta: V, F, V, F, porque a glicemia se controla também no pós-operatório e a perda sanguínea é checada antes da indução.",
+   "Nega a tricotomia restrita com tricotomizador e aceita dispensar a glicemia no pós-operatório."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os cuidados de enfermagem no perioperatório são fundamentais para uma assistência cirúrgica de qualidade, e para tal, o enfermeiro deve pautar o seu processo de trabalho em metodologias que sistematizam o cuidado assertivo e instrumentalizam a avaliação dos riscos em todas as etapas da experiência cirúrgica. Em relação ao tema assistência de enfermagem perioperatória, analise as afirmativas abaixo:\nI. O posicionamento do paciente cirúrgico é uma conduta essencial para o desempenho do procedimento cirúrgico seguro e eficiente. A ELPO é um exemplo de escala que avalia o risco de desenvolvimento de lesão por pressão decorrente do posicionamento cirúrgico.\nII. A abreviação do jejum pré-operatório é uma recomendação baseada em protocolos multimodais que buscam acelerar a recuperação do paciente e reduzir o estresse cirúrgico.\nIII. A sede perioperatória é um desconforto relacionado ao jejum pré-operatório que deve ser considerado pelo enfermeiro. A intubação orotraqueal, a perda sanguínea e os fármacos anestésicos são fatores que não interferem na ocorrência e intensidade da sede.\nIV. A hipotermia intraoperatória é um evento comum entre os pacientes submetidos ao ato anestésico - cirúrgico, no entanto, a manutenção da normotermia deve ser motivo de atenção em todas as fases do período operatório.\nEstão CORRETAS",
+  "alts": [
+   "apenas I e II.",
+   "apenas I e III.",
+   "apenas I, II e IV.",
+   "apenas II e IV.",
+   "I, II, III e IV."
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Anestesia e posicionamento",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "SOBECC, Diretrizes de Práticas em Enfermagem Perioperatória e Processamento de Produtos para a Saúde, 8ª ed. (2021)",
+  "coment": "Corretas I, II e IV. A ELPO, construída e validada por Lopes e colaboradores em 2016, avalia o risco de lesão decorrente do posicionamento cirúrgico. A abreviação do jejum faz parte dos protocolos multimodais de recuperação acelerada (ERAS, ACERTO) e reduz o estresse cirúrgico. A hipotermia intraoperatória é frequente, e a normotermia deve ser buscada em todas as fases. A III erra: intubação orotraqueal, perda sanguínea e fármacos anestésicos aumentam a sede perioperatória.",
+  "porAlt": [
+   "Incompleta: a IV, sobre hipotermia e normotermia, também está correta.",
+   "A III é falsa: intubação, perda sanguínea e anestésicos interferem na sede perioperatória.",
+   "Correta: I, II e IV estão certas, e a III erra ao negar os fatores que intensificam a sede.",
+   "Incompleta: a I, sobre a ELPO, também está correta.",
+   "A III é falsa, por isso a alternativa com todas as afirmativas não serve."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Analise as assertivas abaixo sobre a assistência integral ao recém-nascido:\nI. De acordo com as diretrizes brasileiras, recomenda-se a realização da triagem neonatal auditiva antes da alta da maternidade com reteste no primeiro mês de vida, caso o primeiro exame tenha alterações no resultado.\nII. O “5º Dia de Saúde Integral” é uma estratégia que propõe ações de vigilância à saúde do binômio mãe-filho no pós-parto. Ela otimiza a avaliação clínica da criança e da mãe no serviço de saúde no 5º dia de vida e estimula a realização oportuna do teste do pezinho.\nIII. A Organização Mundial de Saúde (OMS) recomenda que o primeiro banho do recém-nascido seja realizado após 24 horas do nascimento. Sabonetes que apresentam o potencial hidrogeniônico (pH) básico são os mais adequados para essa população porque ajudam a manter as características fisiológicas da pele.\nEstá CORRETO o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "II, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes de Atenção da Triagem Auditiva Neonatal (MS, 2012); Lei 12.303/2010",
+  "coment": "Corretas I e II. A triagem auditiva neonatal, obrigatória pela Lei 12.303/2010, é feita antes da alta, com reteste em até 30 dias quando o primeiro exame falha; a meta é triar até 1 mês, diagnosticar até 3 e intervir até 6 meses. O 5º Dia de Saúde Integral leva mãe e bebê à unidade na primeira semana para avaliação do binômio e coleta oportuna do teste do pezinho. A III erra no sabonete: a OMS recomenda adiar o primeiro banho para depois de 24 horas, mas os produtos adequados ao recém-nascido têm pH neutro ou levemente ácido, que preserva o manto ácido da pele; pH básico agride a barreira cutânea.",
+  "porAlt": [
+   "Incompleta: a II, sobre o 5º Dia de Saúde Integral, também está correta.",
+   "Incompleta: a I, sobre triagem auditiva antes da alta e reteste, também está correta.",
+   "Correta: I e II estão certas, e a III erra ao indicar sabonete de pH básico.",
+   "A III é falsa: sabonete de pH básico prejudica a barreira cutânea do recém-nascido.",
+   "A III é falsa, então não podem estar todas corretas."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Cuidar de Enfermagem ao adolescente hospitalizado é um aspecto inerente à prática da enfermagem. Sobre isso, assinale a alternativa CORRETA.",
+  "alts": [
+   "No cotidiano de cuidado aos adolescentes, os profissionais de enfermagem devem buscar respeitar a sua integralidade e suas características.",
+   "A atenção ao adolescente deve ser compartimentalizada e excludente para o paradigma da qualidade de vida.",
+   "Os profissionais de enfermagem não precisam conhecer e compreender a realidade do adolescente durante o período da sua hospitalização.",
+   "O cuidado ao adolescente hospitalizado justifica que se deva ter, além da competência profissional, a compreensão da importância de estar presente, dedicar-se, sem envolver-se no seu cuidado.",
+   "Para os adolescentes, a hospitalização não gera sentimentos de dependência e insegurança assim como o medo do desconhecido, dos aparelhos e instrumentos hospitalares."
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Adolescente",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Lei 8.069/1990 (ECA); Diretrizes Nacionais para a Atenção Integral à Saúde de Adolescentes e Jovens na Promoção, Proteção e Recuperação da Saúde (MS, 2010)",
+  "coment": "O cuidado ao adolescente hospitalizado parte da integralidade: ver o adolescente como sujeito de direitos (ECA), com características próprias da fase de desenvolvimento, autonomia crescente, vínculos familiares e sociais e necessidade de privacidade. A hospitalização gera medo, dependência e insegurança, e a enfermagem precisa conhecer a realidade do adolescente para planejar o cuidado. As distratoras negam justamente esses pontos: atenção compartimentalizada, desconhecimento da realidade, cuidado sem envolvimento e ausência de sofrimento com a internação.",
+  "porAlt": [
+   "Correta: respeitar a integralidade e as características do adolescente é a base do cuidado de enfermagem.",
+   "A atenção ao adolescente deve ser integral e inclusiva, não compartimentalizada e excludente.",
+   "Conhecer a realidade do adolescente durante a internação é necessário para planejar o cuidado.",
+   "O cuidado pede presença e envolvimento com o adolescente, não distanciamento.",
+   "A hospitalização gera, sim, dependência, insegurança e medo do desconhecido e dos equipamentos."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A atuação da enfermeira no âmbito hospitalar é essencial para promover, restaurar e manter a saúde das pessoas, sendo a consulta de enfermagem uma estratégia a ser aplicada para colaborar e minimizar agravos à saúde. Sobre a Consulta de Enfermagem (CE) ao adolescente, analise os itens abaixo e coloque V nos Verdadeiros e F nos Falsos.\n( ) Estabelecer um método para guiar a CE\n( ) Espaço de captação de informações\n( ) Identificação de problemas\n( ) Planejamento das intervenções com foco clínico-educativo\nAssinale a alternativa que indica a sequência CORRETA.",
+  "alts": [
+   "F, F, V, V",
+   "F, V, F,V",
+   "V, V, V, F",
+   "V, V, V, V",
+   "V, V, F, F"
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Consulta de enfermagem",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, arts. 4º e 5º (Processo de Enfermagem e consulta de enfermagem)",
+  "coment": "Os quatro itens são verdadeiros. A consulta de enfermagem ao adolescente segue as etapas do Processo de Enfermagem (Res. COFEN 736/2024, art. 5º), por isso precisa de um método que a guie. Ela é espaço de captação de informações (avaliação de enfermagem), de identificação de problemas (diagnóstico) e de planejamento das intervenções, que no adolescente têm foco clínico e educativo: crescimento, sexualidade, saúde mental, uso de substâncias e autocuidado.",
+  "porAlt": [
+   "Nega o método e a captação de informações, que estruturam a consulta de enfermagem.",
+   "Nega o método e a identificação de problemas, ambos verdadeiros.",
+   "Nega o planejamento clínico-educativo, que é parte da consulta ao adolescente.",
+   "Correta: os quatro itens descrevem a consulta de enfermagem organizada pelo Processo de Enfermagem.",
+   "Nega a identificação de problemas e o planejamento das intervenções, que são etapas da consulta."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A contracepção é considerada uma das intervenções em saúde mais custo-efetiva, pois evita gravidez não intencional e abortamentos inseguros, reduz mortalidade materna e neonatal e melhora a saúde do recém-nascido e da criança. A Organização Mundial de Saúde ressalta que as políticas públicas devem assegurar estratégias para garantir o fornecimento de métodos contraceptivos (de emergência, de curta e longa duração). Diante dessas recomendações, considerando a atuação do enfermeiro na saúde reprodutiva e contracepção, assinale a alternativa CORRETA.",
+  "alts": [
+   "Os dispositivos intrauterinos (DIU) podem ser inseridos imediatamente após um aborto cirúrgico ou farmacológico. Após colocar o DIU, a mulher é encaminhada para fazer consulta subsequente. Nessa ocasião, quando se encontra assintomática, mesmo que o fio não seja visualizado, entende-se que ele esteja bem posicionado.",
+   "É contraindicada a inserção do DIU entre 48 horas e 04 semanas do pós-parto. Nesses casos, se o DIU não foi inserido até 48h, a inserção deverá acontecer após 4 semanas pós-parto.",
+   "Se a usuária do DIU apresentar febre, dor pélvica aguda e persistente, pode ser sinal de doença inflamatória pélvica por cervicite, que estava assintomática no momento da inserção. Nesse caso, deve ser tratada com antibiótico apropriado e providenciada a imediata remoção do DIU, mesmo se a sintomatologia regredir rapidamente.",
+   "Usuárias de DIU com cobre que apresentam vaginose bacteriana, tricomoníase ou candidíase devem receber tratamento habitual. Porém, devem ser orientadas quanto à necessidade de remoção imediata do DIU porque está comprovado que este tem a capacidade de alterar a flora vaginal e piorar esse quadro de vulvovaginites.",
+   "O DIU com cobre estará bem posicionado, se o segmento longitudinal estiver próximo ao orifício interno do colo uterino, ou seja, fixo no canal cervical."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Planejamento reprodutivo",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "OMS. Critérios Médicos de Elegibilidade para Uso de Métodos Anticoncepcionais, 5ª ed., 2015; Manual técnico para profissionais de saúde: DIU com cobre TCu 380A (MS, 2018)",
+  "coment": "Pelos critérios de elegibilidade da OMS, o DIU pode ser inserido até 48 horas após o parto; entre 48 horas e 4 semanas a inserção é categoria 3, com risco maior de expulsão e perfuração, e por isso se aguarda completar 4 semanas. Fio não visualizado exige investigação por ultrassonografia, mesmo sem sintomas. Na doença inflamatória pélvica trata-se com antibiótico sem retirar o DIU; a remoção só se considera se não houver melhora clínica. Vaginose, tricomoníase e candidíase são tratadas sem retirar o dispositivo. O DIU bem posicionado fica no fundo uterino, não no canal cervical.",
+  "porAlt": [
+   "Fio não visualizado exige investigação, em geral por ultrassonografia, mesmo com a mulher assintomática.",
+   "Correta: entre 48 horas e 4 semanas após o parto a inserção é evitada, e o DIU é colocado após 4 semanas.",
+   "Na doença inflamatória pélvica trata-se com antibiótico, sem remover o DIU se houver melhora clínica.",
+   "Vulvovaginites são tratadas normalmente, sem necessidade de remover o DIU de cobre.",
+   "O DIU bem posicionado tem a haste no fundo uterino; no canal cervical está deslocado."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A pandemia por covid-19, causada pelo SARS-CoV-2, ocasionou milhares de mortes no mundo. Atualmente, sabe-se que gestantes infectadas com o vírus SARS-CoV-2 têm maior chance de pior evolução da covid-19, com quadros graves e óbito. No Brasil, até outubro de 2021, haviam sido contabilizados 1.901 casos de mortes de gestantes ou puérperas. Em relação à fisiopatologia e aos cuidados com a gestante portadora de infecção por covid-19, considere as informações abaixo e coloque V nas verdadeiras e F nas falsas.\n( ) A posição de prona não deve ser indicada em gestantes, porque piora o quadro de insuficiência respiratória e aumenta a demanda cardíaca, piorando a circulação, não havendo melhora das áreas dorsais que se encontram frequentemente colapsadas.\n( ) A vacina contra covid-19 poderá ser aplicada em qualquer trimestre da gravidez, devendo ser evitada na presença de quadro clínico de síndrome gripal.\n( ) Não há contraindicação formal ao aleitamento materno, desde que sejam instituídas medidas que garantam a proteção tanto da mãe quanto a do RN.\n( ) É contraindicada a profilaxia antitrombótica para gestantes com covid-19. Essa profilaxia só pode ser realizada com puérperas em função do risco de sangramento.\n( ) É importante também atentar-se à avaliação do volume de líquido amniótico, que pode se alterar especialmente devido a balanço hídrico negativo, estratégia usada com o objetivo de reduzir tempo de ventilação mecânica em gestantes com insuficiência respiratória aguda por covid-19.\nAssinale a alternativa que indica a sequência CORRETA.",
+  "alts": [
+   "F, V, V, F, V.",
+   "F, F, V, V, V",
+   "F, F, F, V, V",
+   "V, V, F, V, V",
+   "V, F, F, F, F"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Manual de Recomendações para a Assistência à Gestante e Puérpera frente à Pandemia de Covid-19 (MS, 2ª ed., 2021); Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "Sequência F, V, V, F, V. A posição prona pode ser usada na gestante com insuficiência respiratória grave, com adaptações (coxins, cuidado com o abdome), e melhora a ventilação das áreas dorsais; por isso a primeira é falsa. A vacina contra a covid-19 pode ser feita em qualquer trimestre e é adiada diante de quadro gripal agudo; hoje a gestante faz parte do grupo da Instrução Normativa do Calendário 2026. Não há contraindicação ao aleitamento, com máscara e higiene das mãos. A profilaxia antitrombótica é indicada também na gestante internada, conforme o risco. O balanço hídrico negativo pode reduzir o líquido amniótico e exige vigilância.",
+  "porAlt": [
+   "Correta: F, V, V, F, V, porque a prona é possível na gestante e a profilaxia antitrombótica não é contraindicada.",
+   "Nega a vacinação em qualquer trimestre e aceita a contraindicação da profilaxia antitrombótica, ambas incorretas.",
+   "Nega a vacinação e o aleitamento, que são permitidos, e aceita a contraindicação da profilaxia.",
+   "Considera a prona proibida e a profilaxia contraindicada, e nega o aleitamento.",
+   "Aceita a proibição da prona e nega vacina, aleitamento e vigilância do líquido amniótico."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A crença de que o avançar da idade e o declinar da atividade sexual estejam inexoravelmente interligados desviam a atenção a uma das atividades mais fortemente associadas à qualidade de vida, como é a sexualidade. Diante desta afirmativa, assinale a alternativa CORRETA.",
+  "alts": [
+   "Muitas pessoas, na oitava década de vida, continuam sendo sexualmente ativas, e mais da metade dos homens maiores de 90 anos, referem manter o interesse sexual, e 80% deles são considerados sexualmente ativos.",
+   "O enfermeiro durante o atendimento à pessoa idosa não deve estimular o idoso a relatar questões que podem interferir na sua vida sexual.",
+   "Embora a frequência e a intensidade da atividade sexual possam mudar ao longo da vida, problemas na capacidade de desfrutar prazer na relação sexual não devem ser considerados como parte normal do envelhecimento.",
+   "No homem idoso, não ocorre a diminuição parcial da tumescência peniana, tornando a relação sexual satisfatória, mesmo com diminuição da quantidade de sêmen ejaculado e a força com que ele é expelido.",
+   "Na mulher, após a menopausa, ocorre a exacerbação da libido, por não mais haver o desconforto relacionado aos períodos menstruais e nem o medo de uma gravidez indesejada, apesar da diminuição da lubrificação vaginal."
+  ],
+  "gab": 2,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 19, Envelhecimento e saúde da pessoa idosa (Ministério da Saúde, 2006)",
+  "coment": "O Caderno de Atenção Básica 19 lembra que frequência e intensidade da atividade sexual mudam com a idade, mas a dificuldade de desfrutar prazer não deve ser vista como parte normal do envelhecimento: deve ser investigada, pois pode decorrer de doenças, medicamentos ou fatores psicológicos. Por isso o enfermeiro pergunta ativamente sobre a vida sexual na consulta. No homem idoso a ereção fica mais lenta e menos rígida; na mulher, após a menopausa, a queda do estrogênio reduz a lubrificação e pode diminuir a libido, sem regra de exacerbação.",
+  "porAlt": [
+   "Exagera os números: não se sustenta que 80% dos homens acima de 90 anos sejam sexualmente ativos.",
+   "O enfermeiro deve estimular o idoso a relatar questões que interferem na vida sexual.",
+   "Correta: a dificuldade de sentir prazer na relação sexual não é parte normal do envelhecimento e merece investigação.",
+   "No homem idoso ocorre, sim, diminuição parcial da tumescência peniana, com ereção mais lenta.",
+   "A menopausa não exacerba a libido; a queda hormonal reduz a lubrificação e pode reduzir o desejo."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Organização Mundial da Saúde (OMS), em 2004, demonstrando preocupação com a segurança do paciente, criou a World Alliance for Patient Safety. Os objetivos desse programa, entre outros, é organizar os conceitos e as definições sobre segurança do paciente e propor medidas para reduzir os riscos e mitigar os eventos adversos. Alguns conceitos-chave da Classificação Internacional de Segurança do Paciente da Organização Mundial da Saúde são:\nI. Segurança do paciente: Reduzir a zero o risco de dano desnecessário associado ao cuidado de saúde.\nII. Dano: Comprometimento da estrutura ou função do corpo e/ou qualquer efeito dele oriundo, incluindo-se doenças, lesão, sofrimento, morte, incapacidade ou disfunção, podendo, assim, ser físico, social ou psicológico.\nIII. Risco: Probabilidade de ocorrer um incidente.\nIV. Near miss: Incidente que não atingiu o paciente.\nV. Evento Adverso: Incidente que resulta em dano ao paciente.\nEstão CORRETAS",
+  "alts": [
+   "apenas I, II e III.",
+   "apenas II e III.",
+   "apenas II, III, IV e V.",
+   "apenas III, IV e V.",
+   "I, II, III, IV e V."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 529/2013 (PNSP); RDC ANVISA 36/2013; Documento de Referência do Programa Nacional de Segurança do Paciente (MS/Fiocruz/ANVISA, 2014)",
+  "coment": "Corretas II, III, IV e V, conforme a Classificação Internacional de Segurança do Paciente da OMS, adotada pelo Documento de Referência do PNSP. A I erra porque segurança do paciente é reduzir a um mínimo aceitável o risco de dano desnecessário, definição literal da Portaria 529/2013 e da RDC 36/2013; risco zero não existe. Dano é o comprometimento da estrutura ou função do corpo e seus efeitos, físicos, sociais ou psicológicos; risco é a probabilidade de um incidente; near miss é o incidente que não atingiu o paciente; evento adverso é o incidente que resulta em dano.",
+  "porAlt": [
+   "A I é falsa: segurança do paciente é reduzir o risco a um mínimo aceitável, não a zero.",
+   "Incompleta: near miss (IV) e evento adverso (V) também estão definidos corretamente.",
+   "Correta: II, III, IV e V reproduzem os conceitos da OMS; a I erra ao falar em risco zero.",
+   "Incompleta: a definição de dano (II) também está correta.",
+   "A I é falsa, então não podem estar todas corretas."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Hospitalar",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A epidemiologia estuda os determinantes da distribuição de doenças na população e contribui para fornecer indícios da causa e do controle das doenças para desenvolvimento de ações relacionadas à saúde. Sobre isso, leia os itens abaixo:\nI. Esquistossomose\nII. Paracoccidioidomicose\nIII. Toxoplasmose\nIV. Leishmaniose tegumentar americana\nV. Dengue\nAssinale a alternativa em que são consideradas as doenças ENDÊMICAS no território brasileiro.",
+  "alts": [
+   "Todos os itens estão corretos.",
+   "Existem, apenas, quatro itens corretos.",
+   "Existem, apenas, três itens corretos.",
+   "Existem, apenas, dois itens corretos.",
+   "Existe, apenas, um item correto."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed. revisada, 2024",
+  "coment": "Endemia é a ocorrência habitual de uma doença numa área, dentro de uma faixa esperada. As cinco doenças têm transmissão estabelecida no território brasileiro: esquistossomose em áreas com o caramujo Biomphalaria, sobretudo no Nordeste e em Minas Gerais; paracoccidioidomicose, micose sistêmica da zona rural do Sul, Sudeste e Centro-Oeste; toxoplasmose, de soroprevalência alta em todo o país; leishmaniose tegumentar americana, presente em todas as regiões; e dengue, endêmica com picos epidêmicos sazonais. Por isso todos os itens estão corretos.",
+  "porAlt": [
+   "Correta: esquistossomose, paracoccidioidomicose, toxoplasmose, leishmaniose tegumentar e dengue são endêmicas no Brasil.",
+   "Todos os cinco itens são endêmicos; não há item a excluir.",
+   "Exclui duas doenças com transmissão habitual no país.",
+   "Exclui três doenças que são endêmicas no Brasil.",
+   "Reconhece apenas uma, mas as cinco têm ocorrência habitual no território brasileiro."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 1,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Foram realizados estudos de coorte em crianças que tiveram o primeiro quadro de amigdalite bacteriana e demonstraram que elas têm uma probabilidade de um em três de ter outro quadro de amigdalite bacteriana durante a infância. Assinale a alternativa que corresponde a esse tipo de taxa.",
+  "alts": [
+   "Prevalência-ponto",
+   "Incidência cumulativa",
+   "Incidência-densidade",
+   "Prevalência-período",
+   "Nenhuma das alternativas"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia & Saúde, 8ª ed. (2018); RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "Incidência cumulativa é a proporção de pessoas inicialmente livres do evento que o desenvolvem num período definido, e estima o risco individual. Na coorte de crianças acompanhadas após a primeira amigdalite, a chance de um em três de novo episódio durante a infância é exatamente isso: casos novos dividido pela população em risco no início do seguimento. Incidência-densidade usaria pessoas-tempo no denominador. Prevalência, pontual ou de período, conta casos existentes, novos e antigos, e não se obtém de coorte com esse objetivo.",
+  "porAlt": [
+   "Prevalência-ponto mede casos existentes num momento, não risco de casos novos numa coorte.",
+   "Correta: a proporção de crianças que desenvolvem novo episódio no seguimento é incidência cumulativa, uma estimativa de risco.",
+   "Incidência-densidade usa pessoas-tempo no denominador, o que o enunciado não descreve.",
+   "Prevalência-período conta casos existentes num intervalo, não casos novos numa coorte.",
+   "Há alternativa correta: a incidência cumulativa."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 2,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre o modelo de atenção às condições crônicas (MACC), desenvolvido por Eugênio Vilaça Mendes, através das evidências recolhidas na literatura internacional sobre os modelos de atenção à saúde e à singularidade do SUS, assinale a alternativa INCORRETA.",
+  "alts": [
+   "No nível 1, as intervenções são de prevenção das condições de saúde e com foco nos determinantes proximais da saúde ligados aos comportamentos e aos estilos de vida.",
+   "Até o segundo nível, não há uma condição de saúde estabelecida ou a manifestação de um fator de risco biopsicológico, à exceção dos riscos por idade ou gênero.",
+   "A partir do nível 3, exige-se a definição de subpopulações recortadas segundo a estratificação de riscos da condição de saúde, definida pelo Modelo da Pirâmide de Riscos.",
+   "Os níveis 3, 4 e 5 do MACC estão vinculados aos indivíduos com suas características relacionadas à camada central do modelo de Dahlgren e Whitehead.",
+   "O nível 5 destina-se à atenção às condições crônicas muito complexas e que estão, também, relacionadas nas linhas-guia das respectivas condições de saúde."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Mendes EV. O cuidado das condições crônicas na atenção primária à saúde: o imperativo da consolidação da estratégia da saúde da família. OPAS/CONASS, 2012",
+  "coment": "O MACC tem cinco níveis. O nível 1 é de promoção da saúde, voltado à população total e aos determinantes sociais intermediários, com ações intersetoriais. A prevenção das condições de saúde, focada nos determinantes proximais ligados a comportamentos e estilos de vida, é o nível 2. A alternativa A atribui ao nível 1 o conteúdo do nível 2 e é a incorreta. Até o nível 2 não há condição estabelecida nem fator de risco biopsicológico, salvo idade e sexo; a partir do nível 3 entram a estratificação de risco da pirâmide e a gestão da condição, e o nível 5 é a gestão de caso das condições muito complexas.",
+  "porAlt": [
+   "Correta: é a afirmativa incorreta, pois prevenção com foco nos determinantes proximais é o nível 2; o nível 1 é promoção da saúde sobre determinantes intermediários.",
+   "Afirmativa verdadeira: até o nível 2 não há condição de saúde estabelecida nem fator de risco biopsicológico, exceto idade e sexo.",
+   "Afirmativa verdadeira: a partir do nível 3 a população é estratificada pela pirâmide de riscos.",
+   "Afirmativa verdadeira: os níveis 3, 4 e 5 tratam de indivíduos com suas características e condições estabelecidas.",
+   "Afirmativa verdadeira: o nível 5 destina-se às condições crônicas muito complexas, previstas nas linhas-guia."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 3,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Foi realizado um estudo no Acre, com o objetivo de analisar fatores de risco para óbito em indivíduos com síndrome respiratória aguda grave por COVID-19. A amostra foi constituída de indivíduos adultos com COVID-19, de março a setembro de 2020, notificados pelo sistema de vigilância epidemiológica. Entre 57.700 indivíduos analisados, a incidência foi de 2.765,4/100 mil habitantes, e a mortalidade, de 61,8/100 mil hab. Os fatores de risco para o óbito, analisados pela regressão de Cox, foram: ser homem, idoso, apresentar cardiop atia, diabetes mellitus e dispneia. Assinale a alternativa que corresponde a esse tipo de estudo.",
+  "alts": [
+   "Ecológico.",
+   "Seccional.",
+   "Caso-controle.",
+   "Série de casos.",
+   "Coorte."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Fletcher GS. Epidemiologia clínica: elementos essenciais, 6ª ed., 2021",
+  "coment": "O estudo partiu de indivíduos com covid-19 notificados à vigilância e os acompanhou até o desfecho, óbito ou não, analisando os fatores de risco por regressão de Cox, técnica de análise de sobrevida que exige tempo de seguimento de cada pessoa. Partir da exposição ou condição e seguir até o desfecho é a lógica da coorte, aqui histórica (retrospectiva), montada com dados já registrados. O caso-controle parte do desfecho; o seccional mede exposição e desfecho no mesmo momento; o ecológico usa grupos como unidade.",
+  "porAlt": [
+   "No estudo ecológico a unidade de análise é o grupo, e aqui os dados são de indivíduos.",
+   "O seccional mede exposição e desfecho no mesmo momento e não usaria regressão de Cox com seguimento.",
+   "O caso-controle parte do desfecho e compara exposições passadas, o que o enunciado não descreve.",
+   "Série de casos não tem análise de fatores de risco com modelo de sobrevida.",
+   "Correta: indivíduos acompanhados até o óbito com regressão de Cox caracterizam uma coorte, aqui histórica."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 5,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre a história de consolidação da Política Nacional de Saúde da Pessoa Idosa, assinale a alternativa INCORRETA.",
+  "alts": [
+   "A Política Nacional do Idoso foi promulgada e regulamentada em 1996 (Lei nº 1.948/96).",
+   "Em 1999, a Portaria Ministerial nº 1.395 anunciou a Política Nacional de Saúde do Idoso.",
+   "Em 2002, foi proposta a organização e a implantação de Redes Estaduais de Assistência à Saúde do Idoso (Portaria nº 702/SAS/MS).",
+   "Em 2003, o Congresso Nacional aprovou, e o Presidente da República sancionou o Estatuto do Idoso com a participação de entidades de defesa dos interesses dos idosos.",
+   "Em 2006, foi publicado, por meio da Portaria nº 399/GM, o documento das Diretrizes do Pacto pela Saúde que contempla o Pacto pela Vida."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.842/1994; Decreto 1.948/1996; Portaria GM/MS 2.528/2006 (Política Nacional de Saúde da Pessoa Idosa)",
+  "coment": "A incorreta é a A: a Política Nacional do Idoso foi instituída pela Lei 8.842/1994 e regulamentada pelo Decreto 1.948/1996; não existe \"Lei 1.948/96\". As demais estão certas: a Portaria 1.395/1999 trouxe a Política Nacional de Saúde do Idoso; a Portaria 702/SAS/MS/2002 propôs as redes estaduais de assistência à saúde do idoso; o Estatuto do Idoso é a Lei 10.741/2003, hoje chamado Estatuto da Pessoa Idosa pela Lei 14.423/2022; e a Portaria 399/GM/2006 divulgou o Pacto pela Saúde, cujo Pacto pela Vida incluiu a saúde do idoso. Ainda em 2006 a Portaria 2.528 aprovou a PNSPI e revogou a 1.395.",
+  "porAlt": [
+   "Correta: é a afirmativa incorreta, pois a Política foi promulgada pela Lei 8.842/1994 e regulamentada pelo Decreto 1.948/1996, não por lei de 1996.",
+   "Afirmativa verdadeira: a Portaria 1.395/1999 anunciou a Política Nacional de Saúde do Idoso.",
+   "Afirmativa verdadeira: a Portaria 702/SAS/MS de 2002 propôs as redes estaduais de assistência à saúde do idoso.",
+   "Afirmativa verdadeira: o Estatuto do Idoso é a Lei 10.741/2003, renomeado Estatuto da Pessoa Idosa em 2022.",
+   "Afirmativa verdadeira: a Portaria 399/GM/2006 publicou as diretrizes do Pacto pela Saúde, com o Pacto pela Vida."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 6,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Analise a tabela abaixo que apresenta os valores da dosagem da vitamina D, em ng/ml, dosadas em 7 pacientes idosos com osteoporose, atendidos em um ambulatório de geriatria no ano de 2022.\nPaciente 1 — Valor da Vitamina D (ng/ml): 24\nPaciente 2 — Valor da Vitamina D (ng/ml): 18\nPaciente 3 — Valor da Vitamina D (ng/ml): 22\nPaciente 4 — Valor da Vitamina D (ng/ml): 30\nPaciente 5 — Valor da Vitamina D (ng/ml): 12\nPaciente 6 — Valor da Vitamina D (ng/ml): 16\nPaciente 7 — Valor da Vitamina D (ng/ml): 12\nConsiderando a tabela apresentada, assinale a alternativa CORRETA.",
+  "alts": [
+   "A Média, a Mediana e a Moda são iguais.",
+   "Moda < Mediana < Média.",
+   "Média < Mediana.",
+   "Mediana < Moda.",
+   "Moda > Média."
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "ger",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Medronho RA et al. Epidemiologia, 2ª ed., 2009 (bioestatística descritiva)",
+  "coment": "Ordenando os sete valores: 12, 12, 16, 18, 22, 24, 30. A moda é o valor mais frequente, 12. A mediana é o valor central da série ordenada, o 4º de 7, isto é, 18. A média é a soma dividida pelo número de observações: 134 ÷ 7 = 19,1 ng/mL. Logo moda (12) < mediana (18) < média (19,1). Quando a média supera a mediana, a distribuição tem assimetria à direita, puxada pelo valor 30.",
+  "porAlt": [
+   "Moda (12), mediana (18) e média (19,1) são diferentes.",
+   "Correta: moda 12 < mediana 18 < média 19,1.",
+   "A média (19,1) é maior que a mediana (18), não menor.",
+   "A mediana (18) é maior que a moda (12), não menor.",
+   "A moda (12) é menor que a média (19,1), não maior."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 8,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Na Portaria nº 264/2020, incluem-se, na lista Nacional de Notificação Compulsória de doenças, agravos e eventos de saúde pública, aqueles abaixo indicados, EXCETO",
+  "alts": [
+   "Violência doméstica.",
+   "Doença de Chagas crônica.",
+   "Cólera.",
+   "Filariose.",
+   "Acidente por animal peçonhento."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria de Consolidação GM/MS 4/2017, Anexo 1 do Anexo V, com redação da Portaria GM/MS 11.211/2026",
+  "coment": "A filariose não consta da Lista Nacional de Notificação Compulsória. A Portaria 264/2020 incluiu a doença de Chagas crônica na lista, que já trazia cólera, acidente por animal peçonhento e violência doméstica e/ou outras violências. A lista vigente está no Anexo 1 do Anexo V da PRC 4/2017, alterada por último pela Portaria GM/MS 11.211/2026, e mantém os quatro agravos citados nas alternativas: acidente por animal peçonhento, cólera, Chagas crônica e violência doméstica e/ou outras violências, sem incluir filariose. O gabarito segue válido.",
+  "porAlt": [
+   "Violência doméstica e/ou outras violências está na lista nacional, com notificação semanal.",
+   "A doença de Chagas crônica foi incluída na lista pela Portaria 264/2020 e permanece nela.",
+   "Cólera é de notificação compulsória imediata.",
+   "Correta: a filariose não faz parte da Lista Nacional de Notificação Compulsória.",
+   "Acidente por animal peçonhento está na lista nacional."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 9,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Dentre os marcos históricos da Política de Saúde no Brasil, em 2001, foi sancionada a Lei 10.216, marco importante no SUS, por instituir",
+  "alts": [
+   "a Lei Orgânica da Saúde.",
+   "a Norma Operacional da Assistência à Saúde.",
+   "a Lei Antimanicomial.",
+   "a Agenda de Saúde.",
+   "a Estratégia Saúde da Família."
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Lei 10.216/2001 e reforma psiquiátrica",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 10.216/2001",
+  "coment": "A Lei 10.216, de 6 de abril de 2001, conhecida como Lei da Reforma Psiquiátrica ou Lei Antimanicomial, dispõe sobre a proteção e os direitos das pessoas com transtornos mentais e redireciona o modelo assistencial em saúde mental, do hospital psiquiátrico para serviços de base comunitária. Ela define as modalidades de internação (voluntária, involuntária e compulsória) e exige comunicação da internação involuntária ao Ministério Público em 72 horas. As demais alternativas citam marcos de outros anos e normas.",
+  "porAlt": [
+   "A Lei Orgânica da Saúde é a Lei 8.080/1990, complementada pela 8.142/1990.",
+   "A Norma Operacional da Assistência à Saúde (NOAS) é portaria ministerial de 2001 e 2002, não a Lei 10.216.",
+   "Correta: a Lei 10.216/2001 é a Lei da Reforma Psiquiátrica, chamada Lei Antimanicomial.",
+   "Agenda de Saúde é instrumento de planejamento do SUS, sem relação com a Lei 10.216.",
+   "A Estratégia Saúde da Família nasceu como Programa Saúde da Família em 1994, por ato do Ministério."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 10,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre os indicadores de mortalidade utilizados na Saúde Pública, assinale a alternativa que corresponde ao Indicador de Swaroop-Uemura.",
+  "alts": [
+   "É calculado, dividindo-se o total de óbitos, em determinado período, pela população calculada para a metade do período.",
+   "Permite classificar regiões ou países em seis níveis de desenvolvimento.",
+   "É correspondente à última faixa etária das curvas de mortalidade proporcional.",
+   "É uma estimativa do risco de morte a que está exposta uma população de nascidos vivos, antes de completar o primeiro ano de vida.",
+   "Os grupos etários considerados nas projeções desse indicador são: menores de 1 ano, 1 a 4 anos, 5 a 19 anos e 20 a 49 anos."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008 (mortalidade proporcional por idade)",
+  "coment": "O indicador de Swaroop e Uemura é a proporção de óbitos de pessoas com 50 anos ou mais sobre o total de óbitos. Corresponde, portanto, à última faixa etária da curva de mortalidade proporcional de Nelson de Moraes, que agrupa menores de 1 ano, 1 a 4, 5 a 19, 20 a 49 e 50 anos ou mais. Quanto maior o valor, melhores as condições de saúde. Ele classifica as regiões em quatro níveis, não seis. Total de óbitos sobre população do meio do período é o coeficiente geral de mortalidade, e o risco de morrer antes de 1 ano é a mortalidade infantil.",
+  "porAlt": [
+   "Descreve o coeficiente geral de mortalidade, não o indicador de Swaroop-Uemura.",
+   "O indicador classifica as regiões em quatro níveis, não em seis.",
+   "Correta: o indicador é a proporção de óbitos com 50 anos ou mais, última faixa da curva de mortalidade proporcional.",
+   "Descreve o coeficiente de mortalidade infantil.",
+   "Lista faixas da curva de Nelson de Moraes, mas omite a de 50 anos ou mais, que é justamente o indicador."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 11,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Em 1965, o epidemiologista e estatístico britânico Sir Austin Bradford Hill propôs, através de um conjunto de observações, que, em conjunto, ajudam a estabelecer se uma relação entre um determinado fator ambiental e uma doença é causal ou apenas uma associação. Assinale a alternativa que NÃO corresponde a um dos critérios de Bradford Hill.",
+  "alts": [
+   "Sensibilidade",
+   "Analogia",
+   "Especificidade",
+   "Temporalidade",
+   "Plausibilidade biológica"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hill AB. The environment and disease: association or causation? Proc R Soc Med, 1965",
+  "coment": "Bradford Hill propôs nove critérios para julgar se uma associação é causal: força da associação, consistência, especificidade, temporalidade, gradiente biológico (dose-resposta), plausibilidade biológica, coerência, evidência experimental e analogia. Sensibilidade é propriedade de teste diagnóstico (capacidade de identificar os doentes), não critério de causalidade. Dos critérios, só a temporalidade é indispensável: a exposição precisa anteceder a doença.",
+  "porAlt": [
+   "Correta: sensibilidade é atributo de teste diagnóstico e não está entre os critérios de Bradford Hill.",
+   "Analogia é um dos nove critérios de Bradford Hill.",
+   "Especificidade é um dos critérios de Bradford Hill.",
+   "Temporalidade é critério de Bradford Hill e o único indispensável.",
+   "Plausibilidade biológica é um dos critérios de Bradford Hill."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 12,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre o programa Previne Brasil, instituído pela :\nI. Proporção de gestantes com, pelo menos, 8 (oito) consultas pré-natal realizadas.\nII. Proporção de gestantes com a realização de exames para sífilis e HIV.\nIII. Proporção de gestantes com atendimento odontológico realizado.\nIV. Proporção de mulheres com coleta de citopatológico na APS.\nV. Proporção de pessoas com diabetes, com consulta e glicemia de jejum anual solicitada.\nAssinale a alternativa em que são considerados os indicadores para o ano de 2022.",
+  "alts": [
+   "Todos os itens estão corretos.",
+   "Existem, apenas, quatro itens corretos.",
+   "Existem, apenas, três itens corretos.",
+   "Existem, apenas, dois itens corretos.",
+   "Existe, apenas, um item correto."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 3.222/2019 (indicadores de desempenho do Previne Brasil); Portaria GM/MS 3.493/2024 (cofinanciamento federal da APS)",
+  "coment": "O enunciado vem truncado pela própria banca (\"instituído pela :\"). Em 2022 o pagamento por desempenho do Previne Brasil tinha sete indicadores: gestantes com pelo menos 6 consultas, a 1ª até a 12ª semana; gestantes com exames de sífilis e HIV; gestantes com atendimento odontológico; mulheres com coleta de citopatológico na APS; cobertura vacinal de pólio e pentavalente; hipertensos com PA aferida no semestre; diabéticos com consulta e hemoglobina glicada solicitada no semestre. São corretos II, III e IV. O Previne Brasil foi revogado pela Portaria GM/MS 3.493/2024, que criou o novo cofinanciamento da APS.",
+  "porAlt": [
+   "I e V estão errados: eram 6 consultas, não 8, e hemoglobina glicada, não glicemia de jejum.",
+   "Só três itens estão corretos; I e V têm erros de parâmetro.",
+   "Correta: II, III e IV eram indicadores de 2022; I (8 consultas) e V (glicemia de jejum) estão errados.",
+   "São três os itens corretos, não dois: exames de sífilis e HIV, atendimento odontológico e citopatológico.",
+   "Três itens correspondem a indicadores do Previne Brasil em 2022."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 13,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre a Política Nacional de Saúde da Pessoa Idosa, que tem como finalidade primordial recuperar, manter e promover a autonomia e a independência dos indivíduos idosos, analise os itens abaixo:\nI. Idoso com idade maior ou igual a 75 anos.\nII. Vive em instituições de longa permanência para idosos.\nIII. Vive em situações de violência doméstica.\nIV. Esteve hospitalizado recentemente por qualquer razão.\nAssinale a alternativa em que são considerados como idoso frágil ou em situação de fragilidade.",
+  "alts": [
+   "I, II, III e IV estão corretos.",
+   "Apenas I, III e IV estão corretos.",
+   "Apenas II e IV estão corretos.",
+   "Apenas I e III estão corretos.",
+   "Apenas I e II estão corretos."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.528/2006 (Política Nacional de Saúde da Pessoa Idosa)",
+  "coment": "A PNSPI traz uma definição operacional de idoso frágil ou em situação de fragilidade, diferente do fenótipo de Fried: é quem vive em instituição de longa permanência, está acamado, esteve hospitalizado recentemente por qualquer razão, tem doença sabidamente causadora de incapacidade funcional (AVE, demências, neoplasia terminal, amputações), tem pelo menos uma incapacidade funcional básica ou vive em situação de violência doméstica, e, por critério etário, tem 75 anos ou mais. Os quatro itens do enunciado estão na lista.",
+  "porAlt": [
+   "Correta: idade de 75 anos ou mais, ILPI, violência doméstica e hospitalização recente estão na definição da PNSPI.",
+   "Exclui a residência em ILPI, que também caracteriza fragilidade.",
+   "Exclui a idade de 75 anos ou mais e a violência doméstica, ambos critérios da PNSPI.",
+   "Exclui a ILPI e a hospitalização recente, também previstas.",
+   "Exclui a violência doméstica e a hospitalização recente, também previstas."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 14,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre os estudos epidemiológicos, um estudo de caso-controle com base populacional é o mais indicado para estudar",
+  "alts": [
+   "incidência de doenças raras.",
+   "desfechos múltiplos de doenças.",
+   "risco atribuível na população.",
+   "fatores de risco para a doença.",
+   "prevalência da doença."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Fletcher GS. Epidemiologia clínica: elementos essenciais, 6ª ed., 2021",
+  "coment": "O caso-controle parte do desfecho: seleciona doentes (casos) e não doentes (controles) e compara a exposição passada, estimando a associação pela razão de chances. Por isso é o desenho indicado para estudar fatores de risco, sobretudo de doenças raras ou de latência longa. Como não acompanha uma população em risco, não mede incidência nem prevalência, e como parte de um único desfecho, não estuda desfechos múltiplos, papel da coorte. O risco atribuível populacional exige estimativas de incidência, que o caso-controle só fornece de forma indireta.",
+  "porAlt": [
+   "O caso-controle é bom para doenças raras, mas não mede incidência, que exige seguimento de população em risco.",
+   "Desfechos múltiplos de uma mesma exposição se estudam em coorte; o caso-controle parte de um desfecho.",
+   "O risco atribuível populacional depende de incidências, que o caso-controle não mede diretamente.",
+   "Correta: comparar a exposição passada de casos e controles serve para estudar fatores de risco da doença.",
+   "Prevalência se mede em estudo transversal, não em caso-controle."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 15,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "O programa Previne Brasil, instituído pela Portaria nº 2.979, de 12 de novembro de 2019, estabelece o novo modelo de financiamento de custeio da Atenção Primária à Saúde no SUS. Assinale a alternativa a qual NÃO foi considerada no incentivo e custeio de ações, programas e estratégias.",
+  "alts": [
+   "Programa Academia da Saúde",
+   "Programa Saúde na Hora",
+   "Equipe de Saúde da Família Ribeirinha (eSFR)",
+   "Núcleos de Saúde da Família e Atenção Básica (NASF-AB)",
+   "Equipe de Consultório na Rua (eCR)"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.979/2019 (Previne Brasil); Portaria GM/MS 635/2023 (eMulti); Portaria GM/MS 3.493/2024",
+  "coment": "O Previne Brasil (Portaria 2.979/2019) passou a custear a APS por capitação ponderada, pagamento por desempenho e incentivo a ações estratégicas. Entre as ações custeadas estavam o Programa Saúde na Hora, o Programa Academia da Saúde, as equipes de Saúde da Família Ribeirinhas e as equipes de Consultório na Rua. O NASF-AB ficou fora: deixou de ter custeio federal específico e de ser credenciado. Hoje o NASF foi substituído pelas eMulti (Portaria 635/2023), e o próprio Previne Brasil foi revogado pela Portaria 3.493/2024, que instituiu o novo cofinanciamento federal da APS.",
+  "porAlt": [
+   "O Programa Academia da Saúde estava entre as ações com custeio no Previne Brasil.",
+   "O Programa Saúde na Hora foi mantido como ação estratégica custeada.",
+   "As equipes de Saúde da Família Ribeirinhas tinham incentivo específico.",
+   "Correta: o NASF-AB não recebeu custeio no Previne Brasil e deixou de ser credenciado; hoje foi substituído pelas eMulti.",
+   "As equipes de Consultório na Rua seguiam com custeio como ação estratégica."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 16,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "O medicamento A é o tratamento estabelecido para uma doença, mas possui alto custo e muitos efeitos colaterais. Uma nova medicação, o medicamento B, acaba de ser desenvolvido para a mesma doença, é mais barato e tem menos efeitos colaterais, mas sua eficácia em relação ao medicamento A não está bem estabelecida. Qual das seguintes alternativas seria o melhor tipo de ensaio clínico para avaliar o medicamento B?",
+  "alts": [
+   "Equivalência",
+   "Superioridade",
+   "Cruzado",
+   "Conglomerados (cluster)",
+   "Não inferioridade"
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Fletcher GS. Epidemiologia clínica: elementos essenciais, 6ª ed., 2021; CONSORT 2010 (extensão para ensaios de não inferioridade e equivalência, 2012)",
+  "coment": "O medicamento B é mais barato e tem menos efeitos colaterais. Para adotá-lo não é preciso provar que é melhor que A, basta mostrar que não é inaceitavelmente pior, dentro de uma margem definida antes do estudo. Esse é o ensaio de não inferioridade, desenhado para novas terapias com vantagens de custo, segurança ou comodidade. O de superioridade exigiria provar eficácia maior; o de equivalência testa se a diferença fica dentro da margem nos dois sentidos; o cruzado e o por conglomerados são formas de alocação, não respondem a essa pergunta.",
+  "porAlt": [
+   "O de equivalência testa diferença nos dois sentidos; aqui basta mostrar que B não é pior que A.",
+   "O de superioridade exigiria provar que B é mais eficaz, o que não é necessário para adotá-lo.",
+   "O desenho cruzado é forma de alocar os tratamentos no mesmo paciente, não define a hipótese de comparação.",
+   "O ensaio por conglomerados randomiza grupos, e isso não responde à pergunta sobre a eficácia relativa de B.",
+   "Correta: o ensaio de não inferioridade mostra que B, mais barato e mais seguro, não é inaceitavelmente menos eficaz."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 17,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Dentre os modelos presentes na construção do modelo de atenção às condições crônicas na Estratégia de Saúde da Família, temos o modelo da pirâmide de riscos (MPR). Sobre o MPR, analise as afirmativas abaixo:\nI. O MPR divide as pessoas portadoras de uma condição crônica em quatro níveis, segundo estratos de risco definidos por graus de necessidades.\nII. No nível 1, está uma subpopulação com uma condição crônica simples e bem controlada e que apresenta um baixo perfil de risco geral.\nIII. 70 a 80% da população portadora de uma condição crônica pode ser estratificada no nível 1.\nIV. No nível 2, a maior parte do cuidado deve ser provida por uma equipe de APS com apoio de especialistas.\nAssinale a alternativa CORRETA.",
+  "alts": [
+   "Todas as afirmativas estão corretas.",
+   "Existem, apenas, três afirmativas corretas.",
+   "Existem, apenas, duas afirmativas corretas.",
+   "Existe, apenas, uma afirmativa correta.",
+   "Nenhuma afirmativa está correta."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Mendes EV. O cuidado das condições crônicas na atenção primária à saúde. OPAS/CONASS, 2012",
+  "coment": "O modelo da pirâmide de riscos, da Kaiser Permanente, divide as pessoas com condição crônica em três níveis, não quatro, por isso a I é falsa. No nível 1 ficam 70 a 80% dessas pessoas, com condição simples e bem controlada e baixo risco, cuidadas sobretudo pelo autocuidado apoiado (II e III verdadeiras). No nível 2, condição complexa, a maior parte do cuidado é da equipe de APS com apoio de especialistas, pela gestão da condição de saúde (IV verdadeira). O nível 3, de 1 a 5% com condição altamente complexa, exige gestão de caso. São três afirmativas corretas.",
+  "porAlt": [
+   "A I é falsa: o modelo tem três níveis de estratificação, não quatro.",
+   "Correta: II, III e IV estão certas; a I erra ao falar em quatro níveis.",
+   "São três corretas: nível 1 de condição simples, 70 a 80% nesse nível e cuidado da APS com apoio especializado no nível 2.",
+   "Há mais de uma afirmativa correta.",
+   "Três das quatro afirmativas estão corretas."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 18,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A capacidade de garantir a continuidade da atenção, através da equipe de saúde, com o reconhecimento dos problemas que requerem seguimento constante e se articula com a função de centro de comunicação das Redes de Atenção à Saúde corresponde ao seguinte atributo da Atenção Primária à Saúde:",
+  "alts": [
+   "Integralidade.",
+   "Longitudinalidade.",
+   "Orientação comunitária.",
+   "Primeiro contato.",
+   "Coordenação."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Starfield B. Atenção primária: equilíbrio entre necessidades de saúde, serviços e tecnologia (UNESCO/Ministério da Saúde, 2002); Portaria GM/MS 2.436/2017 (PNAB)",
+  "coment": "Coordenação é a capacidade de garantir a continuidade da atenção pela equipe, reconhecendo os problemas que pedem seguimento constante e articulando os diferentes pontos da rede; por isso se liga à função de centro de comunicação das Redes de Atenção à Saúde. Longitudinalidade é o vínculo e o acompanhamento da mesma pessoa ao longo do tempo; integralidade é oferecer ou garantir todos os serviços de que ela precisa; primeiro contato é ser a porta de entrada; orientação comunitária é conhecer as necessidades do território. A PNAB lista a coordenação do cuidado entre suas diretrizes.",
+  "porAlt": [
+   "Integralidade é garantir o conjunto de serviços de que a pessoa precisa, não a articulação da continuidade entre pontos da rede.",
+   "Longitudinalidade é o vínculo e o acompanhamento ao longo do tempo pela mesma equipe, não a função de comunicação da rede.",
+   "Orientação comunitária é conhecer as necessidades de saúde da comunidade e do território.",
+   "Primeiro contato é a acessibilidade da APS como porta de entrada a cada novo problema.",
+   "Correta: coordenação garante a continuidade e articula a APS como centro de comunicação das redes."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 19,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Os modelos de atenção às condições agudas de triagem em urgências e emergências apresentam grande variação, de acordo com as várias experiências em todo o mundo, mas têm em comum a triagem de risco. Sobre isso, analise as afirmativas abaixo:\nI. O modelo australiano (Australasian Triage Scale) foi o modelo pioneiro.\nII. O modelo canadense (Canadian Triage Acuity Scale) é semelhante ao modelo australiano, porém mais complexo.\nIII. O Sistema Manchester de Classificação de risco trabalha os níveis de urgência por um código de cores.\nIV. O sistema de classificação de risco de Manchester, ainda que desenvolvido para utilização, especialmente em ambientes hospitalares, tem sido utilizado na Atenção Primária à Saúde no SUS.\nEstão CORRETAS:",
+  "alts": [
+   "I, II, III e IV.",
+   "Apenas II, III e IV.",
+   "Apenas I e II.",
+   "Apenas I e IV.",
+   "Apenas II e III."
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Classificação de risco",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Mendes EV. As redes de atenção à saúde. OPAS, 2011 (modelos de atenção às condições agudas)",
+  "coment": "As quatro afirmativas estão na descrição de Mendes dos modelos de triagem. A escala australiana (Australasian Triage Scale) foi a pioneira; a canadense (CTAS) é semelhante à australiana, porém mais complexa; o Sistema Manchester expressa os níveis de urgência por cores, do vermelho (emergência) ao azul (não urgente), com tempo-alvo para cada uma. Embora desenhado para serviços hospitalares de urgência, o Manchester passou a ser usado também na Atenção Primária no SUS, como na rede de Minas Gerais, para dar linguagem comum à rede de urgência.",
+  "porAlt": [
+   "Correta: as quatro afirmativas descrevem corretamente os modelos australiano, canadense e de Manchester.",
+   "Exclui a I, mas a escala australiana foi de fato o modelo pioneiro.",
+   "Exclui a III e a IV, ambas verdadeiras.",
+   "Exclui a II e a III, ambas verdadeiras.",
+   "Exclui a I e a IV, ambas verdadeiras."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 20,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Dentre os estudos epidemiológicos, temos um tipo de estudo que compara a ocorrência da doença ou condição relacionada à saúde e à exposição de interesse entre agregados populacionais. Tem como objetivo verificar a hipótese de existência de associação entre elas, porém sem um teste específico para comprovar a associação. Assinale a alternativa que corresponde a esse tipo de estudo.",
+  "alts": [
+   "Seccional.",
+   "Ecológico.",
+   "Série de casos.",
+   "Caso-controle.",
+   "Coorte."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia & Saúde, 8ª ed. (2018)",
+  "coment": "No estudo ecológico a unidade de análise é o agregado populacional (município, estado, país), não o indivíduo. Ele correlaciona a frequência da doença com a da exposição entre os grupos e serve para gerar hipóteses, mas não permite saber se os indivíduos expostos são os que adoeceram, o que leva à falácia ecológica; daí a ausência de teste que comprove a associação no nível individual. Seccional, caso-controle e coorte trabalham com dados individuais, e a série de casos apenas descreve doentes.",
+  "porAlt": [
+   "O seccional mede exposição e desfecho em indivíduos no mesmo momento.",
+   "Correta: comparar doença e exposição entre agregados populacionais caracteriza o estudo ecológico.",
+   "A série de casos descreve doentes, sem comparar grupos populacionais.",
+   "O caso-controle parte de indivíduos doentes e não doentes e compara exposições passadas.",
+   "A coorte acompanha indivíduos expostos e não expostos ao longo do tempo."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 21,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Política Nacional de Atenção Básica regulamentada pela Portaria nº 2.436, de 21 de setembro de 2017, estabelece a revisão de diretrizes para a organização da Atenção Básica, no âmbito do Sistema Único de Saúde (SUS). Sobre isso, leia os itens abaixo:\nI. Universalidade\nII. Equidade\nIII. Integralidade\nIV. Territorialização\nV. População Adscrita\nAssinale a alternativa que contempla as Diretrizes do SUS e da Rede de Atenção à Saúde a serem operacionalizadas na Atenção Básica.",
+  "alts": [
+   "Todos os itens estão corretos.",
+   "Existem, apenas, quatro itens corretos.",
+   "Existem, apenas, três itens corretos.",
+   "Existem, apenas, dois itens corretos.",
+   "Existe, apenas, um item correto."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), art. 3º, consolidada na PRC 2/2017",
+  "coment": "O art. 3º da PNAB separa princípios e diretrizes do SUS e da RAS a operacionalizar na Atenção Básica. Princípios: universalidade, equidade e integralidade. Diretrizes: regionalização e hierarquização, territorialização, população adscrita, cuidado centrado na pessoa, resolutividade, longitudinalidade do cuidado, coordenação do cuidado, ordenação da rede e participação da comunidade. Dos cinco itens, só territorialização e população adscrita são diretrizes; os outros três são princípios. A PNAB de 2017 segue vigente, com revisão anunciada pelo Ministério.",
+  "porAlt": [
+   "Universalidade, equidade e integralidade são princípios, não diretrizes, no art. 3º da PNAB.",
+   "Só dois itens são diretrizes; os outros três são princípios.",
+   "Inclui ao menos um princípio entre as diretrizes; só territorialização e população adscrita são diretrizes.",
+   "Correta: apenas territorialização e população adscrita são diretrizes; universalidade, equidade e integralidade são princípios.",
+   "São dois os itens que a PNAB classifica como diretrizes, não um."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 23,
+   "parte": "gerais"
+  }
+ }
+]

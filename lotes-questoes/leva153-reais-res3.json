@@ -1,0 +1,1506 @@
+[
+ {
+  "q": "A educação em saúde no contexto do Sistema Único de Saúde (SUS) é um processo transversal que visa promover a autonomia e a cidadania da população por meio da articulação entre saberes técnicos e populares. Qual das alternativas a seguir define CORRETAMENTE a Educação Permanente em Saúde (EPS) e um de seus pilares conceituais, conforme a legislação e os documentos de referência da política?",
+  "alts": [
+   "A EPS é caracterizada pela ênfase na titulação formal e na obtenção de certificados de especialização em instituições de ensino, sendo sua principal finalidade a progressão vertical na carreira dos profissionais.",
+   "A EPS adota a metodologia da problematização e utiliza o processo de trabalho como fonte de aprendizado e reflexão, articulando Ensino, Gestão, Atenção à Saúde e Controle Social no chamado \"Quadrilátero da Formação\".",
+   "A EPS é um modelo que centraliza a responsabilidade pela formação de novos profissionais exclusivamente nas Universidades Federais, atuando de forma desvinculada das necessidades e realidades das Secretarias de Saúde locais.",
+   "A EPS limita-se às atividades de treinamento focadas na aquisição de conhecimentos técnicos específicos sobre o manejo de novas tecnologias e equipamentos, com um cronograma fixo e predeterminado.",
+   "A EPS é gerida de forma centralizada pela União, visando à padronização dos currículos em âmbito nacional e desconsiderando a necessidade de flexibilização regional para responder aos problemas epidemiológicos locais."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 198/2004 e Portaria GM/MS 1.996/2007 (Política Nacional de Educação Permanente em Saúde)",
+  "coment": "A Educação Permanente em Saúde, instituída pela Portaria GM/MS 198/2004 e redirecionada pela 1.996/2007, é aprendizagem no trabalho: parte dos problemas reais do serviço, usa a problematização e busca mudar as práticas. Seu desenho conceitual é o quadrilátero da formação (ensino, gestão, atenção e controle social), proposto por Ceccim e Feuerwerker e incorporado à política. A condução é regional e descentralizada, com as Comissões Permanentes de Integração Ensino-Serviço. Cursos com conteúdo fixo e foco em titulação descrevem a educação continuada, não a permanente.",
+  "porAlt": [
+   "Titulação formal e progressão na carreira não são a finalidade da EPS, que mira a transformação das práticas no serviço.",
+   "Correta: problematização, processo de trabalho como fonte de aprendizagem e o quadrilátero ensino, gestão, atenção e controle social definem a EPS.",
+   "A política articula instituições de ensino e gestores locais pelas comissões de integração ensino-serviço; não concentra a formação nas universidades federais.",
+   "Treinamento técnico com cronograma fixo e predeterminado é educação continuada; a EPS parte dos problemas do cotidiano.",
+   "A condução da EPS é descentralizada e regional, justamente para responder às necessidades locais; não há padronização nacional de currículos."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerou-se que, com a promulgação da Constituição e aprovação da lei orgânica de saúde, o movimento sanitário teria “ganhado a guerra”, contudo o que havia se ganhado era apenas uma batalha. Nesse sentido, assinale a alternativa que representa uma contradição entre processo e projeto da Reforma Sanitária Brasileira.",
+  "alts": [
+   "Ampliação do conceito de saúde.",
+   "Constituição do SUS gratuito.",
+   "Desvinculação do sistema de previdência social.",
+   "Democratização da saúde.",
+   "Interesses eleitoreiros e clientelistas."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Constituição Federal de 1988, arts. 196 a 198; Lei 8.080/1990",
+  "coment": "A frase do enunciado retoma a leitura clássica da Reforma Sanitária (Paim): a Constituição de 1988 e a Lei 8.080/1990 consagraram o projeto (saúde ampliada, direito de cidadania, sistema público, gratuito, democrático e desvinculado da previdência), mas o processo de implantação esbarrou em práticas que o contradizem. Interesses eleitoreiros e clientelistas, que tratam serviço público como moeda política, são exatamente essa contradição. As demais alternativas são conquistas que fazem parte do próprio projeto.",
+  "porAlt": [
+   "O conceito ampliado de saúde, ligado às condições de vida, é proposta central da Reforma Sanitária, não contradição.",
+   "O SUS gratuito e universal é conquista do projeto, inscrita no art. 196 da Constituição.",
+   "Desvincular a assistência da condição previdenciária foi bandeira da Reforma, superando o modelo do INAMPS.",
+   "A democratização da saúde, com participação da comunidade, é diretriz do projeto (art. 198, III, da Constituição).",
+   "Correta: interesses eleitoreiros e clientelistas contrariam o projeto público e democrático e marcam a distância entre processo e projeto."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 1,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Atualmente, todos os cidadãos têm o acesso ao estoque de medicamentos das farmácias públicas através dos sites das instâncias gestoras. A obrigatoriedade de atualização do estoque medicamentoso, prevista na Lei 8080/90, deve ter uma periodicidade",
+  "alts": [
+   "diária.",
+   "semanal.",
+   "quinzenal.",
+   "mensal.",
+   "anual."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 6º-A (incluído pela Lei 14.654/2023)",
+  "coment": "A Lei 14.654/2023 acrescentou o art. 6º-A à Lei 8.080/1990: as instâncias gestoras do SUS devem divulgar, em seus sítios na internet, os estoques de medicamentos das farmácias públicas sob sua gestão, com atualização quinzenal. A medida, em vigor 180 dias após a publicação, busca transparência, evitar deslocamento inútil do usuário e reduzir perdas e desvios. Os demais prazos não constam da lei.",
+  "porAlt": [
+   "Atualização diária não é exigida pela lei; o prazo legal é de quinze dias.",
+   "A lei não fala em atualização semanal; a periodicidade fixada é quinzenal.",
+   "Correta: o art. 6º-A da Lei 8.080, incluído pela Lei 14.654/2023, determina atualização quinzenal dos estoques divulgados.",
+   "Atualização mensal seria mais espaçada do que a lei permite.",
+   "Atualização anual tornaria a informação inútil ao usuário e não corresponde ao texto legal."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 3,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Esta modalidade de vigilância fornece subsídio aos profissionais de saúde para estabelecerem o diagnóstico de agravos alimentares e nutricionais, bem como o planejamento de ações. Para o alcance desses objetivos, rotineiramente são utilizadas enquanto ferramentas: a avaliação antropométrica e os marcadores de consumo alimentar. Assinale abaixo a alternativa CORRETA que apresenta o campo de atuação do SUS ao qual se refere o texto apresentado.",
+  "alts": [
+   "Vigilância nutricional.",
+   "Vigilância sanitária.",
+   "Assistência farmacêutica.",
+   "Saúde Bucal.",
+   "Vigilância epidemiológica."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 6º, IV; Política Nacional de Alimentação e Nutrição (Portaria GM/MS 2.715/2011)",
+  "coment": "A vigilância nutricional e a orientação alimentar estão no campo de atuação do SUS (art. 6º, IV, da Lei 8.080/1990). A Vigilância Alimentar e Nutricional descreve e prevê o estado nutricional da população e seus determinantes, e suas ferramentas de rotina são a antropometria e os marcadores de consumo alimentar, registrados no SISVAN. A vigilância epidemiológica trata de doenças e agravos em geral, e a sanitária, de riscos de produtos e serviços.",
+  "porAlt": [
+   "Correta: antropometria e marcadores de consumo alimentar são as ferramentas da vigilância nutricional, campo do art. 6º, IV, da Lei 8.080.",
+   "A vigilância sanitária controla riscos de produtos, serviços e ambientes; não faz diagnóstico nutricional da população.",
+   "A assistência farmacêutica trata de medicamentos, da seleção à dispensação, e não de antropometria.",
+   "A saúde bucal é outro campo do art. 6º e não usa marcadores de consumo alimentar como ferramenta central.",
+   "A vigilância epidemiológica acompanha doenças e agravos em geral; o diagnóstico de agravos nutricionais com antropometria é a vigilância nutricional."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 4,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Em 1988, a Constituição da República Federativa do Brasil trouxe a definição de saúde: \"a saúde é direito de todos e dever do Estado\". Conceito claro e que norteia as doutrinas do SUS. Assinale a alternativa CORRETA que apresenta o princípio doutrinário cuja base consiste na definição/preceito constitucional apresentado.",
+  "alts": [
+   "Integralidade.",
+   "Eficácia.",
+   "Equidade.",
+   "Universalidade.",
+   "Eficiência."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, art. 196; Lei 8.080/1990, art. 7º, I",
+  "coment": "O art. 196 da Constituição diz que a saúde é direito de todos e dever do Estado, com acesso universal e igualitário. Se é direito de todos, ninguém pode ser excluído: é o princípio doutrinário da universalidade, repetido no art. 7º, I, da Lei 8.080/1990 (universalidade de acesso em todos os níveis de assistência). Integralidade e equidade são os outros princípios doutrinários, mas não decorrem diretamente da expressão citada; eficácia e eficiência são conceitos de gestão.",
+  "porAlt": [
+   "Integralidade é o conjunto articulado de ações preventivas e curativas em todos os níveis (art. 7º, II), não a ideia de direito de todos.",
+   "Eficácia é atributo de gestão e avaliação de serviços, não princípio doutrinário do SUS.",
+   "Equidade trata desigualmente os desiguais conforme a necessidade; não é o que a expressão direito de todos traduz.",
+   "Correta: direito de todos e dever do Estado fundamenta a universalidade de acesso (CF, art. 196; Lei 8.080, art. 7º, I).",
+   "Eficiência é relação entre recursos e resultados, conceito de gestão, não princípio doutrinário."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 5,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Em abril de 2025, foi publicada a Lei 15.126/2025, a qual fortaleceu o compromisso de ampliar a relação profissional-paciente, de maneira a se promover uma assistência permeada de respeito e empatia. Com a inserção de um novo princípio ao SUS, busca-se fornecer um cuidado de qualidade e acolhedor, beneficiando os usuários do SUS. Assinale abaixo a alternativa que apresenta o novo princípio citado no texto.",
+  "alts": [
+   "Capacidade de resolução dos serviços em todos os níveis de assistência.",
+   "Direito à informação, às pessoas assistidas, sobre sua saúde.",
+   "Integralidade de assistência.",
+   "Preservação da autonomia das pessoas na defesa de sua integridade física e moral.",
+   "Atenção humanizada."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º, XVI (incluído pela Lei 15.126/2025)",
+  "coment": "A Lei 15.126/2025 incluiu o inciso XVI no art. 7º da Lei 8.080/1990: a atenção humanizada passou a ser princípio expresso do SUS. A Política Nacional de Humanização já existia desde 2003, mas como política, não como princípio legal. As outras alternativas são princípios antigos do mesmo artigo: capacidade de resolução (XII), direito à informação (V), integralidade (II) e preservação da autonomia (III).",
+  "porAlt": [
+   "A capacidade de resolução dos serviços já constava do art. 7º, XII, desde 1990.",
+   "O direito à informação sobre a própria saúde já constava do art. 7º, V.",
+   "A integralidade de assistência é princípio original do art. 7º, II.",
+   "A preservação da autonomia das pessoas na defesa de sua integridade física e moral é o art. 7º, III, desde 1990.",
+   "Correta: a Lei 15.126/2025 incluiu a atenção humanizada como inciso XVI do art. 7º da Lei 8.080."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 6,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "No juramento hipocrático, encontram-se expressas obrigações médicas: “Eu usarei tratamento para ajudar o doente de acordo com minha habilidade e julgamento, mas eu nunca o usarei para prejudicar ou causar dano a alguém”. Encontram-se descritos, nesse recorte, os seguintes princípios, respectivamente:",
+  "alts": [
+   "Beneficência e autonomia.",
+   "Autonomia e não maleficência.",
+   "Não maleficência e justiça.",
+   "Justiça e beneficência.",
+   "Beneficência e não maleficência."
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Beauchamp e Childress, Principles of Biomedical Ethics (1979); Resolução COFEN 564/2017 (Código de Ética)",
+  "coment": "O trecho tem duas partes. Usar o tratamento para ajudar o doente é fazer o bem, a beneficência. Nunca usá-lo para prejudicar ou causar dano é a não maleficência, o primum non nocere. Os dois princípios integram o modelo principialista de Beauchamp e Childress, com autonomia e justiça, que não aparecem no recorte: não há referência à vontade do paciente nem à distribuição de recursos.",
+  "porAlt": [
+   "A primeira parte é beneficência, mas a segunda trata de não causar dano, e não de respeitar a vontade do paciente.",
+   "Autonomia é respeito à decisão do paciente, ideia ausente do recorte, que começa falando em ajudar o doente.",
+   "A primeira parte é ajudar o doente, beneficência; justiça trata de distribuição equitativa, ausente do texto.",
+   "Justiça não aparece no recorte; a ordem correta é beneficência e depois não maleficência.",
+   "Correta: ajudar o doente é beneficência e nunca prejudicar ou causar dano é não maleficência, nessa ordem."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 8,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "“A tese central dos Princípios da Ética Biomédica assenta na defesa de quatro princípios prima facie, a saber: respeito pela autonomia, não maleficência, beneficência e justiça.” Marta Dias Barcelos, Paulo Fraga Com base nos seus conhecimentos acerca dos princípios da bioética, assinale a alternativa que se refere ao termo prima facie.",
+  "alts": [
+   "Impõe ao princípio da Autonomia a maior hierarquia.",
+   "Fornece aos quatro princípios o mesmo grau de importância.",
+   "Impossibilita o cumprimento simultâneo dos quatros princípios em uma situação ética conflituosa.",
+   "Estabelece hierarquização dos quatro princípios, a saber: autonomia, não maleficência, beneficência e justiça respectivamente.",
+   "Estabelece enquanto sinônimos a beneficência e não maleficência."
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Beauchamp e Childress, Principles of Biomedical Ethics (1979), princípios prima facie",
+  "coment": "Prima facie (à primeira vista) significa que cada princípio obriga por si só, sem hierarquia fixa entre eles. Autonomia, não maleficência, beneficência e justiça têm o mesmo peso de partida; quando entram em conflito num caso concreto, o profissional pondera qual prevalece naquela situação. Por isso nenhum princípio é superior por definição e, na maioria das situações, todos podem ser cumpridos ao mesmo tempo. Beneficência (fazer o bem) e não maleficência (não causar dano) são princípios distintos.",
+  "porAlt": [
+   "Prima facie significa justamente ausência de hierarquia; a autonomia não tem precedência fixa.",
+   "Correta: prima facie dá aos quatro princípios o mesmo peso de partida, e a prevalência é decidida caso a caso.",
+   "O caráter prima facie não impede o cumprimento simultâneo; só orienta a ponderação quando há conflito.",
+   "Não há ordem hierárquica fixa entre os quatro princípios; é o oposto do conceito de prima facie.",
+   "Beneficência e não maleficência são princípios distintos no modelo, um manda fazer o bem e o outro manda não causar dano."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 9,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Suponha que uma mulher, de 49 anos, sem acompanhante, esteja em uma unidade hospitalar do SUS. Em decorrência do seu estado clínico, ela necessitará de um procedimento que requer sedação. Questionada acerca da presença do acompanhante, a mulher referiu que não havia nenhum acompanhante disponível. Frente à delicada situação, o hospital optou por indicar uma técnica em enfermagem para acompanhá-la durante o procedimento. Contudo, a paciente recusou. Considerando o caso citado, assinale a alternativa que se aplica CORRETAMENTE ao caso descrito.",
+  "alts": [
+   "A profissional indicada deveria cobrar à paciente pela função de acompanhante desempenhada.",
+   "A paciente é obrigada a aceitar a acompanhante indicada pelo Hospital.",
+   "A paciente pode recusar o nome indicado e solicitar a indicação de outro.",
+   "Caso a paciente recuse o nome indicado, a paciente deve formalizar a justificativa da recusa, por escrito, em seu prontuário.",
+   "A renúncia da presença do acompanhante pela paciente durante o procedimento deve ser verbal, não havendo necessidade de registro em prontuário."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 19-J (redação da Lei 14.737/2023)",
+  "coment": "Pelo art. 19-J da Lei 8.080/1990, na redação da Lei 14.737/2023, toda mulher tem direito a acompanhante maior de idade em consultas, exames e procedimentos. Em atendimento com sedação ou rebaixamento de consciência, se ela não indicar acompanhante, a unidade indica uma pessoa, preferencialmente profissional de saúde do sexo feminino, sem custo para a paciente, que pode recusar o nome indicado e pedir outro, independentemente de justificativa. A renúncia ao acompanhante só vale por escrito, com antecedência mínima de 24 horas, e fica no prontuário.",
+  "porAlt": [
+   "A acompanhante indicada pela unidade não gera custo para a paciente, como determina o art. 19-J.",
+   "A lei garante à paciente o direito de recusar o nome indicado pela unidade.",
+   "Correta: o art. 19-J permite recusar o nome indicado e solicitar outro, sem precisar justificar.",
+   "A recusa do nome indicado independe de justificativa; não se exige justificativa escrita da paciente.",
+   "A renúncia ao acompanhante em procedimento com sedação deve ser por escrito, com 24 horas de antecedência, e arquivada no prontuário."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 10,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Acerca do planejamento regional integrado, assinale a alternativa INCORRETA.",
+  "alts": [
+   "É pactuado na Comissão Intergestores Triparite – CIT.",
+   "É elaborado no âmbito da região de saúde.",
+   "É monitorado pela Comissão Intergestores Regional – CIR.",
+   "Considera, para elaboração, as necessidades de saúde que constam nos planos municipais de saúde.",
+   "Busca garantir acesso e integralidade da atenção à saúde em uma região de saúde."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Decreto 7.508/2011, arts. 15 a 19; Resolução CIT 37/2018 (Planejamento Regional Integrado)",
+  "coment": "O Planejamento Regional Integrado é feito no âmbito das regiões e macrorregiões de saúde, coordenado pelo estado, a partir das necessidades expressas nos planos municipais (Decreto 7.508/2011, art. 18, e Resolução CIT 37/2018). A pactuação ocorre na Comissão Intergestores Bipartite, e a CIR acompanha e monitora sua execução na região. A CIT define diretrizes nacionais, mas não pactua o PRI de cada estado; por isso a alternativa que atribui a pactuação à CIT é a incorreta. O erro de grafia Triparite é da banca.",
+  "porAlt": [
+   "Correta: é a afirmação incorreta, pois o PRI é pactuado na CIB, no estado; a CIT só define diretrizes nacionais.",
+   "Está correta: o PRI é elaborado no âmbito da região de saúde, como manda o planejamento regionalizado.",
+   "Está correta: a CIR, instância regional de pactuação, monitora o planejamento da sua região.",
+   "Está correta: o planejamento é ascendente e parte das necessidades dos planos municipais de saúde.",
+   "Está correta: o objetivo do PRI é garantir acesso e integralidade dentro da região de saúde."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 11,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "O Governo Federal, a partir do ano corrente de 2025, adotou uma nova forma de financiamento da Atenção Básica. Atualmente, o componente vínculo e o acompanhamento territorial estruturam o cofinanciamento federal. Acerca do componente citado no enunciado da questão, assinale a alternativa INCORRETA.",
+  "alts": [
+   "Qualifica o cadastro domiciliar e territorial do usuário.",
+   "Reorganiza a atenção primária no território",
+   "Melhora o atendimento à população.",
+   "Proporciona adscrição territorial, estabelecendo a recusa de atendimento aos usuários sem cadastro prévio nas eSF.",
+   "Fortalece a vinculação da população à eSF ou eAP."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 3.493/2024 (cofinanciamento federal da APS); Portaria GM/MS 2.436/2017 (PNAB)",
+  "coment": "A Portaria GM/MS 3.493/2024 revogou o Previne Brasil e criou a nova metodologia de cofinanciamento federal da APS, com componentes fixo, de vínculo e acompanhamento territorial, de qualidade e outros. O componente de vínculo valoriza o cadastro qualificado e o acompanhamento das pessoas pela eSF ou eAP, reorganizando o cuidado no território. Adscrição nunca autoriza recusar atendimento: a UBS acolhe toda demanda, cadastrada ou não, porque o acesso é universal (PNAB 2017 e Lei 8.080, art. 7º, I).",
+  "porAlt": [
+   "Está correta: o componente estimula o cadastro domiciliar e territorial qualificado.",
+   "Está correta: ao vincular pessoas a equipes, o componente reorganiza a atenção primária no território.",
+   "Está correta: o vínculo e o acompanhamento contínuo visam melhorar o atendimento à população.",
+   "Correta: é a afirmação incorreta, pois adscrição não permite recusar atendimento a quem não tem cadastro; o acesso na UBS é universal.",
+   "Está correta: o componente fortalece a vinculação da população às eSF e eAP."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 12,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A avaliação realizada após a finalização de um programa, que possui como objetivo a prestação de contas, é denominada de",
+  "alts": [
+   "Normativa.",
+   "Descritiva.",
+   "Formativa.",
+   "Diagnóstica.",
+   "Somativa."
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Scriven (1967), avaliação formativa e somativa; Hartz (org.), Avaliação em saúde, Fiocruz (1997)",
+  "coment": "A distinção vem de Scriven. A avaliação formativa ocorre durante a implantação e serve para corrigir e aperfeiçoar o programa. A somativa ocorre ao final, julga o mérito e os resultados alcançados e serve para prestação de contas e decisão sobre continuidade. A normativa compara o programa com critérios e normas (estrutura, processo e resultado), e a diagnóstica antecede a intervenção, identificando necessidades.",
+  "porAlt": [
+   "A avaliação normativa compara componentes da intervenção com normas e critérios, não se define pelo momento final nem pela prestação de contas.",
+   "Avaliação descritiva apenas caracteriza a intervenção, sem o julgamento final que define a somativa.",
+   "A formativa ocorre durante a execução, para ajustar o programa, e não depois de finalizado.",
+   "A diagnóstica é feita antes da intervenção, para conhecer necessidades e o ponto de partida.",
+   "Correta: a avaliação somativa ocorre ao final do programa, julga os resultados e serve à prestação de contas."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 13,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "“O tempo de cobertor e papelão passou, o que nós queremos agora é Políticas Públicas” Maria Lúcia MNPR O relato acima expõe a necessidade de estratégias voltadas para população em situação de rua no Brasil. De acordo com os dados do CadÚnico, registraram-se, em março de 2025, mais de 335.151 pessoas em situação de rua, cenário que alerta aos gestores a importância de viabilizar estratégias para garantir o acesso dessa população aos serviços de saúde. Com base no exposto e considerando a modalidade Equipe de Consultório na Rua (eCR), prevista na PNAB, assinale a alternativa CORRETA.",
+  "alts": [
+   "A eCR pode estar em uma Unidade (espaço físico) fixa ou móvel.",
+   "Deve ser instalada, obrigatoriamente, em uma unidade móvel.",
+   "A carga horária mínima é de 40 horas semanais.",
+   "O funcionamento da equipe deverá ser, obrigatoriamente, noturno.",
+   "Nessa modalidade, não pode haver agente comunitário de saúde o qual é substituído pelo agente social."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Consultório na Rua; Portaria GM/MS 122/2011",
+  "coment": "Pela PNAB 2017 e pela Portaria GM/MS 122/2011, a equipe de Consultório na Rua atua de forma itinerante, desenvolvendo ações na rua e em parceria com as UBS do território; pode ter base em espaço fixo ou utilizar unidade móvel, conforme a organização local. O funcionamento é em horário adequado à população em situação de rua (diurno e/ou noturno), com carga mínima de 30 horas semanais. Entre as categorias possíveis está o agente social, sem que a norma proíba o agente comunitário de saúde.",
+  "porAlt": [
+   "Correta: a eCR pode ter sede em espaço físico fixo ou funcionar com unidade móvel, atuando de forma itinerante.",
+   "A unidade móvel é possibilidade, não obrigação; a eCR também pode se apoiar em espaço fixo e nas UBS.",
+   "A carga horária mínima da eCR é de 30 horas semanais, não 40.",
+   "O horário deve se adequar às necessidades da população de rua, diurno e/ou noturno, sem obrigatoriedade de período noturno.",
+   "A norma prevê o agente social entre as categorias da eCR, mas não proíbe o agente comunitário de saúde nem determina substituição."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 14,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Saúde do Trabalhador possui como foco principal a promoção da saúde e a prevenção de agravos relacionados às condições de trabalho. O objetivo constitui assegurar a atenção integral à saúde da população trabalhadora. Assinale a alternativa que indica o espaço voltado para o atendimento especializado em Saúde do Trabalhador.",
+  "alts": [
+   "CER.",
+   "CEREST.",
+   "CEO.",
+   "UBS.",
+   "UOM."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.728/2009 (RENAST), hoje na Portaria de Consolidação 3/2017",
+  "coment": "O Centro de Referência em Saúde do Trabalhador (CEREST), estadual ou regional, é o serviço especializado da RENAST, reorganizada pela Portaria GM/MS 2.728/2009. Dá suporte técnico e pedagógico à rede, apoia o diagnóstico da relação entre agravo e trabalho, a vigilância dos ambientes e a notificação. Não é porta de entrada: o trabalhador entra pela APS, pela urgência ou pelo hospital. CER é reabilitação, CEO é odontologia especializada e UBS é atenção primária.",
+  "porAlt": [
+   "CER é o Centro Especializado em Reabilitação, da Rede de Cuidados à Pessoa com Deficiência.",
+   "Correta: o CEREST é o centro de referência especializado em saúde do trabalhador da RENAST.",
+   "CEO é o Centro de Especialidades Odontológicas, da saúde bucal.",
+   "A UBS é ponto da atenção primária, porta de entrada, não serviço especializado em saúde do trabalhador.",
+   "UOM (unidade odontológica móvel) pertence à saúde bucal e não à saúde do trabalhador."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 15,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Leia a definição de Redes de Atenção apresentada pelo Ministério da Saúde.\nAs Redes de Atenção à Saúde (RAS) são os trajetos percorridos para acesso aos diferentes pontos dos serviços de saúde. Esses trajetos existem com o objetivo de coordenar o cuidado e o acesso dos usuários nos serviços do Sistema Único de Saúde (SUS), ou seja, busca garantir que estes, ao apresentarem determinada condição de saúde, estejam em um ponto de cuidado adequado à sua necessidade. https://www.gov.br/ Assinale a alternativa que apresenta CORRETAMENTE uma característica das RAS.",
+  "alts": [
+   "Forma relações verticais entre os pontos de atenção, estando a APS na base da pirâmide.",
+   "Apresenta a superespecialização como característica dos serviços que a compõem.",
+   "Possui como fundamento a alta complexidade como nível central da atenção, para onde converge a assistência.",
+   "Compreende a APS como coordenadora do cuidado.",
+   "Caracteriza-se pela malha de serviços públicos de saúde, não abrangendo os privados."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 4.279/2010, Anexo I da Portaria de Consolidação 3/2017 (Redes de Atenção à Saúde)",
+  "coment": "Pela Portaria GM/MS 4.279/2010, a RAS é formada por pontos de atenção de diferentes densidades tecnológicas, com relações horizontais e igual importância, organizados de forma poliárquica e não piramidal. A Atenção Primária é o centro de comunicação, coordenadora do cuidado e ordenadora da rede. Os serviços privados contratados ou conveniados também integram a rede, de forma complementar.",
+  "porAlt": [
+   "A RAS rompe com a pirâmide: as relações entre os pontos são horizontais, não verticais.",
+   "A superespecialização fragmentada é o problema que a RAS busca superar com cuidado integrado.",
+   "O centro de comunicação da rede é a APS, não a alta complexidade.",
+   "Correta: a APS é coordenadora do cuidado e ordenadora da RAS (Portaria 4.279/2010).",
+   "A iniciativa privada participa do SUS de forma complementar e seus serviços contratados integram a rede."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 16,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Os eixos operacionais da Política Nacional de Promoção à Saúde visam à concretização de ações, respeitando os valores, princípios e diretrizes da PNPS. Assinale abaixo o item que se refere ao compartilhamento de planos, metas, recursos e objetivos comuns entre as diferentes áreas do mesmo setor, bem como diferentes setores.",
+  "alts": [
+   "Controle social.",
+   "Articulação e cooperação intra e intersetorial.",
+   "Avaliação em Saúde.",
+   "Monitoramento setorial.",
+   "Gestão compartilhada do SUS."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.446/2014 (Política Nacional de Promoção da Saúde), Anexo I da Portaria de Consolidação 2/2017",
+  "coment": "A PNPS, revisada pela Portaria GM/MS 2.446/2014, lista entre seus eixos operacionais a territorialização, a articulação e cooperação intra e intersetorial, a RAS, a participação e controle social, a gestão, a educação e formação, a vigilância, monitoramento e avaliação, a produção e disseminação de conhecimentos e a comunicação social. O eixo de articulação e cooperação intra e intersetorial é definido exatamente como o compartilhamento de planos, metas, recursos e objetivos comuns entre áreas do mesmo setor e entre setores diferentes.",
+  "porAlt": [
+   "Participação e controle social é outro eixo, voltado à inclusão da sociedade nas decisões, não ao compartilhamento entre setores.",
+   "Correta: articulação e cooperação intra e intersetorial é o compartilhamento de planos, metas, recursos e objetivos entre áreas e setores.",
+   "Avaliação em saúde integra o eixo de vigilância, monitoramento e avaliação, que não trata de compartilhar planos entre setores.",
+   "Monitoramento setorial não é eixo da PNPS e não descreve cooperação entre setores.",
+   "Gestão compartilhada não corresponde ao eixo descrito; o compartilhamento intra e intersetorial tem eixo próprio."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 17,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "O modelo proposto por Dahlgren e Whitehead dispõe os Determinantes Sociais da Saúde em camadas concêntricas. Essas camadas iniciam-se no centro com os determinantes individuais até a camada mais distal, onde se encontram os macrodeterminantes. Sobre a última camada do modelo, a mais distal, assinale a alternativa CORRETA.",
+  "alts": [
+   "Constitui a camada dos microdeterminantes.",
+   "Não apresenta forte influência sobre as demais camadas.",
+   "Constitui a camada do estilo de vida.",
+   "Nela estão situadas as condições econômicas, culturais e ambientais da sociedade.",
+   "É aquela em que os indivíduos possuem grande controle e que influenciam pouco na saúde."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Comissão Nacional sobre Determinantes Sociais da Saúde (CNDSS), relatório 2008, modelo de Dahlgren e Whitehead (1991)",
+  "coment": "No modelo de Dahlgren e Whitehead, adotado pela Comissão Nacional sobre Determinantes Sociais da Saúde (2008), o centro tem idade, sexo e fatores genéticos; seguem o estilo de vida, as redes sociais e comunitárias, as condições de vida e trabalho e, na camada mais distal, as condições socioeconômicas, culturais e ambientais gerais da sociedade. São os macrodeterminantes: o indivíduo tem pouco controle sobre eles, mas eles influenciam fortemente todas as camadas internas.",
+  "porAlt": [
+   "A camada distal é a dos macrodeterminantes; os microdeterminantes ficam no centro.",
+   "Os macrodeterminantes influenciam fortemente todas as camadas internas.",
+   "O estilo de vida é uma das camadas proximais, logo acima dos fatores individuais.",
+   "Correta: na camada mais distal estão as condições econômicas, culturais e ambientais gerais da sociedade.",
+   "É o contrário: na camada distal o indivíduo tem pouco controle e a influência sobre a saúde é grande."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 18,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Em 2025, o Ministério da Saúde lançou o Projeto de Aperfeiçoamento da Prática em Coordenação do Cuidado a partir da Atenção Primária à Saúde (APS). Essa iniciativa formará gratuitamente profissionais do SUS. A ação fortalece o processo de educação permanente voltada para os profissionais da Atenção Primária, o qual foi atualizado em setembro de 2025 através da Portaria GM/MS Nº 8.284, 30 de setembro de 2025. Considerando o processo de educação permanente em saúde, fundamentado na portaria acima citada, assinale a alternativa INCORRETA.",
+  "alts": [
+   "Garante a liberação de profissionais evitando desassistência à população.",
+   "É realizado, preferencialmente, no local de trabalho.",
+   "Caracteriza-se por ser um ensino-aprendizagem mecânico, sem conexão com o cotidiano dos profissionais.",
+   "Fundamenta-se no ‘ensino problematizador’, onde não há superioridade do educador em relação ao educando.",
+   "Valoriza experiências precedentes dos profissionais."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 198/2004 e Portaria GM/MS 1.996/2007 (PNEPS), atualizadas pela portaria citada no enunciado (GM/MS 8.284/2025)",
+  "coment": "Desde a Portaria GM/MS 198/2004, a Educação Permanente é aprendizagem significativa no trabalho: parte dos problemas reais do serviço, acontece preferencialmente no local de trabalho, valoriza a experiência prévia dos profissionais e se apoia na pedagogia problematizadora, de matriz freireana, sem superioridade do educador. A liberação dos profissionais deve ser organizada para não desassistir a população. Ensino mecânico e desconectado do cotidiano é o oposto da proposta, por isso é a alternativa incorreta.",
+  "porAlt": [
+   "Está correta: a organização da EPS prevê a liberação dos profissionais sem desassistir a população.",
+   "Está correta: a EPS ocorre preferencialmente no local de trabalho, a partir do processo de trabalho.",
+   "Correta: é a afirmação incorreta, pois a EPS é aprendizagem significativa ligada ao cotidiano, não ensino mecânico e desconectado.",
+   "Está correta: a EPS se apoia na pedagogia problematizadora, em relação horizontal entre educador e educando.",
+   "Está correta: a EPS valoriza o conhecimento e as experiências prévias dos trabalhadores."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 19,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Leia abaixo um diálogo desenvolvido em um grupo de uma Unidade Básica de Saúde da Família. Nesse grupo, estava presente a senhora Eduvirges, mãe de dez filhos.\n- Mas a senhora não disse que tinha gostado de ter dez filhos, que se achava feliz por isso? Ela respondeu: - Sim, sim, mas eu sou diferente... - Por que a senhora é diferente? - Porque eu gosto dos meus filhos... eu amo meu marido. - Mas e as outras mulheres? Como é com as outras mulheres? Ela pensou, o grupo pensou junto, e falaram que sim, que realmente planejar o número de filhos não era só botar o DIU ou tomar comprimido; tinha muitas outras coisas em jogo, como a relação com o marido, como a mulher foi criada, enfim, muitas coisas que tinham que ser discutidas...\nbvsms.saude.gov.br Essa fala expõe um processo de provocação/problematização inicial característico da educação popular em saúde. Sobre essa temática, assinale a alternativa INCORRETA.",
+  "alts": [
+   "Permite flexibilização da condução do diálogo.",
+   "Não trabalha com imprevisibilidade, havendo roteiro rígido para guiar o debate.",
+   "Pode ser conduzido a partir da vivência dos participantes.",
+   "A construção do conhecimento ocorre no próprio grupo.",
+   "Exige habilidade para condução, evitando induzir respostas aos participantes."
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Educação em saúde",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.761/2013 (Política Nacional de Educação Popular em Saúde no SUS)",
+  "coment": "A Política Nacional de Educação Popular em Saúde (Portaria GM/MS 2.761/2013) tem como princípios o diálogo, a amorosidade, a problematização, a construção compartilhada do conhecimento, a emancipação e o compromisso com um projeto democrático. O conhecimento nasce no grupo, a partir da vivência dos participantes, e o condutor problematiza sem induzir respostas. Por isso o diálogo é flexível e convive com a imprevisibilidade; roteiro rígido contraria a proposta e é a alternativa incorreta.",
+  "porAlt": [
+   "Está correta: a condução dialógica é flexível e acompanha o que surge no grupo.",
+   "Correta: é a afirmação incorreta, pois a educação popular trabalha com a imprevisibilidade do diálogo e não com roteiro rígido.",
+   "Está correta: a vivência dos participantes é ponto de partida da problematização.",
+   "Está correta: a construção compartilhada do conhecimento ocorre no próprio grupo.",
+   "Está correta: o condutor precisa de habilidade para problematizar sem induzir respostas."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 20,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "No ano de 2023, a Secretaria de Vigilância em Saúde passou a ser chamada de Secretaria de Vigilância em Saúde e Ambiente - SVSA. Assinale a alternativa que faz alusão à inclusão do termo ambiente.",
+  "alts": [
+   "Negação da influência do ambiente do processo saúde-doença.",
+   "Restrição da atuação da vigilância epidemiológica às doenças urbanas.",
+   "Exclusão, do campo de atuação, das doenças reemergentes, focando apenas nas que endêmicas.",
+   "Distancia-se da concepção de uma só saúde, com vários determinantes.",
+   "Interconexão entre a saúde humana, animal e ambiental."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 11.358/2023 (estrutura do Ministério da Saúde, Secretaria de Vigilância em Saúde e Ambiente)",
+  "coment": "A reestruturação do Ministério da Saúde de 2023 (Decreto 11.358/2023) transformou a SVS em Secretaria de Vigilância em Saúde e Ambiente (SVSA). A inclusão do ambiente expressa a abordagem de Uma Só Saúde (One Health): a saúde humana, a saúde animal e o ambiente são interdependentes, o que explica zoonoses, arboviroses, resistência antimicrobiana e efeitos das mudanças climáticas. As demais alternativas negam essa integração.",
+  "porAlt": [
+   "A mudança reconhece, e não nega, a influência do ambiente no processo saúde-doença.",
+   "Incluir o ambiente amplia a vigilância a zoonoses e agravos rurais e ambientais, não a restringe a doenças urbanas.",
+   "Doenças reemergentes continuam no campo da vigilância; a mudança não exclui nenhum grupo de agravos.",
+   "A inclusão do ambiente aproxima a vigilância da concepção de Uma Só Saúde, com múltiplos determinantes.",
+   "Correta: o termo ambiente traduz a interconexão entre saúde humana, animal e ambiental, base da abordagem Uma Só Saúde."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 21,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Leia a definição abaixo:\nCiência que estuda o processo saúde-doença na sociedade, analisando a distribuição populacional e os fatores determinantes das enfermidades, danos à saúde e eventos associados à saúde coletiva, propondo medidas específicas de prevenção, controle ou erradicação de doenças e fornecendo indicadores que sirvam de suporte ao planejamento, administração e avaliação das ações de saúde. Almeida Filho e Rouquayrol A definição acima refere-se à (ao)",
+  "alts": [
+   "Epidemiologia.",
+   "Distribuição das doenças.",
+   "Método clínico científico.",
+   "Historicidade das causas.",
+   "Determinismo dos agravos."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Rouquayrol e Almeida Filho, Epidemiologia & Saúde, 8ª ed. (2018)",
+  "coment": "A definição transcrita é a clássica de Rouquayrol e Almeida Filho para epidemiologia: ciência que estuda o processo saúde-doença na sociedade, analisa a distribuição e os determinantes das doenças e eventos de saúde e propõe medidas de prevenção e controle, fornecendo indicadores para planejar, administrar e avaliar ações de saúde. As outras alternativas descrevem partes ou ideias soltas, não a ciência inteira.",
+  "porAlt": [
+   "Correta: a definição de Rouquayrol e Almeida Filho é a da epidemiologia, que une distribuição, determinantes e medidas de controle.",
+   "A distribuição das doenças é só um dos objetos da epidemiologia, não a ciência definida no texto.",
+   "O método clínico estuda o doente individual, enquanto o texto trata de populações e da sociedade.",
+   "Historicidade das causas não é nome de ciência; é uma dimensão de análise do processo saúde-doença.",
+   "Determinismo dos agravos é ideia de causalidade única, contrária à abordagem multideterminada da epidemiologia."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 22,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Observa-se que os fenômenos de transição demográfica e epidemiológica estão interligados. A ocorrência desses processos apresenta impactos significativos na sociedade. Sobre esta temática, leia os itens abaixo:\nI. O envelhecimento populacional não possui correlação com o processo de transição epidemiológica.\nII. A fase de pré-transição demográfica é caracterizada por baixa natalidade e elevada mortalidade populacional.\nIII. Conforme o envelhecimento populacional, a pirâmide etária vai sendo substituída de uma característica triangular para uma estrutura mais cilíndrica.\nIV. O perfil epidemiológico brasileiro é de tripla carga de doenças, ou seja, presença simultânea das doenças: crônica, decorrentes de causas externas e infecciosas/carências.\nDiante do exposto, assinale a alternativa que apresenta os itens CORRETOS.",
+  "alts": [
+   "I, apenas.",
+   "I, II, III e IV.",
+   "I, II e III, apenas.",
+   "II e IV, apenas.",
+   "III e IV, apenas."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Rede Interagencial de Informações para a Saúde (RIPSA), Indicadores básicos para a saúde no Brasil, 2ª ed. (2008)",
+  "coment": "I é falsa: o envelhecimento populacional, fruto da transição demográfica, é um dos motores da transição epidemiológica, com aumento das doenças crônicas. II é falsa: a pré-transição tem natalidade e mortalidade altas. III é verdadeira: com queda da fecundidade e aumento da longevidade, a pirâmide perde a base larga e fica mais retangular. IV é verdadeira: o Brasil vive a tripla carga de doenças, com crônicas, causas externas e infecciosas e carenciais ao mesmo tempo. Ficam III e IV.",
+  "porAlt": [
+   "O item I é falso: envelhecimento e transição epidemiológica estão diretamente ligados.",
+   "Inclui I e II, que são falsos; na pré-transição natalidade e mortalidade são ambas elevadas.",
+   "Inclui I e II, ambos falsos, e omite o IV, que é verdadeiro.",
+   "O item II é falso, porque a pré-transição tem alta natalidade; e a alternativa omite o III, verdadeiro.",
+   "Correta: III (pirâmide se torna cilíndrica com o envelhecimento) e IV (tripla carga de doenças) são os verdadeiros."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 24,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Acerca da Epidemiologia das doenças crônicas, leia o texto abaixo:\nO aumento da carga das doenças crônicas não transmissíveis está diretamente ligado a alguns efeitos negativos do processo de globalização, urbanização rápida, vida sedentária e dietas com alto teor calórico, além do consumo de tabaco e álcool. Por sua vez, estes fatores de risco comportamentais têm impacto nos principais fatores de risco metabólicos, como sobrepeso/obesidade, hipertensão e hiperglicemia, e dislipidemia, podendo resultar em diabetes, doenças cardiovasculares e câncer, entre outras doenças. Guimarães, Raphael Mendonça. Rio de Janeiro: Fundação Oswaldo Cruz, 2021\nConsiderando o aumento da incidência das neoplasias do aparelho digestivo na população, assinale abaixo a alternativa que NÃO apresenta um fator de risco relacionado a neoplasias malignas de cólon e reto e estômago.",
+  "alts": [
+   "Obesidade.",
+   "Consumo excessivo de álcool.",
+   "Tabagismo.",
+   "Elevado consumo de carne processada.",
+   "Alimentação rica em frutas e hortaliças."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "INCA, Estimativa 2023: incidência de câncer no Brasil (2022); WCRF/AICR, Continuous Update Project (2018)",
+  "coment": "Para câncer colorretal e de estômago, o INCA e o relatório WCRF/AICR apontam como fatores de risco a obesidade, o consumo de bebidas alcoólicas, o tabagismo e o consumo de carnes processadas, além de carne vermelha em excesso e, no estômago, sal e infecção por Helicobacter pylori. A alimentação rica em frutas, hortaliças e fibras é fator de proteção, por isso é a alternativa que não representa fator de risco.",
+  "porAlt": [
+   "A obesidade é fator de risco reconhecido para câncer colorretal e para câncer da cárdia gástrica.",
+   "O consumo excessivo de álcool aumenta o risco de câncer colorretal e de estômago.",
+   "O tabagismo é fator de risco tanto para câncer de estômago quanto colorretal.",
+   "Carne processada é carcinógeno do grupo 1 da IARC para câncer colorretal e também se associa ao gástrico.",
+   "Correta: dieta rica em frutas e hortaliças é fator de proteção, não de risco, para essas neoplasias."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 25,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Para o cálculo da Taxa de fecundidade total, são utilizadas as taxas específicas de fecundidade, para cada idade das mulheres residentes, entre o intervalo de",
+  "alts": [
+   "9 a 30 anos.",
+   "15 a 49 anos.",
+   "30 a 59 anos.",
+   "12 a 30 anos.",
+   "20 a 55 anos."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "RIPSA, Indicadores básicos para a saúde no Brasil, 2ª ed. (2008)",
+  "coment": "A taxa de fecundidade total é o número médio de filhos nascidos vivos que uma mulher teria ao fim do período reprodutivo. Calcula-se somando as taxas específicas de fecundidade por idade das mulheres residentes de 15 a 49 anos (em geral por grupos quinquenais, multiplicando a soma por cinco). Esse é o intervalo reprodutivo padrão da RIPSA e do IBGE. A reposição populacional corresponde a cerca de 2,1 filhos por mulher.",
+  "porAlt": [
+   "O intervalo de 9 a 30 anos não corresponde ao período reprodutivo padrão usado pela RIPSA.",
+   "Correta: a TFT soma as taxas específicas de fecundidade das mulheres de 15 a 49 anos.",
+   "De 30 a 59 anos excluiria as idades de maior fecundidade e incluiria idades fora do período reprodutivo.",
+   "De 12 a 30 anos deixaria de fora parte relevante do período reprodutivo padrão.",
+   "De 20 a 55 anos excluiria adolescentes e incluiria idades fora do intervalo padrão de 15 a 49."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 26,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "“O Orthobunyavirus oropoucheense (OROV) foi isolado pela primeira vez no Brasil em 1960, a partir de amostra de sangue de uma bicho-preguiça (Bradypus tridactylus) capturada durante a construção da rodovia Belém-Brasília. Desde então, casos isolados e surtos foram relatados no Brasil, principalmente nos estados da região Amazônica. Também já foram relatados casos e surtos em outros países das Américas Central e do Sul.” Ministério da Saúde Acerca dessa doença, assinale a alternativa CORRETA.",
+  "alts": [
+   "Trata-se de uma doença crônica.",
+   "É uma doença endêmica no Brasil.",
+   "É transmitida por um arbovírus.",
+   "É transmitida por uma bactéria.",
+   "Possui alta letalidade e baixa infectividade."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Nota Técnica 117/2024-CGARB (Oropouche); Portaria GM/MS 11.211/2026 (lista de notificação compulsória)",
+  "coment": "A febre do Oropouche é causada por um arbovírus (Orthobunyavirus oropoucheense), transmitido principalmente pelo maruim (Culicoides paraensis). É doença aguda, de febre súbita com cefaleia intensa e recorrência dos sintomas em parte dos casos, de baixa letalidade, com transmissão vertical associada a óbito fetal e anomalias. A endemicidade se restringe à região amazônica; desde 2024 houve expansão para outros estados. A Portaria 11.211/2026 tornou os casos de notificação semanal e óbitos, gestantes e anomalias de notificação imediata.",
+  "porAlt": [
+   "O Oropouche causa doença aguda e autolimitada, não crônica.",
+   "A endemicidade é restrita à região amazônica, não ao país inteiro, e por isso a banca não aceitou a afirmação genérica.",
+   "Correta: o OROV é um arbovírus, transmitido sobretudo pelo maruim (Culicoides paraensis).",
+   "O agente é um vírus, não uma bactéria.",
+   "A letalidade é baixa e a doença causa surtos de grande extensão, o contrário do que a alternativa afirma."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 27,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre a história natural da doença, leia abaixo o excerto extraído de um artigo científico:\nA doença era sinal de desobediência ao mandamento divino. A enfermidade proclamava o pecado, quase sempre em forma visível, como no caso da lepra. Trata-se de doença contagiosa, que sugere, portanto, contato entre corpos humanos, contato que pode ter evidentes conotações pecaminosas. O Levítico detém-se longamente na maneira de diagnosticar a lepra; mas não faz uma abordagem similar para o tratamento. Em primeiro lugar, porque tal tratamento não estava disponível; em segundo, porque a lepra podia ser doença, mas era também, e sobretudo, um pecado. O doente era isolado até a cura, um procedimento que o cristianismo manterá e ampliará: o leproso era considerado morto e rezada a missa de corpo presente, após o que ele era proibido de ter contato com outras pessoas ou enviado para um leprosário. Esse tipo de estabelecimento era muito comum na Idade Média, em parte porque o rótulo de lepra era frequente, sem dúvida abrangendo numerosas outras doenças. Moacyr Scliar Assinale a alternativa que se refere ao paradigma identificado no texto.",
+  "alts": [
+   "Teoria dos miasmas.",
+   "Multicausalidade da doença.",
+   "Teoria contagiosa.",
+   "Teoria ambiental.",
+   "Mágico-religiosa."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Scliar, História do conceito de saúde, Physis 17(1), 2007",
+  "coment": "No texto de Moacyr Scliar, a doença é sinal de desobediência ao mandamento divino e a lepra é tratada como pecado: o diagnóstico é ritual, não há tratamento e o doente é isolado e considerado morto. É o paradigma mágico-religioso, em que a causa da doença está em forças sobrenaturais, castigo ou pecado. A teoria miasmática atribuía a doença a emanações do ar; a contagionista, a agentes transmitidos; a multicausalidade é modelo moderno.",
+  "porAlt": [
+   "A teoria dos miasmas explica a doença por emanações de matéria em putrefação, não por pecado.",
+   "A multicausalidade é modelo moderno que combina agente, hospedeiro e ambiente.",
+   "Embora o texto cite contato, a causa atribuída é o pecado, e não um agente transmissível.",
+   "A teoria ambiental relaciona doença a clima e meio físico, sem a ideia de castigo divino.",
+   "Correta: a doença como castigo e pecado, com isolamento ritual, caracteriza o paradigma mágico-religioso."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 28,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "No Brasil, existe um único sistema de informação que possui informações orçamentárias públicas de saúde. É através dos dados e informações advindas desse sistema que se torna possível monitoramento da aplicação mínima de recursos na saúde. Ressalta-se que a alimentação desse sistema é obrigatória. O enunciado da questão se refere ao",
+  "alts": [
+   "CIEVS.",
+   "SIOPS.",
+   "SINAN.",
+   "SISREG.",
+   "TABNET."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei Complementar 141/2012, art. 39 (SIOPS)",
+  "coment": "O Sistema de Informações sobre Orçamentos Públicos em Saúde (SIOPS) é o sistema que reúne receitas e despesas com ações e serviços públicos de saúde das três esferas. A Lei Complementar 141/2012 (art. 39) tornou obrigatório o registro e a atualização das informações no SIOPS, que é o instrumento para verificar a aplicação dos mínimos constitucionais (15% para municípios e 12% para estados). SINAN é de agravos de notificação, CIEVS é de respostas a emergências e SISREG é de regulação.",
+  "porAlt": [
+   "O CIEVS é a rede de alerta e resposta às emergências em saúde pública, sem dados orçamentários.",
+   "Correta: o SIOPS registra receitas e despesas em saúde e permite verificar a aplicação mínima exigida pela LC 141/2012.",
+   "O SINAN registra doenças e agravos de notificação compulsória.",
+   "O SISREG é o sistema de regulação de vagas, consultas e exames.",
+   "O TABNET é ferramenta de tabulação de dados do DATASUS, não sistema de informação orçamentária."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 29,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre o cuidado de enfermagem ao idoso com lesões de pele, assinale a alternativa CORRETA.",
+  "alts": [
+   "O cuidado da pele com xerose envolve a substituição de soluções emolientes, por substâncias que mantêm a pele e o ambientes secos.",
+   "Pessoas idosas com pele seca devem buscar alívio sempre com o uso de substâncias sensibilizadoras.",
+   "Na dermatite de contado, um dos principais cuidados é romper as vesículas quando elas surgem.",
+   "Contatos que causem atrito ou cisalhamento na pele do idoso devem ser evitados ou feitos com proteção da pele por roupas de algodão.",
+   "Na prevenção de lesões por pressão, é importante manter o idoso em decúbito dorsal, mudando a posição duas vezes ao dia."
+  ],
+  "gab": 3,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Caderno de Atenção Básica 19, Envelhecimento e saúde da pessoa idosa (2006); Nota Técnica GVIMS/GGTES/Anvisa 05/2023",
+  "coment": "A pele do idoso tem derme mais fina, menos colágeno, gordura subcutânea e glândulas sebáceas, por isso resseca e lesa com facilidade. O cuidado inclui hidratar com emolientes, evitar substâncias irritantes ou sensibilizantes e proteger contra atrito e cisalhamento, com roupas e roupas de cama macias, como algodão, e técnica correta de mobilização. Na prevenção de lesão por pressão, a mudança de decúbito é programada e individualizada, em geral muito mais frequente que duas vezes ao dia, com alternância de posições.",
+  "porAlt": [
+   "Na xerose o cuidado é justamente usar emolientes e hidratar; manter a pele seca piora o quadro.",
+   "Substâncias sensibilizadoras causam dermatite; a pele seca do idoso pede emolientes suaves.",
+   "Na dermatite de contato não se rompem vesículas, o que abriria porta para infecção.",
+   "Correta: atrito e cisalhamento devem ser evitados ou feitos com proteção da pele, como roupas de algodão.",
+   "Prevenir lesão por pressão exige alternar decúbitos com frequência individualizada, não manter dorsal e mudar só duas vezes ao dia."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Saúde Coletiva",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Política Nacional de Atenção Básica (PNAB) foi atualizada pela Portaria GM/MS nº 2.436/2017 e trouxe mudanças em relação à Portaria anterior nº 2.488/2011. Sobre essas mudanças, analise as afirmativas abaixo:\nI. Enquanto a PNAB de 2011 definia a Atenção Básica como a \"porta de entrada preferencial\" do SUS, a versão de 2017 a redefine como a \"porta de entrada preferencial e ordenadora da Rede de Atenção à Saúde\".\nII. A Portaria de 2017 retirou a exigência do mínimo de 4 Agentes Comunitários de Saúde por equipe de Saúde da Família, estabelecendo que a cobertura da população adscrita passaria a ser o único critério para definir sua quantidade.\nIII. Uma mudança fundamental de 2017 foi a criação de um novo modelo de financiamento para a Atenção Básica, que unificou todos os recursos federais em um único valor per capita repassado mensalmente aos municípios.\nEstá(ão) CORRETA(S):",
+  "alts": [
+   "I, apenas.",
+   "II, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo XXII da Portaria de Consolidação 2/2017",
+  "coment": "I foi aceita: a PNAB 2017 diz que a Atenção Básica será a principal porta de entrada e centro de comunicação da RAS, coordenadora do cuidado e ordenadora das ações e serviços; a de 2011 já falava em porta de entrada preferencial e em coordenar o cuidado, mas a de 2017 enfatiza a ordenação. II é falsa: o número de ACS passou a depender de base populacional e critérios demográficos, epidemiológicos e socioeconômicos, com 100% de cobertura em áreas de risco. III é falsa: a PNAB 2017 manteve o PAB fixo e variável; a mudança de financiamento veio com o Previne Brasil (2019) e a Portaria 3.493/2024.",
+  "porAlt": [
+   "Correta: só a afirmativa I descreve uma mudança aceita; II e III são falsas.",
+   "A afirmativa II é falsa: a quantidade de ACS depende de critérios populacionais, demográficos, epidemiológicos e socioeconômicos, não só de cobertura.",
+   "Inclui a afirmativa II, que é falsa.",
+   "Inclui a afirmativa III, falsa, porque a PNAB 2017 manteve o PAB fixo e variável.",
+   "Inclui II e III, ambas falsas."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica – Interiorização em Saúde",
+   "n": 2,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Um estudo que analisa a correlação entre a cobertura média de vacinação contra COVID-19 por estado e a taxa de mortalidade por COVID-19 no mesmo período, utilizando dados agregados por unidade federativa, é um exemplo de qual tipo de estudo?",
+  "alts": [
+   "Ecológico",
+   "Coorte prospectivo",
+   "Transversal",
+   "Caso-controle",
+   "Ensaio clínico randomizado"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Rouquayrol e Almeida Filho, Epidemiologia & Saúde, 8ª ed. (2018), desenhos de estudo",
+  "coment": "No estudo ecológico a unidade de análise é o grupo (município, estado, país), não o indivíduo. Correlacionar a cobertura vacinal média de cada unidade federativa com a taxa de mortalidade da mesma UF usa dados agregados, e a medida típica é a correlação. Cuidado com a falácia ecológica: a associação no nível do grupo não prova que o indivíduo vacinado teve menor risco. Coorte, transversal, caso-controle e ensaio clínico usam dados individuais.",
+  "porAlt": [
+   "Correta: dados agregados por unidade federativa caracterizam o estudo ecológico.",
+   "A coorte prospectiva acompanha indivíduos expostos e não expostos ao longo do tempo.",
+   "O transversal mede exposição e desfecho em indivíduos no mesmo momento.",
+   "O caso-controle parte de indivíduos com e sem o desfecho e investiga exposições passadas.",
+   "No ensaio clínico randomizado o pesquisador aloca a intervenção a indivíduos por sorteio."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica – Interiorização em Saúde",
+   "n": 10,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "O padrão, em que a maior intensidade ou duração da exposição leva a um aumento proporcional na ocorrência do desfecho, está associado ao seguinte critério de causalidade proposto por Bradford Hill:",
+  "alts": [
+   "Gradiente biológico.",
+   "Força de associação.",
+   "Consistência.",
+   "Coerência.",
+   "Evidência experimental."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hill AB. The environment and disease: association or causation? Proc R Soc Med 1965;58:295-300",
+  "coment": "Bradford Hill (1965) propôs nove critérios para julgar se uma associação é causal: força, consistência, especificidade, temporalidade, gradiente biológico, plausibilidade, coerência, evidência experimental e analogia. O gradiente biológico, ou relação dose-resposta, existe quando maior intensidade ou duração da exposição aumenta a ocorrência do desfecho, como mais cigarros por dia e mais câncer de pulmão. Só a temporalidade é considerada indispensável.",
+  "porAlt": [
+   "Correta: a relação dose-resposta entre exposição e desfecho é o critério do gradiente biológico.",
+   "Força de associação é a magnitude da medida (risco relativo alto), não a variação com a dose.",
+   "Consistência é a repetição do achado em estudos, populações e métodos diferentes.",
+   "Coerência é a compatibilidade da associação com o conhecimento sobre a história natural da doença.",
+   "Evidência experimental é a mudança do desfecho quando a exposição é removida ou modificada em estudo controlado."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica – Interiorização em Saúde",
+   "n": 14,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "No histórico da saúde pública no Brasil tivemos alguns modelos principais que, por décadas, definiram as políticas de saúde. Sobre as características e o contexto histórico desses modelos, analise as assertivas abaixo:\nI. O Modelo Sanitarista/Campanhista, caracterizou-se por ações estatais coletivas de prevenção, como campanhas de vacinação obrigatória e intervenções urbanas de saneamento.\nII. O Modelo Assistencialista/Previdenciário surgiu com a Lei Eloy Chaves, que criou as Caixas de Aposentadoria e Pensões. Este modelo organizou a assistência médica como um benefício vinculado ao trabalho formal.\nIII. A partir da década de 1930, com a criação do Ministério da Educação e Saúde e a expansão dos Institutos de Aposentadoria e Pensões, o Estado brasileiro unificou os modelos vigentes em um sistema universal de saúde.\nEstá(ão) CORRETA(S):",
+  "alts": [
+   "I, II e III.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "I, apenas.",
+   "II, apenas."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto Legislativo 4.682/1923 (Lei Eloy Chaves); Constituição Federal de 1988, art. 196",
+  "coment": "I é verdadeira: o sanitarismo campanhista da Primeira República, com Oswaldo Cruz, fazia campanhas, vacinação obrigatória e intervenções urbanas. II é verdadeira: a Lei Eloy Chaves (1923) criou as Caixas de Aposentadorias e Pensões, e a assistência médica passou a ser benefício do trabalhador formal contribuinte. III é falsa: nos anos 1930 os IAPs ampliaram o modelo previdenciário, que manteve a exclusão de quem não contribuía; o sistema universal só surgiu com a Constituição de 1988 e o SUS.",
+  "porAlt": [
+   "Inclui a III, falsa: os IAPs não unificaram os modelos num sistema universal.",
+   "Correta: I e II descrevem corretamente o modelo campanhista e o previdenciário; a III é falsa.",
+   "A III é falsa e a II, que é verdadeira, ficou de fora.",
+   "A II também é verdadeira: a Lei Eloy Chaves criou as CAPs e vinculou a assistência ao trabalho formal.",
+   "A I também é verdadeira: campanhas e vacinação obrigatória marcam o sanitarismo campanhista."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica – Interiorização em Saúde",
+   "n": 24,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Lei Orgânica da Saúde (Lei nº 8.080/1990) define as competências e áreas de atuação do Sistema Único de Saúde (SUS). Dentre as alternativas abaixo, qual NÃO representa uma atribuição incluída no campo de atuação do SUS?",
+  "alts": [
+   "A fiscalização e inspeção de alimentos, água e bebidas para consumo humano.",
+   "A seguridade social em caso de doença, acidente de trabalho ou maternidade.",
+   "A ordenação da formação de recursos humanos na área de saúde.",
+   "A formulação e execução da política de sangue e seus derivados.",
+   "A vigilância nutricional e a orientação alimentar."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 6º; Constituição Federal de 1988, arts. 194 e 201",
+  "coment": "O art. 6º da Lei 8.080/1990 inclui no campo de atuação do SUS a fiscalização de alimentos, água e bebidas, a ordenação da formação de recursos humanos, a política de sangue e derivados e a vigilância nutricional com orientação alimentar. A cobertura de doença, acidente de trabalho e maternidade como benefício é da previdência social (CF, art. 201), que integra a seguridade junto com a saúde e a assistência, mas não é atribuição do SUS.",
+  "porAlt": [
+   "Está no art. 6º: fiscalização e inspeção de alimentos, água e bebidas para consumo humano.",
+   "Correta: proteção em caso de doença, acidente de trabalho e maternidade é benefício da previdência social, não campo do SUS.",
+   "Está no art. 6º: a ordenação da formação de recursos humanos na área de saúde.",
+   "Está no art. 6º: a formulação e execução da política de sangue e seus derivados.",
+   "Está no art. 6º, IV: a vigilância nutricional e a orientação alimentar."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica – Interiorização em Saúde",
+   "n": 25,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Norma Operacional da Assistência à Saúde (NOAS-SUS 01/2001) foi um marco na organização e regionalização do Sistema Único de Saúde (SUS), com o objetivo de qualificar a gestão e ampliar o acesso. Sobre suas principais diretrizes e impactos, assinale a alternativa INCORRETA.",
+  "alts": [
+   "Instituiu as transferências regulares e automáticas de recursos no modelo \"fundo a fundo\".",
+   "Implementou mecanismos destinados a fortalecer a capacidade de gestão do sistema.",
+   "Definiu novos critérios para a habilitação de estados e municípios na gestão do SUS.",
+   "Teve como um de seus objetivos centrais a promoção da equidade, tanto na alocação de recursos quanto no acesso aos serviços.",
+   "Ampliou as responsabilidades dos municípios na Atenção Básica."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 95/2001 (NOAS-SUS 01/2001); NOB-SUS 01/1996",
+  "coment": "A NOAS-SUS 01/2001 (Portaria GM/MS 95/2001) ampliou as responsabilidades dos municípios na Atenção Básica, definiu o processo de regionalização, criou mecanismos para fortalecer a capacidade de gestão e atualizou os critérios de habilitação de estados e municípios, buscando equidade. A transferência regular e automática fundo a fundo é anterior: foi implantada com as NOB dos anos 1990, sobretudo a NOB 01/1993 e a NOB 01/1996, que criou o PAB. Por isso a alternativa A é a incorreta.",
+  "porAlt": [
+   "Correta: é a afirmação incorreta, pois o repasse fundo a fundo veio com as NOB da década de 1990, não com a NOAS 2001.",
+   "Está correta: a NOAS criou mecanismos de fortalecimento da capacidade de gestão do SUS.",
+   "Está correta: a NOAS redefiniu os critérios de habilitação de estados e municípios.",
+   "Está correta: a equidade na alocação de recursos e no acesso é objetivo central da NOAS.",
+   "Está correta: a NOAS ampliou as responsabilidades municipais na Atenção Básica."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica – Interiorização em Saúde",
+   "n": 27,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A organização político-administrativa do Sistema Único de Saúde (SUS), que distribui as responsabilidades pelas ações de saúde entre os entes federativos, respeitando a autonomia de cada um, corresponde à diretriz do SUS conhecida como",
+  "alts": [
+   "Equidade.",
+   "Hierarquização.",
+   "Descentralização.",
+   "Regionalização.",
+   "Integralidade."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, art. 198, I; Lei 8.080/1990, art. 7º, IX",
+  "coment": "A descentralização político-administrativa, com direção única em cada esfera de governo, é a diretriz que distribui responsabilidades entre União, estados e municípios, respeitando a autonomia de cada ente (CF, art. 198, I; Lei 8.080, art. 7º, IX). Ela enfatiza a municipalização. Regionalização e hierarquização organizam a rede no território e por níveis de complexidade; equidade e integralidade são princípios doutrinários.",
+  "porAlt": [
+   "Equidade é princípio doutrinário de justiça na distribuição conforme necessidade, não organização entre entes.",
+   "Hierarquização organiza os serviços por níveis de complexidade, não divide responsabilidades entre os entes.",
+   "Correta: a descentralização distribui poder e responsabilidades entre as esferas, com direção única em cada uma.",
+   "Regionalização organiza serviços num território de municípios, sem ser a divisão de responsabilidades entre entes federativos.",
+   "Integralidade é princípio doutrinário sobre o conjunto de ações em todos os níveis."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica – Interiorização em Saúde",
+   "n": 28,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Rede de Atenção Psicossocial (RAPS), instituída pela Portaria nº 3.088/2011, organiza os pontos de atenção para o cuidado em saúde mental no SUS. A RAPS é constituída pelos seguintes componentes de atenção, EXCETO:",
+  "alts": [
+   "básica em saúde.",
+   "de urgência e emergência.",
+   "reabilitação psicossocial.",
+   "residencial de longa permanência.",
+   "hospitalar."
+  ],
+  "gab": 3,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 3.088/2011, Anexo V da Portaria de Consolidação 3/2017 (RAPS)",
+  "coment": "A RAPS (Portaria GM/MS 3.088/2011, hoje no Anexo V da PRC 3/2017) tem sete componentes: atenção básica em saúde, atenção psicossocial especializada, atenção de urgência e emergência, atenção residencial de caráter transitório, atenção hospitalar, estratégias de desinstitucionalização e reabilitação psicossocial. O componente residencial é de caráter transitório (unidades de acolhimento e serviços em regime residencial); longa permanência remete ao modelo asilar que a reforma psiquiátrica superou.",
+  "porAlt": [
+   "A atenção básica em saúde é componente da RAPS, com UBS, eSF, eCR e centros de convivência.",
+   "A atenção de urgência e emergência é componente da RAPS, com SAMU, UPA e portas hospitalares.",
+   "A reabilitação psicossocial é componente da RAPS, com geração de trabalho e renda e empreendimentos solidários.",
+   "Correta: o componente residencial da RAPS é de caráter transitório, não de longa permanência.",
+   "A atenção hospitalar é componente da RAPS, com leitos de saúde mental em hospital geral."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica – Interiorização em Saúde",
+   "n": 29,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Política Nacional de Atenção à Saúde dos Povos Indígenas estabelece as unidades estratégicas do Subsistema de Saúde Indígena no Brasil, que organizam e apoiam as ações de saúde nas comunidades indígenas, servindo como primeira referência para Agentes Indígenas de Saúde e Equipes Multidisciplinares, denominadas de",
+  "alts": [
+   "Polos-Base de saúde indígena.",
+   "Casas de Apoio à Saúde Indígena.",
+   "Distrito Sanitário Especial Indígena.",
+   "Unidades básicas de saúde indígenas.",
+   "Nenhuma das alternativas."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 254/2002 (Política Nacional de Atenção à Saúde dos Povos Indígenas); Lei 9.836/1999",
+  "coment": "A Política Nacional de Atenção à Saúde dos Povos Indígenas (Portaria GM/MS 254/2002) organiza o Subsistema em 34 Distritos Sanitários Especiais Indígenas. Dentro de cada DSEI, as aldeias têm postos de saúde com Agentes Indígenas de Saúde, e os Polos-Base são a primeira referência para esses agentes e para as Equipes Multidisciplinares de Saúde Indígena. As Casas de Apoio (CASAI) acolhem pacientes encaminhados à rede do SUS, e o DSEI é a unidade gestora do território.",
+  "porAlt": [
+   "Correta: os Polos-Base são a primeira referência para Agentes Indígenas de Saúde e EMSI.",
+   "As Casas de Apoio à Saúde Indígena apoiam pacientes referenciados à rede de média e alta complexidade.",
+   "O DSEI é a unidade gestora descentralizada do Subsistema, não a primeira referência das equipes.",
+   "Unidades básicas de saúde indígenas não são a denominação dada pela política às unidades de primeira referência.",
+   "A alternativa A está correta, de modo que nenhuma das alternativas não se aplica."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica – Interiorização em Saúde",
+   "n": 30,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "“Senhoras e senhores, prestem muita atenção Que agora eu vou falar sobre a constituição Aquela que criou o SUS Garantindo direitos para toda população Lá em 88 o nosso SUS nasceu Fruto de muita luta que reforma sanitária precedeu E hoje colhemos o fruto que essa luta nos deu” Cordel da Equidade. Erivaldo Santos de Lima, Marcos Paulo Santana de Oliveira e Jucélia Gonçalves de Souza Alves\nO trecho do cordel apresenta o movimento sanitário enquanto meio que lançou novas bases para a saúde no Brasil. Sobre essa temática, assinale a alternativa que apresenta, de forma CORRETA, um legado da Reforma Sanitária.",
+  "alts": [
+   "Manutenção do acesso excludente à atenção à saúde no SUS.",
+   "Preservação do ideário antidemocrático vigente no país.",
+   "Formulação de um projeto para favorecimento do empresariado da saúde.",
+   "Difusão da noção do direito à saúde.",
+   "Exacerbação assimétrica do controle do setor privado sobre as políticas de saúde."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, art. 196; Relatório final da 8ª Conferência Nacional de Saúde (1986)",
+  "coment": "O movimento da Reforma Sanitária, consolidado na 8ª Conferência Nacional de Saúde (1986), levou à Constituição a ideia de saúde como direito de todos e dever do Estado (art. 196). A difusão da noção de direito à saúde, ligada à cidadania e à redemocratização, é seu legado mais evidente. As demais alternativas descrevem exatamente o contrário do que o movimento defendia: acesso excludente, autoritarismo e predomínio do setor privado.",
+  "porAlt": [
+   "A Reforma combateu o acesso excludente e propôs acesso universal.",
+   "O movimento sanitário se uniu à luta pela redemocratização, contra o ideário antidemocrático.",
+   "O projeto propunha sistema público, com o privado só complementar, e não favorecimento do empresariado.",
+   "Correta: a difusão da saúde como direito de cidadania é o legado central da Reforma Sanitária.",
+   "A Reforma buscou reduzir, e não exacerbar, o controle do setor privado sobre as políticas de saúde."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem, Perfil Saúde Coletiva",
+   "n": 1,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Leia abaixo o recorte de um artigo científico publicado em um periódico de enfermagem que versa acerca da Navegação de Pacientes (NP).\nDesenvolvida nos Estados Unidos, em 1990, pelo médico Harold Freeman no Hospital Harlem em Nova York, a NP é uma prática baseada em evidências. Definida como um processo sistematizado, executado por um profissional denominado navegador de pacientes, envolve a avaliação das necessidades, planejamento e implementação de ações para a coordenação do cuidado focado em auxiliar os pacientes na superação das barreiras que dificultam seu acesso à assistência em saúde. É uma das formas eficientes de colocar em prática o cuidado centrado na pessoa, ou seja, em suas necessidades e prioridades. Pautasso FF, Trevilato DD, Caregnato RCA, Floriani MA, Pertile N de M, Pizzol Junior AD, et al. The path to implementing a patient navigation program in oncology: an experience report. Online Braz J Nurs. 2024;22 Suppl 2:e20246691.\nNesse contexto, assinale a alternativa CORRETA acerca do Programa Nacional de Navegação da Pessoa com Diagnóstico de Câncer.",
+  "alts": [
+   "A navegação do usuário abrange desde a busca ativa ao acompanhamento individualizado do mesmo no processo de adoecimento.",
+   "O objetivo principal do programa consiste em tratar os casos de câncer no território nacional.",
+   "A navegação dos pacientes com câncer abrange a articulação entre a média e a alta complexidade, cabendo à atenção básica apenas o rastreio de casos.",
+   "As barreiras constituem aspectos relacionados à estruturação física dos dispositivos assistenciais na Rede de Atenção, apenas.",
+   "O objetivo do programa de navegação é facilitar o acesso de pacientes com câncer aos serviços de saúde por meio de transporte fluvial em locais de difícil acesso."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 14.758/2023 (Política Nacional de Prevenção e Controle do Câncer e Programa Nacional de Navegação da Pessoa com Diagnóstico de Câncer); Resolução COFEN 735/2024",
+  "coment": "A Lei 14.758/2023 instituiu a Política Nacional de Prevenção e Controle do Câncer e o Programa Nacional de Navegação da Pessoa com Diagnóstico de Câncer. Navegação é a busca ativa e o acompanhamento individual dos processos de diagnóstico e tratamento, para superar barreiras de acesso (geográficas, sociais, econômicas, culturais e organizacionais) e reduzir o tempo até o tratamento. Envolve toda a rede, da atenção básica à alta complexidade. A Resolução COFEN 735/2024 normatiza a atuação do enfermeiro navegador.",
+  "porAlt": [
+   "Correta: a navegação vai da busca ativa ao acompanhamento individualizado ao longo do diagnóstico e do tratamento.",
+   "O objetivo do programa é garantir acesso oportuno e acompanhamento, não tratar diretamente os casos.",
+   "A navegação envolve toda a rede, inclusive a atenção básica, que vai além do rastreio.",
+   "As barreiras incluem fatores sociais, econômicos, culturais e organizacionais, não só a estrutura física.",
+   "Transporte fluvial pode ser uma ação pontual, mas não é o objetivo do programa, que é coordenar o cuidado."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem, Perfil Saúde Coletiva",
+   "n": 2,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Os Conselhos de Saúde possuem o regimento interno enquanto documento regulamentador do processo de funcionamento e trabalho. Acerca da apreciação e aprovação desse documento, é CORRETO afirmar que compete à (ao)",
+  "alts": [
+   "próprio conselho.",
+   "secretário municipal de saúde.",
+   "prefeito do município.",
+   "conferência de saúde.",
+   "câmara de vereadores local."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 1º, § 5º; Resolução CNS 453/2012",
+  "coment": "Pela Lei 8.142/1990 (art. 1º, § 5º), as conferências e os conselhos de saúde têm sua organização e normas de funcionamento definidas em regimento próprio, aprovado pelo respectivo conselho. A Resolução CNS 453/2012 reforça que cabe ao conselho elaborar seu regimento interno. A criação e a composição do conselho são definidas em lei do ente, mas o regimento é do próprio colegiado, expressão da sua autonomia.",
+  "porAlt": [
+   "Correta: o regimento interno é aprovado pelo próprio conselho (Lei 8.142, art. 1º, § 5º).",
+   "O secretário de saúde é membro do segmento gestor e não aprova sozinho o regimento do conselho.",
+   "O prefeito homologa deliberações, mas não aprova o regimento interno do conselho.",
+   "A conferência propõe diretrizes a cada quatro anos; não aprova o regimento do conselho.",
+   "A câmara aprova a lei de criação do conselho, mas o regimento interno é aprovado pelo próprio conselho."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem, Perfil Saúde Coletiva",
+   "n": 3,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "De acordo com o Decreto 7.508 de 2011, o acesso aos serviços ambulatoriais especializados deve ocorrer através dos (das)",
+  "alts": [
+   "próprios usuários através de demanda espontânea.",
+   "hospitais de alta complexidade, apenas, após identificada a necessidade específica dos usuários.",
+   "secretarias estaduais de saúde, apenas.",
+   "portas de entrada.",
+   "serviços especiais de acesso aberto, apenas."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, arts. 9º e 10",
+  "coment": "O Decreto 7.508/2011 define como Portas de Entrada (art. 9º) os serviços de atenção primária, de urgência e emergência, de atenção psicossocial e os especiais de acesso aberto. Pelo art. 10, os serviços de atenção hospitalar e os ambulatoriais especializados, de maior complexidade e densidade tecnológica, são referenciados pelas Portas de Entrada. Ou seja, o usuário chega ao ambulatório especializado encaminhado por uma porta de entrada, com regulação.",
+  "porAlt": [
+   "O ambulatório especializado não é acessado por demanda espontânea; é referenciado pelas portas de entrada.",
+   "Hospitais de alta complexidade também são referenciados pelas portas; não são a via de acesso ao ambulatório.",
+   "As secretarias estaduais regulam e gerem, mas o acesso ocorre pelas portas de entrada da rede.",
+   "Correta: pelo art. 10 do Decreto 7.508, os serviços ambulatoriais especializados são referenciados pelas Portas de Entrada.",
+   "Os serviços especiais de acesso aberto são apenas uma das quatro portas de entrada, não a única."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem, Perfil Saúde Coletiva",
+   "n": 4,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Em Pernambuco existe, desde 1992, o Centro de Informação e Assistência Toxicológica de Pernambuco (CIAtox). Esse centro, de relevada importância no Estado pernambucano, apresenta funcionamento ininterrupto todos os dias da semana e presta assistência a todos os municípios que necessitam manejar casos de intoxicações e acidentes por Essa iniciativa está CORRETAMENTE relacionada ao seguinte campo de atuação do SUS:",
+  "alts": [
+   "execução da política de informação e assistência toxicológica e de logística de antídotos e medicamentos utilizados em intoxicações.",
+   "fiscalização e inspeção de alimentos de consumo humano.",
+   "formulação da política de sangue e derivado.",
+   "monitorização do uso dos produtos psicoativos.",
+   "não se relaciona a nenhum dos campos de atuação do SUS."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 6º, XII e § 5º (incluídos pela Lei 14.715/2023)",
+  "coment": "A Lei 14.715/2023 incluiu no art. 6º da Lei 8.080/1990 o inciso XII: a formulação e a execução da política de informação e assistência toxicológica e de logística de antídotos e medicamentos utilizados em intoxicações. O § 5º define assistência toxicológica como prevenção, diagnóstico e tratamento de intoxicações agudas e crônicas por substâncias químicas, medicamentos e toxinas de animais peçonhentos e plantas tóxicas. Um centro de informação e assistência toxicológica 24 horas, como o CIAtox, executa esse campo. O enunciado chega truncado no original, mas não compromete a resposta.",
+  "porAlt": [
+   "Correta: o CIAtox executa a política de informação e assistência toxicológica e de logística de antídotos (art. 6º, XII).",
+   "Fiscalizar alimentos é outro campo do art. 6º, ligado à vigilância sanitária, e não à assistência às intoxicações.",
+   "A política de sangue e derivados é campo distinto, voltado à hemoterapia.",
+   "O controle de psicoativos trata da produção e uso dessas substâncias, não do atendimento às intoxicações.",
+   "A assistência toxicológica é campo expresso do SUS desde a Lei 14.715/2023."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem, Perfil Saúde Coletiva",
+   "n": 6,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Leia, atentamente, o resultado de um estudo científico acerca da realização de exames complementares nos serviços de saúde.\nNo que se refere aos exames realizados, nota-se que para os 293 pacientes investigados, foram solicitados 9.522 exames laboratoriais (em média 32,5 exames para cada paciente) e, destes, 568 exames foram considerados desnecessários (cerca de 6%) por terem sido solicitados fora do período estipulado pelo protocolo da SMS ou por terem sido solicitados para um mesmo paciente, em duas unidades de saúde de níveis de atenção diferentes, em períodos muito próximos. Destaca-se que não foi motivo de investigação os motivos pelos quais o paciente procurou atendimento em outro serviço. https://doi.org/10.1590/1983-1447.2014.04.44793\nConsiderando o achado apresentado, observa-se que houve violação direta do seguinte princípio do SUS:",
+  "alts": [
+   "universalidade do acesso.",
+   "participação da comunidade.",
+   "organização dos serviços públicos, de modo a evitar duplicidade de meios para fins idênticos.",
+   "direito à informação às pessoas assistidas sobre sua saúde",
+   "preservação da autonomia das pessoas."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º, XIII",
+  "coment": "O estudo descreve exames repetidos para o mesmo paciente, em unidades de níveis diferentes e em períodos muito próximos, além de exames fora do protocolo. É desperdício de recursos por falta de integração entre os serviços, o que viola o princípio do art. 7º, XIII, da Lei 8.080/1990: organização dos serviços públicos de modo a evitar duplicidade de meios para fins idênticos. Os demais princípios citados não têm relação direta com a repetição de exames.",
+  "porAlt": [
+   "O paciente teve acesso, inclusive em dois serviços; a universalidade não foi violada.",
+   "Participação da comunidade trata de conselhos e conferências, sem relação com exames repetidos.",
+   "Correta: exames duplicados em serviços diferentes violam a organização que evita duplicidade de meios (art. 7º, XIII).",
+   "O estudo não trata de falta de informação ao paciente sobre sua saúde.",
+   "Nada no achado indica desrespeito à autonomia do paciente."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem, Perfil Saúde Coletiva",
+   "n": 9,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "“O Programa Melhor em Casa é uma iniciativa, que oferece cuidado domiciliar para pacientes que precisam de atenção contínua, evitando internações prolongadas e promovendo o conforto e a recuperação no ambiente familiar. Ele é voltado para pessoas que estejam passando por um momento de piora de sua doença e, por limitações temporárias ou permanentes, não conseguem se deslocar até uma unidade de saúde. Sem essa possibilidade de atendimento domiciliar, essas pessoas poderiam acabar necessitando de hospitalização.” https://www.gov.br/saude/pt-br/composicao/saes/melhor-em-casa\nA respeito do programa mencionado e considerando o subsistema de atendimento e internação domiciliar previsto em ordenamento legal, assinale a alternativa INCORRETA.",
+  "alts": [
+   "Nessa modalidade de atendimento, está abrangida a assistência psicológica ao paciente.",
+   "No âmbito familiar do paciente assistido, pode ser garantida a presença do profissional de assistência social, conforme necessidade.",
+   "As equipes multidisciplinares atuarão nos níveis da medicina preventiva, terapêutica e reabilitadora.",
+   "O atendimento domiciliar só poderá ser realizado por indicação médica.",
+   "Uma vez estabelecida a indicação médica do internamento, a anuência dos familiares é dispensável."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 19-I (incluído pela Lei 10.424/2002); Portaria GM/MS 825/2016 (Atenção Domiciliar)",
+  "coment": "O art. 19-I da Lei 8.080/1990 cria o subsistema de atendimento e internação domiciliar: inclui procedimentos médicos, de enfermagem, fisioterapêuticos, psicológicos e de assistência social; é feito por equipes multidisciplinares nos níveis da medicina preventiva, terapêutica e reabilitadora; e só pode ser realizado por indicação médica, com expressa concordância do paciente e de sua família (§ 3º). Dispensar a anuência dos familiares contraria a lei.",
+  "porAlt": [
+   "Está correta: o art. 19-I inclui a assistência psicológica no atendimento domiciliar.",
+   "Está correta: o atendimento inclui assistência social, conforme a necessidade do paciente.",
+   "Está correta: as equipes multidisciplinares atuam nos níveis da medicina preventiva, terapêutica e reabilitadora.",
+   "Está correta: pelo § 3º, o atendimento domiciliar só pode ser feito por indicação médica.",
+   "Correta: é a afirmação incorreta, pois o § 3º exige expressa concordância do paciente e de sua família."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem, Perfil Saúde Coletiva",
+   "n": 12,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Acerca do financiamento do SUS, sabe-se que, em determinados projetos, o proponente compromete-se a realizar a inclusão, na proposta, de um complemento financeiro, com a finalidade de atingir um valor global pleiteado. O cálculo dessa parte deve considerar o valor total do objeto. O enunciado da questão refere-se à (ao)",
+  "alts": [
+   "contrapartida.",
+   "custeio dos serviços da rede de atenção.",
+   "relatório de gestão.",
+   "programação financeira anual da saúde.",
+   "recurso de investimento estrutural."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei Complementar 101/2000, art. 25, § 1º, IV, d; Lei 8.142/1990, art. 4º, V",
+  "coment": "Contrapartida é a parcela de recursos próprios que o proponente (estado, município ou entidade) se compromete a aportar para completar o valor global do projeto financiado por transferência voluntária, como convênio ou contrato de repasse, calculada sobre o valor total do objeto. A Lei de Responsabilidade Fiscal exige previsão orçamentária de contrapartida (LC 101/2000, art. 25, § 1º, IV, d), e a Lei 8.142/1990 (art. 4º, V) já exigia contrapartida de recursos no orçamento para receber verbas do Fundo Nacional.",
+  "porAlt": [
+   "Correta: contrapartida é o complemento financeiro do proponente, calculado sobre o valor total do objeto.",
+   "Custeio é o financiamento da manutenção dos serviços, não o complemento oferecido pelo proponente.",
+   "O relatório de gestão é instrumento de planejamento que presta contas da execução anual.",
+   "A programação anual de saúde anualiza metas do plano; não é o aporte do proponente num projeto.",
+   "Recurso de investimento é o financiamento de obras e equipamentos, não a parte complementar do proponente."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem, Perfil Saúde Coletiva",
+   "n": 13,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Leia as definições abaixo:\nA. Instrumento central de planejamento e orçamento para o período de 4 anos. Este é elaborado no primeiro ano da gestão em curso, e a sua execução se dá a partir do segundo ano da gestão. B. Anualiza as metas contidas no plano de saúde e prevê a alocação orçamentária de acordo com as metas a serem executadas. C. Instrumento de planejamento cujo fim é a apresentação dos resultados alcançados por meio da execução da Programação Anual.\nRealize a correlação com os itens abaixo apresentados:\nI. Programação Anual de Saúde\nII. Plano de Saúde\nIII. Relatório de Gestão.\nAssinale a alternativa que apresenta a correlação CORRETA.",
+  "alts": [
+   "IA; IIB; IIIC.",
+   "IA; IIIB; IIC.",
+   "IIA; IB; IIIC.",
+   "IIA; IIIB; IC.",
+   "IC; IIIA; IIB."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria de Consolidação GM/MS 1/2017 (origem: Portaria GM/MS 2.135/2013, instrumentos de planejamento do SUS); LC 141/2012, art. 36",
+  "coment": "Os instrumentos de planejamento do SUS (Portaria 2.135/2013, hoje na PRC 1/2017) são três. O Plano de Saúde é quadrienal, elaborado no primeiro ano da gestão e executado do segundo ano até o primeiro da gestão seguinte (II e A). A Programação Anual de Saúde anualiza as metas do plano e prevê a alocação orçamentária (I e B). O Relatório de Gestão apresenta os resultados alcançados com a execução da programação anual e vai ao conselho até 30 de março (III e C).",
+  "porAlt": [
+   "Troca o plano pela programação: o instrumento de quatro anos é o Plano de Saúde.",
+   "O relatório não anualiza metas e o plano não apresenta resultados; a correlação está invertida.",
+   "Correta: Plano de Saúde (A), Programação Anual (B) e Relatório de Gestão (C).",
+   "O relatório de gestão não anualiza metas; essa é a função da programação anual.",
+   "Nenhuma das correspondências está certa: a programação não apresenta resultados e o relatório não é quadrienal."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem, Perfil Saúde Coletiva",
+   "n": 14,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sabe-se que a avaliação de intervenções pode ocorrer por meio de avaliação normativa ou de pesquisa avaliativa. A normativa, através de critérios e normas específicas, verifica se os componentes da intervenção estão em conformidade com as normas. Considerando a modalidade previamente definida, assinale a alternativa que NÃO contempla um questionamento voltado para apreciação de estrutura.",
+  "alts": [
+   "O dimensionamento de profissionais está correto?",
+   "Os recursos farmacológicos são suficientes para demanda apresentada?",
+   "O resultado da campanha atingiu o resultado esperado?",
+   "O corpo profissional é adequadamente especializado para a função que exerce?",
+   "A quantidade de impressos está adequada à necessidade do serviço?"
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Donabedian A. The quality of care: how can it be assessed? JAMA 1988;260(12):1743-8",
+  "coment": "Na avaliação normativa, os componentes seguem a tríade de Donabedian. Estrutura são os recursos: profissionais em número e qualificação adequados, medicamentos, insumos, impressos, área física. Processo é o que se faz com eles, e resultado é o efeito obtido. Perguntar se a campanha atingiu o resultado esperado é apreciação de resultado, por isso é a única alternativa que não trata de estrutura.",
+  "porAlt": [
+   "Dimensionamento de profissionais é recurso humano, componente de estrutura.",
+   "Suficiência de recursos farmacológicos é recurso material, componente de estrutura.",
+   "Correta: atingir o resultado esperado da campanha é apreciação de resultado, não de estrutura.",
+   "Qualificação do corpo profissional é característica de recursos humanos, componente de estrutura.",
+   "Quantidade de impressos é recurso material, componente de estrutura."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem, Perfil Saúde Coletiva",
+   "n": 15,
+   "parte": "gerais"
+  }
+ }
+]

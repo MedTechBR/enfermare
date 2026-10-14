@@ -1,0 +1,1506 @@
+[
+ {
+  "q": "A tabela abaixo apresenta o número de doses da vacina contra a febre amarela aplicadas no primeiro semestre de 2024, em uma Unidade de Saúde da Família:\nJaneiro — Número de doses da vacina: 20\nFevereiro — Número de doses da vacina: 18\nMarço — Número de doses da vacina: 30\nAbril — Número de doses da vacina: 14\nMaio — Número de doses da vacina: 24\nJunho — Número de doses da vacina: 14\nConsiderando a tabela apresentada, assinale a alternativa CORRETA.",
+  "alts": [
+   "A Média, a Mediana e a Moda são iguais.",
+   "Moda < Mediana < Média.",
+   "Média < Mediana.",
+   "Mediana < Moda.",
+   "Moda > Média."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Medronho RA et al. Epidemiologia, 2ª ed., 2009 (medidas de tendência central)",
+  "coment": "Some as doses: 20 + 18 + 30 + 14 + 24 + 14 = 120; média = 120 ÷ 6 = 20. Ordenando (14, 14, 18, 20, 24, 30), com número par de valores a mediana é a média dos dois centrais: (18 + 20) ÷ 2 = 19. A moda é o valor mais frequente, 14, que aparece duas vezes. Logo moda (14) < mediana (19) < média (20). Quando a média supera a mediana, a distribuição tem assimetria à direita, puxada aqui pelo mês de março (30 doses).",
+  "porAlt": [
+   "As três medidas diferem: média 20, mediana 19 e moda 14.",
+   "Correta: moda 14, mediana 19 e média 20, nessa ordem crescente.",
+   "A média (20) é maior que a mediana (19), não menor.",
+   "A mediana (19) é maior que a moda (14), e não o contrário.",
+   "A moda (14) é menor que a média (20), não maior."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem, Perfil Atenção Básica – Interiorização em Saúde",
+   "n": 23,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre a classificação de variáveis em epidemiologia, analise os itens abaixo:\nI. Sexo\nII. Escolaridade\nIII. Estado civil\nIV. Tipo sanguíneo\nV. Estágio da doença\nAssinale a alternativa em que são considerados os dados nominais.",
+  "alts": [
+   "Todos os itens.",
+   "Apenas quatro itens.",
+   "Apenas três itens.",
+   "Apenas dois itens.",
+   "Apenas um item."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Medronho RA et al. Epidemiologia, 2ª ed., 2009 (tipos de variáveis)",
+  "coment": "Variável qualitativa nominal tem categorias sem ordem entre si; a ordinal tem categorias com ordem natural. Sexo, estado civil e tipo sanguíneo são nominais: nenhuma categoria vem antes da outra. Escolaridade (fundamental, médio, superior) e estágio da doença (I, II, III, IV) são ordinais, pois as categorias seguem uma graduação. São, portanto, três itens nominais (I, III e IV).",
+  "porAlt": [
+   "Escolaridade e estágio da doença têm categorias ordenadas, logo são ordinais, não nominais.",
+   "Só três itens são nominais; escolaridade e estágio da doença são ordinais.",
+   "Correta: sexo, estado civil e tipo sanguíneo são nominais; escolaridade e estágio são ordinais.",
+   "São três, e não dois, os itens nominais: sexo, estado civil e tipo sanguíneo.",
+   "Há três variáveis sem ordem entre categorias, não apenas uma."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem, Perfil Atenção Básica – Interiorização em Saúde",
+   "n": 24,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "O Plano de Saúde é o instrumento central de planejamento para definição e implementação de todas as iniciativas no âmbito da saúde de cada esfera da gestão do SUS. A elaboração do Plano de Saúde será orientada pelas necessidades de saúde da população, considerando na análise situacional:\nI. estrutura do sistema de saúde\nII. redes de atenção à saúde\nIII. condições socio sanitárias\nIV. fluxos de acesso\nAssinale a alternativa em que os temas estão contidos no Mapa da Saúde.",
+  "alts": [
+   "Apenas I, II e III.",
+   "Apenas II, III e IV.",
+   "Apenas II e III.",
+   "Apenas I e III.",
+   "I, II, III e IV."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.135/2013, art. 3º, § 3º, I (consolidada na PRC 1/2017)",
+  "coment": "A Portaria 2.135/2013, que trata do planejamento no SUS, define o Plano de Saúde como instrumento central de planejamento para quatro anos. Sua elaboração considera a análise situacional orientada pelos temas contidos no Mapa da Saúde: estrutura do sistema de saúde, redes de atenção à saúde, condições sociossanitárias, fluxos de acesso, recursos financeiros, gestão do trabalho e da educação na saúde e ciência, tecnologia, produção e inovação. Os quatro itens da questão estão na lista, por isso a resposta é I, II, III e IV.",
+  "porAlt": [
+   "Omite fluxos de acesso, que também é tema do Mapa da Saúde na análise situacional.",
+   "Omite a estrutura do sistema de saúde, primeiro tema listado na Portaria 2.135/2013.",
+   "Deixa de fora estrutura do sistema e fluxos de acesso, ambos previstos na norma.",
+   "Deixa de fora redes de atenção à saúde e fluxos de acesso, que também integram o Mapa.",
+   "Correta: os quatro temas constam do Mapa da Saúde que orienta a análise situacional do Plano."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem, Perfil Atenção Básica – Interiorização em Saúde",
+   "n": 25,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "O Ministério da Saúde, com o objetivo de coordenar as ações de imunizações que se caracterizavam, até então, pela descontinuidade, pelo caráter episódico e pela reduzida área de cobertura, criou o Programa Nacional de Imunizações (PNI) no ano de",
+  "alts": [
+   "1970.",
+   "1973.",
+   "1975.",
+   "1980.",
+   "1988."
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Programa Nacional de Imunizações: 30 anos, 2003",
+  "coment": "O PNI foi formulado em 1973 por determinação do Ministério da Saúde, para coordenar ações de imunização até então marcadas por descontinuidade, caráter episódico e baixa cobertura, herança das campanhas contra varíola e outras doenças. Em 1975 a Lei 6.259 deu base legal ao programa e à vigilância epidemiológica. A data cobrada é 1973; 1975 é a da lei, armadilha frequente.",
+  "porAlt": [
+   "Em 1970 ainda não havia o programa; a coordenação nacional das imunizações veio em 1973.",
+   "Correta: o PNI foi criado em 1973 pelo Ministério da Saúde.",
+   "1975 é o ano da Lei 6.259, que institucionalizou o PNI e a vigilância, não o da criação do programa.",
+   "Em 1980 o PNI já existia; nesse ano houve o início dos dias nacionais de vacinação contra a poliomielite.",
+   "1988 é o ano da Constituição Federal, não da criação do PNI."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem, Perfil Atenção Básica – Interiorização em Saúde",
+   "n": 26,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre o Programa Saúde na Escola – PSE, assinale a alternativa INCORRETA.",
+  "alts": [
+   "Tem a finalidade de contribuir para a formação integral dos estudantes da rede pública e privada de educação básica por meio de ações de prevenção, promoção e atenção à saúde.",
+   "Constitui estratégia para a integração e a articulação permanente entre as políticas e ações de educação e de saúde, com a participação da comunidade escolar, envolvendo as equipes de saúde da família e da educação básica.",
+   "Implementado mediante adesão dos Estados, do Distrito Federal e dos Municípios aos objetivos e diretrizes do programa, formalizado por meio de termo de compromisso.",
+   "As equipes de saúde da família realizarão visitas periódicas e permanentes às escolas participantes do PSE para avaliar as condições de saúde dos educandos, bem como para proporcionar o atendimento à saúde ao longo do ano letivo, de acordo com as necessidades locais de saúde identificadas.",
+   "Caberá ao Ministério da Educação fornecer material para implementação das ações do PSE, em quantidade previamente fixada com o Ministério da Saúde, observadas as disponibilidades orçamentárias."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Decreto 6.286/2007 (Programa Saúde na Escola), arts. 1º e 10",
+  "coment": "O Decreto 6.286/2007 institui o PSE com a finalidade de contribuir para a formação integral dos estudantes da rede pública de educação básica (art. 1º). A alternativa A troca isso por 'rede pública e privada', e é a incorreta. As demais reproduzem o decreto: integração permanente entre educação e saúde com as equipes de Saúde da Família, adesão de estados, DF e municípios por termo de compromisso, visitas periódicas das equipes às escolas e fornecimento de material pelo Ministério da Educação em quantidade fixada com o Ministério da Saúde (art. 10).",
+  "porAlt": [
+   "Correta: o PSE é voltado aos estudantes da rede pública de educação básica, não da rede privada.",
+   "Está no decreto: o PSE integra e articula de forma permanente as políticas de educação e saúde.",
+   "Está no decreto: a implementação depende de adesão formalizada por termo de compromisso.",
+   "Está no decreto: as equipes de Saúde da Família fazem visitas periódicas e permanentes às escolas.",
+   "Está no art. 10: cabe ao Ministério da Educação fornecer o material, em quantidade fixada com o MS."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem, Perfil Atenção Básica – Interiorização em Saúde",
+   "n": 27,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "De acordo com a Lista Nacional de Doenças e Agravos, são monitorados pela Estratégia de Vigilância Sentinela os citados abaixo, EXCETO:",
+  "alts": [
+   "Filariose",
+   "Rotavírus",
+   "Síndrome Gripal",
+   "Doença Diarreica Aguda",
+   "Síndrome de Corrimento Uretral Masculino"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "PRC 5/2017, Anexo XLIII, na redação da Portaria GM/MS 11.211/2026",
+  "coment": "A Lista Nacional de Doenças e Agravos monitorados pela Estratégia de Vigilância Sentinela (Anexo XLIII da PRC 5/2017) traz, na redação vigente dada pela Portaria GM/MS 11.211/2026: doença invasiva por Haemophilus influenzae e doença pneumocócica invasiva; síndrome gripal; rotavírus, doença diarreica aguda e síndrome hemolítico-urêmica; síndrome do corrimento uretral masculino; e síndrome neurológica pós-infecção febril exantemática. A filariose não consta. A mesma portaria de 2026 excluiu a SRAG da lista sentinela, o que não altera a resposta.",
+  "porAlt": [
+   "Correta: a filariose não está na lista de vigilância sentinela.",
+   "O rotavírus está na lista sentinela, no grupo de transmissão hídrica e alimentar.",
+   "A síndrome gripal é monitorada pela vigilância sentinela de vírus respiratórios.",
+   "A doença diarreica aguda integra a vigilância sentinela de transmissão hídrica e alimentar.",
+   "A síndrome do corrimento uretral masculino é o item sentinela das infecções sexualmente transmissíveis."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem, Perfil Atenção Básica – Interiorização em Saúde",
+   "n": 28,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre os estudos de caso-controle, assinale a alternativa INCORRETA.",
+  "alts": [
+   "Exigem pouco tempo para execução.",
+   "Proporcionam estimador de prevalência e incidência.",
+   "São relativamente baratos, quando comparados com estudo de coorte.",
+   "Os dados são coletados a partir de informações do passado.",
+   "Comparam a frequência de exposição a um determinado fator de risco nos dois grupos."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Medronho RA et al. Epidemiologia, 2ª ed., 2009 (estudos de caso-controle)",
+  "coment": "O estudo de caso-controle parte do desfecho: seleciona doentes (casos) e não doentes (controles) e compara a frequência de exposição pregressa nos dois grupos. Por isso é rápido, barato e bom para doenças raras, mas não fornece prevalência nem incidência, já que a proporção de casos é fixada pelo pesquisador. A medida de associação é a razão de chances (odds ratio). Incidência exige coorte; prevalência, estudo transversal.",
+  "porAlt": [
+   "É vantagem real do desenho: como parte do desfecho já ocorrido, exige pouco tempo.",
+   "Correta: o caso-controle não estima prevalência nem incidência; mede associação pela razão de chances.",
+   "É verdadeiro: costuma custar menos que a coorte, que acompanha muitos expostos por anos.",
+   "É verdadeiro: a exposição é investigada no passado, retrospectivamente.",
+   "É a lógica do desenho: comparar a frequência de exposição entre casos e controles."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem, Perfil Atenção Básica – Interiorização em Saúde",
+   "n": 29,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "As novas inclusões na lista nacional de notificação compulsória em 2024 abrangem uma variedade de doenças ocupacionais. Sobre isso, analise os itens abaixo:\nI. Dermatoses ocupacionais\nII. Perda auditiva relacionada ao trabalho\nIII. Transtornos mentais relacionados ao trabalho\nIV. Distúrbio de voz relacionado ao trabalho\nSão condições que foram incluídas na lista de notificação compulsória:",
+  "alts": [
+   "Todos os itens.",
+   "Apenas três itens.",
+   "Apenas dois itens.",
+   "Apenas um item.",
+   "Nenhum item."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 5.201/2024 (Lista Nacional de Notificação Compulsória, PRC 4/2017, Anexo 1 do Anexo V)",
+  "coment": "A Portaria GM/MS 5.201, de 15/08/2024, levou para a notificação compulsória universal as doenças relacionadas ao trabalho antes monitoradas só pela vigilância sentinela: câncer relacionado ao trabalho, dermatoses ocupacionais, distúrbio de voz relacionado ao trabalho, LER/DORT, perda auditiva relacionada ao trabalho, pneumoconioses e transtornos mentais relacionados ao trabalho, todas de notificação semanal. Os quatro itens entraram. A lista vigente, alterada pela Portaria GM/MS 11.211/2026, mantém esses agravos.",
+  "porAlt": [
+   "Correta: dermatoses, perda auditiva, transtornos mentais e distúrbio de voz entraram na lista em 2024.",
+   "Os quatro itens foram incluídos, não apenas três.",
+   "Não são só dois: todos os quatro agravos passaram à notificação compulsória.",
+   "Não é apenas um: a Portaria 5.201/2024 incluiu os quatro.",
+   "Todos foram incluídos; a lista vigente de 2026 traz os quatro com notificação semanal."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem, Perfil Atenção Básica – Interiorização em Saúde",
+   "n": 30,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre a Reforma Sanitária Brasileira (RSB), assinale a alternativa CORRETA.",
+  "alts": [
+   "A Reforma Sanitária Brasileira se refere a um movimento que ocorreu e findou em meados dos anos 70 no Brasil.",
+   "Reforma Sanitária e Reforma Setorial da saúde são conceitos que tratam do mesmo objeto, podendo ser utilizados, assim, como sinônimos.",
+   "A Reforma Sanitária Brasileira inspira um movimento social ainda em construção no contexto nacional.",
+   "É correto concluir que a agenda da Reforma Sanitária Brasileira tenha se esgotado.",
+   "Trata-se de um movimento que contou com a participação de intelectuais, movimento estudantil, sociedade civil, entre outros, no contexto da redemocratização brasileira e que propunha a mudança estritamente do setor saúde."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Paim JS. Reforma Sanitária Brasileira: contribuição para a compreensão e crítica (Edufba/Fiocruz, 2008)",
+  "coment": "A Reforma Sanitária Brasileira nasceu nos anos 1970, na luta pela redemocratização, e reuniu intelectuais dos departamentos de medicina preventiva, movimento estudantil, profissionais e movimentos populares (CEBES, ABRASCO). Teve na 8ª Conferência Nacional de Saúde (1986) e no SUS seus marcos, mas, como mostra Jairnilson Paim, é um projeto de reforma social, mais amplo que a reforma setorial, e segue em construção. Por isso só a C está correta.",
+  "porAlt": [
+   "O movimento não terminou nos anos 1970; foi ali que começou, e segue até hoje.",
+   "Reforma sanitária é projeto de mudança social ampla; reforma setorial é só a reorganização dos serviços.",
+   "Correta: a Reforma Sanitária é um movimento social ainda em construção.",
+   "A agenda não se esgotou: universalidade, financiamento e determinação social seguem em disputa.",
+   "Os atores estão certos, mas a proposta ia além do setor saúde, visando mudanças sociais mais amplas."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 1,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Considerando a Lei nº 8.080, de 19 de setembro de 1990, que dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências, assinale a alternativa INCORRETA.",
+  "alts": [
+   "As ações e serviços de saúde, executados pelo Sistema Único de Saúde (SUS), seja diretamente ou mediante participação complementar da iniciativa privada, serão organizados de forma regionalizada e hierarquizada em níveis de complexidade decrescente.",
+   "A assistência à saúde é livre à iniciativa privada.",
+   "O orçamento da seguridade social destinará ao Sistema Único de Saúde (SUS), de acordo com a receita estimada, os recursos necessários à realização de suas finalidades, previstos em proposta elaborada pela sua direção nacional, com a participação dos órgãos da Previdência Social e da Assistência Social, tendo em vista as metas e prioridades estabelecidas na Lei de Diretrizes Orçamentárias.",
+   "O processo de planejamento e orçamento do Sistema Único de Saúde (SUS) será ascendente, do nível local até o federal, ouvidos seus órgãos deliberativos, compatibilizando-se as necessidades da política de saúde com a disponibilidade de recursos em planos de saúde dos Municípios, dos Estados, do Distrito Federal e da União.",
+   "Considera-se telessaúde a modalidade de prestação de serviços de saúde a distância por meio da utilização das tecnologias da informação e da comunicação, que envolve, entre outros, a transmissão segura de dados e informações de saúde, por meio de textos, de sons, de imagens ou outras formas adequadas."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, arts. 8º, 21, 31 e 36, com a redação da Lei 14.510/2022 (telessaúde)",
+  "coment": "Pelo art. 8º da Lei 8.080/1990, as ações e serviços do SUS são organizados de forma regionalizada e hierarquizada em níveis de complexidade CRESCENTE; a alternativa A troca para 'decrescente' e é a incorreta. As demais são texto da lei: assistência livre à iniciativa privada (art. 21), recursos da seguridade social para o SUS conforme a receita estimada (art. 31), planejamento ascendente do local ao federal (art. 36) e o conceito de telessaúde incluído pela Lei 14.510/2022.",
+  "porAlt": [
+   "Correta: a lei fala em complexidade crescente, não decrescente (art. 8º).",
+   "É o texto do art. 21: a assistência à saúde é livre à iniciativa privada.",
+   "Reproduz o art. 31 sobre os recursos do orçamento da seguridade social destinados ao SUS.",
+   "Reproduz o art. 36: planejamento e orçamento ascendentes, do local ao federal.",
+   "Reproduz o conceito de telessaúde incluído na Lei 8.080 pela Lei 14.510/2022."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 2,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Considerando a Lei nº 8.142, de 28 de dezembro de 1990, que dispõe sobre a participação da comunidade na gestão do Sistema Único de Saúde (SUS) e sobre as transferências intergovernamentais de recursos financeiros na área da saúde e dá outras providências, analise as afirmativas abaixo:\nI. O Conselho de Saúde, em caráter permanente e deliberativo, é o órgão colegiado composto por representantes do governo, prestadores de serviço, profissionais de saúde e usuários que atua na formulação de estratégias e no controle da execução da política de saúde na instância correspondente, inclusive nos aspectos econômicos e financeiros, cujas decisões serão homologadas pelo chefe do poder legalmente constituído em cada esfera do governo.\nII. A Conferência de Saúde reunir-se-á a cada quatro anos com a representação dos vários segmentos sociais, para avaliar a situação de saúde e propor as diretrizes para a formulação da política de saúde nos níveis correspondentes, convocada pelo Poder Executivo ou, extraordinariamente, por esta ou pelo Conselho de Saúde.\nIII. A representação dos usuários nos Conselhos de Saúde e Conferências deverá ser maior em relação ao conjunto dos demais segmentos.\nIV. O Conselho Nacional de Secretários de Saúde (Conass) e o Conselho Nacional de Secretários Municipais de Saúde (Conasems) terão representação no Conselho Nacional de Saúde.\nEstá CORRETO o que se afirma em",
+  "alts": [
+   "I e II, apenas.",
+   "I, apenas.",
+   "I, II e IV, apenas.",
+   "I, II, III e IV.",
+   "III, apenas."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 1º, §§ 1º a 4º",
+  "coment": "O art. 1º da Lei 8.142/1990 sustenta I (§ 2º: conselho permanente e deliberativo, composição quadripartite, decisões homologadas pelo chefe do poder), II (§ 1º: conferência a cada quatro anos, convocada pelo Executivo ou, extraordinariamente, por ela ou pelo conselho) e IV (§ 3º: CONASS e CONASEMS no Conselho Nacional). O item III erra: o § 4º diz que a representação dos usuários é PARITÁRIA em relação ao conjunto dos demais segmentos, ou seja, metade, e não maior.",
+  "porAlt": [
+   "Omite o item IV, também correto: CONASS e CONASEMS têm assento no Conselho Nacional de Saúde.",
+   "Deixa de fora II e IV, que reproduzem os §§ 1º e 3º da lei.",
+   "Correta: I, II e IV reproduzem a lei; III erra porque a representação dos usuários é paritária.",
+   "Inclui o III, que está errado: usuários são paritários (metade), não maioria.",
+   "O III é justamente o item falso: a lei fala em paridade, não em representação maior."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 3,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre a Política Nacional de Educação Permanente em Saúde (PNEPS), assinale a alternativa INCORRETA.",
+  "alts": [
+   "O Sistema Único de Saúde (SUS), com suas bases estruturadas na reforma sanitária, não tem como competência constitucional ordenar a formação dos profissionais da área.",
+   "No contexto nacional, o marco de destaque na política de educação dos profissionais da saúde foi a criação da Secretaria de Gestão do Trabalho e da Educação na Saúde (SGTES) no ano de 2003, que possibilitou a institucionalização da política de educação na saúde e o estabelecimento de iniciativas relacionadas à reorientação da formação profissional, com ênfase na abordagem integral do processo saúde-doença, na valorização da Atenção Básica e na integração entre as Instituições de Ensino Superior (IES), serviços de saúde e comunidade, com a finalidade de propiciar o fortalecimento do SUS.",
+   "A proposta contida na PNEPS assume a regionalização da gestão do SUS, como base para o desenvolvimento de iniciativas qualificadas para o enfrentamento das carências e necessidades do sistema nacional de saúde.",
+   "No que concerne à Educação Permanente em Saúde, a definição assumida pelo Ministério da Saúde (MS) se configura como aprendizagem no trabalho, em que o aprender e o ensinar se incorporam ao cotidiano das organizações e ao trabalho.",
+   "A Educação Permanente em Saúde é uma estratégia político-pedagógica que toma como objeto os problemas e necessidades emanadas do processo de trabalho em saúde e incorpora o ensino, a atenção à saúde, a gestão do sistema e a participação e controle social no cotidiano do trabalho com vistas à produção de mudanças neste contexto."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, art. 200, III; Portaria GM/MS 198/2004 e Portaria GM/MS 1.996/2007 (PNEPS)",
+  "coment": "O art. 200, III, da Constituição atribui ao SUS ordenar a formação de recursos humanos na área de saúde; a alternativa A nega essa competência e é a incorreta. As outras descrevem a PNEPS: a SGTES, criada em 2003, institucionalizou a política de educação na saúde; a política se apoia na regionalização; e educação permanente é aprendizagem no trabalho, que toma como objeto os problemas do processo de trabalho e articula ensino, atenção, gestão e controle social (o quadrilátero da formação).",
+  "porAlt": [
+   "Correta: ordenar a formação de recursos humanos em saúde é competência constitucional do SUS (art. 200, III).",
+   "Descreve corretamente a criação da SGTES em 2003 como marco da política de educação na saúde.",
+   "Verdadeiro: a PNEPS assume a regionalização da gestão como base para suas iniciativas.",
+   "É a definição adotada pelo MS: aprendizagem no trabalho, incorporada ao cotidiano dos serviços.",
+   "Verdadeiro: estratégia político-pedagógica que articula ensino, atenção, gestão e controle social."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 4,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Observe os conceitos abaixo descritos, considerando o Decreto 7.508/2011e associe os itens I, II, III e IV às proposições A, B, C, D e E.\nI. Região de Saúde\nII. Mapa da Saúde\nIII. Rede de Atenção à Saúde\nIV. Contrato Organizativo da Ação Pública da Saúde\nA. Descrição geográfica da distribuição de recursos humanos e de ações e serviços de saúde ofertados pelo SUS e pela iniciativa privada, considerando-se a capacidade instalada existente, os investimentos e o desempenho aferido a partir dos indicadores de saúde do sistema. B. Conjunto de ações e serviços de saúde articulados em níveis de complexidade crescente, com a finalidade de garantir a integralidade da assistência à saúde. C. Acordo de colaboração firmado entre entes federativos, com a finalidade de organizar e integrar as ações e serviços de saúde na rede regionalizada e hierarquizada, com definição de responsabilidades, indicadores e metas de saúde, critérios de avaliação de desempenho, recursos financeiros que serão disponibilizados, forma de controle e fiscalização de sua execução e demais elementos necessários à implementação integrada das ações e serviços de saúde. D. Espaço geográfico contínuo, constituído por agrupamentos de Municípios limítrofes, delimitado a partir de identidades culturais, econômicas e sociais e de redes de comunicação e infraestrutura de transportes compartilhados, com a finalidade de integrar a organização, o planejamento e a execução de ações e serviços de saúde.\nAssinale a alternativa que indica a associação CORRETA.",
+  "alts": [
+   "I-A, II-B, III-C, IV-D",
+   "I-A, II-D, III-C, IV-B",
+   "I-D, II-A, III-B, IV-C",
+   "I-D, II-C, III-B, IV-A",
+   "I-B, II-A, III-D, IV-C"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, art. 2º",
+  "coment": "As definições estão no art. 2º do Decreto 7.508/2011. Região de Saúde é o espaço geográfico contínuo de municípios limítrofes, delimitado por identidades culturais, econômicas e sociais e por redes de comunicação e transporte (D). Mapa da Saúde é a descrição geográfica da distribuição de recursos humanos e de ações e serviços do SUS e da iniciativa privada (A). Rede de Atenção à Saúde é o conjunto de ações e serviços articulados em níveis de complexidade crescente (B). COAP é o acordo de colaboração entre entes federativos (C).",
+  "porAlt": [
+   "Troca tudo: a descrição A é do Mapa da Saúde, não da Região de Saúde.",
+   "Atribui à RAS o acordo entre entes (C), que é o COAP, e ao Mapa a definição de região.",
+   "Correta: I-D, II-A, III-B, IV-C, conforme o art. 2º do decreto.",
+   "Associa o Mapa da Saúde ao COAP e o COAP à descrição geográfica, ambos invertidos.",
+   "Região de Saúde não é o conjunto articulado de serviços (B) e a RAS não é o espaço geográfico (D)."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 5,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A seguir, apresenta-se um trecho de uma matéria publicada na Revista Radis, intitulada: “HOMENS NEGROS INVISÍVEIS NA VACINAÇÃO - As desigualdades no processo de imunização para o homem negro na pandemia de covid-19”, de Rudson Amorim, em 19 de julho de 2023:\nDados levantados e divulgados pelo Instituto Pólis apontam que, em 2021, a população negra morreu cerca de 1,5 vezes mais do que a população branca. Para ser mais específico, a projeção é de que 55% das pessoas negras internadas em estado grave por covid-19 nos hospitais vieram a óbito, enquanto apenas 34% das pessoas brancas foram impactadas pela doença nessas mesmas condições. Entretanto, até hoje o Ministério da Saúde e as secretarias estaduais não divulgaram os dados relacionados a raça e gênero na contagem de óbitos, o que dificulta a criação de políticas para tentar diminuir a taxa de letalidade da doença para esse grupo. Vale lembrar que, desde 2017, já existe a Portaria n° 344, que obriga o Ministério da Saúde a incluir dados relacionados à raça/cor em todos os documentos produzidos pelo órgão.\nCom relação ao conceito de letalidade, assinale a alternativa CORRETA.",
+  "alts": [
+   "A letalidade reflete a frequência com que surgem novos casos de uma doença num intervalo de tempo.",
+   "A letalidade é uma medida da gravidade da doença, calculada dividindo-se o número de óbitos por determinada doença pelo número de casos da mesma doença.",
+   "A letalidade é um indicador de saúde, calculada dividindo-se o número de óbitos pela população em risco.",
+   "A letalidade é uma medida de frequência que considera pessoas que apresentaram, pelo menos, um episódio da doença ao longo da vida.",
+   "A letalidade refere-se ao número de casos existentes de uma doença em um dado momento."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "Letalidade é o número de óbitos por uma doença dividido pelo número de casos dessa doença, em percentual. Mede a gravidade da doença e, em parte, a qualidade da assistência. O texto da Radis usa exatamente essa ideia: entre internados graves por covid-19, morreram 55% dos negros e 34% dos brancos. Não confundir com incidência (casos novos no tempo), prevalência (casos existentes) e mortalidade (óbitos dividido pela população).",
+  "porAlt": [
+   "Descreve a incidência, que mede casos novos num intervalo de tempo.",
+   "Correta: letalidade é óbitos pela doença divididos pelos casos da doença, uma medida de gravidade.",
+   "Óbitos divididos pela população em risco é mortalidade, não letalidade.",
+   "Pessoas com ao menos um episódio ao longo da vida é a prevalência ao longo da vida, não a letalidade.",
+   "Casos existentes num dado momento é a prevalência pontual."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 6,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Dentre os princípios do Sistema Único de Saúde (SUS), aquele que é orientado pelo respeito às necessidades, diversidades e especificidades de cada cidadão ou grupo social, incluindo o reconhecimento de determinantes sociais e tem relação direta com os conceitos de igualdade e de justiça social, corresponde à",
+  "alts": [
+   "Universalização.",
+   "Igualdade.",
+   "Equidade.",
+   "Integralidade.",
+   "Justiça social."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, art. 196; Lei 8.080/1990, art. 7º",
+  "coment": "Equidade é tratar desigualmente os desiguais, ofertando mais a quem mais precisa, conforme necessidades, diversidades e especificidades de pessoas e grupos, com reconhecimento dos determinantes sociais. Por isso se liga à justiça social e fundamenta as políticas de equidade, como a de saúde da população negra. Universalidade é acesso para todos; igualdade é assistência sem preconceitos ou privilégios (Lei 8.080, art. 7º, IV); integralidade é o conjunto articulado de ações preventivas e curativas.",
+  "porAlt": [
+   "Universalidade garante acesso a todos, sem considerar diferenças de necessidade.",
+   "Igualdade é assistência sem preconceito ou privilégio; não ajusta a oferta à necessidade.",
+   "Correta: equidade considera necessidades e determinantes sociais e se liga à justiça social.",
+   "Integralidade é o conjunto articulado de ações preventivas e curativas em todos os níveis.",
+   "Justiça social é um valor ligado à equidade, mas não é princípio do SUS com esse nome."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 7,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Considerando o Decreto nº 7.508, de 28 de junho de 2011, que dispõe sobre a organização do Sistema Único de Saúde - SUS, o planejamento da saúde, a assistência à saúde e a articulação interfederativa, assinale a alternativa CORRETA.",
+  "alts": [
+   "Para ser instituída, a Região de Saúde deve conter, no mínimo, ações e serviços de atenção primária, urgência e emergência, atenção psicossocial, atenção ambulatorial especializada e hospitalar e vigilância em saúde.",
+   "O processo de planejamento da saúde será descendente e integrado, do nível federal até o local, ouvidos os respectivos Conselhos de Saúde, compatibilizando-se as necessidades das políticas de saúde com a disponibilidade de recursos financeiros.",
+   "As Regiões de Saúde serão instituídas pelo Ministério da Saúde, em articulação com os estados, respeitadas as diretrizes gerais pactuadas na Comissão Intergestores Tripartite - CIT.",
+   "O acesso universal e igualitário às ações e aos serviços de saúde será ordenado pela atenção terciária e deve ser fundado na avaliação da gravidade do risco individual e coletivo e no critério cronológico, observadas as especificidades previstas para pessoas com proteção especial, conforme legislação vigente.",
+   "O planejamento da saúde é obrigatório para os entes públicos, mas não acarretará na indução de políticas para a iniciativa privada."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, arts. 4º, 5º, 11 e 15",
+  "coment": "O art. 5º do Decreto 7.508/2011 diz que, para ser instituída, a Região de Saúde deve conter no mínimo ações e serviços de atenção primária, urgência e emergência, atenção psicossocial, atenção ambulatorial especializada e hospitalar e vigilância em saúde. As demais distorcem o decreto: o planejamento é ascendente (art. 15); as regiões são instituídas pelo Estado, em articulação com os municípios (art. 4º); o acesso é ordenado pela atenção primária (art. 11); e o planejamento é indutor de políticas para a iniciativa privada (art. 15, § 1º).",
+  "porAlt": [
+   "Correta: são as cinco ações e serviços mínimos exigidos pelo art. 5º para instituir a Região de Saúde.",
+   "O planejamento é ascendente, do local ao federal, e não descendente (art. 15).",
+   "Quem institui a Região de Saúde é o Estado, em articulação com os municípios (art. 4º).",
+   "O acesso universal é ordenado pela atenção primária, não pela terciária (art. 11).",
+   "O planejamento é obrigatório e também indutor de políticas para a iniciativa privada (art. 15, § 1º)."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 8,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "No que se refere à Portaria nº 2.436, de 21 de setembro de 2017, que aprova a Política Nacional de Atenção Básica (PNAB), estabelecendo a revisão de diretrizes para a organização da Atenção Básica, no âmbito do Sistema Único de Saúde (SUS), assinale a alternativa INCORRETA.",
+  "alts": [
+   "A garantia do provimento e estratégias de fixação de profissionais de saúde para a Atenção Básica, com vistas a promover ofertas de cuidado e o vínculo, é responsabilidade comum a todas as esferas de governo.",
+   "A PNAB tem na Saúde da Família sua estratégia prioritária para expansão e consolidação da Atenção Básica.",
+   "Serão reconhecidas outras estratégias de Atenção Básica, desde que observados os princípios e diretrizes previstos nessa Portaria e tenham caráter transitório, devendo ser estimulada sua conversão em Estratégia Saúde da Família.",
+   "A Atenção Básica será a principal porta de entrada e centro de comunicação da Rede de Atenção à Saúde, coordenadora do cuidado e ordenadora das ações e serviços disponibilizados na rede.",
+   "A garantia de uma infraestrutura adequada e com boas condições para o funcionamento das UBS, garantindo espaço, mobiliário e equipamentos, além de acessibilidade de pessoas com deficiência, de acordo com as normas vigentes, é responsabilidade exclusiva dos municípios."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), art. 7º e Anexo",
+  "coment": "Na PNAB (Portaria 2.436/2017), garantir infraestrutura adequada às UBS, com espaço, mobiliário, equipamentos e acessibilidade, está entre as responsabilidades COMUNS a todas as esferas de governo (art. 7º), assim como o provimento e a fixação de profissionais. Por isso a alternativa E, que diz 'exclusiva dos municípios', é a incorreta. As demais são texto da portaria: Saúde da Família como estratégia prioritária, outras estratégias reconhecidas em caráter transitório e a AB como principal porta de entrada e ordenadora da rede. A PNAB 2017 segue vigente, com revisão anunciada pelo MS.",
+  "porAlt": [
+   "Verdadeiro: provimento e fixação de profissionais são responsabilidade comum às três esferas.",
+   "Verdadeiro: a Saúde da Família é a estratégia prioritária de expansão e consolidação da AB.",
+   "Verdadeiro: outras estratégias são reconhecidas, em caráter transitório, estimulando a conversão em ESF.",
+   "Verdadeiro: a AB é a principal porta de entrada, coordenadora do cuidado e ordenadora da rede.",
+   "Correta: a infraestrutura das UBS é responsabilidade comum às três esferas, não exclusiva dos municípios."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 9,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Com base na Portaria nº 2.436/2017, que aprovou a Política Nacional de Atenção Básica, analise as seguintes assertivas e coloque V nas verdadeiras e F nas falsas.\nI. ( ) Como forma de garantir a coordenação do cuidado, ampliando o acesso e resolutividade das equipes que atuam na Atenção Básica, recomenda-se população adscrita por equipe de Atenção Básica (eAB) e de Saúde da Família (eSF) de 2.000 a 3.500 pessoas, localizada dentro do seu território, garantindo os princípios e diretrizes da Atenção Básica, sendo vedada a existência de outros arranjos de adscrição.\nII. ( ) As UBS deverão assegurar o acolhimento e escuta ativa e qualificada das pessoas, mesmo que não sejam da área de abrangência da unidade, com classificação de risco e encaminhamento responsável de acordo com as necessidades apresentadas.\nIII. ( ) Em áreas de grande dispersão territorial, áreas de risco e vulnerabilidade social, recomenda-se a cobertura de 100% da população com número máximo de 850 pessoas por ACS.\nIV. ( ) Participar do processo de territorialização e mapeamento da área de atuação da equipe, identificando grupos, famílias e indivíduos expostos a riscos e vulnerabilidades é atribuição exclusiva dos agentes comunitários de saúde.\nAssinale a alternativa que contém a sequência CORRETA.",
+  "alts": [
+   "I-F, II-V, III-V, IV-F",
+   "I-F, II-V, III-F, IV-F",
+   "I-F, II-F, III-V, IV-F",
+   "I-V, II-V, III-F, IV-V",
+   "I-V, II-V, III-F, IV-F"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo",
+  "coment": "I é falso: a PNAB recomenda 2.000 a 3.500 pessoas por equipe, mas admite outros arranjos de adscrição conforme vulnerabilidade e risco, pactuados com o conselho de saúde. II é verdadeiro: a UBS acolhe e escuta inclusive quem não é da sua área de abrangência, com classificação de risco e encaminhamento responsável. III é falso: em áreas de dispersão, risco e vulnerabilidade, o máximo é 750 pessoas por ACS, não 850. IV é falso: territorialização e mapeamento são atribuição comum a todos os membros da equipe. Sequência F, V, F, F.",
+  "porAlt": [
+   "Marca III como verdadeiro, mas o limite da PNAB é 750 pessoas por ACS, não 850.",
+   "Correta: F, V, F, F; outros arranjos de adscrição são possíveis, o teto é 750 por ACS e territorializar é de todos.",
+   "O item II é verdadeiro: a UBS acolhe também quem é de fora da área de abrangência.",
+   "I e IV são falsos: há outros arranjos de adscrição e a territorialização é atribuição comum.",
+   "O item I é falso, pois a PNAB não veda outros arranjos de adscrição."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 10,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Política Nacional de Vigilância em Saúde (PNVS), instituída pela Resolução n.º 588/2018, é um documento que aborda a definição dos princípios, das diretrizes e das estratégias a serem observados nas três esferas de gestão do SUS no que se refere à vigilância em saúde. Sobre tal política, assinale a alternativa INCORRETA.",
+  "alts": [
+   "A vigilância à saúde compreende a articulação dos saberes, processos e práticas relacionados à vigilância epidemiológica, vigilância em saúde ambiental, vigilância em saúde do trabalhador e vigilância sanitária.",
+   "A análise de situação de saúde e as ações laboratoriais são atividades transversais e essenciais no processo de trabalho da Vigilância em Saúde.",
+   "A vigilância à saúde incide sobre todos os níveis e formas de atenção à saúde, abrangendo restritamente os serviços de saúde públicos, além de estabelecimentos relacionados à produção e circulação de bens de consumo e tecnologias que, direta ou indiretamente, se relacionem com a saúde.",
+   "A PNVS deve contribuir para a integralidade na atenção à saúde, o que pressupõe a inserção de ações de vigilância em saúde em todas as instâncias e pontos da Rede de Atenção à Saúde do SUS.",
+   "A PNVS deverá contemplar toda a população em território nacional, priorizando, entretanto, territórios, pessoas e grupos em situação de maior risco e vulnerabilidade."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde)",
+  "coment": "A PNVS (Resolução CNS 588/2018) diz que a vigilância em saúde incide sobre todos os níveis e formas de atenção, abrangendo os serviços de saúde PÚBLICOS E PRIVADOS, além dos estabelecimentos de produção e circulação de bens e tecnologias ligados à saúde. A alternativa C restringe aos públicos e é a incorreta. As demais estão na política: articulação das vigilâncias epidemiológica, ambiental, do trabalhador e sanitária; análise de situação e laboratório como atividades transversais; contribuição para a integralidade; e cobertura de toda a população, priorizando os mais vulneráveis.",
+  "porAlt": [
+   "Verdadeiro: a PNVS articula as vigilâncias epidemiológica, ambiental, do trabalhador e sanitária.",
+   "Verdadeiro: análise de situação de saúde e ações laboratoriais são transversais e essenciais.",
+   "Correta: a vigilância abrange serviços públicos e privados, não restritamente os públicos.",
+   "Verdadeiro: a PNVS insere ações de vigilância em todos os pontos da Rede de Atenção à Saúde.",
+   "Verdadeiro: contempla toda a população e prioriza grupos em maior risco e vulnerabilidade."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 11,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "“Medidas-síntese que contêm informação relevante sobre determinados atributos e dimensões do estado de saúde, bem como do desempenho de um sistema de saúde”. Segundo a Organização Pan-Americana de Saúde (Opas), este se refere ao conceito de",
+  "alts": [
+   "Prevalência.",
+   "Risco.",
+   "Incidência.",
+   "Indicadores de saúde.",
+   "Taxa de mortalidade."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "A definição citada é a da RIPSA/OPAS: indicadores de saúde são medidas-síntese que contêm informação relevante sobre atributos e dimensões do estado de saúde e do desempenho do sistema de saúde. Vistos em conjunto, refletem a situação sanitária de uma população e servem à vigilância. Prevalência, incidência e taxa de mortalidade são exemplos de indicadores, e risco é a probabilidade de um evento; nenhum deles é o conceito geral descrito.",
+  "porAlt": [
+   "Prevalência é um indicador específico (casos existentes), não o conceito geral.",
+   "Risco é a probabilidade de ocorrência de um evento, não uma medida-síntese do sistema.",
+   "Incidência é um indicador específico de casos novos, não o conceito geral.",
+   "Correta: é a definição de indicadores de saúde da RIPSA/OPAS.",
+   "Taxa de mortalidade é um tipo de indicador, não a definição do conceito."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 12,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre Sistemas de Informação em Saúde, é INCORRETO afirmar que",
+  "alts": [
+   "o Sistema de Informação de Agravos de Notificação (Sinan) é alimentado, principalmente, pela notificação e investigação de casos de doenças e agravos que constam na lista nacional de doenças de notificação compulsória.",
+   "o Sistema de Informações sobre Nascidos Vivos (Sinasc) foi implantado com o objetivo de coletar dados sobre os nascimentos ocorridos em todo o território nacional e fornecer informações sobre natalidade para todos os níveis do Sistema de Saúde.",
+   "o Sistema de Informações Sobre Mortalidade (SIM) foi desenvolvido pelo Ministério da Saúde em 1975 para coletar dados sobre mortalidade no país.",
+   "o Sistema de Informações sobre Nascidos Vivos (Sinasc) se refere ao Sistema de Informação que permite o acompanhamento das crianças quanto à avaliação de nascimento, crescimento e segurança alimentar.",
+   "o documento básico e essencial à coleta de dados da mortalidade no Brasil é a Declaração de Óbito."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008 (fontes de dados)",
+  "coment": "O SINASC, implantado em 1990, tem como documento a Declaração de Nascido Vivo e informa natalidade e condições do nascimento (peso, idade gestacional, Apgar, tipo de parto, pré-natal). Não acompanha crescimento nem segurança alimentar da criança; isso é papel do SISVAN e da caderneta. Por isso a D é a incorreta. As demais estão certas: SINAN alimentado pela notificação e investigação dos agravos da lista, SIM criado pelo MS em 1975 e Declaração de Óbito como documento-base da mortalidade.",
+  "porAlt": [
+   "Verdadeiro: o SINAN é alimentado sobretudo pela notificação e investigação dos agravos da lista nacional.",
+   "Verdadeiro: o SINASC coleta dados dos nascimentos no país e informa a natalidade.",
+   "Verdadeiro: o SIM foi criado pelo Ministério da Saúde em 1975.",
+   "Correta: crescimento e segurança alimentar são acompanhados pelo SISVAN, não pelo SINASC.",
+   "Verdadeiro: a Declaração de Óbito é o documento-base do SIM."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 13,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "De acordo com a Lei nº 8.080/1990 e suas alterações, NÃO é considerado um dos princípios e diretrizes do SUS:",
+  "alts": [
+   "Direito à informação às pessoas assistidas sobre sua saúde.",
+   "Descentralização político-administrativa, com direção única em cada esfera de governo.",
+   "Preservação da autonomia das pessoas na defesa de sua integridade física e moral.",
+   "Organização de atendimento público específico e especializado para mulheres e vítimas de violência doméstica em geral, que garanta, entre outros, atendimento, acompanhamento psicológico e cirurgias plásticas reparadoras.",
+   "Utilização da vigilância sanitária para o estabelecimento de prioridades, a alocação de recursos e a orientação programática."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º",
+  "coment": "O art. 7º da Lei 8.080/1990 lista como princípio a utilização da EPIDEMIOLOGIA para o estabelecimento de prioridades, a alocação de recursos e a orientação programática (inciso VII). A alternativa E troca epidemiologia por vigilância sanitária e não é princípio. As demais estão no artigo: direito à informação (V), descentralização com direção única em cada esfera (IX), preservação da autonomia (III) e atendimento específico a mulheres e vítimas de violência doméstica, incluído pela Lei 13.427/2017 (XIV).",
+  "porAlt": [
+   "É princípio do art. 7º, V: direito à informação das pessoas assistidas sobre sua saúde.",
+   "É diretriz do art. 7º, IX: descentralização com direção única em cada esfera de governo.",
+   "É princípio do art. 7º, III: preservação da autonomia das pessoas.",
+   "É o inciso XIV do art. 7º, incluído pela Lei 13.427/2017.",
+   "Correta: o princípio é usar a epidemiologia, e não a vigilância sanitária, para definir prioridades."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 14,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "No que diz respeito ao financiamento do Sistema Único de Saúde (SUS), assinale a alternativa INCORRETA.",
+  "alts": [
+   "Os recursos financeiros do Sistema Único de Saúde (SUS) serão depositados em conta coletiva, com acesso em cada esfera de sua atuação e movimentados sob fiscalização da Comissão Intergestores Tripartite.",
+   "Na esfera federal, os recursos financeiros, originários do Orçamento da Seguridade Social, de outros Orçamentos da União, além de outras fontes, serão administrados pelo Ministério da Saúde, através do Fundo Nacional de Saúde.",
+   "O Ministério da Saúde acompanhará, através de seu sistema de auditoria, a conformidade à programação aprovada da aplicação dos recursos repassados a Estados e Municípios.",
+   "O orçamento da seguridade social destinará ao Sistema Único de Saúde (SUS), de acordo com a receita estimada, os recursos necessários à realização de suas finalidades.",
+   "Para o estabelecimento de valores a serem transferidos a Estados, Distrito Federal e Municípios, será utilizada a combinação de alguns critérios, segundo análise técnica de programas e projetos, entre eles, o perfil demográfico da região e o perfil epidemiológico da população a ser coberta."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, arts. 31, 33 e 35",
+  "coment": "O art. 33 da Lei 8.080/1990 manda depositar os recursos do SUS em CONTA ESPECIAL, em cada esfera de atuação, movimentados sob fiscalização dos respectivos CONSELHOS DE SAÚDE. A alternativa A fala em conta coletiva e fiscalização da CIT, que é instância de pactuação entre gestores, e por isso é a incorreta. B e C reproduzem o art. 33 (Fundo Nacional de Saúde e auditoria do MS), D reproduz o art. 31 e E traz critérios de rateio do art. 35, como perfil demográfico e epidemiológico.",
+  "porAlt": [
+   "Correta: a lei fala em conta especial fiscalizada pelos Conselhos de Saúde, não em conta coletiva sob a CIT.",
+   "Verdadeiro: na esfera federal, os recursos são administrados pelo MS por meio do Fundo Nacional de Saúde.",
+   "Verdadeiro: o MS acompanha a aplicação dos recursos repassados por seu sistema de auditoria.",
+   "Verdadeiro: é o art. 31 sobre o orçamento da seguridade social destinado ao SUS.",
+   "Verdadeiro: perfil demográfico e epidemiológico estão entre os critérios do art. 35."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 15,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Após mais de três décadas da publicação das Leis Orgânicas do Sistema Único de Saúde, a mudança no perfil de morbimortalidade tem desafiado a gestão e operacionalização do SUS diante da grande heterogeneidade dos quase seis mil municípios brasileiros. Sobre a transição demográfica e epidemiológica no Brasil, assinale a alternativa INCORRETA.",
+  "alts": [
+   "O conceito de transição epidemiológica é utilizado para descrever e explicar as transformações nos padrões de ocorrência de doenças e causas de morte.",
+   "Os padrões de doenças se modificaram ao longo do tempo, passando de um padrão marcado por enfermidades predominantemente infecciosas para um padrão de maior prevalência de doenças crônicas não transmissíveis.",
+   "O Brasil convive com distintos padrões de transição epidemiológica, demográfica e de saúde.",
+   "As desigualdades de renda e de acesso a bens essenciais, como moradia, educação, saneamento e acesso aos serviços de saúde, têm relação com os padrões de saúde de uma população.",
+   "As regiões do país apresentam padrões de saúde homogêneos que se aproximam dos padrões países desenvolvidos."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia & Saúde, 8ª ed. (2018), transição demográfica e epidemiológica",
+  "coment": "A transição epidemiológica descreve a passagem de um padrão dominado por doenças infecciosas para outro com predomínio das crônicas não transmissíveis. No Brasil ela é prolongada e polarizada: convivem doenças crônicas, infecciosas que persistem ou reemergem e causas externas, com grandes diferenças entre regiões e grupos sociais, ligadas a renda, saneamento, educação e acesso a serviços. Afirmar padrões homogêneos, próximos dos países desenvolvidos, é o erro da alternativa E.",
+  "porAlt": [
+   "Verdadeiro: é o conceito de transição epidemiológica.",
+   "Verdadeiro: houve passagem das infecciosas para predomínio das crônicas não transmissíveis.",
+   "Verdadeiro: o Brasil vive transições sobrepostas e desiguais.",
+   "Verdadeiro: desigualdade de renda e de acesso a bens essenciais condiciona os padrões de saúde.",
+   "Correta: as regiões brasileiras têm padrões heterogêneos, não homogêneos como os de países ricos."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 16,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "O planejamento tem sido reconhecido como método, ferramenta, instrumento ou técnica para a gestão, gerência ou administração e como processo social em que participam sujeitos, individuais e coletivos. Sobre o planejamento em saúde, assinale a alternativa INCORRETA.",
+  "alts": [
+   "O processo de planejamento e orçamento no SUS deve ser de natureza ascendente desde a esfera municipal até a federal.",
+   "A construção do Mapa da Saúde é parte integrante do processo de planejamento.",
+   "O Plano de Saúde, as respectivas Programações Anuais e o Relatório de Gestão são instrumentos para o planejamento no SUS.",
+   "O planejamento no SUS deve ter como base territorial, especificamente, o ente federativo estadual.",
+   "É o plano de saúde que norteia a elaboração do planejamento e orçamento do governo no tocante à saúde"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.135/2013, arts. 1º e 3º; Lei 8.080/1990, art. 36",
+  "coment": "Pela Portaria 2.135/2013, o planejamento do SUS é ascendente e integrado, do local ao federal, e tem como pressuposto a concepção a partir das necessidades de saúde da população em cada REGIÃO DE SAÚDE (art. 1º, VII). Não se restringe ao ente estadual, por isso a D é a incorreta. O Mapa da Saúde integra o planejamento; Plano de Saúde, Programação Anual e Relatório de Gestão são os instrumentos; e os planos de saúde são a base das programações e do orçamento de cada esfera (Lei 8.080, art. 36, § 1º).",
+  "porAlt": [
+   "Verdadeiro: o planejamento é ascendente, do municipal ao federal.",
+   "Verdadeiro: a análise situacional do planejamento se apoia no Mapa da Saúde.",
+   "Verdadeiro: Plano de Saúde, Programação Anual e Relatório de Gestão são os instrumentos de planejamento.",
+   "Correta: a base territorial do planejamento é a região de saúde, não especificamente o estado.",
+   "Verdadeiro: o plano de saúde orienta o planejamento e o orçamento da saúde em cada esfera."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 17,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Segundo a Portaria Nº 4.279, de 30 de dezembro de 2010, que estabelece diretrizes para a organização da Rede de Atenção à Saúde no âmbito do Sistema Único de Saúde, alguns fundamentos precisam ser assegurados para assegurar resolutividade na rede de atenção, EXCETO",
+  "alts": [
+   "Qualidade.",
+   "Suficiência.",
+   "Universalidade.",
+   "Economia de escala.",
+   "Disponibilidade de Recursos."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 4.279/2010 (diretrizes da RAS), consolidada na PRC 3/2017",
+  "coment": "A Portaria 4.279/2010 lista, entre os fundamentos conceituais da RAS, os que asseguram resolutividade: economia de escala, qualidade, suficiência, acesso e disponibilidade de recursos. Seguem-se integração vertical e horizontal, processos de substituição, território sanitário e níveis de atenção. Universalidade é princípio do SUS, e não fundamento de resolutividade da rede nessa portaria; por isso é a exceção.",
+  "porAlt": [
+   "Qualidade é fundamento de resolutividade previsto na Portaria 4.279/2010.",
+   "Suficiência consta entre os fundamentos que asseguram resolutividade à rede.",
+   "Correta: universalidade é princípio do SUS, não fundamento de resolutividade da RAS na portaria.",
+   "Economia de escala é o primeiro fundamento listado na portaria.",
+   "Disponibilidade de recursos é fundamento expresso da portaria."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 18,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Conforme a Lei 8.080/90, são atribuições comuns à União, aos Estados, ao Distrito Federal e aos Municípios as citadas abaixo, EXCETO:",
+  "alts": [
+   "Formar consórcios administrativos intermunicipais",
+   "Propor a celebração de convênios, acordos e protocolos internacionais relativos à saúde, saneamento e meio ambiente",
+   "Promover a articulação da política e dos planos de saúde",
+   "Organização e coordenação do sistema de informação de saúde",
+   "Realizar pesquisas e estudos na área de saúde"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, arts. 15 e 18",
+  "coment": "Formar consórcios administrativos intermunicipais é competência da direção MUNICIPAL do SUS (Lei 8.080, art. 18, VII; o art. 10 também prevê consórcios entre municípios). Por isso é a exceção. As demais estão no art. 15, que lista as atribuições comuns à União, aos estados, ao DF e aos municípios: propor convênios, acordos e protocolos internacionais de saúde, saneamento e meio ambiente; promover a articulação da política e dos planos de saúde; organizar e coordenar o sistema de informação; realizar pesquisas e estudos.",
+  "porAlt": [
+   "Correta: formar consórcios intermunicipais é atribuição da direção municipal (art. 18), não comum.",
+   "É atribuição comum do art. 15: propor convênios, acordos e protocolos internacionais.",
+   "É atribuição comum do art. 15: articular a política e os planos de saúde.",
+   "É atribuição comum do art. 15: organizar e coordenar o sistema de informação de saúde.",
+   "É atribuição comum do art. 15: realizar pesquisas e estudos na área de saúde."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 19,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Portaria nº 1.559, de 1º de agosto de 2008, instituiu a Política Nacional de Regulação do Sistema Único de Saúde. Sobre essa política, assinale a alternativa CORRETA.",
+  "alts": [
+   "O cadastramento de usuários do SUS deverá ser realizado no Sistema de Cadastro Nacional de Estabelecimentos de Saúde - SCNES.",
+   "A contratualização de serviços de saúde deverá seguir as normas e políticas específicas do serviço a ser contratualizado.",
+   "Garantir os princípios da equidade e da integralidade não é uma atribuição da regulação do acesso.",
+   "Capacitar de forma permanente as equipes que atuarão nas unidades de saúde é atribuição exclusiva da educação permanente em saúde.",
+   "Fazer a gestão da ocupação de leitos e agendas das unidades de saúde é uma das atribuições do complexo regulador."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.559/2008 (Política Nacional de Regulação do SUS), arts. 4º e 8º",
+  "coment": "Pelo art. 8º, § 2º, da Portaria 1.559/2008, cabe ao complexo regulador fazer a gestão da ocupação de leitos e agendas das unidades de saúde, além de atuar nos processos autorizativos, controlar limites físicos e financeiros, aplicar classificação de risco e executar a regulação médica. As outras erram: usuários são cadastrados no Cartão Nacional de Saúde (art. 4º, II), a contratualização segue normas e políticas do Ministério da Saúde (art. 4º, III), e garantir equidade e integralidade e capacitar as equipes são atribuições da regulação do acesso (art. 8º, § 1º).",
+  "porAlt": [
+   "O SCNES cadastra estabelecimentos e profissionais; usuários são cadastrados no Cartão Nacional de Saúde.",
+   "A contratualização segue as normas e políticas específicas do Ministério da Saúde, não as do serviço.",
+   "Garantir equidade e integralidade é atribuição expressa da regulação do acesso (art. 8º, § 1º, II).",
+   "Capacitar permanentemente as equipes é atribuição listada da regulação do acesso, não exclusiva da EPS.",
+   "Correta: a gestão da ocupação de leitos e agendas é atribuição do complexo regulador (art. 8º, § 2º, I)."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 20,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "No âmbito hospitalar, a Unidade de Terapia Intensiva (UTI) é o principal local de contaminações por bactérias do trato urinário, principalmente com relação à sondagem vesical de demora (SVD). Sobre infecções do trato urinário (ITU) e SVD, leia as afirmativas abaixo e coloque V nas Verdadeiras e F nas Falsas.\n( ) No sexo masculino, a Infecção do trato Urinário (ITU) está principalmente associada à manipulação do trato urinário e à doença prostática. Seu principal fator de risco é a realização da SVD.\n( ) A equipe de enfermagem ocupa papel central na prevenção e controle das infecções do trato urinário associadas ao cateter (ITU- AC), uma vez que a cateterização urinária é uma prática exclusiva do enfermeiro e a manutenção é garantida por ações desempenhadas pelos técnicos de enfermagem sob supervisão do enfermeiro.\n( ) Para o controle das infecções relacionadas à assistência à saúde (IRAS), a permanência prolongada do cateter urinário é um dos fatores de risco mais importantes para o desenvolvimento da ITU-AC.\n( ) A ITU-AC não está relacionada ao número de vezes que o paciente foi submetido ao cateterismo, considerando que aqueles expostos a mais de uma cateterização urinária não têm mais chance de desenvolver infecção.\nAssinale a alternativa que apresenta a sequência CORRETA.",
+  "alts": [
+   "F, F, V, V",
+   "V, V, V, F.",
+   "V, F, V, F",
+   "F, V, V, F",
+   "V, V, V, V"
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2ª ed., 2017; Resolução COFEN 450/2013",
+  "coment": "O tempo de permanência do cateter é o principal fator de risco para ITU associada a cateter, e o risco cresce a cada dia (Caderno 4 da ANVISA, 2017). No homem, a ITU se associa à manipulação do trato urinário e à doença prostática. O item 4 é falso: cada nova cateterização é oportunidade de introduzir microrganismos. No item 2, a Res. COFEN 450/2013 torna a sondagem vesical privativa do enfermeiro dentro da equipe de enfermagem, e o técnico atua na manutenção sob supervisão; 'exclusiva' vale para a equipe de enfermagem, já que o médico também pode realizá-la. Sequência V, V, V, F.",
+  "porAlt": [
+   "Os itens 1 e 2 são verdadeiros e o 4 é falso: repetir a cateterização aumenta o risco.",
+   "Correta: V, V, V, F; permanência prolongada é o principal risco e repetir cateterismos também aumenta o risco.",
+   "O item 2 é verdadeiro: na equipe de enfermagem, a inserção é privativa do enfermeiro (Res. COFEN 450/2013).",
+   "O item 1 é verdadeiro: no homem, a ITU se liga à manipulação do trato urinário e à doença prostática.",
+   "O item 4 é falso: mais cateterizações significam mais oportunidades de contaminação."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 21,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre anamnese e exame físico, leia as afirmações abaixo:\nI. A anamnese oferece informações, como passado, doença pregressa, qualidade de vida, modificações que o paciente está disposto a enfrentar, oferece subsídio até onde se pode ir com o tratamento, dando direção na forma do cuidado.\nII. Os dados objetivos são obtidos através das práticas semiológicas, propedêuticas e pela aferição dos sinais vitais. As formas propedêuticas utilizadas pelos profissionais de saúde se relacionam aos órgãos dos sentidos, como ausculta, percussão, inspeção e palpação.\nIII. Para o enfermeiro realizar o Processo de Enfermagem (PE) de forma assertiva, é necessário embasamento clínico por meio dos dados obtidos na etapa da coleta de dados, ou seja, a terceira etapa do processo.\nIV. A execução de um bom exame físico é essencial para o diagnóstico clínico, diminuindo os custos com exames laboratoriais e diagnósticos de imagem, além de fortalecer a relação enfermeiro-paciente.\nEstão CORRETAS",
+  "alts": [
+   "apenas I, II e III.",
+   "apenas III e IV.",
+   "apenas I, II e IV.",
+   "apenas II e IV.",
+   "I, II, III e IV."
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, art. 4º (etapas do Processo de Enfermagem)",
+  "coment": "I, II e IV estão corretos: a anamnese dá a história e os limites do cuidado; os dados objetivos vêm da inspeção, palpação, percussão, ausculta e sinais vitais; e o bom exame físico qualifica o diagnóstico e reduz exames desnecessários. O III erra: a coleta de dados é a PRIMEIRA etapa do Processo de Enfermagem. Desde a Res. COFEN 736/2024, que revogou a 358/2009, essa etapa se chama Avaliação de Enfermagem, seguida de Diagnóstico, Planejamento, Implementação e Evolução.",
+  "porAlt": [
+   "Inclui o III, que está errado: a coleta de dados é a primeira etapa, hoje chamada Avaliação.",
+   "Exclui I e II, corretos, e inclui o III, que erra a ordem das etapas.",
+   "Correta: I, II e IV estão certos; o III erra ao colocar a coleta de dados como terceira etapa.",
+   "Omite o I, também correto: a anamnese orienta até onde ir com o tratamento.",
+   "O III é falso, pois a coleta de dados (Avaliação, na Res. 736/2024) é a primeira etapa."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 22,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em uma enfermaria de Clínica Médica, a enfermeira Carla vem acompanhando um paciente portador de comprometimento da circulação porta causada por cirrose hepática. Nos últimos dias, vem apresentando melena e, com o objetivo de acompanhar e monitorar o sintoma apresentado, a equipe médica juntamente com a enfermeira Carla decidiram pela instalação de uma sonda nasogástrica (SNG). Quanto à inserção desse dispositivo, analise as afirmativas abaixo:\nI. A avaliação do paciente para realizar o procedimento de inserção da SNG é fundamental; dentre os pontos a serem avaliados, pode-se destacar: a ausculta dos sons intestinais para identificação de distensão, rigidez e dor abdominal e avaliar o nível de consciência, com o objetivo de definir a capacidade de colaboração do paciente durante a realização do procedimento.\nII. O paciente deve ser posicionado em posição de SIM’s promovendo a capacidade de deglutir durante o procedimento e, ainda, evitar o risco de aspiração, caso o paciente apresente episódio de vômito causado pelo estímulo do procedimento.\nIII. Para instalar a SNG, é necessário realizar a medição com o objetivo de promover a localização adequada do dispositivo; o método tradicional para essa aferição, mede a distância da ponta do nariz ao lóbulo da orelha e desta até o apêndice xifoide, acrescido de 15 cm para o posicionamento nasogástrico (NG).\nIV. A enfermeira Carla realizou a aspiração do conteúdo gástrico e mediu o pH desse aspirado com fita específica que mostrou um pH ácido (5,0), confirmando a localização correta do tubo NG.\nEstão CORRETAS apenas",
+  "alts": [
+   "I, II e III.",
+   "I, III e IV.",
+   "I e II.",
+   "II e III.",
+   "I, II e IV."
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Resolução COFEN 619/2019 (sondagem oro/nasogástrica e nasoentérica); Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "O II é falso: a sonda nasogástrica se passa com o paciente em Fowler alta, sentado, que facilita a deglutição e reduz o risco de aspiração; Sims é decúbito lateral. Como só a alternativa B exclui o II, ela é a resposta. I descreve a avaliação prévia (abdome, nível de consciência, colaboração). III usa a medida nariz, lóbulo da orelha, apêndice xifoide; o acréscimo de centímetros varia entre protocolos. IV: aspirado com pH até 5 sugere posição gástrica, mas a radiografia é o padrão de referência, sobretudo antes do primeiro uso.",
+  "porAlt": [
+   "Inclui o II, falso: a posição para passar a SNG é Fowler alta, não Sims.",
+   "Correta: I, III e IV; o II erra ao indicar posição de Sims em vez de Fowler alta.",
+   "Inclui o II, falso, e omite III e IV.",
+   "Inclui o II, que está errado, e deixa de fora o I, que descreve a avaliação prévia.",
+   "Inclui o II, falso: em Sims o paciente fica lateralizado e a deglutição fica prejudicada."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 23,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo o que a Organização Mundial da Saúde (OMS) preconiza, o momento da higienização deve ser de acordo com o fluxo de cuidado, prevenindo a transmissão cruzada de microrganismos. Analise as assertivas abaixo e assinale a alternativa CORRETA seguindo os cinco momentos para HM preconizados pela OMS.",
+  "alts": [
+   "Antes de contato com profissionais de saúde; antes da realização de procedimento antisséptico; após a exposição a fluidos corporais; após contato com o paciente e após contato com objetos do paciente.",
+   "Antes e após ir ao banheiro; antes e após as refeições; antes da realização de procedimento asséptico; após contato com o paciente e após contato com as áreas próximas ao paciente.",
+   "Antes de entrar no setor de internamento; antes do contato com o paciente; antes da realização de procedimento asséptico; após contato com o paciente e após contato com as áreas próximas ao paciente.",
+   "Antes de contato com o paciente; antes das refeições; após risco de exposição a fluidos corporais; após contato com o paciente e após contato com as áreas próximas ao paciente.",
+   "Antes de contato com o paciente; antes da realização de procedimento asséptico; após risco de exposição a fluidos corporais; após contato com o paciente e após contato com as áreas próximas ao paciente."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Higiene das mãos",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "OMS, Diretrizes sobre Higiene das Mãos na Assistência à Saúde, 2009; Protocolo para a Prática de Higiene das Mãos (Portaria MS 1.377/2013)",
+  "coment": "Os cinco momentos da OMS, adotados pelo protocolo do Ministério da Saúde (Portaria 1.377/2013), seguem o fluxo do cuidado ao redor do paciente: 1) antes de tocar o paciente; 2) antes de procedimento limpo ou asséptico; 3) após risco de exposição a fluidos corporais; 4) após tocar o paciente; 5) após tocar superfícies próximas ao paciente. Ir ao banheiro, refeições, entrar no setor e contato com outros profissionais são ocasiões de higiene das mãos, mas não fazem parte dos cinco momentos.",
+  "porAlt": [
+   "Contato com profissionais e procedimento 'antisséptico' não estão nos cinco momentos; o certo é procedimento asséptico.",
+   "Banheiro e refeições não compõem os cinco momentos da OMS.",
+   "Entrar no setor de internação não é um dos cinco momentos.",
+   "Antes das refeições não é momento da OMS; falta o 'antes de procedimento asséptico'.",
+   "Correta: são exatamente os cinco momentos preconizados pela OMS."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 25,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As feridas infectadas têm um processo de cicatrização mais lento em comparação a feridas não infectadas. São um problema crescente para pacientes e sistemas de saúde. Partindo dessa premissa, analise as afirmativas abaixo:\nI. O aumento do exsudato ou o exsudato que se tornou purulento podem ser sinais de que a carga microbiana na ferida está retardando a progressão da cicatrização na fase inflamatória.\nII. Biofilmes são descritos como microrganismos embutidos em uma barreira espessa e viscosa de açúcares e proteínas, que protege os microrganismos do sistema imunológico natural do paciente e de vários agentes antimicrobianos.\nIII. Não é mais indicado usar o teste de cultura microbiológica para diagnóstico de presença de biofilme, pois é apenas indicador de bactérias planctônicas presentes no exsudato/superfície da lesão.\nIV. É indicado remover o biofilme aplicando alguma técnica seriada de desbridamento. Esta é uma das estratégias de manejo do biofilme, porém não deve ser realizada isoladamente, pois pode não remover 100% do biofilme e não previne nova formação.\nEstão CORRETAS",
+  "alts": [
+   "apenas I e II.",
+   "apenas I, II e III.",
+   "apenas II, III e IV.",
+   "apenas II e IV.",
+   "I, II, III e IV."
+  ],
+  "gab": 4,
+  "tema": "feridas",
+  "sub": "Fisiologia da cicatrização",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "International Wound Infection Institute (IWII), Wound Infection in Clinical Practice (2022)",
+  "coment": "Os quatro itens estão de acordo com o consenso do IWII (2022). Aumento ou mudança do exsudato para purulento sinaliza carga microbiana retardando a cicatrização. O biofilme é uma comunidade de microrganismos envolta em matriz de polissacarídeos e proteínas que os protege da imunidade e dos antimicrobianos. A cultura convencional recupera sobretudo bactérias planctônicas da superfície e não diagnostica biofilme. O manejo combina desbridamento seriado com limpeza e antissépticos ou coberturas antimicrobianas, pois o desbridamento sozinho não remove todo o biofilme nem impede sua reformação.",
+  "porAlt": [
+   "Omite III e IV, também corretos segundo o consenso do IWII.",
+   "Omite o IV: desbridamento seriado é estratégia do manejo do biofilme, associado a outras medidas.",
+   "Omite o I: exsudato aumentado ou purulento é sinal de carga microbiana retardando a cicatrização.",
+   "Omite I e III, ambos corretos.",
+   "Correta: os quatro itens descrevem corretamente infecção de ferida e manejo do biofilme."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 26,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em 6 de junho de 2023, a Organização Mundial de Saúde emitiu alerta sobre o aumento de hospitalizações de crianças menores de 2 anos, em vários países, incluindo o Brasil, decorrentes de insuficiência respiratória relacionada a alguns vírus respiratórios. Cenários como esse causam grande impacto à saúde pública e necessitam de equipe qualificada para implementação de adequada assistência às crianças acometidas. Sobre a insuficiência respiratória aguda em crianças, analise as afirmativas abaixo e coloque V nas Verdadeiras e F nas Falsas.\n( ) A insuficiência respiratória é definida como a incapacidade do sistema respiratório em manter oxigenação sanguínea adequada, podendo ou não ocorrer retenção sérica de dióxido de carbono. Em crianças, é considerada a causa mais comum de parada cardiopulmonar.\n( ) A observação e o julgamento da equipe de enfermagem são vitais no reconhecimento e no tratamento precoce da insuficiência respiratória. Dentre os sinais de insuficiência respiratória aguda que devem ser identificados, estão: sonolência, confusão mental, dispneia, depressão respiratória e bradicardia.\n( ) Dentre as causas da insuficiência respiratória aguda em crianças, de forma isolada ou associada, destacam-se a obstrução das vias aéreas, a doença do parênquima pulmonar e a alteração no mecanismo de controle da respiração.\n( ) O manejo da insuficiência respiratória aguda envolve a manutenção da via aérea pérvia; o suporte respiratório, com oxigenação e/ou ventilação adequadas (FiO2=100%); suporte cardiovascular; tratamento da doença de base.\nAssinale a alternativa que apresenta a sequência CORRETA.",
+  "alts": [
+   "V, V, V, V.",
+   "V, V, V, F.",
+   "F, V, V, V.",
+   "F, F, V, V.",
+   "V, V, F, F."
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hockenberry MJ, Wilson D, Rodgers CC. Wong Fundamentos de Enfermagem Pediátrica, 10. ed., 2018",
+  "coment": "Os três primeiros itens são verdadeiros: insuficiência respiratória é a incapacidade de manter oxigenação adequada, com ou sem retenção de CO2, e é a causa mais comum de parada cardiorrespiratória na criança; sonolência, confusão, dispneia, depressão respiratória e bradicardia são sinais de gravidade; as causas são obstrução de via aérea, doença do parênquima e alteração do controle da respiração. O quarto é falso por fixar FiO2 de 100%: o oxigênio é ofertado conforme a necessidade e titulado pela saturação, evitando hiperóxia. Sequência V, V, V, F.",
+  "porAlt": [
+   "O quarto item é falso: o suporte não se define por FiO2 fixa de 100%, e sim titulada.",
+   "Correta: V, V, V, F; o manejo usa oxigênio titulado pela saturação, não FiO2 fixa de 100%.",
+   "O primeiro item é verdadeiro: a insuficiência respiratória é a principal causa de PCR na criança.",
+   "Os dois primeiros itens são verdadeiros, e o quarto, falso.",
+   "O terceiro item é verdadeiro: obstrução, parênquima e controle da respiração são as causas clássicas."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 28,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação à atenção prestada à promoção da saúde, prevenção de doenças ou agravos, tratamento e recuperação da saúde dos adolescentes durante as consultas de enfermagem são ações realizadas pelos enfermeiros. Sobre isso, analise as afirmativas abaixo e coloque V nas Verdadeiras e F nas Falsas.\n( ) Aferição da Pressão Arterial; Medição do Peso; Medição da Estatura; Inserção dos dados no prontuário e na caderneta de saúde de adolescentes.\n( ) Cálculo do IMC e inserção nos gráficos da caderneta de saúde de adolescentes.\n( ) Avaliação da imunização e encaminhamento para vacinação dos casos desatualizados.\n( ) Orientações sobre hábitos saudáveis (sono adequado, atividade física e de lazer, alimentação saudável e regular).\nAssinale a alternativa que indica a sequência CORRETA.",
+  "alts": [
+   "F, F, V, V.",
+   "F, F, F, V.",
+   "V, V, V, F.",
+   "V, V, V, V.",
+   "V, V, F, V."
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Adolescente",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Proteger e cuidar da saúde de adolescentes na atenção básica, 2ª ed., 2018; Caderneta de Saúde do Adolescente (MS)",
+  "coment": "Todos os itens descrevem ações da consulta de enfermagem ao adolescente previstas pelo Ministério da Saúde: aferir pressão arterial, peso e estatura com registro no prontuário e na caderneta; calcular o IMC e plotar nos gráficos da caderneta; avaliar a situação vacinal e encaminhar os atrasados; e orientar hábitos saudáveis de sono, atividade física, lazer e alimentação. A consulta combina avaliação de crescimento, prevenção e promoção da saúde.",
+  "porAlt": [
+   "Os dois primeiros itens também são ações da consulta: medidas antropométricas, PA e registro na caderneta.",
+   "Só o último não basta: medidas, IMC e vacinação também fazem parte da consulta.",
+   "As orientações sobre hábitos saudáveis também são ação da consulta de enfermagem.",
+   "Correta: as quatro ações compõem a consulta de enfermagem ao adolescente.",
+   "A avaliação da imunização e o encaminhamento para vacinar são ações da consulta."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 29,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A saúde do adolescente envolve o reconhecimento da influência de uma multiplicidade de fatores no processo de adolescer, que podem se relacionar, por exemplo, ao exercício dos direitos, às vivências familiares, às amizades, à inserção no contexto escolar, às aspirações e construções de projetos futuros. Acerca do cuidado de enfermagem com o adolescente, assinale a alternativa CORRETA.",
+  "alts": [
+   "Considerando a estreita ligação entre o profissional de saúde e a atenção à saúde do adolescente, destaca-se a importância do não estabelecimento de um processo comunicativo efetivo com o adolescente.",
+   "Na atenção ao adolescente, é importante o enfermeiro estimular a contextualização e problematização da realidade vivenciada pelos adolescentes. Por meio de uma escuta sensível, o enfermeiro poderá identificar vulnerabilidades e adversidades, e desenvolver ações voltadas para o fortalecimento do protagonismo e da resiliência do adolescente, buscando aprofundar a promoção da saúde.",
+   "As ações e políticas voltadas para o segmento adolescente não devem considerar as diferentes características individuais, sociais e culturais dessa população.",
+   "A partir do entendimento que o desenvolvimento saudável na adolescência se encontra atrelado a uma multiplicidade de fatores físicos, psicológicos, sociais e ambientais, e que, além de garantir a sobrevivência do adolescente, é preciso ofertar um cuidado voltado somente para as demandas orgânicas, desconsiderando a amplitude do processo de adolescer.",
+   "O estabelecimento de relações entre enfermeiros e adolescentes não deve ser encorajado, por dificultar a formação de um vínculo de confiança e a construção de um cuidado integral."
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Adolescente",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Proteger e cuidar da saúde de adolescentes na atenção básica, 2ª ed., 2018",
+  "coment": "A atenção ao adolescente exige escuta sensível, vínculo de confiança e problematização da realidade vivida, para identificar vulnerabilidades e fortalecer o protagonismo e a resiliência, o que corresponde à B. As outras alternativas negam o que a política defende: comunicação efetiva, consideração das diferenças individuais, sociais e culturais, cuidado que vai além das demandas orgânicas e relação enfermeiro-adolescente como base do cuidado integral.",
+  "porAlt": [
+   "Errada: a comunicação efetiva com o adolescente deve ser estabelecida, não evitada.",
+   "Correta: escuta sensível e problematização da realidade fortalecem protagonismo e resiliência.",
+   "Errada: as ações devem considerar as diferentes características individuais, sociais e culturais.",
+   "Errada: o cuidado deve abranger todo o processo de adolescer, não somente as demandas orgânicas.",
+   "Errada: a relação enfermeiro-adolescente deve ser encorajada, pois é base do vínculo e do cuidado integral."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 30,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A sepse materna é definida como a condição ameaçadora da vida, com disfunção orgânica resultante de infecção durante a gestação, parto, pós-aborto ou puerpério. Atualmente, é a terceira maior causa de morbidade e mortalidade materna. Considerando-se a importância da temática da SEPSE na atenção à mulher no ciclo gravídico-puerperal, leia as afirmativas abaixo:\nI. Os focos mais comuns de infecção são genital, urinário, vascular e hepático.\nII. O parto cesáreo é um fator de risco para sepse materna, risco esse que poderá ser reduzido com adequada antibioticoprofilaxia cirúrgica.\nIII. Um dos protocolos recomendados para identificação precoce das situações que podem progredir para maior gravidade; utiliza-se o qSOFA, um dos escores mais utilizados, que avalia três componentes, contando um ponto para cada alteração: escala de coma de Glasgow, valor da pressão arterial sistólica e temperatura corporal.\nIV. Os vírus respiratórios são de grande importância para a ocorrência de SEPSE, como o SARS-CoV-2 e o influenza H1N1.\nEstá CORRETO apenas o que se afirma em",
+  "alts": [
+   "I, II e III.",
+   "II e IV.",
+   "I e II.",
+   "II, III e IV.",
+   "II."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "OMS, definição de sepse materna (2017); Sepsis-3 (Singer et al., JAMA, 2016); Surviving Sepsis Campaign 2026",
+  "coment": "II e IV estão corretos: a cesárea aumenta o risco de sepse, reduzido pela antibioticoprofilaxia cirúrgica; e vírus respiratórios como SARS-CoV-2 e influenza H1N1 causaram muitos casos graves em gestantes. O I erra os focos: os mais comuns são genital (endometrite, infecção pós-aborto), urinário, respiratório, ferida operatória e mamas, não vascular e hepático. O III erra o qSOFA: seus componentes são frequência respiratória de 22 ou mais, PAS de 100 mmHg ou menos e alteração do nível de consciência, sem temperatura. A Surviving Sepsis 2026 desaconselha o qSOFA isolado como rastreio.",
+  "porAlt": [
+   "Inclui I e III, falsos: focos vascular e hepático não são os mais comuns e o qSOFA não usa temperatura.",
+   "Correta: II e IV; cesárea é fator de risco e vírus respiratórios são causa importante de sepse materna.",
+   "Inclui o I, que erra os focos mais comuns, e omite o IV.",
+   "Inclui o III, falso: o qSOFA avalia frequência respiratória, não temperatura.",
+   "Omite o IV, também correto: SARS-CoV-2 e influenza H1N1 são causas relevantes de sepse materna."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A trombose venosa profunda (TVP) e a embolia pulmonar (EP) são manifestações do tromboembolismo venoso (TEV), que respondem como importantes causas de morte materna. Considerando-se sua magnitude e perigos de desfechos para a mulher no ciclo gravídico-puerperal, leia as afirmativas abaixo:\nI. O puerpério representa a fase de maior risco de TEV no ciclo gravídico-puerperal. Esse risco persiste por até 12 semanas pós-parto.\nII. Gravidez múltipla, parto com uso de fórceps, natimorto e parto prematuro são condições obstétricas que ampliam o risco de TVE;\nIII. Em mulheres com fatores de risco para a ocorrência de TVE, está indicada a tromboprofilaxia com heparina de baixo peso molecular que pode ser usada durante toda a gestação até o parto, devendo ser suspensa em caso de amamentação;\nIV. Durante a gestação, a prevenção do TEV na gestação acontece por meio da identificação de fatores de risco e instituição de tromboprofilaxia farmacológica e mecânica.\nEstá CORRETO o que se afirma apenas em",
+  "alts": [
+   "I, II e III.",
+   "II e IV.",
+   "I, II e IV.",
+   "II e III.",
+   "II."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Puerpério e aleitamento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "RCOG Green-top Guideline 37a, Reducing the risk of venous thromboembolism during pregnancy and the puerperium (2015)",
+  "coment": "I, II e IV estão corretos. O puerpério é o período de maior risco de TEV, mais alto nas primeiras seis semanas e ainda elevado até cerca de 12 semanas. Gestação múltipla, fórceps, natimorto e parto prematuro aumentam o risco. A prevenção combina estratificação de risco e tromboprofilaxia farmacológica e mecânica. O III erra: a heparina de baixo peso molecular não é suspensa por causa da amamentação, pois é compatível com o aleitamento (RCOG 37a), e a profilaxia costuma continuar no pós-parto, que é justamente o período de maior risco.",
+  "porAlt": [
+   "Inclui o III, falso: a HBPM é compatível com a amamentação e não precisa ser suspensa.",
+   "Omite o I, correto: o puerpério é a fase de maior risco de TEV.",
+   "Correta: I, II e IV; o III erra porque a HBPM é compatível com o aleitamento.",
+   "Inclui o III, falso, e omite I e IV.",
+   "Omite I e IV, também corretos."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o processo de envelhecimento e a dor, assinale a alternativa CORRETA.",
+  "alts": [
+   "A prevalência de dor na população idosa costuma ser duas vezes menor, em comparação com pessoas inferior a 60 anos devido à perda de neurônios.",
+   "A consequência do tratamento da dor no idoso afeta, consideravelmente, sua qualidade de vida.",
+   "A falta de informação da dor pelo idoso deve ser interpretada pelos profissionais como a ausência dela.",
+   "Quando o paciente idoso está distraído, ocupado ou dormindo, significa que ele não está sentindo dor.",
+   "Alterações na farmacocinética e na farmacodinâmica, ocasionadas pelo processo de envelhecimento, não são suficientes para impedir a utilização de opioides no idoso com dor."
+  ],
+  "gab": 4,
+  "tema": "idoso",
+  "sub": "Polifarmácia",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "American Geriatrics Society, Pharmacological Management of Persistent Pain in Older Persons (J Am Geriatr Soc, 2009)",
+  "coment": "Envelhecer altera a farmacocinética (mais gordura, menos água corporal, menor função renal e hepática) e a farmacodinâmica, mas isso não impede o uso de opioides: indica começar com doses baixas, titular devagar e monitorar efeitos adversos, como recomenda a American Geriatrics Society. A dor é mais prevalente no idoso, não menos; o silêncio, a distração ou o sono não significam ausência de dor, que deve ser avaliada ativamente, inclusive com escalas observacionais na demência. A alternativa B está redigida de forma imprecisa: o que compromete a qualidade de vida é a dor não tratada.",
+  "porAlt": [
+   "Errada: a dor é mais prevalente no idoso, sobretudo a crônica musculoesquelética.",
+   "Redação imprecisa: o que afeta a qualidade de vida é a dor não tratada; o tratamento adequado a melhora.",
+   "Errada: o idoso subnotifica a dor, e a falta de queixa não equivale a ausência de dor.",
+   "Errada: distração ou sono não excluem dor; ela deve ser avaliada ativamente.",
+   "Correta: as mudanças farmacológicas pedem dose inicial baixa e titulação, mas não impedem opioides."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a enfermagem e o cuidado à saúde mental da pessoa idosa, leia as afirmativas abaixo:\nI. O foco da enfermagem em saúde mental não é o diagnóstico clínico ou a administração medicamentosa, e sim o compromisso com a qualidade de vida cotidiana do indivíduo sob sua responsabilidade.\nII. Os idosos podem apresentar comportamentos, como desorientação, agitação e não submissão ao tratamento, pois uma das principais características do envelhecimento é a perda acentuada da capacidade de adaptação e aumento da vulnerabilidade de todas as funções individuais.\nIII. As principais diferenças entre os transtornos de ansiedade e as preocupações normais na pessoa idosa são percebidos, geralmente, pela presença da angústia e da dificuldade na capacidade de funcionamento.\nEstá CORRETO o que se afirma em",
+  "alts": [
+   "I, II e III.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I e II, apenas.",
+   "I, apenas."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Envelhecimento e saúde da pessoa idosa, Cadernos de Atenção Básica nº 19, 2006",
+  "coment": "Pelo gabarito, os três itens estão corretos. I: a enfermagem em saúde mental tem como foco o cuidado e a qualidade de vida cotidiana, não o diagnóstico médico ou a medicação em si. II: com o envelhecimento diminui a reserva funcional e a capacidade de adaptação a estressores (homeostenose), o que favorece desorientação, agitação e baixa adesão diante de doença ou mudança de ambiente. III: o que separa o transtorno de ansiedade da preocupação normal é a angústia intensa e o prejuízo no funcionamento.",
+  "porAlt": [
+   "Correta: os três itens estão de acordo com a abordagem de enfermagem em saúde mental da pessoa idosa.",
+   "Omite o II: a menor capacidade de adaptação do idoso explica desorientação e agitação.",
+   "Omite o I: o foco da enfermagem em saúde mental é o cuidado e a qualidade de vida.",
+   "Omite o III: angústia e prejuízo funcional diferenciam transtorno de ansiedade de preocupação normal.",
+   "Omite II e III, também corretos."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em uma unidade de Pronto Atendimento, foi admitido um paciente apresentando Hemorragia Digestiva Alta. Após estabilização, a(o) enfermeira(o) realizou a sistematização da assistência de enfermagem. Quais os objetivos (resultados esperados) das intervenções de enfermagem para o tratamento desse paciente que está apresentando sangramento agudo?",
+  "alts": [
+   "Controle do sangramento através da reposição volêmica com hemoderivados, obter a hemostasia do sítio sangrante, prevenir o resangramento.",
+   "Aliviar a dor através da administração de drogas analgésicas, administrar drogas ansiolíticas reduzindo o estresse, manter sonda nasogástrica fechada com o objetivo de realizar tamponamento da área sangrante.",
+   "Manter o paciente em decúbito dorsal para evitar sangramento, realizar lavagens colônicas, evitar efeitos dos compostos nitrogenados do sangue através do uso de antibióticos.",
+   "Minimizar o sangramento retal através da instalação da sonda retal, melhorar a ingesta alimentar, aliviar dor através de drogas analgésicas.",
+   "Evitar as lavagens gástricas, considerando que a pressão do Soro Fisiológico na parede do estômago pode facilitar o resangramento."
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "Na hemorragia digestiva alta aguda, os resultados esperados do plano de cuidados são controlar o sangramento com reposição volêmica e de hemoderivados conforme a perda, obter a hemostasia do sítio (em geral por endoscopia) e prevenir o ressangramento. As outras alternativas misturam medidas sem base: tamponamento por sonda nasogástrica fechada, decúbito dorsal para 'evitar sangramento', lavagens colônicas, sonda retal ou foco exclusivo em dor e alimentação. A prioridade é estabilidade hemodinâmica e controle da fonte.",
+  "porAlt": [
+   "Correta: reposição volêmica e de hemoderivados, hemostasia e prevenção do ressangramento.",
+   "Sonda nasogástrica fechada não tampona a lesão; analgesia e ansiolíticos não são o objetivo central.",
+   "Decúbito dorsal não evita sangramento e lavagem colônica não trata hemorragia alta.",
+   "Sangramento retal com sonda retal não é o problema da hemorragia digestiva alta; realimentar não é prioridade.",
+   "Não é objetivo terapêutico: fala de uma técnica isolada e não de resultados esperados para o sangramento."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A disfunção renal pode provocar uma série complexa de sintomas em todo o corpo. A dor, as alterações na micção e os sintomas gastrintestinais são particularmente sugestivos de doença do sistema urinário. Quanto à dor geniturinária, leia as afirmativas abaixo:\nI. A dor tipo renal é localizada no ângulo costovertebral, podendo se estender até o umbigo; é constante, difusa; pode ser intensa, aguda e penetrante em cólica; se houver distensão súbita da cápsula, o paciente pode apresentar sinais e sintomas associados como: náuseas e vômitos, sudorese, palidez e sinais de choque. As possíveis causas da dor são: obstrução aguda, cálculo renal, coágulo sanguíneo, pielonefrite aguda e traumatismo.\nII. A dor do tipo vesical tem localização no períneo e no reto; promove sensação de plenitude no períneo e dor lombar vaga; apresenta os seguintes sinais e sintomas associados: náuseas, vômitos e íleo paralítico, podendo ser causada por câncer ou coágulo sanguíneo.\nIII. A dor do tipo uretral se localiza, no sexo feminino, da uretra até o meato e no sexo masculino, ao longo do pênis até o meato; é uma dor variável, mais intensa durante e imediatamente após a micção. Tem como sinais e sintomas associados a polaciúria, urgência, disúria, nictúria e secreção uretral. Tem como possível causa, irritação do colo da bexiga, infecção da uretra, traumatismo, corpo estranho na via urinária inferior.\nEstá CORRETO o que se afirma apenas em",
+  "alts": [
+   "I e II.",
+   "I e III.",
+   "II.",
+   "I.",
+   "III."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020 (dor geniturinária)",
+  "coment": "O quadro de dor geniturinária do Brunner sustenta I e III. A dor renal fica no ângulo costovertebral, pode irradiar ao umbigo, e na distensão súbita da cápsula vem com náuseas, vômitos, sudorese e palidez. A uretral piora durante e logo após a micção, com polaciúria, urgência e disúria. O II está errado: dor no períneo e no reto, com plenitude perineal e lombalgia vaga, é a dor PROSTÁTICA (câncer, prostatite). A dor vesical é suprapúbica, e náuseas, vômitos e íleo paralítico acompanham a dor ureteral.",
+  "porAlt": [
+   "Inclui o II, que descreve dor prostática, não vesical.",
+   "Correta: I e III descrevem bem as dores renal e uretral; o II descreve a dor da próstata.",
+   "O II é justamente o item errado: dor perineal e retal é de origem prostática.",
+   "Omite o III, que descreve corretamente a dor uretral.",
+   "Omite o I, que descreve corretamente a dor renal."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O câncer de mama é uma doença multifatorial, sendo o avançar da idade o seu principal fator de risco. Sobre esse câncer, leia as afirmativas abaixo e coloque V nas Verdadeiras e F nas Falsas.\n( ) O tipo de câncer que mais afeta os indivíduos do sexo feminino é o câncer de pele não melanoma e, em seguida, o câncer de mama.\n( ) Aproximadamente 90% das malignidades da mama são de origem epitelial, sendo denominadas carcinomas, que formam lesões in situ ou invasivas.\n( ) São sinais e sintomas, encontrados em mulheres com câncer de mama: mudança do tamanho ou forma dos seios, aparecimento de “caroço”, erupção na pele ou em volta do mamilo, enrugamento da pele, descarga, inversão ou mudança de posição ou forma do mamilo.\n( ) A tomografia está sempre em desenvolvimento para aprimorar o rastreio do câncer de mama. Considerada o principal e mais eficiente método para realizar a detecção da doença precocemente.\nAssinale a alternativa que indica a sequência CORRETA.",
+  "alts": [
+   "V, F, V, F",
+   "F, F, F, V",
+   "V, V, V, V",
+   "F, V, F, V",
+   "V, V, V, F"
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "INCA. Estimativa 2023: incidência de câncer no Brasil (triênio 2023-2025), 2022; Nota Técnica MS nº 626/2025 (rastreamento mamográfico)",
+  "coment": "Os três primeiros itens são verdadeiros. Na mulher, o câncer de pele não melanoma é o mais incidente e, sem ele, o de mama lidera (INCA). A grande maioria dos tumores malignos da mama é epitelial, os carcinomas, in situ ou invasivos. Nódulo, mudança de forma, retração da pele, alteração ou descarga do mamilo são sinais de alerta. O quarto é falso: o método de rastreamento é a mamografia, e não a tomografia. Pela Nota Técnica 626/2025, a mamografia bienal vai dos 50 aos 74 anos, com acesso sob demanda e decisão compartilhada dos 40 aos 49.",
+  "porAlt": [
+   "O item 2 é verdadeiro: cerca de 90% dos tumores malignos da mama são carcinomas.",
+   "Os três primeiros itens são verdadeiros, e a tomografia não é método de rastreio.",
+   "O quarto item é falso: o rastreamento se faz com mamografia, não tomografia.",
+   "Os itens 1 e 3 são verdadeiros, e o 4 é falso.",
+   "Correta: V, V, V, F; o rastreio do câncer de mama é feito por mamografia."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A epilepsia é uma doença, que se caracteriza por uma predisposição permanente do cérebro em originar crises epilépticas e pelas consequências neurobiológicas, cognitivas, psicológicas e sociais dessas crises. Sobre essa doença, leia as afirmações abaixo e coloque V nas Verdadeiras e F nas Falsas.\n( ) A prevalência da epilepsia varia de acordo com as diferentes idades, gêneros, grupos étnicos e fatores socioeconômicos. Nos países desenvolvidos, a prevalência da epilepsia aumenta proporcionalmente com o aumento da idade, enquanto, nos países em desenvolvimento, geralmente atinge picos na adolescência e idade adulta.\n( ) As crises epilépticas são classificadas em crises epilépticas de manifestações clínicas iniciais focais ou generalizadas. As crises focais têm origem em algum ponto da rede neural que é capaz de recrutar rapidamente outras redes neurais bilaterais.\n( ) As crises focais motoras são representadas pelos automatismos, crises atônicas, crises clônicas, espasmos epilépticos, crises hipercinéticas, crises mioclônicas e crises tônicas.\n( ) As epilepsias podem ser causadas por lesões estruturais, alterações genéticas, erros inatos do metabolismo, doenças neurocutâneas , doenças cromossômicas, doenças mitocondriais, infecciosas, metabólicas ou autoimunes.\nAssinale a alternativa que apresenta a sequência CORRETA.",
+  "alts": [
+   "V, F, V, V.",
+   "F, V, F, F.",
+   "V, F, V, F.",
+   "F, V, V, F.",
+   "V, V, V, V."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "PCDT da Epilepsia (Portaria Conjunta SAS/SCTIE nº 17/2018); classificação operacional da ILAE (Fisher et al., Epilepsia, 2017)",
+  "coment": "O PCDT da Epilepsia descreve a prevalência como no item 1: nos países desenvolvidos cresce com a idade; nos em desenvolvimento, tem picos na adolescência e na idade adulta. O item 2 é falso porque define crise generalizada: a FOCAL se origina em redes limitadas a um hemisfério; a generalizada é a que recruta rapidamente redes bilaterais. O item 3 lista os subtipos motores focais da ILAE 2017 (automatismos, atônicas, clônicas, espasmos, hipercinéticas, mioclônicas, tônicas). O item 4 traz as etiologias. Sequência V, F, V, V.",
+  "porAlt": [
+   "Correta: V, F, V, V; o item 2 descreve a crise generalizada, não a focal.",
+   "O item 1 é verdadeiro e o 2 é falso, ao contrário do proposto.",
+   "O item 4 é verdadeiro: as etiologias incluem causas estruturais, genéticas, metabólicas, infecciosas e autoimunes.",
+   "O item 1 é verdadeiro e o 2, que define crise generalizada, é falso.",
+   "O item 2 é falso: crise focal se origina em redes limitadas a um hemisfério."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobe Doença Pulmonar Obstrutiva Crônica (DPOC), leia as afirmativas abaixo:\nI. É definida como uma síndrome caracterizada pela obstrução crônica e difusa das vias aéreas superiores, de caráter irreversível, com destruição gradual do parênquima pulmonar.\nII. A DPOC acomete a população mundial. Sua prevalência vem aumentando nas últimas décadas, especialmente no sexo feminino. É caracteristicamente uma doença de adultos mais velhos, manifestando-se na quinta ou sexta década de vida.\nIII. A queixa mais presente dos pacientes com DPOC é a dispneia aos esforços. A evolução é insidiosa, progressiva, marcada por pioras agudas desencadeadas por fatores descompensantes.\nIV. A prova de função pulmonar é um exame mandatório na avaliação de um paciente com (ou suspeita) de DPOC. Tal como na asma, é a espirometria.\nEstá CORRETO o que se afirma apenas em",
+  "alts": [
+   "II, III e IV.",
+   "II.",
+   "III e IV.",
+   "IV.",
+   "I."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Doenças respiratórias",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "GOLD 2026 (Global Initiative for Chronic Obstructive Lung Disease)",
+  "coment": "O I é falso: a DPOC é limitação crônica e persistente ao fluxo aéreo por alterações das vias aéreas INFERIORES (bronquite, bronquiolite) e dos alvéolos (enfisema), não das superiores. II, III e IV estão corretos: a doença é de adultos mais velhos, com aumento entre mulheres; a dispneia aos esforços é a queixa principal, com curso progressivo e exacerbações; e a espirometria é obrigatória para o diagnóstico, com relação VEF1/CVF abaixo de 0,7 após broncodilatador (GOLD).",
+  "porAlt": [
+   "Correta: II, III e IV; o I erra ao falar em vias aéreas superiores.",
+   "Omite III e IV, também corretos.",
+   "Omite o II, correto sobre prevalência e idade de início.",
+   "Omite II e III, também corretos.",
+   "O I é o único falso: a obstrução da DPOC é de vias aéreas inferiores."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Centro de Material e Esterilização (CME) tem por missão prover todos os serviços assistenciais e de diagnóstico de produtos para saúde (PPS) processados, garantindo a quantidade e a qualidade necessárias para uma assistência segura. Sobre a segurança do paciente e dos profissionais envolvidos com as boas práticas recomendadas no processamento de PPS, analise as afirmativas abaixo:\nI. A barreira técnica é definida como o conjunto de medidas comportamentais dos profissionais de saúde, visando à prevenção de contaminação cruzada entre o ambiente sujo e o ambiente limpo na ausência de barreiras físicas.\nII. A RDC n 15/2012 que regulamenta os requisitos de boas práticas para o processamento de produtos para a saúde estabelece que hospitais com movimento cirúrgico acima de 500 cirurgias mês ( incluindo partos) devem constituir o comitê de processamento de produtos para saúde (CPPS);\nIII. A carga microbiana presente nos produtos para saúde, também conceituada de bioburden, não sofre variação em decorrência da conformação do produto para saúde associada à densidade microbiana presente no sítio corporal onde o material foi utilizado.\nIV. Para os materiais de inaloterapia e assistência ventilatória, deve ser priorizada a termodesinfecção em detrimento dos métodos químicos. A preferência pelo método físico é justificada pelas seguintes razões: por ser um método automatizado, permite a monitoração dos parâmetros e a reprodutividade do processo, minimizando a probabilidade de falhas humanas.\nEstão CORRETAS apenas",
+  "alts": [
+   "I, II e IV.",
+   "I, III e IV.",
+   "I e IV.",
+   "II e IV.",
+   "II, III e IV."
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 15/2012, arts. 4º e 8º",
+  "coment": "I e IV estão corretos. A RDC 15/2012 (art. 4º) define barreira técnica como o conjunto de medidas comportamentais que evitam contaminação cruzada entre área suja e limpa na ausência de barreira física. Para inaloterapia e assistência ventilatória, a termodesinfecção automatizada é preferida aos químicos por permitir monitorar parâmetros e reproduzir o processo. O II erra: o comitê de processamento é exigido acima de 500 cirurgias por mês EXCLUÍDOS os partos (art. 8º). O III erra: a carga microbiana varia com a conformação do produto e o sítio em que foi usado.",
+  "porAlt": [
+   "Inclui o II, que erra ao incluir os partos na contagem de cirurgias.",
+   "Inclui o III, falso: a carga microbiana varia com a conformação do produto e o sítio de uso.",
+   "Correta: I e IV; a RDC 15/2012 exclui os partos da contagem e o bioburden varia.",
+   "Inclui o II, falso, e omite o I, que é a definição de barreira técnica da RDC.",
+   "Inclui II e III, ambos falsos."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O processo de trabalho no Centro Cirúrgico (CC) visa à assistência global dos pacientes que se submetem a procedimentos anestésico-cirúrgicos. Nesse contexto, a atuação da equipe de enfermagem é essencial, pois envolve a preparação dos insumos e equipamentos necessários ao procedimento cirúrgico. Sobre as especificidades do CC, analise as afirmativas abaixo:\nI. Entre os principais cuidados a serem considerados para a segurança da cirurgia, incluem -se: utilização apropriada do uniforme privativo e dos equipamentos de proteção individual (EPI) pelos profissionais envolvidos, manuseio correto dos materiais esterilizados com técnica asséptica, controle ambiental e contenção do número de pessoas na sala operatória.\nII. As recomendações para a contagem e o adequado controle de itens cirúrgicos contribui para maior segurança do processo cirúrgico, além de evitar prejuízos e diminuir o risco de ocorrência de eventos adversos.\nIII. A limpeza e a desinfecção do ambiente cirúrgico influenciam na prevenção da disseminação de microrganismos potencialmente patogênicos, exceto as bactérias multirresistentes.\nIV. A lista de verificação da segurança cirúrgica deve ser aplicada em três momentos cirúrgicos: antes da indução anestésica, antes da incisão cirúrgica e antes da saída da sala de operação, e, para sua implementação, é necessário que um único profissional seja responsável pela sua aplicação não devendo este impedir que a equipe progrida para a próxima fase independente de seu nível de atendimento satisfatório.\nEstão CORRETAS apenas",
+  "alts": [
+   "I, II e III.",
+   "I, II e IV.",
+   "I e II.",
+   "II e IV.",
+   "II, III e IV."
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Cirurgia segura",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria MS 1.377/2013 e Protocolo para Cirurgia Segura (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "I e II estão corretos: paramentação, técnica asséptica, controle ambiental, limite de pessoas na sala e contagem de itens reduzem eventos adversos. O III erra porque limpeza e desinfecção do ambiente também previnem a disseminação de multirresistentes. O IV acerta os três momentos (antes da indução, antes da incisão, antes da saída da sala) e o condutor único, mas erra ao dizer que ele não deve impedir o avanço: pelo protocolo, se um item não está conforme, a verificação para e a equipe só segue quando ele é resolvido.",
+  "porAlt": [
+   "Inclui o III, que erra ao excluir as multirresistentes do efeito da limpeza.",
+   "Inclui o IV, que erra: o condutor deve impedir o avanço até cada item estar conforme.",
+   "Correta: I e II; o III exclui sem razão as multirresistentes e o IV nega o poder de parada do condutor.",
+   "Omite o I e inclui o IV, que está errado.",
+   "Inclui III e IV, ambos falsos."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 43,
+   "parte": "especificas"
+  }
+ }
+]

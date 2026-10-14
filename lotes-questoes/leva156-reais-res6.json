@@ -1,0 +1,1506 @@
+[
+ {
+  "q": "A atuação da equipe de enfermagem no período de recuperação da anestesia na sala de recuperação pós-anestésica tem como foco a prevenção, a detecção precoce e a implementação de cuidados específicos frente aos desconfortos ou às complicações decorrentes da cirurgia, da anestesia ou da condição clínica do paciente. Sobre o processo de cuidar no período de recuperação pós-anestésica, analise as afirmativas abaixo e coloque V nas Verdadeiras e F nas Falsas.\n( ) A dor aguda é um dos diagnósticos de enfermagem mais frequentes no paciente em recuperação anestésica, e, entre as atividades a serem realizadas pelo enfermeiro para o controle da dor, recomenda-se a observação da expressão não verbal e o comportamento de pacientes não comunicativos que possam indicar ocorrência de dor.\n( ) As náuseas e vômitos no pós-operatório (NVPO) são um desconforto observado na sala de recuperação pós-anestésica e, entre as práticas recomendadas para prevenção da broncoaspiração e pneumonia aspirativa em caso de vômitos, aponta-se: manter o paciente com a cabeça voltada para um lado ou em decúbito lateral, quando não houver contraindicação.\n( ) O paciente cirúrgico geralmente é exposto inadvertidamente à hipotermia leve. Entre os sinais e sintomas do paciente hipotérmico, destacam-se: tremores, inquietação, extremidades cianóticas, pálidas e frias.\n( ) A retenção urinária é uma complicação comum após cirurgias com uso de anestesia geral ou de bloqueio espinhal. A sua identificação precoce não influencia na ocorrência de lesão no músculo detrusor, disfunção vesical e infecção do trato urinário.\nAssinale a alternativa que contém a sequência CORRETA.",
+  "alts": [
+   "V, F, V, V.",
+   "V, V, V, F.",
+   "V, V, F, V.",
+   "V, F, V, F.",
+   "F, V, V, F."
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Recuperação pós-anestésica",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "NANDA-I 2024-2026 (13ª ed.); Resolução COFEN 736/2024 (Processo de Enfermagem)",
+  "coment": "Na SRPA, Dor aguda é diagnóstico frequente e, no paciente que não se comunica, a avaliação usa expressão facial, postura e comportamento. Diante de vômito, cabeça lateralizada ou decúbito lateral, sem contraindicação, protege a via aérea da aspiração. A hipotermia leve é comum pela exposição, pela anestesia e por infusões frias, e se manifesta por tremores, inquietação e extremidades frias, pálidas ou cianóticas. A falsa é a última: a retenção urinária é comum após anestesia geral e bloqueio espinhal, e identificá-la cedo (palpação, ultrassom de bexiga) evita hiperdistensão, lesão do detrusor, disfunção vesical e infecção urinária. Sequência: V, V, V, F.",
+  "porAlt": [
+   "Errada: marca falsa a afirmativa sobre NVPO, que é verdadeira, e verdadeira a da retenção urinária, que é falsa.",
+   "Correta: dor, NVPO e hipotermia estão corretas; a retenção urinária é falsa porque a detecção precoce previne lesão do detrusor e infecção.",
+   "Errada: a afirmativa da hipotermia é verdadeira, e a da retenção urinária, que nega o valor da detecção precoce, é falsa.",
+   "Errada: a afirmativa sobre NVPO é verdadeira; lateralizar a cabeça no vômito previne broncoaspiração.",
+   "Errada: a dor aguda é diagnóstico frequente na SRPA, e a avaliação não verbal é recomendada no paciente não comunicativo."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a reunião familiar como ferramenta para a construção do plano de cuidados de um paciente em cuidados paliativos, leia a afirmações abaixo:\nI. A reunião familiar na Inter consulta tem o propósito de esclarecer a história natural da doença, o que já foi conversado com as equipes pelas quais o paciente já foi atendido, o que a família entende sobre esse processo e a indicação de Cuidados Paliativos.\nII. Os objetivos da reunião devem ser claros para a equipe que conduzirá a conversa com a família e podem variar de acordo a mobilidade de atendimento na qual o paciente se encontra no momento da doença e as necessidades do paciente e da família.\nIII. Após a reunião, é crucial avaliar a intervenção em equipe, buscando levantar acertos e erros e as percepções dos profissionais participantes a respeito do que foi observado e vivido durante a reunião.\nEstá CORRETO o que se afirma em",
+  "alts": [
+   "III apenas.",
+   "II, apenas.",
+   "I, apenas.",
+   "I e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 4,
+  "tema": "idoso",
+  "sub": "Cuidados paliativos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 3.681/2024 (Política Nacional de Cuidados Paliativos); Manual de Cuidados Paliativos ANCP, 2ª ed., 2012",
+  "coment": "A reunião familiar é instrumento central do plano de cuidados em paliativos. Na interconsulta, serve para alinhar a história natural da doença, o que outras equipes já conversaram, o que a família entende e a indicação de cuidados paliativos (I). Os objetivos são definidos antes pela equipe e variam conforme a modalidade de atendimento em que o paciente está (interconsulta, enfermaria, ambulatório, domicílio) e conforme as necessidades de paciente e família (II; o enunciado traz mobilidade por modalidade, erro da banca). Depois da reunião, a equipe avalia a intervenção, revendo acertos, erros e percepções (III). As três estão corretas.",
+  "porAlt": [
+   "Errada: I e II também estão corretas; a reunião tem propósito de alinhamento e objetivos definidos pela equipe.",
+   "Errada: deixa de fora I e III, que descrevem o propósito da reunião na interconsulta e a avaliação posterior pela equipe.",
+   "Errada: II e III também estão corretas; objetivos claros e avaliação da intervenção fazem parte da técnica.",
+   "Errada: omite II, também correta, pois os objetivos variam com a modalidade de atendimento e as necessidades da família.",
+   "Correta: propósito na interconsulta, objetivos claros conforme a modalidade e avaliação da equipe depois da reunião estão corretos."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A problemática da segurança cirúrgica no contexto da segurança do paciente é reconhecida em todo o mundo. Em países desenvolvidos, os estudos confirmam a magnitude e generalização do problema. Considerando Os Dez Objetivos essenciais para a segurança cirúrgica do Ministério da Saúde, analise as afirmativas abaixo:\nI. A equipe usará, de maneira sistemática e rotineira, métodos empíricos para minimizar o risco de infecção do sítio cirúrgico.\nII. A equipe reconhecerá e estará efetivamente preparada para perda de via aérea ou de função respiratória que ameacem a vida.\nIII. A equipe evitará a indução de reação adversa a drogas ou reação alérgica sabidamente de risco ao paciente.\nIV. A equipe se comunicará efetivamente e trocará informações críticas para a condução segura da operação.\nV. Os hospitais e os sistemas de saúde pública estabelecerão um sistema de busca ativa e vigilância de epidemiológica com foco no acompanhamento de volume e velocidade da lista de espera cirúrgica.\nEstão CORRETAS",
+  "alts": [
+   "apenas I e II.",
+   "apenas I, II e III.",
+   "apenas II, III e IV.",
+   "apenas II, III e V.",
+   "I, II, III, IV e V."
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Cirurgia segura",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "OMS, Segundo Desafio Global: Cirurgias Seguras Salvam Vidas, 2009 (tradução OPAS/MS); Portaria MS 1.377/2013 (Protocolo de Cirurgia Segura)",
+  "coment": "Os dez objetivos da OMS (2009), adotados pelo Ministério da Saúde, são: operar o paciente e o local certos; usar métodos conhecidos para impedir danos na anestesia; reconhecer e preparar-se para perda de via aérea ou de função respiratória (II); preparar-se para grande perda sanguínea; evitar reação alérgica ou adversa a drogas sabidamente de risco (III); usar métodos conhecidos para minimizar o risco de infecção do sítio cirúrgico; impedir retenção de compressas e instrumentais; identificar com precisão os espécimes; comunicar-se efetivamente (IV); e vigiar a capacidade, o volume e os resultados cirúrgicos. I troca métodos conhecidos por empíricos; V troca resultados por lista de espera.",
+  "porAlt": [
+   "Errada: inclui I, que fala em métodos empíricos quando o objetivo exige métodos conhecidos, e omite III e IV.",
+   "Errada: I está incorreta, pois a prevenção da infecção do sítio cirúrgico usa métodos conhecidos, não empíricos.",
+   "Correta: via aérea, reação adversa a drogas e comunicação efetiva reproduzem três dos dez objetivos da OMS.",
+   "Errada: V deforma o décimo objetivo, que é vigilância da capacidade, do volume e dos resultados cirúrgicos, não da lista de espera.",
+   "Errada: I e V estão incorretas, por trocar métodos conhecidos por empíricos e resultados cirúrgicos por lista de espera."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os indicadores de saúde correspondem a medidas utilizadas para diagnosticar e monitorar a situação de saúde, contribuindo no planejamento e avaliação das intervenções de saúde. Sobre essas medidas, utilizando-se como referência o município “X”, é CORRETO afirmar que",
+  "alts": [
+   "o coeficiente de mortalidade por doenças do aparelho circulatório indica a probabilidade de morte por essas doenças na população.",
+   "a mortalidade proporcional por grupo etário tem importância, por indicar o grupo etário de maior risco de morrer.",
+   "a taxa de letalidade por COVID 19 indica o risco de morte por essa doença na população.",
+   "em período epidêmico, é esperado o aumento da letalidade, quando comparado com os períodos de baixa incidência.",
+   "a taxa de natalidade indica o número de filhos tidos por mulher em idade fértil."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "RIPSA, Indicadores Básicos para a Saúde no Brasil, 2ª ed., 2008",
+  "coment": "O coeficiente de mortalidade específica por causa tem a população no denominador e estima o risco (probabilidade) de morrer por aquela causa; por isso A é a correta. A mortalidade proporcional tem óbitos no denominador: mostra como os óbitos se distribuem, não o risco. A letalidade divide óbitos pelos casos da doença e mede gravidade, não risco na população. Em epidemia cresce a incidência; a letalidade não tende a subir e muitas vezes cai, porque mais casos leves são detectados. Natalidade é nascidos vivos sobre a população; filhos por mulher em idade fértil é a taxa de fecundidade total.",
+  "porAlt": [
+   "Correta: a taxa de mortalidade específica por causa usa a população exposta no denominador e estima o risco de morrer por essas doenças.",
+   "Errada: a mortalidade proporcional tem óbitos no denominador e mostra distribuição, não o grupo de maior risco de morrer.",
+   "Errada: a letalidade relaciona óbitos aos casos da doença e mede gravidade, não o risco de morte na população.",
+   "Errada: em período epidêmico aumenta a incidência; não se espera aumento da letalidade em relação a períodos de baixa incidência.",
+   "Errada: número de filhos por mulher em idade fértil é a taxa de fecundidade total; natalidade é nascidos vivos por habitantes."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação à saúde ocupacional, o serviço deve manter um programa de educação continuada na busca constante pela qualificação profissional para os trabalhadores e todos os envolvidos nas atividades de gerenciamento de resíduos, mesmo os que atuam temporariamente. Sobre os temas que devem ser contemplados, assinale a alternativa CORRETA.",
+  "alts": [
+   "prática de segregação dos RSS (Resíduos dos Serviços de Saúde); símbolos, bandeiras, padrões de cores adotadas para o gerenciamento de RSS; ciclo de vida dos materiais; biologia dos resíduos de saúde; orientações quanto à higiene pessoal e dos ambientes.",
+   "prática de segregação dos RSS; símbolos, bandeiras, padrões de cores adotadas para o gerenciamento de RSS; ciclo de vida dos materiais; biossegurança; orientações quanto à higiene pessoal e dos ambientes.",
+   "ciclo de vida pessoal; símbolos, expressões, padrões de cores adotadas para o gerenciamento de RSS; biossegurança; orientações quanto à higiene pessoal e dos ambientes.",
+   "prática de segregação dos RSS; símbolos, expressões, padrões de cores adotadas para o gerenciamento de RSS; ciclo de vida dos materiais; biossegurança; orientações quanto à higiene pessoal e dos ambientes.",
+   "prática de segregação dos RSS; símbolos, expressões, padrões de cores adotadas para o gerenciamento de RSS; ciclo de vida dos materiais; biossegurança do lixo comum; orientações quanto à higiene pessoal e dos ambientes."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 222/2018 (boas práticas de gerenciamento dos resíduos de serviços de saúde)",
+  "coment": "A RDC ANVISA 222/2018, que revogou a RDC 306/2004, obriga o gerador a manter educação continuada para todos os envolvidos no gerenciamento de resíduos, inclusive os temporários, e lista os temas. Entre eles estão a prática de segregação dos RSS; os símbolos, expressões e padrões de cores adotados; o ciclo de vida dos materiais; a biossegurança; e as orientações quanto à higiene pessoal e dos ambientes. A alternativa D reproduz esses termos. As demais trocam palavras da norma: bandeiras no lugar de expressões, biologia dos resíduos, ciclo de vida pessoal e biossegurança do lixo comum não constam do texto.",
+  "porAlt": [
+   "Errada: fala em bandeiras e em biologia dos resíduos de saúde, termos que não constam da RDC 222/2018.",
+   "Errada: troca expressões por bandeiras na lista de símbolos e padrões de cores do gerenciamento de RSS.",
+   "Errada: ciclo de vida pessoal não é tema da norma, que fala em ciclo de vida dos materiais, e omite a prática de segregação.",
+   "Correta: segregação, símbolos e expressões com padrões de cores, ciclo de vida dos materiais, biossegurança e higiene reproduzem a norma.",
+   "Errada: a norma fala em biossegurança de forma ampla, não em biossegurança do lixo comum."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando as atividades profissionais realizadas pelo enfermeiro(a) e atentando para o Código de Ética no capítulo sobre infrações e penalidades, é CORRETO afirmar que",
+  "alts": [
+   "no Art 106, a gravidade da infração é caracterizada exclusivamente por meio da análise dos casos praticados.",
+   "no Art 107, a infração é apurada em processo instaurado e conduzido nos termos do Código de Processo Ético-Disciplinar vigente, aprovado pelo Conselho Regional de Enfermagem.",
+   "no item das penalidades, a censura consiste na proibição do exercício profissional da Enfermagem por um período de até 90 (noventa) dias e será divulgada nas publicações oficiais do Sistema Cofen/Conselhos Regionais de Enfermagem, jornais de grande circulação e comunicada aos órgãos empregadores.",
+   "nas penalidades de suspensão e cassação, o profissional terá sua carteira retida no ato da notificação, em todas as categorias em que for inscrito, sendo devolvida após o cumprimento da pena e, no caso de cassação, após o processo de reabilitação.",
+   "a multa consiste na obrigatoriedade de pagamento de 01 (um) a 10 (dez) vezes o valor do salário mínimo em vigor."
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), arts. 106 a 108",
+  "coment": "Pelo Código de Ética (Res. COFEN 564/2017), a gravidade da infração é caracterizada pela análise do fato, do ato praticado ou omissivo e do resultado (art. 106), não só dos casos praticados. O processo segue o Código de Processo Ético-Disciplinar aprovado pelo Conselho Federal, não pelo Regional (art. 107). No art. 108, censura é repreensão publicada; a proibição do exercício por até 90 dias é a suspensão; a multa vai de 1 a 10 vezes o valor da anuidade da categoria, e não do salário mínimo. Na suspensão e na cassação, a carteira é retida no ato da notificação em todas as categorias e devolvida após a pena ou, na cassação, após a reabilitação.",
+  "porAlt": [
+   "Errada: o art. 106 manda analisar o fato, o ato praticado ou omissivo e o resultado; não é exclusivamente a análise dos casos.",
+   "Errada: o Código de Processo Ético-Disciplinar é aprovado pelo Conselho Federal de Enfermagem, não pelo Regional.",
+   "Errada: a proibição do exercício por até 90 dias é a suspensão; a censura é repreensão divulgada nas publicações oficiais.",
+   "Correta: na suspensão e na cassação a carteira é retida em todas as categorias, devolvida após a pena ou após a reabilitação.",
+   "Errada: a multa é de 1 a 10 vezes o valor da anuidade da categoria profissional do infrator, não do salário mínimo."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Hospitalar",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na história da Atenção Primária à Saúde, tivemos uma Conferência que foi pioneira a ser realizada em um país em desenvolvimento e a incluir o setor privado no apoio à Promoção da Saúde. Assinale a alternativa que corresponde a essa Conferência Internacional sobre Promoção da Saúde.",
+  "alts": [
+   "Primeira.",
+   "Segunda.",
+   "Terceira.",
+   "Quarta.",
+   "Oitava."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Declaração de Jacarta, 4ª Conferência Internacional sobre Promoção da Saúde (OMS, 1997)",
+  "coment": "A 4ª Conferência Internacional sobre Promoção da Saúde ocorreu em Jacarta, Indonésia, em 1997. Foi a primeira realizada em um país em desenvolvimento e a primeira a incluir o setor privado no apoio à promoção da saúde; dela saiu a Declaração de Jacarta, com prioridades para o século XXI. A sequência cobrada: Ottawa (1986, 1ª), Adelaide (1988, 2ª, políticas públicas saudáveis), Sundsvall (1991, 3ª, ambientes favoráveis à saúde), Jacarta (1997, 4ª) e Helsinque (2013, 8ª, saúde em todas as políticas).",
+  "porAlt": [
+   "Errada: a Primeira foi em Ottawa, Canadá, em 1986, país desenvolvido, e produziu a Carta de Ottawa.",
+   "Errada: a Segunda, em Adelaide, Austrália, em 1988, tratou de políticas públicas saudáveis.",
+   "Errada: a Terceira, em Sundsvall, Suécia, em 1991, tratou de ambientes favoráveis à saúde.",
+   "Correta: a Quarta, em Jacarta, em 1997, foi a primeira em país em desenvolvimento e a primeira a envolver o setor privado.",
+   "Errada: a Oitava, em Helsinque, em 2013, tratou da saúde em todas as políticas."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 1,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Na epidemiologia, são utilizadas expressões de tendência central e dispersão. Sobre o Desvio-padrão, assinale a alternativa CORRETA.",
+  "alts": [
+   "É resultante da soma dos valores para as observações, dividido pelo número de observações.",
+   "É o ponto em que o número de observações acima se iguala ao número abaixo.",
+   "É o valor que ocorre com maior frequência.",
+   "É a diferença entre o maior número e o menor número de um conjunto.",
+   "Nenhuma alternativa correta."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia & Saúde, 8ª ed., 2018",
+  "coment": "Desvio-padrão é medida de dispersão: a raiz quadrada da variância, que expressa o quanto os valores se afastam, em média, da média aritmética. Nenhuma alternativa o define. A soma dos valores dividida pelo número de observações é a média; o ponto que divide as observações ao meio é a mediana; o valor mais frequente é a moda; a diferença entre o maior e o menor valor é a amplitude, outra medida de dispersão, mais grosseira, que não é o desvio-padrão.",
+  "porAlt": [
+   "Errada: soma dos valores dividida pelo número de observações é a média aritmética, medida de tendência central.",
+   "Errada: o ponto com metade das observações acima e metade abaixo é a mediana.",
+   "Errada: o valor que ocorre com maior frequência é a moda.",
+   "Errada: a diferença entre o maior e o menor valor é a amplitude, não o desvio-padrão.",
+   "Correta: nenhuma alternativa define o desvio-padrão, que é a raiz quadrada da variância em torno da média."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 2,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Durante as visitas domiciliares em uma comunidade, você faz o cadastro de um bebê com prematuridade e baixo peso com necessidade de ganho ponderal. Nesse caso, considerando a elegibilidade e indicação de Atenção Domiciliar (AD), com o fim de abreviar ou evitar hospitalização. Assinale a alternativa que apresenta a modalidade de Atenção Domiciliar indicada para o caso.",
+  "alts": [
+   "AD 1",
+   "AD 2",
+   "AD 3",
+   "AD 4",
+   "inelegível para a AD."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 825/2016 (Atenção Domiciliar no SUS)",
+  "coment": "A Portaria GM/MS 825/2016 organiza a atenção domiciliar em três modalidades. A AD1 cabe às equipes de atenção básica, para usuários com problemas controlados que precisam de cuidados menos frequentes. A AD2, feita pela EMAD e pela EMAP do Serviço de Atenção Domiciliar, prevê expressamente a prematuridade e o baixo peso em bebês com necessidade de ganho ponderal, com o fim de abreviar ou evitar hospitalização. A AD3 soma a esses quadros o uso de equipamentos ou procedimentos especiais, como ventilação mecânica. Não existe AD4.",
+  "porAlt": [
+   "Errada: a AD1 é da atenção básica, para usuários estáveis com necessidade de cuidados de menor frequência.",
+   "Correta: a AD2 inclui prematuridade e baixo peso em bebês com necessidade de ganho ponderal.",
+   "Errada: a AD3 exige, além das condições da AD2, equipamento ou procedimento especial, o que o caso não descreve.",
+   "Errada: a portaria só prevê três modalidades; não existe AD4.",
+   "Errada: o bebê é elegível, pois a norma cita prematuridade e baixo peso com necessidade de ganho ponderal."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 4,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre a Equipe Multiprofissional de Apoio (EMAP), assinale a alternativa que corresponde a uma composição mínima da EMAP.",
+  "alts": [
+   "Médico, enfermeiro e técnico de enfermagem.",
+   "Enfermeiro, fisioterapeuta e assistente social.",
+   "Fisioterapeuta, psicólogo e odontólogo.",
+   "Médico, odontólogo e farmacêutico.",
+   "Terapeuta ocupacional, fonoaudiólogo e auxiliar de enfermagem."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 825/2016 (Atenção Domiciliar no SUS)",
+  "coment": "Na Portaria GM/MS 825/2016, a EMAD (equipe multiprofissional de atenção domiciliar) reúne médico, enfermeiro, fisioterapeuta ou assistente social e técnicos ou auxiliares de enfermagem. A EMAP, de apoio, tem no mínimo três profissionais de nível superior escolhidos entre assistente social, fisioterapeuta, fonoaudiólogo, nutricionista, odontólogo, psicólogo, farmacêutico e terapeuta ocupacional. Fisioterapeuta, psicólogo e odontólogo formam, portanto, composição mínima válida. Médico, enfermeiro e técnico ou auxiliar de enfermagem pertencem à EMAD, não à EMAP.",
+  "porAlt": [
+   "Errada: médico, enfermeiro e técnico de enfermagem compõem a EMAD, não a EMAP.",
+   "Errada: o enfermeiro não está entre as categorias da EMAP.",
+   "Correta: fisioterapeuta, psicólogo e odontólogo são três profissionais de nível superior da lista da EMAP.",
+   "Errada: o médico não integra a EMAP; ele é da EMAD.",
+   "Errada: o auxiliar de enfermagem é de nível médio e pertence à EMAD; a EMAP é só de nível superior."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 5,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Dentre as práticas terapêuticas da Política Nacional de Práticas Integrativas e Complementares (PNPIC), temos uma que consiste na utilização de águas minerais com propriedades medicinais, de modo preventivo ou curativo, em complemento a outros tratamentos de saúde. Assinale a alternativa que corresponde a essa prática.",
+  "alts": [
+   "Apiterapia.",
+   "Geoterapia.",
+   "Cromoterapia.",
+   "Bioenergética.",
+   "Crenoterapia."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 971/2006 (PNPIC), ampliada pela Portaria GM/MS 702/2018",
+  "coment": "A PNPIC (Portaria GM/MS 971/2006) já trazia o termalismo social e a crenoterapia: uso de águas minerais com propriedades medicinais, de modo preventivo ou curativo, em complemento a outros tratamentos. Apiterapia, geoterapia, cromoterapia e bioenergética entraram na política em 2018, pela Portaria GM/MS 702. Apiterapia usa produtos das abelhas; geoterapia, argila e minerais da terra; cromoterapia, as cores do espectro solar; bioenergética trabalha corpo e emoções pela respiração e pelo movimento. A atuação da enfermagem em PICS está regulada pela Res. COFEN 739/2024.",
+  "porAlt": [
+   "Errada: apiterapia usa produtos das abelhas, como mel, própolis e veneno, e não águas minerais.",
+   "Errada: geoterapia usa argila e outros elementos minerais da terra aplicados sobre o corpo.",
+   "Errada: cromoterapia usa as cores do espectro solar com finalidade terapêutica.",
+   "Errada: bioenergética é abordagem psicocorporal que trabalha emoções pela respiração e pelo movimento.",
+   "Correta: crenoterapia, ligada ao termalismo social, é o uso de águas minerais com propriedades medicinais."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 6,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "As curvas de Nelson de Moraes, nome em homenagem ao sanitarista brasileiro que as idealizou em 1959, são construídas a partir da distribuição proporcional dos óbitos por grupos etários em relação ao total de óbitos. Sobre isso, analise os itens abaixo:\nI. menores de 1 ano\nII. 1 a 9 anos\nIII. 10 a 19 anos\nIV. 20 a 49 anos\nV. 50 anos ou mais\nSão grupos etários considerados nas curvas de Nelson Moraes:",
+  "alts": [
+   "Todos os itens estão corretos.",
+   "Existem, apenas, quatro itens corretos.",
+   "Existem, apenas, três itens corretos.",
+   "Existem, apenas, dois itens corretos.",
+   "Existe, apenas, um item correto."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia & Saúde, 8ª ed., 2018",
+  "coment": "A curva de mortalidade proporcional de Nelson de Moraes (1959) distribui os óbitos em cinco grupos etários: menores de 1 ano, 1 a 4 anos, 5 a 19 anos, 20 a 49 anos e 50 anos ou mais. O formato resultante classifica o nível de saúde em quatro tipos: muito baixo (I), baixo (II), regular (III) e elevado (IV, em J, com predomínio de óbitos a partir dos 50 anos). Dos itens, estão corretos menores de 1 ano, 20 a 49 anos e 50 anos ou mais; os grupos 1 a 9 e 10 a 19 anos não existem na curva. São três itens corretos.",
+  "porAlt": [
+   "Errada: os grupos 1 a 9 e 10 a 19 anos não pertencem à curva, que usa 1 a 4 e 5 a 19 anos.",
+   "Errada: há dois itens errados, 1 a 9 anos e 10 a 19 anos.",
+   "Correta: só menores de 1 ano, 20 a 49 anos e 50 anos ou mais coincidem com os grupos da curva.",
+   "Errada: são três os grupos corretos, não dois; 20 a 49 anos também está na curva.",
+   "Errada: além de menores de 1 ano, também 20 a 49 e 50 anos ou mais são grupos da curva."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 7,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Analise a tabela abaixo sobre o número e a proporção de óbitos de pessoas com 50 anos de idade ou mais em duas regiões do Brasil em 2020.\nNúmero de óbitos de pessoas com 50 anos ou mais — REGIÃO X: 11.200; REGIÃO Y: 660; BRASIL: 540.000\nNúmero total de óbitos — REGIÃO X: 40.000; REGIÃO Y: 3.000; BRASIL: 1.500.000\nProporção de óbitos de pessoas com 50 anos ou mais (%) — REGIÃO X: 28%; REGIÃO Y: 22%; BRASIL: 36%\nDe acordo com a Razão de Mortalidade Proporcional, assinale a alternativa CORRETA.",
+  "alts": [
+   "O Brasil está classificado no 2º nível de desenvolvimento.",
+   "A região X está classificada no 5º nível de desenvolvimento.",
+   "As regiões X e Y estão classificadas no 4º nível de desenvolvimento.",
+   "Apenas a região Y está classificada no 4º nível de desenvolvimento.",
+   "O Brasil e as regiões X e Y estão classificadas no 3º nível de desenvolvimento."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia & Saúde, 8ª ed., 2018",
+  "coment": "A Razão de Mortalidade Proporcional (indicador de Swaroop e Uemura) é a proporção de óbitos de pessoas com 50 anos ou mais sobre o total de óbitos. Quanto maior, melhor o nível de saúde. Os níveis são: 1º, 75% ou mais; 2º, de 50% a 74%; 3º, de 25% a 49%; 4º, abaixo de 25%. Na tabela, o Brasil (36%) e a região X (28%) ficam no 3º nível, e só a região Y (22%) cai no 4º nível, o pior. Por isso a alternativa D é a correta.",
+  "porAlt": [
+   "Errada: 36% situa o Brasil no 3º nível; o 2º exige de 50% a 74% dos óbitos com 50 anos ou mais.",
+   "Errada: a classificação tem quatro níveis; com 28%, a região X está no 3º.",
+   "Errada: a região X, com 28%, está no 3º nível; só a Y, com 22%, está no 4º.",
+   "Correta: apenas a região Y, com 22%, fica abaixo de 25%, limite do 4º nível.",
+   "Errada: Brasil e região X estão no 3º nível, mas a região Y, com 22%, está no 4º."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 8,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "O Mais Médicos (PMMB) se somou a um conjunto de ações e iniciativas do governo federal para o fortalecimento do Sistema Único de Saúde (SUS). Sobre o PMMB, analise os itens abaixo:\nI. Diminuir a carência de médicos nas regiões prioritárias para o SUS, a fim de reduzir as desigualdades regionais na área da saúde.\nII. Aprimorar a formação médica no País e proporcionar maior experiência no campo de prática médica durante o processo de formação.\nIII. Estimular a realização de pesquisas aplicadas ao SUS.\nIV. Ampliar a oferta de especialização profissional nas áreas estratégicas para o SUS.\nV. Construir e aprimorar habilidades e competências por meio da inserção dos médicos em formação nos cenários de prática profissional vinculados ao SUS.\nAssinale a alternativa em que são considerados os objetivos específicos do PMMB.",
+  "alts": [
+   "Todos os itens estão corretos.",
+   "Existem, apenas, quatro itens corretos.",
+   "Existem, apenas, três itens corretos.",
+   "Existem, apenas, dois itens corretos.",
+   "Existe, apenas, um item correto."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 12.871/2013, art. 1º (Programa Mais Médicos), com as alterações da Lei 14.621/2023",
+  "coment": "O Programa Mais Médicos foi criado pela Lei 12.871/2013 e reestruturado pela Lei 14.621/2023. Seus objetivos combinam provimento e formação: diminuir a carência de médicos nas regiões prioritárias para reduzir desigualdades regionais; aprimorar a formação médica com maior experiência prática durante a formação; inserir os médicos em formação nos cenários de prática do SUS; estimular pesquisas aplicadas ao SUS; e ampliar a especialização em áreas estratégicas. A banca considerou os cinco itens objetivos específicos do programa. O ponto a reter é que o PMMB é política de provimento e de formação integrada ao serviço.",
+  "porAlt": [
+   "Correta: pelo gabarito oficial, os cinco itens são objetivos específicos do programa, de provimento e de formação.",
+   "Errada: pelo gabarito, todos os cinco itens são objetivos do PMMB, não apenas quatro.",
+   "Errada: estimular pesquisas e ampliar a especialização também foram considerados objetivos do programa.",
+   "Errada: o programa vai além do provimento e da formação de graduação; todos os itens foram considerados corretos.",
+   "Errada: o PMMB tem vários objetivos, de provimento, formação e pesquisa, e não apenas um."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 9,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Primeira Conferência Internacional sobre Promoção da Saúde, em novembro de 1986, foi um dos marcos fundamentais da Promoção da Saúde no mundo e apresentou o seguinte documento:",
+  "alts": [
+   "Carta de Ottawa.",
+   "Declaração de Sundsvall.",
+   "Declaração de Alma-Ata.",
+   "Declaração de Adelaide.",
+   "Relatório Lalonde."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Carta de Ottawa, 1ª Conferência Internacional sobre Promoção da Saúde (OMS, 1986)",
+  "coment": "A 1ª Conferência Internacional sobre Promoção da Saúde, em Ottawa, Canadá, em novembro de 1986, produziu a Carta de Ottawa. Ela define promoção da saúde como o processo de capacitar a comunidade para atuar na melhoria de sua qualidade de vida e saúde, e propõe cinco campos de ação: políticas públicas saudáveis, ambientes favoráveis, reforço da ação comunitária, desenvolvimento de habilidades pessoais e reorientação dos serviços de saúde. Alma-Ata (1978) tratou de cuidados primários; o Relatório Lalonde (1974) é anterior e canadense.",
+  "porAlt": [
+   "Correta: a Carta de Ottawa é o documento da 1ª Conferência Internacional sobre Promoção da Saúde, em 1986.",
+   "Errada: a Declaração de Sundsvall é da 3ª Conferência, em 1991, sobre ambientes favoráveis à saúde.",
+   "Errada: a Declaração de Alma-Ata é de 1978, da conferência sobre cuidados primários de saúde.",
+   "Errada: a Declaração de Adelaide é da 2ª Conferência, em 1988, sobre políticas públicas saudáveis.",
+   "Errada: o Relatório Lalonde é documento do governo canadense de 1974, anterior às conferências."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 10,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre o Programa Saúde na Hora, assinale a alternativa que NÃO corresponde a um indicador de monitoramento das equipes e unidades participantes do programa.",
+  "alts": [
+   "População cadastrada pelas equipes da USF.",
+   "Proporção de pessoas residentes no território adstrito, atendidas no turno.",
+   "Razão de coleta de material citopatológico do colo do útero.",
+   "Número de gestantes com seis ou mais consultas de pré-natal na Atenção Primária à Saúde.",
+   "Percentual de atendimentos de consulta de demanda espontânea no turno."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 930/2019, art. 6º (Programa Saúde na Hora)",
+  "coment": "A Portaria GM/MS 930/2019 criou o Programa Saúde na Hora, que financia o horário estendido das Unidades de Saúde da Família. O art. 6º divide os indicadores, extraídos dos sistemas de informação vigentes, em essenciais e de monitoramento, com ficha de qualificação no manual instrutivo do programa. Pelo gabarito oficial, população cadastrada, proporção de residentes do território atendidos no turno, razão de coleta de citopatológico e gestantes com seis ou mais consultas de pré-natal são indicadores do programa; o percentual de consultas de demanda espontânea no turno não é. A questão cobra a lista do programa.",
+  "porAlt": [
+   "Errada como resposta: a população cadastrada pelas equipes da USF é indicador do programa.",
+   "Errada como resposta: a proporção de residentes do território atendidos no turno é indicador do programa.",
+   "Errada como resposta: a razão de coleta de citopatológico do colo do útero é indicador do programa.",
+   "Errada como resposta: gestantes com seis ou mais consultas de pré-natal na APS é indicador do programa.",
+   "Correta: o percentual de consultas de demanda espontânea no turno não consta como indicador, segundo o gabarito oficial."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 11,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Realizada em Brasília, a 5ª Conferência Nacional de Saúde (CNS) promoveu o debate dos seguintes temas, EXCETO:",
+  "alts": [
+   "Implementação do Sistema Nacional de Saúde.",
+   "Programa de Saúde Materno-Infantil.",
+   "Sistema Nacional de Vigilância Epidemiológica.",
+   "Programa de Controle das Grandes Endemias.",
+   "Recursos humanos para as atividades em saúde."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.142/1990, art. 1º (Conferências de Saúde); Relatório Final da 5ª Conferência Nacional de Saúde, 1975",
+  "coment": "A 5ª Conferência Nacional de Saúde, em Brasília, em 1975, discutiu cinco temas: implementação do Sistema Nacional de Saúde (Lei 6.229/1975), Programa de Saúde Materno-Infantil, Sistema Nacional de Vigilância Epidemiológica, Programa de Controle das Grandes Endemias e Programa de Extensão das Ações de Saúde às Populações Rurais. Recursos humanos para as atividades em saúde foi o tema da 4ª CNS, de 1967. Hoje as conferências seguem a Lei 8.142/1990: a cada quatro anos, com representação dos vários segmentos sociais.",
+  "porAlt": [
+   "Errada como resposta: a implementação do Sistema Nacional de Saúde foi tema da 5ª CNS, no ano da Lei 6.229/1975.",
+   "Errada como resposta: o Programa de Saúde Materno-Infantil foi tema da 5ª CNS.",
+   "Errada como resposta: o Sistema Nacional de Vigilância Epidemiológica foi tema da 5ª CNS.",
+   "Errada como resposta: o Programa de Controle das Grandes Endemias foi tema da 5ª CNS.",
+   "Correta: recursos humanos para as atividades em saúde foi o tema da 4ª CNS, em 1967, e não da 5ª."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 12,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Dentre os instrumentos utilizados para a avaliação da Atenção Primária à Saúde, no Brasil, temos a lista Brasileira de Internações por Condições Sensíveis à Atenção Primária (PORTARIA Nº 221, DE 17 DE ABRIL DE 2008) utilizada como instrumento de avaliação, podendo ser aplicada para avaliar o desempenho do sistema de saúde nos âmbitos Nacional, Estadual e Municipal. Sobre isso, analise os itens abaixo:\nI. Febre reumática\nII. Ascaridíase\nIII. Pneumonias bacterianas\nIV. Diabetes melitus com complicações\nV. Anemia por deficiência de ferro\nSão consideradas condições sensíveis à Atenção Primária:",
+  "alts": [
+   "Todos os itens estão corretos.",
+   "Existem, apenas, quatro itens corretos.",
+   "Existem, apenas, três itens corretos.",
+   "Existem, apenas, dois itens corretos.",
+   "Existe, apenas, um item correto."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria SAS/MS 221/2008 (Lista Brasileira de Internações por Condições Sensíveis à Atenção Primária)",
+  "coment": "A Lista Brasileira de ICSAP (Portaria SAS/MS 221/2008) reúne 19 grupos de causas de internação que uma atenção primária oportuna e resolutiva deveria evitar. Febre reumática e ascaridíase estão no grupo das doenças preveníveis por imunização e condições sensíveis; a anemia por deficiência de ferro, no grupo das anemias; as pneumonias bacterianas têm grupo próprio; e o diabetes melitus, inclusive com complicações, também consta. Os cinco itens estão na lista. Taxa alta de ICSAP sugere baixa efetividade da APS no território.",
+  "porAlt": [
+   "Correta: febre reumática, ascaridíase, pneumonias bacterianas, diabetes com complicações e anemia ferropriva estão na lista.",
+   "Errada: os cinco itens constam da Lista Brasileira de ICSAP, não apenas quatro.",
+   "Errada: ascaridíase e anemia por deficiência de ferro também são condições sensíveis à APS.",
+   "Errada: além de pneumonias e diabetes, febre reumática, ascaridíase e anemia ferropriva também estão na lista.",
+   "Errada: todos os itens constam da lista da Portaria SAS/MS 221/2008."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 13,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A pesquisadora Barbara Starfield conceituou a Atenção Primária à Saúde (APS) e propôs os atributos para as ações e serviços da APS. Sobre isso, assinale a alternativa que corresponde a um atributo derivado da APS.",
+  "alts": [
+   "Acesso de primeiro contato",
+   "Longitudinalidade",
+   "Integralidade",
+   "Coordenação",
+   "Orientação familiar"
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Starfield B. Atenção primária: equilíbrio entre necessidades de saúde, serviços e tecnologia. UNESCO/Ministério da Saúde, 2002",
+  "coment": "Barbara Starfield descreveu quatro atributos essenciais da APS: acesso de primeiro contato, longitudinalidade, integralidade e coordenação do cuidado. Deles derivam três atributos: orientação familiar (considerar o contexto e a dinâmica da família), orientação comunitária (reconhecer as necessidades do território) e competência cultural (adaptar o cuidado às características culturais da população). Orientação familiar é, portanto, o único atributo derivado entre as alternativas. O PCATool mede esses mesmos atributos.",
+  "porAlt": [
+   "Errada: acesso de primeiro contato é atributo essencial, a porta de entrada preferencial do sistema.",
+   "Errada: longitudinalidade é atributo essencial, o vínculo e o cuidado ao longo do tempo.",
+   "Errada: integralidade é atributo essencial, a oferta de serviços para todas as necessidades comuns.",
+   "Errada: coordenação é atributo essencial, a continuidade e a articulação entre pontos da rede.",
+   "Correta: orientação familiar é atributo derivado, ao lado da orientação comunitária e da competência cultural."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 14,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Em uma cidade do interior de Pernambuco com 10.000 habitantes, houve uma epidemia de Dengue. Os dados da vigilância epidemiológica demonstraram a ocorrência de 4.000 casos sintomáticos e 2.800 pessoas assintomáticas, mas que apresentaram títulos elevados de anticorpos específicos e ainda 3.200 indivíduos não infectados. A incidência da infecção por Dengue nessa cidade foi de",
+  "alts": [
+   "28%",
+   "32%",
+   "40%",
+   "68%",
+   "72%"
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia & Saúde, 8ª ed., 2018",
+  "coment": "A pergunta é a incidência da infecção, não da doença. Infectados são os sintomáticos (4.000) e os assintomáticos com títulos elevados de anticorpos específicos (2.800), que também tiveram contato com o vírus: 6.800 pessoas. Dividindo pela população exposta (10.000), a incidência da infecção é 68%. Os 40% correspondem só aos casos sintomáticos (incidência da doença), os 28% só aos assintomáticos e os 32% aos não infectados. A dengue tem muitas formas inaparentes, por isso a soroprevalência supera a contagem de casos clínicos.",
+  "porAlt": [
+   "Errada: 28% são apenas os assintomáticos com anticorpos, uma parte dos infectados.",
+   "Errada: 32% corresponde aos não infectados, o complemento da incidência da infecção.",
+   "Errada: 40% é a incidência da doença sintomática, que ignora as infecções inaparentes.",
+   "Correta: sintomáticos mais assintomáticos com anticorpos somam 6.800 em 10.000 habitantes, ou 68%.",
+   "Errada: 72% não corresponde a nenhum grupo da população descrita."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 15,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Considerada um marco na história das Conferências Nacionais de Saúde no Brasil. Foi a primeira Conferência Nacional da Saúde (CNS) aberta à sociedade, e suas propostas foram contempladas tanto no texto da Constituição Federal de 1988 como nas leis orgânicas da saúde. Assinale a alternativa que corresponde a essa CNS.",
+  "alts": [
+   "Terceira.",
+   "Quarta.",
+   "Oitava.",
+   "Décima.",
+   "Décima segunda."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Relatório Final da 8ª Conferência Nacional de Saúde, 1986; Constituição Federal de 1988, arts. 196 a 200",
+  "coment": "A 8ª Conferência Nacional de Saúde, em Brasília, em 1986, foi a primeira aberta à participação da sociedade civil, com milhares de participantes. Seus eixos foram saúde como direito, reformulação do sistema nacional de saúde e financiamento do setor. O relatório final defendeu a saúde como direito de todos e dever do Estado e a criação de um sistema único, ideias que entraram na Constituição de 1988 (arts. 196 a 200) e nas Leis 8.080 e 8.142 de 1990. As conferências anteriores eram restritas a técnicos e gestores.",
+  "porAlt": [
+   "Errada: a 3ª CNS, de 1963, discutiu a municipalização, mas não foi aberta à sociedade.",
+   "Errada: a 4ª CNS, de 1967, tratou de recursos humanos para a saúde, com participação restrita.",
+   "Correta: a 8ª CNS, de 1986, foi a primeira aberta à sociedade e inspirou a Constituição e as leis orgânicas.",
+   "Errada: a 10ª CNS, de 1996, é posterior à Constituição e às leis orgânicas da saúde.",
+   "Errada: a 12ª CNS, de 2003, ocorreu muito depois da criação do SUS."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 16,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A atenção domiciliar (AD) é modalidade de atenção à saúde integrada às Redes de Atenção à Saúde (RAS), caracterizada por um conjunto de ações em saúde, prestadas em domicílio, garantindo continuidade de cuidados. Sobre o Serviço de Atenção Domiciliar (SAD), analise os itens abaixo:\nI. População municipal igual ou superior a 40.000 (quarenta mil) habitantes, com base na população mais recente estimada pela Fundação Instituto Brasileiro de Geografia e Estatística (IBGE).\nII. Hospital de referência no Município ou região a qual integra.\nIII. Cobertura de Serviço de Atendimento Móvel de Urgência (SAMU 192) habilitado e em funcionamento.\nIV. Núcleo de Apoio à Saúde da Família (NASF)\nSão requisitos para habilitação do SAD:",
+  "alts": [
+   "Apenas I, II e III estão corretos.",
+   "Apenas II, III e IV estão corretos.",
+   "Apenas II e III estão corretos.",
+   "Apenas I e III estão corretos.",
+   "I, II, III e IV estão corretos."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 825/2016 (Atenção Domiciliar no SUS)",
+  "coment": "Para habilitar o Serviço de Atenção Domiciliar, a Portaria GM/MS 825/2016 exige três requisitos: população igual ou superior a 20 mil habitantes, isoladamente ou por agrupamento de municípios; hospital de referência no município ou na região; e cobertura de SAMU 192 habilitado e em funcionamento. O item I erra o corte populacional (40 mil), e o NASF (item IV) nunca foi requisito. Ficam corretos apenas II e III. A atuação da enfermagem na atenção domiciliar está na Res. COFEN 766/2024.",
+  "porAlt": [
+   "Errada: o item I erra o corte, pois a portaria exige 20 mil habitantes ou mais, e não 40 mil.",
+   "Errada: o NASF não é requisito para habilitar o Serviço de Atenção Domiciliar.",
+   "Correta: hospital de referência e cobertura de SAMU 192 são requisitos; o corte populacional é 20 mil e o NASF não é exigido.",
+   "Errada: o item I está incorreto, e o hospital de referência (II) é requisito.",
+   "Errada: o corte populacional do item I está errado e o NASF do item IV não é requisito."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 17,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "O PCatool (Primary Care assessment tool), já validado em outros países, recebeu no Brasil o nome de instrumento de avaliação da Atenção Primária – PCatool-Brasil. Sobre o PCatool-Brasil, analise os itens abaixo:\nI. O manual do PCatool-Brasil foi publicado pelo Ministério da Saúde em 2010.\nII. O manual do PCatool-Brasil foi atualizado em 2020.\nIII. Possui as versões extensas e reduzidas: crianças, adolescentes, adultos e profissionais de saúde.\nIV. Identifica a presença e extensão dos atributos da APS, partindo da experiência das pessoas que utilizam os serviços, dos profissionais e dos gestores.\nAssinale a alternativa correta.",
+  "alts": [
+   "Apenas I, II e IV estão corretos.",
+   "Apenas II, III e IV estão corretos.",
+   "Apenas III e IV estão corretos.",
+   "Apenas I e III estão corretos.",
+   "I, II, III e IV estão corretos."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual do Instrumento de Avaliação da Atenção Primária à Saúde: PCATool-Brasil, 2020",
+  "coment": "O PCATool, criado por Barbara Starfield, mede a presença e a extensão dos atributos essenciais e derivados da APS. O Ministério da Saúde publicou o manual do PCATool-Brasil em 2010 e uma versão atualizada em 2020. Pelo gabarito oficial, o instrumento parte da experiência de usuários, profissionais e gestores (IV). O item III foi considerado errado porque generaliza as versões: nem todos os públicos citados têm versão extensa e reduzida, e o item inclui adolescentes, que não têm versão própria. Ficam corretos I, II e IV.",
+  "porAlt": [
+   "Correta: o manual é de 2010, foi atualizado em 2020 e avalia os atributos da APS pela experiência de quem usa e faz o serviço.",
+   "Errada: inclui o item III, que generaliza as versões do instrumento, e omite o I, também correto.",
+   "Errada: omite I e II, que estão corretos, e inclui III, considerado errado.",
+   "Errada: omite II e IV, corretos, e inclui o item III, considerado errado.",
+   "Errada: o item III está incorreto segundo o gabarito oficial."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 18,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre o Modelo de Atenção às Condições Crônicas (MACC) proposto por Eugênio Vilaça Mendes, assinale a alternativa CORRETA.",
+  "alts": [
+   "No nível 1, temos as subpopulações com diferentes fatores de riscos ligados aos comportamentos e aos estilos de vida (determinantes sociais da saúde proximais).",
+   "No nível 2, as subpopulações de condições de saúde muito complexas.",
+   "No nível 3, as subpopulações de pessoas com riscos individuais e/ou com condição crônica estabelecida, mas de baixo e médio riscos.",
+   "No nível 4, a população total e em relação à qual se intervirá sobre os determinantes sociais da saúde intermediários.",
+   "Nenhuma alternativa correta."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Mendes EV. O cuidado das condições crônicas na atenção primária à saúde. OPAS/CONASS, 2012",
+  "coment": "O Modelo de Atenção às Condições Crônicas (MACC) de Eugênio Vilaça Mendes tem cinco níveis. Nível 1: população total, com intervenções de promoção sobre os determinantes sociais intermediários. Nível 2: subpopulações com fatores de risco ligados a comportamentos e estilos de vida (determinantes proximais), com prevenção. Nível 3: pessoas com fator de risco biopsicológico ou condição crônica estabelecida de baixo e médio risco, com autocuidado apoiado. Nível 4: condição crônica de alto risco, com gestão da condição de saúde. Nível 5: condições muito complexas, com gestão de caso.",
+  "porAlt": [
+   "Errada: fatores de risco ligados a comportamentos e estilos de vida são o nível 2, não o 1.",
+   "Errada: condições de saúde muito complexas formam o nível 5, manejado por gestão de caso.",
+   "Correta: o nível 3 reúne pessoas com riscos individuais ou condição crônica estabelecida de baixo e médio risco.",
+   "Errada: a população total com intervenção sobre determinantes intermediários é o nível 1, não o 4.",
+   "Errada: a alternativa C descreve corretamente o nível 3 do MACC."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 19,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Um pesquisador deseja saber qual é a incidência da doença em um grupo inicialmente livre dela. Para isso, deve saber",
+  "alts": [
+   "o risco absoluto.",
+   "o risco atribuível.",
+   "o risco relativo.",
+   "o risco atribuível na população.",
+   "Nenhuma alternativa correta."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia & Saúde, 8ª ed., 2018",
+  "coment": "Risco absoluto é a incidência da doença em um grupo inicialmente livre dela, acompanhado por um período: casos novos divididos pela população em risco. É exatamente o que o pesquisador quer saber. Risco relativo é a razão entre a incidência nos expostos e nos não expostos e mede a força da associação. Risco atribuível é a diferença entre essas incidências, o excesso de risco devido à exposição. Risco atribuível na população é o excesso de doença na população geral que se deve à exposição.",
+  "porAlt": [
+   "Correta: a incidência em um grupo inicialmente livre da doença é o risco absoluto.",
+   "Errada: risco atribuível é a diferença de incidência entre expostos e não expostos.",
+   "Errada: risco relativo é a razão entre incidências de expostos e não expostos.",
+   "Errada: risco atribuível na população mede o excesso de doença na população geral devido à exposição.",
+   "Errada: a alternativa A está correta, pois a incidência em grupo livre da doença é o risco absoluto."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 20,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Ao se compararem os ensaios clínicos randomizados com os estudos observacionais de efeitos de tratamentos, assinale a alternativa que apresenta a principal vantagem dos ensaios clínicos randomizados.",
+  "alts": [
+   "Menos onerosos.",
+   "Resposta mais rápida.",
+   "Prevenção de confundimento.",
+   "Menos desafios éticos.",
+   "Nenhuma alternativa correta."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Fletcher RH, Fletcher SW, Fletcher GS. Epidemiologia clínica: elementos essenciais, 5ª ed., 2014",
+  "coment": "A principal vantagem do ensaio clínico randomizado sobre os estudos observacionais é a prevenção do confundimento. A alocação aleatória distribui entre os grupos, de forma equilibrada, tanto os fatores de confusão conhecidos quanto os desconhecidos, de modo que a diferença de desfecho pode ser atribuída à intervenção. Estudos observacionais só conseguem ajustar os fatores medidos. Em troca, o ensaio é mais caro, mais demorado e traz mais desafios éticos, porque o pesquisador decide quem recebe cada tratamento.",
+  "porAlt": [
+   "Errada: ensaios randomizados são mais onerosos que estudos observacionais.",
+   "Errada: ensaios exigem recrutamento e seguimento prospectivo, por isso costumam demorar mais.",
+   "Correta: a randomização equilibra os fatores de confusão, conhecidos e desconhecidos, entre os grupos.",
+   "Errada: o ensaio traz mais desafios éticos, pois o pesquisador aloca a intervenção.",
+   "Errada: a prevenção de confundimento, alternativa C, é a vantagem principal do ensaio randomizado."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 21,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre a taxa de prevalência, assinale a alternativa que apresenta um fator que pode influenciar no aumento dessa taxa.",
+  "alts": [
+   "Imigração de casos",
+   "Maior letalidade da doença",
+   "Imigração de pessoas sadias",
+   "Menor duração da doença",
+   "Aumento da taxa de cura da doença"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia & Saúde, 8ª ed., 2018",
+  "coment": "A prevalência é o estoque de casos existentes em um momento e depende da incidência e da duração da doença (P aproximadamente igual a I vezes D). Aumentam a prevalência: imigração de casos, emigração de pessoas sadias, maior incidência, maior duração da doença e tratamentos que prolongam a vida sem curar. Diminuem: maior letalidade, menor duração, aumento da cura, imigração de sadios e emigração de casos. Por isso a imigração de casos é o único fator que eleva a taxa entre as alternativas.",
+  "porAlt": [
+   "Correta: a imigração de casos acrescenta doentes ao numerador e eleva a prevalência.",
+   "Errada: maior letalidade retira casos por óbito e reduz a prevalência.",
+   "Errada: imigração de pessoas sadias aumenta o denominador e reduz a prevalência.",
+   "Errada: menor duração da doença reduz o estoque de casos e a prevalência.",
+   "Errada: o aumento da cura retira casos da população e reduz a prevalência."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 22,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Estratégia e-SUS APS faz referência ao processo de informatização qualificada do Sistema Único de Saúde (SUS). Sobre o Sistema de Informação em Saúde e-SUS APS, analise os itens abaixo:\nI. e-SUS Território\nII. e-SUS Atividade Coletiva\nIII. e-SUS Gestão\nIV. e-SUS Vacinação\nSão aplicativos para coleta dos dados do Sistema e-SUS APS:",
+  "alts": [
+   "I, II, III e IV estão corretos.",
+   "Apenas I, II e III estão corretos.",
+   "Apenas I e IV estão corretos.",
+   "Apenas I e III estão corretos.",
+   "Apenas II e IV estão corretos."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.412/2013 (SISAB e Estratégia e-SUS AB)",
+  "coment": "A Estratégia e-SUS APS alimenta o SISAB (Portaria GM/MS 1.412/2013) por dois sistemas, o Prontuário Eletrônico do Cidadão (PEC) e a Coleta de Dados Simplificada (CDS), e por aplicativos móveis. Entre os aplicativos estão o e-SUS Território, usado por ACS e ACE no cadastro e nas visitas domiciliares; o e-SUS Atividade Coletiva, para registrar grupos e ações coletivas; o e-SUS Vacinação, para registrar doses em campanhas e ações extramuros; e o e-SUS Gestão, para gestores acompanharem os dados. Pelo gabarito oficial, os quatro itens estão corretos.",
+  "porAlt": [
+   "Correta: Território, Atividade Coletiva, Gestão e Vacinação são aplicativos da Estratégia e-SUS APS.",
+   "Errada: o e-SUS Vacinação também é aplicativo da estratégia, usado em ações extramuros.",
+   "Errada: e-SUS Atividade Coletiva e e-SUS Gestão também são aplicativos da estratégia.",
+   "Errada: omite o e-SUS Atividade Coletiva e o e-SUS Vacinação, também aplicativos do e-SUS APS.",
+   "Errada: omite o e-SUS Território, aplicativo dos ACS, e o e-SUS Gestão."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 23,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Ofertar o cuidado, reconhecendo as diferenças nas condições de vida e saúde e de acordo com as necessidades das pessoas, considerando que o direito à saúde passa pelas diferenciações sociais e deve atender à diversidade. Sem qualquer tipo de discriminação, com estratégias que permitam minimizar desigualdades de maneira que impacte na autonomia e na situação de saúde. O texto se refere ao seguinte princípio do SUS:",
+  "alts": [
+   "Universalidade",
+   "Integralidade",
+   "Equidade",
+   "Cuidado centrado na pessoa",
+   "Coordenação do cuidado"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), princípios e diretrizes",
+  "coment": "O texto é a definição de equidade da PNAB (Portaria GM/MS 2.436/2017): ofertar o cuidado reconhecendo as diferenças nas condições de vida e saúde, de acordo com as necessidades das pessoas, sem discriminação, para minimizar desigualdades. A PNAB tem três princípios: universalidade, equidade e integralidade. Cuidado centrado na pessoa e coordenação do cuidado são diretrizes, ao lado de regionalização, territorialização, população adscrita, resolutividade, longitudinalidade, ordenação da rede e participação da comunidade.",
+  "porAlt": [
+   "Errada: universalidade é o acesso universal e contínuo a serviços de qualidade, sem tratar de diferenças de necessidade.",
+   "Errada: integralidade é o conjunto de serviços que atende a todas as necessidades, da promoção aos cuidados paliativos.",
+   "Correta: tratar desigualmente os desiguais, conforme as necessidades e sem discriminação, é a equidade.",
+   "Errada: cuidado centrado na pessoa é diretriz da PNAB, não princípio, e trata de autonomia e autocuidado.",
+   "Errada: coordenação do cuidado é diretriz da PNAB, ligada ao papel da AB como centro de comunicação da rede."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 24,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "O Núcleo Ampliado de Saúde da Família e Atenção Básica (Nasf-AB) se constitui uma equipe multiprofissional e interdisciplinar composta por categorias de profissionais da saúde, complementar às equipes que atuam na Atenção Básica. Assinale a alternativa da ocupação que NÃO compõe o NASF-AB.",
+  "alts": [
+   "Médico Acupunturista",
+   "Médico Veterinário",
+   "Arte educador",
+   "Profissional de Educação Física",
+   "Massoterapeuta"
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Nasf-AB; Portaria GM/MS 635/2023 (eMulti)",
+  "coment": "A PNAB de 2017 lista as ocupações que podem compor o Nasf-AB: médico acupunturista, assistente social, profissional ou professor de educação física, farmacêutico, fisioterapeuta, fonoaudiólogo, médico ginecologista e obstetra, médico homeopata, nutricionista, médico pediatra, psicólogo, médico psiquiatra, terapeuta ocupacional, médico geriatra, médico internista, médico do trabalho, médico veterinário, profissional de arte e educação (arte educador) e sanitarista. Massoterapeuta não consta. Desde a Portaria GM/MS 635/2023, o Nasf-AB foi substituído pelas equipes Multiprofissionais (eMulti).",
+  "porAlt": [
+   "Errada como resposta: o médico acupunturista está na lista de ocupações do Nasf-AB.",
+   "Errada como resposta: o médico veterinário integra a lista do Nasf-AB, ligado à saúde ambiental e zoonoses.",
+   "Errada como resposta: o profissional com formação em arte e educação compõe a lista do Nasf-AB.",
+   "Errada como resposta: o profissional de educação física está entre as ocupações do Nasf-AB.",
+   "Correta: massoterapeuta não está entre as ocupações previstas para o Nasf-AB na PNAB de 2017."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 25,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Atenção Básica é responsável pela atenção à saúde de populações que apresentem vulnerabilidades sociais específicas. De acordo com a PORTARIA Nº 2.436, DE 21 DE SETEMBRO DE 2017, analise os itens abaixo:\nI. Equipe de Saúde da Família Ribeirinha (eSFR)\nII. Equipes de Saúde da Família Fluviais (eSFF)\nIII. Equipe de Consultório na Rua (eCR)\nIV. Equipe de Atenção Básica Prisional (eABP)\nV. Equipe Multidisciplinar de Saúde Indígena (eMSI)\nSão consideradas equipes de Atenção Básica para Populações Específicas nessa Portaria:",
+  "alts": [
+   "Todos os itens estão corretos.",
+   "Existem, apenas, quatro itens corretos.",
+   "Existem, apenas, três itens corretos.",
+   "Existem, apenas, dois itens corretos.",
+   "Existe, apenas, um item correto."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), equipes de Atenção Básica para populações específicas",
+  "coment": "A PNAB (Portaria GM/MS 2.436/2017) prevê equipes de Atenção Básica para populações específicas: Equipe de Saúde da Família Ribeirinha (eSFR), Equipe de Saúde da Família Fluvial (eSFF), Equipe de Consultório na Rua (eCR) e Equipe de Atenção Básica Prisional (eABP), esta ligada à política de saúde das pessoas privadas de liberdade. A Equipe Multidisciplinar de Saúde Indígena (EMSI) pertence ao Subsistema de Atenção à Saúde Indígena (Lei 9.836/1999), coordenado pela SESAI, e não está nessa lista da PNAB. São quatro itens corretos.",
+  "porAlt": [
+   "Errada: a Equipe Multidisciplinar de Saúde Indígena é do Subsistema de Saúde Indígena, não da lista da PNAB.",
+   "Correta: eSFR, eSFF, eCR e eABP são as equipes para populações específicas; a EMSI fica fora.",
+   "Errada: além de três, também a equipe prisional (eABP) consta da portaria, somando quatro.",
+   "Errada: há quatro equipes corretas, incluindo as ribeirinhas, fluviais, de rua e prisionais.",
+   "Errada: quatro dos cinco itens são equipes de populações específicas da PNAB."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 26,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre o DECRETO Nº 7.508, DE 28 DE JUNHO DE 2011, assinale a alternativa INCORRETA.",
+  "alts": [
+   "O planejamento da saúde é obrigatório para os entes públicos e será indutor de políticas para a iniciativa privada.",
+   "O Mapa da Saúde será utilizado na identificação das necessidades de saúde e orientará o planejamento integrado dos entes federativos, contribuindo para o estabelecimento de metas de saúde.",
+   "As Comissões Intergestores pactuarão as regras de continuidade do acesso às ações e aos serviços de saúde na respectiva área de atuação.",
+   "O acordo de colaboração entre os entes federativos para a organização da rede interfederativa de atenção à saúde será firmado por meio de Contrato Organizativo da Ação Pública da Saúde.",
+   "Anualmente, o Ministério da Saúde consolidará e publicará as atualizações da Relação Nacional de Ações e Serviços de Saúde – RENASES."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, art. 22, parágrafo único",
+  "coment": "O Decreto 7.508/2011, que regulamenta a Lei 8.080/1990, manda o Ministério da Saúde consolidar e publicar as atualizações da RENASES a cada dois anos (art. 22, parágrafo único), não anualmente; a RENAME também é bienal. As demais afirmativas reproduzem o decreto: o planejamento é obrigatório para os entes públicos e indutor de políticas para a iniciativa privada; o Mapa da Saúde orienta o planejamento integrado e as metas; as Comissões Intergestores pactuam as regras de continuidade do acesso; e o acordo de colaboração da rede interfederativa é o Contrato Organizativo da Ação Pública da Saúde (COAP).",
+  "porAlt": [
+   "Errada como resposta: o planejamento é obrigatório para os entes públicos e indutor de políticas para a iniciativa privada.",
+   "Errada como resposta: o Mapa da Saúde identifica necessidades e orienta o planejamento integrado e as metas de saúde.",
+   "Errada como resposta: as Comissões Intergestores pactuam as regras de continuidade do acesso na sua área de atuação.",
+   "Errada como resposta: o COAP é o instrumento do acordo de colaboração da rede interfederativa.",
+   "Correta: a RENASES é consolidada e publicada a cada dois anos, e não anualmente."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 27,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A taxa de mortalidade calculada, dividindo-se o total de óbitos, em determinado período, pela população calculada para a metade do período, corresponde",
+  "alts": [
+   "ao Coeficiente Geral de Mortalidade.",
+   "à Mortalidade Proporcional.",
+   "ao Indicador de Swaroop-Uemura.",
+   "à Mortalidade Proporcional por Causas.",
+   "a nenhuma das alternativas."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "RIPSA, Indicadores Básicos para a Saúde no Brasil, 2ª ed., 2008",
+  "coment": "O Coeficiente Geral de Mortalidade (taxa bruta de mortalidade) é o total de óbitos de um período dividido pela população estimada para a metade do período, geralmente multiplicado por mil. Por usar a população no denominador, estima o risco de morrer, mas é influenciado pela estrutura etária. A Mortalidade Proporcional tem o total de óbitos no denominador, não a população. O indicador de Swaroop-Uemura é a proporção de óbitos de 50 anos ou mais sobre o total de óbitos. A Mortalidade Proporcional por Causas é a fração dos óbitos devida a uma causa.",
+  "porAlt": [
+   "Correta: óbitos totais divididos pela população do meio do período é o Coeficiente Geral de Mortalidade.",
+   "Errada: a Mortalidade Proporcional divide óbitos de um grupo pelo total de óbitos, não pela população.",
+   "Errada: o indicador de Swaroop-Uemura é a proporção de óbitos de 50 anos ou mais sobre o total de óbitos.",
+   "Errada: a Mortalidade Proporcional por Causas é a fração do total de óbitos devida a determinada causa.",
+   "Errada: a alternativa A descreve exatamente o cálculo apresentado."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 29,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "É um tipo de investigação clínico-epiderniológica, retrospectiva, a qual compara um grupo de pacientes que realmente possuem a doença ou atributo de interesse em estudo, com um grupo que sabidamente não possui a doença ou atributo de interesse em estudo. Investiga-se, em cada grupo, a frequência de fatores supostamente de risco e que estariam associados ao processo de doença. Assinale a alternativa que indica o tipo de estudo descrito.",
+  "alts": [
+   "Seccional.",
+   "Ecológico.",
+   "Série de casos.",
+   "Caso-controle.",
+   "Coorte retrospectiva."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia & Saúde, 8ª ed., 2018",
+  "coment": "O estudo caso-controle parte do desfecho: seleciona pessoas que têm a doença (casos) e pessoas sem a doença (controles) e investiga, para trás, a frequência de exposição aos fatores de risco em cada grupo. A medida de associação é a razão de chances (odds ratio). É rápido e barato, bom para doenças raras, mas sujeito a viés de memória e de seleção. A coorte, mesmo retrospectiva, parte da exposição e segue até o desfecho. O estudo seccional mede exposição e desfecho no mesmo momento.",
+  "porAlt": [
+   "Errada: o estudo seccional mede exposição e desfecho ao mesmo tempo, sem partir de grupos com e sem a doença.",
+   "Errada: o estudo ecológico usa grupos ou populações como unidade de análise, não indivíduos.",
+   "Errada: a série de casos descreve doentes sem grupo de comparação.",
+   "Correta: comparar doentes e não doentes quanto à exposição prévia define o caso-controle.",
+   "Errada: a coorte retrospectiva parte da exposição registrada no passado e segue até o desfecho."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 30,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Estratégia Saúde da Família (ESF) é operacionalizada por equipes de Saúde da Família, compostas majoritariamente pelos profissionais de enfermagem. Analise as afirmativas abaixo sobre as quatro dimensões que envolvem o trabalho da enfermagem e coloque V nas Verdadeiras e F nas Falsas.\n( ) A do cuidado aos indivíduos ou grupos desde a concepção até a morte\n( ) A educativa, que inclui a educação permanente e continuada no trabalho dos membros da equipe de enfermagem e a educação em saúde dos usuários\n( ) A administrativo-gerencial, que envolve a coordenação e organização do trabalho de enfermagem e a administração do espaço assistencial e institucional\n( ) A investigação/pesquisa, que contempla a produção do conhecimento necessário para a qualificação da práxis\nAssinale a alternativa que indica a sequência CORRETA.",
+  "alts": [
+   "F-F-V-V",
+   "F-F-F-V",
+   "V-V-V-F",
+   "V-V-V-V",
+   "V-V-F-V"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), atribuições do enfermeiro; Lei 7.498/1986, art. 11",
+  "coment": "O trabalho da enfermagem na Estratégia Saúde da Família se organiza em quatro dimensões: assistir (cuidado a indivíduos, famílias e grupos em todos os ciclos de vida, da concepção à morte), educar (educação permanente da equipe e educação em saúde dos usuários), gerenciar (coordenação do trabalho de enfermagem e da unidade) e pesquisar (produzir conhecimento para qualificar a prática). A PNAB atribui ao enfermeiro consulta, procedimentos, grupos, educação permanente da equipe e planejamento e gerenciamento das ações. As quatro afirmativas são verdadeiras.",
+  "porAlt": [
+   "Errada: as dimensões do cuidado e educativa também são verdadeiras.",
+   "Errada: cuidado, educação e gerência também são dimensões do trabalho da enfermagem.",
+   "Errada: a investigação e pesquisa também é dimensão do trabalho da enfermagem.",
+   "Correta: cuidar, educar, gerenciar e pesquisar são as quatro dimensões do trabalho da enfermagem na ESF.",
+   "Errada: a dimensão administrativo-gerencial é verdadeira e está prevista nas atribuições do enfermeiro."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o Processo de Enfermagem (PE) na Atenção Básica, analise as afirmativas abaixo:\nI. A implementação do PE nos serviços de saúde se torna precária ou ausente devido a falhas, como a oposição de alguns profissionais em pôr em prática o PE nas consultas de enfermagem, muitas vezes por falta de conhecimento devido à deficiência na sua formação acadêmica e ao desinteresse deste à adesão do PE em sua rotina.\nII. A utilização da Sistematização da Assistência de Enfermagem (SAE) em Unidade Básica de Saúde (UBS) guia o atendimento dos usuários, proporcionando qualidade de atendimento na assistência de enfermagem e contribuindo para a valorização da categoria profissional.\nIII. Identifica-se que o enfermeiro na Atenção Básica (AB) irá se destacar pelo cuidado que, prestado aos usuários por meio da consulta de enfermagem, consegue executar, valorizando uma assistência personalizada e integral ao usuário desse serviço.\nEstá CORRETO o que se afirma em",
+  "alts": [
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III.",
+   "II, apenas."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Consulta de enfermagem",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024 (Processo de Enfermagem), art. 5º",
+  "coment": "A Res. COFEN 736/2024, que revogou a 358/2009, manda implementar o Processo de Enfermagem em todo ambiente onde ocorre cuidado de enfermagem, e a consulta de enfermagem na atenção básica segue suas cinco etapas: Avaliação, Diagnóstico, Planejamento, Implementação e Evolução. A literatura aponta que a implantação falha por resistência de profissionais e por formação deficiente (I); a sistematização guia o atendimento, qualifica a assistência e valoriza a categoria (II); e a consulta permite cuidado personalizado e integral (III). As três afirmativas estão corretas.",
+  "porAlt": [
+   "Errada: omite III, também correta, pois a consulta de enfermagem garante assistência personalizada e integral.",
+   "Errada: omite II, também correta, já que a sistematização qualifica o atendimento na UBS.",
+   "Errada: omite I, também correta, que descreve barreiras reais à implantação do PE.",
+   "Correta: barreiras de implantação, benefícios da sistematização e valor da consulta de enfermagem estão corretos.",
+   "Errada: I e III também estão corretas."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo o Manual de Atenção Integral às Doenças Prevalentes na Infância (AIDPI), o estado nutricional de todas as crianças com idade inferior a 2 meses de vida, que chegam doentes à unidade de saúde, deve ser avaliado pelo profissional que realiza o atendimento. Sobre o tema, analise as proposições abaixo:\nI. Para avaliar o estado nutricional da criança, o enfermeiro deve questionar a mãe, ou o cuidador principal, no sentido de saber se a criança apresenta dificuldade para se alimentar e quantas vezes se alimenta por dia, se mama no peito ou se perdeu peso nos últimos dias.\nII. O enfermeiro deve verificar o peso da criança, registrar no gráfico de avaliação do peso para a idade da Organização Mundial de Saúde, presente na caderneta da criança e determinar se este está adequado ou não.\nIII. São classificadas como crianças com problemas graves de nutrição ou de alimentação aquelas que, durante a avaliação do enfermeiro, apresentam peso para a idade e sexo abaixo de -2 escores Z; ganho de peso inferior a 600g/mês; não mamam em livre demanda e recebem outro leite não humano.\nIV. Durante a avaliação do peso da criança, o enfermeiro identificou que a curva de crescimento estava em declínio. A conduta adequada nesse caso será encaminhá-la para consulta com pediatra.\nEstão CORRETAS apenas",
+  "alts": [
+   "I, II e III, apenas.",
+   "II, III e IV, apenas.",
+   "I e III, apenas.",
+   "II e IV, apenas.",
+   "III e IV, apenas."
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.130/2015 (PNAISC); Manual AIDPI Neonatal (MS/OPAS), quadro de nutrição do menor de 2 meses",
+  "coment": "Na AIDPI Neonatal, o enfermeiro pesa a criança e marca o peso para a idade no gráfico da OMS da Caderneta (II), e curva em declínio exige avaliação médica, por isso o gabarito aceita o encaminhamento (IV). O item III está errado: peso abaixo de menos 2 escores z, ganho de peso insuficiente e uso de outro leite são critérios de problema de alimentação ou peso baixo, manejado na unidade com orientação e retorno, e não de problema grave de nutrição. Pelo gabarito, o item I também está errado: pela AIDPI, pergunta-se sobre dificuldade para alimentar, aleitamento, número de mamadas e outros alimentos ou líquidos; a perda de peso é verificada na pesagem.",
+  "porAlt": [
+   "Errada: inclui I e III, considerados errados pela banca, e omite IV.",
+   "Errada: inclui III, que rotula como problema grave critérios de problema de alimentação ou peso baixo.",
+   "Errada: I e III foram considerados incorretos pela banca.",
+   "Correta: pesar e registrar no gráfico da OMS e encaminhar a curva em declínio são as condutas aceitas pela banca.",
+   "Errada: o item III está incorreto, pois mistura critérios de classificações diferentes."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a exposição a aparelhos eletrônicos/telas na infância, analise as proposições abaixo:\nI. Crianças menores de 2 anos não devem ser expostas a aparelhos eletrônicos/telas, considerando que esses aparelhos reduzem a convivência familiar e social e impactam negativamente na construção dos laços afetivos.\nII. As crianças de 2 a 5 anos, quando expostas aos aparelhos eletrônicos/telas, podem utilizá-los por, no máximo, até duas horas por dia e sempre com supervisão de pais/cuidadores/responsáveis.\nIII. O atraso no desenvolvimento da fala e da linguagem é frequente em bebês que ficam passivamente expostos a aparelhos eletrônicos/telas, por períodos prolongados.\nIV. A luz azul emitida pela maioria dos aparelhos eletrônicos/telas contribui para o bloqueio da melatonina, provoca maior dificuldade para dormir à noite e manter a qualidade do sono profundo. Essa exposição também concorre para o aumento de pesadelos e terrores noturnos.\nEstão CORRETAS",
+  "alts": [
+   "I, II e III, apenas.",
+   "I, II e IV, apenas.",
+   "I, III e IV, apenas",
+   "II, III e IV, apenas.",
+   "I, II, III e IV."
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Sociedade Brasileira de Pediatria. Manual de Orientação Menos Telas, Mais Saúde, 2019",
+  "coment": "A Sociedade Brasileira de Pediatria (2019) recomenda evitar a exposição a telas antes dos 2 anos, mesmo de forma passiva. Entre 2 e 5 anos, o limite é de 1 hora por dia, sempre com supervisão, e não de 2 horas; por isso o item II está errado. Entre 6 e 10 anos, 1 a 2 horas; entre 11 e 18 anos, 2 a 3 horas. A exposição passiva prolongada se associa a atraso de fala e linguagem (III), e a luz azul das telas inibe a melatonina, piora o início e a qualidade do sono e se associa a pesadelos e terrores noturnos (IV). Corretas: I, III e IV.",
+  "porAlt": [
+   "Errada: inclui II, que dobra o limite de 1 hora por dia recomendado para 2 a 5 anos.",
+   "Errada: inclui II, com limite errado, e omite III, sobre atraso de fala.",
+   "Correta: evitar telas antes dos 2 anos, atraso de linguagem e prejuízo do sono pela luz azul estão corretos.",
+   "Errada: II está incorreto e falta I, que proíbe telas antes dos 2 anos.",
+   "Errada: o item II está incorreto, pois o limite de 2 a 5 anos é 1 hora por dia."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na atenção ao adolescente, sobre o que é importante para o enfermeiro avaliar durante o exame físico, analise as afirmativas abaixo e coloque V nas Verdadeiras e F nas Falsas.\n( ) Alterações na pele\n( ) Avaliação da capacidade visual e auditiva\n( ) Avaliação das condições de higiene e integridade da cavidade oral\n( ) Desenvolvimento físico-pubertário\nAssinale a alternativa que indica a sequência CORRETA.",
+  "alts": [
+   "F-F-V-V",
+   "V-V-V-V",
+   "V-V-V-F",
+   "F-F-F-V",
+   "V-V-F-V"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Adolescente",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Proteger e cuidar da saúde de adolescentes na atenção básica, 2017",
+  "coment": "No exame físico do adolescente, o enfermeiro avalia a pele (acne, lesões, sinais de violência ou de automutilação), a acuidade visual e auditiva, a higiene e a integridade da cavidade oral e o desenvolvimento físico e puberal pelos estágios de Tanner, além de peso, altura, IMC, pressão arterial e coluna. Todas as afirmativas são verdadeiras. A consulta inclui também a conversa a sós, com sigilo garantido, exceto em risco à vida ou violência, quando a comunicação é obrigatória.",
+  "porAlt": [
+   "Errada: alterações de pele e avaliação visual e auditiva também fazem parte do exame do adolescente.",
+   "Correta: pele, visão e audição, cavidade oral e desenvolvimento puberal são avaliações do exame físico do adolescente.",
+   "Errada: o desenvolvimento físico-puberal, pelos estágios de Tanner, também é avaliado.",
+   "Errada: pele, visão, audição e saúde bucal também devem ser avaliadas.",
+   "Errada: a higiene e a integridade da cavidade oral fazem parte do exame físico do adolescente."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o cuidado de enfermagem com o idoso que sofre violência, assinale a alternativa CORRETA.",
+  "alts": [
+   "A violência não costuma ferir a dignidade da pessoa, pois ela ocorre geralmente em relações de confiança com familiares.",
+   "O fenômeno violento sempre passa despercebido pelos profissionais enfermeiros, pois estes não estão preparados para identificar casos de maus-tratos com idosos.",
+   "No caso de suspeitas de violência contra o idoso, é importante o enfermeiro realizar visitas e considerar o cuidado às vítimas como parte da atenção integral a pessoa idosa.",
+   "Agressões verbais, como palavras depreciativas que possam ofender a identidade, dignidade e autoestima do idoso, só são consideradas violência se forem denunciadas pelo próprio idoso.",
+   "Quanto mais velho e mais dependente, menor será a possibilidade de uma pessoa idosa ser vítima da violência."
+  ],
+  "gab": 2,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Lei 10.741/2003 (Estatuto da Pessoa Idosa), art. 19",
+  "coment": "A violência contra a pessoa idosa fere sua dignidade e costuma ocorrer justamente em relações de confiança, com familiares e cuidadores. Diante da suspeita, o enfermeiro deve investigar, realizar visitas domiciliares, acompanhar a vítima e tratar o cuidado como parte da atenção integral. O Estatuto da Pessoa Idosa (art. 19) torna a suspeita ou confirmação de violência objeto de notificação compulsória pelos serviços de saúde. Violência psicológica, como palavras depreciativas, é violência independentemente de denúncia, e o risco cresce com a idade e a dependência.",
+  "porAlt": [
+   "Errada: a violência fere a dignidade da pessoa idosa, e ocorrer em relação de confiança agrava o dano.",
+   "Errada: a violência pode passar despercebida, mas o enfermeiro deve ser preparado para identificá-la e notificar.",
+   "Correta: na suspeita, visitas e acompanhamento da vítima fazem parte da atenção integral à pessoa idosa.",
+   "Errada: agressão verbal é violência psicológica mesmo sem denúncia, e a suspeita já exige notificação pelo serviço.",
+   "Errada: quanto mais velho e dependente, maior o risco de a pessoa idosa sofrer violência."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A prevenção, detecção, tratamento e gestão de infecções de feridas continuam a ser uma preocupação global. A infecção de feridas é uma manifestação complexa, na qual os microrganismos superam o sistema imunológico do hospedeiro, considerada um dos desafios mais comuns e sérios que dificultam o processo de cicatrização de feridas. Lesões infectadas podem ser dolorosas, secretivas, fétidas e são apontadas como agravo na vida do paciente. Sobre a escolha de cobertura para tratamento de lesões fétidas, assinale a alternativa CORRETA.",
+  "alts": [
+   "Ácido graxo essencial.",
+   "Coberturas à base de prata.",
+   "Silicone.",
+   "Espuma de poliuretano.",
+   "Coberturas absorventes."
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "International Wound Infection Institute (IWII). Wound Infection in Clinical Practice, 2022; Resolução COFEN 787/2025",
+  "coment": "O odor fétido de uma ferida reflete alta carga microbiana, muitas vezes com anaeróbios, e é sinal de infecção local ou biofilme. Por isso pede cobertura antimicrobiana: a prata reduz a carga bacteriana e, em geral combinada ao carvão ativado, controla o odor. Ácido graxo essencial hidrata e protege pele íntegra e granulação, sem ação antimicrobiana. Silicone é camada de contato atraumática. Espuma de poliuretano e coberturas absorventes manejam exsudato, mas sozinhas não tratam a causa do odor. A atuação do enfermeiro em lesões cutâneas é regulada pela Res. COFEN 787/2025.",
+  "porAlt": [
+   "Errada: o ácido graxo essencial hidrata e protege a pele, sem ação sobre a carga bacteriana que causa o odor.",
+   "Correta: a prata é antimicrobiana, reduz a carga bacteriana e, associada ao carvão ativado, controla o odor.",
+   "Errada: o silicone é camada de contato atraumática, indicada para proteger pele e leito frágeis.",
+   "Errada: a espuma de poliuretano absorve exsudato, mas sem antimicrobiano não age sobre o odor.",
+   "Errada: coberturas apenas absorventes controlam exsudato, mas não reduzem a carga microbiana."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A limpeza de feridas é definida como a “remoção ativa de contaminantes superficiais, detritos soltos, tecidos não viáveis não aderidos, microorganismos e/ou restos de curativos anteriores da superfície da ferida e da pele circundante”, com o intuito de contribuir com o processo cicatricial. Partindo desse princípio, analise as afirmativas abaixo:\nI. A irrigação envolve um processo de lavagem de uma ferida com jato forte e rápido de solução, a fim de remover detritos e tecido necrótico\nII. A imersão envolve o enxague de toda a ferida com uma solução para ajudar a soltar os detritos e limpar as feridas.\nIII. O desbridamento envolve a remoção de tecido desvitalizado exsudato e colônias bacterianas de uma ferida.\nIV. A remoção ativa de fluido geralmente se refere à drenagem ou remoção de exsudato ou fluido, utilizando-se técnicas como terapia de feridas com pressão negativa.\nEstão CORRETAS",
+  "alts": [
+   "apenas I e II.",
+   "apenas II e III.",
+   "apenas III e IV.",
+   "apenas II e IV.",
+   "I, II, III e IV."
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "International Wound Infection Institute (IWII). Wound Infection in Clinical Practice, 2022",
+  "coment": "Pelo consenso do IWII (2022), a limpeza da ferida combina técnicas. Irrigação é a lavagem com fluxo contínuo de solução em pressão controlada, suficiente para remover detritos sem lesar o tecido de granulação; jato forte e rápido traumatiza o leito, por isso o item I está errado. Imersão é manter a ferida embebida na solução por um tempo para amolecer os detritos, não o enxágue descrito no item II. Desbridamento é a remoção de tecido desvitalizado, exsudato e colônias bacterianas (III), e a remoção ativa de fluido usa técnicas como a terapia por pressão negativa (IV).",
+  "porAlt": [
+   "Errada: a irrigação não usa jato forte e rápido, e a imersão não é enxágue da ferida.",
+   "Errada: a imersão é embebição prolongada para amolecer detritos, não enxágue; III está correta.",
+   "Correta: desbridamento remove tecido desvitalizado e bactérias, e a pressão negativa promove a remoção ativa de fluido.",
+   "Errada: II descreve mal a imersão, e III, sobre desbridamento, está correta.",
+   "Errada: I e II estão incorretas; jato forte lesa o leito e imersão não é enxágue."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Estima-se que quase um quarto da população mundial esteja infectada pelo Mycobacterium tuberculosis, agente etiológico da Tuberculose (TB). Uma grande preocupação do Ministério da Saúde para o controle da TB é a identificação da “infecção latente pelo Mycobacterium tuberculosis” (ILTB). Quanto a esse fato, leia as afirmativas abaixo:\nI. O tratamento da ILTB é uma das principais estratégias para a interrupção da cadeia de transmissão da doença, contribuindo substancialmente para o controle da TB.\nII. Uma ação fundamental no controle da ILTB é conhecer o perfil clínico e sociodemográfico das pessoas tratadas para a ILTB.\nIII. O aumento do número de casos da doença ativa interrompe a cadeia de transmissão da TB.\nIV. É considerado um caso de ILTB o indivíduo infectado pelo M. tuberculosis, identificado por meio de prova tuberculínica (PT) ou por ensaio de liberação do interferon-gama (IGRA), desde que adequadamente descartada a TB ativa.\nV. Inicia-se o tratamento sem prova tuberculínica (PT) ou ensaio de liberação do interferon-gama (IGRA) para as pessoas com neoplasias de cabeça e pescoço, linfomas e outras neoplasias hematológicas.\nEstão CORRETAS apenas",
+  "alts": [
+   "I, II, e IV.",
+   "III, IV e V.",
+   "I, II e V.",
+   "I e V.",
+   "II e III."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada, 2019",
+  "coment": "Tratar a infecção latente (ILTB) impede que o infectado adoeça e transmita, por isso é estratégia central para interromper a cadeia de transmissão (I), e conhecer o perfil clínico e sociodemográfico de quem trata orienta a vigilância (II). Caso de ILTB é a pessoa infectada, identificada por prova tuberculínica ou IGRA, com TB ativa descartada (IV). O item III é falso: mais casos de doença ativa ampliam a transmissão. O item V também é falso: neoplasias de cabeça e pescoço, linfomas e outras hematológicas indicam tratamento com PT ou IGRA positivos; sem prova trata-se, por exemplo, a pessoa vivendo com HIV contato de TB pulmonar.",
+  "porAlt": [
+   "Correta: tratar a ILTB interrompe a cadeia, conhecer o perfil dos tratados orienta a vigilância e o caso exige PT ou IGRA com TB ativa descartada.",
+   "Errada: III é falso, pois mais doença ativa amplia a transmissão, e V também é falso.",
+   "Errada: V é falso, pois essas neoplasias exigem PT ou IGRA positivos para indicar o tratamento.",
+   "Errada: V é falso e faltam II e IV, que estão corretos.",
+   "Errada: III é falso; o aumento de casos ativos mantém a transmissão."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A hipertensão arterial (HA) é uma doença crônica não transmissível (DCNT), definida por níveis pressóricos, em que os benefícios do tratamento superam os riscos. Sobre fatores de risco para HA, leia as afirmações abaixo:\nI. Os fatores genéticos não influenciam os níveis de PA. Parece haver uma relação direta, contínua e quase linear entre o excesso de peso e os níveis de PA.\nII. Com o envelhecimento, a PAS torna-se um problema mais significante, resultante do enrijecimento progressivo e da perda de complacência das grandes artérias.\nIII. A etnia é um fator de risco importante para a HA, mas condições socioeconômicas e de hábitos de vida parecem ser fatores mais relevantes para as diferenças na prevalência da HA do que a implicação étnica propriamente dita.\nIV. A ingestão elevada de sódio tem-se mostrado um fator de risco para a elevação da PA e, consequentemente, da maior prevalência de HA. A ingestão de sódio está associada à Doença Cardiovascular (DCV) e Acidente Vascular Encefálico (AVE), quando a ingestão média é superior a 5 g de sódio.\nEstão CORRETAS apenas",
+  "alts": [
+   "I e III.",
+   "I, III e IV.",
+   "II e III.",
+   "I e II.",
+   "II, III e IV."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretrizes Brasileiras de Hipertensão Arterial 2020 (SBC/SBH/SBN), fatores de risco; Diretriz Brasileira de Hipertensão Arterial 2025",
+  "coment": "Pelas Diretrizes Brasileiras de 2020, fonte do texto, os fatores genéticos influenciam a pressão arterial, o que torna o item I falso. Com o envelhecimento, a pressão sistólica ganha peso pelo enrijecimento e pela perda de complacência das grandes artérias (II). A etnia importa, mas condições socioeconômicas e hábitos de vida explicam melhor as diferenças de prevalência (III). O item IV erra o número: a associação com doença cardiovascular e AVE aparece com ingestão média acima de 2 g de sódio, equivalentes a cerca de 5 g de sal. A Diretriz de 2025 substituiu a de 2020 na classificação e nas metas.",
+  "porAlt": [
+   "Errada: o item I é falso, pois os fatores genéticos influenciam os níveis de pressão arterial.",
+   "Errada: I e IV são falsos; a genética importa e o limiar de risco é 2 g de sódio, não 5 g.",
+   "Correta: o enrijecimento arterial com a idade e o peso dos fatores socioeconômicos sobre a etnia estão corretos.",
+   "Errada: o item I é falso e a alternativa omite III, que está correto.",
+   "Errada: IV erra o limiar, pois o risco aparece acima de 2 g de sódio, cerca de 5 g de sal."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre Hanseníase, leia as afirmações abaixo e coloque V nas Verdadeiras e F nas Falsas.\n( ) A bactéria é transmitida pelos objetos utilizados pelo paciente. Estima-se que a maioria da população possua imunidade contra o M. leprae. Portanto, a maior parte das pessoas que entrarem em contato com o bacilo não adoecerão.\n( ) São sinais e sintomas da hanseníase: madarose, pápulas, tubérculos e nódulos e formigamentos, choques e câimbras nos braços e pernas, que evoluem para dormência.\n( ) A hanseníase dimorfa é a forma da doença em que o sistema imune da pessoa consegue destruir os bacilos espontaneamente. Assim, como na hanseníase indeterminada, a doença também pode acometer crianças.\n( ) É a forma mais contagiosa da doença. O paciente virchowiano não apresenta manchas visíveis; a pele apresenta-se avermelhada, seca e infiltrada.\nAssinale a alternativa que apresenta a sequência CORRETA.",
+  "alts": [
+   "F, F, V, V.",
+   "F, V, F, F.",
+   "V, F, V, F.",
+   "V, V, V, F.",
+   "F, V, F, V"
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Protocolo Clínico e Diretrizes Terapêuticas da Hanseníase, Portaria SCTIE/MS 67/2022",
+  "coment": "A hanseníase se transmite pelas vias aéreas superiores, no contato próximo e prolongado com doente multibacilar sem tratamento, e não por objetos; a maioria da população tem imunidade e não adoece, por isso o item 1 é falso. Madarose, pápulas, tubérculos, nódulos e parestesias que evoluem para dormência são sinais da doença (item 2, verdadeiro). O item 3 descreve a forma tuberculoide, em que a imunidade contém o bacilo e pode haver cura espontânea; a dimorfa é instável e tem lesões múltiplas. A virchowiana é a mais contagiosa, sem manchas visíveis, com pele avermelhada, seca e infiltrada (item 4, verdadeiro).",
+  "porAlt": [
+   "Errada: o item 2, sobre sinais e sintomas, é verdadeiro, e o item 3, que atribui à dimorfa a destruição espontânea dos bacilos, é falso.",
+   "Errada: o item 4 é verdadeiro, pois a virchowiana é a forma mais contagiosa, com pele infiltrada e sem manchas visíveis.",
+   "Errada: a transmissão não ocorre por objetos, e a destruição espontânea dos bacilos descreve a tuberculoide, não a dimorfa.",
+   "Errada: o item 1 é falso, porque objetos não transmitem a doença, e o item 4 é verdadeiro.",
+   "Correta: transmissão por objetos e dimorfa autolimitada são falsas; sinais clínicos e a descrição da virchowiana são verdadeiros."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Tétano acidental é uma infecção causada por bactéria (clostridium tetani) encontrada na natureza e não é contagiosa. Sobre essa doença, assinale a alternativa CORRETA.",
+  "alts": [
+   "O tétano acidental pode atingir qualquer pessoa, de qualquer sexo e idade, estando restrito às regiões tropicais.",
+   "O diagnóstico do tétano é laboratorial, ou seja, não depende de confirmação clínica.",
+   "Quanto menor for o tempo de incubação, maior a gravidade e pior o prognóstico.",
+   "O tratamento específico é realizado com a administração do Soro Antitetânico. É preconizado apenas para o tratamento do tétano, e sua indicação depende do local do ferimento.",
+   "Há necessidade de reforço da vacina após 10 anos da última dose, seja com esquema completo ou não."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guia de Vigilância em Saúde (MS), 6ª ed. revisada, 2024; Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "O tétano acidental é doença não contagiosa causada pela toxina do Clostridium tetani, presente no ambiente em todo o mundo, não só nos trópicos. O diagnóstico é essencialmente clínico; não depende de exame laboratorial. Quanto menor o período de incubação, maior a gravidade e pior o prognóstico, e por isso a alternativa C é a correta. O tratamento específico usa imunoglobulina humana antitetânica ou soro antitetânico para neutralizar a toxina, sem relação com o local do ferimento. Pela IN do calendário de 2026, o reforço de dT a cada 10 anos vale para quem tem esquema completo; esquema incompleto deve ser completado.",
+  "porAlt": [
+   "Errada: o tétano pode atingir qualquer pessoa, mas não se restringe às regiões tropicais; o bacilo existe no ambiente em todo o mundo.",
+   "Errada: o diagnóstico do tétano é clínico e não depende de confirmação laboratorial.",
+   "Correta: período de incubação curto indica maior gravidade e pior prognóstico.",
+   "Errada: a neutralização da toxina usa imunoglobulina humana antitetânica ou soro, e a indicação não depende do local do ferimento.",
+   "Errada: o reforço a cada 10 anos vale para esquema completo; quem tem esquema incompleto deve completá-lo."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A estratégia Consultório na Rua foi instituída pela Política Nacional de Atenção Básica, em 2011 e visa ampliar o acesso da população em situação de rua aos serviços de saúde. Sobre isso, assinale a alternativa INCORRETA.",
+  "alts": [
+   "Diante das especificidades dessa população, a estratégia de redução de danos deverá ser transversal a todas as ações de saúde realizadas pelas equipes.",
+   "No processo de trabalho, devem estar garantidas ações para o cuidado in loco, a partir da abordagem ampliada dos problemas de saúde e sociais.",
+   "A responsabilidade pela atenção à saúde da população em situação de rua é somente das equipes multiprofissionais do consultório da rua da área de residência dessa população.",
+   "As equipes dos Consultórios na Rua podem ser organizadas em três modalidades. A modalidade I - equipe formada minimamente por quatro profissionais; A modalidade II – equipe formada minimamente por seis profissionais; e a modalidade III – equipe da Modalidade II acrescida de um profissional médico.",
+   "As equipes de Consultório na Rua podem ser implementadas pelo gestor público de saúde, cujo município tenha população de, pelo menos, 80 (oitenta) pessoas em situação de rua."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Equipe de Consultório na Rua; Portaria GM/MS 122/2011",
+  "coment": "A atenção à saúde da população em situação de rua é responsabilidade de todos os profissionais da Atenção Básica, e não só do Consultório na Rua; onde não há eCR, o cuidado é das equipes de AB do território, e a eCR atua de forma compartilhada com elas e com a rede. Por isso a alternativa C é a incorreta. As demais estão de acordo com as normas: redução de danos transversal, cuidado in loco, três modalidades de equipe (I com quatro profissionais, II com seis, III igual à II mais um médico) e parâmetro de implantação pela população em situação de rua do município.",
+  "porAlt": [
+   "Errada como resposta: a redução de danos é transversal a todas as ações das equipes de Consultório na Rua.",
+   "Errada como resposta: o cuidado in loco, com abordagem ampliada de problemas de saúde e sociais, é previsto.",
+   "Correta: a afirmativa é incorreta, pois a responsabilidade é de toda a Atenção Básica, não apenas da eCR.",
+   "Errada como resposta: as três modalidades estão descritas corretamente, com quatro, seis e seis mais um médico.",
+   "Errada como resposta: a banca considera correto o parâmetro de 80 pessoas em situação de rua para implantar a equipe."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem, Perfil Atenção Básica",
+   "n": 46,
+   "parte": "especificas"
+  }
+ }
+]

@@ -1,0 +1,1142 @@
+[
+ {
+  "q": "As ações que integram o SUS são desenvolvidas de acordo com as diretrizes previstas na Constituição Federal e obedecem, ainda, a determinados princípios. Em relação a tais princípios, analise as afirmativas abaixo e assinale a alternativa CORRETA.\nI. Universalidade de acesso aos serviços de saúde em todos os níveis de assistência.\nII. Integralidade de assistência.\nIII. Igualdade da assistência à saúde.\nIV. Direito à informação, às pessoas assistidas, sobre sua saúde.",
+  "alts": [
+   "Apenas as afirmativas I, II e III estão corretas.",
+   "Apenas as afirmativas I, II e IV estão corretas.",
+   "Apenas as afirmativas II, III, IV estão corretas.",
+   "Todas as afirmativas estão corretas."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º, incisos I, II, IV e V",
+  "coment": "As quatro afirmativas reproduzem princípios do art. 7º da Lei 8.080/1990: universalidade de acesso em todos os níveis de assistência (I), integralidade de assistência (II), igualdade da assistência à saúde, sem preconceitos ou privilégios de qualquer espécie (IV) e direito à informação, às pessoas assistidas, sobre sua saúde (V). Nenhuma traz palavra trocada, por isso todas estão corretas. O art. 7º soma hoje dezesseis incisos; a atenção humanizada entrou como princípio expresso em 2025.",
+  "porAlt": [
+   "Exclui a afirmativa IV, mas o direito à informação sobre a própria saúde é o inciso V do art. 7º.",
+   "Exclui a afirmativa III, mas a igualdade da assistência sem preconceitos ou privilégios é o inciso IV do art. 7º.",
+   "Exclui a universalidade de acesso, que é justamente o inciso I do art. 7º da Lei 8.080/1990.",
+   "Correta: as quatro afirmativas transcrevem princípios do art. 7º da Lei 8.080/1990."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 1,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com o disposto na Lei Orgânica da Saúde, que regulamenta o SUS, analise as afirmativas abaixo e assinale a alternativa CORRETA.\nI. A saúde é um direito fundamental do ser humano, devendo o Estado prover as condições indispensáveis ao seu pleno exercício.\nII. O dever do Estado de garantir a saúde consiste na formulação e na execução de políticas econômicas e sociais que visem à redução de riscos de doenças e de outros agravos e no estabelecimento de condições que assegurem acesso universal e igualitário às ações e aos serviços para a sua promoção, proteção e recuperação.\nIII. Os níveis de saúde expressam a organização social e econômica do País, tendo a saúde como determinantes e condicionantes, entre outros, a alimentação, a moradia, o saneamento básico, o meio ambiente, o trabalho, a renda, a educação, a atividade física, o transporte, o lazer e o acesso aos bens e serviços essenciais.",
+  "alts": [
+   "Apenas as afirmativas I e II estão corretas.",
+   "Apenas as afirmativas I e III estão corretas.",
+   "Apenas as afirmativas II e III estão corretas.",
+   "Todas as afirmativas estão corretas."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, arts. 2º e 3º",
+  "coment": "A afirmativa I é o caput do art. 2º da Lei 8.080/1990: a saúde é direito fundamental do ser humano e o Estado deve prover as condições para seu exercício. A II é o § 1º do mesmo artigo, que define o dever do Estado como formulação e execução de políticas econômicas e sociais e garantia de acesso universal e igualitário. A III é o art. 3º, que lista os determinantes e condicionantes; a atividade física foi incluída pela Lei 12.864/2013. Todas estão corretas.",
+  "porAlt": [
+   "Deixa de fora a afirmativa III, que reproduz o art. 3º e seus determinantes e condicionantes da saúde.",
+   "Deixa de fora a afirmativa II, que é o § 1º do art. 2º sobre o dever do Estado.",
+   "Deixa de fora a afirmativa I, que é o caput do art. 2º da Lei 8.080/1990.",
+   "Correta: as três afirmativas transcrevem os arts. 2º e 3º da Lei 8.080/1990."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 2,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Com base na Lei nº 8.142/1990, os recursos do Fundo Nacional de Saúde (FNS) serão alocados como:",
+  "alts": [
+   "Despesas de custeio e de capital do Ministério da Saúde, seus órgãos e entidades, da administração direta e indireta.",
+   "Investimentos previstos em lei orçamentária, de iniciativa do judiciário que estejam aguardando aprovação do Congresso Nacional.",
+   "Investimentos previstos no plano mensal do Ministério da Saúde.",
+   "Cobertura das ações e dos serviços de saúde a serem implementados por municípios eleitos em conferências de saúde."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.142/1990, art. 2º",
+  "coment": "O art. 2º da Lei 8.142/1990 diz que os recursos do FNS serão alocados como: despesas de custeio e de capital do Ministério da Saúde, seus órgãos e entidades, da administração direta e indireta; investimentos previstos em lei orçamentária, de iniciativa do Poder Legislativo e aprovados pelo Congresso Nacional; investimentos previstos no Plano Quinquenal do Ministério da Saúde; e cobertura das ações e serviços de saúde a serem implementados pelos Municípios, Estados e Distrito Federal. Só a alternativa A reproduz o texto sem troca de palavras.",
+  "porAlt": [
+   "Correta: é o inciso I do art. 2º da Lei 8.142/1990, despesas de custeio e de capital do Ministério da Saúde.",
+   "A lei fala em iniciativa do Poder Legislativo e investimentos aprovados pelo Congresso, não do Judiciário aguardando aprovação.",
+   "O texto legal fala em Plano Quinquenal do Ministério da Saúde, e não em plano mensal.",
+   "A cobertura é das ações a serem implementadas por Municípios, Estados e DF, sem escolha de municípios em conferências."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 3,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Em relação ao disposto na Portaria nº 3.390/2013, referente aos hospitais que prestam ações e serviços no âmbito do SUS, analise as afirmativas abaixo e assinale a alternativa CORRETA.\nI. Os hospitais privados e as autarquias que prestam ações e serviços no âmbito do SUS não são atendidos pela Política Nacional de Atenção Hospitalar.\nII. Os hospitais que prestam ações e serviços no âmbito do SUS constituem-se como um ponto ou conjunto de pontos de atenção em saúde.\nIII. O perfil assistencial dos hospitais que prestam ações e serviços no âmbito do SUS deve ser definido conforme o perfil demográfico e epidemiológico da população e de acordo com o desenho da rede de atenção em saúde loco-regional.\nIV. Os hospitais, enquanto integrantes da rede de atenção em saúde, atuarão de forma articulada à Política Nacional de Atenção Básica.",
+  "alts": [
+   "Apenas as afirmativas I, II e III estão corretas.",
+   "Apenas as afirmativas I, III e IV estão corretas.",
+   "Apenas as afirmativas II, III e IV estão corretas.",
+   "Todas as afirmativas estão corretas."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 3.390/2013 (PNHOSP), hoje na Portaria de Consolidação 2/2017",
+  "coment": "A Política Nacional de Atenção Hospitalar (Portaria 3.390/2013) aplica-se a todos os hospitais, públicos ou privados, que prestem ações e serviços no SUS, o que torna a afirmativa I errada. As demais estão no texto: o hospital é ponto ou conjunto de pontos de atenção da rede (II); seu perfil assistencial segue o perfil demográfico e epidemiológico da população e o desenho da rede loco-regional (III); e ele atua articulado à atenção básica (IV). Por isso, II, III e IV.",
+  "porAlt": [
+   "Inclui a afirmativa I, mas a PNHOSP vale também para hospitais privados e autarquias que atendem pelo SUS.",
+   "Inclui a afirmativa I, que exclui indevidamente os hospitais privados, e omite a II, que está no texto da política.",
+   "Correta: II, III e IV reproduzem a PNHOSP; a I é falsa porque a política abrange hospitais privados conveniados.",
+   "A afirmativa I é falsa, pois a PNHOSP se aplica a todos os hospitais que prestam serviços ao SUS."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 4,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre as estratégias de valorização dos trabalhadores dispostos pelo eixo de formação, desenvolvimento e gestão da força de trabalho instituído pela Política Nacional de Atenção Hospitalar (PNHOSP), analise as afirmativas abaixo e assinale a alternativa CORRETA.\nI. A avaliação de desempenho dos trabalhadores considera análises sistemáticas individuais e coletivas do trabalho, com participação ativa dos trabalhadores e corresponsabilização das equipes.\nII. O programa de educação permanente em saúde deve ser oferecido aos profissionais de saúde das equipes hospitalares, com base no aprendizado em serviço.\nIII. A atenção à saúde do trabalhador prevê ações de promoção e recuperação da saúde do trabalhador e seus familiares, de forma integral e gratuita, desde que decorridos 12 meses da data admissional.",
+  "alts": [
+   "Apenas as afirmativas I e II estão corretas.",
+   "Apenas as afirmativas II e III estão corretas.",
+   "Apenas as afirmativas I e III estão corretas.",
+   "Todas as afirmativas estão corretas."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 3.390/2013 (PNHOSP), eixo de formação, desenvolvimento e gestão da força de trabalho",
+  "coment": "No eixo de formação, desenvolvimento e gestão da força de trabalho, a PNHOSP prevê avaliação de desempenho com análises individuais e coletivas e participação dos trabalhadores (I) e educação permanente com base no aprendizado em serviço (II). A afirmativa III inventa uma carência: a política prevê atenção à saúde do trabalhador, mas não condiciona as ações a 12 meses de admissão nem as estende de forma gratuita aos familiares. Por isso, apenas I e II.",
+  "porAlt": [
+   "Correta: avaliação de desempenho participativa e educação permanente em serviço estão no eixo da força de trabalho da PNHOSP.",
+   "Inclui a afirmativa III, que cria uma carência de 12 meses inexistente na política.",
+   "Inclui a afirmativa III, falsa pela carência inventada, e exclui a II, que está no texto.",
+   "A afirmativa III é falsa, então nem todas estão corretas."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 5,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Qual é a definição do projeto terapêutico singular (PTS)?",
+  "alts": [
+   "Conjunto de procedimentos elaborados pela equipe de saúde, aplicável de forma idêntica a todos os pacientes com o mesmo diagnóstico.",
+   "Conjunto de propostas de condutas terapêuticas articuladas, para um sujeito individual ou um coletivo, resultante da discussão coletiva de uma equipe interdisciplinar, com apoio matricial se necessário.",
+   "Plano de cuidado coletivo voltado para a prestação da assistência em saúde a grupos com condições clínicas semelhantes e aplicado de maneira racional.",
+   "Conjunto de propostas elaboradas a partir de diretrizes clínicas e terapêuticas a serem aplicadas em um grupo de pessoas da comunidade."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Ministério da Saúde (PNH). Clínica ampliada, equipe de referência e projeto terapêutico singular, 2ª ed., 2007",
+  "coment": "O Projeto Terapêutico Singular é dispositivo da clínica ampliada da Política Nacional de Humanização. A definição oficial: conjunto de propostas de condutas terapêuticas articuladas, para um sujeito individual ou coletivo, resultado da discussão coletiva de uma equipe interdisciplinar, com apoio matricial se necessário. A palavra-chave é singular: o projeto é feito para aquele sujeito ou grupo, com ele, e não aplicado de forma padronizada a todos com o mesmo diagnóstico.",
+  "porAlt": [
+   "Aplicar o mesmo plano a todos com o mesmo diagnóstico é o oposto da singularidade que define o PTS.",
+   "Correta: é a definição da PNH, propostas articuladas para sujeito ou coletivo, construídas pela equipe interdisciplinar com apoio matricial.",
+   "Plano para grupos com condições clínicas semelhantes é cuidado padronizado, não projeto singular.",
+   "Propostas derivadas de diretrizes clínicas para grupos da comunidade descrevem protocolo, não PTS."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 6,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com a Portaria GM/MS nº 635/2023, que institui as modalidades de equipes multiprofissionais (eMulti) na atenção primária à saúde (APS), avalie se as afirmativas são certas (C) ou erradas (E) e assinale a sequência correspondente.\n( ) Entende-se por eMulti as equipes compostas por profissionais de saúde de até três diferentes áreas de conhecimento que atuam de maneira complementar e integrada às demais equipes da APS.\n( ) Todas as eMulti poderão realizar, no processo de trabalho colaborativo com as equipes vinculadas, a integração e a troca de informações de maneira virtual, além da presencial.\n( ) Os municípios, os estados e o Distrito Federal poderão estabelecer mecanismos locais complementares de autoavaliação, controle, regulação, cofinanciamento e acompanhamento sistemático dos resultados alcançados pelas ações das eMulti.\n( ) Os recursos orçamentários dessa Portaria correrão por conta do orçamento do Ministério da Saúde.",
+  "alts": [
+   "C - C - C - E.",
+   "C - E - C - E.",
+   "E - C - C - C.",
+   "E - C - E - C."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 635/2023 (eMulti)",
+  "coment": "A Portaria GM/MS 635/2023 criou as eMulti, que substituíram o NASF, nas modalidades Ampliada, Complementar e Estratégica. Ela define as eMulti como equipes de profissionais de diferentes áreas de conhecimento, sem o limite de até três áreas citado na primeira afirmativa, que por isso é errada. A portaria admite troca de informações e atendimento de forma remota, permite aos entes mecanismos locais complementares de avaliação e cofinanciamento e diz que os recursos correm pelo orçamento do Ministério da Saúde. Sequência E, C, C, C.",
+  "porAlt": [
+   "Marca como certa a primeira afirmativa, mas a portaria não limita as eMulti a até três áreas de conhecimento.",
+   "Erra a primeira e também a segunda, pois a portaria admite a integração virtual entre eMulti e equipes vinculadas.",
+   "Correta: só a primeira é errada, pelo limite inventado de três áreas; as outras três reproduzem a Portaria 635/2023.",
+   "Marca como errada a terceira, mas a portaria permite mecanismos locais complementares de avaliação e cofinanciamento."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 7,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Com vistas à promoção da equidade em saúde e orientado pelos princípios e pelas diretrizes do SUS, o Ministério da Saúde instituiu, em 2009, a Política Nacional de Saúde Integral da População Negra (PNSIPN). Sobre a referida Política, analise as afirmativas abaixo e assinale a alternativa CORRETA.\nI. É fruto do reconhecimento da necessidade da instituição de mecanismos de promoção da saúde integral da população negra e do enfrentamento ao racismo institucional no SUS.\nII. Reafirma as responsabilidades de cada uma das três esferas de gestão do SUS na implementação das ações e na articulação com outros setores do governo e da sociedade civil, para a garantia e a melhoria do acesso aos serviços e às ações de saúde deste grupo populacional.\nIII. Busca a redução das iniquidades de raça/cor, gênero, identidade de gênero, orientação sexual, geracionais e de classe.\nIV. Embora não haja indicadores que reflitam as condições de saúde específicas desta população, a política pressupõe a necessidade da superação de barreiras e o acesso de forma oportuna e humanizada às ações e aos serviços de saúde.",
+  "alts": [
+   "Apenas as afirmativas II e IV estão corretas.",
+   "Apenas as afirmativas I, III e IV estão corretas.",
+   "Apenas as afirmativas I, II e III estão corretas.",
+   "Todas as afirmativas estão corretas."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 992/2009 (Política Nacional de Saúde Integral da População Negra)",
+  "coment": "A PNSIPN nasce do reconhecimento do racismo, inclusive o institucional, como determinante das condições de saúde (I), reafirma as responsabilidades das três esferas de gestão (II) e busca reduzir iniquidades de raça e cor, gênero, orientação sexual, geracionais e de classe (III). A afirmativa IV é falsa: a política se apoia justamente em indicadores que mostram piores condições de saúde da população negra, e uma de suas ações é incluir o quesito raça/cor nos sistemas de informação.",
+  "porAlt": [
+   "Exclui I e III, que estão no texto da política, e inclui a IV, que nega a existência de indicadores.",
+   "Inclui a afirmativa IV, mas a política se baseia em indicadores de iniquidade da população negra.",
+   "Correta: I, II e III descrevem a PNSIPN; a IV é falsa porque há indicadores que fundamentam a política.",
+   "A afirmativa IV é falsa, então nem todas estão corretas."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 8,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Política Nacional de Saúde Integral da População LGBT é um marco histórico para as políticas públicas de saúde no Brasil, documento norteador e legitimador de necessidades e especificidades dessa população. É composta por um conjunto de pressupostos, e sua execução requer desafios e compromissos das diferentes instâncias de governo e esferas de gestão. Sobre os objetivos específicos da Política, analise as afirmativas abaixo e assinale a alternativa CORRETA.\nI. Qualificar a rede de serviços do SUS para a atenção e o cuidado integral à saúde da população LGBT.\nII. Garantir acesso ao processo transexualizador na rede do SUS, nos moldes regulamentados.\nIII. Monitorar, avaliar e difundir os indicadores de saúde e de serviços para a população LGBT, com exceção dos recortes étnico-racial e territorial, visto que já estão contemplados em outras políticas de saúde.\nIV. Qualificar a informação em saúde no que tange à coleta, ao processamento e à análise dos dados específicos sobre a saúde da população LGBT.",
+  "alts": [
+   "Apenas as afirmativas I, II e III estão corretas.",
+   "Apenas as afirmativas I, II e IV estão corretas.",
+   "Apenas as afirmativas II, III e IV estão corretas.",
+   "Todas as afirmativas estão corretas."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.836/2011 (Política Nacional de Saúde Integral LGBT)",
+  "coment": "Entre os objetivos específicos da Política Nacional de Saúde Integral LGBT estão qualificar a rede do SUS para o cuidado integral (I), garantir o acesso ao processo transexualizador nos moldes regulamentados (II, hoje pela Portaria 2.803/2013) e qualificar a informação em saúde sobre essa população (IV). A afirmativa III está errada porque o objetivo de monitorar e difundir indicadores inclui, e não exclui, os recortes étnico-racial e territorial: a política é transversal às demais.",
+  "porAlt": [
+   "Inclui a afirmativa III, que exclui os recortes étnico-racial e territorial, ao contrário do que a política prevê.",
+   "Correta: I, II e IV são objetivos específicos da política; a III é falsa porque os recortes étnico-racial e territorial são considerados.",
+   "Inclui a III, falsa, e deixa de fora a I, que é objetivo específico da política.",
+   "A afirmativa III é falsa, então nem todas estão corretas."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 9,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com o documento HumanizaSUS, que serve de base para gestores e trabalhadores do SUS, muito já foi conquistado com o avanço do sistema, mas ainda se está diante de inúmeros desafios. A respeito disso, analise as afirmativas abaixo e assinale a alternativa CORRETA.\nI. O SUS construiu novos arranjos e instrumentos de gestão e, assim, ampliou a capacidade tanto de gestão como de corresponsabilização, tornando-se referência para a organização de outras políticas públicas no Brasil.\nII. A articulação regional tem sido ampliada de modo que se verifica melhora na oferta de recursos assistenciais e da relação custo-efetividade.\nIII. O processo de descentralização do SUS vem se fortalecendo com a ampliação da presença, da autonomia e da responsabilização sanitária de municípios, promovendo uma melhor organização das redes de atenção à saúde.\nIV. O SUS é ainda uma reforma incompleta na saúde. Estão em curso os debates sobre as formas de organização do sistema, dos serviços e do trabalho em saúde, que definem os modos de se produzir saúde e onde investir recursos, entre outros.",
+  "alts": [
+   "Apenas as afirmativas III e IV estão corretas.",
+   "Apenas as afirmativas I, II e III estão corretas.",
+   "Apenas as afirmativas I, II e IV estão corretas.",
+   "Todas as afirmativas estão corretas."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Política Nacional de Humanização (2003), HumanizaSUS: documento base para gestores e trabalhadores do SUS (Ministério da Saúde)",
+  "coment": "O documento base do HumanizaSUS abre com um balanço do SUS: reconhece avanços, como novos arranjos e instrumentos de gestão (I), ampliação da articulação regional com melhor oferta de recursos assistenciais e relação custo-efetividade (II) e fortalecimento da descentralização com mais autonomia e responsabilização dos municípios (III), e também diz que o SUS é ainda uma reforma incompleta, com debates em curso sobre a organização do sistema e do trabalho (IV). Todas as afirmativas parafraseiam esse diagnóstico.",
+  "porAlt": [
+   "Exclui I e II, mas o documento base também reconhece os novos arranjos de gestão e a ampliação da articulação regional.",
+   "Exclui a afirmativa IV, mas o documento afirma que o SUS ainda é uma reforma incompleta.",
+   "Exclui a afirmativa III, mas o fortalecimento da descentralização está entre os avanços citados.",
+   "Correta: as quatro afirmativas reproduzem o balanço de avanços e desafios do documento base do HumanizaSUS."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 10,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O artigo de Ceccim e Feuerwerker (2004) apresenta a reflexão, ainda atual, sobre a formação para a área da saúde, em que é desenvolvido o conceito do chamado “Quadrilátero da Formação”. Assinalar a alternativa que compreende os quatro componentes da formação de acordo com os autores.",
+  "alts": [
+   "Ensino, gestão, atenção e comunidade.",
+   "Ensino, gestão, atenção e controle social.",
+   "Educação, gestão, integração e extensão.",
+   "Ensino, serviço, comunidade e extensão."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Ceccim RB, Feuerwerker LCM. O quadrilátero da formação para a área da saúde: ensino, gestão, atenção e controle social. Physis, 2004",
+  "coment": "Ceccim e Feuerwerker propõem que a formação em saúde se organize no quadrilátero ensino, gestão, atenção e controle social, articulando instituições formadoras, gestores do SUS, serviços e movimentos sociais. A ideia sustenta a Política Nacional de Educação Permanente em Saúde (Portaria GM/MS 198/2004). O componente que mais confunde é o quarto: não é comunidade nem extensão, e sim controle social, a participação organizada da sociedade.",
+  "porAlt": [
+   "Troca controle social por comunidade; o quarto vértice do quadrilátero é a participação organizada, o controle social.",
+   "Correta: ensino, gestão, atenção e controle social são os quatro componentes do quadrilátero da formação.",
+   "Educação, integração e extensão não são vértices do quadrilátero proposto pelos autores.",
+   "Serviço, comunidade e extensão não formam o quadrilátero; faltam gestão e controle social."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 11,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Luiz Carlos Cecílio, no artigo em que analisa os modelos técnico assistenciais em saúde, faz algumas considerações sobre as concepções que subjazem os modelos assistenciais do SUS. Sobre a abordagem do autor, analise as afirmativas abaixo e assinale a alternativa CORRETA.\nI. Na base do modelo da pirâmide, estaria localizada a atenção primária, voltada a grupos populacionais situados em suas áreas de cobertura, distribuídas de forma a cobrir as populações adscritas, cuja missão seria oferecer atenção integral, construindo-se a “porta de entrada” para os níveis superiores de maior complexidade tecnológica.\nII. O modelo “piramidal”, em sua essência, reforça o modelo hegemônico vigente, sabidamente centrado no atendimento médico, medicamentalizante, com pouca ou nenhuma prática de prevenção das doenças e promoção da saúde, enfraquecendo os princípios da regionalização e da hierarquização do cuidado.\nIII. Na visão do autor, a concepção do sistema como uma pirâmide está muito distante da realidade do usuário, que tenta furar os bloqueios de todas as formas, acessando os cuidados de que necessita por múltiplas entradas, tentando garantir alguma integralidade de atendimento por conta própria.\nIV. O artigo propõe que seja feito um redesenho do modelo técnico assistencial a partir dos movimentos reais dos usuários, viabilizando a construção de um sistema de saúde mais humanizado e comprometido com a vida das pessoas. O centro de saúde pode ser uma porta de entrada eficiente, mas também outros equipamentos sociais podem fazer esse papel, como a escola, a creche, a farmácia do bairro: espaços privilegiados de acolhimento das situações mais vulneráveis.",
+  "alts": [
+   "Apenas as afirmativas I, III e IV estão corretas.",
+   "Apenas as afirmativas I e III estão corretas.",
+   "Apenas as afirmativas II, III e IV estão corretas.",
+   "Todas as afirmativas estão corretas."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Cecílio LCO. Modelos tecno-assistenciais em saúde: da pirâmide ao círculo, uma possibilidade a ser explorada. Cadernos de Saúde Pública, 1997",
+  "coment": "Cecílio descreve a pirâmide com a atenção primária na base, como porta de entrada para níveis de maior complexidade (I), mostra que o usuário real fura esse desenho e entra por múltiplas portas (III) e propõe redesenhar o modelo como um círculo, a partir dos movimentos reais dos usuários, com outras portas de entrada possíveis (IV). A afirmativa II distorce o texto: a pirâmide é a própria expressão da regionalização e da hierarquização, não algo que as enfraquece.",
+  "porAlt": [
+   "Correta: I, III e IV reproduzem a análise de Cecílio; a II é falsa porque a pirâmide encarna a regionalização e a hierarquização.",
+   "Deixa de fora a afirmativa IV, que é a proposta central do autor, o redesenho em círculo.",
+   "Inclui a afirmativa II, que atribui à pirâmide o enfraquecimento da regionalização, e exclui a I, correta.",
+   "A afirmativa II é falsa, então nem todas estão corretas."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 12,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O artigo que trata da formação de profissionais de saúde, de Ceccim e Feuerwerker (2004), faz algumas críticas a este processo. Sobre o referido artigo, analise as afirmativas abaixo e assinale a alternativa CORRETA.\nI. A formação dos profissionais de saúde tem permanecido alheia à organização da gestão setorial e ao debate crítico sobre os sistemas de estruturação do cuidado.\nII. O foco central da qualificação das práticas de ensino na formação de profissionais de saúde competentes e capazes de atender às demandas da população é a atualização técnico-científica, assim como a referência, que deve estar na busca por evidências para o diagnóstico, cuidado, tratamento, etc.\nIII. A formação em saúde tem se mostrado sensível ao controle social sobre o setor, algo que é fundante no modelo oficial de saúde brasileiro.\nIV. As instituições formadoras têm perpetuado modelos essencialmente conservadores, centrados em aparelhos e sistemas altamente especializados.",
+  "alts": [
+   "Apenas as afirmativas I e IV estão corretas.",
+   "Apenas as afirmativas I, II e IV estão corretas.",
+   "Apenas as afirmativas II e III estão corretas.",
+   "Todas as afirmativas estão corretas."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Ceccim RB, Feuerwerker LCM. O quadrilátero da formação para a área da saúde: ensino, gestão, atenção e controle social. Physis, 2004",
+  "coment": "Os autores criticam a formação em saúde por ficar alheia à organização da gestão setorial e ao debate crítico sobre o cuidado (I) e por perpetuar modelos conservadores, centrados em aparelhos e sistemas especializados (IV). A afirmativa II é o que eles recusam: a atualização técnico-científica é só um dos aspectos, e a qualificação deve mirar a transformação das práticas e a necessidade da população. A III inverte o texto, que descreve a formação como impermeável ao controle social.",
+  "porAlt": [
+   "Correta: I e IV são críticas feitas pelos autores à formação em saúde.",
+   "Inclui a afirmativa II, que reduz a qualificação à atualização técnico-científica, visão que os autores criticam.",
+   "II e III são falsas: o artigo rejeita o foco só técnico e descreve a formação como impermeável ao controle social.",
+   "II e III são falsas, então nem todas estão corretas."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 14,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O artigo “A potência da educação interprofissional para o desenvolvimento de competências colaborativas no trabalho em saúde” (2023) demonstra os resultados da pesquisa sobre as repercussões do Programa PET-Saúde/Interprofissionalidade nas mudanças na formação em saúde, pautadas pela Educação Interprofissional (EIP). O estudo traz algumas conclusões. Sobre estas, analise as afirmativas abaixo e assinale a alternativa CORRETA.\nI. O Programa PET-Saúde promoveu a estreita aproximação entre as diferentes profissões, promovendo um aprendizado para o trabalho em equipe colaborativo centrado no usuário.\nII. O Programa PET-Saúde indicou mudanças especialmente na direção da sensibilização para as perspectivas coletiva e colaborativa como fundamentais para a qualificação da atenção à saúde.\nIII. A lógica da integração ensino-serviço-comunidade, pautada por elementos da EIP, foi referida pelos participantes da pesquisa como essencial para alcançar os objetivos dos processos formativos, orientados pelos princípios do SUS.\nIV. Os participantes da pesquisa perceberam a existência de saberes que são comuns aos profissionais da área da saúde e que devem ser compartilhados para que a resolutividade do trabalho em equipe se amplie. A educação em saúde foi considerada uma destas competências a serem compartilhadas.",
+  "alts": [
+   "Apenas as afirmativas I, II e III estão corretas.",
+   "Apenas as afirmativas I, III e IV estão corretas.",
+   "Apenas as afirmativas I, II e IV estão corretas.",
+   "Todas as afirmativas estão corretas."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Artigo 'A potência da educação interprofissional para o desenvolvimento de competências colaborativas no trabalho em saúde' (2023), sobre o PET-Saúde/Interprofissionalidade",
+  "coment": "O estudo sobre o PET-Saúde/Interprofissionalidade concluiu que o programa aproximou as profissões e ensinou trabalho em equipe colaborativo centrado no usuário (I), sensibilizou para as perspectivas coletiva e colaborativa (II), valorizou a integração ensino-serviço-comunidade orientada pelos princípios do SUS (III) e revelou saberes comuns, como a educação em saúde, que devem ser compartilhados para ampliar a resolutividade (IV). Todas são conclusões do artigo.",
+  "porAlt": [
+   "Exclui a afirmativa IV, mas os saberes comuns, como a educação em saúde, foram uma das conclusões do estudo.",
+   "Exclui a afirmativa II, mas a sensibilização para o trabalho coletivo e colaborativo está entre os achados.",
+   "Exclui a afirmativa III, mas a integração ensino-serviço-comunidade foi apontada como essencial pelos participantes.",
+   "Correta: as quatro afirmativas são conclusões do estudo sobre o PET-Saúde/Interprofissionalidade."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 15,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O Decreto nº 94.406/1987 regulamenta a Lei nº 7.498/1986, que dispõe sobre o exercício da enfermagem e dá outras providências. Sobre o que incumbe ao enfermeiro, enquanto integrante da equipe de saúde, analise as afirmativas abaixo e assinale a alternativa CORRETA.\nI. Circular em sala de cirurgia e, se necessário, instrumentar.\nII. A prestação de assistência de enfermagem à gestante, parturiente, puérpera e ao recém-nascido.\nIII. A realização de episiotomia e episiorrafia, com aplicação de anestesia local, quando necessária.\nIV. A participação no planejamento, na execução e na avaliação da programação de saúde.",
+  "alts": [
+   "Apenas as afirmativas I e II estão corretas.",
+   "Apenas as afirmativas II e III estão corretas.",
+   "Apenas as afirmativas I e III estão corretas.",
+   "Apenas as afirmativas II e IV estão corretas."
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 94.406/1987, arts. 8º, 9º e 11",
+  "coment": "O art. 8º do Decreto 94.406/1987 lista, no inciso II, o que cabe ao enfermeiro como integrante da equipe de saúde; ali estão a participação no planejamento, execução e avaliação da programação de saúde e a assistência de enfermagem à gestante, parturiente, puérpera e recém-nascido. Episiotomia e episiorrafia com anestesia local são do art. 9º, da obstetriz e da enfermeira obstétrica. Circular em sala de cirurgia e, se necessário, instrumentar está no art. 11, entre as atividades do auxiliar de enfermagem.",
+  "porAlt": [
+   "Inclui circular em sala de cirurgia, atividade que o decreto atribui ao auxiliar de enfermagem (art. 11).",
+   "Inclui episiotomia e episiorrafia, atribuição da obstetriz e da enfermeira obstétrica (art. 9º), não do enfermeiro generalista.",
+   "Combina duas atividades que o decreto não lista para o enfermeiro como integrante da equipe.",
+   "Correta: assistência à gestante, parturiente, puérpera e recém-nascido e participação na programação de saúde estão no art. 8º, II."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 16,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Resolução COFEN nº 736/2024 dispõe sobre a implementação do processo de enfermagem em todo contexto socioambiental em que ocorre o cuidado de enfermagem. De acordo com essa resolução, no Artigo 4º, o processo de enfermagem organiza-se em cinco etapas inter-relacionadas, interdependentes, recorrentes e cíclicas, cuja sequência CORRETA é assim apresentada:",
+  "alts": [
+   "Evolução de Enfermagem | Avaliação de Enfermagem | Diagnóstico de Enfermagem | Implementação de Enfermagem | Planejamento de Enfermagem.",
+   "Avaliação de Enfermagem | Planejamento de Enfermagem | Diagnóstico de Enfermagem | Implementação de Enfermagem | Evolução de Enfermagem.",
+   "Avaliação de Enfermagem | Diagnóstico de Enfermagem | Planejamento de Enfermagem | Implementação de Enfermagem | Evolução de Enfermagem.",
+   "Planejamento de Enfermagem | Avaliação de Enfermagem | Evolução de Enfermagem | Diagnóstico de Enfermagem | Implementação de Enfermagem."
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, art. 4º",
+  "coment": "A Res. COFEN 736/2024, que revogou a 358/2009, organiza o Processo de Enfermagem em cinco etapas inter-relacionadas, interdependentes, recorrentes e cíclicas: Avaliação de Enfermagem (que substituiu o antigo Histórico ou Coleta de dados), Diagnóstico, Planejamento (priorização, resultados esperados e prescrição), Implementação e Evolução de Enfermagem. A lógica é a do raciocínio clínico: avaliar, nomear o problema, planejar, executar e reavaliar.",
+  "porAlt": [
+   "Começa pela Evolução e põe o Planejamento por último, fora da ordem do art. 4º.",
+   "Inverte Diagnóstico e Planejamento; não se planeja antes de diagnosticar.",
+   "Correta: Avaliação, Diagnóstico, Planejamento, Implementação e Evolução é a ordem do art. 4º da Res. 736/2024.",
+   "Começa pelo Planejamento e embaralha as demais etapas, sem relação com o art. 4º."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 17,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O câncer é o principal problema de saúde pública no mundo e figura como uma das principais causas de morte. No Brasil são estimados, no triênio de 2023 a 2025, 704 mil casos novos de câncer. Destes, o câncer de próstata tem estimativa de 72 mil novos casos, ocupando a segunda posição entre os tipos de cânceres mais frequentes. Sobre este tipo de câncer, avalie se as afirmativas são certas (C) ou erradas (E) e assinale a sequência correspondente.\n( ) O câncer de próstata é composto de diferentes subtipos histológicos, que variam segundo idade ao diagnóstico, etnia, nível de PSA e estadiamento.\n( ) O principal fator de risco para o câncer de próstata é a exposição aos agentes cancerígenos como os metais e as radiações.\n( ) É considerado um câncer da terceira idade, pois cerca de 75% dos casos novos no mundo ocorrem a partir dos 65 anos.",
+  "alts": [
+   "C - E - C.",
+   "C - C - E.",
+   "E - C - C.",
+   "E - E - E."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "INCA. Estimativa 2023: incidência de câncer no Brasil (triênio 2023-2025), 2022",
+  "coment": "Segundo o INCA, o câncer de próstata tem subtipos histológicos que variam com idade ao diagnóstico, etnia, PSA e estadiamento (primeira certa). O principal fator de risco é a idade, e não a exposição a metais e radiações, que tem papel secundário (segunda errada). É considerado câncer da terceira idade, porque cerca de 75% dos casos novos no mundo ocorrem a partir dos 65 anos (terceira certa). Também pesam histórico familiar e excesso de gordura corporal.",
+  "porAlt": [
+   "Correta: subtipos variados e predomínio após os 65 anos são certos; o principal fator de risco é a idade, não a exposição ocupacional.",
+   "Marca como certa a exposição a metais e radiações como principal fator, mas o principal é a idade.",
+   "Erra a primeira, pois o câncer de próstata tem diferentes subtipos histológicos, e acerta indevidamente a segunda.",
+   "Nega as três, mas a primeira e a terceira estão de acordo com o INCA."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 18,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O câncer de pele é o mais comum de todos os tipos de cânceres e envolve uma gama de entidades patológicas que se originam de diferentes células da derme e da epiderme. Sobre o câncer de pele, analise as afirmativas abaixo e assinale a alternativa CORRETA.\nI. O carcinoma de células escamosas e o carcinoma basocelular são chamados de câncer de pele melanoma.\nII. Apesar de mais comum, o melanoma é um câncer de pele com crescimento lento e sem risco de metástase.\nIII. A radiação ultravioleta é o principal fator de risco para todos os tipos de câncer de pele.\nIV. As radiações ultravioletas não naturais como lâmpadas e camas solares são fatores de risco para a ocorrência de melanomas.",
+  "alts": [
+   "Apenas a afirmativa I está correta.",
+   "Apenas as afirmativas I, II e III estão corretas.",
+   "Apenas as afirmativas III e IV estão corretas.",
+   "Todas as afirmativas estão corretas."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "INCA. Estimativa 2023: incidência de câncer no Brasil (triênio 2023-2025), 2022",
+  "coment": "Carcinoma basocelular e carcinoma de células escamosas formam o câncer de pele não melanoma, o mais frequente e de baixa letalidade (I errada). O melanoma é menos comum, porém mais agressivo e com alto potencial de metástase (II errada). A radiação ultravioleta é o principal fator de risco para todos os tipos (III certa), inclusive a artificial de lâmpadas e câmaras de bronzeamento, associada ao melanoma (IV certa). Daí a orientação de fotoproteção e de evitar bronzeamento artificial.",
+  "porAlt": [
+   "A afirmativa I é falsa: basocelular e espinocelular são cânceres de pele não melanoma.",
+   "I e II são falsas; o melanoma é o tipo menos comum e o mais agressivo, com risco de metástase.",
+   "Correta: a radiação UV é o principal fator de risco de todos os tipos, inclusive a artificial no melanoma.",
+   "I e II são falsas, então nem todas estão corretas."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 19,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a passagem de plantão em uma unidade de internação de adultos, é descrita a situação abaixo de A.H., 58 anos, do sexo feminino, com diagnóstico de neoplasia cerebral em acompanhamento pela equipe de cuidados paliativos:\nPaciente acordada, não atende comandos, afásica, está hemiplégica à direita, mantém traqueostomia com oxigenoterapia a 2 litros/minuto, alimentação por sonda nasoenteral a 50ml/hora, acamada, em uso de fraldas, mantendo sinais vitais estáveis.\nO Parecer Normativo nº 01/2024 do COFEN estabelece os parâmetros mínimos para o planejamento da força de trabalho da enfermagem pelo enfermeiro e, entre os parâmetros, orienta o uso de sistemas de classificação de pacientes. Qual das seguintes alternativas se aplica à classificação da complexidade de cuidado de enfermagem para a paciente A.H.?",
+  "alts": [
+   "Paciente de cuidados semi-intensivos.",
+   "Paciente de cuidados de alta dependência.",
+   "Paciente de cuidados mínimos.",
+   "Paciente de cuidados intensivos."
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Parecer Normativo COFEN 01/2024, itens 2.3 a 2.7 (tipos de cuidado)",
+  "coment": "O Parecer Normativo COFEN 01/2024, que substituiu a Res. 543/2017 no dimensionamento, define paciente de cuidados de alta dependência como o crônico, incluindo o de cuidado paliativo, estável sob o ponto de vista clínico, porém com dependência total da enfermagem para as necessidades humanas básicas. A.H. está em paliativo, com sinais vitais estáveis, acamada, afásica, com sonda, traqueostomia e fraldas: é alta dependência, 10 horas de enfermagem por paciente em 24 h e no mínimo 36% de enfermeiros.",
+  "porAlt": [
+   "Semi-intensivo exige paciente passível de instabilidade das funções vitais e recuperável, e A.H. está estável e em paliativo.",
+   "Correta: crônica, em paliativo, estável e com dependência total da enfermagem é o perfil de alta dependência do parecer.",
+   "Cuidado mínimo é para o paciente estável e autossuficiente nas necessidades básicas, o oposto de A.H.",
+   "Cuidado intensivo pressupõe paciente grave e recuperável, com risco iminente de morte e instabilidade vital."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 20,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "L.M., 35 anos, sexo feminino, tem diagnóstico de leucemia mieloide aguda e concluiu o primeiro ciclo do tratamento com quimioterapia. A paciente informa inapetência e que não está se alimentando devido à dor e à dificuldade para deglutir. Na avaliação da paciente, o enfermeiro identifica palidez cutâneo-mucosa, cavidade bucal com lesões, sangramento e higiene bucal inadequada. Em relação aos diagnósticos de enfermagem, analise as afirmativas abaixo e assinale a alternativa CORRETA.\nI. O diagnóstico de enfermagem de integridade da membrana mucosa oral prejudicada é indicado para a paciente devido aos sintomas apresentados e à condição de imunossupressão.\nII. Indica-se o diagnóstico de enfermagem nutrição desequilibrada: menor que as necessidades corporais, pois a paciente apresenta cavidade oral lesionada e dificuldade para deglutir.\nIII. O diagnóstico de enfermagem para risco de infecção é indicado para a paciente devido à higiene oral inadequada e à condição de imunossupressão.",
+  "alts": [
+   "Apenas a afirmativa I está correta.",
+   "Apenas as afirmativas I e II estão corretas.",
+   "Apenas as afirmativas I e III estão corretas.",
+   "Todas as afirmativas estão corretas."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NANDA-I. Diagnósticos de enfermagem: definições e classificação 2024-2026, 13ª ed., 2024",
+  "coment": "Lesões, sangramento e dor na cavidade oral, num quadro de imunossupressão pós-quimioterapia, sustentam Integridade da membrana mucosa oral prejudicada (I). Inapetência e dificuldade de deglutir com ingestão reduzida sustentam o diagnóstico nutricional (II); na NANDA-I recente ele não se chama mais Nutrição desequilibrada: menor que as necessidades corporais, e sim Ingestão nutricional inadequada (13ª ed., Ingestão nutricional proteico-calórica inadequada). Imunossupressão e higiene oral precária sustentam Risco de infecção (III). Todas corretas.",
+  "porAlt": [
+   "Exclui II e III, mas há dados para o diagnóstico nutricional e para o risco de infecção.",
+   "Exclui o Risco de infecção, que se apoia na imunossupressão e na higiene oral inadequada.",
+   "Exclui o diagnóstico nutricional, sustentado por inapetência, dor e dificuldade de deglutir.",
+   "Correta: os três diagnósticos têm evidências no caso; o nutricional hoje tem o título Ingestão nutricional inadequada."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 21,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No Brasil, a Norma Regulamentadora nº 32 (NR-32), do Ministério do Trabalho, é o documento que tem por finalidade estabelecer as diretrizes básicas para a implementação de medidas de proteção à segurança e à saúde dos trabalhadores dos serviços de saúde. Assinale a alternativa que estabelece uma diretriz da NR-32.",
+  "alts": [
+   "É permitido o consumo de alimentos e bebidas industrializadas nos postos de trabalho.",
+   "Os trabalhadores não devem deixar o local de trabalho com as vestimentas utilizadas em suas atividades laborais.",
+   "É permitido o manuseio de lentes de contato nos postos de trabalho.",
+   "É de responsabilidade do trabalhador realizar a higienização das vestimentas quando houver contato da vestimenta com material orgânico."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "NR-32 (Portaria MTE 485/2005), itens 32.2.4.5 e 32.2.4.6",
+  "coment": "A NR-32 obriga o empregador a vedar, nos postos de trabalho com risco biológico, o consumo de alimentos e bebidas e o manuseio de lentes de contato, entre outras práticas (item 32.2.4.5). No item das vestimentas (32.2.4.6), determina que os trabalhadores não deixem o local de trabalho com os EPI e as vestimentas usados nas atividades e que a higienização das vestimentas contaminadas, como as com contato direto com material orgânico, seja responsabilidade do empregador, não do trabalhador.",
+  "porAlt": [
+   "A NR-32 manda vedar o consumo de alimentos e bebidas nos postos de trabalho, industrializados ou não.",
+   "Correta: a NR-32 determina que o trabalhador não deixe o local de trabalho com as vestimentas usadas nas atividades.",
+   "Manusear lentes de contato no posto de trabalho é prática que a NR-32 manda vedar.",
+   "A higienização da vestimenta com contato com material orgânico é responsabilidade do empregador, não do trabalhador."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 22,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No exame clínico do paciente em morte encefálica (ME), pode ocorrer um sinal decorrente somente de reflexo medular, de forma espontânea ou após estímulo, como o doloroso, a aspiração orotraqueal, a movimentação da cabeça ou até mesmo de testes clínicos para o diagnóstico de ME. O paciente pode apresentar reflexos como adução dos braços, elevação e flexão súbita dos membros superiores, flexão do tronco e dos membros inferiores ou entrecruzamento das mãos. Qual das seguintes alternativas se refere ao nome desse sinal?",
+  "alts": [
+   "Sinal de Romberg.",
+   "Sinal de Kerning.",
+   "Sinal de Lázaro.",
+   "Sinal de Lasègue."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Resolução CFM 2.173/2017 (critérios do diagnóstico de morte encefálica)",
+  "coment": "O sinal de Lázaro é um conjunto de movimentos de origem medular (adução e elevação dos braços, flexão do tronco, cruzamento das mãos sobre o tórax) que pode surgir espontaneamente ou após estímulo em paciente em morte encefálica. Por ser reflexo da medula, e não do tronco encefálico, não afasta o diagnóstico feito pelos critérios da Res. CFM 2.173/2017. A enfermagem precisa reconhecê-lo para orientar a família e não interromper o protocolo por engano.",
+  "porAlt": [
+   "O sinal de Romberg avalia equilíbrio em pé com olhos fechados, sem relação com morte encefálica.",
+   "O sinal de Kernig é sinal de irritação meníngea, pesquisado com flexão do quadril e extensão do joelho.",
+   "Correta: o sinal de Lázaro é o movimento reflexo de origem medular descrito na morte encefálica.",
+   "O sinal de Lasègue indica irritação de raiz nervosa lombar na elevação da perna estendida."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 23,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Resolução nº 564/2017, do Conselho Federal de Enfermagem, aprova o novo Código de Ética dos Profissionais de Enfermagem. Considerando-se essa Resolução, assinale a alternativa que apresenta um direito do profissional de enfermagem.",
+  "alts": [
+   "Exercer a profissão com justiça, compromisso, equidade, resolutividade, dignidade, competência, responsabilidade, honestidade e lealdade.",
+   "Comunicar formalmente ao Conselho Regional de Enfermagem e aos órgãos competentes fatos que infrinjam dispositivos ético-legais e que possam prejudicar o exercício profissional e a segurança à saúde da pessoa, família e coletividade.",
+   "Abster-se de revelar informações confidenciais de que tenha conhecimento em razão de seu exercício profissional.",
+   "Registrar no prontuário e em outros documentos as informações inerentes e indispensáveis ao processo de cuidar de forma clara, objetiva, cronológica, legível, completa e sem rasuras."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017, arts. 12 e 36",
+  "coment": "O Código de Ética (Res. COFEN 564/2017, ainda vigente) divide-se em direitos (arts. 1º a 23), deveres (24 a 60) e proibições (61 a 102). Abster-se de revelar informações confidenciais conhecidas em razão do exercício profissional é direito, previsto no art. 12. Exercer a profissão com justiça e lealdade, comunicar formalmente ao COREN fatos que infrinjam dispositivos ético-legais e registrar no prontuário de forma clara e sem rasuras (art. 36) estão entre os deveres. O que pesa é a voz do verbo: dever obriga, direito faculta.",
+  "porAlt": [
+   "Exercer com justiça, compromisso, equidade e lealdade está no capítulo dos deveres, não dos direitos.",
+   "Comunicar formalmente ao COREN fatos que infrinjam dispositivos ético-legais é dever do profissional.",
+   "Correta: abster-se de revelar informações confidenciais é direito do profissional, art. 12 do Código.",
+   "Registrar no prontuário de forma clara, cronológica e sem rasuras é dever, previsto no art. 36."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 24,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo a Agência Nacional de Vigilância Sanitária (2017), em relação aos cuidados com cateteres intravenosos periféricos, avalie se as afirmativas são certas (C) ou erradas (E) e assinale a sequência correspondente.\n( ) Não se deve usar cateteres periféricos para infusão de soluções que resultem em osmolaridade acima de 900mOsm/L.\n( ) Cateteres intravenosos com agulha de aço só devem ser utilizados para coleta de amostra sanguínea e administração de soluções com tempo máximo de permanência de 6 horas.\n( ) Em adultos, as veias de escolha para canulação intravenosa periférica são as das superfícies dorsal da mão.\n( ) Pacientes de qualquer idade, em terapia intensiva, sedados ou com déficit cognitivo, devem ter seu sítio de inserção do cateter intravenoso periférico avaliado a cada 1-2 horas.\n( ) No flushing e na manutenção dos cateteres intravenosos periféricos, deve-se utilizar a técnica da pressão negativa para minimizar o retorno de sangue para o lúmen do cateter.",
+  "alts": [
+   "E - C - E - E - C.",
+   "C - C - C - E - E.",
+   "E - E - C - C - C.",
+   "C - E - E - C - E."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "ANVISA. Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017, item 4.1",
+  "coment": "O caderno da ANVISA (2017) diz para não usar cateter periférico em soluções acima de 900 mOsm/L (certa). Agulha de aço só para coleta de sangue e medicamento em dose única, sem manter o dispositivo no sítio, e não para soluções por até 6 horas (errada). No adulto, as veias de escolha são as das superfícies dorsal e ventral dos antebraços, não o dorso da mão (errada). Em terapia intensiva, sedados ou com déficit cognitivo, o sítio é avaliado a cada 1 a 2 horas (certa). O flushing usa pressão positiva (errada). Sequência C, E, E, C, E.",
+  "porAlt": [
+   "Erra a primeira, que está correta pelo limite de 900 mOsm/L, e aceita a agulha de aço para infusões.",
+   "Aceita a agulha de aço por até 6 horas e o dorso da mão como veia de escolha, ambos contrários ao caderno.",
+   "Erra a primeira afirmativa, correta, e aceita a técnica de pressão negativa no flushing.",
+   "Correta: certas a osmolaridade de 900 mOsm/L e a avaliação a cada 1 a 2 horas; as outras três contrariam o caderno."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 25,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A pressão intra-abdominal (PIA) é definida como a pressão distribuída uniformemente e oculta no interior da cavidade abdominal, resultante da interação entre a parede abdominal e as vísceras em seu interior. Sobre a PIA, analise as afirmativas abaixo e assinale a alternativa CORRETA.\nI. O valor da PIA no adulto crítico varia entre 8 e 12mmHg.\nII. A PIA é definida quando, após três mensurações seriadas com intervalos de 4 a 6 horas, ela se encontra igual ou maior do que 12mmHg.\nIII. A verificação da PIA pode ser realizada de forma direta, a partir da inserção de um cateter dentro do abdome, ou indireta, por meio da monitoração da pressão vesical, gástrica ou de outras cavidades.\nIV. A PIA deve ser medida no início da expiração, na posição de Fowler, após se garantir a ausência de contrações musculares abdominais.",
+  "alts": [
+   "Apenas as afirmativas I e II estão corretas.",
+   "Apenas as afirmativas II e III estão corretas.",
+   "Apenas as afirmativas III e IV estão corretas.",
+   "Apenas as afirmativas I e IV estão corretas."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Monitorização hemodinâmica",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "World Society of the Abdominal Compartment Syndrome, consenso e diretriz de 2013 (Kirkpatrick et al.)",
+  "coment": "A medida da PIA pode ser direta, por cateter intra-abdominal, ou indireta, pela pressão vesical, gástrica ou de outras cavidades (III certa). A afirmativa II descreve, na verdade, a hipertensão intra-abdominal: PIA de 12 mmHg ou mais, sustentada ou repetida, em medidas seriadas; o enunciado escreveu PIA, mas o gabarito a aceitou nesse sentido. No adulto crítico a PIA fica em torno de 5 a 7 mmHg (I errada), e a medida é feita ao fim da expiração, em decúbito dorsal horizontal (IV errada).",
+  "porAlt": [
+   "Inclui a afirmativa I, mas 8 a 12 mmHg está acima do valor habitual do adulto crítico, em torno de 5 a 7 mmHg.",
+   "Correta: a II descreve o critério de hipertensão intra-abdominal e a III, os métodos direto e indireto de medida.",
+   "Inclui a IV, mas a medida é feita ao fim da expiração e em decúbito dorsal, não em Fowler.",
+   "Combina duas afirmativas erradas: o valor habitual é menor e a posição de medida é o decúbito dorsal."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 26,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação à publicação do Ministério da Saúde, da Agência Nacional de Vigilância Sanitária e da Fundação Oswaldo Cruz (2013), intitulada “Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos”, assinale a alternativa CORRETA.",
+  "alts": [
+   "Em hospitais que utilizam prontuários e prescrições eletrônicas, as alergias do paciente devem ser registradas no sistema eletrônico e constar em todas as prescrições emitidas para o paciente.",
+   "O uso de impressão frente e verso para prescrição é altamente recomendado, a fim de diminuir o número de papeis impressos e possíveis perdas de folhas.",
+   "O sistema de distribuição de medicamentos por dose individualizada é considerado mais seguro do que os sistemas de distribuição por dose coletiva e por dose unitária.",
+   "A etapa de preparo de medicamentos é a última barreira para evitar um erro de medicação derivado dos processos de prescrição e dispensação."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "O protocolo do PNSP (2013) manda registrar as alergias do paciente na prescrição; com prontuário e prescrição eletrônicos, elas ficam no sistema e aparecem em todas as prescrições emitidas. O mesmo texto desaconselha a impressão frente e verso, porque favorece que a segunda página seja ignorada, aponta a dose unitária como o sistema de distribuição mais seguro e chama a administração, e não o preparo, de última barreira contra o erro de medicação.",
+  "porAlt": [
+   "Correta: com prescrição eletrônica, as alergias ficam registradas no sistema e constam em todas as prescrições.",
+   "O protocolo não recomenda prescrição frente e verso, porque a segunda face pode passar despercebida.",
+   "O sistema mais seguro é a dose unitária; a dose individualizada é menos segura que ela.",
+   "A última barreira é a administração do medicamento, não a etapa de preparo."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 27,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A sobrevivência ao câncer infantil aumentou consideravelmente nas últimas 5 décadas devido aos avanços nas terapias de suporte e no tratamento envolvendo terapia multimodal. Em relação à terapia das neoplasias da infância, assinale a alternativa CORRETA.",
+  "alts": [
+   "As terapias-alvo são substâncias que interferem em moléculas específicas envolvidas no câncer de forma semelhante aos agentes quimioterápicos citotóxicos tradicionais.",
+   "A imunoterapia funciona estimulando a atividade do sistema imunológico contra as células cancerígenas ou neutralizando os sinais produzidos pelas células cancerígenas que suprimem as respostas imunes, incluindo o uso de anticorpos monoclonais que se ligam a proteínas nas células cancerígenas para que o sistema imunológico possa encontrar e destruir as células neoplásicas.",
+   "Somente na administração de agentes imunoterápicos com potencial anafilático conhecido é padrão de prática segura observar a criança por 1 hora após a infusão quanto a sinais de anafilaxia, dispensando o preparo prévio de equipamentos e medicamentos de emergência.",
+   "A quimioterapia é a única forma de tratamento para as neoplasias infantojuvenis, sendo sempre a primeira opção no início da terapia, ou pode ser um complemento à cirurgia, à radioterapia ou ao transplante de células tronco hematopoiéticas."
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Hockenberry MJ, Wilson D, Rodgers CC. Wong's Essentials of Pediatric Nursing, 10ª ed., 2017",
+  "coment": "A imunoterapia age estimulando o sistema imune contra as células tumorais ou bloqueando os sinais com que o tumor suprime a resposta imune; os anticorpos monoclonais se ligam a proteínas da célula tumoral para que ela seja reconhecida e destruída. As terapias-alvo atuam em moléculas específicas e diferem da quimioterapia citotóxica, que atinge células em divisão de modo inespecífico. O tratamento do câncer infantojuvenil é multimodal, e qualquer agente com risco de anafilaxia exige material de emergência pronto antes da infusão.",
+  "porAlt": [
+   "As terapias-alvo agem de modo diferente da quimioterapia citotóxica tradicional, sobre alvos moleculares específicos.",
+   "Correta: descreve o mecanismo da imunoterapia, inclusive o dos anticorpos monoclonais.",
+   "Dispensar o preparo de equipamentos e medicamentos de emergência contraria a prática segura na infusão de imunoterápicos.",
+   "A quimioterapia não é a única opção; o tratamento é multimodal, com cirurgia, radioterapia, imunoterapia e transplante."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 28,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As insuficiências respiratórias agudas constituem um evento frequente entre crianças com grande impacto na saúde. Os casos de insuficiência respiratória aguda associada às infecções de vias aéreas inferiores requerem tratamento com oxigenoterapia, hidratação e aspiração de secreções, entre outros. Os sistemas de cânula nasal de alto fluxo (CNAF) vêm sendo muito utilizados atualmente em pacientes críticos pediátricos. Em relação aos efeitos da utilização do CNAF, assinale a alternativa CORRETA.",
+  "alts": [
+   "Aumenta o espaço morto atenuando a frequência respiratória.",
+   "Pior condutância das vias aéreas.",
+   "Resistência inspiratória reduzida.",
+   "Fornecimento de altos níveis de pressão positiva nas vias aéreas."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Oxigenoterapia e vias aéreas",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Hockenberry MJ, Wilson D, Rodgers CC. Wong's Essentials of Pediatric Nursing, 10ª ed., 2017",
+  "coment": "A cânula nasal de alto fluxo entrega gás aquecido e umidificado em fluxo que supera a demanda inspiratória da criança. Com isso, lava o espaço morto da nasofaringe (reduz, e não aumenta, o espaço morto), melhora a condutância das vias aéreas e reduz a resistência inspiratória e o trabalho respiratório. Gera apenas um pouco de pressão positiva, variável e não controlada, por isso não substitui a ventilação não invasiva quando se precisa de pressão alta.",
+  "porAlt": [
+   "O alto fluxo lava o espaço morto anatômico, ou seja, reduz o espaço morto em vez de aumentá-lo.",
+   "O gás aquecido e umidificado melhora a condutância das vias aéreas, não a piora.",
+   "Correta: ao suprir o pico de fluxo inspiratório, a CNAF reduz a resistência inspiratória e o trabalho respiratório.",
+   "A pressão positiva gerada pela CNAF é baixa e variável, não alta como na ventilação não invasiva."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 29,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A cardiopatia congênita é uma anormalidade anatômica e funcional do coração que ocorre durante o período embrionário. Os sintomas variam entre leves e por vezes assintomáticos, e em outras situações são graves, necessitando de intervenção cirúrgica. Com relação aos cuidados pós-cirúrgicos no cenário da cirurgia cardíaca de alta complexidade na admissão do paciente na unidade de terapia intensiva, o enfermeiro tem atribuições específicas. Sobre essas atribuições, assinale a alternativa CORRETA.",
+  "alts": [
+   "Reserva de hemoderivados no banco de sangue.",
+   "Conferência de termos de consentimento informados.",
+   "Montagem de leito e conferência de materiais de coleta.",
+   "Monitorização das pressões hemodinâmicas e domínio de seus significados."
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Monitorização hemodinâmica",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024 (Processo de Enfermagem); Lei 7.498/1986, art. 11, I, l e m",
+  "coment": "Na admissão do pós-operatório de cirurgia cardíaca congênita de alta complexidade, o paciente é grave, com risco de vida, e os cuidados de maior complexidade técnica são privativos do enfermeiro (Lei 7.498/1986, art. 11, I). Monitorizar pressões hemodinâmicas, como pressão arterial invasiva, pressão venosa central e pressão de átrio esquerdo, e entender seu significado é a atribuição específica que sustenta a avaliação e o planejamento. Reserva de hemoderivados, termos e montagem de leito são tarefas de preparo ou de outros profissionais.",
+  "porAlt": [
+   "A reserva de hemoderivados é feita por solicitação médica ao banco de sangue, não é atribuição específica do enfermeiro.",
+   "A conferência dos termos de consentimento cabe à equipe médica e ao processo pré-operatório, não à admissão na UTI.",
+   "Montar o leito e conferir materiais é preparo que pode ser feito pela equipe técnica, sob supervisão.",
+   "Correta: monitorizar as pressões hemodinâmicas e interpretar seu significado é atribuição do enfermeiro no paciente grave."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 30,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante os primeiros anos de vida, as crianças são mais vulneráveis às situações estressoras advindas da doença e até mesmo de hospitalizações. Sobre as manifestações de ansiedade de separação, analise as afirmativas abaixo e assinale a alternativa CORRETA.\nI. Fase de desespero inclui comportamentos como: inatividade, depressão e tristeza.\nII. Fase de protesto inclui comportamentos como: chorar, agarrar-se aos pais, evitar e rejeitar contato com estranhos.\nIII. Fase de desapego inclui comportamentos como: ficar feliz e interagir com estranhos.",
+  "alts": [
+   "Apenas a afirmativa I está correta.",
+   "Apenas as afirmativas II e III estão corretas.",
+   "Apenas as afirmativas I e III estão corretas.",
+   "Todas as afirmativas estão corretas."
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hockenberry MJ, Wilson D, Rodgers CC. Wong's Essentials of Pediatric Nursing, 10ª ed., 2017",
+  "coment": "A ansiedade de separação na criança hospitalizada evolui em três fases. Protesto: chora, grita, agarra-se aos pais e rejeita estranhos. Desespero: fica inativa, triste, deprimida, com pouco interesse pelo ambiente. Desapego, ou negação: parece adaptada, mais interessada no ambiente e interage com estranhos e cuidadores, mas é uma resignação superficial, sinal de separação prolongada. As três afirmativas descrevem corretamente cada fase, e a presença dos pais é a principal prevenção.",
+  "porAlt": [
+   "Exclui II e III, mas protesto e desapego também estão descritos corretamente.",
+   "Exclui a afirmativa I, mas inatividade e tristeza caracterizam a fase de desespero.",
+   "Exclui a afirmativa II, mas choro e apego aos pais são a fase de protesto.",
+   "Correta: as três afirmativas descrevem bem as fases de protesto, desespero e desapego."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A síndrome de lise tumoral (SLT) é considerada uma importante emergência oncológica pediátrica. Sobre o assunto, avalie se as afirmativas são certas (C) ou erradas (E) e assinale a sequência correspondente.\n( ) A SLT geralmente ocorre em pacientes com leucemia linfoblástica aguda ou linfoma de Burkitt durante o período inicial de tratamento. No entanto, também poderá ocorrer espontaneamente antes do início da terapia.\n( ) Entre os fatores de risco para o desenvolvimento da SLT, podemos citar alta contagem de leucócitos no diagnóstico, grande carga tumoral e células cancerígenas com alta taxa proliferativa.\n( ) As anormalidades metabólicas que caracterizam a SLT incluem: hiperuricemia, hipocalcemia, hiperfosfatemia e hiperpotassemia.",
+  "alts": [
+   "E - E - C.",
+   "C - C - C.",
+   "C - E - E.",
+   "E - C - E."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hockenberry MJ, Wilson D, Rodgers CC. Wong's Essentials of Pediatric Nursing, 10ª ed., 2017",
+  "coment": "A síndrome de lise tumoral resulta da destruição maciça de células malignas e ocorre sobretudo na leucemia linfoblástica aguda e no linfoma de Burkitt, no início do tratamento, podendo surgir antes dele. Os fatores de risco são leucometria alta, grande carga tumoral e alta taxa proliferativa. A liberação do conteúdo celular causa hiperuricemia, hiperpotassemia, hiperfosfatemia e hipocalcemia secundária. Hidratação vigorosa, controle de diurese e de eletrólitos são o centro do cuidado.",
+  "porAlt": [
+   "Marca como erradas as duas primeiras, mas tumores de alta proliferação e grande carga tumoral são o cenário típico.",
+   "Correta: as três afirmativas descrevem o cenário, os fatores de risco e a tétrade metabólica da lise tumoral.",
+   "Marca como erradas os fatores de risco e a tétrade metabólica, que estão corretos.",
+   "Marca como errada a primeira, mas LLA e Burkitt no início do tratamento são o contexto clássico."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O cuidado paliativo, realizado por uma equipe multiprofissional, é a abordagem que visa à promoção da qualidade de vida de pacientes e seus familiares, por meio da avaliação precoce e do controle de sintomas físicos, sociais, emocionais, espirituais desagradáveis, no contexto de doenças que ameaçam a continuidade da vida. Sobre o assunto, assinale a alternativa CORRETA.",
+  "alts": [
+   "O prognóstico depende de vários fatores, desde a doença de base e a sua gravidade clínica até a idade do paciente, presença de comorbidades, funcionalidade e tratamentos já realizados.",
+   "Os cuidados paliativos substituem os cuidados curativos, oferecendo recursos que visem à qualidade de vida, reduzindo sintomas desagradáveis oriundos de uma patologia incurável.",
+   "A classificação de classes funcionais de insuficiência cardíaca da New York Heart Association (NYHA) indica classe I para limitação leve da atividade física; atividade física moderada resulta em fadiga, palpitações ou dispneia.",
+   "As escalas de funcionalidade ECOG (Eastern Cooperative Oncology Group) Performance Status e KARNOFSKY Performance Status (KPS) devem ser aplicadas concomitantemente para que seja possível avaliar o grau de dependência do paciente, avaliando a necessidade de cuidados paliativos."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Cuidados paliativos",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 3.681/2024 (Política Nacional de Cuidados Paliativos); Manual de Cuidados Paliativos ANCP, 2ª ed., 2012",
+  "coment": "O prognóstico em cuidados paliativos é multifatorial: depende da doença de base e de sua gravidade, da idade, das comorbidades, da funcionalidade e dos tratamentos já feitos. O cuidado paliativo começa cedo e caminha junto com o tratamento modificador da doença, sem substituí-lo, como prevê a Política Nacional de Cuidados Paliativos (2024). ECOG e KPS são escalas alternativas de funcionalidade, não precisam ser aplicadas juntas, e a classe I da NYHA é a de ausência de limitação.",
+  "porAlt": [
+   "Correta: o prognóstico depende da doença, da gravidade, da idade, das comorbidades, da funcionalidade e dos tratamentos prévios.",
+   "Cuidados paliativos não substituem os curativos; são oferecidos junto com eles desde o diagnóstico de doença ameaçadora da vida.",
+   "A classe I da NYHA é a de nenhuma limitação; a descrição dada corresponde à classe II.",
+   "ECOG e KPS medem a mesma dimensão e podem ser usados isoladamente; não há exigência de aplicação concomitante."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação à derivação ventricular encefálica (DVE) e à pressão intracraniana (PIC) em pacientes adultos, é CORRETO afirmar que:",
+  "alts": [
+   "A PIC tem como valores normais 0 a 10mmHg.",
+   "Quando a pressão permanece maior que 20mmHg por mais de cinco minutos, ocorre uma diminuição da perfusão cerebral e a formação de edema.",
+   "A DVE está indicada mesmo quando o paciente tenha alguma infecção no couro cabeludo ou abscessos no local.",
+   "Em pacientes com DVE, a cabeceira da cama não deve ser elevada."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth's Textbook of Medical-Surgical Nursing, 14ª ed., 2018; Brain Trauma Foundation, 4ª ed., 2017",
+  "coment": "Pressão intracraniana elevada de forma sustentada, acima de 20 mmHg por mais de alguns minutos, reduz a pressão de perfusão cerebral (PAM menos PIC) e favorece isquemia e edema, como diz a alternativa B. A Brain Trauma Foundation (2017) trata PIC acima de 22 mmHg. Infecção no couro cabeludo ou abscesso no local contraindica a DVE, e a cabeceira fica elevada a 30 a 45° para favorecer a drenagem venosa. A banca considerou errada a faixa normal de 0 a 10 mmHg, ponto em que as fontes variam.",
+  "porAlt": [
+   "A banca não aceitou 0 a 10 mmHg como faixa normal da PIC no adulto, que os manuais descrevem com limite superior maior.",
+   "Correta: PIC acima de 20 mmHg sustentada reduz a perfusão cerebral e favorece o edema.",
+   "Infecção no couro cabeludo ou abscesso no local de inserção contraindica a derivação ventricular externa.",
+   "No paciente com DVE e PIC elevada a cabeceira fica elevada, em geral a 30°, salvo prescrição em contrário."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação ao balão intra-aórtico (BIA) utilizado em pacientes adultos, é CORRETO afirmar que:",
+  "alts": [
+   "É um cateter com um balão inflável na extremidade que é frequentemente inserido pela artéria femoral e posicionado na aorta torácica descendente.",
+   "No momento de sua insuflação, provoca a diminuição da pressão na aorta que, por consequência, aumenta o fluxo sanguíneo para as artérias coronárias.",
+   "No momento da desinsuflação, deixa um vácuo que proporciona o aumento da resistência que o coração precisa enfrentar durante a ejeção (pós-carga), provocando a diminuição do esforço ventricular.",
+   "Está indicado para pacientes com insuficiência aórtica moderada."
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Monitorização hemodinâmica",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth's Textbook of Medical-Surgical Nursing, 14ª ed., 2018",
+  "coment": "O balão intra-aórtico é um cateter com balão na ponta, inserido em geral pela artéria femoral e posicionado na aorta torácica descendente, logo abaixo da subclávia esquerda. Infla na diástole, o que aumenta a pressão diastólica na aorta e o fluxo coronariano, e desinfla antes da sístole, o que reduz a pós-carga e o trabalho do ventrículo. A insuficiência aórtica é contraindicação, porque a insuflação diastólica aumentaria o refluxo para o ventrículo.",
+  "porAlt": [
+   "Correta: o BIA é inserido em geral pela femoral e posicionado na aorta torácica descendente.",
+   "A insuflação, na diástole, aumenta a pressão aórtica diastólica, e é isso que aumenta o fluxo coronariano.",
+   "A desinsuflação reduz a pós-carga, e não aumenta; por isso diminui o esforço do ventrículo.",
+   "Insuficiência aórtica contraindica o BIA, porque a insuflação aumentaria o refluxo para o ventrículo."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Qual das condições abaixo é indicação para utilização da ventilação não invasiva na pediatria?",
+  "alts": [
+   "Hipersecreção respiratória.",
+   "Pneumotórax não drenado.",
+   "Patologias hipoxêmicas, como pneumonia e bronquiolite.",
+   "Falência orgânica não respiratória."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hockenberry MJ, Wilson D, Rodgers CC. Wong's Essentials of Pediatric Nursing, 10ª ed., 2017",
+  "coment": "Na pediatria, a ventilação não invasiva é indicada em insuficiência respiratória aguda em que a criança mantém proteção de via aérea e drive respiratório, como nas doenças hipoxêmicas, por exemplo pneumonia e bronquiolite. Hipersecreção, que exige aspiração frequente e ameaça a via aérea, pneumotórax não drenado e falência de outros órgãos, com instabilidade hemodinâmica ou rebaixamento de consciência, são contraindicações clássicas, e nelas a via segura é a intubação.",
+  "porAlt": [
+   "Hipersecreção respiratória é contraindicação, porque a máscara dificulta a eliminação e aumenta o risco de aspiração.",
+   "Pneumotórax não drenado contraindica a ventilação com pressão positiva não invasiva.",
+   "Correta: doenças hipoxêmicas como pneumonia e bronquiolite são indicação de ventilação não invasiva na criança.",
+   "Falência orgânica não respiratória, com instabilidade ou rebaixamento de consciência, contraindica a VNI."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Portaria GM/MS nº 2.862/2023 altera a Portaria de Consolidação GM/MS nº 3, de 28 de setembro de 2017, para dispor sobre as unidades de terapia intensiva (UTI). Conforme a Portaria, a habilitação para UTI adulto deverá dispor minimamente de equipamentos. Sobre as quantidades dos três equipamentos listados abaixo, analise as afirmativas e assinale a alternativa CORRETA.\nI. Equipamento desfibrilador e cardioversor, com bateria: 01 (um) para cada 10 (dez) leitos.\nII. Marcapasso cardíaco temporário, eletrodos e gerador: 01 (um) para cada 10 (dez) leitos.\nIII. Monitor de débito cardíaco: 01 (um) por unidade.",
+  "alts": [
+   "Apenas a afirmativa II está correta.",
+   "Apenas as afirmativas I e II estão corretas.",
+   "Apenas as afirmativas I e III estão corretas.",
+   "Todas as afirmativas estão corretas."
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 2.862/2023 (altera a Portaria de Consolidação 3/2017 sobre UTI e UCI)",
+  "coment": "A Portaria GM/MS 2.862/2023 reescreveu na Portaria de Consolidação 3/2017 os requisitos de habilitação de UTI e UCI no SUS. Na lista mínima de equipamentos para habilitar UTI adulto, o gabarito definitivo considerou corretas as três quantidades: desfibrilador e cardioversor com bateria, 1 para cada 10 leitos; marcapasso temporário, 1 para cada 10 leitos; monitor de débito cardíaco, 1 por unidade. Não confunda com a RDC ANVISA 7/2010, norma sanitária de funcionamento, que pede desfibrilador e cardioversor na proporção de 1 para cada 5 leitos.",
+  "porAlt": [
+   "Exclui I e III, que o gabarito definitivo considera correspondentes à lista da Portaria 2.862/2023.",
+   "Exclui o monitor de débito cardíaco, 1 por unidade, que também está na lista mínima da portaria.",
+   "Exclui o marcapasso temporário, 1 para cada 10 leitos, que também consta da lista da portaria.",
+   "Correta: o gabarito definitivo considera as três quantidades de acordo com a lista mínima da Portaria 2.862/2023."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Portaria GM/MS nº 2.862/2023 altera a Portaria de Consolidação GM/MS nº 3, de 28 de setembro de 2017, para dispor sobre as unidades de terapia intensiva (UTI). Conforme a Portaria, a habilitação para UTI pediátrica tipo III deverá contar com determinados profissionais. Analise as afirmativas e assinale a alternativa CORRETA.\nI. Enfermeiro responsável técnico com habilitação em terapia intensiva pediátrica comprovada por título.\nII. Um enfermeiro plantonista, para cada cinco leitos ou fração, exclusivo da unidade.\nIII. Ao menos 50% dos médicos plantonistas com habilitação em terapia intensiva pediátrica comprovada por título, e 1 médico para cada 10 (dez) leitos ou fração.",
+  "alts": [
+   "Apenas a afirmativa II está correta.",
+   "Apenas as afirmativas I e II estão corretas.",
+   "Apenas as afirmativas I e III estão corretas.",
+   "Todas as afirmativas estão corretas."
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 2.862/2023 (altera a Portaria de Consolidação 3/2017 sobre UTI e UCI)",
+  "coment": "Para habilitar UTI pediátrica tipo III, a Portaria GM/MS 2.862/2023 exige enfermeiro responsável técnico com habilitação em terapia intensiva pediátrica comprovada por título e enfermeiro plantonista exclusivo da unidade na proporção de 1 para cada 5 leitos ou fração; o gabarito definitivo aceitou as afirmativas I e II. A afirmativa III foi considerada errada porque a regra dos médicos plantonistas da portaria não é a que ela descreve. Habilitação no SUS é diferente da RDC ANVISA 7/2010, que fixa mínimos sanitários.",
+  "porAlt": [
+   "Exclui a afirmativa I, mas a exigência de enfermeiro RT com título em terapia intensiva pediátrica foi considerada correta.",
+   "Correta: o gabarito aceita o RT com título e o enfermeiro plantonista exclusivo para cada 5 leitos ou fração.",
+   "Inclui a afirmativa III, que o gabarito considera divergente da regra para médicos plantonistas, e exclui a II.",
+   "A afirmativa III foi considerada errada, então nem todas estão corretas."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A criança em choque apresenta mecanismos compensatórios para a manutenção do débito cardíaco. Para isso, é CORRETO afirmar que:",
+  "alts": [
+   "Em crianças pequenas, o débito cardíaco é mais dependente da frequência cardíaca do que do volume de ejeção, em decorrência de menor massa muscular no ventrículo.",
+   "O aumento do tônus da musculatura dos vasos sanguíneos resulta em um aumento do débito cardíaco pós-carga.",
+   "A persistência da acidose e o transporte inadequado de substratos contribui para o aumento da função miocárdica.",
+   "Nas crianças, a hipotensão é um sinal precoce e súbito de descompensação cardiovascular."
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hockenberry MJ, Wilson D, Rodgers CC. Wong's Essentials of Pediatric Nursing, 10ª ed., 2017",
+  "coment": "Débito cardíaco é frequência cardíaca vezes volume sistólico. Na criança pequena o ventrículo tem pouca massa muscular e pouca capacidade de aumentar o volume sistólico, por isso o débito depende sobretudo da frequência: a taquicardia é o primeiro mecanismo compensatório. A vasoconstrição aumenta a resistência vascular e mantém a pressão, mas eleva a pós-carga; a acidose deprime o miocárdio; e a hipotensão é sinal tardio, que indica choque descompensado.",
+  "porAlt": [
+   "Correta: na criança pequena o débito cardíaco depende mais da frequência cardíaca, pela menor massa ventricular.",
+   "A vasoconstrição aumenta a pós-carga e a resistência vascular, não o débito cardíaco.",
+   "Acidose persistente e oferta inadequada de substratos deprimem a função miocárdica, não a aumentam.",
+   "Na criança a hipotensão é sinal tardio de descompensação, que surge quando os mecanismos compensatórios falham."
+  ],
+  "fonte": {
+   "banca": "UFCSPA (FUNDMED)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 39,
+   "parte": "especificas"
+  }
+ }
+]

@@ -1,0 +1,1440 @@
+[
+ {
+  "q": "Uma pesquisa será realizada com o objetivo de conhecer as preferências alimentares da população brasileira, na qual os participantes voluntariamente solicitam participar da pesquisa, e a coleta de dados será feita mediante o preenchimento de um formulário online. Assinale a alternativa que corresponde a esse tipo de amostragem.",
+  "alts": [
+   "Intencional.",
+   "Bola de neve.",
+   "Estratificada.",
+   "Conglomerados.",
+   "Auto-seleção."
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Resolução CNS 466/2012; Resolução CNS 510/2016 (pesquisa com coleta on-line)",
+  "coment": "Na amostragem por autosseleção (ou voluntária), é o próprio participante que decide entrar no estudo, respondendo a um convite aberto, como um formulário on-line divulgado ao público. É uma amostragem não probabilística: ninguém sorteia os participantes, e quem responde tende a ser diferente de quem ignora o convite (viés de autosseleção), o que limita a generalização para a população brasileira. Nas probabilísticas (estratificada, por conglomerados) o pesquisador sorteia as unidades.",
+  "porAlt": [
+   "Na amostragem intencional é o pesquisador que escolhe, por julgamento, quem tem as características desejadas.",
+   "Na bola de neve cada participante indica outros, o que serve a populações ocultas, e não a inscrição espontânea.",
+   "A estratificada divide a população em estratos e sorteia dentro de cada um, sendo probabilística.",
+   "Por conglomerados se sorteiam grupos inteiros (bairros, escolas), e não pessoas que se oferecem.",
+   "Correta: os participantes se oferecem voluntariamente pelo formulário on-line, o que define a autosseleção."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 24,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Na atenção domiciliar, para a compreensão da família, podemos utilizar uma ferramenta que é uma representação gráfica dos contatos dos membros da família com os outros sistemas sociais, das relações entre a família e a comunidade. Assinale a alternativa que corresponde a essa ferramenta da abordagem familiar.",
+  "alts": [
+   "Genograma",
+   "Ecomapa",
+   "Estrutura familiar",
+   "Ciclo de vida familiar",
+   "Tipologia familiar"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Wright e Leahey, Enfermeiras e famílias: Modelo Calgary de Avaliação da Família, 5ª ed., 2012; Portaria GM/MS 2.436/2017 (PNAB)",
+  "coment": "O ecomapa desenha a família no centro e, em volta, os sistemas com que ela se relaciona (escola, trabalho, igreja, UBS, vizinhos), com linhas que indicam vínculos fortes, frágeis ou conflituosos e o sentido do fluxo de energia. Por isso responde exatamente ao enunciado: contatos da família com outros sistemas sociais e com a comunidade. O genograma, ao contrário, mostra a estrutura interna e as gerações. No Modelo Calgary, os dois instrumentos compõem a avaliação estrutural da família, usada na visita domiciliar pela equipe de Saúde da Família.",
+  "porAlt": [
+   "O genograma é a árvore familiar com gerações, doenças e relações internas, não os contatos externos.",
+   "Correta: o ecomapa representa as ligações da família com os sistemas sociais e a comunidade.",
+   "Estrutura familiar é a composição da família, e não um instrumento gráfico de contatos externos.",
+   "Ciclo de vida familiar descreve as etapas que a família atravessa, como casamento, filhos e saída dos filhos.",
+   "Tipologia familiar classifica a família (nuclear, extensa, monoparental), sem mapear relações externas."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 26,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "As Conferências Nacionais de Saúde constituem o principal espaço democrático para a construção de políticas públicas de saúde no Brasil. No processo histórico das Conferências Nacionais, podemos destacar uma que teve como tema central: Constituição do Sistema Nacional de Saúde e a sua institucionalização. Assinale a alternativa que corresponde a essa Conferência.",
+  "alts": [
+   "8º",
+   "7º",
+   "6º",
+   "5º",
+   "3º"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 6.229/1975 (Sistema Nacional de Saúde); Lei 8.142/1990, art. 1º (conferências de saúde)",
+  "coment": "A 5ª Conferência Nacional de Saúde, de 1975, discutiu a implantação do Sistema Nacional de Saúde, criado pela Lei 6.229/1975, ao lado dos programas materno-infantil, de vigilância epidemiológica, de grandes endemias e de extensão das ações às populações rurais. Por isso seu eixo é resumido como constituição do Sistema Nacional de Saúde e sua institucionalização. A 8ª, de 1986, é a da Reforma Sanitária e da saúde como direito. Hoje as conferências são previstas na Lei 8.142/1990 e se reúnem a cada quatro anos.",
+  "porAlt": [
+   "A 8ª Conferência, de 1986, tratou da saúde como direito e da reformulação do sistema, base do SUS.",
+   "A 7ª, de 1980, discutiu a extensão das ações de saúde por meio dos serviços básicos (Prev-Saúde).",
+   "A 6ª, de 1977, tratou do controle das grandes endemias e da interiorização dos serviços.",
+   "Correta: a 5ª Conferência, de 1975, discutiu a implantação do Sistema Nacional de Saúde da Lei 6.229/1975.",
+   "A 3ª, de 1963, discutiu a situação sanitária e a municipalização dos serviços de saúde."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 27,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Lei 8.080/90 regulamentou, em todo o território nacional, as ações e serviços do Sistema Único de Saúde (SUS). Sobre isso, analise os itens abaixo:\nI. Vigilância nutricional e a orientação alimentar.\nII. Fiscalização e a inspeção de alimentos para consumo humano.\nIII. Ordenação da formação de recursos humanos na área de saúde.\nIV. Formulação e execução da política de sangue e seus derivados.\nAssinale a alternativa em que são considerados os campos de atuação do SUS.",
+  "alts": [
+   "I, II, III e IV estão corretas.",
+   "Apenas I, III e IV estão corretas.",
+   "Apenas II e IV estão corretas.",
+   "Apenas I e III estão corretas.",
+   "Apenas I e II estão corretas."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 6º, incisos III, IV, VIII e XI",
+  "coment": "O art. 6º da Lei 8.080/1990 lista o campo de atuação do SUS. Os quatro itens estão lá: ordenação da formação de recursos humanos na área de saúde (inciso III), vigilância nutricional e orientação alimentar (IV), fiscalização e inspeção de alimentos, água e bebidas para consumo humano (VIII) e formulação e execução da política de sangue e seus derivados (XI). Como nenhum item traz palavra trocada, todos estão corretos. A pegadinha comum é achar que sangue ou formação profissional ficam fora da saúde.",
+  "porAlt": [
+   "Correta: os quatro itens estão no art. 6º da Lei 8.080/1990 (incisos III, IV, VIII e XI).",
+   "Exclui a fiscalização de alimentos, que é o inciso VIII do art. 6º.",
+   "Exclui a vigilância nutricional (inciso IV) e a formação de recursos humanos (inciso III).",
+   "Exclui a fiscalização de alimentos (VIII) e a política de sangue (XI), ambas do art. 6º.",
+   "Exclui a formação de recursos humanos (III) e a política de sangue e derivados (XI)."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 28,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Analise a tabela abaixo, que representa um diagrama de um teste diagnóstico utilizado para a aferição de um teste diagnóstico comparado ao Padrão-Ouro.\nPADRÃO-OURO\nFATOR: EXPOSTOS — ACOMETIDOS: a; NÃO ACOMETIDOS: b; TOTAL: a+b\nFATOR: NÃO EXPOSTOS — ACOMETIDOS: c; NÃO ACOMETIDOS: d; TOTAL: c+d\nTOTAL — ACOMETIDOS: a+c; NÃO ACOMETIDOS: b+d; TOTAL: a+b+c+d\nAnalisando a tabela, assinale a alternativa que corresponde ao resultado da divisão do valor da casela “a+c” por “a+b+c+d”.",
+  "alts": [
+   "Sensibilidade",
+   "Especificidade",
+   "Prevalência",
+   "Valor Preditivo",
+   "Razão de Verossimilhança"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Rouquayrol e Gurgel, Epidemiologia e Saúde, 8ª ed., 2018 (tabela 2x2 e medidas de validade)",
+  "coment": "Na tabela 2x2, a+c é o total de doentes (acometidos) e a+b+c+d é o total de pessoas estudadas. Dividir doentes pelo total dá a proporção de doentes na amostra, isto é, a prevalência (pré-teste). As medidas de validade do teste usam outros denominadores: sensibilidade é a/(a+c), especificidade é d/(b+d), valor preditivo positivo é a/(a+b) e negativo é d/(c+d). A tabela da banca rotula as linhas como expostos e não expostos, mas o raciocínio pelo denominador é o mesmo.",
+  "porAlt": [
+   "Sensibilidade é a/(a+c): verdadeiros positivos sobre todos os doentes, e não doentes sobre o total.",
+   "Especificidade é d/(b+d): verdadeiros negativos sobre todos os não doentes.",
+   "Correta: (a+c)/(a+b+c+d) é a proporção de doentes no total estudado, ou seja, a prevalência.",
+   "Valor preditivo positivo é a/(a+b) e negativo é d/(c+d), com denominador nos resultados do teste.",
+   "A razão de verossimilhança combina sensibilidade e especificidade, por exemplo sensibilidade/(1 menos especificidade)."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 29,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A construção do termo cuidado centrado na família teve início em meados de 1969, com o propósito de definir a qualidade do cuidado prestado no hospital, segundo a visão dos pacientes e suas famílias, e de discutir a autonomia do paciente frente às suas necessidades de saúde. O Instituto de Cuidado Centrado na Família (ICCF) define essa abordagem de cuidado à saúde como um processo de planejamento, prestação e avaliação baseados em parceria com benefícios mútuos entre pacientes, famílias e provedores. Sobre os pressupostos centrais do cuidado centrado na família pelo ICCF, analise as afirmativas abaixo e coloque V nas verdadeiras e F nas falsas.\n( ) Dignidade e respeito: os profissionais de saúde ouvem e respeitam as escolhas e perspectivas do paciente e da família.\n( ) O conhecimento, os valores, as crenças e a cultura do paciente e da família são incorporados ao planejamento e à prestação do cuidado.\n( ) Participação: pacientes e famílias são encorajados e apoiados a participarem do cuidado e da tomada de decisão, escolhendo seu nível de atuação.\n( ) Colaboração: pacientes e famílias são incluídos como base de apoio da instituição.\nAssinale a alternativa que indica a sequência CORRETA.",
+  "alts": [
+   "F-F-V-V",
+   "F-F-F-V",
+   "V-V-V-F",
+   "V-V-V-V",
+   "V-V-F-V"
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Institute for Patient- and Family-Centered Care (IPFCC), conceitos centrais; Lei 8.069/1990 (ECA), art. 12 (permanência dos pais na internação)",
+  "coment": "O IPFCC define quatro conceitos centrais: dignidade e respeito, compartilhamento de informações, participação e colaboração. As quatro afirmativas são verdadeiras. A segunda é parte da definição de dignidade e respeito (conhecimento, valores, crenças e cultura incorporados ao cuidado). A quarta é tradução livre de que pacientes e famílias também são incluídos em nível institucional: colaboram na elaboração de políticas, programas, formação de profissionais e desenho de serviços, além do cuidado direto. A expressão base de apoio da instituição é estranha, mas o conteúdo é esse.",
+  "porAlt": [
+   "Marca como falsas a dignidade e respeito e a incorporação de valores e cultura, que são conceitos centrais do IPFCC.",
+   "Só aceita a colaboração e nega dignidade, respeito à cultura e participação, todos pressupostos do modelo.",
+   "Nega a colaboração, que é o quarto conceito central: famílias também atuam no nível institucional.",
+   "Correta: as quatro afirmativas descrevem os conceitos centrais do cuidado centrado na família segundo o IPFCC.",
+   "Nega a participação, que é conceito central: famílias escolhem seu nível de envolvimento no cuidado e nas decisões."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o processo de enfermagem na Atenção Básica de Saúde, assinale a alternativa CORRETA.",
+  "alts": [
+   "No Brasil, o método científico empregado para organizar a assistência de enfermagem prestada à pessoa, à família e/ou às comunidades tem sido denominado Sistematização da Assistência de Enfermagem (SAE), como é comumente conhecido na literatura internacional.",
+   "A implementação da Sistematização da Assistência de Enfermagem (SAE) agrega benefícios exclusivos à equipe de enfermagem, aprimorando a qualidade da consulta de enfermagem, favorecendo o registro do raciocínio clínico do enfermeiro, especificando o cuidado prestado e fomentando a organização do processo de trabalho.",
+   "A equipe de enfermagem reconhece a SAE como um potencial de fortalecimento para a melhoria da qualidade da assistência em enfermagem, apesar dessa ferramenta ainda não ser executada em sua totalidade no dia a dia.",
+   "O diagnóstico de enfermagem não expõe a interpretação analítica das situações de interesse da área da Enfermagem de maneira coerente com as contribuições do enfermeiro para a saúde da população.",
+   "Se uma prescrição de enfermagem estiver incompleta, a qualidade do atendimento ofertado não ficará comprometida e fragilizada à jurisdição profissional do enfermeiro e de sua equipe."
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024 (revogou a Resolução COFEN 358/2009)",
+  "coment": "A alternativa C descreve um achado recorrente: a equipe reconhece a sistematização como caminho para qualificar a assistência, mas ainda não a executa por inteiro na rotina. Nas demais há erros conceituais. O método científico conhecido na literatura internacional é o Processo de Enfermagem (nursing process), não a SAE, termo brasileiro que na Res. 358/2009 designava a organização do trabalho. A Res. COFEN 736/2024, vigente, revogou a 358/2009, trata só do Processo de Enfermagem em cinco etapas e torna diagnóstico e prescrição privativos do enfermeiro.",
+  "porAlt": [
+   "Erra porque o termo internacional é Processo de Enfermagem (nursing process); SAE é designação brasileira.",
+   "Erra ao dizer benefícios exclusivos da enfermagem: o paciente, a equipe multiprofissional e a instituição também ganham.",
+   "Correta: a equipe valoriza a sistematização para a qualidade, embora ainda não a execute em sua totalidade.",
+   "Erra porque o diagnóstico de enfermagem expressa justamente a interpretação clínica do enfermeiro sobre as respostas humanas.",
+   "Erra porque prescrição incompleta compromete a qualidade do cuidado e fragiliza o respaldo legal da equipe."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A diarreia é um problema de saúde comum na infância. Sobre essa enfermidade, analise as assertivas abaixo.\nI. A diarreia aguda aquosa se caracteriza pela perda de grande volume de líquidos e pode causar desidratação. É causada por bactérias e vírus, na maioria dos casos, e tem duração inferior a 14 dias.\nII. Nos quadros de disenteria, é observada a presença de sangue nas fezes. Este sinal evidencia a existência de lesão na mucosa intestinal. Os principais patógenos causadores de disenteria são as bactérias do gênero Shigella.\nIII. Nos casos de diarreia persistente, a duração do quadro é de 14 dias ou mais. Crianças que evoluem para diarreia persistente constituem um grupo com alto risco de complicações.\nIV. Ao avaliar uma criança com histórico de três ou mais evacuações amolecidas ou líquidas nas últimas 24 horas, associado a sinais de desidratação, o enfermeiro deve orientar a ingestão de Sais de Reidratação Oral (SRO), até que os indícios de desidratação desapareçam, e zinco oral (uma vez ao dia) durante 10 dias.\nEstá CORRETO o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "III e IV, apenas.",
+   "I, II, III, IV."
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Manejo do paciente com diarreia, 2023; Manual AIDPI Criança, 2017",
+  "coment": "As quatro afirmativas estão corretas. Diarreia aguda são três ou mais evacuações amolecidas em 24 horas, com até 14 dias, em geral viral ou bacteriana; com 14 dias ou mais é persistente, de maior risco nutricional e de complicações; com sangue é disenteria, em geral por Shigella. Com sinais de desidratação aplica-se o Plano B: SRO na unidade, 50 a 100 mL/kg em 4 a 6 horas, até desaparecerem os sinais, e zinco uma vez ao dia por 10 a 14 dias em menores de 5 anos (10 mg até 6 meses; 20 mg depois), segundo o cartaz do MS de 2023.",
+  "porAlt": [
+   "Deixa de fora II, III e IV, que também estão corretas pelo manejo da diarreia do MS.",
+   "Exclui a diarreia persistente (14 dias ou mais) e o Plano B com SRO e zinco, ambos corretos.",
+   "Exclui a diarreia aguda aquosa e o Plano B, também descritos corretamente.",
+   "Exclui a diarreia aguda aquosa e a disenteria por Shigella, que estão corretas.",
+   "Correta: as quatro afirmativas seguem o manejo da diarreia do MS e a AIDPI."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A saúde do adolescente envolve o reconhecimento da influência de uma multiplicidade de fatores no processo de adolescer, que podem se relacionar, por exemplo, ao exercício dos direitos, às vivências familiares, às amizades, à inserção no contexto escolar, às aspirações e construções de projetos futuros. Acerca do cuidado de enfermagem com o adolescente, assinale a alternativa CORRETA.",
+  "alts": [
+   "Considerando a estreita ligação entre o profissional de saúde e a atenção à saúde do adolescente, destaca-se aqui a importância do não estabelecimento de um processo comunicativo efetivo com o adolescente.",
+   "Na atenção ao adolescente, é importante o enfermeiro estimular a contextualização e problematização da realidade vivenciada pelos adolescentes. Por meio de uma escuta sensível, o enfermeiro poderá identificar vulnerabilidades e adversidades e desenvolver ações voltadas para o fortalecimento do protagonismo e da resiliência do adolescente, buscando aprofundar a promoção da saúde.",
+   "As ações e políticas voltadas para o segmento adolescente não devem considerar as diferentes características individuais, sociais e culturais dessa população.",
+   "A partir do entendimento de que o desenvolvimento saudável na adolescência se encontra atrelado a uma multiplicidade de fatores físicos, psicológicos, sociais e ambientais, e que, além de garantir a sobrevivência do adolescente, é preciso ofertar um cuidado voltado somente para as demandas orgânicas, desconsiderando a amplitude do processo de adolescer.",
+   "O estabelecimento de relações entre enfermeiros e adolescentes não deve ser encorajado por dificultar a formação de um vínculo de confiança e a construção de um cuidado integral."
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Adolescente",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Proteger e cuidar da saúde de adolescentes na atenção básica, 2ª ed., 2018",
+  "coment": "O cuidado ao adolescente se apoia em escuta qualificada, vínculo, sigilo e reconhecimento do adolescente como sujeito de direitos. Ao problematizar a realidade vivida, o enfermeiro identifica vulnerabilidades e trabalha protagonismo e resiliência, o que caracteriza promoção da saúde. As outras alternativas foram construídas com negações absurdas: não comunicar, desconsiderar diferenças individuais e culturais, cuidar só do orgânico e desencorajar o vínculo contrariam a integralidade.",
+  "porAlt": [
+   "Erra ao defender o não estabelecimento de comunicação efetiva, que é a base do vínculo com o adolescente.",
+   "Correta: escuta sensível, problematização da realidade e fortalecimento do protagonismo e da resiliência promovem saúde.",
+   "Erra porque as políticas devem considerar as diferenças individuais, sociais e culturais dos adolescentes.",
+   "Erra ao restringir o cuidado às demandas orgânicas, contrariando a integralidade do processo de adolescer.",
+   "Erra porque a relação enfermeiro e adolescente deve ser estimulada; é ela que constrói confiança e cuidado integral."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o atual Protocolo Clínico e Diretrizes Terapêuticas para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais (PCDT-TV), lançado em 2022 pelo Ministério da Saúde do Brasil, orienta ações para vigilância, prevenção e controle dessas patologias e recomenda estratégias de prevenção e de intervenção terapêutica imediata. Dentre as afirmativas descritas abaixo, assinale a alternativa que apresenta orientações e intervenções CORRETAS, de acordo com o PCDT-TV 2022.\nI. Entre as gestantes vivendo com HIV, a atividade sexual durante o terceiro trimestre de gestação não está relacionada à intercorrências como a prematuridade perinatal. Entretanto, independentemente da Carga Viral de HIV, recomenda-se que essas gestantes mantenham o uso de preservativo masculino ou feminino.\nII. Considerando a epidemia de Sífilis no Brasil, recomenda-se iniciar a investigação dessa infecção, realizando-se teste treponêmico, exemplo: teste rápido ou FTA-ABS, os quais são os primeiros testes a ficarem reagentes. Uma vez realizado o tratamento, será considerado sucesso de tratamento quando ocorre a diminuição da titulação do teste não treponêmico em duas diluições em até três meses e quatro diluições em até seis meses.\nIII. A transmissão sexual do vírus Zika não foi cientificamente comprovada, e, por esse motivo, as estratégias de controle do vetor mantêm-se como principal medida de combate à infecção.\nIV. Gestantes expostas ao vírus da Hepatite B (HBV), especialmente no primeiro trimestre de gravidez, por relação sexual ou acidente com material biológico, deverão ser encaminhadas, a fim de que possam receber a imunoglobulina para Hepatite B. Nestes casos, não se recomenda vacinar.\nEstão CORRETAS apenas",
+  "alts": [
+   "II e IV.",
+   "I e IV.",
+   "III e IV.",
+   "I e III.",
+   "I e II."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "PCDT para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais (Ministério da Saúde, 2022); PCDT IST, 2022",
+  "coment": "Resolve-se pela exclusão. III é falsa: a transmissão sexual do Zika está comprovada, e o preservativo é recomendado à gestante. IV é falsa: gestante suscetível exposta ao HBV recebe imunoglobulina e também a vacina, segura na gestação. Só sobra I e II. Atenção ao item II: o critério citado (queda de duas diluições em três meses e quatro em seis) é o tradicional que o PCDT ainda menciona, mas a resposta adequada hoje é queda de ao menos duas diluições em até 6 meses na sífilis recente e em até 12 na tardia. Na gestante, o teste não treponêmico é mensal.",
+  "porAlt": [
+   "Inclui IV, que é falsa: a gestante suscetível exposta ao HBV recebe imunoglobulina e vacina.",
+   "Inclui IV, falsa porque a vacina contra hepatite B é indicada, e não contraindicada, na gestante exposta.",
+   "III e IV são falsas: o Zika tem transmissão sexual comprovada e a gestante exposta ao HBV deve ser vacinada.",
+   "Inclui III, falsa porque a transmissão sexual do Zika é comprovada e justifica o preservativo na gestação.",
+   "Correta: I e II seguem o PCDT-TV 2022, e III e IV são falsas; o critério de queda de títulos tem nuance atual."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No cuidado de enfermagem com a pessoa idosa, leia as afirmativas abaixo:\nI. A Avaliação Geronto-Geriátrica tem como objetivo desenvolver um plano adequado de tratamento, considerando-se as especificidades dos processos de senescência e senilidade, auxiliando na redução de exposição a fatores de risco de agravos à saúde do idoso.\nII. Na primeira consulta de enfermagem, o enfermeiro deve ter o cuidado de levantar e sanar todos os problemas do idoso, além de construir um vínculo que deverá ser duradouro e produtivo para ambos.\nIII. A visita domiciliária faz parte da estratégia da Atenção à Saúde, que engloba o fornecimento de um tratamento padronizado. É um método aplicado à pessoa idosa que enfatiza sua autonomia e realça suas habilidades funcionais dentro de seu próprio ambiente.\nIV. O enfermeiro no contexto domiciliário deve trabalhar com o fato da sua inserção no domicílio do usuário devendo, portanto, ficar atento para cuidar sem invadir, observando os princípios éticos e legais que sempre nortearam a profissão.\nEstão CORRETAS",
+  "alts": [
+   "I, II, III e IV.",
+   "apenas I, II e III.",
+   "apenas I, II e IV.",
+   "apenas II e III.",
+   "apenas I, III e IV."
+  ],
+  "gab": 4,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Caderno de Atenção Básica nº 19, Envelhecimento e saúde da pessoa idosa, 2006",
+  "coment": "A avaliação multidimensional da pessoa idosa serve para planejar o cuidado distinguindo senescência (envelhecimento normal) de senilidade (adoecimento) e reduzindo a exposição a riscos (I). A visita domiciliar valoriza a autonomia e a funcionalidade no próprio ambiente (III), e o enfermeiro deve cuidar sem invadir, respeitando a privacidade da família e os princípios éticos (IV). O item II é falso: a primeira consulta não resolve todos os problemas; o cuidado é longitudinal, com prioridades e vínculo construído ao longo do tempo.",
+  "porAlt": [
+   "Inclui II, falsa porque não se levantam e sanam todos os problemas na primeira consulta; o cuidado é longitudinal.",
+   "Inclui II e exclui IV, que descreve corretamente o cuidado domiciliar sem invasão.",
+   "Inclui II e exclui III, que descreve corretamente a visita domiciliar ao idoso.",
+   "Exclui I e IV, que estão corretas, e inclui II, que é falsa.",
+   "Correta: I, III e IV estão de acordo com o cuidado à pessoa idosa; II exige resolver tudo de uma vez."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando a complexidade da atuação do enfermeiro na atenção primária e o cuidado de enfermagem frente as lesões, analise as afirmativas abaixo e coloque V nas verdadeiras e F nas falsas.\n( ) Um curativo adequado deve manter o leito da ferida limpo e úmido, propiciando a umidade, a granulação e a cicatrização adequada.\n( ) Em situações em que o paciente possuir mais de uma lesão, deve-se iniciar a troca de curativos sempre pela pele mais contaminada.\n( ) Durante a realização do procedimento de curativo, é desnecessário utilizar equipamento de proteção individual.\n( ) Dentre as caraterísticas de um curativo ideal, está a de garantir que o leito da ferida permaneça sempre seco para evitar formação de biofilme.\nAssinale a alternativa que indica a sequência CORRETA.",
+  "alts": [
+   "V, F, F, F.",
+   "V, F, V, F.",
+   "F, F, V, F.",
+   "F, F, F, F.",
+   "V, F, F, V."
+  ],
+  "gab": 0,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Resolução COFEN 787/2025 (lesões cutâneas); NR 32 (Portaria MTE 485/2005)",
+  "coment": "Sequência V, F, F, F. O curativo ideal mantém o leito limpo e úmido, o que favorece granulação e epitelização (1ª verdadeira) e torna falsa a 4ª, que pede leito sempre seco. Com mais de uma lesão, começa-se pela menos contaminada e termina-se pela mais contaminada, para não levar microrganismos de uma ferida a outra (2ª falsa). O curativo expõe o profissional a sangue e exsudato, por isso exige precaução padrão com luvas e demais EPI conforme o risco, como manda a NR 32 (3ª falsa).",
+  "porAlt": [
+   "Correta: só a primeira é verdadeira; a ordem é da menos para a mais contaminada, EPI é obrigatório e o leito deve ficar úmido.",
+   "Marca como verdadeira a dispensa de EPI, mas o curativo exige precaução padrão pela NR 32.",
+   "Nega o meio úmido, que é princípio do curativo ideal, e aceita a dispensa de EPI.",
+   "Nega a primeira afirmativa, mas manter o leito limpo e úmido é a base do curativo moderno.",
+   "Aceita o leito sempre seco, que retarda a cicatrização e contraria o princípio do meio úmido."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em uma visita domiciliar, você encontra um paciente acamado, emagrecido, apresentando uma lesão por pressão em região sacral, com características de ferida infectada, fétida e altamente exsudativa. Considerando os tipos de coberturas existentes no mercado em geral, e, considerando esse caso, assinale a alternativa que seria a indicação inicial para o tratamento desta lesão.",
+  "alts": [
+   "Óleo composto de ácidos graxos essenciais",
+   "Filme transparente não estéril",
+   "Hidrocoloide placa",
+   "Espuma de poliuretano com prata",
+   "Pomada de óxido de zinco"
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "EPUAP/NPIAP/PPPIA, Prevention and Treatment of Pressure Ulcers/Injuries: Clinical Practice Guideline, 3ª ed., 2019; Resolução COFEN 787/2025",
+  "coment": "A lesão está infectada, fétida e altamente exsudativa. A cobertura precisa, ao mesmo tempo, absorver muito exsudato e controlar a carga microbiana. A espuma de poliuretano absorve exsudato moderado a alto e protege a lesão, e a prata acrescenta ação antimicrobiana tópica, indicada por tempo limitado em ferida com infecção local. Hidrocoloide e filme são oclusivos e não suportam exsudato abundante nem infecção; AGE e óxido de zinco não tratam infecção. A cobertura não dispensa avaliar desbridamento, nutrição, alívio de pressão e sinais sistêmicos.",
+  "porAlt": [
+   "O AGE hidrata e protege pele íntegra ou granulação limpa, sem ação antimicrobiana nem absorção.",
+   "O filme transparente serve para proteção e ferida superficial seca; é oclusivo e contraindicado com exsudato e infecção.",
+   "O hidrocoloide é contraindicado em ferida infectada e de exsudato abundante, porque é oclusivo e pouco absortivo.",
+   "Correta: a espuma absorve o exsudato abundante e a prata controla a carga microbiana da lesão infectada.",
+   "O óxido de zinco protege a pele perilesional, mas não absorve exsudato nem trata infecção."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O quadro clínico, típico de uma Síndrome Gripal, pode variar seus sintomas desde uma apresentação leve e assintomática, principalmente em jovens adultos e crianças, até uma apresentação grave, incluindo choque séptico e falência respiratória. Considerando a existência de fase de transmissão comunitária da COVID-19, é imprescindível que os serviços de APS/ESF (Atenção Primária à Saúde/Estratégia Saúde da Família) trabalhem com abordagem sindrômica do problema. Sobre essa temática, assinale a alternativa CORRETA.",
+  "alts": [
+   "O manejo clínico da Síndrome Gripal na APS/ESF é sempre o mesmo, independente da gravidade dos casos.",
+   "As equipes de APS não estão preparadas para utilizar estratégias de teleatendimento na identificação, manejo e acompanhamento de suspeitos de Síndrome Gripal.",
+   "O atendimento deve ser priorizado para pessoas com doença crônica, gestantes e puérperas.",
+   "A APS/ESF deve assumir papel coadjuvante frente aos casos leves e de identificação precoce da Síndrome Gripal.",
+   "Em casos graves, a APS/ESF deve inicialmente encaminhar o paciente a centros de referência ou serviço de urgência/emergência que irá realizar a estabilização clínica."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Protocolo de Manejo Clínico do Coronavírus (COVID-19) na Atenção Primária à Saúde, 2020",
+  "coment": "Na abordagem sindrômica da síndrome gripal pela APS, a prioridade de atendimento vai para quem tem maior risco de complicação, como doentes crônicos, gestantes e puérperas, além de idosos e imunossuprimidos. A APS é protagonista nos casos leves (manejo, isolamento domiciliar, teleatendimento e monitoramento). Nos casos graves, o protocolo manda estabilizar na própria unidade e então encaminhar ao serviço de referência; por isso a E erra ao dizer que o encaminhamento vem antes e a estabilização fica com o outro serviço.",
+  "porAlt": [
+   "Erra porque o manejo varia com a gravidade: caso leve fica na APS, caso grave é estabilizado e encaminhado.",
+   "Erra porque o teleatendimento foi estratégia central da APS para identificar e monitorar casos suspeitos.",
+   "Correta: doentes crônicos, gestantes e puérperas têm maior risco de complicação e devem ter atendimento priorizado.",
+   "Erra porque a APS tem papel principal, e não coadjuvante, nos casos leves e na identificação precoce.",
+   "Erra porque o protocolo manda a APS estabilizar o caso grave antes de encaminhá-lo à referência."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as Diretrizes Brasileiras de Hipertensão Arterial – 2020, a hipertensão arterial (HA) é uma doença crônica não transmissível (DCNT) definida por níveis pressóricos, em que os benefícios do tratamento (não medicamentoso e/ ou medicamentoso) superam os riscos. Sobre essa doença, analise as afirmativas e coloque V nas verdadeiras e F nas falsas.\n( ) A ingestão elevada de sódio tem-se mostrado um fator de risco para a elevação da PA e, consequentemente, da maior prevalência de HA. A literatura científica mostra que a ingestão de sódio está associada à Doença cardiovascular e Acidente vascular encefálico, quando a ingestão média é superior a 1 g de sódio, o equivalente a 4 g de sal de cozinha.\n( ) Classificação da pressão arterial de acordo com a medição no consultório a partir de 18 anos de idade. Pré-hipertensão: 140x85 mmHg e HA estágio 2: 170x100 mmHg.\n( ) Na avaliação clínica do paciente, a anamnese deve investigar uma história clínica completa, como tempo de diagnóstico e tratamento anti-hipertensivo e ainda lesão em órgão-alvo e antecedentes pessoais.\n( ) Planejar estratégias para promover e avaliar a adesão dos pacientes às condutas prescritas com técnicas educacionais, motivacionais, cognitivas e uso das tecnologias são ações específicas do enfermeiro, dentro da equipe multidisciplinar, para a condução do paciente hipertenso.\nAssinale a alternativa que indica a sequência CORRETA.",
+  "alts": [
+   "V, V, F, V.",
+   "F, V, V, F",
+   "F, F, V, V.",
+   "V, F, F, V.",
+   "V, V, V, V."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretrizes Brasileiras de Hipertensão Arterial 2020 (SBC); Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH, SBN)",
+  "coment": "Sequência F, F, V, V. O risco cardiovascular associa-se à ingestão de sódio acima de 2 g por dia, o equivalente a 5 g de sal, e não 1 g e 4 g (1ª falsa). A 2ª é falsa: hipertensão estágio 2 é 160 a 179 e/ou 100 a 109 mmHg, e pré-hipertensão nunca foi 140x85. A anamnese completa, com tempo de diagnóstico, tratamento, lesão de órgão-alvo e antecedentes, é verdadeira, assim como o papel do enfermeiro na adesão. A diretriz de 2025 substituiu a de 2020 e redefiniu pré-hipertensão como 120 a 139 e/ou 80 a 89 mmHg.",
+  "porAlt": [
+   "Aceita 1 g de sódio e a classificação com valores inventados, ambas falsas.",
+   "Aceita a classificação errada (pré-hipertensão 140x85) e nega o papel do enfermeiro na adesão.",
+   "Correta: sódio e classificação estão errados; anamnese completa e estratégias de adesão pelo enfermeiro estão certas.",
+   "Aceita o limiar de 1 g de sódio, quando a referência é 2 g (5 g de sal), e nega a anamnese completa.",
+   "Aceita as duas primeiras, que trazem limiar de sódio e classificação da PA incorretos."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A hanseníase é uma doença crônica, infectocontagiosa, cujo agente etiológico é o Mycobacterium leprae, um bacilo álcool-ácido resistente, fracamente gram-positivo, que infecta os nervos periféricos e, mais especificamente, as células de Schwann. Sobre hanseníase relacione a 2ª coluna de acordo com a 1ª.\n1. Hanseníase indeterminada (paucibacilar)\n2. Hanseníase tuberculoide (paucibacilar)\n3. Hanseníase dimorfa (multibacilar)\n4. Hanseníase virchowiana (multibacilar)\n( ) Mais frequentemente, manifesta-se por uma placa, totalmente anestésica ou por placa com bordas elevadas, bem delimitadas e centro claro. Com menor frequência, pode se apresentar como um único nervo espessado com perda total de sensibilidade no seu território de inervação.\n( ) A lesão de pele geralmente é única, mais clara do que a pele ao redor, não é elevada, apresenta bordas mal delimitadas, é seca. Há perda da sensibilidade térmica e/ou dolorosa, mas a tátil geralmente é preservada.\n( ) É a forma mais contagiosa da doença. O paciente não apresenta manchas visíveis; a pele apresenta-se avermelhada, seca, infiltrada, cujos poros apresentam-se dilatados, poupando geralmente o couro cabeludo, as axilas e o meio da coluna lombar.\n( ) Caracteriza-se, geralmente, por mostrar várias manchas de pele avermelhadas ou esbranquiçadas, com bordas elevadas, mal delimitadas na periferia ou por múltiplas lesões bem delimitadas, semelhantes à lesão tuberculóide, porém a borda externa é esmaecida. Há perda parcial a total da sensibilidade, com diminuição de funções autonômicas.\nAssinale a alternativa que indica a sequência CORRETA.",
+  "alts": [
+   "1, 3, 2, 4.",
+   "4, 2, 3, 1.",
+   "3, 4, 2, 1.",
+   "3, 1, 2, 4.",
+   "2, 1, 4, 3."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Guia prático sobre a hanseníase, 2017; PCDT Hanseníase, 2022 (Portaria SCTIE/MS 67/2022)",
+  "coment": "A sequência é 2, 1, 4, 3. Placa bem delimitada, de bordas elevadas e anestésica, ou um único nervo espessado, é a tuberculoide. Mancha única, mais clara, plana, de bordas mal definidas, com perda térmica e dolorosa e tato preservado, é a indeterminada. Pele infiltrada, avermelhada, sem manchas nítidas, com poros dilatados e maior contagiosidade, é a virchowiana. Várias lesões com borda interna nítida e externa esmaecida (lesão foveolar) e perda parcial a total de sensibilidade é a dimorfa.",
+  "porAlt": [
+   "Troca a tuberculoide pela indeterminada e atribui à virchowiana a descrição da dimorfa.",
+   "Atribui a placa anestésica bem delimitada à virchowiana, quando ela é típica da tuberculoide.",
+   "Atribui a placa tuberculoide à dimorfa e a mancha indeterminada à virchowiana.",
+   "Acerta a indeterminada, mas atribui a placa tuberculoide à dimorfa e inverte as multibacilares.",
+   "Correta: tuberculoide, indeterminada, virchowiana e dimorfa, na ordem das descrições."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre as estratégias para o controle da Tuberculose, leia as afirmações abaixo e coloque V nas verdadeiras e F nas falsas.\n( ) A vacina BCG está, prioritariamente, indicada para crianças de 0 a 4 anos, 11 meses e 29 dias de idade; para recém-nascidos com peso ≥ 2 kg devem ser vacinados o mais precocemente possível, de preferência na maternidade, logo após o nascimento.\n( ) Para criança expostas ao HIV, a vacinação BCG deve ser feita a partir dos 05 (cinco) anos de idade; crianças vivendo com HIV devem ser vacinadas, mesmo que assintomáticas e sem sinais de imunodeficiência.\n( ) Não se indica a realização prévia de teste tuberculínico para a administração da vacina BCG.\n( ) A partir dos cinco anos de idade, nenhuma pessoa deve ser vacinada com BCG (mesmo profissionais de saúde e/ou grupos com maior vulnerabilidade), exceto pessoas contatos de hanseníase.\nAssinale a alternativa que indica a sequência CORRETA.",
+  "alts": [
+   "V, V, V, V.",
+   "F, V, F, F.",
+   "V, F, V, F.",
+   "V, F, V, V.",
+   "F, F, V, F"
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), vacina BCG",
+  "coment": "Sequência V, F, V, V, conferida na IN do calendário de 2026. A BCG é indicada de 0 a 4 anos, 11 meses e 29 dias, em dose única ao nascer, e o recém-nascido abaixo de 2.000 g aguarda atingir esse peso. Não se faz prova tuberculínica antes da vacina. A partir de 5 anos ninguém é vacinado, mesmo profissionais de saúde, exceto contatos domiciliares de hanseníase. A 2ª é falsa: a criança exposta ao HIV recebe BCG ao nascer ou o mais cedo possível, e com HIV a partir de 5 anos não deve ser vacinada, mesmo assintomática.",
+  "porAlt": [
+   "Aceita a 2ª, falsa: a criança exposta ao HIV é vacinada ao nascer, e a partir de 5 anos com HIV não recebe BCG.",
+   "Nega a indicação de 0 a 4 anos e a contraindicação a partir de 5 anos, ambas da IN 2026.",
+   "Nega a 4ª, mas a IN 2026 contraindica a BCG a partir de 5 anos, salvo contatos de hanseníase.",
+   "Correta: só a afirmativa sobre crianças expostas e vivendo com HIV contraria a IN do calendário 2026.",
+   "Nega a indicação até 4 anos e 11 meses e a regra dos 5 anos, que estão corretas."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Diabetes mellitus (DM) é um importante e crescente problema de saúde para todos os países, independentemente do seu grau de desenvolvimento. Pelo fato de estar associada a maiores taxas de hospitalizações, maior utilização dos serviços de saúde, bem como maior incidência de doenças cardiovasculares e cerebrovasculares, cegueira, insuficiência renal e amputações não traumáticas de membros inferiores, pode-se prever a carga que isso representará nos próximos anos para os sistemas de saúde de todos os países. Para obter sucesso no controle do diabetes, é necessário estabelecer e desenvolver novas e mais fortes parcerias entre órgãos governamentais e sociedade civil, para uma maior corresponsabilidade em ações orientadas para prevenção, detecção e controle do diabetes. Essas novas estratégias devem direcionar e modelar a linha de cuidado para o portador do Diabetes mellitus na atenção básica. Sobre os passos para essa modelagem, analise as afirmativas abaixo:\nI. Desenhar o itinerário terapêutico dos usuários na rede e relacionar as necessidades logísticas e de apoio necessárias. Definir os fluxos assistenciais que são necessários para atender às suas necessidades de saúde e às diretrizes ou aos protocolos assistenciais.\nII. Mapear as necessidades das UBS (Unidade Básica de Saúde) quanto ao sistema de apoio (diagnóstico, terapêutico, assistência farmacêutica e sistema de informação), minimizando o máximo possível o custo a ser dispendido, evitando, para fortalecer essa redução, a pactuação com os demais níveis da gestão da saúde.\nIII. Identificar a população estimada de pessoas com DM e os diferentes estratos de risco e realizar a programação de cuidado, de acordo com os parâmetros baseados em evidências que podem ser definidos localmente ou pelo estado ou pelo governo federal.\nIV. Identificar as necessidades das UBS quanto ao sistema logístico para o cuidado dos usuários (cartão SUS, prontuário eletrônico, centrais de regulação, sistema de transporte sanitário).\nV. Mapear os pontos de atenção ao portador de diabetes mellitus, no município/distrito/região/estado e suas respectivas competências, sistematizar essa informação e informar aos pacientes quando eles buscarem a informação na UBS.\nEstão CORRETAS apenas",
+  "alts": [
+   "I, III e IV.",
+   "II, IV e V.",
+   "I, III, IV e V.",
+   "II, III e V.",
+   "I, II e IV."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Caderno de Atenção Básica nº 36, Estratégias para o cuidado da pessoa com doença crônica: diabetes mellitus, 2013",
+  "coment": "O Caderno 36 descreve os passos para modelar a linha de cuidado do diabetes: desenhar o itinerário e os fluxos (I), estimar a população com DM e estratificar o risco para programar o cuidado (III), identificar as necessidades do sistema logístico, como cartão SUS, prontuário, regulação e transporte (IV), e do sistema de apoio. O item II erra ao propor evitar a pactuação com os demais níveis, que é justamente o que viabiliza a rede. O V erra ao limitar a informação sobre os pontos de atenção a quem procura a UBS: o mapeamento deve ser sistematizado e divulgado à rede e aos usuários.",
+  "porAlt": [
+   "Correta: I, III e IV são passos da modelagem da linha de cuidado; II e V distorcem o Caderno 36.",
+   "Inclui II, que propõe evitar pactuação entre níveis de gestão, contrariando a lógica de rede.",
+   "Inclui V, que restringe a informação sobre os pontos de atenção a quem procura a UBS, em vez de divulgá-la.",
+   "Inclui II e V, ambas distorcidas, e exclui I e IV, que são passos corretos.",
+   "Inclui II, que propõe reduzir custo evitando pactuação, e exclui III, que é passo central."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Plano de Ação Integral de Saúde Mental 2013–2030, da Organização Mundial de Saúde, faz várias recomendações de ação, agrupadas em “caminhos para a transformação”, que se concentram na mudança de atitudes em relação à saúde mental, abordando os riscos e fortalecendo os sistemas de atenção. Essas recomendações são:",
+  "alts": [
+   "o tabagismo, o uso de álcool e de outras drogas, que devem ser tratados como um problema concernente à infância, à adolescência e à juventude, de modo a evitar o início do uso; garantir o tratamento, a assistência e o cuidado àqueles já em uso dessas substâncias.",
+   "o tratamento deve ser privilegiado e gratuito, desenvolver serviço de saúde com o mais elevado grau de descentralização/capilaridade e participação no cuidado se faz sempre necessária.",
+   "obter equipes multiprofissionais compostas das seguintes profissões: enfermeiro, psicólogo, assistente social ou terapeuta ocupacional, agente social, técnico ou auxiliar de enfermagem, técnico em saúde bucal, cirurgião-dentista, profissional/professor de educação física.",
+   "contribuir para a promoção da saúde e produção do cuidado e de modos de vida saudáveis da população a partir da implantação de polos com infraestrutura e profissionais qualificados.",
+   "aprofundar o valor e o compromisso que damos à saúde mental; reorganizar os entornos que influenciam a saúde mental, incluindo lares, comunidades, escolas, locais de trabalho, serviços de saúde, etc; e reforçar a atenção à saúde mental, mudando os lugares, modalidades e pessoas que oferecem e recebem os serviços."
+  ],
+  "gab": 4,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "OMS, Plano de Ação Integral de Saúde Mental 2013-2030 (atualizado em 2021); OMS, Relatório Mundial de Saúde Mental, 2022",
+  "coment": "O Relatório Mundial de Saúde Mental da OMS, de 2022, organiza as recomendações para cumprir o Plano de Ação 2013-2030 em três caminhos para a transformação: aprofundar o valor e o compromisso dados à saúde mental; reorganizar os ambientes que a influenciam (lares, comunidades, escolas, locais de trabalho, serviços de saúde); e reforçar a atenção à saúde mental, mudando lugares, modalidades e pessoas que oferecem e recebem os serviços. As demais alternativas trazem trechos de políticas brasileiras, como composição de equipes e polos de promoção da saúde.",
+  "porAlt": [
+   "Descreve diretriz de prevenção ao uso de tabaco, álcool e drogas, não os três caminhos da OMS.",
+   "Mistura princípios genéricos de gratuidade e descentralização que não são os caminhos para a transformação.",
+   "Lista categorias profissionais de equipe brasileira, sem relação com as recomendações da OMS.",
+   "Descreve o objetivo do Programa Academia da Saúde, política brasileira de polos de promoção.",
+   "Correta: aprofundar o valor, reorganizar os ambientes e reforçar a atenção são os três caminhos da OMS."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As ações de Vigilância Epidemiológica desenvolvem-se em diferentes áreas e com base no processo infeccioso, portanto, relacionadas às fontes de infecção, aos veículos de transmissão e à proteção dos suscetíveis. Sobre a participação da enfermagem nas ações de vigilância epidemiológica, leia as afirmações abaixo:\nI. A Enfermagem colabora e/ou é responsável pela notificação compulsória de doenças expedindo ou recebendo a notificação ou orientando os serviços de saúde para o valor e a forma de executá-la.\nII. Participar, conjuntamente com a equipe, apenas da previsão e provisão de pessoal auxiliar de enfermagem que participará dele.\nIII. Realizar investigação epidemiológica para descobrir fontes, comunicantes, casos novos e portadores a fim de serem encaminhados para receber a assistência devida.\nIV. Sistematizar as notificações recebidas, realizar as investigações necessárias ao esclarecimento dos casos e, só após as análises, realizar ações de controle dos agravos.\nV. A Enfermeira deve realizar treinamento da equipe em vigilância epidemiológica para notificação, investigação e aplicação das medidas de controle que o caso requer.\nEstão CORRETAS apenas",
+  "alts": [
+   "I, IV e V.",
+   "II, III e IV.",
+   "I, III e V.",
+   "III e V.",
+   "I, III e IV."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 6.259/1975; Portaria de Consolidação GM/MS 4/2017, Anexo V (alterada pela Portaria GM/MS 11.211/2026)",
+  "coment": "A enfermagem notifica, recebe e orienta a notificação compulsória (I), investiga fontes, comunicantes, casos novos e portadores (III) e treina a equipe para notificar, investigar e aplicar as medidas de controle (V). O item IV é falso porque as medidas de controle são iniciadas diante da suspeita, junto com a investigação, e não só depois de todas as análises: esperar a confirmação atrasa o bloqueio. O item II é falso pelo apenas, que restringe a participação do enfermeiro ao pessoal auxiliar.",
+  "porAlt": [
+   "Inclui IV, falsa porque as medidas de controle começam diante da suspeita, sem esperar todas as análises.",
+   "Inclui II, restritiva pelo apenas, e IV, que adia as medidas de controle.",
+   "Correta: notificar, investigar e treinar a equipe são ações da enfermagem; II e IV estão erradas.",
+   "Exclui I, mas a notificação compulsória é atribuição de todo profissional de saúde, inclusive o enfermeiro.",
+   "Inclui IV, que adia as medidas de controle para depois das análises, o que atrasa o bloqueio."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A notificação é a base para as atividades de vigilância epidemiológica. A relação das doenças e agravos sujeitos à vigilância bem como o tipo de notificação (imediata ou semanal) de cada doença ou agravo, são determinados através de portaria do Ministério da Saúde. Identifique, entre as alternativas abaixo, a que apresenta, apenas, doenças de notificação imediata em Pernambuco.",
+  "alts": [
+   "Sarampo, raiva humana e síndrome da paralisia flácida aguda",
+   "Meningite, Doença de Creutzfeldt-Jakob e Febre da chikungunya",
+   "Monkeypox (varíola dos macacos), síndrome da paralisia flácida aguda e HIV",
+   "Raiva humana, HIV e Zika",
+   "Febre da chikungunya, sarampo e varíola"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria de Consolidação GM/MS 4/2017, Anexo 1 do Anexo V (Lista Nacional de Notificação Compulsória), alterada pela Portaria GM/MS 11.211/2026",
+  "coment": "Sarampo, raiva humana e paralisia flácida aguda são de notificação imediata, em até 24 horas, para município, estado e Ministério, na lista nacional que Pernambuco segue e que a Portaria 11.211/2026 manteve; a PFA passou a se chamar Paralisia Flácida Aguda (PFA). Nas outras alternativas há sempre um agravo semanal: doença de Creutzfeldt-Jakob, febre de chikungunya fora de área sem transmissão e infecção pelo HIV. Meningite, mpox, zika em gestante e varíola são imediatas, mas aparecem ao lado de algum agravo semanal.",
+  "porAlt": [
+   "Correta: sarampo, raiva humana e paralisia flácida aguda são todas de notificação imediata.",
+   "Doença de Creutzfeldt-Jakob e febre de chikungunya (em área com transmissão) são de notificação semanal.",
+   "A infecção pelo HIV é de notificação semanal, embora mpox e PFA sejam imediatas.",
+   "HIV é semanal, e a doença aguda pelo Zika é semanal fora da gestação.",
+   "A febre de chikungunya em área com transmissão é semanal, embora sarampo e varíola sejam imediatos."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o calendário vacinal da criança, associar a 2ª coluna de acordo com a 1ª.\n1. Rotavírus humano G1P1 (VRH)\n2. Febre Amarela (Atenuada)\n3. Hepatite A (HA)\n4. BCG\n( ) 01 dose e 01 reforço de, no mínimo, 30 dias.\n( ) Dose única ao nascer\n( ) 02 doses (2 meses e 4 meses), intervalo recomendado de 60 dias\n( ) 01 dose aos 15 meses\nAssinale a alternativa que indica a sequência CORRETA.",
+  "alts": [
+   "3, 2, 1, 4.",
+   "2, 4, 1, 3.",
+   "1, 3, 4, 2.",
+   "4, 1, 3, 2.",
+   "3, 4, 2, 1."
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "Pela IN do calendário de 2026: febre amarela tem 1 dose aos 9 meses e reforço aos 4 anos, com intervalo mínimo de 30 dias entre as doses (2); BCG é dose única ao nascer (4); rotavírus humano tem 2 doses, aos 2 e 4 meses, com intervalo de 60 dias, mínimo de 30 em situação excepcional (1); hepatite A é 1 dose aos 15 meses (3). Sequência 2, 4, 1, 3. A vacina hoje se chama rotavírus humano G1P[8]; o G1P1 do enunciado é erro da banca.",
+  "porAlt": [
+   "Atribui à hepatite A a dose com reforço e à febre amarela a dose ao nascer, ambas trocadas.",
+   "Correta: febre amarela, BCG, rotavírus e hepatite A, na ordem das descrições da IN 2026.",
+   "Atribui ao rotavírus o esquema da febre amarela e à hepatite A a dose ao nascer, que é da BCG.",
+   "Atribui à BCG a dose com reforço, quando ela é dose única ao nascer.",
+   "Atribui à hepatite A o esquema com reforço e à febre amarela a dose dos 15 meses."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Educação Permanente em Saúde (EPS) é um instrumento viabilizador de análise crítica e constituição de conhecimentos sobre a realidade local que precisa ser pensada e adaptada, portanto, às situações de saúde em cada nível do sistema de saúde. Sobre esse assunto, assinale a alternativa CORRETA.",
+  "alts": [
+   "O setor de gestão da saúde, na maior parte do Brasil, está sensibilizado sobre a importância e o valor das ações de EPS para a qualificação da gestão e da melhoria da atenção à saúde no SUS.",
+   "A proposição em fortalecer a EPS é de torná-la norteadora de novas práticas que orientam a reflexão sobre o processo de trabalho e a construção de atividades de aprendizagem colaborativa e significativa.",
+   "Para a obtenção de resultados efetivos na resolução de problemas de saúde, é necessária a desarticulação entre o ensino, a atenção à saúde, a gestão do sistema e o controle social no cotidiano do trabalho.",
+   "O monitoramento e avaliação das ações da EPS são suficientemente qualificados quando se utilizam de indicadores de quantificação dos cursos e outras atividades realizadas;",
+   "A temática da Educação Interprofissional em Saúde ainda não foi incorporada às ações da EPS, por se tratar de uma discussão recente na formação dos trabalhadores de saúde."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 198/2004 e Portaria GM/MS 1.996/2007 (Política Nacional de Educação Permanente em Saúde)",
+  "coment": "A educação permanente em saúde toma o processo de trabalho como objeto de aprendizagem: problematiza o cotidiano dos serviços, com aprendizagem significativa e colaborativa, para transformar as práticas. Por isso fortalecê-la significa torná-la norteadora de novas práticas. A PNEPS se apoia no quadrilátero ensino, atenção, gestão e controle social, que deve ser articulado, e não desarticulado. A avaliação não pode se limitar a contar cursos, e a educação interprofissional já foi incorporada às ações de EPS.",
+  "porAlt": [
+   "Erra ao afirmar que a gestão está sensibilizada na maior parte do país; a baixa valorização da EPS é um desafio reconhecido.",
+   "Correta: a EPS deve nortear novas práticas, pela reflexão sobre o processo de trabalho e aprendizagem significativa.",
+   "Erra porque a PNEPS exige articulação, e não desarticulação, entre ensino, atenção, gestão e controle social.",
+   "Erra porque contar cursos realizados não mede mudança de prática; a avaliação precisa de indicadores de processo e resultado.",
+   "Erra porque a educação interprofissional já integra as ações de EPS no SUS."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Atenção Básica",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando o corpo doutrinário da Reforma Sanitária Brasileira - RSB, leia abaixo o excerto do relatório final da 8° Conferência Nacional de Saúde:\n“As modificações necessárias ao setor saúde transcendem os limites de uma reforma administrativa e financeira, exigindo-se uma reformulação mais profunda, ampliando-se o próprio conceito de saúde e sua correspondente ação institucional, revendo-se a legislação no que diz respeito à proteção e recuperação da saúde, constituindo-se no que está convencionando chamar de Reforma Sanitária (CONFERÊNCIA..., 1987, p. 381) PAIM, Jairnilson Silva. Reforma sanitária brasileira: contribuição para a compreensão e crítica – Salvador: EDUFBA; Rio de Janeiro: FIOCRUZ, 2008.\nConsiderando o conteúdo explanado, é CORRETO afirmar que a RSB abrange os seguintes aspectos:",
+  "alts": [
+   "abstenção do Estado nas ações de saúde.",
+   "desvinculação da saúde à condição de vida da população.",
+   "constitucionalização da saúde enquanto dever do Estado e direito de todos.",
+   "criação de um sistema de saúde sob comando do nível Federal.",
+   "preservação do conceito de saúde atrelado à recuperação e medicalização, apenas."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, art. 196; Relatório final da 8ª Conferência Nacional de Saúde, 1986",
+  "coment": "A Reforma Sanitária propôs ampliar o conceito de saúde, ligando-o às condições de vida, e reformular o sistema, o que se concretizou no art. 196 da Constituição de 1988: a saúde é direito de todos e dever do Estado, garantida por políticas sociais e econômicas e por acesso universal e igualitário. O movimento defendia um sistema único, descentralizado e com participação social, e não abstenção do Estado, comando federal centralizado ou saúde reduzida à recuperação e à medicalização.",
+  "porAlt": [
+   "A Reforma Sanitária defendia ampliar o dever do Estado, e não sua abstenção nas ações de saúde.",
+   "A Reforma vinculou a saúde às condições de vida, ampliando o conceito, e não o contrário.",
+   "Correta: a constitucionalização da saúde como direito de todos e dever do Estado (art. 196) foi a grande conquista.",
+   "O movimento defendia descentralização com direção única em cada esfera, e não comando federal.",
+   "A Reforma criticou justamente o modelo centrado na recuperação e na medicalização."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 1,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Observe o gráfico em pizza abaixo apresentado:\nrepresentantes do governo, prestadores de serviço: 25%\nusuários: 50%\nprofissionais de saúde: 25%\nConsiderando o exposto, assinale a alternativa que representa, de maneira pertinente, o gráfico da questão.",
+  "alts": [
+   "Acesso igualitário dos usuários no sistema assistencial de saúde.",
+   "Participação das classes na captação orçamentária do SUS.",
+   "Fragmentação do repasse federal de acordo com o dispêndio das classes.",
+   "Representação díspar dos usuários frente ao conjunto das demais partes.",
+   "Representação paritária dos usuários nas instâncias colegiadas do SUS."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 1º, § 4º; Resolução CNS 453/2012",
+  "coment": "O gráfico mostra a composição dos conselhos e conferências de saúde: 50% de usuários, 25% de trabalhadores de saúde e 25% de governo e prestadores, distribuição da Resolução CNS 453/2012. Ela concretiza o art. 1º, § 4º, da Lei 8.142/1990, segundo o qual a representação dos usuários é paritária em relação ao conjunto dos demais segmentos. Paritária não quer dizer partes iguais entre os três grupos, e sim usuários de um lado e todos os demais do outro, metade cada.",
+  "porAlt": [
+   "O gráfico não trata de acesso aos serviços, e sim da composição das instâncias colegiadas.",
+   "Não se trata de captação orçamentária; as frações são de assentos nos conselhos e conferências.",
+   "O repasse federal segue critérios da Lei 8.080 e da LC 141/2012, sem relação com essas proporções.",
+   "A representação não é díspar: usuários são metade, em paridade com o conjunto dos demais segmentos.",
+   "Correta: usuários ocupam metade dos assentos, em paridade com os demais segmentos (Lei 8.142/1990, art. 1º, § 4º)."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 3,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Leia o trecho abaixo:\n“As necessidades de saúde da população começam nos municípios e são executadas nos municípios. Daí a importância do planejamento iniciar-se na base local para orientar o planejamento nacional. ” Brasil. Ministério da Saúde. Sistema de Planejamento do SUS (PlanejaSUS): uma construção coletiva – trajetória e orientações de operacionalização / Ministério da Saúde, Organização Pan-Americana da Saúde.\nNo excerto acima, é possível encontrar uma referência ao (à,a)",
+  "alts": [
+   "processo de planejamento ascendente do SUS.",
+   "planejamento top-down (de cima para baixo).",
+   "região de saúde.",
+   "rede de atenção em saúde.",
+   "Serviços Especiais de Acesso Aberto."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 36; Decreto 7.508/2011, art. 15",
+  "coment": "O trecho descreve o planejamento ascendente: as necessidades nascem no município e o planejamento começa na base local para orientar o estadual e o nacional. O art. 36 da Lei 8.080/1990 diz que o processo de planejamento e orçamento do SUS será ascendente, do nível local até o federal, ouvidos os órgãos deliberativos e compatibilizando necessidades e recursos. O Decreto 7.508/2011 repete que o planejamento é ascendente e integrado. O modelo de cima para baixo é o oposto.",
+  "porAlt": [
+   "Correta: começar no município para orientar o plano nacional é o planejamento ascendente do art. 36 da Lei 8.080/1990.",
+   "O planejamento de cima para baixo é o oposto do que o trecho descreve e do que a lei determina.",
+   "Região de saúde é recorte territorial do Decreto 7.508/2011, não o sentido do planejamento.",
+   "Rede de atenção é arranjo de serviços articulados, e não a direção do planejamento.",
+   "Serviços especiais de acesso aberto são porta de entrada do Decreto 7.508/2011, sem relação com o trecho."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 4,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Acerca da Ética e da Moral, assinale a alternativa INCORRETA.",
+  "alts": [
+   "Trata-se de sinônimos, norteadores das ações de uma sociedade.",
+   "Moral, de uma maneira geral, coloca um imperativo direcionado a um indivíduo, uma parcela, um grupo específico.",
+   "Ética, de uma maneira geral, coloca um imperativo para toda uma sociedade, busca assegurar a personalidade da totalidade de indivíduos.",
+   "Ambas guiam a conduta humana, auxiliando um melhor comportamento e vivência na sociedade.",
+   "Ética e moral possuem diferentes significados."
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética dos Profissionais de Enfermagem)",
+  "coment": "A questão pede a INCORRETA. Ética e moral não são sinônimos. Na distinção que a banca adota, moral é o conjunto de normas e costumes de um grupo ou época, enquanto ética é a reflexão crítica e de alcance mais universal sobre essas normas. Ambas orientam a conduta humana e a convivência, mas têm significados diferentes. O Código de Ética da Enfermagem, Res. COFEN 564/2017, é exemplo de ética aplicada a uma profissão.",
+  "porAlt": [
+   "Correta: é a afirmativa incorreta; ética e moral não são sinônimos; moral é norma de um grupo e ética é reflexão mais ampla.",
+   "Está certa: a moral se dirige a um indivíduo ou grupo específico, com normas e costumes próprios.",
+   "Está certa na distinção da banca: a ética coloca um imperativo de alcance mais universal, para toda a sociedade.",
+   "Está certa: as duas orientam a conduta humana e a convivência em sociedade.",
+   "Está certa: ética e moral têm significados diferentes, embora relacionados."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 6,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Leia o trecho abaixo.\n“Os princípios citados auxiliam nas difíceis decisões em caso de terminalidade. Diante de um quadro terminal, em que o paciente adolescente solicita ao profissional de saúde que não prolongue seu sofrimento, recusando tratamento, muitas vezes o médico enfrenta um dilema moral. Ainda que saiba que o ideal para aquele paciente é a aplicação de medidas paliativas, o médico não pode decidir por essa conduta se os representantes legais do paciente não concordam com ela, optando pelo tratamento. Segundo o Conselho Federal de Medicina (CFM), a conduta correta decorreria de ponderação dos familiares.” Almeida, Renata Acioli de, Lins, Liliane e Rocha, Matheus LinsDilemas éticos e bioéticos na atenção à saúde do adolescente. Revista Bioética [online]. 2015, v. 23, n. 2\nNa tomada de decisão, considerando o estado de saúde do paciente, assinale a alternativa que apresenta o princípio bioético ponderado, ao se observar, com minuciosidade, a colocação do adolescente expressa no texto.",
+  "alts": [
+   "Autonomia.",
+   "Integralidade.",
+   "Justiça.",
+   "Honestidade.",
+   "Inviolabilidade."
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Beauchamp e Childress, Princípios de Ética Biomédica (principialismo); Estatuto da Criança e do Adolescente, Lei 8.069/1990",
+  "coment": "O adolescente pede que seu sofrimento não seja prolongado e recusa o tratamento: é a manifestação da vontade dele, que remete ao princípio da autonomia, a capacidade de decidir sobre o próprio corpo. Como é menor, a autonomia é relativa e precisa ser ponderada com os representantes legais, que é o dilema descrito no texto. Os princípios do principialismo são autonomia, beneficência, não maleficência e justiça. Integralidade é princípio do SUS; honestidade e inviolabilidade não são princípios bioéticos clássicos.",
+  "porAlt": [
+   "Correta: a recusa do tratamento pelo adolescente expressa sua autonomia, ponderada pela idade e pelos representantes legais.",
+   "Integralidade é princípio do SUS (Lei 8.080/1990), não um dos princípios bioéticos do principialismo.",
+   "Justiça trata da distribuição equitativa de recursos e cuidados, não da vontade do paciente.",
+   "Honestidade é virtude moral, mas não é um dos quatro princípios da bioética principialista.",
+   "Inviolabilidade não é princípio bioético clássico; o texto trata da vontade do adolescente."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 7,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Consoante o DECRETO Nº 7.508, DE 28 DE JUNHO DE 2011, a humanização do atendimento do usuário será",
+  "alts": [
+   "fator determinante para estabelecer as metas de saúde previstas no COAP.",
+   "aspecto restrito ao espaço assistencial, não abordado questões de planejamento.",
+   "desconsiderada no delineamento das metas construídas pela gestão, contudo aplicada em toda a Rede de atenção.",
+   "assunto específico das políticas estratégicas do SUS, não sendo trabalhada no decreto 7508/11.",
+   "alvo de política específica do SUS, não influenciando, dessa maneira, na construção de metas do COAP."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Decreto 7.508/2011, art. 38",
+  "coment": "O art. 38 do Decreto 7.508/2011 diz que a humanização do atendimento do usuário será fator determinante para o estabelecimento das metas de saúde previstas no Contrato Organizativo da Ação Pública da Saúde (COAP). Logo, a humanização não fica restrita ao espaço assistencial nem fora do decreto: entra no próprio planejamento das metas pactuadas entre os entes. O decreto também prevê, no art. 37, estratégias que incorporem a avaliação do usuário como ferramenta de melhoria.",
+  "porAlt": [
+   "Correta: pelo art. 38 do Decreto 7.508/2011, a humanização é fator determinante para as metas do COAP.",
+   "Erra porque o decreto leva a humanização ao planejamento, ao vinculá-la às metas do COAP.",
+   "Erra porque a humanização é considerada, e não desconsiderada, no delineamento das metas.",
+   "Erra porque o Decreto 7.508/2011 trata expressamente da humanização no art. 38.",
+   "Erra porque, apesar de existir a Política Nacional de Humanização, o decreto a liga às metas do COAP."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 8,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "O planejamento em saúde é um processo, que contempla diversas ferramentas. Dentre elas, a representação da área geográfica acerca da condição sanitária do território consiste no ponto de partida inicial para o planejamento. Diversos são os aspectos envolvidos nesse desenho, para além da estrutura do sistema de saúde, tal qual demográficos e culturais. Com base no enunciado da questão, assinale a alternativa que representa o instrumento de planejamento referido no texto.",
+  "alts": [
+   "Programação anual de saúde.",
+   "Relatório de gestão.",
+   "Relatório detalhado do Quadrimestre Anterior.",
+   "Mapa de saúde.",
+   "Plano de saúde."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Decreto 7.508/2011, art. 2º, VI, e art. 17",
+  "coment": "O Decreto 7.508/2011 define o Mapa da Saúde como a descrição geográfica da distribuição de recursos humanos e de ações e serviços de saúde ofertados pelo SUS e pela iniciativa privada, considerando a capacidade instalada, os investimentos e o desempenho (art. 2º, VI). O art. 17 diz que ele será usado na identificação das necessidades de saúde e orientará o planejamento integrado dos entes. É, portanto, a representação geográfica que serve de ponto de partida. Plano, programação anual e relatórios são instrumentos de planejamento e prestação de contas.",
+  "porAlt": [
+   "A programação anual operacionaliza o plano de saúde a cada ano; não é a representação geográfica do território.",
+   "O relatório de gestão presta contas dos resultados alcançados no ano, ao final do ciclo.",
+   "O relatório quadrimestral presta contas parciais ao Legislativo, sem representar o território.",
+   "Correta: o Mapa da Saúde é a descrição geográfica dos recursos e serviços e orienta o planejamento (Decreto 7.508/2011).",
+   "O plano de saúde é elaborado a partir do Mapa da Saúde; não é a representação geográfica em si."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 11,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A respeito da regulação em saúde, a existência do Complexo Regulador, em nível municipal, é ordenada pela gestão da Secretaria Municipal de Saúde. O objetivo desse complexo é regular o acesso populacional na rede de atenção buscando garantir o acesso referenciado, conforme pactuação. Acerca disso, é INCORRETO afirmar que se trata de uma atribuição do complexo regulador",
+  "alts": [
+   "gerir a ocupação dos leitos.",
+   "estabelecer critérios de classificação de risco.",
+   "executar a regulação médica do processo assistencial.",
+   "prestar as ações assistenciais de média complexidade em nível local.",
+   "efetivar o controle dos limites físicos e financeiros."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria de Consolidação GM/MS 2/2017, Anexo XXVI (Política Nacional de Regulação, origem na Portaria GM/MS 1.559/2008)",
+  "coment": "A questão pede a INCORRETA. Pela Política Nacional de Regulação, o complexo regulador organiza o acesso: gerencia a ocupação de leitos e agendas, executa a regulação médica do processo assistencial, estabelece e aplica critérios de classificação de risco e controla os limites físicos e financeiros pactuados. Ele não presta assistência. Executar ações de média complexidade é papel dos serviços de saúde, que o complexo regula. Separar quem regula de quem presta é o que dá sentido à regulação do acesso.",
+  "porAlt": [
+   "Está certa: gerir a ocupação de leitos é atribuição clássica do complexo regulador.",
+   "Está certa: estabelecer e executar critérios de classificação de risco cabe à regulação do acesso.",
+   "Está certa: a regulação médica do processo assistencial é exercida pelo complexo regulador.",
+   "Correta: é a afirmativa incorreta; prestar ações assistenciais cabe aos serviços de saúde; o complexo regulador apenas regula o acesso.",
+   "Está certa: controlar os limites físicos e financeiros pactuados é atribuição do complexo regulador."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 12,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Atenção Básica em Saúde é, sabidamente, a porta de entrada preferencial do SUS. É na Atenção Básica que, de maneira oportuna, ocorre a gestão do cuidado do indivíduo e a vinculação da população. No exercício do cuidado integral ao indivíduo, a Atenção Básica precisa ter resolutividade nas ações empenhadas e, para isso, incorpora tecnologias leves, leve duras e duras. Com base no enunciado da questão, assinale a alternativa que representa uma tecnologia LEVE nas práticas assistenciais da Atenção básica.",
+  "alts": [
+   "Protocolo operacional padrão-POP, disponibilizado pela gestão.",
+   "Recursos materiais para triagem do paciente.",
+   "Manuais ministeriais.",
+   "Relações entre os membros da equipe para planejamento do atendimento.",
+   "Formulários para registro de atividades."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Merhy, Saúde: a cartografia do trabalho vivo, 2002; Portaria GM/MS 2.436/2017 (PNAB)",
+  "coment": "Na classificação de Merhy, tecnologias leves são as relacionais: vínculo, acolhimento, escuta, autonomização e a produção de relações no trabalho em saúde, inclusive entre os membros da equipe. Leve-duras são os saberes estruturados, como protocolos, manuais, POP e a clínica e a epidemiologia. Duras são equipamentos, máquinas, materiais e estruturas organizacionais, como formulários. Por isso as relações da equipe para planejar o atendimento são a única tecnologia leve entre as opções.",
+  "porAlt": [
+   "O POP é saber estruturado e normatizado, portanto tecnologia leve-dura.",
+   "Recursos materiais são equipamentos e insumos, isto é, tecnologia dura.",
+   "Manuais ministeriais organizam saberes estruturados, o que os torna tecnologia leve-dura.",
+   "Correta: as relações entre os membros da equipe são tecnologia leve, a do trabalho vivo em ato.",
+   "Formulários são instrumentos e estruturas organizacionais, classificados como tecnologia dura."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 13,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Na PNAB de 2017, foi incluído o Gerente de Atenção Básica, profissional cujo papel consiste em auxiliar o planejamento no serviço, bem como o processo de trabalho. Através do exercício técnico-gerencial, o Gerente da Atenção Básica fortalece a atenção à saúde da população por meio do aprimoramento do serviço, coordenação e integração das ações na Rede. Acerca desse profissional, é CORRETO afirmar que",
+  "alts": [
+   "deve ser um Agente Comunitário de Saúde que já compõe o quadro profissional.",
+   "é uma função cumulativa ao enfermeiro, ou seja, deve ser incorporada pelo enfermeiro da UBS.",
+   "compete ao médico da equipe o exercício cumulativo dessa função.",
+   "deve possuir, preferencialmente, nível superior e experiência na Atenção Básica.",
+   "deve ser uma função assumida por qualquer membro já vinculado à equipe de saúde da família."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), consolidada na Portaria de Consolidação GM/MS 2/2017",
+  "coment": "A PNAB de 2017 recomenda a inclusão do Gerente de Atenção Básica, profissional qualificado, preferencialmente de nível superior, com experiência na Atenção Básica, para planejar, coordenar e integrar as ações da UBS na rede. Recomenda também que ele não seja integrante das equipes vinculadas à UBS, justamente para não acumular a função com o trabalho assistencial. Por isso não é função cumulativa do enfermeiro, do médico ou do ACS. A PNAB 2.436/2017 segue vigente em 2026, com revisão anunciada pelo Ministério.",
+  "porAlt": [
+   "Erra porque a PNAB recomenda profissional preferencialmente de nível superior e de fora das equipes, não um ACS.",
+   "Erra porque não é função cumulativa do enfermeiro; recomenda-se que o gerente não integre as equipes da UBS.",
+   "Erra porque a função não é cumulativa do médico; o gerente deve ter papel exclusivo de gestão.",
+   "Correta: a PNAB recomenda gerente preferencialmente de nível superior e com experiência na Atenção Básica.",
+   "Erra porque a PNAB recomenda que o gerente não seja membro das equipes vinculadas à UBS."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 15,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Considerando a importância de uma atenção integral à saúde da parcela social do ensino público básico do Brasil, traçou-se um programa o qual possui aspectos de intersetorialidade, entre os Ministérios da Saúde e da Educação. As ações, executadas no âmbito das escolas e unidades básicas de saúde, são demandadas com objetivo, sobretudo, de promoção à saúde, contudo possuem potencial na prevenção e recuperação da saúde. Com base no exposto, assinale a alternativa que corresponde ao programa descrito no texto.",
+  "alts": [
+   "Programa Saúde na Escola – PSE.",
+   "Academia da Saúde.",
+   "Rede Cegonha.",
+   "HumanizaSUS.",
+   "Programa Nacional de Imunização."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 6.286/2007 (Programa Saúde na Escola)",
+  "coment": "O Programa Saúde na Escola foi instituído pelo Decreto 6.286/2007 como política intersetorial dos Ministérios da Saúde e da Educação, voltada aos estudantes da rede pública de educação básica. As ações são feitas por equipes da Atenção Básica em articulação com as escolas, com foco em promoção da saúde e prevenção de agravos (avaliação clínica e psicossocial, vacinação, saúde bucal, alimentação, cultura de paz). É exatamente o programa descrito no enunciado.",
+  "porAlt": [
+   "Correta: o PSE (Decreto 6.286/2007) une Saúde e Educação em ações nas escolas públicas de educação básica.",
+   "A Academia da Saúde implanta polos de promoção da saúde e atividade física, sem foco nas escolas.",
+   "A Rede Cegonha, hoje transformada na Rede Alyne (Portaria GM/MS 5.350/2024), cuida da gestação, do parto e da criança.",
+   "O HumanizaSUS é a Política Nacional de Humanização, voltada às práticas de atenção e gestão.",
+   "O PNI organiza a vacinação no país e não é programa intersetorial com a Educação."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 16,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Os conceitos de integração vertical e horizontal, advindos da teoria econômica, são aplicados na estruturação da Rede de Atenção à Saúde. Essas integrações associam-se às concepções relativas às cadeias produtivas. A respeito dessa temática, assinale a alternativa que se refere à integração vertical.",
+  "alts": [
+   "Articulação dentro de um mesmo serviço assistencial, intrasetorial.",
+   "Ações de natureza similar às já executadas dentro de uma organização.",
+   "Articulação complementar entre organizações de naturezas distintas.",
+   "Fusão de unidades de mesma especialidade e capacidade resolutiva.",
+   "Integração de equipe dentro de uma unidade básica de saúde."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 4.279/2010 (PRC 3/2017, Anexo I); Mendes, As redes de atenção à saúde, OPAS, 2011",
+  "coment": "A Portaria 4.279/2010 traz os dois conceitos. Integração vertical é a articulação de organizações ou unidades responsáveis por ações e serviços de natureza diferenciada, de forma complementar, o que agrega resolutividade e qualidade, por exemplo a UBS com o ambulatório especializado e o hospital. Integração horizontal é a articulação ou fusão de unidades e serviços de mesma natureza ou especialidade, buscando escala e ampliação de cobertura. Assim, só a alternativa C descreve a vertical.",
+  "porAlt": [
+   "Articulação dentro de um mesmo serviço não junta organizações de naturezas diferentes, que é o cerne da integração vertical.",
+   "Agregar ações de natureza similar às já executadas descreve a integração horizontal.",
+   "Correta: a integração vertical articula, de forma complementar, organizações de naturezas distintas.",
+   "Fundir unidades de mesma especialidade é integração horizontal, que busca escala.",
+   "Integrar a equipe dentro de uma UBS é trabalho em equipe, não integração vertical da rede."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 17,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Leia o trecho abaixo: \"Promover saúde envolve escolha e isso não é da esfera do conhecimento verdadeiro, mas do valor\". Partindo dessa consideração e seguindo com ela, abre-se espaço para que a promoção da saúde se inscreva definitivamente no campo da ética, e, consequentemente, a emoção, o afeto, a subjetividade e os sentimentos passionais não apenas componham, mas tornem-se imperativos nos seus pressupostos, desenvolvimento e 'práxis'. Ensaio • Saúde debate 40 (108) Jan-Mar 2016 • https://doi.org/10.1590/0103-1104-20161080016\nOs termos apresentados no texto abordam o conceito de promoção à saúde pela associação entre as seguintes características:",
+  "alts": [
+   "coletividades e territórios.",
+   "território e rede de atenção.",
+   "econômico e político.",
+   "vulnerabilidade e risco à saúde.",
+   "autonomia e a singularidade dos sujeitos."
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Educação em saúde",
+  "cenario": "ger",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Política Nacional de Promoção da Saúde, Portaria GM/MS 2.446/2014 (PRC 2/2017, Anexo I)",
+  "coment": "O texto desloca a promoção da saúde para o campo dos valores e da ética, valorizando escolha, emoção, afeto e subjetividade. Isso remete à autonomia e à singularidade dos sujeitos: cada pessoa escolhe a partir de seus valores e da sua história. A PNPS de 2014 inclui autonomia entre os valores e princípios da promoção da saúde, junto com respeito às diversidades, equidade e participação social. Território, rede, risco e economia não aparecem no trecho.",
+  "porAlt": [
+   "Coletividades e territórios importam à promoção, mas o trecho fala de escolha, valor e subjetividade.",
+   "Território e rede são categorias organizativas do sistema, ausentes no texto.",
+   "O texto não trata de dimensões econômicas ou políticas, e sim éticas e subjetivas.",
+   "Vulnerabilidade e risco são categorias epidemiológicas, e o trecho enfatiza escolha e afeto.",
+   "Correta: escolha, valor, emoção e subjetividade remetem à autonomia e à singularidade dos sujeitos."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 18,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Leia abaixo a fala do polímata Paulo Freire: “Eu me comprometo, por que eu acho isso válido, a dar o meu assessoramento a vocês. Agora, o que é preciso é “fazer”. Assim, a gente vai tendo a sensação agradável de estar descobrindo as coisas com o povo. Então, hoje, eu tenho a impressão de que não caberia uma palestra sobre um Método de realizar a educação popular, não é para isso que eu vim aqui. Eu tenho a impressão de que eu poderia colocar a nós - e não a vocês, porque eu coloco a mim também - alguns elementos, chamemos, até, de princípios, que são válidos, não apenas para quem está metido com alfabetização, mas para quem estiver participando de qualquer tipo de pastoral [ ou enfrentando as relações entre movimento e mudança]. Não importa se está fazendo alfabetização de adultos ou se está trabalhando na pastoral operária, na área da saúde ou qualquer outra que seja. Os princípios são válidos também, por exemplo, para quem é médico e trabalha com o povão. Paulo Freire então explanou sobre cinco princípios - que considerava fundamentais - aos educadores e às educadoras: saber ouvir; desmontar a visão mágica; aprender/estar com o outro; assumir a ingenuidade dos educandos (as) e viver pacientemente impaciente. Caderno de educação popular e saúde / Ministério da Saúde, Secretaria de Gestão Estratégica e Participativa, Departamento de Apoio à Gestão Participativa. - Brasília: Ministério da Saúde, 2007\nAo usar o termo “viver pacientemente impaciente”, o Professor Paulo Freire defende que na educação popular",
+  "alts": [
+   "os especialistas são autossuficientes no conhecimento.",
+   "a posição autoritária do educador é fundamental no processo de educação popular.",
+   "seja reduzida a criticidade da população por meio de um incremento na erudição do ensino.",
+   "deve-se manter a crítica, recriar, reaprender e fazer.",
+   "mantenha-se a participação ativa da gestão no direcionamento da educação e passiva dos usuários na recepção da informação."
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Educação em saúde",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Política Nacional de Educação Popular em Saúde, Portaria GM/MS 2.761/2013; Ministério da Saúde, Caderno de educação popular e saúde, 2007",
+  "coment": "Viver pacientemente impaciente, em Paulo Freire, é manter a inquietação crítica e o desejo de mudança sem perder a paciência do processo coletivo: seguir criticando, recriando, reaprendendo e fazendo junto com o povo. A Política Nacional de Educação Popular em Saúde (2013) adota esses princípios: diálogo, amorosidade, problematização, construção compartilhada do conhecimento, emancipação. Autoridade do educador, especialista autossuficiente e usuário passivo são o modelo bancário que Freire criticou.",
+  "porAlt": [
+   "Freire nega a autossuficiência do especialista; o conhecimento se constrói no diálogo.",
+   "A posição autoritária do educador é o que a educação popular rejeita.",
+   "A educação popular busca ampliar, e não reduzir, a criticidade da população.",
+   "Correta: viver pacientemente impaciente é manter a crítica e seguir recriando, reaprendendo e fazendo.",
+   "A educação popular valoriza a participação ativa dos usuários, e não a recepção passiva."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 19,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A respeito dos estudos epidemiológicos, os mesmo devem passar pelo crivo do Comitê de ética em Pesquisa. Na análise do projeto, os princípios éticos que devem ser observados na pesquisa e prática epidemiológicas incluem: consentimento informado; confidencialidade; respeito pelos direitos humanos e integridade científica. A respeito do CONSENTIMENTO INFORMADO, assinale a alternativa CORRETA.",
+  "alts": [
+   "Deve ser verbalizado pelo participante do estudo, sendo a documentação escrita no Termo de Consentimento Livre e Esclarecido – TCLE desnecessária.",
+   "É dispensável em casos de pesquisas realizadas com crianças.",
+   "É facultativo ao pesquisador a solicitação do consentimento, sendo obrigatório, apenas, nos estudos experimentais.",
+   "Assegura ao participante a preservação do sigilo das informações particulares obtidas.",
+   "Deve ser obtido dos participantes do estudo antes da execução da pesquisa e a eles devem assegurar o direito de abandonar o estudo a qualquer momento, sem danos."
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CNS 466/2012, itens II e IV",
+  "coment": "Pela Resolução CNS 466/2012, o consentimento livre e esclarecido é obtido antes da participação, em regra registrado por escrito no TCLE, e deve garantir a liberdade de recusar ou retirar o consentimento em qualquer fase, sem penalização (item IV.3). Com crianças, os responsáveis consentem e a criança dá seu assentimento, na medida de sua compreensão. O sigilo das informações é garantia que o TCLE explicita, mas corresponde ao princípio da confidencialidade, que o enunciado listou à parte.",
+  "porAlt": [
+   "Erra porque o consentimento, em regra, é registrado por escrito no TCLE; dispensa só com justificativa aprovada pelo CEP.",
+   "Erra porque, com crianças, os responsáveis consentem e a criança dá o assentimento; não há dispensa.",
+   "Erra porque o consentimento é obrigatório em toda pesquisa com seres humanos, não só nos estudos experimentais.",
+   "O sigilo é garantido no TCLE, mas define o princípio da confidencialidade, que o enunciado separou do consentimento.",
+   "Correta: o consentimento é obtido antes da pesquisa e assegura a saída a qualquer momento, sem prejuízo."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 22,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Considerando que a elaboração dos indicadores de saúde possui como base a coleta de dados, assinale a alternativa que apresenta uma fonte de dados primários.",
+  "alts": [
+   "Artigos de revisão.",
+   "Aplicação de questionário ao público.",
+   "Enciclopédias.",
+   "Bancos de dados dos sistemas de informação em saúde.",
+   "Relatório governamental – censo IBGE."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "RIPSA, Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "Dado primário é o coletado diretamente pelo pesquisador para o seu objetivo, como a aplicação de um questionário à população. Dados secundários já foram coletados por outros e são reaproveitados: bancos dos sistemas de informação (SIM, SINASC, SINAN), censo do IBGE e relatórios governamentais. Artigos de revisão e enciclopédias são fontes bibliográficas secundárias ou terciárias. Por isso só o questionário gera dado primário.",
+  "porAlt": [
+   "Artigos de revisão sintetizam estudos já publicados, sendo fonte secundária.",
+   "Correta: o questionário aplicado diretamente ao público produz dado primário, coletado para o próprio estudo.",
+   "Enciclopédias são fontes terciárias, que compilam informação já elaborada.",
+   "Bancos dos sistemas de informação reúnem dados já coletados, isto é, dados secundários.",
+   "O censo do IBGE é coleta de outra instituição; para quem o usa, é dado secundário."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 23,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A vacinação é uma ação programada de saúde de fundamental importância para a redução da morbimortalidade, sobretudo na primeira infância. A respeito dessa temática, o indicador de saúde, que permite estimar o risco de morrer entre menores de 1 ano devido a doenças imunopreviníveis, denomina-se",
+  "alts": [
+   "coeficiente de mortalidade infantil.",
+   "taxa bruta de natalidade.",
+   "taxa de mortalidade por doenças que podem ser evitadas por vacinação em menores de 1 ano.",
+   "taxa de morbidade por doenças que podem ser evitadas por vacinação em menores de 1 ano.",
+   "mortalidade proporcional por causas mal definidas."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "RIPSA, Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "Risco de morrer se estima com uma taxa de mortalidade: óbitos por doenças imunopreveníveis em menores de 1 ano sobre a população dessa idade. Por isso a resposta é a taxa de mortalidade por doenças evitáveis por vacinação em menores de 1 ano. A mortalidade infantil considera todas as causas; a taxa de morbidade mede adoecimento, e não morte; natalidade e causas mal definidas não medem o risco de morrer por imunopreveníveis.",
+  "porAlt": [
+   "O coeficiente de mortalidade infantil inclui todas as causas de óbito em menores de 1 ano.",
+   "A taxa bruta de natalidade mede nascidos vivos por habitantes, sem relação com óbitos.",
+   "Correta: estima o risco de morrer por doenças imunopreveníveis entre menores de 1 ano.",
+   "Morbidade mede adoecimento, e o enunciado pergunta pelo risco de morrer.",
+   "A proporção de causas mal definidas avalia a qualidade da informação sobre óbitos."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 24,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "O aumento da expectativa de vida no Brasil está atrelado ao incremento da prevalência de determinados agravos na população, tal qual as neoplasias. Tanto no Brasil quanto no mundo, os tipos de câncer se diversificam nas populações e sugerem uma transição epidemiológica em andamento. Sobre o agravo citado no corpo da questão, assinale a alternativa CORRETA.",
+  "alts": [
+   "Os tipos de câncer não possuem determinação ambiental ou fator de risco relacionado à classe social.",
+   "A exposição a determinados fatores ambientais e de condição de vida aumenta a prevalência de determinados tipos de câncer na população.",
+   "As desigualdades sociais não afetam a distribuição desse agravo.",
+   "Não possui multifatorialidade na sua etiologia.",
+   "Os fatores ambientais não interferem ou relacionam-se com a incidência das neoplasias na população."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Lei 14.758/2023 (Política Nacional de Prevenção e Controle do Câncer)",
+  "coment": "O câncer tem etiologia multifatorial: fatores genéticos interagem com exposições ambientais, ocupacionais e de modo de vida (tabaco, álcool, alimentação, sedentarismo, radiação, agentes infecciosos como HPV e hepatites). Essas exposições se distribuem de forma desigual entre classes sociais, o que muda o perfil de câncer em cada população, como ocorre com o colo do útero, mais frequente onde o rastreamento é falho. Por isso só a B é correta; as demais negam multifatorialidade, ambiente e desigualdade.",
+  "porAlt": [
+   "Erra porque vários cânceres têm fatores de risco ambientais e se relacionam à classe social.",
+   "Correta: a exposição a fatores ambientais e às condições de vida aumenta a ocorrência de certos tipos de câncer.",
+   "Erra porque as desigualdades sociais afetam exposição, acesso ao rastreamento e diagnóstico precoce.",
+   "Erra porque o câncer tem etiologia multifatorial, com interação entre genética e exposições.",
+   "Erra porque fatores ambientais, como tabaco, radiação e agentes químicos, influenciam a incidência."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 27,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Promoção da Saúde é definida como “a capacitação das pessoas e comunidades para modificarem os determinantes da saúde em benefício da própria qualidade de vida”, de acordo com a Carta de Ottawa (1986). Nesse sentido, a explanação sobre a definição de Promoção da saúde almeja o protagonismo dos indivíduos para que, em relação à sua saúde, eles sejam",
+  "alts": [
+   "absortos.",
+   "abstraídos.",
+   "alheios.",
+   "empoderados.",
+   "subservientes."
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Educação em saúde",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Carta de Ottawa, 1986; Política Nacional de Promoção da Saúde, Portaria GM/MS 2.446/2014",
+  "coment": "A Carta de Ottawa, de 1986, define promoção da saúde como o processo de capacitação das pessoas e comunidades para atuarem na melhoria da sua qualidade de vida e saúde, com maior participação no controle desse processo. A ideia central é o empoderamento (empowerment): indivíduos e comunidades com poder para decidir e agir sobre os determinantes da saúde. Absortos, abstraídos, alheios e subservientes descrevem justamente a passividade que a carta quer superar.",
+  "porAlt": [
+   "Absorto é quem está distraído e alheio, o oposto do protagonismo que a Carta de Ottawa busca.",
+   "Abstraído significa desligado da realidade, contrário à participação ativa na própria saúde.",
+   "Alheio indica indiferença, o contrário da capacitação para modificar os determinantes da saúde.",
+   "Correta: a capacitação para agir sobre os determinantes da saúde é o empoderamento proposto em Ottawa.",
+   "Subserviente é quem se submete, oposto da autonomia que a promoção da saúde pretende gerar."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 28,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A respeito dos indicadores demográficos, assinale a alternativa que se refere ao indicador que expressa a longevidade da população, não é afetado pelas estruturas etárias e o seu aumento indica melhoria das condições de vida e saúde populacional.",
+  "alts": [
+   "Mortalidade proporcional por idade em menores de um ano.",
+   "Taxa bruta de natalidade.",
+   "Esperança de vida ao nascer.",
+   "Taxa de fecundidade.",
+   "Razão entre sexos."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "RIPSA, Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "A esperança de vida ao nascer é o número médio de anos que se espera que um recém-nascido viva, mantido o padrão de mortalidade do período. Como é calculada a partir de tábuas de vida com as taxas de cada idade, não é afetada pela estrutura etária da população, o que permite comparar populações jovens e envelhecidas. Seu aumento indica melhoria das condições de vida e de saúde. Natalidade, fecundidade e razão entre sexos não medem longevidade.",
+  "porAlt": [
+   "A mortalidade proporcional em menores de 1 ano depende da estrutura etária e não mede longevidade.",
+   "A taxa bruta de natalidade é influenciada pela estrutura etária e mede nascimentos, não longevidade.",
+   "Correta: a esperança de vida ao nascer expressa longevidade, independe da estrutura etária e sobe com as condições de vida.",
+   "A taxa de fecundidade mede o número médio de filhos por mulher, não a longevidade.",
+   "A razão entre sexos descreve a composição da população por sexo."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 29,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Na busca para aumentar a qualificação da gestão da informação, bem como o aprimoramento da atenção ao paciente, foi lançado, em 2013, um sistema estratégico que reestruturou os sistemas de informação da Atenção Primária em Saúde. Para isso, as Unidades de Saúde da Família foram informatizadas e passaram a captar os dados através da Coleta de Dados Simplificada (CDS) e do Prontuário Eletrônico do Cidadão (PEC). Assinale a alternativa que apresenta o sistema referido no enunciado da questão.",
+  "alts": [
+   "e-SUS APS.",
+   "SINASC.",
+   "SIASUS.",
+   "SIHD.",
+   "VIGISUS."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 1.412/2013 (institui o SISAB e a estratégia e-SUS Atenção Básica)",
+  "coment": "Em 2013 a Portaria GM/MS 1.412 instituiu o Sistema de Informação em Saúde para a Atenção Básica (SISAB), alimentado pela estratégia e-SUS AB, hoje e-SUS APS, que reestruturou a informação da Atenção Primária com dois softwares: a Coleta de Dados Simplificada (CDS), por fichas, e o Prontuário Eletrônico do Cidadão (PEC). SINASC registra nascidos vivos, SIA-SUS a produção ambulatorial e SIHD as internações hospitalares.",
+  "porAlt": [
+   "Correta: o e-SUS APS, de 2013, usa a Coleta de Dados Simplificada e o Prontuário Eletrônico do Cidadão.",
+   "O SINASC registra nascidos vivos a partir da Declaração de Nascido Vivo.",
+   "O SIA-SUS registra a produção ambulatorial para faturamento, sem CDS nem PEC.",
+   "O SIHD processa as AIH, isto é, a informação das internações hospitalares.",
+   "VIGISUS foi projeto de estruturação da vigilância em saúde, não o sistema da APS com CDS e PEC."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2022,
+   "prova": "Residência Multiprofissional 2023, Enfermagem, Perfil Saúde Coletiva",
+   "n": 30,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Homem de 35 anos, hipertenso, que não faz acompanhamento dos seus níveis pressóricos, procurou atendimento de emergência devido à dispneia desencadeada por pequenos esforços e edema de membros inferiores, iniciados há seis meses. O paciente foi encaminhado para internação na clínica médica, para investigação do caso. As atividades que devem ser realizadas na primeira etapa do processo de enfermagem compreendem:",
+  "alts": [
+   "orientar as atividades que o paciente deve realizar após sua liberação",
+   "realizar reflexão clínica para estabelecer o diagnóstico de enfermagem",
+   "indicar os resultados esperados para o paciente, em curto, médio e longo prazo",
+   "verificar pressão arterial e frequência respiratória, e investigar as condições de vida"
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, art. 4º (revogou a Resolução COFEN 358/2009)",
+  "coment": "Pela Res. COFEN 736/2024, o Processo de Enfermagem tem cinco etapas: Avaliação, Diagnóstico, Planejamento, Implementação e Evolução. A primeira, Avaliação de Enfermagem (antes chamada coleta de dados ou histórico), reúne entrevista e exame físico, com dados objetivos e subjetivos: aferir pressão arterial e frequência respiratória e investigar as condições de vida desse hipertenso dispneico fazem parte dela. Estabelecer o diagnóstico é a segunda etapa; definir resultados esperados é planejamento; orientar a alta é implementação.",
+  "porAlt": [
+   "Orientar atividades após a alta é intervenção, que pertence à implementação, não à primeira etapa.",
+   "A reflexão clínica para estabelecer o diagnóstico é a segunda etapa, o Diagnóstico de Enfermagem.",
+   "Definir resultados esperados de curto, médio e longo prazo faz parte do Planejamento.",
+   "Correta: aferir sinais vitais e investigar condições de vida é a Avaliação de Enfermagem, primeira etapa da Res. 736/2024."
+  ],
+  "fonte": {
+   "banca": "UERJ (CEPUERJ)",
+   "ano": 2024,
+   "prova": "Residência Uniprofissional 2025, Enfermagem",
+   "n": 1,
+   "parte": "especificas"
+  }
+ }
+]

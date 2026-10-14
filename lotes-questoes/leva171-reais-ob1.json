@@ -1,0 +1,1322 @@
+[
+ {
+  "q": "As drogas vasoativas, frequentemente utilizadas na terapia intensiva, são substâncias que apresentam efeitos vasculares periféricos, pulmonares ou cardíacos, por isso, os enfermeiros devem conhecer as propriedades farmacológicas, a indicação e os cuidados de enfermagem. São exemplos de drogas vasoativas:",
+  "alts": [
+   "Fentanil, Noradrenalina e Vasopressina",
+   "Epinefrina, Dopamina e Dobutamina",
+   "Nitroglicerina, Dopamina e Propofol",
+   "Atropina, Dopamina e Midazolam"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Surviving Sepsis Campaign 2026 (vasopressores e inotrópicos)",
+  "coment": "Droga vasoativa é a que age diretamente no tônus vascular ou na contratilidade, com efeito em minutos e dose titulada em bomba de infusão. Epinefrina e dopamina são catecolaminas vasopressoras (e inotrópicas), e a dobutamina é o inotrópico usado na disfunção cardíaca com hipoperfusão persistente. A pegadinha é misturar uma droga vasoativa verdadeira com sedativo, analgésico ou anticolinérgico: fentanil, propofol, midazolam e atropina não entram nesse grupo, mesmo que alterem a pressão como efeito colateral.",
+  "porAlt": [
+   "Errada: noradrenalina e vasopressina são vasoativas, mas o fentanil é analgésico opioide usado na sedoanalgesia.",
+   "Correta: epinefrina, dopamina e dobutamina são catecolaminas de ação vascular e cardíaca, as três drogas vasoativas.",
+   "Errada: nitroglicerina e dopamina são vasoativas, mas o propofol é sedativo hipnótico, ainda que cause hipotensão.",
+   "Errada: a atropina é anticolinérgico usado na bradicardia e o midazolam é benzodiazepínico sedativo."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Resolução COFEN nº 543 de 2017, há um referencial mínimo para o quadro de profissionais de enfermagem para as 24 horas de cada unidade de internação (UI). A distribuição percentual do total de profissionais de enfermagem, para cuidado semi-intensivo, é de:",
+  "alts": [
+   "33% de enfermeiros e os demais auxiliares e/ou técnicos de enfermagem",
+   "38% de enfermeiros e os demais auxiliares e/ou técnicos de enfermagem",
+   "42% de enfermeiros e os demais técnicos de enfermagem",
+   "52% de enfermeiros e os demais técnicos de enfermagem"
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Parecer Normativo COFEN nº 01/2024 (Res. COFEN 743/2024)",
+  "coment": "A Resolução COFEN 543/2017 citada no enunciado foi revogada pela Res. COFEN 743/2024, e os parâmetros passaram ao Parecer Normativo COFEN nº 01/2024, que manteve os mesmos números. Na distribuição percentual do quadro, o cuidado mínimo e o intermediário têm 33% de enfermeiros, a alta dependência 36%, o semi-intensivo 42% e o intensivo 52%. Nos três primeiros o restante pode ser de técnicos e/ou auxiliares; no semi-intensivo e no intensivo, o parecer fala só em técnicos de enfermagem. Por isso a chave é 42% com os demais técnicos.",
+  "porAlt": [
+   "Errada: 33% de enfermeiros, com técnicos e/ou auxiliares, é o percentual do cuidado mínimo e intermediário.",
+   "Errada: 38% não é percentual previsto; a alta dependência usa 36% de enfermeiros.",
+   "Correta: no cuidado semi-intensivo, 42% são enfermeiros e os demais técnicos de enfermagem, parâmetro mantido pelo PN 01/2024.",
+   "Errada: 52% de enfermeiros e os demais técnicos é o parâmetro do cuidado intensivo."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O rastreamento das infecções sexualmente transmissíveis consiste na realização de testes diagnósticos em pessoas assintomáticas para estabelecer o diagnóstico precoce (prevenção secundária), com o objetivo de reduzir a morbimortalidade. Portanto, em casos de violência sexual, o atendimento para o rastreamento de HIV e Sífilis ocorrerá da seguinte forma:",
+  "alts": [
+   "logo de início; de 4 a 6 semanas e com 3 meses após a exposição",
+   "de forma tardia; de 8 a 12 semanas e com 4 meses após a exposição",
+   "de forma tardia; de 12 a 14 semanas e com 8 meses após exposição",
+   "logo de início; de 20 a 24 semanas e com 12 meses após a exposição"
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "PCDT para Atenção Integral às Pessoas com IST (MS, 2022) e PCDT PEP (MS, 2024)",
+  "coment": "Na violência sexual, a testagem para HIV e sífilis é feita já no primeiro atendimento, para registrar a situação sorológica prévia à agressão, e repetida em 4 a 6 semanas e em 3 meses, prazo que cobre a janela imunológica dos testes. O PCDT de PEP mantém o mesmo raciocínio para o HIV, com nova testagem em 30 e 90 dias após a exposição. Testar só de forma tardia perderia o marco basal, e intervalos de 20 semanas ou 12 meses não têm respaldo no protocolo.",
+  "porAlt": [
+   "Correta: testagem no atendimento inicial, em 4 a 6 semanas e em 3 meses após a exposição, como no PCDT.",
+   "Errada: a testagem não é tardia; o teste basal no primeiro atendimento é obrigatório, e 8 a 12 semanas e 4 meses não são os prazos.",
+   "Errada: deixar a testagem para depois perde o marco basal, e 12 a 14 semanas e 8 meses não constam do protocolo.",
+   "Errada: começa logo de início, mas 20 a 24 semanas e 12 meses estão fora dos intervalos de seguimento do PCDT."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Resolução RDC nº 36, de 25 de julho de 2013, descreve que o documento que aponta situações de risco e descreve as estratégias e ações definidas pelo serviço de saúde para a gestão de risco visando à prevenção e à mitigação dos incidentes, na admissão, na transferência, na alta ou no óbito do paciente, no serviço de saúde, é chamado de:",
+  "alts": [
+   "protocolo clínico de incidentes",
+   "mapeamento de riscos clínicos",
+   "diretriz clínica e operacional de riscos",
+   "plano de segurança do paciente em serviços de saúde"
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 3º",
+  "coment": "O art. 3º da RDC 36/2013 define o plano de segurança do paciente em serviços de saúde como o documento que aponta situações de risco e descreve as estratégias e ações do serviço para a gestão de risco, visando à prevenção e à mitigação dos incidentes, da admissão à transferência, à alta ou ao óbito. Quem elabora o plano é o Núcleo de Segurança do Paciente. As outras expressões soam técnicas, mas não são termos definidos pela resolução.",
+  "porAlt": [
+   "Errada: protocolo clínico de incidentes não é termo definido pela RDC 36/2013.",
+   "Errada: mapeamento de riscos é ferramenta de gestão, mas o documento descrito na norma tem outro nome.",
+   "Errada: diretriz clínica e operacional de riscos não existe na RDC 36/2013.",
+   "Correta: é a definição literal de plano de segurança do paciente em serviços de saúde, do art. 3º da RDC 36/2013."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A infecção pelo vírus Zika pode ocasionar um espectro clínico que varia de manifestação assintomática, passando por um quadro clínico com manifestações brandas e autolimitadas, e pode se manifestar com complicações neurológicas e doença congênita. Portanto, além da microcefalia congênita, pode ocorrer uma série de manifestações, incluindo desproporção craniofacial e outras como:",
+  "alts": [
+   "herpes zoster, hepatite, convulsões e disartrias",
+   "espasticidade, convulsões, irritabilidade e disfunção do tronco encefálico",
+   "poliomielite, demência de Pick, irritabilidade e disfunção miocárdica",
+   "neurotoxidade, paralisia da musculatura, atresia esofagiana e ânus imperfurado"
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. (MS, 2023), capítulo de Zika",
+  "coment": "A síndrome congênita associada ao Zika vai além da microcefalia. O Ministério da Saúde descreve desproporção craniofacial, espasticidade, convulsões, irritabilidade, disfunção do tronco encefálico (com problemas de deglutição), contraturas de membros, alterações auditivas e oculares e anomalias cerebrais vistas na imagem. São todas manifestações neurológicas, coerentes com o tropismo do vírus pelo tecido nervoso em formação. As distratoras misturam doenças de outra origem, como herpes zoster, poliomielite, demência de Pick e malformações digestivas.",
+  "porAlt": [
+   "Errada: herpes zoster e hepatite não fazem parte da síndrome congênita do Zika, e disartria não é achado do lactente.",
+   "Correta: espasticidade, convulsões, irritabilidade e disfunção do tronco encefálico compõem a síndrome congênita do Zika.",
+   "Errada: poliomielite e demência de Pick são doenças distintas, e disfunção miocárdica não é marca da síndrome.",
+   "Errada: atresia de esôfago e ânus imperfurado são malformações digestivas sem relação descrita com o Zika."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A terapia nutricional no ambiente hospitalar é primordial para a garantia de um manejo clínico adequado, entretanto, as recomendações para assegurar o posicionamento dos cateteres enterais após a sua instalação e periodicamente são:",
+  "alts": [
+   "radiografia abdominal e, a cada 4 horas, verificação e registro da marca da inserção e do seu comprimento externo",
+   "radiografia do tórax e, a cada 2 horas, verificação e registro da marca da inserção e do seu comprimento externo",
+   "ultrassonografia toracoabdominal e checagem da sonda com o auxílio do estetoscópio, na busca por ruídos hidroaéreos",
+   "ultrassonografia abdominal e, a cada 2 horas ou na mudança no aspecto, verificação do PH do líquido gástrico com auxílio de fitas"
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "ASPEN Safe Practices for Enteral Nutrition Therapy (JPEN, 2017); Res. COFEN 619/2019",
+  "coment": "A radiografia é o padrão de referência para confirmar a posição da sonda passada às cegas antes do primeiro uso; a ausculta com injeção de ar não distingue estômago, esôfago, pulmão ou duodeno. Depois, a posição é vigiada pela marca na saída da narina e pelo comprimento externo registrado, e as práticas seguras da ASPEN recomendam conferir em intervalos de cerca de 4 horas durante a dieta contínua. A Res. COFEN 619/2019 atribui ao enfermeiro encaminhar o paciente ao exame radiológico. Alguns protocolos pedem radiografia toracoabdominal e conferência a cada turno.",
+  "porAlt": [
+   "Correta: radiografia abdominal na instalação e conferência periódica, a cada 4 horas, da marca e do comprimento externo.",
+   "Errada: verificar a cada 2 horas não é o intervalo recomendado, e a imagem precisa mostrar a ponta no abdome.",
+   "Errada: a ausculta de ruídos com estetoscópio não confirma a posição, e a ultrassonografia não é o padrão.",
+   "Errada: o pH do aspirado só auxilia e não confirma sozinho; a ultrassonografia não substitui a radiografia."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os métodos mais convencionais de administração de oxigênio dependem de máscaras faciais ou cânulas e dispositivos nasais. O uso desses métodos é limitado por algumas desvantagens, que incluem a necessidade de um fluxo de oxigênio superior a 15L/minuto no caso de hipoxemia grave. Entretanto, como vantagem, o oxigenoterapia nasal de alto fluxo pode fornecer oxigênio aquecido e umidificado com uma fração inspirada de oxigênio (FiO2) controlada e fluxo médio máximo de:",
+  "alts": [
+   "20L/minuto",
+   "40L/minuto",
+   "60L/minuto",
+   "80L/minuto"
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Oxigenoterapia e vias aéreas",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "BTS Guideline for oxygen use in adults in healthcare and emergency settings (Thorax, 2017)",
+  "coment": "A cânula nasal de alto fluxo entrega oxigênio aquecido e umidificado a 37 °C, com FiO2 ajustável até perto de 100% e fluxo de até 60 L/min no adulto. O fluxo alto supera a demanda inspiratória do paciente com hipoxemia grave, evita a diluição pelo ar ambiente que limita máscaras e cateteres, lava o espaço morto e gera algum efeito de pressão positiva. Por isso o dispositivo exige umidificador aquecido; 60 L/min é o teto citado nos manuais.",
+  "porAlt": [
+   "Errada: 20 L/min já é superado por máscaras com reservatório e fica muito abaixo do teto do alto fluxo nasal.",
+   "Errada: 40 L/min é fluxo usado com frequência, mas o máximo do dispositivo no adulto é maior.",
+   "Correta: a cânula nasal de alto fluxo chega a 60 L/min no adulto, com gás aquecido, umidificado e FiO2 controlada.",
+   "Errada: 80 L/min ultrapassa o fluxo máximo descrito para a cânula nasal de alto fluxo no adulto."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante o atendimento de ressuscitação cardiopulmonar (RCP) após a instalação de uma via área avançada, intubação endotraqueal ou via aérea extraglótica avançada, a recomendação é administrar 1 ventilação a cada:",
+  "alts": [
+   "8 segundos",
+   "6 segundos",
+   "4 segundos",
+   "2 segundos"
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Diretrizes AHA 2025 de RCP e ACE (suporte avançado de vida no adulto)",
+  "coment": "Com via aérea avançada instalada (tubo traqueal ou dispositivo extraglótico), as compressões passam a ser contínuas, sem pausa para ventilar, e se faz 1 ventilação a cada 6 segundos, o que dá 10 por minuto. Sem via aérea avançada, a relação é de 30 compressões para 2 ventilações. A recomendação vinha das diretrizes AHA 2020 e foi mantida em 2025. Ventilar mais rápido que isso aumenta a pressão intratorácica e reduz o retorno venoso que as compressões tentam gerar.",
+  "porAlt": [
+   "Errada: 1 ventilação a cada 8 segundos daria cerca de 7 por minuto, abaixo das 10 recomendadas.",
+   "Correta: 1 ventilação a cada 6 segundos, 10 por minuto, com compressões contínuas, pela AHA.",
+   "Errada: a cada 4 segundos seriam 15 ventilações por minuto, hiperventilação que prejudica o retorno venoso.",
+   "Errada: a cada 2 segundos seriam 30 ventilações por minuto, hiperventilação grave."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O sistema de climatização da área de limpeza do Centro de Material e Esterilização (CME) do tipo Classe II e da empresa processadora deve manter temperatura ambiente entre:",
+  "alts": [
+   "10º e 12º C",
+   "12º e 14º C",
+   "14º e 16º C",
+   "18º e 22º C"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 15/2012 (climatização da área de limpeza do CME Classe II e da empresa processadora)",
+  "coment": "A RDC 15/2012 fixa requisitos de climatização para a área de limpeza do CME Classe II e da empresa processadora: temperatura ambiente entre 18 e 22 °C, vazão mínima de ar, pressão negativa em relação às áreas adjacentes e exaustão do ar para o exterior. A temperatura amena dá conforto a quem trabalha paramentado com EPI pesado, e a pressão negativa impede que aerossóis da área suja passem para o preparo. Faixas de 10 a 16 °C não aparecem na norma.",
+  "porAlt": [
+   "Errada: 10 a 12 °C é frio demais e não consta da RDC 15/2012.",
+   "Errada: 12 a 14 °C não é a faixa fixada pela norma para a área de limpeza.",
+   "Errada: 14 a 16 °C também está abaixo da faixa exigida pela RDC 15/2012.",
+   "Correta: a RDC 15/2012 exige temperatura entre 18 e 22 °C na área de limpeza do CME Classe II e da empresa processadora."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente Joana de 31 anos comparece ao posto de saúde da sua região com os seguintes sintomas: melasma facial, linha nigra e aumento do volume abdominal. De acordo com a literatura, esses sintomas que levam o profissional da saúde a investigar uma possível gravidez são definidos como:",
+  "alts": [
+   "probabilidade",
+   "presunção",
+   "incerteza",
+   "certeza"
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 32, Atenção ao Pré-Natal de Baixo Risco (MS, 2012)",
+  "coment": "O Caderno 32 divide os sinais de gravidez em três grupos. Presunção: atraso menstrual, náuseas, polaciúria, alterações das mamas, cianose vulvovaginal, aumento do volume abdominal e alterações de pigmentação como melasma e linha nigra; são sugestivos, mas podem ter outra causa. Probabilidade: amolecimento e aumento do colo e do útero e beta-hCG positivo. Certeza: batimentos cardíacos fetais, movimentos fetais percebidos pelo examinador e imagem do embrião na ultrassonografia. Incerteza não é categoria da classificação.",
+  "porAlt": [
+   "Errada: probabilidade reúne alterações uterinas e beta-hCG positivo, não alterações de pele e volume abdominal.",
+   "Correta: melasma, linha nigra e aumento do volume abdominal são sinais de presunção pelo Caderno 32.",
+   "Errada: incerteza não é uma das três categorias de sinais de gravidez.",
+   "Errada: certeza exige BCF, movimentos fetais percebidos pelo examinador ou imagem do feto."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "É importante fortalecer a vacinação de acordo com o Programa Nacional de Imunização (PNI). Para as gestantes, o esquema básico de proteção contra Hepatite B é:",
+  "alts": [
+   "3 doses (iniciar ou completar o esquema, de acordo com a situação vacinal, independentemente da idade gestacional)",
+   "4 doses (iniciar ou completar o esquema, de acordo com a situação vacinal, independentemente da idade gestacional)",
+   "3 doses (completar o esquema, de acordo com a situação vacinal e com a idade gestacional)",
+   "1 dose (iniciar ou completar o esquema, de acordo com a situação vacinal e com a idade gestacional)"
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), vacina hepatite B",
+  "coment": "Para a gestante em qualquer faixa etária e idade gestacional, a Instrução Normativa do calendário 2026 manda avaliar a situação vacinal no início do pré-natal: sem esquema básico completo (pelo menos 3 doses com componente hepatite B), aplica-se a vacina monovalente e agendam-se as doses restantes, de modo que a atualização termine ainda na gestação. Se não der tempo, conclui-se até 45 dias do puerpério, sem reiniciar o esquema. A gestante suscetível exposta recebe vacina e imunoglobulina em qualquer trimestre.",
+  "porAlt": [
+   "Correta: 3 doses, iniciando ou completando conforme a situação vacinal, em qualquer idade gestacional.",
+   "Errada: o esquema básico contra hepatite B tem 3 doses, não 4.",
+   "Errada: a vacina não depende da idade gestacional, e o esquema pode ser iniciado, não só completado.",
+   "Errada: dose única não protege; o esquema básico tem 3 doses, independentemente da idade gestacional."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A vacina de poliomielite 1, 2 e 3 (inativada) deve ser administrada em 3 (três) doses, aos 2 (dois), 4 (quatro) e 6 (seis) meses de idade, com intervalo de 60 dias entre as doses. O volume da dose e a via de administração são:",
+  "alts": [
+   "1 ml, via subcutânea",
+   "0,2 mL, via intradérmica",
+   "0,5 mL, via intramuscular",
+   "0,7 mL, via intramuscular"
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Técnica de aplicação",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), vacina VIP",
+  "coment": "Pela Instrução Normativa do calendário 2026, a VIP tem dose de 0,5 mL por via intramuscular, no vasto lateral da coxa em menores de 2 anos; a via subcutânea fica para situações especiais, como discrasias sanguíneas. O esquema mudou desde a prova: a VOP saiu do calendário e hoje são 3 doses de VIP aos 2, 4 e 6 meses, com reforços também de VIP aos 15 meses e aos 4 anos. O intervalo de 60 dias entre as doses do esquema básico continua.",
+  "porAlt": [
+   "Errada: o volume é 0,5 mL, e a subcutânea é via de exceção, não a padrão.",
+   "Errada: 0,2 mL por via intradérmica não se aplica à VIP; intradérmica é a via da BCG.",
+   "Correta: a VIP é aplicada em dose de 0,5 mL por via intramuscular.",
+   "Errada: 0,7 mL não é volume de nenhuma vacina do calendário infantil; a dose da VIP é 0,5 mL."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A dengue é a arbovirose urbana mais prevalente nas Américas, principalmente no Brasil. Além da febre, pode apresentar outros sinais de alarme, dentre os quais podem-se citar:",
+  "alts": [
+   "febre alta > 38°C, manchas vermelhas no corpo e queda acentuada do hematócrito",
+   "dor abdominal leve, convulsões e esplenomegalia maior que 4 cm abaixo do rebordo costal",
+   "dor no corpo e articulações, epigastralgia com queimação e queda progressiva dos leucócitos",
+   "hepatomegalia maior que 2cm abaixo do rebordo costal, sangramento de mucosa e aumento progressivo do hematócrito"
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed. (MS, 2024)",
+  "coment": "Os sinais de alarme da dengue surgem na defervescência, quando começa o extravasamento plasmático. O manual do Ministério da Saúde lista dor abdominal intensa e contínua, vômitos persistentes, acúmulo de líquidos, hipotensão postural ou lipotimia, hepatomegalia maior que 2 cm abaixo do rebordo costal, sangramento de mucosa, letargia ou irritabilidade e aumento progressivo do hematócrito. Paciente com qualquer um deles é grupo C e precisa de hidratação venosa e leito de observação.",
+  "porAlt": [
+   "Errada: febre e exantema são sinais comuns da fase febril, e o hematócrito sobe, não cai.",
+   "Errada: a dor abdominal de alarme é intensa e contínua, e esplenomegalia não é sinal de alarme.",
+   "Errada: mialgia e artralgia são da fase febril, e leucopenia não é sinal de alarme.",
+   "Correta: hepatomegalia acima de 2 cm, sangramento de mucosa e aumento progressivo do hematócrito são sinais de alarme."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Estima-se que até 1,7 milhão de pessoas adoeçam anualmente por leishmanioses e, dessas, de 20 mil a 30 mil evoluem ao óbito. No Brasil, uma das formas mais frequentes de leishmanioses é a do tipo tegumentar. O período de incubação, ou seja, o tempo em que os sintomas começam a aparecer desde a infecção, em média, é de:",
+  "alts": [
+   "1 a 2 meses",
+   "2 a 3 meses",
+   "4 a 5 meses",
+   "5 a 6 meses"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Manual de Vigilância da Leishmaniose Tegumentar (MS, 2017), item 2.9",
+  "coment": "O Manual de Vigilância da Leishmaniose Tegumentar do Ministério da Saúde (2017), no item 2.9, afirma que o período de incubação no ser humano é, em média, de dois a três meses, podendo variar de duas semanas a dois anos. A doença é transmitida pela picada de flebotomíneos e é de notificação compulsória semanal. Saber que a incubação é longa ajuda a ligar a lesão ulcerada indolor a uma viagem ou exposição em área de mata de meses antes.",
+  "porAlt": [
+   "Errada: 1 a 2 meses fica abaixo da média de 2 a 3 meses dada pelo manual do Ministério da Saúde.",
+   "Correta: o manual de 2017 dá incubação média de 2 a 3 meses, com variação de 2 semanas a 2 anos.",
+   "Errada: 4 a 5 meses está dentro da variação possível, mas não é a média descrita.",
+   "Errada: 5 a 6 meses também não corresponde à média de incubação da leishmaniose tegumentar."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para garantir uma correta aferição da pressão arterial em crianças, o local do exame deve ser calmo e com temperatura agradável, o que contribui para o relaxamento do paciente. Além disso, a criança necessita de um descanso prévio de:",
+  "alts": [
+   "35 a 40 minutos",
+   "25 a 30 minutos",
+   "15 a 20 minutos",
+   "05 a 10 minutos"
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Diretriz de prática clínica da AAP para pressão arterial em crianças e adolescentes (Pediatrics, 2017)",
+  "coment": "A medida da PA na criança pede ambiente calmo, manguito com largura de cerca de 40% da circunferência do braço, criança sentada com o braço apoiado na altura do coração e um repouso prévio curto, de poucos minutos. A diretriz da AAP de 2017 fala em 3 a 5 minutos sentada em silêncio; manuais de enfermagem costumam escrever 5 a 10 minutos. Em qualquer das duas fontes o repouso é de minutos, não de meia hora; esperas de 15 a 40 minutos não têm respaldo e atrasam o exame sem ganho.",
+  "porAlt": [
+   "Errada: 35 a 40 minutos de repouso é excessivo e não tem respaldo em diretriz.",
+   "Errada: 25 a 30 minutos também é muito acima do repouso recomendado.",
+   "Errada: 15 a 20 minutos excede o repouso de poucos minutos previsto.",
+   "Correta: um repouso curto, de cerca de 5 a 10 minutos, antes da medida é o que a banca adota."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Demência é uma síndrome clínica caracterizada por déficits cognitivos múltiplos, adquiridos e persistentes, capazes de interferir de maneira substancial nas atividades de vida diária do paciente. A doença de Alzheimer (De a demência com corpos de Lewy (DCL) são as principais demências neurodegenerativas. Os principais sintomas da DCL são:",
+  "alts": [
+   "flutuação da função cognitiva, memória afetada, alucinações visuais e disfunção autonômica",
+   "oscilações na cognição, bexiga neurogênica, memória preservada e disfunção autonômica",
+   "rigidez, tremores em membros superiores, salivação excessiva e incontinência urinária",
+   "perda da memória, diplopia, incontinência fecal e disfunção autonômica"
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Demências e delirium",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Critérios diagnósticos do Consórcio DLB (McKeith et al., Neurology, 2017)",
+  "coment": "Pelos critérios do Consórcio DLB de 2017, a demência com corpos de Lewy tem quatro achados centrais: flutuação da cognição e da atenção, alucinações visuais recorrentes e bem formadas, transtorno comportamental do sono REM e parkinsonismo. A disfunção autonômica é achado de suporte. O déficit de memória pode ser discreto no início, mas costuma aparecer com a progressão. A alternativa correta é a única que reúne dois achados centrais. O enunciado traz um erro do caderno, \"(De a\", provavelmente por \"(DA) e a\".",
+  "porAlt": [
+   "Correta: flutuação cognitiva e alucinações visuais são achados centrais, e a disfunção autonômica é de suporte.",
+   "Errada: falta o achado mais típico, as alucinações visuais, e bexiga neurogênica não é sintoma principal.",
+   "Errada: rigidez e tremor isolados com sialorreia descrevem mais a doença de Parkinson, sem a flutuação cognitiva.",
+   "Errada: diplopia e incontinência fecal não são sintomas principais da demência com corpos de Lewy."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O câncer do colo do útero inicia-se a partir de uma lesão precursora, curável na quase totalidade dos casos. O método de rastreamento desse tipo de câncer e de suas lesões precursoras é o exame citopatológico, cujo intervalo entre os testes deve ser de:",
+  "alts": [
+   "três anos, após dois exames negativos, com intervalo anual",
+   "dois anos, após dois exames negativos, com intervalo anual",
+   "dois anos, após um exame negativo, com intervalo semestral",
+   "três anos, após três exames negativos, com intervalo semestral"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (INCA, 2016); Portaria Conjunta SAES/SECTICS nº 13/2025",
+  "coment": "Pela diretriz do INCA de 2016, o citopatológico é oferecido dos 25 aos 64 anos a quem já teve atividade sexual: os dois primeiros exames são anuais e, se ambos forem negativos, os seguintes são feitos a cada 3 anos. A regra continua valendo onde o novo modelo ainda não chegou. A Portaria Conjunta SAES/SECTICS nº 13/2025 aprovou o rastreamento com teste de DNA-HPV oncogênico, também dos 25 aos 64 anos, repetido a cada 5 anos se negativo, em implantação gradual.",
+  "porAlt": [
+   "Correta: intervalo de 3 anos após dois exames anuais negativos, pela diretriz de 2016.",
+   "Errada: o intervalo após dois exames anuais negativos é de 3 anos, não 2.",
+   "Errada: não há intervalo semestral nem passagem a 2 anos após um único exame negativo.",
+   "Errada: são dois exames anuais, não três semestrais, antes de passar ao intervalo de 3 anos."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As queimaduras são classificadas como injúrias decorrentes de traumas que possuem diferentes etiologias, dentre elas, a térmica, resultante da exposição a: chamas, líquidos quentes, superfícies quentes, substâncias químicas, frio, radiação, atrito ou fricção. Dependendo da extensão do comprometimento tecidual e da exposição ao agente agressor, as principais complicações clínicas nos pacientes queimados são:",
+  "alts": [
+   "lesão visceral, pneumonia e colite",
+   "lesão tegumentar, insuficiência renal crônica e colecistite",
+   "insuficiência cardíaca, pneumonia e cirrose hepática grave",
+   "lesão visceral, insuficiência renal aguda e edema pulmonar"
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Queimaduras",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Cartilha para tratamento de emergência das queimaduras (MS, 2012)",
+  "coment": "No grande queimado, a lesão de pele desencadeia resposta inflamatória sistêmica com aumento da permeabilidade capilar e perda de plasma para o interstício. Daí vêm as complicações agudas: choque hipovolêmico e insuficiência renal aguda (por hipoperfusão e por mioglobinúria nas queimaduras profundas ou elétricas), edema pulmonar (por lesão inalatória ou pela reposição volêmica) e lesão visceral, sobretudo na queimadura elétrica. Por isso a reposição é guiada pela diurese horária. Doenças crônicas como cirrose ou insuficiência renal crônica não são consequência direta.",
+  "porAlt": [
+   "Errada: pneumonia é complicação possível, mas colite não figura entre as principais do queimado.",
+   "Errada: insuficiência renal crônica e colecistite não são complicações agudas típicas da queimadura.",
+   "Errada: cirrose hepática é doença crônica sem relação causal com a queimadura.",
+   "Correta: lesão visceral, insuficiência renal aguda e edema pulmonar são complicações clínicas do grande queimado."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A escala de performance status conhecida como Karnofsky foi desenvolvida para pacientes oncológicos com o objetivo de documentar o declínio clínico e de avaliar a capacidade dos pacientes em realizar determinadas atividades básicas. A maioria dos pacientes com uma escala Karnofsky inferior a 70% tem indicação precoce de assistência de cuidado:",
+  "alts": [
+   "eletivo",
+   "urgente",
+   "paliativo",
+   "emergencial"
+  ],
+  "gab": 2,
+  "tema": "idoso",
+  "sub": "Cuidados paliativos",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Manual de Cuidados Paliativos ANCP, 2ª ed. (2012); Portaria GM/MS 3.681/2024",
+  "coment": "A escala de Karnofsky vai de 100% (normal, sem queixas) a 0% (morte) em degraus de 10. Abaixo de 70% o paciente já não consegue manter atividade normal nem trabalhar, e o declínio funcional sinaliza doença avançada; a literatura de cuidados paliativos usa esse corte como indicação precoce de abordagem paliativa, ao lado do tratamento da doença. A Política Nacional de Cuidados Paliativos, da Portaria GM/MS 3.681/2024, prevê esse cuidado desde o diagnóstico de doença ameaçadora da vida.",
+  "porAlt": [
+   "Errada: cuidado eletivo não é categoria associada à escala de Karnofsky.",
+   "Errada: urgência descreve gravidade aguda, não o declínio funcional medido pela escala.",
+   "Correta: Karnofsky abaixo de 70% indica abordagem paliativa precoce.",
+   "Errada: cuidado emergencial se refere a risco iminente de morte, não ao desempenho funcional."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Covid-19 é uma infecção respiratória aguda causada pelo vírus SARS-CoV-2, que pode evoluir com diversas síndromes clínicas associada à infecção viral. Uma complicação grave que compromete a oxigenação, em pacientes adultos, quando ocorre uma relação PaO2/FiO2 ≤ 100 mmHg (com PEEP ≥ 5 cm H2O, ou não ventilado), é chamada de:",
+  "alts": [
+   "síndrome da angústia respiratória aguda (SARA)",
+   "insuficiência cardíaca congestiva global (ICC)",
+   "trombocitopenia induzida por heparina (HIT)",
+   "doença pulmonar obstrutiva crônica (DPOC)"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Doenças respiratórias",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Definição de Berlim da SDRA (ARDS Definition Task Force, JAMA, 2012)",
+  "coment": "Pela definição de Berlim, a síndrome do desconforto (angústia) respiratória aguda é classificada pela relação PaO2/FiO2 com PEEP de pelo menos 5 cmH2O: leve de 200 a 300, moderada de 100 a 200 e grave com 100 ou menos. O enunciado descreve, portanto, a SARA grave, complicação frequente da covid-19 crítica. A menção a paciente não ventilado vem da orientação da OMS para a covid e das definições mais recentes, que aceitam paciente em alto fluxo. As outras opções não se definem por PaO2/FiO2.",
+  "porAlt": [
+   "Correta: PaO2/FiO2 de 100 mmHg ou menos com PEEP de pelo menos 5 cmH2O define a SARA grave.",
+   "Errada: insuficiência cardíaca congestiva é diagnóstico clínico e ecocardiográfico, não pela relação PaO2/FiO2.",
+   "Errada: trombocitopenia induzida por heparina é queda de plaquetas mediada por anticorpo.",
+   "Errada: DPOC é doença crônica definida por espirometria, não complicação aguda da covid-19."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A incidência de lesão por pressão (LPP) nos pacientes críticos, internados na Unidade de Terapia Intensiva (UTI), depende das características e das condições clínicas. Ao longo dos anos, escalas como Norton, Waterlow e Braden foram criadas para auxiliar o enfermeiro na identificação do risco de LPP, contudo, uma escala adequada para a avaliação nos pacientes críticos é a:",
+  "alts": [
+   "Norton",
+   "Braden",
+   "Evaruci",
+   "CAM - ICU"
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Nota Técnica GVIMS/GGTES/ANVISA nº 05/2023",
+  "coment": "A Nota Técnica GVIMS/GGTES/ANVISA nº 05/2023 pede avaliação de risco de lesão por pressão com escala validada em todo paciente admitido, reavaliada diariamente. A Braden é a mais usada no adulto, mas para populações especiais a nota indica a Braden Q na pediatria, a ELPO no centro cirúrgico e a Evaruci na terapia intensiva. A Evaruci foi construída e validada no Brasil para o paciente crítico e incorpora variáveis próprias da UTI, como estado hemodinâmico e respiratório. A CAM-ICU avalia delirium, não risco de lesão.",
+  "porAlt": [
+   "Errada: a Norton foi criada para idosos e não é a escala indicada especificamente para o paciente crítico.",
+   "Errada: a Braden é a mais usada no adulto em geral, mas a nota técnica indica outra para a UTI.",
+   "Correta: a Evaruci é a escala indicada para avaliar o risco de lesão por pressão em terapia intensiva.",
+   "Errada: a CAM-ICU é instrumento de rastreio de delirium, não de risco de lesão por pressão."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sabe-se que o coração, em um adulto jovem saudável e em repouso, ejeta, por minuto, aproximadamente, 5 litros de sangue através de cada câmara ventricular. O aumento da força de contração que ocorre quando há um aumento do retorno venoso (pré-carga) é chamado de efeito:",
+  "alts": [
+   "Anrep",
+   "Bowdich",
+   "Purkinje",
+   "Frank - Starling"
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Monitorização hemodinâmica",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Guyton e Hall, Tratado de Fisiologia Médica, 14ª ed. (2021)",
+  "coment": "O mecanismo de Frank-Starling diz que, dentro de limites fisiológicos, quanto mais o ventrículo é distendido pelo sangue que chega na diástole (pré-carga), maior a força de contração e o volume ejetado. É a base do raciocínio da prova de volume na UTI: se o paciente está na parte ascendente da curva, a infusão de fluido aumenta o débito; na parte plana, só congestiona. Os efeitos Anrep e Bowditch são mecanismos homeométricos ligados à pós-carga e à frequência, e Purkinje é parte do sistema de condução.",
+  "porAlt": [
+   "Errada: o efeito Anrep é o aumento da contratilidade diante de aumento súbito da pós-carga.",
+   "Errada: o efeito Bowditch é o aumento da força de contração com o aumento da frequência cardíaca.",
+   "Errada: Purkinje nomeia as fibras do sistema de condução ventricular, não um efeito sobre a força de contração.",
+   "Correta: o aumento da força de contração com o aumento da pré-carga é o mecanismo de Frank-Starling."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Política Nacional de Atenção Básica (PNAB), a Atenção Básica será ofertada integralmente e gratuitamente a todas as pessoas, considerando as suas necessidades, as demandas do território e os determinantes e condicionantes de saúde. Um princípio dessa Política a ser operacionalizado na Atenção Básica é:",
+  "alts": [
+   "a Integralidade",
+   "a Resolutividade",
+   "o Cuidado Centrado na Pessoa",
+   "a Longitudinalidade do Cuidado"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo, art. 3º",
+  "coment": "A PNAB de 2017 separa princípios de diretrizes. Os princípios são três: universalidade, equidade e integralidade. As diretrizes são regionalização e hierarquização, territorialização e adstrição, população adscrita, cuidado centrado na pessoa, resolutividade, longitudinalidade do cuidado, coordenação do cuidado, ordenação da rede e participação da comunidade. A banca pôs três diretrizes como distratoras. A PNAB segue vigente, consolidada na PRC 2/2017, com revisão anunciada pelo Ministério da Saúde.",
+  "porAlt": [
+   "Correta: integralidade é um dos três princípios da PNAB, ao lado de universalidade e equidade.",
+   "Errada: resolutividade é diretriz da Atenção Básica na PNAB, não princípio.",
+   "Errada: cuidado centrado na pessoa é diretriz da PNAB, não princípio.",
+   "Errada: longitudinalidade do cuidado é diretriz da PNAB, não princípio."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os tipos de Diabetes Melittus mais frequentes são: do tipo 1, que compreende cerca de 10% do total de casos; e do tipo 2, que compreende cerca de 90% do total de casos. Testes de rastreamento são indicados em indivíduos assintomáticos que apresentam maior risco à doença. São alguns fatores indicativos de maior risco:",
+  "alts": [
+   "obesidade central (cintura abdominal >110 cm para homens e >90 cm para mulheres, medida na altura das cristas ilíacas) e sobrepeso (Índice de Massa Corporal IMC >35)",
+   "obesidade central (cintura abdominal >102 cm para homens e >88 cm para mulheres, medida na altura das cristas ilíacas) e sobrepeso (Índice de Massa Corporal IMC >25)",
+   "obesidade central (cintura abdominal >130 cm para homens e >92 cm para mulheres, medida na altura das cristas ilíacas) e hipertensão arterial (> 160/90 mmHg)",
+   "obesidade central (cintura abdominal >120 cm para homens e >90 cm para mulheres, medida na altura da sínfise púbica) e hipertensão arterial (> 180/90 mmHg)"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 16, Diabetes Mellitus (MS, 2006)",
+  "coment": "O Caderno de Atenção Básica nº 16, de onde vem o enunciado, lista como fatores de maior risco para diabetes: idade acima de 45 anos, sobrepeso (IMC acima de 25), obesidade central (cintura acima de 102 cm no homem e de 88 cm na mulher, medida na altura das cristas ilíacas), história familiar, hipertensão acima de 140/90 mmHg, dislipidemia, diabetes gestacional ou macrossomia prévia, síndrome dos ovários policísticos e doença cardiovascular. As distratoras alteram os cortes de cintura, de IMC e de pressão. O excesso de peso segue como critério de rastreamento nas diretrizes posteriores.",
+  "porAlt": [
+   "Errada: os cortes de cintura são 102 e 88 cm, e IMC acima de 35 já é obesidade grau II, não sobrepeso.",
+   "Correta: cintura acima de 102 cm no homem e 88 cm na mulher e IMC acima de 25 são os critérios do caderno.",
+   "Errada: os cortes de cintura estão inflados e o critério de hipertensão é 140/90 mmHg, não 160/90.",
+   "Errada: a cintura se mede na altura das cristas ilíacas, não da sínfise púbica, e a pressão de corte é 140/90 mmHg."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A classificação do HIV é feita por meio da análise filogenética de sequências nucleotídicas dos vírus. A classificação atual é hierárquica e consiste em tipos, grupos, subtipos e formas recombinantes. O HIV-1 e o HIV-2 são tipos distintos do vírus, mais distantes filogeneticamente. O HIV-1 é subdividido em quatro grupos chamados:",
+  "alts": [
+   "AG, CG, UG e JG",
+   "JX, PG, WY e JU",
+   "WR, CG, VG e LG",
+   "MG, NG, OG e PG"
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "HIV e aids",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Manual Técnico para o Diagnóstico da Infecção pelo HIV em Adultos e Crianças, 4ª ed. (MS, 2018)",
+  "coment": "O HIV-1 divide-se em quatro grupos: M (major, responsável pela pandemia e subdividido em subtipos e formas recombinantes), N (non-M, non-O), O (outlier) e P. O HIV-2, mais próximo do vírus dos símios, é menos transmissível e restrito sobretudo à África Ocidental. O caderno grafou os grupos como \"MG, NG, OG e PG\", erro de impressão mantido aqui; a alternativa correta é a única com as letras M, N, O e P. A classificação importa porque testes diagnósticos precisam detectar todos os grupos e o HIV-2.",
+  "porAlt": [
+   "Errada: A, C e U não são grupos do HIV-1; letras como A e C nomeiam subtipos do grupo M.",
+   "Errada: J, P, W e Y não formam a classificação de grupos do HIV-1.",
+   "Errada: W, C, V e L não são grupos do HIV-1.",
+   "Correta: com o erro de grafia do caderno, são os grupos M, N, O e P do HIV-1."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Dourados-MS 2023, Enfermeiro",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Declaração de Alma-Ata (1978) é um marco histórico no contexto da Atenção Primária à Saúde (APS), e estabeleceu diretrizes para a organização dos sistemas de saúde em nível global. Com base em seus princípios e na definição de APS, seus fundamentos e objetivos consistem em:",
+  "alts": [
+   "propor que a Atenção Primária à Saúde seja voltada apenas para ações de promoção de saúde, sendo desnecessária a integração com os serviços de saúde secundária ou terciária, com foco exclusivo em educação em saúde",
+   "enfatizar que a Atenção Primária à Saúde deve ser baseada em serviços curativos para doenças infecciosas, com a exclusão da participação social na gestão da saúde, visando a apenas a prestação de assistência médica pela rede hospitalar",
+   "estabelecer que a Atenção Primária à Saúde deve ser a porta de entrada principal do sistema de saúde, com ênfase na promoção da saúde, prevenção de doenças, tratamento adequado e no fortalecimento da participação comunitária, assegurando acesso universal e equitativo",
+   "propor que a Atenção Primária à Saúde deve ser exclusivamente voltada para tratamento de doenças agudas e urgências, com foco em serviços de alta complexidade hospitalar, sem a necessidade de integração com outras esferas do cuidado ou com a comunidade"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Declaração de Alma-Ata (Conferência Internacional sobre Cuidados Primários de Saúde, 1978)",
+  "coment": "A Declaração de Alma-Ata define os cuidados primários como cuidados essenciais, acessíveis a todos, com participação da comunidade, e os coloca como o primeiro nível de contato das pessoas com o sistema, levando a atenção o mais perto possível de onde vivem e trabalham. Eles incluem educação em saúde, nutrição, saneamento, saúde materno-infantil, imunização, controle de endemias e tratamento das doenças comuns, integrados ao restante do sistema. A meta era \"Saúde para todos no ano 2000\". As distratoras isolam um único tipo de ação ou excluem a comunidade.",
+  "porAlt": [
+   "Errada: Alma-Ata não restringe a APS à promoção e prevê integração com os demais níveis do sistema.",
+   "Errada: a declaração valoriza a participação comunitária e não reduz a APS a cuidado curativo hospitalar.",
+   "Correta: APS como primeiro contato, com promoção, prevenção, tratamento e participação comunitária, de acesso universal.",
+   "Errada: a APS não é voltada à alta complexidade hospitalar e depende da integração com a comunidade e a rede."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 12,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O conceito de territorialização é fundamental para a organização e a prestação dos serviços de saúde, visando a garantir a efetividade e a equidade no atendimento à população. Considerando as diretrizes da Lei nº 8.080/1990 e na Política Nacional de Atenção Básica (PNAB), a principal finalidade da territorialização no SUS é:",
+  "alts": [
+   "organizar a oferta de serviços de saúde em áreas geograficamente delimitadas, considerando as especificidades sociais, culturais e econômicas de cada território, com o objetivo de aumentar a eficiência do sistema, priorizando a descentralização da gestão e o atendimento da população",
+   "garantir o acesso universal e igualitário aos serviços de saúde, sem levar em consideração as características geográficas e as desigualdades regionais, buscando uma distribuição uniforme de recursos e de serviços de saúde em todo o território nacional",
+   "estabelecer a centralização da gestão da saúde na esfera federal, criando unidades de atendimento em grandes centros urbanos, sem necessidade de considerar as particularidades dos territórios ou as condições locais de saúde",
+   "promover a segregação entre diferentes regiões do país, criando barreiras geográficas e sociais que limitam o acesso das populações mais vulneráveis aos serviços de saúde, com o objetivo de otimizar o uso dos recursos financeiros disponíveis"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), diretriz Territorialização e Adstrição; Lei 8.080/1990, art. 7º",
+  "coment": "Na PNAB, territorialização e adstrição é diretriz: a equipe trabalha num território delimitado, conhece sua população adscrita e planeja as ações a partir das condições sociais, culturais, econômicas e sanitárias daquele lugar. Isso conversa com os princípios do art. 7º da Lei 8.080/1990, em especial a descentralização político-administrativa e a regionalização e hierarquização da rede. Territorializar não é ignorar as diferenças locais nem centralizar a gestão; é usar o território para dar equidade e efetividade ao cuidado.",
+  "porAlt": [
+   "Correta: organizar a oferta em áreas delimitadas, considerando as especificidades do território, com gestão descentralizada.",
+   "Errada: territorializar é justamente considerar as características e desigualdades locais, não ignorá-las.",
+   "Errada: a Lei 8.080/1990 prevê descentralização, não centralização federal da gestão.",
+   "Errada: o território serve para ampliar o acesso com equidade, não para criar barreiras às populações vulneráveis."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 13,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Em um município de médio porte, a Unidade Básica de Saúde (UBS) está enfrentando um aumento significativo na demanda espontânea de pacientes. Muitos deles buscam atendimento devido a problemas de saúde de menor complexidade, como hipertensão não controlada, gripe comum e dúvidas sobre alimentação saudável. No entanto, devido à alta demanda, o atendimento tem se tornado mais lento e os profissionais de saúde estão sobrecarregados. Diante desse cenário, a estratégia mais adequada para a gestão dessa demanda, respeitando os princípios do Sistema Único de Saúde (SUS) e garantindo a continuidade da Atenção Primária à Saúde, é:",
+  "alts": [
+   "a UBS deve priorizar o atendimento a casos urgentes e graves, como infartos e acidente vascular cerebral (AVC), encaminhando a maioria dos casos de hipertensão e gripe para os serviços especializados, uma vez que a Atenção Primária à Saúde não tem capacidade para resolver essas situações de forma eficaz",
+   "a UBS deve interromper o atendimento à demanda espontânea e priorizar o agendamento de consultas, com foco na gestão de casos de alta complexidade, para evitar que os profissionais de saúde da Atenção Primária à Saúde sejam sobrecarregados",
+   "a demanda espontânea pode ser atendida de maneira imediata, mas a UBS deve criar uma triagem rígida para separar os casos de menor complexidade (como gripe e hipertensão) daqueles que exigem maior complexidade, encaminhando todos os casos de doenças crônicas diretamente para o serviço de urgência e emergência",
+   "a UBS deve garantir o acolhimento imediato de todos os pacientes, com a priorização da resolução de problemas de saúde de menor complexidade, utilizando estratégias de triagem e de acolhimento para organização da demanda e encaminhando, quando necessário, para a atenção especializada ou outros serviços de maior complexidade, de acordo com o protocolo do SUS"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 28, v. 1, Acolhimento à demanda espontânea (MS, 2013)",
+  "coment": "O Caderno de Atenção Básica nº 28 orienta que a UBS acolha toda pessoa que chega, escute sua necessidade, avalie risco e vulnerabilidade e dê a resposta adequada: atendimento no dia, agendamento ou encaminhamento. Hipertensão descompensada, síndrome gripal e orientação alimentar são problemas que a Atenção Básica deve resolver, e encaminhar à rede é exceção, conforme protocolos. A palavra \"triagem\" no gabarito é a da banca; o Ministério prefere falar em acolhimento com classificação ou avaliação de risco, que inclui e não exclui.",
+  "porAlt": [
+   "Errada: hipertensão e gripe são problemas que a APS resolve; mandar a maioria ao especialista fere a resolutividade.",
+   "Errada: suspender a demanda espontânea viola o acesso; a APS deve acolher demanda programada e espontânea.",
+   "Errada: doença crônica não vai rotineiramente para a urgência, e triagem rígida contraria o acolhimento.",
+   "Correta: acolher todos, resolver o que é de menor complexidade e encaminhar quando necessário, com avaliação de risco."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 14,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A transição do que se entende enquanto história natural da doença pode ser ilustrada pela relação entre a teoria miasmática e os determinantes sociais de saúde. Considerando as transformações nas abordagens de saúde pública e o avanço do conhecimento sobre os determinantes sociais de saúde, a relação entre esses dois conceitos e suas implicações para a organização da saúde no contexto contemporâneo é:",
+  "alts": [
+   "a teoria miasmática e os determinantes sociais de saúde compartilham uma visão comum de que as doenças são causadas por fatores individuais e biológicos, com ênfase na intervenção terapêutica e na cura, sem considerar a importância das condições sociais e políticas na saúde da população",
+   "a teoria miasmática reconhecia a importância de fatores sociais e ambientais, porém limitava-se a não abordar aspectos estruturais como as desigualdades socioeconômicas, enquanto os determinantes sociais de saúde o fazem, reconhecendo que as condições de saúde de um indivíduo estão intimamente ligadas às condições sociais, políticas e econômicas em que ele vive",
+   "a teoria miasmática focava na explicação das doenças por meio de miasmas e condições ambientais, vinculando-as às condições de higiene e de saneamento, mas desconsiderando fatores estruturais e sociais como a desigualdade econômica, que, segundo os determinantes sociais, têm um papel crucial nas condições de saúde da população",
+   "a teoria miasmática e os determinantes sociais de saúde são conceitos inconciliáveis, uma vez que a primeira adota uma visão essencialmente biológica das doenças e a segunda enfatiza a universalidade do acesso à saúde, desconsiderando qualquer tipo de interdependência entre os aspectos biológicos e sociais na prevenção e na promoção da saúde"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 3º; relatório da Comissão Nacional sobre Determinantes Sociais da Saúde (CNDSS, 2008)",
+  "coment": "A teoria miasmática atribuía as doenças a emanações do ar e do ambiente insalubre e, por isso, fundamentou o movimento sanitarista do século XIX, que já associava doença à pobreza, à moradia aglomerada e à falta de saneamento. Faltava-lhe o olhar estrutural. O modelo dos determinantes sociais, adotado pela CNDSS em 2008 e coerente com o art. 3º da Lei 8.080/1990, liga a saúde às condições sociais, políticas e econômicas e às desigualdades. A alternativa C também é próxima, mas a banca considerou que a teoria miasmática não desconsiderava os fatores sociais.",
+  "porAlt": [
+   "Errada: nenhum dos dois conceitos reduz a doença a fatores individuais e biológicos.",
+   "Correta: a teoria miasmática via fatores sociais e ambientais, mas não as desigualdades estruturais, que os determinantes sociais abordam.",
+   "Errada pela banca: afirma que a teoria miasmática desconsiderava fatores sociais, quando ela os associava à doença.",
+   "Errada: os conceitos não são inconciliáveis, e os determinantes sociais não desconsideram a interação entre biológico e social."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 15,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Resolução da Diretoria Colegiada (RDC) nº 36, de 25 de julho de 2013, estabelece um conjunto de diretrizes para promover a segurança do paciente no Brasil, com foco na redução de riscos associados à assistência em serviços de saúde. Sobre as exigências dessa resolução, está:",
+  "alts": [
+   "estabelecer um sistema único de regulação de leitos hospitalares, priorizando as unidades de referência em casos de urgência e emergência",
+   "implementar estratégias de educação permanente para a equipe de saúde, com ênfase na gestão de risco e na redução de danos durante o atendimento ao paciente",
+   "criar de um modelo centralizado de gestão dos prontuários eletrônicos, com a obrigatoriedade de seu uso em todos os hospitais públicos, com foco apenas em registros clínicos",
+   "adotar protocolos clínicos para tratamento de doenças infecciosas, sem considerar a gestão de riscos e a segurança no processo assistencial"
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, arts. 7º e 8º",
+  "coment": "A RDC 36/2013 obriga os serviços de saúde a constituir o Núcleo de Segurança do Paciente e a elaborar o Plano de Segurança do Paciente. Entre as competências do núcleo (art. 7º) está desenvolver, implantar e acompanhar programas de capacitação em segurança do paciente e qualidade, e o plano (art. 8º) organiza a gestão de risco, os protocolos e a notificação de eventos adversos. Educação permanente com foco em gestão de risco é, portanto, exigência da norma. Regulação de leitos e prontuário eletrônico não são objeto da resolução.",
+  "porAlt": [
+   "Errada: regulação de leitos não é tema da RDC 36/2013, que trata de segurança do paciente.",
+   "Correta: a RDC 36/2013 exige capacitação da equipe em segurança do paciente e gestão de risco.",
+   "Errada: a resolução não cria modelo centralizado nem obriga o prontuário eletrônico.",
+   "Errada: a norma exige justamente gestão de risco e segurança no processo assistencial."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 18,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Política Nacional de Humanização (PNH), instituída pelo Ministério da Saúde, tem como um dos seus objetivos centrais a promoção de uma assistência de saúde mais acolhedora, resolutiva e centrada no usuário, no contexto do Sistema Único de Saúde (SUS). Em consonância com os indicadores de saúde, que são ferramentas essenciais para monitorar a efetividade e a qualidade das ações em saúde, a PNH orienta práticas que não se limitam à avaliação de resultados clínicos, mas também incorporam aspectos subjetivos da experiência do paciente. Nesse contexto, a inter-relação entre a PNH e os indicadores de saúde é:",
+  "alts": [
+   "a PNH se concentra exclusivamente na adequação dos processos internos de gestão das unidades de saúde, e os indicadores de saúde são utilizados apenas para medir a quantidade de atendimentos realizados, sem considerar a qualidade do acolhimento ou a experiência do paciente",
+   "a PNH busca a redução de custos no SUS, utilizando indicadores de saúde apenas para medir a quantidade de recursos financeiros empregados, sem avaliar a experiência do paciente ou a qualidade do atendimento nas unidades de saúde",
+   "a PNH prioriza o controle financeiro dos serviços de saúde, com o uso dos indicadores de saúde limitados à eficiência no uso de medicamentos e à quantidade de recursos empregados nas unidades de saúde, desconsiderando aspectos relativos ao cuidado integral do paciente",
+   "a PNH tem como foco a promoção de uma gestão participativa e acolhedora, utilizando os indicadores de saúde para monitorar não só a eficiência dos serviços prestados, mas também a satisfação e o bem-estar dos usuários, promovendo a qualidade do atendimento humanizado"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Política Nacional de Humanização, HumanizaSUS (MS, 2013)",
+  "coment": "A Política Nacional de Humanização, de 2003, tem como princípios a transversalidade, a indissociabilidade entre atenção e gestão e o protagonismo e a autonomia dos sujeitos, e como diretrizes o acolhimento, a gestão participativa e cogestão, a ambiência, a clínica ampliada, a valorização do trabalhador e a defesa dos direitos dos usuários. Indicadores, nessa lógica, medem também acolhimento, satisfação e experiência do usuário, e não só produção ou custo. As distratoras reduzem a PNH a controle financeiro ou de processos.",
+  "porAlt": [
+   "Errada: a PNH não se limita a processos internos, e seus indicadores incluem o acolhimento e a experiência do usuário.",
+   "Errada: reduzir custos não é o objetivo da PNH, que valoriza a qualidade do cuidado e a experiência do usuário.",
+   "Errada: a PNH não prioriza o controle financeiro nem desconsidera o cuidado integral.",
+   "Correta: gestão participativa e acolhedora, com indicadores que incluem satisfação e bem-estar dos usuários."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 19,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Resolução CNS nº 553/2017, que estabelece a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde, trata da importância do reconhecimento e da proteção dos direitos dos usuários do Sistema Único de Saúde, e da conscientização sobre os deveres que acompanham o uso dos serviços. Essa resolução visa a garantir a qualidade da assistência, a participação ativa do usuário no processo de cuidado e a promoção de uma saúde pública inclusiva e digna. Com base nos direitos e nos deveres do usuário da saúde, é correto afirmar que:",
+  "alts": [
+   "a Resolução CNS nº 553/2017 enfatiza unicamente os direitos dos usuários em relação ao atendimento médico, sem abordar aspectos relacionados à informação, ao acolhimento e à participação ativa do paciente no processo de cuidado",
+   "a resolução trata dos direitos dos usuários exclusivamente em relação ao acesso aos serviços de saúde de média e de alta complexidade, não abordando questões relativas ao respeito à privacidade e à humanização dos cuidados",
+   "a Resolução CNS nº 553/2017 assegura que os usuários têm direito ao respeito, à dignidade, ao acolhimento adequado, à informação clara sobre os serviços de saúde e ao direito de participação ativa nas decisões sobre seu tratamento, sem esquecer dos seus deveres no uso responsável dos serviços",
+   "a resolução foca apenas nos deveres dos usuários de respeitar os profissionais de saúde e manter um bom relacionamento com a equipe de saúde, sem mencionar os direitos relacionados ao acesso a serviços universais, igualitários e de qualidade"
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CNS 553/2017 (Carta dos Direitos e Deveres da Pessoa Usuária da Saúde)",
+  "coment": "A Resolução CNS 553/2017 aprova a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde. Ela garante acesso ordenado e em tempo hábil, tratamento adequado, atendimento humanizado, acolhedor e sem discriminação, informação clara sobre o estado de saúde e os serviços, privacidade e participação nas decisões sobre o próprio cuidado, inclusive o consentimento ou a recusa. Traz também deveres, como respeitar profissionais, usuários e normas do serviço. As distratoras cortam um dos lados da carta.",
+  "porAlt": [
+   "Errada: a carta trata expressamente de informação, acolhimento e participação do usuário no cuidado.",
+   "Errada: os direitos valem em todos os níveis de atenção e incluem privacidade e atendimento humanizado.",
+   "Correta: respeito, dignidade, acolhimento, informação clara e participação nas decisões, junto com os deveres.",
+   "Errada: a carta não trata só de deveres; a maior parte dela garante direitos de acesso e qualidade."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 20,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Sistematização da Assistência de Enfermagem (SAE) é regulamentada por normativas que orientam a atuação do profissional enfermeiro no planejamento e na execução do cuidado. Considerando os fundamentos legais da SAE e a prática assistencial segura, o principal documento que sustenta legalmente essa prática, bem como suas implicações ético-profissionais, é:",
+  "alts": [
+   "Lei nº 7.498/1986, que regulamenta o exercício da enfermagem, enfatizando que o planejamento e a implementação da assistência são de responsabilidade exclusiva do técnico de enfermagem, liberando o enfermeiro para atividades administrativas",
+   "Resolução Cofen nº 358/2009, que define a SAE como obrigatória em instituições públicas e privadas e orienta que o Processo de Enfermagem deve privilegiar a autonomia do enfermeiro no diagnóstico e no planejamento do cuidado",
+   "Código de Ética dos Profissionais de Enfermagem, que solicita a implementação da SAE como responsabilidade moral dos enfermeiros, porém não impõe nenhuma exigência ou regulamentação sobre os aspectos técnicos da assistência",
+   "Resolução Cofen nº 564/2017, que detalha os princípios éticos da profissão e regula diretamente a atuação da equipe de enfermagem no gerenciamento de conflitos no ambiente hospitalar sem priorizar a SAE"
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024 (revogou a Res. COFEN 358/2009); Lei 7.498/1986, art. 11",
+  "coment": "A chave cita a Res. COFEN 358/2009, que a Res. COFEN 736/2024 revogou expressamente em janeiro de 2024. O conteúdo da alternativa continua certo: hoje a 736/2024 exige o Processo de Enfermagem em todo contexto em que ocorre o cuidado de enfermagem, público ou privado, e reserva ao enfermeiro o diagnóstico e a prescrição de enfermagem. A base legal de fundo é a Lei 7.498/1986, art. 11, que dá ao enfermeiro o planejamento, a organização e a execução da assistência. Numa prova atual, a resposta seria a 736/2024.",
+  "porAlt": [
+   "Errada: a Lei 7.498/1986 dá ao enfermeiro, não ao técnico, o planejamento e a avaliação da assistência.",
+   "Correta: era a norma da SAE na data da prova; hoje o mesmo conteúdo está na Res. COFEN 736/2024.",
+   "Errada: o Código de Ética não é o documento que regulamenta a SAE e o Processo de Enfermagem.",
+   "Errada: a Res. COFEN 564/2017 é o Código de Ética e não trata de gerenciamento de conflitos sem a SAE."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em um hospital de alta complexidade, a profilaxia de infecções do sítio cirúrgico demanda a adesão irrestrita a protocolos bem definidos. Das seguintes medidas profiláticas, a que se configura como a mais proeminente para a redução da incidência dessas infecções está na alternativa:",
+  "alts": [
+   "administração seletiva de antibióticos de amplo espectro no pré-operatório imediato",
+   "tricotomia capilar com lâmina de barbear em todas as áreas a serem incisadas",
+   "antissepsia das mãos da equipe cirúrgica, com técnica padronizada e solução alcoólica",
+   "utilização de vestimentas cirúrgicas reutilizáveis, previamente esterilizadas em autoclave"
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4 (ANVISA, 2017)",
+  "coment": "O caderno de prevenção de IRAS da ANVISA inclui, entre as medidas contra infecção de sítio cirúrgico, a antissepsia cirúrgica das mãos e antebraços da equipe com técnica padronizada, com degermante ou com preparação alcoólica própria, antes de cada cirurgia. As distratoras têm erro embutido: antibioprofilaxia é com cefalosporina de primeira geração, em geral até 60 minutos antes da incisão, e não com amplo espectro; tricotomia não é rotina e, se necessária, é feita com tricotomizador elétrico, nunca com lâmina.",
+  "porAlt": [
+   "Errada: a profilaxia usa antibiótico de espectro estreito, como a cefazolina, e não amplo espectro.",
+   "Errada: a lâmina causa microlesões e aumenta a infecção; a tricotomia não é rotina e usa tricotomizador elétrico.",
+   "Correta: a antissepsia cirúrgica das mãos com técnica padronizada é medida central de prevenção da infecção de sítio cirúrgico.",
+   "Errada: vestimenta reutilizável esterilizada não é a medida de maior impacto apontada pelos protocolos."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A resistência bacteriana aos antimicrobianos representa um grave problema de saúde pública. Das seguintes estratégias, a que se mostra mais relevante para o uso racional de antibióticos em ambientes hospitalares é a:",
+  "alts": [
+   "prescrição de antibióticos de amplo espectro em todas as infecções suspeitas",
+   "utilização de antibióticos de última geração em todas as infecções",
+   "realização de culturas e testes de sensibilidade aos antibióticos antes do início da terapia",
+   "administração profilática de antibióticos em todos os pacientes internados"
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretriz Nacional para Elaboração de Programa de Gerenciamento do Uso de Antimicrobianos em Serviços de Saúde (ANVISA, 2017)",
+  "coment": "O uso racional de antimicrobianos, base dos programas de gerenciamento da ANVISA, depende de diagnóstico microbiológico: colher culturas antes da primeira dose permite identificar o agente, conhecer a sensibilidade e depois descalonar para o espectro mais estreito possível, pelo menor tempo eficaz. A coleta não pode atrasar o antibiótico na sepse, mas deve vir antes dele. Prescrever amplo espectro ou última geração para todos e fazer profilaxia universal aceleram a resistência.",
+  "porAlt": [
+   "Errada: amplo espectro para toda suspeita seleciona bactérias resistentes e contraria o uso racional.",
+   "Errada: antibiótico de última geração deve ser reservado, não usado em toda infecção.",
+   "Correta: culturas e testes de sensibilidade antes da terapia orientam o descalonamento e o uso racional.",
+   "Errada: profilaxia em todos os internados não tem indicação e aumenta a resistência."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Refletir sobre o processo de enfermagem exige compreender de que maneira as etapas se conectam para fornecer um cuidado sistemático e planejado. Há uma etapa desse processo que é responsável por indicar as intervenções a serem realizadas frente aos diagnósticos estabelecidos. Estamos falando da(do):",
+  "alts": [
+   "coleta de dados",
+   "planejamento",
+   "implementação",
+   "avaliação"
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024",
+  "coment": "Na Res. COFEN 736/2024, o Planejamento de Enfermagem compreende a priorização dos diagnósticos, a definição dos resultados esperados e a prescrição das intervenções e ações; é a etapa que indica o que fazer diante dos diagnósticos. A implementação é a execução do que foi prescrito, e a avaliação mede o efeito. Atenção à nomenclatura nova: a primeira etapa, antes chamada coleta de dados ou histórico, hoje se chama Avaliação de Enfermagem, e a última passou a ser Evolução de Enfermagem.",
+  "porAlt": [
+   "Errada: a coleta de dados, hoje Avaliação de Enfermagem, reúne informações e não prescreve intervenções.",
+   "Correta: o planejamento prioriza diagnósticos, define resultados e prescreve as intervenções.",
+   "Errada: a implementação executa as intervenções já prescritas, não as define.",
+   "Errada: a avaliação final, hoje Evolução de Enfermagem, verifica os resultados alcançados."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O processo de enfermagem, enquanto instrumento norteador da prática assistencial, organiza-se em cinco etapas interdependentes que garantem a integralidade do cuidado prestado ao indivíduo. Sobre esse instrumento, pode-se afirmar corretamente que:",
+  "alts": [
+   "a etapa de planejamento consiste na identificação dos problemas de saúde baseados nos dados coletados",
+   "o diagnóstico de enfermagem é dispensável quando se conhece previamente o histórico do paciente",
+   "a avaliação finaliza o processo sem necessidade de revisão das intervenções já executadas",
+   "a coleta de dados permite reunir informações objetivas e subjetivas que subsidiarão as etapas seguintes"
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024",
+  "coment": "O Processo de Enfermagem tem cinco etapas inter-relacionadas e recorrentes. A primeira, que a banca chama de coleta de dados e a Res. COFEN 736/2024 chama de Avaliação de Enfermagem, reúne dados subjetivos (o que a pessoa relata) e objetivos (exame físico, sinais vitais, exames) que sustentam diagnóstico, planejamento, implementação e evolução. O diagnóstico é privativo do enfermeiro e não se dispensa, e a etapa final retroalimenta o processo, revendo as intervenções.",
+  "porAlt": [
+   "Errada: identificar problemas a partir dos dados é o diagnóstico de enfermagem, não o planejamento.",
+   "Errada: o diagnóstico é etapa obrigatória e privativa do enfermeiro, mesmo com histórico conhecido.",
+   "Errada: a avaliação final revisa o plano e reinicia o ciclo; não encerra sem revisão.",
+   "Correta: a coleta de dados reúne informações objetivas e subjetivas que sustentam as etapas seguintes."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O fator Rh é uma característica adicional do sangue, definido pela presença ou ausência do antígeno D na membrana das hemácias. Diante disso, é correto afirmar que:",
+  "alts": [
+   "indivíduos Rh negativo não possuem o antígeno D e podem desenvolver anticorpos anti-D quando expostos ao sangue Rh positivo",
+   "indivíduos com fator Rh negativo apresentam o antígeno D circulando no plasma, mas não possuem o mesmo nas hemácias",
+   "a presença do fator Rh positivo garante que o indivíduo possa doar sangue para receptores Rh negativo sem risco de reação",
+   "o fator Rh não apresenta implicações clínicas relevantes no contexto de transfusões ou na gravidez"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guia para uso de hemocomponentes, 2ª ed. (MS, 2015); Portaria de Consolidação nº 5/2017, Anexo IV",
+  "coment": "O fator Rh é definido pelo antígeno D na membrana da hemácia. Quem não o tem é Rh negativo e não nasce com anti-D; o anticorpo surge por aloimunização, depois de transfusão de hemácias Rh positivas ou de gestação com feto Rh positivo. Por isso o receptor Rh negativo recebe hemácias Rh negativas, e a gestante Rh negativa não sensibilizada recebe imunoglobulina anti-D para prevenir a doença hemolítica perinatal. O antígeno está na hemácia, não no plasma.",
+  "porAlt": [
+   "Correta: o Rh negativo não tem antígeno D e pode formar anti-D após exposição a sangue Rh positivo.",
+   "Errada: o antígeno D fica na membrana da hemácia, não circula no plasma.",
+   "Errada: hemácias Rh positivas podem sensibilizar o receptor Rh negativo, então não há doação sem risco.",
+   "Errada: o Rh tem grande importância em transfusão e na gravidez, pela aloimunização anti-D."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na tipagem sanguínea, a principal interação avaliada é a reação entre os antígenos das hemácias e os anticorpos presentes no soro sanguíneo. Logo, é correto afirmar que:",
+  "alts": [
+   "indivíduos do grupo sanguíneo AB possuem anticorpos anti-A e anti-B em seu plasma, o que os torna receptores restritos",
+   "o grupo sanguíneo B positivo é incompatível com qualquer unidade de sangue proveniente de um doador do grupo O negativo",
+   "o grupo sanguíneo O negativo é considerado universal para transfusões sanguíneas porque não possui antígenos A, B ou Rh em suas hemácias",
+   "a presença de anticorpos anti-D nos indivíduos Rh positivo facilita as transfusões vindas de doadores Rh negativo"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guia para uso de hemocomponentes, 2ª ed. (MS, 2015); Portaria de Consolidação nº 5/2017, Anexo IV",
+  "coment": "No sistema ABO, a hemácia carrega o antígeno e o plasma traz os anticorpos naturais contra o antígeno ausente. O grupo O não tem antígenos A nem B, e o O negativo também não tem o antígeno D; por isso seu concentrado de hemácias é chamado doador universal, usado na urgência antes da tipagem. Rigor técnico: vale para hemácias, porque o plasma do O tem anti-A e anti-B; no plasma, o doador universal é o AB. O grupo AB não tem anticorpos ABO e é receptor universal de hemácias.",
+  "porAlt": [
+   "Errada: o grupo AB não tem anti-A nem anti-B no plasma e é receptor universal de hemácias.",
+   "Errada: o B positivo pode receber hemácias O negativo, que não têm antígenos A, B nem D.",
+   "Correta: o O negativo não tem antígenos A, B nem D nas hemácias e é o doador universal de concentrado de hemácias.",
+   "Errada: indivíduo Rh positivo não forma anti-D, e anticorpo não facilitaria nenhuma transfusão."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A organização dos serviços de enfermagem em diferentes níveis de atenção à saúde é fundamental para garantir o cuidado integral, equitativo e eficiente à população. Sobre essa temática, é certo dizer que:",
+  "alts": [
+   "o cuidado primário concentra-se exclusivamente em intervenções curativas voltadas às emergências",
+   "os serviços de enfermagem em atenção primária buscam a promoção da saúde, prevenção de agravos e acompanhamento longitudinal",
+   "a enfermagem em atenção terciária não participa do gerenciamento das condições clínicas, atuando apenas na reabilitação",
+   "a organização dos serviços de enfermagem limita-se à execução de tarefas operacionais, sem envolvimento no planejamento estratégico"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), atribuições do enfermeiro",
+  "coment": "Na Atenção Primária, a enfermagem faz promoção da saúde, prevenção de agravos, consulta de enfermagem, acompanhamento de grupos e condições crônicas, vigilância e ações no território, o que materializa a diretriz de longitudinalidade da PNAB. Nos níveis secundário e terciário a enfermagem também gerencia o cuidado, coordena equipes e participa do planejamento, não só da reabilitação. As distratoras usam palavras absolutas (exclusivamente, apenas, limita-se), pista frequente de alternativa errada.",
+  "porAlt": [
+   "Errada: o cuidado primário não é exclusivamente curativo nem voltado a emergências.",
+   "Correta: a enfermagem na APS faz promoção, prevenção e acompanhamento longitudinal da população.",
+   "Errada: na atenção terciária a enfermagem gerencia condições clínicas e o cuidado, não só a reabilitação.",
+   "Errada: a organização dos serviços de enfermagem inclui planejamento estratégico, não só tarefas operacionais."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A liderança exercida nos serviços de enfermagem é essencial para promover a qualidade e garantir a continuidade do cuidado. Sobre o papel da enfermagem na organização das equipes, afirma-se corretamente que:",
+  "alts": [
+   "o enfermeiro atua como líder técnico, delegando atividades sem a necessidade de supervisão sistemática",
+   "a organização dos serviços reduz o papel do enfermeiro a ações operacionais, restringindo sua atuação no processo de planejamento",
+   "o trabalho em equipe em enfermagem ocorre exclusivamente em ambientes hospitalares, sem importância nos serviços comunitários",
+   "a liderança em enfermagem envolve o estímulo ao trabalho em equipe, a tomada de decisão compartilhada e a gestão eficaz dos conflitos"
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 7.498/1986, arts. 11 e 15",
+  "coment": "A Lei 7.498/1986 dá ao enfermeiro, no art. 11, a direção, a organização, o planejamento, a coordenação e a avaliação dos serviços de enfermagem, e o art. 15 diz que técnicos e auxiliares, em instituições de saúde, só exercem suas atividades sob orientação e supervisão do enfermeiro. Liderar, nesse contexto, é estimular o trabalho em equipe, compartilhar decisões, administrar conflitos e supervisionar o que se delega. Delegar sem supervisão contraria a própria lei, e a liderança vale também na atenção primária e na comunidade.",
+  "porAlt": [
+   "Errada: o art. 15 da Lei 7.498/1986 exige orientação e supervisão do enfermeiro sobre o que é delegado.",
+   "Errada: a lei atribui ao enfermeiro o planejamento e a organização dos serviços de enfermagem.",
+   "Errada: o trabalho em equipe é central também na atenção primária e nos serviços comunitários.",
+   "Correta: liderança inclui estimular o trabalho em equipe, decidir de forma compartilhada e gerir conflitos."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a infusão de hemoderivados, a identificação e a conduta frente a reações transfusionais são fundamentais para evitar desfechos adversos. Considerando os protocolos preconizados, é preciso afirmar que:",
+  "alts": [
+   "ao suspeitar de uma reação transfusional, a infusão deve ser imediatamente suspensa e a bolsa de sangue descartada",
+   "cefaleia, febre e prurido leve são indicações para continuar a transfusão, com monitoramento a cada 5 minutos",
+   "o sangue e o equipo utilizados na transfusão devem ser mantidos e enviados para análise laboratorial em casos de reações adversas",
+   "a principal conduta ao identificar uma reação transfusional é realizar um acesso venoso secundário para seguir com a transfusão"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria de Consolidação nº 5/2017, Anexo IV; Marco conceitual e operacional de hemovigilância (ANVISA, 2015)",
+  "coment": "Diante de suspeita de reação transfusional, a enfermagem interrompe a transfusão de imediato, mantém o acesso venoso com solução fisiológica, verifica sinais vitais, confere a identificação do paciente e da bolsa à beira do leito e comunica o médico e o serviço de hemoterapia. A bolsa e o equipo não são descartados: seguem para o serviço de hemoterapia, com amostras do paciente, para investigar incompatibilidade e contaminação. Depois, a reação é notificada à hemovigilância. Não se continua a transfusão diante de febre ou outro sinal novo.",
+  "porAlt": [
+   "Errada: a infusão é suspensa, mas a bolsa não é descartada; vai ao serviço de hemoterapia para investigação.",
+   "Errada: febre, cefaleia e prurido durante a transfusão exigem interrupção e avaliação, não continuidade.",
+   "Correta: bolsa e equipo são mantidos e enviados ao laboratório para investigar a reação.",
+   "Errada: não se segue com a transfusão por outro acesso; mantém-se o acesso com soro fisiológico e investiga-se."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O processo de enfermagem é uma metodologia científica que orienta o cuidado de enfermagem. A representação correta da sequência das etapas do processo de enfermagem consiste em:",
+  "alts": [
+   "avaliação, diagnóstico, planejamento, implementação, coleta de dados",
+   "coleta de dados, diagnóstico, planejamento, implementação, avaliação",
+   "planejamento, coleta de dados, diagnóstico, implementação, avaliação",
+   "diagnóstico, coleta de dados, planejamento, implementação, avaliação"
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024 (revogou a Res. COFEN 358/2009)",
+  "coment": "A sequência cobrada é a da Res. COFEN 358/2009: coleta de dados (histórico), diagnóstico, planejamento, implementação e avaliação. A Res. COFEN 736/2024 manteve as cinco etapas na mesma ordem, mas mudou dois nomes: a primeira passou a ser Avaliação de Enfermagem e a última Evolução de Enfermagem. Então, na nomenclatura atual, a ordem é avaliação, diagnóstico, planejamento, implementação e evolução. Cuidado com a alternativa A: começa por avaliação, mas termina com coleta de dados, o que não cabe em nenhuma das duas versões.",
+  "porAlt": [
+   "Errada: coleta de dados não pode ser a última etapa; ela abre o processo em qualquer nomenclatura.",
+   "Correta: coleta de dados, diagnóstico, planejamento, implementação e avaliação, hoje chamadas avaliação e evolução nas pontas.",
+   "Errada: não se planeja antes de coletar dados e formular o diagnóstico.",
+   "Errada: o diagnóstico depende dos dados coletados e não pode vir antes da coleta."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A lavagem das mãos é uma medida essencial no controle de infecções hospitalares. A respeito da ação, é correto afirmar que:",
+  "alts": [
+   "a higienização das mãos com álcool em gel substitui completamente a lavagem com água e sabão em todas as situações",
+   "a lavagem das mãos deve ser feita, obrigatoriamente, antes e após o contato com o paciente, mas não é necessária ao manusear dispositivos médicos esterilizados",
+   "a utilização de dispositivos médicos descartáveis elimina a necessidade de higienizar as mãos antes do uso",
+   "a higienização das mãos deve ser realizada antes de procedimentos invasivos, como punções venosas ou sondagens, e após o contato com material biológico"
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Higiene das mãos",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Protocolo para a prática de higiene das mãos em serviços de saúde (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "O protocolo de higiene das mãos do Programa Nacional de Segurança do Paciente adota os cinco momentos da OMS: antes de tocar o paciente, antes de realizar procedimento limpo ou asséptico (punção, sondagem, manipulação de dispositivo invasivo), após risco de exposição a fluidos corporais, após tocar o paciente e após tocar superfícies próximas a ele. A preparação alcoólica é a forma preferencial quando as mãos não estão visivelmente sujas; com sujidade visível ou contato com fluidos, lava-se com água e sabonete. Luva ou material descartável não dispensam a higiene.",
+  "porAlt": [
+   "Errada: com sujidade visível ou após contato com fluidos, a lavagem com água e sabonete é obrigatória.",
+   "Errada: antes de manusear dispositivo invasivo ou fazer procedimento asséptico a higiene das mãos é exigida.",
+   "Errada: material descartável não substitui a higiene das mãos antes do uso.",
+   "Correta: higienizar antes de procedimento asséptico, como punção e sondagem, e após contato com material biológico."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 42,
+   "parte": "especificas"
+  }
+ }
+]

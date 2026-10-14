@@ -1,0 +1,1410 @@
+[
+ {
+  "q": "A Política Nacional de Atenção à Saúde dos Povos Indígenas tem como propósito garantir o acesso à atenção integral à saúde, contemplando a diversidade social, cultural, geográfica, histórica e política dos povos indígenas. Sobre a política dos povos indígenas, analise as afirmativas a seguir.\nI. A promoção do uso adequado e racional dos medicamentos não se configura uma diretriz da política.\nII. O Distrito Sanitário é o modelo de organização de serviços orientado para um espaço etnocultural dinâmico, geográfico, populacional e administrativo bem delimitado.\nIII. Na organização dos serviços de saúde, as comunidades terão outra instância de atendimento que são os polos-base.\nEstá(ão) correta(s)",
+  "alts": [
+   "I, II e III.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "II, apenas."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria MS 254/2002 (Política Nacional de Atenção à Saúde dos Povos Indígenas), diretrizes e organização dos DSEI",
+  "coment": "A PNASPI lista entre suas diretrizes a promoção do uso adequado e racional de medicamentos, ao lado da preparação de recursos humanos, da articulação com os sistemas tradicionais indígenas e do controle social; por isso o item I é falso. O Distrito Sanitário Especial Indígena é definido como modelo de organização de serviços orientado para um espaço etnocultural dinâmico, geográfico, populacional e administrativo bem delimitado (item II). Na organização dos serviços, as comunidades têm ainda outra instância de atendimento, os Polos-Base (item III). Corretas: II e III.",
+  "porAlt": [
+   "Inclui o item I, que é falso: o uso adequado e racional de medicamentos é diretriz expressa da PNASPI.",
+   "Inclui o item I, falso, e deixa de fora o item III, que descreve corretamente os Polos-Base.",
+   "Inclui o item I, falso, e omite o item II, que reproduz a definição de Distrito Sanitário da política.",
+   "Correta: o DSEI é o espaço etnocultural e administrativo delimitado e os Polos-Base são a outra instância de atendimento.",
+   "Omite o item III, verdadeiro: a PNASPI prevê os Polos-Base como instância de atendimento das comunidades."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 1,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "O reconhecimento do racismo, das desigualdades étnico-raciais e do racismo institucional como determinantes sociais das condições de saúde se estabelece enquanto marca da política Nacional de Saúde Integral da População Negra. Sobre os objetivos da política, analise as afirmativas a seguir.\nI. Garantir e ampliar o acesso da população negra do campo e da floresta, em particular as populações quilombolas, às ações e aos serviços de saúde.\nII. Identificar, combater e prevenir situações de abuso, exploração e violência, incluindo assédio moral, no ambiente de trabalho.\nIII. Aprimorar a qualidade dos sistemas de informação em saúde, por meio da inclusão do quesito cor em todos os instrumentos de coleta de dados adotados pelos serviços públicos, os conveniados ou contratados com o SUS.\nIV. Monitorar e avaliar as mudanças na cultura institucional, visando à garantia dos princípios antirracistas e não discriminatórios.\nV. Incluir os saberes e práticas populares de saúde, sobretudo aqueles preservados pelas religiões de matrizes africanas.\nSão objetivos da política",
+  "alts": [
+   "I, II e III, apenas.",
+   "I, III e IV, apenas.",
+   "II, IV e V, apenas.",
+   "III, IV e V, apenas.",
+   "I, II, III e IV, apenas."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 992/2009 (Política Nacional de Saúde Integral da População Negra), objetivos específicos e diretrizes",
+  "coment": "Os itens I a IV estão entre os objetivos específicos da PNSIPN: ampliar o acesso da população negra do campo e da floresta, em especial quilombolas; combater abuso, exploração, violência e assédio moral no trabalho; incluir o quesito cor em todos os instrumentos de coleta de dados do SUS; e monitorar a cultura institucional para garantir princípios antirracistas. O reconhecimento dos saberes e práticas populares, incluindo os preservados pelas religiões de matrizes africanas, aparece na política como diretriz geral, não como objetivo. Por isso o item V fica de fora.",
+  "porAlt": [
+   "Omite o item IV, que é objetivo da política: monitorar a cultura institucional para garantir princípios antirracistas.",
+   "Omite o item II, objetivo específico que trata do combate ao abuso, à violência e ao assédio moral no trabalho.",
+   "Inclui o item V, que na PNSIPN é diretriz (saberes populares e religiões de matrizes africanas), e omite I e III.",
+   "Inclui o item V, que é diretriz e não objetivo, e omite os objetivos I e II.",
+   "Correta: I a IV são objetivos específicos da PNSIPN; os saberes populares (item V) estão entre as diretrizes."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 2,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "A.L.C, mulher transexual de 60 anos, busca assistência na Unidade Básica de Saúde do seu território devido a apresentar níveis pressóricos elevados. Diante disso, a referida usuária tem garantido o acesso à atenção primária a partir do atendimento das suas necessidades individuais de saúde, assegurado pelo seguinte princípio do Sistema Único de Saúde e da Rede de Atenção à Saúde operacionalizada na Atenção Básica:",
+  "alts": [
+   "Territorialização e adscrição.",
+   "População adscrita.",
+   "Cuidado centrado na pessoa.",
+   "Longitudinalidade do cuidado.",
+   "Equidade."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo, princípios e diretrizes",
+  "coment": "A PNAB separa princípios (universalidade, equidade e integralidade) de diretrizes (regionalização, territorialização, população adscrita, cuidado centrado na pessoa, longitudinalidade, entre outras). O enunciado pede um princípio. Equidade é ofertar o cuidado reconhecendo as diferenças nas condições de vida e saúde e de acordo com as necessidades de cada pessoa, combatendo a discriminação por identidade de gênero ou orientação sexual, o que se aplica à usuária transexual atendida conforme suas necessidades. As demais opções são diretrizes, não princípios.",
+  "porAlt": [
+   "Territorialização e adscrição é diretriz da PNAB ligada à delimitação do território, não princípio.",
+   "População adscrita é diretriz da PNAB, que vincula pessoas à equipe; não é princípio do SUS na Atenção Básica.",
+   "Cuidado centrado na pessoa é diretriz da PNAB; o enunciado pede o princípio que atende necessidades diferentes.",
+   "Longitudinalidade é diretriz que trata da continuidade do vínculo ao longo do tempo, não princípio.",
+   "Correta: equidade é princípio da PNAB e garante cuidado conforme as necessidades, sem discriminação de identidade de gênero."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 3,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "A Política Nacional de Saúde integral de Lésbicas, Gays, Bissexuais, Travestis e Transexuais reconhece os efeitos da discriminação e da exclusão no processo de saúde-doença da população LGBT. No que diz respeito à referida política, analise as assertivas a seguir.\nI. A falta de respeito ao nome escolhido pelas pessoas travestis e transexuais configura-se como violência. Em decorrência desta Política, o nome social passou a ser garantido enquanto direito na Carta dos Usuários da Saúde.\nII. A política oferece atenção e cuidado à saúde para a população LGBT, incluindo os adolescentes e pessoa idosa.\nIII. É competência do Ministério da Saúde incluir os quesitos de orientação sexual e de identidade de gênero, assim como os quesitos de raça-cor, nos prontuários clínicos, nos documentos de notificação de violência da Secretaria de Vigilância em Saúde do Ministério da Saúde (SVS/MS) e nos demais documentos de identificação e notificação do SUS.\nEstá(ão) correta(s)",
+  "alts": [
+   "I, II e III.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, apenas."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.836/2011 (Política Nacional de Saúde Integral LGBT), consolidada na PRC 2/2017",
+  "coment": "O texto da Política Nacional de Saúde Integral LGBT afirma que o desrespeito ao nome escolhido por travestis e transexuais é violência e associa a garantia do nome social à Carta dos Direitos dos Usuários da Saúde (item I). Entre os objetivos está oferecer atenção à saúde de adolescentes e idosos da população LGBT (item II). Entre as competências do Ministério da Saúde está incluir os quesitos de orientação sexual, identidade de gênero e raça-cor nos prontuários, nas fichas de notificação de violência e nos demais documentos do SUS (item III). Ressalva: a Carta (Portaria 1.820/2009) é anterior à política.",
+  "porAlt": [
+   "Correta: os três itens reproduzem trechos da política (nome social, adolescentes e idosos, quesitos nos documentos do SUS).",
+   "Omite o item III, verdadeiro: incluir orientação sexual, identidade de gênero e raça-cor nos documentos é competência do MS.",
+   "Omite o item II, verdadeiro: a política prevê atenção a adolescentes e idosos LGBT.",
+   "Omite o item I, verdadeiro: a política trata o desrespeito ao nome social como violência.",
+   "Considera verdadeiro só o item I, deixando de fora os itens II e III, também previstos na política."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 4,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "Sobre a Política Nacional de Saúde Integral das Populações do Campo e da Floresta, analise as afirmativas abaixo.\nI. Considera populações do campo e da floresta: povos e comunidades que têm seus modos de vida, produção e reprodução social relacionados predominantemente com o campo, a floresta, os ambientes aquáticos, a agropecuária e o extrativismo.\nII. Um dos objetivos da política visa contribuir para a redução das vulnerabilidades em saúde das populações do campo e da floresta, desenvolvendo ações integrais voltadas para a saúde do idoso, da mulher, da pessoa com deficiência, da criança e do adolescente, do homem e do trabalhador, considerando a saúde sexual e reprodutiva, bem como a violência sexual e doméstica.\nIII. A competência da implementação da Política Nacional de Saúde Integral das populações do Campo e da Floresta é exclusiva da União por meio do Ministério da Saúde.\nEstá(ão) correta(s)",
+  "alts": [
+   "I, II e III.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "III, apenas."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.866/2011 (Política Nacional de Saúde Integral das Populações do Campo e da Floresta)",
+  "coment": "A política define populações do campo e da floresta como povos e comunidades cujos modos de vida, produção e reprodução social se relacionam predominantemente com o campo, a floresta, os ambientes aquáticos, a agropecuária e o extrativismo (item I). Entre seus objetivos está reduzir vulnerabilidades com ações para idosos, mulheres, pessoas com deficiência, crianças, adolescentes, homens e trabalhadores, incluindo saúde sexual e reprodutiva e violência (item II). O item III é falso: como toda política do SUS, a implementação é responsabilidade compartilhada da União, dos estados, do Distrito Federal e dos municípios.",
+  "porAlt": [
+   "Inclui o item III, falso: a implementação não é exclusiva da União; estados, DF e municípios têm competências.",
+   "Correta: a definição (I) e o objetivo de ações integrais por ciclo de vida (II) constam da política.",
+   "Inclui o item III, falso, e omite o item II, que é objetivo da política.",
+   "Inclui o item III, falso, e omite a definição correta do item I.",
+   "Marca apenas o item III, justamente o falso, já que a competência é das três esferas de gestão."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 5,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "A Política Nacional de Atenção à Saúde dos Povos Indígenas (PNASPI) foi instituída em 2002 e define o Distrito Sanitário como um modelo de organização de serviços. Sobre essa organização, é INCORRETO afirmar:",
+  "alts": [
+   "Cada Distrito organizará uma rede de serviços de atenção básica de saúde dentro das áreas indígenas, integrada e hierarquizada com complexidade crescente e articulada com a rede do Sistema Único de Saúde.",
+   "As equipes de saúde dos distritos deverão ser compostas por médicos, enfermeiros, odontólogos, auxiliares de enfermagem e agentes indígenas de saúde, contando com a participação sistemática de antropólogos, educadores, engenheiros sanitaristas e outros especialistas e técnicos considerados necessários.",
+   "Para a definição e organização dos Distritos Sanitários Especiais Indígenas deverão ser realizadas discussões e debates com a participação de lideranças e organizações indígenas, do órgão indigenista oficial, de antropólogos, universidades e instituições governamentais e não governamentais que prestam serviços às comunidades indígenas, além de secretarias municipais e estaduais de saúde.",
+   "Na organização dos serviços de saúde, as comunidades indígenas terão uma outra instância de atendimento, que serão as Casas de Saúde Indígenas. As casas de saúde são a primeira referência para os agentes indígenas de saúde que atuam nas aldeias.",
+   "As Casas de Saúde Indígenas deverão estar em condições de receber, alojar e alimentar pacientes encaminhados e acompanhantes, prestar assistência de enfermagem 24 horas por dia, marcar consultas, exames complementares ou internação hospitalar, providenciar o acompanhamento dos pacientes nessas ocasiões e o seu retorno às comunidades de origem, acompanhados das informações sobre o caso."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria MS 254/2002 (Política Nacional de Atenção à Saúde dos Povos Indígenas), organização dos DSEI",
+  "coment": "Na PNASPI, a instância que é a primeira referência para os agentes indígenas de saúde que atuam nas aldeias é o Polo-Base, situado numa comunidade ou num município de referência. As Casas de Saúde Indígena ficam nos municípios de referência e servem de apoio: recebem, alojam e alimentam pacientes encaminhados e acompanhantes, prestam enfermagem 24 horas e organizam consultas, exames, internação e retorno à aldeia, como diz a alternativa E. A alternativa D troca Polo-Base por Casa de Saúde, por isso é a incorreta.",
+  "porAlt": [
+   "Afirmativa verdadeira: cada DSEI organiza uma rede de atenção básica nas áreas indígenas articulada ao SUS.",
+   "Afirmativa verdadeira: a composição da equipe, com agentes indígenas e apoio de antropólogos e outros, está na política.",
+   "Afirmativa verdadeira: a definição dos DSEI deve ser debatida com lideranças, órgão indigenista, universidades e secretarias.",
+   "Correta: é a incorreta, porque a primeira referência dos agentes indígenas de saúde é o Polo-Base, não a Casa de Saúde Indígena.",
+   "Afirmativa verdadeira: descreve as funções de apoio da Casa de Saúde Indígena previstas na PNASPI."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 6,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "A Atenção Básica é caracterizada como porta de entrada preferencial do SUS, possui um espaço privilegiado de gestão de cuidado das pessoas e cumpre papel estratégico na rede de atenção, servindo como base para seu ordenamento e para a efetivação da integralidade. Sobre a atenção Básica, avalie as afirmativas seguintes e assinale (V) para as verdadeiras e (F) para as falsas.\n( ) A ambiência de uma UBS refere-se ao espaço físico (arquitetônico), entendido como lugar social, profissional e de relações interpessoais que deve proporcionar uma atenção acolhedora e humana para as pessoas, além de um ambiente saudável para o trabalho dos profissionais de saúde.\n( ) O Cuidado Centrado na Pessoa é uma diretriz da Atenção Básica e pressupõe a continuidade da relação de cuidado, com construção de vínculo e responsabilização entre profissionais e usuários ao longo do tempo e de modo permanente e consistente, acompanhando os efeitos das intervenções em saúde e de outros elementos na vida das pessoas, evitando a perda de referências e diminuindo os riscos de iatrogenia que são decorrentes do desconhecimento das histórias de vida e da falta de coordenação do cuidado.\n( ) Realizar o cuidado integral à saúde da população adscrita, prioritariamente no âmbito da Unidade Básica de Saúde, e quando necessário, no domicílio e demais espaços comunitários (escolas, associações, entre outros), com atenção especial às populações que apresentem necessidades específicas (em situação de rua, em medida socioeducativa, privada de liberdade, ribeirinha, fluvial, etc.) não é uma atribuição comum a todos os membros das equipes que atuam na Atenção Básica.\nA sequência correta é",
+  "alts": [
+   "V – V – F.",
+   "F – F – V.",
+   "V – F – F.",
+   "F – V – V.",
+   "F – V – F."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo, diretrizes, infraestrutura e atribuições comuns",
+  "coment": "O primeiro item reproduz a definição de ambiência da PNAB: espaço físico entendido como lugar social, profissional e de relações interpessoais, acolhedor para usuários e saudável para os trabalhadores (V). O segundo descreve a longitudinalidade do cuidado, continuidade do vínculo ao longo do tempo para evitar perda de referências e iatrogenia, e não o cuidado centrado na pessoa (F). O terceiro nega uma atribuição que a PNAB lista como comum a todos os membros das equipes: cuidado integral à população adscrita na UBS, no domicílio e na comunidade, com atenção às populações com necessidades específicas (F).",
+  "porAlt": [
+   "Marca o segundo item como verdadeiro, mas a definição dada é de longitudinalidade, não de cuidado centrado na pessoa.",
+   "Erra a ambiência (verdadeira) e considera verdadeiro o terceiro item, que nega uma atribuição comum da PNAB.",
+   "Correta: ambiência está bem definida (V); o conceito descrito é longitudinalidade (F); o cuidado integral é atribuição comum (F).",
+   "Erra os três itens: a ambiência está correta e o terceiro item nega atribuição comum a todos.",
+   "Marca a ambiência como falsa e a descrição da longitudinalidade como cuidado centrado na pessoa."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 7,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "A Lei nº 8.142, de 28 de dezembro de 1990, que dispõe sobre a participação da comunidade na gestão do Sistema Único de Saúde (SUS) e sobre as transferências intergovernamentais de recursos financeiros na área, apresenta determinadas deliberações. Em relação a essas deliberações, analise as afirmativas seguintes.\nI. O Conselho de Saúde e a Conferência de Saúde, em cada esfera de governo, são as instâncias que compõem a gestão do SUS.\nII. O recurso alocado para despesas de custeio terá origem no Fundo Municipal de Saúde (FMS).\nIII. Será paritária a participação dos usuários em relação aos seguimentos trabalhadores e gestores no conselho e na conferência de saúde na proporção de 25%, 50% e 25%, respectivamente.\nEstá(ão) corretas(s)",
+  "alts": [
+   "I, II e III.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "I, apenas.",
+   "III, apenas."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, arts. 1º e 2º; Resolução CNS 453/2012",
+  "coment": "Pelo art. 1º da Lei 8.142/1990, o SUS conta, em cada esfera de governo, com duas instâncias colegiadas, a Conferência de Saúde e o Conselho de Saúde, que expressam a participação da comunidade na gestão (item I). O item II é falso: o art. 2º diz que os recursos do Fundo Nacional de Saúde serão alocados como despesas de custeio e de capital, não que o custeio se origine no Fundo Municipal. O item III é falso: a paridade é de 50% de usuários em relação ao conjunto dos demais segmentos (art. 1º, § 4º); a Res. CNS 453/2012 detalha 25% de trabalhadores e 25% de gestores e prestadores.",
+  "porAlt": [
+   "Inclui os itens II e III, falsos: a origem citada no art. 2º é o FNS e a paridade dá 50% aos usuários.",
+   "Inclui o item II, falso: a lei fala em recursos do Fundo Nacional de Saúde alocados como custeio e capital.",
+   "Inclui o item III, falso: usuários têm 50% das vagas, não 25%.",
+   "Correta: só o item I procede; Conferência e Conselho são as instâncias colegiadas em cada esfera de governo.",
+   "Marca só o item III, que inverte a paridade: usuários ocupam 50% das vagas."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 8,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "A elaboração e apoio ao estabelecimento de protocolos, guias e manuais de segurança do paciente é uma das estratégias de implementação da Política Nacional de Segurança do Paciente – PNSP.\nSobre a PNSP, é correto afirmar:",
+  "alts": [
+   "Contribuir para a qualificação do cuidado em saúde em todos os estabelecimentos de saúde do território nacional é um dos objetivos específicos da PNSP.",
+   "A PNSP foi instituída pela Portaria nº 529, de 1º de abril de 2011.",
+   "A Cultura de Segurança tem como uma de suas características a cultura que prioriza a segurança acima de metas financeiras e operacionais.",
+   "Instância colegiada, de caráter consultivo, o Comitê de Implementação do Programa Nacional de Segurança do Paciente – CIPNSP deve ser instituído no âmbito da Secretaria Municipal de Saúde.",
+   "É competência do CIPNSP propor e executar projetos de capacitação em Segurança do Paciente."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 529/2013 (Programa Nacional de Segurança do Paciente), arts. 2º, 3º, 4º, 6º e 7º",
+  "coment": "O art. 4º da Portaria 529/2013 define cultura de segurança por cinco características, entre elas a cultura que prioriza a segurança acima de metas financeiras e operacionais. A qualificação do cuidado em todos os estabelecimentos do território nacional é o objetivo geral (art. 2º), não um dos específicos. A portaria é de 1º de abril de 2013. O Comitê de Implementação (CIPNSP) é instituído no âmbito do Ministério da Saúde (art. 6º), e cabe a ele propor e validar projetos de capacitação, não executá-los.",
+  "porAlt": [
+   "Qualificar o cuidado em todos os estabelecimentos é o objetivo geral do art. 2º, não objetivo específico.",
+   "A data está errada: a Portaria 529 que institui o programa é de 1º de abril de 2013.",
+   "Correta: priorizar a segurança acima de metas financeiras e operacionais é característica da cultura de segurança (art. 4º).",
+   "O CIPNSP é instituído no âmbito do Ministério da Saúde, não das secretarias municipais.",
+   "Ao CIPNSP cabe propor e validar projetos de capacitação; a execução não é sua competência."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 9,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "O Sistema Único de Saúde – SUS traz em si grande complexidade pelo fato de ser um sistema que garante o direito à saúde, o que é imprescindível para assegurar o direito à vida. Da mesma forma, o Decreto nº 7.508/11, do Ministério da Saúde, tem o importante papel de regular a estrutura organizativa do SUS, o planejamento de saúde, a assistência à saúde e a articulação interfederativa. Considerando as diretrizes de âmbito nacional, estadual, regional e interestadual deste Decreto, a organização das redes de atenção à saúde deve ser pactuada pelas(os)",
+  "alts": [
+   "Conferências de Saúde.",
+   "Conselhos Estaduais de Saúde.",
+   "Conselhos Municipais de Saúde.",
+   "Comissões Intergestores.",
+   "Comissões Intersetoriais."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, art. 30",
+  "coment": "O Decreto 7.508/2011 atribui às Comissões Intergestores (CIT, CIB e CIR) a pactuação da organização e do funcionamento das ações e serviços de saúde integrados em redes de atenção (art. 30). São instâncias de pactuação consensual entre gestores. Conselhos e conferências são instâncias de controle social da Lei 8.142/1990, que deliberam e avaliam, mas não pactuam a organização das redes entre entes federativos.",
+  "porAlt": [
+   "Conferências avaliam a situação de saúde e propõem diretrizes; não pactuam a organização das redes.",
+   "Conselhos estaduais são controle social deliberativo, não instância de pactuação entre gestores.",
+   "Conselhos municipais exercem controle social; a pactuação interfederativa cabe às comissões intergestores.",
+   "Correta: o art. 30 do Decreto 7.508/2011 dá às Comissões Intergestores a pactuação das redes de atenção.",
+   "Comissões intersetoriais assessoram os conselhos (Lei 8.080, art. 12); não pactuam as redes."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 10,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "J.H.M., 32 anos, desempregado, pai de cinco crianças na idade escolar, usuário da Rede de Atenção Psicossocial - RAPS, comparece à Unidade de Saúde da Cremação em Belém, com problema de saúde bucal, com necessidade de cirurgia. Durante a entrevista, refere que mudou há 1 ano para o bairro e que, neste período, seus filhos não tiveram atendimento odontológico. Sobre a Política Nacional de saúde bucal vigente e suas diretrizes para o atendimento integral a esta família, avalie as afirmativas a seguir e assinale V para as Verdadeiras e F para as Falsas.\n( ) A lei nº 14.572, de 8 de maio de 2022, do Ministério da Saúde, institui a Política Nacional de Saúde Bucal no âmbito do Sistema Único de Saúde (SUS) e altera a Lei nº 8.080, de 19 de setembro de 1990, garantindo que as ações e os serviços de saúde bucal devem compor todas as redes de atenção à saúde, nos diversos níveis de complexidade.\n( ) As ações e os serviços de saúde bucal devem compor todas as redes de atenção à saúde com a finalidade de garantir a integralidade da atenção à saúde, consequentemente a fragmentação do cuidado.\n( ) Cabe ao poder público o controle sobre as ações de vigilância sanitária de fluoretação das águas de abastecimento público, bem como ações complementares nos locais em que se fizerem necessárias.\nA sequência correta é",
+  "alts": [
+   "F – V – V.",
+   "F – F – V.",
+   "F – F – F.",
+   "V – F – F.",
+   "V – V – F."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 14.572/2023 (Política Nacional de Saúde Bucal), que alterou a Lei 8.080/1990",
+  "coment": "A Política Nacional de Saúde Bucal foi instituída pela Lei 14.572, de 8 de maio de 2023, e não de 2022; além disso, é lei federal, não ato do Ministério da Saúde. Por isso o primeiro item é falso. O segundo é falso pela consequência: inserir a saúde bucal em todas as redes de atenção serve para garantir a integralidade e evitar a fragmentação do cuidado, e não para produzi-la. O terceiro é verdadeiro: a política mantém com o poder público a vigilância sanitária da fluoretação das águas de abastecimento, obrigatória desde a Lei 6.050/1974, e ações complementares onde necessário.",
+  "porAlt": [
+   "Considera verdadeiro o segundo item, que afirma que a integração das redes leva à fragmentação do cuidado.",
+   "Correta: a lei é de 2023 (F), a integração em rede evita a fragmentação (F) e a vigilância da fluoretação cabe ao poder público (V).",
+   "Marca o terceiro item como falso, mas a vigilância da fluoretação da água de abastecimento é dever do poder público.",
+   "Aceita a data de 2022 e a autoria do Ministério da Saúde; a política é a Lei 14.572, de 8 de maio de 2023.",
+   "Aceita a data errada e a ideia de que a rede produz fragmentação, e nega a vigilância da fluoretação."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 11,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "O Contrato Organizativo de Ação Pública da Saúde – Coap é o instrumento jurídico que explicita os compromissos pactuados em cada Região de Saúde, firmado entre entes federativos com a finalidade de organizar e integrar as ações e os serviços de saúde na rede regionalizada e hierarquizada. Quanto às disposições essenciais do Contrato, analise os itens seguintes.\nI. Identificação das necessidades de saúde locais e regionais.\nII. Indicadores e metas de saúde.\nIII. Estratégias para a melhoria das ações e dos serviços de saúde.\nIV. Critérios de avaliação dos resultados e forma de monitoramento permanente.\nEstão corretos",
+  "alts": [
+   "I, III e IV, apenas.",
+   "I e II, apenas.",
+   "II e IV, apenas.",
+   "II e III, apenas.",
+   "I, II, III e IV."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Decreto 7.508/2011, art. 36",
+  "coment": "O art. 36 do Decreto 7.508/2011 lista as disposições essenciais do Contrato Organizativo de Ação Pública da Saúde. Entre elas estão a identificação das necessidades de saúde locais e regionais, os indicadores e metas de saúde, as estratégias para a melhoria das ações e serviços e os critérios de avaliação dos resultados com forma de monitoramento permanente. O mesmo artigo inclui ainda a oferta de ações e serviços, as responsabilidades dos entes, a adequação à RENASES, os investimentos e os recursos financeiros. Os quatro itens são, portanto, disposições essenciais.",
+  "porAlt": [
+   "Omite o item II: indicadores e metas de saúde são disposição essencial do COAP no art. 36.",
+   "Omite os itens III e IV, também previstos no art. 36 do Decreto 7.508/2011.",
+   "Omite os itens I e III, ambos disposições essenciais do contrato.",
+   "Omite os itens I e IV, que constam expressamente do art. 36.",
+   "Correta: necessidades de saúde, indicadores e metas, estratégias de melhoria e critérios de avaliação estão no art. 36."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 13,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "As diretrizes para a estruturação da Rede de Atenção à Saúde - RAS foram estabelecidas pela Portaria nº 4.279, de 30 de dezembro de 2010 e seu anexo. Sobre os conceitos, a estrutura e os objetivos apresentados nesta portaria, julgue as afirmativas a seguir.\nI. A Rede de Atenção à Saúde são arranjos organizativos de ações e serviços de saúde, de diferentes densidades tecnológicas.\nII. Os pontos de atenção à saúde são entendidos como espaços onde se ofertam determinados serviços de saúde, por meio de uma produção singular.\nIII. Todos os pontos de atenção à saúde são hierarquizados por importância para o cumprimento dos objetivos da rede de atenção à saúde e pelas distintas densidades tecnológicas que os caracterizam.\nIV. O objetivo da RAS é promover a integração sistêmica de ações e serviços de saúde com provisão de atenção contínua, integral, de qualidade, responsável e humanizada.\nEstão corretas",
+  "alts": [
+   "I e II, somente.",
+   "I e III, somente.",
+   "I, II e IV, somente.",
+   "II e IV, somente.",
+   "II e III, somente."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 4.279/2010, Anexo (diretrizes da RAS), hoje na PRC 3/2017",
+  "coment": "A Portaria 4.279/2010 define a RAS como arranjos organizativos de ações e serviços de diferentes densidades tecnológicas (item I), os pontos de atenção como espaços onde se ofertam serviços por meio de uma produção singular (item II) e o objetivo de promover a integração sistêmica com atenção contínua, integral, de qualidade, responsável e humanizada (item IV). O item III contraria o anexo: todos os pontos de atenção são igualmente importantes e se diferenciam apenas pelas densidades tecnológicas. A RAS é poliárquica, não hierarquizada por importância.",
+  "porAlt": [
+   "Omite o item IV, que reproduz o objetivo da RAS previsto na portaria.",
+   "Inclui o item III, falso: os pontos de atenção são igualmente importantes e não hierarquizados por importância.",
+   "Correta: I, II e IV reproduzem a portaria; o item III contraria a ideia de rede poliárquica.",
+   "Omite o item I, que traz a definição oficial de RAS.",
+   "Inclui o item III, falso, e omite a definição de RAS do item I."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 14,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "O Art. 7º da Lei 8080, do Ministério da Saúde, delibera que as ações e serviços públicos de saúde e os serviços privados contratados ou conveniados que integram o Sistema Único de Saúde - SUS são desenvolvidos de acordo com as diretrizes previstas no art. 198 da Constituição Federal, obedecendo a XVI princípios. Um desses princípios é a utilização da epidemiologia para o estabelecimento de prioridades, a alocação de recursos e a orientação programática. Isso porque a epidemiologia",
+  "alts": [
+   "fornece uma cesta de ferramentas específicas para a mudança organizacional.",
+   "está relacionada com o planejamento orçamentário e financeiro.",
+   "possibilita a participação da comunidade na gestão do SUS.",
+   "está centrada nos estudos de capacidade de oferta dos serviços de saúde.",
+   "permite conhecer, acompanhar e definir as causas dos problemas de saúde de uma população."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º, VII",
+  "coment": "O art. 7º, VII, da Lei 8.080/1990 estabelece a utilização da epidemiologia para o estabelecimento de prioridades, a alocação de recursos e a orientação programática. A epidemiologia serve a isso porque descreve a distribuição dos agravos e investiga seus determinantes: permite conhecer, acompanhar e definir as causas dos problemas de saúde de uma população. Com esse diagnóstico, o gestor escolhe prioridades e distribui recursos onde estão as necessidades.",
+  "porAlt": [
+   "Ferramentas de mudança organizacional pertencem à gestão e ao planejamento, não ao objeto da epidemiologia.",
+   "Planejamento orçamentário e financeiro é tarefa da gestão; a epidemiologia apenas informa as prioridades.",
+   "A participação da comunidade é diretriz própria (Lei 8.142/1990), não função da epidemiologia.",
+   "A epidemiologia estuda o processo saúde-doença na população, não só a capacidade de oferta dos serviços.",
+   "Correta: a epidemiologia descreve e explica os problemas de saúde da população e orienta prioridades e recursos."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 15,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "A Resolução da Diretoria Colegiada (RDC) nº 15/2012 da ANVISA define requisitos de boas práticas para os serviços de saúde. No que se refere ao processamento de produtos para a saúde na central de material e esterilização (CME), a enfermeira que realiza capacitação dos recursos humanos da CME deverá orientar algumas medidas como boas práticas. Em relação a essas boas práticas, analise as afirmativas seguintes.\nI. Produtos para saúde passíveis de processamento fabricado a partir de matérias-primas e conformação estrutural, que permitem repetidos processos de limpeza, preparo e desinfecção ou esterilização, até que percam a sua eficácia e funcionalidade.\nII. As capacitações orientam que o monitoramento de processos deve ser realizado por indicadores químicos, biológicos e físicos.\nIII. Limpeza de produto para saúde de conformação não complexa cujas superfícies internas e externas podem ser atingidas apenas por escovação simples e possuam diâmetros inferiores a cinco milímetros nas estruturas tubulares.\nIV. Sobre a microbiologia, a carga microbiana da água deve ser realizada pela própria equipe da CME.\nV. Todo material perfurocortante produzido pela CME deverá ser descartado em saco de resíduos comuns.\nEstão corretas",
+  "alts": [
+   "I, II, III, IV e V.",
+   "I, II e III, apenas.",
+   "I e II, apenas.",
+   "II, III e IV, apenas.",
+   "II e V, apenas."
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 15/2012, art. 4º e seção de monitoramento do processo de esterilização",
+  "coment": "O item I reproduz a definição de produto para saúde passível de processamento do art. 4º da RDC 15/2012. O item II está correto: a RDC exige monitoramento do processo com indicadores físicos (parâmetros do ciclo), químicos e biológicos. O item III é falso porque inverte a definição: conformação não complexa é aquela cujas superfícies são atingidas por escovação e cujos lúmens têm diâmetro superior a 5 mm; lúmen inferior a 5 mm caracteriza conformação complexa. Os itens IV e V são falsos: a RDC não atribui à equipe da CME a análise microbiológica da água, e perfurocortante vai para recipiente rígido próprio, nunca para saco de resíduo comum.",
+  "porAlt": [
+   "Inclui os itens III, IV e V, falsos: diâmetro errado, análise da água e descarte de perfurocortante em saco comum.",
+   "Inclui o item III, que inverte a definição da RDC: conformação não complexa tem lúmen superior a 5 mm.",
+   "Correta: a definição de produto passível de processamento (I) e o monitoramento com indicadores (II) seguem a RDC 15/2012.",
+   "Omite o item I, verdadeiro, e inclui o III e o IV, falsos.",
+   "Inclui o item V, falso: perfurocortante exige recipiente rígido, não saco de resíduo comum."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 16,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com os princípios que regem a RDC 222/2018, no que se refere ao Plano de Gerenciamento de Resíduos de Serviços de Saúde (PGRSS), a etapa inicial essencial para a correta implementação de um plano de gerenciamento, visando à segurança e à minimização de riscos, está em conformidade com a/o",
+  "alts": [
+   "classificação detalhada de todos os resíduos em um inventário diário, antes do descarte.",
+   "disposição final dos resíduos em aterros sanitários licenciados, priorizando os recicláveis.",
+   "desativação microbiana por autoclavação ou incineração dos materiais biológicos descartados.",
+   "transporte dos resíduos para áreas de armazenamento centralizadas antes de sua coleta externa.",
+   "segregação dos resíduos na fonte, categorizando-os conforme o grupo de risco e suas características específicas."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 222/2018 (Boas práticas de gerenciamento dos resíduos de serviços de saúde)",
+  "coment": "A RDC 222/2018 define segregação como a separação dos resíduos no momento e no local de sua geração, conforme suas características físicas, químicas, biológicas, estado físico e riscos envolvidos. É a etapa que inaugura o manejo e condiciona todas as outras: sem segregação correta na fonte, acondicionamento, tratamento e destinação ficam errados, aumentam o volume de resíduo perigoso e expõem trabalhadores. Transporte, armazenamento, tratamento e disposição final são etapas posteriores do PGRSS.",
+  "porAlt": [
+   "Inventário diário antes do descarte não é etapa prevista; a classificação ocorre na segregação, no ponto de geração.",
+   "Disposição final em aterro é a última etapa do manejo, não a inicial.",
+   "Tratamento por autoclave ou incineração é etapa intermediária e só vale para os grupos que o exigem.",
+   "Transporte e armazenamento vêm depois da segregação e do acondicionamento.",
+   "Correta: a segregação na fonte, conforme o grupo e as características do resíduo, é a etapa inicial do manejo na RDC 222/2018."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 17,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em uma unidade, durante a internação em clínica médica, uma senhora de 72 anos sofreu uma queda do leito que ocasionou fratura de fêmur e após 5 dias evoluiu a óbito. Diante do cenário e seguindo as orientações de que tratam a RDC nº 36/2013, em relação ao evento queda seguida de óbito, e o Núcleo de Segurança do Paciente (NSP), é correto afirmar:",
+  "alts": [
+   "Todos os casos de óbito devem ser notificados imediatamente após a sua ocorrência (até 72 horas).",
+   "Uma das competências do Núcleo de Segurança do Paciente (NSP) é instituir um plano de ação para prevenção de quedas em pacientes.",
+   "A notificação ao Sistema Nacional de Vigilância Sanitária deve ser efetuada somente nos casos de eventos adversos decorrentes da prestação do serviço de saúde de profissionais terceirizados prestadores de serviços.",
+   "Os Protocolos de Segurança do Paciente devem ser implantados e realizado o monitoramento dos seus indicadores somente diante de uma eventualidade, como foi o caso do óbito em questão.",
+   "A falta de comunicação efetiva entre os profissionais de saúde foi a principal causa para evolução do óbito em questão."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, arts. 7º, 8º e 10",
+  "coment": "Pela RDC 36/2013, o Núcleo de Segurança do Paciente elabora e implanta o Plano de Segurança do Paciente, que deve trazer estratégias e ações de prevenção de quedas, entre outros protocolos (arts. 7º e 8º). Por isso B está correta. A notificação em até 72 horas vale para os eventos adversos que evoluírem para óbito, e não para todo óbito (art. 10, parágrafo único). A notificação abrange todos os eventos adversos da prestação do serviço, não só os de terceirizados. Protocolos são implantados e monitorados de forma contínua, não só depois de um caso grave. Atribuir a causa à falha de comunicação sem análise do evento é conclusão sem base.",
+  "porAlt": [
+   "O prazo de 72 horas vale para eventos adversos que evoluíram para óbito, não para todo e qualquer óbito.",
+   "Correta: o NSP elabora o plano de segurança, que inclui ações de prevenção de quedas (RDC 36/2013).",
+   "A notificação abrange todos os eventos adversos da prestação do serviço, não só os de terceirizados.",
+   "Protocolos de segurança são implantados e monitorados de forma permanente, não só após um evento grave.",
+   "O caso não traz dados para atribuir o óbito à comunicação; a causa sai da análise do evento pelo NSP."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 18,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Senhor, 55 anos, foi submetido à fixação de cateter vesical de demora (CVD) após a cirurgia de prostatectomia radical. Esteve hospitalizado por 72 horas, saindo de alta com a permanência do CVD para o domicílio. Após 7 dias a contar da alta hospitalar, evoluiu com febre alta, dor pélvica, desconforto vesical, ferida operatória limpa e seca. Segundo os critérios diagnósticos das infecções relacionadas à assistência à saúde (IRAS) de notificação nacional obrigatória (ANVISA, 2025) e as infecções relacionadas à assistência, é correto afirmar:",
+  "alts": [
+   "Pelos sinais e sintomas apresentados após a alta do caso em questão, a infecção não pode ser considerada IRAS, visto que o senhor já se encontrava no domicílio.",
+   "Os sinais e sintomas estão associados ao procedimento cirúrgico, frente a descrição da ferida cirúrgica.",
+   "Está-se diante de um caso de IRAS associada a dispositivo invasivo, visto que o senhor utiliza o dispositivo invasivo por um período maior que 2 (dois) dias consecutivos e saiu de alta com permanência do CVD.",
+   "Deve-se comunicar ao médico cirurgião para que retire imediatamente o CVD e substitua por um novo cateter.",
+   "A comissão de controle de infecção hospitalar (CCIH) não tem abrangência de cobertura de atendimento no âmbito domiciliar, portanto não necessita ser comunicada sobre o evento em questão."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ANVISA, Critérios Diagnósticos das IRAS de notificação nacional obrigatória, 2025",
+  "coment": "Nos critérios da ANVISA, a infecção do trato urinário é associada a cateter vesical de demora quando o cateter permaneceu por mais de 2 dias consecutivos e estava instalado na data da infecção (ou foi retirado no dia anterior). O paciente usa o cateter desde a cirurgia, saiu de alta com ele e tem febre, dor pélvica e desconforto vesical, com ferida operatória limpa e seca. O quadro aponta IRAS associada ao dispositivo, não infecção do sítio cirúrgico. Ter recebido alta não descarta IRAS, e a CCIH deve ser informada para investigação. A confirmação depende de urocultura, que o enunciado não traz.",
+  "porAlt": [
+   "IRAS pode se manifestar após a alta quando ligada a procedimento ou dispositivo instalado no hospital.",
+   "A ferida operatória está limpa e seca; os sintomas são urinários e não indicam infecção do sítio cirúrgico.",
+   "Correta: cateter vesical por mais de 2 dias, ainda instalado, com febre e sintomas vesicais configura IRAS associada a dispositivo.",
+   "A conduta imediata é avaliar e investigar; trocar o cateter após prostatectomia é decisão médica cuidadosa, não automática.",
+   "A CCIH precisa ser comunicada: o evento decorre de dispositivo instalado durante a internação."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 19,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A análise laboratorial de uma pessoa adulta apresenta os seguintes resultados no hemograma: hemácias: 4,03 (milhões/mm3) (valor referência: 3,83- 4,9); hematócrito (%): 36,9 (valor referência: 35,1- 44,1) e hemoglobina: (g/dL) = 12,4 (valor referência: 11,7- 14,9), leucócitos (/ mm3): 2.600/mm³ (valor referência: 3 800 – 11 000), plaquetas (/ mm3): 255.000 (valor referência: 165.000-345.000/mm3). Diante dos valores apresentados e da interpretação laboratorial, é correto afirmar:",
+  "alts": [
+   "O resultado dos leucócitos: 2.600/mm³ (valor referência: 3 800 – 11 000) sugere que se está diante de uma infecção bacteriana, denominada de leucocitose.",
+   "O resultado das plaquetas (/ mm3): 255.000 (valor referência: 165.000- 345.000/mm3) sugere que que se está diante de um caso de trombocitopenia e há um risco elevado para sangramentos.",
+   "O resultado das hemácias: 4,03 (milhões/mm3) (valor referência: 3,83- 4,9) sugere que se está diante de um caso de anemia ferropriva.",
+   "O resultado dos leucócitos: 2.600/mm³ (valor referência: 3 800 – 11 000) sugere que se está diante de uma infecção viral, denominada de leucopenia.",
+   "O resultado do hemograma completo em uma análise geral para o indivíduo adulto encontra-se dentro dos valores de normalidade."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Coleta de exames",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, edição de 2020 (interpretação do hemograma)",
+  "coment": "Pelos próprios valores de referência do enunciado, hemácias, hematócrito, hemoglobina e plaquetas estão normais, e só os leucócitos estão baixos: 2.600/mm³, abaixo de 3.800/mm³. Leucócitos abaixo do limite inferior configuram leucopenia, e infecções virais estão entre as causas mais comuns. Leucopenia é achado inespecífico: também ocorre por fármacos, quimioterapia e doenças da medula. Mas é a única leitura compatível com os números. Leucocitose seria aumento, e não há anemia nem trombocitopenia.",
+  "porAlt": [
+   "Leucocitose é aumento dos leucócitos; 2.600/mm³ está abaixo da referência, o que é leucopenia.",
+   "255.000 plaquetas está dentro da faixa de 165.000 a 345.000/mm³; não há trombocitopenia.",
+   "Hemácias, hematócrito e hemoglobina estão normais; não há anemia, ferropriva ou outra.",
+   "Correta: leucócitos abaixo da referência configuram leucopenia, achado comum em infecções virais.",
+   "O hemograma não está normal: os leucócitos estão abaixo do limite inferior de 3.800/mm³."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 20,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As alterações clínicas podem acometer os diversos sistemas orgânicos e são consideradas manifestações clínicas (Brunner &Suddarth, 2020). Com base no assunto, relacione a coluna A de acordo com a coluna B.\nColuna A\n1) Alterações do Sistema Gastrointestinal\n2) Alterações do Sistema Respiratório\n3) Alterações do Sistema Urinário\nColuna B\n( ) Incontinência urinária\n( ) Melena\n( ) Sibilos\n( ) Dispepsia\n( ) Hemoptise\n( ) Hematúria\nA sequência correta é",
+  "alts": [
+   "3, 1, 2, 1, 2, 3.",
+   "2, 3, 1, 1, 3, 2.",
+   "3, 2, 1, 2, 1, 3.",
+   "1, 2, 3, 3, 2, 1.",
+   "3, 2, 1, 1, 3, 2."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, edição de 2020 (manifestações clínicas por sistema)",
+  "coment": "Basta ligar cada sinal ou sintoma ao sistema de origem. Incontinência urinária e hematúria (sangue na urina) são do sistema urinário (3). Melena, fezes escuras por sangue digerido de sangramento digestivo alto, e dispepsia, desconforto no abdome superior, são do gastrointestinal (1). Sibilos, ruídos por estreitamento das vias aéreas, e hemoptise, eliminação de sangue pela tosse, são do respiratório (2). A sequência é 3, 1, 2, 1, 2, 3.",
+  "porAlt": [
+   "Correta: incontinência (3), melena (1), sibilos (2), dispepsia (1), hemoptise (2) e hematúria (3).",
+   "Atribui a incontinência urinária ao sistema respiratório e a melena ao urinário.",
+   "Liga melena ao respiratório e sibilos ao gastrointestinal, invertendo os sistemas.",
+   "Atribui a incontinência urinária ao gastrointestinal e a hematúria ao gastrointestinal.",
+   "Liga melena ao respiratório, sibilos ao gastrointestinal e hemoptise ao urinário."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 21,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O sangue é um tecido humano importante para manutenção da vida (Brasil, 2015). Ele é formado pelo plasma, substância a qual é formada por água e proteínas, e pelos tipos de elementos figurados. Marque a alternativa em que estão indicados esses elementos sanguíneos.",
+  "alts": [
+   "Fibroblastos, hematócritos e leucócitos.",
+   "Plaquetas, anticorpos e neutrófilos.",
+   "Plaquetas, hemácias e leucócitos.",
+   "Miócitos, fibrócitos e hemácias.",
+   "Hemácias, eosinófilos e hormônios."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Guia para o uso de hemocomponentes, 2ª ed., 2015",
+  "coment": "O sangue tem uma parte líquida, o plasma (água, proteínas, eletrólitos e outros solutos), e os elementos figurados, que são as células e fragmentos celulares: hemácias (eritrócitos), leucócitos e plaquetas. Neutrófilos e eosinófilos são tipos de leucócito, não uma classe à parte. Anticorpos e hormônios estão dissolvidos no plasma. Hematócrito é uma medida, a porcentagem do volume ocupado pelas hemácias. Fibroblastos, miócitos e fibrócitos são células de tecido conjuntivo e muscular.",
+  "porAlt": [
+   "Fibroblastos são células do conjuntivo, e hematócrito é uma medida, não um elemento figurado.",
+   "Anticorpos são proteínas do plasma, e neutrófilos são um subtipo de leucócito.",
+   "Correta: plaquetas, hemácias e leucócitos são os três elementos figurados do sangue.",
+   "Miócitos e fibrócitos são células musculares e conjuntivas, não sanguíneas.",
+   "Hormônios estão dissolvidos no plasma, e eosinófilos são um subtipo de leucócito."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 22,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma das responsabilidades do enfermeiro que atua em enfermagem cirúrgica é realizar a previsão de artigos médicos hospitalares, assegurar a esterilização desses artigos e orientar a organização do material para o ato cirúrgico. Com base no assunto, correlacione os instrumentais cirúrgicos da coluna A à sua respectiva função/característica e tempo cirúrgico da coluna B.\nColuna A\n1- Afastador Doyen\n2- Porta-agulha\n3- Pinças kelly\n4- Tesoura Metzenbaum\nColuna B\n( ) É utilizado no tempo cirúrgico denominado síntese.\n( ) É utilizado para promover uma melhor visualização do campo cirúrgico e no tempo exérese.\n( ) É utilizado no tempo cirúrgico denominado diérese.\n( ) É utilizado para controlar sangramento e no tempo cirúrgico denominado hemostasia.\nA sequência correta é",
+  "alts": [
+   "4 – 2 – 3 – 1.",
+   "1 – 3 – 4 – 2.",
+   "3 – 2 – 1 – 4.",
+   "2 – 1 – 4 – 3.",
+   "4 – 3 – 1 – 2."
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "SOBECC, Diretrizes de práticas em enfermagem perioperatória e processamento de produtos para a saúde, 8ª ed., 2021",
+  "coment": "Os instrumentais seguem os tempos cirúrgicos. O porta-agulha prende a agulha de sutura e pertence à síntese (2). O afastador Doyen, afastador abdominal, expõe o campo e melhora a visualização para a exérese (1). A tesoura Metzenbaum, de dissecção delicada, corta tecidos na diérese (4). A pinça Kelly é hemostática e pinça vasos na hemostasia (3). A sequência é 2, 1, 4, 3.",
+  "porAlt": [
+   "Põe a tesoura na síntese e o afastador na hemostasia; a síntese usa o porta-agulha.",
+   "Põe o afastador na síntese e a pinça Kelly na exposição do campo, invertendo as funções.",
+   "Atribui a síntese à pinça Kelly e a diérese ao afastador.",
+   "Correta: porta-agulha (síntese), afastador Doyen (exposição e exérese), Metzenbaum (diérese) e Kelly (hemostasia).",
+   "Põe a tesoura na síntese e o afastador na diérese, sem relação com a função de cada instrumental."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 23,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Senhor, 68 anos, promesseiro do Círio de Nazaré, durante a procissão passou por momentos de intensa emoção por uma graça alcançada. No entanto, ao chegar em casa para celebração do almoço, teve um desmaio e imediatamente a família acionou o serviço de atendimento móvel de urgência (SAMU). No Pronto-Socorro, após a realização de exames complementares de tomografia, foi indicada a cirurgia craniotomia para drenar o hematoma proveniente de um acidente vascular cerebral (AVC) do tipo hemorrágico. Segundo Brunner & Suddarth (2020), um paciente que se submeteu a uma cirurgia realizada no dia 14.10.2025 estará, no dia 20.10.2025, no",
+  "alts": [
+   "5º dia de pós-operatório imediato.",
+   "6º dia de pós-operatório imediato.",
+   "5º dia de pós-operatório mediato.",
+   "pós-operatório tardio.",
+   "6º dia de pós-operatório mediato."
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, edição de 2020 (fases do perioperatório)",
+  "coment": "Na divisão usada nos textos brasileiros de enfermagem perioperatória, o pós-operatório imediato corresponde às primeiras 24 horas após a cirurgia; o mediato vai do fim desse período até cerca do 7º dia; o tardio vem depois. Contando o dia da cirurgia (14/10) como dia zero, 15/10 é o 1º dia de pós-operatório e 20/10 é o 6º. Seis dias depois da cirurgia o paciente já saiu das 24 horas iniciais e ainda não chegou ao tardio: 6º dia de pós-operatório mediato.",
+  "porAlt": [
+   "O pós-operatório imediato cobre só as primeiras 24 horas; além disso, 20/10 é o 6º dia, não o 5º.",
+   "O dia está certo, mas o período não: depois de 24 horas o pós-operatório já é mediato.",
+   "O período está certo, mas a contagem não: de 14/10 a 20/10 são 6 dias.",
+   "O pós-operatório tardio começa depois do mediato; no 6º dia o paciente ainda está no mediato.",
+   "Correta: 20/10 é o 6º dia após a cirurgia de 14/10, já fora das 24 horas iniciais, no pós-operatório mediato."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 24,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na monitorização beira-leito do paciente neurocrítico, a avaliação das pupilas faz parte da identificação das alterações neurológicas, uma vez que as pupilas refletem diretamente a função do sistema nervoso central, fornecendo informações sobre possíveis lesões ou patologias cerebrais. As alterações identificadas podem estar relacionadas ao seu tamanho, forma ou reatividade à luz e podem indicar aumento da pressão intracraniana (PIC) e lesão cerebral, especialmente no tronco cerebral, em um paciente cuja avaliação neurológica apresenta dilatação pupilar bilateral e baixa reatividade à luz. Diante das características apresentadas, é correto afirmar que se trata de um caso de",
+  "alts": [
+   "pupilas isocóricas.",
+   "pupilas midriáticas.",
+   "pupilas anisocóricas.",
+   "pupilas puntiformes.",
+   "pupilas mióticas."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, edição de 2020 (avaliação neurológica)",
+  "coment": "Pupila dilatada é midriática; contraída é miótica, e no extremo, puntiforme. O enunciado descreve dilatação bilateral com baixa reatividade à luz, portanto pupilas midriáticas. Como são as duas, não se pode afirmar anisocoria, que é diferença de tamanho entre elas; isocoria só diz que são iguais, sem dizer o tamanho. Midríase bilateral pouco reativa no neurocrítico é sinal de alarme para hipertensão intracraniana grave ou lesão de tronco e deve ser comunicada de imediato.",
+  "porAlt": [
+   "Isocoria indica só tamanhos iguais; o achado que define o caso é a dilatação.",
+   "Correta: dilatação pupilar bilateral é midríase, sinal de alarme para hipertensão intracraniana no neurocrítico.",
+   "Anisocoria é diferença de tamanho entre as pupilas; o caso descreve dilatação das duas.",
+   "Pupilas puntiformes são extremamente contraídas, o oposto da dilatação descrita.",
+   "Miose é contração pupilar; o enunciado descreve dilatação."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 26,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma pessoa idosa, 65 anos, submetida a cuidados críticos na Unidade de Terapia Intensiva, realizou exames laboratoriais e de gasometria arterial de rotina diária, cujo resultado apresentado foi: pH= 7,42; pCO2= 38 mmHg e HCO3= 30mmHg. Considerando o valor apresentado do HCO3, assinale a afirmativa correta.",
+  "alts": [
+   "Pela redução do HCO3, trata-se de um caso de alcalose metabólica.",
+   "Pelo aumento do HCO3, trata-se de um caso de acidose respiratória.",
+   "Pelo aumento do HCO3, trata-se de um caso de alcalose metabólica.",
+   "Pela redução do HCO3, trata-se de um caso de acidose respiratória.",
+   "Pela redução HCO3, trata-se de um caso de acidose metabólica."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, edição de 2020 (gasometria arterial)",
+  "coment": "O enunciado manda olhar o HCO3. A referência do bicarbonato é de 22 a 26 mEq/L; 30 está aumentado. Bicarbonato alto é distúrbio metabólico do lado alcalino: alcalose metabólica. Acidose respiratória exigiria PaCO2 acima de 45 mmHg, e a de 38 está normal. A banca retificou o gabarito para C. Ressalvas: o pH de 7,42 está dentro da normalidade e não há compensação respiratória (a PaCO2 seria esperada acima de 40), e o caderno grafa o HCO3 em mmHg, quando a unidade é mEq/L.",
+  "porAlt": [
+   "O HCO3 de 30 está acima da referência de 22 a 26 mEq/L; não houve redução.",
+   "Bicarbonato aumentado aponta alcalose metabólica; acidose respiratória exige PaCO2 elevada.",
+   "Correta: HCO3 acima de 26 mEq/L caracteriza alcalose metabólica, que é o que o enunciado pede para analisar.",
+   "O HCO3 está aumentado, e a PaCO2 normal não sustenta acidose respiratória.",
+   "Acidose metabólica cursa com HCO3 baixo; aqui ele está em 30."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 27,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Doenças raras são enfermidades geralmente crônicas e de baixa frequência na população em geral. Apresentam-se, em geral, com adoecimento progressivos, degenerativos e incapacitantes necessitando de cuidados contínuos e multiprofissionais. A Portaria nº 981/2014 instituiu a Política Nacional de Atenção Integral às Pessoas com Doenças Raras no âmbito do Sistema Único de Saúde (SUS) (Brasil, 2014). A fibrose cística (FC) está inclusa no rol de doenças raras e seu Protocolo Clínico e Diretrizes Terapêuticas da Fibrose Cística foi aprovado pela Portaria Conjunta nº 5/2024 (Brasil, 2024). Sobre a fibrose cística, é correto afirmar:",
+  "alts": [
+   "No estado do Pará, o Hospital Universitário João de Barros Barreto é a única referência para diagnóstico de FC em todos os ciclos de vida, ofertando assistência por meio da modalidade de internação ou hospital dia.",
+   "A FC é uma doença genética que decorre de variantes patogênicas em ambos os alelos do gene Regulador de Condutância Transmembrana (Cystic Fibrosis Transmembrane Conductance Regulator – CFTR), codificador da proteína CFTR, um canal de cloreto e bicarbonato presente na superfície apical das células epiteliais do organismo e que bombeia substratos de forma ativa através das membranas.",
+   "No Brasil, o rastreamento da FC é obrigatório pelo teste de triagem neonatal (teste do pezinho) com dosagem do tripsinogênio imunorreativo em duas doses, sendo a segunda obrigatoriamente realizada até os 90 dias de vida. O diagnóstico é confirmado pelo teste do suor ou pela análise molecular do gene CFTR. Os indivíduos em qualquer idade, com sinais e sintomas sugestivos da doença, ou ainda que tenham familiares de primeiro grau com FC também devem ser avaliados.",
+   "As alterações pancreáticas (exócrinas) na FC são comuns e cerca de 85% dos pacientes apresentam insuficiência pancreática, com lesões desde a vida intrauterina com canalículos obstruídos por tampões precipitados proteicos, destruição do parênquima e elevação do tripsinogênio no sangue, assim como pancreatite crônica ou recorrente. Entretanto, a Diabetes mellitus não é desenvolvida, pois a função endócrina é mantida.",
+   "A manifestação pulmonar é a principal causa de morbimortalidade causada pela doença. A viscosidade excessiva das secreções respiratórias repercute na formação de bronquiectasias progressivas e infecções respiratórias recorrentes, manifestando alterações da conformação torácica, tosse persistente, baqueteamento digital, hipoxemia, corpulmonale, hemoptise e aspecto de idade cronológica avançada (envelhecimento precoce)."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Doenças respiratórias",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Portaria Conjunta nº 5/2024 (PCDT da Fibrose Cística); Portaria GM/MS 981/2014",
+  "coment": "A fibrose cística é autossômica recessiva: exige variantes patogênicas nos dois alelos do gene CFTR, que codifica um canal de cloreto e bicarbonato na membrana apical dos epitélios (B). Ressalva: o CFTR é canal ativado por ATP e o íon passa a favor do gradiente; dizer que ele bombeia substratos de forma ativa é impreciso, mas a banca manteve B. Na triagem neonatal, a segunda dosagem de tripsinogênio imunorreativo deve ser colhida até cerca de 30 dias de vida, não 90. O diabetes relacionado à fibrose cística é complicação conhecida. A doença pulmonar é a principal causa de morbimortalidade, mas envelhecimento precoce não é manifestação da doença.",
+  "porAlt": [
+   "Afirma exclusividade de um único serviço no Pará, o que não é dado do PCDT nem se sustenta na rede de referência.",
+   "Correta: a FC decorre de variantes patogênicas nos dois alelos do CFTR, que codifica canal de cloreto e bicarbonato.",
+   "A segunda dosagem do tripsinogênio imunorreativo na triagem é feita até cerca de 30 dias de vida, não até 90.",
+   "O diabetes relacionado à fibrose cística existe, por destruição progressiva do pâncreas, inclusive endócrino.",
+   "O quadro pulmonar está correto, mas aspecto de idade avançada ou envelhecimento precoce não é manifestação da FC."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 28,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Cuidados paliativos (CP) são ações e serviços de saúde para alívio da dor, do sofrimento e de outros sintomas em pessoas que enfrentam doenças ou outras condições de saúde que ameaçam ou limitam a continuidade da vida (Portaria GM/MS Nº 3.681/2024). Não há tempo ou limite prognóstico para a prestação dos CP, não somente nos últimos dias de vida do paciente, mas a partir do diagnóstico, permeando o tratamento curativo, cuidados de fim de vida e culminando nos cuidados aos familiares após o óbito (Brasil, 2023). Sobre os CP, é correto afirmar:",
+  "alts": [
+   "Mundialmente, os cuidados paliativos são mais predominantes na população acima de 70 anos com diagnóstico de câncer, seguido de complicações pela infecção por HIV e causas externas. Os principais sintomas manifestados são fadiga, fraqueza, dor e outros. No Brasil, é crescente a demanda por CP e a oferta de serviços é desigual, havendo demanda reprimida na região Norte devido a poucos serviços.",
+   "Deve-se respeitar a autonomia do indivíduo em CP, independentemente de sua idade ou condição de saúde, a fim de considerar a sua tomada de decisão informada, resguardados os princípios bioéticos dos códigos profissionais e das leis relacionadas ao tema.",
+   "A equipe deve promover a livre manifestação de preferências para tratamento nas condições de saúde irreversíveis e potencialmente terminais através de diretiva antecipada de vontade (DAV) da pessoa cuidada e realizar esforço coletivo para cumpri-la inquestionavelmente. Essa diretiva reforça a decisão compartilhada e deve ser expressa em testamento vital. Em caso de ausência do documento ou divergência entre os familiares, o caso deve ser levado ao Comitê de Bioética da instituição.",
+   "Nas últimas semanas, muitos pacientes evoluem com piora funcional progressiva demandando cuidado mais intensificado da enfermagem. O Parecer Normativo nº 1/2024/COFEN classifica o paciente em CP como paciente de cuidados de alta dependência (PCAD) com demanda de 10 horas de Enfermagem.",
+   "Durante a assistência do paciente com CP nas Redes de Assistência à Saúde, deve-se estimular a aporofobia e evitar o capacitismo. A oferta do uso de soluções de telessaúde pode evitar deslocamentos e procedimentos desnecessários à pessoa cuidada."
+  ],
+  "gab": 3,
+  "tema": "idoso",
+  "sub": "Cuidados paliativos",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Parecer Normativo COFEN 1/2024, item 2.5; Portaria GM/MS 3.681/2024 (Política Nacional de Cuidados Paliativos)",
+  "coment": "O Parecer Normativo COFEN 1/2024, que hoje traz os parâmetros de dimensionamento, define o paciente de cuidados de alta dependência (PCAD) como crônico, incluindo o de cuidado paliativo, estável do ponto de vista clínico, mas com total dependência da enfermagem, e atribui a ele 10 horas de enfermagem por dia. As demais erram: no mundo, a maior demanda adulta por paliativos vem de doenças cardiovasculares e câncer; a autonomia não é independente de idade e capacidade; a diretiva antecipada não é cumprida de forma inquestionável nem exige testamento vital; e a aporofobia deve ser combatida, não estimulada.",
+  "porAlt": [
+   "Na estimativa global da OMS, a maior demanda adulta vem das doenças cardiovasculares, seguidas do câncer, e não do câncer seguido de HIV e causas externas.",
+   "A autonomia depende da capacidade de decidir; em crianças e incapazes a decisão envolve representantes, não vale independentemente da idade.",
+   "A diretiva antecipada orienta a equipe, mas não é cumprida de forma inquestionável nem exige testamento vital.",
+   "Correta: o PN COFEN 1/2024 enquadra o paciente em cuidado paliativo, estável e dependente, como PCAD, com 10 horas de enfermagem.",
+   "Aporofobia é aversão a pessoas pobres e deve ser combatida, nunca estimulada."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 29,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nas Diretrizes Brasileiras para o Rastreamento do Câncer de Colo do Útero (Portaria Conjunta SAES/SECTICS Nº 13/2025) e Protocolos Clínicos e Diretrizes Terapêuticas de Profilaxia pós-exposição (Brasil, 2024), analise as afirmativas seguintes.\nI. Maria, com 55 anos, teve resultado positivo molecular para HPV-16. Ela deve ser encaminhada à colposcopia. Em caso de doença cervical, deve seguir conduta específica.\nII. Sônia, com 25 anos, PVHIV, teve resultado positivo molecular para HPV oncogênico 31. Ela deve ser encaminhada à colposcopia e, caso não tenha doença cervical, o teste deverá ser repetido em 1 ano.\nIII. Sophya, 9 anos, pessoa com deficiência intelectual, imunossuprimida pelo uso de drogas imunossupressoras, nunca vacinou para HPV, foi vítima de violência sexual executada por homem desconhecido que passava na rua e pulou o muro, episódio flagrado pelas câmeras após 2h do ocorrido. Deverá realizar esquema de 3 doses (0, 2 e 6 meses). Orientar fazer sorologias da menor e iniciar profilaxia pré-exposição conforme sua idade.\nIV. Aurora, 59 anos, não fazia PCCU devido a viuvez há 5 anos e dificuldade de coleta (pós-menopausa). Apresentou resultado positivo molecular para outro tipo de HPV (sem ser 16 ou 18), a citologia reflexa apresentou como resultado ASC-US: células escamosas atípicas de significado indeterminado e a colposcopia não evidenciou doença cervical. Foi orientada a repetir a colposcopia em 5 anos.\nV. Patrícia e Roberta são gêmeas, com 30 anos. A primeira é homem transgênero e optou pela autocoleta, tendo como resultado inconclusivo no seu teste molecular para HPV; enquanto a segunda, cisgênero, optou pela coleta na UBS e seu resultado foi negativo. A orientação que deve ser dada é que Patrícia repita o teste na UBS imediatamente e Roberta repita em 5 anos.\nSobre as afirmativas, é correto afirmar:",
+  "alts": [
+   "Todas são verdadeiras.",
+   "Todas são falsas.",
+   "Apenas III e IV são falsas.",
+   "Apenas V é falsa.",
+   "Apenas I e V são verdadeiras."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Portaria Conjunta SAES/SECTICS 13/2025 (Diretrizes de rastreamento do câncer do colo do útero); IN do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "Nas diretrizes de 2025, o rastreamento usa DNA-HPV com genotipagem dos 25 aos 64 anos, a cada 5 anos se negativo; HPV 16 ou 18 vai direto à colposcopia (I verdadeira). O item III é falso: a vítima de violência sexual recebe profilaxia pós-exposição, não pré-exposição; o esquema de 3 doses de HPV (0, 2 e 6 meses) para imunossuprimidos de 9 a 45 anos está na IN do calendário de 2026. O item IV é falso: outro tipo de HPV com ASC-US e colposcopia sem lesão volta a novo teste em intervalo curto, não a colposcopia em 5 anos. A banca considerou verdadeiros II e V.",
+  "porAlt": [
+   "Considera verdadeiro o item III, que indica profilaxia pré-exposição a vítima de violência sexual.",
+   "Considera falso o item I, mas HPV 16 positivo encaminha diretamente à colposcopia.",
+   "Correta: III (PrEP no lugar de PEP) e IV (colposcopia em 5 anos) são os únicos itens falsos.",
+   "Deixa de reconhecer os erros dos itens III e IV e marca o V, que a banca considerou verdadeiro.",
+   "Considera falsos II, III e IV; a banca considerou o item II verdadeiro."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A ileostomia é a criação cirúrgica de uma abertura para o íleo ou para o intestino delgado, a fim de possibilitar o desvio de drenagem do conteúdo fecal (Brunner e Suddarth, 2020). O plano de cuidados de enfermagem no pós-operatório prevê",
+  "alts": [
+   "avaliar a frequência e característica do efluente líquido e contínuo que surgem entre o 3º e o 6º dias após a cirurgia. Avaliar a coloração do estoma e riscos de complicações.",
+   "avaliar queixa de náuseas e presença de distensão abdominal pelos cinco métodos propedêuticos no exame físico.",
+   "perceber que o balanço hídrico não é obrigatório no pós-operatório, pois a anestesia reduz o peristaltismo intestinal.",
+   "pesar diariamente, avaliar hidratação e os valores de sódio, potássio séricos e urinários.",
+   "orientar a limpeza, cuidado com a pele (promover a barreira cutânea) e troca de bolsa. Desencorajar posições sexuais alternativas, estimular verbalização de dúvidas e orientar terapeuta sexual."
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Estomias e cuidados",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, edição de 2020 (cuidados na ileostomia)",
+  "coment": "O efluente da ileostomia é líquido e contínuo, rico em água, sódio e potássio, e o débito pode ser alto nos primeiros dias. O risco central do pós-operatório é desidratação e distúrbio hidroeletrolítico. Por isso o plano prevê peso diário, avaliação da hidratação, balanço hídrico e controle do sódio e do potássio séricos e urinários. O débito da ileostomia começa cedo, e o prazo de 3 a 6 dias é o da colostomia. O exame do abdome usa quatro técnicas, não cinco. O balanço hídrico é indispensável. Na orientação sexual, o cuidado é acolher e orientar, sem desencorajar posições alternativas.",
+  "porAlt": [
+   "O início do débito entre o 3º e o 6º dia é próprio da colostomia; a ileostomia drena cedo.",
+   "O exame físico do abdome usa quatro técnicas propedêuticas, não cinco.",
+   "O balanço hídrico é essencial na ileostomia, pela grande perda de água e eletrólitos.",
+   "Correta: peso diário, hidratação e sódio e potássio séricos e urinários vigiam a desidratação, principal risco da ileostomia.",
+   "Desencorajar posições sexuais alternativas contraria a orientação, que é acolher e adaptar."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo o Guia de Vigilância em Saúde (Brasil, 2024), a doença viral aguda causada pelo vírus da família Rubulavírus, gênero Paramyxovirus, que cursa com febre, dor, sensibilidade e aumento de volume de uma ou mais glândulas salivares, é",
+  "alts": [
+   "sarampo.",
+   "difteria.",
+   "caxumba.",
+   "febre oropouche.",
+   "varíola."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guia de Vigilância em Saúde, Ministério da Saúde, 2024 (edição citada pela banca); Portaria GM/MS 11.211/2026",
+  "coment": "Febre com dor, sensibilidade e aumento de volume de uma ou mais glândulas salivares, sobretudo as parótidas, é o quadro da caxumba (parotidite epidêmica). O vírus é da família Paramyxoviridae, gênero Rubulavirus (hoje Orthorubulavirus); o enunciado inverte família e gênero, erro mantido do caderno. A caxumba foi incluída na lista nacional de notificação compulsória pela Portaria GM/MS 11.211/2026. É doença imunoprevenível pela vacina tríplice viral.",
+  "porAlt": [
+   "Sarampo cursa com exantema, febre, tosse, coriza e conjuntivite, não com aumento das salivares.",
+   "Difteria é bacteriana, com placas pseudomembranosas na orofaringe.",
+   "Correta: aumento doloroso das glândulas salivares com febre define a caxumba.",
+   "A febre do Oropouche é arbovirose transmitida por maruim, com febre, cefaleia e mialgias.",
+   "A varíola, erradicada, causava exantema vesicopustular, não parotidite."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A morfina é um opioide forte, comumente administrado pela enfermagem na prática clínica. Quanto aos cuidados de enfermagem a um paciente idoso em uso de morfina sob infusão contínua, analise as assertivas seguintes.\nI. Avaliar o risco de intoxicação por opioide na busca de miose bilateral, sedação e depressão respiratória (FR < 10 ipm).\nII. Avaliar sinais vitais, ausculta pulmonar e avaliar a necessidade de aspiração.\nIII. Checar o funcionamento e a programação de bomba infusora.\nIV. Avaliar a frequência e o aspecto das fezes diante do risco de constipação.\nV. Avaliar as queixas de náuseas e vômitos e a aceitação da dieta em pacientes sedados.\nSobre as assertivas, é correto afirmar:",
+  "alts": [
+   "Todas são verdadeiras.",
+   "Todas são falsas.",
+   "Apenas a I é falsa.",
+   "Apenas a IV é falsa.",
+   "Apenas a V é falsa."
+  ],
+  "gab": 4,
+  "tema": "farmaco",
+  "sub": "Medicamentos de alta vigilância",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, edição de 2020 (analgesia com opioides)",
+  "coment": "Morfina em infusão contínua é medicamento de alta vigilância, e o idoso tem mais risco de depressão respiratória. Os itens I a IV estão certos: vigiar miose, sedação e frequência respiratória abaixo de 10 ipm; monitorar sinais vitais, ausculta e necessidade de aspiração; conferir a programação da bomba; e acompanhar as evacuações, porque a constipação é efeito adverso quase universal dos opioides. O item V é falso porque pede avaliar queixas de náusea em paciente sedado, que não consegue relatá-las. No sedado, observam-se vômito, distensão e tolerância da dieta.",
+  "porAlt": [
+   "Nem todas são verdadeiras: o item V pede avaliar queixas em paciente sedado, que não consegue relatá-las.",
+   "Os itens I a IV são cuidados corretos com a morfina em infusão contínua.",
+   "O item I é verdadeiro: miose, sedação e FR abaixo de 10 ipm são sinais de intoxicação por opioide.",
+   "O item IV é verdadeiro: a constipação é efeito adverso esperado dos opioides e deve ser monitorada.",
+   "Correta: só o item V é falso, porque paciente sedado não relata náusea; os demais são cuidados corretos."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O pênfigo vulgar caracteriza-se pelo surgimento de lesões bolhosas irregulares, dolorosas, friáveis em pele e mucosas, aparentemente, normais. Elas tendem a aumentar de tamanho, sofrem ruptura e deixam grandes áreas erodidas e dolorosas, com odor e que demoram a cicatrizar (Brunner e Suddarth, 2020). No histopatológico, evidencia-se acantólise. O pênfigo é uma doença",
+  "alts": [
+   "metabólica.",
+   "herdada.",
+   "genética.",
+   "infecciosa.",
+   "autoimune."
+  ],
+  "gab": 4,
+  "tema": "feridas",
+  "sub": "Fisiologia da cicatrização",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, edição de 2020 (pênfigo)",
+  "coment": "O pênfigo vulgar é doença autoimune: autoanticorpos IgG contra as desmogleínas, proteínas dos desmossomos que unem os queratinócitos, desfazem a adesão entre as células da epiderme. Essa perda de adesão é a acantólise do histopatológico e explica as bolhas frágeis em pele e mucosas que se rompem e deixam erosões dolorosas. O tratamento é com imunossupressores e corticoide, e a enfermagem cuida das áreas erodidas, da dor, do risco de infecção e do balanço hídrico.",
+  "porAlt": [
+   "Não é doença metabólica; o mecanismo é imunológico, com autoanticorpos contra os desmossomos.",
+   "Não é doença herdada; surge pela produção de autoanticorpos, em geral na vida adulta.",
+   "Não é doença genética monogênica; há predisposição, mas o mecanismo é autoimune.",
+   "Não é infecciosa nem contagiosa, embora as erosões possam se infectar secundariamente.",
+   "Correta: autoanticorpos contra as desmogleínas causam a acantólise e as bolhas do pênfigo vulgar."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em 2025, de 1 de janeiro a 3 de maio, foram confirmados 62 casos de doença meningocócica (DM), sendo que sete evoluíram a óbito pela doença no estado do Pará. Entre os casos confirmados, 75% eram do sorogrupo “B”. O município de Belém concentrou a maioria dos casos (59,7%) (Nota Técnica Conjunta nº 2/2025-SAPS-SVSA/MS). Sobre a DM, é correto afirmar:",
+  "alts": [
+   "É definido como contato próximo aquele indivíduo que teve contato direto e prolongado com o caso suspeito ou confirmado de doença meningocócica e doença invasiva por Hib, com exposição direta às gotículas de secreções respiratórias, considerando dois momentos: retrospectivo (do início dos sinais e sintomas do caso até 24h) ou prospectivo (até 24 após início do tratamento).",
+   "O esquema de vacinação é D1 no 3º mês e D2 no 5º mês com vacina meningocócica C (conjugada), seguida de reforço ao 12º mês com ACWY (conjugada). Aquelas crianças que perderam a dose de reforço poderão fazê-la até os 4 anos, 11 meses e 29 dias.",
+   "A indicação de vacinação a um profissional microbiologista rotineiramente exposto a isolamento de Neisseria meningitidis deve ser a imunização primária de 1 dose com único reforço após 5 anos.",
+   "São manifestações locais da vacina ACWY dor/hiperestesia, hiperemia e edema limitando-se a 10 dias; enquanto as manifestações sistêmicas são febre baixa a moderada, irritabilidade, sonolência, hiporexia limitando-se a 30dias.",
+   "Atualmente, a vacina ACWY está disponível a indivíduos de 9-14 anos."
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), vacinas men C e men ACWY",
+  "coment": "A IN do Calendário Nacional de Vacinação 2026 mantém a meningocócica C em 2 doses, aos 3 e aos 5 meses, com reforço aos 12 meses feito com a men ACWY; a criança em atraso pode ser vacinada até 4 anos, 11 meses e 29 dias. Para adolescentes, a men ACWY é indicada de 11 a 14 anos, 11 meses e 29 dias, e não a partir dos 9 anos, por isso E está errada. A definição de contato próximo, a indicação para quem trabalha com Neisseria meningitidis em laboratório e os prazos de eventos adversos das alternativas não coincidem com as orientações do Ministério da Saúde.",
+  "porAlt": [
+   "A banca considerou incorreta essa definição de contato próximo, que mistura a doença invasiva por Hib e impõe janelas de 24 horas.",
+   "Correta: men C aos 3 e 5 meses, reforço com men ACWY aos 12 meses e atualização até 4 anos, 11 meses e 29 dias (IN 2026).",
+   "Profissional de laboratório exposto à Neisseria tem indicação especial nos CRIE com revacinação enquanto durar a exposição, não um reforço único.",
+   "Os eventos adversos da vacina conjugada são leves e autolimitados em poucos dias; os prazos de 10 e 30 dias não procedem.",
+   "A men ACWY para adolescentes é indicada de 11 a 14 anos, não de 9 a 14 anos."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A gravidade da infração cometida pelo profissional de enfermagem é caracterizada por meio da análise dos fatos, atos praticados, omissivos e dos resultados. De acordo com os tipos de infrações descritos na Resolução Cofen nº 564/2017, analise as afirmativas a seguir:\nI. Infrações leves envolvem alteração temporária de membros, sentido ou função na pessoa ou relacionadas a danos mentais, morais, patrimoniais ou financeiros.\nII. Infrações moderadas estão relacionadas a ofensas quanto à integridade física, mental ou moral de qualquer pessoa.\nIII. Infrações graves provocam perigo de morte, debilidade permanente de membro, sentido ou função, dano moral irremediável na pessoa ou provoca danos mentais, morais, patrimoniais ou financeiros.\nIV. Infrações gravíssimas provocam morte, debilidade permanente de membro, sentido ou função, dano moral irremediável na pessoa.\nEstão corretas",
+  "alts": [
+   "I e IV, somente.",
+   "II e III, somente.",
+   "III e IV, somente.",
+   "I, II e III, somente.",
+   "I, II e IV, somente."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 564/2017, art. 111",
+  "coment": "O art. 111 da Res. COFEN 564/2017 classifica a infração pelo resultado. Leve: ofende a integridade física, mental ou moral sem causar debilidade, difama organizações da categoria ou causa dano patrimonial ou financeiro. Moderada: debilidade temporária de membro, sentido ou função, ou danos mentais, morais, patrimoniais ou financeiros. Grave: perigo de morte, debilidade permanente, dano moral irremediável ou danos mentais, morais, patrimoniais ou financeiros (item III). Gravíssima: morte, debilidade permanente ou dano moral irremediável (item IV). Os itens I e II trocam leve e moderada.",
+  "porAlt": [
+   "Inclui o item I, que descreve a infração moderada (alteração temporária) como leve.",
+   "Inclui o item II, que descreve a infração leve (ofensa à integridade) como moderada.",
+   "Correta: grave e gravíssima estão descritas como no art. 111, §§ 3º e 4º, da Res. COFEN 564/2017.",
+   "Inclui os itens I e II, que invertem as definições de infração leve e moderada.",
+   "Inclui os itens I e II, que trocam leve por moderada, e omite o item III."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A identificação de um diagnóstico de enfermagem envolve a decisão e a priorização dos principais diagnósticos. Apesar de poder utilizá-los de forma simultânea, é necessário levar em consideração a realidade da carga de trabalho do profissional. Uma das formas de priorizar os diagnósticos está relacionada à Hierarquia de Necessidades de Maslow (NANDA 2024-2026). Com base na ordem de priorização de Maslow, analise o caso clínico hipotético abaixo.\n“Paciente, 55 anos, casado, foi internado após queda, apresentou fratura de fêmur. No momento está inapetente, sentindo-se impotente devido à fratura, ansioso por não estar com a família e não tem conseguido dormir”.\nO diagnóstico de enfermagem mais adequado e a necessidade humana básica nesse caso são:",
+  "alts": [
+   "Risco de queda no adulto/ Necessidade de segurança.",
+   "Ingestão nutricional inadequada/Necessidade fisiológica.",
+   "Risco de solidão excessiva/Necessidade de autorrealização.",
+   "Autoestima inadequada situacional/ Necessidade de autoestima.",
+   "Ansiedade excessiva/ Necessidade psicológica."
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NANDA-I, Diagnósticos de Enfermagem: definições e classificação 2024-2026 (13ª ed.)",
+  "coment": "Pela hierarquia de Maslow, as necessidades fisiológicas vêm antes de segurança, amor e pertencimento, estima e autorrealização. O paciente está inapetente, o que leva ao diagnóstico Ingestão nutricional inadequada, título da 13ª edição da NANDA-I, ligado à necessidade fisiológica. Por isso ele tem prioridade sobre a ansiedade, a impotência e a solidão. Risco de queda não cabe como prioridade, porque a queda já ocorreu e o quadro atual traz problemas reais. A insônia também é fisiológica, mas não está entre as opções.",
+  "porAlt": [
+   "Segurança vem depois das necessidades fisiológicas, e o caso traz problemas reais mais prioritários.",
+   "Correta: a inapetência leva a Ingestão nutricional inadequada, ligada à necessidade fisiológica, a primeira de Maslow.",
+   "Solidão se liga a amor e pertencimento, não a autorrealização, e não é a prioridade pela hierarquia.",
+   "Autoestima fica no quarto nível de Maslow; necessidades fisiológicas vêm antes.",
+   "A ansiedade existe, mas não é necessidade fisiológica; pela hierarquia, a nutrição tem prioridade."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente, 58 anos, com Diabetes Mellitus, faz uso de 5 medicações, refere boca seca e com fissura labial e por isso tem dificuldade de falar e se alimentar. Já apresentou há 8 meses a mesma queixa. Foi orientado a buscar um odontólogo, mas informa que não tem acesso por não ter condições de pagar e o posto de saúde não dispõe desse profissional. O enfermeiro diagnosticou como “Autogestão ineficaz da boca seca”. Quanto aos possíveis componentes do diagnóstico de enfermagem (NANDA 2024-2026) do caso clínico hipotético, analise as afirmativas a seguir.\nI. Indivíduos com história de autogestão ineficaz da saúde - População em risco.\nII. Acesso inadequado a atendimento odontológico - Fator relacionado.\nIII. Boca seca com fissura labial - População em risco.\nIV. Diabetes Mellitus e polifarmácia - Condições associadas.\nEstão corretas",
+  "alts": [
+   "I e IV, apenas.",
+   "II e III, apenas.",
+   "III e IV, apenas.",
+   "I, II e III, apenas.",
+   "I, II e IV, apenas."
+  ],
+  "gab": 4,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "NANDA-I, Diagnósticos de Enfermagem: definições e classificação 2024-2026 (13ª ed.)",
+  "coment": "Na estrutura da NANDA-I, características definidoras são os sinais e sintomas observáveis; fatores relacionados são causas modificáveis pela enfermagem; população em risco reúne características de grupo que o enfermeiro não modifica (como história prévia); condições associadas são diagnósticos médicos, doenças e tratamentos. Assim, a história de autogestão ineficaz é população em risco (I), a falta de acesso ao dentista é fator relacionado (II), e diabetes e polifarmácia são condições associadas (IV). Boca seca com fissura labial é característica definidora, não população em risco, por isso o item III é falso.",
+  "porAlt": [
+   "Omite o item II: a falta de acesso ao atendimento odontológico é fator relacionado modificável.",
+   "Inclui o item III, falso: boca seca com fissura labial é característica definidora, não população em risco.",
+   "Inclui o item III, falso, e omite os itens I e II.",
+   "Inclui o item III, que classifica um sinal clínico como população em risco.",
+   "Correta: história prévia (população em risco), falta de acesso (fator relacionado) e DM com polifarmácia (condições associadas)."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente, 44 anos, deu entrada na consulta de enfermagem com queixa de dor facial intensa em pontadas. Ao exame físico, apresentou sensibilidade alterada nos ramos maxilar e mandibular, reflexo corneano alterado e movimentos de mastigação preservados. Considerando o caso clínico hipotético e a avaliação dos nervos cranianos, é correto afirmar que o paciente apresenta",
+  "alts": [
+   "lesão em par V - nervo trigêmeo, considerado nervo misto, com raiz motora e sensitiva.",
+   "lesão em par VII - nervo facial, relacionada às fibras sensitivas que inervam as glândulas salivares.",
+   "lesão em par VIII - nervo vestibulococlear, responsável pelo reflexo corneano.",
+   "lesão em par X - nervo vago, caracterizado por ser nervo misto, relacionado aos ramos axilar e mandibular.",
+   "lesão em par III, IV e VI - nervo oculomotor, nervo troclear e nervo abducente, responsáveis pela motricidade ocular."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, edição de 2020 (avaliação dos nervos cranianos)",
+  "coment": "O nervo trigêmeo (V par) é misto. A raiz sensitiva tem três ramos: oftálmico (V1), maxilar (V2) e mandibular (V3), responsáveis pela sensibilidade da face. O V1 é a via aferente do reflexo corneano. A raiz motora inerva os músculos da mastigação. Dor facial intensa em pontadas, alteração da sensibilidade em V2 e V3 e reflexo corneano alterado apontam para o trigêmeo, mesmo com a mastigação preservada. O facial (VII) é a via eferente do reflexo corneano, mas não dá sensibilidade à face.",
+  "porAlt": [
+   "Correta: dor e alteração sensitiva em V2 e V3 com reflexo corneano alterado indicam o trigêmeo, nervo misto.",
+   "O facial (VII) é motor da mímica e não dá sensibilidade aos territórios maxilar e mandibular.",
+   "O vestibulococlear (VIII) cuida da audição e do equilíbrio, não do reflexo corneano.",
+   "O vago (X) inerva faringe, laringe e vísceras; maxilar e mandibular são ramos do trigêmeo.",
+   "III, IV e VI movem os olhos; não explicam a dor e a alteração sensitiva da face."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente, 58 anos, sexo feminino, com diagnóstico de Diabetes Mellitus. Tem apresentado episódios ocasionais de dor torácica leve durante esforços maiores como subir escada. Histórico familiar de hipertensão arterial. É tabagista há 20 anos. Exame físico: circunferência abdominal de 103 cm, obesa, PA: 138/87 mmHg (realizada três vezes no período de 7 dias), FC: 84 bpm, bulhas cardíacas normofonéticas em 2 tempos, sem sopros e ausculta pulmonar sem ruídos adventícios. Exames laboratoriais: LDL 230 mg/dL. Sendo assim, considerando o caso clínico hipotético e a Portaria nº 49/2025 (Protocolo Clínico e Diretrizes Terapêuticas da Hipertensão Arterial Sistêmica), que aborda o fluxograma de tratamento, analise as afirmativas a seguir.\nI. A paciente apresenta pressão normal alta e risco cardiovascular alto, devendo fazer parte do protocolo de tratamento da hipertensão arterial sistêmica.\nII. Apresenta risco cardiovascular alto devido a ter Diabetes Mellitus, histórico familiar de hipertensão arterial, circunferência abdominal elevada, pressão arterial alta e LDL elevado.\nIII. Apresenta risco cardiovascular baixo como o valor da pressão arterial, não sendo necessária a utilização de medicamento, mas deve fazer o acompanhamento entre 3 e 6 meses.\nIV. Devido à paciente apresentar fatores de risco para doenças cardiovasculares, o profissional realizou o protocolo correto de aferir em mais de duas ocasiões, em um intervalo de 7 dias.\nEstão corretas",
+  "alts": [
+   "I e IV, apenas.",
+   "II e III, apenas.",
+   "III e IV, apenas.",
+   "I, II e III, apenas.",
+   "I, II e IV, apenas."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria SECTICS/MS 49/2025 (PCDT da Hipertensão Arterial Sistêmica); Diretriz Brasileira de Hipertensão Arterial 2025",
+  "coment": "PA de 138/87 mmHg está na faixa de 130 a 139 por 85 a 89, chamada pressão normal alta (pré-hipertensão na diretriz de 2025). A paciente tem risco cardiovascular alto: diabetes, LDL acima de 190 mg/dL, tabagismo e obesidade abdominal, além de dor torácica aos esforços. Nessa faixa com risco alto, os protocolos indicam acompanhar e considerar tratamento medicamentoso se as medidas não medicamentosas falharem. Por isso o item III, que fala em risco baixo, é falso. A aferição em mais de uma ocasião confirma a classificação (IV). A banca deu I, II e IV.",
+  "porAlt": [
+   "Omite o item II, que a banca considerou correto ao listar os fatores de risco cardiovascular.",
+   "Inclui o item III, falso: com diabetes, LDL de 230 mg/dL e tabagismo, o risco não é baixo.",
+   "Inclui o item III, que classifica como baixo um risco claramente alto.",
+   "Inclui o item III, falso, e omite o item IV, sobre aferição em mais de uma ocasião.",
+   "Correta: pressão normal alta com risco alto (I), fatores de risco (II) e confirmação em mais de uma ocasião (IV)."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O diagnóstico laboratorial de Diabetes Mellitus tipo 2 baseia-se na detecção de hiperglicemia. O enfermeiro deve orientar quais são os cuidados necessários antes da realização dos exames. Em um dos exames, o paciente deve ingerir, no mínimo, 150 gramas de carboidrato por dia nos três dias prévios ao exame, para conferir confiabilidade na interpretação do resultado desse teste (Brasil, 2024/Portaria Nº 7/2024). Assinale a alternativa que apresenta o tipo de exame a ser realizado nesse caso.",
+  "alts": [
+   "Glicemia em jejum.",
+   "Teste oral de tolerância à glicose.",
+   "Hemoglobina glicada.",
+   "Glicemia pós-prandial.",
+   "Glicemia casual."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Portaria SECTICS/MS 7/2024 (PCDT do Diabetes Mellitus tipo 2)",
+  "coment": "O preparo com ingestão mínima de 150 g de carboidrato por dia nos três dias anteriores é exigência do teste oral de tolerância à glicose. A restrição de carboidrato antes do exame reduz a resposta insulínica e pode produzir uma curva falsamente alterada. O TOTG mede a glicemia em jejum e 2 horas após a ingestão de 75 g de glicose anidra. Jejum de 8 horas é preparo da glicemia de jejum. A hemoglobina glicada não exige jejum nem dieta prévia, e a glicemia casual é colhida a qualquer hora.",
+  "porAlt": [
+   "A glicemia de jejum exige jejum de 8 horas, não dieta prévia com carboidrato.",
+   "Correta: a sobrecarga prévia de carboidrato garante confiabilidade ao teste oral de tolerância à glicose.",
+   "A hemoglobina glicada não depende de jejum nem de preparo dietético.",
+   "A glicemia pós-prandial não exige três dias de dieta com 150 g de carboidrato.",
+   "A glicemia casual é colhida a qualquer momento, sem preparo."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O envelhecimento é um processo dinâmico e progressivo que, em cada organismo, tem seu próprio ritmo, sendo influenciado por fatores genéticos, condições de saúde física e mental e condições ambientais e sociais. No envelhecimento, há um declínio progressivo na reserva fisiológica dos sistemas orgânicos, com consequente perda das reservas homeostáticas (FREITAS, 2022). Com base no assunto, assinale a alternativa que apresenta as alterações fisiológicas do envelhecimento.",
+  "alts": [
+   "Redução da síntese de vitamina D e do número de papilas gustativas.",
+   "Flexibilidade do cristalino sem alteração e diminuição da resposta à eritropoetina.",
+   "Perda de fibras motoras, sensoriais e sem alterações autonômicas.",
+   "Redução da absorção de vitamina B12 e cálcio e diminuição do volume do átrio esquerdo.",
+   "Diminuição dos níveis de hormônio antidiurético (ADH) e redução da taxa de filtração glomerular."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Freitas e Py, Tratado de Geriatria e Gerontologia, 2022",
+  "coment": "No envelhecimento, a pele produz menos vitamina D sob o sol, pela redução do 7-desidrocolesterol, e o número de papilas gustativas diminui, o que altera o paladar. As outras alternativas misturam um dado certo com um errado. O cristalino perde flexibilidade (presbiopia). Há alterações autonômicas, como a hipotensão ortostática. O átrio esquerdo tende a aumentar, não a diminuir. O hormônio antidiurético não diminui; o que cai é a resposta renal a ele, junto com a taxa de filtração glomerular.",
+  "porAlt": [
+   "Correta: a síntese cutânea de vitamina D e o número de papilas gustativas diminuem com a idade.",
+   "O cristalino perde flexibilidade no envelhecimento, causa da presbiopia.",
+   "Há alterações autonômicas no idoso, como a hipotensão ortostática.",
+   "O átrio esquerdo tende a aumentar com a idade, não a diminuir.",
+   "O ADH não diminui; cai a resposta renal a ele. A redução da filtração glomerular é real, mas a alternativa erra no ADH."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente, 70 anos, sexo masculino, reside em uma instituição de longa permanência para idosos. Está acamado há 25 dias devido a um acidente vascular encefálico. Foram solicitados alguns exames identificando déficit cognitivo médio e múltiplas contraturas, lesão por pressão na região sacral e disfagia leve. Com base no caso clínico hipotético e nas alterações encontradas após os exames, é correto afirmar que esse paciente apresenta",
+  "alts": [
+   "imobilidade.",
+   "síndrome da imobilidade.",
+   "alteração de humor.",
+   "sarcopenia.",
+   "declínio da atividades de vida diária."
+  ],
+  "gab": 1,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Freitas e Py, Tratado de Geriatria e Gerontologia, 2022 (síndrome da imobilidade)",
+  "coment": "Na literatura geriátrica brasileira, a síndrome da imobilidade exige dois critérios maiores, déficit cognitivo moderado a grave (o caso fala em médio) e múltiplas contraturas, e pelo menos dois critérios menores: sinais de sofrimento cutâneo ou lesão por pressão, disfagia leve a grave, dupla incontinência e afasia. O idoso acamado há 25 dias por AVE tem os dois maiores, além de lesão por pressão sacral e disfagia leve. Imobilidade isolada é só a restrição de movimento, sem esse conjunto de critérios.",
+  "porAlt": [
+   "Imobilidade é a restrição do movimento; o conjunto de critérios maiores e menores define a síndrome.",
+   "Correta: déficit cognitivo e múltiplas contraturas (maiores) com lesão por pressão e disfagia (menores) fecham a síndrome da imobilidade.",
+   "O caso não descreve sintomas de humor; os achados são motores, cutâneos, cognitivos e de deglutição.",
+   "Sarcopenia é perda de massa e força muscular; não abrange contraturas, LP e disfagia como conjunto.",
+   "O declínio funcional é consequência, mas não é o diagnóstico sindrômico que os critérios definem."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os riscos ambientais relacionados aos agentes físicos, químicos e biológicos existentes nos ambientes de trabalho podem causar danos ao trabalhador, devido a sua natureza, concentração ou intensidade e tempo de exposição. Sendo assim, considerando as vias de transmissão e entrada de agentes biológicos a que o trabalhador estar exposto e as barreiras de segurança (Guia Técnico de Riscos Biológicos da NR-32, 2008), analise as afirmativas a seguir.\nI. A transmissão do agente biológico por contato com a mucosa dos olhos é considerada uma via de transmissão indireta, sem intermediação de veículos ou vetores.\nII. A transmissão do agente biológico por meio das mãos é considerada uma via de transmissão direta, com intermediação de veículos ou vetores.\nIII. As medidas de proteção quanto ao agente biológico dependem da identificação das vias de transmissão e do tipo de entrada.\nIV. Nas transmissões por via aérea, gotículas ou aerossóis, devem ser utilizadas barreiras como adoção de sistema de ar com pressão negativa, isolamento do paciente e uso de máscaras.\nEstão corretas",
+  "alts": [
+   "I e IV, somente.",
+   "II e III, somente.",
+   "III e IV, somente.",
+   "I, II e III, somente.",
+   "I, II e IV, somente."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Guia Técnico de Riscos Biológicos da NR-32, MTE, 2008",
+  "coment": "O Guia Técnico da NR-32 chama de transmissão direta a que ocorre sem intermediação de veículos ou vetores, como bioaerossóis, gotículas e contato com a mucosa dos olhos. Indireta é a que ocorre com intermediação de veículos ou vetores, como mãos, perfurocortantes, luvas, roupas, instrumentos, água, alimentos e superfícies. Por isso I e II são falsos: trocam direta por indireta. As medidas de proteção dependem da via de transmissão e da porta de entrada (III). Para via aérea, gotículas e aerossóis, as barreiras incluem pressão negativa, isolamento e máscaras (IV).",
+  "porAlt": [
+   "Inclui o item I, falso: o contato com a mucosa dos olhos é transmissão direta, sem veículo.",
+   "Inclui o item II, falso: as mãos funcionam como veículo, portanto a transmissão é indireta.",
+   "Correta: a proteção depende da via e da porta de entrada (III), e a via aérea exige pressão negativa, isolamento e máscara (IV).",
+   "Inclui os itens I e II, que trocam as definições de transmissão direta e indireta.",
+   "Inclui os itens I e II, que invertem as vias direta e indireta do Guia Técnico."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As orientações dadas aos pacientes que fazem uso de insulina devem ser realizadas pelos enfermeiros em todas as consultas. A técnica de aplicação deve ser revisada com o paciente e responsáveis pelo cuidado para prevenir erros de medicação, técnica adequada de preparo da medicação, utilização de materiais corretos, entre outros (Ministério da Saúde/Portaria nº 7/2024). Sendo assim, quanto aos cuidados na administração da insulina, assinale Verdadeiro (V) ou Falso (F) nas afirmativas a seguir.\n( ) Na prescrição de dois tipos de insulina, deve-se aspirar primeiro a insulina regular e depois a insulina NPH para que o frasco não receba protamina, presente na insulina NPH, e altere sua velocidade de absorção.\n( ) Deve-se manter uma distância mínima de 1,5 cm entre cada injeção, para evitar o desenvolvimento de lipodistrofia e o descontrole glicêmico.\n( ) Deve-se pinçar levemente o local de aplicação entre dois dedos e introduzir a agulha completamente, em ângulo de 90 graus, se a agulha for 25 x7.\n( ) Após a aplicação da insulina, deve-se aguardar 10 segundos, antes de retirar a agulha do tecido subcutâneo para garantir a administração completa da dose.\nA sequência correta é",
+  "alts": [
+   "F – F – V – V.",
+   "F – V – F – V.",
+   "V – F – V – F.",
+   "V – V – F – V.",
+   "F – V – F – F."
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Insulinas e anticoagulantes",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Portaria SECTICS/MS 7/2024 (PCDT do Diabetes Mellitus tipo 2), orientações de aplicação de insulina",
+  "coment": "Na mistura na mesma seringa, aspira-se primeiro a insulina regular (límpida) e depois a NPH (turva), para não contaminar o frasco da regular com protamina (V). A distância entre punções no rodízio previne a lipo-hipertrofia e a absorção irregular; o material citado pela banca fala em 1,5 cm (V). O terceiro item é falso: agulha 25 x 7 é intramuscular e não serve para insulina, que se aplica no subcutâneo com agulhas curtas. Manter a agulha no tecido alguns segundos após injetar, 10 segundos na referência da banca, garante a dose completa (V).",
+  "porAlt": [
+   "Marca como falso o preparo correto (regular antes da NPH) e aceita a agulha 25 x 7, que é intramuscular.",
+   "Marca como falsa a ordem de aspiração, mas a regular é aspirada antes da NPH para não receber protamina.",
+   "Aceita a agulha 25 x 7, que levaria a insulina ao músculo, e nega a espera antes de retirar a agulha.",
+   "Correta: regular antes da NPH (V), distância entre punções (V), agulha 25 x 7 inadequada (F) e espera antes de retirar (V).",
+   "Nega a ordem correta de aspiração e a espera de alguns segundos que garante a dose completa."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente, 57 anos, deu entrada no atendimento de urgência com cefaleia intensa há 3 dias e rigidez na nuca. O enfermeiro realizou o exame físico posicionando o paciente em decúbito dorsal com flexão da coxa sobre o quadril. Ao tentar estender a perna, sentiu resistência dolorosa, identificando prova positiva para comprometimento meningorradicular. Com base no caso clínico hipotético e no achado do exame físico, é correto afirmar que esse paciente apresenta",
+  "alts": [
+   "sinal de Kernig.",
+   "sinal de Brudzinski.",
+   "sinal de Romberg.",
+   "sinal de Mingazzini.",
+   "sinal de Barré."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, edição de 2020 (sinais de irritação meníngea)",
+  "coment": "No sinal de Kernig, com o paciente em decúbito dorsal e a coxa fletida sobre o quadril, a tentativa de estender a perna provoca resistência e dor, pelo estiramento das raízes inflamadas. É exatamente a manobra descrita. No sinal de Brudzinski, a flexão passiva do pescoço provoca flexão involuntária dos quadris e joelhos. Romberg avalia o equilíbrio de pé com olhos fechados. Mingazzini e Barré são provas de déficit motor nos membros. Cefaleia intensa e rigidez de nuca com Kernig positivo sugerem meningite ou hemorragia subaracnóidea.",
+  "porAlt": [
+   "Correta: dor e resistência ao estender a perna com a coxa fletida definem o sinal de Kernig.",
+   "Brudzinski é a flexão involuntária dos membros inferiores ao fletir o pescoço, não a manobra descrita.",
+   "Romberg avalia o equilíbrio em pé com olhos fechados, não a irritação meníngea.",
+   "Mingazzini é prova de déficit motor, com queda do membro mantido em posição contra a gravidade.",
+   "Barré é prova de paresia dos membros inferiores em decúbito ventral, não sinal meníngeo."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem",
+   "n": 50,
+   "parte": "especificas"
+  }
+ }
+]

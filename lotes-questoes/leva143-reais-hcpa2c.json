@@ -1,0 +1,1292 @@
+[
+ {
+  "q": "A insulina está entre os principais medicamentos definidos pela Organização Mundial da Saúde como potencialmente perigosos, pois falhas na sua utilização podem resultar em danos significativos, incluindo a morte. O enfermeiro deve realizar capacitação inicial para paciente/família com indicação de uso de insulina e manter-se vigilante nas consultas de enfermagem subsequentes, orientando",
+  "alts": [
+   "o rodízio na aplicação da insulina é recomendado somente em casos de lipodistrofias.",
+   "para gestantes a partir do último trimestre de gravidez, aconselhar aplicações na região abdominal.",
+   "recomendar seringas com agulhas fixas, com graduação adequada ao número de unidades de insulina diária.",
+   "sempre que possível a insulina deve ser acondicionada em sua embalagem original, na porta do refrigerador."
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Insulinas e anticoagulantes",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Cadernos de Atenção Básica nº 36, Diabetes Mellitus (Ministério da Saúde, 2013); Diretriz da Sociedade Brasileira de Diabetes, edição 2024 (insulinoterapia)",
+  "coment": "A seringa com agulha fixa não tem espaço morto, por isso mede e mistura doses sem perda de insulina, e a escala deve ser compatível com a dose diária para leitura precisa das unidades. O rodízio dos locais de aplicação é rotina para todos, porque previne a lipo-hipertrofia, que torna a absorção irregular. O frasco fica na geladeira, fora da porta, onde a temperatura oscila a cada abertura; o frasco em uso pode ficar em temperatura ambiente pelo prazo da bula. Na gestante no último trimestre, o abdome central é poupado e, se usado, só nas laterais com prega, por isso não se aconselha a região abdominal.",
+  "porAlt": [
+   "Errada: o rodízio é rotina para todos os usuários, justamente para prevenir a lipo-hipertrofia, e não só depois que ela aparece.",
+   "Errada: no último trimestre a orientação é poupar o abdome central, preferindo outras regiões ou as laterais com prega cutânea.",
+   "Correta: a agulha fixa elimina o espaço morto e a escala compatível com a dose dá leitura precisa das unidades.",
+   "Errada: a porta da geladeira tem a maior oscilação de temperatura; o frasco fica nas prateleiras, longe do congelador."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 18,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O câncer de colo uterino está em quarto lugar dentre os tipos de câncer que acometem a população feminina no Brasil. Os enfermeiros têm importante papel na ampliação do rastreamento e monitoramento da população adscrita, realizando busca ativa das mulheres, de modo a impactar positivamente na redução da morbimortalidade por câncer de colo uterino. Com relação à periodicidade para realização do exame citopatológico de colo do útero, correlacione as colunas da tabela abaixo.\nColuna I\n1. Mulheres de 25 a 64 anos de idade que já tiveram ou têm atividade sexual.\n2. Mulheres após os 64 anos de idade sem histórico de rastreio.\n3. Mulheres após os 64 anos de idade com dois exames negativos consecutivos nos últimos cinco anos.\nColuna II\nA. Realizar dois exames com intervalo de um a três anos. Se ambos forem negativos, não realizar exames adicionais.\nB. Não é necessário rastreamento.\nC. Anualmente, e após dois resultados normais consecutivos, o intervalo entre coletas passa a ser a cada três anos.\nAssinale a alternativa que apresenta a sequência correta.",
+  "alts": [
+   "1C / 2B / 3A",
+   "1C / 2A / 3B",
+   "1A / 2C / 3B",
+   "1B / 2A / 3C"
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (INCA, 2016); Portaria Conjunta SAES/SECTICS 13/2025",
+  "coment": "Pelas diretrizes do INCA de 2016, o citopatológico começa aos 25 anos para quem já teve atividade sexual: dois exames anuais e, se ambos normais, a cada 3 anos até os 64 (1C). Acima de 64 anos sem rastreio prévio, fazem-se dois exames com intervalo de 1 a 3 anos; se negativos, encerra-se (2A). Após os 64 com dois negativos consecutivos nos últimos 5 anos, o rastreamento é interrompido (3B). Em 2025 a Portaria Conjunta SAES/SECTICS 13 aprovou o rastreamento com teste de DNA-HPV de 25 a 64 anos, repetido em 5 anos se negativo; onde o teste ainda não chegou, segue o esquema citológico.",
+  "porAlt": [
+   "Errada: troca 2 e 3; quem nunca rastreou faz dois exames, e quem já tem dois negativos recentes é que dispensa.",
+   "Correta: anual e depois trienal dos 25 aos 64 anos, dois exames para quem não rastreou após os 64 e nada para quem tem dois negativos.",
+   "Errada: dois exames com intervalo de 1 a 3 anos é regra para quem passou dos 64 sem rastreio, não para a faixa de 25 a 64.",
+   "Errada: dizer que a mulher de 25 a 64 anos não precisa de rastreamento contraria a faixa-alvo do programa."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 19,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Código de Ética dos Profissionais de Enfermagem, é um direito do profissional de enfermagem",
+  "alts": [
+   "negar assistência de enfermagem em situações de urgência, emergência, epidemia, desastre e catástrofe que não ofereça risco à integridade física do profissional.",
+   "delegar atribuições dos(as) profissionais de enfermagem, previstas na legislação, para acompanhantes e/ou responsáveis pelo paciente.",
+   "abster-se de revelar informações confidenciais de que tenha conhecimento em razão de seu exercício profissional.",
+   "registrar e assinar as ações de Enfermagem que não executou, bem como permitir que suas ações sejam assinadas por outro profissional."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017, arts. 12, 76, 88 e 92",
+  "coment": "No Código de Ética (Res. COFEN 564/2017), o art. 12, no capítulo dos direitos, garante ao profissional abster-se de revelar informações confidenciais de que tenha conhecimento em razão do exercício profissional. As demais alternativas reproduzem proibições: negar assistência em urgência, emergência, epidemia, desastre e catástrofe quando não há risco à própria integridade (art. 76), registrar e assinar ações que não executou ou deixar que outro assine as suas (art. 88) e delegar atribuições da enfermagem a acompanhantes ou responsáveis (art. 92).",
+  "porAlt": [
+   "Errada: negar assistência nessas situações, sem risco à integridade do profissional, é proibição do art. 76.",
+   "Errada: delegar atribuições da enfermagem a acompanhantes ou responsáveis é proibido pelo art. 92.",
+   "Correta: abster-se de revelar informação confidencial obtida no exercício profissional é direito previsto no art. 12.",
+   "Errada: registrar ou assinar ação não executada, ou deixar outro assinar a sua, é proibição do art. 88."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 20,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Hockenberry, Wilson e Rodgers (2023), a bronquiolite é uma infecção viral aguda com efeito máximo no nível bronquiolar. Sobre esta infecção, é correto afirmar que",
+  "alts": [
+   "é mais comum em crianças de 2 a 4 anos de idade.",
+   "o adenovírus é o patógeno mais comum.",
+   "tem início como uma insuficiência respiratória aguda com sintomas de rinorreia e febre de baixo grau.",
+   "independente se os sintomas forem leves ou graves, toda criança necessita de hospitalização para observação dos sintomas."
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hockenberry, Wilson e Rodgers, Wong Fundamentos de Enfermagem Pediátrica, 10ª ed. (Elsevier, 2018), bronquiolite",
+  "coment": "A bronquiolite é infecção viral dos bronquíolos, causada sobretudo pelo vírus sincicial respiratório, típica do menor de 2 anos. Começa como infecção das vias aéreas superiores, com rinorreia e febre baixa, e em poucos dias surgem tosse, taquipneia, tiragem e sibilos. A maioria dos casos é leve e cuidada em casa; internam os lactentes com desconforto respiratório, hipoxemia, apneia ou dificuldade para se alimentar. A alternativa C diz 'insuficiência respiratória aguda' onde o livro descreve o início como infecção respiratória, mas é a única coerente com o quadro.",
+  "porAlt": [
+   "Errada: a bronquiolite é doença do lactente e da criança menor de 2 anos, não da faixa de 2 a 4 anos.",
+   "Errada: o agente mais comum é o vírus sincicial respiratório; o adenovírus é causa menos frequente.",
+   "Correta: o quadro começa nas vias aéreas superiores, com rinorreia e febre baixa, antes do acometimento bronquiolar.",
+   "Errada: casos leves são cuidados em casa; internam-se os que têm desconforto, hipoxemia, apneia ou recusa alimentar."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 21,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Barros et al (2022), o processo de enfermagem é detalhado e definido operacionalmente em cada uma de suas cinco etapas, que devem ser inter-relacionadas, __________________ e recorrentes, a saber: coleta de dados de enfermagem (ou histórico de enfermagem); __________________; planejamento de enfermagem; __________________ e avaliação de enfermagem.\nAssinale a alternativa que preenche corretamente as lacunas.",
+  "alts": [
+   "independentes / intervenções de enfermagem / cuidados de enfermagem",
+   "sequenciais / prescrição de enfermagem / intervenções",
+   "interdependentes / diagnóstico de enfermagem / implementação",
+   "ininterruptas / cuidados de enfermagem / discussão de caso"
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024 (revogou a Resolução COFEN 358/2009)",
+  "coment": "Barros et al. (2022) descrevem o PE em cinco etapas inter-relacionadas, interdependentes e recorrentes: coleta de dados (histórico), diagnóstico, planejamento, implementação e avaliação, como previa a Res. COFEN 358/2009. Essa resolução foi revogada pela Res. COFEN 736/2024, que manteve cinco etapas com nomes novos: Avaliação de Enfermagem (antes coleta de dados), Diagnóstico, Planejamento, Implementação e Evolução de Enfermagem (antes avaliação). Diagnóstico e prescrição seguem privativos do enfermeiro. As lacunas pedem interdependentes, diagnóstico e implementação.",
+  "porAlt": [
+   "Errada: as etapas são interdependentes, não independentes, e intervenção ou cuidado não são nomes de etapa.",
+   "Errada: as etapas não são apenas sequenciais, e a prescrição integra o planejamento, não é etapa isolada.",
+   "Correta: interdependentes, diagnóstico e implementação completam as cinco etapas descritas por Barros et al.",
+   "Errada: cuidados de enfermagem e discussão de caso não são etapas do processo de enfermagem."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 22,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Morsch et al (2022), a sepse é definida como a “presença de disfunção orgânica ameaçadora à vida secundária a resposta desregulada do hospedeiro à infecção”. As manifestações clínicas da sepse estão associadas ao foco infeccioso e aos sinais decorrentes dos órgãos em disfunção. Os sintomas da sepse em pacientes adultos incluem, geralmente,\nI. alterações no estado de consciência (agitação, sonolência, torpor, confusão).\nII. bradipneia.\nIII. leucocitose/leucopenia.\nIV. bradicardia.\nÉ correto o que se afirma, apenas, em",
+  "alts": [
+   "I e III.",
+   "II e IV.",
+   "I, II e III.",
+   "I, III e IV."
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Sepsis-3 (Singer et al., JAMA, 2016); Surviving Sepsis Campaign 2021",
+  "coment": "Pelo conceito Sepsis-3 (2016), sepse é disfunção orgânica ameaçadora à vida causada por resposta desregulada do hospedeiro à infecção. Os sinais típicos são de resposta inflamatória e de disfunção: alteração do nível de consciência (agitação, sonolência, confusão), taquipneia, taquicardia, febre ou hipotermia e leucocitose ou leucopenia. Bradipneia e bradicardia não são achados típicos da sepse no adulto; a frequência respiratória a partir de 22 irpm, a alteração mental e a PA sistólica de até 100 mmHg compõem o qSOFA. Corretos I e III.",
+  "porAlt": [
+   "Correta: alteração da consciência e leucocitose ou leucopenia são manifestações típicas da sepse no adulto.",
+   "Errada: bradipneia e bradicardia não são sinais típicos; a sepse cursa com taquipneia e taquicardia.",
+   "Errada: inclui a bradipneia, quando o esperado é taquipneia, critério do qSOFA a partir de 22 irpm.",
+   "Errada: inclui a bradicardia; a resposta à sepse é taquicardia, compensatória à vasodilatação e à febre."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 23,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a Ressuscitação Cardiopulmonar (RCP) para pacientes adultos em Parada Cardiopulmonar (PCR), de acordo com as últimas diretrizes da American Heart Association (2020), assinale a alternativa correta.",
+  "alts": [
+   "As compressões torácicas devem ser realizadas com força (pelo menos 5 cm) e rápido (100 a 120/min) e deve-se aguardar o retorno total do tórax.",
+   "O profissional responsável pelas compressões torácicas deve ser alternado a cada três minutos.",
+   "É aconselhável para os profissionais tentarem, primeiro, estabelecer o acesso intraósseo para administração de medicamentos em parada cardiopulmonar.",
+   "Recomenda-se que leigos não iniciem a ressuscitação cardiopulmonar para uma suposta parada cardiopulmonar, pois o risco de dano ao paciente é alto se o paciente não estiver em parada cardiopulmonar."
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Diretrizes AHA 2025 de RCP e ACE (mantêm os parâmetros de compressão das Diretrizes AHA 2020)",
+  "coment": "A RCP de alta qualidade exige compressões de pelo menos 5 cm, sem passar de 6 cm, na frequência de 100 a 120 por minuto, com retorno total do tórax e mínimo de interrupções; as diretrizes AHA 2025 mantiveram esses parâmetros. O responsável pelas compressões é trocado a cada 2 minutos, ou antes se cansar. O acesso venoso periférico é a primeira tentativa, e o intraósseo fica para quando o venoso falha ou é inviável. O leigo deve iniciar a RCP diante de suspeita de parada, porque o risco de dano a quem não está em PCR é baixo.",
+  "porAlt": [
+   "Correta: força de pelo menos 5 cm, ritmo de 100 a 120 por minuto e retorno total do tórax definem compressão de qualidade.",
+   "Errada: a troca do responsável pelas compressões é recomendada a cada 2 minutos, não a cada 3.",
+   "Errada: tenta-se primeiro o acesso venoso periférico; o intraósseo é a alternativa quando o venoso falha.",
+   "Errada: o leigo deve iniciar a RCP na suspeita de parada, pois o dano em quem não está em PCR é raro."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 24,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A embolia pulmonar é um distúrbio comum, que frequentemente está associada a situações como traumatismo ou cirurgia de grande porte. O enfermeiro deve monitorar e instituir medidas de prevenção de embolia pulmonar em todos os pacientes, mas particularmente naqueles com condições que predisponham a uma redução da velocidade do retorno venoso. Sobre as orientações para prevenção de embolia pulmonar, analise as proposições abaixo e assinale (V) para Verdadeiro ou (F) para Falso.\n( ) Evitar permanecer sentado por períodos prolongados.\n( ) Manter as pernas cruzadas.\n( ) Evitar a deambulação precoce.\n( ) Manter cateteres nos acessos venosos pelo menor tempo possível.\nAssinale a alternativa que apresenta a sequência correta.",
+  "alts": [
+   "V / F / V / F",
+   "V / F / F / V",
+   "F / F / F / V",
+   "V / V / F / V"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Doenças respiratórias",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., Guanabara Koogan, 2020 (embolia pulmonar)",
+  "coment": "A prevenção do tromboembolismo venoso, origem da maioria das embolias pulmonares, mira a estase venosa, a lesão endotelial e a hipercoagulabilidade (tríade de Virchow). O enfermeiro orienta evitar ficar sentado por longos períodos e não cruzar as pernas, que comprime as veias poplíteas; estimula a deambulação precoce e os exercícios de pernas; e retira cateteres venosos assim que deixam de ser necessários, porque o dispositivo lesa o endotélio e favorece trombose. Sequência V, F, F, V.",
+  "porAlt": [
+   "Errada: evitar a deambulação precoce favorece a estase, e manter cateter pelo menor tempo possível é medida correta.",
+   "Correta: evitar sentar por longos períodos e retirar cateteres cedo previnem TEV; cruzar as pernas e não deambular favorecem.",
+   "Errada: evitar permanecer sentado por períodos prolongados é medida verdadeira de prevenção da estase venosa.",
+   "Errada: manter as pernas cruzadas comprime o retorno venoso e favorece a trombose, por isso a segunda é falsa."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 26,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o pneumotórax em pacientes adultos, é correto afirmar que",
+  "alts": [
+   "no pneumotórax simples, a traqueia é deslocada para longe do lado afetado.",
+   "em uma situação de emergência, o pneumotórax hipertensivo pode ser descomprimido pela inserção de uma agulha de pequeno calibre (calibre 24).",
+   "o dreno torácico é inserido e conectado à aspiração, removendo o ar e o líquido remanescentes, restabelecendo a pressão positiva e reexpandindo o pulmão.",
+   "os pacientes com possível pneumotórax hipertensivo devem receber, imediatamente, oxigênio suplementar em alta concentração para tratamento da hipóxia, e deve-se utilizar a oximetria de pulso para monitorar a saturação de oxigênio"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Doenças respiratórias",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., Guanabara Koogan, 2020 (pneumotórax); ATLS, 11ª ed. (American College of Surgeons, 2025)",
+  "coment": "No pneumotórax hipertensivo o ar entra no espaço pleural e não sai, desvia o mediastino e comprime o pulmão e o retorno venoso. A conduta imediata inclui oxigênio em alta concentração para tratar a hipóxia e oximetria de pulso contínua, enquanto se prepara a descompressão, feita com agulha de grosso calibre, não de calibre 24. No pneumotórax simples a traqueia fica na linha média; o desvio para o lado oposto é sinal do hipertensivo. O dreno ligado ao selo d'água ou à aspiração restabelece a pressão negativa intrapleural, e não positiva.",
+  "porAlt": [
+   "Errada: o desvio da traqueia para longe do lado afetado é sinal do pneumotórax hipertensivo, não do simples.",
+   "Errada: a descompressão emergencial exige agulha ou cateter de grosso calibre; o calibre 24 é fino demais.",
+   "Errada: a drenagem restabelece a pressão negativa intrapleural, que permite a reexpansão do pulmão.",
+   "Correta: oxigênio em alta concentração e oximetria contínua tratam e monitoram a hipóxia enquanto se descomprime."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 27,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Nota Técnica n.º 11/2019, correlacione as colunas da tabela abaixo.\nColuna I\n1. Serviço Residencial Terapêutico.\n2. Unidades Ambulatorias Especializadas – Equipe Multiprofissional de Atenção Especializada em Saúde Mental.\n3. Centros de Atenção Psicossocial de Álcool e Outras Drogas do Tipo IV.\nColuna II\nA. Se destinam a proporcionar atenção integral e continuada às pessoas com quadro de dependência de substâncias psicoativas. Devem funcionar 24 (vinte e quatro) horas por dia, todos os dias da semana, inclusive aos fins de semana e feriados. Visam o atendimento de adultos ou crianças e adolescentes, conjunta ou separadamente.\nB. Moradias inseridas na comunidade, destinadas a cuidar dos portadores de transtornos mentais crônicos com necessidade de cuidados de longa permanência, prioritariamente egressos de internações psiquiátricas e de hospitais de custódia, que não possuam suporte financeiro, social e/ou laços familiares que permitam outra forma de reinserção.\nC. Equipe composta por médico psiquiatra, psicólogo e assistente social, que devem prestar atendimento integrado e multiprofissional, por meio da realização de consultas e psicoterapia. Deverá ser lotada em ambulatórios gerais e especializados, policlínicas e ambulatórios de hospitais gerais e hospitais psiquiátricos.\nAssinale a alternativa que apresenta a sequência correta.",
+  "alts": [
+   "1C / 2B / 3A",
+   "1B / 2A / 3C",
+   "1A / 2C / 3B",
+   "1B / 2C / 3A"
+  ],
+  "gab": 3,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Nota Técnica 11/2019-CGMAD/DAPES/SAS/MS; Portaria GM/MS 757/2023 (revogou a Portaria GM/MS 3.588/2017)",
+  "coment": "Pela Nota Técnica 11/2019, o Serviço Residencial Terapêutico é moradia na comunidade para egressos de longas internações sem suporte para outra forma de reinserção (1B); a Equipe Multiprofissional de Atenção Especializada em Saúde Mental, com psiquiatra, psicólogo e assistente social, atua em ambulatórios (2C); o CAPS AD IV funciona 24 horas para dependentes de substâncias (3A). Atenção: a Portaria 3.588/2017, que criou essas equipes e o CAPS AD IV, foi revogada pela Portaria GM/MS 757/2023. Hoje o CAPS AD IV e os ambulatórios especializados não são pontos da RAPS; a residência terapêutica continua.",
+  "porAlt": [
+   "Errada: o SRT é moradia na comunidade, não equipe ambulatorial, e o CAPS AD IV não é residência.",
+   "Errada: a equipe ambulatorial não funciona 24 horas, e o CAPS AD IV não é equipe lotada em ambulatório.",
+   "Errada: inverte a moradia terapêutica com o CAPS AD IV e com a equipe multiprofissional ambulatorial.",
+   "Correta: SRT é moradia (B), a equipe especializada atua em ambulatório (C) e o CAPS AD IV funciona 24 horas (A)."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 28,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Infecções relacionadas à assistência à saúde são infecções que se manifestam após 48 a 72 horas de internação, ou mesmo após a alta hospitalar e estão relacionadas a internação ou procedimentos realizados durante a internação. As medidas de controle de infecção incluem",
+  "alts": [
+   "em casos de precaução para gotículas, profissional e familiares devem utilizar máscara N95.",
+   "implementar medidas de precaução padrão para todos os pacientes: higienização das mãos, uso da caixa de perfurocortantes e uso de luvas, avental, óculos e máscara quando em risco de contato com secreções.",
+   "a higienização das mãos é a medida mais importante na prevenção de infecções relacionadas à assistência à saúde e deve ser realizada conforme os quatro momentos preconizados pela Organização Mundial de Saúde: 1) antes do tocar o paciente, 2) antes de realizar procedimento limpo/asséptico, 3) após o risco de exposição a fluidos corporais e 4) após tocar o paciente.",
+   "a higiene das mãos com água e sabão é mais eficaz quando comparada ao uso de solução contendo álcool."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "CDC/HICPAC, Guideline for Isolation Precautions (Siegel et al., 2007); OMS, Diretrizes sobre Higiene das Mãos na Assistência à Saúde (2009), os 5 momentos",
+  "coment": "As precauções padrão valem para todo paciente, independentemente do diagnóstico: higiene das mãos, luvas, avental, óculos e máscara quando houver risco de contato com sangue e secreções, descarte seguro de perfurocortantes e etiqueta respiratória. Na precaução para gotículas usa-se máscara cirúrgica; a N95 (PFF2) é da precaução para aerossóis. A higiene das mãos é a medida mais importante, mas a OMS define cinco momentos, e a alternativa C omite o quinto, após tocar superfícies próximas ao paciente. A fricção com preparação alcoólica é mais eficaz que água e sabão, que ficam para mãos visivelmente sujas.",
+  "porAlt": [
+   "Errada: gotículas pedem máscara cirúrgica; a N95 ou PFF2 é reservada à precaução para aerossóis.",
+   "Correta: a precaução padrão vale para todos os pacientes e reúne higiene das mãos, EPI conforme o risco e descarte de perfurocortantes.",
+   "Errada: a OMS define cinco momentos; falta o de após tocar superfícies próximas ao paciente.",
+   "Errada: a preparação alcoólica é mais eficaz; água e sabão ficam para mãos visivelmente sujas ou com matéria orgânica."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 29,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O abortamento é a expulsão de feto pesando menos de 500 g ou com menos de 20 semanas de gestação, podendo ser espontâneo ou provocado. O abortamento retido ocorre quando",
+  "alts": [
+   "alguma parte do produto da concepção foi eliminada, mas não a sua totalidade; podem estar retidos feto, placenta ou membranas.",
+   "o abortamento (geralmente incompleto) é complicado por infecção intrauterina.",
+   "já existe a morte fetal (em geral por semanas) sem a sua expulsão.",
+   "há dois ou mais abortamentos consecutivos."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Manual de Gestação de Alto Risco (Ministério da Saúde, 2022), abortamento",
+  "coment": "No abortamento retido o embrião ou feto já morreu, em geral há semanas, sem ser expulso: o colo está fechado, o sangramento pode faltar e o útero é menor que o esperado para a idade gestacional; a ultrassonografia confirma. As outras formas clínicas são o incompleto, quando parte do produto da concepção foi eliminada e parte ficou retida; o infectado, quando há infecção intrauterina, em geral após abortamento incompleto ou provocado; e o habitual ou de repetição, quando há perdas consecutivas. A conduta no retido é o esvaziamento uterino, por medicação ou aspiração.",
+  "porAlt": [
+   "Errada: eliminação parcial com restos retidos define o abortamento incompleto.",
+   "Errada: abortamento complicado por infecção intrauterina é o abortamento infectado.",
+   "Correta: morte embrionária ou fetal sem expulsão, em geral há semanas, define o abortamento retido.",
+   "Errada: perdas consecutivas definem o abortamento habitual ou de repetição, não o retido."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre as condutas e manobras de reanimação cardiorrespiratória em gestantes e recém-nascidos,\nI. a aspiração das vias respiratórias dos recém-nascidos pelos obstetras, logo após a saída dos ombros, não é mais recomendada: não diminui a aspiração de mecônio.\nII. as condutas preconizadas em gestantes com parada cardíaca seguem a mesma doutrina recomendada às não grávidas, sendo que as alterações fisiológicas da gravidez não interferem no processo de reanimação cardiorrespiratória.\nIII. após o diagnóstico da grávida com parada cardiorrespiratória, recomenda-se o deslocamento manual do útero para a esquerda, a fim de prover melhor retorno sanguíneo ao coração direito.\nIV. o esvaziamento do útero na parada cardíaca materna pode resultar em rápida melhora, com retorno da circulação espontânea. Haverá também uma chance maior para a sobrevida neonatal.\nÉ correto o que se afirma em",
+  "alts": [
+   "III, apenas.",
+   "II e IV, apenas.",
+   "I, III e IV, apenas.",
+   "I, II, III e IV."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes AHA 2025 de RCP e ACE (parada cardíaca na gestação); Reanimação do recém-nascido ≥ 34 semanas em sala de parto: diretrizes 2022 da SBP",
+  "coment": "A aspiração rotineira da boca e do nariz do recém-nascido logo após a saída dos ombros foi abandonada, pois não reduz a aspiração de mecônio (I certa). Na gestante em PCR a base da RCP é a mesma, mas a fisiologia muda o atendimento: o útero comprime a veia cava inferior, por isso se faz o deslocamento manual do útero para a esquerda durante as compressões (III certa, II errada). Sem retorno da circulação, a cesárea perimortem esvazia o útero, melhora o retorno venoso, pode trazer a circulação espontânea e aumenta a chance de sobrevida neonatal (IV certa).",
+  "porAlt": [
+   "Errada: além da III, também estão certas a I, sobre a aspiração do recém-nascido, e a IV, sobre o esvaziamento uterino.",
+   "Errada: a II é falsa, porque a compressão aortocava pelo útero gravídico altera a reanimação da gestante.",
+   "Correta: aspiração rotineira não é recomendada, desloca-se o útero para a esquerda e o esvaziamento uterino pode trazer a circulação.",
+   "Errada: inclui a II, mas as alterações fisiológicas da gravidez interferem, sim, na reanimação."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Lei n.º 13.840/2019, que altera a Lei n.º 11.343/2006, para tratar do Sistema Nacional de Políticas Públicas sobre Drogas, definir as condições de atenção aos usuários ou dependentes de drogas e tratar do financiamento das políticas sobre drogas e dá outras providências. Sobre esta Lei, o\nI. Sisnad é o conjunto ordenado de princípios, regras, critérios e recursos materiais e humanos que envolvem as políticas, planos, programas, ações e projetos sobre drogas.\nII. tratamento do usuário ou dependente de drogas deverá ser ordenado em uma rede de atenção à saúde, com prioridade para as modalidades de tratamento hospitalar, incluindo, priorizando formas de internação em hospitais especializados.\nIII. PIA (Plano Individual de Atendimento) deverá contemplar a participação dos familiares ou responsáveis, os quais têm o dever de contribuir com o processo, sendo esses, no caso de crianças e adolescentes, passíveis de responsabilização civil, administrativa e criminal, nos termos da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente).\nÉ correto o que se afirma em",
+  "alts": [
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 1,
+  "tema": "mental",
+  "sub": "Álcool e outras drogas",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 11.343/2006, arts. 3º, 23-A e 23-B, com a redação da Lei 13.840/2019",
+  "coment": "Pela Lei 11.343/2006, com a redação da Lei 13.840/2019, o Sisnad é o conjunto ordenado de princípios, regras, critérios e recursos materiais e humanos das políticas, planos, programas, ações e projetos sobre drogas (I certa). O art. 23-A manda ordenar o tratamento em rede de atenção à saúde com prioridade para o tratamento ambulatorial; a internação é excepcional e ocorre em unidades de saúde ou hospitais gerais, não em hospitais especializados (II errada). O PIA deve contemplar a participação da família, que, no caso de criança e adolescente, pode ser responsabilizada nos termos do ECA (art. 23-B, III certa).",
+  "porAlt": [
+   "Errada: inclui a II, que inverte o art. 23-A ao priorizar internação hospitalar em vez do tratamento ambulatorial.",
+   "Correta: a I traz o conceito legal de Sisnad e a III, a participação obrigatória da família no PIA.",
+   "Errada: exclui a definição correta do Sisnad e inclui a II, contrária à prioridade ambulatorial.",
+   "Errada: a II é falsa; a internação é excepcional e se faz em unidade de saúde ou hospital geral."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Hoffbrand e Moss (2018), sobre a Leucemia Linfoblástica Aguda (LLA) e o Linfoma de Hodgkin, analise as proposições abaixo.\nI. Na leucemia linfoblástica aguda, a infiltração de órgãos causa dor óssea, linfonodopatia, esplenomegalia moderada e cefaleia. A maioria dos pacientes apresenta febre.\nII. No Linfoma de Hodgkin, a maioria dos pacientes apresenta aumento assimétrico de linfonodos superficiais, firmes, separados e dolorosos à palpação.\nIII. O hemograma da leucemia linfoblástica aguda mostra anemia e contagem de leucócitos sempre aumentada devido ao grande número de blastos presentes na corrente sanguínea.\nÉ correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hoffbrand AV, Moss PAH. Fundamentos em Hematologia de Hoffbrand, 7ª ed., 2018",
+  "coment": "Na LLA, a falência medular causa anemia, infecções e sangramento, e a infiltração de órgãos causa dor óssea, linfonodomegalia, esplenomegalia moderada e cefaleia por acometimento meníngeo; a febre é frequente (I certa). No linfoma de Hodgkin, o achado típico é o aumento assimétrico e indolor de linfonodos superficiais firmes e separados, muitas vezes cervicais (II errada pelo termo 'dolorosos'). Na LLA a contagem de leucócitos pode estar aumentada, normal ou diminuída, e os blastos nem sempre aparecem no sangue periférico (III errada pelo termo 'sempre').",
+  "porAlt": [
+   "Correta: só a I está certa; na LLA a infiltração causa dor óssea, linfonodomegalia, esplenomegalia e cefaleia, com febre frequente.",
+   "Errada: a III é falsa, porque os leucócitos na LLA podem estar altos, normais ou baixos.",
+   "Errada: os linfonodos do Hodgkin são indolores, e a leucocitose não é obrigatória na LLA.",
+   "Errada: II e III são falsas pelos termos 'dolorosos' e 'sempre aumentada'."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Bonassa e Gato (2023), com relação à toxicidade hematológica dos antineoplásicos, analise as proposições abaixo e assinale (V) para Verdadeiro ou (F) para Falso.\n( ) Há necessidade de recuperação completa ou parcial da leucopenia antes de nova aplicação de antineoplásicos.\n( ) O período de nadir na maioria dos antineoplásicos varia de 7 a 14 dias.\n( ) Sinais clássicos de infecção podem não ocorrer em função do limitado número de células fagocitárias.\n( ) Os citostáticos em doses convencionais com frequência causam anemias severas a ponto de exigir transfusões sanguíneas.\nAssinale a alternativa que apresenta a sequência correta.",
+  "alts": [
+   "V / V / F / F",
+   "F / F / V / V",
+   "V / V / V / F",
+   "F / V / F / V"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Bonassa e Gato, Terapêutica Oncológica para Enfermeiros e Farmacêuticos (edição citada na prova, 2023), toxicidade hematológica",
+  "coment": "A mielossupressão é a toxicidade dose-limitante mais comum dos antineoplásicos. A leucopenia atinge o nadir, em geral, entre 7 e 14 dias após a aplicação, e o novo ciclo depende de recuperação total ou parcial da contagem. Com poucos neutrófilos, os sinais clássicos de infecção (pus, rubor, edema) podem faltar, e a febre pode ser o único alerta, por isso a neutropenia febril é emergência. A anemia causada por citostáticos em doses convencionais costuma ser leve a moderada e de instalação lenta, pela longa vida das hemácias, e raramente exige transfusão.",
+  "porAlt": [
+   "Errada: marca como falsa a ausência de sinais clássicos de infecção, que é verdadeira na neutropenia.",
+   "Errada: a necessidade de recuperação leucocitária antes do ciclo e o nadir de 7 a 14 dias são verdadeiros.",
+   "Correta: recuperação antes do ciclo, nadir de 7 a 14 dias e infecção sem sinais clássicos são verdadeiros; anemia grave frequente, não.",
+   "Errada: a anemia por doses convencionais raramente exige transfusão, e os sinais de infecção podem faltar."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com relação ao controle da disseminação de microrganismos multirresistentes, é correto afirmar que",
+  "alts": [
+   "os produtos usados para higienização das mãos não podem ser considerados fontes de bactérias multirresistentes.",
+   "um microrganismo é considerado multirresistente quando apresenta resistência a duas ou mais classes de antimicrobianos.",
+   "a principal ponte de transmissão de microrganismos multirresistentes entre pacientes colonizados e não colonizados é a falta de leitos de isolamento nas unidades para adequar melhor os pacientes.",
+   "bactérias gram positivas e gram negativas são disseminadas principalmente através do contato direto entre o paciente colonizado e o não colonizado."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "ANVISA, Investigação e Controle de Bactérias Multirresistentes (2007); Magiorakos et al., definições de MDR, XDR e PDR (Clin Microbiol Infect, 2012)",
+  "coment": "No material da ANVISA usado pelas bancas, microrganismo multirresistente é o resistente a duas ou mais classes de antimicrobianos às quais seria normalmente sensível. A definição internacional de Magiorakos et al. (2012) é mais estrita: não sensível a pelo menos um agente em três ou mais categorias. A principal via de transmissão entre pacientes é o contato indireto, pelas mãos dos profissionais e por superfícies e equipamentos, e não a falta de leitos de isolamento nem o contato direto entre pacientes. Produtos de higiene das mãos contaminados, como frascos de sabonete reabastecidos, já foram fonte de surtos.",
+  "porAlt": [
+   "Errada: sabonetes e soluções contaminados, sobretudo por reabastecimento de frascos, já foram fonte de surtos.",
+   "Correta: pela definição da ANVISA cobrada em prova, resistência a duas ou mais classes de antimicrobianos caracteriza o multirresistente.",
+   "Errada: a principal ponte de transmissão são as mãos dos profissionais, não a falta de leitos de isolamento.",
+   "Errada: a disseminação ocorre principalmente por contato indireto, pelas mãos da equipe e pelo ambiente."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Oliveira (2018), a dengue é uma infecção causada por um Arbovírus. Em relação a essa doença, assinale a alternativa correta.",
+  "alts": [
+   "Na dengue clássica, a febre é baixa, de início gradativo, seguida de cefaleia e dor retrocular.",
+   "A dengue hemorrágica começa com febre baixa que evolui gradativamente para febre alta, petéquias, equimoses, hemorragias em gengivas e epistaxe.",
+   "A prova do laço não necessariamente precisa ser realizada em todos os casos para constatar uma tendência hemorrágica, marcador das formas mais graves da doença.",
+   "A base do controle da doença é a eliminação do mosquito, não há tratamento específico e as medicações são apenas sintomáticas."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed. (Ministério da Saúde, 2024)",
+  "coment": "Não há antiviral específico para a dengue: o tratamento é hidratação e sintomáticos (dipirona ou paracetamol, sem salicilatos e anti-inflamatórios), e o controle depende da eliminação do Aedes aegypti e de seus criadouros. A febre é alta e de início súbito, com cefaleia, dor retro-orbitária, mialgia e artralgia. Os termos 'clássica' e 'hemorrágica' foram substituídos pela classificação dengue, dengue com sinais de alarme e dengue grave. Segundo o manual do MS de 2024, a prova do laço é obrigatória em todo caso suspeito sem sangramento espontâneo.",
+  "porAlt": [
+   "Errada: na dengue a febre é alta e de início súbito, não baixa e gradativa.",
+   "Errada: a forma grave também começa com febre alta súbita; os sangramentos surgem em geral na defervescência.",
+   "Errada: o MS manda fazer a prova do laço em todo caso suspeito sem sangramento espontâneo.",
+   "Correta: sem antiviral específico, trata-se com hidratação e sintomáticos, e o controle depende de eliminar o vetor."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando-se CAMPANHA (2020), sobre liderança na enfermagem, analise as proposições abaixo e assinale (V) para Verdadeiro ou (F) para Falso.\n( ) A liderança transformacional mostrou dificultar a cultura de organização da unidade e empoderamento estrutural.\n( ) Liderar pensando na transformação individual e dos outros é fator determinante para se conquistar os objetivos almejados.\n( ) Líderes devem centrar-se em questões operacionais da organização, ou seja, traduzir as estratégias transmitidas em ações assertivas.\n( ) Para avançar nos modelos de liderança em enfermagem, é necessário ser flexível, inovador, fornecer autonomia, orientar de forma clara e o objetiva, administrar conflitos com bom senso, coerência, compreensão, ter senso democrático e humanidade.\nAssinale a alternativa que apresenta a sequência correta.",
+  "alts": [
+   "F / V / F / V",
+   "F / V / V / V",
+   "V / F / V / F",
+   "V / V / F / V"
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Campanha (2020), liderança em enfermagem; modelo de liderança transformacional (Bass, 1985)",
+  "coment": "Campanha (2020) associa a liderança transformacional a melhor cultura organizacional e a maior empoderamento estrutural da equipe, o que torna falsa a primeira afirmativa. Liderar pensando na transformação de si e dos outros é determinante para alcançar os objetivos. O texto também atribui ao líder traduzir as estratégias da organização em ações assertivas no plano operacional, e lista atributos para avançar nos modelos de liderança: flexibilidade, inovação, autonomia, orientação clara e objetiva, manejo de conflitos com bom senso, senso democrático e humanidade. Sequência F, V, V, V.",
+  "porAlt": [
+   "Errada: considera falsa a terceira, mas traduzir estratégias em ações assertivas é papel atribuído ao líder no texto.",
+   "Correta: só a primeira é falsa, porque a liderança transformacional favorece a cultura e o empoderamento estrutural.",
+   "Errada: a liderança transformacional não dificulta a cultura da unidade, e a transformação pessoal é fator determinante.",
+   "Errada: a primeira é falsa e a terceira é verdadeira na leitura de Campanha."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2023,
+   "prova": "Residência Multiprofissional 2024, Enfermagem",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em pacientes com doença pulmonar obstrutiva crônica (DPOC), uma revisão sistemática da literatura estimou que o risco relativo para exacerbações agudas da DPOC no seguimento de um ano após alta hospitalar para aqueles com ansiedade, em comparação àqueles sem ansiedade, foi de 2,10 (IC 95%: 1,28 – 3,45) vezes. Pacientes com DPOC com depressão apresentaram risco relativo de exacerbações agudas da DPOC no primeiro ano após a alta de 1,36 (IC 95%: 1,10–1,69) vezes, comparados àqueles com DPOC sem depressão. Com base nos dados apresentados, assinalar a alternativa CORRETA.",
+  "alts": [
+   "O risco de exacerbações agudas da DPOC foi 2,10% maior entre aqueles com ansiedade, em comparação àqueles sem ansiedade.",
+   "O risco de exacerbações agudas da DPOC foi 36% maior entre aqueles com depressão, em comparação àqueles sem depressão.",
+   "O excesso relativo de risco para exacerbações agudas da DPOC associado à depressão é maior que o excesso de risco associado à ansiedade.",
+   "Não houve diferença estatisticamente significativa no risco de exacerbações agudas da DPOC entre pacientes com e sem depressão."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Rothman, Greenland e Lash, Modern Epidemiology, 3ª ed., 2008 (medidas de associação)",
+  "coment": "Risco relativo (RR) é a razão entre o risco nos expostos e nos não expostos. O excesso relativo de risco é RR menos 1: com depressão, 1,36 indica risco 36% maior; com ansiedade, 2,10 indica risco 110% maior, isto é, 2,1 vezes o risco, e não 2,10% a mais. O excesso associado à ansiedade (110%) é maior que o associado à depressão (36%). Como o intervalo de confiança de 95% da depressão (1,10 a 1,69) não inclui o 1, a diferença é estatisticamente significativa.",
+  "porAlt": [
+   "Errada: RR de 2,10 significa risco 110% maior, ou 2,1 vezes, e não 2,10% maior.",
+   "Correta: RR de 1,36 equivale a excesso relativo de 36% entre os pacientes com depressão.",
+   "Errada: o excesso da depressão é 36% e o da ansiedade é 110%, portanto menor, não maior.",
+   "Errada: o IC 95% de 1,10 a 1,69 não contém o 1, logo a diferença é estatisticamente significativa."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 1,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Texto da questão 1 do caderno: Em pacientes com doença pulmonar obstrutiva crônica (DPOC), uma revisão sistemática da literatura estimou que o risco relativo para exacerbações agudas da DPOC no seguimento de um ano após alta hospitalar para aqueles com ansiedade, em comparação àqueles sem ansiedade, foi de 2,10 (IC 95%: 1,28 – 3,45) vezes. Pacientes com DPOC com depressão apresentaram risco relativo de exacerbações agudas da DPOC no primeiro ano após a alta de 1,36 (IC 95%: 1,10–1,69) vezes, comparados àqueles com DPOC sem depressão.\n\nNa mesma revisão sistemática mencionada na questão anterior, em pacientes com DPOC, a readmissão em 30 dias após alta hospitalar entre aqueles com ansiedade, em comparação àqueles sem ansiedade, foi de 1,51 (IC 95%: 1,12–2,03) vezes. O risco relativo de readmissão hospitalar em 30 dias após alta em pacientes com DPOC com depressão em comparação com DPOC sem depressão foi de 1,22 (IC95%: 1,12 – 1,33) vezes. Com base nos dados apresentados, assinalar a alternativa CORRETA.",
+  "alts": [
+   "Em pacientes com DPOC, o risco de readmissão em 30 dias após alta hospitalar foi 51% maior entre aqueles com ansiedade, em comparação àqueles sem ansiedade.",
+   "O risco de readmissão em 30 dias após alta hospitalar foi 122% maior entre aqueles com depressão, em comparação àqueles sem depressão.",
+   "A redução relativa do risco para readmissão em 30 dias após alta hospitalar associado à ausência de ansiedade foi de 51%.",
+   "Não houve diferença estatisticamente significativa no risco de readmissão em 30 dias após alta hospitalar entre pacientes com e sem depressão."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Rothman, Greenland e Lash, Modern Epidemiology, 3ª ed., 2008 (medidas de associação)",
+  "coment": "Com RR de 1,51 e IC 95% de 1,12 a 2,03, a readmissão em 30 dias foi 51% maior nos pacientes com ansiedade, diferença significativa porque o intervalo não inclui o 1. Na depressão, RR de 1,22 significa 22% a mais, e não 122%; o IC de 1,12 a 1,33 também exclui o 1, então há significância. A redução relativa de risco atribuível à ausência de ansiedade se calcula pelo inverso: 1 menos 1/1,51, cerca de 34%, e não 51%. Excesso e redução relativos não são simétricos.",
+  "porAlt": [
+   "Correta: RR de 1,51 equivale a risco de readmissão 51% maior entre os pacientes com ansiedade.",
+   "Errada: RR de 1,22 significa 22% maior; 122% maior corresponderia a RR de 2,22.",
+   "Errada: a redução relativa pela ausência de ansiedade é 1 menos 1/1,51, cerca de 34%, e não 51%.",
+   "Errada: o IC 95% de 1,12 a 1,33 exclui o 1, portanto a diferença é estatisticamente significativa."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 2,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com o Decreto nº 7.508/2011, que regulamenta a Lei nº 8.080/1990, assinalar a alternativa que preenche as lacunas abaixo CORRETAMENTE.\nO SUS é constituído pela conjugação das ações e serviços ___________________ executados pelos entes federativos, de forma direta ou indireta, mediante a participação complementar da iniciativa privada, sendo organizado de forma _______________________.",
+  "alts": [
+   "de estritamente recuperação da saúde | regionalizada e hierarquizada",
+   "de promoção, proteção e recuperação da saúde | local e aberta",
+   "de promoção, proteção e recuperação da saúde | regionalizada e hierarquizada",
+   "de estritamente recuperação da saúde | local e aberta"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, art. 3º",
+  "coment": "O art. 3º do Decreto 7.508/2011 diz que o SUS é constituído pela conjugação das ações e serviços de promoção, proteção e recuperação da saúde executados pelos entes federativos, de forma direta ou indireta, mediante a participação complementar da iniciativa privada, sendo organizado de forma regionalizada e hierarquizada. A redação retoma o art. 196 da Constituição, que garante acesso universal e igualitário às ações de promoção, proteção e recuperação, e o art. 198, que define a rede regionalizada e hierarquizada.",
+  "porAlt": [
+   "Errada: o SUS não se limita à recuperação; o decreto inclui promoção e proteção da saúde.",
+   "Errada: a organização é regionalizada e hierarquizada, e não 'local e aberta'.",
+   "Correta: reproduz o art. 3º do decreto: promoção, proteção e recuperação, em rede regionalizada e hierarquizada.",
+   "Errada: erra as duas lacunas, ao restringir à recuperação e ao trocar a regionalização por 'local e aberta'."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 3,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com o Decreto nº 7.508/2011, que regulamenta a Lei nº 8.080/1990, além dos serviços de atenção primária à saúde, são portas de entrada às ações e aos serviços de saúde nas Redes de Atenção à Saúde os serviços:\nI. De atenção de urgência e emergência.\nII. De atenção psicossocial.\nIII. Atenção ambulatorial especializada e hospitalar.\nEstá CORRETO o que se afirma:",
+  "alts": [
+   "Apenas no item I.",
+   "Apenas nos itens I e II.",
+   "Apenas nos itens II e III.",
+   "Apenas nos itens I e III."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, arts. 9º e 10",
+  "coment": "O art. 9º do Decreto 7.508/2011 lista as portas de entrada das Redes de Atenção à Saúde: atenção primária, atenção de urgência e emergência, atenção psicossocial e serviços especiais de acesso aberto. A atenção ambulatorial especializada e a hospitalar não são porta de entrada: são referenciadas pelas portas de entrada (art. 10), com a atenção primária ordenando o acesso. Por isso estão certos só os itens I e II. Mediante justificativa técnica e pactuação nas comissões intergestores, outros serviços podem ser portas de entrada (parágrafo único do art. 9º).",
+  "porAlt": [
+   "Errada: a atenção psicossocial também é porta de entrada pelo art. 9º.",
+   "Correta: urgência e emergência e atenção psicossocial são portas de entrada, ao lado da APS e dos serviços especiais de acesso aberto.",
+   "Errada: ambulatório especializado e hospital são referenciados pelas portas de entrada (art. 10), não são porta.",
+   "Errada: omite a atenção psicossocial e inclui a atenção especializada, que é acessada por referência."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 4,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com a Resolução nº 588/2018 — Política Nacional de Vigilância em Saúde, analisar os itens.\nI. É constituída por processo contínuo e sistemático de coleta, consolidação, análise de dados e disseminação de informações sobre eventos relacionados à saúde.\nII. Visa ao planejamento e à implementação de medidas de regulação, intervenção e atuação em condicionantes e determinantes da saúde.\nIII. Tem por finalidade a prevenção e o controle de riscos, agravos e doenças.\nEstá CORRETO o que se afirma:",
+  "alts": [
+   "Apenas no item I.",
+   "Apenas nos itens I e II.",
+   "Apenas nos itens II e III.",
+   "Em todos os itens."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde), art. 2º",
+  "coment": "O art. 2º da Res. CNS 588/2018 define a vigilância em saúde como processo contínuo e sistemático de coleta, consolidação, análise de dados e disseminação de informações sobre eventos relacionados à saúde, visando ao planejamento e à implementação de medidas de saúde pública, incluindo a regulação, intervenção e atuação em condicionantes e determinantes da saúde, para a proteção e promoção da saúde da população, prevenção e controle de riscos, agravos e doenças. Os três itens são partes dessa definição.",
+  "porAlt": [
+   "Errada: o planejamento de medidas sobre condicionantes e a finalidade de prevenção também integram a definição.",
+   "Errada: deixa de fora a prevenção e o controle de riscos, agravos e doenças, finalidade expressa no art. 2º.",
+   "Errada: a coleta, consolidação, análise e disseminação contínuas de dados são o núcleo da definição.",
+   "Correta: os três itens reproduzem a definição de vigilância em saúde do art. 2º da Res. CNS 588/2018."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 5,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Relativo à saúde, aos determinantes da saúde e à determinação social da saúde, assinalar a alternativa CORRETA.",
+  "alts": [
+   "A saúde, entendida como a possibilidade de objetivação em cada indivíduo do grau de humanidade que a humanidade produziu, apresenta-se de modo diferente nas diferentes sociedades, nas diferentes classes e estratos de classes sociais, apesar das semelhanças biológicas entre os corpos dos seres humanos que as compõem.",
+   "Nem todas as dimensões da vida humana são determinadas socialmente.",
+   "Em uma sociedade de classes, em um mesmo momento histórico, o modo de viver, adoecer e morrer das diferentes classes e estratos de classe é semelhante.",
+   "Nas relações capitalistas de produção, o avanço das forças produtivas sempre resulta em melhorias para a classe trabalhadora."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Albuquerque GSC, Silva MJS. Sobre a saúde, os determinantes da saúde e a determinação social da saúde. Saúde em Debate, 2014",
+  "coment": "Na perspectiva da determinação social da saúde (Albuquerque e Silva, 2014), a saúde é a objetivação, em cada indivíduo, do grau de humanidade produzido pela humanidade, e por isso se expressa de modo diferente entre sociedades e entre classes e estratos de classe, apesar das semelhanças biológicas. Nessa corrente, todas as dimensões da vida humana são socialmente determinadas, o modo de viver, adoecer e morrer difere entre classes no mesmo momento histórico, e o avanço das forças produtivas sob relações capitalistas nem sempre se converte em melhoria para a classe trabalhadora.",
+  "porAlt": [
+   "Correta: a saúde objetiva o grau de humanidade produzido e varia entre sociedades e classes, apesar da semelhança biológica.",
+   "Errada: para essa corrente, todas as dimensões da vida humana são socialmente determinadas.",
+   "Errada: as classes e estratos vivem, adoecem e morrem de modos distintos no mesmo momento histórico.",
+   "Errada: o avanço das forças produtivas não garante, por si, melhoria para a classe trabalhadora."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 6,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com a Portaria GM/MS nº 4.279/2010, que institui as Redes de Atenção à Saúde (RAS) no SUS, é possível identificar características importantes e inerentes à sua matriz conceitual. Fazem parte dessas características:\nI. Formar relações horizontais entre os diferentes pontos.\nII. Atenção primária como ordenadora das ações.\nIII. Ofertar atenção contínua e integral.\nEstá CORRETO o que se afirma:",
+  "alts": [
+   "Apenas no item I.",
+   "Apenas nos itens I e II.",
+   "Apenas nos itens II e III.",
+   "Em todos os itens."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 4.279/2010 (consolidada no Anexo I da Portaria de Consolidação 3/2017)",
+  "coment": "A Portaria 4.279/2010, hoje consolidada no Anexo I da Portaria de Consolidação 3/2017, caracteriza as RAS pela formação de relações horizontais entre os pontos de atenção, com a atenção primária como centro de comunicação e ordenadora do cuidado, pela centralidade nas necessidades de saúde da população, pela responsabilização por atenção contínua e integral, pelo cuidado multiprofissional e pelo compartilhamento de objetivos e compromissos com resultados sanitários e econômicos. Os três itens estão corretos.",
+  "porAlt": [
+   "Errada: além das relações horizontais, a APS ordenadora e a atenção contínua e integral também caracterizam as RAS.",
+   "Errada: omite a atenção contínua e integral, característica expressa na portaria.",
+   "Errada: omite as relações horizontais entre pontos, que substituem a lógica piramidal hierárquica.",
+   "Correta: relações horizontais, APS como centro de comunicação e atenção contínua e integral são características das RAS."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 7,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Resolução-RDC nº 36/2013, que institui ações para a segurança do paciente em serviços de saúde, no capítulo em que trata da Vigilância, do Monitoramento e da Notificação de Eventos Adversos, define que:\nI. O Núcleo de Segurança do Paciente (NPS) fará o monitoramento dos incidentes e eventos adversos.\nII. A notificação dos eventos adversos deve ser realizada mensalmente até o 15º (décimo quinto) dia útil do mês subsequente ao mês de vigilância.\nIII. Os eventos adversos que evoluírem para óbito podem ser notificados apenas em relatório anual.\nEstá INCORRETO o que se afirma:",
+  "alts": [
+   "Apenas no item I.",
+   "Apenas no item II.",
+   "Apenas no item III.",
+   "Apenas nos itens I e II."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, arts. 9º e 10",
+  "coment": "A RDC 36/2013 atribui ao Núcleo de Segurança do Paciente o monitoramento dos incidentes e eventos adversos (art. 9º; o enunciado escreve 'NPS', mas a sigla é NSP). A notificação ao Sistema Nacional de Vigilância Sanitária é mensal, até o 15º dia útil do mês seguinte ao da vigilância (art. 10). Os eventos adversos que evoluem para óbito devem ser notificados em até 72 horas a partir do ocorrido (parágrafo único do art. 10), e não apenas em relatório anual. Por isso só o item III está incorreto.",
+  "porAlt": [
+   "Errada: o item I está correto, pois o monitoramento cabe ao Núcleo de Segurança do Paciente (art. 9º).",
+   "Errada: o item II está correto; a notificação é mensal, até o 15º dia útil do mês subsequente.",
+   "Correta: só o item III é incorreto, porque evento adverso com óbito é notificado em até 72 horas.",
+   "Errada: os itens I e II reproduzem a RDC 36/2013 e estão corretos."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 8,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre a Política Nacional de Educação Permanente em Saúde (PNEPS), avaliar se as afirmativas são certas (C) ou erradas (E) e assinalar a sequência correspondente.\n( ) Como uma política pública, baseia-se na aprendizagem significativa e na reflexividade das práticas em ações na rede de serviço.\n( ) A educação permanente em saúde é baseada principalmente na oferta de curso e formações no formato educação a distância.\n( ) A residência multiprofissional em saúde tem como objetivo formar profissionais para atuação no SUS, uma vez que pressupõe construção interdisciplinar dos profissionais em saúde e trabalho em equipe.",
+  "alts": [
+   "C - C - C.",
+   "C - C - E.",
+   "C - E - C.",
+   "E - C - E."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 1.996/2007 (Política Nacional de Educação Permanente em Saúde); Lei 11.129/2005 (residência em área profissional da saúde)",
+  "coment": "A PNEPS (Portaria GM/MS 1.996/2007) se baseia na aprendizagem significativa e na problematização do processo de trabalho: aprender e ensinar se incorporam ao cotidiano dos serviços, a partir dos problemas reais da equipe. Por isso a educação permanente não se resume a cursos, muito menos a ofertas a distância; essa é a lógica da educação continuada. A residência multiprofissional, instituída pela Lei 11.129/2005, forma profissionais para o SUS em serviço, com construção interdisciplinar e trabalho em equipe. Sequência C, E, C.",
+  "porAlt": [
+   "Errada: a segunda é falsa, porque a educação permanente não se baseia em oferta de cursos a distância.",
+   "Errada: a residência multiprofissional forma para o SUS em equipe interdisciplinar, e a segunda é falsa.",
+   "Correta: aprendizagem significativa e residência voltada ao SUS são certas; reduzir a EPS a cursos EAD é errado.",
+   "Errada: a PNEPS se baseia na aprendizagem significativa e a residência visa o SUS, logo a primeira e a terceira são certas."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 9,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Na discussão acerca da bioética e da competência interdisciplinar, a interdisciplinaridade só ocorre quando existe interação de pessoas e troca de saberes e opiniões. Entre as condições necessárias para que a interdisciplinaridade ocorra, estão:\nI. A existência de uma linguagem e objetivos comuns.\nII. Reconhecimento da necessidade de considerar diferenças existentes.\nIII. Domínio dos conteúdos específicos de cada um dos participantes.\nEstá CORRETO o que se afirma:",
+  "alts": [
+   "Apenas no item I.",
+   "Apenas nos itens I e II.",
+   "Apenas nos itens II e III.",
+   "Em todos os itens."
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Goldim JR. Bioética: origens e complexidade. Revista HCPA 2006;26(2):86-92",
+  "coment": "Na bioética complexa descrita por Goldim, a interdisciplinaridade não é a soma de especialistas lado a lado: exige interação real entre pessoas e troca de saberes e opiniões. Para que ocorra, são necessárias uma linguagem e objetivos comuns, o reconhecimento e a consideração das diferenças entre as disciplinas e entre os participantes, e o domínio dos conteúdos específicos de cada um, sem o qual não há contribuição própria a trocar. Os três itens descrevem essas condições.",
+  "porAlt": [
+   "Errada: além de linguagem e objetivos comuns, a interdisciplinaridade exige considerar diferenças e dominar a própria área.",
+   "Errada: omite o domínio dos conteúdos específicos, sem o qual o participante nada tem a contribuir.",
+   "Errada: omite a linguagem e os objetivos comuns, base da troca entre as disciplinas.",
+   "Correta: linguagem e objetivos comuns, reconhecimento das diferenças e domínio dos conteúdos são condições da interdisciplinaridade."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 10,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre a fisiopatogenia e a prevenção das infecções da corrente sanguínea relacionadas a cateteres centrais, de acordo com a ANVISA, analisar os itens.\nI. Higienizar as mãos antes e após a inserção e para qualquer tipo de manipulação dos cateteres é uma das medidas preventivas destas infecções.\nII. Após as duas primeiras semanas, principalmente nos cateteres de longa permanência, prevalece a colonização da via intraluminal como fonte de ocorrência dessas infecções, pois à medida que o tempo passa, o número de manipulações do hub aumenta, favorecendo sua contaminação.\nIII. Nas duas primeiras semanas, a colonização extraluminal predomina na gênese dessas infecções. Isto é, as bactérias da pele alcançam a corrente sanguínea após terem formado “biofilmes” na face externa do cateter central.\nEstá CORRETO o que se afirma:",
+  "alts": [
+   "Apenas no item I.",
+   "Apenas nos itens II e III.",
+   "Apenas nos itens I e II.",
+   "Em todos os itens."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (ANVISA, 2017), prevenção de infecção da corrente sanguínea",
+  "coment": "Segundo a ANVISA (2017), nas duas primeiras semanas após a inserção predomina a via extraluminal: microrganismos da pele migram pela face externa do cateter e formam biofilme. Depois disso, sobretudo nos cateteres de longa permanência, prevalece a via intraluminal, porque as repetidas manipulações do hub e das conexões favorecem a contaminação. Daí as medidas: higiene das mãos antes e após a inserção e em qualquer manipulação, antissepsia da pele com clorexidina alcoólica e desinfecção do hub antes de cada acesso. Os três itens estão corretos.",
+  "porAlt": [
+   "Errada: as afirmativas sobre a via intraluminal tardia e a extraluminal precoce também estão corretas.",
+   "Errada: a higiene das mãos antes e após inserção e manipulação é medida preventiva central e está correta.",
+   "Errada: omite a colonização extraluminal das duas primeiras semanas, também correta.",
+   "Correta: higiene das mãos, via extraluminal nas duas primeiras semanas e intraluminal depois estão de acordo com a ANVISA."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 11,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O aumento dos níveis pressóricos como evento agudo é uma das demandas mais comuns no atendimento à demanda espontânea no dia a dia das equipes na atenção primária em saúde. O manejo de crises hipertensivas no adulto, segundo o protocolo do COREN-RS, indica que:",
+  "alts": [
+   "Na emergência hipertensiva, caracterizada pela elevação aguda da pressão arterial associada a alterações do nível de consciência, perda de força motora, alterações visuais, de fala e da face, convulsões, dor precordial, dispneia, cianose ou saturação ≤ 90%, bradicardia ou taquicardia, o enfermeiro deve orientar a administração de captopril sublingual.",
+   "Na urgência hipertensiva, caracterizada pela elevação da pressão arterial e/ou pressão arterial diastólica ≥ 120 mmHg associada a dor moderada em região occipital, dor torácica moderada, o enfermeiro deve encaminhar para consulta médica pela necessidade de reestabelecer controle pressórico em 24-48h.",
+   "Na emergência hipertensiva, caracterizada pela elevação aguda da pressão arterial associada a alterações do nível de consciência, dor precordial, dispneia e bradicardia, o enfermeiro deve prescrever paracetamol ou dipirona.",
+   "Na pseudocrise hipertensiva, caracterizada pela elevação da pressão arterial associada a sintomas relatados pelo usuário que não permitem estabelecer relação causal entre a hipertensão e a manifestação do desconforto com relato de ansiedade, situação estressante recente, dor leve/crônica ou cefaleia, o enfermeiro deve prescrever paracetamol ou dipirona e captopril sublingual."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Protocolo de enfermagem do COREN-RS para crise hipertensiva na APS; Diretriz Brasileira de Hipertensão Arterial 2025 (SBC/SBH/SBN)",
+  "coment": "No protocolo do COREN-RS, a urgência hipertensiva (PAD a partir de 120 mmHg com dor occipital ou torácica moderada, sem lesão aguda de órgão-alvo) é encaminhada à consulta médica para controle pressórico em 24 a 48 horas. A emergência hipertensiva, com sinais neurológicos, dor precordial ou dispneia, exige estabilização e transferência, nunca captopril sublingual, que derruba a PA de forma abrupta e imprevisível. A Diretriz Brasileira de Hipertensão 2025 propôs aposentar o termo urgência, agora 'elevação importante da PA sem lesão progressiva de órgão-alvo', com observação, medicação oral e reavaliação em 1 a 7 dias.",
+  "porAlt": [
+   "Errada: emergência hipertensiva exige transferência para serviço de urgência, e captopril sublingual não é conduta recomendada.",
+   "Correta: sem lesão aguda de órgão-alvo, o enfermeiro encaminha à consulta médica para controlar a PA em curto prazo.",
+   "Errada: na emergência hipertensiva não cabe analgésico prescrito pelo enfermeiro; o paciente precisa de suporte e remoção imediata.",
+   "Errada: na pseudocrise trata-se a causa, como dor ou ansiedade, sem anti-hipertensivo de resgate como captopril sublingual."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 12,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Brunner & Suddarth, durante as primeiras 24 horas depois da cirurgia, os cuidados de enfermagem ao paciente hospitalizado na unidade médico-cirúrgica envolvem continuar ajudando o paciente a se recuperar dos efeitos da anestesia. Quanto ao manejo de enfermagem no período pós-operatório, avaliar se as afirmativas são certas (C) ou erradas (E) e assinalar a sequência correspondente.\n( ) Avaliar a respiração e instalar ventilação mecânica para prevenir sinais de depressão ou angústia respiratória.\n( ) Monitorar os sinais vitais, observar temperatura, umidade e coloração da pele para identificar sinais e sintomas de choque precocemente.\n( ) Avaliar o local da cirurgia e os sistemas de drenagem da ferida. Conectar todos os drenos à aspiração ou posicioná-los para atuação da gravidade, conforme indicado, e monitorar os sistemas de drenagem fechados são parâmetros importantes para identificar sinais e sintomas de hemorragia precocemente.\n( ) Avaliar o nível de consciência, a orientação e a capacidade de manter repouso absoluto no leito são parâmetros que ajudam a identificar sinais e sintomas de hemorragia e de complicações neurológicas precocemente.",
+  "alts": [
+   "E - C - C - E.",
+   "C - E - E - C.",
+   "C - C - E - E.",
+   "E - E - C - C."
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., Guanabara Koogan, 2020 (cuidados pós-operatórios)",
+  "coment": "Nas primeiras 24 horas na unidade médico-cirúrgica, o enfermeiro avalia a respiração para detectar depressão ou angústia respiratória e intervém com posicionamento, estímulo à tosse e oxigênio; instalar ventilação mecânica não é medida preventiva de enfermaria (primeira errada). Sinais vitais, temperatura, umidade e coloração da pele detectam choque precoce, e a inspeção da ferida e dos drenos, ligados à aspiração ou à gravidade conforme prescrito, detecta hemorragia (segunda e terceira certas). Avaliam-se nível de consciência, orientação e capacidade de mover as extremidades, e não de manter repouso absoluto, pois a mobilização precoce é estimulada (quarta errada).",
+  "porAlt": [
+   "Correta: ventilação mecânica preventiva e repouso absoluto estão errados; sinais vitais e inspeção de ferida e drenos estão certos.",
+   "Errada: inverte a sequência; as afirmativas sobre sinais de choque e sobre drenos é que estão corretas.",
+   "Errada: instalar ventilação mecânica não é cuidado de rotina do pós-operatório na enfermaria.",
+   "Errada: a avaliação de pele e sinais vitais para choque é correta, e o repouso absoluto contraria a deambulação precoce."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 13,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo a Lei nº 13.840/2019, para os objetivos do Plano Nacional de Políticas sobre Drogas, avaliar se as afirmativas são certas (C) ou erradas (E) e assinalar a sequência correspondente.\n( ) Promover a interdisciplinaridade e a integração de programas, ações, atividades e projetos de órgãos e entidades públicas e privadas nas áreas de saúde, educação, trabalho, assistência social, previdência social, habitação, cultura, desporto e lazer, visando à prevenção do uso de drogas, à atenção e à reinserção social dos usuários ou dependentes de drogas.\n( ) Viabilizar a ampla participação social na formulação, na implementação e na avaliação das políticas sobre drogas.\n( ) Ampliar as alternativas de inserção social e econômica do usuário ou dependente de drogas, promovendo programas que priorizem a melhoria de sua escolarização e a qualificação profissional.\n( ) Fomentar a criação de serviço de atendimento telefônico com orientações e informações para apoio aos usuários ou dependentes de drogas.",
+  "alts": [
+   "C - E - E - C.",
+   "E - C - C - E.",
+   "C - C - C - C.",
+   "E - E - C - C."
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Álcool e outras drogas",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 11.343/2006, art. 8º-D, incluído pela Lei 13.840/2019 (objetivos do Plano Nacional de Políticas sobre Drogas)",
+  "coment": "A Lei 13.840/2019 incluiu na Lei 11.343/2006 o Plano Nacional de Políticas sobre Drogas e listou seus objetivos. Entre eles estão: promover a interdisciplinaridade e a integração de programas e ações de saúde, educação, trabalho, assistência social, previdência, habitação, cultura, desporto e lazer; viabilizar ampla participação social na formulação, implementação e avaliação das políticas; ampliar as alternativas de inserção social e econômica do usuário, com escolarização e qualificação profissional; e fomentar serviço de atendimento telefônico de orientação e apoio. Todas as afirmativas são certas.",
+  "porAlt": [
+   "Errada: viabilizar a participação social e ampliar a inserção social e econômica também são objetivos do plano.",
+   "Errada: a integração intersetorial e o atendimento telefônico de apoio constam entre os objetivos legais.",
+   "Correta: os quatro itens figuram entre os objetivos do Plano Nacional de Políticas sobre Drogas.",
+   "Errada: a interdisciplinaridade intersetorial e a participação social são objetivos expressos do plano."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 14,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente idosa de 75 anos, com histórico de enfisema pulmonar, pneumonia, diabetes mellitus tipo 2, hipertensão arterial sistêmica e AVC isquêmico prévio. Acamada e dependente para autocuidado, com quadro de concentração e memória prejudicadas, desorientada em tempo e espaço, inquieta e agitada por períodos. Escala CAM positiva; mucosas hipocoradas, um pouco desidratadas, com hemiparesia à direita, em uso de fraldas pela incontinência urinária. No terceiro dia de internação, apresentava febre persistente, mesmo em vigência de antibiótico, e a equipe médica solicitou coleta de urocultura e EQU devido à possibilidade de novo foco infeccioso, antes de escalonar ou descalonar o antibiótico. Com base nas informações clínicas do caso, referente aos diagnósticos de enfermagem acurados para este caso, bem como os resultados (NOC) e intervenções de enfermagem (NIC), analisar os itens.\nI. O diagnóstico de enfermagem \"Confusão Aguda\" pode ser elencado, com características definidoras como agitação psicomotora (agitada por períodos; inquieta) e percepções incorretas (desorientada em tempo e espaço); e como condições associadas ao quadro infeccioso (pneumonia) e à doença cerebrovascular (AVC prévio).\nII. A paciente apresenta fatores de risco para lesão por pressão, como mobilidade física prejudicada (acamada), umidade excessiva (incontinência urinária) e desidratação (mucosas pouco desidratadas). O resultado de enfermagem esperado (NOC) integridade tissular: pele e mucosas; e as como atividades da intervenção (NIC) prevenção de lesão por pressão: usar superfícies de apoio adequadas, realizar mudanças de decúbito e monitorar a integridade da pele, estão indicadas para o seu cuidado.\nIII. A coleta de urina foi indicada devido aos sinais de deterioração clínica da paciente, como febre persistente, que sugere possível foco infeccioso urinário. A amostra de urina deve ser coletada por cateterismo vesical de alívio, antes do ajuste de antibióticos para permitir uma terapia direcionada e eficaz.\nEstá CORRETO o que se afirma:",
+  "alts": [
+   "Apenas nos itens I e II.",
+   "Apenas nos itens II e III.",
+   "Apenas no item II.",
+   "Em todos os itens."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NANDA-I, Diagnósticos de Enfermagem 2024-2026 (13ª ed.); ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (2017)",
+  "coment": "A paciente tem CAM positiva, desorientação, agitação e inquietação de instalação aguda, com infecção e AVC prévio como condições associadas: Confusão aguda é diagnóstico acurado (I). Acamada, incontinente e desidratada, tem fatores de risco para lesão por pressão; o resultado Integridade tissular: pele e mucosas e a intervenção Prevenção de lesão por pressão, com superfície de apoio, mudança de decúbito e inspeção da pele, são pertinentes (II). Em paciente incontinente e incapaz de colaborar, o cateterismo vesical de alívio evita contaminar a amostra, que deve ser colhida antes de ajustar o antibiótico (III). Todos corretos.",
+  "porAlt": [
+   "Errada: o item III também está correto; a urocultura por cateterismo de alívio antes do ajuste do antibiótico é adequada.",
+   "Errada: o item I está correto, pois CAM positiva, desorientação e agitação sustentam Confusão aguda.",
+   "Errada: os itens I e III também estão corretos para o caso.",
+   "Correta: Confusão aguda, a prevenção de lesão por pressão e a coleta por cateterismo de alívio estão bem indicadas."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 15,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A detecção precoce e o tratamento adequado em estágios iniciais da doença renal crônica (DRC), realizados na atenção primária, ajudam a prevenir os desfechos deletérios e a subsequente morbidade relacionados às nefropatias. Em relação à classificação da DRC, as condutas de enfermagem, de acordo com os protocolos de enfermagem na atenção primária à saúde (hipertensão e diabetes), a partir do risco moderado, alto ou muito alto, são:\nI. Encaminhar para consulta médica com brevidade.\nII. Abordagem integrada dos fatores de risco cardiovascular.\nIII. Manter coordenação do cuidado para pessoas com DRC, em equipe multiprofissional e/ou com atenção ambulatorial especializada, quando indicada.\nIV. Monitorar e contribuir com o plano de cuidados individualizado com enfoque no controle estrito da pressão arterial, da glicemia, na promoção da adesão ao tratamento e nas mudanças de estilo de vida.\nEstá CORRETO o que se afirma:",
+  "alts": [
+   "Apenas no item I.",
+   "Apenas nos itens II e III.",
+   "Apenas nos itens II, III e IV.",
+   "Em todos os itens."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD; Diretrizes Clínicas para o Cuidado ao Paciente com Doença Renal Crônica no SUS (MS, 2014)",
+  "coment": "A DRC é classificada pela taxa de filtração glomerular e pela albuminúria, e a combinação define o risco de progressão e de eventos cardiovasculares (KDIGO 2024). A partir do risco moderado, os protocolos de enfermagem na APS orientam encaminhar para consulta médica com brevidade, abordar de forma integrada os fatores de risco cardiovascular, manter a coordenação do cuidado com a equipe multiprofissional e a atenção especializada quando indicada, e acompanhar o plano individualizado com foco no controle da PA e da glicemia, na adesão e nas mudanças de estilo de vida. Todos os itens estão corretos.",
+  "porAlt": [
+   "Errada: além do encaminhamento médico, a abordagem cardiovascular, a coordenação e o monitoramento também se aplicam.",
+   "Errada: omite o encaminhamento médico com brevidade e o plano com controle estrito de PA e glicemia.",
+   "Errada: omite o encaminhamento para consulta médica com brevidade, indicado a partir do risco moderado.",
+   "Correta: encaminhar, abordar o risco cardiovascular, coordenar o cuidado e monitorar o plano são condutas do protocolo."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 16,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A avaliação e a intervenção de enfermagem ao paciente em atendimento na triagem visam à estabilização, ao fornecimento de tratamentos críticos e à imediata transferência para o ambiente apropriado. Sobre as prioridades dos cuidados de enfermagem na emergência, assinalar a alternativa CORRETA.",
+  "alts": [
+   "Estabilização das condições potencialmente fatais, utilizando o método ABC (vias respiratórias [airway], respiração [breathing] e circulação), visando à implementação da via respiratória permeável. Esse método deve ser adaptado para a população idosa e pediátrica.",
+   "Proporcionar ventilação adequada, empregando medidas de reanimação, quando necessário. Os pacientes com traumatismos devem ter a região cervical protegida e as lesões torácicas avaliadas primeiramente, imediatamente após a desobstrução das vias respiratórias.",
+   "Avaliar e restaurar o débito urinário por meio do controle de hemorragias, da prevenção e do tratamento da hipovolemia e da manutenção ou da restauração da circulação efetiva. Isso inclui a prevenção e o manejo da hipotermia. Além disso, os pulsos periféricos são examinados e são realizadas quaisquer reduções abertas imediatas de fraturas ou deslocamentos, se um membro estiver sem pulso arterial.",
+   "Determinar a capacidade neurológica por meio da avaliação da função sensorial com a utilização da escala de coma de Glasgow (ECG) e realizar avaliação motora da medula. A avaliação sensorial rápida pode ser realizada por meio da responsividade verbal ou não ao estímulo da dor."
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., Guanabara Koogan, 2020 (prioridades na emergência); ATLS, 11ª ed. (American College of Surgeons, 2025), avaliação primária xABCDE",
+  "coment": "Brunner lista as prioridades da emergência: via aérea pérvia; ventilação adequada, com reanimação se preciso e, no trauma, proteção cervical e avaliação das lesões torácicas logo após desobstruir a via aérea; débito cardíaco, com controle de hemorragia e hipovolemia; e incapacidade neurológica. A C erra ao falar em débito urinário, e a D ao atribuir à escala de Glasgow a avaliação sensorial. A A é dada como errada pela ressalva de adaptar o método ABC a idosos e crianças, cuja ordem de prioridades é a mesma. No trauma, o ATLS atual usa xABCDE, com controle da hemorragia exsanguinante antes da via aérea.",
+  "porAlt": [
+   "Errada para a banca: a sequência ABC vale para todas as idades; ajustam-se parâmetros, não a ordem das prioridades.",
+   "Correta: ventilação com reanimação se necessário, proteção cervical e avaliação torácica logo após a via aérea no trauma.",
+   "Errada: o objetivo é restaurar o débito cardíaco, e não o débito urinário, pelo controle de hemorragia e da hipovolemia.",
+   "Errada: a escala de Glasgow avalia abertura ocular, resposta verbal e motora, e não a função sensorial."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 18,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinalar a alternativa associada à prevenção de cisalhamento, um dos fatores de risco para o desenvolvimento de lesão por pressão.",
+  "alts": [
+   "Para a prevenção do cisalhamento, é importante manter as roupas de cama limpas e bem esticadas.",
+   "Manter a cabeceira da cama a 30° e os pés elevados para evitar o deslizamento no leito.",
+   "Manter o paciente em decúbito lateral.",
+   "Aplicar hidratante corporal 1x/dia."
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "International Guideline EPUAP/NPIAP/PPPIA, Prevenção e Tratamento de Lesões por Pressão, 4ª ed. (2025); Protocolo para Prevenção de Úlcera por Pressão (MS/Anvisa/Fiocruz, 2013)",
+  "coment": "Cisalhamento é a deformação dos tecidos quando o esqueleto desliza e a pele fica presa à superfície, típico do paciente que escorrega na cama com a cabeceira elevada. A prevenção limita a elevação da cabeceira a 30°, se a condição clínica permitir, e eleva levemente os pés ou flete os joelhos para impedir o deslizamento, além de usar lençol móvel para reposicionar sem arrastar. Lençol limpo e esticado reduz dobras e umidade, mas não impede o deslizamento; decúbito lateral fixo e hidratante uma vez ao dia não atuam sobre o cisalhamento.",
+  "porAlt": [
+   "Errada: lençol limpo e esticado evita dobras e umidade, mas não impede o deslizamento que gera cisalhamento.",
+   "Correta: cabeceira a 30° com pés elevados impede o deslizamento do corpo, mecanismo do cisalhamento.",
+   "Errada: manter decúbito lateral não previne cisalhamento e, sem rodízio, mantém pressão sobre o trocânter.",
+   "Errada: o hidratante trata o ressecamento da pele, mas não atua sobre as forças de cisalhamento."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 19,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação às lesões por pressão, comunitárias e hospitalares, analisar os itens.\nI. Lesões de pele comunitárias são diagnosticadas por meio da inspeção da pele quando se identifica uma lesão ocasionada por pressão e que ocorreu imediatamente após a internação.\nII. Lesões de pele hospitalares são diagnosticadas a qualquer momento da internação. São lesões ocasionadas por pressão.\nIII. Lesões por pressão comunitárias são lesões de pele preexistentes, independentemente do estágio, que foram adquiridas em internação prévia, domicílio, geriatrias ou em outros estabelecimentos de saúde.\nIV. Lesões por pressão hospitalares são lesões que ocorrem após as primeiras 24 horas de internação, lesões estas que não estavam presentes no momento da admissão do paciente e que são ocasionadas por pressão prolongada sobre proeminências ósseas ou pela presença/uso de dispositivos terapêuticos, independentemente da classificação do estágio.\nEstá CORRETO o que se afirma:",
+  "alts": [
+   "Apenas nos itens I e II.",
+   "Apenas no item IV.",
+   "Apenas no item III.",
+   "Apenas nos itens III e IV."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Prevenção de quedas e de lesão por pressão",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Protocolo para Prevenção de Úlcera por Pressão (MS/Anvisa/Fiocruz, 2013); classificação de lesão por pressão NPIAP (2016)",
+  "coment": "Para indicador e notificação, distingue-se a lesão por pressão comunitária, preexistente à internação, de qualquer estágio, adquirida no domicílio, em instituição de longa permanência, em outro serviço ou em internação anterior (III), da hospitalar, que surge após as primeiras 24 horas de internação, não estava presente na admissão e decorre de pressão sobre proeminência óssea ou de dispositivo, em qualquer estágio (IV). Os itens I e II erram o critério de tempo: lesão notada logo após a internação é comunitária, e a hospitalar não é a de qualquer momento, pois se exclui o que já existia na admissão. Daí a importância de inspecionar a pele na admissão.",
+  "porAlt": [
+   "Errada: I e II erram o critério temporal que separa lesão comunitária de hospitalar.",
+   "Errada: o item III também está correto, pois descreve a lesão comunitária preexistente à internação.",
+   "Errada: o item IV também está correto, com o marco das primeiras 24 horas de internação.",
+   "Correta: comunitária é a preexistente à internação; hospitalar surge após 24 horas e não estava na admissão."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 20,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No período após o transplante de células tronco autólogo, alogênico ou de doador não relacionado, podem ocorrer complicações fatais. Sobre as complicações desse transplante, avaliar se as afirmativas são certas (C) ou erradas (E) e assinalar a sequência correspondente.\n( ) As infecções bacterianas e fúngicas são frequentes após 100 dias do transplante. A incidência dessas infecções pode ser diminuída por meio de isolamento cutâneo e internação em unidades abertas com fluxo de ar laminar ou com pressão positiva e uso de antissépticos cutâneos e bucais.\n( ) As infecções virais são infrequentes e ocorrem após 100 dias do transplante. As mais comuns são particularmente por vírus do grupo herpes, herpes-simples, citomegalovírus e vírus varicela-zóster.\n( ) A doença do enxerto versus hospedeiro aguda ocorre nos primeiros 100 dias pós-transplante. A pele, o trato gastrintestinal e o fígado são afetados. O exantema normalmente afeta a face, as palmas das mãos, as plantas dos pés e as orelhas, porém, em casos graves, pode afetar todo o tegumento.\n( ) A doença do enxerto versus hospedeiro crônica ocorre geralmente depois de 100 dias pós-transplante e pode evoluir a partir da doença aguda. São envolvidos os mesmos tecidos, as articulações e outras superfícies serosas, a mucosa oral e as glândulas lacrimais.",
+  "alts": [
+   "C - E - E - C.",
+   "E - C - C - E.",
+   "E - E - C - C.",
+   "C - C - E - E."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., Guanabara Koogan, 2020 (transplante de células-tronco hematopoéticas)",
+  "coment": "Após o transplante de células-tronco hematopoéticas, as infecções bacterianas e fúngicas predominam na fase de neutropenia, antes da pega do enxerto, nas primeiras semanas, e não após 100 dias (primeira errada). As infecções virais, sobretudo por herpes-vírus como herpes-simples, citomegalovírus e varicela-zóster, são frequentes (segunda errada). A doença do enxerto contra o hospedeiro aguda surge nos primeiros 100 dias e atinge pele, trato gastrintestinal e fígado, com exantema que começa em face, palmas, plantas e orelhas. A forma crônica aparece em geral após 100 dias, pode seguir a aguda e acomete também articulações, serosas, mucosa oral e glândulas lacrimais.",
+  "porAlt": [
+   "Errada: as infecções bacterianas e fúngicas predominam na neutropenia precoce, e a DECH crônica está correta.",
+   "Errada: infecções virais por herpes-vírus são frequentes, e a DECH crônica após 100 dias é afirmação correta.",
+   "Correta: as duas primeiras erram a frequência e a época das infecções; as descrições da DECH aguda e crônica estão certas.",
+   "Errada: inverte a sequência, aceitando as afirmativas falsas sobre infecções e rejeitando as corretas sobre DECH."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 21,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A utilização de agentes químicos isolados ou em combinação, com objetivo de tratar tumores malignos, constitui-se em uma maneira de tratar o câncer. Em relação à classificação da quimioterapia antineoplásica, segundo sua finalidade, analisar os itens.\nI. Terapia curativa: utilizada quando o tratamento sistêmico é o tratamento definitivo para a doença.\nII. Terapia adjuvante: utilizada quando o tratamento sistêmico tem o objetivo de aumentar a chance de cura após determinado procedimento cirúrgico; associado ou não à radioterapia.\nIII. Terapia neoadjuvante: utilizada quando o tratamento sistêmico é realizado antes do tratamento curativo, visando à menor radicalidade no procedimento cirúrgico e, ao mesmo tempo, diminuindo o risco de doença à distância.\nIV. Terapia paliativa: utilizada quando o objetivo não é a cura, mas a paliação das consequências da doença; tratamento dos sintomas da doença.\nEstá CORRETO o que se afirma:",
+  "alts": [
+   "Apenas no item I.",
+   "Apenas nos itens I, II e IV.",
+   "Apenas nos itens III e IV.",
+   "Em todos os itens."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "INCA, Ações de enfermagem para o controle do câncer, 3ª ed. (2008); ABC do câncer (INCA, 6. ed., 2020)",
+  "coment": "Pela finalidade, a quimioterapia é curativa quando o tratamento sistêmico é definitivo para a doença, como em leucemias e linfomas; adjuvante quando vem após a cirurgia, com ou sem radioterapia, para eliminar doença residual microscópica e aumentar a chance de cura; neoadjuvante quando é feita antes do tratamento local definitivo, para reduzir o tumor, permitir cirurgia menos radical e tratar cedo as micrometástases; e paliativa quando não há intenção curativa e se busca controlar sintomas e melhorar a qualidade de vida. Os quatro itens estão corretos.",
+  "porAlt": [
+   "Errada: adjuvante, neoadjuvante e paliativa também estão definidas corretamente.",
+   "Errada: a definição de neoadjuvante, feita antes do tratamento local para reduzir o tumor, também está correta.",
+   "Errada: as definições de curativa e adjuvante também estão corretas.",
+   "Correta: curativa, adjuvante, neoadjuvante e paliativa estão definidas conforme o INCA."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 22,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre infecções respiratórias na infância, avaliar se as afirmativas são certas (C) ou erradas (E) e assinalar a sequência correspondente.\n( ) As infecções do trato respiratório são responsáveis pela maioria das doenças agudas em crianças, e a idade, a estação do ano, as condições de vida e os problemas de saúde preexistentes influenciam a causa e o curso dessas infecções.\n( ) A maioria das infecções é causada por vírus, particularmente o vírus sincicial respiratório (VSR), rinovírus, enterovírus não poliomielite (vírus Coxsackie A e B), adenovírus, vírus parainfluenza, vírus influenza e metapneumovírus humano.\n( ) A taxa de infecção se eleva após os 6 meses de vida, tendo pico aos 12 anos de idade, que é o período entre o desaparecimento dos anticorpos maternos e a produção de anticorpos próprios da adolescência.\n( ) Deficiências do sistema imunológico colocam a criança em risco de infecção. Entre as condições que diminuem a resistência, estão desnutrição e anemia.",
+  "alts": [
+   "C - E - E - C.",
+   "E - C - C - E.",
+   "C - C - E - C.",
+   "E - E - C - C."
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hockenberry, Wilson e Rodgers, Wong Fundamentos de Enfermagem Pediátrica, 10ª ed. (Elsevier, 2018), infecções respiratórias",
+  "coment": "Hockenberry descreve as infecções respiratórias como a maior causa de doença aguda na infância, influenciadas por idade, estação, condições de vida e doenças prévias, e na maioria virais (VSR, rinovírus, enterovírus não pólio, adenovírus, parainfluenza, influenza e metapneumovírus). A taxa de infecção sobe a partir dos 3 a 6 meses, intervalo entre o desaparecimento dos anticorpos maternos e a produção dos próprios, e segue alta nos primeiros anos e na idade pré-escolar, caindo depois; não há pico aos 12 anos (terceira errada). Desnutrição, anemia e imunodeficiências aumentam o risco.",
+  "porAlt": [
+   "Errada: a segunda afirmativa é verdadeira, pois a maioria das infecções respiratórias infantis é viral.",
+   "Errada: a primeira e a quarta são verdadeiras, e a terceira erra ao colocar o pico aos 12 anos.",
+   "Correta: só a terceira é falsa; a taxa é alta nos primeiros anos e na pré-escola, não aos 12 anos.",
+   "Errada: as duas primeiras são verdadeiras, e o pico aos 12 anos é falso."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 23,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A desidratação é um distúrbio de líquidos corporais comumente encontrado nos cuidados de enfermagem de lactentes e recém-nascidos, ocorrendo sempre que a quantidade total de líquido eliminado excede a ingesta total, independentemente da causa subjacente. Sobre os tipos de desidratação, analisar os itens.\nI. A desidratação isotônica (isosmótica ou isonatrêmica) ocorre em condições nas quais os déficits de eletrólitos e água estão presentes em proporções aproximadamente iguais. Em pacientes pediátricos, essa é a principal forma de desidratação.\nII. A desidratação hipotônica (hiposmótica ou hiponatrêmica) ocorre quando o déficit eletrolítico excede o déficit hídrico.\nIII. A desidratação hipertônica (hiperosmótica ou hipernatrêmica) resulta de uma perda de água que excede a perda de eletrólitos e geralmente é causada por uma perda proporcionalmente maior de água ou uma ingesta maior de eletrólitos.\nIV. A desidratação isotônica (hiperosmótica ou isonatrêmica) tem o choque como desfecho principal em crianças menores, mas com nenhuma probabilidade de ocorrência de distúrbios neurológicos, como convulsões.\nEstá CORRETO o que se afirma:",
+  "alts": [
+   "Apenas nos itens I e IV.",
+   "Apenas nos itens I, II e III.",
+   "Apenas nos itens III e IV.",
+   "Em todos os itens."
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hockenberry, Wilson e Rodgers, Wong Fundamentos de Enfermagem Pediátrica, 10ª ed. (Elsevier, 2018), desidratação",
+  "coment": "A desidratação isotônica, com perda proporcional de água e eletrólitos, é a forma mais comum na criança, e o choque hipovolêmico é a principal ameaça (I certa). Na hipotônica, a perda de eletrólitos supera a de água e o líquido migra para o intracelular, agravando a hipovolemia (II certa). Na hipertônica, a perda de água supera a de eletrólitos, por perda hídrica maior ou ingestão excessiva de eletrólitos; é a mais perigosa do ponto de vista neurológico, com alteração de consciência e convulsões (III certa). A IV erra ao chamar a isotônica de hiperosmótica e ao negar qualquer risco neurológico.",
+  "porAlt": [
+   "Errada: a IV está errada, e a II e a III, omitidas, estão corretas.",
+   "Correta: I, II e III descrevem corretamente as desidratações isotônica, hipotônica e hipertônica.",
+   "Errada: a III está certa, mas a IV erra a osmolaridade da isotônica e nega o risco neurológico.",
+   "Errada: a IV é falsa; a isotônica é isosmótica, e alterações neurológicas podem ocorrer nas desidratações graves."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 24,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre assistência a mulheres para prevenção e rastreamento do câncer de mama, avaliar se as afirmativas são certas (C) ou erradas (E) e assinalar a sequência correspondente.\n( ) O rastreamento do câncer de mama deve ser realizado a partir da solicitação do exame mamografia bilateral para todas as mulheres entre 50 e 69 anos, a cada dois anos, ou para mulheres de 35 anos ou mais com risco elevado, anualmente.\n( ) O autoexame das mamas não deve ser ensinado e indicado pelos profissionais de saúde como método de rastreamento, diante da sua baixa acuidade para a detecção precoce do câncer de mama, ineficácia para a redução da mortalidade e associação a danos por sobrediagnósticos.\n( ) Após os 70 anos, há maior risco de se encontrar um câncer que não evoluiria a ponto de causar prejuízos à saúde da mulher (sobrediagnóstico). O tratamento desse tipo de câncer expõe a mulher a riscos e a danos desnecessários.\n( ) A prática ocasional e não sistemática da observação e autopalpação das mamas pode ser estimulada para fins de autoconhecimento, cabendo ao enfermeiro acolher, valorizar a queixa e orientar a mulher diante de anormalidades encontradas.",
+  "alts": [
+   "C - C - C - C.",
+   "E - C - C - E.",
+   "C - E - E - C.",
+   "C - E - C - C."
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "INCA. Diretrizes para a detecção precoce do câncer de mama no Brasil, 2015; Nota Técnica 626/2025-CGCAN/DECAN/SAES/MS (ampliação do rastreamento mamográfico)",
+  "coment": "As diretrizes do INCA de 2015 recomendam mamografia bienal de 50 a 69 anos e não recomendam o autoexame como método de rastreamento, por não reduzir a mortalidade e aumentar biópsias e sobrediagnóstico; a autopalpação ocasional para autoconhecimento é estimulada, e o enfermeiro acolhe e investiga a queixa. Para a mulher de risco elevado, a mamografia é anual a partir dos 35 anos. Atualização: em setembro de 2025 o Ministério da Saúde estendeu o rastreamento bienal até os 74 anos e passou a oferecer mamografia de 40 a 49 anos sob demanda, por decisão compartilhada. O risco de sobrediagnóstico com a idade avançada continua válido.",
+  "porAlt": [
+   "Correta: as quatro afirmativas seguem as diretrizes do INCA de 2015, vigentes na data da prova.",
+   "Errada: a primeira é verdadeira pelas diretrizes de 2015, e a autopalpação para autoconhecimento é estimulada.",
+   "Errada: o autoexame não é método de rastreamento, e o sobrediagnóstico em idade avançada é risco reconhecido.",
+   "Errada: a segunda é verdadeira; o INCA não recomenda ensinar o autoexame como método de rastreamento."
+  ],
+  "fonte": {
+   "banca": "HCPA (FUNDMED)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2025, processo suplementar, Enfermagem",
+   "n": 25,
+   "parte": "especificas"
+  }
+ }
+]

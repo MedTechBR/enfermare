@@ -1,0 +1,1474 @@
+[
+ {
+  "q": "As teorias de administração nos serviços de saúde fornecem os fundamentos e as diversas perspectivas no aprimoramento do gerenciamento dos recursos humanos, materiais e financeiros, como: divisão de tarefas e hierarquia, liderança e motivação no trabalho, adaptação às novas tecnologias, educação continuada, entre outros, para garantir a melhor qualidade da assistência de enfermagem a ser prestada ao paciente. Sobre as Teorias, leia as afirmações abaixo e coloque V nas Verdadeiras e F nas Falsas.\n( ) A Teoria científica tem como termos mais utilizados: organização racional; tempos e movimentos; divisão de trabalho, com ênfase na tarefa, incentivo salarial.\n( ) A Teoria dos sistemas tem ênfase no ambiente, conceito do “homem funcional”, caracteriza-se pelo relacionamento interpessoal com outras pessoas como um sistema aberto.\n( ) A Teoria comportamental visa a dois pressupostos a respeito do comportamento humano, análise da motivação: teoria X (responsável, adepto ao trabalho, criativo e independente) e teoria Y (indolente, preguiçoso, irresponsável, resistente a mudanças).\n( ) A Teoria clássica tem ênfase na estrutura, visando às funções técnicas e administrativas Os seguidores são chamados de “anatomistas e fisiologistas\".\n( ) A Teoria das relações humanas estuda a organização informal, dinâmica de grupo e mudança organizacional, relações intergrupais.\nAssinale a alternativa que indica a sequência CORRETA.",
+  "alts": [
+   "V, F, V, F, V",
+   "V, V, F, V, V",
+   "F, F, V, V, V",
+   "F, F, V, F, V",
+   "V, F, V, V, V"
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Kurcgant P (org.). Gerenciamento em enfermagem, 3. ed., 2016; Chiavenato I. Introdução à teoria geral da administração (Taylor 1911, Fayol 1916, McGregor 1960)",
+  "coment": "Taylor (administração científica) enfatiza a tarefa: organização racional, estudo de tempos e movimentos, divisão do trabalho e incentivo salarial (V). A teoria dos sistemas olha a organização como sistema aberto em troca com o ambiente e usa o conceito de homem funcional, que desempenha papéis em relação aos outros (V). Na teoria comportamental, McGregor descreveu a teoria X (trabalhador indolente, que evita responsabilidade e precisa de controle) e a teoria Y (responsável, criativo, que busca o trabalho); a afirmativa inverteu as duas (F). Fayol (clássica) enfatiza a estrutura e as funções administrativas, e seus seguidores foram chamados de anatomistas e fisiologistas da organização (V). Relações humanas (Mayo) estudam a organização informal e a dinâmica de grupo (V).",
+  "porAlt": [
+   "Errada: marca F na teoria dos sistemas, que de fato trabalha com o homem funcional e o sistema aberto, e V na comportamental, que tem X e Y trocadas.",
+   "Correta: só a afirmativa sobre a teoria comportamental é falsa, porque descreve a teoria X com os traços da Y e vice-versa.",
+   "Errada: a teoria científica de Taylor é mesmo a da tarefa, dos tempos e movimentos e do incentivo salarial, logo é verdadeira.",
+   "Errada: marca F em afirmativas verdadeiras (científica, sistemas e clássica) e V na comportamental, que inverteu X e Y.",
+   "Errada: considera verdadeira a afirmativa da teoria comportamental, que troca as características das teorias X e Y de McGregor."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Hospitalar",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma Unidade Básica de Saúde atende uma população de cerca de 8.000 pessoas. Durante a 10º a 13ª semana do ano, a equipe notou um aumento no atendimento de pacientes com doença febril aguda. Foram registrados os seguintes números de casos clinicamente compatíveis com dengue:\n• 10ª Semana: 2 casos\n• 11ª Semana: 5 casos\n• 12ª Semana: 14 casos\n• 13ª Semana: 22 casos\nO histórico de vigilância da área mostra que a média semanal de casos de dengue para o mesmo período nos três anos anteriores foi de 3 casos por semana, com um máximo de 7 casos em uma única semana. Com base no cenário, a situação é caracterizada como",
+  "alts": [
+   "uma endemia, pois a doença é esperada na região, e os casos estão dentro da variação histórica.",
+   "um aglomerado, pois há uma concentração de casos no tempo e espaço, mas ainda dentro do esperado.",
+   "um surto epidêmico, pois há um aumento significativo no número de casos, ultrapassando claramente a incidência esperada para o local e período.",
+   "um evento esporádico, sem significado epidemiológico, pois o número absoluto de casos ainda é baixo.",
+   "Nenhuma das alternativas."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Investigação de surtos",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guia de Vigilância em Saúde, 6. ed. (MS, 2023), diagrama de controle e conceito de epidemia",
+  "coment": "O esperado se mede pela série histórica do mesmo período: média de 3 casos por semana e máximo de 7 nos três anos anteriores. Na 12ª semana houve 14 casos e na 13ª, 22, o dobro e o triplo do máximo histórico, com tendência crescente semana a semana. Casos acima do limite superior esperado para o lugar e o período caracterizam epidemia; quando restrita a uma área delimitada, como o território de uma UBS, chama-se surto. Endemia seria ocorrência dentro da faixa habitual, o que não é o caso. Número absoluto baixo não descaracteriza o excesso: o que conta é a comparação com o esperado.",
+  "porAlt": [
+   "Errada: endemia é ocorrência dentro da faixa habitual, e 14 e 22 casos superam claramente o máximo histórico de 7.",
+   "Errada: o excesso de casos ultrapassa o esperado, então não se trata de concentração dentro do esperado.",
+   "Correta: os casos ultrapassam o limite máximo histórico para o local e o período, com tendência crescente, o que define surto epidêmico.",
+   "Errada: não é evento esporádico; a comparação com a série histórica mostra excesso significativo, independentemente do número absoluto.",
+   "Errada: há alternativa correta, a que caracteriza surto epidêmico pelo excesso sobre o esperado."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 1,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Compreender os diversos padrões de variação temporal das doenças é essencial para identificar tendências epidemiológicas. As flutuações na incidência de uma doença que ocorrem em intervalos de tempo regulares e periódicos, que podem ser anuais, bienais, ou ao longo de vários anos, são conceituadas como",
+  "alts": [
+   "Tendência histórica.",
+   "Variação sazonal.",
+   "Variação cíclica.",
+   "Variação aleatória.",
+   "Nenhuma das alternativas."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia & Saúde, 8. ed., 2018, distribuição temporal das doenças",
+  "coment": "A distribuição temporal das doenças tem quatro padrões clássicos. Tendência histórica (secular) é a mudança de longo prazo, ao longo de décadas. Variação cíclica é a flutuação que se repete em intervalos regulares maiores ou iguais a um ano, como os ciclos de sarampo antes da vacinação, a cada 2 ou 3 anos. Variação sazonal é a repetição ligada às estações dentro do ano, como dengue no verão e influenza no inverno. Variação irregular ou aleatória é a que não segue padrão previsível. O enunciado fala em intervalos regulares anuais, bienais ou plurianuais: é a cíclica.",
+  "porAlt": [
+   "Errada: tendência histórica é a mudança lenta de longo prazo, ao longo de décadas, sem periodicidade regular.",
+   "Errada: a variação sazonal acompanha as estações dentro do ano, não ciclos bienais ou plurianuais.",
+   "Correta: variação cíclica é a flutuação periódica em intervalos regulares, anuais, bienais ou de vários anos.",
+   "Errada: a variação aleatória é irregular e imprevisível, o oposto de intervalos regulares.",
+   "Errada: há alternativa correta, a variação cíclica."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 2,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A tabela abaixo apresenta o número de óbitos por Cólera registrados em alguns estados do Nordeste brasileiro, no período de 2020 a 2025:\nAlagoas — 2020: 12; 2021: 15; 2022: 9; 2023: 7; 2024: 5; 2025: 3\nBahia — 2020: 28; 2021: 32; 2022: 25; 2023: 18; 2024: 12; 2025: 8\nCeará — 2020: 10; 2021: 14; 2022: 11; 2023: 8; 2024: 6; 2025: 4\nPernambuco — 2020: 18; 2021: 22; 2022: 16; 2023: 13; 2024: 10; 2025: 6\nRio Grande do Norte — 2020: 8; 2021: 11; 2022: 7; 2023: 5; 2024: 4; 2025: 2\nCom base nos dados apresentados, assinale a alternativa CORRETA.",
+  "alts": [
+   "Entre 2020 e 2025, o único estado que apresentou a maior redução percentual no número de óbitos foi Alagoas, com queda de 75%.",
+   "Em 2025, a soma dos óbitos nos cinco estados foi de 23 casos, valor inferior ao registrado apenas na Bahia em 2020.",
+   "A média anual de óbitos por cólera no estado de Pernambuco, no período, foi superior a 17 casos por ano.",
+   "O maior número de óbitos no Ceará no período ocorreu em 2021, mas a Bahia foi o único estado que registrou aumento de óbitos de 2020 para 2021.",
+   "Nenhuma das alternativas."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Bonita R, Beaglehole R, Kjellström T. Epidemiologia básica, 2. ed. (OMS, 2010), análise de séries de dados",
+  "coment": "A questão é de leitura de tabela (os números são do enunciado). Soma de 2025: 3 + 8 + 4 + 6 + 2 = 23 óbitos, menor que os 28 da Bahia em 2020. As demais falham no cálculo: Alagoas caiu 75% (12 para 3), mas o Rio Grande do Norte também (8 para 2), então Alagoas não é o único. A média de Pernambuco é 85 dividido por 6, cerca de 14,2 por ano, abaixo de 17. O Ceará teve o máximo em 2021, mas todos os cinco estados aumentaram de 2020 para 2021, não só a Bahia. Redução percentual é (inicial menos final) dividido pelo inicial.",
+  "porAlt": [
+   "Errada: o Rio Grande do Norte também caiu 75% (de 8 para 2), então Alagoas não foi o único.",
+   "Correta: os cinco estados somaram 23 óbitos em 2025, menos que os 28 da Bahia em 2020.",
+   "Errada: Pernambuco somou 85 óbitos em 6 anos, média de cerca de 14,2, inferior a 17.",
+   "Errada: todos os estados tiveram aumento de 2020 para 2021, e não apenas a Bahia.",
+   "Errada: há alternativa correta, a da soma de 2025 inferior ao valor da Bahia em 2020."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 3,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Qual etapa do método epidemiológico tem como objetivo medir a efetividade dos serviços e programas de saúde vigentes?",
+  "alts": [
+   "Experimental.",
+   "Descritiva.",
+   "Analítica.",
+   "Avaliação.",
+   "Intervenção."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia & Saúde, 8. ed., 2018, método epidemiológico",
+  "coment": "O método epidemiológico costuma ser apresentado em etapas: a descritiva mostra como a doença se distribui por pessoa, tempo e lugar; a analítica testa hipóteses de associação entre exposição e desfecho; a experimental ou de intervenção manipula a exposição, como no ensaio clínico. A avaliação aplica a epidemiologia aos serviços e programas, medindo eficácia, efetividade e eficiência das ações em uso na população. Medir a efetividade de serviços e programas vigentes, isto é, o efeito em condições reais, é a etapa de avaliação.",
+  "porAlt": [
+   "Errada: a etapa experimental testa uma intervenção sob controle do pesquisador, não avalia programas em funcionamento.",
+   "Errada: a descritiva caracteriza a distribuição da doença por pessoa, tempo e lugar.",
+   "Errada: a analítica testa hipóteses causais entre exposição e desfecho.",
+   "Correta: a etapa de avaliação mede eficácia, efetividade e eficiência dos serviços e programas de saúde em uso.",
+   "Errada: intervenção é sinônimo da etapa experimental, em que se aplica e compara uma medida."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 5,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Considere a seguinte situação epidemiológica de varicela em crianças de uma área adscrita:\n• População total da área adscrita: 10 mil pessoas.\n• Número total de crianças: 3.000.\n• Casos de varicela em crianças registrados nas últimas quatro semanas: 120.\n• Taxa de ataque no mesmo período do ano anterior: 0,5%\nCom base nos dados, é CORRETO afirmar que a taxa de ataque nas últimas quatro semanas, em relação mesmo período do ano anterior, teve um aumento de",
+  "alts": [
+   "2 vezes.",
+   "3 vezes.",
+   "4 vezes.",
+   "6 vezes.",
+   "8 vezes."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia & Saúde, 8. ed., 2018, taxa de ataque",
+  "coment": "Taxa de ataque é a incidência num período curto, em geral num surto: casos novos divididos pela população exposta ao risco. O denominador são as crianças, porque os casos registrados são em crianças: 120 dividido por 3.000 = 0,04, ou 4%. A população total de 10 mil pessoas é distrator. Comparando com 0,5% do ano anterior: 4 dividido por 0,5 = 8. A taxa de ataque aumentou 8 vezes. Usar a população total daria 1,2% e uma razão de 2,4, resposta que não está entre as alternativas.",
+  "porAlt": [
+   "Errada: 2 vezes corresponderia a taxa de 1%, mas a taxa atual é 120/3.000 = 4%.",
+   "Errada: 3 vezes corresponderia a 1,5%, e a taxa calculada é 4%.",
+   "Errada: 4 vezes confunde o valor da taxa (4%) com a razão entre as taxas.",
+   "Errada: 6 vezes corresponderia a 3%, valor que não sai dos dados.",
+   "Correta: a taxa atual é 120/3.000 = 4%, e 4% dividido por 0,5% = 8 vezes."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 6,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Analise as alternativas sobre os indicadores em saúde e assinale a CORRETA.",
+  "alts": [
+   "Taxa de incidência estima o risco de adoecimento por um agravo.",
+   "Taxa de mortalidade geral mede a magnitude de uma condição/doença em uma população, mas não é considerada uma medida de risco.",
+   "Taxa de mortalidade neonatal estima o risco de um nascido vivo morrer até os 7 dias de vida.",
+   "A prevalência mede o número de novos casos de uma doença em um período de tempo.",
+   "Nenhuma das alternativas."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2. ed., 2008",
+  "coment": "A incidência mede casos novos numa população em risco num período e, por isso, estima o risco de adoecer pelo agravo. As outras confundem conceitos da RIPSA: a mortalidade geral é medida de risco de morrer na população, não de magnitude de uma doença; a mortalidade neonatal vai do nascimento até 27 dias completos (a neonatal precoce é de 0 a 6 dias, a tardia de 7 a 27); e a prevalência conta casos existentes, novos e antigos, num momento ou período, sendo medida de magnitude, não de casos novos.",
+  "porAlt": [
+   "Correta: a taxa de incidência conta casos novos sobre a população em risco e estima o risco de adoecimento.",
+   "Errada: a mortalidade geral é justamente uma medida do risco de morrer na população.",
+   "Errada: a mortalidade neonatal abrange de 0 a 27 dias; até 6 dias é a neonatal precoce.",
+   "Errada: a prevalência mede casos existentes, novos e antigos; casos novos são medidos pela incidência.",
+   "Errada: há alternativa correta, a que liga incidência ao risco de adoecer."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 7,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre os termos epidemiológicos, assinale a alternativa CORRETA.",
+  "alts": [
+   "Aglomerado é quando ocorre um aumento no número de casos de uma doença em várias regiões, mas sem uma escala global.",
+   "Um Surto é definido quando a doença se espalha por múltiplos países ou continentes, afetando uma grande proporção da população mundial.",
+   "Endemia é a ocorrência habitual de uma doença em uma determinada área geográfica ou grupo populacional, com incidência relativamente constante ao longo do tempo.",
+   "Pandemia é o aumento significativo de casos além do esperado, podendo ser utilizado como sinônimo de epidemia, mas muitas vezes aplicado a áreas mais restritas.",
+   "Nenhuma das alternativas."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Investigação de surtos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guia de Vigilância em Saúde, 6. ed. (MS, 2023); Rouquayrol MZ, Gurgel M. Epidemiologia & Saúde, 8. ed., 2018",
+  "coment": "Endemia é a presença habitual de uma doença numa área ou grupo, com incidência relativamente estável dentro de uma faixa esperada. Epidemia é a elevação acima do esperado; surto é a epidemia localizada, numa área restrita ou com casos ligados entre si; pandemia é a epidemia que atinge vários países e continentes. Aglomerado (cluster) é a concentração de casos num tempo e lugar, ainda sem confirmação de excesso. As alternativas erradas trocaram as definições entre si.",
+  "porAlt": [
+   "Errada: aglomerado é concentração de casos num tempo e espaço delimitados, não aumento em várias regiões.",
+   "Errada: a doença espalhada por vários países e continentes define pandemia, não surto.",
+   "Correta: endemia é a ocorrência habitual da doença numa área ou grupo, com incidência relativamente constante.",
+   "Errada: aumento acima do esperado em área restrita define surto ou epidemia, não pandemia.",
+   "Errada: há alternativa correta, a definição de endemia."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 8,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Analise os dados a seguir, sobre os casos de diarreia entre as crianças da comunidade ribeirinha.\n• Número de indivíduos da comunidade: 500\n• Número de crianças que moram na comunidade: 100\n• Registros de diagnóstico de diarreia aguda na Unidade de saúde da Família ribeirinha entre agosto e setembro de 2025: 50, sendo 25 de crianças da comunidade.\nA incidência de diarreia aguda em crianças na comunidade ribeirinha corresponde a",
+  "alts": [
+   "2,5%",
+   "10%",
+   "25%",
+   "50%",
+   "Nenhuma das alternativas."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2. ed., 2008, incidência",
+  "coment": "Incidência acumulada é o número de casos novos no período dividido pela população em risco no início do período. A pergunta é sobre crianças, então numerador e denominador têm de ser de crianças: 25 casos em 100 crianças = 0,25, ou 25%, entre agosto e setembro de 2025. A população total de 500 e o total de 50 atendimentos são distratores: 50/500 daria 10% (todos os moradores) e 25/500, 5%, que mistura numerador de crianças com denominador da comunidade inteira.",
+  "porAlt": [
+   "Errada: 2,5% não corresponde a nenhuma combinação correta dos dados do enunciado.",
+   "Errada: 10% é a incidência na comunidade inteira (50/500), não entre as crianças.",
+   "Correta: 25 casos em crianças divididos por 100 crianças em risco dão 25%.",
+   "Errada: 50% usaria todos os 50 casos sobre 100 crianças, misturando adultos no numerador.",
+   "Errada: há alternativa correta, 25%."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 9,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Um estudo que analisa a correlação entre a cobertura média de vacinação contra COVID-19 por estado e a taxa de mortalidade por COVID-19 no mesmo período, utilizando dados agregados por unidade federativa, é um exemplo do seguinte tipo de estudo:",
+  "alts": [
+   "Ecológico",
+   "Coorte prospectivo",
+   "Transversal",
+   "Caso-controle",
+   "Ensaio clínico randomizado"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Medronho RA et al. Epidemiologia, 2. ed., 2009, estudos ecológicos",
+  "coment": "No estudo ecológico a unidade de análise é o grupo (município, estado, país), não o indivíduo. Cobertura vacinal média e mortalidade por estado são dados agregados, e a análise típica é a correlação entre essas medidas de grupo. Não se sabe se quem morreu era vacinado, por isso há risco de falácia ecológica ao transpor o achado para indivíduos. Coorte, caso-controle, transversal e ensaio clínico têm o indivíduo como unidade de observação.",
+  "porAlt": [
+   "Correta: correlacionar cobertura vacinal e mortalidade com dados agregados por unidade federativa é estudo ecológico.",
+   "Errada: a coorte acompanha indivíduos expostos e não expostos ao longo do tempo.",
+   "Errada: o transversal mede exposição e desfecho em indivíduos no mesmo momento.",
+   "Errada: o caso-controle parte de indivíduos com e sem o desfecho e investiga a exposição passada.",
+   "Errada: no ensaio clínico randomizado o pesquisador sorteia indivíduos para a intervenção."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 10,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre as estratégias de vigilância epidemiológica, classificadas como ativa ou passiva, assinale a alternativa CORRETA.",
+  "alts": [
+   "A vigilância passiva é mais custosa que a ativa, pois exige a criação de sistemas específicos de busca caso a caso, geralmente em situações de surto.",
+   "A vigilância ativa é caracterizada pela notificação obrigatória de doenças de notificação compulsória, sendo utilizada na rotina do Sistema Nacional de Vigilância Epidemiológica.",
+   "Ambas as estratégias apresentam a mesma sensibilidade para detectar casos, diferindo apenas no tempo de resposta para a investigação de surtos.",
+   "Na vigilância ativa, os profissionais de saúde buscam proativamente os casos, visitando unidades de saúde e revisando registros para identificar subnotificação.",
+   "A vigilância passiva é sempre mais eficaz que a ativa para a detecção precoce de doenças emergentes, pois conta com uma rede mais ampla de notificação espontânea."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guia de Vigilância em Saúde, 6. ed. (MS, 2023); Res. CNS 588/2018 (Política Nacional de Vigilância em Saúde)",
+  "coment": "Na vigilância passiva, a informação chega por notificação espontânea dos serviços, como na rotina do SINAN com a lista de notificação compulsória; é barata, mas sujeita a subnotificação. Na vigilância ativa, a equipe vai atrás dos casos: visita unidades, revisa prontuários, livros de registro e laboratórios, faz busca ativa na comunidade. É mais cara e mais sensível, usada em surtos, em doenças em eliminação e para medir a subnotificação. Por isso a ativa não é a da notificação obrigatória de rotina, e as duas não têm a mesma sensibilidade.",
+  "porAlt": [
+   "Errada: a mais custosa é a ativa, que exige busca caso a caso; a passiva aproveita a notificação de rotina.",
+   "Errada: a notificação compulsória de rotina caracteriza a vigilância passiva, não a ativa.",
+   "Errada: a vigilância ativa é mais sensível; as estratégias diferem em sensibilidade, custo e oportunidade.",
+   "Correta: na vigilância ativa os profissionais buscam os casos, visitando serviços e revisando registros para captar a subnotificação.",
+   "Errada: a passiva depende da notificação espontânea e perde casos; não é sempre mais eficaz para detecção precoce."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 11,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "No final de dezembro de 2019, um surto de pneumonia de origem desconhecida surgiu na China. Logo em seguida, o vírus causador foi identificado: o coronavírus (SARS-CoV-2), e a doença foi denominada COVID-19. Em janeiro de 2020, pesquisadores chineses publicaram um estudo detalhado com as características e os desfechos de 41 adultos com COVID-19 confirmada. O estudo mostrou que 15% desses pacientes morreram durante o período estudado. Qual o tipo de estudo apresentado?",
+  "alts": [
+   "Caso-controle",
+   "Transversal",
+   "Coorte",
+   "Série de casos",
+   "Relato de caso"
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Huang C et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet, 2020; Medronho RA et al. Epidemiologia, 2. ed., 2009",
+  "coment": "Série de casos é a descrição de um grupo de pacientes com a mesma doença ou exposição, sem grupo de comparação. O estudo de Huang e colaboradores, publicado em janeiro de 2020, descreveu características clínicas e desfechos de 41 adultos internados com covid-19 confirmada, com 6 óbitos (15%). Não há controles (caso-controle), não há acompanhamento de expostos e não expostos (coorte) nem amostra de população (transversal). Relato de caso descreve um único paciente. Séries de casos geram hipóteses, sobretudo diante de doença nova.",
+  "porAlt": [
+   "Errada: o caso-controle compara doentes com não doentes quanto à exposição, e o estudo não tem grupo controle.",
+   "Errada: o transversal estuda uma amostra de população num momento, não apenas doentes internados.",
+   "Errada: a coorte parte de expostos e não expostos e acompanha a incidência do desfecho nos dois grupos.",
+   "Correta: descreve 41 pacientes com a mesma doença, sem grupo de comparação, o que define série de casos.",
+   "Errada: relato de caso descreve um paciente ou poucos, não um grupo de 41."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 12,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Um programa de saúde pública com foco no tratamento de Hipertensão Arterial Crônica, que aumenta a sobrevida dos pacientes diagnosticados, mas não é efetivo na prevenção de seus fatores de risco, acarreta, ao longo dos anos, o aumento de sua",
+  "alts": [
+   "Incidência.",
+   "Prevalência.",
+   "Mortalidade.",
+   "Letalidade.",
+   "Patogenicidade."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Rouquayrol MZ, Gurgel M. Epidemiologia & Saúde, 8. ed., 2018, relação entre prevalência, incidência e duração",
+  "coment": "Em situação estável, a prevalência é aproximadamente a incidência multiplicada pela duração média da doença. Um programa que trata a hipertensão e prolonga a sobrevida aumenta a duração da condição crônica, porque as pessoas vivem mais tempo doentes; se não previne os fatores de risco, a incidência não cai. Resultado: os casos se acumulam e a prevalência sobe. A mortalidade e a letalidade tendem a cair com o tratamento, e patogenicidade é atributo do agente infeccioso.",
+  "porAlt": [
+   "Errada: a incidência depende de casos novos, que não diminuem nem aumentam pelo tratamento de quem já é doente.",
+   "Correta: maior sobrevida aumenta a duração da doença e, sem queda da incidência, a prevalência cresce.",
+   "Errada: tratamento eficaz que prolonga a sobrevida tende a reduzir a mortalidade, não a aumentá-la.",
+   "Errada: a letalidade (óbitos entre doentes) tende a cair quando o tratamento aumenta a sobrevida.",
+   "Errada: patogenicidade é a capacidade de um agente infeccioso causar doença, não se aplica à hipertensão."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 13,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "O padrão, em que a maior intensidade ou duração da exposição leva a um aumento proporcional na ocorrência do desfecho, está associado a qual critério de causalidade proposto por Bradford Hill?",
+  "alts": [
+   "Gradiente biológico.",
+   "Força de associação.",
+   "Consistência.",
+   "Coerência.",
+   "Evidência experimental."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hill AB. The environment and disease: association or causation? Proc R Soc Med, 1965",
+  "coment": "Bradford Hill propôs, em 1965, critérios para julgar se uma associação é causal: força da associação, consistência, especificidade, temporalidade, gradiente biológico (dose-resposta), plausibilidade, coerência, evidência experimental e analogia. Gradiente biológico é o padrão em que maior intensidade ou duração da exposição se acompanha de maior frequência do desfecho, como mais cigarros por dia e mais câncer de pulmão. Força é a magnitude da medida de associação; consistência é a repetição do achado em estudos diferentes.",
+  "porAlt": [
+   "Correta: o aumento do desfecho proporcional à intensidade ou duração da exposição é o gradiente biológico, ou dose-resposta.",
+   "Errada: força de associação é a magnitude do risco relativo ou da razão de chances, não a relação com a dose.",
+   "Errada: consistência é a repetição da associação em populações, lugares e desenhos diferentes.",
+   "Errada: coerência é a compatibilidade da associação com o que se sabe da história natural e da biologia da doença.",
+   "Errada: evidência experimental é a mudança do desfecho quando se remove ou modifica a exposição."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 14,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Um pesquisador pretende investigar a associação entre consumo de refrigerantes e obesidade em adolescentes de escolas públicas estaduais de Pernambuco. Para isso, ele sorteia 50 escolas e coleta dados de todos os alunos de 14 a 17 anos presentes no dia da pesquisa. Assinale a alternativa que identifica CORRETAMENTE a população-fonte desse estudo.",
+  "alts": [
+   "Alunos de 14 a 17 anos das 50 escolas sorteadas.",
+   "Todos os adolescentes com obesidade em escolas públicas estaduais de Pernambuco.",
+   "Todos os alunos presentes no dia da coleta nas 50 escolas sorteadas.",
+   "Todos os adolescentes de 14 a 17 anos matriculados em escolas públicas estaduais de Pernambuco.",
+   "Nenhuma das alternativas."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Medronho RA et al. Epidemiologia, 2. ed., 2009, população-alvo, população-fonte e amostra",
+  "coment": "A população-fonte (ou de estudo) é aquela da qual a amostra é sorteada e para a qual os resultados se generalizam diretamente. Aqui o sorteio foi de escolas públicas estaduais de Pernambuco, e dentro delas se estudaram alunos de 14 a 17 anos: a fonte é o conjunto de adolescentes dessa idade matriculados nessas escolas. Os alunos das 50 escolas sorteadas são a amostra; os presentes no dia são os efetivamente estudados. Restringir a obesos confunde a população com o desfecho. Há livros que chamariam essa população de alvo; a banca usou fonte no sentido de base amostral.",
+  "porAlt": [
+   "Errada: os alunos das 50 escolas sorteadas formam a amostra, não a população da qual ela foi retirada.",
+   "Errada: restringir aos obesos confunde a população com o desfecho, e o estudo inclui obesos e não obesos.",
+   "Errada: os presentes no dia da coleta são os participantes efetivos, um subconjunto da amostra.",
+   "Correta: a amostra foi sorteada entre as escolas estaduais de Pernambuco, então a fonte são os adolescentes de 14 a 17 anos nelas matriculados.",
+   "Errada: há alternativa correta, a que descreve todos os adolescentes de 14 a 17 anos das escolas estaduais de Pernambuco."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 15,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Um estudo transversal foi realizado para estimar a prevalência de tabagismo em uma população. Os pesquisadores aplicaram, em uma amostra representativa desta população, um teste para diagnóstico de tabagismo que possui sensibilidade de 90% e especificidade de 90%. A prevalência aparente encontrada no estudo foi de 20%. Tendo em vista que a sensibilidade e a especificidade do teste não são iguais a 100%, a estimativa da prevalência corrigida de tabagismo nesta amostra é igual a",
+  "alts": [
+   "7,5%",
+   "10%",
+   "12,5%",
+   "15%",
+   "22,5%"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Rogan WJ, Gladen B. Estimating prevalence from the results of a screening test. Am J Epidemiol, 1978",
+  "coment": "A prevalência aparente mistura verdadeiros e falsos positivos. A correção de Rogan e Gladen é: prevalência real = (prevalência aparente + especificidade menos 1) dividido por (sensibilidade + especificidade menos 1). Com os dados: (0,20 + 0,90 menos 1) / (0,90 + 0,90 menos 1) = 0,10 / 0,80 = 0,125, ou 12,5%. Conferência: com prevalência real de 12,5%, os positivos seriam 0,9 x 12,5 + 0,1 x 87,5 = 11,25 + 8,75 = 20%. Com teste imperfeito e prevalência baixa, os falsos positivos inflam a prevalência aparente.",
+  "porAlt": [
+   "Errada: 7,5% não satisfaz a conferência, pois geraria prevalência aparente de cerca de 16%.",
+   "Errada: 10% é o numerador da fórmula (0,20 + 0,90 menos 1), falta dividir por 0,80.",
+   "Correta: (0,20 + 0,90 menos 1) / (0,90 + 0,90 menos 1) = 0,10 / 0,80 = 12,5%.",
+   "Errada: 15% produziria prevalência aparente de 21%, acima dos 20% observados.",
+   "Errada: 22,5% aumenta a estimativa, mas a correção aqui reduz, porque os falsos positivos inflam a aparente."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 16,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Após fortes chuvas, a prefeitura do Recife intensificou o combate aos focos de Aedes aegypti em imóveis e áreas públicas. Foram encontrados índices larvários acima de 4% em três bairros, indicando alto risco de surto de dengue. Equipes aplicaram larvicidas e orientaram a população sobre eliminação de focos de água parada. As ações descritas caracterizam, principalmente, a atuação da vigilância",
+  "alts": [
+   "Epidemiológica.",
+   "Sanitária.",
+   "Ambiental.",
+   "em saúde do trabalhador.",
+   "Nenhuma das alternativas."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Res. CNS 588/2018 (Política Nacional de Vigilância em Saúde), art. 6º; Diretrizes Nacionais para a Prevenção e Controle de Epidemias de Dengue (MS, 2009)",
+  "coment": "A vigilância em saúde ambiental cuida dos fatores do meio que interferem na saúde, inclusive os biológicos, como vetores e reservatórios. Levantamento de índice larvário (no LIRAa, 4% ou mais é situação de risco), aplicação de larvicida e eliminação de criadouros em imóveis e áreas públicas são ações de controle vetorial, executadas no componente ambiental. A vigilância epidemiológica notificaria e investigaria os casos de dengue; a sanitária fiscaliza produtos e serviços de interesse da saúde; a do trabalhador cuida dos agravos ligados ao trabalho.",
+  "porAlt": [
+   "Errada: a epidemiológica trabalha com casos (notificação, investigação, análise), não com focos do vetor.",
+   "Errada: a sanitária regula e fiscaliza produtos, serviços e ambientes de interesse da saúde, não o controle vetorial.",
+   "Correta: índice larvário, larvicida e eliminação de criadouros são controle de fator biológico do ambiente, ação da vigilância ambiental.",
+   "Errada: a vigilância em saúde do trabalhador trata dos riscos e agravos relacionados ao trabalho.",
+   "Errada: há alternativa correta, a vigilância ambiental."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 17,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "O estudo epidemiológico, no qual os dados são coletados de forma agregada por grupos, sem que se possa identificar quais indivíduos específicos dentro do grupo tinham a exposição e quais tiveram o desfecho, é denominado estudo",
+  "alts": [
+   "Ecológico.",
+   "Caso-controle.",
+   "De coorte.",
+   "De intervenção.",
+   "Transversal."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Medronho RA et al. Epidemiologia, 2. ed., 2009, estudos ecológicos",
+  "coment": "O estudo ecológico usa dados agregados de grupos (municípios, regiões, países): sabe-se a proporção de expostos e a taxa do desfecho em cada grupo, mas não quem, dentro do grupo, estava exposto e adoeceu. Daí o risco de falácia ecológica, que é atribuir ao indivíduo uma associação observada no grupo. Coorte, caso-controle, transversal e estudos de intervenção coletam exposição e desfecho de cada indivíduo.",
+  "porAlt": [
+   "Correta: dados agregados por grupo, sem ligar exposição e desfecho no mesmo indivíduo, definem o estudo ecológico.",
+   "Errada: o caso-controle levanta a exposição de cada indivíduo doente e de cada controle.",
+   "Errada: a coorte acompanha indivíduos com exposição conhecida ao longo do tempo.",
+   "Errada: o estudo de intervenção aloca indivíduos (ou grupos) à intervenção e registra seus desfechos.",
+   "Errada: o transversal mede exposição e desfecho no mesmo indivíduo, num mesmo momento."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 18,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre as doenças e agravos de notificação compulsória no território nacional, conforme a lista nacional vigente, assinale a alternativa CORRETA.",
+  "alts": [
+   "As doenças exantemáticas, como sarampo, rubéola e varicela, são de notificação semanal.",
+   "A ocorrência de raiva humana ou doença de Chagas aguda requer notificação imediata.",
+   "A Toxoplasmose gestacional e congênita são de notificação imediata quando há confirmação laboratorial.",
+   "Febre do Chikungunya, Dengue e Zika vírus são exemplos de agravos que, por serem endêmicos, não estão mais sujeitos à notificação compulsória imediata.",
+   "A notificação imediata é requerida para qualquer causa de óbito infantil."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 11.211/2026 (Lista Nacional de Notificação Compulsória, Anexo 1 do Anexo V da PRC 4/2017)",
+  "coment": "Na lista nacional, alterada pela Portaria GM/MS 11.211/2026, raiva humana é de notificação imediata (até 24 horas) ao Ministério, à SES e à SMS, e doença de Chagas aguda é imediata à SES e à SMS (a crônica é semanal). Sarampo e rubéola são imediatos a MS, SES e SMS, e a varicela, que desde 2026 aparece só como Varicela, é imediata à SES e à SMS: nenhuma das exantemáticas citadas é semanal. Toxoplasmose gestacional e congênita é semanal. Dengue, chikungunya e zika seguem compulsórias (casos semanais; óbitos e algumas situações, imediatos). Óbito infantil é semanal.",
+  "porAlt": [
+   "Errada: sarampo, rubéola e varicela são de notificação imediata pela lista vigente.",
+   "Correta: raiva humana e doença de Chagas aguda estão na lista com notificação imediata, em até 24 horas.",
+   "Errada: toxoplasmose gestacional e congênita é de notificação semanal, com ou sem confirmação laboratorial.",
+   "Errada: as três arboviroses continuam na lista; casos são semanais e óbitos ou situações especiais são imediatos.",
+   "Errada: o óbito infantil é de notificação semanal, não imediata."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 19,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Matriz Canadense de Competências Interprofissionais define um conjunto essencial de competências que sustentam a prática colaborativa em saúde. Analise as alternativas abaixo; todas são competências interprofissionais, EXCETO:",
+  "alts": [
+   "Clareza dos papéis profissionais.",
+   "Dinâmica da equipe/tomada de decisão compartilhada.",
+   "Responsabilidade Hierárquica.",
+   "Liderança colaborativa.",
+   "Reflexão."
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "CIHC. A National Interprofessional Competency Framework, 2010 (atualizado em 2024); OMS. Marco para ação em educação interprofissional e prática colaborativa, 2010",
+  "coment": "A matriz do Canadian Interprofessional Health Collaborative (2010) organiza a prática colaborativa em domínios como clarificação de papéis, funcionamento da equipe com tomada de decisão compartilhada, liderança colaborativa, comunicação interprofissional, cuidado centrado no paciente e resolução de conflitos; a reflexão sobre o próprio trabalho e o da equipe aparece nas descrições desses domínios. Responsabilidade hierárquica é o contrário da lógica colaborativa, que valoriza a liderança compartilhada e a interdependência entre profissões, e não a cadeia de comando.",
+  "porAlt": [
+   "Errada: clarificação dos papéis profissionais é domínio da matriz canadense.",
+   "Errada: o funcionamento da equipe, com tomada de decisão compartilhada, é domínio da matriz.",
+   "Correta: responsabilidade hierárquica não é competência interprofissional; a colaboração se apoia em liderança compartilhada, não em cadeia de comando.",
+   "Errada: a liderança colaborativa é um dos domínios centrais da matriz canadense.",
+   "Errada: a reflexão sobre a própria prática e a da equipe faz parte das competências colaborativas descritas na matriz."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 20,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A interprofissionalidade tem sido amplamente defendida como um modelo necessário para enfrentar os desafios da complexidade do cuidado em saúde. Sobre esse conceito, analise as afirmativas a seguir:\nI. A interprofissionalidade é baseada na integração deliberada das diferentes profissões, com o objetivo de otimizar a qualidade do cuidado por meio da colaboração efetiva e da tomada de decisão compartilhada.\nII. Diferencia-se do trabalho multiprofissional porque, neste último, as ações são apenas justapostas, enquanto na interprofissionalidade há interdependência e interação dinâmica entre os saberes.\nIII. A cultura colaborativa e a formação específica em competências colaborativas são fatores primários e determinantes para sua efetivação.\nEstá CORRETO o que se afirma em",
+  "alts": [
+   "I, II e III.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, apenas.",
+   "III, apenas."
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "OMS. Marco para ação em educação interprofissional e prática colaborativa, 2010",
+  "coment": "A OMS define prática colaborativa como profissionais de diferentes formações trabalhando juntos, com usuários e famílias, para a melhor qualidade do cuidado; a interprofissionalidade é essa integração deliberada, com decisão compartilhada (I). No trabalho multiprofissional as ações ficam justapostas, cada categoria faz a sua parte; na interprofissionalidade há interdependência e interação entre os saberes (II). O Marco da OMS aponta a educação interprofissional e a cultura institucional colaborativa como condições para que a colaboração aconteça (III). A banca considerou as três corretas; a palavra determinantes em III é forte, mas está alinhada ao documento.",
+  "porAlt": [
+   "Correta: as três afirmativas descrevem a interprofissionalidade como integração deliberada, interdependente e apoiada em cultura e formação colaborativas.",
+   "Errada: exclui a II, que traz a distinção clássica entre ações justapostas (multi) e interdependentes (inter).",
+   "Errada: exclui a I, que é a própria definição de interprofissionalidade com decisão compartilhada.",
+   "Errada: deixa de fora a II e a III, que também estão corretas.",
+   "Errada: deixa de fora a I e a II, que definem o conceito e o diferenciam do trabalho multiprofissional."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 22,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Política Nacional de Educação Popular em Saúde (PNEPS-SUS), é uma estratégia fundamental que busca uma abordagem mais democrática e transformadora na saúde. Qual dos seus princípios implica a existência de relações dialógicas e propõe a construção de práticas em saúde alicerçadas na leitura e na análise crítica da realidade?",
+  "alts": [
+   "Diálogo.",
+   "Amorosidade.",
+   "Emancipação.",
+   "Problematização.",
+   "Construção compartilhada do conhecimento."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.761/2013 (PNEPS-SUS), art. 3º, III",
+  "coment": "A Política Nacional de Educação Popular em Saúde (Portaria GM/MS 2.761/2013, hoje na Portaria de Consolidação 2/2017) tem seis princípios no art. 3º: diálogo, amorosidade, problematização, construção compartilhada do conhecimento, emancipação e compromisso com a construção do projeto democrático e popular. A definição do inciso III é a da problematização: implica relações dialógicas e propõe práticas de saúde alicerçadas na leitura e na análise crítica da realidade. O diálogo é o encontro de saberes; a emancipação é a superação de opressões; a construção compartilhada é a interação entre saberes e práticas diferentes.",
+  "porAlt": [
+   "Errada: o diálogo é o encontro de conhecimentos construídos histórica e culturalmente; a análise crítica da realidade define a problematização.",
+   "Errada: amorosidade é a ampliação do diálogo pela incorporação de afeto e sentimentos nas relações de cuidado.",
+   "Errada: emancipação é o processo coletivo de superação de opressões e desigualdades.",
+   "Correta: o art. 3º, III, define problematização como relações dialógicas e práticas alicerçadas na leitura e análise crítica da realidade.",
+   "Errada: construção compartilhada do conhecimento é a interação entre saberes e práticas de atores diferentes."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 23,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Estratégia Saúde da Família (ESF) é o modelo prioritário e estratégico para a reorganização do Sistema Único de Saúde (SUS). Sobre o processo histórico de sua implantação e consolidação, assinale a alternativa CORRETA.",
+  "alts": [
+   "A ESF foi criada simultaneamente ao SUS pela Constituição Federal de 1988, sendo desde então o modelo preferencial de acesso em todo o território.",
+   "O Programa de Agentes Comunitários de Saúde foi o alicerce para a criação do Programa Saúde da Família, que se consolidou posteriormente em ESF.",
+   "A implantação da ESF foi um projeto financiado e coordenado majoritariamente por organizações internacionais, sem vínculo com os movimentos sanitários brasileiros.",
+   "O modelo foi uma iniciativa original dos governos estaduais na década de 1980, antes mesmo da criação do SUS, sendo posteriormente federalizado.",
+   "A ESF se expandiu rapidamente na década de 1990, atingindo 90% de cobertura territorial em dez anos, o que culminou na reestruturação do Programa Saúde da Família."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 648/2006 (PNAB); Portaria GM/MS 2.436/2017 (PNAB vigente)",
+  "coment": "A história é escalonada. O Programa de Agentes Comunitários de Saúde (PACS) foi implantado nacionalmente em 1991, a partir de experiências como a do Ceará. Sobre essa base, o Ministério criou o Programa Saúde da Família em 1994. Com a PNAB de 2006 (Portaria 648/2006), o programa passou a ser tratado como Estratégia Saúde da Família, modelo prioritário de reorganização da atenção básica, condição mantida pela Portaria 2.436/2017. A Constituição de 1988 criou o SUS, não a ESF, e a expansão foi gradual, sem atingir 90% de cobertura na década de 1990.",
+  "porAlt": [
+   "Errada: a Constituição de 1988 criou o SUS; o Programa Saúde da Família só surgiu em 1994.",
+   "Correta: o PACS (1991) foi o alicerce do Programa Saúde da Família (1994), que depois se consolidou como Estratégia.",
+   "Errada: a ESF é política nacional ligada ao movimento sanitário e ao SUS, financiada e coordenada pelo Ministério da Saúde.",
+   "Errada: o PSF foi criado pelo Ministério da Saúde em 1994, depois do SUS; experiências estaduais inspiraram só o PACS.",
+   "Errada: a cobertura cresceu gradualmente e não chegou a 90% na década de 1990; a mudança para Estratégia veio com a PNAB de 2006."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 24,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Lei nº 8.142, de 28 de dezembro de 1990, é um marco fundamental para a consolidação do Sistema Único de Saúde (SUS). Em relação às suas principais disposições, assinale a alternativa que indica CORRETAMENTE o que essa Lei estabeleceu.",
+  "alts": [
+   "O Programa de Agentes Comunitários de Saúde.",
+   "Os Conselhos e as Conferências de Saúde.",
+   "A Política Nacional de Atenção Básica.",
+   "O Programa Saúde da Família.",
+   "O Pacto pela Saúde."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 1º",
+  "coment": "A Lei 8.142/1990 trata de dois assuntos: a participação da comunidade na gestão do SUS e as transferências intergovernamentais de recursos. O art. 1º institui, em cada esfera de governo, as instâncias colegiadas: a Conferência de Saúde, que se reúne a cada quatro anos para avaliar a situação de saúde e propor diretrizes, e o Conselho de Saúde, permanente e deliberativo, com representação paritária dos usuários em relação ao conjunto dos demais segmentos. PACS, PSF, PNAB e Pacto pela Saúde vieram por portarias posteriores.",
+  "porAlt": [
+   "Errada: o PACS foi implantado pelo Ministério da Saúde em 1991, por programa próprio, não pela Lei 8.142.",
+   "Correta: o art. 1º da Lei 8.142/1990 institui a Conferência e o Conselho de Saúde em cada esfera de governo.",
+   "Errada: a Política Nacional de Atenção Básica veio por portarias, em 2006 e, a vigente, em 2017.",
+   "Errada: o Programa Saúde da Família foi criado pelo Ministério da Saúde em 1994.",
+   "Errada: o Pacto pela Saúde foi aprovado em 2006, pela Portaria GM/MS 399/2006."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 25,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "No histórico da saúde pública no Brasil tivemos alguns modelos principais que, por décadas, definiram as políticas de saúde. Sobre as características e o contexto histórico desses modelos, analise as assertivas abaixo:\nI. O Modelo Sanitarista/Campanhista, caracterizou-se por ações estatais coletivas de prevenção, como campanhas de vacinação obrigatória e intervenções urbanas de saneamento.\nII. O Modelo Assistencialista/Previdenciário surgiu com a Lei Eloy Chaves, que criou as Caixas de Aposentadoria e Pensões. Esse modelo organizou a assistência médica como um benefício vinculado ao trabalho formal.\nIII. A partir da década de 1930, com a criação do Ministério da Educação e Saúde e a expansão dos Institutos de Aposentadoria e Pensões, o Estado brasileiro unificou os modelos vigentes em um sistema universal de saúde.\nEstá(ão) CORRETA(S):",
+  "alts": [
+   "I, II e III.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "I, apenas.",
+   "II, apenas."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 4.682/1923 (Lei Eloy Chaves); Constituição Federal de 1988, art. 196",
+  "coment": "O modelo sanitarista campanhista, do início do século XX (Oswaldo Cruz), usou ações coletivas e muitas vezes autoritárias: vacinação obrigatória, campanhas, saneamento e reforma urbana (I). O modelo previdenciário começou com a Lei Eloy Chaves (Decreto 4.682/1923), que criou as Caixas de Aposentadorias e Pensões por empresa; a assistência médica era benefício de quem tinha vínculo formal (II). Nos anos 1930 vieram o Ministério da Educação e Saúde Pública e os Institutos de Aposentadorias e Pensões por categoria, mas a separação entre saúde pública e assistência previdenciária persistiu; o sistema universal só nasceu com a Constituição de 1988 (III falsa).",
+  "porAlt": [
+   "Errada: inclui a III, mas o sistema universal só foi criado pela Constituição de 1988, não nos anos 1930.",
+   "Correta: I e II descrevem os modelos campanhista e previdenciário; a III erra ao situar a universalização nos anos 1930.",
+   "Errada: inclui a III, que é falsa, e exclui a II, que é verdadeira.",
+   "Errada: exclui a II, que descreve corretamente a origem do modelo previdenciário na Lei Eloy Chaves.",
+   "Errada: exclui a I, que descreve corretamente o modelo sanitarista campanhista."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 26,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Na organização do trabalho em saúde, especialmente na Atenção Básica, a classificação proposta por Ricardo Bruno distingue três tipos de tecnologias: leves, leves-duras e duras. Considerando essa classificação, assinale a alternativa que corresponde a um exemplo de tecnologia leve no contexto do trabalho em saúde.",
+  "alts": [
+   "As especialidades.",
+   "Os medicamentos.",
+   "A escuta qualificada.",
+   "Os protocolos e diretrizes.",
+   "Nenhuma das alternativas."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Merhy EE. Saúde: a cartografia do trabalho vivo, 2002",
+  "coment": "A classificação em tecnologias leves, leve-duras e duras é de Emerson Elias Merhy, que se apoiou no conceito de tecnologia de Ricardo Bruno Mendes-Gonçalves; o enunciado atribui a classificação a Ricardo Bruno. Tecnologias leves são as das relações: acolhimento, escuta qualificada, vínculo, autonomização, gestão de processos de trabalho. Leve-duras são os saberes estruturados, como a clínica, a epidemiologia, os protocolos e as especialidades como campo de saber. Duras são equipamentos, máquinas, medicamentos e normas organizacionais.",
+  "porAlt": [
+   "Errada: especialidades são saberes estruturados, ou seja, tecnologia leve-dura.",
+   "Errada: medicamentos são tecnologia dura, assim como equipamentos e máquinas.",
+   "Correta: a escuta qualificada é tecnologia das relações, o que Merhy chama de tecnologia leve.",
+   "Errada: protocolos e diretrizes são saberes estruturados, tecnologia leve-dura.",
+   "Errada: há alternativa correta, a escuta qualificada."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 27,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Norma Operacional da Assistência à Saúde (NOAS-SUS 01/2001) foi um marco na organização e regionalização do Sistema Único de Saúde (SUS), com o objetivo de qualificar a gestão e ampliar o acesso. Sobre suas principais diretrizes e impactos, assinale a alternativa INCORRETA.",
+  "alts": [
+   "Instituiu as transferências regulares e automáticas de recursos no modelo \"fundo a fundo\".",
+   "Implementou mecanismos destinados a fortalecer a capacidade de gestão do sistema.",
+   "Definiu novos critérios para a habilitação de estados e municípios na gestão do SUS.",
+   "Teve como um de seus objetivos centrais a promoção da equidade, tanto na alocação de recursos quanto no acesso aos serviços.",
+   "Ampliou as responsabilidades dos municípios na Atenção Básica."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 95/2001 (NOAS-SUS 01/2001); Decreto 1.232/1994; NOB-SUS 01/1996",
+  "coment": "As transferências regulares e automáticas fundo a fundo antecedem a NOAS: foram regulamentadas pelo Decreto 1.232/1994 e ampliadas pela NOB-SUS 01/1996, que criou o Piso da Atenção Básica. A NOAS-SUS 01/2001 (Portaria GM/MS 95/2001) teve como eixo a regionalização: elaborou o Plano Diretor de Regionalização, criou a Gestão Plena da Atenção Básica Ampliada, definiu novos critérios de habilitação de estados e municípios, ampliou as responsabilidades municipais na atenção básica e buscou fortalecer a capacidade de gestão com equidade no acesso.",
+  "porAlt": [
+   "Correta: a afirmação é incorreta, porque o repasse fundo a fundo foi instituído antes, pelo Decreto 1.232/1994 e pela NOB 01/1996.",
+   "Errada: a NOAS de fato criou mecanismos de fortalecimento da capacidade de gestão, como o Plano Diretor de Regionalização.",
+   "Errada: a NOAS definiu novas condições de habilitação, como a Gestão Plena da Atenção Básica Ampliada.",
+   "Errada: a promoção de equidade na alocação de recursos e no acesso era objetivo explícito da NOAS.",
+   "Errada: a NOAS ampliou a responsabilidade dos municípios na atenção básica, com a atenção básica ampliada."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 28,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A organização político-administrativa do Sistema Único de Saúde (SUS), que distribui as responsabilidades pelas ações de saúde entre os entes federativos, respeitando a sua autonomia de cada um, corresponde à diretriz do SUS conhecida como",
+  "alts": [
+   "Equidade.",
+   "Hierarquização.",
+   "Descentralização.",
+   "Regionalização.",
+   "Integralidade."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, art. 198, I; Lei 8.080/1990, art. 7º, IX",
+  "coment": "A Constituição (art. 198, I) e a Lei 8.080/1990 (art. 7º, IX) estabelecem a descentralização político-administrativa, com direção única em cada esfera de governo, ênfase na municipalização e regionalização e hierarquização da rede. É a diretriz que distribui responsabilidades entre União, estados e municípios respeitando a autonomia de cada ente. Regionalização é a organização da rede em regiões de saúde; hierarquização é a organização por níveis de complexidade; equidade e integralidade são princípios doutrinários.",
+  "porAlt": [
+   "Errada: equidade é princípio doutrinário que trata os desiguais conforme suas necessidades.",
+   "Errada: hierarquização organiza os serviços em níveis crescentes de complexidade.",
+   "Correta: a descentralização político-administrativa distribui responsabilidades entre os entes federativos, com direção única em cada esfera.",
+   "Errada: regionalização organiza os serviços em regiões de saúde, não a divisão de responsabilidades entre entes.",
+   "Errada: integralidade é princípio que articula ações preventivas e curativas, individuais e coletivas."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 29,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Portaria GM/MS nº 2.436/2017 redefine e consolida a Atenção Básica como porta de entrada preferencial e ordenadora do Sistema Único de Saúde (SUS). Sobre as principais mudanças e diretrizes introduzidas por essa portaria, avalie as assertivas a seguir:\nI. A portaria ampliou as responsabilidades da Atenção Básica ao definir que suas equipes devem realizar o cuidado longitudinal, incluindo a programação e a organização da agenda com base nas necessidades de saúde da população adscrita.\nII. Implantou o Programa Mais Médicos, ampliando a cobertura da atenção básica, com apoio e incentivo financeiro da União.\nIII. A portaria institui a Estratégia Saúde da Família como modelo prioritário para a organização da Atenção Básica em todo o território nacional, mas reconheceu e permitiu a existência de outros modelos de equipe.\nEstá(ão) CORRETA(S):",
+  "alts": [
+   "I, apenas.",
+   "II, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), art. 4º; Lei 12.871/2013 (Programa Mais Médicos)",
+  "coment": "A PNAB de 2017 reafirma a atenção básica como porta de entrada preferencial e ordenadora da rede, com cuidado longitudinal e organização da agenda conforme as necessidades da população adscrita (I). O art. 4º mantém a Saúde da Família como estratégia prioritária, mas reconhece outras estratégias de atenção básica, como a equipe de Atenção Primária, desde que sigam seus princípios e diretrizes (III). O Programa Mais Médicos não veio da PNAB: foi instituído pela Lei 12.871/2013 (II falsa). A PNAB 2017 segue vigente, com revisão anunciada pelo Ministério.",
+  "porAlt": [
+   "Errada: a III também está correta, pois a portaria reconhece outros modelos além da ESF.",
+   "Errada: a II é falsa; o Mais Médicos foi instituído pela Lei 12.871/2013.",
+   "Errada: inclui a II, que atribui à PNAB a criação do Mais Médicos.",
+   "Correta: I e III descrevem a PNAB 2017; a II é falsa porque o Mais Médicos veio da Lei 12.871/2013.",
+   "Errada: inclui a II, que é falsa."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 30,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A atuação da enfermagem na Estratégia Saúde da Família (ESF) é fundamental para a integralidade do cuidado. Considerando as diretrizes da Atenção Primária à Saúde, qual das seguintes ações demonstra a abordagem mais completa e adequada do enfermeiro em relação à família?",
+  "alts": [
+   "Focar a assistência apenas nas necessidades de saúde do indivíduo que apresenta a patologia principal, desconsiderando os demais membros.",
+   "Realizar o planejamento do cuidado sem envolver a família, pois o profissional de saúde é o detentor do conhecimento técnico.",
+   "Conduzir exclusivamente as ações de caráter curativo na Unidade de Saúde, encaminhando todos os casos de educação em saúde para a equipe de agentes comunitários.",
+   "Identificar as necessidades de saúde de todos os membros, utilizando ferramentas, como o genograma e o ecomapa, e envolver a família no planejamento e execução do cuidado.",
+   "Priorizar o atendimento individualizado em detrimento das visitas domiciliares, para otimizar o tempo e reduzir o custo operacional."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), atribuições dos profissionais da atenção básica",
+  "coment": "A PNAB atribui a todos os profissionais da equipe o cuidado centrado na pessoa e na família, a territorialização, a visita domiciliar e as ações de educação em saúde. A abordagem familiar completa identifica as necessidades de todos os membros e usa ferramentas como o genograma, que mostra a estrutura e as relações da família ao longo das gerações, e o ecomapa, que mostra as ligações da família com a rede social e os serviços. A família participa do planejamento e da execução do cuidado. As demais alternativas reduzem o cuidado ao indivíduo doente, ao ato curativo ou à consulta.",
+  "porAlt": [
+   "Errada: focar só no portador da patologia contraria a abordagem familiar e a integralidade da APS.",
+   "Errada: planejar sem a família contraria o cuidado compartilhado e a autonomia previstos na PNAB.",
+   "Errada: educação em saúde é atribuição comum a toda a equipe, inclusive do enfermeiro, não só dos agentes comunitários.",
+   "Correta: identificar as necessidades de todos os membros com genograma e ecomapa e envolver a família no cuidado é a abordagem mais completa.",
+   "Errada: a visita domiciliar é atribuição da equipe na PNAB e não deve ser preterida por critério de custo."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o Processo de Enfermagem (PE) na Atenção Básica de Saúde, leia as afirmativas abaixo:\nI. Na Atenção Básica, o PE favorece a atenção centrada no usuário, a tomada de decisão clínica, assistencial e gerencial, consolidando a assistência por meios científicos respaldados por teorias de enfermagem.\nII. O PE é entendido como um estilo de pensamento que orienta julgamentos clínicos adequados, envolve decisões fundamentais, como os diagnósticos, as intervenções e resultados esperados e alcançados.\nIII. No PE, a coleta de dados deve ser multifocal, a fim de melhorar as decisões sobre o diagnóstico e a seleção de intervenções, evitando pré-julgamentos e precipitações.\nIV. A utilização de linguagens padronizadas, no PE, contribui para a promoção do cuidado de enfermagem de qualidade, ajuda a mostrar a efetividade do cuidado e estimula atividades de pesquisa.\nAssinale a alternativa CORRETA.",
+  "alts": [
+   "Estão corretas I, II, III e IV.",
+   "Estão corretas apenas I, II e IV.",
+   "Estão corretas apenas II, III e IV.",
+   "Estão corretas apenas I e III.",
+   "Estão corretas apenas I, II e III."
+  ],
+  "gab": 0,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, arts. 2º a 4º",
+  "coment": "As quatro afirmativas estão corretas. O Processo de Enfermagem organiza o raciocínio clínico e as decisões de diagnóstico, intervenção e resultado, sustentado por teoria de enfermagem e por linguagens padronizadas (NANDA-I, NIC, NOC, CIPE), que dão visibilidade ao cuidado e permitem pesquisa. A coleta ampla de dados evita fechar diagnóstico cedo demais. Atualização: a Res. COFEN 736/2024 revogou a 358/2009; a primeira etapa hoje se chama Avaliação de Enfermagem (no lugar de coleta de dados ou histórico), seguida de Diagnóstico, Planejamento, Implementação e Evolução, e vale em todo ambiente onde há cuidado de enfermagem, inclusive na atenção básica.",
+  "porAlt": [
+   "Correta: as quatro afirmativas descrevem corretamente o PE na atenção básica, seu caráter de julgamento clínico, a coleta ampla e o valor das linguagens padronizadas.",
+   "Errada: exclui a III, mas a coleta ampla e multifocal de dados é recomendada para evitar diagnósticos precipitados.",
+   "Errada: exclui a I, que descreve o PE como base da decisão clínica e gerencial sustentada por teoria.",
+   "Errada: exclui a II e a IV, que também estão corretas.",
+   "Errada: exclui a IV, mas as linguagens padronizadas qualificam o registro e permitem pesquisa sobre o cuidado."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante atendimento na Atenção Primária em Saúde (APS), um recém-nascido comparece à Unidade de Saúde para a realização do teste do pezinho no 6º dia de vida. Considerando o disposto na Portaria GM/MS nº 7.293/2025 e as atribuições da Atenção Primária em Saúde no âmbito do Programa Nacional de Triagem Neonatal, qual deve ser a conduta do enfermeiro?",
+  "alts": [
+   "Recusar a coleta da amostra, visto que a Portaria GM/MS nº 7.293/2025 estabelece o quinto dia como limite máximo para coleta.",
+   "Realizar a coleta no 6º dia, registrar que ocorreu fora do período preferencial e orientar a família sobre as etapas subsequentes da triagem neonatal.",
+   "Agendar nova coleta para o 10º dia de vida, conforme alternativa prevista para casos de coleta tardia.",
+   "Encaminhar o recém-nascido diretamente ao laboratório de referência, pois coletas tardias não devem ser realizadas na Atenção Primária em Saúde.",
+   "Solicitar avaliação médica antes da coleta, já que a coleta após o quinto dia deve ser autorizada pelo profissional responsável pelo acompanhamento do recém-nascido."
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 7.293/2025 (Programa Nacional de Triagem Neonatal); Lei 14.154/2021",
+  "coment": "A coleta do teste do pezinho tem período preferencial do 3º ao 5º dia de vida: antes de 48 horas de alimentação a fenilalanina ainda não subiu e o TSH está no pico pós-natal, o que gera falso resultado. Passado esse período, a coleta não é recusada nem adiada: o atraso aumenta o risco de diagnóstico tardio de doenças tratáveis, como hipotireoidismo congênito e fenilcetonúria. O enfermeiro da atenção primária colhe no 6º dia, registra que a coleta foi fora do período preferencial e orienta a família sobre resultado, possível reconvocação e seguimento. Não há exigência de autorização médica nem de encaminhamento ao laboratório.",
+  "porAlt": [
+   "Errada: recusar a coleta atrasa ainda mais o diagnóstico; a coleta após o 5º dia continua indicada.",
+   "Correta: colhe-se no 6º dia, registra-se que foi fora do período preferencial e orienta-se a família sobre as etapas seguintes.",
+   "Errada: adiar para o 10º dia prolonga o atraso sem benefício; colhe-se no momento em que o bebê chega.",
+   "Errada: a coleta é feita no ponto de coleta da atenção primária, e o laboratório de referência só recebe a amostra.",
+   "Errada: a coleta é atribuição da enfermagem e não depende de autorização médica, mesmo fora do período preferencial."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante consulta na Atenção Primária, uma criança de 2 anos apresenta tosse há 4 dias. Ao exame físico, a enfermeira observa: frequência respiratória de 48 irpm, tiragem subcostal discreta e sibilos difusos à ausculta respiratória. Não há sinais de gemência, batimento de asa do nariz ou estridor. A criança está ativa, aceita líquidos e apresenta SpO₂ entre 94% e 95% em ar ambiente. Segundo o Protocolo de Atenção Integral às Doenças Prevalentes na Infância (AIDPI/MS/OMS), qual é a classificação e qual deve ser a conduta imediata da enfermeira?",
+  "alts": [
+   "Pneumonia grave: presença de sibilos exige encaminhamento urgente e início de antibiótico intramuscular.",
+   "Pneumonia: iniciar amoxicilina por via oral, pois a frequência respiratória elevada indica infecção bacteriana mesmo com sibilos.",
+   "Episódio de sibilância: administrar broncodilatador, reavaliar em 15 minutos e classificar novamente conforme a resposta.",
+   "Tosse/resfriado: realizar orientações gerais; sibilos isolados não alteram a classificação da AIDPI.",
+   "Bronquiolite grave: iniciar oxigenoterapia e encaminhar imediatamente para a unidade de urgência."
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "AIDPI Criança: 2 meses a 5 anos (MS, 2017), tosse ou dificuldade para respirar",
+  "coment": "Na AIDPI, respiração rápida no grupo de 1 a 4 anos é 40 ou mais por minuto, e a sibilância é tratada e reavaliada antes da classificação final, porque o broncoespasmo eleva a frequência respiratória e pode produzir tiragem. Criança ativa, que aceita líquidos, sem sinais de perigo, sem estridor, com sibilos difusos: faz-se broncodilatador de ação rápida, reavalia-se após cada ciclo (até três) e classifica-se de novo pela resposta. Se a tiragem subcostal ou a respiração rápida persistirem, aí entra a classificação de pneumonia (o manual brasileiro mantém a tiragem como sinal de pneumonia grave).",
+  "porAlt": [
+   "Errada: sibilo não é critério de pneumonia grave; antes de classificar, trata-se a sibilância e reavalia-se a criança.",
+   "Errada: iniciar amoxicilina sem tratar a sibilância ignora que o broncoespasmo eleva a frequência respiratória.",
+   "Correta: com sibilância, a AIDPI manda dar broncodilatador de ação rápida, reavaliar e reclassificar conforme a resposta.",
+   "Errada: frequência de 48 irpm e tiragem não permitem classificar como resfriado sem antes tratar a sibilância e reavaliar.",
+   "Errada: bronquiolite é diagnóstico do lactente no primeiro episódio de sibilância, e a criança está estável com SpO2 de 94 a 95%."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente internado, 72 anos, acamado, com lesão por pressão em região sacra, Estágio III; exsudato moderado e presença de maceração da pele perilesional. Na inspeção, não há sinais claros de celulite sistêmica (sem febre, sem eritema extenso), mas há dor no local. Qual a conduta inicial de enfermagem entre as opções abaixo?",
+  "alts": [
+   "Aplicar curativo oclusivo do tipo hidrocoloide e reavaliar em 7 dias.",
+   "Fazer higienização com água oxigenada (peróxido de hidrogênio) e cobrir com gaze seca.",
+   "Utilizar gazes impregnadas com pomadas antibióticas para acelerar a cicatrização, independentemente da avaliação clínica da lesão.",
+   "Limpar a lesão com solução salina estéril, aplicar curativo absorvente adequado (p.ex. alginato) com cobertura secundária, proteger a pele perilesional (barreiras) e instituir medidas de alívio de pressão.",
+   "Iniciar antibioticoterapia sistêmica empiricamente, por via oral, para prevenir progressão da infecção."
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "NPIAP. Classificação das lesões por pressão, 2016; International Guideline EPUAP/NPIAP/PPPIA, 3. ed., 2019",
+  "coment": "Lesão estágio 3 tem perda total da espessura da pele, com exsudato moderado e maceração perilesional. A conduta inicial combina limpeza com soro fisiológico, cobertura que absorva o exsudato (alginato, hidrofibra ou espuma, com cobertura secundária), proteção da pele perilesional com barreira (creme ou película) e redistribuição da pressão, sem a qual a lesão não cicatriza. Hidrocoloide é para pouco exsudato e piora a maceração; peróxido de hidrogênio é citotóxico; antibiótico tópico de rotina e antibiótico sistêmico sem sinais de infecção disseminada não têm indicação. Dor local se avalia e trata.",
+  "porAlt": [
+   "Errada: hidrocoloide é para lesão com pouco exsudato; com exsudato moderado e maceração, retém umidade e piora a pele perilesional.",
+   "Errada: peróxido de hidrogênio é citotóxico para o tecido de granulação, e gaze seca adere ao leito.",
+   "Errada: pomada antibiótica de rotina, sem avaliação, favorece resistência e não acelera a cicatrização.",
+   "Correta: limpeza com soro, cobertura absorvente como alginato, barreira na pele perilesional e alívio de pressão tratam a lesão e a causa.",
+   "Errada: sem celulite, febre ou sinais sistêmicos não há indicação de antibiótico sistêmico empírico."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A equipe de enfermagem da UBS Pernambucanas realiza visita domiciliar a um idoso de 84 anos, acamado há seis meses, dependente para as atividades básicas e com nutrição limítrofe. Observa-se que o paciente permanece longos períodos na mesma posição, apresenta pele visivelmente ressecada, com perda de tecido subcutâneo e em uso de colchão de espuma simples, já deformado. Considerando as diretrizes de prevenção de lesão por pressão e os cuidados gerais para pacientes idosos no domicílio, qual é a intervenção prioritária para a equipe de enfermagem?",
+  "alts": [
+   "Aplicar loções hidratantes com fragrância intensa para estimular a circulação sanguínea e prevenir atrito.",
+   "Orientar mudança de decúbito a cada 6 horas e utilizar travesseiros apenas sob a cabeça para maior conforto.",
+   "Manter o paciente sentado na poltrona grande parte do dia, pois a posição sentada reduz a pressão nos pontos de apoio.",
+   "Implementar programa de mudança de posição a cada 2 horas, substituir o colchão por superfície de redistribuição de pressão adequada e proteger proeminências ósseas com coxins.",
+   "Recomendar massagem vigorosa sobre áreas avermelhadas para estimular fluxo sanguíneo e evitar a progressão para lesão por pressão."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Prevenção de quedas e de lesão por pressão",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "International Guideline EPUAP/NPIAP/PPPIA, 3. ed., 2019; Protocolo para prevenção de úlcera por pressão (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "O idoso tem vários fatores de risco: imobilidade, dependência, nutrição limítrofe, pele seca, perda de subcutâneo e colchão deformado. A prioridade é aliviar a pressão: reposicionar com regularidade (o protocolo nacional usa a referência de 2 em 2 horas, ajustada ao risco e à superfície), trocar o colchão por superfície de redistribuição de pressão e proteger proeminências ósseas com coxins, evitando contato direto entre elas. Hidratante sem fragrância trata a xerose. Massagem sobre áreas avermelhadas é contraindicada, porque lesa tecidos já comprometidos; ficar sentado muito tempo concentra pressão em ísquios e sacro.",
+  "porAlt": [
+   "Errada: o hidratante deve ser sem perfume, que irrita a pele; ele trata o ressecamento, não estimula a circulação.",
+   "Errada: intervalo de 6 horas é longo demais para paciente de alto risco, e travesseiros devem proteger também as proeminências ósseas.",
+   "Errada: a posição sentada concentra a pressão em ísquios e sacro e deve ter tempo limitado.",
+   "Correta: reposicionar a cada 2 horas, usar superfície de redistribuição de pressão e proteger proeminências ósseas atacam a causa da lesão.",
+   "Errada: massagem vigorosa sobre áreas avermelhadas é contraindicada, pois lesa os tecidos já comprometidos."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No que se refere ao cuidado de enfermagem na saúde do adolescente, uma prática essencial para garantir a adesão ao tratamento e a promoção integral da saúde é a criação de um vínculo terapêutico. Qual das seguintes ações do enfermeiro fortalece de forma mais eficaz esse vínculo?",
+  "alts": [
+   "Informar aos pais todas as queixas e preocupações do adolescente, buscando a colaboração familiar para o tratamento.",
+   "Priorizar a abordagem de temas técnicos, como vacinação e medidas antropométricas, pois são aspectos objetivos e menos invasivos.",
+   "Adotar uma postura de acolhimento, respeitar o sigilo das informações e permitir que o adolescente participe ativamente das decisões sobre seu cuidado.",
+   "Limitar a consulta ao atendimento individual, sem considerar o contexto social, escolar ou familiar do adolescente.",
+   "Realizar um diagnóstico de enfermagem focado exclusivamente nos problemas biológicos, desconsiderando as questões emocionais e psicológicas."
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Adolescente",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), sigilo profissional; Lei 8.069/1990 (ECA)",
+  "coment": "O vínculo com o adolescente se constrói com acolhimento, escuta sem julgamento, garantia de sigilo e participação ativa nas decisões. O Código de Ética (Res. COFEN 564/2017) protege o sigilo, que só cede diante de risco à vida ou à integridade do próprio adolescente ou de terceiros, de situação de violência ou quando ele não tiver condições de decidir. O ECA reconhece o adolescente como sujeito de direitos. A família é aliada, mas contar tudo aos pais quebra a confiança; e a consulta deve considerar o contexto escolar, social e emocional.",
+  "porAlt": [
+   "Errada: repassar aos pais todas as queixas quebra o sigilo e afasta o adolescente; o sigilo só cede em situações de risco.",
+   "Errada: limitar a consulta a temas técnicos evita assuntos que o adolescente precisa discutir, como sexualidade e saúde mental.",
+   "Correta: acolher, respeitar o sigilo e deixar o adolescente participar das decisões fortalece o vínculo e a adesão.",
+   "Errada: ignorar o contexto social, escolar e familiar contraria a atenção integral ao adolescente.",
+   "Errada: o diagnóstico de enfermagem deve contemplar também as dimensões emocionais e psicológicas."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as atuais Diretrizes Brasileiras para o Rastreamento do Câncer de Colo do útero, aprovadas em julho de 2025, no Brasil, após a realização do Teste DNA-HPV, recomenda-se, assinale a alternativa CORRETA.",
+  "alts": [
+   "O Teste DNA-HPV deve ser realizado em mulheres entre 25 e 64 anos, classificadas como alto risco para o câncer de colo uterino.",
+   "Após 60 anos, o resultado negativo do Teste DNA-HPV libera a mulher do rastreio seguinte que seria realizado subsequentemente, após cinco anos.",
+   "O Teste DNA-HPV consiste num teste molecular para a detecção de vírus HPV com elevado potencial oncogênico, exclusivamente para os tipos: 16, 18 e 45.",
+   "Recomenda-se a citologia reflexa numa nova amostra, diferente daquela obtida para o teste de DNA-HPV oncogênico.",
+   "A população alvo para a realização do Teste DNA-HPV é de mulheres na faixa etária entre 25 e 60 anos, com alto risco para o câncer de colo de útero."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria Conjunta SAES/SECTICS 13/2025 (Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero, INCA, Parte I)",
+  "coment": "As diretrizes do INCA aprovadas em julho de 2025 trocam a citologia pelo teste de DNA-HPV oncogênico com genotipagem, para todas as mulheres de 25 a 64 anos (risco padrão, não alto risco), repetido em 5 anos se negativo. Como o rastreamento termina aos 64 anos, a mulher com 60 anos ou mais e teste negativo não precisa do teste seguinte, que cairia depois dessa idade. O teste detecta os tipos de alto risco oncogênico, não apenas 16, 18 e 45; HPV 16 ou 18 vai direto à colposcopia, e os demais tipos fazem citologia reflexa na mesma amostra, sem nova coleta.",
+  "porAlt": [
+   "Errada: o teste é para todas as mulheres de 25 a 64 anos de risco padrão, não só para as de alto risco.",
+   "Correta: com rastreio até 64 anos e intervalo de 5 anos, o teste negativo a partir dos 60 dispensa o teste seguinte.",
+   "Errada: o teste detecta os vários tipos de HPV de alto risco oncogênico, com genotipagem de 16 e 18, e não só 16, 18 e 45.",
+   "Errada: a citologia reflexa é feita na mesma amostra colhida para o DNA-HPV, sem nova coleta.",
+   "Errada: a faixa é de 25 a 64 anos e abrange mulheres de risco padrão, não só as de alto risco."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No âmbito da Rede Alyne, de acordo com a Nota Técnica Conjunta nº 251/2024, são descritos os cuidados com a alimentação e nutrição no pré-natal, entre os quais deve-se incluir a oferta do Carbonato de Cálcio para pessoas gestantes, com vistas à prevenção de distúrbios hipertensivos na gestação. Diante do exposto, leia as afirmativas abaixo, refletindo em relação às recomendações dessa Nota Técnica.\nI. Recomenda-se a suplementação de Carbonato de Cálcio, correspondendo a 500 mg de cálcio.\nII. Deve-se iniciar a suplementação de Cálcio, na 12ª semana de gestação, mantendo-se até três meses após o parto.\nIII. Recomenda-se a ingestão do suplemento de cálcio em conjunto com o suplemento de ferro e a vitamina C, de preferência 2 horas antes do almoço.\nIV. A suplementação de Cálcio deve ser mantida em até 36 semanas da idade gestacional e, então, suspenso. Entretanto, se a paciente desenvolver pré-eclâmpsia, recomenda-se suspender a ingestão do Cálcio, pois sua manutenção nesses casos não confere benefícios e pode relacionar-se com maiores riscos de sangramento intraparto.\nAssinale a alternativa CORRETA.",
+  "alts": [
+   "Estão corretas apenas I, II e III.",
+   "Estão corretas apenas I e II.",
+   "Está correta apenas a II.",
+   "Estão corretas apenas III e IV.",
+   "Está correta apenas a I."
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Nota Técnica Conjunta nº 251/2024 (MS), suplementação de cálcio na gestação",
+  "coment": "Pela Nota Técnica Conjunta 251/2024, toda gestante recebe carbonato de cálcio a partir da 12ª semana até o parto, para prevenir distúrbios hipertensivos. Cada comprimido de 1.250 mg de carbonato corresponde a 500 mg de cálcio elementar, e a dose é de 1.000 mg de cálcio por dia (dois comprimidos). A suplementação vai até o parto, não até três meses depois (II falsa); o cálcio deve ser tomado com pelo menos 2 horas de intervalo do ferro, porque reduz sua absorção (III falsa); e não se suspende às 36 semanas (IV falsa). A afirmativa I é a única compatível, lida como a equivalência de cada comprimido.",
+  "porAlt": [
+   "Errada: II e III são falsas; a suplementação termina no parto e o cálcio não deve ser tomado junto com o ferro.",
+   "Errada: a II é falsa, porque a suplementação vai da 12ª semana até o parto, e não até três meses após.",
+   "Errada: a II é falsa; o cálcio é mantido até o parto, e não por três meses de puerpério.",
+   "Errada: o cálcio deve ficar separado do ferro por pelo menos 2 horas e não é suspenso às 36 semanas.",
+   "Correta: só a I está de acordo com a nota, pois cada comprimido de carbonato de cálcio corresponde a 500 mg de cálcio elementar."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o cuidado de enfermagem ao idoso com lesões de pele, assinale a alternativa CORRETA.",
+  "alts": [
+   "O cuidado da pele com xerose envolve a substituição de soluções emolientes, por substâncias que mantêm a pele e o ambiente secos.",
+   "Pessoas idosas com pele seca devem buscar alívio sempre com o uso de substâncias sensibilizadoras.",
+   "Na dermatite de contado, um dos principais cuidados é romper as vesículas quando elas surgem.",
+   "Contatos que causem atrito ou cisalhamento na pele do idoso devem ser evitados ou feitos com proteção da pele por roupas de algodão.",
+   "Na prevenção de lesões por pressão, é importante manter o idoso em decúbito dorsal, mudando a posição duas vezes ao dia."
+  ],
+  "gab": 3,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Envelhecimento e saúde da pessoa idosa, Cadernos de Atenção Básica nº 19 (MS, 2006)",
+  "coment": "A pele do idoso é fina, seca e frágil, com menos colágeno e menor coesão entre epiderme e derme, o que facilita lesão por fricção e cisalhamento. Evitar atrito e cisalhamento, ou proteger a pele com tecido macio como o algodão, é medida central. A xerose se trata com emolientes e hidratantes, não com secagem; substâncias sensibilizantes devem ser evitadas; vesículas da dermatite de contato não se rompem, porque a pele íntegra protege contra infecção. Na prevenção de lesão por pressão, o reposicionamento é frequente, não duas vezes ao dia.",
+  "porAlt": [
+   "Errada: a xerose se trata com emolientes e hidratação; manter a pele seca agrava o ressecamento.",
+   "Errada: substâncias sensibilizantes provocam dermatite e devem ser evitadas na pele seca do idoso.",
+   "Errada: romper vesículas abre porta para infecção; elas devem ser preservadas.",
+   "Correta: o atrito e o cisalhamento lesam a pele frágil do idoso e devem ser evitados ou amortecidos por tecido macio como o algodão.",
+   "Errada: manter decúbito dorsal e mudar só duas vezes ao dia é insuficiente; o reposicionamento deve ser frequente."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Diretriz Brasileira de Hipertensão Arterial – 2025, Arquivo Brasileiro de Cardiologia 2025, leia as afirmativas abaixo e coloque V nas Verdadeiras e F nas Falsas.\n( ) É considerada Pressão Arterial (PA) normal valores de Pressão Arterial Sistólica (PAS) abaixo de 120 mmHg e Pressão Arterial Diastólica (PAD) abaixo de 80 mmHg.\n( ) Recomenda-se que o diagnóstico de Hipertensão Arterial (HA) seja feito quando a PA no consultório for ≥ 140 e/ou 90 mmHg em duas ocasiões diferentes e classificada em estágios 1, 2 e 3, de acordo com o maior valor de PAS ou PAD.\n( ) Recomenda-se usar apenas a monitorização ambulatorial da pressão arterial (MAPA) para confirmar diagnóstico de HA e monitorar o tratamento.\n( ) Recomenda-se o início de tratamento medicamentoso para indivíduos com PA ≥ 140/90 mmHg.\nAssinale a alternativa que indica a sequência CORRETA.",
+  "alts": [
+   "F, F, V, F.",
+   "V, V, V, V.",
+   "V, F, F, V.",
+   "V, V, F, V.",
+   "F, F, F, V."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH, SBN), Arq Bras Cardiol, 2025",
+  "coment": "A diretriz de 2025 classifica como PA normal a sistólica abaixo de 120 e a diastólica abaixo de 80 mmHg; de 120 a 139 e/ou 80 a 89 é pré-hipertensão (a antiga PA ótima deixou de existir). O diagnóstico exige PA de consultório de 140 e/ou 90 mmHg ou mais em pelo menos duas ocasiões, com estágios 1, 2 e 3 definidos pelo maior valor entre sistólica e diastólica. MAPA e MRPA são recomendadas para confirmar o diagnóstico e acompanhar, mas não são o único método. Tratamento medicamentoso imediato a partir de 140/90 mmHg.",
+  "porAlt": [
+   "Errada: as duas primeiras afirmativas são verdadeiras e a terceira, falsa, ao contrário do que a sequência indica.",
+   "Errada: a terceira é falsa, pois a MAPA não é o único método de confirmação; a MRPA e a medida de consultório também valem.",
+   "Errada: a segunda é verdadeira; o diagnóstico exige PA de 140/90 ou mais em duas ocasiões, com estágios 1 a 3.",
+   "Correta: PA normal abaixo de 120/80, diagnóstico em duas ocasiões e fármaco a partir de 140/90 são verdadeiros; MAPA como único método é falso.",
+   "Errada: as duas primeiras afirmativas são verdadeiras pela diretriz de 2025."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante uma consulta de enfermagem na Atenção Básica, um paciente de 58 anos, com diagnóstico de Diabetes Mellitus tipo 2 há 6 anos, apresenta glicemia capilar de 248 mg/dL e relata que tem “pulado” doses da medicação por acreditar que se sente bem. Refere também formigamento nos pés e utiliza calçados apertados por “não gostar de sapatos folgados”. Ao revisar o prontuário, o enfermeiro nota que o paciente não comparece às consultas regulares há mais de um ano e não realizou exames de rotina recentes (HbA1c, função renal, avaliação dos pés). Diante dessa situação, qual deve ser a conduta mais adequada da enfermagem, conforme preconizado para o manejo do DM2 na Atenção Básica?",
+  "alts": [
+   "Orientar o paciente a procurar atendimento apenas se surgirem feridas nos pés, pois a avaliação preventiva não é atribuição direta da enfermagem.",
+   "Encaminhar o paciente imediatamente ao endocrinologista e aguardar prescrição médica para qualquer orientação educativa, evitando condutas duplicadas.",
+   "Reforçar a importância da adesão medicamentosa, realizar avaliação dos pés, orientar sobre autocuidado, agendar retorno regular, solicitar e acompanhar os exames de rotina e construir um plano de cuidado compartilhado que contemple alimentação, atividade física e monitoramento.",
+   "Iniciar ajuste de doses dos hipoglicemiantes orais e substituir a medicação atual do paciente, visto que o enfermeiro na APS é responsável pelo manejo farmacológico independente.",
+   "Apenas registrar a situação no prontuário, pois cabe exclusivamente ao médico investigar desconfortos nos pés e avaliar complicações crônicas do diabetes."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Estratégias para o cuidado da pessoa com doença crônica: diabetes mellitus, Cadernos de Atenção Básica nº 36 (MS, 2013); Lei 7.498/1986, art. 11",
+  "coment": "O caso reúne má adesão, hiperglicemia, parestesia nos pés (suspeita de neuropatia), calçado inadequado e mais de um ano sem acompanhamento. O Caderno de Atenção Básica 36 atribui ao enfermeiro a consulta de enfermagem com educação para o autocuidado, o exame dos pés com estratificação do risco, a solicitação de exames de rotina conforme protocolo, o agendamento do seguimento e o plano de cuidado compartilhado com a pessoa. Ajustar ou trocar hipoglicemiante por conta própria não é atribuição do enfermeiro; ele prescreve só medicamentos de programas de saúde, em protocolo aprovado (Lei 7.498/1986, art. 11, II, c).",
+  "porAlt": [
+   "Errada: a avaliação dos pés e a prevenção do pé diabético são atribuições do enfermeiro na consulta.",
+   "Errada: a educação em saúde é atribuição própria da enfermagem e não depende de prescrição médica; o caso não exige endocrinologista de imediato.",
+   "Correta: reforçar adesão, examinar os pés, educar para o autocuidado, solicitar exames, agendar retorno e pactuar um plano é a conduta preconizada.",
+   "Errada: o enfermeiro não faz manejo farmacológico independente do diabetes; prescreve apenas dentro de protocolos de programas.",
+   "Errada: a avaliação de complicações, como o exame dos pés, também é atribuição do enfermeiro."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante uma visita domiciliar realizada por uma equipe da Atenção Básica (AB), o(a) enfermeiro(a) avalia um paciente de 42 anos que relata dormência progressiva na mão direita há alguns meses, além de manchas avermelhadas com diminuição da sensibilidade ao toque e à dor. Afirma não ter buscado atendimento antes por medo de preconceito. O enfermeiro identifica também que dois familiares convivem diretamente com o paciente e nunca foram avaliados. Diante dessa situação, qual deve ser a conduta mais adequada da enfermagem conforme as competências preconizadas para o manejo da hanseníase na AB?",
+  "alts": [
+   "Encaminhar o paciente imediatamente ao dermatologista e aguardar o diagnóstico especializado, sem iniciar intervenções, para evitar condutas inadequadas.",
+   "Registrar o achado em prontuário e orientar o paciente a retornar à unidade, apenas se surgirem novos sintomas, já que não há confirmação diagnóstica.",
+   "Aguardar a equipe médica avaliar o caso e os contatos, pois o enfermeiro não deve atuar sobre suspeitas de hanseníase para evitar falhas diagnósticas.",
+   "Prescrever e iniciar a poliquimioterapia (PQT) com base na suspeita clínica, pois o início precoce é responsabilidade exclusiva da enfermagem na APS.",
+   "Realizar avaliação clínica detalhada, notificar o caso como suspeito, iniciar educação em saúde, orientar autocuidado, programar avaliação dos contatos domiciliares e articular coleta de exames e início da PQT após confirmação."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes para vigilância, atenção e eliminação da hanseníase como problema de saúde pública (MS, 2016)",
+  "coment": "Manchas com alteração de sensibilidade e dormência na mão sugerem hanseníase, cujo diagnóstico é essencialmente clínico e pode ser feito na atenção básica. Cabe ao enfermeiro avaliação dermatoneurológica, educação em saúde contra o estigma, orientação de autocuidado, avaliação dos contatos domiciliares e articulação com o médico da equipe para confirmação e início da poliquimioterapia. Ressalva: a hanseníase entra no SINAN como caso confirmado (notificação semanal na lista nacional), não como suspeito. Mesmo assim, a alternativa E é a única que reúne avaliação, educação, contatos e tratamento após confirmação.",
+  "porAlt": [
+   "Errada: o diagnóstico de hanseníase é feito na atenção básica, e esperar o especialista sem agir atrasa tratamento e controle dos contatos.",
+   "Errada: as lesões com perda de sensibilidade já justificam investigação imediata, não espera por novos sintomas.",
+   "Errada: o enfermeiro atua na suspeita com avaliação dermatoneurológica, educação e exame dos contatos.",
+   "Errada: a PQT começa após o diagnóstico confirmado, e o tratamento não é responsabilidade exclusiva da enfermagem.",
+   "Correta: reúne avaliação clínica, educação, autocuidado, exame dos contatos e PQT após a confirmação do diagnóstico."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os serviços e programas da Rede de Atenção Psicossocial têm como objetivo:",
+  "alts": [
+   "Garantir o acesso e qualidade nos serviços, oferecendo atendimento integral e multiprofissional.",
+   "Usar de estratégias de redução de danos quando aplicáveis.",
+   "Garantir acesso, atenção integral e tratamento às pessoas em sofrimento psíquico ou com necessidades decorrentes do uso prejudicial de álcool e outras drogas de álcool.",
+   "Acompanhar e monitorar a política nacional de saúde mental, álcool e outras drogas, e o diálogo com a sociedade brasileira para promover avanços nesta política.",
+   "Impulsionar a Política de saúde mental, álcool e outras drogas, fundamentada no conceito de Cuidar em Liberdade."
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 3.088/2011 (RAPS), consolidada no Anexo V da Portaria de Consolidação 3/2017, arts. 2º e 3º",
+  "coment": "A RAPS (Portaria GM/MS 3.088/2011, hoje no Anexo V da PRC 3/2017) destina-se a pessoas com sofrimento ou transtorno mental e com necessidades decorrentes do uso de crack, álcool e outras drogas, e seu propósito é garantir acesso, atenção integral e tratamento a esse público. A alternativa A repete uma diretriz do art. 2º (garantia do acesso e da qualidade dos serviços, com cuidado integral e assistência multiprofissional), e a B, outra diretriz (estratégias de redução de danos). D e E descrevem atribuições de gestão federal da política de saúde mental. A banca separa objetivo de diretriz.",
+  "porAlt": [
+   "Errada: garantia de acesso e qualidade com cuidado integral e multiprofissional é diretriz da RAPS (art. 2º), não seu objetivo.",
+   "Errada: o desenvolvimento de estratégias de redução de danos é diretriz da RAPS, não o objetivo dos serviços.",
+   "Correta: os serviços da RAPS existem para garantir acesso, atenção integral e tratamento às pessoas em sofrimento psíquico ou com necessidades pelo uso de álcool e outras drogas.",
+   "Errada: acompanhar e monitorar a política nacional é função de gestão federal, não objetivo dos serviços da rede.",
+   "Errada: impulsionar a política com base no cuidado em liberdade é papel da gestão da política, não objetivo dos serviços."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Entre as afirmativas abaixo, identifique as Verdadeiras que são atividades de vigilância epidemiológica das arbovirose com (V) e as Falsas com (F).\n( ) Notificar e investigar oportunamente os casos suspeitos de Dengue, Chikungunya e Zika.\n( ) Encerrar os casos de Dengue, Chikungunya e Zika em até 30 dias após a data da notificação, permitindo o conhecimento do comportamento dessas doenças.\n( ) Acompanhar, de forma contínua, a evolução temporal desses agravos e detectar efetivamente mudanças no padrão de ocorrência, surtos e epidemias.\n( ) Promover a integração entre as áreas de controle vetorial e assistência que atuam na prevenção e no controle das arboviroses.\n( ) Realizar e avaliar as medidas de controle vetorial, visando à redução da magnitude, da gravidade e da mortalidade por essas doenças.\nAssinale a alternativa que indica a sequência CORRETA.",
+  "alts": [
+   "F, F, V, V, V.",
+   "V, V, F, F, F",
+   "V, F, F, F, V.",
+   "V, F, V, V, F.",
+   "F, V, F, F, V."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Guia de Vigilância em Saúde, 6. ed. (MS, 2023), capítulo de dengue, chikungunya e Zika",
+  "coment": "A vigilância epidemiológica das arboviroses notifica e investiga oportunamente os casos suspeitos, acompanha a curva de incidência para detectar mudança de padrão, surtos e epidemias e integra controle vetorial e assistência. O encerramento dos casos de dengue e chikungunya no SINAN tem prazo de até 60 dias após a notificação, não 30 (afirmativa II falsa). Executar o controle vetorial cabe à vigilância ambiental e ao controle de vetores; a epidemiológica articula, mas não realiza essas medidas, e por isso a banca considerou a última afirmativa falsa.",
+  "porAlt": [
+   "Errada: a primeira afirmativa é verdadeira, pois notificar e investigar os casos suspeitos é atividade central da vigilância epidemiológica.",
+   "Errada: a segunda é falsa (o prazo de encerramento é de 60 dias), e a terceira e a quarta são verdadeiras.",
+   "Errada: acompanhar a evolução temporal e integrar controle vetorial e assistência são atividades verdadeiras da vigilância epidemiológica.",
+   "Correta: notificar e investigar, acompanhar a tendência e integrar as áreas são da vigilância epidemiológica; o prazo de 30 dias e a execução do controle vetorial não.",
+   "Errada: inverte a primeira, que é verdadeira, e a segunda, que traz prazo de encerramento errado."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação à vacina que previne doenças meningocócicas (meningite, encefalite, meningoencefalite) pelo meningococo tipo C, a sua 1ª dose é aplicada aos",
+  "alts": [
+   "2 meses.",
+   "5 meses.",
+   "3 meses.",
+   "6 meses.",
+   "4 meses."
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), vacina meningocócica C",
+  "coment": "Pela Instrução Normativa do Calendário Nacional de Vacinação 2026, a vacina meningocócica C conjugada tem esquema básico de 2 doses, aos 3 e aos 5 meses de idade, e o reforço aos 12 meses passou a ser feito com a vacina meningocócica ACWY conjugada. A men C protege contra a doença meningocócica invasiva pelo sorogrupo C, como meningite e meningococcemia. Criança em atraso pode ser vacinada até 4 anos, 11 meses e 29 dias. Aos 2 meses são feitas penta, VIP, pneumocócica e rotavírus; aos 4 meses, as segundas doses delas.",
+  "porAlt": [
+   "Errada: aos 2 meses o calendário prevê penta, VIP, pneumocócica e rotavírus, não a meningocócica C.",
+   "Errada: aos 5 meses é aplicada a segunda dose da men C, não a primeira.",
+   "Correta: a primeira dose da meningocócica C é aos 3 meses, com a segunda aos 5 meses.",
+   "Errada: aos 6 meses o calendário prevê a terceira dose de penta e VIP, não a men C.",
+   "Errada: aos 4 meses são aplicadas as segundas doses de penta, VIP, pneumocócica e rotavírus."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em 2024, o Ministério da Saúde (MS) ampliou o uso do teste de triagem e teste complementar/confirmatório para uso em diagnóstico de HTLV (vírus Linfotrópico de Células T Humanas) em gestantes no pré-natal. Esse vírus de impacto mundial ainda passa despercebido pela maioria da população e pelos profissionais e gestores da saúde. Sobre essa temática, assinale a alternativa CORRETA.",
+  "alts": [
+   "O HTLV-1/2 está presente nas hemácias, sendo encontrado em diversos fluidos corpóreos, incluindo sangue, sêmen, secreção vaginal e leite materno.",
+   "O HTLV-1 é um vírus geneticamente muito variável, e as diferentes cepas virais podem determinar desfechos clínicos diversos.",
+   "O risco de surgimento de doença neurológica entre infectados não guarda relação com a carga proviral de HTLV-1 no sangue.",
+   "O HTLV-1 parece envolver um espectro neurológico mais amplo do que simplesmente o de uma mielopatia (doença da medula espinhal).",
+   "O uso de medicamentos antirretrovirais específicos contra o HTLV-1 revelou-se altamente efetivo do ponto de vista clínico e laboratorial."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Guia de manejo clínico da infecção pelo HTLV (MS, 2021)",
+  "coment": "O HTLV-1 infecta sobretudo linfócitos T CD4 e se transmite por células infectadas presentes no sangue, no sêmen, na secreção vaginal e no leite materno; não está nas hemácias. O vírus é geneticamente estável, ao contrário do HIV. Carga proviral elevada é o principal marcador de risco de doença neurológica (mielopatia associada ao HTLV-1, ou HAM/TSP). Não há antirretroviral com eficácia comprovada contra o HTLV. Além da mielopatia, o HTLV-1 se associa a um espectro neurológico mais amplo, com neuropatia periférica, disfunção urinária e alterações cognitivas, o que torna D correta.",
+  "porAlt": [
+   "Errada: o HTLV infecta principalmente linfócitos T, não hemácias, embora esteja em sangue, sêmen, secreção vaginal e leite.",
+   "Errada: o HTLV-1 tem baixa variabilidade genética, e o desfecho clínico depende mais do hospedeiro e da carga proviral.",
+   "Errada: a carga proviral alta é o principal marcador de risco de mielopatia associada ao HTLV-1.",
+   "Correta: o HTLV-1 causa um espectro neurológico que vai além da mielopatia, incluindo neuropatia periférica e disfunção urinária.",
+   "Errada: não há antirretroviral com eficácia clínica comprovada contra o HTLV-1."
+  ],
+  "fonte": {
+   "banca": "SES-PE (IAUPE)",
+   "ano": 2026,
+   "prova": "Residência Multiprofissional 2026, Enfermagem, Perfil Atenção Básica",
+   "n": 49,
+   "parte": "especificas"
+  }
+ }
+]
