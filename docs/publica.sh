@@ -15,7 +15,7 @@ python3 docs/confere_origem.py $(cat lotes-questoes/EM_ANDAMENTO.txt) > /tmp/ef_
 python3 monta_banco.py > /tmp/ef_banco.txt; grep -E 'gerado|repetidas' /tmp/ef_banco.txt
 python3 valida_html.py
 python3 bump.py
-git add -A -- . "${EXC[@]}"
+git add -A -- . ${EXC[@]+"${EXC[@]}"}
 git -c user.name="MedTechBR" -c user.email="matheusparente1@gmail.com" commit -q -m "$MSG
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"

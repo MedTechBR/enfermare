@@ -54,6 +54,12 @@ window.LEITURAS=[
  {f:"saude-adulto-clinica.html", tipo:"SBC 2025, ADA 2026 e Portaria 11.685/2026 · monografia", area:"adulto", min:74,
   t:"Assistência de enfermagem ao adulto com doença clínica",
   s:"O que o enfermeiro avalia, decide e faz nas doenças clínicas mais cobradas: hipertensão (Diretriz Brasileira 2025), diabetes (ADA 2026 e Res. COFEN 734/2023), insuficiência cardíaca, DPOC e asma, diálise, potássio e sódio, transfusão pelo novo regulamento (Portaria GM/MS 11.685/2026), quimioterapia (Res. COFEN 569/2018) e PNAISH."},
+ {f:"nefrologia-dialise.html", tipo:"KDIGO 2024, RDC ANVISA 11/2014 e PN COFEN 01/2024 · monografia", area:"adulto", min:75,
+  t:"Enfermagem em nefrologia e diálise",
+  s:"O que o enfermeiro avalia, decide e faz diante do rim que falha: lesão renal aguda pelo KDIGO 2012, doença renal crônica pelo KDIGO 2024 com CKD-EPI 2021, prevenção na atenção primária, acesso vascular pelo KDOQI 2019, complicações da hemodiálise, diálise peritoneal e peritonite pela ISPD 2022, regras do serviço de diálise pela RDC ANVISA 11/2014, dimensionamento pelo Parecer Normativo COFEN 01/2024, hipercalemia e dieta, transplante e doação pela Lei 9.434/1997."},
+ {f:"oncologia-enfermagem.html", tipo:"Lei 14.758/2023, Res. COFEN 569/2018 e 735/2024 · monografia", area:"adulto", min:75,
+  t:"Enfermagem oncológica",
+  s:"Política Nacional de Prevenção e Controle do Câncer (Lei 14.758/2023) e navegação (Res. COFEN 735/2024), rastreamento de colo (DNA-HPV, INCA 2025), mama (NT 626/2025) e colorretal, quimioterapia pela enfermagem (Res. COFEN 569/2018, NR 32, RDC 222/2018), vesicantes e extravasamento (ESMO-EONS e ONS/ASCO), toxicidades, neutropenia febril (IDSA e ASCO/IDSA), cateter totalmente implantado, radioterapia, oncologia pediátrica, dor e emergências oncológicas."},
 
  {grupo:"Ciclos de vida"},
  {f:"saude-mulher-obstetricia.html", tipo:"Rede Alyne 2024, MS 2022, INCA 2025 · monografia", area:"mulher", min:75,

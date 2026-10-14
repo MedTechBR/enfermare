@@ -1,0 +1,1314 @@
+[
+ {
+  "q": "Constitui o Sistema Único de Saúde (SUS): I- Instituições públicas federais, estaduais e municipais de controle de qualidade, pesquisa e produção de insumos. II- Instituições privadas da administração pública direta e indireta. III- Iniciativa privada em caráter suplementar. Estão corretas as afirmativas:",
+  "alts": [
+   "III apenas;",
+   "I e II, apenas;",
+   "I apenas;",
+   "I e III, apenas;",
+   "II e III, apenas."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 4º, §§ 1º e 2º",
+  "coment": "O art. 4º da Lei 8.080/1990 define o SUS como o conjunto de ações e serviços prestados por órgãos e instituições públicas federais, estaduais e municipais, da administração direta e indireta e das fundações mantidas pelo Poder Público. O § 1º inclui expressamente as instituições públicas de controle de qualidade, pesquisa e produção de insumos, medicamentos, sangue e hemoderivados e equipamentos (afirmativa I). A II inventa \"instituições privadas da administração pública\". A III erra a palavra-chave: a iniciativa privada participa em caráter complementar (§ 2º), não suplementar.",
+  "porAlt": [
+   "A III está errada: o § 2º do art. 4º fala em caráter complementar, não suplementar.",
+   "A II está errada: o art. 4º fala em instituições públicas da administração direta e indireta, não em privadas.",
+   "Correta: só a I reproduz o § 1º do art. 4º, que inclui as instituições públicas de controle de qualidade, pesquisa e produção de insumos.",
+   "Inclui a III, que troca complementar por suplementar, termo que a lei não usa para a iniciativa privada.",
+   "Reúne as duas afirmativas erradas: instituição privada da administração pública e participação suplementar."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura de Joinville-SC 2024, Enfermeiro",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo o Art. 7º da lei nº 8.080 de 1990, são princípios que regem as ações e serviços públicos de saúde e os serviços privados contratados ou conveniados que integram o Sistema Único de Saúde (SUS):",
+  "alts": [
+   "universalidade e descentralização político-administrativa;",
+   "participação da comunidade e ênfase na centralização dos serviços para os municípios;",
+   "ênfase na centralização dos serviços para os municípios e universalização;",
+   "universalização e acesso diferenciado à assistência à saúde;",
+   "acesso diferenciado à assistência à saúde e participação da comunidade."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º, incisos I e IX",
+  "coment": "O art. 7º da Lei 8.080/1990 lista os princípios do SUS. O inciso I traz a universalidade de acesso aos serviços em todos os níveis de assistência, e o inciso IX, a descentralização político-administrativa com direção única em cada esfera de governo, com ênfase na descentralização dos serviços para os municípios. As alternativas erradas usam duas armadilhas: \"centralização\" no lugar de descentralização e \"acesso diferenciado\", que contraria a igualdade da assistência sem preconceitos ou privilégios (inciso IV).",
+  "porAlt": [
+   "Correta: universalidade de acesso (inciso I) e descentralização político-administrativa (inciso IX) estão no art. 7º.",
+   "Participação da comunidade é princípio, mas a lei fala em descentralização para os municípios, não em centralização.",
+   "Universalidade é princípio, mas \"centralização\" inverte o inciso IX, que manda descentralizar para os municípios.",
+   "Acesso diferenciado contraria o inciso IV, que exige igualdade da assistência sem preconceitos ou privilégios.",
+   "Participação da comunidade é princípio (inciso VIII), mas acesso diferenciado contraria a igualdade do inciso IV."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura de Joinville-SC 2024, Enfermeiro",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A lei nº 2.604 de 1995, determina que só podem exercer a enfermagem em território nacional, na qualidade de obstetriz:",
+  "alts": [
+   "os portadores de diploma de enfermeiros;",
+   "os portadores de certificados de auxiliar de enfermagem;",
+   "os portadores de certificado de parteira;",
+   "os diplomados por escolas de obstetrizes estrangeiras;",
+   "as religiosas de comunidade amparadas pelo Decreto nº 22.257."
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 2.604/1955 (superada); vigente: Lei 7.498/1986, art. 6º, II e III",
+  "coment": "O enunciado traz erro da banca: a lei é a 2.604 de 1955, que regulava o exercício antes da Lei 7.498/1986. Ela admitia como obstetriz quem tinha diploma de escola de obstetrizes e os diplomados por escolas estrangeiras de obstetrizes, com revalidação. O gabarito continua coerente com a lei vigente: o art. 6º da Lei 7.498/1986 inclui entre os enfermeiros a obstetriz e a enfermeira obstétrica (II) e quem tem diploma estrangeiro de obstetriz revalidado no Brasil ou registrado por acordo de intercâmbio cultural (III). Diploma de enfermeiro, de auxiliar ou certificado de parteira não habilita como obstetriz.",
+  "porAlt": [
+   "O diploma de enfermeiro habilita como enfermeiro, não na qualidade específica de obstetriz.",
+   "O certificado de auxiliar de enfermagem habilita apenas como auxiliar, categoria de nível médio.",
+   "A parteira é categoria própria, sem a formação de obstetriz; a Lei 7.498 trata dela no art. 9º.",
+   "Correta: diplomados por escolas estrangeiras de obstetrizes, com diploma revalidado, exercem como obstetriz (hoje, Lei 7.498/1986, art. 6º, III).",
+   "As religiosas amparadas pelo Decreto 22.257 eram reconhecidas como práticas, não como obstetrizes."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura de Joinville-SC 2024, Enfermeiro",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Agentes bacteriostáticos, fungiostáticos, viriostáticos são os responsáveis por causar a morte de bactérias, fungos e vírus. Essa afirmação está:",
+  "alts": [
+   "parcialmente correta;",
+   "errada, estes agentes inibem o crescimento de bactérias, fungos e vírus;",
+   "errada, estes agentes contribuem para o aumento de bactérias;",
+   "correta, estes agentes provocam a morte total desses microrganismos;",
+   "correta, mas os agentes fungiostáticos atuam na liberação de fungos."
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Tortora, Funke e Case, Microbiologia, 12ª ed. (2017), controle do crescimento microbiano",
+  "coment": "O sufixo \"-stático\" indica inibição do crescimento e da multiplicação, sem morte do microrganismo: retirado o agente, a população pode voltar a crescer. Quem mata é o agente \"-cida\" (bactericida, fungicida, virucida, esporicida). A distinção aparece no estudo de antimicrobianos, desinfetantes e antissépticos: um bacteriostático depende das defesas do hospedeiro para eliminar o patógeno. Por isso a afirmação do enunciado está errada, e a explicação correta é a da alternativa B.",
+  "porAlt": [
+   "Não é parcialmente correta: o conceito inteiro está trocado, porque agentes estáticos não matam.",
+   "Correta: bacteriostáticos, fungistáticos e virustáticos inibem o crescimento; quem mata são os agentes com sufixo -cida.",
+   "Agentes estáticos não aumentam a população bacteriana; eles a mantêm sem crescer enquanto presentes.",
+   "Morte total dos microrganismos é efeito de agente -cida ou de esterilização, não de agente estático.",
+   "Fungistático inibe o crescimento de fungos; não existe ação de \"liberação de fungos\"."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura de Joinville-SC 2024, Enfermeiro",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Conforme a Lei nº 8.142 de 1990, são instâncias colegiadas do SUS:",
+  "alts": [
+   "conferência de saúde e fórum nacional de saúde;",
+   "câmara básica de saúde e conferência de saúde;",
+   "conselho de saúde e câmara básica de saúde;",
+   "ministério da saúde e conselho de saúde;",
+   "conferência de saúde e conselho de saúde."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 1º",
+  "coment": "O art. 1º da Lei 8.142/1990 diz que o SUS contará, em cada esfera de governo, sem prejuízo das funções do Poder Legislativo, com duas instâncias colegiadas: a Conferência de Saúde, que se reúne a cada quatro anos para avaliar a situação e propor diretrizes, e o Conselho de Saúde, órgão permanente e deliberativo, com usuários em paridade com os demais segmentos. Ministério, fundo, fórum ou \"câmara básica\" não são instâncias colegiadas da lei. Comissões intergestores (CIT, CIB, CIR) também não são controle social.",
+  "porAlt": [
+   "Conferência é instância colegiada, mas \"fórum nacional de saúde\" não consta da Lei 8.142.",
+   "Câmara básica de saúde não existe na Lei 8.142; só a conferência está certa.",
+   "O conselho está certo, mas câmara básica de saúde não é instância colegiada prevista na lei.",
+   "O Ministério da Saúde é o gestor federal, não instância colegiada de participação da comunidade.",
+   "Correta: a Lei 8.142, art. 1º, cria a Conferência de Saúde e o Conselho de Saúde em cada esfera de governo."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura de Joinville-SC 2024, Enfermeiro",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Resistentes a dessecação, temperaturas elevadas, radiações, pHs extremos, entre outras condições. Permite à bactéria sobreviver sob condições adversas e voltar ao estágio metabolicamente ativo quando as condições são propícias:",
+  "alts": [
+   "endósporos;",
+   "pigmento;",
+   "citoplasma;",
+   "ribossomos;",
+   "mesossomos."
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "RDC ANVISA 15/2012, art. 4º; Tortora, Funke e Case, Microbiologia, 12ª ed. (2017)",
+  "coment": "O endósporo é a forma de resistência de bactérias como Bacillus e Clostridium: tem capa espessa, pouca água e metabolismo mínimo, resiste a calor, dessecação, radiação e químicos, e germina quando o ambiente volta a ser favorável. É por causa dele que a desinfecção de alto nível não basta para artigos críticos: pela RDC ANVISA 15/2012 (art. 4º) ela poupa um número elevado de esporos, e só a esterilização os elimina. O indicador biológico usa esporos justamente por serem a forma mais resistente.",
+  "porAlt": [
+   "Correta: o endósporo resiste a dessecação, calor, radiação e pH extremos e volta ao estado vegetativo quando as condições melhoram.",
+   "Pigmentos dão cor e podem proteger da luz, mas não permitem dormência nem resistência a calor e dessecação.",
+   "O citoplasma é parte da célula ativa e não confere resistência a condições extremas.",
+   "Ribossomos fazem a síntese de proteínas; não são estrutura de sobrevivência.",
+   "Mesossomos são invaginações da membrana descritas em microscopia, sem papel de resistência ambiental."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura de Joinville-SC 2024, Enfermeiro",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Como segurança, recomenda-se em casos de queimadura de terceiro grau:",
+  "alts": [
+   "colocar gelo e em seguida aplicar pomada específica;",
+   "observar se há dificuldade respiratória e encaminhar ao serviço médico;",
+   "retirar as roupas que porventura estão grudadas na pele e aplicar álcool na área afetada;",
+   "realizar a limpeza da área afetada com álcool;",
+   "aplicar gelo e enfaixar."
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Queimaduras",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Cartilha para tratamento de emergência das queimaduras (2012)",
+  "coment": "Na queimadura de espessura total o risco imediato não está na pele, mas na via aérea e na perda de volume. O primeiro cuidado é avaliar sinais de lesão inalatória (rouquidão, estridor, fuligem, queimadura de face, dispneia) e encaminhar ao serviço médico. O atendimento inicial interrompe a queimadura, resfria com água corrente e não com gelo, cobre com material limpo e previne hipotermia. Gelo agrava a lesão e esfria o paciente; álcool lesa o tecido; roupa grudada não se arranca; pomada não é conduta inicial.",
+  "porAlt": [
+   "Gelo aprofunda a lesão e favorece hipotermia, e pomada não é conduta de primeiro atendimento.",
+   "Correta: vigiar a via aérea, pela possibilidade de lesão inalatória, e encaminhar ao serviço médico é a prioridade.",
+   "Roupa aderida não deve ser arrancada, e álcool lesa o tecido e aumenta a dor.",
+   "Álcool não limpa queimadura: agride o tecido lesado; a limpeza é com água corrente ou soro.",
+   "Gelo é contraindicado na queimadura, porque causa vasoconstrição, aprofunda a lesão e esfria o paciente."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura de Joinville-SC 2024, Enfermeiro",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Portaria nº 399 de 2006, aprovou as Diretrizes Operacionais do Pacto pela Saúde em 2006, consolidando o SUS com seus três componentes:",
+  "alts": [
+   "pacto pela vida, em defesa do SUS e controle social;",
+   "pacto pela vida, em defesa do SUS e de gestão;",
+   "controle social, pacto pela vida e atenção básica à saúde;",
+   "atenção básica à saúde, pacto pela vida e controle social;",
+   "controle social, assistência à saúde e pacto pela vida."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 399/2006 (Pacto pela Saúde)",
+  "coment": "A Portaria GM/MS 399/2006 divulgou o Pacto pela Saúde, que substituiu a lógica de habilitação das NOB e NOAS por compromissos sanitários em três dimensões: Pacto pela Vida (prioridades sanitárias com metas), Pacto em Defesa do SUS (repolitização do sistema e defesa de seus princípios) e Pacto de Gestão (responsabilidades de cada esfera, descentralização, regionalização, financiamento). Controle social e atenção básica são temas tratados dentro dos pactos, não componentes. Hoje a articulação entre os entes segue o Decreto 7.508/2011.",
+  "porAlt": [
+   "Controle social é tema tratado dentro dos pactos, não um dos três componentes.",
+   "Correta: Pacto pela Vida, Pacto em Defesa do SUS e Pacto de Gestão são as três dimensões da Portaria 399/2006.",
+   "Controle social e atenção básica não são componentes; faltam o Pacto em Defesa do SUS e o de Gestão.",
+   "Atenção básica e controle social aparecem nas prioridades, mas não são dimensões do Pacto.",
+   "Assistência à saúde não é dimensão do Pacto; faltam o Pacto em Defesa do SUS e o de Gestão."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura de Joinville-SC 2024, Enfermeiro",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em consonância com legislação vigente, são princípios do SUS e da RAS a serem operacionalizados na Atenção Básica:",
+  "alts": [
+   "regionalização, igualdade e integralidade;",
+   "igualdade, universalização e territorialização;",
+   "universalidade, equidade e integralidade;",
+   "regionalização, universalização e equidade;",
+   "equidade, igualdade e participação social."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo, art. 3º",
+  "coment": "A PNAB (Portaria GM/MS 2.436/2017, consolidada na PRC 2/2017) diz no art. 3º que os princípios do SUS e da RAS a serem operacionalizados na Atenção Básica são universalidade, equidade e integralidade. Regionalização, territorialização e participação da comunidade aparecem como diretrizes, não como princípios. \"Igualdade\" está no art. 7º da Lei 8.080, mas a PNAB adota equidade. A PNAB está em revisão em 2026, mas a 2.436/2017 segue vigente; eMulti (Portaria 635/2023) e cofinanciamento (Portaria 3.493/2024) não mudaram os princípios.",
+  "porAlt": [
+   "Regionalização é diretriz na PNAB, e a política usa equidade, não igualdade.",
+   "A PNAB não traz igualdade nem territorialização como princípios; territorialização é diretriz.",
+   "Correta: universalidade, equidade e integralidade são os três princípios do art. 3º da PNAB.",
+   "Regionalização é diretriz e falta a integralidade, que é princípio.",
+   "Igualdade não é princípio da PNAB, e participação da comunidade é diretriz."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura de Joinville-SC 2024, Enfermeiro",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para acolher bem pacientes com transtorno psiquiátricos, é importante que o profissional da saúde tenha clareza de que os fatores que influenciam mudanças na capacidade em administrar pensamentos, emoções e interações sociais são multifatoriais, ou seja, resultam da combinação de diferentes fatores e variam de pessoa para pessoa, devendo cada caso ser avaliado individualmente para definir a causa da deficiência mental. Neste sentido, são três grupos de fatores que podem desencadear distúrbios mentais, são eles:",
+  "alts": [
+   "biológicos, ambientais e emocionais;",
+   "sociais, culturais e mentais;",
+   "mentais, biológicos e econômicos;",
+   "genéticos, econômicos e emocionais;",
+   "genéticos, culturais e mentais."
+  ],
+  "gab": 0,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Cadernos de Atenção Básica nº 34: Saúde Mental (2013)",
+  "coment": "O adoecimento mental é multifatorial: resulta da interação de fatores biológicos (genética, alterações neuroquímicas, doenças físicas), ambientais e sociais (violência, perdas, condições de vida e trabalho) e psicológicos ou emocionais (história de vida, modo de enfrentar o estresse). É o modelo biopsicossocial adotado pela OMS e pelo cuidado na Atenção Básica. A alternativa A é a única que reúne os três grupos. As demais incluem \"mentais\", explicação circular, ou trocam um grupo amplo por um aspecto isolado, como o econômico.",
+  "porAlt": [
+   "Correta: biológicos, ambientais e emocionais correspondem ao modelo biopsicossocial do adoecimento mental.",
+   "\"Mentais\" é circular para explicar transtorno mental e falta o grupo biológico.",
+   "Repete \"mentais\" e reduz o ambiente ao fator econômico, deixando de fora o componente emocional.",
+   "Genética é só parte do biológico, e o econômico é só parte do ambiental; a lista fica incompleta.",
+   "Repete o termo circular \"mentais\" e deixa de fora o componente emocional ou psicológico."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura de Joinville-SC 2024, Enfermeiro",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A verificação do pulso é realizada sobre a artéria radial. Contudo, quando o pulso está filiforme, pode-se fazer sobre as artérias mais calibrosas como a carótida e a femoral. Filiforme significa:",
+  "alts": [
+   "pulso regular;",
+   "pulso taquicárdico;",
+   "pulso bradicárdico;",
+   "pulso fino;",
+   "Pulso fino e bradicárdico."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto, Semiologia Médica, 8ª ed. (2019), exame do pulso",
+  "coment": "Quanto à amplitude, o pulso pode ser amplo, mediano ou pequeno. Pulso filiforme é o pulso fino, de amplitude muito reduzida e pouco palpável, típico do choque e da hipovolemia, quando a periferia perde enchimento. Por isso se procura uma artéria mais calibrosa, como a carótida ou a femoral. Filiforme descreve amplitude, não frequência nem ritmo: costuma vir com taquicardia, mas taquicárdico, bradicárdico e regular são outras características do pulso.",
+  "porAlt": [
+   "Regular descreve o ritmo do pulso, não a amplitude; filiforme fala de amplitude.",
+   "Taquicárdico é característica de frequência; o filiforme costuma ser rápido, mas o termo significa fino.",
+   "Bradicárdico descreve frequência baixa, característica que o termo filiforme não indica.",
+   "Correta: filiforme é o pulso fino, de amplitude muito pequena e difícil de palpar.",
+   "Acrescenta bradicardia, que o termo não indica; o filiforme do choque costuma ser taquicárdico."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura de Joinville-SC 2024, Enfermeiro",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os fármacos podem atravessar as membranas celulares por difusão passiva, difusão passiva facilitada, transporte ativo e pinocitose. No caso da pinocitose, é correto afirmar que:",
+  "alts": [
+   "é um processo seletivo, sem gasto energético e limita-se a fármacos estruturalmente semelhantes a substâncias endógenas;",
+   "atua somente em fármacos sólidos;",
+   "processo em que é necessário gasto energético, no qual, líquidos ou partículas são tragados por uma célula;",
+   "só pode atuar em substratos com configuração molecular relativamente específica, no qual, a disponibilidade dos transportadores limita o processo;",
+   "Não possui interação com fármacos em estado líquido."
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Vias de administração",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Rang & Dale, Farmacologia, 9ª ed. (2020), absorção e distribuição de fármacos",
+  "coment": "A pinocitose é uma forma de endocitose: a membrana se invagina e engloba gotículas de líquido extracelular, com o que estiver dissolvido nele, formando vesículas. Por depender de remodelação da membrana, consome energia. É pouco relevante para a maioria dos fármacos e mais importante para macromoléculas. Processo seletivo dependente de transportador, saturável e restrito a moléculas parecidas com substâncias endógenas descreve o transporte mediado (difusão facilitada ou transporte ativo), não a pinocitose.",
+  "porAlt": [
+   "Seletividade por semelhança estrutural com substâncias endógenas descreve o transporte mediado, e a pinocitose gasta energia.",
+   "A pinocitose engloba líquido com solutos; não se restringe a fármacos sólidos.",
+   "Correta: a pinocitose gasta energia e engloba líquidos ou partículas em vesículas formadas pela membrana.",
+   "Dependência de transportador específico e saturável é característica do transporte mediado por carreador.",
+   "A pinocitose é justamente o englobamento de líquido, com os solutos que ele contém."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura de Joinville-SC 2024, Enfermeiro",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A vacinação é a melhor maneira de proteger a criança contra doenças imunopreveníveis. Assim, as vacinas disponibilizadas no Sistema Único de Saúde (SUS) são seguras e de vital importância para proteção contra doenças graves e muitas vezes fatais. Desse modo, crianças de 0 a 2 meses de idade, devem receber a:",
+  "alts": [
+   "vacina HPV Papilomavírus humano;",
+   "segunda dose vacina adsorvida Difteria, Tétano e pertussis;",
+   "segunda dose vacina Febre Amarela;",
+   "dose reforço vacina meningocócica C (conjugada);",
+   "vacina rotavírus humano."
+  ],
+  "gab": 4,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "Aos 2 meses a criança recebe a 1ª dose de penta, VIP, rotavírus humano e pneumocócica (desde 2026 com VPC20), além de BCG e hepatite B já ao nascer. A IN do Calendário 2026 mantém o rotavírus oral aos 2 e 4 meses, com limites de idade: 1ª dose de 1 mês e 15 dias a 11 meses e 29 dias. As outras opções caem fora da faixa: HPV é de 9 a 14 anos; segunda dose de DTP não existe nessa idade (a penta faz o esquema e a DTP é reforço aos 15 meses e 4 anos); febre amarela é aos 9 meses com reforço aos 4 anos; reforço de meningocócica é aos 12 meses, hoje com ACWY.",
+  "porAlt": [
+   "A HPV4 é dose única de 9 a 14 anos, não vacina do lactente.",
+   "Nessa idade a difteria, o tétano e a coqueluche vêm na penta; DTP é reforço aos 15 meses e 4 anos.",
+   "Febre amarela tem dose aos 9 meses e reforço aos 4 anos, nunca segunda dose até 2 meses.",
+   "O reforço meningocócico é aos 12 meses e, pela IN 2026, feito com a ACWY.",
+   "Correta: a 1ª dose do rotavírus humano é aos 2 meses, junto com penta, VIP e pneumocócica."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura de Joinville-SC 2024, Enfermeiro",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Norma Regulamentadora no 7 (NR-7 – Programa de Controle Médico e Saúde Ocupacional – PCMSO) estabelece diretrizes e requisitos para o desenvolvimento do PCMSO nas organizações. Acerca dessa norma, assinale a alternativa correta.",
+  "alts": [
+   "Tem como objetivo proteger e preservar a saúde dos empregados nas organizações em relação aos riscos ocupacionais.",
+   "Tem como objetivo estabelecer os requisitos para aprovação, comercialização, fornecimento e utilização de equipamentos de proteção individual (EPI).",
+   "Regulamenta a execução do trabalho considerando a realização das atividades, sem estar condicionada a atividades ou setores econômicos específicos.",
+   "Apresenta definições e procedimentos para pagamento do adicional de periculosidade.",
+   "Trata da gestão de segurança e saúde do trabalho para todas as atividades desenvolvidas em altura com risco de queda."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-7, redação da Portaria SEPRT 6.734/2020, item 7.1.1",
+  "coment": "O item 7.1.1 da NR-7 diz que a norma estabelece diretrizes e requisitos para o PCMSO com o objetivo de proteger e preservar a saúde dos empregados em relação aos riscos ocupacionais, conforme a avaliação de riscos do PGR da organização. As demais alternativas descrevem outras normas: EPI é a NR-6, adicional de periculosidade é a NR-16, trabalho em altura é a NR-35. O PCMSO inclui exames admissional, periódico, de retorno ao trabalho, de mudança de risco e demissional.",
+  "porAlt": [
+   "Correta: proteger e preservar a saúde dos empregados em relação aos riscos ocupacionais é o objetivo do PCMSO no item 7.1.1.",
+   "Aprovação, comercialização e uso de EPI são objeto da NR-6, não da NR-7.",
+   "A descrição genérica não corresponde ao PCMSO, que é programa de saúde vinculado aos riscos do PGR.",
+   "Adicional de periculosidade e seus procedimentos são tratados na NR-16.",
+   "Gestão de segurança no trabalho em altura com risco de queda é objeto da NR-35."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 21,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Norma Regulamentadora no 15 (NR-15 – Atividades e Operações Insalubres) dispõe acerca das atividades consideradas insalubres. No anexo 14, ela define o grau de insalubridade em caso de exposição a agentes biológicos. Nesse sentido, de acordo com a norma, considera-se nível de exposição de grau máximo trabalho ou operações em contato permanente com",
+  "alts": [
+   "hospitais, serviços de emergência, enfermarias, ambulatórios, postos de vacinação e outros estabelecimentos destinados aos cuidados da saúde humana (aplica-se unicamente ao pessoal que tenha contato com os pacientes, bem como aos que manuseiam objetos de uso desses pacientes, não previamente esterilizados).",
+   "laboratórios de análise clínica e histopatologia (aplica-se tão somente ao pessoal técnico).",
+   "resíduos de animais deteriorados.",
+   "carnes, glândulas, vísceras, sangue, ossos, couros, pelos e dejeções de animais portadores de doenças infectocontagiosas (carbunculose, brucelose, tuberculose).",
+   "gabinetes de autópsias, de anatomia e histoanatomopatologia (aplica-se somente ao pessoal técnico)."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-15 (Portaria MTb 3.214/1978), Anexo 14, agentes biológicos",
+  "coment": "O Anexo 14 da NR-15 classifica a insalubridade por agentes biológicos em grau máximo e médio. Grau máximo: contato permanente com pacientes em isolamento por doenças infectocontagiosas e seus objetos não esterilizados; com carnes, glândulas, vísceras, sangue, ossos, couros, pelos e dejeções de animais portadores de doenças infectocontagiosas (carbunculose, brucelose, tuberculose); com esgotos; e com lixo urbano. Hospitais, ambulatórios, postos de vacinação, laboratórios de análise clínica, gabinetes de autópsia e resíduos de animais deteriorados são grau médio.",
+  "porAlt": [
+   "Hospitais, emergências, ambulatórios e postos de vacinação, com contato com pacientes, são grau médio no Anexo 14.",
+   "Laboratórios de análise clínica e histopatologia, para o pessoal técnico, são grau médio.",
+   "Resíduos de animais deteriorados constam do grau médio do Anexo 14.",
+   "Correta: material de animais portadores de carbunculose, brucelose ou tuberculose é grau máximo no Anexo 14.",
+   "Gabinetes de autópsia, anatomia e histoanatomopatologia, para o pessoal técnico, são grau médio."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 22,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o art. 195 da Consolidação das Leis do Trabalho (CLT), a caracterização e a classificação da insalubridade e da periculosidade só podem ser definidas por profissional registrado no Ministério do Trabalho. Assinale a alternativa que indica esse(s) profissional(ais).",
+  "alts": [
+   "Exclusivamente enfermeiro do trabalho",
+   "Exclusivamente médico do trabalho",
+   "Exclusivamente engenheiro do trabalho",
+   "Médico do trabalho e engenheiro do trabalho",
+   "Médico do trabalho, enfermeiro do trabalho e engenheiro do trabalho"
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Decreto-Lei 5.452/1943 (CLT), art. 195",
+  "coment": "O art. 195 da CLT diz que a caracterização e a classificação da insalubridade e da periculosidade, segundo as normas do Ministério do Trabalho, far-se-ão por perícia a cargo de Médico do Trabalho ou Engenheiro do Trabalho, registrados no Ministério do Trabalho. O enfermeiro do trabalho integra o SESMT e participa da identificação de riscos e da vigilância da saúde, mas não assina laudo pericial de insalubridade ou periculosidade.",
+  "porAlt": [
+   "O enfermeiro do trabalho não está entre os peritos do art. 195 da CLT.",
+   "O art. 195 não dá exclusividade ao médico: o engenheiro do trabalho também faz a perícia.",
+   "O art. 195 não dá exclusividade ao engenheiro: o médico do trabalho também faz a perícia.",
+   "Correta: a perícia de insalubridade e periculosidade cabe ao médico do trabalho ou ao engenheiro do trabalho (CLT, art. 195).",
+   "Inclui o enfermeiro do trabalho, que o art. 195 da CLT não menciona."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 23,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No que se refere à reabilitação profissional, assinale a alternativa correta.",
+  "alts": [
+   "Os profissionais que atuam na reabilitação profissional no Instituto Nacional de Seguro Social (INSS) são exclusivamente os fisioterapeutas e os médicos.",
+   "A reabilitação profissional deve ser proporcionada obrigatoriamente pela empresa em que o beneficiário trabalhou por último, antes da incapacidade laboral.",
+   "O ingresso do segurado no serviço de reabilitação profissional depende do encaminhamento pela perícia médica, o que geralmente ocorre no exame de avaliação de benefício por incapacidade.",
+   "Com a realização de três sessões de reabilitação promovidas pelo INSS, o segurado é liberado para o campo de trabalho ou encaminhado para continuidade na rede privada.",
+   "Concluído o processo de habilitação ou reabilitação profissional, o INSS libera automaticamente o segurado para o campo de trabalho sem a necessidade de comprovação física, uma vez que as informações já se encontram em seu banco de dados."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.213/1991, arts. 89 a 92; Decreto 3.048/1999, arts. 136 a 141",
+  "coment": "A habilitação e a reabilitação profissional são serviços da Previdência Social (Lei 8.213/1991, arts. 89 a 92), prestados pelo INSS. O segurado entra no programa por encaminhamento da perícia médica, em geral ao avaliar benefício por incapacidade, quando conclui que ele não volta à função de origem mas pode ser preparado para outra. A equipe é multiprofissional, a reabilitação não é obrigação da última empresa, não há número fixo de sessões e o processo termina com a emissão de certificado que indica a atividade para a qual o segurado foi capacitado.",
+  "porAlt": [
+   "A equipe de reabilitação do INSS é multiprofissional, não restrita a fisioterapeutas e médicos.",
+   "A reabilitação profissional é prestada pela Previdência Social, não imposta à última empresa empregadora.",
+   "Correta: o ingresso depende de encaminhamento pela perícia médica, em geral na avaliação de benefício por incapacidade.",
+   "Não existe regra de três sessões; o programa dura o necessário para a habilitação ou reabilitação.",
+   "Ao fim do processo o INSS emite certificado com a atividade para a qual o segurado foi capacitado; não há liberação automática."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 24,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Quanto à reabilitação profissional, assinale a alternativa correta.",
+  "alts": [
+   "O Instituto Nacional de Seguro Social (INSS) reembolsará as despesas realizadas com a aquisição de órteses, próteses e meios auxiliares de locomoção (OPM) e outros recursos materiais, mesmo quando não forem prescritos por suas unidades de reabilitação profissional.",
+   "O êxito do processo de reabilitação é altamente influenciado por variáveis que estão sob controle completo da Autarquia, como, por exemplo, tipos de limitação ou condições sociais, e está, portanto, garantido.",
+   "Constitui obrigação da Previdência Social a manutenção do segurado no mesmo emprego ou a sua colocação em outro para o qual foi reabilitado.",
+   "O INSS é obrigado a atender os dependentes do segurado.",
+   "A participação do beneficiário no programa de reabilitação profissional é obrigatória quando o encaminhamento for realizado pela perícia médica federal ou por decisão judicial."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.213/1991, arts. 90 e 101; Decreto 3.048/1999, arts. 136 a 141",
+  "coment": "O art. 101 da Lei 8.213/1991 obriga o segurado em gozo de benefício por incapacidade, concedido judicial ou administrativamente, a submeter-se ao processo de reabilitação prescrito e custeado pela Previdência, sob pena de suspensão do benefício. As demais estão erradas: o INSS só custeia órtese, prótese e meios auxiliares prescritos ou autorizados por suas unidades; o êxito depende de fatores que a autarquia não controla; o Decreto 3.048/1999 diz que não é obrigação da Previdência manter o segurado no emprego ou recolocá-lo; e os dependentes são atendidos só na medida das possibilidades do órgão (art. 90).",
+  "porAlt": [
+   "O INSS não reembolsa órteses, próteses e meios auxiliares que não tenham sido prescritos ou autorizados por suas unidades.",
+   "Limitação física e condição social não estão sob controle da autarquia, e o êxito não é garantido.",
+   "O Decreto 3.048/1999 diz o contrário: manter ou recolocar o segurado no emprego não é obrigação da Previdência.",
+   "Pelo art. 90 da Lei 8.213, dependentes são atendidos só na medida das possibilidades do órgão.",
+   "Correta: encaminhado pela perícia médica federal ou por decisão judicial, o beneficiário é obrigado a participar (Lei 8.213, art. 101)."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 25,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Qual é a definição de Processo de Enfermagem, de acordo com o Conselho Federal de Enfermagem (COFEN)?",
+  "alts": [
+   "Método de avaliação intersetorial que administra e controla todas as ações da equipe de enfermagem, trazendo benefícios aos grupos com os quais trabalha, envolvendo cuidados clínicos.",
+   "Método que orienta o pensamento crítico e o julgamento clínico do enfermeiro, direcionando a equipe de enfermagem para o cuidado à pessoa, família, coletividade e aos grupos especiais.",
+   "Introdução e verificação de aspectos organizativos imprescindíveis para a prática assistencial, principalmente quando desenvolvidos na Atenção Primária.",
+   "Forma sistematizada de intervenção baseada em evidências e conceitos holísticos.",
+   "Método de avaliação embasado em diagnósticos levantados por indicadores assistenciais, gerando os protocolos de atendimento ordenados pela Atenção Terciária."
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024 (Processo de Enfermagem)",
+  "coment": "A Resolução COFEN 736/2024, que revogou a 358/2009, define o Processo de Enfermagem como método que orienta o pensamento crítico e o julgamento clínico do enfermeiro, direcionando a equipe de enfermagem para o cuidado à pessoa, família, coletividade e grupos especiais. Ele tem cinco etapas inter-relacionadas, interdependentes, recorrentes e cíclicas: Avaliação, Diagnóstico, Planejamento, Implementação e Evolução de Enfermagem. Não é método de controle administrativo da equipe nem se restringe à Atenção Primária ou Terciária.",
+  "porAlt": [
+   "O PE não é método intersetorial de controle das ações da equipe; é método clínico de raciocínio do enfermeiro.",
+   "Correta: é a definição da Res. COFEN 736/2024, método que orienta o pensamento crítico e o julgamento clínico do enfermeiro.",
+   "Aspectos organizativos não definem o PE, e ele se aplica em todos os ambientes, não principalmente na Atenção Primária.",
+   "A frase é vaga e não reproduz a definição normativa centrada no pensamento crítico e no julgamento clínico.",
+   "O PE não se baseia em indicadores assistenciais nem se limita à Atenção Terciária."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 26,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Quanto ao Processo de Enfermagem, assinale a alternativa correta.",
+  "alts": [
+   "É organizado em três etapas: planejamento, monitoramento e avaliação.",
+   "Os profissionais de enfermagem e as instituições de saúde não precisam de capacitação/qualificação na utilização do Processo de Enfermagem, uma vez que esse conceito já existe na formação básica das equipes.",
+   "Os profissionais de enfermagem devem empenhar-se para a criação de políticas institucionais de incorporação de resultados de pesquisas acerca do Processo de Enfermagem e suas etapas na prática, corresponsabilizando-se no processo de translação de conhecimento.",
+   "O Planejamento de Enfermagem compreende a identificação de problemas existentes, condições de vulnerabilidades ou disposições para melhorar comportamentos de saúde.",
+   "Não necessita estar fundamentado em suporte teórico associado com teorias e modelos de cuidado, bem como com sistemas de linguagens padronizadas, já que o enfermeiro utiliza métodos intuitivos para conduzir sua equipe de trabalho."
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024, arts. 9º a 12",
+  "coment": "A Res. COFEN 736/2024 trouxe artigos novos sobre capacitação, ensino, translação do conhecimento e fiscalização. Um deles diz que os profissionais devem empenhar-se na criação de políticas institucionais de incorporação dos resultados de pesquisas sobre o PE e suas etapas, corresponsabilizando-se pela translação do conhecimento. A mesma norma exige capacitação de profissionais e instituições, fundamentação em teorias e modelos de cuidado e em sistemas de linguagem padronizada, e mantém cinco etapas. A frase sobre problemas existentes, vulnerabilidades e disposições para melhorar define o Diagnóstico, não o Planejamento.",
+  "porAlt": [
+   "O PE tem cinco etapas: Avaliação, Diagnóstico, Planejamento, Implementação e Evolução.",
+   "A 736/2024 exige capacitação e qualificação de profissionais e instituições no uso do PE.",
+   "Correta: a 736/2024 corresponsabiliza os profissionais pela incorporação de resultados de pesquisa e pela translação do conhecimento.",
+   "Problemas existentes, vulnerabilidades e disposições para melhorar definem o Diagnóstico de Enfermagem, não o Planejamento.",
+   "A 736/2024 exige suporte teórico em teorias e modelos de cuidado e em linguagens padronizadas."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 27,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para que se estabeleça a relação do agravo com o trabalho, devem ser considerados alguns aspectos, como a anamnese e a história (atual e pregressa) ocupacional, o exame clínico, a avaliação de relatórios e exames complementares e a história clínica. A esse respeito, assinale a alternativa correspondente à circunstância que deve ser avaliada na citada relação.",
+  "alts": [
+   "Se existe compatibilidade entre a doença ou o agravo e a alteração corporal/funcional específica.",
+   "Se houve identificação negativa, descaracterização da exposição a agentes no ambiente e processos de trabalho potencialmente causadores da doença ou do agravo.",
+   "Se existem pelo menos quatro fatores de risco presentes no ambiente, ou processo de trabalho, que contribuíram para o aparecimento ou agravamento da doença ou do agravo.",
+   "Se o segurado não causou o acidente deliberadamente para receber os benefícios.",
+   "Não há necessidade de se avaliar o local do acidente, pois já há registro do tipo de trabalho exercido nos órgãos de controle que fazem a fiscalização."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Doenças relacionadas ao trabalho: manual de procedimentos para os serviços de saúde (2001)",
+  "coment": "Estabelecer a relação entre doença e trabalho exige juntar a história ocupacional, o exame clínico e os exames com a identificação positiva da exposição: é preciso haver agente ou condição de trabalho capaz de causar o agravo e coerência entre essa exposição, o quadro clínico e a alteração corporal ou funcional encontrada. A avaliação do local e da organização do trabalho faz parte da análise. Não existe exigência de número mínimo de fatores de risco, e a intenção do segurado em provocar o acidente é questão previdenciária, não critério clínico de nexo.",
+  "porAlt": [
+   "Correta: avalia-se se há compatibilidade entre a doença ou agravo e a alteração corporal ou funcional específica.",
+   "O nexo exige identificação positiva da exposição; a identificação negativa o afasta.",
+   "Não há exigência de quatro fatores de risco; uma exposição pertinente pode bastar.",
+   "A deliberação do segurado não é critério clínico para relacionar o agravo ao trabalho.",
+   "O estudo do local e da organização do trabalho faz parte da investigação do nexo."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 28,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a legislação atual, acidente de trabalho é o que ocorre pelo exercício do trabalho a serviço da empresa ou pelo exercício do trabalho dos segurados, provocando lesão corporal ou perturbação funcional que cause a morte ou a perda ou redução, permanente ou temporária, da capacidade para o trabalho. A respeito desse tema, assinale a alternativa correta.",
+  "alts": [
+   "É considerado acidente de trabalho aquele em que o segurado deliberadamente sai do ambiente de trabalho para resolução de problemas pessoais e se acidenta no caminho.",
+   "Nos acidentes menos graves, em que o empregado tenha que se ausentar por período inferior a 15 dias, o empregador deixa de contar com a mão de obra temporariamente afastada em decorrência do acidente, mas não tem que arcar com os custos econômicos da relação de empregado.",
+   "Equivale a acidente de trabalho o acidente sofrido em local da empresa quando o segurado está de férias ou outro afastamento legal, mesmo sem a solicitação de alguma atividade relacionada ao trabalho por parte da empresa.",
+   "Nos períodos destinados à refeição ou ao descanso, ou por ocasião da satisfação de outras necessidades fisiológicas, no local do trabalho ou durante este, o empregado não é considerado no exercício do trabalho, portanto, nesses casos, a caracterização de acidente de trabalho é descartada.",
+   "Considera-se acidente de trabalho o acidente sofrido pelo segurado no local e no horário do trabalho, em consequência de ato de agressão, sabotagem ou terrorismo praticado por terceiro ou companheiro de trabalho."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.213/1991, arts. 19, 21 e 60",
+  "coment": "O art. 21, II, a, da Lei 8.213/1991 equipara a acidente de trabalho o sofrido pelo segurado no local e no horário do trabalho em consequência de ato de agressão, sabotagem ou terrorismo praticado por terceiro ou companheiro de trabalho. O § 1º do mesmo artigo diz que, nos períodos de refeição, descanso ou satisfação de necessidades fisiológicas, no local ou durante o trabalho, o empregado é considerado no exercício do trabalho. Nos primeiros 15 dias de afastamento o salário é pago pela empresa (art. 60). Desvio por interesse pessoal e acidente nas férias não caracterizam acidente de trabalho.",
+  "porAlt": [
+   "Sair deliberadamente para resolver problema pessoal rompe o nexo com o trabalho e o trajeto.",
+   "Nos primeiros 15 dias de afastamento a empresa paga o salário integral (Lei 8.213, art. 60), arcando com o custo.",
+   "Em férias ou afastamento legal, sem atividade a serviço da empresa, não há exercício do trabalho.",
+   "O § 1º do art. 21 diz o contrário: nas pausas para refeição, descanso e necessidades fisiológicas o empregado está no exercício do trabalho.",
+   "Correta: agressão, sabotagem ou terrorismo por terceiro ou colega, no local e horário de trabalho, é acidente de trabalho (art. 21, II, a)."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 29,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Diabetes mellitus não insulinodependente e obesidade são doenças endócrinas nutricionais e metabólicas que podem estar relacionadas ao trabalho. Quais agentes/fatores de risco podem ser causadores ou contribuir para seu agravo?",
+  "alts": [
+   "Exposição a chumbo e seus compostos tóxicos",
+   "Exposição a aminas aromáticas e seus derivados em atividades de trabalho",
+   "Exposição a clorobenzeno e seus derivados em atividades de trabalho",
+   "Exposição a agrotóxicos organoclorados (DDT) em atividades de trabalho",
+   "Jornada de trabalho (trabalho em turnos; trabalho noturno)"
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 1.999/2023 (Lista de Doenças Relacionadas ao Trabalho), Lista A",
+  "coment": "A Lista de Doenças Relacionadas ao Trabalho foi atualizada pela Portaria GM/MS 1.999/2023, que alterou o Anexo LXXX da PRC 5/2017 e passou a incluir fatores psicossociais. Na Lista A, os fatores psicossociais relacionados à jornada de trabalho (trabalho em turnos e trabalho noturno) aparecem ligados a diabetes mellitus não insulinodependente (E11) e obesidade (E66); o trabalho noturno aparece também ligado à neoplasia de cólon. Chumbo, aminas aromáticas, clorobenzeno e organoclorados constam da lista para outros agravos, não para diabetes ou obesidade.",
+  "porAlt": [
+   "O chumbo consta da lista por anemia, neuropatia, nefropatia e hipertensão, não por diabetes ou obesidade.",
+   "Aminas aromáticas constam da lista sobretudo por câncer de bexiga, não por doenças metabólicas.",
+   "Clorobenzeno consta da lista por outros agravos, como hipotireoidismo, e não por diabetes ou obesidade.",
+   "Organoclorados como o DDT não aparecem na LDRT associados a diabetes tipo 2 ou obesidade.",
+   "Correta: a LDRT de 2023 liga trabalho em turnos e noturno a diabetes não insulinodependente (E11) e obesidade (E66)."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 30,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A exposição a benzeno em atividades de trabalho pode causar várias patologias que geram agravos ao trabalhador. Assinale a alternativa que corresponde a uma dessas patologias.",
+  "alts": [
+   "Demência em outras doenças específicas classificadas em outros locais",
+   "Transtorno cognitivo leve",
+   "Púrpura e outras afecções hemorrágicas",
+   "Bócio não tóxico não especificado",
+   "Crioglobulinemia"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.999/2023 (Lista de Doenças Relacionadas ao Trabalho), Lista A",
+  "coment": "O benzeno é tóxico para a medula óssea. Na LDRT da Portaria GM/MS 1.999/2023, ele aparece associado a leucemias, linfomas, síndromes mielodisplásicas, anemia aplástica, agranulocitose e púrpura e outras afecções hemorrágicas (D69), a última por plaquetopenia. Demência e transtorno cognitivo leve aparecem para outros agentes, como manganês, dissulfeto de carbono e organometálicos; bócio não tóxico e crioglobulinemia também são atribuídos a outros fatores. A vigilância do exposto inclui hemograma seriado.",
+  "porAlt": [
+   "Demência em outras doenças específicas consta da LDRT para agentes como manganês e organometálicos, não para benzeno.",
+   "Transtorno cognitivo leve consta para outros neurotóxicos, não como agravo do benzeno.",
+   "Correta: púrpura e outras afecções hemorrágicas (D69) constam da LDRT como agravo do benzeno, por lesão medular.",
+   "Bócio não tóxico aparece na lista ligado a outros agentes, não ao benzeno.",
+   "Crioglobulinemia não figura entre os agravos do benzeno na LDRT."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Comum em profissionais que atuam diariamente sob pressão e com responsabilidades constantes, como médicos, enfermeiros, professores, policiais, jornalistas, entre outros, esta síndrome se caracteriza como distúrbio emocional com sintomas de exaustão extrema, estresse e esgotamento físico resultante de situações de trabalho desgastante, que demandam muita competitividade ou responsabilidade. Sua causa principal é justamente o excesso de trabalho. As informações apresentadas referem-se à síndrome de",
+  "alts": [
+   "Guillain-Barré.",
+   "Asperger.",
+   "Raynauld.",
+   "Burnout.",
+   "Caplan."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 1.999/2023 (LDRT), Z73.0 Esgotamento (Burnout); CID-11 (OMS, 2019), QD85",
+  "coment": "A síndrome de burnout é o esgotamento profissional ligado ao estresse crônico no trabalho que não foi gerenciado com sucesso, com exaustão, distanciamento ou cinismo em relação ao trabalho e queda da eficácia profissional (CID-11, QD85). Na LDRT da Portaria GM/MS 1.999/2023 consta como Z73.0, Esgotamento (Burnout), relacionada a fatores psicossociais do trabalho. A CID-11 a trata como fenômeno ocupacional, não como transtorno mental: o \"distúrbio emocional\" do enunciado é simplificação da banca. Guillain-Barré, Asperger e Raynaud são outras condições.",
+  "porAlt": [
+   "Guillain-Barré é polirradiculoneuropatia inflamatória aguda, em geral pós-infecciosa.",
+   "Asperger era a denominação de um quadro hoje incluído no transtorno do espectro autista.",
+   "Raynaud é fenômeno vasoespástico das extremidades, não síndrome de esgotamento.",
+   "Correta: burnout é o esgotamento ligado ao estresse crônico do trabalho, Z73.0 na LDRT de 2023.",
+   "Caplan dá nome à síndrome de pneumoconiose com artrite reumatoide, não a esgotamento profissional."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considere hipoteticamente que um enfermeiro do trabalho esteja avaliando se uma empresa cumpre as diretrizes estabelecidas pelas convenções da Organização Internacional do Trabalho (OIT), relacionadas à saúde do trabalhador. Durante sua análise, ele observou que a empresa possui um sistema de gestão de segurança e saúde no trabalho, mas há lacunas em relação ao monitoramento e ao controle dos riscos químicos aos quais os trabalhadores estão expostos. Com base nas convenções da OIT, qual ação deve ser prioritariamente implementada pelo enfermeiro do trabalho para garantir a conformidade com essas normas?",
+  "alts": [
+   "Estabelecer procedimentos rigorosos de treinamento acerca do uso de equipamentos de proteção individual (EPI) e verificar a conformidade diária no uso desses equipamentos, segundo a Convenção no 148.",
+   "Implementar um sistema de vigilância médica contínua para monitorar a saúde dos trabalhadores expostos a riscos químicos, de acordo com a Convenção no 155.",
+   "Desenvolver programas de assistência médica preventiva focados em doenças crônicas não transmissíveis, embasados na Convenção no 161.",
+   "Reforçar a política de pausas regulares durante a jornada de trabalho para reduzir o estresse e a fadiga, conforme as diretrizes da Convenção no 171.",
+   "Estabelecer medidas imediatas para reduzir a exposição dos trabalhadores ao ruído, alinhando-se às diretrizes da Convenção no 148."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Convenção OIT 155 (Decreto 1.254/1994; consolidada no Decreto 10.088/2019)",
+  "coment": "A lacuna descrita é de monitoramento e controle dos riscos químicos. Entre as opções, só a B responde a ela, com vigilância contínua da saúde dos expostos. A Convenção 155, promulgada pelo Decreto 1.254/1994, define a política nacional de segurança e saúde dos trabalhadores e obriga o empregador a garantir que agentes químicos sob seu controle não envolvam riscos, com medidas de proteção e acompanhamento. Treinar EPI é medida de menor nível na hierarquia de controle; ruído, pausas e doenças crônicas não tratam do risco químico. A Convenção 170 é a específica sobre produtos químicos e a 161, a de serviços de saúde do trabalho.",
+  "porAlt": [
+   "Treinamento em EPI é medida de último nível na hierarquia de controle e não corrige a falta de monitoramento químico.",
+   "Correta: a vigilância contínua da saúde dos expostos a químicos fecha a lacuna apontada, dentro das obrigações da Convenção 155.",
+   "Programa de doenças crônicas não transmissíveis não trata o risco químico que motivou a análise.",
+   "Pausas contra estresse e fadiga não monitoram nem controlam exposição química.",
+   "Medidas contra ruído não respondem à lacuna, que é de controle de riscos químicos."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Suponha que, no decorrer da análise de um surto de doenças ocupacionais em uma indústria de processamento químico, o enfermeiro do trabalho precise selecionar a metodologia mais adequada para investigar a associação entre a exposição aos agentes químicos no ambiente de trabalho e o aumento na incidência de problemas respiratórios entre os trabalhadores. Considerando as diretrizes da vigilância epidemiológica e da saúde do trabalhador, assinale a alternativa que indica a metodologia de investigação que o enfermeiro deve priorizar.",
+  "alts": [
+   "Estudo de caso-controle, comparando trabalhadores sintomáticos e assintomáticos para identificar a exposição aos agentes químicos como fator de risco.",
+   "Estudo transversal, realizando uma análise pontual da exposição dos trabalhadores aos agentes químicos e de seus efeitos imediatos na saúde.",
+   "Estudo de coorte prospectivo, acompanhando os trabalhadores ao longo do tempo para monitorar a exposição aos agentes químicos e o desenvolvimento de doenças respiratórias.",
+   "Revisão sistemática de literatura, para compilar e analisar estudos preexistentes acerca da relação entre agentes químicos e problemas respiratórios em trabalhadores.",
+   "Estudo ecológico, analisando dados agregados de diferentes setores da indústria química para identificar padrões gerais de exposição e doenças respiratórias."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Medronho et al., Epidemiologia, 2ª ed. (2009), desenhos de estudo",
+  "coment": "O enunciado pede o desenho que investigue a associação entre exposição e aumento da incidência. A coorte parte da exposição, acompanha expostos e não expostos ao longo do tempo e conta os casos novos, o que permite medir incidência e risco relativo e garante que a exposição precede a doença. O transversal mede prevalência num só momento, sem temporalidade; o ecológico usa dados agregados e não liga exposição e doença no mesmo indivíduo; a revisão sistemática não investiga o surto local. O caso-controle parte da doença e estima razão de chances, sem medir incidência.",
+  "porAlt": [
+   "O caso-controle parte do desfecho e estima odds ratio; não mede a incidência que o enunciado quer acompanhar.",
+   "O transversal mede prevalência num único momento e não estabelece que a exposição precedeu a doença.",
+   "Correta: a coorte acompanha expostos e não expostos, mede incidência e risco relativo e assegura a temporalidade.",
+   "Revisão sistemática sintetiza estudos já publicados e não investiga a exposição dos trabalhadores dessa indústria.",
+   "O estudo ecológico usa dados agregados e está sujeito à falácia ecológica; não liga exposição e doença no indivíduo."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considere hipoteticamente que, em uma avaliação periódica de saúde no ambiente de determinada empresa, o enfermeiro do trabalho tenha identificado um aumento significativo nos relatos de assédio moral e sexual entre os funcionários, com impacto negativo observado na saúde mental e no desempenho laboral. Diante dessa situação, a empresa solicitou a elaboração de um plano de intervenção. Tendo em vista o papel do enfermeiro do trabalho na promoção de um ambiente seguro e saudável, assinale a alternativa correspondente à estratégia que deve ser priorizada para prevenir e combater o assédio moral e sexual, mitigando seus efeitos na saúde mental dos trabalhadores.",
+  "alts": [
+   "Implementar campanhas educativas focadas na conscientização acerca de assédio moral e sexual, com treinamento periódico para todos os funcionários, incluindo gestores, para criar um ambiente de respeito e apoio.",
+   "Criar um canal de denúncia anônima exclusivo para casos de assédio moral e sexual, sem necessidade de investigações subsequentes, para evitar a exposição das vítimas.",
+   "Desenvolver políticas de tolerância zero ao assédio, que incluem medidas punitivas imediatas, mas sem a necessidade de programas de apoio psicológico para as vítimas.",
+   "Focar na reorganização das equipes de trabalho, transferindo regularmente funcionários entre diferentes setores para reduzir os conflitos interpessoais, mas sem abordar diretamente o assédio.",
+   "Estabelecer um programa de avaliação de desempenho embasado na produtividade, sem considerar o impacto das condições psicológicas dos trabalhadores."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Lei 14.457/2022, art. 23",
+  "coment": "A prevenção do assédio exige ação sobre a cultura da organização, alcançando todos os níveis hierárquicos. A Lei 14.457/2022, art. 23, obriga as empresas com CIPA a incluir regras de conduta sobre assédio sexual e outras formas de violência, fixar procedimentos de denúncia com apuração dos fatos e sanções, levar o tema às atividades da CIPA e realizar, pelo menos a cada 12 meses, ações de capacitação, orientação e sensibilização de empregados de todos os níveis. Canal sem investigação, punição sem apoio às vítimas, rodízio que não enfrenta o assédio e avaliação só por produtividade não previnem nem tratam os efeitos.",
+  "porAlt": [
+   "Correta: educação e treinamento periódico de todos, inclusive gestores, é a base da prevenção prevista na Lei 14.457/2022.",
+   "Canal de denúncia sem apuração dos fatos contraria a lei, que exige procedimento de apuração e sanção.",
+   "Punição sem apoio psicológico ignora o dano à saúde mental das vítimas, que é o problema descrito.",
+   "Transferir funcionários sem tratar o assédio desloca o problema e não o previne.",
+   "Avaliar só produtividade ignora o adoecimento psíquico e pode agravar o ambiente de assédio."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as diretrizes da Association of Occupational Health Nurses (AAOHN), as atribuições e competências do enfermeiro do trabalho incluem diversas responsabilidades que visam a promover a saúde e a segurança dos trabalhadores no ambiente ocupacional. A esse respeito, assinale a alternativa que descreve corretamente uma competência específica atribuída ao enfermeiro do trabalho segundo a AAOHN.",
+  "alts": [
+   "Gerenciamento de registros financeiros e de inventário de recursos materiais do setor de saúde ocupacional, visando a otimizar o orçamento da empresa.",
+   "Condução de auditorias regulares em processos administrativos e financeiros da empresa, assegurando o cumprimento das normas fiscais e trabalhistas.",
+   "Desenvolvimento de campanhas de marketing para promover os serviços de saúde ocupacional aos gestores da empresa, com foco na captação de novos clientes para o serviço.",
+   "Desenvolvimento e implementação de programas de vigilância de saúde, incluindo a realização de avaliações de riscos ocupacionais e a execução de intervenções para reduzir a exposição a riscos, conforme as melhores práticas de saúde ocupacional.",
+   "Supervisão da equipe de manutenção da infraestrutura da empresa, garantindo que todas as instalações físicas atendam às especificações técnicas de engenharia e arquitetura."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Competências da AAOHN; no Brasil, NR-4 (Portaria MTP 2.318/2022), competências do SESMT",
+  "coment": "As competências que a AAOHN descreve para o enfermeiro de saúde ocupacional e ambiental giram em torno de prevenção e vigilância: avaliar riscos e exposições, planejar e executar programas de vigilância da saúde, promover saúde, gerir casos e intervir para reduzir a exposição. No Brasil, a NR-4 (Portaria MTP 2.318/2022) dá ao SESMT, do qual o enfermeiro do trabalho faz parte, funções na identificação de perigos, na avaliação de riscos e no acompanhamento das medidas de prevenção. Finanças, auditoria fiscal, marketing e manutenção predial não são competências da enfermagem do trabalho.",
+  "porAlt": [
+   "Gestão financeira e de inventário não é competência específica da enfermagem do trabalho.",
+   "Auditoria fiscal e trabalhista da empresa é função de outras áreas, não do enfermeiro do trabalho.",
+   "Marketing e captação de clientes não fazem parte das competências clínicas e preventivas da enfermagem ocupacional.",
+   "Correta: programas de vigilância da saúde, avaliação de riscos ocupacionais e intervenções para reduzir exposições são competência central do enfermeiro do trabalho.",
+   "Supervisão de manutenção predial cabe à engenharia e à arquitetura, não à enfermagem do trabalho."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Suponha que, em um setor de pronto atendimento de determinado hospital, tenha sido identificado um aumento significativo no índice de acidentes de trabalho envolvendo materiais perfurocortantes, como agulhas e bisturis. Esses acidentes têm causado preocupações tanto pela saúde dos profissionais expostos quanto pela potencial contaminação biológica. O enfermeiro do trabalho foi designado para analisar as causas ambientais que podem estar contribuindo para o aumento desses acidentes. Considerando a complexidade do ambiente hospitalar e a necessidade de uma análise aprofundada das condições de trabalho, o enfermeiro do trabalho deve adotar uma metodologia consistente para investigar as possíveis causas ambientais desses incidentes. Assinale a alternativa que indica a melhor metodologia para realizar essa investigação.",
+  "alts": [
+   "Análise de indicadores epidemiológicos – Avaliação dos dados estatísticos de acidentes dos últimos anos, incluindo a identificação de padrões de ocorrência, sem necessidade de observação direta ou entrevistas.",
+   "Observação participante e análise ergonômica – Participação direta do enfermeiro do trabalho nas rotinas diárias do setor para observação das práticas de manuseio de materiais perfurocortantes, associada a uma análise ergonômica das atividades.",
+   "Grupo focal com profissionais de enfermagem – Realização de grupos focais com os profissionais de enfermagem para discutir percepções, experiências e sugestões de melhorias, sem necessidade de análise estrutural do ambiente.",
+   "Inspeção de segurança e revisão de protocolos – Condução de inspeções regulares de segurança para verificar a conformidade com os protocolos existentes, seguida de revisão documental para identificação de falhas nos procedimentos de segurança.",
+   "Mapeamento de risco e entrevistas com a equipe – Utilização de ferramentas de mapeamento de risco para identificar áreas críticas e realização de entrevistas estruturadas com a equipe de saúde para coletar dados acerca das práticas de trabalho e das percepções de risco."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NR-32 (Portaria MTE 485/2005) e Anexo III (Portaria MTE 1.748/2011), plano de prevenção de acidentes com perfurocortantes",
+  "coment": "Para investigar causas ambientais, é preciso olhar o lugar e ouvir quem trabalha nele. O mapeamento de riscos localiza os pontos críticos do setor (coletor cheio ou mal posicionado, falta de dispositivo com mecanismo de segurança, área de reencape), e as entrevistas estruturadas trazem as práticas e as percepções da equipe. É o que o Anexo III da NR-32 pede ao plano de prevenção de perfurocortantes: análise das situações de risco e dos acidentes, com participação dos trabalhadores. Só estatística, só grupo focal ou só inspeção de conformidade deixam metade do problema de fora.",
+  "porAlt": [
+   "Indicadores sem observação nem entrevista mostram onde aumentaram os acidentes, mas não explicam as causas ambientais.",
+   "Observação participante e análise ergonômica ajudam, mas não mapeiam as áreas críticas nem ouvem a equipe de forma estruturada.",
+   "O grupo focal sem análise estrutural do ambiente ignora as causas ambientais que o enunciado pede.",
+   "Inspeção de conformidade com protocolos verifica falha de procedimento, mas não identifica riscos fora dos protocolos.",
+   "Correta: mapeamento de riscos com entrevistas estruturadas combina o ambiente e as práticas, como pede o plano de prevenção da NR-32."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A higiene ocupacional é uma área fundamental para garantir a saúde e o bem-estar dos trabalhadores, contribuindo para a melhoria da qualidade de vida e para o aumento da produtividade das empresas. Considerando essa área importante da saúde do trabalhador, assinale a alternativa que define tecnicamente higiene ocupacional.",
+  "alts": [
+   "A ciência e a arte de identificar, avaliar e controlar os riscos físicos, químicos e biológicos no ambiente de trabalho, visando à prevenção de doenças ocupacionais e à promoção da saúde e do bem-estar dos trabalhadores.",
+   "O conjunto de medidas legais e administrativas que visam à proteção dos trabalhadores contra acidentes de trabalho e doenças ocupacionais, por meio da implementação de programas de segurança e saúde no trabalho.",
+   "A área da saúde responsável pelo diagnóstico e pelo tratamento de doenças ocupacionais, utilizando recursos terapêuticos e medicamentosos para a recuperação dos trabalhadores.",
+   "A disciplina que estuda a relação entre o trabalho e a saúde mental dos trabalhadores, buscando prevenir o estresse, a ansiedade e a depressão no ambiente laboral.",
+   "O conjunto de práticas que tem como objetivo a adaptação do trabalho às características físicas e psicológicas dos trabalhadores, buscando otimizar a produtividade e reduzir o absenteísmo."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR-9, redação da Portaria SEPRT 6.735/2020 (avaliação e controle das exposições ocupacionais)",
+  "coment": "Higiene ocupacional é a ciência e a arte de antecipar, reconhecer, avaliar e controlar os agentes físicos, químicos e biológicos do ambiente de trabalho que podem causar doença ou desconforto ao trabalhador. A NR-9 (Portaria SEPRT 6.735/2020) segue essa lógica ao exigir a avaliação das exposições a esses agentes e a adoção de medidas de prevenção. Ela não se confunde com o conjunto legal da segurança do trabalho, com a clínica das doenças ocupacionais, com a saúde mental do trabalho nem com a ergonomia, que adapta o trabalho ao trabalhador.",
+  "porAlt": [
+   "Correta: identificar, avaliar e controlar riscos físicos, químicos e biológicos do ambiente de trabalho é a definição técnica de higiene ocupacional.",
+   "Medidas legais e administrativas de proteção descrevem a segurança do trabalho em sentido amplo, não a higiene ocupacional.",
+   "Diagnóstico e tratamento de doenças ocupacionais é papel da medicina do trabalho e da assistência, não da higiene ocupacional.",
+   "A relação entre trabalho e saúde mental é campo da psicodinâmica e da saúde mental do trabalho.",
+   "Adaptar o trabalho às características físicas e psicológicas do trabalhador é a definição de ergonomia (NR-17)."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um enfermeiro do trabalho foi designado para coordenar a campanha de vacinação de reforço contra a Covid-19 em um prédio administrativo de certa empresa que emprega aproximadamente 400 funcionários. Considerando os desafios logísticos, a necessidade de alta adesão e a importância de garantir a segurança dos imunobiológicos, nesse caso hipotético, qual é a melhor metodologia a ser adotada para essa campanha?",
+  "alts": [
+   "Híbrida: combinar os modelos centralizado e descentralizado, com um posto fixo e outros itinerantes, adaptando-se à demanda e às características do ambiente de trabalho.",
+   "Descentralização: criar postos de vacinação em diferentes setores do prédio, facilitando o acesso dos funcionários e garantindo maior adesão.",
+   "Centralização: estabelecer um único posto de vacinação no térreo do prédio, com horários fixos para atendimento, otimizando a utilização de recursos humanos e materiais.",
+   "Externa: contratar uma empresa especializada em vacinação para realizar a campanha em um local externo ao prédio, garantindo maior agilidade e profissionalismo.",
+   "Itinerante: organizar a vacinação de forma itinerante, na qual a equipe de vacinação percorre os diferentes setores do prédio, aplicando as doses nos funcionários, nos respectivos locais de trabalho, minimizando assim as interrupções das atividades."
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Rede de frio e conservação",
+  "cenario": "ger",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Manual de Rede de Frio do Programa Nacional de Imunizações, 5ª ed. (2017)",
+  "coment": "A estratégia híbrida concilia os dois objetivos do enunciado. O posto fixo concentra o estoque em equipamento de refrigeração adequado, com controle de temperatura, e serve de base para equipes que levam a vacina aos setores em caixas térmicas com bobinas e termômetro, o que facilita a adesão de quem não sai do posto de trabalho. Centralizar ou descentralizar sozinho sacrifica a adesão ou a rede de frio. Note que, no Calendário 2026, a vacina covid-19 de rotina é para grupos definidos, como idosos, gestantes, crianças e pessoas com comorbidade.",
+  "porAlt": [
+   "Correta: o posto fixo protege a conservação dos imunobiológicos, e as equipes itinerantes ampliam a adesão.",
+   "Postos em todos os setores multiplicam pontos de armazenamento e dificultam o controle da rede de frio.",
+   "Um só posto com horário fixo reduz a adesão de quem não pode deixar o setor.",
+   "Transferir a campanha para local externo dificulta o acesso e não garante adesão maior.",
+   "Só itinerante, sem base fixa, deixa todo o estoque em caixas térmicas e fragiliza a conservação."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Suponha que, em um hospital de grande porte, o enfermeiro do trabalho tenha sido encarregado de implementar estratégias para o controle de doenças infecciosas entre os trabalhadores de saúde. A instituição tem registrado um aumento de casos de infecções ocupacionais e precisa adotar medidas eficazes para minimizar o risco de transmissão. Considerando as melhores práticas em saúde ocupacional e vigilância epidemiológica, qual abordagem deve ser priorizada para garantir a detecção precoce e o controle eficaz dessas doenças?",
+  "alts": [
+   "Implementar um programa de imunização obrigatório para todos os trabalhadores, assegurando que estejam vacinados contra as principais doenças infecciosas.",
+   "Adotar medidas de precaução padrão em todos os setores, incluindo o uso rigoroso de equipamentos de proteção individual (EPI) e a higiene das mãos.",
+   "Estabelecer um sistema de vigilância epidemiológica ativa, que inclui a busca ativa de casos, a notificação compulsória, a investigação epidemiológica e o monitoramento contínuo das condições de saúde dos trabalhadores.",
+   "Criar um programa de educação continuada focado na prevenção de infecções, com treinamentos regulares a respeito de práticas seguras e protocolos de higiene.",
+   "Desenvolver um plano de contingência para surtos de doenças infecciosas, que inclua medidas emergenciais como quarentena e isolamento de pacientes."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 6º, § 2º; Portaria GM/MS 1.823/2012 (PNSTT)",
+  "coment": "O enunciado pede detecção precoce e controle, que é a definição de vigilância epidemiológica: conjunto de ações que proporcionam o conhecimento, a detecção ou a prevenção de mudanças nos determinantes da saúde, para recomendar e adotar medidas de controle (Lei 8.080/1990, art. 6º, § 2º). Busca ativa, notificação, investigação e monitoramento contínuo dos trabalhadores detectam casos cedo e orientam as medidas. Imunização, precauções, educação e plano de contingência são medidas de prevenção ou de resposta, úteis, mas não detectam casos.",
+  "porAlt": [
+   "Imunização previne algumas doenças, mas não detecta precocemente nem investiga os casos que estão ocorrendo.",
+   "Precaução padrão e higiene das mãos previnem transmissão, mas não fazem detecção precoce dos casos.",
+   "Correta: vigilância ativa, com busca de casos, notificação, investigação e monitoramento, é o que detecta cedo e orienta o controle.",
+   "Educação continuada reforça práticas seguras, mas não identifica nem acompanha os casos.",
+   "Plano de contingência é resposta a surto já instalado, não estratégia de detecção precoce."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Suponha que determinado enfermeiro do trabalho, em uma refinaria de petróleo, esteja investigando um aumento nos casos de trabalhadores que apresentaram sintomas compatíveis com exposição crônica ao benzeno. Ele precisa compreender a fisiopatologia da intoxicação por benzeno para implementar intervenções eficazes. Considerando a exposição ocupacional ao benzeno, assinale a alternativa correspondente ao mecanismo fisiopatológico mais relevante para explicar os efeitos tóxicos desse composto nos trabalhadores.",
+  "alts": [
+   "Inibição da síntese de proteínas celulares, levando à apoptose em tecidos altamente proliferativos, como a medula óssea.",
+   "Acúmulo de metabólitos tóxicos no fígado, causando hepatotoxicidade severa e falência hepática.",
+   "Deposição de benzeno nas membranas celulares dos neurônios, interferindo na condução nervosa e causando neuropatias periféricas.",
+   "Indução de alterações genéticas e cromossômicas na medula óssea, resultando em citopenias e risco aumentado de leucemia.",
+   "Interferência na síntese de colágeno e elastina, promovendo doenças degenerativas no tecido conjuntivo e alterações vasculares."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.999/2023 (LDRT), benzeno; IARC Monographs vol. 120 (2018)",
+  "coment": "O benzeno é metabolizado no fígado em compostos reativos, como benzoquinonas, que lesam a medula óssea: causam dano ao DNA e alterações cromossômicas nas células-tronco hematopoéticas. O resultado são citopenias (anemia, leucopenia, plaquetopenia), anemia aplástica, síndrome mielodisplásica e leucemias, sobretudo a mieloide aguda. A IARC classifica o benzeno no Grupo 1, carcinogênico para humanos, e a LDRT de 2023 lista esses agravos. A vigilância do exposto se apoia no hemograma seriado. Hepatotoxicidade grave, neuropatia por depósito em membrana e lesão do colágeno não são o mecanismo principal.",
+  "porAlt": [
+   "O dano medular do benzeno é genotóxico, por metabólitos que lesam o DNA, não por inibição da síntese de proteínas.",
+   "A metabolização ocorre no fígado, mas a toxicidade relevante é medular; falência hepática não é o efeito típico.",
+   "O efeito agudo no sistema nervoso é depressor; neuropatia periférica por depósito em membrana não explica a toxicidade crônica.",
+   "Correta: alterações genéticas e cromossômicas na medula óssea causam citopenias e aumentam o risco de leucemia.",
+   "Interferência na síntese de colágeno e elastina não faz parte da toxicologia do benzeno."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Política Nacional de Saúde do Trabalhador e da Trabalhadora, em seu art. 2o, dispõe que essa política tem como finalidade definir os princípios, as diretrizes e as estratégias a serem observados pelas três esferas de gestão do Sistema Único de Saúde (SUS), para o desenvolvimento da atenção integral à saúde do trabalhador, com ênfase na",
+  "alts": [
+   "fiscalização de ambientes de trabalho, priorizando a inspeção e a adequação dos locais de trabalho segundo normas regulamentadoras, focada na promoção da saúde e da qualidade de vida.",
+   "vigilância, visando à promoção e à proteção da saúde dos trabalhadores e à redução da morbimortalidade decorrente dos modelos de desenvolvimento e dos processos produtivos.",
+   "assistência curativa dos trabalhadores, enfatizando o tratamento de doenças ocupacionais e acidentes de trabalho após a ocorrência.",
+   "capacitação contínua dos trabalhadores para o desenvolvimento de competências técnicas, buscando apenas a melhoria do desempenho profissional com base em dados notificatórios e do Ministério do Trabalho.",
+   "regulamentação de políticas internas de recursos humanos, com foco na contratação e na realocação, considerando os aspectos de saúde e segurança ocupacional e o mapa de riscos."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 1.823/2012 (PNSTT), art. 2º",
+  "coment": "O art. 2º da Política Nacional de Saúde do Trabalhador e da Trabalhadora (Portaria GM/MS 1.823/2012) diz que ela tem por finalidade definir princípios, diretrizes e estratégias para as três esferas de gestão do SUS no desenvolvimento da atenção integral à saúde do trabalhador, com ênfase na vigilância, visando à promoção e à proteção da saúde dos trabalhadores e à redução da morbimortalidade decorrente dos modelos de desenvolvimento e dos processos produtivos. Fiscalização pelas NR, assistência curativa, capacitação técnica e gestão de recursos humanos não são a ênfase da política.",
+  "porAlt": [
+   "Fiscalização pelas normas regulamentadoras é atribuição do Ministério do Trabalho, não a ênfase da PNSTT.",
+   "Correta: o art. 2º da PNSTT põe a ênfase na vigilância, para promover e proteger a saúde e reduzir a morbimortalidade.",
+   "A política fala em atenção integral com ênfase na vigilância, não em assistência curativa depois do agravo.",
+   "Capacitação para desempenho profissional não é a finalidade da PNSTT, que é de saúde.",
+   "Política interna de recursos humanos é assunto da empresa, não das três esferas de gestão do SUS."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A proteção específica de doenças, sob a perspectiva de Pierre Bourdieu, envolve uma análise que transcende a simples prevenção biológica. Oferece uma lente poderosa para analisar as complexas interações entre os indivíduos e a sociedade no que diz respeito à saúde e à prevenção de doenças. Nesse contexto, assinale a alternativa correspondente à ação que a implementação de programas de saúde deve considerar.",
+  "alts": [
+   "A adaptação dos programas de saúde às exigências do mercado, garantindo que as intervenções de saúde sejam rentáveis e atendam aos interesses econômicos predominantes.",
+   "A promoção de intervenções centradas na genética, que buscam identificar predisposições hereditárias a doenças e adaptar os programas de saúde para atender a grupos geneticamente vulneráveis.",
+   "O enfoque na biomedicina, priorizando intervenções clínicas baseadas em evidências científicas rigorosas, com foco na eficácia e na segurança das intervenções preventivas.",
+   "A utilização de uma abordagem comportamental, que enfatiza a mudança de comportamentos individuais por meio de campanhas educativas e incentivos, sem considerar o contexto social dos indivíduos.",
+   "A influência do capital cultural e social na adesão aos programas de saúde, considerando que práticas de saúde e comportamentos preventivos são moldados pelas disposições e por hábitos adquiridos em contextos sociais específicos."
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Educação em saúde",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Bourdieu, A distinção: crítica social do julgamento (1979); Portaria GM/MS 2.446/2014 (PNPS)",
+  "coment": "Para Bourdieu, o comportamento não é só escolha individual: é moldado pelo habitus, disposições incorporadas na trajetória social, e pelo capital cultural e social de cada pessoa. Aplicado à saúde, isso explica por que a adesão a vacinas, rastreamentos e hábitos preventivos varia entre grupos sociais. Programas que ignoram esse contexto falham com quem mais precisa. A Política Nacional de Promoção da Saúde (Portaria 2.446/2014) segue a mesma direção ao considerar os determinantes sociais. Lógica de mercado, genética, biomedicina pura ou mudança comportamental sem contexto contrariam essa leitura.",
+  "porAlt": [
+   "Subordinar o programa à rentabilidade contraria a análise de Bourdieu sobre desigualdade social na saúde.",
+   "Enfoque genético ignora o habitus e os capitais, centrais na perspectiva de Bourdieu.",
+   "Biomedicina com foco só em eficácia clínica deixa de fora o contexto social que Bourdieu analisa.",
+   "Mudança comportamental \"sem considerar o contexto social\" é o oposto da perspectiva de Bourdieu.",
+   "Correta: capital cultural e social e o habitus moldam práticas preventivas e precisam orientar os programas de saúde."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando os diferentes tipos de vacinas disponíveis para a Covid-19 e os respectivos mecanismos de ação, é fundamental entender como cada tipo estimula a resposta imune do organismo para conferir proteção contra o vírus SARS-CoV-2. Acerca desse assunto, assinale a alternativa que descreve corretamente o mecanismo de ação das vacinas de mRNA.",
+  "alts": [
+   "É introduzida uma sequência de RNA mensageiro que codifica a proteína spike do SARS-CoV-2, levando as células do hospedeiro a expressarem essa proteína, o que estimula uma resposta imune adaptativa sem o uso de um vetor viral ou proteína completa.",
+   "É utilizado um vírus modificado (não relacionado ao SARS-CoV-2) para transportar o material genético do vírus-alvo, induzindo a célula hospedeira a produzir a proteína spike do SARS-CoV-2 e estimulando uma resposta imune celular e humoral.",
+   "São utilizados fragmentos específicos do vírus, como a proteína spike, para estimular a resposta imune sem a introdução de material genético viral, gerando imunidade humoral por meio da produção de anticorpos.",
+   "É utilizado o vírus SARS-CoV-2 inteiro, mas inativado quimicamente ou por calor, para estimular uma resposta imunológica, mantendo a estrutura antigênica do vírus original sem risco de infecção ativa.",
+   "É introduzida uma sequência de DNA que codifica para a proteína spike do SARS-CoV-2 diretamente nas células, utilizando um vetor plasmidial, o que requer a entrada no núcleo celular para que elas sejam transcritas em mRNA antes de induzir a produção da proteína spike."
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), vacina covid-19 (RNAm)",
+  "coment": "A vacina de mRNA leva, envolta em nanopartícula lipídica, a sequência de RNA mensageiro que codifica a proteína spike. A célula do vacinado traduz esse RNA no citoplasma, sem entrar no núcleo, expõe a proteína e induz resposta humoral e celular; o RNA é degradado em pouco tempo. Não usa vetor viral, vírus inteiro nem proteína pronta. A IN do Calendário 2026 classifica a covid-19 (RNAm) entre as vacinas não vivas. As outras alternativas descrevem vacinas de vetor viral, de subunidade proteica, de vírus inativado e de DNA.",
+  "porAlt": [
+   "Correta: o mRNA da spike é traduzido pela célula do hospedeiro, que expressa a proteína e induz resposta imune, sem vetor nem proteína pronta.",
+   "Vírus modificado não relacionado que transporta o gene da spike descreve a vacina de vetor viral, como a de adenovírus.",
+   "Fragmentos proteicos do vírus, sem material genético, descrevem a vacina de subunidade.",
+   "Vírus inteiro inativado química ou fisicamente descreve a vacina inativada, como a CoronaVac.",
+   "DNA em plasmídeo que precisa entrar no núcleo descreve a vacina de DNA, não a de mRNA."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante um exame de rotina no ambulatório de uma empresa, o enfermeiro do trabalho observou que uma funcionária gestante, na 28a semana de gestação, apresentou um pico de hipertensão. Considerando as melhores práticas de saúde ocupacional e os cuidados específicos para gestantes, assinale a alternativa correspondente à conduta mais adequada que o enfermeiro do trabalho deve adotar para orientar e atuar nesse caso hipotético.",
+  "alts": [
+   "Aconselhar a gestante a realizar atividades físicas leves, como caminhadas diárias, para ajudar a reduzir os níveis de pressão arterial, sem necessidade de ajustes na jornada de trabalho.",
+   "Encaminhar a gestante ao pronto atendimento obstétrico para avaliação imediata, monitorando regularmente sua pressão arterial e recomendando repouso até a avaliação médica.",
+   "Recomendar à gestante que interrompa imediatamente o uso de qualquer medicação para pressão arterial que esteja utilizando, até que um médico revise o caso.",
+   "Acompanhar a gestante ao longo do dia, monitorando a pressão arterial a cada duas horas no ambiente de trabalho e mantendo-a informada quanto à importância de evitar o estresse.",
+   "Orientar a gestante a manter uma dieta rica em sódio e aumentar a ingestão de líquidos para ajudar a estabilizar a pressão arterial enquanto aguarda consulta médica."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Manual de Gestação de Alto Risco (2022), Quadro 2",
+  "coment": "Hipertensão depois de 20 semanas pode ser hipertensão gestacional ou pré-eclâmpsia, principal causa de morte materna no Brasil, e a proteinúria deixou de ser obrigatória para o diagnóstico. Pelo Manual de Gestação de Alto Risco (MS, 2022), PA de 160/110 mmHg ou mais e sinais premonitórios de eclâmpsia (cefaleia, escotomas, epigastralgia) exigem avaliação hospitalar imediata. A conduta do enfermeiro do trabalho é encaminhar ao pronto atendimento obstétrico, manter a gestante em repouso e monitorar a PA até a avaliação. Exercício, suspensão de remédio por conta própria, mais sódio ou só observar no trabalho atrasam o diagnóstico.",
+  "porAlt": [
+   "Atividade física não trata pico hipertensivo e atrasa a avaliação de possível pré-eclâmpsia.",
+   "Correta: hipertensão na 28ª semana exige avaliação obstétrica imediata, com repouso e monitoramento da PA até o atendimento.",
+   "Suspender por conta própria anti-hipertensivo prescrito pode piorar a pressão; a conduta é encaminhar.",
+   "Monitorar a cada duas horas no trabalho adia a avaliação que o quadro exige.",
+   "Dieta rica em sódio eleva a pressão e é orientação contrária à indicada."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Suponha que a enfermeira do trabalho de determinada empresa tenha sido convidada a ministrar um curso acerca da higienização das mãos com álcool em gel, em resposta ao aumento de casos de resfriado e gripe durante o período de inverno. Para garantir a efetividade do treinamento, é essencial que a enfermeira utilize metodologias avançadas de ensino, alinhadas às melhores práticas de saúde ocupacional. Considerando as características do público-alvo e a necessidade de mudança comportamental, assinale a alternativa que indica a metodologia a ser priorizada para maximizar o impacto do treinamento.",
+  "alts": [
+   "Aplicação de uma técnica de ensino ativo, com apresentações em slides e leitura de manuais, permitindo que os trabalhadores adquiram conhecimento de forma autônoma e individualizada.",
+   "Realização de palestras expositivas focadas nas bases teóricas da higienização das mãos, com ênfase em estudos epidemiológicos que comprovam a eficácia do álcool em gel na prevenção de doenças respiratórias.",
+   "Desenvolvimento de módulos de e-learning autoinstrutivos, por meio dos quais os trabalhadores possam acessar o conteúdo em qualquer momento, sem necessidade de interação com a enfermeira, focando em textos e vídeos demonstrativos.",
+   "Implementação de uma abordagem prática com simulações realistas, utilizando luz ultravioleta para demonstrar a eficácia da higienização das mãos com álcool em gel, seguida de discussões em grupo a respeito dos resultados observados.",
+   "Criação de competições entre equipes para identificar quem realiza a melhor higienização das mãos, utilizando álcool em gel, com recompensas simbólicas para incentivar a participação, sem a necessidade de feedback técnico detalhado."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Higiene das mãos",
+  "cenario": "ger",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "OMS, Diretrizes sobre higiene das mãos na assistência à saúde (2009); ANVISA, Segurança do paciente em serviços de saúde: higienização das mãos (2009)",
+  "coment": "Mudar comportamento exige prática e retorno imediato, não só informação. Na simulação com luz ultravioleta, o participante fricciona as mãos com gel ou loção fluorescente e vê, sob a luz, as áreas que não alcançou, em geral polegares, pontas dos dedos e dorso. A discussão em grupo transforma o erro observado em aprendizado, e a técnica é a que a OMS descreve: cobrir todas as superfícies, por 20 a 30 segundos, até secar. Slides, palestra, e-learning sem interação e competição sem retorno técnico informam, mas mudam pouco a prática.",
+  "porAlt": [
+   "Slides e leitura de manuais são métodos passivos, apesar do rótulo de ensino ativo, e mudam pouco o comportamento.",
+   "Palestra teórica sobre estudos epidemiológicos informa, mas não treina a técnica nem dá retorno ao participante.",
+   "E-learning sem interação nem retorno técnico limita a correção da técnica individual.",
+   "Correta: simulação prática com luz ultravioleta mostra as falhas da fricção, e a discussão em grupo consolida a mudança de comportamento.",
+   "Competição sem retorno técnico detalhado motiva, mas não corrige a técnica de fricção."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considere hipoteticamente que, em um centro de distribuição de certa empresa, um trabalhador tenha sido diagnosticado com tuberculose pulmonar, uma doença de notificação compulsória semanal em razão de sua alta transmissibilidade. Diante disso, o enfermeiro do trabalho foi chamado para orientar a equipe e implementar medidas preventivas. Tendo em vista o processo de contágio e o mecanismo de ação da bactéria causadora da tuberculose, assinale a alternativa que descreve corretamente a transmissão e o impacto fisiológico da doença no organismo.",
+  "alts": [
+   "A tuberculose pulmonar é transmitida por contato direto com superfícies contaminadas, e a bactéria Mycobacterium tuberculosis ataca principalmente o sistema gastrointestinal, causando úlceras e diarreia severa.",
+   "A transmissão da tuberculose pulmonar ocorre principalmente por ingestão de alimentos contaminados, e o Mycobacterium tuberculosis invade o sistema linfático, levando à linfadenite generalizada.",
+   "A tuberculose pulmonar é transmitida pelo ar, por meio da inalação de aerossóis contendo Mycobacterium tuberculosis, que se depositam nos alvéolos pulmonares, onde a bactéria é fagocitada pelos macrófagos e pode permanecer latente ou causar uma resposta inflamatória crônica.",
+   "A contaminação ocorre pelo contato com secreções cutâneas de indivíduos infectados, e o Mycobacterium tuberculosis afeta diretamente as células da pele, resultando em lesões cutâneas ulcerativas.",
+   "A tuberculose pulmonar é transmitida pelo contato com sangue infectado, e a bactéria Mycobacterium tuberculosis se multiplica no fígado, causando hepatite tuberculosa."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada (2019)",
+  "coment": "A tuberculose pulmonar ou laríngea se transmite pelo ar: o doente bacilífero, ao tossir, falar ou espirrar, elimina gotículas que secam e formam núcleos (aerossóis) que ficam suspensos e chegam aos alvéolos de quem os inala. Ali o Mycobacterium tuberculosis é fagocitado pelos macrófagos, sobrevive dentro deles e forma granulomas; a infecção pode ficar latente ou evoluir para doença, com inflamação crônica e necrose caseosa. A tuberculose é de notificação semanal. Superfícies, alimentos, pele e sangue não são vias de transmissão da forma pulmonar.",
+  "porAlt": [
+   "Superfícies não transmitem tuberculose, e a doença pulmonar não ataca principalmente o trato gastrointestinal.",
+   "A transmissão por alimento contaminado é do M. bovis no leite cru, não a via da tuberculose pulmonar.",
+   "Correta: transmissão aérea por aerossóis, deposição alveolar, fagocitose por macrófagos e latência ou inflamação crônica.",
+   "A tuberculose não se transmite por secreção cutânea, e a forma pulmonar não lesa primariamente a pele.",
+   "Sangue não é via de transmissão da tuberculose, e hepatite tuberculosa não é a forma típica da doença."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No contexto da Atenção Primária à Saúde (APS), diferentes modelos teóricos orientam a organização, a metodologia de atuação e a gestão dos serviços de saúde. Um enfermeiro gestor, ao revisar o modelo adotado em sua unidade básica de saúde, precisa alinhar as práticas assistenciais e gerenciais às diretrizes teóricas vigentes para garantir a integralidade do cuidado. Considerando os modelos teóricos na APS e suas implicações para a prática e a gestão, assinale a alternativa que apresenta corretamente um modelo teórico, sua metodologia de atuação e o impacto na gestão da unidade de saúde.",
+  "alts": [
+   "O modelo biomédico foca exclusivamente no tratamento de doenças agudas, organizando os serviços de saúde em torno de intervenções curativas, o que minimiza a necessidade de planejamento preventivo e ações interdisciplinares.",
+   "O modelo de atenção centrada na comunidade baseia-se na integração dos serviços de saúde com as redes sociais locais, promovendo a participação ativa dos usuários e a cogestão, o que requer a descentralização da tomada de decisões e o fortalecimento dos vínculos entre os profissionais de saúde e a comunidade.",
+   "O modelo hospitalocêntrico organiza a APS em torno de grandes hospitais, priorizando a referência e a contrarreferência para cuidados especializados, o que aumenta a autonomia das equipes de saúde locais e centraliza a gestão dos recursos.",
+   "O modelo gerencial de saúde enfoca a eficiência administrativa, priorizando indicadores de produtividade e redução de custos, o que melhora a qualidade do cuidado e a relação terapêutica entre profissionais e pacientes.",
+   "O modelo de atenção focada no indivíduo privilegia a personalização do cuidado em detrimento da visão populacional, concentrando-se na individualização das intervenções, considerando o impacto social e epidemiológico nas comunidades atendidas."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo, art. 3º, diretrizes",
+  "coment": "Entre os modelos citados, só o centrado na comunidade é coerente com a PNAB (Portaria GM/MS 2.436/2017), que adota como diretrizes territorialização, população adscrita, cuidado centrado na pessoa, longitudinalidade e participação da comunidade, com vínculo entre equipe e população e corresponsabilização. Integrar a unidade às redes locais, estimular a participação e a cogestão e descentralizar decisões é o que fortalece o vínculo e a integralidade. O biomédico e o hospitalocêntrico centralizam e fragmentam; o gerencial que só olha produtividade não melhora a relação terapêutica.",
+  "porAlt": [
+   "O modelo biomédico não dispensa o planejamento preventivo; ao contrário, sua lógica curativa é o que a APS busca superar.",
+   "Correta: o modelo centrado na comunidade integra redes sociais locais, participação e cogestão, como pedem as diretrizes da PNAB.",
+   "O modelo hospitalocêntrico reduz a autonomia das equipes locais; a frase é contraditória.",
+   "Foco só em produtividade e custo não melhora por si a qualidade nem a relação terapêutica.",
+   "Individualizar em detrimento da visão populacional contraria a territorialização e a população adscrita da PNAB."
+  ],
+  "fonte": {
+   "banca": "IADES",
+   "ano": 2024,
+   "prova": "Correios 2024, Enfermeiro do Trabalho",
+   "n": 50,
+   "parte": "especificas"
+  }
+ }
+]

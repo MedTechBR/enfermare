@@ -1,0 +1,1058 @@
+[
+ {
+  "q": "Analise as afirmativas a seguir e marque a alternativa correta. I - A Educação Permanente em Saúde é uma proposta educacional desenvolvida no ambiente doméstico e no ambiente de trabalho. II - A Educação Permanente incorpora o ensino, a atenção à saúde, a gestão do sistema, a participação e o controle social no cotidiano profissional promovendo mudanças na realidade do trabalho. III – A Educação Permanente é voltada para os profissionais de saúde aposentados. IV – A Educação Permanente produz encontros com outras pessoas que constroem conhecimentos, possibilitando a mudanças na realidade do trabalho. V – A Educação Permanente não orienta o desenvolvimento de do processo educativo.",
+  "alts": [
+   "apenas I e II, estão corretas;",
+   "apenas II e IV estão corretas;",
+   "apenas II e III estão corretas;",
+   "apenas I e IV estão corretas;",
+   "apenas III e V estão corretas."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 198/2004 e Portaria GM/MS 1.996/2007 (Política Nacional de Educação Permanente em Saúde)",
+  "coment": "A Política Nacional de Educação Permanente em Saúde (Portaria GM/MS 198/2004, com diretrizes refeitas pela Portaria 1.996/2007) define a EPS como aprendizagem no trabalho, em que aprender e ensinar se incorporam ao cotidiano dos serviços. Ela articula ensino, atenção, gestão e controle social e parte dos problemas reais do serviço para transformar as práticas, por isso II e IV estão corretas. Não é proposta do ambiente doméstico, não se destina a aposentados e é, por definição, orientadora do processo educativo. O enunciado mantém o erro do caderno ('de do processo').",
+  "porAlt": [
+   "Errada: a afirmativa I situa a EPS no ambiente doméstico, mas ela acontece no trabalho, a partir dos problemas do serviço.",
+   "Correta: II traz a articulação de ensino, atenção, gestão e controle social, e IV a construção coletiva que muda o trabalho.",
+   "Errada: III é falsa, porque a EPS se dirige aos trabalhadores em atividade, não a profissionais aposentados.",
+   "Errada: inclui a afirmativa I, que desloca a EPS para o ambiente doméstico, fora do cotidiano do trabalho.",
+   "Errada: III e V são falsas; a EPS é voltada a quem trabalha e orienta justamente o processo educativo."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 29,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A atenção domiciliar potencializa o resgate dos princípios doutrinários do Sistema Único de Saúde (integralidade – universalidade – equidade) se assumida como prática centrada na pessoa enquanto sujeito do seu processo de saúde–doença. Para nortear a atenção domiciliar realizada na atenção básica, propõem-se como fundamentos:",
+  "alts": [
+   "abordagem integral às crianças das famílias;",
+   "consentimento da família, participação do usuário e existência do cuidador profissional;",
+   "trabalho em equipe e interdisciplinaridade;",
+   "estímulo a redes de atenção às urgências domiciliares;",
+   "cobertura universal dos cuidados domiciliares."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Caderno de Atenção Domiciliar, v. 1 (MS, 2012) e Portaria GM/MS 825/2016",
+  "coment": "Os materiais do Ministério da Saúde sobre a atenção domiciliar feita pela atenção básica listam como fundamentos a adscrição da clientela, a acessibilidade, a abordagem integral à família, o consentimento da família com participação do usuário e existência de cuidador, o trabalho em equipe e a interdisciplinaridade e o estímulo a redes de solidariedade. A alternativa C reproduz um deles sem alteração. As demais trocam palavras-chave: família por crianças, cuidador por cuidador profissional, redes de solidariedade por redes de urgência. A Portaria GM/MS 825/2016 rege hoje a atenção domiciliar no SUS, com a modalidade AD1 a cargo da atenção básica.",
+  "porAlt": [
+   "Errada: o fundamento é a abordagem integral à família, não um recorte limitado às crianças.",
+   "Errada: o fundamento fala em existência de cuidador, em geral familiar; não exige cuidador profissional.",
+   "Correta: trabalho em equipe e interdisciplinaridade é fundamento textual da atenção domiciliar na atenção básica.",
+   "Errada: o fundamento é o estímulo a redes de solidariedade, não a redes de atenção às urgências domiciliares.",
+   "Errada: a atenção domiciliar segue critérios de elegibilidade, não é oferecida como cobertura universal."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação aos deveres dos profissionais de Enfermagem, expressos na Resolução Cofen nº 564/2017:",
+  "alts": [
+   "negar-se a ser filmado, fotografado e exposto em mídias sociais durante o desempenho de suas atividades profissionais;",
+   "incentivar e apoiar a participação dos profissionais de Enfermagem no desempenho de atividades em organizações da categoria;",
+   "ter reconhecida sua autoria ou participação em pesquisa, extensão e produção técnico científica;",
+   "provocar, cooperar, ser conivente ou omisso diante de qualquer forma ou tipo de violência contra a pessoa, família e coletividade, quando no exercício da profissão;",
+   "praticar ou ser conivente com crime, contravenção penal ou qualquer outro ato que infrinja postulados éticos e legais, no exercício profissional."
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017, cap. II (Deveres, arts. 24 a 60)",
+  "coment": "O Código de Ética (Res. COFEN 564/2017) divide-se em direitos (arts. 1º a 23), deveres (24 a 60) e proibições (61 a 102). Incentivar e apoiar a participação dos profissionais em organizações da categoria está entre os deveres. Negar-se a ser filmado ou fotografado (art. 21) e ter reconhecida a autoria em pesquisa são direitos. Provocar, cooperar ou ser omisso diante de violência (art. 64) e praticar ou ser conivente com crime ou contravenção são proibições. A questão cobra a distinção entre os três capítulos, frequente em concursos.",
+  "porAlt": [
+   "Errada: negar-se a ser filmado ou fotografado é direito do profissional (art. 21), não dever.",
+   "Correta: incentivar e apoiar a participação em organizações da categoria consta do capítulo dos deveres.",
+   "Errada: ter reconhecida a autoria em pesquisa e produção técnico-científica é direito, não dever.",
+   "Errada: provocar, cooperar ou omitir-se diante de violência é proibição do art. 64.",
+   "Errada: praticar ou ser conivente com crime ou contravenção no exercício profissional é proibição."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação aos testes para detecção precoce de várias doenças no recém-nascido é correto afirmar:",
+  "alts": [
+   "teste da orelhinha é realizado entre o 3º e 5º dia de vida do recém-nascido para identificar fibrose cística;",
+   "teste do pezinho identifica problemas auditivos de forma precoce;",
+   "teste do olhinho deve ser realizado entre 24 e 48 horas após o nascimento, antes da alta hospitalar;",
+   "teste da linguinha identifica precocemente alterações no frênulo lingual, que podem restringir em diferentes graus os movimentos da língua;",
+   "teste do coraçãozinho identifica precocemente possíveis deficiências visuais."
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Lei 13.002/2014 (teste da linguinha) e Lei 12.303/2010 (teste da orelhinha)",
+  "coment": "A Lei 13.002/2014 tornou obrigatório o protocolo de avaliação do frênulo lingual nos recém-nascidos, porque a anquiloglossia pode restringir em graus variados os movimentos da língua e prejudicar a mamada. As demais trocam os testes: a orelhinha (Lei 12.303/2010, emissões otoacústicas) rastreia perda auditiva; o pezinho, colhido entre o 3º e o 5º dia, rastreia doenças metabólicas e genéticas, como fenilcetonúria e fibrose cística; o olhinho, feito antes da alta, avalia o reflexo vermelho; a janela de 24 a 48 horas é a da oximetria do coraçãozinho, que rastreia cardiopatia congênita crítica.",
+  "porAlt": [
+   "Errada: a orelhinha rastreia perda auditiva; fibrose cística entra no teste do pezinho, colhido do 3º ao 5º dia.",
+   "Errada: o pezinho rastreia doenças metabólicas e genéticas; a audição é avaliada pela orelhinha.",
+   "Errada: o olhinho é feito antes da alta e nas consultas; a janela de 24 a 48 horas é a do coraçãozinho.",
+   "Correta: a linguinha avalia o frênulo lingual e é obrigatória pela Lei 13.002/2014.",
+   "Errada: o coraçãozinho é a oximetria de pulso para cardiopatia congênita crítica, não avalia a visão."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São fatores de risco que indicam encaminhamento para urgência/emergência obstétrica:",
+  "alts": [
+   "vômitos controlados e que respondem ao tratamento;",
+   "gestante com IG a partir de 41 semanas ou mais;",
+   "anemia (Hemoglobina ≤ 9g/dL;",
+   "pressão arterial com valores ≥ 120/80mmHg;",
+   "suspeita de vulvovaginites."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 32, Atenção ao Pré-Natal de Baixo Risco (MS, 2012)",
+  "coment": "O Caderno de Atenção Básica 32 lista as situações que mandam a gestante da UBS para a urgência ou emergência obstétrica, entre elas idade gestacional de 41 semanas ou mais, vômitos incoercíveis, hemoglobina de 7 g/dL ou menos, febre sem foco, sangramento e suspeita de pré-eclâmpsia. Na gestação de 41 semanas, a gestante precisa de avaliação do bem-estar fetal e programação do parto. Vômitos que respondem ao tratamento, anemia com Hb de 9 g/dL, PA de 120/80 mmHg e vulvovaginite são conduzidos na atenção primária, sem urgência.",
+  "porAlt": [
+   "Errada: vômitos controlados não são urgência; vai para a maternidade a gestante com vômitos incoercíveis.",
+   "Correta: idade gestacional de 41 semanas ou mais pede avaliação do bem-estar fetal e do parto na maternidade.",
+   "Errada: o critério de urgência é Hb de 7 g/dL ou menos; com 9 g/dL a anemia é tratada na atenção primária.",
+   "Errada: 120/80 mmHg é pressão normal; preocupa a PA de 140/90 mmHg ou mais após 20 semanas.",
+   "Errada: a suspeita de vulvovaginite é manejada na consulta de pré-natal, sem encaminhamento de urgência."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O conceito de envelhecimento saudável baseia-se no processo de desenvolvimento individual, ou seja, ao longo da trajetória de vida e na manutenção da capacidade funcional, que poderá permitir o bem-estar geral em idades mais avançadas. Em relação ao autocuidado é correto afirmar que:",
+  "alts": [
+   "a qualidade da saúde e o bem-estar das pessoas idosas não são resultado das experiências e dos estilos de vida que tiveram ao longo dos anos;",
+   "o autocuidado se limita à saúde física não se relacionando com a saúde mental, econômica e espiritual;",
+   "é muito importante buscar o apoio de pessoas de confiança (familiares, cuidadores, amigos próximos ou profissionais), para conversar sobre preocupações, como atitudes violentas vivenciadas ou presenciadas ou sobre algo que causa tristeza;",
+   "a maioria dos problemas de saúde contraindica atividades físicas para as pessoas idosas, com risco de piorar o seu estado de saúde;",
+   "a prática do autocuidado é indicada pelo geriatra para controlar doenças já diagnosticadas e a prevenir complicações decorrentes delas."
+  ],
+  "gab": 2,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.528/2006 (Política Nacional de Saúde da Pessoa Idosa)",
+  "coment": "O envelhecimento saudável, na definição da OMS, é o processo de desenvolver e manter a capacidade funcional que permite o bem-estar na idade avançada, e resulta de todo o curso de vida. O autocuidado abrange saúde física, mental, social, econômica e espiritual, e inclui pedir ajuda: conversar com pessoas de confiança sobre tristeza, preocupações ou violência sofrida ou presenciada protege a saúde mental e abre caminho para a proteção. A Política Nacional de Saúde da Pessoa Idosa (Portaria GM/MS 2.528/2006) tem como foco a autonomia e a independência funcional. Atividade física é recomendada à maioria das pessoas idosas, adaptada a cada uma.",
+  "porAlt": [
+   "Errada: a saúde na velhice é fruto da trajetória de vida, das experiências e dos hábitos acumulados.",
+   "Errada: o autocuidado envolve também a saúde mental, as finanças, as relações e a espiritualidade.",
+   "Correta: buscar apoio de pessoas de confiança para falar de tristeza ou violência é parte do autocuidado.",
+   "Errada: a atividade física é recomendada à maioria dos idosos, adaptada às limitações, e melhora a funcionalidade.",
+   "Errada: o autocuidado é prática da própria pessoa, estimulada por toda a equipe, e não depende de indicação do geriatra."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação ao exame físico dos pés para rastreamento do diabetes, analise as assertivas e marque a alternativa correta. I – O rastreamento é semestral por meio da história clínica e exame dos pés; II – O exame anual dos pés objetiva identificar pacientes em risco de desenvolver úlcera; III – O teste com monofilamento de 10 gramas ou diapasão ou biotesiômetro são utilizados para rastreamento da perda de sensibilidade; IV – A triagem para doença arterial periférica (DAP) inclui histórico cardiovascular e palpação dos pulsos dos pés; V – Se disponível, pode-se fazer doppler arterial dos pés e medidas de pressão arterial.",
+  "alts": [
+   "apenas a I está correta;",
+   "apenas a II está correta;",
+   "apenas a II, III, IV e V estão corretas;",
+   "apenas a I, II, III e V estão corretas;",
+   "apenas a I, II e IV estão corretas."
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Pé diabético e úlceras vasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "ADA, Standards of Care in Diabetes 2026, recomendação 12.23; IWGDF 2023",
+  "coment": "O rastreamento do pé em risco no diabetes é anual, não semestral: a ADA 2026 (recomendação 12.23) pede ao menos uma vez por ano exame completo do pé, com inspeção da pele e das deformidades, avaliação dos pulsos e da sensibilidade protetora. A perda de sensibilidade é pesquisada com o monofilamento de 10 g associado a outro teste, como diapasão de 128 Hz ou biotesiômetro. A triagem de doença arterial periférica começa pela história cardiovascular e pela palpação dos pulsos dos pés, e pode incluir Doppler e medidas de pressão. Só a afirmativa I está errada.",
+  "porAlt": [
+   "Errada: a afirmativa I é a única falsa, porque o rastreamento de rotina é anual, não semestral.",
+   "Errada: II está correta, mas III, IV e V também estão, e a alternativa as exclui.",
+   "Correta: II, III, IV e V descrevem o exame anual, a sensibilidade protetora e a triagem de DAP.",
+   "Errada: inclui a afirmativa I, que fala em rastreamento semestral, e exclui a IV, que está correta.",
+   "Errada: inclui a afirmativa I, que está errada, e deixa de fora III e V, que estão corretas."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A infecção pelo HPV (Papilomavírus Humano) é a infecção sexualmente transmissível mais frequente no mundo. Estima-se que o risco de uma pessoa ter contato com o HPV durante a vida chega a 80%. Menos de 5% podem ter uma manifestação viral e menos de 1% vai ter uma lesão precursora do câncer do colo do útero. Assinale a alternativa correta sobre o tema:",
+  "alts": [
+   "apesar do HPV ser muito frequente, trata-se de uma infecção benigna, já que apesar de muitas pessoas terem contato com HPV a maioria nunca vai desenvolver doença;",
+   "por ser muito frequente, as infecções podem começar logo no início da vida sexual e a maioria das pessoas desenvolverá lesões caracterizando-se como uma infecção latente;",
+   "deve-se buscar o diagnóstico do HPV e não a detecção precoce do câncer inicial assintomático e de suas lesões precursoras que demandam tratamento (prevenindo a progressão para o câncer do colo do útero);",
+   "pessoas promíscuas têm maior chance de desenvolver a infecção pelo HPV, pois elas têm vida sexual ativa e muitas parcerias sexuais;",
+   "a vacina contra o HPV protege contra todos os tipos virais, possibilitando a redução das lesões precursoras."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "INCA, Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (2016; Parte I, 2025)",
+  "coment": "O enunciado resume os dados do INCA: o contato com o HPV é muito comum, mas a maioria das infecções é transitória e regride espontaneamente, poucas pessoas têm manifestação clínica e menos ainda chegam a lesão precursora. Por isso a banca chama a infecção de benigna, no sentido de que a maioria nunca adoece. O rastreamento busca lesões precursoras e câncer inicial; desde as diretrizes do INCA de 2025 isso se faz com o teste de DNA-HPV oncogênico, que seleciona quem precisa de seguimento, sem mudar a meta. A HPV4 do SUS cobre os tipos 6, 11, 16 e 18, e o termo 'promíscuas' é estigmatizante.",
+  "porAlt": [
+   "Correta: a infecção é frequente, mas quase sempre transitória, e a maioria das pessoas nunca desenvolve doença.",
+   "Errada: a maioria das infecções regride sozinha; só uma minoria persiste e forma lesão.",
+   "Errada: inverte o objetivo; o rastreamento visa as lesões precursoras e o câncer inicial assintomático.",
+   "Errada: o risco cresce com o número de parcerias, mas qualquer pessoa sexualmente ativa se expõe, e o termo é estigmatizante.",
+   "Errada: a HPV4 do calendário protege contra os tipos 6, 11, 16 e 18, não contra todos os tipos virais."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Resolução Cofen nº 720/2023 normatizou a atuação do enfermeiro em auditoria, reafirmando que na equipe de enfermagem é uma função privativa:",
+  "alts": [
+   "do enfermeiro assistencial;",
+   "do enfermeiro auditor;",
+   "do enfermeiro;",
+   "do técnico de enfermagem;",
+   "do auxiliar de enfermagem."
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 720/2023, art. 1º, parágrafo único",
+  "coment": "A Res. COFEN 720/2023 revogou a 266/2001 e normatiza a atuação do enfermeiro em auditoria. Seu art. 1º, parágrafo único, diz que, no âmbito da equipe de enfermagem, a auditoria é privativa do enfermeiro. A norma diferencia o enfermeiro em auditoria, generalista que exerce a função no serviço, do enfermeiro auditor, com título de especialista, mas ambos são enfermeiros, e a privatividade é da categoria. Técnicos, auxiliares e faturistas não podem assumir a auditoria de enfermagem. A resolução foi alterada pela Res. 733/2023.",
+  "porAlt": [
+   "Errada: a privatividade é do enfermeiro, sem restringir ao que atua na assistência.",
+   "Errada: o enfermeiro auditor é o especialista, mas a resolução atribui a auditoria a todo enfermeiro.",
+   "Correta: no âmbito da equipe de enfermagem, a auditoria é privativa do enfermeiro (art. 1º, parágrafo único).",
+   "Errada: o técnico de enfermagem não pode exercer auditoria de enfermagem.",
+   "Errada: o auxiliar de enfermagem não pode exercer auditoria, privativa do enfermeiro."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A fim de garantir a continuidade da assistência de enfermagem é necessário garantir o dimensionamento de pessoal na equipe. Para tanto, utiliza-se um acréscimo no quantitativo de pessoal, por categoria e para a cobertura das ausências denominado:",
+  "alts": [
+   "carga total de trabalho da unidade;",
+   "tempo efetivo de trabalho;",
+   "distribuição proporcional de enfermagem;",
+   "índice de segurança técnica;",
+   "quantidade de pacientes atendidos."
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Parecer Normativo COFEN 01/2024 (Resolução COFEN 743/2024)",
+  "coment": "O índice de segurança técnica (IST) é o acréscimo ao quadro calculado para cobrir ausências previstas e não previstas, garantindo a continuidade da assistência. O Parecer Normativo COFEN 01/2024, que reúne os parâmetros desde que a Res. 743/2024 revogou a 543/2017, fixa o IST em no mínimo 15% do total, sendo 8,3% de férias e 6,7% de ausências não previstas. Carga total de trabalho é o somatório das horas de cuidado exigidas pelos pacientes; tempo efetivo de trabalho é a jornada disponível; a distribuição percentual define a proporção entre enfermeiros e técnicos.",
+  "porAlt": [
+   "Errada: a carga total de trabalho é o somatório das horas de cuidado necessárias, não o acréscimo para ausências.",
+   "Errada: o tempo efetivo de trabalho é a jornada disponível, usada no cálculo, e não cobre ausências.",
+   "Errada: a distribuição percentual define a proporção de enfermeiros e técnicos, não as ausências.",
+   "Correta: o IST, de no mínimo 15% (8,3% férias e 6,7% ausências não previstas), cobre as ausências.",
+   "Errada: o número de pacientes entra na carga de trabalho, mas não é o acréscimo para ausências."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Resolução Cofen nº 543/2017, para o dimensionamento da equipe de enfermagem na atenção primária à saúde é necessário:",
+  "alts": [
+   "conhecer o perfil do território e a proposta assistencial de cada unidade de saúde;",
+   "conhecer o perfil do território e a proposta assistencial de cada profissional de saúde;",
+   "conhecer o perfil dos profissionais de saúde e a proposta assistencial de cada unidade de saúde;",
+   "conhecer o perfil do município e a proposta assistencial de cada serviço de saúde;",
+   "conhecer o perfil dos pacientes e a proposta assistencial para cada um."
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Parecer Normativo COFEN 01/2024, Anexo I (Atenção Primária à Saúde); Resolução COFEN 743/2024",
+  "coment": "A Res. COFEN 543/2017, citada no enunciado, foi revogada pela Res. 743/2024, e os parâmetros passaram ao Parecer Normativo COFEN 01/2024. A ideia cobrada continua válida: na atenção primária não há leitos nem classificação de pacientes, e o quadro depende do território adscrito e do que cada unidade oferece (consultas, vacinação, grupos, visitas). O Anexo I do Parecer adota o método WISN, da OMS, que calcula os profissionais necessários a partir da produção de cada unidade de saúde, extraída do e-Gestor, e de tempos-padrão das intervenções. Por isso a unidade é a referência do cálculo.",
+  "porAlt": [
+   "Correta: o cálculo parte do território e da oferta de cada unidade, hoje pelo método WISN do Parecer 01/2024.",
+   "Errada: a referência é a proposta assistencial da unidade, não a de cada profissional.",
+   "Errada: o perfil que orienta o cálculo é o do território e de sua demanda, não o dos profissionais.",
+   "Errada: o município é amplo demais; o cálculo é feito por unidade, com a produção de cada uma.",
+   "Errada: na APS não se dimensiona por paciente classificado, como na internação, mas pela carga da unidade."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Entre as medidas de prevenção primária para diminuição da incidência de infecção pelo HPV, destaca-se a:",
+  "alts": [
+   "distribuição de anticoncepcionais orais;",
+   "realização frequente de Papanicolau;",
+   "seleção dos parceiros sexuais;",
+   "cauterização de lesões do colo uterino;",
+   "prescrição do uso de preservativo."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "PCDT para Atenção Integral às Pessoas com IST (MS, 2022)",
+  "coment": "Prevenção primária atua antes da infecção, por proteção específica. Contra o HPV, as medidas primárias são a vacina HPV4 e o preservativo; a vacina não aparece entre as opções, e o preservativo, masculino ou feminino, reduz a transmissão, embora não a elimine, porque o vírus também passa pelo contato com pele e mucosas não cobertas (PCDT-IST 2022). Papanicolau e cauterização de lesões são prevenção secundária: detectam e tratam lesões já instaladas. Anticoncepcional oral não protege contra IST, e seleção de parceiros não é medida de proteção específica.",
+  "porAlt": [
+   "Errada: o anticoncepcional oral previne gravidez, mas não protege contra o HPV nem outras IST.",
+   "Errada: o Papanicolau é prevenção secundária, porque detecta lesões precursoras já instaladas.",
+   "Errada: escolher parceiros não é medida de proteção específica e não impede a transmissão do vírus.",
+   "Errada: cauterizar lesões do colo é tratamento, prevenção secundária, e não reduz a incidência da infecção.",
+   "Correta: o preservativo é medida de proteção específica que reduz a transmissão do HPV."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O diagnóstico do câncer de mama é fundamentado no:",
+  "alts": [
+   "auto exame das mamas sugestivo, exame de imagem sugestivo (mamografia) e a confirmação diagnóstica, por meio da citologia.",
+   "exame clínico sugestivo, exame de imagem sugestivo (ultrassom) e a confirmação diagnóstica, por meio da citologia.",
+   "exame clínico sugestivo, exame de imagem sugestivo (mamografia ou ultrassom) e a confirmação diagnóstica, por meio da citologia.",
+   "exame clínico sugestivo, exame de imagem sugestivo (mamografia ou ultrassom) e a confirmação diagnóstica, por meio da biópsia.",
+   "auto exame das mamas sugestivo, exame de imagem sugestivo (mamografia e ultrassom) e a confirmação diagnóstica, por meio da citologia."
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "INCA, Diretrizes para a Detecção Precoce do Câncer de Mama no Brasil (2015)",
+  "coment": "O diagnóstico do câncer de mama apoia-se em três pilares: exame clínico com achado suspeito, exame de imagem suspeito (mamografia ou ultrassonografia, conforme idade e achado) e confirmação histopatológica, obtida por biópsia, em geral por agulha grossa guiada por imagem. A citologia por punção aspirativa com agulha fina pode ajudar, mas não substitui a histologia, que define o tipo do tumor e permite a imuno-histoquímica. O autoexame não é método de rastreio nem de diagnóstico; serve para a mulher conhecer o próprio corpo e procurar o serviço diante de alteração.",
+  "porAlt": [
+   "Errada: o autoexame não fundamenta o diagnóstico, e a confirmação é histológica, por biópsia, não citológica.",
+   "Errada: restringe a imagem ao ultrassom e confirma pela citologia, quando a confirmação exige biópsia.",
+   "Errada: os dois primeiros pilares estão certos, mas a confirmação é pela biópsia, não pela citologia.",
+   "Correta: exame clínico e imagem suspeitos, com confirmação histopatológica por biópsia, formam o tripé.",
+   "Errada: parte do autoexame e confirma pela citologia, dois erros em relação ao tripé diagnóstico."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre os critérios de elegibilidade recomendados para a escolha do melhor método contraceptivo, analise as assertivas e marque a opção correta. I – A categoria 2 indica que o método não deve ser usado sob nenhuma circunstância; II – As categorias 2 e 3 indicam que o método não deve ser usado sob nenhuma circunstância; III – A categoria 4 indica que o método pode ser usado em qualquer circunstância; IV – As categorias 1 e 4 indicam que o método pode ser usado sob nenhuma circunstância; V – A categoria 1 indica que o método pode ser usado em qualquer circunstância.",
+  "alts": [
+   "apenas a I está correta;",
+   "apenas a II está correta;",
+   "apenas a III está correta;",
+   "apenas a IV está correta;",
+   "apenas a V está correta."
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Planejamento reprodutivo",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "OMS, Critérios Médicos de Elegibilidade para Uso de Métodos Anticoncepcionais, 5ª ed. (2015)",
+  "coment": "Os critérios médicos de elegibilidade da OMS (5ª edição, 2015) classificam cada método, por condição clínica, em quatro categorias. Categoria 1: sem restrição, o método pode ser usado em qualquer circunstância. Categoria 2: as vantagens geralmente superam os riscos, e o método pode ser usado com acompanhamento. Categoria 3: os riscos geralmente superam as vantagens, e o uso exige avaliação criteriosa e acompanhamento rigoroso, como última escolha. Categoria 4: risco inaceitável, o método não deve ser usado. Só a afirmativa V descreve corretamente uma categoria.",
+  "porAlt": [
+   "Errada: a afirmativa I descreve a categoria 4; na categoria 2 as vantagens geralmente superam os riscos.",
+   "Errada: II junta as categorias 2 e 3, que permitem uso, com a proibição própria da categoria 4.",
+   "Errada: III inverte a categoria 4, que é risco inaceitável e contraindica o método.",
+   "Errada: IV agrupa categorias opostas, a 1 (uso livre) e a 4 (contraindicação), e a frase não faz sentido.",
+   "Correta: a categoria 1 indica que o método pode ser usado em qualquer circunstância, sem restrição."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação às vantagens da amamentação, é correto afirmar que:",
+  "alts": [
+   "o leite materno é o alimento ideal, não sendo necessário oferecer água, chá e nenhum outro alimento até os seis meses completos de idade;",
+   "exige aumento do gasto com alimentos para a mãe, já que ela precisa produzir leite;",
+   "a amamentação diminui o risco de câncer do colo do útero e de mama;",
+   "é necessário complementar a alimentação do bebê enquanto ele estiver amamentando de forma exclusiva;",
+   "amamentar é cansativo e pouco gratificante."
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Aleitamento e alimentação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Guia Alimentar para Crianças Brasileiras Menores de 2 Anos (MS, 2019); Caderno de Atenção Básica nº 23 (MS, 2015)",
+  "coment": "O Ministério da Saúde recomenda aleitamento materno exclusivo até os 6 meses completos, sem água, chás, sucos ou outros alimentos, porque o leite materno supre toda a necessidade de água e nutrientes nessa fase, e complementado até 2 anos ou mais (Guia Alimentar para Crianças Brasileiras Menores de 2 Anos, 2019; CAB 23, 2015). Entre as vantagens para a mulher está a redução do risco de câncer de mama e de ovário, não de colo do útero. Amamentar é econômico, porque dispensa fórmula, e não exige aumento relevante de gasto com a alimentação materna.",
+  "porAlt": [
+   "Correta: até os 6 meses completos o leite materno basta, sem água, chá ou outro alimento.",
+   "Errada: amamentar é econômico, porque dispensa fórmula, e a dieta materna usual sustenta a produção.",
+   "Errada: a amamentação reduz o risco de câncer de mama e de ovário; o de colo do útero não se relaciona.",
+   "Errada: aleitamento exclusivo, por definição, não recebe complemento antes dos 6 meses.",
+   "Errada: com apoio adequado, a amamentação favorece o vínculo e costuma ser vivida como gratificante."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro (USF)",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Entre 2016 e 2030, como parte dos Objetivos de Desenvolvimento Sustentável (ODS), a meta é reduzir a taxa global de mortalidade materna para menos de 70 por 100 mil nascidos vivos. Uma das estratégias utilizadas é o cuidado em rede que implica:",
+  "alts": [
+   "a peregrinação de gestantes no momento do parto;",
+   "a presença de enfermeiras obstetras como acompanhantes em todos os níveis;",
+   "a promoção da vinculação da gestante tanto ao pré-natal quanto à unidade de referência para o parto;",
+   "a superlotação nas maternidades;",
+   "a assistência ao parto e nascimento por equipe médica."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Lei 11.634/2007 e Portaria GM/MS 5.350/2024 (Rede Alyne)",
+  "coment": "A peregrinação da gestante em busca de vaga no momento do parto é causa reconhecida de morte materna e neonatal evitável. O cuidado em rede responde com a vinculação: a Lei 11.634/2007 garante à gestante o direito de conhecer e de se vincular, já no pré-natal, à maternidade onde fará o parto. A vinculação ao pré-natal e à maternidade de referência era diretriz da Rede Cegonha e continua na Rede Alyne, em que a Portaria GM/MS 5.350/2024 transformou a antiga rede. Superlotação e peregrinação são o que a rede quer evitar, e a assistência ao parto é multiprofissional.",
+  "porAlt": [
+   "Errada: a peregrinação no parto é justamente o problema que a vinculação em rede busca eliminar.",
+   "Errada: enfermeiras obstetras assistem o parto; acompanhante é a pessoa escolhida pela mulher.",
+   "Correta: vincular a gestante ao pré-natal e à maternidade de referência é o eixo do cuidado em rede.",
+   "Errada: a superlotação das maternidades é efeito da falta de rede, não estratégia de cuidado.",
+   "Errada: a rede prevê assistência multiprofissional ao parto, com papel central da enfermagem obstétrica."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro Obstetra/Saúde da Mulher",
+   "n": 27,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A prática baseada em evidência (PBE), tem como enfoque a solução de problemas da assistência à saúde, para tomada de decisões baseadas nas melhores evidências. A força da evidência pode ser definida por características das fontes que foram geradas, sendo que a do Tipo I contemplam:",
+  "alts": [
+   "evidência forte a partir de pelo menos um ensaio clínico controlado, randomizado, bem delineado;",
+   "opiniões de autoridades respeitadas, baseadas em evidência clínica, estudos descritivos ou relatórios de comitês de especialistas;",
+   "evidência a partir de estudos não experimentais por mais de um centro ou grupo de pesquisa;",
+   "evidência forte a partir de pelo menos uma revisão sistemática de ensaios clínicos randomizados, bem delineados;",
+   "evidência e um ensaio clínico bem delineado, sem randomização, de estudos de apenas um grupo do tipo antes e depois, de coorte, de séries temporais, ou de estudos caso-controle."
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Classificação da força da evidência de Muir Gray (Evidence-based healthcare, 1997)",
+  "coment": "Na classificação da força da evidência usada em textos de prática baseada em evidências (Muir Gray, 1997), o Tipo I é a evidência forte de pelo menos uma revisão sistemática de múltiplos ensaios clínicos randomizados bem delineados. O Tipo II é a evidência forte de pelo menos um ensaio randomizado bem delineado; o Tipo III, ensaios sem randomização, grupo único antes e depois, coorte, séries temporais ou caso-controle; o Tipo IV, estudos não experimentais de mais de um centro; o Tipo V, opiniões de autoridades e comitês de especialistas. A revisão sistemática fica no topo porque reúne vários ensaios.",
+  "porAlt": [
+   "Errada: um único ensaio randomizado bem delineado corresponde ao Tipo II, abaixo da revisão sistemática.",
+   "Errada: opiniões de autoridades e relatórios de comitês são o Tipo V, a evidência mais fraca.",
+   "Errada: estudos não experimentais de mais de um centro correspondem ao Tipo IV.",
+   "Correta: o Tipo I é a revisão sistemática de ensaios clínicos randomizados bem delineados.",
+   "Errada: ensaios sem randomização, coortes, séries temporais e caso-controle formam o Tipo III."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro Obstetra/Saúde da Mulher",
+   "n": 28,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os direitos sexuais e os direitos reprodutivos são direitos humanos reconhecidos em leis nacionais e documentos internacionais. São direitos sexuais:",
+  "alts": [
+   "direito das pessoas de decidirem, de forma livre e responsável, se querem ou não ter filhos, quantos filhos desejam ter e em que momento de suas vidas;",
+   "direito a informações, meios, métodos e técnicas para ter ou não ter filhos;",
+   "direito de exercer a sexualidade e a reprodução livre de discriminação, imposição e violência;",
+   "direito a dispensação de medicamentos na Farmácia Popular;",
+   "direito de viver a sexualidade independentemente de estado civil, idade ou condição física."
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Planejamento reprodutivo",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Caderno de Atenção Básica nº 26, Saúde Sexual e Saúde Reprodutiva (MS, 2010)",
+  "coment": "O Caderno de Atenção Básica 26 separa os direitos reprodutivos dos sexuais. São reprodutivos: decidir de forma livre e responsável se quer ter filhos, quantos e quando; ter acesso a informações, meios, métodos e técnicas para ter ou não ter filhos; exercer a sexualidade e a reprodução livre de discriminação, imposição e violência. Entre os sexuais estão viver e expressar a sexualidade sem violência, escolher o parceiro e viver a sexualidade independentemente de estado civil, idade ou condição física. A alternativa C cita a sexualidade, mas o Caderno a lista entre os reprodutivos, por tratar junto a reprodução.",
+  "porAlt": [
+   "Errada: decidir se quer ter filhos, quantos e quando é direito reprodutivo.",
+   "Errada: o acesso a meios e métodos para ter ou não ter filhos é direito reprodutivo.",
+   "Errada: no Caderno 26, exercer sexualidade e reprodução livre de violência aparece entre os direitos reprodutivos.",
+   "Errada: dispensação na Farmácia Popular é política de acesso a medicamentos, não direito sexual.",
+   "Correta: viver a sexualidade independentemente de estado civil, idade ou condição física é direito sexual."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro Obstetra/Saúde da Mulher",
+   "n": 29,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O aborto legal, ou seja, interrupção da gravidez nos casos previstos em lei ainda é um tema que causa muita dificuldade de acesso e dúvida nas mulheres, particularmente nas mulheres mais pobres, mais excluídas da sociedade e que tem menos informações. A legislação brasileira estabelece os permissivos legais para a interrupção da gestação nos seguintes casos:",
+  "alts": [
+   "para salvar a vida da mulher, caso de uma gestação decorrente de estupro, por solicitação e consentimento da mulher e casos de anencefalia;",
+   "para salvar a vida da mulher por solicitação e consentimento dela, caso de uma gestação indesejada e casos de anencefalia;",
+   "caso de uma gestação planejada, por solicitação e consentimento da mulher, para salvar a vida da mulher e casos de anencefalia;",
+   "casos de anencefalia, para salvar a vida da mulher cumprindo ordem judicial expressa, caso de uma gestação decorrente de estupro, por solicitação e consentimento da mulher;",
+   "para salvar a vida da mulher, casos de anencefalia e pela expressão de gênero."
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto-Lei 2.848/1940 (Código Penal), art. 128; STF, ADPF 54 (2012)",
+  "coment": "O Código Penal (art. 128) não pune o aborto praticado por médico quando não há outro meio de salvar a vida da gestante (inciso I) e quando a gravidez resulta de estupro, precedido do consentimento da gestante ou de seu representante legal (inciso II). Em 2012, o STF, na ADPF 54, afastou a punição da interrupção da gestação de feto anencéfalo. No caso de estupro não se exige boletim de ocorrência nem ordem judicial, e no risco de vida a decisão é médica. Gestação indesejada ou planejada e expressão de gênero não são permissivos legais.",
+  "porAlt": [
+   "Correta: risco de vida, estupro com consentimento da mulher e anencefalia são os três permissivos vigentes.",
+   "Errada: gestação indesejada não é permissivo legal no Brasil.",
+   "Errada: gestação planejada não é hipótese de interrupção legal.",
+   "Errada: o risco de vida não depende de ordem judicial; o médico decide quando não há outro meio de salvar a gestante.",
+   "Errada: expressão de gênero não é permissivo legal, e falta a hipótese de estupro."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro Obstetra/Saúde da Mulher",
+   "n": 30,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A enfermeira está atendendo uma gestante com 14 semanas de gestação e detecta uma coloração violácea no colo do útero. De que forma a enfermeira deve registrar o fato?",
+  "alts": [
+   "sinal de Chadwick;",
+   "sinal de Goodel;",
+   "sinal de Hegar;",
+   "sinal de McDonald;",
+   "sinal de Kluge."
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Caderno de Atenção Básica nº 32, Atenção ao Pré-Natal de Baixo Risco (MS, 2012)",
+  "coment": "A coloração violácea da mucosa genital, causada pela congestão venosa da gravidez, é o sinal de Chadwick; na literatura brasileira aparece também como Jacquemier-Chadwick, e o sinal de Kluge descreve a mesma cor na mucosa vaginal. O Caderno de Atenção Básica 32 põe a coloração violácea da vulva e a cianose vaginal e cervical entre os sinais de presunção. Goodell é o amolecimento do colo; Hegar, o amolecimento do istmo percebido no toque bimanual; McDonald, a flexão fácil do corpo uterino sobre o colo. Para o colo violáceo, a descrição clássica é Chadwick.",
+  "porAlt": [
+   "Correta: a coloração violácea do colo e da mucosa genital na gravidez é o sinal de Chadwick.",
+   "Errada: o sinal de Goodell é o amolecimento do colo uterino, não sua coloração.",
+   "Errada: o sinal de Hegar é o amolecimento do istmo percebido no toque bimanual.",
+   "Errada: o sinal de McDonald é a facilidade de flexionar o corpo uterino sobre o colo.",
+   "Errada: o sinal de Kluge descreve a coloração violácea da mucosa vaginal, não do colo."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro Obstetra/Saúde da Mulher",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São modificações locais que ocorrem no organismo feminino na gestação:",
+  "alts": [
+   "cloasma gravídico, hipertrofia uterina, hipervolemia;",
+   "andar anserino, tubérculos de Montgomery, polaciúria;",
+   "formação do tampão mucoso, sinal de Jaquemier, sinal de Hunter;",
+   "amolecimento do colo uterino, aumento da taxa de filtração glomerular;",
+   "êmese, polaciúria, linha nigra."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Caderno de Atenção Básica nº 32, Atenção ao Pré-Natal de Baixo Risco (MS, 2012)",
+  "coment": "Os livros de obstetrícia dividem as modificações da gravidez em sistêmicas e locais. Locais são as que ocorrem nos órgãos genitais e nas mamas: no colo, a formação do tampão mucoso pelo muco cervical espesso; na vulva e na vagina, a coloração violácea (sinal de Jacquemier); na mama, a aréola secundária, de limites imprecisos (sinal de Hunter), e os tubérculos de Montgomery, que o CAB 32 lista entre os sinais de presunção. Hipervolemia, aumento da filtração glomerular, andar anserino, cloasma, linha nigra e êmese são modificações sistêmicas. Só a alternativa C reúne apenas alterações locais.",
+  "porAlt": [
+   "Errada: a hipertrofia uterina é local, mas o cloasma e a hipervolemia são modificações sistêmicas.",
+   "Errada: os tubérculos de Montgomery são locais, mas o andar anserino e a polaciúria não.",
+   "Correta: tampão mucoso, sinal de Jacquemier e sinal de Hunter ocorrem no colo, na vulva e na mama.",
+   "Errada: o amolecimento do colo é local, mas o aumento da filtração glomerular é modificação renal, sistêmica.",
+   "Errada: êmese, polaciúria e linha nigra são manifestações sistêmicas, digestivas, urinárias e cutâneas."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro Obstetra/Saúde da Mulher",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação à consulta de enfermagem pré-natal, marque a alternativa correta:",
+  "alts": [
+   "a confirmação da gravidez é dada a partir do resultado do teste imunológico de gravidez (TIG) para aquelas gestantes com Idade Gestacional maior do que 16 semanas;",
+   "a consulta de enfermagem no pré-natal pode ser desenvolvida pelo técnico de enfermagem já que ele compõe a equipe de enfermagem e será supervisionado pelo enfermeiro;",
+   "em relação às consultas de enfermagem no pré-natal, a sistematização do cuidado de enfermagem se dá por meio da utilização do processo de enfermagem, que compreende a realização do histórico, a determinação dos diagnósticos e a elaboração das intervenções;",
+   "após a confirmação da gravidez, a mulher ingressa no pré-natal com o seu cadastramento no Sistema de Informação da Atenção Básica (SIAB);",
+   "em geral, a rotina do atendimento pré-natal compreende, entre outras atividades, a realização do histórico, exame físico-obstétrico, solicitação de exames laboratoriais e imunização."
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Lei 7.498/1986, art. 11, I, i; Resolução COFEN 736/2024; Caderno de Atenção Básica nº 32 (MS, 2012)",
+  "coment": "O Caderno de Atenção Básica 32 descreve a rotina do pré-natal: histórico, exame físico geral e obstétrico, solicitação de exames, imunização, orientações e registro. A consulta de enfermagem é privativa do enfermeiro (Lei 7.498/1986, art. 11, I, i). Pela Res. COFEN 736/2024, que revogou a 358/2009, o Processo de Enfermagem tem cinco etapas, Avaliação, Diagnóstico, Planejamento, Implementação e Evolução, e a consulta as segue; a alternativa C fica incompleta. O TIG confirma a gravidez no atraso menstrual; acima de 12 semanas a ausculta do BCF já confirma. O SIAB foi substituído pelo SISAB.",
+  "porAlt": [
+   "Errada: o TIG serve ao atraso menstrual recente; acima de 12 semanas o BCF já confirma a gravidez.",
+   "Errada: a consulta de enfermagem é privativa do enfermeiro (Lei 7.498/1986, art. 11, I, i).",
+   "Errada: o Processo de Enfermagem tem cinco etapas pela Res. 736/2024; histórico, diagnóstico e intervenções não o completam.",
+   "Errada: o SIAB foi substituído pelo SISAB, alimentado pelo e-SUS APS, no cadastro e acompanhamento da gestante.",
+   "Correta: histórico, exame físico-obstétrico, exames laboratoriais e imunização fazem parte da rotina."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro Obstetra/Saúde da Mulher",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma das técnicas padronizadas para o exame físico obstétrico é a detecção de edema realizando a compressão manual, por alguns segundos, nos seguintes locais:",
+  "alts": [
+   "região perimaleolar e face;",
+   "região pré-tibial e face;",
+   "região sacra e região perimaleolar;",
+   "membros superiores e tornozelos;",
+   "membros superiores e face."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 32, Atenção ao Pré-Natal de Baixo Risco (MS, 2012)",
+  "coment": "O Caderno de Atenção Básica 32 padroniza a pesquisa de edema na gestante. Na face e nos membros superiores, o edema é identificado pela inspeção. Nos membros inferiores, com a gestante sentada ou em decúbito dorsal, pressiona-se a pele por alguns segundos na região perimaleolar e na face anterior do terço médio da perna (pré-tibial); na região sacra, com a gestante em decúbito lateral ou sentada, pressiona-se com o polegar. A depressão que persiste indica edema. Como face e membros superiores são inspecionados, e não comprimidos, só a alternativa C traz dois locais de compressão.",
+  "porAlt": [
+   "Errada: a região perimaleolar é comprimida, mas a face é avaliada pela inspeção.",
+   "Errada: a região pré-tibial é comprimida, mas a face é avaliada pela inspeção.",
+   "Correta: região sacra e região perimaleolar são locais de compressão digital na pesquisa de edema.",
+   "Errada: os membros superiores são avaliados pela inspeção, não pela compressão manual.",
+   "Errada: membros superiores e face são inspecionados, e nenhum dos dois é comprimido na técnica."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro Obstetra/Saúde da Mulher",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Quando falamos de parto, a primeira coisa que vem à cabeça das pessoas é a dor e o medo da dor. A dor é algo que foi construído na vida das mulheres. As enfermeiras obstétricas que assistem as mulheres no momento do nascimento no dia a dia, utilizam como métodos não farmacológicos de alívio da dor:",
+  "alts": [
+   "o ambiente do pré-parto deve oferecer privacidade, luminosidade e aquecimento;",
+   "a restrição de movimento da mulher é necessária para o controle da dor;",
+   "oferecer um chuveiro com água fria para que a mulher tenha acesso à água;",
+   "não impedir sob nenhuma circunstância a entrada do acompanhante de escolha da mulher;",
+   "a massagem não deve ser oferecida, já que algumas mulheres não se sentem confortáveis ao receber."
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Lei 11.108/2005; Diretrizes Nacionais de Assistência ao Parto Normal (MS, 2017)",
+  "coment": "A Lei 11.108/2005 garante à parturiente acompanhante de sua escolha durante trabalho de parto, parto e pós-parto imediato no SUS, e o apoio contínuo reduz o uso de analgesia e melhora a experiência do parto (Diretrizes Nacionais de Assistência ao Parto Normal, 2017). As diretrizes recomendam também liberdade de movimento e de posição, banho morno, massagem e outras técnicas, oferecidas segundo a escolha da mulher. O ambiente que favorece o parto é privativo, calmo, aquecido e com pouca luz; a banca considerou errada a alternativa A por pedir luminosidade. Restringir movimento, oferecer água fria e negar massagem contrariam as recomendações.",
+  "porAlt": [
+   "Errada: o ambiente deve ser privativo e aquecido, mas com pouca luz, e não luminoso.",
+   "Errada: a liberdade de movimento e de posição alivia a dor; restringir piora o desconforto.",
+   "Errada: o chuveiro recomendado é de água morna, que relaxa a musculatura.",
+   "Correta: o acompanhante de escolha da mulher é garantido pela Lei 11.108/2005, e o apoio contínuo alivia a dor.",
+   "Errada: a massagem é recomendada e oferecida à mulher, que aceita ou recusa conforme seu conforto."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro Obstetra/Saúde da Mulher",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acolhimento e Classificação de Risco (A&CR) é uma das prioridades de investimento do componente Parto e Nascimento (Portaria nº 1.450 de 24 de junho de 2011, art. 7º, alínea II, inciso “e”). Sobre o tema é correto afirmar que:",
+  "alts": [
+   "o processo de acolhimento e classificação de risco é uma ação de caráter profissional e envolve profissionais médicos;",
+   "é necessário observar os sinais de alteração do nível de consciência/estado mental, respiração, ventilação, circulação, dor, sintomas gerais e fatores de risco;",
+   "os sinais de gravidade e risco iminente de morte são considerados urgentes dentro do fluxograma de decisões para o acolhimento;",
+   "o tempo para a classificação de risco não deverá ultrapassar 10 minutos;",
+   "no passo a passo para utilização do protocolo de acolhimento e classificação de risco em serviços de obstetrícia o registro não precisa ser realizado."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Manual de Acolhimento e Classificação de Risco em Obstetrícia (MS, 2014; reeditado em 2017)",
+  "coment": "O Manual de Acolhimento e Classificação de Risco em Obstetrícia (MS, 2014) organiza os fluxogramas por chaves de decisão: alteração do nível de consciência ou estado mental, respiração e ventilação, circulação, dor, sinais e sintomas gerais e fatores de risco. O processo é interdisciplinar, e sinais de risco iminente de morte são emergência (vermelho), com atendimento imediato. As metas são espera até a classificação menor que 10 minutos e duração média da classificação menor que 5 minutos, e o registro na ficha e no mapa é obrigatório. A portaria da Rede Cegonha é a 1.459/2011, hoje Rede Alyne (Portaria 5.350/2024); o enunciado mantém o número do caderno.",
+  "porAlt": [
+   "Errada: o manual define o A&CR como ação interdisciplinar, realizada em geral pela enfermagem.",
+   "Correta: consciência, respiração e ventilação, circulação, dor, sintomas gerais e fatores de risco são as chaves de decisão.",
+   "Errada: risco iminente de morte é emergência, classificação vermelha, com atendimento imediato.",
+   "Errada: a meta é classificação com duração média menor que 5 minutos; 10 minutos é o limite da espera até ela.",
+   "Errada: registrar a classificação na ficha de atendimento e no mapa do A&CR é atribuição prevista no manual."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro Obstetra/Saúde da Mulher",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando o cuidado pré-natal, assinale a alternativa correta:",
+  "alts": [
+   "na primeira consulta de pré-natal, o profissional deve solicitar, entre outros exames, a dosagem de hemoglobina e hematócrito, o grupo sanguíneo e o fator Rh, e a sorologia para a sífilis;",
+   "uma forma de calcular a data provável do parto é somar dez dias ao primeiro dia da última menstruação e subtrair três meses ao mês em que ocorreu a última menstruação;",
+   "a gestante com três doses ou mais da vacina dupla adulto, cuja última dose esteja dentro do prazo de 10 anos não precisa ser vacinada;",
+   "o agendamento das consultas de pré-natal é realizado mensalmente até o nascimento, quando ocorre a alta do pré-natal;",
+   "a realização da primeira ultrassonografia obstétrica é recomendada entre 20 e 24 semanas."
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 32 (MS, 2012); Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "Na primeira consulta de pré-natal solicitam-se, entre outros, hemograma, tipagem ABO e fator Rh (com Coombs indireto se Rh negativo), glicemia de jejum, sífilis, HIV, hepatites B e C, toxoplasmose e urina (CAB 32). Pela regra de Naegele, somam-se 7 dias ao primeiro dia da DUM e subtraem-se 3 meses. A dTpa é feita a partir da 20ª semana em toda gestação, mesmo com esquema completo de dT (IN do Calendário 2026). As consultas são mensais até 28 semanas, quinzenais de 28 a 36 e semanais depois, sem alta antes da consulta puerperal. A primeira ultrassonografia é pedida no primeiro trimestre.",
+  "porAlt": [
+   "Correta: hemoglobina e hematócrito, tipagem ABO-Rh e sífilis estão entre os exames da primeira consulta.",
+   "Errada: a regra de Naegele soma 7 dias, não 10, ao primeiro dia da última menstruação.",
+   "Errada: com dT em dia, a gestante ainda recebe 1 dose de dTpa a partir de 20 semanas em cada gestação.",
+   "Errada: as consultas ficam quinzenais de 28 a 36 semanas e semanais depois, e o cuidado segue no puerpério.",
+   "Errada: a primeira ultrassonografia é indicada no primeiro trimestre, que data a gestação com mais precisão."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro Obstetra/Saúde da Mulher",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No mundo inteiro, muitas mulheres sofrem abusos, desrespeito e maus-tratos durante o parto nas instituições de saúde. Tal tratamento não apenas viola os direitos das mulheres ao cuidado respeitoso, mas também ameaça o direito à vida, à saúde, à integridade física e à não-discriminação (OMS,2014). São categorias de desrespeito e abuso relacionados à assistência obstétrica:",
+  "alts": [
+   "oferecer informações completas e corretas sobre a situação de saúde no momento;",
+   "cuidado confidencial e privativo;",
+   "cuidado digno e respeitoso;",
+   "distinção no tratamento baseada em atributos físicos e sociais;",
+   "realizar intervenções com consentimento prévio."
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "OMS, Prevenção e eliminação de abusos, desrespeito e maus-tratos durante o parto em instituições de saúde (2014); Bowser e Hill (2010)",
+  "coment": "A declaração da OMS de 2014 sobre abusos, desrespeito e maus-tratos no parto apoia-se na revisão de Bowser e Hill (2010), que descreve sete categorias: abuso físico, cuidado não consentido, cuidado não confidencial, cuidado indigno (inclusive abuso verbal), discriminação baseada em atributos específicos, abandono ou negação de cuidado e detenção nas instalações. Distinguir o tratamento por cor, classe, idade, escolaridade ou outros atributos físicos e sociais é discriminação. As demais alternativas descrevem o oposto, o cuidado respeitoso: informação completa, confidencialidade, dignidade e intervenções com consentimento prévio.",
+  "porAlt": [
+   "Errada: dar informação completa e correta é direito da mulher e parte do cuidado respeitoso.",
+   "Errada: cuidado confidencial e privativo é o oposto do cuidado não confidencial, que é categoria de abuso.",
+   "Errada: cuidado digno e respeitoso é o objetivo; o cuidado indigno é que figura entre as categorias.",
+   "Correta: discriminação baseada em atributos físicos e sociais é categoria de desrespeito e abuso.",
+   "Errada: intervir com consentimento prévio é a prática correta; a categoria é o cuidado não consentido."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro Obstetra/Saúde da Mulher",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São práticas prejudiciais ou ineficazes, que não são recomendadas como rotina de assistência ao parto:",
+  "alts": [
+   "apoio contínuo durante o parto, incluindo o acompanhante;",
+   "indução do trabalho de parto sem indicação, utilizando ocitocina de rotina;",
+   "realização de cesarianas com indicação clínica;",
+   "oferecer métodos não farmacológicos de alívio da dor;",
+   "liberdade de movimentos."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes Nacionais de Assistência ao Parto Normal (MS, 2017); OMS, Assistência ao parto normal: um guia prático (1996)",
+  "coment": "A classificação de práticas da OMS (1996) separa as demonstradamente úteis, que devem ser estimuladas, das claramente prejudiciais ou ineficazes, que devem ser eliminadas, e das usadas de modo inadequado, como a ocitocina para corrigir a dinâmica. Induzir o parto sem indicação e infundir ocitocina de rotina aumentam taquissistolia, sofrimento fetal e cascata de intervenções. As Diretrizes Nacionais de Assistência ao Parto Normal (MS, 2017) recomendam apoio contínuo e acompanhante, métodos não farmacológicos de alívio da dor e liberdade de movimento, e a cesariana com indicação clínica é conduta adequada, não prática prejudicial.",
+  "porAlt": [
+   "Errada: o apoio contínuo e a presença do acompanhante são práticas recomendadas.",
+   "Correta: indução sem indicação e ocitocina de rotina são práticas ineficazes ou prejudiciais.",
+   "Errada: a cesariana com indicação clínica é necessária; o problema é a cesariana sem indicação.",
+   "Errada: os métodos não farmacológicos de alívio da dor são recomendados e devem ser oferecidos.",
+   "Errada: a liberdade de movimentos durante o trabalho de parto é prática recomendada."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro Obstetra/Saúde da Mulher",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na admissão da parturiente, durante o exame obstétrico, a enfermeira deve estar atenta às seguintes intercorrências:",
+  "alts": [
+   "sangramento vaginal, contração uterina rítmica e agitação psicomotora;",
+   "alteração da frequência cardíaca fetal, fome e sede;",
+   "hipertensão arterial, sangramento vaginal abundante e alteração da frequência cardíaca fetal;",
+   "sangramento vaginal abundante, presença de linha nigra e cloasma gravídico;",
+   "hipertensão arterial, contração uterina rítmica e respiração eupneica."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Manual de Acolhimento e Classificação de Risco em Obstetrícia (MS, 2014; reeditado em 2017)",
+  "coment": "Na admissão da parturiente, a enfermeira busca sinais que mudam a prioridade e a conduta: hipertensão arterial (pré-eclâmpsia, risco de eclâmpsia e de descolamento de placenta), sangramento vaginal abundante (placenta prévia, descolamento, rotura uterina) e alteração da frequência cardíaca fetal (sofrimento fetal). Esses achados são discriminadores nos fluxogramas do Manual de Acolhimento e Classificação de Risco em Obstetrícia. Contração uterina rítmica, respiração eupneica, fome, sede, linha nigra e cloasma são achados esperados do trabalho de parto ou da gestação, e não intercorrências.",
+  "porAlt": [
+   "Errada: o sangramento preocupa, mas a contração rítmica é própria do trabalho de parto e não é intercorrência.",
+   "Errada: a FCF alterada preocupa, mas fome e sede são queixas comuns e não intercorrências.",
+   "Correta: hipertensão, sangramento abundante e alteração da FCF são intercorrências que mudam a conduta.",
+   "Errada: linha nigra e cloasma são modificações fisiológicas da pele na gestação.",
+   "Errada: contração rítmica e respiração eupneica são achados esperados no trabalho de parto."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro Obstetra/Saúde da Mulher",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Quais estratégias podem ser utilizadas para integrar o trabalho da enfermagem com os médicos?",
+  "alts": [
+   "fomentar ações que permitam a formação interdisciplinar colaborando para que o trabalho multidisciplinar ocorra, desde os locais de assistência ao trabalho de parto e nascimento, bem como na atenção primária;",
+   "definir que a articulação entre a atenção obstétrica, a gestão e a formação aconteçam preferencialmente nos hospitais e unidade de saúde de ensino;",
+   "organização de encontros para discutir sobre a aplicação dos recursos financeiros na construção de novas maternidades;",
+   "definir regras rígidas para a inserção dos acompanhantes que fazem parte do cuidado das mulheres;",
+   "organizar a distribuição hierárquica de funções durante o atendimento à população, reorganizando o trabalho da equipe a partir da demanda médica."
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Política Nacional de Humanização (MS, 2003); Diretrizes Nacionais de Assistência ao Parto Normal (MS, 2017)",
+  "coment": "A integração entre enfermagem e medicina na atenção obstétrica depende de formação e de trabalho compartilhados, do pré-natal na atenção primária à sala de parto. A Política Nacional de Humanização (2003) tem como diretrizes a cogestão, a clínica ampliada e compartilhada e a valorização do trabalho em equipe, e as Diretrizes Nacionais de Assistência ao Parto Normal (2017) reconhecem a enfermeira obstétrica e a obstetriz na assistência ao parto de risco habitual, ao lado do médico. Hierarquizar funções pela demanda médica, restringir a articulação a hospitais de ensino ou criar regras rígidas para acompanhantes não integra as equipes.",
+  "porAlt": [
+   "Correta: a formação interdisciplinar favorece o trabalho conjunto da maternidade à atenção primária.",
+   "Errada: a articulação entre atenção, gestão e formação deve ocorrer em toda a rede, não só nos serviços de ensino.",
+   "Errada: discutir recursos para novas maternidades é tema de gestão e não integra o trabalho das equipes.",
+   "Errada: regras rígidas para acompanhantes contrariam a Lei 11.108/2005 e nada fazem pela integração.",
+   "Errada: organizar o trabalho a partir da demanda médica reforça a hierarquia, o oposto da integração."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura do Recife 2024, Enfermeiro Obstetra/Saúde da Mulher",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Constituição Federal 1988, a saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação. A afirmação está:",
+  "alts": [
+   "correta em consonância com a legislação vigente;",
+   "incorreta;",
+   "ausente de fundamentação legal;",
+   "parcialmente correta já que o acesso é universal e equitativo;",
+   "parcialmente correta, já que visa ações para a prevenção, proteção e promoção."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, art. 196",
+  "coment": "A afirmativa reproduz o art. 196 da Constituição Federal de 1988: a saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação. O texto constitucional usa 'igualitário', e não 'equitativo'; a equidade é princípio da organização do SUS, mas não está no artigo. A tríade do artigo é promoção, proteção e recuperação, e não prevenção, proteção e promoção.",
+  "porAlt": [
+   "Correta: o texto é a transcrição fiel do art. 196 da Constituição Federal de 1988.",
+   "Errada: a afirmativa é correta, pois reproduz o art. 196 da Constituição.",
+   "Errada: a fundamentação legal é o próprio art. 196 da Constituição Federal.",
+   "Errada: o art. 196 diz acesso universal e igualitário; equitativo não está no texto.",
+   "Errada: a tríade constitucional é promoção, proteção e recuperação, como está na afirmativa."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura de Joinville-SC 2024, Enfermeiro",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As instituições privadas poderão participar de forma complementar do sistema único de saúde, mediante contrato de direito público ou convênio, tendo preferência as entidades:",
+  "alts": [
+   "educacionais e as entidades com fins lucrativos;",
+   "filantrópicas e as sem fins lucrativos;",
+   "filantrópicas e as com fins lucrativos;",
+   "multinacionais e as entidades filantrópicas;",
+   "educacionais e multinacionais."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, art. 199, § 1º; Lei 8.080/1990, art. 25",
+  "coment": "O art. 199 da Constituição permite a assistência à saúde pela iniciativa privada e, no § 1º, diz que as instituições privadas podem participar de forma complementar do SUS, segundo diretrizes deste, mediante contrato de direito público ou convênio, com preferência para as entidades filantrópicas e as sem fins lucrativos. A Lei 8.080/1990 repete a preferência no art. 25. O § 2º veda recursos públicos para auxílios ou subvenções a instituições privadas com fins lucrativos, e o § 3º veda a participação direta ou indireta de empresas ou capitais estrangeiros, salvo nos casos previstos em lei.",
+  "porAlt": [
+   "Errada: entidades com fins lucrativos podem participar, mas não têm preferência.",
+   "Correta: o art. 199, § 1º, dá preferência às entidades filantrópicas e às sem fins lucrativos.",
+   "Errada: a filantrópica tem preferência, mas a entidade com fins lucrativos não.",
+   "Errada: empresas e capitais estrangeiros têm participação vedada, salvo nos casos previstos em lei.",
+   "Errada: nem educacionais nem multinacionais têm preferência; estas últimas sofrem restrição constitucional."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura de Joinville-SC 2024, Enfermeiro",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A lei nº 8.080 de 1990 garante que a saúde é um direito _____________________ do ser humano, devendo o Estado prover as condições indispensáveis ao seu pleno exercício. A lacuna é corretamente preenchida por:",
+  "alts": [
+   "indispensável;",
+   "imprescindível;",
+   "humano;",
+   "fundamental;",
+   "imperativo."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 2º",
+  "coment": "O art. 2º da Lei 8.080/1990 abre a lei afirmando que a saúde é um direito fundamental do ser humano, devendo o Estado prover as condições indispensáveis ao seu pleno exercício. O § 1º detalha esse dever, com políticas econômicas e sociais que reduzam riscos e acesso universal e igualitário, e o § 2º esclarece que o dever do Estado não exclui o das pessoas, da família, das empresas e da sociedade. A palavra 'indispensáveis' aparece na mesma frase, mas qualificando as condições, e não o direito; daí a pegadinha da alternativa A.",
+  "porAlt": [
+   "Errada: 'indispensáveis' qualifica as condições que o Estado deve prover, não o direito à saúde.",
+   "Errada: 'imprescindível' não consta do art. 2º da Lei 8.080/1990.",
+   "Errada: 'direito humano do ser humano' seria redundante; o texto legal diz direito fundamental.",
+   "Correta: o art. 2º diz que a saúde é um direito fundamental do ser humano.",
+   "Errada: 'imperativo' não aparece no art. 2º da Lei 8.080/1990."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "Prefeitura de Joinville-SC 2024, Enfermeiro",
+   "n": 33,
+   "parte": "especificas"
+  }
+ }
+]

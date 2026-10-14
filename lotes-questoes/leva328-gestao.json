@@ -1,0 +1,877 @@
+[
+ {
+  "q": "Uma clínica médica de 30 leitos tem taxa de ocupação média de 80%. A classificação pelo SCP de Fugulin, referida aos 30 leitos, mostrou 10 pacientes de cuidados mínimos, 15 de cuidados intermediários e 5 de alta dependência. A equipe cumpre 36 horas semanais. Pelo Parecer Normativo COFEN 1/2024, com IST de 15%, qual é o quadro de pessoal de enfermagem?",
+  "alts": [
+   "32 profissionais, sendo 11 enfermeiros",
+   "40 profissionais, sendo 13 enfermeiros",
+   "28 profissionais, sendo 9 enfermeiros",
+   "32 profissionais, sendo 12 enfermeiros",
+   "39 profissionais, sendo 13 enfermeiros"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Parecer Normativo COFEN 1/2024 (parâmetros para o planejamento da força de trabalho da Enfermagem), itens 1.1, 2.8 e 3.0 e Anexo II",
+  "coment": "Pelo Parecer Normativo COFEN 1/2024, aplica-se primeiro a taxa de ocupação ao número de pacientes, como no Anexo II: 10 x 0,8 = 8; 15 x 0,8 = 12; 5 x 0,8 = 4. O total de horas de enfermagem (item 2.8) é 8 x 4 + 12 x 6 + 4 x 10 = 32 + 72 + 40 = 144 horas. QP = 144 x 7 x 1,15 ÷ 36 = 32,2, ou 32 profissionais. O percentual de enfermeiros segue o grupo de maior carga de trabalho, e não o mais grave: os intermediários somam 72 horas, logo valem 33% (item 3.0). 32 x 0,33 = 10,56, ou 11 enfermeiros, e 21 técnicos e/ou auxiliares.",
+  "porAlt": [
+   "Correta: THE de 144 h, QP de 32,2 e 33% pelo grupo intermediário, o de maior carga.",
+   "Errada: 40 é o resultado sem aplicar a taxa de ocupação de 80% aos pacientes.",
+   "Errada: 28 sai da conta sem o IST de 15%, que o item 1.1 exige como mínimo.",
+   "Errada: 36% é da alta dependência, que soma só 40 h e não é o grupo de maior carga.",
+   "Errada: 39 corresponde à carga semanal de 30 horas, e não às 36 horas do contrato."
+  ]
+ },
+ {
+  "q": "Uma unidade de internação com ocupação de 100% registra, na média das classificações diárias, 14 pacientes de cuidados mínimos, 6 de alta dependência e 2 semi-intensivos. A carga horária semanal é de 30 horas. A coordenação aplicou 33% de enfermeiros porque o cuidado mínimo é o grupo mais numeroso. Pelo Parecer Normativo COFEN 1/2024, qual é o quadro correto?",
+  "alts": [
+   "36 profissionais, sendo 12 enfermeiros",
+   "36 profissionais, sendo 13 enfermeiros",
+   "36 profissionais, sendo 15 enfermeiros",
+   "32 profissionais, sendo 12 enfermeiros",
+   "26 profissionais, sendo 9 enfermeiros"
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "tit",
+  "base": "Parecer Normativo COFEN 1/2024 (parâmetros para o planejamento da força de trabalho da Enfermagem), itens 2.8, 2.9 e 3.0",
+  "coment": "Os pacientes já estão referidos à ocupação de 100%. THE = 14 x 4 + 6 x 10 + 2 x 10 = 56 + 60 + 20 = 136 horas. QP = 136 x 7 x 1,15 ÷ 30 = 36,49, ou 36. O item 3.0 do Parecer Normativo COFEN 1/2024 manda seguir o tipo de cuidado cujo grupo apresentar a maior carga de trabalho, que é número de pacientes vezes horas. O grupo de alta dependência soma 60 horas, mais que as 56 do cuidado mínimo, embora tenha menos pacientes. Vale 36%: 36 x 0,36 = 12,96, ou 13 enfermeiros, e 23 técnicos e/ou auxiliares. O erro da coordenação foi contar pacientes, e não horas.",
+  "porAlt": [
+   "Errada: aplica 33% pelo grupo mais numeroso, critério que o parecer não adota.",
+   "Correta: QP de 36,49 e 36% de enfermeiros, porque a alta dependência soma 60 horas.",
+   "Errada: 42% é do semi-intensivo, grupo de apenas 20 horas de carga na unidade.",
+   "Errada: 32 é o quadro calculado sem o índice de segurança técnica de 15%.",
+   "Errada: 26 sai da conta com 5 dias, mas a internação funciona os 7 dias da semana."
+  ]
+ },
+ {
+  "q": "Um alojamento conjunto tem 20 leitos, todos ocupados. Na classificação do dia, a enfermeira registrou 12 binômios mãe e filho como de cuidados mínimos e 8 como intermediários. A equipe cumpre 36 horas semanais. Ao revisar o dimensionamento pelo Parecer Normativo COFEN 1/2024, com IST de 15%, a responsável técnica deve chegar a qual quadro?",
+  "alts": [
+   "21 profissionais, sendo 7 enfermeiros",
+   "23 profissionais, sendo 8 enfermeiros",
+   "27 profissionais, sendo 9 enfermeiros",
+   "27 profissionais, sendo 10 enfermeiros",
+   "32 profissionais, sendo 11 enfermeiros"
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Parecer Normativo COFEN 1/2024 (parâmetros para o planejamento da força de trabalho da Enfermagem), itens 2.8 e 3.0 (piso do alojamento conjunto)",
+  "coment": "O Parecer Normativo COFEN 1/2024 determina que, no alojamento conjunto, o binômio mãe e filho seja classificado no mínimo como cuidado intermediário. Os 12 binômios registrados como mínimos passam a intermediários, e os 20 valem 6 horas cada: THE = 20 x 6 = 120 horas. QP = 120 x 7 x 1,15 ÷ 36 = 26,83, ou 27 profissionais. No cuidado intermediário, 33% são enfermeiros, garantindo ao menos 1 por turno: 27 x 0,33 = 8,91, ou 9 enfermeiros, e 18 técnicos e/ou auxiliares. Aceitar a classificação como foi feita daria 96 horas e 21 profissionais, um quadro abaixo do piso.",
+  "porAlt": [
+   "Errada: aceita os binômios como cuidado mínimo, abaixo do piso fixado pelo parecer.",
+   "Errada: 23 é o quadro sem o IST de 15%, que o parecer exige como mínimo.",
+   "Correta: com o piso intermediário, THE de 120 h, QP de 26,83 e 33% de enfermeiros.",
+   "Errada: 36% é da alta dependência, tipo de cuidado que não se aplica aos binômios.",
+   "Errada: 32 corresponde à carga semanal de 30 horas, e não às 36 horas do contrato."
+  ]
+ },
+ {
+  "q": "Um hospital geral tem 420 profissionais de enfermagem, quadro já calculado unidade por unidade com IST de 15%. O enfermeiro responsável técnico vai apresentar o planejamento de enfermagem e quer garantir a participação da equipe em atividades de educação permanente sem desfalcar as escalas. Pelo Parecer Normativo COFEN 1/2024, qual é o acréscimo mínimo ao quadro geral?",
+  "alts": [
+   "42 profissionais, ou 10% do quadro geral",
+   "63 profissionais, ou 15% do quadro geral",
+   "35 profissionais, ou 8,3% do quadro geral",
+   "21 profissionais, ou 5% do quadro geral",
+   "28 profissionais, ou 6,7% do quadro geral"
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "ger",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Parecer Normativo COFEN 1/2024 (parâmetros para o planejamento da força de trabalho da Enfermagem), itens 1.1, 1.2 e 1.5",
+  "coment": "O item 1.2 do Parecer Normativo COFEN 1/2024 determina que o responsável técnico acresça ao quadro geral de profissionais de enfermagem da instituição o mínimo de 5% para a participação em atividades de educação permanente, incluindo a cobertura de situações de rotatividade de pessoal. Com 420 profissionais, 420 x 0,05 = 21. Esse acréscimo é diferente do IST de 15% (item 1.1), que entra no cálculo de cada unidade e se divide em 8,3% para férias e 6,7% para ausências não previstas. Os 10% do item 1.5 valem só para o setor com 30% ou mais de profissionais com restrição.",
+  "porAlt": [
+   "Errada: 10% é o acréscimo do setor com 30% ou mais de profissionais com restrição.",
+   "Errada: 15% é o IST, já embutido no cálculo de cada unidade, e não para educação.",
+   "Errada: 8,3% é a parcela do IST destinada a férias, e não à educação permanente.",
+   "Correta: o item 1.2 manda acrescer no mínimo 5% para educação permanente.",
+   "Errada: 6,7% é a parcela do IST para ausências não previstas, e não para educação."
+  ]
+ },
+ {
+  "q": "Na revisão do dimensionamento de uma enfermaria cirúrgica, a coordenadora soma ao total de horas do SCP o tempo do enfermeiro chefe da unidade e o da enfermeira que integra a comissão de controle de infecção hospitalar. Segundo o Parecer Normativo COFEN 1/2024, como esses enfermeiros devem entrar no planejamento do quadro?",
+  "alts": [
+   "Incluídos no total de horas do SCP, como cuidado indireto da unidade",
+   "Excluídos do cálculo, pois o parecer só dimensiona a assistência",
+   "Cobertos pelos 5% do quadro geral reservados à educação permanente",
+   "Incluídos nos 33% de enfermeiros da unidade de internação",
+   "Dimensionados à parte, conforme a necessidade, acrescidos do IST"
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Parecer Normativo COFEN 1/2024 (parâmetros para o planejamento da força de trabalho da Enfermagem), itens 1.2 e 1.3",
+  "coment": "O item 1.3 do Parecer Normativo COFEN 1/2024 determina que o quantitativo de enfermeiros para atividades gerenciais, incluindo responsabilidade técnica e coordenações, e para atividades educacionais, de pesquisa e de comissões permanentes seja dimensionado à parte, de acordo com a necessidade e a estrutura do serviço, acrescido do IST. O total de horas do SCP mede o cuidado aos pacientes da unidade (itens 2.2 e 2.9) e não deve absorver a chefia nem as comissões. Os 5% do item 1.2 se destinam à educação permanente e à rotatividade, e não à gerência.",
+  "porAlt": [
+   "Errada: o SCP mede a carga de cuidado aos pacientes, e não as funções gerenciais.",
+   "Errada: o parecer prevê o dimensionamento desses enfermeiros, apenas em separado.",
+   "Errada: os 5% do item 1.2 cobrem educação permanente e rotatividade da equipe.",
+   "Errada: os 33% são enfermeiros da assistência; chefia e comissões ficam à parte.",
+   "Correta: o item 1.3 manda dimensionar gerência e comissões à parte, com o IST."
+  ]
+ },
+ {
+  "q": "O pronto-socorro de um hospital regional atende demanda espontânea, com salas de classificação de risco, medicação, sutura e observação. A gerente de enfermagem pretende aplicar o SCP de Fugulin para dimensionar a equipe, como já faz nas enfermarias. Pelo Parecer Normativo COFEN 1/2024, qual método é o indicado para essa unidade?",
+  "alts": [
+   "Sítio funcional e espelho semanal padrão, com série histórica de 4 a 6 semanas",
+   "SCP de Fugulin nos pacientes em observação, com taxa de ocupação de 100%",
+   "Horas por cirurgia segundo o porte, como no centro cirúrgico do parecer",
+   "Método WISN, com base na produção registrada no e-Gestor da unidade",
+   "SCP de Perroca, validado para adultos de clínica médica e cirúrgica"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Parecer Normativo COFEN 1/2024 (parâmetros para o planejamento da força de trabalho da Enfermagem), itens 4 a 4.5 (unidades assistenciais especiais)",
+  "coment": "O pronto-socorro é unidade assistencial especial no Parecer Normativo COFEN 1/2024 (item 4): local onde não é possível aplicar o método baseado no SCP e não há estudos de horas de intervenção, ao lado da UPA, do centro obstétrico, do ambulatório e do hemocentro. Usa-se o sítio funcional, que considera a atividade, a área operacional e a carga semanal (item 4.1), e o espelho semanal padrão, distribuição das áreas operacionais por dia, turno e categoria (item 4.2), com série histórica de 4 a 6 semanas e IST mínimo de 15%. O WISN é o método da atenção primária.",
+  "porAlt": [
+   "Correta: o PS é unidade especial, dimensionada por sítio funcional e espelho semanal.",
+   "Errada: o parecer afasta o SCP nas unidades especiais, como o pronto-socorro.",
+   "Errada: as horas por porte valem para as cirurgias eletivas do centro cirúrgico.",
+   "Errada: o WISN adaptado é o método da atenção primária, com dados do e-Gestor.",
+   "Errada: Perroca classifica adultos internados, e não a demanda de pronto-socorro."
+  ]
+ },
+ {
+  "q": "No centro cirúrgico de um hospital de ensino, a enfermeira coordenadora revisa o dimensionamento das salas eletivas. Uma gastrectomia programada dura, em média, 5 horas. Pelo Parecer Normativo COFEN 1/2024, quantas horas de enfermagem devem ser consideradas por cirurgia desse porte, somados o preparo da sala e o tempo de espera?",
+  "alts": [
+   "5,7 horas",
+   "5,6 horas",
+   "5,4 horas",
+   "3,6 horas",
+   "9,1 horas"
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "cc",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Parecer Normativo COFEN 1/2024 (parâmetros para o planejamento da força de trabalho da Enfermagem), item 7 (centro cirúrgico, estudos de Possari)",
+  "coment": "O Parecer Normativo COFEN 1/2024, com base nos estudos de Possari, classifica a cirurgia pelo tempo de duração: o porte 3 vai de 4 a 6 horas, e a gastrectomia de 5 horas se enquadra aí. As horas de enfermagem por cirurgia eletiva são 1,4 (porte 1), 2,9 (porte 2), 4,9 (porte 3) e 8,4 (porte 4). Somam-se 0,5 hora de organização da sala nas eletivas (0,6 na urgência) e 0,2 hora de espera entre cirurgias: 4,9 + 0,5 + 0,2 = 5,6 horas, o mesmo H3 do exemplo do parecer. Para as cirurgias de urgência e emergência, o parecer manda usar o espelho semanal padrão.",
+  "porAlt": [
+   "Errada: usa 0,6 h de preparo, tempo que o parecer reserva às cirurgias de urgência.",
+   "Correta: o porte 3 soma 4,9 h de assistência, 0,5 h de preparo e 0,2 h de espera.",
+   "Errada: soma o preparo da sala, mas esquece 0,2 h de espera entre as cirurgias.",
+   "Errada: 3,6 h é o tempo total do porte 2, de cirurgias entre 2 e 4 horas.",
+   "Errada: 9,1 h é o tempo total do porte 4, de cirurgias com mais de 6 horas."
+  ]
+ },
+ {
+  "q": "Uma clínica de hemodiálise que reprocessa dialisadores funciona em dois turnos, de segunda a sábado. O novo responsável técnico revisa o quadro de enfermagem pelo Parecer Normativo COFEN 1/2024 antes de renovar a Anotação de Responsabilidade Técnica. Qual combinação de parâmetros corresponde ao parecer para esse serviço?",
+  "alts": [
+   "4 h por paciente e sessão, 33% de enfermeiros e reprocessamento pela equipe da sala",
+   "3,31 h por paciente, 80% das horas do enfermeiro e coordenação por qualquer enfermeiro",
+   "4 h por paciente e sessão, 25% de enfermeiros e 1 técnico por turno no reprocessamento",
+   "6 h por paciente e sessão, 25% de enfermeiros e reprocessamento feito pelo auxiliar",
+   "10 h por paciente, como na alta dependência, com 36% de enfermeiros na escala"
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "Parecer Normativo COFEN 1/2024 (parâmetros para o planejamento da força de trabalho da Enfermagem), item 8 (serviços de hemodiálise, estudos de Lima)",
+  "coment": "Para hemodiálise, o Parecer Normativo COFEN 1/2024 (item 8, com base em Lima) fixa 4 horas de assistência de enfermagem por paciente por sessão; proporção mínima de 25% de enfermeiros e 75% de técnicos de enfermagem, percentual que se aplica à assistência direta; 1 enfermeiro especialista em nefrologia exclusivo para a coordenação; e, onde há reprocessamento, 1 técnico de enfermagem escalado por turno para reprocessar dialisadores e linhas, acrescido ao quadro total. As 3,31 horas, com 80% do enfermeiro, são do ambulatório de oncologia e hematologia. A diálise peritoneal usa o espelho semanal padrão.",
+  "porAlt": [
+   "Errada: 33% é do cuidado mínimo e intermediário; o reprocessamento tem técnico próprio.",
+   "Errada: 3,31 h e 80% são do ambulatório de oncologia; a coordenação exige nefrologista.",
+   "Correta: são os parâmetros do item 8, com o técnico do reprocessamento acrescido.",
+   "Errada: a sessão vale 4 h, e o reprocessamento cabe a técnico de enfermagem escalado.",
+   "Errada: a hemodiálise não usa o SCP de internação, e sim parâmetros próprios por sessão."
+  ]
+ },
+ {
+  "q": "A enfermeira gerente de uma clínica cirúrgica precisa implantar o novo protocolo de prevenção de quedas. Uma enfermeira assistencial da unidade tem dez anos de experiência, domina o tema, participou da elaboração do protocolo e se ofereceu para conduzir a implantação. Pela liderança situacional de Hersey e Blanchard, qual estilo a gerente deve adotar com ela?",
+  "alts": [
+   "Determinar, com muita orientação de tarefa e pouco apoio",
+   "Persuadir, com muita orientação de tarefa e muito apoio",
+   "Compartilhar, com pouca orientação de tarefa e muito apoio",
+   "Delegar, com pouca orientação de tarefa e pouco apoio",
+   "Autocrático, centralizando as decisões da implantação"
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Lei 7.498/1986, art. 11, I (direção, organização e planejamento dos serviços de enfermagem); liderança situacional de Hersey e Blanchard",
+  "coment": "Na liderança situacional de Hersey e Blanchard não há estilo melhor em abstrato: o líder ajusta o comportamento à maturidade do liderado para aquela tarefa, que combina competência e disposição. A enfermeira sabe fazer (domina o tema e elaborou o protocolo) e está disposta (ofereceu-se), o que corresponde à maturidade M4. O estilo indicado é E4, delegar: pouca orientação de tarefa e pouco comportamento de relacionamento, transferindo a responsabilidade pela implantação. Determinar serve a M1, persuadir a M2 e compartilhar a M3. Gerenciar o serviço de enfermagem é atividade privativa do enfermeiro (Lei 7.498/1986, art. 11, I).",
+  "porAlt": [
+   "Errada: determinar (E1) serve a quem não sabe e não está disposto ou seguro (M1).",
+   "Errada: persuadir (E2) serve a quem está disposto, mas ainda não domina a tarefa (M2).",
+   "Errada: compartilhar (E3) serve a quem sabe, mas está inseguro ou pouco motivado (M3).",
+   "Correta: liderada competente e disposta está em M4, que pede o estilo delegar (E4).",
+   "Errada: centralizar desperdiça a maturidade da liderada e é estilo de Lewin, não de Hersey."
+  ]
+ },
+ {
+  "q": "Recém-nomeada coordenadora de uma enfermaria de clínica médica, a enfermeira deixou a equipe, formada havia dois meses, decidir sozinha a escala, a divisão de pacientes e a rotina de banho, sem participar nem orientar. Após um mês, há trocas de plantão sem cobertura e tarefas duplicadas. Pela classificação de Lewin, que estilo de liderança ela exerceu?",
+  "alts": [
+   "Democrático, que decide com o grupo e é o mais adequado ao cotidiano",
+   "Autocrático, que centraliza as decisões e reduz a iniciativa da equipe",
+   "Situacional, que ajusta o estilo à maturidade de cada liderado",
+   "Transformacional, que inspira o grupo e muda os valores da equipe",
+   "Liberal, que só funciona com equipe muito madura e tende a desorganizar"
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Lei 7.498/1986, art. 11, I (direção, organização e planejamento dos serviços de enfermagem); estilos de liderança de Lewin",
+  "coment": "Kurt Lewin descreveu três estilos clássicos. No liberal (laissez-faire), o líder deixa o grupo decidir sozinho, sem participar nem orientar; só funciona com equipe muito madura e tende a desorganizar o trabalho, como mostram as trocas sem cobertura e as tarefas duplicadas numa equipe recém-formada. No democrático ou participativo, a decisão é tomada com o grupo, com o líder presente, e é o estilo em geral apontado como adequado ao cotidiano. O autocrático centraliza a decisão e funciona na emergência, mas gera dependência. Situacional e transformacional pertencem a outros modelos de liderança.",
+  "porAlt": [
+   "Errada: no democrático o líder decide com o grupo, e ela se absteve de participar.",
+   "Errada: autocrático é quem centraliza as decisões, o oposto do que ela fez.",
+   "Errada: a liderança situacional é de Hersey e Blanchard, e não um estilo de Lewin.",
+   "Errada: transformacional pressupõe líder ativo, que inspira e desenvolve o grupo.",
+   "Correta: deixar o grupo decidir sem orientar é o estilo liberal, que desorganiza a equipe."
+  ]
+ },
+ {
+  "q": "Duas enfermeiras de uma UTI discordam sobre a escala de folgas de fim de ano: uma prioriza quem trabalhou no Natal anterior, a outra quer sorteio. O assunto é importante para toda a equipe, ninguém está em risco e faltam três semanas para a publicação. Pelo modelo de Thomas e Kilmann, qual modo de lidar com o conflito a gerente deve buscar?",
+  "alts": [
+   "Colaborar, construindo solução que atenda às duas posições",
+   "Competir, impondo a regra da gerência para encerrar a disputa",
+   "Evitar, adiando a escala até que os ânimos se acalmem",
+   "Acomodar, cedendo à enfermeira com mais tempo de serviço",
+   "Comprometer, dividindo as folgas pela metade entre as propostas"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Lei 7.498/1986, art. 11, I (direção, organização e planejamento dos serviços de enfermagem); modos de gestão de conflitos de Thomas e Kilmann",
+  "coment": "O modelo de Thomas e Kilmann descreve cinco modos de lidar com o conflito, combinando assertividade e cooperação: competir, acomodar, evitar, comprometer (negociar, em que cada lado cede parte) e colaborar. Colaborar busca uma solução que atenda aos interesses de ambos e é o modo mais desejável quando o assunto é importante e há tempo para construir o acordo, como nas três semanas até a escala. Competir cabe à decisão urgente de segurança; evitar, quando falta informação ou os ânimos estão altos; acomodar, quando a questão importa mais ao outro; comprometer satisfaz as partes só em parte.",
+  "porAlt": [
+   "Correta: assunto importante e tempo disponível pedem colaboração, que atende a ambas.",
+   "Errada: impor a decisão cabe à urgência de segurança, ausente neste caso.",
+   "Errada: adiar serve quando falta informação, e aqui só posterga a escala.",
+   "Errada: ceder a uma parte ignora o interesse da outra em assunto que afeta todos.",
+   "Errada: dividir pela metade é negociação parcial, quando há tempo para colaborar."
+  ]
+ },
+ {
+  "q": "Em um hospital público, a direção reajustou salários e climatizou o posto de enfermagem, mas a pesquisa interna mostrou que a equipe da maternidade continuava desmotivada. A gerente de enfermagem quer agir sobre a motivação segundo a teoria dos dois fatores de Herzberg. Qual medida atua sobre os fatores motivacionais?",
+  "alts": [
+   "Rever a política de benefícios e o plano de cargos e salários da equipe",
+   "Dar às técnicas responsabilidade por projetos e reconhecer os resultados",
+   "Melhorar a iluminação, o mobiliário e o conforto da sala de descanso",
+   "Intensificar a supervisão direta para corrigir as falhas da rotina",
+   "Reformular o regimento interno e as normas de conduta do serviço"
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Lei 7.498/1986, art. 11, I (direção, organização e planejamento dos serviços de enfermagem); teoria dos dois fatores de Herzberg",
+  "coment": "Na teoria dos dois fatores de Herzberg, os fatores higiênicos (salário, condições físicas, supervisão, política da empresa) evitam a insatisfação, mas não motivam. Por isso o reajuste e a climatização não mudaram o ânimo da equipe. Os fatores motivacionais estão no conteúdo do próprio trabalho: reconhecimento, responsabilidade, crescimento e o trabalho em si. Delegar responsabilidade por projetos e reconhecer os resultados atua sobre eles. Benefícios, conforto ambiental, supervisão e normas são fatores higiênicos e, mesmo bem cuidados, apenas impedem a insatisfação.",
+  "porAlt": [
+   "Errada: salário e benefícios são fatores higiênicos, que só evitam a insatisfação.",
+   "Correta: responsabilidade e reconhecimento são fatores motivacionais de Herzberg.",
+   "Errada: condições físicas de trabalho são fator higiênico, sem efeito motivador.",
+   "Errada: a supervisão consta entre os fatores higiênicos, que não produzem motivação.",
+   "Errada: as políticas e normas da organização pertencem aos fatores higiênicos."
+  ]
+ },
+ {
+  "q": "Numa enfermaria de 28 leitos, o enfermeiro distribui o trabalho do turno assim: uma técnica verifica os sinais vitais de todos os pacientes, outra administra todas as medicações e uma terceira faz todos os curativos. Cada paciente é atendido por várias pessoas, e nenhuma responde pelo seu cuidado como um todo. Esse arranjo corresponde a qual modelo de assistência?",
+  "alts": [
+   "Integral, em que uma pessoa assume todos os cuidados do grupo",
+   "Cuidado em equipe, liderado pelo enfermeiro para um grupo",
+   "Funcional, herdeiro da administração científica de Taylor",
+   "Enfermeiro de referência, responsável da admissão à alta",
+   "Relações humanas, centrado nos grupos informais de Mayo"
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Lei 7.498/1986, art. 11, I (direção, organização e planejamento dos serviços de enfermagem); modelos de assistência e administração científica de Taylor",
+  "coment": "No modelo funcional, o trabalho se divide por tarefa: um faz sinais vitais, outro medicação, outro curativo. Deriva da administração científica de Taylor, com divisão do trabalho, padronização e estudo de tempos e movimentos. É eficiente para rotinas, mas fragmenta o cuidado e dilui a responsabilidade, porque o paciente passa por muitas mãos. No cuidado integral, um profissional assume todos os cuidados de um grupo de pacientes no turno; no cuidado em equipe, um enfermeiro lidera pequena equipe responsável por um grupo; no enfermeiro de referência, um enfermeiro responde pelo plano da admissão à alta.",
+  "porAlt": [
+   "Errada: no cuidado integral, uma pessoa faz todos os cuidados de seus pacientes.",
+   "Errada: no cuidado em equipe, o grupo responde junto por um conjunto de pacientes.",
+   "Correta: a divisão por tarefa é o modelo funcional, inspirado na administração científica.",
+   "Errada: no enfermeiro de referência, um enfermeiro responde pelo plano do paciente.",
+   "Errada: relações humanas é escola administrativa de Mayo, e não modelo de assistência."
+  ]
+ },
+ {
+  "q": "A gerência de enfermagem de um hospital passou a monitorar, todo mês, o percentual de pacientes adultos que tiveram o risco de queda avaliado em até 24 horas da admissão, como determina o protocolo institucional. Na tríade de Donabedian, esse indicador avalia qual dimensão da qualidade do cuidado?",
+  "alts": [
+   "Estrutura, porque depende do número de profissionais da unidade",
+   "Resultado, porque se relaciona à ocorrência de quedas na unidade",
+   "Estrutura, porque o protocolo é uma norma escrita da instituição",
+   "Processo, porque mede a adesão da equipe ao que deve ser feito",
+   "Resultado, porque é expresso em percentual de pacientes avaliados"
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Donabedian A. The quality of care: how can it be assessed? JAMA, 1988; Portaria GM/MS 529/2013 (PNSP)",
+  "coment": "Donabedian propôs avaliar a qualidade em três dimensões. Estrutura é o que existe para cuidar: área física, equipamentos, número e qualificação de profissionais, normas. Processo é o que se faz: adesão ao protocolo, registro da classificação de risco, higiene das mãos. Resultado é o efeito no paciente: taxa de quedas, lesão por pressão, infecção. Avaliar o risco de queda na admissão é uma ação prevista no protocolo, e o percentual de pacientes avaliados mede a adesão da equipe a essa ação, logo é indicador de processo. A taxa de quedas seria o resultado; o protocolo escrito e o quadro de pessoal, a estrutura.",
+  "porAlt": [
+   "Errada: quadro de pessoal é estrutura, mas o indicador mede uma ação realizada.",
+   "Errada: o resultado seria a taxa de quedas, efeito no paciente, e não a avaliação.",
+   "Errada: a norma escrita é estrutura, mas aqui se mede o seu cumprimento pela equipe.",
+   "Correta: medir a adesão a uma ação do protocolo é avaliar o processo de cuidado.",
+   "Errada: a forma de expressão em percentual não define a dimensão do indicador."
+  ]
+ },
+ {
+  "q": "Em março, a clínica médica de um hospital universitário registrou 6 quedas de pacientes. No mesmo mês, a unidade somou 2.400 pacientes-dia. A enfermeira do núcleo de qualidade vai calcular o indicador conforme a ficha técnica do hospital, que expressa a taxa por 1.000 pacientes-dia. Qual é o valor da taxa de quedas no mês?",
+  "alts": [
+   "0,25 queda por 1.000 pacientes-dia",
+   "25 quedas por 1.000 pacientes-dia",
+   "2,5% dos pacientes internados no mês",
+   "6 quedas por 1.000 pacientes-dia",
+   "2,5 quedas por 1.000 pacientes-dia"
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 529/2013 (PNSP, protocolo de prevenção de quedas); taxa de quedas por 1.000 pacientes-dia",
+  "coment": "Indicadores de qualidade da assistência de enfermagem se expressam como taxas, com numerador, denominador, fonte, periodicidade e meta definidos. A taxa de quedas é o número de quedas dividido pelo número de pacientes-dia, multiplicado por 1.000: 6 ÷ 2.400 x 1.000 = 2,5 quedas por 1.000 pacientes-dia. Pacientes-dia não é o número de pacientes internados, e sim a soma diária dos pacientes presentes na unidade no período; por isso o resultado não pode ser lido como percentual de pacientes. A taxa de quedas é indicador de resultado na tríade de Donabedian.",
+  "porAlt": [
+   "Errada: 0,25 sai da multiplicação por 100, e não por 1.000 pacientes-dia.",
+   "Errada: 25 sai da multiplicação por 10.000, fator que a ficha técnica não usa.",
+   "Errada: pacientes-dia não equivale ao número de pacientes internados no mês.",
+   "Errada: 6 é o número absoluto de quedas, sem considerar o denominador.",
+   "Correta: 6 dividido por 2.400 e multiplicado por 1.000 resulta em 2,5."
+  ]
+ },
+ {
+  "q": "Para reduzir flebites, a equipe de uma enfermaria definiu meta, treinou os técnicos no cuidado com o cateter periférico e aplicou o novo fluxo por dois meses em metade dos leitos. Agora a enfermeira compara a taxa de flebite do período com a meta estabelecida. No ciclo PDCA, essa comparação corresponde a qual etapa?",
+  "alts": [
+   "C, de checar, que confronta o indicador com a meta",
+   "P, de planejar, que define a meta e o plano de ação",
+   "D, de executar, que aplica o plano em escala piloto",
+   "A, de agir, que padroniza ou corrige o que foi feito",
+   "P, de planejar, que analisa as causas do problema"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Lei 7.498/1986, art. 11, I (direção, organização e planejamento dos serviços de enfermagem); ciclo PDCA de melhoria contínua (Shewhart e Deming)",
+  "coment": "O ciclo PDCA, de Shewhart, difundido por Deming, organiza a melhoria contínua em quatro etapas. Em P (planejar), mede-se o problema, analisam-se as causas e definem-se meta, prazo e plano de ação. Em D (executar), treina-se a equipe e aplica-se o plano, de preferência em escala piloto, como nos leitos escolhidos. Em C (checar), compara-se o indicador com a meta, que é o momento descrito. Em A (agir), padroniza-se em protocolo o que funcionou e estende-se às demais unidades, ou corrige-se a causa e replaneja-se, reiniciando o ciclo.",
+  "porAlt": [
+   "Correta: comparar o indicador com a meta é a etapa de checagem do ciclo.",
+   "Errada: a meta e o plano foram definidos antes, na etapa de planejamento.",
+   "Errada: a aplicação piloto já ocorreu; a comparação vem depois da execução.",
+   "Errada: agir é padronizar ou corrigir, o que depende do resultado da checagem.",
+   "Errada: a análise de causas pertence ao planejamento, já concluído pela equipe."
+  ]
+ },
+ {
+  "q": "Na reunião de diretoria de um hospital filantrópico, discute-se a preparação para a acreditação. Um diretor afirma que ela é obrigatória, como a licença da vigilância sanitária, e que a visita será feita pela própria secretaria de saúde. A enfermeira do núcleo de qualidade corrige o entendimento. Qual característica da acreditação ela deve apresentar?",
+  "alts": [
+   "Fiscalização obrigatória, feita pela vigilância sanitária do município",
+   "Avaliação externa, voluntária e periódica, por entidade independente",
+   "Autoavaliação anual, conduzida pela comissão interna de qualidade",
+   "Certificação permanente, concedida uma única vez ao hospital avaliado",
+   "Exigência legal para o funcionamento dos hospitais conveniados ao SUS"
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Metodologias de acreditação ONA e JCI; Portaria GM/MS 529/2013 (PNSP)",
+  "coment": "Acreditação é avaliação externa, voluntária e periódica, feita por instituição independente, que compara o serviço com padrões previamente definidos. Não se confunde com a fiscalização sanitária, que é obrigatória e cabe ao poder público. No Brasil atuam a ONA, metodologia brasileira, e a JCI, metodologia internacional representada pelo Consórcio Brasileiro de Acreditação. Por ser periódica, a certificação é revista em novas visitas, e não concedida para sempre. As Metas Internacionais de Segurança do Paciente da JCI inspiraram os protocolos do Programa Nacional de Segurança do Paciente (Portaria GM/MS 529/2013).",
+  "porAlt": [
+   "Errada: a fiscalização sanitária é obrigatória e distinta da acreditação.",
+   "Correta: acreditação é externa, voluntária, periódica e feita por entidade independente.",
+   "Errada: a acreditação é avaliação externa, e não autoavaliação da comissão.",
+   "Errada: por ser periódica, a acreditação é reavaliada em novas visitas.",
+   "Errada: a adesão é voluntária e não condiciona o funcionamento do hospital."
+  ]
+ },
+ {
+  "q": "Após três meses de notificações, a gerência de risco de um hospital listou 180 erros de medicação, agrupados em nove tipos. A enfermeira quer identificar os poucos tipos de erro que concentram a maior parte das ocorrências, para priorizar as ações de melhoria. Qual ferramenta da qualidade é a mais adequada para esse objetivo?",
+  "alts": [
+   "Diagrama de Ishikawa, que agrupa as causas em categorias",
+   "Plano 5W2H, que define o que, quem, quando e como fazer",
+   "Gráfico de Pareto, que ordena as categorias pela frequência",
+   "Ciclo PDCA, que organiza a melhoria em quatro etapas",
+   "Matriz SWOT, que cruza forças, fraquezas e ameaças externas"
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 529/2013 (PNSP, notificação de incidentes); ferramentas da qualidade Pareto, Ishikawa e 5W2H",
+  "coment": "O gráfico de Pareto ordena as categorias de um problema da mais para a menos frequente, com a frequência acumulada, e revela os poucos tipos que respondem pela maior parte das ocorrências; é a ferramenta para priorizar. O diagrama de Ishikawa, de causa e efeito, organiza em categorias as possíveis causas de um problema já escolhido e serve à etapa seguinte, de análise. O 5W2H estrutura o plano de ação, e o PDCA é o ciclo de melhoria em que essas ferramentas se inserem. A matriz SWOT é instrumento de planejamento estratégico, que cruza fatores internos e externos da organização.",
+  "porAlt": [
+   "Errada: Ishikawa explora causas de um problema escolhido, sem ordenar frequências.",
+   "Errada: o 5W2H organiza o plano de ação depois que a prioridade foi definida.",
+   "Correta: o Pareto ordena por frequência e mostra os poucos tipos que mais pesam.",
+   "Errada: o PDCA é o ciclo de melhoria, e não ferramenta de priorização de dados.",
+   "Errada: a SWOT é instrumento de planejamento estratégico, e não de priorização."
+  ]
+ },
+ {
+  "q": "Após dois erros na programação de bombas de infusão, a chefia de enfermagem de um hospital agendou para todos os enfermeiros uma aula obrigatória de duas horas, com conteúdo preparado pelo fornecedor do equipamento e certificado de participação. Pela distinção adotada na Política Nacional de Educação Permanente em Saúde, essa ação se classifica como qual modalidade?",
+  "alts": [
+   "Educação permanente, por partir de um problema real vivido pelo serviço",
+   "Educação em saúde, por envolver orientação sobre um equipamento",
+   "Educação permanente, por ter sido promovida pela própria chefia",
+   "Educação continuada, por categoria e com conteúdo definido previamente",
+   "Educação permanente, por ser realizada no horário de trabalho"
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Educação em saúde",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 198/2004 (Política Nacional de Educação Permanente em Saúde), consolidada na Portaria de Consolidação 2/2017",
+  "coment": "A Portaria GM/MS 198/2004 instituiu a Política Nacional de Educação Permanente em Saúde, e a distinção entre modalidades é central nela. Educação continuada é a atualização técnico-científica por categoria profissional, com conteúdos definidos previamente, em cursos e treinamentos pontuais, em geral fora do processo de trabalho. Educação permanente é aprendizagem no trabalho, multiprofissional e problematizadora, com os trabalhadores como sujeitos, para transformar práticas e organização. A aula obrigatória só para enfermeiros, com conteúdo pronto do fornecedor, é continuada, ainda que motivada por um erro do serviço. Educação em saúde se dirige à população.",
+  "porAlt": [
+   "Errada: o erro motivou a aula, mas o formato não problematiza o trabalho com a equipe.",
+   "Errada: educação em saúde é dirigida à população e aos usuários, e não à equipe.",
+   "Errada: quem promove a ação não define a modalidade; o formato é de continuada.",
+   "Correta: curso pontual, por categoria e com conteúdo pronto é educação continuada.",
+   "Errada: ocorrer no horário de trabalho não basta; falta problematizar com a equipe."
+  ]
+ },
+ {
+  "q": "Na UTI de um hospital de ensino, enfermeiros, técnicos, fisioterapeutas e médicos passaram a se reunir quinzenalmente para analisar os eventos adversos do próprio setor. A partir de uma extubação não planejada, o grupo discutiu o que falhou e redesenhou o fluxo de mobilização no leito. O que caracteriza essa iniciativa como educação permanente em saúde?",
+  "alts": [
+   "Atualizar cada categoria com conteúdo técnico definido pela coordenação",
+   "Garantir certificação e carga horária mínima aos profissionais do setor",
+   "Corrigir falhas individuais apontadas pela gestão em treinamento pontual",
+   "Transmitir aos profissionais as normas vigentes de segurança do paciente",
+   "Partir de problema real do trabalho, com a equipe, para mudar a prática"
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Educação em saúde",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 198/2004 (Política Nacional de Educação Permanente em Saúde), consolidada na Portaria de Consolidação 2/2017",
+  "coment": "A Política Nacional de Educação Permanente em Saúde (Portaria GM/MS 198/2004) entende a educação permanente como aprendizagem no trabalho, a partir dos problemas reais do serviço, para transformar as práticas e a organização. Ela é multiprofissional, problematizadora e trata os trabalhadores como sujeitos. A reunião da UTI junta todas as categorias, parte de um evento do próprio setor e termina em mudança do fluxo, exatamente esses atributos. Conteúdo definido previamente, certificação, treinamento pontual para corrigir falhas apontadas pela gestão e transmissão de normas são marcas da educação continuada.",
+  "porAlt": [
+   "Errada: conteúdo definido pela coordenação para cada categoria é educação continuada.",
+   "Errada: certificação e carga horária são marcas de cursos formais, e não da EPS.",
+   "Errada: treinamento pontual para falhas apontadas pela gestão é educação continuada.",
+   "Errada: transmitir normas é modelo transmissivo, oposto à problematização da EPS.",
+   "Correta: problema do serviço, equipe multiprofissional e mudança da prática definem a EPS."
+  ]
+ },
+ {
+  "q": "Ao montar o plano municipal de educação na saúde, uma enfermeira da secretaria precisa citar corretamente as normas da política nacional. Qual alternativa relaciona a Portaria GM/MS 198/2004 e a Portaria GM/MS 1.996/2007 ao conteúdo de cada uma, tal como constam hoje na Portaria de Consolidação 2/2017?",
+  "alts": [
+   "A 198 instituiu a PNEPS; a 1.996 reformulou as diretrizes, com as CIES",
+   "A 1.996 instituiu a PNEPS; a 198 criou as Comissões de Integração",
+   "A 198 instituiu a PNEPS e as CIES; a 1.996 criou os polos regionais",
+   "A 198 tratou da educação em saúde; a 1.996 instituiu a PNEPS",
+   "A 198 criou a educação continuada; a 1.996 a trocou pela permanente"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Educação em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 198/2004 e Portaria GM/MS 1.996/2007 (PNEPS), consolidadas na Portaria de Consolidação 2/2017",
+  "coment": "A Portaria GM/MS 198, de 13 de fevereiro de 2004, instituiu a Política Nacional de Educação Permanente em Saúde como estratégia do SUS para a formação e o desenvolvimento dos trabalhadores, conduzida regionalmente por polos de educação permanente. A Portaria GM/MS 1.996, de 20 de agosto de 2007, reformulou as diretrizes de implementação da política, com as Comissões de Integração Ensino-Serviço (CIES). As duas normas estão hoje consolidadas na Portaria de Consolidação 2/2017. A política trata da educação dos trabalhadores, e não da educação em saúde dirigida à população.",
+  "porAlt": [
+   "Correta: a 198 instituiu a política e a 1.996 reformulou a implementação com as CIES.",
+   "Errada: inverte as normas; a 198 instituiu a política e a 1.996 trouxe as CIES.",
+   "Errada: em 2004 a condução era por polos; as CIES vieram com a portaria de 2007.",
+   "Errada: a 198 trata da educação dos trabalhadores, e a 1.996 não instituiu a política.",
+   "Errada: a PNEPS não criou nem extinguiu a educação continuada, que segue existindo."
+  ]
+ },
+ {
+  "q": "Uma enfermeira de equipe de Saúde da Família vai iniciar um grupo de educação em saúde com pessoas com hipertensão cadastradas na área. Ela quer seguir a abordagem dialógica de Paulo Freire, voltada à autonomia e ao autocuidado, e não à simples transmissão de informação. Qual estratégia é coerente com essa abordagem?",
+  "alts": [
+   "Apresentar palestra com slides sobre a doença e distribuir folheto ao final",
+   "Começar pelas experiências e dúvidas dos participantes, em roda de conversa",
+   "Aplicar prova de conhecimentos e premiar quem acertar mais respostas",
+   "Entregar lista de alimentos proibidos e pedir que a decorem até o retorno",
+   "Exibir vídeo do Ministério da Saúde e encerrar sem espaço para perguntas"
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Educação em saúde",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB, ações de educação em saúde pela equipe); pedagogia dialógica de Paulo Freire",
+  "coment": "Educação em saúde é a ação educativa dirigida à população e ao usuário, para autonomia e autocuidado, e deve ser preferencialmente dialógica, na linha de Paulo Freire, e não mera transmissão de informação. Na abordagem problematizadora, o ponto de partida é o saber e a experiência dos participantes: como vivem a doença, o que comem, que dificuldades têm com o tratamento. A roda de conversa permite que o grupo construa o conhecimento junto com o profissional. Palestra com folheto, lista para decorar e vídeo sem discussão são formas transmissivas, que Freire chamou de educação bancária.",
+  "porAlt": [
+   "Errada: palestra e folheto apenas transmitem informação, sem diálogo com o grupo.",
+   "Correta: partir da experiência do grupo, em diálogo, é a base da abordagem freiriana.",
+   "Errada: prova e premiação reforçam a memorização, e não a autonomia do usuário.",
+   "Errada: lista para decorar é educação bancária, oposta à problematização de Freire.",
+   "Errada: vídeo sem discussão é transmissivo e não ouve as dúvidas do grupo."
+  ]
+ },
+ {
+  "q": "Um programa de residência multiprofissional organizou seminários em que residentes de enfermagem, farmácia, nutrição e fisioterapia discutem juntos casos de pacientes internados, cada um explicando seu papel e aprendendo sobre o trabalho dos demais. O objetivo declarado é formar equipes colaborativas. Essa proposta corresponde a qual conceito?",
+  "alts": [
+   "Educação multiprofissional: categorias lado a lado, sem troca",
+   "Educação continuada: atualização técnica de cada categoria",
+   "Educação interprofissional: aprender com, de e sobre o outro",
+   "Educação em saúde: ação educativa dirigida aos usuários",
+   "Educação uniprofissional: formação centrada em uma profissão"
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Educação em saúde",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 198/2004 (Política Nacional de Educação Permanente em Saúde), consolidada na Portaria de Consolidação 2/2017; educação interprofissional para a prática colaborativa (OMS)",
+  "coment": "A educação interprofissional ocorre quando estudantes ou profissionais de duas ou mais profissões aprendem com, de e sobre os outros, e é o caminho apontado pela OMS para formar equipes colaborativas. Nos seminários, cada residente explica seu papel e aprende sobre o trabalho dos demais em torno do mesmo caso, o que vai além de reunir categorias na mesma sala. Na prática colaborativa há objetivos comuns, decisão compartilhada e reconhecimento das competências específicas e complementares de cada profissão. Educação continuada é atualização por categoria, e educação em saúde se dirige à população.",
+  "porAlt": [
+   "Errada: estar lado a lado não basta; a proposta exige troca entre as profissões.",
+   "Errada: educação continuada é atualização técnica dentro de cada categoria.",
+   "Correta: aprender com, de e sobre o outro define a educação interprofissional.",
+   "Errada: educação em saúde tem como público os usuários e a comunidade.",
+   "Errada: a proposta reúne quatro profissões, o oposto da formação uniprofissional."
+  ]
+ },
+ {
+  "q": "Em um mês, uma Unidade Básica realizou três atividades: (I) roda de conversa com gestantes sobre amamentação, construída a partir das dúvidas delas; (II) reunião da equipe para redesenhar o acolhimento após queixas de espera; (III) curso estadual de atualização em sala de vacina para os enfermeiros. Qual associação entre atividade e modalidade educativa está correta?",
+  "alts": [
+   "I educação permanente; II continuada; III em saúde",
+   "I educação em saúde; II continuada; III permanente",
+   "I educação continuada; II permanente; III em saúde",
+   "I educação em saúde; II permanente; III continuada",
+   "I educação em saúde; II permanente; III permanente"
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Educação em saúde",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 198/2004 (Política Nacional de Educação Permanente em Saúde), consolidada na Portaria de Consolidação 2/2017",
+  "coment": "As três modalidades têm públicos e lógicas diferentes. Educação em saúde é dirigida à população e aos usuários, para autonomia e autocuidado, de preferência dialógica: a roda com gestantes a partir das dúvidas delas. Educação permanente, na Portaria GM/MS 198/2004, é aprendizagem no trabalho, a partir de problemas reais do serviço, multiprofissional, para transformar práticas e organização: a equipe que redesenha o acolhimento após as queixas. Educação continuada é atualização técnico-científica por categoria, com conteúdo definido previamente, em cursos pontuais: o curso de sala de vacina só para enfermeiros.",
+  "porAlt": [
+   "Errada: a roda com gestantes se dirige a usuárias, o que define educação em saúde.",
+   "Errada: redesenhar o acolhimento a partir do problema real é educação permanente.",
+   "Errada: curso de atualização por categoria e com conteúdo prévio é educação continuada.",
+   "Correta: usuárias, problema do serviço e curso por categoria definem as três modalidades.",
+   "Errada: o curso estadual tem conteúdo prévio e público de uma categoria: é continuada."
+  ]
+ },
+ {
+  "q": "Para reduzir glosas, a direção de um hospital privado propõe que uma técnica de enfermagem lotada no faturamento audite as anotações de enfermagem e emita parecer sobre os itens cobrados nas contas dos pacientes. A enfermeira coordenadora é consultada. Segundo a Resolução COFEN 720/2023, qual é a resposta correta?",
+  "alts": [
+   "A técnica pode auditar, desde que supervisionada por enfermeiro auditor",
+   "A técnica pode auditar as contas, mas não a qualidade da assistência",
+   "Qualquer profissional do faturamento pode auditar com treinamento formal",
+   "A auditoria exige título de especialista, inclusive para o enfermeiro",
+   "A auditoria é privativa do enfermeiro no âmbito da equipe de enfermagem"
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 720/2023 (atuação do enfermeiro em auditoria), alterada pela Res. COFEN 733/2023, art. 1º, parágrafo único, e art. 2º",
+  "coment": "A Resolução COFEN 720/2023 revogou a 266/2001 e normatiza a atuação do enfermeiro em auditoria. No âmbito da equipe de enfermagem, a auditoria é privativa do enfermeiro (art. 1º, parágrafo único) e não pode ser repassada a técnico, auxiliar, faturista ou outro profissional não enfermeiro, nem sob supervisão. A norma distingue o enfermeiro em auditoria, generalista que atua no serviço, do enfermeiro auditor, com título de especialista. O título não é exigido para atuar; o art. 2º diz apenas que os responsáveis técnicos pelos serviços de auditoria de enfermagem devem ser, preferencialmente, especialistas na área.",
+  "porAlt": [
+   "Errada: a supervisão não autoriza delegar ao técnico uma atividade privativa.",
+   "Errada: a auditoria de contas também é privativa, e gera ou contesta glosas.",
+   "Errada: a norma não admite repassar a auditoria a faturista ou outro não enfermeiro.",
+   "Errada: o generalista atua em auditoria; o título é preferencial só para o RT do serviço.",
+   "Correta: o art. 1º, parágrafo único, torna a auditoria privativa do enfermeiro."
+  ]
+ },
+ {
+  "q": "Uma enfermeira auditora de operadora de saúde visita a clínica cirúrgica, examina o prontuário de um paciente internado há cinco dias, conversa com ele no leito e identifica que a mudança de decúbito prescrita não vem sendo registrada. Ela comunica a equipe, que ajusta o cuidado no mesmo dia. Pelo momento em que ocorre, como se classifica essa auditoria?",
+  "alts": [
+   "Concorrente, feita durante a internação e capaz de corrigir o cuidado",
+   "Retrospectiva, feita pelo prontuário após a alta do paciente internado",
+   "Prospectiva, feita antes do procedimento, como autorização prévia",
+   "Interna, feita por profissional do quadro do próprio hospital auditado",
+   "De contas, feita para conferir a cobrança e gerar ou contestar glosas"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 720/2023 (atuação do enfermeiro em auditoria), alterada pela Res. COFEN 733/2023",
+  "coment": "Quanto ao momento, a auditoria de enfermagem é prospectiva (prévia, antes do procedimento, como na autorização), concorrente ou operacional (durante a internação, com o paciente presente, permitindo corrigir o cuidado) ou retrospectiva (após a alta, pelo prontuário, sem benefício direto àquele paciente). A visita ao internado, com conversa no leito e correção do registro e do cuidado no mesmo dia, é concorrente. Quanto à origem, a auditora da operadora faz auditoria externa. A Resolução COFEN 720/2023 prevê que o enfermeiro faça visitas técnicas aos prestadores e visite ou entreviste o paciente.",
+  "porAlt": [
+   "Correta: durante a internação e com correção no mesmo dia, a auditoria é concorrente.",
+   "Errada: a retrospectiva ocorre após a alta e não beneficia aquele paciente.",
+   "Errada: a prospectiva antecede o procedimento, como a autorização prévia.",
+   "Errada: auditora de operadora faz auditoria externa, e não interna ao hospital.",
+   "Errada: o foco foi o registro do cuidado, e não a conferência da cobrança."
+  ]
+ },
+ {
+  "q": "Durante auditoria externa em um hospital conveniado, a enfermeira auditora de uma operadora encontra divergências nas contas de órteses, próteses e materiais especiais. Para analisá-las com calma, ela pede autorização à direção para levar cópias dos prontuários ao escritório da operadora. Pela Resolução COFEN 720/2023, como ela deve proceder?",
+  "alts": [
+   "Levar as cópias, desde que autorizadas pelo diretor clínico do hospital",
+   "Analisar no próprio hospital, pois é vedado retirar prontuários ou cópias",
+   "Levar as cópias, pois a auditoria de OPME exige análise fora do serviço",
+   "Encerrar a análise, pois a OPME não está no escopo do enfermeiro auditor",
+   "Pedir que o faturamento selecione e analise os prontuários divergentes"
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Resolução COFEN 720/2023 (atuação do enfermeiro em auditoria), alterada pela Res. COFEN 733/2023, Anexo (item VI e atribuições em OPME) e art. 4º",
+  "coment": "A Resolução COFEN 720/2023 dá ao enfermeiro em auditoria acesso a contratos e prontuários, visitas técnicas aos prestadores, entrevista com o paciente, atuação em todas as etapas de auditoria e contra-auditoria, inclusive recursos de glosa, e auditoria especializada em órteses, próteses e materiais especiais. O Anexo, porém, veda ao enfermeiro a retirada dos prontuários ou de cópias da instituição, conforme as regras da Lei Geral de Proteção de Dados: a análise é feita no serviço auditado. No parecer, o enfermeiro registra seu número de inscrição no Coren (art. 4º). Delegar a análise ao faturamento esbarraria no caráter privativo da auditoria.",
+  "porAlt": [
+   "Errada: a autorização da direção não afasta a vedação de retirar as cópias.",
+   "Correta: a resolução veda ao enfermeiro retirar prontuários ou cópias da instituição.",
+   "Errada: a OPME pode ser auditada, mas a análise do prontuário fica no serviço.",
+   "Errada: a resolução inclui órteses, próteses e materiais especiais no escopo.",
+   "Errada: a auditoria é privativa do enfermeiro e não se transfere ao faturamento."
+  ]
+ },
+ {
+  "q": "A enfermeira responsável pelo almoxarifado de enfermagem de um hospital controla o estoque de equipos de infusão. O consumo médio mensal é de 800 unidades, o tempo de reposição pelo fornecedor é de 1,5 mês, o estoque de segurança definido é de 400 unidades e cada compra é de 2.400 unidades. Qual é o ponto de pedido?",
+  "alts": [
+   "1.200 unidades",
+   "2.800 unidades",
+   "1.600 unidades",
+   "2.400 unidades",
+   "1.800 unidades"
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Lei 7.498/1986, art. 11, I (planejamento e organização dos serviços de enfermagem); fórmulas de administração de materiais (ponto de pedido e estoque máximo)",
+  "coment": "Na administração de materiais, o ponto de pedido é o nível de estoque que dispara nova compra, calculado como consumo médio mensal multiplicado pelo tempo de reposição, somado ao estoque de segurança: 800 x 1,5 + 400 = 1.200 + 400 = 1.600 unidades. Feito o pedido nesse nível, a reposição chega quando resta o estoque de segurança. O estoque máximo é outra medida: estoque de segurança mais a quantidade de compra (400 + 2.400 = 2.800). Acompanhar consumo, perdas e giro do estoque faz parte do controle de materiais, função em que o enfermeiro participa.",
+  "porAlt": [
+   "Errada: 1.200 é o consumo no tempo de reposição, sem o estoque de segurança.",
+   "Errada: 2.800 é o estoque máximo, soma do estoque de segurança e da compra.",
+   "Correta: 800 x 1,5 = 1.200, somado ao estoque de segurança de 400 unidades.",
+   "Errada: 2.400 é a quantidade de cada compra, e não o nível que dispara o pedido.",
+   "Errada: 1.800 multiplica também o estoque de segurança pelo tempo de reposição."
+  ]
+ },
+ {
+  "q": "Na revisão da padronização do carrinho de emergência, a enfermeira observa que um dispositivo de via aérea tem baixo valor de consumo anual e, por isso, ficou na classe C da curva ABC, com controle menos rigoroso. Não há item substituto, e sua falta compromete o atendimento. Qual classificação deve orientar a disponibilidade desse item?",
+  "alts": [
+   "ABC, classe A, por ser item de uso na emergência",
+   "XYZ, classe X, por ter baixo valor de consumo anual",
+   "ABC, classe C, que já basta para garantir o estoque",
+   "XYZ, classe Z, por ser imprescindível e sem substituto",
+   "PEPS, que ordena a saída pelo primeiro que entra"
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Lei 7.498/1986, art. 11, I (planejamento e organização dos serviços de enfermagem); classificações ABC (valor de consumo) e XYZ (criticidade) de materiais",
+  "coment": "A curva ABC ordena os itens pelo valor de consumo: poucos itens A concentram a maior parte do gasto e merecem controle rigoroso, e os itens C, de baixo valor, recebem controle mais simples. A ABC não mede importância clínica. Para isso existe a classificação XYZ, que ordena pela criticidade: Z é o item imprescindível, sem substituto, cuja falta compromete a assistência. Um item barato do carrinho de emergência pode ser C na ABC e Z na XYZ, e é a classe Z que exige garantia de disponibilidade. As duas classificações se usam juntas na padronização, da qual o enfermeiro participa por conhecer o uso.",
+  "porAlt": [
+   "Errada: a classe A da ABC depende do valor de consumo, que aqui é baixo.",
+   "Errada: a XYZ mede criticidade, e não valor; e o item não tem substituto.",
+   "Errada: a classe C reflete só o valor e não garante item crítico disponível.",
+   "Correta: item imprescindível e sem substituto é classe Z na classificação XYZ.",
+   "Errada: PEPS é critério de saída do estoque, e não de criticidade do item."
+  ]
+ },
+ {
+  "q": "A gerência de enfermagem de um hospital vai calcular o custo do curativo de lesão por pressão realizado na clínica médica, para negociar o valor do procedimento com as operadoras. Entre os componentes listados pelo setor de custos, qual deles é custo direto desse procedimento?",
+  "alts": [
+   "Rateio das despesas da lavanderia e da administração do hospital",
+   "Parcela do salário da diretoria distribuída entre os setores",
+   "Despesa com segurança patrimonial dividida pela área do setor",
+   "Conta de energia do hospital repartida pelo número de leitos",
+   "Horas da enfermagem e material de curativo usados no paciente"
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Lei 7.498/1986, art. 11, I (planejamento e organização dos serviços de enfermagem); classificação de custos hospitalares em diretos e indiretos",
+  "coment": "Custos diretos são os que se atribuem diretamente ao paciente ou ao procedimento, sem necessidade de rateio, como o material consumido e as horas de enfermagem gastas no curativo. Custos indiretos não se identificam com um procedimento específico e são distribuídos por critérios de rateio, como as despesas de administração, lavanderia, segurança e energia. Os custos também se classificam em fixos, que não variam com o volume produzido, e variáveis, que acompanham a produção. Na gestão de enfermagem, o custo da falta de pessoal aparece em eventos adversos e em dias de internação a mais.",
+  "porAlt": [
+   "Errada: lavanderia e administração são custos indiretos, distribuídos por rateio.",
+   "Errada: o salário da diretoria é custo indireto, que só chega ao setor por rateio.",
+   "Errada: a segurança patrimonial é custo indireto rateado pelo critério de área.",
+   "Errada: energia repartida por leito é rateio, característica do custo indireto.",
+   "Correta: material e horas de enfermagem se atribuem diretamente ao curativo."
+  ]
+ },
+ {
+  "q": "Uma enfermeira de clínica médica quer saber se a ronda horária de enfermagem, comparada ao cuidado habitual, reduz a ocorrência de quedas em idosos internados. Antes de buscar nas bases de dados, ela estrutura a pergunta clínica pela estratégia PICO. Nessa pergunta, qual elemento corresponde à letra O?",
+  "alts": [
+   "A ocorrência de quedas na unidade",
+   "Os idosos internados na clínica",
+   "A ronda horária da enfermagem",
+   "O cuidado habitual da unidade",
+   "O delineamento dos estudos buscados"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Santos CMC, Pimenta CAM, Nobre MRC. A estratégia PICO para a construção da pergunta de pesquisa e busca de evidências. Rev Latino-Am Enfermagem, 2007",
+  "coment": "A prática baseada em evidências começa com uma pergunta clínica estruturada. Na estratégia PICO, P é o paciente ou problema (idosos internados), I é a intervenção (ronda horária de enfermagem), C é a comparação (cuidado habitual) e O, de outcome, é o desfecho (ocorrência de quedas). A pergunta bem formulada orienta a escolha dos descritores e a busca nas bases. Para pesquisas qualitativas, usa-se a variante PICo, com população, fenômeno de interesse e contexto. As etapas seguintes são buscar a evidência, avaliá-la criticamente, integrá-la à decisão com a equipe e o paciente, implementar e avaliar.",
+  "porAlt": [
+   "Correta: O vem de outcome, o desfecho, que aqui é a ocorrência de quedas.",
+   "Errada: os idosos internados são o P, paciente ou problema da pergunta.",
+   "Errada: a ronda horária é o I, a intervenção que se quer avaliar.",
+   "Errada: o cuidado habitual é o C, a comparação com a intervenção.",
+   "Errada: o delineamento não é elemento do PICO, que tem quatro componentes."
+  ]
+ },
+ {
+  "q": "Uma residente de enfermagem neonatal planeja uma revisão de estudos qualitativos sobre a experiência de mães de recém-nascidos prematuros durante a internação em UTI neonatal. Para estruturar a pergunta e a busca, ela usa a variante da estratégia PICO própria para pesquisa qualitativa. Nessa variante, o que representa o Co?",
+  "alts": [
+   "A comparação entre mães de prematuros e a termo",
+   "O contexto, aqui a internação em UTI neonatal",
+   "O desfecho clínico dos recém-nascidos prematuros",
+   "A população, aqui as mães dos recém-nascidos",
+   "O fenômeno de interesse, a experiência materna"
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "JBI Manual for Evidence Synthesis (Aromataris e Munn, 2020), revisões de evidência qualitativa (PICo)",
+  "coment": "Para perguntas de intervenção, a estratégia PICO separa paciente ou problema, intervenção, comparação e desfecho (outcome). Na pesquisa qualitativa, em que não há intervenção testada nem comparação entre grupos, usa-se a variante PICo: P é a população (mães de recém-nascidos prematuros), I é o fenômeno de interesse (a experiência materna) e Co é o contexto (a internação em UTI neonatal). A pergunta estruturada orienta descritores, bases e critérios de inclusão da revisão, e a escolha entre PICO e PICo depende do tipo de pergunta, e não do tema.",
+  "porAlt": [
+   "Errada: a variante qualitativa não traz comparação entre grupos de participantes.",
+   "Correta: no PICo, Co é o contexto em que o fenômeno ocorre, a UTI neonatal.",
+   "Errada: o desfecho clínico é o O do PICO, ausente na variante qualitativa.",
+   "Errada: as mães correspondem ao P, a população da pergunta qualitativa.",
+   "Errada: a experiência materna é o I, o fenômeno de interesse da revisão."
+  ]
+ },
+ {
+  "q": "Uma enfermeira mestranda vai entrevistar adolescentes de 13 a 16 anos em acompanhamento ambulatorial por diabetes tipo 1 sobre a rotina de aplicação de insulina na escola. O projeto será submetido ao comitê de ética em pesquisa. Pela Resolução CNS 466/2012, como deve ser obtida a concordância desses participantes?",
+  "alts": [
+   "TCLE assinado pelo responsável legal, sem ouvir o adolescente",
+   "Assentimento do adolescente, pois a pesquisa não tem risco",
+   "TCLE do responsável legal e termo de assentimento do adolescente",
+   "Dispensa de consentimento, por ser entrevista sem intervenção",
+   "TCLE assinado pelo próprio adolescente, por ter mais de 12 anos"
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CNS 466/2012 (diretrizes da pesquisa com seres humanos; TCLE e assentimento)",
+  "coment": "A Resolução CNS 466/2012 estabelece as diretrizes da pesquisa com seres humanos e organiza o sistema CEP/CONEP. Ela considera que toda pesquisa com seres humanos envolve risco em grau variável, o que afasta a ideia de pesquisa sem risco. Exige o Termo de Consentimento Livre e Esclarecido e, quando o participante é criança, adolescente ou pessoa sem capacidade plena, o assentimento do próprio participante, além do consentimento do responsável legal. O assentimento não substitui o TCLE do responsável, e o consentimento do responsável não dispensa ouvir o adolescente. Entrevista sem intervenção não fica dispensada de consentimento.",
+  "porAlt": [
+   "Errada: o consentimento do responsável não dispensa o assentimento do adolescente.",
+   "Errada: a 466/2012 considera que toda pesquisa envolve risco em grau variável.",
+   "Correta: exige-se o TCLE do responsável e o assentimento do próprio adolescente.",
+   "Errada: entrevista também é pesquisa com seres humanos e exige consentimento.",
+   "Errada: o menor de idade dá assentimento, e o TCLE cabe ao responsável legal."
+  ]
+ },
+ {
+  "q": "O núcleo de pesquisa de um hospital recebeu cinco propostas de enfermeiras residentes, todas na área de ciências humanas e sociais. A coordenadora quer saber qual delas, pela Resolução CNS 510/2016, não precisa ser registrada nem avaliada pelo sistema CEP/CONEP. Qual proposta se enquadra nessa situação?",
+  "alts": [
+   "Entrevistas gravadas com pacientes identificados pelo nome",
+   "Análise de prontuários com dados de pacientes identificados",
+   "Grupo focal com técnicos, com falas atribuídas a cada um",
+   "Pesquisa de opinião com participantes não identificados",
+   "Questionário sobre saúde mental com coleta de nome e setor"
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Resolução CNS 510/2016 (pesquisas em ciências humanas e sociais); Resolução CNS 466/2012",
+  "coment": "A Resolução CNS 510/2016 trata das pesquisas em ciências humanas e sociais e reconhece suas especificidades. Ela admite formas diversas de registro do consentimento, como escrito, oral ou gravado, e dispensa do registro e da avaliação pelo sistema CEP/CONEP alguns trabalhos, entre eles a pesquisa de opinião com participantes não identificados e a que usa informação de domínio público. Nas demais propostas, os participantes são identificáveis por nome, falas atribuídas ou dados de prontuário, e o projeto segue para o comitê de ética, com as diretrizes gerais da Resolução CNS 466/2012.",
+  "porAlt": [
+   "Errada: participantes identificados exigem avaliação ética pelo sistema CEP/CONEP.",
+   "Errada: dados identificados de prontuário exigem apreciação pelo comitê de ética.",
+   "Errada: falas atribuídas identificam os participantes e exigem avaliação ética.",
+   "Correta: opinião sem identificação dos participantes dispensa registro no sistema.",
+   "Errada: coletar nome e setor identifica o participante e exige avaliação ética."
+  ]
+ },
+ {
+  "q": "Na discussão do protocolo de prevenção de lesão por pressão de uma enfermaria, um residente defende adotar uma nova intervenção apenas porque uma metanálise recente a recomenda. A preceptora lembra que a prática baseada em evidências integra outros elementos à decisão. Quais são os componentes que a PBE integra?",
+  "alts": [
+   "Melhor evidência, custo do insumo e opinião da chefia do setor",
+   "Metanálise mais recente, protocolo vigente e parecer da CCIH",
+   "Ensaio clínico randomizado, consenso de especialistas e diretriz",
+   "Competência clínica, tradição do serviço e normas da instituição",
+   "Melhor evidência, competência clínica e preferências do paciente"
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Pesquisa e prática baseada em evidências",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Sackett DL et al. Evidence based medicine: what it is and what it isn't. BMJ, 1996",
+  "coment": "A prática baseada em evidências integra três componentes: a melhor evidência disponível, a competência clínica do profissional e as preferências e valores do paciente, considerados dentro do contexto do serviço. Uma metanálise forte não basta para mudar a prática: é preciso avaliar a qualidade e a aplicabilidade da evidência, discutir a viabilidade com a equipe e o paciente, implementar e monitorar os resultados. O sistema GRADE classifica a certeza da evidência em alta, moderada, baixa ou muito baixa. Tradição, opinião da chefia e custo isolado não definem a decisão baseada em evidências.",
+  "porAlt": [
+   "Errada: custo e opinião da chefia não substituem a competência e o paciente.",
+   "Errada: essas são fontes de informação, sem o julgamento clínico e o paciente.",
+   "Errada: lista tipos de evidência e deixa de fora o profissional e o paciente.",
+   "Errada: tradição e normas internas não são evidência, e falta o paciente.",
+   "Correta: a PBE integra evidência, competência clínica e preferências do paciente."
+  ]
+ }
+]

@@ -1,0 +1,1382 @@
+[
+ {
+  "q": "O controle de infecções relacionado à assistência à saúde (IRAS) é um fundamento essencial da prática de enfermagem. Sobre as técnicas de precauções padrão, pode-se afirmar que:",
+  "alts": [
+   "o uso de luvas pode ser dispensado ao realizar procedimentos com risco de contato com fluidos corporais, desde que as mãos estejam devidamente higienizadas",
+   "a higienização das mãos deve ser realizada apenas antes do atendimento ao paciente em precauções padrão",
+   "o uso de equipamentos de proteção individual (EPIs) é obrigatório apenas em precauções de contato, e não se aplica às precauções padrão",
+   "as precauções padrão devem ser aplicadas a todos os pacientes, independentemente do diagnóstico ou da presunção de infecção"
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "CDC/HICPAC, Guideline for Isolation Precautions, 2007",
+  "coment": "As precauções padrão partem do princípio de que todo sangue, fluido corporal, secreção e excreção pode transmitir agente infeccioso, por isso valem para todo paciente, com ou sem diagnóstico conhecido (guia de isolamento do CDC/HICPAC de 2007, reproduzido nos manuais da ANVISA). Incluem higiene das mãos nos cinco momentos, luvas quando há risco de contato com fluidos, avental, máscara e proteção ocular quando há risco de respingo, descarte seguro de perfurocortantes e etiqueta respiratória. As precauções por contato, gotículas e aerossóis se somam à padrão; nunca a substituem.",
+  "porAlt": [
+   "Errada: higienizar as mãos não dispensa a luva quando há risco de contato com sangue ou fluidos, que é justamente a indicação dela na precaução padrão.",
+   "Errada: a higiene das mãos é feita antes e depois do contato, após risco de exposição a fluidos e após tocar o ambiente do paciente, não só antes do atendimento.",
+   "Errada: o uso de EPI conforme o risco de exposição faz parte da própria precaução padrão; a precaução de contato apenas acrescenta luva e avental de rotina.",
+   "Correta: a precaução padrão se aplica a todo paciente, independentemente do diagnóstico ou da suspeita de infecção."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A avaliação adequada do estado de consciência do paciente é um elemento básico nos cuidados de enfermagem. Acerca da Escala de Coma de Glasgow (ECG), é possível afirmar que:",
+  "alts": [
+   "a ECG avalia a profundidade do coma considerando três parâmetros: resposta visual, resposta auditiva e resposta motora",
+   "a pontuação máxima na ECG é 15, indicando um paciente em coma profundo",
+   "a ECG avalia três parâmetros: abertura ocular, resposta verbal e resposta motora, com a pontuação mínima sendo 3",
+   "em caso de paciente intubado, a avaliação da ECG deve ser suspensa, pois não é possível aplicar os critérios da escala"
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Escala de Coma de Glasgow (Teasdale e Jennett, 1974; GCS-P, Brennan, Murray e Teasdale, 2018)",
+  "coment": "A Escala de Coma de Glasgow soma três respostas: abertura ocular (1 a 4), resposta verbal (1 a 5) e resposta motora (1 a 6). O total vai de 3, pior escore possível, a 15, paciente alerta e orientado. Glasgow de 8 ou menos define coma e indica via aérea definitiva. No paciente intubado a escala não é suspensa: a resposta verbal é registrada como NT (não testável) e seguem avaliados abertura ocular e motor. A versão de 2018 (GCS-P) subtrai o número de pupilas sem reação à luz.",
+  "porAlt": [
+   "Errada: os parâmetros são abertura ocular, resposta verbal e resposta motora; não há resposta visual nem auditiva na escala.",
+   "Errada: 15 é a pontuação máxima, mas indica paciente acordado e orientado, e não coma profundo.",
+   "Correta: a escala avalia abertura ocular, resposta verbal e resposta motora, com mínimo de 3 e máximo de 15 pontos.",
+   "Errada: no intubado a escala continua sendo aplicada, com a resposta verbal registrada como não testável (NT)."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Lei do Exercício Profissional da Enfermagem (Lei nº 7498/1986) e a regulamentação do Decreto nº 94406/1987, algumas atividades são privativas do enfermeiro. Dentre as alternativas abaixo, o exemplo de uma atividade privativa corretamente identificada é:",
+  "alts": [
+   "a administração de medicamentos por vias de acesso periféricas em pacientes críticos internados em unidades de terapia intensiva (UTI)",
+   "o ensino, a orientação e a supervisão de profissionais auxiliares e técnicos de enfermagem em instituições de saúde públicas ou privadas",
+   "a realização de banho no leito em pacientes com mobilidade restrita em ambiente hospitalar",
+   "o preparo e a administração de dietas enterais sob supervisão de um nutricionista em serviços ambulatoriais"
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 7.498/1986, arts. 11, I, e 15; Decreto 94.406/1987, arts. 8º e 13",
+  "coment": "O art. 15 da Lei 7.498/1986 diz que as atividades de técnicos e auxiliares, em instituições de saúde públicas e privadas, só podem ser desempenhadas sob orientação e supervisão de Enfermeiro (o Decreto 94.406/1987, art. 13, fala em supervisão, orientação e direção). Ensinar, orientar e supervisionar a equipe de nível médio é, portanto, função que só o enfermeiro exerce, ligada ao planejamento, coordenação e avaliação dos serviços de assistência (art. 11, I, c). Medicação periférica, banho no leito e administração de dieta enteral são executados também por técnicos e auxiliares.",
+  "porAlt": [
+   "Errada: administrar medicação por via periférica não é privativo; técnicos e auxiliares a executam, inclusive na UTI, sob supervisão do enfermeiro.",
+   "Correta: a orientação e a supervisão de técnicos e auxiliares cabem ao enfermeiro, conforme o art. 15 da Lei 7.498/1986 e o art. 13 do Decreto 94.406/1987.",
+   "Errada: banho no leito é cuidado de higiene e conforto que técnicos e auxiliares executam, não atividade privativa.",
+   "Errada: preparo e administração de dieta enteral são executados pela equipe de enfermagem, e a supervisão da enfermagem é do enfermeiro, não do nutricionista."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A transfusão sanguínea é uma prática rotineira na assistência à saúde, porém, exige critérios rigorosos de avaliação para garantir a segurança do paciente. De acordo com os fundamentos técnicos e normativos sobre transfusão sanguínea, a afirmativa correta é:",
+  "alts": [
+   "antes da administração de qualquer hemocomponente, é obrigatória a realização de dupla checagem da identificação do paciente e do produto, idealmente realizada por dois profissionais, sendo ao menos um deles um enfermeiro",
+   "a transfusão de concentrado de hemácias é indicada como primeira escolha em pacientes com anemia ferropriva, independentemente dos níveis de hemoglobina e sinais clínicos",
+   "uma vez iniciado o processo de transfusão de sangue, o profissional de enfermagem deve monitorar o paciente somente nos 10 primeiros minutos, já que reações tardias são extremamente raras",
+   "pacientes com histórico de reação transfusional devem ser monitorados apenas no momento em que apresentar sintomas clínicos sugestivos, sendo considerado desnecessário realizar testes de compatibilidade pré-transfusão nesses casos"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 11.685/2026 (Anexo IV-B da Portaria de Consolidação 5/2017); RDC ANVISA 34/2014",
+  "coment": "Erro de identificação, na coleta da amostra ou na instalação da bolsa, é a principal causa de reação hemolítica aguda por incompatibilidade ABO. Por isso, à beira do leito, confere-se o nome completo e o registro do paciente com os dados da bolsa e da etiqueta de compatibilidade, e qualquer discrepância suspende a transfusão. A dupla checagem por dois profissionais é a barreira recomendada. O regulamento técnico vigente (Portaria 11.685/2026, que substituiu a 158/2016 em 30/09/2026) manteve essa rotina e a observação do paciente nos primeiros 10 minutos.",
+  "porAlt": [
+   "Correta: a conferência da identificação do paciente e do hemocomponente antes da instalação, de preferência em dupla checagem com enfermeiro, é a barreira contra a hemólise ABO.",
+   "Errada: anemia ferropriva se trata com reposição de ferro; o concentrado de hemácias depende da hemoglobina e dos sinais clínicos, nunca é primeira escolha independente deles.",
+   "Errada: os primeiros 10 minutos exigem o profissional ao lado do paciente, mas a vigilância segue durante toda a transfusão e depois dela, porque há reações tardias.",
+   "Errada: história de reação transfusional exige mais cuidado, e os testes pré-transfusionais de compatibilidade são obrigatórios em todo receptor."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Sistematização da Assistência de Enfermagem (SAE) é regulamentada pela Resolução COFEN nº 358/2009 e considera um processo dinâmico em etapas interconectadas, que visam à organização coerente da prática de enfermagem. Sobre a aplicação da SAE, é correto afirmar que:",
+  "alts": [
+   "a SAE é aplicada exclusivamente a pacientes hospitalizados, dado que a complexidade do processo impede sua utilização em serviços de atenção primária ou domiciliar",
+   "a SAE tem como finalidade estabelecer a autonomia do enfermeiro em sua prática assistencial, excluindo profissionais de nível técnico ou auxiliar de sua implementação",
+   "a SAE compreende cinco etapas distintas: coleta de dados, diagnóstico de enfermagem, planejamento, implementação e avaliação, sendo o diagnóstico uma etapa privativa do enfermeiro",
+   "o planejamento da assistência dentro da SAE deve restringir-se unicamente a cuidados prescritos, não incluindo ações educativas ou de prevenção realizadas pelo enfermeiro"
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, arts. 4º e 6º (revogou a Resolução COFEN 358/2009)",
+  "coment": "A questão cita a Res. 358/2009, que listava cinco etapas: coleta de dados (histórico), diagnóstico, planejamento, implementação e avaliação de enfermagem, com diagnóstico e prescrição privativos do enfermeiro. A vigente Res. COFEN 736/2024 manteve cinco etapas e a privatividade (art. 6º), mas mudou nomes: a primeira etapa virou Avaliação de Enfermagem e a última, que se chamava avaliação, virou Evolução de Enfermagem. Também deixou de lado a sigla SAE e trata só do Processo de Enfermagem, aplicável em todo contexto de cuidado, hospitalar, ambulatorial ou domiciliar.",
+  "porAlt": [
+   "Errada: o Processo de Enfermagem é obrigatório em todo contexto onde há cuidado de enfermagem, inclusive atenção primária e domicílio.",
+   "Errada: técnicos e auxiliares participam, com anotação, execução do prescrito e checagem, sob supervisão do enfermeiro.",
+   "Correta: são cinco etapas e o diagnóstico é privativo do enfermeiro; pela Res. 736/2024 elas se chamam Avaliação, Diagnóstico, Planejamento, Implementação e Evolução.",
+   "Errada: o planejamento inclui ações educativas, de prevenção e de promoção, não só cuidados prescritos."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Ao trabalhar com a Sistematização da Assistência de Enfermagem (SAE), o enfermeiro tem uma série de responsabilidades e competências específicas. Uma premissa da SAE está representada em:",
+  "alts": [
+   "a SAE é exclusiva para os enfermeiros, enquanto os técnicos e auxiliares de enfermagem têm um papel restrito à coleta de dados e execução de tarefas operacionais",
+   "a SAE é um processo linear cujo principal foco está na resolução imediata do problema do paciente, sem a necessidade de avaliações regulares após a implementação inicial do plano de cuidado",
+   "a aplicação da SAE no ambiente hospitalar é obrigatória por lei e contribui para a melhoria da qualidade do cuidado, unificando o raciocínio clínico e garantindo continuidade nas ações de enfermagem",
+   "a Resolução COFEN nº 358/2009 permite que o enfermeiro formule o diagnóstico de enfermagem usando apenas critérios subjetivos, desde que validados diretamente com o paciente"
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, arts. 1º, 6º e 7º (revogou a Resolução COFEN 358/2009)",
+  "coment": "O Processo de Enfermagem é obrigatório em todo ambiente onde ocorre cuidado de enfermagem: a Res. 358/2009 já dizia isso e a Res. 736/2024 repete no art. 1º. A obrigatoriedade vem de resolução do COFEN, editada com base na Lei 5.905/1973, e não de lei em sentido estrito; a banca usou 'por lei' em sentido amplo. O método organiza o raciocínio clínico e dá continuidade ao cuidado entre turnos. É cíclico, com reavaliação contínua, e o diagnóstico se apoia em dados subjetivos e objetivos interpretados pelo enfermeiro.",
+  "porAlt": [
+   "Errada: técnicos e auxiliares participam do processo com anotação, implementação e checagem, e não só de coleta de dados e tarefas operacionais.",
+   "Errada: o processo é cíclico e exige reavaliação contínua; a última etapa (Evolução, na Res. 736/2024) existe justamente para isso.",
+   "Correta: a aplicação é obrigatória pelas normas do COFEN e melhora a qualidade do cuidado, unificando o raciocínio clínico e a continuidade das ações.",
+   "Errada: o diagnóstico de enfermagem se baseia em dados subjetivos e objetivos, inclusive exame físico, interpretados pelo enfermeiro."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A documentação em enfermagem é um elemento essencial para a continuidade do cuidado e para o respaldo ético e legal do profissional. Amparado nos princípios que regem o registro em enfermagem, é correto afirmar que:",
+  "alts": [
+   "o prontuário do paciente deve conter anotações completas, objetivas, claras, legíveis e realizadas em tempo hábil, sendo considerado um documento legal e sigiloso",
+   "os registros de enfermagem devem ser realizados exclusivamente pelo enfermeiro responsável, sendo vedado aos técnicos e aos auxiliares registrar informações sobre a assistência prestada",
+   "um registro de enfermagem incompleto ou realizado de forma genérica não compromete a segurança do paciente, desde que o cuidado propriamente dito tenha sido executado",
+   "nos casos em que ocorrer erro no registro, a legislação permite o uso de corretivo ou a exclusão do registro errado, desde que o profissional faça uma nova anotação correta"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Registro e documentação de enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), arts. 36 e 87; Resolução COFEN 736/2024, art. 8º",
+  "coment": "O Código de Ética (Res. COFEN 564/2017) manda registrar no prontuário as informações do processo de cuidar de forma clara, objetiva, cronológica, legível, completa e sem rasuras (art. 36) e proíbe registro incompleto, impreciso ou inverídico (art. 87). O prontuário é documento legal e sigiloso, que respalda o profissional e garante a continuidade da assistência. Toda a equipe registra: o enfermeiro, as etapas do Processo de Enfermagem; técnicos e auxiliares, a anotação de enfermagem e a checagem (Res. 736/2024, art. 8º). Erro se corrige com ressalva, nunca com corretivo.",
+  "porAlt": [
+   "Correta: o registro deve ser completo, objetivo, claro, legível e feito em tempo hábil, e o prontuário é documento legal e sigiloso.",
+   "Errada: técnicos e auxiliares registram a anotação de enfermagem e a checagem; o dever de anotar vale para toda a equipe.",
+   "Errada: registro incompleto ou genérico compromete a continuidade e a segurança do cuidado, além de ser infração ética (art. 87).",
+   "Errada: rasura, corretivo e exclusão são vedados; o erro é tornado sem efeito com ressalva e seguido da anotação correta."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No uso do prontuário eletrônico e práticas de documentação digital em enfermagem, algumas normas devem ser seguidas para garantir a segurança da informação e a proteção do paciente. Sobre a utilização de documentação digital, é possível afirmar que:",
+  "alts": [
+   "o prontuário eletrônico elimina a necessidade de assinatura do profissional de enfermagem, pois o sistema identifica automaticamente quem realizou as ações",
+   "o uso do prontuário eletrônico está isento de normas éticas ou legais que regulam o registro em papel, devido à sua automação",
+   "o profissional de enfermagem é responsável por manter a confidencialidade das informações no prontuário eletrônico, sendo vedado compartilhar sua senha de acesso com outros membros da equipe ou terceiros",
+   "em situações de urgência, é permitido que o técnico de enfermagem realize registros no prontuário eletrônico utilizando o login e a senha de um enfermeiro, desde que justificado"
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Registro e documentação de enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 754/2024, art. 1º; Resolução COFEN 564/2017, arts. 52 e 88",
+  "coment": "O registro eletrônico segue as mesmas regras éticas e legais do papel. A Res. COFEN 754/2024 (prontuário eletrônico) prevê sigilo compartilhado conforme a LGPD e, em sistema sem certificação digital, login e senha individuais e intransferíveis. Emprestar a senha faz outro profissional registrar em seu nome, o que fere o art. 88 do Código de Ética (assinar ou permitir que assinem ações que não executou) e o dever de sigilo (art. 52). Não há exceção para urgência: cada um registra com o próprio acesso.",
+  "porAlt": [
+   "Errada: o registro eletrônico continua exigindo identificação e assinatura, por certificado digital ou por login e senha individuais.",
+   "Errada: o prontuário eletrônico está sujeito às mesmas normas éticas e legais do papel, além da LGPD.",
+   "Correta: o profissional responde pela confidencialidade e a senha de acesso é individual e intransferível, sendo vedado compartilhá-la.",
+   "Errada: registrar com login e senha de outro profissional é proibido mesmo na urgência, porque atribui a ele uma ação que não executou."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na assistência de enfermagem a pacientes com doenças crônicas, a abordagem deve ser abrangente e contínua. Considerando os cuidados de enfermagem em pacientes com diabetes mellitus, é certo dizer que:",
+  "alts": [
+   "a monitorização da glicemia capilar deve ser realizada apenas uma vez ao dia, preferencialmente em jejum, para avaliar o controle glicêmico do paciente",
+   "a orientação para o autocuidado inclui instruções sobre a administração correta de insulina, cuidados com os pés, alimentação adequada e reconhecimento de sinais de hipoglicemia e hiperglicemia",
+   "a administração de insulina pode ser realizada em qualquer local do corpo, desde que a rotação dos locais de aplicação não seja uma preocupação principal",
+   "a educação em saúde para pacientes diabéticos deve focar exclusivamente no controle alimentar, sendo desnecessário abordar a importância da atividade física regular"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Resolução COFEN 734/2023 (cuidado e educação em diabetes); ADA Standards of Care in Diabetes 2026",
+  "coment": "A educação para o autocuidado é o centro do cuidado de enfermagem no diabetes. A Res. COFEN 734/2023 atribui ao enfermeiro orientar o manejo de seringa e caneta de insulina, avaliar o risco e cuidar dos pés, rastrear complicações e encaminhar ao nutricionista. O paciente precisa saber aplicar a insulina com rodízio dos locais (contra a lipodistrofia), inspecionar os pés todos os dias, alimentar-se de forma adequada, praticar atividade física e reconhecer e tratar hipoglicemia e hiperglicemia. A frequência da glicemia capilar depende do esquema terapêutico.",
+  "porAlt": [
+   "Errada: a frequência da glicemia capilar é individualizada pelo esquema; quem usa insulina várias vezes ao dia mede antes das refeições e em outros horários.",
+   "Correta: o autocuidado inclui técnica de insulina, cuidado com os pés, alimentação e reconhecimento de hipoglicemia e hiperglicemia.",
+   "Errada: a insulina vai nas regiões recomendadas (abdome, coxa, braço, glúteo) e o rodízio é essencial para evitar lipodistrofia.",
+   "Errada: atividade física regular é parte do tratamento e da educação em saúde, ao lado da alimentação."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A assistência de enfermagem a pacientes com doenças cardiovasculares exige um conhecimento detalhado das condições clínicas e das intervenções apropriadas. Sobre os cuidados de enfermagem a pacientes com insuficiência cardíaca, pode-se dizer que:",
+  "alts": [
+   "a monitorização do balanço hídrico é irrelevante em pacientes com insuficiência cardíaca, pois a retenção de líquidos não afeta significativamente a condição clínica",
+   "a administração de diuréticos deve ser feita sem considerar a monitorização dos eletrólitos, uma vez que as alterações eletrolíticas não são comuns nesses pacientes",
+   "a orientação ao paciente sobre a importância do controle da ingestão de sódio e a adesão ao tratamento medicamentoso é fundamental para a prevenção de exacerbações da insuficiência cardíaca",
+   "a prática de exercícios físicos intensos é recomendada para todos os pacientes com insuficiência cardíaca, independentemente do estágio da doença, para melhorar a função cardíaca"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretriz da ESC de Insuficiência Cardíaca 2026",
+  "coment": "A internação evitável na insuficiência cardíaca depende do autocuidado que a enfermagem ensina: tomar os medicamentos todos os dias, controlar o sal da dieta, pesar-se diariamente e reconhecer ganho de peso, edema e falta de ar como sinais de descompensação. A má adesão ao tratamento e o excesso de sódio estão entre as causas mais frequentes de exacerbação. O diurético exige balanço hídrico, peso e controle de potássio e creatinina. Exercício é recomendado, mas supervisionado e adequado ao estágio, como na reabilitação cardíaca.",
+  "porAlt": [
+   "Errada: o balanço hídrico e o peso diário são centrais, porque a retenção de líquidos é o que leva à congestão e à descompensação.",
+   "Errada: diuréticos causam hipocalemia, hiponatremia e piora renal com frequência, e os eletrólitos devem ser monitorados.",
+   "Correta: orientar o controle do sódio e a adesão ao tratamento é medida fundamental para prevenir exacerbações.",
+   "Errada: a atividade física é individualizada e supervisionada conforme o estágio; exercício intenso para todos é contraindicado na descompensação."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A gerência em enfermagem envolve a coordenação e a supervisão de equipes, além da gestão de recursos e de processos de trabalho. Evidenciando as responsabilidades do enfermeiro gerente, é coerente afirmar que:",
+  "alts": [
+   "a avaliação de desempenho da equipe de enfermagem é uma responsabilidade do enfermeiro gerente, que deve utilizar critérios objetivos e subjetivos para promover o desenvolvimento profissional e a qualidade da assistência",
+   "o enfermeiro gerente é responsável exclusivamente pela supervisão direta da assistência prestada, não se envolvendo na gestão de recursos materiais e financeiros da unidade",
+   "a elaboração de escalas de trabalho é uma atribuição que deve ser realizada de maneira fixa e imutável, sem considerar as necessidades individuais dos profissionais e as demandas da unidade",
+   "a comunicação eficaz é irrelevante para a gerência em enfermagem, uma vez que as decisões gerenciais são tomadas exclusivamente pelo enfermeiro gerente sem a necessidade de interação com a equipe"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 7.498/1986, art. 11, I, alíneas a e c",
+  "coment": "Cabe privativamente ao enfermeiro a chefia de serviço e de unidade de enfermagem e o planejamento, a organização, a coordenação, a execução e a avaliação dos serviços de assistência de enfermagem (Lei 7.498/1986, art. 11, I, a e c). Avaliar o desempenho da equipe faz parte dessa função e serve ao desenvolvimento profissional e à qualidade do cuidado, combinando critérios objetivos (metas, indicadores) e subjetivos (relacionamento, iniciativa). O gerente também administra recursos materiais e custos, monta escalas que conciliam demanda e necessidades da equipe e depende de comunicação eficaz.",
+  "porAlt": [
+   "Correta: a avaliação de desempenho é responsabilidade do enfermeiro gerente e usa critérios objetivos e subjetivos para o desenvolvimento da equipe e a qualidade.",
+   "Errada: a gerência inclui a gestão de recursos materiais, custos e pessoal, não só a supervisão direta da assistência.",
+   "Errada: a escala é planejada conforme a demanda da unidade, o dimensionamento e as necessidades dos profissionais, e é revista quando preciso.",
+   "Errada: a comunicação eficaz é ferramenta central da gerência e as decisões envolvem a equipe."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No contexto da gestação, a compatibilidade entre o tipo de sangue materno e o fetal é fundamental para a prevenção de condições que comprometam o recém-nascido, como a eritroblastose fetal. Com base nesse tema, afirma-se que:",
+  "alts": [
+   "a eritroblastose fetal ocorre apenas quando a mãe tem sangue ABO incompatível com o do feto, independentemente do fator Rh",
+   "mulheres Rh negativo podem desenvolver anticorpos anti-D contra o sangue do feto Rh positivo, colocando gestações subsequentes em risco",
+   "o uso de imunoglobulina anti-D durante a gestação é contra-indicado, pois favorece a formação de anticorpos maternos contra o fator Rh",
+   "o fator Rh não apresenta relevância na gestação e não pode interferir na saúde do feto e da mãe"
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Manual de Gestação de Alto Risco (MS, 2022)",
+  "coment": "Na doença hemolítica perinatal por Rh, a mãe Rh negativo exposta a hemácias Rh positivo (parto, aborto, sangramento, procedimento invasivo) produz anticorpos anti-D. Na gestação seguinte de feto Rh positivo, esses anticorpos IgG atravessam a placenta e destroem as hemácias fetais, causando anemia, hidropsia e icterícia grave. Por isso a gestante Rh negativo faz Coombs indireto e, não sensibilizada, recebe imunoglobulina anti-D 300 µg IM com 28 semanas e até 72 horas após parto de recém-nascido Rh positivo ou evento sensibilizante (Manual de Gestação de Alto Risco, MS, 2022).",
+  "porAlt": [
+   "Errada: a incompatibilidade ABO causa doença em geral leve; a eritroblastose clássica e grave é a da aloimunização pelo fator Rh.",
+   "Correta: a mulher Rh negativo pode produzir anti-D contra hemácias de feto Rh positivo, o que põe em risco as gestações seguintes.",
+   "Errada: a imunoglobulina anti-D é indicada justamente para prevenir a sensibilização materna, com 28 semanas e após o parto ou evento sensibilizante.",
+   "Errada: o fator Rh é decisivo na gestação, e a gestante Rh negativo tem rastreamento com Coombs indireto e profilaxia."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A gerência em enfermagem envolve a aplicação de teorias e modelos de gestão para otimizar os processos de trabalho e melhorar a qualidade da assistência. De acordo com as teorias de gestão aplicadas à enfermagem, é certo dizer que:",
+  "alts": [
+   "a Teoria Clássica da Administração, proposta por Henri Fayol, enfatiza a importância da flexibilidade e da adaptação às mudanças, priorizando a descentralização das decisões e a autonomia dos trabalhadores",
+   "a Teoria das Relações Humanas, desenvolvida por Elton Mayo, destaca a importância dos aspectos emocionais e das relações interpessoais no ambiente de trabalho, promovendo a satisfação e o bem-estar dos profissionais",
+   "a Teoria da Contingência, de Fiedler, defende que não existe uma única maneira ideal de organizar e gerenciar uma equipe, sendo necessário adotar um estilo de liderança rígido e autocrático para garantir a eficiência",
+   "a Teoria X e Y, de Douglas McGregor, sugere que os trabalhadores são naturalmente desmotivados e necessitam de controle rigoroso e de supervisão constante para desempenhar suas funções adequadamente"
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Experiência de Hawthorne (Elton Mayo, 1927-1932); McGregor, The Human Side of Enterprise, 1960",
+  "coment": "A Teoria das Relações Humanas nasceu da experiência de Hawthorne, conduzida por Elton Mayo, que mostrou que a produtividade depende de fatores sociais e emocionais, dos grupos informais e da satisfação, e não só de salário e condições físicas. Na enfermagem, inspira a valorização do grupo, da comunicação e do clima de trabalho. As outras teorias foram descritas pelo avesso: Fayol defende centralização e unidade de comando; a contingência nega um estilo único; McGregor contrapõe a teoria X (controle) à teoria Y (o trabalhador busca responsabilidade).",
+  "porAlt": [
+   "Errada: a Teoria Clássica de Fayol enfatiza estrutura, hierarquia, unidade de comando e centralização, e não flexibilidade e descentralização.",
+   "Correta: a Teoria das Relações Humanas, de Elton Mayo, destaca os aspectos emocionais e as relações interpessoais, buscando satisfação e bem-estar.",
+   "Errada: para a abordagem contingencial o estilo de liderança depende da situação; impor estilo rígido e autocrático contradiz a própria teoria.",
+   "Errada: a alternativa descreve só a teoria X; McGregor propõe também a teoria Y, em que o trabalhador se motiva e busca responsabilidade."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A hemovigilância é um componente essencial da hemoterapia, garantindo a segurança dos pacientes e a qualidade dos hemocomponentes. Falando dos aspectos da hemovigilância, pode-se versar que:",
+  "alts": [
+   "a notificação de eventos adversos transfusionais é obrigatória apenas para reações imediatas graves, sendo opcional para reações leves ou tardias",
+   "a hemovigilância envolve a coleta e análise sistemática de dados relacionados a eventos adversos, mas não se aplica à fase de pré-transfusão, focando apenas na fase pós-transfusional",
+   "as reações transfusionais febris não hemolíticas são comuns e, embora sejam menos graves, devem ser notificadas e investigadas para prevenir recorrências e melhorar a segurança transfusional",
+   "a hemovigilância é uma atribuição exclusiva do enfermeiro responsável pela transfusão, não havendo necessidade de envolver outros profissionais da equipe de saúde"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 34/2014; Instrução Normativa ANVISA 196/2022",
+  "coment": "Hemovigilância é o conjunto de procedimentos de vigilância de todo o ciclo do sangue, da doação à transfusão e ao acompanhamento do receptor, para detectar, notificar e prevenir eventos adversos. Toda reação transfusional, de qualquer gravidade, imediata ou tardia, é notificada no Notivisa; pela IN 196/2022, o óbito atribuído à transfusão é comunicado em até 72 horas e as demais reações até o 15º dia útil do mês seguinte. A reação febril não hemolítica é das mais frequentes e, embora em geral benigna, precisa ser investigada para excluir hemólise e contaminação.",
+  "porAlt": [
+   "Errada: toda reação transfusional, leve, grave, imediata ou tardia, é de notificação obrigatória no Notivisa.",
+   "Errada: a hemovigilância abrange todo o ciclo, inclusive a fase pré-transfusional, como erros de coleta, identificação e quase erros.",
+   "Correta: a reação febril não hemolítica é comum e menos grave, mas deve ser notificada e investigada para prevenir recorrências.",
+   "Errada: a hemovigilância envolve toda a equipe, o serviço de hemoterapia e a gerência de risco, e não só o enfermeiro."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A administração de hemocomponentes exige conhecimento aprofundado dos tipos de reações transfusionais e das medidas de intervenção apropriadas. Sendo assim, considera-se que:",
+  "alts": [
+   "na suspeita de reação alérgica leve, como urticária, a transfusão deve ser imediatamente interrompida e o hemocomponente descartado, sem possibilidade de reinfusão",
+   "a sobrecarga circulatória associada à transfusão (TACO) é uma reação rara e geralmente não requer intervenção específica, sendo suficiente monitorar o paciente até a resolução espontânea dos sintomas",
+   "a transfusão de hemocomponentes em pacientes com histórico de anafilaxia deve ser realizada sem pré-medicação, uma vez que a administração profilática de anti-histamínicos e corticoides pode mascarar sinais de reação grave",
+   "a reação hemolítica aguda é caracterizada por sintomas como febre, calafrios, dor lombar e hemoglobinemia, exigindo interrupção imediata da transfusão e medidas de suporte intensivo"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Guia para o uso de hemocomponentes (MS, 2ª ed., 2015); Portaria GM/MS 11.685/2026",
+  "coment": "A reação hemolítica aguda, quase sempre por incompatibilidade ABO após erro de identificação, começa nos primeiros minutos com febre, calafrios, dor lombar e no acesso, hipotensão, hemoglobinemia e urina escura, podendo evoluir para coagulação intravascular e insuficiência renal. A conduta é parar a transfusão, manter o acesso com soro fisiológico, conferir paciente e bolsa, comunicar médico e agência transfusional, hidratar e manter diurese, com suporte intensivo. A urticária isolada é a única reação em que a mesma bolsa pode ser retomada após anti-histamínico e liberação médica.",
+  "porAlt": [
+   "Errada: na urticária leve isolada a transfusão é pausada e pode ser retomada com a mesma bolsa após anti-histamínico e liberação médica.",
+   "Errada: a TACO não é rara e exige intervenção: parar a transfusão, elevar a cabeceira, oxigênio e diurético prescrito.",
+   "Errada: em paciente com história de reação alérgica grave a conduta inclui pré-medicação prescrita e, conforme o caso, hemocomponente lavado.",
+   "Correta: a reação hemolítica aguda cursa com febre, calafrios, dor lombar e hemoglobinemia e exige interrupção imediata e suporte intensivo."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A assistência de enfermagem a pacientes com doenças hepáticas crônicas, como a cirrose, envolve uma série de cuidados específicos para prevenir complicações e promover a qualidade de vida. A respeito desses cuidados de enfermagem, é coerente dizer que:",
+  "alts": [
+   "a administração de diuréticos deve ser evitada em pacientes com ascite, pois pode agravar a retenção de líquidos e aumentar o risco de peritonite bacteriana espontânea",
+   "a monitorização dos níveis de amônia sanguínea é irrelevante, uma vez que a encefalopatia hepática não está diretamente relacionada à concentração de amônia no sangue",
+   "a orientação ao paciente sobre a restrição de sódio na dieta é fundamental para controlar a ascite e prevenir a retenção hídrica",
+   "a realização de paracentese terapêutica é indicada apenas em casos de ascite refratária e deve ser evitada em pacientes com coagulopatia, independentemente do grau de severidade"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "EASL Clinical Practice Guidelines for the management of patients with decompensated cirrhosis, 2018",
+  "coment": "A ascite da cirrose resulta da retenção renal de sódio e água. O tratamento se apoia na restrição moderada de sódio da dieta e no diurético (espironolactona, com ou sem furosemida), com peso diário e controle de eletrólitos e função renal (EASL, 2018). A enfermagem orienta a dieta com pouco sal, pesa o paciente e vigia sinais de encefalopatia, ligada à amônia, e de peritonite bacteriana espontânea. A paracentese de grande volume é tratamento de primeira linha da ascite volumosa, e a coagulopatia da cirrose não a contraindica.",
+  "porAlt": [
+   "Errada: diurético é tratamento de base da ascite, ao lado da restrição de sódio, e não aumenta o risco de peritonite.",
+   "Errada: a amônia participa da fisiopatologia da encefalopatia hepática, tratada com lactulose para reduzi-la.",
+   "Correta: a restrição de sódio da dieta é medida fundamental para controlar a ascite e a retenção hídrica.",
+   "Errada: a paracentese de alívio está indicada na ascite volumosa ou tensa, e a coagulopatia da cirrose não a contraindica de rotina."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os cuidados de enfermagem a pacientes com doenças respiratórias crônicas, como a asma, envolvem o manejo adequado dos sintomas e a educação para o autocuidado. Estando atento a essas informações, podemos indicar que a orientação correta é:",
+  "alts": [
+   "a orientação sobre o uso correto dos dispositivos inalatórios é crucial para garantir a eficácia do tratamento e prevenir exacerbações",
+   "a monitorização do pico de fluxo expiratório é desnecessária na avaliação do controle da asma, sendo suficiente a avaliação clínica dos sintomas",
+   "a administração de corticosteroides inalatórios deve ser evitada, pois seu uso prolongado pode levar ao desenvolvimento de dependência e efeitos colaterais sistêmicos graves",
+   "a exposição a alérgenos deve ser minimizada apenas durante as crises asmáticas, sendo desnecessário adotar medidas preventivas em períodos de controle da doença"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Doenças respiratórias",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Global Initiative for Asthma (GINA) 2026",
+  "coment": "Na asma, boa parte da falha de tratamento vem de técnica inalatória errada: mais de dois terços dos pacientes erram algum passo, e a técnica deve ser demonstrada e conferida na consulta antes de se escalar o tratamento. O corticoide inalatório é a base do controle e reduz exacerbações e mortes; o GINA não recomenda mais o broncodilatador de curta ação isolado em adolescentes e adultos. O pico de fluxo ajuda no monitoramento e no plano de ação, e o controle de alérgenos e irritantes vale também fora das crises.",
+  "porAlt": [
+   "Correta: orientar o uso correto dos dispositivos inalatórios garante a eficácia do tratamento e previne exacerbações.",
+   "Errada: o pico de fluxo expiratório é útil no monitoramento e no plano de ação escrito, complementando a avaliação dos sintomas.",
+   "Errada: o corticoide inalatório é a base do tratamento de manutenção, não causa dependência e tem efeitos sistêmicos pequenos nas doses usuais.",
+   "Errada: a redução da exposição a alérgenos e irritantes é medida preventiva contínua, inclusive com a doença controlada."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O transporte de hemoderivados é uma etapa crítica na cadeia de hemoterapia, exigindo rigorosos controles para garantir a qualidade e a segurança dos produtos. Sobre os procedimentos e as normas para o transporte de hemoderivados, afirma-se que:",
+  "alts": [
+   "o transporte de concentrado de hemácias deve ser realizado em temperatura ambiente, desde que o tempo de transporte não exceda 24 horas, para evitar a degradação dos componentes celulares",
+   "a temperatura ideal para o transporte de plaquetas é de 1°C a 6°C, semelhante à temperatura de armazenamento do concentrado de hemácias, para manter a viabilidade das plaquetas",
+   "o plasma fresco congelado (PFC) deve ser transportado em temperatura de -18°C ou inferior, garantindo a preservação dos fatores de coagulação até o momento do uso",
+   "o transporte de hemoderivados pode ser realizado sem monitorização contínua da temperatura, desde que o recipiente esteja devidamente identificado e lacrado"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 11.685/2026 (Anexo IV-B da Portaria de Consolidação 5/2017); RDC ANVISA 34/2014",
+  "coment": "Cada hemocomponente tem temperatura própria de conservação, mantida também no transporte, com controle e registro da temperatura. O plasma fresco congelado é armazenado congelado, a -18 °C ou menos, e assim deve chegar ao serviço, para preservar os fatores de coagulação lábeis (V e VIII); só é descongelado na hora do uso. O concentrado de hemácias é refrigerado e as plaquetas ficam em temperatura ambiente controlada, sob agitação. O regulamento técnico vigente é a Portaria 11.685/2026, que substituiu a Portaria 158/2016.",
+  "porAlt": [
+   "Errada: o concentrado de hemácias é conservado e transportado refrigerado, nunca em temperatura ambiente por horas.",
+   "Errada: plaquetas são conservadas em temperatura ambiente controlada, em torno de 20 a 24 °C; refrigerá-las compromete a função plaquetária.",
+   "Correta: o plasma fresco congelado deve ser mantido congelado, a -18 °C ou menos, até o uso, para preservar os fatores de coagulação.",
+   "Errada: o transporte exige controle e registro da temperatura em caixa térmica validada; identificação e lacre não bastam."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Hemominas 2025, Enfermeiro",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O índice de Aldrete e Kroulik tem como objetivo sistematizar as condições fisiológicas para a previsibilidade da alta da sala de recuperação anestésica (RPA). Portanto, avalia os seguintes parâmetros:",
+  "alts": [
+   "atividade motora, perfusão, circulação, estado de consciência e lesão por pressão",
+   "débito urinário, respiração, circulação, estado de consciência e saturação de oxigênio",
+   "débito cardíaco, respiração, gasometria, estado de consciência e saturação de oxigênio",
+   "atividade motora, respiração, circulação, estado de consciência e saturação de oxigênio"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Recuperação pós-anestésica",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Índice de Aldrete e Kroulik, 1970, modificado por Aldrete, 1995",
+  "coment": "O índice de Aldrete e Kroulik, publicado em 1970, soma cinco itens pontuados de 0 a 2, com máximo de 10: atividade motora, respiração, circulação (pressão arterial comparada à pré-anestésica), consciência e cor da pele. Em 1995 Aldrete trocou a cor pela saturação de oxigênio na oximetria de pulso, versão chamada de índice modificado e usada nas SRPA. O enfermeiro aplica e registra o índice; a alta da SRPA é ato médico (Res. CFM 2.174/2017).",
+  "porAlt": [
+   "Errada: perfusão e lesão por pressão não fazem parte do índice; os itens são atividade, respiração, circulação, consciência e saturação.",
+   "Errada: débito urinário não entra no índice de Aldrete e Kroulik; a diurese só aparece nos itens acrescentados para cirurgia ambulatorial.",
+   "Errada: débito cardíaco e gasometria não fazem parte do índice, que usa apenas parâmetros clínicos e a oximetria.",
+   "Correta: o índice modificado avalia atividade motora, respiração, circulação, estado de consciência e saturação de oxigênio."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A substância presente no sistema respiratório que diminui a tensão superficial nos alvéolos, sobretudo nos menores, isto é, torna mais fácil a expansão dos alvéolos, é chamada de:",
+  "alts": [
+   "peptídeo hidrofóbico das células ciliais",
+   "surfactante das células alveolares tipo II",
+   "surfactante das células mesenquimais tipo I",
+   "gamaglobulina das células alveolares do tipo III"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Doenças respiratórias",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guyton e Hall, Tratado de Fisiologia Médica, 14ª ed., 2021",
+  "coment": "O surfactante é uma mistura de fosfolipídios, principalmente dipalmitoilfosfatidilcolina, e proteínas, secretada pelos pneumócitos (células alveolares) tipo II. Ele reduz a tensão superficial do líquido que reveste os alvéolos, o que facilita a expansão e impede o colapso dos alvéolos menores, que pela lei de Laplace tenderiam a se esvaziar nos maiores. Os pneumócitos tipo I formam a superfície das trocas gasosas. A falta de surfactante no prematuro causa a síndrome do desconforto respiratório do recém-nascido.",
+  "porAlt": [
+   "Errada: a substância que reduz a tensão superficial alveolar é o surfactante, produzido nos alvéolos e não pelas células ciliadas.",
+   "Correta: o surfactante é produzido pelas células alveolares tipo II e reduz a tensão superficial, sobretudo nos alvéolos menores.",
+   "Errada: o surfactante vem dos pneumócitos tipo II; os do tipo I revestem a superfície das trocas gasosas e não são mesenquimais.",
+   "Errada: gamaglobulina é anticorpo e não existe célula alveolar tipo III na classificação usual dos pneumócitos."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a RDC nº 15 de 2012, que estabelece os requisitos de boas práticas para o funcionamento dos serviços que realizam o processamento de produtos para a saúde, o processo físico ou químico que destrói microrganismos patogênicos na forma vegetativa, microbactérias, a maioria dos vírus e dos fungos, de objetos inanimados e superfícies, é chamada de desinfecção de nível:",
+  "alts": [
+   "alto",
+   "baixo",
+   "muito alto",
+   "intermediário"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 15/2012, art. 4º (definições)",
+  "coment": "A RDC 15/2012 define desinfecção de nível intermediário como o processo físico ou químico que destrói microrganismos patogênicos na forma vegetativa, micobactérias, a maioria dos vírus e dos fungos, de objetos inanimados e superfícies. A de alto nível vai além e destrói todas as bactérias vegetativas, micobactérias, fungos e vírus, e parte dos esporos. A de baixo nível não elimina micobactérias. Na classificação de Spaulding, o semicrítico pede alto nível; para assistência ventilatória, anestesia e inaloterapia a RDC aceita no mínimo o nível intermediário ou termodesinfecção.",
+  "porAlt": [
+   "Errada: a desinfecção de alto nível destrói também parte dos esporos, além de todas as formas vegetativas, micobactérias, fungos e vírus.",
+   "Errada: a desinfecção de baixo nível não destrói micobactérias, que é exatamente o que separa o nível intermediário do baixo.",
+   "Errada: a RDC 15/2012 não prevê desinfecção de nível muito alto; acima do alto nível está a esterilização.",
+   "Correta: é a definição literal de desinfecção de nível intermediário na RDC 15/2012, que inclui micobactérias, a maioria dos vírus e dos fungos."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com os princípios e as técnicas da tricotomia pré-operatória, quando o paciente apresenta pelos que necessitam da remoção, o enfermeiro deve proceder à retirada:",
+  "alts": [
+   "imediatamente antes da cirurgia e, de preferência, utilizando tricotomizadores elétricos",
+   "48 horas antes da cirurgia e, de preferência, utilizando tricotomizadores elétricos",
+   "96 horas antes da cirurgia e, de preferência, utilizando lâminas de barbear",
+   "24 horas antes da cirurgia e, de preferência, utilizando bisturi"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017",
+  "coment": "A tricotomia não é rotina no pré-operatório. Quando o pelo atrapalha o acesso cirúrgico, remove-se imediatamente antes da cirurgia, fora da sala operatória, com tricotomizador elétrico (ANVISA, Caderno 4, 2017). A lâmina de barbear e a tricotomia na véspera causam microlesões na pele que são colonizadas e aumentam a infecção de sítio cirúrgico. Quanto maior o intervalo entre a tricotomia e a incisão, maior o risco.",
+  "porAlt": [
+   "Correta: a remoção dos pelos, quando necessária, é feita imediatamente antes da cirurgia e com tricotomizador elétrico.",
+   "Errada: tricotomia 48 horas antes deixa microlesões colonizadas e aumenta a infecção de sítio cirúrgico.",
+   "Errada: a lâmina de barbear é contraindicada, e fazer a tricotomia dias antes amplia ainda mais o risco de infecção.",
+   "Errada: bisturi não é instrumento de tricotomia, e o intervalo de 24 horas também aumenta o risco de infecção."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A tuberculose (TB) foi conhecida no século XIX como peste branca e afetou milhares de pessoas em todo o mundo. A TB pode ser causada por qualquer uma das sete espécies que integram o complexo Mycobacterium tuberculosis. São elas:",
+  "alts": [
+   "M. cruzi, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. leprae",
+   "M. tuberculosis, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. caprae",
+   "M. leprae, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. baumanii",
+   "M. pertusis, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. pmeumonie"
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Manual de Recomendações para o Controle da Tuberculose no Brasil (MS, 2ª ed. atualizada, 2019)",
+  "coment": "O Manual de Recomendações para o Controle da Tuberculose no Brasil (MS, 2019) lista sete espécies no complexo Mycobacterium tuberculosis: M. tuberculosis, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedii e M. caprae. A principal causa da doença humana é o M. tuberculosis (bacilo de Koch); o M. bovis está ligado ao leite não pasteurizado. O M. leprae causa hanseníase e não pertence ao complexo. A grafia 'pinnipedi' da alternativa é da banca.",
+  "porAlt": [
+   "Errada: M. leprae é o agente da hanseníase, e 'M. cruzi' não existe; o Trypanosoma cruzi causa doença de Chagas.",
+   "Correta: são as sete espécies do complexo M. tuberculosis listadas pelo Ministério da Saúde.",
+   "Errada: M. leprae causa hanseníase e Acinetobacter baumannii é bactéria gram-negativa, nenhum dos dois do complexo.",
+   "Errada: a coqueluche é causada pela Bordetella pertussis, e o pneumococo é Streptococcus pneumoniae, não micobactérias."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os fios cirúrgicos devem ser de alta resistência a tração e a torção para evitar complicações no pós-operatório imediato. Existem inúmeras classificações acerca do tipo do fio. Um exemplo de fio absorvível de origem animal é o:",
+  "alts": [
+   "de seda",
+   "de nylon",
+   "categute simples",
+   "de ácido polidioxanona"
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Rothrock, Alexander's Care of the Patient in Surgery, 16ª ed., 2019 (fios de sutura)",
+  "coment": "Os fios de sutura se classificam pela absorção (absorvíveis e inabsoríveis) e pela origem (animal, vegetal, sintética ou mineral). O categute (simples ou cromado) é absorvível de origem animal, feito de colágeno de intestino de ovinos ou bovinos, e é absorvido por digestão enzimática; o cromado demora mais. A seda é inabsorvível de origem animal, o nylon é inabsorvível sintético e a polidioxanona (PDS) é absorvível sintética, absorvida por hidrólise.",
+  "porAlt": [
+   "Errada: a seda é de origem animal, mas é classificada como inabsorvível.",
+   "Errada: o nylon é fio sintético e inabsorvível.",
+   "Correta: o categute simples é fio absorvível de origem animal, feito de colágeno e absorvido por digestão enzimática.",
+   "Errada: a polidioxanona é absorvível, mas sintética, absorvida por hidrólise."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A droga que antagoniza a ação da acetilcolina, um neurotransmissor parassimpático, nos receptores muscarínicos, bloqueando o efeito do nervo vago, tanto no nó sinoatrial como no nó atrioventricular, aumentando a frequência de disparos do nó sinusal e facilitando a condução atrioventricular, é chamada de:",
+  "alts": [
+   "noradrenalina",
+   "dobutamina",
+   "adenosina",
+   "atropina"
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Diretrizes da American Heart Association para RCP e ACE, 2025 (bradicardia com pulso)",
+  "coment": "A atropina é antagonista competitivo da acetilcolina nos receptores muscarínicos. Ao bloquear o efeito vagal sobre os nós sinoatrial e atrioventricular, aumenta a frequência sinusal e facilita a condução atrioventricular, por isso é o fármaco de primeira linha na bradicardia sintomática (AHA). Também é o antídoto da síndrome colinérgica por organofosforados e carbamatos. Não faz parte do algoritmo de parada cardiorrespiratória. A adenosina faz o oposto no nó AV: bloqueia transitoriamente a condução e reverte taquicardia supraventricular.",
+  "porAlt": [
+   "Errada: a noradrenalina é agonista adrenérgico, sobretudo alfa-1, usada como vasopressor, e não antagonista muscarínico.",
+   "Errada: a dobutamina é agonista beta-1, inotrópico, e não age bloqueando a acetilcolina.",
+   "Errada: a adenosina deprime o nó atrioventricular e reverte taquicardia supraventricular, efeito oposto ao descrito.",
+   "Correta: a atropina bloqueia os receptores muscarínicos, retira o efeito vagal e aumenta a frequência sinusal e a condução AV."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A oxihemoglobina (OXI-HB), em sua quase a totalidade, é a molécula responsável pelo transporte de oxigênio (O2) para as células. São alguns fatores que diminuem a afinidade da OXI-HB por O2, ou seja, desviam a curva para direita:",
+  "alts": [
+   "hipertermia, corticoides, acidoses e fosfatos orgânicos",
+   "hipocapnia, hipotermia, aumento de hemoglobina e alcalose",
+   "hipercapnia, hipotermia maligna, sangramentos e queda da saturação",
+   "corticoides, alcaloses, hipertermia e hiperlactatemia com ânion gap aumentado"
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Oxigenoterapia e vias aéreas",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Guyton e Hall, Tratado de Fisiologia Médica, 14ª ed., 2021 (curva de dissociação da oxiemoglobina)",
+  "coment": "Desviam a curva de dissociação da oxiemoglobina para a direita, reduzindo a afinidade da hemoglobina pelo oxigênio e facilitando sua liberação nos tecidos, o aumento da temperatura, do CO2 e do íon hidrogênio (acidose, efeito Bohr) e o aumento do 2,3-difosfoglicerato, o fosfato orgânico da hemácia. Alcalose, hipocapnia e hipotermia desviam para a esquerda. A alternativa oficial reúne hipertermia, acidose e fosfatos orgânicos; a inclusão de corticoides não está entre os fatores clássicos dos tratados de fisiologia, e a alternativa vence por exclusão.",
+  "porAlt": [
+   "Correta: hipertermia, acidose e fosfatos orgânicos (2,3-DPG) desviam a curva para a direita; corticoides não constam da lista clássica, mas as outras opções têm erros maiores.",
+   "Errada: hipocapnia, hipotermia e alcalose desviam a curva para a esquerda, aumentando a afinidade pelo oxigênio.",
+   "Errada: sangramento e queda da saturação não são fatores de desvio, e 'hipotermia maligna' não existe; a síndrome é a hipertermia maligna.",
+   "Errada: a alcalose desvia a curva para a esquerda, o que invalida a alternativa."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as diretrizes do Ministério da Saúde, entende-se como parto normal ou espontâneo, diferente da cesariana, aquele em que não foram utilizados fórceps e vácuo extrator. Entretanto, podem ocorrer intervenções baseadas em evidências científicas, em circunstâncias apropriadas, para facilitar o progresso do parto e um parto vaginal normal, tais como:",
+  "alts": [
+   "alívio farmacológico da dor, estimulação do trabalho de parto com vasopressina e manobra hipoativa no segundo período",
+   "estimulação do trabalho de parto com vasopressina, ruptura natural de membranas e manobra ativa no terceiro período",
+   "alívio não farmacológico da dor, manobra ativa no terceiro período e estimulação do trabalho de parto com fenoterol",
+   "estimulação do trabalho de parto com ocitocina, ruptura artificial de membranas e manobra ativa no terceiro período"
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes Nacionais de Assistência ao Parto Normal (MS, 2017)",
+  "coment": "As Diretrizes Nacionais de Assistência ao Parto Normal (MS, 2017) adotam definição em que o parto normal é o que começa e termina espontaneamente, sem fórceps, vácuo extrator ou cesariana, mas admite intervenções baseadas em evidência em circunstâncias apropriadas: estimulação do trabalho de parto com ocitocina, ruptura artificial de membranas, alívio farmacológico e não farmacológico da dor e manejo ativo do terceiro período. Vasopressina e fenoterol não estimulam o parto; o fenoterol é tocolítico, usado para inibir contrações.",
+  "porAlt": [
+   "Errada: vasopressina não é usada para estimular o trabalho de parto, e 'manobra hipoativa no segundo período' não é intervenção reconhecida.",
+   "Errada: a estimulação do parto é feita com ocitocina, e a ruptura natural das membranas não é intervenção.",
+   "Errada: o fenoterol é tocolítico, inibe as contrações, e não estimula o trabalho de parto.",
+   "Correta: ocitocina, amniotomia e manejo ativo do terceiro período são intervenções admitidas no parto normal."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A leptospirose é um grave problema de saúde pública no Brasil e uma zoonose de importância mundial, causada por leptospiras patogênicas, transmitidas pelo contato com urina de animais infectados ou com água e lama contaminadas pela bactéria. O período de incubação da doença varia de:",
+  "alts": [
+   "1 a 30 dias, sendo mais frequente entre 5 e 14 dias",
+   "7 a 40 dias, sendo mais frequente entre 7 e 14 dias",
+   "10 a 45 dias, sendo mais frequente entre 12 e 20 dias",
+   "14 a 60 dias, sendo mais frequente entre 16 e 24 dias"
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Guia de Vigilância em Saúde (MS, 2024), capítulo Leptospirose",
+  "coment": "Pelo Guia de Vigilância em Saúde do Ministério da Saúde, o período de incubação da leptospirose vai de 1 a 30 dias, mais frequentemente de 5 a 14 dias. Por isso, após enchente, a suspeita se mantém por cerca de um mês para quem teve contato com água ou lama. A doença tem fase precoce semelhante à gripe, com mialgia intensa sobretudo nas panturrilhas, e pode evoluir para a forma grave com icterícia rubínica, insuficiência renal e hemorragia pulmonar (síndrome de Weil). É de notificação imediata ao município.",
+  "porAlt": [
+   "Correta: a incubação da leptospirose vai de 1 a 30 dias, mais frequente entre 5 e 14 dias, segundo o Ministério da Saúde.",
+   "Errada: o limite inferior é 1 dia e o superior 30 dias; 40 dias excede o período descrito.",
+   "Errada: a doença pode surgir já no primeiro dia após a exposição, e 45 dias excede o período de incubação.",
+   "Errada: 14 a 60 dias não corresponde à leptospirose, cujos casos se concentram nas duas primeiras semanas."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A infecção pelo vírus da dengue causa uma doença de amplo espectro clínico, incluindo desde formas pouco sintomáticas até quadros graves, podendo evoluir para o óbito. São exemplos de sinais de alarme na dengue:",
+  "alts": [
+   "dor abdominal leve e contínua, hepatomegalia indolor e aumento da diurese",
+   "dor abdominal intensa e contínua, hepatomegalia dolorosa e diminuição da diurese",
+   "sangramento de mucosa, queda abrupta de plaquetas e hepatoesplenomegalia indolor",
+   "prova do laço positiva, aumento abruto de plaquetas e queda do volume urinário em 24 horas"
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Dengue: diagnóstico e manejo clínico, adulto e criança (MS, 6ª ed., 2024)",
+  "coment": "Os sinais de alarme aparecem na queda da febre, quando começa o extravasamento plasmático. A lista vigente (MS, 6ª ed., 2024) é: dor abdominal intensa e contínua, vômitos persistentes, acúmulo de líquidos, hipotensão postural ou lipotimia, hepatomegalia acima de 2 cm, sangramento de mucosa, letargia ou irritabilidade e aumento progressivo do hematócrito. A alternativa oficial vem da lista das edições antigas, que falava em hepatomegalia dolorosa e diminuição da diurese; a oligúria hoje entra como sinal de hipoperfusão e choque. Mesmo assim é a única alternativa só com sinais de gravidade.",
+  "porAlt": [
+   "Errada: a dor abdominal de alarme é intensa e contínua, e a diurese diminui, não aumenta, quando há extravasamento.",
+   "Correta: dor abdominal intensa e contínua, hepatomegalia e diminuição da diurese indicam evolução para a fase crítica.",
+   "Errada: sangramento de mucosa é sinal de alarme, mas hepatoesplenomegalia indolor não, e a queda de plaquetas isolada saiu da lista atual.",
+   "Errada: prova do laço positiva não é sinal de alarme, e a dengue cursa com queda, não aumento, das plaquetas."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A leucemia aguda é a principal neoplasia que acomete as crianças e os adolescentes. São situações de risco de morte para o paciente, que indicam um encaminhamento rápido para atendimento emergencial, em poucas horas:",
+  "alts": [
+   "sinais de sangramento ativo: petéquias, epistaxe; contagem de plaquetas menor do que 200.000/mm3, e hemoglobina maior que 6,0 g/dL",
+   "hemoglobina maior que 8,0 g/dL; sinais de sangramento ativo: petéquias, epistaxe, e leucócitos totais em quantidade maior que 50.000/mm3",
+   "sinais de sangramento ativo: petéquias, epistaxe; hemoglobina menor que 6,0 g/dL, e contagem de plaquetas menor que 20.000/mm3",
+   "leucócitos totais em quantidade maior que 50.000/ mm3, contagem de plaquetas maior que 20.000/mm3, e hemoglobina maior que 6,0 g/dL"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "INCA, Diagnóstico precoce do câncer na criança e no adolescente, 2ª ed., 2014",
+  "coment": "O material do INCA para a atenção primária sobre câncer infantojuvenil lista situações da leucemia aguda que põem a vida em risco e pedem encaminhamento à emergência em poucas horas: sangramento ativo (petéquias, epistaxe), hemoglobina abaixo de 6,0 g/dL, plaquetas abaixo de 20.000/mm3 e leucócitos acima de 50.000/mm3, além de febre com neutropenia e desconforto respiratório. A plaquetopenia grave traz risco de hemorragia espontânea; a anemia grave, de descompensação cardiovascular; a hiperleucocitose, de leucostase e lise tumoral.",
+  "porAlt": [
+   "Errada: o ponto de corte de risco é plaqueta abaixo de 20.000/mm3, e hemoglobina acima de 6,0 g/dL não define gravidade.",
+   "Errada: hemoglobina acima de 8,0 g/dL não é critério de risco; o critério é hemoglobina abaixo de 6,0 g/dL.",
+   "Correta: sangramento ativo, hemoglobina abaixo de 6,0 g/dL e plaquetas abaixo de 20.000/mm3 indicam encaminhamento emergencial.",
+   "Errada: leucócitos acima de 50.000/mm3 são critério de risco, mas plaquetas acima de 20.000 e hemoglobina acima de 6,0 g/dL não são."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A febre tifoide é uma doença bacteriana aguda de distribuição mundial e está associada a baixos níveis socioeconômicos, sobretudo com precárias condições de saneamento e de higiene pessoal e ambiental. A doença é causada pela:",
+  "alts": [
+   "legionella pneumophila sorotipo Cruzi",
+   "acinetobacter coccus sorotipo Typhi",
+   "tripanossoma cruzi sorotipo Delphy",
+   "salmonella enterica sorotipo Typhi"
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guia de Vigilância em Saúde (MS, 2024), capítulo Febre tifoide",
+  "coment": "A febre tifoide é causada pela bactéria Salmonella enterica sorotipo Typhi, transmitida por água e alimentos contaminados com fezes ou urina de doente ou portador, o que explica a ligação com saneamento precário. O quadro tem febre prolongada, cefaleia, mal-estar, hepatoesplenomegalia, roséolas tíficas e bradicardia relativa, com risco de perfuração intestinal. O portador crônico, com bacilo na vesícula, mantém a transmissão. Pela lista de notificação compulsória, o caso suspeito é notificado de imediato à secretaria municipal e à estadual.",
+  "porAlt": [
+   "Errada: a Legionella pneumophila causa a legionelose, pneumonia ligada a sistemas de água e ar-condicionado, e não tem sorotipo 'Cruzi'.",
+   "Errada: Acinetobacter é bacilo gram-negativo de infecção hospitalar e não causa febre tifoide.",
+   "Errada: o Trypanosoma cruzi é protozoário causador da doença de Chagas, sem relação com a febre tifoide.",
+   "Correta: o agente da febre tifoide é a Salmonella enterica sorotipo Typhi."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente Maria Clara, 65 anos, deu entrada na emergência com quadro de insuficiência respiratória do tipo hipoxêmica (SPO2: 82%). O enfermeiro instalou oxigenoterapia por meio de cânula nasal a 4 litros por minuto. Nesse caso, a fração inspirada de oxigênio (FIO2) era de aproximadamente:",
+  "alts": [
+   "16%",
+   "21%",
+   "37%",
+   "50%"
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Oxigenoterapia e vias aéreas",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "AARC Clinical Practice Guideline: Oxygen Therapy for Adults in the Acute Care Facility, 2002",
+  "coment": "A cânula nasal é sistema de baixo fluxo: o paciente mistura o oxigênio com o ar ambiente, e a fração inspirada é estimada em 21% do ar mais cerca de 4% para cada litro por minuto. Com 4 L/min: 21 + 4 × 4 = 37%. A faixa útil vai de 1 a 6 L/min; acima disso resseca a mucosa sem ganho real. A FiO2 real varia com o padrão respiratório. Na hipoxemia grave que não responde, passa-se a máscara com reservatório ou cateter de alto fluxo.",
+  "porAlt": [
+   "Errada: 16% é menos que o ar ambiente, impossível com oxigênio suplementar.",
+   "Errada: 21% é a fração de oxigênio do ar ambiente, sem nenhum suplemento.",
+   "Correta: pela estimativa de 21% mais 4% por litro, 4 L/min na cânula nasal dão FiO2 de cerca de 37%.",
+   "Errada: 50% não se alcança com cânula nasal de baixo fluxo; exige máscara de Venturi ou com reservatório."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a American Heart Association (AHA, 2020), na cadeia de sobrevivência para adultos, o primeiro elo de atendimento a uma parada cardiorrespiratória no ambiente intra-hospitalar é:",
+  "alts": [
+   "reconhecimento e prevenção precoces",
+   "suporte avançado de vida e cuidados pós-RCP",
+   "acionamento do serviço médico de emergência",
+   "ressuscitação avançada, com apoio do serviço médico de emergência"
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Destaques das Diretrizes de RCP e ACE da AHA, 2020; Diretrizes da AHA para RCP e ACE, 2025",
+  "coment": "Nas diretrizes da AHA de 2020, a cadeia de sobrevivência do adulto no hospital começava por reconhecimento e prevenção precoces, seguidos de acionamento do serviço de emergência, RCP de alta qualidade, desfibrilação, cuidados pós-PCR e recuperação. A lógica é que a parada intra-hospitalar costuma ser precedida de horas de deterioração, que a equipe deve detectar com escores de alerta e time de resposta rápida. As diretrizes de 2025 substituíram as cadeias intra e extra-hospitalar por uma cadeia única para todas as idades e locais, mas a prevenção e o reconhecimento precoce continuam no início.",
+  "porAlt": [
+   "Correta: na cadeia intra-hospitalar da AHA 2020, o primeiro elo é o reconhecimento e a prevenção precoces da deterioração.",
+   "Errada: suporte avançado e cuidados pós-RCP são elos finais da cadeia, não o primeiro.",
+   "Errada: o acionamento do serviço de emergência é o segundo elo da cadeia intra-hospitalar e o primeiro da extra-hospitalar de 2020.",
+   "Errada: ressuscitação avançada não é o primeiro elo; antes dela vêm reconhecimento, acionamento, RCP e desfibrilação."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Norma Operacional Básica (NOB/SUS/96) tem por finalidade primordial promover e consolidar o pleno exercício da função de gestor da atenção à saúde dos seus munícipios com a consequente redefinição das responsabilidades dos Estados, do Distrito Federal e da União, avançando na consolidação dos princípios do SUS. Acerca das funções do gestor estadual, são identificadas basicamente:",
+  "alts": [
+   "duas, sendo a primeira fortalecer a educação em saúde do SUS, no âmbito municipal",
+   "duas, sendo a segunda estimular a informatização do SUS, no âmbito estadual",
+   "quatro, sendo a primeira exercer a gestão do SUS, no âmbito estadual",
+   "quatro, sendo a segunda financiar vacinas no SUS, no âmbito federal"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.203/1996 (NOB-SUS 01/96)",
+  "coment": "A NOB-SUS 01/96 identifica quatro papéis básicos para o gestor estadual: exercer a gestão do SUS no âmbito estadual; promover as condições e incentivar o município a assumir a gestão da atenção à saúde de seus munícipes; assumir, em caráter transitório, a gestão da atenção das populações de municípios que ainda não a assumiram; e promover a harmonização, a integração e a modernização dos sistemas municipais, compondo o SUS estadual. A norma é histórica: foi sucedida pela NOAS, pelo Pacto pela Saúde de 2006 e pelo Decreto 7.508/2011, mas segue em editais.",
+  "porAlt": [
+   "Errada: são quatro as funções do gestor estadual, e fortalecer a educação em saúde no município não está entre elas.",
+   "Errada: a norma identifica quatro funções, e estimular a informatização não é uma delas.",
+   "Correta: são quatro funções, e a primeira é exercer a gestão do SUS no âmbito estadual.",
+   "Errada: são quatro funções, mas financiar vacinas no âmbito federal não é função do gestor estadual."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para prevenir a hipovolemia e/ou o choque no queimado, a indicação é iniciar, assim que possível, ressuscitação volêmica segura e precisa para a sobrevivência de pacientes com queimaduras extensas. Portanto, é indicada, em pacientes adultos acometidos com superfície corporal queimada (SCQ), a Regra dos Nove de:",
+  "alts": [
+   "<20%",
+   ">20%",
+   "<30%",
+   "<40%"
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Queimaduras",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Cartilha para tratamento de emergência das queimaduras (MS, 2012); ATLS, 11ª ed., 2025",
+  "coment": "O enunciado é confuso: a regra dos nove não tem ponto de corte, ela serve para estimar a superfície corporal queimada (cabeça 9%, cada membro superior 9%, tronco anterior 18%, posterior 18%, cada membro inferior 18%, períneo 1%). O que a banca pergunta é a partir de quanto se indica a reposição volêmica venosa: pela cartilha do Ministério da Saúde (2012), no adulto com mais de 20% de superfície queimada, e na criança com mais de 10%. Contam só queimaduras de 2º e 3º graus. O ATLS 11ª edição calcula 2 mL × kg × % SCQ em 24 horas, metade nas primeiras 8 horas.",
+  "porAlt": [
+   "Errada: abaixo de 20% de superfície queimada o adulto em geral é hidratado por via oral, sem reposição venosa formal.",
+   "Correta: a reposição volêmica venosa é indicada no adulto com mais de 20% de superfície corporal queimada, estimada pela regra dos nove.",
+   "Errada: o limite para iniciar a reposição no adulto é acima de 20%, não abaixo de 30%.",
+   "Errada: o ponto de corte não é abaixo de 40%; queimados com mais de 20% já precisam de reposição venosa."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a portaria GM/MS nº 217 de 1º de março de 2023, a doença de Creutzfeldt-Jakob (DCJ), segundo o fluxo estabelecido para o município e para o estado, possui uma periodicidade para notificação compulsória de forma:",
+  "alts": [
+   "semestral",
+   "trimestral",
+   "semanal",
+   "imediata"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 11.211/2026 (Anexo 1 do Anexo V da Portaria de Consolidação 4/2017)",
+  "coment": "A doença de Creutzfeldt-Jakob, encefalopatia espongiforme por príon, consta da lista nacional de notificação compulsória com periodicidade semanal, ao lado de hanseníase, tuberculose e sífilis. A Portaria 217/2023, citada no enunciado, foi sucedida por alterações posteriores; a lista vigente, alterada pela Portaria GM/MS 11.211/2026 e consolidada no Anexo 1 do Anexo V da PRC 4/2017, manteve a DCJ como notificação semanal. Notificação imediata é a feita em até 24 horas, reservada a agravos que exigem resposta rápida, como sarampo, cólera e raiva.",
+  "porAlt": [
+   "Errada: a lista nacional de notificação compulsória não usa periodicidade semestral.",
+   "Errada: não existe periodicidade trimestral na lista; as categorias são imediata (até 24 horas) e semanal.",
+   "Correta: a doença de Creutzfeldt-Jakob é de notificação compulsória semanal, inclusive na lista vigente de 2026.",
+   "Errada: a DCJ não está entre os agravos de notificação imediata em até 24 horas; é semanal."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As drogas vasoativas, comumente empregadas nos pacientes críticos atendidos nas emergências, apresentam efeitos vasculares periféricos, pulmonares ou cardíacos, sejam eles diretos ou indiretos. A dobutamina é uma droga simpatomimética sintética, com ação predominantemente no receptor:",
+  "alts": [
+   "beta 1 agonista",
+   "dopaminérgicos",
+   "alfa 2 agonistas",
+   "beta 2 agonistas"
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Surviving Sepsis Campaign 2026 (inotrópicos)",
+  "coment": "A dobutamina é catecolamina sintética com ação predominante nos receptores beta-1 do miocárdio, o que aumenta a contratilidade e o débito cardíaco (efeito inotrópico), com algum efeito beta-2 vasodilatador e pouco efeito alfa. Por isso é o inotrópico usado na disfunção cardíaca com hipoperfusão persistente apesar de volume e pressão adequados, somada à noradrenalina no choque séptico. Pode causar taquiarritmia e hipotensão. A ação dopaminérgica é da dopamina; a alfa-2 é de fármacos como a clonidina e a dexmedetomidina.",
+  "porAlt": [
+   "Correta: a dobutamina age predominantemente como agonista beta-1, aumentando a contratilidade miocárdica.",
+   "Errada: a ação dopaminérgica é característica da dopamina em doses baixas, não da dobutamina.",
+   "Errada: agonistas alfa-2 são clonidina e dexmedetomidina, de ação central sedativa e hipotensora.",
+   "Errada: a dobutamina tem algum efeito beta-2, mas seu efeito predominante é beta-1; agonistas beta-2 típicos são broncodilatadores como o salbutamol."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A caracterização das infrações éticas e disciplinares e a aplicação das respectivas penalidades são regidas pelo Código de Ética da Enfermagem, sem prejuízo das sanções previstas em outros dispositivos legais. A penalidade que consiste em repreensão que será divulgada nas publicações oficiais dos Conselhos Federal e Regional de Enfermagem e em jornais de grande circulação recebe o nome de:",
+  "alts": [
+   "multa",
+   "censura",
+   "cassação",
+   "suspensão"
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), art. 108, § 3º; Lei 5.905/1973, art. 18",
+  "coment": "O Código de Ética (Res. COFEN 564/2017, art. 108) prevê cinco penas: advertência verbal, multa, censura, suspensão e cassação. A censura (§ 3º) consiste em repreensão divulgada nas publicações oficiais do COFEN e do COREN e em jornais de grande circulação. A advertência verbal é reservada; a multa vai de 1 a 10 vezes a anuidade; a suspensão proíbe o exercício por até 90 dias; a cassação tira o direito ao exercício por até 30 anos e é aplicada pelo COFEN. As quatro primeiras são aplicadas pelos COREN (Lei 5.905/1973, art. 18).",
+  "porAlt": [
+   "Errada: a multa é a obrigação de pagar de 1 a 10 vezes o valor da anuidade, sem repreensão publicada.",
+   "Correta: a censura é a repreensão divulgada nas publicações oficiais dos conselhos e em jornais de grande circulação.",
+   "Errada: a cassação é a perda do direito ao exercício profissional por até 30 anos, aplicada pelo COFEN.",
+   "Errada: a suspensão é a proibição do exercício por até 90 dias, não uma repreensão publicada."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Padrão",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo protocolo da SAMU, no suporte básico de vida, a avaliação primária do paciente é importante para nortear os próximos passos. Sendo assim, quando o enfermeiro avalia a responsividade do paciente, a expansão torácica e o pulso, quando abre via aérea com manobras manuais (hiperextensão da cabeça e elevação do queixo) e quando inicia suporte ventilatório, está seguindo o seguinte protocolo:",
+  "alts": [
+   "BC5",
+   "BC4",
+   "BC3",
+   "BC2"
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Atendimento pré-hospitalar",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Protocolos de Suporte Básico de Vida, SAMU 192 (MS, 2016), protocolo BC4",
+  "coment": "Nos Protocolos de Suporte Básico de Vida do SAMU 192 (MS, revisão de 2016), o BC4 é a parada respiratória no adulto: paciente irresponsivo, com respiração agônica ou ausente e pulso central palpável. A conduta é checar responsividade e respiração, posicionar, pedir o DEA, checar pulso carotídeo em até 10 segundos e, com pulso, abrir a via aérea por manobra manual e ventilar com bolsa-valva-máscara, uma insuflação a cada 5 a 6 segundos, com oxigênio e reavaliação do pulso a cada 2 minutos. Sem pulso, passa-se ao BC5 (PCR). BC1 e BC2 são as avaliações primária e secundária; BC3, a obstrução por corpo estranho.",
+  "porAlt": [
+   "Errada: o BC5 é o protocolo de PCR e RCP, aplicado quando o pulso está ausente.",
+   "Correta: o BC4, parada respiratória no adulto, reúne checagem de responsividade e pulso, abertura manual da via aérea e suporte ventilatório.",
+   "Errada: o BC3 trata da obstrução de vias aéreas por corpo estranho (OVACE).",
+   "Errada: o BC2 é a avaliação secundária do paciente com agravo clínico."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No atendimento de casos de hemorragia digestiva baixa (HDB), os critérios de inclusão são:",
+  "alts": [
+   "o profissional presenciar, na cena do atendimento, a enterorragia; os familiares e/ou o próprio paciente relatarem episódios de enterorragia",
+   "o profissional presenciar, no ambiente hospitalar, as varizes esofagianas; os familiares e/ou o próprio paciente relatarem episódios de melena",
+   "o profissional presenciar, na cena do atendimento, a enterorragia; episódios de enterorragia relatados apenas pelo próprio paciente",
+   "o profissional ser comunicado ao telefone sobre a melena; os familiares e/ou o próprio paciente relatarem episódios de enterorragia"
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Atendimento pré-hospitalar",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Protocolos de Suporte Básico de Vida, SAMU 192 (MS, 2016), protocolo BC22",
+  "coment": "O protocolo BC22 do SAMU 192 (hemorragia digestiva baixa) tem dois critérios de inclusão: o profissional presenciar enterorragia na cena do atendimento ou episódios de enterorragia relatados por familiares ou pelo próprio paciente. A conduta segue a avaliação primária com atenção ao nível de consciência e oxigênio se a saturação estiver abaixo de 94%, a avaliação secundária com história SAMPLA, oximetria, sinais vitais e busca de sinais de choque, e o contato com a regulação médica. Melena e varizes esofágicas remetem à hemorragia digestiva alta (BC21).",
+  "porAlt": [
+   "Correta: são os dois critérios de inclusão do BC22: enterorragia presenciada na cena ou relatada por familiares ou pelo paciente.",
+   "Errada: varizes esofágicas e melena indicam hemorragia digestiva alta, e não se presenciam varizes na cena do atendimento.",
+   "Errada: o relato vale tanto do paciente quanto dos familiares; restringi-lo ao próprio paciente contraria o protocolo.",
+   "Errada: comunicação telefônica sobre melena não é critério de inclusão, e a melena aponta para sangramento digestivo alto."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No protocolo BC25 (hemoptise), o profissional deve suspeitar a partir do seguinte critério de inclusão:",
+  "alts": [
+   "expectoração sanguinolenta proveniente das vias aéreas, geralmente, de grande intensidade, com filamentos hemáticos associados ao escarro, podendo o sangramento ser maciço (150 a 400 ml de sangue) em 36 horas",
+   "expectoração sanguinolenta proveniente das vias aéreas, geralmente, de pequena intensidade, apenas com filamentos hemáticos associados ao escarro, podendo ocorrer sangramento (400 a 800 ml de sangue) em 28 horas",
+   "expectoração sanguinolenta proveniente das vias aéreas, geralmente, de pequena intensidade, apenas com filamentos hemáticos associados ao escarro, podendo o sangramento ser maciço (200 a 600 ml de sangue) em 24 horas",
+   "expectoração sanguinolenta proveniente do trato gastrointestinal, geralmente, de grande intensidade, com filamentos hemáticos associados a refluxo, podendo o sangramento ser maciço (100 a 500 ml de sangue) em 48 horas"
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Atendimento pré-hospitalar",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Protocolos de Suporte Básico de Vida, SAMU 192 (MS, 2016), protocolo BC25",
+  "coment": "O protocolo BC25 do SAMU 192 define o critério de inclusão da hemoptise como expectoração sanguinolenta proveniente das vias aéreas, geralmente de pequena intensidade, apenas com filamentos hemáticos associados ao escarro, podendo o sangramento ser maciço (200 a 600 mL de sangue em 24 horas), com necessidade de suporte de emergência e alta mortalidade. A conduta prioriza a permeabilidade da via aérea, aspiração da cavidade oral se necessária, oxigênio se a saturação estiver abaixo de 94%, monitorização do padrão respiratório e da pressão e contato com a regulação. Sangue vindo do trato digestivo é hematêmese.",
+  "porAlt": [
+   "Errada: a hemoptise costuma ser de pequena intensidade, e a faixa do sangramento maciço no protocolo é de 200 a 600 mL em 24 horas.",
+   "Errada: a faixa e o intervalo estão trocados; o protocolo fala em 200 a 600 mL em 24 horas.",
+   "Correta: reproduz o critério do BC25: escarro com filamentos de sangue, em geral pequeno, podendo ser maciço com 200 a 600 mL em 24 horas.",
+   "Errada: sangue proveniente do trato gastrointestinal caracteriza hematêmese, não hemoptise."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A infecção pelo HIV tem um acometimento sistêmico, por isso, é necessário estar atento a sinais clínicos. Nesse sentido, o exame físico deve incluir:",
+  "alts": [
+   "medida da circunferência abdominal, peso, altura, cálculo do índice de massa corpórea e aferição da pressão arterial",
+   "aferição da glicemia capilar, peso, altura, cálculo do índice de massa corpórea e medida da circunferência abdominal",
+   "ausculta pulmonar, altura, medida da circunferência abdominal, aferição da glicemia capilar e temperatura",
+   "peso, altura, cálculo do índice de massa corpórea, medida da circunferência abdominal e respiração"
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "HIV e aids",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Protocolo Clínico e Diretrizes Terapêuticas para Manejo da Infecção pelo HIV em Adultos (MS, 2018)",
+  "coment": "O PCDT de manejo da infecção pelo HIV em adultos (MS, 2018) orienta que o exame físico da avaliação inicial inclua aferição da pressão arterial, peso, altura, cálculo do índice de massa corporal e medida da circunferência abdominal, além do exame da pele, da cavidade oral, dos linfonodos e do abdome. A ênfase nesses dados vem do risco cardiovascular e metabólico aumentado da pessoa vivendo com HIV, somado ao efeito de alguns antirretrovirais sobre lipídios, glicose e distribuição de gordura. A alternativa oficial é a única que reproduz o conjunto do protocolo, com a pressão arterial.",
+  "porAlt": [
+   "Correta: pressão arterial, peso, altura, índice de massa corporal e circunferência abdominal são os itens que o PCDT destaca no exame físico.",
+   "Errada: a glicemia capilar não faz parte do conjunto do exame físico do protocolo, que pede glicemia laboratorial, e falta a pressão arterial.",
+   "Errada: a lista omite peso, índice de massa corporal e pressão arterial, que são os dados que o protocolo enfatiza.",
+   "Errada: a lista omite a aferição da pressão arterial, item central na avaliação do risco cardiovascular."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente Daniele Mendes, gestante, 25 anos de idade, compareceu à emergência devido a um quadro de vômitos persistente. Durante a anamnese, a paciente informou que a data da última menstruação (DUM) tinha sido no dia 13/04/2023. Sendo assim, a data provável do parto (DPP) será no dia:",
+  "alts": [
+   "13/12/2023",
+   "18/01/2024",
+   "19/01/2024",
+   "20/01/2024"
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Cadernos de Atenção Básica nº 32, Atenção ao Pré-Natal de Baixo Risco (MS, 2012), regra de Nägele",
+  "coment": "Pela regra de Nägele, ensinada pelo Ministério da Saúde, soma-se 7 ao dia da DUM e subtrai-se 3 do mês (ou somam-se 9 nos meses de janeiro a março). DUM 13/04/2023: 13 + 7 = 20; 4 - 3 = 1, no ano seguinte. DPP 20/01/2024. A regra é aproximação dos 280 dias de gestação: a contagem exata de 280 dias a partir de 13/04/2023, como fazem gestograma eletrônico e ultrassom, cai em 18/01/2024, a alternativa B. A banca pediu o cálculo pela regra, e a diferença de dois dias não muda a conduta.",
+  "porAlt": [
+   "Errada: 13/12/2023 corresponde a apenas 8 meses após a DUM, cerca de 35 semanas.",
+   "Errada: 18/01/2024 é a contagem exata de 280 dias, mas a regra de Nägele, pedida na prova, dá 20/01/2024.",
+   "Errada: 19/01/2024 não resulta nem da regra de Nägele nem da contagem de 280 dias.",
+   "Correta: pela regra de Nägele, 13 + 7 = 20 e abril menos 3 meses = janeiro, logo DPP em 20/01/2024."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A noradrenalina (NA) é um neurotransmissor do sistema nervoso simpático e precursor da adrenalina, uma droga amplamente utilizada no choque séptico, cuja finalidade é elevar a pressão arterial e aumentar a oferta de oxigênio. Portanto, possui atividade tanto no receptor alfa como no (a):",
+  "alts": [
+   "dopaminérgico",
+   "V1 adrenérgico",
+   "beta 1 adrenérgico",
+   "GABA ácido gama-aminobutírico"
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Surviving Sepsis Campaign 2026 (vasopressores)",
+  "coment": "A noradrenalina é catecolamina com ação predominante nos receptores alfa-1 adrenérgicos, que causa vasoconstrição e eleva a pressão arterial, e ação beta-1 moderada, que mantém ou aumenta a contratilidade e o débito cardíaco. Por isso é o vasopressor de primeira linha no choque séptico (Surviving Sepsis Campaign). A enfermagem a infunde em bomba, em via exclusiva, titulando pela pressão arterial média, e vigia extravasamento quando corre em veia periférica. V1 é receptor da vasopressina, não adrenérgico.",
+  "porAlt": [
+   "Errada: a ação em receptores dopaminérgicos é da dopamina, não da noradrenalina.",
+   "Errada: V1 é receptor da vasopressina e não existe receptor 'V1 adrenérgico'.",
+   "Correta: além do efeito alfa, a noradrenalina tem ação beta-1 adrenérgica, com efeito inotrópico.",
+   "Errada: GABA é neurotransmissor inibitório do sistema nervoso central, alvo de benzodiazepínicos, sem relação com a noradrenalina."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente João das Neves, 45 anos de idade, deu entrada na emergência com quadro de intoxicação exógena de opioides. Nesse caso, a droga considerada antagonista é o (a):",
+  "alts": [
+   "dobutamina",
+   "flumazenil",
+   "cetamina",
+   "naloxone"
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Intoxicações e acidentes",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Diretrizes da American Heart Association para RCP e ACE, 2025 (emergência por opioide)",
+  "coment": "A naloxona é antagonista competitivo dos receptores opioides e reverte a depressão respiratória e o rebaixamento da intoxicação por opioide, cuja síndrome tem miose puntiforme, bradipneia e sonolência. Como sua duração costuma ser menor que a de muitos opioides, o paciente pode voltar a deprimir e precisa de observação. As diretrizes da AHA de 2025 incorporaram a naloxona ao suporte básico: com pulso e respiração inadequada, ventilar e dar naloxona; sem pulso, a RCP vem antes. O flumazenil é o antagonista dos benzodiazepínicos.",
+  "porAlt": [
+   "Errada: a dobutamina é inotrópico agonista beta-1 e não antagoniza opioides.",
+   "Errada: o flumazenil é antagonista dos benzodiazepínicos, não dos opioides.",
+   "Errada: a cetamina é anestésico dissociativo e não reverte a intoxicação por opioide.",
+   "Correta: a naloxona é o antagonista dos receptores opioides usado na intoxicação exógena por opioide."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma paciente de 71 anos, do sexo feminino, portadora de diabetes do tipo II, hipertensa e com doença pulmonar obstrutiva crônica (DPOC), deu entrada na emergência com quadro de insuficiência respiratória aguda. Apresentava a seguinte gasometria arterial pH: 7,10; PCO2: 75 mmHg; HCO3 (-): 16 mmol/L e PO2: 58 mmHg. A partir dos valores descritos, trata-se do seguinte distúrbio:",
+  "alts": [
+   "acidose mista",
+   "acidose metabólica",
+   "acidose respiratória",
+   "alcalose metabólica"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Guyton e Hall, Tratado de Fisiologia Médica, 14ª ed., 2021 (equilíbrio ácido-base); GOLD 2026",
+  "coment": "O pH de 7,10 indica acidemia. A PCO2 de 75 mmHg (normal 35 a 45) aponta acidose respiratória, esperada na DPOC exacerbada. Na acidose respiratória pura o rim retém bicarbonato, que fica normal ou alto; aqui ele está baixo, 16 mmol/L (normal 22 a 26), o que revela acidose metabólica associada, como por lactato na hipoxemia ou cetoacidose no diabetes. Os dois componentes empurram o pH para baixo ao mesmo tempo, por isso a queda é tão intensa: é uma acidose mista, mais grave que cada distúrbio isolado.",
+  "porAlt": [
+   "Correta: PCO2 alta e bicarbonato baixo com pH de 7,10 indicam acidose respiratória e metabólica ao mesmo tempo, ou seja, acidose mista.",
+   "Errada: a acidose metabólica isolada viria com PCO2 baixa por compensação ventilatória, e não com PCO2 de 75 mmHg.",
+   "Errada: a acidose respiratória isolada teria bicarbonato normal ou elevado, e não de 16 mmol/L.",
+   "Errada: com pH de 7,10 há acidemia, e o bicarbonato está baixo, o oposto da alcalose metabólica."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2023,
+   "prova": "Prefeitura de Primavera do Leste-MT 2023, Enfermeiro Intervencionista SAMU",
+   "n": 38,
+   "parte": "especificas"
+  }
+ }
+]
