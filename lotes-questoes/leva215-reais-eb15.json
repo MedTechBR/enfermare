@@ -1,0 +1,1442 @@
+[
+ {
+  "q": "Para que o cérebro seja adequadamente perfundido, a Pressão Arterial Média (PAM) deve ser maior que a ______. Quando a PAM está entre 50 e 150 mmHg, o fluxo sanguíneo se autorregula e a perfusão cerebral é constante. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "pressão venosa central",
+   "pressão arterial diastólica",
+   "pressão intracraniana",
+   "pressão de perfusão cerebral",
+   "pressão arterial sistólica"
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Brain Trauma Foundation, Guidelines for the Management of Severe Traumatic Brain Injury, 4ª ed., 2016",
+  "coment": "A pressão de perfusão cerebral é a diferença entre a pressão que empurra o sangue para o crânio e a que se opõe a ele: PPC = PAM − PIC. Para o cérebro ser perfundido, a PAM precisa ser maior que a pressão intracraniana. Dentro da faixa de autorregulação (PAM de cerca de 50 a 150 mmHg) os vasos cerebrais ajustam o calibre e o fluxo se mantém constante; fora dela, ou com autorregulação perdida no trauma, o fluxo passa a depender diretamente da PAM. No TCE grave, a Brain Trauma Foundation (2016) mira PPC entre 60 e 70 mmHg e trata PIC acima de 22 mmHg.",
+  "porAlt": [
+   "Errada: a pressão venosa central estima pré-carga do coração direito e não entra no cálculo da perfusão cerebral.",
+   "Errada: a diastólica isolada não define perfusão cerebral; o cálculo usa a PAM, que já incorpora sistólica e diastólica.",
+   "Correta: a PPC é PAM menos PIC, logo a PAM precisa superar a pressão intracraniana.",
+   "Errada: a pressão de perfusão cerebral é o resultado da conta, não o valor que a PAM deve superar.",
+   "Errada: comparar PAM com a sistólica não faz sentido fisiológico, pois a PAM é sempre menor que a sistólica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São fatores de risco para desenvolver Delirium Tremens, exceto:",
+  "alts": [
+   "Uso sustentado de álcool",
+   "Idade menor do que 30 anos",
+   "Presença de doença precipitante",
+   "Tempo de última dose de álcool maior do que dois dias",
+   "História prévia de delirium tremens"
+  ],
+  "gab": 1,
+  "tema": "mental",
+  "sub": "Álcool e outras drogas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ASAM, Clinical Practice Guideline on Alcohol Withdrawal Management, 2020",
+  "coment": "O delirium tremens é a forma mais grave da abstinência alcoólica e surge, em geral, 48 a 96 horas após a última dose. Os fatores de risco classicamente listados são uso pesado e sustentado de álcool, episódio prévio de delirium tremens ou de convulsão de abstinência, doença clínica concomitante (infecção, trauma, pancreatite), idade acima de 30 anos e mais de dois dias desde a última dose com sintomas ainda presentes. A diretriz da ASAM (2020) associa o risco de abstinência complicada à idade mais avançada, nunca à mais jovem. Por isso idade menor que 30 anos é a exceção.",
+  "porAlt": [
+   "Errada: uso pesado e sustentado é o principal fator de risco para abstinência grave e delirium tremens.",
+   "Correta: o risco cresce com a idade; o fator clássico é idade acima de 30 anos, não abaixo.",
+   "Errada: doença precipitante concomitante, como infecção ou trauma, aumenta o risco de delirium tremens.",
+   "Errada: mais de dois dias desde a última dose, com sintomas, coincide com a janela do delirium tremens e é fator de risco.",
+   "Errada: história prévia de delirium tremens é um dos preditores mais fortes de nova ocorrência."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na desfibrilação cardíaca, a posição anterolateral é a mais utilizada. Em adultos, as pás devem possuir um diâmetro entre oito e 12 centímetros. Pás pequenas (4,3cm) podem ser maléficas por causar ______. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "fibrilação atrial",
+   "necrose miocárdica",
+   "tamponamento cardíaco",
+   "parada cardiorrespiratória",
+   "impedância transtorácica"
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "AHA Guidelines for CPR and ECC 2010, Parte 6 (Electrical Therapies), Link et al., Circulation, 2010",
+  "coment": "As diretrizes da AHA sobre terapias elétricas consideram razoável, no adulto, pás ou eletrodos de 8 a 12 cm de diâmetro, e alertam que pás pequenas (4,3 cm) podem ser prejudiciais por causar necrose miocárdica: a mesma energia se concentra numa área menor, com maior densidade de corrente no miocárdio. Pás maiores reduzem a impedância transtorácica e distribuem a corrente. A posição anterolateral segue como padrão. A impedância transtorácica é o fenômeno que o tamanho adequado da pá diminui, não o dano causado pela pá pequena.",
+  "porAlt": [
+   "Errada: o choque trata arritmias; fibrilação atrial não é a lesão descrita para pás pequenas.",
+   "Correta: a corrente concentrada numa pá de 4,3 cm aumenta a densidade de corrente e pode causar necrose miocárdica.",
+   "Errada: tamponamento é acúmulo de líquido no pericárdio, sem relação com o tamanho das pás.",
+   "Errada: a desfibrilação é aplicada justamente na parada; a pá pequena não a provoca como efeito descrito.",
+   "Errada: impedância transtorácica é resistência à passagem da corrente, que pás maiores reduzem; não é a lesão em questão."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre as boas práticas de administração de terapia antineoplásica, assinale a alternativa incorreta.",
+  "alts": [
+   "O profissional envolvido na administração da terapia antineoplásica deve receber somente treinamento inicial",
+   "Deve ser feita inspeção visual da terapia antineoplásica e na existência de perfurações, vazamentos, corpos estranhos, precipitações ou outras irregularidades na solução, deve se comunicar o responsável pela manipulação",
+   "A prescrição médica deve ser avaliada pelo enfermeiro quanto à viabilidade, interações medicamentosas, medicamentos adjuvantes e de suporte, antes da sua administração",
+   "Todos os procedimentos pertinentes à administração da terapia antineoplásica devem ser realizados de acordo com protocolos operacionais escritos e que atendam às diretrizes de regulamento técnico",
+   "Deve existir protocolo escrito para atendimento de acidentes de punção e extravasamento de drogas"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 220/2004 (Regulamento Técnico de funcionamento dos serviços de terapia antineoplásica); Resolução COFEN 569/2018",
+  "coment": "A RDC ANVISA 220/2004 estabelece as boas práticas de administração da terapia antineoplásica: avaliação da prescrição pelo enfermeiro quanto a viabilidade, interações e medicamentos adjuvantes e de suporte; inspeção visual da solução e comunicação ao responsável pela manipulação diante de vazamento, precipitação ou corpo estranho; procedimentos por protocolos escritos; e protocolo para acidentes de punção e extravasamento. A capacitação não é só inicial: o profissional deve receber treinamento inicial e continuado. A Res. COFEN 569/2018 reforça a educação permanente da equipe em quimioterapia.",
+  "porAlt": [
+   "Correta: a norma exige treinamento inicial e também continuado; \"somente inicial\" contraria a regra.",
+   "Errada: a inspeção visual e a comunicação de irregularidades ao responsável pela manipulação são exigências da RDC 220/2004.",
+   "Errada: avaliar a prescrição quanto a viabilidade, interações e adjuvantes antes de administrar é atribuição prevista do enfermeiro.",
+   "Errada: os procedimentos de administração devem seguir protocolos operacionais escritos, como está na alternativa.",
+   "Errada: o protocolo escrito para acidentes de punção e extravasamento é obrigatório no serviço."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em muitas situações emergenciais pode ser necessária a inserção de um cateter venoso central (CVC) de curta permanência. Assinale a alternativa correta da posição ideal da ponta do cateter.",
+  "alts": [
+   "duto torácico",
+   "junção cavoatrial",
+   "cavidade pleural",
+   "veias azigos",
+   "veia cava superior esquerda persistente"
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Cateteres, sondas e dispositivos",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Infusion Nurses Society, Infusion Therapy Standards of Practice, 9ª ed., 2024",
+  "coment": "A ponta do cateter venoso central de inserção superior deve ficar no terço inferior da veia cava superior, na junção cavoatrial ou próximo a ela, posição confirmada por radiografia ou por eletrocardiograma intracavitário antes do uso (INS, 2024). Ali o fluxo é alto, o que dilui soluções irritantes e reduz trombose. Ponta curta, em subclávia ou braquiocefálica, aumenta trombose e mau funcionamento; ponta profunda no átrio pode causar arritmia. Ducto torácico, cavidade pleural e veia ázigos são posições anômalas e complicações, e a veia cava superior esquerda persistente é variante anatômica.",
+  "porAlt": [
+   "Errada: atingir o ducto torácico é complicação da punção, com risco de quilotórax.",
+   "Correta: a junção cavoatrial, no terço inferior da veia cava superior, é a posição ideal da ponta.",
+   "Errada: ponta na cavidade pleural é mau posicionamento grave, com risco de hidrotórax por infusão.",
+   "Errada: a veia ázigos é trajeto anômalo que aumenta o risco de perfuração e trombose.",
+   "Errada: a veia cava superior esquerda persistente é uma variante anatômica, não o alvo da ponta do cateter."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para pacientes com ______, é preferível solução salina a 0,9%. A solução salina hipertônica não é recomendada para ressuscitação porque as evidências sugerem que não há diferença no resultado quando comparado aos fluidos isotônicos. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "lesão renal aguda",
+   "trauma abdominal",
+   "trauma raquimedular",
+   "lesão cerebral aguda",
+   "lesão por arma de fogo"
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "European guideline on management of major bleeding and coagulopathy following trauma, 6ª ed. (Rossaint et al., Crit Care), 2023",
+  "coment": "No paciente com lesão cerebral aguda, como o TCE grave, o cristaloide de escolha é a solução salina a 0,9%, isotônica. Soluções hipotônicas, como o Ringer lactato, favorecem a passagem de água livre para o tecido cerebral e podem piorar o edema e a pressão intracraniana; por isso a diretriz europeia de trauma (2023) recomenda evitá-las no trauma craniano grave. A salina hipertônica não é usada para ressuscitar volume, porque os estudos não mostraram diferença de desfecho em relação aos isotônicos; seu papel é a osmoterapia prescrita para hipertensão intracraniana.",
+  "porAlt": [
+   "Errada: na lesão renal aguda a escolha do cristaloide segue outros critérios, com cautela com o cloreto.",
+   "Errada: no trauma abdominal com hemorragia a prioridade é controle do sangramento e hemoderivados, sem preferência específica pela salina.",
+   "Errada: a preferência pela salina 0,9% descrita no texto se refere ao encéfalo, não à medula.",
+   "Correta: na lesão cerebral aguda a salina isotônica evita a água livre das soluções hipotônicas, que piora o edema cerebral.",
+   "Errada: ferimento por arma de fogo descreve mecanismo, não uma condição que dite o tipo de cristaloide."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Foi prescrito 75 ml de glicose hipertônica na concentração de 50% em 30 min, ao final da infusão o paciente terá recebido ______ gramas de glicose. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "375",
+   "350",
+   "35.5",
+   "37,35",
+   "37,5"
+  ],
+  "gab": 4,
+  "tema": "farmaco",
+  "sub": "Cálculo de dose e diluição",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), 2013: concentração percentual em g/100 mL",
+  "coment": "Em solução de uso clínico, a concentração percentual é peso por volume e indica gramas de soluto em 100 mL. Glicose a 50% tem 50 g em cada 100 mL, ou seja, 0,5 g por mL. Em 75 mL: 75 × 0,5 = 37,5 g. Pela regra de três, 50 g estão para 100 mL assim como x está para 75 mL, e x = 37,5 g. O tempo de infusão de 30 minutos não muda a quantidade total recebida; só define a velocidade. Erros comuns são esquecer de dividir por 100 (375) ou trocar a vírgula de posição.",
+  "porAlt": [
+   "Errada: 375 g resultaria de multiplicar 75 por 5, sem dividir a concentração por 100.",
+   "Errada: 350 g não corresponde a nenhuma operação correta com 75 mL a 50%.",
+   "Errada: 35,5 g não resulta do cálculo; o valor certo é 37,5 g.",
+   "Errada: 37,35 g é número próximo, mas incorreto para 75 × 0,5.",
+   "Correta: 75 mL × 0,5 g/mL = 37,5 g de glicose."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No contexto do atendimento pré hospitalar são sinais de morte evidente, exceto segmentação do tronco:",
+  "alts": [
+   "rigidez cadavérica",
+   "livores de hipóstase",
+   "inconsciência",
+   "decapitação",
+   "carbonização"
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Atendimento pré-hospitalar",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Protocolos de Suporte Básico de Vida do SAMU 192, 2ª ed., 2016",
+  "coment": "Os protocolos do SAMU 192 dispensam a reanimação quando há sinais de morte evidente: decapitação, segmentação do tronco, carbonização, rigidez cadavérica, livores de hipóstase e decomposição. São sinais incompatíveis com a vida, que tornam a RCP inútil. Inconsciência não é sinal de morte: é o primeiro achado da avaliação do paciente grave e, se acompanhada de ausência de respiração normal e de pulso, indica parada cardiorrespiratória e exige compressões imediatas. O enunciado traz a redação truncada do caderno, que cita a segmentação do tronco antes das alternativas.",
+  "porAlt": [
+   "Errada: rigidez cadavérica é sinal de morte evidente que dispensa a reanimação.",
+   "Errada: livores de hipóstase, manchas por acúmulo de sangue nas áreas de declive, são sinal de morte evidente.",
+   "Correta: inconsciência é achado do paciente grave ou em parada e pede avaliação imediata e RCP, não constatação de óbito.",
+   "Errada: decapitação é sinal de morte evidente.",
+   "Errada: carbonização é sinal de morte evidente."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Homem, 29 anos, deu entrada na emergência com história de acidente com cobra, conseguiu capturar o animal, que foi identificado, sendo esta uma jararaca, no membro inferior esquerdo, apresentava dor, hiperemia, bolhas e sangramento. No hemograma foi evidenciado plaquetopenia. Vômitos em jato, agitação, anúria, hipertensão e taquicardia. A respeito desse caso, assinale a alternativa que apresenta a quantidade de soro antiveneno que deve ser administrado por via intravenosa.",
+  "alts": [
+   "de 2 a 4 ampolas",
+   "de 5 a 8 ampolas",
+   "de 6 a 10 ampolas",
+   "12 ampolas",
+   "20 ampolas"
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Acidentes por animais peçonhentos",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Guia de Vigilância em Saúde, 6ª ed. revisada, 2024 (acidentes por animais peçonhentos)",
+  "coment": "No acidente botrópico a soroterapia segue a gravidade. O Guia de Vigilância em Saúde (2024) indica soro antibotrópico intravenoso: leve, 2 a 4 ampolas; moderado, 4 a 8; grave, 12. O caso é grave: além da dor, bolhas e sangramento locais, há manifestações sistêmicas com anúria, que indica lesão renal aguda, plaquetopenia e sangramento. Lesão renal, hemorragia importante e choque classificam o acidente como grave. O soro é feito sem teste de sensibilidade, em ambiente preparado para anafilaxia, e o tempo de coagulação acompanha a resposta.",
+  "porAlt": [
+   "Errada: 2 a 4 ampolas correspondem ao acidente botrópico leve, sem manifestações sistêmicas.",
+   "Errada: o moderado usa 4 a 8 ampolas; o caso tem anúria e sangramento, critérios de gravidade.",
+   "Errada: 6 a 10 ampolas não é faixa prevista no esquema do soro antibotrópico.",
+   "Correta: acidente botrópico grave, com lesão renal e sangramento, recebe 12 ampolas por via intravenosa.",
+   "Errada: 20 ampolas é a dose do crotálico grave e do laquético grave, não do botrópico."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre os principais sinais de alerta para qualquer tipo de AVC (Acidente Vascular Cerebral), analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Confusão mental.\n( ) Alteração da fala ou compreensão.\n( ) Alteração na visão.\n( ) Alteração do equilíbrio, coordenação, tontura ou alteração no andar.\n( ) Dor de cabeça súbita, intensa, sem causa aparente.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V - V",
+   "V - V - V - V - F",
+   "V - F - V - V - F",
+   "V - V - V - F - V",
+   "V - F - V - V - V"
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Manual de rotinas para atenção ao AVC, 2013",
+  "coment": "O Manual de rotinas para atenção ao AVC do Ministério da Saúde (2013) lista como sinais de alerta para qualquer tipo de AVC: fraqueza ou formigamento na face, no braço ou na perna de um lado do corpo; confusão mental; alteração da fala ou da compreensão; alteração na visão; alteração do equilíbrio, da coordenação, tontura ou alteração no andar; e dor de cabeça súbita, intensa, sem causa aparente. Todas as afirmativas são verdadeiras. Diante de qualquer uma, a enfermagem registra a hora em que o paciente foi visto bem pela última vez e aciona o fluxo de AVC.",
+  "porAlt": [
+   "Correta: as cinco manifestações constam como sinais de alerta de AVC.",
+   "Errada: cefaleia súbita, intensa e sem causa aparente é sinal de alerta, típica do AVC hemorrágico.",
+   "Errada: alteração da fala ou compreensão e a cefaleia súbita também são sinais de alerta.",
+   "Errada: alteração do equilíbrio, coordenação ou marcha é sinal de alerta, sobretudo da circulação posterior.",
+   "Errada: alteração da fala ou da compreensão é um dos sinais mais típicos de AVC."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Lesões medulares ao redor de L1 apresentam sinais e sintomas como: paresia distal nas pernas, perda de sensação perianal e perineal (anestesia em sela), disfunção erétil, reflexo bulbocavernoso e da prega anal anormais, entre outros. Assinale a alternativa que apresenta a síndrome medular caracterizada acima.",
+  "alts": [
+   "síndrome de brown-séquard",
+   "síndrome medular central",
+   "síndrome de cone medular",
+   "síndrome medular anterior",
+   "mielopatia transversa"
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "American Spinal Injury Association, International Standards for Neurological Classification of Spinal Cord Injury (ISNCSCI), revisão 2019",
+  "coment": "O cone medular é a extremidade final da medula, na altura de T12 a L1. Sua lesão compromete os segmentos sacrais e produz a síndrome do cone medular: anestesia em sela (perianal e perineal), disfunção vesical, intestinal e erétil, reflexos bulbocavernoso e anal alterados e, às vezes, paresia distal dos membros inferiores. Os padrões ISNCSCI descrevem essa síndrome clínica. Ela difere da cauda equina, lesão das raízes abaixo de L1, com quadro mais assimétrico e flácido, e das síndromes centrais, anterior e de Brown-Séquard, que ocorrem em níveis mais altos.",
+  "porAlt": [
+   "Errada: Brown-Séquard é hemissecção da medula, com déficit motor homolateral e perda de dor e temperatura contralateral.",
+   "Errada: a síndrome medular central, típica da cervical em idoso, afeta mais os membros superiores que os inferiores.",
+   "Correta: lesão ao redor de L1 com anestesia em sela e disfunção sacral define a síndrome do cone medular.",
+   "Errada: a síndrome medular anterior causa paralisia e perda de dor e temperatura, com propriocepção preservada.",
+   "Errada: mielopatia transversa é inflamação de um segmento medular, sem relação específica com o nível de L1."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que caracteriza uma emergência hipertensiva.",
+  "alts": [
+   "os sintomas colocarem em risco a vida do paciente e estiver associado à lesão aguda de órgão-alvo",
+   "sem risco de vida iminente e sem comprometimento de órgão-alvo",
+   "quando a pressão arterial diastólica se encontra acima de 120 mmHg",
+   "deve ser reduzida em algumas horas ou até em alguns dias com medicação oral",
+   "sem risco a vida e estar associado à lesão aguda de órgão-alvo"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Hipertensão Arterial (SBC/SBH/SBN), 2025",
+  "coment": "Emergência hipertensiva é a elevação acentuada e sintomática da pressão com lesão aguda e progressiva de órgão-alvo e risco iminente de morte, como edema agudo de pulmão, síndrome coronariana, AVC, dissecção de aorta ou eclâmpsia. Pede UTI, anti-hipertensivo intravenoso titulável e monitorização, com redução de até 25% na primeira hora (Diretriz Brasileira de Hipertensão, 2025). O que define a emergência é a lesão de órgão-alvo, não um número isolado de pressão. Elevação sem lesão aguda, tratada com medicação oral em horas ou dias, é a antiga urgência hipertensiva.",
+  "porAlt": [
+   "Correta: risco de vida associado a lesão aguda de órgão-alvo é a definição de emergência hipertensiva.",
+   "Errada: sem risco de vida e sem lesão de órgão-alvo descreve a antiga urgência hipertensiva.",
+   "Errada: o diagnóstico não depende de um valor isolado de diastólica; depende da lesão aguda de órgão-alvo.",
+   "Errada: redução em horas ou dias com medicação oral é conduta da elevação sem lesão aguda, não da emergência.",
+   "Errada: a combinação é contraditória; lesão aguda de órgão-alvo implica risco de vida."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Saúde Coletiva pode ser definida como um campo de produção de conhecimento e atuação multidisciplinar. Em relação a essa temática, assinale a alternativa incorreta.",
+  "alts": [
+   "A produção de conhecimentos é voltada para a compreensão da saúde",
+   "Busca compreender os determinantes sociais da saúde",
+   "Tem como prioridade práticas voltadas para a promoção da saúde",
+   "Não contempla o cuidado a agravos e doenças",
+   "Tem por objeto os indivíduos, mas sobretudo os grupos sociais"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Paim JS, Almeida Filho N. Saúde coletiva: uma \"nova saúde pública\" ou campo aberto a novos paradigmas? Rev Saúde Pública, 1998",
+  "coment": "Paim e Almeida Filho (1998) definem a saúde coletiva como campo científico, onde se produzem saberes sobre o objeto saúde, e âmbito de práticas, onde se realizam ações em diversas organizações e instituições. O campo estuda os determinantes sociais do processo saúde-doença, toma como objeto sobretudo os grupos sociais e prioriza promoção e prevenção, mas não exclui o cuidado: suas práticas incluem a atenção a agravos e doenças, organizada em serviços e redes. Por isso a afirmação de que não contempla o cuidado a doenças é a incorreta.",
+  "porAlt": [
+   "Errada: a produção de conhecimento voltada à compreensão da saúde é a dimensão científica do campo.",
+   "Errada: compreender os determinantes sociais do processo saúde-doença é eixo central da saúde coletiva.",
+   "Errada: a ênfase na promoção da saúde é característica do campo, sem excluir as demais ações.",
+   "Correta: a saúde coletiva também abrange o cuidado a agravos e doenças; negar isso torna a afirmativa incorreta.",
+   "Errada: o objeto inclui indivíduos, mas sobretudo os grupos sociais, como diz a alternativa."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação ao movimento da Reforma Sanitária, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Nasceu no contexto da luta contra a ditadura, no início da década de 1970.\n( ) Esse movimento enfraqueceu a democratização na saúde.\n( ) As propostas da Reforma Sanitária resultaram na universalidade do direito à saúde.\n( ) Buscava melhoria das condições de vida da população.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "V - F - V - V",
+   "F - F - V - V",
+   "F - V - F - V",
+   "F - F - F - V"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Paim JS. Reforma Sanitária Brasileira: contribuição para a compreensão e crítica, 2008; Constituição Federal de 1988, art. 196",
+  "coment": "O movimento da Reforma Sanitária nasceu na década de 1970, em meio à luta contra a ditadura, reunindo profissionais de saúde, universidades (Cebes, criado em 1976, e Abrasco) e movimentos populares. Defendia a democratização da saúde e a melhoria das condições de vida, entendendo saúde como resultado das condições sociais. Suas propostas, consolidadas na 8ª Conferência Nacional de Saúde (1986), levaram ao art. 196 da Constituição de 1988, que fez da saúde direito de todos e dever do Estado, com acesso universal. A segunda afirmativa é falsa: o movimento fortaleceu a democratização.",
+  "porAlt": [
+   "Errada: a segunda afirmativa é falsa, pois o movimento fortaleceu a democratização da saúde.",
+   "Correta: V, F, V, V; só é falsa a afirmação de que o movimento enfraqueceu a democratização.",
+   "Errada: a primeira afirmativa é verdadeira, o movimento surgiu na luta contra a ditadura nos anos 1970.",
+   "Errada: o movimento não enfraqueceu a democratização e resultou na universalidade do direito à saúde.",
+   "Errada: além da última, a primeira e a terceira afirmativas também são verdadeiras."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação a VIII Conferência Nacional de Saúde, realizada entre 17 e 21 de março de 1986, assinale a alternativa correta.",
+  "alts": [
+   "Os três principais temas abordados foram: a saúde como dever do Estado e direito do cidadão, a universalização da Saúde Suplementar e o Financiamento da Saúde",
+   "A participação nesta conferência foi restrita aos deputados, senadores e autoridades do setor",
+   "Foi um dos momentos mais importantes na definição do Sistema Único de Saúde (SUS)",
+   "Teve principal relevância para os Sistemas de Saúde Privada",
+   "Seu relatório final serviu de base para a construção do conceito de Saúde Coletiva"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Relatório Final da 8ª Conferência Nacional de Saúde, 1986; Constituição Federal de 1988, arts. 196 a 200",
+  "coment": "A 8ª Conferência Nacional de Saúde, de 17 a 21 de março de 1986, foi a primeira aberta à sociedade civil, com milhares de participantes entre delegados de usuários, trabalhadores e gestores. Discutiu três temas: saúde como direito, reformulação do Sistema Nacional de Saúde e financiamento do setor. Seu relatório final serviu de base para a seção da saúde da Constituição de 1988 e para o SUS, por isso é considerada um dos momentos mais importantes na definição do sistema. O conceito de saúde coletiva é anterior, construído no meio acadêmico desde os anos 1970.",
+  "porAlt": [
+   "Errada: os temas foram saúde como direito, reformulação do sistema nacional e financiamento; não houve tema de saúde suplementar.",
+   "Errada: a 8ª Conferência foi a primeira com ampla participação popular, não restrita a parlamentares e autoridades.",
+   "Correta: a 8ª Conferência é marco na definição do SUS e seu relatório embasou o texto constitucional.",
+   "Errada: a relevância foi para o sistema público e universal, não para os sistemas privados.",
+   "Errada: o relatório embasou a Constituição e o SUS; o conceito de saúde coletiva nasceu antes, no meio acadêmico."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A respeito das Políticas Públicas em Saúde norteadas pela Constituição Federal de 1988, assinale a alternativa incorreta.",
+  "alts": [
+   "Integram o campo de ação social do Estado orientado para a melhoria das condições de saúde da população",
+   "Tem como princípios a universalidade e equidade no acesso às ações e serviços de saúde",
+   "Trata-se de um conjunto de disposições, medidas e procedimentos que traduzem a orientação política do Estado",
+   "Tem como diretrizes a descentralização da gestão e a integralidade do atendimento",
+   "A avaliação de seu impacto deve ser pontual e/ou inexistente, visto que os estudos são realizados antes de sua implantação"
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, arts. 196 a 198; Lei 8.080/1990, art. 7º",
+  "coment": "As políticas públicas de saúde integram o campo de ação social do Estado e traduzem sua orientação política em disposições, medidas e procedimentos. A Constituição de 1988 garante acesso universal e igualitário (art. 196) e organiza o SUS em rede regionalizada e hierarquizada, com descentralização, atendimento integral e participação da comunidade (art. 198). Avaliar o impacto é parte do ciclo de uma política: a avaliação acompanha a implantação e os resultados, de forma contínua, e não se limita a estudos prévios. Por isso a última alternativa é a incorreta.",
+  "porAlt": [
+   "Errada: a afirmativa é correta, as políticas de saúde integram o campo de ação social do Estado.",
+   "Errada: universalidade e equidade no acesso orientam as políticas de saúde desde a Constituição de 1988.",
+   "Errada: a definição de política pública como conjunto de disposições, medidas e procedimentos é correta.",
+   "Errada: descentralização e integralidade são diretrizes do art. 198 da Constituição.",
+   "Correta: a avaliação de impacto é contínua e posterior à implantação; dizê-la pontual ou inexistente é incorreto."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia abaixo, o artigo 196 da Constituição Federal do Brasil. “Art. 196. A saúde é direito de todos e dever do Estado, garantido mediante ______ e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua ______, proteção e recuperação.” Assinale a alternativa que preencha correta e respectivamente as lacunas.",
+  "alts": [
+   "políticas sociais / promoção",
+   "nomeação / garantia",
+   "divulgação / educação",
+   "vigilância sanitária / educação",
+   "orientação alimentar / prevenção"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, art. 196",
+  "coment": "O art. 196 da Constituição diz: \"A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação.\" As lacunas são, portanto, políticas sociais e promoção. O artigo reúne a concepção ampliada de saúde, que depende de políticas sociais e econômicas e não só de serviços, e a tríade promoção, proteção e recuperação.",
+  "porAlt": [
+   "Correta: o texto do art. 196 traz \"políticas sociais e econômicas\" e \"promoção, proteção e recuperação\".",
+   "Errada: \"nomeação\" e \"garantia\" não constam do art. 196.",
+   "Errada: o artigo fala em políticas sociais e econômicas, não em divulgação; e em promoção, não educação.",
+   "Errada: vigilância sanitária é ação do SUS (Lei 8.080), não o meio de garantia descrito no art. 196.",
+   "Errada: orientação alimentar e prevenção não completam o texto constitucional."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As práticas de Educação em Saúde são inerentes ao trabalho em saúde, a esse respeito, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Processo educativo que tem como principal objetivo a capacitação de profissionais de saúde.\n( ) Conjunto de práticas que contribui para diminuir a autonomia das pessoas no seu cuidado.\n( ) Propõem ações transformadoras que levam o indivíduo à sua autonomia e emancipação, capaz de propor e opinar em suas decisões de saúde.\n( ) Possibilita que o profissional de saúde seja capaz de propor e opinar nas decisões de saúde do indivíduo, de sua família e de sua coletividade.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - F - V",
+   "F - F - V - F",
+   "F - V - F - V",
+   "F - F - V - V",
+   "F - F - F - F"
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Educação em saúde",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Glossário temático: gestão do trabalho e da educação na saúde, 2ª ed., 2012",
+  "coment": "O glossário do Ministério da Saúde define educação em saúde como processo educativo de construção de conhecimentos que visa à apropriação temática pela população, e não à profissionalização, e como conjunto de práticas que contribui para aumentar a autonomia das pessoas no seu cuidado e no debate com profissionais e gestores. Capacitar profissionais é educação permanente ou continuada, por isso a 1ª é falsa. A 2ª inverte o sentido. A 3ª é verdadeira. A 4ª é falsa porque quem passa a propor e opinar nas decisões é o próprio indivíduo, não o profissional sobre ele.",
+  "porAlt": [
+   "Errada: a capacitação de profissionais e a redução de autonomia são falsas, e a última afirmativa também.",
+   "Correta: F, F, V, F; só a afirmativa sobre autonomia e emancipação do indivíduo é verdadeira.",
+   "Errada: a educação em saúde aumenta, não diminui, a autonomia das pessoas.",
+   "Errada: a última afirmativa é falsa, pois a autonomia de decidir é do indivíduo, não do profissional.",
+   "Errada: a terceira afirmativa, sobre ações transformadoras e emancipação, é verdadeira."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Política Nacional de Vigilância em Saúde (PNVS), é um documento norteador do planejamento das ações de vigilância em saúde, caracterizado pela definição das responsabilidades, princípios, diretrizes e estratégias dessa vigilância. Analise as afirmativas abaixo.\nI. Tem como finalidade o desenvolvimento da vigilância em saúde, visando a promoção e a proteção da saúde e a prevenção de doenças e agravos, bem como a redução da morbimortalidade, vulnerabilidades e riscos decorrentes das dinâmicas de produção e consumo nos territórios.\nII. Entende-se por Vigilância em Saúde o processo contínuo e sistemático de coleta, consolidação, análise de dados e disseminação de informações sobre eventos relacionados à saúde, visando o planejamento e a implementação de medidas de saúde pública.\nIII. Entre as estratégias da PNVS se tem Sistemas de Informação individualizados com potencialidade voltada exclusivamente para a coleta de dados. IV.Inclui a regulação, intervenção e atuação em condicionantes e determinantes da saúde, para a proteção e promoção da saúde da população, prevenção e controle de riscos, agravos e doenças.\nEstão corretas as afirmativas:",
+  "alts": [
+   "II e IV apenas",
+   "I, II e IV apenas",
+   "I, II, III e IV",
+   "II e III apenas",
+   "I apenas"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde), arts. 2º e 9º",
+  "coment": "A Res. CNS 588/2018 define vigilância em saúde como processo contínuo e sistemático de coleta, consolidação, análise de dados e disseminação de informações sobre eventos relacionados à saúde, visando ao planejamento e à implementação de medidas de saúde pública, incluindo a regulação, intervenção e atuação em condicionantes e determinantes, para proteção e promoção da saúde e prevenção e controle de riscos, agravos e doenças (I, II e IV corretas). A afirmativa III erra: entre as estratégias estão sistemas de informação integrados, com potencial para coletar, consolidar, analisar e disseminar informação, não exclusivamente para coleta.",
+  "porAlt": [
+   "Errada: a afirmativa I, sobre a finalidade da PNVS, também está correta.",
+   "Correta: I, II e IV reproduzem a Res. 588/2018; a III restringe indevidamente os sistemas de informação à coleta.",
+   "Errada: a afirmativa III é falsa, pois os sistemas de informação não servem exclusivamente à coleta.",
+   "Errada: a III é falsa, e I e IV são corretas.",
+   "Errada: além da I, as afirmativas II e IV estão corretas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O enfermeiro é identificado como o principal agente fomentador das políticas públicas relacionadas à Saúde Coletiva. A esse respeito, assinale a alternativa incorreta.",
+  "alts": [
+   "Nos serviços de saúde, o enfermeiro é reconhecido como um profissional capaz de promover um cuidado integral e humanizado e interagir com a família e sua comunidade",
+   "O enfermeiro é capaz de promover o diálogo, a educação em saúde e a troca de saberes com o indivíduo, família e comunidade",
+   "A Enfermagem se destaca pelo seu papel na gestão do cuidado em saúde, com valorização da integralidade do cuidado",
+   "A enfermagem atua diretamente na Saúde Coletiva e de forma alheia aos compromissos políticos do Sistema Único de Saúde (SUS), visto que sua formação profissional contempla o mercado de trabalho privado",
+   "A atuação da Enfermagem no campo da Saúde Coletiva confere peso à dimensão de prática social da profissão"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), atribuições do enfermeiro; Lei 7.498/1986, art. 11",
+  "coment": "A enfermagem é parte da força de trabalho do SUS e atua na saúde coletiva com compromisso político com seus princípios: universalidade, integralidade, equidade e participação social. A PNAB (2017) atribui ao enfermeiro atenção integral a indivíduos, famílias e comunidade, educação em saúde, gestão do cuidado e coordenação de ações na equipe. Essas atribuições dão peso à dimensão social da profissão. Dizer que a enfermagem atua de forma alheia aos compromissos políticos do SUS, por causa do mercado privado, contraria a própria formação, orientada pelas necessidades do SUS.",
+  "porAlt": [
+   "Errada: o cuidado integral e humanizado, com interação com família e comunidade, é papel reconhecido do enfermeiro.",
+   "Errada: diálogo, educação em saúde e troca de saberes com indivíduo, família e comunidade são atribuições do enfermeiro.",
+   "Errada: a gestão do cuidado com valorização da integralidade é marca da enfermagem.",
+   "Correta: a enfermagem atua comprometida com os princípios do SUS; a afirmativa de atuação alheia a eles é a incorreta.",
+   "Errada: a atuação na saúde coletiva reforça a dimensão de prática social da profissão."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o trecho abaixo: ______ é o processo logístico da Rede de Frio para conservação dos imunobiológicos, desde o ______ até o ______, incluindo as etapas de recebimento, armazenamento, distribuição e transporte, de forma oportuna e eficiente, assegurando a preservação de suas características originais (Manual da Rede de Frio, 2017). Assinale a alternativa que preencha correta e respectivamente as lacunas.",
+  "alts": [
+   "Malha de frio/centro de distribuição estadual/posto de saúde",
+   "Corrente de frio/centro de distribuição estadual/sala de imunização",
+   "Corrente de frio/centro de armazenamento nacional/centro de armazenamento estadual",
+   "Cadeia de frio/centro de armazenamento municipal/sala de imunização",
+   "Cadeia de frio/laboratório produtor/usuário"
+  ],
+  "gab": 4,
+  "tema": "imuniza",
+  "sub": "Rede de frio e conservação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Manual de Rede de Frio do Programa Nacional de Imunizações, 5ª ed., 2017",
+  "coment": "O Manual de Rede de Frio (2017) define cadeia de frio como o processo logístico da Rede de Frio para conservação dos imunobiológicos, desde o laboratório produtor até o usuário, incluindo recebimento, armazenamento, distribuição e transporte, de forma oportuna e eficiente, preservando suas características originais. Rede de frio é o sistema que abriga essa cadeia, com estrutura, equipamentos, pessoas e normas nas instâncias nacional, estadual, regional, municipal e local. Na sala de vacina os imunobiológicos ficam entre +2 °C e +8 °C, e supervisionar a cadeia de frio é privativo do enfermeiro (Res. COFEN 795/2025).",
+  "porAlt": [
+   "Errada: o termo do manual é cadeia de frio, e o processo vai do laboratório produtor ao usuário.",
+   "Errada: \"corrente de frio\" não é o termo do manual, e o processo não começa no centro estadual.",
+   "Errada: o processo não se limita ao trecho entre as instâncias nacional e estadual.",
+   "Errada: o termo está certo, mas o processo começa no laboratório produtor e termina no usuário.",
+   "Correta: cadeia de frio, do laboratório produtor ao usuário, é a definição do Manual de Rede de Frio."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação às situações que caracterizam a ocorrência de contraindicação para imunização, assinale a alternativa correta.",
+  "alts": [
+   "Ocorrência de reação anafilática confirmada em dose anterior e história de hipersensibilidade a qualquer componente dos imunobiológicos",
+   "Diagnósticos clínicos prévios de doença, tais como tuberculose, coqueluche, tétano, difteria, poliomielite, sarampo, caxumba e rubéola",
+   "Antecedente familiar de convulsão ou morte súbita",
+   "Uso de antibiótico, profilático ou terapêutico e antiviral",
+   "Internação hospitalar"
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS); Manual de Normas e Procedimentos para Vacinação, 2014",
+  "coment": "Contraindicação verdadeira, comum a todas as vacinas, é a anafilaxia confirmada após dose anterior ou a hipersensibilidade grave a algum componente do imunobiológico (IN do Calendário 2026). As vacinas atenuadas acrescentam a gestação e a imunodepressão grave. Não são contraindicações, e adiar por elas gera oportunidade perdida: doença prévia como tuberculose, coqueluche ou sarampo, antecedente familiar de convulsão ou morte súbita, uso de antibiótico ou antiviral e internação hospitalar. O Manual de Normas e Procedimentos para Vacinação (2014) lista essas situações como falsas contraindicações.",
+  "porAlt": [
+   "Correta: anafilaxia confirmada em dose anterior e hipersensibilidade a componente da vacina contraindicam a aplicação.",
+   "Errada: ter tido a doença antes não contraindica a vacina; é falsa contraindicação.",
+   "Errada: antecedente familiar de convulsão ou de morte súbita não contraindica a vacinação.",
+   "Errada: uso de antibiótico, profilático ou terapêutico, ou de antiviral não impede a vacinação de rotina.",
+   "Errada: internação hospitalar não é contraindicação; a criança internada pode e deve atualizar o esquema."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O trabalho é um dos determinantes da saúde e do bem-estar do(a) trabalhador(a) e de sua família. Em relação às ações de Saúde do(a) do Trabalhador(a) que devem ser desenvolvidas na rede de serviços de saúde do SUS, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Assistência ao sujeito vítima de acidente de trabalho ou portador de doença profissional e do trabalho.\n( ) A revisão periódica da listagem oficial de doenças originadas no processo de trabalho.\n( ) A participação em estudos, pesquisas, avaliação e controle dos riscos e agravos potenciais à saúde existentes no processo de trabalho.\n( ) A informação ao(à) trabalhador(a), à sua respectiva entidade sindical e às empresas sobre os riscos de acidente de trabalho, doença profissional e do trabalho.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - F - F - V",
+   "V - F - V - V",
+   "F - V - V - F",
+   "V - V - F - F",
+   "V - V - V - V"
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 6º, §3º, incisos I a VIII",
+  "coment": "O §3º do art. 6º da Lei 8.080/1990 define saúde do trabalhador e lista o que ela abrange no SUS. Estão lá a assistência ao trabalhador vítima de acidente de trabalho ou portador de doença profissional e do trabalho (I), a participação em estudos, pesquisas, avaliação e controle dos riscos e agravos potenciais no processo de trabalho (II), a informação ao trabalhador, à entidade sindical e às empresas sobre os riscos (V) e a revisão periódica da listagem oficial de doenças originadas no processo de trabalho, com colaboração das entidades sindicais (VII). As quatro afirmativas são verdadeiras.",
+  "porAlt": [
+   "Errada: a revisão da listagem de doenças e a participação em estudos também estão no §3º do art. 6º.",
+   "Errada: a revisão periódica da listagem oficial de doenças do trabalho é o inciso VII, verdadeira.",
+   "Errada: a assistência ao acidentado e a informação ao trabalhador são verdadeiras (incisos I e V).",
+   "Errada: a participação em estudos e a informação sobre riscos também constam da lei.",
+   "Correta: as quatro ações estão no art. 6º, §3º, da Lei 8.080/1990."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca da Política Nacional de Vigilância em Saúde (PNVS), instituída por meio da Resolução 588/2018. Assinale a alternativa incorreta.",
+  "alts": [
+   "Entende-se por Vigilância em Saúde o processo contínuo e sistemático de coleta, consolidação, análise de dados e disseminação de informações sobre eventos relacionados à saúde",
+   "A Vigilância em Saúde visa o planejamento e a implementação de medidas de saúde pública, incluindo a regulação, intervenção e atuação em condicionantes e determinantes da saúde",
+   "Possibilita a proteção e promoção da saúde da população, prevenção e controle de riscos, agravos e doenças",
+   "Contempla toda a população em território nacional, priorizando, entretanto, territórios, pessoas e grupos em situação de maior risco e vulnerabilidade",
+   "Incide sobre todos os níveis e formas de atenção à saúde, abrangendo todos os serviços de saúde públicos, a PNVS é facultativa nos serviços de saúde privados"
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde), art. 2º",
+  "coment": "A Res. CNS 588/2018 caracteriza a PNVS como política pública de Estado e função essencial do SUS, de caráter universal, que contempla toda a população no território nacional e prioriza territórios, pessoas e grupos em maior risco e vulnerabilidade. O art. 2º estende a política a todos os níveis e formas de atenção, abrangendo os serviços de saúde públicos e privados e os estabelecimentos de produção e circulação de bens de consumo e tecnologias de interesse da saúde. Não é facultativa para o setor privado: hospitais e clínicas privadas notificam e se sujeitam às ações de vigilância.",
+  "porAlt": [
+   "Errada: a afirmativa reproduz a definição de vigilância em saúde da Res. 588/2018.",
+   "Errada: planejar medidas e atuar em condicionantes e determinantes da saúde faz parte da definição.",
+   "Errada: proteção e promoção da saúde e prevenção e controle de riscos são objetivos expressos da PNVS.",
+   "Errada: a universalidade com prioridade aos grupos em maior risco e vulnerabilidade está na norma.",
+   "Correta: a PNVS abrange serviços públicos e privados; dizê-la facultativa no setor privado é incorreto."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando os princípios da Política Nacional de Vigilância em Saúde (PNVS), assinale a alternativa incorreta.",
+  "alts": [
+   "Conhecimento do território",
+   "Desigualdade",
+   "Universalidade",
+   "Descentralização",
+   "Equidade"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde), art. 7º",
+  "coment": "O art. 7º da Res. CNS 588/2018 lista os princípios da PNVS: conhecimento do território; integralidade; descentralização político-administrativa, com direção única em cada esfera; inserção da vigilância na rede regionalizada; equidade; universalidade; participação da comunidade; cooperação e articulação intra e intersetorial; garantia do direito às informações geradas pela vigilância; e organização dos serviços públicos sem duplicidade de meios. Desigualdade é o problema que a equidade procura corrigir, e não um princípio da política.",
+  "porAlt": [
+   "Errada: conhecimento do território é o primeiro princípio do art. 7º.",
+   "Correta: desigualdade não é princípio; a PNVS adota a equidade justamente para enfrentá-la.",
+   "Errada: universalidade é princípio da PNVS.",
+   "Errada: descentralização político-administrativa é princípio da PNVS.",
+   "Errada: equidade é princípio da PNVS."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia abaixo o art. 6º parágrafo XII da Política Nacional de Vigilância em Saúde (PNVS). “______: conjunto de ações que proporcionam o conhecimento e a detecção de mudanças nos fatores determinantes e condicionantes da saúde individual e coletiva, com a finalidade de recomendar e adotar as medidas de prevenção e controle das doenças, transmissíveis e não-transmissíveis, e agravos à saúde.” Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "Vigilância em saúde ambiental",
+   "Vigilância epidemiológica",
+   "Vigilância em saúde do trabalhador",
+   "Vigilância sanitária",
+   "Promoção da saúde"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução CNS 588/2018, art. 6º; Lei 8.080/1990, art. 6º, §2º",
+  "coment": "A definição transcrita é a de vigilância epidemiológica. A Lei 8.080/1990 (art. 6º, §2º) a define como conjunto de ações que proporcionam o conhecimento, a detecção ou prevenção de mudanças nos fatores determinantes e condicionantes da saúde individual ou coletiva, para recomendar e adotar medidas de prevenção e controle das doenças ou agravos. A Res. CNS 588/2018 repete o texto e acrescenta \"transmissíveis e não-transmissíveis\". A vigilância ambiental olha os fatores do meio ambiente; a sanitária, riscos de bens, produtos e serviços; a do trabalhador, os agravos dos processos produtivos.",
+  "porAlt": [
+   "Errada: a vigilância em saúde ambiental trata dos fatores determinantes do meio ambiente que interferem na saúde humana.",
+   "Correta: o texto é a definição de vigilância epidemiológica, com a menção a doenças transmissíveis e não transmissíveis.",
+   "Errada: a vigilância do trabalhador trata dos agravos decorrentes dos modelos de desenvolvimento e processos produtivos.",
+   "Errada: a vigilância sanitária elimina, diminui ou previne riscos de bens, produtos e serviços de interesse da saúde.",
+   "Errada: promoção da saúde não é um componente da vigilância definido com esse texto."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Lei 9782/99 que define o Sistema Nacional de Vigilância Sanitária, cria a Agência Nacional de Vigilância Sanitária (ANVISA), e dá outras providências. Considerando os bens e produtos submetidos ao controle e fiscalização sanitária pela ANVISA, assinale a alternativa incorreta.",
+  "alts": [
+   "Hemoderivados",
+   "Alimentos",
+   "Calçados",
+   "Cosméticos",
+   "Cigarros"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 9.782/1999, art. 8º, §1º",
+  "coment": "O art. 8º, §1º, da Lei 9.782/1999 enumera os bens e produtos submetidos ao controle e fiscalização sanitária da ANVISA: medicamentos; alimentos, incluindo bebidas e águas envasadas; cosméticos, produtos de higiene pessoal e perfumes; saneantes; reagentes e insumos de diagnóstico; equipamentos e materiais médico-hospitalares; imunobiológicos, sangue e hemoderivados; órgãos e tecidos para transplante; radioisótopos; cigarros, cigarrilhas, charutos e outros produtos fumígeros; e produtos obtidos por engenharia genética que envolvam risco à saúde. Calçados não estão na lista: não são produtos de interesse sanitário.",
+  "porAlt": [
+   "Errada: sangue e hemoderivados estão sob controle da ANVISA.",
+   "Errada: alimentos, inclusive bebidas e águas envasadas, são fiscalizados pela ANVISA.",
+   "Correta: calçados não constam da lista de bens e produtos sujeitos à vigilância sanitária.",
+   "Errada: cosméticos, produtos de higiene e perfumes são controlados pela ANVISA.",
+   "Errada: cigarros e demais produtos fumígeros derivados do tabaco estão sob controle da ANVISA."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O objetivo principal do Planejamento em Saúde é a Saúde e seu propósito é contribuir para a melhoria do nível de saúde da população tanto quanto seja possível. Considerando os elementos que compõem o processo de planejamento em saúde, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Identificar problemas – atuais e futuros.\n( ) Identificar os fatores que contribuem para a situação observada.\n( ) Identificar e definir prioridades de intervenção para implementar soluções.\n( ) Definir os responsáveis pelo desenvolvimento destas ações.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - F",
+   "V - F - F - F",
+   "V - V - V - V",
+   "V - F - V - F",
+   "F - V - V - F"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Tancredi FB, Barrios SRL, Ferreira JHG. Planejamento em Saúde (Série Saúde & Cidadania, vol. 2). São Paulo: FSP/USP, 1998",
+  "coment": "O enunciado vem de Tancredi, Barrios e Ferreira (1998), que descrevem o planejamento em saúde como processo que permite identificar problemas atuais e futuros, identificar os fatores que contribuem para a situação observada, definir prioridades de intervenção e as soluções a implementar, definir os responsáveis pelas ações, os recursos necessários e os indicadores de avaliação. As quatro afirmativas são elementos desse processo. No SUS o planejamento é ascendente e integrado, do nível local ao federal (Lei 8.080/1990, art. 36), e se materializa no plano de saúde.",
+  "porAlt": [
+   "Errada: definir os responsáveis pelas ações também é elemento do planejamento.",
+   "Errada: identificar fatores contribuintes, prioridades e responsáveis são etapas do processo.",
+   "Correta: identificar problemas e fatores, definir prioridades e responsáveis são todos elementos do planejamento em saúde.",
+   "Errada: identificar os fatores que contribuem e definir responsáveis também fazem parte do processo.",
+   "Errada: identificar problemas atuais e futuros é o ponto de partida do planejamento."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Portaria 1.130 de 5 de agosto de 2015 institui a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) no âmbito do Sistema Único de Saúde (SUS). Em relação aos princípios desta portaria, assinale a alternativa correta.",
+  "alts": [
+   "Monitoramento e avaliação",
+   "Qualificação da força de trabalho do SUS",
+   "Organização das ações e serviços na rede de atenção",
+   "Ambiente facilitador à vida",
+   "Planejamento e desenvolvimento de ações"
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.130/2015 (PNAISC), arts. 4º e 5º",
+  "coment": "A PNAISC tem oito princípios (art. 4º): direito à vida e à saúde; prioridade absoluta da criança; acesso universal à saúde; integralidade do cuidado; equidade em saúde; ambiente facilitador à vida; humanização da atenção; e gestão participativa e controle social. As demais alternativas são diretrizes (art. 5º), como organização das ações e serviços na rede de atenção, qualificação da força de trabalho do SUS, planejamento e desenvolvimento de ações e monitoramento e avaliação. A banca costuma misturar princípios, diretrizes e eixos para testar a leitura do texto.",
+  "porAlt": [
+   "Errada: monitoramento e avaliação é diretriz da PNAISC, não princípio.",
+   "Errada: qualificação da força de trabalho do SUS é diretriz.",
+   "Errada: organização das ações e serviços na rede de atenção é diretriz.",
+   "Correta: ambiente facilitador à vida é um dos oito princípios do art. 4º da PNAISC.",
+   "Errada: planejamento e desenvolvimento de ações é diretriz."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O número de casos novos de câncer do colo do útero esperados para o Brasil, no ano de 2023 é de 17.010 casos a cada 100 mil mulheres. Entre as medidas de prevenção primária a este tipo de câncer se tem a vacinação contra o Papilomavírus Humano (HPV), de acordo com o calendário Nacional de vacinação, assinale a alternativa incorreta.",
+  "alts": [
+   "A vacina HPV é indicada às pessoas com baixa imunidade",
+   "A vacina HPV é recomendada para pessoas de 9 a 45 anos, que vivem com HIV/Aids",
+   "A vacina HPV é indicada para meninas e meninos de 9 a 14 anos, 11 meses e 29 dias",
+   "A mulher que recebe a imunização contra o HPV está liberada da realização do exame citopatológico",
+   "A via de administração é intramuscular"
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS); Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (INCA), 2025",
+  "coment": "A vacina HPV é prevenção primária e não substitui o rastreamento, que é prevenção secundária: a vacinada continua no rastreio, hoje por DNA-HPV dos 25 aos 64 anos (INCA, 2025). As demais afirmativas seguem válidas. Pela IN do Calendário 2026, a HPV4 é intramuscular, em dose única dos 9 aos 14 anos, 11 meses e 29 dias, com resgate de 15 a 19 anos; imunodeprimidos, incluindo pessoas vivendo com HIV, de 9 a 45 anos recebem 3 doses mediante prescrição. Em 2023 eram 2 doses na rotina. O dado de 17.010 casos é número absoluto, não taxa por 100 mil, erro mantido do enunciado.",
+  "porAlt": [
+   "Errada: a afirmativa é correta; imunodeprimidos têm indicação na estratégia especial da vacina HPV.",
+   "Errada: a afirmativa é correta; pessoas de 9 a 45 anos vivendo com HIV recebem a vacina HPV.",
+   "Errada: a afirmativa é correta; a faixa de rotina vai de 9 a 14 anos, 11 meses e 29 dias, para meninas e meninos.",
+   "Correta: a vacinada não está liberada do rastreamento; a vacina não protege contra todos os tipos oncogênicos.",
+   "Errada: a afirmativa é correta; a HPV4 é aplicada por via intramuscular."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As Quedas são um problema frequente entre as pessoas idosas, mas não podem ser banalizadas ou encaradas como “normal da idade”. Em relação às orientações para evitar quedas, assinale a alternativa incorreta.",
+  "alts": [
+   "Usar sapatos abertos com solados flexíveis",
+   "Evitar tapetes soltos",
+   "Evitar transitar em áreas com piso úmido",
+   "Evitar móveis e objetos espalhados pela casa, como brinquedos de crianças, por exemplo",
+   "Manter uma luz acesa à noite, caso precise levantar da cama"
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Caderno de Atenção Básica nº 19, Envelhecimento e saúde da pessoa idosa, 2006",
+  "coment": "A prevenção de quedas do idoso combina revisão de fatores individuais (medicamentos, visão, marcha, hipotensão postural) com adequação do ambiente. As orientações do Caderno de Atenção Básica nº 19 incluem retirar tapetes soltos, evitar pisos úmidos e encerados, manter os caminhos livres de móveis e objetos, iluminar o percurso noturno até o banheiro e usar calçados fechados, bem ajustados e com solado antiderrapante. Sapato aberto, como chinelo ou tamanco, sai do pé e desestabiliza a marcha, por isso a orientação de usá-lo é a incorreta.",
+  "porAlt": [
+   "Correta: a orientação é usar calçado fechado, firme e com solado antiderrapante; sapato aberto aumenta o risco de queda.",
+   "Errada: retirar ou fixar tapetes soltos é orientação clássica de prevenção.",
+   "Errada: evitar piso úmido ou encerado reduz escorregões.",
+   "Errada: manter a casa livre de objetos espalhados é medida de prevenção correta.",
+   "Errada: deixar uma luz acesa à noite ilumina o caminho até o banheiro e previne quedas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com a Lei nº 8.080/90, fica regulamentado que o Sistema Único de Saúde (SUS), estabelecido pela Constituição Federal de 1988, que agrega todos os serviços estatais. Diante do exposto, assinale a alternativa incorreta.",
+  "alts": [
+   "O SUS abrange as esferas federais e estaduais",
+   "Atende os serviços privados (desde que contratados ou conveniados) e que é responsabilizado, mesmo sem exclusividade, pela concretização dos princípios constitucionais",
+   "As Normas Operacionais Básicas, por sua vez, a partir da avaliação do estágio de implantação e desempenho do SUS, se voltam, mais direta e imediatamente, para a definição de estratégias e movimentos táticos, que orientam a operacionalidade desse Sistema",
+   "A presente Norma Operacional Básica tem por finalidade primordial promover e consolidar o pleno exercício, por parte do poder público municipal e do Distrito Federal",
+   "O SUS abrange as esferas federais e estaduais e municipais"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, arts. 4º e 9º; NOB-SUS 01/1996",
+  "coment": "Pelo art. 4º da Lei 8.080/1990, o SUS é o conjunto de ações e serviços prestados por órgãos e instituições públicas federais, estaduais e municipais, e o art. 9º fixa a direção única em cada esfera. Dizer que abrange só as esferas federal e estadual exclui o município, que é o principal executor. As alternativas B, C e D reproduzem trechos da NOB-SUS 01/1996: o SUS congrega os serviços estatais e os privados contratados ou conveniados; as NOB definem estratégias e movimentos táticos; e aquela norma visava ao pleno exercício da gestão pelo município e pelo DF. As NOB foram superadas pelo Pacto pela Saúde (2006) e pelo Decreto 7.508/2011.",
+  "porAlt": [
+   "Correta: o SUS abrange as três esferas; a omissão do município torna a afirmativa incorreta.",
+   "Errada: a participação complementar de serviços privados contratados ou conveniados é prevista (Lei 8.080, art. 24).",
+   "Errada: o texto descreve corretamente o papel tático e operacional das Normas Operacionais Básicas.",
+   "Errada: a NOB 96 tinha como finalidade o pleno exercício da gestão pelo município e pelo DF.",
+   "Errada: a afirmativa é correta, o SUS abrange as esferas federal, estadual e municipal."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As vigilâncias em saúde presentes no SUS são compostas por:\nI. Vigilância e o controle das doenças transmissíveis.\nII. Vigilância das doenças e agravos não-transmissíveis.\nIII. Vigilância da situação de saúde, saúde do trabalhador.\nIV. Vigilância ambiental em saúde.\nV. Vigilância da saúde do trabalhador e a vigilância sanitária.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I, II,III e IV apenas",
+   "I, II, III,IV e V",
+   "II, III e IV apenas",
+   "I e IV apenas",
+   "I, II, III e V apenas"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 3.252/2009, art. 2º (revogada pela Portaria GM/MS 1.378/2013); Resolução CNS 588/2018, art. 3º",
+  "coment": "A lista do enunciado reproduz a Portaria 3.252/2009, que definia a vigilância em saúde como integração da vigilância e controle das doenças transmissíveis, das doenças e agravos não transmissíveis, da situação de saúde, ambiental, da saúde do trabalhador e sanitária. Todas as afirmativas estão corretas. A portaria foi substituída pela 1.378/2013, e hoje a Res. CNS 588/2018 (PNVS) organiza a vigilância em quatro componentes, epidemiológica (que abrange transmissíveis e não transmissíveis), ambiental, do trabalhador e sanitária, com análise de situação de saúde e ações laboratoriais como atividades transversais.",
+  "porAlt": [
+   "Errada: a afirmativa V, saúde do trabalhador e vigilância sanitária, também compõe a vigilância em saúde.",
+   "Correta: os cinco itens integram a vigilância em saúde do SUS.",
+   "Errada: a vigilância das doenças transmissíveis (I) e a sanitária (V) também fazem parte.",
+   "Errada: doenças não transmissíveis, situação de saúde e saúde do trabalhador também integram a vigilância.",
+   "Errada: a vigilância ambiental (IV) também compõe a vigilância em saúde."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São atributos da rede de atenção à saúde, dentre outros, exceto:",
+  "alts": [
+   "população e território definidos com conhecimento de suas necessidades e preferências",
+   "extensa gama de estabelecimentos prestando serviços que vão desde a prevenção, promoção da saúde, diagnóstico, tratamento, reabilitação e cuidados paliativos",
+   "atenção Primária em Saúde (APS) estruturada como segundo nível de atenção e porta de entrada do sistema, formadas por equipe multidisciplinar que cobre a população, integrando o cuidado",
+   "atenção a saúde centrada no indivíduo, na família e comunidade, tendo em conta particularidades culturais, gênero e diversidade da população",
+   "financiamento tripartite, alinhado com as metas da rede"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 4.279/2010 (Redes de Atenção à Saúde), Anexo, atributos da RAS; Portaria de Consolidação nº 3/2017",
+  "coment": "A Portaria 4.279/2010 lista os atributos de uma Rede de Atenção à Saúde, entre eles: população e território definidos, com conhecimento de necessidades e preferências; extensa gama de estabelecimentos, da promoção aos cuidados paliativos; Atenção Primária estruturada como primeiro nível de atenção e porta de entrada, com equipe multidisciplinar que cobre toda a população e coordena o cuidado; atenção centrada no indivíduo, na família e na comunidade; e financiamento tripartite alinhado às metas da rede. A APS como segundo nível contraria o atributo, pois ela é o primeiro nível e a ordenadora da rede.",
+  "porAlt": [
+   "Errada: população e território definidos são o primeiro atributo da RAS.",
+   "Errada: a extensa gama de estabelecimentos, da prevenção aos cuidados paliativos, é atributo da RAS.",
+   "Correta: a APS é o primeiro nível de atenção e porta de entrada, não o segundo.",
+   "Errada: a atenção centrada na pessoa, na família e na comunidade, com respeito à diversidade, é atributo.",
+   "Errada: o financiamento tripartite alinhado às metas da rede é atributo previsto."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Lei nº 7.498, de 25 de junho de 1986 determina o gerenciamento de enfermagem, conferindo privativamente ao enfermeiro, citado no 11º artigo sobre a regulamentação do exercício da enfermagem no Brasil, em que o enfermeiro exerce todas as atividades de:\nI. São privativos à direção dos órgãos de enfermagem da instituição de saúde pública e privada.\nII. À chefia de serviço e de unidade de enfermagem.\nIII. A organização e a direção dos serviços de enfermagem e de suas atividades técnicas e auxiliares nas empresas prestadoras desses serviços.\nIV. O planejamento, a organização, a coordenação, a execução e a avaliação dos serviços de assistência de enfermagem.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I, III apenas",
+   "II e III apenas",
+   "I, II e IV apenas",
+   "I,II, III, IV",
+   "I apenas"
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 7.498/1986, art. 11, I, alíneas a, b e c",
+  "coment": "O art. 11, I, da Lei 7.498/1986 reserva privativamente ao enfermeiro: a) direção do órgão de enfermagem integrante da estrutura básica da instituição de saúde, pública e privada, e chefia de serviço e de unidade de enfermagem; b) organização e direção dos serviços de enfermagem e de suas atividades técnicas e auxiliares nas empresas prestadoras desses serviços; c) planejamento, organização, coordenação, execução e avaliação dos serviços da assistência de enfermagem. As quatro afirmativas correspondem a essas alíneas, e a gestão dos serviços de enfermagem é, portanto, atividade privativa do enfermeiro.",
+  "porAlt": [
+   "Errada: as afirmativas II e IV também são atividades privativas do art. 11, I.",
+   "Errada: a direção do órgão de enfermagem (I) e o planejamento dos serviços (IV) também são privativos.",
+   "Errada: a organização e direção nas empresas prestadoras (III) também é privativa (alínea b).",
+   "Correta: as quatro afirmativas reproduzem as alíneas a, b e c do art. 11, I, da Lei 7.498/1986.",
+   "Errada: além da direção do órgão de enfermagem, as outras três atividades também são privativas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A vigilância epidemiológica tem, como propósito, fornecer orientação técnica permanente para os responsáveis pela decisão e execução de ações de controle de doenças e agravos. Assinale a alternativa incorreta dos agravos de doença de notificação compulsória (DNC).",
+  "alts": [
+   "Acidentes por animais peçonhentos, Botulismo, Cólera, Hepatite",
+   "Malária, Leptospirose, Hantavirose, Bartonelose",
+   "Hanseníase, Febre amarela, Dengue, Zika",
+   "HIV, Raiva humana, Sarampo, Sífilis",
+   "Meningite, Coqueluche, Febre maculosa, Tétano"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria de Consolidação GM/MS 4/2017, Anexo 1 do Anexo V, alterado pela Portaria GM/MS 11.211/2026",
+  "coment": "A lista nacional de notificação compulsória, alterada por último pela Portaria GM/MS 11.211/2026, inclui acidente por animal peçonhento, botulismo, cólera, hepatites virais, malária, leptospirose, hantavirose, hanseníase, febre amarela, dengue, doença aguda pelo vírus Zika, infecção pelo HIV, raiva humana, sarampo, sífilis, doença meningocócica e outras meningites, coqueluche, febre maculosa e tétano. A bartonelose não consta da lista nacional, o que torna incorreto o grupo da alternativa B. A portaria de 2026 também incluiu caxumba e febre do Oropouche.",
+  "porAlt": [
+   "Errada: acidente por animal peçonhento, botulismo, cólera e hepatites virais são de notificação compulsória.",
+   "Correta: bartonelose não está na lista nacional, embora malária, leptospirose e hantavirose estejam.",
+   "Errada: hanseníase, febre amarela, dengue e Zika estão na lista nacional.",
+   "Errada: infecção pelo HIV, raiva humana, sarampo e sífilis são de notificação compulsória.",
+   "Errada: meningites, coqueluche, febre maculosa e tétano estão na lista nacional."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São funções da vigilância epidemiológica:\nI. Coleta de dados e processamento de dados coletados.\nII. Análise e interpretação dos dados processados e recomendação das medidas de controle apropriadas.\nIII. Promoção das ações de controle indicadas.\nIV. Avaliação da eficácia e efetividade das medidas adotadas.\nV. Divulgação de informações pertinentes.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I, II e IV apenas",
+   "II, III e V apenas",
+   "I e IV apenas",
+   "I, II, III, IV e V",
+   "I, II, III e V apenas"
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Guia de Vigilância Epidemiológica, 7ª ed., 2009; Lei 8.080/1990, art. 6º, §2º",
+  "coment": "O Guia de Vigilância Epidemiológica do Ministério da Saúde (2009) lista as funções da vigilância epidemiológica: coleta de dados; processamento dos dados coletados; análise e interpretação dos dados processados; recomendação das medidas de prevenção e controle apropriadas; promoção das ações de prevenção e controle indicadas; avaliação da eficácia e efetividade das medidas adotadas; e divulgação de informações pertinentes. São funções complementares, que formam um ciclo: informação para ação. Todas as afirmativas estão corretas.",
+  "porAlt": [
+   "Errada: a promoção das ações de controle (III) e a divulgação (V) também são funções.",
+   "Errada: a coleta e o processamento (I) e a avaliação das medidas (IV) também são funções.",
+   "Errada: análise, promoção das ações e divulgação também são funções da vigilância.",
+   "Correta: as cinco afirmativas reúnem as funções da vigilância epidemiológica descritas pelo Ministério da Saúde.",
+   "Errada: a avaliação da eficácia e efetividade das medidas (IV) também é função."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta qual instituição da União é responsável pela Vigilância Sanitária no Brasil.",
+  "alts": [
+   "Agência Nacional de Vigilância Sanitária (Anvisa). Ela faz a gestão de todo serviço que compete ao nível federal",
+   "Organizações Sociais de Saúde (OSS)",
+   "Agência Nacional de Saúde Suplementar (ANS)",
+   "Fundo Nacional de Saúde (FUNASA)",
+   "Centro de Vigilância Epidemiológica ( CVE)"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 9.782/1999, arts. 3º e 7º",
+  "coment": "A Lei 9.782/1999 define o Sistema Nacional de Vigilância Sanitária e cria a Agência Nacional de Vigilância Sanitária (Anvisa), autarquia sob regime especial vinculada ao Ministério da Saúde, que coordena o sistema no nível federal, regulamenta, controla e fiscaliza produtos e serviços que envolvam risco à saúde e atua em portos, aeroportos e fronteiras. A ANS regula os planos de saúde; a sigla FUNASA é da Fundação Nacional de Saúde, não de um fundo; organizações sociais são entidades privadas que gerenciam serviços por contrato; e o CVE é órgão estadual de vigilância epidemiológica.",
+  "porAlt": [
+   "Correta: a Anvisa, criada pela Lei 9.782/1999, é a instituição federal responsável pela vigilância sanitária.",
+   "Errada: organizações sociais de saúde são entidades privadas sem fins lucrativos que gerenciam serviços por contrato de gestão.",
+   "Errada: a ANS regula a saúde suplementar, os planos e seguros de saúde.",
+   "Errada: a FUNASA é a Fundação Nacional de Saúde, voltada a saneamento e saúde ambiental, não à vigilância sanitária.",
+   "Errada: o Centro de Vigilância Epidemiológica é órgão estadual de vigilância epidemiológica, não sanitária."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A vigilância epidemiológica das doenças crônicas não transmissíveis (DCNT) visa identificar e monitorar a tendência dessas doenças. Podemos configurar como principais (DCNT). Diante do exposto, assinale a alternativa correta.",
+  "alts": [
+   "Doenças cardiovasculares, neoplasias, diabetes mellitus e doenças respiratórias crônicas",
+   "Obesidade, dislipidemia, neoplasia e doença de chagas",
+   "Osteoporose, diabetes, obesidade, neoplasias",
+   "Doenças respiratórias crônicas, doença de chagas, obesidade, infecções sexualmente transmissíveis",
+   "Hipertensão arterial, diabetes, neoplasias, osteoporose"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Plano de Ações Estratégicas para o Enfrentamento das Doenças Crônicas e Agravos não Transmissíveis no Brasil 2021-2030, 2021",
+  "coment": "O Plano de DANT 2021-2030 do Ministério da Saúde, em linha com a OMS, prioriza quatro grupos de doenças crônicas não transmissíveis: doenças cardiovasculares, neoplasias, diabetes mellitus e doenças respiratórias crônicas. Elas respondem pela maior parte das mortes no país e compartilham quatro fatores de risco modificáveis: tabagismo, consumo nocivo de álcool, inatividade física e alimentação não saudável. Obesidade, hipertensão e dislipidemia são fatores de risco ou condições monitoradas, e doença de Chagas e IST são doenças transmissíveis.",
+  "porAlt": [
+   "Correta: cardiovasculares, neoplasias, diabetes e respiratórias crônicas são os quatro grupos prioritários de DCNT.",
+   "Errada: doença de Chagas é transmissível, e obesidade e dislipidemia são fatores de risco.",
+   "Errada: osteoporose e obesidade não estão entre os quatro grupos principais de DCNT.",
+   "Errada: doença de Chagas e IST são doenças transmissíveis.",
+   "Errada: osteoporose não está entre os grupos prioritários, e a hipertensão entra como fator de risco cardiovascular."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A gestão na área da enfermagem aplica o processo de organização para a realização de assegurar o cuidado seguro e com qualidade prestado ao cliente/paciente. Diante do enunciado, assinale a alternativa incorreta.",
+  "alts": [
+   "A enfermagem adota escolhas de concepção gerencial e de dimensionamento de pessoal",
+   "Uso de materiais e tecnologias",
+   "Métodos de divisão do trabalho",
+   "Estrutura hierárquica e relações de poder",
+   "A organização em enfermagem nem sempre busca a combinação de esforços individuais pois essa deve ser realizado de forma coletiva"
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Kurcgant P (coord.). Gerenciamento em enfermagem, 3ª ed., Guanabara Koogan, 2016",
+  "coment": "Organizar o trabalho de enfermagem é combinar esforços individuais para alcançar objetivos comuns, no caso o cuidado seguro e de qualidade. Kurcgant (2016) descreve que, ao organizar o serviço, a enfermagem faz escolhas de concepção gerencial, de dimensionamento de pessoal, de uso de materiais e tecnologias, de métodos de divisão do trabalho (funcional, integral, primário, por equipe) e lida com estrutura hierárquica e relações de poder. A alternativa E nega a essência da organização e ainda se contradiz, ao dizer que não busca combinar esforços porque o trabalho deve ser coletivo.",
+  "porAlt": [
+   "Errada: escolhas de concepção gerencial e de dimensionamento de pessoal fazem parte da organização em enfermagem.",
+   "Errada: o uso de materiais e tecnologias é elemento do processo de organização.",
+   "Errada: os métodos de divisão do trabalho (funcional, integral, por equipe) são elementos da organização.",
+   "Errada: estrutura hierárquica e relações de poder integram a organização do trabalho.",
+   "Correta: organizar é justamente combinar esforços individuais; a afirmativa nega isso e se contradiz."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação ao processo saúde-doença analise as afirmativas abaixo.\nI. Saúde – doença se refere a uma expressão usada para fazer referência a todas as variáveis que envolvem a saúde e a doença de um indivíduo ou população.\nII. Saúde – doença estão interligadas são consequência dos mesmos fatores.\nIII. O conceito de saúde-doença estuda os fatores biológicos, econômicos, sociais e culturais da população.\nIV. O conceito de multicausalidade não exclui a presença de agentes etiológicos numa pessoa como fator de aparecimento de doenças.\nV. A multicausalidade não leva em consideração o psicológico do paciente, seus conflitos familiares, seus recursos financeiros.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I, II e V apenas",
+   "I, II, III, IV e V",
+   "I, II, III e IV apenas",
+   "I e V apenas",
+   "II e IV apenas"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Almeida Filho N, Barreto ML. Epidemiologia & Saúde: fundamentos, métodos e aplicações, Guanabara Koogan, 2011",
+  "coment": "O processo saúde-doença é a expressão que reúne todas as variáveis envolvidas na saúde e na doença de pessoas e populações. Saúde e doença são estados de um mesmo processo, determinados por fatores biológicos, econômicos, sociais e culturais. O modelo da multicausalidade não exclui o agente etiológico: ele é causa necessária em muitas doenças, mas age junto a fatores do hospedeiro e do ambiente. Por isso I a IV estão corretas. A V é falsa, pois a multicausalidade considera justamente os aspectos psicológicos, familiares e econômicos da pessoa.",
+  "porAlt": [
+   "Errada: a afirmativa V é falsa, pois a multicausalidade considera os aspectos psicológicos, familiares e financeiros.",
+   "Errada: a afirmativa V é falsa, o que exclui a opção com todas corretas.",
+   "Correta: I a IV descrevem o processo saúde-doença e a multicausalidade; a V é falsa.",
+   "Errada: a V é falsa, e II, III e IV são corretas.",
+   "Errada: as afirmativas I e III também estão corretas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os sistemas de informação em saúde e análise de situação de saúde tem como objetivos. Assinale a alternativa incorreta.",
+  "alts": [
+   "São instrumentos padronizados de monitoramento e coleta de dados",
+   "Seu objetivo primordial é o fornecimento de informações para análise e melhor compreensão de importantes problemas de saúde da população",
+   "Subsidiar a tomada de decisões nos níveis municipal, estadual e federal",
+   "Podemos apresentar como exemplos de sistemas de informação o Sistema de Informação de Agravos de Notificação – SINAN, Sistema de Informações sobre Nascido Vivo – SINASC",
+   "Os municípios não precisam recorrer as instâncias estaduais e federais para tomada de decisão"
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, arts. 15, IV, e 47; Resolução CNS 588/2018 (PNVS)",
+  "coment": "Os sistemas de informação em saúde são instrumentos padronizados de monitoramento e coleta de dados, cujo objetivo é fornecer informação para análise da situação de saúde e para a tomada de decisão nos níveis municipal, estadual e federal. A Lei 8.080/1990 atribui às três esferas a organização e coordenação do sistema de informação de saúde (art. 15, IV) e manda organizar um sistema nacional integrado em todo o território (art. 47). SINAN, SINASC e SIM são exemplos. Os entes trocam informação e decidem de forma articulada; o município não decide isolado das instâncias estadual e federal.",
+  "porAlt": [
+   "Errada: a afirmativa é correta, os sistemas são instrumentos padronizados de monitoramento e coleta.",
+   "Errada: fornecer informação para compreender os problemas de saúde é o objetivo primordial dos sistemas.",
+   "Errada: subsidiar decisões nas três esferas de gestão é finalidade dos sistemas de informação.",
+   "Errada: SINAN e SINASC são exemplos corretos de sistemas de informação do SUS.",
+   "Correta: a gestão é interfederativa e o sistema é integrado; o município não prescinde das outras instâncias."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A vigilância em Saúde do trabalhador e da trabalhadora (VISATT) tem como objetivos e funções:",
+  "alts": [
+   "monitorar através de um conjunto de ações feitas sempre com a participação dos trabalhadores e articuladas intra e intersetorialmente",
+   "não busca dados de forma contínua e sistemática",
+   "somente acompanhar a coordenação dos procedimentos técnicos não se preocupando em realizar notificação caso ocorra algum agravo relacionado ao trabalho",
+   "não tem o objetivo de cruzar variáveis e ou tipo de atividade econômica e ocupação que causem a morbimortalidade dos trabalhadores e trabalhadoras",
+   "a detecção de acidentes de trabalho é realizada somente através da entrevista com o trabalhador"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 1.823/2012 (Política Nacional de Saúde do Trabalhador e da Trabalhadora)",
+  "coment": "A Vigilância em Saúde do Trabalhador (VISAT) é atuação contínua e sistemática para detectar, conhecer, pesquisar e analisar os fatores determinantes e condicionantes dos agravos relacionados aos processos e ambientes de trabalho, e para planejar, executar e avaliar intervenções sobre eles. A PNSTT (Portaria 1.823/2012) põe a VISAT como primeiro objetivo e a faz com participação dos trabalhadores e articulação intra e intersetorial. A VISAT busca dados de forma contínua, notifica agravos relacionados ao trabalho, cruza informações de atividade econômica e ocupação com a morbimortalidade e detecta acidentes por várias fontes, não só pela entrevista.",
+  "porAlt": [
+   "Correta: a VISAT monitora por um conjunto de ações com participação dos trabalhadores e articulação intra e intersetorial.",
+   "Errada: a VISAT é justamente contínua e sistemática na busca de dados.",
+   "Errada: notificar os agravos relacionados ao trabalho é ação central da VISAT.",
+   "Errada: relacionar atividade econômica e ocupação com a morbimortalidade é objetivo da VISAT.",
+   "Errada: a detecção usa várias fontes, como sistemas de informação, inspeção de ambientes e serviços de saúde."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São exemplos de Redes de Atenção à Saúde:\nI. Rede de Atenção à Saúde Materna e Infantil - Rede Cegonha.\nII. Rede de Atenção às Urgências e Emergências (RUE).\nIII. Rede de Atenção à Saúde das Pessoas com Doenças Crônicas\nIV. Rede de Cuidados à Pessoa com Deficiência.\nV. Rede de Atenção Psicossocial.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I, II e III apenas",
+   "II, III e V apenas",
+   "I, II, III, IV e V",
+   "II, IV e V apenas",
+   "I, IV e V apenas"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 4.279/2010; Portaria de Consolidação nº 3/2017; Portaria GM/MS 5.350/2024 (Rede Alyne)",
+  "coment": "As redes temáticas pactuadas a partir de 2011 e hoje consolidadas na Portaria de Consolidação nº 3/2017 são: atenção materna e infantil, Rede de Atenção às Urgências e Emergências, Rede de Atenção às Pessoas com Doenças Crônicas, Rede de Cuidados à Pessoa com Deficiência e Rede de Atenção Psicossocial. Todas as afirmativas estão corretas. Atualização: a Portaria GM/MS 5.350/2024 transformou a Rede Cegonha na Rede Alyne, que segue como a rede de atenção materna e infantil, com foco na redução da mortalidade materna, inclusive a de mulheres negras.",
+  "porAlt": [
+   "Errada: a Rede de Cuidados à Pessoa com Deficiência e a RAPS também são redes de atenção.",
+   "Errada: a rede materna e infantil e a de pessoas com deficiência também fazem parte.",
+   "Correta: as cinco redes temáticas são exemplos de RAS; a Rede Cegonha hoje se chama Rede Alyne.",
+   "Errada: a rede materna e infantil e a de doenças crônicas também são redes de atenção.",
+   "Errada: a RUE e a rede de doenças crônicas também são redes de atenção."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A educação em saúde tem como principais objetivos:",
+  "alts": [
+   "promover conhecimentos sobre processos, comportamentos e boas práticas em saúde",
+   "não se preocupa em educação continuada uma vez que essa não interfere na relação de melhoria entre paciente/profissional",
+   "Uma vez já instalada a doença não se vê a necessidade de realizar a prevenção de doenças e agravos à saúde",
+   "a realização de cursos de capacitação não é um instrumento utilizado na educação em saúde",
+   "Sistema Único de Saúde (SUS) não contempla sua participação na educação em saúde"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Educação em saúde",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Glossário temático: gestão do trabalho e da educação na saúde, 2ª ed., 2012",
+  "coment": "Educação em saúde é o processo de construção de conhecimentos em saúde voltado à apropriação pela população e o conjunto de práticas que amplia a autonomia das pessoas no cuidado, segundo o glossário do Ministério da Saúde. Seu objetivo é promover conhecimentos sobre processos, comportamentos e boas práticas em saúde. Ela vale em todos os níveis de prevenção, inclusive com a doença instalada, para evitar complicações e agravos. Cursos e capacitações são instrumentos legítimos, e a educação em saúde é parte das práticas do SUS, presente nas atribuições das equipes da atenção básica.",
+  "porAlt": [
+   "Correta: promover conhecimentos sobre processos, comportamentos e boas práticas em saúde é o objetivo da educação em saúde.",
+   "Errada: a educação melhora a relação entre profissional e paciente, e a educação continuada qualifica o cuidado.",
+   "Errada: com a doença instalada, a educação previne complicações e agravos (prevenção secundária e terciária).",
+   "Errada: cursos e capacitações são instrumentos usados nas práticas educativas.",
+   "Errada: a educação em saúde integra as práticas do SUS, como nas atribuições das equipes da atenção básica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+   "n": 58,
+   "parte": "especificas"
+  }
+ }
+]

@@ -1,0 +1,1296 @@
+[
+ {
+  "q": "Sistema de Informação do Programa Nacional de Imunizações (SI-PNI) tem como objetivos:\nI. Possibilitar aos gestores envolvidos no programa uma avaliação dinâmica do risco quanto à ocorrência de surtos ou epidemias.\nII. Realizar o registro dos imunos aplicados e do quantitativo populacional vacinado.\nIII. Possibilita o controle do estoque de imunos necessário.\nAssinale a alternativa correta.",
+  "alts": [
+   "I e II apenas",
+   "I apenas",
+   "I, II e III",
+   "II apenas",
+   "III apenas"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Manual de Normas e Procedimentos para Vacinação (Ministério da Saúde, 2014), registro no SI-PNI",
+  "coment": "As três afirmativas descrevem objetivos do SI-PNI. O sistema registra os imunobiológicos aplicados e a população vacinada (II), o que permite calcular coberturas e taxas de abandono e dá ao gestor uma avaliação dinâmica do risco de surtos onde há bolsões de não vacinados (I). Também acompanha a movimentação dos imunobiológicos, apoiando o controle de estoque e a distribuição (III). Hoje o registro é nominal, por pessoa vacinada, e alimenta a Rede Nacional de Dados em Saúde, o que ampliou o uso do sistema para busca de faltosos e vigilância de ESAVI.",
+  "porAlt": [
+   "Errada: deixa de fora o controle de estoque de imunobiológicos, que também é objetivo do SI-PNI.",
+   "Errada: a avaliação de risco de surtos depende justamente do registro de doses e da população vacinada (II).",
+   "Correta: o SI-PNI avalia risco de surtos, registra doses e população vacinada e apoia o controle de estoque.",
+   "Errada: o registro das doses é só uma das funções; o sistema também serve à avaliação de risco e ao estoque.",
+   "Errada: o controle de estoque é uma das funções, mas não a única do sistema."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Ao sistema único de saúde (SUS) compete, além de outras atribuições, nos termos da lei: Assinale a alternativa incorreta.",
+  "alts": [
+   "Controlar e fiscalizar procedimentos, produtos e substâncias de interesse para a saúde e participar da produção de medicamentos, equipamentos, imunobiológicos, hemoderivados e insumos",
+   "Executar as ações de vigilância sanitária e epidemiológica, e saúde do trabalhador",
+   "O SUS não ordena na parte de recursos humanos na área de saúde",
+   "Participar da formulação da política e da execução das ações de saneamento básico",
+   "Incrementar em sua área de atuação o desenvolvimento científico e tecnológico"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, art. 200",
+  "coment": "O enunciado reproduz o caput do art. 200 da Constituição: ao SUS compete, além de outras atribuições, nos termos da lei. O inciso III manda ordenar a formação de recursos humanos na área de saúde, o oposto da alternativa C, que é a incorreta. As demais são incisos do mesmo artigo: controlar e fiscalizar procedimentos, produtos e substâncias e participar da produção de medicamentos e insumos (I), executar vigilância sanitária, epidemiológica e saúde do trabalhador (II), participar da política e das ações de saneamento básico (IV) e incrementar o desenvolvimento científico e tecnológico (V).",
+  "porAlt": [
+   "Errada como resposta: é o inciso I do art. 200 da Constituição, atribuição do SUS.",
+   "Errada como resposta: é o inciso II do art. 200, que inclui a saúde do trabalhador.",
+   "Correta: é a incorreta, porque o inciso III do art. 200 atribui ao SUS ordenar a formação de recursos humanos.",
+   "Errada como resposta: participar da política e das ações de saneamento básico é o inciso IV do art. 200.",
+   "Errada como resposta: incrementar o desenvolvimento científico e tecnológico é o inciso V do art. 200."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Vigilância - Epidemiológica",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando o processo de acreditação hospitalar, leia as frases e a seguir assinale a alternativa correta.\nI. É um método de avaliação compulsório, periódico e aberto, que busca garantir a qualidade da assistência por meio de padrões previamente definidos e identificar eventos adversos por meio de busca ativa.\nII. Adota uma metodologia desenvolvida para apreciar e certificar a qualidade da assistência em um ou mais setores de uma instituição, com base em duas variáveis: avaliação dos padrões de referência desejáveis, construídos por peritos e previamente divulgados; e indicadores a partir de instrumentos utilizados pelo avaliado.\nIII. A aderência ao processo revela responsabilidade e comprometimento com a segurança, com a ética profissional, com os procedimentos que realiza e com a garantia da qualidade do atendimento à população.\nIV. A avaliação deve ser de toda a instituição e não apenas de um setor.\nEstão corretas as frases:",
+  "alts": [
+   "As frases I, III e IV estão corretas.",
+   "As frases I,II e III estão corretas.",
+   "As frases III e IV estão corretas.",
+   "Apenas a frase I está correta."
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Manual Brasileiro de Acreditação para Organizações Prestadoras de Serviços de Saúde (ONA, versão 2022)",
+  "coment": "Acreditação é avaliação externa, voluntária, periódica e reservada, feita por instituição independente contra padrões previamente definidos. Por isso a frase I erra ao chamá-la de compulsória e aberta; ela também não é busca ativa de eventos adversos, papel da vigilância interna e do Núcleo de Segurança do Paciente. A frase II erra ao falar em certificar um ou mais setores: a ONA avalia a organização de forma sistêmica, toda a instituição, como diz a frase IV. A frase III está certa: aderir revela compromisso com segurança, ética e qualidade. Ficam III e IV.",
+  "porAlt": [
+   "Errada: inclui a frase I, mas a acreditação é voluntária e reservada, não compulsória e aberta.",
+   "Errada: I e II são falsas; a acreditação é voluntária e avalia a instituição inteira, não setores isolados.",
+   "Correta: só III e IV estão certas; a acreditação expressa compromisso com a qualidade e avalia toda a instituição.",
+   "Errada: a frase I é justamente uma das falsas, por chamar a acreditação de compulsória."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 1,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um hospital privado, com 280 leitos, que realiza atendimento geral, foi avaliado pela Instituição Acreditadora Credenciada pela ONA (Organização Nacional de Acreditação Hospitalar). Como resultado da avaliação, o hospital atendeu aos padrões e níveis 1 e 2 e obteve certificação com validade de 2 anos. A avaliação desse hospital foi:",
+  "alts": [
+   "Acreditação Satisfatória.",
+   "Acreditação Plena.",
+   "Acreditação com Excelência.",
+   "Não acreditada."
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Manual Brasileiro de Acreditação para Organizações Prestadoras de Serviços de Saúde (ONA, versão 2022)",
+  "coment": "A metodologia da ONA tem três níveis cumulativos. O nível 1, Acreditado, exige os padrões de segurança. O nível 2, Acreditado Pleno, soma a gestão integrada por processos. O nível 3, Acreditado com Excelência, soma a excelência em gestão e a maturidade institucional. Quem atende aos padrões dos níveis 1 e 2 recebe a certificação de Acreditado Pleno, como o hospital do enunciado. Não existe na ONA a categoria acreditação satisfatória, e o hospital que cumpriu os níveis não pode ser chamado de não acreditado.",
+  "porAlt": [
+   "Errada: a ONA não usa a categoria acreditação satisfatória; o nível 1 se chama Acreditado.",
+   "Correta: cumprir os níveis 1 e 2 da ONA resulta na certificação Acreditado Pleno.",
+   "Errada: a Excelência exige também os padrões do nível 3, de excelência em gestão.",
+   "Errada: o hospital atendeu aos padrões dos níveis 1 e 2, então foi acreditado."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 2,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um profissional de enfermagem preparou o medicamento conforme prescrição médica. Entretanto, antes de administrar o medicamento, não conferiu o nome do paciente e com isso instalou e administrou o medicamento no paciente errado, causando danos ao mesmo. Considerando os conceitos de segurança do paciente, ocorreu um (a):",
+  "alts": [
+   "Never Events.",
+   "Circunstância Notificável.",
+   "Near Miss.",
+   "Evento Adverso."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 3º; Classificação Internacional de Segurança do Paciente (OMS, 2009)",
+  "coment": "Pela RDC 36/2013 e pela classificação da OMS, incidente é o evento que poderia ter resultado ou resultou em dano desnecessário ao paciente, e evento adverso é o incidente que resulta em dano. O medicamento foi administrado no paciente errado por falha na identificação e causou dano, logo houve evento adverso. Near miss é o incidente que não atinge o paciente; circunstância notificável é a situação com potencial de dano sem incidente. Never events são eventos graves e evitáveis listados, que envolvem óbito ou dano grave; o enunciado fala só em danos, sem gravidade, e o conceito geral que se aplica é evento adverso.",
+  "porAlt": [
+   "Errada: never events são eventos graves listados, com óbito ou dano grave; o enunciado só diz que houve dano.",
+   "Errada: circunstância notificável é situação com potencial de dano, sem incidente; aqui o erro aconteceu.",
+   "Errada: near miss é o incidente que não chega ao paciente; aqui o medicamento foi administrado.",
+   "Correta: incidente que atingiu o paciente e causou dano é evento adverso (RDC 36/2013, art. 3º)."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 3,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Plano de Proteção Radiológica significa:",
+  "alts": [
+   "Conjunto de ações sistemáticas e planejadas visando resultar na produção continuada de imagens de alta qualidade com o mínimo de exposição para os pacientes e operadores.",
+   "Documento exigido para fins de licenciamento da instalação, que estabelece o sistema de radioproteção a ser implantado pelo serviço de radioproteção.",
+   "Conjunto de medidas que visa proteger o ser humano, seus descendentes e o meio ambiente de possíveis efeitos indesejados causados pela radiação ionizante, de acordo com princípios básicos estabelecidos pela CNEN.",
+   "Aplicação médica da radiação ionizante para fins terapêuticos."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "NR 32 (Portaria MTE 485/2005), item 32.4.2; Norma CNEN NN 3.01, glossário",
+  "coment": "O Plano de Proteção Radiológica (PPR) é o documento exigido para o licenciamento da instalação que usa radiação ionizante e estabelece o sistema de radioproteção a ser implantado pelo serviço de radioproteção, definição da norma de diretrizes básicas da CNEN (NN 3.01). A NR 32 exige que o serviço de saúde mantenha o PPR aprovado pela CNEN e o trabalhador conhecedor dele. A alternativa A define programa de garantia de qualidade; a C, a própria proteção radiológica ou radioproteção; a D, radioterapia.",
+  "porAlt": [
+   "Errada: ações sistemáticas para imagens de qualidade com mínima exposição definem programa de garantia de qualidade.",
+   "Correta: o PPR é o documento exigido para o licenciamento que estabelece o sistema de radioproteção.",
+   "Errada: esse conjunto de medidas define a proteção radiológica em si, não o plano documental.",
+   "Errada: aplicação terapêutica da radiação ionizante é a radioterapia."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 4,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando os medicamentos quimioterápicos na Norma Regulamentadora – NR32, assinale a alternativa correta.",
+  "alts": [
+   "Compete ao empregador: proibir fumar, comer ou beber, bem como portar adornos ou maquiar-se.",
+   "Compete a empregada gestante ou nutriz, solicitar formalmente seu afastamento das atividades laborais.",
+   "Compete ao empregado, providenciar avental confeccionado de material impermeável, com frente resistente e fechado nas costas, manga comprida e punho justo, quando do seu preparo e administração.",
+   "Os quimioterápicos antineoplásicos devem ser preparados em áreas exclusivas na Unidade de Quimioterapia ou nas salas de medicação da Unidade de Internação."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR 32 (Portaria MTE 485/2005), itens 32.3.9.4 e 32.3.9.4.6",
+  "coment": "Para os quimioterápicos antineoplásicos, a NR 32 lista obrigações do empregador, entre elas proibir fumar, comer ou beber e portar adornos ou maquiar-se nas áreas de preparo e administração, alternativa A. Também é dever do empregador afastar das atividades as trabalhadoras gestantes e nutrizes, sem depender de pedido delas. O avental impermeável, de manga longa e punho justo, é fornecido pelo empregador, não providenciado pelo empregado. O preparo é feito em área exclusiva, com acesso restrito e cabine de segurança biológica, nunca em salas de medicação da internação.",
+  "porAlt": [
+   "Correta: proibir fumar, comer, beber, usar adornos e maquiar-se é dever do empregador na NR 32.",
+   "Errada: afastar gestantes e nutrizes é obrigação do empregador, sem depender de solicitação da trabalhadora.",
+   "Errada: o avental impermeável é EPI fornecido pelo empregador, não providenciado pelo empregado.",
+   "Errada: o preparo exige área exclusiva com cabine de segurança biológica, nunca a sala de medicação da enfermaria."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 5,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando as medidas de controle para a prevenção de acidentes com materiais perfurocortantes, que constam na Norma Regulamentadora – NR32, analise as afirmativas abaixo, dê valores Verdadeiro (V) ou Falso (F) e assinale a alternativa que apresenta a sequencia correta de cima para baixo.\n( ) Substituir o uso de agulhas e outros perfurocortantes quando for tecnicamente possível.\n( ) Utilizar coletor de descarte perfurocortante não é uma medida que previne risco de acidente.\n( ) Adotar o uso de material perfurocortante com dispositivo de segurança, quando existente, disponível e tecnicamente possível.\n( ) É proibido uso de material perfurocortante sem dispositivo de segurança, mesmo quando não existente ou não disponível no mercado.",
+  "alts": [
+   "V,V,V,F.",
+   "V,F,V,F.",
+   "F,V,V,F.",
+   "F,F,F,V."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR 32 (Portaria MTE 485/2005), item 32.2.4.16 e Anexo III (Portaria MTE 1.748/2011), item 5.1",
+  "coment": "O Anexo III da NR 32 ordena as medidas de controle contra acidentes com perfurocortantes: substituir o uso de agulhas e perfurocortantes quando tecnicamente possível (V); adotar controles de engenharia, como coletores de descarte (por isso a segunda é falsa, o coletor é medida preventiva); usar material com dispositivo de segurança quando existente, disponível e tecnicamente possível (V); e mudar práticas de trabalho. A norma não proíbe usar perfurocortante sem dispositivo quando ele não existe ou não está disponível, então a quarta é falsa. Sequência V, F, V, F.",
+  "porAlt": [
+   "Errada: o coletor de descarte é controle de engenharia, e a segunda afirmativa é falsa.",
+   "Correta: substituir agulhas e adotar dispositivo de segurança são verdadeiras; as outras duas são falsas.",
+   "Errada: substituir o perfurocortante quando possível é a primeira medida da hierarquia do Anexo III.",
+   "Errada: a NR 32 não proíbe material sem dispositivo quando ele não existe ou não está disponível."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 6,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente do sexo masculino, de 39 anos, internado na Unidade de Moléstias Infecciosas, foi diagnosticado Tuberculose Pulmonar. Para esse paciente, em ambiente hospitalar, é recomendada:",
+  "alts": [
+   "Precaução para transmissão de aerossóis.",
+   "Precaução para transmissão de gotículas.",
+   "Precaução para transmissão de contato.",
+   "Precaução Padrão apenas em situações de possibilidade de contato com sangue e secreções nasais."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "CDC/HICPAC, Guideline for Isolation Precautions, 2007; Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada, 2019",
+  "coment": "O Mycobacterium tuberculosis se transmite por aerossóis, núcleos de gotículas menores que 5 micrômetros que ficam suspensos no ar e percorrem distâncias maiores. Por isso o paciente com tuberculose pulmonar suspeita ou confirmada fica em precaução para aerossóis: quarto privativo, de preferência com pressão negativa e porta fechada, profissional com respirador PFF2 ou N95 e paciente com máscara cirúrgica no transporte. A precaução padrão vale para todos os pacientes e não é limitada a contato com sangue. Gotículas é a via da meningite meningocócica e da coqueluche.",
+  "porAlt": [
+   "Correta: a tuberculose pulmonar exige precaução para aerossóis, com respirador PFF2 ou N95.",
+   "Errada: gotículas é a via de coqueluche e doença meningocócica, não da tuberculose.",
+   "Errada: a tuberculose pulmonar não se transmite por contato, mas por aerossóis.",
+   "Errada: a precaução padrão vale sempre, para todos, e sozinha não basta na tuberculose pulmonar."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 7,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando a portaria nº 2616, de 12 de maio de 1998, que trata das diretrizes e normas para prevenção e o controle das infecções hospitalares, leia as frases e a seguir assinale a alternativa correta.\nI. O Programa de Controle de Infecções Hospitalares (PCIH) é composto por ações mínimas necessárias, a serem desenvolvidas, deliberada e sistematicamente, com vistas a redução máxima possível da incidência e da gravidade das infecções dos hospitais.\nII. Para a adequada execução do PCIH, os hospitais deverão constituir Comissão de Controle de Infecção Hospitalar (CCIH), órgão de assessoria à autoridade máxima da instituição e de execução das ações de controle de infecção hospitalar.\nIII. De acordo com a Resolução RDC 36 de, 25 de julho de 2013, a CCIH deverá ser extinta e suas atividades serão desenvolvidas pelo Núcleo de Segurança do Paciente.\nIV. Os membros executores da CCIH serão, no mínimo, 2 (dois) técnicos de nível superior da área de saúde para cada 200 (duzentos) leitos ou fração deste número com carga horária diária, mínima, de 6 (seis) horas para o enfermeiro e 4 (quatro) horas para os demais profissionais.\nEstão corretas as afirmativas:",
+  "alts": [
+   "As frases I e III estão corretas.",
+   "As frases I, III e IV estão corretas.",
+   "As frases I, II e IV estão corretas.",
+   "Apenas a frase I está correta."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.616/1998, Anexo I; RDC ANVISA 36/2013",
+  "coment": "A Portaria 2.616/1998 define o PCIH como o conjunto de ações desenvolvidas deliberada e sistematicamente para reduzir ao máximo a incidência e a gravidade das infecções hospitalares (I), exige que o hospital constitua a CCIH como órgão de assessoria à autoridade máxima e de execução das ações (II) e fixa os membros executores em no mínimo 2 técnicos de nível superior para cada 200 leitos, com 6 horas diárias para o enfermeiro e 4 horas para os demais (IV). A frase III é falsa: a RDC 36/2013 criou o Núcleo de Segurança do Paciente, que atua articulado com a CCIH, sem extingui-la.",
+  "porAlt": [
+   "Errada: a frase III é falsa, porque a RDC 36/2013 não extinguiu a CCIH.",
+   "Errada: inclui a frase III; NSP e CCIH coexistem e trabalham juntos.",
+   "Correta: I, II e IV reproduzem a Portaria 2.616/1998; a RDC 36/2013 não extinguiu a CCIH.",
+   "Errada: II e IV também estão corretas, pela composição e função da CCIH na Portaria 2.616/1998."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 8,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente recebeu alta da Unidade hospitalar e foi orientado pela equipe médica e de enfermagem quanto aos medicamentos que deverá fazer uso, bem como os cuidados com sua patologia. O paciente foi à Farmácia próxima de sua casa com a receita médica para comprar os medicamentos prescritos. E o farmacêutico informou que determinado medicamento poderia ser substituído por medicamento, _____________ que é de comprovada eficácia, segurança e qualidade, semelhante ao produto inovador, sendo um produto intercambiável. Preencha a lacuna e a seguir assinale a alternativa correta.",
+  "alts": [
+   "Fitoterápico.",
+   "Genérico.",
+   "Similar.",
+   "Referência."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 9.787/1999, art. 3º, incisos XX a XXII (altera a Lei 6.360/1976)",
+  "coment": "A Lei 9.787/1999 define medicamento genérico como o similar a um produto de referência ou inovador, que se pretende intercambiável com ele, produzido após a expiração da patente e com eficácia, segurança e qualidade comprovadas. É a definição da lacuna. O medicamento de referência é o inovador registrado, com eficácia e segurança comprovadas por estudos próprios; o similar tem o mesmo princípio ativo, mas é identificado por marca, e só a partir da RDC ANVISA 58/2014 parte deles passou a ser declarada intercambiável após estudos de equivalência. O fitoterápico é obtido de matérias-primas vegetais.",
+  "porAlt": [
+   "Errada: fitoterápico é obtido de matérias-primas ativas vegetais e não é cópia intercambiável do inovador.",
+   "Correta: genérico é o medicamento intercambiável com o de referência, com eficácia, segurança e qualidade comprovadas.",
+   "Errada: o similar é identificado por marca; a intercambialidade dele veio depois, por regra própria da ANVISA.",
+   "Errada: o de referência é o próprio produto inovador, não o que o substitui."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 9,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A prescrição do paciente FDV, leito 09, da Unidade de Clínica Médica, consta para administrar Penicilina Cristalina 2.900.000 UI, por via endovenosa, de 4 em 4 horas. A seção de Farmácia possui frasco-ampola de Penicilina Cristalina de 5.000.000 UI. O técnico de enfermagem deverá preparar o medicamento, aspirando ____ de diluente e injetando essa quantidade no frasco-ampola. Após diluição, aspirar ____ para administrar a dose prescrita. Assinale a alternativa que completa correta e respectivamente as lacunas.",
+  "alts": [
+   "10 mL; 5,8 mL.",
+   "8 mL; 5,8 mL.",
+   "5 mL; 2,9 mL.",
+   "6 mL; 3,5 mL."
+  ],
+  "gab": 1,
+  "tema": "farmaco",
+  "sub": "Cálculo de dose e diluição",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013); bula da benzilpenicilina potássica 5.000.000 UI",
+  "coment": "O pó da penicilina cristalina de 5.000.000 UI ocupa cerca de 2 mL. Reconstituído com 8 mL de diluente, o volume final é de 10 mL, e a concentração real é 5.000.000 UI dividido por 10 mL, ou 500.000 UI/mL. A dose de 2.900.000 UI corresponde a 2.900.000 dividido por 500.000, ou 5,8 mL. O erro clássico é dividir pelo volume de diluente: com 10 mL de diluente o volume final passaria de 12 mL e 5,8 mL não daria a dose. Depois, a dose é rediluída em soro para infusão, conforme a prescrição.",
+  "porAlt": [
+   "Errada: com 10 mL de diluente o volume final seria de cerca de 12 mL, e 5,8 mL não conteria 2.900.000 UI.",
+   "Correta: 8 mL de diluente mais 2 mL do pó dão 10 mL a 500.000 UI/mL; 2.900.000 UI equivalem a 5,8 mL.",
+   "Errada: com 5 mL de diluente o volume final seria 7 mL, e 2,9 mL não conteria a dose prescrita.",
+   "Errada: 6 mL de diluente e 3,5 mL aspirados não correspondem a 2.900.000 UI."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 11,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando a anatomia e fisiologia da pele, analise as afirmativas abaixo, dê valores Verdadeiro (V) ou Falso (F) e assinale a alternativa que apresenta a sequência correta de cima para baixo.\n( ) A pele tem um papel importante de proteção passiva do corpo, evitando penetração de elementos do meio ambiente no organismo e ocorrência de perda descontrolada de água e de outras substâncias.\n( ) A pele é constituída por duas camadas primárias, a epiderme e a derme. Além de uma camada de gordura subcutânea que é fundamental para a função da pele.\n( ) A derme constitui-se de uma simples cobertura passiva para a pele. Ela é um tecido dinâmico composto por células como queratinócitos, melanócitos e células de Langerhans, que continuam a se desenvolver conforme migram para fora. A derme também reveste as estruturas acessórias como as unhas e folículos pilosos.\n( ) A lâmina basal é a junção da derme com a epiderme. Consiste na lâmina lúcida clara de 20nm de espessura e na lâmina densa.",
+  "alts": [
+   "F,F,V,V.",
+   "V,V,V,V.",
+   "V,V,F,V.",
+   "V,V,F,F."
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Fisiologia da cicatrização",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Junqueira LC, Carneiro J. Histologia Básica, 13ª ed., 2017 (pele e anexos)",
+  "coment": "A pele é barreira passiva contra a entrada de agentes do ambiente e contra a perda descontrolada de água (V). Tem duas camadas, epiderme e derme, apoiadas na hipoderme, cuja gordura isola, protege e reserva energia (V). A terceira é falsa porque descreve a epiderme: é ela que tem queratinócitos, melanócitos e células de Langerhans que amadurecem migrando para a superfície; a derme é tecido conjuntivo com colágeno, vasos, nervos e anexos. A lâmina basal, com lâmina lúcida e lâmina densa, forma a junção dermoepidérmica (V). Sequência V, V, F, V.",
+  "porAlt": [
+   "Errada: as duas primeiras afirmativas são verdadeiras, e a terceira, que descreve a epiderme, é falsa.",
+   "Errada: a terceira é falsa, porque queratinócitos, melanócitos e células de Langerhans são da epiderme.",
+   "Correta: só a terceira é falsa, pois atribui à derme as células e a dinâmica da epiderme.",
+   "Errada: a quarta é verdadeira, a lâmina basal com lâmina lúcida e densa é a junção dermoepidérmica."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 12,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma ferida que apresenta perda tissular de espessura completa; a gordura subcutânea pode estar visível, entretanto os ossos, tendões e músculos não são expostos é classificada como:",
+  "alts": [
+   "Estágio IV.",
+   "Estágio III.",
+   "Estágio VI.",
+   "Estágio II."
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "NPUAP, sistema de estadiamento de 2016 (versão brasileira SOBEST/SOBENDE, 2016); Nota Técnica GVIMS/GGTES/ANVISA 05/2023",
+  "coment": "No estadiamento da NPUAP de 2016, a lesão por pressão estágio 3 tem perda da pele em sua espessura total, com gordura visível, frequentemente tecido de granulação e epíbole, mas sem exposição de fáscia, músculo, tendão, ligamento, cartilagem ou osso. O estágio 4 tem exposição dessas estruturas, e o estágio 2 é perda parcial com derme exposta. Não existe estágio 6: além dos quatro estágios há a lesão não classificável, a tissular profunda e as relacionadas a dispositivo médico e de membranas mucosas. Hoje os estágios se escrevem com algarismos arábicos.",
+  "porAlt": [
+   "Errada: o estágio 4 tem exposição de fáscia, músculo, tendão, ligamento, cartilagem ou osso.",
+   "Correta: perda de espessura total com gordura visível, sem osso, tendão ou músculo expostos, é estágio 3.",
+   "Errada: não existe estágio 6 no sistema da NPUAP; são quatro estágios e categorias adicionais.",
+   "Errada: o estágio 2 é perda parcial da espessura da pele, com derme exposta, sem gordura visível."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 13,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando os produtos disponíveis para curativos, assinale a alternativa correta.",
+  "alts": [
+   "O carvão ativado é utilizado para lesão exsudativa e infectada, com ou sem odor. Tem ação de absorção e adsorção, bactericida e desodorizante. Deve ser trocado quando saturado.",
+   "A colagenase a 10% deve ser utilizada para lesão muito exsudativa, com fibrina, sem crosta e necrose. Aplicada no preenchimento de espaços e cavidades. A frequência de troca varia em 5 dias.",
+   "O alginato de cálcio deve ser utilizado para lesão fechada, exclusivamente com infecção, sem presença de necrose, causada por queimadura. Recomendada para tratamento de infecção, com troca de curativo a cada 12 horas.",
+   "O hidrogel é indicado para lesões fechadas, pouco exsudativas, sem presença de necrose fibrina. Protege e hidrata a ferida, restaurando a lesão a formação de tecido de granulação. Recomenda-se a troca a cada 6 horas."
+  ],
+  "gab": 0,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Manual de Condutas para Tratamento de Úlceras em Hanseníase e Diabetes, 2ª ed. (Ministério da Saúde, 2008); Resolução COFEN 787/2025",
+  "coment": "O carvão ativado, em geral impregnado com prata, é indicado em feridas exsudativas e infectadas, com ou sem odor: o carvão absorve o exsudato e adsorve as moléculas do odor, e a prata é bactericida. A troca é feita quando a cobertura satura. A colagenase é desbridante enzimático para tecido desvitalizado, com troca diária. O alginato de cálcio é para feridas abertas, exsudativas ou sangrantes, inclusive cavitárias, não para lesões fechadas. O hidrogel hidrata feridas secas ou com pouco exsudato e ajuda a amolecer necrose e fibrina, com troca em dias, não a cada 6 horas.",
+  "porAlt": [
+   "Correta: o carvão ativado com prata absorve exsudato, adsorve odor, é bactericida e se troca quando saturado.",
+   "Errada: a colagenase desbrida tecido desvitalizado e se troca diariamente, não a cada 5 dias.",
+   "Errada: o alginato serve a feridas abertas exsudativas ou sangrantes, não a lesões fechadas, nem troca a cada 12 horas.",
+   "Errada: o hidrogel atua em feridas abertas, amolece necrose e fibrina e não exige troca a cada 6 horas."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 14,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando a contracepção pós-natal, o método indicado é:",
+  "alts": [
+   "A pílula anticoncepcional hormonal oral, composta exclusivamente por estrogênio. Seu uso deve ser iniciado no primeiro dia de amamentação da criança.",
+   "A laqueadura ou ligadura de trompas para mulher que está amamentando, pois não reduz a quantidade do leite. Deve ser realizada na mulher apenas em períodos de aborto, parto ou até 42 dias pós-parto.",
+   "A minipílula, um anticoncepcional hormonal oral, para mulher que não está alimentando seu filho com aleitamento exclusivo, pois contem exclusivamente progestogênio, que não reduz a quantidade do leite.",
+   "O anticoncepcional injetável, composto por estrogênio e progestogênio, que deve ser administrado por via intramuscular."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Planejamento reprodutivo",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Lei 9.263/1996, art. 10, com redação da Lei 14.443/2022; Cadernos de Atenção Básica nº 26, Saúde Sexual e Saúde Reprodutiva (Ministério da Saúde, 2010)",
+  "coment": "A minipílula contém só progestogênio e não reduz a produção de leite, por isso é o anticoncepcional oral do puerpério na mulher que amamenta, sobretudo quando o aleitamento deixa de ser exclusivo e a amenorreia da lactação já não protege. Métodos com estrogênio, oral ou injetável mensal, reduzem o leite e são evitados nas primeiras semanas de amamentação. A laqueadura não se restringia ao aborto, ao parto ou aos 42 dias: a Lei 9.263/1996 vedava a cirurgia no parto e no aborto, salvo exceções, e a Lei 14.443/2022 passou a permiti-la no parto quando respeitados os 60 dias entre a manifestação e a cirurgia.",
+  "porAlt": [
+   "Errada: a pílula combinada contém estrogênio, que reduz o leite; não há pílula só de estrogênio para contracepção.",
+   "Errada: a laqueadura não fica restrita ao aborto, ao parto ou aos 42 dias; a lei regula prazos e condições próprias.",
+   "Correta: a minipílula, só de progestogênio, não reduz o leite e é opção quando o aleitamento não é mais exclusivo.",
+   "Errada: o injetável mensal combina estrogênio, que prejudica a lactação; na amamentação usa-se o trimestral só de progestogênio."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 15,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando o aleitamento materno, leia as frases abaixo e a seguir assinale a alternativa correta.\nI. O aleitamento materno exclusivo é denominado quando a criança se alimenta apenas de leite materno, diretamente do seio, mas pode fazer uso de líquidos também (água, suco de frutas, chás e medicamentos).\nII. O aleitamento materno complementado significa que a criança recebe outros alimentos além do leite humano.\nIII. A amamentação deve ser incentivada até os cinco anos de idade.\nIV. Para proteger o mamilo e aumentar o tempo de amamentação do recém-nascido, a mãe deve ser orientada para utilizar pomadas, sabonetes e cremes após cada mamada.\nEstão corretas as frases:",
+  "alts": [
+   "Apenas II está correta.",
+   "Apenas II e IV estão corretas.",
+   "Apenas I, II e III estão corretas.",
+   "Apenas I e II estão corretas."
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Aleitamento e alimentação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Cadernos de Atenção Básica nº 23, Saúde da Criança: Aleitamento Materno e Alimentação Complementar, 2ª ed. (Ministério da Saúde, 2015)",
+  "coment": "No aleitamento exclusivo a criança recebe só leite materno, da mama ou ordenhado, mais gotas de vitaminas, minerais, sais de reidratação e medicamentos; água, chá ou suco tornam o aleitamento predominante, logo a frase I é falsa. No complementado a criança recebe leite materno e outros alimentos, sólidos ou semissólidos, para complementá-lo (II, verdadeira). O Ministério da Saúde recomenda amamentar até 2 anos ou mais, com exclusividade até os 6 meses, e não até os cinco anos (III, falsa). Pomadas, cremes e sabonetes no mamilo não são recomendados (IV, falsa).",
+  "porAlt": [
+   "Correta: só a II é verdadeira; o complementado associa leite materno a outros alimentos.",
+   "Errada: o MS não recomenda pomadas, sabonetes ou cremes nos mamilos, então a IV é falsa.",
+   "Errada: aleitamento exclusivo não admite água, chá ou suco, e a recomendação é até 2 anos ou mais.",
+   "Errada: a I é falsa, porque água, chá e suco tornam o aleitamento predominante, não exclusivo."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 16,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma gestante é atendida na Unidade de Saúde da Família e refere que a data da última menstruação ocorreu em 20 de outubro de 2013. Segundo a regra de Naegele, a data provável do parto será em:",
+  "alts": [
+   "30 de agosto de 2014.",
+   "27 de julho de 2014.",
+   "20 de julho de 2014.",
+   "10 de setembro de 2014."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Cadernos de Atenção Básica nº 32, Atenção ao Pré-Natal de Baixo Risco (Ministério da Saúde, 2012)",
+  "coment": "A regra de Naegele soma 7 dias ao primeiro dia da última menstruação e subtrai 3 meses, ou soma 9 meses quando a DUM cai entre janeiro e março. Com DUM em 20 de outubro de 2013: 20 mais 7 dá 27, e outubro menos 3 meses dá julho, do ano seguinte. A data provável do parto é 27 de julho de 2014. Quando a soma dos dias passa do fim do mês, o excedente vai para o mês seguinte. A DPP é estimativa: o parto a termo vai de 37 a 41 semanas e 6 dias.",
+  "porAlt": [
+   "Errada: 30 de agosto não resulta da regra; somaria dias e meses de forma incorreta.",
+   "Correta: 20 + 7 = 27 e outubro menos 3 meses = julho, logo 27 de julho de 2014.",
+   "Errada: 20 de julho esquece de somar os 7 dias ao dia da DUM.",
+   "Errada: 10 de setembro não corresponde a nenhuma etapa da regra de Naegele."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 17,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma mulher internou na Maternidade com 36 semanas de gestação. No mesmo dia da internação, a criança nasceu. Segundo a Organização Mundial da Saúde (OMS), esse recém-nascido é considerado:",
+  "alts": [
+   "Pré-Termo.",
+   "Termo.",
+   "Normal.",
+   "Pós-Termo."
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "OMS, Born Too Soon: decade of action on preterm birth, 2023 (definição de pré-termo)",
+  "coment": "A OMS classifica o recém-nascido pela idade gestacional: pré-termo é o nascido antes de 37 semanas completas, termo de 37 semanas a 41 semanas e 6 dias, e pós-termo a partir de 42 semanas. Nascido com 36 semanas, o bebê é pré-termo, na faixa chamada pré-termo tardio (34 a 36 semanas e 6 dias), que tem mais risco de hipotermia, hipoglicemia, icterícia e dificuldade de sucção que o bebê a termo. Normal não é categoria da classificação por idade gestacional.",
+  "porAlt": [
+   "Correta: nascido antes de 37 semanas completas é pré-termo; com 36 semanas, pré-termo tardio.",
+   "Errada: termo começa em 37 semanas completas.",
+   "Errada: normal não é categoria da classificação do recém-nascido por idade gestacional.",
+   "Errada: pós-termo é o nascido com 42 semanas ou mais."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 18,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando as soluções esterilizantes, assinale a alternativa correta.",
+  "alts": [
+   "O ácido peracético é utilizado habitualmente em concentrações entre 3 a 10%, atuando por meio da produção de radicais livres que conseguem atacar as membranas lipídicas, DNA e outros componentes.",
+   "O glutaraldeído é um dialdeído saturado que tem aceitação como desinfetante de alto nível e esterilizante por conta de seu amplo espectro e por não produzir resíduo tóxico.",
+   "O peróxido de hidrogênio tem sua síntese a partir da associação de ácido acético e peróxido de hidrogênio. Possui ação microbicida rápida, agindo pela desnaturação das proteínas, ruptura da parede celular e oxidação de proteínas e enzimas.",
+   "Em decorrência de sua alta toxicidade para os profissionais de saúde, o uso de todas as formulações líquidas e sólidas de formaldeído foi proibido pela ANVISA."
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "RDC ANVISA 91/2008; RDC ANVISA 15/2012",
+  "coment": "A RDC ANVISA 91/2008 proibiu o uso isolado de produtos com formaldeído ou paraformaldeído, em pastilhas ou líquido, para desinfecção e esterilização, por causa da toxicidade e da falta de controle do processo. Continua permitido o formaldeído em equipamento registrado, a esterilização por vapor a baixa temperatura e formaldeído. Por isso a D é a resposta, embora generalize. As outras erram: o ácido peracético se usa em baixas concentrações, em torno de 0,2%; o glutaraldeído deixa resíduo tóxico e exige enxágue abundante; e a síntese de ácido acético com peróxido de hidrogênio descreve o ácido peracético, não o peróxido.",
+  "porAlt": [
+   "Errada: o ácido peracético é usado em concentrações baixas, em torno de 0,2%, não de 3 a 10%.",
+   "Errada: o glutaraldeído deixa resíduo tóxico e irritante e exige enxágue abundante.",
+   "Errada: a associação de ácido acético e peróxido de hidrogênio produz o ácido peracético.",
+   "Correta: a RDC ANVISA 91/2008 proibiu o uso isolado do formaldeído líquido ou em pastilhas, pela toxicidade."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 21,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando os aspectos de Segurança do Paciente relacionados à Cirurgia Segura, leia as frases abaixo e a seguir assinale a alternativa correta.\nI. O protocolo para Cirurgia Segura deverá ser aplicado em todos os locais dos estabelecimentos de saúde em que sejam realizados procedimentos, que impliquem em incisão no corpo humano ou em introdução de equipamentos endoscópios, dentro ou fora de centro cirúrgico, por qualquer profissional de saúde.\nII. O condutor da Lista de Verificação deverá ser exclusivamente um médico, que esteja participando da cirurgia e seja o responsável por conduzir a aplicação do instrumento.\nIII. A Lista de Verificação divide a cirurgia em três fases: antes da indução anestésica; antes da incisão cirúrgica; e antes do paciente sair da sala de cirurgia.\nIV. Para a utilização da Lista de Verificação, uma única pessoa deverá ser responsável por conduzir a checagem dos itens. Em cada fase, o condutor da Lista de Verificação deverá confirmar se a equipe completou suas tarefas antes de prosseguir para a próxima etapa.\nEstão corretas as frases:",
+  "alts": [
+   "Apenas I, II e III estão corretas.",
+   "Apenas I,III e IV estão corretas.",
+   "Apenas I e IV estão corretas.",
+   "Apenas III está correta."
+  ],
+  "gab": 1,
+  "tema": "cirurgica",
+  "sub": "Cirurgia segura",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Protocolo para Cirurgia Segura, Anexo 03 da Portaria GM/MS 1.377/2013 (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "O Protocolo para Cirurgia Segura vale para todo procedimento com incisão no corpo humano ou introdução de equipamentos endoscópicos, dentro ou fora do centro cirúrgico (I). A Lista de Verificação divide a cirurgia em três fases: antes da indução anestésica, antes da incisão e antes de o paciente sair da sala (III). Uma única pessoa conduz a checagem e, em cada fase, confirma que a equipe completou as tarefas antes de seguir (IV). A II é falsa: o condutor é um profissional de saúde que participa da cirurgia, não necessariamente médico; na prática, muitas vezes é o enfermeiro circulante.",
+  "porAlt": [
+   "Errada: inclui a II, mas o condutor da lista não precisa ser médico.",
+   "Correta: I, III e IV reproduzem o protocolo; o condutor pode ser qualquer profissional de saúde da equipe.",
+   "Errada: deixa de fora a III, as três fases da Lista de Verificação.",
+   "Errada: I e IV também estão corretas, pela abrangência do protocolo e pelo papel do condutor."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 22,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma criança de 3 anos estava internada na Enfermaria de Pediatria e o médico prescreveu inalação com soro fisiológico 0,9% e 20 gotas de brometo de ipratrópio, três vezes por dia. O técnico de enfermagem ao preparar a inalação pegou um frasco do medicamento no armário do posto de medicação, e sem tomar os devidos cuidados, utilizou o bromidrato de fenoterol ao invés do brometo de ipratrópio. Após realizar a inalação, a criança passou mal, apresentando parada cardiorrespiratória, e evoluindo ao óbito. Considerando os aspectos éticos, o profissional cometeu:",
+  "alts": [
+   "Negligência.",
+   "Imprudência.",
+   "Imperícia.",
+   "Injúria."
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Responsabilidade civil, penal e ética",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Código Penal (Decreto-Lei 2.848/1940), art. 18, II; Resolução COFEN 564/2017 (Código de Ética), art. 45",
+  "coment": "As três modalidades de culpa estão no art. 18, II, do Código Penal e no dever do art. 45 do Código de Ética de prestar assistência livre de imperícia, negligência ou imprudência. Negligência é deixar de fazer o que se devia, por descuido ou omissão: o técnico pegou o frasco sem conferir o rótulo, deixando de checar o medicamento certo. Imprudência é agir com afobação ou risco consciente, pulando etapas que se conhece; imperícia é a falta de conhecimento técnico para o ato. Injúria é crime contra a honra, sem relação com o caso. A banca leu a falta de conferência como omissão de cuidado, negligência.",
+  "porAlt": [
+   "Correta: deixar de conferir o medicamento antes de usá-lo é omissão de cuidado devido, negligência.",
+   "Errada: imprudência é agir com precipitação ou risco assumido; aqui o erro foi deixar de conferir.",
+   "Errada: imperícia é falta de conhecimento técnico, e preparar inalação é ato que o técnico sabe fazer.",
+   "Errada: injúria é crime contra a honra, ofensa à dignidade de alguém, sem relação com o erro."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 23,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando a Resolução do COFEN nº 358/2009, que dispõe sobre a Sistematização da Assistência de Enfermagem e a implementação do Processo de Enfermagem, leia as frases e a seguir assinale a alternativa correta.\nI. Estabelece que esse processo seja organizado em três etapas: coleta de dados de enfermagem, diagnóstico de enfermagem e implementação de enfermagem.\nII. O Processo de Enfermagem é um instrumento metodológico que orientará o cuidado profissional de enfermagem e a documentação da prática profissional.\nIII. A Sistematização da Assistência de Enfermagem é o instrumento que organiza permite a operacionalização desse processo.\nIV. A coleta de dados possui basicamente três atividades: coleta de dados objetivos e subjetivos, organização dos dados coletados e documentação metódica.\nEstão corretas as frases:",
+  "alts": [
+   "Apenas II, III e IV estão corretas.",
+   "Apenas I, II, III e IV estão corretas.",
+   "Apenas II está correta.",
+   "Apenas III está correta."
+  ],
+  "gab": 0,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024 (revogou a Resolução COFEN 358/2009)",
+  "coment": "A Res. 358/2009, citada no enunciado, organizava o Processo de Enfermagem em cinco etapas, não três, e por isso a I é falsa. A II e a III reproduzem a norma da época: o PE é instrumento metodológico que orienta o cuidado e a documentação, e a SAE organiza o trabalho quanto a método, pessoal e instrumentos, tornando possível operacionalizar o PE. A IV descreve as atividades da coleta de dados. Hoje vale a Res. COFEN 736/2024, que mantém cinco etapas com outros nomes: Avaliação, Diagnóstico, Planejamento, Implementação e Evolução de Enfermagem. A 736 trata do PE e deixa de lado a definição de SAE.",
+  "porAlt": [
+   "Correta: só a I é falsa, porque o PE tinha cinco etapas na Res. 358/2009 e continua com cinco na 736/2024.",
+   "Errada: a I é falsa; o Processo de Enfermagem nunca teve só três etapas.",
+   "Errada: além da II, a III e a IV também estão corretas.",
+   "Errada: além da III, a II e a IV também estão corretas."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 25,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Não é um instrumento ou aparelho necessário para realização do exame físico:",
+  "alts": [
+   "Esfigmomanômetro.",
+   "Pluviômetro.",
+   "Estetoscópio.",
+   "Fita métrica."
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Potter PA, Perry AG. Fundamentos de Enfermagem, 9ª ed., 2018 (exame físico, equipamentos)",
+  "coment": "O exame físico usa instrumentos como esfigmomanômetro, para a pressão arterial, estetoscópio, para ausculta cardíaca, pulmonar e abdominal, e fita métrica, para circunferências, perímetro cefálico e altura uterina. O pluviômetro mede a quantidade de chuva, é instrumento de meteorologia e não tem uso no exame físico. Completam o material usual termômetro, oxímetro, lanterna, martelo de reflexos, balança e otoscópio.",
+  "porAlt": [
+   "Errada: o esfigmomanômetro é necessário para medir a pressão arterial.",
+   "Correta: o pluviômetro mede chuva e não serve ao exame físico.",
+   "Errada: o estetoscópio é usado na ausculta cardíaca, pulmonar e abdominal.",
+   "Errada: a fita métrica mede circunferências, perímetro cefálico e altura uterina."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 26,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A técnica de percussão dígito-digital é uma prática clínica consagrada. Considerando os sons nela encontrados, correlacione as colunas, enumerando-as de cima para baixo, e a seguir assinale a alternativa correta. ( 1 )Maciço ( )obtido em regiões que contenham ar, recobertas por membrana flexível, como o estômago. (2 )Submaciço ( )obtido quando se percute especificamente a área dos pulmões. O som depende da presença de ar dentro dos alvéolos e das demais estruturas pulmonares. ( 3 )Timpânico ( )é a presença de ar em pequena quantidade que lhe confere essa característica peculiar. ( 4 ) Claro ( )obtido em regiões que não contem ar pulmonar (músculo, fígado e coração).\nA sequencia correta é:",
+  "alts": [
+   "2,1,3,4.",
+   "4,3,1,2.",
+   "1,2,4,3.",
+   "3,4,2,1."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Porto CC. Semiologia Médica, 8ª ed., 2019 (percussão)",
+  "coment": "Na percussão dígito-digital, o som timpânico aparece sobre vísceras com ar recoberto por membrana flexível, como o estômago e as alças intestinais (3). O som claro pulmonar é o da percussão do tórax normal, que depende do ar nos alvéolos e da estrutura pulmonar (4). O submaciço surge quando há ar em pequena quantidade sob a área percutida (2). O maciço é obtido sobre regiões sem ar, como músculo, fígado e coração (1). A sequência de cima para baixo é 3, 4, 2, 1.",
+  "porAlt": [
+   "Errada: o som do estômago é timpânico (3), e não submaciço (2).",
+   "Errada: o som do estômago é timpânico (3); claro pulmonar é o da área dos pulmões.",
+   "Errada: maciço é o som de regiões sem ar, nunca o do estômago, que é timpânico.",
+   "Correta: timpânico no estômago, claro pulmonar no tórax, submaciço com pouco ar e maciço sem ar."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 27,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando os cuidados durante o procedimento de verificação da pressão arterial, assinale a alternativa incorreta.",
+  "alts": [
+   "A largura do manguito corresponde a 80% da circunferência do braço (de 12 a 14 cm no adulto médio) e o comprimento corresponde a 30% da mesma circunferência.",
+   "A pressão arterial deve ser verificada preferencialmente nos membros superiores, pelo uso de estetoscópio e de um esfigmomanômetro.",
+   "Não ingerir bebidas alcoólicas, café ou alimentos e não fumar 30 minutos antes.",
+   "Posicionar o braço na altura do coração, apoiado, com a palma da mão voltada para cima e cotovelo ligeiramente fletido."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Diretrizes Brasileiras de Hipertensão Arterial 2020 (SBC); Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH e SBN)",
+  "coment": "A alternativa A inverte as proporções do manguito: a bolsa de borracha deve ter largura de cerca de 40% da circunferência do braço e comprimento que envolva pelo menos 80% dela. Manguito estreito superestima a pressão. As demais estão certas: medir de preferência no braço; 30 minutos sem fumar, comer ou ingerir cafeína e álcool; braço apoiado na altura do coração, palma para cima e cotovelo levemente fletido. A diretriz de 2025 prefere o aparelho automático de braço validado, mas a técnica auscultatória com estetoscópio e esfigmomanômetro segue aceita.",
+  "porAlt": [
+   "Correta: é a incorreta, porque a largura é cerca de 40% e o comprimento envolve ao menos 80% da circunferência do braço.",
+   "Errada como resposta: medir nos membros superiores, com esfigmomanômetro e estetoscópio, é técnica aceita.",
+   "Errada como resposta: o preparo inclui 30 minutos sem fumar, comer ou ingerir cafeína e álcool.",
+   "Errada como resposta: braço apoiado na altura do coração, palma para cima e cotovelo fletido é a posição correta."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 28,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando a avaliação da coloração da pele, durante o exame físico, leia as frases e a seguir assinale a alternativa correta.\nI. A cor normal da pele depende principalmente de quatro pigmentos: a melanina, o caroteno, a oxiemoglobina e a desoxiemoglobina.\nII. Quando ocorrem grandes concentrações de oxiemoglobina nos vasos sanguíneos da pele, tornando-a de coloração azulada, há um quadro denominado cianose, podendo ser um sinal que indica má perfusão.\nIII. Para a verificação de icterícia devem ser observadas as escleróticas, as conjuntivas palpebrais, os lábios, o palato duro e embaixo da língua.\nIV. A cianose pode ser avaliada por meio da observação dos lábios, da mucosa bucal e da língua. Além disso, pode ser verificada pelo enchimento capilar das extremidades, apertando a polpa digital e observando o tempo de retorno da circulação nesse local.\nEstão corretas as frases:",
+  "alts": [
+   "Apenas I e II estão corretas.",
+   "Apenas I, III e IV estão corretas.",
+   "Apenas I, II e IV estão corretas.",
+   "Apenas II está correta."
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Bickley LS. Bates: Propedêutica Médica, 12ª ed., 2018 (pele, coloração)",
+  "coment": "A cor da pele depende de quatro pigmentos: melanina, caroteno, oxiemoglobina e desoxiemoglobina (I). A II é falsa: a cianose resulta do aumento da desoxiemoglobina, a hemoglobina reduzida, não da oxiemoglobina, que dá cor avermelhada. A icterícia se procura nas escleras, conjuntivas palpebrais, lábios, palato duro e sob a língua (III). A cianose central se vê em lábios, mucosa oral e língua, e a avaliação das extremidades com o enchimento capilar ajuda a separar a periférica, por má perfusão (IV). A banca aceitou a IV, embora o enchimento capilar avalie perfusão e não meça a cianose em si.",
+  "porAlt": [
+   "Errada: a II é falsa, porque cianose decorre de desoxiemoglobina aumentada, não de oxiemoglobina.",
+   "Correta: I, III e IV estão certas; a cianose vem da desoxiemoglobina, o que torna a II falsa.",
+   "Errada: inclui a II, que atribui a cianose à oxiemoglobina.",
+   "Errada: a II é exatamente a afirmativa falsa da questão."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 29,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Escala de Coma de Glasgow tem sido utilizada para determinar e avaliar a profundidade e a duração do coma e prognosticar a evolução dos pacientes com ou sem trauma cranioencefálico. Para um paciente que não apresenta abertura ocular, que emite apenas sons incompreensíveis ou não apresenta resposta verbal e que não obedece aos comandos verbais, quando aplicada a ECG, apresenta pontuação igual a 8, é indicativo de:",
+  "alts": [
+   "Tronco cerebral e córtex preservados.",
+   "Morte encefálica.",
+   "Coma.",
+   "Sedado, entretanto, com melhores níveis de consciência."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Teasdale G, Jennett B. Lancet, 1974 (Escala de Coma de Glasgow); Brennan PM et al. J Neurosurg, 2018 (ECG-P)",
+  "coment": "A Escala de Coma de Glasgow vai de 3 a 15 e soma abertura ocular, resposta verbal e resposta motora. Pontuação igual ou menor que 8 define coma, ou trauma cranioencefálico grave, e indica proteger a via aérea. O paciente sem abertura ocular e com sons incompreensíveis só chega a 8 se localizar o estímulo doloroso. A escala não diagnostica morte encefálica, que segue protocolo próprio com exames clínicos, teste de apneia e exame complementar (Res. CFM 2.173/2017). Desde 2018 a ECG-P subtrai da soma a reatividade pupilar.",
+  "porAlt": [
+   "Errada: pontuação 8 indica coma, não preservação plena de tronco e córtex.",
+   "Errada: morte encefálica tem protocolo próprio e corresponde a Glasgow 3 com arreflexia, não a 8.",
+   "Correta: Glasgow igual ou menor que 8 indica coma, ou TCE grave, com indicação de proteger a via aérea.",
+   "Errada: a escala avalia o nível de consciência e 8 não representa melhora do sedado."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 30,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante o exame físico do tórax de um paciente adulto, magro, utilizando a técnica de inspeção, pode-se encontrar o ictus cordis (choque de ponta) que corresponde ao ponto mais externo do movimento do coração e que resulta do impacto da ponta do coração a cada sístole ventricular. Normalmente, está localizado no ___________________________. Assinale a alternativa que completa corretamente a lacuna.",
+  "alts": [
+   "Quinto espaço intercostal direito, na linha hemiclavicular.",
+   "Quinto espaço intercostal esquerdo, na linha hemiclavicular.",
+   "Segundo espaço intercostal esquerdo, junto ao esterno.",
+   "Segundo espaço intercostal direito, junto ao esterno."
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto CC. Semiologia Médica, 8ª ed., 2019 (exame do precórdio)",
+  "coment": "O ictus cordis, ou choque de ponta, corresponde ao impacto da ponta do ventrículo esquerdo na parede torácica durante a sístole. No adulto normal fica no quinto espaço intercostal esquerdo, na linha hemiclavicular, e ocupa uma ou duas polpas digitais. Deslocamento para baixo e para a esquerda sugere aumento do ventrículo esquerdo. O segundo espaço intercostal direito junto ao esterno é o foco aórtico, e o segundo esquerdo, o foco pulmonar, pontos de ausculta e não de palpação do ictus.",
+  "porAlt": [
+   "Errada: o ictus fica à esquerda; o lado direito corresponde ao coração em dextrocardia.",
+   "Correta: o ictus normal fica no quinto espaço intercostal esquerdo, na linha hemiclavicular.",
+   "Errada: o segundo espaço intercostal esquerdo junto ao esterno é o foco pulmonar de ausculta.",
+   "Errada: o segundo espaço intercostal direito junto ao esterno é o foco aórtico de ausculta."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando os aspectos relacionados à violência contra a mulher, leia as frases abaixo e a seguir assinale a alternativa correta.\nI. A Lei de combate à violência doméstica e familiar contra a mulher é denominada Lei Maria da Penha.\nII. Entende-se por violência doméstica e familiar contra a mulher qualquer ação ou omissão baseada no gênero que lhe cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial.\nIII. Manter a privacidade e a confidencialidade das informações da cliente, não registrando em prontuário os detalhes da história de violência e do agressor.\nIV. É recomendado referenciar a paciente para os serviços de saúde aptos ao atendimento das vítimas de violência disponíveis na comunidade.\nEstão corretas as frases:",
+  "alts": [
+   "Apenas I, II e IV estão corretas.",
+   "Apenas I, III e IV estão corretas.",
+   "Apenas I e II estão corretas.",
+   "Apenas IV está correta."
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Violência contra a mulher",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 11.340/2006 (Lei Maria da Penha), art. 5º; Lei 10.778/2003 (notificação compulsória)",
+  "coment": "A Lei 11.340/2006, conhecida como Lei Maria da Penha, cria mecanismos para coibir a violência doméstica e familiar contra a mulher (I). O art. 5º define essa violência como qualquer ação ou omissão baseada no gênero que lhe cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial (II). Referenciar a mulher para a rede de atendimento às vítimas é recomendado (IV). A III é falsa: sigilo não significa omitir; a história da violência e os achados devem ser registrados no prontuário, que é documento sigiloso, e a violência é de notificação compulsória (Lei 10.778/2003).",
+  "porAlt": [
+   "Correta: I, II e IV estão certas; a violência deve ser registrada no prontuário e notificada.",
+   "Errada: inclui a III, mas sigilo não significa deixar de registrar a violência no prontuário.",
+   "Errada: deixa de fora a IV, o encaminhamento à rede de atendimento às vítimas.",
+   "Errada: a I e a II também estão certas, pelo nome e pela definição do art. 5º da Lei 11.340/2006."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Dengue é uma doença infecciosa febril aguda, que pode ser de curso benigno ou grave, dependendo da forma como se apresente. Leia as afirmativas abaixo e a seguir assinale a alternativa correta.\nI. Para o diagnóstico da doença é necessária uma boa anamnese, com realização da prova do laço, exame clínico e conﬁrmação laboratorial especíﬁca.\nII. A sorologia é utilizada para detecção de anticorpos antiDengue e deve ser solicitada até o quinto dia do início dos sintomas.\nIII. O Ministério da Saúde disponibilizou para todas as pessoas que moram em área endêmica a vacina contra Dengue, fazendo parte do calendário nacional de vacinação.\nIV. A prova do laço deverá ser realizada obrigatoriamente em todos os casos suspeitos de Dengue, sendo considerada positiva quando houver 20 ou mais petéquias em adultos e 10 ou mais petéquias em crianças.\nEstão corretas as frases:",
+  "alts": [
+   "Apenas II e III estão corretas.",
+   "Apenas I, II, III e IV estão corretas.",
+   "Apenas I e IV estão corretas.",
+   "Apenas I está correta."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed. (Ministério da Saúde, 2024); Instrução Normativa do Calendário Nacional de Vacinação 2026",
+  "coment": "O manual do Ministério da Saúde descreve o diagnóstico com anamnese, prova do laço, exame clínico e confirmação laboratorial específica, mesmo que em epidemia o caso possa ser encerrado por critério clínico-epidemiológico (I). A prova do laço é feita em todo suspeito sem sangramento espontâneo: manguito na pressão média por 5 minutos no adulto e 3 na criança, positiva com 20 ou mais petéquias no adulto e 10 ou mais na criança (IV). A sorologia IgM se pede a partir do sexto dia, não até o quinto (II, falsa). A vacina entrou no calendário só para 10 a 14 anos, não para todos os moradores de área endêmica (III, falsa).",
+  "porAlt": [
+   "Errada: a sorologia se pede a partir do sexto dia e a vacina não alcança todos os moradores de área endêmica.",
+   "Errada: a II e a III são falsas, pelo momento da sorologia e pelo público da vacina.",
+   "Correta: I e IV estão certas; a prova do laço é obrigatória no suspeito sem sangramento, com 20 e 10 petéquias como corte.",
+   "Errada: a IV também está correta, pela indicação e pelos pontos de corte da prova do laço."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando a Doença Meningocócica, assinale a alternativa correta.",
+  "alts": [
+   "O Ministério da Saúde disponibiliza para todas as crianças menores de 5 anos a vacina contra Meningite dos tipos A, B e C, fazendo parte do calendário nacional de vacinação.",
+   "A transmissão ocorre enquanto houver o agente na nasofaringe. Em geral, após 96 horas de antibioticoterapia, o meningococo já desapareceu da orofaringe.",
+   "É recomendada a adoção de Precaução para transmissão de aerossóis.",
+   "É uma doença de notificação compulsória e investigação imediata."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 11.211/2026 (Lista Nacional de Notificação Compulsória); Guia de Vigilância em Saúde, 6ª ed. revisada (Ministério da Saúde, 2024)",
+  "coment": "Doença meningocócica e outras meningites são de notificação compulsória imediata, em até 24 horas, para a secretaria municipal e a estadual, e a investigação começa logo, porque os contatos íntimos precisam de quimioprofilaxia. A transmissão é por gotículas e secreções da nasofaringe, e o paciente fica em precaução para gotículas até completar 24 horas de antibiótico eficaz, prazo em que o meningococo em geral já desapareceu da orofaringe, e não 96 horas. O calendário de 2026 tem meningocócica C aos 3 e 5 meses e ACWY no reforço dos 12 meses; a meningocócica B não está no calendário do SUS.",
+  "porAlt": [
+   "Errada: o calendário oferece meningocócica C e ACWY; a vacina contra o meningococo B não faz parte do SUS.",
+   "Errada: em geral, após 24 horas de antibiótico eficaz o meningococo já desapareceu da orofaringe.",
+   "Errada: a doença meningocócica exige precaução para gotículas, não para aerossóis.",
+   "Correta: é de notificação compulsória imediata, em até 24 horas, com investigação imediata."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A hanseníase é uma doença crônica, causada pelo Mycobacterium leprae. Assinale a alternativa correta.",
+  "alts": [
+   "A eliminação dos bacilos dos pacientes multibacilares (virchowianos e dimorfos) ocorre principalmente por meio do contato com as secreções das lesões.",
+   "O bacilo Mycobacterium leprae tem a capacidade de infectar grande número de indivíduos (alta infectividade), no entanto poucos adoecem (baixa patogenicidade).",
+   "É recomendada a adoção de Precaução para transmissão de gotículas.",
+   "A baciloscopia de pele (esfregaço intradérmico) deve ser utilizada como principal exame para diagnóstico da doença."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Protocolo Clínico e Diretrizes Terapêuticas da Hanseníase, Portaria SCTIE/MS 67/2022",
+  "coment": "O Mycobacterium leprae tem alta infectividade e baixa patogenicidade: infecta muitas pessoas, mas poucas adoecem, o que depende da resposta imune. A eliminação dos bacilos dos multibacilares não tratados se dá pelas vias aéreas superiores, no convívio prolongado, e não pelas secreções das lesões de pele. O paciente em ambiente hospitalar fica em precaução padrão, e a transmissão cessa logo após o início da poliquimioterapia. O diagnóstico é essencialmente clínico e epidemiológico, pelo exame dermatoneurológico; a baciloscopia é complementar e negativa não afasta a doença.",
+  "porAlt": [
+   "Errada: a eliminação dos bacilos ocorre pelas vias aéreas superiores, não pelas secreções das lesões.",
+   "Correta: o M. leprae tem alta infectividade e baixa patogenicidade.",
+   "Errada: a hanseníase não exige precaução para gotículas; basta a precaução padrão.",
+   "Errada: o diagnóstico é clínico e epidemiológico; a baciloscopia é exame complementar."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Lei nº 12.401 de 2011 criou a (o)_______________, que tem por objetivo assessorar o Ministério nas atribuições relativas à incorporação, exclusão ou alteração pelo SUS de tecnologias em saúde. Assinale a alternativa que completa corretamente a lacuna.",
+  "alts": [
+   "RENAME (Relação Nacional de Medicamentos Essenciais).",
+   "DGITS (Departamento de Gestão e Incorporação de Tecnologias em Saúde).",
+   "CONITEC (Comissão Nacional de Incorporação de Tecnologias no SUS).",
+   "CONASS (Conselho Nacional de Secretários de Saúde)."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 12.401/2011, que incluiu os arts. 19-M a 19-U na Lei 8.080/1990 (art. 19-Q)",
+  "coment": "A Lei 12.401/2011 alterou a Lei 8.080/1990 para tratar da assistência terapêutica e da incorporação de tecnologias. O art. 19-Q atribui ao Ministério da Saúde, assessorado pela Comissão Nacional de Incorporação de Tecnologias no SUS (CONITEC), a incorporação, exclusão ou alteração de medicamentos, produtos e procedimentos e a constituição ou alteração de protocolos clínicos. A RENAME é a lista de medicamentos que a CONITEC ajuda a atualizar, o DGITS é o departamento do Ministério que funciona como secretaria executiva da comissão, e o CONASS reúne os secretários estaduais.",
+  "porAlt": [
+   "Errada: a RENAME é a relação de medicamentos, não o órgão que assessora a incorporação.",
+   "Errada: o DGITS é o departamento que dá suporte executivo à CONITEC, mas não foi o criado pela lei com essa função.",
+   "Correta: a Lei 12.401/2011 criou a CONITEC para assessorar o Ministério na incorporação de tecnologias.",
+   "Errada: o CONASS reúne os secretários estaduais de saúde e não assessora a incorporação de tecnologias."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 38,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com a Resolução (RDC) nº 36, de 25 de julho de 2013, que institui ações para a segurança do paciente em serviços de saúde, assinale a alternativa incorreta.",
+  "alts": [
+   "Uma das competências do NSP é notificar ao Sistema Nacional de Vigilância Sanitária os eventos adversos decorrentes da prestação do serviço de saúde.",
+   "A direção do serviço de saúde deve constituir o Núcleo de Segurança do Paciente (NSP) e nomear a sua composição, conferindo aos membros autoridade, responsabilidade e poder para executar as ações do Plano de Segurança do Paciente em Serviços de Saúde.",
+   "Um dos princípios e diretrizes que o NSP deve adotar é a melhoria contínua dos processos de cuidado e do uso de tecnologias da saúde.",
+   "O monitoramento dos incidentes e eventos adversos deve ser realizado pelo Núcleo de Segurança do Paciente (NSP). A notificação dos eventos adversos à Agência Nacional de Vigilância Sanitária (ANVISA) deve ser realizada pelo NSP em até 30 dias a partir do ocorrido. Já os eventos adversos que evoluírem para óbito deverão ser notificados em até 7 dias a partir do ocorrido."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, arts. 4º, 5º, 7º e 10",
+  "coment": "Pela RDC 36/2013, os eventos adversos são notificados ao Sistema Nacional de Vigilância Sanitária pelo NSP mensalmente, até o 15º dia útil do mês seguinte ao da vigilância, e os que evoluem para óbito em até 72 horas a partir do ocorrido (art. 10). Os prazos de 30 e 7 dias tornam a D incorreta. As demais estão certas: notificar os eventos adversos é competência do NSP (art. 7º); a direção constitui o núcleo e confere aos membros autoridade e poder para executar o plano (art. 4º); a melhoria contínua dos processos e do uso de tecnologias é princípio do NSP (art. 5º).",
+  "porAlt": [
+   "Errada como resposta: notificar ao SNVS os eventos adversos é competência do NSP (art. 7º).",
+   "Errada como resposta: a direção constitui o NSP e lhe confere autoridade, responsabilidade e poder (art. 4º).",
+   "Errada como resposta: melhoria contínua dos processos de cuidado e das tecnologias é princípio do NSP (art. 5º).",
+   "Correta: é a incorreta, porque a notificação é mensal até o 15º dia útil e o óbito em até 72 horas."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando a Política Nacional de Humanização, é uma das diretrizes específicas da atenção básica:",
+  "alts": [
+   "Acolher a demanda por meio de critérios de avaliação de risco, garantindo o acesso referenciado aos demais níveis de assistência.",
+   "Estabelecer forma de acolhimento e inclusão do usuário que promovam a otimização dos serviços, finalização das filas, a hierarquização de riscos e o acesso aos demais níveis do sistema.",
+   "Existência de Grupos de Trabalho de Humanização (GTH) com plano de trabalho pré-deﬁnido.",
+   "Ouvidoria em funcionamento."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "HumanizaSUS: documento base para gestores e trabalhadores do SUS, 4ª ed. (Ministério da Saúde, 2008)",
+  "coment": "O documento base da PNH separa diretrizes por nível de atenção. Na atenção básica, uma delas é estabelecer formas de acolhimento e inclusão do usuário que otimizem os serviços, acabem com as filas, hierarquizem riscos e garantam o acesso aos demais níveis do sistema. Acolher a demanda com avaliação de risco, garantindo acesso referenciado, é diretriz da urgência e emergência. Grupos de Trabalho de Humanização com plano definido e ouvidoria em funcionamento são parâmetros da atenção hospitalar.",
+  "porAlt": [
+   "Errada: acolher a demanda com critérios de avaliação de risco é diretriz da urgência e emergência.",
+   "Correta: acolhimento que otimiza serviços, acaba com filas, hierarquiza riscos e dá acesso aos demais níveis é da atenção básica.",
+   "Errada: GTH com plano de trabalho definido é parâmetro da atenção hospitalar na PNH.",
+   "Errada: ouvidoria em funcionamento é parâmetro da atenção hospitalar na PNH."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 40,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A implementação da Política Nacional de Humanização (PNH) pressupõe a atuação em vários eixos que objetivam a institucionalização, a difusão dessa estratégia e, principalmente, a apropriação de seus resultados pela sociedade. No eixo da gestão do trabalho, propõe-se:",
+  "alts": [
+   "A integração de recursos vinculados a programas específicos de humanização e outros recursos de subsídios à atenção, unificando-os e repassando-os fundo a fundo mediante adesão e compromisso dos gestores.",
+   "Por meio de ação de mídia e discurso social amplo – sua inclusão no debate da saúde, visando à ampliação do domínio social sobre a PNH.",
+   "A promoção de ações que assegurem a participação dos trabalhadores nos processos de discussão e decisão, reconhecendo, fortalecendo e valorizando seu compromisso com o processo de produção de saúde e seu crescimento proﬁssional.",
+   "A composição do conteúdo profissionalizante na graduação e pós-graduação e na extensão em saúde, com vinculação aos pólos de educação permanente."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "HumanizaSUS: documento base para gestores e trabalhadores do SUS, 4ª ed. (Ministério da Saúde, 2008)",
+  "coment": "A PNH se implanta por eixos. No eixo da gestão do trabalho, propõe ações que assegurem a participação dos trabalhadores nos processos de discussão e decisão, valorizando seu compromisso com a produção de saúde e seu crescimento profissional, o que dialoga com a diretriz de cogestão. A integração de recursos repassados fundo a fundo pertence ao eixo do financiamento; a ação de mídia e discurso social amplo, ao eixo da informação e comunicação; o conteúdo profissionalizante na graduação e pós-graduação, vinculado à educação permanente, ao eixo da educação permanente.",
+  "porAlt": [
+   "Errada: integrar recursos e repassá-los fundo a fundo é proposta do eixo do financiamento.",
+   "Errada: ação de mídia e discurso social amplo é do eixo da informação e comunicação.",
+   "Correta: assegurar a participação dos trabalhadores nas discussões e decisões é o eixo da gestão do trabalho.",
+   "Errada: conteúdo profissionalizante na graduação e pós-graduação é do eixo da educação permanente."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 41,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "São princípios do Sistema Único de Saúde (SUS):",
+  "alts": [
+   "Centralização político-administrativa, com direção única em cada esfera de governo, enfatizando a centralização dos serviços para os municípios.",
+   "Universalidade de acesso aos serviços de saúde exclusivamente nos níveis de atenção primária.",
+   "Assistência à saúde para cidadãos preferencialmente aos pretos, pardos e indígenas.",
+   "Capacidade de resolução dos serviços em todos os níveis de assistência."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º",
+  "coment": "O art. 7º da Lei 8.080/1990 lista os princípios do SUS, e o inciso XII é a capacidade de resolução dos serviços em todos os níveis de assistência. As outras alternativas deformam princípios do mesmo artigo: a descentralização político-administrativa, com direção única em cada esfera e ênfase na descentralização para os municípios (IX), vira centralização; a universalidade de acesso vale em todos os níveis de assistência (I), não só na atenção primária; e a igualdade da assistência, sem preconceitos ou privilégios de qualquer espécie (IV), é trocada por preferência racial.",
+  "porAlt": [
+   "Errada: o princípio é a descentralização político-administrativa, com ênfase na municipalização.",
+   "Errada: a universalidade de acesso vale para todos os níveis de assistência.",
+   "Errada: o princípio é a igualdade da assistência, sem preconceitos ou privilégios de qualquer espécie.",
+   "Correta: capacidade de resolução dos serviços em todos os níveis é o inciso XII do art. 7º."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 42,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Considerando os princípios doutrinários do SUS, assegurar ações e serviços de todos os níveis de acordo com a complexidade que cada caso requeira, more o cidadão onde morar, sem privilégios e sem barreiras corresponde:",
+  "alts": [
+   "Equidade.",
+   "Universalidade.",
+   "Integralidade.",
+   "Resolubilidade."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "ABC do SUS: doutrinas e princípios (Ministério da Saúde, 1990)",
+  "coment": "O enunciado copia a definição de equidade da cartilha ABC do SUS, do Ministério da Saúde, de 1990: assegurar ações e serviços de todos os níveis de acordo com a complexidade que cada caso requeira, more o cidadão onde morar, sem privilégios e sem barreiras. A ideia central é dar a cada um o que sua necessidade exige, tratando desigualmente os desiguais. Integralidade, na mesma cartilha, é ver a pessoa como um todo e articular promoção, proteção e recuperação; universalidade é o acesso garantido a todos; resolubilidade é a capacidade de resolver o problema até o nível de competência do serviço.",
+  "porAlt": [
+   "Correta: é a definição de equidade da cartilha ABC do SUS, de 1990, conforme a complexidade de cada caso.",
+   "Errada: universalidade é a garantia de acesso a todos, sem relação com a complexidade de cada caso.",
+   "Errada: na cartilha, integralidade é ver a pessoa como um todo e articular promoção, proteção e recuperação.",
+   "Errada: resolubilidade é a capacidade de o serviço resolver o problema até seu nível de competência."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 43,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com a Lei nº 8.142, de 28 de dezembro de 1990, uma das instâncias colegiadas que o Sistema Único de Saúde (SUS) contará em cada esfera de governo é:",
+  "alts": [
+   "Comissão de Segurança.",
+   "Conselho Fiscal.",
+   "Conferência de Saúde.",
+   "Comissão de Previdência Social."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 1º",
+  "coment": "O art. 1º da Lei 8.142/1990 diz que o SUS contará, em cada esfera de governo, sem prejuízo das funções do Poder Legislativo, com duas instâncias colegiadas: a Conferência de Saúde e o Conselho de Saúde. A Conferência se reúne a cada quatro anos, com representação dos vários segmentos sociais, para avaliar a situação de saúde e propor diretrizes; o Conselho é permanente e deliberativo. A representação dos usuários é paritária em relação ao conjunto dos demais segmentos. Comissão de Segurança, Conselho Fiscal e Comissão de Previdência não são instâncias colegiadas do SUS.",
+  "porAlt": [
+   "Errada: Comissão de Segurança não está entre as instâncias colegiadas da Lei 8.142/1990.",
+   "Errada: Conselho Fiscal não é instância do SUS; a lei prevê o Conselho de Saúde.",
+   "Correta: a Conferência de Saúde é uma das duas instâncias colegiadas do art. 1º da Lei 8.142/1990.",
+   "Errada: Comissão de Previdência Social não é instância colegiada do SUS."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 44,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "De acordo com a lei 8.080/90, o Sistema Único de Saúde (SUS) atuará na:",
+  "alts": [
+   "Formulação da política de medicamentos, com exceção de equipamentos e outros insumos de interesse para a saúde e a participação na sua produção.",
+   "Execução da participação na formulação da política e na execução de ações de saneamento básico.",
+   "Execução da fiscalização e a inspeção de alimentos, excluído apenas água e bebidas para consumo humano, que é de atribuição das companhias de saneamento básico dos estados e municípios.",
+   "Formulação e execução da política de sangue e seus derivados, inclusive para sua exportação junto aos países da América Latina e América Central."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 6º",
+  "coment": "O art. 6º da Lei 8.080/1990 inclui no campo de atuação do SUS a participação na formulação da política e na execução de ações de saneamento básico (inciso II), o que a alternativa B traz, com a redação truncada da banca. As outras deformam incisos do mesmo artigo: a política de medicamentos abrange equipamentos, imunobiológicos e outros insumos e a participação na sua produção (VI); a fiscalização e inspeção de alimentos inclui água e bebidas para consumo humano (VIII); e a política de sangue e derivados é formulada e executada pelo SUS (XI), sem previsão de exportação.",
+  "porAlt": [
+   "Errada: a política de medicamentos inclui equipamentos e outros insumos, e o SUS participa da sua produção.",
+   "Correta: participar da formulação da política e da execução de ações de saneamento básico é o inciso II do art. 6º.",
+   "Errada: a fiscalização e inspeção de alimentos pelo SUS inclui água e bebidas para consumo humano.",
+   "Errada: a lei atribui ao SUS a política de sangue e derivados, sem prever exportação."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 45,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A divulgação de informações quanto ao potencial dos serviços de saúde e a sua utilização pelo usuário e a conjugação dos recursos financeiros, tecnológicos, materiais e humanos da União, dos Estados, do Distrito Federal e dos Municípios na prestação de serviços de assistência à saúde da população são desenvolvidos de acordo com os princípios e diretrizes contidos na Lei do Sistema Único de Saúde, sendo correto afirmar que:",
+  "alts": [
+   "Estão contidas na Constituição Federal, que é a lei magna do país e portanto devem ser seguidos pelos estados e municípios que são integrantes do Sistema Único de Saúde, incluindo a União.",
+   "Estão contidas na Constituição Federal, que é a lei magna do país e portanto devem ser seguidos pelos estados e municípios que são integrantes do Sistema Único de Saúde, incluindo o Distrito Federal.",
+   "São obrigatórias, porque trata-se de preceito contido na legislação que não pode ser interpretado ou utilizado de forma restritiva ou que exclua qualquer obrigação das ações e serviços públicos de saúde e os serviços privados contratados ou conveniados que integram o Sistema Único de Saúde (SUS).",
+   "Estão contidas na Constituição Federal, que é a lei magna do país e portanto devem ser seguidos pelos exclusivamente pelos municípios que são integrantes do Sistema Único de Saúde, excetuando os estados, já que possuem atribuição própria."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 7º, caput e incisos VI e XI",
+  "coment": "A divulgação de informações sobre o potencial dos serviços e sua utilização pelo usuário (inciso VI) e a conjugação dos recursos financeiros, tecnológicos, materiais e humanos dos entes (inciso XI) são princípios do art. 7º da Lei 8.080/1990, não da Constituição. O caput diz que as ações e serviços públicos e os serviços privados contratados ou conveniados que integram o SUS obedecem a esses princípios, o que os torna obrigatórios para todos, como afirma a alternativa C. A, B e D erram a fonte e a abrangência: os princípios valem para União, estados, Distrito Federal e municípios, inclusive para os serviços privados conveniados.",
+  "porAlt": [
+   "Errada: esses princípios estão na Lei 8.080/1990, art. 7º, e não na Constituição.",
+   "Errada: a fonte é a Lei 8.080/1990, e não a Constituição Federal.",
+   "Correta: o caput do art. 7º obriga os serviços públicos e os privados contratados ou conveniados a seguir esses princípios.",
+   "Errada: os princípios valem para todos os entes, inclusive os estados, e estão na Lei 8.080/1990."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 46,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A sondagem vesical consiste na introdução de um cateter estéril através da uretra até a bexiga, sendo um procedimento invasivo e que envolve riscos ao paciente. Analise as afirmativas abaixo, dê valores Verdadeiro (V) ou Falso (F) e assinale a alternativa que apresenta a sequencia correta de cima para baixo.\n( ) Deve-se utilizar técnica asséptica durante o procedimento com a finalidade de evitar infecção urinária no paciente.\n( ) No âmbito da equipe de Enfermagem, a inserção de cateter vesical é privativa do Enfermeiro.\n( ) Ao Técnico de Enfermagem compete a monitoração e registro das queixas do paciente, das condições do sistema de drenagem e do débito urinário, sob supervisão e orientação do Enfermeiro.\n( ) Não é permitido ao Técnico de Enfermagem realizar o manuseio do sistema de drenagem, coleta de urina para exames e monitoração do balanço hídrico – ingestão e eliminação de líquidos, mesmo que sob supervisão e orientação do Enfermeiro.",
+  "alts": [
+   "V,V,V,V.",
+   "V,F,F,V.",
+   "F,F,V,V.",
+   "V,V,V,F."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 450/2013 e Parecer Normativo anexo; Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4 (ANVISA, 2017)",
+  "coment": "O cateterismo vesical é feito com técnica asséptica para prevenir infecção do trato urinário associada a cateter (V). Pela Res. COFEN 450/2013, na equipe de enfermagem a inserção do cateter vesical é privativa do enfermeiro, pela complexidade e pelo risco (V). Ao técnico cabem, sob supervisão e orientação do enfermeiro, a monitoração e o registro das queixas, das condições do sistema de drenagem e do débito urinário (V), e também o manuseio do sistema com técnica limpa, a coleta de urina para exames e a monitoração do balanço hídrico, o que torna a quarta falsa.",
+  "porAlt": [
+   "Errada: a quarta é falsa, porque o técnico pode manusear o sistema, coletar urina e monitorar o balanço hídrico.",
+   "Errada: a inserção é privativa do enfermeiro e o técnico monitora e registra, então a segunda e a terceira são verdadeiras.",
+   "Errada: a técnica asséptica e a inserção privativa do enfermeiro tornam verdadeiras as duas primeiras.",
+   "Correta: as três primeiras são verdadeiras e a quarta é falsa, pois o técnico manuseia o sistema sob supervisão."
+  ],
+  "fonte": {
+   "banca": "IBFC",
+   "ano": 2014,
+   "prova": "Concurso Hospital Estadual de Presidente Prudente (SES-SP) 2014, Enfermeiro",
+   "n": 50,
+   "parte": "especificas"
+  }
+ }
+]

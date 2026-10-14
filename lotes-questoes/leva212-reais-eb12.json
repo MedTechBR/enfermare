@@ -1,0 +1,1474 @@
+[
+ {
+  "q": "A prescrição do exercício resistido tem sido de fundamental importância para a manutenção da aptidão funcional e a vida ativa do idoso. Analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F) para os tipos de exercícios resistidos.\n( ) Exercícios com uso de pesos\n( ) Exercícios com uso de elásticos\n( ) Calistenia\n( ) Aeróbicos\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "V - V - V - F",
+   "V - V - F - F",
+   "F - F - V - V",
+   "F - V - V - F"
+  ],
+  "gab": 1,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Guia de Atividade Física para a População Brasileira (Ministério da Saúde, 2021), capítulo da pessoa idosa",
+  "coment": "Exercício resistido, ou de fortalecimento muscular, é aquele em que o músculo trabalha contra uma resistência externa ou contra o próprio peso do corpo. Por isso entram os pesos (halteres, caneleiras, aparelhos), os elásticos e faixas e a calistenia, que usa o peso corporal (agachar e levantar da cadeira, flexão na parede). Os exercícios aeróbicos, como caminhada, dança e hidroginástica, formam outra categoria, voltada à capacidade cardiorrespiratória. O Guia de Atividade Física do Ministério da Saúde (2021) recomenda ao idoso combinar as duas coisas, com fortalecimento em alguns dias da semana. Sequência V, V, V, F.",
+  "porAlt": [
+   "Errada: aeróbico não é exercício resistido; caminhada e dança treinam o sistema cardiorrespiratório, não a força contra resistência.",
+   "Correta: pesos, elásticos e calistenia impõem resistência ao músculo; o aeróbico pertence a outra categoria de exercício.",
+   "Errada: a calistenia é exercício resistido, porque usa o peso do próprio corpo como carga.",
+   "Errada: pesos e elásticos são as formas clássicas de resistência externa, e o aeróbico não é resistido.",
+   "Errada: exercício com pesos é o exemplo típico de treino resistido, e o aeróbico não entra no grupo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As pessoas idosas são alvos de complicações causadas pela gripe, por isso é recomendado vacina-los contra influenza. Assinale a alternativa correta do intervalo da vacina contra influenza nos idosos.",
+  "alts": [
+   "duas doses com intervalo de um mês anualmente",
+   "uma dose anualmente",
+   "uma dose semestralmente",
+   "uma dose trimestralmente",
+   "uma dose a cada dois anos"
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), vacina influenza trivalente",
+  "coment": "Pela Instrução Normativa do Calendário Nacional de Vacinação 2026, o idoso a partir de 60 anos recebe 1 dose anual da vacina influenza trivalente a cada temporada. A composição muda todo ano conforme as cepas recomendadas pela OMS, e a proteção cai ao longo dos meses, por isso a dose é anual. O esquema de 2 doses com intervalo de 30 dias vale só para a criança de 6 meses a menores de 6 anos na primeira vez que é vacinada. Não existe esquema semestral, trimestral ou bienal de influenza no calendário.",
+  "porAlt": [
+   "Errada: duas doses com 30 dias de intervalo é a primovacinação da criança de 6 meses a 5 anos, não o esquema do idoso.",
+   "Correta: a IN do Calendário 2026 indica ao idoso a partir de 60 anos 1 dose anual a cada temporada.",
+   "Errada: o calendário não prevê dose semestral de influenza; a vacina é anual, ajustada às cepas da temporada.",
+   "Errada: não há esquema trimestral; a dose é única por ano.",
+   "Errada: dose a cada dois anos deixaria o idoso sem a cepa atualizada; a recomendação é anual."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Analise as afirmativas sobre acessibilidade espacial para a melhoria ou manutenção da qualidade de vida do idoso.\nI. Ter sensor de presença de luz no quarto evita que o morador idoso ande no escuro à noite.\nII. Telefone na cabeceira da cama, o que permite fácil comunicação em caso de emergência.\nIII. Sala livre de obstáculos; a mesa de centro vai para a lateral.\nIV. Instalação de barras de apoio fixas no boxe, ao lado da bacia sanitária.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I e II apenas",
+   "I e II e III apenas",
+   "II e III e IV apenas",
+   "I, II, III e IV",
+   "IV apenas"
+  ],
+  "gab": 3,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 19, Envelhecimento e saúde da pessoa idosa (Ministério da Saúde, 2006); World Falls Guidelines 2022",
+  "coment": "As quatro afirmativas descrevem adaptações do domicílio que reduzem quedas e preservam a autonomia do idoso. A luz com sensor de presença evita andar no escuro na ida noturna ao banheiro, momento de maior risco. O telefone na cabeceira garante pedido de ajuda rápido se houver queda ou mal-estar. Sala sem obstáculos, com a mesa de centro afastada, libera a circulação. Barras de apoio fixas no boxe e junto à bacia sanitária dão apoio nas transferências. O Caderno de Atenção Básica nº 19 e a World Falls Guidelines 2022 incluem a adaptação do ambiente na prevenção multifatorial de quedas.",
+  "porAlt": [
+   "Errada: omite III e IV, que também são medidas de acessibilidade corretas.",
+   "Errada: deixa de fora as barras de apoio fixas no boxe e ao lado do vaso, medida clássica.",
+   "Errada: o sensor de luz no quarto também é adequado e foi excluído.",
+   "Correta: iluminação noturna, telefone acessível, circulação livre e barras de apoio são todas medidas válidas.",
+   "Errada: as barras de apoio estão certas, mas I, II e III também estão."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia a sentença abaixo Sabe-se que idosos com ______e______ elevados não só têm alto risco cardiovascular como maior prevalência de diversas doenças relacionadas à idade, perda de autonomia e redução da expectativa de vida. Assinale a alternativa que preencha correta e respectivamente as lacunas.",
+  "alts": [
+   "pressão arterial sistólica e pressão do pulso",
+   "pressão arterial sistêmica e pressão do pulso",
+   "pressão arterial diastólica e pressão do pulso",
+   "pressão arterial sistólica e pressão arterial diastólica",
+   "frequência cardíaca e frequência respiratória"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH, SBN), hipertensão no idoso",
+  "coment": "Com o envelhecimento, as grandes artérias perdem elasticidade. A rigidez arterial eleva a pressão sistólica e tende a manter ou reduzir a diastólica, o que alarga a pressão de pulso (sistólica menos diastólica). Por isso a hipertensão sistólica isolada é a forma mais comum no idoso, e tanto a pressão sistólica quanto a pressão de pulso elevadas se associam a maior risco cardiovascular, doenças ligadas à idade e perda de autonomia. A diastólica elevada é marcador mais típico do adulto jovem. A Diretriz Brasileira de Hipertensão Arterial 2025 mantém a atenção à sistólica e à rigidez arterial no idoso.",
+  "porAlt": [
+   "Correta: a rigidez arterial do envelhecimento eleva a sistólica e alarga a pressão de pulso, ambas marcadoras de risco no idoso.",
+   "Errada: pressão arterial sistêmica é termo genérico; o marcador específico do idoso é a sistólica.",
+   "Errada: no idoso a diastólica tende a cair com a rigidez arterial; o que sobe é a sistólica.",
+   "Errada: a diastólica elevada é marcador do adulto jovem; o par do idoso é sistólica e pressão de pulso.",
+   "Errada: frequência cardíaca e respiratória não são o parâmetro de risco descrito para o idoso hipertenso."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Mini Exame do Estado Mental (MEEM) é uma das escalas mais comuns para avaliar:",
+  "alts": [
+   "estado neurológico",
+   "estado de alerta",
+   "estado da memória",
+   "estado auditivo",
+   "estado cognitivo"
+  ],
+  "gab": 4,
+  "tema": "idoso",
+  "sub": "Demências e delirium",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 19, Envelhecimento e saúde da pessoa idosa (Ministério da Saúde, 2006); Brucki et al., 2003",
+  "coment": "O Miniexame do Estado Mental (MEEM) é um teste de rastreio cognitivo, pontuado de 0 a 30. Avalia vários domínios: orientação temporal e espacial, memória imediata e de evocação, atenção e cálculo, linguagem e capacidade construtiva visual. Por isso a resposta é estado cognitivo, e não apenas memória. O resultado depende muito da escolaridade: no Brasil se usam as medianas de Brucki (2003), por exemplo 20 para analfabetos e 29 para 12 anos ou mais de estudo. O MEEM rastreia e não fecha diagnóstico de demência. O Caderno de Atenção Básica nº 19 o inclui na avaliação multidimensional do idoso.",
+  "porAlt": [
+   "Errada: o MEEM não faz exame neurológico (força, reflexos, pares cranianos); avalia funções cognitivas.",
+   "Errada: o nível de alerta se avalia pela observação e por escalas de consciência, não pelo MEEM.",
+   "Errada: a memória é só um dos domínios; o teste avalia também orientação, atenção, cálculo e linguagem.",
+   "Errada: o MEEM não avalia a audição, embora o déficit auditivo possa atrapalhar a aplicação.",
+   "Correta: o MEEM rastreia o estado cognitivo global, em vários domínios, com pontuação de 0 a 30."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando à possibilidade de exposição acidental aos agentes biológicos a Norma Regulmentadora (NR) 32 descreve algumas medidas de proteção. Analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) As medidas de proteção devem ser adotadas a partir do resultado da avaliação de riscos ocupacionais, previstos na etapa de identificação dos perigos contidos no Atestado de Saúde Ocupacional (ASO).\n( ) Os quartos ou enfermarias destinados ao isolamento de pacientes portadores de doenças infecto-contagiosas devem conter lavatório em seu exterior.\n( ) O uso de luvas não substitui o processo de lavagem das mãos, o que deve ocorrer, no mínimo, antes e depois do uso das mesmas.\n( ) Os trabalhadores com feridas ou lesões nos membros inferiores só podem iniciar suas atividades após avaliação médica obrigatória com emissão de documento de liberação para o trabalho.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "F - V - V - V",
+   "F - F - V - V",
+   "F - F - V - F",
+   "V - V - V - V",
+   "V - V - V - F"
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR 32 (Portaria MTE 485/2005, alterada pela Portaria MTP 806/2022), itens 32.2.4.1, 32.2.4.3.1, 32.2.4.3.2 e 32.2.4.4",
+  "coment": "A NR 32 manda adotar as medidas de proteção a partir da avaliação de riscos prevista no programa de gerenciamento de riscos (antes PPRA, hoje PGR da NR 1), e não no ASO, que é o atestado de aptidão do exame médico: item 1 falso. O quarto de isolamento de doença infectocontagiosa deve ter lavatório em seu interior (32.2.4.3.1): item 2 falso. O uso de luvas não substitui a lavagem das mãos, feita no mínimo antes e depois do uso (32.2.4.3.2): item 3 verdadeiro. A avaliação médica com documento de liberação é exigida para feridas ou lesões nos membros superiores (32.2.4.4): item 4 falso. Sequência F, F, V, F.",
+  "porAlt": [
+   "Errada: o lavatório do isolamento fica no interior do quarto e a liberação médica é para lesão nos membros superiores.",
+   "Errada: o item 4 é falso, porque a NR 32 fala em membros superiores, não inferiores.",
+   "Correta: só o item das luvas é verdadeiro; ASO, lavatório externo e membros inferiores tornam os outros falsos.",
+   "Errada: o ASO não é o documento de identificação de perigos, e o lavatório deve ficar dentro do quarto.",
+   "Errada: as medidas partem da avaliação de riscos do programa de gerenciamento, não do ASO, e o lavatório é interno."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando as relações com pessoas, família e coletividade descritas no código de ética dos profissionais da enfermagem. Assinale a alternativa que apresenta as responsabilidades e deveres.",
+  "alts": [
+   "Assegurar à pessoa, família e coletividade assistência de enfermagem perante os danos causados devido à competência técnica e científica inadequada",
+   "Prestar assistência de enfermagem identificando e discriminando qualquer natureza",
+   "Respeitar o pudor, a privacidade e a intimidade do ser humano, em todo seu ciclo vital, inclusive nas situações de morte e pós-morte",
+   "Disponibilizar seus serviços profissionais à comunidade em casos de emergência, epidemia e catástrofe, consentindo adquirir benefícios pela conduta",
+   "Registrar no prontuário do paciente somente informações inerentes aos atendimentos e urgência e emergência"
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética dos Profissionais de Enfermagem), capítulo dos deveres, arts. 36, 41 e 45",
+  "coment": "O Código de Ética (Res. COFEN 564/2017) lista entre os deveres respeitar o pudor, a privacidade e a intimidade do ser humano em todo o seu ciclo vital, inclusive nas situações de morte e pós-morte; a alternativa C reproduz esse texto. As demais deformam deveres do mesmo capítulo: o art. 45 manda prestar assistência livre de danos por imperícia, negligência ou imprudência; o art. 41, assistência sem discriminação de qualquer natureza; outro dever manda disponibilizar os serviços em emergência, epidemia e catástrofe sem pleitear vantagens pessoais; e o art. 36 manda registrar no prontuário, de forma clara e completa, as informações do processo de cuidar em qualquer atendimento.",
+  "porAlt": [
+   "Errada: o dever é assistência livre de danos por imperícia, negligência ou imprudência, não assistência perante danos por incompetência.",
+   "Errada: o art. 41 manda prestar assistência sem discriminação de qualquer natureza, o oposto do texto.",
+   "Correta: reproduz o dever de respeitar pudor, privacidade e intimidade, inclusive na morte e no pós-morte.",
+   "Errada: o serviço em emergência, epidemia e catástrofe é prestado sem pleitear vantagens pessoais.",
+   "Errada: o registro no prontuário vale para todo o processo de cuidar, não só para urgência e emergência."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Alguns tipos de neoplasias estão relacionados ao trabalho, pois entre seus elementos causais estão a exposição a fatores, agentes e situações de risco presentes no ambiente e processo de trabalho, mesmo após a cessação da exposição. Assinale a alternativa que não apresenta um agente cancerígeno.",
+  "alts": [
+   "Compostos de níquel",
+   "Benzeno",
+   "Sílica livre",
+   "Polifenóis",
+   "Asbesto"
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Lista de Doenças Relacionadas ao Trabalho (Portaria GM/MS 1.999/2023), câncer relacionado ao trabalho",
+  "coment": "Compostos de níquel, benzeno, sílica livre cristalina e asbesto (amianto) são carcinógenos ocupacionais reconhecidos, classificados no grupo 1 da IARC e presentes na Lista de Doenças Relacionadas ao Trabalho, atualizada pela Portaria GM/MS 1.999/2023. O níquel se associa a câncer de pulmão e de seios nasais; o benzeno, a leucemias; a sílica, a câncer de pulmão; o asbesto, a mesotelioma e câncer de pulmão. Polifenóis são compostos antioxidantes de alimentos de origem vegetal, como frutas, chá e cacau, e não são agentes cancerígenos ocupacionais. O câncer relacionado ao trabalho é de notificação semanal no SINAN.",
+  "porAlt": [
+   "Errada: compostos de níquel causam câncer de pulmão e de seios nasais em exposição ocupacional.",
+   "Errada: o benzeno é carcinógeno do grupo 1 da IARC, associado a leucemias.",
+   "Errada: a sílica livre cristalina causa câncer de pulmão, além da silicose.",
+   "Correta: polifenóis são antioxidantes da dieta, sem papel como agente cancerígeno do trabalho.",
+   "Errada: o asbesto causa mesotelioma e câncer de pulmão, mesmo anos após cessar a exposição."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Doenças pulmonares causadas por inalação e acúmulo de poeira inorgânicas nos pulmões com reação tissular à presença dessas poeiras devido exposição no ambiente ou processo de trabalho são consideradas pneumoconioses. Assinale a alternativa incorreta.",
+  "alts": [
+   "Apigenina",
+   "Cobalto",
+   "Berílio",
+   "Titânio",
+   "Carvão Mineral"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Lista de Doenças Relacionadas ao Trabalho (Portaria GM/MS 1.999/2023), pneumoconioses",
+  "coment": "Pneumoconiose é a doença pulmonar causada pela inalação e acúmulo de poeiras minerais ou metálicas, com reação do tecido pulmonar. Entram aí a pneumoconiose dos trabalhadores do carvão mineral, a beriliose (berílio), a doença pulmonar por metal duro, ligada ao cobalto, e as pneumoconioses por outras poeiras inorgânicas, como as de titânio, além de silicose e asbestose. Apigenina é um flavonoide de origem vegetal, presente em salsa e camomila, sem relação com poeira mineral, e por isso é a alternativa incorreta. As pneumoconioses relacionadas ao trabalho são de notificação semanal.",
+  "porAlt": [
+   "Correta: a apigenina é um flavonoide vegetal, não uma poeira inorgânica capaz de causar pneumoconiose.",
+   "Errada: o cobalto, no metal duro, causa pneumopatia ocupacional por poeira metálica.",
+   "Errada: o berílio causa a beriliose, doença granulomatosa pulmonar ocupacional.",
+   "Errada: poeira de titânio é poeira inorgânica metálica que se deposita no pulmão.",
+   "Errada: o carvão mineral causa a pneumoconiose dos trabalhadores do carvão."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As doenças, lesões e síndromes que afetam o Sistema músculo esquelético, causadas, mantidas ou agravadas pelo trabalho são consideradas lesões por esforços repetitivos (LER) ou distúrbios osteomusculares relacionadas ao trabalho (DORT). Assinale a alternativa que não apresenta sinais e sintomas dessas doenças.",
+  "alts": [
+   "Parestesia",
+   "Fadiga muscular",
+   "Dor crônica",
+   "Hipoestesia",
+   "Xerostomia"
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Lista de Doenças Relacionadas ao Trabalho (Portaria GM/MS 1.999/2023); Portaria GM/MS 11.211/2026 (LER/DORT, notificação semanal)",
+  "coment": "LER/DORT são agravos do sistema musculoesquelético e dos nervos periféricos ligados a repetitividade, força, postura e organização do trabalho. As queixas típicas são dor crônica localizada ou irradiada, sensação de peso e fadiga muscular, e sintomas neurológicos por compressão nervosa, como parestesia (formigamento) e hipoestesia, a exemplo da síndrome do túnel do carpo. Xerostomia é boca seca, ligada a medicamentos, radioterapia ou síndrome de Sjögren, e não faz parte do quadro. LER/DORT são de notificação semanal pela lista nacional (Portaria GM/MS 11.211/2026).",
+  "porAlt": [
+   "Errada: a parestesia aparece quando há compressão nervosa, como no túnel do carpo.",
+   "Errada: fadiga e sensação de peso muscular são queixas típicas de LER/DORT.",
+   "Errada: dor crônica é o sintoma central de LER/DORT.",
+   "Errada: a hipoestesia ocorre nas neuropatias compressivas ligadas ao esforço repetitivo.",
+   "Correta: xerostomia é secura da boca, sem relação com o sistema musculoesquelético."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando o Decreto nº 3.048 de 6 de maio de 1999 que aprova o regulamento da previdência social, e dá outras providências. Analise as afirmativas abaixo que apresentam seus princípios e objetivos.\nI. Universalidade de participação nos planos previdenciários.\nII. Seletividade e distributividade na prestação dos benefícios.\nIII. Cálculo dos benefícios considerando-se os salários-de-contribuição corrigidos monetariamente.\nIV. Redutibilidade do valor dos benefícios, de forma a preservar-lhe o poder aquisitivo.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I e II apenas",
+   "I e III apenas",
+   "I, II e III apenas",
+   "I, II e IV apenas",
+   "I, II, III e IV"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.213/1991, art. 2º; Decreto 3.048/1999 (Regulamento da Previdência Social)",
+  "coment": "Os princípios e objetivos da Previdência Social estão no art. 2º da Lei 8.213/1991, repetidos no Regulamento aprovado pelo Decreto 3.048/1999: universalidade de participação nos planos previdenciários; uniformidade e equivalência dos benefícios às populações urbanas e rurais; seletividade e distributividade na prestação dos benefícios; cálculo dos benefícios pelos salários de contribuição corrigidos monetariamente; e irredutibilidade do valor dos benefícios, para preservar o poder aquisitivo. Os itens I, II e III copiam o texto. O IV troca irredutibilidade por redutibilidade, o que contradiz a própria finalidade de preservar o poder aquisitivo.",
+  "porAlt": [
+   "Errada: omite o item III, porque o cálculo pelos salários de contribuição corrigidos também é princípio.",
+   "Errada: omite a seletividade e distributividade, que é princípio expresso.",
+   "Correta: I, II e III reproduzem os princípios; o IV fala em redutibilidade, quando o princípio é a irredutibilidade.",
+   "Errada: inclui o IV, que inverte o princípio da irredutibilidade do valor dos benefícios.",
+   "Errada: o IV é falso; benefício redutível não preservaria o poder aquisitivo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Conforme descrito no Decreto n° 3.048/99, o auxílio-acidente será concedido, como indenização, ao segurado empregado quando após a consolidação das lesões decorrentes de acidente de qualquer natureza, resultar sequela definitiva que implique redução da capacidade para o trabalho que habitualmente exercia. Diante o exposto, assinale a alternativa correta.",
+  "alts": [
+   "O auxílio-acidente mensal corresponderá a setenta por cento do salário-de-benefício que deu origem ao auxílio-doença do segurado, corrigido até o mês anterior ao do início do auxílio-acidente",
+   "O recebimento de salário ou concessão de outro benefício, prejudicará a continuidade do recebimento do auxílio-acidente",
+   "Não cabe a concessão do auxílio-acidente quando o segurado estiver desempregado",
+   "A perda da audição, em qualquer grau, somente proporcionará a concessão do auxílio-acidente quando, além do reconhecimento do nexo entre o trabalho e o agravo, resultar, comprovadamente, na redução ou perda da capacidade para o trabalho que o segurado habitualmente exercia",
+   "O auxílio-acidente será devido a partir do dia seguinte da solicitação"
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Lei 8.213/1991, art. 86, §§ 1º a 4º; Decreto 3.048/1999, art. 104",
+  "coment": "O auxílio-acidente é indenização paga quando, consolidadas as lesões, resta sequela que reduz a capacidade para o trabalho habitual. Pelo art. 86 da Lei 8.213/1991, corresponde a 50% do salário de benefício (§1º), é devido a partir do dia seguinte ao da cessação do auxílio-doença, hoje chamado auxílio por incapacidade temporária (§2º), e o recebimento de salário ou de outro benefício, exceto aposentadoria, não prejudica sua continuidade (§3º). O §4º traz a regra da alternativa D: a perda auditiva, em qualquer grau, só gera o benefício se, além do nexo com o trabalho, reduzir comprovadamente a capacidade para o trabalho habitual. O Decreto 3.048/1999 (art. 104) repete essas regras.",
+  "porAlt": [
+   "Errada: o auxílio-acidente corresponde a 50% do salário de benefício, não a 70%.",
+   "Errada: o salário ou outro benefício, exceto aposentadoria, não prejudica a continuidade do auxílio-acidente.",
+   "Errada: o regulamento admite o benefício por acidente ocorrido enquanto a pessoa mantém a qualidade de segurado.",
+   "Correta: reproduz a regra da perda auditiva, que exige nexo com o trabalho e redução comprovada da capacidade habitual.",
+   "Errada: o benefício é devido a partir do dia seguinte à cessação do auxílio-doença, não da solicitação."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Diariamente trabalhadores estão expostos a situações e a agentes nocivos que causam risco para a saúde no ambiente de trabalho. Analise as afirmativas abaixo e relacione com as classificações dos riscos.\nI. Microrganismos, parasitas ou materiais originados de organismos que, em função de sua natureza e do tipo de exposição, são capazes de acarretar lesão ou agravo à saúde do trabalhador.\nII. Qualquer forma de energia que, em função de sua natureza, intensidade e exposição, é capaz de causar lesão ou agravo à saúde do trabalhador. Por exemplo, ruídos e vibrações.\nIII. Substância, por si só ou em misturas, recipiente deve ser identificado, de forma legível, por etiqueta com o nome do produto, composição, concentração, data de envase e de validade, e nome do responsável pela manipulação ou fracionamento.\nIV. Acinetobacter baumannii, Chlamydia pneumoniae e Neisseria meningitidis.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "Biológico, mecânico, químico e biológico",
+   "Biológico, físico, químico e biológico",
+   "Químico, físico, químico e biológico",
+   "Físico, biológicos, mecânico e químico",
+   "Mecânico, biológico, físico e químico"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "NR 32 (Portaria MTE 485/2005), itens 32.2 (riscos biológicos) e 32.3 (riscos químicos); NR 9 (Portaria SEPRT 6.735/2020)",
+  "coment": "Item I: microrganismos, parasitas e materiais originados de organismos são agentes biológicos, como define a NR 32. Item II: qualquer forma de energia capaz de causar agravo, como ruído e vibração, é agente físico (NR 9; mapa de riscos, cor verde). Item III descreve a exigência da NR 32 para produtos químicos: todo recipiente fracionado deve ter etiqueta com nome do produto, composição, concentração, datas de envase e validade e responsável, portanto risco químico. Item IV lista bactérias (Acinetobacter baumannii, Chlamydia pneumoniae, Neisseria meningitidis), agentes biológicos. Sequência: biológico, físico, químico e biológico.",
+  "porAlt": [
+   "Errada: energia como ruído e vibração é risco físico; risco mecânico (de acidente) envolve máquinas, quedas e cortes.",
+   "Correta: organismos são biológicos, energia é física, etiqueta de substância é química e as bactérias listadas são biológicas.",
+   "Errada: o item I trata de microrganismos e parasitas, que são agentes biológicos, não químicos.",
+   "Errada: inverte I e II e chama bactérias de risco químico.",
+   "Errada: microrganismos não são risco mecânico, e ruído não é risco biológico."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Lei nº 5.452 de 1° de maio de 1943 aprova a consolidação das leis do trabalho (CLT), em relação as disposições gerais, o art 157 abrange o que cabe às empresas. Assinale a alternativa incorreta.",
+  "alts": [
+   "Cumprir e fazer cumprir as normas de segurança e medicina do trabalho",
+   "Instruir os empregados, através de ordens de serviço, quanto às precauções a tomar no sentido de evitar acidentes do trabalho ou doenças ocupacionais",
+   "Adotar as medidas que lhes sejam determinadas pelo órgão regional competente",
+   "Facilitar o exercício da fiscalização pela autoridade competente",
+   "O uso dos equipamentos de proteção individual (EPI) fornecidos"
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Consolidação das Leis do Trabalho (Decreto-Lei 5.452/1943), arts. 157 e 158",
+  "coment": "O art. 157 da CLT diz o que cabe às empresas: cumprir e fazer cumprir as normas de segurança e medicina do trabalho; instruir os empregados, por ordens de serviço, quanto às precauções para evitar acidentes e doenças ocupacionais; adotar as medidas determinadas pelo órgão regional competente; e facilitar a fiscalização. O uso dos EPI fornecidos é obrigação do empregado, prevista no art. 158, cujo parágrafo único considera ato faltoso a recusa injustificada. À empresa cabe fornecer gratuitamente o EPI adequado e exigir o uso (NR 6), mas usá-lo é dever do trabalhador.",
+  "porAlt": [
+   "Errada: cumprir e fazer cumprir as normas de segurança é o inciso I do art. 157, obrigação da empresa.",
+   "Errada: instruir os empregados por ordens de serviço é o inciso II do art. 157.",
+   "Errada: adotar as medidas do órgão regional competente é o inciso III do art. 157.",
+   "Errada: facilitar a fiscalização é o inciso IV do art. 157.",
+   "Correta: o uso do EPI fornecido é dever do empregado (art. 158), não atribuição da empresa no art. 157."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os Serviços Especializados em Segurança e Medicina do Trabalho (SESMT) tem a finalidade de promover a saúde e proteger a integridade do trabalhador. Assinale a alternativa incorreta que apresenta suas atribuições.",
+  "alts": [
+   "Elaborar ou participar da elaboração da sistematização da assistência de enfermagem dos trabalhadores",
+   "Elaborar plano de trabalho e monitorar metas, indicadores e resultados de segurança e saúde no trabalho",
+   "Manter permanente interação com a Comissão Interna de Prevenção de Acidentes (CIPA)",
+   "Acompanhar e participar nas ações do programa de controle médico de saúde ocupacional (PCMSO), nos termos da Norma Regulamentadora 7 (NR7)",
+   "Promover a realização de atividades de orientação, informação e conscientização dos trabalhadores para a prevenção de acidentes e doenças relacionadas ao trabalho"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR 4 (Portaria MTP 2.318/2022), item 4.3.1",
+  "coment": "O item 4.3.1 da NR 4 lista as competências do SESMT, todas voltadas à prevenção de acidentes e doenças do trabalho: participar do inventário de riscos e acompanhar o plano de ação do PGR, elaborar plano de trabalho e monitorar metas e indicadores de segurança e saúde, manter interação com a CIPA, acompanhar o PCMSO da NR 7, conduzir ou acompanhar a investigação de acidentes e promover orientação e conscientização dos trabalhadores. Sistematizar a assistência de enfermagem é atividade da enfermagem prevista na Res. COFEN 736/2024 e não figura entre as competências do SESMT, que é serviço multiprofissional.",
+  "porAlt": [
+   "Correta: a sistematização da assistência de enfermagem não é competência do SESMT na NR 4.",
+   "Errada: elaborar plano de trabalho e monitorar metas e indicadores é competência do SESMT.",
+   "Errada: a NR 4 manda o SESMT manter interação permanente com a CIPA.",
+   "Errada: acompanhar e participar das ações do PCMSO é competência expressa do SESMT.",
+   "Errada: promover orientação e conscientização dos trabalhadores está entre as competências do SESMT."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Resolução RDC Nº 222, de 28 de março de 2018 regulamenta as Boas Práticas de Gerenciamento dos Resíduos de Serviços de Saúde e dá outras providências. Analise as afirmativas abaixo.\nI. Guarda dos coletores de resíduos em ambiente exclusivo, com acesso facilitado para a coleta externa.\nII. Ambiente no qual ocorre o armazenamento temporário dos coletores de resíduos.\nIII. Dispositivos ou produtos de uso coletivo utilizados pelo trabalhador, destinados à proteção de riscos suscetíveis de ameaçar a segurança e a saúde no trabalho e de terceiros.\nIV. Produtos oriundos do sangue total ou do plasma, obtidos por meio de processamento físico-químico ou biotecnológico.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "Abrigo externo, acondicionamento, equipamento de proteção individual e hemoderivados",
+   "Acondicionamento, armazenamento interno, equipamento de proteção individual e material biológico",
+   "Armazenamento interno, abrigo definitivo, equipamento de proteção coletiva e material biológico",
+   "Armazenamento externo, abrigo temporário, equipamento de proteção coletiva e hemoderivados",
+   "Alojamento, abrigo definitivo, equipamento de proteção coletiva e fluidos orgânicos"
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 222/2018, art. 3º (definições)",
+  "coment": "As quatro frases copiam definições do art. 3º da RDC 222/2018. Armazenamento externo é a guarda dos coletores em ambiente exclusivo, com acesso facilitado para a coleta externa. Abrigo temporário é o ambiente onde ocorre o armazenamento temporário dos coletores, perto dos pontos de geração. Equipamento de proteção coletiva é o dispositivo de uso coletivo que protege o trabalhador e terceiros; o de uso individual é o EPI. Hemoderivados são produtos oriundos do sangue total ou do plasma obtidos por processamento físico-químico ou biotecnológico. A pista de cada item está na palavra-chave: externa, temporário, coletivo, plasma.",
+  "porAlt": [
+   "Errada: acondicionamento é embalar o resíduo, e dispositivo de uso coletivo não é EPI.",
+   "Errada: acondicionamento não é guarda para coleta externa, e o item IV define hemoderivados, não material biológico.",
+   "Errada: armazenamento interno não tem acesso para coleta externa, e o item IV não é material biológico.",
+   "Correta: armazenamento externo, abrigo temporário, EPC e hemoderivados correspondem às definições do art. 3º.",
+   "Errada: alojamento e abrigo definitivo não são termos da RDC 222, e fluidos orgânicos não são obtidos por processamento."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Conforme a resolução RDC Nº 222/2018 os resíduos de serviços de saúde são classificados de acordo com os grupos. Diante do exposto, assinale a alternativa incorreta.",
+  "alts": [
+   "Grupo A: resíduos com a possível presença de agentes biológicos que, por suas características, podem apresentar risco de infecção",
+   "Grupo B: resíduos contendo produtos químicos que podem apresentar risco à saúde pública ou ao meio ambiente, dependendo de suas características de inflamabilidade, corrosividade, reatividade e toxicidade",
+   "Grupo C: resíduos reclicláveis",
+   "Grupo D: resíduos que não apresentam risco biológico, químico ou radiológico à saúde ou ao meio ambiente, podendo ser equiparados aos resíduos domiciliares",
+   "Grupo E: resíduos perfurocortantes, tais como: lâminas de barbear, agulhas, escalpes, ampolas de vidro, brocas, fios ortodônticos cortados, pontas diamantadas, lâminas de bisturi, lancetas, tubos capilares, lâminas, espátulas e todos os utensílios de vidro quebrados no laboratório"
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 222/2018, Anexo I (classificação dos resíduos de serviços de saúde)",
+  "coment": "Pelo Anexo I da RDC 222/2018, os resíduos de serviços de saúde se dividem em cinco grupos: A, com possível presença de agentes biológicos e risco de infecção; B, químicos, conforme inflamabilidade, corrosividade, reatividade e toxicidade; C, rejeitos radioativos, que contêm radionuclídeos acima dos limites da CNEN; D, sem risco biológico, químico ou radiológico, equiparados aos domiciliares, grupo em que estão os recicláveis; e E, perfurocortantes ou escarificantes. A alternativa C atribui ao grupo C os recicláveis, o que está errado.",
+  "porAlt": [
+   "Errada: a definição do grupo A, resíduo com possível agente biológico e risco de infecção, está correta.",
+   "Errada: o grupo B são os químicos, e a definição está correta.",
+   "Correta: o grupo C são os rejeitos radioativos; recicláveis pertencem ao grupo D.",
+   "Errada: o grupo D está corretamente definido como resíduo sem risco, equiparado ao domiciliar.",
+   "Errada: o grupo E são os perfurocortantes, e a lista de exemplos está correta."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A ergonomia definida na norma regulamentadora NR-17 deve ser avaliada preliminarmente para implantação das medidas de prevenção. Assinale a alternativa que apresenta posturas adequadas frente a ergonomia.",
+  "alts": [
+   "Uso excessivo de força muscular",
+   "Movimentos leves dos membros superiores e sem impactos",
+   "Posturas extremas ou nocivas do tronco, do pescoço, da cabeça, dos membros superiores e/ou dos membros inferiores",
+   "Exposição a vibrações e ruídos",
+   "frequência de movimentos dos membros inferiores que possam comprometer a segurança e a saúde do trabalhador"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "NR 17 (Portaria MTP 423/2021), itens 17.3 e 17.4",
+  "coment": "A NR 17 exige avaliação ergonômica preliminar das situações de trabalho para identificar o que pode comprometer a segurança e a saúde. Entre os fatores de risco que essa avaliação procura estão o uso excessivo de força muscular, as posturas extremas ou nocivas do tronco, pescoço, cabeça e membros, a exposição a vibrações e a frequência de movimentos dos membros que comprometa a saúde. A questão pede a postura adequada, e a única que não representa sobrecarga é a de movimentos leves dos membros superiores, sem impactos.",
+  "porAlt": [
+   "Errada: força muscular excessiva é fator de risco ergonômico, não postura adequada.",
+   "Correta: movimentos leves dos membros superiores e sem impacto não sobrecarregam o sistema musculoesquelético.",
+   "Errada: posturas extremas ou nocivas são exatamente o que a avaliação ergonômica busca corrigir.",
+   "Errada: vibração e ruído são exposições de risco, não condição ergonômica adequada.",
+   "Errada: frequência de movimentos que compromete a saúde é fator de risco listado na avaliação."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O empregador é obrigado a registrar a comunicação de acidente de trabalho, caso a empresa não cumpra essa obrigatoriedade, outras pessoas podem registrar os fatos. Assinale a alternativa incorreta.",
+  "alts": [
+   "A própria pessoa acidentada",
+   "Dependentes da pessoa acidentada",
+   "Entidades sindicais",
+   "Somente médicos do trabalho podem registrar a comunicação",
+   "Autoridades públicas"
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.213/1991, art. 22, §§ 2º e 3º",
+  "coment": "Pelo art. 22 da Lei 8.213/1991, a empresa comunica o acidente do trabalho à Previdência até o primeiro dia útil seguinte ao da ocorrência e, em caso de morte, de imediato. Se a empresa não emitir a CAT, o §2º permite que a formalizem o próprio acidentado, seus dependentes, a entidade sindical competente, o médico que o assistiu ou qualquer autoridade pública, sem prazo. O §3º diz que isso não exime a empresa da responsabilidade. Não há exclusividade do médico do trabalho; qualquer médico assistente pode emitir.",
+  "porAlt": [
+   "Errada: o próprio acidentado pode formalizar a CAT quando a empresa não o faz.",
+   "Errada: os dependentes do acidentado estão entre os legitimados do §2º.",
+   "Errada: a entidade sindical competente pode emitir a CAT.",
+   "Correta: a lei não restringe ao médico do trabalho; o médico assistente e outras pessoas também podem emitir.",
+   "Errada: qualquer autoridade pública pode formalizar a CAT na omissão da empresa."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Diversos fatores podem agravar ou ocasionar o sofrimento emocional no trabalho e os transtornos mentais podem ter manifestações diversificadas. Assinale a alternativa incorreta sobre tais manifestações.",
+  "alts": [
+   "Tristeza e choro fácil",
+   "Agitação e nervosismo",
+   "Medo excessivo e taquicardia",
+   "Irritação e insegurança",
+   "Ansiedade e anúria"
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Lista de Doenças Relacionadas ao Trabalho (Portaria GM/MS 1.999/2023); Portaria GM/MS 11.211/2026 (transtornos mentais relacionados ao trabalho)",
+  "coment": "O sofrimento psíquico relacionado ao trabalho se manifesta por sintomas afetivos (tristeza, choro fácil, irritação, insegurança), ansiosos (nervosismo, agitação, medo excessivo) e físicos de ativação autonômica, como taquicardia, sudorese e tremor. Anúria é a ausência de produção de urina, sinal de insuficiência renal grave ou obstrução, e não é manifestação de transtorno mental. A Lista de Doenças Relacionadas ao Trabalho, atualizada pela Portaria GM/MS 1.999/2023, incluiu fatores psicossociais e o esgotamento profissional, e os transtornos mentais relacionados ao trabalho são de notificação semanal.",
+  "porAlt": [
+   "Errada: tristeza e choro fácil são manifestações afetivas comuns do sofrimento mental.",
+   "Errada: agitação e nervosismo aparecem nos quadros ansiosos.",
+   "Errada: medo excessivo com taquicardia é expressão de ansiedade com ativação autonômica.",
+   "Errada: irritação e insegurança são manifestações frequentes do sofrimento no trabalho.",
+   "Correta: a ansiedade é manifestação, mas a anúria é sinal renal e não pertence ao quadro mental."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Referente os principais agentes causadores de dermatoses ocupacionais, assinale a alternativa incorreta.",
+  "alts": [
+   "Cimento e borracha",
+   "Graxa e plástico",
+   "Resinas e Níquel",
+   "Argila e Granizo",
+   "Madeiras e cosméticos"
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Dermatoses ocupacionais, Protocolo de Complexidade Diferenciada da Saúde do Trabalhador, 2006; Portaria GM/MS 11.211/2026",
+  "coment": "Dermatoses ocupacionais são alterações da pele, mucosas e anexos causadas ou agravadas pelo trabalho, em geral dermatites de contato irritativas ou alérgicas. Os agentes mais citados no protocolo do Ministério da Saúde incluem o cimento (cromo), a borracha e seus aditivos, graxas e óleos, plásticos e resinas (epóxi, acrílicas), metais como níquel e cromo, madeiras e cosméticos. Argila e granizo não figuram entre os agentes causadores: granizo é precipitação de gelo, sem relação com exposição química ou biológica da pele no trabalho. Dermatoses ocupacionais são de notificação semanal pela Portaria GM/MS 11.211/2026.",
+  "porAlt": [
+   "Errada: o cimento, pelo cromo, e a borracha, pelos aceleradores, são causas clássicas de dermatite de contato.",
+   "Errada: graxas, óleos e plásticos causam dermatoses irritativas e alérgicas.",
+   "Errada: resinas e níquel estão entre os alérgenos ocupacionais mais frequentes.",
+   "Correta: argila e granizo não são agentes causadores de dermatose ocupacional listados.",
+   "Errada: madeiras e cosméticos causam dermatite de contato em marceneiros e cabeleireiros."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "“Dentre os profissionais de saúde, os ______ de Enfermagem, enquanto prestadores de assistência direta e indireta, realizam atividades de grande ______ física ao paciente, além do manuseio de vários materiais e equipamentos, o que os torna uma categoria de grande ______ à exposição ocupacional a material ______”. Assinale a alternativa que preencha correta e respectivamente as lacunas:",
+  "alts": [
+   "Grupos, contato, aproximação, químicos",
+   "Trabalhadores, importância, contato, biológicos",
+   "Pessoas, ajuda, risco, físicos",
+   "Trabalhadores, proximidade, vulnerabilidade, biológicos",
+   "Auxiliares, aproximação, ajuda, químicos"
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "NR 32 (Portaria MTE 485/2005), item 32.2 (riscos biológicos); gabarito retificado para D pelo Edital EBSERH nº 20/2024",
+  "coment": "O trecho trata da exposição ocupacional da enfermagem a material biológico. Os trabalhadores de enfermagem prestam assistência direta, com grande proximidade física do paciente, e manuseiam agulhas, cateteres e equipamentos, o que os torna uma categoria de grande vulnerabilidade à exposição a material biológico (sangue e fluidos). É por isso que a NR 32 concentra regras para essa equipe: vedação do reencape, plano de prevenção de acidentes com perfurocortantes, vacinação contra hepatite B e CAT em todo acidente com risco biológico. O gabarito definitivo trazia E; o Edital EBSERH nº 20/2024 o retificou para D.",
+  "porAlt": [
+   "Errada: o risco central do trecho é biológico, não químico, e aproximação não descreve a categoria de risco.",
+   "Errada: importância e contato não completam o sentido de risco ocupacional que o trecho constrói.",
+   "Errada: o trecho fala de material biológico, não de agentes físicos.",
+   "Correta: trabalhadores, proximidade física, vulnerabilidade e material biológico completam o sentido do trecho.",
+   "Errada: o texto abrange toda a enfermagem, e a exposição destacada é biológica, não química."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Resolução COFEN Nº 571/2018 autoriza o Enfermeiro do Trabalho preencher, emitir e assinar Laudo de Monitorização Biológica, previsto no Perfil Profissiográfico Previdenciário-PPP.\n“O Perfil Profissiográfico ______-PPP deve ser preenchido pelas ______ que exercem atividades que exponham seus empregados a agentes nocivos químicos, ______, biológicos ou associação de agentes prejudiciais à saúde ou à integridade ______ nos termos definidos pela legislação vigente”.\nAssinale a alternativa que preencha correta e respectivamente as lacunas.",
+  "alts": [
+   "Profissional / pessoas / mecânicos / física",
+   "Pessoal / áreas / ergonômico / mental",
+   "Previdenciário / empresas / físicos / física",
+   "Profissional / empresas / psicológicos / mental",
+   "Previdenciário / pessoas / física / físicos"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 571/2018; Lei 8.213/1991, art. 58, § 4º",
+  "coment": "PPP é o Perfil Profissiográfico Previdenciário, documento que a empresa elabora e mantém atualizado com as atividades do trabalhador e as exposições a agentes nocivos (Lei 8.213/1991, art. 58, §4º). Pela norma previdenciária citada na Res. COFEN 571/2018, ele deve ser preenchido pelas empresas que exponham seus empregados a agentes nocivos químicos, físicos, biológicos ou associação de agentes prejudiciais à saúde ou à integridade física. A Resolução COFEN 571/2018 autoriza o enfermeiro do trabalho, com título de especialista registrado no COREN, a preencher, emitir e assinar o laudo de monitorização biológica do PPP.",
+  "porAlt": [
+   "Errada: o P do meio é Previdenciário, quem preenche são as empresas e o agente é físico, não mecânico.",
+   "Errada: o perfil é previdenciário, preenchido por empresas, e a lista de agentes é química, física e biológica.",
+   "Correta: Previdenciário, empresas, físicos e integridade física é a redação da norma previdenciária.",
+   "Errada: não é perfil profissional, e agentes psicológicos não integram a definição.",
+   "Errada: quem preenche são as empresas, não pessoas, e a ordem dos termos não fecha a frase."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Trabalhador",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o Distrito Sanitário Especial Indígena, analise as afirmativas abaixo.\nI. O Distrito Sanitário Especial Indígena (DSEI) é a unidade gestora descentralizada do Subsistema de Atenção à Saúde Indígena (SasiSUS).\nII. Trata-se de um modelo de organização de serviços – orientado para um espaço etno-cultural dinâmico, geográfico, populacional e administrativo bem delimitado, que contempla um conjunto de atividades técnicas, visando medidas racionalizadas e qualificadas de atenção à saúde.\nIII. Promove a reordenação da rede de saúde e das práticas sanitárias e desenvolve atividades administrativo-gerenciais necessárias à prestação da assistência, com o Controle Social.\nIV. No Brasil, são 34 DSEI divididos estrategicamente por critérios territoriais, tendo como base a ocupação geográfica das comunidades indígenas.\nV. Obedece os limites dos estados. Sua estrutura de atendimento conta com unidades básicas de saúde indígenas, pólos base e as Casas de Saúde Indígena (CASAI).\nAssinale a alternativa correta.",
+  "alts": [
+   "I, II, III, IV e V",
+   "I, II, III e IV apenas",
+   "I, II, III e V apenas",
+   "II, III, IV e V apenas",
+   "IV e V apenas"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, arts. 19-A a 19-H (incluídos pela Lei 9.836/1999); Política Nacional de Atenção à Saúde dos Povos Indígenas (Portaria MS 254/2002)",
+  "coment": "A Lei 9.836/1999 incluiu na Lei 8.080/1990 o Subsistema de Atenção à Saúde Indígena (SasiSUS), que tem como base os Distritos Sanitários Especiais Indígenas. O DSEI é a unidade gestora descentralizada do subsistema, um espaço etnocultural, geográfico, populacional e administrativo delimitado, que reorganiza a rede e as práticas sanitárias com controle social. São 34 DSEI, definidos por critérios territoriais conforme a ocupação das comunidades indígenas. O erro está no item V: o DSEI não obedece aos limites dos estados, e há distritos que abrangem mais de uma unidade federada. A estrutura de atendimento inclui UBS indígenas, polos-base e CASAI.",
+  "porAlt": [
+   "Errada: o item V é falso, porque os DSEI são definidos pela ocupação territorial indígena, não pelos limites estaduais.",
+   "Correta: I a IV descrevem o DSEI; o V erra ao dizer que ele obedece aos limites dos estados.",
+   "Errada: inclui o item V e exclui o IV, que está correto ao citar os 34 DSEI.",
+   "Errada: exclui o item I, que define corretamente o DSEI como unidade gestora do SasiSUS.",
+   "Errada: o V é falso e I, II e III, que são corretos, ficaram de fora."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Política Nacional de Atenção à Saúde dos Povos Indígenas integra a Política Nacional de Saúde e para a efetiva implementação e consolidação desta, deverão ser consideradas e priorizadas ações para situações especiais como, assinale a alternativa incorreta.",
+  "alts": [
+   "Prevenção e controle de agravos à saúde em povos com pouco contato ou isolados",
+   "Prevenção e controle de agravos à saúde indígena nas regiões de fronteira, em articulação com as instituições nacionais, e cooperação técnica com os países vizinhos",
+   "Acompanhamento, monitoramento e desenvolvimento de ações que venham coibir agravos de violência em decorrência da precariedade das condições de vida e da expropriação e intrusão das terras indígenas",
+   "Oferecer oportunidades de modificação de costumes indígenas, tendo em vista amortização de impactos econômicos do governo federal",
+   "Prevenção e assistência em doenças sexualmente transmissíveis e AIDS, priorizando a capacitação de multiplicadores"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Política Nacional de Atenção à Saúde dos Povos Indígenas (Portaria MS 254/2002), diretrizes e situações especiais",
+  "coment": "A PNASPI (Portaria MS 254/2002) parte do reconhecimento da diversidade social e cultural dos povos indígenas e do respeito aos seus sistemas tradicionais de saúde. Entre as situações especiais que pedem ações prioritárias estão os povos isolados ou de pouco contato, as regiões de fronteira, com cooperação com países vizinhos, a violência ligada à precariedade das condições de vida e à invasão das terras, e a prevenção das então chamadas DST e aids, hoje IST e HIV/aids, com capacitação de multiplicadores. Oferecer modificação de costumes indígenas para reduzir impactos econômicos do governo contraria o princípio de atenção diferenciada e respeito cultural da política.",
+  "porAlt": [
+   "Errada: povos isolados e de pouco contato são situação especial prioritária da PNASPI.",
+   "Errada: as regiões de fronteira, com cooperação técnica com países vizinhos, estão na política.",
+   "Errada: a violência ligada à precariedade de vida e à intrusão das terras é situação especial prevista.",
+   "Correta: induzir mudança de costumes indígenas por razão econômica fere o respeito à diversidade cultural da PNASPI.",
+   "Errada: a prevenção de IST e aids com capacitação de multiplicadores é ação prevista."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A atenção primária à Saúde Indígena é responsável pela condução das atividades de atenção integral à saúde dos povos indígenas, por meio de ______, ______ e da articulação interfederativa, ou seja, articulação com os demais gestores do SUS para provimento das ações complementares e especializadas.\nAssinale a alternativa que preencha correta e respectivamente as lacunas.",
+  "alts": [
+   "controle de doenças endêmicas / articulação estadual",
+   "atenção básica / educação em saúde",
+   "imunização / articulação estadual",
+   "participação social / protocolos clínicos",
+   "órgãos colegiados / protocolos clínicos"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 19-G (incluído pela Lei 9.836/1999); Política Nacional de Atenção à Saúde dos Povos Indígenas (Portaria MS 254/2002)",
+  "coment": "No Subsistema de Atenção à Saúde Indígena, a atenção primária oferecida nos DSEI pelas equipes multidisciplinares conduz a atenção integral por meio de ações de atenção básica e de educação em saúde, e se articula com estados e municípios para garantir as ações complementares e especializadas. A Lei 8.080/1990 (art. 19-G) define o subsistema como descentralizado, hierarquizado e regionalizado, e os indígenas têm acesso aos demais níveis do SUS. Controle de endemias, imunização e participação social são ações ou princípios do subsistema, mas não completam a frase que descreve os meios da atenção primária.",
+  "porAlt": [
+   "Errada: controle de endemias é ação específica, e articulação estadual repete a ideia de articulação interfederativa.",
+   "Correta: atenção básica e educação em saúde são os meios pelos quais a atenção primária indígena conduz o cuidado integral.",
+   "Errada: imunização é uma ação entre outras, e articulação estadual já está contida na interfederativa.",
+   "Errada: participação social é diretriz de controle social, e protocolos clínicos não são o meio descrito.",
+   "Errada: órgãos colegiados são instâncias de controle social, não meio de atenção primária."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre Compete ao Departamento de Atenção Primária à Saúde Indígena, assinale a alternativa incorreta.",
+  "alts": [
+   "Apoiar o autogerenciamento do Sistema de Informação da Atenção à Saúde Indígena – SIASI",
+   "Promover o fortalecimento da gestão nos Distritos Sanitários Especiais Indígenas",
+   "Apoiar as equipes dos Distritos Sanitários Especiais Indígenas no desenvolvimento das ações de atenção à saúde e sua integração com as instâncias assistenciais do SUS na região e nos Municípios que compõem cada Distrito Sanitário Especial Indígena",
+   "Apoiar a elaboração dos Planos Distritais de Saúde Indígena na área de atenção integral à saúde indígena",
+   "Orientar e apoiar a implementação de programas de atenção à saúde para a população indígena"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Decreto 11.798/2023 (Estrutura Regimental do Ministério da Saúde), alterado pelo Decreto 12.036/2024, competências da SESAI",
+  "coment": "Na estrutura do Ministério da Saúde (Decreto 11.798/2023), a Secretaria de Saúde Indígena tem um departamento de atenção primária que planeja, coordena e monitora a atenção primária aos povos indígenas, fortalece a gestão dos DSEI, apoia as equipes distritais e sua integração com o SUS na região, apoia os Planos Distritais de Saúde Indígena e orienta a implementação de programas de saúde para essa população. A alternativa A é a incorreta porque não existe autogerenciamento do SIASI: o sistema é gerido pela SESAI, e o Decreto 12.036/2024 passou a atribuir a gestão do sistema de informação ao Departamento de Gestão da Saúde Indígena.",
+  "porAlt": [
+   "Correta: autogerenciamento do SIASI não é competência; o sistema é gerido pela SESAI, hoje pelo Departamento de Gestão da Saúde Indígena.",
+   "Errada: fortalecer a gestão nos DSEI é atribuição da área de atenção primária da SESAI.",
+   "Errada: apoiar as equipes dos DSEI e sua integração com o SUS regional é competência do departamento.",
+   "Errada: apoiar a elaboração dos Planos Distritais de Saúde Indígena consta das competências.",
+   "Errada: orientar e apoiar programas de atenção à saúde indígena é competência do departamento."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a tuberculose em populações indígenas, assinale a alternativa incorreta.",
+  "alts": [
+   "A centralização dos serviços de saúde na zona urbana e a concentração de casos de tuberculose em indígenas na zona rural, dificultam o diagnósticos e tratamento",
+   "Associado à desnutrição e parasitismo intestinal, a população indígena vive em péssimas condições de vida, moradias com alta densidade demográfica intradomiciliar, com um único cômodo, pouca iluminação natural, sem ventilação e constante presença de fumaça de fogueiras, o que propicia uma carga infectante maior",
+   "Os povos indígenas enfrentam situações de tensão social, ameaças e vulnerabilidade",
+   "A expansão das frentes econômicas vem auxiliando a integridade dos ambientes, saberes, sistemas econômicos e organização social na comunidade indígena",
+   "Os Agentes Indígenas de Saúde são responsáveis por encaminhar os indígenas com sintomas respiratórios as equipes multidisciplinares de saúde indígena"
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada (Ministério da Saúde, 2019), populações vulneráveis",
+  "coment": "O Manual de Recomendações para o Controle da Tuberculose (MS, 2019) trata os povos indígenas como população de maior vulnerabilidade, com incidência muito acima da média nacional. Pesam a distância entre aldeias e serviços centralizados, a desnutrição e as parasitoses, as moradias com muitas pessoas em cômodo único, pouca luz e ventilação e fumaça de fogueiras, além de tensão social e ameaças territoriais. O Agente Indígena de Saúde busca os sintomáticos respiratórios e os encaminha à equipe multidisciplinar. A expansão das frentes econômicas ameaça, e não auxilia, a integridade dos ambientes, saberes e organização social indígenas.",
+  "porAlt": [
+   "Errada: a centralização dos serviços longe das aldeias de fato dificulta diagnóstico e tratamento.",
+   "Errada: desnutrição e moradia aglomerada, escura e sem ventilação aumentam a carga infectante.",
+   "Errada: tensão social, ameaças e vulnerabilidade marcam a situação dos povos indígenas.",
+   "Correta: as frentes econômicas pressionam territórios e modos de vida; não auxiliam a integridade da comunidade.",
+   "Errada: a busca de sintomáticos respiratórios pelo AIS e o encaminhamento à equipe são corretos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na organização dos serviços de saúde, as comunidades têm uma instância de atendimento chamados de Pólos-Base. Assinale a alternativa que apresenta a finalidade dos Pólos-Bases.",
+  "alts": [
+   "Primeira referência para os agentes indígenas de saúde que atuam nas aldeias",
+   "Primeira referência para a equipe médica que atuam nas unidades básicas de saúde",
+   "Primeira referência para a equipe médica e de enfermagem que atuam nas unidades de saúde de média complexidade",
+   "Primeira contra-referência para as equipe multiprofissional que atuam nas unidades de alta complexidade",
+   "Primeira contra-referência para a equipe médica e de enfermagem que atuam nas unidades especializadas de sáude"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Política Nacional de Atenção à Saúde dos Povos Indígenas (Portaria MS 254/2002), organização dos DSEI",
+  "coment": "Na organização dos DSEI descrita pela PNASPI (Portaria MS 254/2002), o primeiro nível de cuidado é feito nas aldeias pelos Agentes Indígenas de Saúde, nos postos de saúde. Os polos-base são a primeira referência para os AIS que atuam nas aldeias: podem ficar numa comunidade indígena ou num município de referência e abrigam as equipes multidisciplinares, que resolvem a maior parte da demanda. O que o polo-base não resolve segue para a rede do SUS, com apoio das Casas de Saúde Indígena (CASAI) para alojamento e acompanhamento. Por isso o polo-base não é referência de média ou alta complexidade.",
+  "porAlt": [
+   "Correta: o polo-base é a primeira referência para os agentes indígenas de saúde das aldeias.",
+   "Errada: o polo-base é referência para os AIS, e a equipe médica atua nele, não o tem como referência externa.",
+   "Errada: média complexidade fica na rede do SUS, fora do polo-base.",
+   "Errada: o polo-base não é contrarreferência de alta complexidade; é o primeiro nível de referência.",
+   "Errada: unidades especializadas pertencem à rede do SUS; o polo-base é atenção primária."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os Povos Indígenas estão entre os grupos que apresentam maiores taxas de mortalidade por suicídio em diversos países. Sobre os fatores de risco considerados para suicídio, assinale a alternativa incorreta.",
+  "alts": [
+   "Tenha histórico de outras mortes por suicídio na família",
+   "Faixa etária entre 12 e 25 anos de idade",
+   "Faça uso prejudicial de cigarro",
+   "Faça uso prejudicial de álcool",
+   "Tenha conflitos geracionais, afetivos e relacionados ao exercício da sexualidade"
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Crise, suicídio e contenção",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Lei 13.819/2019 (Política Nacional de Prevenção da Automutilação e do Suicídio); Ministério da Saúde/SESAI, prevenção do suicídio em povos indígenas",
+  "coment": "O Ministério da Saúde descreve, para os povos indígenas, um perfil de suicídio concentrado em jovens, com fatores de risco como história de suicídio na família, faixa etária de 12 a 25 anos, uso prejudicial de álcool e conflitos geracionais, afetivos e ligados à sexualidade, somados à perda de território e a rupturas culturais. O uso de cigarro não aparece entre os fatores destacados nesse material, por isso é a alternativa incorreta para a banca. Na prática, o tabagismo também se associa a sofrimento mental, mas não é marcador específico. A Lei 13.819/2019 organiza a prevenção, e a tentativa de suicídio é de notificação imediata.",
+  "porAlt": [
+   "Errada: suicídio prévio na família é fator de risco citado para povos indígenas.",
+   "Errada: a concentração entre 12 e 25 anos é marca do suicídio indígena no Brasil.",
+   "Correta: o uso de cigarro não está entre os fatores de risco destacados no material da banca.",
+   "Errada: o uso prejudicial de álcool é fator de risco central nas comunidades indígenas.",
+   "Errada: conflitos geracionais, afetivos e de sexualidade são fatores citados."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A ______ é uma doença infecciosa, na maioria dos casos febril e aguda, causada por um parasita, o plasmódio. Em seres humanos foram descritas quatro espécies que são transmitidas de pessoa a pessoa pela picada da fêmea do mosquito Anófeles. Tem ampla distribuição no território nacional. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "Febre amarela",
+   "Chikungunya",
+   "Malária",
+   "Dengue",
+   "Zika"
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Doenças imunopreveníveis e emergentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. revisada (Ministério da Saúde, 2024), malária",
+  "coment": "A malária é doença infecciosa febril aguda causada por protozoários do gênero Plasmodium e transmitida pela picada da fêmea do mosquito Anopheles. As espécies clássicas que infectam o ser humano são P. vivax, P. falciparum, P. malariae e P. ovale; hoje se reconhece também o P. knowlesi, zoonótico do Sudeste Asiático. No Brasil predominam o P. vivax e o P. falciparum, e a transmissão se concentra na Amazônia Legal, onde vive boa parte dos povos indígenas. Febre amarela, chikungunya, dengue e zika são arboviroses causadas por vírus e transmitidas por Aedes ou Haemagogus, não por plasmódio.",
+  "porAlt": [
+   "Errada: a febre amarela é causada por vírus e transmitida por Aedes e Haemagogus, não por plasmódio.",
+   "Errada: a chikungunya é arbovirose viral transmitida pelo Aedes.",
+   "Correta: a malária é causada pelo plasmódio e transmitida pela fêmea do Anopheles.",
+   "Errada: a dengue é causada por vírus e transmitida pelo Aedes aegypti.",
+   "Errada: a zika é arbovirose viral, sem relação com plasmódio ou Anopheles."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A gripe ceifou muitas vidas durante o processo de atração dos Panará pelos indigenistas da Funai. Analise as alternativas e assinale a incorreta.",
+  "alts": [
+   "É fundamental que a equipe de contato com os povos indígenas sigam recomendações para evitar transmissão de doenças",
+   "O contágio se deu possivelmente por meio de objetos deixados como presentes para os indígenas pela frente de atração",
+   "A quarentena deve ser obrigatória para toda equipe e deve ser voltada especialmente para as doenças de etiologia viral",
+   "O uso de equipamentos de proteção individual é dispensado à equipe de contato a partir do momento em que a quarentena termina e nenhum membro da equipe apresente algum adoecimento",
+   "Caso as pessoas da equipe sejam procedentes de áreas malarígenas, deve ser feita a pesquisa do plasmodium em sangue periférico"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Portaria Conjunta MS/FUNAI 4.094/2018 (atenção à saúde dos povos indígenas isolados e de recente contato)",
+  "coment": "O contato dos Panará nos anos 1970 é exemplo clássico de como doenças respiratórias trazidas pelas equipes dizimam povos sem imunidade prévia. As diretrizes para povos isolados e de recente contato (Portaria Conjunta MS/FUNAI 4.094/2018) exigem que a equipe siga medidas de proteção: quarentena antes do contato, voltada sobretudo às viroses respiratórias, vacinação em dia, pesquisa de plasmódio em quem vem de área malarígena e uso de equipamentos de proteção. O fim da quarentena sem adoecimento não dispensa o EPI, porque há portadores assintomáticos e período de incubação, e o contato continua oferecendo risco.",
+  "porAlt": [
+   "Errada: seguir recomendações para evitar transmissão de doenças é exigência básica da equipe de contato.",
+   "Errada: objetos deixados como presentes pela frente de atração são via provável de contágio citada no caso Panará.",
+   "Errada: a quarentena obrigatória, sobretudo para viroses, é medida de proteção prevista.",
+   "Correta: terminar a quarentena sem sintomas não dispensa o EPI, porque há infecção assintomática e incubação.",
+   "Errada: pesquisar plasmódio em quem vem de área malarígena evita levar malária ao povo contatado."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A multivacinação pode parecer um dilema ético, mas faz sentido quando se olha para as epidemias e mortes por doenças preveníveis por vacinas entre os indígenas recém contatados. Sobre o tema, assinale a alternativa incorreta.",
+  "alts": [
+   "O esquema vacinal deve ser dirigido a toda a população, incluindo adultos e idosos, resguardadas as contra indicações etárias de cada vacina, o objetivo é imunizar a todos",
+   "Todas as vacinas devem ser aplicadas concomitantemente, dando preferência a composições com vários imunizantes",
+   "A BCG intradérmica não pode ser postergada e recomenda-se o exame PPD em todos os adultos",
+   "Para as vacinas que necessitam de mais de uma dose, deve-se utilizar o menor intervalo possível entre as aplicações",
+   "Cuidados com a rede de frio são fundamentais para garantir a eficácia das vacinas aplicadas"
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria Conjunta MS/FUNAI 4.094/2018; Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "Para povos de recente contato, a prioridade é proteger rapidamente toda a população contra as doenças que causam epidemias: vacinar todas as idades, respeitando as restrições etárias, aplicar as vacinas simultaneamente, usar os menores intervalos entre doses e cuidar da rede de frio. A afirmativa errada é a que diz que a BCG não pode ser postergada e manda PPD para todos os adultos: a BCG protege a criança das formas graves e pode esperar diante das vacinas contra doenças epidêmicas. Pela IN do Calendário 2026, a BCG é dada até 4 anos, 11 meses e 29 dias e não é indicada a adultos, salvo contato de hanseníase.",
+  "porAlt": [
+   "Errada: vacinar toda a população, de crianças a idosos, respeitando contraindicações etárias, é o objetivo da multivacinação.",
+   "Errada: a aplicação simultânea, com vacinas combinadas, reduz o número de encontros e é recomendada nesse contexto.",
+   "Correta: a BCG pode ser postergada diante das vacinas contra epidemias, e não se vacina adulto com BCG.",
+   "Errada: usar o menor intervalo possível entre doses acelera a proteção e é recomendado.",
+   "Errada: a rede de frio é fundamental para preservar a potência das vacinas aplicadas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre Controle Social, assinale a alternativa correta.",
+  "alts": [
+   "A participação indígena deverá ocorrer apenas na etapa de financiamento dos Distritos Sanitários Especiais Indígenas, contemplando expressões formais",
+   "A participação Indígena deverá ocorrer apenas na etapa de planejamento dos Distritos Sanitários Especiais Indígenas, contemplando expressões formais",
+   "A participação indígena deverá ocorrer apenas nas etapas de planejamento e implantação dos Distritos Sanitários Especiais Indígenas, não contemplando expressões formais e informais",
+   "A participação indígena deverá ocorrer apenas na etapa de implantação dos Distritos Sanitários Especiais Indígenas, contemplando expressões informais",
+   "A participação indígena deverá ocorrer em todas as etapas do planejamento, implantação e financiamento dos Distritos Sanitários Especiais Indígenas, contemplando expressões formais e informais"
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Política Nacional de Atenção à Saúde dos Povos Indígenas (Portaria MS 254/2002), diretriz de controle social; Lei 8.080/1990, art. 19-H",
+  "coment": "A PNASPI (Portaria MS 254/2002) prevê que a participação indígena ocorra em todas as etapas do planejamento, da implantação e do funcionamento dos DSEI, contemplando expressões formais e informais. O controle social se faz pelos conselhos locais e distritais de saúde indígena e pelas conferências de saúde indígena, e a Lei 8.080/1990 (art. 19-H) garante às populações indígenas participar dos organismos colegiados de formulação, acompanhamento e avaliação das políticas de saúde. Qualquer alternativa que restrinja a participação a uma só etapa contraria a diretriz.",
+  "porAlt": [
+   "Errada: a participação não se limita ao financiamento; abrange todas as etapas.",
+   "Errada: a participação não se restringe ao planejamento.",
+   "Errada: além de incluir todas as etapas, a política contempla expressões formais e informais.",
+   "Errada: restringir à implantação e só a expressões informais contraria a diretriz.",
+   "Correta: a participação indígena ocorre em todas as etapas e admite expressões formais e informais."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São competências delineadas para a qualificação do agente indígena de saúde. Analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Desenvolver, isoladamente e exclusivamente, ações de promoção da saúde e cidadania, considerando o território socioambiental, os contextos interculturais e intersetoriais e a qualidade de vida da população indígena.\n( ) Realizar, em equipe, ações de prevenção de doenças e agravos, e de recuperação da saúde, fundamentadas no ciclo de vida, no perfil epidemiológico da população indígena, nas diretrizes e protocolos da atenção básica, articuladas aos cuidados e práticas tradicionais.\n( ) Produzir e analisar informações, fundamentadas no modelo de vigilância em saúde, incorporando a percepção da comunidade indígena sobre o processo saúde-doença, para subsidiar o planejamento das ações em equipe e o controle social.\n( ) Organizar e desenvolver o processo de trabalho em equipe, considerando seu espaço de atuação, a área de abrangência de seu Pólo-Base, a organização do DSEI, a articulação intersetorial e a rede de referência do SUS, com base na atenção diferenciada à saúde.\n( ) Realizar ações de primeiros socorros, considerando também as práticas e saberes tradicionais, visando à preservação da vida.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - F - F - V - V",
+   "F - V - F - F - F",
+   "F - V - V - V - V",
+   "V - F - V - F - V",
+   "F - V - F - V - F"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Política Nacional de Atenção à Saúde dos Povos Indígenas (Portaria MS 254/2002), preparação de recursos humanos e Agentes Indígenas de Saúde",
+  "coment": "As competências delineadas para a qualificação do Agente Indígena de Saúde colocam o AIS como membro da equipe multidisciplinar do polo-base. Ele realiza em equipe ações de prevenção e recuperação baseadas no ciclo de vida e no perfil epidemiológico, articuladas às práticas tradicionais; produz e analisa informações com base na vigilância em saúde, incorporando a percepção da comunidade; organiza o trabalho considerando polo-base, DSEI e rede do SUS; e faz primeiros socorros, considerando os saberes tradicionais. O primeiro item é falso porque fala em agir isolada e exclusivamente, quando a promoção da saúde também é feita em equipe e de forma intersetorial.",
+  "porAlt": [
+   "Errada: o primeiro item é falso pelo isoladamente e exclusivamente, e o segundo e o terceiro são verdadeiros.",
+   "Errada: só o primeiro item é falso; o terceiro, o quarto e o quinto também são competências do AIS.",
+   "Correta: apenas o primeiro item é falso, porque o AIS atua em equipe, não isolada e exclusivamente.",
+   "Errada: o primeiro item é falso, e o segundo e o quarto são verdadeiros.",
+   "Errada: o terceiro e o quinto itens são competências reais do AIS."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta qual modelo é considerado um dos marcos da reforma educacional brasileira estabelecida pela Lei de Diretrizes e Bases da Educação Nacional.",
+  "alts": [
+   "Modelo de trabalho como ferramenta de planejamento sucessório",
+   "Modelo de trabalho híbrido",
+   "Modelo de competência como princípio organizador dos processos educativos",
+   "Modelo de incentivo a autonomia e a descoberta",
+   "Modelo de educação como processo de ensino-aprendizagem"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 9.394/1996 (LDB); Parecer CNE/CEB 16/1999 (Diretrizes Curriculares Nacionais da Educação Profissional de Nível Técnico)",
+  "coment": "A reforma educacional que se seguiu à Lei de Diretrizes e Bases (Lei 9.394/1996) adotou a noção de competência como princípio organizador dos currículos, sobretudo na educação profissional, com as diretrizes curriculares do Parecer CNE/CEB 16/1999. Competência é a capacidade de mobilizar conhecimentos, habilidades e atitudes para resolver situações do trabalho. Esse modelo orienta os cursos de qualificação de agentes de saúde, inclusive os indígenas. As demais alternativas são termos de gestão de pessoas (planejamento sucessório, trabalho híbrido) ou expressões genéricas sobre ensino, que não marcam a reforma.",
+  "porAlt": [
+   "Errada: planejamento sucessório é ferramenta de gestão de pessoas, não marco da reforma educacional.",
+   "Errada: trabalho híbrido é modalidade de organização do trabalho, sem relação com a LDB.",
+   "Correta: o modelo de competência passou a organizar os processos educativos após a LDB de 1996.",
+   "Errada: autonomia e descoberta são princípios pedagógicos gerais, não o marco citado da reforma.",
+   "Errada: educação como ensino-aprendizagem é definição genérica, não um modelo introduzido pela reforma."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As competências a serem desenvolvidas no curso de qualificação de agentes indígenas de saúde e agente indígena de saúde de saneamento, deverão contemplar os princípios da interculturalidade, estimulando a apropriação de saberes indígenas e não indígenas, que, de forma conjunta, promoverão a ______ no cotidiano do processo de trabalho desses agentes.\nAssinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "Construção de novos conhecimentos",
+   "Liberdade",
+   "Qualidade de vida",
+   "Constituição de projetos pedagógicos e tecnologias aplicadas à docência",
+   "Construção de marcos ideológicos"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Política Nacional de Atenção à Saúde dos Povos Indígenas (Portaria MS 254/2002), preparação de recursos humanos e articulação com os sistemas tradicionais",
+  "coment": "A qualificação dos agentes indígenas de saúde e de saneamento segue o princípio da interculturalidade: os saberes indígenas e os não indígenas não se substituem, dialogam. A PNASPI (Portaria MS 254/2002) pede a articulação dos sistemas tradicionais indígenas de saúde com a medicina ocidental. Desse encontro resulta a construção de novos conhecimentos no cotidiano do processo de trabalho, que é a expressão que completa a frase. Liberdade e qualidade de vida são valores gerais, projetos pedagógicos e tecnologias de docência são assunto da escola, e marcos ideológicos não são produto do trabalho intercultural.",
+  "porAlt": [
+   "Correta: a apropriação conjunta de saberes indígenas e não indígenas promove a construção de novos conhecimentos.",
+   "Errada: liberdade é valor geral e não descreve o produto da troca de saberes no trabalho.",
+   "Errada: qualidade de vida é objetivo da atenção, não o que a interculturalidade produz no processo de trabalho.",
+   "Errada: projetos pedagógicos e tecnologias de docência são da escola, não do cotidiano do agente.",
+   "Errada: a interculturalidade não visa construir marcos ideológicos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta o propósito da Política Nacional de Atenção à Saúde dos Povos Indígenas.",
+  "alts": [
+   "Garantir aos povos indígenas o acesso à atenção integral à saúde, de acordo com os princípios e diretrizes do Sistema Único de Saúde",
+   "Garantir processos de conversão de intenções políticas em consequências sobre determinados grupos sociais e étnicos",
+   "Avalizar formas de intervenção e normas regulatórias para atendimento às necessidades dos povos indígenas em todos os aspectos desejados",
+   "Garantir políticas distributivas destinadas a grupos específicos da população",
+   "Assegurar direitos especiais a uma forma epistemológica e substantiva para os povos indígenas"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Política Nacional de Atenção à Saúde dos Povos Indígenas (Portaria MS 254/2002), propósito",
+  "coment": "O propósito da PNASPI (Portaria MS 254/2002) é garantir aos povos indígenas o acesso à atenção integral à saúde, de acordo com os princípios e diretrizes do SUS, contemplando a diversidade social, cultural, geográfica, histórica e política, de modo a favorecer a superação dos fatores que os tornam mais vulneráveis e a reconhecer a eficácia de sua medicina e o direito desses povos à sua cultura. As demais alternativas usam linguagem de análise de políticas públicas (conversão de intenções, políticas distributivas, normas regulatórias) que não corresponde ao texto da política.",
+  "porAlt": [
+   "Correta: reproduz o propósito da PNASPI, acesso à atenção integral segundo os princípios e diretrizes do SUS.",
+   "Errada: conversão de intenções políticas em consequências é definição genérica de política pública, não o propósito da PNASPI.",
+   "Errada: avalizar intervenções em todos os aspectos desejados não é o texto nem o espírito da política.",
+   "Errada: política distributiva para grupos específicos é tipologia de políticas públicas, não o propósito declarado.",
+   "Errada: forma epistemológica e substantiva é expressão sem correspondência no texto da PNASPI."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A promoção da saúde bucal do idoso, busca garantir o bem-estar, a melhoria da qualidade de vida e da autoestima, melhorando a mastigação, a estética e a possibilidade de comunicação. A perda dos dentes é o problema mais comum entre os idosos e é chamada na saúde bucal de:",
+  "alts": [
+   "Agenesia dentária",
+   "Edentulismo",
+   "Anodontia",
+   "Hipoplasia do dente",
+   "Esclerose dentária"
+  ],
+  "gab": 1,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 19, Envelhecimento e saúde da pessoa idosa (Ministério da Saúde, 2006); Diretrizes da Política Nacional de Saúde Bucal (Ministério da Saúde, 2004)",
+  "coment": "Edentulismo é a perda dos dentes, parcial ou total, e é o problema bucal mais comum na população idosa brasileira. Prejudica a mastigação e a nutrição, a fala, a estética e a autoestima, por isso a avaliação do idoso inclui a saúde bucal e o uso e a adaptação de próteses (Caderno de Atenção Básica nº 19). As demais são condições de desenvolvimento ou de estrutura dentária: agenesia é a ausência congênita de um ou mais dentes, anodontia é a ausência congênita de todos, hipoplasia é defeito de formação do esmalte, e esclerose dentária é a mineralização da dentina com a idade.",
+  "porAlt": [
+   "Errada: agenesia dentária é a ausência congênita de dentes, não a perda ao longo da vida.",
+   "Correta: edentulismo é a perda de dentes, o problema bucal mais comum no idoso.",
+   "Errada: anodontia é a ausência congênita de todos os dentes, condição rara do desenvolvimento.",
+   "Errada: hipoplasia é defeito de formação do esmalte, não perda dentária.",
+   "Errada: esclerose dentária é a mineralização da dentina, alteração estrutural e não perda do dente."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando mães com diagnóstico de tuberculose ativa e que realizam tratamento adequado, mas é suspeita de estar ainda em fase de contágio, assinale a alternativa que não apresenta as condutas que devem ser tomadas.",
+  "alts": [
+   "Deve-se restringir contato entre mãe e bebê, até terminar o período de investigação da doença, o leite pode ser ordenhado e oferecido ao bebê",
+   "O recém-nascido deve receber Isoniazida até ser testado com PPD (Purified Protein Derivative)",
+   "O recém-nascido não deve ser separado da mãe, realizar o teste PPD a cada três meses durante um ano e a tribo deve ser investigada",
+   "Se o teste tuberculínico for negativo aos 3 meses de idade, a Isoniazida deve ser descontinuada e o BCG aplicado",
+   "Nas primeiras duas semanas de terapia antituberculosa, a mãe poderá amamentar o bebê com uso de máscara, sendo necessário assegurar a aderência materna ao tratamento"
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada (Ministério da Saúde, 2019); Cadernos de Atenção Básica nº 23 (Ministério da Saúde, 2015)",
+  "coment": "Pelo Manual de Tuberculose (MS, 2019), o recém-nascido coabitante de caso bacilífero não recebe a BCG ao nascer: faz quimioprofilaxia primária, classicamente com isoniazida por três meses, e então a prova tuberculínica. Se a PT for negativa (abaixo de 5 mm), suspende-se o fármaco e aplica-se a BCG; se positiva, completa-se o tratamento após excluir doença ativa. A amamentação é mantida, e nas primeiras semanas de tratamento a mãe usa máscara. A alternativa C foge disso: não há PPD trimestral por um ano, e a conduta não é manter o RN sem quimioprofilaxia. As alternativas A, B, D e E descrevem cuidados previstos no material da banca.",
+  "porAlt": [
+   "Errada: restringir o contato enquanto se investiga, oferecendo o leite ordenhado, é conduta descrita para a mãe ainda em fase de contágio.",
+   "Errada: o RN coabitante de bacilífero recebe isoniazida até fazer a prova tuberculínica.",
+   "Correta: PPD a cada três meses por um ano não é a conduta; o RN faz quimioprofilaxia e uma prova tuberculínica ao fim dela.",
+   "Errada: PT negativa aos 3 meses leva a suspender a isoniazida e aplicar a BCG.",
+   "Errada: nas primeiras semanas de tratamento a mãe pode amamentar com máscara, garantindo adesão ao tratamento."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As doenças parasitárias não configuram como contraindicação para a amamentação, exceto:",
+  "alts": [
+   "Doença de Chagas",
+   "Doença do enxerto contra o hospedeiro",
+   "Malária",
+   "Esquistossomose",
+   "Toxoplasmose"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Puerpério e aleitamento",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Saúde da criança: aleitamento materno e alimentação complementar, Cadernos de Atenção Básica nº 23, 2ª ed. (Ministério da Saúde, 2015)",
+  "coment": "O Caderno de Atenção Básica nº 23 lista as situações que contraindicam ou interrompem a amamentação. Entre as doenças parasitárias, a doença de Chagas é a exceção: a amamentação é contraindicada na fase aguda ou quando há sangramento mamilar evidente, pelo risco de passagem do Trypanosoma cruzi. Malária, esquistossomose e toxoplasmose não contraindicam o aleitamento. A doença do enxerto contra o hospedeiro nem é parasitária: é complicação imunológica de transplante. Fora das contraindicações formais, como HIV e HTLV, a regra é manter a amamentação e tratar a mãe.",
+  "porAlt": [
+   "Correta: na doença de Chagas a amamentação é contraindicada na fase aguda ou com sangramento mamilar.",
+   "Errada: a doença do enxerto contra o hospedeiro é imunológica, não parasitária.",
+   "Errada: a malária não contraindica a amamentação; trata-se a mãe com fármaco compatível.",
+   "Errada: a esquistossomose não é transmitida pelo leite e não impede o aleitamento.",
+   "Errada: a toxoplasmose materna não contraindica a amamentação."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a secretaria especial de saúde indígena (SESAI), analise as afirmativas abaixo.\nI. Em sua atuação, a SESAI a leva em consideração a diversidade das medicinas tradicionais indígenas, articulando as estratégias do sistema oficial de saúde e dos saberes e práticas indígenas.\nII. Garante com essas estratégias articuladas que sejam elaboradas no âmbito local a partir do diálogo intercultural estabelecido com os diferentes sujeitos e comunidades indígenas, de modo a contemplar suas especificidades.\nIII. A SESAI é a única instituição que alcança todas as comunidades indígenas, apesar das dificuldades de acesso.\nIV. O escopo de trabalho da SESAI vai desde prestar serviços de saúde a povos indígenas que vivem em territórios próximos a grandes centros urbanos a prestar serviços a povos isolados e de recente contato.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I, II, III e IV",
+   "I, II e III apenas",
+   "II, III e IV apenas",
+   "III e IV apenas",
+   "I, II e IV apenas"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, arts. 19-A a 19-H (incluídos pela Lei 9.836/1999); Política Nacional de Atenção à Saúde dos Povos Indígenas (Portaria MS 254/2002)",
+  "coment": "A Secretaria de Saúde Indígena (SESAI) coordena a PNASPI e o Subsistema de Atenção à Saúde Indígena. Sua atuação considera a diversidade das medicinas tradicionais indígenas e articula o sistema oficial com os saberes e práticas indígenas, em estratégias construídas localmente pelo diálogo intercultural com cada povo. Por meio dos 34 DSEI, é a única instituição do Estado que alcança todas as comunidades indígenas, apesar das dificuldades de acesso, e atende desde povos que vivem perto de grandes centros urbanos até povos isolados e de recente contato. As quatro afirmativas estão corretas.",
+  "porAlt": [
+   "Correta: as quatro afirmativas descrevem a atuação da SESAI, da articulação intercultural ao alcance de todas as comunidades.",
+   "Errada: exclui o item IV, que descreve corretamente o escopo da SESAI, do urbano ao isolado.",
+   "Errada: exclui o item I, que trata corretamente da articulação com as medicinas tradicionais.",
+   "Errada: I e II também estão corretos, porque refletem o diálogo intercultural da PNASPI.",
+   "Errada: o item III também é correto, porque a SESAI chega a todas as comunidades pelos DSEI."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Indígena",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A garantia do direito constitucional à saúde inclui o cuidado à saúde mental. Assinale a alternativa que apresenta de maneira incorreta quais princípios a política de saúde mental se pauta no Brasil.",
+  "alts": [
+   "A desinsititucionalização",
+   "O cuidado em liberdade",
+   "A institucionalização",
+   "Os direitos humanos",
+   "Monitoramento do atendimento embasado em evidências científicas"
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Lei 10.216/2001 e reforma psiquiátrica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 10.216/2001; Portaria GM/MS 757/2023 (revogou a Portaria 3.588/2017)",
+  "coment": "A política de saúde mental brasileira, fundada na Lei 10.216/2001, protege os direitos das pessoas com transtorno mental e redireciona o modelo para serviços comunitários. Seus princípios são a desinstitucionalização, o cuidado em liberdade, a garantia dos direitos humanos e um cuidado acompanhado e baseado em evidências. A internação, em qualquer modalidade, só é indicada quando os recursos extra-hospitalares forem insuficientes (art. 4º), e é vedada em instituições com características asilares. A Portaria GM/MS 757/2023 revogou a 3.588/2017 e retirou o hospital psiquiátrico da RAPS. A institucionalização é o oposto do que a política propõe.",
+  "porAlt": [
+   "Errada: a desinstitucionalização é o eixo da reforma psiquiátrica e princípio da política.",
+   "Errada: o cuidado em liberdade, em serviços abertos e territoriais, é princípio da política.",
+   "Correta: a institucionalização é o modelo que a Lei 10.216/2001 busca superar, não um princípio.",
+   "Errada: os direitos humanos das pessoas com transtorno mental são o fundamento da Lei 10.216/2001.",
+   "Errada: o monitoramento com base em evidências científicas integra a política de saúde mental."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Mental",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o trecho abaixo: A ______ trata-se do conjunto de atividades e comportamentos que são exigidos na atividade profissional, e que geralmente não são codificados em regulamentação jurídica. Dessa forma, refere-se aos deveres da enfermagem durante sua atuação profissional nos diferentes serviços e diversos níveis de complexidade. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "deontologia",
+   "ética",
+   "bioética",
+   "biossegurança",
+   "sistematização da Assistência de Enfermagem"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 5.905/1973, art. 8º, III (Código de Deontologia); Resolução COFEN 564/2017",
+  "coment": "Deontologia é o estudo dos deveres próprios de uma profissão, o conjunto de condutas exigidas no exercício profissional. A Lei 5.905/1973 dá ao COFEN a competência de elaborar o Código de Deontologia de Enfermagem, hoje o Código de Ética da Res. COFEN 564/2017, com seus capítulos de direitos, deveres e proibições. Ética é a reflexão mais ampla sobre valores e o agir humano; bioética trata dos dilemas morais da vida e da saúde; biossegurança é o conjunto de medidas contra riscos biológicos, químicos e físicos; e a sistematização da assistência organiza o trabalho de enfermagem. O trecho fala de deveres profissionais, por isso deontologia.",
+  "porAlt": [
+   "Correta: deontologia é o conjunto dos deveres de conduta no exercício da profissão.",
+   "Errada: ética é a reflexão filosófica sobre valores, mais ampla que os deveres de uma profissão.",
+   "Errada: bioética trata de dilemas morais da vida e da saúde, não do rol de deveres profissionais.",
+   "Errada: biossegurança reúne medidas de proteção contra riscos, não deveres de conduta.",
+   "Errada: a sistematização da assistência organiza o trabalho de enfermagem, não define deveres."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Mental",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A esquizofrenia é um transtorno mental grave, crônico e debilitante. Os antipsicóticos representam o pilar para o tratamento. O Sistema Único de Saúde (SUS) fornece antipsicóticos convencionais e atípicos. Dentre os antipsicóticos atípicos citados, assinale a alternativa incorreta.",
+  "alts": [
+   "Quetiapina",
+   "Olanzapina",
+   "Clorpromazina",
+   "Risperidona",
+   "Clozapina"
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Protocolo Clínico e Diretrizes Terapêuticas da Esquizofrenia (Portaria SAS/MS 364/2013)",
+  "coment": "Os antipsicóticos se dividem em típicos, de primeira geração, e atípicos, de segunda geração. A clorpromazina é típica de baixa potência, assim como o haloperidol é típico de alta potência. O PCDT da Esquizofrenia (Portaria SAS/MS 364/2013) disponibiliza no componente especializado os atípicos risperidona, quetiapina, olanzapina, ziprasidona e clozapina, esta reservada à esquizofrenia refratária e ao risco de suicídio, com hemograma periódico pelo risco de agranulocitose. Os atípicos causam menos sintomas extrapiramidais e exigem vigilância metabólica.",
+  "porAlt": [
+   "Errada: a quetiapina é antipsicótico atípico disponível no PCDT.",
+   "Errada: a olanzapina é atípica e exige controle de peso e glicemia.",
+   "Correta: a clorpromazina é antipsicótico típico, de primeira geração.",
+   "Errada: a risperidona é atípica, geralmente primeira escolha no PCDT.",
+   "Errada: a clozapina é atípica, indicada na esquizofrenia refratária."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Mental",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação a segurança do paciente enfatizamos a comunicação efetiva como meta a ser atingida pela equipe interdisciplinar. Diante do exposto, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) A comunicação efetiva proporciona um ambiente de trabalho harmonioso com assistência livre de danos.\n( ) A comunicação efetiva é o elo de interação que fortalece o vínculo entre a equipe interdisciplinar e o cliente.\n( ) Falhas de comunicação tem sido um dos principais fatores que contribuem para a ocorrência de eventos adversos e, consequentemente, a melhoria da qualidade dos cuidados.\n( ) A comunicação efetiva, deve ser inoportuna, precisa, completa, sem ambiguidade e compreendida pelo receptor.\n( ) Vários fatores podem influenciar na comunicação em instituições de saúde: complexidade do cuidado, diversidade na formação profissional, efeito da hierarquia, número inadequado de profissionais.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - F - F - V",
+   "V - V - V - F - V",
+   "V - V - F - V - V",
+   "V - V - F - V - F",
+   "V - F - F - F - V"
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 8º; Programa Nacional de Segurança do Paciente (Portaria MS 529/2013); metas internacionais de segurança da JCI",
+  "coment": "Melhorar a comunicação efetiva é a segunda meta internacional de segurança do paciente e item obrigatório do Plano de Segurança do Paciente (RDC 36/2013, art. 8º). Ela favorece ambiente harmonioso e assistência livre de danos, e fortalece o vínculo da equipe com o paciente: itens 1 e 2 verdadeiros. Falhas de comunicação estão entre as principais causas de eventos adversos e, por isso, pioram a qualidade do cuidado, e não a melhoram: item 3 falso. A comunicação efetiva deve ser oportuna, precisa, completa, sem ambiguidade e compreendida pelo receptor; inoportuna torna o item 4 falso. Complexidade, formação diversa, hierarquia e falta de pessoal influenciam a comunicação: item 5 verdadeiro.",
+  "porAlt": [
+   "Correta: a sequência V, V, F, F, V separa o erro de melhoria da qualidade e a palavra inoportuna.",
+   "Errada: o item 3 é falso, porque falhas de comunicação reduzem a qualidade dos cuidados.",
+   "Errada: o item 4 é falso, já que a comunicação efetiva deve ser oportuna.",
+   "Errada: o item 4 é falso e o item 5, sobre fatores que influenciam a comunicação, é verdadeiro.",
+   "Errada: o item 2 é verdadeiro, porque a comunicação fortalece o vínculo entre equipe e paciente."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde Mental",
+   "n": 46,
+   "parte": "especificas"
+  }
+ }
+]

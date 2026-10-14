@@ -1,0 +1,1442 @@
+[
+ {
+  "q": "Considerando os níveis de complexidade na Assistência Domiciliar, assinale a alternativa que apresenta qual atividade está associada ao grau de \"Média Complexidade\".",
+  "alts": [
+   "Internação domiciliar",
+   "Consulta ambulatorial",
+   "Visita domiciliar",
+   "Administração de medicamentos",
+   "Procedimentos cirúrgicos"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Resolução COFEN 766/2024, art. 1º, § 2º; Portaria GM/MS 3.005/2024 (Serviço de Atenção Domiciliar)",
+  "coment": "A banca escalona as atividades da assistência domiciliar pelo grau de complexidade. A visita domiciliar é o contato pontual de avaliação e plano, de baixa complexidade; a internação domiciliar oferece cuidado contínuo com tecnologia semelhante à hospitalar (Res. COFEN 766/2024, art. 1º, § 2º, II), de alta complexidade. No meio fica o procedimento técnico periódico, como a administração de medicamentos. É a mesma lógica das modalidades AD1, AD2 e AD3, que crescem com a frequência de visitas e a densidade tecnológica. Consulta ambulatorial não é domiciliar, e cirurgia não se faz em casa.",
+  "porAlt": [
+   "Errada: internação domiciliar é o grau mais alto, com cuidado contínuo e tecnologia semelhante à do hospital.",
+   "Errada: consulta ambulatorial acontece no serviço de saúde e não é atividade da assistência domiciliar.",
+   "Errada: visita domiciliar é contato pontual de avaliação e plano, o grau de menor complexidade.",
+   "Correta: administração de medicamentos é procedimento técnico periódico, de complexidade intermediária.",
+   "Errada: procedimentos cirúrgicos não se realizam no domicílio e não compõem a escala da atenção domiciliar."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando a estrutura e os componentes envolvidos na assistência domiciliar, assinale a alternativa que apresenta o papel fundamental do cuidador nesse contexto.",
+  "alts": [
+   "Realizar a avaliação médica do paciente",
+   "Decidir pela alta hospitalar",
+   "Administrar medicamentos intravenosos",
+   "Prestar suporte emocional e auxiliar nas tarefas simples do paciente",
+   "Gerenciar a estrutura hospitalar"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Caderno de Atenção Domiciliar, volume 1 (2012)",
+  "coment": "Cuidador é a pessoa, da família ou não, com ou sem remuneração, que cuida do paciente dependente no dia a dia. Na atenção domiciliar ele é o elo entre paciente e equipe: ajuda nas atividades de vida diária (higiene, alimentação, mobilização, medicação oral conforme orientação), oferece apoio emocional e comunica alterações à equipe, que o treina e acompanha. Avaliação médica, decisão de alta e medicação intravenosa são atos de profissionais habilitados, e gerenciar a estrutura hospitalar não faz parte do papel dele.",
+  "porAlt": [
+   "Errada: a avaliação médica é ato do médico da equipe, não do cuidador.",
+   "Errada: a decisão de alta hospitalar é da equipe de saúde, não do cuidador.",
+   "Errada: medicação intravenosa exige profissional habilitado e não é tarefa do cuidador.",
+   "Correta: o cuidador dá suporte emocional e ajuda nas tarefas do dia a dia, orientado pela equipe.",
+   "Errada: gerenciar a estrutura hospitalar é função de gestão, sem relação com o cuidado domiciliar."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando as modalidades de atendimentos da assistência domiciliar definidas na Resolução COFEN N°464/2014, a definição correta para a Internação Domiciliar é:",
+  "alts": [
+   "prestação de cuidados de forma integral e contínua, no domicílio, com oferta de tecnologia e recursos humanos, exclusivamente para pacientes crônicos",
+   "atividades educativas realizadas exclusivamente no domicílio do usuário do sistema de saúde",
+   "contato pontual de equipe de enfermagem para avaliação das demandas exigidas pelo usuário, sem estabelecer um plano assistencial",
+   "atenção no domicílio do usuário que necessita de cuidados técnicos, realizada apenas por enfermeiros autônomos",
+   "participação do Técnico de Enfermagem na execução da atenção domiciliar de enfermagem de forma autônoma, sem supervisão do Enfermeiro"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Resoluções do COFEN",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 766/2024, art. 1º, § 2º e § 6º (revogou a Resolução COFEN 464/2014)",
+  "coment": "A questão cita a Res. COFEN 464/2014, revogada pela Res. COFEN 766, de 5 de novembro de 2024 (art. 7º), que manteve a definição. Internação domiciliar é a prestação de cuidados sistematizados de forma integral e contínua, até ininterrupta, no domicílio, com oferta de tecnologia, recursos humanos, equipamentos, materiais e medicamentos, para pacientes que demandam assistência semelhante à hospitalar (art. 1º, § 2º, II). A alternativa A é a única com esse núcleo, mas o trecho final erra: a norma não restringe a internação domiciliar a doentes crônicos. Visita domiciliar visa estabelecer um plano assistencial (inciso III), e o técnico atua sob supervisão do enfermeiro (§ 6º).",
+  "porAlt": [
+   "Correta: cuidado integral e contínuo no domicílio, com tecnologia e recursos humanos; a restrição a crônicos, porém, não está na norma.",
+   "Errada: atividades educativas compõem o atendimento domiciliar e não definem a internação domiciliar.",
+   "Errada: distorce a visita domiciliar, que pela norma visa justamente estabelecer um plano assistencial.",
+   "Errada: a atenção domiciliar não é exclusiva de enfermeiros autônomos; inclui instituições públicas, privadas e filantrópicas.",
+   "Errada: o técnico participa da atenção domiciliar sob supervisão e orientação do enfermeiro, nunca de forma autônoma."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando as diferentes ações do enfermeiro na atenção domiciliar, assinale a alternativa que apresenta uma ação educacional realizada por esse profissional.",
+  "alts": [
+   "Administração de medicamentos e procedimentos técnicos",
+   "Gestão da dor e manejo clínico de feridas",
+   "Supervisão clínica e administrativa",
+   "Orientações a familiares, cuidadores e/ou pacientes",
+   "Avaliação de riscos, prevenção e complicações"
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Educação em saúde",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Resolução COFEN 766/2024, art. 1º, § 2º, I",
+  "coment": "Ação educacional é a que transmite conhecimento e desenvolve autonomia para o autocuidado. Na atenção domiciliar o enfermeiro orienta paciente, família e cuidador sobre medicação, alimentação, prevenção de lesão por pressão, manuseio de sondas e de oxigênio e sinais de alerta, e a Res. COFEN 766/2024 inclui as ações educativas no atendimento domiciliar (art. 1º, § 2º, I). Administrar medicamentos, tratar feridas e manejar a dor são ações assistenciais; supervisão é ação gerencial; avaliar riscos faz parte da avaliação do Processo de Enfermagem.",
+  "porAlt": [
+   "Errada: administrar medicamentos e fazer procedimentos técnicos são ações assistenciais, não educativas.",
+   "Errada: gestão da dor e manejo de feridas são intervenções clínicas assistenciais.",
+   "Errada: supervisão clínica e administrativa é ação gerencial do enfermeiro.",
+   "Correta: orientar familiares, cuidadores e pacientes é a ação educativa típica do enfermeiro no domicílio.",
+   "Errada: avaliar riscos e prevenir complicações é avaliação e intervenção clínica, não ação educativa."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando as competências privativas do enfermeiro na Assistência Domiciliar, assinale a alternativa que está de acordo com a Resolução COFEN Nº 464/2014.",
+  "alts": [
+   "O enfermeiro não é responsável pela capacitação da equipe de enfermagem que atua na realização de cuidados no ambiente domiciliar, sendo responsável o gestor do município",
+   "O registro da atenção domiciliar de enfermagem não precisa envolver um resumo dos dados coletados sobre a pessoa e família",
+   "O enfermeiro tem o papel de planejar, organizar, coordenar, supervisionar e avaliar a prestação da assistência de enfermagem no contexto domiciliar e incluir o cuidador e família em participação nos programas de higiene e segurança do trabalho e de prevenção de acidentes e de doenças profissionais e do trabalho",
+   "O registro da atenção domiciliar deve envolver um resumo dos dados coletados, diagnósticos de enfermagem, resultados esperados, ações realizadas, resultados alcançados e intercorrências",
+   "A coleta de dados de Histórico de Enfermagem não é uma etapa do Processo de Enfermagem na Assistência Domiciliar"
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Resoluções do COFEN",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 766/2024, arts. 2º, 4º e 5º (revogou a Resolução COFEN 464/2014)",
+  "coment": "A questão cita a Res. COFEN 464/2014, revogada pela Res. COFEN 766/2024, que manteve a regra. Pelo art. 5º, § 1º, da 766, o registro da atenção domiciliar de enfermagem envolve o relato dos dados coletados sobre usuário, família e rede de apoio, os diagnósticos de enfermagem, o planejamento com resultados esperados, as intervenções realizadas, a evolução e as intercorrências, em prontuário mantido na instituição e no domicílio. Capacitar continuamente a equipe é privativo do enfermeiro (art. 2º, VII), e a atenção domiciliar segue o Processo de Enfermagem da Res. 736/2024 (art. 4º), cuja primeira etapa hoje se chama Avaliação.",
+  "porAlt": [
+   "Errada: capacitar a equipe de enfermagem que atua no domicílio é competência privativa do enfermeiro, não do gestor municipal.",
+   "Errada: o registro deve trazer o relato dos dados coletados sobre a pessoa, a família e a rede de apoio.",
+   "Errada: planejar e coordenar é do enfermeiro, mas incluir cuidador e família em programas de segurança do trabalho não é atribuição prevista; esses programas se dirigem aos trabalhadores.",
+   "Correta: o registro reúne dados coletados, diagnósticos, resultados esperados, ações realizadas, resultados alcançados e intercorrências.",
+   "Errada: a coleta de dados é a primeira etapa do Processo de Enfermagem, hoje chamada Avaliação na Res. COFEN 736/2024."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando as informações sobre a descontinuidade de plantão na área de enfermagem em assistência domiciliar, assinale a alternativa que descreve corretamente as possíveis penalidades para o profissional que abandona o plantão de forma não justificada.",
+  "alts": [
+   "O profissional que abandona o plantão pode enfrentar apenas uma advertência ética, sem outras penalidades",
+   "A descontinuidade de plantão não é considerada uma infração ética, portanto, não há penalidades para o profissional",
+   "O abandono de plantão pode resultar em penalidades como advertência, suspensão, censura ou cassação do registro profissional, a depender da gravidade do paciente e possíveis consequências do abandono",
+   "O enfermeiro responsável é isento de responsabilidade em casos de descontinuidade de plantão, apenas os profissionais diretamente envolvidos são passíveis de penalidades",
+   "A descontinuidade de plantão é considerada um direito do profissional, e não há penalidades associadas a essa decisão"
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Responsabilidade civil, penal e ética",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), arts. 45, 105 e 108",
+  "coment": "Abandonar o plantão sem justificativa deixa o paciente sem assistência e o expõe a dano por negligência, o que fere o dever de prestar assistência livre de imperícia, negligência ou imprudência (Res. COFEN 564/2017, art. 45). As penas do art. 108 são advertência verbal, multa, censura, suspensão por até 90 dias e cassação por até 30 anos, e a gradação considera a gravidade, o dano e os antecedentes (arts. 110 e 111). Responde também quem contribui ou é conivente com a infração (art. 105). Descontinuar o cuidado sem garantir a substituição não é direito do profissional.",
+  "porAlt": [
+   "Errada: a penalidade não se limita à advertência; pode chegar a suspensão ou cassação conforme a gravidade.",
+   "Errada: abandonar o plantão é infração ética, porque deixa o paciente sem assistência.",
+   "Correta: as penas vão da advertência à cassação e são graduadas pela gravidade e pelas consequências.",
+   "Errada: o enfermeiro responsável responde se contribuiu ou foi conivente com a infração (art. 105).",
+   "Errada: não existe direito de descontinuar o cuidado sem garantir a continuidade da assistência."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base nos princípios dos cuidados paliativos, assinale a alternativa que descreve corretamente um desses princípios.",
+  "alts": [
+   "Os cuidados paliativos priorizam exclusivamente o tratamento modificador da doença, deixando de lado aspectos psicológicos, sociais e espirituais",
+   "O direito do paciente de escolher entre os tratamentos, incluindo aqueles que podem prolongar ou não a vida, não é considerado um princípio dos cuidados paliativos",
+   "A comunicação clara e cuidadosa com pacientes, famílias e cuidadores não é um princípio essencial dos cuidados paliativos",
+   "O controle impecável da dor e de outros sintomas de sofrimento físico não é um objetivo prioritário dos cuidados paliativos",
+   "Proporcionar acesso ao apoio terapêutico que abrange o espectro de vida, melhorando a qualidade de vida percebida pelo paciente, pela família e pelos cuidadores é um princípio dos cuidados paliativos"
+  ],
+  "gab": 4,
+  "tema": "idoso",
+  "sub": "Cuidados paliativos",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 3.681/2024 (Política Nacional de Cuidados Paliativos), art. 2º; conceito da OMS de 2002",
+  "coment": "Pela OMS (2002), cuidado paliativo melhora a qualidade de vida de pacientes e famílias diante de doença que ameaça a vida, com alívio da dor e de outros sintomas, integração dos aspectos psicológicos e espirituais e um sistema de suporte que ajuda o paciente a viver tão ativamente quanto possível e apoia a família no luto. A alternativa E resume esse princípio de suporte ao longo de toda a trajetória. A Política Nacional de Cuidados Paliativos (Portaria GM/MS 3.681/2024, art. 2º) traz ainda a autonomia, o início precoce junto ao tratamento da doença e o sofrimento nas dimensões física, psicoemocional, espiritual e social.",
+  "porAlt": [
+   "Errada: o cuidado paliativo integra aspectos psicológicos, sociais e espirituais e não é só tratamento da doença.",
+   "Errada: a autonomia do paciente na escolha dos tratamentos é princípio da política nacional.",
+   "Errada: a comunicação clara com paciente, família e cuidadores é essencial ao cuidado paliativo.",
+   "Errada: o controle impecável da dor e dos sintomas é objetivo central dos cuidados paliativos.",
+   "Correta: oferecer suporte ao longo da trajetória, melhorando a qualidade de vida de paciente, família e cuidadores, é princípio."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A equipe de Atenção Domiciliar deve realizar treinamento e orientações com pacientes/ familiares/ cuidadores quanto aos riscos e ao manuseio do equipamento de oxigenoterapia no domicílio. Assinale a alternativa que apresenta um exemplo de risco físico associado à oxigenoterapia domiciliar prolongada (ODP).",
+  "alts": [
+   "Riscos de ordem emocional devido ao isolamento social",
+   "Riscos financeiros relacionados ao custo da oxigenoterapia",
+   "Riscos ambientais causados pela presença do equipamento no domicílio",
+   "Riscos físicos como incêndios e explosões",
+   "Riscos de interações medicamentosas com o uso de oxigênio"
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Oxigenoterapia e vias aéreas",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Caderno de Atenção Domiciliar, volume 2 (2013), oxigenoterapia domiciliar",
+  "coment": "O oxigênio não é inflamável, mas é comburente: concentrado no ambiente, faz qualquer faísca ou chama queimar com intensidade, e o cilindro sob pressão pode explodir com calor ou queda. Por isso a equipe de atenção domiciliar orienta não fumar nem acender chama perto do equipamento, manter cilindro e concentrador longe do fogão e de fontes de calor, presos e em local ventilado, sem óleo ou graxa nas válvulas, e conferir conexões e o fluxo prescrito. Isolamento, custo e ambiente são riscos de outra natureza, e o oxigênio não tem interação medicamentosa no sentido clássico.",
+  "porAlt": [
+   "Errada: o isolamento social é risco emocional, não físico.",
+   "Errada: o custo da oxigenoterapia é risco financeiro, não físico.",
+   "Errada: a questão pede risco físico; a presença do equipamento em si não é o risco de incêndio citado.",
+   "Correta: o oxigênio é comburente, e incêndio e explosão são os riscos físicos da oxigenoterapia em casa.",
+   "Errada: o oxigênio não causa interação medicamentosa no sentido clássico; o risco cobrado é o físico."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta qual medida não é recomendada para a equipe de Atenção Domiciliar (AD) em locais de alto índice de violência urbana.",
+  "alts": [
+   "Garantir o reconhecimento visual da equipe por meio de uniformes e crachás",
+   "Propiciar horários de atendimento em períodos com maior circulação da população",
+   "Solicitar a presença de agentes comunitários de Saúde para facilitar o acesso da equipe",
+   "Realizar visitas individuais para evitar chamar a atenção da população",
+   "Estar em duplas durante as visitas, com a viatura de transporte à espera dos profissionais"
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Caderno de Atenção Domiciliar, volume 1 (2012)",
+  "coment": "Em áreas de violência urbana, a orientação é tornar a equipe reconhecível e acompanhada, nunca isolada. Recomenda-se uniforme e crachá, horários de maior circulação de pessoas, apoio do agente comunitário de saúde, que conhece o território e a comunidade, e visitas em dupla com a viatura aguardando a saída. Visitar sozinho não reduz a atenção sobre a equipe: aumenta a vulnerabilidade do profissional e dificulta a reação diante de uma ameaça. Por isso é a medida não recomendada.",
+  "porAlt": [
+   "Errada: uniforme e crachá facilitam o reconhecimento da equipe e são recomendados.",
+   "Errada: atender nos horários de maior circulação de pessoas é medida de proteção recomendada.",
+   "Errada: o agente comunitário conhece o território e facilita o acesso seguro da equipe.",
+   "Correta: a visita individual aumenta a vulnerabilidade do profissional e não é recomendada.",
+   "Errada: estar em dupla, com a viatura à espera, é medida de segurança recomendada."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com a expansão e a qualificação da AD, aumenta-se consideravelmente a população em cuidados no domicílio, tanto no contexto de doenças agudas como crônicas. Neste processo, é necessário reconhecer a possibilidade de intercorrências com agravos no curso do tratamento. Assinale a alternativa que apresenta porque é importante que o Serviço de Atenção Domiciliar organize seu processo de trabalho de maneira a facilitar a comunicação entre pacientes, cuidadores e profissionais envolvidos no atendimento.",
+  "alts": [
+   "Para garantir a carga horária de trabalho dos profissionais de saúde",
+   "Para reduzir a necessidade de visitas médicas, de enfermagem ou por algum outro membro da equipe interdisciplinar",
+   "Para evitar a detecção precoce de intercorrências",
+   "Para dificultar o acesso à central do Serviço de Atenção Domiciliar",
+   "Para antecipar-se às complicações e tomar condutas resolutivas imediatas"
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 3.005/2024 (Serviço de Atenção Domiciliar e Programa Melhor em Casa); Caderno de Atenção Domiciliar, volume 1 (2012)",
+  "coment": "Na atenção domiciliar a equipe não está presente o tempo todo, então paciente e cuidador precisam reconhecer sinais de alerta e ter um canal rápido com o serviço: telefone da central, plano para intercorrências e fluxo para o SAMU 192. Comunicação organizada permite detectar cedo a piora e agir de imediato, com visita extra, ajuste de conduta ou remoção, o que evita complicações e internações. Ela não existe para garantir carga horária nem para reduzir visitas, e evitar a detecção ou dificultar o acesso seria o oposto do objetivo.",
+  "porAlt": [
+   "Errada: a comunicação serve ao cuidado do paciente, não à carga horária dos profissionais.",
+   "Errada: o objetivo não é reduzir visitas, e a comunicação pode até gerar visitas extras quando há piora.",
+   "Errada: a comunicação existe justamente para permitir a detecção precoce das intercorrências.",
+   "Errada: o serviço deve facilitar, e não dificultar, o acesso de pacientes e cuidadores à central.",
+   "Correta: a comunicação ágil permite antecipar complicações e tomar condutas resolutivas imediatas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Crise Convulsiva é a forma mais frequente da manifestação epiléptica, resultante de uma atividade elétrica anormal das células cerebrais. Assinale a alternativa que apresenta de maneira incorreta o primeiro passo indicado para as medidas de intervenção no domicílio em caso de uma crise tônico-clônica confirmada.",
+  "alts": [
+   "Certificar se o paciente não é epiléptico",
+   "Medir glicemia capilar",
+   "Realizar a oximetria se possível",
+   "Proteger contra quedas",
+   "Monitorar sinais vitais"
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Protocolos de Intervenção para o SAMU 192, Suporte Básico de Vida (Ministério da Saúde, 2016), crise convulsiva; ILAE, definição de estado de mal epiléptico (2015)",
+  "coment": "O enunciado pede o item que NÃO é passo indicado na crise tônico-clônica no domicílio. Durante a crise, a prioridade é proteger o paciente: afastar objetos, apoiar a cabeça, evitar queda e trauma, lateralizar e não introduzir nada na boca. Em seguida vêm oximetria e oxigênio se possível, sinais vitais, glicemia capilar para afastar hipoglicemia e a cronometragem: crise tônico-clônica acima de 5 minutos é tratada como estado de mal epiléptico (ILAE, 2015). Verificar se o paciente é epiléptico não muda a conduta imediata e não é medida de intervenção, por isso é a incorreta.",
+  "porAlt": [
+   "Correta: saber se o paciente é epiléptico não altera a conduta imediata nem é medida de intervenção.",
+   "Errada: a glicemia capilar é indicada, porque a hipoglicemia causa crise e tem tratamento imediato.",
+   "Errada: a oximetria, quando possível, é indicada para avaliar a oxigenação durante e após a crise.",
+   "Errada: proteger contra quedas e traumas é a primeira medida durante a crise.",
+   "Errada: monitorar os sinais vitais é medida indicada na crise e no pós-ictal."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Gerenciamento/Gestão - Gestão em Homecare",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um pequeno grupo de células denominadas ______é responsável por produzir todas as células sanguíneas no interior da medula óssea. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "células sanguíneas diferenciadas",
+   "hematopoese",
+   "células-tronco hematopoiéticas",
+   "células sanguíneas indiferenciadas",
+   "glóbulos brancos"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hoffbrand AV, Moss PAH. Fundamentos em Hematologia, 7ª ed. (2018), hematopoese",
+  "coment": "A hematopoese ocorre na medula óssea a partir de um pequeno grupo de células-tronco hematopoiéticas, pluripotentes, capazes de autorrenovação e de diferenciação em todas as linhagens: eritrocitária, granulocítica e monocítica, megacariocítica e linfoide. São essas células que o transplante de medula óssea repõe. Hematopoese é o nome do processo, não da célula; células diferenciadas e glóbulos brancos são produtos finais, e células indiferenciadas é expressão vaga que não nomeia a célula-mãe.",
+  "porAlt": [
+   "Errada: células diferenciadas são o produto final da hematopoese, não a sua origem.",
+   "Errada: hematopoese é o nome do processo de formação do sangue, não de uma célula.",
+   "Correta: as células-tronco hematopoiéticas se autorrenovam e originam todas as linhagens do sangue.",
+   "Errada: células indiferenciadas é termo vago; a célula-mãe tem nome próprio, célula-tronco hematopoiética.",
+   "Errada: glóbulos brancos são uma das linhagens produzidas, não as células que produzem as demais."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Analise as afirmativas sobre Terapias direcionadas ou terapias alvo, utilizadas no tratamento de alguns tipos de leucemia:\nI. São medicamentos que atacam os mecanismos biológicos inatos de uma célula cancerosa;\nII. O sistema imunológico do próprio indivíduo é utilizado para matar as células cancerosas;\nIII. São medicamentos que matam as células que estão se dividindo;\nIV. Têm menos probabilidade de matar células normais.\nAssinale a alternativa correta.",
+  "alts": [
+   "apenas as alternativas I e II estão corretas",
+   "apenas as alternativas I, II e III estão corretas",
+   "apenas as alternativas I e III estão corretas",
+   "apenas as alternativas I e IV estão corretas",
+   "todas as alternativas estão corretas"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "INCA, ABC do câncer: abordagens básicas para o controle do câncer, 6ª ed. (2020)",
+  "coment": "Terapia-alvo usa fármacos dirigidos a alterações moleculares próprias da célula maligna, como o inibidor de tirosinoquinase imatinibe contra a proteína BCR-ABL1 da leucemia mieloide crônica. Por agir sobre um alvo da célula tumoral, poupa mais as células normais: I e IV estão corretas. Usar o sistema imune do próprio paciente para destruir o tumor é imunoterapia (II), e matar as células que estão se dividindo é o mecanismo da quimioterapia citotóxica clássica (III), que por isso atinge também medula, mucosas e folículos pilosos.",
+  "porAlt": [
+   "Errada: a afirmativa II descreve a imunoterapia, não a terapia-alvo.",
+   "Errada: II é imunoterapia e III é quimioterapia citotóxica; só I e IV descrevem terapia-alvo.",
+   "Errada: III descreve a quimioterapia citotóxica, que age sobre células em divisão.",
+   "Correta: a terapia-alvo ataca mecanismos próprios da célula cancerosa e poupa mais as células normais.",
+   "Errada: II e III descrevem imunoterapia e quimioterapia citotóxica, não terapia-alvo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A dosagem de hemoglobina - Hgb é o melhor resultado do hemograma para concluir se um paciente está anêmico, pois nela, está contido o______, que permite o transporte de oxigênio pelo sistema circulatório. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "oxigênio",
+   "ferro",
+   "CO2",
+   "glóbulo branco",
+   "hematócrito"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hoffbrand AV, Moss PAH. Fundamentos em Hematologia, 7ª ed. (2018), hemoglobina",
+  "coment": "A hemoglobina é formada por quatro cadeias de globina, cada uma ligada a um grupo heme que contém um átomo de ferro no estado ferroso. É esse ferro que se liga ao oxigênio de forma reversível nos pulmões e o libera nos tecidos. Por isso a dosagem de hemoglobina define anemia, e a deficiência de ferro reduz sua síntese. O oxigênio é o que a hemoglobina transporta, não um componente fixo dela; o CO₂ é carreado só em pequena parte; leucócito é outra célula; hematócrito é a proporção de hemácias no sangue.",
+  "porAlt": [
+   "Errada: o oxigênio é transportado pela hemoglobina, não é componente estrutural dela.",
+   "Correta: o ferro do grupo heme é o que liga o oxigênio e permite seu transporte.",
+   "Errada: o CO₂ é transportado em pequena parte pela hemoglobina e não é o que permite levar oxigênio.",
+   "Errada: o glóbulo branco é outra célula e não faz parte da hemoglobina.",
+   "Errada: o hematócrito é a proporção de hemácias no volume de sangue, não um componente da hemoglobina."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Quando um indivíduo está com uma infecção, a medula óssea aumenta rapidamente a produção de leucócitos e acaba por lançar, na corrente sanguínea, neutrófilos jovens, recém produzidos. Normalmente, apenas 4 a 5% dos neutrófilos circulantes são bastões. A presença de um percentual maior de células jovens é um indício de:",
+  "alts": [
+   "processos alérgicos",
+   "infecção intestinal por parasitas",
+   "fagocitose",
+   "produção dos anticorpos",
+   "processo infeccioso em curso"
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hoffbrand AV, Moss PAH. Fundamentos em Hematologia, 7ª ed. (2018), leucócitos",
+  "coment": "Bastões são neutrófilos jovens, com núcleo ainda não segmentado. Na infecção, sobretudo bacteriana, a medula acelera a produção e libera formas imaturas, e o aumento percentual de bastões, chamado desvio à esquerda, indica processo infeccioso em curso. Alergia e parasitose elevam eosinófilos, não bastões. Fagocitose é a função do neutrófilo, não um achado do hemograma, e anticorpos são produzidos por plasmócitos, derivados dos linfócitos B.",
+  "porAlt": [
+   "Errada: processos alérgicos elevam os eosinófilos, não os bastões.",
+   "Errada: parasitoses intestinais causam eosinofilia, não desvio à esquerda.",
+   "Errada: fagocitose é a função normal do neutrófilo, não um diagnóstico sugerido pelo hemograma.",
+   "Errada: anticorpos são produzidos pelos plasmócitos, derivados dos linfócitos B.",
+   "Correta: o aumento de bastões, ou desvio à esquerda, indica processo infeccioso em curso."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o código de ética de enfermagem, são deveres do enfermeiro, exceto:",
+  "alts": [
+   "é facultado o uso do carimbo, com nome completo, número e categoria de inscrição no Coren, devendo constar a assinatura ou rubrica do profissional",
+   "colaborar com o processo de fiscalização do exercício profissional e prestar informações fidedignas, permitindo o acesso a documentos e a área física institucional",
+   "prestar assistência de enfermagem livre de danos decorrentes de imperícia, negligência ou imprudência",
+   "cumprir a legislação vigente para a pesquisa envolvendo seres humanos",
+   "sobrepor o interesse da ciência ao interesse e segurança da pessoa, família e coletividade"
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), arts. 35 e 45 e capítulo III (proibições)",
+  "coment": "O Código de Ética (Res. COFEN 564/2017) separa direitos (arts. 1º a 23), deveres (24 a 60) e proibições (61 a 102). São deveres: identificar-se nos documentos com nome, número e categoria no Coren e assinatura ou rubrica, sendo facultado o carimbo (art. 35); colaborar com a fiscalização do exercício profissional; prestar assistência livre de danos por imperícia, negligência ou imprudência (art. 45); cumprir a legislação de pesquisa com seres humanos. Sobrepor o interesse da ciência ao interesse e à segurança da pessoa, família e coletividade é proibição do capítulo III, ligada à ética em pesquisa, e por isso é a exceção.",
+  "porAlt": [
+   "Errada: identificar-se nos documentos, com o carimbo facultado, é dever do art. 35.",
+   "Errada: colaborar com a fiscalização e prestar informações fidedignas é dever do profissional.",
+   "Errada: assistência livre de imperícia, negligência ou imprudência é dever do art. 45.",
+   "Errada: cumprir a legislação de pesquisa com seres humanos é dever do profissional.",
+   "Correta: sobrepor a ciência à segurança da pessoa é proibição do Código, não dever."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São considerados eventos sentinela na transfusão do hemocomponente, exceto:",
+  "alts": [
+   "administração de concentrado de hemácias após expirada sua validade",
+   "administração de concentrado de hemácias hemolisado",
+   "transfusão de hemocomponente ABO incompatível",
+   "transfusão de co-componente de hemocomponente no qual foi detectado crescimento bacteriano",
+   "Transfusão de produto sanguíneo errado"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "ANVISA, Marco conceitual e operacional de hemovigilância (2015); Instrução Normativa ANVISA 196/2022",
+  "coment": "Evento sentinela é a ocorrência grave e evitável que sinaliza falha de processo e exige investigação imediata. Na transfusão, entram nessa categoria os erros do ciclo do sangue: hemocomponente vencido, bolsa hemolisada, incompatibilidade ABO e produto ou paciente trocado, que quase sempre nascem de falha de identificação ou de conferência. A transfusão de cocomponente de uma doação em que depois se detectou crescimento bacteriano é descoberta a posteriori e leva à investigação dos receptores e da doação, sem ser, por si, erro de beira de leito. A notificação segue a IN ANVISA 196/2022, pelo Notivisa.",
+  "porAlt": [
+   "Errada: transfundir hemácias vencidas é falha grave e evitável, típica de evento sentinela.",
+   "Errada: transfundir bolsa hemolisada é falha de inspeção, considerada evento sentinela.",
+   "Errada: a incompatibilidade ABO é o evento sentinela clássico da transfusão.",
+   "Correta: o cocomponente contaminado é descoberto depois e leva à investigação dos receptores, não figura na lista da banca.",
+   "Errada: transfundir o produto errado é falha de identificação, considerada evento sentinela."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Hibridização fluorescente in situ (FISH) é particularmente útil na demonstração de monossomias e ou trissomias cromossômicas, bem como nas translocações. Assinale a alternativa que apresenta quando é verificado a troca no DNA entre os cromossomos 9 e 22 durante a divisão celular produzindo uma translocação onde cromossomo 22 que é mais curto que o normal, pode se suspeitar de qual tipo de leucemia.",
+  "alts": [
+   "leucemia mieloide aguda",
+   "leucemia mieloide crônica",
+   "leucemia linfoide aguda",
+   "leucemia linfoide cronica",
+   "leucemia promielocítica aguda"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hoffbrand AV, Moss PAH. Fundamentos em Hematologia, 7ª ed. (2018), leucemia mieloide crônica",
+  "coment": "A translocação recíproca t(9;22) une o gene ABL1 do cromossomo 9 ao BCR do 22 e gera o cromossomo Philadelphia, um 22 encurtado, com o gene de fusão BCR-ABL1, que codifica uma tirosinoquinase sempre ativa. É a marca da leucemia mieloide crônica, presente na grande maioria dos casos, detectada por cariótipo, FISH ou PCR, e é o alvo do imatinibe. O cromossomo Philadelphia também aparece em parte das leucemias linfoides agudas do adulto, mas a associação clássica cobrada é a LMC. A leucemia promielocítica aguda tem a t(15;17).",
+  "porAlt": [
+   "Errada: a LMA tem outras alterações; o cromossomo Philadelphia é a marca da LMC.",
+   "Correta: a t(9;22), que gera o cromossomo Philadelphia, é a marca da leucemia mieloide crônica.",
+   "Errada: parte das LLA do adulto tem o Philadelphia, mas a associação clássica é a LMC.",
+   "Errada: a leucemia linfoide crônica não se caracteriza pela t(9;22).",
+   "Errada: a leucemia promielocítica aguda tem a t(15;17), não a t(9;22)."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Alguns pacientes com LMC (Leucemia Mielódia Crônica) podem apresentar células leucêmicas na medula e serem Philadelphia negativo ou seja, tendo o gene BCR-ABL não detectável, ou não tendo o gene. No caso de não possuir o gene, alguma outra mutação genética é responsável pela doença. Geralmente nestes casos os pacientes costumam. Assinale a alternativa correta.",
+  "alts": [
+   "responder menos aos tratamentos",
+   "responder melhor aos tratamentos",
+   "nunca responder ao tratamento",
+   "ter progressão normal da doença",
+   "comprometer por completo o desenvolvimento de células maduras normais"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Hoffbrand AV, Moss PAH. Fundamentos em Hematologia, 7ª ed. (2018); Classificação OMS das neoplasias hematolinfoides, 5ª ed. (2022)",
+  "coment": "Quando o quadro de LMC ocorre sem cromossomo Philadelphia e sem BCR-ABL1 detectável, outra mutação causa a doença, e o diagnóstico costuma ser revisto para LMC atípica ou outra neoplasia mieloproliferativa. Como o inibidor de tirosinoquinase age justamente sobre a proteína BCR-ABL1, esses pacientes não se beneficiam dele e costumam responder menos ao tratamento, com prognóstico pior. Não é correto dizer que nunca respondem, e a evolução não é a habitual da LMC Philadelphia positiva.",
+  "porAlt": [
+   "Correta: sem o alvo BCR-ABL1, o inibidor de tirosinoquinase não funciona e a resposta ao tratamento é menor.",
+   "Errada: a ausência do alvo do tratamento padrão piora, e não melhora, a resposta.",
+   "Errada: a resposta é menor, mas dizer que nunca respondem é exagero.",
+   "Errada: a doença sem BCR-ABL1 tem curso diferente e pior que o da LMC habitual.",
+   "Errada: a LMC mantém a produção de células maduras na fase crônica; o comprometimento total não define esses casos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Anemia de Fanconi (AF) é uma doença ______do sangue que leva à insuficiência da medula óssea.\nAssinale a alternativa que preencha corretamente a lacuna",
+  "alts": [
+   "autoimune",
+   "alérgica",
+   "hereditária",
+   "adquirida",
+   "infecciosa"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hoffbrand AV, Moss PAH. Fundamentos em Hematologia, 7ª ed. (2018), anemia aplástica hereditária",
+  "coment": "A anemia de Fanconi é doença hereditária, em geral autossômica recessiva (uma forma é ligada ao X), causada por defeito em genes de reparo do DNA. Leva à falência medular progressiva na infância, com malformações como alterações do polegar e do rádio, baixa estatura e manchas café com leite, e predispõe a leucemia mieloide aguda e a tumores sólidos. O diagnóstico usa o teste de fragilidade cromossômica, e a falência medular se trata com transplante de células-tronco hematopoiéticas. Não é adquirida, autoimune, alérgica nem infecciosa.",
+  "porAlt": [
+   "Errada: a anemia de Fanconi não é autoimune; decorre de defeito genético de reparo do DNA.",
+   "Errada: não há mecanismo alérgico na anemia de Fanconi.",
+   "Correta: é doença hereditária, em geral autossômica recessiva, de reparo do DNA.",
+   "Errada: a anemia de Fanconi é congênita, e não adquirida como a maioria das aplasias.",
+   "Errada: a doença não é infecciosa; é genética."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São doenças da medula óssea que comprometem a produção dos glóbulos vermelhos exceto:",
+  "alts": [
+   "aplasia de medula óssea",
+   "leucemias, linfomas e mieloma",
+   "metástases de tumores na medula óssea",
+   "infecções comprometendo a medula óssea",
+   "anemia hemolítica autoimune"
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hoffbrand AV, Moss PAH. Fundamentos em Hematologia, 7ª ed. (2018), anemias hemolíticas",
+  "coment": "Aplasia, infiltração da medula por leucemia, linfoma, mieloma ou metástase e infecções que acometem a medula comprometem a produção das hemácias e causam anemia hipoproliferativa, com reticulócitos baixos. Na anemia hemolítica autoimune a medula funciona e até aumenta a produção: o problema está fora dela, nos autoanticorpos que destroem as hemácias circulantes, com reticulocitose, LDH e bilirrubina indireta elevadas e teste de Coombs direto positivo. Por isso é a exceção.",
+  "porAlt": [
+   "Errada: na aplasia a medula deixa de produzir as células, inclusive as hemácias.",
+   "Errada: leucemias, linfomas e mieloma infiltram a medula e reduzem a produção de hemácias.",
+   "Errada: metástases na medula ocupam o espaço hematopoético e reduzem a produção.",
+   "Errada: infecções que acometem a medula podem suprimir a produção de hemácias.",
+   "Correta: na hemólise autoimune a medula produz normalmente; as hemácias são destruídas na circulação."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Analise as afirmações sobre a Deficiência de Glicose 6 Fosfato Desidrogenase (G6PD) e analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) é uma desordem genética ligada ao cromossomo x.\n( ) a deficiência desta enzima diminui a capacidade da hemácia de manter-se íntegra frente aos agentes oxidantes.\n( ) infecções, alterações metabólicas e exposição a alguns fármacos provocam episódio hemolítico agudo com hemólise intravascular.\n( ) a maioria dos indivíduos é assintomática.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "V - V - F - V",
+   "V - V - F - F",
+   "F - V - F - V",
+   "V - F - F - V"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hoffbrand AV, Moss PAH. Fundamentos em Hematologia, 7ª ed. (2018), deficiência de G6PD",
+  "coment": "A deficiência de G6PD é herdada ligada ao cromossomo X e se expressa mais em homens. Sem a enzima, a hemácia gera pouco NADPH e fica vulnerável ao estresse oxidativo. Infecções, acidose, ingestão de fava e fármacos oxidantes, como primaquina, dapsona e sulfonamidas, desencadeiam crise hemolítica aguda com hemólise intravascular, hemoglobinúria e icterícia. Fora dessas exposições, a maioria dos portadores é assintomática. As quatro afirmativas são verdadeiras, e a enfermagem orienta evitar os desencadeantes.",
+  "porAlt": [
+   "Correta: as quatro afirmativas descrevem corretamente a deficiência de G6PD.",
+   "Errada: a terceira é verdadeira; infecções e fármacos oxidantes provocam hemólise aguda intravascular.",
+   "Errada: a terceira e a quarta são verdadeiras; a maioria dos portadores é assintomática.",
+   "Errada: a herança é ligada ao X, e a crise hemolítica por oxidantes é real.",
+   "Errada: a deficiência reduz, sim, a proteção da hemácia contra oxidantes, e a hemólise aguda ocorre."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A perda aguda de sangue é causa comum de anemia hiperproliferativa, perdas de até ________do volume sanguíneo são normalmente toleradas por mecanismos compensatórios. perdas maiores levam a hipotensão e choque.\nAssinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "10%",
+   "15%",
+   "20%",
+   "30%",
+   "40%"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "American College of Surgeons, ATLS, 10ª ed. (2018), classificação do choque hemorrágico",
+  "coment": "Na perda aguda de sangue a medula responde com reticulocitose em alguns dias, mas no início domina a hipovolemia, e a hemoglobina pode ainda estar normal. Até cerca de 15% da volemia, o organismo compensa com vasoconstrição e taquicardia leve, sem queda da pressão, o que corresponde à classe I do choque hemorrágico do ATLS. Perdas maiores exigem mais compensação até que, acima de 30% (classe III), aparecem hipotensão e choque. Por isso o enfermeiro não espera a hipotensão para suspeitar de sangramento importante: taquicardia, pele fria e queda da diurese vêm antes.",
+  "porAlt": [
+   "Errada: 10% fica abaixo do limite habitualmente tolerado; a compensação vai até cerca de 15%.",
+   "Correta: perdas de até cerca de 15% da volemia são compensadas sem hipotensão (classe I do ATLS).",
+   "Errada: com 20% já há resposta compensatória evidente, com taquicardia, fora da faixa sem repercussão.",
+   "Errada: 30% é o limiar em que a hipotensão costuma aparecer, não a perda bem tolerada.",
+   "Errada: 40% configura hemorragia grave, com hipotensão e choque."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A infusão do crioprecipitado corre aberta, e não deve ultrapassar a ________, devendo ser transfundido em no máximo _______ após seu descongelamento.\nAssinale a alternativa que preencha correta e respectivamente as lacunas.",
+  "alts": [
+   "60 min / 2h",
+   "60 min / 6h",
+   "30min / 2h",
+   "30min / 6h",
+   "90 min / 2h"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Guia para o Uso de Hemocomponentes, 2ª ed. (2015); Portaria GM/MS 11.685/2026 (Anexo IV-B da PRC 5/2017)",
+  "coment": "O crioprecipitado é a fração do plasma rica em fibrinogênio, fator VIII, fator de von Willebrand e fator XIII, usada sobretudo na hipofibrinogenemia. Cada unidade tem pequeno volume, por isso corre aberta, em no máximo cerca de 30 minutos. Depois de descongelado, fica em temperatura ambiente e deve ser transfundido em até 6 horas, porque os fatores perdem atividade e o risco de contaminação cresce. A rotina de beira de leito se manteve com a troca da Portaria 158/2016 pela Portaria GM/MS 11.685/2026: equipo próprio com filtro, nada infundido na mesma via e registro do horário de início e de fim.",
+  "porAlt": [
+   "Errada: o crio de pequeno volume não precisa de 60 minutos, e 2 horas encurta o prazo pós-descongelamento.",
+   "Errada: o prazo de 6 horas está certo, mas a infusão não deve passar de cerca de 30 minutos.",
+   "Errada: a infusão em 30 minutos está certa, mas o prazo após o descongelamento é de 6 horas.",
+   "Correta: infusão aberta em até 30 minutos e transfusão em até 6 horas após descongelar.",
+   "Errada: 90 minutos é tempo excessivo para o crio, e 2 horas não é o prazo pós-descongelamento."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que define corretamente a modalidade transfusional de urgência.",
+  "alts": [
+   "Deve ser realizada dentro das 24 h da solicitação",
+   "Deve ter data e hora previamente agendado",
+   "Deve ser realizada dentro das 2h da solicitação",
+   "Deve ser realizada dentro das 3 h da solicitação",
+   "Deve ser realizada dentro das 6 h da solicitação"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria MS 158/2016 (modalidades de transfusão), substituída pela Portaria GM/MS 11.685/2026 (Anexo IV-B da PRC 5/2017)",
+  "coment": "A Portaria 158/2016, base da questão, classificava a solicitação de transfusão em quatro modalidades: programada, com dia e hora marcados; de rotina, em até 24 horas; de urgência, em até 3 horas; e de emergência, quando o retardo traz risco de vida, liberada antes da conclusão dos testes pré-transfusionais com termo assinado pelo médico. Em 2026 ela foi substituída pela Portaria GM/MS 11.685, que criou o Anexo IV-B da Portaria de Consolidação nº 5/2017, em vigor desde 30/09/2026, e a rotina de beira de leito se manteve. A prova cobra a distinção entre os prazos.",
+  "porAlt": [
+   "Errada: 24 horas é o prazo da transfusão de rotina, não da de urgência.",
+   "Errada: data e hora agendadas definem a transfusão programada.",
+   "Errada: o prazo da urgência na norma é de 3 horas, não 2.",
+   "Correta: a transfusão de urgência deve ser realizada em até 3 horas da solicitação.",
+   "Errada: 6 horas não corresponde a nenhuma das modalidades da norma."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um Receptor de sangue uma hora após a transfusão, apresentou quadro clínico de dispneia, cianose, taquicardia, hipertensão arterial e edema pulmonar. Com base na sintomatologia apresentada, assinale a alternativa com a reação transfusional mais coerente.",
+  "alts": [
+   "Sobrecarga circulatória associada à transfusão",
+   "Reação hemolítica aguda não imune",
+   "Transmissão de doença infecciosa",
+   "Púrpura pós-transfusional",
+   "Aloimunização/ Aparecimento de anticorpos irregulares"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Guia para o Uso de Hemocomponentes, 2ª ed. (2015); Instrução Normativa ANVISA 196/2022 (hemovigilância)",
+  "coment": "Dispneia, cianose, taquicardia, hipertensão e edema pulmonar durante ou até cerca de 12 horas após a transfusão indicam sobrecarga circulatória associada à transfusão (TACO): volume infundido acima da capacidade cardíaca, mais comum em idoso, cardiopata, renal crônico e criança, e com infusão rápida. A hipertensão e a congestão a separam da TRALI, que tem hipoxemia sem congestão e às vezes hipotensão. Conduta: parar a transfusão, manter o acesso, sentar o paciente, oxigênio, diurético prescrito e notificação no Notivisa. Prevenção: infusão lenta e balanço hídrico.",
+  "porAlt": [
+   "Correta: dispneia, hipertensão, taquicardia e edema pulmonar após transfusão indicam sobrecarga circulatória (TACO).",
+   "Errada: a hemólise não imune causa hemoglobinúria, sem o quadro congestivo com hipertensão.",
+   "Errada: infecção transmitida pela transfusão aparece dias ou semanas depois, sem edema agudo.",
+   "Errada: a púrpura pós-transfusional é plaquetopenia com sangramento, cerca de uma semana depois.",
+   "Errada: a aloimunização forma anticorpos sem quadro clínico agudo de congestão."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os efeitos tóxicos do citrato e do potássio presentes nas transfusões geralmente não são preocupantes, mesmo na transfusão maciça; entretanto, os efeitos tóxicos de ambos podem ser potencializados em caso de ______.\nAssinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "hipertermia",
+   "hipotermia",
+   "câimbras",
+   "hemorragia",
+   "neutropenia"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Harrison's Principles of Internal Medicine, 21ª ed. (2022), complicações metabólicas da transfusão",
+  "coment": "O anticoagulante das bolsas é o citrato, que quela o cálcio; em transfusão maciça e rápida pode causar hipocalcemia, com parestesia, arritmia e hipotensão. As hemácias estocadas liberam potássio no plasma da bolsa. Em geral o fígado metaboliza o citrato depressa e o potássio se redistribui, sem dano. A hipotermia potencializa os dois efeitos: reduz o metabolismo hepático do citrato e torna o miocárdio mais vulnerável à hipocalcemia e à hipercalemia, com risco de arritmia. Por isso, na transfusão maciça, aquece-se o sangue em aquecedor próprio e monitora-se o cálcio iônico.",
+  "porAlt": [
+   "Errada: a hipertermia não potencializa a toxicidade do citrato e do potássio.",
+   "Correta: a hipotermia reduz o metabolismo do citrato e aumenta o risco de arritmia por cálcio e potássio.",
+   "Errada: câimbras podem ser sintoma de hipocalcemia, não fator que potencializa a toxicidade.",
+   "Errada: a hemorragia é a indicação da transfusão maciça, não o fator que potencializa os efeitos tóxicos.",
+   "Errada: a neutropenia não interfere no metabolismo do citrato nem do potássio."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A prevenção de doença enxerto versus hospedeiro é feita com irradiação (para lesar o DNA dos linfócitos doadores) de todos os hemocomponentes transfundidos exceto:",
+  "alts": [
+   "no transplante de células-tronco hematopoiéticas",
+   "se o sangue do doador é obtido de um parente de 1º grau",
+   "nos transplantes de órgãos sólidos",
+   "quando há transfusão de componentes compatíveis com o hla, excetuando-se as células-tronco",
+   "nas neoplasias hematológicas"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Ministério da Saúde, Guia para o Uso de Hemocomponentes, 2ª ed. (2015), indicações de irradiação",
+  "coment": "A doença do enxerto contra o hospedeiro associada à transfusão ocorre quando linfócitos T viáveis do doador se implantam num receptor que não consegue rejeitá-los, e quase sempre é fatal. A irradiação gama inativa esses linfócitos. Está indicada no transplante de células-tronco hematopoiéticas, na imunodeficiência congênita grave, em doação de parente, em componentes HLA compatíveis, em neoplasias hematológicas como o linfoma de Hodgkin, no uso de análogos de purina como a fludarabina, na transfusão intrauterina e em prematuros de muito baixo peso. O transplante de órgão sólido não está entre as indicações de rotina.",
+  "porAlt": [
+   "Errada: o transplante de células-tronco hematopoiéticas é indicação clássica de irradiação.",
+   "Errada: o sangue de parente de 1º grau compartilha HLA e exige irradiação.",
+   "Correta: o transplante de órgão sólido não está entre as indicações de rotina de irradiação.",
+   "Errada: componentes HLA compatíveis devem ser irradiados, porque o receptor não reconhece os linfócitos do doador.",
+   "Errada: neoplasias hematológicas sob tratamento imunossupressor estão entre as indicações de irradiação."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa correta da função do fator de Von Willebrand no início da coagulação sanguínea:",
+  "alts": [
+   "geração de trombina",
+   "adesão plaquetária",
+   "resposta inflamatória",
+   "ativação de citoquinas",
+   "fibrinólise"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hoffbrand AV, Moss PAH. Fundamentos em Hematologia, 7ª ed. (2018), hemostasia primária",
+  "coment": "O fator de von Willebrand é uma glicoproteína multimérica que, na lesão vascular, liga-se ao colágeno exposto do subendotélio e à glicoproteína Ib da plaqueta, ancorando-a na parede: é o passo de adesão plaquetária da hemostasia primária. Ele também transporta e protege o fator VIII no plasma. Por isso a doença de von Willebrand, a coagulopatia hereditária mais comum, causa sangramento mucocutâneo. A geração de trombina pertence à cascata de coagulação, e a fibrinólise é feita pela plasmina.",
+  "porAlt": [
+   "Errada: a geração de trombina é etapa da cascata de coagulação, posterior à adesão.",
+   "Correta: o fator de von Willebrand liga a plaqueta ao colágeno exposto, promovendo a adesão plaquetária.",
+   "Errada: a resposta inflamatória não é a função do fator de von Willebrand na hemostasia.",
+   "Errada: a ativação de citocinas não é a função do fator de von Willebrand.",
+   "Errada: a fibrinólise dissolve o coágulo, pela plasmina, e não depende desse fator."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para a profilaxia de longo prazo do sangramento em pacientes com hemofilia A grave, as doses usuais são de ______de fator VIII por Kg de peso corpóreo em intervalos de 2 a 3 dias.\nAssinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "5 a 30 UI",
+   "10 A 20 UI",
+   "20 a 40UI",
+   "30 A 40 UI",
+   "até 10 UI"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hemoterapia e transfusão",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "World Federation of Hemophilia, Guidelines for the Management of Hemophilia, 3ª ed. (2020)",
+  "coment": "Na hemofilia A grave (fator VIII abaixo de 1%), a profilaxia regular substitui o tratamento só sob demanda e evita a artropatia hemofílica. Os esquemas clássicos de dose alta usam cerca de 20 a 40 UI de fator VIII por kg a cada 2 ou 3 dias, intervalo explicado pela meia-vida do fator, de 8 a 12 horas. A diretriz da WFH de 2020 descreve o protocolo de Malmö, com 25 a 40 UI/kg em dias alternados, e esquemas de dose intermediária e baixa, sempre individualizados. Cada UI/kg infundida eleva o fator VIII plasmático em cerca de 2%.",
+  "porAlt": [
+   "Errada: 5 a 30 UI/kg inclui doses baixas demais para a profilaxia de dose alta descrita.",
+   "Errada: 10 a 20 UI/kg corresponde a esquemas de dose baixa, não à dose usual citada.",
+   "Correta: 20 a 40 UI/kg a cada 2 ou 3 dias é a faixa usual da profilaxia na hemofilia A grave.",
+   "Errada: 30 a 40 UI/kg estreita a faixa e exclui as doses usuais mais baixas.",
+   "Errada: até 10 UI/kg é dose insuficiente para manter nível protetor de fator VIII."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a aferição da pressão arterial, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Evite colocar o manguito sobre o braço que tiver punção venosa, fístula arteriovenosa, mastectomia, plegia e cateterismo;\n( ) A largura do manguito deve corresponder a 40% da circunferência do braço e o seu comprimento, envolver pelo menos 80%;\n( ) O paciente deve ser instruído a não conversar durante a medida;\n( ) Deve estar na posição sentada, pernas cruzadas, pés apoiados no chão, dorso recostado na cadeira e relaxado.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "V - V - V - F",
+   "V - F - V - F",
+   "V - V - F - F",
+   "V - F - V - V"
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Hipertensão Arterial 2025 (SBC); Diretrizes Brasileiras de Hipertensão Arterial 2020 (SBC), técnica de medida",
+  "coment": "A medida correta evita falsos diagnósticos. Não se afere no braço com punção venosa, fístula arteriovenosa, esvaziamento axilar por mastectomia, plegia ou cateter. O manguito adequado tem bolsa de largura correspondente a cerca de 40% da circunferência do braço e comprimento que envolva 80% a 100% dele (Diretrizes de 2020). O paciente não conversa durante a medida. A quarta é falsa: ele deve estar sentado com as pernas descruzadas, pés apoiados no chão, dorso recostado e relaxado, após 5 minutos de repouso, como mantém a diretriz de 2025.",
+  "porAlt": [
+   "Errada: a quarta afirmativa é falsa, porque as pernas devem estar descruzadas.",
+   "Correta: as três primeiras são verdadeiras e a quarta é falsa pelas pernas cruzadas.",
+   "Errada: a segunda é verdadeira; a bolsa tem cerca de 40% da circunferência e envolve ao menos 80% do braço.",
+   "Errada: a terceira é verdadeira, porque falar durante a medida eleva a pressão.",
+   "Errada: a quarta é falsa e a segunda é verdadeira, o contrário do que esta opção afirma."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Hematologia e Hemoterapia",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A pneumonia relacionada à assistência à saúde é principalmente causada por ______. Estes pacientes, habitualmente encontram-se restritos ao leito, as pneumonias hospitalares desenvolvem-se nos lobos inferiores e nos segmentos posteriores destes. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "Microaspirações silenciosas",
+   "Transmissão cruzada",
+   "Inalação",
+   "Bacteremia",
+   "Translocação bacteriana"
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4 (2017)",
+  "coment": "A principal via de pneumonia relacionada à assistência é a microaspiração de secreções da orofaringe e de conteúdo gástrico colonizados, que escorrem ao redor do balonete do tubo ou são aspiradas em silêncio pelo paciente acamado, sedado ou com disfagia. Pela gravidade, o material se deposita nos lobos inferiores e nos segmentos posteriores. Por isso o pacote do Caderno 4 da ANVISA (2017) inclui cabeceira elevada entre 30 e 45 graus, higiene oral, controle da pressão do balonete, aspiração subglótica e sedação mínima. Inalação, bacteremia e translocação são vias menos frequentes.",
+  "porAlt": [
+   "Correta: a microaspiração silenciosa de secreções colonizadas é a principal via da pneumonia hospitalar.",
+   "Errada: a transmissão cruzada leva o microrganismo ao paciente, mas a pneumonia surge pela aspiração.",
+   "Errada: a inalação de aerossóis contaminados é via menos frequente.",
+   "Errada: a disseminação hematogênica para o pulmão é via rara.",
+   "Errada: a translocação bacteriana do intestino é mecanismo pouco relevante na pneumonia hospitalar."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Umidificadores passivos ou filtros trocadores de calor e umidade são facilmente manuseados, tem relativo baixo custo e elimina a condensação do circuito respiratório. Assinale a alternativa que apresenta qual a recomendação pela Agência Nacional de Vigilância Sanitária de troca destes dispositivos.",
+  "alts": [
+   "A partir de 24 horas e até no máximo 48 horas ou se visivelmente contaminado",
+   "A partir de 48 horas e até no máximo 7 dias ou se visivelmente contaminado",
+   "A partir de 72 horas e até no máximo 96 horas ou se visivelmente contaminado",
+   "A partir de 96 horas e até no máximo 7 dias ou se visivelmente contaminado",
+   "A cada desconexão do circuito para cuidados ventilatórios"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Prevenção de pneumonia e infecção de cateter",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4 (2017)",
+  "coment": "Os umidificadores passivos, ou filtros trocadores de calor e umidade (HME), aquecem e umidificam o gás inspirado sem gerar condensado no circuito, o que reduz a manipulação. Pelo Caderno 4 da ANVISA (2017), a troca não deve ser feita antes de 48 horas e pode chegar a até 7 dias, ou antes se o filtro estiver visivelmente sujo ou com mau funcionamento. O circuito do ventilador só é trocado se sujo ou com defeito, e o sistema fechado de aspiração, a cada 72 horas. Trocar a cada desconexão aumenta a manipulação e o custo sem reduzir pneumonia.",
+  "porAlt": [
+   "Errada: trocar antes de 48 horas aumenta a manipulação sem benefício; o mínimo é 48 horas.",
+   "Correta: a ANVISA recomenda trocar o HME a partir de 48 horas e no máximo em 7 dias, ou se sujo.",
+   "Errada: o limite máximo de 96 horas é curto; o filtro pode ficar até 7 dias.",
+   "Errada: o intervalo mínimo é de 48 horas, não de 96 horas.",
+   "Errada: trocar a cada desconexão aumenta a manipulação e o custo sem reduzir infecção."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A infecção de corrente sanguínea, relacionada a cateteres centrais, estão associadas a importantes desfechos desfavoráveis em saúde. Analise as afrimativas sobre recomendações pela Agência Nacional de Vigilância Sanitária no momento da inserção, cobertura, fixação e estabilização de cateteres venosos central de curta permanência e dê valores (V) Verdadeiro ou (F) Falso.\n( ) Utilizar esponjas impregnadas com gliconato de clorexidina ou cobertura semipermeável de poliuretano com gel hidrofílico contendo gliconato de clorexidina a 2% em pacientes adultos internados UTI.\n( ) A degermação prévia à antissepsia da pele não é recomendada rotineiramente, estando reservada para casos onde exista sujidade visível.\n( ) Usar cateteres centrais impregnados/recobertos de minociclina/rifampicina em crianças internadas em unidades de terapia intensiva.\n( ) A punção em veia subclávia de rotina está associada a maior risco de desenvolvimento de infecção de corrente sanguínea relacionada a cateter.\n( ) Realizar a troca da cobertura com gaze e fita adesiva estéril a cada 48 horas e a troca com a cobertura estéril transparente a cada sete dias.\nQualquer tipo de cobertura deve ser trocada imediatamente, independente do prazo, se estiver suja, solta ou úmida. Assinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - F - V",
+   "F - F - F - F - V",
+   "V - F - V - F - V",
+   "F - V - F - F - V",
+   "V - V - V - V - V"
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4 (2017)",
+  "coment": "Pelo Caderno 4 da ANVISA (2017), no cateter central de curta permanência se recomendam: esponja impregnada ou cobertura de poliuretano com gel de clorexidina 2% em adultos de UTI; degermação antes da antissepsia só com sujidade visível; e, como medida adicional considerada pela banca verdadeira, cateter impregnado com minociclina e rifampicina em crianças de UTI. A quarta é falsa: a subclávia tem o menor risco de infecção entre os sítios, e o que se evita de rotina é a femoral. A quinta é verdadeira: gaze a cada 48 horas, transparente a cada 7 dias, e qualquer uma na hora se suja, solta ou úmida.",
+  "porAlt": [
+   "Correta: V, V, V, F, V; só é falsa a afirmação de que a subclávia tem maior risco de infecção.",
+   "Errada: as três primeiras são recomendações da ANVISA, não afirmações falsas.",
+   "Errada: a degermação reservada para sujidade visível é recomendação verdadeira.",
+   "Errada: as coberturas com clorexidina e os cateteres impregnados em crianças são dados como verdadeiros.",
+   "Errada: a subclávia tem o menor risco de infecção, então a quarta é falsa."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O acesso venoso de longa permanência do tipo semi-implantável ou tunelizado é recomendado para pacientes onco-hematológicos, em pacientes portadores de insuficiência renal (diálise programada por mais de 21 dias) e em pacientes em nutrição parenteral prolongada. Diante do exposto, assinale a alternativa incorreta.",
+  "alts": [
+   "Após a cicatrização do óstio (em média 2 – 4 semanas) pode-se manter o sítio de inserção descoberto",
+   "Devem ser inseridos cirurgicamente em ambiente controlado",
+   "Estes dispositivos permitem a coleta de amostras de sangue, administração de drogas, hemocomponentes e contraste",
+   "A punção do reservatório deve ser realizada com agulha angulada, própria para uso na membrana do reservatório e na falta deste dispositivo, a agulha hipodérmica ou dispositivo com asas e cânula metálica pode ser utilizado para punção do reservatório",
+   "Durante a punção, utilizar máscara cirúrgica (profissional e paciente), luvas estéreis, obedecendo à técnica asséptica"
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4 (2017)",
+  "coment": "Pelo Caderno 4 da ANVISA (2017), cateteres de longa permanência, semi-implantáveis (tunelizados) ou totalmente implantáveis com reservatório, são inseridos cirurgicamente em ambiente controlado e permitem coleta de sangue e infusão de fármacos, hemocomponentes e contraste. Cicatrizado o óstio do tunelizado, em média em 2 a 4 semanas, o sítio pode ficar descoberto. A punção do reservatório exige técnica asséptica, máscara no profissional e no paciente e luvas estéreis, sempre com agulha própria, angulada e de ponta não cortante (tipo Huber). Agulha hipodérmica comum ou com asas perfura e fragmenta a membrana, causando vazamento e perda do dispositivo.",
+  "porAlt": [
+   "Errada: após a cicatrização do óstio, em 2 a 4 semanas, o sítio pode ficar descoberto.",
+   "Errada: esses cateteres são de fato inseridos cirurgicamente em ambiente controlado.",
+   "Errada: esses dispositivos permitem coleta de sangue e infusão de fármacos, hemocomponentes e contraste.",
+   "Correta: agulha hipodérmica ou com cânula metálica comum danifica a membrana; só se usa a agulha própria.",
+   "Errada: a punção do reservatório exige máscara, luvas estéreis e técnica asséptica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta quanto tempo deve durar o procedimento de preparo pré-operatório ou antissepsia cirúrgica das mãos com antisséptico degermante.",
+  "alts": [
+   "Deve ser realizado por 40 a 60 segundos por duas vezes consecutivas",
+   "Deve ser realizado por 90 segundos para o primeiro procedimento do dia e de 40 a 60 segundos para as cirurgias subsequentes, se realizadas dentro de duas horas após a primeira fricção",
+   "Deve ser de 3 a 5 minutos para o primeiro procedimento do dia e de 2 a 3 minutos para as cirurgias subsequentes, se realizadas dentro de 1 horas após a primeira fricção",
+   "Deve ser de 60 segundos em todos os procedimentos cirúrgicos",
+   "Deve ser de 60 a 90 segundos em todos os procedimentos cirúrgicos"
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Higiene das mãos",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ANVISA, Segurança do Paciente em Serviços de Saúde: Higienização das Mãos (2009); ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4 (2017)",
+  "coment": "A antissepsia cirúrgica das mãos com degermante (clorexidina 2% ou PVPI) dura de 3 a 5 minutos no primeiro procedimento do dia e de 2 a 3 minutos nos seguintes, se feitos dentro de 1 hora após a primeira (manual de higienização das mãos da ANVISA, 2009, e Caderno 4, 2017). Abrange mãos, antebraços e cotovelos, com as mãos mantidas acima dos cotovelos e secagem com compressa estéril. Com produto alcoólico sem enxágue, vale o tempo do fabricante. Os 40 a 60 segundos são da higiene simples com água e sabonete, e os 20 a 30 segundos, da fricção alcoólica.",
+  "porAlt": [
+   "Errada: 40 a 60 segundos é o tempo da higiene simples com água e sabonete.",
+   "Errada: 90 segundos e 40 a 60 segundos são tempos curtos demais para a antissepsia cirúrgica com degermante.",
+   "Correta: 3 a 5 minutos no primeiro procedimento e 2 a 3 nos seguintes, dentro de 1 hora.",
+   "Errada: 60 segundos não basta para a antissepsia cirúrgica com degermante.",
+   "Errada: 60 a 90 segundos é tempo insuficiente para a antissepsia cirúrgica com degermante."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O objetivo do uso de luvas é impedir o contato da pele das mãos com fontes contaminadas. São recomendações para utilização de luvas, exceto.",
+  "alts": [
+   "A higiene de mãos deve ser realizada imediatamente antes e sempre depois de tirar as luvas",
+   "As luvas devem ser trocadas sempre que se rompem",
+   "Utilizar luvas apenas quando for necessário, o uso excessivo pode causar dermatites",
+   "As luvas devem ser colocadas por baixo do punho do avental ou jaleco, se for indicado o uso de mangas compridas",
+   "Pode ser necessário trocar de luvas durante o atendimento do mesmo paciente, quando for preciso realizar várias atividades e as luvas ficarem contaminadas"
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ANVISA, Segurança do Paciente em Serviços de Saúde: Higienização das Mãos (2009)",
+  "coment": "Luva não substitui a higiene das mãos: higieniza-se antes de calçar e logo após retirar, porque a luva pode ter microfuros e as mãos se contaminam na retirada (manual de higienização das mãos da ANVISA, 2009). Troca-se a luva rompida e, no mesmo paciente, ao passar de sítio contaminado para limpo. O uso desnecessário gasta material, irrita a pele e dá falsa segurança. Com avental de manga longa, a luva é calçada por cima do punho do avental, para que não fique pele exposta nem passagem de fluido entre os dois. Por isso a D é a exceção.",
+  "porAlt": [
+   "Errada: higienizar as mãos antes e depois de retirar as luvas é recomendação correta.",
+   "Errada: a luva rompida deve ser trocada, e a recomendação está correta.",
+   "Errada: usar luvas só quando indicado é correto, pois o uso excessivo causa dermatite.",
+   "Correta: a luva é colocada por cima do punho do avental, e não por baixo.",
+   "Errada: trocar as luvas entre atividades no mesmo paciente é recomendação correta."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A notificação de surtos pelos serviços de saúde é um pilar do Sistema Nacional de Vigilância e Monitoramento de Surtos Infecciosos em Serviços de Saúde. Os surtos infecciosos em serviços de saúde, suspeitos ou confirmados, devem ser notificados em até ______ após a identificação do evento.\nAssinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "24 horas",
+   "48 horas",
+   "60 horas",
+   "72 horas",
+   "96 horas"
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "ANVISA, Programa Nacional de Prevenção e Controle de IRAS (PNPCIRAS) 2021-2025 (2021) e orientações da GVIMS/GGTES para notificação de surtos",
+  "coment": "A ANVISA organizou o Sistema Nacional de Vigilância e Monitoramento de Surtos Infecciosos em Serviços de Saúde para que os surtos sejam conhecidos e contidos cedo. Pelo gabarito oficial, o serviço de saúde, por meio da comissão de controle de infecção, notifica o surto suspeito ou confirmado em até 72 horas após a identificação, pelo formulário nacional, sem esperar o fim da investigação. Surto é o aumento de casos acima do esperado, ou um único caso de agente inusitado, num local e período. Não confundir com o evento adverso que evolui para óbito, também notificado em 72 horas, pela RDC 36/2013.",
+  "porAlt": [
+   "Errada: 24 horas não é o prazo previsto para notificar surto em serviço de saúde.",
+   "Errada: 48 horas não é o prazo previsto para notificar surto em serviço de saúde.",
+   "Errada: 60 horas não corresponde a nenhum prazo de notificação da ANVISA.",
+   "Correta: o surto suspeito ou confirmado é notificado em até 72 horas após a identificação.",
+   "Errada: 96 horas excede o prazo de 72 horas previsto para a notificação de surtos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Devem ser notificados ao Sistema Nacional de Vigilância e Monitoramento de Surtos Infecciosos em Serviços de Saúde. A esse respeito, analise as afirmativas abaixo.\nI. A primeira identificação de microrganismo multirresistente no serviço de saúde (colonização ou infecção).\nII. Surtos de infecção ou colonização por microrganismos multirresistentes.\nIII. Eventos infecciosos epidemiologicamente relevantes em serviços de saúde.\nIV. Surtos de agentes inusitados ou agentes comunitários de transmissão hospitalar.\nV. Casos, suspeitos ou confirmados, de Candida auris.\nVI. Infecções por micobactéria de crescimento rápido relacionadas a procedimentos em serviços de saúde.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I, II, e IV apenas",
+   "I, II, III e IV apenas",
+   "II, III, IV e V apenas",
+   "IV, V e VI apenas",
+   "I, II, III, IV, V e VI"
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "ANVISA, Programa Nacional de Prevenção e Controle de IRAS (PNPCIRAS) 2021-2025 (2021) e orientações da GVIMS/GGTES para notificação de surtos",
+  "coment": "Pelas orientações da ANVISA para o sistema nacional de surtos em serviços de saúde, notificam-se todos os itens listados: a primeira identificação de microrganismo multirresistente no serviço, como colonização ou infecção; surtos de infecção ou colonização por multirresistentes; eventos infecciosos epidemiologicamente relevantes; surtos por agentes inusitados ou por agentes comunitários com transmissão hospitalar; casos suspeitos ou confirmados de Candida auris, fungo multirresistente de fácil disseminação no ambiente; e infecções por micobactéria de crescimento rápido após procedimentos, em geral ligadas a falha no processamento de produtos.",
+  "porAlt": [
+   "Errada: III, V e VI também devem ser notificados.",
+   "Errada: Candida auris (V) e micobactéria de crescimento rápido (VI) também se notificam.",
+   "Errada: a primeira identificação de multirresistente no serviço (I) também se notifica.",
+   "Errada: os itens I, II e III também estão entre os eventos notificáveis.",
+   "Correta: todos os seis itens devem ser notificados ao sistema nacional de surtos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Doença de notificação compulsória é qualquer doença, agravo e evento, que a lei exija que seja comunicada às autoridades de saúde pública. Assinale a alternativa que evidencia a doença que deve ser notificada semanalmente.",
+  "alts": [
+   "Doença de Creutzfeldt-Jakob (DCJ)",
+   "Doença de Chagas Aguda",
+   "Acidente por animal potencialmente transmissor da raiva",
+   "Dengue – Óbitos",
+   "Hantavirose"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 11.211/2026, que alterou a lista nacional do Anexo 1 do Anexo V da Portaria de Consolidação nº 4/2017",
+  "coment": "A lista nacional de notificação compulsória (Anexo 1 do Anexo V da Portaria de Consolidação nº 4/2017), na redação da Portaria GM/MS 11.211/2026, mantém a doença de Creutzfeldt-Jakob como notificação semanal. São imediatas, em até 24 horas: doença de Chagas aguda (SES e SMS), acidente por animal potencialmente transmissor da raiva (SMS), óbito por dengue e hantavirose (MS, SES e SMS). Os casos de dengue são semanais, mas o óbito é imediato. Regra útil: agravo grave, de transmissão rápida ou que pede profilaxia imediata se notifica em 24 horas.",
+  "porAlt": [
+   "Correta: a doença de Creutzfeldt-Jakob é de notificação semanal na lista nacional.",
+   "Errada: a doença de Chagas aguda é de notificação imediata, em até 24 horas.",
+   "Errada: o acidente por animal potencialmente transmissor da raiva é imediato para a SMS, pela profilaxia.",
+   "Errada: o óbito por dengue é de notificação imediata; só os casos são semanais.",
+   "Errada: a hantavirose é de notificação imediata para as três esferas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A portaria nº 485, de 11 de novembro de 2005, que aprova a Norma Regulamentadora nº 32 - Segurança e Saúde no Trabalho em Estabelecimento de Saúde. Diante do exposto, assinale a alternativa incorreta.",
+  "alts": [
+   "Os quimioterápicos antineoplásicos somente devem ser preparados em área exclusiva e com acesso restrito aos profissionais diretamente envolvidos",
+   "Com relação aos quimioterápicos antineoplásicos, compete ao empregador: possibilitar que os trabalhadores expostos realizem atividades com possibilidade de exposição aos agentes ionizantes",
+   "Com relação aos quimioterápicos antineoplásicos é vedado: iniciar qualquer atividade na falta de equipamentos de proteção individuais",
+   "Com relação aos quimioterápicos, entende-se por acidente pessoal: contaminação gerada por contato ou inalação dos medicamentos da terapia quimioterápica antineoplásica em qualquer das etapas do processo",
+   "Com relação aos quimioterápicos antineoplásicos, compete ao empregador: fornecer aos trabalhadores dispositivos de segurança que minimizem a geração de aerossóis e a ocorrência de acidentes durante a manipulação e administração"
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NR 32 (Portaria MTE 485/2005, com alterações), item 32.3.9.4 (quimioterápicos antineoplásicos)",
+  "coment": "O item 32.3.9.4 da NR 32 trata dos quimioterápicos antineoplásicos. Eles só são preparados em área exclusiva e de acesso restrito, em cabine de segurança biológica. Compete ao empregador, entre outras medidas, afastar gestantes e nutrizes, proibir que os trabalhadores expostos realizem atividades com possibilidade de exposição a radiações ionizantes, para não somar agentes genotóxicos, e fornecer dispositivos de segurança contra aerossóis e acidentes. É vedado iniciar qualquer atividade sem os EPI, e acidente pessoal é a contaminação por contato ou inalação em qualquer etapa. A alternativa B inverte a regra.",
+  "porAlt": [
+   "Errada: o preparo em área exclusiva e de acesso restrito é exigência correta da NR 32.",
+   "Correta: a NR 32 manda proibir, e não possibilitar, a exposição desses trabalhadores a agentes ionizantes.",
+   "Errada: iniciar atividade sem EPI é, de fato, vedado pela NR 32.",
+   "Errada: essa é a definição correta de acidente pessoal com quimioterápico na NR 32.",
+   "Errada: fornecer dispositivos que reduzam aerossóis e acidentes é dever do empregador."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A resolução – RDC nº 15, de 15 de março de 2012, no Art. 13 diz: “Produtos para saúde utilizados na assistência ventilatória e inaloterapia, não poderão ser submetidos à desinfecção por métodos de ______ com a utilização de saneantes a base de ______”.\nAssinale a alternativa que preencha correta e respectivamente as lacunas.",
+  "alts": [
+   "imersão química líquida / aldeídos",
+   "esterilização / polihexametileno biguanida",
+   "termodesinfecção / monopersulfato de potássio",
+   "imersão química líquida / glucoprotamina",
+   "termodesinfecção / polihexametileno biguanida"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 15/2012, art. 13",
+  "coment": "O art. 13 da RDC ANVISA 15/2012 proíbe desinfetar produtos de assistência ventilatória e inaloterapia por imersão química líquida com saneantes à base de aldeídos, como glutaraldeído e formaldeído. O resíduo de aldeído em máscaras, circuitos e nebulizadores seria inalado pelo paciente e é tóxico e irritante para as vias aéreas, além de expor o trabalhador. Esses itens vão para termodesinfecção ou desinfetantes sem aldeído. Polihexametileno biguanida, monopersulfato de potássio e glucoprotamina não são aldeídos.",
+  "porAlt": [
+   "Correta: a RDC 15/2012 veda a imersão química líquida com saneantes à base de aldeídos nesses produtos.",
+   "Errada: esterilização não é método de desinfecção, e o polihexametileno biguanida não é aldeído.",
+   "Errada: a termodesinfecção é método indicado para esses produtos, e o monopersulfato não é aldeído.",
+   "Errada: a glucoprotamina não é aldeído; a proibição é dos saneantes à base de aldeídos.",
+   "Errada: a termodesinfecção é permitida e o polihexametileno biguanida não é aldeído."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a resolução – RDC nº 15, de 15 de março de 2012, a definição de produto para saúde crítico de conformação complexa são:",
+  "alts": [
+   "produtos para a saúde utilizados em procedimentos invasivos com penetração de pele e mucosas adjacentes, tecidos subepiteliais, e sistema vascular, incluindo também todos os produtos para saúde que estejam diretamente conectados com esses sistemas",
+   "produtos que entram em contato com pele não íntegra ou mucosas íntegras colonizadas",
+   "produtos que entram em contato com pele íntegra ou não entram em contato com o paciente",
+   "produtos para saúde fabricado a partir de matérias primas e conformação estrutural, que permitem repetidos processos de limpeza, preparo e desinfecção ou esterilização, até que percam a sua eficácia e funcionalidade",
+   "produtos para saúde que possuam lúmem inferior a cinco milímetros ou com fundo cego, espaços internos inacessíveis para a fricção direta, reentrâncias ou válvulas"
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 15/2012, arts. 4º, 5º e 67",
+  "coment": "Pela RDC ANVISA 15/2012 (art. 4º), produtos críticos de conformação complexa têm lúmen inferior a 5 mm ou fundo cego, espaços internos inacessíveis à fricção direta, reentrâncias ou válvulas. Só a CME Classe II pode processá-los (art. 5º), com limpeza manual seguida de automatizada e lavadora ultrassônica com conector para canulados no lúmen abaixo de 5 mm (art. 67). A alternativa A define produto crítico em geral, a B produto semicrítico, a C produto não crítico e a D produto passível de processamento.",
+  "porAlt": [
+   "Errada: essa é a definição de produto crítico em geral, sem a conformação complexa.",
+   "Errada: contato com pele não íntegra ou mucosa íntegra colonizada define produto semicrítico.",
+   "Errada: contato com pele íntegra ou nenhum contato define produto não crítico.",
+   "Errada: essa é a definição de produto para saúde passível de processamento.",
+   "Correta: lúmen inferior a 5 mm, fundo cego, espaços inacessíveis, reentrâncias ou válvulas definem a conformação complexa."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a infecção em recém-nascido, cuja aquisição por via transplacentária é conhecida ou foi comprovada e que tornou-se evidente logo após o nascimento, assinale a alternativa incorreta.",
+  "alts": [
+   "Citomegalovirose",
+   "Doença de Chagas",
+   "Sífilis",
+   "Rubéola",
+   "Febre amarela"
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ANVISA, Critérios Diagnósticos de Infecção Relacionada à Assistência à Saúde: Neonatologia (2017)",
+  "coment": "Pelos critérios da ANVISA para neonatologia (2017), infecção adquirida por via transplacentária e evidente logo após o nascimento não é IRAS, porque foi contraída intraútero. Entram nesse grupo a citomegalovirose, a toxoplasmose, a rubéola, a sífilis e a doença de Chagas, entre outras. A febre amarela não está nessa lista: o vírus se transmite pela picada do mosquito, e a transmissão vertical é excepcional. Por isso a E é a incorreta. Saber separar a infecção congênita da IRAS evita notificar como falha assistencial o que veio da gestação.",
+  "porAlt": [
+   "Errada: a citomegalovirose é infecção congênita transplacentária clássica.",
+   "Errada: a doença de Chagas pode ser transmitida por via transplacentária.",
+   "Errada: a sífilis congênita é adquirida por via transplacentária.",
+   "Errada: a rubéola congênita é transmitida pela placenta.",
+   "Correta: a febre amarela não é infecção transplacentária reconhecida; a transmissão é vetorial."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O aleitamento materno promove benefícios para a mulher, a criança, a família e para o próprio ambiente, desta forma, é recomendado até os 2 anos de idade ou mais, e de forma exclusiva até o 6º mês de vida da criança. Sobre doença em que a amamentação é contra indicada, assinale a alternativa correta.",
+  "alts": [
+   "Hepatites A, B, C",
+   "Caxumba",
+   "Rubéola",
+   "Infecção pelo HTLV-1 e HTLV-2",
+   "Influenza H1N1"
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Aleitamento e alimentação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Saúde da Criança: aleitamento materno e alimentação complementar, Caderno de Atenção Básica 23, 2ª ed. (2015)",
+  "coment": "No Brasil a amamentação é contraindicada à mãe com HIV ou com HTLV-1 e HTLV-2, porque o vírus passa pelo leite; o SUS oferece fórmula e orienta inibir a lactação, e o aleitamento cruzado é proibido. Também contraindicam a galactosemia clássica da criança e o uso de antineoplásicos. Hepatites A, B e C não impedem: na B, o bebê recebe vacina e imunoglobulina ao nascer. Caxumba, rubéola e influenza, inclusive H1N1, também não, porque o bebê já foi exposto antes dos sintomas e o leite oferece anticorpos; na influenza, a mãe usa máscara e higieniza as mãos.",
+  "porAlt": [
+   "Errada: hepatites A, B e C não contraindicam a amamentação; na B, o bebê recebe vacina e imunoglobulina.",
+   "Errada: a caxumba materna não contraindica a amamentação.",
+   "Errada: a rubéola materna não contraindica a amamentação.",
+   "Correta: a infecção materna por HTLV-1 ou HTLV-2 contraindica a amamentação.",
+   "Errada: na influenza H1N1 a mãe amamenta com máscara e higiene das mãos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+   "n": 56,
+   "parte": "especificas"
+  }
+ }
+]

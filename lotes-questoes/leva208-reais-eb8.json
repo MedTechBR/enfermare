@@ -1,0 +1,1538 @@
+[
+ {
+  "q": "São antibióticos polipeptídicos com propriedades detergentes que, em contato com as bactérias gram-negativas, causam efeito bactericida quase que imediato. Eles têm ação somente contra bacilos gram-negativos. Os principais representantes deste antibiótico são:",
+  "alts": [
+   "Polimixina B e Colistina",
+   "Polimixina e Meropenen",
+   "Penicilina e Colistina",
+   "Ceftazidima e Penicilina",
+   "Ceftarolina e Polimixina"
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Goodman & Gilman, As Bases Farmacológicas da Terapêutica, 13ª ed. 2019",
+  "coment": "Polimixinas são polipeptídeos catiônicos que agem como detergentes: ligam-se ao lipopolissacarídeo e aos fosfolipídios da membrana externa dos gram-negativos, desorganizam a membrana e matam a bactéria rapidamente. O espectro é restrito a bacilos gram-negativos. Os dois representantes de uso clínico são a polimixina B e a polimixina E, chamada colistina. Hoje ficam reservadas para gram-negativos multirresistentes, como Acinetobacter e enterobactérias produtoras de carbapenemase, e exigem vigilância de nefrotoxicidade e neurotoxicidade (Goodman & Gilman, 13ª ed., 2019).",
+  "porAlt": [
+   "Correta: polimixina B e colistina (polimixina E) são as duas polimixinas de uso clínico.",
+   "Meropenem é carbapenêmico, um betalactâmico que inibe a síntese da parede celular.",
+   "Penicilina é betalactâmico, sem ação detergente sobre a membrana externa.",
+   "Ceftazidima é cefalosporina de 3ª geração e penicilina é betalactâmico; nenhuma é polipeptídeo.",
+   "Ceftarolina é cefalosporina com ação anti-MRSA, não um polipeptídeo detergente."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Nas doenças transmissíveis, o ______ é o tempo que transcorre desde a infecção até que a pessoa se torne infectada. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "Período de latência",
+   "Período de incubação",
+   "Período de transmissão",
+   "Período de infecção",
+   "Período de exposição"
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Rouquayrol MZ, Silva MGC. Epidemiologia & Saúde, 8ª ed. 2018",
+  "coment": "O enunciado traz um erro da banca: onde se lê 'infectada', entenda 'infectante'. Período de latência, no sentido epidemiológico, é o intervalo entre a infecção e o momento em que o hospedeiro passa a transmitir o agente. Não se confunde com o período de incubação, que vai da infecção ao aparecimento dos sintomas. Os dois podem não coincidir: em várias infecções a transmissão começa antes dos sintomas. Período de transmissibilidade é o tempo durante o qual o agente pode passar a outro hospedeiro (Rouquayrol, Epidemiologia & Saúde, 8ª ed., 2018).",
+  "porAlt": [
+   "Correta: latência é o intervalo da infecção até o hospedeiro se tornar infectante.",
+   "Incubação vai da infecção ao início dos sinais e sintomas, não ao início da transmissão.",
+   "Período de transmissão é a duração da capacidade de transmitir, não o tempo até ela começar.",
+   "Período de infecção não é termo técnico que designe esse intervalo.",
+   "Exposição é o contato com a fonte, anterior à própria infecção."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A capacidade de um agente infeccioso de produzir doença em pessoas infectadas é nomeado de:",
+  "alts": [
+   "infectividade",
+   "virulência",
+   "patogenicidade",
+   "letalidade",
+   "latência"
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Rouquayrol MZ, Silva MGC. Epidemiologia & Saúde, 8ª ed. 2018",
+  "coment": "Os atributos do agente se medem em degraus. Infectividade é a capacidade de penetrar, se alojar e multiplicar no hospedeiro (infectados entre expostos). Patogenicidade é a capacidade de produzir doença nos infectados (doentes entre infectados). Virulência é a capacidade de produzir casos graves ou fatais (casos graves entre doentes). Letalidade é a proporção de óbitos entre os doentes. O enunciado pergunta exatamente o segundo degrau, doença entre infectados: a patogenicidade (Rouquayrol, Epidemiologia & Saúde, 8ª ed., 2018).",
+  "porAlt": [
+   "Infectividade é a capacidade de infectar, isto é, de se alojar e multiplicar no hospedeiro.",
+   "Virulência mede a gravidade, a capacidade de causar casos graves ou fatais entre os doentes.",
+   "Correta: patogenicidade é a capacidade de produzir doença em quem foi infectado.",
+   "Letalidade é a proporção de óbitos entre os casos da doença.",
+   "Latência é intervalo de tempo, não atributo de produzir doença."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O parto vaginal apresenta menor risco de infecção puerperal, porém existem vários fatores associados a este tipo de infecção. Sobre estes fatores de risco, assinale a alternativa incorreta.",
+  "alts": [
+   "Tempo de ruptura de membranas amnióticas ≥ 18 horas",
+   "Presença de qualquer infecção, em especial do trato geniturinário",
+   "Episiotomia",
+   "Extração manual da placenta",
+   "Laceração perineal de grau 2"
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ANVISA. Medidas de Prevenção e Critérios Diagnósticos de Infecções Puerperais em Parto Vaginal e Cirurgia Cesariana, 2017",
+  "coment": "A banca listou fatores de risco reconhecidos para infecção puerperal no parto vaginal: ruptura de membranas por 18 horas ou mais, infecção prévia, sobretudo geniturinária, episiotomia e extração manual da placenta. A laceração perineal que pesa no risco é a extensa, de 3º e 4º graus, que atinge o esfíncter anal. A de 2º grau, restrita à musculatura do períneo, é frequente e não figura como fator de destaque. Por isso E é a incorreta. A pegadinha é o grau: o risco acompanha a extensão do trauma perineal e a manipulação da cavidade uterina.",
+  "porAlt": [
+   "Ruptura de membranas por 18 horas ou mais favorece a ascensão de germes e é fator de risco.",
+   "Infecção prévia, sobretudo do trato geniturinário, é fator de risco reconhecido.",
+   "Episiotomia cria ferida perineal e é fator de risco de infecção puerperal.",
+   "Extração manual da placenta leva a mão à cavidade uterina e aumenta o risco de endometrite.",
+   "Correta: o risco se associa às lacerações extensas, de 3º e 4º graus, e não à de 2º grau."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Infecção Hospitalar",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre doença renal crônica (DRC) analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) A Doença Renal Crônica (DRC) é atualmente considerada um problema de saúde pública em todo o mundo devido à sua prevalência e crescente incidência na população.\n( ) A insuficiência renal crônica (DRC) é uma doença caracterizada pela insuficiência progressiva da função renal que faz com que as substâncias resultantes do metabolismo do corpo humano sejam eliminadas.\n( ) A Doença Renal Crônica (DRC) tem seu comportamento crônico ou permanente, tem potencial letal e representa uma despesa importante na saúde para o sistema, uma vez que requer alta complexidade técnica em sua gestão.\n( ) A DRC é uma doença cujo comportamento crônico e sua alta morbimortalidade impactam negativamente na capacidade funcional e a percepção da qualidade de vida relacionada à saúde.\nAssinale a alterativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "V - F - V - V",
+   "F - F - V - V",
+   "V - F - V - F",
+   "V - V - F - F"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretrizes Clínicas para o Cuidado ao Paciente com Doença Renal Crônica no SUS (MS, 2014); KDIGO 2024",
+  "coment": "A primeira, a terceira e a quarta afirmativas descrevem a DRC como problema de saúde pública, crônica, potencialmente letal, cara para o sistema e com impacto na capacidade funcional e na qualidade de vida. A segunda é falsa pela palavra final: a perda progressiva da função renal faz com que as substâncias do metabolismo sejam retidas, e não eliminadas. É a retenção de ureia, potássio, fósforo, ácidos e água que gera uremia, hipercalemia e congestão. Sequência V, F, V, V (Diretrizes Clínicas para o Cuidado ao Paciente com DRC no SUS, MS, 2014).",
+  "porAlt": [
+   "Erra ao marcar a segunda como verdadeira: o rim que falha retém, não elimina, os produtos do metabolismo.",
+   "Correta: só a segunda é falsa, porque a insuficiência renal causa retenção das substâncias.",
+   "A primeira é verdadeira: a DRC é problema de saúde pública pela prevalência crescente.",
+   "A quarta é verdadeira: a DRC piora a capacidade funcional e a qualidade de vida.",
+   "A segunda é falsa e a terceira e a quarta são verdadeiras, ao contrário desta sequência."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o texto abaixo:\nNo Brasil, mais de 25 mil pacientes com doenças renais encontram-se em estágio 5, necessitando de terapia renal substitutiva, sendo a o procedimento ______de alto custo mais frequente nessa população.\nAssinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "medicamentos",
+   "filtração glomerular",
+   "diálise",
+   "transplante renal",
+   "não farmacológica"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes Clínicas para o Cuidado ao Paciente com Doença Renal Crônica no SUS (MS, 2014)",
+  "coment": "No estágio 5, com filtração abaixo de 15 mL/min/1,73 m², a terapia renal substitutiva compreende hemodiálise, diálise peritoneal e transplante. A diálise é a modalidade mais frequente no Brasil e um dos procedimentos de alto custo que mais consomem recursos do SUS, financiada como alta complexidade. O transplante é o melhor tratamento para o elegível, mas atende a minoria, pela oferta limitada de órgãos. O número de pacientes do enunciado vem de texto antigo; o contingente atual em diálise no país é bem maior.",
+  "porAlt": [
+   "Medicamentos não são terapia renal substitutiva e não preenchem a frase sobre procedimento.",
+   "Filtração glomerular é função do rim, medida na avaliação, não um procedimento.",
+   "Correta: a diálise é a terapia renal substitutiva de alto custo mais frequente no estágio 5.",
+   "O transplante é o melhor tratamento, mas é bem menos frequente que a diálise.",
+   "Terapia não farmacológica não substitui a função renal no estágio 5."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o texto abaixo:\nA doença renal crônica (DRC) é definida como a presença por um mínimo de três meses de uma taxa de filtração glomerular estimada inferior a ______e lesão renal.\nAssinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "90mL/min/1,73m²",
+   "80 ml/min/1,73m²",
+   "75mL/min/1,73m²",
+   "70mL/min/1,73m²",
+   "60mL/min/1,73m²"
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease",
+  "coment": "Pelo KDIGO 2024, doença renal crônica é alteração da estrutura ou da função renal por pelo menos 3 meses, com implicação para a saúde. Basta um de dois critérios: filtração glomerular abaixo de 60 mL/min/1,73 m² ou marcador de lesão, como albuminúria de 30 mg/g ou mais, alteração do sedimento ou de imagem. O enunciado diz 'e lesão renal', mas na definição o conectivo é 'ou': filtração abaixo de 60 já basta, e lesão com filtração normal também é DRC. O número cobrado, 60, está certo. Filtração de 60 a 89 é G2, levemente diminuída, e só é DRC se houver marcador de lesão.",
+  "porAlt": [
+   "90 é o limite inferior da categoria G1; de 60 a 89 a filtração é só levemente diminuída.",
+   "80 não é ponto de corte de nenhuma categoria de filtração do KDIGO.",
+   "75 não é ponto de corte de nenhuma categoria de filtração do KDIGO.",
+   "70 não é ponto de corte de nenhuma categoria de filtração do KDIGO.",
+   "Correta: filtração abaixo de 60 mL/min/1,73 m² por 3 meses ou mais define DRC (KDIGO 2024)."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa correta de quem é o gestor, a nível federal, das ações na Atenção Especializada às pessoas com doenças renais crônicas.",
+  "alts": [
+   "Secretaria municipal de saúde",
+   "Secretaria estadual de saúde",
+   "Poder legislativo",
+   "Ministério da saúde",
+   "Poder executivo"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 389/2014 (linha de cuidado da pessoa com DRC)",
+  "coment": "Na organização da atenção à pessoa com DRC, cada esfera tem seu papel. O Ministério da Saúde é o gestor federal: define diretrizes, habilita e cofinancia os serviços de atenção especializada em DRC. Estados e municípios planejam, regulam, contratam e fiscalizam na sua base territorial. Poder Legislativo faz leis, e Poder Executivo é gênero que abrange as três esferas, não um gestor específico. A pergunta pede o gestor federal, logo o Ministério da Saúde, como dispõe a Portaria GM/MS 389/2014, que fixou os critérios da linha de cuidado da DRC.",
+  "porAlt": [
+   "A secretaria municipal é a gestora local, não federal, da atenção à DRC.",
+   "A secretaria estadual é a gestora estadual, que regula e organiza a rede no estado.",
+   "O Poder Legislativo elabora leis e não executa a gestão do SUS.",
+   "Correta: o Ministério da Saúde é o gestor federal, que habilita e cofinancia a atenção especializada em DRC.",
+   "Poder Executivo é gênero que abrange as três esferas; o gestor federal específico é o Ministério da Saúde."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Analise as afirmativas abaixo sobre implementação de diagnósticos de enfermagem para desequilíbrios do volume de líquido extracelular (LEC).\nI. Realizar o registro das ingestões, incluindo as vias oral e intravenosa, tubos de alimentação e irrigantes retidos, e eliminações no período de 24 horas.\nII. Observar sinais e sintomas de excesso e déficit de volume de LEC, como alteração da pressão sanguínea, força da pulsação e distensão venosa jugular.\nIII. Realizar a ausculta, observando a ocorrência de estertores úmidos, verificar falta de ar, tosse irritativa, aumento da frequência respiratória e diminuição da perfusão tecidual.\nIV. Avaliar nível de consciência, resposta pupilar à luz, movimentação voluntária dos membros, grau de força muscular e reflexo.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I e II apenas",
+   "I, II e III apenas",
+   "I e III apenas",
+   "II, III e IV apenas",
+   "I, II, III e IV"
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 14ª ed. 2020",
+  "coment": "Todas descrevem intervenções de enfermagem para desequilíbrio de volume do líquido extracelular. O balanço hídrico de 24 horas, com todas as vias de entrada (oral, venosa, sondas, irrigações retidas) e de saída, é a base. Pressão, pulso e turgência jugular mostram excesso ou déficit. A ausculta pulmonar procura estertores, dispneia e taquipneia do excesso. A avaliação neurológica entra porque os desequilíbrios de volume costumam vir com alterações de sódio e de osmolaridade, que dão confusão, rebaixamento e convulsão. O peso diário completa o conjunto (Brunner & Suddarth, 14ª ed., 2020).",
+  "porAlt": [
+   "Deixa de fora a ausculta pulmonar e a avaliação neurológica, também indicadas.",
+   "Exclui a avaliação neurológica, que detecta as repercussões dos desequilíbrios de volume e de sódio.",
+   "Exclui a observação de pressão, pulso e jugular, sinais centrais de excesso ou déficit.",
+   "Exclui o balanço hídrico de 24 horas, base da avaliação do volume.",
+   "Correta: as quatro intervenções fazem parte da vigilância do volume do líquido extracelular."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o trecho a seguir:\nEstudos mostram que pacientes com a DRC (doença renal crônica) o consumo de alimentos ricos em ______ bem como a ingestão de ______ e diminuição da produção de urina residual está diretamente relacionado ao aumento ganho de peso e aumento da pressão arterial.\nAssinale a alternativa que preencha correta e respectivamente as lacunas.",
+  "alts": [
+   "magnésio / carboidratos",
+   "potássio / carboidratos",
+   "sódio / excesso de líquidos",
+   "cálcio / açucares",
+   "sódio / redução de líquidos"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease",
+  "coment": "No doente renal crônico, sobretudo no dialítico com pouca diurese residual, o sódio ingerido provoca sede, retenção de água e expansão do extracelular. O resultado é ganho de peso entre as sessões e hipertensão, e o excesso de líquidos soma ao mesmo efeito. Por isso a orientação é sódio abaixo de 2 g por dia (KDIGO 2024) e ingestão de líquidos ajustada à diurese residual. Ganho grande obriga ultrafiltração agressiva, que derruba a pressão e provoca câimbras na sessão.",
+  "porAlt": [
+   "Magnésio e carboidratos não são os determinantes do ganho de peso interdialítico.",
+   "O potássio causa hipercalemia e arritmia, não ganho de peso; carboidratos não retêm volume.",
+   "Correta: sódio e excesso de líquidos expandem o volume, elevam o peso e a pressão.",
+   "Cálcio e açúcares não explicam retenção de volume e hipertensão no renal crônico.",
+   "Reduzir líquidos diminui, e não aumenta, o ganho de peso entre as sessões."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre as complicações comuns durante a hemodiálise dê valores Verdadeiro (V) ou Falso (F).\n( ) Hipotensão\n( ) Câimbras\n( ) Dor torácica\n( ) Prurido\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "V - V - V - F",
+   "V - V - F - V",
+   "F - F - V - V",
+   "F - V - V - V"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Daugirdas JT, Blake PG, Ing TS. Manual de Diálise, 5ª ed. 2016",
+  "coment": "As quatro são complicações comuns da hemodiálise. Hipotensão é a mais frequente, ligada à ultrafiltração rápida ou excessiva e ao peso seco subestimado. Câimbras acompanham a remoção agressiva de volume e a hipotensão. Dor torácica pode vir de hipotensão, isquemia miocárdica ou reação ao dialisador, e exige avaliação imediata. Prurido é queixa frequente do urêmico, associada a fósforo e paratormônio elevados e à diálise inadequada. Na lista clássica também estão náusea, vômito, cefaleia, febre e calafrios (Daugirdas, Manual de Diálise, 5ª ed., 2016).",
+  "porAlt": [
+   "Correta: hipotensão, câimbras, dor torácica e prurido são complicações comuns da hemodiálise.",
+   "Marca o prurido como falso, mas ele é queixa frequente do paciente em hemodiálise.",
+   "Marca a dor torácica como falsa, mas ela ocorre e pede avaliação imediata.",
+   "Hipotensão e câimbras são justamente as complicações intradialíticas mais frequentes.",
+   "Hipotensão é a complicação mais comum da hemodiálise e não pode ser falsa."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A infecção primária da corrente sanguínea (IPCS) associada ao cateter central para hemodiálise é uma complicação que pode ser minimizada pela melhora da assistência da enfermagem, sobre prevenção de (IPCS) associada ao cateter central assinale a alternativa incorreta.",
+  "alts": [
+   "Treinamentos e capacitações",
+   "Educação dos pacientes",
+   "Barreira máxima na inserção",
+   "Colher hemoculturas pareadas",
+   "Reavaliação Diária da Necessidade de Manutenção do cateter"
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "ANVISA. Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2017",
+  "coment": "Treinamento da equipe, educação do paciente, barreira máxima na inserção e reavaliação diária da necessidade do cateter fazem parte do pacote de prevenção da infecção primária da corrente sanguínea do Caderno 4 da ANVISA (2017). Colher hemoculturas pareadas é medida diagnóstica: entra quando há febre ou calafrio no paciente com cateter, para confirmar a infecção antes do antibiótico. Não previne nada, por isso é a incorreta. Na diálise acrescentam-se máscara e técnica asséptica para paciente e profissional na conexão e na desconexão, e a preferência pela fístula sobre o cateter.",
+  "porAlt": [
+   "Treinamento e capacitação da equipe estão no pacote de prevenção de infecção de cateter.",
+   "Educar o paciente sobre os cuidados com o cateter integra a prevenção da IPCS.",
+   "Barreira máxima estéril na inserção é recomendação do Caderno 4 da ANVISA.",
+   "Correta: hemoculturas pareadas servem ao diagnóstico da infecção, não à sua prevenção.",
+   "Reavaliar todo dia a necessidade do cateter reduz o tempo de exposição e o risco."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A ativação do sistema renina-angiotensina secundária a depleção de volume ocasionado pela hemodiálise, pode ocasionar um tipo de alteração no paciente, sendo:",
+  "alts": [
+   "náuseas e vômitos",
+   "diabetes",
+   "picos hipertensivos",
+   "crise convulsiva",
+   "hipercalcemia"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Daugirdas JT, Blake PG, Ing TS. Manual de Diálise, 5ª ed. 2016",
+  "coment": "A remoção de volume na hemodiálise estimula a liberação de renina. A angiotensina II faz vasoconstrição e a pressão sobe durante a sessão ou logo depois: é a hipertensão intradialítica, que aparece como picos hipertensivos. Somam-se a ativação simpática, a remoção de anti-hipertensivos pelo dialisador e a sobrecarga de volume não reconhecida. A enfermagem afere a pressão em série, comunica a elevação e ajuda a rever o peso seco e o horário dos anti-hipertensivos (Daugirdas, Manual de Diálise, 5ª ed., 2016).",
+  "porAlt": [
+   "Náuseas e vômitos ocorrem em geral com hipotensão ou síndrome do desequilíbrio, não pela renina.",
+   "Diabetes não é consequência da ativação do sistema renina-angiotensina na sessão.",
+   "Correta: a angiotensina II gera vasoconstrição e picos hipertensivos durante ou após a diálise.",
+   "Convulsão na diálise se associa à síndrome do desequilíbrio ou a distúrbios metabólicos.",
+   "Hipercalcemia depende do banho de cálcio e do metabolismo mineral, não da renina."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o processo de administração de medicamento que é composto por várias etapas, assinale a alternativa incorreta.",
+  "alts": [
+   "leitura da prescrição",
+   "notificação",
+   "aprazamento",
+   "preparo",
+   "monitoramento das respostas do paciente"
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "O processo de medicação é uma cadeia: prescrição, dispensação, administração e monitoramento. Na parte da enfermagem, as etapas são leitura e interpretação da prescrição, aprazamento, preparo, administração e monitoramento da resposta do paciente, com registro. Notificação não é etapa do processo; é a conduta diante de um erro ou evento adverso, encaminhada ao Núcleo de Segurança do Paciente. Por isso é a incorreta. O protocolo de 2013 organiza a administração pelos nove certos: paciente, medicamento, via, hora, dose, registro, orientação, forma e resposta.",
+  "porAlt": [
+   "Ler e interpretar a prescrição é a primeira etapa da administração.",
+   "Correta: notificação é resposta a erro ou evento adverso, não etapa do processo de administração.",
+   "Aprazamento distribui os horários das doses e é etapa da enfermagem.",
+   "Preparo, com conferência e técnica asséptica, é etapa da administração.",
+   "Monitorar a resposta do paciente fecha o processo e é um dos certos do protocolo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Analise as afirmativas sobre a terapia renal substitutiva (TRS) beira leito e dê valores Verdadeiro (V) ou Falso (F).\n( ) a realização de diálise peritoneal em sistema aberto pode ser realizada desde de que o médico acompanhe.\n( ) todo procedimento dialítico realizado à beira leito em ambiente intrahospitalar, fora da Unidade de Diálise, deve ser supervisionado integralmente por um Médico e um Enfermeiro, da própria unidade ou do Serviço de Diálise móvel.\n( ) a TRS beira leito realizada em indivíduos na faixa etária de 0 a 18 anos deve ser acompanhada por médico nefrologista pediátrico.\n( ) a TRS beira leito em Unidade de Terapia Intensiva (UTI) deve ser realizada e monitorada por Técnico de Enfermagem exclusivo para esta atividade.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "F - V - V - F",
+   "V - V - F - V",
+   "F - V - F - V",
+   "F - F - V - F"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Resolução SESA-PR 824/2021, arts. 22, 27, 29 e 30; RDC ANVISA 11/2014, art. 10",
+  "coment": "A questão segue a Resolução SESA 824/2021, do Paraná, que regula a terapia renal substitutiva à beira do leito fora da unidade de diálise. A primeira é falsa: a diálise peritoneal em sistema aberto é vedada (art. 22), como na RDC ANVISA 11/2014 (art. 10), qualquer que seja o acompanhamento. A segunda repete o art. 27. A terceira é falsa pela idade: o nefrologista pediátrico acompanha a faixa de 0 a 14 anos (art. 29), não até 18. A quarta repete o art. 30, que ainda exige um técnico exclusivo por paciente na UTI. É norma estadual; em outro estado, confira a regra local.",
+  "porAlt": [
+   "Erra na primeira e na terceira: sistema aberto é vedado e a faixa pediátrica vai até 14 anos.",
+   "A quarta é verdadeira: na UTI, técnico de enfermagem exclusivo realiza e monitora a TRS.",
+   "A primeira é falsa, porque a diálise peritoneal em sistema aberto é vedada.",
+   "Correta: só a segunda e a quarta repetem a norma (arts. 27 e 30 da Resolução SESA 824/2021).",
+   "A segunda é verdadeira e a terceira é falsa, pois a faixa do nefropediatra é de 0 a 14 anos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o trecho a seguir: O Técnico de Enfermagem responsável pela realização da TRS beira leito em pacientes renais crônicos ou agudos internados em enfermaria, estáveis clinicamente, porém com necessidade de tratamento dialítico de forma rotineira, somente poderá atender até o limite de ______ pacientes, sendo obrigatório, nestas condições, que os mesmos estejam internados na mesma enfermaria. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "um",
+   "dois",
+   "três",
+   "quatro",
+   "cinco"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Resolução SESA-PR 824/2021, art. 31",
+  "coment": "Pela Resolução SESA 824/2021, do Paraná, o técnico de enfermagem que faz TRS à beira do leito em pacientes estáveis, internados em enfermaria e com diálise de rotina, atende no máximo 4 pacientes, e todos precisam estar na mesma enfermaria (art. 31). Na UTI a regra é outra: um técnico exclusivo por paciente (art. 30). Em todos os casos o procedimento é supervisionado integralmente por médico e enfermeiro (art. 27). A norma é estadual e foi cobrada em concurso nacional; o parâmetro federal de dimensionamento em hemodiálise está no Parecer Normativo COFEN 01/2024.",
+  "porAlt": [
+   "Um paciente por técnico é a regra da UTI (art. 30), não a da enfermaria.",
+   "Dois fica abaixo do limite de quatro fixado pelo art. 31 para a enfermaria.",
+   "Três fica abaixo do limite de quatro fixado pelo art. 31.",
+   "Correta: até 4 pacientes, todos internados na mesma enfermaria (art. 31).",
+   "Cinco excede o limite máximo de quatro pacientes por técnico."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Quanto ao reuso de dialisadores em hemodiálises. é incorreto afirmar:",
+  "alts": [
+   "é vedado reuso de pacientes com sorologia positiva para hepatite B, hepatite C (tratados ou não) e HIV",
+   "todas as atividades relacionadas ao processamento de dialisadores devem ser realizadas por profissional comprovadamente capacitado para esta atividade",
+   "no caso da esterilização química líquida, os dialisadores devem ser submetidos ao enxágue na máquina de hemodiálise, para remoção da solução esterilizante imediatamente antes do início da diálise",
+   "o profissional do serviço deve apresentar ao paciente o dialisador, devidamente identificado com o registro da data do primeiro uso, antes de ser submetido à hemodiálise",
+   "os dialisadores podem ser utilizados para o mesmo paciente no máximo 30 (trinta) vezes, após ser submetido ao processamento automático, observando-se a medida mínima permitida do volume interno das fibras"
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 11/2014 (boas práticas dos serviços de diálise)",
+  "coment": "Pela RDC ANVISA 11/2014, o dialisador pode ser reusado no mesmo paciente no máximo 20 vezes, e não 30, com processamento automático, e é descartado antes se o volume interno das fibras cair abaixo do mínimo permitido. O limite de 12 reúsos de questões antigas valia só para o processamento manual, no prazo de transição da própria RDC. As demais afirmativas estão na norma: reuso vedado em hepatite B, hepatite C e HIV; processamento por profissional capacitado; enxágue na máquina para retirar o esterilizante logo antes da sessão; e apresentação do dialisador identificado ao paciente antes do uso.",
+  "porAlt": [
+   "Está na RDC 11/2014: reuso vedado em hepatite B, C e HIV; por isso não é a incorreta.",
+   "Está na norma: o processamento exige profissional capacitado, logo não é a incorreta.",
+   "Está na norma: o enxágue retira o esterilizante imediatamente antes da diálise.",
+   "Está na norma: o paciente vê o dialisador identificado com a data do primeiro uso.",
+   "Correta: o limite é de 20 reúsos com processamento automático, e não 30."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A confecção da a Fístula Arteriovenosa (FAV) deve acontecer antes da necessidade obrigatória do tratamento hemodialítico, visto que é fundamental aguardar o período de maturação, que ocorre em no mínimo ______ para o seu pleno funcionamento.\nAssinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "7 dias",
+   "10 dias",
+   "15 dias",
+   "30 dias",
+   "45 dias"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "KDOQI Clinical Practice Guideline for Vascular Access, atualização 2019",
+  "coment": "A fístula arteriovenosa é o acesso de escolha para hemodiálise e deve ser confeccionada antes da necessidade da diálise, porque a veia precisa se dilatar e espessar a parede para suportar punções repetidas. A banca fixou o mínimo de 30 dias, cerca de 4 semanas. O KDOQI 2019 considera razoável que a equipe de acesso avalie a maturação em 4 a 6 semanas, investigando a fístula que não amadurece. Até lá a enfermagem orienta exercícios de mão, proíbe punção venosa e aferição de pressão no braço da fístula e ensina a palpar o frêmito todos os dias.",
+  "porAlt": [
+   "Sete dias não bastam para a veia arterializar e suportar punções.",
+   "Dez dias é prazo curto para a maturação, que leva semanas.",
+   "Quinze dias é o momento de avaliar complicações cirúrgicas, não de usar a fístula.",
+   "Correta: a maturação exige ao menos cerca de 30 dias, com avaliação em 4 a 6 semanas.",
+   "Quarenta e cinco dias cabe na faixa de avaliação, mas não é o mínimo pedido."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Potter, temos dois tipos de liderança: a transacional e a transformacional. São características da liderança transformacional, exceto:",
+  "alts": [
+   "recompensa contingente e gerenciamento por exceção",
+   "estimulação intelectual",
+   "consideração individualizada",
+   "fortalecimento da equipe",
+   "carisma"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Potter PA, Perry AG. Fundamentos de Enfermagem, 9ª ed. 2018",
+  "coment": "Liderança transacional se baseia na troca: o líder define metas, oferece recompensa contingente ao desempenho e intervém quando algo foge do padrão, o gerenciamento por exceção. Liderança transformacional inspira e muda os valores do grupo, com carisma ou influência idealizada, motivação inspiradora, estimulação intelectual e consideração individualizada, e fortalece a equipe para que participe das decisões. Por isso a alternativa A, que reúne os dois traços típicos do estilo transacional, é a exceção (Potter e Perry, Fundamentos de Enfermagem, 9ª ed., 2018).",
+  "porAlt": [
+   "Correta: recompensa contingente e gerenciamento por exceção caracterizam a liderança transacional.",
+   "Estimulação intelectual, que desafia a equipe a pensar diferente, é traço transformacional.",
+   "Consideração individualizada, atenção às necessidades de cada um, é traço transformacional.",
+   "Fortalecer a equipe e dar-lhe autonomia é marca da liderança transformacional.",
+   "Carisma, ou influência idealizada, é componente clássico da liderança transformacional."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o trecho abaixo:\nA contagem de bactérias heterotróficas em amostras de água coletadas pós passagem pela máquina convencional ou outro ponto específico das máquinas que possuem reservatório acoplado para hemodiálise é de no máximo ______ UFC/ml, porém o nível para tomada de ação é ______UFC/ml.\nAssinale a alternativa que preencha correta e respectivamente as lacunas.",
+  "alts": [
+   "100, 100",
+   "100, 50",
+   "200, 100",
+   "200, 50",
+   "200, 150"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "RDC ANVISA 11/2014, art. 58",
+  "coment": "A RDC ANVISA 11/2014 manda fazer análise microbiológica mensal do dialisato colhido após a passagem pela máquina, ou no ponto específico das máquinas com reservatório. A contagem de bactérias heterotróficas pode ser de no máximo 200 UFC/mL, e o nível de ação é de 50 UFC/mL (art. 58). Nível de ação é o valor que, atingido, obriga investigar e corrigir o sistema antes de chegar ao limite. Diante de reação pirogênica ou bacteremia na sessão, a RDC também manda colher na hora amostra do dialisato.",
+  "porAlt": [
+   "100 e 100 erram o limite máximo e anulam o sentido do nível de ação, que é menor.",
+   "O limite máximo para o dialisato é 200 UFC/mL, não 100.",
+   "O nível de ação é 50 UFC/mL, não 100.",
+   "Correta: no máximo 200 UFC/mL, com nível de ação de 50 UFC/mL (RDC 11/2014, art. 58).",
+   "O nível de ação é 50 UFC/mL; 150 deixaria a correção para muito perto do limite."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O tratamento que consiste em medidas clínicas (remédios, modificações na dieta e estilo de vida) utilizadas para retardar a doença renal crônica é chamado de:",
+  "alts": [
+   "tratamento cirúrgico",
+   "tratamento holístico",
+   "tratamento conservador",
+   "tratamento hemodialitico",
+   "tratamento dialitico"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes Clínicas para o Cuidado ao Paciente com Doença Renal Crônica no SUS (MS, 2014)",
+  "coment": "Tratamento conservador da DRC é o conjunto de medidas clínicas para retardar a progressão e tratar as complicações sem diálise: controle da pressão e da glicemia, redução da proteinúria, ajuste da dieta (sódio, proteína, potássio, fósforo), correção de anemia, acidose e distúrbio mineral, suspensão de nefrotóxicos, vacinação e mudança de estilo de vida. Na linha de cuidado do SUS, começa na atenção primária e segue no ambulatório especializado nos estágios avançados ainda sem diálise (Diretrizes Clínicas para o Cuidado ao Paciente com DRC no SUS, MS, 2014).",
+  "porAlt": [
+   "Tratamento cirúrgico se refere a procedimentos como a confecção de acesso ou o transplante.",
+   "Holístico descreve a abordagem integral do cuidado, não a modalidade de tratamento da DRC.",
+   "Correta: medidas clínicas, dieta e estilo de vida para retardar a DRC compõem o tratamento conservador.",
+   "Hemodiálise é terapia renal substitutiva, não medida para retardar a doença.",
+   "Tratamento dialítico substitui a função renal, não retarda a progressão."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre os critérios que o receptor candidato ao transplante renal preemptivo (TRP) de doador falecido deverá ter, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) ≤ 18 anos de idade e TFGe < 15 mL/min/1,73 m²\n( ) ≤ 18 anos de idade e TFGe < 20 mL/min/1,73 m²\n( ) > 18 anos de idade e TFGe < 10 mL/min/1,73 m²\n( ) pacientes diabéticos e TFGe < 15 mL/min/1,73 m²\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "V - F - V - V",
+   "V - V - F - V",
+   "V - F - V - F",
+   "V - F - F - V"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 2.600/2009 (Regulamento Técnico do Sistema Nacional de Transplantes), consolidada na Portaria de Consolidação 4/2017",
+  "coment": "Pelo regulamento técnico do Sistema Nacional de Transplantes, entra na lista de rim de doador falecido antes da diálise (preemptivo) quem tem filtração glomerular abaixo de 10 mL/min/1,73 m², se maior de 18 anos, e abaixo de 15 se tiver até 18 anos ou for diabético. Assim, a primeira, a terceira e a quarta são verdadeiras, e a segunda, com 20, é falsa. O valor de 20 aparece em outro contexto: diretrizes como o consenso da SBN usam filtração abaixo de 20 como gatilho para encaminhar à avaliação de transplante, o que não equivale à inscrição na lista do doador falecido.",
+  "porAlt": [
+   "A segunda é falsa: o corte para quem tem até 18 anos é 15, não 20.",
+   "Correta: valem 15 para até 18 anos, 10 para adultos e 15 para diabéticos.",
+   "A terceira é verdadeira: acima de 18 anos o corte é filtração abaixo de 10.",
+   "A quarta é verdadeira: o diabético entra na lista com filtração abaixo de 15.",
+   "A terceira é verdadeira, pois o adulto não diabético entra com filtração abaixo de 10."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa correta do tratamento que é considerado o mais adequado para a insuficiência renal crônica e tem o melhor custo e efetividade para o tratamento da doença renal terminal.",
+  "alts": [
+   "Tratamento conservador",
+   "Hemodiálise",
+   "Dialise peritoneal",
+   "Hemofiltração",
+   "Transplante renal"
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes Clínicas para o Cuidado ao Paciente com Doença Renal Crônica no SUS (MS, 2014); KDIGO 2020 (candidatos a transplante renal)",
+  "coment": "Para o paciente elegível, o transplante renal é o tratamento de escolha da doença renal terminal: dá mais sobrevida e melhor qualidade de vida que a diálise e, a longo prazo, custa menos ao sistema do que manter o paciente em hemodiálise. O melhor cenário é o preemptivo, antes de iniciar a diálise, com doador vivo. Hemodiálise e diálise peritoneal substituem parte da função renal de forma contínua e cara. O tratamento conservador retarda a progressão, mas não substitui a função no estágio terminal.",
+  "porAlt": [
+   "O tratamento conservador retarda a DRC, mas não substitui a função renal no estágio terminal.",
+   "A hemodiálise mantém a vida, mas tem custo contínuo e sobrevida menor que o transplante.",
+   "A diálise peritoneal é alternativa dialítica, inferior ao transplante em sobrevida e custo a longo prazo.",
+   "Hemofiltração é modalidade contínua usada sobretudo no paciente crítico com lesão aguda.",
+   "Correta: o transplante renal tem a melhor relação custo-efetividade para o paciente elegível."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa incorreta de exemplos de rotinas de enfermagem.",
+  "alts": [
+   "Procedimentos operacionais padrão",
+   "Registro dos atendimentos de enfermagem",
+   "Controle do carro de emergência",
+   "Controle de imunobiológicos",
+   "Notificação de doenças transmissíveis"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Kurcgant P (coord.). Gerenciamento em Enfermagem, 3ª ed. 2016",
+  "coment": "Normas, rotinas e procedimentos são instrumentos administrativos diferentes. Rotina descreve a sequência de ações de uma atividade repetitiva do serviço, dizendo o que fazer, quando e quem faz: registro dos atendimentos, controle do carro de emergência, controle de imunobiológicos, notificação de doenças transmissíveis. Procedimento operacional padrão é outro instrumento, que detalha passo a passo a execução técnica de uma tarefa para padronizá-la. Por isso POP não é exemplo de rotina, e sim instrumento próprio, citado ao lado dela (Kurcgant, Gerenciamento em Enfermagem, 3ª ed., 2016).",
+  "porAlt": [
+   "Correta: POP é instrumento próprio que detalha a técnica, não exemplo de rotina.",
+   "Registrar os atendimentos é atividade repetitiva e organizada em rotina.",
+   "Conferir o carro de emergência é rotina com periodicidade e responsável definidos.",
+   "Controle de imunobiológicos, como temperatura e estoque, é rotina diária.",
+   "Notificar doenças transmissíveis é rotina do serviço, com fluxo definido."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nefrologia",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O interior das vesículas encefálicas primitivas é preenchida por um fluído orgânico ______ e dá origem aos ventrículos cerebrais e aos canais de comunicação entre eles. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "líquido cefalorraquidiano",
+   "líquido amniótico",
+   "líquido pleural",
+   "líquido intersticial",
+   "líquido sinovial"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Machado ABM, Haertel LM. Neuroanatomia Funcional, 3ª ed. 2014",
+  "coment": "No embrião, o tubo neural forma as vesículas encefálicas primitivas, e a luz dessas vesículas, preenchida por líquido cefalorraquidiano, dá origem aos ventrículos cerebrais e aos canais que os ligam, como o aqueduto do mesencéfalo e o canal central da medula. No adulto, o liquor é produzido sobretudo pelos plexos corioides, circula pelos ventrículos e pelo espaço subaracnóideo e é absorvido nas granulações aracnóideas. Daí a relação clínica: a obstrução dessa via causa hidrocefalia (Machado, Neuroanatomia Funcional, 3ª ed., 2014).",
+  "porAlt": [
+   "Correta: o liquor preenche a luz das vesículas, que se transformam nos ventrículos.",
+   "Líquido amniótico envolve o embrião por fora, não ocupa a luz do tubo neural.",
+   "Líquido pleural fica entre as pleuras, no tórax.",
+   "Líquido intersticial banha as células dos tecidos, fora do sistema ventricular.",
+   "Líquido sinovial lubrifica as articulações."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O tubo neural cresce, se contorce e se transforma em uma estrutura composta de três dilatações, conhecidas como vesículas, encefálicas e primitivas. Estas estruturas darão origem às estruturas anatômicas principais do indivíduo adulto. A vesícula rostral é chamada prosencéfalo e dá origem a uma parte cerebral. A esse respeito, assinale a alternativa correta.",
+  "alts": [
+   "Mesencéfalo",
+   "Mielencéfalo",
+   "Telencéfalo",
+   "Bulbo",
+   "Cerebelo"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Machado ABM, Haertel LM. Neuroanatomia Funcional, 3ª ed. 2014",
+  "coment": "O tubo neural forma três vesículas primárias: prosencéfalo, mesencéfalo e rombencéfalo. O prosencéfalo, rostral, divide-se em telencéfalo, que forma os hemisférios cerebrais, e diencéfalo, que forma tálamo e hipotálamo. O mesencéfalo não se divide. O rombencéfalo origina o metencéfalo (ponte e cerebelo) e o mielencéfalo (bulbo). Entre as alternativas, só o telencéfalo deriva do prosencéfalo (Machado, Neuroanatomia Funcional, 3ª ed., 2014).",
+  "porAlt": [
+   "Mesencéfalo é a vesícula média, que permanece sem se dividir.",
+   "Mielencéfalo deriva do rombencéfalo e forma o bulbo.",
+   "Correta: o prosencéfalo origina o telencéfalo e o diencéfalo.",
+   "O bulbo vem do mielencéfalo, derivado do rombencéfalo.",
+   "O cerebelo vem do metencéfalo, derivado do rombencéfalo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A especialização morfo-químico-funcional permite a formação de conexões entre neurônios ou entre neurônios e estruturas efetuadoras. Estas conexões ou contatos por contiguidade, denominam-se sinapses e permitem a passagem do impulso nervoso entre células. Assinale a alternativa que apresenta como podem ser classificadas as sinapses.",
+  "alts": [
+   "Elementares e nervosas",
+   "Líquidas e musculares",
+   "Químicas e gasosas",
+   "Elétricas e químicas",
+   "Transmissivas e epilépticas"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Machado ABM, Haertel LM. Neuroanatomia Funcional, 3ª ed. 2014",
+  "coment": "Sinapse é o ponto de contato funcional entre neurônios, ou entre neurônio e célula efetora, e se classifica em elétrica e química. Na elétrica, junções comunicantes deixam os íons passar direto de uma célula a outra, com transmissão rápida e bidirecional. Na química, a mais comum, o impulso libera neurotransmissor na fenda sináptica, que age em receptores da membrana pós-sináptica, com transmissão unidirecional. É na sinapse química que agem a maioria dos psicofármacos, anticonvulsivantes e bloqueadores neuromusculares (Machado, Neuroanatomia Funcional, 3ª ed., 2014).",
+  "porAlt": [
+   "Elementares e nervosas não são categorias de classificação das sinapses.",
+   "Não existem sinapses líquidas; muscular designa o efetor, não o tipo de sinapse.",
+   "Sinapses gasosas não são uma classe; gases como o óxido nítrico agem como mensageiros.",
+   "Correta: as sinapses se classificam em elétricas e químicas.",
+   "Epiléptico descreve crise, e transmissiva não é categoria de sinapse."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São considerados neurotransmissores excitatórios, exceto:",
+  "alts": [
+   "Ácido gama-aminobutírico, glicina",
+   "Serotonina",
+   "Epinefrina, norepinefrina",
+   "Glutamato, Acetilcolina",
+   "Dopamina"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hall JE, Hall ME. Guyton & Hall, Tratado de Fisiologia Médica, 14ª ed. 2021",
+  "coment": "GABA e glicina são os principais neurotransmissores inibitórios: o GABA no encéfalo e a glicina sobretudo na medula espinal. Abrem canais de cloreto e hiperpolarizam o neurônio. É no receptor GABA-A que agem benzodiazepínicos e barbitúricos, por isso eles sedam e cortam crises. Glutamato e acetilcolina são excitatórios clássicos. Catecolaminas, dopamina e serotonina são aminas que excitam ou inibem conforme o receptor, e a banca as tratou como excitatórias. A exceção pedida é o par inibitório (Guyton & Hall, 14ª ed., 2021).",
+  "porAlt": [
+   "Correta: GABA e glicina são os neurotransmissores inibitórios clássicos.",
+   "Serotonina é amina com efeito excitatório em vários receptores, tratada pela banca como excitatória.",
+   "Epinefrina e norepinefrina são catecolaminas com ação excitatória em muitas sinapses.",
+   "Glutamato é o principal excitatório do encéfalo, e a acetilcolina excita na placa motora.",
+   "Dopamina é catecolamina com ação excitatória em parte dos receptores."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre displasias corticais focais, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Displasias corticais focais é um nome abrangente que consiste em vários subgrupos de laminação anormal do córtex cerebral.\n( ) Demonstrou ser a causa mais frequente de convulsões, não passível de medicamentos.\n( ) Mais prevalente em homens do que em mulheres.\n( ) Displasias corticais focais tipo I é ausência anormal de laminação cortical leve e mais provável em crianças.\n( ) Displasias corticais focais tipo II é mais clinicamente graves e mais observados em adultos.\nAssinale a alternativa correta.",
+  "alts": [
+   "V - F - V - F - V",
+   "V - V - V - F - F",
+   "F - V - F - V - F",
+   "F - F - F - V - V",
+   "V - F - V - F - F"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Classificação ILAE das displasias corticais focais (Blümcke et al., Epilepsia 2011; atualização Najm et al., Epilepsia 2022)",
+  "coment": "Displasia cortical focal é termo amplo para malformações do desenvolvimento cortical com laminação anormal, divididas em subtipos pela classificação da ILAE (2011, atualizada em 2022). É a causa mais frequente de epilepsia focal resistente a medicamentos na criança e uma das principais indicações de cirurgia de epilepsia. A banca considerou verdadeira a maior prevalência em homens, dado de revisões, não de consenso. As duas últimas estão invertidas: o tipo I, de alteração leve da laminação, é mais visto em adultos, e o tipo II, clinicamente mais grave, com neurônios dismórficos, em crianças. Sequência V, V, V, F, F.",
+  "porAlt": [
+   "A segunda é verdadeira: a displasia é a principal causa de epilepsia refratária a fármacos na infância.",
+   "Correta: as três primeiras são verdadeiras e as duas últimas trocam a faixa etária dos tipos I e II.",
+   "A primeira é verdadeira: o termo abrange vários subgrupos de laminação anormal.",
+   "A quarta e a quinta são falsas: o tipo I é mais visto em adultos e o tipo II em crianças.",
+   "A segunda é verdadeira, pela forte associação com epilepsia resistente a medicamentos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta em qual área cerebral a afasia progressiva não fluente apresenta atrofia.",
+  "alts": [
+   "Atrofia do lobo occipital esquerdo",
+   "Atrofia do lobo occipital direito",
+   "Atrofia dos lobos temporais anteriores, córtex perirrinal e giro fusiforme anterior",
+   "Atrofia assimétrica do hemisfério esquerdo",
+   "Atrofia assimétrica do hemisfério direito"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Gorno-Tempini ML et al. Classificação da afasia progressiva primária e suas variantes, Neurology 2011",
+  "coment": "A afasia progressiva primária tem três variantes pela classificação de Gorno-Tempini (2011). A não fluente, ou agramática, tem fala laboriosa e agramatismo, com atrofia assimétrica do hemisfério esquerdo, sobretudo na região frontoinsular posterior. A variante semântica perde o significado das palavras e tem atrofia dos lobos temporais anteriores, córtex perirrinal e giro fusiforme anterior, que é a alternativa C. A logopênica tem atrofia temporoparietal esquerda. Os lobos occipitais cuidam da visão e não definem nenhuma variante.",
+  "porAlt": [
+   "O lobo occipital esquerdo processa a visão e não define a variante não fluente.",
+   "O lobo occipital direito processa a visão, sem relação com a afasia não fluente.",
+   "Atrofia temporal anterior, perirrinal e fusiforme caracteriza a variante semântica.",
+   "Correta: a variante não fluente tem atrofia assimétrica do hemisfério esquerdo, frontoinsular posterior.",
+   "A linguagem é dominante à esquerda; atrofia direita não explica a afasia não fluente."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A escala de avaliação da ASIA (American Spine Injury Association), utiliza os achados do exame neurológico para classificar os tipos de lesão em cinco categorias, exceto:",
+  "alts": [
+   "A = Lesão completa: Não existe função motora e sensitiva nos segmentos medulares abaixo da lesão, incluindo os segmentos sacrais",
+   "B = Lesão Incompleta: Sensibilidade (total ou parcialmente) preservada com extensão através dos segmentos sacrais S4-S5, sem função motora abaixo do nível neurológico",
+   "C = Lesão Incompleta: Função motora preservada abaixo do nível da lesão com a maior parte dos músculos-chave abaixo do nível neurológico apresentando um grau de força muscular menor ou igual a 3",
+   "D = Lesão Incompleta: Função motora preservada abaixo do nível da lesão com a maior parte dos músculos-chave abaixo do nível neurológico apresentando um grau de força muscular maior ou igual a 4",
+   "E = Função Normal: Função motora e sensitiva normais"
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "International Standards for Neurological Classification of Spinal Cord Injury (ISNCSCI/ASIA), revisão 2019",
+  "coment": "A escala de comprometimento da ASIA (AIS) tem cinco graus. A é completa, sem função motora e sensitiva em S4-S5. B é incompleta só sensitiva. C é incompleta motora com menos da metade dos músculos-chave abaixo do nível com força 3 ou mais. D é incompleta motora com pelo menos metade dos músculos-chave com força 3 ou mais. E é normal. A alternativa D erra o número: o corte é força 3, que vence a gravidade, e não 4. A C também simplifica, ao escrever 'menor ou igual a 3' onde a norma diz menos de 3, mas a banca a aceitou e D é o erro evidente (ISNCSCI, revisão 2019).",
+  "porAlt": [
+   "A descrição da lesão completa, sem função sensitiva e motora em S4-S5, está certa.",
+   "A lesão B preserva a sensibilidade sacral sem função motora abaixo do nível, como descrito.",
+   "Descreve o grau C, com a maioria dos músculos-chave abaixo de força 3; a banca a aceitou.",
+   "Correta: no grau D o corte é força 3 ou mais em ao menos metade dos músculos-chave, não 4.",
+   "O grau E é função motora e sensitiva normal, como descrito."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Lesão do neurônio motor superior causando aumento do reflexo de estiramento, alterações do tônus muscular e, especialmente uma resistência ao movimento passivo. Assinale a alternativa correta sobre esta descrição.",
+  "alts": [
+   "Estiramento muscular",
+   "Espasticidade",
+   "Hipertrofia muscular",
+   "Contratura muscular",
+   "Ruptura fibrilar"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Lance JW, definição de espasticidade, 1980; Bohannon RW, Smith MB, escala modificada de Ashworth, 1987",
+  "coment": "Espasticidade é o aumento do tônus dependente da velocidade do estiramento, com reflexos de estiramento exaltados, que resulta da lesão do neurônio motor superior (definição de Lance, 1980). O sinal à beira do leito é a resistência ao movimento passivo, maior quanto mais rápido o examinador move o membro, às vezes com o fenômeno do canivete. Aparece após AVC, trauma raquimedular, esclerose múltipla e paralisia cerebral. Contratura é encurtamento fixo de músculo e partes moles, que pode ser consequência da espasticidade não tratada.",
+  "porAlt": [
+   "Estiramento muscular é lesão por distensão do músculo, não alteração do tônus de origem central.",
+   "Correta: espasticidade é a hipertonia com reflexos exaltados da lesão do neurônio motor superior.",
+   "Hipertrofia é aumento do volume das fibras musculares, sem relação com a lesão central.",
+   "Contratura é encurtamento fixo das partes moles, não aumento do reflexo de estiramento.",
+   "Ruptura fibrilar é lesão traumática do músculo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O escore NIHSS (National Institute of Health Stroke Scale) é um índice desenvolvido para a identificação e estratificação da gravidade do acidente vascular encefálico em determinadas situações. Sobre isso, assinale a alternativa correta.",
+  "alts": [
+   "Acidente vascular encefálico isquêmico agudo",
+   "Acidente vascular encefálico isquêmico tardio",
+   "Acidente vascular encefálico hemorrágico agudo",
+   "Acidente vascular encefálico hemorrágico tardio",
+   "Acidente vascular isquêmico tardio com transformação hemorrágica"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz AHA/ASA 2026 para o manejo precoce do AVC isquêmico agudo",
+  "coment": "A NIHSS foi desenvolvida para medir a gravidade do déficit no AVC isquêmico agudo, em ensaios de trombólise, e virou a escala padrão da avaliação inicial e das reavaliações. Vai de 0 a 42 e soma nível de consciência, olhar, campos visuais, paralisia facial, força de braços e pernas, ataxia, sensibilidade, linguagem, disartria e negligência. O enfermeiro treinado a aplica na chegada e a reaplica após a trombólise para detectar piora. Subestima o AVC de circulação posterior, e por isso a decisão de trombolisar segue o déficit incapacitante, não o número isolado (AHA/ASA 2026).",
+  "porAlt": [
+   "Correta: a NIHSS estratifica a gravidade do AVC isquêmico na fase aguda.",
+   "A escala foi criada para a fase aguda, quando orienta trombólise e trombectomia.",
+   "No AVC hemorrágico a NIHSS pode descrever o déficit, mas foi desenvolvida para o isquêmico.",
+   "Não é escala desenvolvida para a fase tardia do AVC hemorrágico.",
+   "Transformação hemorrágica é complicação, não o cenário para o qual a escala foi criada."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O National Institute of Neurological Disirders and Stroke, traz recomendações mundiais para os candidatos potenciais ao uso de trombólise endovenosa. Com relação aos tempos ideais, assinale a alternativa que apresenta qual tempo da admissão hospitalar até o início da trombólise endovenosa e até quantas horas pode ser realizada a trombólise a partir do início dos sintomas.",
+  "alts": [
+   "Quarenta minutos da admissão até a infusão do trombolítico e até 3 horas do início dos sintomas",
+   "Quarenta minutos da admissão até a infusão do trombolítico e até 3,5 horas do início dos sintomas",
+   "Cinquenta minutos da admissão até a infusão do trombolítico e até 4 horas do início dos sintomas",
+   "Cinquenta minutos da admissão até a infusão do trombolítico e até 4,5 horas do início dos sintomas",
+   "Sessenta minutos da admissão até a infusão do trombolítico e até 4,5 horas do início dos sintomas"
+  ],
+  "gab": 4,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretriz AHA/ASA 2026 para o manejo precoce do AVC isquêmico agudo; PCDT do AVC isquêmico agudo (Portaria Conjunta SAES/SECTICS 29/2023)",
+  "coment": "As metas de tempo do NINDS, adotadas pelas diretrizes, fixam o porta-agulha em até 60 minutos: da chegada ao hospital até o início do trombolítico. A janela da trombólise endovenosa vai até 4,5 horas do último momento em que o paciente foi visto bem (AHA/ASA 2026), e o PCDT do SUS (Portaria Conjunta SAES/SECTICS 29/2023) preconiza a alteplase nessa janela. Dentro desse prazo, a enfermagem garante glicemia capilar na chegada, imagem rápida, NIHSS, pressão abaixo de 185/110 mmHg e dupla checagem de peso e dose. A janela de 3 horas é a do estudo original do NINDS, de 1995, ampliada depois.",
+  "porAlt": [
+   "Quarenta minutos não é a meta porta-agulha do NINDS, e 3 horas é a janela antiga.",
+   "A meta porta-agulha é 60 minutos e a janela é 4,5 horas, não 3,5.",
+   "Cinquenta minutos e 4 horas não são os tempos recomendados.",
+   "A janela de 4,5 horas está certa, mas a meta porta-agulha é 60 minutos.",
+   "Correta: até 60 minutos da admissão ao trombolítico e até 4,5 horas do início dos sintomas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O fármaco Alteplase possui uma série de critérios que visam incluir ou excluir pacientes na terapia trombolítica. Segundo Manual de Rotinas para Atenção ao Acidente Vascular Cerebral, são critérios de exclusão, exceto:",
+  "alts": [
+   "Acidente Vascular Cerebral isquêmico nos últimos 3 meses",
+   "Traumatismo crânio encefálico nos últimos 6 meses",
+   "História pregressa de hemorragia intracraniana",
+   "Cirurgia de grande porte ou procedimento invasivo nos últimos 14 dias",
+   "Punção arterial em local não compressível na última semana"
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Manual de Rotinas para Atenção ao AVC (Ministério da Saúde, 2013); Diretriz AHA/ASA 2026",
+  "coment": "Pelo Manual de Rotinas para Atenção ao AVC do Ministério da Saúde, entre os critérios de exclusão da trombólise estão AVC isquêmico ou traumatismo craniano grave nos últimos 3 meses, história de hemorragia intracraniana, cirurgia de grande porte ou procedimento invasivo nos últimos 14 dias e punção arterial em local não compressível na última semana. O prazo do trauma craniano é de 3 meses, e não de 6, por isso B é a exceção. A diretriz AHA/ASA 2026 mantém o trauma craniano nos últimos 3 meses entre as contraindicações.",
+  "porAlt": [
+   "AVC isquêmico nos últimos 3 meses é critério de exclusão da trombólise.",
+   "Correta: o critério é traumatismo craniano nos últimos 3 meses, e não 6.",
+   "História de hemorragia intracraniana exclui a trombólise.",
+   "Cirurgia de grande porte ou procedimento invasivo em 14 dias exclui a trombólise.",
+   "Punção arterial em local não compressível na última semana exclui a trombólise."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A terapia de reperfusão cerebral com a trombectomia mecânica vem ganhando espaço no tratamento do acidente vascular cerebral isquêmico. Assinale a alternativa que apresenta qual o período de janela terapêutica para utilizar este tratamento.",
+  "alts": [
+   "Dentro de 6 a 24 horas após a última vez que foi visto consciente, independente de ter feito trombólise endovenosa para o mesmo evento isquêmico",
+   "Dentro de 6 a 24 horas após a última vez que foi visto consciente, sem ter feito trombólise endovenosa para o mesmo evento isquêmico",
+   "Dentro de 2 a 10 horas após a última vez que foi visto consciente, independente de ter realizado trombólise endovenosa para o mesmo evento isquêmico",
+   "Dentro de 2 a 10 horas após a última vez que foi visto consciente, sem ter realizado trombólise endovenosa para o mesmo evento isquêmico",
+   "A trombectomia mecânica pode ser realizada apenas se não foi administrado trombólise endovenosa"
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretriz AHA/ASA 2026 para o manejo precoce do AVC isquêmico agudo; PCDT do AVC isquêmico agudo (Portaria Conjunta SAES/SECTICS 29/2023)",
+  "coment": "A trombectomia mecânica trata a oclusão de grande vaso. É indicada nas primeiras 6 horas e, na janela estendida, de 6 a 24 horas do último momento em que o paciente foi visto bem, quando a imagem mostra tecido salvável. Em qualquer janela é feita independentemente de trombólise endovenosa: elegível para os dois, o paciente recebe o trombolítico e segue para a trombectomia, sem esperar o efeito. A alternativa A descreve a janela estendida e acerta no 'independente de trombólise'; a banca escreveu 'visto consciente' onde as diretrizes dizem visto bem. O PCDT do SUS de 2023 inclui a trombectomia até 8 horas e de 8 a 24 horas.",
+  "porAlt": [
+   "Correta: na janela de 6 a 24 horas a trombectomia é feita com ou sem trombólise prévia.",
+   "Trombólise prévia não impede a trombectomia, que se soma a ela.",
+   "A janela de 2 a 10 horas não existe nas diretrizes de trombectomia.",
+   "A janela está errada, e a trombólise prévia não é impedimento.",
+   "Trombólise e trombectomia se combinam; ter recebido trombolítico não contraindica o procedimento."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A apresentação clássica de ______ acontece com a rápida perda de consciência, seguida por intervalo lúcido de minutos a horas, voltado a haver nova deterioração do nível de consciência, obnubilação, hemiparesia contralateral ao trauma, dilatação pupilar ipsilateral. Constitui-se uma emergência neurocirúrgica. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "Hematoma extradural agudo",
+   "Lesão axonal difusa",
+   "Concussão",
+   "Hematoma intracerebral",
+   "Hematoma subdural crônico"
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Advanced Trauma Life Support (ATLS), American College of Surgeons, 10ª ed. 2018",
+  "coment": "O hematoma extradural, ou epidural, agudo resulta em geral de fratura temporal que lesa a artéria meníngea média. O sangue arterial descola a dura do osso e cresce rápido. A apresentação clássica é perda breve de consciência, intervalo lúcido de minutos a horas e nova deterioração, com hemiparesia contralateral e midríase do mesmo lado do hematoma, por herniação do uncus. É emergência neurocirúrgica, com bom prognóstico se drenado cedo, e aparece na tomografia como lente biconvexa. O intervalo lúcido não ocorre em todos os casos, e por isso todo TCE com perda de consciência é observado (ATLS, 10ª ed., 2018).",
+  "porAlt": [
+   "Correta: intervalo lúcido seguido de piora, com midríase ipsilateral, é o quadro clássico do extradural.",
+   "Lesão axonal difusa causa coma desde o trauma, sem intervalo lúcido.",
+   "Concussão é disfunção transitória, sem deterioração tardia nem sinais focais.",
+   "Hematoma intracerebral dá déficit conforme o local, sem o padrão clássico do intervalo lúcido.",
+   "Subdural crônico evolui em semanas, com cefaleia e confusão, sobretudo em idosos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Após traumatismo crânio encefálico, sugere-se intubação orotraqueal e estabelecimento da ventilação mecânica antes de transferências em algumas situações. A esse respeito, assinale a alternativa incorreta.",
+  "alts": [
+   "Escala de coma de Glasgow ≤ 8",
+   "Confusão mental e agitação psicomotora",
+   "Sangramento intenso em cavidade oral",
+   "Fraturas faciais instáveis",
+   "Convulsões"
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Advanced Trauma Life Support (ATLS), American College of Surgeons, 10ª ed. 2018",
+  "coment": "Antes de transferir o paciente com traumatismo craniano, recomenda-se intubar e ventilar quando a via aérea ou a ventilação estão ameaçadas: Glasgow de 8 ou menos, sangramento intenso na cavidade oral, fraturas faciais instáveis, convulsões, perda dos reflexos protetores e insuficiência respiratória. Confusão mental e agitação psicomotora, sozinhas, não indicam via aérea definitiva: pedem busca de hipóxia, hipoglicemia, dor e intoxicação, proteção contra queda e reavaliação seriada do Glasgow. Por isso B é a incorreta (ATLS, 10ª ed., 2018).",
+  "porAlt": [
+   "Glasgow de 8 ou menos indica via aérea definitiva antes da transferência.",
+   "Correta: confusão e agitação isoladas pedem avaliação e reavaliação, não intubação.",
+   "Sangramento intenso na boca ameaça a via aérea e indica intubação.",
+   "Fraturas faciais instáveis comprometem a via aérea e indicam intubação.",
+   "Convulsões ameaçam a via aérea e a ventilação e indicam intubação para o transporte."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a classificação da International League Against Epilepsy (ILAE) em 2017, assinale a alternativa que não apresenta o grupo etiológico para as epilepsias.",
+  "alts": [
+   "Genético, estrutural",
+   "Infeccioso",
+   "Metabólico, imune",
+   "Termorreguladoras",
+   "Desconhecido"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Classificação das epilepsias da ILAE (Scheffer et al., Epilepsia 2017)",
+  "coment": "A classificação da ILAE de 2017 organiza o diagnóstico em três níveis (tipo de crise, tipo de epilepsia e síndrome) e pede, em cada nível, a etiologia. São seis grupos etiológicos: genético, estrutural, metabólico, imune, infeccioso e desconhecido, e um paciente pode ter mais de um, como na esclerose tuberosa, genética e estrutural. Não há grupo termorregulador. A febre pode desencadear crise, como na crise febril da criança, mas é gatilho, não categoria etiológica de epilepsia (Scheffer et al., ILAE, 2017).",
+  "porAlt": [
+   "Genético e estrutural são grupos etiológicos da ILAE 2017.",
+   "Infeccioso é grupo etiológico, como na neurocisticercose.",
+   "Metabólico e imune são grupos etiológicos da ILAE 2017.",
+   "Correta: não existe grupo etiológico termorregulador na classificação da ILAE.",
+   "Desconhecido é grupo etiológico, usado quando a causa não foi identificada."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A definição de estado de mal epiléptico permaneceu controversa por muitos anos e, ainda hoje, definições conceitualmente distintas podem ser observadas, na literatura. Sobre isso, analise as afirmativas abaixo.\nI. Na prática clínica, estado de mal epiléptico é definido como uma crise epiléptica com duração igual ou superior a 30 minutos ou crises epilépticas subentrantes sem recuperação completa da consciência.\nII. Do ponto de vista semiológico, pode ser classificado em “convulsivo”, no qual há manifestações motoras evidentes e exuberantes e “não convulsivo”, caracterizado pela ausência de manifestações motoras ou manifestações motoras discretas.\nIII. Crises epilépticas com duração superior a 5 minutos têm risco elevado para atingirem duração de 30 minutos.\nIV. Em crianças menores de 5 anos de idade, o tempo considerado para conceituar o estado de mal epilético deve ser de 60 minutos.\nV. O estado mal epiléptico super refratário é aquele cuja crise epiléptica tem duração superior a 24 horas após o início dos fármacos anestésicos.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I, II, III, IV e V",
+   "I, II, III e V apenas",
+   "I, III, IV e V apenas",
+   "II, III e IV apenas",
+   "II, IV e V apenas"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "ILAE. Definição e classificação do estado de mal epiléptico (Trinka et al., Epilepsia 2015)",
+  "coment": "A banca considerou corretas I, II, III e V. A I traz a definição clássica: 30 minutos ou crises subentrantes sem recuperação. A ILAE (2015) a atualizou para o uso prático com dois tempos na crise tônico-clônica: t1 de 5 minutos, a partir do qual se trata como estado de mal, e t2 de 30 minutos, a partir do qual há risco de lesão duradoura. Hoje se trata aos 5 minutos, o que a III justifica. A II separa formas convulsiva e não convulsiva. A V define o super-refratário: persiste 24 horas ou mais após o início dos anestésicos. A IV é falsa: não há tempo maior para crianças menores de 5 anos.",
+  "porAlt": [
+   "Inclui a IV, que é falsa: a criança pequena não tem tempo de 60 minutos para definir estado de mal.",
+   "Correta: I, II, III e V; só a IV, que cria um tempo de 60 minutos para crianças, é falsa.",
+   "Exclui a II, certa ao separar formas convulsiva e não convulsiva, e inclui a IV, falsa.",
+   "Inclui a IV, falsa, e exclui a V, que define corretamente o estado de mal super-refratário.",
+   "Inclui a IV, falsa, e exclui a III, que justifica tratar a crise a partir de 5 minutos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta a escala mais utilizada para mensurar a espasticidade.",
+  "alts": [
+   "Escala de NIPS",
+   "Escala de Lanns",
+   "Escala modificada de Ashworth",
+   "Escala de Bristol",
+   "Escala de FLACC"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Bohannon RW, Smith MB. Escala modificada de Ashworth, Physical Therapy 1987",
+  "coment": "A escala modificada de Ashworth (Bohannon e Smith, 1987) é a mais usada para graduar a espasticidade. O examinador move passivamente o segmento e pontua a resistência de 0, tônus normal, a 4, segmento rígido em flexão ou extensão, com o grau intermediário 1+ acrescentado à escala original. É simples, feita à beira do leito, e acompanha a resposta à fisioterapia e à toxina botulínica. As outras escalas da lista medem dor (NIPS no recém-nascido, LANSS na dor neuropática, FLACC na criança) e consistência das fezes (Bristol).",
+  "porAlt": [
+   "NIPS avalia dor no recém-nascido.",
+   "LANSS avalia dor neuropática, não espasticidade.",
+   "Correta: a escala modificada de Ashworth gradua a espasticidade de 0 a 4.",
+   "Bristol classifica a forma e a consistência das fezes.",
+   "FLACC avalia dor em crianças pelo comportamento."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A fisiopatologia da hemorragia subaracnóidea envolve a ruptura de vasos sanguíneos no espaço subaracnóideo, levando a um quadro de sangramento no sistema nervoso central. Assinale a alternativa que apresenta quais danos ao organismo pode gerar este sangramento.",
+  "alts": [
+   "Diminuição da pressão intracraniana, dificuldade em manter a perfusão cerebral e isquemia central",
+   "Aumento da pressão intracraniana, dificuldade em manter a pressão de perfusão cerebral e isquemia central",
+   "Diminuição da pressão arterial, dificuldade em manter a pressão intracraniana e isquemia global",
+   "Aumento da pressão intracraniana, dificuldade em manter a pressão de perfusão cerebral e isquemia global",
+   "Diminuição da pressão arterial, dificuldade em manter a pressão de perfusão cerebral e isquemia central"
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretriz AHA/ASA 2023 para o manejo da hemorragia subaracnóidea aneurismática",
+  "coment": "Na hemorragia subaracnóidea, o sangue que entra no espaço subaracnóideo eleva bruscamente a pressão intracraniana. Como a pressão de perfusão cerebral é a pressão arterial média menos a intracraniana, a perfusão cai em todo o encéfalo e a lesão é isquêmica global, não restrita a um território. Por isso há perda de consciência no ictus. Depois vêm hidrocefalia, ressangramento e isquemia tardia por vasoespasmo. A enfermagem vigia Glasgow, pupilas e déficit focal em série, mantém a pressão no alvo e administra o nimodipino no horário (AHA/ASA 2023).",
+  "porAlt": [
+   "O sangramento aumenta, e não diminui, a pressão intracraniana.",
+   "Acerta a pressão e a perfusão, mas a isquemia inicial é global, não central.",
+   "O problema primário é o aumento da pressão intracraniana, não a queda da pressão arterial.",
+   "Correta: sobe a pressão intracraniana, cai a perfusão cerebral e a isquemia é global.",
+   "Não há queda primária da pressão arterial, e a isquemia não é central."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Atrofia Muscular Espinhal (AME) é uma doença neuromuscular degenerativa, progressiva e debilitante. Analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) A doença é clinicamente dividida em cinco subgrupos de acordo com a gravidade e idade do início dos sintomas.\n( ) O tipo 0 (zero) é considerado a forma mais branda, evoluindo até o tipo IV, sendo a forma mais grave.\n( ) Atualmente a AME não tem cura, porém um tratamento multiprofissional pode aumentar a sobrevida e proporcionar uma melhor qualidade de vida aos portadores.\n( ) O tratamento medicamentoso, consiste em aumentar o nível de produção ou estabilizar a proteína de sobrevivência do neurônio motor.\n( ) O prognóstico favorável é altamente dependente do diagnóstico precoce, início do tratamento medicamentoso e de todas demais intervenções.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V - V",
+   "V - F - V - F - V",
+   "F - F - V - V - V",
+   "V - F - V - V - V",
+   "F - F - V - F - V"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Mercuri E et al. Diagnóstico e manejo da atrofia muscular espinhal (consenso de cuidados), Neuromuscular Disorders 2018",
+  "coment": "A AME 5q é causada por deleção ou mutação do gene SMN1, com deficiência da proteína de sobrevivência do neurônio motor. Divide-se em cinco tipos, de 0 a IV, pela idade de início e pela maior função motora alcançada. A segunda afirmativa está invertida: o tipo 0, de início pré-natal, é o mais grave, e o tipo IV, do adulto, o mais brando. As demais são verdadeiras. Os medicamentos aumentam a produção da proteína SMN (nusinersena, risdiplam) ou repõem o gene (terapia gênica), sem cura. O resultado depende de diagnóstico e tratamento precoces, com cuidado multiprofissional respiratório, nutricional e motor (Mercuri et al., 2018).",
+  "porAlt": [
+   "A segunda é falsa: o tipo 0 é o mais grave, não o mais brando.",
+   "A quarta é verdadeira: os fármacos aumentam ou estabilizam a proteína SMN.",
+   "A primeira é verdadeira: são cinco tipos, de 0 a IV.",
+   "Correta: só a segunda é falsa, porque a gravidade diminui do tipo 0 ao tipo IV.",
+   "A primeira e a quarta são verdadeiras, ao contrário desta sequência."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Neurologia",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Portaria nº 272, de 8 de abril de 1998 aprova o Regulamento Técnico para fixar os requisitos mínimos exigidos para a Terapia de Nutrição Parenteral, instituindo o conceito de Equipe Multidisciplinar de Terapia Nutricional (EMTN). Também especifica as atribuições gerais e específicas de cada profissional da equipe. Analise as afirmativas abaixo acerca das atribuições do enfermeiro da EMTN.\nI. O enfermeiro é responsável em prescrever os cuidados de enfermagem na TN, apenas em nível hospitalar e ambulatorial, orientando o paciente.\nII. O enfermeiro deve assegurar a infusão do volume prescrito, de preferência como uso de bomba de infusão, por cujo perfeito funcionamento deve zelar.\nIII. O enfermeiro deve avaliar a formulação prescrita pelo médico quanto a sua adequação, concentração e data de validade, assim como registrar as informações de administração.\nIV. O enfermeiro é responsável por receber a nutrição parenteral, procedendo inspeção visual, e por assegurar a sua conservação até a completa administração.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I e III apenas",
+   "II e III apenas",
+   "II e IV apenas",
+   "I e IV apenas",
+   "III apenas"
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria SVS/MS 272/1998 (regulamento técnico da terapia de nutrição parenteral); Resolução COFEN 453/2014 (terapia nutricional)",
+  "coment": "A Portaria SVS/MS 272/1998 lista as atribuições do enfermeiro na nutrição parenteral. A II e a IV estão nela: assegurar a infusão do volume prescrito, de preferência com bomba de infusão, e receber a NP, fazer a inspeção visual e garantir a conservação até o fim da administração. A I erra no alcance: o enfermeiro prescreve os cuidados de enfermagem na terapia nutricional em nível hospitalar, ambulatorial e domiciliar, não apenas nos dois primeiros. A III descreve atribuição do farmacêutico, que avalia a formulação prescrita quanto a adequação, concentração e compatibilidade; o enfermeiro confere o rótulo com a prescrição antes de instalar.",
+  "porAlt": [
+   "A I é falsa pelo 'apenas', e a III é atribuição do farmacêutico.",
+   "A III é atribuição do farmacêutico, que avalia a formulação prescrita.",
+   "Correta: II e IV repetem atribuições do enfermeiro na Portaria 272/1998.",
+   "A I é falsa, porque a prescrição de cuidados vale também no domicílio.",
+   "A III cabe ao farmacêutico, e a II e a IV, verdadeiras, ficaram de fora."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o trecho a seguir:\nConforme registrado nas portarias e resoluções, é responsabilidade da administração da unidade hospitalar prever e prover os recursos humanos e materiais necessários à operacionalização da terapia nutricional enteral e parenteral. A equipe multiprofissional para nutrição parenteral, deve ser constituída de pelo menos 01(um) profissional de cada categoria, com treinamento específico para esta atividade, a saber: ______.\nAssinale a alternativa que preencha corretamente as lacunas.",
+  "alts": [
+   "Médico, enfermeiro, fonoaudiólogo e nutricionista",
+   "Médico, enfermeiro, farmacêutico e fonoaudiólogo",
+   "Médico, farmacêutico, enfermeiro e nutricionista",
+   "Enfermeiro, farmacêutico, fonoaudiólogo e nutricionista",
+   "Enfermeiro, médico, fisioterapeuta e nutricionista"
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Liderança e trabalho em equipe",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria SVS/MS 272/1998 (terapia de nutrição parenteral); RDC ANVISA 503/2021 (terapia de nutrição enteral)",
+  "coment": "A Portaria SVS/MS 272/1998 exige que a unidade que faz terapia nutricional tenha Equipe Multiprofissional de Terapia Nutricional (EMTN) com pelo menos um profissional de cada categoria, com treinamento específico: médico, farmacêutico, enfermeiro e nutricionista. Na enteral, hoje regida pela RDC ANVISA 503/2021, a composição mínima é a mesma. Outros profissionais, como fonoaudiólogo e fisioterapeuta, podem participar, mas não são obrigatórios. O farmacêutico é indispensável na parenteral porque responde pela manipulação e pela avaliação da formulação.",
+  "porAlt": [
+   "Falta o farmacêutico, obrigatório na EMTN, e o fonoaudiólogo não é categoria mínima.",
+   "Falta o nutricionista, e o fonoaudiólogo não integra a composição mínima.",
+   "Correta: médico, farmacêutico, enfermeiro e nutricionista compõem a EMTN mínima.",
+   "Falta o médico, que responde pela indicação e pela prescrição da terapia nutricional.",
+   "Falta o farmacêutico, e o fisioterapeuta não é categoria obrigatória."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os objetivos da avaliação nutricional, inclui identificar os pacientes com risco aumentado para complicações associadas à desnutrição. Sobre os métodos de avaliação nutricional, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) A história clínica associada ao exame físico adequado permite identificar pacientes em risco de desnutrição.\n( ) Na anamnese devem ser investigados e questionados pontos sobre o estado nutricional como história funcional, hipercatabolismo e aspectos socioeconômicos.\n( ) Em pacientes hospitalizados, mais importante que avaliar a adequação é verificar a ocorrência de perda de peso não intencional.\n( ) Na avaliação bioquímica pode utilizar a pré-albumina, proteína transportadora de tiroxina, visto que é mais sensível que a albumina e a transferrina.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "V - V - F - V",
+   "V - F - F - V",
+   "F - V - V - F",
+   "F - F - F - F"
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Waitzberg DL. Nutrição Oral, Enteral e Parenteral na Prática Clínica, 5ª ed. 2017; Evans DC et al., ASPEN, Nutr Clin Pract 2021",
+  "coment": "As quatro são verdadeiras na avaliação nutricional clássica. História clínica e exame físico, base de instrumentos como a avaliação subjetiva global, identificam o risco de desnutrição. A anamnese investiga capacidade funcional, hipercatabolismo e condição socioeconômica. No internado, a perda de peso não intencional diz mais do que comparar o peso a uma tabela de adequação. A pré-albumina, ou transtiretina, transporta tiroxina e tem meia-vida curta, por isso varia mais rápido que albumina e transferrina. Ressalva atual: a ASPEN (Evans et al., 2021) lembra que essas proteínas caem com a inflamação e não devem ser lidas sozinhas como marcador nutricional.",
+  "porAlt": [
+   "Correta: as quatro afirmativas descrevem corretamente métodos de avaliação nutricional.",
+   "A terceira é verdadeira: no internado, a perda de peso não intencional é o dado mais útil.",
+   "A segunda e a terceira são verdadeiras, ao contrário desta sequência.",
+   "A primeira e a quarta são verdadeiras: exame clínico e pré-albumina ajudam a avaliar.",
+   "Todas são verdadeiras; nenhuma das afirmativas é falsa."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o trecho abaixo:\nA subnutrição protéico energética é uma condição anormal da ingestão alimentar insuficiente para suprir as necessidades protéico energéticas do organismo. Pacientes com subnutrição que apresentam diminuição da superfície de absorção e menor secreção de enzimas digestivas podem desencadear síndrome disabsortiva, sendo que para esses pacientes estão indicados o uso de dietas enterais ______.\nAssinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "Oligoméricas",
+   "Elementares",
+   "Poliméricas",
+   "Modulares",
+   "Artesanais"
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Waitzberg DL. Nutrição Oral, Enteral e Parenteral na Prática Clínica, 5ª ed. 2017",
+  "coment": "Pela complexidade dos nutrientes, as fórmulas enterais são poliméricas (proteína intacta, exigem digestão normal), oligoméricas ou semielementares (proteína hidrolisada em peptídeos) e elementares ou monoméricas (aminoácidos livres). Com superfície absortiva reduzida e pouca enzima digestiva, indica-se fórmula hidrolisada. A banca escolheu a oligomérica, primeira opção nesse cenário, porque os peptídeos são bem absorvidos e a osmolaridade é menor que a da elementar. A elementar fica para casos mais graves e é defensável em parte, o que torna a questão discutível. Módulos complementam um nutriente; dietas artesanais não têm composição controlada.",
+  "porAlt": [
+   "Correta: a fórmula oligomérica, com proteína hidrolisada, é a indicação na síndrome disabsortiva.",
+   "A elementar também é hidrolisada, mas tem maior osmolaridade e fica para casos mais graves.",
+   "A polimérica exige digestão e absorção preservadas, que faltam nesse paciente.",
+   "Módulos fornecem um nutriente isolado para complementar, não a dieta completa.",
+   "Dietas artesanais não têm composição controlada e exigem digestão normal."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A terapia nutricional enteral (TNE) pode ser feita por meio de sondas posicionadas no estômago ou no intestino pelo nariz ou pela boca do paciente, ou por ostomias quando a TNE estiver programada para durar mais de 4 a 6 semanas. Analise as afirmativas abaixo relacionadas à TNE.\nI. O método de infusão contínuo consiste na infusão do volume a ser ofertado ao paciente, conforme a sua necessidade, 6 a 8 vezes ao dia, por meio de bomba de infusão.\nII. A infusão em bolo com seringa consiste na infusão de grandes volumes por meio de seringa em bolo, mimetizando as refeições ao longo do dia.\nIII. Existem diversos tipos de sondas para TNE e a maioria é feita de silicone ou poliuretano e podem variar em comprimento ou diâmetro.\nIV. A escolha da fórmula enteral mais adequada depende das condições do paciente, das doenças presentes e das condições da instituição em que ele se encontra.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I, II e III apenas",
+   "II, III e IV apenas",
+   "II e IVapenas",
+   "I e IV apenas",
+   "I e III apenas"
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Waitzberg DL. Nutrição Oral, Enteral e Parenteral na Prática Clínica, 5ª ed. 2017; RDC ANVISA 503/2021 (terapia de nutrição enteral)",
+  "coment": "A I descreve o método intermitente, e não o contínuo: o contínuo infunde a dieta sem pausas, ou só com pausa noturna, em bomba e com vazão constante. Dividir o volume em 6 a 8 vezes ao dia é o esquema intermitente, gravitacional ou em bomba. As demais estão certas: o bolo com seringa imita as refeições, as sondas atuais são de silicone ou poliuretano e variam em calibre e comprimento, e a fórmula se escolhe pela condição do paciente, pelas doenças e pela estrutura da instituição. Na prática, a posição da sonda é confirmada antes de iniciar a dieta, e a cabeceira fica elevada de 30 a 45 graus.",
+  "porAlt": [
+   "A I é falsa: dividir o volume em 6 a 8 vezes ao dia é o método intermitente.",
+   "Correta: II, III e IV estão certas; a I descreve o método intermitente, não o contínuo.",
+   "Deixa de fora a III, verdadeira: as sondas atuais são de silicone ou poliuretano.",
+   "A I é falsa, e a II e a III, verdadeiras, ficaram de fora.",
+   "A I é falsa, e a IV, verdadeira, ficou de fora."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+   "n": 46,
+   "parte": "especificas"
+  }
+ }
+]

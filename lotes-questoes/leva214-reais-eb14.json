@@ -1,0 +1,1408 @@
+[
+ {
+  "q": "Os pacientes de categoria de cuidados intensivos deverão ser internados em Unidade de Terapia Intensiva (UTI) com infraestrutura e recursos tecnológicos e humanos adequados. Assinale a alternativa que apresenta a distribuição percentual do total de profissionais de enfermagem, deve observar as seguintes proporções mínimas.",
+  "alts": [
+   "33% são enfermeiros (mínimo de seis) e os demais auxiliares e/ou técnicos de enfermagem",
+   "36% são enfermeiros e os demais técnicos e/ou auxiliares de enfermagem",
+   "62% são enfermeiros e os demais técnicos de enfermagem",
+   "52% são enfermeiros e os demais técnicos e/ou auxiliares de enfermagem",
+   "52% são enfermeiros e os demais técnicos de enfermagem"
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Parecer Normativo COFEN 01/2024, item 3.0, alínea e (Res. COFEN 743/2024 revogou a 543/2017)",
+  "coment": "No cuidado intensivo, a distribuição mínima é de 52% de enfermeiros e os demais técnicos de enfermagem, sem auxiliares. A questão foi feita sobre a Res. COFEN 543/2017, que a Res. 743/2024 revogou; o tema passou ao Parecer Normativo COFEN 01/2024, que manteve os mesmos números: 33% para mínimo e intermediário, 36% para alta dependência (com técnicos e/ou auxiliares), 42% para semi-intensivo e 52% para intensivo (só com técnicos). A carga é de 18 horas de enfermagem por paciente intensivo. O gabarito continua certo.",
+  "porAlt": [
+   "Errada: 33% com mínimo garantido de enfermeiros vale para cuidados mínimos e intermediários; o Parecer 01/2024 fala em 1 enfermeiro por turno, não mais em mínimo de seis.",
+   "Errada: 36% de enfermeiros com técnicos e/ou auxiliares é a proporção do cuidado de alta dependência.",
+   "Errada: não existe faixa de 62% no dimensionamento; para o intensivo o mínimo é 52%.",
+   "Errada: o percentual de 52% está certo, mas no intensivo o restante da equipe é só de técnicos, sem auxiliares.",
+   "Correta: no cuidado intensivo, 52% são enfermeiros e os demais técnicos de enfermagem, pelo Parecer Normativo COFEN 01/2024."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Neonatal",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre massagem cardíaca neonatal, analise as afirmativas abaixo.\nI. Aplicar os dois polegares sobrepostos no terço inferior do esterno, ou seja, logo abaixo da linha intermamilar e poupando o apêndice xifoide.\nII. A profundidade da compressão deve englobar 1/3 da dimensão anteroposterior do tórax, de maneira a produzir um pulso palpável.\nIII. Os polegares sobrepostos aumentam a chance de lesão dos pulmões e do fígado.\nIV. Não é importante permitir a reexpansão plena do tórax após a compressão para haver enchimento das câmaras ventriculares e das coronárias.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I e II apenas",
+   "I, II e III apenas",
+   "II e III apenas",
+   "II, III e IV apenas",
+   "I, II, III e IV"
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Reanimação do recém-nascido ≥34 semanas em sala de parto: diretrizes 2026 da SBP",
+  "coment": "Pela SBP, a massagem cardíaca neonatal usa a técnica dos dois polegares no terço inferior do esterno, logo abaixo da linha intermamilar e poupando o apêndice xifoide, com profundidade de um terço do diâmetro anteroposterior do tórax, na relação 3:1 com a ventilação (120 eventos por minuto). O texto da SBP explica que os polegares sobrepostos geram maior pressão, e que são os justapostos que aumentam a chance de lesão de pulmões e fígado; por isso III é falsa. A reexpansão plena do tórax é indispensável para o enchimento das câmaras e das coronárias, o que torna IV falsa. Ficam I e II.",
+  "porAlt": [
+   "Correta: I (dois polegares no terço inferior do esterno, poupando o xifoide) e II (um terço do diâmetro anteroposterior) são as únicas verdadeiras.",
+   "Errada: inclui III, mas o risco maior de lesão de pulmões e fígado é atribuído aos polegares justapostos, não aos sobrepostos.",
+   "Errada: exclui I, que descreve a posição correta das mãos, e inclui III, que é falsa.",
+   "Errada: III e IV são falsas; a reexpansão completa do tórax é necessária para o enchimento ventricular e coronariano.",
+   "Errada: III e IV são falsas, então nem todas as afirmativas estão corretas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Neonatal",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São complicações mais comuns da ventilação mecânica em neonatos, exceto:",
+  "alts": [
+   "asfixia por obstrução da sonda endotraqueal",
+   "tromboembolia",
+   "pneumotorax",
+   "ulceração, erosão ou estreitamento das estruturas das vias respiratórias",
+   "displasia broncopulmonar"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, v. 3, 2. ed., 2014",
+  "coment": "A questão pede a exceção. As complicações típicas da ventilação mecânica no neonato vêm da cânula e da pressão: obstrução da cânula por secreção, com risco de asfixia; barotrauma e volutrauma, com pneumotórax; lesão, erosão e estenose de laringe e traqueia pelo tubo; e displasia broncopulmonar, ligada à ventilação prolongada e ao oxigênio no prematuro. Tromboembolia não é complicação própria da ventilação neonatal. A enfermagem vigia fixação e permeabilidade da cânula, aspira com técnica e observa sinais de pneumotórax, como piora súbita e assimetria torácica.",
+  "porAlt": [
+   "Errada: a obstrução da cânula por secreção é complicação frequente e pode causar asfixia.",
+   "Correta: tromboembolia não é complicação típica da ventilação mecânica no neonato; é a exceção pedida.",
+   "Errada: o pneumotórax é complicação clássica do barotrauma na ventilação neonatal.",
+   "Errada: a lesão da via aérea pela cânula, com erosão e estenose, é complicação reconhecida.",
+   "Errada: a displasia broncopulmonar está ligada à ventilação prolongada e ao oxigênio no prematuro."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Neonatal",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Apneia da prematuridade é um distúrbio do desenvolvimento causado pela imaturidade da função neurológica e/ou mecânica do sistema respiratório. Da forma de tratamento da apneia, assinale a alternativa incorreta.",
+  "alts": [
+   "Estimulação",
+   "Tratamento da doença subjacente",
+   "Estimulantes respiratórios (p. ex., cafeína)",
+   "Os lactentes devem sempre ser colocados de lado para dormir",
+   "Pressão positiva contínua das vias respiratórias (CPAP)"
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Ministério da Saúde, Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, v. 3, 2. ed., 2014; AAP, Sleep-Related Infant Deaths: updated 2022 recommendations",
+  "coment": "A apneia da prematuridade se trata com estímulo tátil nos episódios, correção das causas associadas (infecção, anemia, hipoglicemia, distúrbios térmicos), metilxantinas, sendo a cafeína a de escolha, e CPAP nasal quando os episódios persistem. Posição lateral não é tratamento e não é recomendada para dormir: as recomendações de sono seguro (AAP, 2022) indicam decúbito dorsal para o lactente, porque a posição de lado favorece o rolar para o prono e aumenta o risco de morte súbita. O 'sempre de lado' torna D a incorreta.",
+  "porAlt": [
+   "Errada: o estímulo tátil interrompe o episódio de apneia e faz parte do tratamento.",
+   "Errada: tratar a causa associada, como infecção ou anemia, é parte do manejo.",
+   "Errada: a cafeína é o estimulante respiratório de escolha na apneia da prematuridade.",
+   "Correta: é a incorreta; a posição recomendada para dormir é o decúbito dorsal, e a lateral aumenta o risco de morte súbita.",
+   "Errada: o CPAP nasal é usado quando a apneia persiste apesar das outras medidas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Neonatal",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa incorreta dos sinais e sintomas relacionados á Síndrome Inflamatória Multissistêmica Pediátrica (SIM-P), síndrome rara e grave temporariamente relacionada a COVID-19.",
+  "alts": [
+   "Febre baixa",
+   "Febre alta",
+   "Inflamação dos vasos sanguíneos",
+   "Manifestações gastrointestinais",
+   "Hipotensão arterial"
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "OMS, Multisystem inflammatory syndrome in children and adolescents temporally related to COVID-19, scientific brief, 2020",
+  "coment": "A definição de caso da OMS (2020), adotada pelo Ministério da Saúde para notificar a SIM-P, exige febre persistente por 3 dias ou mais, sinais de inflamação de múltiplos órgãos e marcadores inflamatórios elevados, em criança ou adolescente com evidência de covid-19. Entre os critérios estão hipotensão ou choque, disfunção cardíaca, coagulopatia, manifestações gastrointestinais agudas e sinais mucocutâneos semelhantes aos da doença de Kawasaki, uma vasculite. A febre é alta e persistente, por isso 'febre baixa' é a incorreta.",
+  "porAlt": [
+   "Correta: é a incorreta; na SIM-P a febre é alta e persistente, por 3 dias ou mais.",
+   "Errada: febre alta e persistente é critério obrigatório da definição de caso.",
+   "Errada: a inflamação vascular, com quadro semelhante ao Kawasaki e risco de aneurisma coronariano, faz parte da síndrome.",
+   "Errada: dor abdominal, vômitos e diarreia são manifestações frequentes e entram nos critérios.",
+   "Errada: hipotensão e choque estão entre os critérios de gravidade da SIM-P."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o trecho a seguir: Constituem especificidades na criança a existência de hemoglobina fetal (in útero) que continua presente mesmo depois do nascimento até por volta dos 5 meses. Sendo a sua semi-vida mais curta (60-70 dias), explica a razão do aparecimento da chamada ______ por volta dos 2-3 meses de vida do lactente. Assinale a alternativa que preencha a lacuna corretamente.",
+  "alts": [
+   "anemia falconi",
+   "anemia aplástica",
+   "anemia fisiológica",
+   "anemia falciforme",
+   "anemia hemolítica"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hockenberry MJ, Wilson D, Rodgers CC. Wong Fundamentos de Enfermagem Pediátrica, 10. ed., 2018",
+  "coment": "Ao nascer predomina a hemoglobina fetal, cujas hemácias vivem menos que as do adulto. Com a oxigenação pulmonar, a eritropoetina cai e a produção de hemácias diminui enquanto as fetais são destruídas, o que leva ao nadir fisiológico da hemoglobina entre 2 e 3 meses de vida, chamado anemia fisiológica do lactente. É autolimitada e não exige tratamento no lactente a termo saudável. É mais precoce e mais intensa no prematuro. As outras anemias citadas são doenças, não um fenômeno do desenvolvimento.",
+  "porAlt": [
+   "Errada: anemia de Fanconi é falência medular hereditária, não fenômeno normal do lactente.",
+   "Errada: anemia aplástica é aplasia da medula, doença adquirida ou hereditária.",
+   "Correta: a queda da hemoglobina entre 2 e 3 meses, pela troca da hemoglobina fetal, é a anemia fisiológica.",
+   "Errada: anemia falciforme é hemoglobinopatia genética, detectada no teste do pezinho.",
+   "Errada: anemia hemolítica é destruição patológica de hemácias, não o nadir fisiológico."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que corresponde corretamente o volume de sangue estimado em crianças.",
+  "alts": [
+   "Em torno de 50 a 60 ml/kg",
+   "Em torno de 60 a 70 ml/kg",
+   "Em torno de 80 a 90 ml/kg",
+   "Em torno de 90 a 100 ml/kg",
+   "Em torno de 100 a 120 ml/kg"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ATLS, Advanced Trauma Life Support, 11ª edição (American College of Surgeons, 2025), trauma pediátrico",
+  "coment": "A volemia por quilo é maior na criança que no adulto. As tabelas pediátricas estimam cerca de 80 a 90 mL/kg no recém-nascido e no lactente e em torno de 80 mL/kg na criança, contra cerca de 70 mL/kg no adulto, e por isso a faixa de 80 a 90 mL/kg é a oferecida pela banca. Na prática, a estimativa serve para dimensionar perdas: uma perda pequena em mililitros representa fração grande da volemia de uma criança pequena, e a taquicardia aparece antes da hipotensão. As faixas de 50 a 70 mL/kg são de adulto e as de 90 a 120 mL/kg, de prematuro ou acima disso.",
+  "porAlt": [
+   "Errada: 50 a 60 mL/kg fica abaixo até da volemia do adulto.",
+   "Errada: 60 a 70 mL/kg se aproxima da volemia do adulto, não da criança.",
+   "Correta: a estimativa pediátrica gira em torno de 80 a 90 mL/kg, maior que a do adulto.",
+   "Errada: 90 a 100 mL/kg corresponde ao prematuro, não à criança.",
+   "Errada: 100 a 120 mL/kg superestima a volemia em qualquer faixa etária pediátrica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa incorreta dos principais reflexos primitivos pesquisados na criança.",
+  "alts": [
+   "Sucção e protusão da língua",
+   "Aperto de palmar",
+   "Reflexo de Moro",
+   "Tonicidade do pescoço",
+   "Reflexo plantar"
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hockenberry MJ, Wilson D, Rodgers CC. Wong Fundamentos de Enfermagem Pediátrica, 10. ed., 2018",
+  "coment": "Os reflexos primitivos avaliados no lactente incluem sucção e extrusão da língua, preensão palmar, Moro, preensão plantar e Babinski, além do tônico cervical assimétrico (do esgrimista). A banca considerou incorreta 'tonicidade do pescoço', lida como tônus da musculatura cervical, que é avaliado no exame neurológico e no controle cefálico mas não é reflexo. Atenção: o reflexo tônico cervical assimétrico é primitivo, surge ao nascer e some por volta dos 4 a 6 meses; o que a alternativa traz é tônus, não esse reflexo. A persistência dos reflexos primitivos além da idade esperada sugere lesão neurológica.",
+  "porAlt": [
+   "Errada: sucção e extrusão da língua são reflexos primitivos do recém-nascido.",
+   "Errada: a preensão palmar é reflexo primitivo, que desaparece por volta dos 3 a 4 meses.",
+   "Errada: o reflexo de Moro é o reflexo primitivo mais pesquisado.",
+   "Correta: tonicidade do pescoço é tônus muscular, item do exame neurológico, e não reflexo primitivo.",
+   "Errada: a preensão plantar e o Babinski são reflexos primitivos pesquisados na planta do pé."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "É correto afirmar que o débito cardíaco de uma criança de 5 anos é em torno de:",
+  "alts": [
+   "0.8 – 1.0 L /min",
+   "1.0 – 1.3 L /min",
+   "1.3 – 1.5 L /min",
+   "1.5 – 2.0 L /min",
+   "2.5 – 3.0 L /min"
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Hockenberry MJ, Wilson D, Rodgers CC. Wong Fundamentos de Enfermagem Pediátrica, 10. ed., 2018 (fisiologia cardiovascular pediátrica)",
+  "coment": "O débito cardíaco é o produto da frequência cardíaca pelo volume sistólico e cresce com o tamanho da criança. Por superfície corporal, o índice cardíaco normal fica em torno de 3,5 a 5,5 L/min/m²; uma criança de 5 anos tem cerca de 0,7 a 0,8 m², o que dá aproximadamente 2,5 a 3,0 L/min. Como o volume sistólico da criança pequena é limitado, o débito depende muito da frequência: bradicardia derruba o débito, e a taquicardia é a primeira compensação no choque. Os valores abaixo de 2 L/min correspondem a lactentes.",
+  "porAlt": [
+   "Errada: 0,8 a 1,0 L/min corresponde ao recém-nascido, não à criança de 5 anos.",
+   "Errada: 1,0 a 1,3 L/min é baixo demais para os 5 anos; corresponde a lactentes.",
+   "Errada: 1,3 a 1,5 L/min fica abaixo do esperado para os 5 anos.",
+   "Errada: 1,5 a 2,0 L/min ainda fica abaixo do débito esperado aos 5 anos.",
+   "Correta: aos 5 anos, com superfície de cerca de 0,75 m², o débito fica em torno de 2,5 a 3,0 L/min."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia a sentença abaixo:\nDos 5 aos 7 anos a posição do estomago é mais ______ que no adulto.\nAssinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "baixa",
+   "alta",
+   "a direita",
+   "a esquerda",
+   "central"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Hockenberry MJ, Wilson D, Rodgers CC. Wong Fundamentos de Enfermagem Pediátrica, 10. ed., 2018 (sistema gastrintestinal)",
+  "coment": "Na criança o estômago fica em posição mais alta e mais horizontal que no adulto e só desce e se verticaliza com o crescimento do tórax e do abdome. Por isso o epigástrio da criança pequena fica distendido após a mamada, e a capacidade gástrica é menor, o que explica refeições menores e mais frequentes. Na prática de enfermagem, a posição alta do estômago e o esfíncter esofágico inferior ainda imaturo no lactente explicam a facilidade de regurgitação e a atenção à medida da sonda gástrica, feita pela distância nariz, lóbulo da orelha e ponto médio entre xifoide e umbigo.",
+  "porAlt": [
+   "Errada: o estômago da criança é mais alto que o do adulto, não mais baixo.",
+   "Correta: dos 5 aos 7 anos o estômago ainda ocupa posição mais alta que no adulto.",
+   "Errada: a diferença é de altura e de orientação horizontal, não de desvio para a direita.",
+   "Errada: o estômago fica no quadrante superior esquerdo em qualquer idade; a diferença é ser mais alto.",
+   "Errada: o estômago não é central; a lacuna trata da altura em relação ao adulto."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta qual órgão é possível realizar a captação por coração parado e é realizada após o óbito do potencial doador.",
+  "alts": [
+   "Rim",
+   "Fígado",
+   "Pulmão",
+   "Intestino",
+   "Córnea"
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 9.175/2017, art. 17, § 2º; Lei 9.434/1997",
+  "coment": "No Brasil, órgãos sólidos como rim, fígado, pulmão e intestino são retirados de doador em morte encefálica, com o coração ainda batendo, porque toleram pouco tempo de isquemia quente. Tecidos, com a córnea à frente, podem ser captados depois da parada cardíaca: o Decreto 9.175/2017, art. 17, § 2º, dispensa os procedimentos de morte encefálica quando a morte decorre de parada cardíaca irreversível, diagnosticada por critérios circulatórios. A doação de órgãos após morte circulatória existe em outros países, mas não é a prática do sistema brasileiro, que é o referencial da questão.",
+  "porAlt": [
+   "Errada: no Brasil o rim é captado de doador em morte encefálica, com circulação mantida.",
+   "Errada: o fígado tolera pouca isquemia quente e é retirado de doador em morte encefálica.",
+   "Errada: o pulmão também vem de doador em morte encefálica no sistema brasileiro.",
+   "Errada: o intestino é órgão muito sensível à isquemia e exige doador em morte encefálica.",
+   "Correta: a córnea é tecido e pode ser captada após a parada cardíaca, sem diagnóstico de morte encefálica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa correta do intervalo mínimo de tempo entre dois exames clínicos para determinação de morte encefálica em crianças de dois a 24 (vinte e quatro) meses incompletos.",
+  "alts": [
+   "Uma hora",
+   "Quatro horas",
+   "Seis horas",
+   "Doze horas",
+   "Vinte e quatro horas"
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução CFM 2.173/2017 (intervalo entre exames clínicos por faixa etária)",
+  "coment": "A Res. CFM 2.173/2017 fixa o intervalo mínimo entre os dois exames clínicos da morte encefálica pela idade: de 7 dias completos (recém-nascido a termo) a 2 meses incompletos, 24 horas; de 2 a 24 meses incompletos, 12 horas; a partir de 2 anos, 1 hora. Os dois exames são feitos por médicos diferentes, capacitados e que não integram as equipes de retirada e transplante (Lei 9.434/1997, art. 3º). A enfermagem registra os horários de cada etapa e mantém os pré-requisitos fisiológicos durante o intervalo.",
+  "porAlt": [
+   "Errada: 1 hora é o intervalo a partir de 2 anos de idade.",
+   "Errada: 4 horas não é intervalo previsto na resolução.",
+   "Errada: 6 horas é o tempo mínimo de observação hospitalar antes de iniciar o protocolo, não o intervalo entre exames.",
+   "Correta: de 2 a 24 meses incompletos o intervalo mínimo entre os dois exames clínicos é de 12 horas.",
+   "Errada: 24 horas é o intervalo de 7 dias a 2 meses incompletos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o trecho abaixo:\nA infiltração da medula pelos linfomas e leucemias compromete a produção e função dos neutrófilos e linfócitos afetando a imunidade celular e humoral. O risco infeccioso é grande quando o número de neutrófilos cai abaixo de 500 células/mm3, e com menos de ______ existe um risco eminente de bacteremia e sepse.\nAssinale a alternativa correta que preencha corretamente a lacuna.",
+  "alts": [
+   "50 células/mm3",
+   "100 células/mm3",
+   "200 células/mm3",
+   "300 células/mm3",
+   "400 células/mm3"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "IDSA, Clinical Practice Guideline for the Use of Antimicrobial Agents in Neutropenic Patients with Cancer (Freifeld et al., 2011)",
+  "coment": "Neutropenia é a contagem de neutrófilos abaixo de 500/mm³, ou abaixo de 1.000/mm³ com queda prevista para menos de 500. A diretriz da IDSA (2011) chama de profunda a neutropenia abaixo de 100/mm³, faixa em que o risco de bacteremia é máximo, sobretudo se durar mais de 7 dias. Na leucemia e no linfoma, a infiltração medular e a quimioterapia somam-se. Para a enfermagem, febre na neutropenia é emergência: hemoculturas e antibiótico de amplo espectro em até 1 hora, higiene das mãos rigorosa e nenhuma aferição de temperatura retal.",
+  "porAlt": [
+   "Errada: 50/mm³ fica abaixo do limiar usado; o ponto de corte de neutropenia profunda é 100/mm³.",
+   "Correta: abaixo de 100 neutrófilos/mm³ a neutropenia é profunda e o risco de bacteremia e sepse é iminente.",
+   "Errada: 200/mm³ já é neutropenia grave, mas não é o corte de neutropenia profunda.",
+   "Errada: 300/mm³ está abaixo de 500, porém acima do limiar de risco máximo.",
+   "Errada: 400/mm³ é neutropenia grave, mas o texto pede o limiar inferior de 100/mm³."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Diferentes bactérias, fungos, vírus e parasitas são responsáveis pelos quadros infecciosos em uma UTI pediátrica, a partir da segunda e terceira semana de agranulocitose é comum infecções causadas por qual tipo de espécie de agente infeccioso. Assinale a alternativa correta.",
+  "alts": [
+   "Staphylococcus aureus",
+   "Streptococcus",
+   "Enterococos",
+   "Candida albicans",
+   "Pseudomonas aeruginosa"
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "IDSA, Clinical Practice Guideline for the Use of Antimicrobial Agents in Neutropenic Patients with Cancer (Freifeld et al., 2011)",
+  "coment": "Na neutropenia, o perfil de agentes muda com o tempo. Nos primeiros dias predominam as bactérias, Gram-positivas da pele e do cateter e Gram-negativas da flora intestinal, como Pseudomonas. Com a neutropenia prolongada, a partir da segunda e terceira semana, sobretudo sob antibiótico de amplo espectro, cateter central e mucosite, crescem as infecções fúngicas, com Candida e Aspergillus. Por isso a IDSA (2011) indica considerar antifúngico empírico quando a febre persiste após 4 a 7 dias de antibiótico em quem deve seguir neutropênico. A banca pede o agente típico dessa fase: Candida albicans.",
+  "porAlt": [
+   "Errada: o S. aureus é agente bacteriano dos primeiros dias, ligado à pele e ao cateter.",
+   "Errada: os estreptococos aparecem precocemente, sobretudo com mucosite.",
+   "Errada: o enterococo é bactéria de infecção precoce ou associada a antibióticos, não o marcador da fase tardia.",
+   "Correta: na neutropenia que se prolonga por semanas, sob antibiótico de amplo espectro, predominam fungos como Candida albicans.",
+   "Errada: a Pseudomonas é causa bacteriana grave já no início da neutropenia febril."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia a sentença abaixo:\nO mecanismo de absorção retal em crianças pequenas é em parte ______ ao que acontece na parte superior do tracto gastrointestinal, apesar das diferenças de pH.\nAssinale a alternativa que preencha a lacuna corretamente.",
+  "alts": [
+   "diferente",
+   "distinto",
+   "semelhante",
+   "variado",
+   "divergente"
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Vias de administração",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Hockenberry MJ, Wilson D, Rodgers CC. Wong Fundamentos de Enfermagem Pediátrica, 10. ed., 2018 (administração de medicamentos)",
+  "coment": "A frase traz a pista: 'apesar das diferenças de pH' indica que o processo é parecido, não diferente. A absorção retal, como no trato gastrointestinal superior, ocorre sobretudo por difusão passiva através da mucosa, e por isso é descrita como semelhante. O que muda é a extensão e a regularidade: a absorção retal é errática, depende de o fármaco ficar retido, da presença de fezes e da área de mucosa, e parte do sangue das veias retais inferiores não passa pelo fígado. Em criança pequena, a via retal serve para antitérmico e anticonvulsivante quando não há acesso venoso.",
+  "porAlt": [
+   "Errada: 'diferente' contradiz a ideia de que, apesar do pH, o mecanismo se parece com o do trato superior.",
+   "Errada: 'distinto' é sinônimo de diferente e também contraria o sentido da frase.",
+   "Correta: o mecanismo de absorção retal, por difusão passiva, é em parte semelhante ao do trato gastrointestinal superior.",
+   "Errada: 'variado' não estabelece a comparação que a frase propõe com o trato superior.",
+   "Errada: 'divergente' tem o sentido oposto ao pretendido pela expressão 'apesar das diferenças'."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia a sentença abaixo:\nQualquer droga que possa ser administrada pela via endovenosa pode ser também administrada pela via intraóssea, que é rápida e efetiva, com tempo menor do que ______ para atingir a circulação sistêmica.\nAssinale a alternativa que preencha a lacuna corretamente",
+  "alts": [
+   "5 segundos",
+   "20 segundos",
+   "1 minuto",
+   "2 minutos",
+   "3 minutos"
+  ],
+  "gab": 1,
+  "tema": "farmaco",
+  "sub": "Vias de administração",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Diretrizes AHA 2025 de RCP e ACE (suporte avançado de vida pediátrico, acesso vascular)",
+  "coment": "Na emergência pediátrica, quando o acesso venoso não é obtido logo, a via intraóssea é a alternativa: a cavidade medular drena para a circulação venosa sistêmica por um plexo que não colaba no choque. Qualquer fármaco, fluido ou hemoderivado dado por via venosa pode ser dado pela intraóssea, com início de ação semelhante, seguido de bolus de soro fisiológico para empurrar a dose. O número de 20 segundos vem da fonte da banca; as diretrizes de reanimação não fixam esse tempo, mas afirmam a equivalência com a via venosa. Por isso as opções de minutos estão erradas.",
+  "porAlt": [
+   "Errada: 5 segundos não é o tempo descrito pela fonte da questão.",
+   "Correta: pela fonte da banca, a droga dada por via intraóssea chega à circulação sistêmica em menos de 20 segundos, de forma equivalente à venosa.",
+   "Errada: 1 minuto subestima a rapidez da via intraóssea.",
+   "Errada: 2 minutos contraria a equivalência da intraóssea com a via venosa.",
+   "Errada: 3 minutos seria tempo de via lenta, o que a intraóssea não é."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A diferença anatômica mais importante em relação ao trauma entre adultos e crianças são as vias aéreas. Sobre esse assunto, analise as afirmativas e dê valores Verdadeiro ou Falso (F).\n( ) A epiglote é mais cefálica, flexível e tem caracteristicamente formato “em ômega”.\n( ) As vias aéreas pediátricas são mais estreitas em todos os níveis, principalmente ao nível da cartilagem cricóide, e mais facilmente se obstruem por muco, sangue ou corpos estranhos.\n( ) Os tecidos moles (língua, tonsilas palatinas) são relativamente menores.\n( ) A laringe da criança tem formato cônico e é mais anteriorizada.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "V - V - V - F",
+   "V - V - F - V",
+   "V - V - F - F",
+   "V - F - V - F"
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ATLS, Advanced Trauma Life Support, 11ª edição (American College of Surgeons, 2025), trauma pediátrico",
+  "coment": "A via aérea da criança difere da do adulto em pontos que o ATLS destaca: a epiglote é mais alta, flexível e em forma de ômega; a laringe é mais cefálica e anterior e tem formato de funil, com estreitamento subglótico na região da cricoide; as vias são mais estreitas e se obstruem facilmente por secreção, sangue ou corpo estranho. Os tecidos moles, como língua e tonsilas, são relativamente MAIORES em relação à cavidade oral, o que favorece a obstrução, por isso a terceira afirmativa é falsa. O occipício proeminente flexiona o pescoço em decúbito e pede coxim sob os ombros.",
+  "porAlt": [
+   "Errada: a terceira afirmativa é falsa, porque língua e tonsilas são relativamente maiores na criança.",
+   "Errada: a terceira é falsa e a quarta é verdadeira, ao contrário do que a sequência indica.",
+   "Correta: V, V, F, V; só é falsa a afirmação de que os tecidos moles são relativamente menores.",
+   "Errada: a quarta afirmativa é verdadeira, porque a laringe infantil é cônica e mais anterior.",
+   "Errada: a segunda é verdadeira e a terceira é falsa, ao contrário do que a sequência indica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma reação de hipersensibilidade imediata e grave pode ser potencialmente fatal. Assinale a alternativa Incorreta dos sinais e sintomas de hipersensibilidade",
+  "alts": [
+   "Febre repentina",
+   "Inchaço articular",
+   "Exantema e urticária",
+   "Vermelhidão e secreção no local IV",
+   "Broncoespasmo"
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Interações e reações adversas",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hockenberry MJ, Wilson D, Rodgers CC. Wong Fundamentos de Enfermagem Pediátrica, 10. ed., 2018 (administração de medicamentos e reações de hipersensibilidade)",
+  "coment": "A reação de hipersensibilidade ao medicamento é sistêmica: exantema, urticária, prurido, angioedema, broncoespasmo com sibilância, e nas reações a fármacos também febre de início súbito e edema articular. Na anafilaxia o risco é de obstrução de via aérea e choque, e a conduta é parar a infusão e dar adrenalina intramuscular. Vermelhidão e secreção no local da punção venosa são sinais locais de flebite ou infecção do sítio, não de hipersensibilidade; por isso D é a incorreta. A enfermagem observa a criança nos primeiros minutos de toda primeira dose e mantém adrenalina disponível.",
+  "porAlt": [
+   "Errada: febre súbita é descrita entre os sinais de reação de hipersensibilidade a medicamentos.",
+   "Errada: edema articular faz parte das manifestações de hipersensibilidade a fármacos.",
+   "Errada: exantema e urticária são os sinais cutâneos mais típicos da hipersensibilidade.",
+   "Correta: é a incorreta; vermelhidão e secreção no sítio venoso indicam flebite ou infecção local.",
+   "Errada: broncoespasmo é manifestação grave da hipersensibilidade imediata e indica anafilaxia."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na fisiopatologia da Cetoacidose Diabética (CAD) é necessário ajustes da glicemia com uso de insulina, hiper-hidratação para correção de desidratação além de outras medidas, no contexto apresentado é necessário especial atenção para as possibilidades de sequestro iônico para o meio intracelular. Diante do exposto, assinale a alternativa correta desse íon.",
+  "alts": [
+   "Cloro",
+   "Potássio",
+   "Cálcio",
+   "Magnésio",
+   "Ácidos orgânicos"
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "ISPAD Clinical Practice Consensus Guidelines 2022: diabetic ketoacidosis and hyperglycemic hyperosmolar state",
+  "coment": "Na cetoacidose, o potássio sérico pode estar normal ou alto, mas o potássio corporal total está baixo, pela diurese osmótica e pelos vômitos. Insulina e correção da acidose deslocam o potássio para dentro da célula, e a hidratação o dilui, com risco de hipocalemia grave e arritmia. Por isso a ISPAD (2022) recomenda repor potássio desde o início, se não houver hipercalemia, e adiar a insulina se o potássio estiver baixo até iniciar a reposição. A enfermagem confere a diurese antes do potássio, mantém monitor cardíaco e colhe eletrólitos seriados.",
+  "porAlt": [
+   "Errada: o cloro tende a subir com a hidratação com soro fisiológico, sem sequestro intracelular relevante.",
+   "Correta: insulina e correção da acidose levam o potássio para dentro da célula, com risco de hipocalemia.",
+   "Errada: o cálcio não é o íon cujo deslocamento intracelular preocupa na cetoacidose.",
+   "Errada: o magnésio pode cair, mas o sequestro intracelular crítico do tratamento é o do potássio.",
+   "Errada: ácidos orgânicos não são íon mineral sequestrado; são os cetoácidos que a insulina interrompe."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A nutrição enteral tem sido o método de escolha de terapia nutricional à criança gravemente doente. Assinale a alternativa incorreta sobre as vantagens da nutrição enteral.",
+  "alts": [
+   "Reduz a possibilidade de translocação bacteriana",
+   "Requer técnicas de assepsia complexas",
+   "Respeita as funções digestivas",
+   "Tem menor risco de complicações",
+   "Favorece o trofismo mucoso"
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "ASPEN/SCCM, Guidelines for the Provision and Assessment of Nutrition Support Therapy in the Pediatric Critically Ill Patient, 2017; RDC ANVISA 503/2021",
+  "coment": "A nutrição enteral é a via preferida na criança grave com trato digestivo funcionante (ASPEN/SCCM, 2017) porque usa a fisiologia digestiva, mantém o trofismo da mucosa intestinal, reduz a translocação bacteriana e tem menos complicações infecciosas e metabólicas e menor custo que a parenteral. Técnicas de assepsia complexas, com manipulação em capela de fluxo laminar e cuidado de cateter central, são exigência da nutrição parenteral. A enteral pede boas práticas de preparo e administração (RDC ANVISA 503/2021), mas não assepsia de via venosa central. Por isso B é a incorreta.",
+  "porAlt": [
+   "Errada: manter o intestino em uso reduz a translocação bacteriana, vantagem real da enteral.",
+   "Correta: é a incorreta; assepsia complexa é exigência da nutrição parenteral, não vantagem nem característica da enteral.",
+   "Errada: respeitar as funções digestivas é a vantagem central da via enteral.",
+   "Errada: a enteral tem menos complicações infecciosas e metabólicas que a parenteral.",
+   "Errada: o estímulo luminal favorece o trofismo da mucosa intestinal."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Terapia Intensiva Pediátrica",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Conforme disposto na Lei nº 9.434 de 4 de Fevereiro de 1997 sobre a remoção de órgãos, tecidos e partes do corpo humano para fins de transplante e tratamento e dá outras providências. Analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) A retirada post mortem de tecidos, órgãos ou partes do corpo humano destinados a transplante ou tratamento deverá ser precedida de diagnóstico de morte encefálica, constatada e registrada por dois médicos participantes das equipes de remoção e transplante.\n( ) É vedada a remoção post mortem de tecidos, órgãos ou partes do corpo de pessoas não identificadas.\n( ) A presença de médico de confiança da família do falecido será permitida no ato da comprovação e após a atestação da morte encefálica.\n( ) A retirada de tecidos, órgãos e partes do corpo de pessoas falecidas para transplantes ou outra finalidade terapêutica, dependerá da autorização do cônjuge ou parente, maior de idade, obedecida a linha sucessória, reta ou colateral, até o quarto grau inclusive, firmada em documento subscrito por duas testemunhas.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "F - V - V - V",
+   "V - V - V - V",
+   "F - F - V - F",
+   "F - V - V - F",
+   "V - V - V - F"
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 9.434/1997, arts. 3º, § 3º, 4º (redação da Lei 10.211/2001) e 6º",
+  "coment": "Pela Lei 9.434/1997: o art. 3º exige que a morte encefálica seja constatada e registrada por dois médicos NÃO participantes das equipes de remoção e transplante (primeira, falsa); o art. 6º veda a remoção post mortem de pessoas não identificadas (segunda, verdadeira); o art. 3º, § 3º, admite a presença de médico de confiança da família no ato da comprovação e atestação da morte encefálica (terceira, verdadeira para a banca); e o art. 4º, com a redação da Lei 10.211/2001, exige autorização do cônjuge ou parente maior, em linha reta ou colateral, até o SEGUNDO grau, com duas testemunhas (quarta, falsa por dizer quarto grau). Sequência F, V, V, F.",
+  "porAlt": [
+   "Errada: a primeira é falsa, porque os médicos que constatam a morte encefálica não podem integrar as equipes de remoção e transplante.",
+   "Errada: a primeira e a quarta são falsas; a lei exige médicos não participantes e parente até o segundo grau.",
+   "Errada: a segunda é verdadeira, pois o art. 6º veda a remoção de pessoas não identificadas.",
+   "Correta: F, V, V, F; erram a participação dos médicos nas equipes e o grau de parentesco, que vai só até o segundo.",
+   "Errada: a primeira é falsa, porque a lei exige médicos não participantes das equipes."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Conselho Federal de Medica (CFM) define os critérios do diagnóstico de morte encefálica, Resolução nº 2.173 de 23 de Novembro de 2017. Considerando os pré-requisitos para iniciar os procedimentos para determinação de morte encefálica (ME), assinale a alternativa incorreta.",
+  "alts": [
+   "Presença de lesão encefálica de causa conhecida, irreversível e capaz de causar morte encefálica",
+   "Temperatura corporal (esofagiana, vesical ou retal) superior a 35°C, saturação arterial de oxigênio acima de 94% e pressão arterial sistólica maior ou igual a 100 mmHg ou pressão arterial média maior ou igual a 65mmHg para adultos",
+   "Ausência de fatores tratáveis que possam confundir o diagnóstico de morte encefálica",
+   "Tratamento e observação em hospital pelo período mínimo 3 horas. Quando a causa primária do quadro for encefalopatia hipóxico-isquêmica, esse período de tratamento e observação deverá ser de, no mínimo, 10 horas",
+   "Temperatura corporal (esofagiana, vesical ou retal) superior a 35°C, saturação arterial de oxigênio acima de 94% e pressão arterial sistólica maior ou igual a 85 mmHg ou pressão arterial média maior ou igual a 62mmHg para 2 anos a 7 anos incompletos"
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução CFM 2.173/2017, art. 1º e Anexo I (pré-requisitos)",
+  "coment": "A questão pede a incorreta. Os pré-requisitos da Res. CFM 2.173/2017 são: lesão encefálica de causa conhecida, irreversível e capaz de causar morte encefálica; ausência de fatores tratáveis que confundam o diagnóstico; tratamento e observação no hospital por no mínimo 6 horas, ou 24 horas quando a causa é encefalopatia hipóxico-isquêmica; e temperatura acima de 35 °C, saturação acima de 94% e, no adulto, pressão sistólica de pelo menos 100 mmHg ou média de pelo menos 65 mmHg. De 2 a 7 anos incompletos, os alvos são 85 e 62 mmHg. D troca 6 e 24 horas por 3 e 10 horas.",
+  "porAlt": [
+   "Errada: está correta; lesão encefálica de causa conhecida, irreversível e capaz de causar morte encefálica é o primeiro pré-requisito.",
+   "Errada: está correta; são os parâmetros de temperatura, saturação e pressão exigidos no adulto.",
+   "Errada: está correta; fatores tratáveis que confundem o diagnóstico precisam ser afastados antes.",
+   "Correta: é a incorreta, porque a observação mínima é de 6 horas, e de 24 horas na encefalopatia hipóxico-isquêmica.",
+   "Errada: está correta; de 2 a 7 anos incompletos a resolução pede sistólica de 85 ou média de 62 mmHg."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando o Decreto nº 9.175 de 18 de Outubro de 2017, trata sobre a disposição de órgãos, tecidos, células e partes do corpo humano para fins de transplante e tratamento. Analise as afirmativas abaixo:\nI. São atribuições do Sistema Nacional de Transplantes (SNT) atividades de doação e transplante de órgãos, tecidos, células e partes do corpo humano, a partir de doadores vivos ou falecidos; o conhecimento dos casos de morte encefálica; e a determinação do destino de órgãos, tecidos, células e partes do corpo humano retirados para transplante em qualquer ponto do território nacional.\nII. O transplante, o enxerto ou a retirada de órgãos, tecidos, células e partes do corpo humano somente poderão ser realizados em estabelecimentos de saúde, públicos ou privados, por equipes especializadas, prévia e expressamente autorizados pelo órgão central do Sistema Nacional de Transplantes (SNT).\nIII. Os hospitais poderão notificar a morte encefálica diagnosticada em suas dependências à Central Estadual de Transplantes da unidade federativa a que estiver vinculada, em caráter opcional.\nIV. Compete a Central Estadual de Transplantes acionar o Ministério Público e outras instituições públicas competentes para informar a prática de ilícitos cuja apuração não esteja compreendida no âmbito de sua competência.\nEstão corretas as afirmativas.",
+  "alts": [
+   "I e II apenas",
+   "II e IV apenas",
+   "I, II e IV apenas",
+   "I, II e III apenas",
+   "I, II, III e IV"
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Decreto 9.175/2017, arts. 4º, 8º (inciso XV) e 11; Lei 9.434/1997, art. 13",
+  "coment": "I reproduz o art. 4º do Decreto 9.175/2017, âmbito de intervenção do SNT: doação e transplante de doadores vivos ou falecidos, conhecimento dos casos de morte encefálica e destino de órgãos e tecidos em todo o território. II é o art. 11: transplante, enxerto ou retirada só em estabelecimentos e por equipes prévia e expressamente autorizados pelo órgão central do SNT. IV está no art. 8º, XV, entre as competências das Centrais Estaduais. III é falsa: a notificação da morte encefálica à central é obrigatória para todo estabelecimento de saúde (Lei 9.434/1997, art. 13), não opcional.",
+  "porAlt": [
+   "Errada: omite IV, que também está correta como competência das Centrais Estaduais (art. 8º, XV).",
+   "Errada: omite I, que reproduz o art. 4º do decreto.",
+   "Correta: I, II e IV estão corretas; III erra ao dizer que a notificação da morte encefálica é opcional.",
+   "Errada: inclui III, mas a notificação da morte encefálica é obrigatória pela Lei 9.434/1997, art. 13.",
+   "Errada: III é falsa, então nem todas estão corretas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Resolução nº 2.173/2017 é obrigatória a realização de procedimentos para determinação da morte encefálica.\n“Dois exames ______ que confirmem coma não perceptivo, ______ que confirme ausência de movimentos respiratórios após estimulação máxima dos centros respiratórios e exame ______ que comprove ausência de atividade encefálica.”\nAssinale a alternativa que preencha correta e respectivamente as lacunas.",
+  "alts": [
+   "Teste de apnéia / Clínicos / complementar",
+   "Clínicos / teste de apnéia / complementar",
+   "Complementares / físicos / teste de apnéia",
+   "De imagens / gasometria / clínico",
+   "Gasometria / teste de apnéia / físico"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CFM 2.173/2017, art. 1º",
+  "coment": "O art. 1º da Res. CFM 2.173/2017 torna obrigatórios, para determinar a morte encefálica: dois exames clínicos que confirmem coma não perceptivo e ausência de função do tronco encefálico, feitos por médicos diferentes; um teste de apneia que confirme ausência de movimentos respiratórios após estimulação máxima dos centros respiratórios; e um exame complementar que comprove ausência de atividade encefálica, como angiografia, doppler transcraniano, cintilografia ou eletroencefalograma. A ordem das lacunas é clínicos, teste de apneia e complementar.",
+  "porAlt": [
+   "Errada: inverte as duas primeiras lacunas; o coma é confirmado pelos exames clínicos, e o teste de apneia avalia a respiração.",
+   "Correta: dois exames clínicos, um teste de apneia e um exame complementar, na ordem da resolução.",
+   "Errada: o coma não é confirmado por exames complementares, e não existe etapa de exames físicos separada.",
+   "Errada: exame de imagem não confirma o coma e a gasometria é parte do teste de apneia, não etapa isolada.",
+   "Errada: a gasometria não confirma coma, e a ausência de atividade encefálica exige exame complementar, não físico."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Diversos fatores, quando graves e não corrigidos, podem agravar ou ocasionar coma. A equipe deverá tomar medidas adequadas para correção das alterações antes de iniciar os procedimentos para determinação da morte encefálica. Assinale a alternativa correta que apresenta um fator grave:",
+  "alts": [
+   "Icterícia",
+   "Anúria",
+   "Edema",
+   "Ascite",
+   "Hipotermia"
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Resolução CFM 2.173/2017, Anexo I (fatores que confundem o diagnóstico)",
+  "coment": "Antes de abrir o protocolo de morte encefálica, a Res. CFM 2.173/2017 exige corrigir condições graves que possam causar ou agravar o coma e confundir o exame: distúrbios hidroeletrolíticos, ácido-básicos e endócrinos, intoxicação exógena, efeito de sedativos e bloqueadores neuromusculares, e hipotermia. Por isso a temperatura corporal precisa estar acima de 35 °C. A enfermagem aquece o paciente com manta térmica e soluções aquecidas e registra a temperatura central. Icterícia, anúria, edema e ascite são achados de disfunção orgânica, mas não deprimem o tronco encefálico a ponto de simular morte encefálica.",
+  "porAlt": [
+   "Errada: icterícia é sinal de disfunção hepática, não fator que simule morte encefálica.",
+   "Errada: anúria indica lesão renal ou diabetes insípido, mas não deprime o tronco encefálico.",
+   "Errada: edema não confunde o exame neurológico da morte encefálica.",
+   "Errada: ascite não altera o exame clínico da morte encefálica.",
+   "Correta: a hipotermia grave deprime o sistema nervoso e precisa ser corrigida, com temperatura acima de 35 °C, antes do protocolo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Após o consentimento para realização do transplante de órgãos, o médico autorizado irá providenciar a inscrição do paciente no sistema informatizado. É possível acompanhar, durante a espera pelo órgão, a posição relativa do paciente na lista de espera. Assinale a alternativa correta que apresenta a documentação necessária.",
+  "alts": [
+   "Certidão de Nascimento ou Certidão de Casamento",
+   "Certidão Nacional de Habilitação (CNH) e Cartão Nacional de Saúde (CNS)",
+   "Registro Geral da Central de Transplantes (RGCT) e Cadastro de Pessoas Físicas (CPF)",
+   "Registro Geral (RG) e Comprovante de Residência",
+   "Título Eleitoral e Cartão Nacional de Saúde (CNS)"
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Decreto 9.175/2017, art. 8º (cadastro técnico dos candidatos a receptores); Ministério da Saúde, Sistema Nacional de Transplantes (consulta à lista de espera), 2026",
+  "coment": "Inscrito pela equipe transplantadora no cadastro técnico gerenciado pela Central Estadual de Transplantes (Decreto 9.175/2017, art. 8º, II), o paciente recebe um número de Registro Geral da Central de Transplantes, o RGCT. Com o RGCT e o CPF, o próprio paciente consulta sua situação e posição relativa na lista única de espera no sistema do Ministério da Saúde. A lista é única por órgão e região, e a ordem segue critérios técnicos de compatibilidade, gravidade e tempo de espera, não a ordem de chegada pura. Os demais documentos citados não dão acesso à consulta.",
+  "porAlt": [
+   "Errada: certidão de nascimento ou casamento não é o documento de consulta à lista de espera.",
+   "Errada: CNH e Cartão Nacional de Saúde não são os dados pedidos na consulta.",
+   "Correta: o RGCT, gerado na inscrição, e o CPF permitem acompanhar a posição na lista de espera.",
+   "Errada: RG e comprovante de residência não dão acesso à consulta da lista.",
+   "Errada: título de eleitor e Cartão Nacional de Saúde não são os dados usados na consulta."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O sucesso dos transplantes de órgãos está diretamente ligado as terapias medicamentosas. Algumas drogas são utilizadas com o objetivo de prevenir a rejeição do enxerto. Assinale a alternativa correta que apresenta tais drogas.",
+  "alts": [
+   "Antirretrovirais",
+   "Imunossupressores",
+   "Anti-inflamatórios não esteroides",
+   "Polivitamínicos",
+   "Fungicidas"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020 (transplante e imunossupressão)",
+  "coment": "A rejeição é a resposta imune do receptor contra os antígenos do enxerto. Para preveni-la, o transplantado usa imunossupressores pelo resto da vida, em geral em associação: inibidores da calcineurina (tacrolimo, ciclosporina), antiproliferativos (micofenolato, azatioprina), inibidores da mTOR (sirolimo, everolimo) e corticoide. A enfermagem orienta horários fixos, dosagem do nível sérico, interações e sinais de infecção, porque a imunossupressão aumenta o risco infeccioso e de neoplasias. Antirretrovirais, anti-inflamatórios, vitaminas e antifúngicos não previnem rejeição.",
+  "porAlt": [
+   "Errada: antirretrovirais tratam o HIV e não previnem rejeição.",
+   "Correta: imunossupressores, como tacrolimo e micofenolato, previnem a rejeição do enxerto.",
+   "Errada: anti-inflamatórios não esteroides não previnem rejeição e são nefrotóxicos no transplantado.",
+   "Errada: polivitamínicos não têm efeito sobre a resposta imune contra o enxerto.",
+   "Errada: antifúngicos podem ser usados na profilaxia de infecção, não para prevenir rejeição."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Entre as diversas etapas do processo de doação-transplante, a entrevista familiar é imprescindível para a concretização desse processo. Analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F):\n( ) O entrevistador é o elo entre o potencial doador e a doação efetiva.\n( ) A entrevista familiar consiste em um importante e delicado momento da doação de órgãos e tecidos. Importante porque possibilita a efetiva ligação entre o doador e o receptor; delicado porque representa, em geral, o momento que a família enfrenta a perda de seu ente querido\n( ) A doação de órgãos é um ato voluntário, e somente em algumas situações poderá existir pagamento, recompensa ou qualquer espécie de barganha para que ela se efetive.\n( ) A entrevista familiar pode possibilitar à família enlutada a tomada de uma importante decisão. Deve ser conduzida de forma ética, a fim de respeitar o livre arbítrio dos envolvidos.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - F - V",
+   "V - V - V - V",
+   "F - F - V - V",
+   "F - F - F - V",
+   "V - F - V - F"
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Lei 9.434/1997, arts. 1º e 15; Decreto 9.175/2017, art. 1º e art. 20",
+  "coment": "A entrevista familiar é a etapa em que a família decide sobre a doação; o entrevistador capacitado é o elo entre o potencial doador e a doação efetiva. É um momento importante, porque viabiliza a ligação entre doador e receptor, e delicado, porque coincide com a notícia da perda. Deve ser ética, respeitar o livre arbítrio e acolher a decisão, seja qual for. A terceira afirmativa é falsa: a doação é sempre gratuita (Decreto 9.175/2017, art. 1º), e comprar ou vender órgãos é crime (Lei 9.434/1997, art. 15). Sequência V, V, F, V.",
+  "porAlt": [
+   "Correta: V, V, F, V; só é falsa a ideia de que pode haver pagamento ou recompensa pela doação.",
+   "Errada: a terceira é falsa, porque a doação é sempre gratuita e a compra de órgãos é crime.",
+   "Errada: as duas primeiras são verdadeiras e a terceira é falsa.",
+   "Errada: as duas primeiras afirmativas são verdadeiras.",
+   "Errada: a segunda é verdadeira, a terceira é falsa e a quarta é verdadeira."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O transplante de córnea consiste na substituição de córnea opaca ou doente por córnea doadora transparente, é usado com o objetivo de melhorar a acuidade visual. Diante do exposto, assinale a alternativa incorreta.",
+  "alts": [
+   "O transplante de córnea é o mais realizado no país e também se constitui na modalidade cuja taxa de realização do procedimento em unidades privadas é grande",
+   "Os tecidos oculares fazem parte da lista de tecidos que podem ser doados após a constatação de morte encefálica, portanto de doadores não vivos. Entretanto, a morte encefálica, ao contrário do que acontece com órgãos sólidos, não é determinante na doação de córneas",
+   "São determinantes para a realização do transplante de córneas critérios de compatibilidade sanguínea entre doador e receptor",
+   "As principais indicações para o transplante de córneas são perfuração do globo ocular, ceratocone e úlcera de córnea sem resposta a tratamentos clínicos",
+   "Os sinais clínicos prováveis de rejeição são dor, diminuição da acuidade visual e hiperemia conjuntival"
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Decreto 9.175/2017, art. 17, § 2º; Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020 (transplante de córnea)",
+  "coment": "A questão pede a incorreta. A córnea é avascular, por isso o transplante não exige compatibilidade ABO entre doador e receptor; a seleção considera a qualidade do tecido no banco de olhos. Também por isso a córnea pode ser captada após parada cardíaca, sem diagnóstico de morte encefálica (Decreto 9.175/2017, art. 17, § 2º). É o transplante mais realizado no país. Ceratocone, perfuração e úlcera refratária estão entre as indicações. A rejeição se manifesta por dor, baixa da acuidade visual, hiperemia e fotofobia, e o paciente deve procurar o serviço logo que surgirem.",
+  "porAlt": [
+   "Errada: está correta; a córnea é o transplante mais realizado no Brasil, com parte relevante em serviços privados.",
+   "Errada: está correta; a córnea pode ser doada após parada cardíaca, sem depender da morte encefálica.",
+   "Correta: é a incorreta, porque a córnea é avascular e a compatibilidade sanguínea não é determinante.",
+   "Errada: está correta; ceratocone, perfuração e úlcera sem resposta clínica são indicações.",
+   "Errada: está correta; dor, baixa visual e hiperemia são sinais de rejeição a comunicar logo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O principal objetivo do transplante renal é melhorar a qualidade de vida do paciente em estágio terminal de insuficiência renal e oferecer expectativa de vida. Assinale a alternativa incorreta.",
+  "alts": [
+   "Portadores de neoplasias malignas são contraindicados ao transplante, pois o risco de metástase induzida pela imunossupressão é alto. Nesses casos, deve-se tratar a neoplasia e o transplante só poderá ser realizado a partir do momento em que não houver evidência da persistência da doença",
+   "O enxerto é preferencialmente implantado na fossa ilíaca direita, através de uma incisão, de maneira a facilitar a exposição dos vasos ilíacos",
+   "A trombose de artéria renal é considerada uma complicação cirúrgica, tem como quadro clínico a anúria súbita",
+   "O doador vivo pode ser criança, mas em geral, a idade máxima não deve ser superior a 40 anos.",
+   "O paciente a ser transplantado pode ser dialisado no mesmo dia do transplante, se necessário"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Lei 9.434/1997, art. 9º; Decreto 9.175/2017, art. 27; Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "A questão pede a incorreta. Doador vivo precisa ser juridicamente capaz (Lei 9.434/1997, art. 9º; Decreto 9.175/2017, art. 27); criança não doa rim, e só o incapaz com compatibilidade comprovada pode doar medula óssea, com autorização dos pais e judicial (art. 9º, § 6º). Também não há teto de 40 anos: a avaliação é clínica. As demais são corretas: neoplasia ativa contraindica o transplante, pela imunossupressão; o enxerto vai de preferência à fossa ilíaca direita, retroperitoneal; a trombose da artéria renal causa anúria súbita; e o receptor pode dialisar no dia, se necessário.",
+  "porAlt": [
+   "Errada: está correta; neoplasia maligna ativa contraindica o transplante até não haver evidência de doença.",
+   "Errada: está correta; a fossa ilíaca direita é o local preferido, pela exposição dos vasos ilíacos.",
+   "Errada: está correta; anúria súbita após o transplante sugere trombose da artéria renal.",
+   "Correta: é a incorreta, porque o doador vivo precisa ser juridicamente capaz e não há limite fixo de 40 anos.",
+   "Errada: está correta; o receptor pode ser dialisado no dia do transplante para corrigir volume e potássio."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para ordenar os pacientes em lista de espera para transplante de fígado é utilizado um escore de gravidade, baseado em três valores laboratorias. Assinale a alternativa correta para identificação do escore.",
+  "alts": [
+   "Model of End-stage Liver Disease (MELD)",
+   "Cross Match",
+   "Histocompatibilidade (HLA)",
+   "Tipagem Sanguínea",
+   "Células Hematopoiéticas"
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.160/2006 (critério de gravidade na distribuição de fígado), consolidada na PRC 4/2017",
+  "coment": "Desde a Portaria GM/MS 1.160/2006, a lista de espera do transplante de fígado de doador falecido no Brasil é ordenada pela gravidade, medida pelo MELD (Model for End-stage Liver Disease), e não mais pela ordem cronológica. O MELD usa três exames: bilirrubina total, creatinina e INR, e estima o risco de morte em 3 meses; quanto maior, maior a prioridade. Em criança se usa o PELD. Prova cruzada (cross match), HLA e tipagem ABO são testes de compatibilidade, não escores de gravidade, e células hematopoiéticas são enxerto de outra modalidade.",
+  "porAlt": [
+   "Correta: o MELD, calculado com bilirrubina, creatinina e INR, ordena a lista do transplante hepático.",
+   "Errada: a prova cruzada testa anticorpos do receptor contra o doador; não é escore de gravidade.",
+   "Errada: a tipagem HLA mede histocompatibilidade, importante no rim, não a gravidade hepática.",
+   "Errada: a tipagem sanguínea verifica compatibilidade ABO, não ordena por gravidade.",
+   "Errada: células hematopoiéticas são o enxerto do transplante de medula, não um escore."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As principais causas que levam o paciente à admissão em lista para transplante hepático são descompensação hepática nas hepatopatias crônicas, agudas e o carcinoma hepatocellular (CHC). Assinale a alternativa que preencha correta e respectivamente as lacunas: “ Os pacientes com melhor chance de ______ e de retorno a uma boa ______ de vida após o transplante são aqueles transplantados antes do início da ______ de múltiplos órgãos, característica dos pacientes com cirrose terminal.” Assinale a alternativa que preencha correta e respectivamente as lacunas.",
+  "alts": [
+   "Transplante / esperança / doação",
+   "Esperança / recuperação / lista de espera",
+   "Recuperação / discrepancia / hemodiálise",
+   "Cirurgia / recuperação / rejeição",
+   "Sobrevida / qualidade / falência"
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.160/2006 (critério de gravidade na distribuição de fígado), consolidada na PRC 4/2017; Brunner & Suddarth, 14ª ed., 2020",
+  "coment": "Na cirrose terminal, a evolução leva à falência de múltiplos órgãos, com síndrome hepatorrenal, encefalopatia, infecção e instabilidade circulatória. O transplante feito antes dessa falência dá melhor sobrevida e melhor retorno à qualidade de vida, porque o receptor chega à cirurgia com reserva orgânica. Por isso a ordenação por gravidade, pelo MELD, precisa ser equilibrada com o momento do transplante. A enfermagem acompanha os sinais de descompensação, como ascite, sangramento, icterícia e confusão, que mudam a prioridade. As lacunas se completam com sobrevida, qualidade e falência.",
+  "porAlt": [
+   "Errada: 'chance de transplante' e 'boa esperança de vida' não dão sentido à frase, e doação não é característica da cirrose.",
+   "Errada: lista de espera não é característica da cirrose terminal.",
+   "Errada: 'discrepância de vida' não tem sentido e hemodiálise não é a característica descrita.",
+   "Errada: rejeição ocorre depois do transplante, não é característica do cirrótico terminal.",
+   "Correta: sobrevida, qualidade e falência completam a frase sobre o transplante antes da falência de múltiplos órgãos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação a modalidade de transplante de pâncreas, a indicação mais comum para a realização do procedimento está descrita nas alternativas abaixo. Assinale a alternativa correta.",
+  "alts": [
+   "Pancreatite",
+   "Neoplasia Pancreática",
+   "Diabetes Mellitus",
+   "Intolerância a pancreatina",
+   "Doenças digestivas"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "ADA, Standards of Care in Diabetes 2026 (transplante de pâncreas e de ilhotas); Brunner & Suddarth, 14ª ed., 2020",
+  "coment": "O transplante de pâncreas trata o diabetes mellitus, quase sempre o tipo 1, e restaura a secreção endógena de insulina. A modalidade mais comum é o pâncreas e rim simultâneo, no diabético tipo 1 com doença renal crônica avançada; há também pâncreas após rim e pâncreas isolado, para hipoglicemias graves e sem percepção. Exige imunossupressão permanente, por isso o benefício precisa superar o risco. Pancreatite e neoplasia não são indicações usuais, e a pancreatina é enzima de reposição, não doença.",
+  "porAlt": [
+   "Errada: a pancreatite não é a indicação habitual do transplante de pâncreas.",
+   "Errada: neoplasia pancreática não é indicação do transplante, pela imunossupressão necessária.",
+   "Correta: o diabetes mellitus, sobretudo o tipo 1 com doença renal, é a indicação mais comum.",
+   "Errada: pancreatina é enzima de reposição; não existe intolerância a ela como indicação de transplante.",
+   "Errada: doenças digestivas em geral não indicam transplante de pâncreas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As infecções são a causa mais importante de óbitos após o transplante, com incidência global. Entretanto, especialmente com a terapia imunossupressora, os sinais mais típicos de infecção podem não estar presentes. Assinale a alternativa incorreta para identificação dos sinais de infecções pós transplante:",
+  "alts": [
+   "Agranulocitose",
+   "Alopécia",
+   "Hipertermia",
+   "Taquicardia",
+   "Calafrios"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020 (complicações do transplante)",
+  "coment": "A imunossupressão atenua a febre e a inflamação, por isso a enfermagem vigia sinais sutis de infecção no transplantado: febre ou hipertermia, calafrios, taquicardia e alterações do leucograma, como leucopenia ou agranulocitose, que acompanham a sepse e a toxicidade de fármacos. Qualquer um desses sinais exige comunicação imediata e investigação. Alopecia não é sinal de infecção: aparece como efeito adverso de alguns fármacos, como antiproliferativos e quimioterápicos. Por isso B é a incorreta.",
+  "porAlt": [
+   "Errada: a agranulocitose acompanha infecção grave e toxicidade medicamentosa e entra na vigilância laboratorial.",
+   "Correta: é a incorreta, porque a alopecia é efeito adverso de fármacos, não sinal de infecção.",
+   "Errada: a hipertermia é sinal de infecção, mesmo que atenuada pela imunossupressão.",
+   "Errada: a taquicardia é resposta sistêmica à infecção e pode ser sinal precoce de sepse.",
+   "Errada: calafrios indicam bacteremia e devem ser comunicados de imediato."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O intestino delgado é um elemento comum entre as modalidades de transplante multivisceral e o transplante de intestino isolado. Analise as afirmativas e dê valores Verdadeiro (V) ou Falso (F).\n( ) Pacientes com doença funcional do intestino podem ter estado nutricional deficiente e má qualidade de vida.\n( ) Os órgãos que podem acompanhar o intestino são fígado, estômago, pâncreas, rim e pulmão.\n( ) As indicações, para transplante em adultos, mais observadas são doença de Crohn, isquemia mesentérica e resseções intestinais extensas por causas diversas.\n( ) O transplante de intestino tornou-se uma opção viável para pacientes com necessidade de Nutrição Parenteral Total (NPT).\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - F - V - V",
+   "F - F - V - V",
+   "V - V - V - F",
+   "F - V - F - F",
+   "V - V - V - V"
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020 (transplante de intestino e multivisceral)",
+  "coment": "O transplante de intestino se destina à falência intestinal irreversível, sobretudo quando a nutrição parenteral total prolongada falha ou causa complicações graves, como perda de acessos venosos, sepses de cateter e doença hepática. Esses pacientes têm estado nutricional deficiente e má qualidade de vida. Em adultos, as indicações mais vistas são síndrome do intestino curto por isquemia mesentérica, doença de Crohn e ressecções extensas. No multivisceral, podem acompanhar o intestino fígado, estômago, pâncreas, duodeno e rim, mas não pulmão; por isso a segunda afirmativa é falsa. Sequência V, F, V, V.",
+  "porAlt": [
+   "Correta: V, F, V, V; só é falsa a inclusão do pulmão entre os órgãos do bloco multivisceral.",
+   "Errada: a primeira é verdadeira, porque a doença intestinal funcional compromete nutrição e qualidade de vida.",
+   "Errada: a segunda é falsa, porque o pulmão não faz parte do multivisceral, e a quarta é verdadeira.",
+   "Errada: a primeira, a terceira e a quarta são verdadeiras.",
+   "Errada: a segunda é falsa, porque o pulmão não acompanha o enxerto intestinal."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "“As células-tronco ______ podem ser coletadas diretamente da ______ óssea, do sangue periférico, após estimulação com fatores de crescimento, ou do ______ umbilical, caracterizando o Transplante ______.” Assinale a alternativa que preencha correta e respectivamente as lacunas.",
+  "alts": [
+   "autólogas / crista ilíaca / orifício / autólogo",
+   "primitivas / punção / cordão / alogênico",
+   "alogênicas / medula / cateter / alogênico",
+   "hematopoiéticas / medula / cordão / autólogo",
+   "autólogas / região / medula / hematológico"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Lei 9.434/1997, art. 9º, § 6º; Decreto 9.175/2017, art. 28; Brunner & Suddarth, 14ª ed., 2020 (transplante de células-tronco hematopoiéticas)",
+  "coment": "As células-tronco hematopoiéticas, ditas primitivas por darem origem a todas as linhagens do sangue, vêm de três fontes: punção da medula óssea, em geral da crista ilíaca posterior; sangue periférico, após mobilização com fator de crescimento e coleta por aférese; e sangue do cordão umbilical, doado no parto e guardado em bancos públicos. As três servem ao transplante alogênico, de doador; no autólogo usam-se medula ou sangue periférico do próprio paciente, e não o cordão. A única sequência que fecha com cordão e alogênico é B, embora 'punção óssea' seja redação imprecisa da banca.",
+  "porAlt": [
+   "Errada: crista ilíaca e orifício não completam a frase, e o cordão umbilical não serve ao transplante autólogo.",
+   "Correta: primitivas, punção, cordão e alogênico completam a frase sobre as fontes de células do transplante de doador.",
+   "Errada: 'cateter umbilical' não é fonte de células-tronco; a fonte é o sangue do cordão.",
+   "Errada: as três primeiras lacunas cabem, mas o sangue do cordão de doador caracteriza transplante alogênico, não autólogo.",
+   "Errada: 'região óssea' e 'medula umbilical' não fazem sentido, e transplante hematológico não é classificação."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Diferente dos transplantes de órgãos sólidos, o Transplante de Medula Óssea (TMO) não é um procedimento cirúrgico. Analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) A medula óssea é coletada por fragmentos da crista ilíaca anterior dos doadores e infundida em uma veia central do paciente.\n( ) As células hematopoiéticas podem ser coletadas do sangue periférico do doador. Nesse caso, são necessárias estimulação e mobilização prévias das células da medula para o sangue periférico.\n( ) A coleta das células é feita em uma máquina de aférese, capaz de separar, do sangue do doador, as células progenitoras.\n( ) O método de coleta de células do sangue periférico é mais desconfortável para o doador, por evitar a anestesia geral.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - F - V - F",
+   "V - V - V - V",
+   "F - V - V - F",
+   "F - V - F - V",
+   "V - F - F - V"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Lei 9.434/1997, art. 9º, § 6º; Brunner & Suddarth, 14ª ed., 2020 (transplante de células-tronco hematopoiéticas)",
+  "coment": "No transplante de medula óssea, a medula é aspirada por múltiplas punções da crista ilíaca POSTERIOR, em centro cirúrgico e sob anestesia, e não retirada em fragmentos da crista anterior; depois é infundida pelo cateter venoso central do receptor, como uma transfusão. Na alternativa por sangue periférico, o doador recebe fator estimulador de colônias para mobilizar as células da medula para o sangue, e a coleta é feita em máquina de aférese, que separa as células progenitoras. Por evitar anestesia e punções ósseas, a aférese é MENOS desconfortável para o doador. Sequência F, V, V, F.",
+  "porAlt": [
+   "Errada: a primeira é falsa, porque a coleta é por aspiração da crista ilíaca posterior, e a segunda é verdadeira.",
+   "Errada: a primeira e a quarta são falsas.",
+   "Correta: F, V, V, F; erram a coleta em fragmentos da crista anterior e o desconforto atribuído à aférese.",
+   "Errada: a terceira é verdadeira, porque a aférese separa as células progenitoras, e a quarta é falsa.",
+   "Errada: a primeira é falsa, a segunda e a terceira são verdadeiras e a quarta é falsa."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As complicações do Transplante de Medula Óssea (TMO) estão relacionadas principalmente à toxicidade dos regimes de condicionamento e Doença do Enxerto contra o Hospedeiro (DECH). Assinale a alternativa incorreta.",
+  "alts": [
+   "Na fase de neutropenia severa inicial as complicações mais frequentes são infecções bacterianas, virais e fúngicas",
+   "A Doença do Enxerto Contra o Hospedeiro (DECH) aguda caracteriza-se principalmente por reações cardiológicas",
+   "Infertilidade e supressão da ovulação são frequentes, técnicas de preservação de esperma ou tecido ovariano pré-TMO devem ser estimuladas",
+   "O Transplante de Medula Óssea (TMO) é uma modalidade terapêutica para diferentes tipos de doenças hematológicas, oncológicas e imunológicas"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020 (transplante de células-tronco hematopoiéticas)",
+  "coment": "A doença do enxerto contra o hospedeiro aguda ocorre quando linfócitos T do doador atacam tecidos do receptor e atinge três órgãos-alvo: pele (exantema maculopapular, que começa em palmas e plantas), fígado (icterícia, colestase) e trato gastrointestinal (diarreia volumosa, dor abdominal). Não é caracterizada por reações cardiológicas. As demais são corretas: na neutropenia inicial predominam infecções bacterianas, virais e fúngicas; infertilidade é frequente, e preservar esperma ou tecido ovariano deve ser oferecido antes; e o transplante trata doenças hematológicas, oncológicas e imunológicas.",
+  "porAlt": [
+   "Errada: está correta; na neutropenia grave inicial predominam infecções bacterianas, virais e fúngicas.",
+   "Correta: é a incorreta, porque a DECH aguda acomete pele, fígado e intestino, e não o coração.",
+   "Errada: está correta; o condicionamento causa infertilidade, e a preservação de gametas deve ser estimulada antes.",
+   "Errada: está correta; o transplante trata doenças hematológicas, oncológicas e imunológicas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Existem inúmeros aspectos psicossociais importantes que escapam à descrição técnica da medicina e dos cuidados de enfermagem. A dimensão subjetiva que o processo de transplante causa também precisa ser trabalhada. Assinale a alternativa incorreta.",
+  "alts": [
+   "O pós-transplante caracteriza-se pela adaptação do organismo à nova condição de saúde e, como é comum ocorrer em toda situação nova, o paciente fica mobilizado por ansiedade, maior estresse, repercutindo no sistema imunológico de um organismo já fragilizado",
+   "A ansiedade e o estresse variam de acordo com o perfil psicológico de cada indivíduo. Para atender essas e outras demandas, é importante a inserção do psicólogo na equipe multidisciplinar para condução de diversas situações no adoecimento e transplante",
+   "As ações do serviço social no transplante se inicia desde o primeiro contato do paciente e familiares com a unidade de transplante e continuam durante todas as fases. Ele auxilia a compreender a importância que a realidade social do paciente tem para a evolução de seu tratamento",
+   "O enfermeiro coordenador de transplante exerce papel de integração entre todos os membros da equipe, sua atuação tem como foco principal assegurar a qualidade do cuidado às pessoas com profissionalismo, durante todas as fases do processo",
+   "O atendimento psicológico não pode auxiliar o paciente nessa fase de insegurança, reabilitação e reintegração ao meio familiar, laboral e social"
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Decreto 9.175/2017, art. 13 (composição das equipes especializadas); Brunner & Suddarth, 14ª ed., 2020 (aspectos psicossociais do transplante)",
+  "coment": "O transplante mobiliza ansiedade, medo da rejeição, culpa em relação ao doador e mudanças na vida familiar e no trabalho, o que pede cuidado multiprofissional. O psicólogo ajuda o paciente a enfrentar a insegurança da reabilitação e a reintegração ao meio familiar, laboral e social; o serviço social acompanha desde o primeiro contato; e o enfermeiro coordenador de transplante integra a equipe e garante a qualidade do cuidado em todas as fases. A alternativa E nega o papel do atendimento psicológico justamente na fase em que ele é mais útil, e por isso é a incorreta.",
+  "porAlt": [
+   "Errada: está correta; a adaptação pós-transplante gera ansiedade e estresse que repercutem no organismo.",
+   "Errada: está correta; a resposta varia com cada pessoa, e o psicólogo integra a equipe.",
+   "Errada: está correta; o serviço social atua desde o primeiro contato e em todas as fases.",
+   "Errada: está correta; o enfermeiro coordenador integra a equipe e zela pela qualidade do cuidado.",
+   "Correta: é a incorreta, porque o atendimento psicológico ajuda justamente na insegurança, reabilitação e reintegração."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Transplantes",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A síndrome colinérgica resulta da super estimulação da porção parassimpática do sistema nervoso autônomo. Os pacientes apresentam geralmente os seguintes sinais e sintomas, exceto:",
+  "alts": [
+   "diaforese",
+   "dilatação pupilar",
+   "salivação excessiva",
+   "vômitos",
+   "diarreia"
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Intoxicações e acidentes",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Manual de Toxicologia Clínica: orientações para assistência e vigilância das intoxicações agudas (SMS São Paulo, 2017)",
+  "coment": "A síndrome colinérgica resulta do excesso de acetilcolina, típico da intoxicação por organofosforados e carbamatos. Os efeitos muscarínicos se lembram pelo aumento de secreções e de motilidade: miose, sudorese (diaforese), sialorreia, lacrimejamento, broncorreia e broncoespasmo, bradicardia, vômitos, diarreia e incontinência urinária; os nicotínicos incluem fasciculações e fraqueza. A pupila fica contraída (miose), não dilatada. Midríase é achado das síndromes anticolinérgica e simpaticomimética. O antídoto da colinérgica é a atropina, titulada até secar as secreções brônquicas.",
+  "porAlt": [
+   "Errada: a diaforese é efeito muscarínico típico da síndrome colinérgica.",
+   "Correta: é a exceção, porque na síndrome colinérgica há miose, e não dilatação pupilar.",
+   "Errada: a sialorreia é sinal clássico do excesso de acetilcolina.",
+   "Errada: vômitos fazem parte do aumento da motilidade gastrointestinal na síndrome colinérgica.",
+   "Errada: diarreia é efeito muscarínico esperado na síndrome colinérgica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Vladimir, 51 anos, com história prévia de insuficiência cardíaca, deu entrada no Pronto Socorro com quadro de síncope, tontura, palpitações, dispneia e confusão mental, foi realizado um ECG (eletrocardiograma) com alterações na condução do estímulo elétrico para o ventrículo. Sobre a alteração encontrada no ECG, assinale a alternativa correta.",
+  "alts": [
+   "fibrilação atrial",
+   "arritmia sinusal",
+   "bloqueio de ramo",
+   "extrassístoles",
+   "alteração na repolarização ventricular"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hinkle JL, Cheever KH. Brunner & Suddarth: Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020 (arritmias e distúrbios de condução)",
+  "coment": "Distúrbio de condução é atraso ou bloqueio do impulso no sistema de condução. Entre as opções, o único distúrbio de condução para o ventrículo é o bloqueio de ramo, em que o estímulo não desce por um dos ramos do feixe de His e ativa o ventrículo pelo outro, com QRS alargado (120 ms ou mais). É comum na insuficiência cardíaca. Síncope, tontura e confusão num cardiopata com distúrbio de condução sugerem bloqueio avançado, que pode exigir marca-passo. Fibrilação atrial e extrassístoles são distúrbios de formação do impulso, arritmia sinusal é variação fisiológica e alteração da repolarização é outra fase do ciclo.",
+  "porAlt": [
+   "Errada: a fibrilação atrial é distúrbio de formação do impulso nos átrios, não de condução ao ventrículo.",
+   "Errada: a arritmia sinusal é variação fisiológica da frequência com a respiração.",
+   "Correta: o bloqueio de ramo é distúrbio de condução do estímulo no ventrículo, com QRS alargado.",
+   "Errada: extrassístoles são batimentos precoces, distúrbio de formação do impulso.",
+   "Errada: a repolarização é a recuperação elétrica após a ativação, não a condução do estímulo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta a síndrome metabólica que é caracterizada por redução da concentração efetiva de insulina e liberação excessiva de hormônios contra-reguladores, tendo como critérios diagnósticos a presença de hiperglicemia (≥ 250 mg/dL), acidose metabólica (ph ≤ 7,3), bicarbonato ≤ 15 mEq/L.",
+  "alts": [
+   "estado hiperglicêmico hiperosmolar",
+   "estado hiperglicêmico hiposmolar",
+   "hiperglicemia",
+   "hipoglicemia",
+   "cetoacidose diabética"
+  ],
+  "gab": 4,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Consenso ADA/EASD/JBDS/AACE/DTS sobre crises hiperglicêmicas em adultos, 2024",
+  "coment": "Deficiência de insulina com excesso de hormônios contrarreguladores (glucagon, cortisol, catecolaminas) leva à lipólise e à cetogênese: é a cetoacidose diabética. Os números do enunciado são os critérios clássicos (glicemia de pelo menos 250 mg/dL, pH até 7,3 e bicarbonato até 15 mEq/L). O consenso internacional de 2024 os atualizou: glicemia de 200 mg/dL ou mais, ou diabetes conhecido; beta-hidroxibutirato de 3,0 mmol/L ou mais; e pH abaixo de 7,3 e/ou bicarbonato abaixo de 18 mmol/L. O estado hiperglicêmico hiperosmolar tem glicemia muito alta e osmolaridade elevada, com pouca ou nenhuma cetose e sem acidose importante.",
+  "porAlt": [
+   "Errada: o estado hiperglicêmico hiperosmolar cursa com hiperosmolaridade e pouca ou nenhuma acidose.",
+   "Errada: não existe estado hiperglicêmico hiposmolar como crise diabética; a hiperglicemia eleva a osmolaridade.",
+   "Errada: hiperglicemia é só um dos componentes; a acidose com cetose define a cetoacidose.",
+   "Errada: hipoglicemia é o oposto, com glicose baixa.",
+   "Correta: deficiência de insulina, hiperglicemia, acidose e bicarbonato baixo definem a cetoacidose diabética."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acidentes com múltiplas vítimas são os que apresentam desequilíbrio entre os recursos disponíveis e as necessidades, e que, apesar disso, podem ser atendidos com eficiência desde que se adote a doutrina operacional protocolada. Sobre esse assunto, é incorreto afirmar que:",
+  "alts": [
+   "o melhor atendimento para a vítima mais grave deve dar lugar ao conceito de o melhor atendimento para o maior número possível de vítimas, no momento que elas mais precisam e no menor tempo possível",
+   "congelar a área mediante o controle total do local do acidente é o primeiro objetivo do comandante da área",
+   "triagem significa atendê-las, classificando-as em graus de prioridades para que resulte no salvamento do maior número de vítimas, empregando o critério do melhor atendimento para o maior número de vítimas",
+   "não cabe à primeira guarnição que chega no local do acidente, congelar a área e iniciar a triagem preliminar",
+   "os socorristas deverão realizar a triagem observando a respiração, perfusão e nível de consciência"
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Atendimento pré-hospitalar",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Protocolos de Intervenção para o SAMU 192 (MS, 2016), triagem de múltiplas vítimas pelo método START",
+  "coment": "No acidente com múltiplas vítimas, a lógica muda para o melhor atendimento ao maior número de vítimas no menor tempo. A primeira equipe que chega avalia a cena, pede reforço, assume o comando, 'congela' a área, controlando o local e o acesso, e inicia a triagem preliminar; esperar outra guarnição atrasa todo o atendimento. A triagem pelo START classifica pela marcha, respiração, perfusão (enchimento capilar ou pulso radial) e nível de consciência, em vermelho, amarelo, verde e preto. Por isso D é a incorreta.",
+  "porAlt": [
+   "Errada: está correta; no múltiplas vítimas vale o melhor atendimento para o maior número, não para a vítima mais grave isolada.",
+   "Errada: está correta; controlar o local, congelando a área, é o primeiro objetivo de quem comanda.",
+   "Errada: está correta; a triagem classifica por prioridade para salvar o maior número de vítimas.",
+   "Correta: é a incorreta, porque cabe justamente à primeira guarnição congelar a área e iniciar a triagem preliminar.",
+   "Errada: está correta; o START avalia respiração, perfusão e nível de consciência."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O TCE (Traumatismo Cranioencefálico) moderado a grave é caracterizado por qualquer um dos seguintes. Analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Imagem cerebral anormal.\n( ) Perda de consciência > 30 minutos.\n( ) Alteração do estado mental > 24 horas.\n( ) Amnésia pós-traumática > 1 dia.\n( ) Melhor ECG (Escala de Coma de Glasgow) < 13 nas primeiras 24 horas.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V - V",
+   "V - V - F - V - V",
+   "V - F - V - F - V",
+   "F - F - V - V - V",
+   "V - V - V - V - F"
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "VA/DoD Clinical Practice Guideline for the Management and Rehabilitation of Post-Acute Mild Traumatic Brain Injury, 2021 (classificação de gravidade do TCE)",
+  "coment": "A classificação do Departamento de Defesa e dos Veteranos dos Estados Unidos (VA/DoD), usada em manuais de referência, define o TCE leve por imagem normal, perda de consciência de até 30 minutos, alteração do estado mental de até 24 horas, amnésia pós-traumática de até 1 dia e melhor Glasgow de 13 a 15. Qualquer critério além desses caracteriza TCE moderado a grave: imagem anormal, perda de consciência acima de 30 minutos, alteração do estado mental acima de 24 horas, amnésia acima de 1 dia ou Glasgow abaixo de 13 nas primeiras 24 horas. Por isso as cinco são verdadeiras.",
+  "porAlt": [
+   "Correta: as cinco afirmativas são critérios de TCE moderado a grave pela classificação VA/DoD.",
+   "Errada: a alteração do estado mental por mais de 24 horas também é critério de TCE moderado a grave.",
+   "Errada: perda de consciência acima de 30 minutos e amnésia acima de 1 dia também são critérios.",
+   "Errada: imagem anormal e perda de consciência acima de 30 minutos também caracterizam o TCE moderado a grave.",
+   "Errada: Glasgow abaixo de 13 nas primeiras 24 horas também define TCE moderado a grave."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Urgência e Emergência",
+   "n": 47,
+   "parte": "especificas"
+  }
+ }
+]

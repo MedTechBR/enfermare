@@ -1,0 +1,1346 @@
+[
+ {
+  "q": "Analise as afirmativas abaixo sobre as políticas públicas especificas ao atendimento dos direitos da criança de zero a 6 anos e como serão elaboradas e executadas e dê valores Verdadeiro (V) ou Falso (F).\n( ) Promover a formação da cultura de proteção e promoção da criança, com apoio dos meios de comunicação social.\n( ) Centralizar as ações entre os entes da Federação.\n( ) Articular as ações setoriais com vistas ao atendimento integral e integrado.\n( ) Atender ao interesse superior da criança e à sua condição de sujeito de direitos e de cidadã.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo",
+  "alts": [
+   "V - V - V - V",
+   "V - F - V - V",
+   "F - F - V - V",
+   "V - F - V - F",
+   "V - F - F - V"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 13.257/2016 (Marco Legal da Primeira Infância), art. 4º",
+  "coment": "O art. 4º do Marco Legal da Primeira Infância (Lei 13.257/2016) lista como as políticas para a criança de zero a 6 anos serão elaboradas e executadas. Estão lá: atender ao interesse superior da criança e à sua condição de sujeito de direitos e de cidadã (inciso I), articular as ações setoriais com vistas ao atendimento integral e integrado (VII) e promover a cultura de proteção e promoção da criança, com apoio dos meios de comunicação social (IX). O inciso VIII manda DESCENTRALIZAR as ações entre os entes da Federação, e não centralizar. Sequência V, F, V, V.",
+  "porAlt": [
+   "Errada: o segundo item é falso, porque a lei manda descentralizar as ações entre os entes federados (art. 4º, VIII).",
+   "Correta: só o item sobre centralizar é falso; os outros três reproduzem os incisos IX, VII e I do art. 4º da Lei 13.257/2016.",
+   "Errada: promover a cultura de proteção com apoio dos meios de comunicação está no inciso IX, logo o primeiro item é verdadeiro.",
+   "Errada: atender ao interesse superior da criança como sujeito de direitos é o inciso I do art. 4º, portanto o último item é verdadeiro.",
+   "Errada: articular as ações setoriais para atendimento integral e integrado é o inciso VII, então o terceiro item é verdadeiro."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre as características dos agentes etiológicos das doenças, assinale a alternativa incorreta.",
+  "alts": [
+   "Dose infectante",
+   "Tempo de exposição",
+   "Local de entrada",
+   "Condiçoes climáticas",
+   "Multiplicação"
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Rouquayrol e Gurgel, Epidemiologia & Saúde, 8ª ed., 2018 (cadeia epidemiológica)",
+  "coment": "Na cadeia epidemiológica, a ocorrência da infecção depende de fatores ligados ao agente e ao contato com ele: a dose infectante (quantidade de agentes), o tempo de exposição, o local de entrada (porta de entrada) e a capacidade de multiplicação no hospedeiro, ao lado de infectividade, patogenicidade e virulência. Condições climáticas pertencem ao ambiente, o terceiro elemento da tríade agente, hospedeiro e ambiente; influem na sobrevivência e na transmissão do agente, mas não são característica dele. Por isso é a alternativa incorreta.",
+  "porAlt": [
+   "Errada: a dose infectante é a quantidade de agente necessária para causar infecção, característica clássica do agente.",
+   "Errada: o tempo de exposição ao agente entra entre os fatores que determinam se a infecção se instala.",
+   "Errada: o local de entrada (porta de entrada) condiciona a infecção e é citado entre as características do agente.",
+   "Correta: condições climáticas são fator do ambiente na tríade epidemiológica, não característica do agente etiológico.",
+   "Errada: a capacidade de multiplicação no hospedeiro é propriedade do próprio agente infeccioso."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia a sentença abaixo: De acordo com os dados mais recentes divulgados no Cenário da Infância e Adolescência no Brasil em 2023, o Brasil registrou, em 2021, ______ óbitos entre menores de 1 ano de idade para cada 100 mil nascidos vivos.\nAssinale a alternativa que preencha a lacuna corretamente.",
+  "alts": [
+   "11",
+   "11,9",
+   "12,4",
+   "13,1",
+   "15"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Fundação Abrinq, Cenário da Infância e Adolescência no Brasil 2023",
+  "coment": "O Cenário da Infância e Adolescência no Brasil 2023, da Fundação Abrinq, trouxe para 2021 a taxa de mortalidade infantil de 11,9. Atenção ao erro da banca: a taxa de mortalidade infantil é calculada por MIL nascidos vivos (óbitos de menores de 1 ano dividido pelos nascidos vivos, vezes 1.000), e não por 100 mil, base usada na razão de mortalidade materna. A questão cobra um número de relatório, que muda a cada edição; o que vale reter é o cálculo e a ordem de grandeza, perto de 12 por mil no Brasil.",
+  "porAlt": [
+   "Errada: 11 arredonda o valor publicado, que foi 11,9 em 2021.",
+   "Correta: o relatório da Abrinq de 2023 registrou 11,9 óbitos de menores de 1 ano em 2021, taxa que se expressa por mil nascidos vivos.",
+   "Errada: 12,4 não corresponde ao valor de 2021 divulgado no Cenário 2023.",
+   "Errada: 13,1 é mais alto que a taxa publicada para 2021.",
+   "Errada: 15 está bem acima da taxa de mortalidade infantil registrada no Brasil em 2021."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a palpação no exame físico do tórax analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F) do roteiro do exame físico desta região.\n( ) Expansibilidade\n( ) Som claro pulmonar\n( ) Pontos dolorosos\n( ) Forma\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "V - V - V - F",
+   "V - F - V - F",
+   "F - F - V - F",
+   "V - F - F - V"
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto, Semiologia Médica, 8ª ed., 2019 (exame do tórax)",
+  "coment": "O exame do tórax segue inspeção, palpação, percussão e ausculta, e cada achado pertence a uma etapa. Na palpação avaliam-se a expansibilidade, o frêmito toracovocal, a sensibilidade e os pontos dolorosos. O som claro pulmonar é achado da percussão, e a forma do tórax (em barril, cifoescoliótico, pectus) é avaliada na inspeção estática. Por isso a sequência é V, F, V, F. Saber em que etapa cada achado aparece evita a pegadinha.",
+  "porAlt": [
+   "Errada: som claro pulmonar e forma do tórax não são achados de palpação; vêm da percussão e da inspeção.",
+   "Errada: a forma do tórax é avaliada na inspeção, e o som claro pulmonar na percussão.",
+   "Correta: na palpação entram expansibilidade e pontos dolorosos; som claro pulmonar é da percussão e forma, da inspeção.",
+   "Errada: a expansibilidade é avaliada pela palpação, com as mãos sobre as bases do tórax, logo o primeiro item é verdadeiro.",
+   "Errada: pontos dolorosos se pesquisam na palpação e a forma do tórax não; os itens três e quatro estão invertidos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia a sentença abaixo:\nO exame físico do recém-nascido inicia-se pela avaliação da ______ (contar em um minuto) e ______, seguida da ausculta desses aparelhos. Esta etapa do exame deve ser realizada, de preferência, com o RN ainda vestido.\nAssinale a alternativa que preencha correta e respectivamente as lacunas.",
+  "alts": [
+   "frequência cardíaca, frequência respiratória",
+   "frequência cardíaca, temperatura corporal",
+   "frequência cardíaca, pulso apical",
+   "frequência respiratória, frequência cardíaca",
+   "frequência respiratória, reatividade"
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, vol. 1 (MS, 2ª ed., 2014)",
+  "coment": "O guia do Ministério da Saúde orienta começar o exame físico do RN pelo que se altera com o choro e a manipulação: a frequência respiratória, contada em um minuto inteiro, e a frequência cardíaca, seguidas da ausculta pulmonar e cardíaca. Por isso se faz com o RN ainda vestido e tranquilo. A FR normal do RN fica entre 40 e 60 por minuto; acima de 60 é taquipneia. Temperatura, reatividade e o restante do exame vêm depois, quando a manipulação já não distorce os dados.",
+  "porAlt": [
+   "Errada: a ordem do guia é frequência respiratória primeiro e depois cardíaca, não o inverso.",
+   "Errada: a temperatura não é o que se conta em um minuto no início do exame; o par inicial é FR e FC.",
+   "Errada: pulso apical é a própria forma de medir a frequência cardíaca no RN, não um segundo parâmetro.",
+   "Correta: o exame começa pela FR contada em um minuto e pela FC, com o RN vestido, antes de manipulações que o façam chorar.",
+   "Errada: reatividade é avaliada depois; o início do exame é a contagem de FR e FC seguida da ausculta."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre os sintomas da depressão materna, assinale a alternativa incorreta.",
+  "alts": [
+   "Dificuldades de interpretação dos desejos do RN",
+   "Desorientação",
+   "Problemas de memória",
+   "Angústia",
+   "Hipersonia"
+  ],
+  "gab": 4,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Atenção à Saúde do Recém-Nascido, vol. 1 (MS, 2ª ed., 2014); DSM-5-TR (APA, 2022)",
+  "coment": "A depressão materna prejudica o vínculo: a mãe tem dificuldade de interpretar os sinais e desejos do RN, desorientação, problemas de memória e concentração, angústia, tristeza e alteração do sono, classicamente insônia, que persiste mesmo quando o bebê dorme. A banca considerou a hipersonia o item incorreto, seguindo a lista de sintomas do material de puerpério. Ressalva: o DSM-5-TR aceita insônia ou hipersonia como critério de episódio depressivo, de modo que a hipersonia pode aparecer; no puerpério, porém, o achado típico é a insônia.",
+  "porAlt": [
+   "Errada: a dificuldade de interpretar os desejos do RN é um dos efeitos da depressão materna sobre o vínculo.",
+   "Errada: a desorientação aparece entre os sintomas listados para a depressão materna.",
+   "Errada: problemas de memória e concentração fazem parte do quadro depressivo.",
+   "Errada: angústia é sintoma afetivo frequente da depressão materna.",
+   "Correta: no puerpério o distúrbio de sono típico é a insônia; a banca tomou a hipersonia como o item que não pertence à lista."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O termo recém-nascido (RN) de risco se refere àquele exposto a situações em que há maior risco de evolução desfavorável. Analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F) dos critérios para identificação do RN de risco.\n( ) História de morte de criança menor de 5 anos na família.\n( ) Mãe com baixa instrução.\n( ) Baixo nível socioeconômico.\n( ) RN com baixo peso ao nascer (<2.500g).\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "V - V - V - F",
+   "V - V - F - V",
+   "V - F - V - F",
+   "V - F - F - V"
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 33, Saúde da criança: crescimento e desenvolvimento (MS, 2012)",
+  "coment": "O Ministério da Saúde identifica o RN de risco para garantir acompanhamento mais próximo. Os critérios incluem RN de baixo peso (menos de 2.500 g), prematuro, com asfixia grave, internado ou com intercorrência, filho de mãe adolescente, filho de mãe com baixa instrução (menos de 8 anos de estudo), residente em área de risco e com história de morte de criança menor de 5 anos na família. O baixo nível socioeconômico entra como vulnerabilidade social, o que o Ministério resume como residir em área de risco. Os quatro itens são verdadeiros.",
+  "porAlt": [
+   "Correta: morte de criança menor de 5 anos na família, mãe com baixa instrução, baixo nível socioeconômico e peso abaixo de 2.500 g são todos critérios de RN de risco.",
+   "Errada: o baixo peso ao nascer, abaixo de 2.500 g, é o critério mais clássico de RN de risco.",
+   "Errada: a vulnerabilidade socioeconômica, expressa como residir em área de risco, também identifica o RN de risco.",
+   "Errada: a baixa instrução materna e o baixo peso são critérios reconhecidos, não falsos.",
+   "Errada: a baixa instrução materna, com menos de 8 anos de estudo, consta entre os critérios do Ministério."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São muitos os indicadores relativos ao que ocorre na assistência à saúde. A respeito dos indicadores de insumo, assinale a alternativa incorreta.",
+  "alts": [
+   "Número de médicos",
+   "Proporção de gestantes que fazem pré-natal",
+   "Leitos de UTI neonatal por mil nascimentos",
+   "Gastos com saúde no Brasil",
+   "Leitos gerais"
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "RIPSA, Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "Indicadores de insumo, ou de recursos na matriz da RIPSA, medem o que o sistema tem para oferecer: profissionais (número de médicos por habitante), leitos gerais, leitos de UTI neonatal por mil nascimentos e gasto com saúde. A proporção de gestantes que fazem pré-natal mede o uso do serviço pela população, ou seja, é indicador de cobertura, de processo na lógica de Donabedian (estrutura, processo e resultado). Por isso é a alternativa incorreta entre os de insumo.",
+  "porAlt": [
+   "Errada: número de médicos por habitante é indicador de recursos humanos, isto é, de insumo.",
+   "Correta: proporção de gestantes com pré-natal mede cobertura e processo do cuidado, não insumo.",
+   "Errada: leitos de UTI neonatal por mil nascimentos medem recurso físico disponível, típico indicador de insumo.",
+   "Errada: gasto com saúde é indicador de recursos financeiros, também de insumo.",
+   "Errada: leitos gerais por habitante são recurso de estrutura, portanto insumo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acredita-se que a produção de ácido gástrico no prematuro, principalmente menor de 32 semanas, seja menor que a do RN a termo o que explicaria a diferença na absorção de drogas fracamente básicas se mantendo não-ionizadas se administradas por via oral. Sobre essa afirmativa, assinale a alternativa correta.",
+  "alts": [
+   "Apresentam absorção dificultada",
+   "Apresentam absorção facilitada",
+   "Apresentam absorção lentificada",
+   "Não apresentam absorção",
+   "Interfere diretamente na absorção"
+  ],
+  "gab": 1,
+  "tema": "farmaco",
+  "sub": "Vias de administração",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde (MS, 2ª ed., 2014), farmacologia neonatal",
+  "coment": "Fármaco atravessa a mucosa na forma não ionizada. O prematuro, sobretudo abaixo de 32 semanas, produz menos ácido gástrico, e o pH do estômago fica mais alto. Uma base fraca, em meio menos ácido, permanece mais na forma não ionizada e lipossolúvel, por isso sua absorção oral fica facilitada. O raciocínio se inverte para ácidos fracos, como a fenitoína e o fenobarbital, que se ionizam mais em pH alto e têm absorção reduzida. A enfermagem precisa disso para entender por que a dose oral no prematuro não se transpõe do adulto.",
+  "porAlt": [
+   "Errada: absorção dificultada ocorreria com ácidos fracos em pH alto, não com bases fracas.",
+   "Correta: com pH gástrico mais alto, a base fraca fica não ionizada e lipossolúvel, e a absorção oral é facilitada.",
+   "Errada: a velocidade de esvaziamento gástrico pode variar, mas o efeito do pH descrito é facilitar a absorção da base fraca.",
+   "Errada: a droga não ionizada é justamente a que atravessa a mucosa; não há ausência de absorção.",
+   "Errada: a alternativa não diz em que sentido o pH interfere, e o enunciado pede o efeito, que é facilitar a absorção."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa correta do principal efeito adverso causado pelo uso de surfactante principalmente em RN de muito baixo peso com persistência de canal arterial.",
+  "alts": [
+   "Hemorragia pulmonar",
+   "Irritabilidade do sistema nervoso central",
+   "Taquicardia",
+   "Calcificações renais",
+   "Aumenta a tensão superficial dos alvéolos pulmonares"
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, vol. 3 (MS, 2ª ed., 2014), surfactante exógeno",
+  "coment": "O surfactante exógeno reduz a tensão superficial alveolar e melhora a complacência rapidamente. Com a queda brusca da resistência vascular pulmonar, o canal arterial pérvio passa a desviar mais sangue da aorta para o pulmão, e o fluxo pulmonar aumentado pode romper capilares: a hemorragia pulmonar é a complicação grave mais citada, sobretudo no RN de muito baixo peso com PCA. Na administração, a enfermagem monitora SpO2, FC e a via aérea, ajusta a FiO2 depois da dose e observa secreção sanguinolenta pela cânula.",
+  "porAlt": [
+   "Correta: no RN de muito baixo peso com canal arterial pérvio, o aumento abrupto do fluxo pulmonar após o surfactante favorece hemorragia pulmonar.",
+   "Errada: irritabilidade do sistema nervoso central não é efeito adverso característico do surfactante.",
+   "Errada: as reações agudas descritas na instilação são bradicardia e queda de saturação, não taquicardia.",
+   "Errada: calcificações renais (nefrocalcinose) se associam a diuréticos de alça, como a furosemida, não ao surfactante.",
+   "Errada: o surfactante REDUZ a tensão superficial alveolar; aumentá-la é o oposto do seu efeito."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O uso de sabonetes adequados permite manter as características da barreira cutânea. Eles não devem alterar o pH normal da pele. Um bom produto de limpeza para os RN deve ter pH aproximado de quanto:",
+  "alts": [
+   "11",
+   "7.5",
+   "6.0",
+   "7.0",
+   "5,5"
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, vol. 3 (MS, 2ª ed., 2014), cuidados com a pele",
+  "coment": "A pele do RN tem pH ácido, perto de 5,5 depois dos primeiros dias, e esse manto ácido protege contra a colonização por patógenos e mantém a função de barreira. Sabonete alcalino eleva o pH, remove lipídios e aumenta a perda de água e a irritação. Por isso o produto de limpeza indicado é suave, sem perfume e de pH neutro a levemente ácido, próximo de 5,5, usado em pouca quantidade. No prematuro extremo, nas primeiras semanas, o banho é só com água morna.",
+  "porAlt": [
+   "Errada: pH 11 é alcalino, típico de sabão comum, e agride a barreira cutânea do RN.",
+   "Errada: 7,5 é levemente alcalino e eleva o pH da pele, que deve ficar ácido.",
+   "Errada: 6,0 se aproxima, mas a referência citada para o produto de limpeza do RN é pH em torno de 5,5.",
+   "Errada: pH 7,0 é neutro e ainda acima do pH fisiológico da pele, que é ácido.",
+   "Correta: o produto de limpeza deve ter pH próximo de 5,5, compatível com o manto ácido da pele do RN."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O cordão umbilical pode ser uma porta de entrada para bactérias patogênicas invasivas, A colonização bacteriana do cordão pode levar seguintes complicações, exceto:",
+  "alts": [
+   "onfalite",
+   "tromboflebite",
+   "queda do coto",
+   "celulite",
+   "tétano"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, vol. 1 (MS, 2ª ed., 2014), cuidados com o coto umbilical",
+  "coment": "O coto umbilical é tecido em necrose que serve de porta de entrada para bactérias. A colonização pode evoluir para onfalite, celulite da parede abdominal, tromboflebite dos vasos umbilicais, fasceíte, sepse e, quando há contaminação por esporos, tétano neonatal. A queda do coto, por volta do 7º ao 15º dia, é o desfecho normal da mumificação, e não complicação. O cuidado é manter o coto limpo e seco, com álcool 70% onde o protocolo indicar, e ensinar à família os sinais de alerta: hiperemia periumbilical, secreção fétida e febre.",
+  "porAlt": [
+   "Errada: onfalite é a infecção do coto e da pele ao redor, complicação típica da colonização.",
+   "Errada: a infecção pode se estender aos vasos umbilicais e causar tromboflebite.",
+   "Correta: a queda do coto é evolução fisiológica da mumificação, não complicação da colonização bacteriana.",
+   "Errada: celulite da parede abdominal é extensão da onfalite.",
+   "Errada: o tétano neonatal decorre da contaminação do coto por esporos de Clostridium tetani."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A fototerapia, usando luz de comprimentos de onda e doses específicas, é considerada uma intervenção segura e eficaz para reduzir a hiperbilirrubinemia. Assinale a alternativa correta de onda ideal para a fotoisomerização da molécula de bilirrubina.",
+  "alts": [
+   "faixa de luz azul",
+   "infravermelho",
+   "ultravioleta",
+   "luz visível branca",
+   "raio gama"
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, vol. 2 (MS, 2ª ed., 2014), icterícia e fototerapia",
+  "coment": "A bilirrubina absorve luz com mais eficiência na faixa azul do espectro, entre cerca de 460 e 490 nm. Nessa faixa a molécula sofre fotoisomerização e isomerização estrutural (lumirrubina), tornando-se hidrossolúvel e eliminável pela bile e pela urina sem conjugação hepática. Por isso os aparelhos usam LED azul ou lâmpadas especiais. Na enfermagem: proteção ocular, exposição da maior superfície corporal, distância e irradiância conforme o fabricante, controle de temperatura e hidratação, e amamentação mantida.",
+  "porAlt": [
+   "Correta: a luz azul, por volta de 460 a 490 nm, é a mais absorvida pela bilirrubina e promove a fotoisomerização.",
+   "Errada: infravermelho produz calor, não fotoisomerização, e aumenta o risco de hipertermia.",
+   "Errada: ultravioleta lesa pele e retina e não é usado na fototerapia neonatal.",
+   "Errada: luz branca contém a faixa azul, mas é menos eficaz; o comprimento de onda ideal é o azul.",
+   "Errada: raios gama são radiação ionizante, sem nenhum papel na fototerapia."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre aleitamento materno, analise as afirmativas abaixo.\nI. Todo recém-nascido está pronto para sugar imediatamente após o parto.\nII. A sucção da criança faz a mãe produzir e liberar a ocitocina.\nIII. É muito bom que a primeira mamada se dê na primeira hora de vida do bebê.\nIV. É recomendado que bebê fique em contato pele a pele com sua mãe por, pelo menos, uma hora, primeira hora de vida é chamada “hora de ouro”, pois a mãe e o bebê costumam ficar acordados, alertas, sendo uma excelente oportunidade para interagirem.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I e II apenas",
+   "II e III apenas",
+   "II, III e IV apenas",
+   "I, II e IV apenas",
+   "I, II, III e IV"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Aleitamento e alimentação",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 23, Saúde da criança: aleitamento materno e alimentação complementar (MS, 2ª ed., 2015)",
+  "coment": "A sucção estimula a liberação de prolactina, que produz o leite, e de ocitocina, que o ejeta (II correta). A primeira mamada na primeira hora de vida e o contato pele a pele por pelo menos uma hora, a chamada hora de ouro, com mãe e bebê alertas, aumentam o sucesso e a duração da amamentação (III e IV corretas). O item I é falso porque generaliza: a maioria dos RN está pronta para mamar logo após o parto, mas nem todos, e alguns precisam de mais tempo para buscar a mama, o que não deve ser tratado como falha.",
+  "porAlt": [
+   "Errada: o item I generaliza indevidamente, e a alternativa deixa de fora os itens III e IV, que estão corretos.",
+   "Errada: omite o item IV, que descreve corretamente o contato pele a pele na hora de ouro.",
+   "Correta: II, III e IV estão certos; o item I é falso porque nem todo RN está pronto para sugar imediatamente após o parto.",
+   "Errada: inclui o item I, que é falso, e exclui o III, que está correto.",
+   "Errada: o item I não é verdadeiro, pois alguns RN demoram mais para iniciar a sucção."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre os fatores que destacam beneficamente no método mãe-canguru, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Estimula o aleitamento materno.\n( ) Reduz o estresse e a dor.\n( ) Possibilita menor competência e confiança dos pais no cuidado com seu filho.\n( ) Favorece um baixo desenvolvimento neurocomportamental e psicoafetivo do recém-nascido de baixo peso.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "V - V - V - F",
+   "V - V - F - F",
+   "V - V - F - V",
+   "V - F - V - F"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Atenção humanizada ao recém-nascido: Método Canguru, manual técnico (MS, 3ª ed., 2017); Portaria GM/MS 1.683/2007",
+  "coment": "O Método Canguru, normatizado pela Portaria 1.683/2007, traz benefícios comprovados: estimula o aleitamento materno, reduz estresse e dor, favorece o controle térmico, fortalece o vínculo e AUMENTA a competência e a confiança dos pais no cuidado com o filho. Também favorece um MELHOR desenvolvimento neurocomportamental e psicoafetivo do RN de baixo peso. Os dois últimos itens inverteram os benefícios e por isso são falsos: sequência V, V, F, F.",
+  "porAlt": [
+   "Errada: os itens três e quatro estão invertidos, porque o método aumenta a competência dos pais e melhora o desenvolvimento.",
+   "Errada: o método melhora o desenvolvimento neurocomportamental, logo o quarto item é falso.",
+   "Correta: estimula o aleitamento e reduz estresse e dor (V, V); menor competência dos pais e baixo desenvolvimento são o oposto do que ocorre (F, F).",
+   "Errada: favorecer baixo desenvolvimento neurocomportamental é falso; o método favorece o desenvolvimento.",
+   "Errada: reduzir estresse e dor é benefício real do método, e menor competência dos pais é falso."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Devido à maior fragilidade cutânea dos neonatos, devemos estar atentos à possibilidade de absorção percutânea dos produtos de uso tópico e sua relação com riscos de toxicidade, em produtos como talcos e cremes barreiras pode conter Ácido Bórico. Dos sintomas que a toxidade ao Ácido Bórico pode provocar, assinale a alternativa incorreta.",
+  "alts": [
+   "vômitos",
+   "diarreia",
+   "convulsões",
+   "eritrodermia",
+   "supressão adrenal"
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, vol. 3 (MS, 2ª ed., 2014), cuidados com a pele",
+  "coment": "A pele do neonato, sobretudo do prematuro, absorve muito mais o que se aplica sobre ela, pela fina camada córnea e pela grande superfície em relação ao peso. O ácido bórico, presente em talcos e cremes, causa intoxicação com vômitos, diarreia, eritrodermia descamativa, convulsões e pode levar à morte. A supressão adrenal é efeito dos corticoides tópicos absorvidos, não do ácido bórico. A lição de enfermagem é não usar talco nem produto com ácido bórico no RN e restringir tópicos ao indicado.",
+  "porAlt": [
+   "Errada: vômitos fazem parte da intoxicação por ácido bórico.",
+   "Errada: a diarreia é manifestação gastrintestinal da toxicidade do ácido bórico.",
+   "Errada: convulsões ocorrem na intoxicação grave pelo ácido bórico.",
+   "Errada: eritrodermia descamativa é sinal característico da intoxicação por ácido bórico.",
+   "Correta: supressão adrenal é toxicidade dos corticoides tópicos, não do ácido bórico."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São particularidades na criança que predispõem à Insuficiência respiratória, exceto:",
+  "alts": [
+   "maior metabolismo e maior consumo de O2",
+   "tórax em barril diminuindo os movimentos compensatórios para aumentar o volume corrente",
+   "língua menor, facilitando a obstrução da via aérea",
+   "ventilação colateral (canais de lambert e poros de kohn) pobremente desenvolvidos",
+   "pequeno diâmetro das vias aéreas com tendência à obstrução"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Suporte Avançado de Vida em Pediatria (PALS), AHA, 2020",
+  "coment": "A criança evolui depressa para insuficiência respiratória por particularidades anatômicas e fisiológicas: maior metabolismo e consumo de oxigênio, vias aéreas de pequeno diâmetro (pequeno edema aumenta muito a resistência), costelas horizontalizadas e tórax mais circular, que limitam o aumento do volume corrente, ventilação colateral pobre (canais de Lambert e poros de Kohn pouco desenvolvidos) e LÍNGUA PROPORCIONALMENTE MAIOR em relação à orofaringe, que facilita a obstrução. A alternativa C diz língua menor, o que inverte a anatomia.",
+  "porAlt": [
+   "Errada: o maior metabolismo e consumo de oxigênio reduz a reserva da criança e predispõe à insuficiência.",
+   "Errada: a conformação torácica com costelas horizontais limita os movimentos compensatórios, o que predispõe à insuficiência.",
+   "Correta: a criança tem língua proporcionalmente MAIOR, não menor, e é isso que facilita a obstrução da via aérea.",
+   "Errada: canais de Lambert e poros de Kohn pouco desenvolvidos dificultam a ventilação colateral e favorecem atelectasia.",
+   "Errada: o pequeno diâmetro das vias aéreas faz qualquer edema aumentar muito a resistência, predispondo à obstrução."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O quadro clínico da insuficiência respiratória pode variar de acordo com a etiologia e a faixa etária da criança. No entanto, há um sintoma em comum e o mais precoce, assinale a alternativa correta desse sintoma.",
+  "alts": [
+   "Batimento da asa do nariz",
+   "Taquipneia",
+   "Tiragens intercostais",
+   "Cianose",
+   "Hipotensão"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Suporte Avançado de Vida em Pediatria (PALS), AHA, 2020",
+  "coment": "Diante de hipóxia ou hipercapnia, a primeira resposta compensatória da criança é aumentar a frequência respiratória. A taquipneia é por isso o sinal mais precoce e comum a todas as idades e causas de insuficiência respiratória. Batimento de asa nasal e tiragens indicam esforço já aumentado; cianose e hipotensão são sinais tardios, de descompensação. Contar a FR por um minuto inteiro, com a criança tranquila, é a avaliação mais útil, e a FR que cai sem melhora clínica sugere fadiga e parada iminente.",
+  "porAlt": [
+   "Errada: batimento de asa do nariz indica esforço respiratório, mas aparece depois do aumento da frequência.",
+   "Correta: a taquipneia é a primeira resposta compensatória e o sinal mais precoce, comum a todas as faixas etárias.",
+   "Errada: tiragens intercostais refletem esforço respiratório aumentado, posterior à taquipneia.",
+   "Errada: cianose é sinal tardio de hipoxemia importante.",
+   "Errada: hipotensão indica descompensação e é sinal tardio, perto da parada."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As LPP (Lesão Por Pressão) deverão ser avaliadas quanto as características da lesão, assinale a alternativa que corresponde corretamente o estágio 4 de lesão por pressão.",
+  "alts": [
+   "Perda da espessura total da pele com exposição de tecido adiposo. O tecido de granulação e a borda despregada estão frequentemente presentes",
+   "De hiperemia a lesões abrasivas mais profundas",
+   "Perda parcial da espessura da pele com exposição da derme. Leito da lesão é viável, rosa ou vermelho, úmida e pode se apresentar como uma flictena com exsudato seroso intacto ou rompido",
+   "Perda da espessura total da pele e perda tissular. Possível comprometimento de fáscia, músculos, ossos, tendões e/ou nervos. Esfacelo e/ou escara podem ser visíveis",
+   "Pele intacta ou não intacta com área vermelho-escura persistente não branqueável, descoloração marrom ou roxa ou separação da epiderme revelando um leito da lesão escuro ou com flictena de sangue"
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "NPIAP, classificação das lesões por pressão, 2016",
+  "coment": "Pela classificação do NPIAP de 2016, o estágio 4 é a perda da pele em sua espessura total e perda tissular, com exposição ou palpação direta de fáscia, músculo, tendão, ligamento, cartilagem ou osso; esfacelo e escara podem estar visíveis, e são frequentes descolamento e túneis. O estágio 3 também é perda de espessura total, mas a gordura é visível e não há exposição dessas estruturas. O estágio 2 é perda parcial com exposição da derme, e a área vermelho-escura persistente não branqueável é a lesão tissular profunda.",
+  "porAlt": [
+   "Errada: perda total da pele com exposição de tecido adiposo, granulação e epíbole descreve o estágio 3.",
+   "Errada: de hiperemia a lesões abrasivas não corresponde a nenhum estágio da classificação NPIAP de 2016.",
+   "Errada: perda parcial com exposição da derme, leito rosa ou flictena serosa é o estágio 2.",
+   "Correta: perda total da pele e perda tissular com possível exposição de fáscia, músculo, osso ou tendão é o estágio 4.",
+   "Errada: área vermelho-escura persistente não branqueável ou flictena de sangue é a lesão tissular profunda."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os domínios das escalas Braden Q estão direcionadas para a identificação e avaliação das alterações no estado clínico do paciente. Sobre esse assunto, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Percepção sensorial\n( ) Fricção e cisalhamento\n( ) Atividade física\n( ) Nutrição\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "V - V - V - F",
+   "V - V - F - F",
+   "V - V - F - V",
+   "V - F - V - F"
+  ],
+  "gab": 0,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Escala de Braden Q (Quigley e Curley, 1996); Protocolo para prevenção de úlcera por pressão (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "A Braden Q adapta a escala de Braden à pediatria e avalia sete domínios: mobilidade, atividade, percepção sensorial, umidade, fricção e cisalhamento, nutrição e perfusão tissular e oxigenação. Os quatro itens da questão (percepção sensorial, fricção e cisalhamento, atividade física e nutrição) pertencem à escala, então todos são verdadeiros. Quanto menor a pontuação, maior o risco de lesão por pressão. Na criança, os dispositivos (oxímetro, cânulas, sondas) respondem por boa parte das lesões, por isso o rodízio do sensor e a proteção da pele sob o dispositivo.",
+  "porAlt": [
+   "Correta: percepção sensorial, fricção e cisalhamento, atividade e nutrição são todos domínios da Braden Q.",
+   "Errada: nutrição é domínio da Braden Q, logo o último item é verdadeiro.",
+   "Errada: atividade física e nutrição fazem parte da escala, não são falsos.",
+   "Errada: atividade física é domínio da Braden Q, então o terceiro item é verdadeiro.",
+   "Errada: fricção e cisalhamento e nutrição são domínios da escala e não podem ser falsos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os pais e cuidadores devem ser alertados quanto ao risco de morte súbita de crianças no primeiro ano de vida, sobretudo nos primeiros 6 meses. A melhor maneira de prevenir a morte súbita é colocar o neonato para dormir na posição:",
+  "alts": [
+   "de prona",
+   "supina",
+   "lateralizada",
+   "trendelenburg",
+   "da cabeceira elevada"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "AAP, Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment, 2022",
+  "coment": "A posição supina, de barriga para cima, é a medida isolada mais eficaz para prevenir a síndrome da morte súbita do lactente, e as campanhas para dormir de costas reduziram muito essa mortalidade. A recomendação vale para todo sono até 1 ano, em superfície firme, sem travesseiros, protetores ou objetos soltos, no quarto dos pais mas em berço próprio, sem fumaça de tabaco, com amamentação incentivada. A posição lateral é instável e o bebê rola para a prona; a cabeceira elevada não é recomendada, nem mesmo no refluxo.",
+  "porAlt": [
+   "Errada: a posição prona é o principal fator de risco postural para morte súbita do lactente.",
+   "Correta: dormir em supino é a forma mais eficaz de prevenir a morte súbita no primeiro ano de vida.",
+   "Errada: a posição lateral é instável e o lactente rola para a prona, por isso não é recomendada.",
+   "Errada: Trendelenburg não tem indicação para o sono do lactente e não previne morte súbita.",
+   "Errada: elevar a cabeceira não é recomendado, nem no refluxo, porque favorece o deslizamento para posições de risco."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As orientações que promovem vínculos pais-bebês exercem influência positiva no desenvolvimento infantil, a equipe de enfermagem deverá preparar a família para a alta hospitalar do neonato. Analise as seguintes afirmativas sobre esse assunto:\nI. Promoção da escuta: Reservar espaço para a manifestação das dúvidas e ansiedades da família.\nII. É fundamental conhecer a condição social e o nível de escolaridade familiar, incluindo o potencial de entendimento das orientações que sejam dadas ao cuidador principal.\nIII. Criando-se um programa de estimulação precoce, onde os pais possam atuar na estimulação diária, com orientação específica conforme as necessidades.\nIV. No plano de cuidado não devem ser abordadas as necessidades psicossociais e socioeconômicas das famílias.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "V - V - V - F",
+   "V - V - F - F",
+   "V - V - F - V",
+   "V - F - V - F"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Atenção humanizada ao recém-nascido: Método Canguru, manual técnico (MS, 3ª ed., 2017)",
+  "coment": "O preparo para a alta do neonato é parte do cuidado centrado na família. Inclui reservar espaço de escuta para dúvidas e ansiedades (I), conhecer a condição social e a escolaridade para adequar a linguagem das orientações ao cuidador principal (II) e envolver os pais em programa de estimulação precoce com orientação específica (III). O item IV é falso: o plano de cuidado DEVE abordar as necessidades psicossociais e socioeconômicas, porque elas condicionam a continuidade do cuidado em casa e o acesso ao seguimento. Sequência V, V, V, F.",
+  "porAlt": [
+   "Errada: o item IV é falso, pois excluir as necessidades psicossociais e socioeconômicas contraria o cuidado centrado na família.",
+   "Correta: escuta, conhecimento da condição social e estimulação precoce são verdadeiros; ignorar as necessidades psicossociais é falso.",
+   "Errada: o item III é verdadeiro, porque a estimulação precoce com participação dos pais faz parte do preparo da alta.",
+   "Errada: o item III é verdadeiro e o IV é falso, ao contrário do que a alternativa propõe.",
+   "Errada: conhecer a condição social e a escolaridade da família é verdadeiro e necessário para orientar."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Neonatologia",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o trecho a seguir: De acordo com ECA (Estatuto da Criança e do Adolescente) é dever ______velar pela dignidade da criança e do adolescente, pondo-os a salvo de qualquer tratamento desumano, violento, aterrorizante, vexatório ou constrangedor. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "de todos",
+   "do estado",
+   "da família",
+   "do município",
+   "da federação"
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.069/1990 (ECA), art. 18",
+  "coment": "O art. 18 do ECA diz que é dever de todos velar pela dignidade da criança e do adolescente, pondo-os a salvo de qualquer tratamento desumano, violento, aterrorizante, vexatório ou constrangedor. O dever é difuso, de toda a sociedade, e não só do Estado ou da família, em linha com o art. 227 da Constituição, que atribui à família, à sociedade e ao Estado a proteção integral. Para o enfermeiro isso significa que perceber e comunicar violação de direitos é obrigação profissional.",
+  "porAlt": [
+   "Correta: o art. 18 do ECA atribui a todos o dever de velar pela dignidade da criança e do adolescente.",
+   "Errada: o Estado tem deveres próprios no ECA, mas o art. 18 fala de dever de todos.",
+   "Errada: a família é corresponsável, mas o artigo não restringe o dever a ela.",
+   "Errada: o município não é o destinatário exclusivo desse dever no ECA.",
+   "Errada: o texto legal não atribui o dever à federação, e sim a todos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com ECA (Estatuto da Criança e do Adolescente), é dever do Estado assegurar à criança e ao adolescente. Sobre isso, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso(F).\n( ) Ensino fundamental, obrigatório e gratuito.\n( ) Progressiva extensão da obrigatoriedade e gratuidade ao ensino médio.\n( ) Atendimento educacional especializado aos portadores de deficiência, preferencialmente na rede regular de ensino.\n( ) Atendimento em creche e pré-escola às crianças de zero a seis anos de idade.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "V - V - V - F",
+   "V - V - F - F",
+   "V - F - V - F",
+   "F - F - V - V"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Adolescente",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.069/1990 (ECA), art. 54, com redação da Lei 13.306/2016",
+  "coment": "O art. 54 do ECA lista os deveres do Estado na educação: ensino fundamental obrigatório e gratuito, inclusive para quem não teve acesso na idade própria (I); progressiva extensão da obrigatoriedade e gratuidade ao ensino médio (II); atendimento educacional especializado às pessoas com deficiência, preferencialmente na rede regular (III); e atendimento em creche e pré-escola às crianças de ZERO A CINCO anos (IV). A Lei 13.306/2016 reduziu de seis para cinco anos a faixa, alinhada ao ingresso no ensino fundamental aos 6 anos. Por isso o último item é falso.",
+  "porAlt": [
+   "Errada: o último item é falso, porque a creche e a pré-escola cobrem de zero a cinco anos desde a Lei 13.306/2016.",
+   "Correta: os três primeiros reproduzem o art. 54 do ECA; o quarto é falso, pois a faixa atual é de zero a cinco anos.",
+   "Errada: o atendimento educacional especializado na rede regular está no art. 54, III, e é verdadeiro.",
+   "Errada: a progressiva extensão ao ensino médio está no art. 54, II, e é verdadeira.",
+   "Errada: o ensino fundamental obrigatório e gratuito é o primeiro dever do art. 54 e é verdadeiro."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o trecho a seguir: Qualquer criança que tenha recebido um trauma na cabeça pode desenvolver sintomas horas ou dias mais tarde, sendo que as primeiras ______ são as mais importantes, no que se refere a maior observação. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "2 horas",
+   "4 horas",
+   "6 horas",
+   "12 horas",
+   "24 horas"
+  ],
+  "gab": 4,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "NICE NG232, Head injury: assessment and early management, 2023",
+  "coment": "Depois de um trauma de crânio, a criança pode manifestar hematoma ou edema horas depois. A observação mais rigorosa se concentra nas primeiras 24 horas, e a alta só se faz com um adulto responsável que observe a criança nesse período e saiba os sinais de retorno imediato: vômitos repetidos, cefaleia que piora, sonolência excessiva ou dificuldade para acordar, convulsão, alteração de comportamento, fraqueza, alteração visual e saída de líquido pelo nariz ou ouvido. A enfermagem entrega essas orientações por escrito e confirma que foram entendidas.",
+  "porAlt": [
+   "Errada: 2 horas é pouco; complicações como o hematoma podem surgir bem depois.",
+   "Errada: 4 horas não cobre o período de maior risco, que se estende pelas primeiras 24 horas.",
+   "Errada: 6 horas é período de observação hospitalar mínima em alguns protocolos, mas a vigilância próxima vai até 24 horas.",
+   "Errada: 12 horas ainda não completa o intervalo de maior vigilância recomendado.",
+   "Correta: as primeiras 24 horas após o trauma são as de maior atenção, e a família deve observar a criança nesse período."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta a partir de qual idade pode ser realizada a manobra de Heimlich em caso de obstrução de vias aéreas superiores.",
+  "alts": [
+   "Dois meses",
+   "Quatro meses",
+   "Seis meses",
+   "Doze meses",
+   "Vinte quatro meses"
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Diretrizes AHA 2025 de RCP e ACE (obstrução de via aérea por corpo estranho)",
+  "coment": "As compressões abdominais (manobra de Heimlich) se aplicam a partir de 1 ano de idade. No lactente, abaixo de 1 ano, o fígado é grande e desprotegido e há risco de lesão abdominal, por isso se usam 5 golpes nas costas alternados com 5 compressões torácicas, com o bebê de bruços e cabeça mais baixa. As diretrizes AHA 2025 mantiveram esse corte e passaram a recomendar, para criança e adulto conscientes, ciclos de 5 golpes nas costas alternados com 5 compressões abdominais. Se a vítima ficar inconsciente, inicia-se a RCP.",
+  "porAlt": [
+   "Errada: aos dois meses a manobra correta é golpes nas costas e compressões torácicas, não abdominais.",
+   "Errada: aos quatro meses ainda é lactente, e as compressões abdominais são contraindicadas.",
+   "Errada: aos seis meses o lactente também recebe golpes nas costas e compressões torácicas.",
+   "Correta: as compressões abdominais são indicadas a partir de 1 ano, ou seja, doze meses.",
+   "Errada: não é preciso esperar 24 meses; desde 1 ano a criança já recebe compressões abdominais."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Lactente logo após receber dose da vacina contra rota vírus apresentou regurgitação, assinale a alternativa que apresenta qual deve ser a conduta do enfermeiro frente a esta situação.",
+  "alts": [
+   "Administrar nova dose imediatamente",
+   "Administrar nova dose após 4 semanas",
+   "Não é necessário repetir a dose",
+   "Administrar nova dose após 8 semanas",
+   "Aguardar pelo menos duas horas para repetir a dose"
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Técnica de aplicação",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "A vacina rotavírus humano é oral, 1,5 mL, aplicada aos 2 e 4 meses. Se a criança regurgitar, cuspir ou vomitar logo após a dose, ela NÃO é repetida: a orientação do PNI considera a dose válida. Repetir expõe a dose extra sem benefício comprovado e desorganiza o esquema. Pelos prazos da IN 2026, a 1ª dose vai de 1 mês e 15 dias a 11 meses e 29 dias, e a 2ª até 23 meses e 29 dias; intussuscepção prévia contraindica a vacina. A enfermagem registra o ocorrido e orienta a família.",
+  "porAlt": [
+   "Errada: não se repete a dose imediatamente; regurgitação não invalida a vacina oral de rotavírus.",
+   "Errada: não há nova dose depois de 4 semanas; a dose regurgitada é considerada válida.",
+   "Correta: pela orientação do PNI, se o lactente regurgita, cospe ou vomita após a vacina de rotavírus, a dose não é repetida.",
+   "Errada: não existe repetição após 8 semanas para dose regurgitada.",
+   "Errada: aguardar duas horas e repetir não é conduta prevista; a dose não se repete."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Ao atender uma criança o enfermeiro observa sinais indicativos de violência física. A esse respeito, assinale a alternativa que apresenta qual o órgão de proteção o profissional deve notificar obrigatoriamente.",
+  "alts": [
+   "assistência social",
+   "delegacia da região",
+   "vigilância sócio-sanitaria",
+   "conselho tutelar",
+   "o médico responsável"
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.069/1990 (ECA), arts. 13 e 245; Portaria GM/MS 11.211/2026 (lista de notificação compulsória)",
+  "coment": "Pelo art. 13 do ECA, os casos de suspeita ou confirmação de castigo físico, tratamento cruel ou degradante e maus-tratos contra criança ou adolescente são obrigatoriamente comunicados ao Conselho Tutelar da localidade. O art. 245 prevê multa ao profissional de saúde que deixa de comunicar. Basta a suspeita, sem necessidade de prova. Na saúde, a violência também é de notificação compulsória ao SINAN pela ficha de violência interpessoal, lista atualizada pela Portaria GM/MS 11.211/2026; as duas obrigações se somam.",
+  "porAlt": [
+   "Errada: a assistência social pode participar da rede de proteção, mas a comunicação obrigatória do ECA é ao Conselho Tutelar.",
+   "Errada: a delegacia pode ser acionada, mas o ECA exige a comunicação ao Conselho Tutelar.",
+   "Errada: a notificação ao SINAN é da vigilância epidemiológica e não substitui a comunicação ao Conselho Tutelar.",
+   "Correta: o art. 13 do ECA obriga a comunicar ao Conselho Tutelar a suspeita ou confirmação de maus-tratos.",
+   "Errada: o médico não é órgão de proteção; o enfermeiro tem dever próprio de comunicar ao Conselho Tutelar."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A leucemia linfoide aguda é o câncer mais comum na infância representa 26,8% dos cânceres infantis e 78,6% de todas as leucemias; seu pico de incidência ocorre:",
+  "alts": [
+   "menores de 2 anos de idade",
+   "de 2 a 9 anos de idade",
+   "de 1 a 12 anos de idade",
+   "de 2 a 11 anos de idade",
+   "acima de 9 anos"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "INCA, Estimativa 2023: incidência de câncer no Brasil, 2022 (câncer infantojuvenil)",
+  "coment": "A leucemia linfoide aguda (LLA) é o câncer mais frequente da infância e a maior parte das leucemias pediátricas. Seu pico de incidência ocorre na idade pré-escolar, classicamente entre 2 e 5 anos. Entre as opções, a única faixa que concentra esse pico sem diluí-lo é de 2 a 9 anos, que é também a faixa de melhor prognóstico nos protocolos (1 a 9 anos é considerado risco padrão). Menores de 1 ano e maiores de 10 anos têm pior prognóstico. A febre, a palidez, as equimoses e a dor óssea são os sinais que a enfermagem deve reconhecer.",
+  "porAlt": [
+   "Errada: em menores de 2 anos a LLA é menos frequente, e no lactente tem pior prognóstico.",
+   "Correta: o pico de incidência da LLA fica na idade pré-escolar, dentro da faixa de 2 a 9 anos.",
+   "Errada: de 1 a 12 anos é faixa larga demais e não expressa o pico de incidência.",
+   "Errada: de 2 a 11 anos estende o intervalo além do pico descrito pela banca.",
+   "Errada: acima de 9 anos a incidência é menor, e acima de 10 anos o prognóstico piora."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre os sinais e sintomas da sepse em crianças, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Hipotermia\n( ) Febre\n( ) Erupções cutâneas\n( ) Irritabilidade\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "F - V - V - V",
+   "F - V - F - V",
+   "F - V - V - F",
+   "V - V - F - F"
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Surviving Sepsis Campaign, diretrizes internacionais para choque séptico pediátrico, 2020",
+  "coment": "A sepse na criança tem apresentação variada e muitas vezes inespecífica. A temperatura pode estar alterada para cima ou para baixo: febre ou hipotermia (esta, comum no lactente pequeno e no RN). Erupções cutâneas, sobretudo petéquias e púrpura, sugerem meningococcemia. Irritabilidade, letargia, recusa alimentar, taquicardia, taquipneia, enchimento capilar lento e oligúria completam o quadro. Os quatro itens são verdadeiros, e o reconhecimento precoce com acesso, coleta de culturas e antibiótico em até 1 hora no choque é o que reduz a mortalidade.",
+  "porAlt": [
+   "Correta: hipotermia, febre, erupções cutâneas e irritabilidade são todos sinais possíveis de sepse na criança.",
+   "Errada: a hipotermia é sinal de sepse, sobretudo em lactentes pequenos.",
+   "Errada: hipotermia e erupções cutâneas, como petéquias, também são sinais de sepse.",
+   "Errada: hipotermia e irritabilidade são sinais de sepse e não podem ser falsos.",
+   "Errada: erupções cutâneas e irritabilidade fazem parte do quadro da sepse pediátrica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Recém-nascido a termo de quatro dias, comparece ao ambulatório de pediatria, com sinais visíveis de icterícia, ao exame físico o enfermeiro observa cor amarelada na pele das mãos e pés, palmas e plantas. De acordo com a proposta feita por Kramer, a estimativa desse quadro está em nível ______ de icterícia. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, vol. 2 (MS, 2ª ed., 2014), icterícia neonatal",
+  "coment": "Kramer descreveu a progressão craniocaudal da icterícia em cinco zonas: 1 cabeça e pescoço; 2 tronco até o umbigo; 3 hipogástrio e coxas; 4 joelhos, pernas, braços e antebraços; 5 mãos e pés, incluindo palmas e plantas. Icterícia em palmas e plantas é zona V, que corresponde às bilirrubinas mais altas. A inspeção visual é imprecisa, sobretudo em pele escura e após fototerapia, e serve para decidir quem dosa a bilirrubina (sérica ou transcutânea), nunca para indicar tratamento. RN de quatro dias com zona V precisa de dosagem no mesmo dia.",
+  "porAlt": [
+   "Errada: a zona I é cabeça e pescoço, icterícia ainda restrita ao segmento cefálico.",
+   "Errada: a zona II vai até o umbigo e não alcança extremidades.",
+   "Errada: a zona III chega ao hipogástrio e às coxas, sem atingir mãos e pés.",
+   "Errada: a zona IV inclui pernas e antebraços, mas não palmas e plantas.",
+   "Correta: icterícia em mãos e pés, incluindo palmas e plantas, é a zona V de Kramer."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre manifestações clássicas apresentadas pela criança autista, analise as afirmativas abaixo.\nI. Dificuldades na comunicação verbal e não verbal.\nII. Dificuldade no convívio social.\nIII. Temperamento extremamente estável.\nIV. Interesse restritos a determinadas atividades.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I e II apenas",
+   "I, II e III apenas",
+   "I, III e IV apenas",
+   "I, II e IV apenas",
+   "I, II, III e IV"
+  ],
+  "gab": 3,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "DSM-5-TR (APA, 2022), transtorno do espectro autista",
+  "coment": "O transtorno do espectro autista se define por déficits persistentes na comunicação e na interação social, incluindo comunicação verbal e não verbal e dificuldade de convívio (itens I e II), e por padrões restritos e repetitivos de comportamento, interesses ou atividades (item IV), com insistência na mesmice e alterações sensoriais. O item III é falso: a criança autista não tem temperamento extremamente estável; são comuns irritabilidade, crises diante de mudança de rotina e sobrecarga sensorial. Para a enfermagem, previsibilidade da rotina e ambiente com poucos estímulos ajudam no cuidado.",
+  "porAlt": [
+   "Errada: deixa de fora o item IV, interesses restritos, que é critério diagnóstico do autismo.",
+   "Errada: inclui o item III, temperamento extremamente estável, que não caracteriza o autismo.",
+   "Errada: omite o item II e inclui o III, que é falso.",
+   "Correta: dificuldade de comunicação, dificuldade de convívio social e interesses restritos são manifestações clássicas do autismo.",
+   "Errada: o item III é falso, porque crises de irritabilidade diante de mudanças são frequentes no autismo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A escala NFCS (Neonatal Facial Coding System) baseia-se na codificação da atividade facial para avaliação da dor na criança. Assinale a alternativa correta da frequência de aplicação do NFCS pela equipe nas primeiras 24 horas pós-operatório na criança (cirurgias em geral).",
+  "alts": [
+   "2/2 horas",
+   "4/4 horas",
+   "6/6 horas",
+   "8/8 horas",
+   "12/12 horas"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, vol. 2 (MS, 2ª ed., 2014), avaliação da dor",
+  "coment": "A NFCS (Neonatal Facial Coding System) avalia a dor pela mímica facial: fronte saliente, olhos espremidos, sulco nasolabial aprofundado, lábios entreabertos, boca estirada, lábios franzidos, língua tensa e tremor de queixo. É escala do neonato e do lactente pequeno, que não verbalizam. No pós-operatório a dor é tratada como sinal vital e reavaliada em intervalos regulares, mais curtos nas primeiras 24 horas e sempre após cada analgesia. A banca adotou a reavaliação de 4 em 4 horas nesse período; os protocolos institucionais variam, mas o princípio cobrado é a avaliação sistemática e registrada.",
+  "porAlt": [
+   "Errada: de 2 em 2 horas não foi o intervalo adotado pela fonte da banca para a rotina nas primeiras 24 horas.",
+   "Correta: a banca considera a aplicação da NFCS de 4 em 4 horas nas primeiras 24 horas de pós-operatório, além da reavaliação após analgesia.",
+   "Errada: 6 em 6 horas é intervalo longo para o período de dor mais intensa do pós-operatório.",
+   "Errada: 8 em 8 horas deixaria a dor sem avaliação por tempo excessivo nas primeiras 24 horas.",
+   "Errada: 12 em 12 horas é incompatível com tratar a dor como sinal vital no pós-operatório imediato."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A tomada de decisão compartilhada entre a criança, a família e a equipe de saúde, pode resultar de uma comunicação aberta, honesta e culturalmente sensível e do estabelecimento de uma relação terapêutica entre a família e os profissionais da saúde. Para facilitar a tomada de decisão compartilhada, é incorreto afirmar:",
+  "alts": [
+   "determine continuamente o impacto da doença e do tratamento da criança na família",
+   "dê informações honestas e precisas a respeito da trajetória da doença, complicações esperadas e informações prognósticas",
+   "converse com a família sobre os desejos relacionados à qualidade de vida da criança",
+   "ofereça opiniões ou críticas pessoais em relação às dúvidas e decisões da família",
+   "esteja atento às suas próprias concepções pessoais e culturais e às maneiras pelas quais essas concepções provocam impacto na comunicação, na tomada de decisões e no julgamento"
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 3.681/2024 (Política Nacional de Cuidados Paliativos); Resolução COFEN 564/2017",
+  "coment": "A tomada de decisão compartilhada se apoia em comunicação aberta, honesta e culturalmente sensível. O profissional avalia continuamente o impacto da doença na família, dá informações verdadeiras sobre trajetória, complicações e prognóstico, conversa sobre os desejos ligados à qualidade de vida da criança e reconhece as próprias concepções para não impô-las. Oferecer opiniões ou críticas pessoais às dúvidas e decisões da família quebra a relação terapêutica e desrespeita a autonomia, princípio da Política Nacional de Cuidados Paliativos (Portaria 3.681/2024). Por isso D é a incorreta.",
+  "porAlt": [
+   "Errada: avaliar continuamente o impacto da doença e do tratamento na família é recomendação da decisão compartilhada.",
+   "Errada: informações honestas sobre trajetória, complicações e prognóstico são a base da decisão compartilhada.",
+   "Errada: conversar sobre os desejos ligados à qualidade de vida da criança é parte central do processo.",
+   "Correta: oferecer opiniões ou críticas pessoais às decisões da família contraria a comunicação respeitosa e a autonomia.",
+   "Errada: reconhecer as próprias concepções culturais evita que o profissional as imponha, o que é recomendado."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a assistência de enfermagem nos cuidados da pele, analise as afirmativas abaixo.\nI. Massageie proeminências ósseas hiperemiadas.\nII. Elimine pressão secundária com dispositivo tecnológico.\nIII. Manter em posição em alinhamento neutro.\nIV. Mantenha a pele livre do excesso de umidade.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I e II apenas",
+   "I, II e III apenas",
+   "II, III e IV apenas",
+   "I, II e IV apenas",
+   "I, II, III e IV"
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Protocolo para prevenção de úlcera por pressão (MS/ANVISA/Fiocruz, 2013), anexo do PNSP; NPIAP, 2016",
+  "coment": "Na prevenção de lesão por pressão, a pele deve ser mantida limpa, hidratada e livre de excesso de umidade (IV), a pressão deve ser aliviada com reposicionamento e dispositivos de redistribuição (II) e o corpo deve ficar em alinhamento neutro (III). O item I é falso: massagear proeminências ósseas hiperemiadas é contraindicado, porque a fricção lesa os tecidos já comprometidos e não melhora a perfusão. A pele hiperemiada se protege e se tira de carga, sem massagem.",
+  "porAlt": [
+   "Errada: inclui o item I, massagear proeminência hiperemiada, prática contraindicada.",
+   "Errada: inclui a massagem e omite o item IV, controle da umidade, que é correto.",
+   "Correta: alívio da pressão, alinhamento neutro e pele livre de umidade são corretos; a massagem em área hiperemiada é contraindicada.",
+   "Errada: traz o item I, que é falso, e exclui o III, que é correto.",
+   "Errada: o item I não é correto, pois a massagem em proeminência hiperemiada agrava a lesão."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o trecho abaixo:\nIndependentemente de a elevação na temperatura da criança criticamente doente ter sido causada pela febre ou hipertermia, ela deve ser tratada agressivamente. A taxa metabólica aumenta ______ para cada 1°C de aumento na temperatura e três a cinco vezes durante o calafrio, elevando, assim, os requisitos de oxigênio, líquido e calorias.\nAssinale a alternativa que preencha a lacuna corretamente.",
+  "alts": [
+   "5%",
+   "10%",
+   "15%",
+   "20%",
+   "30%"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hockenberry, Wilson e Rodgers, Wong Fundamentos de Enfermagem Pediátrica, 10ª ed., 2018",
+  "coment": "Febre e hipertermia elevam o consumo metabólico: a taxa metabólica aumenta cerca de 10% para cada 1 °C de aumento da temperatura, e o calafrio pode multiplicá-la por três a cinco. Na criança criticamente doente, com reserva pequena, isso aumenta a demanda de oxigênio, de líquidos e de calorias e pode descompensar a função cardiorrespiratória. Daí o controle agressivo da temperatura: antitérmico na febre, resfriamento físico na hipertermia (que não responde a antitérmico), hidratação e prevenção do calafrio.",
+  "porAlt": [
+   "Errada: 5% subestima o aumento do metabolismo por grau de temperatura.",
+   "Correta: a taxa metabólica sobe cerca de 10% a cada 1 °C, e três a cinco vezes durante o calafrio.",
+   "Errada: 15% superestima o valor de referência usado pela literatura de enfermagem pediátrica.",
+   "Errada: 20% é o dobro do aumento descrito por grau de temperatura.",
+   "Errada: 30% está muito acima do aumento metabólico por grau de temperatura."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o melhor local, técnica, tamanho e calibre da agulha e dosagem para as injeções intramusculares (IM), assinale a alternativa incorreta.",
+  "alts": [
+   "Uma agulha de 16 mm é suficiente para penetrar o músculo anterolateral da coxa se for inserida em um ângulo de 90 graus sem pinçar o músculo em crianças de 2, 4, 6 e 18 meses de vida",
+   "As vacinas contendo adjuvantes como alumínio devem ser administradas profundamente no músculo para evitar reações locais",
+   "Lactentes até 24 meses podem tolerar até 0,5 ml em cada músculo para evitar complicações locais",
+   "Injetar vacinas contendo adjuvantes no tecido subcutâneo aumenta a incidência de reações locais",
+   "Uma agulha de 16 mm pode ser adequada para injeções em lactentes pequenos, e uma agulha de 22 a 25 mm pode ser usada em lactentes de 2 meses de vida ou mais"
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Técnica de aplicação",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Manual de Normas e Procedimentos para Vacinação (MS, 2ª ed., 2024); Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "O vasto lateral da coxa é o local preferencial da injeção IM abaixo de 2 anos. A orientação do PNI fixa como volume máximo nesse músculo 0,5 mL no prematuro e 1,0 mL de 0 a 5 anos, por isso a afirmação de que o lactente até 24 meses tolera só até 0,5 mL é a incorreta. Agulha de 16 mm a 90° atinge o músculo em lactentes com a pele esticada, e agulhas de 22 a 25 mm servem a partir de 2 meses conforme a massa muscular. Vacinas com adjuvante de alumínio devem ir fundo no músculo, porque no subcutâneo causam mais reação local, como nódulo e abscesso estéril.",
+  "porAlt": [
+   "Errada: é afirmação correta; agulha de 16 mm a 90° atinge o vasto lateral nessas idades com a pele estirada.",
+   "Errada: é correta; vacinas adsorvidas em alumínio são aplicadas profundamente no músculo para reduzir reação local.",
+   "Correta: é a incorreta, porque o lactente tolera até 1,0 mL no vasto lateral; 0,5 mL é o limite do prematuro.",
+   "Errada: é correta; aplicar vacina com adjuvante no subcutâneo aumenta nódulos, dor e abscesso estéril.",
+   "Errada: é correta; a agulha de 16 mm serve ao lactente pequeno e a de 22 a 25 mm pode ser usada a partir de 2 meses."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente - Pediatria",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Por meio de ações que buscam a ampliação do acesso e melhoria da qualidade do pré-natal, da garantia de vinculação da gestante aos serviços de referência para atendimento integral entre outros, sobre as diretrizes que a Rede Cegonha tem para nortear a reorganização dos processos de trabalho nos serviços obstétrico-neonatais, analise as afirmativas abaixo.\nI. Garantia das boas práticas e segurança na atenção ao parto e nascimento.\nII. Garantia do acolhimento e classificação de risco, qualificação do acesso e assistência.\nIII. Garantia de vinculação da gestante desde o pré-natal até os serviços de referência que compõem a rede integral, não incluindo apenas a maternidade programada para a realização do parto.\nIV. Garantia de acesso às ações do planejamento reprodutivo.\nV. Gestão democrática e participativa. Gestão participativa e compartilhada na maternidade, buscando aumentar o grau de corresponsabilização entre usuários/acompanhantes, trabalhadores e gestores.\nAssinale a alternativa correta.",
+  "alts": [
+   "I, II, III, IV e V",
+   "I, II, IV e V apenas",
+   "III, IV e V apenas",
+   "IV e V apenas",
+   "V apenas"
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 5.350/2024 (Rede Alyne); Lei 11.634/2007 (vinculação da gestante à maternidade)",
+  "coment": "As diretrizes da Rede Cegonha para os serviços obstétrico-neonatais incluíam boas práticas e segurança no parto (I), acolhimento com classificação de risco (II), acesso ao planejamento reprodutivo (IV) e gestão democrática e participativa na maternidade (V). O item III é falso porque deturpa a vinculação: a gestante tem direito de conhecer e de estar vinculada desde o pré-natal à maternidade onde fará o parto (Lei 11.634/2007). A Rede Cegonha foi transformada na Rede Alyne pela Portaria GM/MS 5.350/2024, que mantém essas diretrizes e amplia o pré-natal para no mínimo 7 consultas.",
+  "porAlt": [
+   "Errada: o item III deturpa a diretriz de vinculação da gestante à maternidade de referência e é falso.",
+   "Correta: boas práticas, acolhimento com classificação de risco, planejamento reprodutivo e gestão participativa são diretrizes; o item III é falso.",
+   "Errada: omite as diretrizes I e II, que são corretas, e inclui o item III, falso.",
+   "Errada: deixa de fora boas práticas no parto e acolhimento com classificação de risco.",
+   "Errada: a gestão participativa não é a única diretriz correta; I, II e IV também são."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O processo de Acolhimento e Classificação de Risco é uma ação de caráter interdisciplinar e envolve diferentes profissionais. Assinale a alternativa correta que corresponde ao profissional que realiza a classificação de risco propriamente dita.",
+  "alts": [
+   "Profissionais da recepção",
+   "Auxiliar de enfermagem",
+   "Técnico de enfermagem",
+   "Enfermeiro",
+   "Médico Obstetra"
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Classificação de risco",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 661/2021; Manual de Acolhimento e Classificação de Risco em Obstetrícia (MS, 2017)",
+  "coment": "O acolhimento é postura de toda a equipe, desde a recepção, mas a classificação de risco propriamente dita é ato técnico do enfermeiro. A Res. COFEN 661/2021 estabelece que, no âmbito da equipe de enfermagem, a classificação de risco e a priorização da assistência são privativas do enfermeiro, com capacitação no protocolo adotado. O manual obstétrico do Ministério atribui a classificação ao enfermeiro ou enfermeira obstétrica. Técnicos e auxiliares não classificam; o médico obstetra atende conforme a prioridade definida.",
+  "porAlt": [
+   "Errada: a recepção acolhe e registra, mas não faz a classificação de risco.",
+   "Errada: o auxiliar de enfermagem não classifica risco; a atividade é privativa do enfermeiro na equipe de enfermagem.",
+   "Errada: o técnico de enfermagem também não pode classificar risco pela Res. COFEN 661/2021.",
+   "Correta: a classificação de risco propriamente dita é feita pelo enfermeiro, como prevê a Res. COFEN 661/2021.",
+   "Errada: o médico obstetra atende a gestante conforme a prioridade, mas a classificação cabe ao enfermeiro."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo o Glossário da Política Nacional de Humanização, acolhimento traduz-se em:",
+  "alts": [
+   "recepção do usuário nos serviços de saúde, desde a sua chegada, responsabilizando-se integralmente por ele, ouvindo sua queixa, permitindo que ele expresse suas preocupações. Implica prestar um atendimento com resolutividade e corresponsabilização, orientando, conforme o caso, o usuário e a família, garantindo a articulação com os outros serviços de saúde para a continuidade da assistência quando necessário",
+   "recepção do usuário nos serviços de saúde, desde a sua chegada, responsabilizando-se parcialmente por ele, ouvindo sua queixa, permitindo que ele expresse suas preocupações. Implica prestar um atendimento com resolutividade e corresponsabilização, orientando, conforme o caso, o usuário e a família, garantindo a articulação com os outros serviços de saúde para a continuidade da assistência quando necessário",
+   "busca ativa de usuários dos serviços de saúde, responsabilizando-se parcialmente por ele a partir deste momento. Implica prestar um atendimento com resolutividade e corresponsabilização, orientando, conforme o caso, o usuário e a família, garantindo a articulação com os outros serviços de saúde para a continuidade da assistência quando necessário",
+   "busca ativa de usuários dos serviços de saúde, responsabilizando-se parcialmente por ele a partir deste momento. Envolve tentar um atendimento com qualidade, orientando o usuário e a família sobre as responsabilizações de cada membro da equipe e também sobre as responsabilidades sobre os cuidados prestados pela família a pessoas dependentes",
+   "recepção do usuário nos serviços de saúde, desde a sua chegada, responsabilizando-se integralmente por ele. Envolve tentar um atendimento com qualidade, orientando o usuário e a família sobre as responsabilizações de cada membro da equipe e também sobre as responsabilidades sobre os cuidados prestados pela família a pessoas dependentes"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "HumanizaSUS: Documento base para gestores e trabalhadores do SUS (MS, 4ª ed., 2008), glossário",
+  "coment": "O glossário da Política Nacional de Humanização define acolhimento como a recepção do usuário desde a chegada, responsabilizando-se integralmente por ele, ouvindo a queixa e permitindo que expresse suas preocupações, com atendimento resolutivo e corresponsável, orientação ao usuário e à família e articulação com outros serviços para a continuidade da assistência. As alternativas erradas trocam palavras-chave: responsabilização parcial, busca ativa no lugar de recepção, ou tentativa de atendimento no lugar de resolutividade.",
+  "porAlt": [
+   "Correta: reproduz o glossário da PNH, com recepção desde a chegada, responsabilização integral, escuta, resolutividade e articulação com a rede.",
+   "Errada: troca a responsabilização integral por parcial, o que contraria o conceito da PNH.",
+   "Errada: acolhimento não é busca ativa, e a responsabilização não é parcial.",
+   "Errada: além da busca ativa e da responsabilização parcial, perde a resolutividade e a articulação com a rede.",
+   "Errada: começa certo, mas substitui resolutividade e articulação com a rede por tentativa de atendimento e divisão de responsabilidades."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Gestante, 27 semanas, compareceu para atendimento em unidade de pronto atendimento com queixa de ausência/redução de movimentos fetais por mais de 12 horas, pressão arterial 162x95mmHg sem outros sintomas. Conforme o Manual de Acolhimento e Classificação de Risco em Obstetrícia do Ministério da Saúde de 2018, elaborado a partir de consensos entre médicos e enfermeiros, baseado em evidências clínicas, assinale a alternativa que apresenta qual a cor de classificação de risco desta gestante.",
+  "alts": [
+   "Vermelho",
+   "Laranja",
+   "Amarelo",
+   "Verde",
+   "Azul"
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Manual de Acolhimento e Classificação de Risco em Obstetrícia (MS, 2017)",
+  "coment": "No protocolo obstétrico do Ministério, pressão sistólica de 160 mmHg ou mais, ou diastólica de 110 mmHg ou mais, é discriminador laranja (atendimento em até 15 minutos), por ser hipertensão grave com risco de eclâmpsia, AVC e descolamento de placenta. A gestante tem PAS de 162 mmHg, o que basta para laranja, e ainda refere ausência ou redução de movimentos fetais por mais de 12 horas com 27 semanas, queixa que também exige avaliação rápida da vitalidade fetal. Vermelho fica para risco imediato de vida, como convulsão ou choque.",
+  "porAlt": [
+   "Errada: vermelho é para risco imediato de vida, como convulsão, choque ou parada; a gestante não tem esses sinais.",
+   "Correta: PAS de 160 mmHg ou mais é discriminador laranja, somado à redução de movimentos fetais por mais de 12 horas.",
+   "Errada: amarelo é para PA de 140 a 159 por 90 a 109 mmHg sem sintomas; a sistólica de 162 sobe a cor para laranja.",
+   "Errada: verde não cabe a gestante com hipertensão grave e queixa de vitalidade fetal.",
+   "Errada: azul é para atendimento não urgente, incompatível com o quadro."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com as Diretrizes de 2020 da American Heart Association (AHA) para ressuscitação cardiopulmonar (RCP) e atendimento cardiovascular de emergência (ACE), assinale a alternativa que apresenta quais condutas são consideradas prioridades para mulheres gravidas durante parada cardiorrespiratória, além da RCP.",
+  "alts": [
+   "Deslocamento uterino lateral",
+   "Contra indicação à desfibrilação",
+   "Manter o monitoramento cardíaco contínuo do feto",
+   "A massagem cardíaca é prioridade a seguir deve-se realizar o manejo da via aérea artificial",
+   "Quando houver uma via aérea avançada, administrar uma ventilação a cada 3 segundos, visando aumento de oxigênio circulante, para aporte também do feto"
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes AHA 2025 de RCP e ACE (PCR na gestante); Diretrizes AHA 2020",
+  "coment": "Na gestante em PCR, o útero grávido comprime a veia cava e a aorta em decúbito dorsal e reduz o retorno venoso e a eficácia das compressões. Por isso, além da RCP de alta qualidade, é prioridade o deslocamento manual do útero para a esquerda, mantido continuamente, junto com oxigenação e manejo da via aérea. As diretrizes de 2020 e de 2025 mantêm essa conduta. A desfibrilação é indicada nas doses habituais, o monitoramento fetal deve ser retirado durante a reanimação porque atrapalha, e a cesárea perimortem é considerada se não houver retorno da circulação em poucos minutos.",
+  "porAlt": [
+   "Correta: o deslocamento uterino lateral manual e contínuo alivia a compressão aortocava e é prioridade na PCR da gestante.",
+   "Errada: a desfibrilação não é contraindicada na gestante e segue as mesmas cargas do adulto.",
+   "Errada: a monitorização fetal deve ser removida durante a PCR, porque interfere na reanimação materna.",
+   "Errada: a via aérea e a oxigenação são prioridade junto com as compressões, pela maior suscetibilidade da gestante à hipóxia.",
+   "Errada: com via aérea avançada no adulto a ventilação é 1 a cada 6 segundos; hiperventilar não beneficia mãe nem feto."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+   "n": 45,
+   "parte": "especificas"
+  }
+ }
+]

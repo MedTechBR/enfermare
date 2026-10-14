@@ -1,0 +1,1474 @@
+[
+ {
+  "q": "O ser humano necessita de nutrientes em quantidade e qualidade adequadas para atender suas necessidades. A oferta desses nutrientes pode ser pela via enteral. Com relação às complicações relacionadas à terapia nutricional enteral, assinale a alternativa incorreta.",
+  "alts": [
+   "Broncoaspiração do conteúdo gástrico",
+   "Úlceras de pressão em asa de nariz",
+   "Diarreia",
+   "Constipação",
+   "Ascite"
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "RDC ANVISA 503/2021 (terapia nutricional enteral)",
+  "coment": "As complicações da terapia nutricional enteral se agrupam em mecânicas (lesão por pressão da sonda em asa de nariz, deslocamento, obstrução), gastrointestinais (diarreia, constipação, distensão, vômitos), pulmonares (broncoaspiração) e metabólicas. Ascite é acúmulo de líquido na cavidade peritoneal por hipertensão portal, hipoalbuminemia ou doença peritoneal; não decorre da dieta por sonda. Por isso é a alternativa incorreta. A RDC ANVISA 503/2021, que substituiu a RDC 63/2000, exige que a equipe monitore e registre essas complicações.",
+  "porAlt": [
+   "A broncoaspiração é a complicação pulmonar mais grave da dieta enteral, ligada a decúbito baixo, refluxo e sonda mal posicionada.",
+   "A pressão contínua da sonda fixada contra a asa do nariz causa lesão por dispositivo médico, complicação mecânica clássica.",
+   "Diarreia é a complicação gastrointestinal mais comum, por velocidade de infusão, osmolaridade, contaminação ou antibióticos.",
+   "Constipação ocorre por baixa oferta de fibras e de água livre e pela imobilidade, e também é complicação da TNE.",
+   "Correta: ascite resulta de hipertensão portal ou hipoalbuminemia, não da terapia nutricional enteral, e por isso é a incorreta."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O objetivo da terapia nutricional é corrigir os efeitos deletérios relacionados à desnutrição, porém esse procedimento médico não está isento de complicações. Com relação às complicações relacionadas à terapia nutricional parenteral, assinale a alternativa incorreta.",
+  "alts": [
+   "Infecção relacionada ao cateter",
+   "Hiperlipidemia",
+   "Oclusão do cateter venoso central",
+   "Hiperglicemia",
+   "Estase gástrica"
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Portaria SVS/MS 272/1998 (regulamento técnico da terapia de nutrição parenteral)",
+  "coment": "A nutrição parenteral entra direto na corrente sanguínea e não passa pelo tubo digestivo. Suas complicações são infecciosas (infecção relacionada ao cateter), mecânicas (oclusão, trombose, pneumotórax na inserção) e metabólicas (hiperglicemia, hipertrigliceridemia por emulsão lipídica, distúrbios eletrolíticos, síndrome de realimentação). Estase gástrica é problema da via digestiva, que pesa na dieta enteral, e não decorre da infusão endovenosa. É, portanto, a alternativa incorreta.",
+  "porAlt": [
+   "A infecção de corrente sanguínea relacionada ao cateter é a complicação mais temida da nutrição parenteral.",
+   "A emulsão lipídica pode elevar triglicerídeos e colesterol, e a hiperlipidemia é complicação metabólica descrita.",
+   "A oclusão do cateter central por precipitado, lipídio ou trombo é complicação mecânica da nutrição parenteral.",
+   "A carga de glicose da solução causa hiperglicemia, a complicação metabólica mais frequente.",
+   "Correta: estase gástrica é intercorrência da via digestiva, ligada à dieta enteral, e não complicação da via parenteral."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A nutrição parenteral é uma nutrição intravenosa administrada por meio de um cateter colocado em uma veia. A via de administração da nutrição parenteral pode ser periférica ou central. A osmolaridade máxima tolerada por veias periféricas é de ______. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "630 mOm/l (miliosmol por litro)",
+   "320 mOm/l (miliosmol por litro)",
+   "360 mOm/l (miliosmol por litro)",
+   "900 mOm/l (miliosmol por litro)",
+   "800 mOm/l (miliosmol por litro)"
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4, 2017), item 4.1",
+  "coment": "Soluções hiperosmolares lesam o endotélio de veias de pequeno calibre e causam flebite química. O limite aceito para a veia periférica é de 900 mOsm/L: o Caderno 4 da ANVISA (2017) manda não usar cateter periférico para nutrição parenteral com mais de 10% de dextrose ou solução acima de 900 mOsm/L. Acima disso, a nutrição parenteral vai por acesso central, onde o alto fluxo dilui a solução. A unidade grafada \"mOm/l\" está assim no caderno; a correta é mOsm/L.",
+  "porAlt": [
+   "630 mOsm/L está abaixo do limite; soluções nessa faixa são toleradas, mas o teto aceito para veia periférica é maior.",
+   "320 mOsm/L é próximo da osmolaridade do plasma e não representa o limite máximo da veia periférica.",
+   "360 mOsm/L é solução quase isotônica e não corresponde ao teto de tolerância da veia periférica.",
+   "Correta: 900 mOsm/L é o limite para via periférica; acima disso a nutrição parenteral exige acesso central (ANVISA, 2017).",
+   "800 mOsm/L ainda é tolerado, mas não é o valor máximo; o teto aceito é de 900 mOsm/L."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As dislipidemias representam fatores de risco cardiovasculares e o tratamento pode ser não-medicamentoso e medicamentoso. Sobre o tratamento das dislipidemias, assinale a alternativa correta.",
+  "alts": [
+   "As fibras insolúveis diminuem a absorção intestinal do colesterol. Recomenda-se a ingestão de 5 a 10 g/dia (gramas por dia)",
+   "A redução da ingestão do colesterol se faz pela diminuição do consumo de alimentos de origem animal",
+   "Recomenda-se a ingestão de gorduras trans menor que 3,5 % (por cento) das calorias totais da dieta",
+   "Para a hipertrigliceridemia secundária à obesidade recomenda-se dieta normocalórica e restrição total do consumo de álcool",
+   "O aumento do consumo de gorduras não está relacionado à elevação da concentração plasmática de colesterol"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Atualização da Diretriz Brasileira de Dislipidemias e Prevenção da Aterosclerose (SBC, 2017)",
+  "coment": "O colesterol alimentar existe apenas em alimentos de origem animal (carnes gordas, vísceras, gema, laticínios integrais), e por isso reduzir a ingestão de colesterol é reduzir esses alimentos. As demais trocam conceitos da diretriz da SBC: são as fibras solúveis, e não as insolúveis, que diminuem a absorção intestinal do colesterol; a gordura trans deve ser excluída da dieta, com meta inferior a 1% das calorias; e a hipertrigliceridemia ligada à obesidade pede dieta hipocalórica para perda de peso, não normocalórica.",
+  "porAlt": [
+   "São as fibras solúveis (aveia, psyllium, pectina) que reduzem a absorção do colesterol; as insolúveis agem no trânsito intestinal.",
+   "Correta: o colesterol dietético só existe em alimentos de origem animal, e reduzi-los é o modo de reduzir sua ingestão.",
+   "A diretriz recomenda excluir a gordura trans, com consumo inferior a 1% das calorias totais, e não até 3,5%.",
+   "Na hipertrigliceridemia secundária à obesidade a dieta deve ser hipocalórica, para perda de peso, e não normocalórica.",
+   "O excesso de gordura, sobretudo saturada e trans, eleva o colesterol plasmático; a afirmativa nega uma relação estabelecida."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O estado nutricional interfere no tratamento oncológico. O diagnóstico nutricional é a base da prevenção e do tratamento da desnutrição associado ao câncer. Sobre a avaliação e terapia nutricional de pacientes oncológicos adultos, assinale a alternativa correta.",
+  "alts": [
+   "As recomendações de energia e proteínas são as mesmas para pacientes oncológicos com desnutrição e para pacientes oncológicos eutróficos em tratamento cirúrgico e clínico",
+   "A calorimetria indireta é o padrão-ouro para determinação das necessidades energéticas desses pacientes",
+   "A ingestão de proteínas se faz importante para a promoção do anabolismo proteico musculares, o que justifica a recomendação de uma dieta normoproteica para pacientes com câncer em tratamento de Transplante de Células-Tronco Hematopoéticas",
+   "A Terapia Nutricional Enteral (TNE) está indicada quando o paciente apresenta uma ingestão menor que 75% (por cento) das suas necessidades nutricionais pela via oral convencional",
+   "Quando a TNE for insuficiente devido a intolerâncias apresentadas pelo paciente oncológico, a nutrição parenteral não deve ser iniciada como suplemento da TNE"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "ESPEN guidelines on nutrition in cancer patients (2017); Diretriz BRASPEN de Terapia Nutricional no Paciente com Câncer (2019)",
+  "coment": "A calorimetria indireta mede o consumo de oxigênio e a produção de gás carbônico e calcula o gasto energético real; por isso é o padrão-ouro, e as fórmulas de bolso são a alternativa quando ela não está disponível. O paciente oncológico desnutrido precisa de mais energia e proteína que o eutrófico, e o transplante de células-tronco hematopoéticas exige dieta hiperproteica. A terapia enteral é indicada quando a ingestão oral fica abaixo de cerca de 60% das necessidades, e a nutrição parenteral complementa a enteral insuficiente.",
+  "porAlt": [
+   "O desnutrido precisa de oferta maior de energia e proteína do que o eutrófico; as recomendações não são as mesmas.",
+   "Correta: a calorimetria indireta mede o gasto energético real e é o padrão-ouro para definir as necessidades.",
+   "O TCTH é situação de hipercatabolismo, com recomendação de dieta hiperproteica, e não normoproteica.",
+   "A terapia enteral é indicada quando a ingestão oral fica abaixo de cerca de 60% das necessidades, não de 75%.",
+   "Quando a enteral não atinge a meta por intolerância, a parenteral suplementar está indicada; a afirmativa diz o contrário."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para garantir a qualidade e a segurança na terapia nutricional enteral, a verificação de alguns itens é necessária. Sobre as boas práticas que devem ser realizadas no momento que precede o recebimento e instalação da dieta, assinale a alternativa incorreta.",
+  "alts": [
+   "Proceder à inspeção visual da nutrição enteral, antes de sua administração",
+   "Confirmar a localização da sonda e sua permeabilidade, antes de iniciar a administração da nutrição enteral",
+   "Adaptar o equipo de infusão adequado ao recipiente contendo a nutrição enteral",
+   "Observar o prazo de validade da nutrição enteral",
+   "Infundir todo o volume de dieta enteral enviado, mesmo que seja diferente da prescrição, para evitar desperdício"
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "RDC ANVISA 503/2021 (terapia nutricional enteral)",
+  "coment": "Antes de instalar a dieta enteral a enfermagem confere o produto e o paciente: inspeção visual do frasco (integridade, aspecto, partículas), rótulo e prazo de validade, equipo adequado ao recipiente, posição e permeabilidade da sonda. A RDC ANVISA 503/2021, que substituiu a RDC 63/2000, exige que a dieta administrada corresponda à prescrição. Infundir volume diferente do prescrito para evitar desperdício é erro de administração; a divergência é comunicada e registrada. Por isso a última é a incorreta.",
+  "porAlt": [
+   "A inspeção visual da embalagem e do conteúdo antes da administração é boa prática prevista na norma da TNE.",
+   "Confirmar posição e permeabilidade da sonda antes de iniciar evita infusão em via errada e broncoaspiração.",
+   "O equipo próprio para nutrição enteral, compatível com o recipiente, previne conexão errada com via venosa.",
+   "Conferir o prazo de validade da dieta é etapa obrigatória do recebimento antes da instalação.",
+   "Correta: é incorreta, porque o volume administrado deve seguir a prescrição; a divergência é comunicada, não infundida."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Insuficiência Renal Aguda (IRA) é uma síndrome caracterizada pelo declínio rápido e repentino da função renal, com acúmulo de metabólitos, toxinas e medicamentos no sangue. Também ocorre alteração nas funções intrínsecas dos rins. Analise as afirmativas abaixo relacionadas à nutrição de pacientes com IRA.\nI. O manejo de eletrólitos de pacientes com IRA deve ser individualizado, de acordo com os níveis séricos.\nII. Proteínas devem ser restringidas para pacientes hipercatabólicos com objetivo de evitar ou retardar o início da Terapia de Reposição Renal.\nIII. Formulações padrão de nutrição enteral e/ou parenteral não são recomendadas para pacientes hipercatabólicos com IRA e/ou em Terapia de Reposição Renal.\nIV. A nutrição hipocalórica, menor que 70% (por cento) do gasto energético, é recomendada na fase inicial da enfermidade aguda, com aumento progressivo após o terceiro dia, nos pacientes em recuperação.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I, II, III e IV",
+   "I, II e IV apenas",
+   "II e III apenas",
+   "I e III apenas",
+   "I e IV apenas"
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "ESPEN guideline on clinical nutrition in hospitalized patients with acute or chronic kidney disease (2021); ESPEN guideline on clinical nutrition in the ICU (2019)",
+  "coment": "Na lesão renal aguda, os eletrólitos são ajustados caso a caso pelos níveis séricos (I correta). A ESPEN (2021) não recomenda restringir proteína para adiar a terapia renal substitutiva no paciente hipercatabólico, porque isso agrava a perda muscular (II errada), e indica fórmulas padrão de enteral ou parenteral, reservando as específicas para distúrbio eletrolítico (III errada). Na fase aguda inicial do doente crítico, a ESPEN (2019) recomenda oferta hipocalórica, abaixo de 70% do gasto energético, com progressão após o terceiro dia (IV correta).",
+  "porAlt": [
+   "I, II, III e IV inclui II e III, que estão erradas: proteína não se restringe e fórmula padrão é recomendada.",
+   "I, II e IV inclui II, que está errada: restringir proteína no hipercatabólico agrava a perda muscular.",
+   "II e III reúne justamente as duas afirmativas erradas da questão.",
+   "I e III erra ao incluir III: as fórmulas padrão são as recomendadas na lesão renal aguda.",
+   "Correta: I e IV; eletrólitos se individualizam e a oferta inicial é hipocalórica, abaixo de 70% do gasto."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Nutrição Parenteral (NP) consiste em uma solução estéril de nutrientes (aminoácidos, carboidratos, lipídios, sais minerais e vitaminas) infundida via endovenosa, por meio de um acesso venoso periférico ou central. Sobre a nutrição parenteral, assinale a alternativa correta.",
+  "alts": [
+   "Pacientes que podem ingerir ou absorver mais de 60% (por cento) das necessidades nutricionais, por via oral ou enteral, têm indicação de terapia nutricional parenteral",
+   "A NP manipulada é mais adequada para o paciente, quando comparada às bolsas prontas para uso",
+   "A NP periférica não é indicada para pacientes que necessitem de aporte nutricional endovenoso parcial ou total por até 2 semanas, com baixa osmolaridade",
+   "É recomendado que a nutrição parenteral seja instalada em via/ lúmen exclusivo",
+   "A instalação da NP industrializada ocorre antes da mistura entre os compartimentos, por rompimento do sistema de selagem que os separa"
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Portaria SVS/MS 272/1998 (terapia de nutrição parenteral); ANVISA, Caderno 4 (2017)",
+  "coment": "A nutrição parenteral é solução de alto risco, rica em glicose e lipídio, que favorece crescimento microbiano e incompatibilidades. Por isso corre em via ou lúmen exclusivo, sem coleta de sangue nem outros medicamentos pela mesma via. Quem absorve mais de 60% das necessidades por via oral ou enteral não tem indicação de parenteral. A periférica serve justamente ao suporte parcial ou total de curta duração, até cerca de duas semanas, com baixa osmolaridade. A bolsa industrializada de compartimentos é misturada antes da instalação.",
+  "porAlt": [
+   "Quem absorve mais de 60% das necessidades por via oral ou enteral não tem indicação de nutrição parenteral.",
+   "A bolsa manipulada não é superior por definição; as bolsas prontas para uso são opção segura e padronizada.",
+   "A NP periférica é indicada exatamente para suporte parcial ou total por até cerca de 2 semanas, com baixa osmolaridade.",
+   "Correta: a nutrição parenteral deve correr em via ou lúmen exclusivo, para reduzir infecção e incompatibilidade.",
+   "Os compartimentos da bolsa industrializada são misturados, pelo rompimento do selo, antes da instalação, e não depois."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Nos pacientes queimados, há uma lesão tecidual decorrente de um trauma de origem térmica. As lesões são classificadas de acordo com sua extensão e profundidade e essas características se relacionam diretamente com a gravidade de prognóstico desses pacientes. Sobre a avaliação e a terapia nutricional do paciente queimado, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) A terapia nutricional precoce não é recomendada para esses pacientes, pois pode contribuir para maiores complicações.\n( ) As fórmulas para determinação da necessidade de energia desses pacientes levam em consideração a superfície corporal queimada.\n( ) A suplementação de glutamina é recomendada para pacientes com superfície corporal queimada maior ou igual a 20% (por cento).\n( ) Devido ao intenso catabolismo proteico e perdas nitrogenadas, pacientes queimados possuem necessidades proteicas elevadas.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "F - V - V - V",
+   "F - F - F - V",
+   "V - V - F - V",
+   "F - V - F - V"
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Queimaduras",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "ESPEN guideline on clinical nutrition in the ICU (2019), seção do paciente queimado",
+  "coment": "O grande queimado tem hipermetabolismo e catabolismo proteico intensos, com perda de nitrogênio pela ferida; por isso a necessidade proteica é elevada e a terapia nutricional deve começar cedo, nas primeiras horas, o que torna falsa a primeira afirmativa. As fórmulas de estimativa de energia para queimados, como a de Curreri, incluem a superfície corporal queimada. A ESPEN (2019) recomenda glutamina enteral adicional no queimado com mais de 20% de superfície corporal queimada. Sequência: F, V, V, V.",
+  "porAlt": [
+   "V - V - V - V erra a primeira afirmativa: a terapia nutricional precoce é recomendada no queimado.",
+   "Correta: F - V - V - V; nutrição precoce, fórmulas com a superfície queimada, glutamina acima de 20% e proteína elevada.",
+   "F - F - F - V nega que as fórmulas usem a superfície queimada e que a glutamina seja indicada, ambas verdadeiras.",
+   "V - V - F - V erra ao aceitar que a nutrição precoce seja contraindicada e ao negar a glutamina.",
+   "F - V - F - V erra ao negar a suplementação de glutamina, recomendada com superfície queimada de 20% ou mais."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A abreviação do jejum pré-operatório vem sendo amplamente recomendada para cirurgias eletivas, podendo-se destacar as recomendações do Projeto ACERTO (Acelerando a recuperação total pós-operatória). Sobre o jejum pré-operatório, assinale a alternativa correta.",
+  "alts": [
+   "Para cirurgias eletivas, recomenda-se jejum de 12 horas para sólidos e de 12 horas para líquidos contendo carboidratos",
+   "Para cirurgias eletivas, recomenda-se jejum de 12 horas para sólidos e de 8 horas para líquidos contendo carboidratos",
+   "Para cirurgias eletivas, recomenda-se jejum de 8 horas para sólidos e de 4 horas para líquidos contendo carboidratos",
+   "Para cirurgias eletivas, recomenda-se jejum de 6 horas para sólidos e de 2 horas para líquidos contendo carboidratos",
+   "Para cirurgias eletivas, recomenda-se jejum de 4 horas para sólidos e de 1 hora para líquidos contendo carboidratos"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretriz ACERTO de intervenções nutricionais no perioperatório em cirurgia geral eletiva (CBC/BRASPEN, 2017); Res. CFM 2.174/2017, Anexo II",
+  "coment": "O Projeto ACERTO, versão brasileira do ERAS, abrevia o jejum pré-operatório: 6 a 8 horas para sólidos e líquido claro enriquecido com carboidrato até 2 horas antes da anestesia, em cirurgia eletiva sem risco aumentado de aspiração. O jejum prolongado desde a meia-noite causa sede, desidratação, hipoglicemia e resistência à insulina. A Res. CFM 2.174/2017 também admite líquidos claros até 2 horas e refeição leve até 6 horas antes.",
+  "porAlt": [
+   "12 horas para sólidos e para líquidos é o jejum prolongado que o ACERTO busca abolir.",
+   "12 horas para sólidos e 8 horas para líquidos mantém jejum prolongado, sem base nas diretrizes atuais.",
+   "8 horas para sólidos é aceito para refeição completa, mas 4 horas para líquido com carboidrato não é a recomendação.",
+   "Correta: 6 horas para sólidos e 2 horas para líquidos claros com carboidrato é a abreviação do jejum do ACERTO.",
+   "4 horas para sólidos e 1 hora para líquidos é intervalo menor do que o seguro e não é recomendado."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Após ingeridos, os lipídios, ao alcançarem o duodeno, estimulam a liberação de CCK, hormônio que promove a liberação de suco pancreático e ejeção de ______, produzida pelo(a) ______. A ______ promove a emulsificação das gorduras em gotículas menores, permitindo a ação da ______.\nAssinale a alternativa que preencha correta e respectivamente as lacunas.",
+  "alts": [
+   "bile / fígado / bile / lipase / pancreática",
+   "amilase / pâncreas / amilase / bile",
+   "colipase / fígado / colipase / amilase pancreática",
+   "tripsina / vesícula biliar / tripsina / lipase pancreática",
+   "bile / vesícula biliar / bile / amilase pancreática"
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Guyton e Hall, Tratado de Fisiologia Médica (14ª ed., 2021), digestão dos lipídios",
+  "coment": "Quando a gordura chega ao duodeno, a colecistocinina (CCK) estimula a secreção pancreática e a contração da vesícula, que ejeta a bile. A bile é produzida pelo fígado e apenas armazenada e concentrada na vesícula. Os sais biliares emulsificam a gordura em gotículas menores, o que aumenta a superfície para a ação da lipase pancreática. A alternativa correta tem cinco segmentos porque o caderno separou \"lipase / pancreática\"; lida como \"lipase pancreática\", preenche as quatro lacunas.",
+  "porAlt": [
+   "Correta: bile, produzida pelo fígado, emulsifica a gordura e permite a ação da lipase pancreática.",
+   "A amilase digere carboidratos, não é ejetada por ação da CCK sobre a vesícula e não emulsifica gordura.",
+   "A colipase é cofator pancreático da lipase, não é produzida pelo fígado e não emulsifica a gordura.",
+   "A tripsina é protease pancreática e não é produzida pela vesícula biliar, que só armazena a bile.",
+   "A vesícula armazena a bile, mas quem a produz é o fígado, e a gordura emulsificada sofre ação da lipase, não da amilase."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Quando um indivíduo não é capaz de ingerir quantidade de energia e nutrientes suficientes, em consequência de fatores como anorexia, necessidades aumentadas, dentre outros fatores, os suplementos devem ser empregados. Sobre os suplementos nutricionais na terapia nutricional via oral, assinale a alternativa correta.",
+  "alts": [
+   "A suplementação com módulo de fibras não deve ultrapassar 25 g/dia (gramas por dia) devido ao aumento de efeitos colaterais, como distensão abdominal",
+   "Os módulos de proteína podem ser compostos apenas por proteína parcialmente hidrolisada e aminoácidos cristalinos",
+   "Suplementos especializados auxiliam o manejo nutricional em situações clínicas que não seriam contornadas com alimentos e suplementos convencionais",
+   "Os suplementos nutricionais podem ser módulos industrializados, não podendo ser caseiros",
+   "Os triglicérides de cadeia média são contraindicados nos diagnósticos de má absorção"
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Waitzberg, Nutrição Oral, Enteral e Parenteral na Prática Clínica (5ª ed., 2017)",
+  "coment": "Os suplementos orais completam a ingestão quando a alimentação não cobre as necessidades. Os especializados têm composição ajustada a uma condição clínica (doença renal, diabetes, cicatrização, má absorção) e atendem situações que a dieta comum e o suplemento padrão não resolvem. Por isso a terceira é a correta. As demais restringem o que não é restrito: módulos de proteína podem conter proteína intacta, suplementos podem ser preparações caseiras, e os triglicerídeos de cadeia média são indicados na má absorção de gordura, porque são absorvidos sem micela.",
+  "porAlt": [
+   "A afirmativa fixa um teto rígido de 25 g/dia; a dose do módulo de fibras segue a indicação e a tolerância do paciente.",
+   "Módulos de proteína também podem ser de proteína intacta, como caseína e proteína do soro; \"apenas\" torna a frase errada.",
+   "Correta: suplementos especializados atendem condições clínicas que alimentos e suplementos convencionais não contornam.",
+   "Suplementos podem ser industrializados ou caseiros; a frase exclui sem razão as preparações caseiras.",
+   "Os triglicerídeos de cadeia média são indicados, e não contraindicados, na má absorção, por dispensarem micela."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Pacientes com diabetes mellitus podem fazer uso de terapia nutricional enteral (TNE). Algumas estratégias podem ser utilizadas para otimizar o esvaziamento gástrico em casos de gastroparesia diabética. Sobre as estratégias para otimizar o esvaziamento gástrico na TNE, assinale a alternativa correta.",
+  "alts": [
+   "Uso de dieta isosmolar, fórmula hiperlipídica e hipoproteica",
+   "Uso de dieta hiperosmolar, fórmula com fibras solúveis e hiperlipídica",
+   "Uso de dieta hiposmolar, fórmula rica em fibras e isenta de lipídios",
+   "Uso de dieta hiperosmolar, isenta de fibras e hiperlipídica",
+   "Uso de dieta isosmolar, fórmula isenta de fibras e com menor quantidade de lipídios"
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Waitzberg, Nutrição Oral, Enteral e Parenteral na Prática Clínica (5ª ed., 2017), terapia nutricional no diabetes",
+  "coment": "Na gastroparesia diabética o estômago esvazia devagar. Três fatores da fórmula retardam ainda mais o esvaziamento: osmolaridade alta, gordura e fibra. Por isso a estratégia é dieta isosmolar, isenta de fibras e com menos lipídios, além de infusão contínua, cabeceira elevada e, se a intolerância persiste, sonda pós-pilórica e procinético prescrito. As outras opções incluem fórmula hiperosmolar, hiperlipídica ou rica em fibras, que pioram a estase.",
+  "porAlt": [
+   "A fórmula hiperlipídica retarda o esvaziamento gástrico, e a proteína não precisa ser reduzida.",
+   "Dieta hiperosmolar e hiperlipídica retarda o esvaziamento, e a fibra solúvel também lentifica o trânsito gástrico.",
+   "A fórmula rica em fibras retarda o esvaziamento, e não há indicação de retirar todo o lipídio.",
+   "Dieta hiperosmolar e hiperlipídica é o oposto do que se busca na gastroparesia.",
+   "Correta: dieta isosmolar, sem fibras e com menos lipídios é a que menos retarda o esvaziamento gástrico."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Nutrição Parenteral e Enteral",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O ______ podem ser mais suscetíveis do que outros órgãos à ocorrência de reações adversas ao tratamento antineoplásico, pois o alto metabolismo e a acentuada proliferação celular contribuem para essa suscetibilidade e tornam esse órgão um alvo de toxicidade. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "tecido cutâneo e seus anexos",
+   "tecido linfático",
+   "tecido muscular",
+   "sistema digestório e excretor",
+   "sistema reprodutor e urinário"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ESMO Clinical Practice Guidelines, dermatological toxicities related to anticancer agents (2021)",
+  "coment": "Os antineoplásicos agem sobre células de proliferação rápida, e a pele e seus anexos (folículo piloso, unhas, glândulas) têm renovação contínua e metabolismo alto. Por isso estão entre os alvos mais frequentes de toxicidade: alopecia, erupção acneiforme dos anti-EGFR, síndrome mão-pé, hiperpigmentação, fotossensibilidade e alterações ungueais. A frase da banca descreve um único órgão com alto metabolismo e proliferação, o que corresponde ao tecido cutâneo e seus anexos.",
+  "porAlt": [
+   "Correta: a pele e seus anexos têm proliferação contínua e metabolismo alto, e são alvo frequente de toxicidade.",
+   "O tecido linfático sofre mielotoxicidade, mas a frase descreve a pele e seus anexos, alvo dermatológico.",
+   "O tecido muscular tem baixa taxa de proliferação e não é alvo típico dessa suscetibilidade.",
+   "O sistema digestório sofre mucosite, mas a lacuna pede um órgão com anexos, e o enunciado trata da pele.",
+   "Os sistemas reprodutor e urinário têm toxicidades próprias, mas não são o órgão descrito no enunciado."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A síndrome mão-pé, também conhecida como eritrodisestesia palmo-plantar é um efeito colateral caracterizado por quadro inicial de parestesia, podendo evoluir com surgimento de eritema, rachaduras, dor, e em casos mais intensos, pode haver descamação, flictenas e infecções secundárias. Assinale a alternativa que apresenta incorretamente quais quimioterápicos que mais frequentemente causam a síndrome mão-pé.",
+  "alts": [
+   "Capecitabina",
+   "Doxorrubicina Lipossomal",
+   "Fluorouracil",
+   "Sorafenibe",
+   "Daunorrubicina"
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ESMO Clinical Practice Guidelines, dermatological toxicities related to anticancer agents (2021)",
+  "coment": "A síndrome mão-pé (eritrodisestesia palmoplantar) é típica de capecitabina, fluorouracil em infusão contínua e doxorrubicina lipossomal, e uma forma semelhante, a reação cutânea mão-pé, ocorre com inibidores de tirosina-quinase como sorafenibe e sunitinibe. A daunorrubicina convencional tem como toxicidades principais mielossupressão e cardiotoxicidade, e não está entre as que mais causam a síndrome. A enfermagem orienta emoliente com ureia, evitar atrito e calor e comunicar para ajuste de dose.",
+  "porAlt": [
+   "A capecitabina é a causa mais citada de síndrome mão-pé, e por isso não é a resposta incorreta.",
+   "A doxorrubicina lipossomal causa síndrome mão-pé com frequência, pela formulação de longa circulação.",
+   "O fluorouracil, sobretudo em infusão contínua, está entre os que causam síndrome mão-pé.",
+   "O sorafenibe causa a reação cutânea mão-pé dos inibidores de tirosina-quinase, frequente na prática.",
+   "Correta: a daunorrubicina tem como toxicidades marcantes mielossupressão e cardiotoxicidade, não a síndrome mão-pé."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No Brasil, para a classificação da flebite, é mais comum a aplicação da escala de flebite da (Infusion Nurses Society) INS, que varia de 0 a 4 graus. Assinale a alternativa que descreve corretamente o grau 3 desta escala de flebite.",
+  "alts": [
+   "Presença de eritema ou dor local",
+   "Presença de eritema, dor e edema local",
+   "Presença de eritema, com ou sem dor ou edema com endurecimento e cordão fibroso palpável",
+   "Presença de dor, com eritema e/ou edema, com endurecimento e cordão venoso palpável, com ou sem drenagem purulenta",
+   "Presença de dor, com eritema e/ou edema, com endurecimento e cordão venoso palpável maior que 2,5 cm de comprimento e drenagem purulenta"
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "INS, Infusion Therapy Standards of Practice (9ª ed., 2024); ANVISA, Caderno 4 (2017)",
+  "coment": "A escala da Infusion Nurses Society vai de 0 a 4. Grau 1: eritema com ou sem dor; grau 2: dor com eritema e/ou edema; grau 3: os sinais anteriores com endurecimento e cordão venoso palpável; grau 4: o grau 3 com cordão mais longo, acima de 2,5 cm, e drenagem purulenta. A alternativa dada como correta traz eritema, endurecimento e cordão palpável, que define o grau 3. A quarta erra ao incluir drenagem purulenta, marca do grau 4, e a quinta descreve o próprio grau 4.",
+  "porAlt": [
+   "Eritema ou dor local, sem outros sinais, corresponde ao grau 1 da escala da INS.",
+   "Eritema, dor e edema, sem endurecimento nem cordão palpável, corresponde ao grau 2.",
+   "Correta: eritema com endurecimento e cordão palpável, com ou sem dor ou edema, define o grau 3.",
+   "A drenagem purulenta é marca do grau 4; incluí-la no grau 3 torna a descrição errada.",
+   "Cordão acima de 2,5 cm com drenagem purulenta descreve o grau 4, e não o grau 3."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Dexrazoxane, é a única medicação aprovada pelo (Food and Drug Administration) FDA e pela Comissão Europeia para o tratamento de extravasamento de ______. Sua eficácia foi confirmada em ensaios clínicos verificados por biópsia. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "taxanos",
+   "antraciclinas",
+   "alcalóides da Vinca",
+   "antimetabólitos",
+   "agentes alquilantes"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "ESMO-EONS Clinical Practice Guidelines, management of chemotherapy extravasation (2012)",
+  "coment": "O dexrazoxano é o antídoto aprovado pela FDA e pela Comissão Europeia para o extravasamento de antraciclinas (doxorrubicina, epirrubicina, daunorrubicina, idarrubicina), com eficácia confirmada por biópsia. A diretriz ESMO-EONS (2012) recomenda iniciá-lo nas primeiras 6 horas e mantê-lo por três dias, com compressa fria no local, retirada do frio 15 minutos antes de cada dose. Para os alcaloides da vinca, o antídoto é a hialuronidase com compressa morna.",
+  "porAlt": [
+   "Para taxanos não há antídoto aprovado; a diretriz admite no máximo hialuronidase de forma condicional.",
+   "Correta: o dexrazoxano é o antídoto aprovado para extravasamento de antraciclinas, iniciado nas primeiras 6 horas.",
+   "Nos alcaloides da vinca o antídoto é a hialuronidase com compressa morna, e não o dexrazoxano.",
+   "Antimetabólitos são em geral não vesicantes e não têm o dexrazoxano como antídoto.",
+   "Entre os alquilantes, a mecloretamina usa tiossulfato de sódio, e o dexrazoxano não é o antídoto do grupo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A quimioterapia pode ser administrada de várias formas, oral, endovenosa entre outras, mas, a maioria dos medicamentos quimioterápicos não atravessa a barreira hematoencefálica. Assinale a alternativa que apresenta qual via deve ser utilizada para administração ultrapassar essa barreira de forma adequada.",
+  "alts": [
+   "Via otológica",
+   "Via ocular",
+   "Via intratecal",
+   "Via nasal",
+   "Via intracavitária"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "INCA, Ações de Enfermagem para o Controle do Câncer (3ª ed., 2008)",
+  "coment": "A barreira hematoencefálica impede que a maioria dos antineoplásicos dados por via oral ou endovenosa alcance o líquor em concentração eficaz. A via intratecal deposita o fármaco no espaço subaracnóideo, por punção lombar ou reservatório de Ommaya, e é usada na profilaxia e no tratamento de doença do sistema nervoso central, como na leucemia linfoblástica aguda (metotrexato, citarabina). Exige fármaco sem conservante e vigilância neurológica. Vincristina por via intratecal é erro fatal.",
+  "porAlt": [
+   "A via otológica é tópica no conduto auditivo e não alcança o sistema nervoso central.",
+   "A via ocular é tópica ou intravítrea para o olho e não vence a barreira hematoencefálica.",
+   "Correta: a via intratecal deposita o fármaco no líquor e contorna a barreira hematoencefálica.",
+   "A via nasal não é usada para levar antineoplásicos ao sistema nervoso central.",
+   "A via intracavitária trata cavidades como pleura, peritônio e bexiga, e não o sistema nervoso central."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O enfermeiro é responsável pelo gerenciamento e pela operacionalização de todas as etapas que integram o processamento de materiais na central de materiais, além de supervisionar as atividades da equipe de enfermagem que atua no setor. Analise as afirmativas abaixo.\nI. A atuação do enfermeiro não exige conhecimentos específicos relacionados aos equipamentos.\nII- A função do enfermeiro na central de materiais estéreis inicia-se na etapa de planejamento da unidade, cabendo a ele escolher os recursos materiais e humanos condizentes com as atividades desempenhadas no setor.\nIII. O enfermeiro tem as responsabilidades de selecionar, capacitar e dimensionar o pessoal, considerando o funcionamento e as atividades desempenhadas na unidade.\nIV. A competência do enfermeiro no desempenho de suas atividades garante a eficácia dos processos na central de materiais estéreis, além de colaborar para a prevenção de infecção relacionada à assistência à saúde.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I, II e III apenas",
+   "I, II e IV apenas",
+   "I, III e IV apenas",
+   "II, III e IV apenas",
+   "I, II, III e IV"
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 15/2012 (boas práticas para o processamento de produtos para saúde)",
+  "coment": "O enfermeiro da CME responde pelo planejamento da unidade, pela escolha de recursos materiais e humanos, pela seleção, capacitação e dimensionamento da equipe e pela garantia de que cada etapa do processamento (limpeza, preparo, esterilização, armazenamento e distribuição) seja eficaz, o que previne infecção relacionada à assistência. A afirmativa I está errada porque essa atuação exige conhecimento específico dos equipamentos: lavadoras, autoclaves, seladoras e indicadores de monitoramento previstos na RDC ANVISA 15/2012. Corretas: II, III e IV.",
+  "porAlt": [
+   "I, II e III inclui a afirmativa I, errada: a CME exige conhecimento específico dos equipamentos.",
+   "I, II e IV inclui a afirmativa I, que nega a necessidade de conhecer os equipamentos.",
+   "I, III e IV inclui a afirmativa I e deixa de fora a II, que é correta.",
+   "Correta: II, III e IV; o enfermeiro planeja, dimensiona e capacita a equipe e garante processos que previnem IRAS.",
+   "I, II, III e IV inclui a afirmativa I, que está errada."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Lei nº 7.498 de 25 de junho de 1986, dispõe sobre a regulamentação do exercício da enfermagem. De acordo com esta lei, analise as afirmativas abaixo e dê valores (V) Verdadeiro ou (F) Falso.\n( ) É livre o exercício da enfermagem em todo território nacional.\n( ) A enfermagem e suas atividades auxiliares somente podem ser exercidas por pessoas legalmente habilitadas e inscritas no Conselho Regional de Enfermagem com jurisdição na área onde ocorre o exercício.\n( ) O Enfermeiro exerce todas as atividades de enfermagem, cabendo-lhe privativamente a consulta de enfermagem.\n( ) O Enfermeiro exerce todas as atividades de enfermagem, cabendo-lhe como integrante da equipe de saúde, a participação em projetos de construção ou reforma de unidade de internação.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "F - F - F - F",
+   "F - V - F - V",
+   "V - F - V - F",
+   "F - V - V - F"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 7.498/1986, arts. 1º, 2º e 11",
+  "coment": "As quatro são transcrições da Lei 7.498/1986. Art. 1º: é livre o exercício da enfermagem em todo o território nacional, observadas as disposições da lei. Art. 2º: a enfermagem e suas atividades auxiliares só podem ser exercidas por pessoas legalmente habilitadas e inscritas no Coren com jurisdição na área. Art. 11, I, \"i\": a consulta de enfermagem é privativa do enfermeiro. Art. 11, II, \"d\": como integrante da equipe de saúde, cabe-lhe participar de projetos de construção ou reforma de unidades de internação. Sequência: V, V, V, V.",
+  "porAlt": [
+   "Correta: V - V - V - V; as quatro afirmativas reproduzem os arts. 1º, 2º e 11 da Lei 7.498/1986.",
+   "F - F - F - F nega dispositivos literais da Lei 7.498/1986, como o livre exercício do art. 1º.",
+   "F - V - F - V nega o livre exercício (art. 1º) e a consulta de enfermagem privativa (art. 11, I).",
+   "V - F - V - F nega a exigência de inscrição no Coren (art. 2º) e a participação em projetos de reforma.",
+   "F - V - V - F nega o art. 1º e a participação em projetos de construção ou reforma (art. 11, II, d)."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O período perioperatório, conforme a Associação Brasileira de Enfermeiros de Centro Cirúrgico, Recuperação Anestésica e Centro de Material e Esterilização (SOBECC), pode ser definido como:",
+  "alts": [
+   "o intervalo de tempo que compreende as atividades desenvolvidas em cada período cirúrgico",
+   "o intervalo de tempo entre a indicação da cirurgia, estendendo-se até o encaminhamento à sala de recuperação pós anestésica",
+   "o intervalo de tempo entre a indicação da cirurgia, estendendo-se até 24 horas após o procedimento cirúrgico",
+   "o intervalo de tempo que compreende o início do procedimento cirúrgico até o encaminhamento a sala de recuperação pós anestésica",
+   "o intervalo de tempo do momento em que o paciente é recebido no centro cirúrgico até sua saída para a unidade de origem"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "SOBECC, Diretrizes de Práticas em Enfermagem Cirúrgica e Processamento de Produtos para a Saúde (8ª ed., 2021)",
+  "coment": "Para a SOBECC, o período perioperatório é o intervalo que reúne as atividades desenvolvidas em cada período cirúrgico: pré-operatório (da decisão de operar até a transferência para a mesa), intraoperatório (da mesa até a admissão na recuperação pós-anestésica) e pós-operatório (da admissão na SRPA até a recuperação). As demais alternativas cortam o período em marcos arbitrários, como a entrada na SRPA ou as 24 horas após a cirurgia, e por isso descrevem só parte dele.",
+  "porAlt": [
+   "Correta: o perioperatório é o intervalo que abrange as atividades de cada período, pré, intra e pós-operatório.",
+   "Termina na SRPA e exclui o pós-operatório, que faz parte do perioperatório.",
+   "Limitar às 24 horas após o procedimento corta o pós-operatório, que segue até a recuperação.",
+   "Do início da cirurgia até a SRPA é o intraoperatório, apenas uma parte do perioperatório.",
+   "Da recepção no centro cirúrgico até a saída para a unidade é a permanência no CC, não o perioperatório."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A terapêutica voltada para as feridas neoplásicas atua para o controle dos sinais e sintomas e não para o processo de cicatrização. Assinale a alternativa que indica a cobertura que não é recomendada a utilização em feridas neoplásicas.",
+  "alts": [
+   "Metronidazol 0.8% gel",
+   "Ácido graxo essencial",
+   "Sulfadiazina de prata",
+   "Carvão ativado",
+   "Vaselina"
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "INCA, Tratamento e Controle de Feridas Tumorais e Úlceras por Pressão no Câncer Avançado (2009)",
+  "coment": "Na ferida neoplásica o objetivo é conforto: controlar odor, exsudato, sangramento e dor, e não cicatrizar. O ácido graxo essencial estimula angiogênese e proliferação celular e forma película que favorece a granulação, efeito indesejado sobre tecido tumoral; por isso não é recomendado nessa ferida. Metronidazol em gel e carvão ativado controlam o odor, a sulfadiazina de prata é usada pela ação antimicrobiana em lesões colonizadas, e a vaselina protege a pele perilesional e evita aderência da cobertura.",
+  "porAlt": [
+   "O metronidazol em gel a 0,8% é usado no controle do odor por anaeróbios, recomendado em feridas tumorais.",
+   "Correta: o ácido graxo essencial estimula angiogênese e proliferação, efeito indesejado na ferida tumoral.",
+   "A sulfadiazina de prata tem ação antimicrobiana e é usada em feridas tumorais colonizadas.",
+   "O carvão ativado adsorve odor e exsudato e é cobertura recomendada na ferida neoplásica.",
+   "A vaselina protege a pele ao redor e evita que a cobertura grude, o que reduz dor e sangramento na troca."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os episódios de náuseas e vômitos induzidos pela quimioterapia antineoplásica podem ser classificados de acordo com a fase de sua ocorrência. A respeito da fase aguda, assinale a alternativa que apresenta quantas horas após o início da infusão da quimioterapia.",
+  "alts": [
+   "12 horas",
+   "24 horas",
+   "36 horas",
+   "48 horas",
+   "60 horas"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "MASCC/ESMO, diretriz de antiemese (2023)",
+  "coment": "Náusea e vômito induzidos por quimioterapia se classificam pelo momento. A fase aguda ocupa as primeiras 24 horas após o início da infusão; a tardia vai do segundo ao quinto dia e é a mais subtratada, porque o paciente já está em casa; a antecipatória é condicionada e surge antes da aplicação. A profilaxia segue o potencial emetogênico do fármaco mais emetogênico do esquema, e a enfermagem orienta os comprimidos dos dias seguintes e registra os episódios.",
+  "porAlt": [
+   "12 horas é parte da fase aguda, mas o limite que a define é de 24 horas após o início da infusão.",
+   "Correta: a fase aguda compreende as primeiras 24 horas após o início da quimioterapia.",
+   "36 horas já entra na fase tardia, que começa após as primeiras 24 horas.",
+   "48 horas está dentro da fase tardia, do segundo ao quinto dia.",
+   "60 horas está na fase tardia e não corresponde ao limite da fase aguda."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a resolução COFEN n° 210/1998, são competências do enfermeiro em quimioterapia antineoplásica. Analise as afirmativas abaixo:\nI. Planejar, organizar, supervisionar, executar e avaliar todas as atividades de Enfermagem, em clientes submetidos ao tratamento quimioterápico antineoplásico, categorizando-o como um serviço de alta complexidade, alicerçados na metodologia assistencial de Enfermagem.\nII. Participar da definição da política de recursos humanos, da aquisição de material e da disposição da área física, necessários à assistência integral aos clientes.\nIII. Proporcionar condições para o aprimoramento dos profissionais de Enfermagem atuantes na área, através de cursos e estágios em instituições afins.\nIV. Formular e implementar manuais educativos aos clientes e familiares, adequando-os à sua realidade social.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I, II, III e IV",
+   "II, III e IV apenas",
+   "III e IV apenas",
+   "I e III apenas",
+   "I e II apenas"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Resoluções do COFEN",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Res. COFEN 569/2018 (regulamento técnico em quimioterapia antineoplásica), que revogou a Res. COFEN 210/1998",
+  "coment": "A Res. COFEN 210/1998, citada no enunciado, foi revogada pela Res. COFEN 569/2018, mas o regulamento técnico novo manteve as competências cobradas: planejar, organizar, supervisionar, executar e avaliar todas as atividades de enfermagem em quimioterapia, serviço classificado como de alta complexidade; participar da política de recursos humanos, da aquisição de material e da área física; proporcionar o aprimoramento dos profissionais; e elaborar manuais educativos para clientes e familiares. Hoje o processo de enfermagem segue a Res. COFEN 736/2024. As quatro estão corretas.",
+  "porAlt": [
+   "Correta: I, II, III e IV; todas são competências do enfermeiro em quimioterapia, mantidas na Res. COFEN 569/2018.",
+   "II, III e IV deixa de fora a I, que é a competência central de planejar e executar a assistência.",
+   "III e IV exclui I e II, também competências previstas na norma.",
+   "I e III exclui a participação na política de recursos humanos e os manuais educativos, ambos previstos.",
+   "I e II exclui o aprimoramento dos profissionais e os manuais educativos, ambos previstos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta como pacientes submetidos a transplante de células-tronco hematopoiéticas (TCTH) devem ser orientados em relação às vacinas de acordo com a Sociedade Brasileira de Oncologia Clínica.",
+  "alts": [
+   "Devem aguardar preferencialmente seis meses para iniciar a aplicação de vacinas inativadas, podendo antecipar a depender das condições clínicas/laboratoriais do paciente e dois anos após a enxertia medular com vacinas vivas atenuadas",
+   "Devem aguardar dois anos após a enxertia medular para iniciar qualquer esquema de vacinação",
+   "Devem iniciar imediatamente após a enxertia medular as vacinas vivas atenuadas",
+   "Na vigência de doença do enxerto contra o hospedeiro as vacinas vivas atenuadas devem ser aplicadas",
+   "Após transplante de células tronco hematopoiéticas nenhum esquema vacinal deve ser iniciado"
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Imunobiológicos especiais (CRIE)",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Manual dos Centros de Referência para Imunobiológicos Especiais (MS, 6ª ed., 2023)",
+  "coment": "O transplante de células-tronco hematopoéticas apaga a memória imunológica, e o paciente precisa ser revacinado. As vacinas inativadas começam em geral seis meses após o transplante, podendo ser antecipadas conforme a recuperação clínica e laboratorial. As vivas atenuadas, como tríplice viral e varicela, só a partir de 24 meses, e apenas sem doença do enxerto contra o hospedeiro ativa e sem imunossupressão. O esquema do SUS para esses pacientes está no Manual dos CRIE.",
+  "porAlt": [
+   "Correta: inativadas a partir de cerca de 6 meses, conforme a condição clínica, e vivas atenuadas só após 2 anos.",
+   "Esperar 2 anos para qualquer vacina deixa o paciente desprotegido; as inativadas começam por volta de 6 meses.",
+   "Vacinas vivas logo após a enxertia são contraindicadas pela imunossupressão intensa.",
+   "A doença do enxerto contra o hospedeiro ativa contraindica as vacinas vivas atenuadas.",
+   "O transplantado precisa de revacinação completa; deixar de vaciná-lo é erro."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Tendo em vista as particularidades de náuseas e vômitos induzidos por tratamento oncológico específico, o manejo sintomático destes sintomas não relacionados ao tratamento, principalmente em pacientes crônicos, também podem e devem ser tratados com medidas integrativas e complementares, além das medicamentosas. Analise as afirmativas abaixo e dê valores (V) Verdadeiro ou (F) Falso.\n( ) Acupuntura.\n( ) Orientações nutricionais.\n( ) Fracionamento de alimentos.\n( ) Técnicas de relaxamento.\n( ) Utilização de gengibre.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - F - F - F",
+   "V - F - V - V - F",
+   "F - V - V - V - F",
+   "V - V - V - V - V",
+   "F - F - F - F - F"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Política Nacional de Práticas Integrativas e Complementares, Portaria GM/MS 971/2006; Res. COFEN 739/2024",
+  "coment": "Além dos antieméticos, o manejo de náusea e vômito no paciente oncológico crônico inclui medidas não farmacológicas e integrativas: acupuntura e acupressão, orientação nutricional, refeições fracionadas e em pequeno volume, técnicas de relaxamento e gengibre como adjuvante. Todas complementam e não substituem a profilaxia medicamentosa. As práticas integrativas estão no SUS pela Portaria GM/MS 971/2006, e a Res. COFEN 739/2024 regula a atuação da enfermagem nessas práticas. Sequência: V, V, V, V, V.",
+  "porAlt": [
+   "V - V - F - F - F nega fracionamento, relaxamento e gengibre, medidas aceitas como complementares.",
+   "V - F - V - V - F nega a orientação nutricional e o gengibre, ambos usados no manejo.",
+   "F - V - V - V - F nega a acupuntura e o gengibre, que têm uso adjuvante descrito.",
+   "Correta: V - V - V - V - V; todas são medidas integrativas ou não farmacológicas que complementam os antieméticos.",
+   "F - F - F - F - F nega todas as medidas complementares, contra o que o próprio enunciado afirma."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta quais os benefícios que o laser de baixa intensidade apresenta para mucosite oral por quimioterápicos.",
+  "alts": [
+   "Antipirético, antifúngico e analgésico",
+   "Analgésico, anti-inflamatório e reparador",
+   "Antiviral e antifúngico",
+   "Cicatrizante e antifúngico",
+   "Anestésico e cicatrizante"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "MASCC/ISOO, diretriz de prática clínica para mucosite (2020)",
+  "coment": "O laser de baixa intensidade, chamado fotobiomodulação, age sobre a mitocôndria e modula a inflamação. Seus efeitos na mucosite oral são analgésico, anti-inflamatório e reparador, pois acelera a reparação do epitélio. A MASCC/ISOO (2020) recomenda a fotobiomodulação para prevenir mucosite no transplante de células-tronco hematopoéticas e na radioterapia de cabeça e pescoço. Ela não tem ação antimicrobiana nem antipirética, e por isso as alternativas com antifúngico, antiviral ou antipirético erram.",
+  "porAlt": [
+   "O laser de baixa intensidade não tem ação antipirética nem antifúngica.",
+   "Correta: a fotobiomodulação é analgésica, anti-inflamatória e reparadora do epitélio da mucosa.",
+   "O laser não tem ação antiviral nem antifúngica; infecções pedem tratamento específico.",
+   "O laser favorece reparação, mas não tem ação antifúngica, e a lista omite analgesia e anti-inflamação.",
+   "O efeito do laser é analgésico, não anestésico, e a opção deixa de fora a ação anti-inflamatória."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o sistema de graduação da Organização Mundial da Saúde (OMS), assinale a alternativa que apresenta em quantos graus a mucosite bucal pode ser classificada.",
+  "alts": [
+   "2 graus",
+   "3 graus",
+   "4 graus",
+   "5 graus",
+   "6 graus"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "OMS, escala de mucosite oral (WHO Handbook for Reporting Results of Cancer Treatment, 1979)",
+  "coment": "A escala da OMS gradua a mucosite oral de 0 a 4, o que soma cinco graus: 0, sem alteração; 1, dor e eritema sem úlcera; 2, eritema e úlceras, ainda ingere sólidos; 3, úlceras extensas, só aceita dieta líquida; 4, alimentação oral impossível. O que separa os graus é a capacidade de comer, e por isso a enfermagem registra a dieta aceita a cada avaliação. Contar só de 1 a 4 leva ao erro de marcar quatro graus.",
+  "porAlt": [
+   "Dois graus não correspondem à escala da OMS, que vai de 0 a 4.",
+   "Três graus não correspondem à escala, que inclui o grau 0 e chega ao grau 4.",
+   "Quatro graus é o erro de contar só de 1 a 4 e esquecer o grau 0, sem alteração.",
+   "Correta: a escala da OMS tem cinco graus, de 0 a 4, definidos pela capacidade de se alimentar.",
+   "Seis graus excede a escala da OMS, que termina no grau 4."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Foi prescrito para procedimento invasivo em paciente oncológico o medicamento midazolan 5mg/5ml, sendo diluída a ampola inteira em 10 ml de SF0.9% e administrar 9 ml da medicação diluída. Assinale a alternativa que apresenta quantas miligramas e quantos ml deverão ser administrados para corresponder a prescrição médica, observando que há disponível no momento apenas a apresentação 15mg/3ml.",
+  "alts": [
+   "3mg e 9ml",
+   "3mg e 2,6ml",
+   "4mg e 5ml",
+   "4mg e 2,6ml",
+   "5mg e 5ml"
+  ],
+  "gab": 1,
+  "tema": "farmaco",
+  "sub": "Cálculo de dose e diluição",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA, 2013)",
+  "coment": "Prescrição: ampola de 5 mg/5 mL mais 10 mL de SF, total 15 mL com 5 mg (1 mg em 3 mL); 9 mL contêm 3 mg. Essa é a dose. Com a ampola disponível, 15 mg/3 mL, repete-se a mesma diluição: ampola inteira mais 10 mL de SF, total 13 mL com 15 mg. Regra de três: 15 mg está para 13 mL como 3 mg está para x, e x = 2,6 mL. Portanto, 3 mg em 2,6 mL da nova solução. Midazolam é medicamento de alta vigilância e pede dupla checagem do cálculo.",
+  "porAlt": [
+   "3 mg está certo, mas 9 mL da nova diluição conteriam cerca de 10,4 mg, mais que o triplo da dose.",
+   "Correta: a dose é 3 mg, que correspondem a 2,6 mL da ampola de 15 mg/3 mL diluída em 10 mL de SF.",
+   "4 mg não é a dose prescrita, pois 9 mL de 5 mg diluídos em 15 mL contêm 3 mg.",
+   "2,6 mL está certo para 3 mg, mas a dose informada de 4 mg está errada.",
+   "5 mg é a ampola inteira original, e não os 9 mL prescritos da solução diluída."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para a administração do tratamento quimioterápico endovenoso é necessário estabelecer um acesso venoso periférico adequado. A literatura indica que se dê preferência para as veias mais______, ______, ______ evitando-se veias rígidas, endurecidas e com alterações de cor e doloridas.\nAssinale a alternativa que preencha corretamente as lacunas.",
+  "alts": [
+   "finas / distantes das articulações, menos tortuosas e móveis",
+   "calibrosas / distantes das articulações, menos tortuosas e móveis",
+   "calibrosas / próximas das articulações, mais tortuosas e móveis",
+   "finas / próximas das articulações, mais tortuosas e móveis",
+   "finas, próximas das articulações, menos tortuosas e móveis"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "INCA, Ações de Enfermagem para o Controle do Câncer (3ª ed., 2008)",
+  "coment": "Para quimioterapia por veia periférica escolhem-se veias calibrosas, íntegras, distantes das articulações, menos tortuosas e pouco móveis, no antebraço, evitando dorso da mão, fossa antecubital e veias rígidas, endurecidas, doloridas ou recém-puncionadas acima no mesmo membro. A veia calibrosa dilui o fármaco no fluxo sanguíneo e a distância da articulação reduz deslocamento do cateter e extravasamento de vesicante. As alternativas com veias finas ou próximas das articulações aumentam esse risco.",
+  "porAlt": [
+   "Veias finas aumentam o risco de flebite e de extravasamento do antineoplásico.",
+   "Correta: veias calibrosas, distantes das articulações, menos tortuosas e pouco móveis reduzem o extravasamento.",
+   "Veias próximas de articulações e mais tortuosas favorecem deslocamento do cateter e extravasamento.",
+   "Veias finas, próximas de articulações e tortuosas reúnem os piores critérios para quimioterapia.",
+   "Veias finas e próximas de articulações aumentam o risco de flebite e extravasamento."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Ifosfamida é um agente citostático que bloqueia a divisão celular, por um mecanismo variável, provocando assim a morte da célula. Os citostáticos são utilizados no tratamento de tumores em geral. Para a profilaxia da cistite hemorrágica, assinale a alternativa que apresenta em combinação com qual medicação a ifosfamida deve ser usada.",
+  "alts": [
+   "Granisetrona",
+   "Ciclofosfamida",
+   "Mesna",
+   "Ácido folínico",
+   "Furosemida"
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "INCA, Ações de Enfermagem para o Controle do Câncer (3ª ed., 2008)",
+  "coment": "Ifosfamida e ciclofosfamida geram acroleína, metabólito que lesa o urotélio e causa cistite hemorrágica. A mesna (mercaptoetanossulfonato de sódio) se concentra na urina e se liga à acroleína, neutralizando-a; por isso a ifosfamida é sempre associada à mesna, junto com hidratação vigorosa, micções frequentes e balanço hídrico. A enfermagem confere a mesna no horário prescrito e observa hematúria. Ácido folínico é o resgate do metotrexato, e granisetrona é antiemético.",
+  "porAlt": [
+   "A granisetrona é antiemético antagonista 5-HT3 e não protege a bexiga da acroleína.",
+   "A ciclofosfamida também produz acroleína e causa cistite hemorrágica; não é profilaxia.",
+   "Correta: a mesna neutraliza a acroleína na urina e previne a cistite hemorrágica da ifosfamida.",
+   "O ácido folínico é o resgate do metotrexato em dose alta, e não o uroprotetor da ifosfamida.",
+   "A furosemida aumenta a diurese, mas não neutraliza a acroleína e não substitui a mesna."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta incorretamente como a Sistematização da Assistência de Enfermagem Perioperatória, permite ao enfermeiro do centro cirúrgico, qualificar a assistência a ser dispensada aos pacientes no período perioperatório.",
+  "alts": [
+   "Planejando a assistência segura",
+   "Promovendo melhor comunicação entre as equipes",
+   "Monitorando e analisando os indicadores para propiciar efetividade dos processos de enfermagem",
+   "Avaliando as necessidades de cada paciente cirúrgico",
+   "Demonstrando as dificuldades encontradas no centro cirúrgico"
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "SOBECC, Diretrizes de Práticas em Enfermagem Cirúrgica (8ª ed., 2021); Res. COFEN 736/2024",
+  "coment": "A Sistematização da Assistência de Enfermagem Perioperatória organiza o cuidado nas fases pré, intra e pós-operatória, aplicando o processo de enfermagem, hoje regido pela Res. COFEN 736/2024. Ela permite avaliar as necessidades de cada paciente, planejar uma assistência segura, melhorar a comunicação entre as equipes e acompanhar indicadores para dar efetividade aos processos. Expor as dificuldades do centro cirúrgico não é finalidade da SAEP; por isso a última é a incorreta.",
+  "porAlt": [
+   "Planejar a assistência segura é finalidade central da SAEP, alinhada à cirurgia segura.",
+   "A SAEP melhora a comunicação entre equipes, inclusive na passagem do paciente entre setores.",
+   "Acompanhar e analisar indicadores dá efetividade aos processos de enfermagem perioperatória.",
+   "Avaliar as necessidades individuais do paciente cirúrgico é a primeira etapa da SAEP.",
+   "Correta: expor dificuldades do centro cirúrgico não é finalidade da SAEP, e por isso é a incorreta."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em conformidade com a Política Nacional de Atenção às Urgências, a portaria nº 2.648, de 7 de novembro de 2011, redefine as diretrizes para implantação do Componente Unidade de Pronto Atendimento (UPA 24h) e do conjunto de serviços de urgência 24 (vinte e quatro) horas da Rede de Atenção às Urgências. Analise as afirmativas abaixo e dê valores (V) Verdadeiro ou (F) Falso.\n( ) A Unidade de Pronto Atendimento 24h é o estabelecimento de saúde de complexidade intermediária situado entre a Atenção Básica à Saúde e a Rede Hospitalar.\n( ) A Unidade de Pronto Atendimento 24h deve compor uma rede organizada de atenção às urgências, em conjunto com a Atenção Básica à Saúde e com a Rede Hospitalar.\n( ) A Unidade de Pronto Atendimento 24h em conformidade com a lógica de acolhimento e de classificação de risco, deve possuir apenas médico e equipe de enfermagem compatível com seu porte.\n( ) A Unidade de Pronto Atendimento 24h, deverá funcionar de modo ininterrupto nas 24 (vinte e quatro) horas do dia e em todos os dias da semana, incluídos feriados e pontos facultativos.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - F - F",
+   "F - V - V - V",
+   "V - F - V - V",
+   "F - V - F - V",
+   "V - V - F - V"
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 10/2017 (UPA 24h), consolidada na Portaria de Consolidação 3/2017",
+  "coment": "A Portaria 2.648/2011, citada no enunciado, foi substituída pela Portaria GM/MS 342/2013 e depois pela Portaria GM/MS 10/2017, hoje consolidada na PRC 3/2017, que mantém os conceitos cobrados. A UPA 24h é estabelecimento de complexidade intermediária entre a atenção básica e a rede hospitalar, compõe com elas a rede de urgências e funciona de modo ininterrupto, todos os dias, inclusive feriados. A terceira é falsa porque a equipe não se limita a médico e enfermagem: a unidade conta com equipe multiprofissional. Sequência: V, V, F, V.",
+  "porAlt": [
+   "V - V - F - F erra a quarta afirmativa: a UPA funciona 24 horas, todos os dias, inclusive feriados.",
+   "F - V - V - V nega a complexidade intermediária e aceita a equipe restrita a médico e enfermagem.",
+   "V - F - V - V nega que a UPA componha a rede de urgências e aceita a equipe restrita.",
+   "F - V - F - V nega que a UPA seja de complexidade intermediária, entre a atenção básica e o hospital.",
+   "Correta: V - V - F - V; só é falsa a ideia de equipe apenas médica e de enfermagem."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Oncologia",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o trecho abaixo: Cepas de ______ com fatores de ligação específicos, com capacidade de atravessar o epitélio da bexiga e dos ureteres causam de 80 a 90% das infecções do trato urinário na faixa etária pediátrica. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "klebsiella",
+   "proteus mirabilis",
+   "escherichia coli",
+   "pseudomonas aeruginosa",
+   "enterococos"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Nelson, Tratado de Pediatria (21ª ed., 2020), infecção do trato urinário",
+  "coment": "A Escherichia coli uropatogênica causa de 80% a 90% das infecções urinárias na infância. Suas fímbrias, ou adesinas, se ligam ao urotélio e permitem que a bactéria suba pela bexiga e pelos ureteres até o rim. Klebsiella, Proteus, Enterococcus e Pseudomonas respondem pelo restante, mais em malformações urinárias, cateterismo e uso prévio de antibiótico. Na prática, a enfermagem garante coleta adequada de urina, por jato médio ou cateterismo, antes do antibiótico.",
+  "porAlt": [
+   "Klebsiella causa parte das infecções urinárias, mas é bem menos frequente que a E. coli na infância.",
+   "Proteus mirabilis aparece sobretudo em meninos e associado a cálculo, não em 80% a 90% dos casos.",
+   "Correta: a Escherichia coli, com fímbrias de adesão ao urotélio, causa de 80% a 90% das ITU pediátricas.",
+   "Pseudomonas aeruginosa é agente de infecção associada a cateter e uropatia, não o principal da infância.",
+   "Enterococos causam minoria das infecções urinárias, mais em lactentes e em quem usa dispositivo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta qual enzima do fígado os pacientes com Síndrome de Gilbert apresentam deficiência.",
+  "alts": [
+   "Glucuronosil-transferase",
+   "Transaminase glutâmico-pirúvica",
+   "Transaminase oxaloacética",
+   "Fosfatase alcalina",
+   "Gama-glutamil transpeptidase"
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Nelson, Tratado de Pediatria (21ª ed., 2020), metabolismo da bilirrubina",
+  "coment": "Na síndrome de Gilbert há redução da atividade da enzima UDP-glucuronosiltransferase (UGT1A1), que conjuga a bilirrubina no fígado. O resultado é hiperbilirrubinemia indireta leve e intermitente, que aparece em jejum, infecção, estresse ou esforço, com provas de função hepática normais. É condição benigna e não exige tratamento. Transaminases, fosfatase alcalina e gama-GT são marcadores de lesão hepatocelular ou colestase, e não estão deficientes.",
+  "porAlt": [
+   "Correta: a deficiência parcial da glucuronosiltransferase reduz a conjugação e eleva a bilirrubina indireta.",
+   "A transaminase glutâmico-pirúvica é marcador de lesão hepatocelular, não está deficiente no Gilbert.",
+   "A transaminase oxalacética é marcador de lesão celular e não participa da conjugação da bilirrubina.",
+   "A fosfatase alcalina sobe na colestase e no crescimento ósseo; não é a enzima deficiente.",
+   "A gama-GT é marcador de colestase e de indução enzimática, sem relação com o defeito do Gilbert."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia a sentença abaixo: Crianças com desidratação moderada a grave: é recomendada a reidratação venosa______ em 20 minutos, podendo repetir por duas vezes até que apresente diurese, aumento da pressão arterial e diminuição da frequência cardíaca. Assinale a alternativa que preencha a lacuna corretamente.",
+  "alts": [
+   "5 ml/kg",
+   "10ml/kg",
+   "15ml/kg",
+   "20 mL/kg",
+   "40 ml/kg"
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "SBP, Guia Prático de Atualização: Diarreia aguda, diagnóstico e tratamento (2017); MS, Manejo do paciente com diarreia (2023)",
+  "coment": "A frase segue a expansão rápida da SBP: na criança com desidratação grave, bolus de 20 mL/kg de soro fisiológico em cerca de 20 minutos, repetido até haver diurese, melhora do pulso e da pressão. O cartaz do Ministério da Saúde de 2023 traz outro esquema para o plano C: 30 mL/kg e depois 70 mL/kg de SF ou Ringer, em 1 hora e 5 horas no menor de 1 ano e em 30 minutos e 2 horas e meia a partir de 1 ano; recém-nascido e cardiopata começam com 10 mL/kg. Na prova, o texto da questão diz qual referência vale.",
+  "porAlt": [
+   "5 mL/kg é volume pequeno demais para expandir a criança com desidratação grave.",
+   "10 mL/kg é o bolus inicial reservado ao recém-nascido e ao cardiopata, não a regra geral.",
+   "15 mL/kg não é o volume padronizado para a expansão rápida descrita na frase.",
+   "Correta: 20 mL/kg de soro fisiológico em 20 minutos, repetidos conforme a resposta, é a expansão descrita.",
+   "40 mL/kg em 20 minutos é volume excessivo, com risco de sobrecarga hídrica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre as recomendações especiais para a suplementação de ferro em crianças, analise as afirmativas abaixo.\nI. Crianças em aleitamento materno exclusivo ou em uso de fórmula infantil só deverão receber suplementos a partir do sexto mês de idade.\nII. As crianças que recebem a estratégia NutriSUS não devem receber o suplemento de sulfato ferroso.\nIII. Crianças que não estejam em aleitamento materno exclusivo e recebam leite de vaca poderão ser submetidas à suplementação profilática de ferro a partir dos 4 meses de idade.\nIV. As crianças que apresentem doenças que cursam por acúmulo de ferro, devem ser acompanhadas individualmente para que seja avaliada a viabilidade do uso do suplemento de sulfato ferroso.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I e II apenas",
+   "I, II e III apenas",
+   "II e IV apenas",
+   "I, III e IV apenas",
+   "I, II, III e IV"
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Aleitamento e alimentação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Caderno dos Programas Nacionais de Suplementação de Micronutrientes (MS, 2022); Manual de Condutas Gerais do PNSF (MS, 2013)",
+  "coment": "As quatro reproduzem as recomendações especiais do Programa Nacional de Suplementação de Ferro. Em aleitamento materno exclusivo ou com fórmula infantil, o suplemento começa aos 6 meses. Quem não está em aleitamento exclusivo e recebe leite de vaca pode começar aos 4 meses, com a alimentação complementar. A criança da estratégia NutriSUS, que já recebe ferro no sachê de micronutrientes, não recebe sulfato ferroso. Doenças com acúmulo de ferro (falciforme, talassemia, hemocromatose) pedem avaliação individual.",
+  "porAlt": [
+   "I e II apenas deixa de fora III e IV, também previstas nas recomendações especiais do PNSF.",
+   "I, II e III apenas exclui a avaliação individual nas doenças que acumulam ferro, que é recomendação do programa.",
+   "II e IV apenas exclui o início aos 6 meses no aleitamento exclusivo e aos 4 meses com leite de vaca.",
+   "I, III e IV apenas exclui a regra do NutriSUS, que dispensa o sulfato ferroso para quem recebe o sachê.",
+   "Correta: I, II, III e IV; todas são recomendações especiais do Programa Nacional de Suplementação de Ferro."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na suplementação da vitamina A em crianças geralmente, não há efeitos colaterais, mas é possível que ocorra, o enfermeiro deve avisar à mãe que isso é normal, que os sintomas passarão e que não é preciso nenhum tratamento específico. Em relação aos efeitos colaterais, assinale a alternativa correta.",
+  "alts": [
+   "Vomito e diarreia",
+   "Inapetência, vomito e cefaleia",
+   "Dor abdominal e diarreia",
+   "Inapetência, vomito e diarreia",
+   "Cefaleia e diarreia"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Aleitamento e alimentação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Caderno dos Programas Nacionais de Suplementação de Micronutrientes (MS, 2022); Manual de Condutas Gerais do PNSVA (MS, 2013)",
+  "coment": "A megadose de vitamina A raramente causa efeitos adversos. Quando ocorrem, são transitórios, surgem nas primeiras horas e desaparecem sem tratamento: o manual do programa cita inapetência, vômito e cefaleia, e no lactente pode haver abaulamento passageiro da fontanela. A enfermagem avisa a mãe de que os sintomas passam sozinhos, registra a dose na caderneta e não repete a cápsula se a criança cuspir. A diarreia não está entre os efeitos descritos pelo programa.",
+  "porAlt": [
+   "Vômito é descrito, mas diarreia não está entre os efeitos citados pelo programa.",
+   "Correta: inapetência, vômito e cefaleia são os efeitos transitórios que o programa descreve após a megadose.",
+   "Dor abdominal e diarreia não são os efeitos colaterais descritos para a megadose de vitamina A.",
+   "Inapetência e vômito são descritos, mas a diarreia não; falta a cefaleia.",
+   "Cefaleia é descrita, mas a diarreia não faz parte dos efeitos citados pelo programa."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As crianças de 12 a 59 meses devem receber suplementação de vitamina A semestralmente. Assinale a alternativa que apresenta a dose recomendada.",
+  "alts": [
+   "100.000 UI",
+   "200.000 UI",
+   "300.000 UI",
+   "400.000 UI",
+   "500.000 UI"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Aleitamento e alimentação",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Caderno dos Programas Nacionais de Suplementação de Micronutrientes (MS, 2022); Nota Técnica MS 134/2025",
+  "coment": "O Programa Nacional de Suplementação de Vitamina A usa duas doses conforme a idade: 100.000 UI, dose única, de 6 a 11 meses, e 200.000 UI a cada 6 meses de 12 a 59 meses, nas áreas e públicos do programa. A cápsula é dada inteira, não se fraciona e, se a criança cuspir, não se repete. A dose é registrada na caderneta para respeitar o intervalo semestral, já que o excesso de vitamina A é tóxico.",
+  "porAlt": [
+   "100.000 UI é a dose única de 6 a 11 meses, e não a semestral de 12 a 59 meses.",
+   "Correta: de 12 a 59 meses a dose é 200.000 UI a cada 6 meses.",
+   "300.000 UI excede a dose do programa e aumenta o risco de toxicidade.",
+   "400.000 UI é o dobro da dose recomendada e não faz parte do programa.",
+   "500.000 UI está muito acima da dose do programa e expõe a criança a hipervitaminose A."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No exame físico, a língua no início do quadro infeccioso apresenta-se saburrosa, de aspecto esbranquiçado. No decorrer do quadro o aspecto, de tão avermelhado, passa a lembrar uma framboesa e, por isso, é a “língua em framboesa” é um achado que fala a favor de uma doença exantemática. Diante do exposto, assinale a alternativa correta.",
+  "alts": [
+   "Sarampo",
+   "Varicela",
+   "Roséola",
+   "Rosácea",
+   "Escarlatina"
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Nelson, Tratado de Pediatria (21ª ed., 2020), infecções estreptocócicas",
+  "coment": "Na escarlatina, causada pela toxina eritrogênica do estreptococo beta-hemolítico do grupo A, a língua começa saburrosa e esbranquiçada, com papilas salientes (língua em morango branco), e depois descama e fica vermelha, lembrando uma framboesa. Acompanham exantema áspero em lixa, sinal de Pastia nas dobras, palidez perioral (sinal de Filatov) e faringite. A doença de Kawasaki também tem língua em framboesa, mas não está entre as opções.",
+  "porAlt": [
+   "O sarampo tem manchas de Koplik na mucosa oral, não língua em framboesa.",
+   "A varicela tem vesículas em diferentes estágios, sem língua em framboesa.",
+   "A roséola tem febre alta seguida de exantema após a defervescência, sem alteração da língua.",
+   "Rosácea é dermatose facial crônica do adulto, não doença exantemática infecciosa.",
+   "Correta: a língua saburrosa que evolui para framboesa é sinal clássico da escarlatina estreptocócica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O diagnóstico de sobrepeso e obesidade em crianças acima de 2 anos é realizado por meio do índice de massa corporal (IMC) e dos percentis normativos de IMC do Centro de Controle e Prevenção de Doenças, conforme curvas de percentil para idade e sexo. Assinale a alternativa que caracteriza obesidade infantil.",
+  "alts": [
+   "IMC igual ou superior a P85 mas abaixo de P95",
+   "IMC igual ou superior a P85 mas acima de P95",
+   "IMC igual ou superior a P95",
+   "IMC igual ou superior a 100% do P95",
+   "IMC igual ou superior a 120% do P95"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "CDC, BMI-for-age growth charts (2000); AAP Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity (2023)",
+  "coment": "Pelas curvas de IMC para idade e sexo do CDC, a partir dos 2 anos, sobrepeso é IMC entre o percentil 85 e abaixo do percentil 95, e obesidade é IMC igual ou acima do percentil 95. A diretriz da AAP (2023) acrescenta a obesidade grave, com IMC igual ou acima de 120% do percentil 95. No Brasil, a Caderneta da Criança usa as curvas da OMS em escore-z, e o corte muda: acima de +2 é sobrepeso até 5 anos e obesidade dos 5 aos 19 anos.",
+  "porAlt": [
+   "IMC entre o percentil 85 e abaixo do 95 define sobrepeso, e não obesidade.",
+   "\"Igual ou superior a P85 mas acima de P95\" é contraditório e não é critério do CDC.",
+   "Correta: obesidade, acima de 2 anos, é IMC igual ou superior ao percentil 95 para idade e sexo.",
+   "100% do percentil 95 equivale ao próprio P95, mas não é a forma como o critério é expresso.",
+   "120% do percentil 95 define obesidade grave (classe 2), e não o critério de obesidade."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com relação as manifestações clínicas da enterobíose mais comumente encontradas em crianças, assinale a alternativa incorreta.",
+  "alts": [
+   "Prurido anal",
+   "Lesões perianais",
+   "Vulvovaginites",
+   "Fezes esbranquiçadas",
+   "Irritabilidade"
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Nelson, Tratado de Pediatria (21ª ed., 2020), enterobíase",
+  "coment": "Na enterobíase (oxiuríase), a fêmea do Enterobius vermicularis migra à noite para a região perianal e deposita ovos, causando prurido anal noturno, escoriações e lesões perianais por coçadura, irritabilidade e sono agitado; nas meninas, pode migrar para a vulva e causar vulvovaginite. Fezes esbranquiçadas (acolia) indicam obstrução biliar e não fazem parte do quadro. O diagnóstico é pela fita adesiva perianal pela manhã, antes do banho, e a família toda é tratada.",
+  "porAlt": [
+   "O prurido anal noturno é a manifestação mais característica da enterobíase.",
+   "Lesões perianais por coçadura e infecção secundária são comuns na enterobíase.",
+   "A migração do verme para a vulva causa vulvovaginite em meninas.",
+   "Correta: fezes esbranquiçadas indicam acolia por obstrução biliar e não fazem parte da enterobíase.",
+   "Irritabilidade e sono agitado decorrem do prurido noturno e são frequentes."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia a sentença abaixo: A ______ é o parâmetro bioquímico mais específico, pois se correlaciona com o ferro corporal total. As baixas concentrações indicam depleção do depósito de ferro na ausência de processos infecciosos vigentes. Assinale a alternativa que preencha a lacuna corretamente.",
+  "alts": [
+   "transferrina",
+   "ferritina",
+   "saturação da transferrina",
+   "capacidade total de ligação do ferro",
+   "protoporfirina"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "SBP, Consenso sobre Anemia Ferropriva (2021)",
+  "coment": "A ferritina sérica reflete o estoque de ferro do organismo e se correlaciona com o ferro corporal total; valores baixos indicam depleção do depósito, a primeira fase da deficiência. Como a ferritina também é proteína de fase aguda, sobe na infecção e na inflamação e pode mascarar a deficiência; por isso a frase ressalva a ausência de processo infeccioso. Transferrina, saturação da transferrina, capacidade de ligação e protoporfirina avaliam o transporte de ferro ou a eritropoese, fases mais tardias.",
+  "porAlt": [
+   "A transferrina transporta o ferro e aumenta na deficiência, mas não mede o estoque corporal.",
+   "Correta: a ferritina se correlaciona com o ferro corporal total, e valor baixo indica depleção do depósito.",
+   "A saturação da transferrina avalia o ferro de transporte e cai numa fase mais tardia.",
+   "A capacidade total de ligação do ferro sobe na deficiência, mas não mede diretamente o estoque.",
+   "A protoporfirina eritrocitária livre aumenta na eritropoese deficiente em ferro, fase posterior à depleção."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo a Organização Mundial da Saúde, define-se anemia, para crianças menores de cinco anos como níveis de hemoglobina inferiores a:",
+  "alts": [
+   "11 g/dl",
+   "11,5 g/dl",
+   "12 g/dl",
+   "12,5 g/dl",
+   "13 g/dl"
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "OMS, Guideline on haemoglobin cutoffs to define anaemia in individuals and populations (2024)",
+  "coment": "O critério clássico da OMS, usado na prova de 2023, define anemia na criança de 6 a 59 meses como hemoglobina abaixo de 11 g/dL. A diretriz da OMS de 2024 separou a faixa: de 6 a 23 meses o corte passou a 10,5 g/dL, e de 24 a 59 meses continua 11 g/dL. Como nenhuma alternativa traz 10,5 g/dL, 11 g/dL segue como resposta. Os cortes de 11,5 e 12 g/dL valem para faixas etárias maiores e para a mulher não gestante.",
+  "porAlt": [
+   "Correta: abaixo de 11 g/dL é o corte da OMS para menores de 5 anos; desde 2024, 10,5 g/dL de 6 a 23 meses.",
+   "11,5 g/dL é o corte da OMS para crianças de 5 a 11 anos, não para menores de 5.",
+   "12 g/dL é o corte para a mulher não gestante e o adolescente, não para menores de 5 anos.",
+   "12,5 g/dL não corresponde a nenhum corte da OMS para a criança pequena.",
+   "13 g/dL é o corte para o homem adulto, muito acima do critério pediátrico."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Cada criança se desenvolve em seu tempo, os marcos servem para orientar pais e cuidadores. Assinale a alternativa que, a respeito da idade das crianças, o que se espera as seguintes habilidades: estranha desconhecidos; fala algumas palavras, fala e balança a cabeça para dizer não, aponta para partes do corpo, faz rabiscos segue orientações simples.",
+  "alts": [
+   "6 a 9 meses",
+   "9 a 12 meses",
+   "18 meses",
+   "2 anos",
+   "3 anos"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "CDC e AAP, marcos do desenvolvimento revisados (Zubler et al., Pediatrics, 2022)",
+  "coment": "O conjunto descrito é típico dos 18 meses: fala algumas palavras além de mamã e papá, balança a cabeça para dizer não, aponta para partes do corpo e para mostrar algo, faz rabiscos e segue ordem simples sem gesto. Estranhar desconhecidos começa por volta dos 9 meses e ainda persiste nessa idade. Aos 9 a 12 meses a criança só balbucia sílabas e diz as primeiras palavras, e aos 2 anos já forma frases de duas palavras e corre. O marco faltante pede vigilância na consulta.",
+  "porAlt": [
+   "Aos 6 a 9 meses a criança senta e balbucia, mas não fala palavras nem faz rabiscos.",
+   "Aos 9 a 12 meses surgem as primeiras palavras, mas apontar partes do corpo e rabiscar vêm depois.",
+   "Correta: palavras soltas, dizer não com a cabeça, apontar partes do corpo e rabiscar são marcos dos 18 meses.",
+   "Aos 2 anos a criança já junta duas palavras em frases e corre, além do descrito.",
+   "Aos 3 anos a criança fala frases, conversa e copia círculos, muito além dos marcos citados."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No coração do feto existem dois desvios que são essenciais para a circulação: ______ e ______. Ambos desviam o sangue oxigenado dos pulmões do feto até o cérebro, além de outros órgãos vitais.\nAssinale a alternativa que preencha corretamente as lacunas.",
+  "alts": [
+   "o ducto arterioso e a artéria pulmonar",
+   "o forame oval e a aorta descendente",
+   "o forame oval e o ducto arterioso",
+   "o ducto arterioso e a aorta descendente",
+   "o forame oval e a artéria pulmonar"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Moore, Embriologia Clínica (11ª ed., 2020), circulação fetal",
+  "coment": "No feto o pulmão não ventila, e o sangue oxigenado vindo da placenta desvia dele por dois atalhos no coração e nos grandes vasos: o forame oval, que passa sangue do átrio direito para o esquerdo, e o ducto arterioso, que leva sangue do tronco pulmonar para a aorta. Um terceiro desvio, o ducto venoso, fica no fígado. Ao nascer, a respiração reduz a resistência pulmonar, o forame oval se fecha funcionalmente e o ducto arterioso se contrai.",
+  "porAlt": [
+   "A artéria pulmonar é vaso normal, não desvio; o ducto arterioso a liga à aorta.",
+   "A aorta descendente é vaso de distribuição, não desvio fetal; só o forame oval está certo.",
+   "Correta: forame oval e ducto arterioso desviam o sangue dos pulmões fetais.",
+   "A aorta descendente não é desvio fetal; só o ducto arterioso está certo.",
+   "A artéria pulmonar não é desvio fetal; só o forame oval está certo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Criança e do Adolescente",
+   "n": 54,
+   "parte": "especificas"
+  }
+ }
+]

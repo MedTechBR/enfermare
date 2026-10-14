@@ -1,0 +1,1410 @@
+[
+ {
+  "q": "São consideradas possíveis etiologias de parada cardiorrespiratória materna. Assinale a alternativa incorreta.",
+  "alts": [
+   "Hemorragia",
+   "Embolia",
+   "Febre",
+   "Hipertensão",
+   "Compressão pulmonar e cardíaca pelo estado gravídico"
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "AHA, Cardiac Arrest in Pregnancy: Scientific Statement, 2015 (mnemônico A a H)",
+  "coment": "A questão pede a alternativa que não é etiologia de PCR materna. A declaração científica da AHA de 2015 organiza as causas pelo mnemônico A a H: complicações anestésicas e acidentes, sangramento (B, bleeding), causas cardiovasculares, drogas, embolia, febre (sepse), causas gerais não obstétricas (Hs e Ts) e hipertensão. Hemorragia, embolia, febre e hipertensão estão na lista. O útero gravídico comprime aorta e veia cava, o que piora o retorno venoso e a eficácia das compressões, e por isso se faz o deslocamento uterino para a esquerda; isso é fator fisiológico agravante, não etiologia, e não há compressão pulmonar e cardíaca como causa de parada.",
+  "porAlt": [
+   "Errada: a hemorragia é a letra B (bleeding) do mnemônico A a H e uma das principais causas de PCR materna.",
+   "Errada: a embolia (pulmonar, amniótica ou gasosa) é a letra E do mnemônico e causa reconhecida de parada na gestante.",
+   "Errada: febre, que representa a sepse, é a letra F do mnemônico A a H da AHA para PCR na gestação.",
+   "Errada: a hipertensão (pré-eclâmpsia, eclâmpsia, HELLP) é a letra H do mnemônico e causa de PCR materna.",
+   "Correta: é a incorreta, porque a compressão exercida pelo útero é aortocava e agrava a perfusão durante a RCP, mas não é etiologia de parada."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o momento em que o recém-nascido pode ter contato pele a pele com a mãe, assinale a alternativa correta.",
+  "alts": [
+   "Colocar os bebês recém-nascidos que não precisam de precisam de ressuscitação no contato pele com pele depois do nascimento pode ser eficaz para melhorar a amamentação, o controle de temperatura e a estabilidade da glicemia",
+   "Colocar bebês recém-nascidos em contato pele a pele, após realizar os primeiros cuidados como aspiração de vias aéreas superiores para maior segurança e auxílio nas primeiras respirações",
+   "Colocar bebês recém-nascidos em contato pele a pele, no primeiro contato entre mãe e filho quando estiverem no quarto",
+   "Colocar bebês recém-nascidos em contato pele com pele após o primeiro banho é benéfico e evita infecções que podem ser transmitidas durante o parto",
+   "Colocar bebês recém-nascidos em contato pele com pele após observação por trinta minutos em incubadora, caso não apresente nenhuma alteração de sinais vitais e Apgar maior que 8 no primeiro minuto de vida"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes Nacionais de Assistência ao Parto Normal (MS/CONITEC, 2017); SBP, Reanimação do RN de 34 semanas ou mais, 2026",
+  "coment": "O contato pele a pele imediato é para todo recém-nascido com boa vitalidade, isto é, que respira ou chora e tem tônus em flexão. A Diretriz Nacional de Assistência ao Parto Normal de 2017 e a SBP 2026 recomendam colocá-lo sobre a mãe logo após o nascimento, com o cordão clampeado com 60 segundos ou mais, e adiar os procedimentos de rotina. O benefício descrito é melhor amamentação, controle da temperatura e estabilidade da glicemia. Aspiração de rotina, banho antes do contato, observação em incubadora e esperar o quarto contrariam a diretriz.",
+  "porAlt": [
+   "Correta: o RN que não precisa de reanimação vai ao pele a pele logo após o nascimento, o que melhora amamentação, temperatura e glicemia.",
+   "Errada: aspiração de vias aéreas não é rotina; só se faz com excesso de secreção, e o pele a pele não deve esperar por ela.",
+   "Errada: o primeiro contato deve ser imediato, ainda na sala de parto, e não adiado até a chegada ao quarto.",
+   "Errada: o banho não precede o contato pele a pele; atrasá-lo favorece hipotermia e não previne infecção.",
+   "Errada: não existe observação de 30 minutos em incubadora; o RN com boa vitalidade vai direto para o colo da mãe."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Todo nascimento deve ser acompanhado de pelo menos um profissional que possa realizar as etapas iniciais de ressuscitação de recém-nascidos. Em relação a limpeza da via aérea quando o mecônio está presente, analise as afirmativas abaixo.\nI. Para recém-nascidos não vigorosos (com apneia ou esforço de respiração ineficaz) nascidos com líquido amniótico meconial, a laringoscopia de rotina com ou sem aspiração endotraqueal não é recomendada.\nII. Para recém-nascidos não vigorosos nascidos com líquido amniótico meconial com evidências de obstrução de via aérea durante a ventilação com pressão positiva, intubação e aspiração traqueal podem ser benéficas.\nIII. A aspiração endotraqueal é indicada apenas se houver suspeita de obstrução da via aérea, depois da realização de ventilação com pressão positiva.\nIV. Para recém-nascidos vigorosos, mas com líquido amniótico esverdeado ou escurecido é indicado a aspiração de vias aéreas superiores.\nAssinale a alternativa correta.",
+  "alts": [
+   "I, III e IV apenas",
+   "II, III e IV apenas",
+   "I, II e III apenas",
+   "III e IV apenas",
+   "II e IV apenas"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "SBP, Reanimação do recém-nascido de 34 semanas ou mais em sala de parto, diretrizes 2026",
+  "coment": "Pela SBP 2026, sobre os consensos do ILCOR, quem decide a conduta no líquido meconial é a vitalidade do RN. No RN não vigoroso, laringoscopia e aspiração traqueal de rotina não são feitas: faz-se os passos iniciais e a VPP dentro do primeiro minuto (I correta). A aspiração traqueal fica para a obstrução real da via aérea, percebida durante a VPP (II e III corretas). O RN vigoroso, que respira ou chora e tem tônus em flexão, tem boa vitalidade qualquer que seja o aspecto do líquido: vai ao pele a pele, e boca e nariz só são aspirados se houver excesso de secreção (IV errada).",
+  "porAlt": [
+   "Errada: inclui a IV, que está errada, porque o RN vigoroso com mecônio não recebe aspiração de vias aéreas de rotina.",
+   "Errada: inclui a IV, e o RN vigoroso com líquido meconial vai ao pele a pele sem aspiração rotineira.",
+   "Correta: I, II e III descrevem a diretriz; sem laringoscopia de rotina e com aspiração traqueal só na obstrução durante a VPP.",
+   "Errada: omite a I e a II, que estão corretas, e inclui a IV, que está errada.",
+   "Errada: omite a I e a III, que estão corretas, e inclui a IV, que contraria a diretriz."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Após o nascimento do bebê é necessário o clampeamento do cordão umbilical, sobre este procedimento, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) O tempo de clampeamento do cordão está associado à transfusão placentária para o nascituro e tem efeitos na transição cardiovascular ao nascimento, bem como na evolução do recém-nascido no curto e médio prazo.\n( ) A Organização Mundial da Saúde (OMS) recomenda o clampeamento tardio do cordão umbilical para recém-nascido de termo ou pré-termo que não necessita de reanimação ao nascer, propondo como tempo ideal 1 a 3 minutos após o nascimento.\n( ) O National Institute for Health and Care Excellence (NICE) recomenda que se aguarde a parada da pulsação para o clampeamento do cordão.\n( ) A administração de ocitocina para profilaxia da hemorragia materna deve ser realizada assim que haja saída do concepto, como de costume, não devendo ser adiada por causa do clampeamento tardio do cordão. A contração uterina pela ocitocina irá favorecer o fluxo do sangue placentário para o recém-nascido.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "F - F - F - F",
+   "V - F - V - F",
+   "F - V - F - V",
+   "V - V - F - F"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes Nacionais de Assistência ao Parto Normal (MS/CONITEC, 2017); OPAS, Recomendações para hemorragia obstétrica, 2018",
+  "coment": "O gabarito considera as quatro afirmativas verdadeiras. O tempo de clampeamento define a transfusão placentária e influencia a transição cardiovascular e a evolução do RN. A OMS recomenda o clampeamento tardio, não antes de 1 minuto, no RN que não precisa de reanimação, e a SBP 2026 fala em 60 segundos ou mais. A ocitocina 10 UI IM logo após o nascimento faz parte do manejo ativo do terceiro período (OPAS 2018) e não deve ser adiada pelo clampeamento tardio. A terceira afirmativa é a mais frágil: a diretriz NICE pede não clampear antes de 1 minuto e clampear antes de 5 minutos para a tração controlada, e não exige esperar a pulsação parar. Ainda assim, nenhuma outra sequência é coerente.",
+  "porAlt": [
+   "Correta: as quatro afirmativas foram aceitas como verdadeiras, com a ressalva de que o NICE fixa 1 a 5 minutos, e não a parada da pulsação.",
+   "Errada: a primeira e a segunda afirmativas descrevem bem a transfusão placentária e a recomendação da OMS, então não podem ser falsas.",
+   "Errada: a segunda afirmativa é verdadeira, porque a OMS recomenda clampeamento tardio no RN que não precisa de reanimação.",
+   "Errada: a primeira afirmativa é verdadeira; o tempo de clampeamento tem efeito comprovado na transição cardiovascular do RN.",
+   "Errada: a quarta é verdadeira, porque a ocitocina profilática é dada logo após o nascimento e não espera o clampeamento."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A asfixia pode desencadear vasoconstrição periférica, hipoxemia tecidual, diminuição da contratilidade miocárdica, bradicardia e, eventualmente, assistolia, sendo assim, assinale a alternativa que apresenta incorretamente como e em quais situações a massagem cardíaca é indicada.",
+  "alts": [
+   "A massagem cardíaca é indicada se, após 30 segundos de ventilação com pressão positiva com técnica adequada, a frequência cardíaca estiver menor que 60 batimentos por minuto",
+   "Aplicar os dois polegares sobrepostos no terço inferior do esterno, ou seja, logo abaixo da linha intermamilar e poupando o apêndice xifóide",
+   "A ventilação e a massagem cardíaca são realizadas de forma sincrônica, mantendo-se uma relação de 3:1, ou seja, 3 movimentos de massagem cardíaca para 1 movimento de ventilação, com uma frequência de 120 eventos por minuto (90 movimentos de massagem e 30 ventilações)",
+   "A única situação em que se pode considerar a aplicação de 15 compressões cardíacas intercaladas com duas ventilações é a do paciente internado em unidade neonatal, cuja origem da parada cardiorrespiratória é provavelmente cardíaca, como nos portadores de cardiopatias congênitas",
+   "Aplicar a massagem cardíaca coordenada à ventilação por 180 segundos, antes de reavaliar a frequencia cardíaca, pois este é o tempo mínimo para que a massagem cardíaca efetiva possa restabelecer a pressão de perfusão coronariana"
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "SBP, Reanimação do recém-nascido de 34 semanas ou mais em sala de parto, diretrizes 2026",
+  "coment": "A questão pede a incorreta. Pela SBP 2026, a massagem cardíaca é indicada se a FC continua abaixo de 60 bpm após 30 segundos de VPP com técnica adequada, com os dois polegares sobrepostos no terço inferior do esterno, abaixo da linha intermamilar e poupando o apêndice xifoide. A relação é 3:1, com 120 eventos por minuto (90 compressões e 30 ventilações) e O2 a 100%. A reavaliação da FC se faz após 60 segundos de massagem coordenada à ventilação, e não após 180 segundos. A relação 15:2 só é considerada no RN internado em unidade neonatal com parada de provável origem cardíaca.",
+  "porAlt": [
+   "Errada: está correta; a massagem é indicada com FC abaixo de 60 bpm após 30 segundos de VPP adequada.",
+   "Errada: está correta; os polegares ficam no terço inferior do esterno, logo abaixo da linha intermamilar, poupando o xifoide.",
+   "Errada: está correta; a relação é 3:1 com 120 eventos por minuto, 90 compressões e 30 ventilações.",
+   "Errada: está correta; 15:2 só se considera no RN internado na unidade neonatal com parada de provável causa cardíaca.",
+   "Correta: é a incorreta, porque a FC é reavaliada após 60 segundos de massagem com ventilação, e não após 180 segundos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O alojamento conjunto visa promover um vínculo entre a mãe e o bebê, ao mantê-los juntos no mesmo espaço e dando a mãe liberdade mesmo que assistida para promover os primeiros cuidados ao seu filho. Assinale a alternativa que apresenta incorretamente quais os principais benefícios do alojamento conjunto.",
+  "alts": [
+   "Favorecer o aleitamento materno",
+   "Favorecer o vínculo mãe-bebê",
+   "Diminuir o risco de infecções hospitalares",
+   "Favorecer o trânsito intestinal do bebê",
+   "Favorecer a humanização"
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Puerpério e aleitamento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.068/2016 (Alojamento Conjunto)",
+  "coment": "A questão pede a alternativa que não é benefício do alojamento conjunto. A Portaria GM/MS 2.068/2016 define o alojamento conjunto como o local em que mãe e recém-nascido sadio permanecem juntos, 24 horas por dia, até a alta. Entre os objetivos listados estão favorecer o aleitamento materno, fortalecer o vínculo entre mãe, pai e bebê, reduzir o risco de infecção relacionada à assistência e humanizar o cuidado, com orientação à família. O trânsito intestinal do bebê não está entre os benefícios descritos.",
+  "porAlt": [
+   "Errada: é benefício; a permanência conjunta favorece a amamentação em livre demanda.",
+   "Errada: é benefício; o contato contínuo fortalece o vínculo entre mãe e bebê.",
+   "Errada: é benefício; a permanência com a mãe reduz o risco de infecção relacionada à assistência.",
+   "Correta: é a incorreta, porque o trânsito intestinal do bebê não figura entre os objetivos do alojamento conjunto.",
+   "Errada: é benefício; o alojamento conjunto é estratégia de humanização da atenção ao parto e ao nascimento."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Imediatamente após o parto, o fundo do útero deve ser palpado acima da cicatriz umbilical, sendo esperado que ele passe fisiologicamente a ter um bom tônus, firme, móvel e indolor, ao nível justo acima da cicatriz umbilical. Esse achado propedêutico pode ser descrito como ______, representado a devida contração, e, então, processo de involução uterina. Dessa maneira, a contração do órgão realiza a oclusão dos vasos sanguíneos periféricos, obliteração e trombose dos vasos mais calibrosos e intramiometriais, para evitar uma possível hemorragia.\nAssinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "globo de segurança de Pinard",
+   "manobra de McRoberts",
+   "globo de segurança de Gersuny",
+   "manobra de Jobert",
+   "globo de segurança de Cullen"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Puerpério e aleitamento",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Manual de Gestação de Alto Risco (MS, 2022); OPAS, Recomendações para hemorragia obstétrica, 2018",
+  "coment": "Após a dequitação, o útero contraído, firme e palpável na altura da cicatriz umbilical forma o globo de segurança de Pinard. Ele traduz a contração que oclui os vasos do leito placentário (as chamadas ligaduras vivas de Pinard) e previne a hemorragia. No quarto período, a primeira hora após a dequitação, a enfermagem vigia o globo, o sangramento, a pressão e o pulso; útero amolecido é sinal de atonia, a principal causa de hemorragia pós-parto. McRoberts e Jobert são manobras, e não há globo de Gersuny nem de Cullen.",
+  "porAlt": [
+   "Correta: o útero firme e contraído na altura do umbigo após a dequitação é o globo de segurança de Pinard.",
+   "Errada: a manobra de McRoberts é a hiperflexão das coxas para resolver a distocia de ombro, não um achado uterino.",
+   "Errada: globo de segurança de Gersuny não existe; Gersuny dá nome a um sinal abdominal, sem relação com o útero puerperal.",
+   "Errada: manobra de Jobert não é o nome do achado de contração uterina pós-dequitação.",
+   "Errada: Cullen é a equimose periumbilical do sangramento retroperitoneal, não o globo de segurança uterino."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "É importante lembrar-se das causas da hemorragia pós-parto, através do mnemônico dos 4T´s. Assinale a alternativa incorreta.",
+  "alts": [
+   "Tônus",
+   "Trauma",
+   "Tecido",
+   "Trombose",
+   "Trombina"
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "OPAS, Recomendações assistenciais para hemorragia obstétrica, 2018",
+  "coment": "O mnemônico dos 4 Ts organiza as causas da hemorragia pós-parto (OPAS 2018): Tônus, a atonia uterina, cerca de 70% dos casos; Trauma, lacerações, hematomas, inversão e rotura uterina, cerca de 19%; Tecido, restos placentários, coágulos e acretismo, cerca de 10%; e Trombina, coagulopatias e anticoagulantes, cerca de 1%. Trombose não é um dos Ts: é evento do puerpério que se previne, mas não causa sangramento. A ordem orienta a conduta inicial da enfermagem, começando pela massagem uterina.",
+  "porAlt": [
+   "Errada: Tônus é o primeiro T, a atonia uterina, responsável por cerca de 70% das hemorragias pós-parto.",
+   "Errada: Trauma é um dos Ts e reúne lacerações, hematomas, inversão e rotura uterina.",
+   "Errada: Tecido é um dos Ts e inclui restos placentários, coágulos e acretismo.",
+   "Correta: é a incorreta, porque trombose não faz parte dos 4 Ts e não é causa de hemorragia pós-parto.",
+   "Errada: Trombina é o quarto T e corresponde às coagulopatias e ao uso de anticoagulantes."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A sífilis afeta um milhão de gestantes por ano em todo mundo, levando a mais de 300 mil mortes fetais e neonatais e colocando em risco de morte prematura mais de 200 mil crianças. Analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) A transmissão ocorre predominantemente por via sexual, pode ser transmitida verticalmente para a criança, nos casos de gestantes sem tratamento ou tratadas inadequadamente, em qualquer fase da gestação.\n( ) A sífilis primária manifesta-se como um nódulo indolor no local do contato, que se ulcera rapidamente, formando o cancro duro. Costuma surgir na genitália, mas também pode ocorrer no períneo, ânus, reto, orofaringe, lábios ou mãos. A lesão primária é rica em treponemas.\n( ) Em todas os casos de gestantes, o tratamento deve ser iniciado após dois testes reagentes, sendo um treponêmico e um não treponêmico.\n( ) A penicilina benzatina é a única opção segura e eficaz para tratamento adequado de gestantes. As parcerias sexuais de gestantes com sífilis podem estar infectadas, mesmo com testes imunológicos não reagentes, portanto devem ser tratadas presumivelmente.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - F - V",
+   "V - F - F - V",
+   "V - V - F - F",
+   "V - F - V - F",
+   "V - V - V - V"
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "PCDT para Atenção Integral às Pessoas com IST (MS, 2022)",
+  "coment": "Pelo PCDT-IST de 2022, a sífilis é transmitida sobretudo por via sexual e verticalmente em qualquer fase da gestação quando a gestante não é tratada ou é tratada de forma inadequada. A primária é um nódulo indolor que ulcera e forma o cancro duro, rico em treponemas, na genitália, períneo, ânus, boca ou mãos. Na gestante, um único teste reagente, treponêmico ou não treponêmico, já indica o tratamento, sem esperar o segundo, por isso a terceira é falsa. A benzilpenicilina benzatina é a única opção segura e eficaz na gestação, e as parcerias são tratadas presumivelmente mesmo com testes não reagentes.",
+  "porAlt": [
+   "Correta: V, V, F, V; a gestante inicia tratamento com um único teste reagente, sem aguardar o segundo.",
+   "Errada: a segunda afirmativa é verdadeira, porque descreve o cancro duro da sífilis primária como no PCDT.",
+   "Errada: a quarta afirmativa é verdadeira; penicilina benzatina na gestante e tratamento presuntivo das parcerias.",
+   "Errada: a terceira é falsa, porque a gestante não precisa de dois testes reagentes para começar o tratamento.",
+   "Errada: a terceira é falsa; exigir os dois testes atrasaria o tratamento e aumentaria a transmissão vertical."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Portal de boas práticas em Saúde da Mulher, da Criança e do Adolescente, as causas de morte materna relacionadas às Síndromes Hipertensivas no Brasil, podem ser reduzidas com instituição de protocolos baseado em evidências e factível para todos os locais. Em que o protocolo precisa ser fundamentado. Analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Para prevenção deve-se identificar os fatores de risco, uso disseminado de atividade física, ácido acetilsalicílico em baixa dose e suplementação de cálcio.\n( ) O pré natal deve ser voltado para o diagnóstico precoce e rápido de pré-eclâmpsia, sendo que a menor suspeita deve ser confirmada.\n( ) Disponibilizar maneiras para prevenir a evolução para formas graves com controle rigoroso de pressão arterial (com anti-hipertensivos).\n( ) Ampliar a utilização de sulfato de magnésio.\n( ) Resolução da gravidez de maneira apropriada (sem causar prematuridade iatrogênica).\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "F - F - F - F - F",
+   "V - V - V - V - V",
+   "F - V - F - F - V",
+   "V - V - F - V - F",
+   "F - V - V - F - F"
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Peraçoli JC et al., Pré-eclâmpsia: Protocolo RBEHG 2023; Manual de Gestação de Alto Risco (MS, 2022)",
+  "coment": "As cinco afirmativas reproduzem os pilares do protocolo do Portal de Boas Práticas do IFF/Fiocruz, que seguem o protocolo da RBEHG de 2023. Prevenção: identificar fatores de risco, estimular atividade física, AAS 100 mg à noite de 12 a 36 semanas para quem tem risco e cálcio. Diagnóstico precoce da pré-eclâmpsia no pré-natal, confirmando a menor suspeita. Prevenção das formas graves com controle rigoroso da PA por anti-hipertensivo, uso ampliado do sulfato de magnésio e resolução da gestação no momento apropriado, sem prematuridade iatrogênica. Todas verdadeiras.",
+  "porAlt": [
+   "Errada: as cinco afirmativas são estratégias do protocolo, então nenhuma pode ser marcada como falsa.",
+   "Correta: todas verdadeiras; prevenção, diagnóstico precoce, controle da PA, sulfato de magnésio e parto no momento certo.",
+   "Errada: a prevenção com AAS e cálcio e o controle da PA são recomendações do protocolo, não afirmativas falsas.",
+   "Errada: o controle rigoroso da PA e a resolução apropriada da gestação também são verdadeiros.",
+   "Errada: prevenção, sulfato de magnésio e resolução apropriada da gestação são verdadeiros, e não falsos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A analgesia regional deve ser previamente discutida com a gestante antes do parto, e seus riscos e benefícios devem ser informados. Diante do exposto, assinale a alternativa incorreta.",
+  "alts": [
+   "A analgesia regional só está disponível no ambiente hospitalar",
+   "Não está associada com aumento na incidência de dor lombar, mas associada com o primeiro período do parto mais longo ou aumento na chance de cesariana",
+   "Está associada com aumento na duração do segundo período do parto e na chance de parto vaginal instrumental",
+   "Necessita de nível mais elevado de monitoração",
+   "A mobilidade pode ser reduzida"
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes Nacionais de Assistência ao Parto Normal (MS/CONITEC, 2017)",
+  "coment": "A questão pede a incorreta. A Diretriz Nacional de Assistência ao Parto Normal de 2017 orienta informar a gestante de que a analgesia regional só está disponível no hospital, exige monitoração mais intensa e pode reduzir a mobilidade. Ela não está associada a aumento de dor lombar nem a primeiro período mais longo ou a mais cesarianas. Está associada a segundo período mais longo e a maior chance de parto vaginal instrumental. A alternativa B erra ao dizer que a analgesia alonga o primeiro período e aumenta a cesariana.",
+  "porAlt": [
+   "Errada: está correta; a analgesia regional exige estrutura hospitalar e não é oferecida no parto domiciliar ou no centro de parto isolado.",
+   "Correta: é a incorreta, porque a analgesia regional não se associa a primeiro período mais longo nem a mais cesarianas.",
+   "Errada: está correta; a diretriz associa a analgesia a segundo período mais longo e a mais parto instrumental.",
+   "Errada: está correta; a parturiente com analgesia regional precisa de monitoração materna e fetal mais intensa.",
+   "Errada: está correta; o bloqueio pode reduzir a mobilidade, o que a gestante deve saber antes de escolher."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre as condições clínicas de alto risco indicando o planejamento do parto em uma maternidade, assinale a alternativa incorreta.",
+  "alts": [
+   "Cardiopatia confirmada",
+   "Varicela/Rubéola/Herpes genital atual na mãe ou feto",
+   "Esclerodermia",
+   "Miastenia Gravis",
+   "Toxoplasmose tratada"
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretrizes Nacionais de Assistência ao Parto Normal (MS/CONITEC, 2017), condições que indicam parto na maternidade",
+  "coment": "A questão pede a condição que não indica planejar o parto na maternidade. A Diretriz Nacional de 2017, adaptada do NICE, lista as condições clínicas maternas que pedem parto em hospital: cardiopatia confirmada, infecções atuais como varicela, rubéola e herpes genital na mãe ou no bebê, doenças autoimunes como esclerodermia e lúpus, e doenças neurológicas como miastenia gravis. A toxoplasmose entra na lista quando a mulher está recebendo tratamento antibiótico; a toxoplasmose já tratada, sem tratamento em curso, não é critério. É essa a distinção que a banca cobra.",
+  "porAlt": [
+   "Errada: cardiopatia confirmada indica o parto na maternidade, pelo risco de descompensação.",
+   "Errada: varicela, rubéola ou herpes genital atuais estão entre as infecções que indicam o parto em hospital.",
+   "Errada: esclerodermia é doença autoimune listada entre as condições que pedem parto na maternidade.",
+   "Errada: a miastenia gravis é condição neurológica que indica parto planejado em hospital.",
+   "Correta: é a incorreta, porque a diretriz lista a toxoplasmose em tratamento antibiótico, e não a já tratada."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O atendimento ao recém-nascido (RN) consiste na assistência por profissional capacitado médico ou profissional da enfermagem desde o período imediatamente anterior ao parto, até que o RN seja encaminhado ao Alojamento Conjunto com sua mãe, ou à Unidade Neonatal. São cuidados e assistência imediata após o parto. Assinale a alternativa incorreta.",
+  "alts": [
+   "Realizar o Índice de Apgar ao primeiro e quinto minutos de vida, rotineiramente",
+   "Coletar sangue de cordão de maneira rotineira e universal, para análise de pH em recém-nascidos com alterações clínicas, tais como respiração irregular e tônus diminuído",
+   "Não se recomenda realizar a passagem sistemática de sonda nasogástrica e nem retal para descartar atresias no recém-nascido saudável",
+   "A profilaxia da oftalmia neonatal deve ser realizada de rotina nos cuidados com o recém-nascido",
+   "Todos os recém-nascidos devem receber vitamina K para a profilaxia da doença hemorrágica"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes Nacionais de Assistência ao Parto Normal (MS/CONITEC, 2017); Nota Técnica MS 11/2024 (profilaxia da oftalmia neonatal)",
+  "coment": "A questão pede a incorreta. Pela Diretriz Nacional de 2017, o Apgar é registrado de rotina no 1º e no 5º minuto, não se passa sonda gástrica nem retal de rotina no RN saudável e todo RN recebe vitamina K 1 mg IM. A profilaxia da oftalmia neonatal é de rotina, hoje com iodopovidona 2,5%, eritromicina 0,5% ou tetraciclina 1% (Nota Técnica MS 11/2024). O erro está na B: a gasometria de cordão não é rotineira nem universal; é colhida só no RN com alteração clínica, e a alternativa junta as duas ideias de forma contraditória.",
+  "porAlt": [
+   "Errada: está correta; o Apgar do 1º e do 5º minuto é registrado de rotina, embora não indique reanimação.",
+   "Correta: é a incorreta, porque o pH de cordão não é rotineiro nem universal; colhe-se só no RN com alteração clínica.",
+   "Errada: está correta; a passagem sistemática de sonda gástrica ou retal para descartar atresia não é recomendada no RN saudável.",
+   "Errada: está correta; a profilaxia da oftalmia neonatal é de rotina, pela Nota Técnica MS 11/2024.",
+   "Errada: está correta; todo RN recebe vitamina K para prevenir a doença hemorrágica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Analise as afirmativas abaixo de como o portal de Boas Práticas em Saúde da Mulher, da Criança e do adolescente define acolhimento.\nI. Recepção do usuário nos serviços de saúde, desde a sua chegada.\nII. Responsabilizar-se integralmente pelo usuário, ouvindo sua queixa, permitindo que ele expresse suas preocupações.\nIII. Implica prestar um atendimento com resolutividade e co-responsabilização, orientando, conforme o caso, o usuário e a família.\nIV. Garantir a articulação com os outros serviços de saúde para a continuidade da assistência quando necessário.\nV. Ações de saúde individuais, familiares e coletivas que envolvem promoção, prevenção, proteção, diagnóstico, tratamento, reabilitação, redução de danos, cuidados paliativos e vigilância em saúde.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I, II, III e IV apenas",
+   "II, III, IV e V apenas",
+   "III, IV e V apenas",
+   "IV e V apenas",
+   "V apenas"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Manual de Acolhimento e Classificação de Risco em Obstetrícia (MS, 2017); Política Nacional de Humanização (MS, 2003)",
+  "coment": "O acolhimento, pela Política Nacional de Humanização, é postura e prática: receber a usuária desde a chegada, responsabilizar-se por ela, ouvir a queixa e as preocupações, dar resposta resolutiva com corresponsabilização e orientar a família, e articular outros serviços para a continuidade do cuidado. As afirmativas I a IV reproduzem essa definição do Portal de Boas Práticas e do manual de acolhimento em obstetrícia. A V descreve outra coisa: o conjunto de ações individuais, familiares e coletivas de promoção, prevenção, diagnóstico, tratamento e vigilância é a definição de Atenção Básica da PNAB (Portaria 2.436/2017).",
+  "porAlt": [
+   "Correta: I a IV definem acolhimento; a V é a definição de Atenção Básica da PNAB, não de acolhimento.",
+   "Errada: inclui a V, que define Atenção Básica, e omite a I, recepção da usuária desde a chegada.",
+   "Errada: omite a I e a II, que fazem parte da definição, e inclui a V, que é de Atenção Básica.",
+   "Errada: deixa de fora I, II e III e inclui a V, que não define acolhimento.",
+   "Errada: a V sozinha é a definição de Atenção Básica da PNAB, não de acolhimento."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O protocolo de acolhimento e classificação de risco é uma ferramenta de apoio à decisão clínica que tem como propósito a pronta identificação da paciente crítica ou mais grave. Assinale a alternativa que apresenta de maneira incorreta quais são chaves de decisão dos fluxogramas.",
+  "alts": [
+   "Alteração do nível de consciente/estado mental",
+   "Avaliação da carteira vacinal",
+   "Avaliação da respiração, ventilação, circulação e dor",
+   "Sinais e sintomas gerais por especialidade ou específicos",
+   "Fatores de risco agravantes presentes"
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Classificação de risco",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Manual de Acolhimento e Classificação de Risco em Obstetrícia (MS, 2017)",
+  "coment": "No protocolo de acolhimento e classificação de risco em obstetrícia do Ministério da Saúde, a classificação parte da queixa principal e percorre fluxogramas cujas chaves de decisão são o nível de consciência ou estado mental, a avaliação da respiração, ventilação, circulação e dor, os sinais e sintomas gerais e específicos da especialidade e os fatores de risco agravantes. O resultado é uma cor que define o tempo de espera. A carteira vacinal é avaliada no pré-natal e não serve para decidir a prioridade clínica na porta da maternidade.",
+  "porAlt": [
+   "Errada: a alteração do nível de consciência ou do estado mental é chave de decisão dos fluxogramas.",
+   "Correta: é a incorreta, porque a carteira vacinal não é chave de decisão da classificação de risco obstétrica.",
+   "Errada: respiração, ventilação, circulação e dor são chaves de decisão do protocolo.",
+   "Errada: sinais e sintomas gerais e específicos da especialidade orientam o fluxograma.",
+   "Errada: fatores de risco agravantes presentes também compõem as chaves de decisão."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O tempo para classificação de risco em serviços de obstetrícia não deverá ultrapassar:",
+  "alts": [
+   "5 minutos",
+   "10 minutos",
+   "15 minutos",
+   "20 minutos",
+   "30 minutos"
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Classificação de risco",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Manual de Acolhimento e Classificação de Risco em Obstetrícia (MS, 2017)",
+  "coment": "O gabarito oficial é 5 minutos para o ato de classificar, isto é, a duração da avaliação feita pela enfermeira, que deve ser breve e focada na queixa e nas chaves de decisão, sem virar consulta completa. Esse tempo não se confunde com o tempo de espera por cor, que depois da classificação vai do atendimento imediato (vermelho) a esperas maiores nas cores de menor prioridade. Não conferi o número no texto integral do manual; uma fonte secundária fala em menos de 10 minutos entre a chegada e a classificação. Fica o gabarito da banca.",
+  "porAlt": [
+   "Correta: pelo gabarito oficial, a classificação de risco em obstetrícia não deve passar de 5 minutos.",
+   "Errada: 10 minutos excede o tempo que a banca adotou para a classificação, que é de 5 minutos.",
+   "Errada: 15 minutos é ordem de grandeza de tempo de espera de cor de prioridade, não da classificação.",
+   "Errada: 20 minutos é tempo excessivo para uma avaliação que precisa ser rápida e focada.",
+   "Errada: 30 minutos é tempo de espera de cor de menor prioridade, não duração da classificação."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta a partir de quando o início da gestação em semanas é marcado.",
+  "alts": [
+   "A partir do primeiro dia da última menstruação",
+   "A partir do último dia da última menstruação",
+   "A partir da relação sexual em período fértil",
+   "A partir da fecundação do oócito",
+   "A partir da nidação"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Cadernos de Atenção Básica nº 32, Atenção ao pré-natal de baixo risco (MS, 2012)",
+  "coment": "Por convenção, a idade gestacional é contada a partir do primeiro dia da última menstruação (DUM), embora a fecundação ocorra cerca de duas semanas depois. A gestação dura em média 280 dias, ou 40 semanas, a partir da DUM, e a idade gestacional é o número de dias desde a DUM dividido por 7 (Caderno de Atenção Básica nº 32). A regra de Nägele também parte da DUM: soma 7 ao dia e subtrai 3 do mês. Quando a DUM é incerta, a ultrassonografia de 10 a 13 semanas é o melhor datador.",
+  "porAlt": [
+   "Correta: a idade gestacional é contada em semanas a partir do primeiro dia da última menstruação.",
+   "Errada: o marco é o primeiro dia da última menstruação, não o último dia do sangramento.",
+   "Errada: a data da relação sexual é incerta e não é usada como marco da idade gestacional.",
+   "Errada: a fecundação ocorre cerca de duas semanas após a DUM; a contagem convencional parte da DUM.",
+   "Errada: a nidação ocorre dias após a fecundação e não é o marco da contagem obstétrica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No terceiro mês de gestação, a placenta está totalmente desenvolvida e assume a secreção dos hormônios responsáveis pelo desenvolvimento da gestação, antes secretados também pelo corpo lúteo. Assinale a alternativa que apresenta de maneira incorreta quais são estes hormônios.",
+  "alts": [
+   "Gonadotrofina coriônica humana",
+   "Lactogênio placentário humano",
+   "Estrógeno",
+   "Cortisol",
+   "Progesterona"
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Cadernos de Atenção Básica nº 32, Atenção ao pré-natal de baixo risco (MS, 2012)",
+  "coment": "A questão pede o hormônio que não é secretado pela placenta. A placenta é órgão endócrino e produz gonadotrofina coriônica humana (hCG), que mantém o corpo lúteo no início da gestação, lactogênio placentário humano (hPL), ligado à resistência à insulina e ao crescimento fetal, e os esteroides estrogênio e progesterona, que assume do corpo lúteo por volta do fim do primeiro trimestre. O cortisol é produzido pelas suprarrenais; seus níveis sobem na gestação, mas não é hormônio placentário característico.",
+  "porAlt": [
+   "Errada: a hCG é produzida pelo trofoblasto e mantém o corpo lúteo no início da gravidez.",
+   "Errada: o lactogênio placentário é hormônio da placenta e contribui para a resistência à insulina na gestação.",
+   "Errada: a placenta passa a produzir estrogênio em grande quantidade durante a gestação.",
+   "Correta: é a incorreta, porque o cortisol é hormônio das suprarrenais, não da placenta.",
+   "Errada: a progesterona passa a ser produzida pela placenta, que assume a função do corpo lúteo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os relatos de náuseas e vômitos no primeiro trimestre gestacional são associados aos altos níveis de ______ nesse período. Outras queixas referentes ao sistema gastrintestinal se referem à constipação, provocada pela diminuição dos movimentos peristálticos em resposta à presença da ______. Assinale a alternativa que preenche correta e respectivamente as lacunas.",
+  "alts": [
+   "Gonadotrofina coriônica humana / Progesterona",
+   "Progesterona / cortisona",
+   "Gonadotrofina coriônica humana / cortisona",
+   "Progesterona / ocitocina",
+   "Ocitocina / gonadotrofina coriônica humana"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Cadernos de Atenção Básica nº 32, Atenção ao pré-natal de baixo risco (MS, 2012)",
+  "coment": "Náuseas e vômitos do primeiro trimestre acompanham o pico da gonadotrofina coriônica humana, que ocorre por volta de 8 a 12 semanas, e tendem a melhorar depois. A progesterona relaxa a musculatura lisa, reduz o peristaltismo e explica a constipação, a pirose e as varizes da gestação. A orientação de enfermagem é refeições pequenas e frequentes na náusea e fibras e líquidos na constipação (Caderno de Atenção Básica nº 32). Cortisona e ocitocina não explicam esses sintomas.",
+  "porAlt": [
+   "Correta: as náuseas acompanham o pico de hCG, e a constipação decorre do relaxamento da musculatura lisa pela progesterona.",
+   "Errada: a náusea se associa à hCG, e a cortisona não reduz o peristaltismo intestinal da gestação.",
+   "Errada: a primeira lacuna está certa, mas a constipação é efeito da progesterona, não da cortisona.",
+   "Errada: a náusea do primeiro trimestre se associa à hCG, e a ocitocina não causa constipação.",
+   "Errada: a ocitocina não explica a náusea, e a hCG não é responsável pela lentidão do trânsito intestinal."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Analise as afirmativas que apresentam quais as orientações recomendadas às pacientes que realizarão o exame preventivo de colo de útero e dê valores Verdadeiro (V) ou Falso (F).\n( ) No dia que antecede o exame, não se deve ter relações sexuais sem uso de preservativos.\n( ) Deve se evitar o uso de duchas, medicamentos vaginais e anticoncepcionais locais nas 48 horas anteriores à sua realização.\n( ) É importante não estar no período menstrual, por possibilidade de alterações indevidas nos resultados do exame pela presença de sangue.\n( ) Gestantes também podem se submeter ao exame, sem prejuízo para sua saúde ou a do bebê.\n( ) Pacientes que fazem uso de dispositivo intra uterino não devem retirar o dispositivo para realizar o exame.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - F - V",
+   "V - F - V - F - V",
+   "F - V - V - V - V",
+   "F - V - V - F - F",
+   "F - F - V - V - F"
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "INCA, Diretrizes brasileiras para o rastreamento do câncer do colo do útero, 2016",
+  "coment": "Para a coleta do citopatológico, o INCA orienta não ter relações sexuais nos dias anteriores, mesmo com preservativo, por isso a primeira é falsa. Evitar duchas, medicamentos e anticoncepcionais vaginais nas 48 horas anteriores, não colher durante a menstruação, que prejudica a leitura, permitir a coleta na gestante sem prejuízo e não retirar o DIU para o exame são orientações verdadeiras. Hoje o rastreamento organizado migra para o teste de DNA-HPV (Portaria Conjunta SAES/SECTICS 13/2025); onde a citologia segue em uso, valem essas orientações.",
+  "porAlt": [
+   "Errada: a primeira é falsa, porque a orientação é abstinência sexual mesmo com preservativo antes da coleta.",
+   "Errada: a primeira é falsa e a segunda e a quarta são verdadeiras, ao contrário do que a sequência indica.",
+   "Correta: F, V, V, V, V; só a orientação sobre relação sexual com preservativo está errada.",
+   "Errada: a gestante pode colher o exame e o DIU não precisa ser retirado; as duas últimas são verdadeiras.",
+   "Errada: a segunda e a quinta são verdadeiras; duchas e medicamentos vaginais devem ser evitados, e o DIU permanece."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A analgesia regional deve ser previamente discutida com a gestante antes do parto, e seus riscos e benefícios devem ser informados. Analise as afirmativas abaixo:\nI. A analgesia regional é mais eficaz para alívio da dor que os opióides.\nII. Está associada com primeiro período do parto mais longo e aumento na chance de cesariana.\nIII. Necessita de nível mais elevado de monitoração e a mobilidade pode ser reduzida.\nIV. A solicitação materna por analgesia de parto compreende indicação suficiente para sua realização, independente da fase do parto e do grau de dilatação. Isso inclui parturientes em fase latente com dor intensa, após esgotados os métodos não farmacológicos.\nV. Quando se pretende fornecer alívio rápido da dor, sem elevação da dose de anestésico, a via intratecal é a técnica de escolha.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I, II, III e V apenas",
+   "II, III, IV e V apenas",
+   "I, III, IV e V apenas",
+   "II, IV, e V apenas",
+   "I, II, III e IV apenas"
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes Nacionais de Assistência ao Parto Normal (MS/CONITEC, 2017)",
+  "coment": "Pela Diretriz Nacional de 2017, a analgesia regional é mais eficaz que os opioides para alívio da dor (I), exige monitoração mais intensa e pode reduzir a mobilidade (III). A solicitação materna basta para indicá-la, em qualquer fase e dilatação, incluindo a fase latente com dor intensa depois de esgotados os métodos não farmacológicos (IV). Para alívio rápido sem aumentar a dose de anestésico, usa-se o componente intratecal, na raquianestesia combinada com peridural (V). A II é falsa: a analgesia regional não se associa a primeiro período mais longo nem a mais cesarianas; alonga o segundo período e aumenta o parto instrumental.",
+  "porAlt": [
+   "Errada: inclui a II, que é falsa, porque a analgesia regional não alonga o primeiro período nem aumenta a cesariana.",
+   "Errada: inclui a II, falsa, e omite a I, que é verdadeira, já que o bloqueio é mais eficaz que o opioide.",
+   "Correta: I, III, IV e V; só a II é falsa, pois o bloqueio não aumenta o primeiro período nem a cesariana.",
+   "Errada: inclui a II, que é falsa, e omite a I e a III, que são verdadeiras.",
+   "Errada: inclui a II e omite a V, que é verdadeira, já que o intratecal dá alívio rápido."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Todo recém-nascido <34 semanas que não respira ou se apresenta hipotônico deve ser conduzido à mesa de reanimação. Analise as afirmativas abaixo sobre as recomendações para assegurar vias aéreas pérvias e dê valores Verdadeiro (V) ou Falso (F).\n( ) Colocar o recém-nascido <34 semanas em decúbito dorsal, sem inclinação e sob calor radiante.\n( ) Devido ao tônus muscular mais débil decorrente da imaturidade global, indica-se colocar um coxim sob os ombros para facilitar o posicionamento adequado da cabeça.\n( ) A aspiração de boca e narinas não é recomendada de rotina para recém-nascido <34 semanas.\n( ) A aspiração de oro e nasofaringe está reservada aos recém-nascidos em que há suspeita de obstrução de vias aéreas por excesso de secreções, com sonda número 6 ou 8, conectada a vácuo, sob pressão máxima de 200mmHg.\n( ) A aspiração da hipofaringe deve ser evitada, pois pode causar atelectasia, trauma e prejudicar o estabelecimento da respiração efetiva.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V - V",
+   "V - F - V - V - V",
+   "F - F - F - V - V",
+   "V - V - V - F - V",
+   "F - V - V - F - V"
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "SBP, Reanimação do prematuro com menos de 34 semanas em sala de parto, diretrizes 2026",
+  "coment": "Nos passos iniciais do prematuro abaixo de 34 semanas, o RN fica sob calor radiante em decúbito dorsal sem inclinação, e o pescoço em leve extensão pode ser facilitado por um coxim sob os ombros, pelo tônus mais débil. A aspiração de boca e narinas não é de rotina: só com excesso de secreção, porque aspirar atrasa a saturação-alvo e pode causar bradicardia reflexa, e a hipofaringe não deve ser aspirada. A quarta é falsa pelo número: a SBP usa sonda 6 ou 8 conectada ao vácuo com pressão máxima de 100 mmHg, e não de 200 mmHg.",
+  "porAlt": [
+   "Errada: a quarta é falsa, porque a pressão máxima de aspiração no RN é de 100 mmHg, não de 200.",
+   "Errada: o coxim sob os ombros é recomendado no prematuro, então a segunda é verdadeira, e a quarta é falsa.",
+   "Errada: posição, coxim e não aspirar de rotina são recomendações da SBP; as três primeiras são verdadeiras.",
+   "Correta: V, V, V, F, V; o erro está na pressão de aspiração, que é de no máximo 100 mmHg.",
+   "Errada: a primeira é verdadeira; o prematuro fica em decúbito dorsal, sem inclinação, sob calor radiante."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Transtorno específico da gravidez, de prognóstico reservado, caracterizado por hemólise, elevação das enzimas hepáticas e baixa contagem de plaquetas. Assinale a alternativa correta.",
+  "alts": [
+   "Atonia uterina",
+   "Síndrome de Patau",
+   "Síndrome de Asherman",
+   "Síndrome Kleefstra",
+   "Síndrome de Hellp"
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Manual de Gestação de Alto Risco (MS, 2022); Peraçoli JC et al., Pré-eclâmpsia: Protocolo RBEHG 2023",
+  "coment": "A tríade de hemólise (H, hemolysis), enzimas hepáticas elevadas (EL, elevated liver enzymes) e plaquetas baixas (LP, low platelets) define a síndrome HELLP, forma grave da pré-eclâmpsia, com risco de rotura hepática, coagulação intravascular e morte. Pelo Manual de 2022, plaquetopenia na pré-eclâmpsia é HELLP até prova em contrário, e a conduta inclui sulfato de magnésio, controle da PA e resolução da gestação. Patau e Kleefstra são síndromes genéticas, Asherman é sinéquia uterina e atonia é causa de hemorragia pós-parto.",
+  "porAlt": [
+   "Errada: atonia uterina é falha de contração do útero após o parto e principal causa de hemorragia pós-parto.",
+   "Errada: síndrome de Patau é a trissomia do cromossomo 13, sem relação com a pré-eclâmpsia.",
+   "Errada: síndrome de Asherman é a formação de sinéquias intrauterinas, em geral após curetagem.",
+   "Errada: síndrome de Kleefstra é doença genética rara do desenvolvimento, não transtorno da gravidez.",
+   "Correta: hemólise, enzimas hepáticas elevadas e plaquetopenia na gestante definem a síndrome HELLP."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Pacientes que apresentam, quadros de pré-eclâmpsia grave ou mesmo eclâmpsia, o uso de ______ intravenoso está indicado para a prevenção de convulsões ou mesmo para a recorrência das crises. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "Gliconato de Cálcio",
+   "Sulfato de Magnésio",
+   "Acetato de Betametasona",
+   "Fosfato de Potássio",
+   "Cloreto de Potássio"
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Manual de Gestação de Alto Risco (MS, 2022); Peraçoli JC et al., Pré-eclâmpsia: Protocolo RBEHG 2023",
+  "coment": "O sulfato de magnésio é a droga de escolha para prevenir e tratar a convulsão eclâmptica, indicado na pré-eclâmpsia com sinais de gravidade, na iminência de eclâmpsia, na eclâmpsia e na HELLP. No esquema de Zuspan, ataque de 4 g IV lento e manutenção de 1 g/h em bomba, mantida 24 horas após o parto ou a última crise. A enfermagem vigia reflexo patelar, frequência respiratória e diurese, e mantém à beira do leito o antídoto, gluconato de cálcio 10%, 10 mL IV lento. A betametasona é corticoide para maturação pulmonar fetal.",
+  "porAlt": [
+   "Errada: o gluconato de cálcio é o antídoto da intoxicação por magnésio, não o anticonvulsivante.",
+   "Correta: o sulfato de magnésio IV previne a eclâmpsia e a recorrência das convulsões.",
+   "Errada: a betametasona é corticoide para maturação pulmonar fetal, sem efeito anticonvulsivante.",
+   "Errada: fosfato de potássio repõe fósforo e potássio e não previne convulsões eclâmpticas.",
+   "Errada: cloreto de potássio repõe potássio e não tem papel na prevenção da eclâmpsia."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O diagnóstico de descolamento prematuro de placenta é essencialmente clínico, porém achados de imagem podem ajudar a confirmar o diagnóstico. Assinale a alternativa que apresenta incorretamente quais são sinais e sintomas clássicos do descolamento prematuro de placenta.",
+  "alts": [
+   "Hipertermia",
+   "Sangramento vaginal",
+   "Dor súbita e intensa no abdome e na palpação do útero",
+   "Hipertonia/contrações uterinas",
+   "Alterações na cardiotocografia fetal"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Manual de Gestação de Alto Risco (MS, 2022)",
+  "coment": "A questão pede o que não é sinal clássico de descolamento prematuro de placenta. O quadro típico é sangramento vaginal escuro, que pode ser menor que a perda real porque o sangue fica retido atrás da placenta, dor abdominal súbita e intensa, útero doloroso à palpação, hipertonia ou contrações e alteração da vitalidade fetal na cardiotocografia, até o óbito fetal. O diagnóstico é clínico, e o cordão é clampeado de imediato no nascimento. Hipertermia não faz parte do quadro e sugere infecção, como a corioamnionite.",
+  "porAlt": [
+   "Correta: é a incorreta, porque febre não é sinal de descolamento de placenta e sugere infecção.",
+   "Errada: o sangramento vaginal, em geral escuro, é sinal clássico do descolamento.",
+   "Errada: a dor súbita e intensa com útero doloroso à palpação é típica do descolamento.",
+   "Errada: a hipertonia uterina, com contrações, é achado clássico do descolamento.",
+   "Errada: a alteração da cardiotocografia reflete a hipóxia fetal causada pelo descolamento."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São considerados fatores de alto risco para hemorragia pós parto. Assinale a alternativa incorreta, que considera fatores de alto risco.",
+  "alts": [
+   "Placenta prévia ou de inserção baixa",
+   "Pré-eclâmpsia com sinais de gravidade",
+   "Infecção trato urinário de repetição",
+   "Sangramento ativo à admissão, coagulopatias",
+   "Descolamento prematuro de placenta, acretismo placentário"
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "OPAS, Recomendações assistenciais para hemorragia obstétrica, 2018 (estratificação de risco)",
+  "coment": "A questão pede o que não é fator de alto risco para hemorragia pós-parto. Na estratificação da OPAS de 2018, usada na estratégia Zero Morte Materna por Hemorragia, são de alto risco: placenta prévia ou de inserção baixa, pré-eclâmpsia com sinais de gravidade, sangramento ativo à admissão, coagulopatias e uso de anticoagulantes, descolamento prematuro de placenta, acretismo, plaquetopenia e a soma de fatores de médio risco. A gestante de alto risco tem reserva de sangue e acesso garantidos. Infecção urinária de repetição não consta da estratificação.",
+  "porAlt": [
+   "Errada: placenta prévia ou de inserção baixa é fator de alto risco na estratificação da OPAS.",
+   "Errada: pré-eclâmpsia com sinais de gravidade é fator de alto risco para hemorragia pós-parto.",
+   "Correta: é a incorreta, porque infecção urinária de repetição não é fator de risco para hemorragia pós-parto.",
+   "Errada: sangramento ativo à admissão e coagulopatias são fatores de alto risco.",
+   "Errada: descolamento prematuro de placenta e acretismo placentário são fatores de alto risco."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta quais técnicas são utilizadas com o objetivo de reduzir hemorragias pós parto.",
+  "alts": [
+   "Manobra de Hamilton ou Chantrapitak",
+   "Manobra de Max Verstappen ou Chantrapitak",
+   "Manobra de Lando Norris ou Hamilton",
+   "Manobra de Magnussen ou Lando Norris",
+   "Manobra de Magnussen ou Max Verstappen"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "OPAS, Recomendações assistenciais para hemorragia obstétrica, 2018",
+  "coment": "Diante da hemorragia por atonia, enquanto se administram os uterotônicos, a compressão uterina mecânica ganha tempo. A manobra de Hamilton é a compressão bimanual do útero, com uma mão fechada no fundo de saco vaginal anterior e a outra comprimindo o fundo uterino pelo abdome. A manobra de Chantrapitak é a compressão do útero pela via abdominal, elevando-o e comprimindo-o com as mãos. As duas aparecem nas recomendações da OPAS de 2018. Os demais nomes das alternativas são de pilotos de Fórmula 1 e não designam manobras obstétricas.",
+  "porAlt": [
+   "Correta: Hamilton (compressão bimanual) e Chantrapitak (compressão abdominal) reduzem a hemorragia por atonia.",
+   "Errada: Max Verstappen é piloto de Fórmula 1, não manobra obstétrica, embora Chantrapitak seja correta.",
+   "Errada: Lando Norris não é manobra obstétrica, embora Hamilton seja a compressão bimanual.",
+   "Errada: Magnussen e Lando Norris são nomes de pilotos, sem manobra obstétrica correspondente.",
+   "Errada: nem Magnussen nem Max Verstappen designam técnicas de controle de hemorragia pós-parto."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta de maneira incorreta quais as contra indicações da utilização do traje anti-choque não pneumático em obstetrícia",
+  "alts": [
+   "Óbito fetal",
+   "Doenças cardíacas graves",
+   "Doenças respiratórias graves",
+   "Lesão supradiafragmática",
+   "Feto vivo e viável"
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Emergências obstétricas",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "OPAS, Recomendações assistenciais para hemorragia obstétrica, 2018 (traje antichoque não pneumático)",
+  "coment": "O traje antichoque não pneumático comprime membros inferiores, pelve e abdome, desvia sangue para a circulação central e reduz o sangramento enquanto se chega ao tratamento definitivo. Pela OPAS de 2018, ele é contraindicado com feto vivo e viável, em doenças cardíacas graves, como estenose mitral e insuficiência cardíaca, em doenças respiratórias graves, como hipertensão pulmonar, e em lesões ou sangramentos acima do diafragma. O óbito fetal não é contraindicação; ao contrário, o traje se usa no pós-parto e no abortamento, sem feto viável no útero.",
+  "porAlt": [
+   "Correta: é a incorreta, porque o óbito fetal não contraindica o traje; o impedimento é o feto vivo e viável.",
+   "Errada: doenças cardíacas graves contraindicam o traje, pela sobrecarga de volume central.",
+   "Errada: doenças respiratórias graves, como hipertensão pulmonar, contraindicam o traje.",
+   "Errada: lesão ou sangramento acima do diafragma contraindica o traje, que pioraria a perda.",
+   "Errada: feto vivo e viável é contraindicação, porque a compressão abdominal prejudicaria o feto."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Recém-nascido com frequência cardíaca > 100 batimentos por minuto, respiração fraca e irregular, tônus muscular com alguma flexão, irritabilidade reflexa com caretas e cor da pele rósea com cianose de extremidades. Assinale a alternativa que apresenta que pontuação é atingida no Índice de Apgar ao avaliar o recém-nascido no primeiro minuto de vida.",
+  "alts": [
+   "5",
+   "6",
+   "7",
+   "8",
+   "9"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Apgar V., Curr Res Anesth Analg, 1953; SBP, Reanimação do RN de 34 semanas ou mais, 2026",
+  "coment": "O Apgar soma cinco sinais, cada um de 0 a 2. Frequência cardíaca acima de 100 bpm vale 2; respiração fraca e irregular, 1; tônus com alguma flexão, 1; irritabilidade reflexa com careta, 1; cor rósea com extremidades cianóticas (acrocianose), 1. Total: 2 + 1 + 1 + 1 + 1 = 6. Pela SBP, o Apgar não decide a reanimação, que começa antes do primeiro minuto pela respiração e pela FC, e, se o do 5º minuto for menor que 7, repete-se a cada 5 minutos até 20 minutos de vida.",
+  "porAlt": [
+   "Errada: 5 deixa de contar um ponto; a FC acima de 100 vale 2, e os outros quatro sinais valem 1 cada.",
+   "Correta: FC 2, respiração 1, tônus 1, irritabilidade 1 e cor 1 somam 6.",
+   "Errada: 7 exigiria mais um sinal com pontuação máxima, como choro forte ou movimento ativo.",
+   "Errada: 8 pediria dois sinais adicionais com nota 2, o que não ocorre no caso descrito.",
+   "Errada: 9 seria RN quase pleno, só com acrocianose, o que não condiz com respiração fraca e pouca flexão."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O diagnóstico de doença inflamatória pélvica é realizado quando há presença de três critérios maiores acrescidos de um menor ou de um elaborado. Assinale a alternativa correta que apresenta 3 critérios maiores.",
+  "alts": [
+   "Temperatura axilar > 38.5 °C, secreção vaginal esverdeada e dor à mobilização cervical",
+   "Proteína C reativa elevada, temperatura axilar > 37.5 °C e dor em mesogástrio",
+   "Dor em hipogástrio, dor à palpação dos anexos e dor à mobilização cervical",
+   "Conteúdo vaginal anormal, dor em hipocôndrio direito e dor durante o ato sexual",
+   "Dor em epigástrio, temperatura axilar > 37.8 °C e secreção vaginal esverdeada"
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "PCDT para Atenção Integral às Pessoas com IST (MS, 2022), doença inflamatória pélvica",
+  "coment": "Pelo PCDT-IST de 2022, o diagnóstico clínico de doença inflamatória pélvica exige três critérios maiores mais um menor, ou um critério elaborado. Os maiores são dor no hipogástrio, dor à palpação dos anexos e dor à mobilização do colo uterino. Febre, secreção vaginal ou cervical anormal, proteína C reativa ou VHS elevados e comprovação de gonococo ou clamídia são critérios menores; achados de imagem, laparoscopia e biópsia são elaborados. A enfermagem reconhece o quadro, encaminha e orienta tratamento das parcerias.",
+  "porAlt": [
+   "Errada: febre e secreção esverdeada são critérios menores; só a dor à mobilização cervical é maior.",
+   "Errada: proteína C reativa e febre são critérios menores, e dor em mesogástrio não é critério.",
+   "Correta: dor em hipogástrio, dor à palpação dos anexos e dor à mobilização do colo são os três critérios maiores.",
+   "Errada: conteúdo vaginal anormal é critério menor, e dor em hipocôndrio direito e dispareunia não são maiores.",
+   "Errada: dor em epigástrio não é critério, e febre e secreção esverdeada são critérios menores."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Resolução COFEN Nº 627/2020, são requisitos e condições para realização da ultrassonografia obstétrica por enfermeiro obstétrico. Analise as afirmativas abaixo.\nI. Ter curso de capacitação em ultrassonografia básica em obstetrícia, com carga horária mínima de 120 (cento e vinte) horas, sendo no mínimo 100 (cem) horas de exames supervisionados.\nII. Realizar Ultrassonografia Obstétrica em locais onde ocorra a assistência obstétrica no âmbito do Sistema Único de Saúde.\nIII. Realizar Consulta de Enfermagem com utilização da ultrassonografia obstétrica como ferramenta de alta tecnologia que propõe uma assistência de Enfermagem voltada para a segurança da gestante e do feto, qualificando o cuidado na tomada de decisões rápidas e seguras.\nIV. Registrar os dados obtidos durante a realização do ultrassom no prontuário da paciente ou na ficha de atendimento de forma clara e objetiva contemplando a descrição da imagem e os dados fornecidos pelo aparelho, sem a emissão de laudo referente à imagem observada, e compartilhar informações coletadas com a equipe médica.\nEstão corretas as afirmativas:",
+  "alts": [
+   "I, II, III e IV",
+   "II, III e IV apenas",
+   "III e IV apenas",
+   "I, III e IV apenas",
+   "II e IV apenas"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Resoluções do COFEN",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 627/2020 (ultrassonografia obstétrica pelo enfermeiro obstetra), art. 1º a 4º e Anexo",
+  "coment": "As quatro afirmativas reproduzem a Resolução COFEN 627/2020. O anexo exige curso de ultrassonografia básica em obstetrícia de no mínimo 120 horas, com pelo menos 100 horas de exames supervisionados; a realização ocorre em locais de assistência obstétrica no SUS; a ultrassonografia é ferramenta da consulta de enfermagem; e os achados são registrados no prontuário, com descrição da imagem e dos dados do aparelho, sem emissão de laudo (vedada pelo art. 4º) e compartilhados com a equipe médica. A atividade é privativa do enfermeiro obstetra. A resolução cita a 358/2009, hoje substituída pela Res. COFEN 736/2024 no Processo de Enfermagem.",
+  "porAlt": [
+   "Correta: I, II, III e IV correspondem aos requisitos e condições da Resolução COFEN 627/2020.",
+   "Errada: omite a I, que é verdadeira; o anexo exige curso de 120 horas com 100 horas supervisionadas.",
+   "Errada: omite a I e a II; a resolução também fixa a capacitação e a atuação nos serviços do SUS.",
+   "Errada: omite a II, que é verdadeira, pois a resolução prevê o exame em locais de assistência obstétrica do SUS.",
+   "Errada: omite a I e a III; a capacitação e o uso na consulta de enfermagem também constam da norma."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta que apresenta na assistência ao recém-nascido com ≥ 34 semanas com boa vitalidade, o clampeamento do cordão umbilical deve ser realizado no mínimo em quanto tempo.",
+  "alts": [
+   "Imediatamente ao nascimento",
+   "No mínimo 30 segundos após o nascimento",
+   "No mínimo 60 segundos após o nascimento",
+   "No mínimo 90 segundos após o nascimento",
+   "No mínimo 120 segundos após o nascimento"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "SBP, Reanimação do recém-nascido de 34 semanas ou mais em sala de parto, diretrizes 2026",
+  "coment": "Pela SBP 2026, o RN de 34 semanas ou mais com boa vitalidade, que respira ou chora e tem tônus em flexão, fica em contato pele a pele com a mãe e tem o cordão clampeado com 60 segundos ou mais. O clampeamento oportuno melhora as reservas de ferro dos primeiros meses, à custa de mais icterícia a vigiar. O clampeamento é imediato quando a circulação placentária está interrompida, como no descolamento de placenta, na placenta prévia sangrante e no nó verdadeiro de cordão.",
+  "porAlt": [
+   "Errada: o clampeamento imediato fica para quando a circulação placentária está interrompida, não para o RN com boa vitalidade.",
+   "Errada: 30 segundos é menos que o mínimo de 60 segundos recomendado pela SBP no RN com boa vitalidade.",
+   "Correta: no RN de 34 semanas ou mais com boa vitalidade, o cordão é clampeado com 60 segundos ou mais.",
+   "Errada: 90 segundos é aceitável, mas não é o mínimo; o tempo mínimo recomendado é 60 segundos.",
+   "Errada: 120 segundos pode ser praticado, mas o mínimo recomendado pela SBP é de 60 segundos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde da Mulher - Obstetrícia",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia a sentença abaixo: A ______é ocasionada por processos físico-químicos, os quais são a deposição de proteínas beta-amiloide e emaranhados neuro-fibrilares, essas duas modificações impedem as sinapses entre os neurônios. Portanto, as faltas dos processos de sinapses modificam o comportamento e memória a longo e médio prazo do indivíduo. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "depressão",
+   "doença de Parkinson",
+   "doença de alzheimer",
+   "doença vascular cerebral",
+   "esclerose múltipla"
+  ],
+  "gab": 2,
+  "tema": "idoso",
+  "sub": "Demências e delirium",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "PCDT da Doença de Alzheimer (Portaria Conjunta SAES/SECTICS nº 27/2025)",
+  "coment": "As duas alterações neuropatológicas da doença de Alzheimer são as placas extracelulares de proteína beta-amiloide e os emaranhados neurofibrilares intracelulares de proteína tau, que levam à perda de sinapses e de neurônios, começando pelo hipocampo. Por isso a doença se inicia de forma insidiosa pela memória recente e depois atinge linguagem, orientação, funções executivas e comportamento. O tratamento no SUS (PCDT 2025) usa inibidores da acetilcolinesterase e memantina, com ganho sintomático modesto. Parkinson tem corpos de Lewy, a vascular decorre de infartos, e esclerose múltipla é desmielinizante.",
+  "porAlt": [
+   "Errada: a depressão é transtorno do humor, sem placas beta-amiloides nem emaranhados neurofibrilares.",
+   "Errada: a doença de Parkinson se caracteriza pela perda de neurônios dopaminérgicos com corpos de Lewy.",
+   "Correta: placas de beta-amiloide e emaranhados neurofibrilares são a marca neuropatológica da doença de Alzheimer.",
+   "Errada: a doença vascular cerebral decorre de infartos e lesões isquêmicas, não de depósito de beta-amiloide.",
+   "Errada: a esclerose múltipla é doença desmielinizante autoimune, sem emaranhados neurofibrilares."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A disfagia representa uma frequente sequela em idosos vítimas de AVC (acidente Vascular cerebral). Distúrbios da deglutição podem resultar na necessidade de uso de sonda (nasoenteral) SNE. Assinale a alternativa que apresenta o método mais preciso e de escolha para confirmação do posicionamento da SNE.",
+  "alts": [
+   "Medição de ph do líquido aspirado",
+   "Aspiração para avaliação visual",
+   "Ausculta do abdome",
+   "Radiografia",
+   "Borbulhamento em copo de água"
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Resolução COFEN 619/2019 (sondagem oro/nasogástrica e nasoentérica); ASPEN Safe Practices for Enteral Nutrition Therapy, 2017",
+  "coment": "A radiografia simples que mostra todo o trajeto da sonda até a ponta é o método padrão-ouro para confirmar o posicionamento da sonda nasoenteral antes de iniciar a dieta ou medicamento, pelas recomendações da ASPEN de 2017. A ausculta do borbulhamento epigástrico não distingue estômago de pulmão ou esôfago e não deve ser usada sozinha. O pH do aspirado ajuda, mas sofre interferência de antiácidos e da dieta, e o aspecto visual é impreciso. Borbulhar a ponta da sonda em copo d'água é prática abandonada. A Resolução COFEN 619/2019 atribui ao enfermeiro a inserção da sonda nasoenteral.",
+  "porAlt": [
+   "Errada: o pH do aspirado é método auxiliar, alterado por antiácidos e dieta, e não substitui a radiografia.",
+   "Errada: a avaliação visual do aspirado é imprecisa e não confirma a posição da ponta da sonda.",
+   "Errada: a ausculta do borbulhamento não diferencia estômago, esôfago ou pulmão e não é confiável.",
+   "Correta: a radiografia que mostra a ponta da sonda é o método mais preciso e de escolha para confirmar a posição.",
+   "Errada: borbulhar a ponta da sonda em água é prática insegura e sem valor para confirmar o posicionamento."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A anemia em idosos tem múltiplas etiologias O ______é utilizado como ponto de partida para a investigação de todos os tipos de anemia com contagem de reticulócitos normal ou baixa. ______é fortemente sugestivo de anemia por deficiência de ferro. Assinale a alternativa que preencha correta e respectivamente as lacunas.",
+  "alts": [
+   "volume corpuscular médio (VCM) / VCM normal",
+   "volume corpuscular médio (VCM) / baixo VCM",
+   "volume corpuscular médio (VCM) / VCM alto",
+   "velocidade de hemossedimentação (VHS) / VHS normal",
+   "velocidade de hemossedimentação (VHS) / baixo VHS"
+  ],
+  "gab": 1,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Cadernos de Atenção Básica nº 19, Envelhecimento e saúde da pessoa idosa (MS, 2006)",
+  "coment": "A anemia não é consequência normal do envelhecimento e sempre se investiga no idoso. Quando a contagem de reticulócitos é normal ou baixa, isto é, a medula não responde, o volume corpuscular médio (VCM) separa os grupos: microcítica, normocítica e macrocítica. VCM baixo é fortemente sugestivo de deficiência de ferro, e no idoso obriga a pensar em perda de sangue digestiva; VCM alto sugere deficiência de B12 ou folato, álcool ou fármacos; VCM normal sugere anemia de doença crônica ou renal. A VHS é marcador inflamatório e não classifica anemia.",
+  "porAlt": [
+   "Errada: o VCM é o ponto de partida, mas VCM normal sugere doença crônica ou renal, não deficiência de ferro.",
+   "Correta: o VCM classifica a anemia hipoproliferativa, e VCM baixo sugere fortemente deficiência de ferro.",
+   "Errada: VCM alto sugere deficiência de B12 ou folato, não de ferro, que causa microcitose.",
+   "Errada: a VHS é marcador inflamatório inespecífico e não é o ponto de partida para classificar anemias.",
+   "Errada: VHS baixa não indica deficiência de ferro; a VHS não serve para classificar anemias."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os idosos que possuem mobilidade física prejudicada e que fazem uso de medicação contínua são mais suscetíveis ao desenvolvimento de LPP (lesão por pressão). Para avaliação de risco de lesão por pressão o enfermeiro pode utilizar a escala de Braden, assinale a alternativa que apresenta de acordo com essa escala um idoso avaliado com pontuação 14 apresenta qual tipo de risco.",
+  "alts": [
+   "Risco leve",
+   "Risco moderado",
+   "Risco alto",
+   "Risco muito alto",
+   "Sem risco"
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Paranhos WY, Santos VLCG, Escala de Braden na língua portuguesa, Rev Esc Enferm USP, 1999",
+  "coment": "A escala de Braden soma seis subescalas: percepção sensorial, umidade, atividade, mobilidade e nutrição, de 1 a 4, e fricção e cisalhamento, de 1 a 3, com total de 6 a 23; quanto menor, maior o risco. Na faixa usada no Brasil pela validação de Paranhos e Santos (1999) e pelos protocolos da rede Ebserh: acima de 18 sem risco, 15 a 18 risco leve, 13 a 14 risco moderado, 10 a 12 risco alto e 9 ou menos risco muito alto. O escore 14 é, portanto, risco moderado, e pede plano de prevenção com reposicionamento, manejo da umidade e superfície de redistribuição.",
+  "porAlt": [
+   "Errada: risco leve corresponde a 15 a 18 pontos na escala de Braden.",
+   "Correta: o escore de 13 a 14 na escala de Braden indica risco moderado de lesão por pressão.",
+   "Errada: risco alto corresponde a 10 a 12 pontos, abaixo do escore do caso.",
+   "Errada: risco muito alto corresponde a 9 pontos ou menos.",
+   "Errada: sem risco é escore acima de 18; com 14 pontos o idoso já tem risco."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia a sentença abaixo: As coberturas protetoras de poliuretano para pele sobre as proeminências ósseas podem ser mantidas por até ______ se estiverem bem fixas e limpas. Assinale a alternativa que preencha corretamente a lacuna.",
+  "alts": [
+   "2 dias",
+   "3 dias",
+   "5 dias",
+   "7 dias",
+   "10 dias"
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "EPUAP/NPIAP/PPPIA, International Guideline on prevention of pressure injuries, 2019; ANVISA, Medidas de prevenção de IRAS, 2017",
+  "coment": "Filmes transparentes de poliuretano protegem a pele contra fricção e umidade sobre proeminências ósseas e permitem inspecionar a pele sem retirar a cobertura. O gabarito oficial é 7 dias, prazo máximo de permanência se o filme estiver íntegro, bem fixo e limpo; é o mesmo intervalo que a ANVISA (2017) adota para a troca do filme transparente sobre cateter venoso central. A cobertura é trocada antes se descolar, sujar ou umedecer, e não dispensa a inspeção diária nem o reposicionamento. O prazo exato varia com o fabricante, por isso a resposta vale para a fonte da banca.",
+  "porAlt": [
+   "Errada: 2 dias é prazo curto demais para filme íntegro e limpo; a troca precoce desnecessária agride a pele.",
+   "Errada: 3 dias não é o prazo máximo adotado pela banca para cobertura protetora de poliuretano bem fixada.",
+   "Errada: 5 dias está abaixo do prazo máximo de 7 dias aceito para o filme íntegro, fixo e limpo.",
+   "Correta: o filme de poliuretano íntegro, fixo e limpo pode permanecer até 7 dias sobre a proeminência óssea.",
+   "Errada: 10 dias excede o prazo máximo de permanência do filme de poliuretano."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Nos idosos, os sintomas clássicos de infecção podem não estar presentes. Principalmente nos idosos frágeis, muito idosos (acima de 80 anos) e com multimorbidades. São sinais de alerta de infecção no idoso exceto:",
+  "alts": [
+   "hipotermia",
+   "queda",
+   "sede",
+   "sonolência",
+   "confusão mental"
+  ],
+  "gab": 2,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Cadernos de Atenção Básica nº 19, Envelhecimento e saúde da pessoa idosa (MS, 2006)",
+  "coment": "No idoso frágil, muito idoso ou com várias doenças, a infecção grave pode vir sem febre, e a apresentação típica é a síndrome geriátrica: confusão mental aguda (delirium), sonolência, queda, perda de funcionalidade, inapetência e até hipotermia, pela termorregulação menos eficaz. A pneumonia pode se apresentar como queda, e a infecção urinária, como confusão. A sede, ao contrário, está atenuada no envelhecimento, o que explica o risco de desidratação; ela não é sinal de alerta de infecção.",
+  "porAlt": [
+   "Errada: hipotermia é sinal de alerta, porque o idoso com infecção grave pode não ter febre.",
+   "Errada: a queda é apresentação atípica frequente de infecção, como a pneumonia, no idoso.",
+   "Correta: a sede é a exceção; ela diminui com o envelhecimento e não é sinal de alerta de infecção.",
+   "Errada: sonolência, incluindo o delirium hipoativo, é sinal de alerta de infecção no idoso.",
+   "Errada: confusão mental aguda é sinal clássico de infecção no idoso, como a infecção urinária."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F) para as principais medidas de prevenção contra o câncer da pele, especialmente para os idosos em geral.\n( ) Exame completo da pele, se possível realizado anualmente, por um médico dermatologista.\n( ) Evitar a exposição ao Sol sem a adequada proteção, especialmente no período de maior risco, entre 10h e 15h.\n( ) Usar filtro solar nas áreas expostas, roupas com o intuito de fotoproteção, acessórios como óculos de sol, chapéu/boné/viseiras e guarda-sol/sombrinhas.\n( ) Realizar frequentemente o auto-exame da pele - inspeção completa e cuidadosa da pele de todo o corpo, do couro cabeludo à sola dos pés, com a ajuda de espelhos e de um familiar.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+  "alts": [
+   "V - V - V - V",
+   "V - F - V - V",
+   "V - V - F - F",
+   "V - V - V - F",
+   "V - F - V - F"
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "INCA, ABC do câncer: abordagens básicas para o controle do câncer, 6ª ed., 2020",
+  "coment": "As quatro afirmativas são verdadeiras. A prevenção do câncer de pele, nas orientações do INCA, combina evitar a exposição solar sem proteção, sobretudo no meio do dia, quando a radiação ultravioleta é mais intensa, usar filtro solar nas áreas expostas, roupas de fotoproteção, óculos de sol, chapéu e guarda-sol, e examinar a pele. O exame periódico pelo dermatologista e o autoexame com espelho e ajuda de familiar, do couro cabeludo à sola dos pés, ajudam a achar lesões novas ou que mudam de cor, forma ou tamanho. O idoso tem exposição solar acumulada e é o grupo de maior incidência.",
+  "porAlt": [
+   "Correta: V, V, V, V; exame da pele, evitar sol no horário de risco, fotoproteção e autoexame são medidas recomendadas.",
+   "Errada: evitar o sol entre 10h e 15h sem proteção é medida central de prevenção, logo verdadeira.",
+   "Errada: filtro solar, roupas e acessórios de fotoproteção e o autoexame são medidas verdadeiras.",
+   "Errada: o autoexame da pele com espelhos e ajuda de familiar é recomendado, logo verdadeiro.",
+   "Errada: evitar o sol no horário de risco e o autoexame são medidas recomendadas, não falsas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sarcopenia é uma condição associada ao envelhecimento. Assinale a alternativa que define corretamente sarcopenia.",
+  "alts": [
+   "É definida como condição onde há um baixo nível de linfócitos no sangue",
+   "É definida como a perda progressiva de massa magra associada à perda da força muscular e à redução desempenho físico",
+   "É definida como a redução de taxas hormonais",
+   "É definida como a redução de gordura corporal",
+   "É definida como a formação de coleções anormais de células inflamatórias (granulomas) em muitos órgãos do corpo"
+  ],
+  "gab": 1,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Cruz-Jentoft AJ et al., Sarcopenia: revised European consensus (EWGSOP2), Age Ageing, 2019",
+  "coment": "Sarcopenia é doença muscular progressiva e generalizada, com perda de massa e de força musculares e queda do desempenho físico, associada a quedas, fraturas, incapacidade e morte. O consenso europeu EWGSOP2 (2019) põe a força baixa como critério principal, confirma pela quantidade ou qualidade muscular e define gravidade pelo desempenho físico, como a velocidade de marcha. A prevenção e o tratamento se apoiam em exercício resistido e ingestão adequada de proteína. Linfopenia, queda hormonal, perda de gordura e granulomas não definem sarcopenia.",
+  "porAlt": [
+   "Errada: baixo nível de linfócitos no sangue é linfopenia, não sarcopenia.",
+   "Correta: sarcopenia é a perda progressiva de massa e força musculares com redução do desempenho físico.",
+   "Errada: a redução de hormônios pode contribuir para a sarcopenia, mas não a define.",
+   "Errada: a sarcopenia é perda muscular; muitas vezes coexiste com aumento de gordura, a obesidade sarcopênica.",
+   "Errada: coleções de células inflamatórias formando granulomas em vários órgãos descrevem a sarcoidose."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com estudo da Sociedade da União Européia de Medicina Geriátrica, o consumo de proteínas recomendado para idosos saudáveis acima de 65 anos é de:",
+  "alts": [
+   "pelo menos 0.8 g/kg/dia",
+   "pelo menos 1 g/kg/dia",
+   "no máximo 0.8 g/kg/dia",
+   "no máximo 1 g/kg/dia",
+   "pelo menos 5 g/kg/dia"
+  ],
+  "gab": 1,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Bauer J et al., PROT-AGE Study Group (EUGMS), J Am Med Dir Assoc, 2013; ESPEN guideline on clinical nutrition and hydration in geriatrics, 2019",
+  "coment": "O grupo PROT-AGE, da Sociedade Europeia de Medicina Geriátrica (EUGMS), concluiu em 2013 que o idoso saudável acima de 65 anos precisa de mais proteína que o adulto jovem: pelo menos 1,0 a 1,2 g/kg/dia, e não os 0,8 g/kg/dia do adulto. Com doença aguda ou crônica, a meta sobe para 1,2 a 1,5 g/kg/dia, e na doença grave ou desnutrição pode chegar a 2,0. A diretriz da ESPEN de 2019 para geriatria também recomenda pelo menos 1 g/kg/dia. O objetivo é preservar massa muscular e função e prevenir sarcopenia.",
+  "porAlt": [
+   "Errada: 0,8 g/kg/dia é a recomendação do adulto jovem, insuficiente para o idoso pelo PROT-AGE.",
+   "Correta: o idoso saudável acima de 65 anos deve consumir pelo menos 1 g/kg/dia de proteína.",
+   "Errada: limitar a 0,8 g/kg/dia como teto favorece perda muscular; a recomendação é um mínimo maior.",
+   "Errada: a recomendação é um mínimo de 1 g/kg/dia, não um teto, e o idoso doente precisa de mais.",
+   "Errada: 5 g/kg/dia é valor muito acima de qualquer recomendação e sem respaldo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Todos os idosos devem ser rastreados para desidratação, preferencialmente através da osmolaridade sérica ou plasmática medida diretamente, sendo considerada desidratação valores acima de:",
+  "alts": [
+   "50 mOsm/kg",
+   "100 mOsm/kg",
+   "150 mOsm/kg",
+   "200 mOsm/kg",
+   "300 mOsm/kg"
+  ],
+  "gab": 4,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Volkert D et al., ESPEN guideline on clinical nutrition and hydration in geriatrics, Clin Nutr, 2019",
+  "coment": "A diretriz da ESPEN de 2019 para nutrição e hidratação em geriatria recomenda rastrear desidratação em todos os idosos, de preferência pela osmolalidade sérica ou plasmática medida diretamente, e considerar desidratação por baixa ingestão valores acima de 300 mOsm/kg. Sinais clínicos isolados, como mucosa seca, turgor da pele e cor da urina, são pouco confiáveis no idoso. O risco é maior porque a sede está atenuada e a reserva de água corporal é menor. Valores de 50 a 200 mOsm/kg estão muito abaixo da faixa fisiológica, que gira em torno de 275 a 295.",
+  "porAlt": [
+   "Errada: 50 mOsm/kg é valor incompatível com a osmolalidade plasmática fisiológica.",
+   "Errada: 100 mOsm/kg está muito abaixo da faixa normal e não é ponto de corte de desidratação.",
+   "Errada: 150 mOsm/kg está muito abaixo da osmolalidade normal e não define desidratação.",
+   "Errada: 200 mOsm/kg seria hiposmolalidade grave, não desidratação.",
+   "Correta: osmolalidade sérica acima de 300 mOsm/kg define desidratação por baixa ingestão no idoso (ESPEN 2019)."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a alternativa que apresenta de maneira incorreta quais são os micronutrientes comuns nas deficiências nutricionais dos idosos.",
+  "alts": [
+   "Vitamina D",
+   "Colágeno",
+   "Vitamina B12",
+   "Ácido fólico",
+   "Zinco"
+  ],
+  "gab": 1,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Volkert D et al., ESPEN guideline on clinical nutrition and hydration in geriatrics, Clin Nutr, 2019",
+  "coment": "A questão pede o que não é micronutriente. Micronutrientes são vitaminas e minerais, necessários em pequenas quantidades, e as deficiências comuns no idoso incluem vitamina D (pouca exposição solar e menor síntese cutânea), vitamina B12 (gastrite atrófica, metformina e inibidores de bomba de prótons), ácido fólico, zinco, cálcio e ferro. O colágeno é proteína estrutural, um macronutriente, e não figura entre as deficiências de micronutrientes. A suplementação segue avaliação nutricional e dosagem quando indicada.",
+  "porAlt": [
+   "Errada: a vitamina D é micronutriente e sua deficiência é comum no idoso.",
+   "Correta: é a incorreta, porque o colágeno é proteína, um macronutriente, e não micronutriente.",
+   "Errada: a vitamina B12 é micronutriente frequentemente deficiente no idoso, por má absorção.",
+   "Errada: o ácido fólico é micronutriente cuja deficiência ocorre no idoso com dieta pobre.",
+   "Errada: o zinco é mineral, micronutriente, e sua deficiência é comum no idoso."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Após os 60 anos, recomenda-se visita anual ao oftalmologista para avaliação clínica e realização de alguns exames de rotina. O glaucoma é uma doença frequente nesta população. Assinale a alternativa correta da definição de Glaucoma.",
+  "alts": [
+   "Caracteriza-se por uma turvação do cristalino",
+   "São alterações físicas da área central da retina",
+   "É um distúrbio no qual a pressão do globo ocular aumenta, lesando o nervo óptico",
+   "São caracterizadas por distorções na morfologia da córnea",
+   "Manifesta-se através de lesões na retina, podendo causar pequenos sangramentos e, como consequência, a perda da acuidade visual"
+  ],
+  "gab": 2,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Cadernos de Atenção Básica nº 19, Envelhecimento e saúde da pessoa idosa (MS, 2006)",
+  "coment": "Glaucoma é neuropatia óptica progressiva em que a pressão intraocular elevada é o principal fator de risco: o dano ao nervo óptico leva à perda do campo visual periférico, silenciosa, e pode chegar à cegueira irreversível. Por isso o idoso faz avaliação oftalmológica periódica com medida da pressão ocular e exame do nervo óptico. As outras alternativas descrevem outras doenças: turvação do cristalino é catarata, alteração da área central da retina é degeneração macular, distorção da córnea é ceratocone e lesões retinianas com sangramento descrevem a retinopatia diabética.",
+  "porAlt": [
+   "Errada: turvação do cristalino define a catarata, não o glaucoma.",
+   "Errada: alteração da área central da retina descreve a degeneração macular relacionada à idade.",
+   "Correta: no glaucoma, a pressão intraocular elevada lesa o nervo óptico e reduz o campo visual.",
+   "Errada: distorção da morfologia da córnea descreve o ceratocone ou o astigmatismo.",
+   "Errada: lesões retinianas com pequenos sangramentos e perda de acuidade descrevem a retinopatia diabética."
+  ],
+  "fonte": {
+   "banca": "EBSERH (IBFC)",
+   "ano": 2023,
+   "prova": "Concurso EBSERH 2023, Enfermeiro - Saúde do Idoso",
+   "n": 54,
+   "parte": "especificas"
+  }
+ }
+]
