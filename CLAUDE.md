@@ -11,9 +11,12 @@ CirurgiaMed** para o que é comum (chave por conteúdo, Fisher-Yates, viés de t
 - Três públicos no mesmo banco: **residência multiprofissional em Enfermagem** (ENARE/FGV e residências de
   universidades), **concursos de enfermeiro** (EBSERH/FGV) e **título de especialista** (ABENTI, SOBECC,
   SOBEST, ABEn). Técnico de enfermagem ficou FORA.
-- **Separado, com login**: conta MedTech e sync automático como os apps de estudo, mas **fora do portal
-  MedTech Provas e da vitrine médica** (público não médico; ver memória `feedback_publicos_e_layout_pwa`).
-  Não pôr cross-link para apps médicos.
+- **Separado, com login**: conta MedTech e sync automático como os apps de estudo. Desde 14/10/2026 (pedido dele:
+  "inclua ele no MedTech na linha multi, junto com os 3 aplicativos de farmácia", "coloque mesmo preço dos outros")
+  está **à venda na linha MedTech Multi** da vitrine (`medtech-multi.html`, com FarmaUTI, Banca ENARE Farmácia e SOS
+  Farmácia): produto `enfermare` no `planos.json` com `publico:"enfermagem"`, R$ 49,90/mês ou R$ 397/ano, checkout
+  Mercado Pago. Internamente segue a linha `provas` (retorno do pagamento e portal `provas.html`), como os de farmácia.
+  Não pôr cross-link para apps médicos dentro do app.
 
 ## Provas (conferidas na fonte em 14/10/2026; URLs em docs/LEVANTAMENTO_PROVAS_NORMAS_2026-10.md)
 - **ENARE multiprofissional, Enfermagem** (FGV): 100 q, 5 alternativas, 5 h; q1–20 conhecimentos gerais
