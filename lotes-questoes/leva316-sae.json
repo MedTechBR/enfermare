@@ -1,0 +1,1127 @@
+[
+ {
+  "q": "Em 2026, a comissão de Processo de Enfermagem de um hospital geral revisa o impresso de admissão, elaborado em 2015, que organiza o cuidado em cinco campos: Histórico, Diagnóstico, Planejamento, Implementação e Avaliação de Enfermagem. A coordenação pede que o impresso siga a norma vigente. Qual ajuste é necessário?",
+  "alts": [
+   "Manter os cinco nomes, pois a norma vigente preservou os termos de 2009.",
+   "Acrescentar o Prognóstico de Enfermagem como sexta etapa, após a Avaliação.",
+   "Renomear Histórico para Avaliação e a Avaliação final para Evolução.",
+   "Fundir Diagnóstico e Planejamento numa única etapa chamada Prescrição.",
+   "Excluir a Implementação, que passou a ser registrada pela equipe técnica."
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, arts. 4º e 14 (revoga a Resolução COFEN 358/2009)",
+  "coment": "A Resolução COFEN 736/2024 revogou a 358/2009 (art. 14) e manteve cinco etapas, com duas trocas de nome. A primeira etapa, antes chamada Coleta de dados ou Histórico de Enfermagem, passou a se chamar Avaliação de Enfermagem: entrevista e exame físico, inicial e contínua. A última, que na 358 se chamava Avaliação, passou a se chamar Evolução de Enfermagem: análise dos resultados alcançados e revisão de todo o processo. Diagnóstico, Planejamento e Implementação mantiveram o nome. O impresso de 2015 precisa trocar Histórico por Avaliação e Avaliação por Evolução, sem acrescentar nem fundir etapas.",
+  "porAlt": [
+   "Errada: a 736/2024 mudou o nome da primeira e da última etapa; os termos de 2009 não foram preservados.",
+   "Errada: prognóstico era fase do processo de Horta; a resolução vigente tem cinco etapas, não seis.",
+   "Correta: a primeira etapa virou Avaliação de Enfermagem e a última, Evolução de Enfermagem.",
+   "Errada: Diagnóstico e Planejamento continuam etapas distintas; a prescrição é elemento do Planejamento.",
+   "Errada: a Implementação segue como quarta etapa, executada pela equipe e registrada no prontuário."
+  ]
+ },
+ {
+  "q": "Na clínica médica, um técnico de enfermagem cuida de um homem de 77 anos acamado após AVC. A prescrição de enfermagem do dia inclui mudança de decúbito a cada duas horas e hidratação da pele. Durante o plantão, o técnico nota hiperemia que desaparece à digitopressão na região sacral. Qual conduta do técnico está de acordo com a Resolução COFEN 736/2024?",
+  "alts": [
+   "Executar o cuidado prescrito, checar, anotar o achado e comunicar ao enfermeiro.",
+   "Reduzir por conta própria o intervalo de mudança de decúbito para uma hora.",
+   "Registrar o diagnóstico Risco de lesão por pressão no adulto no prontuário.",
+   "Redigir a evolução de enfermagem do dia, pois foi quem acompanhou o paciente.",
+   "Suspender a hidratação da pele até a avaliação do enfermeiro pela manhã."
+  ],
+  "gab": 0,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, arts. 6º, 7º e 8º; Lei 7.498/1986, art. 15",
+  "coment": "Pelo art. 7º da Resolução COFEN 736/2024, técnicos e auxiliares participam do Processo de Enfermagem com a Anotação de Enfermagem, a implementação dos cuidados prescritos e a checagem, sob supervisão e orientação do enfermeiro (Lei 7.498/1986, art. 15). Diagnóstico e Prescrição de Enfermagem são privativos do enfermeiro (art. 6º), e o art. 8º atribui ao enfermeiro o registro de todas as etapas, inclusive a evolução. O técnico executa o que foi prescrito, checa, descreve o achado na anotação e comunica ao enfermeiro, que reavalia a pele e decide se o diagnóstico ou a prescrição devem mudar.",
+  "porAlt": [
+   "Correta: execução, checagem e anotação são a participação do técnico no PE, com comunicação ao enfermeiro.",
+   "Errada: alterar a frequência de um cuidado é modificar a prescrição de enfermagem, ato privativo do enfermeiro.",
+   "Errada: formular diagnóstico de enfermagem é privativo do enfermeiro pelo art. 6º da Resolução 736/2024.",
+   "Errada: a evolução de enfermagem é registro do enfermeiro; ao técnico cabe a anotação de enfermagem.",
+   "Errada: suspender cuidado prescrito sem decisão do enfermeiro interrompe a prescrição e atrasa a reavaliação."
+  ]
+ },
+ {
+  "q": "Uma enfermeira de clínica cirúrgica identifica, num homem de 50 anos no primeiro dia após laparotomia, os diagnósticos Dor aguda e Mobilidade física prejudicada. No plano, registra resultados mensuráveis com prazo e prescreve intervenções com horário, mas não indica qual diagnóstico será abordado primeiro. Pela Resolução COFEN 736/2024, que elemento do Planejamento ficou incompleto?",
+  "alts": [
+   "Coleta de dados subjetivos e objetivos.",
+   "Checagem da execução da prescrição pela equipe.",
+   "Análise dos resultados alcançados no plantão.",
+   "Priorização dos diagnósticos de enfermagem.",
+   "Inclusão da prescrição médica no plano."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, art. 4º, § 3º",
+  "coment": "O § 3º do art. 4º da Resolução COFEN 736/2024 estabelece que o Planejamento de Enfermagem envolve três elementos: priorização de Diagnósticos de Enfermagem; determinação de resultados quantitativos e/ou qualitativos esperados e exequíveis; e tomada de decisão terapêutica, declarada pela prescrição de enfermagem. A enfermeira cumpriu os dois últimos e omitiu a priorização. No caso, a dor que limita a deambulação tende a ser prioridade, porque o controle dela permite progredir a mobilidade. Coleta de dados é Avaliação, checagem é Implementação, análise de resultados é Evolução, e a prescrição médica não integra o planejamento de enfermagem.",
+  "porAlt": [
+   "Errada: coleta de dados subjetivos e objetivos é a etapa de Avaliação de Enfermagem, não elemento do Planejamento.",
+   "Errada: a checagem da execução pertence à Implementação, conforme o § 4º do art. 4º.",
+   "Errada: a análise dos resultados alcançados é a Evolução de Enfermagem, quinta etapa.",
+   "Correta: priorizar os diagnósticos é o primeiro elemento do Planejamento no § 3º do art. 4º.",
+   "Errada: a prescrição médica não é elemento do planejamento de enfermagem; foi distrator na EBSERH 2024."
+  ]
+ },
+ {
+  "q": "Na UTI, a enfermeira prescreve higiene oral com horário para um paciente intubado, conduz com a fisioterapia o protocolo de desmame ventilatório e, por rotina aprovada pela instituição, solicita exames de controle. Segundo os padrões da Implementação na Resolução COFEN 736/2024, o cuidado no desmame, feito em conjunto com a fisioterapia, corresponde a qual padrão?",
+  "alts": [
+   "Padrão de cuidados autônomos do enfermeiro.",
+   "Padrão de cuidados interprofissionais.",
+   "Padrão de cuidados em programas de saúde.",
+   "Cuidado delegado pela prescrição médica.",
+   "Atividade da fisioterapia, alheia ao PE."
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024, art. 4º, § 4º, incisos I a III",
+  "coment": "O § 4º do art. 4º da Resolução COFEN 736/2024 apoia a Implementação em três padrões. O inciso I trata dos cuidados autônomos, prescritos pelo enfermeiro de forma independente e executados por enfermeiro, técnico ou auxiliar conforme a competência: a higiene oral do caso. O inciso II trata dos cuidados interprofissionais, colaborativos com as demais profissões de saúde: o desmame conduzido com a fisioterapia. O inciso III trata dos cuidados advindos de protocolos, como prescrição de medicamentos padronizados em programas e rotinas aprovadas e solicitação de exames de rotina e complementares: os exames do caso. A implementação não se restringe às ações autônomas.",
+  "porAlt": [
+   "Errada: autônomo é o cuidado prescrito pelo enfermeiro de forma independente, como a higiene oral do caso.",
+   "Correta: cuidados colaborativos com outras profissões, como o desmame com a fisioterapia, são o padrão do inciso II.",
+   "Errada: o padrão de programas de saúde abrange protocolos, como a solicitação de exames por rotina aprovada.",
+   "Errada: a norma não classifica o cuidado colaborativo como mera delegação; ele integra a Implementação de Enfermagem.",
+   "Errada: a resolução inclui expressamente os cuidados colaborativos com outras profissões na Implementação."
+  ]
+ },
+ {
+  "q": "Durante auditoria de prontuários eletrônicos, a comissão de ética de enfermagem de um hospital encontra pacientes sem anotação de enfermagem dos técnicos, justificada pela chefia com o argumento de que 'o Processo de Enfermagem é documentado pelo enfermeiro'. Segundo o art. 8º da Resolução COFEN 736/2024, como se distribui a documentação?",
+  "alts": [
+   "O enfermeiro registra; técnicos e auxiliares comunicam o executado verbalmente.",
+   "O técnico registra a evolução; o enfermeiro registra o diagnóstico e a prescrição.",
+   "Cada categoria registra no prontuário físico, pois o eletrônico não tem validade.",
+   "O enfermeiro registra o diagnóstico; a equipe registra as demais etapas do processo.",
+   "O enfermeiro registra todas as etapas; a equipe faz anotação, checagem e registros próprios."
+  ],
+  "gab": 4,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, art. 8º; Decreto 94.406/1987, art. 14",
+  "coment": "O art. 8º da Resolução COFEN 736/2024 determina que a documentação do Processo de Enfermagem seja feita formalmente no prontuário do paciente, físico ou eletrônico, cabendo ao enfermeiro o registro de todas as suas etapas e aos membros da equipe de enfermagem a Anotação de Enfermagem, a checagem da prescrição e a documentação de outros registros próprios da enfermagem. O Decreto 94.406/1987, art. 14, já incumbia a todo o pessoal de enfermagem anotar no prontuário as atividades da assistência. A justificativa da chefia contraria a norma: a ausência de anotação dos técnicos é falha de registro.",
+  "porAlt": [
+   "Errada: a resolução atribui à equipe a anotação e a checagem; comunicação verbal não substitui o registro.",
+   "Errada: a evolução de enfermagem cabe ao enfermeiro, que registra todas as etapas do processo.",
+   "Errada: o art. 8º admite expressamente o prontuário físico ou eletrônico.",
+   "Errada: o enfermeiro registra todas as etapas, e não apenas o diagnóstico.",
+   "Correta: é a divisão do art. 8º, que mantém a anotação e a checagem como deveres da equipe."
+  ]
+ },
+ {
+  "q": "Uma mulher de 69 anos está internada na unidade de AVC. A cada turno, a equipe reaplica a Escala de Coma de Glasgow e a Escala de Braden, e o enfermeiro entrevista a acompanhante sobre aceitação da dieta e eliminações. Pela Resolução COFEN 736/2024, essa coleta repetida de dados pertence a qual etapa do Processo de Enfermagem?",
+  "alts": [
+   "Implementação, pois as escalas são aplicadas pela equipe.",
+   "Diagnóstico, pois o escore da escala já define o rótulo.",
+   "Avaliação de Enfermagem, que é inicial e contínua.",
+   "Planejamento, pois o escore define a prioridade do plano.",
+   "Histórico de Enfermagem, restrito à admissão."
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, art. 4º, § 1º",
+  "coment": "O § 1º do art. 4º da Resolução COFEN 736/2024 define a Avaliação de Enfermagem como a coleta de dados subjetivos (entrevista) e objetivos (exame físico), inicial e contínua, com auxílio de técnicas como exames, testes clínicos, escalas de avaliação validadas e protocolos institucionais. Reaplicar Glasgow e Braden a cada turno e entrevistar a acompanhante são, portanto, Avaliação, e não apenas a coleta da admissão. O escore de uma escala é dado que o enfermeiro interpreta para formular o diagnóstico; ele não substitui o julgamento clínico. Histórico era o nome da primeira etapa na Resolução 358/2009, revogada.",
+  "porAlt": [
+   "Errada: quem aplica a escala não muda a natureza da ação; coletar dados com escalas é Avaliação de Enfermagem.",
+   "Errada: o escore é dado para o julgamento clínico; o diagnóstico é formulado pelo enfermeiro a partir dele.",
+   "Correta: o § 1º do art. 4º define a Avaliação como inicial e contínua, com escalas validadas.",
+   "Errada: o planejamento usa os dados da avaliação, mas coletá-los não é elemento do Planejamento.",
+   "Errada: Histórico era o nome usado pela Resolução 358/2009, e a coleta não se restringe à admissão."
+  ]
+ },
+ {
+  "q": "Após artroplastia de quadril, um homem de 71 anos tem como resultado esperado deambular 20 metros com andador até o terceiro dia. No terceiro dia, caminha 5 metros, refere dor 6 em 10 e recusou duas sessões de deambulação, registradas como não realizadas na checagem. Na Evolução de Enfermagem, qual conduta é adequada?",
+  "alts": [
+   "Encerrar o diagnóstico, pois houve alguma melhora da marcha.",
+   "Registrar o resultado parcial e rever diagnóstico, meta e prescrição.",
+   "Manter o plano sem mudanças até a alta hospitalar do paciente.",
+   "Delegar ao técnico a redefinição da meta de deambulação diária.",
+   "Transferir o problema para a prescrição médica do dia seguinte."
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Resolução COFEN 736/2024, art. 4º, §§ 4º e 5º",
+  "coment": "A Evolução de Enfermagem compreende a avaliação dos resultados alcançados e permite a análise e a revisão de todo o Processo de Enfermagem (art. 4º, § 5º, da Resolução COFEN 736/2024). O resultado foi alcançado só em parte. A checagem, parte da Implementação (§ 4º), mostra que duas sessões não foram feitas, e a dor moderada aparece como fator que limita a mobilidade. O enfermeiro registra o resultado parcial e revisa o plano: pode incluir controle da dor antes da deambulação, reavaliar o prazo da meta e ajustar a prescrição. Encerrar, manter sem mudança ou transferir a decisão contraria a lógica cíclica do processo.",
+  "porAlt": [
+   "Errada: o diagnóstico só se encerra quando o resultado esperado é alcançado, o que não ocorreu.",
+   "Correta: a evolução compara o obtido com o esperado e revisa diagnóstico, meta e prescrição.",
+   "Errada: resultado parcial com fator limitante identificado exige revisão do plano, e não manutenção.",
+   "Errada: definir resultados esperados é elemento do Planejamento, de competência do enfermeiro.",
+   "Errada: a dor e a mobilidade são respostas humanas que a prescrição de enfermagem deve abordar."
+  ]
+ },
+ {
+  "q": "A comissão de Processo de Enfermagem de um hospital universitário propõe usar, ao mesmo tempo, a teoria de Horta para o instrumento de admissão, a NANDA-I, a NOC e a NIC para diagnósticos, resultados e intervenções, a Escala de Braden e o protocolo institucional de sepse. Pela Resolução COFEN 736/2024, a proposta está de acordo com a norma?",
+  "alts": [
+   "Inadequada, pois a norma exige um único referencial teórico.",
+   "Inadequada, pois escalas de risco não servem de suporte ao processo.",
+   "Adequada se o COREN aprovar antes o referencial adotado.",
+   "Adequada, pois os suportes teóricos podem se associar entre si.",
+   "Adequada na atenção primária, onde o PE é chamado consulta."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024, arts. 2º e 3º",
+  "coment": "O art. 2º da Resolução COFEN 736/2024 determina que o Processo de Enfermagem seja fundamentado em suporte teórico e admite que esses suportes estejam associados entre si: teorias e modelos de cuidado, sistemas de linguagens padronizadas, instrumentos validados de predição de risco e protocolos baseados em evidências. O art. 3º acrescenta que diagnósticos, resultados e intervenções podem se apoiar em linguagens padronizadas e protocolos. A Resolução 358/2009 falava em um suporte teórico; a norma vigente permite a combinação. A proposta da comissão, que une Horta, NNN, Braden e protocolo de sepse, é compatível com a resolução.",
+  "porAlt": [
+   "Errada: a exigência de um único suporte teórico era a leitura da 358/2009; a 736 admite associação.",
+   "Errada: o art. 2º cita expressamente instrumentos validados de predição de risco como suporte.",
+   "Errada: a resolução não condiciona a escolha do referencial à aprovação prévia do COREN.",
+   "Correta: o art. 2º admite suportes teóricos associados, como teoria, linguagem padronizada, escalas e protocolos.",
+   "Errada: o PE é obrigatório em todo contexto de cuidado, e a consulta segue suas etapas em qualquer serviço."
+  ]
+ },
+ {
+  "q": "O edital de uma residência pede 'etapas da SAE'. Uma candidata que estudou pela Resolução COFEN 358/2009 pergunta à preceptora qual a diferença entre Sistematização da Assistência de Enfermagem (SAE) e Processo de Enfermagem (PE) e como responder à prova. Qual orientação está correta?",
+  "alts": [
+   "SAE e PE são sinônimos, e as etapas seguem a Resolução COFEN 358/2009.",
+   "A 736/2024 criou a SAE como sexta etapa, depois da Evolução.",
+   "SAE é o PE da atenção primária; no hospital, chama-se consulta.",
+   "O PE é o conjunto de impressos; a SAE é o julgamento clínico.",
+   "SAE organizava método, pessoal e instrumentos; etapas seguem a 736."
+  ],
+  "gab": 4,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024, arts. 1º, 4º e 14; Resolução COFEN 358/2009 (revogada)",
+  "coment": "Na Resolução COFEN 358/2009, a SAE organizava o trabalho profissional quanto a método, pessoal e instrumentos, tornando possível aplicar o Processo de Enfermagem. A Resolução COFEN 736/2024, que revogou a 358 no art. 14, trata apenas do Processo de Enfermagem: método que orienta o pensamento crítico e o julgamento clínico, com cinco etapas (Avaliação, Diagnóstico, Planejamento, Implementação e Evolução). Os editais, como o Anexo III do ENARE, ainda usam a sigla SAE; na prova, as etapas pedidas são as do PE, respondidas pela norma vigente, e não pela resolução revogada.",
+  "porAlt": [
+   "Errada: os conceitos eram distintos, e a 358/2009 foi revogada; as etapas vigentes são as da 736/2024.",
+   "Errada: a 736/2024 não criou etapa nova; deixou a sigla SAE de lado e tem cinco etapas.",
+   "Errada: consulta de enfermagem não é sinônimo de SAE; ela segue as etapas do PE onde ocorrer.",
+   "Errada: o PE é o método clínico que orienta o julgamento, e não um conjunto de impressos.",
+   "Correta: SAE era a organização do trabalho; as etapas cobradas são as do PE da 736/2024."
+  ]
+ },
+ {
+  "q": "Ao revisar as anotações do plantão, a enfermeira encontra o registro 'paciente poliqueixoso e difícil' sobre uma mulher de 45 anos internada por pielonefrite. Ela orienta a técnica a reescrever a anotação segundo as recomendações para registro de enfermagem. Qual redação atende a essas recomendações?",
+  "alts": [
+   "12h: recusou o almoço, referiu náusea; enfermeira comunicada.",
+   "12h: paciente difícil, recusando os cuidados durante o turno.",
+   "12h: paciente poliqueixosa, sem intercorrências relevantes.",
+   "12h: paciente evoluindo bem, mantidos os cuidados prescritos.",
+   "12h: paciente não colaborativa, orientada quanto à dieta."
+  ],
+  "gab": 0,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 514/2016 (Guia de Recomendações para Registro de Enfermagem); Resolução COFEN 736/2024, art. 8º",
+  "coment": "A Anotação de Enfermagem, atribuída à equipe pelo art. 8º da Resolução COFEN 736/2024, é registro descritivo: o que foi observado e feito, quando, com que resposta e a quem foi comunicado. O Guia de Recomendações da Resolução COFEN 514/2016 orienta registros legíveis, cronológicos, com hora e identificação, descrevendo fatos em vez de rótulos de julgamento. Termos como difícil, poliqueixosa ou não colaborativa não informam o que aconteceu e não servem de prova em auditoria ou processo ético. A redação correta traz horário, comportamento observado, queixa referida e comunicação ao enfermeiro.",
+  "porAlt": [
+   "Correta: descreve fato observado, queixa e comunicação, com horário, como recomenda o guia de registro.",
+   "Errada: 'difícil' é rótulo de julgamento e não diz qual cuidado foi recusado nem por quê.",
+   "Errada: 'poliqueixosa' rotula a paciente e omite as queixas, que precisam ser descritas.",
+   "Errada: 'evoluindo bem' é avaliação genérica sem dado observado e se confunde com a evolução do enfermeiro.",
+   "Errada: 'não colaborativa' é rótulo, e a orientação dada não está descrita nem associada a um fato."
+  ]
+ },
+ {
+  "q": "Em consulta de enfermagem numa unidade básica, a enfermeira acompanha um homem de 34 anos com tuberculose pulmonar em tratamento. Ela prescreve o medicamento do esquema padronizado, conforme o protocolo do programa adotado pelo município, e solicita a baciloscopia de controle. Com que fundamento legal o enfermeiro prescreve esse medicamento?",
+  "alts": [
+   "Como ato privativo, igual à prescrição da assistência de enfermagem.",
+   "Por delegação verbal do médico da equipe, registrada no prontuário.",
+   "Como integrante da equipe, em programa de saúde pública ou rotina aprovada.",
+   "Pela autonomia plena, dispensando protocolo do programa ou da própria instituição.",
+   "Em situação de urgência, quando não houver médico presente na unidade."
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Consulta de enfermagem",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 7.498/1986, art. 11, II, c; Resolução COFEN 736/2024, art. 4º, § 4º, III; Resolução COFEN 801/2026",
+  "coment": "A Lei 7.498/1986 separa duas prescrições. A prescrição da assistência de enfermagem é privativa do enfermeiro (art. 11, I) e corresponde à Prescrição de Enfermagem do Processo de Enfermagem. A prescrição de medicamentos está no art. 11, II, alínea c: o enfermeiro a exerce como integrante da equipe de saúde, quando os medicamentos estão estabelecidos em programas de saúde pública e em rotina aprovada pela instituição. A Resolução COFEN 736/2024 repete essa previsão no padrão de cuidados em programas de saúde (art. 4º, § 4º, III), e as diretrizes atuais estão na Resolução COFEN 801/2026, apoiada no mesmo dispositivo legal.",
+  "porAlt": [
+   "Errada: a prescrição de medicamentos está no inciso II do art. 11, como integrante da equipe, e não entre as privativas.",
+   "Errada: o fundamento é a lei e o protocolo do programa, e não uma delegação verbal do médico.",
+   "Correta: é a hipótese do art. 11, II, c, da Lei 7.498/1986, retomada no padrão de programas de saúde da 736/2024.",
+   "Errada: a prescrição de medicamentos pelo enfermeiro depende de programa de saúde pública ou rotina institucional aprovada.",
+   "Errada: a lei não condiciona essa prescrição à urgência nem à ausência do médico; exige programa ou rotina aprovada."
+  ]
+ },
+ {
+  "q": "Numa reunião de equipe da Estratégia Saúde da Família, um enfermeiro recém-formado afirma que 'consulta de enfermagem é só o nome que o Processo de Enfermagem recebe fora do hospital, então não precisa seguir etapas'. A enfermeira supervisora corrige a afirmação com base na Resolução COFEN 736/2024. O que diz a norma vigente?",
+  "alts": [
+   "A consulta substitui o PE na atenção primária e dispensa diagnóstico.",
+   "A consulta segue as etapas do PE quando houver prescrição de medicamento.",
+   "A consulta pode ser feita pelo técnico, desde que validada pelo enfermeiro.",
+   "A consulta deve ser organizada e registrada conforme as etapas do PE.",
+   "A consulta é registrada só no formato SOAP, que substitui as etapas do PE."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Consulta de enfermagem",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, art. 5º; Lei 7.498/1986, art. 11, I, i",
+  "coment": "Na Resolução COFEN 358/2009, a consulta de enfermagem era tratada como o nome do Processo de Enfermagem realizado fora do ambiente hospitalar. A Resolução COFEN 736/2024 inverteu a lógica: o art. 5º determina que a consulta de enfermagem seja organizada e registrada conforme as etapas do Processo de Enfermagem, onde quer que ocorra. A consulta continua privativa do enfermeiro (Lei 7.498/1986, art. 11, I, alínea i). O formato SOAP pode ser usado no registro, mas como forma de documentar as etapas, e não como substituto delas.",
+  "porAlt": [
+   "Errada: a consulta não substitui o PE; ela é organizada pelas etapas dele, incluindo o diagnóstico.",
+   "Errada: o art. 5º vale para toda consulta, com ou sem prescrição de medicamento.",
+   "Errada: a consulta de enfermagem é privativa do enfermeiro pelo art. 11, I, i, da Lei 7.498/1986.",
+   "Correta: é o texto do art. 5º da Resolução COFEN 736/2024.",
+   "Errada: o SOAP é formato compatível de registro, mas não substitui as etapas do Processo de Enfermagem."
+  ]
+ },
+ {
+  "q": "Na consulta de um homem de 58 anos com hipertensão, a enfermeira registra em formato SOAP: S, relato de cefaleia e uso irregular do anti-hipertensivo; O, PA 168/100 mmHg e IMC 31 kg/m²; A, julgamento sobre adesão ao tratamento; P, orientações e retorno em 15 dias. Na correspondência com o Processo de Enfermagem, o campo A equivale a qual etapa?",
+  "alts": [
+   "Avaliação de Enfermagem, a primeira etapa do processo.",
+   "Diagnóstico de Enfermagem, o julgamento clínico dos dados.",
+   "Implementação, pois registra as condutas já realizadas.",
+   "Planejamento, pois define as metas de controle da pressão.",
+   "Coleta de dados objetivos do exame físico da consulta."
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Consulta de enfermagem",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Parecer Conjunto de Câmaras Técnicas COFEN 004/2022 (SOAP na Atenção Primária); Resolução COFEN 736/2024, arts. 4º e 5º",
+  "coment": "O Parecer Conjunto de Câmaras Técnicas 004/2022, citado nos considerandos da Resolução COFEN 736/2024, considera o SOAP compatível com o Processo de Enfermagem na Atenção Primária. Na correspondência, S e O são a Avaliação de Enfermagem (dados subjetivos e objetivos), A é a análise que gera o Diagnóstico de Enfermagem, e P reúne Planejamento e Implementação; a Evolução aparece no retorno. A armadilha é o nome: no SOAP, avaliação significa análise e julgamento clínico, enquanto na 736/2024 Avaliação de Enfermagem é a primeira etapa, de coleta de dados.",
+  "porAlt": [
+   "Errada: a Avaliação de Enfermagem da 736/2024 é a coleta de dados, que no SOAP corresponde a S e O.",
+   "Correta: o A do SOAP é a análise dos dados, o julgamento clínico que formula o Diagnóstico de Enfermagem.",
+   "Errada: condutas e orientações ficam no P, que corresponde a Planejamento e Implementação.",
+   "Errada: metas e plano de cuidado são registrados no P, e não no campo de análise.",
+   "Errada: dados objetivos do exame físico, como a pressão arterial, são registrados no campo O."
+  ]
+ },
+ {
+  "q": "Para reduzir a fila da puericultura, a gerente de uma unidade básica propõe que as técnicas de enfermagem realizem sozinhas as consultas de enfermagem de crianças de baixo risco, com a enfermeira assinando os registros ao fim do dia. A proposta é compatível com a legislação do exercício profissional?",
+  "alts": [
+   "Não, pois a consulta de enfermagem é privativa do enfermeiro.",
+   "Sim, se a criança estiver classificada como de baixo risco.",
+   "Sim, desde que a enfermeira assine as consultas depois.",
+   "Sim, pois a lei permite a consulta ao técnico supervisionado.",
+   "Não, pois a puericultura é atribuição exclusiva do médico."
+  ],
+  "gab": 0,
+  "tema": "sae",
+  "sub": "Consulta de enfermagem",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 7.498/1986, art. 11, I, i; Decreto 94.406/1987, art. 8º, I, e; Resolução COFEN 736/2024, art. 5º",
+  "coment": "A consulta de enfermagem é atividade privativa do enfermeiro: Lei 7.498/1986, art. 11, inciso I, alínea i, repetida no Decreto 94.406/1987, art. 8º, I, e. O técnico de enfermagem executa ações assistenciais, exceto as privativas do enfermeiro (Lei, art. 12), sempre sob orientação e supervisão (art. 15). A assinatura posterior não transforma em ato do enfermeiro uma consulta que ele não realizou. A puericultura de risco habitual é cuidado que o enfermeiro conduz na Atenção Primária, com a consulta organizada pelas etapas do Processo de Enfermagem (Resolução COFEN 736/2024, art. 5º). A falta de profissional é problema de dimensionamento.",
+  "porAlt": [
+   "Correta: a consulta de enfermagem é privativa do enfermeiro pelo art. 11, I, i, da Lei 7.498/1986.",
+   "Errada: a classificação de risco da criança não altera a competência legal para realizar a consulta.",
+   "Errada: assinar depois não convalida ato privativo realizado por profissional sem competência legal.",
+   "Errada: o técnico executa ações assistenciais, exceto as privativas do enfermeiro, como a consulta.",
+   "Errada: a consulta de puericultura de risco habitual é realizada também pelo enfermeiro na Atenção Primária."
+  ]
+ },
+ {
+  "q": "Na primeira consulta de pré-natal de risco habitual de uma gestante de 24 anos, com 10 semanas, a enfermeira realiza várias ações. Considerando os três padrões da Implementação da Resolução COFEN 736/2024, qual ação corresponde ao padrão de cuidados em programas de saúde?",
+  "alts": [
+   "Orientar sinais de alarme e preparo para a amamentação.",
+   "Discutir com a nutricionista o plano alimentar da gestante.",
+   "Aferir a pressão arterial e registrar o peso na caderneta.",
+   "Encaminhar ao médico a queixa nova de sangramento vaginal.",
+   "Solicitar exames de rotina previstos no protocolo do pré-natal."
+  ],
+  "gab": 4,
+  "tema": "sae",
+  "sub": "Consulta de enfermagem",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024, art. 4º, § 4º, incisos I a III",
+  "coment": "O inciso III do § 4º do art. 4º da Resolução COFEN 736/2024 define os padrões de cuidados em programas de saúde como os advindos de protocolos assistenciais, tais como a prescrição de medicamentos padronizados nos programas de saúde pública e em rotina aprovada pela instituição e a solicitação de exames de rotina e complementares. Solicitar os exames previstos no protocolo do pré-natal é exemplo direto. Orientar é cuidado autônomo (inciso I); discutir o plano com a nutricionista e encaminhar ao médico são cuidados interprofissionais (inciso II); aferir pressão e peso é coleta de dados da Avaliação.",
+  "porAlt": [
+   "Errada: orientação de sinais de alarme é cuidado autônomo do enfermeiro, do inciso I.",
+   "Errada: o plano construído com a nutricionista é cuidado interprofissional, do inciso II.",
+   "Errada: aferir pressão e peso é coleta de dados objetivos, própria da Avaliação de Enfermagem.",
+   "Errada: encaminhar a queixa nova ao médico é cuidado colaborativo, do padrão interprofissional.",
+   "Correta: solicitar exames de rotina por protocolo é o padrão de programas de saúde do inciso III."
+  ]
+ },
+ {
+  "q": "Uma enfermeira atende, em consulta de enfermagem, uma mulher de 61 anos com diabetes tipo 2 e registra apenas: 'orientada sobre dieta e atividade física; retorno em três meses'. Na supervisão, o registro é considerado incompleto à luz da Resolução COFEN 736/2024. Qual é a principal falha?",
+  "alts": [
+   "Faltou a assinatura do médico, exigida em toda consulta de enfermagem.",
+   "Faltou o formato SOAP, único modelo aceito para consultas na atenção básica.",
+   "Faltaram dados da avaliação, diagnóstico, resultados esperados e plano.",
+   "Faltou a prescrição de medicamento, obrigatória em consultas de diabetes.",
+   "Faltou a anotação da técnica, que valida a consulta da enfermeira."
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Consulta de enfermagem",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024, arts. 5º e 8º",
+  "coment": "O art. 5º da Resolução COFEN 736/2024 determina que a consulta de enfermagem seja organizada e registrada conforme as etapas do Processo de Enfermagem, e o art. 8º atribui ao enfermeiro o registro de todas as etapas no prontuário. O registro do caso traz só uma intervenção e o retorno. Faltam os dados da Avaliação (queixas, adesão, glicemias, exame dos pés), o Diagnóstico de Enfermagem, os resultados esperados e a prescrição do Planejamento; no retorno, a Evolução comparará o obtido com o esperado. O SOAP é um formato aceito, mas não o único, e a consulta não depende de assinatura médica.",
+  "porAlt": [
+   "Errada: a consulta de enfermagem é privativa do enfermeiro e não depende de assinatura médica.",
+   "Errada: o SOAP é compatível com o PE, mas a norma não o impõe como modelo único de registro.",
+   "Correta: o art. 5º exige que a consulta siga e registre as etapas do Processo de Enfermagem.",
+   "Errada: prescrever medicamento não é obrigatório em toda consulta; depende do caso e de protocolo.",
+   "Errada: a anotação da técnica não valida nem substitui o registro das etapas pelo enfermeiro."
+  ]
+ },
+ {
+  "q": "A Resolução COFEN 736/2024 descreve o Diagnóstico de Enfermagem como a identificação de problemas existentes, condições de vulnerabilidade ou disposições para melhorar comportamentos de saúde. Uma residente quer relacionar essa redação aos tipos de diagnóstico da NANDA-I 2024-2026. A expressão 'condições de vulnerabilidade' corresponde a qual tipo?",
+  "alts": [
+   "Diagnóstico com foco no problema.",
+   "Diagnóstico de promoção da saúde.",
+   "Diagnóstico de síndrome de enfermagem.",
+   "Diagnóstico de enfermagem de risco.",
+   "Condição associada ao diagnóstico."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, art. 4º, § 2º; NANDA-I 2024-2026, 13ª ed.",
+  "coment": "O § 2º do art. 4º da Resolução COFEN 736/2024 descreve três objetos do diagnóstico, que correspondem aos tipos da NANDA-I 2024-2026. Problemas existentes são os diagnósticos com foco no problema, com características definidoras e fatores relacionados. Condições de vulnerabilidade são os diagnósticos de risco, que expressam suscetibilidade e se apoiam em fatores de risco, sem características definidoras. Disposições para melhorar são os diagnósticos de promoção da saúde, com rótulo iniciado por 'Disposição para melhorar'. A síndrome é um conjunto de diagnósticos que ocorrem juntos, e condição associada é componente complementar, não tipo de diagnóstico.",
+  "porAlt": [
+   "Errada: o diagnóstico com foco no problema corresponde aos problemas existentes, já presentes.",
+   "Errada: o diagnóstico de promoção da saúde corresponde às disposições para melhorar comportamentos.",
+   "Errada: síndrome é um agrupamento de diagnósticos que ocorrem juntos, não a vulnerabilidade.",
+   "Correta: vulnerabilidade é suscetibilidade, a essência do diagnóstico de risco da NANDA-I.",
+   "Errada: condição associada é componente complementar, como diagnóstico médico ou dispositivo, e não um tipo."
+  ]
+ },
+ {
+  "q": "Em consulta de enfermagem, um homem de 36 anos, IMC 23 kg/m², exames recentes normais, sem queixas, conta que passou a cozinhar em casa e pede ajuda para montar refeições mais variadas e equilibradas para a semana. Considerando os dados e a NANDA-I 2024-2026, qual diagnóstico de enfermagem é mais apropriado?",
+  "alts": [
+   "Risco de ingestão nutricional inadequada.",
+   "Disposição para ingestão nutricional melhorada.",
+   "Comportamentos ineficazes de manutenção da saúde.",
+   "Ingestão nutricional proteico-calórica inadequada.",
+   "Disposição para envelhecimento saudável melhorado."
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NANDA-I 2024-2026, 13ª ed. (diagnósticos de promoção da saúde); Resolução COFEN 736/2024, art. 4º, § 2º",
+  "coment": "O caso não traz problema presente nem fator de suscetibilidade: IMC adequado, exames normais, sem queixas. O dado decisivo é o desejo expresso de melhorar um comportamento de saúde que já é adequado, o que define o diagnóstico de promoção da saúde da NANDA-I 2024-2026. Nesse tipo, a característica definidora é o próprio desejo manifestado pela pessoa, e o rótulo expressa disposição para melhorar, aqui no domínio Nutrição. Diagnóstico de risco exigiria fatores de risco identificados, e os diagnósticos com foco no problema exigiriam sinais de ingestão insuficiente ou de manejo ineficaz da saúde.",
+  "porAlt": [
+   "Errada: não há fator de risco descrito; o dado central é o desejo de melhorar a alimentação.",
+   "Correta: desejo expresso de melhorar um comportamento adequado caracteriza diagnóstico de promoção da saúde.",
+   "Errada: o paciente mantém exames normais e busca melhorar; não há manejo ineficaz da saúde.",
+   "Errada: IMC adequado e exames normais não sustentam ingestão proteico-calórica inadequada.",
+   "Errada: é promoção da saúde, mas o foco descrito é a alimentação, e não o envelhecimento."
+  ]
+ },
+ {
+  "q": "No quinto dia após colectomia, uma mulher de 63 anos apresenta temperatura de 38,4 °C, hiperemia e secreção purulenta na incisão. A residente registra: 'Risco de infecção evidenciado por febre, hiperemia e secreção purulenta na ferida operatória'. A preceptora aponta erro de raciocínio diagnóstico. Qual é o erro?",
+  "alts": [
+   "Faltou citar a colectomia como fator relacionado do diagnóstico.",
+   "O rótulo correto seria Risco de sangramento da ferida operatória.",
+   "Diagnóstico de risco exige pelo menos três sinais clínicos presentes.",
+   "O conectivo 'evidenciado por' cabe apenas no diagnóstico de promoção da saúde.",
+   "Sinais presentes excluem o risco, que não tem características definidoras."
+  ],
+  "gab": 4,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "NANDA-I 2024-2026, 13ª ed. (componentes dos diagnósticos de risco)",
+  "coment": "Na NANDA-I 2024-2026, o diagnóstico de risco expressa suscetibilidade a uma resposta indesejável e se compõe de rótulo, definição e fatores de risco; não tem características definidoras. Sustentar um diagnóstico de risco com sinais e sintomas é contradição em termos: se febre, hiperemia e secreção purulenta já estão presentes, o problema existe, e o raciocínio deve seguir para um diagnóstico com foco no problema e para a comunicação à equipe médica. Usar a cirurgia como fator relacionado também seria erro, porque procedimento é condição associada e não orienta a prescrição de enfermagem.",
+  "porAlt": [
+   "Errada: a colectomia é condição associada, e usá-la como fator relacionado seria outro erro de raciocínio.",
+   "Errada: o caso não descreve sangramento, e o problema do enunciado é usar sinais num diagnóstico de risco.",
+   "Errada: o diagnóstico de risco não se apoia em sinais clínicos; seus componentes são fatores de risco.",
+   "Errada: o conectivo evidenciado por também introduz as características dos diagnósticos com foco no problema.",
+   "Correta: com sinais presentes, o problema já existe; diagnóstico de risco tem só fatores de risco."
+  ]
+ },
+ {
+  "q": "Uma mulher de 74 anos, em uso de varfarina por fibrilação atrial, é internada por pneumonia. O controle laboratorial mostra INR acima da faixa terapêutica. Ela não tem sangramento visível, hematomas, melena nem queda da hemoglobina, e os sinais vitais estão estáveis. Considerando a NANDA-I 2024-2026, qual diagnóstico orienta a vigilância desse achado?",
+  "alts": [
+   "Risco de sangramento, com vigilância de sinais hemorrágicos.",
+   "Risco de choque, com monitorização para hipotensão grave.",
+   "Perfusão tissular periférica ineficaz, com aquecimento dos membros.",
+   "Débito cardíaco diminuído, com controle rigoroso da frequência.",
+   "Risco de infecção, com isolamento de contato no leito."
+  ],
+  "gab": 0,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "NANDA-I 2024-2026, 13ª ed.; Resolução COFEN 736/2024, art. 4º, § 2º",
+  "coment": "A anticoagulação acima da faixa terapêutica aumenta a suscetibilidade a sangramento, mas a paciente não tem nenhum sinal hemorrágico presente: sem sangramento visível, hematomas, melena ou queda da hemoglobina. Pela NANDA-I 2024-2026, vulnerabilidade sem característica definidora corresponde a diagnóstico de risco, e Risco de sangramento direciona a prescrição: inspeção de pele, mucosas, urina e fezes, cuidado com punções e comunicação à equipe médica. Sinais vitais estáveis afastam choque iminente, e não há dados de má perfusão periférica nem de débito cardíaco diminuído que justifiquem diagnóstico com foco no problema.",
+  "porAlt": [
+   "Correta: há suscetibilidade a sangramento sem sinais presentes, o que define o diagnóstico de risco.",
+   "Errada: os sinais vitais estão estáveis, e o fator de suscetibilidade descrito é a anticoagulação excessiva.",
+   "Errada: não há sinais de má perfusão periférica, que seriam necessários num diagnóstico com foco no problema.",
+   "Errada: não há hipotensão, baixo débito nem outros sinais de débito cardíaco diminuído no caso.",
+   "Errada: a pneumonia já está presente, e o achado que pede vigilância é o INR acima do alvo."
+  ]
+ },
+ {
+  "q": "Ao estudar a NANDA-I 2024-2026, um residente encontra um diagnóstico cujas características definidoras são outros diagnósticos de enfermagem, como Mobilidade física prejudicada e Habilidade de banhar-se diminuída, que ocorrem juntos e se tratam melhor por intervenções comuns. A que tipo de diagnóstico ele se refere?",
+  "alts": [
+   "Diagnóstico de risco, por fatores de suscetibilidade.",
+   "Diagnóstico com foco no problema, por sinais isolados.",
+   "Diagnóstico de síndrome, por agrupamento de diagnósticos.",
+   "Diagnóstico de promoção da saúde, por desejo expresso.",
+   "Condição associada, por diagnóstico médico subjacente."
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NANDA-I 2024-2026, 13ª ed. (tipos de diagnóstico e componentes)",
+  "coment": "A NANDA-I 2024-2026 reconhece quatro tipos de diagnóstico. O de síndrome é um julgamento clínico sobre um conjunto de diagnósticos de enfermagem que ocorrem juntos e são mais bem abordados em conjunto, por intervenções semelhantes; por isso suas características definidoras são outros diagnósticos de enfermagem. Exemplo presente nos cadernos do ENARE 2026/27 é a Síndrome da habilidade de autocuidado diminuída. O diagnóstico com foco no problema tem características definidoras e fatores relacionados; o de risco, fatores de risco; o de promoção da saúde, o desejo expresso. Condição associada é componente complementar, e não tipo de diagnóstico.",
+  "porAlt": [
+   "Errada: o diagnóstico de risco se apoia em fatores de risco e não tem outros diagnósticos como características.",
+   "Errada: o diagnóstico com foco no problema tem sinais e sintomas como características, não outros diagnósticos.",
+   "Correta: síndrome é o diagnóstico cujas características definidoras são outros diagnósticos que ocorrem juntos.",
+   "Errada: a promoção da saúde se caracteriza pelo desejo expresso de melhorar, e não por agrupamento.",
+   "Errada: condição associada, como diagnóstico médico ou procedimento, é componente complementar, não tipo."
+  ]
+ },
+ {
+  "q": "Um homem de 52 anos, no primeiro dia após colecistectomia aberta com incisão subcostal, respira de forma superficial, com FR 26 irpm, e evita inspirar fundo por dor intensa na incisão. SpO2 95% em ar ambiente, murmúrio vesicular presente bilateralmente. Qual enunciado diagnóstico segue o raciocínio da NANDA-I 2024-2026?",
+  "alts": [
+   "Padrão respiratório ineficaz relacionado à colecistectomia, evidenciado por dor.",
+   "Padrão respiratório ineficaz relacionado à dor, evidenciado por respiração superficial.",
+   "Padrão respiratório ineficaz relacionado à taquipneia, evidenciado por dor incisional.",
+   "Troca de gases prejudicada relacionada à anestesia geral, evidenciada por dor.",
+   "Padrão respiratório ineficaz relacionado ao pós-operatório imediato, evidenciado por taquipneia."
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "NANDA-I 2024-2026, 13ª ed. (formato rótulo, fatores relacionados e características definidoras)",
+  "coment": "O enunciado clássico, herdado do formato PES, é rótulo, relacionado a fatores relacionados, evidenciado por características definidoras. O fator relacionado é a causa sobre a qual a enfermagem age, e dele sai a prescrição: aqui, a dor que impede a inspiração profunda, tratável com analgesia no horário, apoio da incisão e exercícios respiratórios. Respiração superficial e taquipneia são as características definidoras. Cirurgia, anestesia e pós-operatório são condições associadas e não orientam a prescrição; trocar sinal por causa inverte os componentes. SpO2 de 95% com murmúrio preservado não sustenta Troca de gases prejudicada.",
+  "porAlt": [
+   "Errada: a cirurgia é condição associada, e a dor, que é causa, aparece no lugar de característica definidora.",
+   "Correta: a dor é o fator relacionado tratável, e a respiração superficial é a característica definidora.",
+   "Errada: inverte os componentes; taquipneia é sinal do problema, e a dor é a causa sobre a qual se age.",
+   "Errada: SpO2 de 95% e murmúrio preservado não indicam troca gasosa prejudicada, e a anestesia é condição associada.",
+   "Errada: pós-operatório imediato é contexto, e não fator relacionado que oriente a prescrição de enfermagem."
+  ]
+ },
+ {
+  "q": "Uma mulher de 29 anos chega à emergência com crise de asma após suspender a medicação inalatória por conta própria. Está ansiosa, fala frases curtas, tem sibilos difusos, uso de musculatura acessória e SpO2 88% em ar ambiente. Mora sozinha e diz não conseguir tomar banho sem ajuda durante as crises. Pela NANDA-I 2024-2026, qual diagnóstico é prioritário?",
+  "alts": [
+   "Ansiedade, pela fala em frases curtas e agitação na chegada.",
+   "Habilidade de banhar-se diminuída, pela dependência nas crises.",
+   "Comportamentos ineficazes de manutenção da saúde, pela suspensão do inalador.",
+   "Troca de gases prejudicada, pela hipoxemia com esforço respiratório.",
+   "Conexão social inadequada, por morar sozinha sem rede de apoio."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024, art. 4º, § 3º, I (priorização); NANDA-I 2024-2026, 13ª ed.",
+  "coment": "O primeiro elemento do Planejamento é a priorização dos diagnósticos (Resolução COFEN 736/2024, art. 4º, § 3º). O critério clínico é ameaça à vida e à função: via aérea, respiração e circulação vêm antes. A paciente tem SpO2 de 88% em ar ambiente, uso de musculatura acessória e fala em frases curtas, sinais de hipoxemia com esforço respiratório, o que torna Troca de gases prejudicada a prioridade. A suspensão da medicação, a dependência para o banho e a falta de rede de apoio são problemas reais, que entram no plano depois da estabilização, inclusive para prevenir novas crises.",
+  "porAlt": [
+   "Errada: a ansiedade existe, mas fala entrecortada é sinal de dispneia, e a hipoxemia ameaça a vida.",
+   "Errada: a dependência para o banho é real, mas não ameaça a vida no atendimento da crise.",
+   "Errada: a suspensão da medicação explica a crise e entra no plano, mas depois de corrigir a hipoxemia.",
+   "Correta: hipoxemia com esforço respiratório ameaça a vida e tem prioridade na emergência.",
+   "Errada: morar sozinha é dado social importante para a alta, mas não é a prioridade na emergência."
+  ]
+ },
+ {
+  "q": "Um homem de 81 anos, independente e orientado antes da internação segundo a filha, está no segundo dia após fixação de fratura de fêmur. Desde a noite anterior, alterna períodos de sonolência e agitação, não sustenta a atenção durante a conversa e não reconhece onde está. Considerando a NANDA-I 2024-2026, qual diagnóstico de enfermagem é mais apropriado?",
+  "alts": [
+   "Confusão aguda, pelo início súbito com flutuação da atenção.",
+   "Confusão crônica, pela idade avançada e desorientação.",
+   "Memória prejudicada, pelo não reconhecimento do local.",
+   "Processos de pensamento conturbados, pela agitação noturna intensa.",
+   "Ansiedade excessiva, pela internação e pela dor da fratura."
+  ],
+  "gab": 0,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NANDA-I 2024-2026, 13ª ed. (Domínio 5, Percepção/cognição)",
+  "coment": "O raciocínio parte do agrupamento dos dados: cognição normal antes da internação, início súbito no pós-operatório, flutuação entre sonolência e agitação, déficit de atenção e desorientação. Esse conjunto descreve alteração aguda e reversível da cognição e da atenção, o que corresponde a Confusão aguda no Domínio 5 (Percepção/cognição) da NANDA-I 2024-2026. Confusão crônica pressupõe deterioração progressiva e de longa duração, que a filha nega. A desorientação faz parte do quadro confusional e não autoriza escolher um rótulo mais restrito. O diagnóstico orienta reorientação, sono preservado, controle da dor e comunicação para investigar causas.",
+  "porAlt": [
+   "Correta: início súbito, flutuação e déficit de atenção num idoso antes orientado indicam Confusão aguda.",
+   "Errada: confusão crônica é progressiva e duradoura, e o paciente era orientado antes da internação.",
+   "Errada: não reconhecer o local é desorientação dentro do quadro confusional, e não déficit isolado de memória.",
+   "Errada: a agitação faz parte da flutuação; o conjunto de início súbito aponta para confusão aguda.",
+   "Errada: o quadro é de alteração da atenção e da consciência, e não de ansiedade com cognição preservada."
+  ]
+ },
+ {
+  "q": "Uma mulher de 66 anos, no quarto dia após AVC isquêmico, compreende ordens simples e acena corretamente com a cabeça, mas não consegue formar palavras e se irrita ao tentar responder. Está orientada, com atenção preservada, e não há alteração de memória relatada pela família. Pela NANDA-I 2024-2026, qual diagnóstico de enfermagem descreve o problema?",
+  "alts": [
+   "Confusão aguda, pelo início recente do quadro após o AVC.",
+   "Memória prejudicada, pela dificuldade em responder perguntas.",
+   "Processos de pensamento conturbados, pela irritação ao falar.",
+   "Autoestima situacional comprometida, pela frustração ao falar.",
+   "Comunicação verbal prejudicada, pela dificuldade de expressão."
+  ],
+  "gab": 4,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "NANDA-I 2024-2026, 13ª ed. (Domínio 5, Percepção/cognição, classe Comunicação)",
+  "coment": "Os dados se agrupam em torno da expressão verbal: a paciente compreende ordens e responde com gestos adequados, mas não consegue formar palavras. Orientação, atenção e memória estão preservadas. Esse agrupamento corresponde a Comunicação verbal prejudicada, na classe Comunicação do Domínio 5 da NANDA-I 2024-2026, rótulo que aparece no caderno do ENARE 2025/26. O diagnóstico orienta intervenções como perguntas fechadas, tempo para resposta, pranchas de comunicação e articulação com a fonoaudiologia. A irritação é reação compreensível à dificuldade e não sustenta, sozinha, outro diagnóstico prioritário.",
+  "porAlt": [
+   "Errada: a paciente está orientada e com atenção preservada, o que afasta quadro confusional.",
+   "Errada: a família não relata alteração de memória; a dificuldade está em formar palavras.",
+   "Errada: ela compreende e responde com gestos coerentes, o que indica pensamento organizado.",
+   "Errada: a frustração é reação ao problema central, que é a dificuldade de expressão verbal.",
+   "Correta: compreensão preservada com incapacidade de formar palavras configura Comunicação verbal prejudicada."
+  ]
+ },
+ {
+  "q": "Um adolescente de 15 anos recebeu, há duas horas, aparelho gessado circular no antebraço após redução de fratura. Os dedos estão corados, aquecidos, com enchimento capilar rápido, sensibilidade e movimentação preservadas, e a dor está controlada. A enfermeira planeja checagens periódicas de cor, temperatura, pulso, sensibilidade e movimentação distais. Qual diagnóstico da NANDA-I 2024-2026 fundamenta esse plano?",
+  "alts": [
+   "Perfusão tissular periférica ineficaz, com sinais de má perfusão.",
+   "Risco de sangramento, pela manipulação recente da fratura fechada.",
+   "Risco de função neurovascular periférica prejudicada, sem sinais atuais.",
+   "Integridade tissular prejudicada, pela lesão óssea no antebraço.",
+   "Mobilidade física prejudicada, pela imobilização do membro superior."
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "NANDA-I 2024-2026, 13ª ed. (diagnósticos de risco)",
+  "coment": "O exame distal está normal: dedos corados e aquecidos, enchimento capilar rápido, sensibilidade e movimentação preservadas, dor controlada. Não há característica definidora de problema presente. O que existe é suscetibilidade: fratura recente reduzida e gesso circular, que podem comprimir o membro com o edema das primeiras horas. Pela NANDA-I 2024-2026, essa situação corresponde a diagnóstico de risco, e Risco de função neurovascular periférica prejudicada, rótulo presente no caderno do ENARE 2026/27, sustenta a checagem seriada dos cinco parâmetros, a elevação do membro e a orientação para comunicar dor desproporcional ou parestesia.",
+  "porAlt": [
+   "Errada: o exame mostra boa perfusão distal, sem característica definidora de perfusão ineficaz.",
+   "Errada: a fratura é fechada, sem sangramento descrito, e o plano descrito vigia a função neurovascular.",
+   "Correta: há suscetibilidade sem sinais presentes, e o plano de checagem distal decorre desse risco.",
+   "Errada: o problema ósseo é diagnóstico médico; o plano descrito é de vigilância neurovascular.",
+   "Errada: a limitação do membro é esperada pela imobilização e não é o foco das checagens descritas."
+  ]
+ },
+ {
+  "q": "Para um paciente com dor pós-operatória, a enfermeira escolheu um resultado da NOC e pontuou um de seus indicadores em 2 na admissão, definindo 4 como pontuação-alvo para a alta. No terceiro dia, o mesmo indicador recebeu 3. Considerando a escala da NOC, como interpretar a evolução?",
+  "alts": [
+   "Piora, pois a pontuação se afastou do valor ideal 1.",
+   "Resultado alcançado, pois superou a pontuação inicial.",
+   "Condição ideal, pois 3 é o ponto máximo da escala.",
+   "Melhora parcial; a meta 4 ainda não foi alcançada.",
+   "Sem interpretação, pois a NOC não usa escores numéricos."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Resultados (NOC) e intervenções (NIC)",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Classificação dos Resultados de Enfermagem (NOC); Resolução COFEN 736/2024, art. 4º, §§ 3º e 5º",
+  "coment": "Cada resultado da NOC tem indicadores medidos em escala do tipo Likert de cinco pontos, em que 5 é a melhor condição. O enfermeiro pontua na avaliação inicial, define a pontuação-alvo no Planejamento, onde a Resolução COFEN 736/2024 exige resultados esperados e exequíveis (art. 4º, § 3º), e repontua na Evolução (§ 5º). A diferença entre as medidas mostra o efeito do cuidado. Passar de 2 para 3 é melhora, mas a meta era 4: o resultado foi alcançado em parte, e o enfermeiro decide se mantém, ajusta a prescrição ou revê o prazo.",
+  "porAlt": [
+   "Errada: na escala da NOC, 5 é a melhor condição; subir de 2 para 3 é melhora.",
+   "Errada: superar o escore inicial não basta; o resultado é avaliado em relação à pontuação-alvo 4.",
+   "Errada: a escala tem cinco pontos, e 3 é ponto intermediário, não o máximo.",
+   "Correta: houve melhora de 2 para 3, mas a pontuação-alvo 4 ainda não foi atingida.",
+   "Errada: a NOC mede indicadores em escala tipo Likert de cinco pontos, que permite comparar medidas."
+  ]
+ },
+ {
+  "q": "Uma residente vai escrever a prescrição de enfermagem para um paciente com Dor aguda. Ela localiza na NIC uma intervenção adequada ao diagnóstico, lê a definição e precisa transformá-la em ações com frequência e horário para a equipe. Qual componente da intervenção NIC ela seleciona e adapta para compor a prescrição?",
+  "alts": [
+   "As atividades listadas na intervenção.",
+   "Os indicadores pontuados em escala Likert.",
+   "As características definidoras do rótulo.",
+   "Os fatores relacionados ao diagnóstico.",
+   "Os eixos Foco e Julgamento da CIPE."
+  ],
+  "gab": 0,
+  "tema": "sae",
+  "sub": "Resultados (NOC) e intervenções (NIC)",
+  "cenario": "ger",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Classificação das Intervenções de Enfermagem (NIC); Resolução COFEN 736/2024, art. 4º, § 3º, III",
+  "coment": "A NIC padroniza intervenções, isto é, tratamentos baseados em julgamento e conhecimento clínico que o enfermeiro realiza para melhorar resultados. Cada intervenção tem título, definição e uma lista de atividades. O enfermeiro escolhe as atividades pertinentes ao paciente e as adapta, com frequência, horário e responsável, para redigir a prescrição de enfermagem, que a Resolução COFEN 736/2024 descreve como a tomada de decisão terapêutica do Planejamento (art. 4º, § 3º, III). Indicadores em escala Likert pertencem à NOC; características definidoras e fatores relacionados pertencem ao diagnóstico NANDA-I.",
+  "porAlt": [
+   "Correta: as atividades da intervenção NIC são selecionadas e adaptadas para redigir a prescrição.",
+   "Errada: indicadores pontuados em escala tipo Likert são componentes dos resultados da NOC.",
+   "Errada: características definidoras são sinais e sintomas que compõem o diagnóstico NANDA-I.",
+   "Errada: fatores relacionados são a etiologia do diagnóstico; orientam a escolha, mas não são a prescrição.",
+   "Errada: Foco e Julgamento são eixos da CIPE para compor diagnósticos e resultados, não intervenções NIC."
+  ]
+ },
+ {
+  "q": "Um hospital está configurando o prontuário eletrônico para que cada etapa do Processo de Enfermagem use uma linguagem padronizada: NANDA-I, NOC e NIC. A equipe de informática pede à comissão que indique a correspondência correta entre classificação e etapa. Qual correspondência está correta?",
+  "alts": [
+   "NIC na formulação do Diagnóstico de Enfermagem.",
+   "NANDA-I na prescrição das atividades da equipe.",
+   "NOC na definição de resultados e na Evolução.",
+   "NOC na escolha das intervenções a prescrever.",
+   "NIC na pontuação dos indicadores de resultado."
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Resultados (NOC) e intervenções (NIC)",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024, arts. 3º e 4º; classificações NANDA-I 2024-2026, NOC e NIC",
+  "coment": "Nas ligações NNN, cada classificação serve a uma parte do Processo de Enfermagem. A NANDA-I padroniza os diagnósticos e serve à etapa de Diagnóstico. A NOC padroniza os resultados, estados ou comportamentos mensuráveis da pessoa: entra no Planejamento, na determinação dos resultados esperados (Resolução COFEN 736/2024, art. 4º, § 3º, II), e volta na Evolução, quando os indicadores são repontuados. A NIC padroniza as intervenções e serve à prescrição e à Implementação. O art. 3º admite linguagens padronizadas como apoio para diagnósticos, resultados e intervenções.",
+  "porAlt": [
+   "Errada: a NIC padroniza intervenções; diagnósticos são padronizados pela NANDA-I.",
+   "Errada: a NANDA-I nomeia diagnósticos; as atividades da prescrição vêm da NIC.",
+   "Correta: a NOC define resultados esperados no Planejamento e é repontuada na Evolução.",
+   "Errada: a NOC trata de resultados; a escolha das intervenções é apoiada pela NIC.",
+   "Errada: os indicadores pontuados em escala pertencem à NOC, e não à NIC."
+  ]
+ },
+ {
+  "q": "O sistema eletrônico de um hospital sugere automaticamente resultados NOC e intervenções NIC sempre que o enfermeiro escolhe um diagnóstico NANDA-I. O gestor propõe bloquear qualquer alteração nessas sugestões, para padronizar os planos de cuidado. Qual posicionamento é tecnicamente adequado?",
+  "alts": [
+   "Bloquear, pois as ligações NNN são obrigatórias e não admitem ajuste.",
+   "Bloquear, pois a NIC é que confirma o diagnóstico NANDA-I escolhido.",
+   "Não bloquear nos diagnósticos de risco, que não têm ligações NNN.",
+   "Bloquear, pois a Resolução COFEN 736/2024 exige as ligações em todo serviço.",
+   "Não bloquear: as ligações sugerem, e o enfermeiro decide pelo julgamento."
+  ],
+  "gab": 4,
+  "tema": "sae",
+  "sub": "Resultados (NOC) e intervenções (NIC)",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024, arts. 1º a 3º; ligações NANDA-I, NOC e NIC",
+  "coment": "As ligações NNN conectam cada diagnóstico NANDA-I a resultados NOC e intervenções NIC sugeridos. São sugestões que apoiam o julgamento clínico e não o substituem: o enfermeiro escolhe os resultados e as atividades que fazem sentido para aquela pessoa. A Resolução COFEN 736/2024 define o Processo de Enfermagem como método que orienta o pensamento crítico e o julgamento clínico e, no art. 3º, admite linguagens padronizadas como apoio, sem impor uma classificação específica. Bloquear o ajuste transformaria a sugestão em plano padronizado e afastaria o cuidado individualizado.",
+  "porAlt": [
+   "Errada: as ligações NNN são sugestões que apoiam o julgamento, não um plano obrigatório e fechado.",
+   "Errada: a NIC não confirma diagnósticos; padroniza intervenções, e o diagnóstico é julgamento do enfermeiro.",
+   "Errada: diagnósticos de risco também têm resultados e intervenções sugeridos, e o ajuste vale para todos.",
+   "Errada: a 736/2024 admite linguagens padronizadas como apoio, sem exigir uma classificação específica.",
+   "Correta: as ligações sugerem opções, e a escolha final é do enfermeiro, pelo julgamento clínico."
+  ]
+ },
+ {
+  "q": "Para uma idosa acamada com o diagnóstico Risco de lesão por pressão no adulto, uma residente registra como resultado NOC esperado: 'realizar mudança de decúbito a cada duas horas'. Na supervisão, a preceptora pede que ela reescreva o item, porque a redação não corresponde ao conceito de resultado da NOC. Qual é o problema?",
+  "alts": [
+   "Resultado da NOC deve citar o nome da escala de Braden e o escore de corte.",
+   "Descreve ação da equipe; resultado é estado ou comportamento da paciente.",
+   "Diagnóstico de risco não admite resultados esperados ligados na NOC.",
+   "Faltou definir a pontuação 1 como meta, que é a melhor condição da escala.",
+   "O intervalo de duas horas deveria constar como característica definidora."
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Resultados (NOC) e intervenções (NIC)",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Classificação dos Resultados de Enfermagem (NOC); Resolução COFEN 736/2024, art. 4º, § 3º, II",
+  "coment": "A NOC padroniza resultados: estados, comportamentos ou percepções da pessoa, mensuráveis e sensíveis à intervenção de enfermagem, avaliados por indicadores em escala tipo Likert de cinco pontos, em que 5 é a melhor condição. Mudança de decúbito a cada duas horas é atividade da equipe, que pertence à prescrição de enfermagem e encontra correspondência na NIC. O resultado deve descrever o que se espera observar na paciente, como a pele íntegra nas proeminências ósseas, com pontuação-alvo e prazo. A Resolução COFEN 736/2024 pede resultados esperados e exequíveis no Planejamento (art. 4º, § 3º, II).",
+  "porAlt": [
+   "Errada: a escala de Braden é instrumento da avaliação; o resultado NOC descreve o estado esperado da paciente.",
+   "Correta: mudar o decúbito é atividade prescrita; resultado NOC descreve estado ou comportamento da pessoa.",
+   "Errada: diagnósticos de risco também têm resultados esperados, como a manutenção da integridade da pele.",
+   "Errada: na escala da NOC, 5 é a melhor condição, e o erro da redação é descrever uma ação.",
+   "Errada: diagnóstico de risco não tem características definidoras, e o intervalo é dado da prescrição."
+  ]
+ },
+ {
+  "q": "Numa unidade que adota a CIPE, a enfermeira compõe o enunciado diagnóstico 'dor aguda' combinando termos do Modelo de Sete Eixos. Uma estagiária pergunta quais eixos são obrigatórios para formar um diagnóstico de enfermagem quando não se usa um conceito pré-coordenado. Qual é a resposta?",
+  "alts": [
+   "Eixo Ação e eixo Cliente.",
+   "Eixo Foco e eixo Localização.",
+   "Eixo Ação e eixo Julgamento.",
+   "Eixo Cliente e eixo Tempo.",
+   "Eixo Foco e eixo Julgamento."
+  ],
+  "gab": 4,
+  "tema": "sae",
+  "sub": "CIPE",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "CIPE (Classificação Internacional para a Prática de Enfermagem), Modelo de Sete Eixos; Resolução COFEN 736/2024, art. 3º",
+  "coment": "A CIPE, terminologia do Conselho Internacional de Enfermeiros, organiza os termos no Modelo de Sete Eixos: Foco, Julgamento, Cliente, Ação, Meios, Localização e Tempo. Para compor um diagnóstico ou um resultado de enfermagem, a regra exige obrigatoriamente um termo do eixo Foco e um do eixo Julgamento, ou o uso de um conceito pré-coordenado já existente; os demais eixos são acrescentados quando necessários. No exemplo, dor é o foco e aguda é o julgamento. O eixo Ação é obrigatório nas intervenções, e não nos diagnósticos. A Resolução COFEN 736/2024 admite linguagens padronizadas como apoio (art. 3º).",
+  "porAlt": [
+   "Errada: o eixo Ação é o núcleo das intervenções, e Cliente é eixo opcional no diagnóstico.",
+   "Errada: Localização é acrescentada quando necessária; o segundo eixo obrigatório é o Julgamento.",
+   "Errada: Ação não entra no diagnóstico, e a intervenção não usa termo do eixo Julgamento.",
+   "Errada: Cliente e Tempo são eixos complementares, acrescentados só quando necessários.",
+   "Correta: diagnóstico e resultado CIPE exigem um termo do eixo Foco e um do eixo Julgamento."
+  ]
+ },
+ {
+  "q": "Uma enfermeira da Atenção Primária usa a CIPE para registrar a prescrição de enfermagem de um homem de 60 anos com diabetes que aplica insulina com técnica inadequada. Ela quer compor a intervenção a partir dos termos do Modelo de Sete Eixos. Pela regra da CIPE, como se compõe uma intervenção de enfermagem?",
+  "alts": [
+   "Um termo do eixo Ação e um termo-alvo, exceto do Julgamento.",
+   "Um termo do eixo Foco e outro termo do eixo Julgamento.",
+   "Um termo do eixo Ação e outro termo do eixo Julgamento.",
+   "Apenas um termo do eixo Ação, dispensando qualquer termo-alvo.",
+   "Um termo do eixo Cliente e outro termo do eixo Tempo."
+  ],
+  "gab": 0,
+  "tema": "sae",
+  "sub": "CIPE",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "CIPE (Classificação Internacional para a Prática de Enfermagem), Modelo de Sete Eixos; Resolução COFEN 736/2024, art. 3º",
+  "coment": "Na CIPE, diagnósticos e resultados se compõem com um termo do eixo Foco e um do eixo Julgamento. As intervenções seguem outra regra: um termo do eixo Ação e ao menos um termo-alvo, que pode vir de qualquer eixo exceto o Julgamento. No caso, a enfermeira pode combinar a ação 'ensinar' com o alvo 'técnica de administração de insulina', acrescentando o meio ou o tempo se necessário. O Julgamento qualifica um foco (por exemplo, aguda, prejudicado) e por isso não serve de alvo de ação. A CIPE é combinatória, diferente da NANDA-I, que oferece rótulos prontos.",
+  "porAlt": [
+   "Correta: intervenção CIPE exige um termo do eixo Ação e ao menos um termo-alvo de outro eixo, exceto Julgamento.",
+   "Errada: Foco com Julgamento é a regra de composição de diagnósticos e resultados, não de intervenções.",
+   "Errada: o eixo Julgamento é justamente o excluído como termo-alvo das intervenções.",
+   "Errada: a ação precisa de ao menos um termo-alvo para indicar sobre o que se intervém.",
+   "Errada: Cliente e Tempo são eixos complementares; a intervenção precisa de um termo do eixo Ação."
+  ]
+ },
+ {
+  "q": "Um grupo de enfermeiras discute qual linguagem padronizada adotar no prontuário de um serviço de saúde da família. Uma delas defende a CIPE, argumentando que ela funciona de modo diferente da NANDA-I na construção dos enunciados. Qual característica distingue a CIPE da NANDA-I?",
+  "alts": [
+   "A CIPE oferece rótulos diagnósticos fechados, como faz a NANDA-I.",
+   "A CIPE classifica intervenções, mas não diagnósticos de enfermagem.",
+   "A CIPE é a classificação de resultados usada junto com a NIC.",
+   "A CIPE combina termos de sete eixos para compor os enunciados.",
+   "A CIPE passou a ser obrigatória no Brasil pela Resolução 736/2024."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "CIPE",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "CIPE (Classificação Internacional para a Prática de Enfermagem); Resolução COFEN 736/2024, arts. 2º e 3º",
+  "coment": "A CIPE, mantida pelo Conselho Internacional de Enfermeiros, é uma terminologia combinatória: o enfermeiro constrói diagnósticos, resultados e intervenções juntando termos organizados no Modelo de Sete Eixos (Foco, Julgamento, Cliente, Ação, Meios, Localização e Tempo). A NANDA-I, ao contrário, oferece rótulos diagnósticos prontos, com definição e componentes. A CIPE abrange diagnósticos, resultados e intervenções, e dá origem a subconjuntos por clientela. A Resolução COFEN 736/2024 não escolhe classificação: admite qualquer sistema de linguagem padronizada como suporte do Processo de Enfermagem (arts. 2º e 3º).",
+  "porAlt": [
+   "Errada: rótulos prontos são a marca da NANDA-I; a CIPE é combinatória.",
+   "Errada: a CIPE permite compor diagnósticos, resultados e intervenções de enfermagem.",
+   "Errada: a classificação de resultados ligada à NIC nas ligações NNN é a NOC.",
+   "Correta: a CIPE compõe enunciados combinando termos dos sete eixos do seu modelo.",
+   "Errada: a 736/2024 admite linguagens padronizadas como suporte, sem tornar nenhuma obrigatória."
+  ]
+ },
+ {
+  "q": "A coordenação de Atenção Primária de um município quer adotar, nas consultas de enfermagem das equipes de saúde da família, uma terminologia brasileira derivada da CIPE e voltada às práticas de saúde coletiva. Considerando as terminologias de enfermagem usadas no Brasil, qual opção corresponde a essa terminologia?",
+  "alts": [
+   "NOC, desenvolvida pelo COFEN para a atenção básica.",
+   "NANDA-I, adaptada pelo Ministério da Saúde ao SUS.",
+   "CIPESC, desenvolvida pela ABEn para a saúde coletiva.",
+   "NIC, criada pelo Conselho Internacional de Enfermeiros.",
+   "Taxonomia II, elaborada pela ABEn para hospitais."
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "CIPE",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "CIPESC (ABEn); CIPE (Conselho Internacional de Enfermeiros); Resolução COFEN 736/2024, art. 3º",
+  "coment": "A CIPE dá origem a catálogos e subconjuntos terminológicos por clientela ou especialidade. No Brasil, a Associação Brasileira de Enfermagem (ABEn) desenvolveu a CIPESC, Classificação Internacional das Práticas de Enfermagem em Saúde Coletiva, voltada à Atenção Primária e à saúde coletiva. NOC e NIC são classificações de resultados e intervenções desenvolvidas fora do Brasil e não derivam da CIPE; a Taxonomia II é a estrutura de domínios e classes da NANDA-I. A Resolução COFEN 736/2024 admite qualquer linguagem padronizada como apoio a diagnósticos, resultados e intervenções (art. 3º).",
+  "porAlt": [
+   "Errada: a NOC é classificação de resultados de origem estrangeira, não derivada da CIPE nem do COFEN.",
+   "Errada: a NANDA-I é classificação de diagnósticos própria, sem relação de origem com a CIPE.",
+   "Correta: a CIPESC foi desenvolvida pela ABEn, a partir da CIPE, para a saúde coletiva.",
+   "Errada: a NIC é classificação de intervenções; o Conselho Internacional de Enfermeiros mantém a CIPE.",
+   "Errada: Taxonomia II é a estrutura de domínios e classes da NANDA-I, e não terminologia da ABEn."
+  ]
+ },
+ {
+  "q": "Num hospital oncológico, as enfermeiras organizam, a partir da CIPE, uma lista de diagnósticos, resultados e intervenções de enfermagem já elaborados para pacientes em quimioterapia, para uso rápido no prontuário eletrônico. Como se denomina esse tipo de produto derivado da CIPE?",
+  "alts": [
+   "Ligação NNN entre a NANDA-I, a NOC e a NIC.",
+   "Subconjunto terminológico ou catálogo da CIPE.",
+   "Domínio e classe da Taxonomia II da NANDA-I.",
+   "Classe de resultados da NOC para oncologia.",
+   "Modelo de Sete Eixos aplicado ao serviço."
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "CIPE",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "CIPE (Classificação Internacional para a Prática de Enfermagem), subconjuntos terminológicos; Resolução COFEN 736/2024, art. 3º",
+  "coment": "A CIPE dá origem a catálogos ou subconjuntos terminológicos por clientela ou especialidade, que reúnem diagnósticos, resultados e intervenções já elaborados com os termos da classificação. Há subconjuntos brasileiros publicados para várias áreas. Eles facilitam o uso no prontuário sem dispensar o julgamento clínico: o enfermeiro escolhe o que se aplica ao paciente. O Modelo de Sete Eixos é a estrutura com que os enunciados são compostos, e não o produto final. Ligações NNN, Taxonomia II e classes da NOC pertencem a outras classificações. A Resolução COFEN 736/2024 admite linguagens padronizadas como apoio (art. 3º).",
+  "porAlt": [
+   "Errada: ligações NNN conectam diagnósticos NANDA-I a resultados NOC e intervenções NIC, não à CIPE.",
+   "Correta: catálogos ou subconjuntos terminológicos reúnem enunciados CIPE prontos para uma clientela.",
+   "Errada: domínios e classes organizam a Taxonomia II da NANDA-I, outra classificação.",
+   "Errada: classes de resultados pertencem à estrutura da NOC, e não a produtos derivados da CIPE.",
+   "Errada: o Modelo de Sete Eixos é a estrutura de composição, e não a lista de enunciados prontos."
+  ]
+ },
+ {
+  "q": "O instrumento de admissão de um hospital organiza a entrevista e o exame físico em necessidades psicobiológicas, psicossociais e psicoespirituais, e o enfermeiro registra quais necessidades estão afetadas para planejar a assistência e tornar o paciente independente quando possível. Esse instrumento se apoia em qual teoria de enfermagem?",
+  "alts": [
+   "Déficit de autocuidado, de Dorothea Orem.",
+   "Modelo de adaptação, de Sister Callista Roy.",
+   "Relações interpessoais, de Hildegard Peplau.",
+   "Necessidades Humanas Básicas, de Wanda Horta.",
+   "Teoria ambientalista, de Florence Nightingale."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Teorias de enfermagem",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024, art. 2º (suporte teórico); teoria das Necessidades Humanas Básicas de Wanda de Aguiar Horta",
+  "coment": "Wanda de Aguiar Horta formulou a teoria das Necessidades Humanas Básicas apoiada na hierarquia de Maslow e na classificação de João Mohana, que agrupa as necessidades em psicobiológicas, psicossociais e psicoespirituais. Para Horta, a enfermagem assiste o ser humano no atendimento de suas necessidades e busca torná-lo independente dessa assistência quando possível. Foi ela quem introduziu o processo de enfermagem no Brasil, e muitos instrumentos de admissão ainda seguem essa organização. A Resolução COFEN 736/2024 pede suporte teórico para o Processo de Enfermagem (art. 2º), e a teoria orienta o que se pergunta na avaliação.",
+  "porAlt": [
+   "Errada: Orem trabalha com requisitos de autocuidado e sistemas de enfermagem, não com essa tríade.",
+   "Errada: Roy organiza a avaliação em estímulos e quatro modos adaptativos.",
+   "Errada: Peplau descreve fases da relação interpessoal enfermeira-paciente, não grupos de necessidades.",
+   "Correta: a divisão em psicobiológicas, psicossociais e psicoespirituais é a de Horta, apoiada em Mohana.",
+   "Errada: Nightingale enfatiza o ambiente, como ar, luz, limpeza e silêncio, e não grupos de necessidades."
+  ]
+ },
+ {
+  "q": "Numa aula para residentes de primeiro ano, um professor apresenta como etapas vigentes do Processo de Enfermagem: histórico, diagnóstico, plano assistencial, plano de cuidados ou prescrição, evolução e prognóstico. Uma residente questiona a lista com base na legislação atual. Qual análise está correta?",
+  "alts": [
+   "São as seis fases de Horta; a norma vigente prevê cinco etapas.",
+   "Está correta, pois a Resolução 736/2024 incorporou o prognóstico.",
+   "São as etapas da Resolução 358/2009, ainda válidas em hospitais.",
+   "Está correta, mas a evolução passou a ser a primeira etapa.",
+   "São as fases de Orem; Horta propôs quatro etapas lineares."
+  ],
+  "gab": 0,
+  "tema": "sae",
+  "sub": "Teorias de enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Resolução COFEN 736/2024, art. 4º; processo de enfermagem de Wanda de Aguiar Horta",
+  "coment": "O processo de enfermagem proposto por Wanda Horta tinha seis fases: histórico, diagnóstico, plano assistencial, plano de cuidados ou prescrição, evolução e prognóstico. A lista do professor reproduz essas fases. A norma vigente é a Resolução COFEN 736/2024, que organiza o Processo de Enfermagem em cinco etapas inter-relacionadas, interdependentes, recorrentes e cíclicas: Avaliação, Diagnóstico, Planejamento, Implementação e Evolução de Enfermagem. A resolução não inclui o prognóstico. A Resolução 358/2009, revogada, também tinha cinco etapas, com Coleta de dados (ou Histórico) no início e Avaliação no fim.",
+  "porAlt": [
+   "Correta: a lista reproduz as seis fases de Horta, e a Resolução 736/2024 tem cinco etapas.",
+   "Errada: a 736/2024 não inclui prognóstico; suas etapas são Avaliação, Diagnóstico, Planejamento, Implementação e Evolução.",
+   "Errada: a 358/2009 foi revogada e tinha cinco etapas, sem plano assistencial nem prognóstico separados.",
+   "Errada: a Evolução é a quinta etapa; a primeira é a Avaliação de Enfermagem.",
+   "Errada: essas são as fases de Horta; Orem propôs a teoria do déficit de autocuidado."
+  ]
+ },
+ {
+  "q": "Um homem de 70 anos, no décimo dia após AVC, consegue levar a colher à boca e lavar o rosto, mas precisa que a equipe corte os alimentos, faça a higiene íntima e o ajude a vestir-se. A enfermeira usa a teoria de Orem para planejar o cuidado. Qual sistema de enfermagem se aplica?",
+  "alts": [
+   "Sistema totalmente compensatório.",
+   "Sistema de apoio-educação do paciente.",
+   "Requisito universal de autocuidado.",
+   "Modo adaptativo fisiológico de Roy.",
+   "Sistema parcialmente compensatório."
+  ],
+  "gab": 4,
+  "tema": "sae",
+  "sub": "Teorias de enfermagem",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024, art. 2º (suporte teórico); teoria do déficit de autocuidado de Dorothea Orem",
+  "coment": "A teoria de Dorothea Orem articula três teorias: autocuidado, déficit de autocuidado e sistemas de enfermagem. Os sistemas descrevem quem realiza o autocuidado. No totalmente compensatório, a enfermagem realiza todo o autocuidado que a pessoa não consegue executar; no parcialmente compensatório, enfermagem e paciente dividem as ações; no de apoio-educação, a pessoa executa o autocuidado e precisa de orientação e apoio para decidir e aprender. O paciente do caso faz parte das ações e depende da equipe para outras, o que caracteriza o sistema parcialmente compensatório. Requisitos de autocuidado são outro conceito da teoria.",
+  "porAlt": [
+   "Errada: o paciente realiza parte do autocuidado, o que afasta a compensação total pela enfermagem.",
+   "Errada: no apoio-educação, a pessoa executa o autocuidado e precisa só de orientação e apoio.",
+   "Errada: requisitos universais são necessidades de autocuidado, e não sistema de enfermagem.",
+   "Errada: modos adaptativos pertencem ao modelo de Roy, e não à teoria de Orem.",
+   "Correta: paciente e enfermagem dividem as ações de autocuidado no sistema parcialmente compensatório."
+  ]
+ },
+ {
+  "q": "Um pedreiro de 45 anos, com amputação transtibial recente, diz que não se reconhece no espelho e evita olhar o coto. Ele também se preocupa por não poder voltar ao trabalho e sustentar a família, e a ferida operatória cicatriza bem. Usando o modelo de Roy, a reação de não se reconhecer e evitar o coto expressa qual modo adaptativo?",
+  "alts": [
+   "Modo adaptativo fisiológico.",
+   "Modo adaptativo do autoconceito.",
+   "Modo adaptativo da função de papel.",
+   "Modo adaptativo da interdependência.",
+   "Estímulo residual do ambiente."
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Teorias de enfermagem",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Resolução COFEN 736/2024, art. 2º (suporte teórico); modelo de adaptação de Callista Roy",
+  "coment": "No modelo de adaptação de Callista Roy, a pessoa é um sistema adaptativo que responde a estímulos focal, contextual e residual por meio dos mecanismos regulador e cognato, e as respostas aparecem em quatro modos adaptativos: fisiológico, autoconceito, função de papel e interdependência. Não se reconhecer no espelho e evitar o coto são respostas ligadas à imagem corporal, dentro do modo do autoconceito. A preocupação com o trabalho e o sustento da família se relaciona à função de papel, e a cicatrização da ferida, ao modo fisiológico. A pergunta pede a reação específica de imagem corporal.",
+  "porAlt": [
+   "Errada: o modo fisiológico abrange a ferida, que cicatriza bem, e não a reação à própria imagem.",
+   "Correta: imagem corporal alterada, com rejeição do coto, é resposta do modo do autoconceito.",
+   "Errada: a função de papel se refere à preocupação com o trabalho, e não à reação diante do espelho.",
+   "Errada: interdependência trata das relações de dar e receber apoio, e não da imagem corporal.",
+   "Errada: estímulo residual é fator de influência incerta, e a pergunta pede um modo adaptativo."
+  ]
+ },
+ {
+  "q": "Na internação psiquiátrica de um hospital geral, uma enfermeira inicia o acompanhamento de uma mulher de 32 anos com depressão grave. No primeiro encontro, as duas ainda não se conhecem; a paciente busca ajuda, e a enfermeira a ajuda a reconhecer o problema e a compreender o uso do serviço. Pela teoria de Peplau, qual sequência de fases a relação deve percorrer?",
+  "alts": [
+   "Identificação, orientação, exploração e resolução.",
+   "Orientação, exploração, identificação e resolução.",
+   "Orientação, identificação, exploração e resolução.",
+   "Orientação, identificação, resolução e exploração.",
+   "Acolhimento, identificação, exploração e alta."
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Teorias de enfermagem",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Resolução COFEN 736/2024, art. 2º (suporte teórico); teoria das relações interpessoais de Hildegard Peplau",
+  "coment": "Hildegard Peplau descreve a enfermagem como processo interpessoal terapêutico, muito cobrado em saúde mental. A relação enfermeira-paciente percorre quatro fases: orientação, identificação, exploração e resolução. O primeiro encontro do caso, em que as duas são estranhas, a paciente busca ajuda e a enfermeira a ajuda a reconhecer o problema e a usar o serviço, corresponde à orientação. Ao longo da relação, a enfermeira assume papéis como estranho, pessoa-recurso, professor, líder, substituto e conselheiro. A resolução encerra o processo, quando as necessidades foram atendidas e a paciente se torna mais independente.",
+  "porAlt": [
+   "Errada: a relação começa pela orientação, quando enfermeira e paciente ainda são estranhas.",
+   "Errada: a identificação vem antes da exploração na sequência descrita por Peplau.",
+   "Correta: são as quatro fases de Peplau, na ordem orientação, identificação, exploração e resolução.",
+   "Errada: a resolução é a fase final, que encerra a relação depois da exploração.",
+   "Errada: acolhimento e alta não são fases da teoria; a primeira é orientação e a última, resolução."
+  ]
+ },
+ {
+  "q": "Em visita domiciliar a uma puérpera de comunidade quilombola, a enfermeira da Estratégia Saúde da Família observa três práticas: a mãe toma chá morno preparado pela avó, a família mantém o resguardo e o recém-nascido tem pó de café aplicado sobre o coto umbilical. Pelo modelo de Leininger, qual modo de ação do cuidado cultural se aplica à prática com o coto umbilical?",
+  "alts": [
+   "Preservação ou manutenção do cuidado cultural trazido pela família.",
+   "Acomodação ou negociação, mantendo a prática com pequenos ajustes.",
+   "Estímulo contextual a ser compensado pelo sistema de apoio-educação.",
+   "Repadronização ou reestruturação, substituindo a prática insegura.",
+   "Fase de resolução da relação interpessoal, encerrando o vínculo."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Teorias de enfermagem",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "Resolução COFEN 736/2024, art. 2º (suporte teórico); teoria da diversidade e universalidade do cuidado cultural de Madeleine Leininger",
+  "coment": "A teoria de Madeleine Leininger, da diversidade e universalidade do cuidado cultural, representada no Modelo Sunrise, propõe três modos de ação. Preservação ou manutenção apoia práticas culturais benéficas ou inofensivas. Acomodação ou negociação ajusta a prática com a família quando ela pode ser adaptada. Repadronização ou reestruturação ajuda a família a modificar uma prática que traz risco, substituindo-a por cuidado seguro, sempre com respeito e diálogo. Substância não estéril sobre o coto umbilical expõe o recém-nascido a infecção, o que pede repadronização. O chá e o resguardo podem ser preservados ou negociados conforme a avaliação.",
+  "porAlt": [
+   "Errada: preservar cabe a práticas benéficas ou inofensivas, e o pó de café no coto traz risco ao bebê.",
+   "Errada: manter a aplicação com ajustes não elimina o risco de infecção do coto umbilical.",
+   "Errada: estímulo contextual é conceito de Roy, e apoio-educação é sistema de Orem, não de Leininger.",
+   "Correta: prática que expõe o bebê a risco pede repadronização ou reestruturação, com diálogo.",
+   "Errada: resolução é fase da relação interpessoal de Peplau, e não modo de ação do cuidado cultural."
+  ]
+ },
+ {
+  "q": "Numa enfermaria de clínica médica, a enfermeira reorganiza o cuidado: abre as janelas durante o dia para renovar o ar, reduz ruídos e luzes à noite, mantém leito e ambiente limpos, ajusta o aquecimento e registra observações sistemáticas de cada paciente. Para Florence Nightingale, qual função da enfermagem fundamenta essas medidas?",
+  "alts": [
+   "Colocar o paciente nas melhores condições para a natureza agir.",
+   "Estabelecer metas mútuas com o paciente por meio da transação.",
+   "Compensar o déficit de autocuidado com sistemas de enfermagem.",
+   "Promover adaptação aos estímulos focal, contextual e residual.",
+   "Fortalecer as linhas de defesa contra estressores ambientais."
+  ],
+  "gab": 0,
+  "tema": "sae",
+  "sub": "Teorias de enfermagem",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Resolução COFEN 736/2024, art. 2º (suporte teórico); teoria ambientalista de Florence Nightingale (Notes on Nursing)",
+  "coment": "Florence Nightingale, base da enfermagem moderna, formulou a teoria ambientalista em Notes on Nursing. Para ela, a função da enfermagem é colocar o paciente nas melhores condições para que a natureza aja sobre ele, o que se faz pelo controle do ambiente: ar puro, luz, calor, limpeza, silêncio, dieta adequada e observação do doente. As medidas do caso (ventilação, redução de ruído, limpeza, aquecimento e observação sistemática) aplicam esses elementos. As demais alternativas descrevem conceitos centrais de King, Orem, Roy e Neuman, que distinguem cada teórica na prova.",
+  "porAlt": [
+   "Correta: é a função da enfermagem na teoria ambientalista, aplicada pelo controle do ambiente.",
+   "Errada: metas estabelecidas mutuamente por transação são o núcleo da teoria de Imogene King.",
+   "Errada: déficit de autocuidado e sistemas de enfermagem pertencem à teoria de Dorothea Orem.",
+   "Errada: estímulos focal, contextual e residual são conceitos do modelo de adaptação de Roy.",
+   "Errada: linhas de defesa e estressores são conceitos do modelo de sistemas de Betty Neuman."
+  ]
+ },
+ {
+  "q": "Um homem de 72 anos com DPOC é acompanhado por uma enfermeira que usa o modelo de sistemas de Neuman. Ela identifica a chegada do período de maior circulação de vírus respiratórios como estressor extrapessoal e, antes de qualquer reação, orienta higiene das mãos, evitar aglomerações e reconhecer sinais de piora. Pelo modelo, como se classifica essa intervenção?",
+  "alts": [
+   "Prevenção secundária, após o estressor romper a linha normal.",
+   "Prevenção terciária, para readaptação após o tratamento.",
+   "Transação entre enfermeira e cliente, com metas mútuas.",
+   "Acomodação ou negociação do cuidado cultural da família.",
+   "Prevenção primária, fortalecendo a linha flexível de defesa."
+  ],
+  "gab": 4,
+  "tema": "sae",
+  "sub": "Teorias de enfermagem",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "Resolução COFEN 736/2024, art. 2º (suporte teórico); modelo de sistemas de Betty Neuman",
+  "coment": "No modelo de sistemas de Betty Neuman, o cliente é um sistema exposto a estressores intrapessoais, interpessoais e extrapessoais, protegido pela linha flexível de defesa, pela linha normal de defesa e pelas linhas de resistência em torno da estrutura básica. A intervenção é classificada pelo momento: prevenção primária, quando o estressor é identificado antes da reação, para fortalecer a linha flexível de defesa; secundária, quando já há reação e sintomas; terciária, na readaptação após o tratamento. No caso, a enfermeira age antes de qualquer reação ao estressor externo, o que caracteriza prevenção primária.",
+  "porAlt": [
+   "Errada: a prevenção secundária ocorre depois da reação ao estressor, e o caso descreve ação anterior.",
+   "Errada: a prevenção terciária visa à readaptação após tratamento, o que não é o momento do caso.",
+   "Errada: transação com metas mútuas é conceito de Imogene King, e não do modelo de Neuman.",
+   "Errada: acomodação ou negociação é modo de ação do cuidado cultural de Leininger.",
+   "Correta: agir antes da reação ao estressor é prevenção primária, que fortalece a linha flexível de defesa."
+  ]
+ },
+ {
+  "q": "Em consulta de enfermagem, uma mulher de 55 anos com diabetes e a enfermeira discutem suas percepções sobre a doença, negociam e concordam numa meta de caminhada semanal, definindo juntas os meios para alcançá-la e o prazo de reavaliação. Na teoria de Imogene King, como se denomina o processo em que enfermeira e cliente chegam a esse acordo?",
+  "alts": [
+   "Identificação, fase da relação interpessoal.",
+   "Sistema de apoio-educação do autocuidado.",
+   "Transação, com metas estabelecidas mutuamente.",
+   "Modo adaptativo da interdependência de Roy.",
+   "Prevenção primária do modelo de sistemas."
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Teorias de enfermagem",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Resolução COFEN 736/2024, art. 2º (suporte teórico); teoria de alcance de metas de Imogene King",
+  "coment": "Imogene King propôs uma estrutura de sistemas abertos, com sistemas pessoal, interpessoal e social, e a teoria de alcance de metas. Na interação, enfermeira e cliente trocam percepções, fazem julgamentos e agem; quando chegam a acordo sobre metas estabelecidas mutuamente e concordam nos meios para alcançá-las, ocorre a transação. Percepção, interação e transação são os conceitos-chave cobrados. No caso, a meta de caminhada e os meios definidos em conjunto, com prazo de reavaliação, descrevem a transação. Identificação é fase de Peplau, apoio-educação é sistema de Orem e interdependência é modo adaptativo de Roy.",
+  "porAlt": [
+   "Errada: identificação é fase da relação interpessoal de Peplau, e não conceito da teoria de King.",
+   "Errada: o sistema de apoio-educação pertence à teoria do déficit de autocuidado de Orem.",
+   "Correta: na teoria de King, o acordo sobre metas mútuas e meios para alcançá-las é a transação.",
+   "Errada: interdependência é modo adaptativo do modelo de Roy, ligado às relações de apoio.",
+   "Errada: prevenção primária classifica intervenções no modelo de sistemas de Neuman."
+  ]
+ }
+]

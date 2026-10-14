@@ -748,5 +748,255 @@
    "A Res. 795/2025 trata da prescrição pelo enfermeiro, sem exigir o farmacêutico.",
    "A prescrição fora do PNI é justamente a hipótese prevista para o serviço privado."
   ]
+ },
+ {
+  "q": "Na enfermaria de clínica médica, uma técnica de enfermagem prepara o antibiótico do leito 12 e o administra no paciente do leito 11, deixando de conferir a pulseira de identificação e de chamar o paciente pelo nome. O paciente apresenta reação alérgica leve e se recupera. Qual modalidade de culpa caracteriza a conduta da técnica?",
+  "alts": [
+   "Imperícia, por não dominar a técnica de administração do antibiótico",
+   "Imprudência, por executar procedimento para o qual não está habilitada",
+   "Dolo eventual, por assumir conscientemente o resultado lesivo ao paciente",
+   "Caso fortuito, pois a reação alérgica não era previsível para a equipe",
+   "Negligência, por deixar de conferir a identificação antes de administrar"
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Responsabilidade civil, penal e ética",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Código Penal (Decreto-Lei 2.848/1940), art. 18, II; Res. COFEN 564/2017, art. 45",
+  "coment": "O Código Penal define o crime culposo como aquele em que o agente deu causa ao resultado por imprudência, negligência ou imperícia (art. 18, II), e as mesmas palavras estão no Código Civil (art. 951) e no Código de Ética (art. 45). Negligência é deixar de fazer o que se devia, uma omissão: não conferir a identificação do paciente antes de administrar é o exemplo clássico. Imprudência é agir com afobação ou assumindo risco, como pular etapas do protocolo para ganhar tempo; imperícia é não saber fazer. Não houve intenção nem aceitação do resultado, o que afasta o dolo.",
+  "porAlt": [
+   "A técnica sabia administrar; a falha foi omitir a conferência, o que não é imperícia.",
+   "Administrar antibiótico está entre as atividades da técnica; o erro foi uma omissão.",
+   "Não houve vontade nem aceitação do resultado, o que afasta o dolo eventual.",
+   "A troca de paciente era evitável com a conferência, o que afasta o caso fortuito.",
+   "Correta: deixar de conferir a identificação é omissão, ou seja, negligência."
+  ]
+ },
+ {
+  "q": "Uma enfermeira transferida do ambulatório para a UTI, sem treinamento nas bombas de seringa do setor, aceita assumir a infusão contínua de um sedativo e, por não saber operar o equipamento, programa a vazão errada. O paciente recebe dose excessiva e fica com rebaixamento de consciência prolongado. Qual modalidade de culpa caracteriza a conduta?",
+  "alts": [
+   "Imperícia, por executar procedimento sem o preparo técnico necessário",
+   "Negligência, por deixar de checar a prescrição médica do sedativo",
+   "Imprudência, por pular etapas do protocolo mesmo sabendo executá-las",
+   "Dolo direto, por aceitar a tarefa sabendo que não tinha treinamento",
+   "Caso fortuito, pois a falha decorreu exclusivamente do equipamento"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Responsabilidade civil, penal e ética",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Código Penal (Decreto-Lei 2.848/1940), art. 18, II; Res. COFEN 564/2017, arts. 22, 45 e 62",
+  "coment": "Imperícia é a falta de preparo técnico para o ato: o profissional faz o que não sabe fazer. A enfermeira não dominava a bomba de seringa e programou a vazão errada por isso, o que caracteriza imperícia (Código Penal, art. 18, II). Imprudência seria saber os passos e pulá-los para ganhar tempo; negligência seria omitir um cuidado devido. Pelo Código de Ética, ela poderia ter recusado a atividade sem segurança (art. 22), é proibida de executar atividade fora de sua competência (art. 62) e responde pelo art. 45, que exige assistência livre de danos por imperícia.",
+  "porAlt": [
+   "Correta: executar sem preparo técnico para operar o equipamento é imperícia.",
+   "A falha não foi omitir a checagem da prescrição, e sim não saber operar a bomba.",
+   "Imprudência supõe domínio da técnica, que a enfermeira não tinha.",
+   "Ela não quis o resultado nem o aceitou, o que afasta o dolo.",
+   "O erro nasceu da falta de preparo da operadora, não de defeito do equipamento."
+  ]
+ },
+ {
+  "q": "Num hospital privado, uma técnica de enfermagem empregada aplica bolsa de água quente na perna de um paciente diabético, que sofre queimadura de segundo grau. O paciente ajuíza ação de indenização apenas contra o hospital. Pela legislação civil e de defesa do consumidor, como responde a instituição?",
+  "alts": [
+   "Só responde se o paciente provar culpa pessoal do diretor do hospital",
+   "Não responde, pois o dano foi causado pessoalmente pela técnica",
+   "Responde independentemente de culpa, como fornecedora do serviço",
+   "Responde apenas se a técnica for antes condenada no processo penal",
+   "Não responde, pois a enfermagem tem responsabilidade só no plano ético"
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Responsabilidade civil, penal e ética",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Lei 8.078/1990 (CDC), art. 14; Código Civil (Lei 10.406/2002), arts. 186, 927, 932, III, e 951",
+  "coment": "O mesmo fato pode gerar processo ético, ação civil e ação penal, em esferas independentes. Na esfera civil, quem causa dano por ato ilícito, por ação ou omissão, negligência ou imprudência, deve repará-lo (Código Civil, arts. 186 e 927), e o art. 951 aplica isso a quem, no exercício profissional, causa lesão por negligência, imprudência ou imperícia. O empregador responde pelos atos dos empregados (art. 932, III), e o hospital, como fornecedor, responde independentemente de culpa pelo serviço defeituoso (CDC, art. 14). Já a responsabilidade do profissional liberal depende de culpa (art. 14, § 4º).",
+  "porAlt": [
+   "O hospital responde sem culpa pelo serviço defeituoso, sem prova de culpa do diretor.",
+   "O empregador responde pelos atos dos empregados (Código Civil, art. 932, III).",
+   "Correta: o hospital responde sem culpa pelo serviço defeituoso (CDC, art. 14).",
+   "As esferas são independentes, e a ação civil não espera a condenação penal.",
+   "A enfermagem responde nas esferas ética, civil e penal, de forma independente."
+  ]
+ },
+ {
+  "q": "O protocolo do hospital exige dupla checagem independente antes de iniciar heparina em bomba de infusão. No plantão noturno, um enfermeiro inicia a infusão sozinho, sem a checagem, com concentração dez vezes maior que a prescrita. O paciente sangra e morre. Na esfera penal, em que tipo ele pode ser enquadrado?",
+  "alts": [
+   "Homicídio doloso simples, pela gravidade do resultado morte do paciente",
+   "Homicídio culposo, com aumento por inobservância de regra técnica",
+   "Lesão corporal culposa, pois não houve intenção de matar o paciente",
+   "Omissão de socorro, por não ter chamado o médico durante o sangramento",
+   "Exercício ilegal da enfermagem, por agir sem a checagem do protocolo"
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Responsabilidade civil, penal e ética",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Código Penal (Decreto-Lei 2.848/1940), art. 121, §§ 3º e 4º",
+  "coment": "Na esfera penal, matar alguém sem intenção, por imprudência, negligência ou imperícia, é homicídio culposo (Código Penal, art. 121, § 3º). O § 4º aumenta a pena em um terço quando o crime resulta de inobservância de regra técnica de profissão, como deixar de fazer a dupla checagem exigida para medicamento de alta vigilância. Não há dolo, porque o enfermeiro não quis nem aceitou a morte. Lesão culposa (art. 129, § 6º) caberia se houvesse lesão sem morte. Exercício ilegal pressupõe falta de habilitação ou de inscrição. O mesmo fato gera também processo ético e ação de indenização.",
+  "porAlt": [
+   "Não houve vontade nem aceitação da morte, o que afasta o homicídio doloso.",
+   "Correta: homicídio culposo com aumento de um terço por inobservância de regra técnica (art. 121, § 4º).",
+   "Com o resultado morte, o tipo é homicídio culposo, não lesão corporal culposa.",
+   "A conduta que causou a morte foi a infusão sem checagem, não a falta de socorro.",
+   "O enfermeiro é habilitado e inscrito, o que afasta o exercício ilegal da profissão."
+  ]
+ },
+ {
+  "q": "Uma mulher sem formação nem inscrição no COREN se apresenta no bairro como técnica de enfermagem e, mediante pagamento, aplica injeções e faz curativos em domicílio. A vigilância sanitária identifica a situação e a encaminha à polícia. Como a legislação brasileira enquadra essa conduta?",
+  "alts": [
+   "Crime de exercício ilegal da medicina, previsto no art. 282 do Código Penal",
+   "Infração ética, a ser julgada pelo COREN com aplicação da pena de cassação",
+   "Conduta atípica, pois a enfermagem não tem nenhuma proteção penal própria",
+   "Contravenção de exercício ilegal de profissão, prevista no art. 47 da LCP",
+   "Crime de falsidade ideológica, pelo uso de diploma de técnica falsificado"
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Responsabilidade civil, penal e ética",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Decreto-Lei 3.688/1941 (Lei das Contravenções Penais), art. 47; Código Penal, art. 282; Lei 7.498/1986, art. 2º",
+  "coment": "O art. 282 do Código Penal tipifica o exercício ilegal de medicina, medicina veterinária, odontologia e farmácia; a enfermagem não está na lista. Exercer enfermagem sem habilitação ou sem inscrição no COREN, exigências do art. 2º da Lei 7.498/1986, é a contravenção penal do art. 47 da Lei das Contravenções Penais, exercício ilegal de profissão. O COREN não aplica pena ética a quem não é inscrito, porque o Código de Ética alcança os profissionais do sistema, e o caso não descreve uso de documento falso.",
+  "porAlt": [
+   "O art. 282 do Código Penal não inclui a enfermagem entre as profissões que tipifica.",
+   "Quem não é inscrito não responde ao Código de Ética, que alcança os profissionais do sistema.",
+   "A conduta é típica: configura a contravenção do art. 47 da LCP.",
+   "Correta: exercer enfermagem sem habilitação é contravenção (LCP, art. 47).",
+   "O caso não descreve uso de documento falso, só exercício sem habilitação."
+  ]
+ },
+ {
+  "q": "Uma estudante do último ano de graduação, em estágio supervisionado na clínica cirúrgica, administra por via intravenosa uma suspensão prescrita por via oral, enquanto a enfermeira supervisora estava no posto. O paciente apresenta reação grave e é transferido. A supervisora alega que a responsabilidade é só da estudante. Pelo Código de Ética, como fica a enfermeira?",
+  "alts": [
+   "Não pode eximir-se da responsabilidade pelo ato da estagiária que supervisiona",
+   "Fica isenta, pois a estudante responde sozinha pelos próprios atos no estágio",
+   "Fica isenta, desde que a instituição de ensino assuma o erro da estudante",
+   "Responde só se tiver assinado o prontuário junto com a estudante no plantão",
+   "Responde com cassação automática, por se tratar de erro de via de administração"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Responsabilidade civil, penal e ética",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Res. COFEN 564/2017 (Código de Ética), arts. 51, 93, 110 e 111",
+  "coment": "O Código de Ética proíbe ao profissional eximir-se da responsabilidade por atividades executadas por alunos ou estagiários sob sua supervisão (art. 93). O art. 51 completa a regra: o profissional responde por falta cometida individualmente ou em equipe, na medida do próprio ato, quando teve participação ou conhecimento prévio. A supervisora respondia pela estudante e não pode transferir a culpa a ela ou à faculdade. A pena depende do enquadramento e da gradação dos arts. 110 e 111, e não há cassação automática.",
+  "porAlt": [
+   "Correta: o profissional não se exime pelo que fazem os estagiários que supervisiona (art. 93).",
+   "O art. 93 proíbe ao supervisor eximir-se da responsabilidade pelo estagiário.",
+   "A responsabilidade ética da supervisora não se transfere à instituição de ensino.",
+   "A responsabilidade decorre da supervisão, não da assinatura conjunta no prontuário.",
+   "Não há pena automática: ela depende do enquadramento e da gradação (arts. 110 e 111)."
+  ]
+ },
+ {
+  "q": "Um técnico de enfermagem foi denunciado criminalmente e ao COREN pela morte de um paciente após erro de medicação. No processo penal, foi absolvido por insuficiência de provas. Com a sentença, pede ao COREN o arquivamento do processo ético, que estava em instrução. Pelo Código de Processo Ético, qual é a consequência dessa absolvição?",
+  "alts": [
+   "Arquivamento obrigatório, pois a absolvição penal sempre vincula o COREN",
+   "Suspensão do processo ético até o trânsito em julgado da sentença penal",
+   "Arquivamento, pois o técnico não pode ser julgado duas vezes pelo fato",
+   "Conversão automática da pena ética em advertência verbal reservada",
+   "Nenhuma: só vincularia se negasse o fato ou a participação dele"
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Responsabilidade civil, penal e ética",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "Res. COFEN 706/2022 (Código de Processo Ético), art. 5º; Código de Processo Penal, art. 386, I e IV",
+  "coment": "O processo ético é independente do processo judicial. Pelo art. 5º do Código de Processo Ético, a absolvição penal só repercute no processo ético quando reconhece que o fato não existiu ou que o acusado não concorreu para ele, hipóteses do art. 386, I e IV, do Código de Processo Penal. Absolvição por insuficiência de provas não afirma nenhuma das duas coisas, e o COREN pode apurar a infração ética com suas próprias provas. Responder nas esferas ética, civil e penal pelo mesmo fato não é dupla punição, porque as instâncias são independentes.",
+  "porAlt": [
+   "A absolvição só vincula se reconhecer inexistência do fato ou ausência de autoria.",
+   "O processo ético não depende da sentença penal e segue com instrução própria.",
+   "As instâncias ética, civil e penal são independentes, sem dupla punição.",
+   "A absolvição penal não altera nem converte a pena ética por si só.",
+   "Correta: só a prova de inexistência do fato ou de não autoria vincula o COREN (art. 5º)."
+  ]
+ },
+ {
+  "q": "Na consulta de enfermagem de puericultura, uma criança de 4 anos apresenta equimoses em diferentes estágios no dorso e uma queimadura circular no antebraço, sem explicação coerente da mãe, que pede que nada seja comunicado a ninguém. Segundo o Código de Ética, como deve agir a enfermeira quanto ao sigilo?",
+  "alts": [
+   "Manter o sigilo, pois a mãe é a representante legal e não autorizou",
+   "Comunicar apenas se a mãe assinar um termo de consentimento escrito",
+   "Comunicar aos órgãos competentes, mesmo sem autorização da família",
+   "Manter o sigilo até que haja ordem judicial determinando a revelação",
+   "Comunicar só ao médico da unidade, a quem cabe decidir sobre o caso"
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Res. COFEN 564/2017 (Código de Ética), art. 52, § 4º",
+  "coment": "O sigilo profissional é dever (art. 52), mas o próprio artigo traz exceções. O § 4º torna obrigatória a comunicação aos órgãos de responsabilização criminal, independentemente de autorização, nos casos de violência contra criança, adolescente, idoso e pessoa incapaz. Lesões em estágios diferentes e queimadura sem explicação coerente numa criança de 4 anos exigem essa comunicação, além do registro detalhado no prontuário. O pedido da mãe não prevalece, e não é preciso esperar ordem judicial. A obrigação é da própria enfermeira, que não a transfere a outro profissional.",
+  "porAlt": [
+   "Na violência contra criança, a comunicação independe da autorização do responsável.",
+   "O § 4º dispensa autorização: a comunicação é obrigatória mesmo sem termo.",
+   "Correta: violência contra criança deve ser comunicada sem autorização (art. 52, § 4º).",
+   "Nesse caso a comunicação é obrigatória e não depende de ordem judicial.",
+   "A obrigação de comunicar é da própria enfermeira, não transferida ao médico."
+  ]
+ },
+ {
+  "q": "Uma mulher de 32 anos, lúcida e capaz, procura a UBS com hematomas e relata agressões do companheiro. Pede à enfermeira que não chame a polícia. Ela mora sozinha com o agressor, que a ameaçou de morte na véspera. Considerando o art. 52 do Código de Ética, como deve agir a enfermeira quanto à comunicação aos órgãos de responsabilização criminal?",
+  "alts": [
+   "Comunicar de imediato, sem informá-la, por toda violência contra mulher",
+   "Nunca comunicar, pois o sigilo só cede com autorização escrita dela",
+   "Comunicar apenas com autorização do companheiro ou de outro familiar",
+   "Comunicar diante do risco à vítima, com conhecimento prévio dela",
+   "Encaminhar o caso ao Conselho Tutelar, que decide se aciona a polícia"
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Res. COFEN 564/2017 (Código de Ética), art. 52, §§ 4º e 5º; Lei 10.778/2003",
+  "coment": "Na violência doméstica contra mulher adulta e capaz, o art. 52, § 5º, do Código de Ética prevê a comunicação aos órgãos de responsabilização criminal quando há risco à comunidade ou à vítima, a juízo do profissional e com conhecimento prévio da vítima. A ameaça de morte na véspera, com convivência diária com o agressor, configura esse risco. Diferente do § 4º, que vale para criança, adolescente, idoso e incapaz, aqui a mulher deve saber da comunicação antes. Isso não se confunde com a notificação compulsória da violência contra a mulher, prevista na Lei 10.778/2003, que é outro dever.",
+  "porAlt": [
+   "Para mulher adulta e capaz, a comunicação exige conhecimento prévio dela (§ 5º).",
+   "O § 5º prevê a comunicação diante de risco, sem exigir autorização escrita.",
+   "Familiares e agressor não autorizam nem impedem a comunicação do profissional.",
+   "Correta: com risco à vítima, comunica-se com conhecimento prévio dela (art. 52, § 5º).",
+   "Conselho Tutelar cuida de criança e adolescente, não de mulher adulta."
+  ]
+ },
+ {
+  "q": "Na classificação de risco de um pronto-socorro, dois pacientes recebem a mesma cor e a mesma prioridade. A técnica de enfermagem chama primeiro o paciente que tem plano de saúde e deixa por último um homem em situação de rua, que chegou antes. Qual princípio da bioética principialista é violado, na forma como o Código de Ética o traduz?",
+  "alts": [
+   "Autonomia, expressa no respeito à recusa do paciente",
+   "Justiça, expressa na assistência sem discriminação",
+   "Beneficência, expressa no dever de fazer o bem",
+   "Não maleficência, expressa na assistência livre de danos",
+   "Autonomia, expressa no consentimento prévio do paciente"
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Res. COFEN 564/2017 (Código de Ética), arts. 40, 41, 42, 45 e 50",
+  "coment": "A bioética principialista de Beauchamp e Childress trabalha com quatro princípios: autonomia, beneficência, não maleficência e justiça. O Código de Ética os traduz em artigos: autonomia no respeito à recusa, às diretivas antecipadas e ao consentimento (arts. 40, 42 e 50); beneficência e não maleficência na assistência livre de danos (arts. 45, 78 e 80); justiça na assistência sem discriminação (art. 41). Inverter a ordem entre pacientes de mesma prioridade por causa do plano de saúde ou da condição social viola a justiça, que pede distribuição equitativa do cuidado.",
+  "porAlt": [
+   "Nenhum paciente recusou cuidado; a autonomia não está em jogo no caso.",
+   "Correta: preterir pela condição social viola a justiça, assistência sem discriminação (art. 41).",
+   "O problema é a ordem desigual entre pacientes iguais, matéria de justiça.",
+   "Não houve dano técnico direto; a falha é a discriminação no acesso ao cuidado.",
+   "O consentimento não foi negado; a falha foi tratar iguais de forma desigual."
+  ]
  }
 ]

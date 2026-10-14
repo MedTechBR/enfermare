@@ -498,5 +498,705 @@
    "Compressa fria não é medida de prevenção prevista e não alivia a pressão.",
    "Estágio 2 exige perda parcial de pele, ausente nesta pele íntegra."
   ]
+ },
+ {
+  "q": "Mulher de 69 anos tem lesão por pressão sacral estágio 4 cavitária, com exsudato seroso abundante, leito de granulação que sangra levemente ao toque e sem sinais de infecção. A cobertura atual satura em poucas horas e macera a borda. Qual cobertura primária a enfermeira deve indicar para preencher a cavidade?",
+  "alts": [
+   "Hidrocoloide em placa, para manter o leito úmido",
+   "Hidrogel amorfo, para hidratar o leito da cavidade",
+   "Alginato de cálcio, que absorve e ajuda na hemostasia",
+   "Filme transparente, para observar o leito sem trocar",
+   "Ácidos graxos essenciais, para proteger o tecido novo"
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Res. COFEN 787/2025, art. 4º (seleção e prescrição de coberturas); leitura Feridas do Enfermare (out/2026), seção Coberturas",
+  "coment": "O alginato de cálcio é fibra de alga que troca cálcio por sódio do exsudato e vira gel; é indicado em feridas muito exsudativas e cavitárias, preenche a cavidade e tem ação hemostática, útil no sangramento leve. Pede cobertura secundária. Hidrocoloide é evitado em ferida cavitária ou muito exsudativa; hidrogel doa umidade e macera a borda quando o exsudato é abundante; filme transparente não absorve. Pela Res. COFEN 787/2025, selecionar, indicar e prescrever a cobertura é atribuição do enfermeiro.",
+  "porAlt": [
+   "Hidrocoloide é evitado em ferida cavitária e muito exsudativa.",
+   "Hidrogel doa umidade e pioraria a maceração de uma ferida muito exsudativa.",
+   "Correta: alginato absorve exsudato abundante, preenche cavidade e é hemostático.",
+   "Filme transparente não absorve exsudato e não preenche cavidade.",
+   "AGE tem evidência limitada e não serve para ferida profunda muito exsudativa."
+  ]
+ },
+ {
+  "q": "Homem de 55 anos tem ferida na perna com exsudato purulento, odor que persiste após a limpeza, eritema que se expande e dor crescente. Um técnico de enfermagem sugere aplicar placa de hidrocoloide, para trocar só a cada cinco dias e reduzir a manipulação da ferida. Qual avaliação da enfermeira sobre essa sugestão está correta?",
+  "alts": [
+   "Adequada, pois o hidrocoloide trata a infecção local",
+   "Adequada, desde que troque a placa a cada 24 horas",
+   "Inadequada, pois o hidrocoloide resseca a ferida",
+   "Inadequada, pois a placa oclusiva é evitada na infecção",
+   "Inadequada, pois o hidrocoloide é só para queimaduras"
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Res. COFEN 787/2025, art. 4º (prescrição de coberturas pelo enfermeiro); leitura Feridas do Enfermare (out/2026), seção Coberturas",
+  "coment": "O hidrocoloide é placa oclusiva que forma gel em contato com o exsudato, mantém umidade e favorece o desbridamento autolítico. É indicado em feridas superficiais, limpas, pouco a moderadamente exsudativas, e é evitado em ferida infectada, muito exsudativa ou cavitária, além de pele frágil. O caso traz sinais de infecção local: exsudato purulento, odor após limpeza, eritema que se expande e dor crescente. A conduta é limpeza, antisséptico ou cobertura antimicrobiana (prata, PHMB) com reavaliação e, se houver sinais sistêmicos, avaliação médica. A prescrição da cobertura é do enfermeiro.",
+  "porAlt": [
+   "Hidrocoloide não tem ação antimicrobiana e é evitado na infecção.",
+   "Trocar a cada 24 horas não muda a contraindicação na ferida infectada.",
+   "O hidrocoloide mantém umidade, não resseca; o erro é o uso na infecção.",
+   "Correta: placa oclusiva como o hidrocoloide é evitada em ferida infectada.",
+   "O hidrocoloide tem várias indicações; a restrição aqui é a infecção."
+  ]
+ },
+ {
+  "q": "Uma lesão por pressão no trocânter tem 60% de esfacelo e sinais de infecção local. A prescrição do plantão anterior associa, na mesma troca, pomada de colagenase no leito e cobertura com prata por cima, para desbridar e tratar a infecção ao mesmo tempo. O que a enfermeira deve considerar ao revisar essa prescrição?",
+  "alts": [
+   "A prata potencializa a colagenase e acelera o desbridamento",
+   "A prata e outros metais inativam a colagenase; não associar",
+   "A associação é segura se a prata ficar por menos de 7 dias",
+   "A colagenase deve ficar sobre a prata, e não o contrário",
+   "A colagenase neutraliza a prata, mas mantém a ação enzimática"
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Res. COFEN 787/2025, art. 4º (prescrição de coberturas); bula da colagenase; leitura Feridas do Enfermare (out/2026), seção Coberturas",
+  "coment": "A colagenase é enzima que degrada o colágeno desnaturado do tecido necrótico e serve ao desbridamento enzimático de necrose e esfacelo. Prata, iodo e outros metais, além de alguns antissépticos, inativam a enzima, como consta em bula, e por isso a associação na mesma troca anula o desbridamento. A ordem das camadas não resolve. A enfermeira precisa escolher a prioridade do momento: tratar a infecção local com antimicrobiano tópico e desbridar por outro método compatível, ou desbridar com a enzima sem metal associado, reavaliando o leito a cada troca.",
+  "porAlt": [
+   "Ocorre o oposto: metais como a prata inativam a colagenase.",
+   "Correta: prata e outros metais inativam a colagenase, e a associação deve ser evitada.",
+   "A inativação da enzima independe do tempo de uso da prata.",
+   "Inverter as camadas mantém o contato e a inativação da enzima.",
+   "É a prata que inativa a colagenase, que perde a ação enzimática."
+  ]
+ },
+ {
+  "q": "Mulher de 74 anos, com boa perfusão nos membros e sem sinais de infecção, tem lesão por pressão sacral com esfacelo amarelado e seco aderido ao leito, pouco exsudato e pele perilesional íntegra. A enfermeira opta por um método seletivo e indolor de desbridamento. Qual cobertura é mais adequada a esse objetivo?",
+  "alts": [
+   "Alginato de cálcio, para absorver o esfacelo seco",
+   "Espuma de poliuretano, para isolar e amortecer",
+   "Carvão ativado com prata, para controlar o odor",
+   "Gaze úmida que seca e é arrancada na troca",
+   "Hidrogel, que hidrata e amolece o tecido inviável"
+  ],
+  "gab": 4,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Res. COFEN 787/2025 (desbridamento autolítico pelo enfermeiro); leitura Feridas do Enfermare (out/2026), seções Coberturas e Desbridamento",
+  "coment": "O desbridamento autolítico usa as enzimas do próprio leito para digerir o tecido inviável sob cobertura que mantém umidade; é seletivo e indolor, porém lento. O hidrogel, gel com alto teor de água, hidrata o leito e amolece necrose e esfacelo, e é indicado em feridas secas. Alginato e espuma são para exsudato moderado a alto e ressecam ou não atuam no leito seco. A gaze úmida que seca e é arrancada é desbridamento mecânico, pouco seletivo e doloroso. A Res. COFEN 787/2025 lista o desbridamento autolítico entre as competências do enfermeiro capacitado.",
+  "porAlt": [
+   "Alginato é para ferida exsudativa e resseca e adere no leito seco.",
+   "Espuma é para exsudato moderado a alto e é evitada na ferida seca.",
+   "Carvão com prata é para ferida infectada e fétida, o que não é o caso.",
+   "Gaze úmida que seca é desbridamento mecânico, doloroso e pouco seletivo.",
+   "Correta: hidrogel promove desbridamento autolítico, seletivo e indolor, no leito seco."
+  ]
+ },
+ {
+  "q": "Homem de 61 anos tem úlcera na perna infectada, com exsudato abundante e odor fétido que o constrange no convívio familiar. Não há osso nem tendão expostos, e a perfusão do membro está preservada. A enfermeira escolhe a cobertura primária. Qual opção reúne a indicação adequada e a restrição correta dessa cobertura?",
+  "alts": [
+   "Carvão ativado com prata; evitar sobre osso ou tendão",
+   "Hidrogel; evitar em ferida com qualquer quantidade de odor",
+   "Hidrocoloide; evitar apenas em pele perilesional íntegra",
+   "Alginato de cálcio; evitar quando houver exsudato abundante",
+   "Ácidos graxos essenciais; evitar só em feridas superficiais"
+  ],
+  "gab": 0,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Res. COFEN 787/2025, art. 4º (prescrição de coberturas); leitura Feridas do Enfermare (out/2026), seção Coberturas",
+  "coment": "O carvão ativado adsorve odor e bactérias, e a prata associada é antimicrobiana de amplo espectro; a indicação típica é a ferida infectada, fétida e muito exsudativa, exatamente o caso. As restrições são ferida seca e exposição óssea ou tendínea. A prata é usada por tempo limitado, com reavaliação, e não indefinidamente. Hidrogel doa umidade e não controla exsudato abundante; hidrocoloide é evitado na infecção; alginato é justamente para exsudato abundante; AGE tem evidência limitada e não trata ferida infectada.",
+  "porAlt": [
+   "Correta: carvão com prata serve à ferida infectada e fétida e é evitado sobre osso ou tendão.",
+   "O hidrogel não é restrito pelo odor, e sim por exsudato abundante.",
+   "O hidrocoloide é evitado na ferida infectada, não por pele perilesional íntegra.",
+   "O alginato é indicado justamente quando o exsudato é abundante.",
+   "AGE não trata ferida infectada, e sua indicação é a ferida superficial limpa."
+  ]
+ },
+ {
+  "q": "Homem de 58 anos será admitido na UTI após cirurgia cardíaca longa, com previsão de sedação e uso de vasopressor. Tem pele sacral íntegra e Braden 10. Além de reposicionamento programado e superfície de suporte de redistribuição, qual cobertura profilática a Nota Técnica Anvisa 05/2023 cita para áreas de risco?",
+  "alts": [
+   "Hidrocoloide extrafino sobre o sacro diariamente",
+   "Filme transparente de poliuretano sobre o sacro",
+   "Espuma de poliuretano multicamadas com silicone",
+   "Alginato de cálcio fixado com fita sobre o sacro",
+   "Gaze com ácidos graxos essenciais sob a fralda"
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Nota Técnica GVIMS/GGTES/Anvisa 05/2023 (prevenção de lesão por pressão)",
+  "coment": "Entre as medidas de prevenção, a Nota Técnica Anvisa 05/2023 cita coberturas profiláticas de espuma de poliuretano multicamadas com silicone sobre áreas de risco, escolhidas por avaliação clínica e custo-benefício. A espuma redistribui pressão e reduz fricção e cisalhamento, e a borda de silicone permite levantar e inspecionar a pele sem trauma. Não substitui reposicionamento, superfície de suporte nem inspeção diária. Vasopressor e cirurgia longa elevam o risco além do escore. Alginato é cobertura de tratamento de ferida exsudativa, não de prevenção sobre pele íntegra.",
+  "porAlt": [
+   "Hidrocoloide não é a cobertura profilática citada e tem adesivo que agride pele frágil.",
+   "Filme transparente não amortece nem redistribui pressão sobre o sacro.",
+   "Correta: a nota técnica cita espuma multicamadas com silicone como profilaxia.",
+   "Alginato é cobertura de tratamento para ferida exsudativa, não de prevenção.",
+   "Gaze com AGE sob a fralda não redistribui pressão nem é a cobertura citada."
+  ]
+ },
+ {
+  "q": "Um técnico de enfermagem com 10 anos de experiência concluiu curso livre de tratamento de feridas e pede à enfermeira para assumir o desbridamento instrumental conservador de esfacelo nas lesões por pressão da unidade, já que tem prática com bisturi. Pela Resolução COFEN 787/2025, qual é a resposta correta da enfermeira?",
+  "alts": [
+   "Pode, desde que o curso tenha carga mínima de 360 horas",
+   "Pode, sob supervisão direta da enfermeira à beira do leito",
+   "Pode fazer o desbridamento, mas não prescrever a cobertura",
+   "Não pode; desbridar é competência do enfermeiro capacitado",
+   "Não pode; o desbridamento instrumental é privativo do médico"
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 787/2025 (atuação da enfermagem em lesões cutâneas; revoga a Res. COFEN 567/2018), anexo de competências",
+  "coment": "A Resolução COFEN 787/2025 lista como competência do enfermeiro capacitado o desbridamento autolítico, instrumental conservador, mecânico, enzimático ou biológico. Ao técnico de enfermagem o anexo atribui executar os cuidados prescritos pelo enfermeiro, sob supervisão, auxiliar o enfermeiro, registrar, orientar e comunicar intercorrências; não lhe atribui desbridamento nem prescrição, com ou sem curso e com ou sem supervisão. A carga de 360 horas aparece no art. 9º como recomendação de pós-graduação para o enfermeiro que trata lesões complexas. A resolução revogou a 567/2018.",
+  "porAlt": [
+   "As 360 horas são recomendação ao enfermeiro e não habilitam o técnico a desbridar.",
+   "Supervisão não transfere ao técnico uma competência que o anexo reserva ao enfermeiro.",
+   "O anexo não atribui ao técnico nem o desbridamento nem a prescrição.",
+   "Correta: o desbridamento é competência do enfermeiro capacitado pela Res. 787/2025.",
+   "O instrumental conservador é competência do enfermeiro, não privativo do médico."
+  ]
+ },
+ {
+  "q": "Uma enfermeira recém-formada é contratada para o ambulatório de feridas de um hospital e pergunta à coordenação se precisa de especialização para tratar lesões complexas, como úlceras de difícil cicatrização. Segundo o art. 9º da Resolução COFEN 787/2025, o que a norma estabelece quanto à formação desse profissional?",
+  "alts": [
+   "Exige especialização de 360 horas antes de qualquer curativo",
+   "Recomenda pós-graduação de 360 horas e mais 20% de prática",
+   "Exige o título TiSOBEST para atuar em lesões complexas",
+   "Recomenda residência de dois anos em estomaterapia",
+   "Exige pós-graduação de 180 horas, com 10% de prática"
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "Resolução COFEN 787/2025, art. 9º",
+  "coment": "Para quem trata lesões complexas, o art. 9º da Resolução COFEN 787/2025 recomenda, sem exigir, pós-graduação lato sensu de no mínimo 360 horas, acrescidas de 20% de prática supervisionada. A resolução exige que o cuidado seja feito por profissionais capacitados, nas competências do anexo, e que comece por consulta de enfermagem pelo Processo de Enfermagem. O título TiSOBEST, conferido pela SOBEST ao enfermeiro estomaterapeuta, é certificação de especialista e não requisito legal para atuar. Afirmar que a resolução exige especialização é a pegadinha mais comum.",
+  "porAlt": [
+   "A norma recomenda, e não exige, a pós-graduação, e nada condiciona curativos simples a ela.",
+   "Correta: o art. 9º recomenda pós-graduação de 360 horas acrescidas de 20% de prática.",
+   "O TiSOBEST é título de especialista, não exigência da resolução.",
+   "A recomendação é de pós-graduação lato sensu, não de residência.",
+   "A carga citada é de 360 horas com 20% de prática, e como recomendação."
+  ]
+ },
+ {
+  "q": "Em ambulatório, uma enfermeira capacitada remove com bisturi e tesoura, à beira da maca, o esfacelo aderido de uma úlcera venosa, sem atingir tecido viável e sem sangramento relevante. Uma colega afirma que esse procedimento só poderia ser feito em centro cirúrgico. Como classificar o desbridamento realizado e sua legalidade?",
+  "alts": [
+   "Instrumental conservador, competência do enfermeiro capacitado",
+   "Cirúrgico, permitido ao enfermeiro com pós-graduação lato sensu",
+   "Instrumental conservador, privativo do médico em centro cirúrgico",
+   "Mecânico, permitido a todos os profissionais de enfermagem",
+   "Cirúrgico, vedado à enfermagem em qualquer ambiente de cuidado"
+  ],
+  "gab": 0,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 787/2025, anexo (competências do enfermeiro em lesões cutâneas)",
+  "coment": "Desbridamento instrumental conservador é o feito com bisturi, tesoura ou cureta à beira do leito, removendo só tecido inviável, sem atingir tecido viável e sem sangramento relevante. A Res. COFEN 787/2025 o lista entre as competências do enfermeiro capacitado, ao lado do autolítico, mecânico, enzimático e biológico. O desbridamento cirúrgico é a excisão ampla até tecido viável, em centro cirúrgico e com anestesia, e não consta entre as competências de enfermagem. O mecânico usa força física, como irrigação com pressão ou gaze que seca e é retirada.",
+  "porAlt": [
+   "Correta: remoção só de tecido inviável à beira do leito é instrumental conservador, do enfermeiro.",
+   "O procedimento descrito não é cirúrgico, e o cirúrgico não consta entre as competências de enfermagem.",
+   "O instrumental conservador é competência do enfermeiro capacitado e dispensa centro cirúrgico.",
+   "Bisturi e tesoura caracterizam o instrumental; mecânico é força física, como irrigação.",
+   "Não houve excisão ampla com anestesia, então o procedimento não foi cirúrgico."
+  ]
+ },
+ {
+  "q": "Idosa de 88 anos sofre lesão no antebraço ao ser transferida da cadeira para a cama pela equipe. Há um retalho de pele viável que, quando reposicionado, não cobre todo o leito. Pela classificação e pelas recomendações do International Skin Tear Advisory Panel de 2025, qual é o tipo da lesão e a conduta local adequada?",
+  "alts": [
+   "Tipo 1; aproximar o retalho com fita adesiva de fechamento",
+   "Tipo 3; suturar o retalho e cobrir com filme transparente",
+   "Tipo 2; reaproximar o retalho e usar cobertura de silicone",
+   "Tipo 2; remover o retalho e aplicar hidrocoloide acrílico",
+   "Tipo 1; cobrir com gaze seca e trocar a cada seis horas"
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "International Skin Tear Advisory Panel (ISTAP). Best practice recommendations for skin tears, 2ª ed., 2025",
+  "coment": "Pelo ISTAP 2025, lesão por fricção tipo 1 não tem perda de pele (o retalho cobre o leito), tipo 2 tem perda parcial do retalho (não cobre todo o leito) e tipo 3 perda total. A conduta: controlar sangramento, limpar sem esfregar, remover hematoma e reaproximar o retalho viável sem esticar a pele. Não se recomendam sutura, grampo, fita adesiva de fechamento, gaze simples, iodo, filme transparente nem hidrocoloide de adesivo acrílico ou de borracha. Preferem-se coberturas de silicone ou de baixa aderência, com seta indicando o sentido de retirada, que segue a direção do retalho.",
+  "porAlt": [
+   "O retalho não cobre todo o leito, o que é tipo 2, e fita de fechamento não é recomendada.",
+   "Ainda há retalho, então não é tipo 3, e sutura e filme não são recomendados.",
+   "Correta: retalho parcial é tipo 2, reaproximado e coberto com silicone.",
+   "O retalho viável deve ser preservado, e hidrocoloide acrílico é contraindicado.",
+   "Não é tipo 1, e gaze simples adere ao leito e não é recomendada."
+  ]
+ },
+ {
+  "q": "Na reorganização de uma clínica médica com muitos pacientes acamados, a enfermeira responsável distribui as atividades relacionadas a lesões cutâneas entre técnicos e auxiliares de enfermagem da escala. Pelo anexo da Resolução COFEN 787/2025, qual atividade pode ser atribuída ao auxiliar de enfermagem?",
+  "alts": [
+   "Desbridamento enzimático com papaína, sob supervisão direta",
+   "Prescrição de cobertura para lesões superficiais e limpas",
+   "Medida do índice tornozelo-braquial para indicar compressão",
+   "Coleta de material da lesão para cultura, se capacitado",
+   "Curativo simples, sob prescrição e supervisão do enfermeiro"
+  ],
+  "gab": 4,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 787/2025, anexo (atribuições do enfermeiro, do técnico e do auxiliar de enfermagem)",
+  "coment": "Pelo anexo da Resolução COFEN 787/2025, ao auxiliar de enfermagem cabem promoção da saúde, prevenção de lesões e curativos simples, sob prescrição e supervisão do enfermeiro, além de registrar, orientar e comunicar alterações. Desbridamento, em qualquer modalidade, prescrição de coberturas, coleta de material para cultura ou biópsia e medida do índice tornozelo-braquial para indicar e instalar terapia compressiva estão entre as competências do enfermeiro. O técnico executa os cuidados prescritos, sob supervisão, e também não desbrida nem prescreve.",
+  "porAlt": [
+   "Desbridamento enzimático é competência do enfermeiro capacitado.",
+   "Prescrever cobertura é atribuição do enfermeiro, mesmo em lesão simples.",
+   "Medir o ITB para indicar compressão é competência do enfermeiro.",
+   "A coleta de material da lesão infectada é atribuída ao enfermeiro capacitado.",
+   "Correta: o auxiliar faz curativo simples sob prescrição e supervisão do enfermeiro."
+  ]
+ },
+ {
+  "q": "Homem de 72 anos, tabagista de longa data, tem úlcera no dorso do hálux, bem delimitada, de fundo pálido. O pé é frio, sem pelos, com pulsos pediosos muito reduzidos. Refere dor intensa que piora ao deitar com as pernas elevadas e alivia quando deixa a perna pendente para fora da cama. Qual é a provável etiologia e o tratamento de base?",
+  "alts": [
+   "Venosa; compressão elástica graduada e elevação do membro",
+   "Arterial; avaliação vascular visando a revascularização",
+   "Neuropática; alívio de carga com calçado especial",
+   "Venosa; repouso com membro elevado e hidrocoloide",
+   "Arterial; compressão inelástica para reduzir a dor"
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Pé diabético e úlceras vasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "ESVS 2022 Clinical Practice Guidelines on Chronic Venous Disease; leitura Feridas do Enfermare (out/2026), seção Pé diabético e úlceras venosa e arterial",
+  "coment": "Úlcera em dedos ou pontos de atrito, bem delimitada e de fundo pálido, com pele fria, sem pelos e pulsos reduzidos, e dor intensa que piora ao elevar e alivia com a perna pendente, é úlcera arterial. O tratamento de base é avaliação vascular e revascularização; nenhuma cobertura fecha a ferida sem fluxo. A compressão é contraindicada na isquemia importante, e a decisão passa pelo índice tornozelo-braquial. A úlcera venosa fica acima do maléolo medial, é rasa e exsudativa e melhora ao elevar; a neuropática é plantar, cercada de calo e indolor.",
+  "porAlt": [
+   "Dor que piora ao elevar e pé frio sem pulsos não são de úlcera venosa.",
+   "Correta: úlcera isquêmica pede avaliação vascular e revascularização como base.",
+   "Úlcera neuropática é plantar, cercada de calo e indolor, ao contrário desta.",
+   "Elevar o membro piora a dor isquêmica, e a etiologia não é venosa.",
+   "Compressão pode agravar a isquemia e é contraindicada sem avaliação vascular."
+  ]
+ },
+ {
+  "q": "Mulher de 68 anos tem úlcera no terço distal da perna direita e será avaliada para terapia compressiva. Com Doppler, a enfermeira mede pressão sistólica de 70 mmHg no tornozelo direito e 140 mmHg no braço, a maior das pressões braquiais. Qual é o índice tornozelo-braquial e a conduta quanto à compressão?",
+  "alts": [
+   "ITB de 2,0; compressão plena, pois o fluxo está aumentado",
+   "ITB de 0,5; compressão reduzida com pressão no tornozelo",
+   "ITB de 0,7; compressão reduzida com monitoramento clínico",
+   "ITB de 0,5; sem compressão e avaliação para revascularizar",
+   "ITB de 0,5; compressão plena, pois o valor é limítrofe"
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Pé diabético e úlceras vasculares",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "De Maeseneer MG et al. ESVS 2022 Clinical Practice Guidelines on Chronic Venous Disease; Resolução COFEN 787/2025 (ITB e terapia compressiva)",
+  "coment": "O índice tornozelo-braquial divide a pressão sistólica do tornozelo pela braquial, ambas medidas com Doppler: 70 ÷ 140 = 0,5. Pela diretriz de doença venosa crônica da ESVS (2022), ITB abaixo de 0,6 contraindica a compressão e pede avaliação para revascularização; de 0,6 a 0,8 admite compressão reduzida se a pressão no tornozelo passar de 60 mmHg; acima disso, compressão plena. Comprimir perna isquêmica pode causar necrose. Medir e interpretar o ITB para indicar e instalar terapia compressiva é competência do enfermeiro pela Res. COFEN 787/2025.",
+  "porAlt": [
+   "A divisão é do tornozelo pelo braço, 70 por 140, e não o inverso.",
+   "O cálculo está certo, mas abaixo de 0,6 não se comprime.",
+   "A divisão de 70 por 140 resulta em 0,5, e não em 0,7.",
+   "Correta: ITB de 0,5 contraindica compressão e pede avaliação vascular.",
+   "ITB de 0,5 não é limítrofe; indica doença arterial importante."
+  ]
+ },
+ {
+  "q": "Homem de 70 anos com úlcera venosa e sinais de doença arterial associada tem, na perna afetada, pressão sistólica no tornozelo de 98 mmHg, e a maior pressão braquial é de 140 mmHg. Pela diretriz de doença venosa crônica da ESVS de 2022, qual é o índice tornozelo-braquial e a conduta de compressão adequada?",
+  "alts": [
+   "ITB de 0,7; compressão reduzida, tornozelo acima de 60 mmHg",
+   "ITB de 0,7; contraindicar qualquer compressão do membro",
+   "ITB de 1,4; compressão plena, sem restrição de pressão",
+   "ITB de 0,7; compressão plena, pois o índice é normal",
+   "ITB de 0,5; encaminhar para revascularização imediata"
+  ],
+  "gab": 0,
+  "tema": "feridas",
+  "sub": "Pé diabético e úlceras vasculares",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "De Maeseneer MG et al. ESVS 2022 Clinical Practice Guidelines on Chronic Venous Disease",
+  "coment": "O ITB é 98 ÷ 140 = 0,7. Pela ESVS 2022, ITB entre 0,6 e 0,8 indica doença arterial associada e permite compressão reduzida desde que a pressão no tornozelo seja maior que 60 mmHg, como aqui (98 mmHg), com acompanhamento. Abaixo de 0,6 não se comprime e se avalia revascularização; acima de 0,8, compressão plena. ITB acima de 1,3 sugere artéria incompressível e não serve para decidir. A úlcera venosa não fecha sem compressão, por isso negar toda compressão também prejudica o paciente quando ela é segura.",
+  "porAlt": [
+   "Correta: ITB de 0,7 com tornozelo acima de 60 mmHg admite compressão reduzida.",
+   "Entre 0,6 e 0,8, com tornozelo acima de 60 mmHg, a compressão reduzida é possível.",
+   "A divisão de 98 por 140 dá 0,7, e não 1,4.",
+   "ITB de 0,7 não é normal; indica doença arterial associada.",
+   "A divisão de 98 por 140 dá 0,7, e não 0,5."
+  ]
+ },
+ {
+  "q": "Mulher de 66 anos, diabética há 20 anos e em hemodiálise, tem úlcera de perna e será avaliada para compressão. O índice tornozelo-braquial calculado pela enfermeira com Doppler é de 1,45, embora os pulsos pediosos estejam difíceis de palpar. Como interpretar esse resultado antes de decidir pela terapia compressiva?",
+  "alts": [
+   "Normal, liberando compressão plena sem outra avaliação",
+   "Indica insuficiência venosa grave e pede compressão alta",
+   "Sugere artéria incompressível; o índice não é confiável",
+   "Indica isquemia crítica e contraindica curativo úmido",
+   "Indica erro de técnica e deve ser repetido no outro braço"
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Pé diabético e úlceras vasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "De Maeseneer MG et al. ESVS 2022 Clinical Practice Guidelines on Chronic Venous Disease",
+  "coment": "ITB acima de 1,3 indica artéria incompressível, achado comum no diabético e no paciente com doença renal crônica pela calcificação da parede arterial. O manguito não consegue ocluir a artéria, a pressão no tornozelo sai falsamente alta e o índice não vale para decidir a compressão. Pulsos difíceis de palpar reforçam que pode haver doença arterial escondida. A paciente precisa de avaliação vascular complementar antes de comprimir. Tomar o valor como normal e aplicar compressão plena pode causar lesão isquêmica.",
+  "porAlt": [
+   "Acima de 1,3 o índice não é normal; a artéria não se comprime e o valor engana.",
+   "O ITB avalia o fluxo arterial e não mede a gravidade da insuficiência venosa.",
+   "Correta: ITB acima de 1,3 sugere artéria incompressível e não é confiável.",
+   "Isquemia se expressa por ITB baixo, e o curativo úmido não depende desse valor.",
+   "O valor alto se explica pela calcificação arterial, e não por erro no braço."
+  ]
+ },
+ {
+  "q": "Homem de 59 anos, diabético, tem úlcera indolor na planta do pé, sob a cabeça do primeiro metatarso, circundada por calo espesso. O pé é quente e seco, com pulsos palpáveis, e ele não sente o monofilamento. Continua trabalhando em pé o dia inteiro. Segundo as diretrizes do IWGDF de 2023, qual é o centro do tratamento?",
+  "alts": [
+   "Compressão inelástica para controlar o edema do pé",
+   "Revascularização antes de qualquer cuidado local",
+   "Cobertura de prata contínua até a cicatrização",
+   "Elevação do membro e repouso, com placa de hidrocoloide",
+   "Alívio de carga sobre a área ulcerada da planta do pé"
+  ],
+  "gab": 4,
+  "tema": "feridas",
+  "sub": "Pé diabético e úlceras vasculares",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "IWGDF Guidelines on the prevention and management of diabetes-related foot disease, 2023",
+  "coment": "Úlcera plantar, sob proeminência óssea, indolor, cercada de calo, em pé quente com pulsos palpáveis e perda da sensibilidade protetora é úlcera neuropática do pé diabético. Pelas diretrizes do IWGDF de 2023, o alívio de carga está no centro do tratamento: sem tirar a pressão de quem anda sobre a úlcera, nenhuma cobertura a fecha. Ao enfermeiro cabem o exame do pé, a orientação de calçado e autocuidado e o reconhecimento precoce de infecção e isquemia. Revascularização é para o pé isquêmico, e compressão é o tratamento de base da úlcera venosa.",
+  "porAlt": [
+   "Compressão é base da úlcera venosa, não da neuropática plantar.",
+   "Os pulsos são palpáveis e o pé é quente, sem indicação de revascularização.",
+   "Prata é para infecção e por tempo limitado, e não trata a causa mecânica.",
+   "Elevação e hidrocoloide não retiram a carga sobre a úlcera plantar.",
+   "Correta: na úlcera neuropática plantar, o alívio de carga é o centro do tratamento."
+  ]
+ },
+ {
+  "q": "Em uma unidade básica, a enfermeira atende pessoa com úlcera venosa, mede o índice tornozelo-braquial com Doppler, obtém valor de 1,0 e instala bandagem compressiva conforme protocolo local. O coordenador médico questiona se ela poderia fazer isso sem encaminhar antes ao angiologista. Pela Resolução COFEN 787/2025, qual é a resposta correta?",
+  "alts": [
+   "Não, pois o ITB é exame privativo do médico angiologista",
+   "Sim, medir o ITB e instalar a compressão cabe ao enfermeiro",
+   "Sim, mas só se tiver título de estomaterapeuta registrado",
+   "Não, pois a compressão exige prescrição médica prévia",
+   "Sim, e o técnico também pode instalá-la sem a medida"
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Pé diabético e úlceras vasculares",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 787/2025, anexo (competências do enfermeiro: ITB e terapia compressiva)",
+  "coment": "O anexo da Resolução COFEN 787/2025 inclui entre as competências do enfermeiro a medida do índice tornozelo-braquial para indicar e instalar terapia compressiva, além da prescrição de coberturas e terapias adjuvantes. Com ITB de 1,0, a compressão plena é segura pela diretriz da ESVS de 2022. A resolução recomenda, sem exigir, pós-graduação para quem trata lesões complexas, e não condiciona a competência a título de especialista. O técnico executa cuidados prescritos sob supervisão, e nenhuma compressão deve ser aplicada sem avaliação vascular prévia.",
+  "porAlt": [
+   "A Res. 787/2025 atribui ao enfermeiro a medida do ITB para indicar compressão.",
+   "Correta: medir o ITB e instalar terapia compressiva é competência do enfermeiro.",
+   "A resolução não exige título de especialista para essa competência.",
+   "A indicação da compressão pelo ITB está entre as competências do enfermeiro.",
+   "Compressão sem medida do ITB é insegura, e o técnico não a indica."
+  ]
+ },
+ {
+  "q": "Na consulta de enfermagem de um ambulatório de feridas, a residente precisa diferenciar a etiologia das úlceras de perna antes de propor o tratamento de base de cada paciente. Pela comparação clássica entre úlcera venosa, arterial e neuropática, qual conjunto de achados é típico da úlcera venosa?",
+  "alts": [
+   "Úlcera plantar, cercada de calo, indolor e com pulsos palpáveis",
+   "Úlcera no hálux, de fundo pálido, com pé frio e sem pelos",
+   "Úlcera no calcanhar, bem delimitada, com dor ao elevar a perna",
+   "Úlcera rasa acima do maléolo medial, com edema e dermatite ocre",
+   "Úlcera profunda nos dedos, com dor intensa e pulsos ausentes"
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Pé diabético e úlceras vasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "ESVS 2022 Clinical Practice Guidelines on Chronic Venous Disease; leitura Feridas do Enfermare (out/2026), seção Pé diabético e úlceras venosa e arterial",
+  "coment": "A úlcera venosa fica no terço distal da perna, acima do maléolo medial; é rasa, exsudativa, de borda irregular, com dor moderada que melhora ao elevar o membro. A pele ao redor mostra edema, dermatite ocre (hiperpigmentação) e lipodermatosclerose. O tratamento de base é a compressão, depois de medir o índice tornozelo-braquial. A arterial aparece em dedos, calcanhar e pontos de atrito, bem delimitada, de fundo pálido, com pele fria e sem pelos e dor que piora ao elevar. A neuropática é plantar, cercada de calo e indolor.",
+  "porAlt": [
+   "Planta, calo e ausência de dor descrevem a úlcera neuropática.",
+   "Hálux, fundo pálido e pé frio sem pelos descrevem a úlcera arterial.",
+   "Calcanhar e dor que piora ao elevar são achados da úlcera arterial.",
+   "Correta: úlcera rasa acima do maléolo medial com edema e dermatite ocre é venosa.",
+   "Dedos, dor intensa e pulsos ausentes indicam isquemia, não doença venosa."
+  ]
+ },
+ {
+  "q": "Na unidade básica, homem de 52 anos com diabetes tipo 2 há três anos faz a primeira consulta de enfermagem voltada aos pés. A sensibilidade ao monofilamento está preservada, os pulsos pediosos são palpáveis e não há deformidades nem úlcera ou amputação prévias. Com que periodicidade o exame dos pés deve ser repetido?",
+  "alts": [
+   "Pelo menos uma vez ao ano, com orientação de autocuidado",
+   "A cada um a três meses, com consulta na atenção especializada",
+   "A cada três a seis meses, por já ter diagnóstico de diabetes",
+   "Somente quando surgirem queixas de dor ou de formigamento",
+   "A cada semana, pela enfermeira, até completar o primeiro ano"
+  ],
+  "gab": 0,
+  "tema": "feridas",
+  "sub": "Pé diabético e úlceras vasculares",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "IWGDF Guidelines on the prevention and management of diabetes-related foot disease, 2023",
+  "coment": "Pelas diretrizes do IWGDF de 2023, a pessoa com diabetes sem perda da sensibilidade protetora, sem doença arterial periférica e sem história de úlcera ou amputação tem risco muito baixo de ulceração e deve ter os pés examinados pelo menos uma vez ao ano. Os intervalos encurtam conforme o risco aumenta, até a cada um a três meses no risco alto. Ao enfermeiro cabem o exame anual do pé, a orientação sobre calçado e autocuidado (inspeção diária, higiene, não andar descalço) e o reconhecimento precoce de infecção e isquemia. Esperar queixa atrasa o diagnóstico da neuropatia, que é silenciosa.",
+  "porAlt": [
+   "Correta: sem neuropatia, sem DAP e sem úlcera prévia, o exame é ao menos anual.",
+   "Intervalo de um a três meses é para risco alto, não para este paciente.",
+   "O diagnóstico de diabetes sozinho não encurta o intervalo sem fatores de risco.",
+   "A neuropatia é silenciosa, e esperar queixa atrasa a prevenção.",
+   "Exame semanal não tem indicação para pessoa sem fatores de risco."
+  ]
+ },
+ {
+  "q": "Mulher de 30 anos derramou água fervente no antebraço há uma hora, enquanto cozinhava. Na avaliação, a área tem bolhas, leito rosado e úmido sob as bolhas rompidas, enchimento capilar presente e dor intensa ao toque leve. Como a enfermeira deve classificar a profundidade dessa queimadura?",
+  "alts": [
+   "Primeiro grau, por atingir só a epiderme",
+   "Terceiro grau, por ser de espessura total",
+   "Segundo grau superficial, de espessura parcial",
+   "Segundo grau profundo, por haver dor intensa",
+   "Quarto grau, por haver bolhas e exsudato"
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Queimaduras",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Advanced Trauma Life Support (ATLS), 11ª ed., 2025, capítulo de queimaduras",
+  "coment": "Queimadura de primeiro grau atinge só a epiderme: eritema e dor, sem bolha. A de segundo grau, ou espessura parcial, pode ser superficial, com bolha, leito rosado e úmido e muita dor, ou profunda, mais pálida e menos dolorosa. A de terceiro grau, ou espessura total, é branca ou marrom, endurecida e indolor, porque destruiu as terminações nervosas. Bolha com leito rosado, enchimento capilar presente e dor intensa definem segundo grau superficial. Só segundo e terceiro graus entram no cálculo da superfície corporal queimada.",
+  "porAlt": [
+   "Primeiro grau não forma bolha; há só eritema e dor.",
+   "Terceiro grau é branco ou marrom, endurecido e indolor.",
+   "Correta: bolha, leito rosado úmido e dor intensa definem segundo grau superficial.",
+   "O segundo grau profundo é mais pálido e menos doloroso que o superficial.",
+   "Bolhas e exsudato caracterizam espessura parcial, não lesão de tecidos profundos."
+  ]
+ },
+ {
+  "q": "Homem de 40 anos sofre queimadura por chama em acidente doméstico. Todo o membro superior direito e todo o tronco anterior têm bolhas e áreas brancas endurecidas; a face apresenta apenas eritema doloroso, sem bolhas. Pela regra dos nove do ATLS 11ª edição, qual é a superfície corporal queimada a considerar no cálculo?",
+  "alts": [
+   "36%, incluindo os 9% da face com eritema",
+   "27%, excluindo a face, que tem só eritema",
+   "18%, contando apenas o tronco anterior",
+   "45%, contando tronco anterior e posterior",
+   "31,5%, somando metade da cabeça ao total"
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Queimaduras",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Advanced Trauma Life Support (ATLS), 11ª ed., 2025, capítulo de queimaduras (regra dos nove)",
+  "coment": "Pela regra dos nove do ATLS 11ª edição, no adulto: cabeça 9%, cada membro superior 9%, tronco anterior 18%, tronco posterior 18%, cada membro inferior 18% e períneo 1%; a palma com os dedos do próprio paciente vale cerca de 1%. Só entram na conta as queimaduras de segundo e terceiro graus; o eritema do primeiro grau fica fora. Membro superior direito (9%) mais tronco anterior (18%) somam 27%. A face, só com eritema, não é contada. Na criança, a cabeça é proporcionalmente maior e os membros inferiores menores.",
+  "porAlt": [
+   "O eritema de primeiro grau da face não entra no cálculo da superfície queimada.",
+   "Correta: 9% do membro superior mais 18% do tronco anterior somam 27%.",
+   "Omite os 9% do membro superior direito, que tem segundo e terceiro graus.",
+   "O tronco posterior não foi atingido e não pode ser somado.",
+   "Cabeça com eritema não conta, nem pela metade."
+  ]
+ },
+ {
+  "q": "Homem de 70 kg chega ao pronto-socorro 2 horas após queimadura por chama de segundo e terceiro graus em 30% da superfície corporal. Ainda não recebeu nenhum volume. Pelo ATLS 11ª edição, com Ringer lactato, qual vazão inicial cumpre a meta de volume das primeiras 8 horas, contadas a partir da queimadura?",
+  "alts": [
+   "175 mL/h nas próximas 6 horas",
+   "262,5 mL/h nas próximas 8 horas",
+   "525 mL/h nas próximas 8 horas",
+   "350 mL/h nas próximas 6 horas",
+   "700 mL/h nas próximas 6 horas"
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Queimaduras",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Advanced Trauma Life Support (ATLS), 11ª ed., 2025, capítulo de queimaduras (reposição volêmica)",
+  "coment": "Pelo ATLS 11ª edição, no adulto com 20% ou mais de superfície queimada, o volume inicial é 2 mL × peso × % queimada em 24 horas: 2 × 70 × 30 = 4.200 mL. Metade, 2.100 mL, deve correr nas primeiras 8 horas contadas da hora da queimadura, e não da chegada. Como já se passaram 2 horas, restam 6 horas para os 2.100 mL: 350 mL/h. O ritmo depois se ajusta pela diurese. A Parkland clássica usava 4 mL/kg/%, e o excesso de volume causa edema e síndrome compartimental, por isso o ATLS parte de 2 mL.",
+  "porAlt": [
+   "Divide os 2.100 mL por 12 horas, metade da vazão necessária.",
+   "Divide os 2.100 mL por 8 horas, ignorando as 2 horas já passadas.",
+   "Infunde o volume de 24 horas inteiro em 8 horas.",
+   "Correta: 2.100 mL nas 6 horas restantes da janela de 8 horas dão 350 mL/h.",
+   "Usa 4 mL/kg/%, da Parkland clássica, e não os 2 mL do ATLS 11."
+  ]
+ },
+ {
+  "q": "Menino de 6 anos, com 20 kg, está internado na unidade de queimados com 25% de superfície corporal queimada por escaldadura e recebe reposição volêmica por bomba de infusão. A enfermeira controla a diurese horária pela sonda vesical e ajusta o registro do balanço. Pelo ATLS 11ª edição, qual é a meta de diurese para essa criança?",
+  "alts": [
+   "Cerca de 20 mL/h, isto é, 1 mL/kg/h",
+   "Cerca de 10 mL/h, isto é, 0,5 mL/kg/h",
+   "Cerca de 40 mL/h, isto é, 2 mL/kg/h",
+   "Cerca de 100 mL/h, até a urina clarear",
+   "Entre 30 e 50 mL/h, como no adulto"
+  ],
+  "gab": 0,
+  "tema": "feridas",
+  "sub": "Queimaduras",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Advanced Trauma Life Support (ATLS), 11ª ed., 2025, capítulo de queimaduras (débito urinário)",
+  "coment": "A diurese horária é o principal guia da reposição volêmica no queimado. Pelo ATLS 11ª edição, a meta é de 0,5 mL/kg/h no adulto e de 1 mL/kg/h na criança: para 20 kg, cerca de 20 mL/h. Abaixo da meta, a vazão deve ser aumentada conforme prescrição; muito acima, reduzida, porque o excesso de volume causa edema e síndrome compartimental. A meta de cerca de 100 mL/h vale para o adulto com queimadura elétrica e urina pigmentada, até clarear. Por isso a sonda vesical e o registro rigoroso fazem parte do cuidado de enfermagem.",
+  "porAlt": [
+   "Correta: na criança a meta é 1 mL/kg/h, cerca de 20 mL/h para 20 kg.",
+   "0,5 mL/kg/h é a meta do adulto, não da criança.",
+   "2 mL/kg/h excede a meta e sugere reposição excessiva.",
+   "100 mL/h é meta do adulto com queimadura elétrica e urina pigmentada.",
+   "30 a 50 mL/h é faixa do adulto e excede a meta para 20 kg."
+  ]
+ },
+ {
+  "q": "Na unidade básica, uma mulher de 35 anos chega 10 minutos após derramar óleo quente na mão e no punho direitos, ainda usando anel e relógio. A queimadura tem bolhas em cerca de 1% da superfície corporal, sem lesão de face ou via aérea. Qual é a primeira conduta de enfermagem adequada?",
+  "alts": [
+   "Aplicar gelo diretamente para reduzir dor e edema",
+   "Romper as bolhas e aplicar pasta de dente na área",
+   "Manter os adornos para não lesar a pele queimada",
+   "Cobrir com pomada e só então retirar anel e relógio",
+   "Retirar anel e relógio e resfriar com água corrente"
+  ],
+  "gab": 4,
+  "tema": "feridas",
+  "sub": "Queimaduras",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Advanced Trauma Life Support (ATLS), 11ª ed., 2025, capítulo de queimaduras; leitura Feridas do Enfermare (out/2026), seção Queimaduras",
+  "coment": "O primeiro passo é interromper a queimadura: retirar roupas e adornos, antes que o edema transforme anel e relógio em garrote, e irrigar o agente químico quando for o caso. Em seguida, resfriar com água corrente, e não com gelo, que agrava a lesão e favorece hipotermia. Depois, cobrir com material limpo e avaliar extensão, profundidade e local. Pasta de dente, manteiga e pomadas caseiras não são cuidado adequado e atrapalham a avaliação. Queimadura de segundo grau em mão é critério de encaminhamento a centro de queimados pela American Burn Association.",
+  "porAlt": [
+   "Gelo agrava a lesão tecidual e não é o resfriamento recomendado.",
+   "Pasta de dente não trata queimadura e atrapalha a avaliação da lesão.",
+   "Adornos devem sair logo, antes que o edema os torne garrote.",
+   "A retirada dos adornos vem primeiro, antes do edema; pomada não é a conduta inicial.",
+   "Correta: interromper a queimadura, tirar adornos e resfriar com água corrente."
+  ]
+ },
+ {
+  "q": "Homem de 50 anos é retirado de um apartamento em chamas após 20 minutos em ambiente fechado. Está confuso, com cefaleia, fuligem nas narinas e voz rouca. O oxímetro de pulso mostra SpO2 de 99% em ar ambiente. Qual interpretação a enfermeira deve fazer ao planejar o cuidado inicial desse paciente?",
+  "alts": [
+   "A SpO2 normal exclui intoxicação e lesão de via aérea",
+   "A rouquidão é esperada e dispensa vigilância da via aérea",
+   "A SpO2 pode superestimar a oxigenação por monóxido de carbono",
+   "A confusão indica só ansiedade, pois a saturação está normal",
+   "A fuligem nasal indica apenas queimadura de primeiro grau"
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Queimaduras",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Advanced Trauma Life Support (ATLS), 11ª ed., 2025, capítulo de queimaduras (lesão inalatória e monóxido de carbono)",
+  "coment": "O oxímetro de pulso comum não distingue carboxi-hemoglobina de oxi-hemoglobina e superestima a saturação na intoxicação por monóxido de carbono; carboxi-hemoglobina acima de 10% indica exposição importante. Exposição em ambiente fechado, cefaleia e confusão sugerem intoxicação. Rouquidão, estridor e fuligem na via aérea sinalizam lesão inalatória: o edema das primeiras 12 a 24 horas pode fechar a via aérea, e o ATLS 11 indica intubação imediata diante de rouquidão ou estridor. A enfermagem mantém oxigênio a 100%, monitora a via aérea e comunica a equipe.",
+  "porAlt": [
+   "SpO2 normal não exclui intoxicação por CO nem lesão inalatória.",
+   "Rouquidão após inalação de fumaça é sinal de risco da via aérea.",
+   "Correta: o oxímetro comum superestima a saturação na intoxicação por CO.",
+   "Confusão após exposição à fumaça sugere hipóxia ou CO, não ansiedade.",
+   "Fuligem nasal é sinal de lesão inalatória, não marcador de profundidade cutânea."
+  ]
+ },
+ {
+  "q": "Eletricista de 38 anos, com 80 kg, sofre queimadura elétrica de alta tensão, com lesão de entrada na mão e de saída no pé. Na unidade de internação, a sonda vesical drena urina escura, cor de refrigerante de cola, e há dor muscular no antebraço. Pelo ATLS 11ª edição, qual é a meta de diurese a perseguir nesse caso?",
+  "alts": [
+   "0,5 mL/kg/h, ou 40 mL/h, como em todo queimado",
+   "Cerca de 100 mL/h no adulto, até a urina clarear",
+   "1 mL/kg/h, cerca de 80 mL/h, só nas primeiras 8 horas",
+   "Cerca de 30 mL/h, para evitar sobrecarga de volume",
+   "Cerca de 200 mL/h, até a creatinina normalizar"
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Queimaduras",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Advanced Trauma Life Support (ATLS), 11ª ed., 2025, capítulo de queimaduras (queimadura elétrica)",
+  "coment": "A queimadura elétrica de alta tensão lesa músculo ao longo do trajeto da corrente, com pele às vezes pouco atingida, e libera mioglobina, que escurece a urina e lesa os rins. Pelo ATLS 11ª edição, a reposição na queimadura elétrica parte de 4 mL × peso × % queimada, e com urina pigmentada a meta de diurese no adulto é de cerca de 100 mL/h até a urina clarear. A meta de 0,5 mL/kg/h vale para a queimadura térmica do adulto. Dor muscular no membro pede vigilância de síndrome compartimental.",
+  "porAlt": [
+   "0,5 mL/kg/h é meta da queimadura térmica, insuficiente com mioglobinúria.",
+   "Correta: com urina pigmentada, a meta do adulto é cerca de 100 mL/h até clarear.",
+   "A meta não é por peso nem limitada às primeiras 8 horas nesse caso.",
+   "30 mL/h é insuficiente para proteger os rins da mioglobina.",
+   "A meta citada pelo ATLS é cerca de 100 mL/h, não o dobro."
+  ]
+ },
+ {
+  "q": "Um hospital de pequeno porte atende vários queimados no mesmo dia, e a enfermeira revisa quem precisa de transferência para centro de queimados pelos critérios da American Burn Association citados no ATLS 11ª edição. Todos estão estáveis e sem lesão inalatória. Qual destes pacientes tem indicação de transferência?",
+  "alts": [
+   "Adulto com 4% de segundo grau superficial no antebraço",
+   "Adulto com 8% de primeiro grau no dorso por exposição solar",
+   "Adulto com 3% de segundo grau superficial na coxa",
+   "Adulto com 2% de segundo grau na palma das duas mãos",
+   "Adulto com 6% de segundo grau superficial no abdome"
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Queimaduras",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Advanced Trauma Life Support (ATLS), 11ª ed., 2025, capítulo de queimaduras (critérios de transferência da American Burn Association)",
+  "coment": "Pelos critérios da American Burn Association citados no ATLS, têm indicação de transferência a centro de queimados: queimadura de espessura total; espessura parcial de 10% ou mais da superfície corporal; queimaduras em face, mãos, pés, genitais, períneo ou grandes articulações; lesão inalatória; queimadura química; e elétrica de alta tensão. A queimadura de segundo grau nas mãos, mesmo pequena, entra pelo local, pelo risco funcional. As demais alternativas têm espessura parcial abaixo de 10% em áreas não especiais, e o primeiro grau nem entra no cálculo da superfície queimada.",
+  "porAlt": [
+   "Espessura parcial de 4% em antebraço não atinge 10% nem área especial.",
+   "Primeiro grau não entra no cálculo e não indica transferência.",
+   "Espessura parcial de 3% na coxa não preenche critério de transferência.",
+   "Correta: queimadura de segundo grau nas mãos indica transferência pelo local.",
+   "Espessura parcial de 6% no abdome fica abaixo de 10% e fora de área especial."
+  ]
+ },
+ {
+  "q": "Mulher de 64 anos teve colostomia em cólon descendente por câncer de reto. No preparo para a alta hospitalar, ela pergunta à enfermeira como serão as eliminações pelo estoma no dia a dia. Segundo o Guia de Atenção à Saúde da Pessoa com Estomia do Ministério da Saúde, de 2021, qual orientação está correta?",
+  "alts": [
+   "Efluente líquido contínuo, como na ileostomia, por toda a vida",
+   "Fezes pastosas, com eliminação voluntária após o treino intestinal",
+   "Fezes pastosas a sólidas, de início irregular e sempre involuntário",
+   "Fezes líquidas a semilíquidas, que só ficam pastosas na transversa",
+   "Fezes sólidas e com controle voluntário semelhante ao do ânus"
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Estomias e cuidados",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Guia de Atenção à Saúde da Pessoa com Estomia, Ministério da Saúde/SAES, 2021 (Quadro 3)",
+  "coment": "Pelo Guia do Ministério da Saúde de 2021, a colostomia descendente é feita no lado esquerdo do intestino grosso e elimina fezes de pastosas a sólidas. No início, o funcionamento é irregular, com eliminações várias vezes ao dia, em momentos diferentes; com o tempo pode se regularizar, mas será sempre involuntário, porque o estoma não tem esfíncter. A ileostomia elimina efluente mais líquido; a colostomia ascendente tem fezes líquidas ou semilíquidas no início e pastosas depois; a transversa, semilíquidas a pastosas; a sigmoide, firmes a sólidas, com possibilidade de regularidade.",
+  "porAlt": [
+   "Efluente líquido é da ileostomia; a colostomia descendente elimina fezes pastosas a sólidas.",
+   "O estoma não tem esfíncter, e a eliminação é sempre involuntária.",
+   "Correta: na descendente, fezes pastosas a sólidas, funcionamento irregular no início e involuntário.",
+   "Fezes líquidas a semilíquidas são da colostomia ascendente nos primeiros dias.",
+   "Mesmo com fezes firmes, não há controle voluntário pelo estoma."
+  ]
  }
 ]

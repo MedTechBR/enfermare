@@ -478,5 +478,487 @@
    "Tratar só a acidose mantém a exposição ao cianeto e ignora a causa provável.",
    "Correta: acidose lática inexplicada e confusão sob nitroprussiato sugerem cianeto e tiocianato."
   ]
+ },
+ {
+  "q": "Paciente em choque séptico teve a noradrenalina aumentada de 0,25 para 0,5 mcg/kg/min nas últimas horas e mantém PAM de 62 mmHg. O médico prescreve vasopressina em infusão contínua. Ao instalar o novo fármaco, qual cuidado de enfermagem é coerente com a forma de uso da vasopressina?",
+  "alts": [
+   "Infundir em dose fixa, em UI/min, vigiando isquemia digital e mesentérica e o sódio",
+   "Titular a vasopressina a cada 5 minutos pela PAM, como se faz com a noradrenalina",
+   "Suspender a noradrenalina ao iniciar a vasopressina, que passa a substituí-la",
+   "Fazer bólus repetidos, pois a meia-vida curta impede a infusão contínua da droga"
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "Surviving Sepsis Campaign 2026 (vasopressina associada à noradrenalina)",
+  "coment": "A Surviving Sepsis Campaign 2026 sugere acrescentar vasopressina quando a dose de noradrenalina está em escalada, em vez de continuar subindo só a catecolamina. Diferente da noradrenalina, a vasopressina é infundida em dose fixa, expressa em UI/min, e não é titulada minuto a minuto pela PAM; quem continua sendo titulada é a noradrenalina. A enfermagem vigia isquemia digital e mesentérica (extremidades, dor e distensão abdominal, lactato) e o sódio sérico. Na retirada, muitos serviços reduzem primeiro a noradrenalina e só depois a vasopressina. A associação não substitui a noradrenalina: soma-se a ela.",
+  "porAlt": [
+   "Correta: a vasopressina corre em dose fixa em UI/min, com vigilância de isquemia e de sódio.",
+   "A titulação contínua pela PAM continua sendo feita com a noradrenalina, não com a vasopressina.",
+   "A vasopressina é acrescentada à noradrenalina, e não colocada no lugar dela.",
+   "A vasopressina é usada em infusão contínua; bólus repetidos não fazem parte do esquema."
+  ]
+ },
+ {
+  "q": "Mulher de 55 anos, no primeiro dia de pós-operatório de laparotomia na UTI, extubada há 6 horas, está sonolenta e não consegue responder à escala numérica. Na mudança de decúbito, faz careta, enrijece os braços e geme; a pontuação na CPOT é 5. Qual a interpretação e a conduta?",
+  "alts": [
+   "CPOT não se aplica ao extubado; usar a BPS para confirmar a dor",
+   "CPOT acima de 2 indica dor; dar a analgesia prescrita e reavaliar",
+   "CPOT de 5 indica agitação; aplicar a RASS e iniciar sedação leve",
+   "CPOT de 5 indica delirium; aplicar o CAM-ICU antes de medicar",
+   "CPOT abaixo de 6 indica dor leve; adiar a analgesia para depois"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretriz PADIS da Society of Critical Care Medicine 2018, atualização focada 2025",
+  "coment": "O autorrelato é o padrão quando o paciente consegue informar. Quando não consegue e tem movimentos preservados, o PADIS indica escalas comportamentais: a BPS e a CPOT. A CPOT avalia expressão facial, movimentos corporais, tensão muscular e, no intubado, adaptação ao ventilador ou, no extubado, vocalização; vai de 0 a 8, e escore acima de 2 indica dor. Com CPOT 5 na mobilização, a conduta é aplicar a analgesia prescrita, de preferência antes dos próximos procedimentos, e reavaliar. Tratar como agitação ou delirium sem controlar a dor inverte a prioridade: dor primeiro, sedação depois.",
+  "porAlt": [
+   "A CPOT serve ao intubado e ao extubado, pelo item vocalização; a BPS é a usada no intubado.",
+   "Correta: na CPOT, escore acima de 2 indica dor, que deve ser tratada e reavaliada.",
+   "CPOT mede dor, não agitação; sedar sem analgesia deixa a paciente imóvel e com dor.",
+   "O CAM-ICU vem depois do controle da dor; o escore 5 na CPOT indica dor.",
+   "O corte da CPOT é acima de 2; com 5 há dor que precisa de analgesia agora."
+  ]
+ },
+ {
+  "q": "Na UTI, a enfermeira avalia a dor de um paciente intubado, sob sedação leve, que não consegue autorrelatar. Ela decide aplicar a Behavioral Pain Scale (BPS), padronizada pelo protocolo da unidade. Quais domínios compõem essa escala e a partir de qual escore se considera que há dor?",
+  "alts": [
+   "Face, movimentos, tensão muscular e vocalização; dor acima de 2",
+   "Face, membros superiores e ventilador; dor a partir de 2 pontos",
+   "Face, membros superiores e adaptação ao ventilador; dor acima de 5",
+   "Olhos, resposta motora e adaptação ao ventilador; dor acima de 8"
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Diretriz PADIS da Society of Critical Care Medicine 2018, atualização focada 2025",
+  "coment": "A Behavioral Pain Scale tem três domínios: expressão facial, movimentos dos membros superiores e adaptação ao ventilador. Cada um vale de 1 a 4, e o total vai de 3 a 12; escore acima de 5 indica dor. É uma das duas escalas comportamentais de maior validade no PADIS, ao lado da CPOT, que tem quatro itens de 0 a 2 (face, movimentos, tensão muscular e ventilador ou vocalização), total de 0 a 8 e dor acima de 2. As duas perdem validade no paciente paralisado ou em sedação profunda. A escala é aplicada no mínimo a cada turno e sempre após ajuste de analgesia.",
+  "porAlt": [
+   "Esses quatro itens e o corte acima de 2 são da CPOT, não da BPS.",
+   "Os domínios estão certos, mas a BPS mínima é 3 e o corte de dor é acima de 5.",
+   "Correta: a BPS soma face, membros superiores e ventilador, de 3 a 12, com dor acima de 5.",
+   "Abertura ocular e resposta motora pertencem ao Glasgow, e a BPS não chega a 8 como corte."
+  ]
+ },
+ {
+  "q": "Na avaliação das 8 h, um paciente sob propofol abre os olhos quando chamado pelo nome, mantém contato visual por cerca de 5 segundos e volta a fechá-los. Não se movimenta sem estímulo e não há agitação. Pela escala de agitação e sedação de Richmond (RASS), qual é o escore?",
+  "alts": [
+   "RASS 0, alerta e calmo",
+   "RASS −1, sonolento à voz",
+   "RASS +1, inquieto e ansioso",
+   "RASS −2, em sedação leve",
+   "RASS −4, sedação profunda"
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz PADIS da Society of Critical Care Medicine 2018, atualização focada 2025 (RASS)",
+  "coment": "A RASS vai de +4 (combativo) a −5 (não despertável). Os níveis negativos se diferenciam pela resposta à voz: −1 desperta à voz e mantém olhos abertos e contato visual por mais de 10 segundos; −2 desperta brevemente à voz, com contato visual por menos de 10 segundos; −3 tem movimento ou abertura ocular à voz, sem contato visual; −4 não responde à voz, só ao estímulo físico. Contato visual de cerca de 5 segundos com abertura ocular ao chamado é −2, sedação leve. O PADIS considera sedação leve a faixa de −2 a +1, e o alvo deve estar escrito na prescrição para guiar a titulação.",
+  "porAlt": [
+   "RASS 0 é o paciente alerta e calmo, de olhos abertos sem precisar ser chamado.",
+   "RASS −1 exige contato visual por mais de 10 segundos ao chamado.",
+   "RASS +1 é o paciente ansioso e inquieto, sem movimentos agressivos.",
+   "Correta: desperta à voz com contato visual por menos de 10 segundos, RASS −2.",
+   "RASS −4 não responde à voz e só reage ao estímulo físico."
+  ]
+ },
+ {
+  "q": "Paciente de 74 anos, no quinto dia de ventilação mecânica, recebe fentanil e midazolam contínuos e está com RASS −4. A família relata que ele parecia confuso antes de ser intubado. A enfermeira pretende rastrear delirium nesse plantão. Qual a conduta correta quanto ao CAM-ICU?",
+  "alts": [
+   "Aplicar o CAM-ICU agora, pois a sedação profunda não interfere no teste",
+   "Registrar como não avaliável e reaplicar quando a RASS for −3 ou mais leve",
+   "Considerar o CAM-ICU positivo, já que a RASS diferente de zero basta",
+   "Trocar o CAM-ICU pelo relato da família, aceito em sedação profunda"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Diretriz PADIS da Society of Critical Care Medicine 2018, atualização focada 2025 (CAM-ICU)",
+  "coment": "O CAM-ICU exige que o paciente responda à voz. Por isso só se aplica com RASS de −3 ou mais leve; com RASS −4 ou −5 o paciente está em coma, e o delirium não pode ser avaliado. O registro correto é não avaliável, com nova tentativa quando a sedação permitir. Neste caso, a RASS −4 com benzodiazepínico contínuo também sinaliza o problema: o PADIS recomenda sedação leve, alvo escrito, despertar diário e propofol ou dexmedetomidina em vez de benzodiazepínico. Para o positivo é preciso início agudo ou flutuação e desatenção, mais pensamento desorganizado ou consciência alterada: a RASS alterada sozinha não fecha o diagnóstico.",
+  "porAlt": [
+   "Com RASS −4 o paciente não responde à voz, e o teste de atenção não pode ser feito.",
+   "Correta: o CAM-ICU só se aplica com RASS −3 ou mais leve; em −4 é registrado como não avaliável.",
+   "A consciência alterada é só um dos itens; exige-se também início agudo e desatenção.",
+   "O relato da família ajuda a contextualizar, mas não substitui o instrumento validado."
+  ]
+ },
+ {
+  "q": "Homem de 68 anos, no terceiro dia de pós-operatório na UTI, extubado, tem RASS −1. Desde a véspera alterna períodos de calma e sonolência. No teste das letras, erra 4 de 10. Responde corretamente às perguntas de sim ou não e cumpre um comando de duas etapas. Qual o resultado do CAM-ICU?",
+  "alts": [
+   "Negativo, porque o pensamento está organizado",
+   "Negativo, porque a RASS −1 equivale a alerta",
+   "Não avaliável, porque a RASS precisa ser zero",
+   "Positivo só se houver também agitação motora",
+   "Positivo, pelos itens 1 e 2 somados ao item 4"
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Diretriz PADIS da Society of Critical Care Medicine 2018, atualização focada 2025 (CAM-ICU)",
+  "coment": "O CAM-ICU tem quatro itens: 1, início agudo ou curso flutuante; 2, desatenção (no teste das 10 letras, mais de 2 erros é positivo); 3, pensamento desorganizado; 4, nível de consciência alterado, isto é, RASS diferente de zero no momento da avaliação. O delirium está presente com os itens 1 e 2, mais o 3 ou o 4. Aqui há flutuação desde a véspera (item 1), 4 erros nas letras (item 2) e RASS −1 (item 4). O pensamento organizado não exclui o diagnóstico, porque o item 4 completa a regra. Delirium hipoativo é frequente e passa despercebido justamente por não ter agitação.",
+  "porAlt": [
+   "O item 3 é só uma das alternativas; com o item 4 presente, o CAM-ICU fecha positivo.",
+   "RASS −1 é diferente de zero e conta como consciência alterada no item 4.",
+   "O CAM-ICU se aplica com RASS de −3 ou mais leve, não apenas com RASS zero.",
+   "Agitação não é exigida; o delirium hipoativo também é positivo no CAM-ICU.",
+   "Correta: flutuação, desatenção e RASS diferente de zero fecham o CAM-ICU positivo."
+  ]
+ },
+ {
+  "q": "Paciente de 80 anos na UTI, extubado há 2 dias, tem CAM-ICU positivo à noite. Usa óculos e aparelho auditivo, guardados desde a admissão, e a sonda vesical drenou 50 mL em 6 horas, com bexiga palpável e dor à palpação suprapúbica. Qual é a conduta inicial de enfermagem?",
+  "alts": [
+   "Investigar a retenção urinária e devolver os óculos e o aparelho auditivo",
+   "Pedir antipsicótico de horário para encurtar e prevenir o delirium",
+   "Aplicar contenção mecânica preventiva até o CAM-ICU ficar negativo",
+   "Pedir benzodiazepínico à noite para regularizar o sono do paciente",
+   "Manter o quarto escuro e silencioso nas 24 horas, sem visita da família"
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretriz PADIS da Society of Critical Care Medicine 2018, atualização focada 2025; Res. COFEN 746/2024 (contenção)",
+  "coment": "Diante do CAM-ICU positivo, o primeiro passo é procurar a causa: fármacos, infecção, hipóxia, distúrbio metabólico, dor, abstinência e retenção urinária, que aqui é provável (sonda com pouca drenagem, bexiga palpável e dor), pedindo verificação da sonda. Somam-se as medidas não farmacológicas do pacote ABCDEF: óculos e aparelho auditivo, orientação, sono protegido à noite e luz durante o dia, mobilização e presença da família. Antipsicótico não previne nem encurta o delirium, benzodiazepínico o piora, e contenção mecânica, regida pela Res. COFEN 746/2024, não é medida preventiva nem substitui o tratamento da causa.",
+  "porAlt": [
+   "Correta: investigar a causa provável e devolver óculos e aparelho auditivo são as primeiras medidas.",
+   "Antipsicótico não previne nem encurta o delirium e não é rotina pelo PADIS.",
+   "Contenção não trata delirium, aumenta a agitação e não é medida preventiva.",
+   "Benzodiazepínico se associa a mais delirium, salvo na abstinência de álcool.",
+   "Escuro contínuo e ausência da família desorientam; o ritmo dia e noite e a família ajudam."
+  ]
+ },
+ {
+  "q": "Homem de 61 anos com pneumonia chega à UTI com PAM de 60 mmHg após o volume inicial, lactato de 4 mmol/L e noradrenalina em início. As hemoculturas ainda não foram colhidas: a punção está difícil e as tentativas já duram 30 minutos. Pela Surviving Sepsis Campaign 2026, como a enfermeira deve proceder com o antimicrobiano?",
+  "alts": [
+   "Aguardar as hemoculturas para não reduzir a positividade",
+   "Administrar sem mais atraso, idealmente na primeira hora",
+   "Iniciar em até 3 horas, como na sepse apenas possível",
+   "Esperar o lactato de controle para confirmar o choque",
+   "Administrar só após a passagem do cateter venoso central"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Surviving Sepsis Campaign 2026 (Prescott et al., Intensive Care Med 2026)",
+  "coment": "No choque séptico e na sepse provável ou definitiva, a Surviving Sepsis Campaign 2026 recomenda antimicrobiano imediato, idealmente na primeira hora a partir do reconhecimento. As hemoculturas devem ser colhidas o quanto antes e, idealmente, antes do antimicrobiano, mas sem atrasá-lo no choque. Colher depois reduz a positividade (em estudo citado pela diretriz, de 31,4% para 19,4% após mediana de 70 minutos de antibiótico), e por isso se tenta colher em paralelo; o que não se aceita é segurar a dose. O prazo de até 3 horas vale para a sepse apenas possível, sem choque. A enfermeira organiza acesso, lactato, culturas, antimicrobiano e cristaloide em paralelo.",
+  "porAlt": [
+   "No choque, a coleta de culturas não pode atrasar o antimicrobiano.",
+   "Correta: no choque séptico o antimicrobiano é imediato, idealmente na primeira hora.",
+   "O prazo de 3 horas é da sepse apenas possível sem choque; este paciente está em choque.",
+   "O choque já está caracterizado; esperar novo lactato atrasa a dose.",
+   "O antimicrobiano pode correr em acesso periférico; esperar o cateter central atrasa o tratamento."
+  ]
+ },
+ {
+  "q": "Um hospital revisa o protocolo de sepse das enfermarias para que o enfermeiro faça o rastreio sistemático dos pacientes agudamente doentes e acione o time de resposta rápida. A comissão quer seguir a recomendação forte da Surviving Sepsis Campaign 2026. Qual ferramenta de rastreio deve ser adotada?",
+  "alts": [
+   "O qSOFA isolado, por ser o mais específico para mortalidade",
+   "O lactato sérico de todos os internados a cada 12 horas",
+   "O escore SOFA completo calculado na admissão de cada paciente",
+   "NEWS, NEWS2, MEWS ou SIRS, em vez do qSOFA usado isoladamente"
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "Surviving Sepsis Campaign 2026 (Prescott et al., Intensive Care Med 2026)",
+  "coment": "Para rastrear sepse em pacientes agudamente doentes, a Surviving Sepsis Campaign 2026 faz recomendação forte de usar NEWS, NEWS2, MEWS ou critérios de SIRS em vez do qSOFA isolado, cuja sensibilidade é baixa e deixa passar casos. A diretriz também recomenda, com força, que o hospital tenha programa de sepse com rastreio dos agudamente doentes e procedimentos padronizados. Na prática, o enfermeiro que aplica o escore de alerta precoce é quem abre o protocolo. O SOFA serve para caracterizar disfunção orgânica pela definição Sepsis-3, não para triagem de beira de leito, e lactato universal não é ferramenta de rastreio.",
+  "porAlt": [
+   "A SSC 2026 recomenda não usar o qSOFA isolado para rastreio, pela baixa sensibilidade.",
+   "Dosar lactato de todos os internados não é rastreio recomendado e não substitui o escore clínico.",
+   "O SOFA caracteriza disfunção orgânica, mas não é a ferramenta de triagem recomendada.",
+   "Correta: NEWS, NEWS2, MEWS ou SIRS em vez do qSOFA isolado (recomendação forte)."
+  ]
+ },
+ {
+  "q": "Mulher de 78 anos em choque séptico de foco urinário, com noradrenalina titulada pela enfermagem dentro da faixa prescrita, tem PAM de 63 mmHg, enchimento capilar de 3 segundos, diurese de 0,6 mL/kg/h e lactato em queda. A equipe revisa a meta pressórica. Qual alvo de PAM a SSC 2026 sugere para ela?",
+  "alts": [
+   "60 a 65 mmHg, por ter 65 anos ou mais",
+   "70 a 75 mmHg, pela idade e risco renal",
+   "Acima de 75 mmHg, para proteger o rim",
+   "80 a 85 mmHg, pela hipertensão prévia"
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Surviving Sepsis Campaign 2026 (Prescott et al., Intensive Care Med 2026)",
+  "coment": "A Surviving Sepsis Campaign 2026 recomenda PAM inicial de 65 mmHg no choque séptico (recomendação forte) e sugere faixa de 60 a 65 mmHg a partir dos 65 anos (recomendação fraca). Metas mais altas não melhoraram desfechos e expõem o paciente a mais vasopressor, arritmia e isquemia. Com PAM de 63 mmHg, perfusão melhorando (enchimento capilar de 3 segundos, diurese acima de 0,5 mL/kg/h, lactato em queda), a paciente está dentro do alvo sugerido, e subir a noradrenalina não traz benefício. A enfermagem titula pela faixa prescrita, avalia a perfusão junto com o número e confirma a confiabilidade da medida.",
+  "porAlt": [
+   "Correta: a SSC 2026 sugere PAM de 60 a 65 mmHg a partir dos 65 anos.",
+   "Metas de 70 a 75 mmHg exigem mais vasopressor sem benefício demonstrado.",
+   "PAM acima de 75 mmHg não protege o rim e aumenta a exposição ao vasopressor.",
+   "A SSC 2026 não indica 80 a 85 mmHg; metas altas aumentam a exposição ao vasopressor."
+  ]
+ },
+ {
+  "q": "Homem de 52 anos e 70 kg, com peritonite, chega à UTI com PA de 82/46 mmHg, tempo de enchimento capilar de 5 segundos e lactato de 4,2 mmol/L. A equipe inicia a ressuscitação e a enfermeira prepara os fluidos. Pela SSC 2026, qual volume e tipo de fluido correspondem à recomendação para as primeiras 3 horas?",
+  "alts": [
+   "1.000 mL de albumina a 20%, em bólus sucessivos de 250 mL",
+   "1.400 mL de soro fisiológico, calculados a 20 mL/kg de peso",
+   "Pelo menos 2.100 mL de cristaloide, de preferência balanceado",
+   "3.500 mL de soro glicosado a 5%, calculados a 50 mL/kg",
+   "Pelo menos 2.100 mL de salina 0,9%, preferida ao balanceado"
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Surviving Sepsis Campaign 2026 (Prescott et al., Intensive Care Med 2026)",
+  "coment": "Na sepse com hipoperfusão, a Surviving Sepsis Campaign 2026 sugere pelo menos 30 mL/kg de cristaloide nas primeiras 3 horas, preferindo a solução balanceada (como Ringer lactato) à salina 0,9%; as duas sugestões são de força fraca. Para 70 kg, são pelo menos 2.100 mL. Depois do volume inicial, a reposição passa a ser guiada por lactato seriado, tempo de enchimento capilar e medidas dinâmicas, e, após a estabilização, a diretriz sugere retirar o excesso de fluido. Albumina não é o fluido inicial, e soro glicosado não expande o intravascular. A enfermagem registra cada bólus no balanço hídrico e reavalia a perfusão.",
+  "porAlt": [
+   "Albumina a 20% não é o fluido de ressuscitação inicial recomendado pela SSC 2026.",
+   "20 mL/kg fica abaixo dos 30 mL/kg sugeridos, e a salina não é a preferida.",
+   "Correta: 30 mL/kg de 70 kg dão 2.100 mL, com preferência pelo cristaloide balanceado.",
+   "Soro glicosado não expande o intravascular e não é fluido de ressuscitação.",
+   "O volume está certo, mas a SSC 2026 prefere o balanceado à salina 0,9%."
+  ]
+ },
+ {
+  "q": "Paciente de 66 anos com choque séptico mantém PAM de 55 mmHg após o volume inicial. O cateter venoso central só poderá ser passado em 2 horas, e há um acesso periférico calibroso no antebraço proximal, com bom refluxo. Pela Surviving Sepsis Campaign 2026, qual a conduta em relação ao vasopressor?",
+  "alts": [
+   "Aguardar o cateter central, pois noradrenalina periférica é contraindicada",
+   "Iniciar dopamina periférica até a passagem do cateter venoso central",
+   "Repetir bólus de cristaloide a cada 30 minutos até o cateter central",
+   "Iniciar vasopressina periférica, que não causa lesão por extravasamento",
+   "Iniciar a noradrenalina na veia periférica, com vigilância frequente do sítio"
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Surviving Sepsis Campaign 2026 (Prescott et al., Intensive Care Med 2026)",
+  "coment": "A Surviving Sepsis Campaign 2026 mantém a noradrenalina como vasopressor de primeira linha (recomendação forte) e sugere iniciá-la por veia periférica em vez de esperar o acesso central (recomendação fraca, certeza muito baixa), porque o atraso do vasopressor prolonga a hipotensão. Com protocolo de segurança, as complicações somaram 5,97%. O protocolo inclui cateter calibroso em veia proximal, longe de articulação, refluxo confirmado, inspeção frequente do sítio e prazo definido para o acesso central. Dopamina não é a primeira escolha, e repetir volume indefinidamente favorece sobrecarga sem corrigir a vasoplegia.",
+  "porAlt": [
+   "A SSC 2026 sugere justamente iniciar por veia periférica em vez de esperar o acesso central.",
+   "Dopamina não é o vasopressor de primeira linha; a escolha é a noradrenalina.",
+   "Volume repetido sem critério leva à sobrecarga e não corrige a vasoplegia.",
+   "A vasopressina é associada à noradrenalina em escalada e também pode lesar tecido.",
+   "Correta: noradrenalina periférica com protocolo de segurança evita atrasar o vasopressor."
+  ]
+ },
+ {
+  "q": "Na UTI pediátrica, lactente de 10 meses com pneumonia lobar está em oxigênio, com taquicardia e enchimento capilar de 3 segundos. A equipe aplica os critérios de Phoenix, publicados em 2024, para definir se há sepse. Qual definição de sepse esses critérios adotam para a criança?",
+  "alts": [
+   "Infecção suspeita com dois ou mais critérios de SIRS pediátrica",
+   "Infecção suspeita ou confirmada com escore de Phoenix de 2 ou mais",
+   "Infecção confirmada em cultura com qualquer disfunção cardiovascular",
+   "Infecção suspeita com lactato acima de 4 mmol/L e febre persistente"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Critérios de Phoenix para sepse pediátrica (Schlapbach et al., JAMA 2024)",
+  "coment": "Em janeiro de 2024, a Society of Critical Care Medicine publicou os critérios de Phoenix, que substituíram, para a criança, os critérios de SIRS da conferência de 2005. Sepse passa a ser infecção suspeita ou confirmada com escore de Phoenix de 2 pontos ou mais, somando disfunções respiratória, cardiovascular, de coagulação e neurológica. Choque séptico é sepse com pelo menos 1 ponto cardiovascular: hipotensão grave para a idade, lactato elevado ou necessidade de droga vasoativa. A cultura positiva não é exigida, e SIRS mais infecção virou distrator de prova.",
+  "porAlt": [
+   "SIRS mais infecção era a definição de 2005, substituída pelos critérios de Phoenix.",
+   "Correta: sepse pediátrica é infecção suspeita ou confirmada com Phoenix de 2 pontos ou mais.",
+   "A infecção não precisa estar confirmada, e um ponto cardiovascular define choque, não sepse.",
+   "Lactato e febre não definem sepse em Phoenix, que soma disfunções de quatro sistemas."
+  ]
+ },
+ {
+  "q": "Criança de 3 anos e 14 kg em choque séptico na UTI pediátrica recebeu três bólus de 20 mL/kg de cristaloide na primeira hora, com reavaliação após cada um, sem estertores nem hepatomegalia. Persiste com enchimento capilar de 4 segundos e extremidades frias. Ainda não há acesso central. Qual é o próximo passo?",
+  "alts": [
+   "Iniciar dopamina, a droga de primeira escolha no choque pediátrico",
+   "Repetir bólus de 20 mL/kg até completar 100 mL/kg na primeira hora",
+   "Administrar albumina a 5% como fluido de resgate antes da droga",
+   "Iniciar adrenalina ou noradrenalina, inclusive por via periférica"
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "Surviving Sepsis Campaign pediátrica 2020 (choque séptico na criança)",
+  "coment": "Onde há terapia intensiva disponível, a Surviving Sepsis Campaign pediátrica de 2020 orienta até 40 a 60 mL/kg de cristaloide na primeira hora, em bólus de 10 a 20 mL/kg, reavaliando após cada um e parando ao primeiro sinal de sobrecarga. Se o choque persiste após 40 a 60 mL/kg, inicia-se droga vasoativa: adrenalina ou noradrenalina, preferidas à dopamina. Sem acesso central, a infusão pode começar por veia periférica ou intraóssea, sem esperar o cateter. Cristaloide balanceado é preferido, e albumina não é fluido inicial. A enfermagem prepara a droga em bomba, monitoriza perfusão e diurese e vigia o sítio periférico.",
+  "porAlt": [
+   "Dopamina como primeira escolha está superada desde 2020; preferem-se adrenalina ou noradrenalina.",
+   "O teto é de 40 a 60 mL/kg na primeira hora; insistir em volume leva à sobrecarga.",
+   "Albumina não é recomendada como fluido inicial nem substitui a droga vasoativa.",
+   "Correta: choque persistente após 60 mL/kg pede adrenalina ou noradrenalina, mesmo por via periférica."
+  ]
+ },
+ {
+  "q": "Na UTI pediátrica, menino de 4 anos com sepse de foco abdominal tem frequência cardíaca de 160 bpm, enchimento capilar de 4 segundos, sonolência e pressão sistólica de 74 mmHg. A enfermeira avalia a gravidade pelos limites de hipotensão do suporte avançado de vida pediátrico. Como o quadro deve ser classificado?",
+  "alts": [
+   "Choque compensado, pois a sistólica está acima de 70 mmHg",
+   "Criança estável, pois a sistólica normal exclui o choque",
+   "Choque descompensado, com sistólica abaixo de 78 mmHg",
+   "Insuficiência respiratória, pela taquicardia e sonolência"
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Diretrizes AHA 2025 de RCP e ACE, suporte avançado de vida pediátrico (PALS)",
+  "coment": "Pelos limites usados no PALS, hipotensão é sistólica abaixo de 60 mmHg no recém-nascido a termo, abaixo de 70 mmHg no lactente, abaixo de 70 + (2 × idade em anos) de 1 a 10 anos e abaixo de 90 mmHg acima de 10 anos. Aos 4 anos, o limite é 70 + 8 = 78 mmHg; com 74 mmHg, a criança está hipotensa. Taquicardia, enchimento capilar lento e sonolência (circulação e aparência alteradas) com hipotensão configuram choque descompensado. A pressão é o último sinal a cair na criança, que a sustenta com taquicardia e vasoconstrição, e por isso hipotensão já indica gravidade. A conduta inclui comunicação imediata e preparo para volume e droga vasoativa.",
+  "porAlt": [
+   "O limite de 70 mmHg é do lactente; aos 4 anos é 78 mmHg, e 74 mmHg já é hipotensão.",
+   "A sistólica de 74 mmHg está abaixo do limite para a idade, e há sinais de má perfusão.",
+   "Correta: aos 4 anos o limite é 78 mmHg; hipotensão com má perfusão é choque descompensado.",
+   "Não há descrição de trabalho respiratório aumentado; os achados são de circulação e aparência."
+  ]
+ },
+ {
+  "q": "Mulher de 57 anos, no segundo dia de choque séptico, com noradrenalina em dose baixa e estável, intubada, recebe dieta enteral gástrica a 30 mL/h. O residente suspende a dieta porque os ruídos hidroaéreos estão ausentes e o resíduo gástrico foi de 200 mL em 6 horas. Qual conduta é coerente com as diretrizes?",
+  "alts": [
+   "Suspender a dieta até o retorno dos ruídos hidroaéreos à ausculta",
+   "Trocar para nutrição parenteral, pois o intestino não responde",
+   "Manter o jejum até a retirada completa da noradrenalina em curso",
+   "Reduzir a dieta a 10 mL/h e suspender se o resíduo passar de 100 mL",
+   "Manter a dieta, pois ruídos ausentes e esse resíduo não justificam jejum"
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "ESPEN 2023, guideline on clinical nutrition in the ICU; Surviving Sepsis Campaign 2026",
+  "coment": "A ESPEN (2023) recomenda nutrição enteral precoce, em até 48 horas, preferida à parenteral, e adia a dieta só em situações como choque não controlado, hipoxemia ou acidose graves não controladas, sangramento digestivo alto ativo, isquemia intestinal e resíduo gástrico acima de 500 mL em 6 horas. Na sepse, a Surviving Sepsis Campaign 2026 sugere iniciar a enteral em até 72 horas. Ausência de ruídos hidroaéreos não justifica jejum, assim como prona e bloqueio neuromuscular. Choque controlado com noradrenalina em dose baixa e estável não impede a dieta. A enfermagem mantém cabeceira elevada, confere a posição da sonda e registra cada pausa.",
+  "porAlt": [
+   "A ESPEN não condiciona a dieta à presença de ruídos hidroaéreos.",
+   "Parenteral precoce não é preferida; o trato digestivo funcionante deve ser usado.",
+   "Choque controlado com dose baixa e estável de vasopressor não exige jejum.",
+   "O corte de resíduo para adiar a dieta na ESPEN é acima de 500 mL em 6 horas.",
+   "Correta: ruídos ausentes e resíduo de 200 mL não estão entre os motivos para suspender."
+  ]
+ },
+ {
+  "q": "Na UTI, paciente com cateter venoso central na jugular interna tem cobertura transparente semipermeável trocada há 4 dias. A cobertura está limpa, seca e aderida, e o sítio não mostra hiperemia nem secreção à inspeção e palpação. Segundo a ANVISA, qual é a conduta em relação à cobertura?",
+  "alts": [
+   "Trocar hoje, pois a transparente deve ser trocada a cada 72 horas",
+   "Trocar por gaze e fita, de troca diária, para inspecionar o sítio",
+   "Manter e trocar no 7º dia, ou antes se ficar suja, solta ou úmida",
+   "Trocar a cobertura e o cateter, que completam 4 dias de uso",
+   "Manter até a retirada do cateter enquanto continuar limpa e aderida"
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Prevenção de pneumonia e infecção de cateter",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2ª ed., 2017",
+  "coment": "Pelo caderno da ANVISA (2017), a cobertura do cateter venoso central com gaze e fita adesiva estéril é trocada a cada 48 horas, e a cobertura transparente semipermeável, a cada 7 dias; qualquer uma é trocada imediatamente se estiver suja, solta ou úmida. O sítio é avaliado no mínimo uma vez ao dia, por inspeção e palpação sobre o curativo. Trocas antes do prazo sem motivo aumentam a manipulação e o risco de contaminação. O cateter central não é trocado por tempo de permanência: é removido quando deixa de ser necessário, o que a equipe revisa todos os dias.",
+  "porAlt": [
+   "O prazo da transparente é de 7 dias, e não de 72 horas, se ela estiver íntegra.",
+   "A gaze com fita é trocada a cada 48 horas, e trocar sem motivo aumenta a manipulação.",
+   "Correta: transparente íntegra se troca a cada 7 dias, ou antes se suja, solta ou úmida.",
+   "O cateter central não é trocado por tempo de permanência, só quando deixa de ser necessário.",
+   "A transparente tem prazo máximo de 7 dias, mesmo íntegra; não se mantém até a retirada."
+  ]
+ },
+ {
+  "q": "Antes de administrar um antibiótico intermitente por cateter venoso central, a técnica de enfermagem pergunta à enfermeira como preparar o conector sem agulha da via. O paciente está no quinto dia de cateter, sem sinais de infecção. Segundo a ANVISA (2017), qual é a orientação correta?",
+  "alts": [
+   "Friccionar o conector com álcool por 5 a 15 segundos antes de cada acesso",
+   "Passar algodão com álcool no conector uma vez a cada turno de trabalho",
+   "Trocar o conector antes de cada administração intermitente de medicamento",
+   "Lavar o conector com água estéril e conectar sem outra desinfecção",
+   "Aplicar PVPI tópico no conector e esperar secar por 2 minutos antes"
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Prevenção de pneumonia e infecção de cateter",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2ª ed., 2017",
+  "coment": "O caderno da ANVISA (2017) recomenda desinfetar conexões, conectores sem agulha e portas de acesso com álcool, por fricção de 5 a 15 segundos, antes de cada acesso ao sistema. A fricção é mecânica: remove o biofilme da superfície, e por isso o simples contato do algodão não basta. A desinfecção por turno deixa os acessos intermediários sem preparo, e trocar o conector a cada dose aumenta a manipulação. O flush e o lock usam cloreto de sódio 0,9% sem conservante, nunca água estéril, e não se força a injeção contra resistência. Essas medidas de manutenção são quase todas de execução da enfermagem.",
+  "porAlt": [
+   "Correta: fricção com álcool por 5 a 15 segundos antes de cada acesso ao conector.",
+   "A desinfecção é exigida a cada acesso, não uma vez por turno.",
+   "Trocar o conector a cada dose aumenta a manipulação sem benefício.",
+   "Água estéril não é usada no cateter, e lavar não substitui a desinfecção com fricção.",
+   "O caderno indica fricção com álcool, e não PVPI tópico, para a desinfecção dos conectores."
+  ]
+ },
+ {
+  "q": "Homem de 50 anos teve cateter venoso central femoral inserido na sala de emergência, durante reanimação, sem barreira máxima de precaução. Chega à UTI estável, com noradrenalina em dose baixa, e o cateter funciona bem. Pela ANVISA (2017), qual conduta a enfermeira deve propor à equipe quanto a esse cateter?",
+  "alts": [
+   "Manter o cateter até completar 7 dias, prazo de troca programada",
+   "Trocar o cateter de sítio assim que possível, em até 48 horas",
+   "Trocar o cateter no mesmo sítio femoral por fio-guia em 24 horas",
+   "Manter o cateter, porque a inserção na emergência dispensa troca"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Prevenção de pneumonia e infecção de cateter",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2ª ed., 2017",
+  "coment": "O caderno da ANVISA (2017) orienta que o cateter inserido em situação de emergência ou sem garantia de barreira máxima seja trocado, em outro sítio, assim que possível, em até 48 horas. Além disso, a veia femoral não deve ser puncionada de rotina, pelo maior risco de infecção. Fora dessas situações, o cateter central não tem troca programada por tempo: é removido quando deixa de ser necessário. A troca por fio-guia mantém o mesmo trajeto e não resolve o problema de uma inserção sem técnica asséptica completa. A enfermeira, que participa do checklist de inserção, leva a pendência à equipe e registra.",
+  "porAlt": [
+   "Cateter central não tem troca programada por tempo, e este exige troca precoce por outro motivo.",
+   "Correta: inserção sem barreira máxima pede troca de sítio assim que possível, em até 48 horas.",
+   "O fio-guia mantém o trajeto da inserção sem técnica asséptica completa e o sítio femoral.",
+   "A inserção na emergência é justamente o motivo para trocar o cateter, e não para mantê-lo."
+  ]
+ },
+ {
+  "q": "A enfermeira organiza as trocas de equipos dos pacientes da UTI conforme o caderno da ANVISA de 2017. Um paciente recebe soro em infusão contínua, antibiótico intermitente, nutrição parenteral e emulsão lipídica isolada. Qual conjunto de prazos está correto para esses equipos?",
+  "alts": [
+   "Contínua a cada 24 h; intermitente a cada 96 h; parenteral a cada 72 h",
+   "Contínua a cada 72 h; intermitente a cada 12 h; lipídio a cada 24 h",
+   "Todos os equipos a cada 96 h, inclusive os de parenteral e de lipídio",
+   "Contínua até 96 h; intermitente a cada 24 h; parenteral a cada bolsa",
+   "Contínua a cada 48 h; intermitente a cada 24 h; lipídio a cada 72 h"
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Prevenção de pneumonia e infecção de cateter",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, Caderno 4, 2ª ed., 2017",
+  "coment": "Pelo caderno da ANVISA (2017), o equipo de infusão contínua não deve ser trocado antes de 96 horas (evidência I); o de infusão intermitente, a cada 24 horas; o de nutrição parenteral e o de hemocomponente, a cada bolsa; o de emulsão lipídica isolada, a cada 12 horas; o do propofol, junto com o frasco, a cada 6 a 12 horas; e os de monitorização hemodinâmica e pressão invasiva, a cada 96 horas. Soluções com lipídio favorecem crescimento bacteriano, o que explica os prazos curtos. A enfermeira identifica cada equipo com data e hora de instalação para cumprir os prazos.",
+  "porAlt": [
+   "Os prazos estão invertidos: a contínua vai até 96 h e a intermitente é trocada a cada 24 h.",
+   "A intermitente é trocada a cada 24 h e o lipídio a cada 12 h, não a cada 24 h.",
+   "Parenteral e lipídio têm prazos curtos (a cada bolsa e 12 h), não 96 h.",
+   "Correta: contínua até 96 h, intermitente a cada 24 h e parenteral a cada bolsa.",
+   "A contínua não é trocada antes de 96 h, e o lipídio isolado vence em 12 h."
+  ]
  }
 ]

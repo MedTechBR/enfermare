@@ -5,7 +5,7 @@
    "No hospital filantrópico e no ambulatório de ensino da universidade.",
    "Nos quatro serviços, pois a norma alcança todo estabelecimento de saúde.",
    "No hospital e no laboratório clínico, excluídos o domiciliar e o ensino.",
-   "Somente no hospital, pois serviços de ensino estão fora do escopo.",
+   "No hospital, pois serviços de ensino ficam fora do escopo da norma.",
    "No hospital, no ambulatório e na atenção domiciliar, sem o laboratório."
   ],
   "gab": 0,
@@ -150,7 +150,7 @@
   ]
  },
  {
-  "q": "Às 23 horas, o médico plantonista telefona para a enfermaria e pede à enfermeira que aumente de 2 mg para 4 mg a dose de morfina intravenosa de um paciente oncológico com dor moderada, estável e sem sinais de gravidade. Ele diz que fará a prescrição no sistema pela manhã. Segundo o protocolo de segurança na prescrição, uso e administração de medicamentos, qual é a conduta adequada?",
+  "q": "Às 23 horas, o médico plantonista telefona para a enfermaria e pede à enfermeira que aumente de 2 mg para 4 mg a dose de morfina intravenosa de um paciente oncológico de 63 anos com dor moderada, estável e sem sinais de gravidade. Ele diz que fará a prescrição no sistema pela manhã. Segundo o protocolo de segurança na prescrição, uso e administração de medicamentos, qual é a conduta adequada?",
   "alts": [
    "Aceitar a ordem, registrar o nome do médico e administrar a nova dose.",
    "Aceitar após dupla checagem da dose com outro profissional da equipe.",
@@ -225,7 +225,7 @@
   ]
  },
  {
-  "q": "Na enfermaria de clínica médica, um técnico de enfermagem administra omeprazol 40 mg intravenoso ao paciente do leito 7, prescrito para o paciente do leito 8. O erro é percebido minutos depois; o paciente é avaliado pelo médico e não apresenta repercussão clínica nas horas seguintes. Como se classifica o incidente e qual é o encaminhamento da notificação?",
+  "q": "Na enfermaria de clínica médica, um técnico de enfermagem administra omeprazol 40 mg intravenoso ao paciente de 68 anos do leito 7, prescrito para o paciente do leito 8. O erro é percebido minutos depois; o paciente é avaliado pelo médico e não apresenta repercussão clínica nas horas seguintes. Como se classifica o incidente e qual é o encaminhamento da notificação?",
   "alts": [
    "Near miss, com notificação interna ao NSP para análise do processo.",
    "Incidente sem lesão, com notificação interna ao NSP para análise.",
@@ -250,7 +250,7 @@
   ]
  },
  {
-  "q": "No Núcleo de Segurança do Paciente, a enfermeira analisa um evento adverso: um técnico administrou heparina no lugar de insulina; os frascos têm rótulos semelhantes e eram guardados lado a lado na mesma gaveta, sem destaque visual, por decisão da farmácia. A direção sugere demitir o técnico. Segundo o modelo de James Reason, adotado pelo Documento de Referência do PNSP, qual análise é correta?",
+  "q": "No Núcleo de Segurança do Paciente, a enfermeira analisa um evento adverso: um técnico administrou heparina no lugar de insulina a um paciente de 70 anos; os frascos têm rótulos semelhantes e eram guardados lado a lado na mesma gaveta, sem destaque visual, por decisão da farmácia. A direção sugere demitir o técnico. Segundo o modelo de James Reason, adotado pelo Documento de Referência do PNSP, qual análise é correta?",
   "alts": [
    "A guarda lado a lado é erro latente; a troca na administração, erro ativo.",
    "A troca na administração é erro latente; a guarda lado a lado, erro ativo.",
@@ -300,7 +300,7 @@
   ]
  },
  {
-  "q": "Em um box de UTI, a enfermeira silencia o alarme da bomba de infusão, ajusta a vazão do soro e levanta a grade da cama, sem tocar no paciente. Em seguida, vai ao posto de enfermagem registrar a alteração. Segundo os cinco momentos para a higiene das mãos, qual indicação se aplica ao sair do box?",
+  "q": "No box de um paciente de 70 anos na UTI, a enfermeira silencia o alarme da bomba de infusão, ajusta a vazão do soro e levanta a grade da cama, sem tocar no paciente. Em seguida, vai ao posto de enfermagem registrar a alteração. Segundo os cinco momentos para a higiene das mãos, qual indicação se aplica ao sair do box?",
   "alts": [
    "Após tocar superfícies próximas ao paciente, mesmo sem tocá-lo.",
    "Após risco de exposição a fluidos corporais ou a excreções.",
@@ -379,7 +379,7 @@
   "alts": [
    "Gel com 60% de álcool, disponível no posto de enfermagem de cada unidade.",
    "Álcool saneante a 70%, em frasco único no posto de enfermagem da unidade.",
-   "Gel com no mínimo 70%, disponível somente na porta de cada enfermaria.",
+   "Gel com no mínimo 70%, disponível na porta de entrada de cada enfermaria.",
    "Gel com no mínimo 70%, à beira do leito, nos pontos de assistência.",
    "Álcool líquido a 90%, à beira do leito, por ter ação antisséptica maior."
   ],
@@ -389,7 +389,7 @@
   "cenario": "ger",
   "comp": "norma",
   "nivel": "r2",
-  "base": "RDC ANVISA 42/2010, arts. 4º e 5º",
+  "base": "RDC ANVISA 42/2010, art. 4º; Protocolo de Higiene das Mãos (MS/ANVISA/Fiocruz, 2013)",
   "coment": "A RDC 42/2010 torna obrigatória a disponibilização de preparação alcoólica para fricção antisséptica das mãos nos pontos de assistência e tratamento de todos os serviços de saúde, à beira do leito e em local visível, com localização definida junto ao controle de infecção; permite frascos individuais de bolso. A preparação deve ter concentração final entre 60% e 80% na forma líquida e mínima de 70% nas formas gel, espuma e outras (art. 4º). A norma proíbe usar álcool saneante, produto para superfícies, na higiene das mãos. A CCIH monitora o consumo de preparação alcoólica por 1.000 pacientes-dia.",
   "porAlt": [
    "Errada: o gel exige concentração mínima de 70%, e o produto deve estar no ponto de assistência.",
@@ -477,7 +477,7 @@
  {
   "q": "Paciente de 71 anos, internado na clínica médica, tem cultura de vigilância positiva para Klebsiella pneumoniae produtora de carbapenemase e está em quarto individual. Um técnico entra apenas para trocar o frasco de soro e conferir a bomba de infusão, sem previsão de tocar o paciente. Segundo a precaução de contato, como ele deve proceder com o EPI?",
   "alts": [
-   "Calçar luvas somente se houver contato com sangue ou secreções.",
+   "Calçar luvas no caso de contato previsto com sangue ou secreções.",
    "Vestir avental e luvas ao entrar, mesmo sem previsão de tocar o paciente.",
    "Vestir avental e luvas, retirando-os no corredor após sair do quarto.",
    "Vestir avental, luvas e máscara cirúrgica, obrigatórios na multirresistência.",
@@ -497,6 +497,381 @@
    "Errada: o EPI é descartado antes de sair do quarto, e não levado ao corredor.",
    "Errada: a máscara cirúrgica não é exigida pela precaução de contato, só por risco de respingo.",
    "Errada: o avental é descartado antes de sair, a cada entrada, e não reutilizado no plantão."
+  ]
+ },
+ {
+  "q": "Paciente de 45 anos, em ventilação mecânica na UTI por pneumonia grave, tem tomografia com cavitação em lobo superior direito, e o médico solicita teste rápido molecular para tuberculose no aspirado traqueal. O resultado sairá em 24 horas. Qual conduta a enfermeira deve instituir enquanto aguarda?",
+  "alts": [
+   "Aguardar o teste rápido molecular para então definir a precaução.",
+   "Instituir gotículas, pois o circuito do ventilador mecânico é fechado.",
+   "Instituir aerossóis só após avaliação e liberação formal da CCIH.",
+   "Manter a precaução padrão, já que o paciente intubado não tosse.",
+   "Instituir aerossóis na suspeita e usar sistema fechado de aspiração."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "CDC/HICPAC. Guideline for Isolation Precautions, 2007; ANVISA, Caderno 4, 2ª ed., 2017",
+  "coment": "Tuberculose pulmonar exige precaução por aerossóis: quarto com pressão negativa ou, na falta, privativo de porta fechada, e respirador N95 ou PFF2 colocado antes de entrar. As precauções por transmissão começam na suspeita clínica, e instituí-las é decisão da enfermagem, comunicada à equipe e à CCIH e registrada na prescrição de enfermagem, com sinalização da porta e EPI na entrada. No paciente ventilado, o Caderno 4 da ANVISA aponta que o sistema fechado de aspiração reduz a exposição do profissional na tuberculose e nos multirresistentes. A intubação não elimina o risco, porque a aspiração e as desconexões do circuito expõem a equipe.",
+  "porAlt": [
+   "Errada: a precaução começa na suspeita clínica, sem aguardar a confirmação laboratorial.",
+   "Errada: tuberculose é transmitida por aerossóis, e o circuito não impede a exposição na aspiração.",
+   "Errada: a enfermagem institui a precaução na suspeita e comunica a CCIH, sem esperar liberação.",
+   "Errada: aspiração e desconexões expõem a equipe, e a suspeita de tuberculose exige aerossóis.",
+   "Correta: aerossóis desde a suspeita, com sistema fechado de aspiração para reduzir a exposição."
+  ]
+ },
+ {
+  "q": "A enfermeira de uma UTI adulto revisa o pacote de prevenção de pneumonia associada à ventilação mecânica com base no Caderno 4 da ANVISA, edição de 2017. Ela quer afixar no box apenas as quatro medidas do pacote do IHI citadas no documento. Qual conjunto corresponde a essas medidas?",
+  "alts": [
+   "Cabeceira a 30° a 45°, sedação ajustada diariamente, aspiração subglótica e higiene oral.",
+   "Cabeceira a 30° a 45°, profilaxia de úlcera de estresse e de trombose e higiene oral.",
+   "Cabeceira a 30° a 45°, traqueostomia precoce, troca semanal do circuito e higiene oral.",
+   "Sedação ajustada diariamente, descontaminação digestiva seletiva, cabeceira e higiene oral.",
+   "Aspiração subglótica, antibiótico profilático, cabeceira elevada e sedação ajustada."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "ANVISA. Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2ª ed., 2017",
+  "coment": "O Caderno 4 da ANVISA (2ª edição, 2017) transcreve as quatro medidas do pacote do IHI para pneumonia associada à ventilação: cabeceira elevada entre 30° e 45°; adequação diária do nível de sedação com teste de respiração espontânea; aspiração da secreção subglótica para quem ficará ventilado por mais de 48 a 72 horas; e higiene oral com antisséptico. O documento soma medidas como pressão adequada do balonete e circuito trocado só se sujo ou com defeito, e lista o que não previne PAV: profilaxia de úlcera de estresse e de trombose, descontaminação digestiva seletiva, traqueostomia precoce e antibiótico profilático. A versão preliminar de 2024 ainda não foi finalizada.",
+  "porAlt": [
+   "Correta: são as quatro medidas do pacote do IHI transcritas pelo Caderno 4 de 2017.",
+   "Errada: profilaxia de úlcera de estresse e de trombose não previne PAV pelo Caderno 4.",
+   "Errada: traqueostomia precoce não previne PAV, e o circuito só se troca se sujo ou com defeito.",
+   "Errada: a descontaminação digestiva seletiva não integra o pacote nem previne PAV.",
+   "Errada: antibiótico profilático não é medida de prevenção de PAV, e falta a higiene oral."
+  ]
+ },
+ {
+  "q": "Na UTI, uma paciente de 62 anos tem cateter venoso central em jugular interna direita, com cobertura transparente semipermeável colocada há 5 dias, íntegra, seca e bem aderida. O técnico pergunta se deve trocá-la no banho de hoje. Segundo o Caderno 4 da ANVISA, qual é a periodicidade de troca dessa cobertura?",
+  "alts": [
+   "A cada 48 horas, igual à cobertura com gaze e fita estéril.",
+   "A cada 72 horas, junto com a troca do equipo de infusão.",
+   "A cada 7 dias, ou antes se estiver suja, solta ou úmida.",
+   "A cada 96 horas, no mesmo intervalo do cateter periférico.",
+   "Só na retirada do cateter, enquanto estiver íntegra e seca."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "ANVISA. Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2ª ed., 2017",
+  "coment": "Pelo Caderno 4 da ANVISA (2017), a cobertura do cateter central de curta permanência com gaze e fita é trocada a cada 48 horas, e a cobertura transparente semipermeável, a cada 7 dias; qualquer uma delas deve ser trocada imediatamente se estiver suja, solta ou úmida (evidência II). Com 5 dias de uso e cobertura íntegra, não há indicação de troca no banho; basta protegê-la da água. O pacote de manutenção inclui ainda desinfetar os conectores com solução alcoólica, por 5 a 15 segundos, antes de cada acesso, e remover o cateter assim que deixar de ser necessário, sem trocas pré-programadas.",
+  "porAlt": [
+   "Errada: 48 horas é o prazo da cobertura de gaze; a transparente dura até 7 dias.",
+   "Errada: o prazo de 72 horas não se aplica à cobertura transparente do cateter central.",
+   "Correta: cobertura transparente a cada 7 dias, antes disso se suja, solta ou úmida.",
+   "Errada: 96 horas é referência para troca do cateter periférico, não da cobertura central.",
+   "Errada: a cobertura transparente tem limite de 7 dias, mesmo íntegra e seca."
+  ]
+ },
+ {
+  "q": "Homem de 50 anos, recuperado de parada cardiorrespiratória na sala de emergência, recebeu cateter venoso central femoral inserido sem barreira máxima estéril durante a reanimação. Trinta horas depois, está na UTI, com pressão estável em noradrenalina em dose baixa. Segundo o Caderno 4 da ANVISA, qual conduta a enfermeira deve propor à equipe?",
+  "alts": [
+   "Manter o cateter, porque a troca pré-programada não é recomendada.",
+   "Manter o cateter até o 7º dia, quando vence a cobertura transparente.",
+   "Trocar o cateter quando surgir febre ou hiperemia no óstio.",
+   "Trocar de sítio assim que possível, sem ultrapassar 48 horas.",
+   "Manter o cateter por até 96 horas, como no acesso periférico."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "ANVISA. Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2ª ed., 2017",
+  "coment": "O Caderno 4 da ANVISA (2017) recomenda não trocar o cateter central de forma pré-programada e removê-lo quando desnecessário. A exceção é o cateter inserido em situação de emergência ou sem barreira máxima estéril, que deve ser trocado de sítio assim que possível, sem passar de 48 horas, porque a inserção sem gorro, máscara, avental estéril, luvas estéreis e campo amplo aumenta o risco de colonização extraluminal. A punção femoral também não é recomendada de rotina (evidência I). Como o paciente ainda precisa de acesso central para a noradrenalina, a conduta é programar novo cateter em outro sítio, com checklist e barreira máxima, dentro do prazo.",
+  "porAlt": [
+   "Errada: a regra contra troca pré-programada não vale para cateter inserido sem barreira máxima.",
+   "Errada: 7 dias é o prazo da cobertura transparente, não do cateter inserido na emergência.",
+   "Errada: esperar sinais de infecção ignora o limite de 48 horas para esse tipo de inserção.",
+   "Correta: inserção na emergência ou sem barreira máxima exige troca de sítio em até 48 horas.",
+   "Errada: 96 horas é referência do cateter periférico, sem relação com o central da emergência."
+  ]
+ },
+ {
+  "q": "Paciente de 80 anos, com cateter vesical de demora há 6 dias por retenção urinária, apresenta febre e urina turva, e o médico solicita urocultura. O técnico de enfermagem pretende colher a amostra da bolsa coletora. Segundo o Caderno 4 da ANVISA, como a amostra deve ser obtida?",
+  "alts": [
+   "Colher da bolsa coletora, desprezando antes a urina acumulada.",
+   "Desconectar a sonda do tubo coletor e colher o jato direto.",
+   "Abrir a válvula de drenagem da bolsa e colher em frasco estéril.",
+   "Puncionar o dispositivo próprio com agulha estéril, após desinfecção.",
+   "Clampear a sonda por 4 horas e colher da bolsa recém-esvaziada."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ANVISA. Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2ª ed., 2017",
+  "coment": "O Caderno 4 da ANVISA (2017) determina que a urina para exame seja colhida por punção, com agulha estéril, no dispositivo próprio do sistema, após desinfecção (A-III). A bolsa coletora não serve como fonte, porque a urina parada ali não representa a urina da bexiga. O sistema de drenagem é fechado e estéril e não deve ser desconectado (A-I); se houver desconexão, quebra de técnica ou vazamento, todo o sistema é trocado (B-III). A bolsa permanece sempre abaixo do nível da bexiga (A-III), e a higiene do meato é feita sem antisséptico ou antibiótico local.",
+  "porAlt": [
+   "Errada: a urina da bolsa coletora não representa a urina vesical e não serve para cultura.",
+   "Errada: desconectar quebra o sistema fechado (A-I) e obriga a trocar todo o sistema.",
+   "Errada: a válvula de drenagem da bolsa também fornece urina parada, imprópria para cultura.",
+   "Correta: punção do dispositivo próprio com agulha estéril, após desinfecção (A-III).",
+   "Errada: mesmo após clampeamento, a amostra viria da bolsa, fonte imprópria para cultura."
+  ]
+ },
+ {
+  "q": "Mulher de 47 anos será submetida a histerectomia abdominal eletiva às 8 horas. Na véspera, o técnico da enfermaria pergunta se deve fazer a tricotomia abdominal à noite, com lâmina, para adiantar o preparo. Segundo as medidas de prevenção de infecção de sítio cirúrgico do Caderno 4 da ANVISA, qual orientação está correta?",
+  "alts": [
+   "Lâmina descartável na noite anterior, para poupar tempo na sala.",
+   "Tricotomizador elétrico na noite anterior, ainda na enfermaria.",
+   "Lâmina descartável imediatamente antes, dentro da sala operatória.",
+   "Tricotomia ampla de rotina em toda cirurgia abdominal eletiva.",
+   "Só se necessária, com tricotomizador, logo antes e fora da sala."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "ANVISA. Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2ª ed., 2017",
+  "coment": "Entre as medidas de prevenção de infecção do sítio cirúrgico do Caderno 4 da ANVISA (2017), a tricotomia só é feita quando necessária, sem lâmina, com tricotomizador elétrico, imediatamente antes da cirurgia e fora da sala operatória. A lâmina e a antecedência favorecem microlesões e colonização da pele. O mesmo conjunto inclui antibioticoprofilaxia até 60 minutos antes da incisão, suspensa em 24 horas; glicemia abaixo de 180 mg/dL; normotermia, com temperatura de 35,5 °C ou mais; preparo da pele com produto alcoólico; lista de verificação da OMS; e vigilância por busca ativa.",
+  "porAlt": [
+   "Errada: lâmina é contraindicada, e a tricotomia é feita imediatamente antes, não na véspera.",
+   "Errada: o aparelho é o certo, mas a tricotomia é feita imediatamente antes da cirurgia.",
+   "Errada: lâmina é contraindicada, e a tricotomia é feita fora da sala operatória.",
+   "Errada: a tricotomia não é rotina; só se faz quando os pelos interferem no procedimento.",
+   "Correta: só se necessária, com tricotomizador, imediatamente antes e fora da sala operatória."
+  ]
+ },
+ {
+  "q": "Uma enfermeira do serviço de saúde ocupacional de um hospital recebe técnicos de enfermagem recém-admitidos e organiza o programa de vacinação exigido pela NR 32. Um deles pergunta quais vacinas o empregador é obrigado a fornecer e se precisará pagar por elas. Qual resposta está de acordo com a norma?",
+  "alts": [
+   "Hepatite B, influenza e tríplice viral, com custo dividido com o empregado.",
+   "Tétano e hepatite B, gratuitas, dispensado o registro em caso de recusa.",
+   "Hepatite B e difteria, gratuitas, com eficácia a critério do trabalhador.",
+   "Tétano, difteria e hepatite A, além das do PCMSO, de forma gratuita.",
+   "Tétano, difteria e hepatite B, além das do PCMSO, de forma gratuita."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "NR 32 (Portaria MTE 485/2005), item 32.2.4.17",
+  "coment": "A NR 32, item 32.2.4.17, determina que todo trabalhador dos serviços de saúde receba gratuitamente as vacinas contra tétano, difteria e hepatite B e as estabelecidas no PCMSO. O empregador deve fazer o controle da eficácia da vacinação e providenciar reforço quando recomendado pelo Ministério da Saúde; se o trabalhador recusar a vacina, a recusa deve ser documentada. A vacinação é registrada no prontuário clínico individual do trabalhador, e ele recebe o comprovante. Outras vacinas, como influenza, entram quando previstas no PCMSO, mas não estão nominadas no item.",
+  "porAlt": [
+   "Errada: a vacinação é gratuita, e influenza e tríplice viral não estão nominadas no item.",
+   "Errada: falta a difteria, e a recusa deve ser documentada pelo empregador.",
+   "Errada: falta o tétano, e o controle de eficácia cabe ao empregador, não ao trabalhador.",
+   "Errada: a norma nomeia hepatite B, não hepatite A, ao lado de tétano e difteria.",
+   "Correta: a NR 32 nomeia tétano, difteria e hepatite B, além das do PCMSO, todas gratuitas."
+  ]
+ },
+ {
+  "q": "Na enfermaria de obstetrícia, a enfermeira treina a equipe para o descarte, segundo a RDC 222/2018, de três itens: placenta sem requisição da família e sem valor científico ou legal; equipo de soro sem sangue, usado em hidratação venosa; e ampola de vidro vazia de ocitocina. A quais grupos esses resíduos pertencem, respectivamente?",
+  "alts": [
+   "A4, D e E.",
+   "A3, A4 e B.",
+   "A1, D e B.",
+   "A3, D e E.",
+   "A1, A4 e E."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 222/2018, Anexo I",
+  "coment": "Pelo Anexo I da RDC 222/2018, placenta e peças anatômicas sem requisição e sem valor científico ou legal são do grupo A4, que reúne também kits de linhas arteriais e venosas e bolsas transfusionais vazias. O grupo A3 abrange membros humanos e produto de fecundação sem sinais vitais dentro dos limites de peso, estatura ou idade gestacional da norma. Equipo de soro sem sangue é resíduo comum, grupo D, como luvas de procedimento sem contato com fluidos. Ampolas de vidro, agulhas, escalpes e lâminas são perfurocortantes, grupo E, descartados em recipiente rígido, resistente a punctura, ruptura e vazamento. O grupo B reúne os químicos, como produtos farmacêuticos e saneantes.",
+  "porAlt": [
+   "Correta: placenta é A4, equipo sem sangue é D e ampola de vidro é perfurocortante, grupo E.",
+   "Errada: placenta não é A3, equipo sem sangue não é A4 e ampola de vidro é grupo E.",
+   "Errada: placenta não é A1, grupo de culturas e sangue livre, e ampola de vidro é grupo E.",
+   "Errada: placenta é A4; o A3 abrange membros e produto de fecundação dentro dos limites.",
+   "Errada: placenta não é A1, e equipo de soro sem sangue é resíduo comum, grupo D."
+  ]
+ },
+ {
+  "q": "Na UTI, a enfermeira revisa a rotina de recolhimento dos sacos de resíduos do grupo A, que não contêm resíduos de fácil putrefação. O auxiliar de higiene costuma trocá-los apenas quando estão completamente cheios, o que leva até quatro dias. Segundo a RDC 222/2018, quando esses sacos devem ser substituídos?",
+  "alts": [
+   "Ao atingir 3/4 da capacidade ou a cada 72 horas.",
+   "Ao atingir 2/3 da capacidade ou a cada 48 horas.",
+   "Ao atingir 5 cm da borda ou a cada 24 horas.",
+   "Ao atingir 2/3 da capacidade ou a cada 72 horas.",
+   "Ao atingir a capacidade total ou a cada plantão."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 222/2018, art. 14",
+  "coment": "A RDC 222/2018, art. 14, determina que os sacos que acondicionam resíduos do grupo A sejam substituídos ao atingir o limite de 2/3 da capacidade ou a cada 48 horas, independentemente do volume; se o resíduo for de fácil putrefação, a troca ocorre a cada 24 horas. Os sacos ficam em coletores com tampa de abertura sem contato manual; o saco é vermelho quando o resíduo exige tratamento e branco leitoso quando não exige ou já foi tratado. Os 3/4 da capacidade pertencem ao recipiente de perfurocortantes da mesma resolução, e os 5 cm do bocal, ao limite de enchimento do coletor pela NR 32.",
+  "porAlt": [
+   "Errada: 3/4 é o limite do recipiente de perfurocortantes, e o prazo do saco é de 48 horas.",
+   "Correta: o art. 14 fixa 2/3 da capacidade ou 48 horas, independentemente do volume.",
+   "Errada: 5 cm é o limite do coletor de perfurocortantes na NR 32; 24 horas vale para putrefação.",
+   "Errada: a fração está certa, mas o prazo máximo é de 48 horas, não de 72 horas.",
+   "Errada: esperar encher ultrapassa o limite de 2/3 da capacidade fixado pela resolução."
+  ]
+ },
+ {
+  "q": "Durante o esvaziamento de uma bolsa coletora, uma técnica de enfermagem de 41 anos tem respingo de urina límpida, sem sangue visível, nos olhos. O paciente-fonte vive com HIV e tem carga viral desconhecida. Ela procura a enfermeira do plantão 30 minutos depois. Segundo o PCDT de PEP de 2024, qual é a conduta correta?",
+  "alts": [
+   "Lavar com água e sabão e iniciar PEP, por ser exposição de mucosa.",
+   "Lavar com hipoclorito diluído e iniciar PEP nas primeiras 2 horas.",
+   "Lavar com soro e iniciar PEP, pois a fonte tem carga viral desconhecida.",
+   "Não lavar e colher as sorologias da fonte antes de qualquer conduta.",
+   "Lavar com água ou soro e não indicar PEP, pois o material não tem risco."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "PCDT para Profilaxia Pós-Exposição de Risco (PEP) à Infecção pelo HIV, IST e Hepatites Virais (MS, 2024; Portaria SECTICS/MS 14/2024)",
+  "coment": "O PCDT de PEP (2024) avalia o risco em quatro perguntas: o material é de risco, a exposição é de risco, passaram menos de 72 horas e a pessoa exposta é não reagente para HIV. Urina, fezes, suor, lágrima, vômito, saliva e secreção nasal sem sangue não oferecem risco de transmissão do HIV; sangue, sêmen, fluidos vaginais, líquidos de serosas, líquido amniótico e líquor oferecem. Como a primeira resposta é não, a PEP não está indicada, mesmo com fonte vivendo com HIV e exposição de mucosa. A mucosa é lavada exaustivamente só com água ou soro fisiológico; soluções irritantes, como éter, hipoclorito e glutaraldeído, são contraindicadas.",
+  "porAlt": [
+   "Errada: mucosa se lava só com água ou soro, e urina sem sangue não indica PEP.",
+   "Errada: hipoclorito é contraindicado, e a PEP não se indica para urina sem sangue.",
+   "Errada: o status da fonte não muda a conduta quando o material não tem risco.",
+   "Errada: o cuidado local é imediato e vem antes de qualquer avaliação sorológica.",
+   "Correta: urina sem sangue não é material de risco para HIV; a mucosa é lavada com água ou soro."
+  ]
+ },
+ {
+  "q": "Enfermeiro de 29 anos sofre lesão percutânea com agulha oca, com sangue visível, ao puncionar o acesso venoso de um paciente que vive com HIV. Seis horas depois, seu teste rápido para HIV é não reagente, e ele procura o serviço de referência. Segundo o PCDT de PEP de 2024, qual esquema de profilaxia está indicado?",
+  "alts": [
+   "Tenofovir/lamivudina e dolutegravir, uma vez ao dia, por 14 dias.",
+   "Zidovudina/lamivudina e lopinavir/ritonavir, durante 28 dias.",
+   "Tenofovir/lamivudina e dolutegravir, uma vez ao dia, durante 28 dias.",
+   "Tenofovir/lamivudina e efavirenz, uma vez ao dia, por 30 dias.",
+   "Tenofovir/lamivudina e dolutegravir, iniciados em até 7 dias."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "PCDT para Profilaxia Pós-Exposição de Risco (PEP) à Infecção pelo HIV, IST e Hepatites Virais (MS, 2024; Portaria SECTICS/MS 14/2024)",
+  "coment": "As quatro perguntas do PCDT de PEP (2024) têm resposta sim: sangue é material de risco, a lesão percutânea é exposição de risco, passaram menos de 72 horas e o exposto é não reagente no teste rápido. O esquema preferencial é tenofovir/lamivudina 300/300 mg mais dolutegravir 50 mg, uma vez ao dia, por 28 dias, iniciado o mais cedo possível e com dispensação do esquema completo. Depois de 72 horas não há benefício, e a PEP não é indicada. O seguimento repete a testagem para HIV em 4 a 6 semanas e aos 3 meses. Antes de tudo, o local é lavado com água e sabão, sem espremer, e o acidente é comunicado, com emissão de CAT pela NR 32.",
+  "porAlt": [
+   "Errada: a combinação está certa, mas a duração da PEP é de 28 dias.",
+   "Errada: o esquema preferencial do PCDT de 2024 associa tenofovir/lamivudina e dolutegravir.",
+   "Correta: tenofovir/lamivudina mais dolutegravir, uma vez ao dia, por 28 dias, é o esquema preferencial.",
+   "Errada: efavirenz não compõe o esquema preferencial, e a duração é de 28 dias.",
+   "Errada: a PEP começa o mais cedo possível, e depois de 72 horas não é indicada."
+  ]
+ },
+ {
+  "q": "Técnica de enfermagem de 38 anos se fere com agulha usada em paciente HBsAg reagente. Ela tem três doses de vacina contra hepatite B registradas, mas nunca dosou anti-HBs, e seu HBsAg é não reagente. O laboratório informa que o anti-HBs só ficará pronto em 72 horas. Segundo o PCDT de PEP de 2024, qual é a conduta para hepatite B?",
+  "alts": [
+   "Nenhuma medida, pois três doses registradas garantem a proteção.",
+   "Aplicar só um reforço da vacina, sem imunoglobulina e sem testar.",
+   "Aguardar o anti-HBs por até 7 dias antes de decidir qualquer medida.",
+   "Aplicar IGHAHB e a primeira dose de nova série, como resposta inadequada.",
+   "Aplicar duas doses de IGHAHB, sem administrar nova dose de vacina."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "PCDT para Profilaxia Pós-Exposição de Risco (PEP) à Infecção pelo HIV, IST e Hepatites Virais (MS, 2024), Quadro 15",
+  "coment": "Pelo Quadro 15 do PCDT de PEP (2024), que reproduz o Manual dos CRIE, o profissional vacinado com resposta desconhecida deve testar o anti-HBs: se adequado, igual ou maior que 10 mUI/mL, nenhuma medida; se inadequado e a fonte for HBsAg reagente, aplica-se imunoglobulina humana anti-hepatite B (IGHAHB) e a primeira dose de nova série de vacina, ou IGHAHB em duas doses se já houve dois esquemas. Sem resultado em 48 horas, conduz-se como resposta inadequada. A IGHAHB é aplicada na dose de 0,06 mL/kg IM, em local diferente da vacina, idealmente nas primeiras 24 horas e no máximo até 7 dias após a exposição percutânea.",
+  "porAlt": [
+   "Errada: três doses não garantem resposta; sem anti-HBs, ela tem resposta desconhecida.",
+   "Errada: com fonte reagente e resposta não comprovada, a IGHAHB é necessária, e testar é indicado.",
+   "Errada: sem resultado em 48 horas, conduz-se como resposta inadequada, sem esperar mais.",
+   "Correta: sem anti-HBs em 48 horas, conduz-se como inadequada: IGHAHB mais primeira dose.",
+   "Errada: duas doses de IGHAHB são para quem já fez dois esquemas vacinais sem resposta."
+  ]
+ },
+ {
+  "q": "Técnica de enfermagem de 30 anos retorna da licença-maternidade amamentando o filho de 5 meses e é escalada para a central de quimioterapia, onde participaria do preparo e da administração de antineoplásicos. A enfermeira coordenadora consulta a NR 32 antes de confirmar a escala. Qual conduta a norma determina?",
+  "alts": [
+   "Mantê-la, com avental impermeável e luvas duplas no preparo.",
+   "Afastá-la das atividades com quimioterápicos durante a lactação.",
+   "Mantê-la, se houver autorização escrita do médico do PCMSO.",
+   "Afastá-la durante a gestação, mas liberá-la para o setor após o parto.",
+   "Mantê-la, restrita à administração, sem participar do preparo."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "NR 32 (Portaria MTE 485/2005), itens 32.3.9.4.6 e 32.3.9.3.4",
+  "coment": "A NR 32, no item sobre quimioterápicos antineoplásicos (32.3.9.4.6), determina que gestantes e nutrizes sejam afastadas das atividades com essas substâncias. A regra difere da aplicada aos gases e vapores anestésicos, em que a gestante só trabalha na área com autorização escrita do médico responsável pelo PCMSO (32.3.9.3.4). O EPI adequado é obrigatório para todos os trabalhadores expostos a antineoplásicos, mas não substitui o afastamento da nutriz. A técnica deve ser realocada para atividade sem exposição até o fim da lactação. Restringi-la à administração não resolve, porque o afastamento abrange as atividades com quimioterápicos, não só o preparo.",
+  "porAlt": [
+   "Errada: EPI não substitui o afastamento de gestantes e nutrizes previsto no item 32.3.9.4.6.",
+   "Correta: a NR 32 afasta gestantes e nutrizes das atividades com quimioterápicos antineoplásicos.",
+   "Errada: a autorização escrita do médico do PCMSO é regra para gestante e gases anestésicos.",
+   "Errada: a norma inclui as nutrizes, e a técnica está amamentando.",
+   "Errada: o afastamento abrange as atividades com antineoplásicos, não só o preparo."
+  ]
+ },
+ {
+  "q": "Mulher de 82 anos, internada na clínica médica por pneumonia, está acamada, com incontinência urinária e aceitação de metade das refeições, e recebe escore 12 na escala de Braden na admissão. Segundo o Protocolo para Prevenção de Úlcera por Pressão do Ministério da Saúde, como se classifica o risco e quem institui as medidas preventivas?",
+  "alts": [
+   "Risco moderado, com medidas prescritas pelo médico assistente.",
+   "Risco baixo, pois escore menor indica menor risco de lesão.",
+   "Risco alto, com medidas preventivas instituídas pelo enfermeiro.",
+   "Risco muito alto, por ser escore igual ou inferior a 12 pontos.",
+   "Risco moderado, com reavaliação só após sete dias internada."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Prevenção de quedas e de lesão por pressão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Protocolo para Prevenção de Úlcera por Pressão (Portaria MS 1.377/2013; MS/ANVISA/Fiocruz, 2013); Resolução COFEN 736/2024",
+  "coment": "No protocolo de 2013, a escala de Braden é usada acima de 5 anos, e a Braden Q de 1 a 5 anos. Quanto menor o escore, maior o risco: 15 a 18 indica risco baixo; 13 a 14, moderado; 10 a 12, alto; 9 ou menos, muito alto. O escore 12 caracteriza risco alto. A avaliação clínica do enfermeiro prevalece sobre o escore, e cabe a ele instituir as medidas preventivas, como reposicionamento a cada 2 horas, manejo da umidade, nutrição e hidratação e inspeção diária da pele; a avaliação e a prescrição de enfermagem são privativas do enfermeiro pela Resolução COFEN 736/2024. A reavaliação do risco é diária.",
+  "porAlt": [
+   "Errada: 12 é risco alto, e as medidas preventivas são instituídas pelo enfermeiro.",
+   "Errada: na Braden, quanto menor o escore, maior o risco de lesão por pressão.",
+   "Correta: 10 a 12 é risco alto, e as medidas preventivas são instituídas pelo enfermeiro.",
+   "Errada: risco muito alto corresponde a escore de 9 ou menos na escala de Braden.",
+   "Errada: 12 é risco alto, e a reavaliação do risco é diária, não semanal."
+  ]
+ },
+ {
+  "q": "Homem de 74 anos foi classificado com baixo risco de queda na admissão em UTI, há 5 dias. Hoje é transferido para a enfermaria, ainda com hipotensão postural e em uso de sedativo noturno recém-introduzido. A enfermeira da enfermaria encontra apenas a avaliação da admissão no prontuário. Segundo o Protocolo de Prevenção de Quedas do Ministério da Saúde, qual conduta está correta?",
+  "alts": [
+   "Manter a avaliação feita na admissão, válida por toda a internação.",
+   "Aplicar a escala de Morse, adotada como obrigatória pelo protocolo.",
+   "Aguardar uma eventual queda para então reavaliar o risco do paciente.",
+   "Reavaliar o risco semanalmente, como determina o protocolo do MS.",
+   "Reavaliar o risco na transferência, com a escala adotada pela instituição."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Prevenção de quedas e de lesão por pressão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Protocolo de Prevenção de Quedas (Portaria MS 2.095/2013; MS/ANVISA/Fiocruz, 2013)",
+  "coment": "O protocolo de quedas do MS (2013) manda avaliar o risco na admissão, com escala adequada ao perfil da instituição, e reavaliar diariamente e sempre que houver transferência de setor, mudança do quadro clínico ou episódio de queda. O protocolo cita escalas como Morse e STRATIFY, mas não adota nenhuma como obrigatória. Identificado o risco, a equipe sinaliza o paciente, orienta a família e implementa as medidas preventivas; toda queda deve ser notificada. Neste caso, a transferência, a hipotensão postural e o sedativo novo exigem reavaliação imediata, e a avaliação de 5 dias atrás não reflete o risco atual.",
+  "porAlt": [
+   "Errada: a avaliação é refeita diariamente e em transferências e mudanças clínicas.",
+   "Errada: o protocolo cita Morse e STRATIFY, mas não adota nenhuma escala como obrigatória.",
+   "Errada: a queda é só um dos gatilhos; transferência e mudança clínica também exigem reavaliação.",
+   "Errada: o protocolo prevê reavaliação diária, não semanal, além das reavaliações por evento.",
+   "Correta: transferência e mudança clínica exigem reavaliação, com a escala que a instituição adotar."
   ]
  }
 ]

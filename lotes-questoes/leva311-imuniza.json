@@ -998,5 +998,255 @@
    "Não há dose de 0,5 mL na Comirnaty, e a tampa amarela exige diluição.",
    "A vacina covid-19 é aplicada por via intramuscular, e não subcutânea."
   ]
+ },
+ {
+  "q": "Durante uma campanha, uma técnica de enfermagem recém-contratada aplica vacinas intramusculares em adultos na região dorsoglútea, alegando que dói menos. A enfermeira supervisora revisa a técnica com base no Quadro 6 da IN do calendário de 2026. Qual é a justificativa para evitar esse local?",
+  "alts": [
+   "É proibido por norma para qualquer injeção intramuscular em adultos",
+   "Pode induzir resposta imune abaixo do ideal, ficando como última opção",
+   "Só é permitido para vacinas atenuadas, que exigem músculo volumoso",
+   "Causa mais febre que o deltoide, por absorção sistêmica mais rápida",
+   "Exige agulha intradérmica, que não está disponível na maioria das salas"
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Técnica de aplicação",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "O Quadro 6 da IN 2026 lista como primeira opção para a via intramuscular a região ventroglútea, o vasto lateral da coxa ou o deltoide, e deixa a dorsoglútea como outra opção. A observação do quadro explica que o dorsoglúteo, ou quadrante superior externo do glúteo, pode induzir resposta imune abaixo do ideal. O deltoide é recomendado para vacinação intramuscular a partir de 12 meses; adultos também podem receber vacinas na anterolateral da coxa, de preferência as menos reatogênicas. Não há proibição absoluta, mas o local é a última escolha.",
+  "porAlt": [
+   "O quadro admite a dorsoglútea como opção, embora seja a última escolha.",
+   "Correta: o dorsoglúteo pode dar resposta imune abaixo do ideal e fica como última opção.",
+   "Não há regra que reserve a dorsoglútea a vacinas atenuadas, em geral subcutâneas.",
+   "O problema descrito na IN é a resposta imune menor, não mais febre.",
+   "A via intramuscular usa agulha própria; a questão do local é a resposta imune."
+  ]
+ },
+ {
+  "q": "Lactente de 9 meses está com gesso pelvipodálico, que imobiliza os dois membros inferiores, após tratamento de displasia do quadril. Hoje deve receber a 3ª dose da vacina covid-19, intramuscular, e a febre amarela. Segundo as orientações da IN do calendário de 2026, qual é a conduta para a vacina intramuscular?",
+  "alts": [
+   "Aplicar na região dorsoglútea, primeira opção para criança engessada",
+   "Aplicar por via subcutânea no braço, já que a coxa está imobilizada",
+   "Adiar todas as vacinas até a retirada definitiva do gesso pelvipodálico",
+   "Usar o deltoide, atento ao nervo radial, ou vacinar na troca do gesso",
+   "Aplicar a covid-19 no abdômen, a 3 cm do umbigo, por via intramuscular"
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Técnica de aplicação",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "tit",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "Para crianças com membros imobilizados por gesso, a IN 2026 sugere programar a vacinação para o momento da troca do gesso ou usar o músculo deltoide como alternativa, com atenção ao nervo radial, que é superficial e fica próximo ao deltoide em menores de 12 meses. A via da vacina não muda: a covid-19 é intramuscular, e a via definida pelo fabricante deve ser seguida. A febre amarela é subcutânea, no tríceps, e pode ser aplicada no braço. O abdômen é local alternativo apenas para a via subcutânea, e a dorsoglútea pode dar resposta imune abaixo do ideal.",
+  "porAlt": [
+   "A dorsoglútea é a última opção intramuscular, pela resposta imune abaixo do ideal.",
+   "A via é fixada pelo fabricante e não se troca; a covid-19 continua intramuscular.",
+   "Adiar todas as vacinas não é necessário; a IN dá alternativa de local para a criança engessada.",
+   "Correta: usa-se o deltoide com cuidado com o nervo radial ou vacina-se na troca do gesso.",
+   "O abdômen a 3 cm do umbigo é alternativa para a via subcutânea, não para a intramuscular."
+  ]
+ },
+ {
+  "q": "Mãe retorna à UBS dois dias após a vacinação do filho de 15 meses e relata febre de 38,5 °C e irritabilidade, já em melhora. A técnica de enfermagem diz que não há o que registrar, pois não está provado que a febre foi causada pela vacina. Qual conceito de ESAVI corrige o raciocínio da técnica?",
+  "alts": [
+   "Evento com relação causal confirmada por exame laboratorial específico e laudo",
+   "Somente reação grave que exija internação em até 24 horas da vacina",
+   "Ocorrência indesejada após vacinar, sem exigir relação causal comprovada",
+   "Apenas reação local no sítio de aplicação, como dor e vermelhidão",
+   "Evento ocorrido somente com vacinas atenuadas, nos primeiros 30 dias"
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Eventos supostamente atribuíveis à vacinação",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Manual de Vigilância de ESAVI (MS, 2021), citado pela IN do Calendário Nacional de Vacinação 2026",
+  "coment": "ESAVI, evento supostamente atribuível à vacinação ou imunização, é qualquer ocorrência médica indesejada após a vacinação, sem que a relação causal com a vacina precise estar provada. Pode ser sinal, sintoma, doença ou alteração de exame. Os casos são classificados em evento adverso grave, não grave e erro de imunização, e há eventos esperados, como dor, vermelhidão e febre, e inesperados. A notificação é feita no e-SUS Notifica por qualquer profissional de saúde; a investigação é que vai avaliar a causalidade, e não o contrário.",
+  "porAlt": [
+   "A definição de ESAVI não exige causalidade comprovada; ela é avaliada depois.",
+   "ESAVI inclui eventos não graves; internação define gravidade, não o conceito.",
+   "Correta: ESAVI é qualquer ocorrência indesejada pós-vacinação, sem causalidade provada.",
+   "Reações locais são um tipo de ESAVI, mas o conceito inclui sinais sistêmicos como febre.",
+   "ESAVI vale para qualquer vacina, atenuada ou não, sem prazo fixo de 30 dias."
+  ]
+ },
+ {
+  "q": "Adolescente de 11 anos recebe a vacina dengue em clínica privada de vacinação e, dez minutos depois, apresenta urticária generalizada, edema de lábios e dispneia. É tratada com adrenalina e encaminhada ao hospital, onde evolui bem. Pela IN do calendário de 2026, qual é a conduta quanto à notificação e à 2ª dose?",
+  "alts": [
+   "Notificar só se a vacina tiver sido aplicada pelo SUS, mantendo a 2ª dose",
+   "Notificar em até 7 dias e aplicar a 2ª dose em ambiente hospitalar",
+   "Dispensar notificação, pois a anafilaxia foi tratada com sucesso",
+   "Notificar em até 24 horas e aplicar a 2ª dose com observação de 60 minutos",
+   "Notificar em até 24 horas no e-SUS Notifica e contraindicar a 2ª dose"
+  ],
+  "gab": 4,
+  "tema": "imuniza",
+  "sub": "Eventos supostamente atribuíveis à vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A IN 2026, ao tratar da vacina dengue, determina que qualquer suspeita de anafilaxia pós-vacinação seja notificada imediatamente, em até 24 horas, às autoridades locais e registrada no e-SUS Notifica, módulo ESAVI, por qualquer profissional de saúde, independentemente de a vacina ter sido aplicada em serviço público ou privado. Em reação grave de hipersensibilidade ou anafilaxia à vacina ou a seus componentes, contraindica-se a dose subsequente da mesma vacina. A vacinação supervisionada por no mínimo 60 minutos é medida para reações não graves anteriores.",
+  "porAlt": [
+   "A notificação vale para serviço público ou privado, e anafilaxia contraindica a 2ª dose.",
+   "O prazo é de até 24 horas, e a anafilaxia contraindica nova dose da mesma vacina.",
+   "A anafilaxia é notificada mesmo quando tratada com sucesso; a notificação não é opcional.",
+   "A supervisão de 60 minutos é para reação não grave; após anafilaxia, não se dá nova dose.",
+   "Correta: notifica-se em até 24 horas no e-SUS Notifica, e a 2ª dose fica contraindicada."
+  ]
+ },
+ {
+  "q": "Adolescente de 13 anos vai receber a 1ª dose da vacina dengue na UBS. Na triagem, relata anafilaxia após comer amendoim aos 8 anos, sem reação a vacinas anteriores. Não há outra contraindicação. Pela IN do calendário de 2026, qual é o tempo mínimo de observação após a aplicação?",
+  "alts": [
+   "Pelo menos 30 minutos, por história de reação alérgica grave",
+   "Pelo menos 15 minutos, pois a alergia não foi a vacina",
+   "Pelo menos 60 minutos, por vacinação supervisionada obrigatória",
+   "Não vacinar, pois alergia alimentar grave contraindica a vacina",
+   "Dispensar observação, pois a reação prévia foi a alimento"
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Eventos supostamente atribuíveis à vacinação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "Por causa de um sinal de alerta de anafilaxia identificado no monitoramento da vacina dengue (Nota Técnica 14/2025), a IN 2026 recomenda observar o vacinado: pelo menos 30 minutos para quem tem histórico de reação alérgica grave a medicamentos, alimentos ou outras vacinas, e pelo menos 15 minutos para quem não tem. A vacinação supervisionada por no mínimo 60 minutos é considerada após reação não grave a dose anterior. Alergia alimentar grave não contraindica a vacina; contraindica a hipersensibilidade a componente da vacina ou a dose anterior.",
+  "porAlt": [
+   "Correta: história de reação alérgica grave, inclusive a alimento, pede 30 minutos de observação.",
+   "Quinze minutos é para quem não tem história de alergia grave a qualquer agente.",
+   "Os 60 minutos supervisionados são para reação não grave a dose anterior da vacina.",
+   "A contraindicação é a hipersensibilidade à vacina ou a seus componentes, não ao amendoim.",
+   "A IN recomenda observação para todos os vacinados contra dengue, por tempo mínimo definido."
+  ]
+ },
+ {
+  "q": "Lactente de 4 meses volta à UBS para a 2ª dose de penta. Após a 1ª dose, teve febre de 39,8 °C nas primeiras 24 horas, sem convulsão, sem choro prolongado e sem outros sinais, com melhora espontânea. Pela Instrução Normativa do calendário de 2026, qual é a conduta para a 2ª dose?",
+  "alts": [
+   "Contraindicar a penta e encaminhar ao CRIE para vacina acelular",
+   "Aplicar a penta, com antitérmico no momento e em intervalos por 24 a 48 h",
+   "Aplicar a penta sem nenhum cuidado adicional, pois a febre alta é esperada",
+   "Adiar a 2ª dose por 6 meses, até desaparecer o risco de nova febre alta",
+   "Substituir a penta pela DTP, que tem menos componentes e menos febre"
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Eventos supostamente atribuíveis à vacinação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "Nas precauções da penta, a IN 2026 orienta que crianças com história pessoal ou familiar de convulsão, ou com choro intenso incontrolável ou febre maior que 39,5 °C após dose anterior de penta, DTP ou DTPa, recebam antitérmico ou analgésico no momento da vacinação, com intervalos regulares nas 24 a 48 horas seguintes. Febre alta isolada não está entre as contraindicações, que são quadro neurológico em atividade, convulsão em 72 horas, episódio hipotônico-hiporresponsivo em 48 horas ou encefalopatia em 7 dias após dose anterior. A DTP é usada só nos reforços.",
+  "porAlt": [
+   "Febre acima de 39,5 °C isolada não contraindica a penta nem indica vacina do CRIE.",
+   "Correta: mantém-se a penta, com antitérmico no momento e em intervalos por 24 a 48 horas.",
+   "A IN pede antitérmico nas doses seguintes de quem teve febre acima de 39,5 °C.",
+   "Adiar não reduz o risco e deixa a criança desprotegida; a IN não prevê esse adiamento.",
+   "A DTP é vacina de reforço e não substitui a penta no esquema básico."
+  ]
+ },
+ {
+  "q": "Mulher de 30 anos recebeu reforço de dT há 2 anos e, cerca de 8 horas depois, apresentou edema extenso, doloroso e endurado em todo o braço, avaliado como reação tipo Arthus. Agora ela pergunta à enfermeira quando poderá receber o próximo reforço. Pela IN do calendário de 2026, qual é a orientação?",
+  "alts": [
+   "Contraindicar definitivamente qualquer vacina com toxoide tetânico",
+   "Antecipar o reforço para 5 anos, pela resposta exagerada à dose",
+   "Repetir a dose agora no outro braço, sob uso de anti-histamínico",
+   "Respeitar 10 anos após a última dose para fazer o próximo reforço",
+   "Trocar a dT pela dTpa no próximo ano, por ser menos reatogênica"
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Eventos supostamente atribuíveis à vacinação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "A reação tipo Arthus é uma hipersensibilidade do tipo III, mediada por imunocomplexos, que surge horas após a dose em quem tem muitos anticorpos antitoxina. Nas precauções da dT, a IN 2026 orienta que, na ocorrência de reação local grave compatível com Arthus, deve-se observar o intervalo de 10 anos após a última dose para fazer o reforço. Não é contraindicação permanente: o texto pede aguardar os 10 anos, em vez de antecipar o reforço. A dTpa da rotina é para gestantes, puérperas e trabalhadores de saúde.",
+  "porAlt": [
+   "Arthus não contraindica para sempre; pede apenas respeitar 10 anos até o reforço.",
+   "Antecipar aumentaria o risco; após Arthus, aguarda-se o intervalo de 10 anos.",
+   "Não há indicação de repetir a dose; o reforço fica para 10 anos após a última.",
+   "Correta: após reação tipo Arthus, o próximo reforço respeita 10 anos da última dose.",
+   "A dTpa não é alternativa para Arthus; ela é indicada a grupos específicos."
+  ]
+ },
+ {
+  "q": "Em reunião de vigilância epidemiológica, a enfermeira apresenta a Portaria GM/MS 11.211/2026, que atualizou a Lista Nacional de Notificação Compulsória. Um residente pergunta como os eventos relacionados à vacinação aparecem hoje na lista e com que periodicidade devem ser notificados. Qual é a resposta correta?",
+  "alts": [
+   "Foi removido da lista e passou a ser monitorado só por unidades sentinela",
+   "Manteve o nome de eventos adversos graves pós-vacinação, com notificação semanal",
+   "Passou a se chamar ESAVI, com notificação imediata a município, estado e MS",
+   "Passou a se chamar ESAVI, com notificação semanal apenas ao município",
+   "Passou a incluir só óbitos pós-vacinação, notificados em até 7 dias"
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Eventos supostamente atribuíveis à vacinação",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 11.211/2026 (Lista Nacional de Notificação Compulsória), art. 4º, V, e Anexo I",
+  "coment": "A Portaria GM/MS 11.211, de 13 de maio de 2026, alterou nomenclaturas da Lista Nacional de Notificação Compulsória. Pelo art. 4º, inciso V, o item \"eventos adversos graves ou óbitos pós vacinação\" passou a ser \"evento supostamente atribuível à vacinação ou imunização (ESAVI)\". No Anexo I, o ESAVI aparece com notificação imediata para Ministério da Saúde, Secretaria Estadual e Secretaria Municipal. A mesma portaria removeu a covid-19 da lista e incluiu caxumba e febre do Oropouche; a SRAG é que saiu da estratégia sentinela.",
+  "porAlt": [
+   "A SRAG é que saiu da estratégia sentinela; o ESAVI segue na lista compulsória.",
+   "O nome antigo foi substituído por ESAVI, e a notificação é imediata.",
+   "Correta: a portaria renomeou o item para ESAVI, com notificação imediata às três esferas.",
+   "A notificação do ESAVI é imediata e vai ao MS, ao estado e ao município.",
+   "O ESAVI abrange eventos em geral, não só óbitos, com notificação imediata."
+  ]
+ },
+ {
+  "q": "Homem de 67 anos procura a UBS para a vacina influenza da temporada. Relata que, no ano anterior, desenvolveu síndrome de Guillain-Barré 20 dias após a vacina influenza, com recuperação completa após internação. Pela Instrução Normativa do calendário de 2026, qual é a conduta?",
+  "alts": [
+   "Vacinar normalmente, pois a síndrome não tem relação com a vacina",
+   "Contraindicar a vacina por toda a vida, sem necessidade de avaliação",
+   "Vacinar com meia dose, para reduzir o estímulo imunológico",
+   "Vacinar apenas se o intervalo desde a síndrome for maior que 42 dias",
+   "Vacinar só após avaliação médica criteriosa do risco e do benefício"
+  ],
+  "gab": 4,
+  "tema": "imuniza",
+  "sub": "Eventos supostamente atribuíveis à vacinação",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026, 4ª edição (PNI/MS)",
+  "coment": "Nas precauções da influenza trivalente, a IN 2026 orienta que pessoas que desenvolveram síndrome de Guillain-Barré até 42 dias após uma dose anterior da vacina só recebam nova dose após avaliação médica criteriosa da relação risco-benefício. O caso dele se enquadra: SGB 20 dias após a vacina. Não é contraindicação automática, nem vacinação de rotina sem avaliação. O prazo de 42 dias define a janela entre a vacina e o início da SGB que exige essa avaliação, e não um tempo de espera. Fracionar a dose não é prática prevista.",
+  "porAlt": [
+   "SGB até 42 dias após a dose pede avaliação médica antes de vacinar de novo.",
+   "A IN não contraindica automaticamente; exige avaliação de risco e benefício.",
+   "Não existe meia dose para adulto; o volume a partir de 9 anos é 0,5 mL.",
+   "Os 42 dias são a janela entre vacina e SGB que exige avaliação, não um prazo de espera.",
+   "Correta: SGB até 42 dias após influenza exige avaliação médica criteriosa antes de nova dose."
+  ]
+ },
+ {
+  "q": "Criança de 15 meses é levada ao pronto-socorro 9 dias após receber tríplice viral e varicela no mesmo dia, com febre e crise convulsiva, e fica internada por 48 horas para observação. A equipe da UBS notifica o caso como ESAVI no e-SUS Notifica. Como esse evento deve ser classificado?",
+  "alts": [
+   "Evento adverso grave, porque exigiu hospitalização",
+   "Evento adverso não grave, pois a criança se recuperou",
+   "Erro de imunização, por coadministração de duas atenuadas",
+   "Evento esperado e não notificável, pois febre é comum",
+   "Evento grave apenas se for confirmada a causa vacinal"
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Eventos supostamente atribuíveis à vacinação",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Manual de Vigilância de ESAVI (MS, 2021), citado pela IN do Calendário Nacional de Vacinação 2026",
+  "coment": "O Ministério da Saúde classifica como evento adverso grave aquele que requer hospitalização, ameaça a vida ou exige intervenção imediata para evitar o óbito, causa incapacidade significativa ou permanente, anomalia congênita ou óbito. A internação por 48 horas basta para a classificação, independentemente da evolução favorável e da confirmação de causalidade, que é avaliada na investigação. Não houve erro de imunização: a IN 2026 recomenda aplicar a 2ª dose de tríplice viral no mesmo dia da 1ª de varicela, em sítios distintos.",
+  "porAlt": [
+   "Correta: hospitalização é critério de evento adverso grave, independentemente da evolução.",
+   "A boa evolução não muda a classificação; a internação já define o evento como grave.",
+   "A IN recomenda tríplice viral e varicela no mesmo dia aos 15 meses; não houve erro.",
+   "Todo ESAVI suspeito é notificado, e este exigiu internação, o que o torna grave.",
+   "A gravidade não depende de causalidade confirmada; ESAVI dispensa essa prova."
+  ]
  }
 ]
