@@ -53,6 +53,13 @@ International Guideline 2025, AHA 2025. O Anexo III do ENARE ainda diz "SAE": en
 - Turma desligada (sem função de backend `enfermare`). Sinalização e erratas precisam de `enfermare` na lista
   `APPS` de `MedTech/backend/functions/sinal.js` e deploy (ele roda o `.command`).
 
+## Estado em 14/10/2026 (ef-v15)
+4.194 questões (3.366 de prova real), 25 leituras, 292 cartões, 16 casos. Fontes reais além de ENARE/EBSERH 2024/
+residências: EBSERH 2023 IBFC (37 cargos; caderno na íntegra = 10 de SUS comuns via `fonte.tb` + específicas),
+militares (EsFCEx 2020/2024, EAOAP 2026, Marinha CP-CSM 2021–2025), IBADE/FGV municipais, HE Presidente Prudente
+2014. Cerca de 10% das reais foram descartadas na triagem (gabarito que ensina norma revogada ou duas respostas);
+motivos em `provas-reais/relatorios/*.json`. Pendências de conferência em `provas-reais/REVISAR.txt`.
+
 ## Fluxo de publicação
 `bash docs/publica.sh "msg"` (para no primeiro erro). Lotes em escrita: um nome por linha em
 `lotes-questoes/EM_ANDAMENTO.txt` (fora do banco e do commit). Leitura sem `_entradas_<nome>.json` fica fora do
