@@ -1,0 +1,1378 @@
+[
+ {
+  "q": "O controle social democrático das políticas de saúde no Brasil se dá, sobretudo, no âmbito dos Conselhos de Saúde e das Conferências de Saúde.\nAssinale a opção correta no que diz respeito às características e atribuições desses espaços.",
+  "alts": [
+   "Os Conselhos de Saúde são organizados de maneira centralizada, respondendo diretamente às determinações do governo via Conselho Nacional de Saúde.",
+   "As Conferências de Saúde ocorrem com regularidade anual no nível nacional, abordando temas determinados em cada evento do ano anterior.",
+   "Os Conselhos de Saúde são órgãos colegiados e permanentes, responsáveis diretamente pela execução dos serviços de saúde no território nacional.",
+   "As Conferências de Saúde municipais e estaduais ocorrem como etapas prévias da Conferência Nacional, aprovando propostas a serem discutidas nesta.",
+   "Os Conselhos de Saúde estão distribuídos nos níveis federal, estadual e municipal, funcionando de maneira subordinada ao executivo de cada unidade administrativa."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 1º, §§ 1º e 2º",
+  "coment": "A Lei 8.142/1990 cria duas instâncias colegiadas em cada esfera de governo. A Conferência de Saúde reúne-se a cada quatro anos para avaliar a situação de saúde e propor diretrizes; na prática, as etapas municipais e estaduais antecedem a nacional e aprovam propostas e delegados que serão levados a ela. O Conselho de Saúde tem caráter permanente e deliberativo, atua na formulação de estratégias e no controle da execução da política, inclusive nos aspectos econômicos e financeiros. Ele não executa serviços e não é subordinado ao governo, embora suas decisões sejam homologadas pelo chefe do Poder Executivo.",
+  "porAlt": [
+   "Errada: os conselhos existem em cada esfera de governo, de forma descentralizada, e não respondem a determinações do Conselho Nacional.",
+   "Errada: a Conferência de Saúde reúne-se a cada quatro anos, e não anualmente (Lei 8.142/1990, art. 1º, § 1º).",
+   "Errada: o conselho é colegiado e permanente, mas formula estratégias e controla a execução; não executa os serviços.",
+   "Correta: as conferências municipais e estaduais funcionam como etapas preparatórias e aprovam propostas que seguem para a Conferência Nacional.",
+   "Errada: os conselhos existem nas três esferas, mas têm caráter deliberativo e autonomia; a homologação pelo Executivo não os torna subordinados."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 16,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Com relação à construção histórica do Sistema Único de Saúde (SUS), avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) O SUS foi criado inicialmente durante o Governo Vargas, voltado, a princípio, apenas para o atendimento aos trabalhadores da economia formal e suas famílias.\n( ) A Constituição Federal de 1988 introduziu o fundamento da universalização do SUS e estabeleceu a integração dos serviços públicos de saúde em uma rede regionalizada e hierarquizada.\n( ) O projeto inicial do sistema previa a sua evolução para o Sistema Unificado e Descentralizado de Saúde (SUDS), cuja execução permanece em aberto e em progresso.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – F.",
+   "F – V – V.",
+   "V – F – F.",
+   "V – V – F.",
+   "F – F – V."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, arts. 196 e 198; Lei 8.080/1990",
+  "coment": "O primeiro item é falso: na Era Vargas surgiram os Institutos de Aposentadorias e Pensões, que davam assistência só aos trabalhadores formais contribuintes; o SUS nasce com a Constituição de 1988 e é regulamentado pela Lei 8.080/1990. O segundo é verdadeiro: o art. 196 define a saúde como direito de todos e dever do Estado, com acesso universal e igualitário, e o art. 198 integra as ações e serviços públicos numa rede regionalizada e hierarquizada. O terceiro é falso: o SUDS, de 1987, foi uma etapa anterior ao SUS e não o seu destino. Sequência F, V, F.",
+  "porAlt": [
+   "Correta: só o item sobre a Constituição de 1988 é verdadeiro; o SUS não vem de Vargas e o SUDS o precedeu.",
+   "Errada: o terceiro item é falso, porque o SUDS (1987) foi transição para o SUS, e não sua evolução futura.",
+   "Errada: o primeiro item é falso, pois a era Vargas criou a previdência dos IAPs, não o SUS, e o segundo é verdadeiro.",
+   "Errada: o primeiro item é falso; a assistência restrita a trabalhadores formais era o modelo previdenciário, não o SUS.",
+   "Errada: o segundo item é verdadeiro (CF, arts. 196 e 198) e o terceiro é falso."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 17,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Leia o trecho a seguir a respeito da insurgência ocorrida no início do século XX durante a campanha de vacinação contra a varíola.\nA Revolta da Vacina permanece como exemplo quase único na história do país de movimento popular de êxito baseado na defesa do direito dos cidadãos de não serem arbitrariamente tratados pelo governo. Mesmo que a vitória não tenha sido traduzida em mudanças políticas imediatas além da interrupção da vacinação, ela certamente deixou entre os que dela participaram um sentimento profundo de orgulho e de autoestima, passo importante na formação da cidadania.\nCARVALHO, José Murilo de. Os bestializados. São Paulo: Companhia das Letras, 2019.\nSegundo o autor, essa situação é exemplar da tensão entre",
+  "alts": [
+   "ciência médica e ignorância popular diante das políticas de saúde.",
+   "práticas higienistas e liberdade individual na saúde pública.",
+   "passividade das camadas populares e medidas coercitivas do governo.",
+   "campanhas educativas e desinformação entre a população.",
+   "resistência das elites à vacinação e rápida adesão das classes populares."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Texto-base: CARVALHO, J. M. Os bestializados (Companhia das Letras, 2019); Revolta da Vacina, Rio de Janeiro, 1904",
+  "coment": "Em 1904, a lei que tornou obrigatória a vacinação contra a varíola, na reforma sanitária conduzida por Oswaldo Cruz, foi executada com invasão de casas e coerção. O autor lê a revolta como defesa do direito de não ser tratado arbitrariamente pelo governo, isto é, um choque entre o higienismo autoritário do Estado e a liberdade individual. Ele não a descreve como ignorância popular nem como passividade: o texto fala em movimento popular de êxito e em formação da cidadania. A lição para a saúde pública atual é que adesão se constrói com informação e diálogo.",
+  "porAlt": [
+   "Errada: o autor valoriza a reação popular como exercício de cidadania e não a reduz a ignorância diante da ciência.",
+   "Correta: a revolta opôs as práticas higienistas impostas pelo Estado à liberdade individual dos cidadãos.",
+   "Errada: o texto descreve uma população ativa, que reagiu e venceu, e não passiva diante das medidas.",
+   "Errada: o foco do trecho é a imposição arbitrária pelo governo, e não campanhas educativas e desinformação.",
+   "Errada: a revolta foi um movimento popular contra a obrigatoriedade, e não uma resistência das elites."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 18,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre os determinantes sociais da saúde, analise o texto seguir.\nPodemos afirmar que na efetivação e desenvolvimento de si os indivíduos organizam e transformam grupos humanos nos mais diversos níveis e, de um modo ou de outro, a própria humanidade. Dessa forma, para os próprios indivíduos, que são concentrações vivas e pontos de interação da rede social, a transformação da sociedade resulta em novas condições de ser, novas condições de sua existência, inclusive psicofisiológica; portanto, de sua saúde.\nBRONZO, Carla; FLEURY-TEIXEIRA, Paulo. “Determinação social da saúde pública”. In: Determinação Social da Saúde e Reforma Sanitária. Rio de Janeiro: Cebes, 2010.\nAssinale a opção que identifica corretamente a ideia central do texto.",
+  "alts": [
+   "A melhoria na saúde do indivíduo ocorre como tradução fisiológica de mudanças de postura psicológica.",
+   "O indivíduo é subordinado às características de sua realidade social, o que inclui seus modos de vida e sua saúde.",
+   "A ciência médica substitui as mudanças sociais como principal fator para o aumento da qualidade de vida da população.",
+   "O funcionamento do organismo humano molda as regras de convivência, determinando os comportamentos coletivos.",
+   "A saúde faz parte dos efeitos do engajamento humano, o qual gera transformações históricas no âmbito da vida social."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 3º (determinantes e condicionantes da saúde); texto-base de Bronzo e Fleury-Teixeira (Cebes, 2010)",
+  "coment": "O trecho trata da determinação social da saúde numa via de mão dupla: ao se desenvolverem, os indivíduos transformam os grupos humanos e a sociedade, e essa transformação cria novas condições de existência, inclusive psicofisiológicas, ou seja, de saúde. A ideia central é que a saúde resulta do engajamento humano que produz mudanças históricas na vida social. A Lei 8.080/1990, art. 3º, traduz essa visão ao afirmar que os níveis de saúde expressam a organização social e econômica do País, com determinantes como alimentação, moradia, trabalho, renda e educação.",
+  "porAlt": [
+   "Errada: o texto fala de transformação social, não de mudança de postura psicológica traduzida em fisiologia.",
+   "Errada: o indivíduo não é apenas subordinado à realidade social; ele também a transforma, e é isso que o texto enfatiza.",
+   "Errada: o trecho não menciona a ciência médica e coloca as mudanças sociais no centro da saúde.",
+   "Errada: o texto inverte essa relação, pois é a vida social que gera condições de saúde, e não o organismo que dita regras sociais.",
+   "Correta: a saúde aparece como efeito do engajamento humano, que produz transformações históricas na vida social."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 19,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A respeito da possibilidade do uso da arquitetura informacional da blockchain para a gestão em saúde, leia o trecho a seguir.\nUm estudo da Escola Politécnica da USP propôs uma arquitetura para rastrear medicamentos hospitalares utilizando blockchain. Com a ferramenta, apenas transações validadas por uma rede descentralizada seriam registradas, garantindo maior dinamismo e segurança ao processo. No mecanismo de consenso, as entidades que fariam a validação teriam acesso às informações quando uma mercadoria fosse enviada de um lugar a outro. Uma validação centralizada também tem condições de realizar essa tarefa, porém é passível de influência humana, ou seja, uma informação já realizada pode ser alterada.\nCONTERNO, Ivan. Tecnologia blockchain pode reduzir risco de roubos e fraudes na área da saúde. Jornal da USP, 29/05/2023. In: https://jornal.usp.br. Adaptado.\nCom base no trecho, é correto afirmar que a principal vantagem de utilizar o sistema blockchain para a gestão em saúde consiste",
+  "alts": [
+   "na criação de um sistema mais eficiente, no qual um órgão unificado pode validar e modificar informações conforme necessário.",
+   "na eliminação da influência humana no processo de validação, garantindo que todas as transações sejam verificadas autonomamente.",
+   "na descentralização do registro de transações, que reduz o risco de alterações indevidas e aumenta a integridade das informações.",
+   "na capacidade de modificar registros antigos para corrigir eventuais erros, tornando a rastreabilidade mais flexível e adaptável às necessidades regulatórias.",
+   "na substituição dos mecanismos tradicionais de rastreabilidade, eliminando a necessidade de auditoria por órgãos reguladores."
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Texto-base: CONTERNO, I. Jornal da USP, 29/05/2023 (rastreabilidade de medicamentos por blockchain)",
+  "coment": "Questão de interpretação. O trecho destaca que, no blockchain, só se registram transações validadas por uma rede descentralizada, enquanto uma validação centralizada fica sujeita a interferência humana e permite alterar uma informação já registrada. A vantagem central é, portanto, a descentralização do registro, que dificulta alterações indevidas e preserva a integridade dos dados de rastreio de medicamentos. O texto não afirma que a influência humana desaparece por completo nem que a auditoria se torna dispensável; as entidades validadoras continuam participando do consenso.",
+  "porAlt": [
+   "Errada: um órgão unificado que valida e modifica registros é justamente o modelo centralizado que o texto aponta como vulnerável.",
+   "Errada: o texto não fala em eliminar a influência humana; a validação continua feita por entidades da rede, de forma distribuída.",
+   "Correta: a descentralização do registro reduz o risco de alteração indevida e aumenta a integridade das informações.",
+   "Errada: a imutabilidade dos registros é a característica valorizada; poder modificar registros antigos contraria o texto.",
+   "Errada: o texto não propõe eliminar a fiscalização por órgãos reguladores, apenas tornar o rastreio mais seguro."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 20,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A respeito dos limites entre ciência ética, leia o relato a seguir.\nEm 2018, o cientista chinês He Jiankui causou controvérsia na comunidade científica quando revelou ter editado o código genético de dois embriões saudáveis com o objetivo de torná-los imunes à transmissão do HIV contraído pelos pais. O resultado foi o nascimento de duas meninas gêmeas geneticamente modificadas com a técnica de CRISPR-cas9, uma ferramenta genética que corta a sequência do DNA e o reconfigura para obter a modificação desejada. A repercussão do experimento levou à demissão e à condenação a três anos de prisão na China.\nExperimento chinês confronta limites entre ética e ciência, 2019, In: https://www.ipea.gov.br/. Adaptado.\nConsiderando os princípios da bioética, assinale a afirmativa que identifica problemas éticos suscitados pelo experimento citado.",
+  "alts": [
+   "O desrespeito às normas comerciais, pois a alteração genética das bebês pode impactar o mercado de vacinas.",
+   "A inviabilidade econômica da técnica, que exige um alto investimento sem benefícios significativos.",
+   "Os riscos imprevisíveis de alterações genéticas em seres humanos, que vão produzir óvulos e espermatozoides com essa mutação.",
+   "A falha metodológica do estudo, que não seguiu protocolos científicos rigorosos para garantir a eficácia.",
+   "O comprometimento da viabilidade das futuras gerações, pois as edições genéticas causam instabilidade no DNA."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 11.105/2005 (Lei de Biossegurança), art. 6º, III; Resolução CNS 466/2012",
+  "coment": "O experimento editou embriões, ou seja, células da linhagem germinativa. A alteração passa a fazer parte das células reprodutivas das meninas e pode ser transmitida aos descendentes, com efeitos imprevisíveis e sem possibilidade de consentimento das gerações futuras. Isso fere os princípios da não maleficência e da precaução. No Brasil, a Lei 11.105/2005, art. 6º, III, proíbe a engenharia genética em célula germinal, zigoto e embrião humanos, e a Resolução CNS 466/2012 exige que a pesquisa com seres humanos pondere riscos e benefícios.",
+  "porAlt": [
+   "Errada: o problema ético não é comercial; a questão envolve riscos à pessoa e à descendência, e não ao mercado de vacinas.",
+   "Errada: o custo da técnica não é o centro do debate bioético, que gira em torno de riscos e consentimento.",
+   "Correta: a edição em embriões atinge a linhagem germinativa e pode passar a mutação, com riscos imprevisíveis, às gerações seguintes.",
+   "Errada: o dilema não se resume a falha metodológica; mesmo um estudo bem desenhado violaria limites éticos da edição germinativa.",
+   "Errada: o texto não sustenta que a edição cause instabilidade do DNA; a afirmação extrapola o que se sabe sobre a técnica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 22,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Com relação à Atenção Primária à Saúde (APS), avalie as afirmativas a seguir.\nI. A APS tem o foco na diagnose e no tratamento das enfermidades, dada a dificuldade de ações preventivas na escala de sua atuação.\nII. A APS otimiza os atendimentos com equipes capazes de abordar as situações menos graves, evitando o encaminhamento a especialistas.\nIII. A APS é o foco principal das iniciativas voltadas para a educação em saúde, dado que é a porta de entrada preferencial no sistema de saúde.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, II e III.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "III, apenas."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo, arts. 2º e 3º",
+  "coment": "Pela PNAB, a Atenção Básica é a principal porta de entrada e centro de comunicação da Rede de Atenção à Saúde, com ações de promoção, prevenção, diagnóstico, tratamento e reabilitação; por isso o item I é falso. A banca considerou falso também o item II: a diretriz de resolutividade pede que a APS resolva a maioria dos problemas e coordene o cuidado nos demais pontos da rede quando necessário, e não que evite encaminhar. O item III foi aceito porque, sendo porta de entrada preferencial e próxima do território, a APS concentra as ações de educação em saúde.",
+  "porAlt": [
+   "Errada: o item I é falso, pois a APS também faz promoção e prevenção, e o II distorce a coordenação do cuidado.",
+   "Errada: inclui o item I, que nega o papel preventivo da APS, e o II, que troca coordenação por evitar encaminhamento.",
+   "Errada: o item I é falso, porque prevenção e promoção são parte central da Atenção Básica.",
+   "Errada: o item II foi considerado incorreto, pois a APS coordena o encaminhamento quando necessário em vez de evitá-lo.",
+   "Correta: só o item III foi aceito; a APS é porta de entrada preferencial e foco das ações de educação em saúde."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 23,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Política Nacional de Humanização (PNH), ou HumanizaSUS, busca qualificar a saúde pública no Brasil com um foco na organização das dinâmicas de trabalho.\nA PNH comporta as características indicadas a seguir, à exceção de uma. Assinale-a.",
+  "alts": [
+   "A valorização dos gestores de saúde como parte essencial da implementação da humanização no SUS.",
+   "A autonomia do usuário no cuidado em saúde, garantindo participação ativa no próprio tratamento.",
+   "A transferência de responsabilidade para as famílias, atribuindo-lhes papel central na condução dos cuidados.",
+   "A articulação entre formação e serviços, promovendo uma educação permanente para profissionais da saúde.",
+   "A participação de profissionais e usuários nas ações de saúde junto a gestores, criando espaços de escuta e cogestão."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Política Nacional de Humanização (HumanizaSUS), Ministério da Saúde, 2003",
+  "coment": "A PNH, lançada em 2003, tem como princípios a transversalidade, a indissociabilidade entre atenção e gestão e o protagonismo, a corresponsabilidade e a autonomia dos sujeitos. Suas diretrizes incluem acolhimento, gestão participativa e cogestão, clínica ampliada, valorização do trabalhador e defesa dos direitos dos usuários, e ela aposta na formação e na educação permanente articuladas aos serviços. Corresponsabilidade não é transferir o cuidado para a família: o serviço continua responsável, e usuário e família participam das decisões. Por isso a alternativa C é a exceção.",
+  "porAlt": [
+   "Errada como exceção: a PNH inclui os gestores, ao lado de trabalhadores e usuários, como sujeitos da humanização.",
+   "Errada como exceção: autonomia e protagonismo do usuário são princípios da PNH.",
+   "Correta: transferir a responsabilidade do cuidado às famílias não é diretriz da PNH, que fala em corresponsabilidade com o serviço.",
+   "Errada como exceção: a PNH articula formação e serviço e apoia a educação permanente dos trabalhadores.",
+   "Errada como exceção: participação de trabalhadores e usuários com gestores, com escuta e cogestão, é diretriz central da PNH."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 24,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Estratégia de Saúde da Família (ESF) é uma orientação fundamental do oferecimento de atenção básica à população.\nAssinale a afirmativa que apresenta corretamente uma característica da ESF.",
+  "alts": [
+   "Prioriza a prevenção de enfermidades entre indivíduos saudáveis, responsáveis pela sustentação material da família.",
+   "É operacionalizada por equipes multiprofissionais que atendem um número definido de pessoas em um território.",
+   "Executa um serviço assistencial centralizado em unidades de saúde de grande porte estrategicamente posicionadas.",
+   "É orientada ao atendimento de coletividades em vez de indivíduos devido à natureza social de sua atuação.",
+   "Opera com equipes itinerantes de assistência social, que diminuem a necessidade de atendimento médico."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo",
+  "coment": "A Estratégia Saúde da Família é a estratégia prioritária de expansão e consolidação da Atenção Básica na PNAB. Ela é operada por equipe multiprofissional (no mínimo médico, enfermeiro, auxiliar ou técnico de enfermagem e agentes comunitários de saúde), responsável por uma população adscrita num território definido, com vínculo e cuidado longitudinal. A PNAB recomenda de 2.000 a 3.500 pessoas por equipe, conforme a vulnerabilidade do território. O cuidado é individual, familiar e comunitário, prestado em unidades próximas da população, e não em grandes centros.",
+  "porAlt": [
+   "Errada: a ESF atende toda a população adscrita, de todas as idades e condições, e não só os provedores saudáveis da família.",
+   "Correta: a ESF é operada por equipes multiprofissionais responsáveis por uma população adscrita num território definido.",
+   "Errada: a ESF é descentralizada e próxima do território, e não centralizada em unidades de grande porte.",
+   "Errada: a ESF cuida de indivíduos, famílias e comunidade, sem abandonar o atendimento individual.",
+   "Errada: as equipes da ESF são de saúde e fixas no território; a assistência social não substitui o atendimento clínico."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 25,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Política Nacional de Atenção Hospitalar (PNHOSP) define orientações para reestruturar a assistência hospitalar no SUS, com o objetivo de melhorar a qualidade dos cuidados e a eficiência na gestão.\nAs iniciativas listadas a seguir reorganizam e qualificam a atenção hospitalar de acordo com o disposto pela PNHOSP, à exceção de uma. Assinale-a.",
+  "alts": [
+   "A adoção de um sistema experimental de triagem por inteligência artificial para reduzir custos.",
+   "A adoção de protocolos clínicos para reduzir a variabilidade no padrão de tratamentos.",
+   "A instalação de um sistema de gestão de estoques para evitar desperdício de medicamentos.",
+   "A introdução da telemedicina nas unidades afastadas para permitir o acesso remoto a especialistas.",
+   "A mobilização de equipes multidisciplinares para fornecer acompanhamento contínuo aos pacientes."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 3.390/2013 (PNHOSP), consolidada na Portaria de Consolidação 2/2017",
+  "coment": "A PNHOSP organiza o hospital como ponto da Rede de Atenção à Saúde, com diretrizes de gestão da clínica, uso de protocolos e diretrizes clínicas baseadas em evidência, cuidado por equipe multiprofissional com horizontalização e uso racional de recursos, inclusive de medicamentos e insumos. Telessaúde e regulação ampliam o acesso a especialistas para unidades distantes. Um sistema experimental de triagem por inteligência artificial com o objetivo de reduzir custos não consta da política: a classificação de risco deve usar protocolos validados e ser feita por profissional, com foco na necessidade clínica.",
+  "porAlt": [
+   "Correta: triagem experimental por inteligência artificial voltada a cortar custos não é diretriz da PNHOSP, que exige protocolos validados.",
+   "Errada como exceção: protocolos clínicos que reduzem a variabilidade do cuidado fazem parte da gestão da clínica na PNHOSP.",
+   "Errada como exceção: a gestão de estoques evita desperdício e se alinha ao uso racional de recursos previsto na política.",
+   "Errada como exceção: telessaúde amplia o acesso a especialistas e qualifica a atenção hospitalar em locais afastados.",
+   "Errada como exceção: equipes multiprofissionais com acompanhamento contínuo correspondem ao cuidado horizontal previsto."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 26,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Resolução CNS nº 553/2017 estabelece os direitos e deveres da pessoa usuária da saúde, a serem observados por paciente e equipe no dia a dia da prestação de serviços.\nAssinale a opção que indica uma violação de um direito ou de um dever exposto na resolução.",
+  "alts": [
+   "Uma paciente faz uma reclamação formal sobre o atendimento e tem seu pedido encaminhado para análise.",
+   "Um paciente idoso chega com mal-estar a uma unidade de saúde sem documentação, mas é prontamente atendido.",
+   "Uma paciente consegue agendar um exame para dali a seis meses devido a critérios de prioridade clínica.",
+   "Um paciente não emergencial se irrita com o tempo médio de espera e ameaça agressivamente formalizar uma reclamação.",
+   "Uma paciente solicita um exame realizado há pouco tempo e tem o pedido negado devido a protocolos de periodicidade."
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CNS 553/2017 (Carta dos Direitos e Deveres da Pessoa Usuária da Saúde)",
+  "coment": "A Resolução CNS 553/2017 garante ao usuário acesso ordenado e organizado, atendimento sem discriminação mesmo sem documentos, prioridade por critério clínico e o direito de reclamar e ter a queixa analisada. Ela também traz deveres: a pessoa usuária deve adotar comportamento respeitoso e cordial com os demais usuários e com os trabalhadores do serviço. Ameaçar agressivamente a equipe por causa do tempo de espera viola esse dever. Reclamar é um direito; a forma agressiva é que configura a violação.",
+  "porAlt": [
+   "Errada: registrar reclamação e tê-la encaminhada para análise é exercício regular de um direito do usuário.",
+   "Errada: atender prontamente o idoso sem documentação cumpre a carta, que veda negar atendimento por falta de documento.",
+   "Errada: agendar conforme prioridade clínica é acesso ordenado e organizado, compatível com a resolução.",
+   "Correta: ameaçar agressivamente a equipe viola o dever de comportamento respeitoso e cordial previsto na carta.",
+   "Errada: negar exame repetido conforme protocolo de periodicidade é uso racional de recurso, e não violação de direito."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 27,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "As Redes de Atenção à Saúde (RAS) são estruturas organizacionais projetadas para superar a fragmentação dos serviços de saúde.\nSobre o tema, avalie os itens a seguir.\nI. Os serviços são organizados de maneira hierárquica, com funções definidas e de acordo com a complexidade dos casos.\nII. As RAS podem ser estruturadas de maneira temática, especializando-se no atendimento de um grupo populacional específico.\nIII. O paciente mantém um vínculo com a rede, estendendo seu tratamento ao longo do tempo, em vez de ser atendido de maneira pontual.\nEstá correto o que se afirma em",
+  "alts": [
+   "III, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 4.279/2010 (RAS), consolidada na Portaria de Consolidação 3/2017; Constituição Federal de 1988, art. 198",
+  "coment": "A banca aceitou os três itens. As RAS organizam pontos de atenção de diferentes densidades tecnológicas, com funções definidas, podem ser temáticas (Rede Alyne, que substituiu a Rede Cegonha pela Portaria GM/MS 5.350/2024, urgência, psicossocial, pessoa com deficiência, crônicas) e garantem cuidado contínuo e longitudinal. O item I é o ponto sensível: a CF, art. 198, fala em rede regionalizada e hierarquizada, mas a Portaria 4.279/2010 descreve a RAS como poliárquica e horizontal, sem hierarquia de importância entre os pontos, que só diferem em densidade tecnológica.",
+  "porAlt": [
+   "Errada: os itens I e II também foram aceitos pela banca.",
+   "Errada: o item III é verdadeiro, pois a continuidade do cuidado é atributo essencial das RAS.",
+   "Errada: o item II é verdadeiro; as redes temáticas são a forma de implantação das RAS no SUS.",
+   "Errada para a banca: ela aceitou também o item I, apoiada na rede regionalizada e hierarquizada da CF, art. 198.",
+   "Correta: a banca aceitou os três itens; note que a Portaria 4.279/2010 prefere falar em rede poliárquica, por densidade tecnológica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 28,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Norma Operacional Básica de Recursos Humanos estabelece que, para a atenção à saúde do trabalhador do SUS, devem ser obedecidos os mesmos princípios do Sistema Único de Saúde.\nA esse respeito, estabeleça a relação entre os princípios listados a seguir e as iniciativas que exemplificam sua aplicação.\n1. Universalidade\n2. Promoção da Saúde\n3. Integralidade da Atenção\n( ) Programas de incentivo para redução do tabagismo, com campanhas de conscientização sobre os danos do cigarro e medidas de apoio para os que desejam parar de fumar.\n( ) Inclusão de todos os profissionais da saúde, independentemente de sua forma de contratação, em campanhas nacionais de vacinação prioritária para reduzir riscos de exposição.\n( ) Inspeções conjuntas do SUS e do Ministério do Trabalho e Previdência (MTP) para avaliar condições de trabalho, uso adequado de Equipamentos de Proteção Individual e cumprimento das normas de segurança.\nA relação correta, na ordem apresentada, é",
+  "alts": [
+   "3 – 2 – 1.",
+   "2 – 1 – 3.",
+   "2 – 3 – 1.",
+   "3 – 1 – 2.",
+   "1 – 3 – 2."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NOB/RH-SUS, Resolução CNS 330/2003; Lei 8.080/1990, art. 7º",
+  "coment": "A NOB/RH-SUS manda aplicar à saúde do trabalhador do SUS os mesmos princípios do sistema. Campanha contra o tabagismo, com conscientização e apoio para parar de fumar, é promoção da saúde (2). Incluir todos os profissionais na vacinação prioritária, qualquer que seja o vínculo, é universalidade, pois ninguém fica de fora por tipo de contrato (1). Inspeções conjuntas SUS e Ministério do Trabalho sobre condições de trabalho, EPI e normas de segurança articulam vigilância, prevenção e proteção, o que expressa a integralidade da atenção (3). Sequência 2, 1, 3.",
+  "porAlt": [
+   "Errada: a campanha contra o tabagismo é promoção da saúde, e não integralidade.",
+   "Correta: tabagismo é promoção (2), vacinação de todos os vínculos é universalidade (1) e inspeção conjunta é integralidade (3).",
+   "Errada: a inclusão de todos os profissionais na vacinação, sem distinção de vínculo, expressa universalidade.",
+   "Errada: a campanha antitabagismo é promoção e a inspeção conjunta, que articula vigilância e proteção, é integralidade.",
+   "Errada: a campanha antitabagismo não é universalidade, e a vacinação de todos os vínculos não é integralidade."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 29,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Com relação às orientações da Política Nacional de Saúde Integral da População Negra, avalie as afirmativas a seguir.\nI. Incluir o quesito cor no levantamento de informações relativas à saúde da população e no estabelecimento de iniciativas e metas.\nII. Substituir as práticas populares e religiosas de cuidado e saúde por técnicas e protocolos de medicina avançada e baseada em evidências.\nIII. Ampliar a participação de movimentos sociais organizados nas instâncias de controle social do sistema de saúde.\nEstá em consonância com a Política Nacional de Saúde Integral da População Negra o que se indica em",
+  "alts": [
+   "III, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 992/2009 (Política Nacional de Saúde Integral da População Negra)",
+  "coment": "A PNSIPN reconhece o racismo como determinante social da saúde. Entre suas diretrizes e estratégias estão incluir e qualificar o quesito raça/cor nos sistemas de informação, para orientar metas e ações, e ampliar a participação do movimento negro e de outros movimentos sociais nas instâncias de controle social. A política valoriza e reconhece os saberes e práticas populares de saúde, inclusive os das religiões de matriz africana, e não propõe substituí-los. Por isso estão corretos os itens I e III.",
+  "porAlt": [
+   "Errada: o item I também está correto, pois o quesito cor é estratégia central da política.",
+   "Errada: o item II contraria a PNSIPN, que valoriza os saberes populares e religiosos de cuidado.",
+   "Correta: a política prevê o quesito cor na informação em saúde e a participação dos movimentos sociais no controle social.",
+   "Errada: o item II é incompatível com a política, que reconhece as práticas tradicionais em vez de substituí-las.",
+   "Errada: o item II não está em consonância com a PNSIPN."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 30,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Um dos recursos de proteção contra infecções é a imunização por meio de vacinas. No Brasil, o Ministério da Saúde disponibiliza uma ampla cartela de imunizantes pelo Programa Nacional de Imunização (PNI). Ao receber as pessoas na sala de vacina, o profissional precisa estar atento ao calendário e à caderneta e/ou ao cartão de vacinação do usuário, para que possa avaliar corretamente quais vacinas e doses devem ser administradas.\nNesse sentido, na avaliação da administração da vacina rotavírus humano G1P [8] (atenuada) – VRH, para uma criança com quatro meses de idade, é correto afirmar que",
+  "alts": [
+   "essa criança pode tomar a 2ª dose da vacina, pois na avaliação da caderneta verificou-se que ela tomou a 1ª dose aos dois meses de idade.",
+   "se, na administração da 2ª dose, a criança cuspir, será necessário reaplicar a dose.",
+   "essa vacina é a única que pode ser administrada diante de quadro agudo de gastroenterite, pois ela atua para a resolução desse tipo de quadro.",
+   "essa vacina só pode ser administrada a partir dos seis meses de idade.",
+   "essa vacina não faz parte do calendário, sendo administrada apenas quando há surtos."
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), vacina rotavírus humano G1P[8]",
+  "coment": "A VRH é oral, em duas doses, aos 2 e 4 meses, com intervalo preferencial de 60 dias (mínimo de 30 em situações excepcionais). A criança de 4 meses que tomou a 1ª dose aos 2 meses está na idade certa para a 2ª. A IN 2026 ampliou os limites: 1ª dose de 1 mês e 15 dias até 11 meses e 29 dias; 2ª dose de 3 meses e 15 dias até 23 meses e 29 dias. Se a criança regurgitar, cuspir ou vomitar após a vacina, não se repete a dose. Diante de gastroenterite aguda, a vacinação é adiada até a resolução do quadro.",
+  "porAlt": [
+   "Correta: com a 1ª dose aos 2 meses, a criança de 4 meses deve receber a 2ª dose, conforme o esquema básico.",
+   "Errada: se a criança cuspir, regurgitar ou vomitar após a vacina, a dose não deve ser repetida.",
+   "Errada: a gastroenterite aguda é motivo para adiar a vacina, que é preventiva e não trata o quadro.",
+   "Errada: o esquema começa aos 2 meses, e a 1ª dose já pode ser dada a partir de 1 mês e 15 dias.",
+   "Errada: a VRH faz parte do calendário de rotina da criança, com doses aos 2 e 4 meses."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Do conjunto de ações que formam a vigilância em saúde, a vigilância epidemiológica desempenha um papel crucial no monitoramento de enfermidades que podem acometer a população, a exemplo de doenças transmissíveis e epidemias. A influenza sazonal é uma infecção viral aguda do sistema respiratório, que apresenta alta transmissibilidade.\nA respeito dessa doença, avalie as afirmativas a seguir.\nI. Entre os sintomas da síndrome gripal estão a tosse seca, a mialgia e a prostração.\nII. Pelo risco de complicações respiratórias, a vacina influenza trivalente, disponível nos serviços públicos de vacinação, é indicada para crianças a partir do primeiro mês de vida até cinco anos, e também para gestantes.\nIII. No contexto da Vigilância Sentinela da Influenza, a síndrome gripal se caracteriza por indivíduo com febre, mesmo que referida, acompanhada de tosse ou dor de garganta e com início dos sintomas nos últimos sete dias.\nIV. No caso dos vírus respiratórios como o vírus influenza, são feitas coletas “aleatórias” de amostras clínicas de pacientes com síndrome gripal.\nEstão corretas apenas as afirmativas",
+  "alts": [
+   "I, II e IV.",
+   "II e IV.",
+   "I, II e III.",
+   "I, III e IV.",
+   "I e II."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS); Nota Técnica 11/2026-CGCOVID/DEDT/SVSA/MS (vigilância sentinela de SG)",
+  "coment": "Tosse seca, mialgia e prostração são típicas da síndrome gripal (I). Na vigilância sentinela da influenza, SG é febre, mesmo que referida, acompanhada de tosse ou dor de garganta, com início nos últimos 7 dias (III); a Nota Técnica 11/2026 manteve inalterado o registro da vigilância sentinela. Nas unidades sentinela coletam-se amostras de forma aleatória, por amostragem semanal, de casos de SG (IV). O item II é falso: a IN 2026 indica a vacina influenza trivalente para crianças de 6 meses a 5 anos, 11 meses e 29 dias, além de gestantes e idosos, e não a partir do primeiro mês.",
+  "porAlt": [
+   "Errada: inclui o item II, que antecipa indevidamente a vacina para o primeiro mês de vida.",
+   "Errada: o item II é falso e o item I, verdadeiro, ficou de fora.",
+   "Errada: o item II é falso, pois a vacina influenza começa aos 6 meses de idade.",
+   "Correta: os itens I, III e IV descrevem bem a síndrome gripal e a vigilância sentinela; o II erra a idade inicial da vacina.",
+   "Errada: o item II é falso e faltam os itens III e IV, que são verdadeiros."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Centro de Atenção Psicossocial (CAPS) é um dos serviços de referência para o cuidado com as pessoas que têm Transtornos do Espectro do Autismo (TEA). Como parte da equipe de profissionais de saúde, o enfermeiro desenvolve ações de cuidado com as pessoas que têm TEA e suas famílias.\nSobre esse tema, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Um Projeto Terapêutico Singular (PTS), voltado à pessoa com TEA, deve considerar ações que estimulem a sua autonomia e independência cotidiana.\n( ) Entre as tecnologias recomendadas no cuidado com as pessoas que têm TEA, a enfermeira pode aplicar a comunicação suplementar e alternativa, tais como gestos, símbolos e figuras.\n( ) No caso de pessoas com TEA, o PTS deve ser construído com a família, sem a participação da pessoa com TEA, pois o processo de construção pode acarretar crises dissociativas.\n( ) No caso de a pessoa com TEA usar psicofármacos, a enfermeira deve incluir no planejamento e nas ações de cuidado a orientação sobre os efeitos colaterais e, se for o caso, ajudar na escolha dos melhores horários para o uso dos medicamentos.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – V – V – F.",
+   "V – V – F – V.",
+   "F – F – V – V.",
+   "V – F – F – V.",
+   "F – V – V – F."
+  ],
+  "gab": 1,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Linha de Cuidado para a Atenção às Pessoas com Transtornos do Espectro do Autismo e suas Famílias na RAPS (MS, 2015); Lei 12.764/2012",
+  "coment": "O Projeto Terapêutico Singular para a pessoa com TEA deve promover autonomia e independência nas atividades da vida diária (V). A comunicação suplementar e alternativa, com gestos, símbolos e figuras, é recomendada e pode ser usada pela enfermagem (V). O PTS é construído com a pessoa e a família, e não sem a participação de quem será cuidado; excluí-la contraria o princípio da singularidade e a Lei 12.764/2012 (F). Quando há psicofármacos, a enfermagem orienta efeitos colaterais e ajuda a ajustar horários à rotina (V). Sequência V, V, F, V.",
+  "porAlt": [
+   "Errada: o terceiro item é falso, porque o PTS se constrói com a pessoa com TEA, e o quarto é verdadeiro.",
+   "Correta: só é falso excluir a pessoa com TEA da construção do PTS; os demais itens estão de acordo com a linha de cuidado.",
+   "Errada: os dois primeiros itens são verdadeiros, e o terceiro é falso.",
+   "Errada: a comunicação suplementar e alternativa é recomendada, logo o segundo item é verdadeiro.",
+   "Errada: o primeiro item é verdadeiro, o terceiro é falso e o quarto é verdadeiro."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A saúde é um conceito complexo que envolve diferentes dimensões que se inter-relacionam: biológicas, psicológicas e sociais. A promoção da saúde integral abrange a compreensão do funcionamento da Rede de Atenção Psicossocial (RAPS) e o domínio sobre os transtornos e cuidados voltados à saúde mental.\nSobre o atendimento e o cuidado com as pessoas em relação à saúde mental, avalie os procedimentos a seguir.\nI. De acordo com o protocolo clínico e as diretrizes terapêuticas do Transtorno Afetivo Bipolar do tipo I (TAB), do Ministério da Saúde (2016), o TAB é um transtorno de humor e é uma doença crônica que compromete a qualidade de vida do paciente. Entre as intervenções psicossociais que fazem parte da reabilitação do paciente, o enfermeiro deve incluir no atendimento: a discussão dos sinais precoces de recaída, as medidas a serem tomadas nessa situação e o ensino de técnicas de controle do estresse.\nII. Um paciente com Transtorno Esquizoafetivo está em tratamento medicamentoso com Risperidona, em doses de 3 mg, duas vezes ao dia. O frasco disponível na farmácia tem 30 mL com 1 mg/mL. Para o período de 30 dias, a enfermeira explicou ao paciente que ele precisará de seis frascos.\nIII. No atendimento ao paciente em sofrimento psíquico e a seu familiar, a enfermeira aplicou a Teoria das Relações Interpessoais de Hildegard Peplau, em suas quatro fases. Na segunda fase, que trata da identificação, ela selecionou a assistência profissional aplicada ao caso.\nIV. De acordo com o Instrutivo Técnico da RAPS do SUS (2022), os leitos em hospitais especializados em psiquiatria (hospitais psiquiátricos) devem atender a crises e agudizações, em internações de curta permanência (inferior a 90 dias), excluindo-se as situações de urgência/emergência relativas ao consumo ou abstinência de álcool, crack e outras drogas, pois para tais situações os pacientes devem ser encaminhados para os leitos de Unidades de Referência Especializada em Hospital Geral.\nOs procedimentos corretos são apenas",
+  "alts": [
+   "II, III e IV.",
+   "II e III.",
+   "I, II e III.",
+   "II e IV.",
+   "I, II e IV."
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "PCDT do Transtorno Afetivo Bipolar do Tipo I (MS, 2016); Peplau, Interpersonal Relations in Nursing (1952)",
+  "coment": "I: o PCDT do TAB inclui, na reabilitação, discutir sinais precoces de recaída, o que fazer nesse caso e técnicas de manejo do estresse. II: 3 mg duas vezes ao dia são 6 mg/dia, isto é, 6 mL/dia de solução a 1 mg/mL; em 30 dias, 180 mL, ou seis frascos de 30 mL. III: Peplau descreve orientação, identificação, exploração e resolução; na identificação, o paciente se liga aos profissionais que podem ajudá-lo e se seleciona a assistência adequada. A banca julgou o IV incorreto. Como I, II e III estão certos, só resta a alternativa C.",
+  "porAlt": [
+   "Errada: o item I está correto e o IV foi julgado incorreto pela banca.",
+   "Errada: falta o item I, que reproduz corretamente as intervenções psicossociais do PCDT do TAB.",
+   "Correta: os itens I, II (6 mg/dia por 30 dias exigem 180 mL, seis frascos) e III estão corretos.",
+   "Errada: os itens I e III estão corretos, e o IV não foi aceito pela banca.",
+   "Errada: o item III está correto, e o IV foi considerado incorreto."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na consulta de enfermagem à criança, o acompanhamento dos sinais vitais e do crescimento e desenvolvimento são feitos seguindo-se as recomendações do Ministério da Saúde, com registros na Caderneta da Criança.\nSobre os procedimentos relativos a esses acompanhamentos, é correto afirmar que",
+  "alts": [
+   "o Índice de Massa Corporal (IMC) em crianças deve ser medido por meio do peso em quilograma (kg) dividido pelo valor da estatura em metros (m), expresso na seguinte fórmula: IMC = peso/estatura.",
+   "nas consultas de rotina, a medida da pressão arterial é obrigatória apenas a partir dos 5 anos de idade, tanto para meninas como para meninos.",
+   "na aferição do peso de crianças menores de 2 anos em balança pediátrica eletrônica (digital), a criança deve estar obrigatoriamente despida e deitada, pois se ela for posta sentada a precisão da medição fica comprometida.",
+   "a medida do perímetro cefálico deve ser aferida desde o nascimento e até o primeiro ano de vida e, a partir dessa idade, torna-se obrigatória apenas na presença de diagnóstico de microcefalia.",
+   "crianças menores de 2 anos devem ser medidas deitadas (comprimento); crianças com 2 anos ou mais devem ser medidas em pé (estatura)."
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Cadernos de Atenção Básica nº 33, Saúde da Criança: crescimento e desenvolvimento (MS, 2012); Norma Técnica do SISVAN para coleta de dados antropométricos (MS, 2011)",
+  "coment": "Até 2 anos incompletos mede-se o comprimento com a criança deitada, no antropômetro horizontal; a partir de 2 anos, a estatura em pé. O IMC é o peso em quilos dividido pela estatura em metros ao quadrado, e não pela estatura simples. A pressão arterial entra na rotina a partir dos 3 anos, segundo o CAB 33. Na balança pediátrica, a criança menor de 2 anos é pesada despida, deitada ou sentada. O perímetro cefálico é acompanhado na Caderneta da Criança até os 2 anos, e não só no primeiro ano.",
+  "porAlt": [
+   "Errada: o IMC é o peso dividido pela estatura ao quadrado (kg/m²), e não pela estatura simples.",
+   "Errada: a aferição da pressão arterial na consulta de rotina começa aos 3 anos, e não aos 5.",
+   "Errada: na balança pediátrica a criança pode ser pesada deitada ou sentada, desde que despida.",
+   "Errada: o perímetro cefálico é medido e registrado até os 2 anos, e não só no primeiro ano.",
+   "Correta: abaixo de 2 anos mede-se o comprimento deitado; a partir de 2 anos, a estatura em pé."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na assistência de enfermagem à gestante, o enfermeiro precisa estar atento à própria gestante, às pessoas que a acompanham e ao ambiente, de modo a oferecer um momento seguro e acolhedor. Espera-se que a experiência da mulher e de sua família seja a melhor possível e que o processo transcorra sem intercorrências.\nEm relação ao conjunto de atividades inerentes ao cuidado com a mulher gestante para que haja uma boa vivência do parto vaginal, é correto afirmar que",
+  "alts": [
+   "sobre a assepsia para o parto vaginal, havendo necessidade de limpeza vulvar e perineal antes do exame vaginal, deve-se evitar água potável e optar por água estéril para evitar contaminação, caso haja necessidade de episiotomia.",
+   "a assepsia indicada para o parto vaginal é recomendada com higiene padrão das mãos e uso de luvas necessariamente estéreis para reduzir a contaminação cruzada entre as mulheres, as crianças e os profissionais.",
+   "caso opte por receber massagem que tenha sido ensinada a(os) seu(s) acompanhante(s), a mulher deve ser apoiada nesta opção durante o trabalho de parto.",
+   "acupuntura é uma técnica não farmacológica contraindicada às mulheres durante o trabalho de parto.",
+   "a dieta durante o trabalho de parto envolve o jejum, inclusive de líquidos."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Parto e nascimento",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes Nacionais de Assistência ao Parto Normal (MS/CONITEC, 2017)",
+  "coment": "A diretriz nacional recomenda apoiar a mulher que escolhe receber massagem feita por acompanhante treinado, como medida não farmacológica de alívio da dor. Se for preciso limpar vulva e períneo antes do toque, usa-se água potável, e não estéril. A assepsia do parto vaginal se faz com higiene padrão das mãos e luvas únicas, não necessariamente estéreis. A acupuntura pode ser oferecida à mulher que deseja, se houver profissional habilitado. Mulheres de baixo risco podem ingerir líquidos e dieta leve durante o trabalho de parto, sem jejum de rotina.",
+  "porAlt": [
+   "Errada: a diretriz indica água potável para a limpeza vulvar e perineal, sem necessidade de água estéril.",
+   "Errada: bastam higiene padrão das mãos e luvas únicas, que não precisam ser necessariamente estéreis.",
+   "Correta: a massagem ensinada ao acompanhante é recomendada e a escolha da mulher deve ser apoiada.",
+   "Errada: a acupuntura não é contraindicada; pode ser oferecida quando há profissional habilitado.",
+   "Errada: o jejum de rotina não é recomendado; a parturiente de baixo risco pode tomar líquidos e comer leve."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O aleitamento materno é uma estratégia eficaz para a redução da morbimortalidade infantil. No atendimento do binômio mãe-bebê, o enfermeiro assume um papel importante, com protagonismo e autonomia na consulta ao realizar o processo de enfermagem e dar enfoque ao aleitamento.\nSobre a consulta de enfermagem à mulher em fase de amamentação, avalie se as seguintes orientações devem constar do plano de cuidados:\nI. não há comprovação de que alguma comida ou bebida que a mãe ingira possa causar cólicas no bebê;\nII. o descanso influencia na produção de leite da mulher;\nIII. caso o bebê não consiga sugar a mama, o enfermeiro deve ensinar à mãe a técnica de retirada do leite do peito com as mãos ou com uma bomba, para oferecer ao bebê na colher;\nIV. a chupeta pode ser utilizada porque não influencia na tendência da criança em mamar por mais ou menos tempo.\nEstão corretas as orientações",
+  "alts": [
+   "I, II e III.",
+   "II e IV, apenas.",
+   "III e IV, apenas.",
+   "II e III, apenas.",
+   "I e II, apenas."
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Puerpério e aleitamento",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Cadernos de Atenção Básica nº 23, Saúde da Criança: aleitamento materno e alimentação complementar (MS, 2. ed., 2015)",
+  "coment": "O CAB 23 orienta a nutriz de que não há comprovação de que alimentos ou bebidas da mãe causem cólicas no bebê, sem dietas restritivas de rotina (I). Descanso e apoio à mulher favorecem a produção e a ejeção do leite (II). Se o bebê não consegue sugar, a mãe aprende a ordenha manual ou com bomba e oferece o leite em copinho ou colher, mantendo a lactação (III). O uso de chupeta associa-se a menor duração do aleitamento e confusão de bicos, e é desaconselhado (IV falso). Corretas I, II e III.",
+  "porAlt": [
+   "Correta: as orientações I, II e III constam do manejo do aleitamento; a chupeta é desaconselhada.",
+   "Errada: o item IV é falso, porque a chupeta reduz a duração da amamentação.",
+   "Errada: o item IV é falso e faltam os itens I e II, que são verdadeiros.",
+   "Errada: o item I também é correto, pois não há prova de que a dieta materna cause cólica.",
+   "Errada: o item III também está correto, pois a ordenha mantém a oferta de leite materno."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Há métodos diagnósticos que devem ser feitos no período da consulta para possibilitar decisões rápidas e seguras que conduzam à feitura de um plano terapêutico e de cuidados adequados à situação clínica do usuário.\nNo atendimento de enfermagem, a enfermeira se deparou com a seguinte situação: F.L.Z., 35 anos, sexo masculino, solteiro, bissexual. Relatou ter mantido relação sexual casual com outro homem, de forma desprotegida, há pouco mais de 48 horas. Compareceu ao serviço de saúde para solicitar a PEP (Profilaxia Pós-Exposição), pois conhece várias pessoas que a usam para reduzir o risco de se infectar com alguma IST (Infecção Sexualmente Transmissível) e/ou com o vírus da Aids. No âmbito da consulta, a enfermeira forneceu algumas explicações para dar ampla ciência sobre seu caso e sobre o atendimento.\nCom base nesse histórico e no tema tratado, avalie as afirmativas a seguir.\nI. Ainda que esteja disponível, no caso de F.L.Z. não está indicado o uso de PEP, pois este tipo de profilaxia deve ser instituído em até 48 horas após a exposição.\nII. A decisão pelo uso da PEP dependerá do status sorológico para HIV, a ser avaliado por meio de testes rápidos (TRs).\nIII. Para uma pessoa com a história de F.L.Z., que compareça à unidade de saúde dentro da janela de tempo prevista no protocolo do Ministério da Saúde (MS) e cujo teste rápido é não reagente para o HIV no momento do atendimento, a PEP está indicada.\nIV. Pelo histórico apresentado e pelo fato de a relação sexual ter sido casual, o tipo de profilaxia indicada é a PrEP (Profilaxia Pré-Exposição) a ser aplicada por sete dias consecutivos, a contar do dia da consulta.\nAs afirmativas a serem consideradas no atendimento do usuário F.L.Z. são",
+  "alts": [
+   "I, II e IV.",
+   "I e IV, apenas.",
+   "II e IV, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "HIV e aids",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "PCDT para Profilaxia Pós-Exposição (PEP) de Risco à Infecção pelo HIV, IST e Hepatites Virais (MS, 2024)",
+  "coment": "A PEP deve começar o quanto antes, idealmente nas primeiras 2 horas, e no máximo em até 72 horas após a exposição, por 28 dias. Com pouco mais de 48 horas, F.L.Z. está dentro da janela, por isso o item I é falso. A indicação depende do status sorológico da pessoa exposta, avaliado com teste rápido; se não reagente e a exposição for de risco dentro do prazo, a PEP está indicada (II e III). O item IV confunde as estratégias: PrEP é uso contínuo antes da exposição, e não esquema de sete dias após a relação.",
+  "porAlt": [
+   "Errada: o prazo da PEP é de até 72 horas, e o item IV confunde PEP com PrEP.",
+   "Errada: os itens I e IV são falsos; o paciente está dentro das 72 horas e PrEP não é esquema pós-exposição.",
+   "Errada: o item IV é falso, porque a PrEP é profilaxia contínua antes da exposição.",
+   "Errada: o item I é falso, pois a PEP pode ser iniciada em até 72 horas.",
+   "Correta: a decisão depende do teste rápido e, com resultado não reagente dentro de 72 horas, a PEP está indicada."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Alterações no clima do planeta têm sido um tema preocupante e vêm ocupando as agendas dos líderes mundiais e de vários segmentos sociais. Esses eventos ameaçam a vida e geram múltiplos problemas, mobilizando debates para a proposição de políticas e programas, em especial na saúde pública. Grandes enchentes e ondas de calor são consequências atribuídas às alterações climáticas. Nessas situações, problemas de saúde física e mental são pontos de atenção dos governantes e dos profissionais de saúde.\nPara o caso de eventos que envolvam alterações climáticas, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) A leptospirose é uma doença infecciosa preocupante, pois a lama de enchentes tem alto poder infectante. A transmissão se dá por meio da exposição à urina de animais infectados quando a pessoa possui lesões na pele. Com a pele íntegra não há risco de infecção.\n( ) Para evitar o tétano acidental, a pessoa deve acessar os lugares acometidos por enchentes usando botas e luvas. Em caso de ferimento durante ou após uma enchente, deve-se verificar a data da última dose da vacina e, se for necessário, procurar o serviço de saúde/profissional de saúde para avaliar a necessidade de reforço.\n( ) Ondas de calor são eventos cada vez mais frequentes e a intensa exposição ao sol pode causar problemas de variados graus de gravidade. Uma pessoa com transpiração, fraqueza, tonturas, desmaios, náuseas, dor de cabeça, cãibras musculares e diarreias pode estar sofrendo de exaustão térmica. No caso de insolação, entre as medidas de primeiros socorros estão a aplicação de compressas de água fria na testa, pescoço, axilas e virilhas e, se possível, deve-se borrifar delicadamente água fria em todo o corpo da pessoa.\n( ) No atendimento na unidade de saúde de um paciente de 25 anos, sexo masculino, que enfrentou uma enchente em casa e apresenta doença diarreica aguda, deve-se fazer a avaliação do estado de hidratação do paciente. Constatada a desidratação, deve-se administrar continuamente a solução de sais de reidratação oral, até que desapareçam os sinais de desidratação. No plano de educação em saúde devem constar as medidas de higiene pessoal, domiciliar e dos alimentos.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – F – V.",
+   "V – F – V – F.",
+   "F – V – F – F.",
+   "F – V – V – V.",
+   "V – F – F – V."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária, ambiental e do trabalhador",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Guia de Vigilância em Saúde (MS, 6. ed., 2023), capítulos de leptospirose, tétano acidental e doenças diarreicas agudas",
+  "coment": "O primeiro item é falso: a leptospira penetra por pele lesada, mucosas e também pela pele íntegra imersa por tempo prolongado em água ou lama contaminadas. O segundo é verdadeiro: botas e luvas protegem, e diante de ferimento verifica-se a situação vacinal para decidir reforço. O terceiro descreve a exaustão térmica e o resfriamento na insolação. O quarto é verdadeiro: no adulto com diarreia e desidratação, o plano B prevê sais de reidratação oral de forma contínua até sumirem os sinais, com educação sobre higiene da água, dos alimentos e pessoal. Sequência F, V, V, V.",
+  "porAlt": [
+   "Errada: o terceiro item é verdadeiro, pois descreve corretamente a exaustão térmica e o resfriamento na insolação.",
+   "Errada: o primeiro item é falso, já que a leptospira também penetra a pele íntegra imersa por longo tempo.",
+   "Errada: os dois últimos itens, sobre calor e reidratação oral, são verdadeiros.",
+   "Correta: só é falso dizer que a pele íntegra impede a infecção pela leptospira.",
+   "Errada: o primeiro item é falso e o segundo, sobre botas, luvas e reforço vacinal, é verdadeiro."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre os objetivos e atribuições do Sistema Único de Saúde (SUS), conforme estabelecido pela Lei Orgânica de Saúde (LOS), avalie as afirmativas a seguir.\nI. Compete ao SUS a fiscalização e a inspeção de alimentos para consumo humano, exceto o de água e bebidas, pois esta fiscalização é de responsabilidade de outro sistema.\nII. Entre os objetivos do SUS está a assistência às pessoas por intermédio de ações de promoção, proteção e recuperação da saúde, com a realização integrada das ações assistenciais e das atividades preventivas.\nIII. O campo de atuação do SUS inclui a execução de ações de vigilância sanitária, de vigilância epidemiológica, de saúde do trabalhador, de assistência terapêutica integral, inclusive farmacêutica, e de saúde bucal.\nIV. Compete ao SUS a formulação da política de medicamentos, equipamentos, imunobiológicos e outros insumos de interesse para a saúde e a participação na sua produção.\nEstão corretas apenas as afirmativas",
+  "alts": [
+   "I e II.",
+   "I e III.",
+   "II, III e IV.",
+   "I, II e III.",
+   "I, III e IV."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, arts. 5º e 6º (alterada pela Lei 14.572/2023, que incluiu a saúde bucal)",
+  "coment": "Pela Lei 8.080/1990, art. 5º, III, é objetivo do SUS a assistência por ações de promoção, proteção e recuperação da saúde, integrando assistência e prevenção (II). O art. 6º, I, inclui no campo de atuação a vigilância sanitária e epidemiológica, a saúde do trabalhador, a assistência terapêutica integral, inclusive farmacêutica, e a saúde bucal, acrescentada pela Lei 14.572/2023 (III). O inciso VI atribui ao SUS a política de medicamentos, equipamentos e imunobiológicos e a participação na produção (IV). O item I é falso: o inciso VIII inclui a fiscalização de alimentos, água e bebidas.",
+  "porAlt": [
+   "Errada: o item I é falso, pois a fiscalização de água e bebidas também compete ao SUS.",
+   "Errada: o item I é falso e o IV, verdadeiro, ficou de fora.",
+   "Correta: os itens II, III e IV reproduzem os arts. 5º e 6º da Lei 8.080/1990.",
+   "Errada: inclui o item I, que exclui indevidamente água e bebidas da fiscalização do SUS.",
+   "Errada: o item I é falso e o II, que traz um objetivo do SUS, é verdadeiro."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Auditoria em enfermagem é a avaliação sistemática da qualidade da assistência em enfermagem, verificada por intermédio das anotações no prontuário do paciente e/ou das próprias condições do prontuário. A auditoria surge como a fase final do processo de planejamento da assistência de enfermagem, que é imprescindível à prestação de uma assistência adequada e de qualidade ao indivíduo.\nSobre os tipos de auditoria, assinale a afirmativa correta.",
+  "alts": [
+   "Auditoria operacional é feita em 10% dos prontuários de uma instituição para buscar dados que não foram anotados durante a realização da auditoria retrospectiva.",
+   "Auditoria retrospectiva é feita após a alta do paciente, em que se utiliza o prontuário para avaliação, portanto, os dados obtidos não beneficiarão aquele paciente diretamente, mas para auxiliarão na assistência de maneira global.",
+   "Auditoria concorrente é feita em 50% dos prontuários de uma instituição para buscar dados que não foram anotados quando foi realizada a auditoria retrospectiva.",
+   "Auditoria operacional é feita em 50% dos prontuários de uma instituição para buscar dados que não foram anotados durante a realização da auditoria retrospectiva e dispensa a realização de um plano auditorial.",
+   "Auditoria retrospectiva dispensa a realização de um plano auditorial e a elaboração de um relatório final, pois essas exigências são feitas apenas para a auditoria concorrente ou operacional."
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Auditoria, custos e recursos materiais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "KURCGANT, P. Administração em enfermagem (EPU, 1991), capítulo de auditoria",
+  "coment": "Na classificação clássica da auditoria de enfermagem, a auditoria retrospectiva é feita após a alta, sobre o prontuário: os achados não beneficiam aquele paciente, mas orientam a melhoria da assistência como um todo. A auditoria operacional ou concorrente é feita durante a internação, com o paciente ainda no serviço, e permite corrigir falhas em tempo real. Não há percentual fixo de 10% ou 50% de prontuários que defina esses tipos, e todo tipo de auditoria exige plano auditorial e relatório final. O erro de digitação na alternativa B (para auxiliarão) é do caderno original.",
+  "porAlt": [
+   "Errada: a auditoria operacional é feita durante a internação e não se define por um percentual de 10% dos prontuários.",
+   "Correta: a retrospectiva é feita após a alta, sobre o prontuário, e beneficia a assistência de forma global.",
+   "Errada: a auditoria concorrente ocorre com o paciente internado e não se define por 50% dos prontuários.",
+   "Errada: nenhuma auditoria dispensa plano auditorial, e o percentual de 50% não define o tipo.",
+   "Errada: a auditoria retrospectiva também exige planejamento e relatório final."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O traumatismo cranioencefálico pode provocar condições que variam desde uma concussão leve até o coma e a morte. Sua forma mais grave é conhecida como lesão cerebral traumática (LCT). As causas mais comuns de LCT são as quedas, os acidentes com veículos motorizados, a colisão de objetos e os assaltos.\nSobre a assistência do enfermeiro ao paciente com traumatismo cranioencefálico, é correto afirmar que",
+  "alts": [
+   "uma leitura da Escala de Coma de Glasgow entre 3 e 8 é considerada como indicativa de traumatismo cranioencefálico grave, sendo recomendada a intubação orotraqueal.",
+   "a Escala de Coma de RASS serve de guia para avaliar o nível de consciência do paciente com base em três critérios: abertura dos olhos, respostas verbais e respostas motoras.",
+   "a Escala de Coma de Ramsay serve de guia para avaliar o nível de consciência do paciente com base em três critérios: abertura dos olhos, respostas verbais e respostas motoras.",
+   "na Escala de Coma de Glasgow, para avaliar o nível de consciência do paciente, um escore de 15 é menos responsivo, enquanto um escore de 3 é mais responsivo.",
+   "na Escala de Coma de RASS, para avaliar o nível de consciência do paciente, um escore de 15 é menos responsivo, enquanto um escore de 3 é mais responsivo."
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "ATLS, 10. ed. (American College of Surgeons, 2018); Escala de Coma de Glasgow (Teasdale e Jennett, 1974)",
+  "coment": "A Escala de Coma de Glasgow avalia abertura ocular, resposta verbal e resposta motora, com escore de 3 a 15: 15 é o mais responsivo e 3 o menos. No trauma cranioencefálico, 13 a 15 é leve, 9 a 12 moderado e 3 a 8 grave. Com Glasgow igual ou menor que 8, o paciente não protege a via aérea, e o ATLS recomenda via aérea definitiva, em geral intubação orotraqueal. RASS (de -5 a +4) e Ramsay (de 1 a 6) são escalas de sedação e agitação, não de coma, e não usam esses três critérios.",
+  "porAlt": [
+   "Correta: Glasgow de 3 a 8 define TCE grave e indica via aérea definitiva, em geral intubação orotraqueal.",
+   "Errada: a RASS mede sedação e agitação de -5 a +4; os três critérios citados são da escala de Glasgow.",
+   "Errada: a escala de Ramsay gradua sedação de 1 a 6 e não usa abertura ocular, resposta verbal e motora.",
+   "Errada: na escala de Glasgow, 15 é o mais responsivo e 3 o menos responsivo, ao contrário do afirmado.",
+   "Errada: a RASS não vai de 3 a 15; essa faixa é da escala de Glasgow, em que 15 é o mais responsivo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Atualmente, câncer é o nome geral dado a um conjunto de mais de 100 doenças que têm em comum o crescimento desordenado de células que tendem a invadir tecidos e órgãos vizinhos.\nDe acordo com a cartilha ABC do Câncer, publicada em 2020 pelo Ministério da Saúde, existem três formas principais de tratamento do câncer: cirurgia, radioterapia e quimioterapia, que podem ser usadas em conjunto, variando apenas quanto à suscetibilidade dos tumores a cada uma das modalidades terapêuticas e à sequência ideal de sua administração.\nSobre esses tratamentos, avalie as afirmativas a seguir.\nI. A radioterapia pré-operatória (prévia ou citorredutora) é o procedimento que antecede a principal modalidade de tratamento, a cirurgia, para reduzir o tumor e facilitar o procedimento operatório.\nII. A quimioterapia curativa tem a finalidade de curar pacientes com neoplasias malignas para os quais representa o principal tratamento, podendo ou não estar associada à cirurgia e à radioterapia.\nIII. Uma das competências privativas do enfermeiro em quimioterapia antineoplásica é planejar, organizar, supervisionar, executar e avaliar todas as atividades de enfermagem, em pacientes submetidos ao tratamento quimioterápico antineoplásico, categorizando-o como um serviço de alta complexidade.\nIV. Radioterapia pós-operatória ou pós-quimioterapia (profilática): segue-se à principal modalidade de tratamento, com a finalidade de esterilizar possíveis focos microscópicos do tumor.\nAs afirmativas corretas são",
+  "alts": [
+   "I, III e IV, apenas.",
+   "I, II e IV, apenas.",
+   "II, III e IV, apenas.",
+   "I, II, III e IV.",
+   "III e IV, apenas."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Oncologia e quimioterapia",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "ABC do câncer: abordagens básicas para o controle do câncer (INCA, 6. ed., 2020); Resolução COFEN 569/2018",
+  "coment": "Todas as afirmativas estão no ABC do câncer. A radioterapia pré-operatória, ou citorredutora, antecede a cirurgia para reduzir o tumor (I). A quimioterapia curativa é o tratamento principal com intenção de cura, isolada ou associada a cirurgia e radioterapia (II). A radioterapia pós-operatória ou profilática esteriliza focos microscópicos residuais (IV). O item III reproduz a competência privativa do enfermeiro em quimioterapia antineoplásica, mantida no regulamento técnico da Resolução COFEN 569/2018, que classifica o serviço como de alta complexidade.",
+  "porAlt": [
+   "Errada: o item II também está correto, pois descreve a quimioterapia com intenção curativa.",
+   "Errada: o item III também está correto, pois é competência privativa do enfermeiro na Resolução COFEN 569/2018.",
+   "Errada: o item I também está correto, pois descreve a radioterapia citorredutora pré-operatória.",
+   "Correta: os quatro itens descrevem modalidades e competências conforme o ABC do câncer e a Resolução COFEN 569/2018.",
+   "Errada: os itens I e II também estão corretos."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As recomendações para Suporte Básico de Vida (SBV) e para Suporte Avançado de Vida Cardiovascular (SAVC) estão combinadas nas diretrizes da American Heart Association (AHA) publicadas em 2020.\nSobre as principais novas alterações de SBV e SAVC em adultos, avalie as afirmativas a seguir.\nI. O atendimento do paciente após o retorno da circulação espontânea requer muita atenção à oxigenação, ao controle da pressão arterial, à avaliação da intervenção coronária percutânea, ao controle direcionado de temperatura e ao neuroprognóstico multimodal.\nII. O acesso intraósseo é a via de primeira escolha de administração de medicação durante a ressuscitação no SAVC.\nIII. Mensurar continuamente a pressão arterial sanguínea e o teor de dióxido de carbono ao final da expiração durante a ressuscitação de SAVC pode ser útil para melhorar a qualidade da reanimação cardiopulmonar.\nIV. As recomendações anteriores da AHA sobre a administração de epinefrina foram reafirmadas, com ênfase em sua administração mais precoce.\nAs afirmativas corretas são",
+  "alts": [
+   "I, II e III, apenas.",
+   "I, III e IV, apenas.",
+   "II, III e IV, apenas.",
+   "I, II e IV, apenas.",
+   "I, II, III e IV."
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes AHA 2025 para RCP e Atendimento Cardiovascular de Emergência (atualizam as de 2020)",
+  "coment": "A questão cita as diretrizes AHA 2020, e o gabarito se mantém nas de 2025. Após o retorno da circulação espontânea, o cuidado envolve oxigenação, controle da pressão, avaliação para intervenção coronária, controle de temperatura e neuroprognóstico multimodal (I). Pressão arterial invasiva e capnografia contínua ajudam a monitorar a qualidade da RCP (III). A epinefrina foi reafirmada, com ênfase em dose precoce nos ritmos não chocáveis (IV). O item II é falso: a primeira escolha é o acesso intravenoso; o intraósseo é alternativa quando o IV falha ou não é viável.",
+  "porAlt": [
+   "Errada: o item II é falso, porque a via intravenosa é a primeira escolha e o intraósseo é alternativa.",
+   "Correta: os itens I, III e IV refletem as recomendações; o acesso intraósseo não é a primeira opção.",
+   "Errada: o item II é falso e o item I, sobre o cuidado pós-PCR, é verdadeiro.",
+   "Errada: o item II é falso e o III, sobre pressão arterial e capnografia, é verdadeiro.",
+   "Errada: o item II é falso, já que a AHA prioriza a tentativa de acesso intravenoso."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma mulher de 55 anos foi admitida na clínica médica de um hospital com um quadro grave de crise hipertensiva já estabilizado, mas ainda em uso de medicações venosas. Ao exame físico, o enfermeiro identifica a presença de uma fístula arteriovenosa no membro superior direito com frêmito tátil para as sessões de hemodiálise e a necessidade de um novo acesso venoso periférico.\nEm relação ao atendimento a essa paciente, é correto afirmar que",
+  "alts": [
+   "o enfermeiro deve realizar a punção venosa para a administração das medicações anti-hipertensivas no membro superior direito, já que essa prática não afeta o acesso para hemodiálise.",
+   "o enfermeiro deve ter cautela com os acessos periféricos no membro superior direito, que apresenta a fístula arteriovenosa, mas devido à necessidade de controle rigoroso da pressão arterial, a medição deve ser alternada entre os membros superiores.",
+   "o enfermeiro deve realizar a punção venosa na própria fístula para não sobrecarregar a rede venosa da paciente.",
+   "o membro superior direito pode ser utilizado para a punção venosa, desde que a veia escolhida seja próxima da fístula arteriovenosa.",
+   "o enfermeiro deve evitar a punção venosa e a medição da pressão arterial no membro com a fístula arteriovenosa, preferindo realizar esses procedimentos no membro superior esquerdo."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "KDOQI Clinical Practice Guideline for Vascular Access: 2019 Update (National Kidney Foundation, AJKD 2020)",
+  "coment": "O membro com fístula arteriovenosa deve ser preservado: nele não se faz punção venosa, coleta de sangue, aferição de pressão arterial nem garrote, porque compressão e punção favorecem trombose, infecção e perda do acesso de hemodiálise. Punções e medidas de pressão são feitas no membro contralateral, aqui o superior esquerdo. A própria fístula só é puncionada pela equipe de diálise, para a sessão. A necessidade de controle rigoroso da pressão não autoriza alternar o manguito para o braço da fístula.",
+  "porAlt": [
+   "Errada: puncionar o membro da fístula ameaça o acesso de hemodiálise por risco de trombose e infecção.",
+   "Errada: a pressão arterial não deve ser medida no membro da fístula, nem de forma alternada.",
+   "Errada: a fístula é reservada às sessões de hemodiálise e não deve ser usada para medicação venosa.",
+   "Errada: nenhuma veia do membro da fístula deve ser puncionada, muito menos próxima a ela.",
+   "Correta: punção venosa e pressão arterial devem ser feitas no membro sem fístula, o superior esquerdo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em uma unidade de emergência o enfermeiro de plantão atende um paciente de 58 anos, sexo masculino, com queixa de dor torácica que irradia para o membro superior esquerdo, apresentando pele fria, pálida e úmida, frequência cardíaca e frequência respiratória aumentadas, quando comparadas ao padrão normal para a faixa etária.\nSobre esse atendimento, avalie as afirmativas a seguir.\nI. No exame físico o enfermeiro deve avaliar o nível de consciência, as bulhas cardíacas, a pressão arterial, os pulsos periféricos, auscultar os campos pulmonares, avaliar a motilidade intestinal, observar o débito urinário e verificar a existência de edema.\nII. O enfermeiro deve coletar dados iniciais sobre o estado atual do paciente e compará-los com a evolução do quadro clínico. Isso inclui investigar a história de dor ou desconforto torácico, dispneia, palpitações, fadiga incomum, síncope ou outros sinais que possam indicar isquemia miocárdica.\nIII. O enfermeiro deve realizar um exame mais focado em sinais e sintomas relacionados às doenças do aparelho respiratório, como a asma, e solicitar ao médico prescrição de broncodilatadores para melhorar a dor torácica e os sinais vitais alterados.\nEstá correto apenas o que se afirma em",
+  "alts": [
+   "I e III.",
+   "II e III.",
+   "III.",
+   "I.",
+   "I e II."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretrizes da SBC sobre Angina Instável e Infarto Agudo do Miocárdio sem Supradesnível do Segmento ST (2021)",
+  "coment": "Dor torácica irradiada para o braço esquerdo, com pele fria, pálida e úmida, taquicardia e taquipneia, sugere síndrome coronariana aguda com sinais de baixo débito. O enfermeiro faz exame físico amplo: consciência, bulhas, pressão, pulsos, ausculta pulmonar, abdome, diurese e edema, que revelam congestão e hipoperfusão (I). Também colhe a história de dor, dispneia, palpitações, fadiga e síncope e compara com a evolução (II). Focar em asma e pedir broncodilatador desvia da hipótese isquêmica e atrasa o ECG, que deve sair em até 10 minutos.",
+  "porAlt": [
+   "Errada: o item III é falso, pois o quadro é de provável isquemia miocárdica e não de broncoespasmo.",
+   "Errada: o item III é falso, porque broncodilatador não trata dor isquêmica.",
+   "Errada: o item III é o único falso; ele desvia a avaliação para doença respiratória.",
+   "Errada: o item II também está correto, pois a história dirigida busca sinais de isquemia.",
+   "Correta: os itens I e II descrevem a avaliação adequada da suspeita de síndrome coronariana aguda."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Resolução Cofen nº 710/2022 atualiza a norma técnica referente à atuação da equipe de enfermagem no processo de doação, captação e transplante de órgãos, tecidos e células.\nSobre essa atuação, avalie as afirmativas a seguir.\nI. Compete privativamente ao enfermeiro planejar, coordenar, executar, supervisionar e avaliar as ações do técnico de enfermagem, prestadas ao doador vivo ou falecido, a seus familiares e ao receptor, bem como ao material biológico para fins de transplante.\nII. A entrevista familiar, com a finalidade de doação de órgãos, tecidos e células, compete à equipe de enfermagem, podendo ser realizada pelo técnico de enfermagem ou enfermeiro.\nIII. A assistência de enfermagem no processo de doação, captação e transplante de órgãos, tecidos e células deve seguir protocolos institucionais baseados em evidências científicas, conforme legislação vigente.\nEstá correto o que se afirma em",
+  "alts": [
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I e III, apenas.",
+   "II, apenas.",
+   "I, II e III."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Doação de órgãos e transplante",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 710/2022, arts. 4º e 6º",
+  "coment": "A Resolução COFEN 710/2022 diz, no art. 4º, que compete privativamente ao enfermeiro planejar, coordenar, executar, supervisionar e avaliar as ações do técnico de enfermagem prestadas ao doador vivo ou falecido, aos familiares e ao receptor, e ao material biológico (I). O parágrafo único do mesmo artigo estabelece que, no âmbito da equipe de enfermagem, a entrevista familiar para doação compete privativamente ao enfermeiro, e não ao técnico (II falso). O art. 6º exige protocolos institucionais baseados em evidências científicas, conforme a legislação vigente (III).",
+  "porAlt": [
+   "Errada: o item II é falso, porque a entrevista familiar é privativa do enfermeiro.",
+   "Errada: o item II é falso, já que o técnico de enfermagem não realiza a entrevista familiar.",
+   "Correta: os itens I e III reproduzem os arts. 4º e 6º da Resolução COFEN 710/2022.",
+   "Errada: o item II é justamente o falso, e os itens I e III são verdadeiros.",
+   "Errada: o item II contraria o art. 4º, parágrafo único, da Resolução COFEN 710/2022."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No contexto do gerenciamento de enfermagem em serviços de saúde, a atuação do enfermeiro gestor envolve a coordenação de processos que assegurem a qualidade da assistência e o bom funcionamento das equipes. Além de liderar a equipe de enfermagem, o enfermeiro desempenha a função de gerenciar estratégias de educação continuada, avaliar o desempenho dos profissionais e garantir o dimensionamento adequado do pessoal, conforme as necessidades assistenciais.\nPara assegurar a eficácia na gestão do processo de trabalho de enfermagem, é essencial que o enfermeiro compreenda as especificidades da liderança, avalie as condições organizacionais e aplique parâmetros técnicos na definição da carga de trabalho.\nCom base nesse contexto, avalie as afirmativas a seguir.\nI. Para que uma organização efetive a avaliação de desempenho como estratégia de desenvolvimento pessoal, é necessário que seja feito o diagnóstico situacional, ou seja, devem ser conhecidas a filosofia da organização, a dinâmica organizacional e as características dos recursos humanos.\nII. A estrutura administrativa que tem a educação continuada vinculada técnica e administrativamente ao departamento de enfermagem favorece para que a educação continuada tenha coordenação própria, autoridade nas próprias decisões e comunicação horizontal com as demais divisões.\nIII. Considerando os parâmetros para o dimensionamento de enfermagem presentes no Parecer Normativo nº 1/2024 do Cofen, para efeito de cálculo, deverá ser observada a cláusula contratual adotada quanto a Carga Horária Semanal (CHS), a Taxa de Ocupação (TO) da Unidade de Internação e o Índice de Segurança Técnica (IST) de, no mínimo, 15% do total, dos quais 8,3% são referentes a férias e 6,7%, a ausências não previstas.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Parecer Normativo COFEN 1/2024 (dimensionamento), após a Resolução COFEN 743/2024, que revogou a 543/2017",
+  "coment": "O dimensionamento saiu da Resolução 543/2017, revogada pela 743/2024, e passou ao Parecer Normativo COFEN 1/2024. Ele manda observar, no cálculo, a carga horária semanal contratual, a taxa de ocupação da unidade e o Índice de Segurança Técnica de no mínimo 15%, sendo 8,3% para férias e 6,7% para ausências não previstas (III). A avaliação de desempenho como ferramenta de desenvolvimento exige diagnóstico situacional da filosofia e da dinâmica da organização e do perfil do pessoal (I). A banca aceitou o II, que vê vantagem na educação continuada vinculada ao departamento de enfermagem.",
+  "porAlt": [
+   "Errada: os itens II e III também foram considerados corretos.",
+   "Errada: o item III está correto, pois reproduz o IST de 15% do Parecer Normativo COFEN 1/2024.",
+   "Errada: o item II também foi aceito pela banca.",
+   "Errada: o item I está correto, pois a avaliação de desempenho parte do diagnóstico situacional.",
+   "Correta: a banca aceitou os três itens, e o III confere com o Parecer Normativo COFEN 1/2024."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A RDC nº 222, de 28 de março de 2018, que regulamenta as boas práticas de gerenciamento dos Resíduos de Serviços de Saúde (RSS), pretende minimizar os riscos inerentes ao gerenciamento de resíduos no país no que diz respeito à saúde humana e animal, bem como à proteção ao meio ambiente e aos recursos naturais renováveis.\nTendo por base essa RDC, assinale a afirmativa correta sobre o gerenciamento dos Resíduos de Serviços de Saúde (RSS).",
+  "alts": [
+   "Os sacos para o acondicionamento de RSS do grupo A devem ser substituídos ao atingirem o limite de 2/3 de sua capacidade ou então a cada 48 horas, independentemente do volume, visando ao conforto ambiental e à segurança dos usuários e profissionais.",
+   "O esvaziamento ou reaproveitamento dos sacos podem ser feitos quando não houver sacos suficientes na instituição.",
+   "Os sacos contendo RSS do grupo A de fácil putrefação devem ser substituídos no máximo a cada 48 horas, independentemente do volume.",
+   "Os RSS do grupo A que não precisam ser obrigatoriamente tratados e os RSS após o tratamento são considerados rejeitos e devem ser acondicionados em saco preto.",
+   "Os RSS do grupo A que obrigatoriamente precisam ser tratados devem ser acondicionados em sacos pretos."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 222/2018 (boas práticas de gerenciamento dos resíduos de serviços de saúde)",
+  "coment": "A RDC 222/2018 determina que os sacos de RSS do grupo A sejam trocados ao atingir 2/3 da capacidade ou a cada 48 horas, o que ocorrer primeiro, independentemente do volume. Se o resíduo do grupo A for de fácil putrefação, a troca é no máximo a cada 24 horas. É proibido esvaziar ou reaproveitar sacos. Resíduos do grupo A que precisam de tratamento vão em saco vermelho; os que não precisam e os já tratados são rejeitos e vão em saco branco leitoso. O saco preto é para o grupo D, resíduo comum.",
+  "porAlt": [
+   "Correta: os sacos do grupo A são trocados ao atingir 2/3 da capacidade ou a cada 48 horas, independentemente do volume.",
+   "Errada: a RDC 222/2018 proíbe esvaziar ou reaproveitar sacos de resíduos, mesmo na falta de estoque.",
+   "Errada: resíduo do grupo A de fácil putrefação exige troca no máximo a cada 24 horas, e não 48.",
+   "Errada: esses rejeitos do grupo A são acondicionados em saco branco leitoso, e não preto.",
+   "Errada: resíduos do grupo A que exigem tratamento vão em saco vermelho; o preto é do grupo D."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O processo de enfermagem é um método que orienta o pensamento crítico e o julgamento clínico do enfermeiro direcionando a equipe de enfermagem para o cuidado.\nDe acordo com a Resolução Cofen nº 736/2024, o objetivo da etapa de evolução de enfermagem é",
+  "alts": [
+   "avaliar os resultados alcançados de enfermagem e saúde, permitindo a análise e revisão de todo o processo de enfermagem.",
+   "registrar as condições iniciais de saúde do paciente, permitindo a análise e revisão de todo o processo de enfermagem.",
+   "formular os diagnósticos de enfermagem, permitindo a análise e revisão de todo o processo de enfermagem.",
+   "implementar as intervenções de enfermagem, permitindo a análise e revisão de todo o processo de enfermagem.",
+   "realizar o registro no prontuário do paciente, permitindo a análise e revisão de todo o processo de enfermagem."
+  ],
+  "gab": 0,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024 (Processo de Enfermagem), que revogou a 358/2009",
+  "coment": "A Resolução COFEN 736/2024 organiza o Processo de Enfermagem em cinco etapas inter-relacionadas: Avaliação de Enfermagem, Diagnóstico, Planejamento, Implementação e Evolução. A Evolução de Enfermagem consiste em avaliar os resultados alcançados de enfermagem e de saúde da pessoa, família, coletividade e grupos especiais, e é a etapa que permite analisar e revisar todo o processo. Registrar condições iniciais corresponde à Avaliação; formular diagnósticos, ao Diagnóstico; executar intervenções, à Implementação. O registro em prontuário acompanha todas as etapas.",
+  "porAlt": [
+   "Correta: a Evolução avalia os resultados alcançados e permite analisar e revisar todo o Processo de Enfermagem.",
+   "Errada: registrar as condições iniciais de saúde é objetivo da etapa de Avaliação de Enfermagem.",
+   "Errada: formular os diagnósticos é a etapa de Diagnóstico de Enfermagem, e não a Evolução.",
+   "Errada: realizar as intervenções corresponde à etapa de Implementação.",
+   "Errada: o registro no prontuário é exigido em todas as etapas e não define a Evolução."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O processo de enfermagem deve ser realizado de forma deliberada e sistemática em todos os contextos socioambientais em que ocorre o cuidado de enfermagem.\nDe acordo com a Resolução Cofen nº 736/2024, na etapa de planejamento de enfermagem, há elementos que devem ser considerados para o desenvolvimento de um plano assistencial eficaz, direcionado ao paciente, à família, à coletividade ou aos grupos especiais e compartilhado com a equipe de saúde.\nAvalie se tais elementos incluem:\nI. priorização de diagnósticos de enfermagem;\nII. determinação de resultados esperados e exequíveis de enfermagem e de saúde;\nIII. tomada de decisão terapêutica, declarada pela prescrição de enfermagem das intervenções, ações/atividades e protocolos assistenciais;\nIV. priorização da prescrição médica.\nEstão corretos os itens",
+  "alts": [
+   "II, III e IV, apenas.",
+   "I, II e III, apenas.",
+   "I, II, III e IV.",
+   "I e IV, apenas.",
+   "III e IV, apenas."
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 736/2024 (Processo de Enfermagem), etapa de Planejamento",
+  "coment": "Pela Resolução COFEN 736/2024, o Planejamento de Enfermagem desenvolve um plano assistencial dirigido à pessoa, família, coletividade e grupos especiais, compartilhado com os sujeitos do cuidado e a equipe. Ele envolve três elementos: priorização dos diagnósticos de enfermagem; determinação de resultados esperados e exequíveis de enfermagem e de saúde; e tomada de decisão terapêutica, declarada pela prescrição de enfermagem das intervenções, ações e protocolos assistenciais. Priorizar a prescrição médica não é elemento do planejamento de enfermagem.",
+  "porAlt": [
+   "Errada: falta a priorização de diagnósticos e inclui a priorização da prescrição médica, que não é elemento do planejamento.",
+   "Correta: priorização de diagnósticos, resultados esperados e prescrição de enfermagem compõem o Planejamento.",
+   "Errada: o item IV não pertence ao planejamento de enfermagem previsto na Resolução 736/2024.",
+   "Errada: o item IV não é elemento do Planejamento, e faltam os itens II e III.",
+   "Errada: o item IV não integra o Planejamento, e faltam os itens I e II."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante as etapas do período perioperatório, o enfermeiro desempenha papéis específicos para garantir a segurança e o bem-estar do paciente.\nAssinale a opção que descreve corretamente uma ação correspondente ao período transoperatório.",
+  "alts": [
+   "Orientar o paciente e sua família sobre os cuidados necessários no domicílio após a alta hospitalar.",
+   "Verificar se o paciente realizou o jejum pré-operatório conforme recomendado.",
+   "Monitorar continuamente os sinais vitais e manter a segurança do paciente durante o procedimento cirúrgico.",
+   "Avaliar a dor e administrar analgésicos no período imediato após o procedimento.",
+   "Revisar exames pré-operatórios e obter o consentimento informado."
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Segundo Desafio Global para a Segurança do Paciente: Cirurgias Seguras Salvam Vidas (OMS, 2009); Resolução COFEN 736/2024",
+  "coment": "O perioperatório divide-se em pré-operatório, que vai da decisão cirúrgica até a entrada na sala, transoperatório, da entrada até a saída da sala de cirurgia, e pós-operatório, que começa na recuperação anestésica e vai até a alta e o domicílio. No transoperatório, o enfermeiro monitora continuamente os sinais vitais e garante a segurança do paciente durante o procedimento: posicionamento, prevenção de lesões, contagem e checagens do checklist de cirurgia segura. Jejum, exames e consentimento são pré-operatórios; dor imediata e orientação de alta, pós-operatórios.",
+  "porAlt": [
+   "Errada: orientar cuidados domiciliares após a alta pertence ao pós-operatório.",
+   "Errada: conferir o jejum é ação do pré-operatório, antes da entrada na sala.",
+   "Correta: monitorar sinais vitais e manter a segurança durante a cirurgia é a ação típica do transoperatório.",
+   "Errada: avaliar a dor logo após o procedimento é cuidado do pós-operatório imediato.",
+   "Errada: revisar exames e obter o consentimento informado são ações do pré-operatório."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a avaliação de um paciente hospitalizado, o enfermeiro observa um padrão respiratório caracterizado por ciclos de respiração que aumentam e diminuem em profundidade, seguidos de um período de apneia. Esse tipo de respiração é comumente associado a condições como insuficiência cardíaca ou lesões cerebrais.\nEsse padrão respiratório denomina-se",
+  "alts": [
+   "respiração de Biot.",
+   "respiração de Kussmaul.",
+   "taquipneia.",
+   "respiração de Cheyne-Stokes.",
+   "apneia."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "PORTO, C. C. Semiologia Médica (8. ed., Guanabara Koogan, 2019), padrões respiratórios",
+  "coment": "Na respiração de Cheyne-Stokes, a amplitude das incursões cresce e depois decresce de forma cíclica, seguida de um período de apneia, e o ciclo se repete. Ela ocorre na insuficiência cardíaca grave, em lesões neurológicas e na intoxicação por depressores do centro respiratório. A respiração de Biot alterna apneias com incursões irregulares em ritmo e amplitude, sem o padrão em crescendo e decrescendo. Kussmaul é profunda e rápida, típica da acidose metabólica. Taquipneia é só aumento da frequência; apneia é ausência de respiração.",
+  "porAlt": [
+   "Errada: na respiração de Biot as incursões são irregulares, sem o padrão crescendo e decrescendo.",
+   "Errada: Kussmaul é respiração profunda e rápida, da acidose metabólica, sem apneias cíclicas.",
+   "Errada: taquipneia é apenas aumento da frequência respiratória.",
+   "Correta: incursões que aumentam e diminuem em amplitude, seguidas de apneia, definem a respiração de Cheyne-Stokes.",
+   "Errada: apneia é só a parada respiratória e não descreve o ciclo completo observado."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente de 48 anos com doença renal crônica (DRC) estágio 4, está internado para o acompanhamento da progressão da doença. Durante a avaliação de enfermagem, ele relata fraqueza, náuseas frequentes e apresenta edema moderado em membros inferiores. Seus exames laboratoriais revelam Hb (hemoglobina) de 8,5 g/dL e fósforo sérico (P) de 6,8 mg/dL.\nA conduta correta a ser tomada pelo enfermeiro é",
+  "alts": [
+   "verificar com o médico a necessidade de suspender a administração de eritropoetina devido ao risco de aumento da fraqueza muscular.",
+   "incentivar a ingestão de alimentos ricos em fósforo para corrigir os níveis de anemia.",
+   "aumentar a ingestão de líquidos para diluir o fósforo sérico elevado e reduzir os efeitos da hiperfosfatemia.",
+   "solicitar exames de sangue para avaliar marcadores inflamatórios.",
+   "orientar sobre restrição de alimentos ricos em fósforo e administrar quelantes de fósforo conforme prescrição médica."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "KDIGO 2017 Clinical Practice Guideline Update for CKD-Mineral and Bone Disorder (CKD-MBD)",
+  "coment": "Na doença renal crônica estágio 4, a menor excreção de fósforo leva a hiperfosfatemia, aqui de 6,8 mg/dL, acima do normal de cerca de 2,5 a 4,5 mg/dL. A diretriz KDIGO de distúrbio mineral e ósseo recomenda limitar a ingestão de fósforo e usar quelantes nas refeições, conforme prescrição. A anemia da DRC, com hemoglobina de 8,5 g/dL, se deve à falta de eritropoetina e é tratada com agente estimulador da eritropoese e reposição de ferro, e não com fósforo. Com edema, aumentar líquidos piora a sobrecarga hídrica.",
+  "porAlt": [
+   "Errada: a eritropoetina trata a anemia da DRC e não causa a fraqueza; suspendê-la pioraria o quadro.",
+   "Errada: fósforo não corrige anemia e agravaria a hiperfosfatemia já presente.",
+   "Errada: o paciente tem edema e a DRC limita a excreção de água; mais líquidos pioram a sobrecarga.",
+   "Errada: os achados apontam distúrbio mineral e anemia da DRC, e solicitar marcadores inflamatórios não resolve o problema.",
+   "Correta: restringir fósforo na dieta e dar quelantes conforme prescrição é a conduta para a hiperfosfatemia da DRC."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As infecções da corrente sanguínea relacionadas a cateteres centrais (ICSRC) estão associadas a importantes desfechos desfavoráveis à saúde.\nNos Estados Unidos da América (EUA), a mortalidade atribuível a essa síndrome geralmente ultrapassa os 10%, podendo chegar a 25% em pacientes de maior risco.\nConsiderando as orientações descritas no Caderno de Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde da Anvisa (2017), sobre as boas práticas de flushing e a manutenção do cateter periférico, é correto afirmar que",
+  "alts": [
+   "a aspiração para verificar o retorno de sangue antes de cada infusão é realizada para garantir a funcionalidade do cateter e prevenir complicações.",
+   "o flushing pulsátil (push-pause) é preferível ao flushing contínuo, pois cria um fluxo laminar que evita a deposição de resíduos no lúmen do cateter.",
+   "o uso de água estéril é recomendado para flushing e lock de cateteres periféricos em pacientes com restrição hídrica.",
+   "soluções em grandes volumes, como frascos de soro, são adequadas para a obtenção de flushing devido ao baixo custo e acessibilidade.",
+   "seringas menores que 10 mL devem ser utilizadas para gerar maior pressão durante o flushing e garantir a desobstrução do cateter."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (ANVISA, Série Segurança do Paciente, caderno 4, 2017)",
+  "coment": "O caderno da ANVISA de 2017 recomenda fazer o flushing e aspirar para verificar o retorno de sangue antes de cada infusão, para garantir o funcionamento do cateter e prevenir complicações. O flushing pulsátil (push-pause) remove depósitos melhor que o contínuo porque gera fluxo turbilhonado, e não laminar. Usa-se solução fisiológica em dose única ou seringa preenchida; água estéril não deve ser usada, nem frascos de soro de grande volume como fonte. A permeabilidade é testada com seringa de 10 mL, cujo diâmetro gera menor pressão no lúmen; seringas menores geram pressão excessiva.",
+  "porAlt": [
+   "Correta: aspirar e verificar o retorno de sangue antes de cada infusão confirma a funcionalidade do cateter e previne complicações.",
+   "Errada: o push-pause é preferível porque cria fluxo turbilhonado, e não laminar.",
+   "Errada: a ANVISA não recomenda água estéril para flushing ou lock; usa-se solução fisiológica.",
+   "Errada: frascos e bolsas de grande volume não devem servir de fonte de solução para flushing, pelo risco de contaminação.",
+   "Errada: seringas menores que 10 mL geram pressão maior no lúmen e risco de dano; recomenda-se seringa de 10 mL."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A adoção de precauções padrão e precauções específicas por forma de transmissão é fundamental para a prevenção e o controle de infecções no ambiente hospitalar.\nConsiderando as recomendações para a segurança individual e coletiva dos profissionais de saúde e pacientes, assinale a afirmativa correta.",
+  "alts": [
+   "O uso de Equipamentos de Proteção Individual (EPIs) é opcional para os procedimentos invasivos quando o profissional de saúde já possui imunidade adquirida contra infecções comuns no ambiente hospitalar.",
+   "O isolamento de pacientes com infecções transmitidas por gotículas requer a utilização de máscara cirúrgica por profissionais de saúde e visitantes que entram no quarto.",
+   "As precauções padrão devem ser aplicadas somente em pacientes diagnosticados com doenças infecciosas confirmadas.",
+   "A desinfecção de superfícies e equipamentos médicos é necessária apenas quando há evidências visíveis de contaminação por fluidos biológicos.",
+   "A precaução de contato exige o uso obrigatório de máscara N95 para todos os profissionais."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "CDC/HICPAC Guideline for Isolation Precautions (2007); NR 32 (Portaria MTE 485/2005)",
+  "coment": "Na precaução para gotículas, profissionais e visitantes usam máscara cirúrgica ao entrar no quarto, e o paciente fica em quarto privativo ou em coorte, usando máscara cirúrgica ao ser transportado. As precauções padrão valem para todos os pacientes, com ou sem diagnóstico infeccioso confirmado, e o uso de EPI depende do risco de exposição, nunca da imunidade do profissional. A limpeza e desinfecção de superfícies e equipamentos é rotina, mesmo sem sujeira visível. A máscara N95 ou PFF2 é da precaução para aerossóis; na de contato, usam-se luvas e avental.",
+  "porAlt": [
+   "Errada: o EPI é definido pelo risco do procedimento e é obrigatório em procedimentos invasivos, independentemente da imunidade do profissional.",
+   "Correta: na precaução por gotículas, profissionais e visitantes usam máscara cirúrgica ao entrar no quarto.",
+   "Errada: as precauções padrão se aplicam a todos os pacientes, com ou sem diagnóstico infeccioso.",
+   "Errada: a limpeza e desinfecção de superfícies e equipamentos é rotineira, mesmo sem contaminação visível.",
+   "Errada: a N95 é exigida na precaução para aerossóis; a de contato pede luvas e avental."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Agência Nacional de Vigilância Sanitária (Anvisa), na RDC nº 15/2012, dispõe sobre requisitos de boas práticas para o processamento de produtos para saúde.\nCom base nessas diretrizes, avalie as afirmativas a seguir.\nI. O monitoramento do processo de esterilização com indicadores físicos deve ser registrado a cada ciclo de esterilização.\nII. O monitoramento com indicadores físicos é opcional, sendo realizado apenas quando houver falhas nos testes químicos ou biológicos.\nIII. O uso de indicador biológico em produtos implantáveis é obrigatório em todas as cargas, e a liberação do material só deve ocorrer após a leitura negativa do indicador.\nIV. O indicador biológico deve ser utilizado diariamente e posicionado no ponto mais crítico da carga, conforme os estudos térmicos da qualificação do equipamento.\nEstão corretas as afirmativas",
+  "alts": [
+   "II e III, apenas.",
+   "I e III, apenas.",
+   "I, III e IV, apenas.",
+   "I e IV, apenas.",
+   "I, II, III e IV."
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 15/2012 (boas práticas para o processamento de produtos para saúde), monitoramento da esterilização",
+  "coment": "A RDC 15/2012 exige o registro do monitoramento com indicadores físicos a cada ciclo de esterilização (I), o que torna falso dizer que ele é opcional (II). O indicador biológico deve ser usado diariamente, em pacote desafio posicionado no ponto de maior desafio ao processo, definido nos estudos térmicos da qualificação de desempenho do equipamento (IV). Para produtos implantáveis, o monitoramento com indicador biológico é feito em toda carga, e o material só é liberado após leitura negativa (III). Corretos I, III e IV.",
+  "porAlt": [
+   "Errada: o item II é falso, porque o monitoramento físico é obrigatório e registrado a cada ciclo.",
+   "Errada: o item IV também está correto, pois o indicador biológico é diário e vai no ponto mais crítico da carga.",
+   "Correta: os itens I, III e IV reproduzem as exigências de monitoramento da RDC ANVISA 15/2012.",
+   "Errada: o item III também está correto, pois implantáveis exigem indicador biológico em toda carga.",
+   "Errada: o item II é falso, já que indicadores físicos não são opcionais."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um idoso de 78 anos chega à unidade básica de saúde acompanhado por sua filha, que relata que o pai apresenta perda de interesse por atividades e dificuldade em realizar tarefas simples do dia a dia. Durante a consulta, o enfermeiro identifica que o paciente apresenta lentidão ao caminhar e sinais de perda de peso recente.\nA ação prioritária na avaliação inicial do enfermeiro, considerando as síndromes geriátricas, é iniciar com a",
+  "alts": [
+   "identificação de sinais de desnutrição e realizar uma avaliação nutricional completa.",
+   "investigação de sinais de depressão utilizando um instrumento de rastreio validado.",
+   "avaliação de sinais de comprometimento cognitivo para investigar demência.",
+   "realização de triagem para síndrome da fragilidade.",
+   "avaliação do risco de quedas utilizando uma escala apropriada."
+  ],
+  "gab": 3,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Fenótipo de fragilidade de Fried et al. (Journal of Gerontology, 2001); Cadernos de Atenção Básica nº 19, Envelhecimento e saúde da pessoa idosa (MS, 2006)",
+  "coment": "O fenótipo de Fried define fragilidade por cinco critérios: perda de peso não intencional, exaustão, fraqueza de preensão, lentidão da marcha e baixo nível de atividade física; três ou mais indicam fragilidade e um ou dois, pré-fragilidade. Este idoso já soma perda de peso, lentidão ao caminhar e queda de atividade, o que faz da triagem de fragilidade o ponto de partida mais abrangente. A partir dela, desdobram-se as avaliações de nutrição, humor, cognição e risco de quedas, que integram a avaliação multidimensional da pessoa idosa.",
+  "porAlt": [
+   "Errada: a perda de peso é só um dos componentes; começar pela nutrição deixa de lado lentidão e queda de atividade.",
+   "Errada: o rastreio de depressão é necessário diante da perda de interesse, mas a banca o vê como desdobramento da triagem de fragilidade.",
+   "Errada: a avaliação cognitiva faz parte da avaliação multidimensional, mas não reúne os sinais centrais do caso.",
+   "Correta: perda de peso, lentidão da marcha e menor atividade são critérios de Fried e pedem triagem da síndrome da fragilidade.",
+   "Errada: o risco de quedas é consequência possível da fragilidade e é avaliado depois, na avaliação ampla."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a ausculta cardíaca de um paciente, o enfermeiro posiciona o estetoscópio no quinto espaço intercostal, na linha médio-clavicular esquerda.\nA válvula cardíaca que está sendo avaliada nesse local é",
+  "alts": [
+   "o foco de Erb (ou Terceiro Foco).",
+   "a pulmonar.",
+   "a tricúspide.",
+   "a aórtica.",
+   "a mitral."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "PORTO, C. C. Semiologia Médica (8. ed., Guanabara Koogan, 2019), focos de ausculta cardíaca",
+  "coment": "Os focos clássicos de ausculta são: aórtico, no 2º espaço intercostal direito junto ao esterno; pulmonar, no 2º espaço intercostal esquerdo junto ao esterno; aórtico acessório ou ponto de Erb, no 3º espaço intercostal esquerdo paraesternal; tricúspide, na borda esternal esquerda inferior, junto ao apêndice xifoide; e mitral, no 5º espaço intercostal esquerdo na linha hemiclavicular, que corresponde ao ictus cordis. Por isso o 5º espaço intercostal na linha médio-clavicular esquerda é o foco mitral.",
+  "porAlt": [
+   "Errada: o ponto de Erb fica no 3º espaço intercostal esquerdo, junto à borda esternal.",
+   "Errada: o foco pulmonar fica no 2º espaço intercostal esquerdo, junto ao esterno.",
+   "Errada: o foco tricúspide fica na borda esternal esquerda inferior, junto ao apêndice xifoide.",
+   "Errada: o foco aórtico fica no 2º espaço intercostal direito, junto ao esterno.",
+   "Correta: o 5º espaço intercostal esquerdo na linha hemiclavicular é o foco mitral, sobre o ictus cordis."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "Concurso EBSERH 2024, Enfermeiro",
+   "n": 60,
+   "parte": "especificas"
+  }
+ }
+]

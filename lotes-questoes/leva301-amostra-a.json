@@ -1,0 +1,502 @@
+[
+ {
+  "q": "O Conselho Municipal de Saúde de um município do interior será recomposto com 24 conselheiros titulares, e a Secretaria Municipal de Saúde prepara a próxima Conferência Municipal de Saúde. Uma enfermeira da Atenção Primária, eleita representante dos trabalhadores, é consultada sobre as regras da Lei 8.142/1990. Qual orientação está de acordo com a lei?",
+  "alts": [
+   "O conselho terá 6 representantes de usuários, um quarto do total, e caráter consultivo; a conferência se reúne a cada quatro anos, convocada pelo Poder Executivo.",
+   "O conselho terá 12 representantes de usuários e caráter permanente e consultivo; a conferência se reúne a cada dois anos, convocada pelo próprio conselho.",
+   "O conselho terá 12 representantes de usuários e caráter permanente e deliberativo; a conferência se reúne a cada quatro anos, convocada em regra pelo Poder Executivo.",
+   "O conselho terá 8 representantes de usuários, um terço do total, e caráter deliberativo; a conferência se reúne a cada quatro anos, convocada pelo Ministério da Saúde.",
+   "O conselho terá 12 representantes de usuários e caráter deliberativo, com decisões homologadas pela própria conferência, que se reúne a cada dois anos por convocação do conselho."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 1º, §§ 1º, 2º e 4º",
+  "coment": "A Lei 8.142/1990, art. 1º, cria duas instâncias colegiadas em cada esfera de governo: a Conferência e o Conselho de Saúde. O § 4º determina que a representação dos usuários nos conselhos e nas conferências seja paritária em relação ao conjunto dos demais segmentos; num conselho de 24 titulares, 12 são usuários. O § 2º define o conselho como órgão permanente e deliberativo, que atua na formulação de estratégias e no controle da execução da política de saúde, inclusive nos aspectos econômicos e financeiros, com decisões homologadas pelo chefe do poder legalmente constituído em cada esfera. O § 1º fixa a conferência a cada quatro anos, convocada pelo Poder Executivo ou, extraordinariamente, por ela própria ou pelo conselho.",
+  "porAlt": [
+   "Errada: a paridade exige metade de usuários (12), não um quarto, e o conselho é deliberativo, não consultivo.",
+   "Errada: o conselho é deliberativo, e a conferência ocorre a cada quatro anos, convocada em regra pelo Poder Executivo.",
+   "Correta: usuários em paridade com os demais segmentos (12 de 24), conselho permanente e deliberativo e conferência quadrienal, como no art. 1º.",
+   "Errada: um terço não é paridade, e a conferência municipal é convocada pelo Executivo local ou, extraordinariamente, por ela ou pelo conselho.",
+   "Errada: as decisões do conselho são homologadas pelo chefe do poder legalmente constituído, e a conferência é quadrienal."
+  ]
+ },
+ {
+  "q": "Um estado e seis municípios limítrofes discutem a instituição de uma nova Região de Saúde. O diagnóstico situacional mostra que o território já oferece atenção primária, urgência e emergência, atenção ambulatorial especializada e hospitalar e vigilância em saúde, mas não tem nenhum serviço de atenção psicossocial; esses casos são encaminhados à capital. Segundo o Decreto 7.508/2011, a região pode ser instituída nessas condições?",
+  "alts": [
+   "Não, porque a região deve conter, no mínimo, ações e serviços de atenção psicossocial, e sua instituição cabe ao estado, em articulação com os municípios.",
+   "Sim, porque a atenção psicossocial pode ser garantida por referência a outra região, e a instituição cabe aos municípios reunidos em consórcio, com homologação da CIB.",
+   "Não, porque falta a assistência farmacêutica, item mínimo da região, e a instituição cabe ao Ministério da Saúde, por ato da Comissão Intergestores Tripartite.",
+   "Sim, porque o rol mínimo do decreto reúne atenção primária, urgência e vigilância, e a instituição cabe ao estado, formalizada depois no Contrato Organizativo.",
+   "Não, porque a atenção psicossocial é porta de entrada obrigatória, e a instituição cabe à Comissão Intergestores Regional, independentemente de ato do estado."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Decreto 7.508/2011, arts. 4º, 5º e 9º",
+  "coment": "O Decreto 7.508/2011, art. 5º, exige que a Região de Saúde contenha, no mínimo, ações e serviços de atenção primária, urgência e emergência, atenção psicossocial, atenção ambulatorial especializada e hospitalar e vigilância em saúde. Faltando a atenção psicossocial, a região não cumpre o requisito de instituição. O art. 4º atribui a instituição ao estado, em articulação com os municípios, respeitadas as diretrizes gerais pactuadas na Comissão Intergestores Tripartite; regiões interestaduais exigem ato conjunto dos estados. Não confundir com o art. 9º, que lista as portas de entrada (atenção primária, urgência e emergência, atenção psicossocial e serviços especiais de acesso aberto): ser porta de entrada é outro atributo, e não é o que define a instituição da região.",
+  "porAlt": [
+   "Correta: a atenção psicossocial integra o conteúdo mínimo do art. 5º, e quem institui a região é o estado articulado com os municípios (art. 4º).",
+   "Errada: o conteúdo mínimo deve existir dentro da região, e a instituição não cabe a consórcio de municípios homologado pela CIB.",
+   "Errada: assistência farmacêutica não está no rol mínimo do art. 5º, e a região não é instituída por ato do Ministério da Saúde.",
+   "Errada: o rol mínimo tem cinco componentes, incluindo atenção psicossocial e atenção ambulatorial especializada e hospitalar.",
+   "Errada: a conclusão está certa, mas o motivo é o rol mínimo do art. 5º, e a instituição cabe ao estado, não à Comissão Intergestores Regional."
+  ]
+ },
+ {
+  "q": "Em 2025, um município registrou 4.000 nascidos vivos e 48 óbitos de menores de 1 ano. Desses óbitos, 30 ocorreram entre 0 e 27 dias de vida e 18 entre 28 dias e 11 meses completos. A enfermeira da vigilância epidemiológica prepara o boletim anual. Qual leitura dos indicadores está correta?",
+  "alts": [
+   "Mortalidade infantil de 12 por mil habitantes, com predomínio do componente pós-neonatal, ligado sobretudo a causas infecciosas e nutricionais.",
+   "Mortalidade infantil de 1,2 por mil nascidos vivos, com predomínio do componente neonatal, ligado sobretudo à atenção à gestação e ao parto.",
+   "Mortalidade infantil de 12 por mil nascidos vivos, com mortalidade neonatal de 4,5 por mil, pois o componente neonatal começa aos 7 dias.",
+   "Mortalidade infantil de 12 por mil nascidos vivos, com mortalidade neonatal de 7,5 por mil, e o componente neonatal soma 62,5% dos óbitos.",
+   "Mortalidade infantil de 48 por mil nascidos vivos, com mortalidade neonatal de 30 por mil, pois o indicador usa o número absoluto de óbitos."
+  ],
+  "gab": 3,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "RIPSA. Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "A taxa de mortalidade infantil é o número de óbitos de menores de 1 ano dividido pelo número de nascidos vivos no mesmo local e ano, multiplicado por mil: 48 ÷ 4.000 × 1.000 = 12 por mil nascidos vivos. O componente neonatal reúne os óbitos de 0 a 27 dias: 30 ÷ 4.000 × 1.000 = 7,5 por mil. O pós-neonatal (28 dias a menos de 1 ano) fica em 4,5 por mil. Os óbitos neonatais são 30 de 48, ou 62,5% do total, o que aponta para fatores ligados à gestação, ao parto e ao cuidado do recém-nascido. O denominador é sempre nascidos vivos, nunca a população geral, e o resultado é uma taxa, não o número absoluto. Conferência: 0,012 × 1.000 = 12 e 0,0075 × 1.000 = 7,5.",
+  "porAlt": [
+   "Errada: o denominador é o número de nascidos vivos, não a população, e predomina o componente neonatal (30 de 48 óbitos).",
+   "Errada: 48 ÷ 4.000 × 1.000 dá 12, e não 1,2; o erro está na multiplicação final por mil.",
+   "Errada: 4,5 por mil é a taxa pós-neonatal; o período neonatal vai de 0 a 27 dias, e não começa aos 7 dias.",
+   "Correta: 48 ÷ 4.000 × 1.000 = 12; 30 ÷ 4.000 × 1.000 = 7,5; e 30 de 48 óbitos correspondem a 62,5%.",
+   "Errada: taxa exige denominador; o número absoluto de óbitos não permite comparar municípios nem anos."
+  ]
+ },
+ {
+  "q": "Em outubro de 2026, uma UBS de município amazônico confirma dois casos de febre do Oropouche: um homem de 34 anos, com quadro febril autolimitado, e uma gestante de 22 semanas. A enfermeira responsável pela vigilância da unidade precisa definir a periodicidade de cada notificação. De acordo com a lista nacional vigente, qual é a conduta correta?",
+  "alts": [
+   "Notificar os dois casos de forma imediata, em até 24 horas, às secretarias municipal e estadual, pois a febre do Oropouche entrou na lista como agravo de notificação imediata.",
+   "Notificar o caso do homem na rotina semanal e o da gestante de forma imediata, em até 24 horas, à secretaria municipal, à secretaria estadual e ao Ministério da Saúde.",
+   "Notificar os dois casos na rotina semanal, pois na febre do Oropouche a notificação imediata se restringe aos óbitos e aos óbitos fetais, sem incluir a gestante viva.",
+   "Notificar o caso da gestante na rotina semanal e o do homem quando houver óbito, pois a doença foi incluída na lista nacional como agravo de vigilância sentinela.",
+   "Notificar a gestante de forma imediata à secretaria municipal e não notificar o homem, pois casos de febre do Oropouche fora da gestação não constam da lista de notificação compulsória."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Portaria GM/MS 11.211/2026, art. 2º, II (altera o Anexo 1 do Anexo V da PRC 4/2017)",
+  "coment": "A Portaria GM/MS 11.211, de 13/05/2026, incluiu a febre do Oropouche na Lista Nacional de Notificação Compulsória com periodicidades diferentes por situação (art. 2º, II): casos, notificação semanal; óbitos, gestantes, anomalias congênitas e óbitos fetais, notificação imediata para a Secretaria Municipal, a Secretaria Estadual e o Ministério da Saúde. No anexo, notificação imediata significa em até 24 horas. Assim, o homem com quadro autolimitado entra na rotina semanal, e a gestante exige notificação imediata às três esferas. A mesma portaria incluiu a caxumba com notificação imediata e removeu a covid-19 como item isolado, que passou a constar como síndrome gripal por covid-19 confirmada.",
+  "porAlt": [
+   "Errada: o caso comum de febre do Oropouche é de notificação semanal; a imediata vale para gestante, óbito, óbito fetal e anomalia congênita.",
+   "Correta: caso não gestante é semanal, e gestante é notificação imediata, em até 24 horas, para SMS, SES e MS (art. 2º, II, a e c).",
+   "Errada: a gestante está expressamente entre as situações de notificação imediata, ao lado de óbitos, óbitos fetais e anomalias congênitas.",
+   "Errada: a febre do Oropouche entrou na lista de notificação compulsória, não na de vigilância sentinela, e o caso comum é semanal.",
+   "Errada: todo caso confirmado é de notificação compulsória (semanal), e a gestante é notificada também ao estado e ao Ministério da Saúde."
+  ]
+ },
+ {
+  "q": "Mulher de 24 anos, com tuberculose pulmonar confirmada por teste rápido molecular, sem resistência à rifampicina, inicia o esquema básico na UBS. Ela usa anticoncepcional oral combinado e pergunta à enfermeira se o tratamento muda alguma coisa na rotina dela. Na consulta de enfermagem, qual orientação é correta?",
+  "alts": [
+   "Informar que urina, suor e lágrimas podem ficar alaranjados e que, se isso ocorrer, o esquema deve ser suspenso, pois o achado indica hepatotoxicidade.",
+   "Informar que a cor alaranjada da urina é efeito da isoniazida e que o anticoncepcional oral mantém a eficácia, sem interação com o esquema básico.",
+   "Informar que a urina alaranjada é esperada e que o anticoncepcional deve ser trocado por outro oral de dose maior, que dispensa outro método.",
+   "Informar que o esquema não altera secreções e que a pirazinamida reduz a eficácia do anticoncepcional, o que obriga a suspendê-la na fase intensiva.",
+   "Informar que urina e outras secreções podem ficar alaranjadas pela rifampicina, sem gravidade, e que ela reduz a eficácia do anticoncepcional oral."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada, 2019 (MS)",
+  "coment": "A rifampicina, componente do esquema básico, dá cor alaranjada à urina, ao suor e às lágrimas; é efeito esperado e sem gravidade, e a conduta é orientar a pessoa para que não se assuste nem abandone o tratamento. A rifampicina também é potente indutora de enzimas hepáticas e reduz a eficácia dos anticoncepcionais hormonais orais. O Manual de Recomendações para o Controle da Tuberculose no Brasil (2019) orienta que mulheres em uso de contraceptivo oral sejam orientadas a usar outro método durante o tratamento. A coloração da urina não é sinal de hepatotoxicidade, que se suspeita diante de náuseas, vômitos, dor abdominal ou icterícia.",
+  "porAlt": [
+   "Errada: a coloração alaranjada é efeito esperado da rifampicina e não justifica suspender o esquema.",
+   "Errada: quem colore as secreções é a rifampicina, e ela reduz a eficácia do anticoncepcional oral por indução enzimática.",
+   "Errada: aumentar a dose do contraceptivo oral não é a recomendação; a orientação é usar outro método durante o tratamento.",
+   "Errada: a rifampicina altera a cor das secreções e é ela, não a pirazinamida, que interage com o anticoncepcional.",
+   "Correta: a coloração é benigna e esperada, e a interação da rifampicina com o contraceptivo oral exige orientar o uso de outro método."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos inicia tratamento para hanseníase multibacilar. A enfermeira examina os contatos domiciliares, todos sem sinais ou sintomas da doença: a esposa, de 41 anos, tem registro de 1 dose de BCG na infância; o filho, de 9 anos, tem 2 doses comprovadas; a filha, de 19 anos, está grávida de 20 semanas e não tem registro vacinal nem cicatriz; o sogro, de 70 anos, tratou tuberculose há dez anos. Qual é a conduta correta para a imunoprofilaxia com BCG?",
+  "alts": [
+   "Vacinar esposa, filho e filha agora, pois a BCG é indicada a todo contato de hanseníase multibacilar, e não vacinar o sogro, por ter mais de 60 anos.",
+   "Vacinar a filha agora, pois ela não tem dose prévia, e não vacinar a esposa nem o filho, pois a BCG é contraindicada a partir dos 5 anos.",
+   "Vacinar a esposa com 1 dose, cerca de 1 cm acima da cicatriz; não vacinar o filho nem o sogro; e adiar a dose da filha para o pós-parto.",
+   "Vacinar a esposa e o sogro com 1 dose cada, não vacinar o filho e vacinar a filha agora, pois o benefício supera o risco na gestação.",
+   "Não vacinar ninguém, pois a BCG protege contra formas graves de tuberculose e não tem efeito na prevenção da hanseníase."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), item BCG; PCDT da Hanseníase 2022 (MS)",
+  "coment": "A BCG é indicada aos contatos domiciliares de hanseníase, paucibacilar ou multibacilar, examinados e sem sinais da doença, a partir de 1 ano de idade. Pela Instrução Normativa do Calendário 2026, que segue o PCDT da Hanseníase de 2022: sem comprovação vacinal e sem cicatriz, 1 dose; com 1 dose comprovada, mais 1 dose, com intervalo mínimo de 6 meses, cerca de 1 cm acima da cicatriz; com 2 doses, não vacinar. Na gestante, avaliar o histórico e adiar a dose para o pós-parto, pois a gravidez contraindica a BCG. Contatos já tratados de tuberculose não precisam da imunoprofilaxia. A exceção à contraindicação acima de 5 anos vale justamente para esses contatos, salvo quem vive com HIV.",
+  "porAlt": [
+   "Errada: o filho já tem 2 doses e não deve ser vacinado, e a gestante tem a dose adiada para depois do parto.",
+   "Errada: a gravidez contraindica a BCG, e a restrição acima de 5 anos não se aplica aos contatos domiciliares de hanseníase.",
+   "Correta: 1 dose para quem tem 1 dose prévia, nenhuma para quem tem 2, nenhuma para quem tratou tuberculose e adiamento na gestação.",
+   "Errada: o sogro tratou tuberculose e não precisa da BCG, e a gestante não deve ser vacinada durante a gravidez.",
+   "Errada: a BCG tem efeito protetor contra a hanseníase, embora não seja específica, e é recomendada aos contatos."
+  ]
+ },
+ {
+  "q": "Gestante de 31 semanas, na segunda gestação, comparece à sala de vacinação da UBS para receber a dTpa. Ela informa que recebeu a vacina contra o vírus sincicial respiratório (VSR) na gestação anterior, em 2025, e pergunta se precisa de nova dose. Segundo o calendário nacional de 2026, qual é a orientação correta?",
+  "alts": [
+   "Não aplicar a vacina VSR, pois a dose recebida na gestação anterior mantém anticorpos suficientes para proteger o novo bebê nos primeiros meses.",
+   "Aplicar a vacina VSR nesta visita, pois o esquema é de dose única em cada gestação a partir de 28 semanas, e ela pode ser feita junto com a dTpa.",
+   "Aplicar a vacina VSR 14 dias após a dTpa, pois as duas vacinas competem pela resposta imune quando são aplicadas no mesmo dia.",
+   "Agendar a vacina VSR para a 36ª semana, pois a dose deve ser dada perto do parto para garantir maior passagem de anticorpos ao feto.",
+   "Aplicar a vacina VSR por via subcutânea no braço oposto ao da dTpa, pois o risco de sangramento na gestação contraindica a via intramuscular."
+  ],
+  "gab": 1,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), item Vacina VSR A e B recombinante",
+  "coment": "A vacina vírus sincicial respiratório A e B (recombinante) protege o lactente menor de 6 meses por transferência transplacentária de anticorpos. A Instrução Normativa do Calendário 2026 define o esquema como dose única em cada gestação, a partir da 28ª semana, sem restrição de idade materna; por isso a dose da gestação anterior não dispensa a atual. A vacina não tem data limite superior, exceto o trabalho de parto ativo. A dose é de 0,5 mL, por via intramuscular, preferencialmente no deltoide. Pode ser aplicada no mesmo dia das demais vacinas do calendário, como a dTpa, em sítios diferentes e sem intervalo, e a IN recomenda a aplicação simultânea para não perder a oportunidade.",
+  "porAlt": [
+   "Errada: o esquema é de uma dose em cada gestação; a dose anterior não protege o bebê desta gestação.",
+   "Correta: com 31 semanas ela está na faixa indicada, a dose é por gestação e a aplicação junto com a dTpa é recomendada.",
+   "Errada: a IN permite a aplicação simultânea com as demais vacinas, em sítios diferentes, sem intervalo entre elas.",
+   "Errada: a vacinação vale a partir da 28ª semana e deve ser feita na agenda oportuna, sem esperar a 36ª semana.",
+   "Errada: a via é intramuscular, preferencialmente no deltoide; distúrbio de coagulação pede cautela, não troca de via."
+  ]
+ },
+ {
+  "q": "Lactente de 7 meses chega à UBS com a caderneta mostrando apenas 1 dose de vacina pneumocócica 10-valente, aplicada aos 2 meses de idade. A unidade já recebeu a VPC 20, em fase de incorporação ao calendário. Conforme a Instrução Normativa do Calendário Nacional de Vacinação 2026, qual é a conduta correta?",
+  "alts": [
+   "Reiniciar o esquema com a VPC 20, com 2 doses e 60 dias entre elas, pois vacinas de valências diferentes não podem ser combinadas.",
+   "Aplicar hoje a 2ª dose com a VPC 10, para completar o esquema básico com a mesma vacina, e fazer o reforço com a VPC 20 aos 12 meses.",
+   "Aplicar hoje dose única com a VPC 20 e considerar a criança vacinada, pois essa dose substitui o esquema básico e o reforço.",
+   "Aplicar hoje a 2ª dose com a VPC 20 e agendar o reforço com a VPC 20 aos 12 meses, respeitando 60 dias após a 2ª dose.",
+   "Aguardar os 12 meses e aplicar o reforço com a VPC 20, pois após os 6 meses a 2ª dose do esquema básico deixa de ser indicada."
+  ],
+  "gab": 3,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS), item Vacina pneumocócica 20-valente (VPC 20)",
+  "coment": "Na fase de transição, a IN 2026 compõe o esquema com VPC 10 e VPC 20: rotina com 1ª dose de VPC 20 aos 2 meses, 2ª de VPC 10 aos 4 meses e reforço de VPC 20 aos 12 meses. Para a criança entre 5 e 10 meses com 1 dose de VPC 10 (esquema básico incompleto), a IN manda aplicar a 2ª dose com VPC 20, com intervalo de 60 dias entre as doses (30 dias só em situação excepcional), e 1 dose de reforço aos 12 meses com VPC 20, respeitando 60 dias após a 2ª dose. Dose única de VPC 20 é a conduta para quem chega sem nenhuma dose a partir dos 12 meses. Não se reinicia esquema: as doses já aplicadas valem.",
+  "porAlt": [
+   "Errada: a IN combina VPC 10 e VPC 20 na transição, e dose válida já aplicada não é repetida.",
+   "Errada: para a criança de 5 a 10 meses com 1 dose de VPC 10, a 2ª dose indicada é com VPC 20.",
+   "Errada: dose única de VPC 20 é para criança sem histórico a partir dos 12 meses, não para lactente de 7 meses.",
+   "Correta: é a orientação da IN para 5 a 10 meses com 1 dose de VPC 10: 2ª dose com VPC 20 e reforço com VPC 20 aos 12 meses.",
+   "Errada: a 2ª dose do esquema básico continua indicada aos 7 meses, e adiar deixa a criança desprotegida."
+  ]
+ },
+ {
+  "q": "Na enfermaria de clínica médica, no plantão noturno com uma enfermeira e quatro técnicos, um paciente de 66 anos evolui com PA 78/40 mmHg, FC 132 bpm, sudorese e rebaixamento do nível de consciência. A enfermeira está atendendo uma intercorrência em outra ala, e um técnico com dez anos de experiência se oferece para assumir sozinho o cuidado do paciente até o médico chegar. À luz da Lei 7.498/1986, qual é a análise correta?",
+  "alts": [
+   "Os cuidados diretos a paciente grave com risco de vida são privativos do enfermeiro; o técnico executa ações assistenciais sob orientação e supervisão dele.",
+   "O técnico pode assumir o cuidado, pois a experiência profissional comprovada o habilita a cuidados de maior complexidade técnica no período noturno.",
+   "O técnico pode assumir o cuidado se a enfermeira delegar por escrito, pois a delegação formal transfere a responsabilidade técnica pelo paciente.",
+   "O técnico pode assumir o cuidado sob supervisão do médico plantonista, que substitui o enfermeiro na supervisão da equipe de enfermagem.",
+   "O cuidado pode ser assumido por técnico ou auxiliar, pois o rol privativo do enfermeiro se resume à consulta e à prescrição da assistência de enfermagem."
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 7.498/1986, arts. 11, I, l e m, 12 e 15",
+  "coment": "A Lei 7.498/1986, art. 11, I, reserva privativamente ao enfermeiro os cuidados diretos de enfermagem a pacientes graves com risco de vida (alínea l) e os cuidados de maior complexidade técnica que exijam conhecimentos de base científica e capacidade de tomar decisões imediatas (alínea m). O art. 12, b, permite ao técnico executar ações assistenciais, exceto as privativas do enfermeiro, e o art. 15 determina que as atividades de técnicos e auxiliares em instituições de saúde só sejam desempenhadas sob orientação e supervisão de enfermeiro. Experiência, delegação por escrito ou presença do médico não mudam a atribuição legal. A conduta é acionar a enfermeira, que assume o cuidado direto, com o técnico atuando sob sua supervisão.",
+  "porAlt": [
+   "Correta: a alínea l do art. 11, I, torna privativo do enfermeiro o cuidado direto ao paciente grave, e o art. 15 exige sua supervisão.",
+   "Errada: a lei define competência pela categoria profissional, e tempo de experiência não transfere atividade privativa.",
+   "Errada: atividade privativa não é delegável, e nenhum documento interno transfere ao técnico o que a lei reserva ao enfermeiro.",
+   "Errada: a supervisão das atividades de técnicos e auxiliares cabe ao enfermeiro (art. 15), e não ao médico.",
+   "Errada: o rol privativo do art. 11, I, inclui também o cuidado direto ao paciente grave e os cuidados de maior complexidade."
+  ]
+ },
+ {
+  "q": "Em hospital de pequeno porte, um enfermeiro generalista, sem título de enfermeiro obstétrico, assiste uma parturiente de 23 anos em período expulsivo, com feto cefálico e sem sinais de distocia, enquanto o médico se desloca de outra unidade. Ele avalia que o períneo é pouco distensível e cogita fazer episiotomia com anestesia local. Segundo a Lei 7.498/1986, qual é a análise correta?",
+  "alts": [
+   "Ele não pode assistir o parto, pois toda assistência à parturiente é exclusiva da enfermeira obstétrica e da obstetriz, pelo parágrafo único do art. 11.",
+   "Ele pode fazer o parto e a episiotomia, pois a lei permite ao enfermeiro qualquer procedimento obstétrico enquanto o médico não chega ao serviço.",
+   "Ele pode fazer o parto e a episiotomia, mas a anestesia local é privativa do médico, inclusive quando a profissional é enfermeira obstétrica.",
+   "Ele pode fazer a episiotomia, pois é cuidado de maior complexidade técnica, com decisão imediata, privativo de qualquer enfermeiro pelo art. 11, I.",
+   "Ele pode executar o parto sem distocia como integrante da equipe; episiotomia, episiorrafia e anestesia local cabem à enfermeira obstétrica e à obstetriz."
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Lei do exercício profissional e decreto regulamentador",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Lei 7.498/1986, art. 6º, II, e art. 11, II, g, h e i, e parágrafo único",
+  "coment": "Como integrante da equipe de saúde, todo enfermeiro presta assistência de enfermagem à gestante, parturiente e puérpera, acompanha a evolução e o trabalho de parto e executa o parto sem distocia (Lei 7.498/1986, art. 11, II, g, h e i). O parágrafo único do art. 11 acrescenta atribuições às profissionais do art. 6º, II, isto é, obstetriz e enfermeira obstétrica: assistência à parturiente e ao parto normal, identificação das distocias obstétricas com tomada de providências até a chegada do médico, e realização de episiotomia e episiorrafia, com aplicação de anestesia local quando necessária. Sem o título, o generalista pode conduzir o parto sem distocia, mas não fazer episiotomia.",
+  "porAlt": [
+   "Errada: o art. 11, II, i, permite a todo enfermeiro executar o parto sem distocia como integrante da equipe.",
+   "Errada: a ausência do médico não amplia a competência legal; episiotomia é atribuição da enfermeira obstétrica e da obstetriz.",
+   "Errada: a lei atribui à enfermeira obstétrica e à obstetriz a aplicação de anestesia local quando necessária.",
+   "Errada: a episiotomia está no parágrafo único do art. 11, restrita às profissionais do art. 6º, II, e não no rol do inciso I.",
+   "Correta: parto sem distocia cabe a todo enfermeiro (art. 11, II, i); episiotomia, episiorrafia e anestesia local, à obstetriz e à enfermeira obstétrica."
+  ]
+ },
+ {
+  "q": "Na clínica médica, a enfermeira registra a avaliação de um paciente de 78 anos, acamado após AVC, com pele íntegra e escore de Braden indicativo de risco elevado. Ela estabelece o diagnóstico Risco de lesão por pressão no adulto (NANDA-I 2024-2026) e prescreve mudança de decúbito programada e proteção das proeminências ósseas. Uma técnica de enfermagem pergunta como deve registrar a sua participação. Conforme a Resolução COFEN 736/2024, qual é a orientação correta?",
+  "alts": [
+   "Registrar a evolução de enfermagem ao fim do plantão, pois a técnica que executa os cuidados é quem avalia os resultados alcançados pelo paciente.",
+   "Registrar novo diagnóstico de enfermagem se notar hiperemia, pois o diagnóstico de risco pode ser atualizado por qualquer membro da equipe.",
+   "Registrar os cuidados em impresso separado do prontuário, pois a documentação do processo no prontuário é exclusiva da enfermeira.",
+   "Registrar anotações de enfermagem e checar os cuidados prescritos; o registro de todas as etapas do processo de enfermagem cabe à enfermeira.",
+   "Registrar os dados da avaliação inicial, pois a técnica participa da coleta de dados e não pode checar a prescrição de enfermagem."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Etapas do Processo de Enfermagem",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 736/2024, arts. 4º, 6º, 7º e 8º",
+  "coment": "A Resolução COFEN 736/2024 reserva ao enfermeiro o Diagnóstico e a Prescrição de Enfermagem (art. 6º). Técnicos e auxiliares participam do Processo de Enfermagem com Anotações de Enfermagem e com a implementação dos cuidados prescritos e sua checagem, sob supervisão e orientação do enfermeiro (art. 7º). A documentação deve ser feita formalmente no prontuário, físico ou eletrônico, cabendo ao enfermeiro o registro de todas as etapas e à equipe a anotação, a checagem da prescrição e outros registros próprios da enfermagem (art. 8º). A Evolução de Enfermagem, quinta etapa, é a avaliação dos resultados alcançados e permite revisar todo o processo (art. 4º, § 5º); seu registro, como o das demais etapas, é do enfermeiro.",
+  "porAlt": [
+   "Errada: a Evolução é etapa do processo, e o registro de todas as etapas cabe ao enfermeiro (art. 8º); a técnica faz anotação.",
+   "Errada: o diagnóstico de enfermagem é privativo do enfermeiro (art. 6º); a técnica comunica o achado e o anota.",
+   "Errada: toda a equipe registra formalmente no prontuário, físico ou eletrônico, cada um no que lhe cabe (art. 8º).",
+   "Correta: técnicos fazem anotação, implementam e checam os cuidados prescritos (art. 7º), e o enfermeiro registra todas as etapas (art. 8º).",
+   "Errada: a resolução prevê expressamente a checagem da prescrição pelos técnicos e auxiliares (arts. 7º e 8º)."
+  ]
+ },
+ {
+  "q": "Em consulta de enfermagem de pré-natal na UBS, gestante de 19 semanas tem teste rápido treponêmico reagente. Relata ter faltado às consultas anteriores e não usar preservativo, e diz que o parceiro nunca foi testado. A enfermeira registra o diagnóstico Comportamentos ineficazes de manutenção da saúde (NANDA-I 2024-2026) e, seguindo o protocolo municipal de pré-natal, prescreve benzilpenicilina benzatina e solicita VDRL. Como essa conduta se enquadra na Resolução COFEN 736/2024?",
+  "alts": [
+   "O diagnóstico é privativo da enfermeira, e a prescrição da penicilina e a solicitação do VDRL são cuidados interprofissionais, que exigem prescrição médica prévia.",
+   "O diagnóstico é privativo da enfermeira, e a prescrição da penicilina e a solicitação do VDRL integram o padrão de cuidados em Programas de Saúde da Implementação.",
+   "O diagnóstico é privativo da enfermeira, e a prescrição da penicilina e a solicitação do VDRL são cuidados autônomos, que dispensam protocolo da instituição.",
+   "O diagnóstico pertence à etapa de Avaliação, e a prescrição da penicilina e a solicitação do VDRL só podem ser feitas por enfermeira com título de obstetrícia.",
+   "O diagnóstico deveria ser de risco, por não haver características definidoras, e a prescrição da penicilina pela enfermeira não tem amparo nessa resolução."
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Consulta de enfermagem",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Resolução COFEN 736/2024, arts. 4º, § 4º, III, 5º e 6º; Lei 7.498/1986, art. 11, II, c",
+  "coment": "A consulta de enfermagem deve ser organizada e registrada conforme as etapas do Processo de Enfermagem (Res. COFEN 736/2024, art. 5º), e o diagnóstico e a prescrição de enfermagem são privativos do enfermeiro (art. 6º). Na Implementação, o art. 4º, § 4º, distingue três padrões: cuidados autônomos do enfermeiro, cuidados interprofissionais (colaborativos) e cuidados em Programas de Saúde, que são os advindos de protocolos assistenciais, como a prescrição de medicamentos padronizados nos programas de saúde pública e em rotina aprovada pela instituição e a solicitação de exames de rotina e complementares. Esse padrão tem amparo legal na Lei 7.498/1986, art. 11, II, c. O diagnóstico escolhido é com foco no problema, sustentado por características definidoras como faltas às consultas.",
+  "porAlt": [
+   "Errada: medicamento padronizado em programa de saúde e previsto em protocolo dispensa prescrição médica prévia (art. 4º, § 4º, III).",
+   "Correta: prescrição de medicamento padronizado e solicitação de exame por protocolo formam o padrão de Programas de Saúde (art. 4º, § 4º, III).",
+   "Errada: o padrão autônomo não abrange prescrição de medicamento; ela depende de programa de saúde ou rotina aprovada pela instituição.",
+   "Errada: o diagnóstico é a segunda etapa, e a prescrição em programa de saúde é atribuição de todo enfermeiro, sem exigir título.",
+   "Errada: há características definidoras no relato, e a resolução ampara a prescrição de medicamentos padronizados em programas de saúde."
+  ]
+ },
+ {
+  "q": "Paciente de 70 anos, internado na clínica médica com cateter vesical de demora há cinco dias, apresenta febre e dor suprapúbica, e o médico solicita urocultura. A técnica de enfermagem sugere desconectar a sonda do tubo coletor para colher o jato direto no frasco estéril. Segundo as medidas de prevenção da ANVISA, como a amostra deve ser obtida?",
+  "alts": [
+   "Colher a urina acumulada na bolsa coletora pela válvula de drenagem, após desprezar os primeiros mililitros, sem abrir o sistema.",
+   "Desconectar a sonda do tubo coletor com técnica asséptica, colher o jato direto no frasco estéril e reconectar o mesmo sistema.",
+   "Aspirar pequena amostra com agulha estéril pelo dispositivo de coleta, após desinfecção, e levar a amostra logo ao laboratório.",
+   "Trocar a sonda e a bolsa por um sistema novo e colher a amostra da primeira urina que se acumular na bolsa coletora nova.",
+   "Fechar a sonda com pinça por duas horas para concentrar a urina e depois colher pela extremidade distal do tubo coletor."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Coleta de exames",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "ANVISA. Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, 2ª ed., 2017, item 5.1.4",
+  "coment": "O caderno da ANVISA de 2017 (item 5.1.4) orienta, para exame de urina em paciente com cateter, coletar pequena amostra por aspiração com agulha estéril após desinfecção do dispositivo de coleta e levar a amostra imediatamente ao laboratório para cultura. O mesmo item manda manter o sistema de drenagem fechado e estéril, não desconectar o cateter do tubo de drenagem, exceto se a irrigação for necessária, e trocar todo o sistema quando houver desconexão, quebra da técnica asséptica ou vazamento. A urina parada na bolsa não serve para cultura, pois não representa a urina vesical. O documento também desaconselha a troca rotineira de cateteres e o monitoramento rotineiro de bacteriúria assintomática.",
+  "porAlt": [
+   "Errada: a urina estagnada na bolsa coletora não representa a urina vesical e não serve para cultura.",
+   "Errada: desconectar quebra o sistema fechado; a ANVISA só admite a desconexão para irrigação e manda trocar o sistema se ocorrer.",
+   "Correta: é a técnica do item 5.1.4 do caderno da ANVISA: aspiração estéril pelo dispositivo de coleta, após desinfecção.",
+   "Errada: a ANVISA não recomenda troca rotineira do cateter, e urina da bolsa, mesmo nova, não é amostra adequada.",
+   "Errada: clampear não melhora a amostra, e a coleta deve ser feita pelo dispositivo próprio, não pela extremidade do tubo."
+  ]
+ },
+ {
+  "q": "Na UTI, paciente de 58 anos tem cateter venoso central em veia jugular interna há quatro dias, sem indicação de retirada. O sítio está coberto com gaze e fita adesiva estéril, trocadas há 30 horas, mas o paciente apresenta sudorese intensa e a cobertura está úmida. Segundo as medidas de prevenção da ANVISA, qual é a conduta correta com a cobertura?",
+  "alts": [
+   "Manter a cobertura até completar 48 horas, prazo de troca da gaze, e reforçar a fixação com nova fita adesiva para conter a umidade.",
+   "Trocar agora e substituir a gaze por filme transparente semipermeável, preferível na sudorese intensa e trocado a cada sete dias.",
+   "Trocar agora a cobertura e passar a trocar a gaze a cada 24 horas, pois na UTI o intervalo de troca é menor que nas enfermarias.",
+   "Manter a cobertura e programar a troca do cateter, pois umidade no sítio indica colonização e o cateter deve ser trocado por fio-guia.",
+   "Trocar agora, pois cobertura úmida é trocada fora do prazo, e manter gaze e fita estéril enquanto houver diaforese excessiva."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Cateteres, sondas e dispositivos",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "ANVISA. Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde, 2ª ed., 2017, item 4.2.3",
+  "coment": "O item 4.2.3 do caderno da ANVISA de 2017 admite gaze com fita adesiva estéril ou cobertura transparente semipermeável estéril para o sítio do cateter central. A troca é a cada 48 horas para gaze e fita e a cada sete dias para a cobertura transparente, mas qualquer cobertura deve ser trocada imediatamente, independentemente do prazo, se estiver suja, solta ou úmida, e a troca não deve ser adiada, pois cobertura sem integridade se associa a risco de 4 a 12 vezes maior de infecção primária da corrente sanguínea. Em sangramento ou diaforese excessivos, o documento prefere gaze e fita estéril às coberturas transparentes. Durante o banho, coberturas e conexões devem ser protegidas com material impermeável.",
+  "porAlt": [
+   "Errada: cobertura úmida é trocada na hora, sem esperar o prazo, e reforçar a fita mantém a umidade sobre o sítio.",
+   "Errada: em diaforese excessiva a ANVISA prefere gaze e fita estéril, e não a cobertura transparente.",
+   "Errada: o intervalo da gaze é 48 horas também na UTI; o que encurta a troca é a cobertura estar suja, solta ou úmida.",
+   "Errada: cobertura úmida pede troca da cobertura; ela não é, por si, indicação de trocar o cateter.",
+   "Correta: a ANVISA manda trocar já a cobertura úmida e, com diaforese excessiva, preferir gaze e fita adesiva estéril."
+  ]
+ },
+ {
+  "q": "Paciente de 45 anos, internado na enfermaria, tem prescrição de ceftriaxona 1 g diluída em 100 mL de soro fisiológico a 0,9%, para infundir em 30 minutos. Não há bomba de infusão disponível, e será usado equipo de macrogotas, em que 1 mL corresponde a 20 gotas. Qual deve ser o gotejamento aproximado?",
+  "alts": [
+   "67 gotas por minuto.",
+   "33 gotas por minuto.",
+   "200 gotas por minuto.",
+   "1 gota por minuto.",
+   "2.000 gotas por minuto."
+  ],
+  "gab": 0,
+  "tema": "farmaco",
+  "sub": "Gotejamento e bomba de infusão",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "ISO 8536-4:2019 (equipo gravitacional: 20 gotas = 1 mL); Protocolo de segurança na prescrição, uso e administração de medicamentos (Portaria GM/MS 2.095/2013)",
+  "coment": "Com o tempo em minutos, o gotejamento em macrogotas é o volume em mL multiplicado por 20 e dividido pelo tempo: 100 × 20 ÷ 30 = 2.000 ÷ 30 = 66,7, ou cerca de 67 gotas por minuto. Conferência pela fórmula em horas, gotas/min = V ÷ (T × 3): com T = 0,5 h, 100 ÷ 1,5 = 66,7, mesmo resultado. Os erros mais comuns são usar o tempo errado (60 minutos dá 33 gotas), aplicar o fator de microgotas (60 por mL, o que dá 200), colocar o tempo em minutos na fórmula de horas (100 ÷ 90, perto de 1 gota) ou esquecer de dividir pelo tempo (2.000). Antes de abrir o rolete, confira o volume, o tempo e o tipo de equipo, e cronometre o gotejamento por um minuto.",
+  "porAlt": [
+   "Correta: 100 mL × 20 gotas ÷ 30 min = 66,7, cerca de 67 gotas/min; a fórmula V ÷ (T × 3) com T = 0,5 h confirma.",
+   "Errada: 33 gotas/min resultam de dividir por 60 minutos, o dobro do tempo prescrito.",
+   "Errada: 200 corresponde a microgotas (60 por mL), e o equipo descrito é de macrogotas.",
+   "Errada: resulta de usar 30 na fórmula em horas, V ÷ (T × 3), com o tempo ainda em minutos.",
+   "Errada: 2.000 é o total de gotas do volume; faltou dividir pelos 30 minutos da infusão."
+  ]
+ },
+ {
+  "q": "Paciente de 63 anos com diabetes tipo 2, internado na clínica médica, tem prescrição às 22 horas de insulina glargina e de insulina regular conforme a glicemia capilar, que foi de 248 mg/dL. Para poupar uma picada, a técnica de enfermagem propõe aspirar as duas insulinas na mesma seringa. Qual é a orientação correta da enfermeira?",
+  "alts": [
+   "Aspirar primeiro a glargina e depois a regular na mesma seringa, pois a insulina de ação longa entra antes para não contaminar o frasco da insulina rápida.",
+   "Aspirar primeiro a regular e depois a glargina na mesma seringa, pois a sequência da insulina transparente para a turva preserva os dois frascos.",
+   "Aplicar as duas em seringas e locais separados, pois a glargina não pode ser misturada a outra insulina; a mistura na seringa só se admite entre NPH e regular.",
+   "Diluir a glargina em soro fisiológico e aplicar junto com a regular, pois a diluição corrige o pH ácido da glargina e permite a mistura sem perda de efeito.",
+   "Aplicar a mistura por via intravenosa, pois por essa via as duas insulinas agem de imediato e a incompatibilidade entre elas deixa de ter importância clínica."
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Insulinas e anticoagulantes",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r3",
+  "base": "Diretriz da Sociedade Brasileira de Diabetes 2024 (técnica de aplicação de insulina); bula da insulina glargina registrada na ANVISA",
+  "coment": "A insulina glargina é um análogo de ação longa formulado em pH ácido; após a injeção no subcutâneo, em pH neutro, forma microprecipitados que liberam a insulina de forma lenta. Misturá-la a outra insulina na seringa altera esse mecanismo e o perfil de ação, por isso a bula e a Diretriz da Sociedade Brasileira de Diabetes vedam a mistura e a diluição: cada insulina vai em seringa própria e em local diferente. A única mistura feita na seringa é entre NPH e regular, aspirando primeiro a regular, de aspecto límpido, e depois a NPH, de aspecto turvo, para não contaminar o frasco da regular com a NPH. A glargina também é límpida, e a regra da transparente para a turva não se aplica a ela.",
+  "porAlt": [
+   "Errada: a glargina não pode ser misturada a nenhuma outra insulina, qualquer que seja a ordem de aspiração.",
+   "Errada: a glargina é límpida, não turva, e sua mistura com outra insulina é vedada pela bula e pela diretriz.",
+   "Correta: glargina e regular vão em seringas e locais separados; só a NPH pode ser misturada à regular na seringa.",
+   "Errada: a glargina não deve ser diluída, pois o pH ácido é justamente o que garante sua absorção prolongada.",
+   "Errada: a glargina não é para uso intravenoso, e a via não corrige a incompatibilidade da mistura."
+  ]
+ },
+ {
+  "q": "Na enfermaria, uma técnica de enfermagem calça luvas de procedimento, esvazia a bolsa coletora de urina de um paciente, retira as luvas e segue para aferir a pressão arterial do paciente do leito ao lado. As mãos dela não têm sujidade visível. Segundo o protocolo nacional de higiene das mãos, qual é a conduta correta?",
+  "alts": [
+   "Dispensar a higiene das mãos, porque as luvas íntegras protegeram as mãos durante todo o contato com a urina do paciente.",
+   "Deixar a higiene para antes de tocar o próximo paciente, pois a higiene após a retirada das luvas se restringe a procedimento asséptico.",
+   "Lavar as mãos com água e sabonete, pois a preparação alcoólica é ineficaz após contato com urina, mesmo sem sujidade visível.",
+   "Calçar novo par de luvas sem higienizar as mãos, pois a troca de luvas entre pacientes substitui a higiene das mãos nesse momento.",
+   "Higienizar as mãos logo após retirar as luvas, momento de risco de exposição a fluidos corporais, antes de tocar o paciente ao lado."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Higiene das mãos",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Protocolo para a prática de higiene das mãos em serviços de saúde (Portaria GM/MS 1.377/2013); RDC ANVISA 42/2010",
+  "coment": "O protocolo nacional de higiene das mãos, aprovado pela Portaria GM/MS 1.377/2013, adota os cinco momentos da OMS: antes de tocar o paciente, antes de procedimento limpo ou asséptico, após risco de exposição a fluidos corporais, após tocar o paciente e após tocar superfícies próximas ao paciente. Esvaziar a bolsa coletora é risco de exposição a fluido; a higiene deve ser feita logo após a retirada das luvas, porque elas podem ter microfuros e as mãos se contaminam ao retirá-las. O uso de luvas não substitui a higiene das mãos. Sem sujidade visível, a preparação alcoólica é a primeira escolha, e a RDC ANVISA 42/2010 obriga sua disponibilidade nos pontos de assistência. A mesma higiene atende ao momento de antes de tocar o próximo paciente.",
+  "porAlt": [
+   "Errada: luvas não substituem a higiene das mãos, que se contaminam também durante a retirada das luvas.",
+   "Errada: após risco de exposição a fluidos corporais é um dos cinco momentos, independentemente de o procedimento ser asséptico.",
+   "Errada: sem sujidade visível, a preparação alcoólica é indicada; água e sabonete ficam para mãos visivelmente sujas.",
+   "Errada: trocar ou calçar luvas não dispensa a higiene das mãos, que deve preceder o novo par.",
+   "Correta: o momento após risco de exposição a fluidos exige higiene ao retirar as luvas, e ela já atende ao antes de tocar o próximo paciente."
+  ]
+ },
+ {
+  "q": "O Núcleo de Segurança do Paciente de um hospital geral analisa dois eventos de março: no dia 4, uma paciente de 81 anos caiu do leito e fraturou o fêmur; no dia 20, um paciente morreu após receber, por erro de preparo, cloreto de potássio concentrado sem diluição. Segundo a RDC ANVISA 36/2013, como devem ser feitas as notificações desses eventos à ANVISA?",
+  "alts": [
+   "Os dois eventos devem ser notificados em até 72 horas do ocorrido, pois a resolução exige esse prazo para todo evento adverso com dano grave.",
+   "O óbito deve ser notificado em até 72 horas do ocorrido, e a queda com fratura entra na notificação mensal do núcleo, até o 15º dia útil de abril.",
+   "O óbito deve ser notificado em até 24 horas à vigilância epidemiológica, e a queda com fratura, em até 72 horas ao sistema da ANVISA.",
+   "Os dois eventos entram na notificação mensal, até o 15º dia útil de abril, pois o prazo de 72 horas vale só para os incidentes sem dano.",
+   "O óbito deve ser notificado em até 60 dias, após a análise de causa raiz, e a queda com fratura, no relatório anual do núcleo à ANVISA."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "RDC ANVISA 36/2013, arts. 9º e 10",
+  "coment": "A RDC ANVISA 36/2013 atribui ao Núcleo de Segurança do Paciente o monitoramento de incidentes e eventos adversos (art. 9º). O art. 10 fixa a regra geral: a notificação dos eventos adversos é feita mensalmente pelo NSP, até o 15º dia útil do mês subsequente ao mês de vigilância, pelas ferramentas eletrônicas disponibilizadas pela ANVISA. O parágrafo único abre a exceção: eventos adversos que evoluem para óbito devem ser notificados em até 72 horas a partir do ocorrido. A queda com fratura, mesmo com dano grave, segue a regra mensal; o óbito por erro de medicação segue o prazo de 72 horas. A análise de causa raiz é feita pelo núcleo, mas não adia a notificação do óbito.",
+  "porAlt": [
+   "Errada: o prazo de 72 horas é exclusivo dos eventos que evoluem para óbito; dano grave sem óbito segue a regra mensal.",
+   "Correta: óbito em até 72 horas (art. 10, parágrafo único) e demais eventos adversos na notificação mensal até o 15º dia útil (art. 10).",
+   "Errada: a resolução não prevê prazo de 24 horas, e a notificação é feita à ANVISA, não à vigilância epidemiológica.",
+   "Errada: o óbito tem prazo próprio de 72 horas, e a resolução trata da notificação de eventos adversos, não de incidentes sem dano.",
+   "Errada: 60 dias não é prazo da RDC 36/2013, e a notificação do óbito não espera a conclusão da análise de causa raiz."
+  ]
+ },
+ {
+  "q": "Mulher de 84 anos, com incontinência urinária e fecal, internada na clínica médica, apresenta na região perineal e na face interna das nádegas eritema difuso e brilhante, de bordas mal definidas, com áreas de erosão superficial, distribuído em espelho e fora das proeminências ósseas. Não há bolhas íntegras nem tecido necrótico. Como a enfermeira deve classificar a lesão?",
+  "alts": [
+   "Como dermatite associada à incontinência, lesão por umidade que não deve ser registrada como lesão por pressão estágio 2.",
+   "Como lesão por pressão estágio 2, pois há perda parcial da espessura da pele, com exposição da derme e leito vermelho e úmido.",
+   "Como lesão por pressão estágio 1, pois o eritema difuso em área úmida equivale ao eritema que não embranquece à pressão.",
+   "Como lesão por pressão tissular profunda, pois a área extensa e brilhante indica dano nos tecidos abaixo da pele íntegra.",
+   "Como lesão por pressão não classificável, pois a umidade impede ver a profundidade do leito e fazer o estadiamento."
+  ],
+  "gab": 0,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Classificação das lesões por pressão NPIAP 2016 (consenso adaptado para o Brasil por SOBEST e SOBENDE, 2016)",
+  "coment": "Pela classificação NPIAP de 2016, lesão por pressão é dano localizado da pele ou de tecidos subjacentes, em geral sobre proeminência óssea ou relacionado a dispositivo, resultante de pressão ou de pressão combinada com cisalhamento. O próprio texto do estágio 2 diz que ele não deve ser usado para descrever lesões de pele associadas à umidade, como a dermatite associada à incontinência e a dermatite intertriginosa, nem lesões por adesivo médico ou feridas traumáticas, como lesão por fricção, queimadura e abrasão. O quadro descrito tem os traços da dermatite associada à incontinência: eritema difuso, bordas mal definidas, erosão superficial, distribuição em espelho em área exposta a urina e fezes e localização fora de proeminência óssea.",
+  "porAlt": [
+   "Correta: eritema difuso, em espelho, fora de proeminência e em área de umidade é dermatite associada à incontinência, excluída do estágio 2.",
+   "Errada: a NPIAP veda o uso do estágio 2 para lesões por umidade, e o quadro não está sobre proeminência óssea.",
+   "Errada: o estágio 1 é eritema que não embranquece em pele íntegra por pressão, e não eritema difuso por umidade com erosões.",
+   "Errada: a lesão tissular profunda tem coloração vermelho-escura, marrom ou púrpura persistente, não eritema brilhante difuso.",
+   "Errada: não classificável é perda total da espessura encoberta por esfacelo ou escara, o que não ocorre aqui."
+  ]
+ },
+ {
+  "q": "Na UTI, paciente de 52 anos, intubado há oito dias, apresenta duas lesões. Na mucosa do lábio inferior, sob o tubo orotraqueal, há uma úlcera rasa. No dorso do nariz, sob a máscara de ventilação não invasiva usada antes da intubação, há perda total da espessura da pele, com leito raso de tecido de granulação e bordas enroladas, sem fáscia, cartilagem ou osso expostos. Segundo a classificação NPIAP de 2016, como registrar as lesões?",
+  "alts": [
+   "Lesão por pressão estágio 2 no lábio, por ser rasa, e lesão por pressão estágio 3 no nariz, sem registrar sua relação com o dispositivo médico.",
+   "Lesão por pressão relacionada a dispositivo nas duas regiões, ambas sem estadiamento, pois lesões causadas por dispositivo não recebem estágio.",
+   "Lesão por pressão em membrana mucosa estágio 2 no lábio e lesão por pressão estágio 4 no nariz, pela proximidade do leito com a cartilagem.",
+   "Lesão por pressão em membrana mucosa, sem estadiamento, no lábio, e lesão por pressão relacionada a dispositivo médico, estágio 3, no nariz.",
+   "Lesão de mucosa estadiada como estágio 2 e lesão do nariz como não classificável, pois área sem tecido adiposo impede o estadiamento."
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Lesão por pressão",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Classificação das lesões por pressão NPIAP 2016 (consenso adaptado para o Brasil por SOBEST e SOBENDE, 2016)",
+  "coment": "A classificação NPIAP de 2016 traz duas definições adicionais. A lesão por pressão relacionada a dispositivo médico resulta do uso de dispositivo para diagnóstico ou tratamento, tem o formato do dispositivo e deve ser estadiada pelo sistema de classificação. A lesão por pressão em membrana mucosa ocorre quando há dispositivo médico no local e, pela anatomia do tecido, não pode ser estadiada. No nariz, a perda total da espessura da pele com granulação e epíbole, sem fáscia, músculo, tendão, cartilagem ou osso expostos, é estágio 3; a profundidade do estágio 3 varia com a região anatômica e pode ser pequena onde há pouco tecido adiposo. Registrar a relação com o dispositivo orienta a prevenção, como reposicionar o tubo e proteger a pele sob máscaras.",
+  "porAlt": [
+   "Errada: lesão de mucosa não recebe estágio, e a lesão do nariz deve ser registrada como relacionada a dispositivo médico.",
+   "Errada: a lesão relacionada a dispositivo em pele é estadiada; só a lesão em membrana mucosa fica sem estágio.",
+   "Errada: mucosa não é estadiada, e o estágio 4 exige fáscia, músculo, tendão, ligamento, cartilagem ou osso expostos.",
+   "Correta: mucosa sob dispositivo não recebe estágio, e a lesão de pele por dispositivo é estadiada; aqui, estágio 3.",
+   "Errada: a perda total da espessura com leito visível é estadiável, e a profundidade do estágio 3 varia conforme a região anatômica."
+  ]
+ }
+]

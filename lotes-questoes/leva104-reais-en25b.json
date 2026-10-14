@@ -1,0 +1,1570 @@
+[
+ {
+  "q": "Na assistência de Enfermagem, o reconhecimento precoce de alterações no padrão de respiração é fundamental para a prevenção de complicações do sistema respiratório. Determinar o padrão respiratório envolve avaliar a troca de oxigênio e dióxido de carbono entre o ambiente, o sangue e as células.\nCom base nesse contexto, analise as afirmativas a seguir.\nI. Na respiração de Kusmaul, a respiração é anormalmente profunda, mas regular, e é geralmente associada à cetoacidose diabética ou à origem renal.\nII. A respiração de Biot demonstra um padrão regular com frequência e profundidade respiratórias que aumentam e depois diminuem.\nIII. A hiperventilação é caracterizada por aumento da frequência e da profundidade respiratória, podendo causar hipocarbia.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Potter e Perry, Fundamentos de Enfermagem, 9ª ed., Elsevier, 2018 (avaliação da respiração)",
+  "coment": "Kussmaul é respiração profunda e regular, com frequência normal ou aumentada, típica da acidose metabólica (cetoacidose diabética, uremia); a afirmativa I está certa. A hiperventilação aumenta frequência e profundidade, elimina CO2 em excesso e causa hipocapnia; a III está certa. A II erra: Biot é padrão irregular, com incursões de profundidade variável interrompidas por apneias. O ciclo de aumento e diminuição progressivos da profundidade, alternado com apneia, é Cheyne-Stokes.",
+  "porAlt": [
+   "Errada: deixa de fora a III, que descreve corretamente a hiperventilação e a hipocapnia resultante.",
+   "Errada: a II é falsa, porque Biot é irregular e o crescendo e decrescendo descreve Cheyne-Stokes.",
+   "Correta: Kussmaul é profunda e regular na acidose metabólica, e a hiperventilação causa hipocapnia.",
+   "Errada: inclui a II, falsa, e exclui a I, que descreve corretamente a respiração de Kussmaul.",
+   "Errada: a II é falsa, já que a respiração de Biot não tem padrão regular."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "M.T.S., sexo masculino, 65 anos, deu entrada na Unidade de Emergência com quadro grave de vômito e dor abdominal. O médico solicitou exames laboratoriais, de imagem e indicou a inserção de uma sonda nasogástrica.\nCom base no caso apresentado, sobre os cuidados de Enfermagem no manejo da sonda nasogástrica, assinale a afirmativa correta.",
+  "alts": [
+   "O ressecamento das mucosas oral e nasal é um resultado esperado em pacientes idosos, e não requer maior atenção.",
+   "O posicionamento da sonda deve ser checado apenas no momento da inserção, desde que tenha sido confirmada por radiografia abdominal.",
+   "O conteúdo gástrico aspirado pela sonda deve ser desprezado sem registro, pois sua análise não contribui para a avaliação dos resultados esperados.",
+   "A distensão abdominal persistente pode ser ignorada nas primeiras 24 horas após a inserção da sonda nasogástrica, pois é comum no início do quadro clínico.",
+   "A ausência de drenagem gástrica pode indicar obstrução ou mal posicionamento da sonda, devendo-se verificar a permeabilidade, a conexão com o sistema de sucção e a posição da sonda."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., Guanabara Koogan, 2020 (intubação gastrintestinal)",
+  "coment": "Na sonda nasogástrica de descompressão, a ausência de drenagem quando se espera débito sugere sonda obstruída, dobrada, desconectada da aspiração ou fora do estômago. O enfermeiro verifica a permeabilidade, a conexão e a posição antes de qualquer outra medida. A posição é reconferida a cada turno e antes de cada uso, porque a sonda migra. O conteúdo drenado é medido, caracterizado e entra no balanço hídrico. Mucosas secas pedem higiene oral e nasal, e distensão persistente é sinal de sonda que não está funcionando.",
+  "porAlt": [
+   "Errada: o ressecamento das mucosas é complicação previsível que exige higiene oral e nasal frequentes.",
+   "Errada: a posição é reconferida a cada turno e antes de cada uso, pois a sonda pode migrar após o raio X.",
+   "Errada: volume e aspecto do drenado são registrados, entram no balanço e orientam a avaliação.",
+   "Errada: distensão persistente sugere sonda obstruída ou mal posicionada e deve ser avaliada logo.",
+   "Correta: sem drenagem esperada, checam-se permeabilidade, conexão com a aspiração e posição da sonda."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando os cuidados específicos e os riscos associados à administração segura de medicamentos a crianças e idosos, analise as afirmativas a seguir.\nI. A dosagem infantil é calculada com base na idade cronológica, pois o peso não interfere na absorção medicamentosa.\nII. A polifarmácia é um fator de risco na população idosa e requer estratégias que promovam o uso racional dos medicamentos.\nIII. A má utilização de medicamentos pelos idosos está comumente associada à automedicação e à alteração do esquema terapêutico por conta própria.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Interações e reações adversas",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013), Portaria GM/MS 2.095/2013",
+  "coment": "Em pediatria a dose é calculada pelo peso (mg/kg) ou pela superfície corporal, porque peso e composição corporal mudam distribuição, metabolismo e eliminação do fármaco; a idade isolada não basta, e a afirmativa I é falsa. No idoso, a polifarmácia aumenta interações, reações adversas e erros, e exige revisão periódica da prescrição e uso racional (II certa). Automedicação e mudança do esquema por conta própria estão entre as causas mais comuns de uso inadequado de medicamentos pelo idoso (III certa).",
+  "porAlt": [
+   "Errada: a I é falsa, pois a dose infantil se calcula pelo peso ou pela superfície corporal.",
+   "Errada: combina a I, falsa, com a II e ainda exclui a III, que é verdadeira.",
+   "Errada: a I é falsa; ignorar o peso no cálculo pediátrico é causa clássica de erro de dose.",
+   "Correta: polifarmácia é fator de risco no idoso, e automedicação e mudança do esquema causam uso inadequado.",
+   "Errada: inclui a I, falsa, porque o peso interfere diretamente na farmacocinética da criança."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com relação às medidas de prevenção e controle adotadas durante a assistência aos casos de pacientes suspeitos ou confirmados de Covid-19 nos serviços de saúde, assinale a afirmativa correta.",
+  "alts": [
+   "O uso de luvas dispensa a higienização das mãos, que deve ocorrer nos cinco momentos indicados.",
+   "O uso de duas luvas sobrepostas aumenta a segurança da assistência e é recomendado nos atendimentos.",
+   "As luvas devem ser removidas dentro do quarto ou da área de isolamento e descartadas como resíduo infectante.",
+   "As luvas podem ser higienizadas com preparação alcoólica, quando não for possível trocá-las entre os atendimentos.",
+   "As luvas devem ser utilizadas apenas quando houver risco biológico evidente, dispensando o uso em precaução de contato."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Nota Técnica GVIMS/GGTES/ANVISA nº 04/2020 (medidas de prevenção e controle na assistência a casos suspeitos ou confirmados de covid-19) e atualizações",
+  "coment": "A Nota Técnica 04/2020 da ANVISA orienta retirar as luvas ainda dentro do quarto ou da área de isolamento, descartá-las como resíduo infectante e higienizar as mãos em seguida. Luva não substitui a higiene das mãos, que segue os cinco momentos da OMS. Luva não se lava nem se desinfeta com álcool para reutilizar: troca-se entre pacientes e entre procedimentos. Duas luvas sobrepostas não são recomendadas na rotina. Na precaução de contato a luva faz parte do conjunto obrigatório ao tocar o paciente ou o seu entorno.",
+  "porAlt": [
+   "Errada: a luva não dispensa a higiene das mãos, que é feita antes de calçar e logo após retirar.",
+   "Errada: luvas sobrepostas não são recomendadas na assistência de rotina e não aumentam a segurança.",
+   "Correta: a luva sai dentro do quarto ou da área de isolamento e vai para o resíduo infectante.",
+   "Errada: luva não é higienizada com álcool para reuso; deve ser trocada entre atendimentos.",
+   "Errada: na precaução de contato a luva é obrigatória ao tocar o paciente e as superfícies próximas."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A avaliação da temperatura corporal é um procedimento essencial na prática de Enfermagem e requer atenção às particularidades das faixas etárias extremas.\nConsiderando as especificidades da avaliação da temperatura corporal em pacientes pediátricos e geriátricos, assinale a afirmativa correta.",
+  "alts": [
+   "No atendimento de crianças agitadas ou que choram, recomenda-se iniciar a avaliação pela aferição da temperatura.",
+   "A sudorese nos idosos ocorre precocemente com o aumento da temperatura ambiente, devido à hiper-reatividade das glândulas sudoríparas.",
+   "A temperatura axilar é o método mais confiável para detectar febre em bebês e crianças pequenas, sendo preferencial mesmo em casos de agitação.",
+   "Os idosos apresentam maior risco de hipotermia, porque possuem menor sensibilidade ao frio, vasoconstrição inadequada e reflexo de tremor reduzido.",
+   "A temperatura corporal em idosos tende a estar na extremidade superior da variação normal, sendo comum febres mais intensas com infecções leves."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Potter e Perry, Fundamentos de Enfermagem, 9ª ed., Elsevier, 2018 (temperatura corporal nos extremos de idade)",
+  "coment": "O idoso tem termorregulação menos eficiente: percebe menos o frio, faz vasoconstrição periférica inadequada, treme menos e tem menos tecido subcutâneo e massa muscular, por isso tem mais risco de hipotermia. Pelo mesmo motivo sua temperatura basal tende ao limite inferior do normal, e infecções graves podem cursar com febre baixa ou ausente. A sudorese surge mais tarde, não mais cedo. Na criança agitada, os sinais que o choro altera (frequência respiratória e cardíaca) vêm primeiro, e a temperatura fica para o fim.",
+  "porAlt": [
+   "Errada: na criança agitada aferem-se primeiro FR e FC; a temperatura, mais incômoda, fica para o fim.",
+   "Errada: no idoso a resposta sudorípara é tardia e reduzida, não precoce nem hiper-reativa.",
+   "Errada: a via axilar é prática, mas tem acurácia menor que outras vias para detectar febre.",
+   "Correta: menor percepção do frio, vasoconstrição ineficaz e tremor reduzido elevam o risco de hipotermia.",
+   "Errada: no idoso a temperatura tende ao limite inferior e a febre pode ser discreta mesmo em infecção grave."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O cateterismo vesical é um procedimento invasivo realizado pelo enfermeiro e frequentemente indicado em ambientes hospitalares para monitoramento do débito urinário e cuidados no pós-operatório, entre outras indicações.\nSobre os cuidados de Enfermagem aos pacientes em uso de sondas vesicais de demora, assinale a afirmativa correta.",
+  "alts": [
+   "As sondas de calibre Fr 20 a 22 são, preferencialmente, recomendadas para crianças.",
+   "A troca rotineira de sondas vesicais deve ser feita sempre a cada sete dias para evitar infecção urinária.",
+   "O posicionamento da bolsa de drenagem sempre acima do nível da bexiga previne o refluxo urinário e o risco de infecção.",
+   "A lubrificação adequada da sonda ajuda a minimizar o risco de traumatismo uretral e o desconforto durante a inserção da sonda.",
+   "A irrigação vesical na presença de vazamento ou de obstrução das sondas deve ser intensificada, com o objetivo de reestabelecer a permeabilidade do sistema."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (ANVISA, 2017), prevenção de infecção do trato urinário",
+  "coment": "Lubrificar adequadamente a sonda reduz atrito, trauma uretral e dor na inserção, e a técnica é asséptica. A ANVISA recomenda o menor calibre que garanta a drenagem; calibres 20 a 22 Fr são de adulto e de situações como hematúria com coágulos, nunca a escolha preferencial em criança. Não há troca rotineira em intervalo fixo: troca-se por obstrução, mau funcionamento ou contaminação do sistema. A bolsa fica sempre abaixo do nível da bexiga, sem tocar o chão. Irrigação não é rotina; diante de obstrução, troca-se o sistema.",
+  "porAlt": [
+   "Errada: 20 a 22 Fr são calibres de adulto; na criança usa-se o menor calibre que permita drenagem.",
+   "Errada: não há troca em intervalo fixo; troca-se por obstrução, dano ou contaminação do sistema.",
+   "Errada: a bolsa acima da bexiga causa refluxo de urina; ela deve ficar sempre abaixo desse nível.",
+   "Correta: a lubrificação adequada reduz o atrito, o trauma uretral e o desconforto na inserção.",
+   "Errada: irrigação não é rotina e aumenta o risco de infecção; sonda obstruída deve ser trocada."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O enfermeiro é responsável pela administração segura e correta de medicamentos, o que exige conhecimento aprofundado sobre a terapia medicamentosa e suas implicações. No contexto da prática assistencial, o enfermeiro usa o processo de Enfermagem para integrar a terapia medicamentosa aos cuidados com o paciente.\nConsiderando as etapas de avaliação e implementação relacionadas à administração segura de medicamentos, analise as afirmativas a seguir.\nI. Durante a etapa de implementação, é recomendável administrar o medicamento no horário programado, com tolerância de até duas horas, mesmo para medicamentos de ação imediata.\nII. Durante a etapa de implementação, deve-se verificar se a dose prescrita é apropriada para a condição clínica do paciente, bem como realizar o cálculo correto da dosagem a ser administrada.\nIII. Durante a avaliação de Enfermagem, deve-se considerar as alergias, o uso domiciliar de medicamentos, o tempo de uso, o esquema posológico e o histórico de efeitos adversos.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Medicamentos de alta vigilância",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013); Resolução COFEN 736/2024 (etapas do Processo de Enfermagem)",
+  "coment": "A questão usa as etapas da Res. COFEN 736/2024 (Avaliação, Diagnóstico, Planejamento, Implementação, Evolução). Na Avaliação de Enfermagem levantam-se alergias, medicamentos de uso domiciliar, tempo de uso, posologia e reações prévias (III certa). Na Implementação confere-se se a dose é apropriada e faz-se o cálculo correto (II certa). A I erra: a tolerância de horário depende do tipo de medicamento, e os de ação imediata ou horário crítico admitem janela estreita, de cerca de 30 minutos (ISMP, 2011). Antecipar ou atrasar exige acordo com enfermeiro e prescritor.",
+  "porAlt": [
+   "Errada: a I é falsa, pois fármacos de ação imediata não admitem duas horas de tolerância.",
+   "Errada: inclui a I, falsa, e omite a III, que descreve o que se colhe na Avaliação de Enfermagem.",
+   "Errada: a I é falsa; janela ampla de horário só cabe para medicamentos que não são críticos.",
+   "Correta: na Implementação confere-se e calcula-se a dose; na Avaliação, alergias e uso domiciliar.",
+   "Errada: a I é falsa, porque medicamento de ação imediata exige o horário certo, com janela estreita."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente de 70 anos, sexo masculino, encontra-se no 10º dia de pós-operatório de transplante renal. Evoluiu com dor, calor, eritema e exsudato purulento na ferida operatória, além de temperatura corporal de 38,5 °C.\nSobre o caso, com base na assistência de Enfermagem ao cliente em tratamento clínico e cirúrgico, assinale a afirmativa correta.",
+  "alts": [
+   "A temperatura corporal elevada é um resultado esperado no pós-operatório e, por isso, não necessita de monitoramento específico pelo enfermeiro.",
+   "O diagnóstico de Enfermagem “Integridade da pele prejudicada” deve ser descartado, pois se aplica apenas às lesões traumáticas, e não, às cirúrgicas.",
+   "O enfermeiro deve realizar o curativo usando técnica asséptica, avaliar os sinais de complicação e registrar a evolução da ferida, integrando essas ações ao plano de cuidados.",
+   "O enfermeiro deve orientar a equipe de Enfermagem a realizar o curativo usando técnica limpa, pois a presença de exsudato purulento dispensa medidas específicas de controle de infecção.",
+   "A ferida operatória deve ser tratada pelo enfermeiro responsável pela comissão de curativos, sendo desnecessário o envolvimento de outros profissionais da equipe de saúde."
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (ANVISA, 2017), infecção de sítio cirúrgico; Resolução COFEN 736/2024",
+  "coment": "Dor, calor, eritema, secreção purulenta e febre no 10º dia de pós-operatório indicam infecção de sítio cirúrgico, agravada pela imunossupressão do transplantado. O enfermeiro faz o curativo com técnica asséptica, avalia sinais de complicação, registra a evolução da ferida e integra isso ao plano de cuidados e à equipe (cirurgião, CCIH). Febre no pós-operatório exige investigação. Ferida cirúrgica é lesão de pele e cabe o diagnóstico de integridade da pele prejudicada. Exsudato purulento aumenta, e não reduz, a exigência de controle de infecção.",
+  "porAlt": [
+   "Errada: febre de 38,5 °C com sinais locais é sinal de infecção e exige monitoramento e comunicação.",
+   "Errada: ferida cirúrgica também é ruptura da pele e cabe o diagnóstico de integridade da pele prejudicada.",
+   "Correta: curativo asséptico, avaliação de complicações e registro integrados ao plano de cuidados.",
+   "Errada: exsudato purulento em imunossuprimido exige técnica asséptica e medidas de controle de infecção.",
+   "Errada: ferida infectada em transplantado exige cuidado interprofissional com cirurgião e CCIH."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A respeito de segurança e saúde no trabalho em serviços de saúde, considerando a Norma Reguladora nº 32 (NR-32), analise as afirmativas a seguir.\nI. Cabe ao empregador capacitar, inicialmente e de forma continuada, os trabalhadores envolvidos para a utilização segura de produtos químicos.\nII. Com relação aos quimioterápicos antineoplásicos, é vedado dar continuidade às atividades de manipulação quando ocorrer qualquer interrupção do funcionamento da cabine de segurança biológica.\nIII. O empregador deve vedar o consumo de alimentos e bebidas nos postos de trabalho e a guarda de alimentos em locais não destinados para esse fim.\nEstá correto o que se afirma em",
+  "alts": [
+   "II, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "NR 32, Segurança e Saúde no Trabalho em Serviços de Saúde (Portaria MTE 485/2005, com alterações)",
+  "coment": "As três afirmativas reproduzem a NR 32. No capítulo de riscos químicos, cabe ao empregador capacitar os trabalhadores, inicialmente e de forma continuada, para o uso seguro de produtos químicos (I). No tópico dos quimioterápicos antineoplásicos, a norma veda continuar a manipulação quando houver qualquer interrupção do funcionamento da cabine de segurança biológica (II). Entre as medidas de proteção, o empregador deve vedar o consumo de alimentos e bebidas nos postos de trabalho e a guarda de alimentos em locais não destinados a isso (III).",
+  "porAlt": [
+   "Errada: omite a I e a III, também previstas na NR 32 como obrigações do empregador.",
+   "Errada: omite a III, pois a NR 32 veda comer, beber e guardar alimentos nos postos de trabalho.",
+   "Errada: omite a II, já que a NR 32 proíbe manipular antineoplásicos com a cabine parada.",
+   "Errada: omite a I, pois a capacitação inicial e continuada para químicos é dever do empregador.",
+   "Correta: capacitação para químicos, parada da manipulação com a cabine desligada e veto a alimentos."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a avaliação de Enfermagem pré-operatória, o paciente adulto relatou uso contínuo de hidroclorotiazida, varfarina e dexametasona.\nCom base nos cuidados de Enfermagem relacionados aos riscos do uso de medicamentos no período perioperatório, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) A hidroclorotiazida, por ser um diurético leve, não requer monitoramento de eletrólitos e sinais vitais no período perioperatório pela equipe de Enfermagem.\n( ) A interrupção abrupta de corticosteroides pode provocar colapso cardiovascular, sendo necessário que o enfermeiro assegure a administração da dose de estresse, conforme prescrição médica, e realize monitoramento hemodinâmico adequado.\n( ) A varfarina deve ser mantida até o momento da cirurgia para prevenir eventos tromboembólicos, sendo papel do enfermeiro apenas registrar o seu uso na etapa de Avaliação de Enfermagem.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – V – V.",
+   "V – V – F.",
+   "F – F – V.",
+   "V – F – V.",
+   "F – V – F."
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretriz CHEST de manejo perioperatório da terapia antitrombótica (Douketis et al., 2022); Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "Sequência F, V, F. A hidroclorotiazida causa hipocalemia, hiponatremia e hipovolemia, que somadas à anestesia predispõem a arritmia e hipotensão; exige monitorar eletrólitos e sinais vitais. O corticoide de uso crônico suprime o eixo hipotálamo-hipófise-adrenal, e sua suspensão abrupta pode levar a insuficiência adrenal com colapso cardiovascular; o enfermeiro garante a dose de estresse prescrita e monitora a hemodinâmica. A varfarina, em geral, é suspensa cerca de cinco dias antes de cirurgia com risco de sangramento (CHEST, 2022), e o enfermeiro comunica o uso à equipe.",
+  "porAlt": [
+   "Errada: a primeira e a terceira são falsas; tiazídico exige monitorar eletrólitos e varfarina é suspensa.",
+   "Errada: a primeira é falsa, porque o tiazídico causa distúrbios de potássio e sódio e hipovolemia.",
+   "Errada: inverte o julgamento; a dose de estresse do corticoide é verdadeira e a varfarina não é mantida.",
+   "Errada: a primeira é falsa e a terceira também, pois a varfarina é suspensa e o enfermeiro comunica o uso.",
+   "Correta: só é verdadeira a afirmativa do corticoide, que exige dose de estresse e monitoramento."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 61,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Agência Nacional de Vigilância Sanitária (Anvisa) estabeleceu normas para o uso de cateter venoso central de curta permanência.\nSobre essas normas, assinale a afirmativa correta.",
+  "alts": [
+   "É indicado apenas para pacientes em unidade de terapia intensiva com infecção ativa e uso de antibióticos.",
+   "É indicado para administração de soluções não irritantes, em pacientes com bom acesso periférico e necessidade de terapia infusional por até sete dias.",
+   "É indicado para uso exclusivo em pacientes dialíticos crônicos e em neonatos com necessidade de nutrição parenteral, sendo contraindicado para pacientes adultos com instabilidade hemodinâmica.",
+   "É indicado quando o plano infusional previr necessidade de acesso venoso central por mais de 21 dias, devendo ser mantidos cateteres de curta permanência e realizadas trocas frequentes para evitar infecção.",
+   "É indicado quando há necessidade de monitorização hemodinâmica (medida de pressão venosa central), nutrição parenteral com mais de 10% de dextrose ou outros aditivos de alta osmolaridade e infusão contínua de medicamentos vesicantes ou irritantes."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (ANVISA, 2017), prevenção de infecção da corrente sanguínea",
+  "coment": "O cateter venoso central de curta permanência, não tunelizado, é indicado quando a terapia não pode ser feita com segurança em veia periférica: monitorização hemodinâmica com medida de pressão venosa central, nutrição parenteral de alta osmolaridade (com mais de 10% de dextrose ou outros aditivos hiperosmolares) e infusão contínua de vesicantes ou irritantes, como drogas vasoativas. Não é exclusivo de UTI nem de infecção. Para terapia prevista acima de 21 dias, a preferência é por dispositivo de longa permanência (PICC, tunelizado ou totalmente implantado), não por trocas repetidas do cateter de curta permanência.",
+  "porAlt": [
+   "Errada: a indicação depende da terapia infusional, não de o paciente estar em UTI com infecção ativa.",
+   "Errada: solução não irritante com bom acesso periférico por até sete dias se faz em veia periférica.",
+   "Errada: não é exclusivo de dialíticos e neonatos, e a instabilidade hemodinâmica é indicação, não contraindicação.",
+   "Errada: acima de 21 dias prefere-se cateter de longa permanência, e trocas frequentes não previnem infecção.",
+   "Correta: PVC, nutrição parenteral hiperosmolar e infusão contínua de vesicantes ou irritantes."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 62,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre as responsabilidades da equipe de Enfermagem durante o transoperatório, assinale a afirmativa correta.",
+  "alts": [
+   "A hipotermia é uma condição rara no intraoperatório e não representa risco significativo.",
+   "O checklist de cirurgia segura é uma atividade específica do cirurgião e do anestesista, sendo a participação do enfermeiro opcional.",
+   "A manutenção da integridade cutânea, a prevenção de lesões por pressão e a segurança na posição cirúrgica são de responsabilidade da equipe de Enfermagem.",
+   "A verificação de materiais, a identificação do paciente e a lateralidade da cirurgia, antes da incisão, são ações específicas do cirurgião responsável pelo ato cirúrgico.",
+   "A equipe de Enfermagem deve aguardar o início da cirurgia para iniciar a conferência de materiais, reduzindo o tempo de preparo e otimizando a rotatividade da sala."
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Cirurgia segura",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Protocolo para Cirurgia Segura (MS/ANVISA/Fiocruz, 2013), Portaria GM/MS 2.095/2013; Diretrizes SOBECC, 8ª ed., 2021",
+  "coment": "No transoperatório a equipe de enfermagem responde pelo posicionamento cirúrgico seguro, pela proteção de proeminências ósseas e pela prevenção de lesão por pressão e de lesões nervosas, que dependem do tempo de cirurgia e da posição. A lista de verificação de cirurgia segura é da equipe inteira, e em geral é o enfermeiro ou o circulante quem a conduz nas três fases (antes da indução, antes da incisão e antes da saída da sala). Identificação, sítio e lateralidade e conferência de materiais são verificações compartilhadas, feitas antes da incisão. A hipotermia é frequente e aumenta infecção e sangramento.",
+  "porAlt": [
+   "Errada: a hipotermia inadvertida é frequente no intraoperatório e eleva infecção, sangramento e eventos cardíacos.",
+   "Errada: a lista de verificação é de toda a equipe e costuma ser conduzida pela enfermagem.",
+   "Correta: integridade da pele, prevenção de lesão por pressão e posição segura cabem à enfermagem.",
+   "Errada: identificação, lateralidade e materiais são conferidos por toda a equipe antes da incisão.",
+   "Errada: a conferência de materiais e instrumentais é feita antes do início da cirurgia."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 63,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O enfermeiro atendeu a uma paciente de 85 anos que, após uma queda no banheiro, chegou à sala de emergência relatando dor intensa no quadril e incapacidade de se levantar.\nConsiderando o caso apresentado, o enfermeiro deve",
+  "alts": [
+   "mobilizar a região afetada para estimular retorno funcional e avaliar a dor.",
+   "evitar mobilizar a região, monitorar sinais vitais e sinalizar urgência ortopédica.",
+   "imediatamente estimular a marcha com apoio para reduzir o risco de trombose venosa.",
+   "prescrever a aplicação de calor local na região para reduzir a dor e o espasmo muscular.",
+   "administrar analgésico via oral, mobilizar a região afetada e aguardar a conduta do médico ortopedista."
+  ],
+  "gab": 1,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., Guanabara Koogan, 2020 (fratura de quadril no idoso)",
+  "coment": "Idosa que cai, refere dor intensa no quadril e não consegue levantar tem fratura de colo ou transtrocantérica do fêmur até prova em contrário; pode haver encurtamento e rotação externa do membro. A conduta é não mobilizar o segmento, alinhar e imobilizar, avaliar dor e perfusão distal, monitorar sinais vitais (há risco de perda sanguínea) e sinalizar a urgência ortopédica. Estimular marcha ou mobilizar o membro agrava desvio e dor. O enfermeiro não prescreve calor local nesse contexto, e calor na fase aguda aumenta edema e sangramento.",
+  "porAlt": [
+   "Errada: mobilizar fratura suspeita aumenta dor, desvio dos fragmentos e sangramento.",
+   "Correta: imobilizar sem mobilizar, monitorar sinais vitais e sinalizar a urgência ortopédica.",
+   "Errada: deambular com fratura de quadril suspeita é contraindicado; a prevenção de trombose vem depois.",
+   "Errada: calor na fase aguda aumenta edema e sangramento, e não trata a causa da dor.",
+   "Errada: mobilizar a região é contraindicado e o analgésico depende de prescrição médica."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 64,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A comunicação, o trabalho em equipe e a avaliação do paciente são cruciais para garantir bons resultados no período perioperatório. A Enfermagem perioperatória abrange toda a experiência cirúrgica, sendo dividida em três períodos, com início e fim definidos.\nConsiderando essa periodicidade, assinale a afirmativa correta.",
+  "alts": [
+   "O pré-operatório termina com a admissão do paciente na unidade de recuperação pós-anestésica.",
+   "O intraoperatório começa com a decisão de realizar a cirurgia e termina com a alta hospitalar do paciente.",
+   "O intraoperatório começa quando o paciente é transferido para a mesa cirúrgica e termina com a admissão na unidade de recuperação pós-anestésica.",
+   "O pós-operatório começa com a transferência do paciente para a sala de operação e termina com a avaliação na sala de recuperação pós-anestésica.",
+   "O perioperatório inclui, para a Enfermagem, os períodos pré e pós-operatório, estando o intraoperatório sob responsabilidade exclusiva da equipe médica."
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Sistematização da assistência perioperatória",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., Guanabara Koogan, 2020; Diretrizes SOBECC, 8ª ed., 2021",
+  "coment": "O perioperatório tem três fases. O pré-operatório vai da decisão de operar até a transferência do paciente para a mesa cirúrgica. O intraoperatório começa nessa transferência para a mesa e termina com a admissão na sala de recuperação pós-anestésica. O pós-operatório vai da admissão na SRPA até a avaliação de seguimento na unidade, no domicílio ou no ambulatório. A enfermagem atua nas três fases, inclusive no intraoperatório, com o circulante e o instrumentador e com a sistematização da assistência perioperatória.",
+  "porAlt": [
+   "Errada: o pré-operatório termina quando o paciente é transferido para a mesa cirúrgica.",
+   "Errada: a decisão de operar inicia o pré-operatório, e a alta pertence ao pós-operatório.",
+   "Correta: o intraoperatório vai da transferência para a mesa cirúrgica até a admissão na SRPA.",
+   "Errada: o pós-operatório começa na admissão à SRPA e se estende até o seguimento após a alta.",
+   "Errada: a enfermagem atua no intraoperatório com circulante, instrumentação e assistência perioperatória."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 65,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em uma unidade de clínica cirúrgica, o enfermeiro assume o cuidado de uma paciente de 58 anos, no primeiro dia de pós-operatório de colecistectomia videolaparoscópica.\nA paciente encontra-se consciente, com sinais vitais estáveis, queixando-se de leve dor no hipocôndrio direito e apresentando distensão abdominal discreta. Apresenta, ainda, dreno em região subcostal direita, com débito serossanguinolento, em pouca quantidade.\nDiante do quadro e considerando as ações de Enfermagem para prevenção de complicações respiratórias e circulatórias no pós-operatório, assinale a afirmativa correta.",
+  "alts": [
+   "Incentivar a mobilidade associada a exercícios respiratórios e tosse assistida, visando melhorar a perfusão, prevenir estase venosa e otimizar a expansão pulmonar.",
+   "Manter a paciente em repouso absoluto por pelo menos 48 horas após a cirurgia, para evitar deslocamento de drenos e a piora da dor.",
+   "Evitar orientação para tosse cinética até a retirada do dreno, para prevenir deiscência de suturas.",
+   "Estimular apenas a respiração diafragmática profunda no leito, sem necessidade de mobilização precoce.",
+   "Limitar o decúbito à posição semifowler, para preservar a integridade dos curativos abdominais."
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., Guanabara Koogan, 2020 (prevenção de complicações pós-operatórias)",
+  "coment": "No primeiro dia de colecistectomia videolaparoscópica, estável, a prioridade é prevenir atelectasia, pneumonia e trombose venosa. Mobilização e deambulação precoces melhoram a perfusão e reduzem estase venosa; exercícios respiratórios, espirometria de incentivo e tosse assistida, com a incisão protegida por travesseiro, expandem os pulmões e mobilizam secreções. Dreno não impede mobilização, desde que fixado. Repouso prolongado favorece trombose e atelectasia, e respiração profunda isolada não substitui a mobilização. A posição é variada conforme conforto, não fixada.",
+  "porAlt": [
+   "Correta: mobilidade precoce com exercícios respiratórios e tosse assistida previne estase e atelectasia.",
+   "Errada: repouso absoluto favorece trombose, atelectasia e íleo; dreno fixado não impede mobilizar.",
+   "Errada: a tosse com proteção da incisão é estimulada e não depende da retirada do dreno.",
+   "Errada: respiração profunda isolada não previne a estase venosa, que exige mobilização precoce.",
+   "Errada: mudanças de decúbito são estimuladas; manter só semi-Fowler não protege o curativo."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 66,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na avaliação pré-operatória de um paciente idoso, o enfermeiro identificou fatores que podem aumentar o risco de complicações cirúrgicas.\nAssinale a opção que apresenta um fator de risco comumente associado a maiores taxas de complicações no período perioperatório.",
+  "alts": [
+   "A prática regular de atividade física.",
+   "A participação em atividades de lazer e integração social.",
+   "A alimentação balanceada, com consumo de alimentos ricos em fibras.",
+   "A presença de doenças crônicas associadas, como diabetes e hipertensão.",
+   "A hidratação corporal por meio do consumo equilibrado de líquidos ao longo do dia."
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., Guanabara Koogan, 2020 (avaliação pré-operatória do idoso)",
+  "coment": "No idoso, a reserva fisiológica menor e as comorbidades elevam o risco perioperatório. Diabetes prejudica cicatrização e defesa contra infecção e expõe a hipo e hiperglicemia; hipertensão e outras doenças cardiovasculares aumentam instabilidade hemodinâmica e eventos cardíacos. Por isso a avaliação de enfermagem levanta doenças crônicas, medicamentos em uso, estado nutricional e funcionalidade. Atividade física regular, vida social, alimentação rica em fibras e boa hidratação são fatores de proteção, não de risco.",
+  "porAlt": [
+   "Errada: atividade física regular melhora a reserva cardiorrespiratória e protege no perioperatório.",
+   "Errada: participação social e lazer são fatores de proteção e não elevam o risco cirúrgico.",
+   "Errada: alimentação balanceada favorece a cicatrização e a recuperação no pós-operatório.",
+   "Correta: diabetes e hipertensão associadas aumentam complicações cirúrgicas no idoso.",
+   "Errada: hidratação equilibrada reduz risco de hipotensão, delirium e lesão renal."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 67,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente com diagnóstico de Doença Pulmonar Obstrutiva Crônica (DPOC), obesidade grau II, tabagismo crônico e uso prolongado de benzodiazepínicos será submetido a uma cirurgia abdominal de grande porte.\nSobre os riscos associados às comorbidades apresentadas e considerando a intervenção da equipe de Enfermagem no período pré-operatório para reduzir complicações respiratórias e infecciosas, assinale a afirmativa correta.",
+  "alts": [
+   "Cabe ao enfermeiro prescrever dieta hipocalórica para reduzir o peso corporal antes da cirurgia.",
+   "Cabe à equipe de Enfermagem indicar e prescrever antibióticos profiláticos por tempo prolongado antes da cirurgia.",
+   "Cabe ao enfermeiro avaliar o paciente quanto ao risco de deiscência cirúrgica e prescrever repouso absoluto no pré-operatório.",
+   "É indicado que o enfermeiro realize educação e treino com espirômetro de incentivo, oriente a higiene brônquica e o posicionamento adequado no leito.",
+   "É função do enfermeiro suspender, na prescrição médica, o uso de benzodiazepínicos antes da cirurgia, para evitar depressão respiratória."
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Pré e pós-operatório na enfermaria",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Resolução COFEN 564/2017, arts. 22 e 79; Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020",
+  "coment": "DPOC, obesidade, tabagismo e benzodiazepínico aumentam atelectasia, pneumonia e depressão respiratória após cirurgia abdominal alta. Cabe ao enfermeiro educar e treinar o paciente com o espirômetro de incentivo, orientar higiene brônquica, tosse eficaz e posicionamento no leito, e reforçar a cessação do tabagismo. Antibiótico profilático é dose única ou curta, em até 60 minutos antes da incisão, e é prescrição médica. O Código de Ética veda ao enfermeiro prescrever medicamento fora de programa de saúde pública ou rotina institucional (art. 79). Dieta é prescrição nutricional e alterar prescrição médica não é atribuição de enfermagem.",
+  "porAlt": [
+   "Errada: prescrever dieta hipocalórica cabe ao nutricionista, e o pré-operatório não é momento de emagrecer.",
+   "Errada: antibiótico profilático é prescrição médica, em dose única ou curta, perto da incisão.",
+   "Errada: repouso absoluto aumenta atelectasia e trombose e não previne deiscência.",
+   "Correta: treino com espirômetro de incentivo, higiene brônquica e posicionamento reduzem complicações.",
+   "Errada: suspender medicamento da prescrição médica não é atribuição do enfermeiro; ele comunica o risco."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 68,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A equipe de Enfermagem, durante o período intraoperatório, realiza o monitoramento da temperatura corporal de um paciente sob anestesia geral.\nSobre a hipotermia e os cuidados de Enfermagem necessários nesse contexto, assinale a afirmativa correta.",
+  "alts": [
+   "O reaquecimento deve ser realizado de forma rápida, a fim de evitar parada cardíaca por choque térmico.",
+   "A hipotermia é caracterizada por temperatura superior a 37 °C e ocorre principalmente devido ao aumento da atividade muscular sob anestesia.",
+   "A hipotermia aumenta o metabolismo da glicose, elevando a demanda celular de oxigênio e pode provocar hiperventilação compensatória.",
+   "O uso de cobertores de ar quente e a exposição de grandes áreas corporais são indicados, pois ajudam na manutenção da temperatura corporal durante a cirurgia.",
+   "A hipotermia inadvertida pode decorrer das baixas temperaturas da sala de operação, da infusão de soluções frias, da inalação de gases frios, de feridas ou cavidades corporais abertas."
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Anestesia e posicionamento",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "NICE CG65, Hypothermia: prevention and management in adults having surgery (2008, atualizada em 2016); Diretrizes SOBECC, 8ª ed., 2021",
+  "coment": "Hipotermia perioperatória inadvertida é temperatura central abaixo de 36 °C (NICE CG65). A anestesia inibe a termorregulação e redistribui o calor do centro para a periferia, e a perda aumenta com sala fria, soluções e gases frios e cavidades abertas. Ela eleva infecção de sítio cirúrgico, sangramento, eventos cardíacos e tremor, que aumenta o consumo de oxigênio. A prevenção usa aquecimento ativo com manta de ar forçado, aquecimento de soluções e redução da área exposta, com medida de temperatura antes, durante e após o procedimento.",
+  "porAlt": [
+   "Errada: o reaquecimento é ativo e controlado com manta de ar forçado, não feito às pressas.",
+   "Errada: hipotermia é temperatura abaixo de 36 °C, e a anestesia reduz a atividade muscular.",
+   "Errada: a hipotermia reduz o metabolismo; o tremor ao despertar é que eleva o consumo de oxigênio.",
+   "Errada: a manta de ar quente é indicada, mas expor grandes áreas corporais aumenta a perda de calor.",
+   "Correta: sala fria, soluções e gases frios e cavidades abertas causam hipotermia inadvertida."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 69,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O enfermeiro tem papel fundamental na prevenção de complicações e na promoção da cicatrização de feridas, atuando de forma contínua na identificação de riscos e na execução de cuidados baseados em evidências.\nSobre os fatores que podem afetar negativamente o processo de cicatrização de feridas e as intervenções de Enfermagem correspondentes, assinale a afirmativa correta.",
+  "alts": [
+   "A presença de corpos estranhos nas feridas é benéfica, pois estimula a resposta inflamatória inicial.",
+   "O acúmulo de secreções na ferida é compatível com o processo de cicatrização e dispensa intervenções.",
+   "Um curativo compressivo favorece a cicatrização ao exercer pressão sobre os vasos e aumentar a oxigenação local.",
+   "Os déficits nutricionais devem ser corrigidos para favorecer a cicatrização adequada e podem exigir terapia nutricional.",
+   "A avaliação do edema deve ser descartada, pois trata-se de uma resposta natural à lesão e não interfere no suprimento sanguíneo."
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Fisiologia da cicatrização",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., Guanabara Koogan, 2020 (fatores que afetam a cicatrização)",
+  "coment": "A cicatrização depende de oferta adequada de proteína, calorias, vitaminas (A, C) e minerais como o zinco. Desnutrição prolonga a inflamação e prejudica a síntese de colágeno; deve ser avaliada e corrigida, inclusive com terapia nutricional quando indicada. Corpo estranho perpetua a inflamação e favorece infecção. Secreção acumulada é meio de cultura e exige drenagem e limpeza. Curativo compressivo demais reduz o fluxo sanguíneo e a oxigenação local. Edema aumenta a pressão intersticial e prejudica o suprimento sanguíneo, por isso é avaliado e tratado.",
+  "porAlt": [
+   "Errada: corpo estranho mantém a inflamação, favorece infecção e atrasa a cicatrização.",
+   "Errada: secreção acumulada favorece infecção e exige drenagem, limpeza e cobertura adequada.",
+   "Errada: compressão excessiva reduz o fluxo sanguíneo e a oxigenação, prejudicando a cicatrização.",
+   "Correta: déficits nutricionais atrasam a cicatrização e podem exigir terapia nutricional.",
+   "Errada: o edema aumenta a pressão intersticial e reduz o suprimento sanguíneo da ferida."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 70,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A traqueostomia (TQT) é um procedimento cirúrgico que requer cuidados específicos e contínuos por parte da equipe de Enfermagem.\nSobre as indicações e o manejo do enfermeiro no cuidado ao paciente com traqueostomia, assinale a afirmativa correta.",
+  "alts": [
+   "A administração de sedativos deve ser feita sem restrições, uma vez que o estoma garante vias aéreas desobstruídas.",
+   "Após a realização da TQT, o paciente deve ser posto em posição litotômica para manter a traqueia em linha reta e evitar edema.",
+   "A TQT pode ser indicada para ventilação mecânica prolongada, prevenção de aspiração em pacientes inconscientes e substituição do tubo endotraqueal.",
+   "A aspiração das secreções deve ser realizada somente quando o paciente apresentar febre ou desconforto respiratório evidente.",
+   "O enfermeiro deve manter o paciente em repouso absoluto e restringir o uso de meios de comunicação até que esteja completamente adaptado à traqueostomia."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Oxigenoterapia e vias aéreas",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., Guanabara Koogan, 2020 (cuidados com traqueostomia)",
+  "coment": "A traqueostomia é indicada na ventilação mecânica prolongada, na substituição do tubo endotraqueal de longa duração, na obstrução de via aérea superior e na proteção contra aspiração em pacientes com rebaixamento de consciência, além de facilitar a remoção de secreções. A aspiração é feita conforme necessidade avaliada (ruídos, secreção visível, queda de saturação, aumento de pressão no ventilador), não apenas com febre. Sedativos exigem cautela, pois o estoma não impede depressão respiratória nem obstrução da cânula. O paciente é posicionado em semi-Fowler, e deve-se oferecer meio alternativo de comunicação.",
+  "porAlt": [
+   "Errada: o estoma não impede depressão respiratória nem obstrução da cânula, e sedativos exigem cautela.",
+   "Errada: a posição litotômica é ginecológica; após a traqueostomia usa-se semi-Fowler.",
+   "Correta: ventilação prolongada, proteção contra aspiração e substituição do tubo são indicações.",
+   "Errada: a aspiração é feita conforme necessidade avaliada, não só diante de febre ou desconforto evidente.",
+   "Errada: a comunicação alternativa deve ser estimulada, e repouso absoluto não é indicado."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 71,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na admissão em unidade de internação clínica, um paciente, sexo masculino, de 55 anos, apresenta úlceras venosas crônicas nos membros inferiores, com dor leve, diminuição da mobilidade e sinais de desnutrição.\nConsiderando este quadro e a assistência a ser prestada ao paciente, a enfermeira deve",
+  "alts": [
+   "reduzir a hidratação oral, para evitar edema periférico, e manter repouso absoluto até a cicatrização total.",
+   "estimular a deambulação intensa para ativar a circulação, mesmo com dor local, e manter dieta livre.",
+   "aplicar apenas pomadas tópicas para cicatrização das lesões e monitor as úlceras apenas quando houver secreção.",
+   "manter o paciente em posição ortostática prolongada para facilitar o retorno venoso e a troca espontânea de curativos, conforme aceitação do paciente, visando à diminuição da dor.",
+   "implementar cuidados para restauração da integridade cutânea, melhora da mobilidade física, nutrição adequada e evitar complicações."
+  ],
+  "gab": 4,
+  "tema": "feridas",
+  "sub": "Pé diabético e úlceras vasculares",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., Guanabara Koogan, 2020 (úlceras de perna); Resolução COFEN 787/2025 (lesões cutâneas)",
+  "coment": "O paciente tem úlcera venosa crônica, dor, mobilidade reduzida e desnutrição, e o plano de cuidados deve atacar todos esses problemas: restaurar a integridade cutânea (limpeza, cobertura adequada e terapia compressiva quando indicada), melhorar a mobilidade, com caminhada e exercícios da panturrilha, elevação dos membros nos períodos de repouso e evitar ficar muito tempo em pé, corrigir a nutrição e prevenir infecção e outras complicações. Restringir líquidos, deambular com dor intensa, ficar em ortostatismo prolongado ou só aplicar pomada não tratam a hipertensão venosa nem a desnutrição.",
+  "porAlt": [
+   "Errada: restringir água não trata edema venoso, e repouso absoluto piora a bomba muscular da panturrilha.",
+   "Errada: a atividade é progressiva e respeita a dor, e a desnutrição exige dieta orientada, não dieta livre.",
+   "Errada: pomada isolada não trata a úlcera venosa, e a ferida é avaliada a cada troca de curativo.",
+   "Errada: ortostatismo prolongado aumenta a hipertensão venosa e piora edema e úlcera.",
+   "Correta: o plano integra integridade cutânea, mobilidade, nutrição e prevenção de complicações."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 72,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O manejo das lesões e dos distúrbios musculoesqueléticos frequentemente inclui o uso de aparelhos imobilizadores, talas, aparelhos ortopédicos, tração, cirurgia ou uma combinação desses. Durante a avaliação de um paciente com fratura imobilizada de membro inferior direito por gesso, o enfermeiro registra que o paciente relata dor intensa e persistente no membro afetado, mesmo após a administração de analgésico.\nCom base na segurança do paciente e na assistência de Enfermagem aos pacientes com alterações musculoesqueléticas, assinale a afirmativa que apresenta a conduta adequada.",
+  "alts": [
+   "A dor persistente do paciente e a necessidade de mais analgésicos precisam ser imediatamente comunicadas ao médico para evitar necrose, lesão neuromuscular e possível paralisia.",
+   "O enfermeiro deve administrar mais uma dose de analgésico, pois o uso contínuo de analgésicos é suficiente para controlar qualquer dor associada ao uso de imobilizadores.",
+   "A presença de dor intensa indica boa cicatrização óssea e dispensa ação imediata, bastando manter o caso sob observação.",
+   "A dor sob imobilização é esperada e deve ser monitorada apenas nas 24 horas subsequentes.",
+   "O enfermeiro deve remover o gesso para aliviar a pressão e reduzir a dor persistente."
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., Guanabara Koogan, 2020 (síndrome compartimental e cuidados com gesso)",
+  "coment": "Dor intensa, persistente e desproporcional que não cede com analgésico em membro engessado é o sinal mais precoce de síndrome compartimental ou de compressão pelo gesso. Atrasar o reconhecimento leva a isquemia, necrose muscular, lesão nervosa e paralisia. O enfermeiro avalia os cinco Ps (dor, palidez, parestesia, ausência de pulso, paralisia), eleva o membro só até o nível do coração e comunica o médico imediatamente, pois pode ser preciso abrir ou bivalvar o gesso e medir a pressão compartimental. Dar mais analgésico mascara o quadro.",
+  "porAlt": [
+   "Correta: dor persistente sob gesso pede comunicação imediata, pois indica síndrome compartimental.",
+   "Errada: repetir analgésico mascara a isquemia e atrasa a abordagem da síndrome compartimental.",
+   "Errada: dor intensa sob imobilização não indica boa consolidação e exige ação imediata.",
+   "Errada: dor desproporcional não é esperada e exige avaliação imediata, não só observação.",
+   "Errada: abrir ou retirar o gesso é decisão médica; o enfermeiro avalia e comunica de imediato."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 73,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a auditoria em um hospital de médio porte, a equipe de Enfermagem da Central de Material e Esterilização (CME) identificou que alguns artigos estavam sendo encaminhados para esterilização com resíduos orgânicos ainda visíveis, especialmente em materiais cirúrgicos reutilizáveis.\nA respeito da conduta adequada de limpeza prévia no processamento de produtos para saúde, considerando as boas práticas atuais, assinale a afirmativa correta.",
+  "alts": [
+   "O uso exclusivo de lavadoras ultrassônicas elimina a necessidade de limpeza manual.",
+   "A limpeza com água quente é preferível, pois facilita a remoção de resíduos proteicos como sangue seco.",
+   "A limpeza pode ser postergada, por até 24 horas, se os materiais forem mantidos imersos em solução germicida.",
+   "A limpeza deve ser realizada o mais breve possível após o uso, com água morna, detergente enzimático e fricção mecânica apropriada.",
+   "A presença de resíduos orgânicos não interfere na eficácia do processo de esterilização se os parâmetros físico-químicos forem controlados."
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "RDC ANVISA 15/2012 (boas práticas para o processamento de produtos para saúde); Diretrizes SOBECC, 8ª ed., 2021",
+  "coment": "A limpeza é a etapa essencial do processamento: sem ela, matéria orgânica e biofilme protegem os micro-organismos e impedem o contato do agente esterilizante, e nenhum controle de parâmetros compensa isso (RDC 15/2012). Deve ser feita o mais breve possível após o uso, para não deixar a sujidade secar, com água morna, detergente enzimático e fricção mecânica com escovas adequadas, completada por lavadora quando houver. Água quente coagula proteínas do sangue e as fixa ao instrumental. A lavadora ultrassônica complementa, mas não dispensa, a limpeza manual de sujidade grosseira.",
+  "porAlt": [
+   "Errada: a ultrassônica complementa a limpeza e não remove sozinha toda a sujidade grosseira.",
+   "Errada: água quente coagula as proteínas e fixa o sangue ao instrumental; usa-se água morna.",
+   "Errada: a limpeza não deve ser adiada, e imersão em germicida pode fixar matéria orgânica.",
+   "Correta: limpeza precoce com água morna, detergente enzimático e fricção mecânica adequada.",
+   "Errada: matéria orgânica residual impede o contato do agente esterilizante e compromete o processo."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 74,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um hospital adquiriu uma nova autoclave a vapor saturado sob pressão. O enfermeiro responsável, durante o treinamento da equipe de Enfermagem, questionou a importância da eliminação do ar da câmara.\nSobre o questionamento, considerando os requisitos para uma esterilização segura por calor úmido, assinale a opção correta.",
+  "alts": [
+   "A presença de ar não compromete a esterilização, desde que a temperatura ultrapasse 121 °C.",
+   "A autoclave só é segura quando utiliza bomba de vácuo, sendo esse o único método válido.",
+   "A pressão positiva gerada na câmara é suficiente para compensar a presença de ar residual.",
+   "A remoção do ar garante a penetração homogênea do vapor, condição essencial para a eficácia da esterilização.",
+   "A esterilização por vapor não requer monitoramento físico, desde que os indicadores biológicos sejam utilizados."
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "RDC ANVISA 15/2012 (boas práticas para o processamento de produtos para saúde); Diretrizes SOBECC, 8ª ed., 2021",
+  "coment": "Na autoclave a vapor saturado, o calor úmido só esteriliza quando o vapor entra em contato direto com todas as superfícies do material. Bolsões de ar residual isolam pontos da carga e o vapor não penetra, mesmo com temperatura e pressão adequadas no sensor. Por isso o ar é removido (por gravidade ou por pré-vácuo), e nas autoclaves com pré-vácuo o teste de Bowie-Dick verifica diariamente essa remoção. O monitoramento é feito em conjunto: parâmetros físicos de cada ciclo, indicadores químicos e indicadores biológicos; um não substitui o outro.",
+  "porAlt": [
+   "Errada: o ar residual impede o contato do vapor com o material, qualquer que seja a temperatura.",
+   "Errada: a remoção do ar também pode ser por gravidade, e o vácuo não é o único método válido.",
+   "Errada: a pressão não compensa o ar residual, que forma bolsões frios sem vapor.",
+   "Correta: sem ar na câmara, o vapor penetra de modo homogêneo em toda a carga.",
+   "Errada: o monitoramento físico de cada ciclo é obrigatório, junto com indicadores químicos e biológicos."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 75,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a vistoria em uma unidade hospitalar, a equipe de auditoria identificou materiais estéreis armazenados em armários abertos, próximos a janelas. Um dos profissionais afirmou que a esterilidade era garantida pela data de validade indicada no rótulo. Considerando as boas práticas de manutenção da esterilidade, assinale a afirmativa correta.",
+  "alts": [
+   "O armazenamento em armário aberto é aceitável, se o local for limpo e ventilado.",
+   "A esterilidade é determinada exclusivamente pela data de validade indicada após o processamento.",
+   "A umidade ambiente não interfere na segurança microbiológica de embalagens tipo papel grau cirúrgico.",
+   "A esterilidade é garantida por até seis meses, desde que a autoclave seja validada, independentemente do ambiente.",
+   "A integridade da embalagem e as condições ambientais de armazenamento são determinantes para a manutenção da esterilidade."
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 15/2012 (boas práticas para o processamento de produtos para saúde); Diretrizes SOBECC, 8ª ed., 2021",
+  "coment": "A manutenção da esterilidade é relacionada a eventos: depende da integridade da embalagem e das condições de transporte e armazenamento, e não apenas da data no rótulo. A RDC 15/2012 exige que o material estéril seja guardado em local limpo e seco, sob proteção da luz solar direta, com controle de temperatura e umidade, longe de fontes de contaminação. Armário aberto perto de janela expõe a poeira, umidade e luz, e o papel grau cirúrgico úmido perde a barreira microbiana. A validade é fixada por cada serviço com base em seus próprios testes e condições.",
+  "porAlt": [
+   "Errada: armário aberto perto de janela expõe a poeira, umidade e luz solar, mesmo em local limpo.",
+   "Errada: a validade é apenas referência; a esterilidade depende de eventos como dano à embalagem.",
+   "Errada: a umidade compromete a barreira microbiana do papel grau cirúrgico.",
+   "Errada: não há prazo fixo de seis meses, e o ambiente de guarda interfere na esterilidade.",
+   "Correta: a integridade da embalagem e as condições de guarda determinam a esterilidade."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 76,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No atendimento a uma criança com gastroenterite viral, internada em enfermaria pediátrica, a equipe de Enfermagem observou que diversos profissionais não estavam realizando a troca de avental na assistência a diferentes pacientes, com a justificativa de “falta de tempo” e “ausência de sinais clínicos de infecção grave.”\nConsiderando as diretrizes atualizadas de biossegurança e as precauções padrão em serviços de saúde, assinale a afirmativa correta.",
+  "alts": [
+   "A troca de EPIs é exigida apenas em situações de precaução por aerossóis ou isolamento por contato.",
+   "A troca de avental na assistência a diferentes pacientes não é necessária se houver fricção alcoólica adequada das mãos entre os atendimentos.",
+   "O uso contínuo de máscara, luvas e avental é obrigatório em todos os procedimentos assistenciais, independentemente da exposição prevista.",
+   "O uso de equipamentos de proteção individual (EPIs) é obrigatório apenas para os pacientes com diagnóstico laboratorial confirmado de infecção.",
+   "As precauções padrão devem ser aplicadas a todos os pacientes, e incluem o uso de EPIs conforme o risco de exposição a fluidos corporais ou superfícies contaminadas."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "CDC/HICPAC, Guideline for Isolation Precautions (Siegel et al., 2007); Medidas de Prevenção de IRAS (ANVISA, 2017)",
+  "coment": "As precauções padrão valem para todos os pacientes, com ou sem diagnóstico confirmado, e incluem higiene das mãos e uso de EPI conforme o risco de exposição a sangue, fluidos, mucosas, pele não íntegra ou superfícies contaminadas. Avental e luvas são individuais por paciente e trocados entre atendimentos; a higiene das mãos não descontamina o avental. Além disso, criança com gastroenterite viral que usa fralda ou é incontinente deve ficar em precaução de contato, com avental e luvas ao entrar no quarto. EPI não é usado de forma contínua em todos os procedimentos, e sim conforme a exposição prevista.",
+  "porAlt": [
+   "Errada: a troca de EPI entre pacientes vale em qualquer precaução, inclusive na padrão.",
+   "Errada: a higiene das mãos não descontamina o avental, que é trocado entre pacientes.",
+   "Errada: o EPI é escolhido conforme a exposição prevista, não usado de forma contínua em tudo.",
+   "Errada: as precauções padrão valem para todos, com ou sem diagnóstico laboratorial.",
+   "Correta: precaução padrão para todos, com EPI escolhido pelo risco de exposição a fluidos."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 77,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma paciente de 64 anos foi internada com quadro infeccioso respiratório e, após coleta de secreção traqueal, foi diagnosticada com infecção por Klebsiella pneumoniae, produtora de carbapenemase (KPC).\nA equipe de Enfermagem precisa instituir precauções específicas para evitar a disseminação do microrganismo multirresistente.\nNo que tange às diretrizes da Anvisa para prevenção de infecções, e sabendo as medidas adotadas na assistência à saúde, assinale a afirmativa correta.",
+  "alts": [
+   "A paciente deve ser mantida em precaução padrão, pois o risco de transmissão por superfícies é mínimo nesse tipo de bactéria.",
+   "A principal precaução indicada é a de gotículas, com uso de máscara cirúrgica e higienização das mãos, antes e após contato.",
+   "As precauções de contato devem ser adotadas, com uso de avental e luvas ao entrar no quarto, além da higienização rigorosa das mãos.",
+   "O uso de Equipamentos de Proteção Individual (EPI) é obrigatório apenas durante procedimentos invasivos ou com risco de aerossol.",
+   "A paciente deve ser mantida em quarto privativo com porta fechada, sob precaução por gotículas e a exigência de máscara N95 para todos os profissionais."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Nota Técnica GVIMS/GGTES/ANVISA nº 01/2013 (prevenção e controle de infecções por enterobactérias multirresistentes); Medidas de Prevenção de IRAS (ANVISA, 2017)",
+  "coment": "Klebsiella pneumoniae produtora de carbapenemase (KPC) é transmitida por contato direto com o paciente e indireto, pelas mãos dos profissionais, por superfícies e por equipamentos, onde sobrevive bem. A ANVISA indica precaução de contato, além da padrão: avental e luvas ao entrar no quarto, higiene rigorosa das mãos, equipamentos de uso exclusivo, limpeza reforçada do ambiente e, se possível, quarto privativo ou coorte. Gotículas e aerossóis não são a via de transmissão, e N95 é reservada à precaução para aerossóis, como na tuberculose.",
+  "porAlt": [
+   "Errada: a KPC persiste em superfícies e mãos; a precaução padrão isolada não basta.",
+   "Errada: a transmissão da KPC é por contato, e a máscara cirúrgica não é a medida principal.",
+   "Correta: precaução de contato com avental e luvas ao entrar no quarto e higiene rigorosa das mãos.",
+   "Errada: no germe multirresistente o EPI de contato é usado em todo contato com o paciente e o ambiente.",
+   "Errada: precaução por gotículas com N95 não se aplica; N95 é da precaução para aerossóis."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 78,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente apresenta os seguintes sinais:\nFR: 30 irpm; PA: 88/54 mmHg; FC: 122 bpm; temp: 38,4 °C; pele fria e úmida; agitação leve; Escore NEWS = 8 pontos.\nDe acordo com o Protocolo Nacional de Avaliação de Risco Clínico (MS, 2021) e a Resolução COFEN nº 564/2017 (que aprova o novo Código de Ética dos Profissionais de Enfermagem), assinale a opção que indica a conduta tecnicamente correta da Enfermagem para esse quadro clínico.",
+  "alts": [
+   "Administrar antibioticoterapia empírica antes de avaliação médica.",
+   "Posicionar o paciente em decúbito lateral esquerdo e observar evolução por 30 minutos.",
+   "Instalar hidratação venosa rápida com solução hipertônica e administrar antipirético imediatamente.",
+   "Aguardar nova aferição de sinais vitais antes de intervir, diante da estabilidade parcial do quadro.",
+   "Acionar a equipe de resposta rápida, manter acesso venoso pérvio, cabeceira elevada e monitorização contínua."
+  ],
+  "gab": 4,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "National Early Warning Score 2 (Royal College of Physicians, 2017); Resolução COFEN 564/2017, arts. 45 e 76",
+  "coment": "Escore de alerta precoce de 8 pontos, com taquipneia, hipotensão, taquicardia, febre, pele fria e agitação, sugere sepse com hipoperfusão. No NEWS2, pontuação de 7 ou mais pede resposta de emergência: acionar a equipe de resposta rápida, monitorização contínua e avaliação médica imediata. A enfermagem mantém acesso venoso pérvio, cabeceira elevada e monitoriza sem esperar. O Código de Ética impõe prestar assistência livre de danos por negligência (art. 45) e proíbe negar assistência na urgência (art. 76). Antibiótico, volume e antitérmico dependem de prescrição ou protocolo institucional.",
+  "porAlt": [
+   "Errada: antibiótico empírico exige prescrição ou protocolo institucional com avaliação médica.",
+   "Errada: observar por 30 minutos diante de escore de alto risco atrasa a resposta de emergência.",
+   "Errada: solução hipertônica não é expansão de rotina, e volume e antitérmico dependem de prescrição.",
+   "Errada: o quadro é instável; esperar nova aferição atrasa o acionamento da resposta rápida.",
+   "Correta: acionar a resposta rápida, manter acesso pérvio, cabeceira elevada e monitorização contínua."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 79,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente com Doença Pulmonar Obstrutiva Crônica (DPOC) grave apresenta FR: 32 irpm; PaO₂: 50 mmHg; SpO₂: 85%; uso de musculatura acessória e sonolência progressiva; pH: 7,28; e pCO₂: 60 mmHg.\nNo caso, de acordo com as diretrizes para suporte ventilatório em DPOC e protocolos de urgência e emergência, a equipe de Enfermagem deve",
+  "alts": [
+   "posicionar o paciente em semifowler, iniciar ventilação não invasiva (VNI), conforme prescrição, e comunicar à equipe médica.",
+   "posicionar o paciente em prona, administrar broncodilatador inalatório e coletar gasometria de controle.",
+   "manter a hidratação venosa e repetir gasometria após duas horas, caso mantenha dessaturação.",
+   "manter o paciente em decúbito horizontal e suspender oxigênio para evitar hipercapnia.",
+   "aumentar o fluxo de oxigênio para 15 L/min com máscara de reservatório."
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Doenças respiratórias",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Global Initiative for Chronic Obstructive Lung Disease, Relatório GOLD 2026 (exacerbação e suporte ventilatório)",
+  "coment": "Exacerbação de DPOC com acidose respiratória (pH 7,28 e PaCO2 60 mmHg), taquipneia, uso de musculatura acessória e sonolência indica ventilação não invasiva, que reduz intubação e mortalidade (GOLD 2026). A enfermagem posiciona o paciente sentado ou em semi-Fowler, instala a VNI conforme prescrição, monitoriza nível de consciência, gasometria e saturação e comunica a equipe médica. O alvo de saturação é 88 a 92%: oxigênio em alto fluxo sem controle piora a hipercapnia, mas o oxigênio não deve ser suspenso no hipoxêmico. Decúbito horizontal e prona prejudicam a mecânica respiratória.",
+  "porAlt": [
+   "Correta: semi-Fowler, VNI conforme prescrição e comunicação à equipe médica na acidose hipercápnica.",
+   "Errada: a posição prona não é conduta na exacerbação de DPOC, e o paciente precisa de suporte ventilatório.",
+   "Errada: esperar duas horas diante de acidose e sonolência atrasa a VNI e expõe à falência ventilatória.",
+   "Errada: decúbito horizontal piora a mecânica respiratória, e suspender o oxigênio agrava a hipoxemia.",
+   "Errada: oxigênio a 15 L/min com reservatório piora a hipercapnia; o alvo de saturação é 88 a 92%."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 80,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante o plantão noturno em uma Unidade de Terapia Intensiva (UTI) cardiológica, uma enfermeira identificou a piora do padrão circulatório de um paciente com insuficiência cardíaca grave, em uso contínuo de dobutamina por acesso central.\nNas últimas três horas, foram observados: extremidades frias e cianóticas; Pressão Arterial Média (PAM) de 58 mmHg; débito urinário < 20 mL/h; enchimento capilar > 4 segundos; aumento progressivo do lactato na gasometria; diminuição da responsividade do paciente, que agora responde apenas ao estímulo doloroso.\nA médica plantonista encontra-se em procedimento cirúrgico, indisponível por tempo indeterminado.\nNesse cenário, com base nos protocolos de resposta rápida e na Resolução COFEN nº 564/2017, assinale a opção que indica a ação técnica correta que a equipe de Enfermagem deve assumir.",
+  "alts": [
+   "Manter o paciente em monitorização contínua, reforçar as medidas de prevenção de lesão por pressão e aguardar a finalização do procedimento médico.",
+   "Suspender imediatamente a dobutamina, iniciar fluidoterapia venosa e reposicionar o paciente para otimizar o retorno venoso.",
+   "Acionar a equipe de resposta rápida institucional, comunicar a instabilidade hemodinâmica, reposicionar o paciente e manter suporte clínico conforme os protocolos da unidade.",
+   "Interromper a infusão da dobutamina e iniciar ventilação com ambu em ritmo contínuo, considerando a parada respiratória iminente.",
+   "Realizar punção arterial para nova gasometria e ajustar os parâmetros de infusão da droga vasoativa, conforme escore clínico."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Monitorização hemodinâmica",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Resolução COFEN 564/2017, arts. 45 e 76; Lei 7.498/1986, art. 11, I, alíneas l e m",
+  "coment": "Extremidades frias, PAM de 58 mmHg, oligúria, enchimento capilar lento, lactato crescente e rebaixamento de consciência em paciente com dobutamina indicam choque cardiogênico em piora. Sem médico disponível, a enfermagem aciona a equipe de resposta rápida, comunica a instabilidade, posiciona o paciente e mantém o suporte previsto nos protocolos. A Lei 7.498/1986 atribui ao enfermeiro os cuidados a pacientes graves com risco de vida e as decisões imediatas (art. 11, I, l e m), e o Código de Ética veda negar assistência na urgência (art. 76). Suspender a dobutamina, dar volume ou ajustar a droga sem prescrição são condutas médicas e podem piorar o choque.",
+  "porAlt": [
+   "Errada: aguardar o fim da cirurgia com sinais de choque progressivo é omissão de assistência.",
+   "Errada: suspender a dobutamina e dar volume no choque cardiogênico podem piorar o quadro e exigem prescrição.",
+   "Correta: acionar a resposta rápida, comunicar a instabilidade e manter o suporte previsto em protocolo.",
+   "Errada: o paciente respira e tem pulso; ventilar com bolsa e suspender a droga não são indicados.",
+   "Errada: ajustar a droga vasoativa por escore sem prescrição não é atribuição da enfermagem."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 81,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente com suspeita de Acidente Vascular Cerebral (AVC) isquêmico apresenta déficit motor súbito em hemicorpo direito; fala arrastada e desvio da rima labial; PA: 180/100 mmHg; SpO₂: 96% em ar ambiente. Início dos sintomas relatado há 25 minutos.\nSegundo as diretrizes da Sociedade Brasileira de AVC (2023) e a Resolução COFEN nº 564/2017, assinale a opção que indica a conduta correta da Enfermagem.",
+  "alts": [
+   "Aguardar a confirmação diagnóstica por imagem antes de iniciar as condutas clínicas.",
+   "Manter o paciente em decúbito horizontal e administrar glicose EV para prevenir hipoglicemia.",
+   "Avaliar os sinais vitais, manter em repouso e aguardar a avaliação médica para acionamento de protocolo.",
+   "Posicionar em decúbito lateral, iniciar oxigênio de alto fluxo e administrar ácido acetilsalicílico (AAS), se disponível.",
+   "Elevar a cabeceira, monitorar os sinais vitais, identificar a hora do início dos sintomas e acionar o protocolo institucional."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes AHA/ASA para o manejo precoce do AVC isquêmico agudo (Powers et al., 2019); Resolução COFEN 564/2017, art. 45",
+  "coment": "Déficit motor súbito, disartria e desvio de rima há 25 minutos é AVC até prova em contrário e está dentro da janela de trombólise (até 4,5 horas). A prioridade é tempo: registrar a hora exata do início (ou a última vez visto bem), monitorar sinais vitais e glicemia capilar e acionar o protocolo de AVC da instituição para imagem e avaliação médica imediatas. A cabeceira elevada a cerca de 30° reduz aspiração. A PA de 180/100 mmHg não é reduzida às pressas. Glicose só se houver hipoglicemia, oxigênio só se SpO2 abaixo de 94%, e AAS nunca antes da imagem.",
+  "porAlt": [
+   "Errada: monitorização, glicemia e acionamento do protocolo começam antes da imagem, sem atraso.",
+   "Errada: glicose só é dada se a glicemia capilar mostrar hipoglicemia; hiperglicemia piora o AVC.",
+   "Errada: aguardar avaliação para acionar o protocolo desperdiça minutos da janela terapêutica.",
+   "Errada: com SpO2 de 96% não há indicação de oxigênio, e AAS antes da imagem pode agravar hemorragia.",
+   "Correta: elevar a cabeceira, monitorar, registrar a hora de início e acionar o protocolo de AVC."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 82,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a passagem de plantão em uma enfermaria cirúrgica, o técnico de Enfermagem encontrou um paciente inconsciente, em decúbito dorsal, sem resposta a estímulos verbais, pulso carotídeo ausente e movimentos respiratórios agônicos.\nA enfermeira assistencial chegou imediatamente ao local, enquanto o carro de parada é mobilizado.\nSobre o quadro de parada cardiorrespiratória, segundo os protocolos atualizados de Suporte Básico de Vida (SBV) e as atribuições da Enfermagem, assinale a opção que indica a primeira ação da equipe.",
+  "alts": [
+   "Verificar a pressão arterial e a oximetria de pulso antes de iniciar qualquer manobra, para confirmar a parada.",
+   "Iniciar compressões torácicas eficazes imediatamente, acionar a equipe de emergência e solicitar o desfibrilador.",
+   "Administrar oxigênio por máscara de alto fluxo e posicionar o paciente em decúbito lateral para prevenir aspiração.",
+   "Coletar gasometria arterial e realizar eletrocardiograma (ECG), para confirmar a presença de ritmo não chocável.",
+   "Elevar os membros inferiores, iniciar infusão venosa rápida e aguardar o desfibrilador para confirmar o ritmo cardíaco."
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Diretrizes AHA 2025 de RCP e Atendimento Cardiovascular de Emergência (Suporte Básico de Vida)",
+  "coment": "Paciente que não responde, sem pulso carotídeo e com respiração agônica (gasping) está em parada cardiorrespiratória; gasping não é respiração normal. Pelas diretrizes AHA 2025, a checagem de responsividade, respiração e pulso leva no máximo 10 segundos, e a seguir iniciam-se compressões torácicas de alta qualidade (100 a 120 por minuto, profundidade de 5 a 6 cm no adulto, retorno completo do tórax), aciona-se a equipe de emergência e pede-se o desfibrilador para analisar o ritmo o quanto antes. Medir PA, oximetria, gasometria ou ECG antes das compressões só atrasa a reanimação.",
+  "porAlt": [
+   "Errada: PA e oximetria não confirmam parada e atrasam o início das compressões.",
+   "Correta: compressões imediatas, acionamento da equipe de emergência e pedido do desfibrilador.",
+   "Errada: oxigênio e decúbito lateral não tratam a parada; o paciente precisa de compressões.",
+   "Errada: gasometria e ECG de 12 derivações atrasam a RCP; o ritmo é visto no desfibrilador.",
+   "Errada: elevar membros e infundir volume não substituem compressões imediatas na parada."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 83,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente, com histórico de Infarto Agudo do Miocárdio (IAM) recente, apresenta dor torácica intensa; PA: 88/56 mmHg; FC: 48 bpm; SpO₂: 94%; sudorese fria, confusão mental leve, e ECG com bradiarritmia ventricular.\nSobre a conduta correta da equipe de Enfermagem, segundo a Diretriz de Síndrome Coronariana Aguda da Sociedade Brasileira de Cardiologia (2021) e a Resolução COFEN nº 564/2017, assinale a afirmativa correta.",
+  "alts": [
+   "Acionar o protocolo de emergência, manter o acesso venoso pérvio e monitorar e preparar o carro de parada.",
+   "Administrar ácido acetilsalicílico (AAS) e nitrato sublingual para alívio imediato da dor torácica.",
+   "Administrar volume endovenoso (EV) em bolus e posicionar em Trendelenburg.",
+   "Aplicar calor local e orientar respiração profunda para alívio da dor torácica.",
+   "Monitorar o paciente por 30 minutos e aguardar o retorno da equipe médica."
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes AHA 2025 de RCP e ACE (bradicardia instável); Diretriz da SBC sobre angina instável e IAM sem supradesnível de ST (2021)",
+  "coment": "Bradiarritmia (FC 48 bpm) com hipotensão, dor torácica, sudorese fria e confusão em IAM recente é bradicardia instável, que pode evoluir para parada. A enfermagem aciona o protocolo de emergência, mantém acesso venoso pérvio, monitoriza continuamente e prepara o carro de parada, com atropina e marca-passo transcutâneo à mão, conforme prescrição. Nitrato é contraindicado com pressão sistólica abaixo de 90 mmHg e bradicardia importante, e o AAS depende de prescrição. Volume em bolus e Trendelenburg não tratam a causa e podem sobrecarregar o coração infartado.",
+  "porAlt": [
+   "Correta: acionar a emergência, manter acesso pérvio, monitorizar e preparar o carro de parada.",
+   "Errada: nitrato é contraindicado com PA sistólica abaixo de 90 mmHg e bradicardia.",
+   "Errada: volume e Trendelenburg sem prescrição não tratam a bradiarritmia e podem causar congestão.",
+   "Errada: calor local e respiração profunda não tratam dor isquêmica nem instabilidade hemodinâmica.",
+   "Errada: esperar 30 minutos diante de bradicardia instável expõe o paciente à parada."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 84,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente jovem, vítima de queda de aproximadamente quatro metros, chegou ao pronto atendimento com rebaixamento do nível de consciência.\nApresenta abertura ocular ao estímulo verbal; resposta verbal incompreensível; resposta motora localizada à dor; pupilas isocóricas, mas reativas lentamente; PA: 150/90 mmHg; FC: 56 bpm; FR: 10 irpm; presença de hematoma em região temporal esquerda.\nA equipe de Enfermagem realiza a Escala de Coma de Glasgow (ECG = 9) e o atendimento.\nCom base no quadro clínico e na taxonomia da NANDA-I 2024–2026, assinale a opção que indica o diagnóstico de Enfermagem prioritário.",
+  "alts": [
+   "Padrão respiratório ineficaz relacionado à hiperventilação, evidenciado por taquipneia e uso de musculatura acessória.",
+   "Perfusão cerebral ineficaz relacionada ao aumento da pressão intracraniana evidenciado por alterações neurológicas.",
+   "Risco de infecção relacionado à possível fratura craniana aberta e presença de ferimento na região cefálica.",
+   "Risco de desequilíbrio da temperatura corporal relacionado à exposição prolongada e lesão neurológica.",
+   "Débito cardíaco diminuído, relacionado à bradicardia e à hipotensão secundária ao trauma."
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NANDA-I, Diagnósticos de Enfermagem 2024-2026 (13ª ed.); Diretrizes da Brain Trauma Foundation, 4ª ed., 2016",
+  "coment": "Hematoma temporal, rebaixamento de consciência, hipertensão, bradicardia (56 bpm) e bradipneia (10 irpm) compõem a tríade de Cushing, sinal de hipertensão intracraniana. O diagnóstico prioritário é o que traduz a perfusão cerebral comprometida pelo aumento da pressão intracraniana. Observação: os dados descritos somam Glasgow 10 (O3, V2, M5), não 9, e o rótulo da alternativa é abreviado; na NANDA-I, o fenômeno aparece como risco de perfusão tissular cerebral ineficaz ou capacidade adaptativa intracraniana diminuída. As demais opções descrevem achados que o caso não tem ou riscos de menor prioridade.",
+  "porAlt": [
+   "Errada: o paciente tem bradipneia (10 irpm), não hiperventilação nem taquipneia.",
+   "Correta: a tríade de Cushing indica hipertensão intracraniana e perfusão cerebral comprometida.",
+   "Errada: risco de infecção é secundário diante de sinais de hipertensão intracraniana.",
+   "Errada: desequilíbrio térmico não é prioridade e não há dados de exposição prolongada.",
+   "Errada: a PA está elevada; bradicardia com hipertensão reflete hipertensão intracraniana, não baixo débito."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 85,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente adulto é admitido no pronto atendimento, após acidente com colisão frontal em alta velocidade.\nDurante a avaliação primária pela equipe de Enfermagem, são observados dispneia progressiva e uso de musculatura acessória; FR: 34 irpm; FC: 128 bpm; PA: 92/60 mmHg; ausência de murmúrio vesicular no hemitórax direito; traqueia desviada para o lado esquerdo; turgência jugular e batimentos cardíacos abafados; e ferimento fechado no tórax com abaulamento expiratório.\nConsiderando os achados apresentados e a taxonomia da NANDA-I 2024–2026, assinale a opção que indica o diagnóstico de Enfermagem corretamente associado ao problema fisiopatológico primário do caso clínico descrito.",
+  "alts": [
+   "Perfusão tissular ineficaz relacionada à hipovolemia hemorrágica, evidenciada por taquicardia e hipotensão.",
+   "Troca gasosa prejudicada relacionada à obstrução mecânica do fluxo aéreo, evidenciada por dispneia e hipoventilação.",
+   "Padrão respiratório ineficaz relacionado à dor torácica e à ansiedade, evidenciada por taquipneia e uso de musculatura acessória.",
+   "Mobilidade física prejudicada relacionada à dor torácica, evidenciada por limitação respiratória e abaulamento de hemitórax.",
+   "Débito cardíaco diminuído relacionado à disfunção miocárdica primária, evidenciado por hipotensão e ritmo cardíaco acelerado."
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "NANDA-I, Diagnósticos de Enfermagem 2024-2026 (13ª ed.); Protocolos de Intervenção para o SAMU 192, Suporte Avançado de Vida (MS, 2016)",
+  "coment": "Murmúrio abolido à direita, traqueia desviada para a esquerda, turgência jugular, hipotensão e dispneia em trauma torácico fechado indicam pneumotórax hipertensivo; o ar no espaço pleural colapsa o pulmão e compromete ventilação e oxigenação. O problema primário é respiratório, e a banca escolheu troca de gases prejudicada. A expressão obstrução mecânica do fluxo aéreo é imprecisa, já que não há obstrução de via aérea, mas sim compressão do pulmão, e por isso a questão é discutível. As outras opções erram a etiologia: não há hemorragia descrita, dor e ansiedade não explicam o quadro e não há disfunção miocárdica primária.",
+  "porAlt": [
+   "Errada: a hipotensão decorre do pneumotórax hipertensivo, não de hemorragia descrita no caso.",
+   "Correta: o colapso pulmonar compromete a troca gasosa, problema primário do pneumotórax hipertensivo.",
+   "Errada: dor e ansiedade não explicam murmúrio abolido, desvio de traqueia e turgência jugular.",
+   "Errada: mobilidade física prejudicada não é o problema fisiopatológico primário do caso.",
+   "Errada: o débito cai por compressão mecânica do tórax, não por disfunção miocárdica primária."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 86,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante o atendimento inicial a múltiplas vítimas de colisão entre veículos, a equipe de Enfermagem realizou a avaliação primária e secundária conforme o protocolo ATLS.\nRelacione os achados clínicos listados a seguir, aos respectivos diagnósticos de Enfermagem (NANDA-I 2024–2026).\nAchados clínicos:\n1. Ferida perfurante em hemitórax esquerdo, FR 36 irpm, uso de musculatura acessória, murmúrio vesicular ausente.\n2. Escala de Coma de Glasgow = 7, resposta motora com flexão anormal, pupilas anisocóricas, respiração irregular.\n3. PA: 84/48 mmHg, pele fria e úmida, pulsos periféricos filiformes, tempo de enchimento capilar > 4 segundos.\n4. Fratura exposta em membro inferior, sangramento ativo controlado e pulsos distais presentes, com dor intensa à palpação.\n5. Hematoma abdominal extenso, distensão progressiva, dor à palpação e sinais de rigidez de parede abdominal.\nDiagnósticos de Enfermagem (NANDA-I 2024–2026):\n( ) Troca de gases prejudicada.\n( ) Perfusão cerebral ineficaz.\n( ) Perfusão tissular periférica ineficaz.\n( ) Risco de sangramento.\n( ) Risco de choque.\nAssinale a alternativa que apresenta a associação correta:",
+  "alts": [
+   "5, 2, 1, 3 e 4.",
+   "1, 2, 3, 4 e 5.",
+   "2, 1, 3, 5 e 4.",
+   "3, 1, 5, 2 e 4.",
+   "4, 1, 3, 2 e 5."
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NANDA-I, Diagnósticos de Enfermagem 2024-2026 (13ª ed.); Resolução COFEN 736/2024 (Processo de Enfermagem)",
+  "coment": "Ferida torácica com taquipneia, musculatura acessória e murmúrio ausente compromete a ventilação: troca de gases prejudicada (1). Glasgow 7, postura em flexão anormal e anisocoria indicam lesão cerebral grave: perfusão cerebral ineficaz (2). Hipotensão, pele fria, pulsos filiformes e enchimento lento mostram má perfusão: perfusão tissular periférica ineficaz (3). Fratura exposta com sangramento controlado e pulsos presentes mantém risco de novo sangramento (4). Hematoma abdominal com distensão e rigidez sugere hemorragia interna em curso: risco de choque (5). Sequência 1, 2, 3, 4 e 5.",
+  "porAlt": [
+   "Errada: liga troca de gases ao abdome e perfusão periférica à ferida torácica, invertendo os achados.",
+   "Correta: tórax, crânio, perfusão periférica, fratura exposta e hemorragia abdominal, nessa ordem.",
+   "Errada: atribui troca de gases ao Glasgow 7 e perfusão cerebral à ferida torácica.",
+   "Errada: associa a ferida torácica à perfusão cerebral e o hipotenso à troca de gases.",
+   "Errada: liga a fratura exposta à troca de gases e a ferida torácica à perfusão cerebral."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 87,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente vítima de colisão de motocicleta é admitido na sala de emergência consciente, orientado e com fraturas em membros inferiores, instabilidade torácica e epistaxe ativa.\nDurante a avaliação, a equipe de Enfermagem identificou edema facial importante; fraturas maxilares bilaterais evidentes; e sangramento nasal contínuo. Na prescrição médica, consta a solicitação de inserção de sonda gástrica para drenagem.\nDiante desse cenário, com base nas atribuições éticas e técnicas da Enfermagem, assinale a opção que indica a conduta correta para o caso.",
+  "alts": [
+   "Inserir sonda nasogástrica pelo orifício nasal contralateral ao sangramento, com lubrificação abundante.",
+   "Posicionar o paciente em decúbito lateral esquerdo e inserir a sonda oralmente, conforme prescrição médica.",
+   "Realizar a inserção da sonda conforme prescrição, mesmo com trauma facial, e registrar a execução no prontuário.",
+   "Avaliar os achados clínicos, identificar os sinais de trauma facial grave e sugerir via alternativa para a sonda.",
+   "Encaminhar o paciente para endoscopia digestiva, a fim de garantir a inserção segura da sonda gástrica."
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Resolução COFEN 564/2017, arts. 22 e 80; Protocolos de Intervenção para o SAMU 192, Suporte Avançado de Vida (MS, 2016)",
+  "coment": "Fraturas maxilares bilaterais, edema facial e epistaxe ativa sugerem fratura de face do tipo Le Fort e possível fratura de base de crânio. Nesse contexto, a sonda por via nasal é contraindicada, pelo risco de passagem para a cavidade craniana, de piora do sangramento e de falso trajeto. O enfermeiro avalia os achados, identifica o trauma facial grave e propõe à equipe médica via alternativa, em geral orogástrica. O Código de Ética garante recusar atividade sem segurança (art. 22) e proíbe executar prescrição que comprometa a segurança da pessoa (art. 80).",
+  "porAlt": [
+   "Errada: a narina contralateral também é contraindicada no trauma de face grave com fratura maxilar.",
+   "Errada: decúbito lateral não cabe em politraumatizado com instabilidade torácica e fraturas em membros.",
+   "Errada: cumprir a prescrição pela via nasal no trauma facial grave expõe o paciente a lesão grave.",
+   "Correta: reconhecer o trauma facial grave e propor via alternativa, em geral oral, à equipe médica.",
+   "Errada: endoscopia não é necessária para passar sonda gástrica; a via oral resolve o problema."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 88,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante o plantão noturno em uma Unidade de Terapia Intensiva (UTI), a enfermeira observou que um paciente em uso contínuo de norepinefrina apresentava palidez e frialdade no membro superior direito, onde a droga está sendo infundida por acesso venoso periférico.\nA infusão foi iniciada em contexto emergencial, antes da punção de um acesso venoso central, e agora nota-se infiltração, edema e endurecimento ao redor do sítio. Considerando os riscos associados e as boas práticas de administração de fármacos vasoativos, assinale a opção que apresenta a conduta segura e tecnicamente correta.",
+  "alts": [
+   "Aumentar o fluxo da infusão para evitar refluxo venoso e suspender após estabilização hemodinâmica.",
+   "Retirar imediatamente o acesso periférico e aplicar compressa morna no local para reduzir lesão tecidual.",
+   "Comunicar à equipe médica, interromper a infusão, iniciar manobras de contenção do extravasamento e providenciar novo acesso venoso profundo.",
+   "Suspender a norepinefrina, irrigar o local com solução salina e administrar a droga por via oral, enquanto se punciona novo acesso.",
+   "Realizar rodízio do acesso venoso para o membro inferior e massagear o local da infiltração com pomada anti-inflamatória."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Drogas vasoativas e sedação",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Infusion Therapy Standards of Practice, Infusion Nurses Society, 9ª ed., 2024 (infiltração e extravasamento)",
+  "coment": "Noradrenalina é vasoconstritora e vesicante; o extravasamento causa isquemia e necrose do tecido. Ao identificar infiltração, interrompe-se a infusão naquele acesso, comunica-se o médico, aspira-se o resíduo pelo cateter antes de retirá-lo, eleva-se o membro, demarca-se e documenta-se a área e prepara-se o antídoto prescrito (fentolamina, infiltrada no local). Como o paciente depende da droga, um novo acesso, de preferência central, é providenciado para retomar a infusão sem interrupção prolongada. Massagem, aumento do fluxo e infusão no mesmo sítio agravam a lesão.",
+  "porAlt": [
+   "Errada: aumentar o fluxo amplia o extravasamento e a área de necrose.",
+   "Errada: retirar logo o cateter impede aspirar o resíduo, e a conduta omite a comunicação ao médico.",
+   "Correta: comunicar, interromper a infusão, conter o extravasamento e providenciar acesso central.",
+   "Errada: noradrenalina não tem via oral, e irrigar o local com salina não é a conduta indicada.",
+   "Errada: massagear espalha o vesicante, e trocar para membro inferior não é a solução adequada."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 89,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente da Unidade de Terapia Intensiva (UTI), em choque séptico, está recebendo norepinefrina em bomba de infusão contínua por via central. Ele também está sedado com propofol e sob reposição volêmica com cristaloides.\nA prescrição médica inclui antibioticoterapia de amplo espectro a ser infundida em até três horas, conforme protocolo institucional de sepse. O acesso venoso central disponível possui três vias: uma ocupada pela norepinefrina, outra pela sedação com propofol e a terceira está sendo utilizada intermitentemente para a reposição volêmica.\nCom base na avaliação crítica da Enfermagem sobre compatibilidade medicamentosa, segurança da infusão e tempo de administração, a conduta adequada é",
+  "alts": [
+   "administrar o antibiótico na via da sedação com propofol, uma vez que ambos os fármacos são emulsões lipídicas de infusão contínua.",
+   "diluir o antibiótico em volume compatível e administrar lentamente pela via da norepinefrina para garantir início imediato da antibioticoterapia.",
+   "manter a organização atual das vias e aguardar o término da reposição volêmica para infundir o antibiótico pela terceira via.",
+   "solicitar novo acesso venoso e usar bomba de infusão com acesso exclusivo para a antibioticoterapia, evitando riscos de incompatibilidade com drogas vasoativas e sedativos.",
+   "realizar a antibioticoterapia em bolus por via periférica, enquanto mantém a infusão contínua dos demais fármacos na via central."
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Surviving Sepsis Campaign 2026 (Prescott et al., Intensive Care Med e Crit Care Med, 2026); Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "Vasopressor e sedação contínua devem correr em vias exclusivas: injetar outro fármaco na via da noradrenalina produz bolus da droga vasoativa e oscilação de pressão, e o propofol é emulsão lipídica incompatível com muitos fármacos. Como o antibiótico não pode esperar, a conduta é obter novo acesso e infundir o antimicrobiano em bomba, por via própria. No choque séptico, a Surviving Sepsis Campaign 2026 recomenda iniciar o antibiótico idealmente na primeira hora; a janela de até três horas se aplica à sepse possível sem choque. Bolus periférico ignora diluição e tempo de infusão.",
+  "porAlt": [
+   "Errada: propofol é emulsão com várias incompatibilidades e não serve de via para antibiótico.",
+   "Errada: injetar na via da noradrenalina provoca bolus do vasopressor e instabilidade da pressão.",
+   "Errada: no choque séptico o antibiótico não deve esperar o fim da reposição volêmica.",
+   "Correta: novo acesso com infusão exclusiva em bomba evita incompatibilidade e não atrasa o antibiótico.",
+   "Errada: a maioria dos antibióticos exige diluição e tempo de infusão; bolus aumenta reações e flebite."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 90,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante o plantão da tarde em uma Unidade de Terapia Intensiva (UTI), a enfermeira se preparou para realizar a troca da bolsa de Nutrição Parenteral Total (NPT) de um paciente em jejum absoluto, que se encontrava em uso contínuo de NPT há cinco dias por via central exclusiva.\nAo conferir a nova bolsa enviada pela farmácia, a enfermeira observou que a etiqueta da nova bolsa estava parcialmente descolada e ilegível, dificultando a confirmação da identidade do paciente e a composição da fórmula. A farmácia não dispõe de outra bolsa pronta no momento. A bolsa anterior ainda continha volume remanescente, mas foi instalada há exatas 24 horas, sendo que a validade estipulada pelo fabricante é de 24h. O cateter central permaneceu pérvio, sem sinais de infecção, e com curativo recente.\nCom base nas boas práticas em terapia nutricional parenteral, nos princípios de segurança do paciente e na Resolução COFEN nº 564/2017, assinale a opção que indica a conduta adequada da Enfermagem nesse caso.",
+  "alts": [
+   "Infundir o restante da bolsa anterior, monitorando o paciente de hora em hora, e solicitar nova bolsa para reposição posterior.",
+   "Priorizar o uso da nova bolsa, já que foi mantida sob refrigeração controlada e apresenta aspecto físico aparentemente normal.",
+   "Suspender a NPT até que uma nova bolsa seja disponibilizada, mantendo a via central com glicose a 50% em bomba controlada, via exclusiva.",
+   "Confirmar verbalmente com a farmácia e a equipe médica se a bolsa foi destinada a esse paciente e iniciar a infusão com monitorização rigorosa.",
+   "Aguardar a manipulação de nova bolsa e manter o paciente em hidratação venosa com solução glicosada a 5%, em acesso venoso periférico compartilhado."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Portaria SVS/MS 272/1998 (terapia de nutrição parenteral); Resolução COFEN 453/2014 (terapia nutricional); Resolução COFEN 564/2017, art. 80",
+  "coment": "Bolsa sem identificação legível não pode ser instalada, pois não se confirma paciente nem composição; e a bolsa anterior completou o prazo de 24 horas e deve ser descartada pelo risco de contaminação. Logo, a NPT é suspensa até chegar bolsa nova, sem deixar o paciente sem glicose, porque a interrupção abrupta causa hipoglicemia de rebote. A via central exclusiva é mantida com solução glicosada em bomba, conforme prescrição. A banca citou glicose a 50%; na prática, protocolos costumam usar solução glicosada a 10% na mesma velocidade, o que torna a alternativa discutível na concentração, embora correta no princípio.",
+  "porAlt": [
+   "Errada: a bolsa completou 24 horas de instalação e deve ser descartada pelo risco de contaminação.",
+   "Errada: bolsa com rótulo ilegível não pode ser instalada, por mais normal que pareça o aspecto.",
+   "Correta: suspender a NPT e manter glicose na via central exclusiva evita hipoglicemia de rebote.",
+   "Errada: confirmação verbal não substitui o rótulo que identifica paciente e composição da fórmula.",
+   "Errada: acesso periférico compartilhado e SG 5% não garantem a oferta de glicose nem a via exclusiva."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 91,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a admissão de um paciente na sala de emergência, a equipe de Enfermagem identificou os seguintes sinais: palidez cutânea e extremidades frias; sudorese profusa; FC: 124 bpm; PA: 92/58 mmHg; FR: 28 irpm; tempo de enchimento capilar: 5 segundos; débito urinário: 15 mL/h.\nPaciente lúcido, porém agitado e referindo mal-estar. O paciente encontra-se sob monitorização contínua e hidratação venosa com solução cristaloide.\nDe acordo com a NANDA-I (2024–2026) e os princípios do Processo de Enfermagem, assinale a opção que indica o diagnóstico tecnicamente compatível com o quadro clínico apresentado.",
+  "alts": [
+   "Risco de choque séptico relacionado à infecção presumida; coletar culturas e iniciar antibioticoterapia.",
+   "Padrão respiratório ineficaz relacionado à taquipneia compensatória, evidenciado por FR aumentada.",
+   "Perfusão tissular ineficaz relacionada à hipovolemia, evidenciada por sinais periféricos de má perfusão.",
+   "Troca de gases prejudicada relacionada à hipoperfusão pulmonar, evidenciada por FR aumentada e sudorese.",
+   "Débito cardíaco diminuído relacionado à disfunção miocárdica, evidenciado por hipotensão e taquicardia."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NANDA-I, Diagnósticos de Enfermagem 2024-2026 (13ª ed.); Resolução COFEN 736/2024 (Processo de Enfermagem)",
+  "coment": "Palidez, extremidades frias, sudorese, taquicardia, hipotensão, enchimento capilar de 5 segundos e débito urinário de 15 mL/h em paciente recebendo cristaloide configuram choque com má perfusão periférica, de provável origem hipovolêmica. O diagnóstico compatível é perfusão tissular (periférica) ineficaz relacionada à hipovolemia, com as características definidoras de má perfusão. Diagnóstico de enfermagem tem título, fator relacionado e características definidoras; não inclui conduta médica, como antibiótico, e não deve supor causa que os dados não mostram, como infecção ou disfunção miocárdica.",
+  "porAlt": [
+   "Errada: não há dado de infecção, e coletar culturas e iniciar antibiótico não compõem um diagnóstico.",
+   "Errada: a taquipneia é compensatória; o problema central é a má perfusão, não o padrão respiratório.",
+   "Correta: sinais periféricos de má perfusão com hipovolemia sustentam perfusão tissular ineficaz.",
+   "Errada: não há dado de troca gasosa alterada, e sudorese não é característica desse diagnóstico.",
+   "Errada: nada no caso indica disfunção miocárdica; os achados apontam hipovolemia."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 92,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a administração da primeira dose de uma cefalosporina endovenosa em um paciente internado por pneumonia, a técnica de Enfermagem chamou a enfermeira ao notar que o paciente apresenta erupções cutâneas no tórax e membros superiores; edema periorbitário e labial; sensação de aperto na garganta e dificuldade para respirar.\nOs sinais vitais são PA: 82/48 mmHg; FC: 134 bpm.; FR: 30 irpm.; SpO₂: 88%. O paciente encontra-se consciente, mas muito ansioso e verbalizando desconforto respiratório.\nDiante do quadro clínico e com base nas competências legais da Enfermagem, a conduta imediata e segura da enfermeira é",
+  "alts": [
+   "registrar o evento no prontuário, suspender o antibiótico e notificar a Comissão de Controle de Infecção Hospitalar.",
+   "suspender imediatamente o antibiótico, administrar oxigênio, elevar cabeceira, garantir acesso venoso pérvio e acionar a equipe médica emergencialmente.",
+   "posicionar o paciente em Trendelemburg, manter veia periférica pérvia e iniciar expansão com solução salina sob monitorização.",
+   "administrar anti-histamínico e oxigenoterapia, manter o paciente em decúbito dorsal e solicitar avaliação médica.",
+   "encaminhar o paciente para o centro cirúrgico para possível intubação orotraqueal, conforme risco iminente de obstrução de vias aéreas."
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "World Allergy Organization Anaphylaxis Guidance (Cardona et al., 2020); Resolução COFEN 564/2017, arts. 45 e 76",
+  "coment": "Urticária, angioedema de lábios e pálpebras, aperto na garganta, dispneia, hipotensão e hipoxemia logo após a primeira dose de cefalosporina são anafilaxia. A conduta imediata é suspender o antibiótico, oferecer oxigênio, manter a cabeceira elevada pelo desconforto respiratório, garantir acesso venoso pérvio e acionar o médico em emergência. O tratamento de primeira linha é adrenalina intramuscular, conforme prescrição ou protocolo. Anti-histamínico é adjuvante e não trata choque nem edema de via aérea. Registro e notificação vêm depois da estabilização.",
+  "porAlt": [
+   "Errada: registrar e notificar são necessários, mas não são a conduta imediata da anafilaxia.",
+   "Correta: suspender o fármaco, oxigênio, cabeceira elevada, acesso pérvio e acionar o médico.",
+   "Errada: não suspende o antibiótico, e expansão volêmica depende de prescrição médica.",
+   "Errada: anti-histamínico é adjuvante e exige prescrição; a primeira linha é a adrenalina intramuscular.",
+   "Errada: a via aérea é abordada no local; levar ao centro cirúrgico atrasa o tratamento."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 93,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em uma Unidade de Terapia Intensiva (UTI) geral, uma enfermeira, com dez anos de experiência, observou deterioração clínica em um paciente no pós-operatório de grande porte, com os seguintes dados: sudorese fria, PA 78/45 mmHg, FC 130 bpm e diurese de 10 mL/h nas últimas duas horas. O acesso venoso central apresentou refluxo lento e a prescrição médica está desatualizada há mais de 12 horas. O médico plantonista está ausente, em outro setor, e deve demorar a atender ao chamado.\nDiante da urgência, a enfermeira acionou o Protocolo de Resposta Rápida, solicitou apoio da equipe técnica, elevou a cabeceira do leito e administrou oxigênio suplementar por cateter nasal, enquanto iniciava a monitorização contínua. Posteriormente, foi questionada por ter tomado “iniciativas não prescritas”.\nConsiderando o contexto descrito e os marcos legais da prática profissional da Enfermagem, analise as afirmativas a seguir.\nI. A enfermeira ultrapassou os limites de sua competência legal ao executar medidas clínicas sem prescrição médica formal, mesmo diante de risco iminente.\nII. A decisão de acionar a equipe de resposta rápida está respaldada em protocolos institucionais e diretrizes éticas da Enfermagem.\nIII. O uso de oxigênio suplementar em paciente instável, ainda que sem prescrição escrita, encontra respaldo nos princípios da segurança do paciente e no Código de Ética da Enfermagem.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Responsabilidade civil, penal e ética",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 7.498/1986, art. 11, I, alíneas l e m; Resolução COFEN 564/2017, arts. 45 e 76",
+  "coment": "A Lei 7.498/1986 atribui privativamente ao enfermeiro os cuidados diretos a pacientes graves com risco de vida e os cuidados de maior complexidade que exigem decisões imediatas (art. 11, I, l e m). O Código de Ética impõe assistência livre de danos por negligência (art. 45) e veda negar assistência na urgência (art. 76). Acionar a equipe de resposta rápida segue protocolo institucional (II certa). Elevar a cabeceira, monitorizar e oferecer oxigênio a paciente em choque, à espera do médico, protegem o paciente e têm respaldo na segurança do paciente e no Código (III certa). A enfermeira não ultrapassou sua competência (I errada).",
+  "porAlt": [
+   "Errada: a I é falsa, pois a lei atribui ao enfermeiro decisões imediatas no paciente grave.",
+   "Errada: inclui a I, falsa, e omite a III, que tem respaldo na segurança do paciente.",
+   "Errada: inclui a I, falsa, e omite a II, já que a resposta rápida segue protocolo institucional.",
+   "Correta: acionar a resposta rápida e ofertar oxigênio no paciente instável têm respaldo ético e legal.",
+   "Errada: a I é falsa; agir no risco iminente não extrapola a competência legal da enfermeira."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 94,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente foi admitido no turno noturno de uma unidade de emergência, após acidente automobilístico. Na avaliação inicial, apresentou Escala de Coma de Glasgow: 9 (abertura ocular: 2; resposta verbal: 2; resposta motora: 5); pupilas isocóricas, porém reativas lentamente à luz.\nOs sinais vitais são PA: 160/90 mmHg; FC: 50 bpm; respiração irregular; SpO₂: 92% em ar ambiente. Observou-se secreção orofaríngea espessa e rebaixamento progressivo do nível de consciência.\nDiante do quadro apresentado, segundo os protocolos de atendimento ao Traumatismo Cranioencefálico (TCE) e as atribuições da Enfermagem, assinale a opção que apresenta corretamente a ação tecnicamente indicada.",
+  "alts": [
+   "Administrar solução salina em bolus para reverter a bradicardia e prevenir hipoperfusão cerebral.",
+   "Posicionar o paciente em decúbito lateral esquerdo e instalar oxigênio sob máscara com reservatório a 15 L/min.",
+   "Estimular a tosse, aspirar secreções orais e manter o paciente em decúbito horizontal para preservar a perfusão cerebral.",
+   "Avaliar os sinais de deterioração neurológica, elevar a cabeceira a 30°, aspirar as vias aéreas superiores e comunicar imediatamente a equipe médica.",
+   "Encaminhar o paciente para tomografia antes de qualquer intervenção, a fim de evitar interferências clínicas nos achados neurológicos."
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes da Brain Trauma Foundation para TCE grave, 4ª ed., 2016; Protocolos de Intervenção para o SAMU 192, Suporte Avançado de Vida (MS, 2016)",
+  "coment": "Glasgow 9 com piora progressiva, hipertensão, bradicardia e respiração irregular sugere hipertensão intracraniana, e a secreção orofaríngea espessa ameaça a via aérea. A enfermagem reavalia o nível de consciência e as pupilas, eleva a cabeceira a 30° (com coluna alinhada, ou em proclive se houver restrição de movimento da coluna) para favorecer a drenagem venosa cerebral, aspira as vias aéreas superiores para manter oxigenação e comunica a equipe médica de imediato, pois a intubação pode ser necessária. Hipóxia e hipotensão pioram a lesão secundária; a tomografia vem após estabilizar a via aérea.",
+  "porAlt": [
+   "Errada: a bradicardia reflete hipertensão intracraniana, e volume em bolus não a corrige.",
+   "Errada: decúbito lateral não é a posição indicada no TCE com suspeita de lesão de coluna.",
+   "Errada: paciente com Glasgow 9 não tosse sob comando, e o decúbito horizontal eleva a pressão intracraniana.",
+   "Correta: avaliar a piora neurológica, cabeceira a 30°, aspirar vias aéreas e comunicar o médico.",
+   "Errada: a via aérea e a oxigenação são estabilizadas antes do transporte para a tomografia."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 95,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na prática intensiva, o manuseio seguro de fármacos de alto risco exige da equipe de Enfermagem discernimento técnico quanto à via de administração, compatibilidade, tempo de infusão, parâmetros de monitoramento e riscos associados.\nCom base nessas exigências, analise as afirmativas a seguir.\nI. A insulina regular endovenosa deve ser administrada exclusivamente por bomba de infusão contínua, com checagens seriadas da glicemia capilar e seguimento de protocolo institucional, a fim de evitar hipoglicemia iatrogênica.\nII. A vancomicina requer infusão lenta, com monitoramento rigoroso dos níveis séricos, sendo o valor \"trough\" (concentração do medicamento no sangue, imediatamente antes da próxima dose ser administrada) essencial para reduzir o risco de nefrotoxicidade.\nIII. O fentanil, devido à sua alta lipossolubilidade e potência analgésica, exige monitoramento contínuo de sedação, ventilação e preferencialmente deve ser infundido por via exclusiva.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 4,
+  "tema": "farmaco",
+  "sub": "Medicamentos de alta vigilância",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Rybak et al., consenso ASHP/IDSA/PIDS/SIDP de monitorização terapêutica da vancomicina (2020); Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "Insulina regular endovenosa e fentanil são de alta vigilância: a insulina em infusão contínua exige bomba, glicemias seriadas e protocolo para evitar hipoglicemia; o fentanil, lipossolúvel e potente, exige vigiar sedação e ventilação, de preferência em via exclusiva. A vancomicina corre devagar (no mínimo 60 minutos) para evitar reação infusional, e seus níveis são monitorados para reduzir nefrotoxicidade. Há duas ressalvas. O consenso de 2020 prefere a área sob a curva ao vale isolado. E a insulina regular endovenosa também pode ser dada em bolus, como na hiperpotassemia. A banca, porém, considerou as três afirmativas certas.",
+  "porAlt": [
+   "Errada: considera apenas a insulina, mas a vancomicina e o fentanil também foram dados como certos.",
+   "Errada: omite a III, pois o fentanil exige monitorar sedação e ventilação em via exclusiva.",
+   "Errada: omite a II, já que a vancomicina exige infusão lenta e monitoramento de nível sérico.",
+   "Errada: omite a I, que a banca considerou certa para a insulina em infusão contínua.",
+   "Correta: a banca considerou certas as três, sobre insulina endovenosa, vancomicina e fentanil."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 96,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No atendimento inicial a uma vítima de colisão automobilística, a equipe de Enfermagem identificou um paciente com torácico fechado; ausência de murmúrio vesicular no hemitórax esquerdo à ausculta pulmonar; presença de turgência jugular e desvio de traqueia para a direita.\nSinais vitais: FR: 38 irpm.; FC: 128 bpm.; PA: 88/50 mmHg; Saturação de O₂: 84% em ar ambiente. Dor presente, mas nível de consciência reduzido.\nEnquanto a equipe médica se organiza para a drenagem torácica, segundo os protocolos de atendimento ao politraumatizado, a ação técnica imediata da Enfermagem é",
+  "alts": [
+   "posicionar o paciente com cabeceira elevada, iniciar oxigenoterapia sob máscara com reservatório a 15 L/min e comunicar imediatamente a equipe médica.",
+   "iniciar oxigenoterapia sob máscara de Venturi a 60%, posicionar em decúbito dorsal horizontal e monitorar e comunicar imediatamente a equipe médica.",
+   "administrar furosemida endovenosa (EV) para reduzir a pressão intratorácica, aliviar o desconforto respiratório e comunicar imediatamente a equipe médica.",
+   "posicionar o paciente em decúbito lateral esquerdo, administrar broncodilatador inalatório e comunicar imediatamente a equipe médica.",
+   "aspirar vias aéreas, manter o paciente em decúbito zero para favorecer o retorno venoso e comunicar imediatamente a equipe médica."
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Protocolos de Intervenção para o SAMU 192, Suporte Avançado de Vida (MS, 2016); Lei 7.498/1986, art. 11, I, alínea l",
+  "coment": "Murmúrio abolido à esquerda, traqueia desviada para a direita, turgência jugular, hipotensão e SpO2 de 84% no trauma torácico fechado indicam pneumotórax hipertensivo, que exige descompressão imediata pela equipe médica. Enquanto isso, a enfermagem oferece oxigênio na maior fração possível, com máscara com reservatório a 15 L/min, mantém a cabeceira elevada se não houver contraindicação pela coluna, monitoriza, garante acesso venoso, prepara o material de descompressão e drenagem e comunica a equipe médica. Furosemida e broncodilatador não tratam ar no espaço pleural.",
+  "porAlt": [
+   "Correta: cabeceira elevada, máscara com reservatório a 15 L/min e comunicação imediata à equipe médica.",
+   "Errada: a Venturi a 60% oferece menos oxigênio que o reservatório, e o decúbito horizontal piora a ventilação.",
+   "Errada: furosemida não reduz a pressão intratorácica e agrava a hipotensão do choque obstrutivo.",
+   "Errada: broncodilatador não trata pneumotórax, e o decúbito lateral não é indicado no trauma.",
+   "Errada: decúbito zero piora a ventilação; o tratamento é a descompressão, não favorecer retorno venoso."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 97,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em uma Unidade de Terapia Intensiva (UTI), a equipe de Enfermagem realizou o descarte de resíduos gerados, durante o cuidado a pacientes sob precaução de contato. Entre os itens estão luvas e aventais descartáveis com sangue visível; sobras de soro fisiológico; frascos de antibióticos vazios; seringas plásticas sem agulhas; materiais utilizados em aspiração traqueal com secreção purulenta.\nDurante auditoria interna, a enfermeira responsável identificou que todos os resíduos foram descartados no mesmo recipiente, rotulado como \"resíduo comum\".\nCom base na legislação sanitária vigente, na classificação técnica dos resíduos de serviços de saúde e nos princípios de biossegurança e sustentabilidade ambiental, assinale a opção que apresenta a conduta tecnicamente adequada.",
+  "alts": [
+   "Classificar todos os resíduos como infectantes (Grupo A), considerando o potencial risco biológico, independentemente da natureza de cada item.",
+   "Segregar os resíduos segundo sua classificação técnica: Grupo A (infectantes), Grupo B (químicos) e Grupo D (comuns), e capacitar a equipe quanto aos riscos sanitários e ambientais.",
+   "Redirecionar todos os resíduos para incineração, conforme protocolo padrão, a fim de eliminar qualquer possibilidade de contaminação.",
+   "Armazenar todos os resíduos identificados como comuns em sacos vermelhos com símbolo de risco biológico, como precaução adicional.",
+   "Encaminhar o caso à Comissão de Controle de Infecção Hospitalar (CCIH), uma vez que a responsabilidade pelo descarte compete exclusivamente à comissão."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 222/2018 (gerenciamento de resíduos de serviços de saúde); Resolução CONAMA 358/2005",
+  "coment": "A RDC 222/2018 exige segregar os resíduos no ponto de geração, conforme o grupo: A (risco biológico), B (químico), C (radioativo), D (comum, equiparado ao domiciliar) e E (perfurocortante). Materiais com sangue visível ou secreção de paciente com germe multirresistente vão para o Grupo A, acondicionados e identificados conforme o subgrupo. Resíduos de medicamentos e embalagens contaminadas por produto perigoso seguem as regras do Grupo B. O que não teve contato com material biológico vai para o Grupo D. Tratar tudo como infectante encarece e não segue a norma. A capacitação da equipe também é exigida pelo plano de gerenciamento.",
+  "porAlt": [
+   "Errada: classificar tudo como Grupo A ignora a segregação na origem e aumenta custo e impacto ambiental.",
+   "Correta: segregar em grupos A, B e D conforme a RDC 222/2018 e capacitar a equipe.",
+   "Errada: a incineração não é destino padrão de todo resíduo; o tratamento depende do grupo.",
+   "Errada: resíduo comum não vai em saco de risco biológico; cada grupo tem acondicionamento próprio.",
+   "Errada: o gerenciamento é responsabilidade do serviço e de quem gera o resíduo, não só da CCIH."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 98,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na admissão hospitalar de um paciente adulto jovem para antibioticoterapia intravenosa contínua por 14 dias, a equipe de Enfermagem identificou múltiplas tentativas prévias de punção venosa realizadas em unidade de emergência.\nO paciente apresenta equimoses extensas nos membros superiores, veias colabadas e queixa de dor nos locais anteriormente puncionados. Relata histórico de difícil acesso venoso. A prescrição médica indica antibiótico compatível com veia periférica. A instituição dispõe de ultrassom portátil para avaliação venosa e adota protocolo institucional de gestão do capital venoso, com enfoque em acesso seguro, duradouro e minimamente invasivo.\nNesse cenário, considerando as boas práticas em terapia intravenosa, os dados clínicos apresentados e os recursos disponíveis, assinale a opção que apresenta a conduta apropriada da Enfermagem.",
+  "alts": [
+   "Utilizar transiluminação para localizar veia e instalar cateter de grande calibre (CH 20 ou superior), mesmo em veias finas ou frágeis.",
+   "Inserir cateter periférico curto em veia visível da mão, com rodízio programado a cada 72 horas, para preservar o capital venoso.",
+   "Realizar nova punção em membro inferior utilizando garrote prolongado, devido ao esgotamento dos acessos nos membros superiores.",
+   "Realizar avaliação ultrassonográfica do capital venoso, aplicar escore de dificuldade (ex: A-DIVA) e indicar punção guiada ou cateter midline por equipe habilitada.",
+   "Slicitar, obrigatoriamente, um acesso venoso central à equipe médica, uma vez que a ausência de veias visíveis impede qualquer conduta por parte da Enfermagem."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "Infusion Therapy Standards of Practice, Infusion Nurses Society, 9ª ed., 2024 (avaliação e escolha do dispositivo vascular)",
+  "coment": "Paciente com acesso venoso difícil, veias colabadas e várias punções prévias, que vai receber antibiótico compatível com veia periférica por 14 dias, precisa de escolha planejada do dispositivo. A INS (2024) recomenda avaliar o capital venoso com instrumento validado, como o escore A-DIVA, usar ultrassom para punção guiada em acesso difícil e considerar cateter de linha média (midline) para terapias periféricas mais longas, colocados por profissional habilitado. O cateter periférico curto não se troca em intervalo fixo, mas por indicação clínica. Calibre deve ser o menor possível, e garrote prolongado lesa o vaso.",
+  "porAlt": [
+   "Errada: cateter calibroso em veia fina ou frágil aumenta flebite e falha; prefere-se o menor calibre.",
+   "Errada: veia da mão com trocas programadas esgota o capital venoso; a troca é por indicação clínica.",
+   "Errada: membro inferior aumenta risco de trombose, e garrote prolongado lesa o vaso e altera exames.",
+   "Correta: avaliar com ultrassom e escore A-DIVA e indicar punção guiada ou midline por equipe habilitada.",
+   "Errada: a enfermagem dispõe de punção guiada por ultrassom e midline; acesso central não é obrigatório."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 99,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a monitorização hemodinâmica invasiva de um paciente em ventilação mecânica e uso de noradrenalina, a equipe de Enfermagem observou valores de pressão arterial média (PAM) inesperadamente baixos no monitor multiparamétrico.\nAo investigar o sistema de pressão invasiva instalado na artéria radial esquerda, a enfermeira identificou que o transdutor estava fixado abaixo do nível do átrio direito (linha média axilar); a curva de pressão arterial com artefatos e amortecimento do traçado; o paciente em decúbito dorsal com cabeceira a 45°; a ausência de calibração do sistema nas últimas oito horas.\nCom base nas boas práticas de monitorização invasiva e nos protocolos de segurança do paciente, assinale a conduta tecnicamente correta da Enfermagem.",
+  "alts": [
+   "Manter a posição atual do transdutor, pois a cabeceira elevada exige correção manual da leitura no monitor.",
+   "Trocar o cateter arterial, pois a curva com artefatos indica obstrução completa e necessidade de nova punção.",
+   "Reduzir a cabeceira para 0°, posicionar o transdutor ao nível do esterno e iniciar nova monitorização.",
+   "Ajustar o zero do transdutor com o paciente em decúbito lateral esquerdo, pois essa posição favorece a acurácia da leitura invasiva.",
+   "Reposicionar o transdutor na altura do 4º espaço intercostal na linha média axilar, eliminar as bolhas do sistema e calibrar imediatamente."
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "Monitorização hemodinâmica",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "Infusion Therapy Standards of Practice, Infusion Nurses Society, 9ª ed., 2024; Brunner e Suddarth, Tratado de Enfermagem Médico-Cirúrgica, 14ª ed., 2020 (monitorização hemodinâmica)",
+  "coment": "A pressão invasiva só é confiável com o transdutor nivelado ao eixo flebostático (4º espaço intercostal na linha média axilar, que corresponde ao átrio direito), o sistema sem bolhas ou coágulos e o zero feito após nivelar. A cabeceira pode ficar elevada, desde que o transdutor seja renivelado. Bolhas causam amortecimento da curva e leitura imprecisa, e o teste de onda quadrada confirma a resposta dinâmica. Atenção: transdutor abaixo do eixo superestima a pressão; a PAM baixa do enunciado vem mais do amortecimento. O enunciado é impreciso, mas a conduta correta não muda.",
+  "porAlt": [
+   "Errada: não há correção manual; o transdutor é renivelado ao eixo flebostático a cada mudança.",
+   "Errada: amortecimento costuma vir de bolhas, coágulo ou dobra; antes de trocar, corrige-se o sistema.",
+   "Errada: não é preciso zerar a cabeceira, e o esterno não é a referência; usa-se o eixo flebostático.",
+   "Errada: o decúbito lateral exige outra referência e não melhora a acurácia da leitura.",
+   "Correta: renivelar no 4º espaço intercostal na linha média axilar, retirar bolhas e zerar o sistema."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Multiprofissional em Enfermagem 2025/2026",
+   "n": 100,
+   "parte": "especificas"
+  }
+ }
+]

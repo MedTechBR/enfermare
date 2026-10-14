@@ -1,0 +1,693 @@
+[
+ {
+  "id": "caso-avc-disfagia-sne",
+  "titulo": "AVC isquêmico com disfagia e sonda nasoenteral na enfermaria",
+  "area": "adulto",
+  "cenario": "enf",
+  "tempo": 20,
+  "abertura": "Enfermaria de clínica médica, segundo dia de internação. Sr. A., 78 anos, AVC isquêmico no território da artéria cerebral média esquerda, sem trombólise porque chegou fora da janela. Hemiparesia direita e afasia de expressão. No teste da fonoaudióloga, tossiu e ficou com voz molhada ao tomar água, e a dieta oral foi suspensa. Prescrição médica: dieta enteral por sonda nasoenteral, a passar hoje. PA 158/88 mmHg, FC 84 bpm regular, temperatura 36,8 °C, SpO2 95% em ar ambiente, glicemia capilar 182 mg/dL. Usa fralda. Você é o enfermeiro do plantão. Faça a avaliação e diga o que prioriza.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Faça a avaliação de enfermagem dirigida: o que examina e pergunta, que escalas aplica e que dados ainda faltam antes de passar a sonda.",
+    "entrega": "Acordado, obedece a ordens simples, não forma frases. Sem prótese dentária. Narinas pérvias, sem história de trauma de face ou cirurgia nasal. Plaquetas e coagulograma normais. Abdome flácido, ruídos presentes. Braden 13. Pele íntegra, com área avermelhada que embranquece à pressão na região sacral. A filha, presente e aflita, quer dar suco 'para ele não passar fome'."
+   },
+   {
+    "n": 2,
+    "tarefa": "Formule os diagnósticos de enfermagem prioritários com o raciocínio. Diga quem passa a sonda, como, e o que precisa acontecer antes da primeira dieta.",
+    "entrega": "Você passou a sonda às cegas, na primeira tentativa, sem tosse persistente nem queda de saturação, e fixou no nariz. A radiografia mostra a ponta da sonda abaixo do diafragma, no estômago, sem trajeto pela via aérea. O médico libera a dieta em bomba de infusão contínua."
+   },
+   {
+    "n": 3,
+    "tarefa": "Escreva a prescrição de enfermagem para as próximas 24 horas: dieta, sonda, medicação pela sonda, pele, mobilidade, comunicação e família. Diga o que delega ao técnico.",
+    "entrega": "Na madrugada, o técnico avisa que o paciente tossiu muito durante o banho no leito, feito com a cabeceira abaixada e a dieta correndo, e que a marca da sonda na narina está 6 cm mais para fora do que o registrado. SpO2 92%, FR 24 irpm, roncos na base direita."
+   },
+   {
+    "n": 4,
+    "tarefa": "Diga o que faz agora, o que comunica e como registra.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "C",
+    "item": "Faz a avaliação dirigida antes do procedimento: nível de consciência e capacidade de seguir ordens, deglutição e tosse, narinas, risco de sangramento, abdome e pele",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Prioriza Deglutição prejudicada e Risco de aspiração (NANDA-I, 2024-2026), ligando a tosse e a voz molhada no teste à suspensão da via oral",
+    "peso": 0.6
+   },
+   {
+    "eixo": "C",
+    "item": "Identifica também Comunicação verbal prejudicada e Risco de lesão por pressão no adulto (NANDA-I, 2024-2026), lendo a hiperemia que embranquece como alerta, e não como lesão",
+    "peso": 0.3
+   },
+   {
+    "eixo": "H",
+    "item": "Passa a sonda pessoalmente, porque a inserção de sonda nasoenteral é privativa do enfermeiro, e solicita a radiografia de confirmação (Res. COFEN 619/2019)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "H",
+    "item": "Não inicia dieta nem medicação pela sonda antes da confirmação radiológica e não usa a ausculta com insuflação de ar como prova de posição",
+    "peso": 0.6
+   },
+   {
+    "eixo": "H",
+    "item": "Mantém a cabeceira elevada a 30 a 45 graus durante a dieta e pausa a bomba antes de qualquer cuidado que exija abaixar a cabeceira (ANVISA, Medidas de Prevenção de IRAS, 2017)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Marca e registra o comprimento externo da sonda, confere a marca a cada turno, lava a sonda com água antes e depois de cada medicação e não mistura medicamento com a dieta",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Diante da tosse com sonda deslocada: para a dieta, eleva a cabeceira, aspira se preciso, avalia a respiração, não empurra de volta a sonda e pede avaliação médica e nova radiografia",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Orienta a filha a não oferecer nada pela boca até nova avaliação da fonoaudiologia e explica o motivo em linguagem simples",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Delega ao técnico a higiene, a mudança de decúbito e a vigilância da bomba, com instrução do que comunicar, e mantém para si a avaliação, o diagnóstico e a prescrição de enfermagem (Lei 7.498/1986; Res. COFEN 736/2024)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Registra a passagem (calibre, narina, marca, tentativas, intercorrências), o deslocamento e a suspeita de broncoaspiração, e notifica o incidente ao núcleo de segurança do paciente",
+    "peso": 0.3
+   }
+  ]
+ },
+ {
+  "id": "caso-sepse-vm-noradrenalina",
+  "titulo": "Choque séptico em ventilação mecânica com noradrenalina",
+  "area": "uti",
+  "cenario": "uti",
+  "tempo": 25,
+  "abertura": "Estação de UTI adulto, no formato da prova prática do título da ABENTI: caso simulado, tarefas com tempo marcado e foco na decisão do enfermeiro. Admissão. Sra. M., 64 anos, 70 kg, pneumonia comunitária grave, intubada no pronto-socorro há 2 horas. Em ventilação mecânica, sedada com fentanil e midazolam em bomba. A noradrenalina foi iniciada em veia periférica do antebraço. Chega com PA 84/46 mmHg (PAM 59), FC 118 bpm, temperatura 38,6 °C, SpO2 91% com FiO2 de 60%, lactato de 4,1 mmol/L no pronto-socorro e diurese de 20 mL na última hora pela sonda vesical. Não há registro de coleta de hemoculturas, e o antibiótico prescrito ainda não foi feito. Responda cada tarefa no tempo.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Diga suas ações nos primeiros 15 minutos da admissão, em ordem de prioridade, e o que pede ou comunica ao médico plantonista.",
+    "entrega": "Hemoculturas colhidas em dois sítios e antibiótico iniciado. Cateter venoso central em jugular interna direita, com posição confirmada. O médico prescreve meta de PAM de 65 mmHg ou mais e passa a noradrenalina para o cateter central: solução com 16 mg em 250 mL, bomba a 15 mL/h. RASS de menos 5. Cabeceira a 15 graus. Pressão do cuff medida em 16 cmH2O; o protocolo da unidade pede 25 a 30 cmH2O."
+   },
+   {
+    "n": 2,
+    "tarefa": "Calcule a dose de noradrenalina em mcg/kg/min e diga os cuidados com a infusão e com a passagem do acesso periférico para o central.",
+    "entrega": "Dose conferida pela farmacêutica. Seis horas depois: PAM 68 mmHg com a mesma vazão, lactato de 2,3 mmol/L, diurese de 45 mL/h, SpO2 95% com FiO2 de 40%. Secreção traqueal espessa e amarelada. RASS de menos 5; a equipe médica discute o despertar."
+   },
+   {
+    "n": 3,
+    "tarefa": "Formule os diagnósticos de enfermagem e a prescrição de enfermagem para prevenir pneumonia associada à ventilação, lesão por pressão e infecção do cateter.",
+    "entrega": "No dia seguinte, na janela de despertar, a paciente abre os olhos ao chamado, segue ordens simples e leva a mão direita ao tubo. A filha pergunta se a mãe vai ficar amarrada."
+   },
+   {
+    "n": 4,
+    "tarefa": "Conduza a situação: segurança do tubo, avaliação de sedação e delirium, decisão sobre contenção e conversa com a filha.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "C",
+    "item": "Reconhece choque séptico (hipotensão com vasopressor e lactato elevado) e garante as hemoculturas antes do antibiótico sem atrasá-lo, comunicando ao médico o atraso encontrado",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Monitoriza a pressão de forma contínua (sugere ao médico a pressão arterial invasiva), mede a diurese a cada hora e repete o lactato conforme a prescrição",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Com noradrenalina em veia periférica: inspeciona o sítio com frequência à procura de extravasamento e cobra o acesso central, sem interromper a infusão na troca",
+    "peso": 0.4
+   },
+   {
+    "eixo": "C",
+    "item": "Calcula a dose: 16 mg em 250 mL dão 64 mcg/mL; 15 mL/h equivalem a 960 mcg/h, 16 mcg/min e cerca de 0,23 mcg/kg/min para 70 kg",
+    "peso": 0.6
+   },
+   {
+    "eixo": "H",
+    "item": "Infunde em bomba, em via exclusiva do cateter central, sem bolus nem lavagem da via, troca a seringa ou a bolsa sem pausa, rotula e faz dupla checagem; titula só dentro da meta e da faixa prescritas",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Formula Troca de gases prejudicada, Desobstrução ineficaz de vias aéreas e Risco de infecção (NANDA-I, 2024-2026), e trata a instabilidade hemodinâmica como problema colaborativo, vigiado com o médico",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Prescreve a prevenção de pneumonia associada à ventilação: cabeceira de 30 a 45 graus, cuff na faixa do protocolo, higiene oral, aspiração só quando indicada e sem instilar soro, condensado drenado para longe do paciente e participação no despertar diário (ANVISA, Medidas de Prevenção de IRAS, 2017)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "H",
+    "item": "Previne lesão por pressão (Braden na admissão, superfície de redistribuição, reposicionamento programado) e cuida do cateter central com curativo íntegro e fricção do conector com antisséptico antes de cada acesso",
+    "peso": 0.4
+   },
+   {
+    "eixo": "C",
+    "item": "Avalia a sedação pela RASS e o delirium pelo CAM-ICU na janela de despertar e leva o resultado ao médico para ajuste da analgesia e da sedação",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Trata a contenção mecânica como último recurso, depois de fixação segura do tubo, orientação e presença da equipe; se usada, segue a Res. COFEN 746/2024 e o protocolo, com registro do motivo, do tipo, do tempo e das reavaliações",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Explica à filha o motivo e o caráter temporário de qualquer contenção e a convida a ajudar na orientação da mãe",
+    "peso": 0.3
+   }
+  ]
+ },
+ {
+  "id": "caso-lesao-pressao",
+  "titulo": "Lesão por pressão sacral e em calcâneo no paciente acamado",
+  "area": "feridas",
+  "cenario": "enf",
+  "tempo": 20,
+  "abertura": "Enfermaria de clínica médica. Sra. J., 86 anos, demência avançada, acamada há 3 meses, internada há 5 dias por pneumonia aspirativa. Come por via oral com ajuda e aceita metade das refeições. Incontinência urinária e fecal, usa fralda. Na transferência do pronto-socorro, ninguém registrou o estado da pele. Hoje, no banho, o técnico chama você por causa de 'duas feridas'. Avalie e planeje o cuidado.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Diga como examina as lesões e a paciente e o que precisa saber para classificar e planejar.",
+    "entrega": "Região sacral: lesão de 4 cm por 3 cm, perda de pele em espessura total, com tecido de granulação e esfacelo amarelo em parte do leito, sem osso, tendão ou músculo visíveis, bordas regulares, exsudato seroso moderado, sem odor, pele ao redor macerada. Calcâneo direito: área de 3 cm por 3 cm de pele intacta, vermelho-escura, que não embranquece, fria, com flictena de conteúdo sanguinolento. Braden 10. Geme e franze a testa quando é virada. Albumina 2,6 g/dL."
+   },
+   {
+    "n": 2,
+    "tarefa": "Classifique as duas lesões, justifique e formule os diagnósticos de enfermagem.",
+    "entrega": "A coordenação pede o plano de cuidados da paciente e a decisão sobre o curativo de cada lesão."
+   },
+   {
+    "n": 3,
+    "tarefa": "Prescreva os cuidados: redistribuição de pressão, pele, umidade, nutrição, dor e curativo de cada lesão. Diga o que cabe a quem.",
+    "entrega": "Uma semana depois, a lesão sacral tem mais granulação e menos esfacelo. No calcâneo, a flictena rompeu e deixou uma escara seca, aderida, sem flutuação, eritema ou secreção. Um colega sugere desbridar a escara do calcâneo."
+   },
+   {
+    "n": 4,
+    "tarefa": "Decida sobre a escara do calcâneo e diga como classifica agora, o que registra e o que notifica.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "C",
+    "item": "Examina toda a pele, mede as lesões e descreve leito, bordas, exsudato, odor, pele ao redor e dor, e aplica a escala de Braden",
+    "peso": 0.4
+   },
+   {
+    "eixo": "C",
+    "item": "Classifica a lesão sacral como lesão por pressão estágio 3: perda de pele em espessura total, com esfacelo que não oculta a profundidade e sem osso, tendão ou músculo expostos (NPIAP, 2016)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "C",
+    "item": "Classifica o calcâneo como lesão por pressão tissular profunda: pele intacta vermelho-escura que não embranquece, com flictena sanguinolenta (NPIAP, 2016)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "C",
+    "item": "Formula Lesão por pressão no adulto e Dor aguda (NANDA-I, 2024-2026), relacionando a lesão à imobilidade, à umidade e ao estado nutricional",
+    "peso": 0.3
+   },
+   {
+    "eixo": "H",
+    "item": "Instala superfície de redistribuição de pressão, reposiciona em horários prescritos e deixa os calcanhares flutuantes, com apoio ao longo da panturrilha e nunca no calcanhar",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Maneja a umidade: limpeza suave após cada eliminação, produto de barreira, troca precoce da fralda e proteção da pele macerada ao redor da lesão sacral",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Na lesão sacral: limpeza com soro fisiológico, cobertura que controla o exsudato e mantém o leito úmido, e desbridamento do esfacelo por método autolítico ou instrumental conservador, dentro da competência e do protocolo (Res. COFEN 787/2025)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Mantém intacta a escara seca, estável e aderida do calcâneo, sem desbridar nem amolecer, e a reavalia todo dia à procura de flutuação, eritema ou secreção (NPIAP, 2016)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "C",
+    "item": "Reclassifica o calcâneo como lesão por pressão não classificável quando a escara passa a ocultar a profundidade (NPIAP, 2016)",
+    "peso": 0.3
+   },
+   {
+    "eixo": "A",
+    "item": "Pede avaliação da nutricionista e leva ao médico a dor e o risco nutricional, para analgesia antes dos curativos e suporte nutricional",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Delega ao técnico o reposicionamento, a higiene e a proteção dos calcanhares com o plano escrito, e mantém com o enfermeiro a avaliação, a classificação e a escolha da cobertura (Res. COFEN 736/2024)",
+    "peso": 0.3
+   },
+   {
+    "eixo": "A",
+    "item": "Registra classificação, medidas e evolução conforme o protocolo e notifica as lesões ao núcleo de segurança do paciente como incidente relacionado à assistência (RDC ANVISA 36/2013)",
+    "peso": 0.3
+   }
+  ]
+ },
+ {
+  "id": "caso-prenatal-hipertensao",
+  "titulo": "Pressão alta na consulta de pré-natal de 30 semanas",
+  "area": "mulher",
+  "cenario": "aps",
+  "tempo": 20,
+  "abertura": "Unidade básica de saúde, consulta de pré-natal de enfermagem. Sra. L., 24 anos, primigesta, 30 semanas pela ultrassonografia de 11 semanas, pré-natal de risco habitual até aqui, seis consultas. Na triagem, o técnico registrou PA de 150/100 mmHg. Ela diz que está bem, só com 'os pés inchados'. Ganhou 2,5 kg em 2 semanas. Conduza a consulta.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Diga como confirma a medida da pressão e o que pergunta e examina nesta consulta.",
+    "entrega": "Nova aferição, sentada, após repouso, com manguito adequado ao braço: 148/98 mmHg. Nega cefaleia, alteração visual e dor epigástrica. Movimentos fetais presentes, batimentos cardíacos fetais de 142 bpm, altura uterina de 29 cm. Edema de pernas e mãos. Fita urinária com proteína 2+. Na caderneta, não há registro de dTpa nem da vacina contra o vírus sincicial respiratório."
+   },
+   {
+    "n": 2,
+    "tarefa": "Diga o que esses dados significam, formule os diagnósticos de enfermagem e decida o que acontece com o pré-natal dela hoje.",
+    "entrega": "Enquanto você discute o caso com o médico da equipe, a gestante refere cefaleia que começou agora e 'pontos brilhantes' na visão. PA de 164/112 mmHg."
+   },
+   {
+    "n": 3,
+    "tarefa": "Diga o que faz agora, quem aciona e como ela é transferida.",
+    "entrega": "Ela foi transferida para a maternidade de referência e internada. Dez dias depois, volta à unidade após o parto, com a filha, para a consulta puerperal."
+   },
+   {
+    "n": 4,
+    "tarefa": "Diga os pontos da consulta puerperal e do seguimento dessa mulher na atenção primária.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "H",
+    "item": "Repete a aferição com técnica correta (repouso, posição sentada, manguito adequado, braço na altura do coração) antes de concluir",
+    "peso": 0.4
+   },
+   {
+    "eixo": "C",
+    "item": "Reconhece hipertensão depois da 20ª semana com proteinúria como suspeita de pré-eclâmpsia, que tira a gestante do risco habitual (MS, Manual de Gestação de Alto Risco, 2022)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "C",
+    "item": "Pergunta e examina sinais de gravidade: cefaleia, alteração visual, dor epigástrica ou no hipocôndrio direito, náuseas e vômitos, redução dos movimentos fetais e sangramento",
+    "peso": 0.4
+   },
+   {
+    "eixo": "C",
+    "item": "Formula Risco de binômio mãe-feto perturbado e Ansiedade (NANDA-I, 2024-2026), explicando o raciocínio",
+    "peso": 0.3
+   },
+   {
+    "eixo": "A",
+    "item": "Discute no mesmo dia com o médico da equipe e encaminha para avaliação na maternidade ou no pré-natal de alto risco conforme a regulação local, sem marcar retorno de rotina, e mantém o acompanhamento compartilhado pela unidade (Rede Alyne, Port. GM/MS 5.350/2024)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Ainda antes da piora, confere a caderneta e aplica ou garante a dTpa (a partir da 20ª semana, uma dose por gestação) e a vacina contra o VSR (a partir da 28ª semana, dose única por gestação) (MS, Instrução Normativa do Calendário Nacional de Vacinação, 2026)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "C",
+    "item": "Reconhece PA de 160/110 mmHg ou mais com cefaleia e escotomas como pré-eclâmpsia com sinais de gravidade e risco de eclâmpsia (MS, Manual de Gestação de Alto Risco, 2022)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "H",
+    "item": "Na urgência: decúbito lateral esquerdo, ambiente calmo, acesso venoso, PA e batimentos fetais seriados, médico ao lado e transporte de urgência acionado, com a maternidade avisada",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Sabe que sulfato de magnésio e anti-hipertensivo são prescrição médica; a enfermagem prepara e administra conforme a prescrição e vigia reflexos, frequência respiratória e diurese",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "No puerpério: mede a PA, orienta sinais de alarme, faz planejamento reprodutivo, apoia o aleitamento e registra a pré-eclâmpsia como risco cardiovascular futuro",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Registra no prontuário e na caderneta a PA, a proteinúria, a conduta e o destino, e explica à gestante e ao acompanhante o que está acontecendo",
+    "peso": 0.5
+   }
+  ]
+ },
+ {
+  "id": "caso-lactente-diarreia",
+  "titulo": "Lactente com diarreia e desidratação na unidade básica",
+  "area": "crianca",
+  "cenario": "aps",
+  "tempo": 20,
+  "abertura": "Unidade básica de saúde, demanda espontânea. Lactente de 9 meses, 8,2 kg no último registro da caderneta, há 3 semanas, trazido pela mãe por diarreia líquida há 2 dias, de 6 a 8 evacuações por dia, sem sangue, e dois vômitos hoje. Mama no peito e come papa. A mãe diz que ele está 'mais choroso' e que molhou pouca fralda desde a manhã. Você faz o acolhimento e a consulta de enfermagem.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Diga como avalia o estado de hidratação e o que mais pergunta e examina.",
+    "entrega": "Peso hoje 7,8 kg. Irritado, olhos fundos, chora sem lágrimas, bebe água com avidez, a prega cutânea desaparece lentamente, pulso rápido e fino. Temperatura 37,8 °C. Sem sangue nas fezes, sem sinais de desnutrição grave. Na caderneta, a vacina rotavírus não foi aplicada; as demais estão em dia."
+   },
+   {
+    "n": 2,
+    "tarefa": "Classifique, formule os diagnósticos de enfermagem e diga o plano de hidratação, com volume e tempo.",
+    "entrega": "Plano iniciado com soro de reidratação oral em copo e colher. Duas horas depois, vomitou duas vezes, segue irritado, com olhos fundos e sem diurese."
+   },
+   {
+    "n": 3,
+    "tarefa": "Reavalie e diga o que faz agora e quem aciona.",
+    "entrega": "Com a reidratação por sonda nasogástrica, no fim do período a criança está alerta, com lágrimas, a prega desaparece rápido e ela urinou. Peso 8,1 kg. A mãe pergunta o que fazer em casa e se ele ainda pode tomar a vacina."
+   },
+   {
+    "n": 4,
+    "tarefa": "Faça as orientações de alta e o plano de seguimento, incluindo a vacina.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "C",
+    "item": "Avalia a hidratação pelos sinais do quadro do Ministério da Saúde (estado geral, olhos, lágrimas, sede, prega, pulso) e pesa a criança, comparando com o peso anterior (MS, cartaz Manejo do paciente com diarreia, versão de 2013)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "C",
+    "item": "Classifica como com desidratação (dois ou mais sinais, nenhum de gravidade) e indica o Plano B, feito na unidade (MS, cartaz Manejo do paciente com diarreia, versão de 2013)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Investiga sinais de perigo e de outras causas: sangue nas fezes, diarreia por mais de 14 dias, desnutrição grave e febre (MS, cartaz Manejo do paciente com diarreia, versão de 2013)",
+    "peso": 0.3
+   },
+   {
+    "eixo": "C",
+    "item": "Formula Volume de líquidos inadequado, Diarreia e Risco de desequilíbrio eletrolítico (NANDA-I, 2024-2026)",
+    "peso": 0.3
+   },
+   {
+    "eixo": "H",
+    "item": "Calcula o soro de reidratação oral do Plano B: 50 a 100 mL/kg em 4 a 6 horas, de 390 a 780 mL para 7,8 kg, em pequenos volumes com copo ou colher, sem suspender o peito (MS, cartaz Manejo do paciente com diarreia, versão de 2013)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "H",
+    "item": "Reavalia durante o plano; se continua desidratado, indica a reidratação por sonda nasogástrica (gastróclise), e se surgir sinal de desidratação grave aciona o médico para o Plano C venoso (MS, cartaz Manejo do paciente com diarreia, versão de 2013)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Reconhece o limite: hidratação venosa e antibiótico são prescrição médica; o zinco é prescrito pelo médico ou pelo enfermeiro dentro de protocolo do programa de saúde (Lei 7.498/1986, art. 11; Res. COFEN 801/2026)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Orienta o Plano A em casa: de 50 a 100 mL de líquido ou soro após cada evacuação para menores de 1 ano, aleitamento e alimentação mantidos e zinco 20 mg uma vez ao dia por 10 a 14 dias para maiores de 6 meses (MS, cartaz Manejo do paciente com diarreia, versão de 2013)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Ensina os sinais de perigo para voltar na hora (piora da diarreia, vômitos repetidos, muita sede, recusa alimentar, sangue nas fezes, pouca urina) e marca reavaliação",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Adia a vacina rotavírus até a resolução do quadro e agenda a 1ª dose até 11 meses e 29 dias de idade, com a 2ª dose 60 dias depois e até 23 meses e 29 dias (MS, Instrução Normativa do Calendário Nacional de Vacinação, 2026)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Registra peso, classificação, plano, volumes, reavaliações e orientações no prontuário e na caderneta",
+    "peso": 0.4
+   }
+  ]
+ },
+ {
+  "id": "caso-rpa-pos-operatorio",
+  "titulo": "Pós-operatório imediato na recuperação pós-anestésica",
+  "area": "cirurgica",
+  "cenario": "cc",
+  "tempo": 15,
+  "abertura": "Sala de recuperação pós-anestésica. Sr. R., 58 anos, 92 kg, colecistectomia videolaparoscópica sob anestesia geral, com 1 hora e 40 minutos de cirurgia. Hipertenso, com apneia obstrutiva do sono. Chega da sala com máscara de oxigênio, sonolento, despertando ao chamado. O anestesista passa o caso e volta para a sala 3. Você recebe o paciente.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Diga como recebe o paciente: o que confere na passagem do caso, o que monitoriza e como faz a primeira avaliação.",
+    "entrega": "SpO2 90% com máscara a 5 L/min, FR 10 irpm, roncos na inspiração, desperta ao chamado e volta a dormir. PA 168/96 mmHg, FC 96 bpm. Temperatura 35,4 °C, com tremores. Ao despertar, refere dor 8 em 10 no ombro direito e no abdome. Curativos secos. Recebeu opioide no intraoperatório."
+   },
+   {
+    "n": 2,
+    "tarefa": "Priorize os problemas, diga o que faz em sequência e o que comunica ao anestesista.",
+    "entrega": "Com elevação da mandíbula, cabeceira elevada e estímulo, os roncos param e a SpO2 sobe para 96%. O anestesista avalia e prescreve analgésico e antiemético. Depois do aquecimento ativo, a temperatura é de 36,2 °C. Uma hora depois, o paciente está acordado, orientado, move os quatro membros, PA 138/84 mmHg, SpO2 95% com cateter nasal, sem náusea, dor 3 em 10."
+   },
+   {
+    "n": 3,
+    "tarefa": "Diga como avalia a condição de alta da recuperação, quem decide e o que precisa constar na passagem para a enfermaria.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "A",
+    "item": "Recebe a passagem estruturada do anestesista e do circulante: cirurgia, anestesia, fármacos e opioides, intercorrências, perdas, comorbidades como a apneia do sono, alergias e prescrição",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Instala oximetria, cardioscopia, pressão arterial e temperatura e avalia via aérea, respiração, circulação, consciência, dor e curativos na chegada",
+    "peso": 0.4
+   },
+   {
+    "eixo": "C",
+    "item": "Prioriza a via aérea: reconhece hipoventilação e obstrução por efeito residual de anestésico e opioide em paciente com apneia do sono e formula Padrão respiratório ineficaz (NANDA-I, 2024-2026)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "H",
+    "item": "Desobstrui com elevação da mandíbula, eleva a cabeceira, estimula, mantém oxigênio e chama o anestesista, deixando à mão material de via aérea e o antagonista para uso conforme prescrição",
+    "peso": 0.6
+   },
+   {
+    "eixo": "C",
+    "item": "Identifica Hipotermia e Dor aguda (NANDA-I, 2024-2026), ligando os tremores ao aumento do consumo de oxigênio e a dor no ombro ao gás do pneumoperitônio",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Aquece ativamente com manta de ar forçado aquecido e reavalia a temperatura até a normalização",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Mede a dor com escala numérica, administra a analgesia prescrita e reavalia a dor e o nível de sedação depois do opioide",
+    "peso": 0.4
+   },
+   {
+    "eixo": "C",
+    "item": "Aplica de forma seriada o índice de Aldrete e Kroulik modificado (atividade, respiração, circulação, consciência e saturação, de 0 a 2 cada) e registra os escores (Parecer CRM-PR 2.806/2020)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Sabe que a alta da recuperação é decisão do médico anestesista; o enfermeiro aplica a escala e comunica o resultado (Res. CFM 2.174/2017)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Passa o paciente à enfermaria com a cirurgia, as intercorrências na recuperação, a analgesia e seus horários, o risco de depressão respiratória por apneia do sono e opioide e o que vigiar",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Registra na ficha da recuperação horários, sinais vitais, escores, intervenções e respostas",
+    "peso": 0.4
+   }
+  ]
+ },
+ {
+  "id": "caso-caps-suicidio",
+  "titulo": "Crise com ideação suicida no acolhimento do CAPS",
+  "area": "mental",
+  "cenario": "aps",
+  "tempo": 20,
+  "abertura": "CAPS II, acolhimento de porta aberta. Sr. P., 34 anos, chega sozinho, encaminhado pela unidade básica depois de uma consulta por 'nervoso'. Diz que perdeu o emprego há 2 meses, que a esposa saiu de casa com os filhos na semana passada e que 'não vê mais sentido'. Bebe todos os dias desde então. Está choroso, colaborativo, sem sinais de intoxicação agora. Você faz o acolhimento.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Diga como conduz a conversa: o que pergunta sobre o risco de suicídio, como pergunta e o que observa.",
+    "entrega": "Ele conta que pensa em morrer todos os dias e que anteontem à noite amarrou uma corda no quintal e tentou se enforcar; a corda soltou. Há uma escoriação no pescoço, e ele não procurou atendimento. Tem plano de 'terminar no fim de semana'. Há 5 anos tomou comprimidos e foi atendido no pronto-socorro. Agora mora sozinho. O irmão é a pessoa em quem confia. Aceita ficar no serviço e diz que não quer ser internado 'à força'."
+   },
+   {
+    "n": 2,
+    "tarefa": "Avalie o risco, formule os diagnósticos de enfermagem e decida, com a equipe, o projeto imediato de cuidado.",
+    "entrega": "A equipe decide pelo acolhimento no leito do CAPS III de referência, com retorno ao CAPS II no seguimento. Antes da transferência, ele pede para ir sozinho ao banheiro e fica agitado quando um vigilante comenta que 'isso é falta de Deus'."
+   },
+   {
+    "n": 3,
+    "tarefa": "Diga o que faz em relação à segurança no serviço, à comunicação, ao irmão, ao registro e à notificação.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "H",
+    "item": "Acolhe em local reservado, com escuta sem julgamento, e pergunta de forma direta sobre ideação, plano, meios, tentativas e fatores de proteção, sabendo que perguntar não induz o comportamento",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Classifica o risco como alto: tentativa recente por método de alta letalidade, plano com data, acesso ao meio, tentativa anterior, perdas recentes, uso de álcool e isolamento",
+    "peso": 0.6
+   },
+   {
+    "eixo": "C",
+    "item": "Formula Risco de comportamento suicida e Desesperança (NANDA-I, 2024-2026), com o uso de álcool como fator associado",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Pede avaliação médica da escoriação cervical e dos sinais de lesão por enforcamento no mesmo atendimento",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Não deixa o usuário sozinho, nem no banheiro, retira objetos com potencial de lesão e organiza observação contínua até a transferência, usando desescalada verbal na agitação",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Constrói com ele um plano de segurança: sinais de alerta, estratégias próprias, pessoas e serviços a acionar (CAPS, SAMU, CVV) e retirada da corda e de outros meios, com a ajuda do irmão",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Prioriza o cuidado em liberdade, com acolhimento em leito de CAPS III dentro da Rede de Atenção Psicossocial, e sabe que internação involuntária é decisão médica comunicada ao Ministério Público (Lei 10.216/2001; Port. GM/MS 3.088/2011)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Notifica a tentativa de suicídio na ficha de violência interpessoal e autoprovocada, com notificação imediata, em até 24 horas, à secretaria municipal de saúde (Port. GM/MS 11.211/2026; Lei 13.819/2019)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Intervém junto ao vigilante sem expor o usuário, corrige a abordagem estigmatizante e preserva o sigilo das informações (Res. COFEN 564/2017)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Contata o irmão com o consentimento do usuário e o inclui no plano e no acompanhamento",
+    "peso": 0.3
+   },
+   {
+    "eixo": "C",
+    "item": "Reavalia o risco a cada contato e em cada transição de cuidado e registra a avaliação no prontuário e no projeto terapêutico singular",
+    "peso": 0.4
+   }
+  ]
+ },
+ {
+  "id": "caso-erro-potassio",
+  "titulo": "Erro de medicação com cloreto de potássio na enfermaria",
+  "area": "seguranca",
+  "cenario": "enf",
+  "tempo": 25,
+  "abertura": "Enfermaria de clínica médica, plantão da tarde. Sra. C., 71 anos, doença renal crônica não dialítica, internada por diarreia com hipopotassemia (potássio de 2,9 mEq/L pela manhã). Prescrição médica: cloreto de potássio 19,1% 10 mL em soro fisiológico 0,9% 500 mL, em 8 horas, em bomba de infusão. Às 15h, o técnico avisa que a bolsa instalada às 14h acabou e que a paciente se queixa de fraqueza e de 'coração batendo estranho'. Na bancada, há duas ampolas vazias de KCl 19,1%. O rótulo da bolsa não diz o que foi adicionado. A bomba estava em uso em outro leito, e o soro correu por gravidade. Você é o enfermeiro responsável pelo setor.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Diga o que faz com a paciente agora, em ordem, e quem chama.",
+    "entrega": "FC 52 bpm irregular, PA 104/60 mmHg, consciente. O eletrocardiograma à beira do leito mostra ondas T apiculadas e QRS alargado. O médico prescreve gluconato de cálcio, insulina regular com glicose e nova dosagem de potássio, que vem em 6,8 mEq/L. A paciente é transferida estável para a UTI."
+   },
+   {
+    "n": 2,
+    "tarefa": "O técnico, chorando, conta que usou duas ampolas porque 'a outra bolsa tinha sido assim' e pede que você não conte a ninguém. Diga como conduz a conversa com ele, com a paciente e a família e com a chefia.",
+    "entrega": "A filha da paciente chega e pergunta por que a mãe foi para a UTI."
+   },
+   {
+    "n": 3,
+    "tarefa": "Diga como notifica e o que deve constar no registro do prontuário.",
+    "entrega": "O núcleo de segurança do paciente abre a análise do incidente e convida você para o grupo."
+   },
+   {
+    "n": 4,
+    "tarefa": "Descreva como analisar o incidente e que barreiras propor para que ele não se repita.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "H",
+    "item": "Interrompe a infusão na hora, mantém o acesso venoso, chama o médico, instala monitorização cardíaca e faz sinais vitais e eletrocardiograma",
+    "peso": 0.6
+   },
+   {
+    "eixo": "C",
+    "item": "Reconhece hiperpotassemia por erro de dose e de velocidade (20 mL em 1 hora, por gravidade, em vez de 10 mL em 8 horas, em bomba) em paciente com doença renal crônica e liga a bradicardia e o eletrocardiograma ao erro",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Formula Risco de débito cardíaco diminuído e Risco de desequilíbrio eletrolítico (NANDA-I, 2024-2026) e trata a hiperpotassemia como problema colaborativo",
+    "peso": 0.3
+   },
+   {
+    "eixo": "H",
+    "item": "Administra os medicamentos de urgência prescritos com dupla checagem e guarda a bolsa, o equipo e as ampolas para a análise",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Não aceita esconder o erro: acolhe o técnico sem culpar, explica que relatar protege o paciente e o profissional e comunica a chefia (Res. COFEN 564/2017)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Participa, com o médico, da comunicação aberta do incidente à paciente e à filha: o que aconteceu, o que foi feito e o que será feito, sem apontar culpados",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Notifica o incidente ao núcleo de segurança do paciente do hospital, que o notifica ao Sistema Nacional de Vigilância Sanitária pelo Notivisa (RDC ANVISA 36/2013)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Registra no prontuário, de forma objetiva, fatos, horários, sinais, condutas e comunicações, sem juízo de culpa e sem alterar registros anteriores",
+    "peso": 0.4
+   },
+   {
+    "eixo": "C",
+    "item": "Conduz a análise de causa raiz com abordagem sistêmica e não punitiva, buscando os fatores do processo (bomba indisponível, rótulo incompleto, preparo de memória, falta de dupla checagem), e não só o erro individual",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Propõe barreiras: tirar o KCl concentrado do estoque da unidade ou usar solução pronta, dupla checagem independente dos medicamentos de alta vigilância, bomba de infusão obrigatória, rótulo completo e capacitação da equipe (MS, Protocolo de segurança na prescrição, uso e administração de medicamentos, 2013)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Reconhece a responsabilidade do enfermeiro pela supervisão do técnico na administração de medicamentos e o direito do técnico a apoio e capacitação (Lei 7.498/1986)",
+    "peso": 0.4
+   }
+  ]
+ }
+]

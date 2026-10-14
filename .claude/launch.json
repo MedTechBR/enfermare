@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "enfermare",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "servir.py",
+        "8741"
+      ],
+      "port": 8741
+    },
+    {
+      "name": "enfermare-teste",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": [
+        "-c",
+        "cd /private/tmp/claude-501/-Users-matheusparente/ec2755d2-48ad-44c0-8d8b-1814d4570645/scratchpad/teste-ef && python3 servir.py 8742"
+      ],
+      "port": 8742
+    }
+  ]
+}

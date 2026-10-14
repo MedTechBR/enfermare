@@ -1,0 +1,450 @@
+[
+ {
+  "q": "Paciente de 58 anos, internado na clínica médica com diabetes tipo 2 em uso de insulina NPH e regular, refere tremor e sudorese às 10 h. Está consciente, orientado e consegue deglutir; a glicemia capilar é de 58 mg/dL. Pelas diretrizes vigentes de manejo da hipoglicemia, qual é a conduta inicial do enfermeiro?",
+  "alts": [
+   "Oferecer 30 g de carboidrato com gordura, como leite integral, e repetir a glicemia capilar depois de 60 minutos",
+   "Oferecer 15 g de carboidrato de absorção rápida, como suco ou açúcar, e repetir a glicemia capilar após 15 minutos",
+   "Aplicar glucagon por via intramuscular, por se tratar de hipoglicemia, e repetir a glicemia capilar após 15 minutos",
+   "Infundir glicose hipertônica a 50% em veia periférica e repetir a glicemia capilar após 30 minutos da infusão",
+   "Suspender a próxima dose de insulina regular prescrita e repetir a glicemia capilar antes do almoço do paciente"
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "ADA Standards of Care in Diabetes 2025, seção 6 (Glycemic Goals and Hypoglycemia); Diretriz da Sociedade Brasileira de Diabetes 2024",
+  "coment": "Glicemia abaixo de 70 mg/dL em paciente consciente e capaz de deglutir se trata por via oral: 15 a 20 g de glicose ou de outro carboidrato de absorção rápida (suco, refrigerante comum, açúcar), com nova glicemia capilar 15 minutos depois. Se ela continuar abaixo de 70 mg/dL, repete-se a oferta; quando normalizar, oferece-se lanche ou refeição para evitar recorrência. Gordura e proteína retardam a absorção e não servem para a correção inicial. O glucagon fica para quem não pode ou não consegue ingerir, e a glicose hipertônica venosa é reservada ao paciente com rebaixamento de consciência, sob prescrição. Omitir dose sem corrigir a glicemia deixa o paciente em hipoglicemia e não substitui a reavaliação da prescrição pelo médico.",
+  "porAlt": [
+   "A gordura retarda a absorção do carboidrato e esperar 60 minutos atrasa a confirmação da correção.",
+   "Correta: paciente consciente recebe 15 g de carboidrato de absorção rápida, com nova glicemia em 15 minutos.",
+   "O glucagon é reservado a quem não pode ou não consegue ingerir carboidrato por via oral.",
+   "A glicose hipertônica venosa é para o paciente com rebaixamento de consciência, e não é a primeira escolha aqui.",
+   "Suspender a dose seguinte não trata a hipoglicemia atual nem permite reavaliar a glicemia a tempo."
+  ]
+ },
+ {
+  "q": "Homem de 49 anos em diálise peritoneal ambulatorial contínua chega ao serviço com dor abdominal difusa e efluente turvo na bolsa drenada pela manhã, sem febre. Pela diretriz de peritonite da International Society for Peritoneal Dialysis (ISPD), qual conduta da equipe está de acordo com o diagnóstico e o tratamento recomendados?",
+  "alts": [
+   "Aguardar o resultado da cultura do efluente para iniciar o antibiótico, porque o esquema empírico seleciona germes resistentes",
+   "Afastar peritonite, porque o diagnóstico exige febre associada a mais de 500 leucócitos/µL no efluente da cavidade peritoneal",
+   "Colher o efluente depois de 6 horas com a cavidade seca, sem dialisato, para que a contagem de leucócitos fique mais confiável",
+   "Colher efluente para citologia diferencial, Gram e cultura em frascos de hemocultura e iniciar o antibiótico prescrito em seguida",
+   "Colher hemoculturas e iniciar o antibiótico por via venosa, que é a via preferencial para tratar a peritonite ligada à diálise"
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "ISPD Peritonitis Guideline Recommendations: 2022 Update on Prevention and Treatment (Li PKT et al., Peritoneal Dialysis International, 2022)",
+  "coment": "A ISPD 2022 define peritonite pela presença de pelo menos 2 de 3 critérios: quadro clínico compatível (dor abdominal e/ou efluente turvo); leucócitos no efluente acima de 100/µL, após permanência de pelo menos 2 horas, com mais de 50% de polimorfonucleares; e cultura do efluente positiva. Este paciente já preenche o critério clínico, e a citologia confirma. A amostra deve ir para contagem com diferencial, Gram e cultura, de preferência inoculada em frascos de hemocultura, e o antibiótico empírico com cobertura para gram-positivos e gram-negativos deve começar logo após a coleta, sem esperar a cultura. A via intraperitoneal é a preferida, salvo sinais de sepse sistêmica. Febre não é exigida, e o corte de 500/µL não existe.",
+  "porAlt": [
+   "A ISPD manda iniciar o antibiótico empírico logo após a coleta, sem esperar a cultura.",
+   "Febre não é critério obrigatório e o corte de leucócitos do efluente é acima de 100/µL, não 500/µL.",
+   "A contagem exige permanência de pelo menos 2 horas com dialisato, não 6 horas com a cavidade seca.",
+   "Correta: coleta para citologia, Gram e cultura e antibiótico empírico logo em seguida, como manda a ISPD 2022.",
+   "A via intraperitoneal é a preferida; a venosa fica para o paciente com sinais de sepse sistêmica."
+  ]
+ },
+ {
+  "q": "Em sala operatória, antes da incisão de uma colecistectomia videolaparoscópica, a enfermeira que conduz a Lista de Verificação de Cirurgia Segura pede uma pausa a toda a equipe. Pelo Protocolo para Cirurgia Segura do Programa Nacional de Segurança do Paciente, qual verificação pertence a essa etapa?",
+  "alts": [
+   "Confirmação verbal, por toda a equipe, do paciente, do sítio e do procedimento, e da profilaxia antimicrobiana nos últimos 60 minutos",
+   "Contagem de compressas, agulhas e instrumentais e confirmação verbal do nome do procedimento que a equipe efetivamente realizou",
+   "Verificação do funcionamento do oxímetro de pulso e da avaliação do risco de via aérea difícil e de aspiração feita pelo anestesista",
+   "Identificação e rotulagem da peça cirúrgica com o nome do paciente e registro dos problemas com os equipamentos ocorridos na sala",
+   "Confirmação, com o próprio paciente, da identidade, do consentimento e da demarcação do sítio cirúrgico antes da indução anestésica"
+  ],
+  "gab": 0,
+  "tema": "cirurgica",
+  "sub": "Cirurgia segura",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Protocolo para Cirurgia Segura do PNSP (Portaria GM/MS 1.377/2013), baseado na Lista de Verificação de Segurança Cirúrgica da OMS (2009)",
+  "coment": "A lista de verificação tem três momentos. Antes da indução anestésica (sign in): confirmação com o paciente da identidade, do sítio, do procedimento e do consentimento, demarcação do sítio, verificação de segurança anestésica, oxímetro funcionando, alergias, via aérea difícil ou risco de aspiração e risco de perda sanguínea. Antes da incisão (time out): pausa em que todos se apresentam e confirmam verbalmente paciente, sítio e procedimento, revisam eventos críticos previstos, confirmam a profilaxia antimicrobiana nos últimos 60 minutos e a disponibilidade das imagens essenciais. Antes de o paciente sair da sala (sign out): nome do procedimento realizado, contagem de instrumentais, compressas e agulhas, identificação da peça e problemas com equipamentos.",
+  "porAlt": [
+   "Correta: a pausa antes da incisão confirma paciente, sítio, procedimento e profilaxia antimicrobiana em até 60 minutos.",
+   "A contagem de compressas e a confirmação do procedimento realizado pertencem à etapa antes de o paciente sair da sala.",
+   "Oxímetro e via aérea difícil são conferidos antes da indução anestésica, na primeira etapa da lista.",
+   "Rotulagem da peça e problemas com equipamentos são itens da etapa final, antes da saída da sala.",
+   "A confirmação com o paciente e a demarcação ocorrem antes da indução anestésica, não na pausa pré-incisão."
+  ]
+ },
+ {
+  "q": "Mulher de 67 anos chega à sala de recuperação pós-anestésica após laparotomia de 3 horas sob anestesia geral, com temperatura timpânica de 35,4 °C, tremores e queixa de frio. Pela diretriz de hipotermia perioperatória inadvertida do NICE, qual é a conduta de enfermagem correta?",
+  "alts": [
+   "Cobrir com cobertores de algodão, medir a temperatura a cada hora e liberar para a enfermaria quando cessarem os tremores",
+   "Aquecer com manta de ar forçado, medir a temperatura a cada 30 minutos e liberar para a enfermaria a partir de 35,5 °C",
+   "Aquecer com manta de ar forçado, medir a temperatura a cada 15 minutos e liberar para a enfermaria só com 36 °C ou mais",
+   "Infundir soro aquecido a 42 °C em bolus, medir a temperatura a cada 15 minutos e liberar para a enfermaria com 36 °C",
+   "Aplicar bolsas de água quente nas axilas e virilhas, medir a cada 15 minutos e liberar para a enfermaria a partir de 35 °C"
+  ],
+  "gab": 2,
+  "tema": "cirurgica",
+  "sub": "Recuperação pós-anestésica",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "NICE Clinical Guideline CG65, Hypothermia: prevention and management in adults having surgery (2008, atualizada em 2016)",
+  "coment": "Hipotermia perioperatória inadvertida é a temperatura central abaixo de 36 °C. Pela CG65, na recuperação a temperatura é medida e registrada na admissão e depois a cada 15 minutos; o paciente abaixo de 36 °C recebe aquecimento ativo com ar forçado até a alta da sala ou até estar confortavelmente aquecido, e a transferência para a enfermaria só é feita com 36 °C ou mais. Cobertores de algodão isolados não reaquecem de forma eficaz, e bolsas de água quente expõem a pele a queimaduras. Líquidos venosos e hemocomponentes, quando aquecidos, vão a 37 °C em aquecedor próprio, nunca acima disso. Tremor que cessa não prova normotermia: a régua é a temperatura medida.",
+  "porAlt": [
+   "Cobertor de algodão não é aquecimento ativo, a medida é a cada 15 minutos e a alta depende da temperatura, não do tremor.",
+   "O intervalo de medida na recuperação é de 15 minutos e o corte para transferência é de 36 °C, não 35,5 °C.",
+   "Correta: ar forçado, temperatura a cada 15 minutos e transferência só com 36 °C ou mais, como na CG65.",
+   "Líquidos venosos são aquecidos a 37 °C em aquecedor próprio; 42 °C em bolus não é conduta da diretriz.",
+   "Bolsas de água quente causam queimaduras e 35 °C mantém a paciente em hipotermia na transferência."
+  ]
+ },
+ {
+  "q": "Na ronda da UTI, o enfermeiro encontra um paciente de 70 anos em ventilação mecânica há 4 dias com a cabeceira a 15°, pressão do balonete do tubo medida em 40 cmH2O e o circuito do ventilador trocado há 48 horas por rotina do setor. Pelas medidas de prevenção de pneumonia associada à ventilação mecânica da ANVISA, qual é o ajuste correto?",
+  "alts": [
+   "Elevar a cabeceira para 30° a 45°, manter o balonete em 40 cmH2O para vedar a via aérea e trocar o circuito a cada 48 horas",
+   "Manter a cabeceira a 15° para proteger a região sacral, ajustar o balonete para 25 a 30 cmH2O e trocar o circuito a cada 7 dias",
+   "Elevar a cabeceira para 60° ou mais, desinsuflar o balonete a cada 4 horas e trocar o circuito do ventilador a cada 72 horas",
+   "Elevar a cabeceira para 30° a 45°, ajustar o balonete para 10 a 15 cmH2O e trocar o circuito do ventilador a cada 7 dias",
+   "Elevar a cabeceira para 30° a 45°, ajustar o balonete para 25 a 30 cmH2O e trocar o circuito só se houver sujidade ou falha"
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "Prevenção de pneumonia e infecção de cateter",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Série Segurança do Paciente e Qualidade em Serviços de Saúde, caderno 4), 2017",
+  "coment": "O pacote de prevenção de PAV da ANVISA inclui manter a cabeceira elevada entre 30° e 45°, que reduz a aspiração de conteúdo gástrico e de secreção orofaríngea; manter a pressão do balonete entre 25 e 30 cmH2O, faixa que veda a via aérea sem comprometer a perfusão da mucosa traqueal; e não trocar o circuito do ventilador por rotina de tempo, apenas quando houver sujidade visível ou mau funcionamento, porque a manipulação do circuito aumenta o risco de contaminação. Pressão de 40 cmH2O causa isquemia e lesão traqueal; abaixo de 20 cmH2O favorece a microaspiração. Completam o pacote a avaliação diária da sedação e do desmame, a higiene oral e a aspiração subglótica quando o tubo permite.",
+  "porAlt": [
+   "40 cmH2O lesa a mucosa traqueal e a troca do circuito por tempo fixo não é recomendada.",
+   "Cabeceira a 15° favorece a aspiração e o circuito não deve ser trocado por prazo fixo.",
+   "A faixa é de 30° a 45°, o balonete não é desinsuflado por rotina e a troca por prazo não é indicada.",
+   "10 a 15 cmH2O favorece a microaspiração de secreção e o circuito não se troca por prazo fixo.",
+   "Correta: cabeceira a 30° a 45°, balonete entre 25 e 30 cmH2O e troca do circuito só por sujidade ou falha."
+  ]
+ },
+ {
+  "q": "Homem de 64 anos com pneumonia é admitido na UTI com PAM de 58 mmHg, lactato de 4,8 mmol/L e tempo de enchimento capilar de 5 segundos, depois de receber 30 mL/kg de cristaloide nas primeiras 3 horas. A passagem do cateter venoso central vai demorar. Pela Surviving Sepsis Campaign 2026, qual é a conduta adequada?",
+  "alts": [
+   "Adiar o vasopressor até obter o acesso central e manter cristaloide em bolus até a pressão venosa central atingir a meta de 8 a 12 mmHg",
+   "Iniciar noradrenalina em veia periférica calibrosa e proximal, com vigilância do sítio, mirando PAM de 65 mmHg até obter o acesso central",
+   "Iniciar dopamina em veia periférica como primeira escolha, pelo menor risco de extravasamento, mirando PAM de 75 mmHg até o acesso central",
+   "Iniciar vasopressina isolada em veia periférica como primeira escolha, mirando PAM de 65 mmHg e reservando a noradrenalina ao acesso central"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "tit",
+  "base": "Surviving Sepsis Campaign 2026 (Prescott et al., Intensive Care Med e Crit Care Med, 2026)",
+  "coment": "O paciente está em choque séptico: hipotensão e hiperlactatemia apesar da expansão inicial. A SSC 2026 recomenda noradrenalina como vasopressor de primeira linha e meta inicial de PAM de 65 mmHg. Sugere ainda iniciar o vasopressor por veia periférica, em vez de atrasá-lo até a passagem do acesso central, desde que seja por curto período, em veia calibrosa proximal à fossa antecubital, com vigilância frequente do sítio para extravasamento. A vasopressina é associada quando a PAM segue inadequada com noradrenalina, não usada isolada como primeira escolha. A dopamina perdeu espaço por mais arritmias. A ressuscitação guiada por PVC fixa, herança da terapia precoce guiada por metas, não é mais recomendada: lactato e enchimento capilar orientam a reavaliação.",
+  "porAlt": [
+   "A SSC 2026 sugere não atrasar o vasopressor à espera do acesso central, e a meta de PVC de 8 a 12 mmHg foi abandonada.",
+   "Correta: noradrenalina por veia periférica proximal, por curto período e com vigilância do sítio, mirando PAM de 65 mmHg.",
+   "A primeira escolha é a noradrenalina; a dopamina causa mais arritmias e a meta inicial de PAM é 65 mmHg.",
+   "A vasopressina é associada à noradrenalina quando a PAM segue baixa, e não substitui a primeira linha."
+  ]
+ },
+ {
+  "q": "Em um restaurante, um homem de 45 anos leva as mãos ao pescoço, não consegue falar nem tossir e começa a ficar cianótico. Uma enfermeira que almoçava no local pede que alguém ligue para o SAMU 192. Pelas Diretrizes AHA 2025, qual manobra ela deve fazer enquanto a vítima continua responsiva?",
+  "alts": [
+   "Compressões abdominais repetidas, sem golpes nas costas, até o objeto sair ou a vítima perder a resposta, como na diretriz de 2020",
+   "Estimular a tosse e aguardar a equipe do SAMU, pois manobras em vítima responsiva elevam o risco de lesão de órgãos abdominais",
+   "Ciclos de 5 golpes nas costas seguidos de 5 compressões abdominais, repetidos até o objeto sair ou a vítima perder a resposta",
+   "Ciclos de 5 golpes nas costas seguidos de 5 compressões torácicas, técnica que a AHA 2025 passou a indicar para todo adulto",
+   "Varredura digital da boca às cegas, seguida de 5 compressões abdominais, repetidas até o objeto sair ou a vítima desmaiar"
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Atendimento pré-hospitalar",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Diretrizes AHA 2025 de RCP e ACE (Highlights 2025, Suporte Básico de Vida no adulto: obstrução de via aérea por corpo estranho)",
+  "coment": "Não falar, não tossir e cianose são sinais de obstrução grave. Nas Diretrizes AHA 2025, o adulto com obstrução grave recebe ciclos repetidos de 5 golpes nas costas seguidos de 5 compressões abdominais, até o objeto ser expelido ou a vítima ficar irresponsiva; então se aciona o atendimento e se inicia a RCP pelas compressões, olhando a boca antes de ventilar. A mudança veio de estudos em que os golpes nas costas aliviaram mais obstruções e causaram menos lesões que as compressões abdominais, e da coerência com o que já se fazia em bebês e crianças. Compressões torácicas no lugar das abdominais ficam para a gestante em fase avançada ou quando o socorrista não consegue envolver o abdome. Varredura digital às cegas não é recomendada.",
+  "porAlt": [
+   "A AHA 2025 começa o ciclo por 5 golpes nas costas, alternados com 5 compressões abdominais.",
+   "Na obstrução grave o socorrista age de imediato; esperar a equipe agrava a hipóxia.",
+   "Correta: ciclos de 5 golpes nas costas e 5 compressões abdominais até desobstruir ou a vítima perder a resposta.",
+   "Compressões torácicas ficam para a gestante avançada ou quando não se consegue envolver o abdome.",
+   "A varredura digital às cegas pode empurrar o objeto e não faz parte do algoritmo."
+  ]
+ },
+ {
+  "q": "Mulher de 61 anos tem retorno da circulação espontânea após fibrilação ventricular na sala de emergência. Está intubada, não obedece a comandos sem sedação, com SpO2 de 100% em FiO2 de 100%, PaCO2 de 28 mmHg e PAM de 60 mmHg. Pelas Diretrizes AHA 2025 de cuidados pós-PCR, qual conjunto de metas a equipe deve implementar?",
+  "alts": [
+   "Titular FiO2 para SpO2 de 90% a 98%, PaCO2 de 35 a 45 mmHg, PAM de 65 mmHg ou mais e controle de temperatura de 32 a 37,5 °C por 36 horas ou mais",
+   "Manter FiO2 de 100% com SpO2 de 100%, PaCO2 de 35 a 45 mmHg, PAM de 65 mmHg ou mais e controle de temperatura de 32 a 37,5 °C por 24 horas",
+   "Titular FiO2 para SpO2 de 90% a 98%, PaCO2 de 25 a 30 mmHg, PAM de 65 mmHg ou mais e controle de temperatura de 32 a 37,5 °C durante 36 horas",
+   "Titular FiO2 para SpO2 de 90% a 98%, PaCO2 de 35 a 45 mmHg, PAM de 90 mmHg ou mais e reaquecimento ativo até 38 °C durante as primeiras 24 horas",
+   "Titular FiO2 para SpO2 de 88% a 92%, PaCO2 de 35 a 45 mmHg, PAM de 65 mmHg ou mais e controle de temperatura de 32 a 37,5 °C por até 12 horas"
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r3",
+  "base": "Diretrizes AHA 2025 de RCP e ACE (Highlights 2025, Cuidados pós-PCR no adulto e algoritmo de cuidados pós-PCR)",
+  "coment": "O algoritmo de cuidados pós-PCR da AHA 2025 mantém FiO2 de 100% só até a SpO2 ser medida de forma confiável; depois se titula para SpO2 de 90% a 98% (PaO2 de 60 a 105 mmHg), porque a hiperóxia também lesa. A ventilação minuto é ajustada para PaCO2 de 35 a 45 mmHg: a PaCO2 de 28 mmHg indica hiperventilação, que causa vasoconstrição cerebral. A hipotensão é evitada com PAM mínima de 65 mmHg; ensaios com metas mais altas não melhoraram a sobrevida. Na paciente que não obedece a comandos, inicia-se estratégia deliberada de controle de temperatura entre 32 e 37,5 °C, e a diretriz considera razoável mantê-la por pelo menos 36 horas. Glicemia entre 70 e 180 mg/dL completa as metas.",
+  "porAlt": [
+   "Correta: SpO2 de 90% a 98%, PaCO2 de 35 a 45 mmHg, PAM de 65 mmHg ou mais e temperatura de 32 a 37,5 °C por pelo menos 36 horas.",
+   "A FiO2 de 100% é só até medir a SpO2, e o controle de temperatura recomendado dura pelo menos 36 horas.",
+   "PaCO2 de 25 a 30 mmHg é hiperventilação, que reduz o fluxo sanguíneo cerebral; a meta é 35 a 45 mmHg.",
+   "A meta mínima de PAM é 65 mmHg e a febre deve ser evitada, não induzida com reaquecimento até 38 °C.",
+   "A faixa de SpO2 é de 90% a 98% e 12 horas é menos que o mínimo de 36 horas de controle de temperatura."
+  ]
+ },
+ {
+  "q": "Gestante de 31 anos, G2P1, com 29 semanas, comparece à consulta de enfermagem na UBS. O cartão mostra três doses de dT na adolescência, dTpa na gestação anterior (2023), influenza da temporada atual já aplicada nesta gestação e última dose de covid-19 há 8 meses. Pela Instrução Normativa do Calendário Nacional de Vacinação 2026, quais vacinas devem ser aplicadas hoje?",
+  "alts": [
+   "Vacina VSR e covid-19; a dTpa é dispensada porque foi aplicada na gestação anterior, há menos de 5 anos",
+   "dTpa e covid-19; a vacina VSR deve ser agendada para a 32ª semana, quando começa a janela de aplicação",
+   "dTpa e vacina VSR; a covid-19 fica para o puerpério, pois exige 12 meses de intervalo desde a última dose",
+   "dTpa, vacina VSR e covid-19, na mesma visita e em sítios diferentes, sem intervalo exigido entre elas",
+   "Vacina VSR hoje; a dTpa e a covid-19 ficam para 14 dias depois, para respeitar o intervalo entre vacinas"
+  ],
+  "gab": 3,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "A IN do Calendário 2026 indica 1 dose de dTpa a partir da 20ª semana em cada gravidez, mesmo com esquema básico completo e dTpa em gestação anterior: o objetivo é transferir anticorpos contra coqueluche ao recém-nascido. A vacina VSR A e B recombinante é dose única em cada gestação a partir da 28ª semana, sem limite superior além do trabalho de parto ativo, e pode ser feita no mesmo dia das demais vacinas do calendário, em sítios diferentes, sem intervalo. Para covid-19, a gestante recebe 1 dose em cada gestação, em qualquer idade gestacional, desde que se tenham passado pelo menos 6 meses da última dose; aqui foram 8. A influenza já aplicada na temporada não se repete. A regra da IN é a agenda oportuna: vacinar na primeira oportunidade.",
+  "porAlt": [
+   "A dTpa é indicada em cada gravidez a partir da 20ª semana, independentemente da dose da gestação anterior.",
+   "A janela da vacina VSR começa na 28ª semana, e a gestante já está com 29 semanas.",
+   "O intervalo exigido para a covid-19 na gestante é de 6 meses desde a última dose, e já se passaram 8.",
+   "Correta: dTpa, VSR e covid-19 podem ser aplicadas hoje, juntas e em sítios diferentes.",
+   "A IN permite aplicar a vacina VSR junto com as demais, sem intervalo, e manda não perder a oportunidade."
+  ]
+ },
+ {
+  "q": "Gestante de 27 anos com hipertensão arterial crônica tem a gravidez confirmada por teste rápido na UBS com 9 semanas e é estratificada como de alto risco. A enfermeira organiza o cuidado pela Rede Alyne. De acordo com a Portaria GM/MS 5.350/2024, qual planejamento segue a norma?",
+  "alts": [
+   "Encaminhar ao AGPAR, que garante no mínimo 7 consultas pré-natais intercaladas entre médico e enfermeiro, com vinculação à maternidade só na 36ª semana",
+   "Encaminhar ao AGPAR, que garante no mínimo 12 consultas pré-natais por equipe especialista e multiprofissional, com vinculação à maternidade desde o pré-natal",
+   "Manter o pré-natal na UBS com no mínimo 6 consultas, pois a hipertensão crônica controlada não muda o risco, com vinculação à maternidade só no dia do parto",
+   "Encaminhar à Casa da Gestante, Bebê e Puérpera, que conduz todo o pré-natal de alto risco, e agendar a primeira visita domiciliar até o 10º dia após o parto",
+   "Encaminhar ao AGPAR, com no mínimo 12 consultas pré-natais, e deixar a definição da maternidade para o início do trabalho de parto, pela regra Vaga Sempre"
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "Portaria GM/MS 5.350/2024 (Rede Alyne), que altera o Anexo II da Portaria de Consolidação 3/2017",
+  "coment": "A Portaria 5.350/2024 transformou a Rede Cegonha em Rede Alyne. No componente pré-natal, os pontos de atenção são a UBS, o ambulatório especializado e o Ambulatório de Gestação e Puerpério de Alto Risco (AGPAR). Para o risco habitual, prevê no mínimo 7 consultas intercaladas entre enfermeiros e médicos, com captação até a 12ª semana; no AGPAR, o mínimo é de 12 consultas por equipe especialista e multiprofissional. A gestante é vinculada desde o pré-natal ao local do parto, e a de alto risco deve ser informada da maternidade de referência. A Casa da Gestante, Bebê e Puérpera é residência provisória para quem está em vulnerabilidade ou risco, ligada a hospital de alto risco, e não substitui o ambulatório. A visita domiciliar ao binômio é até o 7º dia; Vaga Sempre garante a vaga, não adia a vinculação.",
+  "porAlt": [
+   "7 consultas intercaladas é o mínimo do risco habitual; no AGPAR são 12, e a vinculação começa no pré-natal.",
+   "Correta: no AGPAR são no mínimo 12 consultas por equipe especialista e multiprofissional, com vinculação desde o pré-natal.",
+   "A Rede Alyne fixa 7 consultas no risco habitual, a hipertensão crônica é alto risco e a vinculação começa no pré-natal.",
+   "A Casa da Gestante é residência provisória e não conduz o pré-natal; a visita domiciliar é até o 7º dia.",
+   "A vinculação à maternidade é feita desde o pré-natal; a regra Vaga Sempre garante a vaga, não adia a definição."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 38 semanas nasce hipotônico e em apneia. Após os passos iniciais e a ventilação com máscara facial, a equipe faz as manobras corretivas da ventilação e confirma a expansão torácica, mas a frequência cardíaca no monitor segue em 52 bpm. Pelo algoritmo de reanimação neonatal das Diretrizes AHA 2025, qual é a próxima conduta?",
+  "alts": [
+   "Manter a ventilação com máscara em ar ambiente e iniciar compressões torácicas na relação 15:2, como na reanimação pediátrica",
+   "Administrar adrenalina pela veia umbilical antes de qualquer compressão, pois a frequência cardíaca está abaixo de 60 bpm",
+   "Iniciar compressões 3:1 com a ventilação usando dois dedos sobre o apêndice xifoide e manter o oxigênio a 21% na mistura gasosa",
+   "Suspender a ventilação, aplicar CPAP de 5 cmH2O e reavaliar a frequência cardíaca por ausculta precordial após 60 segundos",
+   "Garantir a via aérea com intubação ou máscara laríngea e iniciar compressões torácicas 3:1 com a ventilação, em oxigênio a 100%"
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Diretrizes AHA 2025 de RCP e ACE, reanimação neonatal (AHA/AAP 2025; Highlights 2025 e algoritmo de reanimação neonatal)",
+  "coment": "No recém-nascido, a ventilação eficaz é a prioridade. Se a frequência cardíaca segue abaixo de 60 bpm apesar da ventilação com expansão torácica e das manobras corretivas, o algoritmo AHA/AAP 2025 indica intubação ou máscara laríngea, compressões torácicas coordenadas com a ventilação na relação 3:1 e oxigênio a 100%, com monitor cardíaco, que a diretriz recomenda antes de iniciar as compressões. As compressões são feitas no terço inferior do esterno, acima do apêndice xifoide, com a técnica dos dois polegares. Se a frequência continuar abaixo de 60 bpm, entra a adrenalina por cateter venoso umbilical ou intraóssea a cada 3 a 5 minutos, e se pensa em hipovolemia e pneumotórax. A relação 15:2 é da reanimação pediátrica, não da sala de parto.",
+  "porAlt": [
+   "No recém-nascido a relação é 3:1 e as compressões são feitas com oxigênio a 100%, não em ar ambiente.",
+   "A adrenalina só entra se a frequência seguir abaixo de 60 bpm depois de ventilação e compressões coordenadas.",
+   "As compressões são acima do apêndice xifoide e, ao iniciá-las, o oxigênio sobe para 100%.",
+   "CPAP é para desconforto respiratório com frequência adequada; com 52 bpm a ventilação não pode ser suspensa.",
+   "Correta: via aérea avançada, compressões 3:1 coordenadas com a ventilação e oxigênio a 100%."
+  ]
+ },
+ {
+  "q": "Na consulta de puericultura, a enfermeira avalia dois irmãos pelas curvas da OMS da Caderneta da Criança: Ana, de 3 anos, e Pedro, de 7 anos. Os dois têm IMC para idade entre os escores z +2 e +3. Pelos pontos de corte da norma técnica do SISVAN, como cada um deve ser classificado?",
+  "alts": [
+   "Ana tem sobrepeso, porque abaixo de 5 anos o escore entre +2 e +3 indica sobrepeso; Pedro já tem obesidade",
+   "Ana e Pedro têm obesidade, porque o escore z entre +2 e +3 indica obesidade em qualquer faixa etária pediátrica",
+   "Ana tem obesidade, porque abaixo de 5 anos o escore entre +2 e +3 indica obesidade; Pedro tem sobrepeso",
+   "Ana e Pedro têm sobrepeso, porque na criança a obesidade só é classificada a partir do escore z acima de +3",
+   "Ana tem risco de sobrepeso e Pedro tem sobrepeso, porque o escore +2 marca o limite superior da eutrofia"
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Ministério da Saúde, Orientações para a coleta e análise de dados antropométricos em serviços de saúde: Norma Técnica do SISVAN (2011), com as curvas OMS 2006/2007 da Caderneta da Criança",
+  "coment": "Os pontos de corte do IMC para idade mudam aos 5 anos, porque as curvas da OMS de 2006 (0 a 5 anos) e de 2007 (5 a 19 anos) usam rótulos diferentes para os mesmos escores. Do nascimento aos 5 anos: escore z acima de +1 e até +2 é risco de sobrepeso; acima de +2 e até +3, sobrepeso; acima de +3, obesidade. Dos 5 anos em diante: acima de +1 e até +2 é sobrepeso; acima de +2 e até +3, obesidade; acima de +3, obesidade grave. Com o mesmo escore entre +2 e +3, Ana, de 3 anos, tem sobrepeso, e Pedro, de 7 anos, tem obesidade. Ler a faixa etária antes do rótulo evita subestimar o risco da criança maior e superestimar o da menor.",
+  "porAlt": [
+   "Correta: abaixo de 5 anos o escore entre +2 e +3 é sobrepeso; a partir dos 5 anos, a mesma faixa é obesidade.",
+   "Os rótulos mudam aos 5 anos; abaixo dessa idade o escore entre +2 e +3 é sobrepeso, não obesidade.",
+   "A classificação está invertida: o sobrepeso é da menor de 5 anos e a obesidade, do maior de 5 anos.",
+   "Acima de 5 anos, a obesidade começa no escore acima de +2; acima de +3 já é obesidade grave.",
+   "Risco de sobrepeso vai de +1 a +2 abaixo dos 5 anos; o escore entre +2 e +3 já sai dessa faixa."
+  ]
+ },
+ {
+  "q": "Homem de 34 anos em surto psicótico, com risco de agressão, é internado na enfermaria de psiquiatria de um hospital geral a pedido da mãe, sem o consentimento dele, com laudo médico circunstanciado. Pela Lei 10.216/2001, qual providência legal se aplica a essa internação?",
+  "alts": [
+   "Autorização judicial prévia, porque toda internação sem o consentimento do paciente é classificada como compulsória",
+   "Comunicação à Defensoria Pública em até 24 horas pelo enfermeiro do setor, dispensada nova comunicação na alta",
+   "Comunicação ao Ministério Público Estadual em até 72 horas pelo responsável técnico do hospital, repetida na alta",
+   "Comunicação ao Ministério Público Estadual em até 72 horas pelo médico assistente, com limite de 90 dias internado",
+   "Comunicação ao Conselho Municipal de Saúde em até 7 dias pela família, que também pede a alta diretamente ao juiz"
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Lei 10.216/2001 e reforma psiquiátrica",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 10.216/2001, arts. 6º e 8º",
+  "coment": "A Lei 10.216/2001 exige laudo médico circunstanciado para qualquer internação psiquiátrica e define três tipos (art. 6º): voluntária, com consentimento do usuário; involuntária, sem consentimento e a pedido de terceiro; e compulsória, determinada pela Justiça. O caso é de internação involuntária. Pelo art. 8º, ela é autorizada por médico registrado no CRM do estado e deve ser comunicada ao Ministério Público Estadual em até 72 horas pelo responsável técnico do estabelecimento, com o mesmo procedimento na alta. O término ocorre por solicitação escrita do familiar ou responsável legal, ou quando o especialista responsável pelo tratamento decidir. O prazo máximo de 90 dias pertence à internação involuntária de dependentes químicos, da Lei 11.343/2006 alterada pela Lei 13.840/2019.",
+  "porAlt": [
+   "Internação a pedido de terceiro sem consentimento é involuntária; compulsória é a determinada pela Justiça.",
+   "A comunicação vai ao Ministério Público Estadual, em 72 horas, pelo responsável técnico, e se repete na alta.",
+   "Correta: o responsável técnico comunica o Ministério Público Estadual em até 72 horas, e de novo na alta.",
+   "Quem comunica é o responsável técnico, e o limite de 90 dias é da internação de dependentes químicos.",
+   "O destinatário é o Ministério Público Estadual, e o término se dá por pedido escrito ao médico, não ao juiz."
+  ]
+ },
+ {
+  "q": "Jovem de 22 anos com uso diário de crack, sem resposta ao acompanhamento no CAPS AD, tem internação involuntária solicitada pela irmã em hospital de referência. Pela Lei 11.343/2006, com a redação dada pela Lei 13.840/2019, qual condição se aplica a essa internação?",
+  "alts": [
+   "Autorização judicial prévia, prazo máximo de 90 dias e comunicação ao Conselho Tutelar e ao CAPS AD de referência em até 72 horas",
+   "Formalização por médico responsável, prazo máximo de 180 dias e comunicação ao Ministério Público em até 7 dias corridos da entrada",
+   "Formalização por médico responsável, sem prazo máximo até a abstinência e comunicação à Defensoria Pública em até 24 horas",
+   "Formalização por médico responsável, prazo máximo de 90 dias e comunicação ao Ministério Público e à Defensoria em até 72 horas",
+   "Pedido aceito também de agente de segurança pública, prazo máximo de 90 dias e comunicação ao Ministério Público em até 72 horas"
+  ],
+  "gab": 3,
+  "tema": "mental",
+  "sub": "Álcool e outras drogas",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "Lei 11.343/2006, art. 23-A, incluído pela Lei 13.840/2019",
+  "coment": "O art. 23-A da Lei 11.343/2006, incluído pela Lei 13.840/2019, admite a internação involuntária do dependente a pedido de familiar ou responsável legal ou, na absoluta falta deste, de servidor da saúde, da assistência social ou de órgão do Sisnad, excluídos os servidores da segurança pública. Ela deve ser formalizada por médico responsável, só é indicada quando comprovada a impossibilidade de outras alternativas terapêuticas da rede e dura apenas o tempo necessário à desintoxicação, no prazo máximo de 90 dias, com término determinado pelo médico; a família pode pedir a interrupção a qualquer tempo. Todas as internações e altas devem ser informadas em até 72 horas ao Ministério Público, à Defensoria Pública e a outros órgãos de fiscalização.",
+  "porAlt": [
+   "A internação involuntária é formalizada por médico, sem autorização judicial, e a comunicação vai ao MP e à Defensoria.",
+   "O prazo máximo é de 90 dias e a comunicação deve ocorrer em até 72 horas.",
+   "A lei fixa o máximo de 90 dias, pelo tempo da desintoxicação, e a comunicação é em até 72 horas.",
+   "Correta: formalização médica, no máximo 90 dias e comunicação ao MP e à Defensoria em até 72 horas.",
+   "A lei exclui expressamente os servidores da área de segurança pública entre os que podem pedir a internação."
+  ]
+ },
+ {
+  "q": "Senhora de 84 anos, no segundo dia após artroplastia de quadril, passa a manhã sonolenta e pouco responsiva, não consegue manter a atenção na conversa e, à tarde, alterna momentos de lucidez. A filha conta que antes da internação ela era lúcida e independente. Pelo Confusion Assessment Method (CAM), qual é a interpretação correta?",
+  "alts": [
+   "Não há delirium, porque o CAM exige agitação psicomotora e alucinações, ausentes nessa paciente sonolenta e quieta",
+   "Há delirium, provavelmente hipoativo: início agudo e curso flutuante, desatenção e alteração da consciência",
+   "Há demência, porque desatenção com flutuação em idosa acima de 80 anos define declínio cognitivo crônico",
+   "Não há delirium, porque o CAM exige pensamento desorganizado como critério obrigatório além da desatenção",
+   "Há depressão pós-operatória, porque sonolência e apatia sem agitação afastam delirium pelo algoritmo CAM"
+  ],
+  "gab": 1,
+  "tema": "idoso",
+  "sub": "Demências e delirium",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Confusion Assessment Method (Inouye SK et al., Annals of Internal Medicine, 1990), validado no Brasil por Fabbri et al. (Arquivos de Neuro-Psiquiatria, 2001)",
+  "coment": "O algoritmo do CAM fecha o diagnóstico de delirium com os critérios 1 e 2 obrigatórios e mais o 3 ou o 4: (1) início agudo e curso flutuante; (2) desatenção; (3) pensamento desorganizado; (4) alteração do nível de consciência. A paciente mudou em relação ao estado prévio relatado pela filha, flutua ao longo do dia, não sustenta a atenção e está sonolenta, o que preenche 1, 2 e 4. A forma hipoativa, com sonolência e pouca resposta, é a mais subdiagnosticada justamente porque não agita. Demência tem instalação insidiosa e curso crônico. O enfermeiro registra o achado, comunica a equipe e busca causas (dor, infecção, retenção urinária, fármacos), com medidas não farmacológicas.",
+  "porAlt": [
+   "Agitação e alucinações não são critérios do CAM; o delirium hipoativo cursa com sonolência.",
+   "Correta: preenche início agudo e flutuação, desatenção e alteração do nível de consciência.",
+   "Demência tem início insidioso e curso crônico, e a paciente era lúcida antes da internação.",
+   "O pensamento desorganizado é alternativo à alteração de consciência, não critério obrigatório.",
+   "Sonolência e apatia de início agudo com desatenção são justamente o delirium hipoativo."
+  ]
+ },
+ {
+  "q": "Na visita domiciliar, a enfermeira revisa os medicamentos de um homem de 79 anos com diabetes tipo 2, fibrilação atrial e insônia, com função renal preservada: metformina, glibenclamida, apixabana, difenidramina à noite e losartana. Pelos Critérios de Beers da American Geriatrics Society 2023, quais itens ela deve sinalizar ao médico para revisão?",
+  "alts": [
+   "Apixabana, anticoagulante a evitar acima dos 75 anos, e metformina, a evitar no idoso mesmo com função renal preservada",
+   "Losartana, a evitar no idoso com diabetes, e apixabana, que deve ser trocada por varfarina como primeira escolha",
+   "Metformina, a evitar acima dos 75 anos pelo risco de acidose lática, e glibenclamida, pelo risco de hipoglicemia prolongada",
+   "Difenidramina, anti-histamínico de primeira geração anticolinérgico, e losartana, pelo risco de hipotensão ortostática",
+   "Glibenclamida, sulfonilureia com risco de hipoglicemia prolongada, e difenidramina, anti-histamínico anticolinérgico"
+  ],
+  "gab": 4,
+  "tema": "idoso",
+  "sub": "Polifarmácia",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "tit",
+  "base": "American Geriatrics Society 2023 Updated AGS Beers Criteria for Potentially Inappropriate Medication Use in Older Adults (Journal of the American Geriatrics Society, 2023)",
+  "coment": "Os Critérios de Beers 2023 listam as sulfonilureias entre os medicamentos a evitar como primeira ou segunda linha no idoso, pelo risco de hipoglicemia grave e prolongada, maior com as de ação longa como a glibenclamida. Os anti-histamínicos de primeira geração, como a difenidramina, também devem ser evitados: são fortemente anticolinérgicos, causam confusão, constipação, retenção urinária e quedas, e a tolerância ao efeito sedativo surge rápido. Na fibrilação atrial, a atualização de 2023 orienta evitar a varfarina como primeira escolha e prefere a apixabana entre os anticoagulantes orais diretos. A metformina não está na lista de evitar; seu ajuste depende da função renal, aqui preservada. A losartana não consta da lista.",
+  "porAlt": [
+   "A apixabana é o anticoagulante preferido pela atualização de 2023, e a metformina depende só da função renal.",
+   "A losartana não está na lista, e a varfarina é que deve ser evitada como primeira escolha na fibrilação atrial.",
+   "A metformina não é evitada pela idade, só ajustada à função renal; a glibenclamida sozinha não completa a resposta.",
+   "A difenidramina está certa, mas a losartana não consta dos Critérios de Beers 2023 para esse uso.",
+   "Correta: sulfonilureia de ação longa e anti-histamínico de primeira geração são potencialmente inadequados."
+  ]
+ },
+ {
+  "q": "A enfermeira responsável técnica de um hospital revisa o quadro da clínica cirúrgica, que tem 40 profissionais de enfermagem, dos quais 13 estão com restrição médica para parte das atividades. Pelo Parecer Normativo COFEN 1/2024, que ajuste deve ser aplicado ao quadro desse setor?",
+  "alts": [
+   "Acrescer 10% ao quadro de profissionais do setor, porque 30% ou mais da equipe tem limitação ou restrição",
+   "Acrescer 5% ao quadro do setor, porque esse é o percentual previsto para cobrir profissionais com restrição",
+   "Elevar o índice de segurança técnica para 20%, porque o IST de 15% não considera a equipe com restrição",
+   "Não ajustar o quadro agora, pois o acréscimo de 10% exige que metade ou mais da equipe esteja com restrição",
+   "Excluir os 13 do cálculo e repor o mesmo número, pois quem tem restrição não entra no dimensionamento"
+  ],
+  "gab": 0,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Parecer Normativo COFEN 1/2024 (parâmetros para o planejamento da força de trabalho da Enfermagem), itens 1.1, 1.2 e 1.5; Res. COFEN 743/2024 revogou a Res. 543/2017",
+  "coment": "Com a revogação da Res. 543/2017 pela Res. COFEN 743/2024, os parâmetros de dimensionamento passaram ao Parecer Normativo COFEN 1/2024. Seu item 1.5 determina que o quadro de unidades assistenciais composto por 30% ou mais de profissionais com limitação ou restrição para o exercício das atividades seja acrescido de 10%. Aqui, 13 de 40 são 32,5%, acima do gatilho. O acréscimo se soma aos demais ajustes do parecer: o índice de segurança técnica mínimo de 15% (8,3% para férias e 6,7% para ausências não previstas, item 1.1) e os 5% que o responsável técnico acresce ao quadro geral da instituição para educação permanente e rotatividade (item 1.2). Nada no parecer manda excluir profissionais com restrição.",
+  "porAlt": [
+   "Correta: 13 de 40 são 32,5%, e o parecer manda acrescer 10% quando a restrição atinge 30% ou mais da equipe.",
+   "Os 5% do parecer são para educação permanente e rotatividade, acrescidos pelo RT ao quadro geral.",
+   "O IST mínimo segue em 15%; a restrição tem ajuste próprio de 10% sobre o quadro do setor.",
+   "O gatilho do parecer é de 30% ou mais da equipe, e 32,5% já o ultrapassa; não é preciso chegar à metade.",
+   "O parecer não exclui quem tem restrição; prevê o acréscimo de 10% ao quadro do setor."
+  ]
+ },
+ {
+  "q": "Uma clínica médica registra no sistema de classificação de pacientes de Fugulin, em um dia típico, 8 pacientes de cuidados mínimos, 14 de cuidados intermediários e 6 de alta dependência. Pelo Parecer Normativo COFEN 1/2024, qual é o total de horas de enfermagem nas 24 horas e o percentual mínimo de enfermeiros do quadro?",
+  "alts": [
+   "176 horas, com 36% de enfermeiros, porque o setor tem pacientes de alta dependência, o cuidado mais complexo",
+   "152 horas, com 33% de enfermeiros, porque a alta dependência corresponde a 6 horas por paciente no parecer",
+   "176 horas, com 33% de enfermeiros, porque o grupo de cuidados intermediários concentra a maior carga",
+   "212 horas, com 36% de enfermeiros, porque a alta dependência corresponde a 16 horas por paciente no parecer",
+   "176 horas, com 42% de enfermeiros, porque a presença de alta dependência exige o percentual semi-intensivo"
+  ],
+  "gab": 2,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "ger",
+  "comp": "calc",
+  "nivel": "tit",
+  "base": "Parecer Normativo COFEN 1/2024, itens 2.8, 2.9 e 3.0 (horas de assistência e distribuição percentual)",
+  "coment": "O item 2.8 do Parecer Normativo COFEN 1/2024 fixa as horas de enfermagem por paciente nas 24 horas: 4 no cuidado mínimo, 6 no intermediário, 10 na alta dependência, 10 no semi-intensivo e 18 no intensivo. O total de horas (THE) é a soma: 8 x 4 = 32; 14 x 6 = 84; 6 x 10 = 60; THE = 176 horas. O item 3.0 dá os percentuais mínimos de enfermeiros (33% no mínimo e no intermediário, 36% na alta dependência, 42% no semi-intensivo e 52% no intensivo) e manda que, havendo tipos de cuidado diferentes no mesmo setor, a distribuição siga o grupo de pacientes com a maior carga de trabalho. O grupo intermediário soma 84 horas, mais que as 60 da alta dependência; vale 33%, garantido ao menos 1 enfermeiro por turno.",
+  "porAlt": [
+   "O THE está certo, mas o percentual segue o grupo de maior carga de trabalho (intermediário, 84 h), não o mais complexo.",
+   "A alta dependência corresponde a 10 horas por paciente, o que leva o THE a 176 horas.",
+   "Correta: THE de 176 horas e 33%, porque o grupo intermediário soma a maior carga, 84 horas.",
+   "A alta dependência corresponde a 10 horas, não 16, e o percentual segue o grupo de maior carga.",
+   "42% é o percentual do cuidado semi-intensivo, que não existe nesse setor."
+  ]
+ }
+]

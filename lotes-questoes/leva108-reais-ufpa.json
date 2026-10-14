@@ -1,0 +1,1506 @@
+[
+ {
+  "q": "No que se refere às ações a serem executadas pelo Sistema Único de Saúde (SUS), avalie as assertivas abaixo como verdadeiras (V) ou falsas (F).\n(__) ações de vigilância sanitária.\n(__) ações de vigilância epidemiológica.\n(__) ações de educação permanente.\n(__) ações de saúde do trabalhador.\n(__) ações de assistência terapêutica integral, inclusive farmacêutica.\nA sequência correta é",
+  "alts": [
+   "F, V, V, V, V.",
+   "V, F, V, V, F.",
+   "V, F, V, V, V.",
+   "V, V, F, V, F.",
+   "V, V, F, V, V."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 6º, I",
+  "coment": "O art. 6º, I, da Lei 8.080/1990 lista no campo de atuação do SUS a execução de ações de vigilância sanitária, de vigilância epidemiológica, de saúde do trabalhador e de assistência terapêutica integral, inclusive farmacêutica. A formação de pessoal aparece em outro inciso (III, ordenação da formação de recursos humanos), e não como \"ações de educação permanente\" no rol do inciso I. Por isso só o terceiro item é falso: V, V, F, V, V.",
+  "porAlt": [
+   "Erra ao marcar a vigilância sanitária como falsa: ela é a primeira ação do art. 6º, I, da Lei 8.080/1990.",
+   "Erra ao marcar como falsas a vigilância epidemiológica e a assistência farmacêutica, ambas previstas no art. 6º, I.",
+   "Marca a vigilância epidemiológica como falsa, mas ela consta expressamente no art. 6º, I, alínea b.",
+   "Marca a assistência terapêutica integral, inclusive farmacêutica, como falsa, quando ela é a alínea d do art. 6º, I.",
+   "Correta: vigilância sanitária, epidemiológica, saúde do trabalhador e assistência terapêutica integral estão no art. 6º, I; educação permanente não está nesse rol."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 1,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "A estrutura do Sistema Único de Saúde (SUS), instituído pela Lei nº 8.080, de 19 de setembro de 1990, é fundamental para o cumprimento dos princípios de universalidade, equidade e integralidade. Essa Lei delibera que a gestão das ações e dos serviços de saúde deve ser solidária e participativa entre os três entes da Federação: a União, os Estados e os Municípios. Quanto ao assunto, analise as afirmativas seguintes.\nI. A implementação de Políticas Municipais de Saúde depende da aprovação e deliberação do Controle Social exercido por meio do Conselho Municipal de Saúde.\nII. O Conselho Nacional de Saúde, instância colegiada, deliberativa e permanente do SUS, tem como missão fiscalizar, acompanhar e monitorar as políticas públicas de saúde nas suas mais diferentes áreas, levando as demandas da população ao poder público, por isso é chamado de controle social na saúde.\nIII. Para garantia da integralidade do cuidado, municípios como Abaetetuba, que não dispõem de uma rede que atenda às necessidades de saúde da sua população, devem articular pactuações com outros gestores municipais e estaduais, por meio da Comissão Intergestores Bipartite (CIB).\nEstá(ão) correta(s)",
+  "alts": [
+   "I, II e III.",
+   "II e III, somente.",
+   "I e III, somente.",
+   "I e II, somente.",
+   "I, somente."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.142/1990, art. 1º, § 2º; Lei 8.080/1990, art. 14-A",
+  "coment": "Pela Lei 8.142/1990, art. 1º, § 2º, o Conselho de Saúde é órgão permanente e deliberativo que atua na formulação de estratégias e no controle da execução da política de saúde, inclusive nos aspectos econômicos e financeiros; o plano municipal de saúde passa por ele. O Conselho Nacional de Saúde exerce esse controle social na esfera federal. A pactuação entre municípios e estado para garantir a integralidade ocorre na Comissão Intergestores Bipartite, reconhecida como foro de negociação no art. 14-A da Lei 8.080/1990. A banca considerou os três itens corretos. O item I é o mais discutível, porque as decisões do conselho são homologadas pelo chefe do Poder Executivo.",
+  "porAlt": [
+   "Correta: o conselho delibera sobre a política municipal, o CNS exerce o controle social na esfera federal e a CIB é o foro de pactuação entre municípios e estado.",
+   "Exclui o item I, mas o Conselho Municipal de Saúde é deliberativo e atua na formulação e no controle da política de saúde (Lei 8.142/1990).",
+   "Exclui o item II, que descreve corretamente o Conselho Nacional de Saúde como instância colegiada, deliberativa e permanente.",
+   "Exclui o item III, embora a pactuação intermunicipal e com o estado ocorra na Comissão Intergestores Bipartite.",
+   "Aceita só o item I e despreza o papel do CNS e da CIB, ambos previstos na legislação do SUS."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 2,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "Correlacione as Diretrizes Específicas da Política Nacional de Humanização – HumanizaSUS (primeira coluna) aos seus respectivos níveis de atenção (segunda coluna).\nI. Comprometer-se com o trabalho em equipe, de modo a aumentar o grau de corresponsabilidade, e com a rede de apoio profissional, visando a maior eficácia na atenção em saúde.\nII. Acolher a demanda por meio de critérios de avaliação de risco, garantindo o acesso referenciado aos demais níveis de assistência.\nIII. Incentivar práticas promocionais de saúde.\nIV. Otimizar o atendimento ao usuário, articulando a agenda multiprofissional em ações diagnósticas e terapêuticas que impliquem diferentes saberes e terapêuticas de reabilitação.\na. Atenção Básica\nb. Urgência e Emergência\nc. Atenção Especializada\nA associação correta é",
+  "alts": [
+   "I-a, II-b, III-c e IV-b.",
+   "I-a, II-b, III-a e IV-c.",
+   "I-b, II-c, III-a e IV-b.",
+   "I-b, II-b, III-c e IV-a.",
+   "I-a, II-c, III-a e IV-b."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Política Nacional de Humanização, documento base HumanizaSUS (Ministério da Saúde, 2004)",
+  "coment": "O documento base da PNH traz diretrizes específicas por nível de atenção. Na Atenção Básica estão incentivar práticas promocionais de saúde e comprometer-se com o trabalho em equipe e a rede de apoio profissional. Na Urgência e Emergência está acolher a demanda por critérios de avaliação de risco, garantindo o acesso referenciado aos demais níveis. Na Atenção Especializada está otimizar o atendimento articulando a agenda multiprofissional em ações diagnósticas, terapêuticas e de reabilitação. Daí I-a, II-b, III-a e IV-c.",
+  "porAlt": [
+   "Erra III e IV: práticas promocionais são diretriz da Atenção Básica, e a agenda multiprofissional com reabilitação é da Atenção Especializada.",
+   "Correta: trabalho em equipe e promoção na Atenção Básica, acolhimento com avaliação de risco na Urgência e agenda multiprofissional na Atenção Especializada.",
+   "Erra I e II: o compromisso com o trabalho em equipe é da Atenção Básica, e o acolhimento com classificação de risco é da Urgência e Emergência.",
+   "Erra I, III e IV: põe promoção da saúde na Atenção Especializada e a agenda multiprofissional na Atenção Básica.",
+   "Erra II e IV: o acolhimento com avaliação de risco pertence à Urgência e Emergência, não à Atenção Especializada."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 3,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "A Lei nº 8.080/1990 estabelece que o SUS deve executar ações de assistência terapêutica integral, incluindo a farmacêutica. Nesse sentido, a Programação Geral da Ações e dos Serviços de Saúde – PGASS, no que se refere à fase de monitoramento que garanta a disponibilidade dos medicamentos selecionados nas quantidades adequadas e no tempo oportuno, possui instrumentos de gestão. Quanto aos principais instrumentos para gestão do componente Assistência Farmacêutica na PGASS, analise os itens seguintes.\nI. Relação Nacional de Medicamentos Essenciais – Rename.\nII. Relação Nacional de Ações e Serviços de Saúde – Renases.\nIII. Resolução CIT n. 10/2013.\nIV. Lei n. 12.401, de 28 de abril de 2011.\nV. Decreto n. 7.646, de 21 de dezembro de 2013.\nEstão corretos",
+  "alts": [
+   "I, III e IV, apenas.",
+   "I, II e V, apenas.",
+   "I, II e IV, apenas.",
+   "II, IV e V, apenas.",
+   "I, III e V, apenas."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Lei 12.401/2011; Decreto 7.508/2011, arts. 21 a 29 (Renases e Rename)",
+  "coment": "A Rename e a Renases foram instituídas pelo Decreto 7.508/2011 como referências do que o SUS oferta, e a Lei 12.401/2011 alterou a Lei 8.080/1990 para disciplinar a assistência terapêutica e a incorporação de tecnologias. São esses os instrumentos que a banca aceitou para a gestão da assistência farmacêutica na PGASS. O item V traz data errada: o Decreto 7.646, que trata da Conitec, é de 21 de dezembro de 2011, não de 2013. A resolução CIT do item III não foi aceita como instrumento. A questão depende do material usado pela banca, por isso é discutível.",
+  "porAlt": [
+   "Inclui a resolução CIT do item III, que a banca não reconheceu como instrumento, e deixa de fora a Renases.",
+   "Inclui o item V, que dá ao Decreto 7.646 a data de 2013; o decreto da Conitec é de 21/12/2011.",
+   "Correta: Rename, Renases e Lei 12.401/2011 são os instrumentos aceitos para a assistência farmacêutica na PGASS.",
+   "Exclui a Rename, que é o instrumento central da seleção de medicamentos, e inclui o item V com data errada.",
+   "Exclui a Renases e a Lei 12.401/2011 e inclui itens que a banca não aceitou."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 4,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "A Rede de Atenção à Saúde (RAS) é definida como arranjos organizativos de ações e serviços de saúde, de diferentes densidades tecnológicas, que, integradas por meio de sistemas de apoio técnico, logístico e de gestão, buscam garantir a integralidade do cuidado com o objetivo de promover a integração sistêmica de ações e serviços de saúde. Nesse sentido, assinale a alternativa que NÃO é atributo essencial para o funcionamento da RAS.",
+  "alts": [
+   "População e território definidos com amplo conhecimento de suas necessidades e preferências que determinam a oferta de serviços de saúde.",
+   "Atenção à saúde centrada no indivíduo, na família e na comunidade, tendo em conta as particularidades culturais, gênero, assim como a diversidade da população.",
+   "Prestação de serviços generalizados em lugar adequado.",
+   "Participação social ampla.",
+   "Gestão integrada dos sistemas de apoio administrativo, clínico e logístico."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 4.279/2010 (consolidada na PRC 3/2017)",
+  "coment": "A Portaria 4.279/2010 lista os atributos essenciais da RAS, entre eles população e território definidos, atenção centrada no indivíduo, na família e na comunidade, participação social ampla e gestão integrada dos sistemas de apoio administrativo, clínico e logístico. O atributo verdadeiro é a prestação de serviços ESPECIALIZADOS em lugar adequado, ao lado da APS como primeiro nível e porta de entrada. Trocar \"especializados\" por \"generalizados\" descaracteriza o atributo, e essa é a resposta.",
+  "porAlt": [
+   "É atributo da RAS: população e território definidos, com conhecimento de suas necessidades, orientam a oferta de serviços.",
+   "É atributo da RAS: atenção centrada no indivíduo, na família e na comunidade, considerando cultura, gênero e diversidade.",
+   "Correta: o atributo é a prestação de serviços especializados em lugar adequado, não de serviços generalizados.",
+   "É atributo da RAS: a participação social ampla consta da lista da Portaria 4.279/2010.",
+   "É atributo da RAS: a gestão integrada dos sistemas de apoio administrativo, clínico e logístico faz parte da lista."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 5,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "A Portaria nº 1.559, de 1º de agosto de 2008, institui a Política Nacional de Regulação (PNH) do Sistema Único de Saúde (SUS). Em relação a essa Política, leia as afirmativas a seguir e assinale Verdadeiro ou Falso.\n(__) As ações de que trata a referida política estão organizadas em três dimensões de atuação, necessariamente integradas entre si.\n(__) O cadastramento de usuários do SUS deverá ser realizado no Sistema de Cadastro Nacional de Estabelecimentos de Saúde – SCNES.\n(__) Fazer a gestão da ocupação de leitos e agendas das unidades de saúde é uma das atribuições do complexo regulador.\n(__) As autorizações para Tratamento Fora de Domicílio – TFD serão definidas pela área técnica da regulação do acesso.\nA sequência correta é",
+  "alts": [
+   "F, V, V e F.",
+   "F, F, F e V.",
+   "V, V, V e F.",
+   "V, F, V e V.",
+   "V, V, F e V."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.559/2008 (Política Nacional de Regulação)",
+  "coment": "A Portaria 1.559/2008 institui a Política Nacional de Regulação (a sigla correta é PNR; o caderno escreveu PNH). Suas ações se organizam em três dimensões integradas: regulação de sistemas, regulação da atenção e regulação do acesso. O cadastramento de usuários é feito no sistema do Cartão Nacional de Saúde; o SCNES cadastra estabelecimentos e profissionais. A gestão da ocupação de leitos e agendas é atribuição do complexo regulador, e as autorizações de TFD são definidas pela área técnica da regulação do acesso. Sequência: V, F, V, V.",
+  "porAlt": [
+   "Marca como falsas as três dimensões integradas e o TFD, ambos previstos na Portaria 1.559/2008.",
+   "Nega as três dimensões e a gestão de leitos pelo complexo regulador, que estão no texto da portaria.",
+   "Erra ao aceitar o SCNES para cadastrar usuários e ao negar o TFD pela regulação do acesso.",
+   "Correta: três dimensões integradas, usuários cadastrados no Cartão Nacional de Saúde, leitos geridos pelo complexo regulador e TFD pela regulação do acesso.",
+   "Aceita o SCNES para usuários e nega a gestão de leitos e agendas pelo complexo regulador."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 6,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "P.F.F.N., residente em Abaetetuba, realizou o uso dos serviços de saúde em seu município. Os serviços de saúde são ofertados pelos municípios respeitando a necessidade dos serviços locais, regionalização e hierarquização da rede de serviços de saúde. O princípio do Sistema Único de Saúde relacionado a esta conduta político-administrativa, com direção única em cada esfera do governo, é",
+  "alts": [
+   "descentralização.",
+   "preservação da autonomia das pessoas na defesa de sua integridade física e moral.",
+   "direito à informação, às pessoas assistidas, sobre sua saúde.",
+   "integração em nível executivo das ações no meio ambiente e saneamento básico.",
+   "direito à informação."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º, IX",
+  "coment": "O art. 7º, IX, da Lei 8.080/1990 define a descentralização político-administrativa, com direção única em cada esfera de governo, com ênfase na descentralização dos serviços para os municípios e na regionalização e hierarquização da rede. O caso descreve exatamente isso: o município oferta os serviços conforme a necessidade local, inserido na rede regionalizada. As demais alternativas são outros incisos do mesmo artigo, sem relação com a direção única por esfera.",
+  "porAlt": [
+   "Correta: descentralização político-administrativa com direção única em cada esfera de governo, municipalização e regionalização (art. 7º, IX).",
+   "A autonomia das pessoas na defesa de sua integridade é o inciso III do art. 7º, sem relação com a organização político-administrativa.",
+   "O direito à informação sobre a própria saúde é o inciso V, um direito do usuário, não a forma de organizar a gestão.",
+   "A integração das ações de saúde, meio ambiente e saneamento é o inciso X, que não trata de direção única.",
+   "O direito à informação é princípio do usuário e não descreve a direção única em cada esfera de governo."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 8,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "A população brasileira tem seu direito à saúde pública garantido por lei. Contudo, o financiamento tem sido motivo de discussões frequentes entre os gestores envolvidos na construção do Sistema Único de Saúde (SUS). O financiamento do SUS provém do",
+  "alts": [
+   "Orçamento de Investimento.",
+   "Orçamento da Seguridade Social.",
+   "Orçamento Fiscal.",
+   "Orçamento de Pessoal e Encargos de Contingência.",
+   "Orçamento de Segurança Pública."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, arts. 195 e 198, § 1º",
+  "coment": "O art. 198, § 1º, da Constituição determina que o SUS seja financiado com recursos do orçamento da seguridade social da União, dos Estados, do Distrito Federal e dos Municípios, além de outras fontes. A seguridade social, pelo art. 194, reúne saúde, previdência e assistência social, e o art. 195 define suas fontes de custeio. Os orçamentos fiscal e de investimento são outras peças da lei orçamentária, não a fonte constitucional da saúde.",
+  "porAlt": [
+   "O orçamento de investimento das empresas estatais não é a fonte constitucional do SUS.",
+   "Correta: o SUS é financiado com recursos do orçamento da seguridade social dos três entes, além de outras fontes (CF, art. 198, § 1º).",
+   "O orçamento fiscal é peça distinta da lei orçamentária; a Constituição vincula a saúde à seguridade social.",
+   "Não existe orçamento de pessoal e encargos de contingência como fonte de financiamento do SUS.",
+   "Segurança pública é área alheia à seguridade social e não financia o SUS."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 10,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "B.P.D., profissional da área da saúde, acredita que um protocolo pode ter um bom resultado terapêutico. Porém, para a elaboração e incorporação deste protocolo, deve seguir o fluxo de trabalho dos Protocolos Clínicos e Diretrizes Terapêuticas (PCDT) no âmbito da Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), para posteriormente possível implantação nos serviços de saúde. Quando não existe minuta do protocolo, este deverá ser analisado por um Comitê Gestor, após designar um Grupo Elaborador responsável pela construção do texto. É atribuição do Grupo Elaborador",
+  "alts": [
+   "selecionar a representação da Secretaria-Executiva da Conitec como opinião científica central.",
+   "emitir nota técnica expondo os motivos para constituição ou alteração de PCDT.",
+   "apresentar, no ato da protocolização, a documentação minuta de PCDT.",
+   "executar ações e programas estratégicos.",
+   "selecionar as evidências científicas encontradas na busca, de acordo com critérios previamente definidos na formulação das perguntas."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Lei 12.401/2011 e Decreto 7.646/2011 (Conitec)",
+  "coment": "Na elaboração de PCDT conduzida pela Conitec, criada pela Lei 12.401/2011 e regulamentada pelo Decreto 7.646/2011, o Comitê Gestor define o escopo e designa um Grupo Elaborador. Cabe a esse grupo o trabalho técnico: formular as perguntas, fazer a busca e selecionar as evidências segundo critérios definidos previamente, para então redigir a minuta. Emitir nota técnica de motivação e protocolar documentos são passos de quem demanda o protocolo; executar programas é papel da gestão.",
+  "porAlt": [
+   "O Grupo Elaborador não escolhe uma representação da Secretaria-Executiva como opinião central; ele trabalha com evidência sistematizada.",
+   "A nota técnica que justifica a criação ou alteração do PCDT acompanha a demanda, não é atribuição do Grupo Elaborador.",
+   "Apresentar minuta no ato da protocolização é do demandante; o enunciado trata justamente do caso em que não há minuta.",
+   "Executar ações e programas estratégicos é atribuição da gestão do SUS, não de quem elabora o protocolo.",
+   "Correta: o Grupo Elaborador seleciona as evidências encontradas na busca conforme critérios definidos na formulação das perguntas."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 11,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "A Política Nacional de Regulação do Sistema Único de Saúde (SUS) está organizada em três dimensões de atuação. A alternativa que se refere corretamente à dimensão e sua respectiva competência é",
+  "alts": [
+   "Regulação de Sistemas de Saúde: cadastramento de estabelecimentos e profissionais de saúde no Sistema de Cadastro Nacional de Estabelecimentos de Saúde.",
+   "Regulação da Atenção à Saúde: garantir a adequada prestação de serviços à população e produzir ações de auditoria, avaliação e incorporação de tecnologias em saúde.",
+   "Regulação do Acesso à Assistência: organização, controle, gerenciamento e priorização do acesso e dos fluxos assistenciais no âmbito do SUS.",
+   "Regulação da Atenção à Saúde: Avaliação e Incorporação de Tecnologias em Saúde.",
+   "Regulação de Acesso à Vigilância Sanitária e Epidemiológica: organização, controle, gerenciamento e priorização do sistema assistencial no âmbito do SUS."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.559/2008, art. 2º",
+  "coment": "A Portaria 1.559/2008 organiza a regulação em três dimensões. A Regulação de Sistemas de Saúde atua sobre os sistemas e inclui auditoria, avaliação e incorporação de tecnologias. A Regulação da Atenção à Saúde busca garantir a adequada prestação de serviços e inclui o cadastramento no SCNES. A Regulação do Acesso à Assistência, ou regulação assistencial, trata da organização, controle, gerenciamento e priorização do acesso e dos fluxos assistenciais no SUS. Só a alternativa C casa dimensão e competência.",
+  "porAlt": [
+   "O cadastramento no SCNES é ação da Regulação da Atenção à Saúde, não da Regulação de Sistemas.",
+   "Auditoria, avaliação e incorporação de tecnologias pertencem à Regulação de Sistemas de Saúde, não à Regulação da Atenção.",
+   "Correta: a Regulação do Acesso organiza, controla, gerencia e prioriza o acesso e os fluxos assistenciais no SUS.",
+   "Avaliação e incorporação de tecnologias é competência da Regulação de Sistemas de Saúde.",
+   "Não existe dimensão de regulação do acesso à vigilância sanitária e epidemiológica na portaria."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 12,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "Considerando a Portaria nº 529, de 1º de abril de 2013, que institui o Programa Nacional de Segurança do Paciente (PNSP), analise as asserções a seguir no que diz respeito aos objetivos específicos desse Programa contidos na referida Portaria.\nI. Promover e apoiar a implementação de iniciativas voltadas à segurança do paciente restrita à atenção primária.\nII. Envolver os pacientes e familiares nas ações de segurança do paciente.\nIII. Ampliar o acesso da sociedade às informações relativas à segurança do paciente.\nIV. Fiscalizar a inclusão do tema segurança do paciente na educação básica e ensino técnico.\nEstão corretas",
+  "alts": [
+   "I e II, somente.",
+   "I e III, somente.",
+   "I e IV, somente.",
+   "II e III, somente.",
+   "III e IV, somente."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 529/2013, art. 3º",
+  "coment": "O art. 3º da Portaria 529/2013 lista os objetivos específicos do PNSP: promover e apoiar iniciativas de segurança do paciente em diferentes áreas da atenção, organização e gestão de serviços; envolver pacientes e familiares; ampliar o acesso da sociedade às informações; produzir, sistematizar e difundir conhecimento; e fomentar a inclusão do tema no ensino técnico, de graduação e de pós-graduação. O item I erra ao restringir à atenção primária, e o IV erra ao falar em fiscalizar a educação básica.",
+  "porAlt": [
+   "Inclui o item I, que restringe o programa à atenção primária; o PNSP abrange diferentes áreas da atenção.",
+   "Inclui o item I, falso por limitar as iniciativas à atenção primária.",
+   "Inclui os itens I e IV, ambos falsos: o PNSP não é restrito à APS e fomenta, não fiscaliza, o ensino.",
+   "Correta: envolver pacientes e familiares e ampliar o acesso da sociedade às informações são objetivos específicos do art. 3º.",
+   "Inclui o item IV, falso: o objetivo é fomentar o tema no ensino técnico, de graduação e pós-graduação, não fiscalizar a educação básica."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 13,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "A Organização Mundial da Saúde (OMS) definiu, em 22 de janeiro, que “saúde é estado dinâmico de completo bem-estar físico, mental, espiritual e social e não só a ausência de doença”. Os profissionais de saúde, atentos às dimensões que envolvem a saúde/doença devem prestar atendimento humanizado, reconhecendo as singularidades do usuário. Nesse sentido, o princípio norteador da política de humanização no SUS, que favoreça o atendimento humanizado pelo profissional de saúde é",
+  "alts": [
+   "valorização da dimensão subjetiva e social da gestão, em contextos específicos, dos serviços de saúde.",
+   "fortalecimento do trabalho em equipe multiprofissional, estimulando a transdisciplinaridade e a grupalidade.",
+   "atuação em rede em alta complexidade, de modo cooperativo e solidário, em conformidade com as diretrizes de cada instituição.",
+   "fortalecimento da vigilância epidemiológica com caráter participativo em todas as instâncias gestoras do SUS.",
+   "estímulo a processos subjetivos, comprometidos com a produção de bens e serviços relacionados à saúde."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Política Nacional de Humanização, documento base HumanizaSUS (Ministério da Saúde, 2004)",
+  "coment": "Entre os princípios norteadores da PNH no documento base está o fortalecimento do trabalho em equipe multiprofissional, fomentando a transversalidade e a grupalidade, que sustenta o atendimento singular e humanizado. A banca trocou \"transversalidade\" por \"transdisciplinaridade\", mas a alternativa B é a única que preserva o sentido do princípio. As outras deformam princípios reais: a valorização da dimensão subjetiva e social vale para todas as práticas de atenção e gestão, as redes são cooperativas em todos os níveis, e o fortalecimento participativo é do controle social. A definição da OMS do enunciado também não é a oficial de 1946, que não inclui o termo espiritual.",
+  "porAlt": [
+   "Distorce o princípio: a valorização da dimensão subjetiva e social vale para todas as práticas de atenção e gestão, não só para a gestão em contextos específicos.",
+   "Correta: o fortalecimento do trabalho em equipe multiprofissional, com transversalidade e grupalidade, é princípio norteador da PNH.",
+   "A PNH prevê redes cooperativas e solidárias em todo o sistema, não restritas à alta complexidade nem às diretrizes de cada instituição.",
+   "O princípio participativo da PNH é o fortalecimento do controle social, não da vigilância epidemiológica.",
+   "A PNH estimula a produção de sujeitos autônomos e corresponsáveis, não processos voltados à produção de bens e serviços."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 14,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "J.M.O. é um líder comunitário das ações de saúde na Atenção Básica que tem buscado interagir junto ao sistema de saúde objetivando aprimorar a construção do cuidado à sua saúde e das pessoas e coletividades do território. O papel de J.M.O. é assegurado pela seguinte diretriz do Sistema Único de Saúde e da Rede de Atenção à Saúde operacionalizada na Atenção Básica:",
+  "alts": [
+   "Territorialização.",
+   "População Adscrita.",
+   "Coordenação do cuidado.",
+   "Longitudinalidade do cuidado.",
+   "Participação da comunidade."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB)",
+  "coment": "A PNAB (Portaria 2.436/2017) lista entre as diretrizes do SUS e da RAS operacionalizadas na Atenção Básica a participação da comunidade: estimular as pessoas a ampliar sua autonomia e capacidade na construção do cuidado à sua saúde e das pessoas e coletividades do território. O líder comunitário que interage com o sistema para aprimorar o cuidado do território exerce essa diretriz. Territorialização, adscrição, coordenação e longitudinalidade tratam da organização do cuidado pela equipe.",
+  "porAlt": [
+   "Territorialização é o planejamento das ações a partir do território, feito pela equipe, não a atuação do líder comunitário.",
+   "População adscrita é a vinculação da população à equipe para garantir responsabilização, não a participação do usuário.",
+   "Coordenação do cuidado é o papel da equipe de APS de elaborar e organizar o fluxo do usuário na rede.",
+   "Longitudinalidade é a continuidade da relação de cuidado ao longo do tempo, não a participação comunitária.",
+   "Correta: a participação da comunidade estimula as pessoas a construir o cuidado à própria saúde e à do território (PNAB 2017)."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 15,
+   "parte": "sus"
+  }
+ },
+ {
+  "q": "Atualmente, as Diretrizes Brasileiras para o rastreamento do câncer de colo uterino estão em processo de atualização. Em paralelo, o Ministério da Saúde (MS) está elaborando o plano de controle e eliminação do câncer de colo do útero para atingir as metas previstas pela Organização Mundial de Saúde (OMS). Em relação ao assunto, é correto afirmar:",
+  "alts": [
+   "A Nota Técnica Conjunta n° 63/2023 trata da inclusão de vítimas de violência sexual para vacinação contra o HPV de pessoas não vacinadas. Recomendam-se 3 doses (D0, D2, D6) tanto para imunocompetentes quanto para imunodeprimidos entre 9-45 anos.",
+   "A Nota Técnica Conjunta nº 101/2024 trata da vacina contra HPV para usuários da Profilaxia Pré-Exposição (PrEP) entre 30 e 45 anos, não vacinados, a qual deve ser ofertada em 3 doses (D0, D2, D6) ou devendo-se completar esquemas nos usuários previamente vacinados parcialmente, com peso superior a 35 kg.",
+   "A Nota Técnica n° 41/2024 atualiza as recomendações da vacina contra HPV no Brasil para a adoção de esquema vacinal de dose única a pessoas entre 9 e 14 anos; pessoas com até 19 anos, 11 meses e 29 dias na região Norte, com inclusão de pessoas portadoras de papilomatose respiratória recorrente.",
+   "A Nota Técnica n°1/2024 é destinada aos enfermeiros da atenção primária à saúde do Sistema Único de Saúde (SUS) e trata da mudança do método de rastreamento do câncer de colo de útero para informar sobre a portaria publicada relativa à incorporação do teste molecular para detecção do HPV oncogênico (DNA-HPV). Os esforços serão redobrados na busca de mulheres que nunca rastrearam ou que o fizeram há mais de 3 anos.",
+   "A Nota Técnica n° 36/2024 determina que, no caso de resultado positivo para HPV-16 ou 18, o enfermeiro deve encaminhar a mulher para colposcopia em nível secundário via regulação, sem necessidade de confirmação de exame citopatológico, independentemente da idade dela."
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Nota Técnica 41/2024-CGICI/DPNI/SVSA/MS; Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "A NT 41/2024 adotou a dose única da HPV4 de 9 a 14 anos, previu resgate de adolescentes não vacinados até 19 anos e incluiu a papilomatose respiratória recorrente como grupo prioritário. Hoje a IN do Calendário 2026 mantém a dose única de 9 a 14 anos e o resgate de 15 a 19 anos, 11 meses e 29 dias conforme a organização do estado; a PRR recebe 3 doses a partir de 2 anos. Vítimas de abuso sexual: 2 doses de 9 a 14 anos e 3 doses de 15 a 45 anos. PrEP: 3 doses de 15 a 45 anos. A restrição do resgate à região Norte, citada na alternativa, não se confirma nas fontes consultadas.",
+  "porAlt": [
+   "Erra o esquema: vítimas de violência sexual imunocompetentes de 9 a 14 anos recebem 2 doses; 3 doses valem de 15 a 45 anos.",
+   "Erra a faixa etária: usuários de PrEP recebem 3 doses de 15 a 45 anos, não de 30 a 45 anos.",
+   "Correta: a NT 41/2024 adotou a dose única de 9 a 14 anos, previu o resgate até 19 anos e incluiu a papilomatose respiratória recorrente.",
+   "Não é a afirmação aceita pela banca: o conteúdo não corresponde ao documento citado, e no rastreamento por DNA-HPV o intervalo após teste negativo é de 5 anos.",
+   "O encaminhamento direto à colposcopia no HPV-16 ou 18 vale dentro da faixa etária do rastreamento, não independentemente da idade."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 16,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando o Protocolo Clínico e Diretrizes Terapêuticas para Profilaxia Pós-Exposição (PEP) de Risco à Infecção pelo HIV, IST e hepatites virais (Brasil, 2021), assinale V (verdadeiro) ou F (falso) nas afirmativas a seguir.\n(__) O Parecer nº 12/2020/CTAS/COFEN trata da prescrição de PEP realizada por profissionais enfermeiros, para apoiar a organização dos processos de trabalho nos territórios, partindo da lógica do cuidado integral e multidisciplinar.\n(__) Sangue, sêmen, fluidos vaginais, líquor e urina são materiais biológicos com risco de transmissão do HIV.\n(__) A duração da PEP é de 28 dias, cujo esquema preferencial é composto por 1 comprimido coformulado de tenofovir/lamivudina (TDF/3TC) 300mg/300mg + 1 comprimido de dolutegravir (DTG) 50mg ao dia.\n(__) A oferta e dispensação da PEP pode acontecer na rede pública ou privada.\n(__) A PEP é indicada em caso de amostras de teste rápido reagentes (TR1 e TR2 reagentes).\nA sequência correta é",
+  "alts": [
+   "F – V – F – V – V.",
+   "V – F – V – F – F.",
+   "V – F – F – V – F.",
+   "F – F – V – F – V.",
+   "V – V – F – F – F."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "HIV e aids",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "PCDT para Profilaxia Pós-Exposição (PEP) de risco à infecção pelo HIV, IST e hepatites virais (Ministério da Saúde, 2021)",
+  "coment": "O PCDT de PEP (2021) prevê 28 dias de profilaxia com o esquema preferencial de 1 comprimido coformulado de TDF/3TC 300/300 mg mais 1 comprimido de DTG 50 mg ao dia, e o parecer do COFEN respalda a prescrição de PEP pelo enfermeiro. Urina, fezes, saliva e suor sem sangue não são materiais de risco para o HIV. Se a pessoa exposta tem TR1 e TR2 reagentes, ela já vive com HIV: a PEP não está indicada e ela deve ser encaminhada para tratamento. A banca considerou falsa a oferta na rede privada, porque a dispensação dos antirretrovirais é feita pelo SUS.",
+  "porAlt": [
+   "Erra ao considerar a urina material de risco e ao indicar PEP com dois testes rápidos reagentes, que confirmam infecção pelo HIV.",
+   "Correta: parecer do COFEN sobre prescrição por enfermeiro, 28 dias de TDF/3TC mais DTG, urina sem risco, dispensação no SUS e PEP contraindicada com TR1 e TR2 reagentes.",
+   "Nega o esquema preferencial de 28 dias com TDF/3TC mais DTG, que é exatamente o previsto no PCDT.",
+   "Nega o respaldo do COFEN à prescrição de PEP pelo enfermeiro e indica PEP para quem já tem HIV confirmado.",
+   "Considera a urina material de risco e nega o esquema preferencial de 28 dias do PCDT."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 17,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Leia o caso clínico a seguir.\nMulher jovem, 32 anos, com histórico de câncer em mama esquerda e direita, submetida à mastectomia total e linfadenectomia axilar bilateral, seguida de quimioirradiação. Posteriormente, apresentou metástase hepática e pulmonar, sendo iniciados cuidados paliativos. Em 03/10/24, às 7h, internou-se, sonolenta, no pronto atendimento da referida instituição, com queixa de tosse secretiva, febre e dor intensa, fez exames de imagem e laboratoriais, sendo prescritas as seguintes medicações.\nNome: XXXX; Mat: XXXX\n500 mg/dia ceftriaxone diluído em SF 0,9% 100 ml, administrar por 60 minutos via SC. Aprazamento: 8h\n24 mg/dia dexametasona diluído em SF 0,9% 50 mL, administrar por 30 minutos via SC. Aprazamento: 8h\n1g dipirona 6/6h diluído em 20ml, administrar em bolus. Aprazamento: 8 -14- 20- 02\n2 mg de morfina 4/4h sem diluição, administrar lentamente por SC. Aprazamento: 8 -12-16-20-24- 4\nApós 10 dias de hipodermóclise, a paciente evoluiu com complicações locais do tipo edema, calor, rubor ou dor persistente.\nEm relação ao quadro clínico apresentado, é correto afirmar:",
+  "alts": [
+   "A hipodermóclise poderia ser realizada na presença de trombocitopenia.",
+   "A via deltoidea é a prioridade de escolha para a administração das medicações prescritas nessa paciente, visto que essa via suporta até 250ml em 24h.",
+   "Há incompatibilidade de medicamentos prescritos para serem administrados pelo mesmo sítio. Logo, é indicado que se tenham dois sítios de punções para hipodermóclise e que um deles seja exclusivo da dexametasona.",
+   "Podem ser administradas todas as medicações das 8h no mesmo sítio de punção, desde que se faça a lavagem com 10ml de SF 0,9% entre elas.",
+   "São indicados como medidas de manejo da complicação local apresentada pela paciente: a retirada do cateter, a realização de uma nova punção com no máximo 5 cm de distância e o acompanhamento pelo enfermeiro diariamente."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Punção venosa e terapia infusional",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Terapia subcutânea no câncer avançado (INCA, 2009)",
+  "coment": "Na hipodermóclise, a dexametasona é incompatível com vários fármacos e deve correr em sítio exclusivo, por isso a prescrição pede dois sítios de punção, um deles só para ela. O manual do INCA (2009) aponta volumes máximos por região: deltoide e região anterior do tórax suportam cerca de 250 mL em 24 h, enquanto abdome e coxa suportam mais, de modo que o deltoide não é a escolha prioritária. Diante de edema, calor, rubor ou dor persistente, retira-se o cateter e faz-se nova punção a pelo menos 5 cm do sítio anterior. Trombocitopenia grave e distúrbios de coagulação contraindicam a via.",
+  "porAlt": [
+   "Trombocitopenia grave e distúrbios de coagulação contraindicam a hipodermóclise pelo risco de sangramento local.",
+   "O deltoide suporta cerca de 250 mL em 24 h, mas não é a região prioritária; abdome e coxa comportam volumes maiores.",
+   "Correta: a dexametasona é incompatível com outros fármacos na via subcutânea e precisa de sítio exclusivo, por isso dois sítios.",
+   "Lavar com SF 0,9% entre as doses não resolve a incompatibilidade: a dexametasona não deve dividir o sítio com os demais fármacos.",
+   "A nova punção deve ficar a pelo menos 5 cm do sítio anterior, não a no máximo 5 cm."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 18,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A rifampicina é um fármaco essencial no tratamento padronizado de primeira linha para tuberculose (esquema básico). Em relação a esse fármaco, assinale V (verdadeiro) ou F (falso) nas afirmativas a seguir.\n(__) A rifampicina tem como função a inibição da síntese de RNA, atuando no meio intracelular (macrófago), nas lesões caseosas e na cavidade pulmonar.\n(__) O teste rápido molecular para tuberculose (TRM-TB) é indicado para triagem de resistência à rifampicina nos casos de retratamento e para triagem de resistência à rifampicina nos casos com suspeita de falência.\n(__) Em se tratando de resistência à rifampicina detectada por meio de diagnóstico de casos novos de tuberculose pulmonar e laríngea em adultos e adolescentes baseado no TRM-TB, deve-se repetir o TRM-TB, fazer cultura, teste de sensibilidade e encaminhar para referência terciária.\n(__) A rifampicina pode causar reações adversas menores que não indicam, normalmente, a suspensão do tratamento como epigastralgia, suor ou urina de cor avermelhada, artralgia e neuropatia periférica.\n(__) A rifampicina pode causar reações adversas maiores que, normalmente, indicam suspensão do tratamento como exantema, psicose, hepatotoxicidade, nefrite intersticial e rabdomiólise.\nA sequência correta é",
+  "alts": [
+   "V – V – V – F – F.",
+   "F – F – F – V – V.",
+   "F – V – F – V – F.",
+   "V – V – V – V– V.",
+   "F – F – F – F – F."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada (Ministério da Saúde, 2019)",
+  "coment": "A rifampicina inibe a síntese de RNA e age sobre bacilos intracelulares, nas lesões caseosas e na cavidade. O TRM-TB é indicado para triar resistência à rifampicina no retratamento e na suspeita de falência; em caso novo com resistência detectada, repete-se o TRM-TB, faz-se cultura com teste de sensibilidade e encaminha-se à referência terciária. Os dois últimos itens são falsos porque atribuem à rifampicina reações de outros fármacos: artralgia é da pirazinamida e da isoniazida, neuropatia periférica é da isoniazida e do etambutol, psicose é da isoniazida e rabdomiólise é da pirazinamida (Manual 2019).",
+  "porAlt": [
+   "Correta: os três primeiros itens descrevem o mecanismo da rifampicina e o uso do TRM-TB, e os dois últimos atribuem a ela reações de outros fármacos.",
+   "Nega o mecanismo da rifampicina e o uso do TRM-TB e aceita listas de reações que misturam fármacos do esquema básico.",
+   "Nega o mecanismo e a conduta na resistência detectada e aceita reações menores que não são da rifampicina.",
+   "Aceita os itens 4 e 5, mas artralgia, neuropatia, psicose e rabdomiólise não são reações típicas da rifampicina.",
+   "Nega fatos corretos: a rifampicina inibe a síntese de RNA e o TRM-TB tria resistência no retratamento e na falência."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 19,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O diagnóstico de enfermagem “Risco de lesão do trato urinário é definido como suscetível a danos nas estruturas do trato urinário pelo uso de cateteres, o que pode comprometer a saúde” (NANDA, 2022). Esse diagnóstico está associado à seguinte condição:",
+  "alts": [
+   "Uso de cateter urinário de pequeno calibre.",
+   "Relaxamento adequado do esfíncter detrusor.",
+   "Alergia ao látex.",
+   "Indivíduos em idades jovens, sexo masculino e autossuficientes no autocuidado.",
+   "Caquexia."
+  ],
+  "gab": 2,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NANDA-I, Diagnósticos de enfermagem: definições e classificação 2021-2023",
+  "coment": "Em \"Risco de lesão do trato urinário\" (NANDA-I 2021-2023), a alergia ao látex aparece entre as condições associadas, ao lado do uso de cateter de grande calibre e de cateterismos múltiplos ou prolongados. O látex do cateter pode provocar reação e lesão da mucosa uretral. As demais alternativas invertem o fator: o risco vem do cateter de grande calibre, da disfunção esfincteriana e dos extremos de idade, não das condições opostas. A edição vigente em 2026 é a 2024-2026.",
+  "porAlt": [
+   "O fator associado é o cateter de grande calibre; o de pequeno calibre reduz o trauma uretral.",
+   "Relaxamento adequado não é fator de risco; o que aumenta o risco é a disfunção do esfíncter.",
+   "Correta: a alergia ao látex é condição associada ao risco de lesão do trato urinário pelo uso de cateteres.",
+   "Juventude e autonomia no autocuidado não são fatores de risco; a população em risco inclui os extremos de idade.",
+   "Caquexia não está entre os fatores ou condições associadas desse diagnóstico."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 21,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "“Volume de líquido deficiente é definido como diminuição intravascular, intersticial e/ou intracelular. Refere-se à desidratação, perda de água apenas, sem mudança no sódio” (NANDA, 2022). Esse diagnóstico de enfermagem apresenta como característica definidora sérica:",
+  "alts": [
+   "Plaquetas aumentadas.",
+   "Linfócitos aumentados.",
+   "Eosinófilos aumentados.",
+   "Hematócritos aumentados.",
+   "Hemácias aumentadas."
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "NANDA-I, Diagnósticos de enfermagem: definições e classificação 2021-2023",
+  "coment": "Em \"Volume de líquidos deficiente\", a perda de água reduz o plasma e concentra os elementos do sangue, por isso o hematócrito aumentado é característica definidora laboratorial, ao lado da elevação da osmolalidade urinária. A hemoconcentração afeta o percentual de células no volume total, que é o que o hematócrito mede. Contagens de plaquetas, linfócitos e eosinófilos refletem outros processos, como inflamação, alergia ou distúrbio hematológico, e não são critérios do diagnóstico.",
+  "porAlt": [
+   "Plaquetas aumentadas não são característica definidora da desidratação na NANDA-I.",
+   "Linfocitose indica processo infeccioso ou hematológico, não déficit de volume.",
+   "Eosinofilia sugere alergia ou parasitose, não perda de líquido.",
+   "Correta: a hemoconcentração da desidratação eleva o hematócrito, característica definidora do diagnóstico.",
+   "A NANDA-I usa o hematócrito, e não a contagem de hemácias, como característica definidora sérica."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 22,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Resolução Cofen nº 567/2018 regulamentou a atuação da equipe de enfermagem no cuidado aos pacientes com feridas. O curativo é um meio terapêutico que consiste na limpeza e aplicação de uma cobertura estéril em uma ferida, com o objetivo de proteger, aliviar a dor, promover a rápida cicatrização e prevenir a contaminação ou infecção. A escolha do curativo depende do tipo de ferida, estágio de cicatrização e processo de cicatrização de cada paciente (ANVISA, 2017). Considerando os tipos de cobertura e sua indicação descritos pelas medidas de prevenção de infecção relacionada à assistência à saúde, associe as duas colunas.\nI. Alginato de cálcio\nII. Hidrogel\nIII. Carvão ativado e prata\nIV. Espumas de poliuretano\nV. Hidrofibra com prata\n1. Feridas infectadas, fétidas e altamente exsudativas. Não utilizar em áreas de exposição óssea.\n2. Tratamento de lesões de pele superficiais que cicatrizam por segunda intenção, lesões profundas, em fase de granulação com níveis de exsudato moderados ou elevados.\n3. Feridas cavitárias, exsudativas, tecido vinhoso e áreas de exposição óssea.\n4. Feridas com exsudação abundante com ou sem infecção, feridas cavitárias, feridas sanguinolentas (queimaduras de 2° grau, pressão e vasculares).\n5. Desbridamento autolítico e hidratação da ferida.\nA sequência correta é",
+  "alts": [
+   "I3 – II5 – III1 – IV2 – V4",
+   "I1 – II4 – III2 – IV5 – V3",
+   "I2 – II3 – III5 – IV4 – V1",
+   "I5 – II1 – III4 – IV3 – V2",
+   "I4 – II2 – III3 – IV1 – V5"
+  ],
+  "gab": 0,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (2017); Resolução COFEN 787/2025",
+  "coment": "Alginato de cálcio serve a feridas cavitárias e exsudativas, com tecido vinhoso, e pode ser usado com exposição óssea. Hidrogel promove desbridamento autolítico e hidrata o leito. Carvão ativado com prata é para feridas infectadas, fétidas e muito exsudativas, sem uso sobre osso exposto. Espuma de poliuretano serve a lesões em granulação com exsudato moderado a alto. Hidrofibra com prata absorve exsudato abundante, com ou sem infecção, em feridas cavitárias e sanguinolentas. A Res. COFEN 567/2018, citada no enunciado, foi revogada pela Res. COFEN 787/2025, que hoje regula a atuação em lesões cutâneas.",
+  "porAlt": [
+   "Correta: alginato para cavitárias exsudativas, hidrogel para desbridamento autolítico, carvão com prata para infectadas fétidas, espuma para granulação exsudativa e hidrofibra com prata para exsudato abundante.",
+   "Atribui ao alginato a indicação do carvão ativado e ao hidrogel a da hidrofibra, que exigem alta absorção.",
+   "Põe o hidrogel em ferida exsudativa e cavitária, quando ele hidrata leitos secos.",
+   "Associa o alginato ao desbridamento autolítico e o hidrogel a feridas infectadas e fétidas, ambos errados.",
+   "Atribui ao carvão ativado o uso em exposição óssea, justamente o que o fabricante contraindica."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 23,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o guia de boas práticas para o preparo do leito da lesão (Sobest, 2016), o desbridamento é um componente importante no gerenciamento da ferida e pode ser definido como o ato de remoção de material necrótico, tecido desvitalizado, crostas, tecido infectado, hiperqueratose, corpos estranhos, fragmentos de ossos, micro-organismos ou qualquer outro tipo de carga biológica de uma ferida com o objetivo de promover a sua cicatrização. O desbridamento no paciente deve ser realizado em caso de",
+  "alts": [
+   "doença em fase terminal.",
+   "escara estável no calcanhar.",
+   "escara seca em membros isquêmicos.",
+   "doença de base com boa perfusão.",
+   "uso de enoxaparina sódica."
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "SOBEST, Guia de boas práticas: preparo do leito da ferida (2016)",
+  "coment": "O desbridamento remove tecido desvitalizado e carga biológica para permitir a cicatrização, mas só faz sentido quando o leito tem perfusão capaz de cicatrizar. Por isso a doença de base com boa perfusão é situação de indicação. São situações de cautela ou contraindicação: doença terminal, em que o objetivo é conforto; escara estável e seca no calcanhar ou em membro isquêmico, que funciona como barreira natural e não deve ser removida; e uso de anticoagulante como a enoxaparina, que eleva o risco de sangramento no desbridamento instrumental.",
+  "porAlt": [
+   "Na doença terminal o foco é conforto e controle de sintomas; desbridar não traz benefício e causa dor.",
+   "Escara estável e seca no calcanhar é barreira protetora e deve ser mantida, não desbridada.",
+   "Em membro isquêmico, a escara seca protege contra infecção; desbridar sem perfusão expõe tecido que não cicatriza.",
+   "Correta: com boa perfusão, o leito tem capacidade de cicatrizar após a remoção do tecido desvitalizado.",
+   "Anticoagulantes como a enoxaparina aumentam o risco de sangramento e pedem cautela no desbridamento instrumental."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 24,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O protocolo clínico e diretrizes terapêuticas para atenção integral às pessoas com infecções sexualmente transmissíveis (IST) (Brasil, 2022) traz recomendações sobre o rastreamento de HIV e sífilis. Em relação ao assunto, analise as afirmativas a seguir.\nI. Adolescentes e jovens (≤30 anos) devem fazer rastreamento anual para HIV e sífilis.\nII. As gestantes devem realizar rastreamento para HIV e sífilis no 1º trimestre da gestação, no início do 3º trimestre, no parto, ou em caso de aborto/natimorto.\nIII. Gays e HSH, profissionais do sexo, travestis/transexuais e pessoas que fazem uso abusivo de álcool e outras drogas devem realizar o rastreamento a cada três meses.\nIV. Rastreamento apenas para HIV no momento do diagnóstico para tuberculose e hepatites virais.\nV. Rastreamento em pessoa privada de liberdade deve ser semestral para HIV e anual para sífilis.\nEstão corretas",
+  "alts": [
+   "I, II, III, IV e V.",
+   "I, III e IV, apenas.",
+   "I, II e IV, apenas.",
+   "II, III e V, apenas.",
+   "III, IV e V, apenas"
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "PCDT para Atenção Integral às Pessoas com IST (Ministério da Saúde, 2022)",
+  "coment": "A tabela de rastreamento do PCDT IST (2022) recomenda HIV e sífilis anuais para adolescentes e jovens até 30 anos; para gestantes, testagem no 1º trimestre, no início do 3º trimestre, no parto e em caso de aborto ou natimorto; e HIV no momento do diagnóstico de tuberculose e de hepatites virais. Para gays e HSH, profissionais do sexo, pessoas trans e pessoas que usam álcool e outras drogas, a periodicidade é semestral, não trimestral; a testagem trimestral é a do acompanhamento da PrEP. A periodicidade descrita para pessoas privadas de liberdade também não é a da tabela. A banca retificou o gabarito para esta letra.",
+  "porAlt": [
+   "Inclui os itens III e V, cujas periodicidades não correspondem à tabela do PCDT IST 2022.",
+   "Inclui o item III, falso: para as populações-chave o rastreamento é semestral, e exclui as gestantes, cujo esquema está correto.",
+   "Correta: jovens até 30 anos anualmente, gestantes no 1º e 3º trimestres e no parto, e HIV no diagnóstico de tuberculose e hepatites.",
+   "Inclui os itens III e V, falsos, e exclui o rastreamento anual de jovens até 30 anos.",
+   "Exclui os itens I e II, corretos, e inclui as periodicidades erradas dos itens III e V."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 25,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Eudora é portuguesa, 30 anos, sedentária, mora sozinha e está com cefaleia. A sua vizinha ofereceu-lhe um frasco de 15ml de paracetamol com concentração 200mg/dL sabor tutti-frutti, sem qualquer explicação, pois Eudora é acadêmica de enfermagem. A estudante aproveitou para pesquisar na internet sobre hábitos de vida saudáveis recomendados pelo ministério da saúde e a posologia da medicação, que foi de 10mg/kg/dose. Dados de Eudora: 83 kg, 1,68m e 90cm de circunferência abdominal. Com base no quadro clínico de Eudora, é correto afirmar que a paciente",
+  "alts": [
+   "Está classificada como caso de obesidade grau I devido ao resultado do cálculo do IMC.",
+   "Não tem risco cardiovascular elevado por ser de etnia caucasiana e apresentar essa circunferência abdominal.",
+   "Deverá administrar 83 gotas do medicamento para atingir a posologia adequada.",
+   "Deve marcar uma consulta na atenção primária para receber o medicamento sibutramina, que foi recentemente avaliado pela Conitec e recomendado para incorporação ao SUS.",
+   "Deve aumentar o consumo de alimentos in natura e hiperprocessados."
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Cálculo de dose e diluição",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Guia Alimentar para a População Brasileira, 2ª ed. (Ministério da Saúde, 2014); classificação do IMC da OMS (2000)",
+  "coment": "Dose: 10 mg/kg x 83 kg = 830 mg. Com a apresentação usual de paracetamol em gotas, 200 mg/mL, e a equivalência de 20 gotas por mL (10 mg por gota), 830 mg correspondem a 83 gotas. O enunciado escreve 200 mg/dL, erro da banca: com 200 mg/dL a conta não fecha, e a resposta só vale com 200 mg/mL. O número de gotas por mL depende do conta-gotas, por isso confira sempre a bula. IMC = 83 / 1,68² = 29,4 kg/m², sobrepeso pela OMS. Circunferência abdominal de 90 cm na mulher indica risco cardiovascular aumentado. O Guia Alimentar manda evitar ultraprocessados.",
+  "porAlt": [
+   "IMC de 29,4 kg/m² é sobrepeso; obesidade grau I começa em 30 kg/m² (OMS).",
+   "Circunferência abdominal de 90 cm em mulher já indica risco cardiovascular aumentado, qualquer que seja a etnia.",
+   "Correta: 10 mg/kg x 83 kg = 830 mg; a 200 mg/mL com 20 gotas por mL, são 83 gotas.",
+   "Sibutramina é anorexígeno de uso controlado, sem indicação para quem tem sobrepeso e procura só aliviar a cefaleia.",
+   "O Guia Alimentar recomenda alimentos in natura e minimamente processados e manda evitar os ultraprocessados."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 26,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Pacientes críticos estão sujeitos a distúrbios do equilíbrio acidobásico. A gasometria arterial é uma parte essencial do diagnóstico e gerenciamento da oxigenação e do equilíbrio acidobásico. Dessa forma, quando temos um paciente com a PaCO2 menor que 35 mmHg e o pH maior que 7,45, dizemos que ele se encontra na seguinte situação:",
+  "alts": [
+   "Hiperventilando com acidose respiratória.",
+   "Hipoventilando com acidose respiratória.",
+   "Hiperventilando com alcalose respiratória.",
+   "Hipoventilando com alcalose respiratória.",
+   "Hiperventilando com alcalose metabólica."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Distúrbios hidroeletrolíticos",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guyton e Hall, Tratado de Fisiologia Médica, 13ª ed. (2017)",
+  "coment": "Os valores normais são pH de 7,35 a 7,45 e PaCO2 de 35 a 45 mmHg. pH acima de 7,45 é alcalemia; PaCO2 abaixo de 35 mmHg mostra que o paciente elimina CO2 demais, ou seja, hiperventila. Como o CO2 é ácido volátil, sua queda eleva o pH na mesma direção do distúrbio, o que define a origem respiratória. Logo: hiperventilação com alcalose respiratória. Se o bicarbonato estivesse alto com PaCO2 normal ou alta, o distúrbio seria metabólico.",
+  "porAlt": [
+   "Acidose exige pH abaixo de 7,35; aqui o pH está acima de 7,45.",
+   "Hipoventilação retém CO2 e eleva a PaCO2, o oposto do quadro.",
+   "Correta: PaCO2 baixa por hiperventilação eleva o pH, caracterizando alcalose respiratória.",
+   "Na hipoventilação a PaCO2 sobe e o pH cai; não há alcalose respiratória por hipoventilação.",
+   "Alcalose metabólica depende de bicarbonato elevado; a PaCO2 baixa com pH alto aponta causa respiratória."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 27,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo a American Heart Association (2020), a ressuscitação cardiopulmonar (RCP) de alta qualidade envolve práticas efetivas para aumentar as chances de sobrevivência de uma pessoa em parada cardiopulmonar. Sobre a qualidade da reanimação, é correto afirmar:",
+  "alts": [
+   "Na compressão, manter a frequência de compressão de 100 a 120 /min com profundidade de compressão de pelo menos 5 cm e retorno total do tórax a cada compressão, minimizar as interrupções nas compressões e na ventilação com via área avançada uma ventilação a cada 6 segundos.",
+   "Na compressão, manter a frequência de compressão de 100 a 120 /min com profundidade de compressão de pelo menos 5 cm, minimizando as interrupções nas compressões e na ventilação com via área avançada uma relação de 30:2 compressão-ventilação.",
+   "Na compressão, manter a frequência de compressão de 90 a 100 /min com profundidade de compressão de pelo menos 6 cm, esperar o retorno total do tórax a cada compressão minimizando as interrupções nas compressões e na ventilação com via área avançada uma ventilação a cada 10 segundos.",
+   "Na compressão, manter a frequência de compressão de 100 a 120 /min com profundidade de compressão de pelo menos 6 cm, minimizando as interrupções nas compressões e na ventilação sem via área avançada manter 10 ventilações por minuto.",
+   "Na compressão, manter a frequência de compressão de 90 a 100 /min com profundidade de compressão de pelo menos 5 cm, minimizando as interrupções nas compressões e na ventilação sem via área avançada uma relação de 30:2 compressão-ventilação."
+  ],
+  "gab": 0,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "AHA, Destaques das Diretrizes de RCP e ACE 2020; parâmetros mantidos nas Diretrizes AHA 2025",
+  "coment": "A RCP de alta qualidade da AHA (2020) exige compressões de 100 a 120 por minuto, profundidade de pelo menos 5 cm (sem passar de 6 cm no adulto), retorno total do tórax após cada compressão e mínimo de interrupções. Sem via aérea avançada, a relação é 30:2. Com via aérea avançada, as compressões são contínuas e se faz 1 ventilação a cada 6 segundos (10 por minuto), sem pausa. As Diretrizes AHA 2025 mantêm esses parâmetros.",
+  "porAlt": [
+   "Correta: 100 a 120 compressões por minuto, pelo menos 5 cm, retorno total do tórax, mínimo de interrupções e 1 ventilação a cada 6 s com via aérea avançada.",
+   "Com via aérea avançada não se usa 30:2; as compressões são contínuas, com 1 ventilação a cada 6 segundos.",
+   "Frequência de 90 a 100 por minuto é insuficiente, e com via aérea avançada a ventilação é a cada 6 s, não a cada 10 s.",
+   "A profundidade mínima é 5 cm, e sem via aérea avançada a regra é 30:2, não 10 ventilações por minuto.",
+   "A frequência mínima de compressão é 100 por minuto, não 90."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 28,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo o Ministério da Saúde, a sífilis tem apresentado uma reemergência em várias partes do mundo, inclusive no Brasil. Diante disso, os profissionais de saúde devem estar aptos a identificar as manifestações clínicas para condução do diagnóstico e controle do tratamento da doença. Dessa forma, a sífilis é dividida em estágios que orientam o seu tratamento e monitoramento. Sobre os estágios da sífilis, analise as afirmativas a seguir.\nI. Na sífilis primária, a primeira manifestação é caracterizada por uma úlcera rica em treponemas, geralmente única e dolorosa, com bordas irregulares, base endurecida e fundo limpo, que surge no local de entrada da bactéria sendo denominada “cancro duro”.\nII. Na sífilis secundária, inicialmente apresenta-se uma erupção macular eritematosa pouco visível (roséola), principalmente no tronco e raiz dos membros. Nessa fase, são comuns as placas em mucosas, assim como lesões acinzentadas e pouco visíveis nas mucosas. As lesões cutâneas progridem para lesões mais evidentes, papulosas e eritematoacastanhadas, que podem atingir todo o tegumento, sendo frequentes nos genitais.\nIII. Na sífilis terciária, a inflamação causada nesse estágio provoca destruição tecidual. É comum o acometimento dos sistemas nervoso e cardiovascular. Além disso, verifica-se a formação de gomas sifilíticas na pele, mucosas, ossos ou qualquer tecido. As lesões podem causar desfiguração, incapacidade e até morte.\nIV. A sífilis latente corresponde ao período em que não se observa nenhum sinal ou sintoma. O diagnóstico faz-se exclusivamente pela reatividade dos testes treponêmicos e não treponêmicos. A maioria dos diagnósticos ocorre nesse estágio.\nEstão corretas",
+  "alts": [
+   "I, II e III, apenas.",
+   "II, III e IV, apenas.",
+   "I, II e IV, apenas.",
+   "II e III, apenas.",
+   "I e IV, apenas."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "PCDT para Atenção Integral às Pessoas com IST (Ministério da Saúde, 2022)",
+  "coment": "O cancro duro da sífilis primária é úlcera geralmente única e INDOLOR, com base endurecida e fundo limpo, rica em treponemas: por isso o item I é falso. Os demais seguem o PCDT IST (2022): na secundária há roséola, placas mucosas e lesões papulosas que podem atingir todo o tegumento; na terciária há destruição tecidual, gomas e acometimento neurológico e cardiovascular; na latente não há sinais nem sintomas, o diagnóstico depende da reatividade dos testes treponêmicos e não treponêmicos, e a maioria dos casos é diagnosticada nessa fase.",
+  "porAlt": [
+   "Inclui o item I, falso: o cancro duro é indolor, e exclui o item IV, que descreve corretamente a sífilis latente.",
+   "Correta: secundária, terciária e latente estão descritas como no PCDT; o item I erra ao chamar o cancro duro de doloroso.",
+   "Inclui o item I, falso por descrever o cancro duro como doloroso, e exclui a sífilis terciária.",
+   "Exclui o item IV, que está correto: a sífilis latente é assintomática e diagnosticada pelos testes.",
+   "Inclui o item I, falso, e deixa de fora as descrições corretas das fases secundária e terciária."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 29,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O conhecimento dos profissionais quanto às práticas de segurança para a prevenção de incidentes, incluindo a lesão por pressão, é crucial para a promoção da qualificação do cuidado. As práticas de segurança para evitar a ocorrência de lesão por pressão no contexto da assistência dos serviços de saúde envolvem critérios estabelecidos para a prática assistencial. Sobre esse assunto, é correto afirmar que se deve proceder à",
+  "alts": [
+   "realização de avaliação de risco por meio de escalas validadas no Brasil de pacientes admitidos com acompanhamento semanal do risco desses pacientes durante todo o período de internação, assim como na vigência e alteração da condição clínica.",
+   "avaliação completa da pele nas regiões de proeminências ósseas (exemplos: região sacral, calcâneos, trocânteres, occipital, joelhos e cotovelos), por meio de exame físico, com atenção para as regiões submetidas à pressão por dispositivos para a saúde, como cateteres, tubos, sondas, drenos, que não são áreas consideradas para lesão por pressão.",
+   "avaliação e realização da prescrição de enfermagem para a mudança de posicionamento periódico do indivíduo, de forma a reduzir o risco de desenvolvimento de lesão por pressão, não sendo recomendado em pacientes graves.",
+   "avaliação criteriosa e específica para peles negras, levando em consideração a pluralidade de cores de pele associada aos níveis de melanina, pois o eritema inicial da lesão por pressão pode não ser tão facilmente identificado. Nesses casos, acionar medidas adicionais como a avaliação de mudanças na sensibilidade, temperatura ou consistência da pele.",
+   "implementação de um regime de cuidados com a pele que incluam a manutenção da pele limpa e adequadamente hidratada, evitando a utilização de sabonetes e produtos de limpeza alcalinos e a hidratação da pele diariamente com hidratantes e umectantes massageando as proeminências ósseas e áreas hiperemiadas com movimentos firmes e circulares."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Prevenção de quedas e de lesão por pressão",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Protocolo para Prevenção de Úlcera por Pressão (Portaria GM/MS 1.377/2013); diretriz EPUAP/NPIAP/PPPIA (2019)",
+  "coment": "Em pele escura o eritema inicial pode não ser visível, então a avaliação deve incluir temperatura, edema, consistência do tecido e sensibilidade em relação à pele vizinha, como recomenda a diretriz internacional (2019). O protocolo do MS (2013) pede avaliação de risco com escala validada na admissão e reavaliação diária ou a cada mudança clínica, não semanal. As regiões sob dispositivos médicos também desenvolvem lesão por pressão. A mudança de decúbito vale também para pacientes graves, adaptada à tolerância. Massagear proeminências ósseas ou áreas hiperemiadas é contraindicado.",
+  "porAlt": [
+   "A reavaliação do risco é diária ou a cada mudança clínica, não semanal.",
+   "Áreas sob cateteres, tubos, sondas e drenos também sofrem lesão por pressão relacionada a dispositivo.",
+   "A mudança de posição é recomendada também no paciente grave, ajustada à sua tolerância.",
+   "Correta: em pele negra o eritema pode passar despercebido, e a avaliação deve incluir temperatura, sensibilidade e consistência.",
+   "Massagear proeminências ósseas e áreas hiperemiadas é contraindicado, pois lesa os tecidos já comprometidos."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 30,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo o Instituto Latino Americano de Sepse (ILAS), a enfermagem tem um papel relevante no diagnóstico e tratamento do paciente séptico devido ao fato de permanecer a maior parte do tempo à beira do leito, identificando e atuando frente às necessidades humanas básicas afetadas e contribuindo com a equipe multiprofissional na instituição de tratamentos e cuidados pertinentes, precocemente, o que pode contribuir para o aumento da sobrevida. Sobre o assunto, assinale V (Verdadeiro) ou F (Falso) nas afirmativas a seguir.\n(__) Na abordagem inicial da sepse, a enfermagem deve estar atenta às manifestações clínicas de hipoperfusão, tais como: rebaixamento do nível de consciência, queda do débito urinário, queda da pressão arterial e diminuição da oxigenação.\n(__) Avaliação de parâmetros hemodinâmicos como frequência cardíaca, pressão arterial, débito cardíaco, pressão venosa central, pressão intra-abdominal, saturação de oxigênio e coleta de enzimas cardíacas, são ações imediatas no tratamento da sepse.\n(__) Medidas como punção de acesso venoso calibroso para assegurar a reposição volêmica agressiva, medida de débito urinário, seja por meio de sondas ou outros dispositivos, coleta de gasometria arterial com lactato, culturas e outros exames reforçam o valor da enfermagem no cenário da sepse.\n(__) Atentar para a necessidade do início precoce da infusão de drogas vasoativas no paciente que apresenta hipotensão arterial, mesmo durante a ressuscitação volêmica, assim como para a administração rápida do antibiótico prescrito, após a coleta das culturas.\nA sequência correta é",
+  "alts": [
+   "V – F – V – V.",
+   "V – F – F – V.",
+   "F – V – F – V.",
+   "V – F – V – F.",
+   "F – V – V – F."
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Surviving Sepsis Campaign 2026 (Prescott et al., Intensive Care Med e Crit Care Med, 2026)",
+  "coment": "Na abordagem inicial a enfermagem identifica a hipoperfusão (rebaixamento de consciência, oligúria, hipotensão, dessaturação), garante acesso venoso calibroso para a reposição volêmica, mede a diurese, coleta lactato, gasometria e culturas e administra rapidamente o antibiótico após as culturas. A Surviving Sepsis Campaign 2026 sugere iniciar a noradrenalina por veia periférica, sem esperar o acesso central nem o fim da reposição volêmica quando a hipotensão persiste. O segundo item é falso porque débito cardíaco, pressão intra-abdominal e enzimas cardíacas não fazem parte das ações imediatas.",
+  "porAlt": [
+   "Correta: hipoperfusão, acesso, diurese, lactato, culturas, antibiótico precoce e vasopressor sem atraso são ações iniciais; débito cardíaco e enzimas não são.",
+   "Marca como falso o terceiro item, que descreve ações iniciais do pacote: acesso calibroso, diurese, lactato e culturas.",
+   "Nega a vigilância dos sinais de hipoperfusão e aceita monitorização avançada como ação imediata.",
+   "Nega o vasopressor precoce na hipotensão e o antibiótico rápido após as culturas, ambos recomendados.",
+   "Nega os sinais de hipoperfusão e aceita débito cardíaco e enzimas cardíacas como ação imediata."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O protocolo de identificação do paciente tem finalidade de garantir a correta identificação do paciente, a fim de reduzir a ocorrência de incidentes. Sobre esse protocolo de segurança do paciente, é correto afirmar:",
+  "alts": [
+   "Para assegurar que todos os pacientes sejam corretamente identificados, é necessário usar no mínimo três identificadores em pulseira branca padronizada, colocada no membro do paciente para que seja conferido antes do cuidado.",
+   "A verificação da identidade do paciente deve ocorrer apenas no início de cada turno de trabalho, dessa forma dando continuidade à intervenção realizada no paciente ao longo de sua permanência no hospital.",
+   "A instituição deve definir um membro no paciente para a colocação de pulseiras como dispositivo de identificação, sendo que, depois de instituído, não se deve realizar o rodízio dos membros em qualquer situação para prevenir falhas no cumprimento do protocolo.",
+   "O protocolo é de uso obrigatório em todos os ambientes de prestação do cuidado de saúde como unidades de internação, salas de emergência e centro cirúrgico, não sendo obrigatório em nível ambulatorial.",
+   "Na transferência para outro serviço de saúde, um identificador adicional do paciente pode ser o endereço, para refinar a exatidão da identificação, devido à não transferência do número do prontuário entre os serviços de saúde."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Protocolo de Identificação do Paciente (Portaria GM/MS 2.095/2013)",
+  "coment": "O protocolo de identificação (MS, 2013) pede no mínimo dois identificadores, como nome completo e data de nascimento, em pulseira branca padronizada, conferidos antes de todo cuidado, não só no início do turno. Vale em todos os ambientes, inclusive no ambulatório. Se o membro definido não puder receber a pulseira, ela muda de membro. Na transferência para outro serviço, como o número do prontuário não acompanha o paciente, pode-se usar um identificador adicional, como o endereço.",
+  "porAlt": [
+   "O mínimo é de dois identificadores, não três.",
+   "A identidade é conferida antes de cada cuidado, procedimento ou medicação, não só no início do turno.",
+   "Se o membro definido estiver indisponível, por edema, amputação ou acesso, a pulseira deve mudar de membro.",
+   "O protocolo vale em todos os ambientes de cuidado, inclusive no ambulatorial.",
+   "Correta: na transferência o prontuário não acompanha o paciente, e o endereço pode servir de identificador adicional."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Agência Nacional de Vigilância Sanitária (ANVISA) descreve medidas específicas recomendadas para prevenção de pneumonia relacionadas à assistência à saúde. Sobre essas medidas específicas, analise as afirmativas seguintes:\nI. Cabeceira de 30 a 45 graus oferece melhoria dos parâmetros ventilatórios em comparação com a posição supina, pois os pacientes nesta posição apresentam um maior volume corrente e maior esforço muscular.\nII. Aspiração da secreção subglótica rotineiramente. A utilização da cânula orotraqueal, com um sistema de aspiração de secreção subglótica contínua ou intermitente, é recomendada para pacientes que irão permanecer sob ventilação mecânica acima de 48h ou 72h.\nIII. Nos cuidados com o circuito do ventilador, a troca do circuito respiratório deve ser realizada apenas se este estiver visivelmente sujo ou com mau funcionamento. Portanto, não é recomendada a troca rotineira deste dispositivo.\nIV. Monitoramento da pressão de cuff. Recomenda-se que a pressão do cuff permaneça entre 18 e 22 mmHg ou 25 a 30 cmH2O quando utilizado medidor de cuff.\nEstão corretas",
+  "alts": [
+   "I, II e IV, apenas.",
+   "I, II e III, apenas.",
+   "II, III e IV, apenas.",
+   "II e III, apenas.",
+   "I e IV, apenas."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Prevenção de pneumonia e infecção de cateter",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (2017)",
+  "coment": "A ANVISA (2017) recomenda cabeceira entre 30 e 45 graus, que melhora a ventilação: o paciente apresenta maior volume corrente com menor esforço muscular. Por isso o item I é falso ao falar em maior esforço. Também recomenda tubo com aspiração subglótica, contínua ou intermitente, para quem ficará mais de 48 a 72 h em ventilação mecânica, troca do circuito só se estiver visivelmente sujo ou com mau funcionamento e pressão do cuff entre 18 e 22 mmHg, ou 25 a 30 cmH2O no cufômetro.",
+  "porAlt": [
+   "Inclui o item I, falso: a cabeceira elevada reduz o esforço muscular, e exclui a regra correta da troca do circuito.",
+   "Inclui o item I, falso por falar em maior esforço muscular, e exclui o controle do cuff.",
+   "Correta: aspiração subglótica acima de 48 a 72 h, circuito trocado só se sujo ou com defeito e cuff de 25 a 30 cmH2O.",
+   "Exclui o item IV, correto: a pressão do cuff deve ficar entre 18 e 22 mmHg, ou 25 a 30 cmH2O.",
+   "Inclui o item I, falso, e exclui a aspiração subglótica e a regra do circuito, ambas recomendadas."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As Infecções do Sítio Cirúrgico (ISC) são as complicações mais comuns decorrentes do ato cirúrgico, que ocorrem no pós-operatório em cerca de 3 a 20% dos procedimentos realizados, tendo um impacto significativo na morbidade e mortalidade do paciente. As ISC são consideradas eventos adversos frequentes, decorrentes da assistência à saúde dos pacientes que podem resultar em dano físico, social e/ou psicológico do indivíduo, sendo uma ameaça à segurança do paciente. Sobre as medidas de controle pré-operatório preconizadas pela ANVISA, é correto afirmar:",
+  "alts": [
+   "Deve-se orientar previamente o paciente em todas as cirurgias eletivas quanto aos cuidados pré-operatórios e banho, como tomar banho com água e sabão antes da realização do procedimento cirúrgico na noite anterior e na manhã da cirurgia com antisséptico.",
+   "No preparo pré-operatório ou antissepsia cirúrgica das mãos, o procedimento pode ser feito com o uso de esponjas para a realização da fricção da pele com antisséptico degermante (clorexidina 2% ou polivinilpirrolidona-iodo - PVPI) ou por meio do uso de produto à base de álcool (PBA).",
+   "A tricotomia pré-operatória deve ser feita de rotina, se os pêlos tiverem que ser removidos, devendo se fazer imediatamente antes da cirurgia, utilizando tricotomizadores elétricos ou lâminas e fora da sala de cirurgia.",
+   "Realizar descontaminação nasal com mupirocina intranasal associada à descolonização extranasal com clorexidina degermante em paciente diagnosticado como portador nasal de Staphylococcus aureus resistente à meticilina e utilizar clorexidina degermante em todo o corpo, durante o banho, por 10 dias seguidos, exceto em mucosas ocular e timpânica.",
+   "Os cuidados durante o banho devem incluir higiene do couro cabeludo, secagem dos cabelos antes de ir para o bloco cirúrgico, cuidados com as unhas, higiene oral com solução de clorexidina a 2% e uso de toalhas limpas ao paciente para o banho pré-operatório."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (2017)",
+  "coment": "A ANVISA (2017) admite a antissepsia cirúrgica das mãos por fricção com antisséptico degermante (clorexidina 2% ou PVPI), com esponja, ou com produto à base de álcool. As demais trocam detalhes do guia. Tricotomia não é rotina; se necessária, faz-se fora da sala e com tricotomizador elétrico, nunca lâmina. Na descolonização do portador de MRSA, a mupirocina nasal é usada por 5 dias, não 10. A higiene oral pré-operatória usa clorexidina 0,12%, não 2%. O banho com antisséptico não é indicado para toda cirurgia eletiva.",
+  "porAlt": [
+   "O banho pré-operatório com água e sabão é a regra; antisséptico fica para cirurgias específicas, não para todas as eletivas.",
+   "Correta: a antissepsia cirúrgica das mãos pode ser feita com esponja e degermante (clorexidina 2% ou PVPI) ou com produto à base de álcool.",
+   "A tricotomia não é rotina, e lâminas não devem ser usadas; se necessária, usa-se tricotomizador elétrico.",
+   "A descolonização do portador de MRSA com mupirocina nasal dura 5 dias, não 10.",
+   "A higiene oral pré-operatória usa clorexidina 0,12%; a solução a 2% é degermante para pele."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O cuidado pós-parada cardiorrespiratória é de extrema importância no suporte avançado de vida para evitar mortes e sequelas graves após o retorno da circulação espontânea (RCE). Na fase de estabilização inicial, a ressuscitação é contínua durante a fase pós-RCE, sendo que muitas das atividades podem ocorrer ao mesmo tempo. No entanto, se a prioridade for necessária, deve-se seguir as seguintes etapas:",
+  "alts": [
+   "Manejo de vias aéreas com tubo endotraqueal com oximetria de pulso para confirmar boa oxigenação tecidual; controle de parâmetros respiratórios inicial com seis ventilações por minuto para uma saturação de oxigênio acima de 90%; controle dos parâmetros hemodinâmicos com administração de cristaloides visando a uma pressão arterial sistólica maior que 95 mmHg ou pressão arterial média de 65 mmHg e eletrocardiograma de doze eletrodos.",
+   "Manejo de vias aéreas com posicionamento do tubo endotraqueal; controle de parâmetros respiratórios inicial de seis ventilações por minuto para saturação de oxigênio de 90% a 98%; controle dos parâmetros hemodinâmicos com administração de vasopressores ou inotrópicos visando a uma pressão arterial sistólica de 100 mmHg ou pressão arterial média de 60 mmHg e eletrocardiograma de doze eletrodos.",
+   "Manejo de vias aéreas com posicionamento do tubo endotraqueal com oximetria para confirmar e monitorar o posicionamento do tubo endotraqueal; controle de parâmetros respiratórios inicial com dez ventilações por minuto para saturação de oxigênio acima de 90% e PaCO2 de 35 a 45 mmHg; controle dos parâmetros hemodinâmicos com administração de cristaloides e vasopressores visando a uma pressão arterial sistólica maior que 80 mmHg.",
+   "Manejo de vias aéreas com posicionamento do tubo endotraqueal e capnografia para confirmar e monitorar o posicionamento do tubo endotraqueal; controle de parâmetros respiratórios inicial com dez ventilações por minuto para PaCO2 de 35 a 45 mmHg e saturação de oxigênio acima de 90%; controle dos parâmetros hemodinâmicos com administração de cristaloides e/ou vasopressores visando a uma pressão arterial sistólica maior que 70 mmHg ou pressão arterial média maior que 60 mmHg.",
+   "Manejo de vias aéreas com uso de capnografia para confirmar e monitorar o posicionamento do tubo endotraqueal; controle de parâmetros respiratórios inicial com dez ventilações por minuto para PaCO2 de 35 a 45 mmHg; controle dos parâmetros hemodinâmicos com administração de cristaloides e/ou vasopressores ou inotrópicos visando a uma pressão arterial sistólica maior que 90 mmHg ou pressão arterial média maior que 65 mmHg."
+  ],
+  "gab": 4,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "AHA, Diretrizes de RCP e ACE 2020 (cuidados pós-PCR); metas mantidas nas Diretrizes AHA 2025",
+  "coment": "No algoritmo de cuidados pós-PCR da AHA (2020), a estabilização inicial segue a ordem: via aérea com tubo endotraqueal, confirmado e monitorado por capnografia em forma de onda; ventilação inicial de 10 por minuto, com SpO2 de 90% a 98% (AHA 2025) e PaCO2 de 35 a 45 mmHg; correção da hipotensão com cristaloide e/ou vasopressor ou inotrópico para PAS acima de 90 mmHg ou PAM acima de 65 mmHg; e ECG de 12 derivações. A oximetria não confirma a posição do tubo. As metas de evitar hipotensão e manter a PAM de pelo menos 65 mmHg seguem nas Diretrizes AHA 2025.",
+  "porAlt": [
+   "A oximetria não confirma a posição do tubo, a ventilação inicial é de 10 por minuto e a meta é PAS acima de 90 mmHg.",
+   "Seis ventilações por minuto é pouco; a meta é 10 por minuto, com PAS acima de 90 mmHg ou PAM acima de 65 mmHg.",
+   "A confirmação do tubo é feita por capnografia, não oximetria, e PAS acima de 80 mmHg está abaixo da meta.",
+   "As metas hemodinâmicas estão abaixo do recomendado: PAS acima de 90 mmHg ou PAM acima de 65 mmHg.",
+   "Correta: capnografia para o tubo, 10 ventilações por minuto com PaCO2 de 35 a 45 mmHg e PAS acima de 90 ou PAM acima de 65 mmHg."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A higiene das mãos nos serviços de saúde tem o intuito de prevenir e controlar as infecções relacionadas à assistência à saúde (IRAS), visando à segurança do paciente, dos profissionais de saúde e de todos aqueles envolvidos nos cuidados aos pacientes. Sobre o assunto, é correto afirmar:",
+  "alts": [
+   "Os momentos para a higiene das mãos incluem: antes e após tocar o paciente, antes de realizar os procedimentos, após contato com fluidos e secreções, e antes e após tocar qualquer superfície da unidade do paciente.",
+   "A higienização simples das mãos com sabonete líquido e água tem finalidade de remover os micro-organismos que colonizam as camadas superficiais da pele, assim como o suor, a oleosidade e as células mortas, devendo ter duração mínima de 30 a 60 segundos.",
+   "A técnica de higienização antisséptica das mãos é igual àquela utilizada para a higienização simples das mãos, substituindo-se o sabonete líquido comum por um associado a antisséptico, como antisséptico degermante, devendo ter duração mínima de 30 a 40 segundos.",
+   "A utilização de preparação alcoólica para higiene das mãos sob as formas gel, espuma e outras (na concentração final mínima de 70%) ou sob a forma líquida (na concentração final entre 60% e 80%) e pode substituir a higienização com água e sabonete líquido quando as mãos não estiverem visivelmente sujas.",
+   "A fricção antisséptica das mãos com preparação alcoólica reduz a carga microbiana das mãos, não realiza remoção de sujidades e deve ter duração de, no mínimo, 30 a 40 segundos."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Higiene das mãos",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Protocolo para a Prática de Higiene das Mãos (Portaria GM/MS 1.377/2013); RDC ANVISA 42/2010",
+  "coment": "O protocolo do MS (2013) admite a preparação alcoólica na forma de gel, espuma e outras, com concentração final mínima de 70%, ou na forma líquida, entre 60% e 80%, substituindo água e sabonete quando as mãos não estão visivelmente sujas. Os tempos são: higiene simples e antisséptica, 40 a 60 segundos; fricção com preparação alcoólica, 20 a 30 segundos. Os cinco momentos são antes de tocar o paciente, antes de procedimento limpo ou asséptico, após risco de exposição a fluidos, após tocar o paciente e após tocar superfícies próximas a ele.",
+  "porAlt": [
+   "Os momentos incluem só após tocar superfícies próximas ao paciente, não antes e após tocar qualquer superfície.",
+   "A higiene simples com água e sabonete dura 40 a 60 segundos, não 30 a 60.",
+   "A higiene antisséptica segue a técnica da simples e dura 40 a 60 segundos, não 30 a 40.",
+   "Correta: gel ou espuma com no mínimo 70% e líquida de 60% a 80% substituem água e sabonete quando as mãos não estão visivelmente sujas.",
+   "A fricção com preparação alcoólica dura 20 a 30 segundos, não 30 a 40."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O protocolo de prevenção de quedas tem finalidade de reduzir a ocorrência de queda de pacientes nos pontos de assistência e o dano dela decorrente, por meio da implantação/implementação de medidas que contemplem a avaliação de risco do paciente, garantam o cuidado multiprofissional em um ambiente seguro, e promovam a educação do paciente, familiares e profissionais. Sobre o assunto, é correto afirmar:",
+  "alts": [
+   "Os fatores de riscos para queda vinculados ao paciente incluem: idade acima de 60 anos, história recente de queda, redução da mobilidade, incontinência urinária, uso de medicamentos analgésicos e hipertensão arterial.",
+   "Osteoporose, fraturas anteriores, uso de anticoagulante e discrasias sanguíneas são algumas das condições que podem agravar o dano decorrente de queda.",
+   "A avaliação do risco de queda deve ser feita no momento da admissão do paciente com o emprego de uma escala adequada ao perfil de pacientes da instituição e esta avaliação deve ser repetida semanalmente até a alta do paciente.",
+   "A unidade de saúde, orientada pelo seu Núcleo de Segurança do Paciente, deverá adotar medidas exclusivas para a prevenção de quedas para pacientes de alto risco.",
+   "As escalas de avaliação de risco de queda são universais, sendo a escala de Morse a mais recomendada e de maior utilização no Brasil."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Prevenção de quedas e de lesão por pressão",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Protocolo de Prevenção de Quedas (Portaria GM/MS 2.095/2013)",
+  "coment": "O protocolo do MS (2013) separa os fatores que aumentam a chance de cair das condições que agravam o dano da queda. Entre estas estão osteoporose, fraturas anteriores, uso de anticoagulante e discrasias sanguíneas, que tornam a mesma queda mais grave. A avaliação do risco é feita na admissão com escala adequada ao perfil da instituição e repetida diariamente e a cada mudança clínica, não por semana. As medidas universais valem para todos os pacientes, e as de alto risco se somam a elas. Nenhuma escala é universal.",
+  "porAlt": [
+   "Hipertensão arterial não está no rol do protocolo, que cita medicamentos como benzodiazepínicos, antipsicóticos, diuréticos e vasodilatadores.",
+   "Correta: osteoporose, fraturas anteriores, anticoagulante e discrasias sanguíneas agravam o dano decorrente da queda.",
+   "A reavaliação é diária e a cada mudança clínica ou transferência, não semanal.",
+   "Há medidas universais para todos os pacientes, somadas às específicas para alto risco; não são exclusivas.",
+   "Não existe escala universal; a instituição escolhe a adequada ao seu perfil de pacientes."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O corrimento vaginal é uma queixa comum que ocorre principalmente na idade reprodutiva. A vulvovaginite e a vaginose são as causas mais comuns de corrimento vaginal patológico, sendo responsáveis por inúmeras consultas. Sobre a temática, assinale V (Verdadeiro) ou F (Falso) nas afirmativas a seguir.\n(__) A infecção vaginal pode ser caracterizada por corrimento e/ou prurido e/ou alteração de odor, sendo necessário indagar sobre: consistência, cor e alterações no odor do corrimento; presença de prurido; e/ou irritação local.\n(__) A investigação da história clínica deve ser minuciosa, abrangendo informações sobre: comportamentos e práticas sexuais; data da última menstruação; práticas de higiene vaginal e uso de medicamentos tópicos ou sistêmicos; e/ou outros possíveis agentes irritantes locais.\n(__) Durante o exame ginecológico, o profissional de saúde deve observar e anotar as características do corrimento informadas pela paciente, bem como a existência de ulcerações, edema e/ou eritema.\n(__) O exame preventivo de câncer de colo do útero (colpocitologia oncótica) e a colposcopia devem ser realizados para auxiliar o diagnóstico de vulvovaginite, vaginose e cervicite.\nA sequência correta é",
+  "alts": [
+   "V, V, V, F.",
+   "F, V, V, F.",
+   "V, F, F, V.",
+   "F, V, F, V.",
+   "V, F, V, F."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "PCDT para Atenção Integral às Pessoas com IST (Ministério da Saúde, 2022)",
+  "coment": "O PCDT IST (2022) orienta, diante de corrimento vaginal, investigar consistência, cor, odor, prurido e irritação, além de práticas sexuais, data da última menstruação, higiene vaginal, medicamentos e outros irritantes. No exame especular, anotam-se as características do corrimento e a presença de ulcerações, edema e eritema, e pode-se usar pH vaginal e teste das aminas. A colpocitologia oncótica e a colposcopia são exames de rastreamento e investigação de lesões do colo, não de diagnóstico de vulvovaginite, vaginose ou cervicite. Sequência: V, V, V, F.",
+  "porAlt": [
+   "Correta: anamnese do corrimento, história clínica e exame ginecológico são indicados, mas citologia e colposcopia não diagnosticam vulvovaginites.",
+   "Marca como falsa a investigação das características do corrimento, que é o primeiro passo do PCDT.",
+   "Nega a história clínica e o exame ginecológico e aceita citologia e colposcopia para diagnosticar vaginites.",
+   "Nega a caracterização do corrimento e o exame ginecológico e aceita citologia para diagnosticar vaginites.",
+   "Marca como falsa a investigação da história clínica, que o PCDT exige: práticas sexuais, DUM, higiene e medicamentos."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O enfermeiro precisou administrar uma medicação a um paciente com diagnóstico de pneumonia internado há 10 dias. Ao realizar o preparo e administração da medicação, ele esqueceu de verificar a dosagem correta, administrando uma dose excessiva. Como consequência pela falta de atenção e cuidado ao administrar o medicamento e não seguir protocolos estabelecidos para a administração de medicamentos, o enfermeiro recebeu uma penalidade ético-disciplinar, descrita a seguir:\nO Conselho Regional de Enfermagem em cumprimento ao disposto no parágrafo 3° do artigo 108 do Código de Ética dos Profissionais de Enfermagem – resolução Cofen nº 564/2017, que determina a publicação da penalidade, vem executar o mandamento legal conforme descrito a seguir:\nEnfermeiro João Carlos Júnior, Coren nº XXX-ENF, por infração aos artigos 78 e 80 da resolução do Cofen nº 564/2017, no processo ético nº 000/2024, julgado na Sessão Ordinária do Conselho, realizada no dia 15 de setembro de 2024.O Conselho de enfermagem realizou uma repreensão divulgada nas publicações oficiais do Sistema Cofen/Conselhos Regionais de Enfermagem.\nNota meramente ilustrativa.\nConsiderando o tipo de penalidade ético-disciplinar, é correto afirmar que se trata de",
+  "alts": [
+   "advertência verbal.",
+   "multa.",
+   "censura.",
+   "suspensão do exercício profissional.",
+   "cassação do direito ao exercício profissional."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017, art. 108, § 3º",
+  "coment": "O art. 108 da Res. COFEN 564/2017 lista cinco penalidades: advertência verbal, multa, censura, suspensão e cassação. Pelo § 3º, a censura consiste em repreensão divulgada nas publicações oficiais do Sistema Cofen/Conselhos Regionais e em jornais de grande circulação, exatamente o que a nota descreve. A advertência verbal é admoestação reservada, registrada no prontuário do profissional diante de duas testemunhas. A multa é pecuniária, e suspensão e cassação afastam o profissional do exercício. Em 2026, o Código de Ética vigente continua sendo a Res. 564/2017.",
+  "porAlt": [
+   "A advertência verbal é admoestação reservada, registrada no prontuário do profissional, sem publicação.",
+   "A multa é o pagamento de 1 a 10 vezes o valor da anuidade, não uma repreensão publicada.",
+   "Correta: a censura é a repreensão divulgada nas publicações oficiais do Sistema Cofen/Conselhos Regionais (art. 108, § 3º).",
+   "A suspensão proíbe o exercício por um período; a nota descreve apenas uma repreensão publicada.",
+   "A cassação retira o direito ao exercício profissional, penalidade mais grave que a descrita."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente, 70 anos, com diabetes tipo 2 há 12 anos, é admitido na clínica para avaliação de rotina. Há histórico de úlcera no pé. No momento tem neuropatia periférica confirmada por ausência de sensibilidade ao monofilamento e dedos em formato de martelo, além de sinais de doença arterial periférica (DAP) com pulso pedial diminuído. Com base no caso clínico hipotético, considera-se como classificação do risco de ulceração e atribuição do enfermeiro:",
+  "alts": [
+   "Risco de ulceração alto. Deve orientar a realização das visitas trimestrais à clínica para monitoramento e inspeção diária dos pés.",
+   "Risco de ulceração alto. Deve orientar a realização do acompanhamento de 6 em 6 meses para monitoramento contínuo, a fim de evitar úlceras e outras complicações.",
+   "Risco de ulceração baixo. Indicação de consultas anuais e ser encaminhado para um especialista em pé diabético e realizar educação sobre como cuidar dos pés.",
+   "Risco de ulceração moderado. Orientar sobre cuidados preventivos, como inspeção diária dos pés, higiene adequada e escolha de calçados.",
+   "Risco de ulceração moderado. Ajustar o plano de cuidados para prevenir recidivas e monitorar os sinais de DAP, além de garantir a orientação sobre o uso de prótese."
+  ],
+  "gab": 0,
+  "tema": "feridas",
+  "sub": "Pé diabético e úlceras vasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "IWGDF, Guidelines on the prevention and management of diabetes-related foot disease (2023)",
+  "coment": "Pelo sistema de estratificação do IWGDF (2023), a pessoa com perda da sensibilidade protetora ou doença arterial periférica e história de úlcera do pé, amputação ou doença renal terminal é de risco 3, ou alto, com reavaliação a cada 1 a 3 meses. Este paciente tem neuropatia, deformidade (dedos em martelo), DAP e úlcera prévia: risco alto. Visitas trimestrais estão dentro do intervalo, e a inspeção diária dos pés é orientação básica ao paciente. Risco moderado (2) é neuropatia ou DAP com deformidade, sem úlcera prévia.",
+  "porAlt": [
+   "Correta: úlcera prévia com neuropatia e DAP é risco alto, com reavaliação a cada 1 a 3 meses e inspeção diária dos pés.",
+   "O risco é alto, mas o seguimento semestral é longo demais; no risco alto a reavaliação é a cada 1 a 3 meses.",
+   "Neuropatia, DAP e úlcera prévia não configuram risco baixo, e consulta anual é o intervalo do risco muito baixo.",
+   "A úlcera prévia eleva a classificação para risco alto; moderado é neuropatia ou DAP com deformidade, sem úlcera.",
+   "O paciente é de risco alto, e não há indicação de prótese, pois não houve amputação."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente, 60 anos, diabético, chega à clínica com queixas de parestesia e perda de sensibilidade nos pés. Tem histórico de úlceras, mas o enfermeiro deseja avaliar o risco de neuropatia periférica utilizando o monofilamento de Semmes-Weinstein 10 g. Quanto à realização do procedimento, analise as afirmativas a seguir.\nI. A sensibilidade protetora estará presente se em cada local o paciente responder corretamente em uma aplicação.\nII. Aplica-se o monofilamento perpendicularmente à superfície da pele com força suficiente para curvá-lo, não deixando que o filamento deslize pela pele.\nIII. Cada aplicação e remoção do filamento deve ser de aproximadamente 2 segundos, não aplicando o filamento diretamente sobre úlcera ou calo.\nIV. Deve-se repetir a aplicação quatro vezes no mesmo local, mas alternando com pelo menos uma aplicação “simulada” na qual o filamento não é aplicado.\nEstão corretas",
+  "alts": [
+   "I e IV, apenas.",
+   "II e III, apenas.",
+   "III e IV, apenas.",
+   "I, II e III, apenas.",
+   "I, II e IV, apenas."
+  ],
+  "gab": 1,
+  "tema": "feridas",
+  "sub": "Pé diabético e úlceras vasculares",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "IWGDF, Guidelines on the prevention and management of diabetes-related foot disease (2023)",
+  "coment": "Na técnica do monofilamento de 10 g (IWGDF, 2023), aplica-se o filamento perpendicular à pele, com força suficiente para curvá-lo, sem deixar deslizar, por cerca de 2 segundos entre aplicar e retirar, sem tocar úlcera, calo, cicatriz ou necrose. Em cada local, a aplicação é repetida 3 vezes no total, sendo uma delas simulada, sem tocar a pele. A sensibilidade protetora está presente se o paciente acerta 2 das 3 respostas em cada local. Por isso I e IV são falsos.",
+  "porAlt": [
+   "O item I erra: a sensibilidade exige 2 acertos em 3 aplicações por local; e o IV erra ao falar em quatro aplicações.",
+   "Correta: aplicação perpendicular com curvatura do filamento, cerca de 2 segundos, longe de úlceras e calos.",
+   "Inclui o item IV, falso: são 3 aplicações por local, uma delas simulada, não quatro.",
+   "Inclui o item I, falso: uma única resposta correta não basta; o critério é 2 de 3.",
+   "Inclui os itens I e IV, ambos falsos pelo critério de 2 acertos em 3 aplicações."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente, 60 anos, sexo masculino, hipertenso há 12 anos e com diagnóstico de hiperplasia prostática benigna (HPB). Está em uso de doxazosina, há 1 mês, prescrito para o manejo da HPB e para ajudar no controle da pressão arterial e losartana 50 mg/dia. Relata que, desde o início do tratamento, tem apresentado episódios de tontura ao se levantar e quedas frequentes. O exame físico identificou PA em repouso (decúbito dorsal) (130/80 mmHg), PA em pé (após 1 minuto) (105/65 mmHg) e PA em pé (após 3 minutos) (95/60 mmHg), frequência cardíaca: 88 bpm (repouso) e 105 bpm (em pé). Foi diagnosticado com hipotensão ortostática. Considerando o caso clínico hipotético, assinale Verdadeiro (V) ou Falso (F) nas afirmativas a seguir.\n(__) O exame físico evidencia características de hipotensão ortostática, devido à mudança rápida entre as pressões aferidas em repouso e em pé.\n(__) Os idosos têm menor resposta dos barorreceptores à hipotensão, por isso são mais propensos à hipotensão ortostática.\n(__) O uso de determinados anti-hipertensivos, como o diurético doxazosina, pode provocar ou piorar a hipotensão ortostática.\n(__) Deve-se utilizar medidas não medicamentosas como hidratação adequada, dieta normossódica, mudança lenta de decúbito e elevação da cabeceira.\nA sequência correta é",
+  "alts": [
+   "F – F – V – V.",
+   "F – V – F – V.",
+   "V – F – V – F.",
+   "V – V – F – V.",
+   "F – V – F – F."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Consenso sobre a definição de hipotensão ortostática (Freeman et al., Clinical Autonomic Research, 2011)",
+  "coment": "Hipotensão ortostática é a queda de pelo menos 20 mmHg na sistólica ou 10 mmHg na diastólica em até 3 minutos de pé (consenso de 2011). Aqui a PA caiu de 130/80 para 95/60 mmHg, com sintomas. O envelhecimento reduz a sensibilidade dos barorreceptores e predispõe ao quadro. A doxazosina é alfabloqueador, não diurético: o item 3 é falso pela classe citada, embora o fármaco cause a hipotensão. Medidas não farmacológicas incluem hidratação, evitar restrição de sal sem indicação, levantar devagar e dormir com a cabeceira elevada. Sequência: V, V, F, V.",
+  "porAlt": [
+   "Nega a hipotensão ortostática evidente (queda de 35/20 mmHg) e a menor resposta barorreceptora do idoso.",
+   "Nega a hipotensão ortostática, que o exame demonstra, com queda de 35 mmHg na sistólica.",
+   "Aceita o item 3, falso por chamar a doxazosina de diurético, e nega as medidas não farmacológicas.",
+   "Correta: há hipotensão ortostática, o idoso tem menor resposta barorreceptora, a doxazosina não é diurético e as medidas posturais e de hidratação são indicadas.",
+   "Nega a hipotensão ortostática e as medidas não farmacológicas, que são a base do manejo."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma paciente de 50 anos, tabagista há 25 anos, pesa 70 kg (obesidade grau 3), tem incompetência do colo da bexiga. Refere perda involuntária da urina após esforço, perda de urina principalmente à noite e tem a necessidade urgente de urinar. Quanto à situação descrita, o diagnóstico de enfermagem apropriado é",
+  "alts": [
+   "incontinência urinária por deficiência.",
+   "incontinência urinária de esforço.",
+   "incontinência urinária de urgência.",
+   "eliminação urinária prejudicada.",
+   "incontinência urinária mista."
+  ],
+  "gab": 4,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NANDA-I, Diagnósticos de enfermagem: definições e classificação 2021-2023",
+  "coment": "A paciente refere perda de urina ao esforço e também urgência miccional com perdas, sobretudo à noite. Quando os dois componentes coexistem, o diagnóstico é \"Incontinência urinária mista\", incluído na NANDA-I 2021-2023, que reúne a perda associada a esforço e a perda associada a urgência. Tabagismo, obesidade e incompetência do colo vesical são fatores do componente de esforço. Escolher só esforço ou só urgência descreve metade do quadro. O enunciado diz \"70 kg (obesidade grau 3)\" sem a altura, erro mantido do caderno.",
+  "porAlt": [
+   "\"Incontinência urinária por deficiência\" não descreve a combinação de perda ao esforço e urgência.",
+   "A incontinência de esforço explica só parte do quadro; a urgência miccional com perdas aponta componente de urgência.",
+   "A incontinência de urgência ignora a perda involuntária ao esforço relatada pela paciente.",
+   "Eliminação urinária prejudicada é diagnóstico genérico; há dados específicos para classificar a incontinência.",
+   "Correta: perda ao esforço associada a urgência miccional configura incontinência urinária mista."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente, 67 anos, sexo feminino, histórico de hipertensão controlada com medicação e artrite que limita suas atividades físicas. Tem perdido peso sem motivo aparente, apresenta insônia frequente e queixas de fadiga constante. A filha relata que, nos últimos 6 meses, a mãe está progressivamente mais apática, não sente mais prazer em suas atividades diárias (costumava gostar de fazer compras e viajar). Ela também menciona que se sente \"inútil\" e \"sem vontade de viver\", mas nega qualquer ideia de suicídio. A enfermeira utilizou a “Escala de Depressão Geriátrica” com 15 perguntas, respondendo positivamente a 9 perguntas. Considerando o caso clínico hipotético, analise as afirmativas a seguir.\nI. A idosa não realiza duas atividades instrumentais de vida diária (AIVD’s) ( fazer compras e viajar); sendo assim, deve-se aplicar a Escala de Lawton para avaliação mais detalhada das outras AIVD’s.\nII. O resultado da escala de depressão geriátrica evidencia suspeita de depressão, além disso apresenta algumas manifestações clínicas evidentes como se sentir inútil e sem vontade de viver.\nIII. Deve ser monitorada regularmente, observando qualquer alteração em seu comportamento, especialmente relacionado a sentimentos de inutilidade e sem vontade de viver.\nIV. A idosa já tem perda de suas atividades básicas de vida diária como a não realização de atividade física, o que facilita os sentimentos negativos.\nEstão corretas",
+  "alts": [
+   "I e IV, apenas.",
+   "II e III, apenas.",
+   "III e IV, apenas.",
+   "I, II e III, apenas.",
+   "I, II e IV, apenas."
+  ],
+  "gab": 3,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Caderno de Atenção Básica nº 19, Envelhecimento e saúde da pessoa idosa (Ministério da Saúde, 2006)",
+  "coment": "Na Escala de Depressão Geriátrica de 15 itens (CAB 19, 2006), escore acima de 5 sugere depressão; 9 pontos indicam suspeita, reforçada pelos sentimentos de inutilidade e falta de vontade de viver, que pedem monitoramento regular mesmo sem ideação suicida declarada. Fazer compras e usar transporte para ir a lugares distantes são atividades instrumentais da Escala de Lawton, por isso a banca aceitou aplicar Lawton. O item IV é falso: atividade física não é atividade básica de vida diária, que inclui banho, vestir-se, higiene, transferência, continência e alimentação (Katz). O item I é discutível, porque o caso fala em perda de prazer, não em incapacidade.",
+  "porAlt": [
+   "Inclui o item IV, falso: atividade física não é atividade básica de vida diária, e exclui o resultado da escala de depressão.",
+   "Exclui o item I, que a banca aceitou: compras e viagens são atividades instrumentais avaliadas pela Escala de Lawton.",
+   "Inclui o item IV, falso, e exclui a interpretação correta do escore 9 na escala de depressão.",
+   "Correta: Lawton para as AIVD, suspeita de depressão pelo escore 9 da GDS-15 e monitoramento dos sentimentos de inutilidade.",
+   "Inclui o item IV, falso, e deixa de lado o monitoramento regular, necessário diante da falta de vontade de viver."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente, 70 anos, com histórico de hipertensão arterial controlada e diabetes tipo 2. Relata episódios frequentes de desequilíbrio e duas quedas nos últimos três meses, uma delas resultando em uma fratura no punho. Relata uso de bengala para caminhar, mas apresenta insegurança ao andar e, por isso, evita sair de casa. Queixa-se de fraqueza nas pernas e dificuldades ao se levantar da cadeira ou caminhar longas distâncias. Não faz uso regular de exercícios físicos e se sente cada vez mais dependente da esposa para atividades diárias. Considerando a necessidade da utilização de instrumento para avaliar o equilíbrio e a marcha deste paciente, é correto afirmar que ele deverá fazer uso do(da)",
+  "alts": [
+   "escala de Katz.",
+   "cartão de Jaeguer.",
+   "escala de Lachs.",
+   "triagem rápida - Prisma 7.",
+   "escala de Tineti."
+  ],
+  "gab": 4,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 19, Envelhecimento e saúde da pessoa idosa (Ministério da Saúde, 2006)",
+  "coment": "Para avaliar equilíbrio e marcha no idoso com quedas, o instrumento é a Avaliação da Mobilidade Orientada pelo Desempenho de Tinetti (POMA), que pontua equilíbrio sentado, levantar, ficar de pé, girar e a marcha, e estima o risco de queda. O CAB 19 (2006) traz os outros instrumentos citados com outros fins: Katz mede atividades básicas de vida diária, o cartão de Jaeger avalia a acuidade visual para perto, e a avaliação de Lachs é a triagem multidimensional rápida. O Prisma-7 rastreia fragilidade e perda de autonomia. O caderno escreve \"Jaeguer\" e \"Tineti\".",
+  "porAlt": [
+   "A escala de Katz avalia atividades básicas de vida diária, não equilíbrio e marcha.",
+   "O cartão de Jaeger testa a acuidade visual para perto.",
+   "A avaliação de Lachs é triagem multidimensional rápida, sem detalhar equilíbrio e marcha.",
+   "O Prisma-7 é questionário de rastreio de fragilidade, não teste de desempenho de marcha.",
+   "Correta: a escala de Tinetti avalia equilíbrio e marcha e estima o risco de queda."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente, 50 anos, com histórico de consumo crônico de álcool. Apresenta dor abdominal intensa e súbita na região epigástrica, irradiando para as costas, com início há cerca de 12 horas. Episódios de náuseas e vômitos desde o início da dor. Ao exame físico, apresenta sinal de Cullen positivo, abdômen distendido, doloroso à palpação e sinais de desidratação (mucosas secas, turgor diminuído). Diagnosticado com pancreatite aguda. No que se refere ao sinal de Cullen e sua localização, considera-se:",
+  "alts": [
+   "Equimose na região dos flancos indicando grave comprometimento da víscera.",
+   "Equimose periumbilical, resultante de hemorragia retroperitoneal.",
+   "Dor que ocorre à descompressão brusca, aplicada em qualquer região da parede abdominal.",
+   "Dor na região do pâncreas ao prender com a mão direita, movimentando-o de um lado para o outro.",
+   "Desaparecimento da macicez do pâncreas, dando lugar a timpanismo."
+  ],
+  "gab": 1,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto, Semiologia Médica, 8ª ed. (2019)",
+  "coment": "O sinal de Cullen é a equimose periumbilical decorrente de hemorragia retroperitoneal que se difunde pelos tecidos até a região do umbigo. Na pancreatite aguda, indica forma necro-hemorrágica e gravidade. A equimose nos flancos é o sinal de Grey Turner, de mesmo significado. A dor à descompressão brusca é o sinal de Blumberg, de irritação peritoneal. As alternativas D e E descrevem manobras sem correspondência com sinais semiológicos reconhecidos do pâncreas.",
+  "porAlt": [
+   "Equimose nos flancos é o sinal de Grey Turner, não o de Cullen.",
+   "Correta: o sinal de Cullen é a equimose periumbilical por hemorragia retroperitoneal, sinal de gravidade na pancreatite.",
+   "Dor à descompressão brusca é o sinal de Blumberg, de irritação peritoneal.",
+   "O pâncreas é retroperitoneal e não é apreendido nem movimentado à palpação; a manobra descrita não é o sinal de Cullen.",
+   "Timpanismo no lugar da macicez não define o sinal de Cullen, que é achado de inspeção."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O edema é o excesso de líquido acumulado no espaço intersticial ou no interior das próprias células (edema intracelular). Pode ocorrer em qualquer sítio do organismo. As coleções líquidas nas cavidades serosas são fenômenos fisiopatologicamente afins ao edema e é comum que sejam vistas associadas no mesmo paciente (PORTO, 2017). Considerando que no edema deve-se avaliar a intensidade, temperatura da pele circunjacente e o tipo de edema, analise as afirmativas a seguir.\nI. No edema, pode-se identificar uma região com maior resistência para obter a formação da fóvea, devido à proliferação fibroblástica, identificado como edema duro.\nII. A pele quando está quente evidencia edema inflamatório e quando a pele com edema está fria há um comprometimento da irrigação sanguínea.\nIII. Estabelece-se a intensidade do edema referindo-se à profundidade da fóvea graduada em cruzes (+1, +2, +3, +4 e +5).\nIV. Pele lisa e brilhante acompanha o edema recente e intenso e pele espessa é vista nos pacientes com edema de longa duração.\nEstão corretas",
+  "alts": [
+   "I e IV, apenas.",
+   "II e III, apenas.",
+   "III e IV, apenas.",
+   "I, II e III, apenas.",
+   "I, II e IV, apenas."
+  ],
+  "gab": 4,
+  "tema": "fundamentos",
+  "sub": "Sinais vitais e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto, Exame Clínico, 8ª ed. (2017)",
+  "coment": "Segundo Porto, o edema duro oferece maior resistência à formação da fóvea por proliferação fibroblástica, como no linfedema crônico. A pele quente sugere edema inflamatório, e a fria, comprometimento da irrigação. Pele lisa e brilhante acompanha o edema recente e intenso; a pele espessa, o de longa duração. A intensidade é graduada pela profundidade da fóvea em cruzes de 1 a 4 (+ a ++++). Não existe +5, por isso o item III é falso.",
+  "porAlt": [
+   "Exclui o item II, correto: pele quente sugere inflamação, e pele fria, comprometimento da irrigação.",
+   "Inclui o item III, falso, pois a graduação vai de uma a quatro cruzes, e exclui os itens I e IV.",
+   "Inclui o item III, falso por propor cinco cruzes, e exclui o edema duro e a temperatura da pele.",
+   "Inclui o item III, falso: a graduação do edema em cruzes vai até +4, não até +5.",
+   "Correta: edema duro por proliferação fibroblástica, temperatura da pele e aspecto da pele conforme a duração estão descritos como em Porto."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os cuidados com o preparo e administração de medicamentos são fundamentais para garantir a segurança do paciente e dos profissionais de saúde. A aplicação dos princípios de biossegurança ajuda a prevenir erros de medicação e reduzir o risco de infecções e contaminações (Agência Nacional de Vigilância Sanitária, 2017). Considerando as medidas de biossegurança para o paciente, assinale Verdadeiro (V) ou Falso (F) nas afirmativas a seguir.\n(__) Deve-se armazenar, acessar e preparar medicamentos e materiais/suprimentos em uma área estéril de fácil acesso no posto de enfermagem para evitar contaminação.\n(__) Não se deve misturar sobras de medicamentos parenterais (frascos ou soluções intravenosas) para posterior administração.\n(__) No uso de frasco-ampola e ampola de vidro, realizar a desinfecção do diafragma (borracha) com álcool 70% ou 90% antes de inserir uma agulha ou quebrar a ampola.\n(__) Após um evento de emergência, devem ser descartados todos os frascos de produtos parenterais estéreis abertos ou perfurados com agulha, soluções intravenosas e recipientes de uso único.\nA sequência correta é",
+  "alts": [
+   "F – F – V – V.",
+   "F – V – F – V.",
+   "V – F – V – F.",
+   "V – V – F – V.",
+   "F – V – F – F."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Precauções padrão e específicas",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "ANVISA, série Segurança do Paciente e Qualidade em Serviços de Saúde (2017)",
+  "coment": "As práticas seguras de preparo de injetáveis mandam preparar medicamentos em área limpa e designada, afastada de pia, de material contaminado e do fluxo de pessoas; não existe área estéril no posto de enfermagem. Não se misturam sobras de frascos ou soluções parenterais para uso posterior. O diafragma do frasco e o gargalo da ampola são desinfetados com álcool 70% antes da punção ou da quebra, e não com álcool a 90%. Após uma emergência, descartam-se os frascos estéreis abertos ou perfurados e os recipientes de dose única. Sequência: F, V, F, V.",
+  "porAlt": [
+   "Marca como falso o item 2, que é regra básica: não misturar sobras de parenterais, e aceita o álcool a 90%.",
+   "Correta: área limpa e designada, sem misturar sobras, álcool 70% e descarte dos frascos abertos após a emergência.",
+   "Aceita a área estéril no posto e o álcool a 90% e nega as regras de não misturar sobras e de descartar frascos.",
+   "Aceita a área estéril no posto de enfermagem, quando o preparo é em área limpa e designada.",
+   "Nega o descarte dos frascos abertos ou perfurados durante a emergência, que é obrigatório."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As Infecções do Trato Urinário (ITU’s) são responsáveis por 35-45% das IRAS em pacientes adultos, com densidade de incidência de 3,1-7,4/1000 cateteres/dia. Aproximadamente 16-25% dos pacientes de um hospital serão submetidos a um cateterismo vesical, de alívio ou de demora, em algum momento de sua hospitalização. Considerando a infraestrutura para prevenção de ITU’s, analise as afirmativas a seguir.\nI. Criar e implantar protocolos escritos de uso, inserção e manutenção do cateter a ser utilizado.\nII. Assegurar a disponibilidade de materiais para inserção com técnica asséptica.\nIII. Implantar sistema em prontuário contendo indicação do cateter, responsável pela inserção, data e hora da inserção e retirada do cateter.\nIV. Registrar nas anotações de enfermagem no prontuário do paciente, e em arquivo padronizado.\nEstão corretas",
+  "alts": [
+   "I e IV, apenas.",
+   "II e III, apenas.",
+   "III e IV, apenas.",
+   "I, II e III, apenas.",
+   "I, II, III e IV."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (2017)",
+  "coment": "No capítulo de infecção do trato urinário, a ANVISA (2017) lista as medidas de infraestrutura para prevenção: criar e implantar protocolos escritos de uso, inserção e manutenção do cateter; garantir que a inserção seja feita por profissional capacitado; assegurar materiais para técnica asséptica; implantar sistema de documentação no prontuário com indicação, responsável, data e hora da inserção e da retirada; e registrar nas anotações de enfermagem, no prontuário e em arquivo padronizado. Os quatro itens estão no guia.",
+  "porAlt": [
+   "Omite a disponibilidade de materiais para técnica asséptica e a documentação da inserção, que também são medidas de infraestrutura.",
+   "Omite os protocolos escritos e o registro nas anotações de enfermagem, ambos previstos pela ANVISA.",
+   "Omite os protocolos escritos e a garantia de materiais para inserção asséptica.",
+   "Omite o registro padronizado nas anotações de enfermagem, que completa a vigilância do uso do cateter.",
+   "Correta: protocolos escritos, materiais para técnica asséptica, documentação da inserção e da retirada e registro padronizado são medidas da ANVISA."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente, 65 anos, relata dificuldade para evacuar, com evacuações escassas e ressecadas, além de dor abdominal ocasional e desconforto. Faz uso indevido de laxante e de supositório, espera evacuar sempre pela manhã, antes de sair de casa para trabalhar. Não tem conhecimento do padrão de evacuação normal, desconhece as complicações que o uso de laxante e supositórios rotineiramente podem provocar em seu organismo. De acordo com Nanda (2021-2023), considera-se como diagnóstico de enfermagem mais adequado para esse caso:",
+  "alts": [
+   "Risco de constipação.",
+   "Constipação.",
+   "Constipação funcional crônica.",
+   "Risco de constipação funcional crônica",
+   "Constipação percebida."
+  ],
+  "gab": 4,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NANDA-I, Diagnósticos de enfermagem: definições e classificação 2021-2023",
+  "coment": "\"Constipação percebida\" (NANDA-I 2021-2023) é o autodiagnóstico de constipação combinado ao uso abusivo de laxantes, enemas ou supositórios para garantir uma evacuação diária. Suas características definidoras são justamente a expectativa de evacuar todo dia no mesmo horário e o uso excessivo desses recursos. O paciente espera evacuar sempre pela manhã, usa laxante e supositório por conta própria e desconhece o padrão normal. As fezes ressecadas poderiam sugerir constipação, mas o eixo do caso é a crença sobre o padrão e o uso indevido de laxantes.",
+  "porAlt": [
+   "Risco de constipação vale para quem ainda não tem o problema; aqui há queixa atual e uso abusivo de laxantes.",
+   "Constipação descreve a alteração real do padrão, mas o caso destaca a expectativa irreal e o uso indevido de laxantes.",
+   "Constipação funcional crônica exige padrão crônico de evacuação difícil sem a crença e o abuso de laxantes que marcam o caso.",
+   "O caso descreve problema presente, não apenas risco, e o eixo é a percepção errada do padrão.",
+   "Correta: expectativa de evacuar diariamente no mesmo horário e abuso de laxantes e supositórios definem constipação percebida."
+  ],
+  "fonte": {
+   "banca": "UFPA (CEPS)",
+   "ano": 2024,
+   "prova": "Residência Multiprofissional 2025, Enfermagem",
+   "n": 50,
+   "parte": "especificas"
+  }
+ }
+]

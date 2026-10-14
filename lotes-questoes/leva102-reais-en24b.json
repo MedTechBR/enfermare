@@ -1,0 +1,1410 @@
+[
+ {
+  "q": "Um homem de 45 anos, procurou o posto de saúde local que integra a Estratégia Saúde da Família em sua comunidade. Ele apresenta sintomas de ansiedade, insônia e irritabilidade, relatando que, devido a esses sintomas, tem enfrentado dificuldades no trabalho e em seus relacionamentos pessoais. Após uma avaliação inicial pela enfermeira, foi identificada a necessidade de apoio especializado em saúde mental.\nConsiderando o modelo de atenção à saúde mental desenvolvido nos Centros de Atenção Psicossocial (CAPS), assinale a opção que apresenta a estratégia mais compatível para a promoção da inclusão social e a prevenção da internação hospitalar.",
+  "alts": [
+   "Atendimento individual pelo médico de família.",
+   "Encaminhamento para um Centro de Convivência.",
+   "Consulta matricial com profissional de saúde mental.",
+   "Prescrição de psicotrópicos sem acompanhamento médico.",
+   "Encaminhamento direto para um hospital psiquiátrico para internação compulsória."
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 3.088/2011 (RAPS), consolidada na PRC 3/2017; Lei 10.216/2001",
+  "coment": "O caso é de sofrimento mental comum identificado na Estratégia Saúde da Família. Na RAPS (Portaria 3.088/2011), a atenção básica é porta de entrada e cuida desses casos com apoio matricial das equipes de saúde mental (CAPS e eMulti): consultas e discussões conjuntas, projeto terapêutico singular e manejo no território. Assim o usuário fica na comunidade, mantém vínculos e trabalho e evita-se a internação, como manda a Lei 10.216/2001, que faz da internação o último recurso. O Centro de Convivência também é ponto da RAPS voltado à inclusão social, mas não oferece o apoio especializado que o caso exige.",
+  "porAlt": [
+   "O médico de família sozinho não oferece o apoio especializado em saúde mental que a avaliação apontou como necessário.",
+   "O Centro de Convivência promove inclusão social, mas não é o dispositivo de apoio clínico especializado pedido pelo caso.",
+   "Correta: o matriciamento leva o saber especializado à equipe da ESF e mantém o cuidado no território, evitando a internação.",
+   "Psicotrópico sem acompanhamento médico fere a segurança do paciente e a lógica do cuidado compartilhado.",
+   "Internação compulsória é exceção judicial na Lei 10.216/2001 e não cabe a quadro ansioso ambulatorial."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Homem de 68 anos, internado na neurologia, com queixa de perda de olfato que começou há aproximadamente três meses. Ele relata que, inicialmente, notou uma diminuição gradual na capacidade de detectar cheiros, evoluindo para a completa ausência de olfato. Anosmia é a designação que se dá à ausência de olfato. Parosmia corresponde às alterações do odor, sendo a cacosmia, odor desagradável ou fétido, a forma mais comum.\nOcasionalmente, a anosmia e a hiposmia são sintomas e sinais típicos que antecedem a",
+  "alts": [
+   "Doença de Graves.",
+   "Síndrome de Marfan.",
+   "Doença de Parkinson.",
+   "Síndrome de Asperger.",
+   "Síndrome de Tourette."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Critérios clínicos da Movement Disorder Society para doença de Parkinson (Postuma et al., 2015)",
+  "coment": "A hiposmia e a anosmia são sintomas não motores da fase prodrômica da doença de Parkinson: podem surgir anos antes do tremor, da rigidez e da bradicinesia, porque a degeneração com corpos de Lewy atinge cedo o bulbo olfatório. Nos critérios da Movement Disorder Society (Postuma et al., 2015), a perda olfatória documentada é um critério de suporte ao diagnóstico. Na anamnese do idoso, a queixa de perda de olfato progressiva merece registro e investigação neurológica. As demais doenças listadas não têm a anosmia como sinal precursor típico.",
+  "porAlt": [
+   "A doença de Graves é tireoidiana autoimune e se manifesta por hipertireoidismo, bócio e oftalmopatia, não por anosmia.",
+   "A síndrome de Marfan é doença do tecido conjuntivo com alterações esqueléticas, oculares e aórticas.",
+   "Correta: a perda olfatória é sintoma prodrômico e critério de suporte no diagnóstico da doença de Parkinson.",
+   "A síndrome de Asperger, hoje dentro do transtorno do espectro autista, é condição do neurodesenvolvimento da infância.",
+   "A síndrome de Tourette começa na infância com tiques motores e vocais, sem relação com anosmia."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A síndrome demencial tem sido apontada como a condição crônica com maior impacto na determinação de incapacidade funcional no idoso. A condição compromete a qualidade de vida não apenas do seu portador, mas também daqueles que o cercam. Além disso, os custos relacionados à demência são altos, excedendo os de doenças cardíacas e câncer.\nAssinale a opção que apresenta um critério diagnóstico de demência de qualquer etiologia.",
+  "alts": [
+   "Personalidade ou comportamento com sintomas que incluem fadiga extrema, interesse por coisas novas, histeria e ganho de peso.",
+   "Personalidade ou comportamento com sintomas que incluem fadiga extrema, interesse por coisas novas, abasia e inibição social.",
+   "Habilidades visuais e espaciais com sintomas que incluem incapacidade de reconhecer algarismos, tetania facial e ganho de peso.",
+   "Personalidade ou comportamento com sintomas que incluem fadiga extrema, tetania com espasmos cervicais, histeria e ganho de peso.",
+   "Personalidade ou comportamento com sintomas que incluem agitação, apatia, desinteresse, isolamento social, perda de empatia e desinibição."
+  ],
+  "gab": 4,
+  "tema": "idoso",
+  "sub": "Demências e delirium",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Critérios NIA-AA para demência por qualquer causa (McKhann et al., 2011); recomendações da Academia Brasileira de Neurologia (Frota et al., 2011)",
+  "coment": "Pelos critérios do NIA-AA (McKhann et al., 2011), adotados pela Academia Brasileira de Neurologia, há demência de qualquer etiologia quando sintomas cognitivos ou comportamentais interferem no trabalho ou nas atividades usuais, representam declínio do nível prévio e não se explicam por delirium ou transtorno psiquiátrico maior. O comprometimento deve atingir ao menos dois domínios: memória, função executiva, habilidades visuoespaciais, linguagem e personalidade ou comportamento. Neste último, os sintomas descritos são agitação, apatia, perda de iniciativa, isolamento social, perda de empatia e comportamentos desinibidos, exatamente o que traz a alternativa correta.",
+  "porAlt": [
+   "Fadiga extrema, interesse por coisas novas, histeria e ganho de peso não constam do domínio comportamental da demência.",
+   "Interesse por coisas novas é o oposto da apatia, e abasia é distúrbio da marcha, não critério comportamental.",
+   "Tetania facial e ganho de peso não fazem parte do domínio visuoespacial, que trata de reconhecer objetos e se orientar.",
+   "Tetania com espasmos cervicais é manifestação neuromuscular, típica de hipocalcemia, e não critério de demência.",
+   "Correta: agitação, apatia, isolamento, perda de empatia e desinibição compõem o domínio personalidade e comportamento."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Política Nacional de Promoção, Proteção e Apoio ao Aleitamento Materno do Brasil tem como objetivo promover, proteger e apoiar o aleitamento materno como um direito da criança e da mãe, além de ser uma estratégia essencial para a saúde pública. Esta política está alinhada com recomendações internacionais, como as da Organização Mundial da Saúde (OMS) e do Fundo das Nações Unidas para a Infância (UNICEF), que destacam a importância do aleitamento materno para a saúde infantil e materna.\nAssinale a opção que apresenta o objetivo principal dessa Política.",
+  "alts": [
+   "Incentivar a prática do aleitamento materno exclusivo até os seis meses de idade, conforme recomendado pela OMS.",
+   "Apoiar a descontinuidade do aleitamento materno junto com a introdução de alimentos complementares até oito meses de vida.",
+   "Descentralizar as redes de apoio comunitário, como grupos de apoio à amamentação e os programas de educação sexual e reprodutiva.",
+   "Incentivar a prática do aleitamento materno até os seis meses de idade, intercalando com leite de vaca, conforme recomendado pela OMS.",
+   "Certificar hospitais de emergência que implementam práticas de apoio ao aleitamento materno, de acordo com os Vinte Passos para o Sucesso do Aleitamento Materno, desenvolvidos pela OMS e UNICEF."
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Aleitamento e alimentação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 1.130/2015 (PNAISC), art. 6º, II; Guia Alimentar para Crianças Brasileiras Menores de 2 Anos (MS, 2019)",
+  "coment": "O eixo central das ações de promoção, proteção e apoio ao aleitamento materno no Brasil, hoje um eixo estratégico da PNAISC (Portaria 1.130/2015, art. 6º, II), é o aleitamento materno exclusivo até os 6 meses, seguido de aleitamento complementado até 2 anos ou mais, como recomendam OMS, UNICEF e o Guia Alimentar para Crianças Menores de 2 Anos (MS, 2019). Exclusivo significa só leite materno, sem água, chás ou outros leites. A Iniciativa Hospital Amigo da Criança certifica maternidades e hospitais que cumprem os Dez Passos para o Sucesso do Aleitamento Materno.",
+  "porAlt": [
+   "Correta: o objetivo central é o aleitamento materno exclusivo até os 6 meses, como recomenda a OMS.",
+   "A política defende manter o aleitamento junto com a alimentação complementar até 2 anos ou mais, e não interrompê-lo.",
+   "As redes de apoio comunitário são estratégias da política, e educação sexual e reprodutiva não é seu objetivo principal.",
+   "Intercalar com leite de vaca descaracteriza o aleitamento exclusivo e não é recomendado antes de 1 ano.",
+   "A certificação é da Iniciativa Hospital Amigo da Criança, para maternidades, com base em Dez Passos, não vinte."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A gestação é geralmente um fenômeno fisiológico que ocorre sem intercorrências. O sintoma mais comumente identificado para a suspeição de gravidez é o atraso menstrual. Outros sintomas e sinais comuns ou específicos podem compor o quadro, possibilitando a confirmação da gestação.\nSobre o tema, assinale a opção que apresenta, corretamente, sinais e sintomas de presunção de gravidez.",
+  "alts": [
+   "Melasma facial, linha nigra e aumento do volume abdominal.",
+   "Identificação do hormônio coriogonadotrófico (hCG) na urina ou no sangue.",
+   "Palpação de partes fetais no abdome materno é sintoma exclusivo da gestação.",
+   "Presença de batimentos cardíacos fetais, detectados por sonar (entre 10-12 semanas).",
+   "Aumento do volume uterino e alterações em que o útero se torna globoso (sinal de Noblé-Budin)."
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 32, Atenção ao Pré-Natal de Baixo Risco (MS, 2012)",
+  "coment": "O Caderno de Atenção Básica nº 32 (MS, 2012) separa os sinais de gravidez em três grupos. Presunção: atraso menstrual, náuseas, aumento da frequência urinária, alterações das mamas, cianose vulvovaginal, aumento do volume abdominal e alterações de pigmentação como melasma e linha nigra. Probabilidade: amolecimento e aumento do volume uterino (sinal de Noble-Budin) e beta-hCG positivo no sangue ou na urina. Certeza: batimentos cardíacos fetais pelo sonar (a partir de 12 semanas) ou pelo Pinard (a partir de 20), percepção ou palpação de partes e movimentos fetais e ultrassonografia. Só a alternativa A traz apenas sinais de presunção.",
+  "porAlt": [
+   "Correta: melasma, linha nigra e aumento do volume abdominal são sinais de presunção de gravidez.",
+   "A detecção do hCG no sangue ou na urina é sinal de probabilidade, não de presunção.",
+   "A palpação de partes fetais é sinal de certeza da gestação, e não sintoma de presunção.",
+   "Os batimentos cardíacos fetais detectados pelo sonar são sinal de certeza da gravidez.",
+   "O aumento do volume uterino com útero globoso (Noble-Budin) é sinal de probabilidade."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As doenças isquêmicas do coração geralmente são causadas por obstrução ou estenose de uma ou mais artérias cardíacas por placa ateromatosa. O termo Síndrome Coronariana Aguda (SCA) é usado para descrever um conjunto de doenças isquêmicas do coração, incluindo a angina instável e o infarto agudo do miocárdio (IAM) com ou sem supradesnivelamento do segmento ST.\nAssinale a opção que apresenta os achados clínicos que permitem confirmar o diagnóstico de IAM.",
+  "alts": [
+   "Ascite e hepatoesplenomegalia.",
+   "Leucocitose e bradicardia sinusal.",
+   "Plaquetopenia e trombocitopenia.",
+   "Precordialgia e supradesnivelamento do segmento ST.",
+   "Marcadores tumorais e supradesnivelamento do segmento ST."
+  ],
+  "gab": 3,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Quarta Definição Universal de Infarto do Miocárdio (Thygesen et al., 2018); Diretriz da SBC sobre IAM com supradesnivelamento do segmento ST (2015)",
+  "coment": "Dor precordial típica com supradesnivelamento persistente do segmento ST em duas derivações contíguas define o IAM com supra de ST e basta para indicar a reperfusão imediata, sem esperar a troponina (Diretriz da SBC, 2015). Pela Quarta Definição Universal (2018), a confirmação formal do infarto exige ainda elevação e queda da troponina, com evidência clínica de isquemia. A questão simplifica esse ponto, mas a alternativa D é a única que combina o sintoma isquêmico com o achado eletrocardiográfico. Ascite, alterações plaquetárias e marcadores tumorais não têm relação com o diagnóstico de IAM.",
+  "porAlt": [
+   "Ascite e hepatoesplenomegalia sugerem hepatopatia ou congestão sistêmica, não infarto.",
+   "Leucocitose é inespecífica e a bradicardia sinusal não confirma IAM.",
+   "Plaquetopenia e trombocitopenia são o mesmo achado hematológico, sem relação com o diagnóstico de IAM.",
+   "Correta: precordialgia com supradesnivelamento do ST caracteriza o IAM com supra e indica reperfusão.",
+   "Marcadores tumorais não servem ao diagnóstico de IAM; o marcador de necrose miocárdica é a troponina."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Legalmente, o enfermeiro é o responsável pela sistematização da assistência de enfermagem e pelo cuidado de maior complexidade ao paciente em risco de vida, o que exige uma sólida base de conhecimentos. O coma é um estado de inconsciência, habitualmente prolongado, do qual o paciente pode ou não emergir. Esse estado de inconsciência não pode ser revertido pelos estímulos externos comuns, critério que torna possível distinguir o coma do estado de inconsciência do sono fisiológico.\nSobre esse caso, assinale a opção que indica o instrumento que o enfermeiro usa para avaliar alterações de nível de consciência.",
+  "alts": [
+   "Escala de Braden.",
+   "Escala de Glasgow.",
+   "Escala de Aldrete e Kroulik.",
+   "Escala de AVC do NIH (NIHSS).",
+   "Escala de Richmond de Agitação-Sedação (RASS)."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Escala de Coma de Glasgow (Teasdale e Jennett, 1974; versão GCS-P, 2018); Lei 7.498/1986, art. 11, I, l e m",
+  "coment": "A Escala de Coma de Glasgow avalia o nível de consciência por abertura ocular (1 a 4), resposta verbal (1 a 5) e resposta motora (1 a 6), com escore de 3 a 15; 8 ou menos indica coma grave. A versão GCS-P (2018) subtrai a reatividade pupilar do total. Os cuidados ao paciente grave com risco de vida e de maior complexidade técnica são privativos do enfermeiro (Lei 7.498/1986, art. 11, I, l e m), e a avaliação seriada do Glasgow faz parte da etapa de Avaliação do Processo de Enfermagem, que a Res. COFEN 736/2024 regulamenta em substituição à 358/2009. As outras escalas medem risco de lesão por pressão, recuperação anestésica, déficit do AVC e sedação.",
+  "porAlt": [
+   "A escala de Braden estima o risco de lesão por pressão, não o nível de consciência.",
+   "Correta: a Escala de Coma de Glasgow é o instrumento padrão para avaliar o nível de consciência.",
+   "A escala de Aldrete e Kroulik avalia a recuperação pós-anestésica para alta da SRPA.",
+   "A NIHSS quantifica o déficit neurológico no AVC, não o nível de consciência em geral.",
+   "A RASS gradua agitação e sedação, sobretudo no paciente sob sedação contínua."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente de 70 anos foi admitido na Unidade de Terapia Intensiva (UTI) com diagnóstico de sepse grave. O médico prescreveu a infusão de 2.500mL de solução salina 0,9% (SF 0,9%) para ser administrada em 20 horas.\nComo enfermeiro responsável pelo cuidado do paciente, você precisa calcular a taxa de infusão em mL/h e ajustar o equipo de infusão para a correta administração do fluido.\nAssinale a opção que indica a taxa de infusão a ser ajustada no equipo de microgotas.",
+  "alts": [
+   "100 microgotas/min.",
+   "120 microgotas/min.",
+   "125 microgotas/min.",
+   "190 microgotas/min.",
+   "210 microgotas/min."
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Gotejamento e bomba de infusão",
+  "cenario": "uti",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, Portaria GM/MS 2.095/2013)",
+  "coment": "Em microgotas, 1 mL corresponde a 60 microgotas e 1 hora a 60 minutos; por isso o número de microgotas por minuto é igual ao volume em mL dividido pelas horas. Assim, 2.500 mL ÷ 20 h = 125 mL/h, ou seja, 125 microgotas/min. Em macrogotas (1 mL = 20 gotas) seriam cerca de 42 gotas/min. Conferir o cálculo faz parte da administração segura de medicamentos e soluções do protocolo do PNSP (2013). O termo sepse grave foi abandonado no consenso Sepsis-3 (2016), e na ressuscitação inicial a Surviving Sepsis Campaign 2026 sugere 30 mL/kg de cristaloide nas primeiras 3 horas; aqui se cobra só o cálculo.",
+  "porAlt": [
+   "100 microgotas/min infundiriam 2.000 mL em 20 horas, menos que o prescrito.",
+   "120 microgotas/min infundiriam 2.400 mL em 20 horas, abaixo do volume prescrito.",
+   "Correta: 2.500 mL divididos por 20 h dão 125 mL/h, que equivalem a 125 microgotas/min.",
+   "190 microgotas/min infundiriam 3.800 mL em 20 horas, muito acima do prescrito.",
+   "210 microgotas/min infundiriam 4.200 mL em 20 horas, quase o dobro do prescrito."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 61,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente de 65 anos foi admitido na UTI com diagnóstico de insuficiência cardíaca congestiva. O médico prescreveu um betabloqueador seletivo, o metoprolol, para ajudar no controle da frequência cardíaca e melhorar a função cardíaca.\nDurante a monitorização, a equipe de enfermagem notou que a frequência cardíaca do paciente começou a diminuir significativamente, chegando a 50bpm.\nNeste caso, assinale a opção que apresenta o principal cuidado a ser executado pela equipe de enfermagem ao monitorar este paciente.",
+  "alts": [
+   "Aumentar a dose do betabloqueador para controlar melhor a frequência cardíaca.",
+   "Monitorar rigorosamente a FC e a PA, e notificar o médico se a bradicardia persistir.",
+   "Administrar adrenalina e iniciar os procedimentos de ressuscitação cardíaca.",
+   "Administrar atropina para aumentar a frequência cardíaca e diminuir a carga cardíaca.",
+   "Administrar um diurético para reduzir o volume de líquidos e diminuir a carga cardíaca."
+  ],
+  "gab": 1,
+  "tema": "farmaco",
+  "sub": "Interações e reações adversas",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda (SBC, 2018); Diretrizes AHA 2025 de RCP e ACE (bradicardia)",
+  "coment": "O metoprolol reduz a frequência cardíaca, e bradicardia é efeito esperado e dose-dependente. A Diretriz Brasileira de Insuficiência Cardíaca (SBC, 2018) orienta titular o betabloqueador e reduzir a dose diante de bradicardia sintomática ou hipotensão. Com FC de 50 bpm sem sinais de instabilidade, cabe à enfermagem monitorar de perto FC, PA, perfusão e sintomas (tontura, síncope, confusão) e comunicar o médico para reavaliar a prescrição. Atropina só se indica na bradicardia com instabilidade (hipotensão, alteração de consciência, choque, dor torácica ou IC aguda), segundo o algoritmo da AHA, e adrenalina com RCP é para parada cardíaca.",
+  "porAlt": [
+   "Aumentar o betabloqueador agravaria a bradicardia, que já é efeito adverso da droga.",
+   "Correta: diante da bradicardia pelo betabloqueador, monitora-se FC e PA e comunica-se o médico se persistir.",
+   "Adrenalina e RCP são para parada cardiorrespiratória, e o paciente tem pulso e FC de 50 bpm.",
+   "Atropina é reservada à bradicardia com sinais de instabilidade e exige prescrição; não diminui a carga cardíaca.",
+   "O diurético não trata a bradicardia, e a conduta dele depende de congestão e de prescrição médica."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 62,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente de 45 anos foi admitido na UTI após sofrer um grave acidente automobilístico. Ele foi diagnosticado com TCE e apresentava sinais de aumento da PIC, encontra-se sedado e em ventilação mecânica. A equipe de enfermagem está monitorando continuamente seus sinais vitais e a PIC. Ao ser estimulado à dor, o paciente apresentou hiperextensão da cabeça e hipertonia em extensão dos quatro membros, com adução e hiperpronação dos membros superiores e com os pés em flexão plantar.\nEssa postura de rigidez é denominada",
+  "alts": [
+   "postura fetal.",
+   "descorticação.",
+   "descerebração.",
+   "postura lordótica.",
+   "postura defeituosa."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Escala de Coma de Glasgow (Teasdale e Jennett, 1974), resposta motora 2: extensão anormal",
+  "coment": "A descerebração é a extensão anormal ao estímulo doloroso: hiperextensão da cabeça, membros superiores estendidos, aduzidos e em hiperpronação e membros inferiores estendidos com flexão plantar. Indica lesão do tronco encefálico em nível mesencefálico ou pontino, frequentemente por herniação na hipertensão intracraniana, e pontua 2 na resposta motora da Escala de Glasgow. A descorticação, de prognóstico menos grave, tem flexão dos membros superiores sobre o tórax com extensão dos inferiores e pontua 3; sugere lesão acima do tronco. A piora da descorticação para a descerebração é sinal de alarme.",
+  "porAlt": [
+   "A postura fetal é posição de flexão global usada no conforto ou em procedimentos, não postura patológica à dor.",
+   "Na descorticação os membros superiores ficam fletidos sobre o tórax, e não estendidos e pronados.",
+   "Correta: extensão e pronação dos membros superiores com extensão dos inferiores caracterizam a descerebração.",
+   "Postura lordótica descreve aumento da curvatura lombar, sem relação com resposta motora à dor.",
+   "Postura defeituosa é termo genérico de alteração postural, não um padrão de resposta neurológica."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 63,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre as dimensões que permitem construir a avaliação da assistência, analise as afirmativas a seguir.\nI. As estruturais referem-se às características das instituições, como os recursos humanos, os materiais físicos, os recursos financeiros e o modelo organizacional.\nII. As processuais referem-se ao conjunto de atividades desenvolvidas na produção e as relações estabelecidas entre os profissionais e os clientes.\nIII. O resultado é a obtenção das características desejáveis dos produtos ou dos serviços, retratando os efeitos da assistência na saúde da população.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I, II e III.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas."
+  ],
+  "gab": 1,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Donabedian A. The quality of care: how can it be assessed? JAMA, 1988 (tríade estrutura, processo e resultado)",
+  "coment": "A avaliação da qualidade em saúde segue a tríade de Donabedian (1988). Estrutura são as condições em que o cuidado é prestado: recursos humanos, materiais, físicos e financeiros e o modelo organizacional. Processo é o conjunto de atividades realizadas na produção do cuidado e as relações entre profissionais e pacientes. Resultado é o efeito do cuidado sobre a saúde e a satisfação do paciente e da população, ou seja, o alcance das características desejadas do produto ou serviço. As três afirmativas reproduzem corretamente essas definições, e os indicadores de enfermagem costumam ser organizados nessas mesmas dimensões.",
+  "porAlt": [
+   "A afirmativa I está certa, mas II e III também definem corretamente processo e resultado.",
+   "Correta: as três afirmativas descrevem com exatidão estrutura, processo e resultado da tríade de Donabedian.",
+   "A afirmativa III também está correta, pois resultado é o efeito da assistência sobre a saúde.",
+   "A afirmativa II também está correta, pois processo é o conjunto de atividades e relações do cuidado.",
+   "A afirmativa I também está correta, pois estrutura abrange recursos humanos, físicos, financeiros e organização."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 64,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Programa Nacional de Imunizações (PNI) do Brasil tem avançado continuamente para proporcionar uma melhor qualidade de vida à população por meio da prevenção de doenças. A vacinação é a melhor maneira de proteger a criança contra doenças imunopreveníveis.\nAo nascer, a criança deve receber as vacinas",
+  "alts": [
+   "BCG e Hepatite B.",
+   "DPT, tetra viral e BCG.",
+   "Febre amarela e sarampo.",
+   "DPT, febre amarela e tétano.",
+   "Vacina adsorvida hepatite A (HA - inativada) e Covid-19."
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "Pela Instrução Normativa do Calendário Nacional de Vacinação 2026, o recém-nascido recebe ao nascer duas vacinas, ainda na maternidade. A BCG é dose única ao nascer; se não foi possível, aplica-se o quanto antes, idealmente até 30 dias, e pode ser feita até 4 anos, 11 meses e 29 dias. A hepatite B é dose única logo após o nascimento, na sala de parto ou nas primeiras 12 horas, com as demais doses pela penta aos 2, 4 e 6 meses; essa dose do recém-nascido só é aplicada até 1 mês de vida. Febre amarela começa aos 9 meses, tríplice viral aos 12 meses, hepatite A aos 15 meses e a covid-19 a partir dos 6 meses.",
+  "porAlt": [
+   "Correta: BCG e hepatite B são as vacinas aplicadas ao nascer, ainda na maternidade.",
+   "A DTP entra pela penta aos 2 meses, e sarampo, caxumba, rubéola e varicela são vacinados aos 12 e 15 meses; só a BCG se aplica ao nascer.",
+   "A febre amarela começa aos 9 meses e o sarampo, pela tríplice viral, aos 12 meses.",
+   "DTP e febre amarela não se aplicam ao nascer, e não existe vacina isolada de tétano no esquema do recém-nascido.",
+   "A hepatite A é aplicada aos 15 meses e a covid-19 a partir dos 6 meses de idade."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 65,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente de 68 anos, com déficits auditivo e visual, foi admitido no hospital com um quadro agudo de dor abdominal intensa e febre.\nApós a avaliação clínica e os exames de imagem, o paciente foi diagnosticado com câncer de intestino. A equipe médica decidiu pela intervenção cirúrgica de emergência, em que foi construída uma colostomia descendente/sigmoide.\nNos casos de impactação fecal com uma colostomia descendente/sigmoide, os dedos podem ser usados para quebrar as fezes por meio do estoma, seguido de limpeza com irrigação.\nAs contraindicações desse procedimento incluem",
+  "alts": [
+   "os casos de hipotireoidismo.",
+   "o uso de hipoglicemiante oral.",
+   "as discrasias sanguíneas e os distúrbios hemorrágicos.",
+   "os casos de hipotireoidismo com estados febris infecciosos.",
+   "os casos de hipertricose auricular com estados febris infecciosos."
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Estomias e cuidados",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Guia de Atenção à Saúde da Pessoa com Estomia (MS, 2021); Portaria SAS/MS 400/2009",
+  "coment": "A desimpactação digital pelo estoma e a irrigação manipulam diretamente a mucosa intestinal exteriorizada, que é muito vascularizada e friável. Por isso, discrasias sanguíneas e distúrbios hemorrágicos (plaquetopenia, coagulopatia, anticoagulação plena) contraindicam o procedimento, pelo risco de sangramento e de lesão da alça. Antes de manipular o estoma, a enfermagem confere coagulograma e plaquetas, usa luva lubrificada, introduz o dedo com delicadeza e suspende diante de dor ou sangramento. O cuidado à pessoa estomizada segue a Portaria SAS/MS 400/2009 e o Guia do MS (2021). Hipotireoidismo e hipoglicemiante oral não contraindicam a técnica.",
+  "porAlt": [
+   "O hipotireoidismo pode favorecer a constipação, mas não contraindica a desimpactação pelo estoma.",
+   "O uso de hipoglicemiante oral não interfere no risco do procedimento de desimpactação.",
+   "Correta: discrasias e distúrbios hemorrágicos contraindicam a manipulação da mucosa do estoma pelo risco de sangramento.",
+   "Hipotireoidismo com febre não é contraindicação descrita para a desimpactação digital do estoma.",
+   "Hipertricose auricular é achado sem relação com o procedimento e não o contraindica."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 66,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente de 45 anos foi admitido na emergência após sofrer uma queda de bicicleta. Ao dar entrada, estava inconsciente e apresentava um quadro compatível com TCE.\nDurante os primeiros cuidados, evoluiu para assistolia. A equipe iniciou imediatamente as manobras de ressuscitação cardiopulmonar.\nCom base no algoritmo de PCR para adultos da AHA (2020), assinale a opção que apresenta a sequência de ações que a equipe de saúde deve seguir ao atender esse paciente.",
+  "alts": [
+   "Aplicar desfibrilação se o ritmo for não chocável.",
+   "Iniciar compressões torácicas, verificar o ritmo e administrar epinefrina se o ritmo não for chocável.",
+   "Administrar bicarbonato de sódio com atropina e realizar intubação traqueal antes de qualquer outra intervenção.",
+   "Aplicar desfibrilação se o ritmo for não chocável, administrar epinefrina e iniciar massagem cardíaca e ventilação mecânica.",
+   "Administrar atropina e bicarbonato de sódio antes de iniciar as compressões torácicas, a intubação traqueal e a ventilação mecânica controlada."
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Parada cardiorrespiratória",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes AHA 2025 de RCP e ACE, suporte avançado de vida no adulto (mantém a conduta da AHA 2020)",
+  "coment": "Assistolia é ritmo não chocável. No algoritmo de PCR do adulto da AHA, mantido em 2025, a conduta é iniciar RCP de alta qualidade, checar o ritmo a cada 2 minutos e administrar epinefrina 1 mg IV ou IO o mais precocemente possível, repetida a cada 3 a 5 minutos, enquanto se buscam as causas reversíveis (5 H e 5 T). No trauma, hipovolemia, pneumotórax hipertensivo e tamponamento ganham peso. Desfibrilar assistolia não tem efeito; bicarbonato e atropina não são de rotina na PCR, e a via aérea avançada não deve atrasar nem interromper as compressões.",
+  "porAlt": [
+   "A desfibrilação só se aplica a ritmos chocáveis (FV e TV sem pulso), nunca à assistolia.",
+   "Correta: na assistolia faz-se RCP, checagem do ritmo e epinefrina precoce, por ser ritmo não chocável.",
+   "Bicarbonato e atropina não são de rotina na PCR, e a intubação não pode atrasar as compressões.",
+   "Desfibrilar ritmo não chocável é erro, e as compressões devem começar imediatamente, não por último.",
+   "Atropina e bicarbonato antes das compressões atrasam a RCP, que é a prioridade absoluta."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 67,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma mulher de 28 anos chega à sala de emergência em trabalho de parto avançado. Devido à rapidez do progresso do parto, não foi possível transferi-la para a sala de parto. O bebê nasce rapidamente na sala de emergência, mas logo após o nascimento, a equipe nota que o recém-nascido não está respirando e não apresenta batimentos cardíacos detectáveis.\nEm recém-nascidos que recebem ressuscitação, se não houver o retorno da frequência cardíaca e todas as etapas de ressuscitação tiverem sido realizadas, o encerramento dos esforços de ressuscitação deverá ser discutido entre a equipe de saúde e a família.\nAssinale a opção que indica, segundo a AHA (2020), o período razoável para essas considerações sobre as metas de tratamento.",
+  "alts": [
+   "Duas horas depois do nascimento.",
+   "Três horas depois do nascimento.",
+   "Cinco minutos depois do nascimento.",
+   "Seis horas depois do nascimento.",
+   "Vinte minutos depois do nascimento."
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes AHA/AAP 2025 de reanimação neonatal (Part 5); Reanimação do recém-nascido ≥ 34 semanas em sala de parto: diretrizes 2022 da SBP",
+  "coment": "Se, depois de todas as etapas da reanimação neonatal feitas corretamente (ventilação efetiva, intubação, massagem cardíaca, adrenalina e expansão de volume, quando indicada), a frequência cardíaca continua indetectável, a AHA 2020 diz que é razoável discutir com a equipe e a família o redirecionamento do cuidado em torno de 20 minutos após o nascimento. A diretriz AHA/AAP de outubro de 2025 manteve os 20 minutos, com redação mais flexível, que permite a discussão; a SBP (2022) segue o mesmo prazo. É uma decisão individualizada, que considera idade gestacional, fatores antenatais e o desejo dos pais, e não uma parada automática.",
+  "porAlt": [
+   "Duas horas é prazo sem respaldo nas diretrizes de reanimação neonatal, que falam em cerca de 20 minutos.",
+   "Três horas não é critério descrito para considerar o encerramento da reanimação neonatal.",
+   "Cinco minutos é cedo demais, pois ainda há chance de retorno da frequência cardíaca com a reanimação.",
+   "Seis horas não tem base nas diretrizes, que discutem o redirecionamento por volta dos 20 minutos.",
+   "Correta: sem frequência cardíaca após todas as etapas, discute-se o redirecionamento por volta de 20 minutos de vida."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 68,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente de 71 anos, com histórico de câncer de pulmão e insuficiência respiratória crônica, foi internado na UTI devido a uma exacerbação da sua condição respiratória. Devido à dificuldade respiratória severa e a necessidade de suporte ventilatório prolongado, foi realizada uma traqueostomia.\nAssinale a opção que apresenta as vantagens da traqueostomia em relação ao tubo endotraqueal.",
+  "alts": [
+   "Menor custo, não necessita de procedimento cirúrgico e é menos invasiva.",
+   "Não necessita de procedimento cirúrgico, não necessita de aspiração, pois não obstruem.",
+   "Maior conforto do paciente, melhor capacidade de se comunicar e a possibilidade de alimentação por via oral.",
+   "Não obstruem, não necessitam de cuidados de enfermagem e de fisioterapia, além de proporcionar mais conforto ao paciente.",
+   "Não tem risco de sangramento, não acumula secreção, e, por isso, não necessita de cuidados de enfermagem e de fisioterapia."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Ventilação mecânica",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretrizes Brasileiras de Ventilação Mecânica (AMIB/SBPT, 2013), traqueostomia",
+  "coment": "No paciente que precisa de ventilação prolongada, a traqueostomia traz vantagens sobre o tubo orotraqueal: mais conforto, menor necessidade de sedação, higiene oral mais fácil, possibilidade de comunicação (com válvula de fala ou cuff desinsuflado) e de alimentação por via oral, menor resistência e espaço morto e desmame facilitado, conforme as Diretrizes Brasileiras de Ventilação Mecânica (2013). A traqueostomia é procedimento cirúrgico ou percutâneo, com riscos de sangramento, infecção e obstrução por secreção, e exige cuidados diários de enfermagem e fisioterapia: aspiração, troca do curativo e da fixação, controle da pressão do cuff e limpeza da cânula interna.",
+  "porAlt": [
+   "A traqueostomia é procedimento cirúrgico ou percutâneo, portanto invasivo, e não dispensa cirurgia.",
+   "A traqueostomia exige procedimento e pode obstruir por secreção, por isso precisa de aspiração.",
+   "Correta: conforto, comunicação e possibilidade de alimentação oral são as vantagens sobre o tubo endotraqueal.",
+   "A cânula pode obstruir e exige cuidados contínuos de enfermagem e fisioterapia.",
+   "Há risco de sangramento e acúmulo de secreção, o que torna indispensáveis os cuidados de enfermagem e fisioterapia."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 69,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente de 55 anos, internado na UTI com diagnóstico de pancreatite aguda grave. Devido à sua condição, desenvolveu complicações gastrointestinais significativas, incluindo íleo paralítico, o que impossibilitou a alimentação enteral.\nA equipe médica, após uma avaliação multidisciplinar, decidiu iniciar a Nutrição Parenteral Total (NPT) por meio de um cateter venoso central, para garantir a administração adequada de nutrientes essenciais e evitar a desnutrição.\nPensando no uso prolongado da NPT, assinale a opção que indica o cateter a ser utilizado para a punção venosa central.",
+  "alts": [
+   "Cateter duplo J.",
+   "Cateter de Swan-Ganz.",
+   "Cateter epidural Portex.",
+   "Cateter de Hickman-Broviac.",
+   "Cateter de Sengstaken-Blakemore."
+  ],
+  "gab": 3,
+  "tema": "fundamentos",
+  "sub": "Cateteres, sondas e dispositivos",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Infusion Therapy Standards of Practice, 9ª ed. (Infusion Nurses Society, 2024); Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (ANVISA, 2017)",
+  "coment": "Nutrição parenteral total prolongada, de alta osmolaridade, exige acesso venoso central de longa permanência. O cateter de Hickman-Broviac é central, tunelizado, de silicone, com cuff de dacron que se fixa no tecido subcutâneo e funciona como barreira contra infecção e deslocamento; por isso serve para NPT, quimioterapia e terapias venosas prolongadas, ao lado do PICC e do cateter totalmente implantado (INS, 2024). A via usada para a NPT deve ser exclusiva, com troca de equipo e técnica asséptica para reduzir infecção de corrente sanguínea (ANVISA, 2017). Os outros dispositivos não servem a essa finalidade.",
+  "porAlt": [
+   "O cateter duplo J é ureteral e drena urina do rim para a bexiga, sem uso vascular.",
+   "O Swan-Ganz é cateter de artéria pulmonar para monitorização hemodinâmica, não para NPT prolongada.",
+   "O cateter epidural é para analgesia ou anestesia no espaço peridural, não para infusão venosa.",
+   "Correta: o Hickman-Broviac é cateter venoso central tunelizado, de longa permanência, próprio para NPT prolongada.",
+   "O Sengstaken-Blakemore é balão de tamponamento para hemorragia de varizes esofágicas."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 70,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A fase pós-operatória imediata refere-se ao período que começa imediatamente após a conclusão de uma cirurgia e se estende pelas primeiras 24 a 48 horas.\nEsse período é crucial para a recuperação inicial do paciente, pois envolve o monitoramento intensivo, a gestão das respostas fisiológicas e as possíveis complicações que podem surgir devido ao procedimento cirúrgico, como, por exemplo, o choque hipovolêmico, o mais comum no período pós-operatório.\nAssinale a opção que indica os sinais clássicos do choque hipovolêmico.",
+  "alts": [
+   "Pulso filiforme, poliúria e disartria.",
+   "Poliúria, taquipneia e icterícia de lábios.",
+   "Hipertensão arterial, bradipneia e anúria.",
+   "Pressão arterial baixa, icterícia e urina diluída.",
+   "Palidez, hipotensão arterial e diminuição do débito urinário."
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Recuperação pós-anestésica",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "ATLS, Advanced Trauma Life Support, 10ª ed. (American College of Surgeons, 2018), classificação do choque hemorrágico",
+  "coment": "O choque hipovolêmico resulta da perda de volume intravascular, no pós-operatório geralmente por sangramento. A resposta simpática causa vasoconstrição periférica, com palidez, pele fria e úmida, enchimento capilar lento, taquicardia e pulso fino; o rim reduz a filtração e o débito urinário cai, abaixo de 0,5 mL/kg/h no adulto. A hipotensão aparece quando a perda é maior, a partir de cerca de 30% da volemia na classificação do ATLS (2018). Por isso a enfermagem monitora PA, FC, perfusão, diurese horária, drenos e ferida operatória. Poliúria, icterícia, hipertensão e urina diluída não fazem parte do quadro.",
+  "porAlt": [
+   "O pulso filiforme ocorre, mas no choque há oligúria, não poliúria, e disartria não é sinal clássico.",
+   "Há taquipneia, porém o débito urinário cai, e icterícia não faz parte do choque hipovolêmico.",
+   "No choque há hipotensão e taquipneia; hipertensão e bradipneia são o oposto do quadro.",
+   "A hipotensão ocorre, mas icterícia e urina diluída não são sinais do choque hipovolêmico.",
+   "Correta: palidez, hipotensão e queda do débito urinário são os sinais clássicos do choque hipovolêmico."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 72,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente de 60 anos, com histórico de hipertensão arterial e diabetes mellitus tipo 2 mal controlados, foi diagnosticado com doença renal crônica (DRC), estágio 5, há três anos. Devido à progressão da insuficiência renal, iniciou tratamento regular com hemodiálise três vezes por semana.\nA anemia, uma grave consequência da insuficiência renal crônica, provoca incapacidade física e mental, sendo responsável pela redução da sobrevida e da qualidade de vida desses pacientes.\nDurante o período de hemodiálise, é imperativo que a enfermeira fique atenta para a administração de",
+  "alts": [
+   "plasma.",
+   "plaquetas.",
+   "eritropoetina.",
+   "vitaminas C e K.",
+   "cloreto de magnésio."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Doença renal e diálise",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "KDIGO Clinical Practice Guideline for Anemia in Chronic Kidney Disease (2012); RDC ANVISA 11/2014 (serviços de diálise)",
+  "coment": "A anemia da doença renal crônica decorre sobretudo da produção insuficiente de eritropoetina pelo rim. O tratamento é o agente estimulador da eritropoese (alfaepoetina), associado à reposição de ferro, já que a deficiência de ferro reduz a resposta. Segundo o KDIGO (2012), corrige-se o ferro antes de começar e evita-se buscar hemoglobina acima de 11,5 g/dL, pelo risco de AVC, trombose e hipertensão. Em hemodiálise, a epoetina é aplicada por via subcutânea ou intravenosa, esta pela linha venosa no fim da sessão. A enfermagem acompanha PA, hemoglobina, sinais de trombose da fístula e a adesão ao esquema.",
+  "porAlt": [
+   "O plasma repõe fatores de coagulação e não corrige a anemia da doença renal crônica.",
+   "Plaquetas tratam plaquetopenia ou sangramento, sem efeito sobre a anemia renal.",
+   "Correta: a eritropoetina repõe o hormônio que o rim doente deixa de produzir e corrige a anemia da DRC.",
+   "Vitamina C e vitamina K não tratam a anemia da DRC; a reposição que acompanha a epoetina é de ferro.",
+   "O cloreto de magnésio não trata anemia, e o magnésio exige cautela na insuficiência renal."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 73,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente de 81 anos, com histórico de hipertensão arterial e IAM prévio, é admitido na unidade de emergência com queixa de dispneia progressiva nas últimas duas semanas. Relatou falta de ar em ortopneia e que tem episódios de dispneia paroxística noturna, obrigando-o a sentar-se para respirar melhor.\nNa avaliação cardiopulmonar, a enfermeira registrou estertores crepitantes bibasais nos pulmões e ritmo cardíaco regular com presença de um galope em B3. O Ecocardiograma revela fração de ejeção do ventrículo esquerdo reduzida (35%), dilatação do ventrículo esquerdo e função sistólica global diminuída.\nO plano de cuidados de enfermagem deve ser direcionado para evitar que o paciente evolua para choque",
+  "alts": [
+   "anafilático.",
+   "neurogênico.",
+   "cardiogênico.",
+   "hipovolêmico.",
+   "obstrutivo e neurogênico."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda (SBC, 2018)",
+  "coment": "O paciente tem insuficiência cardíaca com fração de ejeção reduzida (35%) descompensada: ortopneia, dispneia paroxística noturna, estertores bibasais e galope de B3 indicam congestão por falência do ventrículo esquerdo. A evolução temida é o choque cardiogênico, falência da bomba com hipotensão e hipoperfusão (extremidades frias, oligúria, confusão, lactato alto) apesar de volemia adequada (Diretriz da SBC, 2018). O plano de enfermagem inclui cabeceira elevada, oxigênio conforme a saturação, balanço hídrico e peso diário, restrição hídrica e de sódio prescritas e monitorização de PA, FC, perfusão e diurese para reconhecer cedo a baixa perfusão.",
+  "porAlt": [
+   "O choque anafilático depende de exposição a alérgeno, ausente no caso.",
+   "O choque neurogênico decorre de lesão medular alta com perda do tônus simpático, sem relação com o quadro.",
+   "Correta: a IC com fração de ejeção reduzida descompensada evolui para falência de bomba, o choque cardiogênico.",
+   "No choque hipovolêmico há perda de volume, enquanto este paciente está congesto, com excesso de volume.",
+   "Não há causa de obstrução (tamponamento, TEP maciço, pneumotórax) nem lesão medular no caso."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 74,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente de 75 anos, com histórico de diabetes mellitus e hipertensão arterial, admitida na emergência com febre alta, confusão mental e fraqueza generalizada. Nas últimas 24 horas, apresentou piora significativa do estado geral, incluindo taquicardia, hipotensão e oligúria.\nAo exame físico, a enfermeira registrou letargia, extremidades frias e cianóticas, além de sinais de perfusão periférica inadequada. PA de 75/40mmHg, FC de 138bpm, FR de 32rpm e Tax. de 39,3°C. Exames complementares, leucocitose com desvio à esquerda, lactato sérico elevado, piúria e bacteriúria. Culturas de sangue e urina aguardando resultados.\nAssinale a opção que apresenta a prioridade inicial da equipe de enfermagem para executar a prescrição médica e manejar esta paciente com suspeita de choque séptico.",
+  "alts": [
+   "Administrar antipiréticos para reduzir a febre.",
+   "Iniciar reposição volêmica intravenosa e administrar antibióticos.",
+   "Iniciar nutrição parenteral para melhorar o estado nutricional da paciente e O₂ nasal.",
+   "Separar material de intubação para suporte ventilatório e administrar antipiréticos.",
+   "Iniciar nutrição parenteral para melhorar o estado nutricional e aplicar compressas frias para baixar a temperatura corporal."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Sepse e choque",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Surviving Sepsis Campaign 2026 (Prescott et al., Intensive Care Med e Crit Care Med, 2026)",
+  "coment": "A paciente tem foco urinário, hipotensão (PA 75/40 mmHg), taquicardia, oligúria, má perfusão e lactato elevado: suspeita de choque séptico. A Surviving Sepsis Campaign 2026 recomenda, na primeira hora, coletar hemoculturas e lactato, iniciar antibiótico de amplo espectro em até 1 hora quando o choque é provável e repor cristaloide, sugerindo 30 mL/kg nas primeiras 3 horas, com vasopressor (noradrenalina) se a PAM seguir abaixo de 65 mmHg. Cada hora de atraso no antimicrobiano aumenta a mortalidade. Antipirético dá conforto mas não muda o desfecho, e nutrição parenteral não tem lugar na fase aguda de instabilidade.",
+  "porAlt": [
+   "O antipirético alivia a febre, mas não trata a hipoperfusão nem a infecção, que são a prioridade.",
+   "Correta: volume intravenoso e antibiótico na primeira hora são a base do manejo inicial do choque séptico.",
+   "Nutrição parenteral não é prioridade na fase aguda instável, e O₂ nasal isolado não trata o choque.",
+   "Preparar a intubação pode ser necessário depois, mas não substitui volume e antibiótico, que vêm primeiro.",
+   "Nutrição parenteral e compressas frias não tratam a hipoperfusão nem a infecção do choque séptico."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 75,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente de 50 anos, admitido na UTI após cirurgia abdominal de emergência para abordagem de perfuração intestinal por PAF.\nNas 24 horas seguintes à cirurgia, desenvolveu distensão abdominal progressiva, dor intensa, dispneia e oligúria. Hemodinamicamente instável, apresentando taquicardia e hipotensão, apesar da reposição volêmica maciça. A FR está elevada e a saturação de oxigênio em declínio, mesmo com suplementação de oxigênio. Pressão arterial: 90/60mmHg; FC: 120bpm; FR: 33rpm; saturação de oxigênio: 88% em máscara de oxigênio. Gasometria arterial revelando acidose metabólica com aumento do lactato sérico.\nCom base no quadro clínico de síndrome compartimental abdominal, assinale a opção que indica a prioridade da equipe de enfermagem para manejar esse paciente.",
+  "alts": [
+   "Administrar analgésicos potentes para aliviar a dor abdominal.",
+   "Realizar compressas frias no abdome para reduzir a distensão.",
+   "Monitorar rigorosamente os sinais vitais e a pressão intra-abdominal.",
+   "Realizar compressas frias no abdome para reduzir a distensão e inserir sonda nasoentérica.",
+   "Iniciar nutrição enteral para melhorar o estado nutricional do paciente e administrar diuréticos."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Monitorização hemodinâmica",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Consenso da World Society of the Abdominal Compartment Syndrome (Kirkpatrick et al., Intensive Care Med, 2013)",
+  "coment": "Pelo consenso da WSACS (2013), hipertensão intra-abdominal é pressão intra-abdominal (PIA) sustentada de 12 mmHg ou mais, e síndrome compartimental abdominal é PIA acima de 20 mmHg com disfunção orgânica nova, como oligúria, hipoxemia e instabilidade hemodinâmica, quadro deste paciente após laparotomia e reposição volêmica maciça. A PIA é medida pela pressão vesical: paciente em decúbito dorsal, transdutor zerado na linha axilar média, instilação de no máximo 25 mL de soro fisiológico e leitura ao fim da expiração. A enfermagem monitora PIA, sinais vitais e diurese e comunica a piora, pois a descompressão cirúrgica pode ser necessária.",
+  "porAlt": [
+   "Analgesia faz parte do cuidado, mas não reconhece nem acompanha a hipertensão intra-abdominal, que ameaça a vida.",
+   "Compressas frias não reduzem a pressão intra-abdominal nem tratam a síndrome compartimental.",
+   "Correta: monitorar sinais vitais e pressão intra-abdominal permite detectar a síndrome e acionar a descompressão a tempo.",
+   "Compressas frias não têm efeito, e a sonda nasoentérica não descomprime o abdome nesse quadro.",
+   "Nutrição enteral pode agravar a distensão no paciente instável, e diurético não trata a síndrome compartimental."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 76,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Homem, 45 anos, é internado na emergência, depois de sofrer um extenso AVC hemorrágico. Após a realização de exames de imagem, foi constatado grave hemorragia subaracnoidea extensa. Apesar das medidas iniciais de suporte avançado de vida, o estado neurológico do paciente se deteriorou rapidamente, evoluindo para estado de coma grau IV, também conhecido como coma dépassé.\nAssinale a opção que apresenta as características do coma grau IV.",
+  "alts": [
+   "Reação aos estímulos dolorosos ou, então, o faz por postura de descerebração.",
+   "As funções vegetativas não se mantêm, a não ser à custa de VM artificial, o que requer estimulação cardíaca e tratamento do colapso cardiovascular.",
+   "Abertura espontânea dos olhos. Reflexo vestíbulo-ocular com resposta adequada; abolição completa da consciência, o paciente reage aos estímulos dolorosos.",
+   "Apenas depressão da consciência, persistindo alguma capacidade de contato do paciente com o meio; abertura espontânea dos olhos; respostas álgicas em descorticação.",
+   "Abertura espontânea dos olhos; respostas álgicas em descorticação; reflexos corneanos e fotomotores conservados, mas os profundos podem estar diminuídos; a deglutição está abolida."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Resolução CFM 2.173/2017 (critérios de diagnóstico de morte encefálica); Decreto 9.175/2017",
+  "coment": "Na classificação clássica do coma em quatro graus, o grau IV, ou coma dépassé (coma ultrapassado), é a abolição de todas as funções encefálicas: não há resposta a estímulos, os reflexos de tronco estão ausentes e as funções vegetativas só se mantêm com ventilação mecânica e suporte cardiovascular. Corresponde ao que hoje se chama morte encefálica, cujo diagnóstico segue a Resolução CFM 2.173/2017: dois exames clínicos por médicos diferentes, teste de apneia e exame complementar. O enfermeiro mantém a estabilidade hemodinâmica do potencial doador e comunica a Central de Transplantes, conforme o Decreto 9.175/2017.",
+  "porAlt": [
+   "Reagir à dor ou fazer descerebração indica tronco ainda funcionante, o que não é coma grau IV.",
+   "Correta: no coma grau IV as funções vegetativas só se mantêm com ventilação mecânica e suporte cardiovascular.",
+   "Abertura ocular espontânea e reflexo vestíbulo-ocular presente indicam tronco preservado, incompatível com o grau IV.",
+   "Depressão parcial da consciência com contato com o meio descreve os graus leves de coma.",
+   "Reflexos corneanos e fotomotores conservados afastam o coma grau IV, em que os reflexos de tronco estão abolidos."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 77,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente de 65 anos, com histórico de hipertensão arterial, apresenta-se ao pronto-socorro com queixa de dor torácica opressiva iniciada há aproximadamente duas horas.\nAlém da dor, relata dispneia, sudorese profusa e sensação de tontura. O ECG afasta a possibilidade de IAM, mas evidencia bloqueio de ramo esquerdo (BRE).\nAssinale a opção que apresenta as características do ECG no BRE.",
+  "alts": [
+   "Retificação do ST em V5 e V6; onda T achatada, ou negativa em V5 e V6.",
+   "Onda T positiva e apiculada em V5 e V6 sobrecargas de volume de VE; retificação do ST em V5 e V6.",
+   "Duração do QRS menor que 0,12s; presença de ondas R encurtadas e sem entalhes em V5, V6, D1 e aVL.",
+   "Presença de complexos rsr’, rsR’ ou rSR’ em V1 ou V2. A onda R’ habitualmente é maior que r; onda S alargada em V6 e D1.",
+   "Duração do QRS de 0,12s ou mais; presença de ondas R alargadas ou com entalhes em V5, V6, D1 e aVL; ausência de Q em V5, V6 e D1."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Diretriz da SBC sobre a Análise e Emissão de Laudos Eletrocardiográficos (2022)",
+  "coment": "No bloqueio de ramo esquerdo a ativação do ventrículo esquerdo se faz lentamente, célula a célula. Os critérios da Diretriz da SBC de laudos eletrocardiográficos (2022) são QRS de 120 ms (0,12 s) ou mais, ondas R alargadas, com entalhe ou em platô, em D1, aVL, V5 e V6, ausência de onda q nessas derivações e alteração secundária de ST-T em sentido oposto ao QRS. Complexos rSR' em V1 e S larga em D1 e V6 são do bloqueio de ramo direito. Na prática, ECG normal ou com BRE não afasta infarto: dor típica com BRE exige troponina seriada e avaliação imediata, pois o BRE pode mascarar a isquemia.",
+  "porAlt": [
+   "Retificação de ST e onda T achatada são alterações inespecíficas de repolarização, não critérios de BRE.",
+   "Onda T apiculada sugere hiperpotassemia ou isquemia hiperaguda, não bloqueio de ramo esquerdo.",
+   "QRS menor que 0,12 s afasta bloqueio de ramo completo, e no BRE as ondas R são alargadas e com entalhes.",
+   "Complexo rSR' em V1 e S alargada em D1 e V6 são critérios do bloqueio de ramo direito.",
+   "Correta: QRS de 0,12 s ou mais, R alargada ou entalhada em D1, aVL, V5 e V6 e ausência de q definem o BRE."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 78,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A doença de Alzheimer (DA) é um tipo de demência cujo início é lento e insidioso. Seu curso é progressivo, acometendo as áreas têmporo-parietais do cérebro, deteriorando a memória, a linguagem e as demais funções cognitivas.\nPara um paciente com DA, o enfermeiro pode implementar um plano de cuidados integral e individualizado. Neste caso, o enfermeiro deve",
+  "alts": [
+   "melhorar a capacidade funcional do paciente para as atividades instrumentais da vida diária, prevenindo riscos de acidentes domésticos.",
+   "estimular a capacidade olfativa do paciente, otimizando seu paladar, tornando suas refeições mais atraentes e aproveitáveis, além de estimular a deambulação.",
+   "melhorar a capacidade motora do paciente, otimizando sua convivência e tornando-o mais sociável em seu trabalho.",
+   "recuperar a capacidade cognitiva do paciente para evitar possíveis crises convulsivas e prevenir acidentes domésticos.",
+   "modular a capacidade funcional do paciente, mantendo-o restrito ao leito e iniciar cateterização vesical de demora."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Demências e delirium",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 19, Envelhecimento e Saúde da Pessoa Idosa (MS, 2006)",
+  "coment": "A doença de Alzheimer é progressiva e não tem cura; o cuidado de enfermagem busca preservar pelo maior tempo possível a capacidade funcional e a autonomia. As atividades instrumentais da vida diária (administrar dinheiro e medicamentos, usar telefone e transporte, cozinhar) são as primeiras a se perder, por isso o plano inclui estimular o que o paciente ainda consegue fazer, adaptar o ambiente, prevenir quedas e acidentes domésticos e apoiar o cuidador (CAB 19, 2006). Restringir ao leito acelera o declínio e a sonda vesical de demora sem indicação aumenta o risco de infecção. Não há como recuperar a cognição perdida.",
+  "porAlt": [
+   "Correta: manter a capacidade funcional para as atividades instrumentais e prevenir acidentes domésticos é a meta do cuidado.",
+   "Estimular olfato e paladar não é o eixo do plano de cuidados na doença de Alzheimer.",
+   "O foco é a funcionalidade nas atividades da vida diária, e não a sociabilidade no trabalho.",
+   "A doença é progressiva e a cognição perdida não se recupera; convulsões não são o alvo do cuidado.",
+   "Restrição ao leito e sonda de demora sem indicação aceleram a perda funcional e causam complicações."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 79,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante uma consulta de pré-natal com a enfermeira da Unidade Básica de Saúde, uma mulher de 25 anos, apresenta seu teste de gravidez positivo.\nNo decorrer da consulta, a enfermeira pergunta qual foi a data da sua última menstruação e a paciente responde que foi no dia 10 de abril de 2024.\nUsando a regra de Nägele, a enfermeira estimou a data provável do parto (DPP) para o dia",
+  "alts": [
+   "31 de dezembro de 2024.",
+   "17 de janeiro de 2025.",
+   "25 de fevereiro de 2025.",
+   "1 de março de 2025.",
+   "26 de maio de 2025."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 32, Atenção ao Pré-Natal de Baixo Risco (MS, 2012), cálculo da DPP",
+  "coment": "A regra de Nägele, usada no pré-natal para estimar a data provável do parto (CAB 32, 2012), soma 7 dias ao primeiro dia da última menstruação e subtrai 3 meses (ou soma 9 meses quando a DUM cai entre janeiro e março). Com DUM em 10 de abril de 2024: 10 + 7 = 17 de abril; abril menos 3 meses é janeiro, do ano seguinte. A DPP é 17 de janeiro de 2025, cerca de 280 dias ou 40 semanas após a DUM. A regra pressupõe ciclos regulares de 28 dias; com ciclos irregulares ou DUM incerta, a ultrassonografia precoce define a idade gestacional.",
+  "porAlt": [
+   "31 de dezembro de 2024 resulta de erro na soma dos dias e fica antes das 40 semanas.",
+   "Correta: 10 de abril mais 7 dias dá 17 de abril, e menos 3 meses dá 17 de janeiro de 2025.",
+   "25 de fevereiro de 2025 não segue a regra de Nägele e ultrapassa as 40 semanas.",
+   "1º de março de 2025 corresponde a cerca de 46 semanas após a DUM, além do termo.",
+   "26 de maio de 2025 ficaria mais de 13 meses após a DUM, o que é impossível como DPP."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 80,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Maria, 65 anos, histórico de depressão maior resistente ao tratamento, apresenta-se com sintomas graves e incapacitantes. Diagnosticada com depressão maior aos 30. Nos últimos seis meses, experimentou uma piora significativa dos sintomas depressivos, incluindo anedonia, insônia severa e pensamentos suicidas frequentes.\nDevido à gravidade dos sintomas, a falta de resposta aos tratamentos convencionais e ao risco iminente de suicídio, a equipe psiquiátrica decide que Maria é uma candidata apropriada para a eletroconvulsoterapia (ECT).\nNão há contraindicação absoluta, mas devem ser avaliados os riscos e os benefícios nos casos de",
+  "alts": [
+   "processos alérgicos.",
+   "gravidez de alto risco.",
+   "Hipotireoidismo, com diabetes tipo I.",
+   "diabetes tipo II com hipertensão arterial.",
+   "estados gripais associados à hipertricose auricular."
+  ],
+  "gab": 1,
+  "tema": "mental",
+  "sub": "Transtornos mentais e psicofármacos",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Resolução CFM 2.057/2013 (eletroconvulsoterapia); APA, The Practice of Electroconvulsive Therapy, 2ª ed. (2001)",
+  "coment": "A eletroconvulsoterapia não tem contraindicação absoluta; há situações de alto risco que exigem pesar riscos e benefícios, como infarto ou AVC recentes, lesão expansiva intracraniana, aneurisma, risco anestésico elevado e gravidez de alto risco, que pede monitorização obstétrica e fetal. A APA (2001) considera a ECT relativamente segura na gestação e indicada na depressão grave com risco de suicídio, como no caso. No Brasil, a Resolução CFM 2.057/2013 exige ambiente adequado, anestesia geral e consentimento informado. A enfermagem prepara o jejum, retira próteses, monitoriza sinais vitais e acompanha a recuperação pós-anestésica.",
+  "porAlt": [
+   "Processos alérgicos não são situação de risco descrita para a ECT, salvo alergia a fármacos da anestesia.",
+   "Correta: na gravidez de alto risco a ECT exige avaliação de riscos e benefícios e monitorização obstétrica.",
+   "Hipotireoidismo com diabetes tipo 1 compensados não estão entre as condições de alto risco para a ECT.",
+   "Diabetes tipo 2 com hipertensão controlada exige avaliação anestésica de rotina, não ponderação especial.",
+   "Estados gripais com hipertricose auricular não têm relação com o risco da eletroconvulsoterapia."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 81,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "João, 5 anos, é admitido na unidade de emergência pediátrica após apresentar reação adversa a um medicamento para tratar uma infecção respiratória. A mãe relatou que João estava tomando um antibiótico oral prescrito pelo pediatra há três dias.\nNas últimas 24 horas, ele desenvolveu uma erupção cutânea generalizada, febre e letargia. Ao exame físico, João apresenta exantema eritematoso difuso, prurido intenso e linfadenopatia cervical. Sua temperatura é de 37,5°C, e ele parece muito desconfortável e irritado.\nPara o manejo inicial de João, assinale a opção que indica a prioridade da equipe de enfermagem.",
+  "alts": [
+   "Realizar banho de imersão com água quente.",
+   "Realizar exercícios físicos leves para aliviar o desconforto.",
+   "Iniciar nutrição parenteral para manter o estado nutricional.",
+   "Iniciar corticoterapia e anti-histamínicos, conforme prescrição médica.",
+   "Realizar compressas de água quente na face e nos membros superiores."
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Interações e reações adversas",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "RDC ANVISA 406/2020 (farmacovigilância); Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA, 2013)",
+  "coment": "Exantema difuso, prurido intenso, febre e linfadenopatia após antibiótico indicam reação de hipersensibilidade ao medicamento. O manejo inicial é suspender o fármaco suspeito, controlar os sintomas com anti-histamínico e corticoide conforme prescrição médica e monitorar sinais de gravidade: lesões de mucosa, bolhas, edema de face e glote, broncoespasmo ou hipotensão, que exigem conduta de anafilaxia ou investigação de Stevens-Johnson e DRESS. A enfermagem registra a alergia no prontuário, identifica o paciente e notifica a suspeita de reação adversa ao sistema de farmacovigilância (VigiMed), conforme a RDC 406/2020.",
+  "porAlt": [
+   "Banho de imersão quente agrava a vasodilatação e o prurido e não trata a reação.",
+   "Exercício físico não alivia a reação de hipersensibilidade e é inadequado para a criança febril e prostrada.",
+   "Nutrição parenteral não tem indicação, pois a criança não tem impedimento para alimentação por via oral.",
+   "Correta: corticoide e anti-histamínico prescritos controlam a reação, junto com a suspensão do fármaco suspeito.",
+   "Compressas quentes aumentam a vasodilatação e o prurido; se usadas, as compressas devem ser frias."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 82,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Mariana, 8 anos, foi diagnosticada com mielodisplasia congênita aos 2 anos de idade. Esta condição afeta sua medula espinhal, resultando em dificuldades de mobilidade e controle urinário. Ela precisa de cateterização vesical intermitente para gerir a retenção urinária e prevenir infecções urinárias recorrentes. Mariana também tem uma alergia severa ao látex, que provoca reações alérgicas significativas.\nTendo em vista o histórico da paciente, a enfermeira deverá utilizar para a cateterização vesical uma sonda vesical do tipo",
+  "alts": [
+   "Cateter de Foley 8Fr.",
+   "Cateter de Foley 10Fr.",
+   "Cateter hidrofílico de poliuretano 8Fr.",
+   "Cateter hidrofílico de poliuretano 14Fr.",
+   "Cateter hidrofílico de poliuretano 16Fr."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Resolução COFEN 450/2013 (sondagem vesical); Política Nacional de Segurança do Paciente, Portaria GM/MS 529/2013",
+  "coment": "Crianças com mielodisplasia (mielomeningocele) têm alto risco de alergia ao látex pela exposição repetida desde cedo, e o caso já é de alergia grave: todo material deve ser livre de látex. O cateterismo intermitente usa sonda de alívio, sem balão; a sonda de Foley é de demora e, nas versões comuns, contém látex. Os cateteres hidrofílicos de poliuretano ou PVC são isentos de látex e reduzem o atrito e o trauma uretral. Para uma criança de 8 anos o calibre usual fica entre 8 e 10 Fr; 14 e 16 Fr são calibres de adulto. A Resolução COFEN 450/2013 atribui ao enfermeiro a sondagem vesical.",
+  "porAlt": [
+   "A sonda de Foley é de demora, não de cateterismo intermitente, e a comum contém látex.",
+   "A Foley, mesmo de calibre pediátrico, é sonda de demora e em geral de látex, contraindicada na alergia.",
+   "Correta: cateter hidrofílico sem látex, de calibre 8 Fr, é adequado ao cateterismo intermitente dessa criança.",
+   "O material é adequado, mas 14 Fr é calibre de adulto e traumatiza a uretra de uma criança de 8 anos.",
+   "16 Fr é calibre de adulto, excessivo para a uretra infantil, com risco de trauma e estenose."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 83,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente admitido na emergência após um acidente de carro, em que o veículo colidiu frontalmente com um caminhão em alta velocidade.\nNa admissão pelo enfermeiro, encontrava-se com Glasgow de 6, PA 90/60mmHg, FC 122bpm, FR 28rpm e temperatura de 36,5°C. A TC de crânio evidencia hematoma intraparenquimatoso com herniação uncal.\nAo exame da pupila, o enfermeiro percebeu diferença significativa no tamanho das pupilas, o que caracteriza",
+  "alts": [
+   "miose.",
+   "isocoria.",
+   "midríase.",
+   "anisocoria.",
+   "estrabismo."
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "ATLS, Advanced Trauma Life Support, 10ª ed. (American College of Surgeons, 2018), avaliação neurológica (D)",
+  "coment": "Anisocoria é a diferença de diâmetro entre as pupilas; no ATLS (2018), diferença acima de 1 mm no trauma é considerada anormal. No TCE grave com hematoma e herniação uncal, o úncus do lobo temporal comprime o nervo oculomotor (III par), e a pupila do mesmo lado do hematoma dilata e perde o reflexo fotomotor. Por isso a avaliação neurológica do ATLS inclui Glasgow, tamanho e reatividade pupilar. Miose é pupila contraída, midríase é pupila dilatada (pode ser bilateral), isocoria é a igualdade de tamanho e estrabismo é desvio do olhar. Anisocoria nova exige comunicação imediata à equipe.",
+  "porAlt": [
+   "Miose é a contração da pupila e não descreve diferença de tamanho entre as duas.",
+   "Isocoria significa pupilas de tamanho igual, o oposto do achado descrito.",
+   "Midríase é a dilatação da pupila e pode ser bilateral; a diferença entre as duas tem outro nome.",
+   "Correta: anisocoria é a diferença de tamanho entre as pupilas, típica da herniação uncal que comprime o III par.",
+   "Estrabismo é desvio do alinhamento ocular, não alteração do diâmetro pupilar."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 84,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O clopidogrel é um medicamento antiplaquetário que impede as plaquetas no sangue de se agregarem e formar coágulos. É comumente indicado na terapia intensiva para reduzir o risco de eventos cardiovasculares, como ataques cardíacos e acidentes vasculares cerebrais, em pacientes que apresentam certas condições relacionadas à circulação sanguínea.\nEm pacientes fazendo uso de Clopidogrel, a enfermagem deve atentar para os efeitos adversos de",
+  "alts": [
+   "dor epigástrica e piúria.",
+   "diarreia e piúria.",
+   "sangramentos e púrpura trombocitopênica.",
+   "trombocitopenia e anúria.",
+   "osteoporose e necrose cutânea."
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Interações e reações adversas",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes Brasileiras de Antiagregantes Plaquetários e Anticoagulantes em Cardiologia (SBC, 2013)",
+  "coment": "O clopidogrel bloqueia de forma irreversível o receptor P2Y12 das plaquetas, que perdem a capacidade de agregação por toda a sua vida, cerca de 7 a 10 dias. O efeito adverso mais frequente e relevante é o sangramento: gengival, digestivo, urinário, equimoses e, mais grave, intracraniano. A púrpura trombocitopênica trombótica é rara, mas descrita, e se manifesta por plaquetopenia, anemia hemolítica, febre e alterações neurológicas. A enfermagem observa sinais de sangramento, controla hemograma, comunica antes de procedimentos invasivos (a suspensão antes de cirurgia eletiva é de 5 dias, segundo a SBC, 2013) e orienta o paciente.",
+  "porAlt": [
+   "Dor epigástrica pode ocorrer, mas piúria indica infecção urinária e não é efeito do clopidogrel.",
+   "Diarreia é efeito possível e pouco relevante, e piúria não tem relação com o fármaco.",
+   "Correta: sangramentos e púrpura trombocitopênica trombótica são os efeitos adversos que exigem vigilância.",
+   "A trombocitopenia aparece na púrpura, mas anúria não é efeito adverso do clopidogrel.",
+   "Osteoporose está ligada a heparina e corticoide, e necrose cutânea à varfarina, não ao clopidogrel."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 85,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A multimorbidade está associada a inúmeros desfechos desfavoráveis, tais como morte, hospitalização e piora da qualidade de vida.\nNa multimorbidade complexa, os pacientes têm duas ou mais doenças crônicas sem que nenhuma possa ser considerada a doença índice e que acometem três sistemas orgânicos (nervoso, respiratório e cardiovascular).\nAssinale a opção que apresenta um quadro de multimorbidade complexa.",
+  "alts": [
+   "Artrose, artrite e gota.",
+   "Influenza, artrite e reumatismo.",
+   "Covid-19, retinopatia e neuropatia.",
+   "Doença de Parkinson, neuropatia periférica e artrite.",
+   "DPOC, doença de Alzheimer e doença arterial coronariana."
+  ],
+  "gab": 4,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Harrison C. et al. Examining different measures of multimorbidity. BMJ Open, 2014 (definição de multimorbidade complexa)",
+  "coment": "Multimorbidade é a coexistência de duas ou mais condições crônicas sem que uma delas seja a doença índice. A multimorbidade complexa, na definição de Harrison et al. (2014), exige condições que afetem pelo menos três sistemas orgânicos diferentes. DPOC (respiratório), doença de Alzheimer (nervoso) e doença arterial coronariana (cardiovascular) cumprem o critério. Artrose, artrite e gota são todas osteoarticulares; influenza e covid-19 são agudas, não crônicas. Na enfermagem, a multimorbidade complexa sinaliza alto risco de polifarmácia, hospitalização e perda funcional e pede plano de cuidado integrado e avaliação multidimensional.",
+  "porAlt": [
+   "Artrose, artrite e gota atingem o mesmo sistema, o musculoesquelético, e não três sistemas diferentes.",
+   "Influenza é doença aguda, e artrite e reumatismo pertencem ao mesmo sistema osteoarticular.",
+   "Covid-19 é infecção aguda, e retinopatia e neuropatia costumam ser complicações de uma mesma doença índice.",
+   "Parkinson e neuropatia periférica são do sistema nervoso, e o terceiro sistema exigido não é coberto.",
+   "Correta: DPOC, Alzheimer e doença coronariana são crônicas e atingem os sistemas respiratório, nervoso e cardiovascular."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 86,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O geriatra Bernard Isaacs cunhou o termo \"gigantes da geriatria\" para descrever condições predominantes que afetam a saúde e o bem-estar dos idosos. Estes \"gigantes\" são também conhecidos como os 5 \"Is\" da geriatria. Eles foram destacados para enfatizar os desafios comuns que comprometem a independência e a qualidade de vida dos idosos.\nNo caso de um idoso que sofre de síndrome vestibular, a enfermagem deve estar atenta para o seguinte “I”:",
+  "alts": [
+   "Irritabilidade.",
+   "Inalação de odores.",
+   "Incapacidade olfativa.",
+   "Instabilidade postural.",
+   "Intensidade luminosa."
+  ],
+  "gab": 3,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 19, Envelhecimento e Saúde da Pessoa Idosa (MS, 2006), grandes síndromes geriátricas",
+  "coment": "Os gigantes da geriatria de Bernard Isaacs são incapacidade cognitiva, instabilidade postural, imobilidade, incontinência e iatrogenia; muitos autores brasileiros acrescentam a insuficiência familiar. A síndrome vestibular causa tontura, vertigem e desequilíbrio, e por isso se liga à instabilidade postural, cujo desfecho mais temido é a queda, com fratura, medo de cair e perda de autonomia (CAB 19, 2006). A enfermagem avalia equilíbrio e marcha (por exemplo, o teste Timed Up and Go), revisa medicamentos que causam tontura, adapta o ambiente e orienta a prevenção de quedas. Irritabilidade, olfato e luminosidade não estão entre os Is.",
+  "porAlt": [
+   "Irritabilidade não está entre os gigantes da geriatria descritos por Isaacs.",
+   "Inalação de odores não é síndrome geriátrica e não se relaciona com a síndrome vestibular.",
+   "Incapacidade olfativa não é um dos Is; o I cognitivo refere-se à incapacidade cognitiva.",
+   "Correta: a síndrome vestibular causa desequilíbrio e se relaciona com a instabilidade postural e o risco de quedas.",
+   "Intensidade luminosa não é síndrome geriátrica e não faz parte dos Is de Isaacs."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 87,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Mulher de 24 anos é atendida pela enfermeira da UBS, relatando histórico de prurido intenso na região vulvar, acompanhado de corrimento vaginal espesso e branco, com odor leve. Relata desconforto durante a micção e dor durante as relações sexuais. O resultado da cultura de amostra do corrimento vaginal confirma a presença de Candida albicans.\nA vulvovaginite por Candida é comum em mulheres em idade reprodutiva e constitui a manifestação mucocutânea mais frequente da infecção por Candida.\nSobre o tema, assinale a opção que indica seus fatores de risco.",
+  "alts": [
+   "Condições associadas a níveis elevados de estrogênio, como uso de contraceptivos orais.",
+   "Condições associadas a níveis elevados de atividade física exposição constante aos raios solares.",
+   "Condições associadas ao isolamento social, banho de sol esporádico e alimentação rica em proteínas.",
+   "Condições associadas ao uso de preservativo durante as relações sexuais, banho de sol esporádico e alimentação pobre em proteínas.",
+   "Condições associadas a níveis elevados de testosterona, condições associadas ao uso de preservativo durante as relações sexuais."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com IST (MS, 2022), corrimento vaginal",
+  "coment": "A candidíase vulvovaginal é infecção endógena, não considerada IST, e se favorece por condições que alteram a flora e a imunidade local. O PCDT IST (MS, 2022) lista como fatores de risco a gravidez, o diabetes descompensado, a obesidade, o uso de contraceptivos orais de alta dosagem, antibióticos, corticoides e imunossupressores, a imunodeficiência e hábitos de higiene e vestuário que aumentam umidade e calor local. Estrogênio alto aumenta o glicogênio vaginal, que nutre a Candida. O quadro típico é prurido, corrimento branco grumoso sem odor forte, disúria e dispareunia. O tratamento do parceiro não é rotina.",
+  "porAlt": [
+   "Correta: estados de estrogênio alto, como gravidez e contraceptivo oral, aumentam o glicogênio vaginal e favorecem a Candida.",
+   "Atividade física e exposição ao sol não estão entre os fatores de risco da candidíase vulvovaginal.",
+   "Isolamento social, banho de sol e dieta rica em proteínas não predispõem à candidíase.",
+   "O preservativo não é fator de risco, e sol e dieta pobre em proteínas não favorecem a Candida.",
+   "Testosterona alta e uso de preservativo não estão entre os fatores de risco da candidíase."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 88,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para a prevenção e o controle eficazes do câncer de colo do útero, a Organização Mundial de Saúde (OMS) enfatiza a importância de uma estratégia abrangente, que incorpore as ações preventivas ao longo da vida de uma pessoa e um enfoque multidisciplinar. Essa abordagem integral visa tratar os casos existentes, mas, também, reduzir significativamente a incidência futura da doença.\nAlém da vacinação contra o HPV em meninas com idade entre 9 e 14 anos, antes de se tornarem sexualmente ativas, a OMS recomenda, também,",
+  "alts": [
+   "educação sobre práticas sexuais seguras, incluindo o adiamento no início da atividade sexual.",
+   "vacina para mulheres sexualmente ativas a partir dos 60 anos, a realização de Papanicolau a cada 5 anos.",
+   "vacina para mulheres não sexualmente ativas entre 10 e 15 anos e a realização de Papanicolau a cada 3 anos.",
+   "venda irrestrita de preservativos e antibióticos para as mulheres que ainda não tiveram atividade sexual.",
+   "vacina para mulheres sexualmente ativas a partir dos 55 anos, realização de exames periódicos que detectam células anormais ou lesões pré-cancerosas no colo do útero."
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "OMS, Comprehensive Cervical Cancer Control: a guide to essential practice, 2ª ed. (2014); Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "A OMS (2014) organiza o controle do câncer do colo em prevenção primária, secundária e terciária. Na primária, além da vacina HPV antes do início da vida sexual, recomenda educação sexual adequada à idade e à cultura, incluindo o adiamento da iniciação sexual, promoção e oferta de preservativo e orientação contra o tabagismo. No Brasil, pela Instrução Normativa do Calendário 2026, a vacina HPV4 é dose única para meninas e meninos de 9 a 14 anos, com resgate de 15 a 19 anos. O rastreamento é feito em mulheres de 25 a 64 anos, e o SUS vem implantando o teste de DNA-HPV no lugar do citopatológico.",
+  "porAlt": [
+   "Correta: a OMS inclui a educação sobre sexo seguro, com adiamento da iniciação sexual, na prevenção primária.",
+   "A vacina HPV não é indicada a partir dos 60 anos, e a periodicidade citada não é a do rastreamento.",
+   "A vacina não é restrita a mulheres não sexualmente ativas de 10 a 15 anos, e o Papanicolau não é rotina antes dos 25.",
+   "Venda irrestrita de antibióticos não previne o câncer do colo e contraria o uso racional de medicamentos.",
+   "Não há indicação de vacina HPV a partir dos 55 anos; a prioridade é vacinar antes do início da vida sexual."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 89,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Gestante, 29 anos, portadora de hipotireoidismo, diabetes mellitus tipo 2, diagnosticada há 5 anos, em uso irregular de metformina e levotiroxina. Histórico familiar significativo de diabetes e obesidade.\nA gravidez foi acompanhada regularmente no pré-natal pela enfermeira da UBS. Durante o segundo trimestre, foi observado um aumento desproporcional na circunferência abdominal.\nExceto para o tamanho determinado geneticamente, assinale a opção que apresenta a principal causa de recém-nascido grande para a idade gestacional.",
+  "alts": [
+   "Hipertensão arterial.",
+   "Hipotireoidismo materno.",
+   "Diabetes mellitus materno.",
+   "Síndrome coronariana aguda.",
+   "Hiperparatireoidismo materno."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Manual de Gestação de Alto Risco (MS, 2022), diabetes na gestação",
+  "coment": "Afora o tamanho determinado geneticamente, a principal causa de recém-nascido grande para a idade gestacional é o diabetes materno, pré-gestacional ou gestacional. A hiperglicemia materna atravessa a placenta, o pâncreas fetal responde com hiperinsulinemia, e a insulina age como hormônio de crescimento, levando a macrossomia, aumento da circunferência abdominal fetal e polidrâmnio. Gestante com diabetes tipo 2 prévio é de alto risco (Manual de Gestação de Alto Risco, MS, 2022), com encaminhamento ao pré-natal especializado, controle glicêmico rigoroso e avaliação do crescimento fetal. O hipotireoidismo e a hipertensão associam-se mais à restrição de crescimento.",
+  "porAlt": [
+   "A hipertensão materna reduz o fluxo placentário e associa-se a restrição de crescimento fetal, não a GIG.",
+   "O hipotireoidismo materno associa-se a aborto, prematuridade e baixo peso, não a feto grande.",
+   "Correta: a hiperglicemia materna causa hiperinsulinemia fetal e macrossomia, principal causa de GIG.",
+   "Síndrome coronariana aguda é rara na gestação e não causa recém-nascido grande para a idade gestacional.",
+   "O hiperparatireoidismo materno não é causa de macrossomia fetal."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 90,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O acompanhamento pré-natal conduzido por enfermeiras desempenha um papel crucial na gestão da saúde da mãe e do desenvolvimento do feto. As enfermeiras, muitas vezes especializadas em obstetrícia e saúde materna, estão equipadas para oferecer um cuidado abrangente, que inclui educação, suporte emocional e monitoramento clínico durante a gravidez.\nEnfermeiras treinadas para identificar sinais de alerta de complicações durante a gravidez, sabem que a ultrassonografia básica é feita para",
+  "alts": [
+   "determinar viabilidade fetal.",
+   "detectar a idade cronológica.",
+   "confirmar síndrome de HELLP.",
+   "confirmar diabetes gestacional.",
+   "confirmar hipotireoidismo fetal."
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 32, Atenção ao Pré-Natal de Baixo Risco (MS, 2012), ultrassonografia obstétrica",
+  "coment": "A ultrassonografia obstétrica básica, sobretudo no primeiro trimestre, confirma a gestação tópica, determina a viabilidade fetal pela atividade cardíaca (visível desde cerca de 6 semanas), o número de embriões e a idade gestacional com mais precisão que a DUM (CAB 32, 2012). Ela não confirma diagnósticos clínicos e laboratoriais: síndrome HELLP depende de exames de sangue (hemólise, enzimas hepáticas e plaquetas), diabetes gestacional da glicemia de jejum e do teste oral de tolerância, e a função tireoidiana fetal não é avaliada por ultrassom de rotina. O termo correto é idade gestacional, não cronológica.",
+  "porAlt": [
+   "Correta: a ultrassonografia básica determina a viabilidade fetal, entre outros dados, como número de fetos e idade gestacional.",
+   "A ultrassonografia estima a idade gestacional; idade cronológica é termo usado para a idade após o nascimento.",
+   "A síndrome HELLP é confirmada por exames laboratoriais de hemólise, enzimas hepáticas e plaquetas.",
+   "O diabetes gestacional é diagnosticado por glicemia de jejum e teste oral de tolerância à glicose.",
+   "O hipotireoidismo fetal não é confirmado pela ultrassonografia básica do pré-natal."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 91,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Por definição, todos os ferimentos produzem dano tissular direto; a natureza e a extensão dependem do local anatômico, do mecanismo e da intensidade do trauma. Pacientes acometidos por traumatismo de tórax estão sujeitos às complicações respiratórias, oriundas do pneumotórax.\nO pneumotórax pode ser descomprimido por meio do dreno de tórax; nesse caso, assinale a opção que indica um cuidado de enfermagem a ser considerado.",
+  "alts": [
+   "Restringir o paciente no leito.",
+   "Solicitar que o paciente evite tossir.",
+   "Verificar e manter o nível correto do selo d'água.",
+   "Descartar o volume drenado sem a necessidade de registro.",
+   "Manter o paciente em dieta zero durante toda a drenagem."
+  ],
+  "gab": 2,
+  "tema": "fundamentos",
+  "sub": "Cateteres, sondas e dispositivos",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "ATLS, Advanced Trauma Life Support, 10ª ed. (American College of Surgeons, 2018), trauma torácico e drenagem pleural",
+  "coment": "O dreno de tórax em selo d'água funciona como válvula unidirecional: o ar e o líquido saem da pleura, mas não retornam, desde que a extremidade do tubo fique submersa no nível marcado do frasco. Por isso a enfermagem verifica e mantém o nível do selo d'água, mantém o frasco sempre abaixo do tórax, observa a oscilação da coluna com a respiração e o borbulhamento, evita dobras e não clampeia o dreno sem indicação. Também mede e registra o volume e o aspecto do débito, estimula tosse, respiração profunda e mobilização precoce, que ajudam a reexpandir o pulmão, e mantém a dieta conforme a prescrição.",
+  "porAlt": [
+   "Restringir ao leito é desnecessário e prejudica a reexpansão; a mobilização é estimulada com cuidado com o sistema.",
+   "A tosse deve ser estimulada, pois ajuda a eliminar ar e secreções e a reexpandir o pulmão.",
+   "Correta: manter o nível correto do selo d'água garante a válvula unidirecional e impede a volta de ar à pleura.",
+   "O volume e o aspecto drenados devem ser medidos e registrados, pois orientam a conduta e a retirada do dreno.",
+   "Não há indicação de dieta zero durante toda a drenagem; a dieta segue a prescrição e o quadro clínico."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 92,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente, 8 anos, foi trazido ao pronto-socorro por seus pais após ser picado por um escorpião no quintal de casa. O incidente ocorreu enquanto a criança brincava descalça na grama. A picada foi no pé esquerdo. Os sintomas iniciais são dores imediatas e, às vezes, entorpecimento ou formigamento na região afetada. Em geral, o edema é ausente e há poucas alterações cutâneas.\nAssinale a opção que indica os sintomas graves, mais comuns em crianças.",
+  "alts": [
+   "Sonolência, anúria e tetania da face.",
+   "Polidipsia, seguida de poliúria e anúria.",
+   "Espasmos musculares, sialorreia e diaforese.",
+   "Anidrose seguida de oligúria e ptose palpebral.",
+   "Ptose palpebral, desvio de comissura labial e poliúria."
+  ],
+  "gab": 2,
+  "tema": "urgencia",
+  "sub": "Acidentes por animais peçonhentos",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. (MS, 2023), escorpionismo; Manual de Controle de Escorpiões (MS, 2009)",
+  "coment": "No escorpionismo a dor local é imediata e intensa, com parestesia e pouco edema. O veneno do Tityus estimula a liberação de acetilcolina e catecolaminas, e por isso os casos moderados e graves, mais frequentes em crianças menores, têm sudorese profusa (diaforese), sialorreia, vômitos, agitação, tremores e espasmos musculares, taquicardia ou bradicardia, hipertensão e, nos graves, edema agudo de pulmão, choque, convulsões e coma (Guia de Vigilância em Saúde, 2023). A criança picada deve ficar em observação, com monitorização, analgesia e soro antiescorpiônico quando há sinais sistêmicos. O acidente é de notificação compulsória.",
+  "porAlt": [
+   "Sonolência pode surgir nos graves, mas anúria e tetania da face não são manifestações típicas do escorpionismo.",
+   "Polidipsia e poliúria não fazem parte do quadro, que é de excitação colinérgica e adrenérgica.",
+   "Correta: espasmos musculares, sialorreia e sudorese profusa refletem a descarga autonômica dos casos graves.",
+   "No escorpionismo há sudorese abundante, e não anidrose; ptose palpebral é típica do acidente crotálico.",
+   "Ptose palpebral e alteração facial lembram o acidente crotálico, e poliúria não é sinal do escorpionismo."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 93,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Portaria nº 569/2000, do Ministério da Saúde, instituiu o Programa de Humanização no Pré-natal e Nascimento (PHPN).\nO PHPN é constituído por três componentes, regulamentados em ato próprio do Ministério da Saúde.\nSobre o componente I, assinale a afirmativa correta.",
+  "alts": [
+   "Incentiva a assistência pré-natal.",
+   "Organiza a assistência ao parto.",
+   "Cria uma nova sistemática de pagamento da assistência ao parto.",
+   "Limita os gastos e os investimentos na assistência obstétrica e neonatal.",
+   "Organiza e regula os investimentos na assistência obstétrica e neonatal."
+  ],
+  "gab": 0,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 569/2000 (Programa de Humanização no Pré-natal e Nascimento); Portaria GM/MS 5.350/2024 (Rede Alyne)",
+  "coment": "A Portaria GM/MS 569/2000 criou o PHPN com três componentes: I, Incentivo à Assistência Pré-natal; II, Organização, Regulação e Investimentos na Assistência Obstétrica e Neonatal; III, Nova Sistemática de Pagamento da Assistência ao Parto. O PHPN fixou o mínimo de consultas, a captação precoce da gestante e os exames básicos. Sua lógica foi ampliada pela Rede Cegonha (2011), que a Portaria GM/MS 5.350/2024 transformou na Rede Alyne, hoje a rede de cuidado materno e infantil do SUS, com metas de reduzir a mortalidade materna e enfrentar as desigualdades raciais e regionais.",
+  "porAlt": [
+   "Correta: o componente I do PHPN é o Incentivo à Assistência Pré-natal.",
+   "A organização da assistência ao parto pertence ao componente II, de organização, regulação e investimentos.",
+   "A nova sistemática de pagamento da assistência ao parto é o componente III do programa.",
+   "O PHPN ampliou investimentos na assistência obstétrica e neonatal, e não os limitou.",
+   "Organização e regulação dos investimentos na assistência obstétrica e neonatal formam o componente II."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 94,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Há mais de 30 anos, Earle H. Spaulding elaborou um sistema de classificação de instrumentos e itens para assistência ao paciente, de acordo com o grau de risco de infecção que estava envolvido. Esse sistema ainda é utilizado para determinar como tais itens precisam ser desinfetados ou esterilizados. Os itens são classificados em críticos, semicríticos e não críticos.\nAssinale a opção que apresenta exemplos de itens semicríticos.",
+  "alts": [
+   "Bisturis e agulhas.",
+   "Agulhas e seringas.",
+   "Camas e travesseiros.",
+   "Cateteres e implantes.",
+   "Alguns endoscópios e espéculos."
+  ],
+  "gab": 4,
+  "tema": "cirurgica",
+  "sub": "Central de material e esterilização",
+  "cenario": "cc",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "RDC ANVISA 15/2012, art. 4º (classificação dos produtos para saúde)",
+  "coment": "Na classificação de Spaulding, adotada pela RDC ANVISA 15/2012 (art. 4º), críticos são os produtos que penetram pele e mucosas, tecidos subepiteliais e o sistema vascular, como bisturis, agulhas, cateteres vasculares e implantes, e exigem esterilização. Semicríticos entram em contato com mucosa íntegra colonizada ou pele não íntegra, como endoscópios gastrointestinais, espéculos vaginais, lâminas de laringoscópio e circuitos respiratórios, e exigem no mínimo desinfecção de alto nível. Não críticos tocam apenas pele íntegra ou não tocam o paciente, como camas, travesseiros e estetoscópios, e pedem limpeza com ou sem desinfecção de nível intermediário ou baixo.",
+  "porAlt": [
+   "Bisturis e agulhas penetram tecidos estéreis e são produtos críticos, que exigem esterilização.",
+   "Agulhas e seringas são críticas, porque entram em contato com o sistema vascular ou tecidos estéreis.",
+   "Camas e travesseiros tocam apenas pele íntegra e são itens não críticos.",
+   "Cateteres vasculares e implantes entram em tecidos estéreis e são críticos.",
+   "Correta: endoscópios e espéculos tocam mucosa íntegra e são semicríticos, exigindo ao menos desinfecção de alto nível."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 95,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As Comissões de Controle de Infecção Hospitalar (CCIH) foram instituídas por lei a partir de 1998 com a Portaria nº 2.616 do Ministério da Saúde, juntamente com a criação do Programa de Controle de Infecções Hospitalares (PCIH), que consiste em um conjunto de ações desenvolvidas com vistas a reduzir ao máximo possível a incidência e a gravidade das infecções hospitalares.\nAssinale a opção que indica os dois tipos de componentes da CCIH.",
+  "alts": [
+   "Membros jurídicos e médicos.",
+   "Membros vitalícios e organizadores.",
+   "Membros consultores e executores.",
+   "Membros enfermeiros e médicos.",
+   "Membros obrigatórios e não obrigatórios."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.616/1998, Anexo I; Lei 9.431/1997",
+  "coment": "A obrigatoriedade do Programa de Controle de Infecções Hospitalares vem da Lei 9.431/1997, e a Portaria GM/MS 2.616/1998 detalha sua execução (a portaria não é lei, embora o enunciado as confunda). Pelo Anexo I, a CCIH é composta por profissionais de nível superior formalmente designados, de dois tipos: consultores e executores. Os consultores representam os serviços médico, de enfermagem, de farmácia, de microbiologia e de administração. Os executores formam o Serviço de Controle de Infecção Hospitalar (SCIH), responsável pelas ações programadas, com no mínimo 2 técnicos de nível superior para cada 200 leitos, um deles preferencialmente enfermeiro.",
+  "porAlt": [
+   "A CCIH não tem membros jurídicos; os consultores incluem médicos, mas o critério é a função, não a profissão.",
+   "Não existem membros vitalícios nem organizadores na estrutura definida pela Portaria 2.616/1998.",
+   "Correta: a Portaria 2.616/1998 define os membros da CCIH como consultores e executores.",
+   "Enfermeiros e médicos participam, mas a classificação é por função, consultores e executores, e não por profissão.",
+   "A portaria não divide os membros em obrigatórios e não obrigatórios, e sim em consultores e executores."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 96,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Brasil é o único país da América Latina com uma política de saúde específica para a população masculina, a Política Nacional de Atenção Integral à Saúde do Homem (PNAISH). Para alcançar seu objetivo, a PNAISH deve ser desenvolvida a partir de 5 (cinco) eixos temáticos.\nO eixo temático saúde sexual e saúde reprodutiva caracteriza-se por",
+  "alts": [
+   "reforçar a importância da atenção primária no cuidado à saúde dos homens.",
+   "conscientizar sobre a relação significativa entre população masculina e violência e acidentes.",
+   "promover a abordagem das questões sobre sexualidade masculina nos campos psicológico, biológico e social.",
+   "sensibilizar os profissionais de saúde e a sociedade sobre a participação das mulheres no exercício da paternidade.",
+   "modernizar a abordagem das questões sobre a sexualidade masculina, nos campos psicológico, biológico e espiritual."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Saúde do homem",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 1.944/2009 (PNAISH), consolidada na PRC 2/2017",
+  "coment": "A PNAISH (Portaria 1.944/2009) é implementada pelo Ministério da Saúde em cinco eixos temáticos: acesso e acolhimento; saúde sexual e saúde reprodutiva; paternidade e cuidado; doenças prevalentes na população masculina; e prevenção de violências e acidentes. O eixo de saúde sexual e saúde reprodutiva busca abordar a sexualidade masculina nos campos psicológico, biológico e social, incluindo a saúde reprodutiva, a disfunção erétil, as IST e o planejamento reprodutivo. As outras alternativas descrevem os eixos de acesso e acolhimento, de violências e acidentes e, distorcido, o de paternidade e cuidado, que trata da participação do homem, e não da mulher.",
+  "porAlt": [
+   "Reforçar a atenção primária no cuidado ao homem corresponde ao eixo de acesso e acolhimento.",
+   "A relação entre homens, violências e acidentes é o eixo de prevenção de violências e acidentes.",
+   "Correta: o eixo de saúde sexual e reprodutiva aborda a sexualidade masculina nos campos psicológico, biológico e social.",
+   "O eixo paternidade e cuidado sensibiliza para a participação dos homens, e não das mulheres, na paternidade.",
+   "O eixo fala em campos psicológico, biológico e social; o campo espiritual não está no texto da política."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 97,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As mensurações da pré-carga podem ser úteis para orientar a reanimação volêmica em pacientes criticamente enfermos, uma vez que a excreção de urina não fornece uma indicação minuto a minuto.\nA Pressão Venosa Central (PVC) é a pressão média na veia cava superior, refletindo a pressão diastólica final do ventrículo direito ou pré-carga, portanto, ela pode ajudar na reposição volêmica.\nPara a instalação de PVC, a enfermeira deve separar, além de outros insumos e equipamentos, a bandeja de punção",
+  "alts": [
+   "venosa profunda e um cateter venoso central.",
+   "lombar, cateter de Levine e um cateter Tenckhoff.",
+   "lombar, dois jelcos nº 22 e duas agulha de hipodermóclise.",
+   "arterial, um cateter intraventricular e um cateter Tenckhoff.",
+   "arterial, um scalp intravenoso nº 21, um cateter intraventricular e um cateter Tenckhoff."
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Monitorização hemodinâmica",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (ANVISA, 2017); Surviving Sepsis Campaign 2026 (Prescott et al., Intensive Care Med e Crit Care Med, 2026)",
+  "coment": "A PVC é medida pela ponta de um cateter venoso central posicionada na veia cava superior, perto do átrio direito. Por isso o enfermeiro separa bandeja de punção venosa profunda e cateter venoso central, além de barreira máxima (gorro, máscara, avental e luvas estéreis, campo amplo), clorexidina alcoólica, transdutor ou coluna de água e soro. A ANVISA (2017) recomenda checklist de inserção para prevenir infecção de corrente sanguínea. A posição da ponta deve ser confirmada antes do uso. Vale saber que a PVC isolada prevê mal a resposta a volume; a Surviving Sepsis Campaign 2026 prefere medidas dinâmicas e o enchimento capilar.",
+  "porAlt": [
+   "Correta: a PVC exige cateter venoso central, inserido com bandeja de punção venosa profunda.",
+   "Punção lombar acessa o liquor, a sonda de Levine é gástrica e o Tenckhoff é cateter de diálise peritoneal.",
+   "Punção lombar, jelcos periféricos e agulhas de hipodermóclise não alcançam a veia cava para medir a PVC.",
+   "Punção arterial mede pressão arterial invasiva, e cateter intraventricular mede pressão intracraniana.",
+   "Scalp, cateter intraventricular e Tenckhoff são dispositivos de outras finalidades e não medem PVC."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Multiprofissional em Enfermagem 2024/2025",
+   "n": 100,
+   "parte": "especificas"
+  }
+ }
+]

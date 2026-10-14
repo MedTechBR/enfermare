@@ -1,0 +1,1886 @@
+[
+ {
+  "q": "Em 2022, a ABRASCO afirma que a Atenção Primária à Saúde (APS) deve ser integral, resolutiva, territorial e comunitária. Levantamentos de secretarias e conselhos estaduais indicam alto volume de encaminhamentos da APS para especialidades, parte dos quais poderia ser resolvida na UBS. Diante dessa informação, qual interpretação se aproxima da proposta da ABRASCO?",
+  "alts": [
+   "O encaminhamento precoce fortalece a lógica de rede, evitando sobrecarga na APS e garantindo eficiência no uso de especialistas.",
+   "A APS deve assumir maior resolutividade clínica, incorporando matriciamento e trabalho em equipe interdisciplinar.",
+   "O fortalecimento da APS depende menos da clínica e mais da capacidade de organizar demandas, regulando filas e priorizando o acesso hospitalar.",
+   "A resolutividade é garantida por protocolos clínicos nacionais uniformes, dispensando vínculos comunitários e variações locais."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB) e Portaria GM/MS 635/2023 (eMulti)",
+  "coment": "A defesa da ABRASCO é de uma APS integral e resolutiva, capaz de resolver a maior parte dos problemas no território. Se muitos encaminhamentos poderiam ser resolvidos na UBS, a resposta é ampliar a capacidade clínica da equipe, com apoio matricial e trabalho interdisciplinar, e não encaminhar mais cedo nem só regular filas. A PNAB (Portaria 2.436/2017) coloca a resolutividade e a coordenação do cuidado entre as diretrizes da Atenção Básica, e a Portaria 635/2023 criou as eMulti, que substituem o NASF justamente no apoio matricial às equipes.",
+  "porAlt": [
+   "Encaminhar precocemente aumenta a fila especializada e esvazia a APS, o contrário da resolutividade defendida.",
+   "Correta: ampliar a resolutividade clínica com matriciamento e equipe interdisciplinar responde ao excesso de encaminhamentos evitáveis.",
+   "Organizar filas é tarefa da regulação; a APS forte se apoia na clínica e no vínculo, não em priorizar o hospital.",
+   "Protocolos ajudam, mas a PNAB exige considerar território, vínculo e realidade local, que não podem ser dispensados."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 1,
+   "parte": "gerais",
+   "tb": [
+    {
+     "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+     "n": 1
+    }
+   ]
+  }
+ },
+ {
+  "q": "Sobre os princípios do Sistema Único de Saúde (SUS), previstos na Constituição Federal de 1988 (arts. 196–200), analise as afirmações a seguir:\nI – A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doenças e outros agravos, e ao acesso universal e igualitário às ações e serviços.\nII – As ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada, constituindo um sistema único organizado segundo a descentralização e a participação da comunidade.\nIII – O setor privado não pode participar do SUS em hipótese alguma, sendo vedada qualquer forma de convênio ou contrato.\nIV – Compete ao SUS executar exclusivamente ações de vigilância sanitária e epidemiológica.\nEstão incorretas:",
+  "alts": [
+   "I e II",
+   "II e IV",
+   "III e IV",
+   "II, III e IV"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, arts. 196, 198, 199 e 200",
+  "coment": "A questão pede as INCORRETAS. O item I reproduz o art. 196 e o II, o art. 198 (rede regionalizada e hierarquizada, descentralização e participação da comunidade); ambos estão certos. O III erra porque o art. 199, § 1º, permite que instituições privadas participem do SUS de forma complementar, por contrato de direito público ou convênio, com preferência às filantrópicas e sem fins lucrativos. O IV erra porque o art. 200 dá ao SUS muitas outras competências além da vigilância, como formação de recursos humanos, saneamento básico e controle de produtos. Logo, III e IV.",
+  "porAlt": [
+   "I e II estão corretos: são cópias quase literais dos arts. 196 e 198 da Constituição.",
+   "II está correto (art. 198); só o IV está errado neste par.",
+   "Correta: III contraria o art. 199, § 1º (participação complementar privada), e IV ignora as várias competências do art. 200.",
+   "II está correto, então o conjunto não pode ser todo de afirmações incorretas."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 2,
+   "parte": "gerais",
+   "tb": [
+    {
+     "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+     "n": 2
+    }
+   ]
+  }
+ },
+ {
+  "q": "No contexto da regionalização do SUS conforme o Decreto 7.508/2011, muitas discussões recentes em estados apontam que algumas Regiões de Saúde não contemplam todos os serviços mínimos exigidos, dificultando o funcionamento integrado da rede. Segundo o art. 5.º do Decreto, quais componentes mínimos devem existir em cada Região de Saúde, para que possa ser instituída legalmente?",
+  "alts": [
+   "Atenção primária, atenção psicossocial, urgência e emergência, atenção ambulatorial especializada e hospitalar, e vigilância em saúde.",
+   "Atenção primária, unidades de saúde da família e hospitais especializados de alta complexidade e vigilância em saúde.",
+   "Atenção primária, internação psiquiátrica, assistência domiciliar e unidades de vigilância epidemiológica.",
+   "Atenção primária, serviço de regulação de leitos, farmácia municipal e vigilância em saúde."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, art. 5º",
+  "coment": "O art. 5º do Decreto 7.508/2011 diz que, para ser instituída, a Região de Saúde deve conter, no mínimo, ações e serviços de: I, atenção primária; II, urgência e emergência; III, atenção psicossocial; IV, atenção ambulatorial especializada e hospitalar; e V, vigilância em saúde. São cinco componentes, e a alternativa A lista exatamente os cinco. As demais trocam componentes por serviços específicos (hospital de alta complexidade, internação psiquiátrica, farmácia municipal) que o decreto não exige.",
+  "porAlt": [
+   "Correta: reproduz os cinco componentes mínimos do art. 5º do Decreto 7.508/2011.",
+   "Faltam urgência e emergência e atenção psicossocial; hospital de alta complexidade não é exigido em toda região.",
+   "Internação psiquiátrica e assistência domiciliar não constam do art. 5º; faltam urgência e atenção especializada.",
+   "Regulação de leitos e farmácia municipal não são componentes mínimos; faltam urgência, psicossocial e atenção especializada."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 3,
+   "parte": "gerais",
+   "tb": [
+    {
+     "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+     "n": 3
+    }
+   ]
+  }
+ },
+ {
+  "q": "A Lei nº 8.080/1990 define as responsabilidades de cada esfera de governo no Sistema Único de Saúde (SUS). Em relação ao papel da União, é correto afirmar que:",
+  "alts": [
+   "A União deve apenas financiar e fiscalizar, cabendo aos estados e municípios toda a organização das redes.",
+   "A Lei não diferencia papéis entre União, estados e municípios, tratando todos como iguais na formulação de políticas.",
+   "A União tem papel normativo e coordenador do SUS, definindo políticas nacionais de saúde, enquanto estados e municípios executam as ações em cooperação federativa.",
+   "A União exerce apenas função suplementar, cabendo aos estados a centralização normativa."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, arts. 16, 17 e 18",
+  "coment": "A Lei 8.080/1990 separa as atribuições por esfera. O art. 16 dá à direção nacional (União) a formulação, a avaliação e o apoio às políticas, a definição de normas e a coordenação de sistemas, como os de vigilância e de redes de alta complexidade. Os arts. 17 e 18 atribuem aos estados a coordenação e o apoio aos municípios e aos municípios a gestão e a execução dos serviços. É um modelo de cooperação federativa com papéis distintos, o que torna correta a alternativa C.",
+  "porAlt": [
+   "A União não se limita a financiar e fiscalizar: o art. 16 lhe dá papel normativo e de coordenação nacional.",
+   "A lei diferencia, sim, as competências nos arts. 16 (União), 17 (estados) e 18 (municípios).",
+   "Correta: a União formula e coordena a política nacional, e estados e municípios executam em cooperação (arts. 16 a 18).",
+   "A função normativa nacional é da União, e o SUS é descentralizado, não centralizado nos estados."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 4,
+   "parte": "gerais",
+   "tb": [
+    {
+     "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+     "n": 4
+    }
+   ]
+  }
+ },
+ {
+  "q": "A Lei nº 8.080/1990 estabelece os princípios da descentralização e da integralidade. Em 2022, reportagem do Estadão mostrou que, em diversos estados, a rede hospitalar ainda absorve mais de 70% do orçamento da saúde, em detrimento da atenção primária. Como a lei deve ser interpretada nesse cenário?",
+  "alts": [
+   "O financiamento majoritário da rede hospitalar é compatível com a integralidade, já que a maior parte das demandas de saúde é resolvida em hospitais gerais.",
+   "A descentralização permite que estados priorizem hospitais regionais, ainda que em detrimento da APS.",
+   "A Lei define integralidade apenas como acesso a qualquer serviço disponível, não estabelecendo relação entre níveis de atenção.",
+   "A integralidade pressupõe a articulação entre promoção, prevenção e assistência, cabendo ao SUS garantir equilíbrio entre os níveis de atenção, e não priorizar hospitais."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º, II e IX",
+  "coment": "O art. 7º, II, da Lei 8.080/1990 define integralidade como o conjunto articulado e contínuo de ações preventivas e curativas, individuais e coletivas, em todos os níveis de complexidade. Integralidade não é acesso a qualquer serviço nem justifica concentrar recursos no hospital: exige articulação entre promoção, prevenção e assistência e equilíbrio entre os níveis. A descentralização (art. 7º, IX) dá autonomia de gestão, mas não autoriza esvaziar a atenção primária.",
+  "porAlt": [
+   "A maior parte das necessidades de saúde se resolve na APS, e a integralidade não justifica o predomínio hospitalar.",
+   "A descentralização dá autonomia de gestão, mas não permite contrariar a integralidade em detrimento da APS.",
+   "A lei define integralidade como ações articuladas em todos os níveis (art. 7º, II), não como mero acesso a serviços.",
+   "Correta: integralidade é articular promoção, prevenção e assistência, com equilíbrio entre os níveis de atenção."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 5,
+   "parte": "gerais",
+   "tb": [
+    {
+     "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+     "n": 5
+    }
+   ]
+  }
+ },
+ {
+  "q": "Em 2023, o Conselho Nacional de Saúde (CNS) manifestou-se contra tentativas de esvaziamento da 17ª Conferência Nacional de Saúde, lembrando que sua realização é prevista em lei. Segundo a Lei nº 8.142/1990, qual é a natureza obrigatória das conferências de saúde?",
+  "alts": [
+   "Devem ocorrer a cada quatro anos, com representação de vários segmentos sociais, para avaliar a situação de saúde e propor diretrizes para formulação da política.",
+   "São facultativas, realizadas apenas quando convocadas pelo Ministro da Saúde, sem periodicidade definida.",
+   "Devem ser organizadas exclusivamente pelos conselhos de saúde estaduais, com poder deliberativo sobre a execução orçamentária.",
+   "São reuniões consultivas internas do Ministério da Saúde, sem participação popular obrigatória."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 1º, § 1º",
+  "coment": "O art. 1º, § 1º, da Lei 8.142/1990 determina que a Conferência de Saúde se reúna a cada quatro anos, com a representação dos vários segmentos sociais, para avaliar a situação de saúde e propor as diretrizes para a formulação da política de saúde nos níveis correspondentes. É convocada pelo Poder Executivo ou, extraordinariamente, pela própria conferência ou pelo Conselho de Saúde. Tem caráter propositivo; o caráter deliberativo é do Conselho de Saúde (§ 2º).",
+  "porAlt": [
+   "Correta: periodicidade de quatro anos, representação dos segmentos sociais, avaliação e proposição de diretrizes (art. 1º, § 1º).",
+   "A lei fixa periodicidade de quatro anos, e a convocação pode vir também da conferência ou do conselho.",
+   "Conferências ocorrem nas três esferas e propõem diretrizes; o caráter deliberativo é do Conselho de Saúde.",
+   "A conferência é instância de participação da comunidade, com representação de usuários; não é reunião interna do Ministério."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 6,
+   "parte": "gerais",
+   "tb": [
+    {
+     "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+     "n": 6
+    }
+   ]
+  }
+ },
+ {
+  "q": "A Lei 10.216/2001 define modalidades de internação (voluntária, involuntária e compulsória) e procedimentos obrigatórios para resguardar direitos. Assinale a alternativa incorreta:",
+  "alts": [
+   "A internação involuntária depende de laudo médico e deve ser comunicada ao Ministério Público em até 72 horas.",
+   "A internação compulsória só pode ser determinada por decisão judicial, sempre com base em laudo médico.",
+   "A internação voluntária ocorre quando há consentimento do paciente e pode ser interrompida a pedido dele ou do médico responsável.",
+   "A internação involuntária exige autorização prévia da família e aprovação judicial antes do ingresso do paciente."
+  ],
+  "gab": 3,
+  "tema": "mental",
+  "sub": "Lei 10.216/2001 e reforma psiquiátrica",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 10.216/2001, arts. 6º a 9º",
+  "coment": "A questão pede a INCORRETA. Pela Lei 10.216/2001, toda internação exige laudo médico circunstanciado (art. 6º). A involuntária é feita sem consentimento do usuário, a pedido de terceiro, e deve ser comunicada ao Ministério Público estadual em até 72 horas pelo responsável técnico (art. 8º, § 1º); não exige autorização prévia da família nem do juiz. A compulsória é a determinada pela Justiça (art. 9º). A voluntária termina por solicitação escrita do paciente ou por determinação do médico assistente (art. 7º, parágrafo único).",
+  "porAlt": [
+   "Está correta: laudo médico (art. 6º) e comunicação ao Ministério Público em 72 horas (art. 8º, § 1º).",
+   "Está correta: a compulsória é determinada pela Justiça (art. 9º) e, como toda internação, exige laudo médico.",
+   "Está correta: o término da voluntária se dá por pedido escrito do paciente ou por determinação do médico (art. 7º).",
+   "Correta: é a incorreta, pois a lei não exige autorização prévia da família nem aprovação judicial para a involuntária."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 7,
+   "parte": "gerais",
+   "tb": [
+    {
+     "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+     "n": 7
+    }
+   ]
+  }
+ },
+ {
+  "q": "A Lei 10.216/2001 redireciona o modelo assistencial, priorizando cuidado em liberdade e serviços comunitários. À luz da norma, assinale a alternativa incorreta:",
+  "alts": [
+   "O tratamento deve ocorrer, sempre que possível, em serviços comunitários de saúde mental, com foco na reinserção social.",
+   "A internação é medida excepcional, indicada quando recursos extra-hospitalares se mostrarem insuficientes para o cuidado.",
+   "Em qualquer modalidade de internação, adota-se a alternativa terapêutica menos invasiva, preservando direitos e dignidade do usuário.",
+   "Para garantir a segurança, as internações devem ser preferencialmente em hospitais psiquiátricos especializados, ficando os dispositivos territoriais como apoio."
+  ],
+  "gab": 3,
+  "tema": "mental",
+  "sub": "Lei 10.216/2001 e reforma psiquiátrica",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 10.216/2001, arts. 2º e 4º",
+  "coment": "A questão pede a INCORRETA. A Lei 10.216/2001 garante tratamento preferencialmente em serviços comunitários de saúde mental e pelos meios menos invasivos possíveis (art. 2º, parágrafo único, VIII e IX). A internação, em qualquer modalidade, só é indicada quando os recursos extra-hospitalares se mostrarem insuficientes (art. 4º) e visa à reinserção social. Inverter essa lógica, com o hospital psiquiátrico no centro e o território como apoio, contraria a lei e a Rede de Atenção Psicossocial.",
+  "porAlt": [
+   "Está correta: o tratamento é preferencialmente em serviços comunitários, com foco na reinserção (art. 2º e art. 4º, § 1º).",
+   "Está correta: a internação só é indicada quando os recursos extra-hospitalares forem insuficientes (art. 4º).",
+   "Está correta: a lei assegura tratamento pelos meios menos invasivos possíveis (art. 2º, parágrafo único, VIII).",
+   "Correta: é a incorreta, pois a lei prioriza os serviços comunitários e trata a internação como exceção."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 8,
+   "parte": "gerais",
+   "tb": [
+    {
+     "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+     "n": 8
+    }
+   ]
+  }
+ },
+ {
+  "q": "Segundo a Portaria GM/MS nº 635/2023, as diretrizes pedagógicas dos Programas de Residência Multiprofissional em Saúde envolvem:\nI – Uso de metodologias ativas, centradas na problematização do processo de trabalho em saúde.\nII – Ênfase na formação multiprofissional, interdisciplinar e integrada, em diálogo com a rede SUS.\nIII – Foco prioritário em especialização técnica restrita a cada profissão, sem necessidade de articulação interdisciplinar.\nIV – Inserção dos residentes restrita ao nível hospitalar de alta complexidade, considerado pela portaria como espaço formativo central e prioritário.",
+  "alts": [
+   "I e II",
+   "II e III.",
+   "I e IV.",
+   "III e IV."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 11.129/2005, art. 13; Portaria GM/MS 635/2023 (eMulti)",
+  "coment": "Os itens I e II descrevem a pedagogia das residências multiprofissionais: metodologias ativas, problematização do processo de trabalho e formação interprofissional integrada à rede SUS, no espírito da educação permanente. III e IV estão errados: a residência não é especialização restrita a uma profissão nem restrita ao hospital de alta complexidade. Atenção à premissa: a Portaria GM/MS 635/2023 trata das equipes eMulti na APS, não das diretrizes da residência; a residência em área profissional da saúde foi criada pela Lei 11.129/2005 (art. 13) e é regulada pela CNRMS.",
+  "porAlt": [
+   "Correta: metodologias ativas e formação multiprofissional integrada ao SUS são as diretrizes descritas.",
+   "O item III está errado: a residência multiprofissional pressupõe articulação interdisciplinar.",
+   "O item IV está errado: a formação ocorre na rede SUS, inclusive na APS, não só no hospital de alta complexidade.",
+   "III e IV são justamente as afirmações erradas, contrárias à formação interprofissional em rede."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 9,
+   "parte": "gerais",
+   "tb": [
+    {
+     "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+     "n": 9
+    }
+   ]
+  }
+ },
+ {
+  "q": "“A Atenção Básica é desenvolvida com elevado grau de descentralização e capilaridade, próxima da vida das pessoas, devendo considerar as necessidades do território e a participação da comunidade” (Art. 2º, PNAB/2017). Com base nessa diretriz, assinale a alternativa incorreta:",
+  "alts": [
+   "A territorialização é princípio estruturante, vinculando cada equipe a uma população definida e exigindo planejamento com base no território.",
+   "A adscrição de usuários deve ser garantida, sem comprometer a livre circulação pelo sistema, articulando-se à rede regionalizada do SUS.",
+   "A descentralização e a capilaridade ampliam o acesso e implicam corresponsabilização longitudinal da equipe pelo cuidado dos usuários.",
+   "A adscrição populacional serve apenas para organizar cadastros, sem implicar responsabilidade das equipes pelo cuidado."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo, diretrizes da Atenção Básica",
+  "coment": "A questão pede a INCORRETA. Na PNAB (Portaria 2.436/2017), territorialização e adscrição são diretrizes: cada equipe responde por uma população e um território definidos, e a adscrição cria vínculo e responsabilização longitudinal pelo cuidado, sem impedir a circulação do usuário na rede. Dizer que a adscrição serve apenas para organizar cadastros, sem responsabilidade pelo cuidado, nega o sentido da diretriz. As alternativas A, B e C repetem a PNAB.",
+  "porAlt": [
+   "Está correta: a territorialização vincula equipe e população e orienta o planejamento local.",
+   "Está correta: a adscrição convive com a livre circulação na rede regionalizada.",
+   "Está correta: capilaridade amplia o acesso e implica longitudinalidade e corresponsabilização.",
+   "Correta: é a incorreta, pois a adscrição implica vínculo e responsabilidade da equipe pelo cuidado."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 10,
+   "parte": "gerais",
+   "tb": [
+    {
+     "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+     "n": 10
+    }
+   ]
+  }
+ },
+ {
+  "q": "“A clínica ampliada visa superar o reducionismo biomédico, articulando aspectos subjetivos, sociais e culturais no cuidado em saúde” (Curso eMulti, 2023, p. 47). Qual situação traduz corretamente a clínica ampliada?",
+  "alts": [
+   "Em uma unidade, a equipe organiza mutirão para atualização vacinal, garantindo cumprimento de metas ministeriais.",
+   "Em uma UBS, uma equipe multiprofissional constrói com o usuário um plano terapêutico que inclui uso de medicamentos.",
+   "Em consulta de puericultura, a pediatra orienta aleitamento exclusivo, agenda retornos periódicos e acompanha o crescimento da criança.",
+   "Em reunião de gestão, a coordenação define fluxos de atendimento para reduzir tempo de espera e aumentar eficiência administrativa na UBS."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Política Nacional de Humanização (HumanizaSUS, 2003); Portaria GM/MS 635/2023 (eMulti)",
+  "coment": "Clínica ampliada é uma diretriz da Política Nacional de Humanização: o caso é compreendido em sua dimensão biológica, subjetiva e social, e o projeto de cuidado é construído pela equipe junto com o usuário, sem abandonar os recursos terapêuticos, como o medicamento. O que marca a alternativa B é a construção compartilhada do plano terapêutico por equipe multiprofissional. Metas de vacinação, puericultura conduzida por um só profissional e fluxos administrativos são ações legítimas, mas não expressam a ampliação do objeto da clínica.",
+  "porAlt": [
+   "Mutirão para cumprir metas é ação programática; não amplia a compreensão singular do usuário.",
+   "Correta: plano terapêutico construído com o usuário por equipe multiprofissional, integrando o medicamento, é clínica ampliada.",
+   "É boa puericultura, mas centrada na conduta de um profissional, sem a construção compartilhada que define a clínica ampliada.",
+   "Definir fluxos para eficiência é gestão do serviço, não ampliação da clínica."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 11,
+   "parte": "gerais",
+   "tb": [
+    {
+     "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+     "n": 11
+    }
+   ]
+  }
+ },
+ {
+  "q": "Gastão Wagner de Sousa Campos (2018) argumenta que o SUS é mais que um sistema de serviços: é um projeto civilizatório, atravessado por disputas entre lógicas democráticas e mercantis. Qual alternativa está correta segundo essa leitura?",
+  "alts": [
+   "O fortalecimento do SUS exige a centralidade do setor privado como gestor complementar, já que sua eficiência administrativa supera a da rede pública.",
+   "A sustentabilidade do SUS passa por restringir direitos universais e concentrar atenção nos segmentos mais vulneráveis, garantindo seletividade racional dos recursos.",
+   "O SUS deve ser compreendido como política pública universal que garante saúde como direito de cidadania, articulando cuidado, democracia participativa e justiça social.",
+   "O SUS deve ser avaliado unicamente por metas de produtividade e eficiência financeira, desconsiderando dimensões éticas e políticas do cuidado."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Constituição Federal de 1988, art. 196; Campos GWS (2018), SUS como projeto civilizatório",
+  "coment": "Gastão Wagner de Sousa Campos descreve o SUS como projeto civilizatório: uma política universal que trata a saúde como direito de cidadania, ligada à democracia participativa e à justiça social, em disputa com a lógica de mercado. É a leitura do art. 196 da Constituição (saúde como direito de todos e dever do Estado). Por isso a alternativa C. As demais defendem o setor privado como gestor central, a focalização dos direitos ou a avaliação só por produtividade, posições que o autor critica.",
+  "porAlt": [
+   "O autor critica a centralidade privada; na Constituição o setor privado é apenas complementar (art. 199, § 1º).",
+   "Restringir direitos universais é a focalização que contraria o art. 196 e a leitura do autor.",
+   "Correta: universalidade, cidadania, democracia participativa e justiça social resumem a ideia de projeto civilizatório.",
+   "Avaliar só por produtividade ignora as dimensões éticas e políticas que o autor coloca no centro."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 12,
+   "parte": "gerais",
+   "tb": [
+    {
+     "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+     "n": 12
+    }
+   ]
+  }
+ },
+ {
+  "q": "Segundo Guedes (2021), a Atenção Primária à Saúde (APS) não pode ser entendida apenas como instância administrativa, mas como território de disputas políticas, formação profissional e produção de vínculos. Qual alternativa está correta?",
+  "alts": [
+   "A APS deve ser vista prioritariamente como dispositivo de racionalização de custos e controle de fluxos, subordinado às metas ministeriais de eficiência.",
+   "A APS, ao atuar no território, deve articular práticas de cuidado domiciliar, ações coletivas e reconhecimento das condições de vida como parte do ato clínico.",
+   "A APS é nível hierárquico inferior, subordinado à média e alta complexidade, com pouca autonomia para decisões clínicas.",
+   "A APS pode ampliar o acesso, mas sem envolver disputas políticas ou transformações institucionais, limitando-se a protocolos técnicos."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB); Guedes (2021)",
+  "coment": "A leitura de Guedes trata a APS como território de cuidado, de formação e de vínculo, e não como mera instância administrativa. A alternativa B traduz isso: atuar no território inclui cuidado domiciliar, ações coletivas e o reconhecimento das condições de vida como parte do ato clínico. Coincide com a PNAB (Portaria 2.436/2017), que inclui a territorialização, a atenção domiciliar e a ação sobre determinantes sociais entre as atribuições das equipes. As outras reduzem a APS a controle de custos, a nível subordinado ou a protocolo técnico.",
+  "porAlt": [
+   "Ver a APS como dispositivo de corte de custos é justamente a visão administrativa que o texto rejeita.",
+   "Correta: cuidado domiciliar, ações coletivas e leitura das condições de vida fazem parte da clínica na APS.",
+   "A APS é coordenadora do cuidado e porta preferencial, não nível inferior subordinado.",
+   "O texto afirma que a APS envolve disputas políticas e mudanças institucionais, não só protocolos."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 13,
+   "parte": "gerais",
+   "tb": [
+    {
+     "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+     "n": 13
+    }
+   ]
+  }
+ },
+ {
+  "q": "Segundo Massuda et al. (2022), a pandemia expôs não apenas o subfinanciamento histórico do SUS, mas também a fragilidade da coordenação federativa em contextos de crise. Em 2021, reportagem da Folha de S. Paulo mostrou que estados compravam respiradores em concorrência entre si, sem centralização federal efetiva. À luz dessa discussão, qual alternativa está correta?",
+  "alts": [
+   "A coordenação federal durante a pandemia foi suficiente para garantir a equidade entre os estados, evitando disputas por insumos.",
+   "O fortalecimento do SUS depende de mais recursos financeiros, mas também de mecanismos claros de cooperação entre União, estados e municípios.",
+   "A descentralização do SUS é um problema em si, devendo ser substituída por gestão exclusivamente federal para evitar desigualdades.",
+   "O conceito de resiliência em saúde significa apenas manter os serviços funcionando durante crises, sem necessidade de mudanças estruturais posteriores."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, arts. 7º e 15; Massuda et al. (2022)",
+  "coment": "Massuda e colaboradores mostram que a pandemia expôs dois problemas: subfinanciamento e fraca coordenação federativa. A disputa entre estados por respiradores é o exemplo. A conclusão é que mais dinheiro não basta: o SUS precisa de mecanismos claros de cooperação entre União, estados e municípios, como prevê a Lei 8.080/1990 ao definir atribuições comuns (art. 15) e a descentralização com direção única em cada esfera (art. 7º, IX). Isso afasta a ideia de que a coordenação foi suficiente ou de que a solução é centralizar tudo na União.",
+  "porAlt": [
+   "O próprio enunciado mostra o contrário: houve disputa entre estados por insumos por falta de coordenação.",
+   "Correta: além de recursos, o SUS precisa de cooperação federativa clara entre as três esferas.",
+   "A descentralização é diretriz constitucional (art. 198, I); o problema foi a coordenação, não a descentralização.",
+   "Resiliência envolve aprender com a crise e mudar estruturas, não apenas manter serviços abertos."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 14,
+   "parte": "gerais",
+   "tb": [
+    {
+     "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+     "n": 14
+    }
+   ]
+  }
+ },
+ {
+  "q": "No estudo avaliativo conduzido por Onocko Campos et al. (2011), foram analisadas experiências de integração da saúde mental na Atenção Primária à Saúde (APS). Entre os achados, destacou-se que a presença de profissionais especializados não garantia mudanças substantivas na clínica, sendo decisiva a criação de espaços coletivos. Considerando esse estudo, qual alternativa está correta?",
+  "alts": [
+   "A inserção de profissionais de saúde mental na APS só se torna efetiva quando acompanhada de dispositivos de cogestão e apoio matricial.",
+   "A integração entre saúde mental e APS exige o foco no atendimento individual para além práticas coletivas.",
+   "O estudo conclui que a ampliação do acesso garante integralidade, sendo desnecessário problematizar modos de cuidado.",
+   "A solução principal para fortalecer a saúde mental na APS é expandir o número de CAPS, reduzindo a centralidade das UBS no acompanhamento dos casos leves."
+  ],
+  "gab": 0,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Onocko Campos et al. (2011); Portaria GM/MS 3.088/2011 (RAPS)",
+  "coment": "O estudo avaliativo de Onocko Campos e colaboradores concluiu que colocar profissionais de saúde mental na APS não muda a clínica por si só; o decisivo foram os espaços coletivos de cogestão e o apoio matricial, que permitem discutir casos e construir projetos terapêuticos em conjunto. A RAPS (Portaria 3.088/2011) põe a atenção básica como ponto da rede e o apoio matricial como forma de articulação. As alternativas que defendem só atendimento individual, só acesso ou mais CAPS no lugar da UBS contrariam esses achados.",
+  "porAlt": [
+   "Correta: a inserção só é efetiva com cogestão e apoio matricial, achado central do estudo.",
+   "O estudo valoriza os espaços coletivos; priorizar o atendimento individual é o oposto do que concluiu.",
+   "O estudo mostra que acesso sem mudança nos modos de cuidar não garante integralidade.",
+   "Casos leves devem seguir na APS com apoio matricial; o estudo não propõe esvaziar a UBS em favor do CAPS."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 15,
+   "parte": "gerais",
+   "tb": [
+    {
+     "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+     "n": 15
+    }
+   ]
+  }
+ },
+ {
+  "q": "Padilha et al. (2019) analisam como a crise política e econômica agravou a fragilidade da governança federativa do SUS, destacando tensões entre União, estados e municípios. Em 2023, o Conselho Nacional de Saúde alertou para a redução de repasses federais em áreas estratégicas, evidenciando o subfinanciamento crônico. Considerando esse estudo e a conjuntura atual, qual está incorreta?",
+  "alts": [
+   "A governança federativa no SUS depende de pactuações intergovernamentais, mas a crise revelou disputas e fragmentações que comprometem a regionalização.",
+   "A fragilidade financeira, associada ao subfinanciamento, limita a implementação de políticas públicas, agravando desigualdades regionais no acesso à saúde.",
+   "O estudo de Padilha et al. enfatiza que a descentralização, quando não acompanhada de financiamento estável, pode resultar em sobrecarga para municípios.",
+   "O modelo de federalismo brasileiro garante homogeneidade no acesso à saúde, reduzindo disparidades regionais mesmo em períodos de crise."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Constituição Federal de 1988, art. 198; Padilha et al. (2019)",
+  "coment": "A questão pede a INCORRETA. Padilha e colaboradores mostram que a governança federativa do SUS depende de pactuação entre as esferas e que a crise econômica e o subfinanciamento agravaram desigualdades regionais e sobrecarregaram municípios. Afirmar que o federalismo brasileiro garante homogeneidade de acesso, mesmo na crise, contraria o estudo e a realidade descrita no enunciado. A descentralização prevista no art. 198 da Constituição só reduz desigualdades com financiamento estável e coordenação.",
+  "porAlt": [
+   "Está correta: a governança depende de pactuação, e a crise expôs disputas que fragilizam a regionalização.",
+   "Está correta: o subfinanciamento limita políticas e amplia desigualdades regionais.",
+   "Está correta: descentralizar sem financiamento estável sobrecarrega os municípios.",
+   "Correta: é a incorreta, pois o federalismo não garante homogeneidade; as disparidades regionais persistem e se agravam na crise."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 16,
+   "parte": "gerais",
+   "tb": [
+    {
+     "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+     "n": 16
+    }
+   ]
+  }
+ },
+ {
+  "q": "Paim (2020) analisa os desafios dos sistemas universais de saúde e alerta para os riscos de privatização e subfinanciamento no SUS. Considerando esse debate, assinale a alternativa incorreta:",
+  "alts": [
+   "O SUS pode ser enfraquecido pela expansão do setor privado, o que ameaça a integralidade e a equidade.",
+   "A lógica de mercado em saúde tende a gerar desigualdades, pois o acesso depende da capacidade de pagamento.",
+   "O fortalecimento da atenção primária e a regionalização são estratégias para reduzir desigualdades no SUS.",
+   "A presença do setor privado garante automaticamente a equidade no acesso à saúde, desde que haja regulação."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Constituição Federal de 1988, arts. 196 e 199; Paim (2020)",
+  "coment": "A questão pede a INCORRETA. Jairnilson Paim alerta que a privatização e o subfinanciamento ameaçam a universalidade, a integralidade e a equidade, porque na lógica de mercado o acesso depende da capacidade de pagamento. Fortalecer a APS e a regionalização reduz desigualdades. Por isso, dizer que a presença do setor privado garante automaticamente a equidade é falso: mesmo com regulação, o privado atua de forma complementar (art. 199, § 1º, da Constituição) e não substitui o dever do Estado (art. 196).",
+  "porAlt": [
+   "Está correta: a expansão privada pode enfraquecer o SUS e ameaçar integralidade e equidade.",
+   "Está correta: no mercado, o acesso depende da capacidade de pagamento, o que gera desigualdade.",
+   "Está correta: APS forte e regionalização são estratégias para reduzir desigualdades.",
+   "Correta: é a incorreta, pois nada garante automaticamente a equidade; o privado é complementar e não substitui o dever do Estado."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 17,
+   "parte": "gerais",
+   "tb": [
+    {
+     "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+     "n": 17
+    }
+   ]
+  }
+ },
+ {
+  "q": "Sobre as ciências sociais aplicadas à saúde coletiva, analise as afirmações:\nI – Em um território periférico, compreender a resistência de usuários a campanhas de vacinação exige articular cultura, religião e desigualdade social, dimensões centrais das ciências sociais em saúde.\nII – O estudo de gênero e raça, na saúde coletiva, é exemplo de como as ciências sociais ampliam o debate, permitindo que políticas de equidade sejam formuladas de forma situada.\nIII – A função principal das ciências sociais é legitimar protocolos clínicos com maior adesão estatística, deixando em segundo plano as contradições sociais.\nIV – Quando um serviço de saúde interpreta altas taxas de abandono de tratamento apenas como “falta de adesão”, isso demonstra limitação da análise biomédica, justamente o que as ciências sociais buscam superar.\nQuais estão corretas?",
+  "alts": [
+   "I, II e IV",
+   "Apenas I e II",
+   "Apenas III e IV",
+   "II e III"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 3º (determinantes e condicionantes da saúde)",
+  "coment": "As ciências sociais em saúde ajudam a entender os comportamentos e os resultados em saúde a partir da cultura, das relações de gênero e raça e da desigualdade social. Os itens I, II e IV mostram isso: resistência vacinal lida pelo contexto, políticas de equidade situadas e a crítica à leitura do abandono só como falta de adesão. O item III erra ao reduzir as ciências sociais a legitimar protocolos clínicos. A Lei 8.080/1990, art. 3º, reconhece que a saúde tem determinantes e condicionantes sociais e econômicos.",
+  "porAlt": [
+   "Correta: I, II e IV mostram a contribuição das ciências sociais para ler cultura, desigualdade e adesão.",
+   "Omite o item IV, que também está correto ao criticar a leitura biomédica do abandono.",
+   "O item III está errado: a função das ciências sociais não é legitimar protocolos.",
+   "O item III está errado, e o conjunto deixa de fora I e IV, que estão corretos."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 18,
+   "parte": "gerais",
+   "tb": [
+    {
+     "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+     "n": 18
+    }
+   ]
+  }
+ },
+ {
+  "q": "“O apoio matricial em saúde mental não deve ser confundido com supervisão ou consultoria pontual, mas consiste em processo contínuo de corresponsabilização, compartilhamento de saberes e construção conjunta de projetos terapêuticos singulares” (Treichel, Campos & Campos, 2019, p. 3).\nEm uma UBS de periferia, a equipe de Saúde da Família solicita apoio do CAPS para acompanhar um adolescente com tentativas recorrentes de automutilação. O CAPS, em resposta, oferece apenas uma reunião mensal de discussão de caso. À luz da definição de apoio matricial dos autores, assinale a alternativa correta:",
+  "alts": [
+   "A reunião mensal, ainda que isolada, garante a efetividade plena do apoio matricial, já que a periodicidade é o elemento mais relevante para a prática.",
+   "O apoio matricial pressupõe clínica compartilhada, elaboração conjunta e articulação com redes intersetoriais.",
+   "O caso relatado não é adequado para apoio matricial, pois o CAPS deveria assumir integralmente a condução clínica do adolescente.",
+   "O apoio matricial deve ser entendido como supervisão técnica especializada, sem necessidade de dividir a clínica ou corresponsabilizar equipes."
+  ],
+  "gab": 1,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Treichel, Campos e Campos (2019); Portaria GM/MS 3.088/2011 (RAPS)",
+  "coment": "Pela definição citada, apoio matricial é processo contínuo de corresponsabilização, com compartilhamento de saberes e construção conjunta de projetos terapêuticos singulares; não é supervisão nem consultoria pontual. Uma reunião mensal isolada não basta. O caso do adolescente com automutilação pede clínica compartilhada entre ESF e CAPS, atendimentos conjuntos quando preciso e articulação com a rede intersetorial, como escola e assistência social. A RAPS (Portaria 3.088/2011) organiza o cuidado em rede, com a atenção básica e o CAPS corresponsáveis.",
+  "porAlt": [
+   "Periodicidade não define o apoio matricial; uma reunião isolada não garante corresponsabilização.",
+   "Correta: clínica compartilhada, elaboração conjunta do projeto e articulação intersetorial definem o apoio matricial.",
+   "O caso é típico de apoio matricial; transferir toda a condução ao CAPS rompe o vínculo com a ESF.",
+   "Os autores distinguem apoio matricial de supervisão técnica: ele exige dividir a clínica e corresponsabilizar equipes."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 20,
+   "parte": "gerais",
+   "tb": [
+    {
+     "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+     "n": 20
+    }
+   ]
+  }
+ },
+ {
+  "q": "A crise convulsiva é um sinal de anormalidade na função cerebral relacionada a descargas elétricas atípicas e excessivas de um grupo de neurônios. Assinale a alternativa CORRETA que diz respeito as condições que podem precipitar a crise convulsiva:",
+  "alts": [
+   "Febre, infecção e trauma cranioencefálico",
+   "Exposição a luz piscante, ruídos baixos e presença de aura",
+   "Desidratação, hipoglicemia e hipermagnesemia",
+   "Hipocalcemia, hipernatremia e anemia"
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hockenberry, Wilson e Rodgers, Wong Fundamentos de Enfermagem Pediátrica, 10ª ed. (Elsevier, 2018)",
+  "coment": "Na criança, febre (crise febril), infecções do sistema nervoso central como meningite e encefalite e trauma cranioencefálico estão entre os precipitantes mais comuns de crise convulsiva. Distúrbios metabólicos também precipitam crises, mas na direção certa: hipoglicemia, hipocalcemia, hiponatremia ou hipernatremia e hipomagnesemia. Hipermagnesemia causa depressão neuromuscular, não convulsão, e anemia não é precipitante clássico. Luz piscante desencadeia crise só em epilepsia fotossensível, e aura é parte da crise, não causa.",
+  "porAlt": [
+   "Correta: febre, infecção e trauma cranioencefálico são precipitantes clássicos de crise na infância.",
+   "Aura é manifestação inicial da própria crise, e ruídos baixos não a precipitam.",
+   "O erro está na hipermagnesemia: é a hipomagnesemia que precipita crises.",
+   "Anemia não é precipitante clássico de crise convulsiva, o que invalida o conjunto."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 21,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O resultado da gasometria arterial de A. M. S., sexo feminino, três anos, evidencia pH de 7,47, PaCO2 de 33mmHg e HCO3 de 25mEq/L. Considerando os valores acima, assinale a alteração CORRETA:",
+  "alts": [
+   "Acidose respiratória",
+   "Acidose metabólica",
+   "Alcalose respiratória",
+   "Alcalose metabólica"
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hockenberry, Wilson e Rodgers, Wong Fundamentos de Enfermagem Pediátrica, 10ª ed. (Elsevier, 2018)",
+  "coment": "Leia em três passos. O pH de 7,47 está acima de 7,45: há alcalemia. A PaCO2 de 33 mmHg está abaixo de 35: o CO2 baixo puxa o pH para cima, então o distúrbio é respiratório. O bicarbonato de 25 mEq/L está na faixa normal (22 a 26), sem compensação metabólica ainda, o que sugere quadro agudo, como na hiperventilação por dor, ansiedade ou hipoxemia. Resultado: alcalose respiratória.",
+  "porAlt": [
+   "Na acidose respiratória o pH cai e a PaCO2 sobe, o contrário dos valores dados.",
+   "Na acidose metabólica o pH e o bicarbonato estão baixos; aqui o bicarbonato é normal.",
+   "Correta: pH alto com PaCO2 baixa e bicarbonato normal define alcalose respiratória.",
+   "Na alcalose metabólica o bicarbonato estaria elevado, acima de 26 mEq/L."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 22,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A insuficiência circulatória em crianças é o resultado de hipovolemia, resistência vascular periférica alterada ou insuficiência de bomba cardíaca. Assinale a alternativa CORRETA sobre as características do choque hipovolêmico.",
+  "alts": [
+   "Débito cardíaco inadequado e função miocárdica normal.",
+   "Aumento da permeabilidade capilar e hipotensão persistente.",
+   "Presença de estertores na ausculta pulmomar e aumento da área cardíaca no RX.",
+   "Enchimento capilar deficitário e pressão venosa central baixa."
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hockenberry, Wilson e Rodgers, Wong Fundamentos de Enfermagem Pediátrica, 10ª ed. (Elsevier, 2018)",
+  "coment": "No choque hipovolêmico falta volume circulante: o retorno venoso cai, a pressão venosa central fica baixa e a perfusão periférica piora, com enchimento capilar lento e extremidades frias. Na criança a pressão arterial se mantém por muito tempo à custa de taquicardia e vasoconstrição, então a hipotensão é sinal tardio. Estertores e aumento da área cardíaca indicam choque cardiogênico; aumento da permeabilidade capilar é marca do choque distributivo, como o séptico e o anafilático.",
+  "porAlt": [
+   "Débito inadequado com miocárdio normal descreve qualquer choque não cardiogênico; não é o traço que define o hipovolêmico.",
+   "Aumento da permeabilidade capilar é característico do choque distributivo, e a hipotensão na criança é tardia.",
+   "Estertores e cardiomegalia apontam congestão por falha de bomba, típica do choque cardiogênico.",
+   "Correta: enchimento capilar lento e PVC baixa refletem a perda de volume circulante."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 23,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Crianças com infecções respiratórias agudas, sejam de via aérea superior e/ou inferior podem evoluir para insuficiência respiratória, uma das principais causas de hospitalização de crianças menores de cinco anos no Brasil. Assinale a alternativa CORRETA sobre os sinais de insuficiência respiratória por hipoxemia.",
+  "alts": [
+   "Cianose, palidez e prostração",
+   "Batimento de asa de nariz, taquipnéia e sinais de exaustão",
+   "Sibilos, assimetria torácica e tempo expiratório prolongado",
+   "Bradicardia, hipertensão arterial e apnéia"
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hockenberry, Wilson e Rodgers, Wong Fundamentos de Enfermagem Pediátrica, 10ª ed. (Elsevier, 2018)",
+  "coment": "A hipoxemia reduz a oferta de oxigênio aos tecidos: aparecem cianose, palidez e prostração ou alteração do nível de consciência, sinais de que o oxigênio não está chegando ao cérebro e à periferia. Batimento de asa de nariz, taquipneia e exaustão são sinais de desconforto e de aumento do trabalho respiratório, que podem coexistir mas não são específicos da hipoxemia. Sibilos e expiração prolongada indicam obstrução. Bradicardia e apneia são sinais pré-parada. A divisão segue a do livro-texto usado pela banca.",
+  "porAlt": [
+   "Correta: cianose, palidez e prostração refletem a oferta inadequada de oxigênio aos tecidos.",
+   "São sinais de esforço respiratório e fadiga; acompanham a insuficiência, mas não definem a hipoxemia.",
+   "Sibilos e tempo expiratório prolongado indicam obstrução de vias aéreas inferiores, não hipoxemia.",
+   "Bradicardia e apneia são sinais tardios de falência iminente, e hipertensão não é sinal de hipoxemia."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 24,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação à meningite bacteriana em crianças e lactentes, assinale a alternativa CORRETA:",
+  "alts": [
+   "A meningite por Haemophilus influenzae tipo B (Hib) é atualmente a causa mais comum de meningite em crianças menores de 5 anos, devido à resistência aos antibióticos e à baixa cobertura vacinal.",
+   "Em lactentes com idade entre 3 meses e 2 anos, a clássica tríade de meningite (rigidez de nuca, febre e cefaleia) é facilmente identificada, permitindo diagnóstico rápido sem necessidade de exames laboratoriais.",
+   "A punção lombar é o exame diagnóstico definitivo; antes do procedimento, pode-se administrar anestésico tópico para reduzir dor e medo da criança, e a amostra de glicose sérica deve ser coletada cerca de 30 minutos antes do LCR para interpretação adequada.",
+   "A meningite neonatal apresenta sinais clínicos muito semelhantes aos observados em crianças maiores, com fotofobia, rigidez nucal e erupções petequiais como achados iniciais típicos."
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Hockenberry, Wilson e Rodgers, Wong Fundamentos de Enfermagem Pediátrica, 10ª ed. (Elsevier, 2018); Guia de Vigilância em Saúde, 6ª ed. (MS, 2023)",
+  "coment": "A punção lombar com análise do líquor confirma a meningite bacteriana. O livro-texto recomenda anestésico tópico antes do procedimento para reduzir dor e medo e a coleta da glicemia cerca de 30 minutos antes, porque a glicose do líquor só se interpreta comparada à sérica (na meningite bacteriana a razão cai). Depois da vacina conjugada, o Hib deixou de ser causa principal; hoje predominam meningococo e pneumococo, segundo o Guia de Vigilância em Saúde. Em lactentes e neonatos os sinais clássicos costumam faltar.",
+  "porAlt": [
+   "Com a vacinação contra Hib, essa bactéria deixou de ser a causa mais comum; predominam meningococo e pneumococo.",
+   "Em lactentes a tríade clássica costuma faltar, e o diagnóstico depende do líquor.",
+   "Correta: a punção lombar é diagnóstica, cabe anestesia tópica, e a glicemia é colhida cerca de 30 minutos antes.",
+   "A meningite neonatal tem sinais inespecíficos, como recusa alimentar, hipotermia ou febre e irritabilidade, não os clássicos."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 25,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o cuidado de lactente submetido à correção cirúrgica de hipospadia proximal, com uso de sonda de desvio urinário, assinale a afirmativa CORRETA.",
+  "alts": [
+   "Espasmos vesicais são comuns e podem levar a arquear as costas e elevar os joelhos até o peito, podendo fazer a urina vazar ao redor da sonda.",
+   "A circuncisão neonatal é recomendada antes da cirurgia para garantir que o prepúcio esteja disponível para reconstrução da uretra, mesmo em casos leves de hipospadia.",
+   "A sonda deve ser removida imediatamente se houver espasmos vesicais intensos, para prevenir complicações urinárias.",
+   "Banhos de banheira são indicados para aliviar o desconforto e reduzir o risco de aderência do pênis ao curativo."
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Hockenberry, Wilson e Rodgers, Wong Fundamentos de Enfermagem Pediátrica, 10ª ed. (Elsevier, 2018)",
+  "coment": "Depois da correção de hipospadia com sonda de desvio urinário, os espasmos vesicais são comuns: o lactente arqueia as costas, eleva os joelhos ao peito, chora, e a urina pode vazar ao redor da sonda. A conduta é avisar a equipe para uso de antiespasmódico prescrito e analgesia, e manter a sonda pérvia e fixa, sem retirá-la. A circuncisão é contraindicada antes da cirurgia, porque o prepúcio pode ser usado na reconstrução. Banho de banheira costuma ser evitado enquanto há sonda e curativo.",
+  "porAlt": [
+   "Correta: espasmo vesical é comum, provoca esses movimentos e pode causar vazamento ao redor da sonda.",
+   "Ao contrário: a circuncisão é evitada justamente para preservar o prepúcio para a reconstrução.",
+   "A sonda não deve ser retirada por espasmo; trata-se o espasmo com medicação prescrita e se mantém o desvio.",
+   "Banho de imersão costuma ser evitado com sonda e curativo para não molhar nem deslocar o curativo."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 26,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Lactente, 6 meses, com histórico de cardiopatia congênita corrigida cirurgicamente há 2 semanas. Apresenta taquicardia súbita, regular, de 220 bpm, associada a irritabilidade intensa e dificuldade para se alimentar. Sinais vitais estáveis e sem evidência de insuficiência cardíaca. O eletrocardiograma (ECG) confirma taquicardia supraventricular (TSV). Considerando o manejo terapêutico de arritmias pediátricas, qual conduta inicial apropriada?",
+  "alts": [
+   "Iniciar infusão de betabloqueador contínua e encaminhar para cardioversão elétrica sem tentativa prévia de manobra vagal, mesmo com estabilidade hemodinâmica.",
+   "Aplicar imediatamente manobras vagais (compressa fria no rosto), monitorar o ritmo cardíaco e, se a TSV persistir, administrar adenosina IV rapidamente seguida de flush com solução fisiológica, conforme prescrição.",
+   "Administrar digoxina oral e observar por 24 horas em enfermaria, sem monitoramento contínuo do ECG, já que o paciente está hemodinamicamente estável.",
+   "Agendar ablação por radiofrequência eletiva em 2 semanas, mantendo apenas monitoramento ambulatorial e sem medidas imediatas, pois a TSV em lactentes sempre é autolimitada."
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Diretrizes AHA 2025 de RCP e ACE (suporte avançado de vida em pediatria)",
+  "coment": "Na taquicardia supraventricular com criança hemodinamicamente estável, a sequência das diretrizes da AHA é: monitorar e fazer ECG, tentar manobras vagais (no lactente, gelo ou compressa fria na face, sem ocluir a via aérea) e, se a TSV persistir, adenosina IV em bólus rápido seguida imediatamente de flush de soro fisiológico, por acesso o mais próximo possível do coração, porque a meia-vida é de segundos. Cardioversão sincronizada fica para a criança instável ou refratária. Digoxina e ablação eletiva não são conduta inicial.",
+  "porAlt": [
+   "Pular a manobra vagal e ir à cardioversão não se indica na criança estável; cardioversão é para instabilidade.",
+   "Correta: manobra vagal com gelo na face e, se persistir, adenosina IV rápida seguida de flush.",
+   "Digoxina não é primeira escolha na TSV aguda, e o paciente precisa de monitorização contínua.",
+   "TSV com 220 bpm exige tratamento imediato; ablação é opção eletiva tardia, e a TSV nem sempre cede sozinha."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 27,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Criança, 6 anos, submetida a cirurgia ortopédica eletiva sob anestesia geral com halotano e succinilcolina. No pós-operatório imediato, a equipe de enfermagem observa: temperatura corporal subitamente elevada, taquicardia, taquipneia, rigidez muscular e acidose arterial. Considerando o manejo pós-operatório pediátrico, quais condutas são CORRETAS?",
+  "alts": [
+   "Suspender a anestesia, administrar analgésico opioide IV para controle da dor, manter a criança aquecida e permitir alta precoce se os sinais vitais permanecerem estáveis nas próximas 2 horas.",
+   "Administrar antipirético oral, manter a criança em observação na sala de recuperação, iniciar respiração profunda e incentivo à mobilização precoce, e continuar a cirurgia se necessário.",
+   "Aumentar a oferta de oxigênio e aplicar compressas mornas, monitorando sinais vitais a cada 30 minutos, sem administrar dantroleno, pois a febre pós-operatória é comum.",
+   "Interromper imediatamente o agente anestésico desencadeante, administrar dantroleno IV, fornecer oxigênio a 100%, iniciar medidas de resfriamento e transferir a criança para UTI para monitoramento contínuo."
+  ],
+  "gab": 3,
+  "tema": "cirurgica",
+  "sub": "Recuperação pós-anestésica",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Hockenberry, Wilson e Rodgers, Wong Fundamentos de Enfermagem Pediátrica, 10ª ed. (Elsevier, 2018)",
+  "coment": "Hipertermia súbita, taquicardia, taquipneia, rigidez muscular e acidose após halotano e succinilcolina configuram hipertermia maligna, uma crise hipermetabólica do músculo esquelético desencadeada por anestésicos inalatórios halogenados e succinilcolina. A conduta é suspender o agente desencadeante, dar oxigênio a 100%, administrar dantroleno IV (o único antídoto específico), resfriar a criança, tratar acidose e hipercalemia e transferir para UTI. Antipirético não age, porque a febre não é de origem central.",
+  "porAlt": [
+   "Aquecer e dar alta precoce agravam o quadro; falta o dantroleno, que é o tratamento.",
+   "Antipirético oral não age na hipertermia maligna, e continuar a cirurgia mantém o gatilho.",
+   "Compressa morna piora a hipertermia, e omitir o dantroleno é erro grave: não é febre pós-operatória comum.",
+   "Correta: suspender o gatilho, dantroleno IV, oxigênio a 100%, resfriamento e UTI."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 28,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Lactente, 8 meses, é levado à clínica com resfriado há 2 dias, vômitos iniciados nesta manhã e diarreia nas últimas 8 horas. A mãe relata que o bebê ainda está sendo amamentado, mas está ingerindo menos líquidos do que o habitual e evacuando três vezes mais do que de costume, com fezes aquosas. No exame físico, observa-se: Temperatura = 38°C; Pulso = 125 bpm; FR = 35 irpm; Pressão arterial: dentro dos limites de normalidade. Mucosas ligeiramente ressecadas, presença de lágrimas ao chorar; peso igual ao da consulta de 2 semanas atrás. Considerando o contexto do caso apresentado, assinale a alternativa CORRETA:",
+  "alts": [
+   "O lactente apresenta desidratação leve; o enfermeiro deve administrar 25 mL/kg de terapia de reidratação oral (TRO) fracionada, manter amamentação e orientar a mãe a não oferecer alimentos sólidos durante 24 horas.",
+   "O lactente apresenta desidratação leve; o enfermeiro deve administrar 100 mL/kg de terapia de reidratação oral (TRO) contínua em 1 hora, suspender temporariamente a amamentação e orientar a mãe a oferecer antidiarreicos se os sintomas persistirem.",
+   "O lactente apresenta desidratação leve; o enfermeiro deve administrar 50 mL/kg de terapia de reidratação oral (TRO) fracionada a cada 10–15 minutos, manter amamentação e orientar a mãe a não usar medicamentos antidiarreicos.",
+   "O lactente apresenta desidratação leve; o enfermeiro deve iniciar 75 mL/kg de terapia de reidratação oral (TRO) em pequenas doses, monitorar sinais vitais e manter a amamentação, orientando a mãe a não usar antidiarreicos."
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Hockenberry, Wilson e Rodgers, Wong Fundamentos de Enfermagem Pediátrica, 10ª ed. (Elsevier, 2018)",
+  "coment": "O caso segue a classificação do livro-texto: mucosas pouco secas, lágrimas presentes, sinais vitais estáveis e peso mantido indicam desidratação leve, tratada com 50 mL/kg de solução de reidratação oral em cerca de 4 horas, em pequenos volumes frequentes, mantendo o aleitamento e sem antidiarreicos. 100 mL/kg é o volume da desidratação moderada. Atenção: no manejo do Ministério da Saúde, o Plano B usa 50 a 100 mL/kg em 4 a 6 horas, e uma criança com lágrimas e só mucosas pouco secas poderia nem ser classificada como desidratada (Plano A).",
+  "porAlt": [
+   "25 mL/kg é insuficiente para repor a desidratação leve, e suspender sólidos por 24 horas não é recomendado.",
+   "100 mL/kg em 1 hora é volume e velocidade excessivos, e suspender o aleitamento e dar antidiarreico são erros.",
+   "Correta: 50 mL/kg de SRO fracionada, aleitamento mantido e nada de antidiarreicos, conforme o livro-texto.",
+   "75 mL/kg não corresponde à reposição da desidratação leve na classificação usada pela questão."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 29,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O cateterismo umbilical é um procedimento frequente em Unidades de Terapia Intensiva Neonatal, porém associado a riscos que exigem monitoramento rigoroso pela enfermagem. Qual cuidado de enfermagem é adequado em relação ao recém-nascido em uso de cateter venoso umbilical?",
+  "alts": [
+   "Manter o cateter por mais de 14 dias rotineiramente, pois o tempo prolongado não aumenta risco de complicações.",
+   "Monitorar sinais de complicações, como alterações de perfusão, distensão abdominal e extravasamento, removendo o cateter caso haja instabilidade clínica.",
+   "Realizar curativo oclusivo com gaze e micropore ou filme transparente e a inspeção do coto umbilical a cada sete dias, durante as trocas do curativo.",
+   "Não manipular e realizar a higiene do coto umbilical para evitar deslocamentos do cateter."
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "CDC/HICPAC, Guidelines for the Prevention of Intravascular Catheter-Related Infections (2011)",
+  "coment": "O cateter venoso umbilical exige vigilância de complicações: trombose, infecção, alteração de perfusão de membros, distensão abdominal (enterocolite, posição hepática) e extravasamento. Diante de instabilidade ou complicação, o cateter é retirado. A diretriz do CDC de 2011 recomenda remover o cateter umbilical assim que não for mais necessário; o venoso pode ser mantido até 14 dias se manuseado com técnica asséptica, então mantê-lo além disso por rotina está errado. O coto deve ser inspecionado a cada plantão, não a cada sete dias.",
+  "porAlt": [
+   "O CDC recomenda retirar o cateter venoso umbilical o quanto antes e não ultrapassar 14 dias.",
+   "Correta: vigiar perfusão, distensão abdominal e extravasamento e retirar o cateter se houver instabilidade.",
+   "O coto e a inserção devem ser inspecionados diariamente; esperar sete dias atrasa a detecção de complicações.",
+   "A higiene do coto e a avaliação são necessárias; não manipular nada impede a vigilância de infecção."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 30,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A fibrose cística é uma doença genética de caráter multissistêmico que compromete principalmente os sistemas respiratório e gastrointestinal, exigindo acompanhamento contínuo e multiprofissional. Assinale a alternativa CORRETA em relação às manifestações clínicas comuns na fibrose cística.",
+  "alts": [
+   "Ascite e infecção respiratória.",
+   "Fezes gordurosas e desnutrição.",
+   "Deficiência de vitaminas B, C, E e K",
+   "Diarreia aguda e baqueteamento digital"
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hockenberry, Wilson e Rodgers, Wong Fundamentos de Enfermagem Pediátrica, 10ª ed. (Elsevier, 2018)",
+  "coment": "Na fibrose cística o muco espesso obstrui os ductos pancreáticos, as enzimas não chegam ao intestino e a gordura não é absorvida: o resultado são fezes volumosas, gordurosas e fétidas (esteatorreia) e desnutrição com baixo ganho de peso, apesar do apetite. Pelo mesmo motivo faltam as vitaminas lipossolúveis A, D, E e K, não B e C. O baqueteamento digital é achado da doença pulmonar crônica, mas a diarreia é crônica, não aguda. Ascite não é manifestação comum.",
+  "porAlt": [
+   "Ascite não é manifestação comum da fibrose cística; só a infecção respiratória faz parte do quadro.",
+   "Correta: a insuficiência pancreática causa esteatorreia e desnutrição.",
+   "As vitaminas deficientes são as lipossolúveis A, D, E e K; B e C são hidrossolúveis.",
+   "O baqueteamento ocorre, mas a diarreia é crônica e gordurosa, não aguda."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) organiza as ações e serviços de saúde em âmbito nacional, visando assegurar o desenvolvimento pleno e saudável da criança, reduzindo agravos e vulnerabilidades e qualificando a atenção prestada. Para garantir a implementação das ações e serviços voltados à saúde da criança em todo o território nacional, a política organiza-se em sete eixos estratégicos, que norteiam e qualificam a prática profissional. Qual alternativa abaixo refere-se a um dos eixos estratégicos?",
+  "alts": [
+   "atenção humanizada e qualificada à gestação, ao parto, ao nascimento e ao recém-nascido.",
+   "vigilância nutricional e monitoramento da suplementação de micronutrientes.",
+   "vigilância da transmissão horizontal do HIV e da sífilis durante o parto.",
+   "incentivo ao uso de tecnologias digitais para acompanhamento remoto do crescimento infantil."
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 1.130/2015 (PNAISC), art. 6º",
+  "coment": "A PNAISC (Portaria 1.130/2015) tem sete eixos estratégicos: I, atenção humanizada e qualificada à gestação, ao parto, ao nascimento e ao recém-nascido; II, aleitamento materno e alimentação complementar saudável; III, promoção e acompanhamento do crescimento e do desenvolvimento integral; IV, atenção integral a crianças com agravos prevalentes na infância e com doenças crônicas; V, atenção à criança em situação de violências, prevenção de acidentes e cultura de paz; VI, crianças com deficiência ou em situações específicas e de vulnerabilidade; VII, vigilância e prevenção do óbito infantil, fetal e materno.",
+  "porAlt": [
+   "Correta: é o texto do Eixo I da PNAISC.",
+   "Vigilância nutricional e suplementação são ações de outros eixos e programas, não um eixo da PNAISC.",
+   "A transmissão do HIV e da sífilis no parto é vertical, não horizontal, e não constitui eixo da política.",
+   "Tecnologias digitais para acompanhamento remoto não figuram entre os sete eixos."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O modelo de Cuidado Centrado no Paciente e na Família é abordagem essencial nas unidades de terapia intensiva neonatal, buscando minimizar os impactos da hospitalização do recém-nascido e fortalecer o vínculo familiar. De acordo com os princípios do Cuidado Centrado na Família em unidades neonatais, a enfermagem deve:",
+  "alts": [
+   "Restringir a presença dos pais para reduzir o risco de infecção e sobrecarga emocional.",
+   "Centralizar as informações apenas na equipe médica, evitando a participação da família no processo terapêutico.",
+   "Estimular a presença da mãe, limitando a participação de outros membros da família no cuidado.",
+   "Reconhecer os pais como parceiros no cuidado, garantindo presença irrestrita e participação ativa nas decisões e nos cuidados ao recém-nascido."
+  ],
+  "gab": 3,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "uti",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Lei 8.069/1990 (ECA), art. 12, com redação da Lei 13.257/2016; Portaria GM/MS 1.683/2007 (Método Canguru)",
+  "coment": "No cuidado centrado no paciente e na família os pais são parceiros: têm acesso livre à unidade neonatal, recebem informação clara e participam das decisões e dos cuidados, como contato pele a pele e alimentação. O ECA (art. 12) obriga os serviços a oferecer condições para a permanência em tempo integral de um dos pais ou responsável durante a internação, e a norma do Método Canguru (Portaria 1.683/2007) prevê livre acesso dos pais. Restringir a presença, centralizar a informação ou excluir outros familiares vai contra esses princípios.",
+  "porAlt": [
+   "Restringir os pais contraria o ECA e o Método Canguru; o risco de infecção se controla com higiene das mãos.",
+   "Informar e envolver a família é princípio do cuidado centrado na família, não só da equipe médica.",
+   "O modelo inclui pai e outros familiares significativos, não só a mãe.",
+   "Correta: pais como parceiros, com presença livre e participação nas decisões e nos cuidados."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A asma é uma doença inflamatória crônica das vias aéreas inferiores, frequente na infância e responsável por importantes repercussões na qualidade de vida da criança e de sua família. O diagnóstico clínico baseia-se na presença de sinais e sintomas característicos, associados a fatores desencadeantes comuns no cotidiano infantil. Considerando essa condição, avalie as afirmações a seguir e assinale a alternativa CORRETA:",
+  "alts": [
+   "As manifestações clássicas da asma são taquipnéia, estertores, prurido e choro intenso.",
+   "A crise de asma pode aparecer gradualmente ou de forma abrupta, mas sempre é precedida por uma reação alérgica",
+   "Exercício físico, exposição a alérgenos e mudanças de temperatura são fatores que desencadeiam/agravam os sintomas.",
+   "Episódios repetidos de asma podem desencadear consequências como cardiopatias e distúrbios endócrinos."
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Global Initiative for Asthma (GINA), relatório 2025",
+  "coment": "Asma é inflamação crônica com hiper-responsividade brônquica. Os sintomas (sibilância, tosse, dispneia, aperto no peito) variam com o tempo e são desencadeados ou agravados por exercício, alérgenos (ácaros, pelos, mofo), mudanças de temperatura e de clima, infecções virais, fumaça e poluição, como descreve a GINA. Por isso a alternativa C. Estertores e prurido não são manifestações clássicas, nem toda crise é precedida de reação alérgica, e a asma não causa cardiopatia ou distúrbio endócrino como consequência habitual.",
+  "porAlt": [
+   "O quadro clássico é sibilância, tosse, dispneia e aperto torácico; estertores e prurido não fazem parte dele.",
+   "Muitas crises são desencadeadas por vírus, exercício ou frio, sem reação alérgica prévia.",
+   "Correta: exercício, alérgenos e variações de temperatura são desencadeantes típicos da asma.",
+   "Cardiopatias e distúrbios endócrinos não são consequências habituais de crises repetidas de asma."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Eixo Estratégico IV da Política Nacional de Atenção Integral à Saúde da Criança (PNAISC), Atenção Integral à Crianças com Agravos Prevalentes na Infância e com Doenças Crônicas - é norteada por ações estratégicas. Assinale a alternativa CORRETA sobre as principais ações estratégicas deste eixo:",
+  "alts": [
+   "Melhoria do acesso, cobertura, qualidade e humanização da atenção obstétrica e neonatal.",
+   "Construção de diretrizes de atenção e linhas de cuidado, fomento da atenção e internação domiciliar.",
+   "A qualificação do acompanhamento do crescimento e desenvolvimento da primeira infância pela Atenção Básica à Saúde.",
+   "O apoio à implementação do Plano Nacional pela Primeira Infância com ênfase para o aleitamento materno."
+  ],
+  "gab": 1,
+  "tema": "crianca",
+  "sub": "AIDPI e doenças prevalentes",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.130/2015 (PNAISC)",
+  "coment": "Na PNAISC (Portaria 1.130/2015), as ações estratégicas do Eixo IV, atenção integral a crianças com agravos prevalentes na infância e com doenças crônicas, incluem a prevenção das doenças prevalentes, a AIDPI, a construção de diretrizes de atenção e linhas de cuidado e o fomento da atenção e da internação domiciliar. A qualificação do acompanhamento do crescimento e desenvolvimento e o apoio ao Plano Nacional pela Primeira Infância pertencem ao Eixo III, e a atenção obstétrica e neonatal, ao Eixo I.",
+  "porAlt": [
+   "Melhorar a atenção obstétrica e neonatal é ação do Eixo I, sobre gestação, parto e recém-nascido.",
+   "Correta: diretrizes, linhas de cuidado e atenção e internação domiciliar são ações do Eixo IV.",
+   "Acompanhar crescimento e desenvolvimento na Atenção Básica é ação do Eixo III.",
+   "O apoio ao Plano Nacional pela Primeira Infância é ação do Eixo III, não do IV."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "L.M.S., 6 anos, peso=25Kg, hospitalizado há dois dias por pneumonia, evoluindo com desconforto respiratório, febre, T=38,5ºC, P=127bpm e FR=25mov/min. A radiografia de tórax evidenciou derrame pleural à direita e por este motivo foi indicada antibioticoterapia por 14 dias. Para receber a terapêutica intravenosa, foi instalado Cateter Venoso Central de Inserção Periférica (PICC) em veia basílica direita. A prescrição médica tem a seguinte informação: Ampicilina (apresentação disponível - pó liofilizado 1g), prescrito 700mg IV, diluir em SF 0,9%, 6/6h. Qual o volume do medicamento reconstituído que deve ser aspirado para diluição em SF 0,9% (volume para reconstituição 5ml)? Qual deve ser o volume de SF0,9% para diluição considerando a concentração máxima de 100mg/ml?",
+  "alts": [
+   "3,5ml e 7ml",
+   "7ml e 70ml",
+   "1,8ml e 35ml",
+   "3ml e 20ml"
+  ],
+  "gab": 0,
+  "tema": "farmaco",
+  "sub": "Cálculo de dose e diluição",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "Reconstituído em 5 mL, o frasco de 1 g fica com 1.000 mg em 5 mL, ou 200 mg/mL. Para 700 mg: 700 / 200 = 3,5 mL. Com concentração máxima de 100 mg/mL, 700 mg precisam de pelo menos 7 mL de volume final; a banca considerou 7 mL de SF 0,9%, o que deixa 700 mg em 10,5 mL, cerca de 67 mg/mL, dentro do limite. Só a alternativa A traz o volume aspirado certo, 3,5 mL; as outras erram já nessa primeira conta.",
+  "porAlt": [
+   "Correta: 3,5 mL contêm 700 mg (200 mg/mL), e 7 mL de SF mantêm a concentração abaixo de 100 mg/mL.",
+   "7 mL da solução reconstituída equivaleriam a 1.400 mg, o dobro da dose prescrita.",
+   "1,8 mL contêm 360 mg, cerca de metade da dose prescrita.",
+   "3 mL contêm 600 mg, menos que os 700 mg prescritos."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma criança de 4 anos foi admitida na Emergência Pediátrica e o médico prescreveu a infusão de 480 mL de Solução Fisiológica 0,9% para correr em um período de 6 horas. Considerando que a equipe de enfermagem utilizará equipo de microgotas, qual deve ser o gotejamento em microgotas por minuto (μgotas/min)?",
+  "alts": [
+   "160μgotas/min",
+   "120μgotas/min",
+   "80μgotas/min",
+   "40μgotas/min"
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Gotejamento e bomba de infusão",
+  "cenario": "emg",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "Para microgotas, a fórmula é volume em mL dividido pelo tempo em horas: 480 / 6 = 80 microgotas por minuto. Ela vem do fato de que 1 mL tem 60 microgotas e 1 hora tem 60 minutos, e os dois 60 se cancelam. Conferência: 80 microgotas por minuto correspondem a 80 mL por hora, e em 6 horas somam 480 mL. Para macrogotas (20 gotas/mL), divide-se o volume por três vezes o tempo em horas.",
+  "porAlt": [
+   "160 microgotas por minuto infundiriam 960 mL em 6 horas, o dobro do prescrito.",
+   "120 microgotas por minuto infundiriam 720 mL em 6 horas, acima do prescrito.",
+   "Correta: 480 mL / 6 h = 80 microgotas por minuto.",
+   "40 microgotas por minuto infundiriam só 240 mL em 6 horas, metade do prescrito."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "L.M.P foi hospitalizada devido a Síndrome Nefrótica Descompensada. A prescrição médica tem a seguinte informação: Albumina Humana 100ml IV 1x/dia. Infundir em 4 horas, sendo as duas primeiras horas a 15ml/h e as outras duas horas a 30ml/h. Quantos ml terá infundido após três horas?",
+  "alts": [
+   "30ml",
+   "90ml",
+   "70ml",
+   "60ml"
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Gotejamento e bomba de infusão",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013)",
+  "coment": "Some por etapa. Nas duas primeiras horas a 15 mL/h: 2 x 15 = 30 mL. Na terceira hora a bomba já está a 30 mL/h: 1 x 30 = 30 mL. Total após três horas: 30 + 30 = 60 mL. Conferência: na quarta hora entram mais 30 mL, chegando a 90 mL, e não aos 100 mL do frasco, o que mostra que a prescrição, como escrita, não infunde o volume todo em 4 horas; vale confirmar com o prescritor. A pergunta, porém, é só sobre as três primeiras horas.",
+  "porAlt": [
+   "30 mL é só o volume das duas primeiras horas, sem a terceira.",
+   "90 mL é o total ao fim das quatro horas, não das três.",
+   "70 mL não resulta de nenhuma combinação correta das vazões prescritas.",
+   "Correta: 2 h x 15 mL/h + 1 h x 30 mL/h = 60 mL."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Como enfermeiro de uma unidade pediátrica, você está prestando suporte a um casal que acabou de vivenciar o falecimento do filho. Dentre as seguintes opções de comunicação ou conduta, qual representa as intervenções adequadas e recomendadas para esta situação?",
+  "alts": [
+   "Evite oferecer justificativas para a morte da criança como, por exemplo, “seu filho não está mais sofrendo”; evite o consolo artificial com frases do tipo “eu sei como você se sente”; não permita que a família permaneça com a criança que morreu pelo tempo que desejar, nem que a pegue no colo, isto será prejudicial para a família; nunca compareça ao funeral da criança, sua presença será prejudicial à família.",
+   "Ofereça justificativas para a morte da criança como, por exemplo, “seu filho não está mais sofrendo” ou “ele descansou”; seja solidário e afirme a família que você sabe como ela se sente; permita que a família permaneça com a criança que morreu pelo tempo que desejar, e se desejar que a pegue no colo ou dê banho; ofereça ajuda prática quando possível, como recolher os objetos da criança.",
+   "Evite oferecer justificativas para a morte da criança como, por exemplo, “seu filho não está mais sofrendo”; evite o consolo artificial com frases do tipo “eu sei como você se sente”; permita que a família permaneça com a criança que morreu pelo tempo que desejar, e se desejar que a pegue no colo ou dê banho; ofereça ajuda prática quando possível, como recolher os objetos da criança.",
+   "Ofereça justificativas para a morte da criança como, por exemplo, “seu filho não está mais sofrendo” ou “ele descansou”; evite o consolo artificial com frases do tipo “eu sei como você se sente; não permita que a família permaneça com a criança que morreu pelo tempo que desejar, nem que a pegue no colo, isto será prejudicial para a família; ofereça ajuda prática quando possível, como recolher os objetos da criança."
+  ],
+  "gab": 2,
+  "tema": "crianca",
+  "sub": "Criança hospitalizada",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Hockenberry, Wilson e Rodgers, Wong Fundamentos de Enfermagem Pediátrica, 10ª ed. (Elsevier, 2018)",
+  "coment": "No apoio à família após a morte de uma criança, o livro-texto orienta evitar justificativas como dizer que o filho não sofre mais e o consolo artificial do tipo eu sei como você se sente, que soam falsos e fecham a conversa. A família deve poder ficar com a criança pelo tempo que desejar, pegá-la no colo, dar banho, e a equipe oferece ajuda prática, como recolher os pertences. A presença do profissional no funeral, quando há vínculo, costuma ser bem recebida. Só a alternativa C reúne as quatro condutas certas.",
+  "porAlt": [
+   "Erra ao proibir que a família fique com a criança e ao vetar a presença no funeral.",
+   "Erra ao oferecer justificativas para a morte e ao afirmar que sabe como a família se sente.",
+   "Correta: evitar justificativas e consolo artificial, permitir a permanência com a criança e oferecer ajuda prática.",
+   "Erra ao oferecer justificativas e ao impedir a família de ficar com a criança e pegá-la no colo."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A prevenção de acidentes na infância deve ser uma prioridade e tema das consultas pediátricas, uma vez que estes representam uma das principais causas de morte e lesões nesta população. Durante uma consulta de Puericultura na Unidade Básica de Saúde (UBS), a enfermeira está orientando a mãe de uma criança de 5 anos sobre as prioridades na prevenção de acidentes. Considerando as diretrizes para essa faixa etária, qual das orientações educativas a seguir deve ser reforçada pela enfermeira?",
+  "alts": [
+   "Produtos inflamáveis, medicamentos, produtos de limpeza e venenos devem estar totalmente fora do alcance da criança e guardados em local seguro, pois a criança ainda não percebe as situações de perigo.",
+   "A supervisão constante em locais públicos (parques, lojas) pode ser reduzida gradualmente, desde que a criança demonstre ter memorizado e seguido as regras de segurança estabelecidas.",
+   "Para evitar atropelamentos, a criança deve ser segura pela mão na rua. O brincar com fósforos é permitido sob estrita supervisão do adulto para educar sobre os perigos do fogo.",
+   "A partir dos 4 anos, a criança pode ser transportada no veículo apenas com o cinto de segurança de três pontos no banco traseiro, pois ela já tem altura e peso suficientes para a segurança veicular."
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Lei 9.503/1997 (CTB), art. 64, com redação da Lei 14.071/2020",
+  "coment": "Aos 5 anos a criança é curiosa e ativa, mas ainda não percebe o perigo: medicamentos, produtos de limpeza, inflamáveis e venenos devem ficar fora do alcance e guardados com segurança, o que torna a A correta. Supervisão em locais públicos continua necessária, e brincar com fósforos não se permite nem com supervisão. No carro, o CTB (art. 64) exige que crianças com menos de 10 anos que não tenham atingido 1,45 m viajem no banco traseiro em dispositivo de retenção adequado; aos 5 anos isso é o assento de elevação, não só o cinto.",
+  "porAlt": [
+   "Correta: produtos tóxicos e inflamáveis fora do alcance, porque a criança de 5 anos ainda não percebe o perigo.",
+   "Memorizar regras não substitui a supervisão constante nessa idade.",
+   "Segurar pela mão na rua está certo, mas fósforo não é brinquedo, nem com supervisão.",
+   "O CTB exige dispositivo de retenção até 10 anos ou 1,45 m; aos 5 anos o cinto sozinho não basta."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde da Criança e do Adolescente",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Acolhimento Coletivo é uma modelagem de acolhimento que permite envolver toda a equipe na primeira escuta e identificar usuários com risco e sofrimento evidentes. Contudo, quais os limites dessa modelagem de acolhimento?",
+  "alts": [
+   "O risco de sobrecarregar a equipe de referência do usuário com atendimentos agudos não programados.",
+   "A exigência de que o agendamento seja feito por hora marcada, não permitindo o agendamento de pacientes para o início do turno.",
+   "A menor potencialização do vínculo e da responsabilização entre a equipe e a população adscrita.",
+   "O constrangimento das pessoas por se sentirem sem privacidade e a dificuldade em avaliar riscos não evidentes."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "Cadernos de Atenção Básica nº 28, vol. I, Acolhimento à demanda espontânea (MS, 2013)",
+  "coment": "O Caderno de Atenção Básica 28 descreve modelagens de acolhimento. No acolhimento coletivo, a equipe recebe em grupo os usuários que chegam, o que envolve todos na primeira escuta e permite identificar rapidamente riscos e sofrimentos evidentes. Seus limites são o constrangimento de expor o problema diante de outras pessoas, sem privacidade, e a dificuldade de perceber riscos que não são evidentes, que podem passar despercebidos sem uma escuta individual. Por isso o próprio caderno sugere combinar o coletivo com a escuta individualizada quando necessário.",
+  "porAlt": [
+   "Sobrecarga da equipe de referência é limite da modelagem por equipe de referência, não do acolhimento coletivo.",
+   "O acolhimento coletivo não se baseia em hora marcada; ele recebe quem chega à unidade.",
+   "Envolver a equipe no acolhimento tende a fortalecer, e não reduzir, vínculo e responsabilização.",
+   "Correta: falta de privacidade e dificuldade de avaliar riscos não evidentes são os limites descritos."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 21,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando os critérios de elegibilidade para a Atenção Domiciliar (AD), o acompanhamento do usuário é indicado para as Equipes de Atenção Primária à Saúde (APS) quando o paciente apresenta qual das seguintes características de perfil e permanência?",
+  "alts": [
+   "Restrição ao leito ou ao lar decorrente de condição crônica complexa, com necessidade de uso de tecnologia e visitas multiprofissionais semanais.",
+   "Restrição ao leito ou ao lar decorrente de condição crônica e estável, com pouca demanda por procedimentos complexos e permanência habitualmente definitiva.",
+   "Estabilidade clínica e necessidade de cuidados intensificados ou sequenciais, como tratamentos parenterais, e permanência transitória.",
+   "Situação de vulnerabilidade em decorrência de quadro agudo ou crônico agudizado, exigindo atenção com periodicidade diária."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 825/2016 (Atenção Domiciliar no SUS, modalidade AD1)",
+  "coment": "A Portaria 825/2016 divide a Atenção Domiciliar em três modalidades. A AD1, a cargo das equipes de Atenção Primária, é para usuários com problemas de saúde controlados ou compensados e dificuldade ou impossibilidade de ir à UBS, que precisam de cuidados com menor frequência e menos recursos; a permanência costuma ser longa ou definitiva. AD2 e AD3 ficam com as equipes do Serviço de Atenção Domiciliar (EMAD e EMAP): AD2 para cuidados intensificados e sequenciais, como antibiótico parenteral, de caráter transitório; AD3 quando há uso de equipamentos, como ventilação.",
+  "porAlt": [
+   "Condição complexa com tecnologia e visitas semanais multiprofissionais aponta AD2 ou AD3, a cargo do Serviço de Atenção Domiciliar.",
+   "Correta: condição crônica estável, pouca demanda de procedimentos e permanência habitualmente definitiva caracterizam a AD1.",
+   "Cuidados intensificados e sequenciais, como terapia parenteral, com permanência transitória, definem a AD2.",
+   "Quadro agudo ou crônico agudizado com atenção diária exige equipe do Serviço de Atenção Domiciliar, não a AD1."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 22,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A fragilidade em pessoas idosas caracteriza-se como uma síndrome clínica resultante de múltiplos fatores, marcada por maior vulnerabilidade, declínio funcional e menor capacidade de adaptação a eventos estressores. Essa condição pode, por si só, indicar elegibilidade para cuidados paliativos, mesmo na ausência de doença grave específica. Considerando esse contexto, assinale a alternativa correta:",
+  "alts": [
+   "A síndrome da fragilidade associa-se a idade avançada, sexo feminino, baixa escolaridade, baixo nível socioeconômico, doenças crônicas, comprometimento cognitivo, funcional e depressão, devendo o profissional estar atento a esses fatores.",
+   "A fragilidade implica declínio funcional, menor risco de quedas e redução do uso de serviços de saúde e hospitalizações.",
+   "Pacientes frágeis tendem a preferir cuidados proporcionais e menos invasivos, com participação da família nas decisões; no entanto, cuidadores não devem receber treinamento específico.",
+   "Pessoas idosas frágeis apresentam menor mortalidade, baixa dependência e frequentemente vivem em Instituições de Longa Permanência para Idosos, sendo a maioria acompanhada por seus clínicos na fase final da vida."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 3.681/2024 (Política Nacional de Cuidados Paliativos); fenótipo de fragilidade de Fried et al. (2001)",
+  "coment": "A fragilidade aumenta o risco de quedas, hospitalização, institucionalização, dependência e morte. Os fatores associados descritos na literatura incluem idade avançada, sexo feminino, baixa escolaridade e baixa renda, multimorbidade, comprometimento cognitivo e funcional e depressão, e o profissional deve rastreá-los. Por ser síndrome de declínio progressivo, a fragilidade pode justificar a abordagem paliativa, prevista na Política Nacional de Cuidados Paliativos (Portaria 3.681/2024), com cuidados proporcionais, decisão compartilhada e preparo dos cuidadores.",
+  "porAlt": [
+   "Correta: lista os fatores associados à fragilidade que o profissional deve identificar.",
+   "Fragilidade aumenta, e não reduz, o risco de quedas, o uso de serviços e as hospitalizações.",
+   "A primeira parte está certa, mas os cuidadores precisam, sim, de treinamento específico.",
+   "Idosos frágeis têm maior mortalidade e dependência, e a maioria não vive em instituição de longa permanência."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 23,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na Atenção Primária à Saúde (APS), a maioria das pessoas idosas apresenta condições crônicas simples, que podem ser acompanhadas com foco no autocuidado apoiado. Uma parcela menor apresenta condições crônicas complexas, exigindo abordagem interdisciplinar, contínua e centrada na funcionalidade global — autonomia, independência, cognição, humor/comportamento, mobilidade e comunicação. Assim, o cuidado deve priorizar a integralidade, a coordenação pela APS e a construção do idoso como agente ativo de sua saúde. Sobre a Avaliação Multidimensional da Pessoa Idosa, assinale a alternativa correta:",
+  "alts": [
+   "O cuidado integral requer identificação do idoso frágil, otimização de recursos para prevenir incapacidade e articulação entre APS, atenção secundária e demais serviços da rede.",
+   "O modelo hospitalocêntrico atual pode reduzir custos, mas aumenta o risco de sarcopenia, quedas e desenvolvimento de fragilidade, comprometendo a qualidade de vida.",
+   "A Avaliação Geriátrica Ampla (AGA), embora seja o padrão-ouro, deve ser aplicada obrigatoriamente em todos os casos na APS.",
+   "O Índice de Vulnerabilidade Clínico-Funcional (IVCF-20) não pode ser aplicado por agentes comunitários de saúde ou outros profissionais treinados, embora seja rápido e útil para definir prioridades."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação multidimensional",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Moraes et al. (2016), Índice de Vulnerabilidade Clínico-Funcional 20 (IVCF-20)",
+  "coment": "O cuidado integral do idoso na APS começa por identificar quem é frágil, para concentrar recursos na prevenção de incapacidade e coordenar o cuidado com a atenção especializada e o restante da rede. Para isso se usa a triagem: o IVCF-20, validado por Moraes e colaboradores em 2016, é rápido e pode ser aplicado por agentes comunitários e outros profissionais treinados, reservando a Avaliação Geriátrica Ampla para quem a triagem aponta. O modelo hospitalocêntrico não reduz custos; ele os eleva e favorece declínio funcional.",
+  "porAlt": [
+   "Correta: identificar o frágil, prevenir incapacidade e articular a rede é o núcleo do cuidado integral.",
+   "O modelo hospitalocêntrico não reduz custos; ao contrário, encarece o cuidado e favorece fragilidade.",
+   "A AGA é reservada a quem a triagem indica; aplicá-la a todos na APS é inviável e desnecessário.",
+   "O IVCF-20 foi pensado justamente para ser aplicado por qualquer profissional treinado, inclusive o agente comunitário."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 24,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A reabilitação psicossocial é um componente essencial no cuidado de pessoas em sofrimento psíquico, sendo um dos objetivos da Rede de Atenção Psicossocial (RAPS): “promover a reabilitação e a reinserção das pessoas com transtorno mental e com necessidades decorrentes do uso de crack, álcool e outras drogas na sociedade, por meio do acesso ao trabalho, renda e moradia solidária”. Sendo assim, quais ações de cuidado de enfermagem podem ser ofertadas ao sujeito em sofrimento psíquico no contexto da reabilitação psicossocial?",
+  "alts": [
+   "Para além de iniciativas de geração de trabalho e renda, o enfermeiro deve estimular a solidariedade da comunidade para que sejam feitas doações à pessoa em sofrimento psíquico, tendo em vista a dificuldade destes em resgatar a autonomia laboral.",
+   "Elaborar ações de cuidado de enfermagem que versem sobre o resgate da autonomia de forma a tornar a pessoa em sofrimento psíquico independente de contextos potencialmente adoecedores, como o social e familiar.",
+   "Exercer o cuidado respeitando a singularidade da pessoa em sofrimento psíquico, seus desejos, necessidades e potencialidades, para desenvolver ações emancipatórias nos campos social, de trabalho, educação, cultura, habitação e saúde.",
+   "Tendo em vista que o cuidado só é possível quando a pessoa se encontra com a saúde mental estabilizada, o foco da assistência de enfermagem versa sobre a aderência ao tratamento medicamentoso para controle dos sintomas."
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 3.088/2011 (RAPS), arts. 4º e 12",
+  "coment": "A reabilitação psicossocial, componente da RAPS (Portaria 3.088/2011), busca a inclusão social pelo trabalho, renda, moradia, educação e cultura, com iniciativas como cooperativas e empreendimentos solidários. O cuidado de enfermagem nessa lógica respeita a singularidade, os desejos e as potencialidades da pessoa e constrói autonomia e cidadania, o que a alternativa C descreve. Assistencialismo por doações, afastar a pessoa da família e da comunidade ou esperar a estabilização para cuidar contrariam a proposta.",
+  "porAlt": [
+   "Doações reforçam a tutela; a reabilitação aposta na autonomia, inclusive laboral, por geração de trabalho e renda.",
+   "Família e comunidade são parte da rede de suporte; reabilitar não é isolar a pessoa desses contextos.",
+   "Correta: cuidado singular e ações emancipatórias em trabalho, educação, cultura, moradia e saúde.",
+   "O cuidado não espera estabilização, e reduzi-lo à adesão medicamentosa empobrece a reabilitação psicossocial."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 25,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A reabilitação psicossocial é uma estratégia importante nos serviços que compõem a Rede de atenção em saúde mental para a inclusão social e comunitária da pessoa com transtorno mental. Considerando o conceito de reabilitação psicossocial, quais ações devem ser realizadas pela equipe multiprofissional, incluindo o enfermeiro?",
+  "alts": [
+   "Participação em grupos de atividade física e trabalho manual, definidos pela equipe multiprofissional.",
+   "Atividades de entretenimento, tanto nos CAPS quanto no domicílio, para que o paciente se mantenha ocupado.",
+   "Ações para diminuir o preconceito e empoderar as pessoas com transtornos mentais e seus familiares; ações intersetoriais e parcerias.",
+   "Ações que promovam o autocuidado como banho diário, higienização das unhas, postura corporal, alimentação e eliminações adequadas."
+  ],
+  "gab": 2,
+  "tema": "mental",
+  "sub": "Rede de Atenção Psicossocial",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 3.088/2011 (RAPS), art. 2º",
+  "coment": "As diretrizes da RAPS (Portaria 3.088/2011, art. 2º) incluem combater estigmas e preconceitos, promover a autonomia e o exercício da cidadania e desenvolver ações intersetoriais. Reabilitação psicossocial é isso: reduzir o preconceito, empoderar usuários e familiares e construir parcerias com trabalho, cultura, educação e assistência social. Atividades definidas só pela equipe, entretenimento para manter ocupado ou treino de higiene isolado não constroem inclusão social.",
+  "porAlt": [
+   "Atividades definidas pela equipe, sem o desejo do usuário, reproduzem a lógica tutelar.",
+   "Ocupar o tempo com entretenimento não é reabilitação; falta o eixo da inclusão social e da cidadania.",
+   "Correta: combate ao estigma, empoderamento e ações intersetoriais são o núcleo da reabilitação psicossocial.",
+   "Autocuidado básico é parte do cuidado, mas sozinho não promove a inclusão social e comunitária."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 26,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sra MHJ, 50 anos, ASAI, foi submetida ao procedimento cirúrgico de gastroplastia, sendo realizada anestesia geral induzida com propofol (140 mg), fentanil (350 µg), atracúrio (30 mg) e mantida com isoflurano, duas doses subsequentes em bolus de atracúrio (10 mg cada) e ventilação controlada mecânica. No final da cirurgia, após antagonização do bloqueio neuromuscular, a paciente foi extubada, obedeceu aos comandos para respirar e colaborou na passagem à maca, sendo transportada para a SRPA. Chegou alerta, em ventilação espontânea, acesso venoso em MSE, com curativo oclusivo, seco e limpo em região abdominal, compressor em membros inferiores, com tremores e desconfortável à manipulação. Minutos após, apresentou apneia, cianose e inconsciência. Foi realizada ventilação manual com oxigênio a 100%, havendo retorno da ventilação espontânea, porém apresentando dispneia, e tornou-se alerta. Qual o título do Diagnóstico de Enfermagem prioritário para a sra MHJ?",
+  "alts": [
+   "Risco de infecção",
+   "Dor aguda",
+   "Mobilidade física prejudicada",
+   "Ventilação espontânea prejudicada"
+  ],
+  "gab": 3,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "cc",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NANDA-I, Diagnósticos de enfermagem 2024-2026 (13ª ed.); Resolução COFEN 736/2024",
+  "coment": "A paciente recebeu fentanil em dose alta e atracúrio com doses repetidas; na SRPA teve apneia, cianose e inconsciência, voltou a respirar com ventilação manual, mas segue dispneica. Isso sugere depressão respiratória por opioide ou curarização residual. A prioridade é a via aérea e a ventilação, então o diagnóstico é Ventilação espontânea prejudicada (NANDA-I), definido pela incapacidade de manter respiração independente adequada à vida. Dor, mobilidade e risco de infecção existem, mas não ameaçam a vida agora. Pela Resolução COFEN 736/2024, o diagnóstico é privativo do enfermeiro.",
+  "porAlt": [
+   "Risco de infecção é diagnóstico de risco, secundário diante de apneia e dispneia.",
+   "Ela está desconfortável, mas a dor não é a prioridade quando a ventilação está comprometida.",
+   "Mobilidade reduzida no pós-operatório imediato é esperada e não ameaça a vida.",
+   "Correta: apneia, cianose e dispneia após opioide e bloqueador neuromuscular apontam Ventilação espontânea prejudicada."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 27,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Texto da questão 27 do caderno: Sra MHJ, 50 anos, ASAI, foi submetida ao procedimento cirúrgico de gastroplastia, sendo realizada anestesia geral induzida com propofol (140 mg), fentanil (350 µg), atracúrio (30 mg) e mantida com isoflurano, duas doses subsequentes em bolus de atracúrio (10 mg cada) e ventilação controlada mecânica. No final da cirurgia, após antagonização do bloqueio neuromuscular, a paciente foi extubada, obedeceu aos comandos para respirar e colaborou na passagem à maca, sendo transportada para a SRPA. Chegou alerta, em ventilação espontânea, acesso venoso em MSE, com curativo oclusivo, seco e limpo em região abdominal, compressor em membros inferiores, com tremores e desconfortável à manipulação. Minutos após, apresentou apneia, cianose e inconsciência. Foi realizada ventilação manual com oxigênio a 100%, havendo retorno da ventilação espontânea, porém apresentando dispneia, e tornou-se alerta.\n\nAinda considerando a situação clínica da sra MHJ, o resultado de enfermagem e a intervenção de enfermagem correlacionada ao Diagnóstico de Enfermagem prioritário são:",
+  "alts": [
+   "Controle da Dor e Controle de dor: Aguda",
+   "Estado Respiratório: Ventilação e Assistência Ventilatória",
+   "Mobilidade e Posicionamento",
+   "Gravidade da infecção e Controle de Infecção"
+  ],
+  "gab": 1,
+  "tema": "sae",
+  "sub": "Resultados (NOC) e intervenções (NIC)",
+  "cenario": "cc",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "NANDA-I 2024-2026 (13ª ed.) e ligações NOC/NIC; Resolução COFEN 736/2024",
+  "coment": "Para Ventilação espontânea prejudicada, o resultado NOC esperado é Estado respiratório: ventilação, que mede a entrada e saída de ar dos pulmões, e a intervenção NIC correspondente é Assistência ventilatória, que reúne posicionamento, oxigênio, monitorização da frequência e da saturação e suporte à ventilação. Na Resolução COFEN 736/2024 isso corresponde à etapa de Planejamento (resultados e prescrição) e depois à Implementação. Os outros pares combinam com diagnósticos de dor, mobilidade ou infecção, que não são o prioritário.",
+  "porAlt": [
+   "Controle da dor e intervenção de dor aguda correspondem ao diagnóstico Dor aguda, que não é o prioritário.",
+   "Correta: Estado respiratório: ventilação (NOC) e Assistência ventilatória (NIC) se ligam ao diagnóstico prioritário.",
+   "Mobilidade e posicionamento correspondem a Mobilidade física prejudicada, não à ventilação.",
+   "Gravidade da infecção e controle de infecção correspondem a Risco de infecção."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 28,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os biofilmes são comunidades de microrganismos que se aderem a superfícies e se envolvem em uma matriz extracelular, desempenhando um papel significativo na patogênese de infecções de feridas crônicas. A presença de biofilmes pode dificultar a cicatrização e aumentar a resistência a tratamentos antimicrobianos. Considerando a importância do manejo adequado dos biofilmes em feridas, analise as afirmações abaixo:",
+  "alts": [
+   "Os biofilmes são facilmente eliminados com a administração de antibióticos orais.",
+   "A presença de biofilmes não afeta o tempo de cicatrização e pode ser ignorada na prática clínica.",
+   "O tratamento de feridas com biofilmes deve incluir a remoção de tecido não viável e o uso de antissépticos tópicos.",
+   "Os biofilmes são mais comuns em feridas agudas do que em feridas crônicas."
+  ],
+  "gab": 2,
+  "tema": "feridas",
+  "sub": "Coberturas e curativos",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "International Wound Infection Institute (IWII), Wound Infection in Clinical Practice (2022)",
+  "coment": "Biofilme é uma comunidade de microrganismos protegida por matriz extracelular, presente na maioria das feridas crônicas, que retarda a cicatrização e tolera antimicrobianos. Antibiótico oral não o elimina. O consenso do IWII de 2022 recomenda o cuidado antibiofilme: limpeza da ferida com solução antisséptica, desbridamento do tecido não viável para romper o biofilme e uso de antissépticos ou antimicrobianos tópicos para impedir que se reorganize. Biofilme é mais frequente em feridas crônicas que em agudas.",
+  "porAlt": [
+   "Biofilme é tolerante a antibióticos; o oral sozinho não o elimina.",
+   "Biofilme atrasa a cicatrização e precisa ser tratado, não ignorado.",
+   "Correta: desbridamento do tecido não viável e antissépticos tópicos são a base do manejo do biofilme.",
+   "Biofilme é muito mais comum em feridas crônicas do que em agudas."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 29,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As feridas abertas estão sempre contaminadas por microrganismos, mas nem todas se tornam infectadas. Fatores de risco, tanto do paciente quanto da ferida, desempenham um papel crucial na determinação da vulnerabilidade a infecções. Compreender esses fatores é essencial para a prevenção e manejo eficaz das infecções em feridas. Qual das alternativas a seguir representa um fator de risco associado ao desenvolvimento de infecção em feridas?",
+  "alts": [
+   "Feridas com equilíbrio na umidade, que apresentam bom aporte sanguíneo.",
+   "Feridas tratadas com técnicas assépticas durante a troca de curativos.",
+   "Pacientes que mantêm uma dieta equilibrada e controle glicêmico adequado.",
+   "Presença de tecido inviável, mudança no aspecto do exsudato, aumento da dor na ferida."
+  ],
+  "gab": 3,
+  "tema": "feridas",
+  "sub": "Fisiologia da cicatrização",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "International Wound Infection Institute (IWII), Wound Infection in Clinical Practice (2022)",
+  "coment": "Toda ferida aberta é contaminada, mas a infecção depende do equilíbrio entre carga microbiana e defesa do hospedeiro. Tecido inviável (necrose, esfacelo) alimenta bactérias e favorece a infecção. Mudança no exsudato e aumento da dor já são, a rigor, sinais de que a infecção está se instalando, como descreve o IWII, mas a alternativa D é a única que aponta condições desfavoráveis. As demais descrevem fatores de proteção: umidade equilibrada, boa perfusão, técnica asséptica, nutrição e controle glicêmico.",
+  "porAlt": [
+   "Umidade equilibrada e bom aporte sanguíneo favorecem a cicatrização e protegem contra infecção.",
+   "Técnica asséptica nas trocas reduz, e não aumenta, o risco de infecção.",
+   "Dieta equilibrada e glicemia controlada são fatores de proteção do paciente.",
+   "Correta: tecido inviável favorece a infecção, e mudança do exsudato e mais dor sinalizam que ela começa."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 30,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um homem de 32 anos é trazido ao pronto-socorro após colisão de moto contra um caminhão. Ele usava capacete, mas foi encontrado inconsciente no local do acidente. À admissão, apresenta: Escala de Coma de Glasgow (ECG): 6 , FR: 36 irpm, com uso de musculatura acessória e estridor, PA: 70/40 mmHg, FC: 150 bpm, extremidades frias e pálidas, pupilas isocóricas e reativas, abdome distendido e doloroso, ausculta pulmonar: murmúrio vesicular presente bilateralmente. Considerando os princípios do atendimento ao politraumatizado, qual deve ser a conduta inicial mais adequada para esse paciente?",
+  "alts": [
+   "Iniciar reposição volêmica rápida com solução cristalóide aquecida e posterior avaliação de imagem abdominal.",
+   "Realizar intubação orotraqueal com proteção cervical, seguida de reposição volêmica e investigação da fonte hemorrágica.",
+   "Solicitar tomografia computadorizada de abdome para avaliar possível hemorragia intra-abdominal.",
+   "Iniciar transfusão maciça imediata sem necessidade de estabilização da via aérea e coluna cervical"
+  ],
+  "gab": 1,
+  "tema": "urgencia",
+  "sub": "Atendimento ao trauma",
+  "cenario": "emg",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "ATLS, Advanced Trauma Life Support, 11ª ed. (American College of Surgeons, 2025), avaliação primária xABCDE",
+  "coment": "Siga a sequência xABCDE do ATLS 11ª edição (2025). Não há hemorragia externa exsanguinante a controlar (x). Em A, Glasgow 6 e estridor: com Glasgow 8 ou menos o paciente não protege a via aérea, então a prioridade é via aérea definitiva, intubação orotraqueal com restrição do movimento da coluna cervical. Só então se trata C: choque hemorrágico (PA 70/40, FC 150, extremidades frias, abdome distendido) com reposição, preferindo hemocomponentes precocemente, e busca da fonte. Tomografia em paciente instável está contraindicada.",
+  "porAlt": [
+   "Repor volume antes de garantir a via aérea inverte a ordem xABCDE, com Glasgow 6 e estridor.",
+   "Correta: via aérea definitiva com proteção cervical, depois reposição e controle da fonte hemorrágica.",
+   "Paciente em choque não vai à tomografia antes de estabilizar via aérea e circulação.",
+   "Transfusão é necessária, mas não dispensa a via aérea nem a proteção da coluna cervical."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Diretriz da Sociedade Brasileira de Diabetes (SBD), os sete comportamentos de autocuidado são fundamentais para o bom controle da doença. Entre os seguintes comportamentos, qual NÃO é considerado um dos pilares do autocuidado em diabetes?",
+  "alts": [
+   "Participação ativa nas consultas de enfermagem",
+   "Atividade física regular",
+   "Alimentação saudável",
+   "Monitoramento da glicemia"
+  ],
+  "gab": 0,
+  "tema": "adulto",
+  "sub": "Diabetes mellitus",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Diretriz da Sociedade Brasileira de Diabetes, edição 2024 (educação em diabetes, comportamentos AADE7)",
+  "coment": "A diretriz da SBD adota os sete comportamentos de autocuidado propostos pela associação americana de educadores em diabetes (AADE7): comer saudavelmente, praticar atividade física, monitorar a glicemia, tomar os medicamentos, resolver problemas, adaptar-se de forma saudável (enfrentamento) e reduzir riscos. Participar das consultas de enfermagem é importante para a educação em diabetes, mas não é um dos sete comportamentos; é o espaço onde eles são trabalhados.",
+  "porAlt": [
+   "Correta: comparecer às consultas é meio de educação, não um dos sete comportamentos de autocuidado.",
+   "Atividade física regular é um dos sete comportamentos de autocuidado.",
+   "Alimentação saudável é um dos sete comportamentos de autocuidado.",
+   "Monitorar a glicemia é um dos sete comportamentos de autocuidado."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base na Diretriz da Sociedade Brasileira de Diabetes (SBD) 2024, assinale a alternativa correta sobre as características da insulina NPH e insulina regular, ambas disponíveis no Sistema Único de Saúde:",
+  "alts": [
+   "A insulina NPH é de ação rápida e deve ser utilizada imediatamente antes das refeições.",
+   "A insulina regular é de ação prolongada, com pico ausente e duração superior a 24 horas.",
+   "A insulina NPH apresenta ação intermediária, com pico de ação entre 4 a 12 horas após aplicação.",
+   "A insulina regular tem início de ação inferior a 5 minutos e substitui os análogos ultrarrápidos."
+  ],
+  "gab": 2,
+  "tema": "farmaco",
+  "sub": "Insulinas e anticoagulantes",
+  "cenario": "aps",
+  "comp": "calc",
+  "nivel": "r1",
+  "base": "Diretriz da Sociedade Brasileira de Diabetes, edição 2024 (insulinoterapia)",
+  "coment": "As duas insulinas humanas do SUS são a NPH e a regular. A NPH é de ação intermediária: começa a agir em cerca de 2 a 4 horas, tem pico algumas horas depois (a questão usa a faixa de 4 a 12 horas; as tabelas variam um pouco entre fontes) e é usada como insulina basal. A regular é de ação rápida, começa em cerca de 30 a 60 minutos e deve ser aplicada 30 minutos antes das refeições. Início em menos de 5 minutos e ação prolongada sem pico são de análogos (ultrarrápidos e de longa duração), não de insulinas humanas.",
+  "porAlt": [
+   "A NPH é de ação intermediária e basal; a de uso pré-refeição é a regular ou o análogo ultrarrápido.",
+   "Ação prolongada sem pico e duração acima de 24 horas descrevem análogos de longa duração, não a regular.",
+   "Correta: a NPH é de ação intermediária, com pico algumas horas após a aplicação.",
+   "A regular começa a agir em cerca de 30 minutos e não substitui os análogos ultrarrápidos."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um homem de 42 anos, agricultor, residente em área rural de Minas Gerais, apresenta febre alta, cefaleia intensa, mialgia e história de picada de carrapato há cerca de 7 dias. No exame físico, observa-se exantema máculo-papular iniciado em extremidades. Considerando o Guia de Vigilância em Saúde, qual deve ser a conduta imediata?",
+  "alts": [
+   "Solicitar exames sorológicos e aguardar o resultado para iniciar o tratamento.",
+   "Iniciar tratamento empírico com doxiciclina e notificar o caso suspeito à vigilância epidemiológica.",
+   "Notificar apenas após confirmação laboratorial, pois o tratamento precoce não altera o prognóstico.",
+   "Orientar apenas medidas preventivas, pois a evolução geralmente é benigna."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. (MS, 2023); Portaria GM/MS 11.211/2026 (lista de notificação compulsória)",
+  "coment": "Febre alta, cefaleia, mialgia, exantema que começa nas extremidades e picada de carrapato em área rural de Minas Gerais definem caso suspeito de febre maculosa. O Guia de Vigilância em Saúde manda iniciar doxiciclina já na suspeita, sem esperar exames, porque o atraso no tratamento aumenta muito a letalidade; a doxiciclina é a droga de escolha em todas as idades. A notificação é imediata, em até 24 horas: na lista vigente, alterada pela Portaria 11.211/2026, febre maculosa e outras riquetsioses estão entre os agravos de notificação imediata às três esferas.",
+  "porAlt": [
+   "Esperar a sorologia atrasa o tratamento, e o atraso aumenta a letalidade da febre maculosa.",
+   "Correta: doxiciclina empírica na suspeita e notificação imediata do caso suspeito.",
+   "A notificação é na suspeita, e o tratamento precoce é o que mais muda o prognóstico.",
+   "A febre maculosa pode ser grave e letal; não se limita a orientar prevenção."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma mulher de 35 anos, residente em área urbana com alta infestação de Aedes aegypti, procura atendimento com febre de início súbito (39 °C), intensa poliartralgia incapacitante e exantema difuso. O exame laboratorial descarta dengue e Zika. De acordo com o Guia de Vigilância em Saúde, qual a conduta de vigilância epidemiológica mais adequada diante desse caso suspeito de Chikungunya?",
+  "alts": [
+   "Aguardar evolução clínica por 14 dias para definir se trata-se de chikungunya ou outra arbovirose.",
+   "Notificar apenas após a confirmação laboratorial, dado que chikungunya é de notificação semanal.",
+   "Considerar como caso descartado devido à ausência de complicações graves.",
+   "Notificar imediatamente como caso suspeito de chikungunya e coletar amostra para diagnóstico laboratorial."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Guia de Vigilância em Saúde, 6ª ed. (MS, 2023); Portaria GM/MS 11.211/2026 (lista de notificação compulsória)",
+  "coment": "Febre súbita, poliartralgia intensa e exantema em área com Aedes configuram caso suspeito de chikungunya. A notificação é feita na suspeita, sem esperar confirmação, e se coleta amostra para diagnóstico, como orienta o Guia de Vigilância em Saúde. Nuance de periodicidade: na lista vigente (Portaria 11.211/2026), chikungunya em área com transmissão é de notificação semanal; é imediata em área sem transmissão e no óbito suspeito. O imediatamente da alternativa D deve ser lido como já na suspeita. O erro de B é exigir confirmação.",
+  "porAlt": [
+   "Não se espera 14 dias: o caso suspeito é notificado e investigado de imediato.",
+   "O erro é condicionar a notificação à confirmação; a notificação é feita na suspeita.",
+   "Ausência de gravidade não descarta o caso; o descarte depende de critério laboratorial ou clínico-epidemiológico.",
+   "Correta: notificar o caso suspeito já na suspeita e coletar amostra para diagnóstico laboratorial."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um homem de 76 anos, com gastrostomia percutânea há 10 dias, está em atenção domiciliar. Durante a dieta por gravidade, a cuidadora relata náuseas e pequeno refluxo oral. Observa-se umidade periestoma compatível com resíduo de dieta; sinais vitais estáveis. Qual a conduta de enfermagem imediata e mais adequada?",
+  "alts": [
+   "Pausar a infusão; manter cabeceira ≥45° e, após melhora, reiniciar com menor velocidade; lavar a sonda com 20–40 mL de água antes/depois da dieta e entre medicações; comunicar a equipe devido ao extravasamento periestoma.",
+   "Manter a dieta no mesmo ritmo, mas em decúbito lateral esquerdo; lavar a sonda com 10 mL após medicações e orientar curativo oclusivo contínuo para reduzir a umidade.",
+   "Pausar a dieta e substituir provisoriamente a gastrostomia por uma sonda nasogástrica tipo Levine do mesmo calibre; reiniciar em bolus para diminuir o tempo de infusão.",
+   "Prosseguir a infusão e administrar antiemético de rotina se as náuseas persistirem; considerar reduzir a osmolaridade apenas se houver diarreia, não sendo necessário reavaliar o uso do dispositivo."
+  ],
+  "gab": 0,
+  "tema": "fundamentos",
+  "sub": "Sondagens gástrica, enteral e vesical",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "ASPEN Safe Practices for Enteral Nutrition Therapy (Boullata et al., 2017)",
+  "coment": "Náusea e refluxo durante a dieta por gravidade indicam intolerância ou infusão rápida, com risco de aspiração. A conduta imediata é pausar a dieta, manter a cabeceira elevada (pelo menos 30 a 45 graus) e reiniciar mais devagar após a melhora. A sonda deve ser lavada com água antes e depois da dieta e entre medicamentos, como recomendam as práticas seguras da ASPEN, para evitar obstrução. Umidade periestomal com resíduo de dieta em gastrostomia de 10 dias sugere vazamento e precisa ser comunicada à equipe para avaliar o dispositivo.",
+  "porAlt": [
+   "Correta: pausar, elevar a cabeceira, reiniciar mais lento, lavar a sonda e comunicar o extravasamento.",
+   "Manter o mesmo ritmo com náusea e refluxo aumenta o risco de aspiração, e curativo oclusivo retém a umidade.",
+   "Trocar a gastrostomia por sonda nasogástrica não tem indicação, e o bólus aumenta o volume de uma vez.",
+   "Prosseguir a infusão ignora o risco de aspiração, e o extravasamento exige reavaliar o dispositivo."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em uma região urbana, uma Unidade de Saúde da Família atende população em situação de rua. Durante reunião da equipe multiprofissional, discutem-se estratégias de cuidado considerando as Políticas de Promoção da Equidade em Saúde do SUS e a Política Nacional para a População em Situação de Rua (2009). A equipe reconhece barreiras como estigma, dificuldade de acesso contínuo ao tratamento e vulnerabilidade social extrema. Qual ação da equipe multiprofissional estaria mais alinhada às diretrizes dessas políticas??",
+  "alts": [
+   "Organizar as consultas médicas exclusivamente por agendamento prévio, visando melhorar a gestão do tempo da equipe.",
+   "Oferecer intersetorial, articulando saúde, outros pontos da rede de atenção e assistência social para ampliar o acesso dessa população.",
+   "Priorizar o atendimento de urgência e emergência, focando nos casos graves para racionalizar recursos.",
+   "Desenvolver ações educativas gerais sobre saúde e higiene, aplicando-as igualmente no território."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Decreto 7.053/2009 (Política Nacional para a População em Situação de Rua)",
+  "coment": "O Decreto 7.053/2009 instituiu a Política Nacional para a População em Situação de Rua, com diretrizes de articulação das políticas públicas e de atuação intersetorial, e as políticas de equidade do SUS pedem tratar de forma diferente quem tem necessidades diferentes. Por isso a resposta é a ação intersetorial, articulando saúde, rede de atenção e assistência social para ampliar o acesso. Agendamento exclusivo cria barreira, focar só na urgência restringe o cuidado, e ações iguais para todos ignoram a equidade. O texto oficial da alternativa B tem uma palavra faltando.",
+  "porAlt": [
+   "Agendamento exclusivo é barreira de acesso para quem vive na rua; a equidade pede acesso facilitado.",
+   "Correta: a ação intersetorial com saúde, rede e assistência social amplia o acesso dessa população.",
+   "Priorizar só a urgência abandona o cuidado longitudinal e contraria a integralidade.",
+   "Aplicar ações iguais a todos ignora as necessidades específicas, o contrário da equidade."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Núcleo de Segurança do Paciente deve promover e apoiar a implementação de ações voltadas à segurança do paciente e estar estruturado em todos os serviços de saúde. Dentre as ações abaixo, assinale a correta:",
+  "alts": [
+   "Centralizar a resposta em medidas disciplinares punitivas reduz a subnotificação e fortalece a cultura de segurança.",
+   "A comunicação de incidentes ao paciente/familiares é dispensável quando não há dano.",
+   "A notificação de eventos deve ficar concentrada na gestão, cabendo à equipe assistencial apenas o testemunho verbal da ocorrência.",
+   "O monitoramento sistemático de indicadores de eventos adversos auxilia a identificar fatores de risco e a orientar intervenções."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013; Portaria GM/MS 529/2013 (PNSP)",
+  "coment": "A RDC 36/2013 obriga os serviços de saúde a ter Núcleo de Segurança do Paciente, que elabora o plano de segurança, monitora indicadores, analisa incidentes e notifica eventos adversos ao Sistema Nacional de Vigilância Sanitária. O monitoramento sistemático de indicadores mostra fatores de risco e orienta intervenções, por isso a alternativa D. A cultura de segurança do PNSP (Portaria 529/2013) é justa e não punitiva, todos os profissionais podem notificar, e a comunicação franca do incidente ao paciente é recomendada mesmo sem dano.",
+  "porAlt": [
+   "Punição aumenta a subnotificação e enfraquece a cultura de segurança, que deve ser justa e não punitiva.",
+   "A comunicação de incidentes ao paciente e à família é recomendada mesmo quando não há dano.",
+   "Qualquer profissional pode e deve notificar; concentrar na gestão reduz a notificação.",
+   "Correta: monitorar indicadores de eventos adversos identifica riscos e orienta as ações do núcleo."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Paciente do sexo feminino, 74 anos, internada na enfermaria clínica em uso de diuréticos poupadores de potássio. O laboratório liga informando K⁺ = 6,8 mEq/L (resultado crítico). Qual o conjunto de ações de enfermagem mais adequado para segurança do paciente?",
+  "alts": [
+   "Registrar o valor apenas na evolução e aguardar a visita médica; repassar informalmente no corredor durante a visita.",
+   "Solicitar repetição automática do exame e não comunicar a equipe até a confirmação, para evitar alarme falso.",
+   "Confirmar a identificação do paciente, realizar read-back do resultado, registrar no prontuário e comunicar o médico imediatamente de forma estruturada.",
+   "Informar à família boletim clínico completo com conduta e prognóstico e, depois, notificar a equipe."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 529/2013 (PNSP); Meta Internacional de Segurança do Paciente 2 (comunicação efetiva)",
+  "coment": "Potássio de 6,8 mEq/L em idosa com diurético poupador de potássio é valor crítico, com risco de arritmia grave. A meta 2 de segurança do paciente (comunicação efetiva), adotada pelo PNSP (Portaria 529/2013), exige que o resultado crítico recebido por telefone seja confirmado: identificar o paciente com dois identificadores, registrar e repetir o resultado ao informante (read-back), anotar no prontuário e comunicar o médico de imediato, de forma estruturada, por exemplo pelo SBAR. Esperar a visita ou repetir o exame atrasa o tratamento.",
+  "porAlt": [
+   "Registrar e esperar a visita atrasa o tratamento, e repasse informal no corredor é falha de comunicação.",
+   "Retardar a comunicação para repetir o exame expõe a paciente a arritmia potencialmente fatal.",
+   "Correta: identificar, fazer read-back, registrar e comunicar o médico imediatamente de forma estruturada.",
+   "Informar a família antes da equipe inverte a prioridade, e conduta e prognóstico não são do enfermeiro."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sr. João, 72 anos, portador de hipertensão arterial e insuficiência renal crônica (clearance de creatinina estimado em 35 mL/min), foi internado com diagnóstico de infecção urinária e febre. Ele pesa 68 kg. O médico prescreveu: Gentamicina 5 mg/kg/dia, IV, dose única; SF 0,9% 1000 mL para correr em 6 horas, com equipo macrogotas (20 gotas/mL); Paracetamol 750 mg VO, de 6/6h, se T ≥ 37,8°C. Considerando as boas práticas de cálculo e administração de medicamentos, qual das opções abaixo descreve a conduta correta quanto à dose da Gentamicina para este paciente?",
+  "alts": [
+   "Administrar 340 mg como dose inicial e aumentar o intervalo conforme monitoramento clínico e nível sérico.",
+   "Administrar 180 mg em dose única diária, pois a função renal está reduzida e exige ajuste da dose.",
+   "Administrar 85 mg divididos em duas doses, pois a gentamicina deve ser sempre fracionada para reduzir toxicidade.",
+   "Administrar 500 mg em dose única diária, pois o paciente está com infecção ativa e precisa de dose plena."
+  ],
+  "gab": 0,
+  "tema": "farmaco",
+  "sub": "Cálculo de dose e diluição",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Nicolau et al. (1995), dose de aminoglicosídeo em intervalo estendido (nomograma de Hartford)",
+  "coment": "Dose: 5 mg/kg x 68 kg = 340 mg. Em dose única diária, a gentamicina age por pico de concentração, e na insuficiência renal o ajuste mais usado é manter a dose e ampliar o intervalo, guiado pelo nível sérico, como no esquema de intervalo estendido descrito por Nicolau e colaboradores (nomograma de Hartford). Reduzir a dose para 180 mg ou fracionar em duas tomadas perde o pico e não protege o rim; 500 mg ultrapassa a dose prescrita. Monitorar função renal e audição é parte do cuidado.",
+  "porAlt": [
+   "Correta: 5 mg/kg x 68 kg = 340 mg, ajustando o intervalo pela função renal e pelo nível sérico.",
+   "180 mg não corresponde à prescrição, e na dose única diária o ajuste renal se faz pelo intervalo, não pela dose.",
+   "85 mg é um quarto da dose, e fracionar não reduz a toxicidade; o fracionamento não é obrigatório.",
+   "500 mg excede a dose prescrita de 5 mg/kg e aumenta o risco de nefrotoxicidade e ototoxicidade."
+  ],
+  "fonte": {
+   "banca": "UNICAMP (COMVEST)",
+   "ano": 2025,
+   "prova": "Residência Multiprofissional 2026, Enfermagem em Saúde do Adulto e do Idoso e em Saúde Mental",
+   "n": 40,
+   "parte": "especificas"
+  }
+ }
+]

@@ -1,0 +1,362 @@
+[
+ {
+  "tema": "adulto",
+  "a": "Qual é o pico de ação da insulina NPH?",
+  "b": "A NPH tem ação intermediária, com pico entre 4 e 12 horas após a aplicação (Diretriz da Sociedade Brasileira de Diabetes 2024, cobrado na Unicamp 2026)."
+ },
+ {
+  "tema": "adulto",
+  "a": "Quantos são os comportamentos de autocuidado em diabetes adotados pela SBD?",
+  "b": "Sete comportamentos, entre eles alimentação saudável, atividade física regular e monitorização da glicemia; ir às consultas não é um deles (Diretriz da SBD 2024, cobrada na Unicamp 2026)."
+ },
+ {
+  "tema": "adulto",
+  "a": "Como se aplica o monofilamento de 10 g no rastreio do pé diabético?",
+  "b": "Perpendicular à pele, com força suficiente para curvá-lo, por cerca de 2 segundos entre aplicação e retirada, nunca sobre úlcera ou calo (IWGDF 2019; gabarito UFPA 2025)."
+ },
+ {
+  "tema": "adulto",
+  "a": "Pé diabético com neuropatia, deformidade e doença arterial periférica: qual o risco e o seguimento?",
+  "b": "Risco alto de ulceração, com consultas trimestrais de monitoramento e inspeção diária dos pés (IWGDF 2019; gabarito UFPA 2025)."
+ },
+ {
+  "tema": "adulto",
+  "a": "Qual é o alvo de SpO2 na oxigenoterapia do DPOC com retenção de CO2?",
+  "b": "SpO2 entre 88% e 92%, com dispositivo de FiO2 controlada, como a máscara de Venturi, até a gasometria (British Thoracic Society, recomendação adotada pelo GOLD 2026; ENARE 2026/2027)."
+ },
+ {
+  "tema": "adulto",
+  "a": "Pressão muito alta sem lesão aguda de órgão-alvo: como a Diretriz Brasileira de Hipertensão de 2025 chama e conduz?",
+  "b": "Propõe aposentar o termo \"urgência hipertensiva\": é elevação importante da PA sem lesão progressiva de órgão-alvo, tratada com observação em ambiente calmo e medicação oral, sem redução brusca, com reavaliação ambulatorial (Diretriz Brasileira de Hipertensão Arterial, SBC/SBH/SBN, 2025)."
+ },
+ {
+  "tema": "adulto",
+  "a": "Em quantos eixos temáticos se organiza a PNAISH?",
+  "b": "Em 5 eixos temáticos, entre eles saúde sexual e reprodutiva, que inclui o pré-natal do parceiro (Política Nacional de Atenção Integral à Saúde do Homem, Portaria GM/MS 1.944/2009; ENARE 2024 e 2025)."
+ },
+ {
+  "tema": "adulto",
+  "a": "Na suspeita de AVC, qual dado o enfermeiro precisa registrar primeiro?",
+  "b": "A hora de início dos sintomas, ou a última vez em que o paciente foi visto bem, pois define a janela de reperfusão; depois aciona o protocolo institucional (Diretriz da Sociedade Brasileira de AVC 2023; ENARE 2025/2026)."
+ },
+ {
+  "tema": "cirurgica",
+  "a": "Com que frequência se registra o indicador físico da esterilização?",
+  "b": "A cada ciclo de esterilização; não é opcional (RDC Anvisa 15/2012, gabarito EBSERH 2024)."
+ },
+ {
+  "tema": "cirurgica",
+  "a": "Quando liberar uma carga com produto implantável?",
+  "b": "O indicador biológico é obrigatório em todas as cargas com implantáveis, e o material só é liberado após leitura negativa (RDC Anvisa 15/2012, gabarito EBSERH 2024)."
+ },
+ {
+  "tema": "cirurgica",
+  "a": "Com que frequência e onde se coloca o indicador biológico na autoclave?",
+  "b": "Diariamente, no ponto de maior desafio da carga definido pelos estudos térmicos da qualificação do equipamento (RDC Anvisa 15/2012, gabarito EBSERH 2024)."
+ },
+ {
+  "tema": "cirurgica",
+  "a": "Qual a proporção mínima de enfermeiros no centro cirúrgico?",
+  "b": "1 enfermeiro para cada 3 salas de cirurgias eletivas de pequeno e médio porte e 1 para cada sala de urgência, conforme a SOBECC (Parecer Normativo COFEN 1/2024)."
+ },
+ {
+  "tema": "cirurgica",
+  "a": "Como se define o porte cirúrgico no dimensionamento?",
+  "b": "Pela duração: porte 1 até 2 h, porte 2 de 2 a 4 h, porte 3 de 4 a 6 h e porte 4 acima de 6 h (Parecer Normativo COFEN 1/2024)."
+ },
+ {
+  "tema": "cirurgica",
+  "a": "Quais produtos servem para a antissepsia cirúrgica das mãos?",
+  "b": "Antisséptico degermante, clorexidina 2% ou PVPI, com esponja para fricção, ou produto à base de álcool (Medidas de Prevenção de IRAS, Anvisa 2017; UFPA 2025)."
+ },
+ {
+  "tema": "cirurgica",
+  "a": "Qual faixa de um campo estéril montado sobre superfície plana é considerada contaminada?",
+  "b": "Uma borda de cerca de 2,5 cm em todo o contorno; superfície estéril molhada também se considera contaminada (princípios de técnica asséptica, gabarito ENARE 2026/2027)."
+ },
+ {
+  "tema": "cirurgica",
+  "a": "Qual resolução COFEN revogou a proibição de a enfermagem auxiliar procedimentos cirúrgicos?",
+  "b": "A Res. COFEN 779/2025, que revogou a Res. 280/2003."
+ },
+ {
+  "tema": "uti",
+  "a": "Qual elevação de cabeceira previne pneumonia associada à ventilação mecânica?",
+  "b": "Cabeceira entre 30° e 45°, principalmente em quem recebe dieta enteral (Medidas de Prevenção de IRAS, Anvisa 2017; ENARE 2026/2027)."
+ },
+ {
+  "tema": "uti",
+  "a": "Qual é a faixa de pressão do cuff do tubo traqueal?",
+  "b": "Entre 25 e 30 cmH2O, ou 18 a 22 mmHg, aferida com cufômetro (Medidas de Prevenção de IRAS, Anvisa 2017; gabarito UFPA 2025)."
+ },
+ {
+  "tema": "uti",
+  "a": "Quando indicar tubo com aspiração subglótica?",
+  "b": "Para pacientes que vão ficar mais de 48 a 72 horas em ventilação mecânica, com aspiração contínua ou intermitente (Medidas de Prevenção de IRAS, Anvisa 2017; gabarito UFPA 2025)."
+ },
+ {
+  "tema": "uti",
+  "a": "Quando trocar o circuito do ventilador mecânico?",
+  "b": "Só se estiver visivelmente sujo ou com mau funcionamento; não há troca de rotina (Medidas de Prevenção de IRAS, Anvisa 2017; gabarito UFPA 2025)."
+ },
+ {
+  "tema": "uti",
+  "a": "A partir de que concentração de dextrose a nutrição parenteral pede cateter venoso central?",
+  "b": "Acima de 10% de dextrose ou com outros aditivos de alta osmolaridade; o CVC também serve para medir PVC e infundir vesicantes (Anvisa 2017; ENARE 2025/2026)."
+ },
+ {
+  "tema": "uti",
+  "a": "Quais são as metas hemodinâmicas logo após o retorno da circulação espontânea?",
+  "b": "PAS acima de 90 mmHg ou PAM acima de 65 mmHg, com cerca de 10 ventilações por minuto para PaCO2 de 35 a 45 mmHg e capnografia (AHA 2020, mantido nas Diretrizes AHA 2025; gabarito UFPA 2025)."
+ },
+ {
+  "tema": "uti",
+  "a": "Em quanto tempo administrar o antimicrobiano na sepse?",
+  "b": "Imediatamente, idealmente na primeira hora após o reconhecimento no choque séptico e na sepse provável ou definitiva, depois de colher as culturas sem atrasar o antimicrobiano (Surviving Sepsis Campaign 2026)."
+ },
+ {
+  "tema": "uti",
+  "a": "Qual resolução do COFEN rege a enfermagem na doação e no transplante de órgãos?",
+  "b": "A Res. COFEN 710/2022; cabe privativamente ao enfermeiro planejar, coordenar, executar, supervisionar e avaliar as ações do técnico junto ao doador e ao receptor (gabarito EBSERH 2024)."
+ },
+ {
+  "tema": "urgencia",
+  "a": "Qual é a frequência de compressões na RCP do adulto?",
+  "b": "De 100 a 120 compressões por minuto, com retorno total do tórax e o mínimo de interrupções (AHA 2020, mantido nas Diretrizes AHA 2025; UFPA 2025 e HCPA 2025)."
+ },
+ {
+  "tema": "urgencia",
+  "a": "Qual é a profundidade de compressão na RCP do adulto?",
+  "b": "Pelo menos 5 cm (AHA 2020, mantido nas Diretrizes AHA 2025; UFPA 2025 e HCPA 2025)."
+ },
+ {
+  "tema": "urgencia",
+  "a": "Com via aérea avançada, qual é a frequência de ventilação na RCP do adulto?",
+  "b": "1 ventilação a cada 6 segundos, cerca de 10 por minuto, com o mínimo de interrupções (AHA 2020, mantido nas Diretrizes AHA 2025; gabarito UFPA 2025)."
+ },
+ {
+  "tema": "urgencia",
+  "a": "Qual é a relação compressão:ventilação antes da via aérea avançada no adulto?",
+  "b": "30 compressões para 2 ventilações, evitando tanto a hipoventilação quanto a hiperventilação (AHA 2025; ENARE 2026/2027)."
+ },
+ {
+  "tema": "urgencia",
+  "a": "Como desobstruir as vias aéreas de um adulto consciente que está engasgado?",
+  "b": "Alternar 5 golpes nas costas com 5 compressões abdominais (Diretrizes AHA 2025 de RCP e ACE)."
+ },
+ {
+  "tema": "urgencia",
+  "a": "Qual via de acesso para drogas na PCR é a preferida?",
+  "b": "A via intravenosa; a intraóssea é aceitável quando não se consegue acesso IV (AHA 2020, mantido nas Diretrizes AHA 2025; HCPA 2025)."
+ },
+ {
+  "tema": "urgencia",
+  "a": "Em quanto tempo se notifica um acidente por animal peçonhento?",
+  "b": "Notificação imediata, em até 24 horas, à Secretaria Municipal de Saúde (Portaria GM/MS 11.211/2026, Anexo 1 do Anexo V da PRC 4/2017)."
+ },
+ {
+  "tema": "urgencia",
+  "a": "No trauma com hemorragia exsanguinante, o que vem antes da via aérea?",
+  "b": "O controle imediato da hemorragia, o x da sequência xABCDE; na hipotensão do traumatizado, presume-se hemorragia até prova em contrário (gabarito ENARE 2026/2027)."
+ },
+ {
+  "tema": "mulher",
+  "a": "A partir de que idade gestacional se aplica a dTpa na gestante?",
+  "b": "A partir da 20ª semana, 1 dose em cada gestação (Instrução Normativa do Calendário Nacional de Vacinação 2026)."
+ },
+ {
+  "tema": "mulher",
+  "a": "Até quando vacinar com dTpa a puérpera não vacinada na gestação?",
+  "b": "Até 45 dias após o parto (Instrução Normativa do Calendário Nacional de Vacinação 2026)."
+ },
+ {
+  "tema": "mulher",
+  "a": "A partir de que idade gestacional se aplica a vacina contra o vírus sincicial respiratório?",
+  "b": "A partir da 28ª semana, dose única em cada gestação, sem limite superior de idade gestacional, exceto no trabalho de parto ativo (Instrução Normativa do Calendário Nacional de Vacinação 2026)."
+ },
+ {
+  "tema": "mulher",
+  "a": "Em que momentos a gestante faz rastreamento de HIV e sífilis?",
+  "b": "No 1º trimestre, no início do 3º trimestre, no parto e em caso de aborto ou natimorto (PCDT de IST 2022; gabarito UFPA 2025)."
+ },
+ {
+  "tema": "mulher",
+  "a": "Qual é a periodicidade de notificação da sífilis em gestante?",
+  "b": "Semanal, como a sífilis adquirida e a congênita (Portaria GM/MS 11.211/2026, Anexo 1 do Anexo V da PRC 4/2017)."
+ },
+ {
+  "tema": "mulher",
+  "a": "Em quanto tempo se notifica a violência sexual?",
+  "b": "Notificação imediata, em até 24 horas, à Secretaria Municipal de Saúde; a violência doméstica e outras violências são semanais (Portaria GM/MS 11.211/2026)."
+ },
+ {
+  "tema": "mulher",
+  "a": "Qual portaria transformou a Rede Cegonha em Rede Alyne?",
+  "b": "A Portaria GM/MS 5.350, de 12/09/2024, que altera a PRC 3/2017; o art. 2º transforma a Rede Cegonha em Rede Alyne."
+ },
+ {
+  "tema": "mulher",
+  "a": "Como se calcula a data provável do parto pela regra de Nägele?",
+  "b": "Soma 7 dias ao primeiro dia da última menstruação e subtrai 3 meses; DUM 10/04/2024 dá DPP 17/01/2025 (Caderno de Atenção Básica 32, 2012; ENARE 2024)."
+ },
+ {
+  "tema": "crianca",
+  "a": "Até quando aplicar a dose de hepatite B do recém-nascido?",
+  "b": "Na sala de parto ou nas primeiras 12 horas de vida; essa dose só vale até 1 mês de vida, depois o esquema segue com a penta (Instrução Normativa do Calendário Nacional de Vacinação 2026)."
+ },
+ {
+  "tema": "crianca",
+  "a": "Até que idade a criança não vacinada ao nascer ainda pode receber BCG?",
+  "b": "Até 4 anos, 11 meses e 29 dias, se assintomática e sem sinais de imunodepressão (Instrução Normativa do Calendário Nacional de Vacinação 2026)."
+ },
+ {
+  "tema": "crianca",
+  "a": "Quais são os limites de idade da vacina rotavírus?",
+  "b": "1ª dose de 1 mês e 15 dias até 11 meses e 29 dias; 2ª dose de 3 meses e 15 dias até 23 meses e 29 dias, com 60 dias entre elas (Instrução Normativa do Calendário Nacional de Vacinação 2026)."
+ },
+ {
+  "tema": "crianca",
+  "a": "Como fica o esquema pneumocócico na transição para a VPC20?",
+  "b": "1ª dose com VPC20 aos 2 meses, 2ª com VPC10 aos 4 meses e reforço com VPC20 aos 12 meses (Instrução Normativa do Calendário Nacional de Vacinação 2026)."
+ },
+ {
+  "tema": "crianca",
+  "a": "Qual é o esquema da vacina poliomielite inativada?",
+  "b": "VIP em todas as doses: 2, 4 e 6 meses, com reforços aos 15 meses e aos 4 anos (Instrução Normativa do Calendário Nacional de Vacinação 2026)."
+ },
+ {
+  "tema": "crianca",
+  "a": "Qual é a idade da vacina febre amarela na rotina?",
+  "b": "1 dose aos 9 meses e reforço aos 4 anos (Instrução Normativa do Calendário Nacional de Vacinação 2026)."
+ },
+ {
+  "tema": "crianca",
+  "a": "Qual é o esquema de rotina da vacina HPV?",
+  "b": "Dose única para meninas e meninos aos 9 anos, com a faixa de 9 a 14 anos, 11 meses e 29 dias (Instrução Normativa do Calendário Nacional de Vacinação 2026)."
+ },
+ {
+  "tema": "crianca",
+  "a": "Na reanimação neonatal sem retorno da frequência cardíaca, quando discutir a suspensão dos esforços?",
+  "b": "Por volta de 20 minutos após o nascimento, se todas as etapas foram feitas, em conversa entre a equipe e a família (AHA 2020, mantido nas Diretrizes AHA 2025; ENARE 2024)."
+ },
+ {
+  "tema": "mental",
+  "a": "Em quanto tempo se comunica a internação psiquiátrica involuntária ao Ministério Público?",
+  "b": "Em 72 horas, pelo responsável técnico do estabelecimento, ao Ministério Público Estadual; vale também para a alta (Lei 10.216/2001, art. 8º, §1º)."
+ },
+ {
+  "tema": "mental",
+  "a": "Quais são os três tipos de internação psiquiátrica da Lei 10.216/2001?",
+  "b": "Voluntária, com consentimento do usuário; involuntária, sem consentimento e a pedido de terceiro; compulsória, determinada pela Justiça (Lei 10.216/2001, art. 6º, parágrafo único)."
+ },
+ {
+  "tema": "mental",
+  "a": "Quando a internação psiquiátrica está indicada?",
+  "b": "Só quando os recursos extra-hospitalares se mostrarem insuficientes, em qualquer modalidade (Lei 10.216/2001, art. 4º)."
+ },
+ {
+  "tema": "mental",
+  "a": "Em que prazo o serviço comunica evasão, intercorrência grave ou óbito de paciente internado em saúde mental?",
+  "b": "Em até 24 horas, aos familiares ou ao representante legal e à autoridade sanitária responsável (Lei 10.216/2001, art. 10)."
+ },
+ {
+  "tema": "mental",
+  "a": "Onde a Lei 13.840/2019 permite internar dependentes de drogas?",
+  "b": "Somente em unidades de saúde ou hospitais gerais com equipes multidisciplinares, com prioridade para o tratamento ambulatorial (Lei 13.840/2019; gabarito HCPA 2025)."
+ },
+ {
+  "tema": "mental",
+  "a": "Qual é o horário de funcionamento do CAPS AD IV?",
+  "b": "24 horas por dia, todos os dias da semana, inclusive fins de semana e feriados (Nota Técnica 11/2019 do Ministério da Saúde; Portaria GM/MS 3.588/2017; HCPA 2025)."
+ },
+ {
+  "tema": "mental",
+  "a": "Em quanto tempo se notifica a tentativa de suicídio?",
+  "b": "Notificação imediata, em até 24 horas, à Secretaria Municipal de Saúde (Portaria GM/MS 11.211/2026, Anexo 1 do Anexo V da PRC 4/2017)."
+ },
+ {
+  "tema": "mental",
+  "a": "Quantas horas de enfermagem por paciente cabem na internação psiquiátrica por grau de dependência?",
+  "b": "4 h na dependência discreta, 6 h na intermediária e 10 h na plena, pelo SCP de Martins (Parecer Normativo COFEN 1/2024)."
+ },
+ {
+  "tema": "idoso",
+  "a": "A partir de que idade a pessoa é considerada idosa no Brasil?",
+  "b": "A partir de 60 anos completos (Lei 10.741/2003, Estatuto da Pessoa Idosa)."
+ },
+ {
+  "tema": "idoso",
+  "a": "Qual é o esquema da vacina influenza para a pessoa idosa?",
+  "b": "A partir de 60 anos, 1 dose anual em cada temporada (Instrução Normativa do Calendário Nacional de Vacinação 2026)."
+ },
+ {
+  "tema": "idoso",
+  "a": "Com que frequência a pessoa de 60 anos ou mais recebe vacina covid-19?",
+  "b": "1 dose a cada 6 meses, respeitando intervalo mínimo de 6 meses da última dose (Instrução Normativa do Calendário Nacional de Vacinação 2026)."
+ },
+ {
+  "tema": "idoso",
+  "a": "Qual idoso recebe a VPC20 na rotina?",
+  "b": "De 60 a 84 anos acamados ou institucionalizados e todos os não vacinados a partir de 85 anos, em dose única (Instrução Normativa do Calendário Nacional de Vacinação 2026)."
+ },
+ {
+  "tema": "idoso",
+  "a": "A vacina febre amarela é de rotina para quem tem 60 anos ou mais?",
+  "b": "Não: a rotina vai de 9 meses a 59 anos; a partir de 60 anos só em situação excepcional, com avaliação de risco-benefício (Instrução Normativa do Calendário Nacional de Vacinação 2026)."
+ },
+ {
+  "tema": "idoso",
+  "a": "Qual é a finalidade primordial da Política Nacional de Saúde da Pessoa Idosa?",
+  "b": "Recuperar, manter e promover a autonomia e a independência da pessoa idosa (Portaria GM/MS 2.528/2006; ENARE 2024)."
+ },
+ {
+  "tema": "idoso",
+  "a": "Quais escalas avaliam atividades básicas e instrumentais da vida diária?",
+  "b": "Katz ou Barthel para as básicas e Lawton para as instrumentais (Caderno de Atenção Básica 19, Envelhecimento e saúde da pessoa idosa, 2006; ENARE 2025/2026)."
+ },
+ {
+  "tema": "idoso",
+  "a": "Qual portaria instituiu a Política Nacional de Cuidados Paliativos?",
+  "b": "A Portaria GM/MS 3.681, de 07/05/2024, que altera a PRC 2/2017."
+ },
+ {
+  "tema": "gestao",
+  "a": "Qual é a norma vigente de dimensionamento de pessoal de enfermagem?",
+  "b": "O Parecer Normativo COFEN 1/2024; a Res. COFEN 743/2024 revogou a Res. 543/2017."
+ },
+ {
+  "tema": "gestao",
+  "a": "Quantas horas de enfermagem por paciente em 24 h exige o cuidado intensivo?",
+  "b": "18 horas (Parecer Normativo COFEN 1/2024)."
+ },
+ {
+  "tema": "gestao",
+  "a": "Quantas horas de enfermagem por paciente em 24 h exigem a alta dependência e o semi-intensivo?",
+  "b": "10 horas em cada um (Parecer Normativo COFEN 1/2024)."
+ },
+ {
+  "tema": "gestao",
+  "a": "Qual é o percentual mínimo de enfermeiros no cuidado intensivo?",
+  "b": "52% do quadro, sendo os demais técnicos de enfermagem (Parecer Normativo COFEN 1/2024)."
+ },
+ {
+  "tema": "gestao",
+  "a": "Qual é o percentual mínimo de enfermeiros no cuidado semi-intensivo?",
+  "b": "42% do quadro, sendo os demais técnicos de enfermagem (Parecer Normativo COFEN 1/2024)."
+ },
+ {
+  "tema": "gestao",
+  "a": "Qual é o índice de segurança técnica mínimo no dimensionamento?",
+  "b": "15% do total, dos quais 8,3% para férias e 6,7% para ausências não previstas (Parecer Normativo COFEN 1/2024)."
+ },
+ {
+  "tema": "gestao",
+  "a": "Quanto o RT acrescenta ao quadro para educação permanente?",
+  "b": "No mínimo 5% do quadro geral, cobrindo também a rotatividade (Parecer Normativo COFEN 1/2024)."
+ },
+ {
+  "tema": "gestao",
+  "a": "Como classificar o binômio do alojamento conjunto no SCP?",
+  "b": "No mínimo como cuidado intermediário; em pediatria e berçário, toda criança menor de 6 anos também (Parecer Normativo COFEN 1/2024)."
+ }
+]
