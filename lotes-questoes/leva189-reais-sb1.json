@@ -1,0 +1,1282 @@
+[
+ {
+  "q": "Considerando a história natural da doença, marque a alternativa INCORRETA:",
+  "alts": [
+   "é o curso da doença desde o início até sua resolução, na ausência de intervenção.",
+   "se inicia com a exposição de um hospedeiro suscetível a um agente causal e termina com a recuperação, deficiência ou óbito.",
+   "o período pré-patogênico representa o momento da interação do agente, o ambiente e o hospedeiro.",
+   "na prevenção secundária, as ações são o diagnóstico precoce, o tratamento imediato e a limitação do dano.",
+   "o período de latência é o tempo que transcorre desde a infecção até a apresentação dos sintomas."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "OPAS, Módulos de Princípios de Epidemiologia para o Controle de Enfermidades (MOPECE), módulo 2, 2010",
+  "coment": "A história natural da doença descreve o curso do agravo sem intervenção, da exposição do hospedeiro suscetível até cura, sequela ou morte, e se divide em período pré-patogênico (interação agente, ambiente e hospedeiro) e patogênico. Na prevenção de Leavell e Clark, a secundária reúne diagnóstico precoce, tratamento imediato e limitação do dano. O erro está na definição de latência: o tempo entre a infecção e o aparecimento dos sintomas é o período de incubação. Latência é o intervalo entre a infecção e o momento em que a pessoa passa a ser infectante.",
+  "porAlt": [
+   "É a definição clássica de história natural da doença, que supõe ausência de intervenção.",
+   "Descreve corretamente o início (exposição do suscetível) e os desfechos possíveis (recuperação, sequela ou óbito).",
+   "No período pré-patogênico ainda não há doença: é a fase da interação entre agente, ambiente e hospedeiro.",
+   "Diagnóstico precoce, tratamento imediato e limitação do dano são, de fato, ações de prevenção secundária.",
+   "Correta: o intervalo da infecção aos sintomas é o período de incubação; latência vai da infecção até a pessoa se tornar infectante."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Barra de São Francisco-ES 2022, Enfermeiro",
+   "n": 28,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A capacidade do agente infeccioso de poder alojar-se e multiplicar-se dentro de um hospedeiro é a:",
+  "alts": [
+   "infectividade.",
+   "infecção.",
+   "patogenicidade.",
+   "letalidade.",
+   "virulência."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Estudos epidemiológicos",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "OPAS, Módulos de Princípios de Epidemiologia para o Controle de Enfermidades (MOPECE), módulo 2, 2010",
+  "coment": "Os atributos do agente são graduais. Infectividade é a capacidade de penetrar, alojar-se e multiplicar-se no hospedeiro, ou seja, de causar infecção. Patogenicidade é a capacidade de, uma vez instalado, produzir doença clínica. Virulência é a capacidade de produzir casos graves ou fatais. Infecção é o evento (a instalação e multiplicação do agente), não uma propriedade dele, e letalidade é um indicador: proporção de óbitos entre os casos da doença.",
+  "porAlt": [
+   "Correta: infectividade é a capacidade do agente de alojar-se e multiplicar-se no hospedeiro.",
+   "Infecção é o resultado da entrada e multiplicação do agente, não a capacidade do agente de provocá-la.",
+   "Patogenicidade é a capacidade de produzir doença clínica em quem foi infectado, etapa seguinte à infecção.",
+   "Letalidade é um indicador epidemiológico: óbitos pela doença divididos pelo número de casos.",
+   "Virulência mede a capacidade do agente de causar formas graves ou fatais, não apenas de infectar."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Barra de São Francisco-ES 2022, Enfermeiro",
+   "n": 29,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "As infrações que provoquem perigo de morte, debilidade permanente de membro, sentido ou função, dano moral irremediável na pessoa ou ainda as que causem danos mentais, morais, patrimoniais ou financeiros, são caracterizadas como:",
+  "alts": [
+   "infrações moderadas.",
+   "infrações leves.",
+   "infrações graves.",
+   "infrações gravíssimas.",
+   "infrações dolosas."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), art. 111, § 3º",
+  "coment": "O art. 111 do Código de Ética gradua a infração pelo resultado na pessoa. Leve: ofende a integridade sem causar debilidade. Moderada: debilidade temporária de membro, sentido ou função. Grave: perigo de morte, debilidade permanente ou dano moral irremediável. Gravíssima: a morte, além da debilidade permanente ou do dano moral irremediável. O dado decisivo do enunciado é o perigo de morte, critério exclusivo da infração grave; na gravíssima a morte efetivamente ocorre. Dolo não é classe de infração no Código: é circunstância agravante (art. 113).",
+  "porAlt": [
+   "Moderada é a infração que causa debilidade temporária, sem perigo de morte nem dano irremediável.",
+   "Leve é a que ofende a integridade física, mental ou moral sem causar debilidade.",
+   "Correta: perigo de morte, debilidade permanente e dano moral irremediável caracterizam a infração grave (art. 111, § 3º).",
+   "Gravíssima exige a ocorrência da morte; o enunciado fala em perigo de morte.",
+   "O Código não tem classe de infração dolosa; o dolo aparece como circunstância agravante."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Barra de São Francisco-ES 2022, Enfermeiro",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A utilização da epidemiologia para o estabelecimento de prioridades, a alocação de recursos e a orientação programática, é:",
+  "alts": [
+   "uma diretriz do Sistema Único de Saúde (SUS).",
+   "um objetivo do Sistema Único de Saúde (SUS).",
+   "uma atribuição do Sistema Único de Saúde (SUS).",
+   "um princípio do Sistema Único de Saúde (SUS).",
+   "uma competência Sistema Único de Saúde (SUS)."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º, VII",
+  "coment": "O art. 7º da Lei 8.080/1990 lista os princípios do SUS, e o inciso VII é literal: utilização da epidemiologia para o estabelecimento de prioridades, a alocação de recursos e a orientação programática. A lei separa as categorias: objetivos no art. 5º (identificar fatores condicionantes, formular política, assistir), atribuições no art. 6º (vigilâncias, saúde do trabalhador, assistência farmacêutica) e competências das esferas nos arts. 15 a 19. Por isso a resposta é princípio, e não diretriz, objetivo, atribuição ou competência.",
+  "porAlt": [
+   "Diretrizes constitucionais do SUS (art. 198) são descentralização, atendimento integral e participação da comunidade.",
+   "Os objetivos do SUS estão no art. 5º e não incluem o uso da epidemiologia para definir prioridades.",
+   "Atribuições do SUS (art. 6º) são campos de atuação, como vigilâncias e assistência farmacêutica.",
+   "Correta: é o princípio do art. 7º, VII, da Lei 8.080/1990.",
+   "Competências são as tarefas de cada esfera de governo, descritas nos arts. 15 a 19 da lei."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Barra de São Francisco-ES 2022, Enfermeiro",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Norma Operacional Básica – NOB 1/96 do Sistema Único de Saúde (SUS), aponta para uma reordenação do modelo de atenção à saúde, na medida em que redefine:",
+  "alts": [
+   "os papéis de cada esfera de governo e, em especial, no tocante à direção estadual.",
+   "os instrumentos gerenciais para que municípios e estados superem o papel exclusivo de prestadores de serviços e assumam seus respectivos papéis de gestores do SUS.",
+   "os mecanismos e fluxos de financiamento, aumentando progressiva e continuamente a remuneração por produção de serviços.",
+   "a prática do acompanhamento superando os mecanismos tradicionais, centrados no faturamento de serviços produzidos e valorizando os resultados advindos da iniciativa privada.",
+   "os vínculos dos serviços com os seus trabalhadores, privilegiando os núcleos multiprofissionais, criando, assim, condições para uma efetiva participação social."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "NOB-SUS 01/1996 (Portaria GM/MS 2.203/1996)",
+  "coment": "A NOB 01/96 reordena o modelo de atenção redefinindo cinco pontos: os papéis das esferas, com ênfase na direção única; os instrumentos gerenciais para que municípios e estados deixem de ser só prestadores e assumam a gestão; o financiamento, reduzindo a remuneração por produção e ampliando as transferências fundo a fundo; o acompanhamento, controle e avaliação, que passa a valorizar resultados de programações com critérios epidemiológicos; e os vínculos dos serviços com os usuários. A norma é histórica: foi sucedida pela NOAS 2001/2002, pelo Pacto pela Saúde de 2006 e pelo Decreto 7.508/2011.",
+  "porAlt": [
+   "A ênfase da NOB 96 é a direção única em cada esfera, não a direção estadual.",
+   "Correta: é o texto da NOB 96 sobre gestão plena, em que estados e municípios assumem o papel de gestores.",
+   "A NOB 96 reduz progressivamente a remuneração por produção e amplia as transferências globais fundo a fundo.",
+   "Os resultados valorizados são os de programações com critérios epidemiológicos e desempenho com qualidade, não da iniciativa privada.",
+   "O texto trata dos vínculos com os usuários, privilegiando núcleos familiares e comunitários, não dos trabalhadores."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Barra de São Francisco-ES 2022, Enfermeiro",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A infecção do trato urinário é uma das causas prevalentes de Infecções Relacionadas à Assistência à Saúde de grande potencial preventivo, visto que a maioria está relacionada à cateterização vesical. Sobre o manuseio do cateter, marque a alternativa INCORRETA.",
+  "alts": [
+   "Após a inserção, fixar o cateter de modo seguro e que não permita tração ou movimentação.",
+   "Manter o sistema de drenagem fechado e estéril.",
+   "Não desconectar o cateter ou tubo de drenagem, exceto se a irrigação for necessária.",
+   "Trocar todo o sistema quando ocorrer desconexão, quebra da técnica asséptica ou vazamento.",
+   "Utilizar antissépticos tópicos aplicados ao cateter ou uretra, para melhor manipulação."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Série Segurança do Paciente e Qualidade em Serviços de Saúde), 2017",
+  "coment": "Para a ITU associada a cateter vesical, o caderno da ANVISA de 2017 recomenda fixar o cateter sem tração, manter o sistema de drenagem fechado e estéril, não desconectar o cateter do tubo coletor salvo necessidade de irrigação e trocar todo o sistema se houver desconexão, quebra de técnica asséptica ou vazamento. A mesma publicação diz expressamente para não usar antissépticos tópicos nem antibióticos aplicados ao cateter, à uretra ou ao meato: não reduzem a infecção e podem irritar a mucosa. A higiene do meato é feita com água e sabão no banho.",
+  "porAlt": [
+   "Fixar com segurança evita tração uretral e movimentação, medida recomendada após a inserção.",
+   "O sistema fechado e estéril é a base da prevenção de ITU associada a cateter.",
+   "Desconectar só quando a irrigação for indispensável preserva o sistema fechado.",
+   "A troca de todo o sistema após desconexão, quebra de técnica ou vazamento é recomendação da ANVISA.",
+   "Correta: a ANVISA recomenda não aplicar antissépticos tópicos ou antibióticos no cateter, na uretra ou no meato."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Barra de São Francisco-ES 2022, Enfermeiro",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a infecção pelo HPV (Papilomavírus Humano), a alternativa INCORRETA é:",
+  "alts": [
+   "a principal forma de transmissão é pela via sexual, que inclui contato oral-genital, genital-genital ou mesmo manual-genital.",
+   "a infecção pelo HPV não apresenta sintomas na maioria das pessoas.",
+   "a maioria das infecções em mulheres tem resolução espontânea, pelo próprio organismo, em um período aproximado de até 24 meses.",
+   "vacina é indicada para meninas de 11 a 14 anos.",
+   "o câncer do colo do útero é causado principalmente pela infecção persistente por alguns tipos de HPV."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS); PCDT para Atenção Integral às Pessoas com IST, Ministério da Saúde, 2022",
+  "coment": "A transmissão do HPV é sexual, inclusive por contato oral-genital e manual-genital; a maioria das infecções é assintomática e regride espontaneamente em até cerca de dois anos, e a infecção persistente por tipos oncogênicos causa o câncer do colo. A afirmativa errada é a da vacina, que já em 2022 começava aos 9 anos e não era exclusiva de meninas. Pela Instrução Normativa do Calendário 2026, a HPV4 é dose única para meninas e meninos de 9 a 14 anos, 11 meses e 29 dias, com resgate de 15 a 19 anos não vacinados e esquemas especiais para grupos prioritários.",
+  "porAlt": [
+   "A via sexual, incluindo contato oral-genital, genital-genital e manual-genital, é a principal forma de transmissão.",
+   "A maior parte das pessoas infectadas não apresenta sintomas, o que favorece a transmissão.",
+   "A maioria das infecções em mulheres regride espontaneamente em até cerca de 24 meses.",
+   "Correta: a faixa começa aos 9 anos e inclui meninos; hoje é dose única de 9 a 14 anos para ambos os sexos.",
+   "A infecção persistente por tipos oncogênicos, como 16 e 18, é a causa principal do câncer do colo do útero."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Barra de São Francisco-ES 2022, Enfermeiro",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Nos casos de teste rápido de sífilis positivos, uma amostra de sangue deverá ser coletada e encaminhada para realização de um teste laboratorial. Porém, a recomendação de tratamento imediato, antes do resultado do segundo exame, está indicada para:",
+  "alts": [
+   "vítimas de violência sexual.",
+   "pessoas com diagnóstico prévio de sífilis.",
+   "pessoas com sintomas de sífilis terciária.",
+   "pessoas em tratamento de outras doenças infecciosas.",
+   "grávidas diagnosticadas com sífilis em gestações anteriores."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r2",
+  "base": "PCDT para Atenção Integral às Pessoas com IST, Ministério da Saúde, 2022",
+  "coment": "O PCDT de IST manda tratar com um único teste reagente, sem esperar o segundo, em cinco situações: gestantes, vítimas de violência sexual, pessoas com chance de perda de seguimento, pessoas com sinais ou sintomas de sífilis primária ou secundária e pessoas sem diagnóstico prévio de sífilis. A coleta do segundo teste continua obrigatória. Por isso a vítima de violência sexual é a resposta. As outras alternativas invertem os critérios: o que justifica tratar logo é não ter diagnóstico prévio e ter sinais de sífilis recente, não de terciária.",
+  "porAlt": [
+   "Correta: vítima de violência sexual está entre os grupos tratados após um único teste reagente.",
+   "O critério é o oposto: trata-se de imediato quem não tem diagnóstico prévio de sífilis.",
+   "A indicação imediata vale para sinais de sífilis primária ou secundária, não terciária.",
+   "Estar em tratamento de outra doença infecciosa não é critério do PCDT para tratar antes do segundo teste.",
+   "O que conta é a gestação atual; sífilis em gestação anterior não define tratamento imediato."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Barra de São Francisco-ES 2022, Enfermeiro",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando as orientações gerais para as equipes de Atenção Primária à Saúde de manejo dos tipos de alterações pressóricas, marque a alternativa que apresenta a conduta no atendimento à emergência hipertensiva.",
+  "alts": [
+   "Medicar o paciente, com o objetivo de reduzir a pressão arterial em 24-48h, e realizar seguimento ambulatorial.",
+   "Tratar as patologias que levaram ao aumento da pressão arterial.",
+   "Estabilizar o paciente e encaminhá-lo para serviço de urgência.",
+   "Planejar o diagnóstico de hipertensão arterial sistêmica, avaliar a adesão ao tratamento.",
+   "Introduzir um tratamento medicamentoso ou adequar o tratamento atual."
+  ],
+  "gab": 2,
+  "tema": "adulto",
+  "sub": "Hipertensão e doenças cardiovasculares",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 37, Hipertensão arterial sistêmica, Ministério da Saúde, 2013",
+  "coment": "O Caderno 37 diferencia as alterações pressóricas pela presença de lesão aguda de órgão-alvo. Na emergência hipertensiva há risco iminente de vida (edema agudo de pulmão, síndrome coronariana, AVC, dissecção de aorta, eclâmpsia), e a conduta da APS é estabilizar o paciente e encaminhá-lo ao serviço de urgência, onde a pressão é reduzida de forma controlada, em geral com medicação parenteral. Reduzir a pressão em 24 a 48 horas com seguimento ambulatorial é a conduta da urgência hipertensiva, sem lesão aguda de órgão-alvo.",
+  "porAlt": [
+   "Reduzir a PA em 24 a 48 horas com seguimento ambulatorial é a conduta da urgência hipertensiva, não da emergência.",
+   "Tratar a causa da elevação, como dor ou ansiedade, é a conduta da pseudocrise hipertensiva.",
+   "Correta: na emergência hipertensiva a APS estabiliza o paciente e o encaminha ao serviço de urgência.",
+   "Planejar o diagnóstico de HAS ou avaliar adesão cabe à PA elevada sem sintomas nem lesão aguda.",
+   "Iniciar ou ajustar o tratamento é a conduta para hipertensão não controlada sem quadro agudo."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Barra de São Francisco-ES 2022, Enfermeiro",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na avaliação clínica do paciente com suspeita de infecção no pé diabético, deve-se considerar a presença dos seguintes sinais locais, EXCETO:",
+  "alts": [
+   "edema ou área de enduração local.",
+   "eritema maior que 0,5 cm ao redor da úlcera.",
+   "sensibilidade ou dor local.",
+   "presença de secreção local.",
+   "hipotermia de extremidades."
+  ],
+  "gab": 4,
+  "tema": "feridas",
+  "sub": "Pé diabético e úlceras vasculares",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "IWGDF/IDSA Guidelines on the diagnosis and treatment of diabetes-related foot infections, 2023",
+  "coment": "O diagnóstico de infecção do pé diabético é clínico. Pelas diretrizes do IWGDF e da IDSA, a infecção local exige pelo menos dois sinais: edema ou enduração, eritema maior que 0,5 cm ao redor da ferida, sensibilidade ou dor local, calor local e secreção purulenta. O sinal térmico da inflamação é o aumento da temperatura no local, não a hipotermia; extremidade fria sugere isquemia, que se avalia à parte (pulsos, índice tornozelo-braço). Eritema além de 2 cm ou acometimento de planos profundos define infecção moderada.",
+  "porAlt": [
+   "Edema ou enduração local é um dos sinais clássicos de infecção do pé diabético.",
+   "Eritema com mais de 0,5 cm ao redor da úlcera entra nos critérios de infecção local.",
+   "Sensibilidade ou dor local é sinal de infecção, embora a neuropatia possa mascará-la.",
+   "A secreção local, sobretudo purulenta, é critério de infecção.",
+   "Correta: o sinal inflamatório é calor local; extremidade fria aponta para isquemia, não para infecção."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Barra de São Francisco-ES 2022, Enfermeiro",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A baciloscopia do escarro, desde que executada corretamente em todas as suas fases, permite detectar de 60% a 80% dos casos de tuberculose pulmonar e está indicada na seguinte condição:",
+  "alts": [
+   "para acompanhamento e controle de cura em casos pulmonares com confirmação laboratorial.",
+   "em caso de suspeita clínica de tuberculose pulmonar com mais de duas semanas de tosse.",
+   "em assintomáticos respiratórios, durante estratégia de busca ativa.",
+   "em crianças abaixo dos seis anos de idade.",
+   "na triagem de cepas resistentes à rifampicina."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada, Ministério da Saúde, 2019",
+  "coment": "O Manual de 2019 indica a baciloscopia de escarro em três situações: no sintomático respiratório durante busca ativa; na suspeita clínica ou radiológica de TB pulmonar, independentemente do tempo de tosse; e no acompanhamento e controle de cura dos casos pulmonares com confirmação laboratorial. Esta última é a única alternativa sem distorção. Mesmo onde o teste rápido molecular (TRM-TB) é o exame de diagnóstico, a baciloscopia segue sendo o exame de acompanhamento mensal, porque o TRM detecta DNA de bacilos mortos e não serve para controle de tratamento.",
+  "porAlt": [
+   "Correta: a baciloscopia mensal é o exame de acompanhamento e controle de cura dos casos pulmonares confirmados.",
+   "Na suspeita clínica o exame é indicado independentemente do tempo de tosse; o corte de semanas serve para definir sintomático respiratório na busca ativa.",
+   "A busca ativa é feita em sintomáticos respiratórios, não em assintomáticos.",
+   "Em crianças pequenas a baciloscopia tem baixo rendimento (doença paucibacilar e dificuldade de escarrar); o diagnóstico usa sistema de pontuação.",
+   "A resistência à rifampicina é detectada pelo TRM-TB, cultura e teste de sensibilidade, não pela baciloscopia."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Barra de São Francisco-ES 2022, Enfermeiro",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A alternativa que caracteriza a hanseníase dimorfa é:",
+  "alts": [
+   "a forma mais contagiosa da doença.",
+   "a pele apresenta-se avermelhada, seca, infiltrada, cujos poros apresentam-se dilatados.",
+   "a forma mais comum de apresentação da doença (mais de 70% dos casos).",
+   "são comuns as queixas de câimbras e formigamentos nas mãos e pés.",
+   "a forma da doença em que o sistema imune da pessoa consegue destruir os bacilos espontaneamente."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Guia Prático sobre a Hanseníase, Ministério da Saúde, 2017",
+  "coment": "Pelo Guia Prático de 2017, a forma dimorfa (borderline) é a mais comum, com mais de 70% dos casos, e fica entre os polos tuberculoide e virchowiano: lesões numerosas, de bordas internas nítidas e externas difusas (lesões em queijo suíço) e comprometimento de vários nervos. A forma mais contagiosa é a virchowiana, que também traz pele avermelhada, seca, infiltrada, com poros dilatados (casca de laranja), e queixas de câimbras e formigamentos. Na tuberculoide o sistema imune consegue destruir os bacilos espontaneamente.",
+  "porAlt": [
+   "A forma mais contagiosa é a virchowiana, com alta carga bacilar.",
+   "Pele avermelhada, seca, infiltrada e com poros dilatados descreve a hanseníase virchowiana.",
+   "Correta: a dimorfa é a forma mais comum, responsável por mais de 70% dos casos.",
+   "Câimbras e formigamentos em mãos e pés são queixas descritas na forma virchowiana.",
+   "A destruição espontânea dos bacilos pelo sistema imune caracteriza a forma tuberculoide."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Barra de São Francisco-ES 2022, Enfermeiro",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Marque a alternativa que corresponde às características clínicas da vaginose bacteriana:",
+  "alts": [
+   "o exame especular, mostra ausência de inflamação vaginal e muco claro e límpido.",
+   "corrimento branco abundante (piora na fase lútea).",
+   "secreção vaginal branca, grumosa aderida à parede vaginal e ao colo do útero.",
+   "secreção vaginal acinzentada, cremosa, com odor fétido, mais acentuado após o coito e durante o período menstrual.",
+   "edema de vulva e hiperemia de mucosa."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "PCDT para Atenção Integral às Pessoas com IST, Ministério da Saúde, 2022",
+  "coment": "A vaginose bacteriana é um desequilíbrio da microbiota, com redução dos lactobacilos e predomínio de anaeróbios como a Gardnerella. Pelo PCDT de IST, o quadro é de corrimento branco-acinzentado, homogêneo, cremoso, com odor fétido que piora após a relação sexual e na menstruação, pela liberação de aminas em meio alcalino. Não há sinais inflamatórios: por isso o nome é vaginose e não vaginite. O pH fica acima de 4,5 e o teste das aminas é positivo. Edema, hiperemia e corrimento grumoso apontam para candidíase.",
+  "porAlt": [
+   "Ausência de inflamação com muco claro e límpido descreve conteúdo vaginal fisiológico.",
+   "Corrimento branco abundante que piora na fase lútea é típico da vaginose citolítica.",
+   "Secreção branca, grumosa e aderida à parede vaginal e ao colo é o quadro da candidíase.",
+   "Correta: secreção acinzentada, cremosa, com odor fétido pior após o coito e na menstruação caracteriza a vaginose bacteriana.",
+   "Edema de vulva e hiperemia de mucosa são sinais inflamatórios, próprios de vaginites como a candidíase."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Barra de São Francisco-ES 2022, Enfermeiro",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São sinais de alerta relacionados ao pré-natal, EXCETO:",
+  "alts": [
+   "escotomas visuais.",
+   "aumento da movimentação fetal.",
+   "epigastralgia.",
+   "edema excessivo.",
+   "perda de líquido."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Pré-natal",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 32, Atenção ao pré-natal de baixo risco, Ministério da Saúde, 2012",
+  "coment": "Os sinais de alerta orientados à gestante no pré-natal incluem sangramento vaginal, cefaleia, transtornos visuais como escotomas, dor abdominal, epigastralgia, febre, perda de líquido, edema excessivo, contrações regulares e diminuição ou ausência dos movimentos fetais. Escotomas, epigastralgia e edema excessivo sugerem pré-eclâmpsia grave; perda de líquido sugere rotura de membranas. O sinal de alerta ligado ao feto é a redução da movimentação, que pode indicar sofrimento fetal; a movimentação aumentada não é sinal de alarme.",
+  "porAlt": [
+   "Escotomas visuais sugerem pré-eclâmpsia grave e são sinal de alerta.",
+   "Correta: o alerta é a diminuição ou ausência dos movimentos fetais, não o aumento.",
+   "Epigastralgia pode indicar pré-eclâmpsia grave ou síndrome HELLP.",
+   "Edema excessivo, sobretudo de face e mãos, é sinal de alerta para síndrome hipertensiva.",
+   "Perda de líquido sugere rotura de membranas e exige avaliação imediata."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Barra de São Francisco-ES 2022, Enfermeiro",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Marque a alternativa que NÃO corresponde a um dos fatores de risco para desenvolvimento de hiperbilirrubinemia significante em RN >35 semanas de idade gestacional.",
+  "alts": [
+   "Icterícia nas primeiras 24 horas de vida.",
+   "Idade gestacional de 35 ou 36 semanas.",
+   "Dificuldade no aleitamento materno exclusivo ou perda de peso >7% em relação ao peso de nascimento.",
+   "Irmão com icterícia neonatal tratado com fototerapia.",
+   "Descendência ocidental."
+  ],
+  "gab": 4,
+  "tema": "crianca",
+  "sub": "Recém-nascido e reanimação neonatal",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Atenção à Saúde do Recém-Nascido: guia para os profissionais de saúde, v. 2, 2ª ed., Ministério da Saúde, 2014",
+  "coment": "Para o RN com 35 semanas ou mais, o Ministério da Saúde lista como fatores de risco de hiperbilirrubinemia significante: icterícia nas primeiras 24 horas, incompatibilidade sanguínea, idade gestacional de 35 ou 36 semanas, irmão tratado com fototerapia, céfalo-hematoma ou equimoses, dificuldade no aleitamento materno exclusivo ou perda de peso maior que 7% e descendência asiática. A descendência ocidental não entra na lista; o fator étnico é a origem do leste asiático.",
+  "porAlt": [
+   "Icterícia nas primeiras 24 horas é sempre patológica e é fator de risco maior.",
+   "O pré-termo tardio, de 35 ou 36 semanas, tem imaturidade hepática e mamada menos eficaz.",
+   "Dificuldade no aleitamento exclusivo ou perda de peso acima de 7% aumenta a circulação êntero-hepática da bilirrubina.",
+   "Irmão com icterícia tratada por fototerapia é fator de risco familiar.",
+   "Correta: o fator étnico da lista é a descendência asiática, não a ocidental."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Barra de São Francisco-ES 2022, Enfermeiro",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Ministério da Saúde recomenda o seguinte cronograma para as consultas de rotina no primeiro ano de vida:",
+  "alts": [
+   "na 1ª semana, no 1º mês, 2º mês, 4º mês, 6º mês, 9º mês e 12º mês.",
+   "na 1ª semana, na 3ª semana, no 2º mês, 4º mês, 6º mês e no 12º mês.",
+   "na 1ª semana, no 2º mês, 4º mês, 6º mês, 8º mês e 12º mês.",
+   "no 1º mês, 2º mês, 4º mês, 6º mês, e 12º mês.",
+   "na 1ª semana, no 1º mês, 3º mês, 4º mês, 5º mê, 6º mês e 12º mês."
+  ],
+  "gab": 0,
+  "tema": "crianca",
+  "sub": "Crescimento e desenvolvimento",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 33, Saúde da criança: crescimento e desenvolvimento, Ministério da Saúde, 2012",
+  "coment": "O Caderno 33 recomenda sete consultas de rotina no primeiro ano: na 1ª semana (junto com a primeira semana de saúde integral), no 1º mês, no 2º, 4º, 6º, 9º e 12º mês. No segundo ano são duas, aos 18 e aos 24 meses, e a partir daí uma por ano, próximo ao aniversário. O calendário coincide com as idades de vacinação e de introdução alimentar, o que aproveita cada ida da família à unidade.",
+  "porAlt": [
+   "Correta: são sete consultas no primeiro ano, na 1ª semana e nos meses 1, 2, 4, 6, 9 e 12.",
+   "Não há consulta de rotina na 3ª semana, e o esquema omite o 1º e o 9º mês.",
+   "O calendário prevê consulta no 1º e no 9º mês, não no 8º.",
+   "Falta a consulta da 1ª semana, a mais importante para avaliar o RN e a amamentação, e a do 9º mês.",
+   "O calendário não inclui consultas no 3º e no 5º mês e omite a do 9º."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Barra de São Francisco-ES 2022, Enfermeiro",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As quedas representam um importante problema para as pessoas idosas. Durante as consultas é importante que o enfermeiro questione a ocorrência e a frequência desta ocorrência. Neste contexto, são medidas práticas para minimizar quedas e suas consequências, EXCETO:",
+  "alts": [
+   "educação para o autocuidado.",
+   "verificar o uso de medicamentos que podem causar hipotensão postural.",
+   "orientar sobre a acomodação de gêneros alimentícios e de outros objetos de uso cotidiano, em locais de fácil acesso, que necessitem apenas do uso de banquinhos ou escadas mais baixas.",
+   "orientar a utilização de dispositivos de auxílio à marcha (quando necessário) como bengalas, andadores e cadeiras de rodas,",
+   "orientar a colocação de pisos antiderrapantes e barras de apoio nos banheiros."
+  ],
+  "gab": 2,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "aps",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 19, Envelhecimento e saúde da pessoa idosa, Ministério da Saúde, 2006",
+  "coment": "O Caderno 19 orienta perguntar sobre quedas em toda consulta e propõe medidas práticas: educação para o autocuidado, revisão de medicamentos que causam hipotensão postural, uso de dispositivos de auxílio à marcha quando necessário, pisos antiderrapantes e barras de apoio no banheiro. Quanto ao armazenamento, a orientação é deixar alimentos e objetos de uso diário em locais de fácil acesso, que dispensem banquinhos ou escadas. A alternativa que manda usar banquinhos, mesmo baixos, contraria essa medida.",
+  "porAlt": [
+   "Educação para o autocuidado faz parte da prevenção de quedas no idoso.",
+   "Medicamentos que causam hipotensão postural, como anti-hipertensivos e psicofármacos, aumentam o risco de queda.",
+   "Correta: objetos de uso cotidiano devem ficar em locais de fácil acesso, sem necessidade de banquinhos ou escadas.",
+   "Bengalas, andadores e cadeiras de rodas, quando indicados, reduzem quedas e suas consequências.",
+   "Piso antiderrapante e barras de apoio no banheiro são adaptações ambientais recomendadas."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Barra de São Francisco-ES 2022, Enfermeiro",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Código de Ética da Enfermagem, das relações com as organizações da categoria é proibido ao profissional da enfermagem:",
+  "alts": [
+   "comunicar ao Conselho Regional de Enfermagem fatos que firam preceitos do presente Código e da legislação do exercício profissional.",
+   "comunicar formalmente ao Conselho Regional de Enfermagem fatos que envolvam recusa ou demissão de cargo, função ou emprego, motivado pela necessidade do profissional em cumprir o presente Código e a legislação do exercício profissional.",
+   "aceitar cargo, função ou emprego vago em decorrência de fatos que envolvam recusa ou demissão de cargo, função ou emprego motivado pela necessidade do profissional em cumprir o presente código e a legislação do exercício profissional.",
+   "apor o número e categoria de inscrição no Conselho Regional de Enfermagem em assinatura, quando no exercício profissional.",
+   "requerer, ao Conselho Regional de Enfermagem, medidas cabíveis para obtenção de desagravo público em decorrência de ofensa sofrida no exercício profissional."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), art. 8º e capítulos II e III",
+  "coment": "O Código de Ética organiza as relações com as organizações da categoria em direitos, deveres e proibições. Requerer ao COREN medidas para desagravo público é direito (art. 8º). Comunicar ao COREN fatos que firam o Código, comunicar formalmente recusa ou demissão motivada pelo cumprimento do Código e apor número e categoria de inscrição na assinatura são deveres. É proibido aceitar cargo, função ou emprego vago em decorrência de recusa ou demissão de colega motivada pelo cumprimento do Código: seria lucrar com a punição de quem agiu eticamente.",
+  "porAlt": [
+   "Comunicar ao COREN fatos que firam o Código e a lei do exercício profissional é dever, não proibição.",
+   "Comunicar formalmente ao COREN recusa ou demissão motivada pelo cumprimento do Código é dever do profissional.",
+   "Correta: é proibido aceitar cargo vago em decorrência de recusa ou demissão de quem cumpriu o Código.",
+   "Apor número e categoria de inscrição no COREN na assinatura é dever no exercício profissional.",
+   "Requerer desagravo público ao COREN por ofensa no exercício profissional é direito (art. 8º)."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Acrelândia-AC 2022, Enfermeiro",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para todo imunobiológico, considera-se como contraindicacão:",
+  "alts": [
+   "história de hipersensibilidade a qualquer componente dos imunobiológicos.",
+   "a ocorrência de febre acima de 38,5ºC.",
+   "histórico de reação alérgica de parentes de primeiro grau.",
+   "pacientes imunossuprimidos.",
+   "crianças com peso abaixo de 2.500g."
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Eventos supostamente atribuíveis à vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Manual de Normas e Procedimentos para Vacinação, Ministério da Saúde, 2024",
+  "coment": "A contraindicação comum a todos os imunobiológicos é a hipersensibilidade grave (anafilaxia) comprovada a qualquer componente da vacina ou a dose anterior. As demais situações são específicas ou motivam só adiamento: a doença febril aguda moderada ou grave adia a vacinação até a melhora, sem contraindicá-la; imunodepressão contraindica apenas vacinas vivas atenuadas; o peso abaixo de 2.000 g adia apenas a BCG, pela pouca espessura da pele. Reação alérgica em parentes não tem relação com o risco do vacinado.",
+  "porAlt": [
+   "Correta: hipersensibilidade grave a componente da vacina é contraindicação válida para qualquer imunobiológico.",
+   "Febre por doença aguda moderada ou grave é motivo de adiamento, não contraindicação.",
+   "Alergia em parentes de primeiro grau não contraindica a vacinação do indivíduo.",
+   "Imunossupressão contraindica vacinas vivas atenuadas; as inativadas podem e devem ser aplicadas.",
+   "O critério de peso vale só para a BCG e é 2.000 g, com adiamento até atingir esse peso."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Acrelândia-AC 2022, Enfermeiro",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O diagnóstico de diabetes, além dos cuidados essenciais, insere uma nova rotina na vida de pacientes com a doença. Ao realizar a orientação de auto aplicação da insulina é preciso orientar que a agulha deve ser introduzida num ângulo adequado. Agulhas de tamanho 8 mm, ou maiores devem ser introduzidas em ângulo de:",
+  "alts": [
+   "15º",
+   "10º",
+   "25º",
+   "90º",
+   "45º"
+  ],
+  "gab": 4,
+  "tema": "farmaco",
+  "sub": "Insulinas e anticoagulantes",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Caderno de Atenção Básica nº 36, Diabetes mellitus, Ministério da Saúde, 2013; Diretriz da SBD, Técnicas de aplicação de insulina",
+  "coment": "O ângulo da aplicação subcutânea depende do comprimento da agulha e da espessura do subcutâneo. Agulhas de 4 e 5 mm entram a 90° sem prega. Para 8 mm, a prega é obrigatória; a diretriz da SBD admite 90° no adulto com subcutâneo adequado e indica 45° em crianças, adolescentes e adultos magros. Acima de 12 mm o uso deve ser evitado e, se for a única opção, a aplicação é a 45° com prega. Para o grupo 8 mm ou mais, a única angulação que serve a todos sem risco de aplicação intramuscular é 45°, o gabarito oficial.",
+  "porAlt": [
+   "15° é o ângulo da via intradérmica, não da subcutânea.",
+   "10° não é ângulo de aplicação de insulina e aproximaria a injeção da derme.",
+   "25° não é ângulo padronizado para insulina e deixaria a agulha superficial.",
+   "90° serve às agulhas curtas e, com prega, à de 8 mm no adulto, mas não às maiores, que exigem 45°.",
+   "Correta: agulhas de 8 mm ou mais exigem prega e 45° para evitar a aplicação intramuscular."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Acrelândia-AC 2022, Enfermeiro",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A administração de medicamentos é uma das tarefas essenciais realizadas diariamente por toda a enfermagem. As prescrições, quanto ao tipo, classificam-se de diversas maneiras, a prescrição padrão é:",
+  "alts": [
+   "aquela que indica a necessidade do início imediato de tratamento.",
+   "aquela que inicia um tratamento até que o prescritor a interrompa.",
+   "aquela que indica o início e fim do tratamento, sendo amplamente usada para prescrição de antimicrobianos em meio ambulatorial.",
+   "aquela que é preestabelecida com critérios de início do uso, decurso e conclusão, sendo muito comum em quimioterapia antineoplásica.",
+   "aquela que quando o tratamento prescrito, deve ser administrado de acordo com uma necessidade específica do paciente, considerando-se o tempo mínimo entre as administrações e a dose máxima."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "enf",
+  "comp": "calc",
+  "nivel": "r2",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (Portaria GM/MS 2.095/2013)",
+  "coment": "O protocolo de segurança na prescrição do Ministério da Saúde, da ANVISA e da Fiocruz classifica as prescrições por tipo. Padrão é a que inicia um tratamento até que o prescritor a interrompa. Padrão com data de fechamento indica início e fim, comum para antimicrobianos no ambulatório. Baseada em protocolo é preestabelecida, com critérios de início, decurso e conclusão, típica da quimioterapia. Caráter imediato indica início imediato do tratamento, e se necessário é a administrada conforme a necessidade do paciente, respeitando intervalo mínimo e dose máxima.",
+  "porAlt": [
+   "Indicar o início imediato do tratamento define a prescrição de caráter imediato.",
+   "Correta: prescrição padrão é a que inicia um tratamento que segue até o prescritor interrompê-lo.",
+   "Com início e fim definidos, comum para antimicrobianos ambulatoriais, é a prescrição padrão com data de fechamento.",
+   "Preestabelecida, com critérios de início, decurso e conclusão, como na quimioterapia, é a baseada em protocolo.",
+   "Administrar conforme a necessidade, com intervalo mínimo e dose máxima, define a prescrição se necessário."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Acrelândia-AC 2022, Enfermeiro",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "“Posicione-se por trás e enlace a vítima com os braços ao redor do abdome, caso ela esteja consciente, uma das mãos permanece fechada sobre a região epigástrica e a outra mão comprime a primeira, ao mesmo tempo em que empurra essa região para dentro e para cima, como se quisesse levantar a vítima do chão. Faça movimentos de compressão para dentro e para cima (como uma letra “J”), até que a vítima elimine o corpo estranho.” A técnica descrita refere-se a uma ação muito usado em urgências em caso de engasgo de paciente e é denominada:",
+  "alts": [
+   "manobra de valsava.",
+   "manobra de epley.",
+   "manobra de kristeller.",
+   "manobra de heimlich.",
+   "manobra de ortolani."
+  ],
+  "gab": 3,
+  "tema": "urgencia",
+  "sub": "Emergências clínicas",
+  "cenario": "emg",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Diretrizes da American Heart Association para RCP e ACE, 2025",
+  "coment": "A técnica descrita, com o socorrista atrás da vítima consciente, punho sobre o epigástrio e compressões para dentro e para cima, é a manobra de Heimlich (compressão abdominal). Desde 2025 a AHA recomenda, no adulto consciente com obstrução grave, ciclos de 5 golpes nas costas alternados com 5 compressões abdominais até o objeto sair ou a vítima perder a consciência; em gestante avançada ou obeso usam-se compressões torácicas, e na vítima que fica irresponsiva inicia-se RCP. As demais manobras têm outros usos.",
+  "porAlt": [
+   "A manobra de Valsalva é expiração forçada com glote fechada, usada por exemplo na taquicardia supraventricular.",
+   "A manobra de Epley reposiciona otólitos na vertigem posicional paroxística benigna.",
+   "A manobra de Kristeller é pressão no fundo uterino durante o parto, prática desaconselhada.",
+   "Correta: compressões abdominais para dentro e para cima com a vítima abraçada por trás são a manobra de Heimlich.",
+   "A manobra de Ortolani pesquisa luxação congênita do quadril no recém-nascido."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Acrelândia-AC 2022, Enfermeiro",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Por meio do SIAB- Sistema de Informação da Atenção Básica obtém-se os seguintes dados, EXCETO:",
+  "alts": [
+   "cadastros de famílias.",
+   "condições de moradia.",
+   "dados de internação hospitalar.",
+   "produção da equipe de saúde da família.",
+   "composição da equipe de saúde da família."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 1.412/2013 (institui o SISAB)",
+  "coment": "O SIAB, criado em 1998 para a Saúde da Família, reunia o cadastro das famílias, as condições de moradia e saneamento, a situação de saúde acompanhada pelos agentes, a produção e a composição das equipes. Dados de internação hospitalar vêm do SIH/SUS, alimentado pela AIH, e nunca fizeram parte do SIAB. Atenção: o SIAB foi substituído pelo SISAB (Portaria GM/MS 1.412/2013), alimentado pela estratégia e-SUS APS, com prontuário eletrônico do cidadão e coleta de dados simplificada, que registra dados individualizados.",
+  "porAlt": [
+   "O cadastro das famílias era a base do SIAB, feito pelos agentes comunitários.",
+   "Condições de moradia e saneamento constavam da ficha de cadastro familiar do SIAB.",
+   "Correta: internação hospitalar é registrada no SIH/SUS, pela AIH, e não no sistema da atenção básica.",
+   "A produção da equipe de saúde da família era um dos relatórios do SIAB.",
+   "A composição da equipe de saúde da família era registrada no SIAB."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Acrelândia-AC 2022, Enfermeiro",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na avaliação de pacientes com hanseníase a classificação com base no número de lesões é suficiente para a escolha adequada do esquema terapêutico, porém, o reconhecimento das formas clínicas é de grande valor para as equipes de saúde. Na hanseníase tuberculoide:",
+  "alts": [
+   "com a evolução da doença não tratada surgem múltiplas pápulas e nódulos cutâneos, assintomáticos e de consistência firme, geralmente com coloração acastanhada ou ferruginosa.",
+   "as lesões da pele são placas com bordas nítidas, elevadas, geralmente eritematosas e micropapulosas, que surgem como lesões únicas ou em pequeno número.",
+   "quando o predomínio é da resposta humoral, as lesões surgem em grande número, podendo haver hansenomas e infiltração assimétrica dos pavilhões auriculares, destacando-se as lesões infiltradas de limites imprecisos.",
+   "as suas manifestações clínicas não se relacionam à resposta imune específica, caracterizando-se por manchas na pele, em pequeno número, mais claras que a pele ao redor (hipocrômicas), sem qualquer alteração de relevo nem da textura da pele.",
+   "o comprometimento dos nervos periféricos geralmente é múltiplo e assimétrico, muitas vezes com espessamento, dor e choque à palpação, associados à diminuição de força muscular e hipoestesia no território correspondente."
+  ],
+  "gab": 1,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Guia Prático sobre a Hanseníase, Ministério da Saúde, 2017",
+  "coment": "A classificação operacional (paucibacilar ou multibacilar) define o tratamento, mas as formas clínicas orientam o exame. Na tuberculoide, de forte resposta imune celular, as lesões são placas de bordas nítidas, elevadas, eritematosas e micropapulosas, únicas ou em pequeno número, com alteração de sensibilidade; o nervo afetado costuma ser um só, às vezes espessado. Pápulas e nódulos acastanhados são da virchowiana; lesões numerosas com hansenomas e comprometimento múltiplo e assimétrico de nervos, da dimorfa; manchas hipocrômicas planas sem relação com a resposta imune, da indeterminada.",
+  "porAlt": [
+   "Múltiplas pápulas e nódulos acastanhados ou ferruginosos descrevem a hanseníase virchowiana.",
+   "Correta: placas de bordas nítidas, elevadas, eritematosas e micropapulosas, únicas ou poucas, caracterizam a forma tuberculoide.",
+   "Predomínio de resposta humoral com lesões numerosas, hansenomas e infiltração auricular aponta para a dimorfa próxima do polo virchowiano.",
+   "Manchas hipocrômicas planas, poucas e sem relação com resposta imune específica definem a forma indeterminada.",
+   "Comprometimento neural múltiplo e assimétrico, com espessamento e dor, é típico da forma dimorfa."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Acrelândia-AC 2022, Enfermeiro",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As metas ambiciosas dos Objetivos do Desenvolvimento Sustentável, relacionadas ao fim da tuberculose como problema de saúde pública, têm exigido dos programas de controle uma nova forma de enfrentar a doença. A vacina BCG (Bacilo Calmette-Guérin) é utilizada desde a década de 1920 como medida preventiva complementar no controle da tuberculose. Sobre as indicações da vacina BCG é INCORRETO afirmar que:",
+  "alts": [
+   "para crianças expostas ao HIV é indicada a revacinação.",
+   "recém-nascidos com peso ≥ 2 kg devem ser vacinados o mais precocemente possível, de preferência na maternidade, logo após o nascimento.",
+   "crianças de até 4 anos, 11 meses e 29 dias que chegam ao serviço, ainda não vacinadas, poderão receber BCG se assintomáticas e sem sinais de imunodepressão.",
+   "a partir dos 5 (cinco) anos de idade, crianças vivendo com HIV não devem ser vacinadas, mesmo que assintomáticas e sem sinais de imunodeficiência.",
+   "para crianças expostas ao HIV administrar ao nascimento ou o mais precocemente possível."
+  ],
+  "gab": 0,
+  "tema": "imuniza",
+  "sub": "Calendário nacional de vacinação",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Instrução Normativa do Calendário Nacional de Vacinação 2026 (PNI/MS)",
+  "coment": "A BCG é dose única ao nascer, de preferência na maternidade, em RN com 2.000 g ou mais; abaixo disso, adia-se até atingir o peso. Criança não vacinada pode recebê-la até 4 anos, 11 meses e 29 dias, se assintomática e sem sinais de imunodepressão. Na criança exposta ao HIV, a IN de 2026 manda vacinar ao nascer ou o mais breve possível, e a partir de 5 anos a criança com HIV não deve ser vacinada, mesmo sem sintomas. A revacinação não é indicada em nenhum grupo; a ausência de cicatriz também não motiva nova dose.",
+  "porAlt": [
+   "Correta: não há revacinação com BCG, nem para crianças expostas ao HIV.",
+   "RN com peso igual ou maior que 2 kg deve receber a BCG ao nascer, ainda na maternidade.",
+   "A criança não vacinada pode receber BCG até 4 anos, 11 meses e 29 dias, se assintomática e sem imunodepressão.",
+   "A partir dos 5 anos, a pessoa com HIV não deve receber BCG, mesmo assintomática.",
+   "A criança exposta ao HIV deve ser vacinada ao nascer ou o mais precocemente possível."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Acrelândia-AC 2022, Enfermeiro",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A bactéria Gram-negativa, do grupo das espiroquetas, de alta patogenicidade causadora da Sífilis Congênita é:",
+  "alts": [
+   "Treponema pallidum.",
+   "Streptococcus pyogenes.",
+   "Mycobacterium tuberculosis.",
+   "Acinetobacter baumannii.",
+   "Burkholderia cepacia."
+  ],
+  "gab": 0,
+  "tema": "transmissiveis",
+  "sub": "Sífilis e outras IST",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "PCDT para Atenção Integral às Pessoas com IST, Ministério da Saúde, 2022",
+  "coment": "A sífilis, adquirida ou congênita, é causada pelo Treponema pallidum, espiroqueta de parede com estrutura de bactéria Gram-negativa, que não se cora bem pelo Gram e é visualizada em campo escuro. Na congênita, a transmissão é vertical, por via transplacentária em qualquer fase da gestação, mais provável na sífilis recente da mãe. Os demais agentes causam outras doenças: estreptococo do grupo A, Mycobacterium tuberculosis e dois bacilos Gram-negativos não fermentadores associados a infecção hospitalar.",
+  "porAlt": [
+   "Correta: o Treponema pallidum, espiroqueta, é o agente da sífilis adquirida e da congênita.",
+   "Streptococcus pyogenes é um coco Gram-positivo, causa faringite, impetigo e febre reumática.",
+   "Mycobacterium tuberculosis é bacilo álcool-ácido resistente, agente da tuberculose.",
+   "Acinetobacter baumannii é bacilo Gram-negativo não fermentador, importante em IRAS multirresistentes.",
+   "Burkholderia cepacia é bacilo Gram-negativo ligado a infecções hospitalares e à fibrose cística."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Acrelândia-AC 2022, Enfermeiro",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "É doença infecciosa febril aguda, imunoprevenível, de evolução abrupta e gravidade variável, com elevada letalidade nas suas formas graves, sendo seu agente etiológico transmitido por artrópodes, da família Culicidae:",
+  "alts": [
+   "cólera.",
+   "febre maculosa.",
+   "febre amarela.",
+   "hanseníase.",
+   "tuberculose."
+  ],
+  "gab": 2,
+  "tema": "transmissiveis",
+  "sub": "Arboviroses",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guia de Vigilância em Saúde, Ministério da Saúde, 5ª ed. revisada, 2022",
+  "coment": "A febre amarela é doença infecciosa febril aguda, imunoprevenível, de evolução abrupta e gravidade variável, com alta letalidade nas formas graves. O vírus é transmitido por mosquitos da família Culicidae: Haemagogus e Sabethes no ciclo silvestre e Aedes aegypti no ciclo urbano. A vacina é a principal medida de prevenção. Febre maculosa também é transmitida por artrópode, mas pelo carrapato Amblyomma, que não é Culicidae, e não tem vacina. Cólera tem transmissão fecal-oral; hanseníase e tuberculose, respiratória.",
+  "porAlt": [
+   "A cólera é transmitida por água e alimentos contaminados pelo Vibrio cholerae, não por mosquitos.",
+   "A febre maculosa é transmitida por carrapatos do gênero Amblyomma e não é imunoprevenível.",
+   "Correta: a febre amarela é imunoprevenível e transmitida por mosquitos Culicidae (Haemagogus, Sabethes, Aedes).",
+   "A hanseníase é doença crônica, transmitida pelas vias aéreas, sem vetor artrópode.",
+   "A tuberculose tem transmissão respiratória por aerossóis e evolução em geral crônica."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Acrelândia-AC 2022, Enfermeiro",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "É uma antropozoonose de elevada prevalência e expressiva morbimortalidade, apresenta curso clínico bifásico, composto por uma fase aguda e uma fase crônica, que pode se manifestar nas formas: indeterminada, cardíaca, digestiva ou cardiodigestiva:",
+  "alts": [
+   "febre tifoide.",
+   "doença de chagas.",
+   "febre do nilo ocidental.",
+   "malária.",
+   "leishmaniose visceral."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Guia de Vigilância em Saúde, Ministério da Saúde, 5ª ed. revisada, 2022",
+  "coment": "A doença de Chagas, causada pelo Trypanosoma cruzi, é antropozoonose de curso bifásico. A fase aguda pode ser sintomática ou não, e a crônica se apresenta nas formas indeterminada (a mais frequente), cardíaca, digestiva (megaesôfago, megacólon) ou cardiodigestiva. A transmissão é vetorial (triatomíneos), oral por alimentos contaminados, vertical, transfusional e por transplante. A fase aguda é de notificação imediata e a crônica entrou na lista nacional de notificação, hoje atualizada pela Portaria GM/MS 11.211/2026.",
+  "porAlt": [
+   "A febre tifoide é infecção aguda pela Salmonella Typhi, de transmissão fecal-oral, sem formas cardíaca ou digestiva crônicas.",
+   "Correta: fases aguda e crônica com formas indeterminada, cardíaca, digestiva ou cardiodigestiva definem a doença de Chagas.",
+   "A febre do Nilo Ocidental é arbovirose aguda, transmitida por Culex, sem fase crônica cardíaca ou digestiva.",
+   "A malária é doença febril aguda por Plasmodium, sem as formas crônicas citadas.",
+   "A leishmaniose visceral é crônica, mas cursa com febre, hepatoesplenomegalia e pancitopenia, sem forma cardíaca ou digestiva."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Acrelândia-AC 2022, Enfermeiro",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "É um indicador de saúde demográfico:",
+  "alts": [
+   "Taxa de analfabetismo.",
+   "Taxa específica de fecundidade.",
+   "Taxa de trabalho infantil.",
+   "Taxa de mortalidade neonatal tardia.",
+   "Taxa de incidência de aids."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Indicadores de saúde",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "RIPSA, Indicadores básicos para a saúde no Brasil: conceitos e aplicações, 2ª ed., 2008",
+  "coment": "A RIPSA agrupa os indicadores em demográficos, socioeconômicos, de mortalidade, de morbidade e fatores de risco, de recursos e de cobertura. A taxa específica de fecundidade, número de filhos nascidos vivos por mulher de cada faixa etária, é demográfica, como a taxa de fecundidade total, a natalidade e o índice de envelhecimento. Analfabetismo e trabalho infantil são socioeconômicos; mortalidade neonatal tardia é indicador de mortalidade; incidência de aids é de morbidade.",
+  "porAlt": [
+   "A taxa de analfabetismo é indicador socioeconômico na classificação da RIPSA.",
+   "Correta: a taxa específica de fecundidade é indicador demográfico.",
+   "A taxa de trabalho infantil é indicador socioeconômico.",
+   "A taxa de mortalidade neonatal tardia, óbitos de 7 a 27 dias, pertence aos indicadores de mortalidade.",
+   "A taxa de incidência de aids é indicador de morbidade."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Acrelândia-AC 2022, Enfermeiro",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Notificar é comunicar a ocorrência de eventos, problemas ou situações associadas a produtos e serviços. Podem ser notificados para a Anvisa eventos adversos e queixas técnicas sobre produtos e serviços relacionados à vigilância sanitária. A notificação pode ser feita online através do sistema:",
+  "alts": [
+   "e-SUS.",
+   "Intranet.",
+   "Notifica.",
+   "Plataforma Brasil.",
+   "Notivisa."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 10",
+  "coment": "O Notivisa é o sistema da ANVISA para notificar eventos adversos e queixas técnicas de produtos e serviços sujeitos à vigilância sanitária: medicamentos, produtos para saúde, sangue e hemocomponentes, cosméticos e incidentes na assistência. Pela RDC 36/2013, o Núcleo de Segurança do Paciente notifica os eventos adversos pelo Notivisa até o 15º dia útil do mês seguinte, e os que evoluem para óbito em até 72 horas. Os outros nomes são sistemas de outras finalidades.",
+  "porAlt": [
+   "O e-SUS reúne sistemas da atenção primária e da vigilância epidemiológica, não as notificações sanitárias da ANVISA.",
+   "Intranet é rede interna de uma instituição, não sistema nacional de notificação.",
+   "O e-SUS Notifica foi criado para notificar casos de síndrome gripal e covid-19, não eventos adversos de produtos.",
+   "A Plataforma Brasil é o sistema de submissão de pesquisas ao sistema CEP/CONEP.",
+   "Correta: o Notivisa é o sistema da ANVISA para eventos adversos e queixas técnicas."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Acrelândia-AC 2022, Enfermeiro",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A partir do momento em que a pessoa é infectada, ela tem a capacidade de transmitir o HIV. Durante o período de infecção recente, ou durante o estágio mais avançado da infecção com carga viral alta, existe um aumento da transmissibilidade do vírus. A replicação viral ativa e a livre circulação do vírus na corrente sanguínea causam a formação de um pico de viremia por volta de:",
+  "alts": [
+   "03 a 05 dias após a exposição ao HIV.",
+   "05 a 07 dias após a exposição ao HIV.",
+   "07 a 15 dias após a exposição ao HIV.",
+   "10 a 20 dias após a exposição ao HIV.",
+   "21 a 28 dias após a exposição ao HIV."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "HIV e aids",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "PCDT para Manejo da Infecção pelo HIV em Adultos, Ministério da Saúde, 2018",
+  "coment": "Na infecção aguda pelo HIV, a replicação viral intensa e a livre circulação do vírus no sangue formam um pico de viremia por volta de 21 a 28 dias após a exposição, quando muitos têm a síndrome retroviral aguda (febre, linfadenopatia, faringite, exantema). Nessa fase recente, e de novo na doença avançada, a carga viral alta aumenta muito a transmissibilidade. Depois do pico, a resposta imune reduz a viremia até o ponto de equilíbrio (set point). Por isso a suspeita de infecção recente pede carga viral, além dos testes de anticorpos.",
+  "porAlt": [
+   "Precoce demais: nos primeiros dias após a exposição a viremia plasmática ainda é indetectável (fase de eclipse).",
+   "Ainda é a fase inicial da infecção, antes da disseminação sistêmica que leva ao pico de viremia.",
+   "Nesse intervalo a viremia está em ascensão, mas o pico descrito pelo Ministério da Saúde vem depois.",
+   "O intervalo antecede o pico; o Ministério da Saúde situa a viremia máxima entre 21 e 28 dias.",
+   "Correta: o pico de viremia ocorre por volta de 21 a 28 dias após a exposição ao HIV."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Acrelândia-AC 2022, Enfermeiro",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o método da Política Nacional de Humanização (PNH), marque a alternativa INCORRETA.",
+  "alts": [
+   "Aposta na inclusão de trabalhadores, usuários e gestores na produção e gestão do cuidado e dos processos de trabalho.",
+   "A comunicação entre os trabalhadores e os gestores do Sistema Único de Saúde (SUS) é responsável pela provocação de movimentos de perturbação e inquietação para a PNH e, consequentemente, pelas mudanças na produção de saúde.",
+   "Humanizar se traduz como inclusão das diferenças nos processos de gestão e de cuidado.",
+   "Incluir os trabalhadores na gestão é fundamental para que eles, no dia a dia, reinventem seus processos de trabalho e sejam agentes ativos das mudanças no serviço de saúde.",
+   "Incluir usuários e suas redes sócio familiares nos processos de cuidado é um poderoso recurso para a ampliação da corresponsabilização no cuidado de si."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Política Nacional de Humanização (HumanizaSUS), folheto, Ministério da Saúde, 2013",
+  "coment": "O método da PNH é o da tríplice inclusão: de trabalhadores, usuários e gestores na produção e gestão do cuidado. O folheto de 2013 diz que a comunicação entre esses três atores do SUS provoca movimentos de perturbação e inquietação, que a PNH considera o motor das mudanças e que também devem ser incluídos como recurso. A alternativa errada restringe essa comunicação a trabalhadores e gestores, retirando o usuário, justamente o ator que a política quer incluir. As demais reproduzem o texto: humanizar é incluir as diferenças, e a inclusão de trabalhadores e usuários amplia autonomia e corresponsabilidade.",
+  "porAlt": [
+   "A PNH aposta na inclusão de trabalhadores, usuários e gestores na produção e gestão do cuidado.",
+   "Correta: a perturbação que move a mudança vem da comunicação entre os três atores, incluindo os usuários.",
+   "Humanizar, para a PNH, é incluir as diferenças nos processos de gestão e de cuidado.",
+   "A inclusão dos trabalhadores na gestão os torna agentes ativos das mudanças, como diz a política.",
+   "Incluir usuários e suas redes sociofamiliares amplia a corresponsabilização no cuidado de si."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Colíder-MT 2022, Enfermeiro",
+   "n": 11,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Na Política Nacional de Humanização, qualquer mudança na gestão e atenção é mais concreta se construída com a ampliação da autonomia e vontade das pessoas envolvidas, que compartilham responsabilidades. Neste contexto, marque a alternativa CORRETA.",
+  "alts": [
+   "Os usuários são só pacientes e devem adaptar-se ao modelo de saúde estabelecido em cada região de saúde.",
+   "Os trabalhadores não só cumprem ordens, mas também definem o melhor modelo de cuidado para os usuários.",
+   "As mudanças acontecem com o reconhecimento do papel e da definição hierárquica de cada um dos envolvidos na rede de atenção à saúde.",
+   "Um sistema de saúde humanizado reconhece cada pessoa como legítima cidadã de direitos e valoriza e incentiva sua atuação na produção de saúde.",
+   "Os gestores e trabalhadores do serviço de saúde devem compelir sua posição como protagonistas em relação à saúde da população."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Política Nacional de Humanização (HumanizaSUS), folheto, Ministério da Saúde, 2013",
+  "coment": "O princípio do protagonismo, corresponsabilidade e autonomia dos sujeitos diz que qualquer mudança na gestão e na atenção é mais concreta quando construída com a ampliação da autonomia e da vontade dos envolvidos. O texto da PNH continua: os usuários não são só pacientes, os trabalhadores não só cumprem ordens, as mudanças acontecem com o reconhecimento do papel de cada um, e um SUS humanizado reconhece cada pessoa como legítima cidadã de direitos e valoriza e incentiva sua atuação na produção de saúde. As outras alternativas distorcem esse trecho.",
+  "porAlt": [
+   "A PNH diz o oposto: os usuários não são só pacientes nem devem apenas se adaptar ao modelo.",
+   "O texto não atribui aos trabalhadores a definição do modelo de cuidado; a construção é compartilhada.",
+   "A mudança vem do reconhecimento do papel de cada um, não da definição hierárquica.",
+   "Correta: é o texto da PNH sobre o SUS humanizado, que reconhece cada pessoa como cidadã de direitos.",
+   "Gestores e trabalhadores não devem impor protagonismo; a política amplia a autonomia de todos, inclusive dos usuários."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Colíder-MT 2022, Enfermeiro",
+   "n": 12,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Marque a alternativa que corresponde a um dos princípios norteadores da Política Nacional de Humanização.",
+  "alts": [
+   "Indissociabilidade entre atenção e gestão.",
+   "Participação social.",
+   "Regionalização e hierarquização.",
+   "Atendimento das necessidades básicas.",
+   "Descentralização da atenção à saúde."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Política Nacional de Humanização (HumanizaSUS), folheto, Ministério da Saúde, 2013",
+  "coment": "A PNH tem três princípios: transversalidade, indissociabilidade entre atenção e gestão, e protagonismo, corresponsabilidade e autonomia dos sujeitos e coletivos. A indissociabilidade afirma que as decisões da gestão interferem diretamente na atenção e que trabalhadores e usuários devem conhecer e participar da gestão. Participação social, regionalização e hierarquização e descentralização são princípios ou diretrizes do SUS (Lei 8.080/1990 e Constituição), não princípios próprios da PNH.",
+  "porAlt": [
+   "Correta: a indissociabilidade entre atenção e gestão é um dos três princípios da PNH.",
+   "Participação da comunidade é diretriz do SUS na Constituição, não princípio da PNH.",
+   "Regionalização e hierarquização são princípios organizativos do SUS (Lei 8.080/1990, art. 7º).",
+   "Atendimento das necessidades básicas não consta entre os princípios da PNH.",
+   "Descentralização é diretriz do SUS, com direção única em cada esfera de governo."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Colíder-MT 2022, Enfermeiro",
+   "n": 13,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Política Nacional de Humanização tem como diretrizes gerais para a sua implantação as seguintes alternativas, EXCETO:",
+  "alts": [
+   "implantar, estimular e fortalecer Grupos de Trabalho de Humanização com plano de trabalho definido.",
+   "estimular práticas resolutivas, racionar e adequar o uso de medicamentos, eliminando ações intervencionistas desnecessárias.",
+   "viabilizar a participação dos usuários nas unidades de saúde através das conferências de saúde.",
+   "adequar os serviços ao ambiente e à cultura local, respeitando a privacidade e promovendo a ambiência acolhedora e confortável.",
+   "implementar sistema de comunicação e informação que promova o autodesenvolvimento e amplie o compromisso social dos trabalhadores de saúde."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "HumanizaSUS: documento base para gestores e trabalhadores do SUS, Ministério da Saúde, 4ª ed., 2008",
+  "coment": "Entre as diretrizes gerais de implantação, o documento base da PNH lista: implantar e fortalecer Grupos de Trabalho de Humanização com plano definido; estimular práticas resolutivas e racionalizar o uso de medicamentos, eliminando intervenções desnecessárias; adequar os serviços ao ambiente e à cultura local, com ambiência acolhedora; implementar comunicação e informação que promovam o autodesenvolvimento dos trabalhadores. A participação prevista nas unidades é a dos trabalhadores, por meio de colegiados gestores, e não a dos usuários por conferências, que são instâncias de controle social da Lei 8.142/1990.",
+  "porAlt": [
+   "Grupos de Trabalho de Humanização com plano definido são diretriz geral de implantação da PNH.",
+   "Estimular práticas resolutivas e racionalizar medicamentos, sem intervenções desnecessárias, é diretriz geral.",
+   "Correta: a diretriz é a participação dos trabalhadores nas unidades por colegiados gestores, não a de usuários por conferências.",
+   "Adequar os serviços ao ambiente e à cultura local com ambiência acolhedora é diretriz geral da PNH.",
+   "Comunicação e informação que promovam o autodesenvolvimento dos trabalhadores constam das diretrizes gerais."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Colíder-MT 2022, Enfermeiro",
+   "n": 14,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Marque a alternativa que corresponde a uma diretriz, para a implementação da Política Nacional de Humanização nos serviços de urgência e emergência.",
+  "alts": [
+   "Incentivo às práticas promocionais de saúde.",
+   "Demanda acolhida através de avaliação de risco, garantindo o acesso referenciado aos demais níveis de assistência.",
+   "Garantia de agenda extraordinária em função da análise de risco e das necessidades do usuário.",
+   "Mecanismo de escuta para a população e trabalhadores.",
+   "Plano de educação permanente para os trabalhadores."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "emg",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "HumanizaSUS: documento base para gestores e trabalhadores do SUS, Ministério da Saúde, 4ª ed., 2008",
+  "coment": "O documento base define diretrizes por nível de atenção. Para urgência e emergência, pronto-socorro, pronto-atendimento e atendimento pré-hospitalar, a primeira é a demanda acolhida por critérios de avaliação de risco, garantindo o acesso referenciado aos demais níveis de assistência; vêm também a garantia de referência e contrarreferência e a definição de protocolos clínicos. Incentivo às práticas promocionais é diretriz da atenção básica; agenda extraordinária por análise de risco, da atenção especializada; mecanismos de escuta e educação permanente constam como parâmetros da atenção hospitalar.",
+  "porAlt": [
+   "Incentivar práticas promocionais de saúde é diretriz da PNH para a atenção básica.",
+   "Correta: acolhimento com avaliação de risco e acesso referenciado é a diretriz para urgência e emergência.",
+   "Agenda extraordinária conforme análise de risco é diretriz da atenção especializada.",
+   "Mecanismos de escuta para população e trabalhadores aparecem entre os parâmetros da atenção hospitalar.",
+   "Plano de educação permanente para os trabalhadores é parâmetro da atenção hospitalar, não diretriz da urgência."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Colíder-MT 2022, Enfermeiro",
+   "n": 15,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A definição de protocolos clínicos, garantindo a eliminação de intervenções desnecessárias e respeitando a individualidade do sujeito, corresponde a um parâmetro para o acompanhamento da implementação da Política Nacional de Humanização nos seguintes níveis de atenção, EXCETO:",
+  "alts": [
+   "atenção básica.",
+   "urgência e emergência.",
+   "atendimento pré-hospitalar.",
+   "atenção especializada.",
+   "pronto socorro."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "HumanizaSUS: documento base para gestores e trabalhadores do SUS, Ministério da Saúde, 4ª ed., 2008",
+  "coment": "No documento base da PNH, a definição de protocolos clínicos que eliminem intervenções desnecessárias e respeitem a individualidade do sujeito aparece entre os parâmetros da urgência e emergência, que abrange pronto-socorro, pronto-atendimento e atendimento pré-hospitalar, e da atenção especializada. Para a atenção básica os parâmetros são outros: projetos de saúde individuais e coletivos, incentivo às práticas promocionais, formas de acolhimento e inclusão do usuário e trabalho em equipe multiprofissional com responsabilização. Por isso a exceção é a atenção básica.",
+  "porAlt": [
+   "Correta: protocolos clínicos para eliminar intervenções desnecessárias não estão entre os parâmetros da atenção básica.",
+   "A urgência e emergência tem a definição de protocolos clínicos entre seus parâmetros.",
+   "O atendimento pré-hospitalar está incluído no bloco da urgência e emergência, que traz esse parâmetro.",
+   "A atenção especializada também prevê protocolos clínicos que respeitem a individualidade do sujeito.",
+   "O pronto-socorro integra o bloco de urgência e emergência, em que o parâmetro se aplica."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Colíder-MT 2022, Enfermeiro",
+   "n": 16,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Considerando a Política Nacional de Atenção Básica, marque a alternativa que corresponde a um princípio do Sistema Único de Saúde (SUS) e da Rede de Atenção à Saúde a ser operacionalizado nesta atenção:",
+  "alts": [
+   "equidade.",
+   "resolutividade.",
+   "territorialização.",
+   "ordenação da rede.",
+   "população adscrita."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), art. 3º",
+  "coment": "A PNAB de 2017, no art. 3º, separa princípios e diretrizes. Os princípios do SUS e da RAS a serem operacionalizados na Atenção Básica são universalidade, equidade e integralidade. As diretrizes são regionalização e hierarquização, territorialização, população adscrita, cuidado centrado na pessoa, resolutividade, longitudinalidade do cuidado, coordenação do cuidado, ordenação da rede e participação da comunidade. Das alternativas, só a equidade é princípio; as outras quatro estão na lista de diretrizes.",
+  "porAlt": [
+   "Correta: equidade é princípio, ao lado de universalidade e integralidade (PNAB, art. 3º).",
+   "Resolutividade é diretriz da PNAB, não princípio.",
+   "Territorialização é diretriz da Atenção Básica, base do planejamento por território.",
+   "Ordenação da rede é diretriz: a Atenção Básica ordena os fluxos da RAS.",
+   "População adscrita é diretriz, a população vinculada a uma equipe no território."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Colíder-MT 2022, Enfermeiro",
+   "n": 21,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Política Nacional de Humanização deve se fazer presente e estar inserida em todas as políticas e programas do Sistema Único de Saúde. Neste contexto, marque a alternativa que corresponde ao princípio da transversalidade.",
+  "alts": [
+   "O usuário e sua rede sociofamiliar devem também se corresponsabilizar pelo cuidado de si nos tratamentos.",
+   "Reconhecer que as diferentes especialidades e práticas de saúde podem conversar com a experiência daquele que é assistido.",
+   "Os usuários não são só pacientes, os trabalhadores não só cumprem ordens: as mudanças acontecem com o reconhecimento do papel de cada um.",
+   "Reconhecer o que o outro traz como legítima e singular necessidade de saúde.",
+   "Criar espaços saudáveis, acolhedores e confortáveis, que respeitem a privacidade, propiciem mudanças no processo de trabalho e sejam lugares de encontro entre as pessoas."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Política Nacional de Humanização (HumanizaSUS), folheto, Ministério da Saúde, 2013",
+  "coment": "A transversalidade diz que a PNH deve estar presente em todas as políticas e programas do SUS e propõe transformar as relações de trabalho pelo aumento do contato e da comunicação entre pessoas e grupos, rompendo o isolamento e as hierarquias. O folheto de 2013 traz o trecho literal: reconhecer que as diferentes especialidades e práticas de saúde podem conversar com a experiência daquele que é assistido. As outras alternativas pertencem a outros princípios e diretrizes: corresponsabilidade, protagonismo, acolhimento e ambiência.",
+  "porAlt": [
+   "Corresponsabilização do usuário e de sua rede pelo cuidado de si liga-se ao princípio do protagonismo e da autonomia.",
+   "Correta: a conversa entre especialidades, práticas e a experiência de quem é assistido define a transversalidade.",
+   "Usuários que não são só pacientes e trabalhadores que não só cumprem ordens ilustram o protagonismo e a corresponsabilidade.",
+   "Reconhecer o que o outro traz como legítima e singular necessidade de saúde é a definição de acolhimento.",
+   "Espaços saudáveis, acolhedores e confortáveis, que respeitem a privacidade, definem a diretriz da ambiência."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Colíder-MT 2022, Enfermeiro",
+   "n": 23,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A gerência do estoque municipal de vacinas e outros insumos, incluindo o armazenamento e o transporte para seus locais de uso, de acordo com as normas vigente, é responsabilidade:",
+  "alts": [
+   "da esfera nacional.",
+   "da esfera estadual.",
+   "da esfera municipal.",
+   "das esferas municipal e estadual.",
+   "das esferas estadual e nacional."
+  ],
+  "gab": 2,
+  "tema": "imuniza",
+  "sub": "Rede de frio e conservação",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Manual de Rede de Frio do Programa Nacional de Imunizações, 5ª ed., Ministério da Saúde, 2017",
+  "coment": "A rede de frio tem instâncias com responsabilidades distintas. A esfera nacional adquire os imunobiológicos e os distribui aos estados, a estadual armazena e distribui às regionais e aos municípios, e a municipal faz a gerência do estoque municipal de vacinas e insumos, incluindo o armazenamento e o transporte até as salas de vacinação, seus locais de uso. A mesma divisão aparece nas normas de vigilância em saúde para os insumos estratégicos, em que cabe a cada esfera gerir o próprio estoque.",
+  "porAlt": [
+   "A esfera nacional adquire e distribui os imunobiológicos aos estados, não gerencia o estoque municipal.",
+   "A esfera estadual gerencia o estoque estadual e abastece municípios e regionais.",
+   "Correta: gerenciar o estoque municipal, armazenar e transportar até as salas de vacina é atribuição do município.",
+   "Estado e município têm estoques próprios; a gerência do estoque municipal não é compartilhada.",
+   "As esferas estadual e nacional não fazem o transporte até os locais de uso no município."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Prefeitura de Colíder-MT 2022, Enfermeiro",
+   "n": 24,
+   "parte": "politicas"
+  }
+ }
+]

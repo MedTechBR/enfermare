@@ -1,0 +1,1314 @@
+[
+ {
+  "q": "Considerando o diagnóstico de enfermagem “padrão respiratório ineficaz” para a situação de parada cardiorrespiratória (PCR), marque a alternativa que corresponde a uma intervenção relacionada ao diagnóstico.",
+  "alts": [
+   "Avaliar enchimento capilar.",
+   "Manter hidratação adequada.",
+   "Monitorar função renal.",
+   "Monitorar sinais e sintomas de hipotermia.",
+   "Observar mudanças de sao² e CO² na gasometria arterial."
+  ],
+  "gab": 4,
+  "tema": "sae",
+  "sub": "Resultados (NOC) e intervenções (NIC)",
+  "cenario": "emg",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NANDA-I 2024-2026 (Padrão respiratório ineficaz) e NIC, Monitorização respiratória",
+  "coment": "O diagnóstico padrão respiratório ineficaz trata de inspiração ou expiração que não proporciona ventilação adequada. A intervenção ligada a ele é a que acompanha a ventilação e a troca gasosa: na monitorização respiratória da NIC está observar as mudanças de saturação de oxigênio e de dióxido de carbono na gasometria arterial, que mostram se a ventilação está sendo efetiva. Enchimento capilar, hidratação, função renal e hipotermia cuidam de perfusão, volume e temperatura, outros diagnósticos. O texto da alternativa traz a grafia do caderno (sao² e CO²).",
+  "porAlt": [
+   "Errada: enchimento capilar avalia perfusão periférica, ligada a perfusão tissular ineficaz, não à ventilação.",
+   "Errada: manter hidratação adequada responde a volume de líquidos deficiente, não ao padrão respiratório.",
+   "Errada: monitorar função renal acompanha débito urinário e perfusão renal, sem relação direta com a ventilação.",
+   "Errada: sinais de hipotermia pertencem ao diagnóstico de termorregulação, não ao padrão respiratório ineficaz.",
+   "Correta: observar SaO2 e CO2 na gasometria é atividade de monitorização respiratória, que mede a efetividade da ventilação."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Urgência e Emergência",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A gestão de riscos compreende uma forma de abordagem aos riscos a que o paciente está submetido nos serviços de saúde. Considerando a afirmativa, marque a alternativa que corresponde a um princípio da gestão de riscos.",
+  "alts": [
+   "Considera os fatores humanos.",
+   "Trata as incertezas de forma implícita.",
+   "Não interfere na tomada de decisões.",
+   "É estática e abstrai-se de mudanças.",
+   "Define contexto e critérios."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "ABNT NBR ISO 31000:2018 (princípios da gestão de riscos); RDC ANVISA 36/2013, art. 3º",
+  "coment": "A gestão de riscos que a ANVISA adota nos serviços de saúde segue a ISO 31000. Entre os princípios está levar em conta os fatores humanos e culturais, porque comportamento, percepção e cultura da equipe mudam a chance de o risco virar incidente. Os outros princípios são o oposto do que as erradas dizem: a gestão de riscos aborda a incerteza de forma explícita, é parte da tomada de decisões e é dinâmica, reagindo às mudanças. Definir contexto e critérios é etapa do processo de gestão de riscos, não princípio.",
+  "porAlt": [
+   "Correta: considerar os fatores humanos e culturais é princípio expresso da gestão de riscos pela ISO 31000.",
+   "Errada: a gestão de riscos trata a incerteza de forma explícita, e não implícita.",
+   "Errada: a gestão de riscos faz parte da tomada de decisões e serve justamente para orientá-la.",
+   "Errada: a gestão de riscos é dinâmica e iterativa, capaz de reagir às mudanças do serviço.",
+   "Errada: estabelecer o contexto e os critérios de risco é etapa do processo, não um princípio."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Urgência e Emergência",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando o Código de Ética dos Profissionais de Enfermagem, marque a alternativa que corresponde a um direito profissional.",
+  "alts": [
+   "Exercer a profissão com justiça, compromisso, equidade, resolutividade, dignidade, competência, responsabilidade, honestidade e lealdade.",
+   "Cumprir, no prazo estabelecido, determinações, notificações, citações, convocações e intimações do sistema Cofen/Conselhos Regionais de Enfermagem.",
+   "Negar-se a ser filmado, fotografado e exposto em mídias sociais durante o desempenho de suas atividades profissionais.",
+   "Manter os dados cadastrais atualizados junto ao Conselho Regional de Enfermagem de sua jurisdição.",
+   "Prestar informações escritas e/ou verbais, completas e fidedignas, necessárias à continuidade da assistência e segurança do paciente."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), art. 21",
+  "coment": "O Código de Ética da Res. COFEN 564/2017 separa direitos (arts. 1º a 23), deveres (arts. 24 a 60) e proibições. Negar-se a ser filmado, fotografado e exposto em mídias sociais durante o desempenho das atividades profissionais é direito do art. 21. As demais alternativas estão no capítulo dos deveres: exercer com justiça e competência, cumprir prazos e convocações do Sistema Cofen/Coren, manter os dados cadastrais atualizados e prestar informações completas para a continuidade da assistência.",
+  "porAlt": [
+   "Errada: exercer a profissão com justiça, compromisso, equidade e lealdade é dever do Código, não direito.",
+   "Errada: cumprir no prazo notificações, citações e convocações do Sistema Cofen/Coren é dever profissional.",
+   "Correta: negar-se a ser filmado, fotografado e exposto em mídias sociais durante o trabalho é direito do art. 21.",
+   "Errada: manter os dados cadastrais atualizados no Coren da jurisdição é dever do profissional.",
+   "Errada: prestar informações completas e fidedignas para a continuidade da assistência é dever ligado à segurança do paciente."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Urgência e Emergência",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O tema Segurança do paciente ganhou relevância mundial a partir da divulgação do relatório do Institute of Medicine (IOM) To Err is Human. Elaborado após revisões retrospectivas de prontuários, definiu o termo evento adverso como:",
+  "alts": [
+   "uma alta incidência de erros, resultando em uma taxa de mortalidade maior do que as atribuídas aos pacientes com HIV positivo, câncer de mama ou atropelamentos.",
+   "dano causado pelo cuidado à saúde e não pela doença de base, que prolongou o tempo de permanência do paciente ou resultou em uma incapacidade presente no momento da alta.",
+   "o prolongamento do tempo de permanência dos pacientes nos hospitais, responsáveis por um grave prejuízo financeiro.",
+   "a incidência de maior complexidade nos cuidados à saúde, maior efetividade e maior potencialidade para erros.",
+   "o comprometimento da estrutura ou função do corpo e/ou qualquer efeito dele oriundo, incluindo-se doenças, lesão, sofrimento, morte ou incapacidade."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Documento de Referência para o Programa Nacional de Segurança do Paciente (MS/Fiocruz/ANVISA, 2014)",
+  "coment": "O relatório To Err is Human (IOM, 1999) partiu dos estudos de revisão retrospectiva de prontuários, como o Harvard Medical Practice Study, que definiram evento adverso como dano causado pelo cuidado à saúde, e não pela doença de base, que prolongou a internação ou deixou incapacidade presente na alta. O Documento de Referência do PNSP retoma esse histórico. A alternativa sobre comprometimento da estrutura ou função do corpo é a definição de dano da classificação da OMS e da RDC 36/2013; a de alta incidência de erros descreve um achado do relatório, não a definição.",
+  "porAlt": [
+   "Errada: a comparação com HIV, câncer de mama e atropelamentos é um achado do relatório sobre mortalidade, não a definição.",
+   "Correta: é a definição dos estudos retrospectivos: dano do cuidado, não da doença, que prolonga a internação ou deixa incapacidade na alta.",
+   "Errada: o prolongamento da permanência e o prejuízo financeiro são consequências do evento adverso, não sua definição.",
+   "Errada: a maior complexidade do cuidado explica o potencial de erro, mas não define evento adverso.",
+   "Errada: comprometimento da estrutura ou função do corpo é a definição de dano da OMS e da RDC 36/2013."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro da Qualidade",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando os atributos da qualidade na Segurança do paciente, marque a alternativa que NÃO relaciona o conceito de um destes de forma CORRETA:",
+  "alts": [
+   "efetividade: cuidado baseado no conhecimento científico para todos que dele possam se beneficiar, evitando seu uso por aqueles que provavelmente não se beneficiarão (evita subutilização e sobreutilização, respectivamente).",
+   "oportunidade: redução do tempo de espera e de atrasos potencialmente danosos tanto para quem recebe como para quem presta o cuidado.",
+   "eficiência: cuidado sem desperdício, incluindo aquele associado ao uso de equipamentos, suprimentos, ideias e energia.",
+   "equidade: cuidado respeitoso e responsivo às preferências, necessidades e valores individuais dos pacientes, e que assegura que os valores do paciente orientem todas as decisões clínicas.",
+   "segurança: evitar lesões e danos nos pacientes decorrentes do cuidado que tem como objetivo ajudá-los."
+  ],
+  "gab": 3,
+  "tema": "gestao",
+  "sub": "Qualidade, acreditação e indicadores",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Documento de Referência para o Programa Nacional de Segurança do Paciente (MS/Fiocruz/ANVISA, 2014), atributos da qualidade do IOM",
+  "coment": "Os seis atributos da qualidade do IOM, citados no Documento de Referência do PNSP, são segurança, efetividade, centralidade no paciente, oportunidade, eficiência e equidade. A alternativa D descreve a centralidade no paciente (cuidado respeitoso e responsivo às preferências, necessidades e valores do paciente) e a chama de equidade. Equidade é oferecer cuidado de igual qualidade sem variação por gênero, etnia, localização geográfica ou condição socioeconômica. As demais definições estão corretas.",
+  "porAlt": [
+   "Errada: a efetividade está bem definida, como cuidado baseado em ciência que evita subutilização e sobreutilização.",
+   "Errada: oportunidade está correta, pois trata da redução de esperas e atrasos potencialmente danosos.",
+   "Errada: eficiência está correta, como cuidado sem desperdício de equipamentos, suprimentos, ideias e energia.",
+   "Correta: o conceito descrito é o de centralidade no paciente; equidade é qualidade igual sem variar por características pessoais.",
+   "Errada: segurança está bem definida, como evitar lesões e danos causados pelo próprio cuidado."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro da Qualidade",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com a Classificação Internacional de Segurança do Paciente da Organização Mundial da Saúde, marque a alternativa que conceitua near miss:",
+  "alts": [
+   "incidente que não atingiu o paciente.",
+   "incidente com potencial dano ou lesão.",
+   "incidente que atingiu o paciente, mas não causou dano.",
+   "probabilidade de um incidente ocorrer.",
+   "incidente que resultou em dano ao paciente."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Documento de Referência para o Programa Nacional de Segurança do Paciente (MS/Fiocruz/ANVISA, 2014), conceitos da Classificação Internacional da OMS",
+  "coment": "A Classificação Internacional para a Segurança do Paciente da OMS, traduzida no Documento de Referência do PNSP, define near miss como incidente que não atingiu o paciente, por exemplo a troca de etiqueta percebida antes da administração. Incidente com potencial de dano é circunstância notificável; incidente que atingiu o paciente sem dano é incidente sem lesão; incidente com dano é evento adverso. Duas perguntas resolvem: chegou ao paciente? Se chegou, causou dano?",
+  "porAlt": [
+   "Correta: near miss é o incidente que não chegou ao paciente, interceptado antes.",
+   "Errada: incidente com potencial de dano ou lesão é a circunstância notificável.",
+   "Errada: incidente que atingiu o paciente sem causar dano é o incidente sem lesão.",
+   "Errada: a probabilidade de um incidente ocorrer é a definição de risco.",
+   "Errada: incidente que resultou em dano ao paciente é o evento adverso."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro da Qualidade",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As instituições Rede Sentinela têm como objetivo o fortalecimento das ações de vigilância sanitária e a busca contínua de uma gestão do risco sanitário a contento, com o desenvolvimento da qualidade e do aprimoramento de práticas seguras nos serviços de saúde. As instituições que desejam participar desta rede, além de terem que criar uma gerência de risco, necessitam apresentar:",
+  "alts": [
+   "um projeto de engenharia de fatores humanos.",
+   "uma política interna de hemovigilância e tecnovigilância.",
+   "um núcleo interno de epidemiologia.",
+   "uma comissão de controle de infecção.",
+   "uma política de gestão de risco."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "RDC ANVISA 51/2014 (Rede Sentinela)",
+  "coment": "A Rede Sentinela, hoje regida pela RDC ANVISA 51/2014, reúne serviços que notificam eventos adversos e queixas técnicas de produtos e atuam como observatório da vigilância sanitária. Para participar, a instituição precisa criar uma gerência de risco e apresentar uma política de gestão de risco, que dá diretriz e compromisso da direção ao trabalho dessa gerência. Hemovigilância, tecnovigilância e farmacovigilância são atividades que a gerência desenvolve, e comissão de controle de infecção é exigência geral de todo hospital, não critério de entrada na rede.",
+  "porAlt": [
+   "Errada: engenharia de fatores humanos é ferramenta de segurança, não requisito de adesão à Rede Sentinela.",
+   "Errada: hemovigilância e tecnovigilância são atividades da gerência de risco, não o documento exigido para entrar na rede.",
+   "Errada: núcleo interno de epidemiologia não é o requisito exigido das instituições da Rede Sentinela.",
+   "Errada: a comissão de controle de infecção é obrigatória para todo hospital, e não condição específica da rede.",
+   "Correta: além da gerência de risco, a instituição precisa apresentar uma política de gestão de risco."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro da Qualidade",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No atual ambiente organizacional da maioria dos hospitais, algumas mudanças são requeridas para iniciar a jornada com vistas a uma cultura da segurança. Considerando a afirmativa, marque a alternativa INCORRETA:",
+  "alts": [
+   "é necessário mudar a busca de erros como falhas individuais, para compreendê-los como causados por falhas do sistema.",
+   "é necessário mudar de um ambiente punitivo para uma cultura justa.",
+   "o cuidado deve deixar de ser centrado no médico para ser centrado no paciente.",
+   "mudar da transparência para o sigilo.",
+   "a prestação de contas é universal e recíproca, e não do topo para a base."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Documento de Referência para o Programa Nacional de Segurança do Paciente (MS/Fiocruz/ANVISA, 2014); Portaria MS 529/2013, art. 4º",
+  "coment": "O Documento de Referência do PNSP lista as mudanças para construir a cultura de segurança: entender o erro como falha do sistema e não do indivíduo, trocar o ambiente punitivo pela cultura justa, passar do cuidado centrado no médico para o centrado no paciente, sair do sigilo para a transparência e tornar a prestação de contas universal e recíproca. A alternativa D inverte o sentido: a mudança é do sigilo para a transparência, porque incidente escondido não gera aprendizado.",
+  "porAlt": [
+   "Errada: tratar o erro como falha do sistema, e não do indivíduo, é mudança recomendada.",
+   "Errada: passar do ambiente punitivo para a cultura justa é mudança recomendada.",
+   "Errada: deixar o cuidado centrado no médico e centrá-lo no paciente é mudança recomendada.",
+   "Correta: a direção está invertida; a cultura de segurança muda do sigilo para a transparência.",
+   "Errada: a prestação de contas universal e recíproca, e não só do topo para a base, é mudança recomendada."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro da Qualidade",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No Brasil, o sistema de informação para captação de eventos adversos relacionados ao processo de cuidado foi elaborado com base na Classificação Internacional para Segurança do Paciente, da Aliança Mundial para a Segurança do Paciente da Organização Mundial da Saúde (OMS). Sobre este sistema, marque a alternativa INCORRETA:",
+  "alts": [
+   "o sistema possibilita a opção da notificação por cidadãos (pacientes, familiares, acompanhantes e cuidadores) e pelos Núcleos de Segurança do Paciente.",
+   "a notificação do cidadão é voluntária, os dados sobre os notificadores são confidenciais, obedecidos aos dispositivos legais.",
+   "a notificação de eventos adversos pelo Núcleo de Segurança do Paciente à Agência Nacional de Vigilância Sanitária (Anvisa) é facultativa e a identificação do serviço de saúde é confidencial, obedecidos aos dispositivos legais.",
+   "os formulários disponibilizados para notificação de eventos adversos relacionados à assistência em saúde não necessitam da identificação do paciente que sofreu o evento adverso.",
+   "as notificações da unidade de saúde podem ser realizadas por todos os trabalhadores de saúde ao Núcleo de Segurança do Paciente."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 36/2013, arts. 7º e 10; Documento de Referência para o PNSP (MS/Fiocruz/ANVISA, 2014)",
+  "coment": "O sistema brasileiro é o Notivisa. Ele aceita notificação do cidadão, voluntária e com dados do notificador confidenciais, e do Núcleo de Segurança do Paciente. Para o NSP a notificação não é facultativa: a RDC 36/2013 atribui a ele notificar os eventos adversos ao Sistema Nacional de Vigilância Sanitária (art. 7º), mensalmente até o 15º dia útil do mês seguinte e em 72 horas se houver óbito (art. 10). A identificação do serviço é confidencial e o formulário não exige identificar o paciente.",
+  "porAlt": [
+   "Errada: o sistema realmente admite notificação por cidadãos e pelos Núcleos de Segurança do Paciente.",
+   "Errada: a notificação do cidadão é voluntária e os dados do notificador são confidenciais.",
+   "Correta: para o NSP a notificação é obrigatória (RDC 36/2013, arts. 7º e 10), não facultativa.",
+   "Errada: os formulários de eventos da assistência de fato não exigem identificar o paciente.",
+   "Errada: qualquer trabalhador de saúde pode notificar internamente ao Núcleo de Segurança do Paciente."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro da Qualidade",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando as Práticas de Segurança do Paciente e os nove certos na administração de medicamentos, marque a alternativa INCORRETA:",
+  "alts": [
+   "identificar a via de administração prescrita.",
+   "verificar se o diluente (tipo e volume) foi prescrito e se a velocidade de infusão foi estabelecida, analisando sua compatibilidade com a via de administração e com o medicamento em caso de administração por via endovenosa.",
+   "avaliar a compatibilidade do medicamento com os produtos, para a saúde, utilizados para sua administração (seringas, cateteres, sondas, equipos e outros).",
+   "esclarecer as dúvidas de legibilidade da prescrição com a supervisão de enfermagem, prescritor ou farmacêutico, previamente à administração do medicamento.",
+   "realizar a antissepsia do local da aplicação para administração de medicamentos por via parenteral."
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Vias de administração",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz, 2013; Portaria MS 2.095/2013)",
+  "coment": "O protocolo de medicamentos de 2013 detalha cada um dos nove certos. No item via certa estão identificar a via prescrita, conferir diluente, volume e velocidade de infusão, avaliar a compatibilidade com seringas, cateteres, sondas e equipos e fazer antissepsia do local na via parenteral. A banca marcou como incorreta a frase sobre dúvidas de legibilidade: o protocolo manda esclarecer a legibilidade da prescrição diretamente com o prescritor, enquanto a consulta à supervisão de enfermagem ou ao farmacêutico vale para as outras dúvidas antes de administrar. É distinção fina de texto.",
+  "porAlt": [
+   "Errada: identificar a via de administração prescrita é ação do certo da via, prevista no protocolo.",
+   "Errada: conferir diluente, volume, velocidade de infusão e compatibilidade na via endovenosa está no protocolo.",
+   "Errada: avaliar a compatibilidade com seringas, cateteres, sondas e equipos é ação prevista no protocolo.",
+   "Correta: pelo gabarito, dúvida de legibilidade da prescrição se esclarece com o prescritor, não com supervisão ou farmacêutico.",
+   "Errada: a antissepsia do local de aplicação na via parenteral consta do protocolo."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro da Qualidade",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os incidentes relacionados à assistência à saúde constituem um problema de saúde pública, necessitando de respostas efetivas e imediatas para sua redução. Neste contexto, as medidas para prevenção de lesão por pressão em serviços de saúde envolvem as seguintes ações, EXCETO:",
+  "alts": [
+   "realização de avaliação de risco de todos os pacientes, antes e durante a internação.",
+   "realização de avaliação criteriosa da pele, pelo menos a cada 48 horas, especialmente nas áreas de proeminências ósseas e, pelo menos uma vez por dia, nas regiões submetidas à pressão por dispositivos, como cateteres, tubos e drenos.",
+   "uso de colchão especial, almofadas e/ou de coxins para redistribuir a pressão.",
+   "uso de apoio (travesseiros, coxins ou espumas) na altura da panturrilha, a fim de erguer os pés e proteger os calcanhares.",
+   "hidratação diária da pele do paciente com hidratantes e umectantes."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Prevenção de quedas e de lesão por pressão",
+  "cenario": "enf",
+  "comp": "cuid",
+  "nivel": "r1",
+  "base": "Protocolo para Prevenção de Úlcera por Pressão (MS/ANVISA/Fiocruz, 2013; Portaria MS 1.377/2013)",
+  "coment": "O protocolo de 2013 organiza a prevenção em seis etapas: avaliação de risco na admissão e reavaliação diária, inspeção diária da pele, manejo da umidade, nutrição e hidratação e redistribuição da pressão. A inspeção é diária em todas as proeminências ósseas, e não a cada 48 horas; nas áreas sob dispositivos (cateteres, tubos, drenos), mais de uma vez ao dia. Superfícies de redistribuição, apoio sob a panturrilha para flutuar os calcanhares e hidratação diária da pele com hidratantes e umectantes fazem parte das medidas.",
+  "porAlt": [
+   "Errada: avaliar o risco de todos os pacientes na admissão e durante a internação é a primeira etapa do protocolo.",
+   "Correta: a inspeção da pele é diária, não a cada 48 horas, o que torna a alternativa a exceção.",
+   "Errada: colchão especial, almofadas e coxins para redistribuir a pressão são medidas previstas.",
+   "Errada: o apoio na panturrilha para erguer os pés e proteger os calcanhares é recomendação do protocolo.",
+   "Errada: a hidratação diária da pele com hidratantes e umectantes faz parte do manejo preventivo."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro da Qualidade",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A investigação epidemiológica de contatos do portador de hanseníase é uma das estratégias para identificação de novos casos. Neste contexto, o contato de hanseníase é:",
+  "alts": [
+   "toda e qualquer pessoa da família, que resida e conviva com o doente de hanseníase, no último ano que antecedeu ao diagnóstico da doença.",
+   "toda e qualquer pessoa, da família ou não, que tenha convivido com o doente de hanseníase, nos dois anos anteriores ao diagnóstico da doença.",
+   "toda e qualquer pessoa, da família ou não, que resida ou tenha residido, conviva ou tenha convivido, com o doente de hanseníase, nos seis meses anteriores ao diagnóstico da doença.",
+   "toda e qualquer pessoa, da família, que resida ou tenha residido, conviva ou tenha convivido, com o doente de hanseníase, nos sessenta dias anteriores ao diagnóstico da doença.",
+   "toda e qualquer pessoa, da família ou não, que resida ou tenha residido, conviva ou tenha convivido, com o doente de hanseníase, nos cinco anos anteriores ao diagnóstico da doença."
+  ],
+  "gab": 4,
+  "tema": "transmissiveis",
+  "sub": "Hanseníase",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Protocolo Clínico e Diretrizes Terapêuticas da Hanseníase (MS, 2022)",
+  "coment": "Pelo PCDT da Hanseníase de 2022, contato domiciliar é toda pessoa, da família ou não, que resida ou tenha residido, conviva ou tenha convivido com o doente no domicílio nos últimos cinco anos anteriores ao diagnóstico. O prazo longo acompanha o período de incubação da doença, que é de anos. Todo contato faz exame dermatoneurológico e, sem sinais de doença, recebe a BCG conforme a cicatriz e as doses anteriores. As alternativas erram pelo prazo (um ano, dois anos, seis meses, sessenta dias) ou por restringir o contato à família.",
+  "porAlt": [
+   "Errada: restringe o contato à família e usa o último ano, quando o prazo é de cinco anos.",
+   "Errada: o prazo de dois anos não é o do protocolo, que considera os últimos cinco anos.",
+   "Errada: seis meses é prazo curto demais diante da incubação longa da hanseníase.",
+   "Errada: limita à família e usa sessenta dias, sem relação com a definição do PCDT.",
+   "Correta: contato é quem reside ou residiu, convive ou conviveu com o doente nos cinco anos anteriores ao diagnóstico, da família ou não."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro da Qualidade",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São definidos como acidentes de trabalho com material biológico, aqueles que:",
+  "alts": [
+   "envolvem exposição a patógenos por meio de mordeduras humanas e mordeduras ou arranhaduras de animais, mesmo quando não envolverem a presença de sangue.",
+   "ocorrem, exclusivamente, por desconhecimento de medidas de biossegurança e de normas e procedimentos de higiene.",
+   "envolvem exposição direta ou indireta do trabalhador, independentemente da categoria profissional, a material biológico (orgânico) potencialmente contaminado por patógenos e infectantes.",
+   "estão diretamente ligados à condição sorológica do indivíduo-fonte (homem ou animal) e do acidentado (HIV+).",
+   "aconteceram devido à ocorrência de lesões provocadas por instrumentos perfurantes e/ou cortantes e causou sangramento local."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR-32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Exposição a Materiais Biológicos (Protocolo de Complexidade Diferenciada, Saúde do Trabalhador, 2006); NR 32 (Portaria MTE 485/2005)",
+  "coment": "O protocolo do MS sobre exposição a materiais biológicos define esses acidentes como os que envolvem exposição direta ou indireta do trabalhador, de qualquer categoria, a material biológico potencialmente contaminado por patógenos. O que importa é o material e o tipo de exposição, não o sangramento, a causa ou a sorologia. Mordedura sem sangue não é exposição de risco. Hoje o acidente com material biológico é agravo de notificação compulsória semanal (Portaria GM/MS 11.211/2026) e gera CAT pela NR 32, com ou sem afastamento.",
+  "porAlt": [
+   "Errada: mordedura sem presença de sangue não caracteriza exposição de risco a material biológico.",
+   "Errada: o acidente não ocorre exclusivamente por desconhecimento de biossegurança; pode acontecer com quem conhece as normas.",
+   "Correta: é a definição do protocolo: exposição direta ou indireta, de qualquer categoria, a material potencialmente contaminado.",
+   "Errada: a definição não depende da sorologia da fonte ou do acidentado; ela só muda a conduta posterior.",
+   "Errada: não se limita a perfurocortante com sangramento; inclui mucosa e pele não íntegra."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro da Qualidade",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As lesões por esforços repetitivos e os distúrbios osteomusculares relacionados ao trabalho são caracterizados como:",
+  "alts": [
+   "a ocorrência de vários sintomas, concomitantes ou não, de aparecimento insidioso, geralmente nos membros inferiores.",
+   "danos decorrentes da utilização excessiva, imposta ao sistema musculoesquelético, e da falta de tempo para recuperação.",
+   "o deslizamento concêntrico das fibras musculares, das extremidades tendíneas, em direção ao ventre muscular.",
+   "as afecções dolorosas decorrentes dos movimentos contínuos da mão.",
+   "evento súbito e inesperado devido a causas não naturais que ocorrem com o trabalhador no ambiente de trabalho ou durante o exercício das atividades laborais."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Ministério da Saúde, Dor relacionada ao trabalho: LER/DORT (Protocolo de Complexidade Diferenciada, 2012)",
+  "coment": "O protocolo do MS define LER/DORT como danos decorrentes da utilização excessiva imposta ao sistema musculoesquelético e da falta de tempo para recuperação. O quadro tem sintomas concomitantes ou não (dor, parestesia, sensação de peso, fadiga), de aparecimento insidioso, geralmente nos membros superiores, região escapular e pescoço. A alternativa A erra ao falar em membros inferiores; a E descreve acidente de trabalho típico, que é evento súbito, enquanto a LER/DORT se instala aos poucos.",
+  "porAlt": [
+   "Errada: os sintomas aparecem de forma insidiosa geralmente nos membros superiores, e não nos inferiores.",
+   "Correta: é a definição do protocolo: uso excessivo do sistema musculoesquelético sem tempo de recuperação.",
+   "Errada: o deslizamento das fibras descreve a contração muscular, não a doença ocupacional.",
+   "Errada: a LER/DORT não se restringe à mão; atinge membros superiores, ombro e pescoço.",
+   "Errada: evento súbito e inesperado no trabalho é acidente típico, oposto à instalação lenta da LER/DORT."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro da Qualidade",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A vigilância da mortalidade materna, mulher em idade fértil, infantil e fetal envolve busca ativa, notificação, investigação, análise e monitoramento de óbitos, a fim de fornecer informações essenciais para formulação de respostas baseadas em evidências. Considerando a afirmativa, são objetivos específicos desta vigilância, EXCETO:",
+  "alts": [
+   "realizar busca ativa de óbitos nas unidades notificadoras.",
+   "revisar os óbitos fetais e suas causas para captação de possíveis óbitos infantis.",
+   "identificar falhas na atenção à saúde recebida antes da morte, para apoiar medidas de aprimoramento da prestação de cuidados e responsabilização dos envolvidos.",
+   "investigar a causa de óbito e o cuidado recebido na assistência.",
+   "qualificar o registro do óbito, aumentando a precisão da causa básica de morte."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.119/2008 (vigilância do óbito materno) e Portaria GM/MS 72/2010 (óbito infantil e fetal)",
+  "coment": "A vigilância do óbito materno, de mulher em idade fértil, infantil e fetal busca, investiga e analisa os óbitos para corrigir o registro da causa básica e apontar falhas evitáveis da rede de atenção. Ela é técnica e educativa, não punitiva: os comitês de mortalidade não têm função de responsabilizar profissionais, e sua informação serve a medidas de prevenção. Por isso a exceção é a alternativa que inclui a responsabilização dos envolvidos. Busca ativa nas unidades, revisão dos óbitos fetais, investigação da causa e da assistência e qualificação do registro são objetivos da vigilância.",
+  "porAlt": [
+   "Errada: a busca ativa de óbitos nas unidades notificadoras é objetivo da vigilância.",
+   "Errada: revisar óbitos fetais para captar óbitos infantis mal classificados é objetivo da vigilância.",
+   "Correta: a vigilância identifica falhas para melhorar o cuidado, sem caráter de responsabilização ou punição.",
+   "Errada: investigar a causa do óbito e o cuidado recebido é o centro da investigação.",
+   "Errada: qualificar o registro e a precisão da causa básica é objetivo da vigilância do óbito."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro da Qualidade",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São fatores de risco associados ao diagnóstico de enfermagem risco de glicemia instável, EXCETO:",
+  "alts": [
+   "conhecimento insuficiente sobre o controle da doença.",
+   "falta de adesão ao plano de controle do diabetes.",
+   "controle ineficaz de medicamentos.",
+   "ingestão alimentar insuficiente.",
+   "volume de líquidos deficientes."
+  ],
+  "gab": 4,
+  "tema": "sae",
+  "sub": "Diagnósticos de enfermagem (NANDA-I)",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "NANDA-I, Diagnósticos de enfermagem 2024-2026 (Risco de glicemia instável)",
+  "coment": "Risco de glicemia instável é a suscetibilidade à variação da glicose fora da faixa normal. Seus fatores de risco ligam-se ao manejo da doença: conhecimento insuficiente sobre o controle, falta de adesão ao plano, controle ineficaz de medicamentos, ingestão alimentar insuficiente ou excessiva, monitorização inadequada, atividade física e estresse. Volume de líquidos deficiente é outro diagnóstico de enfermagem, do domínio da hidratação, e não aparece entre os fatores de risco desse diagnóstico, por isso é a exceção.",
+  "porAlt": [
+   "Errada: conhecimento insuficiente sobre o controle da doença é fator de risco do diagnóstico.",
+   "Errada: a falta de adesão ao plano de controle do diabetes é fator de risco listado.",
+   "Errada: o controle ineficaz de medicamentos é fator de risco do diagnóstico.",
+   "Errada: a ingestão alimentar insuficiente favorece hipoglicemia e consta entre os fatores de risco.",
+   "Correta: volume de líquidos deficiente é diagnóstico à parte, não fator de risco de glicemia instável."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro da Qualidade",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A proibição do exercício profissional da Enfermagem por um período de até 90 (noventa) dias, divulgada nas publicações oficiais do Sistema Cofen/Conselhos Regionais de Enfermagem, jornais de grande circulação e comunicada aos órgãos empregadores, consiste na:",
+  "alts": [
+   "cassação.",
+   "advertência.",
+   "multa.",
+   "censura.",
+   "suspensão."
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), art. 108, § 4º; Lei 5.905/1973, art. 18",
+  "coment": "O art. 108 do Código de Ética lista cinco penas. A suspensão (§ 4º) é a proibição do exercício por até 90 dias, divulgada nas publicações oficiais do Sistema Cofen/Coren e em jornais de grande circulação e comunicada aos empregadores. A censura é repreensão divulgada, sem proibir o exercício; a advertência verbal é admoestação reservada; a multa vai de 1 a 10 anuidades; a cassação é a perda do direito ao exercício por até 30 anos, aplicada pelo Cofen. As quatro primeiras penas são dos Conselhos Regionais.",
+  "porAlt": [
+   "Errada: cassação é a perda do direito ao exercício por até 30 anos, aplicada pelo Cofen.",
+   "Errada: advertência é admoestação reservada, registrada no prontuário do infrator, sem proibir o exercício.",
+   "Errada: multa é o pagamento de 1 a 10 vezes o valor da anuidade.",
+   "Errada: censura é repreensão divulgada nas publicações oficiais, sem afastar o profissional.",
+   "Correta: suspensão é a proibição do exercício por até 90 dias, divulgada e comunicada aos empregadores."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro da Qualidade",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o Código de Ética dos Profissionais de Enfermagem, o profissional desta área participa, como integrante da equipe de Enfermagem e de saúde, na defesa das Políticas Públicas com ênfase nas políticas de saúde que garantam, EXCETO:",
+  "alts": [
+   "universalidade de acesso.",
+   "integralidade da assistência.",
+   "resolutividade.",
+   "preservação da autonomia profissional.",
+   "participação da comunidade."
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), Princípios Fundamentais",
+  "coment": "Nos Princípios Fundamentais do Código de Ética (Res. COFEN 564/2017), o profissional participa da defesa das políticas públicas de saúde que garantam universalidade de acesso, integralidade da assistência, resolutividade, preservação da autonomia das pessoas, participação da comunidade, hierarquização e descentralização político-administrativa dos serviços. O texto fala da autonomia das pessoas, que vem do art. 7º, III, da Lei 8.080/1990, e não da autonomia profissional. A troca de uma palavra é a pegadinha.",
+  "porAlt": [
+   "Errada: universalidade de acesso está entre as garantias citadas nos princípios do Código.",
+   "Errada: integralidade da assistência consta do texto dos princípios fundamentais.",
+   "Errada: resolutividade é uma das garantias listadas no Código.",
+   "Correta: o Código fala em preservação da autonomia das pessoas, e não em autonomia profissional.",
+   "Errada: participação da comunidade está entre as garantias defendidas pelo profissional."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Núcleo de Segurança do Paciente",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O evento ou circunstância que poderia ter resultado, ou resultou, em dano desnecessário ao paciente é definido como:",
+  "alts": [
+   "dano.",
+   "incidente.",
+   "near miss.",
+   "acidente de trabalho.",
+   "gestão de risco."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Documento de Referência para o Programa Nacional de Segurança do Paciente (MS/Fiocruz/ANVISA, 2014)",
+  "coment": "Incidente é o evento ou circunstância que poderia ter resultado, ou resultou, em dano desnecessário ao paciente. É o termo guarda-chuva da classificação da OMS, adotada no Documento de Referência do PNSP: dentro dele estão a circunstância notificável, o near miss, o incidente sem lesão e o evento adverso. O \"poderia ter resultado\" inclui os que não causaram dano. Dano é o comprometimento da estrutura ou função do corpo, e gestão de risco é a aplicação sistemática de condutas para controlar riscos.",
+  "porAlt": [
+   "Errada: dano é o comprometimento da estrutura ou função do corpo, consequência e não o evento.",
+   "Correta: incidente é o evento ou circunstância que poderia resultar, ou resultou, em dano desnecessário.",
+   "Errada: near miss é o incidente que não atingiu o paciente, uma das categorias de incidente.",
+   "Errada: acidente de trabalho atinge o trabalhador, não é conceito da classificação de segurança do paciente.",
+   "Errada: gestão de risco é o processo de identificar e controlar riscos, não um evento."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Núcleo de Segurança do Paciente",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Marque a alternativa que NÃO corresponde a um objetivo específico do Programa Nacional de Segurança do Paciente:",
+  "alts": [
+   "envolver os pacientes e familiares nas ações de segurança do paciente.",
+   "ampliar o acesso da sociedade às informações relativas à segurança do paciente.",
+   "produzir, sistematizar e difundir conhecimentos sobre segurança do paciente.",
+   "fomentar a inclusão do tema segurança do paciente no ensino técnico e de graduação e pós-graduação na área da saúde.",
+   "incluir, nos processos de contratualização e avaliação de serviços, de metas, indicadores e padrões de conformidade relativos à segurança do paciente."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria MS 529/2013, arts. 3º e 5º",
+  "coment": "A Portaria MS 529/2013 lista no art. 3º os objetivos específicos do PNSP: promover iniciativas de segurança com gestão de risco e núcleos de segurança, envolver pacientes e familiares, ampliar o acesso da sociedade às informações, produzir, sistematizar e difundir conhecimentos e fomentar o tema no ensino técnico, de graduação e pós-graduação. A inclusão de metas, indicadores e padrões de conformidade nos processos de contratualização e avaliação de serviços está no art. 5º, entre as estratégias de implementação, e não entre os objetivos.",
+  "porAlt": [
+   "Errada: envolver pacientes e familiares nas ações de segurança é objetivo específico do art. 3º.",
+   "Errada: ampliar o acesso da sociedade às informações sobre segurança é objetivo do art. 3º.",
+   "Errada: produzir, sistematizar e difundir conhecimentos é objetivo específico do programa.",
+   "Errada: fomentar o tema no ensino técnico, de graduação e pós-graduação é objetivo do art. 3º.",
+   "Correta: incluir metas e indicadores na contratualização é estratégia de implementação (art. 5º), não objetivo."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Núcleo de Segurança do Paciente",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O ciclo do gerenciamento de risco refere-se ao movimento contínuo e sistemático que apresenta, respectivamente, as seguintes etapas:",
+  "alts": [
+   "comunicação, consulta, identificação das partes envolvidas, monitoramento e tratamento das ações frente aos riscos.",
+   "identificação, avaliação, monitoramento, comunicação e consultas às partes envolvidas para tratamento dos riscos.",
+   "identificação, análise, avaliação, tratamento e monitoramento das ações frente aos riscos, com a comunicação e consulta às partes envolvidas.",
+   "consulta às partes envolvidas, análise, avaliação, tratamento e monitoramento das ações frente aos riscos.",
+   "análise, comunicação, avaliação, identificação, tratamento e monitoramento das ações frente aos riscos e consulta aos órgãos competentes."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "ABNT NBR ISO 31000:2018 (processo de gestão de riscos); RDC ANVISA 36/2013, art. 3º",
+  "coment": "O processo de gestão de riscos da ISO 31000, que a ANVISA adota, segue a ordem identificação, análise, avaliação, tratamento e monitoramento dos riscos, com comunicação e consulta às partes interessadas acompanhando todas as etapas. Só se analisa o que foi identificado, só se avalia (compara com critérios e prioriza) o que foi analisado, e só então se escolhe o tratamento e se monitora. A comunicação não é etapa final nem inicial: é contínua. As erradas trocam essa ordem ou omitem etapas.",
+  "porAlt": [
+   "Errada: começa por comunicação e consulta e omite análise e avaliação do risco.",
+   "Errada: omite a análise e põe o monitoramento antes do tratamento.",
+   "Correta: identificação, análise, avaliação, tratamento e monitoramento, com comunicação e consulta contínuas.",
+   "Errada: começa pela consulta e omite a identificação, que é o primeiro passo.",
+   "Errada: coloca a análise antes da identificação, o que inverte a lógica do ciclo."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Núcleo de Segurança do Paciente",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a cultura de segurança do paciente, marque a alternativa CORRETA.",
+  "alts": [
+   "Prioriza as metas financeiras e operacionais acima da segurança.",
+   "Recompensa a identificação, a notificação e a punição pelos problemas relacionados à segurança.",
+   "A partir da ocorrência de incidentes, promove o aprendizado organizacional.",
+   "Identifica os responsáveis pelas falhas e determina o tipo de punição.",
+   "Promove o envolvimento do cidadão como o principal responsável pela sua segurança."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria MS 529/2013, art. 4º, V",
+  "coment": "A Portaria MS 529/2013 define cultura de segurança por cinco características: todos, inclusive gestores, respondem pela própria segurança e pela dos colegas, pacientes e familiares; segurança acima de metas financeiras e operacionais; identificação, notificação e resolução de problemas encorajadas e recompensadas; aprendizado organizacional a partir dos incidentes; e recursos, estrutura e responsabilização para manter a segurança. A alternativa C reproduz o aprendizado organizacional. As erradas invertem prioridades, trocam resolução por punição ou jogam a responsabilidade no cidadão.",
+  "porAlt": [
+   "Errada: a cultura de segurança prioriza a segurança acima das metas financeiras e operacionais.",
+   "Errada: recompensa identificação, notificação e resolução dos problemas, e não a punição.",
+   "Correta: promover o aprendizado organizacional a partir dos incidentes é característica do art. 4º.",
+   "Errada: buscar culpados e definir punição é marca da cultura punitiva, oposta à cultura justa.",
+   "Errada: todos respondem pela segurança, inclusive gestores; o cidadão participa, mas não é o principal responsável."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Núcleo de Segurança do Paciente",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Plano de Segurança do Paciente (PSP) deve estabelecer estratégias e ações de gestão de risco para, EXCETO:",
+  "alts": [
+   "a identificação do paciente.",
+   "a higiene das mãos.",
+   "a segurança cirúrgica.",
+   "a segurança no uso de equipamentos e materiais.",
+   "a implementação de protocolos estabelecidos pelo gestor local."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 36/2013, art. 8º",
+  "coment": "O art. 8º da RDC 36/2013 lista o que o Plano de Segurança do Paciente deve contemplar: gestão de riscos, implementação de protocolos estabelecidos pelo Ministério da Saúde, identificação do paciente, higiene das mãos, segurança cirúrgica, medicamentos, sangue e hemocomponentes, equipamentos e materiais, órteses e próteses, quedas, úlceras por pressão, IRAS, terapia nutricional, comunicação efetiva, participação do paciente e ambiente seguro. O texto da norma fala em protocolos do Ministério da Saúde, e não do gestor local, por isso a alternativa E é a exceção.",
+  "porAlt": [
+   "Errada: a identificação do paciente é item expresso do Plano de Segurança do Paciente.",
+   "Errada: a higiene das mãos consta do art. 8º da RDC 36/2013.",
+   "Errada: a segurança cirúrgica é item obrigatório do plano.",
+   "Errada: a segurança no uso de equipamentos e materiais está prevista no art. 8º.",
+   "Correta: a RDC 36/2013 exige protocolos estabelecidos pelo Ministério da Saúde, não pelo gestor local."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Núcleo de Segurança do Paciente",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a criação do Núcleo de Segurança do Paciente (NSP), marque a alternativa INCORRETA.",
+  "alts": [
+   "A direção do serviço de saúde deve constituir o NSP e nomear a sua composição.",
+   "Nos serviços públicos ambulatoriais deverá ser constituído um NSP para cada especialidade.",
+   "Para o funcionamento sistemático e contínuo do NSP a direção do serviço de saúde deve disponibilizar recursos humanos.",
+   "A direção do serviço de saúde pode utilizar a estrutura de comitês, comissões, gerências, coordenações ou núcleos já existentes para o desempenho das atribuições do NSP.",
+   "A direção do serviço de saúde deve disponibilizar um profissional responsável pelo NSP."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 36/2013, art. 4º",
+  "coment": "Pelo art. 4º da RDC 36/2013, a direção do serviço constitui o Núcleo de Segurança do Paciente, nomeia seus membros, dá autoridade e recursos humanos, financeiros e de equipamentos e indica um responsável; pode aproveitar comitês, comissões e gerências existentes. Nos serviços públicos ambulatoriais a norma permite um NSP para cada serviço ou um NSP para o conjunto deles, conforme decisão do gestor local. Não existe exigência de um núcleo por especialidade, por isso a alternativa B é a incorreta.",
+  "porAlt": [
+   "Errada: constituir o NSP e nomear sua composição cabe à direção do serviço, como diz a norma.",
+   "Correta: nos ambulatórios públicos pode haver um NSP por serviço ou um para o conjunto, nunca um por especialidade.",
+   "Errada: a direção deve disponibilizar recursos humanos para o funcionamento contínuo do núcleo.",
+   "Errada: a norma permite usar comitês, comissões ou gerências já existentes para as atribuições do NSP.",
+   "Errada: a direção deve indicar um profissional responsável pelo NSP."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Núcleo de Segurança do Paciente",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Núcleo de Segurança do Paciente deve adotar como um dos seus princípios:",
+  "alts": [
+   "a disseminação sistemática da cultura de segurança.",
+   "a prevenção de quedas dos pacientes.",
+   "a segurança nas terapias nutricionais enteral e parenteral.",
+   "a promoção do ambiente seguro.",
+   "a comunicação efetiva entre profissionais do serviço de saúde."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 36/2013, art. 5º",
+  "coment": "O art. 5º da RDC 36/2013 dá quatro princípios e diretrizes ao Núcleo de Segurança do Paciente: melhoria contínua dos processos de cuidado e do uso de tecnologias, disseminação sistemática da cultura de segurança, articulação e integração dos processos de gestão de risco e garantia das boas práticas de funcionamento do serviço. Prevenção de quedas, terapia nutricional, ambiente seguro e comunicação efetiva não são princípios: são temas que o Plano de Segurança do Paciente deve contemplar (art. 8º).",
+  "porAlt": [
+   "Correta: a disseminação sistemática da cultura de segurança é princípio do NSP (art. 5º).",
+   "Errada: prevenção de quedas é item do Plano de Segurança do Paciente, não princípio do núcleo.",
+   "Errada: segurança nas terapias nutricionais é conteúdo do plano (art. 8º), não princípio.",
+   "Errada: a promoção do ambiente seguro está entre os itens do plano, não entre os princípios.",
+   "Errada: a comunicação efetiva é item do Plano de Segurança do Paciente, não princípio do NSP."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Núcleo de Segurança do Paciente",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre os prazos para a Notificação de Incidentes Relacionados à Assistência Nacional de Vigilância Sanitária é CORRETO afirmar:",
+  "alts": [
+   "a notificação dos eventos adversos deve ser realizada mensalmente pelo Núcleo de Segurança do Paciente, até o 15º (décimo quinto) dia útil do mês subsequente ao mês de vigilância.",
+   "a notificação dos eventos adversos deve ser realizada mensalmente pelo Núcleo de Segurança do Paciente, até o 10º (décimo) dia útil do mês subsequente ao mês de vigilância.",
+   "a notificação dos eventos adversos deve ser realizada bimestralmente pelo Núcleo de Segurança do Paciente, até o 10º (décimo) dia útil do mês subsequente aos meses de vigilância.",
+   "a notificação dos eventos adversos deve ser realizada trimestralmente pelo Núcleo de Segurança do Paciente, até o 15º (décimo quinto) dia útil do mês subsequente aos meses de vigilância.",
+   "a notificação dos eventos adversos deve ser realizada mensalmente pelo Núcleo de Segurança do Paciente, até o 15º (décimo quinto) dia útil do mês de vigilância."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 10",
+  "coment": "Pelo art. 10 da RDC 36/2013, o Núcleo de Segurança do Paciente notifica os eventos adversos mensalmente, até o 15º dia útil do mês subsequente ao mês de vigilância, pelas ferramentas da ANVISA (Notivisa). O parágrafo único traz o prazo especial: evento adverso que evoluiu para óbito é notificado em até 72 horas a partir do ocorrido. As erradas trocam o dia útil (10º), a periodicidade (bimestral, trimestral) ou o mês de referência. O enunciado reproduz o texto do caderno.",
+  "porAlt": [
+   "Correta: notificação mensal pelo NSP até o 15º dia útil do mês subsequente (art. 10).",
+   "Errada: o prazo é o 15º dia útil, e não o 10º.",
+   "Errada: a periodicidade é mensal, não bimestral, e o dia útil é o 15º.",
+   "Errada: a notificação é mensal, não trimestral.",
+   "Errada: o prazo vence no mês subsequente, e não dentro do próprio mês de vigilância."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Núcleo de Segurança do Paciente",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando as medidas de prevenção das infecções da corrente sanguínea (ICS), marque a alternativa CORRETA:",
+  "alts": [
+   "o uso de luvas substitui a necessidade de higiene das mãos.",
+   "para atender à necessidade da terapia intravenosa devem ser selecionados cateteres de maior calibre e comprimento de cânula.",
+   "em adultos, as veias de escolha para canulação periférica são as de membros inferiores.",
+   "deve-se utilizar lâminas de barbear para remoção dos pelos, quando necessária.",
+   "no cuidado específico com cateteres intravasculares, a higiene das mãos deverá ser realizada antes e após tocar o sítio de inserção do cateter, bem como antes e após a inserção, remoção, manipulação ou troca de curativo."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2ª ed., 2017",
+  "coment": "O Caderno 4 da ANVISA (2017) manda higienizar as mãos antes e após tocar o sítio de inserção e antes e após inserir, remover, manipular ou trocar o curativo do cateter. As demais afirmativas contrariam o manual: luva não substitui a higiene das mãos; escolhe-se o cateter de menor calibre e comprimento que atenda à terapia, porque o maior causa flebite mecânica e obstrução do fluxo; no adulto a preferência são os membros superiores; e os pelos, quando preciso, são cortados com tricotomizador, nunca com lâmina de barbear.",
+  "porAlt": [
+   "Errada: o uso de luvas não substitui a higiene das mãos, que vem antes de calçar e depois de retirar.",
+   "Errada: deve-se escolher o menor calibre e comprimento que atenda à terapia intravenosa.",
+   "Errada: em adultos as veias de escolha são as dos membros superiores.",
+   "Errada: lâmina de barbear é contraindicada; usa-se tricotomizador elétrico ou tesoura.",
+   "Correta: higiene das mãos antes e após tocar o sítio e antes e após inserir, remover, manipular ou trocar curativo."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Núcleo de Segurança do Paciente",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Tendo em vista que crianças com tuberculose, em geral, desenvolvem a doença após contato com um adulto portador de tuberculose pulmonar ou laríngea, preconiza-se a investigação de todos os seus contatos a fim de interromper a cadeia de transmissão. São critérios de priorização para avaliação dos contatos, EXCETO:",
+  "alts": [
+   "pessoas de todas as idades com sintomas sugestivos da doença.",
+   "crianças menores de 5 anos de idade.",
+   "pessoas vivendo com HIV.",
+   "pessoas com diagnóstico de síndrome respiratória aguda grave.",
+   "pessoas portadoras de condições consideradas de alto risco, com comprometimento imunológico conhecido ou suspeito."
+  ],
+  "gab": 3,
+  "tema": "transmissiveis",
+  "sub": "Tuberculose",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Manual de Recomendações para o Controle da Tuberculose no Brasil (MS, 2ª ed., 2019)",
+  "coment": "O Manual de Tuberculose de 2019 manda avaliar os contatos de todo caso de tuberculose pulmonar ou laríngea e prioriza quatro grupos: pessoas de todas as idades com sintomas sugestivos, crianças menores de 5 anos, pessoas vivendo com HIV e pessoas com condições de alto risco ou comprometimento imunológico conhecido ou suspeito. São os que adoecem mais e mais grave após a infecção. Síndrome respiratória aguda grave não é critério de priorização da avaliação de contatos de tuberculose.",
+  "porAlt": [
+   "Errada: sintomáticos de qualquer idade são prioridade, pois podem já ter doença ativa.",
+   "Errada: crianças menores de 5 anos são prioridade, pelo risco de formas graves.",
+   "Errada: pessoas vivendo com HIV são prioridade na avaliação de contatos.",
+   "Correta: SRAG não está entre os critérios de priorização de contatos do manual.",
+   "Errada: imunocomprometidos e portadores de condições de alto risco são prioridade."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Núcleo de Segurança do Paciente",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O foco na investigação em segurança do paciente tem se concentrado nos seguintes componentes, EXCETO:",
+  "alts": [
+   "medir o dano.",
+   "manter confidencialidade.",
+   "identificar as soluções.",
+   "avaliar o impacto.",
+   "transpor a evidência em cuidados mais seguros."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Organização Mundial da Saúde, ciclo de pesquisa em segurança do paciente, citado no Documento de Referência para o PNSP (MS/Fiocruz/ANVISA, 2014)",
+  "coment": "A OMS descreve a pesquisa em segurança do paciente como ciclo de cinco componentes: medir o dano, compreender as causas, identificar as soluções, avaliar o impacto e transpor a evidência em cuidados mais seguros. Manter confidencialidade é característica de um bom sistema de notificação (Leape), não componente do foco da investigação, por isso é a exceção. A mesma questão aparece em outro cargo com \"excluir as causas\" no lugar.",
+  "porAlt": [
+   "Errada: medir o dano é o primeiro componente do ciclo de pesquisa da OMS.",
+   "Correta: manter confidencialidade é atributo do sistema de notificação, não componente da investigação.",
+   "Errada: identificar as soluções é componente do ciclo de pesquisa.",
+   "Errada: avaliar o impacto das soluções é componente do ciclo.",
+   "Errada: transpor a evidência em cuidados mais seguros fecha o ciclo de pesquisa."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Núcleo de Segurança do Paciente",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando a organização do Plano de Segurança do Paciente (PSN), marque a alternativa correspondente a um fator sistêmico contribuinte ao desenvolvimento de um incidente ou no aumento do risco de incidente.",
+  "alts": [
+   "O profissional.",
+   "O alcance de governabilidade do gestor.",
+   "O ambiente de trabalho.",
+   "A resiliência do sistema.",
+   "O paciente."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Documento de Referência para o Programa Nacional de Segurança do Paciente (MS/Fiocruz/ANVISA, 2014), fatores contribuintes",
+  "coment": "Na classificação da OMS adotada pelo Documento de Referência, os fatores contribuintes de um incidente são humanos (relacionados ao profissional), sistêmicos (ambiente de trabalho), externos (fora do controle do gestor, como legislação ou política) e relacionados ao paciente. O fator sistêmico é o ambiente de trabalho: estrutura, organização, carga, equipamentos, processos. O enunciado traz a sigla do caderno (PSN), que corresponde ao Plano de Segurança do Paciente (PSP).",
+  "porAlt": [
+   "Errada: o profissional é fator contribuinte humano, não sistêmico.",
+   "Errada: o que escapa à governabilidade do gestor define o fator externo.",
+   "Correta: o ambiente de trabalho é o fator sistêmico contribuinte da classificação.",
+   "Errada: resiliência do sistema é capacidade de reduzir danos, não fator contribuinte.",
+   "Errada: o paciente é categoria própria de fator contribuinte, não sistêmico."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Núcleo de Segurança do Paciente",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São programas e políticas do Ministério da Saúde, em parceria com as Secretarias Estaduais e Municipais de Saúde, que contribuem com o Programa Nacional de Segurança do Paciente (PNSP), EXCETO:",
+  "alts": [
+   "Programa Nacional de Avaliação de Serviços de Saúde.",
+   "Programa de Apoio ao Desenvolvimento Institucional do Sistema Único de Saúde.",
+   "Política Nacional de Humanização.",
+   "Programa de Promoção e Defesa dos Direitos Humanos.",
+   "Política Nacional de Segurança e Saúde no Trabalho."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Documento de Referência para o Programa Nacional de Segurança do Paciente (MS/Fiocruz/ANVISA, 2014)",
+  "coment": "A questão vem do Documento de Referência do PNSP, que lembra que o programa se apoia em programas e políticas já existentes do Ministério da Saúde, pactuados com estados e municípios, voltados à qualidade dos serviços: avaliação de serviços (PNASS), apoio ao desenvolvimento institucional do SUS (PROADI-SUS), humanização (PNH) e proteção da saúde de quem trabalha. Pelo gabarito oficial, um Programa de Promoção e Defesa dos Direitos Humanos não integra essa relação. Vale como memória da lista do documento, mais do que como princípio a deduzir.",
+  "porAlt": [
+   "Errada: o PNASS avalia serviços e contribui para a qualidade e a segurança do paciente.",
+   "Errada: o PROADI-SUS financia projetos de qualificação do SUS e é citado como apoio ao PNSP.",
+   "Errada: a Política Nacional de Humanização integra as políticas que contribuem com o PNSP.",
+   "Correta: o Programa de Promoção e Defesa dos Direitos Humanos não consta da relação do documento de referência.",
+   "Errada: pelo gabarito oficial, a Política Nacional de Segurança e Saúde no Trabalho integra a relação de políticas que contribuem."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Núcleo de Segurança do Paciente",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Marque a alternativa que caracteriza o evento adverso.",
+  "alts": [
+   "Incidente que resulta em dano ao paciente.",
+   "Comprometimento da estrutura ou função do corpo e/ou qualquer efeito dele oriundo.",
+   "O incidente que não atingiu o paciente.",
+   "O mínimo aceitável de risco ao paciente.",
+   "Planejamento assistencial incorreto."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 3º, IV",
+  "coment": "Pelo art. 3º da RDC 36/2013, evento adverso é o incidente que resulta em dano à saúde. A definição tem duas partes: houve incidente e houve dano. A alternativa B é a definição de dano (comprometimento da estrutura ou função do corpo e qualquer efeito dele oriundo), que é consequência; o incidente que não atinge o paciente é near miss; o mínimo aceitável de risco está na definição de segurança do paciente. Planejamento assistencial incorreto pode causar incidente, mas não define evento adverso.",
+  "porAlt": [
+   "Correta: evento adverso é o incidente que resulta em dano ao paciente (RDC 36/2013, art. 3º).",
+   "Errada: comprometimento da estrutura ou função do corpo é a definição de dano.",
+   "Errada: incidente que não atingiu o paciente é o near miss.",
+   "Errada: reduzir o risco a um mínimo aceitável define segurança do paciente.",
+   "Errada: planejamento incorreto pode originar incidente, mas não é a definição de evento adverso."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Núcleo de Segurança do Paciente",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a caracterização das infrações éticas e disciplinares, bem como a aplicação das respectivas penalidades regidas pelo Código de Ética dos Profissionais de Enfermagem, marque a alternativa INCORRETA:",
+  "alts": [
+   "O (a) Profissional de Enfermagem responde pela infração ética e/ou disciplinar, que cometer ou contribuir para sua prática, e, quando cometida(s) por outrem, dela(s) obtiver benefício.",
+   "A gravidade da infração é caracterizada por meio da análise do(s) fato(s), do(s) ato(s) praticado(s) ou ato(s) omissivo(s), e do(s) resultado(s).",
+   "A advertência verbal consiste na admoestação ao infrator, de forma reservada, que será registrada no prontuário do mesmo, na presença de duas testemunhas.",
+   "A multa consiste na obrigatoriedade de pagamento de 01 (um) a 10 (dez) vezes o valor da anuidade da categoria profissional à qual pertence o infrator, em vigor no ato do pagamento.",
+   "A censura consiste na proibição do exercício profissional da Enfermagem por um período de até 90 (noventa) dias e será divulgada nas publicações oficiais do Sistema Cofen/Conselhos Regionais de Enfermagem, jornais de grande circulação e comunicada aos órgãos empregadores."
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Código de Ética dos Profissionais de Enfermagem",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução COFEN 564/2017 (Código de Ética), arts. 103, 104 e 108; Resolução COFEN 758/2024",
+  "coment": "A alternativa E atribui à censura a definição da suspensão. Pelo art. 108 do Código, censura é repreensão divulgada nas publicações oficiais e em jornais de grande circulação (§ 3º), e suspensão é a proibição do exercício por até 90 dias, divulgada e comunicada aos empregadores (§ 4º). As demais estão corretas: responde quem comete, contribui ou se beneficia da infração (art. 103), a gravidade se mede pelo fato, pelo ato ou omissão e pelo resultado (art. 104), e a multa vai de 1 a 10 anuidades. Desde a Res. 758/2024, a advertência verbal pode ser feita em sala virtual com uma testemunha.",
+  "porAlt": [
+   "Errada: responde quem comete, contribui ou se beneficia da infração cometida por outrem (art. 103).",
+   "Errada: a gravidade é caracterizada pela análise dos fatos, atos ou omissões e resultados (art. 104).",
+   "Errada: é o texto do art. 108, § 1º; desde a Res. 758/2024 admite-se também sala virtual com uma testemunha.",
+   "Errada: a multa é de 1 a 10 vezes o valor da anuidade da categoria (art. 108, § 2º).",
+   "Correta: a proibição do exercício por até 90 dias define a suspensão, e não a censura."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (30 h)",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando as medidas de prevenção das infecções da corrente sanguínea relacionadas a cateteres, marque a alternativa INCORRETA:",
+  "alts": [
+   "No cuidado específico com cateteres intravasculares, a higiene das mãos deverá ser realizada antes e após tocar o sítio de inserção do cateter, bem como antes e após a inserção, remoção, manipulação ou troca de curativo.",
+   "Deve-se limitar no máximo a três tentativas de punção periférica por profissional e, no máximo, seis no total devido aos riscos de comprometimento do vaso, aumento dos custos e riscos de complicações.",
+   "Cateteres com menor calibre causam menos flebite mecânica e menor obstrução do fluxo sanguíneo dentro do vaso.",
+   "As veias de membros inferiores não devem ser utilizadas a menos que seja absolutamente necessário, em virtude do risco de embolias e tromboflebites.",
+   "O sítio de inserção do cateter intravascular não deverá ser tocado após a aplicação do antisséptico."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "ANVISA, Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde (Caderno 4), 2ª ed., 2017",
+  "coment": "O Caderno 4 da ANVISA (2017) limita a punção periférica a no máximo duas tentativas por profissional e quatro no total, pelo risco de lesar o vaso, aumentar custos e complicações. A alternativa B fala em três e seis, por isso é a incorreta. Estão certas a higiene das mãos em todos os momentos de manipulação do cateter, a preferência por cateter de menor calibre (menos flebite mecânica e menos obstrução do fluxo), o não uso de membros inferiores salvo necessidade, pelo risco de embolia e tromboflebite, e não tocar o sítio após a antissepsia.",
+  "porAlt": [
+   "Errada: higiene das mãos antes e após tocar o sítio e manipular o cateter é recomendação correta.",
+   "Correta: o limite é de duas tentativas por profissional e quatro no total, não três e seis.",
+   "Errada: cateter de menor calibre de fato causa menos flebite mecânica e obstrui menos o fluxo.",
+   "Errada: membros inferiores só se absolutamente necessário, pelo risco de embolia e tromboflebite.",
+   "Errada: o sítio não deve ser tocado após o antisséptico, sob pena de recontaminação."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (30 h)",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A infecção do trato urinário relacionada à assistência à saúde associada a cateter vesical é definida como:",
+  "alts": [
+   "qualquer infecção sintomática de trato urinário, em paciente em uso de cateter vesical de demora, instalado por um período maior que dois dias e que na data da infecção o paciente estava com o cateter instalado ou este havia sido removido no dia anterior.",
+   "qualquer infecção sintomática de trato urinário, em paciente que não esteja em uso de cateter vesical de demora na data da infecção, ou na condição que o cateter tenha sido removido, no mínimo, há mais de 1 (um) dia antes da data da infecção.",
+   "qualquer infecção sintomática de trato urinário, em paciente que não esteja em uso de cateter vesical de demora na data da infecção, mas que o cateter tenha sido removido, no máximo, há 1 (um) dia antes da data da infecção.",
+   "qualquer infecção sintomática ou assintomática de trato urinário, em paciente em uso de cateter vesical de demora, instalado por um período maior que 3 (três) dias e que na data da infecção o paciente estava com o cateter instalado ou este havia sido removido no dia anterior.",
+   "qualquer infecção sintomática ou assintomática de trato urinário, em paciente que não esteja em uso de cateter vesical de demora na data da infecção, mas o cateter tenha sido removido há menos de 2 (dois) dias antes da data da infecção."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Infecções relacionadas à assistência",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ANVISA, Critérios Diagnósticos de Infecção Relacionada à Assistência à Saúde (Caderno 2), 2017",
+  "coment": "Pelos critérios diagnósticos da ANVISA (2017), ITU associada a cateter vesical é a infecção sintomática do trato urinário em paciente com cateter vesical de demora instalado por mais de dois dias calendário (o dia da instalação é o D1) e que, na data da infecção, estava com o cateter ou o tinha retirado no dia anterior. As alternativas B e C descrevem a ITU não associada a cateter. Bacteriúria assintomática não entra na definição, e o prazo não é de três dias.",
+  "porAlt": [
+   "Correta: infecção sintomática com cateter por mais de dois dias, presente na data ou removido no dia anterior.",
+   "Errada: paciente sem cateter, ou com remoção há mais de um dia, define ITU não associada a cateter.",
+   "Errada: a remoção no dia anterior entra na ITU associada, e a alternativa descreve paciente sem cateter.",
+   "Errada: a definição exige infecção sintomática e cateter por mais de dois dias, não três.",
+   "Errada: a definição não inclui infecção assintomática nem o prazo de dois dias após a retirada."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (30 h)",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O foco na investigação em segurança do paciente tem se concentrado nos seguintes componentes, EXCETO:",
+  "alts": [
+   "medir o risco.",
+   "excluir as causas.",
+   "identificar as soluções.",
+   "avaliar o impacto.",
+   "transpor a evidência em cuidados mais seguros."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r3",
+  "base": "Organização Mundial da Saúde, ciclo de pesquisa em segurança do paciente, citado no Documento de Referência para o PNSP (MS/Fiocruz/ANVISA, 2014)",
+  "coment": "O ciclo de pesquisa em segurança do paciente da OMS tem cinco componentes: medir o dano, compreender as causas, identificar as soluções, avaliar o impacto e transpor a evidência em cuidados mais seguros. A pesquisa procura entender as causas para agir sobre elas, e não excluí-las da análise, por isso \"excluir as causas\" é a exceção. A alternativa A troca dano por risco; o gabarito oficial a tratou como componente válido, já que medir risco e dano é ponto de partida da investigação.",
+  "porAlt": [
+   "Errada: medir a magnitude do problema (o dano e seu risco) é o primeiro passo do ciclo, aceito pelo gabarito.",
+   "Correta: o ciclo pede compreender as causas, e não excluí-las.",
+   "Errada: identificar as soluções é componente do ciclo de pesquisa.",
+   "Errada: avaliar o impacto das soluções é componente do ciclo.",
+   "Errada: transpor a evidência em cuidados mais seguros é o último componente do ciclo."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (30 h)",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O referencial mínimo para o quadro de profissionais de enfermagem, para as 24 horas de cada Unidade de Internação, leva em consideração os seguintes critérios, EXCETO:",
+  "alts": [
+   "o Sistema de Classificação de Pacientes (SCP).",
+   "as horas de assistência de enfermagem.",
+   "a distribuição percentual do total de profissionais de enfermagem.",
+   "a proporção profissional/paciente.",
+   "a produção da unidade multiplicada pelo tempo padrão das atividades realizadas."
+  ],
+  "gab": 4,
+  "tema": "gestao",
+  "sub": "Dimensionamento de pessoal",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Parecer Normativo COFEN 1/2024, item 2 (Res. COFEN 743/2024 revogou a Res. 543/2017)",
+  "coment": "A questão usa a Res. COFEN 543/2017, cujo art. 3º dizia que o referencial mínimo para as 24 horas de cada unidade de internação considera o SCP, as horas de assistência, a distribuição percentual dos profissionais e a proporção profissional/paciente. A 543 foi revogada pela Res. 743/2024, e os parâmetros estão no Parecer Normativo COFEN 1/2024, que mantém as horas pelo SCP e a distribuição percentual. A produção da unidade multiplicada pelo tempo padrão é método das unidades de apoio, diagnóstico e terapêutica, como CME e diagnóstico por imagem, e não da internação.",
+  "porAlt": [
+   "Errada: o Sistema de Classificação de Pacientes é a base do cálculo das horas na internação.",
+   "Errada: as horas de assistência de enfermagem por tipo de cuidado entram no referencial.",
+   "Errada: a distribuição percentual dos profissionais de enfermagem é critério do referencial.",
+   "Errada: a proporção profissional/paciente constava da Res. 543/2017 e segue nas proporções mínimas do parecer.",
+   "Correta: produção vezes tempo padrão é método das unidades de apoio, como CME e imagem, não da internação."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (30 h)",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Complete a lacuna. _______________ é o principal fator de risco para o câncer de mama feminino. Marque a alternativa que completa CORRETAMENTE a lacuna acima.",
+  "alts": [
+   "A menarca precoce.",
+   "A nuliparidade.",
+   "A idade.",
+   "O uso de anticoncepcionais orais.",
+   "A história familiar."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Rastreamento do câncer de colo e de mama",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "INCA, Diretrizes para a Detecção Precoce do Câncer de Mama no Brasil (2015)",
+  "coment": "Para o INCA, a idade é o principal fator de risco do câncer de mama feminino: a incidência cresce de forma marcante a partir dos 50 anos, e por isso a mamografia de rastreamento do Ministério da Saúde se concentra nessa faixa. Menarca precoce, nuliparidade, uso de anticoncepcional e história familiar aumentam o risco, mas em proporção menor e numa parte menor das mulheres. Só a história familiar forte, com mutação genética, tem peso alto, e ela é pouco frequente.",
+  "porAlt": [
+   "Errada: menarca precoce é fator hormonal de risco, mas de menor peso que a idade.",
+   "Errada: a nuliparidade aumenta o risco, porém não é o principal fator.",
+   "Correta: a idade é o principal fator de risco, com aumento importante a partir dos 50 anos.",
+   "Errada: o anticoncepcional oral eleva pouco o risco e não é o fator principal.",
+   "Errada: a história familiar pesa, mas atinge a minoria dos casos e não supera a idade."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (30 h)",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os erros da terapia com insulina continuam sendo um fator de interferência no perfil glicêmico de pessoas com diabetes. Considerando a afirmativa, marque a alternativa INCORRETA.",
+  "alts": [
+   "Agulhas > 12 mm não devem ser usadas para aplicação de insulina, pelo alto risco de aplicação intramuscular.",
+   "Deve-se fazer assepsia com álcool 70% líquido no local escolhido para a aplicação e esperar secar.",
+   "Para pacientes que necessitam doses muito baixas de insulina ou de ajustes finos (especialmente crianças), deve-se preferir as canetas que apresentam graduação de 0,5U.",
+   "Retirar a agulha, imediatamente, do tecido subcutâneo após a aplicação de insulina, colabora para que toda a dose seja injetada, impede o refluxo no local da injeção e a saída da insulina pela agulha após a retirada.",
+   "Ao mudar o lugar das injeções, é preciso alertar o paciente para a possível variação glicêmica, necessitando de monitorização intensificada e revisão da prescrição médica."
+  ],
+  "gab": 3,
+  "tema": "farmaco",
+  "sub": "Insulinas e anticoagulantes",
+  "cenario": "aps",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Diretriz da Sociedade Brasileira de Diabetes, Técnicas de aplicação de insulina (revisão 2022)",
+  "coment": "Pela diretriz da SBD, após injetar a insulina a agulha deve permanecer no subcutâneo por alguns segundos antes de ser retirada (com a caneta, o tempo indicado pelo fabricante, em geral cerca de 10 segundos). É essa espera que garante a dose completa e evita o refluxo, por isso retirar a agulha imediatamente é a afirmativa incorreta. Estão certas: não usar agulha acima de 12 mm pelo risco de aplicação intramuscular, antissepsia com álcool 70% esperando secar, canetas com graduação de 0,5 U para doses pequenas e monitorização ao trocar o local.",
+  "porAlt": [
+   "Errada: agulhas acima de 12 mm não devem ser usadas, pelo risco de aplicação intramuscular.",
+   "Errada: a assepsia com álcool 70% esperando secar é orientação da técnica.",
+   "Errada: canetas com graduação de 0,5 U são preferidas para doses baixas e ajustes finos.",
+   "Correta: a agulha deve ficar alguns segundos no subcutâneo; retirar imediatamente causa refluxo e perda de dose.",
+   "Errada: mudar o local altera a absorção e pede monitorização mais intensa da glicemia."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (30 h)",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O diagnóstico de asma se dá mediante a identificação de critérios clínicos e funcionais, obtidos pela anamnese, exame físico e exames de função pulmonar. A probabilidade de que o paciente tenha asma é aumentada pela presença dos seguintes achados, EXCETO:",
+  "alts": [
+   "piora dos sintomas à noite ou pela manhã.",
+   "dispneia induzida pelo exercício com inspiração ruidosa.",
+   "variação da intensidade dos sintomas ao longo do tempo.",
+   "frequência maior dos sintomas na vigência de infecções virais de vias aéreas.",
+   "desencadeamento dos sintomas pela exposição a alérgenos, exercício, mudanças climáticas, riso, choro ou, ainda, por irritantes respiratórios, como fumaça ou odores fortes."
+  ],
+  "gab": 1,
+  "tema": "adulto",
+  "sub": "Doenças respiratórias",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Global Initiative for Asthma (GINA) 2026, diagnóstico; Caderno de Atenção Básica 25, Doenças Respiratórias Crônicas (MS, 2010)",
+  "coment": "Aumentam a probabilidade de asma os sintomas variáveis no tempo e na intensidade, a piora à noite ou ao acordar, a piora em infecções virais e os gatilhos como alérgenos, exercício, mudança de clima, riso, choro e irritantes. Dispneia ao exercício com inspiração ruidosa (estridor) sugere outro diagnóstico, como obstrução de vias aéreas superiores ou disfunção de cordas vocais, porque a asma é doença da expiração, com sibilos. Por isso é a exceção.",
+  "porAlt": [
+   "Errada: a piora à noite ou pela manhã aumenta a probabilidade de asma.",
+   "Correta: a inspiração ruidosa no exercício aponta para obstrução alta ou disfunção de cordas vocais, não para asma.",
+   "Errada: a variação dos sintomas ao longo do tempo é marca da asma.",
+   "Errada: a piora em infecções virais das vias aéreas aumenta a probabilidade de asma.",
+   "Errada: sintomas desencadeados por alérgenos, exercício, clima, riso, choro e irritantes reforçam o diagnóstico."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (30 h)",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Uma crise epiléptica é:",
+  "alts": [
+   "a ocorrência de crises atônicas e espasmos epilépticos ou não motoras, as clássicas crises de ausência, com intervalo menor que 24 horas.",
+   "a probabilidade de novas convulsões ocorrerem nos próximos 10 anos.",
+   "a ocorrência de pelo menos duas crises convulsivas, não provocadas, ocorrendo com intervalo maior que 24 horas.",
+   "a ocorrência de pelo menos uma crise de epilepsia.",
+   "a ocorrência transitória de sinais ou sintomas clínicos secundários a uma atividade neuronal anormal excessiva ou sincrônica."
+  ],
+  "gab": 4,
+  "tema": "adulto",
+  "sub": "Doenças neurológicas",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "International League Against Epilepsy, definição de crise epiléptica (Fisher et al., 2005) e definição clínica de epilepsia (2014)",
+  "coment": "Pela ILAE (2005), crise epiléptica é a ocorrência transitória de sinais ou sintomas decorrentes de atividade neuronal anormal excessiva ou síncrona no cérebro. É um evento. Epilepsia é a doença: pela definição clínica da ILAE de 2014, pelo menos duas crises não provocadas com mais de 24 horas de intervalo, ou uma crise com probabilidade de recorrência de pelo menos 60% nos 10 anos seguintes, ou síndrome epiléptica. As alternativas C e B misturam a definição da doença com a da crise.",
+  "porAlt": [
+   "Errada: mistura tipos de crise com intervalo menor que 24 horas, o que não define crise epiléptica.",
+   "Errada: a probabilidade de recorrência em 10 anos entra na definição de epilepsia, não de crise.",
+   "Errada: duas crises não provocadas com mais de 24 horas de intervalo definem epilepsia, não crise.",
+   "Errada: a definição é circular e confunde a crise com a doença.",
+   "Correta: crise é a ocorrência transitória de sinais ou sintomas por atividade neuronal anormal excessiva ou síncrona."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2022,
+   "prova": "Fundação iNOVA Capixaba 2022, Enfermeiro de Unidade de Internação em Clínica Médica e Cirúrgica (30 h)",
+   "n": 44,
+   "parte": "especificas"
+  }
+ }
+]
