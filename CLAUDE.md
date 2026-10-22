@@ -63,6 +63,22 @@ militares (EsFCEx 2020/2024, EAOAP 2026, Marinha CP-CSM 2021–2025), IBADE/FGV 
 2014. Cerca de 10% das reais foram descartadas na triagem (gabarito que ensina norma revogada ou duas respostas);
 motivos em `provas-reais/relatorios/*.json`. Pendências de conferência em `provas-reais/REVISAR.txt`.
 
+## Conquistas (22/10/2026)
+- Motor comum `mtconquistas.js` = cópia fiel de `~/Documents/Claude/_mtconquistas/` (não editar aqui). Emblemas e dados do
+  app em `conquistas-enfermare.js` (carregado depois do script principal; lê ST, QIDX, ER, okH, PRATICA, LEITURAS).
+- 46 emblemas em 6 famílias (sequência, questões + provas reais, acertos, domínio por tema 20+ questões e 75%+ em 15 grupos
+  das áreas da taxonomia, simulados/casos/cartões/leituras, 5 surpresas secretas). Ganho fica ganho: `ef_conq` {id: momento},
+  coleção `conq` (mapa). Primeira vez sem nada salvo: um aviso só com os que a pessoa já merecia; a primeira avaliação espera
+  a conta trazer o servidor (`MTS._sit.doServidor`, até 12 s).
+- Questões por dia saem do histórico (`ST.resp[ch].hist[].d`), sem contador novo. Dia de estudo = 5+ questões no dia OU
+  sessão concluída de cartões (fila do dia zerada) ou de caso clínico ("Salvar e voltar"), gravada em `ef_dias` (coleção
+  `dias`, mapa) por `MTConquistas.sessao()`. Ofensiva com folga (a cada 7 dias, 1 folga, máx. 2); o "dias seguidos" do
+  Início usa essa mesma conta.
+- O motor grava direto no localStorage: no `nuvem.js` as coleções `conq`/`dias` são lidas do localStorage (`DO_LS`), e o
+  `conquistas-enfermare.js` avisa `NUVEM.mudou` numa varredura de 4 s. `salva()` de resp/sim/treino/flash/lidas e o
+  `aoReceber` da conta chamam `MTConquistas.avaliar()`.
+- Painel (Desempenho): seção `#pnConqSec`/`#pnConq` logo abaixo do Resumo; CSS no fim do <style> adapta o quadro ao tema escuro.
+
 ## Fluxo de publicação
 `bash docs/publica.sh "msg"` (para no primeiro erro). Lotes em escrita: um nome por linha em
 `lotes-questoes/EM_ANDAMENTO.txt` (fora do banco e do commit). Leitura sem `_entradas_<nome>.json` fica fora do

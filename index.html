@@ -18,7 +18,7 @@ if(t==="claro"||t==="escuro")document.documentElement.setAttribute("data-tema",t
 </script>
 <!-- conta + sincronização (cópia de ~/Documents/Claude/_mtsync/mtsync.js). Síncrono no <head>:
      o portão cobre a tela antes do primeiro pixel do app e só sai com a conta confirmada. -->
-<script src="mtsync.js?v=15"></script>
+<script src="mtsync.js?v=16"></script>
 <!-- gramática visual do ecossistema: tokens da raiz do site + ícones Tabler (nunca emoji) -->
 <link rel="stylesheet" href="/_mttokens.css?v=2">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3/dist/tabler-icons.min.css">
@@ -1120,6 +1120,16 @@ label.cmp:has(>.mtt-btn){min-width:min(260px,100%);max-width:100%}
 /* enunciados das provas trazem parágrafos e afirmativas I, II, III em linhas próprias */
 .enun{white-space:pre-line}
 /* no escuro os tons são médios (texto branco >= 4,5:1; a cor contra o fundo >= 3,8:1) */
+/* Conquistas (mtconquistas.js, 22/10/2026): o motor desenha em claro; aqui ele segue o tema do app (claro e escuro).
+   Seletores com #pnConq / html na frente para vencer a folha que o motor injeta depois. */
+#pnConq .cq-b{background:var(--sup);border-color:var(--linha)}
+#pnConq .cq-b:not(.on) b,#pnConq .cq-fam,#pnConq .cq-todos summary{color:var(--ink)}
+#pnConq .cq-pi,#pnConq .cq-todos summary,#pnConq .cq-chama:not(.viva),#pnConq .cq-med:not(.on){background:var(--sup2)}
+#pnConq .cq-med:not(.on){border-color:var(--linhaF);color:var(--ink2)}
+#pnConq .cq-of>span,#pnConq .cq-cont span,#pnConq .cq-pt>span,#pnConq .cq-b>span:not(.cq-med),#pnConq .cq-fam small{color:var(--ink2)}
+#pnConq .cq-bar{background:var(--linha)}
+html .cq-card{background:var(--sup);color:var(--ink)}
+html .cq-desc,html .cq-tag{color:var(--ink2)}
 </style>
 
 <header>
@@ -1149,19 +1159,19 @@ label.cmp:has(>.mtt-btn){min-width:min(260px,100%);max-width:100%}
 </main>
 <div class="faixas" id="faixas"></div>
 
-<script src="taxonomia.js?v=15"></script>
-<script src="provas.js?v=15"></script>
-<script src="banco.js?v=15"></script>
-<script src="flash.js?v=15"></script>
-<script src="pratica.js?v=15"></script>
-<script src="leituras.js?v=15"></script>
-<script src="indice-leituras.js?v=15"></script>
+<script src="taxonomia.js?v=16"></script>
+<script src="provas.js?v=16"></script>
+<script src="banco.js?v=16"></script>
+<script src="flash.js?v=16"></script>
+<script src="pratica.js?v=16"></script>
+<script src="leituras.js?v=16"></script>
+<script src="indice-leituras.js?v=16"></script>
 <script src="/_mtacesso.js?v=1"></script>   <!-- acesso por produto comprado (raiz do site); sem checkout no planos.json, libera tudo -->
-<script src="nuvem.js?v=15"></script>
-<script src="turma.js?v=15"></script>
-<script src="mtfiltro.js?v=15"></script>
-<script src="mtsinal.js?v=15"></script>
-<script src="mterrata.js?v=15"></script>
+<script src="nuvem.js?v=16"></script>
+<script src="turma.js?v=16"></script>
+<script src="mtfiltro.js?v=16"></script>
+<script src="mtsinal.js?v=16"></script>
+<script src="mterrata.js?v=16"></script>
 <script>
 "use strict";
 const V="1.0.0", PREF="ef_";
@@ -1246,7 +1256,7 @@ const UI={banner(tipo,msg,fixa){
 
 /* ---------- blindagem de armazenamento ----------
    load() que falha TRAVA a gravação da chave: melhor não salvar do que salvar vazio por cima. */
-const CHAVES=["resp","fav","flash","erros","cfg","sim","simativo","pos","treino","atividade","lidas","contest","prog","sinal"].map(k=>PREF+k);
+const CHAVES=["resp","fav","flash","erros","cfg","sim","simativo","pos","treino","atividade","lidas","contest","prog","sinal","conq","dias"].map(k=>PREF+k);   /* conq/dias: conquistas-enfermare.js */
 const LIVROS="ef-livros-v1";   /* balde do service worker que guarda leituras e figuras */
 const ARM={
  db:null,travas:{},tsBackup:0,recuperado:null,persistOK:null,
@@ -1332,6 +1342,8 @@ function carregaEstado(){ST={
    por cada ponto de escrita. NUVEM.mudou avisa o mtsync, que compara com o que a nuvem já tem. */
 function salva(k,v){const ok=ARM.save(PREF+k,v);
   if(ok&&typeof NUVEM!=="undefined")NUVEM.mudou(k);
+  /* emblemas: responder, concluir simulado, caso, cartão ou leitura reavalia (o motor agrupa as chamadas) */
+  if(ok&&window.MTConquistas&&(k==="resp"||k==="sim"||k==="treino"||k==="flash"||k==="lidas"))MTConquistas.avaliar();
   return ok}
 /* Sinalizar questão com erro (26/09/2026). Pedido do Matheus: "está faltando um campo para sinalizar questões
    com erro". Componente compartilhado mtsinal.js (window.MTSinal; fonte única em ~/Documents/Claude/_mtsinal/,
@@ -2228,7 +2240,9 @@ function desenhaEspelho(e){
     ST.treino[e.id]={...ST.treino[e.id],nota,marcados:ks};salva("treino",ST.treino);
   };
   $$("#espelho input").forEach(i=>i.onchange=recalcula);recalcula();
-  $("#btFecharEst").onclick=()=>{ST.cfg.estacao=null;salva("cfg",ST.cfg);atividade(3);pintaPratica()};
+  $("#btFecharEst").onclick=()=>{ST.cfg.estacao=null;salva("cfg",ST.cfg);atividade(3);
+    if(window.MTConquistas)MTConquistas.sessao();   /* caso concluído: o dia conta para a sequência */
+    pintaPratica()};
 }
 
 /* ================= aba LEITURAS ================= */
@@ -2399,6 +2413,7 @@ function ajustaQuadro(){const f=$("#quadroLeitura");if(!f)return;
   f.style.height=Math.max(320,innerHeight-topo-12)+"px"}
 
 /* ================= aba CARTÕES (SM-2 enxuto) ================= */
+let CART_SESS=0;   /* cartões avaliados desde que a fila do dia abriu (conquistas) */
 function cartaoDe(i){return ST.flash[i]||(ST.flash[i]={n:0,ef:2.5,int:0,prox:dataISO()})}
 function devidos(){return FLASH.map((c,i)=>({c,i,e:cartaoDe(i)})).filter(x=>x.e.prox<=dataISO())}
 function pintaCartoes(){
@@ -2422,6 +2437,8 @@ function pintaCartoes(){
     if($("#cLimpa"))$("#cLimpa").onclick=()=>poeFcs([]);
   };
   if(!d.length){
+    /* fim da sessão de cartões (revisou pelo menos um nesta abertura): o dia conta para a sequência */
+    if(CART_SESS>0){CART_SESS=0;if(window.MTConquistas)MTConquistas.sessao()}
     $("#sec-cartoes").innerHTML=`<div class="cx"><h2 style="margin:0 0 8px">Cartões</h2>${barra}
       <p class="vazio">${fcs.length?`Nenhum cartão ${fcs.length===1?"desta área":"dessas áreas"} vence hoje.`:`Nada para revisar hoje. São ${FLASH.length} cartões no total; volte amanhã.`}</p></div>`;
     return liga();
@@ -2442,7 +2459,7 @@ function pintaCartoes(){
       <button class="bt" data-q="0" style="--ac:var(--c-vermelho)"><i class="ti ti-x"></i>errei</button>
       <button class="bt" data-q="3" style="--ac:var(--c-ambar)"><i class="ti ti-mood-empty"></i>difícil</button>
       <button class="bt" data-q="5" style="--ac:var(--c-verde)"><i class="ti ti-check"></i>fácil</button></div>`;
-    $$("[data-q]").forEach(b=>b.onclick=()=>{avaliaCartao(i,+b.dataset.q);atividade(1);pintaCartoes()});
+    $$("[data-q]").forEach(b=>b.onclick=()=>{avaliaCartao(i,+b.dataset.q);atividade(1);CART_SESS++;pintaCartoes()});
   };
 }
 function avaliaCartao(i,q){
@@ -2474,6 +2491,8 @@ function estatArea(){
 const COR_AREA=["#B0306A","#C2255C","#A61E86","#7E3A8C","#C2414F","#95506F","#9C3FB0","#8E1F47","#B4466F","#86307E","#C23A70","#7A4B8C","#A8325A","#9B3E9E","#7A6670"];   /* família rosa do Enfermare */
 const corArea=id=>COR_AREA[Math.max(0,TAX.findIndex(t=>t.id===id))%COR_AREA.length];
 function diasSeguidos(){
+  /* a sequência oficial é a das conquistas (5 questões ou uma sessão por dia, com folga semanal) */
+  const ofc=window.MTConquistas&&MTConquistas.ofensiva(); if(ofc)return ofc.atual;
   let n=0;const d=new Date();
   if(!ST.atividade[dataISO(d)])d.setDate(d.getDate()-1);
   while(ST.atividade[dataISO(d)]){n++;d.setDate(d.getDate()-1)}
@@ -2621,6 +2640,11 @@ function pintaPainel(){
     <div class="kpi"><b>${dias}</b><span>dias com estudo</span></div>
    </div>
   </div>
+  <div class="cx" id="pnConqSec">
+   <h3 style="margin:0 0 4px">Conquistas</h3>
+   <p class="mini" style="margin:0 0 14px">Um dia conta para a sequência com 5 questões ou uma sessão de cartões ou de caso clínico. A cada 7 dias você ganha uma folga para um dia sem estudo.</p>
+   <div id="pnConq"></div>
+  </div>
   <div class="cx">
    <h3 style="margin:0 0 4px">Por área</h3>
    <p class="mini">Ordenado por peso na prova, taxa de erro e questões ainda não vistas.</p>
@@ -2674,6 +2698,7 @@ function pintaPainel(){
     abreSinal(ch)}});
   /* a lista se redesenha sozinha ao tirar itens; o botão não, então confere na hora */
   if($("#btTreinarSinal"))$("#btTreinarSinal").onclick=()=>SINAL.total()?abreSinal(null):pintaPainel();
+  if(window.MTConquistas)MTConquistas.pinta();   /* quadro de emblemas (conquistas-enfermare.js) */
 }
 
 /* ================= aba AJUSTES ================= */
@@ -2781,4 +2806,6 @@ async function pintaAjustes(){
   window.__cm={ST,ARM,BANCO,BANCO_BASE,ER,QIDX,chaveQ,embaralha,espalhaTemas,irAba,estatArea,V};
 })();
 </script>
+<script src="mtconquistas.js?v=16"></script>
+<script src="conquistas-enfermare.js?v=16"></script>
 <script src="/_mtvoltar.js?v=3" defer></script>

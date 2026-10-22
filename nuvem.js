@@ -22,11 +22,16 @@ const COLECOES={
   resp:{tipo:"hist",teto:60},
   fav:{tipo:"mapa"}, flash:{tipo:"mapa"}, sinal:{tipo:"mapa"}, treino:{tipo:"mapa"}, lidas:{tipo:"mapa"}, prog:{tipo:"mapa"},
   atividade:{tipo:"soma"},
+  /* conquistas (22/10/2026): emblemas ganhos {id: momento} e sessões de cartões/casos que contam o dia {data: n}.
+     O motor (mtconquistas.js) grava direto no localStorage; por isso estas duas são lidas de lá, não do ST. */
+  conq:{tipo:"mapa"}, dias:{tipo:"mapa"},
   sim:{tipo:"lista",id:"quando",ordena:(a,b)=>String(a.quando).localeCompare(String(b.quando))},
   contest:{tipo:"lista",id:"quando",teto:60,ordena:(a,b)=>String(b.quando).localeCompare(String(a.quando))}
 };
 
 let coord=null, ultimoResumo="", resumoT=null;
+const DO_LS={conq:1,dias:1};
+function lerLS(c){try{const v=JSON.parse(localStorage.getItem(PREF+c)||"null");return v&&typeof v==="object"&&!Array.isArray(v)?v:{}}catch(e){return {}}}
 
 /* ---------- erros derivados de resp (mesma regra do registraResposta) ---------- */
 function derivaErros(resp){
@@ -142,6 +147,7 @@ function aoReceber(cols){
   if(["inicio","painel","ajustes","leituras","cartoes"].includes(aba)&&typeof PINTA!=="undefined"&&PINTA[aba])PINTA[aba]();
   /* bandeira da questão aberta acompanha o outro aparelho sem redesenhar a questão */
   if(cols.includes("sinal")&&typeof SINAL!=="undefined"&&ST.pos&&ST.pos.chq)SINAL.repinta(ST.pos.chq);
+  if(window.MTConquistas)MTConquistas.avaliar();   /* respostas de outro aparelho também contam para os emblemas */
   agendaResumo();
 }
 
@@ -186,8 +192,9 @@ function boot(){
     cores:(()=>{const c=getComputedStyle(document.documentElement);const g=k=>c.getPropertyValue(k).trim();
       return {cor:g("--brand")||"#0B6A72",sobrecor:g("--brandTxt")||"#fff",fundo:g("--papel")||"#fff",texto:g("--ink")||"#1d2433",suave:g("--ink2")||"#5b6475",borda:g("--linhaF")||"#d5d9e0",campo:g("--papel")||"#fff"}})(),
     colecoes:COLECOES,
-    ler:c=>ST[c],
-    gravar:(c,v)=>{ST[c]=v;ARM.save(PREF+c,v)},
+    ler:c=>DO_LS[c]?lerLS(c):ST[c],
+    gravar:(c,v)=>{if(DO_LS[c]){ARM.save(PREF+c,v);if(window.MTConquistas)MTConquistas.avaliar();return}
+      ST[c]=v;ARM.save(PREF+c,v)},
     aoReceber,
     legado,
     limparLocal,
